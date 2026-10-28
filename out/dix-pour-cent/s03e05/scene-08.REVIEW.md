@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Sophia, are you doing well today?' Camille warmly greets the young actress at the agency entrance. Camille uses the casual singular 'you' with 'are going', showing close familiarity.
-- 'Yes, I was passing through the neighborhood.' Sophia makes a casual excuse for dropping in unannounced. Notice how 'was passing' leads directly into the noun meaning 'neighborhood.'.
-- 'Do you have an appointment with Mathias?' Camille checks whether Mathias is expecting her. The verb meaning 'have' pairs naturally with the noun for 'appointment' in everyday conversation.
-- 'I want to speak with him about my career.' Sophia seeks strategic guidance for her upcoming roles. Notice how 'want' leads directly into the noun meaning 'career.'.
-- 'But Mathias always seems to avoid me.' Sophia vents her anxiety that Mathias is neglecting her. The short 'self' word sits right in front of the verb for 'seems', turning the action back onto the subject.
-- 'I receive no new offers.' Sophia worries about her career stalling after her movie release. Notice how 'receive' leads directly into the noun meaning 'offer.'.
-- 'He is just very stressed right now.' Camille defends her father's preoccupied demeanor. The descriptive adjective for 'stressed' agrees in gender and number with its noun.
-- 'We receive lots of fan letters!' Herve tries to cheer her up by pointing out her rising fame. Notice how 'receive' leads directly into the noun meaning 'letters'.
-- 'They only want autographed photos!' Sophia complains that male fans focus exclusively on her appearance. The verb meaning 'want' pairs naturally with the noun for 'photos' in everyday conversation.
-- 'Everyone talks about that nude scene.' Sophia laments being reduced to a single scandalous movie moment. Notice how 'speaks' leads directly into the noun meaning 'world'.
-- 'But the audience truly loved the film.' Herve reminds her of the positive critical and viewer reception. This conversational past tense combines a helper verb with the past verb form for 'loved'.
-- 'That is rather complimentary for an actress!' Herve playfully frames the public attention as a compliment. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
-- 'You will soon land a great role!' Camille encourages Sophia to stay confident and patient. French forms the near future by pairing the present tense of 'to go' directly with 'to land'.
+- 'Hello Sophia, are you doing well today?' Camille warmly greets the young actress at the agency entrance.
+- 'Yes, I was passing through the neighborhood.' Sophia makes a casual excuse for dropping in unannounced.
+- 'Do you have an appointment with Mathias?' Camille checks whether Mathias is expecting her.
+- 'I want to speak with him about my career.' Sophia seeks strategic guidance for her upcoming roles.
+- 'But Mathias always seems to avoid me.' Sophia vents her anxiety that Mathias is neglecting her.
+- 'I receive no new offers.' Sophia worries about her career stalling after her movie release.
+- 'He is just very stressed right now.' Camille defends her father's preoccupied demeanor.
+- 'We receive lots of fan letters!' Herve tries to cheer her up by pointing out her rising fame.
+- 'They only want autographed photos!' Sophia complains that male fans focus exclusively on her appearance.
+- 'Everyone talks about that nude scene.' Sophia laments being reduced to a single scandalous movie moment.
+- 'But the audience truly loved the film.' Herve reminds her of the positive critical and viewer reception.
+- 'That is rather complimentary for an actress!' Herve playfully frames the public attention as a compliment.
+- 'You will soon land a great role!' Camille encourages Sophia to stay confident and patient.

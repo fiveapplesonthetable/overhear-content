@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Either Thursday at two, or Friday at eleven.' The same little word, said twice, gives you 'either, or'. And two in the afternoon is fourteen hours again, office style.
 - 'Hello.' Camille waits politely for her turn.
 - 'Can I help you?' Sofia uses the formal 'you', the right choice with a stranger at a front desk.
-- 'I'm here to see Mathias Barneville.' The little word meaning 'to' or 'in order to' links 'here' to the plain verb 'to see'. Camille uses his full name, like a visitor would.
+- 'I'm here to see Mathias Barneville.' The little word meaning 'to' or 'in order to' links 'here' to the plain action word 'to see'. Camille uses his full name, like a visitor would.
 - 'Is he expecting you?' Literally 'he waits for you'. The formal 'you' sits before the verb.
 - 'No, but it's important.' Short and firm. Sofia has seen this many times before.
 - 'Leave your photos and your CV here.' A polite command, with the formal ending. She is sure Camille is one more young actress hoping to be discovered.
@@ -44,4 +44,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Have a seat.' Literally 'sit yourself down', a polite command you'll hear in any waiting room.
 - 'Thank you.' Camille sits down and waits.
 - 'Mathias, Camille Valentini is here.' Sofia rings through to his office.
-- 'Sorry to bother you.' Sofia apologises to her boss, so she uses the formal 'you' with him too. And the name works: Mathias agrees to see this young woman with no appointment. Here's the whole scene again. Now listen to the whole conversation one more time.
+- 'Sorry to bother you.' Sofia apologises to her boss, so she uses the formal 'you' with him too. And the name works: Mathias agrees to see this young woman with no appointment.

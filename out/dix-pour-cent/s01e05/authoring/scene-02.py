@@ -33,9 +33,9 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Come here.' The casual command of 'to come', followed by the word for 'there' or 'here'."),
-    (1, None, "'I'm going to take a shower.' The near future built with 'I go' plus the infinitive 'to take'."),
+    (1, None, "'I'm going to take a shower.' The near future built with 'I go' plus the basic form 'to take'."),
     (2, None, "'There you go. You're welcome!' In the kitchen, Colette hands Andréa a fresh slice of toast after she drops hers on the floor. Literally 'of nothing'."),
-    (3, None, "'I'm really going to be late.' Notice how the adverb 'really' sits right between 'I am going' and 'to be'."),
+    (3, None, "'I'm really going to be late.' Notice how the modifier 'really' sits right between 'I am going' and 'to be'."),
     (4, None, "'Me too.' The stressed pronoun for 'me' with the word for 'also'."),
     (5, None, "'Where were you? You weren't answering your phone.' Outside on the street, Gabriel rushes up to Andréa using the imperfect past tense for what was happening."),
     (6, None, "'There was a crisis on the film shoot!' The past tense of 'there is', literally 'it has had a drama on the shoot'."),

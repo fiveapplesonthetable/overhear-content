@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, it's working fine.' The verb here is 'to walk', which in French also means 'to work', for machines and for plans. Then he looks at her copies like an art critic.
 - 'The contrast is really good.' It's a joke, of course: he's flirting. And he already knows who she is.
 - 'You're Camille, right?' The tag at the end, literally 'it's that?', turns any sentence into a check. He uses the casual 'you' straight away, which is very him.
-- 'Yes. Do you work here?' She answers in the casual form too. A question can be just a sentence with a rising voice.
+- 'Yes. Do you work here?' She answers in the casual form too.
 - 'I've never seen you.' The negative is wrapped around the helper verb: not, have, never, then 'seen'. The little word for 'you' loses its vowel before the verb.
 - 'I'm an actor. Hippolyte Rivière.' Notice: no word for 'an'. For a job, French just says 'I am actor'.
 - 'Haven't you seen me in Andréa's files?' A negative question. And now listen to how Camille answers it.
@@ -46,6 +46,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Start by relaxing.' A casual command: start, then 'by relaxing yourself'.
 - 'Will you come for a coffee on the terrace?' The French love a coffee outside at a little café table. And Camille gives the answer Andréa taught her.
 - 'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman.
-- 'You need an appointment.' This phrase means 'it is necessary', 'one needs'. Put a thing after it, or a verb, and you have a rule. He takes it well.
+- 'You need an appointment.' This phrase means 'it is necessary', 'one needs'.
 - 'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no.
 - 'Have a nice day.' Camille's last word, polite and a little cool. But something tells us we'll see him again. Right, let's hear them once more, start to finish.

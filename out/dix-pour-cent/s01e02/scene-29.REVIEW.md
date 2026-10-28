@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I really like you!' Word for word, 'you please me really'. In French the person you like is the subject of the sentence. Camille pulls back.
-- 'No, someone's going to come in!' The verb 'to go' plus another verb gives you the near future, just like 'going to' in English.
+- 'No, someone's going to come in!' The action word 'to go' plus another action word gives you the near future, just like 'going to' in English.
 - 'Nobody's going to come in.' Here the word for 'nobody' comes first, and the little negative word follows it. Camille stops him.
 - 'Wait.' A casual command, said to one person. Then she confesses something.
 - 'I don't really remember.' The verb 'to remember' comes with a little word for 'myself', and the negative wraps around both.
@@ -45,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You fell asleep in two seconds.' Again 'to be' in the past, and again a feminine ending, because it's Camille who fell asleep.
 - 'Really?' She can hardly believe it.
 - 'Yes, really.' He just repeats her word, a little vexed.
-- 'Thank you!' Here, Hippolyte thinks it's a strange answer. But we know why she's so relieved: he's her half-brother, and nothing happened. Here's the whole scene once more. Now hear the entire conversation again from the top.
+- 'Thank you!' Here, Hippolyte thinks it's a strange answer. But we know why she's so relieved: he's her half-brother, and nothing happened.

@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everyone is here.' Literally 'all the world is here'. Gabriel means the journalist, the photographer, the make-up people, all waiting.
 - 'Oh no! I'm late.' In the show she says something much ruder; here she keeps it clean.
 - 'You can ride, can't you?' The small word at the end turns a statement into a worried check. The American film people insisted that the actress must be good on a horse.
-- 'Yes, yes. I just need a little lesson.' The word for 'just' slips in after the verb. She sounds a lot less sure than she wants to.
+- 'Yes, yes. I just need a little lesson.' The word for 'just' slips in after the action word. She sounds a lot less sure than she wants to.
 - 'Can I trust you?' Again the polite 'you', tucked in before the verb. Gabriel is getting anxious.
 - 'I've almost got it.' Literally 'I'm almost at the point'. Then she gets off the phone in a hurry, because the horse is heading into the woods.
 - 'I'll call you back.' A sentence you'll hear all the time in an agency where everybody is on the phone. Gabriel has one last question.
@@ -48,5 +48,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's Tarantino's next film.' Cécile can't resist telling her, off the record of course.
 - 'Fantastic!' The same word as in English, with a French accent. But at that very moment, Gabriel's phone buzzes with a message.
 - 'Tarantino won't take Cécile.' The two little negative words wrap around the verb, here a verb in the future.
-- 'A problem with her age.' In response, Cécile is in her early forties, and Hollywood has decided that is too old. Gabriel reads it under his breath, goes pale, and says nothing to her.
+- 'A problem with her age.' Here, Cécile is in her early forties, and Hollywood has decided that is too old. Gabriel reads it under his breath, goes pale, and says nothing to her.
 - 'It's like a dream for me.' Cécile says it to the journalist, happy and unaware, while her agent stands right there holding the bad news. Now let's hear the whole scene again, from the phone call to the photo shoot.

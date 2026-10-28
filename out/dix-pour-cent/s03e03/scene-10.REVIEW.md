@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Above all, do not suck in your stomach!' The costumer gives practical advice during fitting. The two-part French negation brackets the verb for 'suck in' on both sides.
-- 'Afterwards, the trousers will be too tight.' She explains the physical consequence. Notice how 'will be' leads directly into the noun meaning 'costume trousers'.
-- 'I am not sucking in my stomach.' Gerard defends his natural physique. The two-part French negation brackets the verb for 'am sucking in' on both sides.
-- 'Relax your muscles, please.' Emma gently insists on a relaxed stance. The short 'self' word sits right in front of the verb for 'loosen', turning the action back onto the subject.
-- 'Very good, it is perfect like that.' She completes the waist measurement. The descriptive adjective for 'flawless' agrees in gender and number with its noun.
-- 'But that is truly ridiculous!' Mathias reacts with shock over the phone. Notice how the short vowel drops before a vowel sound around 'pure nonsense', making the phrase flow smoothly as one unit.
-- 'The intended role was very modest.' Mathias recalls the original casting plan. This conversational past tense combines a helper verb with the past verb form for 'planned'.
-- 'He only had three lines!' He stresses how minor the part was supposed to be. Notice how 'had' leads directly into the noun meaning 'spoken lines'.
-- 'It is a role way too big for him.' Mathias fears the audition is out of proportion. The descriptive adjective for 'heavy' agrees in gender and number with its noun.
-- 'He has never done anything before.' He points out the newcomer's total lack of experience. The clause hinges on the everyday verb meaning 'has'.
-- 'He is going to crash and burn completely!' Mathias worries about a devastating failure. The clause hinges on the everyday verb meaning 'is going'.
-- 'I am the one who introduced him to the director.' Mathias worries about his own reputation. This conversational past tense combines a helper verb with the past verb form for 'introduced'.
-- 'Call me back as soon as you have news.' He demands prompt updates on the audition results. The verb meaning 'call back' pairs naturally with the noun for 'updates' in everyday conversation.
-- 'Emma, can I see you for two minutes?' Gerard calls over the designer for a private word. The formal 'you' pronoun sets a courteous, professional distance around 'can'.
-- 'Yes, of course, Gerard, I am coming right away.' Emma readily agrees to step aside with the star. The clause hinges on the everyday verb meaning 'am coming'. Now let's hear the whole conversation again.
+- 'Above all, do not suck in your stomach!' The costumer gives practical advice during fitting.
+- 'Afterwards, the trousers will be too tight.' She explains the physical consequence.
+- 'I am not sucking in my stomach.' Gerard defends his natural physique.
+- 'Relax your muscles, please.' Emma gently insists on a relaxed stance.
+- 'Very good, it is perfect like that.' She completes the waist measurement.
+- 'But that is truly ridiculous!' Mathias reacts with shock over the phone.
+- 'The intended role was very modest.' Mathias recalls the original casting plan.
+- 'He only had three lines!' He stresses how minor the part was supposed to be.
+- 'It is a role way too big for him.' Mathias fears the audition is out of proportion.
+- 'He has never done anything before.' He points out the newcomer's total lack of experience.
+- 'He is going to crash and burn completely!' Mathias worries about a devastating failure.
+- 'I am the one who introduced him to the director.' Mathias worries about his own reputation.
+- 'Call me back as soon as you have news.' He demands prompt updates on the audition results.
+- 'Emma, can I see you for two minutes?' Gerard calls over the designer for a private word.
+- 'Yes, of course, Gerard, I am coming right away.' Emma readily agrees to step aside with the star. Now listen to the whole scene again at normal speed, and see how much more you catch.

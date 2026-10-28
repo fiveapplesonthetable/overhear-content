@@ -32,7 +32,7 @@ STORY = [
     ('camille', 'Je veux juste mon contrat de travail!', 'I just want my employment contract!', [(133, "Je n'ai pas de contrat !")], ''),
 ]
 WALK = [
-    (0, None, "'Mathias, can you sign my employment contract?' Notice how the verb for 'can you' leads straight into 'employment'."),
+    (0, None, "'Mathias, can you sign my employment contract?' A direct request asking for managerial contract renewal."),
     (1, None, "'Sorry Camille, I really do not have time.' A hurried brush-off avoiding immediate workplace commitment."),
     (2, None, "'It is to extend my contract at the agency.' Camille clarifies the administrative purpose."),
     (3, None, "'Is it not for Andréa to sign?' Mathias deflects responsibility back to her direct supervisor."),
@@ -41,7 +41,7 @@ WALK = [
     (6, None, "'But I have no official contract now.' Anxious insistence highlighting legal vulnerability."),
     (7, None, "'Nobody at the agency wants your departure.' Reassurance that her employment is valued."),
     (8, None, "'Then I am going to ask Hicham directly.' A bold threat to escalate the matter to the majority owner."),
-    (9, None, "'No, especially not, Hicham is very impulsive.' The key word here means 'especially', paired with 'hasty' to make the point clear."),
+    (9, None, "'No, especially not, Hicham is very impulsive.' A paternal warning against provoking the volatile boss."),
     (10, None, "'The affair with Isabelle Adjani annoyed him.' Mathias cites current executive irritation."),
     (11, None, "'How can I live without a salary here?' A blunt practical question about daily livelihood."),
     (12, None, "'Look, how much money do you need?' Mathias instinctively offers financial assistance."),

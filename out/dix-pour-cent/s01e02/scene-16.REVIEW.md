@@ -47,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All of you, and my actors.' The agency is her whole life.
 - 'Thank you, Arlette.' Andréa is touched.
 - 'Do you need to pee, Jean Gabin?' Literally 'do you want to do pee-pee?', the way you'd talk to a child, or a dog.
-- 'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses with customers. So the tender moment ends with a puddle on the terrace. Now the whole breakfast once more, in French. Let's listen to the whole scene once more without interruption.
+- 'Wait, he's peeing!' Too late. The waiter's command uses the formal 'you', the polite form a waiter uses with customers. So the tender moment ends with a puddle on the terrace.

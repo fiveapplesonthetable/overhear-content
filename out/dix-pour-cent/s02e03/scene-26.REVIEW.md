@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, are you still awake?' The key word here means 'are', paired with 'awake' to make the point clear.
-- 'I am not sleeping. You must not play here.' The verb meaning 'am sleeping' anchors the whole remark.
-- 'Can we go for a spin in the car?' Listen for the expression meaning 'can', which leads naturally into 'car'.
-- 'No spin, it is not your car.' Norman pairs the verb meaning 'is' with the noun for 'car'.
-- 'It is my father's, he agrees!' Elvis pairs the verb meaning 'it is' with the noun for 'father'.
-- 'Oh no, not at all, go to bed.' The key word here means 'no', paired with 'bed' to make the point clear.
+- 'Hey, are you still awake?' A familiar question checking if someone is up late.
+- 'I am not sleeping. You must not play here.' Hiding from the laser-tag game, Norman tells Elvis they should not play in here.
+- 'Can we go for a spin in the car?' Young Elvis asks Norman if they can take the car out for a spin.
+- 'No spin, it is not your car.' A firm refusal followed by a negative possessive clause.
+- 'It is my father's, he agrees!' Elvis insists the car belongs to his father and that his father won't mind.
+- 'Oh no, not at all, go to bed.' The emphatic negative phrase pas du tout.
 - 'Please, Norman!' A polite begging formula.
-- 'Are you afraid of driving?' Listen for the expression meaning 'have', which leads naturally into 'drive'.
+- 'Are you afraid of driving?' Elvis needles Norman by asking if he is afraid to drive.
 - 'You are scared, wimp!' An informal playful insult challenging courage.
-- 'All right, get in, let us go!' Norman opens with the word for 'all right' and lands on 'go' at the close.
-- 'What are they doing over there?' The key word here means 'are doing', paired with 'over there' to make the point clear.
-- 'Norman is taking Hicham's car!' Notice how the verb for 'takes' leads straight into 'car'.
-- 'Fasten your seat belt, Elvis!' An command form addressed to a passenger.
-- 'Here we go, drive fast!' The adverb meaning 'fast' sharpens the verb for 'it is' here.
-- 'That is a very bad idea.' Gabriel opens with the word for 'it is' and lands on 'idea' at the close.
+- 'All right, get in, let us go!' Stung by the dare, Norman gives in and tells Elvis to hop in.
+- 'What are they doing over there?' Gabriel spots the car pulling away and wonders what Norman is doing.
+- 'Norman is taking Hicham's car!' The present tense of prendre describing the unauthorized departure.
+- 'Fasten your seat belt, Elvis!' An imperative addressed to a passenger.
+- 'Here we go, drive fast!' An excited exclamation launching the drive.
+- 'That is a very bad idea.' An evaluative statement predicting trouble.

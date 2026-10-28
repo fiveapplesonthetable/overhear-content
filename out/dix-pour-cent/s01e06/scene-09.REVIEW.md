@@ -29,17 +29,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'From the beginning. And closer to the water.' Christophe commands his actors with zero patience.
-- 'Closer? How? My feet are already wet!' François complains about the dangerous conditions on stage.
-- 'François, manage on your own! You are an actor, do something!' Christophe opens with the word for 'manage on your own' and lands on 'thing' at the close.
-- 'What can I tell you? I love you both.' François recites his lines as Dom Juan facing two peasant women.
+- 'Closer? How? My feet are already wet!' Francois complains about the dangerous conditions on stage.
+- 'François, manage on your own! You are an actor, do something!' A colloquial imperative telling him to work it out.
+- 'What can I tell you? I love you both.' Francois recites his lines as Dom Juan facing two peasant women.
 - 'No, that will not do! That does not work!' Christophe cuts him off angrily.
 - 'If you are not in the pool, it simply does not work.' The director refuses to compromise on his water concept.
-- 'You are stiff, you are like an old redneck!' Christophe opens with the word for 'are' and lands on 'redneck' at the close.
-- 'This is theatre, not the Olympic Games!' François snaps back with a witty cultural retort.
+- 'You are stiff, you are like an old redneck!' A direct insult mocking the older actor's physical stiffness.
+- 'This is theatre, not the Olympic Games!' Francois snaps back with a witty cultural retort.
 - 'You are explaining to me what theatre is? I am listening!' Christophe takes deep offence at being lectured.
-- 'Christophe, please, calm down.' Andréa attempts to step between them before things get worse.
+- 'Christophe, please, calm down.' Andrea attempts to step between them before things get worse.
 - 'I have been carrying this project for months! Nobody makes an effort!' The director loses all control of his temper.
 - 'Help! François?' Suddenly a punch lands and Christophe cries out in shock from the floor.
-- 'I am sorry. I did not do it on purpose.' François speaks in disbelief at his own violent outburst.
-- 'Wait. Who threw the punch?' Andréa rushes in to understand who struck whom.
+- 'I am sorry. I did not do it on purpose.' Francois speaks in disbelief at his own violent outburst.
+- 'Wait. Who threw the punch?' Andrea rushes in to understand who struck whom.
 - 'Berléand! He walked away!' Christophe points at his star actor storming out of the theatre. Let's listen to this explosive confrontation one more time from start to finish.

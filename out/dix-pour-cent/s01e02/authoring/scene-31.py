@@ -35,7 +35,7 @@ STORY = [
 WALK = [
     (0, None, "'What are you playing at with my son?' Literally 'at what are you playing?'. He uses the casual 'you', as a boss to a young assistant, and as a father, though only she knows that."),
     (1, None, "'I didn't know he was your son.' Two past forms here, for states that lasted: 'I knew' and 'it was'. With the 'not' around the first one."),
-    (2, None, "'He didn't tell me.' A short sentence packed with small words: the word for 'to me' and the word for 'it' both sit before the verb, inside the 'not'."),
+    (2, None, "'He didn't tell me.' A short sentence packed with small words: the word for 'me' and the word for 'it' both sit before the action word, inside the 'not'."),
     (3, None, "'You're completely irresponsible!' The long word in the middle means 'completely'. That ending often works like English 'ly'."),
     (4, None, "'You're the one who lies to everybody!' Literally 'it's you who lies'. That's how French puts weight on one person. And 'everybody' is literally 'all the world'."),
     (5, None, "'You're a coward!' Camille finally says what she thinks of him."),

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have not eaten anything all morning.' Andrea complains about being exhausted from baby care. Notice how the short vowel drops before a vowel sound around 'have not', making the phrase flow smoothly as one unit.
-- 'Could you watch Flora this afternoon?' Andrea asks Colette to take over looking after their infant daughter. Andrea uses the casual singular 'you' with 'could', showing close familiarity.
-- 'Why do you ask me that now?' Colette is surprised by the sudden last-minute request. The clause hinges on the everyday verb meaning 'do you ask'.
-- 'Beatrice is shooting with a very difficult director.' Andrea explains that her movie star client needs urgent assistance on set. The descriptive adjective for 'complicated.' agrees in gender and number with its noun.
-- 'I am very afraid things will degenerate there.' Andrea worries about a blowup on the movie set. The verb meaning 'I have' pairs naturally with the noun for 'fear' in everyday conversation.
-- 'I am sorry, but I have an important meeting.' Colette points out her own busy work schedule. The verb meaning 'I have' pairs naturally with the noun for 'meeting' in everyday conversation.
-- 'I will have to find someone else.' Andrea refuses to abandon her professional responsibilities. Notice how the short vowel drops before a vowel sound around 'am going', making the phrase flow smoothly as one unit.
-- 'We do not leave the baby with a stranger!' Colette objects to hiring an unknown babysitter. Notice how 'leaves' leads directly into the noun meaning 'little one'.
-- 'The old neighbor could look after her.' Andrea proposes asking the woman next door for help. The short 'self' word sits right in front of the verb for 'could', turning the action back onto the subject.
-- 'That makes no sense, Andrea!' Colette dismisses the idea of trusting a strange neighbor. Notice the classic French sandwich negation wrapping right around 'it is'.
-- 'I cannot stay locked up twenty-four hours!' Andrea expresses her frustration with maternity isolation. The two-part negative structure wraps around 'can' to express 'no longer' or 'not anymore'.
-- 'A baby needs to be with her mother.' Colette reminds Andrea of maternal duties during the early months. Notice how 'has' leads directly into the noun meaning 'baby'.
-- 'It is not human to always be alone!' Andrea argues that complete isolation is unhealthy for parents. In spoken French, the little word before 'is not' drops its final vowel and attaches with an apostrophe.
+- 'I have not eaten anything all morning.' Andrea complains about being exhausted from baby care.
+- 'Could you watch Flora this afternoon?' Andrea asks Colette to take over looking after their infant daughter.
+- 'Why do you ask me that now?' Colette is surprised by the sudden last-minute request.
+- 'Beatrice is shooting with a very difficult director.' Andrea explains that her movie star client needs urgent assistance on set.
+- 'I am very afraid things will degenerate there.' Andrea worries about a blowup on the movie set.
+- 'I am sorry, but I have an important meeting.' Colette points out her own busy work schedule.
+- 'I will have to find someone else.' Andrea refuses to abandon her professional responsibilities.
+- 'We do not leave the baby with a stranger!' Colette objects to hiring an unknown babysitter.
+- 'The old neighbor could look after her.' Andrea proposes asking the woman next door for help.
+- 'That makes no sense, Andrea!' Colette dismisses the idea of trusting a strange neighbor.
+- 'I cannot stay locked up twenty-four hours!' Andrea expresses her frustration with maternity isolation.
+- 'A baby needs to be with her mother.' Colette reminds Andrea of maternal duties during the early months.
+- 'It is not human to always be alone!' Andrea argues that complete isolation is unhealthy for parents.

@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, can you sign my employment contract?' Notice how the verb for 'can you' leads straight into 'employment'.
+- 'Mathias, can you sign my employment contract?' A direct request asking for managerial contract renewal.
 - 'Sorry Camille, I really do not have time.' A hurried brush-off avoiding immediate workplace commitment.
 - 'It is to extend my contract at the agency.' Camille clarifies the administrative purpose.
 - 'Is it not for Andréa to sign?' Mathias deflects responsibility back to her direct supervisor.
@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But I have no official contract now.' Anxious insistence highlighting legal vulnerability.
 - 'Nobody at the agency wants your departure.' Reassurance that her employment is valued.
 - 'Then I am going to ask Hicham directly.' A bold threat to escalate the matter to the majority owner.
-- 'No, especially not, Hicham is very impulsive.' The key word here means 'especially', paired with 'hasty' to make the point clear.
+- 'No, especially not, Hicham is very impulsive.' A paternal warning against provoking the volatile boss.
 - 'The affair with Isabelle Adjani annoyed him.' Mathias cites current executive irritation.
 - 'How can I live without a salary here?' A blunt practical question about daily livelihood.
 - 'Look, how much money do you need?' Mathias instinctively offers financial assistance.

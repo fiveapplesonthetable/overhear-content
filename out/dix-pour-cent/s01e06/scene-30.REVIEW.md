@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At first, all three of us were really very sad.' The adjective meaning 'collective' agrees in gender and number with masculine noun 'suicide'.
+- 'At first, all three of us were really very sad.' The phrase 'all alone' means 'all by myself'.
 - 'Then we found Samuel's good whisky.'s whiskey, so we're not killing ourselves.' Drinking their late founder's whiskey brings the four rivals back together.
-- 'You are drunk, Mathias. I have never seen you drunk!' The negation 'not... never' wraps around the helper verb 'have'.
+- 'You are drunk, Mathias. I have never seen you drunk!' The negation 'not...
 - 'I am not drunk, not at all!' The fixed phrase 'not of the all' means 'not at all'.
 - 'At your first Cannes Festival, you disappeared for three days.'s like your first Cannes Festival. You had disappeared for three days.' Gabriel brings up a legendary agency mystery from twenty years ago.
 - 'He was a sober young man, always very professional...' Even in his twenties, Mathias was known for being buttoned-up and serious.
-- 'But there was this party in a villa with a swimming pool...' Gabriel opens with the word for 'was' and lands on 'swimming pool' at the close.
-- 'Don't talk about swimming pools, please!' The key word here means 'talk', paired with 'swimming pool' to make the point clear.
+- 'But there was this party in a villa with a swimming pool...' The imperfect form 'there was' sets the scene of the Cannes party.
+- 'Don't talk about swimming pools, please!' After Francois Berleand's pool drama and falling into the water at the party, Andrea never wants to hear the word 'pool' again.
 - 'What did you do for three days? We want to know!' Everyone presses Mathias for his secret.
 - 'I don't remember, Gabriel.' Mathias smiles enigmatically, keeping the memory of Camille's mother to himself.
 - 'We're going to get through this, kids. We always have.' The reflexive verb 'to get oneself out of it' means 'to pull through' or 'to manage'.

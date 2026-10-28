@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I think you are right.' Sofia acknowledges the wisdom of separating romance from management. Notice how the verb for 'suppose' leads straight into 'the correct view'.
-- 'Mixing work and personal life is difficult.' She names the central conflict. The adjective meaning 'romantic' agrees in gender and number with masculine noun 'business'.
-- 'So are you dropping me or finding a new agent?' Gabriel asks for clarity. Gabriel opens with the word for 'in that case' and lands on 'talent agent' at the close.
-- 'If I change agents, can you still advise me?' Sofia seeks reassurance that Gabriel will remain close. Listen for the expression meaning 'switch', which leads naturally into 'guide'.
-- 'Or help me discreetly?' She wants his behind-the-scenes guidance. The key word here means 'to assist', paired with 'behind the scenes' to make the point clear.
-- 'Of course. Do you have someone in mind? Andréa?' Gabriel suggests their dynamic colleague. Gabriel opens with the word for 'most' and lands on 'mind' at the close.
-- 'I don't know, she's a bit scary.' Sofia hesitates given Andréa's fierce intensity. Notice how the verb for 'am sure' leads straight into 'fright'.
-- 'Besides she is your friend, it's delicate.' She points out the awkward overlapping friendships. Sofia opens with the word for 'that' and lands on 'sensitive' at the close.
-- 'Arlette might not be the right choice for a young actress.' Gabriel considers generational differences. Gabriel opens with the word for 'not' and lands on 'performer' at the close.
-- 'Even if we like her!' Sofia adds warmly to avoid sounding dismissive. The key word here means 'even', paired with 'dearly' to make the point clear.
-- 'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate. The key word here means 'was leaning toward', paired with 'talent agent' to make the point clear.
-- 'With him, I have no special privilege.' In response, Mathias's strict professionalism protects her reputation. Sofia pairs the verb meaning 'can' with the noun for 'favoritism'.
-- 'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision. Notice how the verb for 'am' leads straight into 'decision'.
-- 'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism. The adverb meaning 'yes indeed' sharpens the verb for 'agree' here.
+- 'I think you are right.' Sofia acknowledges the wisdom of separating romance from management.
+- 'Mixing work and personal life is difficult.' She names the central conflict.
+- 'So are you dropping me or finding a new agent?' Gabriel asks for clarity.
+- 'If I change agents, can you still advise me?' Sofia seeks reassurance that Gabriel will remain close.
+- 'Or help me discreetly?' She wants his behind-the-scenes guidance.
+- 'Of course. Do you have someone in mind? Andréa?' Gabriel suggests their dynamic colleague.
+- 'I don't know, she's a bit scary.' Sofia hesitates given Andréa's fierce intensity.
+- 'Besides she is your friend, it's delicate.' She points out the awkward overlapping friendships.
+- 'Arlette might not be the right choice for a young actress.' Gabriel considers generational differences.
+- 'Even if we like her!' Sofia adds warmly to avoid sounding dismissive.
+- 'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate.
+- 'With him, I have no special privilege.' Here, Mathias's strict professionalism protects her reputation.
+- 'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision.
+- 'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The elevator doors are finally closing.' Mathias watches the automatic doors begin to shut. Notice how 'are closing' leads directly into the noun meaning 'doors'.
-- 'Wait Mathias, hold the door for a second!' Andrea reaches out quickly to hold the elevator car. Dropping the subject pronoun turns the verb for 'wait' into a direct, punchy command.
-- 'You again? What more do you want?' Mathias expresses irritation at being stopped one last time. Inverting the verb and pronoun around 'do you want' creates a crisp, polished question.
-- 'I am sorry to disturb you, Mathias.' Gabriel offers a polite apology before making a necessary request. Gabriel uses the casual singular 'you' with 'disturb', showing close familiarity.
-- 'Noemie has already returned her key to us.' Gabriel reminds Mathias that Noemie returned her agency key. This conversational past tense combines a helper verb with the past verb form for 'returned'.
-- 'But you, you kept yours!' Andrea notes that Mathias still holds his personal key to the building. The clause hinges on the everyday verb meaning 'have'.
-- 'We would prefer to avoid changing the locks.' Gabriel points out that returning the key spares ASK the expense of lock replacement. The verb meaning 'would prefer' pairs naturally with the noun for 'locks.' in everyday conversation.
-- 'Are you really afraid of my return?' Mathias teases his colleagues about whether they fear him slipping back inside. The verb meaning 'have' pairs naturally with the noun for 'fear' in everyday conversation.
-- 'It is a simple security rule here.' Andrea maintains a strictly professional tone regarding office protocols. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'Here, take this office key.' Mathias pulls the key from his pocket and hands it over. Notice how 'here' leads directly into the noun meaning 'key'.
-- 'Good luck running this agency alone.' Mathias doubts whether the remaining team can sustain the business. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
-- 'Thank you Mathias, we will succeed very well.' Gabriel affirms their determination to prosper without him. The verb meaning 'are going' pairs naturally with the noun for 'thank you' in everyday conversation.
-- 'Farewell Mathias, and godspeed to you!' Andrea bids a final goodbye as the doors slide shut. Andrea uses the casual singular 'you' with 'farewell', showing close familiarity.
+- 'The elevator doors are finally closing.' Mathias watches the automatic doors begin to shut.
+- 'Wait Mathias, hold the door for a second!' Andrea reaches out quickly to hold the elevator car.
+- 'You again? What more do you want?' Mathias expresses irritation at being stopped one last time.
+- 'I am sorry to disturb you, Mathias.' Gabriel offers a polite apology before making a necessary request.
+- 'Noemie has already returned her key to us.' Gabriel reminds Mathias that Noemie returned her agency key.
+- 'But you, you kept yours!' Andrea notes that Mathias still holds his personal key to the building.
+- 'We would prefer to avoid changing the locks.' Gabriel points out that returning the key spares ASK the expense of lock replacement.
+- 'Are you really afraid of my return?' Mathias teases his colleagues about whether they fear him slipping back inside.
+- 'It is a simple security rule here.' Andrea maintains a strictly professional tone regarding office protocols.
+- 'Here, take this office key.' Mathias pulls the key from his pocket and hands it over.
+- 'Good luck running this agency alone.' Mathias doubts whether the remaining team can sustain the business.
+- 'Thank you Mathias, we will succeed very well.' Gabriel affirms their determination to prosper without him.
+- 'Farewell Mathias, and godspeed to you!' Andrea bids a final goodbye as the doors slide shut.

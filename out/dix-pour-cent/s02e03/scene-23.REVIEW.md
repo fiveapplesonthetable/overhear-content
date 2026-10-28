@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, Norman is finally here!' Hicham announces the arrival of the special guest to the gathering. Hicham opens with the word for 'look' and lands on 'here' at the close.
-- 'Hello to all the children!' The YouTube star greets the young guests warmly. A concise spoken phrase built around the French noun for 'hello'.
-- 'Can I have an autograph?' The birthday boy excitedly asks for a signed souvenir. Notice how the verb for 'can' leads straight into 'autograph'.
-- 'Yes of course, with pleasure.' Norman gladly agrees to sign for his young admirer. Listen for the expression meaning 'yes', which leads naturally into 'pleasure'.
-- 'Who is the boss here?' He playfully asks who is in charge of the celebration. Norman opens with the word for 'is' and lands on 'here' at the close.
-- 'I am the big boss!' Elvis proudly steps forward as the guest of honor. Listen for the expression meaning 'it is', which leads naturally into 'boss'.
-- 'You challenged me to the game?' Norman recalls the friendly duel proposed for the afternoon. The key word here means 'have', paired with 'game' to make the point clear.
-- 'Yes, I have a great team.' The boy boasts about his squad of friends ready to play. The adjective meaning 'great' agrees in gender and number with feminine noun 'team'.
-- 'I am very good too.' The celebrity playfully warns that he is also a formidable opponent. Listen for the expression meaning 'am', which leads naturally into 'too'.
-- 'It is your birthday today, Elvis.' The proud father reminds his son to enjoy his special moment. The adverb meaning 'today' sharpens the verb for 'it is' here.
-- 'We are going to win the game!' The youngster confidently predicts victory for his side. Elvis opens with the word for 'are going' and lands on 'game' at the close.
-- 'Do not be too shy.' Norman kindly encourages the boy to relax and have fun. The key word here means 'not', paired with 'shy' to make the point clear.
-- 'Have good fun all together.' Hicham sends the kids off to begin their laser adventure. Hicham gives a direct command form using the verb for 'have fun'.
-- 'Here we go for the fight!' Norman joins the children as the match kicks off. Listen for the expression meaning 'it is', which leads naturally into 'fight'.
+- 'Look, Norman is finally here!' Hicham announces the arrival of the special guest to the gathering.
+- 'Hello to all the children!' The YouTube star greets the young guests warmly.
+- 'Can I have an autograph?' The birthday boy excitedly asks for a signed souvenir.
+- 'Yes of course, with pleasure.' Norman gladly agrees to sign for his young admirer.
+- 'Who is the boss here?' He playfully asks who is in charge of the celebration.
+- 'I am the big boss!' Elvis proudly steps forward as the guest of honor.
+- 'You challenged me to the game?' Norman recalls the friendly duel proposed for the afternoon.
+- 'Yes, I have a great team.' The boy boasts about his squad of friends ready to play.
+- 'I am very good too.' The celebrity playfully warns that he is also a formidable opponent.
+- 'It is your birthday today, Elvis.' The proud father reminds his son to enjoy his special moment.
+- 'We are going to win the game!' The youngster confidently predicts victory for his side.
+- 'Do not be too shy.' Norman kindly encourages the boy to relax and have fun.
+- 'Have good fun all together.' Hicham sends the kids off to begin their laser adventure.
+- 'Here we go for the fight!' Norman joins the children as the match kicks off.

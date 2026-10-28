@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, Mimie! What a surprise to see you!' Andrea greets her former client warmly at the gala. Notice how 'to see' leads directly into the noun meaning 'good evening'.
-- 'Good evening, Andrea, I am very happy.' Mimie radiates pride and excitement. The adjective meaning 'delighted' takes its feminine form here to match the noun it describes.
-- 'No need to introduce me, dear Andrea.' Elise steps forward with cold confidence. The descriptive adjective for 'pointless' agrees in gender and number with its noun.
-- 'Elise Formain, from the StarMedia agency!' Andrea immediately identifies the predator circling her agency. The key noun here means 'talent agency', anchored by its matching French article.
-- 'Is she your new agent, Mimie?' Andrea asks the painful question directly. The key noun here means 'female agent', anchored by its matching French article.
-- 'Absolutely, this makes a change from ASK!' Mimie does not hesitate to contrast the treatment. Notice how the short vowel drops before a vowel sound around 'changes', making the phrase flow smoothly as one unit.
-- 'I had a magnificent white limousine.' She lists the luxury perks provided by her new representation. Notice how 'I have' leads directly into the noun meaning 'stretch limo'.
-- 'And an honorary invitation to the Cesars!' Mimie highlights the VIP access she was promised. Notice how the short vowel drops before a vowel sound around 'entry pass', making the phrase flow smoothly as one unit.
-- 'Elise truly believes in my talent.' The actress appreciates the personal attention. Notice how 'believes' leads directly into the noun meaning 'artistic skill'.
-- 'I am happy for your success.' Andrea hides her sting behind professional courtesy. Andrea uses the casual singular 'you' with 'triumph', showing close familiarity.
-- 'StarMedia knows how to take care of artists.' Elise boasts about her superior management style. Notice how 'knows how' leads directly into the noun meaning 'care'.
-- 'They are calling me for the official photos!' Mimie is summoned to the flashbulbs. The verb meaning 'calls me' pairs naturally with the noun for 'pictures' in everyday conversation.
-- 'Let us go onto the prestigious red carpet.' Elise leads her new star toward the photographers. Notice how 'let us go' leads directly into the noun meaning 'floor runner'.
-- 'The agency war has begun.' Andrea realizes the fierce battle ahead for ASK's survival. This conversational past tense combines a helper verb with the past verb form for 'started'. Now let's hear the whole conversation again.
+- 'Good evening, Mimie! What a surprise to see you!' Andrea greets her former client warmly at the gala.
+- 'Good evening, Andrea, I am very happy.' Mimie radiates pride and excitement.
+- 'No need to introduce me, dear Andrea.' Elise steps forward with cold confidence.
+- 'Elise Formain, from the StarMedia agency!' Andrea immediately identifies the predator circling her agency.
+- 'Is she your new agent, Mimie?' Andrea asks the painful question directly.
+- 'Absolutely, this makes a change from ASK!' Mimie does not hesitate to contrast the treatment.
+- 'I had a magnificent white limousine.' She lists the luxury perks provided by her new representation.
+- 'And an honorary invitation to the Cesars!' Mimie highlights the VIP access she was promised.
+- 'Elise truly believes in my talent.' The actress appreciates the personal attention.
+- 'I am happy for your success.' Andrea hides her sting behind professional courtesy.
+- 'StarMedia knows how to take care of artists.' Elise boasts about her superior management style.
+- 'They are calling me for the official photos!' Mimie is summoned to the flashbulbs.
+- 'Let us go onto the prestigious red carpet.' Elise leads her new star toward the photographers.
+- 'The agency war has begun.' Andrea realizes the fierce battle ahead for ASK's survival. Now listen to the whole scene again at normal speed, and see how much more you catch.

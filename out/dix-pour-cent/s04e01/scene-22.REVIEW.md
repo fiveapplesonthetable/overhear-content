@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is time that I stop everything.' Sofia sighs deeply in the backstage hallway. The verb meaning 'stop' pairs naturally with the noun for 'time' in everyday conversation.
-- 'You are right to stop the front desk.' Gabriel clarifies his meaning at once. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'How do I pay my rent now?' Sofia asks anxiously about her daily finances. In everyday spoken French, rising intonation on 'pay' at the end is enough to turn the sentence into a question.
-- 'You act, it is your job from now on.' Gabriel insists on her real vocation. Notice how 'act' leads directly into the noun meaning 'profession'.
-- 'I blew my last important audition.' Sofia laments her missed chance for the film. The verb meaning 'have' pairs naturally with the noun for 'audition' in everyday conversation.
-- 'You must have confidence in your talent.' Gabriel counters her persistent doubts. The informal 'you' form around 'must' marks a direct, personal relationship.
-- 'Excuse me, could you lower your voices?' Charlotte Gainsbourg steps out on crutches. The verb meaning 'excuse me' pairs naturally with the noun for 'voice' in everyday conversation.
-- 'Good evening Miss Charlotte Gainsbourg.' Gabriel greets her with deference. The key noun here means 'good evening', anchored by its matching French article.
-- 'The ceremony was much too long.' Charlotte shares her weariness with the gala. The adjective meaning 'long' takes its feminine form here to match the noun it describes.
-- 'You have a cast on your leg?' Sofia looks down with genuine sympathy. Notice how 'have' leads directly into the noun meaning 'cast'.
-- 'Do you have a pen to sign?' Charlotte asks with a conspiratorial smile. The formal 'you' pronoun sets a courteous, professional distance around 'have'.
-- 'You really want my signature here?' Sofia asks in disbelieving wonder. The verb meaning 'want' pairs naturally with the noun for 'signature' in everyday conversation.
-- 'It is great, thank you very much and congratulations!' Charlotte signs off with charm. The descriptive adjective for 'great' agrees in gender and number with its noun.
-- 'You see, the public already admires you.' Gabriel smiles proudly at his client. The informal 'you' form around 'see' marks a direct, personal relationship. Now let's hear the whole conversation again.
+- 'It is time that I stop everything.' Sofia sighs deeply in the backstage hallway.
+- 'You are right to stop the front desk.' Gabriel clarifies his meaning at once.
+- 'How do I pay my rent now?' Sofia asks anxiously about her daily finances.
+- 'You act, it is your job from now on.' Gabriel insists on her real vocation.
+- 'I blew my last important audition.' Sofia laments her missed chance for the film.
+- 'You must have confidence in your talent.' Gabriel counters her persistent doubts.
+- 'Excuse me, could you lower your voices?' Charlotte Gainsbourg steps out on crutches.
+- 'Good evening Miss Charlotte Gainsbourg.' Gabriel greets her with deference.
+- 'The ceremony was much too long.' Charlotte shares her weariness with the gala.
+- 'You have a cast on your leg?' Sofia looks down with genuine sympathy.
+- 'Do you have a pen to sign?' Charlotte asks with a conspiratorial smile.
+- 'You really want my signature here?' Sofia asks in disbelieving wonder.
+- 'It is great, thank you very much and congratulations!' Charlotte signs off with charm.
+- 'You see, the public already admires you.' Gabriel smiles proudly at his client. Now, listen to the complete dialogue again at normal conversational pace.

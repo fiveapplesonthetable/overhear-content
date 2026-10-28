@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Noemie, I am looking for my dear Camille.' Valentin stops by the reception desk. The adjective meaning 'dear' takes its feminine form here to match the noun it describes.
-- 'Camille is finishing a meeting in her office.' Noemie explains that Camille is still occupied. Notice how 'is finishing' leads directly into the noun meaning 'appointment'.
-- 'Alright, but I must quickly leave now.' Valentin is pressed for time and cannot wait. Notice how the short vowel drops before a vowel sound around 'must', making the phrase flow smoothly as one unit.
-- 'Tell her that I send her big kisses!' Valentin leaves an affectionate message. The clause hinges on the everyday verb meaning 'tell her'.
-- 'Yes, good luck for your day, Valentin!' Noemie sends warm encouragement. Noemie uses the casual singular 'you' with 'luck', showing close familiarity.
-- 'ASK agency, hello, I am listening to your request.' Noemie picks up an incoming phone call. Notice how 'am listening to' leads directly into the noun meaning 'agency'.
-- 'Is this for the thirty-year anniversary party?' Noemie handles event logistics. In everyday spoken French, rising intonation on 'party' at the end is enough to turn the sentence into a question.
-- 'We are organizing a magnificent party tonight.' Noemie describes the major milestone celebration. Notice how 'are organizing' leads directly into the noun meaning 'party'.
-- 'There is no private parking.' Noemie warns about Parisian parking constraints. The descriptive adjective for 'private' agrees in gender and number with its noun.
-- 'But delivery spots are free.' Noemie points out designated loading zones. The key noun here means 'spots', anchored by its matching French article.
-- 'They are located right downstairs.' Noemie directs the driver to the street below. The clause hinges on the everyday verb meaning 'are located'.
-- 'You can drop off the equipment in the street.' Noemie guides the delivery team. The formal 'you' pronoun sets a courteous, professional distance around 'can'.
-- 'You are welcome, see you shortly!' Noemie concludes the logistical call politely. Noemie uses the polite 'you' form alongside 'pray' to keep a respectful professional tone.
+- 'Hello Noemie, I am looking for my dear Camille.' Valentin stops by the reception desk.
+- 'Camille is finishing a meeting in her office.' Noemie explains that Camille is still occupied.
+- 'Alright, but I must quickly leave now.' Valentin is pressed for time and cannot wait.
+- 'Tell her that I send her big kisses!' Valentin leaves an affectionate message.
+- 'Yes, good luck for your day, Valentin!' Noemie sends warm encouragement.
+- 'ASK agency, hello, I am listening to your request.' Noemie picks up an incoming phone call.
+- 'Is this for the thirty-year anniversary party?' Noemie handles event logistics.
+- 'We are organizing a magnificent party tonight.' Noemie describes the major milestone celebration.
+- 'There is no private parking.' Noemie warns about Parisian parking constraints.
+- 'But delivery spots are free.' Noemie points out designated loading zones.
+- 'They are located right downstairs.' Noemie directs the driver to the street below.
+- 'You can drop off the equipment in the street.' Noemie guides the delivery team.
+- 'You are welcome, see you shortly!' Noemie concludes the logistical call politely.

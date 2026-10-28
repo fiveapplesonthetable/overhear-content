@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This shoot was a big mistake.' Virginie reflects on the romantic comedy they filmed together. Listen for the expression meaning 'film shoot', which leads naturally into 'mistake'.
-- 'Why do you say that?' Gabriel asks her to explain her sudden regret. The adverb meaning 'why' sharpens the verb for 'is it' here.
-- 'Playing the ideal couple makes no sense.' Pretending on screen felt completely false to her. Virginie pairs the verb meaning 'to play' with the noun for 'meaning'.
-- 'We never talk about our real worries.' Deep communication issues were constantly ignored. Listen for the expression meaning 'not', which leads naturally into 'troubles'.
-- 'Do you have worries between you two?' Gabriel inquires gently about their personal relationship. Notice how the verb for 'have' leads straight into 'problems'.
-- 'He acts as though everything were fine.' Right then, Ramzy avoided confronting any unpleasant truth. Listen for the expression meaning 'acts', which leads naturally into 'well'.
-- 'He always wants to joke with everyone.' Humor became a constant defense mechanism. Listen for the expression meaning 'wishes', which leads naturally into 'everybody'.
-- 'Me, I prefer to speak about real things.' Virginie needs emotional honesty and open dialogue. The key word here means 'prefer', paired with 'things' to make the point clear.
-- 'So after five months, the tension exploded.' The prolonged pressure on set finally reached a breaking point. Virginie pairs the verb meaning 'has' with the noun for 'emotional strain'.
-- 'Do you have news from him today?' Gabriel wonders if Ramzy has tried to get in touch. Notice how the verb for 'have' leads straight into 'news'.
-- 'No, he still refuses to speak to me.' In this moment, Ramzy remains hurt and completely unreachable. Listen for the expression meaning 'no', which leads naturally into 'to speak'.
-- 'It weighs on me to hurt him.' She carries a heavy emotional burden from their breakup. The impersonal construction expresses a feeling of being weighed down with guilt.
-- 'Look through the window, they are still there!' She spots the persistent paparazzi waiting outside on the street. Virginie opens with the word for 'look' and lands on 'there' at the close.
-- 'Leave me alone, go away from here!' She vents her anger and frustration into the night air. The polite command form form laissez-moi asks for immediate personal space.
+- 'This shoot was a big mistake.' Virginie reflects on the romantic comedy they filmed together.
+- 'Why do you say that?' Gabriel asks her to explain her sudden regret.
+- 'Playing the ideal couple makes no sense.' Pretending on screen felt completely false to her.
+- 'We never talk about our real worries.' Deep communication issues were constantly ignored.
+- 'Do you have worries between you two?' Gabriel inquires gently about their personal relationship.
+- 'He acts as though everything were fine.' Here, Ramzy avoided confronting any unpleasant truth.
+- 'He always wants to joke with everyone.' Humor became a constant defense mechanism.
+- 'Me, I prefer to speak about real things.' Virginie needs emotional honesty and open dialogue.
+- 'So after five months, the tension exploded.' The prolonged pressure on set finally reached a breaking point.
+- 'Do you have news from him today?' Gabriel wonders if Ramzy has tried to get in touch.
+- 'No, he still refuses to speak to me.' Here, Ramzy remains hurt and completely unreachable.
+- 'It weighs on me to hurt him.' She carries a heavy emotional burden from their breakup.
+- 'Look through the window, they are still there!' She spots the persistent paparazzi waiting outside on the street.
+- 'Leave me alone, go away from here!' She vents her anger and frustration into the night air.

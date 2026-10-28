@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'What are you playing at with my son?' Literally 'at what are you playing?'. He uses the casual 'you', as a boss to a young assistant, and as a father, though only she knows that.
 - 'I didn't know he was your son.' Two past forms here, for states that lasted: 'I knew' and 'it was'. With the 'not' around the first one.
-- 'He didn't tell me.' A short sentence packed with small words: the word for 'to me' and the word for 'it' both sit before the verb, inside the 'not'.
+- 'He didn't tell me.' A short sentence packed with small words: the word for 'me' and the word for 'it' both sit before the action word, inside the 'not'.
 - 'You're completely irresponsible!' The long word in the middle means 'completely'. That ending often works like English 'ly'.
 - 'You're the one who lies to everybody!' Literally 'it's you who lies'. That's how French puts weight on one person. And 'everybody' is literally 'all the world'.
 - 'You're a coward!' Camille finally says what she thinks of him.

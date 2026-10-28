@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Jean, are you there?' Andrea checks on her reclusive star client. The informal 'you' form around 'this line' marks a direct, personal relationship.
-- 'You are very marked by your role.' Andrea gently observes his deep emotional exhaustion. The informal 'you' form around 'affected' marks a direct, personal relationship.
-- 'I have never experienced this before, never!' Jean emphasizes the unprecedented intensity of the shoot. This conversational past tense combines a helper verb with the past verb form for 'experienced'.
-- 'They are waiting for you for the shoot.' Andrea reminds him of his upcoming film commitment. The verb meaning 'are waiting for' pairs naturally with the noun for 'movie shoot' in everyday conversation.
-- 'You have to play a modern banker.' Gabriel describes the civilized character waiting for him. The descriptive adjective for 'modern' agrees in gender and number with its noun.
-- 'Honestly, right now, I cannot!' Jean bluntly rejects taking on another film immediately. Dropping the subject pronoun turns the verb for 'can' into a direct, punchy command.
-- 'I cannot follow on like that.' He insists on taking a break before another production. The clause hinges on the everyday verb meaning 'can'.
-- 'I spent six months in the forest.' Jean recalls his prolonged survivalist isolation. Notice how 'have' leads directly into the noun meaning 'months'.
-- 'I went down to bare human bone.' He describes stripping away civilized identity for his role. This conversational past tense combines a helper verb with the past verb form for 'gone'.
-- 'I refuse the noise and people!' Jean shrinks from modern urban life and film sets. The verb meaning 'refuse' pairs naturally with the noun for 'noise' in everyday conversation.
-- 'But have you not signed your contract?' Gabriel asks about legal paperwork for the banking movie. Notice how 'have' leads directly into the noun meaning 'legal contract'.
-- 'Yes, I signed my contract!' Jean insists that he already put pen to paper. The verb meaning 'have' pairs naturally with the noun for 'legal contract' in everyday conversation.
-- 'You signed Emile Berthier!' Andrea reveals that he used his character's fictional name. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'That is your character, Jean.' Andrea tries to bring the disoriented actor back to reality. The key noun here means 'fictional character', anchored by its matching French article.
-- 'It is not you!' She reminds him of his own true identity. Andrea uses the casual singular 'you' with 'this line', showing close familiarity. Now let's hear the whole conversation again.
+- 'Jean, are you there?' Andrea checks on her reclusive star client.
+- 'You are very marked by your role.' Andrea gently observes his deep emotional exhaustion.
+- 'I have never experienced this before, never!' Jean emphasizes the unprecedented intensity of the shoot.
+- 'They are waiting for you for the shoot.' Andrea reminds him of his upcoming film commitment.
+- 'You have to play a modern banker.' Gabriel describes the civilized character waiting for him.
+- 'Honestly, right now, I cannot!' Jean bluntly rejects taking on another film immediately.
+- 'I cannot follow on like that.' He insists on taking a break before another production.
+- 'I spent six months in the forest.' Jean recalls his prolonged survivalist isolation.
+- 'I went down to bare human bone.' He describes stripping away civilized identity for his role.
+- 'I refuse the noise and people!' Jean shrinks from modern urban life and film sets.
+- 'But have you not signed your contract?' Gabriel asks about legal paperwork for the banking movie.
+- 'Yes, I signed my contract!' Jean insists that he already put pen to paper.
+- 'You signed Emile Berthier!' Andrea reveals that he used his character's fictional name.
+- 'That is your character, Jean.' Andrea tries to bring the disoriented actor back to reality.
+- 'It is not you!' She reminds him of his own true identity. Now listen to the whole scene again at normal speed, and see how much more you catch.

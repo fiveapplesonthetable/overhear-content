@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This shoot is particularly rough today.' In spoken French, the little word before 'filming' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'filming' drops its final vowel and attaches with an apostrophe.
-- 'You did twenty-seven difficult takes.' Maquilleuse uses the polite 'you' form alongside 'have' to keep a respectful professional tone. Maquilleuse uses the polite 'you' form alongside 'have' to keep a respectful professional tone.
-- 'I smashed through that door twenty-seven times!' Notice how 'have' leads directly into the noun meaning 'door'. Notice how 'have' leads directly into the noun meaning 'door'.
-- 'We must prepare the next scene.' The verb meaning 'is necessary' pairs naturally with the noun for 'scene' in everyday conversation.
-- 'I still have a few minutes of rest.' Notice how 'have' leads directly into the noun meaning 'minutes'. Notice how 'have' leads directly into the noun meaning 'minutes'.
-- 'We have to do your whole body with makeup.' A surprising procedural instruction announcing extensive cosmetics. Maquilleuse uses the polite 'you' form alongside 'must' to keep a respectful professional tone.
-- 'Is this the death scene?' The key noun here means 'scene', anchored by its matching French article. The key noun here means 'scene', anchored by its matching French article.
-- 'Yes, exactly, it is that scene.' The key noun here means 'scene', anchored by its matching French article. The key noun here means 'scene', anchored by its matching French article.
-- 'But my character is inside a bag!' A logical objection protesting unnecessary body cosmetics. The key noun here means 'character', anchored by its matching French article.
-- 'Pascal asked for full-body makeup.' A direct quote attributing the directive to the movie director. This conversational past tense combines a helper verb with the past verb form for 'asked'.
-- 'Why put makeup on my entire body?' Notice how 'to put makeup on' leads directly into the noun meaning 'body'. Notice how 'to put makeup on' leads directly into the noun meaning 'body'.
-- 'I do not know, these are orders.' A neutral disavowal reflecting crew hierarchy. The verb meaning 'know' pairs naturally with the noun for 'orders' in everyday conversation.
-- 'Pascal is preparing a nasty surprise.' A perceptive suspicion detecting an unscripted nude scene. The verb meaning 'is preparing' pairs naturally with the noun for 'unexpected event' in everyday conversation.
-- 'Come and sit down in makeup.' Maquilleuse uses the polite 'you' form alongside 'come' to keep a respectful professional tone. Maquilleuse uses the polite 'you' form alongside 'come' to keep a respectful professional tone.
+- 'This shoot is particularly rough today.' A candid observation acknowledging grueling working conditions.
+- 'You did twenty-seven difficult takes.' An empathetic confirmation validating the physical strain.
+- 'I smashed through that door twenty-seven times!' An exclamatory complaint describing intense physical exertion.
+- 'We must prepare the next scene.' A polite professional reminder urging timely stage preparation.
+- 'I still have a few minutes of rest.' A defensive plea asserting a brief break before further filming.
+- 'We have to do your whole body with makeup.' A surprising procedural instruction announcing extensive cosmetics.
+- 'Is this the death scene?' A clarifying question identifying the scheduled script sequence.
+- 'Yes, exactly, it is that scene.' An affirmative confirmation verifying the plot point.
+- 'But my character is inside a bag!' A logical objection protesting unnecessary body cosmetics.
+- 'Pascal asked for full-body makeup.' A direct quote attributing the directive to the movie director.
+- 'Why put makeup on my entire body?' A sharp suspicious question probing the director's true intentions.
+- 'I do not know, these are orders.' A neutral disavowal reflecting crew hierarchy.
+- 'Pascal is preparing a nasty surprise.' A perceptive suspicion detecting an unscripted nude scene.
+- 'Come and sit down in makeup.' A gentle imperative repeating the backstage summons.

@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'To our first family get-together!' Mathias raises a glass with his newly acknowledged daughter and son. The prepositional phrase introduces a celebratory toast.
-- 'There is a lot to be said for coming out.' Hippolyte jokes about Mathias finally revealing the truth. The colloquial idiom highlights the relief of honesty.
-- 'Camille, I believe in you!' Hippolyte praises his half-sister enthusiastically. The prepositional verb expresses deep confidence in her.
-- 'I know that you have what it takes.' He insists she has real talent for representation. The pronominal phrase refers to necessary professional skills.
-- 'You can be a great agent.' Hippolyte encourages Camille to step up into the role. The modal verb affirms her potential.
-- 'I get on very well with Andréa.' Camille hesitates out of loyalty to Andréa Martel. The reflexive verb construction indicates friendly relations.
-- 'My best auditions are thanks to you.' Hippolyte attributes his recent career opportunities to her. The prepositional phrase acknowledges her crucial help.
-- 'Without you, I would not be here.' He stresses how much she has already contributed. The negative conditional emphasizes her decisive impact.
-- 'Do you want to be my agent?' Hippolyte makes a direct and serious offer. The inverted question delivers a career-changing proposal.
-- 'Hippolyte, you have been drinking, calm down.' Mathias intervenes to stop a hasty decision. The verb meaning 'have' anchors the whole remark.
-- 'This is my first glass, I am serious!' Hippolyte denies being impaired by alcohol. The predicate adjective underscores his sober intent.
-- 'I do not know, this is too fast.' Camille feels flattered but overwhelmed by the speed of events. Camille opens with the word for 'not' and lands on 'fast' at the close.
-- 'You have qualities, but it is too soon.' Mathias tries to protect her while dampening expectations. The temporal adverb urges patience.
-- 'This is crazy! You do not support her.' Hippolyte is outraged by his father's lack of faith. The exclamatory adjective conveys sharp indignation.
-- 'You do not believe in your own children's talent!' Hippolyte calls out Mathias for his harsh double standard. The key word here means 'not', paired with 'own children' to make the point clear.
+- 'To our first family get-together!' Mathias raises a glass with his newly acknowledged daughter and son.
+- 'There is a lot to be said for coming out.' Hippolyte jokes about Mathias finally revealing the truth.
+- 'Camille, I believe in you!' Hippolyte praises his half-sister enthusiastically.
+- 'I know that you have what it takes.' He insists she has real talent for representation.
+- 'You can be a great agent.' Hippolyte encourages Camille to step up into the role.
+- 'I get on very well with Andréa.' Camille hesitates out of loyalty to Andrea Martel.
+- 'My best auditions are thanks to you.' Hippolyte attributes his recent career opportunities to her.
+- 'Without you, I would not be here.' He stresses how much she has already contributed.
+- 'Do you want to be my agent?' Hippolyte makes a direct and serious offer.
+- 'Hippolyte, you have been drinking, calm down.' Mathias intervenes to stop a hasty decision.
+- 'This is my first glass, I am serious!' Hippolyte denies being impaired by alcohol.
+- 'I do not know, this is too fast.' Camille feels flattered but overwhelmed by the speed of events.
+- 'You have qualities, but it is too soon.' Mathias tries to protect her while dampening expectations.
+- 'This is crazy! You do not support her.' Hippolyte is outraged by his father's lack of faith.
+- 'You do not believe in your own children's talent!' Hippolyte calls out Mathias for his harsh double standard.

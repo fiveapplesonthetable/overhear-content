@@ -30,20 +30,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When does your mother arrive?' The adverb meaning 'when' sharpens the verb for 'arrives' here.
-- 'She arrives next week.' Camille opens with the word for 'arrives' and lands on 'next' at the close.
-- 'Wait, look at my business cards.' Two command form verbs in succession.
-- 'I spent the night making them.' Hervé pairs the verb meaning 'I have' with the noun for 'night'.
-- 'It is for when I am a junior agent!' Hervé pairs the verb meaning 'it is' with the noun for 'agent'.
-- 'Awesome! This colour is lighter.' Camille opens with the word for 'awesome' and lands on 'light' at the close.
-- 'You are right, it is much better.' The adverb meaning 'much' sharpens the verb for 'have' here.
-- 'I will be able to be your assistant.' The key word here means 'will be able to', paired with 'assistant' to make the point clear.
-- 'Thank you, Camille. You are a true friend.' Listen for the expression meaning 'are', which leads naturally into 'friend'.
-- 'By the way, I know who your father is.' Hervé opens with the word for 'know' and lands on 'father' at the close.
-- 'Really? How do you know that?' The key word here means 'really', paired with 'know' to make the point clear.
-- 'It is obvious, come on!' The key word here means 'it is', paired with 'obvious' to make the point clear.
-- 'You are not angry?' Listen for the expression meaning 'are', which leads naturally into 'angry'.
-- 'Everyone has a right to their secrets.' Hervé pairs the verb meaning 'has' with the noun for 'secret'.
-- 'I wanted to tell you.' The verb meaning 'wanted' anchors the whole remark.
-- 'I have loved Christophe Lambert since my childhood!' The key word here means 'I love', paired with 'childhood' to make the point clear.
+- 'When does your mother arrive?' Hervé asks Camille when her mother is arriving in Paris.
+- 'She arrives next week.' Camille replies that her mother is arriving next week.
+- 'Wait, look at my business cards.' Hervé tells Camille to wait and proudly shows off his fake agent business cards.
+- 'I spent the night making them.' Hervé admits he stayed up all night preparing the files.
+- 'It is for when I am a junior agent!' The future tense of etre in a temporal clause.
+- 'Awesome! This colour is lighter.' An enthusiastic exclamation followed by a comparative adjective.
+- 'You are right, it is much better.' Hervé agrees with Camille that her idea is much better.
+- 'I will be able to be your assistant.' Camille offers to pretend to be Hervé's assistant while his mother visits.
+- 'Thank you, Camille. You are a true friend.' Relieved by her kindness, Hervé calls Camille a true friend.
+- 'By the way, I know who your father is.' The introductory idiom au fait followed by an indirect question.
+- 'Really? How do you know that?' A double question expressing surprise.
+- 'It is obvious, come on!' Hervé insists it is obvious why he lied to his parents about being an agent.
+- 'You are not angry?' A negative question inquiring about emotional reaction.
+- 'Everyone has a right to their secrets.' He points out defensively that everyone is entitled to a few secrets.
+- 'I wanted to tell you.' The imperfect tense expressing a past desire.
+- 'I have loved Christophe Lambert since my childhood!' Hervé confesses he has idolized Christophe Lambert since childhood.
 - 'You are incredible, Hervé!' Camille laughs with relief at his hilarious mistake.

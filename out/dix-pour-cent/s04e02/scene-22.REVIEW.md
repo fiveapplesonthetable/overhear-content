@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You did not come just for that.' Andrea looks at Elise with sharp suspicion. This conversational past tense combines a helper verb with the past verb form for 'come'.
-- 'Dany Boon has decided to leave ASK.' Elise drops the stunning announcement. The clause hinges on the everyday verb meaning 'has'.
-- 'Excuse me? What did you just announce?' Andrea gasps in shock. Notice how 'come' leads directly into the noun meaning 'pardon'.
-- 'He joins me directly at StarMedia.' Elise explains the transfer matter-of-factly. The clause hinges on the everyday verb meaning 'joins'.
-- 'You are bluffing, that is totally false!' Andrea denies the painful reality. The descriptive adjective for 'false' agrees in gender and number with its noun.
-- 'Mathias Barneville did what was needed.' Elise reveals Mathias's secret maneuvering. This conversational past tense combines a helper verb with the past verb form for 'done'.
-- 'Did Mathias negotiate this departure in secret?' Andrea realizes the full extent of the betrayal. This conversational past tense combines a helper verb with the past verb form for 'negotiated'.
-- 'You were fooled too.' Elise points out their shared defeat. The clause hinges on the everyday verb meaning 'made'.
-- 'Did you want to see my shocked face?' Andrea accuses her of gloating. Andrea uses the casual singular 'you' with 'wanted', showing close familiarity.
-- 'No, I want to make you a proposal.' Elise leans across the desk calmly. Notice how 'want' leads directly into the noun meaning 'proposal'.
-- 'What kind of dishonest proposal?' Andrea responds with cold skepticism. The key noun here means 'kind', anchored by its matching French article.
-- 'We should ally ourselves against Mathias.' Elise suggests joining forces against the common rival. The clause hinges on the everyday verb meaning 'should'.
-- 'I will never trust you.' Andrea rejects any cooperation with a StarMedia agent. The verb meaning 'will make' pairs naturally with the noun for 'trust' in everyday conversation.
-- 'Think carefully before refusing, Andrea.' Elise rises and warns her solemnly. The clause hinges on the everyday verb meaning 'think'. Now let's hear the whole conversation again.
+- 'You did not come just for that.' Andrea looks at Elise with sharp suspicion.
+- 'Dany Boon has decided to leave ASK.' Elise drops the stunning announcement.
+- 'Excuse me? What did you just announce?' Andrea gasps in shock.
+- 'He joins me directly at StarMedia.' Elise explains the transfer matter-of-factly.
+- 'You are bluffing, that is totally false!' Andrea denies the painful reality.
+- 'Mathias Barneville did what was needed.' Elise reveals Mathias's secret maneuvering.
+- 'Did Mathias negotiate this departure in secret?' Andrea realizes the full extent of the betrayal.
+- 'You were fooled too.' Elise points out their shared defeat.
+- 'Did you want to see my shocked face?' Andrea accuses her of gloating.
+- 'No, I want to make you a proposal.' Elise leans across the desk calmly.
+- 'What kind of dishonest proposal?' Andrea responds with cold skepticism.
+- 'We should ally ourselves against Mathias.' Elise suggests joining forces against the common rival.
+- 'I will never trust you.' Andrea rejects any cooperation with a StarMedia agent.
+- 'Think carefully before refusing, Andrea.' Elise rises and warns her solemnly. Now, listen to the complete dialogue again at normal conversational pace.

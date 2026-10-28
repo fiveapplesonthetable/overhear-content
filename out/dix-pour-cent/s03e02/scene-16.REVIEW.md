@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come into my office, Noemie.' Mathias welcomes his assistant inside. The verb meaning 'enter' pairs naturally with the noun for 'office' in everyday conversation.
-- 'I must talk to you very seriously.' Noemie sets a solemn tone. The clause hinges on the everyday verb meaning 'must'.
-- 'Your behavior yesterday was very embarrassing.' Mathias recalls the previous scene. The verb meaning 'was' pairs naturally with the noun for 'behavior' in everyday conversation.
-- 'A headhunter contacted me.' Noemie announces external interest in her career. In spoken French, the little word before 'has me' drops its final vowel and attaches with an apostrophe.
-- 'A headhunter for you?' Mathias reacts with disbelief. Mathias uses the polite 'you' form alongside 'hunter' to keep a respectful professional tone.
-- 'My profile is very sought after today.' Noemie asserts her professional value. The verb meaning 'sought after' pairs naturally with the noun for 'profile' in everyday conversation.
-- 'What offer did you receive exactly?' Mathias asks about specifics. The verb meaning 'did you have' pairs naturally with the noun for 'offer' in everyday conversation.
-- 'I received a very advantageous offer.' Noemie confirms the appealing package. Notice how 'I have' leads directly into the noun meaning 'offer'.
-- 'Where is this new company located?' Mathias asks for location details. Notice how 'is located' leads directly into the noun meaning 'company'.
-- 'This new post is in Boulogne.' Noemie names the Parisian suburb. The key noun here means 'position', anchored by its matching French article.
-- 'And what is your final decision?' Mathias faces the inevitable outcome. The adjective meaning 'final' takes its feminine form here to match the noun it describes.
-- 'I accepted and I am leaving the agency.' Noemie states her resignation plainly. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
-- 'When do you leave our team?' Mathias asks about her departure schedule. The verb meaning 'do you leave' pairs naturally with the noun for 'team' in everyday conversation.
-- 'I leave with immediate effect!' Noemie refuses any transitional delay. Notice how 'leave' leads directly into the noun meaning 'effect'. Now let us listen to the tense confrontation once more at normal pace.
+- 'Come into my office, Noemie.' Mathias invites his assistant into the office for a chat.
+- 'I must talk to you very seriously.' Noémie sets a solemn tone.
+- 'Your behavior yesterday was very embarrassing.' Mathias recalls the previous scene.
+- 'A headhunter contacted me.' Noémie announces external interest in her career.
+- 'A headhunter for you?' Mathias reacts with disbelief.
+- 'My profile is very sought after today.' Noémie asserts her professional value.
+- 'What offer did you receive exactly?' Mathias asks about specifics.
+- 'I received a very advantageous offer.' Noémie confirms the appealing package.
+- 'Where is this new company located?' Mathias asks for location details.
+- 'This new post is in Boulogne.' Noémie names the Parisian suburb.
+- 'And what is your final decision?' Mathias faces the inevitable outcome.
+- 'I accepted and I am leaving the agency.' Noémie states her resignation plainly.
+- 'When do you leave our team?' Mathias asks about her departure schedule.
+- 'I leave with immediate effect!' Noémie refuses any transitional delay. Now let us listen to the tense confrontation once more at normal pace.

@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is strange that he has not called back.' Gabriel expresses nervous concern about radio silence. The impersonal construction takes a special verb form second part of the sentence.
-- 'Are you talking about Julien?' Sofia clarifies which client is on his mind. The prepositional verb specifies the topic of inquiry.
-- 'He said he would call back very quickly.' Gabriel quotes the earlier promise of rapid contact. Listen for the expression meaning 'has', which leads naturally into 'soon'.
-- 'Things are starting to drag out.' The agent grows visibly impatient with the wait. The inchoative verb introduces an infinitive of prolongation.
-- 'You did the screen tests this morning!' Sofia reminds him that barely any time has passed. The temporal noun phrase points to the current morning.
-- 'Yes, that is true, you are right.' Gabriel concedes that he might be overreacting. The colloquial contraction replaces the 'you' subject pronoun and verb.
-- 'What if you called him directly?' Sofia suggests taking initiative with a phone call. The hypothetical structure introduces an imperfect standard verb form suggestion.
-- 'After all, you are his agent.' She points out his professional right to check in. The fixed transitional idiom emphasizes legitimate standing.
-- 'Just to sound him out a little.' Sofia wants discreet information without seeming needy. The adverbial quantifier softens the inquiry intent.
-- 'He is currently seeing other girls.' Gabriel stokes her insecurity about audition competitors. The continuous progressive construction emphasizes ongoing action.
-- 'Really? Did he say that?' Sofia's cool exterior cracks with instant curiosity. The short object word stands for the statement made.
-- 'I do not know, quite possibly.' Gabriel backpedals on his unverified speculation. The colloquial negation omits the initial particle in rapid speech.
-- 'He has plenty of things to do.' The agent rationalizes the singer's busy schedule. The quantifier phrase introduces plural obligations.
-- 'Let us leave Juju alone for now.' Sofia decides against appearing too eager or demanding. The group 'let us' form encourages mutual patience.
-- 'Of course. Obviously.' Gabriel agrees to respect the artist's personal space. The pair of affirmative adverbs seals their tactical restraint.
+- 'It is strange that he has not called back.' Gabriel expresses nervous concern about radio silence.
+- 'Are you talking about Julien?' Sofia clarifies which client is on his mind.
+- 'He said he would call back very quickly.' Gabriel quotes the earlier promise of rapid contact.
+- 'Things are starting to drag out.' The agent grows visibly impatient with the wait.
+- 'You did the screen tests this morning!' Sofia reminds him that barely any time has passed.
+- 'Yes, that is true, you are right.' Gabriel concedes that he might be overreacting.
+- 'What if you called him directly?' Sofia suggests taking initiative with a phone call.
+- 'After all, you are his agent.' She points out his professional right to check in.
+- 'Just to sound him out a little.' Sofia wants discreet information without seeming needy.
+- 'He is currently seeing other girls.' Gabriel stokes her insecurity about audition competitors.
+- 'Really? Did he say that?' Sofia's cool exterior cracks with instant curiosity.
+- 'I do not know, quite possibly.' Gabriel backpedals on his unverified speculation.
+- 'He has plenty of things to do.' The agent rationalizes the singer's busy schedule.
+- 'Let us leave Juju alone for now.' Sofia decides against appearing too eager or demanding.
+- 'Of course. Obviously.' Gabriel agrees to respect the artist's personal space.

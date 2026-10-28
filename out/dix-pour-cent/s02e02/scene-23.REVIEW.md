@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening Andréa! You look very elegant.' Fabrice greets Andréa warmly as they meet at the restaurant table. Fabrice opens with the word for 'are' and lands on 'stylish' at the close.
-- 'Thank you Fabrice. Bravo on your show!' She immediately congratulates him on his stage performance. The interjection bravo expresses enthusiastic praise.
-- 'It was truly a magnificent play.' Andréa highlights the beauty and depth of the production. The adjective meaning 'splendid' agrees in gender and number with feminine noun 'theatrical play'.
-- 'Did you like my performance?' The actor seeks her candid artistic reaction. Listen for the expression meaning 'have', which leads naturally into 'acting performance'.
-- 'I absolutely loved your acting.' She expresses unbounded admiration for his theatrical craft. Andréa opens with the word for 'I have' and lands on 'acting style' at the close.
-- 'And that young blonde woman from yesterday?' Fabrice turns the conversation to her romantic life. Fabrice opens with the word for 'young' and lands on 'of yesterday' at the close.
-- 'No, she is not my type.' Andréa brushes off the inquiry with a casual denial. The key word here means 'no', paired with 'type' to make the point clear.
-- 'You like her very much. Go for it!' The actor playfully encourages her to take a bold chance on romance. The verb meaning 'appeals' anchors the whole remark.
-- 'Do you really think that would work?' She questions whether taking such an initiative is wise. Listen for the expression meaning 'think', which leads naturally into 'would work out'.
-- 'It is completely obvious!' Fabrice insists that the romantic connection is undeniable. The adjective meaning 'plain to see' agrees in gender and number with the noun's noun 'completely'.
-- 'I do not know where to start.' Andréa admits feeling completely at a loss with dating. Andréa opens with the word for 'not' and lands on 'to start' at the close.
-- 'Trust me when it comes to love.' He poses as an experienced philosopher of romantic relationships. Listen for the expression meaning 'give me', which leads naturally into 'romance'.
-- 'Shall we eat something now?' He suggests turning their attention to ordering food. The key word here means 'eat', paired with 'now' to make the point clear.
-- 'Yes, let us order a good dinner.' Andréa agrees happily to start their meal. Andréa uses the command form form for 'let us order' together with the word for 'evening meal'.
+- 'Good evening Andréa! You look very elegant.' Fabrice greets Andrea warmly as they meet at the restaurant table.
+- 'Thank you Fabrice. Bravo on your show!' She immediately congratulates him on his stage performance.
+- 'It was truly a magnificent play.' Andrea highlights the beauty and depth of the production.
+- 'Did you like my performance?' The actor seeks her candid artistic reaction.
+- 'I absolutely loved your acting.' She expresses unbounded admiration for his theatrical craft.
+- 'And that young blonde woman from yesterday?' Fabrice turns the conversation to her romantic life.
+- 'No, she is not my type.' Andrea brushes off the inquiry with a casual denial.
+- 'You like her very much. Go for it!' The actor playfully encourages her to take a bold chance on romance.
+- 'Do you really think that would work?' She questions whether taking such an initiative is wise.
+- 'It is completely obvious!' Fabrice insists that the romantic connection is undeniable.
+- 'I do not know where to start.' Andrea admits feeling completely at a loss with dating.
+- 'Trust me when it comes to love.' He poses as an experienced philosopher of romantic relationships.
+- 'Shall we eat something now?' He suggests turning their attention to ordering food.
+- 'Yes, let us order a good dinner.' Andrea agrees happily to start their meal.

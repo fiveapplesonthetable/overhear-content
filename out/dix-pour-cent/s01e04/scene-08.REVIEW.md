@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sorry. You know what actresses are like.' Literally 'you know what it is, actresses'.
-- 'Samuel was the expert. One of his old friends wants to see his will.' The adjective for 'old' or 'former' comes before the noun.
-- 'I've found a buyer for the agency.' Past tense with 'have', and the noun for 'buyer' comes from the verb 'to buy'.
-- 'It's a serious offer.' Feminine ending on the adjective to match 'offer'.
-- 'Very generous, too.' Another feminine adjective ending, still describing the offer.
+- 'Samuel was the expert. One of his old friends wants to see his will.' The describing word for 'old' or 'former' comes before the word.
+- 'I've found a buyer for the agency.' Past form with 'have', and the word for 'buyer' comes from the action word 'to buy'.
+- 'It's a serious offer.' Feminine ending on the describing word to match 'offer'.
+- 'Very generous, too.' Another feminine describing word ending, still describing the offer.
 - 'Can you tell us more about it?' Two small object words sit before 'tell': 'to us' and 'about it'.
 - 'Jonas Hirsch, from the Sterne agency in Berlin. Do you know him?' The little word for 'him' sits right before 'know'.
 - 'Yes. He wants to create a group of European agencies.' Notice the feminine plural ending on 'European'.

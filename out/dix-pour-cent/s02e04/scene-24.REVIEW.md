@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is everything going well, Mathias?' Noémie checks on her secret lover at his private apartment. The verb meaning 'is going' anchors the whole remark.
-- 'Can I come in for a moment?' She politely asks permission to cross the threshold. Listen for the expression meaning 'can', which leads naturally into 'moment'.
-- 'Of course, do come in.' Mathias warmly welcomes his assistant inside. The adverb meaning 'of course' sharpens the verb for 'come in' here.
-- 'I would have tidied up if I had known.' He apologizes for the disorganized state of his flat. Mathias opens with the word for 'I would have' and lands on 'known' at the close.
-- 'I have nothing to offer you.' Mathias laments his bare cupboards after moving out. The verb meaning 'have' anchors the whole remark.
-- 'That is great news for Adjani!' Noémie rejoices over solving the major agency contract crisis. The key word here means 'it is', paired with 'news' to make the point clear.
-- 'Yes, everything is well sorted out.' The senior agent confirms that the dispute with the star is resolved. Listen for the expression meaning 'yes', which leads naturally into 'settled'.
-- 'I do not feel well.' Mathias admits that intense professional stress is taking a toll on his health. The adverb meaning 'not' sharpens the verb for 'feel' here.
-- 'Sit down in this armchair.' She gently directs him toward a comfortable seat. The command form assieds-toi invites someone to sit down.
-- 'I am not a fan of massages.' Mathias expresses initial reluctance about physical relaxation. The borrowed noun fan indicates enthusiasm for an activity.
-- 'Let me eliminate all this tension.' Noémie begins massaging his stiff shoulders to relieve his knots. Listen for the expression meaning 'let me', which leads naturally into 'nervous strain'.
-- 'Breathe calmly and relax.' She instructs him to slow his breathing and let go of his worries. The command form detends-toi tells someone to unwind.
-- 'Oh yes, that is truly excellent.' Mathias sighs with deep relief as the soothing massage takes effect. The adverb meaning 'yes' sharpens the verb for 'it is' here.
-- 'You just needed some rest.' Noémie lovingly observes the immediate benefits of stepping away from work. Notice how the verb for 'had' leads straight into 'rest'.
+- 'Is everything going well, Mathias?' Noemie checks on her secret lover at his private apartment.
+- 'Can I come in for a moment?' She politely asks permission to cross the threshold.
+- 'Of course, do come in.' Mathias warmly welcomes his assistant inside.
+- 'I would have tidied up if I had known.' He apologizes for the disorganized state of his flat.
+- 'I have nothing to offer you.' Mathias laments his bare cupboards after moving out.
+- 'That is great news for Adjani!' Noemie rejoices over solving the major agency contract crisis.
+- 'Yes, everything is well sorted out.' The senior agent confirms that the dispute with the star is resolved.
+- 'I do not feel well.' Mathias admits that intense professional stress is taking a toll on his health.
+- 'Sit down in this armchair.' She gently directs him toward a comfortable seat.
+- 'I am not a fan of massages.' Mathias expresses initial reluctance about physical relaxation.
+- 'Let me eliminate all this tension.' Noemie begins massaging his stiff shoulders to relieve his knots.
+- 'Breathe calmly and relax.' She instructs him to slow his breathing and let go of his worries.
+- 'Oh yes, that is truly excellent.' Mathias sighs with deep relief as the soothing massage takes effect.
+- 'You just needed some rest.' Noemie lovingly observes the immediate benefits of stepping away from work.

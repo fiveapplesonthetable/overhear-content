@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Mathias? Yes, it is finally done.' Elise delivers the long-awaited news. The clause hinges on the everyday verb meaning 'done'.
-- 'Is Dany Boon signing with us?' Mathias asks about the star client's signature. The clause hinges on the everyday verb meaning 'is going'.
-- 'Yes, he accepted our offer.' Elise confirms the client's consent. This conversational past tense combines a helper verb with the past verb form for 'accepted'.
-- 'That is very good news, thank you.' Mathias expresses measured appreciation. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
-- 'You do not seem very thrilled.' Elise detects a lack of genuine joy. Elise uses the casual singular 'you' with 'have', showing close familiarity.
-- 'I am tired from these negotiations.' Mathias admits the weariness of endless wrangling. The descriptive adjective for 'tired' agrees in gender and number with its noun.
-- 'Are you never ashamed of manipulating?' Elise confronts him with an uncomfortable moral truth. Notice how 'have' leads directly into the noun meaning 'shame'.
-- 'Ashamed of what? Of getting contracts?' Mathias defends his business results. Notice how 'to obtain' leads directly into the noun meaning 'shame'.
-- 'Of manipulating all our artist friends?' Elise highlights the betrayal of personal relationships. In everyday spoken French, rising intonation on 'to manipulate' at the end is enough to turn the sentence into a question.
-- 'It is our job, we chose it.' Mathias reminds her of the rules of the agency trade. The verb meaning 'have' pairs naturally with the noun for 'job' in everyday conversation.
-- 'This profession destroys our good friendships.' Elise mourns the erosion of authentic bonds. Notice how 'destroys' leads directly into the noun meaning 'job'.
-- 'Business demands toughness.' Mathias explains the uncompromising demands of corporate survival. The verb meaning 'demand' pairs naturally with the noun for 'business' in everyday conversation.
-- 'I will send you signed contracts tomorrow.' Elise returns to immediate paperwork tasks. The verb meaning 'send' pairs naturally with the noun for 'contracts' in everyday conversation.
-- 'All right, good evening to you, Elise.' Mathias concludes the conversation pensively. Mathias uses the casual singular 'you' with 'evening', showing close familiarity.
+- 'Hello Mathias? Yes, it is finally done.' Elise delivers the long-awaited news.
+- 'Is Dany Boon signing with us?' Mathias asks about the star client's signature.
+- 'Yes, he accepted our offer.' Elise confirms the client's consent.
+- 'That is very good news, thank you.' Mathias expresses measured appreciation.
+- 'You do not seem very thrilled.' Elise detects a lack of genuine joy.
+- 'I am tired from these negotiations.' Mathias admits the weariness of endless wrangling.
+- 'Are you never ashamed of manipulating?' Elise confronts him with an uncomfortable moral truth.
+- 'Ashamed of what? Of getting contracts?' Mathias defends his business results.
+- 'Of manipulating all our artist friends?' Elise highlights the betrayal of personal relationships.
+- 'It is our job, we chose it.' Mathias reminds her of the rules of the agency trade.
+- 'This profession destroys our good friendships.' Elise mourns the erosion of authentic bonds.
+- 'Business demands toughness.' Mathias explains the uncompromising demands of corporate survival.
+- 'I will send you signed contracts tomorrow.' Elise returns to immediate paperwork tasks.
+- 'All right, good evening to you, Elise.' Mathias concludes the conversation pensively.

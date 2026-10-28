@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I found a solution for Nathalie Baye.' Noémie announces her scheduling breakthrough. The key word here means 'I have', paired with 'solution' to make the point clear.
-- 'Ah, excellent. Show me that.' Mathias reacts with interest and demands to inspect the plan. Mathias gives a direct command form using the verb for 'show me'.
-- 'Here is Xavier Beauvois's schedule.' Noémie lays out the first production timetable. The presentative 'here is' introduces the masculine borrowed noun 'schedule'.
-- 'This one is Tonie Marshall's.' Noémie compares the two competing schedules. The pointing word pronouns 'this one' and 'that' replace masculine nouns elegantly.
-- 'The shooting days are marked in red.' Noémie points out the color-coded days. The prepositional phrase 'in' specifies the marking color of the schedule.
-- 'Everything fits together perfectly here.' Noémie marvels at the puzzle pieces aligning. The key word here means 'fits together', paired with 'here' to make the point clear.
-- 'Nathalie can do both movies.' Noémie concludes triumphantly. The modal verb 'can' followed by the infinitive 'do' expresses feasibility.
-- 'No, I tell you that it does not work.' Mathias remains skeptical of the tight logistics. Listen for the expression meaning 'no', which leads naturally into 'not'.
-- 'Do you regret it, Mathias?' Noémie suddenly changes the subject to their secret past. The short object word 'it' refers back to their intimate encounter.
-- 'That is not the topic, we are at work.' Mathias attempts to restore professional boundaries. The adverb meaning 'not' sharpens the verb for 'is not' here.
-- 'Beauvois always exceeds the dates.' Mathias cites the director's notorious delays. Mathias opens with the word for 'exceeds' and lands on 'dates' at the close.
-- 'Nathalie needs two weeks of rest.' Mathias defends his star client's physical stamina. Notice how the verb for 'has' leads straight into 'rest'.
-- 'You said no, so you do not regret anything.' Noémie interprets his hesitation flirtatiously. The connecting word 'so' introduces a logical deduction negated with 'not'.
-- 'Listen, Noémie, I prefer not to speak of it here.' Mathias deflects the personal banter. The adverb meaning 'not' sharpens the verb for 'listen' here.
-- 'In any case, do not worry, Mathias.' Noémie reassures him with confidence. The adverbial connector 'in' bridges the conversation gracefully.
-- 'Leave it to me, it will fit.' Noémie concludes with breezy determination. The colloquial expression 'it' conveys making tight plans work.
+- 'I found a solution for Nathalie Baye.' Noemie announces her scheduling breakthrough.
+- 'Ah, excellent. Show me that.' Mathias reacts with interest and demands to inspect the plan.
+- 'Here is Xavier Beauvois's schedule.' Noemie lays out the first production timetable.
+- 'This one is Tonie Marshall's.' Noemie compares the two competing schedules.
+- 'The shooting days are marked in red.' Noemie points out the color-coded days.
+- 'Everything fits together perfectly here.' Noemie marvels at the puzzle pieces aligning.
+- 'Nathalie can do both movies.' Noemie concludes triumphantly.
+- 'No, I tell you that it does not work.' Mathias remains skeptical of the tight logistics.
+- 'Do you regret it, Mathias?' Noemie suddenly changes the subject to their secret past.
+- 'That is not the topic, we are at work.' Mathias attempts to restore professional boundaries.
+- 'Beauvois always exceeds the dates.' Mathias cites the director's notorious delays.
+- 'Nathalie needs two weeks of rest.' Mathias defends his star client's physical stamina.
+- 'You said no, so you do not regret anything.' Noemie interprets his hesitation flirtatiously.
+- 'Listen, Noémie, I prefer not to speak of it here.' Mathias deflects the personal banter.
+- 'In any case, do not worry, Mathias.' Noemie reassures him with confidence.
+- 'Leave it to me, it will fit.' Noemie concludes with breezy determination.

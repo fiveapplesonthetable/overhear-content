@@ -31,21 +31,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening. What is going on?' Notice how the verb for 'is happening' leads straight into 'good evening'.
-- 'Mr. Norman Thavaud was speeding.' Listen for the expression meaning 'Mr.', which leads naturally into 'speed'.
-- 'The judge could take away his license.' Le policier pairs the verb meaning 'could' with the noun for 'license'.
-- 'May I see him?' The formal inversion 'may I' asks polite permission.
-- 'This way. He is in the sobering-up cell.' The fixed phrase 'by' indicates direction.
+- 'Good evening. What is going on?' Arriving at the police station, Gabriel politely asks the officer what happened.
+- 'Mr. Norman Thavaud was speeding.' The officer explains that Norman was pulled over for speeding.
+- 'The judge could take away his license.' Wait—the problem is that Norman does not even have a driver's license to lose!
+- 'May I see him?' The formal inversion 'puis-je' asks polite permission.
+- 'This way. He is in the sobering-up cell.' The officer leads Gabriel down the hall toward the holding cell.
 - 'What are you playing at? You don't want to do the film anymore?' Gabriel expresses utter disbelief.
-- 'He already thinks that I am a loser.' The key word here means 'thinks', paired with 'underdog' to make the point clear.
+- 'He already thinks that I am a loser.' Inside the cell, Norman groans that his father already thinks he is a loser.
 - 'Stop it, he cast you, you convinced him.' Gabriel urges Norman to trust his talent.
 - 'He is not from my world, not my universe.' Norman fears the prestigious cinema world.
-- 'I am going to make a fool of myself.' Listen for the expression meaning 'am going', which leads naturally into 'make look foolish'.
-- 'Call him, cancel and let's get it over with.' Two urgent commands command immediate cancellation.
+- 'I am going to make a fool of myself.' Norman worries he will make a fool of himself on Jacques Audiard's film set.
+- 'Call him, cancel and let's get it over with.' Two urgent imperatives command immediate cancellation.
 - 'Hello Jacques. It is Gabriel Sarda.' Gabriel pretends to dial the famous director.
-- 'Norman does not want to do your movie.' The negation 'not' frames Norman's refusal.
-- 'Do not raise your voice!' The negative command form warns Gabriel against shouting.
-- 'Have you been drinking?' Le policier opens with the word for 'have' and lands on 'drunk' at the close.
-- 'Are you locking me up too?' The verb meaning 'takes in' anchors the whole remark.
+- 'Norman does not want to do your movie.' The negation 'ne...
+- 'Do not raise your voice!' The negative imperative warns Gabriel against shouting.
+- 'Have you been drinking?' The compound past tense uses the auxiliary verb 'avoir'.
+- 'Are you locking me up too?' When the cell door locks behind him, Gabriel asks in alarm if they are locking him up too.
 - 'I am a failure.' Norman sinks into self-pity on the cell bench.
 - 'Not at all. You were cast in an Audiard movie.' Gabriel encourages his despondent young star.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This way, let us hurry up a bit!' Andréa urges everyone to move quickly through the building.
+- 'This way, let us hurry up a bit!' Andrea urges everyone to move quickly through the building.
 - 'I have to go on stage soon.' Juliette reminds them that the clock is ticking down.
 - 'It is a true nightmare!' Juliette laments their chaotic predicament.
 - 'Where do all these long corridors lead?' Hicham asks as they wander through unfamiliar hallways.
-- 'There are bathrooms over there.' Andréa thinks she has found the right direction.
+- 'There are bathrooms over there.' Andrea thinks she has found the right direction.
 - 'Be careful with my dress!' Juliette warns them to mind her delicate designer outfit.
 - 'Look, this door is locked!' Hicham points out that their path is blocked.
-- 'It is not possible, we are turning!' Andréa realizes they are running in circles.
+- 'It is not possible, we are turning!' Andrea realizes they are running in circles.
 - 'I only see doors.' Juliette despairs at the maze of unmarked doors.
 - 'We are completely lost here!' Hicham states the obvious truth about their situation.
-- 'Let us take this corridor this way.' Andréa tries another turn to escape the maze.
+- 'Let us take this corridor this way.' Andrea tries another turn to escape the maze.
 - 'Watch out, my beautiful dress is tearing!' Juliette gasps as her garment snags on an obstacle.
-- 'Oh no, a tear at the bottom!' Andréa spots the damage to the gown with dismay.
+- 'Oh no, a tear at the bottom!' Andrea spots the damage to the gown with dismay.
 - 'The ceremony will begin soon!' Juliette worries that she must go on stage in damaged clothes.

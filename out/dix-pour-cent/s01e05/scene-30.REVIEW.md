@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have a minute? I forgot something.' Even when they are alone at night, Mathias still addresses Camille with the formal 'you' out of habit.
+- 'Do you have a minute? I forgot something.' Even when they are alone at night, Mathias still addresses Camille with the formal 'vous' out of habit.
 - 'What, here, in this office?' Camille thinks he is looking for a file or a folder.
 - 'Your birthday.' Quietly, Mathias admits what he forgot all day.
 - 'Oh, yes. It's no big deal. And I'm not six years old!' Remember that French expresses age with the verb 'to have': 'I don't have six years'.
 - 'Anyway, what would make you happy? You must have some idea.' He asks what she would like as a birthday present — and what Camille really wants is simply to spend a little time with her father.
-- 'I hurt the examiner's hand with the car door.'s hand.' In response, Mathias opens a bottle of champagne in his office, and for the first time they laugh together like father and daughter as Camille tells the story of her fifth driving test.
+- 'I hurt the examiner's hand with the car door.'s hand.' Here, Mathias opens a bottle of champagne in his office, and for the first time they laugh together like father and daughter as Camille tells the story of her fifth driving test.
 - 'No!' Mathias bursts out laughing in disbelief.
 - 'Yes! He had two broken fingers.' Notice the word for 'yes' used to contradict a negative exclamation.
 - 'I thought I'd see you at the opera. I left messages.' Suddenly the office door opens: Catherine and Hippolyte are standing there in their evening clothes, stunned to find Mathias and Camille laughing over champagne in the dark office.

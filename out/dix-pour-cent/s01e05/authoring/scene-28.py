@@ -36,7 +36,7 @@ STORY = [
 WALK = [
     (0, None, "'I want to set up a meeting with Steven Spielberg, who is in Paris.' Mentioning a legendary Hollywood director is the one sure way to make an actress pick up her phone."),
     (1, None, "'He's preparing a movie about the Hundred Years' War.' In French, 'the War of a Hundred Years' is the historical name for the medieval conflict between France and England."),
-    (2, None, "'So call back quickly. Have a nice day.' The command form form of 'to call back' drops the final '-s' for the informal singular."),
+    (2, None, "'So call back quickly. Have a nice day.' The imperative form of 'to call back' drops the final '-s' for the informal singular."),
     (3, None, "'Spielberg? Yeah...' Julie takes the bait immediately and calls the agency back within seconds."),
     (4, None, "'Hello, Julie? Where are you?' Hearing noise in the background, the agents trace Julie and Didier to a luxury hotel and spa in the countryside."),
     (5, None, "'Can we go back to the set?' When Gabriel and Andréa arrive at the spa, they find the two stars relaxing in white bathrobes."),

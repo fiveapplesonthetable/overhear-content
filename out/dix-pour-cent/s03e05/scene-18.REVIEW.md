@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you not notice anything important?' Noemie teases Mathias about his lack of observation. Notice how the short vowel drops before a vowel sound around 'have not', making the phrase flow smoothly as one unit.
-- 'No, what has changed?' Mathias wonders what he managed to miss. In spoken French, the little word before 'has' drops its final vowel and attaches with an apostrophe.
-- 'Do you truly see nothing there?' She points to her neck and posture. In everyday spoken French, rising intonation on 'see' at the end is enough to turn the sentence into a question.
-- 'I see nothing in particular.' Mathias looks around without spotting the change. The two-part negative frame surrounds 'see' to mean 'nothing at all'.
-- 'I do not have my neck brace anymore!' Noemie joyfully reveals she has taken off her medical brace. The two-part negative structure wraps around 'have not' to express 'no longer' or 'not anymore'.
-- 'That is it, it is finally over!' She celebrates the end of her convalescence. The clause hinges on the everyday verb meaning 'finished'.
-- 'That is excellent news, Noemie.' Mathias smiles with relief at her physical recovery. Notice how the short vowel drops before a vowel sound around 'news', making the phrase flow smoothly as one unit.
-- 'Look, I can move freely now.' She demonstrates her restored mobility. The clause hinges on the everyday verb meaning 'look'.
-- 'I can even dance for you!' Noemie playfully offers a joyful demonstration. The clause hinges on the everyday verb meaning 'can'.
-- 'As for me, I actually liked your brace.' Mathias admits his fondness for her former look. The formal 'you' pronoun sets a courteous, professional distance around 'I liked'.
-- 'Oh really, did you think that was nice?' She reacts with playful surprise to his compliment. The clause hinges on the everyday verb meaning 'found'.
-- 'Yes, it suited you very well.' Mathias confirms his genuine appreciation. The clause hinges on the everyday verb meaning 'suited'.
-- 'I could put it back on for you.' Noemie flirts with a humorous promise. Noemie uses the polite 'you' form alongside 'could' to keep a respectful professional tone.
-- 'If that can bring you pleasure!' She finishes her tease with a bright smile. Noemie uses the polite 'you' form alongside 'can' to keep a respectful professional tone. Now let's hear the whole conversation again.
+- 'Did you not notice anything important?' Noemie teases Mathias about his lack of observation.
+- 'No, what has changed?' Mathias wonders what he managed to miss.
+- 'Do you truly see nothing there?' She points to her neck and posture.
+- 'I see nothing in particular.' Mathias looks around without spotting the change.
+- 'I do not have my neck brace anymore!' Noemie joyfully reveals she has taken off her medical brace.
+- 'That is it, it is finally over!' She celebrates the end of her convalescence.
+- 'That is excellent news, Noemie.' Mathias smiles with relief at her physical recovery.
+- 'Look, I can move freely now.' She demonstrates her restored mobility.
+- 'I can even dance for you!' Noemie playfully offers a joyful demonstration.
+- 'As for me, I actually liked your brace.' Mathias admits his fondness for her former look.
+- 'Oh really, did you think that was nice?' She reacts with playful surprise to his compliment.
+- 'Yes, it suited you very well.' Mathias confirms his genuine appreciation.
+- 'I could put it back on for you.' Noemie flirts with a humorous promise.
+- 'If that can bring you pleasure!' She finishes her tease with a bright smile. Now listen to the whole scene again at normal speed, and see how much more you catch.

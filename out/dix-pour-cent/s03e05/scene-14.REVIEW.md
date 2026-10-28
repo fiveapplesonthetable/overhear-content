@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the signed contract of Beatrice Dalle.' Director Birag presents the binding legal document. Notice how 'signed' leads directly into the noun meaning 'acting contract'.
-- 'The actress agrees to appear nude during shooting.' Birag points directly to the controversial nudity clause. The short 'self' word sits right in front of the verb for 'agrees', turning the action back onto the subject.
-- 'This decision is at my sole discretion.' Birag asserts his unilateral creative authority. The adjective meaning 'sole' takes its feminine form here to match the noun it describes.
-- 'Only for a true love scene!' Andrea firmly challenges the director's interpretation. The key noun here means 'dramatic scene', anchored by its matching French article.
-- 'Yet your scene takes place in the morgue.' Andrea exposes the absurd setting for a supposed romance. The verb meaning 'takes place' pairs naturally with the noun for 'film scene' in everyday conversation.
-- 'The man gazes upon his deceased great love.' Birag attempts to romanticize the chilling sequence. The descriptive adjective for 'great' agrees in gender and number with its noun.
-- 'It is a very pure love scene.' The director insists on the emotional essence of the moment. The adjective meaning 'pure' takes its feminine form here to match the noun it describes.
-- 'Stop, you are playing on words!' Andrea furiously cuts through his rhetorical sophistry. The formal 'you' pronoun sets a courteous, professional distance around 'stop'.
-- 'A love scene means an intimate scene.' Andrea clarifies what standard contract language intended. The verb meaning 'means' pairs naturally with the noun for 'scene' in everyday conversation.
-- 'The contract clearly indicates a love scene.' Birag clings tightly to the literal phrasing. Notice how 'indicates' leads directly into the noun meaning 'contract'.
-- 'Beatrice refuses to shoot naked in this bag.' Andrea stands squarely behind her client's refusal. The adjective meaning 'naked' takes its feminine form here to match the noun it describes.
-- 'Beatrice must resume shooting this afternoon.' The director issues a non-negotiable ultimatum. Notice how 'must' leads directly into the noun meaning 'filming'.
-- 'Otherwise, we will declare a breach of contract.' Birag threatens formal legal retaliation. The verb meaning 'will declare' pairs naturally with the noun for 'breach' in everyday conversation.
-- 'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice. Notice how 'will defend' leads directly into the noun meaning 'actress'.
+- 'Here is the signed contract of Beatrice Dalle.' Director Birag presents the binding legal document.
+- 'The actress agrees to appear nude during shooting.' Birag points directly to the controversial nudity clause.
+- 'This decision is at my sole discretion.' Birag asserts his unilateral creative authority.
+- 'Only for a true love scene!' Andrea firmly challenges the director's interpretation.
+- 'Yet your scene takes place in the morgue.' Andrea exposes the absurd setting for a supposed romance.
+- 'The man gazes upon his deceased great love.' Birag attempts to romanticize the chilling sequence.
+- 'It is a very pure love scene.' The director insists on the emotional essence of the moment.
+- 'Stop, you are playing on words!' Andrea furiously cuts through his rhetorical sophistry.
+- 'A love scene means an intimate scene.' Andrea clarifies what standard contract language intended.
+- 'The contract clearly indicates a love scene.' Birag clings tightly to the literal phrasing.
+- 'Beatrice refuses to shoot naked in this bag.' Andrea stands squarely behind her client's refusal.
+- 'Beatrice must resume shooting this afternoon.' The director issues a non-negotiable ultimatum.
+- 'Otherwise, we will declare a breach of contract.' Birag threatens formal legal retaliation.
+- 'We will defend our actress all the way!' Andrea vows complete loyalty to Beatrice.

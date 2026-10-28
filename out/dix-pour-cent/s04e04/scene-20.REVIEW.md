@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The taxi is arriving in two minutes.' Gabriel checks his phone for the car's arrival. The verb meaning 'arrives' pairs naturally with the noun for 'cab' in everyday conversation.
-- 'Look at those electric scooters over there!' Sandrine's eyes light up with sudden mischief. Notice how 'look at' leads directly into the noun meaning 'scooters'.
-- 'Do not go near those contraptions.' Gabriel immediately senses trouble. The verb meaning 'approach' pairs naturally with the noun for 'contraptions' in everyday conversation.
-- 'They look so much fun!' Sandrine steps toward the parked two-wheelers. Notice how 'have' leads directly into the noun meaning 'look'.
-- 'It is far too dangerous at night.' Gabriel pleads with common sense. The descriptive adjective for 'dangerous' agrees in gender and number with its noun.
-- 'It is the perfect way to get home.' Sandrine unlocks a scooter with her smartphone. The verb meaning 'to go home' pairs naturally with the noun for 'way' in everyday conversation.
-- 'You do not even have a helmet!' Gabriel highlights the total lack of protection. The verb meaning 'have' pairs naturally with the noun for 'helmet' in everyday conversation.
-- 'I know how to drive perfectly tonight.' Sandrine steps confidently onto the platform. Notice how 'know' leads directly into the noun meaning 'evening'.
-- 'Please get into the car.' Gabriel gestures toward the approaching cab. The informal 'you' form around 'pleases' marks a direct, personal relationship.
-- 'I want to feel the fresh wind.' Sandrine savors the evening breeze on her face. Notice how 'want' leads directly into the noun meaning 'wind'.
-- 'Sandrine, get down from there immediately!' Gabriel rushes forward to grab the handlebars. Dropping the subject pronoun turns the verb for 'get off' into a direct, punchy command.
-- 'Catch me if you can, my dear!' Sandrine squeezes the throttle and glides away. Dropping the subject pronoun turns the verb for 'catch' into a direct, punchy command.
-- 'No, no, no, come back here!' Gabriel shouts as he watches her zip down the boulevard. Dropping the subject pronoun turns the verb for 'come back' into a direct, punchy command.
-- 'See you tomorrow morning at the agency!' Sandrine's voice echoes down the dark Parisian street. The key noun here means 'morning', anchored by its matching French article.
+- 'The taxi is arriving in two minutes.' Gabriel checks his phone for the car's arrival.
+- 'Look at those electric scooters over there!' Sandrine's eyes light up with sudden mischief.
+- 'Do not go near those contraptions.' Gabriel immediately senses trouble.
+- 'They look so much fun!' Sandrine steps toward the parked two-wheelers.
+- 'It is far too dangerous at night.' Gabriel pleads with common sense.
+- 'It is the perfect way to get home.' Sandrine unlocks a scooter with her smartphone.
+- 'You do not even have a helmet!' Gabriel highlights the total lack of protection.
+- 'I know how to drive perfectly tonight.' Sandrine steps confidently onto the platform.
+- 'Please get into the car.' Gabriel gestures toward the approaching cab.
+- 'I want to feel the fresh wind.' Sandrine savors the evening breeze on her face.
+- 'Sandrine, get down from there immediately!' Gabriel rushes forward to grab the handlebars.
+- 'Catch me if you can, my dear!' Sandrine squeezes the throttle and glides away.
+- 'No, no, no, come back here!' Gabriel shouts as he watches her zip down the boulevard.
+- 'See you tomorrow morning at the agency!' Sandrine's voice echoes down the dark Parisian street.

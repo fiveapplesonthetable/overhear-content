@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh my goodness, it is Christophe Lambert!' Noémie is astonished to see the famous film star walk into the lobby. The key word here means 'goodness', paired with 'it is' to make the point clear.
-- 'Hello Noémie! How are you doing?' Christophe warmly greets her by name with relaxed charm. The verb meaning 'are going' anchors the whole remark.
-- 'I am doing very well, thank you very much.' She responds politely while trying to hide her excitement. Listen for the expression meaning 'am doing', which leads naturally into 'very much'.
-- 'Can I take a photo with you?' She gathers her courage to ask for a souvenir snapshot. Noémie pairs the verb meaning 'can' with the noun for 'snapshot'.
-- 'Yes, no problem with pleasure!' Christophe is gracious and happy to grant her request. The key word here means 'yes', paired with 'delight' to make the point clear.
-- 'I am a very big fan.' She confesses her longstanding admiration for his filmography. Noémie pairs the verb meaning 'am' with the noun for 'admirer'.
-- 'Me too, I am very friendly.' He jokes playfully to put the nervous assistant at ease. The verb meaning 'am' anchors the whole remark.
-- 'Get closer. Big smile!' She prepares the smartphone camera for the picture. Listen for the expression meaning 'place yourselves', which leads naturally into 'smile'.
-- 'Hi Christophe! Come this way.' Mathias steps out of his office to welcome his high-profile client. The adverb meaning 'here' sharpens the verb for 'come' here.
-- 'Mathias! It is a pleasure to see you.' The actor greets his agent with genuine warmth. Christophe opens with the word for 'it is' and lands on 'to see' at the close.
-- 'The director wants you for this role.' Mathias pitches an exciting new film offer right away. The key word here means 'movie director', paired with 'acting part' to make the point clear.
-- 'Read the script tonight.' The agent encourages him to evaluate the material without delay. Mathias uses the command form form for 'read' together with the word for 'evening'.
-- 'All right, I will read it quickly.' Christophe agrees to look through the project immediately. Listen for the expression meaning 'am going', which leads naturally into 'swiftly'.
-- 'See you later Mathias. Goodbye!' He wraps up the visit on an upbeat note before leaving. Listen for the expression meaning 'very', which leads naturally into 'goodbye'.
+- 'Oh my goodness, it is Christophe Lambert!' Noemie is astonished to see the famous film star walk into the lobby.
+- 'Hello Noémie! How are you doing?' Christophe warmly greets her by name with relaxed charm.
+- 'I am doing very well, thank you very much.' She responds politely while trying to hide her excitement.
+- 'Can I take a photo with you?' She gathers her courage to ask for a souvenir snapshot.
+- 'Yes, no problem with pleasure!' Christophe is gracious and happy to grant her request.
+- 'I am a very big fan.' She confesses her longstanding admiration for his filmography.
+- 'Me too, I am very friendly.' He jokes playfully to put the nervous assistant at ease.
+- 'Get closer. Big smile!' She prepares the smartphone camera for the picture.
+- 'Hi Christophe! Come this way.' Mathias steps out of his office to welcome his high-profile client.
+- 'Mathias! It is a pleasure to see you.' The actor greets his agent with genuine warmth.
+- 'The director wants you for this role.' Mathias pitches an exciting new film offer right away.
+- 'Read the script tonight.' The agent encourages him to evaluate the material without delay.
+- 'All right, I will read it quickly.' Christophe agrees to look through the project immediately.
+- 'See you later Mathias. Goodbye!' He wraps up the visit on an upbeat note before leaving.

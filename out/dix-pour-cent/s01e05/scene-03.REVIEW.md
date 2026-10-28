@@ -32,13 +32,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello? Thank you, Mum.' The special greeting used only when answering the telephone.
 - 'Stop it! I have work here.' Her mother wants her to come home and work at her hair salon instead of staying at her father's agency in Paris.
-- 'I'll try to come down for a weekend soon.' The simple future of 'to try', followed by the verb 'to go down' — how French speakers talk about travelling south from Paris to the provinces.
+- 'I'll try to come down for a weekend soon.' The simple future of 'to try', followed by the action word 'to go down' — how French speakers talk about travelling south from Paris to the provinces.
 - 'Mum, that's enough!' As Camille walks into ASK and greets a handsome colleague, her mother teases her over the line.
 - 'Hi, Camille.' At the reception desk, Sofia is getting ready to head out to the country film shoot.
 - 'I have a scene with JoeyStarr, I really have to focus.' Sofia has landed a two-line part as a servant in the eighteenth-century film.
 - 'Do you want an autograph?' Sofia tries to sound casual as she heads out.
 - 'Yours?' The possessive pronoun meaning 'yours', masculine singular to match 'autograph'.
-- 'No, JoeyStarr's.' Literally 'the one of JoeyStarr' — French uses this pointing word pronoun instead of adding an apostrophe-s.
+- 'No, JoeyStarr's.' Literally 'the one of JoeyStarr' — French uses this demonstrative pronoun instead of adding an apostrophe-s.
 - 'Yes, of course. See you later!' The short casual farewell at the end means 'until more'.
 - 'Thank you, Gran. That's really a lovely thought.' Upstairs at her desk, Camille takes a second birthday call from her grandmother, who has sent her a cheque in the post.
 - 'Camille, do you have a moment?' Mathias steps out of his office holding a large envelope.

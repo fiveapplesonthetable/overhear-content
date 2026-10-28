@@ -32,11 +32,11 @@ STORY = [
     ('gabriel', 'Oui, je suis toujours là avec toi.', 'Yes, I am always here with you.', [(92, "Je suis là, d'accord ?")], ''),
 ]
 WALK = [
-    (0, None, "'Hello Gabriel, do you have a minute?' Notice how the verb for 'have' leads straight into 'minute of time'."),
-    (1, None, "'Yes Julien, I was just thinking of you.' An affectionate imperfect tense expressing ongoing concern."),
+    (0, None, "'Hello Gabriel, do you have a minute?' A telephone greeting checking conversational availability."),
+    (1, None, "'Yes Julien, I was just thinking of you.' Answering his phone, Gabriel tells Julien warmly that he was just thinking of him."),
     (2, None, "'I am rereading my rejected screenplay again.' An iterative present verb showing obsessive artistic doubt."),
-    (3, None, "'Stop reading this screenplay, please.' Gabriel opens with the word for 'stop' and lands on 'pleases' at the close."),
-    (4, None, "'I want to understand our commercial failure.' The adjective meaning 'commercial' agrees in gender and number with masculine noun 'failure'."),
+    (3, None, "'Stop reading this screenplay, please.' A protective imperative urging a client to break negative habits."),
+    (4, None, "'I want to understand our commercial failure.' A modal phrase seeking reasons for professional setback."),
     (5, None, "'You are only making your sadness worse.' A restrictive negative structure highlighting emotional harm."),
     (6, None, "'No producer wants my story.' A negative subject construction stating perceived total rejection."),
     (7, None, "'Many films lack financing.' A reassuring industry generalization contextualizing production challenges."),
@@ -44,6 +44,6 @@ WALK = [
     (9, None, "'Cinema is a veritable rollercoaster.' A vivid metaphor illustrating unpredictable career fortunes."),
     (10, None, "'I no longer know what to write now.' A negative knowledge formula revealing creative disorientation."),
     (11, None, "'You simply must move on to something else.' An impersonal necessity idiom advising creative renewal."),
-    (12, None, "'Do you believe we will find another project?' Listen for the expression meaning 'believe', which leads naturally into 'creative project'."),
-    (13, None, "'Yes, I am always here with you.' Gabriel opens with the word for 'am' and lands on 'there' at the close."),
+    (12, None, "'Do you believe we will find another project?' A tentative question seeking future collaborative hope."),
+    (13, None, "'Yes, I am always here with you.' A steadfast affirmation guaranteeing personal and professional loyalty."),
 ]

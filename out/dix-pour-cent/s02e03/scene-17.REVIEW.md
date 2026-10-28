@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Catherine Barneville wants to see me?' Noémie asks in pure panic. The key word here means 'wishes', paired with 'to see' to make the point clear.
-- 'Tell her that Mathias went out.' Noémie desperately tries to avoid the encounter. Listen for the expression meaning 'tell her', which leads naturally into 'gone out'.
-- 'Say that I have urgent work.' She fabricates a quick excuse. Noémie opens with the word for 'say' and lands on 'pressing' at the close.
-- 'Mathias? It's Noémie.' She immediately dials Mathias's voicemail. The verb meaning 'is' anchors the whole remark.
-- 'Your wife is here at the agency!' Noémie warns him frantically. Noémie opens with the word for 'spouse' and lands on 'office' at the close.
-- 'Does she know about us?' She fears their secret affair is exposed. Listen for the expression meaning 'is', which leads naturally into 'loop'.
-- 'I don't know what to do, call me back!' She pleads into the receiver. The adverb meaning 'not' sharpens the verb for 'know' here.
-- 'Hello, Noémie.' Catherine steps into the doorway calmly. The standard greeting introduces the tense confrontation.
-- 'Hello Catherine. Sorry, I have to leave.' Noémie tries to slip past her. Notice how the verb for 'must' leads straight into 'hello'.
-- 'Wait, it's about Mathias.' Catherine blocks her path politely. Listen for the expression meaning 'hold on', which leads naturally into 'regard'.
-- 'I am running very late.' Noémie insists on her departure. Noémie opens with the word for 'am' and lands on 'schedule delay' at the close.
-- 'I'm having lunch with Camille and her mother.' She blurts out her destination. Noémie pairs the verb meaning 'am dining' with the noun for 'mother'.
-- 'Camille and her mother?' Catherine raises an eyebrow with curiosity. The key word here means 'mother', paired with 'mother' to make the point clear.
-- 'I need to eat a steak tartare.' Catherine decides she is hungry too. The key word here means 'have', paired with 'tartare dish' to make the point clear.
-- 'I'm coming with you!' Catherine invites herself along without hesitation. Catherine opens with the word for 'am coming' and lands on 'am coming' at the close.
-- 'All right... let's go together.' Noémie realizes she is completely trapped. Listen for the expression meaning 'very well', which leads naturally into 'as a pair'.
+- 'Catherine Barneville wants to see me?' Noémie asks in pure panic.
+- 'Tell her that Mathias went out.' Noémie desperately tries to avoid the encounter.
+- 'Say that I have urgent work.' She fabricates a quick excuse.
+- 'Mathias? It's Noémie.' She immediately dials Mathias's voicemail.
+- 'Your wife is here at the agency!' Noémie warns him frantically.
+- 'Does she know about us?' She fears their secret affair is exposed.
+- 'I don't know what to do, call me back!' She pleads into the receiver.
+- 'Hello, Noémie.' Catherine steps into the doorway calmly.
+- 'Hello Catherine. Sorry, I have to leave.' Noémie tries to slip past her.
+- 'Wait, it's about Mathias.' Catherine blocks her path politely.
+- 'I am running very late.' Noémie insists on her departure.
+- 'I'm having lunch with Camille and her mother.' She blurts out her destination.
+- 'Camille and her mother?' Catherine raises an eyebrow with curiosity.
+- 'I need to eat a steak tartare.' Catherine decides she is hungry too.
+- 'I'm coming with you!' Catherine invites herself along without hesitation.
+- 'All right... let's go together.' Noémie realizes she is completely trapped.

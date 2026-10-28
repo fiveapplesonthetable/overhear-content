@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'FIXME translation' The actor playing Santa Claus complains to his co-star about her busy schedule. The informal 'you' form around 'to know' marks a direct, personal relationship.
-- 'FIXME translation' He reminds her that he had arranged the celebration a long time ago. This conversational past tense combines a helper verb with the past verb form for 'to have'.
-- 'FIXME translation' The actress playing his wife retorts that other fairytale characters are also busy. The clause hinges on the everyday verb meaning 'to be'.
-- 'FIXME translation' She mentions Snow White as an example of someone who works diligently. The clause hinges on the everyday verb meaning 'to work'.
-- 'FIXME translation' Santa complains about the logistical nightmare of gathering fairy tale icons. The clause hinges on the everyday verb meaning 'to be'.
-- 'FIXME translation' She promises to return immediately after delivering the presents. The verb meaning 'to go home' pairs naturally with the noun for 'present' in everyday conversation.
-- 'FIXME translation' The director interrupts the scene to correct the actress's dialogue. Notice how 'to be' leads directly into the noun meaning 'text'.
-- 'FIXME translation' He instructs her to use a heavily sanitized line about a cat. The adjective meaning 'feline' takes its feminine form here to match the noun it describes.
-- 'FIXME translation' The actress questions the absurdity of her new line. In everyday spoken French, rising intonation on 'to be' at the end is enough to turn the sentence into a question.
-- 'FIXME translation' movie.' The director reminds them that the film is intended for children and must be appropriate. The verb meaning 'to be' pairs naturally with the noun for 'movie' in everyday conversation.
-- 'FIXME translation' The actor complains about the unbearable heat under the studio lights. Notice how 'to do' leads directly into the noun meaning 'degree'.
-- 'FIXME translation' The director instructs the crew to resume filming from the bar-hopping scene. The verb meaning 'to take back' pairs naturally with the noun for 'theatrical tour' in everyday conversation.
-- 'FIXME translation' The actor loses his patience and declares he cannot work under these ridiculous conditions. Notice the classic French sandwich negation wrapping right around 'can'.
-- 'FIXME translation' He throws a tantrum and storms off the set in frustration. The clause hinges on the everyday verb meaning 'to have'.
+- 'FIXME translation' The actor playing Santa Claus complains to his co-star about her busy schedule.
+- 'FIXME translation' He reminds her that he had arranged the celebration a long time ago.
+- 'FIXME translation' The actress playing his wife retorts that other fairytale characters are also busy.
+- 'FIXME translation' She mentions Snow White as an example of someone who works diligently.
+- 'FIXME translation' Santa complains about the logistical nightmare of gathering fairy tale icons.
+- 'FIXME translation' She promises to return immediately after delivering the presents.
+- 'FIXME translation' The director interrupts the scene to correct the actress's dialogue.
+- 'FIXME translation' He instructs her to use a heavily sanitized line about a cat.
+- 'FIXME translation' The actress questions the absurdity of her new line.
+- 'FIXME translation' movie.' The director reminds them that the film is intended for children and must be appropriate.
+- 'FIXME translation' The actor complains about the unbearable heat under the studio lights.
+- 'FIXME translation' The director instructs the crew to resume filming from the bar-hopping scene.
+- 'FIXME translation' The actor loses his patience and declares he cannot work under these ridiculous conditions.
+- 'FIXME translation' He throws a tantrum and storms off the set in frustration.

@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you mean, Isabelle is unavailable?' Sacha reacts with disbelief and irritation. Sacha opens with the word for 'how' and lands on 'unavailable' at the close.
-- 'She has a fashion show and costume fittings.' Andréa explains the packed schedule. The key word here means 'has', paired with 'fittings' to make the point clear.
-- 'I stayed in Paris specially for her!' Sacha stresses his personal sacrifice. The verb meaning 'am' anchors the whole remark.
-- 'She charms me, then she snubs me.' Sacha complains about erratic behavior. Listen for the expression meaning 'charms', which leads naturally into 'snubs'.
-- 'Sacha, do not be so paranoid.' Andréa tries to calm his growing suspicion. The adverb meaning 'not' sharpens the verb for 'be' here.
-- 'I do not need Adjani for my movie.' Sacha defensively claims he can manage without her. The key word here means 'not', paired with 'movie' to make the point clear.
-- 'There are other great actresses.' Sacha insists that alternatives exist. Sacha pairs the verb meaning 'has' with the noun for 'actresses'.
-- 'Wait, I am going to call her right away.' Andréa takes matters into her own hands. The adverb meaning 'all' sharpens the verb for 'wait' here.
-- 'Hello Isabelle? It is Andréa Martel.' Andréa greets the star politely on the phone. Listen for the expression meaning 'it is', which leads naturally into 'it is'.
-- 'Sacha Hartman would really like to see you.' Andréa presents the director's interest smoothly. The adverb meaning 'a lot' sharpens the verb for 'would like' here.
-- 'Would you be free tomorrow morning at the office?' She suggests a convenient meeting time. The key word here means 'would you be', paired with 'office' to make the point clear.
-- 'Perfect, see you tomorrow at eleven o'clock!' Andréa confirms the agreed time enthusiastically. The key word here means 'perfect', paired with 'o'clock' to make the point clear.
-- 'You see, Sacha? It is settled.' Andréa shows him that his fears were unfounded. Listen for the expression meaning 'see', which leads naturally into 'settled'.
-- 'She really agreed to see me?' Sacha is pleasantly stunned by the outcome. Listen for the expression meaning 'has', which leads naturally into 'to see'.
-- 'Yes, she has been trying to reach you for two days.' Andréa reveals Isabelle's true interest. The adverb meaning 'yes' sharpens the verb for 'tries' here.
-- 'Alright, then I will be there tomorrow.' Sacha commits to attending the appointment. Sacha opens with the word for 'alright' and lands on 'tomorrow' at the close.
+- 'What do you mean, Isabelle is unavailable?' Sacha reacts with disbelief and irritation.
+- 'She has a fashion show and costume fittings.' Andréa explains the packed schedule.
+- 'I stayed in Paris specially for her!' Sacha stresses his personal sacrifice.
+- 'She charms me, then she snubs me.' Sacha complains about erratic behavior.
+- 'Sacha, do not be so paranoid.' Andréa tries to calm his growing suspicion.
+- 'I do not need Adjani for my movie.' Sacha defensively claims he can manage without her.
+- 'There are other great actresses.' Sacha insists that alternatives exist.
+- 'Wait, I am going to call her right away.' Andréa takes matters into her own hands.
+- 'Hello Isabelle? It is Andréa Martel.' Andréa greets the star politely on the phone.
+- 'Sacha Hartman would really like to see you.' Andréa presents the director's interest smoothly.
+- 'Would you be free tomorrow morning at the office?' She suggests a convenient meeting time.
+- 'Perfect, see you tomorrow at eleven o'clock!' Andréa confirms the agreed time enthusiastically.
+- 'You see, Sacha? It is settled.' Andréa shows him that his fears were unfounded.
+- 'She really agreed to see me?' Sacha is pleasantly stunned by the outcome.
+- 'Yes, she has been trying to reach you for two days.' Andréa reveals Isabelle's true interest.
+- 'Alright, then I will be there tomorrow.' Sacha commits to attending the appointment.

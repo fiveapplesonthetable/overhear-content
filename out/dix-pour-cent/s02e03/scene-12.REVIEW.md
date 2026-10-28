@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is Sofia, she is at reception.' Hicham introduces the receptionist to his son. Listen for the expression meaning 'is', which leads naturally into 'the reception'.
-- 'Hello! Everything is going very well today.' Sofia greets them warmly with polite professionalism. The fixed idiom 'everything' is standard for answering how things are.
-- 'Here is my son Elvis, for the week.' Hicham proudly introduces his boy. The presentative 'here is' presents a person standing close by.
-- 'A week between boys in Paris!' Hicham looks forward to male bonding in the capital. Hicham opens with the word for 'week' and lands on 'boys' at the close.
-- 'He goes to the French school in London.' Hicham shares his son's schooling location. Listen for the expression meaning 'goes', which leads naturally into 'French'.
-- 'It is really one of the best schools.' Hicham boasts about academic excellence. The superlative structure 'one' uses the feminine plural adjective.
-- 'We will be in my office, see you later.' Hicham announces their destination inside ASK. Hicham uses the future form for 'will be' alongside 'the hour'.
-- 'I have tickets for the PSG match!' Hicham shares his exciting football plans. The plural noun phrase 'some' specifies admission tickets.
-- 'Camille, do you want to come with us?' Hicham extends a spontaneous invitation. The verb meaning 'want' anchors the whole remark.
-- 'Thank you, Mr. Janowski, that is very kind.' Camille responds with gratitude. Camille opens with the word for 'Mr.' and lands on 'kind' at the close.
-- 'Do you want to become an agent later on?' Sofia inquires about Camille's career dreams. Listen for the expression meaning 'have', which leads naturally into 'late'.
-- 'Yes, I would very much like to be an agent one day.' Camille confesses her ambition. The key word here means 'yes', paired with 'day' to make the point clear.
-- 'The future of French cinema is in your hands!' Sofia encourages her colleague playfully. Sofia pairs the verb meaning 'is' with the noun for 'hands'.
-- 'Do not forget that many actors are actresses.' Sofia reminds her of gender representation. The key word here means 'do not forget', paired with 'actresses' to make the point clear.
-- 'You do not want me to apply?' Camille seeks clarification on agency training. The verb meaning 'want' anchors the whole remark.
-- 'Of course I do, I will think about it with you.' Sofia pledges friendly career advice. Listen for the expression meaning 'of course', which leads naturally into 'will think'.
+- 'Here is Sofia, she is at reception.' Hicham introduces the receptionist to his son.
+- 'Hello! Everything is going very well today.' Sofia greets them warmly with polite professionalism.
+- 'Here is my son Elvis, for the week.' Hicham proudly introduces his boy.
+- 'A week between boys in Paris!' Hicham looks forward to male bonding in the capital.
+- 'He goes to the French school in London.' Hicham shares his son's schooling location.
+- 'It is really one of the best schools.' Hicham boasts about academic excellence.
+- 'We will be in my office, see you later.' Hicham announces their destination inside ASK.
+- 'I have tickets for the PSG match!' Hicham shares his exciting football plans.
+- 'Camille, do you want to come with us?' Hicham extends a spontaneous invitation.
+- 'Thank you, Mr. Janowski, that is very kind.' Camille responds with gratitude.
+- 'Do you want to become an agent later on?' Sofia inquires about Camille's career dreams.
+- 'Yes, I would very much like to be an agent one day.' Camille confesses her ambition.
+- 'The future of French cinema is in your hands!' Sofia encourages her colleague playfully.
+- 'Do not forget that many actors are actresses.' Sofia reminds her of gender representation.
+- 'You do not want me to apply?' Camille seeks clarification on agency training.
+- 'Of course I do, I will think about it with you.' Sofia pledges friendly career advice.

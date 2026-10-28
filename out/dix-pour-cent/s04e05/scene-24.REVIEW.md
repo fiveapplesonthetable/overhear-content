@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did the doctor place this monitor on you?' Noemie examines the device on Mathias's chest. This conversational past tense combines a helper verb with the past verb form for 'placed'.
-- 'Yes, to monitor my heart rate.' Mathias explains the safeguard. The verb meaning 'to monitor' pairs naturally with the noun for 'rate' in everyday conversation.
-- 'You must rest at home.' Noemie insists on immediate convalescence. The informal 'you' form around 'must' marks a direct, personal relationship.
-- 'Igor wants to go to the director's house.' Mathias nervously mentions the meeting. French forms the near future by pairing the present tense of 'to go' directly with 'to go'.
-- 'You almost died of a heart attack!' Noemie reminds him of how close he came to death. Noemie uses the casual singular 'you' with 'have', showing close familiarity.
-- 'It is a very important meeting today.' Mathias struggles with workplace duty. The key noun here means 'appointment', anchored by its matching French article.
-- 'Igor treats everyone without mercy.' Noemie condemns the producer's exploitation. The verb meaning 'treats' pairs naturally with the noun for 'world' in everyday conversation.
-- 'He still brought me chocolates.' Mathias offers a pathetic defense of his partner. The verb meaning 'has' pairs naturally with the noun for 'chocolates' in everyday conversation.
-- 'Do not try to defend him again!' Noemie cuts through his excuses. The two-part French negation brackets the verb for 'seek' on both sides.
-- 'I do not want to lose this project.' Mathias admits his fear of failure. Notice how 'want' leads directly into the noun meaning 'project'.
-- 'Your life is worth more than this film.' Noemie reestablishes human priorities. The verb meaning 'is worth' pairs naturally with the noun for 'life' in everyday conversation.
-- 'You are truly angry, my darling.' Mathias feels both chastised and deeply loved. The key noun here means 'anger', anchored by its matching French article.
-- 'I refuse to let you die stupidly.' Noemie stands between him and exhaustion. Noemie uses the casual singular 'you' with 'refuse', showing close familiarity.
-- 'Let us go home to rest together.' Mathias surrenders to love and good sense. The clause hinges on the everyday verb meaning 'let us go home'.
+- 'Did the doctor place this monitor on you?' Noemie examines the device on Mathias's chest.
+- 'Yes, to monitor my heart rate.' Mathias explains the safeguard.
+- 'You must rest at home.' Noemie insists on immediate convalescence.
+- 'Igor wants to go to the director's house.' Mathias nervously mentions the meeting.
+- 'You almost died of a heart attack!' Noemie reminds him of how close he came to death.
+- 'It is a very important meeting today.' Mathias struggles with workplace duty.
+- 'Igor treats everyone without mercy.' Noemie condemns the producer's exploitation.
+- 'He still brought me chocolates.' Mathias offers a pathetic defense of his partner.
+- 'Do not try to defend him again!' Noemie cuts through his excuses.
+- 'I do not want to lose this project.' Mathias admits his fear of failure.
+- 'Your life is worth more than this film.' Noemie reestablishes human priorities.
+- 'You are truly angry, my darling.' Mathias feels both chastised and deeply loved.
+- 'I refuse to let you die stupidly.' Noemie stands between him and exhaustion.
+- 'Let us go home to rest together.' Mathias surrenders to love and good sense.

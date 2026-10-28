@@ -31,21 +31,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's cheeky of Gabriel.' The adjective comes from an old word for trousers: someone who has the nerve. And the phrase after it means 'on the part of', so: cheeky, coming from Gabriel.
-- 'You think it's cheeky?' The verb here is 'to find', used for opinions, just like 'do you find it cheeky?' Camille is new, so she doesn't see the problem.
+- 'That's cheeky of Gabriel.' The describing word comes from an old word for trousers: someone who has the nerve. And the phrase after it means 'on the part of', so: cheeky, coming from Gabriel.
+- 'You think it's cheeky?' The action word here is 'to find', used for opinions, just like 'do you find it cheeky?' Camille is new, so she doesn't see the problem.
 - 'Yes! There's an old story between Line and Françoise.' Three little words at the start mean 'there is'. You'll hear them constantly.
-- 'What story?' The question word agrees with the noun; story is feminine, so it takes the feminine spelling, though it sounds the same.
-- 'They can't stand each other.' Literally 'they can't smell each other'. The little reflexive word makes it mutual: each other. That's the first grammar point of the scene.
+- 'What story?' The question word agrees with the word; story is feminine, so it takes the feminine spelling, though it sounds the same.
+- 'They can't stand each other.' Literally 'they can't smell each other'. The little self-directed word makes it mutual: each other. That's the first language point of the scene.
 - 'Really? I've never heard that.' The word for 'never' takes the place of the usual 'not' in the two-part negative. Hervé settles in to tell the story.
-- 'Line was a well-known singer. Françoise was a young actress.' This past tense sets the scene: what things were like back then. It's the second grammar point: the tense for background and description.
-- 'Françoise had a boyfriend. Guess who!' The same background tense for 'had', then a casual command. Camille has no idea.
+- 'Line was a well-known singer. Françoise was a young actress.' This past form sets the scene: what things were like back then. It's the second language point: the form for background and description.
+- 'Françoise had a boyfriend. Guess who!' The same background form for 'had', then a casual command. Camille has no idea.
 - 'I don't know.' The classic two-part negative around the verb 'to know'.
 - 'Samuel!' Their late boss, the founder of the agency, whose funeral is this week.
 - 'Françoise was with Samuel?' To be 'with' someone means to be their partner, in French as in English. Camille is amazed.
-- 'Yes! And one day, she introduces him to Line.' French storytellers often switch to the present to make the key moment vivid. The little word before the verb means 'him'.
+- 'Yes! And one day, she introduces him to Line.' French storytellers often switch to the present to make the key moment vivid.
 - 'Since then, the two women don't speak to each other any more.' The reflexive word again, for 'each other', and the negative with 'any more' at the end.
-- 'Line became a star, and Françoise made art-house films.' Now two completed past events. Notice the first uses the verb 'to be' as its helper, because it means 'to become'.
+- 'Line became a star, and Françoise made art-house films.' Now two completed past events.
 - 'Deep down, Françoise would have liked to be a singer.' A form for things that didn't happen: she would have liked it. Just learn it as one block.
 - 'And Line, a film actress.' Hervé doesn't repeat the verb; we understand it: Line would have liked to be an actress.
 - 'Each one hates the other?' The first word means 'each one' and has a feminine form here, because we're talking about two women.
-- 'Exactly.' And that, Hervé says, is why Gabriel's idea is so cheeky. Now the whole story again. Now hear the entire conversation again from the top.
+- 'Exactly.' And that, Hervé says, is why Gabriel's idea is so cheeky.

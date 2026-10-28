@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Isabelle, how are you feeling?' The informal 'you' form around 'do you feel' marks a direct, personal relationship. The informal 'you' form around 'do you feel' marks a direct, personal relationship.
-- 'I was in the middle of rehearsing Hamlet.' An artistic explanation accounting for theatrical intensity. Notice how 'was' leads directly into the noun meaning 'train'.
-- 'You are playing Hamlet next March?' The verb meaning 'play' pairs naturally with the noun for 'March' in everyday conversation.
-- 'Yes, with the magnificent Scarlett Johansson.' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'Are you not too exhausted?' The adverb meaning 'too' gives the reply its conversational emphasis.
-- 'I am wiped out but so happy.' The adverb meaning 'so' gives the reply its conversational emphasis.
-- 'How do you cope with two shoots?' Notice how 'do you keep up' leads directly into the noun meaning 'filming sessions'. Notice how 'do you keep up' leads directly into the noun meaning 'filming sessions'.
-- 'Exhaustion plunges me into a trance.' A poetic psychological description of high-intensity artistic immersion. The short 'self' word sits right in front of the verb for 'plunges', turning the action back onto the subject.
-- 'It is an almost euphoric state!' The descriptive adjective for 'euphoric' agrees in gender and number with its noun. The descriptive adjective for 'euphoric' agrees in gender and number with its noun.
-- 'It is an absolutely divine artistic feeling.' A transcendent summary celebrating the joy of performance. The key noun here means 'sensation', anchored by its matching French article.
-- 'Do you take medicine to keep going?' Inverting the verb and pronoun around 'do you take' creates a crisp, polished question. Inverting the verb and pronoun around 'do you take' creates a crisp, polished question.
-- 'My only drug is dried fruit!' A humorous denial pointing to healthy natural snacks as her energy source. The key noun here means 'drug', anchored by its matching French article.
-- 'Put on your hat quickly for Delphine.' The verb meaning 'put' pairs naturally with the noun for 'hat' in everyday conversation.
-- 'I am going, the set is waiting for me!' A spirited departure answering the director's call to set. Dropping the subject pronoun turns the verb for 'am going' into a direct, punchy command.
+- 'Hello Isabelle, how are you feeling?' An affectionate greeting inquiring about an actress's well-being.
+- 'I was in the middle of rehearsing Hamlet.' An artistic explanation accounting for theatrical intensity.
+- 'You are playing Hamlet next March?' A surprised question discovering yet another major production commitment.
+- 'Yes, with the magnificent Scarlett Johansson.' An enthusiastic confirmation revealing a stellar co-star.
+- 'Are you not too exhausted?' A concerned inquiry checking physical and emotional endurance.
+- 'I am wiped out but so happy.' A candid confession balancing deep tiredness with creative fulfillment.
+- 'How do you cope with two shoots?' A bewildered question asking how she handles the impossible double schedule.
+- 'Exhaustion plunges me into a trance.' A poetic psychological description of high-intensity artistic immersion.
+- 'It is an almost euphoric state!' An astonished reaction marveling at her creative exhilaration.
+- 'It is an absolutely divine artistic feeling.' A transcendent summary celebrating the joy of performance.
+- 'Do you take medicine to keep going?' A practical inquiry asking about stimulants or medical assistance.
+- 'My only drug is dried fruit!' A humorous denial pointing to healthy natural snacks as her energy source.
+- 'Put on your hat quickly for Delphine.' A gentle reminder refocusing the star on the current character costume.
+- 'I am going, the set is waiting for me!' A spirited departure answering the director's call to set.

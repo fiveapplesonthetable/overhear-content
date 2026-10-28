@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sofia, did you put your photo in this envelope?' The everyday past tense of 'to put' uses a short past form after 'have'.
+- 'Sofia, did you put your photo in this envelope?' The everyday past of 'to put' uses a short past form after 'have'.
 - 'Yes! And she wants me for the casting!' Sofia isn't sorry at all: the casting director actually picked her.
 - 'No, Sofia! You're not with our agency.' Literally 'in our agency'. Sofia works on the front desk, not as one of their clients.
-- 'And I don't know if you can act.' Notice the same verb, 'to know', used twice: first 'know a fact', then 'know how to act'.
+- 'And I don't know if you can act.' Notice the same action word, 'to know', used twice: first 'know a fact', then 'know how to act'.
 - 'You don't know? Then come and see my show!' The command 'come' is followed straight by 'to see', with no little word in between.
 - 'Nobody offers me auditions!' With the word for 'nobody' at the start, French doesn't use the usual second negative word.
-- 'But here, you stole this audition!' The verb 'to steal' in the everyday past tense. Sofia objects to the word.
+- 'But here, you stole this audition!' The action word 'to steal' in the everyday past. Sofia objects to the word.
 - 'No, I just added my photo, that's all.' The two words at the end literally say 'it is all', a very common way to finish an excuse.
 - 'Does she want to see me? Does she like my look?' Even while arguing, Sofia is thrilled that a casting director noticed her.
 - 'Calm down, Sofia!' Literally 'calm yourself'. Then Gabriel's phone rings: it's Laura Smet.

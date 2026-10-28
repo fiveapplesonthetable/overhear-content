@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must take the plunge now, Camille.' Mathias encourages his daughter to take the next career step. Mathias uses the casual singular 'you' with 'must', showing close familiarity.
-- 'I want to create my own agency.' Camille shares her dream of independence. The descriptive adjective for 'own' agrees in gender and number with its noun.
-- 'Do you think we could be partners?' Camille boldly suggests a joint venture. Notice how 'think' leads directly into the noun meaning 'partners'.
-- 'You and me in the same agency?' Mathias reflects with cautious amusement. The informal 'you' form around 'agency' marks a direct, personal relationship.
-- 'Yes, like real equal partners!' Camille envisions a modern professional partnership. The descriptive adjective for 'real' agrees in gender and number with its noun.
-- 'You have already worked with your mother.' Mathias brings up family work experience. Mathias uses the casual singular 'you' with 'have', showing close familiarity.
-- 'It was horrible during the holidays!' Camille recalls the tense summer job. The verb meaning 'was' pairs naturally with the noun for 'holidays' in everyday conversation.
-- 'But that gave you strength.' Mathias highlights how challenges build character. This conversational past tense combines a helper verb with the past verb form for 'given'.
-- 'I no longer need a boss.' Camille states her professional maturity. The verb meaning 'have' pairs naturally with the noun for 'need' in everyday conversation.
-- 'I am the one who needs you.' Mathias humbles himself with emotional honesty. Notice how 'have' leads directly into the noun meaning 'need'.
-- 'I want to do this job differently.' Mathias expresses his desire for a fresh start. The verb meaning 'want' pairs naturally with the noun for 'job' in everyday conversation.
-- 'Do you really mean it, Dad?' Camille looks at him with affectionate respect. In everyday spoken French, rising intonation on 'think' at the end is enough to turn the sentence into a question.
-- 'Yes, let us create beautiful memories together.' Mathias seals their shared vision. Notice how 'let us create' leads directly into the noun meaning 'memories'.
-- 'Then here we go for the adventure!' Camille smiles enthusiastically at their future. Notice how 'off' leads directly into the noun meaning 'adventure'.
+- 'You must take the plunge now, Camille.' Mathias encourages his daughter to take the next career step.
+- 'I want to create my own agency.' Camille shares her dream of independence.
+- 'Do you think we could be partners?' Camille boldly suggests a joint venture.
+- 'You and me in the same agency?' Mathias reflects with cautious amusement.
+- 'Yes, like real equal partners!' Camille envisions a modern professional partnership.
+- 'You have already worked with your mother.' Mathias brings up family work experience.
+- 'It was horrible during the holidays!' Camille recalls the tense summer job. The adjective 'horrible' describes a dreadful experience.
+- 'But that gave you strength.' Mathias highlights how challenges build character.
+- 'I no longer need a boss.' Camille states her professional maturity.
+- 'I am the one who needs you.' Mathias humbles himself with emotional honesty.
+- 'I want to do this job differently.' Mathias expresses his desire for a fresh start.
+- 'Do you really mean it, Dad?' Camille looks at him with affectionate respect.
+- 'Yes, let us create beautiful memories together.' Mathias warmly agrees to build wonderful memories together with his daughter.
+- 'Then here we go for the adventure!' Camille smiles enthusiastically at their future.

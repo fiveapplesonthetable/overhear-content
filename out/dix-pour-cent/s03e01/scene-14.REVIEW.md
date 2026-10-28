@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That dinner was a total trap!' Mathias vents about Hicham's ambush meeting. The verb meaning 'was' pairs naturally with the noun for 'dinner' in everyday conversation.
-- 'I wanted to discuss the future of ASK.' Mathias expected a serious strategic conversation. Notice how 'wanted' leads directly into the noun meaning 'future'.
-- 'Hicham wants to develop new branches.' He complains about reckless corporate expansion. The verb meaning 'wants' pairs naturally with the noun for 'business branches' in everyday conversation.
-- 'Two arrogant guys showed up.' Mathias resents the young outside consultants. Notice how 'arrived' leads directly into the noun meaning 'guys'.
-- 'Darling, it is his money after all.' Catherine tries to soothe her stressed husband. The key noun here means 'darling', anchored by its matching French article.
-- 'Yes, but it affects our agency!' Mathias insists that company prestige is at stake. The verb meaning 'affects' pairs naturally with the noun for 'talent agency' in everyday conversation.
-- 'They want to do image consulting!' He sneers at corporate PR and political advising. The verb meaning 'want' pairs naturally with the noun for 'consulting' in everyday conversation.
-- 'Honestly, where are we heading now?' Mathias questions the agency's strategic direction. The clause hinges on the everyday verb meaning 'are going'.
-- 'He will want to do everything together.' Catherine astutely predicts Hicham's overreach. French forms the near future by pairing the present tense of 'to go' directly with 'to do'.
-- 'He will be less present at ASK.' She points out the silver lining of Hicham's distractions. The clause hinges on the everyday verb meaning 'will be'.
-- 'He should appoint a Managing Director.' Mathias envisions a formal leadership role for himself. The clause hinges on the everyday verb meaning 'would be necessary'.
-- 'Someone who knows the company well!' He subtly outlines his own ideal qualifications. Notice how 'knows' leads directly into the noun meaning 'business'.
-- 'Mathias is doing yoga with his wife.' Catherine teases him during their joint exercise. The verb meaning 'does' pairs naturally with the noun for 'yoga exercise' in everyday conversation.
-- 'Yoga relaxes me a lot, truly.' Mathias admits that the stretching brings genuine relief. The short 'self' word sits right in front of the verb for 'relaxes', turning the action back onto the subject.
-- 'It is important to be together, darling.' Catherine values their quiet domestic bond. The verb meaning 'to be' pairs naturally with the noun for 'darling' in everyday conversation. Now let's hear the whole conversation again.
+- 'That dinner was a total trap!' Mathias vents about Hicham's ambush meeting.
+- 'I wanted to discuss the future of ASK.' Mathias expected a serious strategic conversation.
+- 'Hicham wants to develop new branches.' He complains about reckless corporate expansion.
+- 'Two arrogant guys showed up.' Mathias resents the young outside consultants.
+- 'Darling, it is his money after all.' Catherine tries to soothe her stressed husband.
+- 'Yes, but it affects our agency!' Mathias insists that company prestige is at stake.
+- 'They want to do image consulting!' He sneers at corporate PR and political advising.
+- 'Honestly, where are we heading now?' Mathias questions the agency's strategic direction.
+- 'He will want to do everything together.' Catherine astutely predicts Hicham's overreach.
+- 'He will be less present at ASK.' She points out the silver lining of Hicham's distractions.
+- 'He should appoint a Managing Director.' Mathias envisions a formal leadership role for himself.
+- 'Someone who knows the company well!' He subtly outlines his own ideal qualifications.
+- 'Mathias is doing yoga with his wife.' Catherine teases him during their joint exercise.
+- 'Yoga relaxes me a lot, truly.' Mathias admits that the stretching brings genuine relief.
+- 'It is important to be together, darling.' Catherine values their quiet domestic bond. Now listen to the whole scene again at normal speed, and see how much more you catch.

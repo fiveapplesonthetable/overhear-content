@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello Guy, we are shooting scene thirty-four.' The director announces the current production sequence.
 - 'Your character must change clothes here.' An explanation of physical character blocking in the scene.
 - 'You take off your pajamas for your suit.' A specific costume change instruction symbolizing political return.
-- 'What are you talking about exactly, young girl?' The adjective meaning 'young' agrees in gender and number with feminine noun 'girl'.
+- 'What are you talking about exactly, young girl?' A bewildered question showing sudden disorientation.
 - 'This woman is asking me to strip!' A dramatic misinterpretation reflecting acute cognitive confusion.
 - 'Guy, calm down, everything is going very well.' A soothing intervention attempting to de-escalate tension.
 - 'Gabriel, this stranger has a lot of nerve.' A dismissive complaint about someone he suddenly fails to recognize.
@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yet you worked together last week.' Gabriel gently reminds him of their recent work meetings.
 - 'I feel a bit tired now.' A defensive retreat acknowledging physical weakness.
 - 'I prefer to go home right away.' A hasty departure avoiding public embarrassment.
-- 'Wait Guy, we must shoot this scene!' Listen for the expression meaning 'wait', which leads naturally into 'film scene'.
+- 'Wait Guy, we must shoot this scene!' An anxious plea trying to salvage the shooting schedule.
 - 'No, we will talk later on the phone.' A stubborn dismissal cutting short on-set conversation.

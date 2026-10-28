@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you sure you have eaten enough?' Mathias shows fatherly care using the compound past infinitive.
-- 'So, you have something to tell me.' Camille prompts him directly with an indefinite pronoun construction.
-- 'I caused harm by hiding the truth for years.' A gerund form expressing the continuous cause of distress.
+- 'Are you sure you have eaten enough?' Over breakfast, Mathias checks with fatherly concern that Camille has eaten enough.
+- 'So, you have something to tell me.' Camille senses his hesitation and prompts him to say what is on his mind.
+- 'I caused harm by hiding the truth for years.' Mathias admits he caused real pain by hiding the truth for so many years.
 - 'Catherine threw me out.' An idiomatic past expression literally meaning put to the door.
-- 'She thinks I am a liar.' A verb of opinion governing a second part of the sentence with a predicate noun.
-- 'I want to fix that and tell the truth.' Two infinitives joined by a connecting word after a modal verb.
+- 'She thinks I am a liar.' Mathias sighs that his wife Catherine now sees him as a liar.
+- 'I want to fix that and tell the truth.' Two infinitives joined by a conjunction after a modal verb.
 - 'I want to tell everyone that you are my daughter.' Mathias states his wish to acknowledge his child publicly.
 - 'At the agency? But now I am afraid.' Camille reacts with shock followed by an expression of fear.
-- 'Afraid of what, Camille?' Mathias asks for clarification with a linking word and question word.
-- 'I am afraid of losing the trust of my colleagues.' The key word here means 'I have', paired with 'coworkers' to make the point clear.
+- 'Afraid of what, Camille?' Mathias gently asks Camille what she is afraid of.
+- 'I am afraid of losing the trust of my colleagues.' The verb to lose followed by an abstract quality noun.
 - 'Do you think Andréa wants your daughter as an assistant?' A question highlighting professional vulnerability.
 - 'Hervé and Noémie are my friends now.' Camille describes her newly built personal and professional bonds.
 - 'They will think that I am a liar.' The near-future tense expressing Camille's fear of social rejection.

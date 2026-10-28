@@ -32,20 +32,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I swear, it's a wonderful film.' The first part is a little oath, 'I swear to you', that people use all the time to sound convincing. Gabriel sighs with her.
-- 'What a waste.' This little word in front of a noun turns it into an exclamation: what a waste, what a film. Then he tries to cheer her up.
-- 'You'll find someone else.' The verb is in the simple future, with that ending you can hear at the end of 'you will find'. Andréa doesn't think it's that easy.
+- 'What a waste.' This little word in front of a naming word turns it into an exclamation: what a waste, what a film. Then he tries to cheer her up.
+- 'You'll find someone else.' The action word is in the simple future, with that ending you can hear at the end of 'you will find'. Andréa doesn't think it's that easy.
 - 'Shooting starts in three weeks.' The word for shooting a film comes from the verb 'to turn', from the days when cameras had a handle. Then the real worry comes out.
 - 'Do you think Mathias is right?' Literally 'you believe that Mathias has reason?'. In French you 'have reason' when you're right. What did Mathias say?
-- 'I'm not reassuring for my clients?' Listen to the word for reassuring: it has a feminine ending, because Andréa is talking about herself. It's our first grammar point today. Gabriel is kind.
+- 'I'm not reassuring for my clients?' Listen to the word for reassuring: it has a feminine ending, because Andréa is talking about herself.
 - 'No, no, not at all.' He gently adds that she could perhaps work a little on her temper, and she gets cross all over again: she says that without authority, you get walked over. Then the food is ready.
 - 'Dinner's ready!' Literally 'to the table!'. It's what French families shout from the kitchen. On the table there's a framed photo.
 - 'Who's this?' Literally 'it's who?'. Putting the question word at the end is very relaxed, everyday French.
 - 'Florence, my ex. But that was a long time ago.' The word for 'ex' is the same as in English. He adds that it was a year ago, a year and a bit. Andréa takes his side straight away.
-- 'Why did she leave you?' In the show she calls Florence a rude name, and Gabriel defends her. The verb is in the everyday past, with the little 'you' squeezed in front.
+- 'Why did she leave you?' In the show she calls Florence a rude name, and Gabriel defends her.
 - 'I wanted a child, and she didn't.' 'I wanted' is in the past form used for wishes and feelings that lasted a while. He tries to sound brave.
 - 'It's in the past. I've turned the page.' Same image as in English: a new page, a new chapter. But he still keeps her photo. Andréa, who loves women and has never planned a family with a man, has an idea.
 - 'I think I could have a child with you.' Second grammar point: 'could' is the conditional, the 'would' form of the verb for 'can'. It's soft and careful, which suits a big idea like this. Gabriel laughs it off.
 - 'That's the wine talking.' Exactly the same joke as in English. But Andréa means it.
 - 'I'm sure you'd be a great dad.' Two things to notice: 'sure' has the feminine ending again, and 'you'd be' is the conditional of 'to be'. His clients even call him 'Daddy', she says. Then she explains her thinking.
 - 'Between an anonymous donor and a friend, I choose the friend.' She would rather have a child with someone she trusts and loves as a friend. Gabriel doesn't know what to say.
-- 'Is that an offer? I'm touched.' The last word means moved, touched in the heart. A tender moment between two friends who are both a bit lost this week. Here's the whole evening once more. Let's listen to the whole scene once more without interruption.
+- 'Is that an offer? I'm touched.' The last word means moved, touched in the heart. A tender moment between two friends who are both a bit lost this week.

@@ -40,7 +40,7 @@ WALK = [
     (6, None, "'Neither your boss nor your father reacted!' Annick criticizes the people in power at ASK."),
     (7, None, "'Nobody tried to keep you there!' Annick emphasizes how easily the agency let Camille walk away."),
     (8, None, "'I lied to Andréa for months.' Camille takes responsibility for hiding her relationship with Mathias."),
-    (9, None, "'She does not trust me at all anymore.' Camille understands why Andréa felt deeply betrayed."),
+    (9, None, "'She does not trust me at all anymore.' Camille understands why Andrea felt deeply betrayed."),
     (10, None, "'And Mathias is very busy with his divorce.' Camille explains her father's chaotic personal life."),
     (11, None, "'Is that how he thanks you?' Annick expresses maternal outrage over Mathias's lack of loyalty."),
     (12, None, "'This world is nothing but a facade.' Annick concludes that Parisian agency glamour hides cold reality."),

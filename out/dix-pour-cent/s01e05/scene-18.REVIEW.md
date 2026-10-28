@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'We're together all day, every day.' Notice how the word for 'all' changes from feminine singular for 'the whole day' to masculine plural for 'every day'.
 - 'But we don't really enjoy each other's company.' The phrase at the end literally means 'the one of the other'.
-- 'We shouldn't let the job define us.' The conditional form of 'must' means 'should'.
+- 'We shouldn't let the job define us.' The hypothetical 'would' form of 'must' means 'should'.
 - 'Arlette, for example.' Gabriel thinks about their oldest colleague at the agency.
-- 'What do we know about her? Or about Mathias?' This everyday French sentence pairs 'what is it' with 'Mathias'.
+- 'What do we know about her? Or about Mathias?' Gabriel wonders how little they really know about their closest partners.
 - 'That's what the job is, Gabriel.' Literally 'it is that, the work'.
-- 'And us. Look at us.' The pronoun after the hyphen means 'us'.
+- 'And us. Look at us.' The short word after the hyphen means 'us'.
 - 'What do I know about you?' Gabriel has no idea Colette is waiting upstairs in Andréa's room right now.
 - 'We coddle our actors too much while forgetting to live for ourselves.' The verb literally means 'brood over' like a mother hen.
 - 'Yes, you're right.' Literally 'you have reason'.
@@ -41,6 +41,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Good night.' Meanwhile in Paris, Hippolyte sings happy birthday to Camille with a small cake and tells her turning twenty-three is not the end of the world.
 - 'No, it isn't that.' Camille explains why she looks sad.
 - 'Someone important to me forgot my birthday.' After the word for 'someone', French links the adjective with the little word for 'of'.
-- 'No, it's past midnight.' Meanwhile, Hippolyte says there is still time for the person to call, but the clock has already passed twelve.
+- 'No, it's past midnight.' Here, Hippolyte says there is still time for the person to call, but the clock has already passed twelve.
 - 'He forgot.' She means her father, Mathias.
-- 'It's too late now.' Notice how 'it is' sets up the clause and leads naturally into 'now'. Now let's hear the whole scene again from start to finish.
+- 'It's too late now.' Camille sighs as her twenty-third birthday ends without a call from Mathias. Now let's hear the whole scene again from start to finish.

@@ -31,12 +31,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'So, what made you want to make this film?' The journalist opens with a standard promotional question.
 - 'The story was good. It is a comedy.' Virginie gives a lukewarm answer with minimal enthusiasm.
-- 'Was the film shoot fun with Ramzy?' The adjective meaning 'nice' agrees in gender and number with masculine noun 'shoot'.
+- 'Was the film shoot fun with Ramzy?' A friendly inquiry that touches a very sore subject.
 - 'Comedy is not necessarily funny. It is very tense.' She shatters promotional cheerfulness with brutal honesty.
 - 'You can see it on screen, it is annoying.' A passive reflexive verb describing how tension shows on screen.
 - 'We are starting over from the beginning, please!' Gabriel intervenes immediately to stop the damage.
 - 'Let us talk about lies in a relationship.' The journalist zeroes in on the painful theme of the film.
-- 'No private life! That was our agreement.' Gabriel asserts ground rules with an exclamatory phrase.
+- 'No private life! That was our agreement.' Gabriel reminds Camille of their pact: strictly professional, with no private drama at work.
 - 'Can we talk about the future and your projects?' The journalist pivots to future work.
 - 'The future... I want to take a break from all that.' Virginie drops an industry bombshell about pausing her career.
 - 'No, do not write that! She is not taking a break!' Gabriel panics and forbids the journalist from printing it.

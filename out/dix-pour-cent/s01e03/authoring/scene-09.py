@@ -34,13 +34,13 @@ STORY = [
     ('gabriel', "Promesse d'agent! Oui, Laura, je suis à toi.", 'An agent', [(195, "Promesse d'agent !"), (196, 'Oui, Laura'), (197, 'Je suis'), (197, 'à toi')], ''),
 ]
 WALK = [
-    (0, None, "'Sofia, did you put your photo in this envelope?' The everyday past tense of 'to put' uses a short past form after 'have'."),
+    (0, None, "'Sofia, did you put your photo in this envelope?' The everyday past of 'to put' uses a short past form after 'have'."),
     (1, None, "'Yes! And she wants me for the casting!' Sofia isn't sorry at all: the casting director actually picked her."),
     (2, None, "'No, Sofia! You're not with our agency.' Literally 'in our agency'. Sofia works on the front desk, not as one of their clients."),
-    (3, None, "'And I don't know if you can act.' Notice the same verb, 'to know', used twice: first 'know a fact', then 'know how to act'."),
+    (3, None, "'And I don't know if you can act.' Notice the same action word, 'to know', used twice: first 'know a fact', then 'know how to act'."),
     (4, None, "'You don't know? Then come and see my show!' The command 'come' is followed straight by 'to see', with no little word in between."),
     (5, None, "'Nobody offers me auditions!' With the word for 'nobody' at the start, French doesn't use the usual second negative word."),
-    (6, None, "'But here, you stole this audition!' The verb 'to steal' in the everyday past tense. Sofia objects to the word."),
+    (6, None, "'But here, you stole this audition!' The action word 'to steal' in the everyday past. Sofia objects to the word."),
     (7, None, "'No, I just added my photo, that's all.' The two words at the end literally say 'it is all', a very common way to finish an excuse."),
     (8, None, "'Does she want to see me? Does she like my look?' Even while arguing, Sofia is thrilled that a casting director noticed her."),
     (9, 'Calme-toi, Sofia!', "'Calm down, Sofia!' Literally 'calm yourself'. Then Gabriel's phone rings: it's Laura Smet."),

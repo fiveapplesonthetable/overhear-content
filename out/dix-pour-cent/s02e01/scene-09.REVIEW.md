@@ -30,19 +30,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Virginie, hello! Thank you for being here.' Gabriel greets his client warmly as she arrives.
-- 'He gave me thirty minutes to pack my suitcase.' Notice the compound past tense describing Ramzy's ultimatum.
-- 'None of my clothes match.' A feminine indefinite pronoun followed by a negative verb.
-- 'You should have spoken to him.' A past conditional expression of advice or regret.
-- 'It was nothing, just a very affectionate goodbye.' An imperfect description followed by a common greeting noun.
-- 'That guy does not matter, it is an old story.' The adjective meaning 'old' agrees in gender and number with masculine noun 'guy'.
-- 'I ruined everything!' A strong past tense exclamation of regret.
-- 'How do we pay the rent now?' An informal present tense question using the pronoun meaning we.
+- 'He gave me thirty minutes to pack my suitcase.' Virginie sobs that Ramzy gave her thirty minutes to pack her bags and leave.
+- 'None of my clothes match.' Looking down at her outfit, Virginie wails that none of her clothes even match.
+- 'You should have spoken to him.' Gabriel gently points out that she should have talked to Ramzy the night before.
+- 'It was nothing, just a very affectionate goodbye.' Virginie insists the kiss in the street was just an overly warm goodbye.
+- 'That guy does not matter, it is an old story.' Virginie swears the other man means nothing to her and is just old history.
+- 'I ruined everything!' Virginie bursts into tears, convinced she has ruined her whole life.
+- 'How do we pay the rent now?' Changing the subject to agency finances, Andréa asks how they will pay the rent now.
 - 'We must be reasonable. Mathias will find a solution.' Gabriel urges patience while invoking Mathias's authority.
-- 'Virginie, calm down. We are handling it.' An command form followed by the pronominal verb for taking care of a problem.
+- 'Virginie, calm down. We are handling it.' Mathias tells Virginie to calm down and promises that the agency is handling it.
 - 'The paparazzi are downstairs, they are waiting for you.' The spatial adverb meaning downstairs.
 - 'Here is what we are going to do.' A classic presentative phrase introducing a plan of action.
 - 'I will be your interim agent in a way.' The simple future tense of the verb to be.
 - 'A temporary arrangement, just a facade.' Mathias clarifies the diplomatic nature of the split.
 - 'First my boyfriend leaves me, now my agent!' Virginie sums up her terrible morning with dark humour.
-- 'Do not take it like that. Gabriel and I work together.' A reassuring negative command form.
-- 'We are going to fix this, we promise you.' The key word here means 'are going to', paired with 'promise' to make the point clear. Now let's listen to the whole discussion again without stopping.
+- 'Do not take it like that. Gabriel and I work together.' A reassuring negative imperative.
+- 'We are going to fix this, we promise you.' A near-future promise ending on a supportive note. Now let's listen to the whole discussion again without stopping.

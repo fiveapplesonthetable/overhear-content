@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is Isabelle not in her dressing room?' Cedric worries about his missing lead actress. Notice how 'is not' leads directly into the noun meaning 'dressing room'.
-- 'I know, we are waiting for her return.' Gabriel stalls the director diplomatically. The verb meaning 'know' pairs naturally with the noun for 'return' in everyday conversation.
-- 'It is her last scene tonight!' The director stresses the tight deadline. In spoken French, the little word before 'scene' drops its final vowel and attaches with an apostrophe.
-- 'Isabelle, where had you gone?' Cedric demands an explanation for her absence. This conversational past tense combines a helper verb with the past verb form for 'gone'.
-- 'I was at the late-night pharmacy.' Isabelle offers a clever medical alibi. Notice how 'I was' leads directly into the noun meaning 'chemist'.
-- 'I wanted to be discreet for you.' She feigns embarrassment over health issues. The adjective meaning 'unobtrusive' takes its feminine form here to match the noun it describes.
-- 'We are waiting for you on set now.' Cedric accepts the excuse and heads to set. Notice how 'waits for you' leads directly into the noun meaning 'movie set'.
-- 'Alright, I am coming right away.' Isabelle promises prompt arrival on set. In spoken French, the little word before 'I arrive' drops its final vowel and attaches with an apostrophe.
-- 'How did you manage to get away?' Gabriel marvels at her miraculous escape. The clause hinges on the everyday verb meaning 'did you'.
-- 'Everything fell apart with Ben Stiller.' Isabelle explains the collapse of the American shoot. This conversational past tense combines a helper verb with the past verb form for 'got out of hand'.
-- 'They started arguing with each other.' She details how she provoked creative conflict. The short 'self' word sits right in front of the verb for 'have', turning the action back onto the subject.
-- 'The American shoot is suspended.' Isabelle delivers the triumphant news. This conversational past tense combines a helper verb with the past verb form for 'shut down'.
-- 'That is truly genius, isn't it?' She boasts of her cunning sabotage. The adverb meaning 'truly' gives the reply its conversational emphasis.
-- 'You are incredible, Isabelle!' Gabriel expresses utter astonishment and relief. The descriptive adjective for 'extraordinary' agrees in gender and number with its noun. Now let's hear the whole conversation again.
+- 'Is Isabelle not in her dressing room?' Cedric worries about his missing lead actress.
+- 'I know, we are waiting for her return.' Gabriel stalls the director diplomatically.
+- 'It is her last scene tonight!' The director stresses the tight deadline.
+- 'Isabelle, where had you gone?' Cedric demands an explanation for her absence.
+- 'I was at the late-night pharmacy.' Isabelle offers a clever medical alibi.
+- 'I wanted to be discreet for you.' She feigns embarrassment over health issues.
+- 'We are waiting for you on set now.' Cedric accepts the excuse and heads to set.
+- 'Alright, I am coming right away.' Isabelle promises prompt arrival on set.
+- 'How did you manage to get away?' Gabriel marvels at her miraculous escape.
+- 'Everything fell apart with Ben Stiller.' Isabelle explains the collapse of the American shoot.
+- 'They started arguing with each other.' She details how she provoked creative conflict.
+- 'The American shoot is suspended.' Isabelle delivers the triumphant news.
+- 'That is truly genius, isn't it?' She boasts of her cunning sabotage.
+- 'You are incredible, Isabelle!' Gabriel expresses utter astonishment and relief. Now listen to the whole scene again at normal speed, and see how much more you catch.

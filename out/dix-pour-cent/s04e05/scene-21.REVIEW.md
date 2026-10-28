@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea, did you receive my messages?' Gabriel intercepts his colleague on the street. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'I was with Rayane Bensetti, Gabriel.' Andrea justifies her busy afternoon. The clause hinges on the everyday verb meaning 'was'.
-- 'We have been tailing Elise for two days.' Gabriel reveals the shadow operation. Notice how 'are tailing' leads directly into the noun meaning 'days'.
-- 'You are falling into complete paranoia!' Andrea scoffs at the cloak-and-dagger talk. Notice how 'fall' leads directly into the noun meaning 'paranoia'.
-- 'She is still meeting the boss Brehier.' Gabriel offers hard proof of collusion. Notice how 'meets' leads directly into the noun meaning 'boss'.
-- 'They are perhaps discussing simple paperwork.' Andrea looks for a harmless rationale. Notice how 'discuss' leads directly into the noun meaning 'paperwork'.
-- 'Paperwork on a bridge?' Gabriel scoffs at the absurd excuse. The key noun here means 'paperwork', anchored by its matching French article.
-- 'She is your work colleague now.' Andrea urges professional etiquette. The informal 'you' form around 'colleague' marks a direct, personal relationship.
-- 'She is still working for StarMedia, Andrea!' Gabriel refuses to let his guard down. The clause hinges on the everyday verb meaning 'works'.
-- 'That is a fine conspiracy theory.' Andrea brushes off his dramatic narrative. The adjective meaning 'fine' takes its feminine form here to match the noun it describes.
-- 'She wants to destroy us from the inside.' Gabriel warns of an undercover plot. Notice how 'wants' leads directly into the noun meaning 'inside'.
-- 'Let us go ask her the question directly.' Andrea chooses a forthright solution. Notice how 'let us go' leads directly into the noun meaning 'question'.
-- 'She is not going to confess anything to us.' Gabriel warns that she will lie. The two-part negative frame surrounds 'is going' to mean 'nothing at all'.
-- 'We are going to clear up this matter together.' Andrea wraps up the debate firmly. The verb meaning 'are going' pairs naturally with the noun for 'matter' in everyday conversation.
+- 'Andrea, did you receive my messages?' Gabriel intercepts his colleague on the street.
+- 'I was with Rayane Bensetti, Gabriel.' Andrea justifies her busy afternoon.
+- 'We have been tailing Elise for two days.' Gabriel reveals the shadow operation.
+- 'You are falling into complete paranoia!' Andrea scoffs at the cloak-and-dagger talk.
+- 'She is still meeting the boss Brehier.' Gabriel offers hard proof of collusion.
+- 'They are perhaps discussing simple paperwork.' Andrea looks for a harmless rationale.
+- 'Paperwork on a bridge?' Gabriel scoffs at the absurd excuse.
+- 'She is your work colleague now.' Andrea urges professional etiquette.
+- 'She is still working for StarMedia, Andrea!' Gabriel refuses to let his guard down.
+- 'That is a fine conspiracy theory.' Andrea brushes off his dramatic narrative.
+- 'She wants to destroy us from the inside.' Gabriel warns of an undercover plot.
+- 'Let us go ask her the question directly.' Andrea chooses a forthright solution.
+- 'She is not going to confess anything to us.' Gabriel warns that she will lie.
+- 'We are going to clear up this matter together.' Andrea wraps up the debate firmly.

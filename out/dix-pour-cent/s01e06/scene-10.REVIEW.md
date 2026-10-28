@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do something.' The director demands immediate action from Andréa. Listen for the expression meaning 'do', which leads naturally into 'do'.
-- 'Otherwise I will have to sue you, I have no choice.' The key word here means 'am going', paired with 'choice' to make the point clear.
-- 'Yes, of course. You can count on me.' The key word here means 'yes', paired with 'count' to make the point clear.
-- 'It is a disaster for the agency.' The key word here means 'disaster', paired with 'the agency' to make the point clear.
-- 'Is it that bad? It is only theatre, after all.' Listen for the expression meaning 'so', which leads naturally into 'theatre'.
-- 'Do you know what this could cost?' Andréa opens with the word for 'know' and lands on 'cost' at the close.
-- 'We cannot let this punch story get out.' Listen for the expression meaning 'not', which leads naturally into 'fist'.
-- 'We must stifle this right now.' The key word here means 'it', paired with 'now' to make the point clear.
-- 'For an unhappy client, my mother always offers a gift.' Camille pairs the verb meaning 'has' with the noun for 'friends'.
-- 'She does not lose any customers.' Notice how the verb for 'loses' leads straight into 'clientele'.
-- 'So we lower the rates for all our stars?' The adverb meaning 'so' sharpens the verb for 'lower' here.
-- 'Call them yourself, then!' Andréa opens with the word for 'call them' and lands on 'then' at the close.
+- 'Do something.' The director demands immediate action from Andréa.
+- 'Otherwise I will have to sue you, I have no choice.' The director threatens legal action if François does not return to rehearsals.
+- 'Yes, of course. You can count on me.' Andréa promises the furious director that he can rely on her.
+- 'It is a disaster for the agency.' As soon as she hangs up, Andréa tells Camille how bad this crisis is for ASK.
+- 'Is it that bad? It is only theatre, after all.' Camille wonders if a theatre dispute is really such a catastrophe, after all.
+- 'Do you know what this could cost?' Andréa warns her how much a lawsuit over the play could cost the agency.
+- 'We cannot let this punch story get out.' She insists they cannot let the story about the punch leak to the press.
+- 'We must stifle this right now.' Andréa is determined to hush the scandal up right away.
+- 'For an unhappy client, my mother always offers a gift.' Camille compares the crisis to her mother's hair salon offering a goodwill gesture.
+- 'She does not lose any customers.' She points out that a small gesture keeps unhappy clients from leaving.
+- 'So we lower the rates for all our stars?' Andréa sarcastically asks if ASK should slash its commission for every star.
+- 'Call them yourself, then!' Andréa tells Camille to call Hippolyte about his contracts herself.
 - 'Hello, Hippolyte? Hello, this is Camille from ASK.' Camille makes the phone call to Mathias's son.
-- 'Andréa asked me to call you about your contracts.' Notice how the verb for 'asked me' leads straight into 'contracts'.
-- 'Can you come by to check them and sign them?' The verb meaning 'can' anchors the whole remark.
+- 'Andréa asked me to call you about your contracts.' Camille explains that Andréa asked her to follow up on his paperwork.
+- 'Can you come by to check them and sign them?' Camille politely asks if he can stop by the office to review and sign them.

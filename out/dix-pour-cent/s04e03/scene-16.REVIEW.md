@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this lamb is truly perfect.' Noemie admires the roasted meat she cooked for the guests. The verb meaning 'look' pairs naturally with the noun for 'lamb' in everyday conversation.
-- 'Do you think his wife will like me?' Noemie reveals her nervous desire to make a great impression. Notice how 'think' leads directly into the noun meaning 'wife'.
-- 'She will adore you, without any doubt.' Mathias offers warm and unconditional encouragement. French forms the near future by pairing the present tense of 'to go' directly with 'to adore'.
-- 'And Catherine, what would she have prepared?' Noemie cannot help measuring herself against Mathias's ex-wife. Inverting the verb and pronoun around 'would she have' creates a crisp, polished question.
-- 'Stop comparing yourself to Catherine.' Mathias firmly urges Noemie to let go of old ghosts. Mathias uses the casual singular 'you' with 'stop', showing close familiarity.
-- 'It is you that I love passionately.' Mathias reminds Noemie of his romantic devotion. Mathias uses the casual singular 'you' with 'love', showing close familiarity.
-- 'Everything will go very well.' Mathias promises that the dinner will be a great success. French forms the near future by pairing the present tense of 'to go' directly with 'to unfold'.
-- 'What are her areas of interest?' Noemie prepares dinner conversation topics in advance. The key noun here means 'centers', anchored by its matching French article.
-- 'She is very pro-environment and committed.' Mathias shares background on the director's wife. The descriptive adjective for 'environmentalist' agrees in gender and number with its noun.
-- 'That is to say? Give me an example.' Noemie asks for specific details on the guest's causes. Notice how 'give me' leads directly into the noun meaning 'example'.
-- 'She defends endangered species.' Mathias describes the guest's passionate activism. Notice how 'defends' leads directly into the noun meaning 'species'.
-- 'She fights slaughterhouse cruelty.' Mathias casually mentions that she campaigns against meat production. Notice how 'fights' leads directly into the noun meaning 'cruelty'.
-- 'You tell me that now?' Noemie is horrified that she cooked a meat feast for an animal activist. The short 'self' word sits right in front of the verb for 'tell', turning the action back onto the subject.
-- 'My nice roast is burned!' Noemie realizes with despair that her main dish cannot be served. The key noun here means 'roast', anchored by its matching French article.
+- 'Look, this lamb is truly perfect.' Noemie admires the roasted meat she cooked for the guests.
+- 'Do you think his wife will like me?' Noemie reveals her nervous desire to make a great impression.
+- 'She will adore you, without any doubt.' Mathias offers warm and unconditional encouragement.
+- 'And Catherine, what would she have prepared?' Noemie cannot help measuring herself against Mathias's ex-wife.
+- 'Stop comparing yourself to Catherine.' Mathias firmly urges Noemie to let go of old ghosts.
+- 'It is you that I love passionately.' Mathias reminds Noemie of his romantic devotion.
+- 'Everything will go very well.' Mathias promises that the dinner will be a great success.
+- 'What are her areas of interest?' Noemie prepares dinner conversation topics in advance.
+- 'She is very pro-environment and committed.' Mathias shares background on the director's wife.
+- 'That is to say? Give me an example.' Noemie asks for specific details on the guest's causes.
+- 'She defends endangered species.' Mathias describes the guest's passionate activism.
+- 'She fights slaughterhouse cruelty.' Mathias casually mentions that she campaigns against meat production.
+- 'You tell me that now?' Noemie is horrified that she cooked a meat feast for an animal activist.
+- 'My nice roast is burned!' Noemie realizes with despair that her main dish cannot be served.

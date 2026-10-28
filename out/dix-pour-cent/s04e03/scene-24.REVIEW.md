@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We can find a good solution!' Andrea tries in vain to negotiate with the daycare staff. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
-- 'Jose Garcia is not a stranger.' Andrea defends having the famous actor supervise the children. The key noun here means 'stranger', anchored by its matching French article.
-- 'Capucine takes very good care of the children.' Andrea praises the young assistant's help. The verb meaning 'takes care' pairs naturally with the noun for 'children' in everyday conversation.
-- 'The director refuses to listen to me today.' Andrea laments the administrator's rigid stance. In spoken French, the little word before 'refuses' drops its final vowel and attaches with an apostrophe.
-- 'She kicked us out of there!' Andrea describes being expelled from the establishment. This conversational past tense combines a helper verb with the past verb form for 'driven out'.
-- 'Hello Andrea, what are you doing with Flora?' Gabriel greets Andrea at the agency. The clause hinges on the everyday verb meaning 'do'.
-- 'Are you signing the baby up for auditions?' Gabriel teases her playfully about the baby. Notice how 'register' leads directly into the noun meaning 'baby'.
-- 'No, the director is too mean.' Andrea vents her frustration with the strict nursery head. The key noun here means 'director', anchored by its matching French article.
-- 'They threw us out the door!' Andrea reveals the shocking news of their expulsion. Notice how 'has' leads directly into the noun meaning 'door'.
-- 'Out the door of the daycare?' Gabriel expresses disbelief at the sudden ban. The key noun here means 'door', anchored by its matching French article.
-- 'Yes, I no longer have childcare.' Andrea admits she has no alternative care arranged. The verb meaning 'have' pairs naturally with the noun for 'childcare' in everyday conversation.
-- 'That is a disaster for your work.' Gabriel recognizes the administrative nightmare. The key noun here means 'disaster', anchored by its matching French article.
-- 'I must keep Flora at the agency.' Andrea resolves to balance work and infant care. The verb meaning 'must' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'We are going to help you with the baby.' Gabriel promises support from colleagues. The verb meaning 'are going' pairs naturally with the noun for 'baby' in everyday conversation. Now let's hear the whole conversation again.
+- 'We can find a good solution!' Andrea tries in vain to negotiate with the daycare staff.
+- 'Jose Garcia is not a stranger.' Andrea defends having the famous actor supervise the children.
+- 'Capucine takes very good care of the children.' Andrea praises the young assistant's help.
+- 'The director refuses to listen to me today.' Andrea laments the administrator's rigid stance.
+- 'She kicked us out of there!' Andrea describes being expelled from the establishment.
+- 'Hello Andrea, what are you doing with Flora?' Gabriel greets Andrea at the agency.
+- 'Are you signing the baby up for auditions?' Gabriel teases her playfully about the baby.
+- 'No, the director is too mean.' Andrea vents her frustration with the strict nursery head.
+- 'They threw us out the door!' Andrea reveals the shocking news of their expulsion.
+- 'Out the door of the daycare?' Gabriel expresses disbelief at the sudden ban.
+- 'Yes, I no longer have childcare.' Andrea admits she has no alternative care arranged.
+- 'That is a disaster for your work.' Gabriel recognizes the administrative nightmare.
+- 'I must keep Flora at the agency.' Andrea resolves to balance work and infant care.
+- 'We are going to help you with the baby.' Gabriel promises support from colleagues. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome to my former office, dear Nathalie.' Mathias welcomes the actress into ASK. The descriptive adjective for 'former' agrees in gender and number with its noun.
-- 'It looks more like a lawyers' corral!' corral!' corral!' Nathalie compares the open desks to a cattle pen. Notice how 'would say' leads directly into the noun meaning 'corral'.
-- 'The agency had to sublet this entire floor.' Mathias explains the financial sublet. This conversational past tense combines a helper verb with the past verb form for 'had to'.
-- 'We must circulate the energy here!' Nathalie invokes harmonious energy flow. Notice how 'is necessary' leads directly into the noun meaning 'energy'.
-- 'A nice green plant will change the whole ambiance.' Nathalie introduces natural decor. Notice how 'will change' leads directly into the noun meaning 'plant'.
-- 'Careful Nathalie, this is not your job.' Mathias warns her against interfering with staff. Mathias uses the polite 'you' form alongside 'careful' to keep a respectful professional tone.
-- 'Who has already heard of feng shui?' Nathalie addresses the astonished lawyers. This conversational past tense combines a helper verb with the past verb form for 'heard'.
-- 'Nathalie! What are you doing in this room?' Andrea bursts into the suite out of breath. Notice how 'are you doing' leads directly into the noun meaning 'room'.
-- 'I am helping these poor lawyers breathe better.' Nathalie justifies her impromptu redesign. The descriptive adjective for 'poor' agrees in gender and number with its noun.
-- 'Mathias, are you still trying to steal my clients?' Andrea accuses Mathias of poaching. The verb meaning 'are trying' pairs naturally with the noun for 'clients' in everyday conversation.
-- 'I am simply offering friendly advice to Nathalie.' Mathias denies any underhanded tactics. Notice how 'offer' leads directly into the noun meaning 'advice'.
-- 'Andrea, I love your great wonderful energy.' Nathalie cushions her upcoming choice. The adjective meaning 'great' takes its feminine form here to match the noun it describes.
-- 'But for this film, I prefer Camille.' Nathalie selects Camille for her calmer approach. The verb meaning 'prefer' pairs naturally with the noun for 'film' in everyday conversation.
-- 'Camille? That is an excellent idea for you!' Andrea embraces the decision graciously. The formal 'you' pronoun sets a courteous, professional distance around 'idea'.
+- 'Welcome to my former office, dear Nathalie.' Mathias welcomes the actress into ASK.
+- 'It looks more like a lawyers' corral!' Nathalie compares the open desks to a cattle pen.
+- 'The agency had to sublet this entire floor.' Mathias explains the financial sublet.
+- 'We must circulate the energy here!' Nathalie invokes harmonious energy flow.
+- 'A nice green plant will change the whole ambiance.' Nathalie introduces natural decor.
+- 'Careful Nathalie, this is not your job.' Mathias warns her against interfering with staff.
+- 'Who has already heard of feng shui?' Nathalie addresses the astonished lawyers.
+- 'Nathalie! What are you doing in this room?' Andrea bursts into the suite out of breath.
+- 'I am helping these poor lawyers breathe better.' Nathalie justifies her impromptu redesign.
+- 'Mathias, are you still trying to steal my clients?' Andrea accuses Mathias of poaching.
+- 'I am simply offering friendly advice to Nathalie.' Mathias denies any underhanded tactics.
+- 'Andrea, I love your great wonderful energy.' Nathalie cushions her upcoming choice.
+- 'But for this film, I prefer Camille.' Nathalie selects Camille for her calmer approach.
+- 'Camille? That is an excellent idea for you!' Andrea embraces the decision graciously.

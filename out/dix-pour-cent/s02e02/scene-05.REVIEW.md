@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How are you? Have you eaten?' Gabriel politely inquires after his colleagues' wellbeing.
-- 'Yes, a zero-sugar soda.' Noémie answers that she has only had a quick diet drink.
+- 'Yes, a zero-sugar soda.' Noemie answers that she has only had a quick diet drink.
 - 'I just came to offer my help.' Gabriel explains his friendly presence in the reception area.
 - 'ASK agency, hello? I no longer represent Ramzy!' Mathias barks into his desk telephone.
 - 'I do not have her agent's phone number!'s number! People are so incompetent!' Mathias vents his frustration at annoying phone calls.
 - 'What is this country coming to?' The rhetorical question expresses exasperation at poor professional standards.
-- 'Mathias, have you seen a doctor?' Noémie voices genuine concern for his physical wellbeing.
+- 'Mathias, have you seen a doctor?' Noemie voices genuine concern for his physical wellbeing.
 - 'I do not have time to sleep or run.' Mathias dismisses traditional medical advice.
-- 'Fainting spells can be serious! You could have killed yourself!' Noémie warns him about the dangerous consequences of passing out.
+- 'Fainting spells can be serious! You could have killed yourself!' Noemie warns him about the dangerous consequences of passing out.
 - 'Do you know about shamanism?' She introduces the topic of alternative spiritual healing.
 - 'Not really. Why?' Mathias responds with polite detachment.
-- 'I know you are skeptical, but I know an extraordinary shaman.' Noémie tries to overcome his scientific doubts.
-- 'I could put you in touch with him...' The key word here means 'could', paired with 'contact' to make the point clear.
+- 'I know you are skeptical, but I know an extraordinary shaman.' Noemie tries to overcome his scientific doubts.
+- 'I could put you in touch with him...' The expression mettre en contact means to connect or introduce two people.

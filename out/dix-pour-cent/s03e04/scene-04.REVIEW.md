@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Working with screenwriters is wonderful.' Camille appreciates representing authors because they generate fresh film projects. The verb meaning 'to work' pairs naturally with the noun for 'screenwriters' in everyday conversation.
-- 'They are easier to manage than actors!' Herve jokes that writers create fewer tantrums than famous movie stars. Notice how 'manage' leads directly into the noun meaning 'actors!'.
-- 'But sometimes, they dress very poorly.' Herve playfully criticizes the unglamorous fashion choices of screenwriters. The short 'self' word sits right in front of the verb for 'dress', turning the action back onto the subject.
-- 'It is now theater workshop showcase season.' Camille turns the conversation to scouting graduating drama students. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
-- 'We must divide up all the schools.' Herve looks at the busy calendar of student performances across Paris. The verb meaning 'must' pairs naturally with the noun for 'schools.' in everyday conversation.
-- 'I must definitely go to the national conservatoire.' Camille insists on attending Paris's most prestigious drama academy. Notice how 'must' leads directly into the noun meaning 'conservatory'.
-- 'One of my actors is performing there tonight.' Camille explains that supporting her signed talent takes precedence. The verb meaning 'plays' pairs naturally with the noun for 'actors' in everyday conversation.
-- 'Can you go to the stage workshop?' Herve asks if Camille can cover an alternative drama school showcase. Notice how 'can you' leads directly into the noun meaning 'the workshop'.
-- 'It is truly an excellent theater school.' Herve highlights the strong reputation and acting quality of the school. The verb meaning 'it is' pairs naturally with the noun for 'school' in everyday conversation.
-- 'No, that workshop is in the twentieth!' Camille objects that the venue sits on the outer edge of Paris. The key noun here means 'workshop', anchored by its matching French article.
-- 'Why do you refuse to go to that arrondissement?' Herve asks why crossing Paris is such a problem for her. French forms the near future by pairing the present tense of 'to go' directly with 'to go'.
-- 'I do not like distant arrondissements.' Camille admits that she prefers staying in central neighborhoods. Notice the classic French sandwich negation wrapping right around 'do not like'.
-- 'You have really become very snobbish, Camille!' Herve teases Camille for adopting stereotypical Parisian snobbery. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'Working with screenwriters is wonderful.' Camille appreciates representing authors because they generate fresh film projects.
+- 'They are easier to manage than actors!' Herve jokes that writers create fewer tantrums than famous movie stars.
+- 'But sometimes, they dress very poorly.' Herve playfully criticizes the unglamorous fashion choices of screenwriters.
+- 'It is now theater workshop showcase season.' Camille turns the conversation to scouting graduating drama students.
+- 'We must divide up all the schools.' Herve looks at the busy calendar of student performances across Paris.
+- 'I must definitely go to the national conservatoire.' Camille insists on attending Paris's most prestigious drama academy.
+- 'One of my actors is performing there tonight.' Camille explains that supporting her signed talent takes precedence.
+- 'Can you go to the stage workshop?' Herve asks if Camille can cover an alternative drama school showcase.
+- 'It is truly an excellent theater school.' Herve highlights the strong reputation and acting quality of the school.
+- 'No, that workshop is in the twentieth!' Camille objects that the venue sits on the outer edge of Paris.
+- 'Why do you refuse to go to that arrondissement?' Herve asks why crossing Paris is such a problem for her.
+- 'I do not like distant arrondissements.' Camille admits that she prefers staying in central neighborhoods.
+- 'You have really become very snobbish, Camille!' Herve teases Camille for adopting stereotypical Parisian snobbery.

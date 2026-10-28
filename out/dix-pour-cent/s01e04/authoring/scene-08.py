@@ -35,10 +35,10 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Sorry. You know what actresses are like.' Literally 'you know what it is, actresses'."),
-    (1, None, "'Samuel was the expert. One of his old friends wants to see his will.' The adjective for 'old' or 'former' comes before the noun."),
-    (2, "J'ai trouvé un acheteur pour l'agence.", "'I've found a buyer for the agency.' Past tense with 'have', and the noun for 'buyer' comes from the verb 'to buy'."),
-    (2, "C'est une offre sérieuse.", "'It's a serious offer.' Feminine ending on the adjective to match 'offer'."),
-    (3, None, "'Very generous, too.' Another feminine adjective ending, still describing the offer."),
+    (1, None, "'Samuel was the expert. One of his old friends wants to see his will.' The describing word for 'old' or 'former' comes before the word."),
+    (2, "J'ai trouvé un acheteur pour l'agence.", "'I've found a buyer for the agency.' Past form with 'have', and the word for 'buyer' comes from the action word 'to buy'."),
+    (2, "C'est une offre sérieuse.", "'It's a serious offer.' Feminine ending on the describing word to match 'offer'."),
+    (3, None, "'Very generous, too.' Another feminine describing word ending, still describing the offer."),
     (4, None, "'Can you tell us more about it?' Two small object words sit before 'tell': 'to us' and 'about it'."),
     (5, None, "'Jonas Hirsch, from the Sterne agency in Berlin. Do you know him?' The little word for 'him' sits right before 'know'."),
     (6, None, "'Yes. He wants to create a group of European agencies.' Notice the feminine plural ending on 'European'."),

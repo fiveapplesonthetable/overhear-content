@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is everyone here? We can get started.' Mathias checks the attendance around the conference table.
-- 'You can see we are. What is going on?' Andréa impatiently presses for the reason behind the sudden gathering.
+- 'You can see we are. What is going on?' Andrea impatiently presses for the reason behind the sudden gathering.
 - 'Well, we have had six difficult months.' Mathias begins his gloomy financial summary of the past semester.
-- 'Setting up films is complicated, and we have contracts on hold.' Listen for the expression meaning 'setting up', which leads naturally into 'suspense.'.
+- 'Setting up films is complicated, and we have contracts on hold.' Mathias reminds them that setting up films takes time while contracts sit on hold.
 - 'This year, our profits are really down.' Decreasing revenues have tightened cash flow.
 - 'We must pay a fine of five hundred thousand euros.' The audit by tax inspector Brancillon has created an immediate crisis.
 - 'Five hundred thousand euros? That is absurd!' Gabriel expresses genuine disbelief at the astronomical tax penalty.
-- 'Too bad Mathias\'s wife did not take shares.' Andréa laments that Catherine refused to invest her personal fortune into ASK.
+- 'Too bad Mathias\'s wife did not take shares.' Andrea laments that Catherine refused to invest her personal fortune into ASK.
 - 'But she did not take any. In conclusion...' Mathias cuts off the discussion about his private life.
 - 'Our only option is to reduce salaries for two months.' He proposes a temporary wage reduction across the board.
 - 'Excuse me? Whose salaries?' Gabriel is stunned by the idea that employees and partners should take pay cuts.
 - 'Everyone\'s salaries. There is no other solution.' Mathias insists that survival requires equal sacrifice.
-- 'Out of the question! Do not lower my salary!' Andréa opens with the word for 'question' and lands on 'hunger!' at the close.
-- 'It is absurd, I agree!' Gabriel backs Andréa and rejects the proposed payroll reductions.
+- 'Out of the question! Do not lower my salary!' Andréa protests dramatically that any cut to her salary will leave her starving.
+- 'It is absurd, I agree!' Gabriel backs Andrea and rejects the proposed payroll reductions.

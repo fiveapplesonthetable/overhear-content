@@ -35,11 +35,11 @@ STORY = [
     ('nathalie', 'Quelle aventure!', 'What an adventure!', [(85, 'Quelle aventure')], ''),
 ]
 WALK = [
-    (0, None, "'A good story?' Notice the word for 'good' comes before the noun, like a few very common French adjectives."),
+    (0, None, "'A good story?' Notice the word for 'good' comes before the word, like a few very common French describing words."),
     (1, None, "'It's a very good script.' Gabriel is so excited he can hardly sit still."),
     (2, None, "'Laura Smet, Solveig Akerfelt wants you for her next film.' He suddenly switches to the formal 'you', as if making an official announcement. It's a joke: normally they use the casual one."),
     (3, None, "'No? That's amazing!' Laura can't believe it."),
-    (4, None, "'She's coming to Paris tomorrow just to see you.' And now back to the casual 'you', just before the verb 'to see'."),
+    (4, None, "'She's coming to Paris tomorrow just to see you.' And now back to the casual 'you', just before the action word 'to see'."),
     (5, None, "'Are there other actresses?' The phrase that means 'there is' or 'there are' doesn't change for the plural."),
     (6, None, "'Only you. It's for you!' This 'you' is the stressed casual form, the one used on its own or after a little word like 'for'."),
     (7, "C'est le seul exemplaire en France.", "'It's the only copy in France.' The word for 'only' here comes before the noun."),
@@ -52,5 +52,5 @@ WALK = [
     (13, None, "'It's great!' A casual, cheerful word, the same as in English."),
     (14, None, "'Does the director know we're mother and daughter?' The two words at the start just announce a yes-or-no question. Note the feminine word for a film director, because Solveig is a woman."),
     (15, None, "'No, she doesn't know anything at all.' The negative here uses the word for 'nothing', and the last three words mean 'at all'."),
-    (16, None, "'What an adventure!' The word for 'what' takes a feminine ending here, to match 'adventure'. Here's the whole scene again. Let's listen to the whole scene once more without interruption."),
+    (16, None, "'What an adventure!' The word for 'what' takes a feminine ending here, to match 'adventure'."),
 ]

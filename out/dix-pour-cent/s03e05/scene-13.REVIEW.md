@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must leave over there immediately!' Valentin recites his dramatic audition dialogue loudly. The informal 'you' form around 'must' marks a direct, personal relationship.
-- 'It is a very big opportunity for you.' The character emphasizes what is at stake. Valentin uses the casual singular 'you' with 'opportunity', showing close familiarity.
-- 'Do not waste this unique opportunity!' Valentin urges his fictional partner not to squander her future. The descriptive adjective for 'unique' agrees in gender and number with its noun.
-- 'Why do you not want to come with me?' Valentin pushes with intense emotion. In everyday spoken French, rising intonation on 'want' at the end is enough to turn the sentence into a question.
-- 'Why are you shouting like that?' Camille halts the rehearsal to question his volume. The informal 'you' form around 'are shouting' marks a direct, personal relationship.
-- 'It is a very intimate love scene.' Camille reminds him of the tender context. The descriptive adjective for 'intimate' agrees in gender and number with its noun.
-- 'You do not need to yell.' Camille explains that projection is unnecessary for film. Notice how 'have' leads directly into the noun meaning 'need'.
-- 'But my character is really angry!' Valentin justifies his intense vocal delivery. The key noun here means 'dramatic character', anchored by its matching French article.
-- 'There must be a progression in the scene.' Camille teaches pacing and gradual buildup. Notice how 'there must be' leads directly into the noun meaning 'gradual development'.
-- 'The camera guesses your secret thoughts.' Camille notes how the camera magnifies subtle thought. The adjective meaning 'secret' takes its feminine form here to match the noun it describes.
-- 'Keep your face calm like a mask.' Camille urges a restrained, interior performance. Notice how 'keep' leads directly into the noun meaning 'face'.
-- 'You know what, forget it, I stop!' Valentin feels hurt and threatens to walk away. Valentin uses the casual singular 'you' with 'know', showing close familiarity.
-- 'Wait, stay, I am sorry Valentin.' Camille rushes to comfort her vulnerable boyfriend. The clause hinges on the everyday verb meaning 'wait'.
-- 'Sorry, it is entirely my fault.' Camille softens the critique to rebuild his confidence. The key noun here means 'sorry', anchored by its matching French article.
+- 'You must leave over there immediately!' Valentin recites his dramatic audition dialogue loudly.
+- 'It is a very big opportunity for you.' The character emphasizes what is at stake.
+- 'Do not waste this unique opportunity!' Valentin urges his fictional partner not to squander her future.
+- 'Why do you not want to come with me?' Valentin pushes with intense emotion.
+- 'Why are you shouting like that?' Camille halts the rehearsal to question his volume.
+- 'It is a very intimate love scene.' Camille reminds him of the tender context.
+- 'You do not need to yell.' Camille explains that projection is unnecessary for film.
+- 'But my character is really angry!' Valentin justifies his intense vocal delivery.
+- 'There must be a progression in the scene.' Camille teaches pacing and gradual buildup.
+- 'The camera guesses your secret thoughts.' Camille notes how the camera magnifies subtle thought.
+- 'Keep your face calm like a mask.' Camille urges a restrained, interior performance.
+- 'You know what, forget it, I stop!' Valentin feels hurt and threatens to walk away.
+- 'Wait, stay, I am sorry Valentin.' Camille rushes to comfort her vulnerable boyfriend.
+- 'Sorry, it is entirely my fault.' Camille softens the critique to rebuild his confidence.

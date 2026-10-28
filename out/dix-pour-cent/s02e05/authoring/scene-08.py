@@ -31,17 +31,17 @@ STORY = [
     ('gabriel', "D'accord, je vais lui annoncer la nouvelle.", 'All right, I am going to break the news to him.', [(250, "D'accord."), (257, 'Bien.')], ''),
 ]
 WALK = [
-    (0, None, "'So, how is our dear Guy Marchand?' Andréa asks for news after Gabriel's check-in with the production."),
+    (0, None, "'So, how is our dear Guy Marchand?' Andrea asks for news after Gabriel's check-in with the production."),
     (1, None, "'The producer no longer wants to continue with him.' Gabriel delivers the bad news from the producer."),
     (2, None, "'The director is panicking on the film set.' Gabriel explains that the director is losing confidence."),
     (3, None, "'Are they shooting without him for now?' Mathias checks how the production is coping with the absence."),
     (4, None, "'Yes, but that cannot go on.' Gabriel emphasizes that temporary schedule changes have limits."),
     (5, None, "'I have excellent feedback about my son Hippolyte.' Mathias notes that his son is performing well on set."),
-    (6, None, "'Guy will never be able to hold on for eight weeks.' Andréa points out the unrealistic physical demands."),
+    (6, None, "'Guy will never be able to hold on for eight weeks.' Andrea points out the unrealistic physical demands."),
     (7, None, "'I am afraid we will end up burning him out.' Gabriel fears that pushing the veteran actor will ruin his reputation."),
     (8, None, "'It is more economical to replace him early.' Mathias argues from a pragmatic financial perspective."),
-    (9, None, "'These roles are precious for his age.' Andréa reminds them how rare major parts are for older actors."),
+    (9, None, "'These roles are precious for his age.' Andrea reminds them how rare major parts are for older actors."),
     (10, None, "'A movie that collapses is bad for everyone.' Mathias insists that a failed production damages all involved."),
-    (11, None, "'Gabriel, you are the one who must speak to him.' Andréa instructs Gabriel to handle the sensitive conversation."),
+    (11, None, "'Gabriel, you are the one who must speak to him.' Andrea instructs Gabriel to handle the sensitive conversation."),
     (12, None, "'All right, I am going to break the news to him.' Gabriel reluctantly agrees to talk to Guy."),
 ]

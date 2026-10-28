@@ -31,19 +31,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes?' Sofia answers the door with a brief question.
-- 'Sofia? Sorry, am I disturbing you?' Gabriel uses the informal pronoun 'you' with the verb 'disturb'.
-- 'No, you aren't bothering me.' The standard negation 'not' wraps around the pronoun and verb.
-- 'I had to see you.' Gabriel opens with the word for 'had to' and lands on 'to see' at the close.
-- 'I feel really bad about earlier.' The key word here means 'feel', paired with 'bad' to make the point clear.
-- 'What I said was horrible.' The relative phrase 'that' means 'what' or 'that which'.
-- 'No, I should have told you.' Listen for the expression meaning 'no', which leads naturally into 'to tell'.
-- 'Do you want to drink something?' The conjugated verb 'want' is followed directly by an infinitive.
-- 'Yes, gladly.' The polite adverb 'gladly' accepts an invitation with pleasure.
-- 'I have some port.' The partitive article 'some' indicates an unspecified quantity of drink.
+- 'Sofia? Sorry, am I disturbing you?' Gabriel apologizes at Sofia's door and asks if he is disturbing her.
+- 'No, you aren't bothering me.' Sofia assures him that he is not bothering her at all.
+- 'I had to see you.' Gabriel explains that he could not go home without seeing her first.
+- 'I feel really bad about earlier.' Gabriel admits how terrible he feels about their argument earlier that day.
+- 'What I said was horrible.' Sofia apologizes for losing her temper during their earlier fight.
+- 'No, I should have told you.' Gabriel insists the fault was his for not warning her about the choreography.
+- 'Do you want to drink something?' Sofia invites Gabriel inside for a drink to make peace.
+- 'Yes, gladly.' Gabriel happily accepts her invitation to come in.
+- 'I have some port.' Sofia offers him a glass of port wine.
 - 'I love port.' French verbs of preference take a definite article.
-- 'Gabriel! Open up!' Andréa pounds frantically on Gabriel's apartment door late at night.
-- 'Andréa? Are you hurt?' The feminine verb form 'hurt' agrees with Andréa.
-- 'I had a pool problem!' Andréa explains her drenched clothes with frantic absurdity.
-- 'Gabriel, marry me!' Listen for the expression meaning 'marry me!', which leads naturally into 'marry me!'.
-- 'Protect me, save me!' Two urgent commands plead for emotional rescue.
-- 'Help me, Gabriel...' Andréa whispers her final desperate plea in the hallway.
+- 'Gabriel! Open up!' Andrea pounds frantically on Gabriel's apartment door late at night.
+- 'Andréa? Are you hurt?' Gabriel opens his door to find Andréa soaking wet and asks if she is hurt.
+- 'I had a pool problem!' Andrea explains her drenched clothes with frantic absurdity.
+- 'Gabriel, marry me!' Heartbroken over Colette, Andréa blurts out a wild marriage proposal to Gabriel.
+- 'Protect me, save me!' Andréa begs her bewildered colleague to rescue her from her loneliness.
+- 'Help me, Gabriel...' Andrea whispers her final desperate plea in the hallway.

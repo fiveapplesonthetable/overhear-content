@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Here is a perfect internet connection for Cannes.' The technician finishes installing the office broadband link.
 - 'It is high-speed broadband for you.' The installer highlights the fast internet speed for the traveling agents.
-- 'Thank you very much, it is really very practical.' Hervé appreciates the technical support for the office.
+- 'Thank you very much, it is really very practical.' Herve appreciates the technical support for the office.
 - 'You know, I am a writer too.' The technician reveals his hidden artistic ambitions.
 - 'One sees crazy things in people's homes.' The technician claims that house calls inspire wild stories.
-- 'No, I cannot imagine that.' Hervé politely reacts with polite skepticism.
+- 'No, I cannot imagine that.' Herve politely reacts with polite skepticism.
 - 'I wrote everything in this new screenplay.' The technician shows off his written manuscript.
 - 'It is unbelievable behind closed doors.' The installer hypes up his sensational dramatic material.
-- 'Could you take it to Cannes for me?' The technician asks Hervé to smuggle his script to the festival.
+- 'Could you take it to Cannes for me?' The technician asks Herve to smuggle his script to the festival.
 - 'You can give it to famous actors.' The amateur writer hopes to reach major stars on the red carpet.
-- 'Isabelle Huppert dreams of playing a router!' Hervé mocks the absurd pitch with dry sarcasm.
-- 'I am joking, but I am not going there.' Hervé gently lets the technician down.
-- 'I stay here to look after the agency.' Hervé laments being stuck in Paris holding down the fort.
+- 'Isabelle Huppert dreams of playing a router!' Herve mocks the absurd pitch with dry sarcasm.
+- 'I am joking, but I am not going there.' Herve gently lets the technician down.
+- 'I stay here to look after the agency.' Herve laments being stuck in Paris holding down the fort.

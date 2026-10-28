@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Filming wrapped two weeks ago.' Andrea outlines the urgent timing problem to the team. This conversational past tense combines a helper verb with the past verb form for 'finished'.
-- 'And he has to jump straight into the next film!' Andrea highlights the tight schedule for the upcoming shoot. The verb meaning 'must' pairs naturally with the noun for 'feature movie' in everyday conversation.
-- 'It is a nightmare, guys.' She describes the escalating crisis with her star client. The key noun here means 'nightmare', anchored by its matching French article.
-- 'He does not want to wash?' Hicham asks in disbelief about Jean's hygiene. Notice the classic French sandwich negation wrapping right around 'wants'.
-- 'No, he does not want to do anything!' Andrea confirms his total immersion in wild living. Dropping the subject pronoun turns the verb for 'wants' into a direct, punchy command.
-- 'I have an actor in full Day-Lewis mode!' She coins a phrase comparing him to the famously intense British method actor. The verb meaning 'have' pairs naturally with the noun for 'movie star' in everyday conversation.
-- 'Daniel Day-Lewis, the English actor?' Hicham clarifies the celebrity reference. In everyday spoken French, rising intonation on 'dramatic performer' at the end is enough to turn the sentence into a question.
-- 'He can no longer come out of it.' Mathias explains how immersive acting traps performers. The two-part negative structure wraps around 'can' to express 'no longer' or 'not anymore'.
-- 'It is useful for running an agency!' Mathias lectures Hicham on the value of film culture. Notice how 'to run' leads directly into the noun meaning 'talent agency'.
-- 'Day-Lewis lived six months in the forest.' Mathias cites historical method acting lore. This conversational past tense combines a helper verb with the past verb form for 'lived'.
-- 'It is the Actor Studio method.' He references the famous dramatic training technique. The key noun here means 'acting technique', anchored by its matching French article.
-- 'Finally, did he sign his contract?' Hicham cuts through film history to check business reality. This conversational past tense combines a helper verb with the past verb form for 'signed'.
-- 'No, but it is in progress.' Andrea evasively downplays the unsigned contract. The key noun here means 'progress', anchored by its matching French article.
-- 'Making shoes helps the actor a lot.' Mathias notes how physical craft grounds disoriented actors. The verb meaning 'to make' pairs naturally with the noun for 'leather shoes' in everyday conversation.
-- 'Depardieu drank heavily to leave Rodin!' Mathias recalls French cinema lore about shaking off roles. The clause hinges on the everyday verb meaning 'drank heavily'. Now let's hear the whole conversation again.
+- 'Filming wrapped two weeks ago.' Andrea outlines the urgent timing problem to the team.
+- 'And he has to jump straight into the next film!' Andrea highlights the tight schedule for the upcoming shoot.
+- 'It is a nightmare, guys.' She describes the escalating crisis with her star client.
+- 'He does not want to wash?' Hicham asks in disbelief about Jean's hygiene.
+- 'No, he does not want to do anything!' Andrea confirms his total immersion in wild living.
+- 'I have an actor in full Day-Lewis mode!' She coins a phrase comparing him to the famously intense British method actor.
+- 'Daniel Day-Lewis, the English actor?' Hicham clarifies the celebrity reference.
+- 'He can no longer come out of it.' Mathias explains how immersive acting traps performers.
+- 'It is useful for running an agency!' Mathias lectures Hicham on the value of film culture.
+- 'Day-Lewis lived six months in the forest.' Mathias cites historical method acting lore.
+- 'It is the Actor Studio method.' He references the famous dramatic training technique.
+- 'Finally, did he sign his contract?' Hicham cuts through film history to check business reality.
+- 'No, but it is in progress.' Andrea evasively downplays the unsigned contract.
+- 'Making shoes helps the actor a lot.' Mathias notes how physical craft grounds disoriented actors.
+- 'Depardieu drank heavily to leave Rodin!' Mathias recalls French cinema lore about shaking off roles. Now listen to the whole scene again at normal speed, and see how much more you catch.

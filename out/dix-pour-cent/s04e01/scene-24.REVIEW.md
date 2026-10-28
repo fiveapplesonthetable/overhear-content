@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Didn't Noemie tell you anything?' Herve asks Gabriel and Andrea if they heard the news. The two-part negative frame surrounds 'has' to mean 'nothing at all'.
-- 'She keeps professional confidentiality.' Herve notes that Noemie kept the secret faithfully. The verb meaning 'keeps' pairs naturally with the noun for 'secret' in everyday conversation.
-- 'Did you see all the tweets?' Herve points to the flood of announcements on social media. The verb meaning 'have' pairs naturally with the noun for 'tweets' in everyday conversation.
-- 'Mathias is becoming a producer at Mediawan!' Herve confirms the massive career move. Dropping the subject pronoun turns the verb for 'becomes' into a direct, punchy command.
-- 'That is completely incredible news.' Gabriel reacts with shock to the revelation. The adjective meaning 'incredible' takes its feminine form here to match the noun it describes.
-- 'I refuse to negotiate with him.' Gabriel dreads dealing with Mathias as an outside producer. The clause hinges on the everyday verb meaning 'refuse'.
-- 'Would you prefer he left with his talents?' Andrea asks if losing clients is better. Inverting the verb and pronoun around 'prefer' creates a crisp, polished question.
-- 'Our mission is clear now.' Andrea outlines the primary objective for the firm. The key noun here means 'mission', anchored by its matching French article.
-- 'We must convince all the artists.' Andrea insists on keeping their talent roster intact. The verb meaning 'must' pairs naturally with the noun for 'artists' in everyday conversation.
-- 'Look, our rivals are forming a group.' Gabriel spots competing agents gathering together. Notice how 'look' leads directly into the noun meaning 'rivals'.
-- 'Should we be worried tonight?' Gabriel asks whether ASK is facing imminent peril. The verb meaning 'must' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'No, we go on the offensive.' Andrea chooses to fight back rather than retreat. Notice how 'pass' leads directly into the noun meaning 'offensive'.
-- 'Tomorrow morning, meeting at eight o'clock.' Andrea schedules an urgent strategy session. The key noun here means 'morning', anchored by its matching French article.
-- 'It is a perfect opportunity for us.' Andrea finds confidence in the upcoming battle. The key noun here means 'opportunity', anchored by its matching French article. Now let's hear the whole conversation again.
+- 'Didn't Noemie tell you anything?' Herve asks Gabriel and Andrea if they heard the news.
+- 'She keeps professional confidentiality.' Herve notes that Noemie kept the secret faithfully.
+- 'Did you see all the tweets?' Herve points to the flood of announcements on social media.
+- 'Mathias is becoming a producer at Mediawan!' Herve confirms the massive career move.
+- 'That is completely incredible news.' Gabriel reacts with shock to the revelation.
+- 'I refuse to negotiate with him.' Gabriel dreads dealing with Mathias as an outside producer.
+- 'Would you prefer he left with his talents?' Andrea asks if losing clients is better.
+- 'Our mission is clear now.' Andrea outlines the primary objective for the firm.
+- 'We must convince all the artists.' Andrea insists on keeping their talent roster intact.
+- 'Look, our rivals are forming a group.' Gabriel spots competing agents gathering together.
+- 'Should we be worried tonight?' Gabriel asks whether ASK is facing imminent peril.
+- 'No, we go on the offensive.' Andrea chooses to fight back rather than retreat.
+- 'Tomorrow morning, meeting at eight o'clock.' Andrea schedules an urgent strategy session.
+- 'It is a perfect opportunity for us.' Andrea finds confidence in the upcoming battle. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -38,10 +38,10 @@ STORY = [
 WALK = [
     (0, None, "'I am the seagull.' In the play, a young actress called Nina says this about herself. It's one of the best-known lines in the theatre."),
     (1, None, "'No, that's wrong.' She has got a line in the wrong order and starts again. The word for 'wrong' here also means 'false'."),
-    (2, None, "'Chekhov, The Seagull, act four.' At this point, Hervé and Sofia, listening at the desk, are impressed."),
-    (3, None, "'I did it at drama school.' The little word for 'it' sits before the helper verb and loses its vowel. The drama school is the famous Paris acting school. Then someone walks in."),
+    (2, None, "'Chekhov, The Seagull, act four.' Here, Hervé and Sofia, listening at the desk, are impressed."),
+    (3, None, "'I did it at drama school.' The little word for 'it' sits before the helper word and loses its vowel. The drama school is the famous Paris acting school. Then someone walks in."),
     (4, None, "'Mum?' The everyday French word for mum. Laura is surprised: she didn't know her mother had an appointment too."),
-    (5, None, "'Well, well!' The same word twice, from the verb 'to hold', said with mock surprise."),
+    (5, None, "'Well, well!' The same word twice, from the action word 'to hold', said with mock surprise."),
     (6, None, "'It's not easy to learn lines with all this noise.' The negative wraps around the verb 'to be'. The word for lines here is simply 'a text'. A mother's advice, given in a busy reception area."),
     (7, None, "'Really work on it at home.' A casual command, with the little word for 'it' joined on after it. The last two words mean 'at your place'."),
     (8, None, "'Thanks, Mum.' A little stiff. Then Gabriel finally comes down."),

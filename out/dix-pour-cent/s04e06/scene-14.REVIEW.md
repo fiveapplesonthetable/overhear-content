@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a very intense, powerful script.' Jean gives his glowing initial impression of the screenplay. The descriptive adjective for 'intense' agrees in gender and number with its noun.
-- 'It is a magnificent and rare project.' Andrea agrees on the film's artistic worth. The key noun here means 'project', anchored by its matching French article.
-- 'How are you coming along with financing?' Jean asks about the state of production funds. Inverting the verb and pronoun around 'financing' creates a crisp, polished question.
-- 'Jean, I refuse to lie to you.' Andrea resolves not to hide behind false assurances. The clause hinges on the everyday verb meaning 'refuse'.
-- 'Tell me everything with complete candor.' Jean invites her to be completely open. The verb meaning 'tell me' pairs naturally with the noun for 'frankness' in everyday conversation.
-- 'We are missing six million euros.' Andrea states the exact size of the shortfall. Notice how 'is missing' leads directly into the noun meaning 'millions'.
-- 'Six million? That is a large sum.' Jean grasps the severity of the financial deficit. The adjective meaning 'large' takes its feminine form here to match the noun it describes.
-- 'Our agency has filed for bankruptcy.' Andrea confesses that ASK is in legal liquidation. This conversational past tense combines a helper verb with the past verb form for 'filed'.
-- 'You therefore have no financial guarantee?' Jean confirms that no safety net exists. The verb meaning 'have' pairs naturally with the noun for 'guarantee' in everyday conversation.
-- 'No, our agency is sinking.' Andrea uses a vivid maritime metaphor for their crisis. Notice how 'sink' leads directly into the noun meaning 'agency'.
-- 'You speak to me with great courage.' Jean commends her uncommon professional bravery. Jean uses the polite 'you' form alongside 'speak' to keep a respectful professional tone.
-- 'I prefer truth to false hopes.' Andrea explains her core moral stance. The verb meaning 'prefer' pairs naturally with the noun for 'truth' in everyday conversation.
-- 'Your honesty is entirely admirable.' Jean shows deep respect for her candor. The descriptive adjective for 'admirable' agrees in gender and number with its noun.
-- 'Thank you for listening to reality, Jean.' Andrea thanks the star for hearing her out. Notice how 'listening to' leads directly into the noun meaning 'thank you'. Now let's hear the whole conversation again.
+- 'It is a very intense, powerful script.' Jean gives his glowing initial impression of the screenplay.
+- 'It is a magnificent and rare project.' Andrea agrees on the film's artistic worth.
+- 'How are you coming along with financing?' Jean asks about the state of production funds.
+- 'Jean, I refuse to lie to you.' Andrea resolves not to hide behind false assurances.
+- 'Tell me everything with complete candor.' Jean invites her to be completely open.
+- 'We are missing six million euros.' Andrea states the exact size of the shortfall.
+- 'Six million? That is a large sum.' Jean grasps the severity of the financial deficit.
+- 'Our agency has filed for bankruptcy.' Andrea confesses that ASK is in legal liquidation.
+- 'You therefore have no financial guarantee?' Jean confirms that no safety net exists.
+- 'No, our agency is sinking.' Andrea uses a vivid maritime metaphor for their crisis.
+- 'You speak to me with great courage.' Jean commends her uncommon professional bravery.
+- 'I prefer truth to false hopes.' Andrea explains her core moral stance.
+- 'Your honesty is entirely admirable.' Jean shows deep respect for her candor.
+- 'Thank you for listening to reality, Jean.' Andrea thanks the star for hearing her out. Now listen to the whole scene again at normal speed, and see how much more you catch.

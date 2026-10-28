@@ -34,7 +34,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Here is the coffee, Mathias.' The first word is the handy pointer word for 'here is' or 'there is'."),
-    (1, None, "'Thank you, Noémie. I love this final version.' The verb means 'to love' or 'to adore', very common in everyday French for things you really like."),
+    (1, None, "'Thank you, Noémie. I love this final version.' The action word means 'to love' or 'to adore', very common in everyday French for things you really like."),
     (2, None, "'I think we really have something here.' Literally 'we hold really something'."),
     (3, None, "'Are you still sure about the female lead?' Literally 'the main feminine role'. Now Mathias plants a doubt."),
     (4, None, "'Yes! Her name is Armelle Borzek. She's brilliant!' Augustin is completely convinced by the young unknown actress he chose."),
@@ -42,7 +42,7 @@ WALK = [
     (6, None, "'But the public doesn't know her.' The little word for 'her' sits right before the verb 'knows'."),
     (7, None, "'In my online videos, there are no stars.' Literally 'videos in line', the French phrase for online."),
     (8, None, "'That's true. But cinema isn't the Internet.' Mathias gently reminds the young web star how movie financing works."),
-    (9, None, "'When I read this latest version, I thought of Audrey Fleurot.' Both verbs are in the everyday past tense. To think of someone uses the linking word 'to'."),
+    (9, None, "'When I read this latest version, I thought of Audrey Fleurot.' Both verbs are in the everyday past tense. To think of someone uses the preposition 'to'."),
     (10, None, "'Audrey Fleurot? Why not? She's sublime!' The famous red-haired actress immediately catches Augustin's imagination."),
     (11, None, "'She draws the public, and she likes your videos.' Mathias adds a shameless little lie at the end to seal the deal."),
     (12, None, "'Wait! Audrey Fleurot watched my videos?' In his excitement, Augustin drops the polite form and uses a casual command."),

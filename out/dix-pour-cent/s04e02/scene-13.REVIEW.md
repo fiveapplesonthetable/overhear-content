@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey you, wait a second, Mathias!' Gabriel catches up with the former agent. Notice how 'wait' leads directly into the noun meaning 'second'.
-- 'It is not over for Auteuil.' Mathias insists the casting choice is still open. The descriptive adjective for 'finished' agrees in gender and number with its noun.
-- 'Listen, the situation is becoming too complicated.' Gabriel stresses the mounting confusion. The descriptive adjective for 'complicated' agrees in gender and number with its noun.
-- 'I keep you posted tomorrow.' Mathias promises to share updates later. Mathias uses the casual singular 'you' with 'keep', showing close familiarity.
-- 'Are you going to give in to blackmail now?' Gabriel questions Mathias's ethics. Notice how 'are going to' leads directly into the noun meaning 'blackmail'.
-- 'I am a cinema producer now.' Mathias underlines his independence from ASK. The key noun here means 'producer', anchored by its matching French article.
-- 'You must protect our favorite actors.' Gabriel appeals to their shared history. The informal 'you' form around 'must' marks a direct, personal relationship.
-- 'I choose the best actor possible.' Mathias prioritizes artistic criteria. Notice how 'choose' leads directly into the noun meaning 'actor'.
-- 'If Dany leaves ASK, we sink!' Gabriel warns of financial ruin. The clause hinges on the everyday verb meaning 'leaves'.
-- 'The agency will start sinking fast.' Mathias acknowledges the impending danger. The verb meaning 'will' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'I call Franck to arrange everything.' Gabriel intervenes directly with the talent. The clause hinges on the everyday verb meaning 'call'.
-- 'He filters all my recent calls.' Mathias warns that Franck is avoiding him. The descriptive adjective for 'recent' agrees in gender and number with its noun.
-- 'Hello Franck? Yes, it is Gabriel here.' Gabriel manages to reach Franck on the phone. The adverb meaning 'yes' gives the reply its conversational emphasis.
-- 'Good luck convincing our friend!' Mathias offers parting encouragement. Dropping the subject pronoun turns the verb for 'convince' into a direct, punchy command.
+- 'Hey you, wait a second, Mathias!' Gabriel catches up with the former agent.
+- 'It is not over for Auteuil.' Mathias insists the casting choice is still open.
+- 'Listen, the situation is becoming too complicated.' Gabriel stresses the mounting confusion.
+- 'I keep you posted tomorrow.' Mathias promises to share updates later.
+- 'Are you going to give in to blackmail now?' Gabriel questions Mathias's ethics.
+- 'I am a cinema producer now.' Mathias underlines his independence from ASK.
+- 'You must protect our favorite actors.' Gabriel appeals to their shared history.
+- 'I choose the best actor possible.' Mathias prioritizes artistic criteria.
+- 'If Dany leaves ASK, we sink!' Gabriel warns of financial ruin.
+- 'The agency will start sinking fast.' Mathias acknowledges the impending danger.
+- 'I call Franck to arrange everything.' Gabriel intervenes directly with the talent.
+- 'He filters all my recent calls.' Mathias warns that Franck is avoiding him.
+- 'Hello Franck? Yes, it is Gabriel here.' Gabriel manages to reach Franck on the phone.
+- 'Good luck convincing our friend!' Mathias offers parting encouragement.

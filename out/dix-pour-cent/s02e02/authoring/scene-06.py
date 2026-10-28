@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Is the contract for Nathalie Baye ready?' Mathias asks his assistant for an urgent legal document."),
-    (1, None, "'It is really incredible, actually. He opened my eyes.' The adverb meaning 'truly' sharpens the verb for 'is' here."),
-    (2, None, "'Thanks to him, I discovered my totem animal.' Noémie explains her mystical discovery with the shaman."),
-    (3, None, "'The beaver! Yes, Mathias, I come from a family of builders!' Noémie opens with the word for 'beaver!' and lands on 'builders!' at the close."),
-    (4, None, "'Guy Marchand has top billing.' Mathias opens with the word for 'is' and lands on 'of billing.' at the close."),
+    (1, None, "'It is really incredible, actually. He opened my eyes.' Noémie gushes that her session with the shaman completely opened her eyes."),
+    (2, None, "'Thanks to him, I discovered my totem animal.' Noemie explains her mystical discovery with the shaman."),
+    (3, None, "'The beaver! Yes, Mathias, I come from a family of builders!' She proudly declares that the beaver is her spirit animal because her family are builders."),
+    (4, None, "'Guy Marchand has top billing.' Turning to his client Dario, Mathias mentions that Guy Marchand has top billing."),
     (5, None, "'Okay, great! What kind of story is it?' Dario is thrilled to hear about the prestigious cast."),
-    (6, None, "'You are Dario, the railway worker and supporting role.' Mathias pairs the verb meaning 'are' with the noun for 'role.'."),
+    (6, None, "'You are Dario, the railway worker and supporting role.' Mathias explains that Dario would play the young railway worker in the supporting role."),
     (7, None, "'He is a young politically committed idealist.' Mathias outlines the character's intellectual background."),
-    (8, None, "'He is not very comfortable with girls...' The adverb meaning 'very' sharpens the verb for 'is not' here."),
+    (8, None, "'He is not very comfortable with girls...' He adds tactfully that the character feels awkward around women."),
     (9, None, "'So you thought of me!' Dario jokes about matching the socially awkward character description."),
     (10, None, "'Exactly! You have the ideal profile.' Mathias affirms that Dario fits the casting requirements perfectly."),
-    (11, None, "'Noémie fought hard to land you the audition.' The key word here means 'fought', paired with 'the audition.' to make the point clear."),
+    (11, None, "'Noémie fought hard to land you the audition.' Mathias gives Noémie credit for fighting hard to land Dario the audition."),
     (12, None, "'Well, thank you very much! Goodbye!' Dario politely thanks his agent and takes his leave."),
 ]

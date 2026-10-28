@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who dropped off these things here?' Gabriel spots his personal belongings. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
-- 'Monica Bellucci came by this morning.' Mathias explains the package arrival. This conversational past tense combines a helper verb with the past verb form for 'came by'.
-- 'She came in person here?' Gabriel reacts with shocked embarrassment. Notice how 'come' leads directly into the noun meaning 'person'.
-- 'Yes, she left this note.' Mathias points out the written letter. Notice how 'has' leads directly into the noun meaning 'note'.
-- 'What does this message say for me?' Gabriel inquires about the contents. In everyday spoken French, rising intonation on 'says' at the end is enough to turn the sentence into a question.
-- 'She asks if she has an agent!' Mathias reveals her ironic question. The verb meaning 'asks' pairs naturally with the noun for 'agent' in everyday conversation.
-- 'I am so exhausted this morning.' Gabriel confesses his lack of sleep. The key noun here means 'morning', anchored by its matching French article.
-- 'You made a serious mistake.' Mathias reproaches his handling of the star. Mathias uses the casual singular 'you' with 'have', showing close familiarity.
-- 'If you want to fire me, fire me!' Gabriel lashes out under stress. The short 'self' word sits right in front of the verb for 'want', turning the action back onto the subject.
-- 'I must ask you a question.' Mathias pivots the conversation to agency business. Notice how 'must' leads directly into the noun meaning 'question'.
-- 'What is it about now, Mathias?' Gabriel braces for another crisis. In spoken French, the little word before 'is it' drops its final vowel and attaches with an apostrophe.
-- 'Did Noemie tell you about a new job?' Mathias checks for office rumors. The verb meaning 'spoke to you' pairs naturally with the noun for 'job' in everyday conversation.
-- 'No, I did not know anything at all!' Gabriel is blindsided by the news. The clause hinges on the everyday verb meaning 'knew'.
-- 'She is leaving our agency this morning.' Mathias breaks the unsettling development. The verb meaning 'leaves' pairs naturally with the noun for 'agency' in everyday conversation. Now let us listen to the tense agency discussion once more at normal pace.
+- 'Who dropped off these things here?' Gabriel spots the unexpected boxes sitting in the hallway.
+- 'Monica Bellucci came by this morning.' Mathias explains the package arrival.
+- 'She came in person here?' Gabriel reacts with shocked embarrassment.
+- 'Yes, she left this note.' Mathias points out the written letter.
+- 'What does this message say for me?' Gabriel inquires about the contents.
+- 'She asks if she has an agent!' Mathias reveals her ironic question.
+- 'I am so exhausted this morning.' Gabriel confesses his lack of sleep.
+- 'You made a serious mistake.' Mathias reproaches his handling of the star.
+- 'If you want to fire me, fire me!' Gabriel lashes out under stress.
+- 'I must ask you a question.' Mathias pivots the conversation to agency business.
+- 'What is it about now, Mathias?' Gabriel braces for another crisis.
+- 'Did Noemie tell you about a new job?' Mathias checks for office rumors.
+- 'No, I did not know anything at all!' Gabriel is blindsided by the news.
+- 'She is leaving our agency this morning.' Mathias breaks the unsettling development. Now let us listen to the tense agency discussion once more at normal pace.

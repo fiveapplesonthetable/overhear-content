@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey! Dylan, wait a moment.' Franck calls after Dylan in the quiet alleyway. Notice how 'wait' leads directly into the noun meaning 'moment'.
-- 'What are you doing here?' Dylan is surprised to see the older actor approach him alone. The standard spoken question formula at the front turns the statement about 'are doing' into a natural inquiry.
-- 'Okay, go ahead without hesitating.' Franck encourages Dylan to release his pent-up anger. The clause hinges on the everyday verb meaning 'to hesitate'.
-- 'Go ahead with what? I do not understand.' Dylan does not grasp Franck's sudden request. The two-part French negation brackets the verb for 'understand' on both sides.
-- 'Slap me now, go ahead!' Franck offers Dylan a free strike to balance out the violence on set. The clause hinges on the everyday verb meaning 'slap me'.
-- 'Are you serious? You are crazy!' Dylan reacts with disbelief to the absurd proposal. The descriptive adjective for 'serious' agrees in gender and number with its noun.
-- 'Give me a good slap.' Franck repeats his plea with sincere humility. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
-- 'I do not want to hit you.' Dylan refuses to resort to physical violence. The short 'self' word sits right in front of the verb for 'want', turning the action back onto the subject.
-- 'That way, we will be even finally.' Franck argues that physical retaliation will restore balance. The clause hinges on the everyday verb meaning 'will be'.
-- 'A slap settles nothing at all.' Dylan recognizes that more violence will not heal the rift. The verb meaning 'settles' pairs naturally with the noun for 'slap' in everyday conversation.
-- 'And then, we will be able to speak calmly.' Franck hopes this gesture will open a genuine dialogue. The clause hinges on the everyday verb meaning 'will be able to'.
-- 'You are really strange today.' Dylan is struck by Franck's unconventional attempt at making peace. Dylan uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'I regret my stupid gesture.' Franck sincerely acknowledges his past bad behavior on the film set. The descriptive adjective for 'stupid' agrees in gender and number with its noun.
-- 'Let us forget that for now.' Dylan decides to let go of the grudge and move forward. The clause hinges on the everyday verb meaning 'let us forget'.
+- 'Hey! Dylan, wait a moment.' Franck calls after Dylan in the quiet alleyway.
+- 'What are you doing here?' Dylan is surprised to see the older actor approach him alone.
+- 'Okay, go ahead without hesitating.' Franck encourages Dylan to release his pent-up anger.
+- 'Go ahead with what? I do not understand.' Dylan does not grasp Franck's sudden request.
+- 'Slap me now, go ahead!' Franck offers Dylan a free strike to balance out the violence on set.
+- 'Are you serious? You are crazy!' Dylan reacts with disbelief to the absurd proposal.
+- 'Give me a good slap.' Franck repeats his plea with sincere humility.
+- 'I do not want to hit you.' Dylan refuses to resort to physical violence.
+- 'That way, we will be even finally.' Franck argues that physical retaliation will restore balance.
+- 'A slap settles nothing at all.' Dylan recognizes that more violence will not heal the rift.
+- 'And then, we will be able to speak calmly.' Franck hopes this gesture will open a genuine dialogue.
+- 'You are really strange today.' Dylan is struck by Franck's unconventional attempt at making peace.
+- 'I regret my stupid gesture.' Franck sincerely acknowledges his past bad behavior on the film set.
+- 'Let us forget that for now.' Dylan decides to let go of the grudge and move forward.

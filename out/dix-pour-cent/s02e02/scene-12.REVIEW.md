@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Fabrice! Do you come here often?' Andréa initiates conversation with casual charm. The temporal adverb 'often' modifies the present tense question about routine attendance.
-- 'I know you, you are an agent, right?' Luchini spots her professional identity immediately. Notice how the verb for 'know' leads straight into 'agent'.
-- 'Andréa Martel, I work at ASK.' Andréa introduces herself with professional pride. Listen for the expression meaning 'work', which leads naturally into 'work'.
-- 'Should you not be at the office?' Luchini raises an ironic eyebrow at her fitness location. Fabrice opens with the word for 'not' and lands on 'office' at the close.
-- 'In fact, I am at work right now.' Andréa asserts that scouting him is official business. The discourse marker 'in' signals an unexpected clarification.
-- 'I am here for you. You are a rare talent.' Andréa delivers her direct flatteries. Andréa opens with the word for 'am' and lands on 'rare' at the close.
-- 'What are you offering exactly?' Luchini invites her specific commercial proposal. The adverb meaning 'exactly' sharpens the verb for 'offer' here.
-- 'I offer a new artistic impetus.' Andréa pitches fresh creative energy for his career. The masculine noun phrase 'a' uses the special masculine form 'new' before a vowel.
-- 'All of this is a bit strange.' Luchini comments on the theatrical ambush. The pointing word pronoun 'all' is modified by the adjective 'strange'.
-- 'Turning up in a gym to speak to me!' Luchini notes the comical unorthodoxy of the setting. The informal infinitive 'to show up' evokes showing up suddenly and unannounced.
-- 'I have been with Bréhier for thirty-five years.' Luchini reveals his deep agency history. The temporal linking word 'for' indicates an ongoing state that started in the past.
-- 'We are an old couple. I like him.' Luchini describes his relationship with his agent. Fabrice opens with the word for 'are' and lands on 'well' at the close.
-- 'Novelty is a concept that does not interest me.' Luchini rejects trendy career shifts. Fabrice pairs the verb meaning 'is' with the noun for 'concept'.
-- 'Maybe you just want to be bored.' Andréa challenges his resistance with witty sarcasm. The reflexive infinitive 'yourself' denotes experiencing boredom or dullness.
-- 'Do not speak ill of boredom.' Luchini defends existential boredom as a creative state. The negative command form 'not' forbids criticizing something.
-- 'I leave you then to be bored with Bréhier.' Andréa concludes her exit with sharp wit. Listen for the expression meaning 'leave', which leads naturally into 'to be bored'.
+- 'Hello, Fabrice! Do you come here often?' Andrea initiates conversation with casual charm.
+- 'I know you, you are an agent, right?' Luchini spots her professional identity immediately.
+- 'Andréa Martel, I work at ASK.' Andrea introduces herself with professional pride.
+- 'Should you not be at the office?' Luchini raises an ironic eyebrow at her fitness location.
+- 'In fact, I am at work right now.' Andrea asserts that scouting him is official business.
+- 'I am here for you. You are a rare talent.' Andrea delivers her direct flatteries.
+- 'What are you offering exactly?' Luchini invites her specific commercial proposal.
+- 'I offer a new artistic impetus.' Andrea pitches fresh creative energy for his career.
+- 'All of this is a bit strange.' Luchini comments on the theatrical ambush.
+- 'Turning up in a gym to speak to me!' Luchini notes the comical unorthodoxy of the setting.
+- 'I have been with Bréhier for thirty-five years.' Luchini reveals his deep agency history.
+- 'We are an old couple. I like him.' Luchini describes his relationship with his agent.
+- 'Novelty is a concept that does not interest me.' Luchini rejects trendy career shifts.
+- 'Maybe you just want to be bored.' Andrea challenges his resistance with witty sarcasm.
+- 'Do not speak ill of boredom.' Luchini defends existential boredom as a creative state.
+- 'I leave you then to be bored with Bréhier.' Andrea concludes her exit with sharp wit.

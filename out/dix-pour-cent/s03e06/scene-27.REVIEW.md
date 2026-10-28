@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It will be strange without Mathias.' Andrea reflects on the agency atmosphere after Mathias leaves. The clause hinges on the everyday verb meaning 'will be'.
-- 'I felt sorry for him.' Andrea expresses genuine compassion for their fallen senior partner. The verb meaning 'has' pairs naturally with the noun for 'sorrow' in everyday conversation.
-- 'Almost makes you miss him.' Hicham confesses with a hint of warmth that Mathias will be missed. The clause hinges on the everyday verb meaning 'would be missed'.
-- 'Well, I am heading out now.' Hicham prepares to leave the office for the night. French forms the near future by pairing the present tense of 'to go' directly with 'to leave'.
-- 'Can you lock up the shop?' Hicham asks Andrea to lock the premises. Notice how 'will be able to' leads directly into the noun meaning 'shop'.
-- 'No problem with that.' Andrea accepts the responsibility easily. The key noun here means 'problem', anchored by its matching French article.
-- 'You could run the shop.' Hicham expands the metaphor to running the entire agency. The informal 'you' form around 'could' marks a direct, personal relationship.
-- 'I am moving to London.' Hicham announces his impending move across the Channel. The clause hinges on the everyday verb meaning 'am leaving'.
-- 'My son needs me.' Hicham explains his personal reason for stepping back from day-to-day operations. Notice how 'has' leads directly into the noun meaning 'son'.
-- 'I need someone trustworthy.' Hicham stresses the paramount importance of integrity in management. The verb meaning 'have' pairs naturally with the noun for 'need' in everyday conversation.
-- 'I am looking for a new director.' Hicham describes the executive vacancy. The verb meaning 'am looking for' pairs naturally with the noun for 'managing director' in everyday conversation.
-- 'Does the director post interest you?' Hicham presents Andrea with the ultimate promotion. Notice how 'interests' leads directly into the noun meaning 'position'.
-- 'That is an incredible offer, Hicham.' Andrea is stunned by the magnitude of the proposal. The key noun here means 'offer', anchored by its matching French article.
-- 'Think carefully about this opportunity.' Hicham encourages her to weigh the decision. The verb meaning 'think' pairs naturally with the noun for 'opportunity' in everyday conversation.
+- 'It will be strange without Mathias.' Andrea reflects on the agency atmosphere after Mathias leaves.
+- 'I felt sorry for him.' Andrea expresses genuine compassion for their fallen senior partner.
+- 'Almost makes you miss him.' Hicham confesses with a hint of warmth that Mathias will be missed.
+- 'Well, I am heading out now.' Hicham prepares to leave the office for the night.
+- 'Can you lock up the shop?' Hicham asks Andrea to lock the premises.
+- 'No problem with that.' Andrea accepts the responsibility easily.
+- 'You could run the shop.' Hicham expands the metaphor to running the entire agency.
+- 'I am moving to London.' Hicham announces his impending move across the Channel.
+- 'My son needs me.' Hicham explains his personal reason for stepping back from day-to-day operations.
+- 'I need someone trustworthy.' Hicham stresses the paramount importance of integrity in management.
+- 'I am looking for a new director.' Hicham describes the executive vacancy.
+- 'Does the director post interest you?' Hicham presents Andrea with the ultimate promotion.
+- 'That is an incredible offer, Hicham.' Andrea is stunned by the magnitude of the proposal.
+- 'Think carefully about this opportunity.' Hicham encourages her to weigh the decision.

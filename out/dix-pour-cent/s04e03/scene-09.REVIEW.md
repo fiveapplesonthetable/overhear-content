@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I mess up all my takes today.' Jose despairs over his disastrous performance on set. In spoken French, the little word before 'mess up' drops its final vowel and attaches with an apostrophe.
-- 'Calm down Jose, take a deep breath.' Andrea urges her client to relax between camera setups. The verb meaning 'calm down' pairs naturally with the noun for 'breath' in everyday conversation.
-- 'I forget my lines every time!' Jose struggles to memorize the fiery chef monologue. Notice how 'forget' leads directly into the noun meaning 'lines'.
-- 'You must just shout at your brigade.' Andrea reminds him that the director wants genuine anger. The verb meaning 'must' pairs naturally with the noun for 'brigade' in everyday conversation.
-- 'I cannot manage with Laurence.' Jose reveals that acting opposite his former flame unnerves him. The clause hinges on the everyday verb meaning 'manage'.
-- 'Are you still thinking about that story?' Andrea asks about their ancient romantic liaison. In everyday spoken French, rising intonation on 'think' at the end is enough to turn the sentence into a question.
-- 'We were supposed to meet at the hotel.' Jose recalls their planned rendezvous that never occurred. Notice how 'were supposed to' leads directly into the noun meaning 'hotel'.
-- 'That was twenty years ago!' Andrea puts the distant past into perspective. The verb meaning 'was' pairs naturally with the noun for 'years' in everyday conversation.
-- 'I still feel very guilty.' Jose admits that he never forgave himself for not showing up. The clause hinges on the everyday verb meaning 'feel'.
-- 'I spoke with Laurence just earlier.' Andrea reveals that she already questioned the actress in private. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
-- 'What did she say about me?' Jose eagerly asks about his co-star's reaction. This conversational past tense combines a helper verb with the past verb form for 'said'.
-- 'She did not go to the hotel!' Andrea reveals that Laurence also skipped the secret date. Notice how 'gone' leads directly into the noun meaning 'hotel'.
-- 'She stood me up too?' Jose is stunned to discover their mutual failure to meet. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
-- 'Yes, you are both even now!' Andrea smiles and tells him that neither holds a grudge. Andrea uses the polite 'you' form alongside 'this remark' to keep a respectful professional tone.
+- 'I mess up all my takes today.' Jose despairs over his disastrous performance on set.
+- 'Calm down Jose, take a deep breath.' Andrea urges her client to relax between camera setups.
+- 'I forget my lines every time!' Jose struggles to memorize the fiery chef monologue.
+- 'You must just shout at your brigade.' Andrea reminds him that the director wants genuine anger.
+- 'I cannot manage with Laurence.' Jose reveals that acting opposite his former flame unnerves him.
+- 'Are you still thinking about that story?' Andrea asks about their ancient romantic liaison.
+- 'We were supposed to meet at the hotel.' Jose recalls their planned rendezvous that never occurred.
+- 'That was twenty years ago!' Andrea puts the distant past into perspective.
+- 'I still feel very guilty.' Jose admits that he never forgave himself for not showing up.
+- 'I spoke with Laurence just earlier.' Andrea reveals that she already questioned the actress in private.
+- 'What did she say about me?' Jose eagerly asks about his co-star's reaction.
+- 'She did not go to the hotel!' Andrea reveals that Laurence also skipped the secret date.
+- 'She stood me up too?' Jose is stunned to discover their mutual failure to meet.
+- 'Yes, you are both even now!' Andrea smiles and tells him that neither holds a grudge.

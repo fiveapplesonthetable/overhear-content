@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did we have a wild night?' Arlette teases Andréa's disheveled and glowing appearance. The adjective meaning 'wild' agrees in gender and number with feminine noun 'evening'.
-- 'Exactly! Guess with whom.' Andréa hypes up the mystery. Andréa opens with the word for 'precisely' and lands on 'figure out' at the close.
-- 'With whom?' Mathias asks with dry skepticism. Listen for the expression meaning 'with', which leads naturally into 'whom exactly'.
-- 'None other than Fabrice Luchini.' Andréa drops the superstar name triumphantly. She pauses for dramatic effect.
-- 'No. You shouldn't have gone that far.' Mathias immediately suspects a scandal. Listen for the expression meaning 'no way', which leads naturally into 'to that extreme'.
-- 'No... it was wild and platonic.' Andréa sets the record straight. The adverb meaning 'no' sharpens the verb for 'was' here.
-- 'He left Bréhier.' She delivers the crucial agency intelligence. Listen for the expression meaning 'has', which leads naturally into 'fired'.
-- 'That is excellent news! I love it!' Arlette rejoices at their rival's loss. Arlette opens with the word for 'is' and lands on 'am thrilled' at the close.
-- 'Calm down, Arlette.' Mathias tries to maintain composure. The command form calme-toi uses the informal pronoun.
-- 'What a killjoy!' Arlette mocks Mathias's perpetual pessimism. The key word here means 'party pooper', paired with 'party pooper' to make the point clear.
-- 'We talked all night, I adore this guy.' Andréa describes their deep mutual connection. Andréa pairs the verb meaning 'have' with the noun for 'fellow'.
-- 'I think that he likes me too.'t want to brag but I think he likes me too.' She notes their instant chemistry. Andréa opens with the word for 'not' and lands on 'in return' at the close.
-- 'I don't understand. Did he say yes?' Mathias demands practical confirmation. The key word here means 'not', paired with 'yes' to make the point clear.
-- 'Not yet, but he invited me to the theatre tonight.' Andréa reveals her follow-up date. Andréa opens with the word for 'not' and lands on 'evening' at the close.
-- 'Let's not celebrate too quickly, but it looks promising!' She cautions prudence while staying optimistic. Listen for the expression meaning 'not', which leads naturally into 'splendidly'.
-- 'You see, Mathias? We just had to dare.' She proudly claims credit for taking the risk. The adverb meaning 'only' sharpens the verb for 'witness' here.
+- 'Did we have a wild night?' Arlette teases Andréa's disheveled and glowing appearance.
+- 'Exactly! Guess with whom.' Andréa hypes up the mystery.
+- 'With whom?' Mathias asks with dry skepticism.
+- 'None other than Fabrice Luchini.' Andréa drops the superstar name triumphantly.
+- 'No. You shouldn't have gone that far.' Mathias immediately suspects a scandal.
+- 'No... it was wild and platonic.' Andréa sets the record straight.
+- 'He left Bréhier.' She delivers the crucial agency intelligence.
+- 'That is excellent news! I love it!' Arlette rejoices at their rival's loss.
+- 'Calm down, Arlette.' Mathias tries to maintain composure.
+- 'What a killjoy!' Arlette mocks Mathias's perpetual pessimism.
+- 'We talked all night, I adore this guy.' Andréa describes their deep mutual connection.
+- 'I think that he likes me too.'t want to brag but I think he likes me too.' She notes their instant chemistry.
+- 'I don't understand. Did he say yes?' Mathias demands practical confirmation.
+- 'Not yet, but he invited me to the theatre tonight.' Andréa reveals her follow-up date.
+- 'Let's not celebrate too quickly, but it looks promising!' She cautions prudence while staying optimistic.
+- 'You see, Mathias? We just had to dare.' She proudly claims credit for taking the risk.

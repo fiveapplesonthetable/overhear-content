@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a problem in your contracts.' The informal 'you' form around 'has' marks a direct, personal relationship. The informal 'you' form around 'has' marks a direct, personal relationship.
-- 'Which contract are you talking about today?' Notice how the short vowel drops before a vowel sound around 'do you speak', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'do you speak', making the phrase flow smoothly as one unit.
-- 'Isabelle Huppert is shooting two different films.' The descriptive adjective for 'different' agrees in gender and number with its noun. The descriptive adjective for 'different' agrees in gender and number with its noun.
-- 'It is just a slight schedule overlap.' A minimizing explanation attempting to soften the conflict. The descriptive adjective for 'light' agrees in gender and number with its noun.
-- 'The American contract demands total exclusivity.' Notice how 'demands' leads directly into the noun meaning 'business contract'. Notice how 'demands' leads directly into the noun meaning 'business contract'.
-- 'She shoots at night for the French.' A practical explanation revealing the day-and-night filming arrangement. The verb meaning 'shoots' pairs naturally with the noun for 'night' in everyday conversation.
-- 'We are completely outside the law, Gabriel!' An alarmed rebuke protesting unacceptable professional risk. The adverb meaning 'completely' gives the reply its conversational emphasis.
-- 'Isabelle is a veritable living legend.' The descriptive adjective for 'veritable' agrees in gender and number with its noun. The descriptive adjective for 'veritable' agrees in gender and number with its noun.
-- 'She cannot keep up this pace.' Notice the classic French sandwich negation wrapping right around 'can'. Notice the classic French sandwich negation wrapping right around 'can'.
-- 'She has an absolutely tremendous energy.' An admiring praise highlighting the actress's rare stamina. The verb meaning 'has' pairs naturally with the noun for 'vitality' in everyday conversation.
-- 'This double shoot is too dangerous.' A grave executive verdict condemning the clandestine schedule. The key noun here means 'filming', anchored by its matching French article.
-- 'Only two difficult days remain.' A calming temporal reassurance emphasizing that the ordeal is nearly over. The two-part French negation brackets the verb for 'remains' on both sides.
-- 'If the Americans learn about this, look out!' The verb meaning 'learn' pairs naturally with the noun for 'Americans' in everyday conversation.
-- 'Trust me, everything will go well.' Notice how 'give me' leads directly into the noun meaning 'trust'. Notice how 'give me' leads directly into the noun meaning 'trust'.
+- 'There is a problem in your contracts.' An administrative warning alerting an agent to legal irregularities.
+- 'Which contract are you talking about today?' A defensive inquiry seeking specific clarification.
+- 'Isabelle Huppert is shooting two different films.' A direct accusation pointing out an impossible work schedule.
+- 'It is just a slight schedule overlap.' A minimizing explanation attempting to soften the conflict.
+- 'The American contract demands total exclusivity.' A stern contractual reminder enforcing legal boundaries.
+- 'She shoots at night for the French.' A practical explanation revealing the day-and-night filming arrangement.
+- 'We are completely outside the law, Gabriel!' An alarmed rebuke protesting unacceptable professional risk.
+- 'Isabelle is a veritable living legend.' A reverent defense justifying extraordinary accommodations for a star.
+- 'She cannot keep up this pace.' A worried assessment warning against physical and mental exhaustion.
+- 'She has an absolutely tremendous energy.' An admiring praise highlighting the actress's rare stamina.
+- 'This double shoot is too dangerous.' A grave executive verdict condemning the clandestine schedule.
+- 'Only two difficult days remain.' A calming temporal reassurance emphasizing that the ordeal is nearly over.
+- 'If the Americans learn about this, look out!' A cautionary warning anticipating severe contractual penalties.
+- 'Trust me, everything will go well.' A confident final promise reassuring an anxious supervisor.

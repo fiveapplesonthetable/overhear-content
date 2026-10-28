@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The phones are ringing without stopping today.' Gabriel rushes across the bustling floor. The verb meaning 'ring' pairs naturally with the noun for 'phones' in everyday conversation.
-- 'Where have all our assistants gone?' Andrea surveys the empty desks with unease. In everyday spoken French, rising intonation on 'gone' at the end is enough to turn the sentence into a question.
-- 'Fabrice Luchini has just left me!' Gabriel clutches his receiver in disbelief. The short 'self' word sits right in front of the verb for 'comes', turning the action back onto the subject.
-- 'Why does he make such a brutal decision?' Andrea questions the actor's motive. Notice how 'takes' leads directly into the noun meaning 'decision'.
-- 'He claims that I criticize him.' Gabriel recounts the false accusation. The clause hinges on the everyday verb meaning 'claims'.
-- 'Look at my emails, it is carnage.' Andrea opens her inbox to endless resignation notices. Notice how 'look at' leads directly into the noun meaning 'emails'.
-- 'What is happening now?' Gabriel asks in dread. The standard spoken question formula at the front turns the statement about 'happens' into a natural inquiry.
-- 'Dujardin and Berleand are leaving us too!' Andrea reads the incoming signatures. The clause hinges on the everyday verb meaning 'leave'.
-- 'Are all our stars leaving together?' Gabriel connects the coordinated strike. In everyday spoken French, rising intonation on 'leave' at the end is enough to turn the sentence into a question.
-- 'Elise is bleeding us dry.' Andrea grasps the ruthless strategy. The clause hinges on the everyday verb meaning 'to bleed'.
-- 'I had warned you about that traitor!' Gabriel's earlier warnings prove prophetic. Notice how 'had' leads directly into the noun meaning 'traitor'.
-- 'She is taking everyone to StarMedia.' Andrea names the rival agency destination. Notice how 'takes' leads directly into the noun meaning 'world'.
-- 'Our agency is completely ruined, Andrea.' Gabriel faces financial collapse. The verb meaning 'ruined' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'I am going to make her pay dearly.' Andrea's shock turns to cold anger. The clause hinges on the everyday verb meaning 'am going'.
+- 'The phones are ringing without stopping today.' Gabriel rushes across the bustling floor.
+- 'Where have all our assistants gone?' Andrea surveys the empty desks with unease.
+- 'Fabrice Luchini has just left me!' Gabriel clutches his receiver in disbelief.
+- 'Why does he make such a brutal decision?' Andrea questions the actor's motive.
+- 'He claims that I criticize him.' Gabriel recounts the false accusation.
+- 'Look at my emails, it is carnage.' Andrea opens her inbox to endless resignation notices.
+- 'What is happening now?' Gabriel asks in dread.
+- 'Dujardin and Berleand are leaving us too!' Andrea reads the incoming signatures.
+- 'Are all our stars leaving together?' Gabriel connects the coordinated strike.
+- 'Elise is bleeding us dry.' Andrea grasps the ruthless strategy.
+- 'I had warned you about that traitor!' Gabriel's earlier warnings prove prophetic.
+- 'She is taking everyone to StarMedia.' Andrea names the rival agency destination.
+- 'Our agency is completely ruined, Andrea.' Gabriel faces financial collapse.
+- 'I am going to make her pay dearly.' Andrea's shock turns to cold anger.

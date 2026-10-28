@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Sacha Hartman.' The radio presenter introduces the celebrated guest. The formal greeting addresses the visiting filmmaker directly.
-- 'Thank you for being with us.' The polite opening welcomes him to the studio broadcast. The prepositional phrase uses an infinitive of state.
-- 'You speak perfect French.' The host compliments the visiting director's fluency. Listen for the expression meaning 'speak', which leads naturally into 'flawless'.
-- 'I attended the French school in Berlin.' Sacha explains his early language immersion. The key word here means 'I have', paired with 'French institution' to make the point clear.
-- 'My parents have always loved France.' He attributes his bilingualism to family ties. The plural possessive introduces maternal and paternal affinity.
-- 'Your first movie won a prize.' The journalist recalls his striking artistic debut. The ordinal adjective precedes the masculine noun.
-- 'The Palme d'Or at Cannes!' The host highlights the highest festival accolade. The prestigious festival prize carries international prestige.
-- 'An association is trying to ban your film.' The question addresses conservative censorship. The semi-helping verb construction indicates active attempts to suppress.
-- 'How do you react to these attacks?' The host invites his comment on public controversy. The question form adverb structures an inquiry into feelings.
-- 'I do not want to give them a platform.' Sacha refuses to amplify his loudest critics. The negative helping verb governs an infinitive with short object word.
-- 'Nor give them the slightest attention.' He dismisses the protesters entirely. The negative coordinating connecting word reinforces total indifference.
-- 'They belong to the old world.' The filmmaker views the opposition as outdated reactionaries. The 'they' form verb signifies cultural divergence.
-- 'The interview is over, Sacha.' Camille signals that their broadcast segment has wrapped up. The feminine past verb form indicates completion of work.
-- 'We must go now.' Camille urges him toward the door before crowds gather. Camille opens with the word for 'must' and lands on 'right now' at the close.
-- 'All right, I am following you.' Sacha calmly prepares to leave the premises. The present-tense verb follows the agreement formula.
+- 'Hello, Sacha Hartman.' The radio presenter introduces the celebrated guest.
+- 'Thank you for being with us.' The polite opening welcomes him to the studio broadcast.
+- 'You speak perfect French.' The host compliments the visiting director's fluency.
+- 'I attended the French school in Berlin.' Sacha explains his early language immersion.
+- 'My parents have always loved France.' He attributes his bilingualism to family ties.
+- 'Your first movie won a prize.' The journalist recalls his striking artistic debut.
+- 'The Palme d'Or at Cannes!' The host highlights the highest festival accolade.
+- 'An association is trying to ban your film.' The question addresses conservative censorship.
+- 'How do you react to these attacks?' The host invites his comment on public controversy.
+- 'I do not want to give them a platform.' Sacha refuses to amplify his loudest critics.
+- 'Nor give them the slightest attention.' He dismisses the protesters entirely.
+- 'They belong to the old world.' The filmmaker views the opposition as outdated reactionaries.
+- 'The interview is over, Sacha.' Camille signals that their broadcast segment has wrapped up.
+- 'We must go now.' Camille urges him toward the door before crowds gather.
+- 'All right, I am following you.' Sacha calmly prepares to leave the premises.

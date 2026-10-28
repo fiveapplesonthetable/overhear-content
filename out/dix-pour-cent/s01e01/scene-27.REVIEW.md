@@ -36,12 +36,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But I was wrong.' Listen to the ending of the last word. Andréa is a woman, so the word gets a silent extra letter, the feminine ending. You won't hear it, but you'll see it written. Now she turns on Camille.
 - 'Do you realise what you did?' Andréa uses the casual 'you' with her assistant. A boss can do that, and in this office everyone does. Then she mocks her.
 - 'Did you want a selfie? An autograph?' Andréa pretends Camille only talked to the star to get a souvenir, like a fan. Then comes the serious part.
-- 'We almost lost a big star!' The word for 'almost' sits between the two parts of the verb, just like 'we have almost lost'. Camille tries to defend herself.
+- 'We almost lost a big star!' The word for 'almost' sits between the two parts of the action word, just like 'we have almost lost'. Camille tries to defend herself.
 - 'Yes, but Cécile stayed with the agency.' True: Mathias got her to sign with him, so she's still a client of the house. Then Camille says it didn't happen that way.
-- 'No, it isn't like that.' Here's the main grammar point of this scene. To say 'not', French wraps the verb in two little words, one before and one after. The first one loses its vowel before 'is'. Listen to it again in the next line.
+- 'No, it isn't like that.' Here's the main language point of this scene. To say 'not', French wraps the action word in two little words, one before and one after. The first one loses its vowel before 'is'. Listen to it again in the next line.
 - 'I'm not a chatterbox.' Same pattern: the two little negative words hug the verb 'am'. The word for 'chatterbox' ends in the feminine form, because Camille is talking about herself. Andréa doesn't want to hear it.
 - 'Get your things.' Three words, and Camille is fired. It's a casual command, said to one person. Hervé, at the next desk, tries to soften the blow.
-- 'It was short, but intense.' Notice how 'it was' sets up the clause and leads naturally into 'intense'.
+- 'It was short, but intense.' He talks about her job as if it were a little love story. Then he looks on the bright side.
 - 'But there's a bright side.' Literally 'there is a positive side'. The opening three words mean 'there is', and you hear them everywhere in French.
 - 'You're far from this business.' Hervé means she has escaped a nasty world. The word for business is simply the English one.
 - 'I really mean it.' Literally 'I think it really'. Now Hervé turns to Noémie, who hasn't looked up from her screen.

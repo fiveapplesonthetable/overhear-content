@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at that! It is funny.' Andréa points out the unexpected object with amusement. The pointing word pronoun introduces an amusing visual surprise.
-- 'Whose do you think it is?' Camille wonders who took the test. The question form phrase asks for the owner of the test.
-- 'Do you think of Sofia?' Andréa suggests their colleague as a candidate. The prepositional verb specifies the person under consideration.
-- 'No, not Sofia. What about me?' Camille playfully floats herself as a possibility. The emphasis word puts forward her own name.
-- 'No, not you, Camille.' Andréa immediately dismisses that option. The direct address rules out the young assistant.
-- 'Maybe Noémie?' Andréa suggests Mathias's devoted assistant next. The modal adverb introduces a tentative possibility.
-- 'Or a visiting actress?' Camille considers external celebrity clients. The prepositional phrase specifies temporary presence.
-- 'No, can you imagine an actress here?' Andréa finds that idea far-fetched. The adverb meaning 'no' sharpens the verb for 'can imagine' here.
-- 'An actress taking her test here?' She pictures a star using the office toilet. The relative clause describes an improbable bathroom action.
-- 'In any case, female solidarity!' Camille invokes discretion among women. The adjective meaning 'female' agrees in gender and number with feminine noun 'mutual solidarity'.
-- 'Do you know what they say?' Andréa recalls a humorous proverb. Andréa opens with the word for 'know' and lands on 'says' at the close.
-- 'No, not at all.' Camille has never heard the expression before. The emphatic negative adverb conveys total unfamiliarity.
-- 'Not a word to anyone!' Andréa demands complete confidentiality. The elliptical command enforces strict office silence.
-- 'I say nothing, promise.' Camille vows to keep quiet. The negative present verb guarantees discretion.
-- 'It is our little secret.' Andréa seals the shared discovery. The possessive determiner establishes a shared bond.
+- 'Look at that! It is funny.' Andrea points out the unexpected object with amusement.
+- 'Whose do you think it is?' Camille wonders who took the test.
+- 'Do you think of Sofia?' Andrea suggests their colleague as a candidate.
+- 'No, not Sofia. What about me?' Camille playfully floats herself as a possibility.
+- 'No, not you, Camille.' Andrea immediately dismisses that option.
+- 'Maybe Noémie?' Andréa suggests that Mathias's devoted assistant could step in.
+- 'Or a visiting actress?' Camille considers external celebrity clients.
+- 'No, can you imagine an actress here?' Andrea finds that idea far-fetched.
+- 'An actress taking her test here?' She pictures a star using the office toilet.
+- 'In any case, female solidarity!' Camille invokes discretion among women.
+- 'Do you know what they say?' Andrea recalls a humorous proverb.
+- 'No, not at all.' Camille has never heard the expression before.
+- 'Not a word to anyone!' Andrea demands complete confidentiality.
+- 'I say nothing, promise.' Camille vows to keep quiet.
+- 'It is our little secret.' Andrea seals the shared discovery.

@@ -29,16 +29,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not want to see her.' Ramzy sets an absolute boundary with a short object word.
+- 'I do not want to see her.' Ramzy refuses flatly to see Virginie.
 - 'Interviews, photos for the film, it is out of the question.' A useful everyday idiom for an absolute refusal.
 - 'Without promotion, the film is going to be a failure.' Mathias warns about the financial stakes with near future.
-- 'It is bad for everyone.' Notice how the verb for 'it is' leads straight into 'world'.
-- 'What she did is unforgivable.' Listen for the expression meaning 'has', which leads naturally into 'unforgivable'.
+- 'It is bad for everyone.' The adjective for bad followed by a preposition.
+- 'What she did is unforgivable.' A relative clause followed by a strong negative adjective.
 - 'That depends on your school of thought.' Mathias switches to philosophical persuasion.
-- 'What school of thought?' Ramzy asks sceptically with an question form determiner.
+- 'What school of thought?' Ramzy asks sceptically with an interrogative determiner.
 - 'Your body belongs to you. You do not own someone.' Two core principles of modern autonomy.
-- 'Infidelity does not really exist.' Mathias pairs the verb meaning 'does not exist' with the noun for 'infidelity'.
-- 'You could promote peace and progress!' Mathias reaches for lofty ideals using the conditional form.
+- 'Infidelity does not really exist.' Mathias tries to philosophicalize that infidelity does not really exist.
+- 'You could promote peace and progress!' Mathias argues grandly that forgiving Virginie would promote peace and progress.
 - 'No! Not at all!' Ramzy rejects the argument completely.
 - 'Hello, Ramzy! Have a nice day!' Camille cheerfully greets the client as the elevator doors open.
 - 'Goodbye.' Ramzy mutters a curt farewell as he storms off into the corridor.

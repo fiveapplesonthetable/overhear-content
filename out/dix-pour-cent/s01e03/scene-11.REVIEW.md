@@ -34,13 +34,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Clément, it's nice to see you.' Literally 'it makes pleasure to see you', a very common, warm greeting.
 - 'Andréa. How long has it been? Ten years?' That same 'it makes' expression is how French asks how long something has been going on.
 - 'So, what is it for?' Clément skips the small talk; he knows she hasn't come just to say hello.
-- 'A tax audit?' In French the adjective for 'tax' comes right after the word for 'check' or 'audit'.
-- 'Not me, my agency. I'm an agent now.' Andréa links 'not' directly with 'me' to express the thought clearly.
-- 'Who is doing the audit?' Short and direct: the question word for 'who' followed by the verb 'does'.
+- 'A tax audit?' In French the describing word for 'tax' comes right after the word for 'check' or 'audit'.
+- 'Not me, my agency. I'm an agent now.' Notice the masculine possessive word before 'agency' because 'agency' begins with a vowel.
+- 'Who is doing the audit?' Short and direct: the question word for 'who' followed by the action word 'does'.
 - 'A woman. Colette Brancillon.' Remember that name; we're going to meet her very soon.
-- 'I know her. She's young and keen.' The little word for 'her' sits right before the verb 'know'.
+- 'I know her. She's young and keen.' The little word for 'her' sits right before the action word 'know'.
 - 'That's really not good for you.' Clément tells her that Colette Brancillon follows every rule in the book.
-- 'Can you do something?' The verb 'can' followed by 'to do something'.
+- 'Can you do something?' The action word 'can' followed by 'to do something'.
 - 'Do you still like the cinema?' The word after the verb means both 'always' and 'still'. Here comes the bribe.
 - 'I'm listening.' Literally 'I listen to you', with the object word shortened before a vowel.
 - 'Invitations to Cannes, and a room at the Carlton.' The grand hotel on the seafront during the film festival.

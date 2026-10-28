@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Enjoy the screening.' A polite command using the formal 'you', which Noémie always uses with Mathias at the office.
 - 'I really don't feel like it. See you tomorrow.' Literally 'I really don't have the desire of it'. That is why Mathias is about to go straight home instead.
 - 'Yes, Mathias.' Quiet and devoted as always.
-- 'He forgot his phone. Mathias!' The verb 'to forget' in the everyday past tense. She runs after him to give it back.
+- 'He forgot his phone. Mathias!' The action word 'to forget' in the everyday past. She runs after him to give it back.
 - 'Contract sent by email. A new adventure begins.' She glances at the screen and sees a message from the rival agency StarMédia.
 - 'What? Oh, thanks. See you tomorrow, Noémie.' Mathias takes his phone back without realising she read the message.
 - 'Noémie? What's wrong?' A moment later, Hervé finds her crying in the agency washroom.

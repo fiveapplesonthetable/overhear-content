@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Isabelle, how are you feeling this morning?' Gabriel picks up the phone with concern. The verb meaning 'do you feel' pairs naturally with the noun for 'morning' in everyday conversation.
-- 'What do you mean, you have no voice left?' Gabriel reacts with sheer shock to her hoarse whisper. Gabriel uses the polite 'you' form alongside 'have' to keep a respectful professional tone.
-- 'Did the cortisone have no effect then?' Gabriel asks about the prescribed anti-inflammatory drugs. Notice how 'has' leads directly into the noun meaning 'cortisone'.
-- 'Is the doctor stopping you for a week?' Gabriel hears the medical verdict with dismay. Notice how 'stops' leads directly into the noun meaning 'doctor'.
-- 'Is the American shoot going to stop too?' Andrea immediately grasps the catastrophic consequences. In everyday spoken French, rising intonation on 'is going' at the end is enough to turn the sentence into a question.
-- 'Yes Andrea, the film is totally suspended.' Gabriel confirms the grim reality. Notice how 'suspended' leads directly into the noun meaning 'film'.
-- 'A shutdown costs millions of dollars.' Andrea calculates the staggering financial damages. Notice how 'costs' leads directly into the noun meaning 'interruption'.
-- 'Insurances generally reimburse these unforeseen costs.' Gabriel tries to reassure Andrea. The verb meaning 'reimburse' pairs naturally with the noun for 'insurances' in everyday conversation.
-- 'The companies love to nitpick.' Andrea points out that insurers scrutinize claims. Notice how 'love' leads directly into the noun meaning 'companies'.
-- 'Why should they worry about this flu?' Gabriel struggles to see any immediate suspicion. In everyday spoken French, rising intonation on 'should they' at the end is enough to turn the sentence into a question.
-- 'Isabelle was shooting a second film at night!' Andrea exposes their blatant contractual fraud. Notice how 'was shooting' leads directly into the noun meaning 'film'.
-- 'They can pin the blame on us.' Andrea warns that ASK will be held fully liable. The verb meaning 'can' pairs naturally with the noun for 'hat' in everyday conversation.
-- 'Let us not panic before knowing.' Gabriel desperately appeals for rational composure. The two-part French negation brackets the verb for 'let us panic' on both sides.
-- 'The insurances will simply do their normal work.' Gabriel clings to hope that the audit stays routine. The verb meaning 'will do' pairs naturally with the noun for 'insurances' in everyday conversation. Now let's hear the whole conversation again.
+- 'Hello Isabelle, how are you feeling this morning?' Gabriel picks up the phone with concern.
+- 'What do you mean, you have no voice left?' Gabriel reacts with sheer shock to her hoarse whisper.
+- 'Did the cortisone have no effect then?' Gabriel asks about the prescribed anti-inflammatory drugs.
+- 'Is the doctor stopping you for a week?' Gabriel hears the medical verdict with dismay.
+- 'Is the American shoot going to stop too?' Andrea immediately grasps the catastrophic consequences.
+- 'Yes Andrea, the film is totally suspended.' Gabriel confirms the grim reality.
+- 'A shutdown costs millions of dollars.' Andrea calculates the staggering financial damages.
+- 'Insurances generally reimburse these unforeseen costs.' Gabriel tries to reassure Andrea.
+- 'The companies love to nitpick.' Andrea points out that insurers scrutinize claims.
+- 'Why should they worry about this flu?' Gabriel struggles to see any immediate suspicion.
+- 'Isabelle was shooting a second film at night!' Andrea exposes their blatant contractual fraud.
+- 'They can pin the blame on us.' Andrea warns that ASK will be held fully liable.
+- 'Let us not panic before knowing.' Gabriel desperately appeals for rational composure.
+- 'The insurances will simply do their normal work.' Gabriel clings to hope that the audit stays routine. Now listen to the scene again at normal speed and see how much you understand.

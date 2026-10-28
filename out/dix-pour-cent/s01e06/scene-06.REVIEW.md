@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He would not pay in cash!' Hervé expresses disbelief that an agency buyout would arrive in bank notes.
-- 'Yes he would! The father-in-law owns real estate in Paris.' Noémie explains that Catherine's father has massive property holdings.
+- 'He would not pay in cash!' Herve expresses disbelief that an agency buyout would arrive in bank notes.
+- 'Yes he would! The father-in-law owns real estate in Paris.' Noemie explains that Catherine's father has massive property holdings.
 - 'When buyers purchase property, they pay in cash. That is well known.' She points out that luxury deals often involve cash.
-- 'So it is cash.' Hervé concedes that the bag might actually be filled with currency.
-- 'That is how Mathias is going to become our boss.' Noémie dreams about Mathias taking over the agency.
+- 'So it is cash.' Herve concedes that the bag might actually be filled with currency.
+- 'That is how Mathias is going to become our boss.' Noemie dreams about Mathias taking over the agency.
 - 'And I will become his right-hand woman.' She imagines herself as his indispensable deputy.
-- 'Then he will ask you to marry him.' Hervé teases her gently about her feelings for Mathias.
+- 'Then he will ask you to marry him.' Herve teases her gently about her feelings for Mathias.
 - 'You think so? No! I am going to take a look.' Flustered by the remark, she resolves to peek inside the bag.
-- 'No, Noémie! Are you crazy? Be careful!' Hervé warns her that sneaking into the office is reckless.
+- 'No, Noémie! Are you crazy? Be careful!' Herve warns her that sneaking into the office is reckless.
 - 'Mathias knows that everything I do is for his own good.' She rationalizes her snooping as pure devotion.
-- 'So he will reward my loyalty. Keep watch, okay?' Noémie orders Hervé to guard the corridor.
-- 'Jean Gabin! What? Jean Gabin is ruining the money!' Hervé gasps as the dog damages the cash on the floor.
-- 'Give it back, Jean Gabin! I cannot believe it!' Noémie desperately tries to rescue the bills from the puppy.
-- 'Noémie, get out of there!' Hervé urgently tells her to escape before anyone discovers the catastrophe.
+- 'So he will reward my loyalty. Keep watch, okay?' Noemie orders Herve to guard the corridor.
+- 'Jean Gabin! What? Jean Gabin is ruining the money!' Herve gasps as the dog damages the cash on the floor.
+- 'Give it back, Jean Gabin! I cannot believe it!' Noemie desperately tries to rescue the bills from the puppy.
+- 'Noémie, get out of there!' Herve urgently tells her to escape before anyone discovers the catastrophe.

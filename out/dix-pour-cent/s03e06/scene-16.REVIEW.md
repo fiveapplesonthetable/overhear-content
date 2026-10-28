@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening Mathias, here I am at last!' Isabelle greets her longtime agent. The short 'self' word sits right in front of the verb for 'here is', turning the action back onto the subject.
-- 'So, is the shoot finished?' Mathias asks about the secret film production. Notice how 'finished' leads directly into the noun meaning 'filming'.
-- 'All good, it is in the can!' Isabelle uses the famous cinema expression. The descriptive adjective for 'good' agrees in gender and number with its noun.
-- 'You achieved an incredible feat.' Mathias marvels at her talent. Notice how 'have' leads directly into the noun meaning 'feat'.
-- 'The team sends everything to editing.' Isabelle details the postproduction steps. The verb meaning 'sends' pairs naturally with the noun for 'team' in everyday conversation.
-- 'What pride to see you here.' Mathias welcomes the beloved star warmly. The verb meaning 'see' pairs naturally with the noun for 'pride' in everyday conversation.
-- 'I wanted to be here tonight.' Isabelle affirms her commitment to the party. The verb meaning 'wanted' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'We celebrate thirty years of ASK.' Mathias marks the major milestone. Notice how 'celebrate' leads directly into the noun meaning 'years'.
-- 'This agency matters a lot to me.' Isabelle expresses her emotional loyalty. The verb meaning 'matters' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'You are always our favorite star.' Mathias showers her with compliments. The key noun here means 'star', anchored by its matching French article.
-- 'Look at all these friends gathered.' Isabelle observes the crowd of colleagues. The verb meaning 'look at' pairs naturally with the noun for 'friends' in everyday conversation.
-- 'We form a large united family.' Mathias reflects on their solidarity. The descriptive adjective for 'great' agrees in gender and number with its noun.
-- 'Let's have a drink all together.' Isabelle proposes a shared toast. The verb meaning 'let's drink' pairs naturally with the noun for 'drink' in everyday conversation.
-- 'To our agency and to the future!' Mathias raises his glass in celebration. The key noun here means 'agency', anchored by its matching French article.
+- 'Good evening Mathias, here I am at last!' Isabelle greets her longtime agent.
+- 'So, is the shoot finished?' Mathias asks about the secret film production.
+- 'All good, it is in the can!' Isabelle uses the famous cinema expression.
+- 'You achieved an incredible feat.' Mathias marvels at her talent.
+- 'The team sends everything to editing.' Isabelle details the postproduction steps.
+- 'What pride to see you here.' Mathias welcomes the beloved star warmly.
+- 'I wanted to be here tonight.' Isabelle affirms her commitment to the party.
+- 'We celebrate thirty years of ASK.' Mathias marks the major milestone.
+- 'This agency matters a lot to me.' Isabelle expresses her emotional loyalty.
+- 'You are always our favorite star.' Mathias showers her with compliments.
+- 'Look at all these friends gathered.' Isabelle observes the crowd of colleagues.
+- 'We form a large united family.' Mathias reflects on their solidarity.
+- 'Let's have a drink all together.' Isabelle proposes a shared toast.
+- 'To our agency and to the future!' Mathias raises his glass in celebration.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is the contract for Nathalie Baye ready?' Mathias asks his assistant for an urgent legal document.
-- 'It is really incredible, actually. He opened my eyes.' The adverb meaning 'truly' sharpens the verb for 'is' here.
-- 'Thanks to him, I discovered my totem animal.' Noémie explains her mystical discovery with the shaman.
-- 'The beaver! Yes, Mathias, I come from a family of builders!' Noémie opens with the word for 'beaver!' and lands on 'builders!' at the close.
-- 'Guy Marchand has top billing.' Mathias opens with the word for 'is' and lands on 'of billing.' at the close.
+- 'It is really incredible, actually. He opened my eyes.' Noémie gushes that her session with the shaman completely opened her eyes.
+- 'Thanks to him, I discovered my totem animal.' Noemie explains her mystical discovery with the shaman.
+- 'The beaver! Yes, Mathias, I come from a family of builders!' She proudly declares that the beaver is her spirit animal because her family are builders.
+- 'Guy Marchand has top billing.' Turning to his client Dario, Mathias mentions that Guy Marchand has top billing.
 - 'Okay, great! What kind of story is it?' Dario is thrilled to hear about the prestigious cast.
-- 'You are Dario, the railway worker and supporting role.' Mathias pairs the verb meaning 'are' with the noun for 'role.'.
+- 'You are Dario, the railway worker and supporting role.' Mathias explains that Dario would play the young railway worker in the supporting role.
 - 'He is a young politically committed idealist.' Mathias outlines the character's intellectual background.
-- 'He is not very comfortable with girls...' The adverb meaning 'very' sharpens the verb for 'is not' here.
+- 'He is not very comfortable with girls...' He adds tactfully that the character feels awkward around women.
 - 'So you thought of me!' Dario jokes about matching the socially awkward character description.
 - 'Exactly! You have the ideal profile.' Mathias affirms that Dario fits the casting requirements perfectly.
-- 'Noémie fought hard to land you the audition.' The key word here means 'fought', paired with 'the audition.' to make the point clear.
+- 'Noémie fought hard to land you the audition.' Mathias gives Noémie credit for fighting hard to land Dario the audition.
 - 'Well, thank you very much! Goodbye!' Dario politely thanks his agent and takes his leave.

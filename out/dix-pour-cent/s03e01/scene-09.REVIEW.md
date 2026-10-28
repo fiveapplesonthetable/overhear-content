@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Gabriel! Do you have a minute?' Sofia greets her agent upon arriving. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
-- 'Hello Sofia! Yes, of course.' Gabriel welcomes his client warmly. The adverb meaning 'yes' gives the reply its conversational emphasis.
-- 'I have to show you something.' Sofia announces her surprise. The clause hinges on the everyday verb meaning 'it is necessary that'.
-- 'What is it?' Gabriel asks with curiosity. The standard spoken question formula at the front turns the statement about 'is it' into a natural inquiry.
-- 'It is the new poster for my movie.' Sofia reveals the exciting project deliverable. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'The poster is already ready?' Gabriel expresses pleasant surprise at the timeline. The key noun here means 'poster', anchored by its matching French article.
-- 'Yes, the team worked very quickly.' Sofia compliments the production crew. This conversational past tense combines a helper verb with the past verb form for 'worked'.
-- 'Show me that right away.' Gabriel encourages her with an command form. The clause hinges on the everyday verb meaning 'show me'.
-- 'Look, I have it on my tablet.' Sofia pulls up the digital image. Notice how 'look' leads directly into the noun meaning 'tablet'.
-- 'It is really magnificent!' Gabriel admires the striking visual artwork. The descriptive adjective for 'magnificent' agrees in gender and number with its noun.
-- 'You think so? I was a little afraid.' Sofia admits her initial nervousness. Notice how 'think so' leads directly into the noun meaning 'fear'.
-- 'Why were you afraid?' Gabriel gently probes her self-doubt. Notice how 'were you' leads directly into the noun meaning 'afraid'.
-- 'I was afraid it would be too dark.' Sofia explains her creative hesitation. The descriptive adjective for 'dark' agrees in gender and number with its noun.
-- 'No, the colors are very beautiful.' Gabriel validates the visual palette. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.
-- 'I am very happy with the result.' Sofia expresses genuine creative satisfaction. The key noun here means 'result', anchored by its matching French article.
-- 'It is a great success for you.' Gabriel validates her achievement. The verb meaning 'it is' pairs naturally with the noun for 'success' in everyday conversation.
+- 'Hello Gabriel! Do you have a minute?' Sofia greets her agent upon arriving.
+- 'Hello Sofia! Yes, of course.' Gabriel welcomes his client warmly.
+- 'I have to show you something.' Sofia announces her surprise.
+- 'What is it?' Gabriel asks with curiosity.
+- 'It is the new poster for my movie.' Sofia reveals the exciting project deliverable.
+- 'The poster is already ready?' Gabriel expresses pleasant surprise at the timeline.
+- 'Yes, the team worked very quickly.' Sofia compliments the production crew.
+- 'Show me that right away.' Gabriel encourages her with an imperative. The adverbial phrase 'tout de suite' indicates immediacy.
+- 'Look, I have it on my tablet.' Sofia pulls up the digital image.
+- 'It is really magnificent!' Gabriel admires the striking visual artwork.
+- 'You think so? I was a little afraid.' Sofia admits her initial nervousness.
+- 'Why were you afraid?' Gabriel gently probes her self-doubt.
+- 'I was afraid it would be too dark.' Sofia explains her creative hesitation.
+- 'No, the colors are very beautiful.' Gabriel validates the visual palette.
+- 'I am very happy with the result.' Sofia expresses genuine creative satisfaction.
+- 'It is a great success for you.' Gabriel validates her achievement.

@@ -31,19 +31,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Françoise Fabian and Line Renaud want the same part.' The verb is 'to want', in its plural form for two people. The word for 'same' comes before the noun.
-- 'And the one who doesn't get it will hate us.' The near future again, 'is going to hate'. The little word for 'us' sits before the verb.
+- 'Françoise Fabian and Line Renaud want the same part.' The action word is 'to want', in its plural form for two people. The word for 'same' comes before the word.
+- 'And the one who doesn't get it will hate us.' The near future again, 'is going to hate'.
 - 'Stop! We're burying Samuel today.' The word for 'we' here is the everyday one. The agents fall quiet. That evening, at the tribute, Mathias welcomes everyone.
 - 'Good evening.' Remember, this is the greeting for the evening.
 - 'On behalf of ASK, thank you for coming.' Literally 'in the name of ASK, I thank you for having come'. A formal phrase for speeches.
 - 'I give the floor to a great friend of Samuel's, Françoise Fabian.' Literally 'I leave the word to'. The word for 'friend' has its feminine ending here, and so does 'great'.
 - 'Good evening.' Françoise greets the room in the same way, simply and with dignity.
-- 'A few weeks ago, I was having dinner with Samuel.' Two things here. The phrase that means 'there is' also means 'ago' when you put a time after it. And the verb is in the past tense for background, the one for 'was doing' or 'used to do'. That's our grammar point for this scene.
-- 'He said something wonderful.' This time it's the other past tense, with 'has', for one single event.
-- 'You actors, you play so you don't grow up.' She's quoting Samuel. 'In order not to' is two short words for 'not' placed together, before an infinitive.
+- 'A few weeks ago, I was having dinner with Samuel.' Two things here.
+- 'He said something wonderful.' This time it's the other past form, with 'has', for one single event.
+- 'You actors, you play so you don't grow up.' She's quoting Samuel.
 - 'You play so you don't die.' The same pattern again, with 'to die'.
 - 'Samuel, we miss you terribly.' Watch out, this one works back to front. In French you say 'you are missing to us'. The person who is missed is the subject.
-- 'Samou was full of joy, free!' Now Line speaks, using her pet name for Samuel. The verb is the background past of 'to be'.
+- 'Samou was full of joy, free!' Now Line speaks, using her pet name for Samuel.
 - 'How we used to party, back in the day!' The background past again, for something that happened again and again. Literally 'how we used to make the party'.
 - 'We miss you, Samou.' The same back-to-front verb as in Françoise's speech: the two rivals are saying the same thing.
 - 'But I promise you one thing.' She speaks to Samuel with the casual 'you', as to an old friend.

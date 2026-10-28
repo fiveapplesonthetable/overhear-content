@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why do you get in this elevator?' Gabriel demands to know why Elise followed him into the elevator. Gabriel uses the casual singular 'you' with 'get in', showing close familiarity.
-- 'We must talk about our work.' Elise insists on establishing an open dialogue with her reluctant peer. Notice how 'must' leads directly into the noun meaning 'work'.
-- 'The atmosphere is already very clear.' Gabriel coldly dismisses her proposal to clear the air. The adjective meaning 'clear' takes its feminine form here to match the noun it describes.
-- 'You hate me since my arrival.' Elise bluntly confronts Gabriel about his lingering resentment. The informal 'you' form around 'hate' marks a direct, personal relationship.
-- 'You stole our best clients!' This conversational past tense combines a helper verb with the past verb form for 'stolen'. This conversational past tense combines a helper verb with the past verb form for 'stolen'.
-- 'That is the game of our profession.' Elise defends competitive poaching as standard industry reality. The key noun here means 'game', anchored by its matching French article.
-- 'Press the button to go down.' Gabriel just wants the elevator to reach the lobby so he can leave. The verb meaning 'press' pairs naturally with the noun for 'button' in everyday conversation.
-- 'Wait, the elevator stops by itself!' Elise notices the machinery shudder and stall. Notice how 'wait' leads directly into the noun meaning 'elevator'.
-- 'No, we are completely blocked!' Gabriel realizes the cabin is trapped between floors. This conversational past tense combines a helper verb with the past verb form for 'stuck'.
-- 'Do not panic, it is nothing.' Elise tries to reassure her visibly shaking colleague. The clause hinges on the everyday verb meaning 'panic'.
-- 'I am extremely claustrophobic!' Gabriel reveals his severe phobia of confined spaces. The descriptive adjective for 'claustrophobic' agrees in gender and number with its noun.
-- 'Breathe calmly, they will help us.' The clause hinges on the everyday verb meaning 'breathe'.
-- 'I send an emergency text to Andrea.' Gabriel frantically pulls out his phone to seek rescue. The verb meaning 'send' pairs naturally with the noun for 'message' in everyday conversation.
-- 'We are going to spend time together!' Elise ironically remarks that fate has forced them to bond. Notice how 'are going' leads directly into the noun meaning 'time'.
+- 'Why do you get in this elevator?' Gabriel demands to know why Elise followed him into the elevator.
+- 'We must talk about our work.' Elise insists on establishing an open dialogue with her reluctant peer.
+- 'The atmosphere is already very clear.' Gabriel coldly dismisses her proposal to clear the air.
+- 'You hate me since my arrival.' Elise bluntly confronts Gabriel about his lingering resentment.
+- 'You stole our best clients!' Gabriel accuses her of poaching ASK talent while at StarMedia.
+- 'That is the game of our profession.' Elise defends competitive poaching as standard industry reality.
+- 'Press the button to go down.' Gabriel just wants the elevator to reach the lobby so he can leave.
+- 'Wait, the elevator stops by itself!' Elise notices the machinery shudder and stall.
+- 'No, we are completely blocked!' Gabriel realizes the cabin is trapped between floors.
+- 'Do not panic, it is nothing.' Elise tries to reassure her visibly shaking colleague.
+- 'I am extremely claustrophobic!' Gabriel reveals his severe phobia of confined spaces.
+- 'Breathe calmly, they will help us.' Elise instructs Gabriel to steady his breathing.
+- 'I send an emergency text to Andrea.' Gabriel frantically pulls out his phone to seek rescue.
+- 'We are going to spend time together!' Elise ironically remarks that fate has forced them to bond.

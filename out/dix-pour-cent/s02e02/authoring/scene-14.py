@@ -34,18 +34,18 @@ STORY = [
 ]
 WALK = [
     (0, None, "'So Andréa, how did the meeting go?' Gabriel opens by asking how the discussion with Luchini went."),
-    (1, None, "'He dug his heels in.' Andréa describes how obstinate and inflexible Fabrice proved to be."),
+    (1, None, "'He dug his heels in.' Andrea describes how obstinate and inflexible Fabrice proved to be."),
     (2, None, "'We must discredit his agent Bréhier.' Mathias insists that undermining his current agent is the only way forward."),
     (3, None, "'What does Fabrice lack?' Gabriel asks what is the unfulfilled desire or dream Luchini still holds."),
     (4, None, "'An international career in James Bond.' Mathias identifies the elusive global film role that Fabrice secretly covets."),
-    (5, None, "'He dreams of playing a villain!' Andréa emphasizes that playing a 007 antagonist is his biggest ambition."),
+    (5, None, "'He dreams of playing a villain!' Andrea emphasizes that playing a 007 antagonist is his biggest ambition."),
     (6, None, "'Let's make him believe Bréhier missed this contract.' Gabriel proposes inventing a story about Bréhier blowing the negotiation."),
     (7, None, "'The casting director is called Debbie MacWilliams.' Mathias mentions the real name of the iconic James Bond casting director."),
-    (8, None, "'Does Fabrice know her personally?' Andréa asks whether Luchini has ever met her face to face."),
+    (8, None, "'Does Fabrice know her personally?' Andrea asks whether Luchini has ever met her face to face."),
     (9, None, "'No, he has never seen her.' Gabriel confirms that Fabrice would not recognize the real casting director."),
-    (10, None, "'Our actress Linda Gérard looks like her.' Andréa suggests recruiting their bilingual client Linda Gérard for the stunt."),
+    (10, None, "'Our actress Linda Gérard looks like her.' Andrea suggests recruiting their bilingual client Linda Gérard for the stunt."),
     (11, None, "'She speaks English perfectly with the accent.' Gabriel highlights Linda's authentic Scottish background."),
     (12, None, "'Send a fake casting director?' Mathias questions the sanity and legality of sending an impostor."),
-    (13, None, "'It is our only chance to succeed!' Andréa argues passionately that this bold bluff is their only viable option."),
+    (13, None, "'It is our only chance to succeed!' Andrea argues passionately that this bold bluff is their only viable option."),
     (14, None, "'All right, but let us stay very discreet.' Mathias reluctantly agrees while demanding total secrecy."),
 ]

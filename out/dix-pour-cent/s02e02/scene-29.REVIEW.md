@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias! What are you doing here?' Noémie is stunned to see Mathias at the restaurant.
-- 'Oh, I am so sorry...' The feminine adjective 'sorry' agrees with Noémie.
-- 'Don't worry, Noémie.' Mathias opens with the word for 'leave it' and lands on 'leave it' at the close.
-- 'I was so worried.' Noémie opens with the word for 'I was' and lands on 'worried' at the close.
-- 'I called all the hospitals, then the firefighters.' Noémie lists her desperate emergency calls.
-- 'You must take me for a crazy person.' Listen for the expression meaning 'must', which leads naturally into 'crazy person'.
+- 'Mathias! What are you doing here?' Noemie is stunned to see Mathias at the restaurant.
+- 'Oh, I am so sorry...' Noémie apologizes profusely to Mathias for her blunder with Nathalie Baye.
+- 'Don't worry, Noémie.' Mathias tells her gently to drop the subject and stop worrying.
+- 'I was so worried.' Noémie confesses how anxious she was about ruining the deal.
+- 'I called all the hospitals, then the firefighters.' Noemie lists her desperate emergency calls.
+- 'You must take me for a crazy person.' The idiom 'prendre pour' means to take someone for something.
 - 'Since you come from a family of builders, you can fix everything.' Mathias compliments her resourcefulness.
-- 'Nathalie Baye called.' The verb meaning 'has' anchors the whole remark.
-- 'I told her we had an agreement for her contract.' The indirect pronoun 'to her' refers to Nathalie Baye.
+- 'Nathalie Baye called.' The compound past tense uses the auxiliary verb 'avoir'.
+- 'I told her we had an agreement for her contract.' She explains that she told Nathalie Baye the contract terms were settled.
 - 'Yes, thank you.' Mathias thanks his loyal assistant for managing the client.
-- 'I have seen all sorts of things. But not like you.' Le serveur opens with the word for 'have' and lands on 'not' at the close.
-- 'Lovers pretending to toast instead of kissing?' Listen for the expression meaning 'lovers', which leads naturally into 'kissing each other'.
-- 'I have never seen that!' The adverb meaning 'never' sharpens the verb for 'have' here.
+- 'I have seen all sorts of things. But not like you.' The waiter remarks that in all his years, he has never seen a pair quite like them.
+- 'Lovers pretending to toast instead of kissing?' The phrase 'faire semblant de' means to pretend.
+- 'I have never seen that!' The negation 'ne...
 - 'Hush!' Mathias shushes the chatty waiter with a quiet interjection.
-- 'Oh, dear Mathias...' Noémie gazes at Mathias with fond affection.
-- 'The big thrill. Let's go now.' The adjective meaning 'big' agrees in gender and number with masculine noun 'thrill'.
+- 'Oh, dear Mathias...' Noemie gazes at Mathias with fond affection.
+- 'The big thrill. Let's go now.' The imperative 'allons-y' urges them to leave together.

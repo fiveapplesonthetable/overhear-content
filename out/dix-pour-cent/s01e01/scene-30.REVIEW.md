@@ -40,13 +40,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's easy, I know. But I never thought I'd do it one day.' This is the heart of it: she knows it's common, she just never imagined it would be her turn. Mathias stops arguing and takes out a photo instead.
 - 'Look. That's my wife.' Another casual command, and a surprise: he's going to use his own wife as the example.
 - 'How old would you say she is?' Literally 'what age do you give her?'. The small word before the verb means 'to her'. And Mathias uses the casual 'you' with Cécile, because they've known each other for years.
-- 'Forty? Forty-two?' Cécile makes a polite guess. In French, you say how old someone is with the verb 'to have': you 'have' forty years.
+- 'Forty? Forty-two?' Cécile makes a polite guess.
 - 'She's fifty-one.' Here's that 'to have' again: literally 'she has fifty-one years'. Much older than Cécile guessed.
 - 'Botox every year, and her eyes two years ago.' The phrase at the end, 'there are two years', is how French says 'two years ago'. Mathias lists everything, perfectly calm.
 - 'Impressive. It's well done.' Cécile is honestly struck. Then she asks the question that matters to her.
-- 'Doesn't it bother you?' Cécile uses the informal 'tu' form with 'bother', showing familiarity.
+- 'Doesn't it bother you?' Look at the 'not' again: the two little words now wrap around both the 'you' and the verb. This 'you' is the casual one, like the rest of their chat.
 - 'No, quite the opposite.' He likes it. That answer settles something in Cécile's mind.
 - 'Does she have a good surgeon?' A question made just by raising your voice at the end. And with it, Cécile is really saying yes.
 - 'The best.' Two words, and the deal is done. Once Cécile has left, Mathias picks up the phone.
-- 'Miranda? Cécile has said yes.' The verb means 'to accept', in the past tense, built with 'to have' plus the past form.
+- 'Miranda? Cécile has said yes.' The action word means 'to accept', in the past, built with 'to have' and the past form of the action.
 - 'She can get back in the saddle. Talk soon!' It's a little joke, because Cécile loves riding horses, and it means she's back in the race for the role. Good. Now let's listen to the whole conversation one more time.

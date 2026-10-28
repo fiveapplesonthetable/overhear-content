@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I read Xavier's screenplay.' Noemie enters the discussion with authority. The verb meaning 'have' pairs naturally with the noun for 'screenplay' in everyday conversation.
-- 'It is much too violent and dark.' Igor reiterates his reservations. The descriptive adjective for 'violent' agrees in gender and number with its noun.
-- 'But this violence has a deep meaning.' Noemie counters with artistic conviction. The descriptive adjective for 'deep' agrees in gender and number with its noun.
-- 'Why show such cruelty on screen?' Igor questions the creative choice. In everyday spoken French, rising intonation on 'to show' at the end is enough to turn the sentence into a question.
-- 'It shows the harshness of that era.' Noemie provides historical context. Notice how 'shows' leads directly into the noun meaning 'harshness'.
-- 'The public risks rejecting this film.' Igor worries about audience reception. The verb meaning 'risks' pairs naturally with the noun for 'public' in everyday conversation.
-- 'This is not gratuitous violence.' Noemie defends the screenplay's narrative honesty. The key noun here means 'violence', anchored by its matching French article.
-- 'The characters take up arms without hesitating.' Igor points out the drastic actions of the protagonists. The verb meaning 'take' pairs naturally with the noun for 'characters' in everyday conversation.
-- 'They react to society's constraints.' Noemie explains their underlying oppression. Notice how 'react' leads directly into the noun meaning 'constraints'.
-- 'Yet they are treated as barbarians.' Igor echoes the judgment cast upon them. The verb meaning 'treats' pairs naturally with the noun for 'barbarians' in everyday conversation.
-- 'Who are the real barbarians today?' Noemie delivers the central philosophical question. In everyday spoken French, rising intonation on 'barbarians' at the end is enough to turn the sentence into a question.
-- 'You defend this project with great passion.' Igor notes her remarkable conviction. Igor uses the casual singular 'you' with 'defend', showing close familiarity.
-- 'I truly believe in this great film.' Noemie reaffirms her confidence. The verb meaning 'believe' pairs naturally with the noun for 'film' in everyday conversation.
-- 'I am very impressed by your analysis.' Igor pays tribute to her unexpected insight. The verb meaning 'impressed' pairs naturally with the noun for 'analysis' in everyday conversation.
+- 'I read Xavier's screenplay.' Noemie enters the discussion with authority.
+- 'It is much too violent and dark.' Igor reiterates his reservations.
+- 'But this violence has a deep meaning.' Noemie counters with artistic conviction.
+- 'Why show such cruelty on screen?' Igor questions the creative choice.
+- 'It shows the harshness of that era.' Noemie provides historical context.
+- 'The public risks rejecting this film.' Igor worries about audience reception.
+- 'This is not gratuitous violence.' Noemie defends the screenplay's narrative honesty.
+- 'The characters take up arms without hesitating.' Igor points out the drastic actions of the protagonists.
+- 'They react to society's constraints.' Noemie explains their underlying oppression.
+- 'Yet they are treated as barbarians.' Igor echoes the judgment cast upon them.
+- 'Who are the real barbarians today?' Noemie delivers the central philosophical question.
+- 'You defend this project with great passion.' Igor notes her remarkable conviction.
+- 'I truly believe in this great film.' Noemie reaffirms her confidence.
+- 'I am very impressed by your analysis.' Igor pays tribute to her unexpected insight.

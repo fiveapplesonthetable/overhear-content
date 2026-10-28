@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, she begins her line.' Gabriel urges everyone on set to listen. The verb meaning 'begins' pairs naturally with the noun for 'silence' in everyday conversation.
-- 'I return from the realm of the dead.' The director recites the theatrical script line. Notice how 'return' leads directly into the noun meaning 'realm'.
-- 'To bid you farewell at last.' Gabriel completes the tragic farewell sentence. Gabriel uses the polite 'you' form alongside 'say' to keep a respectful professional tone.
-- 'Oh my! Cut right away!' The director suddenly halts the recording. The clause hinges on the everyday verb meaning 'cut'.
-- 'What is the problem this time?' Gabriel asks what caused the interruption. In everyday spoken French, rising intonation on 'problem' at the end is enough to turn the sentence into a question.
-- 'I hear a very annoying noise.' The director points out an acoustic defect. The verb meaning 'hear' pairs naturally with the noun for 'noise' in everyday conversation.
-- 'It is only the night wind.' Gabriel downplays the extraneous sound. The descriptive adjective for 'night' agrees in gender and number with its noun.
-- 'The leaves falling on the floor!' The director identifies the rustling debris. Dropping the subject pronoun turns the verb for 'fall' into a direct, punchy command.
-- 'The noise gives a dramatic tone.' Gabriel highlights the poetic mood. The verb meaning 'gives' pairs naturally with the noun for 'noise' in everyday conversation.
-- 'This crunching ruins all the emotion.' The director remains unconvinced by the sound. Notice how 'ruins' leads directly into the noun meaning 'crunching'.
-- 'The sound engineer can clean that.' Gabriel suggests fixing the audio in postproduction. The verb meaning 'can' pairs naturally with the noun for 'engineer' in everyday conversation.
-- 'You always have a solution, Gabriel.' The director admires Gabriel's endless resourcefulness. Notice how 'have' leads directly into the noun meaning 'solution'.
-- 'Let's keep this wonderful take now.' Gabriel presses to save the take and move on. Notice how 'let's keep' leads directly into the noun meaning 'take'.
-- 'Agreed, it is good for me!' The director finally gives his approval. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.
+- 'Quiet, she begins her line.' Gabriel urges everyone on set to listen.
+- 'I return from the realm of the dead.' The director recites the theatrical script line.
+- 'To bid you farewell at last.' Gabriel completes the tragic farewell sentence.
+- 'Oh my! Cut right away!' The director suddenly halts the recording.
+- 'What is the problem this time?' Gabriel asks what caused the interruption.
+- 'I hear a very annoying noise.' The director points out an acoustic defect.
+- 'It is only the night wind.' Gabriel downplays the extraneous sound.
+- 'The leaves falling on the floor!' The director identifies the rustling debris.
+- 'The noise gives a dramatic tone.' Gabriel highlights the poetic mood.
+- 'This crunching ruins all the emotion.' The director remains unconvinced by the sound.
+- 'The sound engineer can clean that.' Gabriel suggests fixing the audio in postproduction.
+- 'You always have a solution, Gabriel.' The director admires Gabriel's endless resourcefulness.
+- 'Let's keep this wonderful take now.' Gabriel presses to save the take and move on.
+- 'Agreed, it is good for me!' The director finally gives his approval.

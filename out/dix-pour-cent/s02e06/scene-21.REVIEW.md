@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are very elegant tonight, Andréa.' Hicham compliments Andréa as they arrive at the event.
-- 'Thank you Hicham, you too by the way.' Andréa returns the compliment to her agency partner.
+- 'You are very elegant tonight, Andréa.' Hicham compliments Andrea as they arrive at the event.
+- 'Thank you Hicham, you too by the way.' Andrea returns the compliment to her agency partner.
 - 'It is my first Cannes Film Festival.' Hicham shares his excitement about attending the festival.
-- 'Look at all these gorgeous dresses!' Andréa admires the glamorous fashion on the red carpet.
+- 'Look at all these gorgeous dresses!' Andrea admires the glamorous fashion on the red carpet.
 - 'We are soon going to climb the steps.' Hicham looks forward to walking up the famous Palais steps.
-- 'Let us join Juliette in her dressing room.' Andréa suggests meeting their star client backstage.
+- 'Let us join Juliette in her dressing room.' Andrea suggests meeting their star client backstage.
 - 'I have crazy stage fright tonight!' Juliette reveals her intense nervousness before the event.
-- 'Everything is perfect for the ceremony.' Andréa reassures the actress that all preparations are set.
+- 'Everything is perfect for the ceremony.' Andrea reassures the actress that all preparations are set.
 - 'I urgently need to pee.' Juliette confesses an urgent bodily need right before the start.
-- 'There, right before going on stage?' Andréa is shocked by the terrible timing of the problem.
+- 'There, right before going on stage?' Andrea is shocked by the terrible timing of the problem.
 - 'Yes, I am really going to burst!' Juliette insists that she cannot wait any longer.
 - 'Do we still have time?' Hicham asks if a quick detour is possible.
-- 'No, not really a lot of time.' Andréa warns that the schedule is extremely tight.
-- 'All right, let us run to find a bathroom!' Andréa agrees to rush backstage to locate a restroom.
+- 'No, not really a lot of time.' Andrea warns that the schedule is extremely tight.
+- 'All right, let us run to find a bathroom!' Andrea agrees to rush backstage to locate a restroom.

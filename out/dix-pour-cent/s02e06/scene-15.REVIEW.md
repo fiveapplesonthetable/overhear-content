@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Andréa! Did you just arrive?' Hicham approaches her at the Cannes hotel bar. The recent past construction inquires about her arrival.
-- 'Yes, I just arrived at the bar.' Andréa responds casually while ordering a drink. The directional prepositional phrase locates their encounter.
-- 'Nothing beats these lovely strawberries.' Hicham attempts friendly small talk with complimentary fruit. The indefinite negative pronoun emphasizes supreme quality.
-- 'I will have a glass of champagne.' Andréa orders alcohol to signal independence and defiance. The simple future verb expresses a decisive request.
-- 'When were you going to tell me?' Hicham abruptly drops the pleasantries to confront her. The question form adverb challenges her secrecy.
-- 'I am talking about your baby.' He directly addresses her secret pregnancy. The prepositional verb introduces the sensitive topic.
-- 'No use lying, I know everything!' Hicham asserts complete knowledge of her condition. The predicate adjective dismisses any denial.
-- 'That is none of your business at all.' Andréa fiercely defends her personal privacy. The negative pronoun phrase rejects his inquiry.
-- 'It concerns me completely!' Hicham insists on his personal stake in the matter. The adverbial phrase emphasizes total relevance.
-- 'I am the father of that child.' He claims his biological paternity without hesitation. The definitive noun phrase asserts parental status.
-- 'What child? There is nobody!' Andréa denies the existence of a child at this early stage. The exclamatory question pushes back against his presumption.
-- 'There is just me and my body.' She firmly asserts bodily autonomy over her pregnancy. The restrictive adverb underscores exclusive self-ownership.
-- 'I am the one who decides, okay?' Andréa makes it clear that the choice belongs solely to her. The cleft sentence emphasizes personal sovereignty.
-- 'You do not decide all alone.' Hicham refuses to be excluded from parental decisions. The negative verb phrase challenges her unilateral stance.
-- 'That child is mine as well!' He claims an equal right to the unborn child. The possessive pronoun asserts shared ownership.
+- 'Hi, Andréa! Did you just arrive?' Hicham approaches her at the Cannes hotel bar.
+- 'Yes, I just arrived at the bar.' Andrea responds casually while ordering a drink.
+- 'Nothing beats these lovely strawberries.' Hicham attempts friendly small talk with complimentary fruit.
+- 'I will have a glass of champagne.' Andrea orders alcohol to signal independence and defiance.
+- 'When were you going to tell me?' Hicham abruptly drops the pleasantries to confront her.
+- 'I am talking about your baby.' He directly addresses her secret pregnancy.
+- 'No use lying, I know everything!' Hicham asserts complete knowledge of her condition.
+- 'That is none of your business at all.' Andrea fiercely defends her personal privacy.
+- 'It concerns me completely!' Hicham insists on his personal stake in the matter.
+- 'I am the father of that child.' He claims his biological paternity without hesitation.
+- 'What child? There is nobody!' Andrea denies the existence of a child at this early stage.
+- 'There is just me and my body.' She firmly asserts bodily autonomy over her pregnancy.
+- 'I am the one who decides, okay?' Andrea makes it clear that the choice belongs solely to her.
+- 'You do not decide all alone.' Hicham refuses to be excluded from parental decisions.
+- 'That child is mine as well!' He claims an equal right to the unborn child.

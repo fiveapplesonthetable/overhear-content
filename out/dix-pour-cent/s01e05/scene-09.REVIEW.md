@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello. Ah, there you are.' Literally 'you there-is' — French uses this pointer word with an object pronoun before it to say 'there you are'.
+- 'Hello. Ah, there you are.' Literally 'you there-is' — French uses this pointer word with an object word before it to say 'there you are'.
 - 'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.' The related pointer word introduces someone who is standing right beside you.
 - 'I know. What's going on? Is Jonathan Joubert causing a problem again?' Mathias already knows that his soap-opera star is difficult on set.
 - 'We're here to announce Jonathan's death.' Arlette delivers the news with a completely straight face.
-- 'In the series, I mean.' Literally 'In the series, I hear' — the verb for 'to hear' also means 'to mean' or 'to intend'.
+- 'In the series, I mean.' Literally 'In the series, I hear' — the action word for 'to hear' also means 'to mean' or 'to intend'.
 - 'Ryan is a darling of the public. You can't kill him!' Mathias panics at the thought of his lucrative client losing his starring role.
-- 'He's a bigger egoist than my first husband!' To form a comparative, French places 'more' before the adjective and 'than' after it.
-- 'I've been on the series for eight years.' French uses the present tense with 'since' for a job that started in the past and continues today.
+- 'He's a bigger egoist than my first husband!' To form a comparison, French places 'more' before the describing word and 'than' after it.
+- 'I've been on the series for eight years.' French uses the present with 'since' for a job that started in the past and continues today.
 - 'We work for a long time, and he changes all the lines.' The emphatic pronoun 'he' stresses the contrast between the writers' hard work and the actor's arrogance.
 - 'He wants to write, direct, choose his partners. It's hell!' Three infinitive verbs list everything Jonathan tries to control on the show.
 - 'I'm going to call him and fix that.' Mathias uses the near future ('I go to call') to promise a quick solution.
-- 'No, we've already spoken to him. He doesn't listen at all!' The short object word 'to him' sits before the helper verb 'has'.
+- 'No, we've already spoken to him. He doesn't listen at all!' The indirect object pronoun 'to him' sits before the helper verb 'has'.
 - 'Let me talk to him.' Mathias makes one last plea to save his client's job.
 - 'Jonathan is going to die! Ryan, of a terrible cancer.' In her anger, Marie-Sophie mixes up the actor's real name with his character's name.
 - 'He deserves it after eight years of tiring me out!' Marie-Sophie storms out of the office, determined to write Ryan's final episode.

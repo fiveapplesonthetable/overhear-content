@@ -30,17 +30,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, I want to shoot in Paris.' The first verb means 'I want', and right after it comes a verb in its dictionary form, just like in English. Mathias likes the idea.
+- 'Mathias, I want to shoot in Paris.' The first action word means 'I want', and right after it comes an action word in its dictionary form, just like in English. Mathias likes the idea.
 - 'Paris? That's a very good idea.' The word for 'idea' is feminine, so the little word before it is the feminine 'a'. Then Miranda sighs.
 - 'Yes, but you need permits.' Here is a really useful expression: those two little words at the start mean 'you need' or 'it takes'. They never change, whoever needs the thing.
 - 'Ah, French paperwork!' The French love to complain about their own forms and stamps. Mathias answers with a smooth smile.
 - 'It's simpler when you know the right people.' The word in the middle means 'one' or 'people in general'. It sounds like a hint, and it is one.
 - 'Really?' Miranda is curious now. One word, rising at the end.
 - 'If you need help, just ask.' Notice the polite form of 'you' all through this scene: Mathias and Miranda are business partners, so they stay formal. The last word is a polite command, 'ask'.
-- 'I know the Minister of Culture.' The verb means to know a person. And the minister is a woman, so she gets the feminine 'the'.
-- 'She's a brilliant young woman.' A short adjective like 'young' goes before the noun; a longer one like 'brilliant' goes after it. Then Mathias plays his card.
-- 'And she loves Cécile de France!' The verb is stronger than just 'like': it means 'loves'. Miranda sees the problem coming.
-- 'But Cécile isn't in the project any more.' Here is our second grammar point. The negative in French wraps around the verb, and when the second half is this word, it means 'no longer', 'not any more'.
+- 'I know the Minister of Culture.' The action word means to know a person. And the minister is a woman, so she gets the feminine 'the'.
+- 'She's a brilliant young woman.' A short describing word like 'young' goes before the word; a longer one like 'brilliant' goes after it. Then Mathias plays his card.
+- 'And she loves Cécile de France!' The action word is stronger than just 'like': it means 'adore'. Miranda sees the problem coming.
+- 'But Cécile isn't in the project any more.' Here is our second language point. The negative in French wraps around the action word, and when the second half is this word, it means 'no longer', 'not any more'.
 - 'I know. She's going to be very sad.' To talk about the near future, take the verb 'to go' and add an infinitive, exactly like 'going to be' in English.
 - 'They are very close. It is hard to hide the truth.' The word in the middle means 'maybe', and it's a calm way to make a threat. Miranda tries a way out.
 - 'She doesn't need to know.' The negative wraps around the verb again, this time with the ordinary 'not'. Mathias doesn't let go.

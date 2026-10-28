@@ -31,18 +31,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He invites you to parties?' The small word for 'you' shrinks before a vowel and sits right before the verb.
+- 'He invites you to parties?' The small word for 'you' shrinks before a vowel and sits right before the action word.
 - 'The Césars, Mum. An exception.' Camille plays it down: this is the big awards night, not a family outing.
 - 'So the whole office knows?' Literally 'all the office is in the current', a common idiom for knowing the news.
-- 'No, nobody knows. It's purely professional.' In French, 'nobody' pairs with the first part of the negative before the verb, without the second part after it.
-- 'Turn around.' A reflexive command: the word for 'yourself' is attached to the end of the verb with a hyphen.
+- 'No, nobody knows. It's purely professional.' In French, 'nobody' pairs with the first part of the negative before the action word, without the second part after it.
+- 'Turn around.' A self-directed command: the word for 'yourself' is attached to the end of the action word with a hyphen.
 - 'Is he picking you up?' Literally 'he comes to fetch you'. A very useful everyday phrase.
 - 'No, I'm taking the metro.' In French you 'take' the metro or the bus, just as in English.
 - 'Classy! Tighten your belt a bit.' Her mother is being ironic about going to a red-carpet party by underground train, and then gives another motherly command.
 - 'I can't breathe.' Literally 'I don't manage to breathe'.
 - 'No, leave it, it gives you a lovely figure.' Literally 'it makes to you a beautiful silhouette'.
 - 'Let me look at you.' Another command with 'me' joined by a hyphen, followed by 'look at you'.
-- 'Too flashy?' The French adjective is stronger, closer to 'vulgar' or 'trashy', and Camille is a bit worried.
+- 'Too flashy?' The French describing word is stronger, closer to 'vulgar' or 'trashy', and Camille is a bit worried.
 - 'Flashy? A Valentini woman is never flashy!' The negative here is 'never', placed after the verb 'is'.
 - 'Girls in Paris are more understated.' It's the same adjective Solveig used for Nathalie's acting: simple, sober, not too much.
 - 'They eat seeds and sulk, that's all!' Literally 'they make the head', a lively idiom for pulling a long, grumpy face.

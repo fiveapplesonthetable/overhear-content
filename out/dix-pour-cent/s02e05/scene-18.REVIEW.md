@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a wide selection of cheeses here.' Guy admires the canteen buffet. The key word here means 'has', paired with 'here' to make the point clear.
-- 'Hello Guy! How is your filming going?' Arlette greets her long-time client warmly. Notice how the verb for 'goes' leads straight into 'filming'.
-- 'I confuse the pepper and the salt today.' Guy admits his momentary confusion. The adverb meaning 'today' sharpens the verb for 'confuse' here.
-- 'That is not serious, that happens to everyone.' Arlette reassures him immediately. The key word here means 'not', paired with 'world' to make the point clear.
-- 'People are asking me questions about my memory.' Guy expresses his frustration with inquiries. Guy pairs the verb meaning 'ask' with the noun for 'memory'.
-- 'They are afraid that I forget my lines.' Guy senses the crew's anxiety. Guy opens with the word for 'have' and lands on 'lines' at the close.
-- 'You have fifty years of career behind you.' Arlette reminds him of his vast experience. The key word here means 'have', paired with 'career' to make the point clear.
-- 'Look, Jean Gabin loves the butter!' Guy feeds a treat to the dog. The key word here means 'look', paired with 'butter' to make the point clear.
-- 'Jean Gabin, behave yourself at the table!' Arlette scolds her pampered dog gently. Listen for the expression meaning 'behave', which leads naturally into 'table'.
-- 'Guy, are you still doing your famous butter trick?' Arlette playfully brings up his signature habit. The key word here means 'do', paired with 'butter' to make the point clear.
-- 'It is an old habit to charm the dairywoman.' Guy chuckles at the recurring joke. Listen for the expression meaning 'it is', which leads naturally into 'dairywoman'.
-- 'Do not get upset over a few memory blanks.' Arlette urges him to stay calm and poised. The key word here means 'not', paired with 'memory' to make the point clear.
-- 'I want to succeed in my scene this afternoon.' Guy focuses on his acting performance. Notice how the verb for 'want' leads straight into 'afternoon'.
-- 'You are a wonderful actor, have confidence.' Arlette bolsters his self-assurance. Notice how the verb for 'are' leads straight into 'confidence'.
-- 'Thanks for coming to see me on the set.' Guy appreciates her physical presence. Guy pairs the verb meaning 'having' with the noun for 'set'.
-- 'I will always be there to watch over you.' Arlette pledges her unwavering loyalty. Arlette opens with the word for 'will be' and lands on 'watch over' at the close.
+- 'There is a wide selection of cheeses here.' Guy admires the canteen buffet.
+- 'Hello Guy! How is your filming going?' Arlette greets her long-time client warmly.
+- 'I confuse the pepper and the salt today.' Guy admits his momentary confusion.
+- 'That is not serious, that happens to everyone.' Arlette reassures him immediately.
+- 'People are asking me questions about my memory.' Guy expresses his frustration with inquiries.
+- 'They are afraid that I forget my lines.' Guy senses the crew's anxiety.
+- 'You have fifty years of career behind you.' Arlette reminds him of his vast experience.
+- 'Look, Jean Gabin loves the butter!' Guy feeds a treat to the dog.
+- 'Jean Gabin, behave yourself at the table!' Arlette scolds her pampered dog gently.
+- 'Guy, are you still doing your famous butter trick?' Arlette playfully brings up his signature habit.
+- 'It is an old habit to charm the dairywoman.' Guy chuckles at the recurring joke.
+- 'Do not get upset over a few memory blanks.' Arlette urges him to stay calm and poised.
+- 'I want to succeed in my scene this afternoon.' Guy focuses on his acting performance.
+- 'You are a wonderful actor, have confidence.' Arlette bolsters his self-assurance.
+- 'Thanks for coming to see me on the set.' Guy appreciates her physical presence.
+- 'I will always be there to watch over you.' Arlette pledges her unwavering loyalty.

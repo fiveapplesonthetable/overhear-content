@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What a surprise! Françoise!' The question word for 'which' also works as an exclamation, like 'what a' in English. Françoise is calm and cool.
-- 'I've just been to a screening.' The verb 'to come' followed by another verb means 'have just done'. A very useful structure.
+- 'I've just been to a screening.' The action word 'to come' followed by another action word means 'have just done'. A very useful structure.
 - 'How are you?' The polite form, with the formal 'you'. Andréa is careful now; the last time they met, she lost her temper.
 - 'Very well, thank you.' The perfect polite answer.
-- 'I'm sorry. I got carried away.' Both words end in the feminine spelling because a woman is speaking, though you can't hear it. The second sentence is a reflexive verb in the past, built with 'to be'.
+- 'I'm sorry. I got carried away.' Both words end in the feminine spelling because a woman is speaking, though you can't hear it.
 - 'It's forgotten.' Gracious, and very short. Françoise accepts the apology.
 - 'Gabor respects your decision.' The word for 'your' is the formal one, matching the formal 'you'.
 - 'He's a brilliant young man. How is he?' In the question the verb and the pronoun swap places, with a little extra sound in between. That swap is today's grammar point: a more elegant way to ask a question.

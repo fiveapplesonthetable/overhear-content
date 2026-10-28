@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'How are you? Have you eaten?' Gabriel politely inquires after his colleagues' wellbeing."),
-    (1, None, "'Yes, a zero-sugar soda.' Noémie answers that she has only had a quick diet drink."),
+    (1, None, "'Yes, a zero-sugar soda.' Noemie answers that she has only had a quick diet drink."),
     (2, None, "'I just came to offer my help.' Gabriel explains his friendly presence in the reception area."),
     (3, None, "'ASK agency, hello? I no longer represent Ramzy!' Mathias barks into his desk telephone."),
     (4, None, "'I do not have her agent's phone number!'s number! People are so incompetent!' Mathias vents his frustration at annoying phone calls."),
     (5, None, "'What is this country coming to?' The rhetorical question expresses exasperation at poor professional standards."),
-    (6, None, "'Mathias, have you seen a doctor?' Noémie voices genuine concern for his physical wellbeing."),
+    (6, None, "'Mathias, have you seen a doctor?' Noemie voices genuine concern for his physical wellbeing."),
     (7, None, "'I do not have time to sleep or run.' Mathias dismisses traditional medical advice."),
-    (8, None, "'Fainting spells can be serious! You could have killed yourself!' Noémie warns him about the dangerous consequences of passing out."),
+    (8, None, "'Fainting spells can be serious! You could have killed yourself!' Noemie warns him about the dangerous consequences of passing out."),
     (9, None, "'Do you know about shamanism?' She introduces the topic of alternative spiritual healing."),
     (10, None, "'Not really. Why?' Mathias responds with polite detachment."),
-    (11, None, "'I know you are skeptical, but I know an extraordinary shaman.' Noémie tries to overcome his scientific doubts."),
-    (12, None, "'I could put you in touch with him...' The key word here means 'could', paired with 'contact' to make the point clear."),
+    (11, None, "'I know you are skeptical, but I know an extraordinary shaman.' Noemie tries to overcome his scientific doubts."),
+    (12, None, "'I could put you in touch with him...' The expression mettre en contact means to connect or introduce two people."),
 ]

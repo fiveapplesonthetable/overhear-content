@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can hear you from my office.' Gabriel complains about the noisy laughter drifting down the corridor. Listen for the expression meaning 'hear', which leads naturally into 'office'.
-- 'Hello, could you be more discreet?' Camille asks the men to keep their voices down near client offices. Listen for the expression meaning 'hello', which leads naturally into 'discreet'.
-- 'We are just relaxing for a moment.' Hicham defends their brief pause in the work day. Listen for the expression meaning 'relax', which leads naturally into 'moment'.
-- 'If it bothers you, I can leave.' The touchy executive threatens to walk away from the area. The key word here means 'bothers', paired with 'to leave' to make the point clear.
-- 'Do not take things like that.' Gabriel urges his partner not to react defensively. The adverb meaning 'not' sharpens the verb for 'take' here.
-- 'I am used to these remarks.' Hicham shrugs off the criticism with weary indifference. Listen for the expression meaning 'I have', which leads naturally into 'remarks'.
-- 'Goodbye, Camille. Have a good day.' He bids a polite farewell to the young assistant. The adjective meaning 'good' agrees in gender and number with the noun's noun 'goodbye'.
-- 'Goodbye Hicham, see you very soon.' Camille responds courteously as he departs down the hall. The expression a tres bientot means see you very soon.
-- 'What does he have against us?' Gabriel wonders why tension lingers between the agency partners. Listen for the expression meaning 'has', which leads naturally into 'has'.
-- 'I do not know at all.' Camille declines to take sides in the ongoing executive friction. The verb meaning 'know' anchors the whole remark.
-- 'Is he still very angry with me?' Gabriel fears that past disagreements have poisoned their working relationship. Listen for the expression meaning 'wants', which leads naturally into 'a lot'.
-- 'He still did you a favor.' The assistant points out that Hicham helped out despite their differences. Camille opens with the word for 'has' and lands on 'service' at the close.
-- 'He did it for you only.' Gabriel remains convinced that Hicham acts solely out of personal loyalty to Camille. Gabriel opens with the word for 'has' and lands on 'only' at the close.
-- 'Stop imagining the worst, Gabriel.' Camille encourages her colleague to stop overthinking every interaction. Camille opens with the word for 'stop' and lands on 'worst' at the close.
+- 'I can hear you from my office.' Gabriel complains about the noisy laughter drifting down the corridor.
+- 'Hello, could you be more discreet?' Camille asks the men to keep their voices down near client offices.
+- 'We are just relaxing for a moment.' Hicham defends their brief pause in the work day.
+- 'If it bothers you, I can leave.' The touchy executive threatens to walk away from the area.
+- 'Do not take things like that.' Gabriel urges his partner not to react defensively.
+- 'I am used to these remarks.' Hicham shrugs off the criticism with weary indifference.
+- 'Goodbye, Camille. Have a good day.' He bids a polite farewell to the young assistant.
+- 'Goodbye Hicham, see you very soon.' Camille responds courteously as he departs down the hall.
+- 'What does he have against us?' Gabriel wonders why tension lingers between the agency partners.
+- 'I do not know at all.' Camille declines to take sides in the ongoing executive friction.
+- 'Is he still very angry with me?' Gabriel fears that past disagreements have poisoned their working relationship.
+- 'He still did you a favor.' The assistant points out that Hicham helped out despite their differences.
+- 'He did it for you only.' Gabriel remains convinced that Hicham acts solely out of personal loyalty to Camille.
+- 'Stop imagining the worst, Gabriel.' Camille encourages her colleague to stop overthinking every interaction.

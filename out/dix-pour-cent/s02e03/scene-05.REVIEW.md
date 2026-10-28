@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for coming during Fashion Week.' Andréa welcomes model Aymeline Val to her office during busy Paris Fashion Week.
+- 'Thank you for coming during Fashion Week.' Andrea welcomes model Aymeline Val to her office during busy Paris Fashion Week.
 - 'I do not do fashion shows.' Aymeline immediately clarifies that she does not walk in runway shows.
-- 'I thought you were a model.' Andréa expresses her assumption using the imperfect tense.
+- 'I thought you were a model.' Andréa tells the striking newcomer that she thought he was a fashion model.
 - 'I am just paid to wear clothes.' Aymeline ironically reduces modeling to merely being paid to wear clothes.
-- 'But you pose in magazines.' Andréa points out her editorial appearances in top publications.
+- 'But you pose in magazines.' Andrea points out her editorial appearances in top publications.
 - 'I work with photographic artists.' Aymeline insists that she collaborates with serious artists.
-- 'First, we open the window to smoke.' Andréa opens the window so the smoke does not set off the fire alarm.
-- 'Next, let's talk about your future career.' Andréa moves to the main subject: launching her acting career.
+- 'First, we open the window to smoke.' Andrea opens the window so the smoke does not set off the fire alarm.
+- 'Next, let's talk about your future career.' Andrea moves to the main subject: launching her acting career.
 - 'I already have an agent for advertising.' Aymeline notes that she is already represented for commercials.
-- 'Here, it is about real artists.' Andréa insists that cinema acting involves working with genuine auteur artists.
-- 'You are a real actress, not a coat hanger.' Andréa pays her a sharp compliment to convince her she belongs on screen.
+- 'Here, it is about real artists.' Andrea insists that cinema acting involves working with genuine auteur artists.
+- 'You are a real actress, not a coat hanger.' Andrea pays her a sharp compliment to convince her she belongs on screen.
 - 'Do you have any news about Norman?' Aymeline inquires about the film project with Norman Thavaud.
-- 'Two months of waiting, it is a disaster.' Andréa laments the two-month delay facing the production.
+- 'Two months of waiting, it is a disaster.' Andrea laments the two-month delay facing the production.

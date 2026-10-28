@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You remain gorgeous after this long journey.' The informal 'you' form around 'remain' marks a direct, personal relationship. The informal 'you' form around 'remain' marks a direct, personal relationship.
-- 'I slept during the whole flight.' A simple explanation crediting good rest for defying jet lag. The verb meaning 'I have' pairs naturally with the noun for 'flight' in everyday conversation.
-- 'I refuse this role if it is bad.' A clear professional boundary insisting on script quality despite personal friendship. Notice how the short vowel drops before a vowel sound around 'refuse', making the phrase flow smoothly as one unit.
-- 'Tell me, did you read Oscar's script?' A direct probe seeking honest feedback from her trusted agent. Notice how 'tell me' leads directly into the noun meaning 'screenplay'.
-- 'Yes, I read it this morning.' A reckless falsehood pretending to have reviewed the manuscript. This conversational past tense combines a helper verb with the past verb form for 'read'.
-- 'It is really a wonderful story.' In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
-- 'I am so relieved by your opinion!' Charlotte uses the casual singular 'you' with 'opinion', showing close familiarity. Charlotte uses the casual singular 'you' with 'opinion', showing close familiarity.
-- 'Camille texts me that it is a disaster.' An internal panic reacting to the incoming devastating text message. Notice how the short vowel drops before a vowel sound around 'composed', making the phrase flow smoothly as one unit.
-- 'Charlotte, what a joy to meet you here!' An affectionate surprise arrival catching both women off guard. The verb meaning 'to meet' pairs naturally with the noun for 'joy' in everyday conversation.
-- 'Here is Oscar, my childhood friend.' An affectionate introduction highlighting their lifelong creative bond. The key noun here means 'friend', anchored by its matching French article.
-- 'My agent loves your new script.' The informal 'you' form around 'adore' marks a direct, personal relationship. The informal 'you' form around 'adore' marks a direct, personal relationship.
-- 'It is an immense honor for me.' The verb meaning 'it is' pairs naturally with the noun for 'honor' in everyday conversation.
-- 'We are going to make this beautiful film together!' The verb meaning 'let us go' pairs naturally with the noun for 'movie' in everyday conversation.
-- 'I find myself in a terrible trap.' A horrified realization acknowledging the disastrous consequences of a hasty bluff. The descriptive adjective for 'terrible' agrees in gender and number with its noun.
+- 'You remain gorgeous after this long journey.' A warm greeting complimenting the actress on her radiant appearance.
+- 'I slept during the whole flight.' A simple explanation crediting good rest for defying jet lag.
+- 'I refuse this role if it is bad.' A clear professional boundary insisting on script quality despite personal friendship.
+- 'Tell me, did you read Oscar's script?' A direct probe seeking honest feedback from her trusted agent.
+- 'Yes, I read it this morning.' A reckless falsehood pretending to have reviewed the manuscript.
+- 'It is really a wonderful story.' An exaggerated compliment intended to flatter and reassure the client.
+- 'I am so relieved by your opinion!' A joyful reaction confirming that the agent's praise removed all doubts.
+- 'Camille texts me that it is a disaster.' An internal panic reacting to the incoming devastating text message.
+- 'Charlotte, what a joy to meet you here!' An affectionate surprise arrival catching both women off guard.
+- 'Here is Oscar, my childhood friend.' An affectionate introduction highlighting their lifelong creative bond.
+- 'My agent loves your new script.' An enthusiastic secondhand compliment locking the actress into the movie.
+- 'It is an immense honor for me.' A proud and touched response welcoming the agent's apparent approval.
+- 'We are going to make this beautiful film together!' A decisive declaration launching the collaborative film project.
+- 'I find myself in a terrible trap.' A horrified realization acknowledging the disastrous consequences of a hasty bluff.

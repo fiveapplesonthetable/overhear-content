@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Colette! What are you doing here?' Andrea is stunned to see Colette outside ASK. The clause hinges on the everyday verb meaning 'are doing'.
-- 'We were taking a walk in the neighborhood.' Colette explains why she is nearby. The short 'self' word sits right in front of the verb for 'were walking', turning the action back onto the subject.
-- 'You brought Flora with you?' Andrea looks down happily at the stroller. Andrea uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Yes, she wanted to see her mother.' The verb meaning 'wanted' pairs naturally with the noun for 'mother' in everyday conversation.
-- 'It is a very wonderful surprise!' Andrea feels a wave of relief and joy. The key noun here means 'surprise', anchored by its matching French article.
-- 'I know that you work a lot.' Colette acknowledges Andrea's busy schedule. The informal 'you' form around 'know' marks a direct, personal relationship.
-- 'Yes, but I miss you both so much.' Andrea expresses her heartfelt longing. The clause hinges on the everyday verb meaning 'are missed'.
-- 'Take her in your arms now.' Colette gently unbuckles Flora from the stroller. The verb meaning 'take' pairs naturally with the noun for 'arms' in everyday conversation.
-- 'Come with mommy, my little treasure.' Andrea lifts baby Flora into her arms. The verb meaning 'come' pairs naturally with the noun for 'mommy' in everyday conversation.
-- 'She smiles at you with happiness.' Notice how 'smiles' leads directly into the noun meaning 'happiness'. Notice how 'smiles' leads directly into the noun meaning 'happiness'.
-- 'You are so sweet, my Flora.' Andrea holds her daughter close against her chest. The adverb meaning 'so' gives the reply its conversational emphasis.
-- 'Let us take a walk in the park.' Colette suggests stepping away from the office. The verb meaning 'let us go' pairs naturally with the noun for 'walk' in everyday conversation.
-- 'Yes, with great pleasure, Colette.' Andrea agrees gladly to spend time together. The key noun here means 'pleasure', anchored by its matching French article.
-- 'Let us take the time to pause.' Colette leads the way toward the park bench. The verb meaning 'let us take' pairs naturally with the noun for 'time' in everyday conversation.
+- 'Colette! What are you doing here?' Andrea is stunned to see Colette outside ASK.
+- 'We were taking a walk in the neighborhood.' Colette explains why she is nearby.
+- 'You brought Flora with you?' Andrea looks down happily at the stroller.
+- 'Yes, she wanted to see her mother.' Colette smiles warmly at the baby.
+- 'It is a very wonderful surprise!' Andrea feels a wave of relief and joy.
+- 'I know that you work a lot.' Colette acknowledges Andrea's busy schedule.
+- 'Yes, but I miss you both so much.' Andrea expresses her heartfelt longing.
+- 'Take her in your arms now.' Colette gently unbuckles Flora from the stroller.
+- 'Come with mommy, my little treasure.' Andrea lifts baby Flora into her arms.
+- 'She smiles at you with happiness.' Colette observes the tender reunion.
+- 'You are so sweet, my Flora.' Andrea holds her daughter close against her chest.
+- 'Let us take a walk in the park.' Colette suggests stepping away from the office.
+- 'Yes, with great pleasure, Colette.' Andrea agrees gladly to spend time together.
+- 'Let us take the time to pause.' Colette leads the way toward the park bench.

@@ -32,12 +32,12 @@ STORY = [
     ('gabriel', 'Mais comment il a fait?', 'But how did he do it?', [(150, 'Comment'), (150, 'a fait ?')], ''),
 ]
 WALK = [
-    (0, None, "'I may have a solution for the tax audit.' The hyphenated word after the verb means 'maybe', literally 'can be'."),
+    (0, None, "'I may have a solution for the tax audit.' The hyphenated word after the action word means 'maybe', literally 'can be'."),
     (1, 'Un ex à moi.', "'An ex of mine.' Literally 'an ex to me'. It's a very natural spoken way to say 'one of mine'."),
-    (1, 'Il est haut placé aux impôts.', "'He's high up at the tax office.' Literally 'high placed at the taxes'. Gabriel is surprised by the pronoun."),
-    (2, None, "'A man?' Right then, Andréa usually dates women, so Gabriel blinks. In the episode she jokes that dating a man won't have been completely useless after all."),
+    (1, 'Il est haut placé aux impôts.', "'He's high up at the tax office.' Literally 'high placed at the taxes'. Gabriel is surprised by the short word."),
+    (2, None, "'A man?' Here, Andréa usually dates women, so Gabriel blinks. In the episode she jokes that dating a man won't have been completely useless after all."),
     (3, None, "'It's been a long time, but I can talk to him.' The opening phrase literally says 'it makes a long time', the standard way to say how long it has been."),
-    (4, 'Appelle-le.', "'Call him.' A direct command, with the object word 'him' attached after the verb by a hyphen."),
+    (4, 'Appelle-le.', "'Call him.' A direct command, with the object word 'him' attached after the action word by a hyphen."),
     (4, "On n'a pas vraiment le choix.", "'We don't really have a choice.' Literally 'the choice'. Then Andréa agrees."),
     (5, None, "'Okay.' Short and practical, she'll make the call. Then she offers Gabriel a bite of her snack."),
     (6, None, "'Do you want some?' That little two-letter word before the verb means 'some of it'. Gabriel is too upset to eat."),

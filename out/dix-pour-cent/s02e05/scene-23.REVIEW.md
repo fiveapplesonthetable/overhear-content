@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi Mom, things are not going well.' Camille reaches out to her mother in tears late at night. The key word here means 'hello', paired with 'not' to make the point clear.
-- 'What is going on, my sweetie?' Annick responds with maternal warmth and concern. The key word here means 'is going on', paired with 'dear' to make the point clear.
-- 'At the agency, it is a real hell!' The young woman pours out her distress over the hostile atmosphere. Notice how the verb for 'it is' leads straight into 'hell'.
-- 'They are all jealous of me.' She explains how her promotion created resentment among colleagues. Listen for the expression meaning 'are', which leads naturally into 'jealous'.
-- 'Hervé will not even talk to me anymore.' Her former friend and fellow assistant has turned against her. The adverb meaning 'not' sharpens the verb for 'speaks' here.
-- 'He calls me Judas all day long.' At this point, Hervé considers her promotion a betrayal of their assistant solidarity. Camille opens with the word for 'calls' and lands on 'day' at the close.
-- 'Andréa is always yelling at me.' Her boss takes out stress on her through verbal outbursts. The key word here means 'yells', paired with 'upon' to make the point clear.
-- 'I cannot take it anymore, Mom!' Camille reaches her breaking point under the toxic pressure. Camille pairs the verb meaning 'can' with the noun for 'mom'.
-- 'Do not cry, my little girl.' Annick tries to comfort her weeping daughter over the phone. The adverb meaning 'not' sharpens the verb for 'cry' here.
-- 'Come home with me.' Her mother urges her to abandon Paris and return to the south of France. Annick uses the command form form for 'come home' together with the word for 'home'.
-- 'Work must not be painful.' Annick affirms that no job is worth sacrificing mental health. The adjective meaning 'painful' agrees in gender and number with masculine noun 'work'.
-- 'I will pay for your ticket.' The mother generously offers to cover her train fare home. The key word here means 'am going', paired with 'ticket' to make the point clear.
-- 'We will go together to the beach.' She paints an idyllic picture of rest and recovery by the Mediterranean. The adverb meaning 'together' sharpens the verb for 'will go' here.
-- 'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love. The adverbial pronoun y refers back to the suggestion of returning home.
+- 'Hi Mom, things are not going well.' Camille reaches out to her mother in tears late at night.
+- 'What is going on, my sweetie?' Annick responds with maternal warmth and concern.
+- 'At the agency, it is a real hell!' The young woman pours out her distress over the hostile atmosphere.
+- 'They are all jealous of me.' She explains how her promotion created resentment among colleagues.
+- 'Hervé will not even talk to me anymore.' Her former friend and fellow assistant has turned against her.
+- 'He calls me Judas all day long.' Here, Herve considers her promotion a betrayal of their assistant solidarity.
+- 'Andréa is always yelling at me.' Her boss takes out stress on her through verbal outbursts.
+- 'I cannot take it anymore, Mom!' Camille reaches her breaking point under the toxic pressure.
+- 'Do not cry, my little girl.' Annick tries to comfort her weeping daughter over the phone.
+- 'Come home with me.' Her mother urges her to abandon Paris and return to the south of France.
+- 'Work must not be painful.' Annick affirms that no job is worth sacrificing mental health.
+- 'I will pay for your ticket.' The mother generously offers to cover her train fare home.
+- 'We will go together to the beach.' She paints an idyllic picture of rest and recovery by the Mediterranean.
+- 'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love.

@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What?' Short and blunt, the everyday way to react to a surprise.
-- 'Don't you like the script?' The negative goes around the verb for 'like'; before a vowel the first little word shrinks. Now listen carefully to the first word of Laura's answer.
-- 'Yes, I love it.' That's the special yes again, the one you use to contradict a negative question. Gabriel asked 'don't you like it?', so a plain yes would sound wrong. And the little word for 'it' sits before the verb.
+- 'Don't you like the script?' The negative goes around the action word for 'like'; before a vowel the first little word shrinks. Now listen carefully to the first word of Laura's answer.
+- 'Yes, I love it.' That's the special yes again, the one you use to contradict a negative question.
 - 'But three months of shooting, on a boat, out at sea!' Literally 'in full sea'. You can hear she isn't thrilled.
-- 'I can't stand that.' This everyday French sentence pairs 'I' with 'that'.
+- 'I can't stand that.' The action word 'can' plus another action word in its basic form, with the negative wrapped around 'can'.
 - 'I know an excellent acupuncturist for seasickness.' Literally 'against the sickness of the sea'. Gabriel, ever helpful, has completely misunderstood.
 - 'No. I'm talking about my mother.' In French you 'talk of' something. And the word for 'my' is feminine here, to go with 'mother'.
 - 'Three months! Do you know an acupuncturist for that?' She throws his own words back at him.
-- 'But you were happy!' The verb 'to be' in the form for describing how things were. And 'happy' has a feminine ending for Laura.
-- 'But I cannot stay with her on a boat!' Same verb as 'like', and once more the little object word goes before the verb. Here it means 'her'.
+- 'But you were happy!' The action word 'to be' in the form for describing how things were. And 'happy' has a feminine ending for Laura.
+- 'But I cannot stay with her on a boat!' Same action word as 'like', and once more the little object word goes before the action word. Here it means 'her'.
 - 'But I can't be with her on a boat, day and night!' The word for 'her' after 'with' is the same as the word for 'she'.
 - 'Wait.' A casual command; you'll hear it all the time.
 - 'Talk to Akerfelt first.' The phrase in the middle means 'first of all'. Gabriel thinks the director will win her over.

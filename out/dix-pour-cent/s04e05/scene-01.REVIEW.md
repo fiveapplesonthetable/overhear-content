@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No baby seat, no taxi!' The taxi driver firmly explains that safety regulations forbid transporting babies without proper seats. The key noun here means 'seat', anchored by its matching French article.
-- 'But I am truly in a great hurry!' Andrea begs the driver to overlook the restriction for an emergency. The adjective meaning 'hurried' takes its feminine form here to match the noun it describes.
-- 'It is not me who makes the rules.' The driver shrugs off her pleas, pointing out municipal transport rules. Notice how 'do' leads directly into the noun meaning 'rules'.
-- 'I am going to order another car.' Andrea checks ride-hailing applications on her smartphone. The verb meaning 'am going' pairs naturally with the noun for 'car' in everyday conversation.
-- 'They will tell you exactly the same thing.' The cabbie cautions that all commercial chauffeurs face heavy fines. The formal 'you' pronoun sets a courteous, professional distance around 'will tell'.
-- 'My nanny just bailed on me!' Andrea laments that her sudden household emergency has thrown her schedule into chaos. The short 'self' word sits right in front of the verb for 'comes', turning the action back onto the subject.
-- 'And little Flora is very sad.' Andrea rocks the stroller gently as baby Flora whimpers on the sidewalk. The adverb meaning 'very' gives the reply its conversational emphasis.
-- 'I must go pick up Sigourney Weaver!' Andrea reveals that an international screen legend is landing at Charles de Gaulle. French forms the near future by pairing the present tense of 'to go' directly with 'to look for'.
-- 'Take the metro with your stroller.' The driver gestures toward the nearby subterranean metro entrance. The formal 'you' pronoun sets a courteous, professional distance around 'take'.
-- 'Flora, you have never taken the metro.' Andrea worries about navigating endless underground stairs with a pram. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'You will hate this long trip.' Andrea sighs at the prospect of subjecting an infant to the noisy morning rush. Notice how 'are going' leads directly into the noun meaning 'trip'.
-- 'The journey takes more than an hour!' Andrea calculates that subway connections to the airport will take far too long. Dropping the subject pronoun turns the verb for 'lasts' into a direct, punchy command.
-- 'What do I do now?' Andrea experiences a moment of acute professional and parental despair. In spoken French, the little word before 'do' drops its final vowel and attaches with an apostrophe.
-- 'I must call Camille for help.' Andrea resolves to contact her junior agent Camille to greet the star on time. The verb meaning 'must' pairs naturally with the noun for 'help' in everyday conversation.
+- 'No baby seat, no taxi!' The taxi driver firmly explains that safety regulations forbid transporting babies without proper seats.
+- 'But I am truly in a great hurry!' Andrea begs the driver to overlook the restriction for an emergency.
+- 'It is not me who makes the rules.' The driver shrugs off her pleas, pointing out municipal transport rules.
+- 'I am going to order another car.' Andrea checks ride-hailing applications on her smartphone.
+- 'They will tell you exactly the same thing.' The cabbie cautions that all commercial chauffeurs face heavy fines.
+- 'My nanny just bailed on me!' Andrea laments that her sudden household emergency has thrown her schedule into chaos.
+- 'And little Flora is very sad.' Andrea rocks the stroller gently as baby Flora whimpers on the sidewalk.
+- 'I must go pick up Sigourney Weaver!' Andrea reveals that an international screen legend is landing at Charles de Gaulle.
+- 'Take the metro with your stroller.' The driver gestures toward the nearby subterranean metro entrance.
+- 'Flora, you have never taken the metro.' Andrea worries about navigating endless underground stairs with a pram.
+- 'You will hate this long trip.' Andrea sighs at the prospect of subjecting an infant to the noisy morning rush.
+- 'The journey takes more than an hour!' Andrea calculates that subway connections to the airport will take far too long.
+- 'What do I do now?' Andrea experiences a moment of acute professional and parental despair.
+- 'I must call Camille for help.' Andrea resolves to contact her junior agent Camille to greet the star on time.

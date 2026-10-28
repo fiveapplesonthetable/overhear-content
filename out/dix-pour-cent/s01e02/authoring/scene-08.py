@@ -40,7 +40,7 @@ WALK = [
     (2, None, "'No, it's working fine.' The verb here is 'to walk', which in French also means 'to work', for machines and for plans. Then he looks at her copies like an art critic."),
     (3, None, "'The contrast is really good.' It's a joke, of course: he's flirting. And he already knows who she is."),
     (4, None, "'You're Camille, right?' The tag at the end, literally 'it's that?', turns any sentence into a check. He uses the casual 'you' straight away, which is very him."),
-    (5, None, "'Yes. Do you work here?' She answers in the casual form too. A question can be just a sentence with a rising voice."),
+    (5, None, "'Yes. Do you work here?' She answers in the casual form too."),
     (6, None, "'I've never seen you.' The negative is wrapped around the helper verb: not, have, never, then 'seen'. The little word for 'you' loses its vowel before the verb."),
     (7, None, "'I'm an actor. Hippolyte Rivière.' Notice: no word for 'an'. For a job, French just says 'I am actor'."),
     (8, None, "'Haven't you seen me in Andréa's files?' A negative question. And now listen to how Camille answers it."),
@@ -51,7 +51,7 @@ WALK = [
     (12, None, "'Start by relaxing.' A casual command: start, then 'by relaxing yourself'."),
     (13, None, "'Will you come for a coffee on the terrace?' The French love a coffee outside at a little café table. And Camille gives the answer Andréa taught her."),
     (14, 'Je suis occupée.', "'I'm busy.' Here the word for 'busy' has a feminine ending, because Camille is a woman."),
-    (14, 'Il faut un rendez-vous.', "'You need an appointment.' This phrase means 'it is necessary', 'one needs'. Put a thing after it, or a verb, and you have a rule. He takes it well."),
+    (14, 'Il faut un rendez-vous.', "'You need an appointment.' This phrase means 'it is necessary', 'one needs'."),
     (15, None, "'Well... thanks anyway.' The last two words mean 'all the same', a polite way to accept a no."),
     (16, None, "'Have a nice day.' Camille's last word, polite and a little cool. But something tells us we'll see him again. Right, let's hear them once more, start to finish."),
 ]

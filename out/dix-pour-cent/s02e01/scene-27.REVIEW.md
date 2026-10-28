@@ -32,18 +32,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Introducing Virginie Efira!' Michel Drucker introduces his special guest to the television audience.
 - 'Michel, hello. Hello, my love.' Virginie greets both the host and her partner.
-- 'It's great that you're here.' Ramzy opens with the word for 'it is' and lands on 'there' at the close.
-- 'Surprises are important.' Virginie pairs the verb meaning 'it is' with the noun for 'surprise'.
-- 'There are worse things than boredom in a relationship.' The comparative 'worse' means 'worse than'.
-- 'Some surprises are unwelcome.' The adjective meaning 'unwelcome' agrees in gender and number with feminine noun 'surprise'.
-- 'Like right now.' The adverbial phrase 'like' points to the present moment.
-- 'Let's watch a clip of the film.' Listen for the expression meaning 'let's look at', which leads naturally into 'movie'.
+- 'It's great that you're here.' Caught off guard on live television, Ramzy pretends he is thrilled to see her.
+- 'Surprises are important.' Virginie replies pointedly that surprises keep a relationship alive.
+- 'There are worse things than boredom in a relationship.' Ramzy nervously agrees that boredom is not the worst thing in a relationship.
+- 'Some surprises are unwelcome.' Virginie stares right at him and says some surprises are very unwelcome.
+- 'Like right now.' Ramzy mutters that her ambush right now is one of those unwelcome surprises.
+- 'Let's watch a clip of the film.' Sensing a brawl, the host quickly tries to roll a clip from their movie.
 - 'What are you doing here? It's so awkward.' Ramzy whispers furiously while the clip rolls.
-- 'You are so horrible.' The verb meaning 'you are' anchors the whole remark.
+- 'You are so horrible.' Virginie drops the polite act and tells Ramzy how horrible he is.
 - 'I am horrible?' Ramzy questions Virginie's blunt accusation.
-- 'Totally!' The key word here means 'completely', paired with 'completely' to make the point clear.
+- 'Totally!' She confirms wholeheartedly that she means every word.
 - 'We are live on air...' Michel urgently warns the arguing couple as the cameras return.
-- 'You can keep the money.' The modal verb 'can' is followed by the infinitive 'keep'.
-- 'Because I love you.' The connecting word 'because' introduces the real reason for her passion.
-- 'What a volcanic couple!' The exclamative adjective 'what a' agrees with the masculine noun 'couple'.
-- 'Yes, it's worth it.' Virginie pairs the verb meaning 'is worth' with the noun for 'trouble'.
+- 'You can keep the money.' Cornered on the air, Ramzy tells her she can keep the extra money.
+- 'Because I love you.' Virginie confesses the real reason she is so furious with him.
+- 'What a volcanic couple!' The host marvels at their fiery reconciliation in front of the cameras.
+- 'Yes, it's worth it.' Virginie laughs through her tears that their chaotic love is worth the trouble.

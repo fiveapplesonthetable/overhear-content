@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am in the middle of a fitting for Cannes.' An idiomatic prepositional phrase indicating an ongoing dress fitting.
-- 'Sorry Juliette, my taxi was stuck.' The adjective meaning 'sorry' agrees in gender and number with masculine noun 'cab vehicle'.
-- 'Hello Andréa, we were talking about the ceremony.' Listen for the expression meaning 'were talking', which leads naturally into 'ceremony'.
-- 'Juliette will be a perfect mistress of ceremonies.' A future tense compliment affirming festive responsibilities.
-- 'This dress is really very complicated!' An intensified pointing word phrase critiquing garment comfort.
-- 'You just have to get used to it.' An impersonal modal verb advising adaptation to high fashion.
-- 'I think that it is too tight.' A cognitive opinion verb introducing a physical discomfort complaint.
-- 'Yet, you are simply divine!' An adversative adverb reinforcing sincere visual admiration.
+- 'Sorry Juliette, my taxi was stuck.' A polite apology followed by a common urban traffic excuse.
+- 'Hello Andréa, we were talking about the ceremony.' Eva greets Andréa and explains they were just discussing the Cannes ceremony.
+- 'Juliette will be a perfect mistress of ceremonies.' Andréa reassures Juliette Binoche that she will be a flawless mistress of ceremonies.
+- 'This dress is really very complicated!' An intensified demonstrative phrase critiquing garment comfort.
+- 'You just have to get used to it.' The designer tells Juliette she simply needs a moment to get used to the gown.
+- 'I think that it is too tight.' Juliette winces and says she thinks the dress is far too tight.
+- 'Yet, you are simply divine!' Andréa insists admiringly that Juliette looks simply divine in it.
 - 'It is much too sophisticated for me.' An intensified adjective expressing personal aesthetic preference.
 - 'This dress requires a thousand hours of work.' A cardinal numeral emphasizing artisanal couture labor.
 - 'I prefer to wear the Armani tuxedo.' A decisive preference verb proposing an alternative outfit.

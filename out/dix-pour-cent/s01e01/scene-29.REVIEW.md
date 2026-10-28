@@ -31,14 +31,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'No! Let go of the contract!' She's talking to a dog, so she uses the casual 'you' command. You'd never use the polite form with an animal. Then a voice behind her.
 - 'What are you doing?' The opening chunk is a fixed way to start a 'what' question; just learn it as one block. Arlette uses the casual 'you' with Camille, a young stranger. Older people sometimes do that.
-- 'Look, here's your owner.' Camille combines 'look' with 'owner' in a natural French turn of phrase.
-- 'I was walking by.' Literally 'I was passing through there'. The ending of the verb tells you it was going on in the background, an ongoing past action.
+- 'Look, here's your owner.' Camille says this to the dog, not to Arlette, so again it's the casual 'you'. The word she uses for 'owner' is the feminine one, literally the dog's 'mistress'.
+- 'I was walking by.' Literally 'I was passing through there'. The ending of the action word tells you it was going on in the background, an ongoing past action.
 - 'He was playing with a contract.' Same background past tense, same ending sound. Arlette is not convinced.
 - 'I doubt it. Jean Gabin hates contracts.' The dog is named after a famous French film star of the old days, which tells you a lot about Arlette.
 - 'He has never played with a contract.' Here the negative pattern changes: instead of plain 'not', the second little word means 'never'. Then Arlette gets suspicious.
 - 'Did Andréa send you?' Literally 'is it Andréa who sends you?'. Arlette thinks Camille might be spying for another agent.
 - 'No, not at all.' A quick, firm denial. And now Camille realises who she's talking to.
-- 'Are you Arlette Azémar?' Camille uses the polite or plural 'you' here with 'Azémar'. Then Arlette responds.
+- 'Are you Arlette Azémar?' Here's the contrast to listen for. Camille uses the polite 'you' with Arlette, an older woman and a famous agent. So in this scene, one says casual 'you', and the other answers with the polite one.
 - 'Yes. And you?' And this time it's the casual 'you' again, the stressed form you use on its own.
 - 'I'm Camille.' Literally 'me, it's Camille'. It's the easiest, most natural way to introduce yourself.
 - 'I'm leaving today.' She says it simply, without explaining that she's just been fired. Then she pays Arlette a compliment.
@@ -46,4 +46,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No need to flatter me!' Literally 'no need to'. It's short and dry, but secretly she enjoys it. Camille noticed one word.
 - 'You said impresario.' The polite 'you' again, and the verb in the past with 'have' plus 'said'. Arlette explains her choice.
 - 'It's classier than agent.' The word for 'more' plus an adjective gives you a comparison, and the little word after it means 'than'. Then she calls her dog.
-- 'Come on, Jean Gabin!' The first word literally means 'go', but here it's just 'come on'. Then a casual command to the dog: 'come'. And now the whole scene again, without stopping. Let's listen to the whole scene once more without interruption.
+- 'Come on, Jean Gabin!' The first word literally means 'go', but here it's just 'come on'. Then a casual command to the dog: 'come'.

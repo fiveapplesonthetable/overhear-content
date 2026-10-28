@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Say it if I'm boring you.' In an affirmative command, the object pronoun 'it' attaches after the verb with a hyphen.
+- 'Say it if I'm boring you.' In an affirmative command, the object word 'it' attaches after the action word with a hyphen.
 - 'No, excuse me! Look, I'm listening. Go ahead, I'm all yours.' Gabriel puts his phone down on the table to prove he is paying attention.
-- 'I don't feel like it anymore now.' The expression 'to have desire of it' means 'to feel like it', and 'no more' wraps around the verb.
+- 'I don't feel like it anymore now.' The expression 'to have desire of it' means 'to feel like it', and 'no more' wraps around the action word.
 - 'Come on, I'm listening! And then?' Gabriel urges his client to continue his story.
 - 'I look like an idiot! Do you know what she is doing?' The phrase 'to finish by passing for' means 'to end up looking like'.
 - 'No.' Gabriel waits to hear Julie's latest offense on set.
-- 'She didn't have her script with her.' The imperfect tense of 'to have' describes the background situation during rehearsal.
+- 'She didn't have her script with her.' The ongoing past of 'to have' describes the background situation during rehearsal.
 - 'So me, being nice, I give her mine.' The possessive pronoun 'the mine' stands in for 'my script' without repeating the noun.
 - 'She takes it like a dirty rag! It's annoying.' In French, the adjective 'dirty' comes after the noun 'rag'.
 - 'No, it's fine.' Gabriel's phone buzzes again on the table, and he tries to ignore it.
 - 'Answer it!' JoeyStarr tells Gabriel to just read his message.
 - 'Okay. I met this girl.' Instead of answering the message, Gabriel confesses why he has been so distracted: he cannot stop thinking about Anna, the blonde woman he met at the cinema.
-- 'She's not my type. She's blonde, she's normal!' Literally 'It is not my type' — the word for 'type' or 'sort' also means someone's romantic type.
-- 'But I'm drawn to her like a magnet.' The passive verb form 'attracted' is followed by the linking word 'by'.
+- 'She's not my type. She's blonde, she's normal!' Literally 'It is not my type' — the word for 'genre' or 'sort' also means someone's romantic type.
+- 'But I'm drawn to her like a magnet.' The passive participle 'attracted' is followed by the preposition 'by'.
 - 'You see? It's very powerful.' Gabriel describes the sudden attraction he feels for a woman who is the complete opposite of his usual girlfriends.
 - 'My subconscious and Julie Gayet's clash everywhere.' Hearing Gabriel talk about attraction between opposites makes JoeyStarr think about his own explosive tension with Julie Gayet.

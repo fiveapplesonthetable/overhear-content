@@ -38,14 +38,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sorry, Sofia! How did your shoot go yesterday?' Back at ASK that evening, Gabriel stops by the reception desk to check on Sofia.
 - 'Very well.' Trying to save face, Sofia pretends at first that everything went smoothly on the chateau set.
 - 'There is a problem, the film is too long.' Rather than admit that her scene was cut before she even filmed it, she invents a gentle excuse.
-- 'They might cut my scene.' The near future 'they are going to' combines with 'maybe' and the infinitive 'to cut'.
+- 'They might cut my scene.' The near future 'they are going to' combines with 'maybe' and the basic form 'to cut'.
 - 'But it's no big deal. The director saw you act.' Gabriel has no idea that she never actually filmed the scene, and comforts her warmly.
-- 'And he'll think of you next time. Don't lose heart.' Notice how 'to think of someone' uses the linking word 'at' followed by the stressed pronoun 'you'.
+- 'And he'll think of you next time. Don't lose heart.' Notice how 'to think of someone' uses the preposition 'at' followed by the stressed pronoun 'you'.
 - 'Are you leaving?' Literally 'Do you leave?' — present tense for an action happening right now.
 - 'Yeah, I'm heading out.' The little pronoun for 'there' combines with 'I go' to make the everyday phrase for 'I'm off' or 'I'm heading out'.
 - 'Me too. Are you hungry?' Remember that French expresses hunger as 'to have hunger'.
 - 'I'm always hungry, Sofia.' Just as he told Andréa earlier in the car, Gabriel never turns down a meal.
 - 'Shall we go eat?' A simple rising tone turns 'we go eat' into a friendly invitation.
 - 'With pleasure.' Polite, warm, and natural.
-- 'And, Gabriel, do you mind if we use tu with each other?' All this time, Gabriel has called Sofia 'tu' while she still addressed him formally as 'you'. Now she asks if they can be on equal footing.
+- 'And, Gabriel, do you mind if we use tu with each other?' All this time, Gabriel has called Sofia 'tu' while she still addressed him formally as 'vous'. Now she asks if they can be on equal footing.
 - 'No.' One quiet word and a smile as they walk out of the agency together. Now let's hear the whole scene again from start to finish.

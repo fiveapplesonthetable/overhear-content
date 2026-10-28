@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I'm very pleased too.' Literally 'me too, I am very pleased', using the masculine form of the adjective.
+- 'I'm very pleased too.' Literally 'me too, I am very pleased', in the masculine form.
 - 'We're going to shoot the Canadian part first.' The verb for filming a movie is the same as the verb 'to turn'.
 - 'What Canadian part?' The question word at the start is in its feminine form to match 'part'.
 - 'A month of filming in Canada. Didn't Mathias tell you?' Before a masculine country name like Canada, French uses the combined word for 'to the'.
@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'll explain to you now. It's in the north, near the lakes.' French uses the present tense here where English says 'I will explain'.
 - 'The landscape is magnificent!' Augustin is carried away by his artistic vision.
 - 'Sorry, but there are incredible places around Paris.' Audrey cannot bear the thought of leaving her babies for a month.
-- 'Do you know Rambouillet? There are big forests there too!' Rambouillet is a wooded town just outside Paris. Notice how 'some' shrinks to the short word for 'of' before a plural adjective.
+- 'Do you know Rambouillet? There are big forests there too!' Rambouillet is a wooded town just outside Paris.
 - 'The film tells the story of my mother's life, and she's Canadian.' That settles the question of filming near Paris.
 - 'Oh, I see.' Three simple words when you finally understand.
 - 'So I really want to shoot over there.' The hyphenated word at the end means 'over there'.

@@ -33,10 +33,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I am the seagull.' In the play, a young actress called Nina says this about herself. It's one of the best-known lines in the theatre.
 - 'No, that's wrong.' She has got a line in the wrong order and starts again. The word for 'wrong' here also means 'false'.
-- 'Chekhov, The Seagull, act four.' At this point, Hervé and Sofia, listening at the desk, are impressed.
-- 'I did it at drama school.' The little word for 'it' sits before the helper verb and loses its vowel. The drama school is the famous Paris acting school. Then someone walks in.
+- 'Chekhov, The Seagull, act four.' Here, Hervé and Sofia, listening at the desk, are impressed.
+- 'I did it at drama school.' The little word for 'it' sits before the helper word and loses its vowel. The drama school is the famous Paris acting school. Then someone walks in.
 - 'Mum?' The everyday French word for mum. Laura is surprised: she didn't know her mother had an appointment too.
-- 'Well, well!' The same word twice, from the verb 'to hold', said with mock surprise.
+- 'Well, well!' The same word twice, from the action word 'to hold', said with mock surprise.
 - 'It's not easy to learn lines with all this noise.' The negative wraps around the verb 'to be'. The word for lines here is simply 'a text'. A mother's advice, given in a busy reception area.
 - 'Really work on it at home.' A casual command, with the little word for 'it' joined on after it. The last two words mean 'at your place'.
 - 'Thanks, Mum.' A little stiff. Then Gabriel finally comes down.

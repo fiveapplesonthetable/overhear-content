@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am at my sister's, it is horrible!' Virginie begins by explaining her awful living situation. The key word here means 'am', paired with 'dreadful' to make the point clear.
-- 'The paparazzi are in front of the building.' She describes the persistent reporters waiting outside. Notice how the verb for 'are' leads straight into 'building'.
-- 'They wait for the kids at school.' Photographers are even stalking young family members. Listen for the expression meaning 'wait for', which leads naturally into 'school'.
-- 'Plus, her boyfriend looks at me strangely.' She feels awkward around her sister's partner as well. Virginie pairs the verb meaning 'looks' with the noun for 'partner'.
-- 'How so? Judgmental looks?' Gabriel seeks clarification on what kind of looks she means. The key word here means 'how', paired with 'critical evaluation' to make the point clear.
-- 'No, he stares at me too much. I am getting paranoid.' She admits the intense media pressure is getting to her. The key word here means 'no', paired with 'distrustful' to make the point clear.
-- 'My sister is completely overwhelmed.' The whole family is suffering under the media intrusion. Virginie pairs the verb meaning 'is' with the noun for 'sister'.
-- 'I cannot stay over there.' Virginie realizes that remaining in the apartment has become impossible. Listen for the expression meaning 'not', which leads naturally into 'over there'.
-- 'Can I sleep at your place for two nights?' She asks Gabriel for temporary refuge. Virginie pairs the verb meaning 'can' with the noun for 'nights'.
-- 'My apartment is under renovation.' Gabriel tries to hesitate by mentioning the ongoing construction. Gabriel pairs the verb meaning 'is' with the noun for 'renovations'.
-- 'That does not bother me at all.' She is willing to put up with dust and noise to escape the cameras. The key word here means 'not', paired with 'at all' to make the point clear.
-- 'I just need a quiet spot.' Any small corner will suffice for her temporary hideout. Virginie pairs the verb meaning 'I have' with the noun for 'spot'.
-- 'What do you mean by my door code?' Gabriel is surprised that she is already asking for access. Listen for the expression meaning 'want', which leads naturally into 'entry code'.
-- 'I just have pajamas and tissues. Thank you!' Virginie accepts without waiting for him to object. Listen for the expression meaning 'I have', which leads naturally into 'tissues'.
+- 'I am at my sister's, it is horrible!' Virginie begins by explaining her awful living situation.
+- 'The paparazzi are in front of the building.' She describes the persistent reporters waiting outside.
+- 'They wait for the kids at school.' Photographers are even stalking young family members.
+- 'Plus, her boyfriend looks at me strangely.' She feels awkward around her sister's partner as well.
+- 'How so? Judgmental looks?' Gabriel seeks clarification on what kind of looks she means.
+- 'No, he stares at me too much. I am getting paranoid.' She admits the intense media pressure is getting to her.
+- 'My sister is completely overwhelmed.' The whole family is suffering under the media intrusion.
+- 'I cannot stay over there.' Virginie realizes that remaining in the apartment has become impossible.
+- 'Can I sleep at your place for two nights?' She asks Gabriel for temporary refuge.
+- 'My apartment is under renovation.' Gabriel tries to hesitate by mentioning the ongoing construction.
+- 'That does not bother me at all.' She is willing to put up with dust and noise to escape the cameras.
+- 'I just need a quiet spot.' Any small corner will suffice for her temporary hideout.
+- 'What do you mean by my door code?' Gabriel is surprised that she is already asking for access.
+- 'I just have pajamas and tissues. Thank you!' Virginie accepts without waiting for him to object.

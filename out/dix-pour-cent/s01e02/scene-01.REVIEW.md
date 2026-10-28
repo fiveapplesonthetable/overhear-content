@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I know, Françoise. So have I.' Literally 'me too'. Andréa and Françoise use the polite 'you' with each other all through the scene.
 - 'But I've also lost my agent.' And now we see where this is going: business.
 - 'I'm ready to take over.' The word for 'ready' has a feminine ending because Andréa is a woman. Taking over means taking over as her agent.
-- 'I don't think I'm going to do it.' Françoise means the film by Gabor Rajevski. Notice the near future again: 'to go' plus a plain verb. That's the bombshell.
+- 'I don't think I'm going to do it.' Françoise means the film by Gabor Rajevski.
 - 'The shoot starts in three weeks.' The whole film depends on her.
 - 'I need optimism.' Literally 'I have need of optimism'. That's a very useful pattern: 'to have need of' followed by what you need.
 - 'Think of Samuel.' A polite command, ending in the formal 'you' form. Andréa tries an emotional argument.
@@ -46,7 +46,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let's be professional.' This is a 'let's' command, made from the 'we' form of the verb 'to be'. Andréa switches to business.
 - 'You have no family. I have a life.' Françoise turns it round on Andréa: you only have your job. Notice 'no family': after a negative, French replaces 'a' or 'some' with the short word that normally means 'of'.
 - 'But people are counting on this film!' Andréa is losing patience, and then she goes much too far.
-- 'At what age do these whims stop?' A whim is a sudden fancy. Here the verb and the little word for 'they' swap places, which is the formal, written way to ask a question. Saying this to a great actress of about eighty is a disaster.
+- 'At what age do these whims stop?' A whim is a sudden fancy.
 - 'Sorry.' Andréa realises it immediately. She is a woman, so on paper the word gets an extra e.
 - 'Why do I stay with this agency?' A question with no change of word order at all: in speech, just raise your voice at the end.
 - 'Yes, it's perfect.' The florist shows them the finished wreath, and after that conversation, nothing is really perfect. Now listen to the whole scene again, from the cause of death to the wreath.

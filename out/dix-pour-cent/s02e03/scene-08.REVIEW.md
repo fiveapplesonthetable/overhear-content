@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hicham Janowski arrives in the hallway.' Gabriel spots the enthusiastic new majority shareholder.
 - 'He is the new owner of the agency?' Julien asks about Hicham's role at ASK.
 - 'Yes, but he takes care of accounting.' Gabriel downplays Hicham's involvement in artistic decisions.
-- 'Who is that gorgeous woman over there?' Julien notices Aymeline Val walking out of Andréa's office.
+- 'Who is that gorgeous woman over there?' Julien notices Aymeline Val walking out of Andrea's office.
 - 'That is the model Aymeline Val.' Gabriel names the famous model.
 - 'Does she also want to become an actress?' Julien asks if Aymeline is transitioning into cinema.
-- 'Yes, Andréa is managing her career.' Gabriel confirms that Andréa is representing her.
+- 'Yes, Andréa is managing her career.' Gabriel confirms that Andrea is representing her.
 - 'You have a wonderful agency!' Julien compliments the vibrant atmosphere at ASK.
 - 'Thank you for this lovely meeting, Julien.' Sofia warmly bids farewell to the pop singer.
 - 'Goodbye, see you very soon to rehearse!' Julien leaves on an upbeat note, promising to sing together soon.

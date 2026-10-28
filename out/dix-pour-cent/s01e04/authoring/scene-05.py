@@ -36,7 +36,7 @@ WALK = [
     (0, None, "'Are you looking for something?' In French, the verb 'to look for' has the 'for' built right into it, with no extra word needed."),
     (1, None, "'Yes, some medicine. My back hurts.' Literally 'I have ache at the back'. That's the standard pattern for any body ache."),
     (2, None, "'I did a rock-climbing course this weekend.' The word for a short training course or workshop is the same word used for an internship."),
-    (3, None, "'Did you like it?' Hervé is intrigued, using the everyday past tense."),
+    (3, None, "'Did you like it?' Hervé is intrigued, asking how it went."),
     (4, None, "'Yes, a lot! But I'm a city girl.' Literally 'a girl of the city'."),
     (5, None, "'And the rope really hurts!' Same 'makes ache' expression, this time with the thing that causes the pain as the subject. Then Camille looks at her computer screen."),
     (6, None, "'Hervé, on the Internet, this actress is ten years older!' Literally 'has ten years of more'. Remember that French uses 'to have' for age."),

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, you seem to have misunderstood.' Michel opens with the word for 'have' and lands on 'understood' at the close.
-- 'Ramzy never answers my calls anymore!' Repondre a means to answer.
-- 'He has disappeared a week before the release.' The key word here means 'has', paired with 'release' to make the point clear.
-- 'Virginie is doing the promotion, right?' Mathias pairs the verb meaning 'does' with the noun for 'promotion'.
-- 'Are you kidding? She is like a zombie!' Listen for the expression meaning 'are joking', which leads naturally into 'zombie'.
-- 'Not a single usable photo!' The adjective meaning 'single' agrees in gender and number with feminine noun 'photo'.
-- 'We are releasing a comedy next week!' Michel opens with the word for 'release' and lands on 'next' at the close.
-- 'Act in a responsible manner!' The key word here means 'act', paired with 'responsible' to make the point clear.
-- 'Michel, you are completely right.' The key word here means 'have', paired with 'right' to make the point clear.
-- 'I hang up and I find Ramzy.' The verb meaning 'hang up' anchors the whole remark.
-- 'If he does not do Drucker's show this week, I will sue him!' Notice how the verb for 'does' leads straight into 'week'.
-- 'Do not worry, he will be there.' Mathias opens with the word for 'not' and lands on 'there' at the close.
+- 'Mathias, you seem to have misunderstood.' The film producer tells Mathias bluntly that he seems to have misunderstood.
+- 'Ramzy never answers my calls anymore!' Michel fumes that Ramzy is ignoring his calls right before the premiere.
+- 'He has disappeared a week before the release.' He complains that his lead actor has vanished a week before the film opens.
+- 'Virginie is doing the promotion, right?' Mathias points out that Virginie is still doing the press tour.
+- 'Are you kidding? She is like a zombie!' Michel scoffs that heartbreak has left Virginie looking like a zombie.
+- 'Not a single usable photo!' He complains that the photographers could not get a single usable picture.
+- 'We are releasing a comedy next week!' Michel reminds Mathias that they are supposed to be promoting a comedy.
+- 'Act in a responsible manner!' The producer demands that the agency start acting responsibly.
+- 'Michel, you are completely right.' Mathias tries to calm Michel down by agreeing with him completely.
+- 'I hang up and I find Ramzy.' Mathias promises to hang up and track Ramzy down immediately.
+- 'If he does not do Drucker's show this week, I will sue him!' Michel threatens to sue if Ramzy misses Michel Drucker's television show.
+- 'Do not worry, he will be there.' Mathias reassures the furious producer that Ramzy will be on the set.
 - 'It is a disaster, Mathias!' Camille reacts with alarm to the legal threat.
-- 'I must settle this problem immediately.' Listen for the expression meaning 'must', which leads naturally into 'immediately'.
+- 'I must settle this problem immediately.' Mathias tells Camille he has to fix this problem right away.

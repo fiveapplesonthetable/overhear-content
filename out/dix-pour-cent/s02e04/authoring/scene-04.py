@@ -32,18 +32,18 @@ STORY = [
     ('noemie', "D'accord, mais trouvez vite une solution.", 'All right, but find a solution quickly.', [(115, '-Elle est tellement impolie ! -Bref...')], ''),
 ]
 WALK = [
-    (0, None, "'Noémie, get me an appointment with Mathias.' Andréa uses the command form form for 'arrange for me' together with the word for 'scheduled appointment'."),
-    (1, None, "'Why Mathias? Your client is the problem.' The key word here means 'why', paired with 'trouble' to make the point clear."),
+    (0, None, "'Noémie, get me an appointment with Mathias.' An imperative request demanding high-level mediation."),
+    (1, None, "'Why Mathias? Your client is the problem.' A defiant retort assigning blame to the director."),
     (2, None, "'You dragged Isabelle into this story.' An accusation pointing out premature agent enthusiasm."),
     (3, None, "'Stop! She absolutely wanted to work with him.' A fierce defense of client motivation."),
     (4, None, "'Maybe Isabelle could call him to apologize.' A pragmatic compromise suggesting an apology."),
-    (5, None, "'Out of the question, she will not apologize!' The key word here means 'matter', paired with 'will apologize' to make the point clear."),
+    (5, None, "'Out of the question, she will not apologize!' An emphatic refusal protecting client status."),
     (6, None, "'I refuse to let her humiliate herself.' A fierce protective instinct shielding an iconic star."),
     (7, None, "'Sacha thinks he is a genius.' A dismissive critique of young director arrogance."),
-    (8, None, "'So, what do we do now?' Noémie opens with the word for 'so' and lands on 'now' at the close."),
+    (8, None, "'So, what do we do now?' A practical question seeking immediate direction."),
     (9, None, "'Do you want me to call Isabelle on the phone?' An offer from an assistant to break bad news."),
     (10, None, "'No, that is my client, I will handle it.' A firm territorial declaration asserting agent responsibility."),
     (11, None, "'Very well, do as you wish!' A sarcastic surrender conceding control."),
-    (12, None, "'Close the door and let me think.' Andréa uses the command form form for 'close' together with the word for 'room door'."),
+    (12, None, "'Close the door and let me think.' An imperative command requesting privacy to strategize."),
     (13, None, "'All right, but find a solution quickly.' An urgent closing reminder of looming consequences."),
 ]

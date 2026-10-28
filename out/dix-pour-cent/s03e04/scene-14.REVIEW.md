@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is everything going well for the shoot?' Mathias checks on the production schedule. Notice how 'goes' leads directly into the noun meaning 'filming'.
-- 'Yes, we must go very quickly.' Isabelle urges immediate action on set. The clause hinges on the everyday verb meaning 'is necessary'.
-- 'Do you need anything?' Mathias asks if his star requires assistance. The verb meaning 'have you' pairs naturally with the noun for 'need' in everyday conversation.
-- 'No, thank you, everything is ready.' She confirms her full preparedness. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'Sharon, have you seen Ben Stiller?' Mathias searches for the American co-star. This conversational past tense combines a helper verb with the past verb form for 'seen'.
-- 'Ben is not leaving his trailer.' The assistant delivers bad news from the trailer. Notice the classic French sandwich negation wrapping right around 'leaves'.
-- 'He does not like the new version.' Sharon explains his dissatisfaction with the rewrite. Notice how the short vowel drops before a vowel sound around 'does not like', making the phrase flow smoothly as one unit.
-- 'He says his lines were cut.' The co-star complains about reduced dialogue. This conversational past tense combines a helper verb with the past verb form for 'cut'.
-- 'As for me, I am ready to shoot!' Isabelle emphasizes her immediate availability. The adjective meaning 'ready' takes its feminine form here to match the noun it describes.
-- 'What is he doing to us now?' Mathias panics over the unexpected complication. In spoken French, the little word before 'does' drops its final vowel and attaches with an apostrophe.
-- 'Ben is a true perfectionist.' Isabelle wryly comments on his controlling nature. The descriptive adjective for 'genuine' agrees in gender and number with its noun.
-- 'We will never make it on time.' Mathias fears missing their tight schedule. Notice how 'will not arrive' leads directly into the noun meaning 'time'.
-- 'It is hard so close to the goal.' He laments a setback right before completion. The descriptive adjective for 'tough' agrees in gender and number with its noun.
-- 'Frankly, we have no choice.' Mathias realizes drastic measures are required. Notice the classic French sandwich negation wrapping right around 'do not have'. Now let's hear the whole conversation again.
+- 'Is everything going well for the shoot?' Mathias checks on the production schedule.
+- 'Yes, we must go very quickly.' Isabelle urges immediate action on set.
+- 'Do you need anything?' Mathias asks if his star requires assistance.
+- 'No, thank you, everything is ready.' She confirms her full preparedness.
+- 'Sharon, have you seen Ben Stiller?' Mathias searches for the American co-star.
+- 'Ben is not leaving his trailer.' The assistant delivers bad news from the trailer.
+- 'He does not like the new version.' Sharon explains his dissatisfaction with the rewrite.
+- 'He says his lines were cut.' The co-star complains about reduced dialogue.
+- 'As for me, I am ready to shoot!' Isabelle emphasizes her immediate availability.
+- 'What is he doing to us now?' Mathias panics over the unexpected complication.
+- 'Ben is a true perfectionist.' Isabelle wryly comments on his controlling nature.
+- 'We will never make it on time.' Mathias fears missing their tight schedule.
+- 'It is hard so close to the goal.' He laments a setback right before completion.
+- 'Frankly, we have no choice.' Mathias realizes drastic measures are required. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -30,11 +30,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, everyone. Thank you all for coming.' After 'for', French uses the infinitive of the helper verb 'to be' plus the past verb form 'come'.
-- 'This morning, I have good news for you.' Before an infinitive verb, the word for 'for' means 'in order to'.
-- 'ASK will not be sold.' The future form of 'to be' combines with the past verb form 'sold', spelled with a feminine ending because 'an agency' is feminine.
+- 'Good morning, everyone. Thank you all for coming.' After 'for', French uses the basic form of the helper word 'to be' plus the past form 'come'.
+- 'This morning, I have good news for you.' Before a basic action word, the word for 'for' means 'in order to'.
+- 'ASK will not be sold.' The future form of 'to be' combines with the past form 'sold', spelled with a feminine ending because 'an agency' is feminine.
 - 'Is Hélène Kerr keeping Samuel's shares?' In French, 'the parts' is the everyday word for company shares.
-- 'No. I'm buying them.' Adding the prefix 're-' to the verb for 'to buy' creates 'to buy back' or 'to buy out'.
+- 'No. I'm buying them.' Adding the prefix 're-' to the action word for 'to buy' creates 'to buy back' or 'to buy out'.
 - 'ASK's future is secure. You can be relieved.' Mathias expects his colleagues to thank him for saving the agency.
 - 'How long have you known?' Literally 'Since when do you know it?' — French uses the present tense for an action that started in the past and continues right now.
 - 'I found a financial partner yesterday.' In French, the adjective 'financial' comes after the noun 'partner'.

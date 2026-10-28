@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I truly love driving.' Norman expresses his newfound enthusiasm behind the steering wheel. Listen for the expression meaning 'I love', which leads naturally into 'to drive'.
-- 'I could drive indefinitely.' He feels surprisingly relaxed and confident on the road. The adverb meaning 'indefinitely' sharpens the verb for 'could' here.
-- 'That is fine, but concentrate.' The driving examiner sternly reminds him to stay focused on traffic. L'examinateur opens with the word for 'it is' and lands on 'concentrate' at the close.
-- 'Here, we turn right.' The official gives the next directional instruction. Notice how the verb for 'turn' leads straight into 'right'.
-- 'Do not forget the turn signal!' Norman reminds himself aloud to signal properly before turning. The adverb meaning 'not' sharpens the verb for 'forget' here.
-- 'Watch out for the pedestrian crossing.' The examiner points out an approaching danger on the street. L'examinateur opens with the word for 'watch out' and lands on 'pedestrians' at the close.
-- 'Let that lady cross first.' The candidate must yield right of way to walking pedestrians. L'examinateur uses the command form form for 'let' together with the word for 'lady'.
-- 'The road is completely clear.' Norman checks his mirrors and assesses the traffic situation. The feminine adjective degagee means unobstructed.
-- 'Park the car along the sidewalk.' The final maneuver test is requested by the examiner. Listen for the expression meaning 'park', which leads naturally into 'sidewalk'.
-- 'It went rather well.' The official hints at a surprisingly positive assessment. The verb meaning 'went' anchors the whole remark.
-- 'You mean that I passed?' Norman hopes for confirmation that he finally earned his license. The verb meaning 'mean' anchors the whole remark.
-- 'I said absolutely nothing!' The examiner refuses to break official confidentiality rules. The adverb meaning 'absolutely' sharpens the verb for 'have' here.
-- 'Thank you very much, that is wonderful!' Norman rejoices at having overcome his driving exam anxiety. Listen for the expression meaning 'thank you', which leads naturally into 'wonderful'.
-- 'Now, exit the vehicle.' The official dismisses the candidate at the end of the test. The key word here means 'now', paired with 'vehicle' to make the point clear.
+- 'I truly love driving.' Norman expresses his newfound enthusiasm behind the steering wheel.
+- 'I could drive indefinitely.' He feels surprisingly relaxed and confident on the road.
+- 'That is fine, but concentrate.' The driving examiner sternly reminds him to stay focused on traffic.
+- 'Here, we turn right.' The official gives the next directional instruction.
+- 'Do not forget the turn signal!' Norman reminds himself aloud to signal properly before turning.
+- 'Watch out for the pedestrian crossing.' The examiner points out an approaching danger on the street.
+- 'Let that lady cross first.' The candidate must yield right of way to walking pedestrians.
+- 'The road is completely clear.' Norman checks his mirrors and assesses the traffic situation.
+- 'Park the car along the sidewalk.' The final maneuver test is requested by the examiner.
+- 'It went rather well.' The official hints at a surprisingly positive assessment.
+- 'You mean that I passed?' Norman hopes for confirmation that he finally earned his license.
+- 'I said absolutely nothing!' The examiner refuses to break official confidentiality rules.
+- 'Thank you very much, that is wonderful!' Norman rejoices at having overcome his driving exam anxiety.
+- 'Now, exit the vehicle.' The official dismisses the candidate at the end of the test.

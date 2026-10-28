@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past tense, so 'came' has a feminine ending for Brancillon.
-- 'What? To your place?' The little linking word for 'at someone's home' followed by 'you'.
+- 'What? To your place?' The little preposition for 'at someone's home' followed by 'you'.
 - 'To check my suits and my expense claims. Good luck!' Literally 'notes of expenses'. Gabriel warns her that she's next.
 - 'Colette? Hello! This jacket is very nice.' Later, in a clothes shop, Andréa approaches Colette by the racks.
 - 'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out.
@@ -41,7 +41,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What?' Andréa is caught off guard.
 - 'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word for 'never'.
 - 'You pay for a gym, but you never go there.' Literally 'a room of sport', and the tiny word before 'go' means 'there'.
-- 'And you have a problem with your hair.' Notice how 'and' sets up the clause and leads naturally into 'hair'.
+- 'And you have a problem with your hair.' Plural possessive before 'hair', because 'hair' on your head is plural in French.
 - 'No!' Andréa protests.
 - 'Yes, you do. Always a different hairdresser.' Once again, the special word for 'yes' contradicts Andréa's 'no'.
 - 'And you have lots of girlfriends.' Literally 'little friends' in the feminine.

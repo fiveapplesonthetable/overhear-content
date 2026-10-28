@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes, my dear? What is wrong?' Gabriel addresses Sofia warmly when she enters his office in tears.
-- 'Can I do anything to cheer you up?' The key word here means 'can', paired with 'morale?' to make the point clear.
+- 'Can I do anything to cheer you up?' Gabriel asks the crying casting director if he can do anything to cheer her up.
 - 'What have you done now?' Gabriel instinctively worries that an audition went wrong.
 - 'That is not what I meant to say.' He quickly backtracks after sounding overly critical.
-- 'Never mind, I will call her.' Gabriel gives a direct command form using the verb for 'let'.
-- 'We will sort this out.' The key word here means 'are going', paired with 'sort out' to make the point clear.
+- 'Never mind, I will call her.' The expression laisser tomber means to drop it or let it go.
+- 'We will sort this out.' Gabriel promises Sofia that they will sort out this casting disaster.
 - 'Tell her the truth!' Sofia urges Gabriel to confront the casting director firmly.
-- 'I will handle it.' Gabriel opens with the word for 'take care.' and lands on 'take care.' at the close.
+- 'I will handle it.' He assures her that he is taking care of the problem himself.
 - 'Hello, Constance, how are you?' Gabriel attempts a polite, friendly greeting on the phone.
 - 'Are you joking! I am completely disfigured!' Constance dramatically exaggerates the altercation.
-- 'I barely touched her!' Sofia opens with the word for 'have her' and lands on 'touched!' at the close.
+- 'I barely touched her!' Sofia protests that she barely touched the assistant during the audition.
 - 'Sorry, Constance... It is fine, I will handle it.' Gabriel tries to pacify both women simultaneously.
-- 'Calm down, Sofia, she is very powerful.' Gabriel gives a direct command form using the verb for 'calm down'.
+- 'Calm down, Sofia, she is very powerful.' Gabriel urges Sofia to calm down because the casting director is very influential.

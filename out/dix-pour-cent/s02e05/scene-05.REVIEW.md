@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stop it, Jean Gabin, it's Camille!' Hervé jokingly calls Camille by the legendary French actor's name.
-- 'Do not hold it against him too much.' Camille urges Hervé not to be too hard on the colleague venting frustration.
-- 'He transfers his hatred for Mathias to you.' Hervé points out how office resentment against Mathias falls on Camille.
+- 'Stop it, Jean Gabin, it's Camille!' Herve jokingly calls Camille by the legendary French actor's name.
+- 'Do not hold it against him too much.' Camille urges Herve not to be too hard on the colleague venting frustration.
+- 'He transfers his hatred for Mathias to you.' Herve points out how office resentment against Mathias falls on Camille.
 - 'It is horrible, I have become someone else.' Camille describes feeling like an entirely different person.
 - 'Nobody at the agency recognizes me.' Camille feels alienated by how differently her coworkers now treat her.
-- 'It is like in the movie The Mustache.' Hervé brings up a famous French film about unrecognized identity.
-- 'The guy shaves, nobody notices.' Hervé summarizes the absurd plot of the movie.
+- 'It is like in the movie The Mustache.' Herve brings up a famous French film about unrecognized identity.
+- 'The guy shaves, nobody notices.' Herve summarizes the absurd plot of the movie.
 - 'No, it is exactly the opposite.' Camille corrects him, noting that in her case everyone imagines a huge change.
 - 'Everyone thinks that I have changed.' Camille laments that people look past her actual personality.
 - 'Mathias being my father changes nothing.' Camille insists that her relationship to Mathias does not alter who she is.
-- 'It is rather like in Blade Runner.' Hervé switches to a sci-fi reference about discovering an android identity.
-- 'When you find out that he is a replicant.' Hervé playfully compares Mathias's lineage to an artificial creation.
-- 'We love you anyway, Camillette!' Hervé uses an affectionate nickname to reassure Camille of his loyalty.
+- 'It is rather like in Blade Runner.' Herve switches to a sci-fi reference about discovering an android identity.
+- 'When you find out that he is a replicant.' Herve playfully compares Mathias's lineage to an artificial creation.
+- 'We love you anyway, Camillette!' Herve uses an affectionate nickname to reassure Camille of his loyalty.

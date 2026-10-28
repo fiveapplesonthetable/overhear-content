@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you want Annick's number?' Mathias demands angrily. Notice how the verb for 'wished to have' leads straight into 'digits'.
-- 'Is it forbidden for women to talk to each other?' Catherine deflects coolly. The adjective meaning 'against the rules' agrees in gender and number with feminine noun 'women'.
-- 'You're doing this just to annoy me!' Mathias sees right through her game. The adverb meaning 'solely' sharpens the verb for 'are pulling' here.
-- 'Poor Camille, caught between two fires.' Mathias worries about his daughter. Mathias opens with the word for 'unfortunate' and lands on 'fires' at the close.
-- 'This situation is becoming completely toxic.' Mathias criticizes Catherine's maneuver. Mathias opens with the word for 'state of affairs' and lands on 'toxic' at the close.
-- 'You dare talk to me about what is toxic?' Catherine turns on him fiercely. The verb meaning 'have the gall' anchors the whole remark.
-- 'Selling our apartment behind my back?' She reveals his hidden scheme. Listen for the expression meaning 'to put on sale', which leads naturally into 'spine'.
-- 'It is my personal apartment!' Mathias shouts defensively. The possessive adjective mon indicates sole ownership.
-- 'I financed the renovations five years ago.' Catherine counters with facts. Catherine opens with the word for 'have' and lands on 'calendar years' at the close.
-- 'If it's a simple question of money...' Mathias attempts to reduce the dispute. Listen for the expression meaning 'is', which leads naturally into 'funds'.
-- 'You are hiding your former mistress at the agency!' Catherine denounces his lies. The key word here means 'are sheltering', paired with 'agency workplace' to make the point clear.
-- 'I simply wanted to protect our family.' Mathias insists on his good intentions. Mathias pairs the verb meaning 'only intended' with the noun for 'household'.
-- 'Hippolyte told me you were collapsing.' Catherine mentions their son's worry. Catherine opens with the word for 'has' and lands on 'were falling apart' at the close.
-- 'I am doing very well, as you see.' Mathias refuses to show vulnerability. Mathias opens with the word for 'am doing' and lands on 'can observe' at the close.
-- 'We really can't talk to each other anymore.' Catherine recognizes the end of dialogue. The key word here means 'no', paired with 'communicate' to make the point clear.
-- 'Then let's settle everything with our lawyers.' Mathias surrenders to legal warfare. The adverb meaning 'very well then' sharpens the verb for 'let us settle' here.
+- 'Why did you want Annick's number?' Mathias demands angrily.
+- 'Is it forbidden for women to talk to each other?' Catherine deflects coolly.
+- 'You're doing this just to annoy me!' Mathias sees right through her game.
+- 'Poor Camille, caught between two fires.' Mathias sympathizes with Camille for being caught in the middle.
+- 'This situation is becoming completely toxic.' Mathias criticizes Catherine's maneuver.
+- 'You dare talk to me about what is toxic?' Catherine turns on him fiercely.
+- 'Selling our apartment behind my back?' She reveals his hidden scheme.
+- 'It is my personal apartment!' Mathias shouts defensively.
+- 'I financed the renovations five years ago.' Catherine counters with facts.
+- 'If it's a simple question of money...' Mathias attempts to reduce the dispute.
+- 'You are hiding your former mistress at the agency!' Catherine denounces his lies.
+- 'I simply wanted to protect our family.' Mathias insists on his good intentions.
+- 'Hippolyte told me you were collapsing.' Catherine mentions their son's worry.
+- 'I am doing very well, as you see.' Mathias refuses to show vulnerability.
+- 'We really can't talk to each other anymore.' Catherine recognizes the end of dialogue.
+- 'Then let's settle everything with our lawyers.' Mathias surrenders to legal warfare.

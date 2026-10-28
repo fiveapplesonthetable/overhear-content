@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was sure I would find you here.' Elise speaks with tired resignation. The adjective meaning 'sure' takes its feminine form here to match the noun it describes.
-- 'Overtime hours never get any better.' Andrea nods in mutual professional understanding. French builds the 'never' negation in two parts wrapped right around 'improve'.
-- 'They did not choose me after all.' Elise delivers her heavy news. The clause hinges on the everyday verb meaning 'have'.
-- 'For the general directorship of StarMedia?' Andrea clarifies the prestigious position. In everyday spoken French, rising intonation on 'direction' at the end is enough to turn the sentence into a question.
-- 'Brehier appointed Olivier in my place.' Elise grimaces with bitter disappointment. The verb meaning 'has' pairs naturally with the noun for 'place' in everyday conversation.
-- 'Olivier Dimars has almost no experience.' Andrea evaluates the rival agent candidly. The verb meaning 'has' pairs naturally with the noun for 'experience' in everyday conversation.
-- 'He is above all much less competent.' Elise states the harsh reality directly. The adverb meaning 'especially' gives the reply its conversational emphasis.
-- 'It is a totally unfair choice, Elise.' Andrea validates her anger with sympathy. The descriptive adjective for 'unfair' agrees in gender and number with its noun.
-- 'But he is a man, obviously.' Elise points out the unspoken institutional bias. The key noun here means 'man', anchored by its matching French article.
-- 'Sexism in this industry persists.' Andrea acknowledges the pervasive prejudice. The verb meaning 'persists' pairs naturally with the noun for 'sexism' in everyday conversation.
-- 'I thought it was enough to be excellent.' Elise reflects on her shattered illusions. The clause hinges on the everyday verb meaning 'believed'.
-- 'You did remarkable work.' Andrea honors her rival's undoubted talent. This conversational past tense combines a helper verb with the past verb form for 'done'.
-- 'I was much too naive, apparently.' Elise sighs as she swishes her drink. This conversational past tense combines a helper verb with the past verb form for 'been'.
-- 'I am really sorry for you.' Andrea offers sincere solidarity. Andrea uses the casual singular 'you' with 'this line', showing close familiarity. Now let's hear the whole conversation again.
+- 'I was sure I would find you here.' Elise speaks with tired resignation.
+- 'Overtime hours never get any better.' Andrea nods in mutual professional understanding.
+- 'They did not choose me after all.' Elise delivers her heavy news.
+- 'For the general directorship of StarMedia?' Andrea clarifies the prestigious position.
+- 'Brehier appointed Olivier in my place.' Elise grimaces with bitter disappointment.
+- 'Olivier Dimars has almost no experience.' Andrea evaluates the rival agent candidly.
+- 'He is above all much less competent.' Elise states the harsh reality directly.
+- 'It is a totally unfair choice, Elise.' Andrea validates her anger with sympathy.
+- 'But he is a man, obviously.' Elise points out the unspoken institutional bias.
+- 'Sexism in this industry persists.' Andrea acknowledges the pervasive prejudice.
+- 'I thought it was enough to be excellent.' Elise reflects on her shattered illusions.
+- 'You did remarkable work.' Andrea honors her rival's undoubted talent.
+- 'I was much too naive, apparently.' Elise sighs as she swishes her drink.
+- 'I am really sorry for you.' Andrea offers sincere solidarity. Now, listen to the complete dialogue again at normal conversational pace.

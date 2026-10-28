@@ -33,7 +33,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Who wants some good news?' In French, 'a piece of news' is a countable feminine word: literally 'a good news'."),
-    (1, None, "'Sofia got the part!' Literally 'Sofia has had the role'. The short word at the end is the past verb form of 'to have'."),
+    (1, None, "'Sofia got the part!' Literally 'Sofia has had the role'. The short word at the end is the past participle of 'to have'."),
     (2, None, "'Great! In the costume drama?' Literally 'in the film in costume'."),
     (3, None, "'The director is smart.' Andréa is impressed that the director cast a Black actress in a period film."),
     (4, None, "'No, Sofia is playing the slave.' Gabriel has to admit the truth about the role."),

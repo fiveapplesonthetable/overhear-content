@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello?' The author answers the phone. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'Is this Ulrika?' He confirms it is her on the line. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
-- 'This is Mathias Barneville speaking.' He introduces himself formally with his full name. The adverb meaning 'here' gives the reply its conversational emphasis.
-- 'Yes, hello Mathias.' She replies calmly. The adverb meaning 'yes' gives the reply its conversational emphasis.
-- 'Camille told me everything.' He says Camille confessed about the scheme. The clause hinges on the everyday verb meaning 'to have'.
-- 'I know the truth.' He knows all the details now. The verb meaning 'to know' pairs naturally with the noun for 'truth' in everyday conversation.
-- 'But Mathias, wait.' She tries to stop him from speaking. The clause hinges on the everyday verb meaning 'to wait'.
-- 'No, it's over.' He refuses to listen to her excuses. Notice how the short vowel drops before a vowel sound around 'to be', making the phrase flow smoothly as one unit.
-- 'Your methods are revolting.' He condemns her terrible actions. Mathias uses the polite 'you' form alongside 'to be' to keep a respectful professional tone.
-- 'I refuse to work with you.' He cancels their secret deal completely. The clause hinges on the everyday verb meaning 'to refuse'.
-- 'You are making a mistake.' She tries to warn him. The formal 'you' pronoun sets a courteous, professional distance around 'to do'.
-- 'Don't ever call me again.' He gives a strict instruction to stay away. The short 'self' word sits right in front of the verb for 'to call back', turning the action back onto the subject.
-- 'Goodbye, Ulrika.' He says farewell and cuts the line. The clause hinges on the everyday verb meaning 'to see again'. Let's listen to the whole scene again.
+- 'Hello?' The author answers the phone.
+- 'Is this Ulrika?' He confirms it is her on the line.
+- 'This is Mathias Barneville speaking.' He introduces himself formally with his full name.
+- 'Yes, hello Mathias.' She replies calmly.
+- 'Camille told me everything.' He says Camille confessed about the scheme.
+- 'I know the truth.' He knows all the details now.
+- 'But Mathias, wait.' She tries to stop him from speaking.
+- 'No, it's over.' He refuses to listen to her excuses.
+- 'Your methods are revolting.' He condemns her terrible actions.
+- 'I refuse to work with you.' He cancels their secret deal completely.
+- 'You are making a mistake.' She tries to warn him.
+- 'Don't ever call me again.' He gives a strict instruction to stay away.
+- 'Goodbye, Ulrika.' He says farewell and cuts the line. Let's listen to the whole scene again.

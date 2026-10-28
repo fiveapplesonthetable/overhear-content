@@ -32,9 +32,9 @@ STORY = [
     ('andrea', "Attends. Au moins jusqu'à demain.", 'Wait. Until tomorrow at least.', [(617, "Attends. Au moins jusqu'à demain")], ''),
 ]
 WALK = [
-    (0, None, "'Andréa, I don't know what to do.' The verb for 'to know' is wrapped in the two-part negative, and then comes 'what to do'. A line you can use any time you're stuck."),
+    (0, None, "'Andréa, I don't know what to do.' The action word for 'to know' is wrapped in the two-part negative, and then comes 'what to do'. A line you can use any time you're stuck."),
     (1, None, "'Cécile has left. She wants to change agents.' After 'she wants', the next verb stays in its basic dictionary form. That's how French chains two verbs."),
-    (2, None, "'Can't you talk to her?' Notice the casual 'you': Andréa and Gabriel are colleagues and friends. The little word before the verb means 'to her'."),
+    (2, None, "'Can't you talk to her?' Notice the casual 'you': Andréa and Gabriel are colleagues and friends."),
     (3, None, "'Me? What can I say to her?' Andréa is surprised. Why her?"),
     (4, None, "'I do not know. You are the same age, right?'t know. You're a woman, you're the same age.' Careful: to say 'the same age' French uses the verb 'to have', as if age were something you own. In the second half Gabriel switches to the plural 'you', meaning Andréa and Cécile together. It's the wrong thing to say."),
     (5, None, "'The same age?' Andréa repeats it, slowly, the way people do when they can't believe what they've heard."),
@@ -42,7 +42,7 @@ WALK = [
     (7, None, "'I'm only thirty-four. Thanks a lot!' Again, age goes with 'to have': I have thirty-four years. And the thanks at the end is pure sarcasm. Cécile is over forty, so Gabriel has put his foot in it."),
     (8, None, "'Sorry, that's not what I meant.' Literally 'that's not what I wanted to say'. A useful sentence when you need to take something back."),
     (9, None, "'But you're so good at this!' The word for 'gifted' has the feminine ending, because Andréa is a woman. He tries flattery. Andréa ignores it and gives him real advice."),
-    (10, None, "'Listen, give her a bit of space.' Andréa links 'listen' directly with 'give her' to express the thought clearly."),
+    (10, None, "'Listen, give her a bit of space.' Two commands in the casual 'you' form."),
     (11, None, "'You'll only annoy her.' The verb 'to go' plus another verb gives the near future, just like 'you're going to' in English. Gabriel doesn't like waiting."),
     (12, None, "'So I don't do anything?' Here the negative pairs with the word for 'nothing'. He sounds like a child being told no."),
     (13, None, "'Wait. Until tomorrow at least.' One more casual command, short and firm. That's the end of the advice. Let's hear it all once more."),

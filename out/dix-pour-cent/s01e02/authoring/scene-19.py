@@ -37,10 +37,10 @@ STORY = [
 ]
 WALK = [
     (0, None, "'What a surprise! Françoise!' The question word for 'which' also works as an exclamation, like 'what a' in English. Françoise is calm and cool."),
-    (1, "Je viens d'assister à une projection.", "'I've just been to a screening.' The verb 'to come' followed by another verb means 'have just done'. A very useful structure."),
+    (1, "Je viens d'assister à une projection.", "'I've just been to a screening.' The action word 'to come' followed by another action word means 'have just done'. A very useful structure."),
     (2, None, "'How are you?' The polite form, with the formal 'you'. Andréa is careful now; the last time they met, she lost her temper."),
     (3, None, "'Very well, thank you.' The perfect polite answer."),
-    (4, None, "'I'm sorry. I got carried away.' Both words end in the feminine spelling because a woman is speaking, though you can't hear it. The second sentence is a reflexive verb in the past, built with 'to be'."),
+    (4, None, "'I'm sorry. I got carried away.' Both words end in the feminine spelling because a woman is speaking, though you can't hear it."),
     (5, None, "'It's forgotten.' Gracious, and very short. Françoise accepts the apology."),
     (6, None, "'Gabor respects your decision.' The word for 'your' is the formal one, matching the formal 'you'."),
     (7, None, "'He's a brilliant young man. How is he?' In the question the verb and the pronoun swap places, with a little extra sound in between. That swap is today's grammar point: a more elegant way to ask a question."),

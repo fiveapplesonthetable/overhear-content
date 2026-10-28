@@ -36,7 +36,7 @@ WALK = [
     (0, 'Profitez bien de la projection.', "'Enjoy the screening.' A polite command using the formal 'you', which Noémie always uses with Mathias at the office."),
     (1, None, "'I really don't feel like it. See you tomorrow.' Literally 'I really don't have the desire of it'. That is why Mathias is about to go straight home instead."),
     (2, None, "'Yes, Mathias.' Quiet and devoted as always."),
-    (3, None, "'He forgot his phone. Mathias!' The verb 'to forget' in the everyday past tense. She runs after him to give it back."),
+    (3, None, "'He forgot his phone. Mathias!' The action word 'to forget' in the everyday past. She runs after him to give it back."),
     (4, None, "'Contract sent by email. A new adventure begins.' She glances at the screen and sees a message from the rival agency StarMédia."),
     (5, None, "'What? Oh, thanks. See you tomorrow, Noémie.' Mathias takes his phone back without realising she read the message."),
     (6, None, "'Noémie? What's wrong?' A moment later, Hervé finds her crying in the agency washroom."),

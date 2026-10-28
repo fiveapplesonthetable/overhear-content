@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sofia, how are you doing now?' Gabriel asks how she is doing after his frantic drive across town. In everyday spoken French, rising intonation on 'goes' at the end is enough to turn the sentence into a question.
-- 'Oh, here is finally my beloved savior!' Sofia welcomes him with theatrical affection. The key noun here means 'savior', anchored by its matching French article.
-- 'You were without ID?' Gabriel asks whether she was truly stranded without identity papers. In everyday spoken French, rising intonation on 'were' at the end is enough to turn the sentence into a question.
-- 'The coat check girl moved our things.' Sofia explains the trivial mix-up at the venue cloakroom. Notice how 'has' leads directly into the noun meaning 'coat check attendant'.
-- 'I had to cross all of Paris!' Gabriel points out the trouble he took on her behalf. This conversational past tense combines a helper verb with the past verb form for 'had to'.
-- 'Do not be angry, Gabriel.' Sofia begs him not to lose his temper. Notice the classic French sandwich negation wrapping right around 'be'.
-- 'There is a magnificent party.' Sofia pitches the suburban party in hopes of securing a ride. The descriptive adjective for 'magnificent' agrees in gender and number with its noun.
-- 'Great, I wish you good night.' Gabriel dryly rejects the offer and prepares to leave. The descriptive adjective for 'super' agrees in gender and number with its noun.
-- 'Wait, please, Gabriel!' Sofia calls after him to reconsider his sudden departure. The clause hinges on the everyday verb meaning 'wait'.
-- 'I am sorry for this delay.' Sofia apologizes for making him come out so late. The key noun here means 'delay', anchored by its matching French article.
-- 'You are always so kind, Gabriel.' Sofia flatters his usual accommodating personality. Sofia uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'I must stop being so kind.' Gabriel decides that he can no longer let people exploit his generosity. The clause hinges on the everyday verb meaning 'must'.
-- 'No, you are perfect with me.' Sofia tries to reassure him of her appreciation. The descriptive adjective for 'perfect' agrees in gender and number with its noun.
-- 'This time I really must leave.' Gabriel stands firm on his decision and steps away. Notice how 'must' leads directly into the noun meaning 'time'. Now let's hear the whole conversation again.
+- 'Sofia, how are you doing now?' Gabriel asks how she is doing after his frantic drive across town.
+- 'Oh, here is finally my beloved savior!' Sofia welcomes him with theatrical affection.
+- 'You were without ID?' Gabriel asks whether she was truly stranded without identity papers.
+- 'The coat check girl moved our things.' Sofia explains the trivial mix-up at the venue cloakroom.
+- 'I had to cross all of Paris!' Gabriel points out the trouble he took on her behalf.
+- 'Do not be angry, Gabriel.' Sofia begs him not to lose his temper.
+- 'There is a magnificent party.' Sofia pitches the suburban party in hopes of securing a ride.
+- 'Great, I wish you good night.' Gabriel dryly rejects the offer and prepares to leave.
+- 'Wait, please, Gabriel!' Sofia calls after him to reconsider his sudden departure.
+- 'I am sorry for this delay.' Sofia apologizes for making him come out so late.
+- 'You are always so kind, Gabriel.' Sofia flatters his usual accommodating personality.
+- 'I must stop being so kind.' Gabriel decides that he can no longer let people exploit his generosity.
+- 'No, you are perfect with me.' Sofia tries to reassure him of her appreciation.
+- 'This time I really must leave.' Gabriel stands firm on his decision and steps away. Now listen to the whole scene again at normal speed, and see how much more you catch.

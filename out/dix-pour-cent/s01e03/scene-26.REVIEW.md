@@ -40,7 +40,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She's my mother. It's monstrous!' She's shocked that the director wants to use their tension. Nathalie hits back.
 - 'Are you ashamed of me?' Literally 'do you have shame of me?'. French uses 'to have' for feelings like shame, hunger or thirst.
 - 'Like when I took you to school?' The verb is in the past form for things that used to happen again and again. A mother's memory, used as a weapon.
-- 'I never said that!' Here the second negative word means 'never' instead of 'not'. The pattern is the same: one little word before the verb, one after.
+- 'I never said that!' Here the second negative word means 'never' instead of 'not'.
 - 'With you, I'm always a kid.' The last word is a casual word for a little girl. Then she imitates her mother's voice.
 - 'Stand up straight!' The thing her mother always said. And notice: in this quote it's the casual 'you', the way a mother talks to a little child. Solveig is delighted and calls them a monstrous mother and an unbearable daughter. That makes Nathalie furious.
 - 'My daughter is not unbearable!' Suddenly the mother defends her child. Laura defends their right to fight.

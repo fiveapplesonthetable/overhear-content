@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is going on here?' Noemie arrives at the agency and wonders what the celebration is about. The clause hinges on the everyday verb meaning 'is happening'.
-- 'We are celebrating! Have a drink!' Mathias pours champagne to mark their latest victory. The verb meaning 'are celebrating' pairs naturally with the noun for 'drink' in everyday conversation.
-- 'Can I have a word with you?' Noemie quietly pulls Mathias aside to ask a serious question. Notice how 'can' leads directly into the noun meaning 'word'.
-- 'Yes, of course, my darling.' Mathias answers her with his usual warm charm. The key noun here means 'darling', anchored by its matching French article.
-- 'You did not use my secrets?' Noemie worries that Mathias exploited her private confessions. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'No, listen, I promise you.' Mathias reassures his assistant with a straight face. The short 'self' word sits right in front of the verb for 'listen', turning the action back onto the subject.
-- 'Do you swear in front of everyone?' Noemie insists on an explicit commitment. The informal 'you' form around 'swear' marks a direct, personal relationship.
-- 'I would like to propose a big toast!' Mathias turns to the crowd and raises his glass. This conversational past tense combines a helper verb with the past verb form for 'would like'.
-- 'To all the handicapped animals!' Mathias dedicates the toast with blatant mockery. The key noun here means 'animals', anchored by its matching French article.
-- 'Without them, no rights!' Mathias jokes about how the cause brought them the adaptation deal. The key noun here means 'rights', anchored by its matching French article.
-- 'I finally read this book!' Mathias admits that he has only just skimmed the manuscript. Dropping the subject pronoun turns the verb for 'have' into a direct, punchy command.
-- 'It is crazy, it makes no sense!' Mathias openly mocks the content of the novel. The two-part French negation brackets the verb for 'the verb' on both sides.
-- 'Mathias, you really disgust me!' Noemie is appalled by his utter cynicism and lack of respect. The clause hinges on the everyday verb meaning 'disgust'.
-- 'Noemie, wait, come back immediately!' Mathias calls after her in surprise as she storms out. Dropping the subject pronoun turns the verb for 'wait' into a direct, punchy command.
+- 'What is going on here?' Noemie arrives at the agency and wonders what the celebration is about.
+- 'We are celebrating! Have a drink!' Mathias pours champagne to mark their latest victory.
+- 'Can I have a word with you?' Noemie quietly pulls Mathias aside to ask a serious question.
+- 'Yes, of course, my darling.' Mathias answers her with his usual warm charm.
+- 'You did not use my secrets?' Noemie worries that Mathias exploited her private confessions.
+- 'No, listen, I promise you.' Mathias reassures his assistant with a straight face.
+- 'Do you swear in front of everyone?' Noemie insists on an explicit commitment.
+- 'I would like to propose a big toast!' Mathias turns to the crowd and raises his glass.
+- 'To all the handicapped animals!' Mathias dedicates the toast with blatant mockery.
+- 'Without them, no rights!' Mathias jokes about how the cause brought them the adaptation deal.
+- 'I finally read this book!' Mathias admits that he has only just skimmed the manuscript.
+- 'It is crazy, it makes no sense!' Mathias openly mocks the content of the novel.
+- 'Mathias, you really disgust me!' Noemie is appalled by his utter cynicism and lack of respect.
+- 'Noemie, wait, come back immediately!' Mathias calls after her in surprise as she storms out.

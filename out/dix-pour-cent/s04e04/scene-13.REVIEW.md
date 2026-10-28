@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Camille, Gabriel and Sarah are arguing!' Sofia eagerly shares the latest hallway drama. Dropping the subject pronoun turns the verb for 'argue' into a direct, punchy command.
-- 'What? That is not my problem.' Camille brushes aside the gossip to focus on business. The key noun here means 'problem', anchored by its matching French article.
-- 'Did you wear that for the audition?' Camille points in disbelief at Sofia's extravagant golden dress. The verb meaning 'have' pairs naturally with the noun for 'audition' in everyday conversation.
-- 'No, I did not go.' Sofia casually reveals that she skipped the meeting with the director. Notice the classic French sandwich negation wrapping right around 'gone'.
-- 'Excuse me? You missed the appointment?' Camille can hardly believe what she is hearing. Inverting the verb and pronoun around 'have' creates a crisp, polished question.
-- 'There is a screening soon.' Sofia claims she will meet the director casually at a movie screening instead. The key noun here means 'screening', anchored by its matching French article.
-- 'It is much better like that.' Sofia defends her spontaneous strategy. The adverb meaning 'much' gives the reply its conversational emphasis.
-- 'I worked hard for this role!' Camille reminds Sofia how much effort went into securing the casting call. Notice how 'have' leads directly into the noun meaning 'role'.
-- 'Wait, are those my new shoes?' Camille suddenly notices her own designer heels on Sofia's feet. The descriptive adjective for 'new' agrees in gender and number with its noun.
-- 'I took them for the photo.' Sofia confesses that she borrowed the shoes from Camille's office without asking. The verb meaning 'have' pairs naturally with the noun for 'photo' in everyday conversation.
-- 'You do not want to work, Sofia!' Camille loses her temper at her client's unprofessional attitude. The clause hinges on the everyday verb meaning 'want'.
-- 'You do not want to be an actress.' Camille accuses Sofia of preferring celebrity glamour over real acting. The two-part French negation brackets the verb for 'want' on both sides.
-- 'Now, take back your things and get out!' The verb meaning 'take back' pairs naturally with the noun for 'things' in everyday conversation.
-- 'There, I give you back your shoes!' Sofia angrily kicks off the heels and storms out of the room. The short 'self' word sits right in front of the verb for 'give back', turning the action back onto the subject.
+- 'Camille, Gabriel and Sarah are arguing!' Sofia eagerly shares the latest hallway drama.
+- 'What? That is not my problem.' Camille brushes aside the gossip to focus on business.
+- 'Did you wear that for the audition?' Camille points in disbelief at Sofia's extravagant golden dress.
+- 'No, I did not go.' Sofia casually reveals that she skipped the meeting with the director.
+- 'Excuse me? You missed the appointment?' Camille can hardly believe what she is hearing.
+- 'There is a screening soon.' Sofia claims she will meet the director casually at a movie screening instead.
+- 'It is much better like that.' Sofia defends her spontaneous strategy.
+- 'I worked hard for this role!' Camille reminds Sofia how much effort went into securing the casting call.
+- 'Wait, are those my new shoes?' Camille suddenly notices her own designer heels on Sofia's feet.
+- 'I took them for the photo.' Sofia confesses that she borrowed the shoes from Camille's office without asking.
+- 'You do not want to work, Sofia!' Camille loses her temper at her client's unprofessional attitude.
+- 'You do not want to be an actress.' Camille accuses Sofia of preferring celebrity glamour over real acting.
+- 'Now, take back your things and get out!' Camille demands her shoes back and orders Sofia to leave.
+- 'There, I give you back your shoes!' Sofia angrily kicks off the heels and storms out of the room.

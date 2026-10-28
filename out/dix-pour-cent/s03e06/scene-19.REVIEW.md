@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Be quiet, do not speak here!' Andrea hushes Mathias in the middle of the party. The clause hinges on the everyday verb meaning 'be quiet'.
-- 'Why are you pulling my arm like that?' Mathias wonders why she is acting so frantically. The verb meaning 'are you pulling' pairs naturally with the noun for 'arm' in everyday conversation.
-- 'There is a very big problem.' Andrea delivers a grave warning about agency stability. The key noun here means 'problem', anchored by its matching French article.
-- 'What is going on now?' Mathias asks what latest catastrophe has hit ASK. The standard spoken question formula at the front turns the statement about 'happens' into a natural inquiry.
-- 'Guillaume Canet will not come tonight.' She reveals the unexpected absence of their star client. Notice how 'will come' leads directly into the noun meaning 'evening'.
-- 'I know, he is filming in Ukraine.' Mathias tries to brush aside her worry with an alibi. The clause hinges on the everyday verb meaning 'know'.
-- 'No, he wants to leave our agency!' Andrea drops the bombshell regarding his client's departure. The verb meaning 'wants' pairs naturally with the noun for 'talent agency' in everyday conversation.
-- 'Where do you get this madness?' Mathias refuses to believe the shocking rumor. In spoken French, the little word before 'do you get' drops its final vowel and attaches with an apostrophe.
-- 'I have excellent, well-informed sources.' She insists her insider information is solid. The descriptive adjective for 'outstanding' agrees in gender and number with its noun.
-- 'Guillaume is my most loyal client.' Mathias proudly defends his special bond with the actor. The descriptive adjective for 'loyal' agrees in gender and number with its noun.
-- 'A rival agency is courting him.' Andrea warns that competitors are circling their top talent. Notice how 'makes' leads directly into the noun meaning 'agency'.
-- 'That is a real stab in the back!' Mathias reacts with outrage at the prospect of betrayal. Notice how the short vowel drops before a vowel sound around 'blow', making the phrase flow smoothly as one unit.
-- 'Come, we must speak discreetly.' Andrea pulls him away from listening ears. In spoken French, the little word before 'come' drops its final vowel and attaches with an apostrophe.
-- 'Let us go to my office right away.' Mathias agrees to plan their defense in private. The verb meaning 'let us go' pairs naturally with the noun for 'office' in everyday conversation. Now let's hear the whole conversation again.
+- 'Be quiet, do not speak here!' Andrea hushes Mathias in the middle of the party.
+- 'Why are you pulling my arm like that?' Mathias wonders why she is acting so frantically.
+- 'There is a very big problem.' Andrea delivers a grave warning about agency stability.
+- 'What is going on now?' Mathias asks what latest catastrophe has hit ASK.
+- 'Guillaume Canet will not come tonight.' She reveals the unexpected absence of their star client.
+- 'I know, he is filming in Ukraine.' Mathias tries to brush aside her worry with an alibi.
+- 'No, he wants to leave our agency!' Andrea drops the bombshell regarding his client's departure.
+- 'Where do you get this madness?' Mathias refuses to believe the shocking rumor.
+- 'I have excellent, well-informed sources.' She insists her insider information is solid.
+- 'Guillaume is my most loyal client.' Mathias proudly defends his special bond with the actor.
+- 'A rival agency is courting him.' Andrea warns that competitors are circling their top talent.
+- 'That is a real stab in the back!' Mathias reacts with outrage at the prospect of betrayal.
+- 'Come, we must speak discreetly.' Andrea pulls him away from listening ears.
+- 'Let us go to my office right away.' Mathias agrees to plan their defense in private. Now listen to the whole scene again at normal speed, and see how much more you catch.

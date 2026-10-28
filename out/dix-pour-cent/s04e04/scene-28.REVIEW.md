@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Taxi! Stop here, please!' Camille flags down a passing cab on the avenue. Notice how 'stop' leads directly into the noun meaning 'taxi'.
-- 'Taxi! We are in a great hurry!' Noemie cries out to signal the urgency of their trip. The key noun here means 'taxi', anchored by its matching French article.
-- 'This car passes without slowing down.' Camille laments that the driver ignored them. The verb meaning 'passes' pairs naturally with the noun for 'car' in everyday conversation.
-- 'We must find another car.' Noemie looks around frantically for another ride. The verb meaning 'must' pairs naturally with the noun for 'car' in everyday conversation.
-- 'Mathias is in danger at the hospital.' Camille acknowledges the gravity of his situation. The key noun here means 'danger', anchored by its matching French article.
-- 'I am so afraid for his life.' Noemie reveals her overwhelming dread. Notice how 'have' leads directly into the noun meaning 'fear'.
-- 'Keep your calm with me, Noemie.' Camille tries to keep her companion grounded. The verb meaning 'keep' pairs naturally with the noun for 'calm' in everyday conversation.
-- 'I do not want to lose him.' Noemie admits her profound affection for Mathias. The clause hinges on the everyday verb meaning 'want'.
-- 'Look over there, a taxi is finally arriving!' Camille notices a cab with an illuminated light. Dropping the subject pronoun turns the verb for 'look' into a direct, punchy command.
-- 'Driver, go quickly to the hospital!' Noemie shouts their critical destination. The verb meaning 'go' pairs naturally with the noun for 'driver' in everyday conversation.
-- 'Let us get into the taxi together now.' Camille gestures into the passenger seat. The verb meaning 'let us get into' pairs naturally with the noun for 'taxi' in everyday conversation.
-- 'Mathias will pull through, I hope.' Noemie prays for his recovery. The clause hinges on the everyday verb meaning 'is going to'.
-- 'We will be with him soon.' Camille comforts her as the journey begins. The clause hinges on the everyday verb meaning 'will be'.
-- 'Courage, let us arrive quickly at the hospital!' Noemie urges haste as they race through the streets. Notice how 'let us arrive' leads directly into the noun meaning 'courage'. Now let's hear the whole conversation again.
+- 'Taxi! Stop here, please!' Camille flags down a passing cab on the avenue.
+- 'Taxi! We are in a great hurry!' Noemie cries out to signal the urgency of their trip.
+- 'This car passes without slowing down.' Camille laments that the driver ignored them.
+- 'We must find another car.' Noemie looks around frantically for another ride.
+- 'Mathias is in danger at the hospital.' Camille acknowledges the gravity of his situation.
+- 'I am so afraid for his life.' Noemie reveals her overwhelming dread.
+- 'Keep your calm with me, Noemie.' Camille tries to keep her companion grounded.
+- 'I do not want to lose him.' Noemie admits her profound affection for Mathias.
+- 'Look over there, a taxi is finally arriving!' Camille notices a cab with an illuminated light.
+- 'Driver, go quickly to the hospital!' Noemie shouts their critical destination.
+- 'Let us get into the taxi together now.' Camille gestures into the passenger seat.
+- 'Mathias will pull through, I hope.' Noemie prays for his recovery.
+- 'We will be with him soon.' Camille comforts her as the journey begins.
+- 'Courage, let us arrive quickly at the hospital!' Noemie urges haste as they race through the streets. Now listen to the whole scene again at normal speed, and see how much more you catch.

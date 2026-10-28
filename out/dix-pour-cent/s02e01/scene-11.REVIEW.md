@@ -29,20 +29,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have my ticket for tomorrow?' Andréa begins with a practical administrative question.
+- 'Do you have my ticket for tomorrow?' Andrea begins with a practical administrative question.
 - 'Yes, here it is. Where are you going?' Camille hands over the travel document and asks about the destination.
-- 'To Couchey. The village of my parents.' Andréa reveals the name of her small provincial hometown.
-- 'In eight years, nobody knew where you came from.' The adverb meaning 'not' sharpens the verb for 'knew' here.
-- 'Me neither, I would like to forget.' A conditional verb expressing a strong wish to put the past behind her.
-- 'What are you going to do in Couchey?' A standard near-future question with an question word.
-- 'My mother is receiving the town medal.' Notice how the verb for 'receives' leads straight into 'town'.
+- 'To Couchey. The village of my parents.' Andrea reveals the name of her small provincial hometown.
+- 'In eight years, nobody knew where you came from.' A negative expression of time highlighting Andrea's secrecy.
+- 'Me neither, I would like to forget.' Andréa mutters that she too would love to forget her school days in Couchey.
+- 'What are you going to do in Couchey?' Camille asks curiously what Andréa is going to do in her home village.
+- 'My mother is receiving the town medal.' The present tense describes an upcoming civic ceremony.
 - 'That is classy!' Camille thinks an honorary medal sounds prestigious.
-- 'An ordeal, you mean.' Andréa immediately contradicts her with a dramatic noun.
+- 'An ordeal, you mean.' Andréa grimaces and calls the hometown ceremony a total ordeal.
 - 'Do you have a meeting with Lea Seydoux?' Camille mentions a major client filming nearby.
 - 'Yes, on her film shoot near Couchey.' The prepositional phrase meaning next to or nearby.
-- 'I booked a hotel for the night.' A compound past action using the helping verb to have.
-- 'I wanted to make a round trip in a single day!' Listen for the expression meaning 'wanted', which leads naturally into 'day'.
+- 'I booked a hotel for the night.' A compound past action using the auxiliary to have.
+- 'I wanted to make a round trip in a single day!' An imperfect expression of original intention.
 - 'But the last train leaves very early.' Camille explains the tight train schedule in Burgundy.
 - 'My parents' house depresses me.' A vivid present tense description of her family home.
-- 'Rebook a ticket!' An command form ordering an immediate change of plans.
-- 'All right, I am taking care of it right away.' Camille agrees with a useful pronominal idiom. Let's listen to Andréa and Camille one more time.
+- 'Rebook a ticket!' An imperative ordering an immediate change of plans.
+- 'All right, I am taking care of it right away.' Camille agrees with a useful pronominal idiom.

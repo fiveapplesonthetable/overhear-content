@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is my father there?' Hippolyte checks whether Mathias is at ASK. The key word here means 'father', paired with 'there' to make the point clear.
-- 'Yes.' Camille opens with the word for 'yes' and lands on 'yes' at the close.
-- 'I am not coming, then. I do not want to see him.' Listen for the expression meaning 'not', which leads naturally into 'see'.
-- 'Can we meet somewhere else?' The adverb meaning 'elsewhere' sharpens the verb for 'can' here.
+- 'Is my father there?' Hippolyte checks whether Mathias is at ASK.
+- 'Yes.' Camille confirms with a simple yes that Mathias is in the building.
+- 'I am not coming, then. I do not want to see him.' Still furious with his father, Hippolyte refuses to set foot in the office.
+- 'Can we meet somewhere else?' Camille resourcefuly suggests meeting up somewhere outside the agency instead.
 - 'Hi!' Hippolyte greets Camille warmly when she arrives at the terrace.
-- 'A coffee, please.' Camille places an order with the waiter. A concise spoken phrase built around the French noun for 'coffee'.
-- 'All right.' The key word here means 'okay', paired with 'okay' to make the point clear.
-- 'It suddenly got cold. It is hell on a scooter.' The key word here means 'has', paired with 'scooter' to make the point clear.
-- 'It is freezing on a bike. I pedal like crazy!' Notice how the verb for 'freezes' leads straight into 'bicycle'.
-- 'Here are your contracts.' A concise spoken phrase built around the French noun for 'contracts'.
-- 'My pen is not working. Sorry.' The key word here means 'pen', paired with 'sorry' to make the point clear.
-- 'My father is the one who should apologize, not you.' Listen for the expression meaning 'father', which leads naturally into 'not'.
-- 'Our father! It is so weird.' Listen for the expression meaning 'father', which leads naturally into 'weird'.
-- 'We are just going to forget about that and become friends.' Hippolyte pairs the verb meaning 'are going to' with the noun for 'friends'.
-- 'You are my sister-buddy and I am your brother-buddy!' They coin playful portmanteau words with pote.
-- 'Cheers, brother-buddy!' Listen for the expression meaning 'brother-buddy', which leads naturally into 'brother-buddy'.
+- 'A coffee, please.' Camille places an order with the waiter.
+- 'All right.' The waiter briskly acknowledges her coffee order.
+- 'It suddenly got cold. It is hell on a scooter.' Hippolyte complains about how freezing the Paris wind is on a scooter.
+- 'It is freezing on a bike. I pedal like crazy!' Camille laughs that riding a bicycle in this weather is just as freezing.
+- 'Here are your contracts.' Camille pulls the contracts out of her bag and hands them across the table.
+- 'My pen is not working. Sorry.' Hippolyte tries to sign, only to find his pen has run out of ink.
+- 'My father is the one who should apologize, not you.' Hippolyte tells Camille that Mathias is the one who owes her an apology.
+- 'Our father! It is so weird.' Camille marvels at how strange it feels to say 'our father' out loud.
+- 'We are just going to forget about that and become friends.' Hippolyte suggests putting the family drama aside and simply becoming friends.
+- 'You are my sister-buddy and I am your brother-buddy!' They invent playful nicknames blending 'sister' and 'brother' with the slang word for buddy.
+- 'Cheers, brother-buddy!' Camille clinks her coffee cup against his to toast their new friendship.

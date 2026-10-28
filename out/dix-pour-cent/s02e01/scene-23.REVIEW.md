@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ah, the sleepyhead is finally awake!' Gabriel greets Virginie as she wakes up. The adjective meaning 'awake' agrees in gender and number with feminine noun 'sleepyhead'.
-- 'Good morning Gabriel. Do you have coffee?' She immediately looks for her morning dose of coffee. The key word here means 'have', paired with 'coffee' to make the point clear.
-- 'Yes, take a cup in the kitchen.' Gabriel invites her to make herself comfortable. The adverb meaning 'yes' sharpens the verb for 'take' here.
-- 'If your agency closes, what will you do?' She asks about his plans if the agency goes bankrupt. Listen for the expression meaning 'talent agency', which leads naturally into 'to do'.
-- 'I do not know. My job is my security.' Gabriel worries about losing his steady career. Gabriel opens with the word for 'not' and lands on 'financial safety' at the close.
-- 'You could become a great actor.' Virginie teasingly proposes a dramatic career shift. Listen for the expression meaning 'could', which leads naturally into 'stage actor'.
-- 'You are completely crazy, Virginie!' Gabriel laughs at her absurd idea. The key word here means 'are', paired with 'crazy' to make the point clear.
-- 'Not at all! I can give you lessons.' She eagerly offers to act as his private mentor. Virginie pairs the verb meaning 'can' with the noun for 'lessons'.
-- 'Dance, singing, comedy!' She lists the classic disciplines of stage performance. Virginie opens with the word for 'choreography' and lands on 'acting' at the close.
-- 'The sky is purer than my heart!' She recites a dramatic classical verse to demonstrate. The adjective meaning 'clear' agrees in gender and number with masculine noun 'sky'.
-- 'You just want to make fun of me.' Gabriel suspects she is only trying to tease him. Gabriel opens with the word for 'want' and lands on 'to make fun of' at the close.
-- 'You will be magnificent on stage.' She assures him that audiences will be dazzled. The key word here means 'will be', paired with 'the stage' to make the point clear.
-- 'Come on, let's get to work right away.' She enthusiastically pushes him to begin his training. The adverb meaning 'right' sharpens the verb for 'come on' here.
-- 'All right, I am willing to try.' Gabriel gives in playfully to her theatrical coaching. Listen for the expression meaning 'wish', which leads naturally into 'to give it a try'.
+- 'Ah, the sleepyhead is finally awake!' Gabriel greets Virginie as she wakes up.
+- 'Good morning Gabriel. Do you have coffee?' She immediately looks for her morning dose of coffee.
+- 'Yes, take a cup in the kitchen.' Gabriel invites her to make herself comfortable.
+- 'If your agency closes, what will you do?' She asks about his plans if the agency goes bankrupt.
+- 'I do not know. My job is my security.' Gabriel worries about losing his steady career.
+- 'You could become a great actor.' Virginie teasingly proposes a dramatic career shift.
+- 'You are completely crazy, Virginie!' Gabriel laughs at her absurd idea.
+- 'Not at all! I can give you lessons.' She eagerly offers to act as his private mentor.
+- 'Dance, singing, comedy!' She lists the classic disciplines of stage performance.
+- 'The sky is purer than my heart!' She recites a dramatic classical verse to demonstrate.
+- 'You just want to make fun of me.' Gabriel suspects she is only trying to tease him.
+- 'You will be magnificent on stage.' She assures him that audiences will be dazzled.
+- 'Come on, let's get to work right away.' She enthusiastically pushes him to begin his training.
+- 'All right, I am willing to try.' Gabriel gives in playfully to her theatrical coaching.

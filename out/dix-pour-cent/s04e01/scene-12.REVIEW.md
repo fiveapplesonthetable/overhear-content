@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ah, I am sorry, Colette!' The descriptive adjective for 'sorry' agrees in gender and number with its noun. The descriptive adjective for 'sorry' agrees in gender and number with its noun.
-- 'You scared me in the hallway.' Colette explains her sudden shock. Notice how 'have' leads directly into the noun meaning 'fear'.
-- 'I had not seen you here.' Andrea explains why she made a noise. The clause hinges on the everyday verb meaning 'had'.
-- 'Flora woke up with a start.' Colette points to the startled baby. Notice how 'woken up' leads directly into the noun meaning 'start'.
-- 'Forgive me, I return too late.' Andrea acknowledges her late arrival. The clause hinges on the everyday verb meaning 'excuse'.
-- 'She is crying for a whole hour.' Colette describes the prolonged distress. Notice how 'cries' leads directly into the noun meaning 'hour'.
-- 'Give me the baby a moment.' Andrea offers to take the child. The verb meaning 'give' pairs naturally with the noun for 'baby' in everyday conversation.
-- 'Come here, my darling little girl.' Colette speaks tenderly to her daughter. The verb meaning 'come' pairs naturally with the noun for 'girl' in everyday conversation.
-- 'I can rock her gently.' Andrea offers a soothing gesture. The clause hinges on the everyday verb meaning 'can'.
-- 'There, there, mommy is here.' Colette reassures baby Flora softly. The key noun here means 'mommy', anchored by its matching French article.
-- 'She begins to calm down at last.' Andrea notices the baby relaxing. The short 'self' word sits right in front of the verb for 'begins', turning the action back onto the subject.
-- 'This day was very difficult.' Colette sighs under the weight of fatigue. Notice how 'has' leads directly into the noun meaning 'day'.
-- 'Rest, I take over now.' Andrea encourages Colette to take a break. The verb meaning 'rest' pairs naturally with the noun for 'shift' in everyday conversation.
-- 'Thank you Andrea, I really needed it.' Colette accepts the welcome relief. The verb meaning 'had' pairs naturally with the noun for 'thank you' in everyday conversation.
+- 'Ah, I am sorry, Colette!' Andrea expresses her immediate remorse.
+- 'You scared me in the hallway.' Colette explains her sudden shock.
+- 'I had not seen you here.' Andrea explains why she made a noise.
+- 'Flora woke up with a start.' Colette points to the startled baby.
+- 'Forgive me, I return too late.' Andrea acknowledges her late arrival.
+- 'She is crying for a whole hour.' Colette describes the prolonged distress.
+- 'Give me the baby a moment.' Andrea offers to take the child.
+- 'Come here, my darling little girl.' Colette speaks tenderly to her daughter.
+- 'I can rock her gently.' Andrea offers a soothing gesture.
+- 'There, there, mommy is here.' Colette reassures baby Flora softly.
+- 'She begins to calm down at last.' Andrea notices the baby relaxing.
+- 'This day was very difficult.' Colette sighs under the weight of fatigue.
+- 'Rest, I take over now.' Andrea encourages Colette to take a break.
+- 'Thank you Andrea, I really needed it.' Colette accepts the welcome relief.

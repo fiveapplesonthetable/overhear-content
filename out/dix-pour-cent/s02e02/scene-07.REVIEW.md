@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'How is your mother?' Mathias gently asks about Catherine's mental state after their separation.
 - 'Bromazepam has become her best friend.' Hippolyte describes his mother's heavy reliance on tranquilizers.
-- 'It is always very awkward.' Hippolyte opens with the word for 'is' and lands on 'awkward.' at the close.
-- 'In any case you are here.' Listen for the expression meaning 'case', which leads naturally into 'here.'.
-- 'I need to get some distance.' The key word here means 'I have', paired with 'distance.' to make the point clear.
+- 'It is always very awkward.' In the elevator, Hippolyte admits things are still awkward with his father.
+- 'In any case you are here.' Mathias replies quietly that at least Hippolyte came to the building today.
+- 'I need to get some distance.' Hippolyte explains that he still needs some distance from his father.
 - 'I spend a lot of time at my girlfriend\'s place.' Hippolyte explains why he has been avoiding the family apartment.
 - 'You have a girlfriend?' Mathias is surprised by this unexpected news about his son's personal life.
-- 'Yes, it is very recent.' Hippolyte opens with the word for 'yes' and lands on 'recent.' at the close.
+- 'Yes, it is very recent.' The adjective recent describes something that happened very recently.
 - 'Well, I will get going.' Hippolyte prepares to exit as the elevator arrives at the lobby.
 - 'We will call each other? Of course.' Father and son promise to stay in touch by telephone.
-- 'Goodbye... Good luck for tonight!' The key word here means 'seeing again...', paired with 'evening!' to make the point clear.
+- 'Goodbye... Good luck for tonight!' As the elevator doors close, Hippolyte wishes his father good luck for tonight.
 - 'Pardon, excuse me, Mathias.' Camille politely interrupts her father in the corridor.
-- 'I am putting through your next call.' Notice how the verb for 'put through' leads straight into 'call.'.
+- 'I am putting through your next call.' Back at his desk, Camille puts Mathias's next phone call through.

@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The interviews will take place in my office.' Hicham asserts his control over the junior agent recruitment process.
 - 'I want an agent with me.' Hicham requires one senior agent to sit in on each interview session.
 - 'We will choose the best candidate together.' Hicham promises a joint decision on the new hire.
-- 'Shall we start right away, Marteau?' Hicham playfully uses Andréa's old nickname to prompt her.
-- 'No, I am not available.' Andréa promptly rebuffs Hicham's request with cool indifference.
+- 'Shall we start right away, Marteau?' Hicham playfully uses Andrea's old nickname to prompt her.
+- 'No, I am not available.' Andrea promptly rebuffs Hicham's request with cool indifference.
 - 'Fine, with another candidate then.' Hicham tries to accommodate her schedule without backing down.
-- 'Not before next week.' Andréa pushes back the timeline to protect her independence.
+- 'Not before next week.' Andrea pushes back the timeline to protect her independence.
 - 'We have ten candidates in total.' Gabriel chimes in to clarify the total number of applicant files.
-- 'You do three of them with me.' Hicham bargains firmly on the minimum number of interviews Andréa must attend.
-- 'All right, I will do two candidates.' Andréa yields slightly but caps her participation at two.
-- 'But I am the one who decides when.' Andréa maintains the upper hand by dictating the schedule.
+- 'You do three of them with me.' Hicham bargains firmly on the minimum number of interviews Andrea must attend.
+- 'All right, I will do two candidates.' Andrea yields slightly but caps her participation at two.
+- 'But I am the one who decides when.' Andrea maintains the upper hand by dictating the schedule.
 - 'Perfect, interviews in my office.' Hicham accepts the compromise while keeping the meetings on his turf.
-- 'Here, have some coffee.' Gabriel breaks the lingering tension by offering Andréa a cup of coffee.
+- 'Here, have some coffee.' Gabriel breaks the lingering tension by offering Andrea a cup of coffee.

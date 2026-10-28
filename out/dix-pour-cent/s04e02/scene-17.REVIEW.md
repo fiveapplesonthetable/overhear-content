@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have to work on my diction.' Dylan worries about his vocal articulation. Notice how 'must' leads directly into the noun meaning 'diction'.
-- 'Excuse me? Everyone understands you.' Franck brushes aside Dylan's self-criticism. The verb meaning 'understands' pairs naturally with the noun for 'pardon' in everyday conversation.
-- 'I am not really an actor.' Dylan feels fraudulent despite his accolades. Notice the classic French sandwich negation wrapping right around 'the verb'.
-- 'You won a fine Cesar!' Franck points to Dylan's prestigious award. This conversational past tense combines a helper verb with the past verb form for 'won'.
-- 'I only got lucky.' Dylan attributes his success to sheer coincidence. This conversational past tense combines a helper verb with the past verb form for 'had'.
-- 'You have thousands of offers.' Franck reminds him of numerous script invitations. Franck uses the casual singular 'you' with 'have', showing close familiarity.
-- 'I am terrified for my future.' Dylan confesses his dread of taking risks. Notice how 'freak out' leads directly into the noun meaning 'future'.
-- 'You stay in your comfort zone.' Franck analyzes Dylan's protective instincts. Franck uses the casual singular 'you' with 'stay', showing close familiarity.
-- 'How did you start this profession?' Dylan seeks guidance from Franck's journey. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'I was assistant to a magician!' Franck recounts his colorful early career. Notice how 'was' leads directly into the noun meaning 'assistant'.
-- 'And are you still afraid?' Dylan wonders if experience banishes anxiety. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'I still get terrified sometimes.' Franck normalizes fear as part of acting. The verb meaning 'have' pairs naturally with the noun for 'terror' in everyday conversation.
-- 'You must never hesitate to try.' Franck urges creative fearlessness. The clause hinges on the everyday verb meaning 'is necessary'.
-- 'Thank you Franck, this advice reassures me.' Dylan gains fresh courage. The short 'self' word sits right in front of the verb for 'reassures', turning the action back onto the subject.
+- 'I have to work on my diction.' Dylan worries about his vocal articulation.
+- 'Excuse me? Everyone understands you.' Franck brushes aside Dylan's self-criticism.
+- 'I am not really an actor.' Dylan feels fraudulent despite his accolades.
+- 'You won a fine Cesar!' Franck points to Dylan's prestigious award.
+- 'I only got lucky.' Dylan attributes his success to sheer coincidence.
+- 'You have thousands of offers.' Franck reminds him of numerous script invitations.
+- 'I am terrified for my future.' Dylan confesses his dread of taking risks.
+- 'You stay in your comfort zone.' Franck analyzes Dylan's protective instincts.
+- 'How did you start this profession?' Dylan seeks guidance from Franck's journey.
+- 'I was assistant to a magician!' Franck recounts his colorful early career.
+- 'And are you still afraid?' Dylan wonders if experience banishes anxiety.
+- 'I still get terrified sometimes.' Franck normalizes fear as part of acting.
+- 'You must never hesitate to try.' Franck urges creative fearlessness.
+- 'Thank you Franck, this advice reassures me.' Dylan gains fresh courage.

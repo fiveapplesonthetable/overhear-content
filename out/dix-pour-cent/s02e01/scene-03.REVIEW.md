@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is Camille here? Where is she?' Gabriel asks two quick questions about his missing assistant.
-- 'Camille has not arrived yet.' A negative compound past construction with a temporal adverb.
-- 'Let's meet at the cafe like the first time.' A pronominal reciprocal verb in the present tense with a comparative phrase.
-- 'Wait, isn't your name Laurence?' An command form followed by a pronominal verb in a negative question.
-- 'No, Laura Smet does not live here.' A negative present tense statement clarifying agency reality to a fan.
-- 'You can send mail for her.' A modal verb expressing permission or possibility followed by an infinitive.
+- 'Camille has not arrived yet.' Noémie informs Gabriel that Camille has not arrived at the office yet.
+- 'Let's meet at the cafe like the first time.' Gabriel leaves a voice message proposing they meet at the café like the very first time.
+- 'Wait, isn't your name Laurence?' Gabriel stops a passing visitor and asks if her name is Laurence.
+- 'No, Laura Smet does not live here.' Noémie explains to the fan at reception that Laura Smet does not live at the agency.
+- 'You can send mail for her.' Noémie tells the fan politely that she can leave mail for the actress instead.
 - 'Hello Noémie, the best for last!' A cheerful workplace greeting followed by a classic proverb.
 - 'You smell very good today.' The sensory verb meaning to smell followed by a quality adverb.
-- 'It is Lea Seydoux's perfume.' A pointing word presentative introducing a celebrity possession.
-- 'You smell like a real star!' A comparative linking word followed by a feminine adjective and noun.
-- 'Noémie, I have things for you.' A straightforward sentence with the verb to have and an indirect linking word.
-- 'Look at the cover of this magazine!' An command form plural addressing colleagues with a pointing word adjective.
+- 'It is Lea Seydoux's perfume.' A demonstrative presentative introducing a celebrity possession.
+- 'You smell like a real star!' A comparative preposition followed by a feminine adjective and noun.
+- 'Noémie, I have things for you.' Gabriel hands Noémie a stack of folders to process.
+- 'Look at the cover of this magazine!' Noémie gasps and tells everyone to look at the cover of the gossip magazine.
 - 'Virginie Efira's new passion?' A sensational headline repeated as an incredulous question.
 - 'Darn! It is a disaster for the agency.' An exclamation of frustration followed by an evaluation noun.

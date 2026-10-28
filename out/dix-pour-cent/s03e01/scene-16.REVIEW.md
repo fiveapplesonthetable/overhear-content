@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The end of The Deserter calls for a celebration!' Jean rejoices as the grueling shoot wraps up. The short 'self' word sits right in front of the verb for 'is celebrated', turning the action back onto the subject.
-- 'It is an excellent Grand Cru!' He presents a fine bottle of celebratory vintage wine. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'To the end of this fine film!' Jean raises a glass in an enthusiastic wrap toast. The descriptive adjective for 'fine' agrees in gender and number with its noun.
-- 'I toast, but I do not drink.' He adheres strictly to his sobriety pledge. Notice the classic French sandwich negation wrapping right around 'raise my glass'.
-- 'Solveig was clear: no alcohol.' Jean respects director Solveig Akerfeld's firm instruction. This conversational past tense combines a helper verb with the past verb form for 'been'.
-- 'Solveig, can you hear me well?' He checks the connection on a video call to his director. The clause hinges on the everyday verb meaning 'hear'.
-- 'Jean, I hear you very well.' Solveig confirms the transatlantic video connection. The clause hinges on the everyday verb meaning 'hear'.
-- 'It was an incredible shoot, right?' Jean reminisces about their shared cinematic intensity. The descriptive adjective for 'extraordinary' agrees in gender and number with its noun.
-- 'It is thanks to your remarkable work.' Solveig compliments his extraordinary artistic dedication. Solveig uses the casual singular 'you' with 'acting performance', showing close familiarity.
-- 'A shoot has a beginning and an end.' She gently reminds him that cinematic projects are temporary. Notice how 'has' leads directly into the noun meaning 'movie production'.
-- 'And today, it is truly finished.' Solveig firmly signals that his role has concluded. This conversational past tense combines a helper verb with the past verb form for 'ended'.
-- 'We could make The Deserter 2!' Jean impulsively pitches an unnecessary movie sequel. The clause hinges on the everyday verb meaning 'could'.
-- 'No, there is only one Deserter.' Solveig dismisses any sequel talk immediately. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'Move on, make other films!' She urges him to accept new projects and roles. Notice how 'move on' leads directly into the noun meaning 'matters'.
-- 'We would have even more wild forests!' Jean passionately envisions more extreme wilderness survival. The descriptive adjective for 'untamed' agrees in gender and number with its noun. Now let's hear the whole conversation again.
+- 'The end of The Deserter calls for a celebration!' Jean rejoices as the grueling shoot wraps up.
+- 'It is an excellent Grand Cru!' He presents a fine bottle of celebratory vintage wine.
+- 'To the end of this fine film!' Jean raises a glass in an enthusiastic wrap toast.
+- 'I toast, but I do not drink.' He adheres strictly to his sobriety pledge.
+- 'Solveig was clear: no alcohol.' Jean respects director Solveig Akerfeld's firm instruction.
+- 'Solveig, can you hear me well?' He checks the connection on a video call to his director.
+- 'Jean, I hear you very well.' Solveig confirms the transatlantic video connection.
+- 'It was an incredible shoot, right?' Jean reminisces about their shared cinematic intensity.
+- 'It is thanks to your remarkable work.' Solveig compliments his extraordinary artistic dedication.
+- 'A shoot has a beginning and an end.' She gently reminds him that cinematic projects are temporary.
+- 'And today, it is truly finished.' Solveig firmly signals that his role has concluded.
+- 'We could make The Deserter 2!' Jean impulsively pitches an unnecessary movie sequel.
+- 'No, there is only one Deserter.' Solveig dismisses any sequel talk immediately.
+- 'Move on, make other films!' She urges him to accept new projects and roles.
+- 'We would have even more wild forests!' Jean passionately envisions more extreme wilderness survival. Now listen to the whole scene again at normal speed, and see how much more you catch.

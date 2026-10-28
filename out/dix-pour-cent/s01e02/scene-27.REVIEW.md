@@ -31,16 +31,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why not take them both?' Notice the shape: 'why' plus 'not' plus a verb in its basic form. It's a neat way to suggest an idea. Gabor can't believe his ears.
+- 'Why not take them both?' Notice the shape: 'why' plus 'not' plus an action word in its basic form. It's a neat way to suggest an idea. Gabor can't believe his ears.
 - 'Both of them?' Literally 'the two'. It's the same phrase as at the end of Andréa's question.
 - 'Bonnie and Clyde at eighty, with two women!' The famous couple of robbers, but old, and both played by women. The number eighty in French is literally 'four twenties', an old way of counting.
-- 'It becomes modern.' A short sentence with a useful verb, 'to become'. Gabor wants to be sure he understood.
+- 'It becomes modern.' A short sentence with a useful action word, 'to become'. Gabor wants to be sure he understood.
 - 'You mean a real couple of women?' Literally 'you want to say'. That's how French says 'you mean'. Gabor uses the polite 'you' with the agents: this is business.
 - 'Yes. Line Renaud and Françoise Fabian.' Andréa names the two stars, who are standing just across the room. Gabriel joins in.
 - 'We've just seen them.' The verb 'to come' plus 'of' plus a verb means 'to have just done something'. Here the little word at the start means 'we', the everyday way to say it.
 - 'Each one is a star.' The first word is the feminine 'each one', because he's talking about two women.
 - 'But together…' He leaves the sentence hanging, so Gabor can imagine the rest.
-- 'Did you see that?' Andréa means the tribute, where the two actresses moved the whole room. It's the past tense with 'have' plus 'seen'. Gabor starts to warm up.
+- 'Did you see that?' Andréa means the tribute, where the two actresses moved the whole room.
 - 'That's not bad.' Here's a grammar point: two little words wrap around the verb to make it negative. In everyday speech the first one often disappears, but you'll always see both in writing. And 'not bad' in French can mean 'pretty good'.
 - 'It's totally unexpected.' He's getting excited now.
 - 'Everyone will talk about it.' Literally 'all the world'. The verb is in the future: the ending tells you it hasn't happened yet. Andréa seizes the moment.

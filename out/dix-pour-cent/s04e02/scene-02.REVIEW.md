@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias's former talents hesitate a lot.' A concerning report noting client instability across the agency's roster. Notice how 'hesitate' leads directly into the noun meaning 'talents'.
-- 'They all demand senior agents.' A professional hurdle showing client reluctance to trust junior representatives. The descriptive adjective for 'experienced' agrees in gender and number with its noun.
-- 'You must show much more confidence.' An empowering piece of advice urging the young agents to project authority. Andrea uses the polite 'you' form alongside 'must' to keep a respectful professional tone.
-- 'Set up meetings with the partners.' A practical operational tactic leveraging senior partner presence to reassure clients. Notice how 'organize' leads directly into the noun meaning 'appointments'.
-- 'Sofia succeeded in a wonderful audition.' A welcome piece of good news celebrating an assistant-turned-actress's triumph. The verb meaning 'has' pairs naturally with the noun for 'casting call' in everyday conversation.
-- 'She will soon act with Fabrice Luchini.' The clause hinges on the everyday verb meaning 'will act'.
-- 'On the other hand, Francois Cluzet leaves us.' A sobering announcement confirming the departure of a major movie star. The verb meaning 'leave' pairs naturally with the noun for 'revenge' in everyday conversation.
-- 'He wants no agent anymore from now on.' A definitive break indicating the actor's choice to work independently. The two-part negative structure wraps around 'wants' to express 'no longer' or 'not anymore'.
-- 'We cannot lose everything.' An urgent acknowledgment that consecutive departures will imperil the firm. Notice the classic French sandwich negation wrapping right around 'can'.
-- 'How is Dany's case coming along?' The key noun here means 'case', anchored by its matching French article. The key noun here means 'case', anchored by its matching French article.
-- 'He is currently filming in New York.' A status report noting geographical distance complicating ongoing negotiations. The clause hinges on the everyday verb meaning 'shoots'.
-- 'Losing Dany would permanently close our agency.' A stark financial truth highlighting the existential risk facing ASK. Notice how 'to lose' leads directly into the noun meaning 'talent firm'.
-- 'I will contact him tonight.' A dedicated initiative volunteering to reach out across time zones. Notice how 'am going' leads directly into the noun meaning 'evening hours'.
-- 'Fight for each contract without faltering.' An inspiring battle cry mobilizing the entire staff for the fight ahead. Notice how 'fight' leads directly into the noun meaning 'business contract'.
+- 'Mathias's former talents hesitate a lot.' A concerning report noting client instability across the agency's roster.
+- 'They all demand senior agents.' A professional hurdle showing client reluctance to trust junior representatives.
+- 'You must show much more confidence.' An empowering piece of advice urging the young agents to project authority.
+- 'Set up meetings with the partners.' A practical operational tactic leveraging senior partner presence to reassure clients.
+- 'Sofia succeeded in a wonderful audition.' A welcome piece of good news celebrating an assistant-turned-actress's triumph.
+- 'She will soon act with Fabrice Luchini.' An exciting confirmation of a prestigious high-profile film collaboration.
+- 'On the other hand, Francois Cluzet leaves us.' A sobering announcement confirming the departure of a major movie star.
+- 'He wants no agent anymore from now on.' A definitive break indicating the actor's choice to work independently.
+- 'We cannot lose everything.' An urgent acknowledgment that consecutive departures will imperil the firm.
+- 'How is Dany's case coming along?' A strategic inquiry regarding the agency's most commercially valuable client.
+- 'He is currently filming in New York.' A status report noting geographical distance complicating ongoing negotiations.
+- 'Losing Dany would permanently close our agency.' A stark financial truth highlighting the existential risk facing ASK.
+- 'I will contact him tonight.' A dedicated initiative volunteering to reach out across time zones.
+- 'Fight for each contract without faltering.' An inspiring battle cry mobilizing the entire staff for the fight ahead.

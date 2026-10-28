@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gabriel, hello!' Guy greets his agent as he walks in. The direct address acknowledges Gabriel upon arrival.
-- 'Well, I am going to my office.' Arlette tactfully withdraws to give them privacy. The directional linking word indicates movement inside.
-- 'You were talking about me, right?' Guy suspects they were discussing his health. The adverb meaning 'right' sharpens the verb for 'were talking' here.
-- 'No, we were talking about me!' Gabriel deflects Guy's suspicion with humor. The emphasis word redirects attention to himself.
-- 'I was saying that I am taking up the ukulele.' Gabriel fabricates a silly hobby to ease the mood. The reflexive verb construction means taking up an activity.
-- 'Everyone loves you here, Guy.' Arlette warmly reassures the veteran actor before leaving. The universal pronoun emphasizes complete support.
-- 'Everyone says that I am finished.' Guy voices his deep fear of being sidelined. The verb meaning 'says' anchors the whole remark.
-- 'I know how it goes!' He claims to see through their polite reassurances. The pointing word pronoun refers to the reality of show business.
-- 'No, you are imagining things.' Gabriel tries to calm Guy's anxieties. Listen for the expression meaning 'no', which leads naturally into 'things'.
-- 'I was not born yesterday.' Guy uses a classic French idiom to assert his savvy. The idiomatic expression literally translates as born of the last rain.
-- 'One thing is clear: I am going to make this film!' Guy asserts his determination. The near-future verb form expresses firm intent.
-- 'I can do it and I will do it.' Guy forcefully repeats his commitment. The modal and future verbs emphasize capability and resolve.
-- 'I understand, but what if it happens again?' Gabriel gently raises the risk of another memory lapse. Listen for the expression meaning 'understand', which leads naturally into 'happens again'.
-- 'Compared to Pialat, this is a walk in the park!' Guy laughs off the pressure by invoking a notoriously tough director. The idiomatic expression denotes an easy or enjoyable task.
+- 'Gabriel, hello!' Guy greets his agent as he walks in.
+- 'Well, I am going to my office.' Arlette tactfully withdraws to give them privacy.
+- 'You were talking about me, right?' Guy suspects they were discussing his health.
+- 'No, we were talking about me!' Gabriel deflects Guy's suspicion with humor.
+- 'I was saying that I am taking up the ukulele.' Gabriel fabricates a silly hobby to ease the mood.
+- 'Everyone loves you here, Guy.' Arlette warmly reassures the veteran actor before leaving.
+- 'Everyone says that I am finished.' Guy voices his deep fear of being sidelined.
+- 'I know how it goes!' He claims to see through their polite reassurances.
+- 'No, you are imagining things.' Gabriel tries to calm Guy's anxieties.
+- 'I was not born yesterday.' Guy uses a classic French idiom to assert his savvy.
+- 'One thing is clear: I am going to make this film!' Guy asserts his determination.
+- 'I can do it and I will do it.' Guy forcefully repeats his commitment.
+- 'I understand, but what if it happens again?' Gabriel gently raises the risk of another memory lapse.
+- 'Compared to Pialat, this is a walk in the park!' Guy laughs off the pressure by invoking a notoriously tough director.

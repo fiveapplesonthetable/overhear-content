@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you see that, Andrea?' Colette points out the sudden change in Flora's behavior. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'She stops crying in your arms.' Andrea confirms the soothing effect of physical contact. Andrea uses the casual singular 'you' with 'stops', showing close familiarity.
-- 'She needs our presence.' Colette emphasizes parental comfort. Notice how 'has' leads directly into the noun meaning 'need'.
-- 'These are release crying episodes.' Andrea introduces a pediatric concept. The key noun here means 'tears', anchored by its matching French article.
-- 'What does that mean?' Colette asks for clarification. In spoken French, the little word before 'wants' drops its final vowel and attaches with an apostrophe.
-- 'The baby releases all its stress.' Andrea explains the physiological process. The verb meaning 'releases' pairs naturally with the noun for 'baby' in everyday conversation.
-- 'Is that a very good sign?' Colette wonders if it indicates healthy development. The descriptive adjective for 'good' agrees in gender and number with its noun.
-- 'Quite the opposite, it is anxiety.' Andrea corrects the misunderstanding. The key noun here means 'opposite', anchored by its matching French article.
-- 'Where did you learn all these theories?' Colette asks about the source of knowledge. Inverting the verb and pronoun around 'have' creates a crisp, polished question.
-- 'The book is on your desk.' Andrea mentions the parenting guide. The informal 'you' form around 'book' marks a direct, personal relationship.
-- 'Yes, it is great, this book!' Colette confirms having seen the volume. The key noun here means 'book', anchored by its matching French article.
-- 'One must read it very attentively.' Andrea encourages careful study. The clause hinges on the everyday verb meaning 'must'.
-- 'I am going to bed now.' Colette heads to the bedroom to rest. The short 'self' word sits right in front of the verb for 'am going', turning the action back onto the subject.
-- 'Good night, sleep well tonight.' Andrea offers loving parting wishes. Notice how 'sleep' leads directly into the noun meaning 'night'.
+- 'Did you see that, Andrea?' Colette points out the sudden change in Flora's behavior.
+- 'She stops crying in your arms.' Andrea confirms the soothing effect of physical contact.
+- 'She needs our presence.' Colette emphasizes parental comfort.
+- 'These are release crying episodes.' Andrea introduces a pediatric concept.
+- 'What does that mean?' Colette asks for clarification.
+- 'The baby releases all its stress.' Andrea explains the physiological process.
+- 'Is that a very good sign?' Colette wonders if it indicates healthy development.
+- 'Quite the opposite, it is anxiety.' Andrea corrects the misunderstanding.
+- 'Where did you learn all these theories?' Colette asks about the source of knowledge.
+- 'The book is on your desk.' Andrea mentions the parenting guide.
+- 'Yes, it is great, this book!' Colette confirms having seen the volume.
+- 'One must read it very attentively.' Andrea encourages careful study.
+- 'I am going to bed now.' Colette heads to the bedroom to rest.
+- 'Good night, sleep well tonight.' Andrea offers loving parting wishes.

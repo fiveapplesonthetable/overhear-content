@@ -50,11 +50,11 @@ WALK = [
     (10, None, "'It has nothing to do with me?' Literally 'that has nothing to see with me'. She's giving him one last chance."),
     (11, 'Pas du tout!', "'Not at all!' A strong, useful way to say no."),
     (11, 'Elle a dit que tu étais fantastique.', "'She said you were fantastic.' The second verb is in the past form French uses for descriptions, 'you were'."),
-    (12, None, "'I know you're disappointed, but we'll bounce back.' The word for 'disappointed' ends with an extra letter because Cécile is a woman. And 'we're going to', plus a verb, is the easy way to talk about the future."),
+    (12, None, "'I know you're disappointed, but we'll bounce back.' The word for 'disappointed' ends with an extra letter because Cécile is a woman."),
     (13, None, "'Do you know how much I wanted this part?' Another descriptive past form, for a wish that lasted a long time. Then she gets up."),
     (16, None, "'You are a liar! It is because of my age, right?' Almost the same question Mathias asked Camille earlier, in a very different mood."),
     (15, None, "'I'm changing agents.' Short and final."),
     (17, None, "'You're a liar and a coward.' Two hard words, but no swearing: Cécile doesn't need it."),
     (17, None, "'I know it's because of my age.' So she knew all along."),
-    (17, None, "'Why give you ten percent if you don't stand up for me?' Ten percent is what an agent earns, and it's the name of the show. And with that, Cécile walks out of the restaurant. Now the whole scene once more, straight through. Let's listen to the whole scene once more without interruption."),
+    (17, None, "'Why give you ten percent if you don't stand up for me?' Ten percent is what an agent earns, and it's the name of the show. And with that, Cécile walks out of the restaurant."),
 ]

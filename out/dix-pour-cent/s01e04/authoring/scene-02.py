@@ -35,7 +35,7 @@ STORY = [
     ('gabriel', 'Jamais avec mes clientes!', 'Never with my clients!', [(83, 'Jamais avec mes clientes')], ''),
 ]
 WALK = [
-    (0, None, "'ASK, hello. Yes, I'll put you through to her.' Literally 'I pass her to you', with both pronouns stacked before the verb."),
+    (0, None, "'ASK, hello. Yes, I'll put you through to her.' Literally 'I pass her to you', with both short words stacked right before the action word."),
     (1, None, "'Gabriel! Here are my new photos.' The word for 'new' is in its feminine plural form to match 'photos', and stands before the noun."),
     (2, None, "'They're in black and white.' Literally 'in black and white', the same order as in English."),
     (3, None, "'Do you think they're good?' Sofia is nervous: she worries you can see her gums too much."),
@@ -43,7 +43,7 @@ WALK = [
     (5, None, "'Really?' One word, asking if he truly means it."),
     (6, None, "'You're photogenic.' The camera loves her, just as he saw on stage at the theatre."),
     (7, None, "'I like the look in your eyes, and the smile too.' French uses 'the eyes' where English says 'your eyes'."),
-    (8, None, "'Well, you're beautiful.' Notice how 'well' sets up the clause and leads naturally into 'beautiful'."),
+    (8, None, "'Well, you're beautiful.' Notice how Gabriel suddenly switches from the casual 'you' back to the polite 'you': paying her a compliment makes him shy."),
     (9, None, "'It's simple and natural.' Both adjectives stay in the masculine singular after 'it is'."),
     (10, None, "'You have grace. Yes, that's it, grace.' The two words before 'grace' mean 'some', used before an abstract quality."),
     (11, None, "'Thank you, Gabriel!' Sofia is glowing as the lift doors open."),

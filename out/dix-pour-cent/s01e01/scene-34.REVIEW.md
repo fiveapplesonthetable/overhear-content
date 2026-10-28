@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'When are you going to the clinic?' The question word for 'when' sits at the very end, which is how people really talk. She answers in one word.
 - 'Tomorrow. No comment?' She is waiting for him to object, and he doesn't.
-- 'No, I understand why you're doing it.' The small word just before the last verb means 'it', the operation. It comes before the verb, not after it as in English.
+- 'No, I understand why you're doing it.' The small word just before the last action word means 'it', the operation. It comes before the action word, not after it as in English.
 - 'Mathias found it.' Literally 'it's Mathias who found it'. That shape puts the spotlight on one person, and Gabriel hears the name of his rival very clearly.
-- 'Can you come with me? I'm scared.' To be afraid, French says 'I have fear'. The same verb gives you 'I'm hungry' and 'I'm cold' as well.
+- 'Can you come with me? I'm scared.' To be afraid, French says 'I have fear'.
 - 'We'll see.' A classic way of not saying yes. She repeats it back to him, mocking him a little.
 - 'Thanks for the lift.' The next day, he has driven her after all. They stand outside the clinic, and he looks miserable.
-- 'Don't make that face.' An order in the casual form, made negative. The negation wraps around the verb, just as in any other sentence.
+- 'Don't make that face.' An order in the casual form, made negative.
 - 'I've made my decision.' Literally 'I have taken my decision'. French takes a decision where English makes one.
 - 'You're right. Everybody does it.' Another idea with 'to have': in French you have reason, which means you're right. He is trying hard to sound supportive.
 - 'I'll call you afterwards. Okay?' The present tense is perfectly normal for something that will happen soon.
@@ -47,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm not doing it. Never!' First the negation around the verb, then the word for 'never' on its own, as a complete answer.
 - 'I knew it! You're a great actress.' The word for 'great' comes before the noun here, and it is feminine to match the actress. Then Cécile asks him something important.
 - 'Gabriel, my guardian angel, will you be my agent?' A question in the casual form, just by raising the voice at the end. She wants him back.
-- 'You bet!' Literally 'and how!'. It's a happy, enthusiastic yes. Here's the scene again from the beginning, straight through. Now hear the entire conversation again from the top.
+- 'You bet!' Literally 'and how!'. It's a happy, enthusiastic yes.

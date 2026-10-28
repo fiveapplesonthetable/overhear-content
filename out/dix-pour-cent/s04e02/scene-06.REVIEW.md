@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Watch out when Vincent speaks at lunchtime.' Justine alerts Noemie about an eccentric coworker in the dining hall. The verb meaning 'pay' pairs naturally with the noun for 'attention' in everyday conversation.
-- 'Why? What is his problem?' Noemie questions what makes this colleague difficult to talk to. The key noun here means 'problem?', anchored by its matching French article.
-- 'He has terrible bad breath!' Justine warns her about Vincent's unpleasant breath. Notice how 'has' leads directly into the noun meaning 'breath'.
-- 'Thank you very much for this warning.' Noemie receives the office tip with good humor. The key noun here means 'thank you', anchored by its matching French article.
-- 'Between assistants, we must stick together.' Justine expresses mutual solidarity among company assistants. The verb meaning 'is necessary' pairs naturally with the noun for 'assistants' in everyday conversation.
-- 'But I am no longer an assistant!' Noemie clarifies that her status has fundamentally changed. The key noun here means 'assistant!', anchored by its matching French article.
-- 'Really? What job do you hold now?' Justine asks about her actual responsibilities in the company. This conversational past tense combines a helper verb with the past verb form for 'do you occupy'.
-- 'I am head of project development.' Noemie announces her promotion to Head of Development. The key noun here means 'head', anchored by its matching French article.
-- 'Congratulations on this fine quick promotion!' Justine offers polite words while registering the news. The adjective meaning 'fine' takes its feminine form here to match the noun it describes.
-- 'Some people say that you were fast-tracked.' Justine admits that rumors circulate regarding Mathias's favoritism. The informal 'you' form around 'say' marks a direct, personal relationship.
-- 'I have been working hard for years.' Noemie reminds her of six intense years proving her skills at ASK. The verb meaning 'have been working' pairs naturally with the noun for 'years.' in everyday conversation.
-- 'Enjoy your lunch darling, have a good day!' Mathias walks past and uses a pet name in public. Notice how 'have' leads directly into the noun meaning 'appetite'.
-- 'Thank you Mr. Barneville, enjoy your lunch too.' Noemie quickly responds with formal deference to maintain boundaries. The descriptive adjective for 'good' agrees in gender and number with its noun.
+- 'Watch out when Vincent speaks at lunchtime.' Justine alerts Noemie about an eccentric coworker in the dining hall.
+- 'Why? What is his problem?' Noemie questions what makes this colleague difficult to talk to.
+- 'He has terrible bad breath!' Justine warns her about Vincent's unpleasant breath.
+- 'Thank you very much for this warning.' Noemie receives the office tip with good humor.
+- 'Between assistants, we must stick together.' Justine expresses mutual solidarity among company assistants.
+- 'But I am no longer an assistant!' Noemie clarifies that her status has fundamentally changed.
+- 'Really? What job do you hold now?' Justine asks about her actual responsibilities in the company.
+- 'I am head of project development.' Noemie announces her promotion to Head of Development.
+- 'Congratulations on this fine quick promotion!' Justine offers polite words while registering the news.
+- 'Some people say that you were fast-tracked.' Justine admits that rumors circulate regarding Mathias's favoritism.
+- 'I have been working hard for years.' Noemie reminds her of six intense years proving her skills at ASK.
+- 'Enjoy your lunch darling, have a good day!' Mathias walks past and uses a pet name in public.
+- 'Thank you Mr. Barneville, enjoy your lunch too.' Noemie quickly responds with formal deference to maintain boundaries.

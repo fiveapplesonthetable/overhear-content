@@ -30,18 +30,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'A singing prisoner, that is very original.' Gabriel comments on the unusual premise of the film.
-- 'Do not pay attention to the dress.' Listen for the expression meaning 'pay', which leads naturally into 'dress'.
-- 'It is a short film without money.' The compound noun court-metrage meaning a short movie.
+- 'Do not pay attention to the dress.' Feeling shy about her old audition tape, Sofia tells Gabriel not to look at her dress.
+- 'It is a short film without money.' She explains that it was a student short film made with no budget.
 - 'Are you still his assistant?' Gabriel asks about her previous administrative job.
-- 'No, not anymore.' The key word here means 'no', paired with 'now' to make the point clear.
-- 'This passage is funny, look.' Sofia points out a humorous moment with an command form.
-- 'Shall we do this later?' Sofia opens with the word for 'do' and lands on 'late' at the close.
+- 'No, not anymore.' Sofia answers quietly that she no longer works as that director's assistant.
+- 'This passage is funny, look.' Sofia points out a funny moment on the screen and tells Gabriel to look.
+- 'Shall we do this later?' Embarrassed by seeing herself on screen, Sofia suggests watching it another time.
 - 'No, let us continue, it is fine.' Gabriel insists on continuing the viewing.
-- 'You missed something important.' Sofia opens with the word for 'have' and lands on 'important' at the close.
-- 'I am going back a little.' Listen for the expression meaning 'come back', which leads naturally into 'backward'.
-- 'We resume here, watch closely.' The adverb meaning 'here' sharpens the verb for 'resume' here.
-- 'This passage is really good.' Sofia pairs the verb meaning 'is' with the noun for 'scene'.
+- 'You missed something important.' Sofia notices Gabriel looking at her instead of the screen and says he missed a key moment.
+- 'I am going back a little.' She rewinds the video slightly so he can see the scene properly.
+- 'We resume here, watch closely.' Sofia restarts the playback and tells him to watch closely.
+- 'This passage is really good.' She points out that this part of the scene turned out really well.
 - 'Are you okay, Sofia?' Gabriel checks on her feelings with a familiar question.
-- 'Yes, I am moved.' A feminine past verb form expressing tender emotion.
-- 'It is wonderful, Sofia.' An appreciative evaluative adjective.
+- 'Yes, I am moved.' Sofia admits softly that watching the old film makes her emotional.
+- 'It is wonderful, Sofia.' Gabriel tells her warmly that her performance is wonderful.
 - 'You are really wonderful.' Gabriel addresses Sofia with sincere romantic admiration.

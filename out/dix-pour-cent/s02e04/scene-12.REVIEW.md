@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This way, miss, please.' Gabriel politely guides Eugenie toward the office. Gabriel pairs the verb meaning 'pleases' with the noun for 'miss'.
-- 'Thank you very much. Hello.' Eugenie replies courteously. The polite opening greeting is preceded by warm thanks.
-- 'What did you say to her, Noémie?' Gabriel questions Noémie's suspicious interference. Listen for the expression meaning 'have', which leads naturally into 'said'.
-- 'I gave her a little tip to succeed.' Noémie innocently disguises her sabotage. Noémie opens with the word for 'have' and lands on 'succeed' at the close.
-- 'What kind of tip?' Gabriel presses for clarification. The question form adjective 'what' agrees with the masculine noun 'kind'.
-- 'I told her that the real boss here was Arlette Azémar.' Noémie reveals her fabricated hierarchy. The superlative adjective 'real' emphasizes the supposed true leader of ASK.
-- 'And that she was the one who had to be convinced.' Noémie explains her misleading instruction. The impersonal imperfect 'her' expresses an obligation in the past.
-- 'Arlette? But she is not the one hiring!' Gabriel protests the absurd misdirection. Gabriel opens with the word for 'is not' and lands on 'hires' at the close.
-- 'I told her to go for it, to speak very loudly.' Noémie describes her outrageous delivery advice. The key word here means 'have', paired with 'loudly' to make the point clear.
-- 'And why speak very loudly?' Gabriel asks with growing disbelief. The question form adverb 'why' questions the reason for speaking loudly.
-- 'Because she is deaf.' Noémie delivers the punchline of her prank. The causal connecting word 'because' introduces the explanation with the adjective 'deaf'.
-- 'But Arlette is not deaf at all!' Gabriel points out the obvious flaw. The negative locution 'not' expresses complete negation.
-- 'Hello, ma'am!' Eugenie shouts enthusiastically across the reception area. A concise spoken phrase built around the French noun for 'hello'.
-- 'So happy to meet you!' Eugenie bellows her eager admiration. The feminine adjective 'happy' expresses joy, intensified by 'so'.
-- 'Working alongside you is a dream for any young agent!' Eugenie yells her flattery loudly. The adjective meaning 'young' agrees in gender and number with masculine noun 'side'.
-- 'There, her career at ASK is off to a great start.' Noémie watches the unfolding chaos with satisfaction. The presentative 'there' marks a humorous summary of the situation.
+- 'This way, miss, please.' Gabriel politely guides Eugenie toward the office.
+- 'Thank you very much. Hello.' Eugenie replies courteously.
+- 'What did you say to her, Noémie?' Gabriel questions Noemie's suspicious interference.
+- 'I gave her a little tip to succeed.' Noemie innocently disguises her sabotage.
+- 'What kind of tip?' Gabriel presses for clarification.
+- 'I told her that the real boss here was Arlette Azémar.' Noemie reveals her fabricated hierarchy.
+- 'And that she was the one who had to be convinced.' Noemie explains her misleading instruction.
+- 'Arlette? But she is not the one hiring!' Gabriel protests the absurd misdirection.
+- 'I told her to go for it, to speak very loudly.' Noemie describes her outrageous delivery advice.
+- 'And why speak very loudly?' Gabriel asks with growing disbelief.
+- 'Because she is deaf.' Noemie delivers the punchline of her prank.
+- 'But Arlette is not deaf at all!' Gabriel points out the obvious flaw.
+- 'Hello, ma'am!' Eugenie shouts enthusiastically across the reception area.
+- 'So happy to meet you!' Eugenie bellows her eager admiration.
+- 'Working alongside you is a dream for any young agent!' Eugenie yells her flattery loudly.
+- 'There, her career at ASK is off to a great start.' Noemie watches the unfolding chaos with satisfaction.

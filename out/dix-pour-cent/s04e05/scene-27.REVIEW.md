@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at the beautiful light over Paris.' Camille observes the golden sunlight over the capital. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.
-- 'The fresh air does me good.' Mathias relishes being outside the clinical hospital walls. The verb meaning 'does' pairs naturally with the noun for 'air' in everyday conversation.
-- 'You breathe better without that stress.' Camille notes his relaxed physical posture. The informal 'you' form around 'breathe' marks a direct, personal relationship.
-- 'I leave my old conflicts behind.' Mathias decides to step back from unnecessary workplace warfare. The descriptive adjective for 'old' agrees in gender and number with its noun.
-- 'It is a new life beginning.' Camille marks this pivotal moment as a fresh chapter. The verb meaning 'begins' pairs naturally with the noun for 'life' in everyday conversation.
-- 'Yes, a new start for us.' Mathias agrees that their shared future begins now. The descriptive adjective for 'new' agrees in gender and number with its noun.
-- 'We form a real family now.' Camille emphasizes the bond they have rebuilt together. The adjective meaning 'real' takes its feminine form here to match the noun it describes.
-- 'It is the most beautiful gift possible.' Mathias regards their reconciliation as an invaluable blessing. The descriptive adjective for 'beautiful' agrees in gender and number with its noun.
-- 'Let us take the time to live well.' Camille encourages mindful appreciation of life. Notice how 'let us take' leads directly into the noun meaning 'time'.
-- 'It is good to walk with you.' Mathias expresses simple satisfaction in their companionship. Mathias uses the casual singular 'you' with 'walk', showing close familiarity.
-- 'I always stay by your side.' Camille reaffirms her enduring support as his daughter. The informal 'you' form around 'stay' marks a direct, personal relationship.
-- 'Our future will be much calmer.' Mathias anticipates a life with fewer professional pressures. Notice how 'will be' leads directly into the noun meaning 'future'.
-- 'Let us enjoy this gentle day together.' Camille invites him to savor the peaceful afternoon. The adjective meaning 'gentle' takes its feminine form here to match the noun it describes.
-- 'Thank you for your precious love.' Mathias concludes their walk with deep gratitude. The descriptive adjective for 'precious' agrees in gender and number with its noun. Now let's hear the whole conversation again.
+- 'Look at the beautiful light over Paris.' Camille observes the golden sunlight over the capital.
+- 'The fresh air does me good.' Mathias relishes being outside the clinical hospital walls.
+- 'You breathe better without that stress.' Camille notes his relaxed physical posture.
+- 'I leave my old conflicts behind.' Mathias decides to step back from unnecessary workplace warfare.
+- 'It is a new life beginning.' Camille marks this pivotal moment as a fresh chapter.
+- 'Yes, a new start for us.' Mathias agrees that their shared future begins now.
+- 'We form a real family now.' Camille emphasizes the bond they have rebuilt together.
+- 'It is the most beautiful gift possible.' Mathias regards their reconciliation as an invaluable blessing.
+- 'Let us take the time to live well.' Camille encourages mindful appreciation of life.
+- 'It is good to walk with you.' Mathias expresses simple satisfaction in their companionship.
+- 'I always stay by your side.' Camille reaffirms her enduring support as his daughter.
+- 'Our future will be much calmer.' Mathias anticipates a life with fewer professional pressures.
+- 'Let us enjoy this gentle day together.' Camille invites him to savor the peaceful afternoon.
+- 'Thank you for your precious love.' Mathias concludes their walk with deep gratitude. Now listen to the whole scene again at normal speed, and see how much more you catch.

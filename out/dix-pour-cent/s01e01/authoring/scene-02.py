@@ -49,11 +49,11 @@ WALK = [
     (9, "L'un à midi, l'autre à quatorze heures.", "'One at noon, the other at two.' French offices often use the twenty-four-hour clock, so two in the afternoon is fourteen hours."),
     (9, 'Je vais déjeuner deux fois.', "'I'm going to have lunch twice.' Here's a handy pattern: the verb 'to go' plus a plain verb gives you the near future, exactly like 'I'm going to' in English."),
     (10, 'Appelle Clémentine.', "'Call Clémentine.' Now a string of orders in the casual form. Clémentine is a woman Andréa is seeing, and she wants to cancel tonight's date."),
-    (10, 'Dis-lui que je ne peux pas venir ce soir.', "'Tell her I can't come tonight.' The command comes first, joined to the little word for 'to her'. And notice the negative again, wrapped around the verb 'can'."),
+    (10, 'Dis-lui que je ne peux pas venir ce soir.', "'Tell her I can't come tonight.' The command comes first, joined to the little word for 'to her'."),
     (11, None, "'Clémentine? The one from last week?' Magali can't keep up with Andréa's love life."),
     (12, None, "'Is there another Clémentine?' Andréa teases her right back."),
     (13, None, "'What do I tell her?' A useful question starter that simply means 'what'."),
     (14, None, "'I don't know. Think of something.' Another casual command: think up, come up with something."),
     (15, None, "'Say I've got a meeting. Improvise!' That last word is the same as in English, and it's Andréa's motto. Meanwhile, across the room, Mathias stops at Gabriel's desk."),
-    (16, None, "'Gabriel. Aren't you calling Cécile de France back?' Meanwhile, Cécile has been calling, and Gabriel hasn't picked up. He mumbles that he'll call her. Only we know why he's hiding. Let's hear the morning rush once more, all the way through."),
+    (16, None, "'Gabriel. Aren't you calling Cécile de France back?' Here, Cécile has been calling, and Gabriel hasn't picked up. He mumbles that he'll call her. Only we know why he's hiding. Let's hear the morning rush once more, all the way through."),
 ]

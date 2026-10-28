@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here, Andréa?' Hicham stops his jogging to question her unexpected presence. The key word here means 'are doing', paired with 'here' to make the point clear.
-- 'Wait just one little minute.' Andréa urgently asks for a moment of his undivided attention. Listen for the expression meaning 'wait', which leads naturally into 'minute'.
-- 'I am doing my last lap.' The executive explains that he is concluding his workout. The key word here means 'am doing', paired with 'lap' to make the point clear.
-- 'I must ask you something.' She insists that she has an important topic to bring up. The verb meaning 'must' anchors the whole remark.
-- 'Can we have a drink together?' Hicham proposes meeting more casually over drinks. Notice how the verb for 'can' leads straight into 'drink'.
-- 'Why should we see each other?' Andréa remains skeptical of his motives after their past encounter. The key word here means 'why', paired with 'would see' to make the point clear.
-- 'To talk calmly, that is all.' He promises that he only wishes to converse peacefully. The verb meaning 'to talk' anchors the whole remark.
-- 'Do you want to seduce me again?' She confronts him directly about his flirtatious tendencies. Listen for the expression meaning 'want', which leads naturally into 'to seduce'.
-- 'No, that is not true!' Hicham firmly denies having romantic designs on her. The adverb meaning 'no' sharpens the verb for 'is' here.
-- 'I am pregnant, Hicham.' Andréa drops the life-changing bombshell without preamble. Listen for the expression meaning 'am', which leads naturally into 'pregnant'.
-- 'What? Are you really serious?' Stunned by the revelation, he struggles to process the news. The feminine adjective serieuse agrees with the female speaker.
-- 'I absolutely had to tell you.' She feels an ethical responsibility to inform the father. The verb meaning 'had to' anchors the whole remark.
-- 'Are four minutes enough for you?' He abruptly pivots to managing the conversation within his schedule. Listen for the expression meaning 'minute', which leads naturally into 'is enough'.
-- 'Yes, that is more than enough.' Andréa accepts the brief window to outline her stance. The adverb meaning 'yes' sharpens the verb for 'it is' here.
+- 'What are you doing here, Andréa?' Hicham stops his jogging to question her unexpected presence.
+- 'Wait just one little minute.' Andrea urgently asks for a moment of his undivided attention.
+- 'I am doing my last lap.' The executive explains that he is concluding his workout.
+- 'I must ask you something.' She insists that she has an important topic to bring up.
+- 'Can we have a drink together?' Hicham proposes meeting more casually over drinks.
+- 'Why should we see each other?' Andrea remains skeptical of his motives after their past encounter.
+- 'To talk calmly, that is all.' He promises that he only wishes to converse peacefully.
+- 'Do you want to seduce me again?' She confronts him directly about his flirtatious tendencies.
+- 'No, that is not true!' Hicham firmly denies having romantic designs on her.
+- 'I am pregnant, Hicham.' Andrea drops the life-changing bombshell without preamble.
+- 'What? Are you really serious?' Stunned by the revelation, he struggles to process the news.
+- 'I absolutely had to tell you.' She feels an ethical responsibility to inform the father.
+- 'Are four minutes enough for you?' He abruptly pivots to managing the conversation within his schedule.
+- 'Yes, that is more than enough.' Andrea accepts the brief window to outline her stance.

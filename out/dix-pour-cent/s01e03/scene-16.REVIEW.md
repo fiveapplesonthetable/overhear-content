@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Summer twenty eleven. She broke her ankle.' With parts of the body, French uses a reflexive verb and the word for 'the' instead of 'her'.
-- 'I couldn't walk. I stayed at my mother's.' The first verb describes how things were, and the second is a single event. The linking word before 'my mother' means 'at the home of'.
-- 'Total horror! It was as if she were thirteen.' Again, French expresses age with the verb 'to have': she had thirteen years.
+- 'Summer twenty eleven. She broke her ankle.' With parts of the body, French uses a self-directed action word and the word for 'the' instead of 'her'.
+- 'I couldn't walk. I stayed at my mother's.' The first action word describes how things were, and the second is a single event. The linking word before 'my mother' means 'at the home of'.
+- 'Total horror! It was as if she were thirteen.' Again, French expresses age with the action word 'to have': she had thirteen years.
 - 'I completely lost it. We said horrible things to each other.' The first verb literally means to crack or snap.
 - 'Never again!' Literally 'never more'. Both mother and daughter swear the same thing.
 - 'If I say no, she will think that it is her fault!'m not going to sacrifice our relationship for a film.' Nathalie tells Mathias her decision is final. Yet in Gabriel's office, Laura has no idea her mother is saying no.

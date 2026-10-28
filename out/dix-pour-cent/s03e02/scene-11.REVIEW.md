@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your stress problems are not getting better.' Hicham comments on Andrea's physical strain. Notice how 'get better' leads directly into the noun meaning 'issues'.
-- 'What business is it of yours, Hicham?' Andrea sharply rejects his unsolicited advice. Andrea uses the casual singular 'you' with 'meddle', showing close familiarity.
-- 'I am inviting you to dinner tonight.' Hicham extends a sudden dinner invitation. The formal 'you' pronoun sets a courteous, professional distance around 'invite'.
-- 'Why organize a dinner tonight?' Andrea suspects a hidden motive behind his proposal. Notice how 'to arrange' leads directly into the noun meaning 'dinner party'.
-- 'I am reserving a table at eight o'clock.' He insists on making the restaurant booking. Notice how 'am booking' leads directly into the noun meaning 'restaurant table'.
-- 'What is going on, exactly?' Andrea presses him for immediate clarification. The standard spoken question formula at the front turns the statement about 'is happening' into a natural inquiry.
-- 'Is there a particular problem?' She checks if an agency crisis has erupted. The key noun here means 'crisis', anchored by its matching French article.
-- 'No, no, there is no problem at all.' Hicham reassures her of his peaceful intentions. The key noun here means 'trouble', anchored by its matching French article.
-- 'I just feel like eating well, that is all.' He offers a lighthearted superficial excuse. Notice how 'have' leads directly into the noun meaning 'a desire'.
-- 'We are going to revise our parental pact.' Hicham reveals the true purpose of the dinner. The verb meaning 'are going' pairs naturally with the noun for 'written agreement' in everyday conversation.
-- 'What? No, our pact is perfect!' Andrea opposes renegotiating their signed terms. The key noun here means 'coparenting agreement', anchored by its matching French article.
-- 'It just needs a small update.' He downplays the scope of the proposed amendments. The verb meaning 'needs' pairs naturally with the noun for 'placing' in everyday conversation.
-- 'I am really counting on you two.' Hicham urges both expectant mothers to attend. The clause hinges on the everyday verb meaning 'am relying'.
-- 'Colette and I will be there tonight.' Andrea accepts the dinner invitation reluctantly. The verb meaning 'will be' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'Perfect, we are going to dine well together!' Hicham looks forward to their evening gathering. Dropping the subject pronoun turns the verb for 'are going' into a direct, punchy command. Now let's hear the whole conversation again.
+- 'Your stress problems are not getting better.' Hicham comments on Andrea's physical strain.
+- 'What business is it of yours, Hicham?' Andrea sharply rejects his unsolicited advice.
+- 'I am inviting you to dinner tonight.' Hicham extends a sudden dinner invitation.
+- 'Why organize a dinner tonight?' Andrea suspects a hidden motive behind his proposal.
+- 'I am reserving a table at eight o'clock.' He insists on making the restaurant booking.
+- 'What is going on, exactly?' Andrea presses him for immediate clarification.
+- 'Is there a particular problem?' She checks if an agency crisis has erupted.
+- 'No, no, there is no problem at all.' Hicham reassures her of his peaceful intentions.
+- 'I just feel like eating well, that is all.' He offers a lighthearted superficial excuse.
+- 'We are going to revise our parental pact.' Hicham reveals the true purpose of the dinner.
+- 'What? No, our pact is perfect!' Andrea opposes renegotiating their signed terms.
+- 'It just needs a small update.' He downplays the scope of the proposed amendments.
+- 'I am really counting on you two.' Hicham urges both expectant mothers to attend.
+- 'Colette and I will be there tonight.' Andrea accepts the dinner invitation reluctantly.
+- 'Perfect, we are going to dine well together!' Hicham looks forward to their evening gathering. Now listen to the whole scene again at normal speed, and see how much more you catch.

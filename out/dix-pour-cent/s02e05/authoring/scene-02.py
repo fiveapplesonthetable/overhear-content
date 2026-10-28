@@ -35,7 +35,7 @@ WALK = [
     (0, None, "'Hello Guy, we are shooting scene thirty-four.' The director announces the current production sequence."),
     (1, None, "'Your character must change clothes here.' An explanation of physical character blocking in the scene."),
     (2, None, "'You take off your pajamas for your suit.' A specific costume change instruction symbolizing political return."),
-    (3, None, "'What are you talking about exactly, young girl?' The adjective meaning 'young' agrees in gender and number with feminine noun 'girl'."),
+    (3, None, "'What are you talking about exactly, young girl?' A bewildered question showing sudden disorientation."),
     (4, None, "'This woman is asking me to strip!' A dramatic misinterpretation reflecting acute cognitive confusion."),
     (5, None, "'Guy, calm down, everything is going very well.' A soothing intervention attempting to de-escalate tension."),
     (6, None, "'Gabriel, this stranger has a lot of nerve.' A dismissive complaint about someone he suddenly fails to recognize."),
@@ -44,6 +44,6 @@ WALK = [
     (9, None, "'Yet you worked together last week.' Gabriel gently reminds him of their recent work meetings."),
     (10, None, "'I feel a bit tired now.' A defensive retreat acknowledging physical weakness."),
     (11, None, "'I prefer to go home right away.' A hasty departure avoiding public embarrassment."),
-    (12, None, "'Wait Guy, we must shoot this scene!' Listen for the expression meaning 'wait', which leads naturally into 'film scene'."),
+    (12, None, "'Wait Guy, we must shoot this scene!' An anxious plea trying to salvage the shooting schedule."),
     (13, None, "'No, we will talk later on the phone.' A stubborn dismissal cutting short on-set conversation."),
 ]

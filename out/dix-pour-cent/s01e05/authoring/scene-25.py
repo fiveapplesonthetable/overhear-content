@@ -38,9 +38,9 @@ WALK = [
     (1, None, "'Do you have any news of Brancillon?' In French, 'some news' is plural: literally 'some news items'."),
     (2, None, "'Her name is Colette. Her ribs hurt.' Literally 'she has pain at the ribs', the normal French pattern for saying a body part hurts."),
     (3, None, "'She must hate me!' The verb for 'must' also means 'probably is' when you are guessing."),
-    (4, None, "'She doesn't understand why you eat so much with your clients.' Meanwhile, Colette has been checking all of Gabriel's restaurant bills."),
+    (4, None, "'She doesn't understand why you eat so much with your clients.' Here, Colette has been checking all of Gabriel's restaurant bills."),
     (5, None, "'You can explain to her, can't you?' Gabriel hands Andréa a bundle of crumpled restaurant receipts from his pocket."),
-    (6, None, "'Actors are fragile and sensitive.' Gabriel links 'actors' directly with 'are' to express the thought clearly."),
+    (6, None, "'Actors are fragile and sensitive.' Notice that the French word for 'sensible' actually means 'sensitive'."),
     (7, None, "'When things go badly, they eat. And I eat with them!' Literally 'when it goes badly'. That is Gabriel's excuse for all his big lunches."),
     (8, None, "'When I saw Colette in the street, she was coming out of your place!' Gabriel suddenly remembers seeing Colette outside Andréa's building that morning."),
     (9, None, "'Are you really a couple?' Literally 'in a couple'."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'It's going really well.' Andréa can't hide a smile."),
     (13, None, "'It's strange, I know, but there it is.' Even Andréa is surprised to be dating a tax inspector."),
     (14, None, "'Don't say anything to anyone, Gabriel.' A double negative in French: 'do not say nothing to nobody'."),
-    (15, None, "'That would be bad for all of us, okay?' Dating the woman who is auditing your company is against the rules, so it has to stay a secret. Here is the whole scene one more time. Let's listen to the whole scene once more without interruption."),
+    (15, None, "'That would be bad for all of us, okay?' Dating the woman who is auditing your company is against the rules, so it has to stay a secret."),
 ]

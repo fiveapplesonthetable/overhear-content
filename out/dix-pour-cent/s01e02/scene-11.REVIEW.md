@@ -31,17 +31,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Françoise phoned.' The past tense with 'has' plus the verb, the everyday way to say something happened.
+- 'Françoise phoned.' The past with 'has' plus the action word, the everyday way to say something happened.
 - 'She says you were odious.' Here the polite 'you' is really plural: it means the whole agency, so 'odious' has a masculine plural ending, even though Andréa is a woman.
 - 'That's so dishonest!' The long word in the middle means 'so', 'so very'.
 - 'She'd already made her decision.' In French you 'take' a decision, you don't make one. Emma has worse news.
-- 'And Piccoli won't do the film without Françoise.' The negative wraps around the verb again: not, does, not. Then she goes for the jugular.
-- 'Without Samuel, you're falling apart!' You hear the word for 'you' twice: once as the subject, once as 'yourselves', because this verb always comes with a 'self'.
+- 'And Piccoli won't do the film without Françoise.' The negative wraps around the action word again: not, does, not. Then she goes for the jugular.
+- 'Without Samuel, you're falling apart!' You hear the word for 'you' twice: once as the subject, once as 'yourselves', because this action word always comes with a 'self'.
 - 'That's really low, Emma.' Andréa says it's low to use Samuel's death against them. Emma doesn't back down.
-- 'I've been working on this project for four years!' A key pattern: French uses the present tense, plus a word meaning 'since', for something that started in the past and is still going on. Literally 'I work on it since four years'.
+- 'I've been working on this project for four years!' A key pattern: French uses the present, plus a word meaning 'since', for something that started in the past and is still going on. Literally 'I work on it since four years'.
 - 'But this film is dead.' Two words, and Andréa won't accept them.
 - 'No, it's Samuel who is dead.' That's what 'dead' means, she adds. It's sharp, and sad.
-- 'A film never dies!' Not, then the verb, then 'never' instead of the usual second half. Andréa's battle cry.
+- 'A film never dies!' Not, then the action word, then 'never' instead of the usual second half. Andréa's battle cry.
 - 'We'll find a solution.' The verb 'to go' plus another verb is the near future: we are going to find. Emma repeats it back to her, mockingly.
 - 'A solution? A great eighty-year-old actress, free in three weeks?' In French you say 'an actress of eighty years'. Emma thinks no such person exists.
 - 'We don't have to replace Françoise Fabian.' Literally 'we are not obliged to replace'. The word for 'obliged' takes a plural ending, because 'we' is plural.
@@ -51,4 +51,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'd like to apologise for yesterday.' This 'would like' is the polite form of 'want'. But the message goes wrong, she gets tangled up, and the voicemail robot offers to let her record it again. She tries a second time.
 - 'I have great admiration for you.' The word for 'great' comes before the noun, and it's feminine to match 'admiration'.
 - 'I really feel... useless!' This verb comes with a 'self' too: I feel myself. And the word for 'useless' is feminine, for Andréa. On the third try the robot simply tells her she may hang up, and she says something very rude. So she turns to Camille.
-- 'Book me a massage, please.' A polite command to her assistant, and the polite way of saying please, literally 'if it pleases you'. After a morning like this, who can blame her? Okay. Now the whole thing again, from Emma's first line. Now let's hear the full exchange again from beginning to end.
+- 'Book me a massage, please.' A polite command to her assistant, and the polite way of saying please, literally 'if it pleases you'. After a morning like this, who can blame her? Okay. Now the whole thing again, from Emma's first line.

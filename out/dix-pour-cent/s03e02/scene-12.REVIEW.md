@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would like this girl to know her history.' Hicham explains his paternal perspective. The verb meaning 'would like' pairs naturally with the noun for 'little girl' in everyday conversation.
-- 'Yes, of course, we agree.' Andrea politely acknowledges biological reality. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.
-- 'The story is that I am her father.' Hicham firmly asserts his biological parenthood. The key noun here means 'core truth', anchored by its matching French article.
-- 'That is a small part of the story.' Andrea downplays his role in daily parenting. The key noun here means 'fraction', anchored by its matching French article.
-- 'Without me, there is no story.' Hicham claims ultimate credit for the conception. The key noun here means 'family tale', anchored by its matching French article.
-- 'So, I would like to officially recognize her.' He declares his intent to claim paternity. The clause hinges on the everyday verb meaning 'would like'.
-- 'That is not what we had decided!' Andrea reacts with shock at his broken promise. This conversational past tense combines a helper verb with the past verb form for 'agreed'.
-- 'Maybe, but it is my legal right.' Hicham stands firm on statutory paternity entitlements. The key noun here means 'statutory right', anchored by its matching French article.
-- 'If you officially become the baby's father,' Colette begins her emotional counterargument. Colette uses the casual singular 'you' with 'become', showing close familiarity.
-- 'I will never really be her mother.' Colette fears losing all maternal recognition. French builds the 'never' negation in two parts wrapped right around 'will be'.
-- 'Full adoption will no longer be possible.' She points out the strict legal obstacle. The verb meaning 'will be' pairs naturally with the noun for 'child adoption' in everyday conversation.
-- 'You can still do a simple adoption.' Hicham suggests a lesser legal compromise. The verb meaning 'will be able to' pairs naturally with the noun for 'custody procedure' in everyday conversation.
-- 'But that would be revocable with your consent!' Colette rejects second-rate maternal status. Colette uses the casual singular 'you' with 'will be', showing close familiarity.
-- 'Without Colette, I would never have kept the child.' Andrea defends her partner unconditionally. The verb meaning 'would have' pairs naturally with the noun for 'unborn baby' in everyday conversation.
-- 'Because I cannot have children myself.' Colette reveals her painful biological infertility. The clause hinges on the everyday verb meaning 'can'. Now let's hear the whole conversation again.
+- 'I would like this girl to know her history.' Hicham explains his paternal perspective.
+- 'Yes, of course, we agree.' Andrea politely acknowledges biological reality.
+- 'The story is that I am her father.' Hicham firmly asserts his biological parenthood.
+- 'That is a small part of the story.' Andrea downplays his role in daily parenting.
+- 'Without me, there is no story.' Hicham claims ultimate credit for the conception.
+- 'So, I would like to officially recognize her.' He declares his intent to claim paternity.
+- 'That is not what we had decided!' Andrea reacts with shock at his broken promise.
+- 'Maybe, but it is my legal right.' Hicham stands firm on statutory paternity entitlements.
+- 'If you officially become the baby's father,' Colette begins her emotional counterargument.
+- 'I will never really be her mother.' Colette fears losing all maternal recognition.
+- 'Full adoption will no longer be possible.' She points out the strict legal obstacle.
+- 'You can still do a simple adoption.' Hicham suggests a lesser legal compromise.
+- 'But that would be revocable with your consent!' Colette rejects second-rate maternal status.
+- 'Without Colette, I would never have kept the child.' Andrea defends her partner unconditionally.
+- 'Because I cannot have children myself.' Colette reveals her painful biological infertility. Now listen to the whole scene again at normal speed, and see how much more you catch.

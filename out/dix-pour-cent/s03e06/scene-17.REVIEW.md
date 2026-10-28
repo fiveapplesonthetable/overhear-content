@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We cannot hear each other at all here.' Catherine complains about the loud music at the party. The clause hinges on the everyday verb meaning 'hear each other'.
-- 'Come, let us go into my quiet office.' Mathias invites his wife to step aside for a private chat. French forms the near future by pairing the present tense of 'to go' directly with 'let us go'.
-- 'I am not comfortable, Mathias.' She hesitates to step into his professional domain. Notice how the short vowel drops before a vowel sound around 'ease', making the phrase flow smoothly as one unit.
-- 'I can no longer pretend.' Catherine admits that she cannot keep up false appearances. Notice how 'can' leads directly into the noun meaning 'pretence'.
-- 'We are trying to speak to each other calmly.' Mathias attempts to comfort his stressed spouse. The clause hinges on the everyday verb meaning 'try'.
-- 'Let us tell each other the truth for once.' She urges complete honesty between them. The verb meaning 'let us tell each other' pairs naturally with the noun for 'truth' in everyday conversation.
-- 'There is someone else now.' Catherine confesses that she has fallen in love. The adverb meaning 'now' gives the reply its conversational emphasis.
-- 'Are you the one telling me that?' Mathias reacts with gentle surprise to her confession. The short 'self' word sits right in front of the verb for 'tell', turning the action back onto the subject.
-- 'I too have met someone.' He reciprocates with his own honest confession. In spoken French, the little word before 'I have' drops its final vowel and attaches with an apostrophe.
-- 'You too, is that true?' Catherine wonders if she heard him correctly. In everyday spoken French, rising intonation on 'the key idea' at the end is enough to turn the sentence into a question.
-- 'Alexandre joined me in India.' She mentions the partner she reconnected with abroad. In spoken French, the little word before 'has me' drops its final vowel and attaches with an apostrophe.
-- 'And you, is it a real connection?' Catherine asks about his new relationship with warmth. In everyday spoken French, rising intonation on 'meeting' at the end is enough to turn the sentence into a question.
-- 'Yes, it is a very important relationship.' Mathias confirms his deep feelings for Noemie. In spoken French, the little word before 'relationship' drops its final vowel and attaches with an apostrophe.
-- 'So, our marriage is truly over.' Both partners acknowledge the closure of their shared journey. This conversational past tense combines a helper verb with the past verb form for 'finished'. Now let's hear the whole conversation again.
+- 'We cannot hear each other at all here.' Catherine complains about the loud music at the party.
+- 'Come, let us go into my quiet office.' Mathias invites his wife to step aside for a private chat.
+- 'I am not comfortable, Mathias.' She hesitates to step into his professional domain.
+- 'I can no longer pretend.' Catherine admits that she cannot keep up false appearances.
+- 'We are trying to speak to each other calmly.' Mathias attempts to comfort his stressed spouse.
+- 'Let us tell each other the truth for once.' She urges complete honesty between them.
+- 'There is someone else now.' Catherine confesses that she has fallen in love.
+- 'Are you the one telling me that?' Mathias reacts with gentle surprise to her confession.
+- 'I too have met someone.' He reciprocates with his own honest confession.
+- 'You too, is that true?' Catherine wonders if she heard him correctly.
+- 'Alexandre joined me in India.' She mentions the partner she reconnected with abroad.
+- 'And you, is it a real connection?' Catherine asks about his new relationship with warmth.
+- 'Yes, it is a very important relationship.' Mathias confirms his deep feelings for Noemie.
+- 'So, our marriage is truly over.' Both partners acknowledge the closure of their shared journey. Now listen to the whole scene again at normal speed, and see how much more you catch.

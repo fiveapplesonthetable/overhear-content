@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is it for a birthday party?' In everyday spoken French, rising intonation on 'it is' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'it is' at the end is enough to turn the sentence into a question.
-- 'No, it is for the Cesar ceremony.' A proud specification identifying France's premier cinematic gala. Notice how 'it is' leads directly into the noun meaning 'ceremony'.
-- 'I have dressed many great actresses.' An impressive claim showcasing the stylist's celebrity fashion credentials. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
-- 'Here is a chic and understated dress.' The key noun here means 'dress', anchored by its matching French article. The key noun here means 'dress', anchored by its matching French article.
-- 'This classic dress is rather boring.' The descriptive adjective for 'classic' agrees in gender and number with its noun. The descriptive adjective for 'classic' agrees in gender and number with its noun.
-- 'Do you dress to impress the public?' Inverting the verb and pronoun around 'do you dress' creates a crisp, polished question. Inverting the verb and pronoun around 'do you dress' creates a crisp, polished question.
-- 'For me, it is a matter of seduction.' The verb meaning 'it is' pairs naturally with the noun for 'question' in everyday conversation.
-- 'I understand, you love contrasts.' The formal 'you' pronoun sets a courteous, professional distance around 'understand'.
-- 'Here is a flashy and daring design.' The descriptive adjective for 'flashy' agrees in gender and number with its noun. The descriptive adjective for 'flashy' agrees in gender and number with its noun.
-- 'This daring outfit is so me!' An elated endorsement recognizing the dress as an authentic reflection of her spirit. The key noun here means 'outfit', anchored by its matching French article.
-- 'A woman must embrace her contradictions.' A spirited personal philosophy celebrating individuality and complex charm. The verb meaning 'must' pairs naturally with the noun for 'woman' in everyday conversation.
-- 'It will give you an unforgettable look.' Notice how 'will give' leads directly into the noun meaning 'look'. Notice how 'will give' leads directly into the noun meaning 'look'.
-- 'Mathias will be totally charmed.' The verb meaning 'will be' pairs naturally with the noun for 'charm' in everyday conversation.
-- 'You will shine on the red carpet.' A flattering prediction foreseeing a dazzling entrance on cinema's biggest night. The verb meaning 'will shine' pairs naturally with the noun for 'carpet' in everyday conversation.
+- 'Is it for a birthday party?' A courteous inquiry seeking the occasion for the new outfit.
+- 'No, it is for the Cesar ceremony.' A proud specification identifying France's premier cinematic gala.
+- 'I have dressed many great actresses.' An impressive claim showcasing the stylist's celebrity fashion credentials.
+- 'Here is a chic and understated dress.' A polite proposal showcasing a conventional and understated garment.
+- 'This classic dress is rather boring.' A frank rejection dismissing understated elegance as uninspiring.
+- 'Do you dress to impress the public?' A discerning question exploring the shopper's true stylistic motives.
+- 'For me, it is a matter of seduction.' A candid declaration prioritizing personal allure and romantic impact.
+- 'I understand, you love contrasts.' An intuitive observation recognizing her taste for creative tension in style.
+- 'Here is a flashy and daring design.' An enthusiastic suggestion presenting a vibrant and daring garment.
+- 'This daring outfit is so me!' An elated endorsement recognizing the dress as an authentic reflection of her spirit.
+- 'A woman must embrace her contradictions.' A spirited personal philosophy celebrating individuality and complex charm.
+- 'It will give you an unforgettable look.' A professional compliment predicting a memorable aesthetic impact.
+- 'Mathias will be totally charmed.' An affectionate remark anticipating her partner's delighted admiration.
+- 'You will shine on the red carpet.' A flattering prediction foreseeing a dazzling entrance on cinema's biggest night.

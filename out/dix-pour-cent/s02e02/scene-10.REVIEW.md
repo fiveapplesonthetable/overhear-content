@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cheers to everyone!' Hervé raises his glass to toast the group. Listen for the expression meaning 'cheers', which leads naturally into 'world'.
-- 'How are you doing tonight, Camille?' Sofia checks in with her colleague warmly. The question form 'how' is a common conversational way to ask how someone is.
-- 'I am doing very well, thank you very much.' Camille replies politely. The adverbial intensifier 'very' pairs with 'thank you' in everyday social exchanges.
-- 'Why don't you go out with Hippolyte?' Sofia innocently brings up the handsome young actor. The negative question 'why' uses the verb 'go out' for dating.
-- 'Do not say foolish things, Sofia.' Camille deflects the awkward question instantly. Listen for the expression meaning 'not', which leads naturally into 'any'.
-- 'We are friends, that is all.' Camille firmly sets the record straight. Camille pairs the verb meaning 'are' with the noun for 'friends'.
-- 'Are you kidding? You are made for each other!' Hervé teases them enthusiastically. The verb meaning 'are joking' anchors the whole remark.
-- 'No, we are too similar.' Camille explains her hesitation. The reflexive verb 'each other' expresses mutual resemblance, modified by the adverb 'too much'.
-- 'No, I am just going to the restroom.' Camille excuses herself from the table. Camille pairs the verb meaning 'am going' with the noun for 'restroom'.
-- 'Their fathers know each other very well.' Hervé drops a mysterious family hint. The possessive determiner 'their' agrees with the plural noun 'fathers'.
-- 'Why does she not say it?' Sofia wonders why the family connection is kept quiet. The short object word 'it' replaces the unspoken fact before the verb 'says'.
-- 'It is a big family secret.' Hervé explains the air of mystery. Hervé opens with the word for 'it is' and lands on 'family' at the close.
-- 'Who is her real father?' Sofia asks with intense curiosity. The question word 'who' asks for an identity, qualified by 'real'.
-- 'Christophe Lambert! That is her father!' Hervé dramatically reveals the star name. Notice how the verb for 'that is' leads straight into 'father'.
-- 'Seriously? That is incredible!' Sofia reacts with genuine astonishment. The verb meaning 'that is' anchors the whole remark.
-- 'She looks a lot like him, do you think so too?' Hervé seeks agreement on the likeness. The adverb meaning 'a lot' sharpens the verb for 'looks like' here.
+- 'Cheers to everyone!' Hervé raises his glass to toast the group.
+- 'How are you doing tonight, Camille?' Sofia checks in with her colleague warmly.
+- 'I am doing very well, thank you very much.' Camille replies politely.
+- 'Why don't you go out with Hippolyte?' Sofia innocently brings up the handsome young actor.
+- 'Do not say foolish things, Sofia.' Camille deflects the awkward question instantly.
+- 'We are friends, that is all.' Camille firmly sets the record straight.
+- 'Are you kidding? You are made for each other!' Hervé teases them enthusiastically.
+- 'No, we are too similar.' Camille explains her hesitation.
+- 'No, I am just going to the restroom.' Camille excuses herself from the table.
+- 'Their fathers know each other very well.' Hervé drops a mysterious family hint.
+- 'Why does she not say it?' Sofia wonders why the family connection is kept quiet.
+- 'It is a big family secret.' Hervé explains the air of mystery.
+- 'Who is her real father?' Sofia asks with intense curiosity.
+- 'Christophe Lambert! That is her father!' Hervé dramatically reveals the star name.
+- 'Seriously? That is incredible!' Sofia reacts with genuine astonishment.
+- 'She looks a lot like him, do you think so too?' Hervé seeks agreement on the likeness.

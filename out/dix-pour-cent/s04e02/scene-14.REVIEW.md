@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dylan! Wait a second, please.' Gabriel tries to stop the young actor before he walks away. The short 'self' word sits right in front of the verb for 'wait', turning the action back onto the subject.
-- 'What do you want from me?' Dylan reacts defensively to being cornered outside. The informal 'you' form around 'want' marks a direct, personal relationship.
-- 'Franck has nothing to do with it.' Gabriel insists that Franck Dubosc is completely innocent in this conflict. The clause hinges on the everyday verb meaning 'has'.
-- 'Please, withdraw your complaint.' Notice how the short vowel drops before a vowel sound around 'withdraw', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'withdraw', making the phrase flow smoothly as one unit.
-- 'No, I am withdrawing nothing at all.' Dylan firmly refuses to drop the charges against Franck. The two-part French negation brackets the verb for 'withdraw' on both sides.
-- 'Do you hand out cash to your friends?' Gabriel probes Dylan about the money he just handed over. In everyday spoken French, rising intonation on 'hand over' at the end is enough to turn the sentence into a question.
-- 'Why are you picking fights with me?' Dylan challenges Gabriel's hostile and intrusive questions. The short 'self' word sits right in front of the verb for 'seek', turning the action back onto the subject.
-- 'Here is what I offer you.' Gabriel attempts to lay down an ultimatum to settle the issue. The clause hinges on the everyday verb meaning 'propose'.
-- 'Are you bringing your dealer on set?' Gabriel recklessly accuses Dylan of illegal drug dealings. The verb meaning 'bring along' pairs naturally with the noun for 'drug dealer' in everyday conversation.
-- 'That is a nice ridiculous stereotype.' Dylan points out the insulting bias behind Gabriel's accusation. The key noun here means 'stereotype', anchored by its matching French article.
-- 'Go ahead, do what you want!' Dylan dismisses Gabriel and dares him to carry out his threat. Dylan uses the casual singular 'you' with 'do', showing close familiarity.
-- 'What an idiot, I cannot believe it!' Gabriel vents his irritation once Dylan turns his back. The verb meaning 'believe' pairs naturally with the noun for 'jerk' in everyday conversation.
-- 'I think you are mistaken.' Franck Dubosc steps in to correct Gabriel's hasty conclusion. The short 'self' word sits right in front of the verb for 'believe', turning the action back onto the subject.
-- 'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met. Notice how 'was' leads directly into the noun meaning 'speech therapist'.
+- 'Dylan! Wait a second, please.' Gabriel tries to stop the young actor before he walks away.
+- 'What do you want from me?' Dylan reacts defensively to being cornered outside.
+- 'Franck has nothing to do with it.' Gabriel insists that Franck Dubosc is completely innocent in this conflict.
+- 'Please, withdraw your complaint.' Gabriel urges Dylan to drop the formal legal action against his client.
+- 'No, I am withdrawing nothing at all.' Dylan firmly refuses to drop the charges against Franck.
+- 'Do you hand out cash to your friends?' Gabriel probes Dylan about the money he just handed over.
+- 'Why are you picking fights with me?' Dylan challenges Gabriel's hostile and intrusive questions.
+- 'Here is what I offer you.' Gabriel attempts to lay down an ultimatum to settle the issue.
+- 'Are you bringing your dealer on set?' Gabriel recklessly accuses Dylan of illegal drug dealings.
+- 'That is a nice ridiculous stereotype.' Dylan points out the insulting bias behind Gabriel's accusation.
+- 'Go ahead, do what you want!' Dylan dismisses Gabriel and dares him to carry out his threat.
+- 'What an idiot, I cannot believe it!' Gabriel vents his irritation once Dylan turns his back.
+- 'I think you are mistaken.' Franck Dubosc steps in to correct Gabriel's hasty conclusion.
+- 'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met.

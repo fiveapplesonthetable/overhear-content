@@ -29,8 +29,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I know that I'm not very good at it.' Andréa admits her emotional vulnerabilities and fears.
 - 'It's because I am afraid.' In French, one literally says that one has fear.
 - 'But I want to learn.' Andréa drops her proud armor for the first time.
-- 'I am not strong enough to teach you, Andréa.' Note how the French verb 'to learn' also means 'to teach' when followed by a person.
-- 'No, I want to learn from you. From you and from no one else.' The verb meaning 'want' anchors the whole remark.
+- 'I am not strong enough to teach you, Andréa.' Colette tells Andréa gently that she is not strong enough to teach her how to love.
+- 'No, I want to learn from you. From you and from no one else.' The phrase 'person other' means 'anyone else' or 'no one else'.
 - 'My God! They're together! No, no...' Up on the balcony, the whole agency watches in shock as Colette pulls Andréa into a passionate kiss.
 - 'Take care of yourself, Andréa.' The expression 'to take care of' uses the noun for 'care'.
 - 'Why do you say that? You kiss me and you leave?' The reflexive expression 'to go oneself away from it' is the everyday way to say 'to leave'.

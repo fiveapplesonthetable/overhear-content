@@ -29,20 +29,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Champagne! You saved our agency, well done Mathias!' The two-verb phrase at the start literally means 'to make believe to everyone'.
+- 'Champagne! You saved our agency, well done Mathias!' The two-action word phrase at the start literally means 'to make believe to everyone'.
 - 'Living dangerously! Respect, Mr Barneville!' Andréa teases him with his formal title.
-- 'The hero of the day! Mathias, you'll go down in history.' Literally 'you will enter into history', using the future tense.
+- 'The hero of the day! Mathias, you'll go down in history.' Literally 'you will enter into history', looking ahead to his place in history.
 - 'Sorry for insulting you. Dinner tomorrow?' Earlier, when they thought Mathias was betraying them, Andréa threatened to sue him.
 - 'Jean Gabin too. Say sorry, Jean Gabin.' Arlette tells her little dog—who bit Mathias's ankle earlier—to apologise too.
 - 'Forget it.' Literally 'let fall', the everyday French idiom for 'never mind' or 'drop it'. Mathias still doesn't want the dog near his leg!
-- 'Why didn't you tell us anything?' Notice the word for 'nothing' placed between the helper verb 'have' and 'told'.
+- 'Why didn't you tell us anything?' Notice the word for 'nothing' placed between the helper word 'have' and 'told'.
 - 'I didn't want to take any risk.' With a straight face, Mathias plays the part of the secret mastermind.
 - 'Samuel would be so proud of us! Another drop.' Arlette holds out her glass for a little more wine.
 - 'You were never going to leave?' Quietly, Andréa looks Mathias in the eye. The negative wraps 'never' around 'were going'.
 - 'No! Do you doubt it?' Again the little word before 'doubt' means 'of it'.
 - 'A bit. But that's me.' Andréa knows Mathias too well to believe he is a saint, even if she can't prove it.
-- 'What a killjoy!' Literally 'what a joy-folder', a colourful compound noun for someone who spoils the mood.
+- 'What a killjoy!' Literally 'what a joy-folder', a colourful compound word for someone who spoils the mood.
 - 'Shall we clink glasses?' French has a single verb for clinking glasses together in a toast.
-- 'Yes! To ASK!' In a toast, you simply put the linking word 'to' before the name.
+- 'Yes! To ASK!' In a toast, you simply put the preposition 'to' before the name.
 - 'To ASK! Long life!' Notice how the adjective 'long' comes before the noun in this fixed wish.
 - 'It's good, this bubbly. A bit young.' Even at his own triumph, snobbish Mathias cannot resist judging the cheap sparkling wine. Now let's hear the whole celebration again from start to finish.

@@ -30,20 +30,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is bad for the baby.' Colette notices Andréa ordering an alcoholic drink.
-- 'For now, there is no baby.' Andréa responds defensively about her early pregnancy.
+- 'It is bad for the baby.' Colette notices Andrea ordering an alcoholic drink.
+- 'For now, there is no baby.' Andrea responds defensively about her early pregnancy.
 - 'And no father either?' Colette gently probes into the complicated situation.
-- 'It was a stupid mistake.' Andréa dismisses the encounter with regret.
-- 'A completely improbable accident.' Andréa explains the bizarre nature of the event.
-- 'You are not going to keep it?' Colette asks directly about Andréa's intentions.
-- 'I cannot, Colette.' Andréa admits her feelings of unreadiness for motherhood.
-- 'Do you need my help?' Colette understands why Andréa reached out to her.
+- 'It was a stupid mistake.' Andrea dismisses the encounter with regret.
+- 'A completely improbable accident.' Andrea explains the bizarre nature of the event.
+- 'You are not going to keep it?' Colette asks directly about Andrea's intentions.
+- 'I cannot, Colette.' Andrea admits her feelings of unreadiness for motherhood.
+- 'Do you need my help?' Colette understands why Andrea reached out to her.
 - 'Hello, hello! How are you, Marteau?' Hicham cheerfully intrudes on their private moment.
 - 'Who is your ravishing friend?' Hicham immediately turns his charm toward Colette.
-- 'Hicham, we are not at the office.' Andréa firmly protects her personal boundary.
+- 'Hicham, we are not at the office.' Andrea firmly protects her personal boundary.
 - 'I am Hicham Janowski.' Hicham boldly introduces himself to the tax auditor.
 - 'Colette Brancillon. Nice to meet you.' Colette introduces herself with polite poise.
-- 'Hicham is the shareholder of ASK.' Andréa clarifies their professional connection.
+- 'Hicham is the shareholder of ASK.' Andrea clarifies their professional connection.
 - 'I must get going now.' Colette decides to cut the awkward encounter short.
 - 'Have a good evening, both of you.' Hicham bids them farewell and steps away.
 - 'Tell me, is he the father?' Colette directly voices her sudden and accurate suspicion.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Samy completely failed his screen tests.' Mathias evaluates the unsuccessful audition. The verb meaning 'has' pairs naturally with the noun for 'tests' in everyday conversation.
-- 'He just had stage fright!' Camille explains his momentary nervousness. Notice how 'has' leads directly into the noun meaning 'stage fright'.
-- 'Gerard wants a more solid partner.' Mathias states the seasoned actor's requirement. The descriptive adjective for 'dependable' agrees in gender and number with its noun.
-- 'Yet, Samy has a unique talent!' Camille insists on his rare artistic ability. The descriptive adjective for 'singular' agrees in gender and number with its noun.
-- 'He has a great artistic sensitivity.' Camille praises his emotional resonance. Notice how 'has' leads directly into the noun meaning 'emotional sensitivity'.
-- 'He does not know how to act yet.' Mathias highlights the newcomer's technical limits. The two-part French negation brackets the verb for 'knows how' on both sides.
-- 'We must think about this film.' Mathias focuses on overall production success. The verb meaning 'must' pairs naturally with the noun for 'movie' in everyday conversation.
-- 'It is really unfair to him!' Camille voices her deep frustration. The adverb meaning 'truly' gives the reply its conversational emphasis.
-- 'One must know how to make choices.' Mathias shares hard-nosed industry realism. The verb meaning 'is necessary' pairs naturally with the noun for 'choices' in everyday conversation.
-- 'Call Samy to break the news to him.' Mathias assigns the difficult phone task. The clause hinges on the everyday verb meaning 'call'.
-- 'Hello Samy, it is Camille, your agent.' Camille starts her voicemail recording. The key noun here means 'talent agent', anchored by its matching French article.
-- 'I am sorry about this role.' Camille conveys her heartfelt regrets. The key noun here means 'part', anchored by its matching French article.
-- 'But we are going to continue together.' Camille promises ongoing support. French forms the near future by pairing the present tense of 'to go' directly with 'to carry on'.
-- 'The future is big ahead of us!' Camille shares an optimistic vision. The key noun here means 'future', anchored by its matching French article. Now let's hear the whole conversation again.
+- 'Samy completely failed his screen tests.' Mathias evaluates the unsuccessful audition.
+- 'He just had stage fright!' Camille explains his momentary nervousness.
+- 'Gerard wants a more solid partner.' Mathias states the seasoned actor's requirement.
+- 'Yet, Samy has a unique talent!' Camille insists on his rare artistic ability.
+- 'He has a great artistic sensitivity.' Camille praises his emotional resonance.
+- 'He does not know how to act yet.' Mathias highlights the newcomer's technical limits.
+- 'We must think about this film.' Mathias focuses on overall production success.
+- 'It is really unfair to him!' Camille voices her deep frustration.
+- 'One must know how to make choices.' Mathias shares hard-nosed industry realism.
+- 'Call Samy to break the news to him.' Mathias assigns the difficult phone task.
+- 'Hello Samy, it is Camille, your agent.' Camille starts her voicemail recording.
+- 'I am sorry about this role.' Camille conveys her heartfelt regrets.
+- 'But we are going to continue together.' Camille promises ongoing support.
+- 'The future is big ahead of us!' Camille shares an optimistic vision. Now listen to the scene again at normal speed and see how much you understand.

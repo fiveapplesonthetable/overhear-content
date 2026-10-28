@@ -35,8 +35,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A coffee, please.' The last part literally means 'if it pleases you', with the formal 'you'; it's the standard way to say please to anyone you don't know.
 - 'Very well. And you? Tea?' Noémie turns to her boss; she knows how he takes his drinks.
 - 'Fine. Thank you.' The first word literally means 'in agreement', the everyday way to say okay. Noémie leaves, the door closes, and the tone changes at once.
-- 'Why didn't you call?' Now he uses the casual 'you'. Behind a closed door Mathias talks to his daughter like the father he is. The negative wraps around the helper verb of the past tense.
-- 'I wanted to surprise you.' Camille links 'I' directly with 'wanted' to express the thought clearly.
+- 'Why didn't you call?' Now he uses the casual 'you'.
+- 'I wanted to surprise you.' Camille answers with the casual 'you' too; the small word for 'you' sits right before the verb.
 - 'It's nice here. Free lollipops!' She has spotted a bowl of sticks on the reception desk. The word for 'nice' here is a friendly, informal one.
 - 'It's sugar for the coffee.' They are sugar sticks, not sweets. Mathias is not amused.
 - 'What are you doing in Paris? Are you on holiday?' The first part is the most common way to ask 'what' in a question. The word for holiday is always plural in French.

@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Excuse me? What did you say?' Sofia reacts with shock and immediate anger at the insult.
 - 'Calm down, everyone knows it.' Constance dismisses Sofia's outrage with gossipy arrogance.
 - 'An actress who sleeps with her agent for roles.' The casting director openly voices industry rumors.
-- 'This role does not require much effort.' Constance opens with the word for 'part' and lands on 'of effort' at the close.
-- 'The role was written for you!' Constance pairs the verb meaning 'has' with the noun for 'part'.
+- 'This role does not require much effort.' A snide remark belittling the effort required for the part.
+- 'The role was written for you!' A poisonous compliment intended to undermine Sofia's self-worth.
 - 'Come on, start again whenever you want.' Constance coldly signals that Sofia can resume the audition.

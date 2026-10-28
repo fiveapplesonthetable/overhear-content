@@ -28,22 +28,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did your wife and your father-in-law know about this tax audit?' Listen for the expression meaning 'wife', which leads naturally into 'tax'.
+- 'Did your wife and your father-in-law know about this tax audit?' Being in the current of something is the French idiom for being informed or in the loop.
 - 'Yes.' Mathias answers quietly to the group.
-- 'Won't that affect their intention to buy out my shares?' Hélène pairs the verb meaning 'will affect' with the noun for 'shares'.
+- 'Won't that affect their intention to buy out my shares?' Hélène worries that the tax audit could derail the buyout of her shares.
 - 'I don't know, Hélène.' Mathias avoids making any promises.
-- 'It's unbelievable!' The prefix turns the adjective into its opposite.
-- 'Without fresh money, the agency will close after this audit.' The little word for 'them' sits directly before the infinitive verb.
-- 'If there are no new funds, ASK will not survive this tax audit.' Hélène pairs the verb meaning 'is' with the noun for 'audit'.
+- 'It's unbelievable!' Hélène gasps in disbelief at the scale of the financial crisis.
+- 'Without fresh money, the agency will close after this audit.' Hélène warns that without fresh capital, the agency will have to shut down after the audit.
+- 'If there are no new funds, ASK will not survive this tax audit.' The future tense indicates that the agency's very existence is now at stake.
 - 'Do you all understand that?' Hélène looks around the table at Gabriel and Arlette.
 - 'What then? Are we going bankrupt?' The everyday idiom for going bust or declaring bankruptcy.
 - 'I'm asking you the question!' Gabriel demands an immediate answer from Mathias.
 - 'What do you mean, you don't know?' Literally 'how that, you do not know'.
 - 'I don't know, Gabriel!' Mathias loses his cool under Gabriel's shouting.
-- 'You always know everything!' Gabriel adds the emphasis word at the end for emphasis.
+- 'You always know everything!' Gabriel adds the disjunctive pronoun at the end for emphasis.
 - 'Call your wife, now.' Gabriel insists that Mathias contact Catherine.
-- 'We have to know.' Listen for the expression meaning 'is necessary', which leads naturally into 'know'.
+- 'We have to know.' The subjunctive form of the verb 'to know' after the impersonal expression.
 - 'That won't do any good.' Literally 'that will serve to nothing'.
-- 'She won't talk to me.' Mathias combines 'she' with 'will speak' in a natural French turn of phrase.
-- 'It looks like a divorce.' Notice how the verb for 'looks like' leads straight into 'divorce'.
+- 'She won't talk to me.' Mathias knows Catherine will not even pick up the phone if he calls.
+- 'It looks like a divorce.' The verb followed by the preposition means 'looks like' or 'resembles'.
 - 'What is she doing? Andréa is running off!' While the partners argue, Andréa suddenly bolts out of the conference room and sprints down the stairs after Colette. Now let's hear the whole scene again from start to finish.

@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do not worry, no one will bother us here. Tea or coffee?' Mathias welcomes Ramzy into his private office to speak calmly.
 - 'Did you know? She called you at three o'clock in the morning.' Ramzy checks whether Mathias knew about the affair before anyone else.
 - 'What did she say to you?' Ramzy demands details of their late-night phone call.
-- 'I protect both of you, that is my job as an agent.' The key word here means 'role', paired with 'concern' to make the point clear.
-- 'We are going to sue this newspaper in court and win.' Mathias pairs the verb meaning 'is' with the noun for 'justice'.
+- 'I protect both of you, that is my job as an agent.' Mathias assures Virginie and Ramzy that their private life is their own business.
+- 'We are going to sue this newspaper in court and win.' He promises to sue the tabloid magazine in court and win.
 - 'That will not diminish my public humiliation.' Ramzy feels deeply disgraced by the widely circulated pictures.
 - 'Did she call and leave a message?' Ramzy wonders if Virginie tried to explain herself.
 - 'No, but she could, I am her agent too.' Mathias reminds him that his professional loyalty extends to both clients.
 - 'That is the exact problem, you are a double agent!' Ramzy angrily accuses Mathias of being torn between competing loyalties.
-- 'Not quite, I am the agent of both of you.' The key word here means 'all', paired with 'two.' to make the point clear.
+- 'Not quite, I am the agent of both of you.' The phrase pas tout a fait means not quite or not exactly.
 - 'Well, now you must choose.' Ramzy issues an uncompromising ultimatum to his representative.
 - 'Sorry to disturb you, Mathias. Virginie Efira is here.' Sofia steps into the office to announce the unexpected visitor.
 - 'See? Do what is necessary, I do not want to see her.' Ramzy firmly refuses to speak to Virginie in person.

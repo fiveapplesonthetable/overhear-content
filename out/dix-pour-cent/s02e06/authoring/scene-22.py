@@ -32,18 +32,18 @@ STORY = [
     ('juliette', 'La cérémonie va bientôt commencer!', 'The ceremony will begin soon!', [(600, 'Tu montes')], ''),
 ]
 WALK = [
-    (0, None, "'This way, let us hurry up a bit!' Andréa urges everyone to move quickly through the building."),
+    (0, None, "'This way, let us hurry up a bit!' Andrea urges everyone to move quickly through the building."),
     (1, None, "'I have to go on stage soon.' Juliette reminds them that the clock is ticking down."),
     (2, None, "'It is a true nightmare!' Juliette laments their chaotic predicament."),
     (3, None, "'Where do all these long corridors lead?' Hicham asks as they wander through unfamiliar hallways."),
-    (4, None, "'There are bathrooms over there.' Andréa thinks she has found the right direction."),
+    (4, None, "'There are bathrooms over there.' Andrea thinks she has found the right direction."),
     (5, None, "'Be careful with my dress!' Juliette warns them to mind her delicate designer outfit."),
     (6, None, "'Look, this door is locked!' Hicham points out that their path is blocked."),
-    (7, None, "'It is not possible, we are turning!' Andréa realizes they are running in circles."),
+    (7, None, "'It is not possible, we are turning!' Andrea realizes they are running in circles."),
     (8, None, "'I only see doors.' Juliette despairs at the maze of unmarked doors."),
     (9, None, "'We are completely lost here!' Hicham states the obvious truth about their situation."),
-    (10, None, "'Let us take this corridor this way.' Andréa tries another turn to escape the maze."),
+    (10, None, "'Let us take this corridor this way.' Andrea tries another turn to escape the maze."),
     (11, None, "'Watch out, my beautiful dress is tearing!' Juliette gasps as her garment snags on an obstacle."),
-    (12, None, "'Oh no, a tear at the bottom!' Andréa spots the damage to the gown with dismay."),
+    (12, None, "'Oh no, a tear at the bottom!' Andrea spots the damage to the gown with dismay."),
     (13, None, "'The ceremony will begin soon!' Juliette worries that she must go on stage in damaged clothes."),
 ]

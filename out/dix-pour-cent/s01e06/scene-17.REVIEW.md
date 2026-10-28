@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What do you want?' Notice that Catherine addresses her own husband with the formal 'you' in front of her staff to keep him at a distance.
-- 'I just want to talk to you. To apologize.' Mathias follows suit with the formal pronoun.
-- 'Apologize as much as you want, I will never forgive you.' Catherine opens with the word for 'apologize' and lands on 'never' at the close.
+- 'I just want to talk to you. To apologize.' Mathias tells Catherine softly that he only wants to talk and apologize.
+- 'Apologize as much as you want, I will never forgive you.' The verb is in the future tense, wrapped in the negative words for 'never'.
 - 'Just five minutes.' Literally 'five minutes only', he pleads to her.
-- 'Why are you suddenly in such a hurry?' Notice how 'why' sets up the clause and leads naturally into 'in a hurry'.
+- 'Why are you suddenly in such a hurry?' Mathias tries to slow Catherine down as she hurries down the corridor.
 - 'I can't stand this anymore.' The negative words around the verb mean 'no longer' or 'not anymore'.
-- 'I'm worried about you.' This everyday French sentence pairs 'I' with 'you'.
+- 'I'm worried about you.' Mathias claims he is only there out of concern for her.
 - 'Are you afraid for your agency?' Catherine suspects Mathias only cares about her father's money to buy out ASK.
 - 'No, darling.' Mathias slips back into familiarity with her.
-- 'Don't call me darling! Ever!' Catherine calls her assistant Sandra and walks away. Meanwhile at ASK, Andréa is on the phone with François.
+- 'Don't call me darling! Ever!' Catherine calls her assistant Sandra and walks away.
 - 'We'll meet there. At what time?' Here, Christophe Bel sent François a text from Andréa's phone inviting him to his birthday party, and François says he doesn't feel like going.
-- 'François, he invited you personally. And now you're hesitating?' The adverb meaning 'personally' sharpens the verb for 'you + has' here.
-- 'Isn't that what you wanted?' Meanwhile, François grumbles that he would have preferred a quiet lunch rather than a birthday party.
-- 'Sorry, François, I don't follow you.' The key word here means 'not', paired with 'not' to make the point clear.
+- 'François, he invited you personally. And now you're hesitating?' Andréa cannot believe François is backing out after getting a personal invitation.
+- 'Isn't that what you wanted?' Here, François grumbles that he would have preferred a quiet lunch rather than a birthday party.
+- 'Sorry, François, I don't follow you.' Here 'follow' is from the verb 'to follow', spelled the same as 'I am'.
 - 'Right, I'll be there at eight-thirty.' French uses the twenty-four-hour clock for evening appointments.
 - 'We'll meet outside.' Literally 'we find each other again outside'.
 - 'Yes, Colette, it's me. Something came up at work.' As soon as she hangs up with François, Andréa calls Colette to explain why she will be late for dinner with Colette's friends. Now let's hear the whole scene again from start to finish.

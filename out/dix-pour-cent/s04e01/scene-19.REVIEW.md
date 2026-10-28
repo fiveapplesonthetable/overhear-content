@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, let us find our seats, over here.' Mathias navigates the busy foyer. Notice how 'let us find' leads directly into the noun meaning 'seats'.
-- 'Wait, Mathias, my dress is a disaster!' Noemie is struck by sudden insecurity. The verb meaning 'wait' pairs naturally with the noun for 'dress' in everyday conversation.
-- 'Not at all, your dress is stunning.' Mathias counters her worry with praise. The informal 'you' form around 'dress' marks a direct, personal relationship.
-- 'It is too flashy!' Noemie fears looking conspicuous among celebrities. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
-- 'You are elegant and very radiant.' Mathias praises her graceful appearance. The adverb meaning 'very' gives the reply its conversational emphasis.
-- 'A friend is coming toward us, look.' Noemie notes an approaching guest. The verb meaning 'arrives' pairs naturally with the noun for 'friend' in everyday conversation.
-- 'Hello Mathilde, how are you tonight?' Mathias welcomes an old associate. Notice how 'are going' leads directly into the noun meaning 'hello'.
-- 'She called me your little assistant!' Noemie expresses righteous resentment. This conversational past tense combines a helper verb with the past verb form for 'called'.
-- 'I was not able to correct her.' Mathias defends his hesitation in the moment. The clause hinges on the everyday verb meaning 'have'.
-- 'You should have defended my status.' Noemie demands proper professional recognition. Noemie uses the casual singular 'you' with 'would have', showing close familiarity.
-- 'I am sorry for that word.' Mathias recognizes her genuine hurt. The key noun here means 'word', anchored by its matching French article.
-- 'This circle remains cruel to me.' Noemie laments the snobbish film elite. The descriptive adjective for 'cruel' agrees in gender and number with its noun.
-- 'Our two seats are right here.' Mathias finds their numbered row. The key noun here means 'seats', anchored by its matching French article.
-- 'Let us sit down to watch the ceremony.' Noemie prepares for the evening program. The verb meaning 'let us sit' pairs naturally with the noun for 'ceremony' in everyday conversation.
+- 'So, let us find our seats, over here.' Mathias navigates the busy foyer.
+- 'Wait, Mathias, my dress is a disaster!' Noemie is struck by sudden insecurity.
+- 'Not at all, your dress is stunning.' Mathias counters her worry with praise.
+- 'It is too flashy!' Noemie fears looking conspicuous among celebrities.
+- 'You are elegant and very radiant.' Mathias praises her graceful appearance.
+- 'A friend is coming toward us, look.' Noemie notes an approaching guest.
+- 'Hello Mathilde, how are you tonight?' Mathias welcomes an old associate.
+- 'She called me your little assistant!' Noemie expresses righteous resentment.
+- 'I was not able to correct her.' Mathias defends his hesitation in the moment.
+- 'You should have defended my status.' Noemie demands proper professional recognition.
+- 'I am sorry for that word.' Mathias recognizes her genuine hurt.
+- 'This circle remains cruel to me.' Noemie laments the snobbish film elite.
+- 'Our two seats are right here.' Mathias finds their numbered row.
+- 'Let us sit down to watch the ceremony.' Noemie prepares for the evening program.

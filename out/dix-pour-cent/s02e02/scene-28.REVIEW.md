@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello?' Andréa answers her mobile phone at the agency.
+- 'Hello?' Andrea answers her mobile phone at the agency.
 - 'Hello, Andréa. This is Fabrice Luchini.' Fabrice identifies himself warmly.
-- 'Hello, Fabrice. Are you well?' Andréa uses the polite question form.
-- 'Very well. I just wanted to tell you...' Listen for the expression meaning 'very', which leads naturally into 'to tell'.
-- 'I have a date with her tonight.' Fabrice pairs the verb meaning 'I have' with the noun for 'evening'.
-- 'That's wonderful, I am really happy for you.' The feminine adjective 'happy' agrees with Andréa.
-- 'Thanks to you! You have revitalized me.' Listen for the expression meaning 'have me', which leads naturally into 'revitalized'.
-- 'I find it funny. You are a gambler, and that is rare.' The key word here means 'find', paired with 'rare' to make the point clear.
-- 'Thank you.' Andréa accepts his flattering compliment.
-- 'It would be a pleasure to discover them with you.' Fabrice pairs the verb meaning 'would be' with the noun for 'pleasure'.
-- 'Thank you for your call, Fabrice.' Andréa thanks him for reaching out directly.
-- 'Take care of yourself... My New Agent.' The key word here means 'take', paired with 'agent' to make the point clear.
-- 'See you soon, Fabrice.' Andréa says goodbye to her prestigious new client.
+- 'Hello, Fabrice. Are you well?' Andrea uses the polite question form.
+- 'Very well. I just wanted to tell you...' Fabrice Luchini pauses at the door to say one last thing.
+- 'I have a date with her tonight.' The fixed idiom 'avoir rendez-vous' means to have an appointment.
+- 'That's wonderful, I am really happy for you.' Andréa tells Fabrice how genuinely happy she is for him.
+- 'Thanks to you! You have revitalized me.' The preposition 'grace a' introduces a positive cause.
+- 'I find it funny. You are a gambler, and that is rare.' Fabrice admires Andréa's audacity and calls her a true gambler.
+- 'Thank you.' Andrea accepts his flattering compliment.
+- 'It would be a pleasure to discover them with you.' He says it would be a pleasure to read the new scripts with her.
+- 'Thank you for your call, Fabrice.' Andrea thanks him for reaching out directly.
+- 'Take care of yourself... My New Agent.' Fabrice seals the deal by calling Andréa his new agent as he says goodbye.
+- 'See you soon, Fabrice.' Andrea says goodbye to her prestigious new client.
 - 'Talk to you soon.' Fabrice returns the farewell before hanging up.
 - 'Well done, Martel.' Hicham steps in to congratulate his daring agent.
-- 'I knew you were capable of it.' Hicham opens with the word for 'knew' and lands on 'capable' at the close.
+- 'I knew you were capable of it.' Impressed by her victory, Hicham admits he knew she could pull it off.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you do that, Gabriel?' Andrea demands an immediate explanation from her partner. The informal 'you' form around 'to have' marks a direct, personal relationship.
-- 'What are you talking about exactly?' Gabriel tries to evade the confrontation. Gabriel uses the casual singular 'you' with 'to speak', showing close familiarity.
-- 'You negotiated with Elise Formain!' Andrea accuses him of betraying the agency. The clause hinges on the everyday verb meaning 'to have'.
-- 'I did it to protect you.' Gabriel insists he acted out of loyalty. Notice how the short vowel drops before a vowel sound around 'to have', making the phrase flow smoothly as one unit.
-- 'How can you betray our agency?' Andrea cannot understand his surrender to their rival. The verb meaning 'can you' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'This agency is dead, Andrea!' Gabriel shouts the harsh reality aloud. Dropping the subject pronoun turns the verb for 'to be' into a direct, punchy command.
-- 'It is over and everyone knows it.' Gabriel faces the imminent financial collapse. Notice how the short vowel drops before a vowel sound around 'to know', making the phrase flow smoothly as one unit.
-- 'I have had enough of being nice!' Gabriel vents his frustration at being passive. This conversational past tense combines a helper verb with the past verb form for 'to have'.
-- 'It is my turn to be the villain.' Gabriel embraces a ruthless attitude to survive. Notice how 'to be' leads directly into the noun meaning 'turn'.
-- 'I am going to work with her.' Gabriel confirms his plan to join Elise's firm. French forms the near future by pairing the present tense of 'to go' directly with 'to work'.
-- 'I will keep an eye on that pest.' Gabriel reveals his true undercover strategy. The verb meaning 'to go' pairs naturally with the noun for 'pest' in everyday conversation.
-- 'Even if I lose face!' Gabriel accepts the damage to his reputation. The verb meaning 'to lose' pairs naturally with the noun for 'face' in everyday conversation.
-- 'But I love your true face.' Andrea responds with tender affection and understanding. Notice how the short vowel drops before a vowel sound around 'to like', making the phrase flow smoothly as one unit.
-- 'I adore your face too.' Gabriel softens completely before his longtime friend. The verb meaning 'to love' pairs naturally with the noun for 'face' in everyday conversation.
+- 'Why did you do that, Gabriel?' Andrea demands an immediate explanation from her partner.
+- 'What are you talking about exactly?' Gabriel tries to evade the confrontation.
+- 'You negotiated with Elise Formain!' Andrea accuses him of betraying the agency.
+- 'I did it to protect you.' Gabriel insists he acted out of loyalty.
+- 'How can you betray our agency?' Andrea cannot understand his surrender to their rival.
+- 'This agency is dead, Andrea!' Gabriel shouts the harsh reality aloud.
+- 'It is over and everyone knows it.' Gabriel faces the imminent financial collapse.
+- 'I have had enough of being nice!' Gabriel vents his frustration at being passive.
+- 'It is my turn to be the villain.' Gabriel embraces a ruthless attitude to survive.
+- 'I am going to work with her.' Gabriel confirms his plan to join Elise's firm.
+- 'I will keep an eye on that pest.' Gabriel reveals his true undercover strategy.
+- 'Even if I lose face!' Gabriel accepts the damage to his reputation.
+- 'But I love your true face.' Andrea responds with tender affection and understanding.
+- 'I adore your face too.' Gabriel softens completely before his longtime friend.

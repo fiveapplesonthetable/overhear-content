@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Noemie, am I not disturbing you?' Mathias checks politely if she is free to speak. The clause hinges on the everyday verb meaning 'disturb'.
-- 'No Mathias, everything is going very well.' Noemie answers with warm reassurance. The clause hinges on the everyday verb meaning 'goes'.
-- 'Isabelle's shoot is finished.' Mathias reports the end of the marathon filming. The verb meaning 'finished' pairs naturally with the noun for 'filming' in everyday conversation.
-- 'We made it through this crazy night!' Mathias expresses relief after the crisis. The verb meaning 'have' pairs naturally with the noun for 'night' in everyday conversation.
-- 'That is wonderful news for you!' Noemie rejoices at their collective relief. The formal 'you' pronoun sets a courteous, professional distance around 'piece of news'.
-- 'It is largely thanks to your help.' Mathias attributes their triumph to her logistics. The formal 'you' pronoun sets a courteous, professional distance around 'help'.
-- 'You were quite simply wonderful.' Mathias compliments her exceptional dedication. The descriptive adjective for 'terrific' agrees in gender and number with its noun.
-- 'I am very happy for you.' Noemie responds with modest professional warmth. The adjective meaning 'happy' takes its feminine form here to match the noun it describes.
-- 'Are you not with Alexandre?' Mathias discreetly inquires about her romantic status. The formal 'you' pronoun sets a courteous, professional distance around 'this remark'.
-- 'No, I am all alone.' Noemie assures him of her solitary morning. The adjective meaning 'alone' takes its feminine form here to match the noun it describes.
-- 'And you, with your wife?' Noemie gently questions his domestic situation. The key noun here means 'wife', anchored by its matching French article.
-- 'No, I am downstairs.' Mathias reveals his unexpected presence outside her flat. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'I am bringing warm croissants!' Mathias tempts her with fresh French pastries. The descriptive adjective for 'warm' agrees in gender and number with its noun.
-- 'Ring quickly, I am buzzing you in!' Noemie invites him up without hesitation. Noemie uses the polite 'you' form alongside 'ring' to keep a respectful professional tone. Now let's hear the whole conversation again.
+- 'Hello Noemie, am I not disturbing you?' Mathias checks politely if she is free to speak.
+- 'No Mathias, everything is going very well.' Noémie answers with warm reassurance.
+- 'Isabelle's shoot is finished.' Mathias reports the end of the marathon filming.
+- 'We made it through this crazy night!' Mathias expresses relief after the crisis.
+- 'That is wonderful news for you!' Noémie rejoices at their collective relief.
+- 'It is largely thanks to your help.' Mathias attributes their triumph to her logistics.
+- 'You were quite simply wonderful.' Mathias compliments her exceptional dedication.
+- 'I am very happy for you.' Noémie responds with modest professional warmth.
+- 'Are you not with Alexandre?' Mathias discreetly inquires about her romantic status.
+- 'No, I am all alone.' Noémie assures him of her solitary morning.
+- 'And you, with your wife?' Noémie gently questions his domestic situation.
+- 'No, I am downstairs.' Mathias reveals his unexpected presence outside her flat.
+- 'I am bringing warm croissants!' Mathias tempts her with fresh French pastries.
+- 'Ring quickly, I am buzzing you in!' Noémie invites him up without hesitation. Now listen to the scene again at normal speed and see how much you understand.

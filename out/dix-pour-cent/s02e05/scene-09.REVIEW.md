@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And now, what would you say to officially welcoming our new junior?' Hicham opens the floor dramatically. The adjective meaning 'new' agrees in gender and number with masculine noun 'junior'.
-- 'You should have consulted us beforehand.' Andréa objects to the unilateral move. The past conditional 'you' expresses reproach for an omitted duty.
-- 'I consulted myself. And I decided.' Hicham asserts his autocratic authority boldly. The reflexive passe compose 'I' emphasizes his sole decision-making.
-- 'Our new junior is a woman.' Hicham begins unveiling his choice. Hicham pairs the verb meaning 'is' with the noun for 'woman'.
-- 'And her name is Camille Valentini.' Hicham drops the bombshell announcement. The key word here means 'is named', paired with 'is named' to make the point clear.
-- 'What? Camille?' Andréa gasps in shock. The question word 'what' conveys disbelief at the unexpected choice.
-- 'There were candidates who knew very well how to sell themselves.' Hicham explains his reasoning. Hicham opens with the word for 'were' and lands on 'to sell' at the close.
-- 'She did not talk, she acted.' Hicham praises Camille's quiet initiative. The adverb meaning 'not' sharpens the verb for 'has not' here.
-- 'Camille, were you a candidate?' Andréa questions Camille directly. Andréa opens with the word for 'were' and lands on 'a candidate' at the close.
-- 'No, not at all.' Camille answers honestly. The emphatic negative idiom 'not' denies any prior ambition.
-- 'No, she was not, but she came to Paris alone.' Hicham defends her independent spirit. The verb meaning 'was it' anchors the whole remark.
-- 'She made a place for herself there without revealing who her father was.' Hicham admires her discretion. Listen for the expression meaning 'is', which leads naturally into 'father'.
-- 'Gritting your teeth, confiding in no one.' Hicham lists the qualities of resilience. The idiomatic infinitive 'to grit' represents quiet perseverance under pressure.
-- 'Those are the qualities you need in this business.' Hicham summarizes the agency virtues. Hicham opens with the word for 'are' and lands on 'profession' at the close.
-- 'So welcome, Camille, our new agent.' Hicham concludes his promotion speech. The interjection 'welcome' greets the newly elevated colleague warmly.
-- 'Thank you, I will do my best.' Camille accepts the daunting challenge. The adverb meaning 'best' sharpens the verb for 'will do' here.
+- 'And now, what would you say to officially welcoming our new junior?' Hicham opens the floor dramatically.
+- 'You should have consulted us beforehand.' Andrea objects to the unilateral move.
+- 'I consulted myself. And I decided.' Hicham asserts his autocratic authority boldly.
+- 'Our new junior is a woman.' Hicham begins unveiling his choice.
+- 'And her name is Camille Valentini.' Hicham drops the bombshell announcement.
+- 'What? Camille?' Andrea gasps in shock.
+- 'There were candidates who knew very well how to sell themselves.' Hicham explains his reasoning.
+- 'She did not talk, she acted.' Hicham praises Camille's quiet initiative.
+- 'Camille, were you a candidate?' Andrea questions Camille directly.
+- 'No, not at all.' Camille answers honestly.
+- 'No, she was not, but she came to Paris alone.' Hicham defends her independent spirit.
+- 'She made a place for herself there without revealing who her father was.' Hicham admires her discretion.
+- 'Gritting your teeth, confiding in no one.' Hicham lists the qualities of resilience.
+- 'Those are the qualities you need in this business.' Hicham summarizes the agency virtues.
+- 'So welcome, Camille, our new agent.' Hicham wraps up the meeting by welcoming Camille as a junior agent.
+- 'Thank you, I will do my best.' Camille accepts the daunting challenge.

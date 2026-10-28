@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I forgive you for everything, my child.' Isabelle begins her character's deathbed scene. Notice how 'forgive' leads directly into the noun meaning 'child'.
-- 'Ah, my leg hurts very badly.' The character cries out in agony. Notice how 'have' leads directly into the noun meaning 'pain'.
-- 'Are you going to cut off my leg?' The character fears surgical amputation. Notice how 'go' leads directly into the noun meaning 'leg'.
-- 'No, madam, have no fear.' The co-star comforts her in character. Notice how 'be' leads directly into the noun meaning 'madam'.
-- 'Henri, I see you in the light.' The character experiences a vision of her lost love. The short 'self' word sits right in front of the verb for 'see', turning the action back onto the subject.
-- 'Henri, wait for me, I am joining you.' She speaks her final words to her beloved. The clause hinges on the everyday verb meaning 'wait for me'.
-- 'Promise me one last thing before my death.' The dying heroine asks for a solemn vow. Notice how 'promise me' leads directly into the noun meaning 'thing'.
-- 'My heart will go join his.' She declares an eternal romantic bond. French forms the near future by pairing the present tense of 'to go' directly with 'join'.
-- 'I promise you, rest in peace.' The doctor makes a solemn deathbed pledge. the director uses the polite 'you' form alongside 'promise' to keep a respectful professional tone.
-- 'Farewell, the world is slowly fading.' The heroine breathes her final breath. Notice how 'fades' leads directly into the noun meaning 'world'.
-- 'Cut! That is a wrap on this take!' The director halts the filming. Dropping the subject pronoun turns the verb for 'cut' into a direct, punchy command.
-- 'Magnificent, Isabelle, bravo for this scene.' The director praises the actress enthusiastically. The key noun here means 'scene', anchored by its matching French article.
-- 'Thank you, this take was very intense.' Isabelle steps out of character. Notice how 'was' leads directly into the noun meaning 'thank you'.
-- 'Your emotion was absolutely perfect.' The director reiterates his admiration. the director uses the polite 'you' form alongside 'was' to keep a respectful professional tone.
+- 'I forgive you for everything, my child.' Isabelle begins her character's deathbed scene.
+- 'Ah, my leg hurts very badly.' The character cries out in agony.
+- 'Are you going to cut off my leg?' The character fears surgical amputation.
+- 'No, madam, have no fear.' The co-star comforts her in character.
+- 'Henri, I see you in the light.' The character experiences a vision of her lost love.
+- 'Henri, wait for me, I am joining you.' She speaks her final words to her beloved.
+- 'Promise me one last thing before my death.' The dying heroine asks for a solemn vow.
+- 'My heart will go join his.' She declares an eternal romantic bond.
+- 'I promise you, rest in peace.' The doctor makes a solemn deathbed pledge.
+- 'Farewell, the world is slowly fading.' The heroine breathes her final breath.
+- 'Cut! That is a wrap on this take!' The director halts the filming.
+- 'Magnificent, Isabelle, bravo for this scene.' The director praises the actress enthusiastically.
+- 'Thank you, this take was very intense.' Isabelle steps out of character.
+- 'Your emotion was absolutely perfect.' The director reiterates his admiration.

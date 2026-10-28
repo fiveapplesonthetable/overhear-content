@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is horrible, truly horrible!' Hervé vents about a bizarre dog incident outside. The intensifying adverb underscores his distress.
-- 'Are you not on the train?' Hervé is surprised to find Noémie still at the office. The negative question form questions her missed departure.
-- 'No, I am not going anymore.' Noémie reveals that she cancelled her trip to Cannes. The adverbial pronoun refers to the canceled destination.
-- 'But why this sudden change?' Hervé inquires about her sudden reversal. The question form adverb seeks an explanation for her decision.
-- 'The timing was really poorly chosen.' She makes an excuse about poor timing. The evaluative adverbial phrase justifies backing out.
-- 'You can go if you want.' Noémie offers her colleague the opportunity to attend the festival instead. The key word here means 'can', paired with 'wish' to make the point clear.
-- 'I will hold down the fort all alone.' She volunteers to manage the agency office in Paris. The simple future verb expresses selfless commitment.
-- 'Are you sure of your choice?' Hervé checks if she truly wants to stay behind. The predicate adjective inquires about her certainty.
-- 'Have you warned Mathias?' He asks whether her boss and lover knows she cancelled. The verb meaning 'have' anchors the whole remark.
-- 'I said that I was sick.' Noémie admits to telling a white lie to cover up her heartache. The key word here means 'I have', paired with 'unwell' to make the point clear.
-- 'Are you crying, Noémie?' Hervé notices tears welling up in her eyes. The direct address conveys gentle concern.
-- 'Is it because of a man?' He intuitively suspects romantic heartbreak behind her tears. The prepositional phrase targets the emotional cause.
-- 'Yes, but I will get over it.' Noémie acknowledges the pain while trying to stay brave. The pronominal verb construction expresses emotional recovery.
-- 'I will stay here too.' Touched by her distress, Hervé decides to keep her company in Paris. The near-future verb form shows spontaneous loyalty.
-- 'Thank you for your support, Hervé!' She appreciates his comforting presence during a difficult moment. Listen for the expression meaning 'loyal support', which leads naturally into 'loyal support'.
+- 'It is horrible, truly horrible!' Herve vents about a bizarre dog incident outside.
+- 'Are you not on the train?' Herve is surprised to find Noemie still at the office.
+- 'No, I am not going anymore.' Noemie reveals that she cancelled her trip to Cannes.
+- 'But why this sudden change?' Herve inquires about her sudden reversal.
+- 'The timing was really poorly chosen.' She makes an excuse about poor timing.
+- 'You can go if you want.' Noemie offers her colleague the opportunity to attend the festival instead.
+- 'I will hold down the fort all alone.' She volunteers to manage the agency office in Paris.
+- 'Are you sure of your choice?' Herve checks if she truly wants to stay behind.
+- 'Have you warned Mathias?' He asks whether her boss and lover knows she cancelled.
+- 'I said that I was sick.' Noemie admits to telling a white lie to cover up her heartache.
+- 'Are you crying, Noémie?' Herve notices tears welling up in her eyes.
+- 'Is it because of a man?' He intuitively suspects romantic heartbreak behind her tears.
+- 'Yes, but I will get over it.' Noemie acknowledges the pain while trying to stay brave.
+- 'I will stay here too.' Touched by her distress, Herve decides to keep her company in Paris.
+- 'Thank you for your support, Hervé!' She appreciates his comforting presence during a difficult moment.

@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'An operation? Are you serious?' She asks with her voice rising, no special question words needed. Mathias says no, not surgery, something else.
 - 'No. It's lipofilling.' A cosmetic treatment where fat is moved into the face to fill it out. The producer backs him up.
 - 'It's totally different.' It isn't, of course, but she says it with a smile. Cécile is very clear.
-- 'Sorry, I'm not touching my face.' The word for 'sorry' has a feminine ending, because Cécile is a woman. And the negative wraps around the verb again. Mathias asks her to stay calm.
+- 'Sorry, I'm not touching my face.' The word for 'sorry' has a feminine ending, because Cécile is a woman.
 - 'Wait, Cécile. Let's listen to Miranda.' The second command ends in the sound for 'let's', which means 'we' are doing it together. Miranda makes it sound like nothing.
 - 'It's so simple.' The middle word means 'so' or 'really', and it makes anything stronger.
 - 'They start with Botox, then they cannot stop anymore.'s done. Baby face!' The first phrase is one of the most French expressions there is, the 'ta-da' you say when something is finished. Cécile isn't fooled.
@@ -50,4 +50,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They start with a bit of Botox. Then they can't stop anymore.' She means other actresses. In the second sentence, the negative changes: the second little word now means 'anymore'. Mathias goes straight to the point.
 - 'Do you want to play the immortal woman?' The part in the film is an immortal woman, which is ironic, since the whole problem is her age.
 - 'Yes, of course, but…' She wants the role badly, and she can't finish her sentence.
-- 'I don't know anymore.' Compare it with 'I don't know', which would end with the usual negative word. Here, the word for 'anymore' takes its place. One small swap, and you go from not knowing to no longer knowing. Here's the scene again from start to finish. Now let's hear the full exchange again from beginning to end.
+- 'I don't know anymore.' Compare it with 'I don't know', which would end with the usual negative word. Here, the word for 'anymore' takes its place. One small swap, and you go from not knowing to no longer knowing. Here's the scene again from start to finish.

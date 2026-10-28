@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for this very good dinner, Hicham.' Andréa thanks him politely as they arrive outside her home.
+- 'Thank you for this very good dinner, Hicham.' Andrea thanks him politely as they arrive outside her home.
 - 'I have never seen you eat so much!' Hicham teases her about clearing her plate with unusual gusto.
-- 'Being with you whets my appetite.' Andréa offers a playful excuse for eating heartily.
+- 'Being with you whets my appetite.' Andrea offers a playful excuse for eating heartily.
 - 'Is it not rather the pregnancy?' Hicham directly brings up her developing condition.
-- 'No, I do not really think so.' Andréa avoids dwelling on medical symptoms.
-- 'Have I gained a lot of weight?' Andréa checks self-consciously if physical changes are already obvious.
+- 'No, I do not really think so.' Andrea avoids dwelling on medical symptoms.
+- 'Have I gained a lot of weight?' Andrea checks self-consciously if physical changes are already obvious.
 - 'No, but this pregnancy has changed you.' Hicham reassures her with affectionate honesty.
 - 'You are calmer and very radiant.' Hicham notices a softer and warmer demeanor in her.
-- 'My breasts are not very radiant!' Andréa jokes about the uncomfortable physical transformations.
+- 'My breasts are not very radiant!' Andrea jokes about the uncomfortable physical transformations.
 - 'I recognize your street well now.' Hicham recalls past visits to her apartment block.
 - 'Are you worried about the future baby?' Hicham asks if she feels anxious about impending motherhood.
-- 'I do not know what I will do.' Andréa confesses her deep uncertainty about the road ahead.
-- 'We will see each other on my return from Cannes.' Andréa defers major life decisions until after the festival.
+- 'I do not know what I will do.' Andrea confesses her deep uncertainty about the road ahead.
+- 'We will see each other on my return from Cannes.' Andrea defers major life decisions until after the festival.

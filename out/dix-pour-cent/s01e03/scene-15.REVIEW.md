@@ -32,15 +32,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's a great script, isn't it?' Putting the word for 'no' at the end of a statement turns it into 'isn't it?' or 'right?'.
 - 'Yes, it's powerful!' Literally 'it is strong', a common way to praise a story or performance.
 - 'But you don't like the cold.' Laura tries gently to put her mother off the shoot.
-- 'Doesn't that worry you?' The little word for 'you' shrinks before the verb because the verb starts with a vowel.
-- 'No, it can create something intense.' After the phrase for 'something', French always links the adjective with a short word meaning 'of'.
+- 'Doesn't that worry you?' The little word for 'you' shrinks before the action word because the action word starts with a vowel.
+- 'No, it can create something intense.' After the phrase for 'something', French always links the describing word with a short word meaning 'of'.
 - 'We're together in every scene. That's a lot.' Laura tries a second hint, and still her mother doesn't budge.
 - 'Stand up straight.' Literally 'hold yourself straight'. Even in the lift, Nathalie cannot stop mothering her thirty-year-old daughter.
 - 'Hello, Nathalie. Hello, Laura. Shall we go?' Literally 'we go there?'. Mathias and Gabriel are waiting outside the lift.
 - 'Mathias, can I see you alone first?' The phrase at the end means 'first of all'. Meanwhile Laura asks Gabriel for the exact same private chat.
 - 'Of course.' Literally 'well sure'. The doors close on two separate offices.
-- 'You don't know my mother. Three months with her, no!' In Gabriel's office, Laura says the verb for knowing a person. Now listen to Nathalie in Mathias's office.
-- 'Impossible! Why didn't you warn me?' The past verb form at the end has a feminine letter because the shortened object word before the helping verb refers to Nathalie.
+- 'You don't know my mother. Three months with her, no!' In Gabriel's office, Laura says the action word for knowing a person. Now listen to Nathalie in Mathias's office.
+- 'Impossible! Why didn't you warn me?' The past form at the end has a feminine letter because the shortened object word before the auxiliary refers to Nathalie.
 - 'But you get on very well!' Literally 'you hear each other very well'. In French, getting along with someone is understanding or hearing each other.
 - 'A mother and her daughter alone for three months is too long!' Here she uses the casual word for 'we', so the verb is singular.
 - 'But a mother and a daughter alone for three months, they're going to kill each other!' Near future again, with the reflexive word meaning 'each other'.

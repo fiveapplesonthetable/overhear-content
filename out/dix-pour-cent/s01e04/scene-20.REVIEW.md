@@ -34,15 +34,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Back already? I invited the kids for dinner!' Literally 'already of return?'. Catherine has no idea why Mathias looks so pale.
 - 'I just wanted to come home.' He uses the past tense for how he was feeling on the way back.
 - 'I came to get Hippolyte's photos.' Camille quickly explains why she is in his house.
-- 'Andréa asked me to.' Literally 'Andréa asked it to me', with 'to me' and 'it' placed before the helper verb.
+- 'Andréa asked me to.' Literally 'Andréa asked it to me', with 'to me' and 'it' placed before the helper word.
 - 'What did you study at university?' The last word is the everyday short word for university. At the table, Mathias starts grilling Camille.
 - 'I did a year of sociology, then I stopped.' Sociology is shortened too in casual speech.
-- 'That's a shame. Do you want to be an agent?' In response, Hippolyte tells his father to leave her alone, but Mathias keeps pressing.
+- 'That's a shame. Do you want to be an agent?' Here, Hippolyte tells his father to leave her alone, but Mathias keeps pressing.
 - 'I'm thinking about it.' The tiny word before the verb means 'about it'.
 - 'What do your parents do?' Now Catherine innocently asks the most dangerous question of the evening.
 - 'My mother is a hairdresser. She has her own salon.' Notice there is no word for 'a' before a profession.
-- 'That's great! And your father?' In this moment, Camille looks straight at Mathias as she invents an answer.
-- 'My father repairs boats.' Right then, Hippolyte thinks that sounds cool and asks if she sails.
+- 'That's great! And your father?' Here, Camille looks straight at Mathias as she invents an answer.
+- 'My father repairs boats.' Here, Hippolyte thinks that sounds cool and asks if she sails.
 - 'Yes, I sail a lot with my father.' She adds 'with my father' with a pointed look at Mathias.
 - 'It was nice having you.' After dinner, Catherine says goodbye at the door, and Hippolyte offers to walk Camille to her taxi.
 - 'I'll go! I have to talk about one of Andréa's projects.' Mathias jumps in so Hippolyte won't be alone with her.

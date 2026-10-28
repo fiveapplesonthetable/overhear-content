@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If this continues, humanity will go extinct!' Charlotte reads an overly dramatic science-fiction line from the draft. In spoken French, the little word before 'continues' drops its final vowel and attaches with an apostrophe.
-- 'Charlotte, speak louder please!' Oscar interrupts the reading to ask for a stronger delivery. Oscar uses the casual singular 'you' with 'speak', showing close familiarity.
-- 'I thought that we were in love.' Charlotte questions whether the characters are supposed to be lovers. The descriptive adjective for 'in love.' agrees in gender and number with its noun.
-- 'Not at all, he is your grandson!' Oscar clarifies that the male hero is actually her grandson. Oscar uses the casual singular 'you' with 'he is', showing close familiarity.
-- 'He comes from the future into the past!' Oscar explains the bizarre timeline of his story. Notice how 'comes' leads directly into the noun meaning 'future'.
-- 'Is that what you call a script?' Charlotte steps aside to voice her shock to Andrea. Charlotte uses the polite 'you' form alongside 'is it' to keep a respectful professional tone.
-- 'I did not have time to read.' Andrea admits she neglected to review the pages beforehand. The two-part French negation brackets the verb for 'have' on both sides.
-- 'Some people fire their agent for less than that!' Charlotte scolds Andrea for letting her walk into this meeting. Dropping the subject pronoun turns the verb for 'fire' into a direct, punchy command.
-- 'We will get you out of this movie.' Andrea reassures her client that she will resolve the dilemma. The informal 'you' form around 'are going' marks a direct, personal relationship.
-- 'I will say that you demand a rewrite.' Andrea suggests claiming the script needs major editorial changes. The verb meaning 'will say' pairs naturally with the noun for 'rewrite.' in everyday conversation.
-- 'I do not want to hurt my old friend.' Charlotte insists that their lifelong friendship must be protected. The two-part French negation brackets the verb for 'want' on both sides.
-- 'Officially, I love this, but save me!' Charlotte orders Andrea to find a quiet exit behind the scenes. This conversational past tense combines a helper verb with the past verb form for 'save me!'.
-- 'I am going to ask double your fee!' Andrea proposes setting an impossibly high salary to scare the financiers away. Notice how 'am going' leads directly into the noun meaning 'double'.
+- 'If this continues, humanity will go extinct!' Charlotte reads an overly dramatic science-fiction line from the draft.
+- 'Charlotte, speak louder please!' Oscar interrupts the reading to ask for a stronger delivery.
+- 'I thought that we were in love.' Charlotte questions whether the characters are supposed to be lovers.
+- 'Not at all, he is your grandson!' Oscar clarifies that the male hero is actually her grandson.
+- 'He comes from the future into the past!' Oscar explains the bizarre timeline of his story.
+- 'Is that what you call a script?' Charlotte steps aside to voice her shock to Andrea.
+- 'I did not have time to read.' Andrea admits she neglected to review the pages beforehand.
+- 'Some people fire their agent for less than that!' Charlotte scolds Andrea for letting her walk into this meeting.
+- 'We will get you out of this movie.' Andrea reassures her client that she will resolve the dilemma.
+- 'I will say that you demand a rewrite.' Andrea suggests claiming the script needs major editorial changes.
+- 'I do not want to hurt my old friend.' Charlotte insists that their lifelong friendship must be protected.
+- 'Officially, I love this, but save me!' Charlotte orders Andrea to find a quiet exit behind the scenes.
+- 'I am going to ask double your fee!' Andrea proposes setting an impossibly high salary to scare the financiers away.

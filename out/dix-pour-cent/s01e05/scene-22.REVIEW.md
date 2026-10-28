@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You're with the tax inspector! You're crazy!' The adjective at the end is the feminine form of 'crazy'.
-- 'You're behaving like a kid!' A reflexive verb meaning 'to behave', followed by the informal word for a little girl.
-- 'Why didn't you tell me?' Both pronouns 'to me' and 'it' sit right before the helping verb.
-- 'Because of this! Why would it go badly?' Meanwhile, Gabriel is afraid Colette will punish the agency if they break up, and Andréa asks why it would go wrong, using the conditional.
+- 'You're with the tax inspector! You're crazy!' The describing word at the end is the feminine form of 'crazy'.
+- 'You're behaving like a kid!' A self-directed action word meaning 'to behave', followed by the informal word for a little girl.
+- 'Why didn't you tell me?' Both pronouns 'to me' and 'it' sit right before the auxiliary verb.
+- 'Because of this! Why would it go badly?' Here, Gabriel is afraid Colette will punish the agency if they break up, and Andréa asks why it would go wrong, to soften the point.
 - 'It always goes badly, Andréa! You make bad choices!' Literally 'it always turns badly'. That stings, and Andréa hits back.
 - 'Because you're the ideal lover, is that it?' She puts the stressed word for 'you' at the front for emphasis.
 - 'Stop the car! Gabriel, stop the car!' Furious at his lecturing, she orders him to pull over.
 - 'No. Fine, there!' Gabriel stops on the country road, and Andréa storms off across the fields. Back in Paris, Camille explains her online petition to Mathias.
 - 'I took photos of him, as if it were real life.' After 'as if', French uses the past tense for 'it was'.
-- 'But look: more than ten thousand signatures in one night!' Meanwhile, Mathias is angry that she did it without asking, until she points at the numbers.
+- 'But look: more than ten thousand signatures in one night!' Here, Mathias is angry that she did it without asking, until she points at the numbers.
 - 'Do you think it's well done?' Here, Mathias admits it is too well done for an amateur, and Camille beams.
 - 'Should I delete it?' She uses the present tense to offer to take it down, but Mathias tells her to leave it up and praises her work. Meanwhile, out in the fields, Andréa is on the phone with a taxi company.
 - 'Hello? I don't have a car, I'm on foot!' Notice the short two-word phrase at the end for 'on foot'.

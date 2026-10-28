@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It's just a job to make my family happy.' Literally 'to do pleasure to my family'. Then she adds, with a smile...
 - 'My banker too.' Because a job pays the rent, after all.
 - 'Because actually, I'm an actress.' That's the word for a stage and screen actress. Again, no word for 'an' before it. And Gabriel? He's busy with his glass.
-- 'This wine is incredibly good!' Gabriel combines 'this' with 'good' in a natural French turn of phrase.
+- 'This wine is incredibly good!' The long word in the middle is just 'incredible' with an ending that makes it an adverb, like 'ly' in English. He asks her a question.
 - 'Have you tasted it?' The small word before the verb stands for 'it', the wine. He's polite: the formal 'you'.
 - 'No.' She hasn't touched it; she's too busy pitching.
 - 'It's magnificent.' He's talking about the wine, of course, not about her play. Sofia tries again.
@@ -44,7 +44,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Here's the flyer.' This handy word means 'here it is', when you hand something over. The French borrow the English word for the leaflet.
 - 'It's called Absence.' Literally 'it calls itself Absence', the same pattern French uses to say your own name.
 - 'Thank you.' And then a long silence.
-- 'You're not interested?' A question made just by raising the voice at the end. The negative wraps around the verb: a small word before, the word for 'not' after.
+- 'You're not interested?' A question made just by raising the voice at the end.
 - 'No, it's not that.' He means: it's not you. Then he admits what's really on his mind.
 - 'I've got a problem at work.' The word for 'work' here is the casual, everyday one; you'll hear it all the time.
-- 'A problem at work, Gabriel?' And that voice belongs to Cécile, who has found him. The problem has just walked up to his table. Here's the whole lunch again, in French. Now let's hear the full exchange again from beginning to end.
+- 'A problem at work, Gabriel?' And that voice belongs to Cécile, who has found him. The problem has just walked up to his table. Here's the whole lunch again, in French.

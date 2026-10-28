@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is very nice, this solidarity between agents.' Isabelle compliments Mathias on helping out. The descriptive adjective for 'fine' agrees in gender and number with its noun.
-- 'Driving you gives me real pleasure, Isabelle.' Mathias assures his client that he is happy to assist. The short 'self' word sits right in front of the verb for 'to drive', turning the action back onto the subject.
-- 'You like playing private chauffeurs?' Isabelle teases Mathias about his driving role. Isabelle uses the polite 'you' form alongside 'like' to keep a respectful professional tone.
-- 'There is water and sweets.' Mathias points out the comforts in the back of the car. The key noun here means 'drinking water', anchored by its matching French article.
-- 'Hello? Yes, I am on my way!' Isabelle answers an unexpected phone call. The key noun here means 'way', anchored by its matching French article.
-- 'I arrive in five minutes for the broadcast.' Isabelle promises to reach the studio quickly. Notice how 'arrive' leads directly into the noun meaning 'minutes of time'.
-- 'Is that the American producers on the phone?' Mathias worries that the American crew is calling. The descriptive adjective for 'American' agrees in gender and number with its noun.
-- 'No, that was the journalist Laure Adler.' Isabelle identifies the prominent cultural interviewer. Notice how 'was' leads directly into the noun meaning 'journalist'.
-- 'She is waiting for me live on the radio.' Isabelle explains the broadcast format. The verb meaning 'is waiting for' pairs naturally with the noun for 'live broadcast' in everyday conversation.
-- 'This interview slipped my mind!' Isabelle admits she forgot the appointment. Dropping the subject pronoun turns the verb for 'has' into a direct, punchy command.
-- 'That is not possible tonight, Isabelle!' Mathias panics over their tight schedule. The descriptive adjective for 'possible' agrees in gender and number with its noun.
-- 'This show will take only twenty minutes.' Isabelle downplays the detour duration. Notice how 'will take' leads directly into the noun meaning 'broadcast'.
-- 'I cannot stand up a friend.' Isabelle refuses to ditch the host. The verb meaning 'can' pairs naturally with the noun for 'friend' in everyday conversation.
-- 'We are going to be very late!' Mathias stresses the impending production delay. Notice how 'are going' leads directly into the noun meaning 'delay'.
+- 'That is very nice, this solidarity between agents.' Isabelle compliments Mathias on helping out.
+- 'Driving you gives me real pleasure, Isabelle.' Mathias assures his client that he is happy to assist.
+- 'You like playing private chauffeurs?' Isabelle teases Mathias about his driving role.
+- 'There is water and sweets.' Mathias points out the comforts in the back of the car.
+- 'Hello? Yes, I am on my way!' Isabelle answers an unexpected phone call.
+- 'I arrive in five minutes for the broadcast.' Isabelle promises to reach the studio quickly.
+- 'Is that the American producers on the phone?' Mathias worries that the American crew is calling.
+- 'No, that was the journalist Laure Adler.' Isabelle identifies the prominent cultural interviewer.
+- 'She is waiting for me live on the radio.' Isabelle explains the broadcast format.
+- 'This interview slipped my mind!' Isabelle admits she forgot the appointment.
+- 'That is not possible tonight, Isabelle!' Mathias panics over their tight schedule.
+- 'This show will take only twenty minutes.' Isabelle downplays the detour duration.
+- 'I cannot stand up a friend.' Isabelle refuses to ditch the host.
+- 'We are going to be very late!' Mathias stresses the impending production delay.

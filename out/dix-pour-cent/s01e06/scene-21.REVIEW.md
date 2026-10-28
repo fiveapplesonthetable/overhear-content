@@ -31,15 +31,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'And Philippe, do you know who I mean?' Literally 'do you see who I want to say?'. In French, 'to want to say' is how you say 'to mean'.
 - 'Mom's brother.' He remembers her uncle right away.
-- 'Yes, Philippe. He had a little movie shop.' She uses the past tense for how things used to be.
+- 'Yes, Philippe. He had a little movie shop.' Camille explains that Philippe used to run a small video rental shop.
 - 'I was thirteen or fourteen, I went there all the time.' Remember that French uses 'to have' for age, and the tiny pronoun before 'went' means 'there'.
-- 'That's where I discovered cinema.' On weekends she would watch four or five films in a row. Then she notices Mathias hasn't touched his plate.
+- 'That's where I discovered cinema.' On weekends she would watch four or five films in a row.
 - 'Aren't you eating?' A simple negative question in the present tense.
 - 'I'm not very hungry.' Literally 'I do not have very hunger'.
 - 'Does your stomach hurt? Have some star-anise tea.' Literally 'do you have ache at the stomach?', a remedy she learned from her mother.
-- 'They're little stars that smell very nice.' Camille pairs the verb meaning 'are' with the noun for 'stars'.
+- 'They're little stars that smell very nice.' The verb for 'to smell' is followed by the adjective 'good' used as an adverb.
 - 'Maybe it's hard to find at the hotel.' Mathias doubts the hotel kitchen will have star anise.
-- 'The place is quite fancy. They surely have everything.' Camille calls the waiter over and orders the tea for her father, along with the dessert menu for herself. Outside after dinner, Mathias stops before saying goodbye.
+- 'The place is quite fancy. They surely have everything.' Camille calls the waiter over and orders the tea for her father, along with the dessert menu for herself.
 - 'By the way, did you call Dominique Besnehard?' Earlier, after firing Camille to appease his wife, Mathias had offered to help her find a job with the famous producer.
 - 'No, not yet. Why?' The two-word phrase after 'no' means 'not yet'.
 - 'I think Andréa prefers that you stay.' Moved by his daughter's kindness, Mathias quietly gives her back her job at the agency.

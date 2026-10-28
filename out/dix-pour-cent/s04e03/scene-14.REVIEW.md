@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Darn! What time is it?' Andrea realizes that her alarm failed to ring. Notice how 'is it' leads directly into the noun meaning 'hour'.
-- 'Jose? You have to get up now!' Andrea calls out into the apartment to wake her client. The clause hinges on the everyday verb meaning 'is necessary'.
-- 'Hurry up, we are late.' Andrea stresses the urgent schedule for the film set. The clause hinges on the everyday verb meaning 'hurry up'.
-- 'Jose, where did you go?' Andrea searches through the rooms and finds the couch empty. The clause hinges on the everyday verb meaning 'are you'.
-- 'Hello Andrea? I am coming to pick up Jose.' The production driver rings the doorbell from the street. The clause hinges on the everyday verb meaning 'come'.
-- 'Listen, I am looking for him too.' Andrea confesses that her guest has vanished. The clause hinges on the everyday verb meaning 'listen'.
-- 'He is not with you?' The driver is astonished that the actor is missing. Chauffeur uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'No, he is no longer here!' Andrea confirms that Jose disappeared without a word. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'Production is waiting on set.' The driver warns that the filming crew cannot afford delays. The verb meaning 'waits' pairs naturally with the noun for 'production crew' in everyday conversation.
-- 'I call you back immediately.' Andrea ends the phone call to investigate the apartment. The informal 'you' form around 'call back' marks a direct, personal relationship.
-- 'Sweetheart, you must wake up.' Andrea enters the nursery to get her baby daughter ready. The short 'self' word sits right in front of the verb for 'is necessary', turning the action back onto the subject.
-- 'We are late for the daycare.' Andrea rushes over to the small bed. The key noun here means 'daycare center', anchored by its matching French article.
-- 'Flora? Where is my baby?' Andrea stares at the unoccupied sheets in disbelief. In everyday spoken French, rising intonation on 'baby' at the end is enough to turn the sentence into a question.
-- 'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone. The adverb meaning 'no' gives the reply its conversational emphasis.
+- 'Darn! What time is it?' Andrea realizes that her alarm failed to ring.
+- 'Jose? You have to get up now!' Andrea calls out into the apartment to wake her client.
+- 'Hurry up, we are late.' Andrea stresses the urgent schedule for the film set.
+- 'Jose, where did you go?' Andrea searches through the rooms and finds the couch empty.
+- 'Hello Andrea? I am coming to pick up Jose.' The production driver rings the doorbell from the street.
+- 'Listen, I am looking for him too.' Andrea confesses that her guest has vanished.
+- 'He is not with you?' The driver is astonished that the actor is missing.
+- 'No, he is no longer here!' Andrea confirms that Jose disappeared without a word.
+- 'Production is waiting on set.' The driver warns that the filming crew cannot afford delays.
+- 'I call you back immediately.' Andrea ends the phone call to investigate the apartment.
+- 'Sweetheart, you must wake up.' Andrea enters the nursery to get her baby daughter ready.
+- 'We are late for the daycare.' Andrea rushes over to the small bed.
+- 'Flora? Where is my baby?' Andrea stares at the unoccupied sheets in disbelief.
+- 'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone.

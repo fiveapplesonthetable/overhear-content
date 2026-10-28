@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I think your dog likes me, Michel!' The adverb meaning 'well' sharpens the verb for 'think' here.
-- 'She knows that I am a wounded man.' Ramzy opens with the word for 'knows' and lands on 'wounded' at the close.
-- 'I need comforting today.' Listen for the expression meaning 'I have', which leads naturally into 'today'.
-- 'I should have married her!' A past conditional expressing humorous regret.
-- 'Ask her!' Listen for the expression meaning 'ask her', which leads naturally into 'ask her'.
+- 'I think your dog likes me, Michel!' On the talk-show sofa, Ramzy jokes that Michel Drucker's dog likes him.
+- 'She knows that I am a wounded man.' Ramzy plays the victim on live television, calling himself a wounded man.
+- 'I need comforting today.' He tells the host dramatic stories about needing comfort today.
+- 'I should have married her!' Ramzy jokes wistfully on the air that he should have married Michel Drucker's dog.
+- 'Ask her!' Michel Drucker points toward the wings and tells Ramzy to ask Virginie himself.
 - 'Excuse me? Yes?' Familiar words used to show polite confusion.
-- 'We have a surprise guest.' Notice how the verb for 'have' leads straight into 'surprise'.
-- 'My judo teacher from when I was ten?' Listen for the expression meaning 'teacher', which leads naturally into 'years'.
-- 'I do not know, it is a surprise!' Michel pairs the verb meaning 'know' with the noun for 'surprise'.
-- 'It is my turn to go on stage.' Virginie opens with the word for 'it is' and lands on 'stage' at the close.
-- 'Ramzy does not know that I am here.' The key word here means 'knows', paired with 'there' to make the point clear.
-- 'We are going to settle our scores live.' Notice how the verb for 'are going to' leads straight into 'scores'.
+- 'We have a surprise guest.' Michel Drucker announces to the studio audience that they have a surprise guest.
+- 'My judo teacher from when I was ten?' The imperfect tense of avoir used for age.
+- 'I do not know, it is a surprise!' The host smiles that her sudden appearance on the show is a surprise.
+- 'It is my turn to go on stage.' Furious over the pay gap, Virginie announces it is her turn to take the stage.
+- 'Ramzy does not know that I am here.' A negative clause followed by the adverb la.
+- 'We are going to settle our scores live.' Virginie warns Ramzy that they are going to settle scores on live television.

@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It has been three weeks for me.' Monica admits how recent her new period of solitude is. Notice how 'makes' leads directly into the noun meaning 'weeks'.
-- 'But three weeks is nothing!' Gabriel tries to put her brief time alone into perspective. The key noun here means 'weeks', anchored by its matching French article.
-- 'I am super terrible at being single.' Monica frankly confesses her complete inability to live solo. The key noun here means 'bachelorhood', anchored by its matching French article.
-- 'I really hate that.' Monica expresses her intense aversion to coming home to an empty house. The clause hinges on the everyday verb meaning 'loathe'.
-- 'And you, how long has it been?' Monica turns the question back to her trusted agent. The verb meaning 'makes' pairs naturally with the noun for 'duration' in everyday conversation.
-- 'It has already been six months.' Gabriel reveals that he has been on his own for half a year. The verb meaning 'makes' pairs naturally with the noun for 'calendar months' in everyday conversation.
-- 'But I learned a great secret.' Gabriel hints at a powerful truth he discovered through his trials. Notice how 'have' leads directly into the noun meaning 'trick'.
-- 'And what is it, your secret?' Monica eagerly invites him to reveal his personal discovery. In everyday spoken French, rising intonation on 'recipe' at the end is enough to turn the sentence into a question.
-- 'It is friendship, quite simply.' Gabriel shares his heartfelt recipe for enduring solitude. The key noun here means 'comradeship', anchored by its matching French article.
-- 'Would you like an herbal tea?' Monica warmly offers hospitality to her loyal confidant. The verb meaning 'wish' pairs naturally with the noun for 'herbal tisane' in everyday conversation.
-- 'Yes, I would love an herbal tea.' Gabriel gladly accepts a warm drink in her modern kitchen. Notice how 'would like' leads directly into the noun meaning 'herbal tisane'.
-- 'I open the lid of the kettle.' Monica begins a playful step-by-step tutorial on making tea. The verb meaning 'uncover' pairs naturally with the noun for 'cap' in everyday conversation.
-- 'I put some water inside.' Monica carefully pours fresh water into the electric appliance. Notice how 'pour' leads directly into the noun meaning 'liquid'.
-- 'And I turn on the switch.' Monica clicks the machine into action with a satisfied smile. The verb meaning 'switch on' pairs naturally with the noun for 'switch' in everyday conversation.
-- 'Understood, that is very clear!' Gabriel playfully praises her clear kitchen demonstration. The adverb meaning 'very' gives the reply its conversational emphasis. Now let's hear the whole conversation again.
+- 'It has been three weeks for me.' Monica admits how recent her new period of solitude is.
+- 'But three weeks is nothing!' Gabriel tries to put her brief time alone into perspective.
+- 'I am super terrible at being single.' Monica frankly confesses her complete inability to live solo.
+- 'I really hate that.' Monica expresses her intense aversion to coming home to an empty house.
+- 'And you, how long has it been?' Monica turns the question back to her trusted agent.
+- 'It has already been six months.' Gabriel reveals that he has been on his own for half a year.
+- 'But I learned a great secret.' Gabriel hints at a powerful truth he discovered through his trials.
+- 'And what is it, your secret?' Monica eagerly invites him to reveal his personal discovery.
+- 'It is friendship, quite simply.' Gabriel shares his heartfelt recipe for enduring solitude.
+- 'Would you like an herbal tea?' Monica warmly offers hospitality to her loyal confidant.
+- 'Yes, I would love an herbal tea.' Gabriel gladly accepts a warm drink in her modern kitchen.
+- 'I open the lid of the kettle.' Monica begins a playful step-by-step tutorial on making tea.
+- 'I put some water inside.' Monica carefully pours fresh water into the electric appliance.
+- 'And I turn on the switch.' Monica clicks the machine into action with a satisfied smile.
+- 'Understood, that is very clear!' Gabriel playfully praises her clear kitchen demonstration. Now listen to the whole scene again at normal speed, and see how much more you catch.

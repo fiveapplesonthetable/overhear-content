@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything goes very badly with Sandrine Kiberlain.' Gabriel shares his mounting stress regarding his unpredictable star client. The clause hinges on the everyday verb meaning 'goes'.
-- 'What is happening on her shoot?' Andrea inquires about the production problems. The standard spoken question formula at the front turns the statement about 'happens' into a natural inquiry.
-- 'She wants to abandon Thompson's film.' Gabriel reveals that Sandrine plans to walk away from the prestigious project. The verb meaning 'wants' pairs naturally with the noun for 'film' in everyday conversation.
-- 'Do not panic, you will fix that.' Andrea encourages her distressed partner to stay grounded. The clause hinges on the everyday verb meaning 'panic'.
-- 'She wants to do stand-up now!' Gabriel explains that the dramatic actress has suddenly fallen in love with comedy. The verb meaning 'wants' pairs naturally with the noun for 'stand-up comedy' in everyday conversation.
-- 'Breathe Gabriel, everything will go well.' The short 'self' word sits right in front of the verb for 'breathe', turning the action back onto the subject.
-- 'And you, how is your life going?' Gabriel changes the subject to ask about Andrea's domestic situation. The short 'self' word sits right in front of the verb for 'is going', turning the action back onto the subject.
-- 'I manage my life all alone.' Andrea explains her exhausting daily schedule since Colette's departure. The adjective meaning 'alone' takes its feminine form here to match the noun it describes.
-- 'Is it not too hard with Flora?' Gabriel gently asks about Andrea's infant daughter. The descriptive adjective for 'hard' agrees in gender and number with its noun.
-- 'It is like hiking in flip-flops!' Andrea humorously summarizes the struggle of balancing baby care and agency work. Notice how 'do' leads directly into the noun meaning 'hike'.
-- 'But the baby is doing well here?' Gabriel observes that the child seems surprisingly quiet at the office. In everyday spoken French, rising intonation on 'does' at the end is enough to turn the sentence into a question.
-- 'Yes, she is very calm today.' Andrea proudly notes that her baby has been well-behaved. In spoken French, the little word before 'the next word' drops its final vowel and attaches with an apostrophe.
-- 'Wait, where did my daughter go?' Andrea suddenly stops in her tracks with rising unease. This conversational past tense combines a helper verb with the past verb form for 'gone'.
-- 'Darn, I forgot it at the photocopier!' Andrea rushes frantically down the corridor to retrieve her child. Notice how 'have' leads directly into the noun meaning 'photocopier'.
+- 'Everything goes very badly with Sandrine Kiberlain.' Gabriel shares his mounting stress regarding his unpredictable star client.
+- 'What is happening on her shoot?' Andrea inquires about the production problems.
+- 'She wants to abandon Thompson's film.' Gabriel reveals that Sandrine plans to walk away from the prestigious project.
+- 'Do not panic, you will fix that.' Andrea encourages her distressed partner to stay grounded.
+- 'She wants to do stand-up now!' Gabriel explains that the dramatic actress has suddenly fallen in love with comedy.
+- 'Breathe Gabriel, everything will go well.' Andrea urges him to regulate his breathing and composure.
+- 'And you, how is your life going?' Gabriel changes the subject to ask about Andrea's domestic situation.
+- 'I manage my life all alone.' Andrea explains her exhausting daily schedule since Colette's departure.
+- 'Is it not too hard with Flora?' Gabriel gently asks about Andrea's infant daughter.
+- 'It is like hiking in flip-flops!' Andrea humorously summarizes the struggle of balancing baby care and agency work.
+- 'But the baby is doing well here?' Gabriel observes that the child seems surprisingly quiet at the office.
+- 'Yes, she is very calm today.' Andrea proudly notes that her baby has been well-behaved.
+- 'Wait, where did my daughter go?' Andrea suddenly stops in her tracks with rising unease.
+- 'Darn, I forgot it at the photocopier!' Andrea rushes frantically down the corridor to retrieve her child.

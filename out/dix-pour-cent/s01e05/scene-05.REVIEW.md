@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh no! Sorry!' In the show he swears loudly twice before starting the speech again.
 - 'Madam, I know that our love is forbidden a thousand times over.' The word for 'a thousand' never takes a plural ending.
 - 'My reason tells me a thousand times to leave.' Notice the little word before 'leave' linking 'tells me' to the action.
-- 'But my heart tells me to leave. No, to stay!' He mixes up the two opposite verbs, and ruins the take. Julie has had enough.
+- 'But my heart tells me to leave. No, to stay!' He mixes up the two opposite action words, and ruins the take. Julie has had enough.
 - 'I can't act like this!' The verb for 'to play' is also the verb for 'to act'. She storms off the set.
 - 'Okay, let's stop.' The director Samir sighs and calls a halt.
 - 'But what is she doing now?' The long question phrase at the start is the standard spoken way to ask 'what'.
 - 'She's in her dressing room. She refuses to come out.' The word for a theatre dressing room or an actor's trailer on a film set is the same.
 - 'What? Out of the way! Open the door, Julie!' Literally 'push yourselves!'. JoeyStarr marches up to her trailer and hammers on the door.
-- 'Didier, stop! Here are the agents.' Meanwhile, Didier is JoeyStarr's real first name, and just in time, Gabriel and Andréa arrive from Paris.
+- 'Didier, stop! Here are the agents.' Here, Didier is JoeyStarr's real first name, and just in time, Gabriel and Andrea arrive from Paris.
 - 'She gets on my nerves! She still lives in the eighteenth century!' He greets Gabriel by complaining bitterly about his co-star.
 - 'She's too serious! She grew up in a convent!' The everyday past tense of the verb 'to grow up' uses 'has' plus 'grown'.
 - 'He must apologise first!' Inside her trailer, Julie is just as angry. Let's hear the whole scene once more.

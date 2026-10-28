@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Noemie, would you be free tonight?' Herve asks casually at the office. The adjective meaning 'free' takes its feminine form here to match the noun it describes.
-- 'I have a ticket for a sold-out theater show.' Herve pitches an exclusive cultural outing. The verb meaning 'have' pairs naturally with the noun for 'seat' in everyday conversation.
-- 'You could be my talent scout.' Herve proposes that Noemie scout new actors. Notice how 'could' leads directly into the noun meaning 'talent scout'.
-- 'No, sorry, tonight I cannot make it at all.' Noemie turns down the offer. The verb meaning 'can' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'You are not seeing Philippe again, at least?' Herve suspects an illicit rendezvous. Notice the classic French sandwich negation wrapping right around 'see again'.
-- 'Of course not, not at all!' Noemie quickly defends herself. The adverb meaning 'no' gives the reply its conversational emphasis.
-- 'You are not falling back into it, are you?' Herve warns against repeating past romantic mistakes. The informal 'you' form around 'plunge back' marks a direct, personal relationship.
-- 'Friends serve to remind us of truths.' Herve defines genuine friendship. The verb meaning 'serve' pairs naturally with the noun for 'friends' in everyday conversation.
-- 'We shared very beautiful things with him.' Noemie fondly defends her past affair. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.
-- 'Together, we really freed ourselves.' Noemie describes an exhilarating emotional escape. The short 'self' word sits right in front of the verb for 'liberated', turning the action back onto the subject.
-- 'We became different from normal life.' Noemie contrasts romance with daily routine. The verb meaning 'became' pairs naturally with the noun for 'life' in everyday conversation.
-- 'It was really incredible between us.' Noemie highlights the extraordinary passion. The adjective meaning 'incredible' takes its feminine form here to match the noun it describes.
-- 'I had the impression of being a magician.' Noemie remembers feeling uniquely powerful. Notice how 'had' leads directly into the noun meaning 'impression'.
-- 'Noemie, this man is toxic for you.' Herve provides sobering objective advice. Herve uses the casual singular 'you' with 'man', showing close familiarity.
-- 'It is hard to forget memories like that.' Noemie acknowledges lingering attachment. Notice how 'forget' leads directly into the noun meaning 'memories'.
-- 'Come to the theater with me to think about something else.' Herve suggests a healthy distraction. The descriptive adjective for 'other' agrees in gender and number with its noun.
+- 'Noemie, would you be free tonight?' Herve asks casually at the office.
+- 'I have a ticket for a sold-out theater show.' Herve pitches an exclusive cultural outing.
+- 'You could be my talent scout.' Herve proposes that Noemie scout new actors.
+- 'No, sorry, tonight I cannot make it at all.' Noemie turns down the offer.
+- 'You are not seeing Philippe again, at least?' Herve suspects an illicit rendezvous.
+- 'Of course not, not at all!' Noemie quickly defends herself.
+- 'You are not falling back into it, are you?' Herve warns against repeating past romantic mistakes.
+- 'Friends serve to remind us of truths.' Herve defines genuine friendship.
+- 'We shared very beautiful things with him.' Noemie fondly defends her past affair.
+- 'Together, we really freed ourselves.' Noemie describes an exhilarating emotional escape.
+- 'We became different from normal life.' Noemie contrasts romance with daily routine.
+- 'It was really incredible between us.' Noemie highlights the extraordinary passion.
+- 'I had the impression of being a magician.' Noemie remembers feeling uniquely powerful.
+- 'Noemie, this man is toxic for you.' Herve provides sobering objective advice.
+- 'It is hard to forget memories like that.' Noemie acknowledges lingering attachment.
+- 'Come to the theater with me to think about something else.' Herve suggests a healthy distraction.

@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Andréa, it is time for our meeting.' Hicham enters Andréa's office unannounced. Hicham pairs the verb meaning 'it is' with the noun for 'meeting'.
-- 'No, you are early. Come back later.' Andréa sets immediate boundaries. Andréa opens with the word for 'no' and lands on 'later' at the close.
-- 'I love your office and your style.' Hicham attempts flattery. The key word here means 'I love', paired with 'style' to make the point clear.
-- 'Stop looking at me insistently.' Andréa calls out his inappropriate gaze directly. Andréa opens with the word for 'stop' and lands on 'insistence' at the close.
-- 'You are too suspicious with me.' Hicham brushes off her complaint. Listen for the expression meaning 'are', which leads naturally into 'suspicious'.
-- 'Listen, Hicham, let us be very clear.' Andréa initiates a serious clarification. The adverb meaning 'very' sharpens the verb for 'listen' here.
-- 'I prefer women, only women.' Andréa states her sexual orientation unambiguously. The adverb meaning 'only' sharpens the verb for 'prefer' here.
-- 'I completely understand your point of view.' Hicham tries to sound understanding. Hicham opens with the word for 'understand' and lands on 'view' at the close.
-- 'No, I think that you do not understand.' Andréa cuts through his superficial agreement. The verb meaning 'think' anchors the whole remark.
-- 'For me, my personal life is definitive.' Andréa reaffirms her identity with conviction. The key word here means 'life', paired with 'definitive' to make the point clear.
-- 'You will never change my decision.' Andréa leaves no room for doubt. Andréa uses the future form for 'will change' alongside 'decision'.
-- 'I only wanted to chat in a friendly way.' Hicham retreats to a polite pretext. Hicham opens with the word for 'wanted' and lands on 'in a friendly way' at the close.
-- 'Now, leave my office, please.' Andréa orders him to leave firmly. The key word here means 'now', paired with 'pleases' to make the point clear.
-- 'Very well, Marteau, I leave you to work.' Hicham yields while using her annoying nickname. The verb meaning 'leave' anchors the whole remark.
-- 'And stop calling me Marteau!' Andréa refuses the patronizing nickname. Listen for the expression meaning 'stop', which leads naturally into 'calling'.
-- 'It is promised, I respect your space.' Hicham finally accepts the boundary and departs. Hicham pairs the verb meaning 'it is' with the noun for 'space'.
+- 'Hello Andréa, it is time for our meeting.' Hicham enters Andréa's office unannounced.
+- 'No, you are early. Come back later.' Andréa sets immediate boundaries.
+- 'I love your office and your style.' Hicham attempts flattery.
+- 'Stop looking at me insistently.' Andréa calls out his inappropriate gaze directly.
+- 'You are too suspicious with me.' Hicham brushes off her complaint.
+- 'Listen, Hicham, let us be very clear.' Andréa initiates a serious clarification.
+- 'I prefer women, only women.' Andréa states her sexual orientation unambiguously.
+- 'I completely understand your point of view.' Hicham tries to sound understanding.
+- 'No, I think that you do not understand.' Andréa cuts through his superficial agreement.
+- 'For me, my personal life is definitive.' Andréa reaffirms her identity with conviction.
+- 'You will never change my decision.' Andréa leaves no room for doubt.
+- 'I only wanted to chat in a friendly way.' Hicham retreats to a polite pretext.
+- 'Now, leave my office, please.' Andréa orders him to leave firmly.
+- 'Very well, Marteau, I leave you to work.' Hicham yields while using her annoying nickname.
+- 'And stop calling me Marteau!' Andréa refuses the patronizing nickname.
+- 'It is promised, I respect your space.' Hicham finally accepts the boundary and departs.

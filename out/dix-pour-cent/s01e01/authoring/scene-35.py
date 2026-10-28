@@ -34,13 +34,13 @@ STORY = [
     ('consul', 'Non, je suis désolé.', 'No, I', [(927, 'Non, je suis désolé')], ''),
 ]
 WALK = [
-    (0, None, "'Gabriel, you look pleased with yourself.' The expression in the middle means 'to look' or 'to seem', and it is built on the verb 'to have'. Mathias is less happy."),
-    (1, None, "'We lost a big contract.' This is the everyday past tense: the helper verb 'to have', then the past form of 'to lose'. The small word at the start is the everyday 'we' again."),
-    (2, None, "'But we kept a great actress.' The same past tense, with the verb 'to keep'. The adjectives for 'big' and 'great' both come before their nouns, which is normal for short, common adjectives."),
+    (0, None, "'Gabriel, you look pleased with yourself.' The expression in the middle means 'to look' or 'to seem', and it is built on the action word 'to have'. Mathias is less happy."),
+    (1, None, "'We lost a big contract.' This is the everyday past: the helper word 'to have', then the past form of 'to lose'. The small word at the start is the everyday 'we' again."),
+    (2, None, "'But we kept a great actress.' The same past form, with the action word 'to keep'. The describing words for 'big' and 'great' both come before their words, which is normal for short, common describing words."),
     (3, None, "'But we lost a big contract.' Mathias simply says it again. Neither of them wants to give up the last word."),
     (4, None, "'A call from Rio? It's Samuel!' The phone at reception rings, and everyone assumes it's the boss calling from his holiday."),
     (5, None, "'Samuel, we're in a meeting. You're on speaker.' Andréa talks to Samuel in the casual form, like one of the family. But the voice on the line belongs to someone else."),
-    (6, None, "'It isn't Samuel.' Here the negation wraps around the verb 'to be'. The stranger introduces himself."),
+    (6, None, "'It isn't Samuel.' Here the negation wraps around the action word 'to be'. The stranger introduces himself."),
     (7, "Je suis Jean-Louis d'Entremont.", "'I'm Jean-Louis d'Entremont.' A formal way to give your full name to people you don't know."),
     (8, None, "'I'm calling you from the French consulate in Rio.' He uses the polite 'you', as an official should with strangers. Notice the shift: the agents speak casually to each other, but this man keeps his distance."),
     (9, None, "'I have bad news.' The word for 'bad' is feminine and plural here, because news is a feminine plural word in French."),

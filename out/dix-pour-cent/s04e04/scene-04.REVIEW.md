@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thanks, girls, have a good day!' Andrea warmly thanks the reception staff as she enters the building. The adjective meaning 'good' takes its feminine form here to match the noun it describes.
-- 'Andrea, are you coming with Flora?' Gabriel is surprised to see the baby arriving at the office. The clause hinges on the everyday verb meaning 'come'.
-- 'Yes, we are excluded from the daycare.' Andrea explains her sudden childcare predicament. This conversational past tense combines a helper verb with the past verb form for 'excluded'.
-- 'How will you manage the agency?' Gabriel wonders how she will run the firm with an infant. Inverting the verb and pronoun around 'are going' creates a crisp, polished question.
-- 'I can do everything at the same time.' Andrea asserts her confidence in multitasking. Notice how 'can' leads directly into the noun meaning 'time.'.
-- 'A baby in the offices is risky.' Gabriel worries that clients might react negatively to the baby. The key noun here means 'baby', anchored by its matching French article.
-- 'She is going to sleep on the rug.' Andrea plans to set up a safe space on her office carpet. The verb meaning 'is going' pairs naturally with the noun for 'carpet.' in everyday conversation.
-- 'And if clients arrive soon?' Gabriel reminds her of potential unexpected visitors. Notice how 'arrive' leads directly into the noun meaning 'clients'.
-- 'Flora is very calm today.' Andrea assures him that the baby is in a peaceful mood. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
-- 'You have many important meetings.' Gabriel highlights the demanding meetings on her agenda. Gabriel uses the casual singular 'you' with 'have', showing close familiarity.
-- 'I keep control of everything.' Andrea refuses to let domestic complications derail her authority. The verb meaning 'keep' pairs naturally with the noun for 'control' in everyday conversation.
-- 'All right, I trust you.' Gabriel steps back and supports her decision. Notice how 'make' leads directly into the noun meaning 'agreement'.
-- 'We form a solid team.' Andrea acknowledges their collaborative partnership. The verb meaning 'form' pairs naturally with the noun for 'team' in everyday conversation.
-- 'Come on, back to work now!' Andrea heads toward her office with renewed focus. The key noun here means 'work', anchored by its matching French article.
+- 'Thanks, girls, have a good day!' Andrea warmly thanks the reception staff as she enters the building.
+- 'Andrea, are you coming with Flora?' Gabriel is surprised to see the baby arriving at the office.
+- 'Yes, we are excluded from the daycare.' Andrea explains her sudden childcare predicament.
+- 'How will you manage the agency?' Gabriel wonders how she will run the firm with an infant.
+- 'I can do everything at the same time.' Andrea asserts her confidence in multitasking.
+- 'A baby in the offices is risky.' Gabriel worries that clients might react negatively to the baby.
+- 'She is going to sleep on the rug.' Andrea plans to set up a safe space on her office carpet.
+- 'And if clients arrive soon?' Gabriel reminds her of potential unexpected visitors.
+- 'Flora is very calm today.' Andrea assures him that the baby is in a peaceful mood.
+- 'You have many important meetings.' Gabriel highlights the demanding meetings on her agenda.
+- 'I keep control of everything.' Andrea refuses to let domestic complications derail her authority.
+- 'All right, I trust you.' Gabriel steps back and supports her decision.
+- 'We form a solid team.' Andrea acknowledges their collaborative partnership.
+- 'Come on, back to work now!' Andrea heads toward her office with renewed focus.

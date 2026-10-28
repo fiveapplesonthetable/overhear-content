@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It's still pretty funny.' Andréa grumbles humorously as she steps into the agency.
-- 'Because of that breakdown, I am two days behind.'m two days behind in my work.' Listen for the expression meaning 'idiot', which leads naturally into 'work'.
+- 'It's still pretty funny.' Andrea grumbles humorously as she steps into the agency.
+- 'Because of that breakdown, I am two days behind.'m two days behind in my work.' The preposition 'a cause de' expresses a negative cause.
 - 'Are you okay, Mathias? You look pale.' Gabriel notices Mathias's sickly expression.
-- 'Where were you?' The inversion 'were you' forms a formal past question.
-- 'I come to marry you and you aren't here.' Andréa teasingly references her desperate plea from the night before.
+- 'Where were you?' Andréa asks where the other partners were while she was waiting.
+- 'I come to marry you and you aren't here.' Andrea teasingly references her desperate plea from the night before.
 - 'Hello, Andréa.' Hicham greets his former high school classmate with calm confidence.
-- 'Perfect, everyone is here.' The expression 'everyone' functions as a singular subject.
-- 'In any case thanks, Andréa, for sending us Mr. Janowski.' The compound infinitive 'having' marks a completed past action.
-- 'We could even call him ASK's knight in shining armor!' Listen for the expression meaning 'could', which leads naturally into 'shining'.
+- 'Perfect, everyone is here.' Gabriel announces cheerfully that the whole team is finally gathered.
+- 'In any case thanks, Andréa, for sending us Mr. Janowski.' Gabriel thanks Andréa for bringing Hicham Janowski to the agency's rescue.
+- 'We could even call him ASK's knight in shining armor!' Gabriel jokingly calls Hicham the agency's knight in shining armor.
 - 'Mathias Barneville, the fourth partner.' Gabriel introduces his stunned colleague.
-- 'Hicham Janowski, delighted to meet you.' The verb form 'delighted to meet you' is the standard polite greeting.
-- 'Mr. Janowski, your new partner.' Andréa proudly presents the agency's savior.
+- 'Hicham Janowski, delighted to meet you.' Hicham steps forward and introduces himself politely to the partners.
+- 'Mr. Janowski, your new partner.' Andrea proudly presents the agency's savior.
 - 'Mathias, are you okay?' Gabriel calls out as Mathias sways on his feet.
 - 'Mathias, hold on!' Gabriel cries in terror as Mathias collapses to the floor.
-- 'Try mouth-to-mouth!' Gabriel opens with the word for 'try' and lands on 'mouth-to-mouth resuscitation' at the close.
-- 'It's just his tie!' Andréa kneels down to loosen his tight collar.
+- 'Try mouth-to-mouth!' When Andréa faints in shock, Gabriel jokes that Hicham should try mouth-to-mouth.
+- 'It's just his tie!' Andrea kneels down to loosen his tight collar.

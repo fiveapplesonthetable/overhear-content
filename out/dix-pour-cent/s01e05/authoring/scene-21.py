@@ -46,6 +46,6 @@ WALK = [
     (10, None, "'I could not sleep, so I worked all night.'t sleep, so I worked and that made me hungry.' First the past tense for background ('I couldn't sleep'), then the past with 'have' for what she did next."),
     (11, None, "'Stop talking nonsense!' Gabriel doesn't believe a word of it."),
     (12, None, "'I know you weren't alone last night. Who is it?' He looks straight at the closed bathroom door."),
-    (13, None, "'You know me, never at work!' In response, Gabriel guesses it's an intern from the film crew, and Andréa protests."),
+    (13, None, "'You know me, never at work!' Here, Gabriel guesses it's an intern from the film crew, and Andréa protests."),
     (14, None, "'I want to know. I'm staying.' He sits down and refuses to budge until she tells him the truth."),
 ]

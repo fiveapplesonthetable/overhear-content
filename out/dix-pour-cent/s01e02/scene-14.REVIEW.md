@@ -30,16 +30,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, Gabor, you're not going to die.' The verb 'to go' plus another verb is the near future; here it's negative, so the two little words for 'not' wrap around the verb 'to go'.
-- 'I'll call you tomorrow.' French often uses the present tense for a near plan like this.
+- 'No, Gabor, you're not going to die.' The action word 'to go' plus another action word is the near future; here it's negative, so the two little words for 'not' wrap around the action word 'to go'.
+- 'I'll call you tomorrow.' French often uses the present for a near plan like this.
 - 'Sorry. I'm here.' The word for 'sorry' ends with an extra letter because Andréa is a woman. She hangs up and joins the others.
 - 'Hélène, you can count on us.' Mathias uses the formal 'you' with Samuel's widow. It's polite, and a bit cold.
-- 'Thank you. Samuel didn't leave a will.' After a negative, French uses a short little word before the noun, instead of 'a'. Samuel died suddenly, so nothing is written down.
+- 'Thank you. Samuel didn't leave a will.' After a negative, French uses a short little word before the word, instead of 'a'. Samuel died suddenly, so nothing is written down.
 - 'So I inherit all his shares.' The word in the middle means 'so' or 'therefore'. Samuel's part of the agency now belongs to her.
 - 'I don't want to work at the agency. I want to sell.' Two sentences built the same way: the verb for 'want', then another verb in its basic form. First negative, then positive.
 - 'To whom?' Two short words, and Andréa is already worried.
 - 'I don't know. To the quickest.' Whoever pays fastest. Hélène doesn't care who the buyer is.
-- 'We can buy back Samuel's shares.' Mathias has a plan. The word he uses for 'we' is the everyday spoken one, with the verb in the 'he or she' form.
+- 'We can buy back Samuel's shares.' Mathias has a plan.
 - 'What do you mean, we?' Literally 'what do you want to say'. That's how French asks what someone means.
 - 'Us. The four of us.' The four partners: Mathias, Andréa, Gabriel and Arlette.
 - 'Me, I have nothing. I rent my flat.' Starting with the strong word for 'me' puts the focus on herself. Andréa doesn't own a home, so she has nothing to put in.

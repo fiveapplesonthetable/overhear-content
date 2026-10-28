@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Jean? Are you there?' Andrea calls out into the dense garden foliage. Andrea uses the casual singular 'you' with 'this line', showing close familiarity.
-- 'Huh? Hey, Andrea!' Jean emerges abruptly from the undergrowth. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'You should not have traveled out here.' Jean minimizes the necessity of her visit. Jean uses the casual singular 'you' with 'was necessary', showing close familiarity.
-- 'But there is a real emergency for you!' Andrea highlights the critical situation. The adjective meaning 'real' takes its feminine form here to match the noun it describes.
-- 'You need a shower immediately.' Andrea points bluntly to his neglected hygiene. Andrea uses the casual singular 'you' with 'have', showing close familiarity.
-- 'Yes, that is what my wife tells me too.' Jean concedes his family's complaints. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.
-- 'Do not worry, it is not serious.' Jean brushes aside her sanitary concerns. The descriptive adjective for 'serious' agrees in gender and number with its noun.
-- 'It is the natural smell of the earth.' Jean romanticizes his outdoor grime. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'No, it is rather a smell of putrefaction.' Andrea counters with brutal honesty. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'You live in such a sanitized world!' Jean criticizes artificial modern comfort. Notice how 'live' leads directly into the noun meaning 'world'.
-- 'Look up there, that is a buzzard.' Jean spots a bird of prey overhead. The verb meaning 'look' pairs naturally with the noun for 'buzzard' in everyday conversation.
-- 'Do you see how it circles around?' Jean interprets the raptor's flight path. The informal 'you' form around 'see' marks a direct, personal relationship.
-- 'It is coming to steal something from me.' Jean projects paranoia onto the bird. The short 'self' word sits right in front of the verb for 'comes', turning the action back onto the subject.
-- 'Jean, you have an important meeting tomorrow.' Andrea tries to anchor him in reality. The descriptive adjective for 'important' agrees in gender and number with its noun.
-- 'Here, I feel free and alive.' Jean defends his primitive outdoor lifestyle. The clause hinges on the everyday verb meaning 'feel'.
-- 'You must become an actor again now.' Andrea delivers her firm managerial verdict. The informal 'you' form around 'must' marks a direct, personal relationship.
+- 'Jean? Are you there?' Andrea calls out into the dense garden foliage.
+- 'Huh? Hey, Andrea!' Jean emerges abruptly from the undergrowth.
+- 'You should not have traveled out here.' Jean minimizes the necessity of her visit.
+- 'But there is a real emergency for you!' Andrea highlights the critical situation.
+- 'You need a shower immediately.' Andrea points bluntly to his neglected hygiene.
+- 'Yes, that is what my wife tells me too.' Jean concedes his family's complaints.
+- 'Do not worry, it is not serious.' Jean brushes aside her sanitary concerns.
+- 'It is the natural smell of the earth.' Jean romanticizes his outdoor grime.
+- 'No, it is rather a smell of putrefaction.' Andrea counters with brutal honesty.
+- 'You live in such a sanitized world!' Jean criticizes artificial modern comfort.
+- 'Look up there, that is a buzzard.' Jean spots a bird of prey overhead.
+- 'Do you see how it circles around?' Jean interprets the raptor's flight path.
+- 'It is coming to steal something from me.' Jean projects paranoia onto the bird.
+- 'Jean, you have an important meeting tomorrow.' Andrea tries to anchor him in reality.
+- 'Here, I feel free and alive.' Jean defends his primitive outdoor lifestyle.
+- 'You must become an actor again now.' Andrea delivers her firm managerial verdict.

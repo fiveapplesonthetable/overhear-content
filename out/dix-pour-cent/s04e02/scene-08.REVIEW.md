@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I warned all the building's neighbors.' Herve shares his courteous neighborly update. Notice how 'have' leads directly into the noun meaning 'neighbors'.
-- 'For our housewarming party tomorrow evening?' Camille verifies the event purpose. The key noun here means 'housewarming party', anchored by its matching French article.
-- 'Yes, with a very cordial note.' Herve describes his polite hallway notice. The descriptive adjective for 'cordial' agrees in gender and number with its noun.
-- 'And you, what are you looking at?' Herve observes Camille absorbed in a form. Herve uses the casual singular 'you' with 'are you looking at', showing close familiarity.
-- 'Mathias's paternity recognition procedure.' Camille identifies the formal registry form. The key noun here means 'procedure', anchored by its matching French article.
-- 'Are you going to agree to sign?' Herve asks whether she will make it official. The informal 'you' form around 'are going' marks a direct, personal relationship.
-- 'I do not know what to decide yet.' Camille feels torn about acknowledging Mathias. The clause hinges on the everyday verb meaning 'know'.
-- 'But it is an amazing opportunity, Camille!' Herve sees only positive prestige. The key noun here means 'opportunity', anchored by its matching French article.
-- 'It is a very intimate family choice.' Camille focuses on the delicate personal bond. The descriptive adjective for 'family' agrees in gender and number with its noun.
-- 'You are forgetting one essential thing here.' Herve prepares his humorous argument. The adjective meaning 'essential' takes its feminine form here to match the noun it describes.
-- 'What now? Tell me the truth.' Camille waits for Herve's punchline. The verb meaning 'tell me' pairs naturally with the noun for 'truth' in everyday conversation.
-- 'You will become the Barneville empire heiress!' Herve envisions massive financial prestige. The informal 'you' form around 'will become' marks a direct, personal relationship.
-- 'You always think about money, Herve!' Camille laughs at his relentless materialism. Camille uses the casual singular 'you' with 'think', showing close familiarity.
-- 'Imagine the huge magnificent apartment for us!' Herve pictures their upgraded living quarters. Notice how 'imagine' leads directly into the noun meaning 'apartment'.
+- 'I warned all the building's neighbors.' Herve shares his courteous neighborly update.
+- 'For our housewarming party tomorrow evening?' Camille verifies the event purpose.
+- 'Yes, with a very cordial note.' Herve describes his polite hallway notice.
+- 'And you, what are you looking at?' Herve observes Camille absorbed in a form.
+- 'Mathias's paternity recognition procedure.' Camille identifies the formal registry form.
+- 'Are you going to agree to sign?' Herve asks whether she will make it official.
+- 'I do not know what to decide yet.' Camille feels torn about acknowledging Mathias.
+- 'But it is an amazing opportunity, Camille!' Herve sees only positive prestige.
+- 'It is a very intimate family choice.' Camille focuses on the delicate personal bond.
+- 'You are forgetting one essential thing here.' Herve prepares his humorous argument.
+- 'What now? Tell me the truth.' Camille waits for Herve's punchline.
+- 'You will become the Barneville empire heiress!' Herve envisions massive financial prestige.
+- 'You always think about money, Herve!' Camille laughs at his relentless materialism.
+- 'Imagine the huge magnificent apartment for us!' Herve pictures their upgraded living quarters.

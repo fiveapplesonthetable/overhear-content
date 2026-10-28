@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The secret contract was photocopied here.' The verb meaning 'has' pairs naturally with the noun for 'business contract' in everyday conversation.
-- 'I acted to protect our agency.' Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
-- 'You betrayed everyone's trust.' This conversational past tense combines a helper verb with the past verb form for 'betrayed'. This conversational past tense combines a helper verb with the past verb form for 'betrayed'.
-- 'I only want to save our future.' The verb meaning 'want' pairs naturally with the noun for 'future' in everyday conversation.
-- 'This situation is becoming completely unbearable.' Notice how 'becomes' leads directly into the noun meaning 'state of affairs'. Notice how 'becomes' leads directly into the noun meaning 'state of affairs'.
-- 'We must remain united today.' Notice how the short vowel drops before a vowel sound around 'must', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'must', making the phrase flow smoothly as one unit.
-- 'You won, I am leaving the agency.' A sudden surrender conceding defeat to a persistent rival. Notice how 'have' leads directly into the noun meaning 'the agency'.
-- 'I sell you my shares right now.' The short 'self' word sits right in front of the verb for 'sell', turning the action back onto the subject.
-- 'I accept this offer with pleasure.' A triumphal acceptance seizing the long-awaited opportunity. Notice how 'agree' leads directly into the noun meaning 'offer'.
-- 'Tonight, we will celebrate this victory.' The verb meaning 'will celebrate' pairs naturally with the noun for 'evening hours' in everyday conversation.
-- 'I will announce the new management before everyone.' Notice how 'will announce' leads directly into the noun meaning 'management'. Notice how 'will announce' leads directly into the noun meaning 'management'.
-- 'Do you have a solution for the Americans?' Inverting the verb and pronoun around 'have you' creates a crisp, polished question. Inverting the verb and pronoun around 'have you' creates a crisp, polished question.
-- 'I know exactly what to do.' The clause hinges on the everyday verb meaning 'know'.
-- 'We shall see tonight.' The verb meaning 'will see' pairs naturally with the noun for 'evening hours' in everyday conversation.
+- 'The secret contract was photocopied here.' A direct declaration confirming internal corporate sabotage.
+- 'I acted to protect our agency.' A defensive justification framing calculated intrigue as loyalty.
+- 'You betrayed everyone's trust.' A stern accusation condemning disloyalty toward colleagues.
+- 'I only want to save our future.' An emotional defense presenting personal ambition as corporate rescue.
+- 'This situation is becoming completely unbearable.' An exhausted complaint reflecting mounting executive frustration.
+- 'We must remain united today.' A diplomatic plea urging unity before the anniversary celebration.
+- 'You won, I am leaving the agency.' A sudden surrender conceding defeat to a persistent rival.
+- 'I sell you my shares right now.' A decisive offer transferring agency ownership on the spot.
+- 'I accept this offer with pleasure.' A triumphal acceptance seizing the long-awaited opportunity.
+- 'Tonight, we will celebrate this victory.' An optimistic declaration linking the buyout to the anniversary party.
+- 'I will announce the new management before everyone.' A confident promise publicizing the leadership change.
+- 'Do you have a solution for the Americans?' A skeptical question challenging his plan for the costly lawsuit.
+- 'I know exactly what to do.' A self-assured reply projecting complete mastery over the crisis.
+- 'We shall see tonight.' A cautious concluding remark suspending belief until results appear.

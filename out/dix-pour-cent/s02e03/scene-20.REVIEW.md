@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We planned Elvis's birthday party.' Hervé announces proudly. Hervé pairs the verb meaning 'has' with the noun for 'b-day party'.
-- 'We booked two laser game sessions.' Camille presents the main activity. Camille opens with the word for 'have' and lands on 'tag game' at the close.
-- 'And a giant cake with candy!' Hervé adds with cheerful enthusiasm. The key word here means 'birthday cake', paired with 'sweet candies' to make the point clear.
-- 'Do you really think that is enough?' Hicham scoffs disdainfully. The verb meaning 'imagine' anchors the whole remark.
-- 'It's fun for ten-year-old children.' Camille defends the kid-friendly plan. Camille pairs the verb meaning 'is' with the noun for 'years'.
-- 'Elvis's mother is ruining my life!' Hicham vents his personal frustration. Hicham pairs the verb meaning 'poisons' with the noun for 'existence'.
-- 'I want the best party in the world!' Hicham demands an extraordinary event. The adjective meaning 'finest' agrees in gender and number with feminine noun 'bash'.
-- 'We forget the laser game and the candies.' He cancels their initial proposal instantly. The key word here means 'scraps', paired with 'confectionery' to make the point clear.
-- 'I want a grandiose party, friends!' Hicham sets his extravagant vision. Listen for the expression meaning 'insist on', which leads naturally into 'team members'.
-- 'A grandiose party? What kind of place?' Hervé asks cautiously. Listen for the expression meaning 'spectacle', which leads naturally into 'setting'.
-- 'I want a castle with a large park!' Hicham reveals his lavish ambition. Hicham pairs the verb meaning 'want' with the noun for 'grounds'.
-- 'A castle? But that is huge!' Camille gasps at the scale. Notice how the verb for 'is' leads straight into 'grand castle'.
-- 'Note everything: fountains and music.' Hicham rattles off extravagant features. Hicham uses the command form form for 'write down' together with the word for 'tunes'.
-- 'And who are the invited guests?' Hervé checks the guest list. Hervé opens with the word for 'are' and lands on 'on the guest list' at the close.
-- 'The whole agency and big celebrities!' Hicham wants a star-studded spectacle. Listen for the expression meaning 'staff', which leads naturally into 'stars'.
-- 'All right, we will organize that.' Camille accepts the daunting challenge. The adverb meaning 'understoood' sharpens the verb for 'are set to' here.
+- 'We planned Elvis's birthday party.' Hervé announces proudly.
+- 'We booked two laser game sessions.' Camille presents the main activity.
+- 'And a giant cake with candy!' Hervé adds with cheerful enthusiasm.
+- 'Do you really think that is enough?' Hicham scoffs disdainfully.
+- 'It's fun for ten-year-old children.' Camille defends the kid-friendly plan.
+- 'Elvis's mother is ruining my life!' Hicham vents his personal frustration.
+- 'I want the best party in the world!' Hicham demands an extraordinary event.
+- 'We forget the laser game and the candies.' He cancels their initial proposal instantly.
+- 'I want a grandiose party, friends!' Hicham sets his extravagant vision.
+- 'A grandiose party? What kind of place?' Hervé asks cautiously.
+- 'I want a castle with a large park!' Hicham reveals his lavish ambition.
+- 'A castle? But that is huge!' Camille gasps at the scale.
+- 'Note everything: fountains and music.' Hicham rattles off extravagant features.
+- 'And who are the invited guests?' Hervé checks the guest list.
+- 'The whole agency and big celebrities!' Hicham wants a star-studded spectacle.
+- 'All right, we will organize that.' Camille accepts the daunting challenge.

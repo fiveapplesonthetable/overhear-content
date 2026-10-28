@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Make an appointment with Chopard for Juliette Binoche.' Andréa gives urgent orders to prepare jewelry for the star.
-- 'My schedule is much too tight.' Hervé protests that he is already overwhelmed with logistics.
+- 'Make an appointment with Chopard for Juliette Binoche.' Andrea gives urgent orders to prepare jewelry for the star.
+- 'My schedule is much too tight.' Herve protests that he is already overwhelmed with logistics.
 - 'Who exactly is this fashion house Chopard?' Gabriel wonders about the prestige of the luxury brand.
-- 'It is the official partner of the festival!' Andréa reminds Gabriel of the luxury brand's major role.
-- 'They manufacture the famous Palme d'Or.' Andréa points out that Chopard creates the highest award in cinema.
+- 'It is the official partner of the festival!' Andrea reminds Gabriel of the luxury brand's major role.
+- 'They manufacture the famous Palme d'Or.' Andrea points out that Chopard creates the highest award in cinema.
 - 'Andréa, we do not have the time.' Gabriel tries to set realistic boundaries before their trip.
-- 'Not right before our departure for Cannes!' Hervé stresses how impossible last-minute requests are.
-- 'I am leaving tomorrow morning for the festival.' Andréa insists that time is running out quickly.
-- 'I have a thousand urgent things to do.' Andréa describes her overwhelming pre-festival workload.
+- 'Not right before our departure for Cannes!' Herve stresses how impossible last-minute requests are.
+- 'I am leaving tomorrow morning for the festival.' Andrea insists that time is running out quickly.
+- 'I have a thousand urgent things to do.' Andrea describes her overwhelming pre-festival workload.
 - 'And without Camille, you cannot cope.' Gabriel notes how hard it is to work without their best assistant.
-- 'Do not utter that name here anymore!' Andréa refuses to hear Camille mentioned after her departure.
-- 'We are doing all the work ourselves.' Hervé complains about taking on extra duties without help.
+- 'Do not utter that name here anymore!' Andrea refuses to hear Camille mentioned after her departure.
+- 'We are doing all the work ourselves.' Herve complains about taking on extra duties without help.
 - 'Let us calm down before climbing the red carpet stairs.' Gabriel urges the team to stay focused.

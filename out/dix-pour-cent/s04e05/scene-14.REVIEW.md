@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you okay?' Herve asks his friend gently. In everyday spoken French, rising intonation on 'goes' at the end is enough to turn the sentence into a question.
-- 'I am devastated.' Camille admits, looking very sad. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'It is for us.' Herve says, trying to cheer her up. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'I hate myself when I am like this.' Camille sighs in distress. The clause hinges on the everyday verb meaning 'hate'.
-- 'What is wrong with you?' Herve asks, confused. The standard spoken question formula at the front turns the statement about 'happens' into a natural inquiry.
-- 'It is dad...' Camille blurts out tearfully. The key noun here means 'dad', anchored by its matching French article.
-- 'It is my fault if he is in the hospital.' Camille confesses her deep guilt. The key noun here means 'fault', anchored by its matching French article.
-- 'I almost killed him!' Camille cries with anguish. The clause hinges on the everyday verb meaning 'have'.
-- 'That is false!' Herve tells her firmly. The descriptive adjective for 'false' agrees in gender and number with its noun.
-- 'Everyone has almost killed your father.' Herve jokes to reassure her. Herve uses the casual singular 'you' with 'has', showing close familiarity.
-- 'He is used to it.' Herve adds with a reassuring smile. The verb meaning 'has' pairs naturally with the noun for 'habit' in everyday conversation.
-- 'You just called Mathias 'dad'.' .' .' Herve points out in surprise. Notice how 'come' leads directly into the noun meaning 'dad'.
-- 'One, two, three, four...' Camille counts out the board game moves. A short, idiomatic conversational reply that keeps the exchange moving naturally.
-- 'You get the money.' Herve explains the game rules. The informal 'you' form around 'get' marks a direct, personal relationship. Now let's hear the whole thing.
+- 'Are you okay?' Herve asks his friend gently.
+- 'I am devastated.' Camille admits, looking very sad.
+- 'It is for us.' Herve says, trying to cheer her up.
+- 'I hate myself when I am like this.' Camille sighs in distress.
+- 'What is wrong with you?' Herve asks, confused.
+- 'It is dad...' Camille blurts out tearfully.
+- 'It is my fault if he is in the hospital.' Camille confesses her deep guilt.
+- 'I almost killed him!' Camille cries with anguish.
+- 'That is false!' Herve tells her firmly.
+- 'Everyone has almost killed your father.' Herve jokes to reassure her.
+- 'He is used to it.' Herve adds with a reassuring smile.
+- 'You just called Mathias 'dad'.' Herve points out in surprise.
+- 'One, two, three, four...' Camille counts out the board game moves.
+- 'You get the money.' Herve explains the game rules. Now let's hear the whole thing.

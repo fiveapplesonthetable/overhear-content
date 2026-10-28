@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, come in. Are you Pauline Adam?' Both verbs are in the polite form for a stranger. The young woman corrects her.
-- 'No. Armelle Borzek.' In this moment, Audrey doesn't recognise the name.
-- 'Did you change your name?' Literally 'you have changed of name', in the past tense. Armelle bursts out.
+- 'Hello, come in. Are you Pauline Adam?' Both action words are in the polite form for a stranger. The young woman corrects her.
+- 'No. Armelle Borzek.' Here, Audrey doesn't recognise the name.
+- 'Did you change your name?' Literally 'you have changed of name', in the past. Armelle bursts out.
 - 'I trained for months.' A reflexive verb in the past, built with 'to be', so the ending takes a feminine letter for Armelle.
 - 'Wait, I haven't started the interview.' Audrey still thinks this is about looking after her children. Then Armelle holds out her hands.
 - 'Look at my blisters! Touch my hands.' Two polite commands. Her palms are raw from months on the metal pole. Mathias steps in.

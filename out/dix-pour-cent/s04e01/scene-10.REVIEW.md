@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry Colette, I was held up at work.' Andrea apologizes for her delayed arrival. The verb meaning 'have' pairs naturally with the noun for 'sorry' in everyday conversation.
-- 'This parent daycare requires a lot of cooperation.' Colette introduces the cooperative model. Notice how 'requires' leads directly into the noun meaning 'daycare'.
-- 'What must we do exactly here?' Andrea asks for precise expectations. Notice how the short vowel drops before a vowel sound around 'must', making the phrase flow smoothly as one unit.
-- 'Half a day a week with the children.' Colette details the mandatory parent shifts. The key noun here means 'half-day', anchored by its matching French article.
-- 'Taking care of meals and changes?' Andrea lists basic nursery tasks. The short 'self' word sits right in front of the verb for 'taking care of', turning the action back onto the subject.
-- 'Yes, and organize cooking workshops.' Colette explains the participatory curriculum. Notice how 'organize' leads directly into the noun meaning 'workshops'.
-- 'Cooking for tiny babies?' Andrea balks at the thought of culinary infants. The descriptive adjective for 'little' agrees in gender and number with its noun.
-- 'They knead dough with flour.' Colette clarifies the tactile activity. Notice how 'knead' leads directly into the noun meaning 'dough'.
-- 'Do we also have to clean the whole house?' Andrea questions having to clean up. In everyday spoken French, rising intonation on 'must' at the end is enough to turn the sentence into a question.
-- 'Stop Andrea, we found nothing else.' Colette insists on their lack of childcare alternatives. The descriptive adjective for 'else' agrees in gender and number with its noun.
-- 'I thought we paid for real help.' Andrea expected outsourced nursery staff. Notice how 'thought' leads directly into the noun meaning 'help'.
-- 'I need to return to a normal life.' Colette expresses her longing for routine and career. The adjective meaning 'normal' takes its feminine form here to match the noun it describes.
-- 'Okay, I will make efforts for us.' Andrea accepts the compromise for their couple. The verb meaning 'will make' pairs naturally with the noun for 'efforts' in everyday conversation.
-- 'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession. Notice how 'will be' leads directly into the noun meaning 'thank you'.
+- 'Sorry Colette, I was held up at work.' Andrea apologizes for her delayed arrival.
+- 'This parent daycare requires a lot of cooperation.' Colette introduces the cooperative model.
+- 'What must we do exactly here?' Andrea asks for precise expectations.
+- 'Half a day a week with the children.' Colette details the mandatory parent shifts.
+- 'Taking care of meals and changes?' Andrea lists basic nursery tasks.
+- 'Yes, and organize cooking workshops.' Colette explains the participatory curriculum.
+- 'Cooking for tiny babies?' Andrea balks at the thought of culinary infants.
+- 'They knead dough with flour.' Colette clarifies the tactile activity.
+- 'Do we also have to clean the whole house?' Andrea questions having to clean up.
+- 'Stop Andrea, we found nothing else.' Colette insists on their lack of childcare alternatives.
+- 'I thought we paid for real help.' Andrea expected outsourced nursery staff.
+- 'I need to return to a normal life.' Colette expresses her longing for routine and career.
+- 'Okay, I will make efforts for us.' Andrea accepts the compromise for their couple.
+- 'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession.

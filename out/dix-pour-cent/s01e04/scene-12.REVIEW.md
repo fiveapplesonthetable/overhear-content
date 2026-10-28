@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Audrey. Didn't you find a babysitter?' After a negative verb, the word for 'a' changes to the short word meaning 'any'.
+- 'Hello, Audrey. Didn't you find a babysitter?' After a negative action word, the word for 'a' changes to the short word meaning 'any'.
 - 'I didn't have children just to leave them with a stranger!' Literally 'I did not make children for to leave them to an unknown woman'.
 - 'And your husband?' A quick two-word question using the masculine word for 'your'.
 - 'He's filming a documentary about landless farmers in Honduras.' Literally 'peasants without land'. So her partner is on the other side of the world.
-- 'Are you losing your voice?' Meanwhile, Audrey is speaking in a tiny, breathless whisper.
+- 'Are you losing your voice?' Here, Audrey is speaking in a tiny, breathless whisper.
 - 'No, I still have a bit of a tummy.' Her baby is only a few months old.
 - 'So I'm wearing a girdle.' The verb means 'wear' as well as 'carry'.
 - 'But it's very tight! I can hardly breathe.' The adjective for 'tight' is feminine to match 'girdle', and the word for 'almost' sits inside the negative.
 - 'I'm fine, if I speak softly.' As long as she doesn't take a deep breath, she can manage.
 - 'Are they staying here?' Mathias looks nervously at the children before the meeting with the director.
 - 'Mathias, having children isn't an illness!' Literally 'to have children, it is not an illness'.
-- 'Audrey, directors have no imagination.' Again, after a negative, the word before 'any imagination' shrinks before the vowel.
+- 'Audrey, directors have no imagination.' Again, after a negative, the word before 'imagination' shrinks before the vowel.
 - 'With children here, they think about babies, not about cinema!' Meanwhile Audrey's little girl hands her mother a crayon drawing.
 - 'Thank you, my little kitten.' French parents often use 'my kitten' as a sweet pet name for a small child.
-- 'Mathias, look, she has drawn you! She's very talented!' The object word for 'you' shrinks before the helping verb. Mathias is not nearly as charmed by the portrait as Audrey is.
+- 'Mathias, look, she has drawn you! She's very talented!' The object word for 'you' shrinks before the auxiliary verb. Mathias is not nearly as charmed by the portrait as Audrey is.

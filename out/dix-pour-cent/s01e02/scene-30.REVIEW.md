@@ -28,9 +28,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'A Tavernier film? Great!' Tavernier is a famous French director, so Hippolyte is excited. The second word is borrowed from English, and the French use it all the time.
-- 'There's no part for you.' Andréa uses the informal 'tu' form with 'you', showing familiarity.
+- 'There's no part for you.' Look at the start: 'there is' with the 'not' wrapped around it.
 - 'And Gallienne's film?' French has no apostrophe-s: you say 'the film of Gallienne'.
-- 'Can I read the script?' The verb 'can' is followed directly by the verb 'to read', in its basic form.
+- 'Can I read the script?' The action word 'can' is followed directly by the action word 'to read', in its basic form.
 - 'Not now, Hippolyte.' Andréa has no time for him. She has someone more important to talk to.
 - 'At least tell me what it's about!' A casual command, with the word for 'me' joined on after it. He uses the casual 'you' with Andréa straight away; that's Hippolyte.
 - 'Gabriel? Sorry about yesterday.' The word for 'sorry' has an extra letter on the end in writing because Andréa is a woman. You can't hear it, but it's there.

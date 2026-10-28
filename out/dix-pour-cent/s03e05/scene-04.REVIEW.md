@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A very serious registered letter just arrived.' An alarming announcement delivering urgent legal correspondence. The verb meaning 'comes' pairs naturally with the noun for 'letter' in everyday conversation.
-- 'Which company does this mail come from?' Notice how 'comes from' leads directly into the noun meaning 'company'. Notice how 'comes from' leads directly into the noun meaning 'company'.
-- 'American producers are suing us in court.' The verb meaning 'attack' pairs naturally with the noun for 'producers' in everyday conversation.
-- 'What do these producers claim exactly?' The verb meaning 'claim' pairs naturally with the noun for 'producers' in everyday conversation.
-- 'They are claiming two million dollars!' The verb meaning 'claim' pairs naturally with the noun for 'millions' in everyday conversation.
-- 'Two million? That is an enormous sum!' The key noun here means 'millions', anchored by its matching French article. The key noun here means 'millions', anchored by its matching French article.
-- 'It is because of the production shutdown.' The key noun here means 'cause', anchored by its matching French article. The key noun here means 'cause', anchored by its matching French article.
-- 'Does their insurance not cover these costs?' Notice the classic French sandwich negation wrapping right around 'covers'. Notice the classic French sandwich negation wrapping right around 'covers'.
-- 'The insurance formally rejected their claim.' A categorical denial ending hopes of coverage. This conversational past tense combines a helper verb with the past verb form for 'rejected'.
-- 'We must negotiate with their lawyers.' A pragmatic recommendation urging settlement talks. Notice how 'must' leads directly into the noun meaning 'lawyers'.
-- 'To negotiate, one needs solid leverage.' A realistic tactical assessment evaluating bargaining power. Notice how 'to negotiate' leads directly into the noun meaning 'leverage'.
-- 'Can we use reserve funds?' In everyday spoken French, rising intonation on 'can we' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'can we' at the end is enough to turn the sentence into a question.
-- 'I refuse to lose all my money!' An angry executive outburst rejecting personal financial sacrifice. The verb meaning 'refuse' pairs naturally with the noun for 'money' in everyday conversation.
-- 'We are going to find a solution together.' Notice how 'let us go' leads directly into the noun meaning 'solution'. Notice how 'let us go' leads directly into the noun meaning 'solution'.
+- 'A very serious registered letter just arrived.' An alarming announcement delivering urgent legal correspondence.
+- 'Which company does this mail come from?' A prompt inquiry identifying the sender.
+- 'American producers are suing us in court.' A grave declaration stating foreign litigation.
+- 'What do these producers claim exactly?' A direct question inquiring about monetary damages.
+- 'They are claiming two million dollars!' An astonished exclamation stating the staggering claim.
+- 'Two million? That is an enormous sum!' A shocked reaction expressing profound financial dismay.
+- 'It is because of the production shutdown.' An explanatory phrase pinpointing the cause of damages.
+- 'Does their insurance not cover these costs?' A hopeful question seeking third-party indemnification.
+- 'The insurance formally rejected their claim.' A categorical denial ending hopes of coverage.
+- 'We must negotiate with their lawyers.' A pragmatic recommendation urging settlement talks.
+- 'To negotiate, one needs solid leverage.' A realistic tactical assessment evaluating bargaining power.
+- 'Can we use reserve funds?' A tentative proposal suggesting agency capital to absorb the loss.
+- 'I refuse to lose all my money!' An angry executive outburst rejecting personal financial sacrifice.
+- 'We are going to find a solution together.' A constructive concluding promise committing to joint resolution.

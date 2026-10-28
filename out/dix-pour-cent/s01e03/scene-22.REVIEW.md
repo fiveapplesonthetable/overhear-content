@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I feel bad for Nathalie.' Literally 'I feel myself badly for Nathalie'. Gabriel thinks only Laura was rejected.
 - 'How did it go with Laura Smet?' Literally 'how did it pass itself'. A very common everyday way to ask how something went.
-- 'Fine. Not bad. I don't have an answer yet.' Gabriel lies to cover up Laura's disaster. Notice the negative with the word for 'yet' right after the verb.
+- 'Fine. Not bad. I don't have an answer yet.' Gabriel lies to cover up Laura's disaster.
 - 'She doesn't want Nathalie Baye.' Here comes the shock: Nathalie's tragic audition worked all too well, and the director rejected her.
 - 'That's not possible!' Standard negative around the verb 'is'. Now Gabriel realizes both actresses have lost their parts.
 - 'Akerfelt didn't like her audition.' The past tense made negative, with the two negative words wrapping around the helper verb 'has'.
@@ -47,7 +47,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That's mean!' Andréa is shocked that the director rejected a star like Nathalie Baye.
 - 'You made Laura do a Bardot for nothing!' Earlier, Gabriel told Laura to act like an impossible diva, like Brigitte Bardot, so she wouldn't have to act with her mother.
 - 'Without Nathalie, Laura can play the daughter now.' Now that her mother is out of the film, Laura would gladly take the part—if Gabriel hadn't ruined her audition!
-- 'Am I fired?' Right then, Gabriel plays a grim joke on Camille, telling her she is fired, and poor Camille believes him.
+- 'Am I fired?' Here, Gabriel plays a grim joke on Camille, telling her she is fired, and poor Camille believes him.
 - 'Yes. I'm sorry.' He keeps a completely straight face.
 - 'Am I really fired?' Notice the word for 'really' placed right between 'am' and 'fired'.
 - 'No, I'm doing a Bardot!' He was just pretending, to let off steam, though Camille says her blood froze in her veins. Now let's hear the whole scene again from beginning to end.

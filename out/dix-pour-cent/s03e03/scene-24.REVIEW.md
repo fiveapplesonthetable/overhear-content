@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the midwife saying?' Arlette listens intently to the emergency instructions. The standard spoken question formula at the front turns the statement about 'instructs' into a natural inquiry.
-- 'We are in office spaces here!' Arlette clarifies that they have no hospital facilities. The key noun here means 'commercial offices', anchored by its matching French article.
-- 'Yes, it is the mother screaming.' Arlette confirms the intense labor cries to the operator. The verb meaning 'shouts' pairs naturally with the noun for 'mother' in everyday conversation.
-- 'She is giving birth right now!' Arlette realizes there is no time to wait for the ambulance. The clause hinges on the everyday verb meaning 'giving birth'.
-- 'The ambulance will not be long.' Arlette tries to reassure everyone despite the rush. The two-part French negation brackets the verb for 'is going' on both sides.
-- 'The baby is coming, she will push.' Arlette relays the urgent physical progression. Notice how 'is emerging' leads directly into the noun meaning 'infant'.
-- 'Mathias, come into the room quickly!' Arlette summons Mathias to assist with the birth. Dropping the subject pronoun turns the verb for 'enter' into a direct, punchy command.
-- 'Give your shoelaces for the cord!' Arlette demands an improvised clamp for the umbilical cord. The formal 'you' pronoun sets a courteous, professional distance around 'hand over'.
-- 'Excuse me? But how do we do it?' Mathias is bewildered by the sudden medical role. Notice how 'proceed' leads directly into the noun meaning 'excuse me?'.
-- 'Do not argue, be quick!' Arlette brooks no hesitation in the emergency. The clause hinges on the everyday verb meaning 'hesitate'.
-- 'Agreed, I am listening to you closely.' Mathias focuses and prepares to catch the newborn. Mathias uses the polite 'you' form alongside 'heed' to keep a respectful professional tone.
-- 'Here it is, I see the head!' Mathias announces the miraculous sight of the baby crowning. Notice how 'perceive' leads directly into the noun meaning 'infant cranium'.
-- 'The baby is going to bring out the shoulders.' Mathias follows the midwife's step-by-step guidance. French forms the near future by pairing the present tense of 'to go' directly with 'deliver'.
-- 'Ah! Help me, I am pushing!' Andrea cries out as she exerts all her remaining strength. The clause hinges on the everyday verb meaning 'assist me'.
-- 'Mathias, you are doing like a champion!' Arlette commends Mathias for his heroic delivery. The key noun here means 'pro', anchored by its matching French article. Now let's hear the whole conversation again.
+- 'What is the midwife saying?' Arlette listens intently to the emergency instructions.
+- 'We are in office spaces here!' Arlette clarifies that they have no hospital facilities.
+- 'Yes, it is the mother screaming.' Arlette confirms the intense labor cries to the operator.
+- 'She is giving birth right now!' Arlette realizes there is no time to wait for the ambulance.
+- 'The ambulance will not be long.' Arlette tries to reassure everyone despite the rush.
+- 'The baby is coming, she will push.' Arlette relays the urgent physical progression.
+- 'Mathias, come into the room quickly!' Arlette summons Mathias to assist with the birth.
+- 'Give your shoelaces for the cord!' Arlette demands an improvised clamp for the umbilical cord.
+- 'Excuse me? But how do we do it?' Mathias is bewildered by the sudden medical role.
+- 'Do not argue, be quick!' Arlette brooks no hesitation in the emergency.
+- 'Agreed, I am listening to you closely.' Mathias focuses and prepares to catch the newborn.
+- 'Here it is, I see the head!' Mathias announces the miraculous sight of the baby crowning.
+- 'The baby is going to bring out the shoulders.' Mathias follows the midwife's step-by-step guidance.
+- 'Ah! Help me, I am pushing!' Andrea cries out as she exerts all her remaining strength.
+- 'Mathias, you are doing like a champion!' Arlette commends Mathias for his heroic delivery. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, you're walking too fast.' A casual command from the verb 'to wait', followed by 'you walk too fast'.
-- 'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the verb 'to wake'.
+- 'Wait, you're walking too fast.' A casual command from the action word 'to wait', followed by 'you walk too fast'.
+- 'I don't want to wake him.' The negative wraps around 'want', and the little word for 'him' sits right before the action word 'to wake'.
 - 'He didn't sleep all night.' Literally 'of the night', the idiomatic way to say 'all night long' after a negative.
 - 'He's teething.' Literally 'he is making his teeth'.
-- 'We're not taking any risks. Let me do the talking.' The negative word after the verb means 'no' or 'not any'. Mathias thinks the friendly inspector Mr Jarron is still in charge, but a much stricter man is sitting at the desk.
+- 'We're not taking any risks. Let me do the talking.' The negative word after the action word means 'no' or 'not any'. Mathias thinks the friendly inspector Mr Jarron is still in charge, but a much stricter man is sitting at the desk.
 - 'Is he your husband?' The inspector uses the polite 'your' as they sit down.
 - 'No, her agent.' The word for 'his' or 'her' takes the masculine form here because 'agent' is a masculine noun.
 - 'Madam, you are twenty-three months late.' Literally 'you have twenty-three months of delay'. French uses 'to have' with a noun for being late.
@@ -41,9 +41,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Audrey had two children in three years.' The everyday past tense of 'to have', 'has had'.
 - 'Now she wants to find work again and pay her taxes.' The prefix on 'to find again' works just like 're-' in English.
 - 'You can't find work, madam?' After a negative, the word for 'some' becomes the simple short word for 'of' or 'any'.
-- 'Of course she can!' Notice how 'well' sets up the clause and leads naturally into 'yes!'.
+- 'Of course she can!' Notice the special word for 'yes' at the end: French uses it instead of the normal 'yes' to contradict a negative question.
 - 'But you turned down a role in an action film.' The inspector has been reading the newspapers.
-- 'I couldn't run after zombies!' She had just given birth when that part was offered to her. The verb 'could' is in the past tense used for how things were.
+- 'I couldn't run after zombies!' She had just given birth when that part was offered to her.
 - 'Audrey's return to a film shoot is imminent.' Mathias invents a big comeback on the spot.
 - 'Yes, it's a huge project.' Audrey plays along with her agent's lie.
 - 'I expect your cheque this week, with ten percent extra.' The lie backfires: if she has a big film coming, she doesn't need any more time to pay. Now let's hear the whole scene at the tax office again.

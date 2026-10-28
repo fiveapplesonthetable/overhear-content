@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My Camille. Do not cry.' Andréa comforts the weeping assistant warmly. The affectionate possessive 'my' softens the negative command form 'not'.
-- 'Everyone hates me now.' Camille expresses her overwhelming feeling of isolation. The indefinite subject 'all' takes the 3rd person singular verb 'hates'.
-- 'I believe you. I know you did not want it.' Andréa reassures Camille of her unconditional trust. The transitive verb 'believe' takes the short object word 'you'.
-- 'Hervé thinks that my father arranged everything.' Camille explains the hurtful accusation. The key word here means 'thinks', paired with 'arranged' to make the point clear.
-- 'It is destiny knocking at your door.' Andréa frames the sudden opportunity poetically. Notice how the verb for 'knocks' leads straight into 'door'.
-- 'And girls like us, we have no right to refuse.' Andréa identifies with Camille's struggle. The key word here means 'girls', paired with 'refuse' to make the point clear.
-- 'Because it will not come back knocking. Do you understand?' Andréa stresses the urgency of seizing one's chance. The adverb meaning 'not' sharpens the verb for 'will come back' here.
-- 'Yes, I understand very well, Andréa.' Camille absorbs her mentor's advice. Camille opens with the word for 'understand' and lands on 'well' at the close.
-- 'You know, your story with Christophe Lambert...' Andréa recalls Camille's earlier romantic cover story. The key word here means 'know', paired with 'story' to make the point clear.
-- 'I never believed it.' Andréa confesses her lasting skepticism. The verb meaning 'have' anchors the whole remark.
-- 'Intellectually, yes, but not deep down.' Andréa contrasts head and heart. Listen for the expression meaning 'intellectually', which leads naturally into 'bottom'.
-- 'I always knew there was something else.' Andréa explains her instinctive intuition. Andréa opens with the word for 'I have' and lands on 'thing' at the close.
-- 'Something deeper, that would bring us closer one day.' Andréa speaks of an enduring bond. Andréa opens with the word for 'thing' and lands on 'day' at the close.
-- 'And you are not angry with me?' Camille seeks final reassurance. The prepositional phrase 'in' expresses anger directed at someone.
-- 'No, not at all. We are like a family.' Andréa reaffirms their sisterly connection. The comparative linking word 'like' establishes the warmth of kinship.
-- 'Thank you, Andréa. That makes me feel good.' Camille finds comfort in her friendship. Listen for the expression meaning 'thank you', which leads naturally into 'good'.
+- 'My Camille. Do not cry.' Andrea comforts the weeping assistant warmly.
+- 'Everyone hates me now.' Camille expresses her overwhelming feeling of isolation.
+- 'I believe you. I know you did not want it.' Andrea reassures Camille of her unconditional trust.
+- 'Hervé thinks that my father arranged everything.' Camille explains the hurtful accusation.
+- 'It is destiny knocking at your door.' Andrea frames the sudden opportunity poetically.
+- 'And girls like us, we have no right to refuse.' Andrea identifies with Camille's struggle.
+- 'Because it will not come back knocking. Do you understand?' Andrea stresses the urgency of seizing one's chance.
+- 'Yes, I understand very well, Andréa.' Camille absorbs her mentor's advice.
+- 'You know, your story with Christophe Lambert...' Andrea recalls Camille's earlier romantic cover story.
+- 'I never believed it.' Andrea confesses her lasting skepticism.
+- 'Intellectually, yes, but not deep down.' Andrea contrasts head and heart.
+- 'I always knew there was something else.' Andrea explains her instinctive intuition.
+- 'Something deeper, that would bring us closer one day.' Andrea speaks of an enduring bond.
+- 'And you are not angry with me?' Camille seeks final reassurance.
+- 'No, not at all. We are like a family.' Andrea reaffirms their sisterly connection.
+- 'Thank you, Andréa. That makes me feel good.' Camille finds comfort in her friendship.

@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here it is, and he that was called Judas!' Hervé summons Camille with ominous biblical solemnity. The presentative 'here is' introduces a dramatic quotation from the scripture.
-- 'Judas Barneville, daughter of Mathias!' Hervé delivers his biting personal accusation. He substitutes Mathias's family name to brand Camille as a betrayer.
-- 'Hervé, stop... I am sorry.' Camille tries to apologize for the unexpected promotion. The key word here means 'stop', paired with 'sorry' to make the point clear.
-- 'Let me finish! You betrayed your friends.' Hervé cuts off her defense angrily. Listen for the expression meaning 'let me', which leads naturally into 'friends'.
-- 'It was Hicham. I never asked for it.' Camille explains that the decision came entirely from Hicham. Camille opens with the word for 'not' and lands on 'sought' at the close.
-- 'Did you really never want to take his place?' Hervé demands a moral confession. Listen for the expression meaning 'can you', which leads naturally into 'position'.
-- 'At first, a little. But I never put myself forward as a candidate.' Camille admits her private longing honestly. The key word here means 'beginning', paired with 'candidate' to make the point clear.
-- 'Not to your father?' Hervé suspects family lobbying behind closed doors. Listen for the expression meaning 'not', which leads naturally into 'father'.
-- 'No. In passing, maybe, but that is all.' Camille downplays any casual conversation. The locution 'in' means casually or incidentally.
-- 'Now it all makes sense! It was all premeditated.' Hervé fits the conspiracy pieces together. Hervé opens with the word for 'now' and lands on 'premeditated' at the close.
-- 'Not at all! That is not true.' Camille denies any underhanded calculation. The key word here means 'not', paired with 'true' to make the point clear.
-- 'Yes! Mathias pulled strings for his daughter!' Hervé accuses Mathias of blatant nepotism. The colloquial verb 'pulled strings for' means to pull strings or recommend through favouritism.
-- 'He influenced Hicham to pick you!' Hervé asserts Mathias's hidden leverage over the agency boss. Hervé opens with the word for 'has' and lands on 'choose' at the close.
-- 'And Miss Judas was telling me that it is bad to trip up others!' Hervé mocks Camille's earlier moral advice. Hervé pairs the verb meaning 'was telling' with the noun for 'Miss'.
-- 'Stop, Hervé! I did not want to hurt you.' Camille pleads for understanding. Camille opens with the word for 'stop' and lands on 'to hurt' at the close.
-- 'You took my place, Camille.' Hervé states his deep feeling of professional loss. The key word here means 'have', paired with 'place' to make the point clear.
+- 'Here it is, and he that was called Judas!' Herve summons Camille with ominous biblical solemnity.
+- 'Judas Barneville, daughter of Mathias!' Herve delivers his biting personal accusation.
+- 'Hervé, stop... I am sorry.' Camille tries to apologize for the unexpected promotion.
+- 'Let me finish! You betrayed your friends.' Herve cuts off her defense angrily.
+- 'It was Hicham. I never asked for it.' Camille explains that the decision came entirely from Hicham.
+- 'Did you really never want to take his place?' Herve demands a moral confession.
+- 'At first, a little. But I never put myself forward as a candidate.' Camille admits her private longing honestly.
+- 'Not to your father?' Herve suspects family lobbying behind closed doors.
+- 'No. In passing, maybe, but that is all.' Camille downplays any casual conversation.
+- 'Now it all makes sense! It was all premeditated.' Herve fits the conspiracy pieces together.
+- 'Not at all! That is not true.' Camille denies any underhanded calculation.
+- 'Yes! Mathias pulled strings for his daughter!' Herve accuses Mathias of blatant nepotism.
+- 'He influenced Hicham to pick you!' Herve asserts Mathias's hidden leverage over the agency boss.
+- 'And Miss Judas was telling me that it is bad to trip up others!' Herve mocks Camille's earlier moral advice.
+- 'Stop, Hervé! I did not want to hurt you.' Camille pleads for understanding.
+- 'You took my place, Camille.' Herve states his deep feeling of professional loss.

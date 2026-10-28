@@ -35,12 +35,12 @@ STORY = [
     ('mathias', "J'ai quelque chose à te dire.", 'I have something to tell you.', [(739, "J'ai quelque chose à te dire")], ''),
 ]
 WALK = [
-    (0, None, "'Do you have a minute? I forgot something.' Even when they are alone at night, Mathias still addresses Camille with the formal 'you' out of habit."),
+    (0, None, "'Do you have a minute? I forgot something.' Even when they are alone at night, Mathias still addresses Camille with the formal 'vous' out of habit."),
     (1, None, "'What, here, in this office?' Camille thinks he is looking for a file or a folder."),
     (2, None, "'Your birthday.' Quietly, Mathias admits what he forgot all day."),
     (3, None, "'Oh, yes. It's no big deal. And I'm not six years old!' Remember that French expresses age with the verb 'to have': 'I don't have six years'."),
     (4, None, "'Anyway, what would make you happy? You must have some idea.' He asks what she would like as a birthday present — and what Camille really wants is simply to spend a little time with her father."),
-    (5, None, "'I hurt the examiner's hand with the car door.'s hand.' In response, Mathias opens a bottle of champagne in his office, and for the first time they laugh together like father and daughter as Camille tells the story of her fifth driving test."),
+    (5, None, "'I hurt the examiner's hand with the car door.'s hand.' Here, Mathias opens a bottle of champagne in his office, and for the first time they laugh together like father and daughter as Camille tells the story of her fifth driving test."),
     (6, None, "'No!' Mathias bursts out laughing in disbelief."),
     (7, None, "'Yes! He had two broken fingers.' Notice the word for 'yes' used to contradict a negative exclamation."),
     (8, None, "'I thought I'd see you at the opera. I left messages.' Suddenly the office door opens: Catherine and Hippolyte are standing there in their evening clothes, stunned to find Mathias and Camille laughing over champagne in the dark office."),

@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Jean Gabin, come with me!' Gabriel calls his faithful dog as he steps out of the office.
 - 'Now, we are man-to-man.' Hicham sets an informal tone for their private discussion.
-- 'How do you envisage this position?' Hicham asks how Hervé plans to handle the responsibilities.
-- 'I do not want to leave Gabriel.' Hervé immediately makes clear that he remains loyal to his mentor.
-- 'I will continue to work with him.' The key word here means 'will continue', paired with 'to work' to make the point clear.
-- 'I can do several things together.' Hervé highlights his ability to multitask across different agency tasks.
-- 'If you hire me, I will be perfect.' Hervé opens with the word for 'hire me' and lands on 'perfect' at the close.
-- 'What do you like about this profession?' Hicham probes Hervé's passion for talent representation.
-- 'I like the excitement of discovery.' Hervé identifies scouting new talents as his main thrill.
+- 'How do you envisage this position?' Hicham asks how Herve plans to handle the responsibilities.
+- 'I do not want to leave Gabriel.' Herve immediately makes clear that he remains loyal to his mentor.
+- 'I will continue to work with him.' Hervé promises he will continue working closely with him.
+- 'I can do several things together.' Herve highlights his ability to multitask across different agency tasks.
+- 'If you hire me, I will be perfect.' Herve uses a conditional si clause followed by the future tense.
+- 'What do you like about this profession?' Hicham probes Herve's passion for talent representation.
+- 'I like the excitement of discovery.' Herve identifies scouting new talents as his main thrill.
 - 'And what is your greatest quality?' Hicham asks a classic job interview question about personal virtues.
-- 'I have a great sense of observation.' Hervé emphasizes how attentively he watches everyone in the agency.
+- 'I have a great sense of observation.' Herve emphasizes how attentively he watches everyone in the agency.
 - 'What will you improve at ASK?' Hicham challenges him to identify internal agency weaknesses.
-- 'Communication, without any hesitation.' Hervé points directly to the lack of transparent communication.
+- 'Communication, without any hesitation.' Herve points directly to the lack of transparent communication.
 - 'Thank you, we will resume the interviews tomorrow.' Hicham wraps up the meeting with polite reserve.

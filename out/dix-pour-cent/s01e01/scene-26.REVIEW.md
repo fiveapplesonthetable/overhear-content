@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Thanks, Mathias!' Pure sarcasm. Then he says what he really thinks.
-- 'You stole Cécile!' This is the everyday past tense: the verb 'to have' plus the past form of 'steal'. It's the grammar point of this scene, and you'll hear it again and again.
+- 'You stole Cécile!' This is the everyday past: the action word 'to have' plus the past form of 'steal'. It's the language point of this scene, and you'll hear it again and again.
 - 'And don't say it was for the good of the agency.' A negative command: the negative wraps around the casual 'say'. Gabriel knows exactly what Mathias will answer.
 - 'Of course it was, Gabriel.' Literally 'of course yes'. Mathias doesn't apologise for anything.
 - 'Two other agencies wanted Cécile.' The verb is 'to want' in the past, describing how things stood: a different past tense, used for background.
 - 'Twenty-four more hours, and she comes back!' Gabriel speaks in the present to make it vivid: one more day, and she would have come home.
-- 'We didn't have twenty-four hours.' The word at the start means 'we' in everyday speech. And the negative wraps around the verb again.
+- 'We didn't have twenty-four hours.' The word at the start means 'we' in everyday speech.
 - 'She's not a file. She's Cécile.' The word for 'file' is what agents call a case or a deal. For Gabriel she's a person, not a deal.
 - 'Yes, it's Cécile.' Mathias repeats it calmly, and Gabriel storms off. Now Andréa speaks up.
 - 'Congratulations, Mathias.' The word looks long but it's simply 'congratulations'. She says it drily.
@@ -51,4 +51,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where did you find her? She's dangerous.' The question word for 'where' comes at the very end, which is common in spoken French.
 - 'I haven't told Gabriel.' Literally 'I haven't spoken of it to Gabriel'. So the secret stays between them.
 - 'But sort it out, will you?' A casual command with a soft tag at the end, 'you want, okay?'. It sounds polite, but it's an order.
-- 'Have a nice day.' Literally 'good day'. A sweet goodbye that leaves Andréa with a big problem. Here is the whole scene one more time. Now hear the entire conversation again from the top.
+- 'Have a nice day.' Literally 'good day'. A sweet goodbye that leaves Andréa with a big problem.

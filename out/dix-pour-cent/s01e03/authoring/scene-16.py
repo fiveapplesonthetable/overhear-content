@@ -34,9 +34,9 @@ STORY = [
     ('laura', 'Je ne vais quand même pas faire une Bardot!', 'I', [(412, 'quand même pas'), (413, 'faire une Bardot')], ''),
 ]
 WALK = [
-    (0, None, "'Summer twenty eleven. She broke her ankle.' With parts of the body, French uses a reflexive verb and the word for 'the' instead of 'her'."),
-    (1, None, "'I couldn't walk. I stayed at my mother's.' The first verb describes how things were, and the second is a single event. The linking word before 'my mother' means 'at the home of'."),
-    (2, None, "'Total horror! It was as if she were thirteen.' Again, French expresses age with the verb 'to have': she had thirteen years."),
+    (0, None, "'Summer twenty eleven. She broke her ankle.' With parts of the body, French uses a self-directed action word and the word for 'the' instead of 'her'."),
+    (1, None, "'I couldn't walk. I stayed at my mother's.' The first action word describes how things were, and the second is a single event. The linking word before 'my mother' means 'at the home of'."),
+    (2, None, "'Total horror! It was as if she were thirteen.' Again, French expresses age with the action word 'to have': she had thirteen years."),
     (3, None, "'I completely lost it. We said horrible things to each other.' The first verb literally means to crack or snap."),
     (4, 'Jamais plus!', "'Never again!' Literally 'never more'. Both mother and daughter swear the same thing."),
     (5, None, "'If I say no, she will think that it is her fault!'m not going to sacrifice our relationship for a film.' Nathalie tells Mathias her decision is final. Yet in Gabriel's office, Laura has no idea her mother is saying no."),

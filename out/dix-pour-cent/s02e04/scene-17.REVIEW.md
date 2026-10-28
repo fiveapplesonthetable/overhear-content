@@ -29,19 +29,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here, Benoît. Here is your coffee.' Noémie hands him a warm beverage. The key word here means 'here', paired with 'coffee' to make the point clear.
-- 'Thanks. Do you work here?' Benoît pairs the verb meaning 'work' with the noun for 'thank you'.
-- 'Yes, I am an assistant.' Noémie confirms her administrative role. Notice how the verb for 'am' leads straight into 'assistant'.
-- 'You are here for the assistant job?' She inquires about his presence. The key word here means 'come', paired with 'assistant' to make the point clear.
-- 'Yes, I am having an interview.' Benoît opens with the word for 'yes' and lands on 'interview' at the close.
-- 'It is to work with Gérard Depardieu.' Noémie drops the intimidating name. Listen for the expression meaning 'it is', which leads naturally into 'to work'.
-- 'With Depardieu? Is he difficult?' Benoît opens with the word for 'is' and lands on 'difficult' at the close.
-- 'Let's say he is quite extreme.' Noémie uses a classic euphemism. Noémie opens with the word for 'let's say' and lands on 'extreme' at the close.
-- 'Do you have good health insurance?' She raises medical concerns immediately. Notice how the verb for 'have' leads straight into 'health'.
-- 'Standard insurance. Why?' A concise spoken phrase built around the French noun for 'health insurance'. A concise spoken phrase built around the French noun for 'health insurance'.
-- 'In case of back fractures.' Noémie lists physical hazards casually. Noémie opens with the word for 'case' and lands on 'back' at the close.
-- 'Gérard is a real heavyweight.' She emphasizes his imposing stature. Listen for the expression meaning 'is', which leads naturally into 'heavy'.
-- 'Have you ever been to Russia?' She asks about international travel. Noémie opens with the word for 'are' and lands on 'gone' at the close.
-- 'No, I have never been there.' The adverbial pronoun y replaces the destination en Russie. The key word here means 'no', paired with 'gone' to make the point clear.
-- 'Over there, they play Russian roulette.' She spins a terrifying tale. Notice how the verb for 'play' leads straight into 'roulette'.
-- 'I think that I will leave.' The verb meaning 'think' anchors the whole remark.
+- 'Here, Benoît. Here is your coffee.' Noémie hands him a warm beverage.
+- 'Thanks. Do you work here?' Benoît starts polite small talk.
+- 'Yes, I am an assistant.' Noémie confirms her administrative role.
+- 'You are here for the assistant job?' She inquires about his presence.
+- 'Yes, I am having an interview.' Benoît explains his purpose.
+- 'It is to work with Gérard Depardieu.' Noémie drops the intimidating name.
+- 'With Depardieu? Is he difficult?' Benoît asks nervously.
+- 'Let's say he is quite extreme.' Noémie uses a classic euphemism.
+- 'Do you have good health insurance?' She raises medical concerns immediately.
+- 'Standard insurance. Why?' Benoît becomes alarmed.
+- 'In case of back fractures.' Noémie lists physical hazards casually.
+- 'Gérard is a real heavyweight.' She emphasizes his imposing stature.
+- 'Have you ever been to Russia?' She asks about international travel.
+- 'No, I have never been there.' Benoît admits his lack of experience.
+- 'Over there, they play Russian roulette.' She spins a terrifying tale.
+- 'I think that I will leave.' Benoît decides to flee the agency.

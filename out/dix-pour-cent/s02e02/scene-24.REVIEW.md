@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not let yourself be fooled, Fabrice!' Bréhier barges into the dinner with an urgent warning. François gives a direct command form using the verb for 'allow'.
-- 'This woman is very dangerous.' The rival agent attacks Andréa's integrity directly. Notice how the verb for 'is' leads straight into 'woman'.
-- 'Excuse me? What are you talking about?' Fabrice is taken aback by the sudden aggressive outburst. Listen for the expression meaning 'is it', which leads naturally into 'speak'.
-- 'The Bond film story was total nonsense!' Bréhier drops the bombshell about the fraudulent audition. François opens with the word for 'the narrative' and lands on 'phony nonsense' at the close.
-- 'It is Andréa who engineered everything.' He points fingers directly at her manipulative tactics. The verb meaning 'it is' anchors the whole remark.
-- 'I do not have the power to make that up.' Andréa calmly tries to deflect the damaging accusation. The key word here means 'do not have', paired with 'to fabricate' to make the point clear.
-- 'It was not the real casting director.' Bréhier exposes the impostor who conducted the fake meeting. Notice how the verb for 'was not' leads straight into 'audition process'.
-- 'Well then, who was this woman?' Fabrice begins to suspect that he was indeed tricked. Notice how the verb for 'was' leads straight into 'woman'.
-- 'She wanted to get revenge on our agency.' Bréhier explains the bitter motive behind the scheme. François opens with the word for 'wished' and lands on 'company' at the close.
-- 'It is you who called the tax inspectors!' Andréa hits back with Bréhier's own underhanded sabotage. The key word here means 'it is', paired with 'internal revenue' to make the point clear.
-- 'Your agency is completely ruined!' He sneers at ASK's desperate financial state. Notice how the verb for 'is' leads straight into 'talent agency'.
-- 'Believe what you want, Fabrice.' She refuses to grovel or debate further in front of her rival. Andréa opens with the word for 'believe' and lands on 'wish' at the close.
-- 'You agents are really strange!' Fabrice is disgusted by the vicious pettiness of talent agents. Notice how the verb for 'are' leads straight into 'talent agents'.
-- 'Leave me alone, François!' Andréa finishes the confrontation by dismissing Bréhier completely. The key word here means 'leave me', paired with 'peace' to make the point clear.
+- 'Do not let yourself be fooled, Fabrice!' Brehier barges into the dinner with an urgent warning.
+- 'This woman is very dangerous.' The rival agent attacks Andrea's integrity directly.
+- 'Excuse me? What are you talking about?' Fabrice is taken aback by the sudden aggressive outburst.
+- 'The Bond film story was total nonsense!' Brehier drops the bombshell about the fraudulent audition.
+- 'It is Andréa who engineered everything.' He points fingers directly at her manipulative tactics.
+- 'I do not have the power to make that up.' Andrea calmly tries to deflect the damaging accusation.
+- 'It was not the real casting director.' Brehier exposes the impostor who conducted the fake meeting.
+- 'Well then, who was this woman?' Fabrice begins to suspect that he was indeed tricked.
+- 'She wanted to get revenge on our agency.' Brehier explains the bitter motive behind the scheme.
+- 'It is you who called the tax inspectors!' Andrea hits back with Brehier's own underhanded sabotage.
+- 'Your agency is completely ruined!' He sneers at ASK's desperate financial state.
+- 'Believe what you want, Fabrice.' She refuses to grovel or debate further in front of her rival.
+- 'You agents are really strange!' Fabrice is disgusted by the vicious pettiness of talent agents.
+- 'Leave me alone, François!' Andrea finishes the confrontation by dismissing Brehier completely.

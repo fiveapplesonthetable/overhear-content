@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not cry over Cannes, Fabienne.' Listen for the expression meaning 'cry', which leads naturally into 'cry'.
+- 'Do not cry over Cannes, Fabienne.' A negative imperative comforting an upset artist.
 - 'The Angouleme festival is very good too.' A consoling alternative pointing to another prestigious film event.
 - 'Are you ready for the departure?' An inverted plural question reviewing festival preparations.
 - 'Me, I am staying at the agency.' A stressed personal pronoun highlighting duty in Paris.
 - 'The boss and Andréa are going to Cannes.' A compound subject noting the executive travel roster.
-- 'My karma is bad this month.' Notice how the verb for 'is' leads straight into 'this month'.
+- 'My karma is bad this month.' A colloquial idiom expressing temporary professional misfortune.
 - 'You are going to be in charge here.' A nautical metaphor signifying leadership during absence.
 - 'Last year, I had a single phone call.' A past temporal memory recalling previous office solitude.
 - 'Someone is really needed to guard the agency.' An impersonal necessity structure emphasizing essential presence.
-- 'Holding the fort is very important, Hervé.' The adjective meaning 'important' agrees in gender and number with feminine noun 'shop'.
+- 'Holding the fort is very important, Hervé.' A professional idiom encouraging responsible oversight.
 - 'Two weeks all alone in Paris, that is long.' A duration assessment acknowledging quiet summer weeks.
 - 'You will have peace and quiet to work well.' A reassuring future tense predicting calm productivity.
-- 'We trust you, my dear Hervé.' The adjective meaning 'dear' agrees in gender and number with feminine noun 'trust'.
+- 'We trust you, my dear Hervé.' A sincere expression of team confidence and affection.
 - 'All right, I am going to watch over the offices.' An accepting agreement undertaking office management.

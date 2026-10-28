@@ -30,21 +30,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What time is it?' Notice how the verb for 'is it' leads straight into 'time'.
-- 'Nine o'clock sharp, as agreed.' Listen for the expression meaning 'nine', which leads naturally into 'agreed'.
-- 'Can I have a coffee?' Mathias pairs the verb meaning 'can' with the noun for 'coffee'.
-- 'There is none left.' Catherine opens with the word for 'remains' and lands on 'anymore' at the close.
-- 'Are you okay?' A standard familiar question using the pronoun ca.
-- 'Take whatever you want, I do not care.' An command form followed by an informal expression of indifference.
-- 'On the phone, you wanted to talk.' Listen for the expression meaning 'phone', which leads naturally into 'to speak'.
-- 'Inform people of your new address.' An command form addressed to one person.
-- 'But I am not changing address!' Mathias opens with the word for 'change' and lands on 'address' at the close.
-- 'I made a serious mistake twenty-four years ago.' Mathias opens with the word for 'I have' and lands on 'years' at the close.
-- 'I do not want to stop you from having fun.' Listen for the expression meaning 'want', which leads naturally into 'having fun'.
+- 'What time is it?' Catherine checks the time as Mathias arrives to pack his things.
+- 'Nine o'clock sharp, as agreed.' Mathias points out that he arrived at nine o'clock sharp, just as agreed.
+- 'Can I have a coffee?' Mathias tries to break the ice by asking politely for a coffee.
+- 'There is none left.' Catherine replies coldly that there is no coffee left.
+- 'Are you okay?' Mathias asks softly how she is holding up.
+- 'Take whatever you want, I do not care.' Catherine tells him to take whatever he wants from the apartment.
+- 'On the phone, you wanted to talk.' Mathias reminds her that she said on the phone she wanted to talk.
+- 'Inform people of your new address.' Catherine hands him his mail and tells him to update his address.
+- 'But I am not changing address!' Mathias protests that he is not moving out for good.
+- 'I made a serious mistake twenty-four years ago.' He tries to frame his secret affair as a single mistake twenty-four years ago.
+- 'I do not want to stop you from having fun.' Seeing the tabloid photo of Mathias with Virginie, Catherine makes a bitter remark.
 - 'I am her agent, not her lover.' Mathias clarifies his professional relationship.
-- 'What do I know about it?' The verb meaning 'know' anchors the whole remark.
-- 'She broke up with Ramzy, that is all.' The key word here means 'has', paired with 'it is' to make the point clear.
-- 'You see, I do not believe you anymore.' The key word here means 'see', paired with 'anymore' to make the point clear.
+- 'What do I know about it?' Catherine asks how she could possibly know what else he has been hiding.
+- 'She broke up with Ramzy, that is all.' Mathias explains that he was only comforting Virginie after her breakup with Ramzy.
+- 'You see, I do not believe you anymore.' Catherine tells him sadly that she simply does not believe him anymore.
 - 'It is the truth, Catherine.' Mathias pleads his honesty.
-- 'I cannot take it anymore.' Listen for the expression meaning 'can', which leads naturally into 'anymore'.
-- 'We are getting a divorce.' The informal subject pronoun on used for we. Now let's listen to the whole discussion again without stopping.
+- 'I cannot take it anymore.' Catherine admits she has reached her limit after years of lies.
+- 'We are getting a divorce.' Catherine quietly delivers her final decision to end their marriage. Now let's listen to the whole discussion again without stopping.

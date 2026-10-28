@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi Sophia, are you packing your boxes?' Gabriel asks about the packed apartment. Gabriel uses the casual singular 'you' with 'prepare', showing close familiarity.
-- 'I am returning to live with my parents, Gabriel.' Sophia reveals her forced relocation. Notice how 'return' leads directly into the noun meaning 'parents'.
-- 'Why didn't you tell me anything?' Gabriel feels hurt that she kept it secret. The two-part negative frame surrounds 'have' to mean 'nothing at all'.
-- 'Because your help never helps me.' Sophia criticizes his well-meaning intervention. Sofia uses the casual singular 'you' with 'helps', showing close familiarity.
-- 'The film's flop is not my fault.' Gabriel disclaims responsibility for the failure. The key noun here means 'flop', anchored by its matching French article.
-- 'You were thinking about yourself, not me.' Sophia reproaches his agency priorities. Sofia uses the casual singular 'you' with 'were thinking', showing close familiarity.
-- 'I only wanted to protect your acting career.' Gabriel asserts his honest goal. Gabriel uses the casual singular 'you' with 'wanted', showing close familiarity.
-- 'I haven't worked in six months.' Sophia explains her financial desperation. Notice how 'have' leads directly into the noun meaning 'months'.
-- 'Do you think my life is easy?' Gabriel bristles at her sarcastic tone. Gabriel uses the casual singular 'you' with 'believe', showing close familiarity.
-- 'You, you still have your great job.' Sophia assumes Gabriel remains secure. The verb meaning 'have' pairs naturally with the noun for 'job' in everyday conversation.
-- 'I lost the woman of my life.' Gabriel expresses his deep romantic regret. Notice how 'have' leads directly into the noun meaning 'woman'.
-- 'And I will lose my agency tonight.' Gabriel reveals that ASK is on the brink of collapse. French forms the near future by pairing the present tense of 'to go' directly with 'lose'.
-- 'Good evening, sorry to have bothered you.' Gabriel steps away feeling defeated. The verb meaning 'forgive me' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'Wait, Gabriel, what is happening at ASK?' Sophia drops her bitterness out of genuine concern. In spoken French, the little word before 'wait' drops its final vowel and attaches with an apostrophe.
+- 'Hi Sophia, are you packing your boxes?' Gabriel asks about the packed apartment.
+- 'I am returning to live with my parents, Gabriel.' Sophia reveals her forced relocation.
+- 'Why didn't you tell me anything?' Gabriel feels hurt that she kept it secret.
+- 'Because your help never helps me.' Sofia criticizes his well-meaning interference in her work.
+- 'The film's flop is not my fault.' Gabriel disclaims responsibility for the failure.
+- 'You were thinking about yourself, not me.' Sophia reproaches his agency priorities.
+- 'I only wanted to protect your acting career.' Gabriel asserts his honest goal.
+- 'I haven't worked in six months.' Sophia explains her financial desperation.
+- 'Do you think my life is easy?' Gabriel bristles at her sarcastic tone.
+- 'You, you still have your great job.' Sophia assumes Gabriel remains secure.
+- 'I lost the woman of my life.' Gabriel expresses his deep romantic regret.
+- 'And I will lose my agency tonight.' Gabriel reveals that ASK is on the brink of collapse.
+- 'Good evening, sorry to have bothered you.' Gabriel steps away feeling defeated.
+- 'Wait, Gabriel, what is happening at ASK?' Sophia drops her bitterness out of genuine concern.

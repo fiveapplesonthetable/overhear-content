@@ -30,21 +30,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It's hot.' For the weather, French uses the verb 'to make' with 'it': literally 'it makes hot'.
-- 'What are you doing?' Same verb, 'to make' or 'to do', now with the formal 'you'. Arlette and Gabriel are colleagues, but she's from another generation, so they keep it formal.
-- 'I'm working.' One verb in the present tense covers both 'I work' and 'I'm working'. From the sofa, that's a bold claim.
-- 'Alice Tiscalini. Do you know her?' The little word for 'her' comes before the verb, not after it like in English.
+- 'It's hot.' For the weather, French uses the action word 'to make' with 'it': literally 'it makes hot'.
+- 'What are you doing?' Same action word, 'to make' or 'to do', now with the formal 'you'. Arlette and Gabriel are colleagues, but she's from another generation, so they keep it formal.
+- 'I'm working.' One action word in the present covers both 'I work' and 'I'm working'. From the sofa, that's a bold claim.
+- 'Alice Tiscalini. Do you know her?' The little word for 'her' comes before the action word, not after it like in English.
 - 'She's really good.' Gabriel is excited about her. Arlette takes a look.
 - 'Yes. She catches the light well.' That means she looks great on camera. Arlette adds a cheeky comment in the show, which we'll skip.
-- 'She's done a bit of theatre.' That's the past tense with 'to have' plus the past form of 'to do'. Gabriel keeps selling.
+- 'She's done a bit of theatre.' That's the past with 'to have' plus the past form of 'to do'. Gabriel keeps selling.
 - 'She's ready for us.' He means she's a fresh talent nobody has signed yet. Now Arlette sees what's really going on.
 - 'So Cécile changes agent, and you look for a replacement?' The last word is the feminine form: a woman who replaces another. Arlette is teasing him for rushing to forget Cécile.
 - 'Stop it, Arlette!' A formal command. Gabriel is hurt.
-- 'Samuel forgot to teach you tenacity.' In this moment, Samuel is the boss who trained him. The 'you' here means 'to you', and again it comes before the verb.
+- 'Samuel forgot to teach you tenacity.' Here, Samuel is the boss who trained him.
 - 'So what do I do?' A very natural spoken question, with the question word left at the end.
 - 'She doesn't want to talk to me anymore.' That's 'not anymore' again: two small words around the verb, the second meaning 'more'.
 - 'She left with Mathias. It's her choice.' Notice the past tense here uses 'to be' instead of 'to have', because the verb is about leaving, a movement.
 - 'You think so? She's better off with Mathias?' Arlette doesn't believe it for a second.
 - 'I know Cécile. She hates men like Mathias.' Arlette sounds completely sure of herself.
 - 'That's Mathias. He manipulates everyone.' She means Mathias talked Cécile into it with clever words.
-- 'Come on, Gabriel! Don't just lie there doing nothing!' Two negatives here: first 'don't stay', then 'nothing', both built around the verb. And it works: in the next scene, Gabriel goes off to find Cécile. Now, the whole scene again, a little faster. Now let's hear the full exchange again from beginning to end.
+- 'Come on, Gabriel! Don't just lie there doing nothing!' Two negatives here: first 'don't stay', then 'nothing', both built around the verb. And it works: in the next scene, Gabriel goes off to find Cécile. Now, the whole scene again, a little faster.

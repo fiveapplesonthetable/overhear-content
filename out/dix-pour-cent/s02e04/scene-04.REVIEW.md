@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Noémie, get me an appointment with Mathias.' Andréa uses the command form form for 'arrange for me' together with the word for 'scheduled appointment'.
-- 'Why Mathias? Your client is the problem.' The key word here means 'why', paired with 'trouble' to make the point clear.
+- 'Noémie, get me an appointment with Mathias.' An imperative request demanding high-level mediation.
+- 'Why Mathias? Your client is the problem.' A defiant retort assigning blame to the director.
 - 'You dragged Isabelle into this story.' An accusation pointing out premature agent enthusiasm.
 - 'Stop! She absolutely wanted to work with him.' A fierce defense of client motivation.
 - 'Maybe Isabelle could call him to apologize.' A pragmatic compromise suggesting an apology.
-- 'Out of the question, she will not apologize!' The key word here means 'matter', paired with 'will apologize' to make the point clear.
+- 'Out of the question, she will not apologize!' An emphatic refusal protecting client status.
 - 'I refuse to let her humiliate herself.' A fierce protective instinct shielding an iconic star.
 - 'Sacha thinks he is a genius.' A dismissive critique of young director arrogance.
-- 'So, what do we do now?' Noémie opens with the word for 'so' and lands on 'now' at the close.
+- 'So, what do we do now?' A practical question seeking immediate direction.
 - 'Do you want me to call Isabelle on the phone?' An offer from an assistant to break bad news.
 - 'No, that is my client, I will handle it.' A firm territorial declaration asserting agent responsibility.
 - 'Very well, do as you wish!' A sarcastic surrender conceding control.
-- 'Close the door and let me think.' Andréa uses the command form form for 'close' together with the word for 'room door'.
+- 'Close the door and let me think.' An imperative command requesting privacy to strategize.
 - 'All right, but find a solution quickly.' An urgent closing reminder of looming consequences.

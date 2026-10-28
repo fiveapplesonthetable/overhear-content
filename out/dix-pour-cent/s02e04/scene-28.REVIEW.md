@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Congratulate Mathias on his absence.' Isabelle delivers a bitterly sarcastic remark before leaving.
 - 'For what, Isabelle?' Camille asks with genuine confusion and concern.
-- 'Tell him to wait awhile.' Isabelle uses a polite command form directed at the missing agent.
+- 'Tell him to wait awhile.' Isabelle uses a polite imperative directed at the missing agent.
 - 'Say, the rest of my life.' Isabelle emphasizes that she never wants to hear from him again.
 - 'Mathias, it is a disaster!' Camille bursts into the office in complete panic.
 - 'Adjani and Hartman stormed out.' The past tense describes their sudden departure.

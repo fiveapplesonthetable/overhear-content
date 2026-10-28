@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not worry, Arlette.' Gabriel tries to comfort his colleague. The informal 'you' form around 'to worry' marks a direct, personal relationship.
-- 'Is he really gone?' Arlette asks if her dog is dead. In everyday spoken French, rising intonation on 'to be' at the end is enough to turn the sentence into a question.
-- 'Yes, it is finished.' He confirms the sad news. The adverb meaning 'yes' gives the reply its conversational emphasis.
-- 'My poor Jean Gabin.' She mourns her dear pet. The descriptive adjective for 'poor' agrees in gender and number with its noun.
-- 'He had a beautiful life.' He tries to remind her of the good times. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.
-- 'Who is going to take care of him?' She asks about the next steps. French forms the near future by pairing the present tense of 'to go' directly with 'to take care of'.
-- 'The man.' He refers to the undertaker. The key noun here means 'sir', anchored by its matching French article.
-- 'He is on his way.' The man is already coming. The verb meaning 'to be' pairs naturally with the noun for 'road' in everyday conversation.
-- 'He will be there in 5 minutes.' He gives her an exact time. Notice how 'to be' leads directly into the noun meaning 'minute'.
-- 'Okay, thank you Gabriel.' She appreciates his help. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
-- 'I am staying with you.' He refuses to leave her alone. The informal 'you' form around 'rest' marks a direct, personal relationship.
-- 'That is kind.' She is grateful for his presence. The descriptive adjective for 'kind' agrees in gender and number with its noun. Let's listen to the whole scene again.
+- 'Do not worry, Arlette.' Gabriel tries to comfort his colleague.
+- 'Is he really gone?' Arlette asks if her dog is dead.
+- 'Yes, it is finished.' He confirms the sad news.
+- 'My poor Jean Gabin.' She mourns her dear pet.
+- 'He had a beautiful life.' He tries to remind her of the good times.
+- 'Who is going to take care of him?' She asks about the next steps.
+- 'The man.' He refers to the undertaker.
+- 'He is on his way.' The man is already coming.
+- 'He will be there in 5 minutes.' He gives her an exact time.
+- 'Okay, thank you Gabriel.' She appreciates his help.
+- 'I am staying with you.' He refuses to leave her alone.
+- 'That is kind.' She is grateful for his presence. Let's listen to the whole scene again.

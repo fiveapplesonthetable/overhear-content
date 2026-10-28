@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias, wait a second please.' Andrea stops Mathias before he reaches the lift. The short 'self' word sits right in front of the verb for 'wait', turning the action back onto the subject.
-- 'Yes Andrea? What is the matter?' Mathias wonders what further request remains. Notice how the short vowel drops before a vowel sound around 'is there', making the phrase flow smoothly as one unit.
-- 'You must give back your agency keys.' Andrea requests the surrender of his keys. Notice how 'must' leads directly into the noun meaning 'keys'.
-- 'Are you treating me like a thief now?' Mathias feels insulted by the demand. Mathias uses the polite 'you' form alongside 'treat' to keep a respectful professional tone.
-- 'Noemie already gave back hers this morning.' Andrea mentions Noemie's compliance. The verb meaning 'has' pairs naturally with the noun for 'morning' in everyday conversation.
-- 'I ran this agency for thirty years!' Mathias recalls his long-standing authority. This conversational past tense combines a helper verb with the past verb form for 'managed'.
-- 'We simply want to protect our new contracts.' Andrea defends client confidentiality. The descriptive adjective for 'new' agrees in gender and number with its noun.
-- 'Are you afraid of my future competition?' Mathias suspects fear of his new firm. The verb meaning 'have' pairs naturally with the noun for 'fear' in everyday conversation.
-- 'We want to avoid changing the locks.' Andrea provides a pragmatic financial reason. Notice how 'want' leads directly into the noun meaning 'locks'.
-- 'Take these keys, I do not want them anymore.' Mathias gives in with irritation. The verb meaning 'take' pairs naturally with the noun for 'keys' in everyday conversation.
-- 'Thank you Mathias, good luck with your projects.' Andrea offers civil farewell wishes. The key noun here means 'thank you', anchored by its matching French article.
-- 'Goodbye. Seriously, I cannot believe it.' Mathias shakes his head in disbelief. The verb meaning 'return' pairs naturally with the noun for 'goodbye' in everyday conversation.
-- 'A new story begins for all of us.' Andrea looks forward to leading the agency. The adjective meaning 'new' takes its feminine form here to match the noun it describes.
-- 'Good luck with your new daily problems!' Mathias delivers a sardonic parting remark. Mathias uses the polite 'you' form alongside 'luck' to keep a respectful professional tone.
+- 'Mathias, wait a second please.' Andrea stops Mathias before he reaches the lift.
+- 'Yes Andrea? What is the matter?' Mathias wonders what further request remains.
+- 'You must give back your agency keys.' Andrea requests the surrender of his keys.
+- 'Are you treating me like a thief now?' Mathias feels insulted by the demand.
+- 'Noemie already gave back hers this morning.' Andrea mentions Noemie's compliance.
+- 'I ran this agency for thirty years!' Mathias recalls his long-standing authority.
+- 'We simply want to protect our new contracts.' Andrea defends client confidentiality.
+- 'Are you afraid of my future competition?' Mathias suspects fear of his new firm.
+- 'We want to avoid changing the locks.' Andrea provides a pragmatic financial reason.
+- 'Take these keys, I do not want them anymore.' Mathias gives in with irritation.
+- 'Thank you Mathias, good luck with your projects.' Andrea offers civil farewell wishes.
+- 'Goodbye. Seriously, I cannot believe it.' Mathias shakes his head in disbelief.
+- 'A new story begins for all of us.' Andrea looks forward to leading the agency.
+- 'Good luck with your new daily problems!' Mathias delivers a sardonic parting remark.

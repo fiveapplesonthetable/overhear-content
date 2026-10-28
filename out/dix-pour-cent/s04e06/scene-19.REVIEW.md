@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You say nothing, Colette?' Andrea wonders about the long silence between them. The informal 'you' form around 'say' marks a direct, personal relationship.
-- 'I am listening to what you tell me.' Colette reflects on Andrea's thoughtful words. The short 'self' word sits right in front of the verb for 'am listening to', turning the action back onto the subject.
-- 'You did not really answer me.' Andrea notices that Colette has remained quiet. The informal 'you' form around 'have' marks a direct, personal relationship.
-- 'Look at me in the eyes, Andrea.' Colette turns toward her with warm affection. The verb meaning 'look' pairs naturally with the noun for 'eyes' in everyday conversation.
-- 'I look at you with all my heart.' Andrea returns her steady, open gaze. Andrea uses the casual singular 'you' with 'look at', showing close familiarity.
-- 'You have never been so sincere.' Colette appreciates Andrea's absolute emotional truth. This conversational past tense combines a helper verb with the past verb form for 'been'.
-- 'I only want to be fair today.' Andrea explains her desire for clear honesty. In spoken French, the little word before 'want' drops its final vowel and attaches with an apostrophe.
-- 'Let me kiss you one last time.' Colette leans in softly toward Andrea. Notice how 'let' leads directly into the noun meaning 'time'.
-- 'Is this a goodbye kiss?' Andrea whispers softly as their lips touch. The key noun here means 'kiss', anchored by its matching French article.
-- 'It is a kiss of mutual respect.' Colette honors everything they shared together. The descriptive adjective for 'mutual' agrees in gender and number with its noun.
-- 'I will never forget our shared moments.' Notice how 'will forget' leads directly into the noun meaning 'moments'. Notice how 'will forget' leads directly into the noun meaning 'moments'.
-- 'Me neither, dear Andrea.' Colette smiles with peaceful finality. The adjective meaning 'dear' takes its feminine form here to match the noun it describes.
-- 'Thank you for your tenderness and listening.' Andrea expresses her heartfelt gratitude. The informal 'you' form around 'thanks' marks a direct, personal relationship.
+- 'You say nothing, Colette?' Andrea wonders about the long silence between them.
+- 'I am listening to what you tell me.' Colette reflects on Andrea's thoughtful words.
+- 'You did not really answer me.' Andrea notices that Colette has remained quiet.
+- 'Look at me in the eyes, Andrea.' Colette turns toward her with warm affection.
+- 'I look at you with all my heart.' Andrea returns her steady, open gaze.
+- 'You have never been so sincere.' Colette appreciates Andrea's absolute emotional truth.
+- 'I only want to be fair today.' Andrea explains her desire for clear honesty.
+- 'Let me kiss you one last time.' Colette leans in softly toward Andrea.
+- 'Is this a goodbye kiss?' Andrea whispers softly as their lips touch.
+- 'It is a kiss of mutual respect.' Colette honors everything they shared together.
+- 'I will never forget our shared moments.' Andrea acknowledges the deep impact of their love.
+- 'Me neither, dear Andrea.' Colette smiles with peaceful finality.
+- 'Thank you for your tenderness and listening.' Andrea expresses her heartfelt gratitude.
