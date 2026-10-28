@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'Max wins a drinking competition in the kitchen and gets very drunk. He walks into the dining room and interrupts Victoria, who is receiving an expensive birthday gift from an important guest.'
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "It's Vika's birthday, and an important guest has given her a very expensive painting. Then Max, who has been drinking in the kitchen, staggers in with a ring of his own. We'll hear it in Russian first."
+OPENER = "Let's take it step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Victoria is very embarrassed in front of the important guest. Drunk Max tries to give Victoria the ring he bought for her, but she is very angry. Next time you watch the episode, listen for the Russian expressions for 'to hear' and 'day' — you will catch every word right away. See you next time!"
-CLOSING = ('vika', 'Пока!')
+OUTRO = "Max has just made the most embarrassing entrance of his career. The word 'pyan' means 'drunk' and is the short masculine form of 'pyanyy'. See you next time!"
+CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('guest', 'Вика, я слышал, у вас день рождения.', 'Vika, I heard it is your birthday.', [(243, 'Итак, приветствуем нового чемпиона.')], ''),
     ('guest', 'У меня есть красивый подарок для вас.', 'I have a beautiful gift for you.', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Нет, останьтесь. Макс, ты сошел с ума!', 'No, stay. Max, you have gone crazy!', [], ''),
 ]
 WALK = [
-    (0, None, "'Vika, I heard it is your birthday.' Guest smoothly brings up her special day to initiate his move."),
-    (1, None, "'I have a beautiful gift for you.' Guest announces he brought something nice for her."),
-    (2, None, "'Oh my God! This is a very expensive painting.' Vika is shocked by the sheer value of the artwork."),
-    (3, None, "'The main thing is that you like it very much.' Guest plays it cool, focusing only on her happiness."),
-    (4, None, "'Thank you very much, this is my favorite artist.' Vika expresses deep gratitude, thrilled it is her preferred painter."),
-    (5, None, "'And I see you are having good fun here.' Max interrupts, his jealousy obvious as he comments on their interaction."),
-    (6, None, "'Max, what are you doing? Go from here.' Vika is mortified and immediately orders him to leave."),
-    (7, None, "'I want to drink to an amazing girl.' Max drunkenly insists on making a toast to her."),
-    (8, None, "'Max, you are drunk. Let's go out, please.' Vika tries to handle the situation, pointing out his obvious intoxication."),
-    (9, None, "'Wait, I did not give my gift yet.' Max stubbornly refuses to leave before presenting his own present."),
-    (10, None, "'I do not need your stupid gifts now.' Vika angrily rejects whatever he brought in his current state."),
-    (11, None, "'Look, this is a beautiful ring for you.' Max drunkenly reveals the engagement ring in front of everyone."),
-    (12, None, "'Excuse me, I will probably go now.' Guest awkwardly decides this is his cue to exit."),
-    (13, None, "'No, stay. Max, you have gone crazy!' Vika begs the customer to stay while accusing Max of losing his mind."),
+    (0, None, "'Vika, I heard it's your birthday.' 'At you birthday' stands for 'you have a birthday'. 'You' is the polite 'vas'."),
+    (1, None, "'I have a beautiful gift for you.' 'At me there is' stands for 'I have'. 'For you' takes the 'a' form, 'vas'."),
+    (2, None, "'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and ends in 'a'."),
+    (3, None, "'The main thing is that you like it very much.' 'It pleases you' is the pattern, with 'it' as the subject. 'The main thing' comes from 'head'."),
+    (4, None, "'Thank you very much, he's my favourite artist.' 'Favourite' comes from 'love'. 'Artist' is a masculine noun."),
+    (5, None, "'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' ends in 'sya'."),
+    (6, None, "'Max, what are you doing? Get out of here.' 'Doing' ends in 'sh', for the casual 'you'. 'Get out of here' is 'go from here'."),
+    (7, None, "'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the word for 'surprise'."),
+    (8, None, "'Max, you're drunk. Let's step out, please.' 'Drunk' is a short masculine form, without an ending. 'Let's go, let's go out' are two 'we' forms."),
+    (9, None, "'Wait, I haven't given my gift yet.' 'Gave as a gift' is the finished kind, with 'not' before it. 'My own gift' uses the special pointing-back word."),
+    (10, None, "'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' ends in 'ye' for the plural."),
+    (11, None, "'Look, it's a beautiful ring for you.' 'Look' is the casual command. 'For you' is the casual 'tebya'."),
+    (12, None, "'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is a finished action."),
+    (13, None, "'No, stay. Max, you've lost your mind!' 'Stay' ends in 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'."),
 ]

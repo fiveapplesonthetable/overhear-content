@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Доброе утро, моя дорогая. | Good morning, my dear. | #141: проснулся и хочешь поиграть со мной? | verbatim |
+| 1 | Костя | Доброе утро, моя дорогая. | Good morning, my dear. | #141 00:09:10: проснулся и хочешь поиграть со мной? | verbatim |
 | 2 | Настя | Это не доброе утро. | It is not a good morning. | new | new |
 | 3 | Костя | Почему ты так на меня смотришь? | Why are you looking at me like that? | new | new |
 | 4 | Настя | Я ждала, когда ты проснешься. | I have been waiting for you to wake up. | new | new |
-| 5 | Костя | Ты проснулась и хочешь поиграть со мной? | Are you awake and wanting to play with me? | new | new |
+| 5 | Костя | Ты уже проснулась? Хочешь кофе? | Are you awake already? Do you want coffee? | new | new |
 | 6 | Настя | Нет, Костя. | No, Kostya. | new | new |
 | 7 | Костя | А... | Ah... | new | new |
 | 8 | Костя | Я сделал что-то не так? | Did I do something wrong? | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my dear.' Kostya greets her warmly, combining the words for 'good' and 'morning' without any action word.
-- 'It is not a good morning.' Nastya coldly echoes his greeting, adding a 'not' right before 'good' to show her mood.
-- 'Why are you looking at me like that?' Kostya notices her glare and demands to know 'why' she is staring.
-- 'I have been waiting for you to wake up.' Nastya points out she has been waiting, putting 'when' right at the beginning of her sentence.
-- 'Are you awake and wanting to play with me?' Kostya tries to lighten the mood, turning his guess about her wanting to play into a playful question.
-- 'No, Kostya.' Nastya firmly shuts him down, simply pairing 'no' with his name.
-- 'Ah...' Kostya makes a brief noise of realization.
-- 'Did I do something wrong?' Kostya realizes he messed up, asking if he did something wrong with a rising tone.
-- 'You forgot what we discussed.' Nastya accuses him directly, highlighting that he completely 'forgot' their conversation.
-- 'I remember everything.' Kostya quickly defends himself with a single confident word meaning 'remember'.
-- 'Then why are you joking?' Nastya challenges him, using the casual 'you' to ask why he is messing around.
-- 'I am just trying to be nice.' Kostya explains his behavior, emphasizing that he is the one 'trying'.
+- 'Good morning, my dear.' 'Dear' is feminine, ending in 'aya', and is used as a noun. 'Morning' is neuter, so 'good' ends in 'oe'.
+- 'It's not a good morning.' The 'not' sits in front of the whole phrase. There's no 'is'.
+- 'Why are you looking at me like that?' 'Like that' is a small word. 'Look at' needs the little word 'on', followed by 'menya'.
+- 'I was waiting for you to wake up.' Russian says 'waiting when you will wake up'. 'Wake up' ends in 'sya'.
+- 'Are you awake already? Do you want coffee?' 'Woke up' ends in 'las', for a woman. 'You want' ends in 'sh'.
+- 'No, Kostya.' Two words, and the name needs no change. The tone is flat.
+- 'Ah...' A single sound that says he is about to be caught out. The dots show his uncertainty.
+- 'Did I do something wrong?' 'Something not so' is the phrase for 'something wrong'. 'Did' is the finished kind.
+- 'You forgot what we discussed.' 'Forgot' ends in 'l' for a man. 'We discussed' is the ongoing past, in the plural.
+- 'I remember everything.' 'Everything' goes first, and 'I remember' follows. The word order puts the weight on 'everything'.
+- 'Then why are you joking?' 'Joke' is made from 'a joke'. 'Then' is a small word at the front.
+- 'I'm just trying to be nice.' 'Nice' takes an 'ym' ending after 'to be'. 'Try' ends in 'sya'.

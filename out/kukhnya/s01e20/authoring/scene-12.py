@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'The hostess is talking to an angry guest who is waiting for a table in the busy restaurant. Then the Chef comes out and talks to the hostess about planning a party for the team.'
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "Thanks to the video, the restaurant is packed. A guest is losing patience at the door, Vika has her hands full, and Barinov decides it's time to thank the team. We'll hear it in Russian first."
+OPENER = "Let's go through it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The hostess agrees to tell the staff about the planned party. The angry guest is still waiting for his table near the door. Next time you watch the episode, listen for the Russian expressions for 'girl' and 'when' — you will catch every word right away. See you next time!"
-CLOSING = ('vika', 'Пока!')
+OUTRO = "The team will get their party, and the restaurant its customers. 'Devushka' means 'girl', and it is also what Russians call a waitress or any young woman whose attention they want. See you next time!"
+CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('guest', 'Девушка, когда мы сядем за столик?', 'Miss, when will we sit at a table?', [(201, 'Девушка, скажите, когда мы сядем за столик?')], ''),
     ('vika', 'Подождите одну минуту, пожалуйста.', 'Wait one minute, please.', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Хорошо, я скажу всем на кухне.', 'Good, I will tell everyone in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Miss, when will we sit at a table?' Guest impatiently asks the manager when they will finally be seated."),
-    (1, None, "'Wait one minute, please.' Vika politely asks the customer for just a little more time."),
-    (2, None, "'I am already waiting twenty minutes!' Looking at his watch impatiently, the angry guest complains that he has already been waiting twenty minutes for a table."),
-    (3, None, "'Sorry, the restaurant is very full now.' Vika apologizes, explaining that every seat is currently occupied."),
-    (4, None, "'Vika, how are things in the dining room?' Barinov checks in on the chaos happening out front."),
-    (5, None, "'Very many new guests today.' Vika reports a massive influx of unfamiliar faces."),
-    (6, None, "'This is good, we had a difficult period.' Barinov welcomes the rush after their recent slump."),
-    (7, None, "'Yes, and now we have a lot of work.' Vika agrees, noting the heavy workload it brings."),
-    (8, None, "'We need to say thank you to our team.' Barinov decides the staff deserves some appreciation for their hard work."),
-    (9, None, "'How can we do this?' Vika asks for his plan on showing gratitude."),
-    (10, None, "'Tell everyone that on Saturday there will be a party.' Barinov announces a weekend celebration for the crew."),
-    (11, None, "'A party for our team? Excellent!' Vika is thrilled by the idea of a staff party."),
-    (12, None, "'Yes, after twelve at night.' Barinov specifies the late-night start time for the event."),
-    (13, None, "'Good, I will tell everyone in the kitchen.' Vika agrees to spread the good news to the cooks."),
+    (0, None, "'Miss, when will we sit at a table?' 'Girl' is used to call a waitress. 'We'll sit down' is a finished action."),
+    (1, None, "'Wait one minute, please.' 'Wait' is the polite command. 'One minute' takes a 'u' ending."),
+    (2, None, "'I've already been waiting twenty minutes!' Russian uses the present, 'I wait already twenty minutes'. After 'twenty', 'minutes' takes the 'of' plural."),
+    (3, None, "'Sorry, the restaurant is very full now.' 'Sorry' is the polite word. 'Full' is a masculine short form."),
+    (4, None, "'Vika, how are things in the dining room?' 'How are matters' is the usual question. 'In the hall' needs an 'e' ending."),
+    (5, None, "'A lot of new guests today.' After 'many', 'new' and 'guests' both take the 'of' plural. 'Today' closes the sentence."),
+    (6, None, "'That's good, we had a hard period.' 'At us was' stands for 'we had'. 'Hard' agrees with the masculine 'period'."),
+    (7, None, "'Yes, and now we have a lot of work.' 'Much of work' uses the 'of' form for work, 'raboty'. 'Now' is a small word."),
+    (8, None, "'We need to thank our team.' Russians 'say thanks to' someone, so 'team' takes the 'to' form. 'Our' ends in 'ey' to match."),
+    (9, None, "'How can we do this?' 'How' and 'we can' make a plain question. 'This' takes the object form."),
+    (10, None, "'Tell everyone there'll be a party on Saturday.' 'On Saturday' is 'in Saturday', with a 'u' ending. 'Tell' is the casual command."),
+    (11, None, "'A party for our team? Excellent!' 'Party' is a word made from 'evening'. 'For our team' takes an 'ey' ending."),
+    (12, None, "'Yes, after midnight.' 'After twelve of night' is how Russian says 'after midnight'. Both words take the 'of' form."),
+    (13, None, "'Good, I'll tell everyone in the kitchen.' 'I'll tell' is a finished action. 'To everyone' is 'vsem'."),
 ]

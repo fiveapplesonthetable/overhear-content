@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | А теперь давай поговорим. | Now let us talk. | #143: теперь давай поговорим. | verbatim |
+| 1 | Настя | А теперь давай поговорим. | Now let us talk. | #143 00:09:23: теперь давай поговорим. | verbatim |
 | 2 | Настя | Помнишь, мы должны делать новый шаг? | Remember, we should take a new step? | new | new |
 | 3 | Настя | У меня ощущение, что ты еще не готов. | I have a feeling you are not ready yet. | new | new |
 | 4 | Костя | Я? | Me? | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now let us talk.' Nastya takes charge of the conversation, telling him 'let us' talk right 'now'.
-- 'Remember, we should take a new step?' Nastya checks if he recalls their plan, raising her pitch to make 'remember' a question.
-- 'I have a feeling you are not ready yet.' Nastya expresses her doubts about his readiness.
-- 'Me?' Kostya acts surprised, asking 'me' with a quick upward inflection.
-- 'I am ready.' Kostya defensively insists he is 'ready' with a single word.
-- 'Are you sure?' Nastya double-checks his commitment by asking 'definitely' with a questioning tone.
-- 'I am sure.' Kostya confidently repeats 'definitely' as a statement of fact.
-- 'Then I will invite my parents over for the weekend.' Nastya announces her plan to call her parents for the weekend.
-- 'Okay.' Kostya gives a simple, everyday agreement.
-- 'Wait, your parents?' Kostya suddenly panics, telling her to 'wait' before confirming who is coming.
-- 'Yes, my mother and father.' Nastya clarifies exactly who she means by placing 'mother' and 'father' together.
-- 'To our apartment?' Kostya questions the location in disbelief.
-- 'Of course, where else?' Nastya states the obvious, asking 'where else' they would possibly go.
-- 'I need to clean the room.' Kostya realizes he has work to do, deciding it is necessary to clean up.
+- 'Now let's talk.' 'And now' opens the line. The word 'davay' plus a 'we' form makes the invitation 'let's talk'.
+- 'Remember we're supposed to take a new step?' The word for 'you remember' ends in 'sh', and 'take a step' is literally 'make a step'.
+- 'I have a feeling you're not ready yet.' The phrase 'at me there is' stands for 'I have', and the word for 'ready' is a short masculine form.
+- 'Me?' Just 'I', and the rising voice. Kostya is startled.
+- 'I'm ready.' The word for 'ready' is a short masculine form, so it has no ending, and there is no word for 'am'.
+- 'Sure?' is one word, 'tochno', which means 'exactly?' and works as 'are you sure?'.
+- 'Sure.' He repeats the word as a statement. Repeating is the way to say yes.
+- 'Then I'm inviting my parents for the weekend.' 'Weekend' is 'the days off', in the plural. 'Parents' only exists in the plural.
+- 'Okay.' A casual 'ladno' that means 'all right'. He hasn't yet understood.
+- 'Wait, your parents?' 'Your' and 'parents' both end in 'ey' or 'ikh', as they are people being acted on. 'Wait' is the casual command.
+- 'Yes, my mum and dad.' 'Mum' and 'dad' both end in 'u' as the object. Both nouns end in 'a', though one is masculine.
+- 'To our flat?' 'To our flat' is a direction, with 'u' on both words. The question is the tone.
+- 'Of course, where else?' 'Where to' asks about direction. 'Else' is a small word that follows it.
+- 'I need to tidy the room.' The word for 'tidy' is built from 'take away', and the word for 'room' takes a 'u' ending.

@@ -11,9 +11,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Настя, подожди! | Nastya, wait! | new | new |
-| 2 | Настя | Пока. | Bye. | #288: Пока | verbatim |
-| 3 | Костя | О, уже уходишь? | Oh, you are leaving already? | #289: О, уже уходишь | verbatim |
-| 4 | Настя | Ага. Как-то здесь невесело. | Yeah. It is kind of a downer here. | #290: Ага. Как-то здесь невесело | verbatim |
+| 2 | Настя | Пока. | Bye. | #288 00:19:18: Пока | verbatim |
+| 3 | Костя | О, уже уходишь? | Oh, you are leaving already? | #289 00:19:20: О, уже уходишь | verbatim |
+| 4 | Настя | Ага. Как-то здесь невесело. | Yeah. It is kind of a downer here. | #290 00:19:23: Ага. Как-то здесь невесело | verbatim |
 | 5 | Костя | Не уходи так быстро. | Do not leave so fast. | new | new |
 | 6 | Настя | У меня много дел. | I have a lot of things to do. | new | new |
 | 7 | Костя | Я хочу поговорить с тобой. | I want to talk to you. | new | new |
@@ -22,12 +22,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Настя | Говори быстрее. | Speak faster. | new | new |
 | 11 | Костя | Подойди поближе. | Come closer. | new | new |
 | 12 | Настя | Я слушаю. | I am listening. | new | new |
-| 13 | Костя | Я не могу молчать. | I cannot stay silent. | #291: Я | verbatim |
+| 13 | Костя | Я не могу молчать. | I cannot stay silent. | #291 00:19:26: Я | verbatim |
 | 14 | Костя | Пожалуйста, выслушай меня. | Please, hear me out. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bye.' Nastya offers a quick, informal farewell as she tries to leave the boring party early.
-- 'Oh, you are leaving already?' Kostya expresses his surprise that she is departing so soon just by raising his voice on the words for leaving already.
-- 'Yeah. It is kind of a downer here.' Nastya agrees and explains her mood by directly linking words meaning somehow and joyless to describe the atmosphere.
-- 'Please, hear me out.' Kostya begs her to stay, using a direct request for her to listen because he has something crucial to share.
+- 'Nastya, wait!' The command is the casual one. Kostya calls out her name first.
+- 'Bye.' The word 'poka' is the casual goodbye, which Nastya says without looking back.
+- 'Oh, are you leaving already?' The word for 'leave' is the ongoing kind, for going away, and 'already' is a small word.
+- 'Yeah. It's a bit of a downer here.' The word 'aga' is a casual 'yeah'. The word for 'dull' is made by putting 'ne' in front of 'cheerful'.
+- 'Don't leave so fast.' The word for a negative command uses the ongoing kind, and 'so fast' is two small words.
+- 'I've got a lot to do.' The word for 'matters' loses its ending after 'many', and 'at me' stands for 'I have'.
+- 'I want to talk to you.' The word for 'with you' is the irregular 'toboy', and the word for 'I want' is irregular too.
+- 'What do you want to talk about?' The words for 'about what' sound like one. The word for 'you want' ends in 'sh'.
+- 'It's very important.' 'Important' ends in 'o', without a subject. 'Very' is placed in front.
+- 'Speak faster.' The word for 'faster' is made from 'quickly' with 'ee', and the word for 'speak' is the casual command.
+- 'Come a bit closer.' The 'po' prefix makes 'closer' into 'a bit closer'. 'Come up' has a prefix too.
+- 'I'm listening.' The word for 'I listen' is a single word, and it ends in 'yu'.
+- 'I can't keep quiet.' The word for 'I can't' is irregular, and 'keep quiet' is the plain form.
+- 'Please hear me out.' 'Hear out' has the prefix 'vy', meaning 'to the end'. 'Please' is the longer word.

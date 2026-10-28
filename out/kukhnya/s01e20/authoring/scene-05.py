@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Nastya approaches Kostya at work for a serious conversation. Kostya is terrified that she wants to talk about marriage. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Serious Conversation line by line and unpack how the Russian works."
+INTRO = "Nastya has come to find Kostya at work for what she calls a serious talk. Kostya, certain she's about to bring up marriage, suddenly develops a very urgent need to be somewhere else. We'll hear it in Russian first."
+OPENER = "Let's replay it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya successfully dodges the conversation by faking a sudden illness, buying himself a little more time. Next time you watch the episode, listen for the Russian expressions for 'necessary' and 'seriously' — you will catch every word right away. See you next time!"
-CLOSING = ('kostya', 'Пока!')
+OUTRO = "Kostya has escaped, for now, with an excuse that is hard to argue with. 'Nikuda' means 'nowhere' and is built from 'where to' with 'ni' in front, much like 'nobody' or 'never'. See you next time!"
+CLOSING = ('nastya', 'До свидания!')
 STORY = [
     ('nastya', 'Костя, нам нужно серьёзно поговорить.', 'Kostya, we need to talk seriously.', [(135, 'Костя')], ''),
     ('nastya', 'Я хотела с тобой кое-что обсудить.', 'I wanted to discuss something with you.', [(135, 'я хотела с тобой кое-что обсудить')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Мне срочно нужно в туалет.', 'I urgently need to go to the toilet.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, we need to talk seriously.' Nastya sets a solemn tone for the interaction."),
-    (1, None, "'I wanted to discuss something with you.' Nastya states her intention to have a meaningful talk."),
-    (2, None, "'Wait a minute, I will be right back.' Kostya tries to stall and escape."),
-    (3, None, "'This is a very important conversation for us.' Nastya emphasizes the gravity of the moment."),
-    (4, None, "'I understand, but I need to go.' Kostya acknowledges her point but insists on leaving."),
-    (5, None, "'Are you running away from my questions again?' Nastya accuses him of avoiding the issue."),
-    (6, None, "'No, I am not running away from you anywhere.' Kostya weakly denies her accusation."),
-    (7, None, "'Then why do you not want to listen to me?' Nastya demands a reason for his reluctance."),
-    (8, None, "'I want to listen, but not now.' Kostya claims it is just bad timing."),
-    (9, None, "'We are walking on a high staircase, right?' Nastya brings back her previous metaphor to pressure him."),
-    (10, None, "'It seems my stomach simply cramped up.' Kostya uses a physical ailment as an excuse."),
-    (11, None, "'I urgently need to go to the toilet.' Kostya makes his final excuse to run away."),
+    (0, None, "'Kostya, we need to have a serious talk.' 'To us necessary' stands for 'we need'. 'Seriously' ends in 'o', and 'to talk' is a plain form."),
+    (1, None, "'I wanted to discuss something with you.' 'Something' is built from two pieces, 'koe' and 'what'. 'Discuss' is the finished kind."),
+    (2, None, "'Wait a minute, I'll be right back.' 'Right now' also means 'in a moment', so it softens the line. 'Come back' ends in 'sya'."),
+    (3, None, "'It's a very important conversation for us.' 'Important' agrees with the masculine 'conversation'. 'For us' is a small word and 'nas'."),
+    (4, None, "'I understand, but I have to go.' 'To me necessary' stands for 'I need'. 'Go' is the plain form."),
+    (5, None, "'Are you running away from my questions again?' 'Run away' is the ongoing kind. 'From my questions' takes the 'ov' plural after 'from'."),
+    (6, None, "'No, I'm not running away from you anywhere.' 'Nowhere' is built from 'where to' with 'ni' in front. 'Not' sits before 'run away'."),
+    (7, None, "'Then why don't you want to listen to me?' 'Listen' is the on-purpose word, not the 'hear' word. 'Me' takes the 'a' form."),
+    (8, None, "'I want to listen, but not now.' 'I want' is an irregular word. 'Not now' puts 'not' right in front of 'now'."),
+    (9, None, "'We're climbing a high staircase, aren't we?' 'Along a high staircase' needs 'oy' endings on both words. 'Zhe' makes it a question."),
+    (10, None, "'It seems my stomach has just cramped up.' 'Twisted' has no subject, as if it happened to him. 'It seems' is one word."),
+    (11, None, "'I urgently need the toilet.' 'Urgently' is a single word. 'To the toilet' is a direction, so the word keeps its form."),
 ]

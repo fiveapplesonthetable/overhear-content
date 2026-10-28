@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Vika prepares coffee in the morning while Max searches for his old watch. Max does not realize it is Vika's birthday. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around The Morning After line by line and unpack how the Russian works."
+INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen. This episode opens on a quiet morning at Vika's flat, where Max is hunting for his old watch and Vika has made coffee. It is her birthday, and she'd rather not make a fuss. First you'll hear it in Russian, and you don't need to catch every word."
+OPENER = "Let's go back through it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max remains completely unaware of Vika's special day, focusing only on his broken antique watch. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'celebrate' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'Пока!')
+OUTRO = "Max has come out of the morning with his watch and no present for the birthday girl. Notice that a Russian watch 'walks' rather than 'runs', so a bad one 'barely walks'. See you next time!"
+CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('vika', 'Я не буду отмечать день рождения.', 'I will not celebrate my birthday.', [(32, 'не буду я отмечать')], ''),
     ('vika', 'И дарить мне ничего не надо.', 'And there is no need to gift me anything.', [(34, 'дарить ничего не надо')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Нет, это мой дедовский антиквариат.', "No, this is my grandfather's antique.", [(46, 'дедовский антиквариат')], ''),
 ]
 WALK = [
-    (0, None, "'I will not celebrate my birthday.' Vika declares her intention to skip the festivities."),
-    (1, None, "'And there is no need to gift me anything.' Vika explicitly tells him not to buy her anything."),
-    (2, None, "'Maybe we will just sit with Max.' Vika suggests a quiet alternative plan."),
-    (3, None, "'I did not even know about the holiday.' Max admits his complete ignorance of the occasion."),
-    (4, None, "'I just woke up.' Max uses his recent awakening as an excuse."),
-    (5, None, "'And I already brewed coffee.' Vika points out she has already started the day's tasks."),
-    (6, None, "'Good morning, thank you for the coffee.' Max greets her and shows appreciation for her effort."),
-    (7, None, "'And have you not seen my watch?' Max casually shifts the topic to his missing item."),
-    (8, None, "'Ah, you mean this watch?' Vika points out the item in question."),
-    (9, None, "'Maybe buy you a new one?' Vika suggests replacing the old item."),
-    (10, None, "'This watch already barely works.' Vika justifies her suggestion by noting its poor condition."),
-    (11, None, "'No, this is my grandfather's antique.' Max defends the item due to its sentimental family value."),
+    (0, None, "'I'm not going to celebrate my birthday.' 'Will not' plus the plain 'mark' makes the future. 'Birthday' is 'day of birth', and the second word ends in 'ya'."),
+    (1, None, "'And there's no need to give me anything.' The Russian is 'to give to me nothing not necessary'. 'Give' means giving as a gift and comes from 'gift'."),
+    (2, None, "'Maybe we'll just sit together with Max.' 'We'll sit' has the 'po' prefix for a short while. Max's name takes an 'om' ending after 'with'; names change like any other nouns."),
+    (3, None, "'I didn't even know about the holiday.' 'Even' sits before 'not'. 'Know' ends in the masculine 'l'."),
+    (4, None, "'I just woke up.' The word for 'woke up' ends in 'sya', meaning 'woke myself'. 'Just' is a small word at the start."),
+    (5, None, "'And I've already made coffee.' The ending 'a' shows it is Vika speaking. 'Brewed' really means 'boiled', so coffee is boiled in Russian."),
+    (6, None, "'Good morning, thanks for the coffee.' 'Morning' is neuter, so 'good' ends in 'oe'. 'Thanks for' needs a little word, and coffee doesn't change."),
+    (7, None, "'And have you seen my watch?' 'Watch' is always plural in Russian, so 'my' is plural too. 'Didn't see' ends in 'a', for a woman."),
+    (8, None, "'Ah, do you mean this watch?' Russian says 'you about these watches'. 'About' is a small word, and 'these' is plural."),
+    (9, None, "'Maybe I should buy you a new one?' 'Maybe' plus the plain 'buy' means 'how about buying'. 'To you' sits in the middle."),
+    (10, None, "'This watch can barely run any more.' Russians say a watch 'walks', and 'barely' is short. 'Already' is placed first."),
+    (11, None, "'No, it's my grandfather's antique.' 'Grandfather's' is built from the word for 'granddad' with an ending. 'Antique' is a borrowed word."),
 ]

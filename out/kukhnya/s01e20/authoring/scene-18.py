@@ -10,16 +10,16 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'Kostya finally builds up the courage to propose to Nastya. However, Nastya is completely shocked and reacts terribly, explaining that she had a completely different timeline for their relationship.'
-OPENER = "Now let's go back through the exchange around An Unexpected Proposal line by line and unpack how the Russian works."
+INTRO = "Kostya has finally found his nerve and says what he has been planning all day: he wants Nastya to marry him. She is horrified, and says so. We'll hear it in Russian first."
+OPENER = "Let's go over it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya realizes that his impulsive proposal almost ruined the carefully planned future together. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to say' — you will catch every word right away. See you next time!"
-CLOSING = ('nastya', 'Пока!')
+OUTRO = "The proposal goes off the rails, and Nastya forgives him, which is a start. 'Proshchayu' is 'I forgive', and it is the same as the one for 'farewell'. See you next time!"
+CLOSING = ('nastya', 'До свидания!')
 STORY = [
     ('kostya', 'Я хотел тебе кое-что сказать.', 'I wanted to tell you something.', [(292, 'хотел тебе кое-что сказать')], ''),
     ('kostya', 'Я хочу.', 'I want...', [(293, 'Я хочу')], ''),
     ('kostya', 'Чтобы ты стала моей женой.', 'For you to be my wife.', [(294, 'Ты стала моей женой')], ''),
-    ('nastya', 'С ума сошел, что ли? О богу, бери.', 'Have you lost your mind? Oh God, take it.', [(295, 'С ума сошел, что ли? Богу, бери')], ''),
+    ('nastya', 'С ума сошёл, что ли?', 'Have you lost your mind?', [(295, 'С ума сошел, что ли? Богу, бери')], ''),
     ('kostya', 'Чего? Чего?', 'What? What?', [(296, 'Чего? Чего')], ''),
     ('kostya', 'Сама говорила, что каждый день это новый шаг.', 'You said yourself that every day is a new step.', [(297, 'Сама говорила, что каждый день это новый шаг')], ''),
     ('nastya', 'Костя, я имела в виду знакомство с родителями.', 'Kostya, I meant meeting the parents.', [(298, 'Костя, я имела в виду знакомство с родителями')], ''),
@@ -32,10 +32,18 @@ STORY = [
     ('nastya', 'Я прощаю тебя.', 'I forgive you.', [], ''),
 ]
 WALK = [
-    (0, None, "'For you to be my wife.' Kostya finally manages to ask Nastya to marry him, using a past-tense form to express his wish for her to become his wife."),
-    (1, None, "'Have you lost your mind? Oh God, take it.' Nastya reacts with complete shock, sarcastically telling him to take back his proposal like he has lost his mind."),
-    (2, None, "'You said yourself that every day is a new step.' Kostya tries to defend his sudden proposal by reminding Nastya of her own words about making progress every day."),
-    (3, None, "'Kostya, I meant meeting the parents.' Nastya clarifies that her idea of taking steps forward meant something much smaller, like introducing him to her parents."),
-    (4, None, "'I had this step planned for a year from now.' Nastya explains her rigid timeline, using a common possession phrase to say she did not schedule this milestone for another year."),
-    (5, None, "'And you nearly destroyed it just now.' Nastya points out that his unexpected question almost ruined the careful plan she had mapped out for them."),
+    (0, None, "'I wanted to tell you something.' 'Something' is built from two pieces, 'koe' and 'what'. 'Wanted' ends in 'l' for a man."),
+    (1, None, "'I want...' He starts and stops. 'I want' is irregular."),
+    (2, None, "'For you to be my wife.' 'In order that' is followed by a past form: 'chtoby you became'. 'My wife' takes an 'oy' ending."),
+    (3, None, "'Have you lost your mind?' 'Went off from mind' is the idiom for 'lost your mind'. The tag 'chto li' means 'or what'."),
+    (4, None, "'What? What?' 'Chego' is the casual way to say 'what?'. It sounds like 'huh?'."),
+    (5, None, "'You said yourself that every day is a new step.' 'Yourself' ends in 'a' for a woman. 'Every day' is two words, with no 'is' between."),
+    (6, None, "'Kostya, I meant meeting the parents.' 'I had in view' is how Russian says 'I meant'. 'Acquaintance' stands for 'meeting'."),
+    (7, None, "'Not this.' The word 'a ne' means 'and not'. It contrasts the two ideas."),
+    (8, None, "'In my plan this step was only a year away.' 'By plan' uses 'po' and a 'u' ending. 'In a year' is 'through a year'."),
+    (9, None, "'What, you have a plan?' 'Some' is made with a tail, 'to'. 'What' at the start is a casual way to ask."),
+    (10, None, "'Yes, I do.' Nastya repeats 'there is' as her answer. That's how Russians say yes."),
+    (11, None, "'And you nearly wrecked it.' 'Nearly' is made with 'chut ne'. 'Wrecked' ends in 'l', for a man."),
+    (12, None, "'Forgive me, please.' 'Forgive' is the casual command. 'Me' takes the 'a' form."),
+    (13, None, "'I forgive you.' The word for 'I forgive' is from the same family as 'goodbye'. 'You' takes the 'a' form."),
 ]

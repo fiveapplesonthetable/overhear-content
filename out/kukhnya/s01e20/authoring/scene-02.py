@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Nastya and Kostya discuss their relationship. Nastya uses a poetic metaphor about a staircase, which leaves Kostya slightly confused. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Stairway to the Sun line by line and unpack how the Russian works."
+INTRO = "At the bar, Nastya talks to Kostya about their relationship in an unusually poetic way. She compares it to a staircase that goes up to the sun, and Kostya isn't sure where this is going. First, the Russian."
+OPENER = "Let's replay it step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya politely agrees with Nastya's romantic philosophy, even though he does not fully grasp its implications. Next time you watch the episode, listen for the Russian expressions for 'well' and 'together' — you will catch every word right away. See you next time!"
-CLOSING = ('kostya', 'Пока!')
+OUTRO = "Kostya agrees with everything, though he doesn't know to what. 'Shag za shagom' is a lovely phrase for 'step by step', and it literally says 'step after step'. See you next time!"
+CLOSING = ('kostya', 'До свидания!')
 STORY = [
     ('nastya', 'Костя, нам же хорошо вместе?', 'Kostya, we are good together, right?', [(54, 'нам же хорошо вместе')], ''),
     ('kostya', 'Ну да, конечно хорошо.', 'Well yes, of course it is good.', [(55, 'Ну да')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Да, я согласен с тобой.', 'Yes, I agree with you.', [(69, 'Да, конечно. Ты согласен')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, we are good together, right?' Nastya seeks validation about their relationship."),
-    (1, None, "'Well yes, of course it is good.' Kostya quickly agrees to reassure her."),
-    (2, None, "'It is as if we are walking on a staircase.' Nastya introduces a metaphor for their progress."),
-    (3, None, "'We are walking up, straight to the sun.' Nastya elaborates on her metaphor with positive imagery."),
-    (4, None, "'We are walking high, step by step.' Nastya continues to describe their steady climb."),
-    (5, None, "'We are not rushing to climb, right?' Kostya interprets her words cautiously."),
-    (6, None, "'Seems not, we are not rushing.' Nastya agrees they are taking their time."),
-    (7, None, "'If we stop, we might fall.' Nastya introduces a sense of danger to her metaphor."),
-    (8, None, "'We might fall down and break.' Nastya emphasizes the catastrophic consequences of pausing."),
-    (9, None, "'Under no circumstances must we stop.' Nastya firmly states her rule for their relationship."),
-    (10, None, "'We must always only walk forward.' Nastya insists on continuous forward momentum."),
-    (11, None, "'Yes, I agree with you.' Kostya passively agrees to avoid conflict."),
+    (0, None, "'Kostya, we're good together, aren't we?' Russian says 'to us good together'. The small word 'zhe' makes it a seeking-agreement question."),
+    (1, None, "'Well yes, of course it's good.' 'Well yes' is two small words. 'Of course' is a long word with a 'sh' sound in the middle."),
+    (2, None, "'It's as if we're climbing a staircase.' 'As if' is two words in Russian. 'Along the staircase' uses a small word for 'along' and an 'e' ending."),
+    (3, None, "'We're going up, straight to the sun.' 'Up' is the word for direction. The sun is pronounced with a silent 'l', so it is 'sontse'."),
+    (4, None, "'We're going high, step by step.' 'Step after step' is a phrase made with 'za' and an 'om' ending. 'High' ends in 'o'."),
+    (5, None, "'We're not in a hurry to climb, are we?' 'Hurry' and 'climb' both end in 'sya'. The small word 'zhe' makes it a question looking for 'no'."),
+    (6, None, "'Seems not, we aren't in a hurry.' 'Seems' is one word, meaning 'apparently'. It is a handy way to hedge."),
+    (7, None, "'If we stop, we might fall.' 'Stop' ends in 'sya' as it means 'stop oneself'. 'Might' is 'can', and 'fall' follows it."),
+    (8, None, "'We might fall down and smash ourselves up.' 'Smash' ends in 'sya', and means 'smash oneself'. 'Down' is the direction word."),
+    (9, None, "'On no account can we stop.' The phrase means 'in no case'. The word 'nelzya' is the 'not allowed' word."),
+    (10, None, "'We must always only go forward.' 'Must' is plural to go with 'we'. 'Only' and 'forward' are two small words."),
+    (11, None, "'Yes, I agree with you.' 'Agree' is a short masculine form. 'With you' is the irregular 'toboy'."),
 ]

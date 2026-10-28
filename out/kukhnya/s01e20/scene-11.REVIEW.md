@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Посмотри на это видео. | Look at this video. | #154: Ах ты красавица. | verbatim |
+| 1 | Нагиев | Посмотри на это видео. | Look at this video. | #154 00:10:18: Ах ты красавица. | verbatim |
 | 2 | Шеф | Я не понимаю. Я уволен? | I don't understand. Am I fired? | new | new |
 | 3 | Нагиев | Нет, ты звезда! | No, you are a star! | new | new |
 | 4 | Шеф | Почему я звезда? | Why am I a star? | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at this video.' Nagiyev immediately shoves a video in his chef's face.
-- 'I don't understand. Am I fired?' Barinov starts to object or express confusion.
-- 'No, you are a star!' Nagiyev excitedly declares that Viktor is now famous.
-- 'Why am I a star?' Barinov is totally confused as to why he would be considered a star.
-- 'The video has a million views.' Nagiyev explains the massive online success of the clip.
-- 'Everyone wants to see you.' Vika chimes in to confirm his sudden burst of popularity.
-- 'Do we have many guests?' Barinov checks if this internet fame translates to actual restaurant customers.
-- 'Yes, all tables are taken.' Vika confirms the dining room is completely packed.
-- 'You are very popular now.' Nagiyev reiterates just how famous his chef has become.
-- 'So, can I work further?' Barinov just wants to get back to his kitchen and asks to leave.
-- 'Of course! Go to the kitchen.' Nagiyev happily dismisses him to capitalize on the rush.
-- 'Thank you, I will go work.' Barinov politely excuses himself to return to his duties.
-- 'I expect a tasty lunch today.' Nagiyev sets high expectations for the day's service.
-- 'It will be done, my boss.' Barinov promises to deliver, addressing him respectfully.
+- 'Look at this video.' 'Look' is the casual command. 'Video' never changes, whatever its role.
+- 'I don't understand. Am I fired?' 'Fired' is a short masculine form, so no 'am'. The question lives on the voice.
+- 'No, you're a star!' 'Star' is feminine. There's no 'are'.
+- 'Why am I a star?' The same word again, in the same shape. Barinov is baffled.
+- 'The video has a million views.' 'At the video' stands for 'has'. 'Million' is followed by the 'of' plural, 'views'.
+- 'Everyone wants to see you.' 'They want' ends in 'yat'. 'You' takes the 'a' form, 'vas'.
+- 'Do we have many guests?' 'At us' stands for 'we have'. After 'many', 'guests' takes the 'ey' ending.
+- 'Yes, all the tables are taken.' 'Taken' is a plural short form. 'Tables' are little tables, plural.
+- 'You're very popular now.' 'Popular' is a short masculine form. 'Now' ends the line.
+- 'So can I go on working?' 'Can I' is one word. 'Further' means 'on'.
+- 'Of course! Go to the kitchen.' 'Go' is the casual command. 'To the kitchen' uses 'on' and a 'u' ending.
+- 'Thanks, I'll go and work.' 'I'll go' is a future form. 'Work' is the plain form.
+- 'I expect a tasty lunch today.' 'Wait' stands for 'expect'. 'Tasty lunch' has masculine endings.
+- 'It'll be done, my boss.' 'Will be done' is a neuter short form. 'Boss' is borrowed.
