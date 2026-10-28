@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'It is a busy afternoon of prep in the kitchen, and Chef Barinov is on the warpath. He catches Senya, who cooks the meat, standing around. Here is their exchange in Russian first.'
-OPENER = "Let's go through it slowly, one barked order at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'It is a busy afternoon of prep in the kitchen, and Chef Barinov is on the warpath. He catches Senya, who cooks the meat, standing around. Russian first.'
+OPENER = 'One barked order at a time.'
+TRANSITION = 'Right, the kitchen at full speed again.'
 OUTRO = "Senya promises to clean up and Barinov promises to check every plate. If you ever need to say 'a bit quieter, please' in Russian, you now have the words. Talk soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -39,7 +39,7 @@ WALK = [
     (6, None, "'Chef, please speak a bit quieter.' Senya uses the polite 'you' form of 'speak', because the person is the chef. 'Tishe' is 'quieter', the 'sh-e' ending made from 'tikho', 'quiet'."),
     (7, None, "'Do not teach me discipline!' 'Ne nado' is 'no need', and it's used as a strong 'don't'. 'Me' becomes 'menya' and 'discipline' picks up an 'e', because both are things the teaching is done to."),
     (8, None, "'We are simply trying very hard for you.' 'Starayemsya' ends in 'sya', so it's literally 'we try ourselves'. 'Dlya vas' is 'for you', in the polite form."),
-    (9, None, "'There must be perfect order in my kitchen.' 'Dolzhen' means 'must' and it ends in a bare consonant because 'order' is a masculine word. Russians say 'on my kitchen' where English says 'in my kitchen'."),
+    (9, None, "'There must be perfect order in my kitchen.' Barinov's 'dolzhen' has no vowel after the 'n' because the thing that must be, 'order', is masculine. Also note 'on my kitchen': Russians stand 'on' a kitchen where English stands 'in' it."),
     (10, None, "'We will clean everything up right now, chef.' 'Seychas zhe' is 'this very second', where the little 'zhe' pushes the 'now'. 'Uberyom' is 'we will clear', from the same word as Barinov's 'clean up!'."),
     (11, None, "'Calm down, I will check every dish personally.' 'Spokoynee' is 'calmer', made with the same 'ee' ending as 'faster'. 'Blyudo' is a dish, in the sense of a plate of food, and 'lichno' is 'in person'."),
 ]

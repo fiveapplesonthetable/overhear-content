@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Kostya has had time to think, and he has gone to find Nastya at the bar to make up. Neither of them really wanted to stay cross. Here is their conversation in Russian first.'
-OPENER = "Let's go back through this one gently, one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Kostya has had time to think, and he has gone to find Nastya at the bar to make up. Neither of them really wanted to stay cross. Hear it in Russian first.'
+OPENER = 'Gently now, one line at a time.'
+TRANSITION = 'Here it is once more, from the beginning.'
 OUTRO = 'Kostya and Nastya forgive each other, and things are warm again. If you ever need to say sorry in Russian, you now have a few ways. Speak soon.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
@@ -34,14 +34,14 @@ WALK = [
     (0, None, "'Nastya, please stop torturing me.' It's a joke, since 'muchit' is a heavy word for what Nastya is doing, 'to torment'. 'Perestan' is the order 'stop', and the next action follows in its basic form."),
     (1, None, "'And why are you angry with me?' 'Serdishsya' ends in 'sya', so it's something like 'you anger yourself'. 'Na menya' is 'at me', since Russians are angry 'at' people, not 'with' them."),
     (2, None, "'You and I argued over a trifle.' 'My s toboy' is literally 'we with you', and it means 'you and I'. 'Posporili' is 'had an argument', and 'iz-za pustyaka' is 'over a trifle'."),
-    (3, None, "'For me this question was important.' 'Dlya menya' is 'for me'. 'Byl' is 'was', which Russian says out loud only in the past, so this line is one of the few with a spoken 'to be'."),
+    (3, None, "'For me this question was important.' Russian says 'was' out loud only in the past, and here it is. In the present the same sentence would drop it."),
     (4, None, "'You yourself wanted to argue a bit yesterday.' 'Sama khotela' is 'you yourself wanted', with 'a' endings because Kostya is talking to a woman. 'Vchera' is 'yesterday'."),
     (5, None, "'But I did not want such a foolish offense.' 'Obida' means 'hurt feelings' or 'a grievance', which Nastya is happy to feel. 'Ne khotela' is 'did not want', with the 'a' of a woman speaking."),
     (6, None, "'Forgive me if I hurt you badly.' 'Izvini' is 'sorry' in the friendly form. 'Yesli' means 'if', and 'obidel' means 'hurt', as in 'hurt someone's feelings'."),
     (7, None, "'Do you really regret your words?' 'Sozhaleesh' means 'you regret' and 'o svoikh slovakh' is 'about your own words'. 'Svoikh' is 'your own', another way to say 'yours' when the owner is the speaker."),
     (8, None, "'I very sincerely ask your forgiveness.' 'Proshu proshcheniya' is the set phrase for 'I apologise', literally 'I ask forgiveness'. 'U tebya' is 'from you'. 'Iskrenne' means 'sincerely'."),
     (9, None, "'It is also very hard for me to stay angry long.' 'Mne tyazhelo' is 'to me hard', with no 'is', as usual for feelings. 'Zlitsya' means 'to be angry' and 'dolgo' means 'for a long time'."),
-    (10, None, "'Let us forget this argument right now.' 'Davay' means 'let's'. 'Zabudem' is 'we will forget', and 'spor' is 'argument', the same root as 'pospórili' from earlier in the scene."),
+    (10, None, "'Let us forget this argument right now.' The usual 'give' does the work of 'let's'. 'Argument' shares a root with the word Kostya used a moment ago for arguing."),
     (11, None, "'Good, I agree to make peace with you.' 'Soglasna' is 'agreeing', with an 'a' for a woman. 'Pomiritsya' is 'to make peace', built from 'mir', which means both 'peace' and 'world'."),
-    (12, None, "'You are the kindest and most beautiful girl.' 'Samaya' means 'the most', and it goes in front of the describing words. 'Dobraya' is 'kind' and 'krasivaya' is 'beautiful'."),
+    (12, None, "'You are the kindest and most beautiful girl.' 'The most' goes in front of the describing words, which makes it as easy as English 'most'."),
 ]

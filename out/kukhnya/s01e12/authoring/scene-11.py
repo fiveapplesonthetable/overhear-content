@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Vika catches Max near the bar and sends him back to the kitchen. Then she gathers the waiting staff for an announcement about a new rule. Here is the scene in Russian first.'
-OPENER = "Let's go through it slowly, and watch the announcement land."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Nobody in the room is happy about the new rule, and a few people look rather guilty. When you watch the episode, notice who looks away first. Speak soon.'
+INTRO = 'Vika catches Max near the bar and sends him back to the kitchen. Then she gathers the waiting staff for an announcement about a new rule. First the Russian.'
+OPENER = 'Slowly, and watch the announcement land.'
+TRANSITION = 'Now the whole announcement again.'
+OUTRO = 'Nobody in the room is happy about the new rule, and a few people look rather guilty. See who looks away first when you watch the episode. Speak soon.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Макс, что ты здесь делаешь?', 'Max, what are you doing here?', [(89, 'А ты что здесь делаешь?')], ''),

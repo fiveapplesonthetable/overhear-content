@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen here, I am not going to figure anything out.' 'Slushay syuda' is 'listen here', and it's how Russians say 'listen up'. 'Ne sobirayus' comes from a word for 'gather yourself', which is how you say you intend to do something. 'Nichego' is 'nothing' and has 'ne' beside it.
+- 'Listen here, I am not going to figure anything out.' 'Listen here' is the Russian 'listen up'. The 'not going to' comes from an action that means 'gather yourself', a funny way to describe intentions.
 - 'Vika, Sasha has absolutely nothing to do with this.' 'Ni pri chyom' is a fixed phrase meaning 'has nothing to do with it'. You can't build it from the words, so learn it as a block. 'Sovershenno' means 'absolutely'.
 - 'Do not fire her from this job.' Max uses 'ne nado' for 'don't', which is softer than an order. Russians fire someone 'from' a job, and the job itself changes ending after that 'from'.
-- 'I was intentionally driving you to anger.' 'Spetsialno' is 'on purpose'. 'Dovodil do gneva' is 'was bringing to anger'. 'Gnev' is a strong, old-fashioned word for 'rage'.
+- 'I was intentionally driving you to anger.' 'On purpose' is a single word. 'Driving you to anger' is 'bringing to anger', and the word for anger is old-fashioned and strong.
 - 'I pretended as if we were dating.' 'Budto' is 'as if'. 'Vstrechaemsya' ends in 'sya', so it's 'meeting each other', and that's how Russians say 'dating'. 'My s ney' is 'she and I', literally 'we with her'.
 - 'Well, you did a very good job with it.' 'Poluchilos' is 'it turned out', and Russian puts it in the neuter, 'it', since the thing that turned out is 'this'. 'U tebya' is 'for you', literally 'at you', and Vika is dripping with sarcasm.
 - 'Especially when you hugged her.' Vika turns his excuse against him. The word 'kogda' opens the time part, 'when you hugged her', and she keeps her tone flat.
-- 'Believe me, it was just a stupid accident!' 'Pover' is 'believe!'. 'Sluchaynost' is 'an accident' or 'chance', and 'glupaya' is 'stupid' with an 'aya' to match.
+- 'Believe me, it was just a stupid accident!' 'Accident' also means 'chance'. 'Stupid' picks up an 'aya' to go with it.
 - 'And why are you sticking up for her so much?' 'Zastupaetsya' means 'stand up for', with 'sya' at the end. 'Za neyo' is 'for her', and here 'chto' means 'why'.
 - 'I am not sticking up for her at all now.' Max repeats her verb, 'zastupayus', in the 'I' form. 'Sovershenno ne' means 'not at all', and 'seychas' is 'now'.
-- 'I just do not want anyone to get hurt.' 'Chtoby' means 'so that', and it comes with the past form, so 'I want that someone got hurt' is how Russian says it. 'Kto-to' is 'someone', and the 'to' at the end is what makes it 'some'.
-- 'Because of what? Because of that exact thing.' 'Iz-za chego' is 'because of what'. 'Togo samogo' is 'that very', where 'samogo' means 'the very same'. Vika doesn't spell it out.
+- 'I just do not want anyone to get hurt.' After 'so that', the next action goes into the past, so Russian says 'I want that someone got hurt'. The 'to' on the end of 'someone' makes it 'some'.
+- 'Because of what? Because of that exact thing.' The 'because of' phrase repeats, once with 'what' and once with 'that'. 'The very same' is what Russians say for 'that exact thing'.

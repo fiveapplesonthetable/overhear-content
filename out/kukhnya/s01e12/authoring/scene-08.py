@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Chef Barinov walks into his kitchen and stops dead: one wall has been replaced with glass, so the guests can watch him cook. Max has to explain whose idea it was. Here it is in Russian first.'
-OPENER = "Let's take it slowly and hear the chef's mood get worse line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Barinov has heard enough and storms out to find Vika. If you want to say 'on the other hand' in Russian, you heard the handy word for it today. See you next time."
+INTRO = 'Chef Barinov walks into his kitchen and stops dead: one wall has been replaced with glass, so the guests can watch him cook. Max has to explain whose idea it was. Hear it in Russian first.'
+OPENER = "Line by line, and notice the chef's mood getting worse."
+TRANSITION = 'Now the complete scene once more.'
+OUTRO = "Barinov has heard enough and storms out to find Vika. You also heard a handy way to say 'on the other hand' today. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Шеф, всё в полном порядке?', 'Chef, is everything in complete order?', [(73, 'все в порядке?')], ''),
@@ -32,11 +32,11 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Chef, is everything in complete order?' 'V poryadke' is 'in order', which is how Russians say 'fine' or 'all right'. 'Vsyo' is 'everything', and 'polnom' means 'full'."),
-    (1, None, "'What kind of glass aquarium is this?' 'Chto eshchyo za' is the grumpy way to ask 'what on earth is this?'. 'Steklyanny' is the word for 'glass' with an ending that makes it 'made of glass'."),
+    (1, None, "'What kind of glass aquarium is this?' A grumpy 'what on earth is this?' starts it. Barinov's 'glass' is the adjective 'made of glass', formed from the noun, and 'aquarium' is borrowed whole."),
     (2, None, "'This is Victoria Sergeyevna's order, chef.' First name plus father's name is the respectful way to name someone. Both words get a new ending here to say 'belonging to', so they mean 'of Victoria Sergeyevna'."),
     (3, None, "'Why do we need this transparent wall?' 'Zachem nam' is literally 'what for to us'. 'Eta' and 'prozrachnaya' end in 'a' because 'stena', wall, is a feminine word."),
     (4, None, "'It is needed to attract new guests.' Max says 'she' about the wall, since 'wall' is feminine in Russian, so 'nuzhna' ends in 'a' too. 'Dlya' means 'for' and sets up the reason."),
-    (5, None, "'This is a trendy open kitchen format.' 'Modny' comes from 'moda', fashion, so it's 'fashionable'. 'Otkrytoy' means 'open', and it changes ending because it goes with 'kitchen'."),
+    (5, None, "'This is a trendy open kitchen format.' Anything trendy in Russian grows from 'moda', fashion. 'Open' changes to fit 'kitchen', and Max is talking like a brochure."),
     (6, None, "'Cooks should not be in an arena!' 'Povara' is the plural of 'povar', cook. 'Dolzhny' is 'must', in the plural, and 'ne dolzhny' is 'shouldn't'. 'Na arene' is 'on the arena', where Russian uses 'on' again."),
     (7, None, "'Guests love watching the cooking process.' 'Lyubyat' is 'they love', and 'smotret', 'to watch', follows it in its basic shape. 'Gotovki' is 'of cooking', built from 'gotovit', cook."),
     (8, None, "'They will see our every step.' 'Budut videt' is made of 'will be' and 'see', which is how Russian does the future with this word. 'Kazhdy' means 'every'."),

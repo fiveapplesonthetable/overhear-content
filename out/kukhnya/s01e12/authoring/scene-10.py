@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Barinov has found a hookah in the dining room of his French restaurant, and he is not happy. Vika thinks the place has to move with the times. Here is their argument in Russian first.'
-OPENER = "Let's go back and hear how each of them argues, line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Barinov decides to call the owner, and Vika is sure the owner will take her side. When you watch, listen for how often these two use each other's name as a weapon. Catch you next time."
+INTRO = 'Barinov has found a hookah in the dining room of his French restaurant, and he is not happy. Vika thinks the place has to move with the times. The argument, in Russian first.'
+OPENER = "Let's hear how each of them argues, one line at a time."
+TRANSITION = 'And now the argument at full length.'
+OUTRO = "Barinov decides to call the owner, and Vika is sure the owner will take her side. Notice how these two use each other's names as weapons. Catch you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Давай ещё стену в туалете уберём!', 'Let us also remove the wall in the toilet!', [(78, 'Давай стеклянную стенку в туалете поставим')], ''),
@@ -36,7 +36,7 @@ WALK = [
     (3, None, "'Hookah has long become part of French culture.' 'Davno' means 'long ago', and 'stal' is 'became'. 'Chastyu' is 'part' in the form it takes after 'became', and 'frantsuzskoy' means 'French'."),
     (4, None, "'We are a French restaurant, not a noisy bar!' Again, no 'are': it's literally 'we French restaurant'. 'Shumny' is 'noisy', from 'shum', noise."),
     (5, None, "'Vitya, do not shout, our restaurant is changing.' 'Vitya' is a short, friendly form of Viktor, which Vika uses to take the heat out. 'Menyaetsya' ends in 'sya', so the restaurant is literally 'changing itself'."),
-    (6, None, "'Why change what is already working excellently?' 'To, chto' is literally 'that which'. 'Otlichno rabotaet' is 'works excellently', the word for 'works' coming from 'rabota', work."),
+    (6, None, "'Why change what is already working excellently?' Word for word it runs 'that which already excellently works'. 'Works' is built from 'work', and Barinov puts 'excellently' in front to push his point."),
     (7, None, "'Life requires moving forward and fresh ideas.' 'Trebuet' means 'demands', which is a big word for a plain claim. 'Vperyod' is 'forward', and 'svezhikh idey' is 'of fresh ideas'."),
     (8, None, "'I will not allow ruining my dear kitchen!' 'Ne pozvolyu' is 'I won't allow'. 'Dorogoy' means 'dear' and 'expensive', and here Barinov means 'dear to me'."),
     (9, None, "'You promised me complete freedom in the hall yourself.' 'Sam' means 'yourself' or 'personally', and it pins the blame on him. 'Obeshchal' is 'promised', and 'svobodu' is 'freedom' in the form it takes after a promise."),

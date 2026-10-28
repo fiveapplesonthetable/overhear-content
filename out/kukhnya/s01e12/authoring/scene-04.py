@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'After Vika, Max tries the same trick on someone else. He finds Sasha, a waitress, by the service station and suddenly groans in pain. Here it is in Russian first.'
-OPENER = "Let's walk through this one, which is mostly about how Sasha reacts."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Sasha laughs and goes back to her tables, and Max finally gets a yes. When you watch, notice that Sasha's 'what happened to you' is the question you'd want to know in a real emergency."
+INTRO = 'After Vika, Max tries the same trick on someone else. He finds Sasha, a waitress, by the service station and suddenly groans in pain. First, the Russian.'
+OPENER = "This one is mostly about how Sasha reacts, so let's follow her."
+TRANSITION = 'And the whole scene again, with no stops.'
+OUTRO = "Sasha laughs and goes back to her tables, and Max finally gets a yes. Sasha's 'what happened to you' is a question worth keeping in your pocket for real emergencies."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Саша, привет! Как дела?', 'Sasha, hi! How are things?', [(27, 'Саш, привет.')], ''),

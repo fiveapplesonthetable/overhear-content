@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Barinov is curious, and a bit nervous, so he walks next door to look at the new Italian restaurant. There he finds Elena, its head chef, and a delivery of palm trees. Here is their duel in Russian first.'
-OPENER = "Let's go through it slowly and see who really wins."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Elena gets the last word, and Barinov marches back to his own kitchen. When you watch, listen for how politely they insult each other.'
+INTRO = 'Barinov is curious, and a bit nervous, so he walks next door to look at the new Italian restaurant. There he finds Elena, its head chef, and a delivery of palm trees. The duel comes first, in Russian.'
+OPENER = 'Slowly now, to see who really wins.'
+TRANSITION = "Now it's the whole duel again, start to finish."
+OUTRO = 'Elena gets the last word, and Barinov marches back to his own kitchen. Notice how politely the two of them manage to insult each other.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('elena', 'Осторожно заносите эти пальмы в ресторан!', 'Carefully bring these palms into the restaurant!', [(59, 'И ты заноси.')], ''),

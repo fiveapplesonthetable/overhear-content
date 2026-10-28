@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Max has just made up his mind to go after Vika, and his first idea is a bad one. He meets her in the corridor and suddenly clutches his side and groans. Here it is in Russian first.'
+INTRO = 'Max has just made up his mind to go after Vika, and his first idea is a bad one. He meets her in the corridor and suddenly clutches his side and groans. The Russian comes first.'
 OPENER = "Let's slow down and watch the trick come apart."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika is not amused, and Max is left holding two tickets and no one to use them with. When you watch, notice that Russian pain is always 'to me', never 'I'."
+TRANSITION = 'Here it all is again, at a quicker pace.'
+OUTRO = "Vika is not amused, and Max is left holding two tickets and no one to use them with. Keep an ear out for 'to me painful', because Russian pain always happens to you."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Ай! Как мне больно в животе!', 'Ouch! How it hurts me in the stomach!', [(8, 'Блин, что это?'), (12, 'Ой, что это?')], ''),

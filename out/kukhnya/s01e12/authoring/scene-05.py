@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = 'Back in the dining room, Vika has found a leaflet for an Italian restaurant opening next door, and she shows it to Chef Barinov. She wants to change the menu, and he does not. Here is their argument in Russian first.'
-OPENER = "Let's take it a line at a time, and keep an eye on who is afraid of whom."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Barinov stomps off, and Vika is left with a leaflet and a problem. When you watch, count how often he says 'my' about the kitchen."
+INTRO = "Back in the dining room, Vika has found a leaflet for an Italian restaurant opening next door, and she shows it to Chef Barinov. She wants to change the menu, and he does not. Listen to the argument in Russian, then we'll unpack it."
+OPENER = 'A line at a time now, and keep an eye on who is afraid of whom.'
+TRANSITION = 'Once more, the full argument, uninterrupted.'
+OUTRO = "Barinov stomps off, and Vika is left with a leaflet and a problem. Count how often he says 'my' about the kitchen when you hear it again."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Витя, посмотри на этот рекламный буклет!', 'Vitya, look at this advertising flyer!', [(41, 'Полюбуйся.')], ''),

@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I looked at their new hall.' 'Posmotrel' is 'had a look', with a man's 'l' ending. 'Ikh' is 'their', and like 'ikh' elsewhere it never changes.
 - 'And how is it? Does the interior look nice?' 'Vyglyadit krasivo' is 'looks beautifully': after 'looks' Russian uses the adverb, not the describing word. 'Interer' is the English 'interior' with a Russian spelling.
 - 'To tell the truth, the interior is so-so.' 'Chestno govorya' is 'honestly speaking', a handy opener when you're about to say something awkward. 'Tak sebe' is literally 'so to-itself', and it's how Russians say 'so-so'.
-- 'And what is going on with the guests?' 'Proiskhodit' means 'is going on'. 'S gostyami' is 'with the guests', and 'ami' is the ending that goes with 'with'.
+- 'And what is going on with the guests?' This is the same 'is going on' word as before. 'With the guests' puts 'ami' on the end of 'guests', which is the ending for 'with'.
 - 'In the hall there is silence, plenty of empty seats.' There's no 'is' again, just 'in the hall, silence'. 'Polno' means 'plenty' here, though it also means 'full', which is a joke if the hall is empty.
-- 'You see what I was talking about!' 'O chyom' is 'about what', and Russian puts the 'about' first. 'Govoril' is 'was saying', and it's a man's past form.
-- 'We do not need to change anything yet.' 'Poka' means 'for now', and it's also what Russians say for 'bye', which is why the same word will close this very scene. 'Nichego ne nuzhno' has two negatives, and both must be there.
+- 'You see what I was talking about!' Russian puts 'about' before 'what', so it comes out 'about what I spoke'. 'Spoke' has a man's past form.
+- 'We do not need to change anything yet.' Barinov's 'for now' is also the Russian 'bye'. The double negative, 'nothing' and 'not', is required.
 - 'Chef, can I have something to eat?' 'Mozhno' is the useful 'is it allowed', the word to ask permission with. 'Mne' means 'to me', and 'poest' means 'eat something'.
 - 'Go to the kitchen, you earned a hot lunch.' 'Zasluzhil' is 'earned', and no 'you' is spoken. 'Goryachy' is 'hot', and 'obed' is lunch, the main meal of the day.
 - 'Thank you, Chef, I am very hungry!' 'Golodny' is 'hungry', with a man's ending. A woman would say 'golodnaya'. There's no 'am', as in every present-tense line.

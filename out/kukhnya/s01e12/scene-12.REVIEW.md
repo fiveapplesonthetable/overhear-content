@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, this new ban is because of us!' 'Iz-za' means 'because of', and it's mostly used when the cause is something bad. 'Nas' is 'us', and it changes shape from 'my' after the little word.
+- 'Kostya, this new ban is because of us!' There is a small phrase for blaming someone, and it is only used when the cause is bad. After it, 'we' turns into 'us'.
 - 'But what makes you think that?' 'S chego' is literally 'from what', which is how Russians ask 'what makes you say that?'. 'Vzyala' is 'took', and an 'a' tells you a woman is speaking.
 - 'Because only we have a secret relationship.' 'Potomu chto' means 'because'. 'U nas' is 'at us', or 'we have'. 'Tainye' is 'secret' and 'otnosheniya' is 'relationship', which in Russian is always plural.
 - 'Victoria simply cares about the dining room discipline.' 'Zabotitsya' is 'cares', with an ending that means 'looks after itself'. 'O discipline' is 'about discipline'. 'Prosto' means 'simply'.
 - 'She looked at us very suspiciously.' 'Posmotrela' is 'looked' with an 'a' for 'she', and the 'po' at the front means one glance. 'Podozritelno' is 'suspiciously'.
 - 'You imagined it, she was looking at everyone.' 'Smotrela' is 'was looking', without the 'po', so it means she kept looking. Compare it with Nastya's glance in the line before. 'Tebe pokazalos' is literally 'to you it seemed'.
 - 'I know that strict look very well!' 'Prekrasno' means 'beautifully', but here it means 'perfectly well'. 'Vzglyad' is a look. 'Strogiy' is 'strict'.
-- 'And what should we do now?' 'Chto nam delat' is literally 'what to us to do', which is how Russians say 'what should we do'. The little 'zhe' makes it sound urgent.
+- 'And what should we do now?' The line is 'what to us to do', which covers 'what should we do'. The little 'zhe' makes it urgent.
 - 'We need to quarrel in front of her right away.' 'Porugatsya' is 'to have a row', and the 'sya' makes it mutual, since a quarrel takes two. 'Pered ney' is 'in front of her'.
 - 'Why should we quarrel in the restaurant?' 'Rugatsya' is 'to quarrel', and the 'po' at the front of Nastya's version means 'to have a quarrel'. 'V restorane' is 'in the restaurant'.
 - 'We will quarrel in pretend, only for show.' 'Ponaroshku' is the childish 'just pretend', the word kids use in games. 'Dlya vida' is literally 'for the look', so for appearance.
