@@ -7,20 +7,20 @@
       "trans": "What is she doing over there?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject personal pronoun"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "fait",
@@ -53,20 +53,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "for herself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "achète",
+          "t": "s'achète",
           "lemma": "acheter",
           "pos": "verb",
-          "stress": "aʃte",
-          "gloss": "buys / is buying",
-          "gram": "conjugated verb"
+          "stress": "səaʃte",
+          "gloss": "for herself buys / is buying",
+          "gram": "s': pronoun + achète: conjugated verb"
         },
         {
           "t": "une",
@@ -99,20 +91,12 @@
       "trans": "I changed my mind about the movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "changé",
@@ -123,20 +107,12 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis",
+          "t": "d'avis",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "noun"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis: noun"
         },
         {
           "t": "pour",
@@ -239,36 +215,20 @@
           "gram": "noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "determiner"
-        },
-        {
-          "t": "amour,",
+          "t": "l'amour,",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "noun"
+          "stress": "lamuʁ",
+          "gloss": "romance, love",
+          "gram": "definite article + masculine singular noun"
         },
         {
           "t": "non?",
@@ -385,12 +345,28 @@
           "gram": "adverb"
         },
         {
-          "t": "Pas du tout!",
+          "t": "Pas",
           "lemma": "pas du tout",
           "pos": "phrase",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "fixed expression"
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -431,12 +407,28 @@
           "gram": "adjective"
         },
         {
-          "t": "s'il vous plaît.",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "fixed expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -445,20 +437,12 @@
       "trans": "I have bad news, I am sorry.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -531,20 +515,12 @@
           "gram": "noun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "himself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "s'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "has",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "itself + has (past auxiliary)",
+          "gram": "reflexive pronoun + present 3rd singular"
         },
         {
           "t": "retiré",
@@ -601,20 +577,12 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "inverser",
+          "t": "d'inverser",
           "lemma": "inverser",
           "pos": "verb",
-          "stress": "ɛ̃vɛʁse",
-          "gloss": "to switch / reverse",
-          "gram": "infinitive"
+          "stress": "dəɛ̃vɛʁse",
+          "gloss": "to to switch / reverse",
+          "gram": "d': preposition + inverser: infinitive"
         },
         {
           "t": "les",
@@ -693,20 +661,12 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "what",
-          "gram": "pronoun"
-        },
-        {
-          "t": "allez-vous",
+          "t": "Qu'allez-vous",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "ale",
-          "gloss": "are you going to",
-          "gram": "conjugated verb"
+          "stress": "kalevu",
+          "gloss": "what are you going",
+          "gram": "elided que + present 2nd plural with inverted subject pronoun"
         },
         {
           "t": "faire?",
@@ -723,20 +683,20 @@
       "trans": "What is she doing over there?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject personal pronoun"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "fait",
@@ -769,20 +729,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "for herself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "achète",
+          "t": "s'achète",
           "lemma": "acheter",
           "pos": "verb",
-          "stress": "aʃte",
-          "gloss": "buys / is buying",
-          "gram": "conjugated verb"
+          "stress": "səaʃte",
+          "gloss": "for herself buys / is buying",
+          "gram": "s': pronoun + achète: conjugated verb"
         },
         {
           "t": "une",
@@ -815,20 +767,12 @@
       "trans": "I changed my mind about the movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "changé",
@@ -839,20 +783,12 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis",
+          "t": "d'avis",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "noun"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis: noun"
         },
         {
           "t": "pour",
@@ -955,36 +891,20 @@
           "gram": "noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "determiner"
-        },
-        {
-          "t": "amour,",
+          "t": "l'amour,",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "noun"
+          "stress": "lamuʁ",
+          "gloss": "romance, love",
+          "gram": "definite article + masculine singular noun"
         },
         {
           "t": "non?",
@@ -1101,12 +1021,28 @@
           "gram": "adverb"
         },
         {
-          "t": "Pas du tout!",
+          "t": "Pas",
           "lemma": "pas du tout",
           "pos": "phrase",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "fixed expression"
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1147,12 +1083,28 @@
           "gram": "adjective"
         },
         {
-          "t": "s'il vous plaît.",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "fixed expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -1161,20 +1113,12 @@
       "trans": "I have bad news, I am sorry.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1247,20 +1191,12 @@
           "gram": "noun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "himself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "s'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "has",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "itself + has (past auxiliary)",
+          "gram": "reflexive pronoun + present 3rd singular"
         },
         {
           "t": "retiré",
@@ -1317,20 +1253,12 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "inverser",
+          "t": "d'inverser",
           "lemma": "inverser",
           "pos": "verb",
-          "stress": "ɛ̃vɛʁse",
-          "gloss": "to switch / reverse",
-          "gram": "infinitive"
+          "stress": "dəɛ̃vɛʁse",
+          "gloss": "to to switch / reverse",
+          "gram": "d': preposition + inverser: infinitive"
         },
         {
           "t": "les",
@@ -1409,20 +1337,12 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "what",
-          "gram": "pronoun"
-        },
-        {
-          "t": "allez-vous",
+          "t": "Qu'allez-vous",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "ale",
-          "gloss": "are you going to",
-          "gram": "conjugated verb"
+          "stress": "kalevu",
+          "gloss": "what are you going",
+          "gram": "elided que + present 2nd plural with inverted subject pronoun"
         },
         {
           "t": "faire?",
@@ -1439,20 +1359,20 @@
       "trans": "What is she doing over there?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "elle",
+          "t": "qu'elle",
           "lemma": "elle",
           "pos": "pron",
-          "stress": "ɛl",
-          "gloss": "she",
-          "gram": "subject personal pronoun"
+          "stress": "kɛl",
+          "gloss": "that she",
+          "gram": "que + elle: elided conjunction + subject pronoun 3sg"
         },
         {
           "t": "fait",
@@ -1485,20 +1405,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "for herself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "achète",
+          "t": "s'achète",
           "lemma": "acheter",
           "pos": "verb",
-          "stress": "aʃte",
-          "gloss": "buys / is buying",
-          "gram": "conjugated verb"
+          "stress": "səaʃte",
+          "gloss": "for herself buys / is buying",
+          "gram": "s': pronoun + achète: conjugated verb"
         },
         {
           "t": "une",
@@ -1531,20 +1443,12 @@
       "trans": "I changed my mind about the movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "changé",
@@ -1555,20 +1459,12 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis",
+          "t": "d'avis",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "noun"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis: noun"
         },
         {
           "t": "pour",
@@ -1671,36 +1567,20 @@
           "gram": "noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "determiner"
-        },
-        {
-          "t": "amour,",
+          "t": "l'amour,",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "noun"
+          "stress": "lamuʁ",
+          "gloss": "romance, love",
+          "gram": "definite article + masculine singular noun"
         },
         {
           "t": "non?",
@@ -1817,12 +1697,28 @@
           "gram": "adverb"
         },
         {
-          "t": "Pas du tout!",
+          "t": "Pas",
           "lemma": "pas du tout",
           "pos": "phrase",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "fixed expression"
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1863,12 +1759,28 @@
           "gram": "adjective"
         },
         {
-          "t": "s'il vous plaît.",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "fixed expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -1877,20 +1789,12 @@
       "trans": "I have bad news, I am sorry.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1963,20 +1867,12 @@
           "gram": "noun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "himself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "s'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "has",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "itself + has (past auxiliary)",
+          "gram": "reflexive pronoun + present 3rd singular"
         },
         {
           "t": "retiré",
@@ -2033,20 +1929,12 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "inverser",
+          "t": "d'inverser",
           "lemma": "inverser",
           "pos": "verb",
-          "stress": "ɛ̃vɛʁse",
-          "gloss": "to switch / reverse",
-          "gram": "infinitive"
+          "stress": "dəɛ̃vɛʁse",
+          "gloss": "to to switch / reverse",
+          "gram": "d': preposition + inverser: infinitive"
         },
         {
           "t": "les",
@@ -2125,20 +2013,12 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "what",
-          "gram": "pronoun"
-        },
-        {
-          "t": "allez-vous",
+          "t": "Qu'allez-vous",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "ale",
-          "gloss": "are you going to",
-          "gram": "conjugated verb"
+          "stress": "kalevu",
+          "gloss": "what are you going",
+          "gram": "elided que + present 2nd plural with inverted subject pronoun"
         },
         {
           "t": "faire?",

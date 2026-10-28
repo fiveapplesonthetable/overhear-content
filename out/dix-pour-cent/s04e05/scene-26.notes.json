@@ -93,12 +93,28 @@
           "gram": "adverb"
         },
         {
-          "t": "tout à fait",
-          "lemma": "tout à fait",
-          "pos": "adv",
-          "stress": "tutafɛ",
-          "gloss": "completely / quite",
-          "gram": "adverbial locution"
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "makes, does",
+          "gram": "present, 3sg"
         },
         {
           "t": "honnête!",
@@ -115,20 +131,12 @@
       "trans": "It is a wonderful new sensation.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -169,20 +177,12 @@
       "trans": "It feels weird as a sensation for me.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bizarre",
@@ -231,28 +231,28 @@
       "trans": "It is because you are not used to it.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "parce que",
+          "t": "parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "tu",
@@ -263,20 +263,12 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "es",
+          "t": "n'es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "present 2sg"
+          "stress": "nɛ",
+          "gloss": "are (not)",
+          "gram": "ne (elided n') + es: present, 2nd person singular"
         },
         {
           "t": "pas",
@@ -301,20 +293,12 @@
       "trans": "I spent my life lying.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present 1sg aux"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "passé",
@@ -641,20 +625,12 @@
       "trans": "It is a true relief today.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -719,20 +695,12 @@
           "gram": "feminine singular adjective"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "be",
-          "gram": "infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "ta",
@@ -897,12 +865,28 @@
           "gram": "adverb"
         },
         {
-          "t": "tout à fait",
-          "lemma": "tout à fait",
-          "pos": "adv",
-          "stress": "tutafɛ",
-          "gloss": "completely / quite",
-          "gram": "adverbial locution"
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "makes, does",
+          "gram": "present, 3sg"
         },
         {
           "t": "honnête!",
@@ -919,20 +903,12 @@
       "trans": "It is a wonderful new sensation.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -973,20 +949,12 @@
       "trans": "It feels weird as a sensation for me.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bizarre",
@@ -1035,28 +1003,28 @@
       "trans": "It is because you are not used to it.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "parce que",
+          "t": "parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "tu",
@@ -1067,20 +1035,12 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "es",
+          "t": "n'es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "present 2sg"
+          "stress": "nɛ",
+          "gloss": "are (not)",
+          "gram": "ne (elided n') + es: present, 2nd person singular"
         },
         {
           "t": "pas",
@@ -1105,20 +1065,12 @@
       "trans": "I spent my life lying.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present 1sg aux"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "passé",
@@ -1445,20 +1397,12 @@
       "trans": "It is a true relief today.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -1523,20 +1467,12 @@
           "gram": "feminine singular adjective"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "be",
-          "gram": "infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "ta",
@@ -1701,12 +1637,28 @@
           "gram": "adverb"
         },
         {
-          "t": "tout à fait",
-          "lemma": "tout à fait",
-          "pos": "adv",
-          "stress": "tutafɛ",
-          "gloss": "completely / quite",
-          "gram": "adverbial locution"
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "makes, does",
+          "gram": "present, 3sg"
         },
         {
           "t": "honnête!",
@@ -1723,20 +1675,12 @@
       "trans": "It is a wonderful new sensation.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -1777,20 +1721,12 @@
       "trans": "It feels weird as a sensation for me.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bizarre",
@@ -1839,28 +1775,28 @@
       "trans": "It is because you are not used to it.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "parce que",
+          "t": "parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "tu",
@@ -1871,20 +1807,12 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "es",
+          "t": "n'es",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "are",
-          "gram": "present 2sg"
+          "stress": "nɛ",
+          "gloss": "are (not)",
+          "gram": "ne (elided n') + es: present, 2nd person singular"
         },
         {
           "t": "pas",
@@ -1909,20 +1837,12 @@
       "trans": "I spent my life lying.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present 1sg aux"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "passé",
@@ -2249,20 +2169,12 @@
       "trans": "It is a true relief today.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -2327,20 +2239,12 @@
           "gram": "feminine singular adjective"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "be",
-          "gram": "infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "ta",
@@ -2419,20 +2323,12 @@
       "trans": "It is a true relief today.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -6439,6 +6335,83 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "tout": {
+      "examples": [
+        {
+          "text": "Merci à tous.",
+          "trans": "Thank you, everyone."
+        },
+        {
+          "text": "Oui à tout.",
+          "trans": "Yes to everything."
+        },
+        {
+          "text": "Ça ne va pas du tout.",
+          "trans": "It's not going at all."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "tout",
+              "toute"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "tous",
+              "toutes"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "all, everything; everyone",
+      "lemma": "tout",
+      "meanings": [
+        {
+          "en": "everything",
+          "note": "oui à tout = yes to everything"
+        },
+        {
+          "en": "all, everyone",
+          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+        },
+        {
+          "en": "at all",
+          "note": "pas du tout"
+        },
+        {
+          "en": "all, the whole",
+          "note": "before a noun: tout le monde = everyone"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "tu",
+      "related": [
+        {
+          "word": "tout le monde",
+          "gloss": "everybody"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
         }
       ]
     }

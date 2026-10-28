@@ -85,12 +85,20 @@
       "trans": "What is going on with the film?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun phrase"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -139,20 +147,12 @@
       "trans": "I made a huge mistake.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -209,20 +209,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -309,20 +301,12 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -363,20 +347,12 @@
       "trans": "He is the main partner of Gerard Lanvin.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "le",
@@ -581,20 +557,12 @@
           "gram": "past participle"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "appeler",
+          "t": "d'appeler",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "aple",
-          "gloss": "call",
-          "gram": "infinitive"
+          "stress": "daple",
+          "gloss": "to call",
+          "gram": "d': preposition, elided + appeler: infinitive"
         },
         {
           "t": "Mathias?",
@@ -713,12 +681,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "immediately, right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -913,12 +897,20 @@
       "trans": "What is going on with the film?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun phrase"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -967,20 +959,12 @@
       "trans": "I made a huge mistake.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -1037,20 +1021,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1137,20 +1113,12 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -1191,20 +1159,12 @@
       "trans": "He is the main partner of Gerard Lanvin.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "le",
@@ -1409,20 +1369,12 @@
           "gram": "past participle"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "appeler",
+          "t": "d'appeler",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "aple",
-          "gloss": "call",
-          "gram": "infinitive"
+          "stress": "daple",
+          "gloss": "to call",
+          "gram": "d': preposition, elided + appeler: infinitive"
         },
         {
           "t": "Mathias?",
@@ -1541,12 +1493,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "immediately, right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1741,12 +1709,20 @@
       "trans": "What is going on with the film?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun phrase"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -1795,20 +1771,12 @@
       "trans": "I made a huge mistake.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -1865,20 +1833,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1965,20 +1925,12 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -2019,20 +1971,12 @@
       "trans": "He is the main partner of Gerard Lanvin.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "le",
@@ -2237,20 +2181,12 @@
           "gram": "past participle"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "appeler",
+          "t": "d'appeler",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "aple",
-          "gloss": "call",
-          "gram": "infinitive"
+          "stress": "daple",
+          "gloss": "to call",
+          "gram": "d': preposition, elided + appeler: infinitive"
         },
         {
           "t": "Mathias?",
@@ -2369,12 +2305,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "immediately, right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },

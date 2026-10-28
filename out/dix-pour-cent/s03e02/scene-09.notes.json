@@ -61,20 +61,12 @@
       "trans": "I have a ticket for a sold-out theater show.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -179,10 +171,18 @@
           "gram": "possessive determiner, feminine singular"
         },
         {
-          "t": "tête chercheuse.",
+          "t": "tête",
+          "lemma": "tête",
+          "pos": "noun",
+          "stress": "tɛt",
+          "gloss": "head",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "chercheuse.",
           "lemma": "tête chercheuse",
           "pos": "noun",
-          "stress": "tɛtʃɛʁʃøz",
+          "stress": null,
           "gloss": "talent scout, point person",
           "gram": "feminine singular compound noun"
         }
@@ -249,12 +249,28 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -341,12 +357,28 @@
           "gram": "negative adverb"
         },
         {
-          "t": "pas du tout!",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -649,20 +681,12 @@
       "trans": "It was really incredible between us.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "C'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
           "t": "vraiment",
@@ -703,52 +727,28 @@
       "trans": "I had the impression of being a magician.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "impression",
+          "t": "l'impression",
           "lemma": "impression",
           "pos": "noun",
-          "stress": "ɛ̃pʁɛsjɔ̃",
-          "gloss": "impression, feeling",
-          "gram": "feminine singular"
+          "stress": "lɛ̃pʁesjɔ̃",
+          "gloss": "the feeling, the impression",
+          "gram": "la (elided l') + impression: feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "be",
-          "gram": "infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "une",
@@ -835,20 +835,12 @@
       "trans": "It is hard to forget memories like that.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "difficile",
@@ -859,20 +851,12 @@
           "gram": "masculine/feminine singular adjective"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "oublier",
+          "t": "d'oublier",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ublije",
-          "gloss": "forget",
-          "gram": "infinitive"
+          "stress": "dublije",
+          "gloss": "to forget",
+          "gram": "d': preposition, elided + oublier: infinitive"
         },
         {
           "t": "des",
@@ -1045,20 +1029,12 @@
       "trans": "I have a ticket for a sold-out theater show.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1163,10 +1139,18 @@
           "gram": "possessive determiner, feminine singular"
         },
         {
-          "t": "tête chercheuse.",
+          "t": "tête",
+          "lemma": "tête",
+          "pos": "noun",
+          "stress": "tɛt",
+          "gloss": "head",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "chercheuse.",
           "lemma": "tête chercheuse",
           "pos": "noun",
-          "stress": "tɛtʃɛʁʃøz",
+          "stress": null,
           "gloss": "talent scout, point person",
           "gram": "feminine singular compound noun"
         }
@@ -1233,12 +1217,28 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1325,12 +1325,28 @@
           "gram": "negative adverb"
         },
         {
-          "t": "pas du tout!",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1633,20 +1649,12 @@
       "trans": "It was really incredible between us.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "C'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
           "t": "vraiment",
@@ -1687,52 +1695,28 @@
       "trans": "I had the impression of being a magician.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "impression",
+          "t": "l'impression",
           "lemma": "impression",
           "pos": "noun",
-          "stress": "ɛ̃pʁɛsjɔ̃",
-          "gloss": "impression, feeling",
-          "gram": "feminine singular"
+          "stress": "lɛ̃pʁesjɔ̃",
+          "gloss": "the feeling, the impression",
+          "gram": "la (elided l') + impression: feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "be",
-          "gram": "infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "une",
@@ -1819,20 +1803,12 @@
       "trans": "It is hard to forget memories like that.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "difficile",
@@ -1843,20 +1819,12 @@
           "gram": "masculine/feminine singular adjective"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "oublier",
+          "t": "d'oublier",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ublije",
-          "gloss": "forget",
-          "gram": "infinitive"
+          "stress": "dublije",
+          "gloss": "to forget",
+          "gram": "d': preposition, elided + oublier: infinitive"
         },
         {
           "t": "des",
@@ -2029,20 +1997,12 @@
       "trans": "I have a ticket for a sold-out theater show.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -2147,10 +2107,18 @@
           "gram": "possessive determiner, feminine singular"
         },
         {
-          "t": "tête chercheuse.",
+          "t": "tête",
+          "lemma": "tête",
+          "pos": "noun",
+          "stress": "tɛt",
+          "gloss": "head",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "chercheuse.",
           "lemma": "tête chercheuse",
           "pos": "noun",
-          "stress": "tɛtʃɛʁʃøz",
+          "stress": null,
           "gloss": "talent scout, point person",
           "gram": "feminine singular compound noun"
         }
@@ -2217,12 +2185,28 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -2309,12 +2293,28 @@
           "gram": "negative adverb"
         },
         {
-          "t": "pas du tout!",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -2617,20 +2617,12 @@
       "trans": "It was really incredible between us.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "était",
+          "t": "C'était",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "was",
-          "gram": "imperfect, 3rd singular"
+          "stress": "setɛ",
+          "gloss": "it was",
+          "gram": "ce (it) + était: imperfect (imparfait), 3rd person singular"
         },
         {
           "t": "vraiment",
@@ -2671,52 +2663,28 @@
       "trans": "I had the impression of being a magician.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "impression",
+          "t": "l'impression",
           "lemma": "impression",
           "pos": "noun",
-          "stress": "ɛ̃pʁɛsjɔ̃",
-          "gloss": "impression, feeling",
-          "gram": "feminine singular"
+          "stress": "lɛ̃pʁesjɔ̃",
+          "gloss": "the feeling, the impression",
+          "gram": "la (elided l') + impression: feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "be",
-          "gram": "infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "une",
@@ -2803,20 +2771,12 @@
       "trans": "It is hard to forget memories like that.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "difficile",
@@ -2827,20 +2787,12 @@
           "gram": "masculine/feminine singular adjective"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "oublier",
+          "t": "d'oublier",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ublije",
-          "gloss": "forget",
-          "gram": "infinitive"
+          "stress": "dublije",
+          "gloss": "to forget",
+          "gram": "d': preposition, elided + oublier: infinitive"
         },
         {
           "t": "des",
@@ -2959,52 +2911,28 @@
       "trans": "I had the impression of being a magician.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "impression",
+          "t": "l'impression",
           "lemma": "impression",
           "pos": "noun",
-          "stress": "ɛ̃pʁɛsjɔ̃",
-          "gloss": "impression, feeling",
-          "gram": "feminine singular"
+          "stress": "lɛ̃pʁesjɔ̃",
+          "gloss": "the feeling, the impression",
+          "gram": "la (elided l') + impression: feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "to",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "be",
-          "gram": "infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "une",
@@ -7865,6 +7793,66 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "tête": {
+      "examples": [
+        {
+          "text": "J'ai mal à la tête.",
+          "trans": "I have a headache."
+        },
+        {
+          "text": "Tête de bébé!",
+          "trans": "Baby face!"
+        },
+        {
+          "text": "C'est peut-être dans ma tête.",
+          "trans": "Maybe it's all in my head."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la tête",
+              "les têtes"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "f",
+      "gloss": "head",
+      "lemma": "tête",
+      "meanings": [
+        {
+          "en": "head",
+          "note": "ne fais pas cette tête = don't look like that; faire la tête = to sulk"
+        },
+        {
+          "en": "face, look",
+          "note": "tête de bébé: baby face"
+        },
+        {
+          "en": "faire la tête: to sulk",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "plural": "têtes",
+      "pos": "noun",
+      "stress": "tɛt",
+      "related": [
+        {
+          "word": "tête chercheuse",
+          "gloss": "talent scout"
         }
       ]
     }

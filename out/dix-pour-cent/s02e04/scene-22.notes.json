@@ -301,20 +301,12 @@
           "gram": "je + ai: present, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "habitude",
+          "t": "l'habitude",
           "lemma": "habitude",
           "pos": "noun",
-          "stress": "abityd",
-          "gloss": "habit",
-          "gram": "feminine singular (avoir l'habitude = to be used to)"
+          "stress": "labityd",
+          "gloss": "the habit",
+          "gram": "l': definite article, elided + habitude: feminine singular (avoir l'habitude = to be used to)"
         },
         {
           "t": "de",
@@ -347,12 +339,20 @@
       "trans": "Goodbye, Camille. Have a good day.",
       "words": [
         {
-          "t": "Au revoir,",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection / farewell"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir,",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Camille.",
@@ -385,12 +385,20 @@
       "trans": "Goodbye Hicham, see you very soon.",
       "words": [
         {
-          "t": "Au revoir",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection / farewell"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Hicham,",
@@ -431,20 +439,20 @@
       "trans": "What does he have against us?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative pronoun, elided"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "il",
+          "t": "qu'il",
           "lemma": "il",
           "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd singular"
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "que + il: conjunction with elision"
         },
         {
           "t": "a",
@@ -539,20 +547,12 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "m'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun in 'en vouloir'"
+          "stress": "mɑ̃",
+          "gloss": "myself of it",
+          "gram": "me (reflexive) + en (adverbial pronoun)"
         },
         {
           "t": "veut",
@@ -593,28 +593,28 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular (auxiliary)"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
-          "t": "quand même",
+          "t": "quand",
           "lemma": "quand même",
-          "pos": "adv",
-          "stress": "kɑ̃mɛm",
-          "gloss": "still, anyway",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "kɑ̃",
+          "gloss": "still, all the same",
+          "gram": "quand même, first part"
+        },
+        {
+          "t": "même",
+          "lemma": "quand même",
+          "pos": "phrase",
+          "stress": "mɛm",
+          "gloss": "same",
+          "gram": "second part of 'quand même' = after all"
         },
         {
           "t": "rendu",
@@ -647,20 +647,12 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular (auxiliary)"
+          "stress": "la",
+          "gloss": "has ... it",
+          "gram": "le (elided l', it) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "fait",
@@ -709,20 +701,12 @@
           "gram": "imperative, 2nd singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "from",
-          "gram": "elided preposition"
-        },
-        {
-          "t": "imaginer",
+          "t": "d'imaginer",
           "lemma": "imaginer",
           "pos": "verb",
-          "stress": "imaʒine",
-          "gloss": "to imagine",
-          "gram": "infinitive"
+          "stress": "dimaʒine",
+          "gloss": "from to imagine",
+          "gram": "d': elided preposition + imaginer: infinitive"
         },
         {
           "t": "le",
@@ -1049,20 +1033,12 @@
           "gram": "je + ai: present, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "habitude",
+          "t": "l'habitude",
           "lemma": "habitude",
           "pos": "noun",
-          "stress": "abityd",
-          "gloss": "habit",
-          "gram": "feminine singular (avoir l'habitude = to be used to)"
+          "stress": "labityd",
+          "gloss": "the habit",
+          "gram": "l': definite article, elided + habitude: feminine singular (avoir l'habitude = to be used to)"
         },
         {
           "t": "de",
@@ -1095,12 +1071,20 @@
       "trans": "Goodbye, Camille. Have a good day.",
       "words": [
         {
-          "t": "Au revoir,",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection / farewell"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir,",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Camille.",
@@ -1133,12 +1117,20 @@
       "trans": "Goodbye Hicham, see you very soon.",
       "words": [
         {
-          "t": "Au revoir",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection / farewell"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Hicham,",
@@ -1179,20 +1171,20 @@
       "trans": "What does he have against us?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative pronoun, elided"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "il",
+          "t": "qu'il",
           "lemma": "il",
           "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd singular"
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "que + il: conjunction with elision"
         },
         {
           "t": "a",
@@ -1287,20 +1279,12 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "m'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun in 'en vouloir'"
+          "stress": "mɑ̃",
+          "gloss": "myself of it",
+          "gram": "me (reflexive) + en (adverbial pronoun)"
         },
         {
           "t": "veut",
@@ -1341,28 +1325,28 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular (auxiliary)"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
-          "t": "quand même",
+          "t": "quand",
           "lemma": "quand même",
-          "pos": "adv",
-          "stress": "kɑ̃mɛm",
-          "gloss": "still, anyway",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "kɑ̃",
+          "gloss": "still, all the same",
+          "gram": "quand même, first part"
+        },
+        {
+          "t": "même",
+          "lemma": "quand même",
+          "pos": "phrase",
+          "stress": "mɛm",
+          "gloss": "same",
+          "gram": "second part of 'quand même' = after all"
         },
         {
           "t": "rendu",
@@ -1395,20 +1379,12 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular (auxiliary)"
+          "stress": "la",
+          "gloss": "has ... it",
+          "gram": "le (elided l', it) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "fait",
@@ -1457,20 +1433,12 @@
           "gram": "imperative, 2nd singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "from",
-          "gram": "elided preposition"
-        },
-        {
-          "t": "imaginer",
+          "t": "d'imaginer",
           "lemma": "imaginer",
           "pos": "verb",
-          "stress": "imaʒine",
-          "gloss": "to imagine",
-          "gram": "infinitive"
+          "stress": "dimaʒine",
+          "gloss": "from to imagine",
+          "gram": "d': elided preposition + imaginer: infinitive"
         },
         {
           "t": "le",
@@ -1797,20 +1765,12 @@
           "gram": "je + ai: present, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "habitude",
+          "t": "l'habitude",
           "lemma": "habitude",
           "pos": "noun",
-          "stress": "abityd",
-          "gloss": "habit",
-          "gram": "feminine singular (avoir l'habitude = to be used to)"
+          "stress": "labityd",
+          "gloss": "the habit",
+          "gram": "l': definite article, elided + habitude: feminine singular (avoir l'habitude = to be used to)"
         },
         {
           "t": "de",
@@ -1843,12 +1803,20 @@
       "trans": "Goodbye, Camille. Have a good day.",
       "words": [
         {
-          "t": "Au revoir,",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection / farewell"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir,",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Camille.",
@@ -1881,12 +1849,20 @@
       "trans": "Goodbye Hicham, see you very soon.",
       "words": [
         {
-          "t": "Au revoir",
+          "t": "Au",
           "lemma": "au revoir",
-          "pos": "noun",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection / farewell"
+          "pos": "phrase",
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         },
         {
           "t": "Hicham,",
@@ -1927,20 +1903,20 @@
       "trans": "What does he have against us?",
       "words": [
         {
-          "t": "Qu'est-ce qu'",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛsk",
-          "gloss": "what",
-          "gram": "interrogative pronoun, elided"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
         },
         {
-          "t": "il",
+          "t": "qu'il",
           "lemma": "il",
           "pos": "pron",
-          "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd singular"
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "que + il: conjunction with elision"
         },
         {
           "t": "a",
@@ -2035,20 +2011,12 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "m'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun in 'en vouloir'"
+          "stress": "mɑ̃",
+          "gloss": "myself of it",
+          "gram": "me (reflexive) + en (adverbial pronoun)"
         },
         {
           "t": "veut",
@@ -2089,28 +2057,28 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular (auxiliary)"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
-          "t": "quand même",
+          "t": "quand",
           "lemma": "quand même",
-          "pos": "adv",
-          "stress": "kɑ̃mɛm",
-          "gloss": "still, anyway",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "kɑ̃",
+          "gloss": "still, all the same",
+          "gram": "quand même, first part"
+        },
+        {
+          "t": "même",
+          "lemma": "quand même",
+          "pos": "phrase",
+          "stress": "mɛm",
+          "gloss": "same",
+          "gram": "second part of 'quand même' = after all"
         },
         {
           "t": "rendu",
@@ -2143,20 +2111,12 @@
           "gram": "subject pronoun, 3rd singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "a",
+          "t": "l'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular (auxiliary)"
+          "stress": "la",
+          "gloss": "has ... it",
+          "gram": "le (elided l', it) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "fait",
@@ -2205,20 +2165,12 @@
           "gram": "imperative, 2nd singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "from",
-          "gram": "elided preposition"
-        },
-        {
-          "t": "imaginer",
+          "t": "d'imaginer",
           "lemma": "imaginer",
           "pos": "verb",
-          "stress": "imaʒine",
-          "gloss": "to imagine",
-          "gram": "infinitive"
+          "stress": "dimaʒine",
+          "gloss": "from to imagine",
+          "gram": "d': elided preposition + imaginer: infinitive"
         },
         {
           "t": "le",
@@ -2259,20 +2211,12 @@
           "gram": "imperative, 2nd singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "from",
-          "gram": "elided preposition"
-        },
-        {
-          "t": "imaginer",
+          "t": "d'imaginer",
           "lemma": "imaginer",
           "pos": "verb",
-          "stress": "imaʒine",
-          "gloss": "to imagine",
-          "gram": "infinitive"
+          "stress": "dimaʒine",
+          "gloss": "from to imagine",
+          "gram": "d': elided preposition + imaginer: infinitive"
         },
         {
           "t": "le",

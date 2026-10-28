@@ -85,12 +85,20 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "bien sûr.",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         }
       ]
     },
@@ -99,12 +107,28 @@
       "trans": "I have to show you something.",
       "words": [
         {
-          "t": "Il faut que",
+          "t": "Il",
           "lemma": "falloir",
           "pos": "verb",
-          "stress": "ilfokə",
-          "gloss": "it is necessary that",
-          "gram": "impersonal verb + que"
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject pronoun"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is necessary",
+          "gram": "present, 3sg impersonal"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "je",
@@ -137,12 +161,20 @@
       "trans": "What is it?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "c'est?",
@@ -221,20 +253,12 @@
       "trans": "The poster is already ready?",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "affiche",
+          "t": "L'affiche",
           "lemma": "affiche",
           "pos": "noun",
-          "stress": "afiʃ",
-          "gloss": "poster",
-          "gram": "feminine singular"
+          "stress": "lafiʃ",
+          "gloss": "the poster",
+          "gram": "L': definite article, elided + affiche: feminine singular"
         },
         {
           "t": "est",
@@ -275,20 +299,12 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "équipe",
+          "t": "l'équipe",
           "lemma": "équipe",
           "pos": "noun",
-          "stress": "ekip",
-          "gloss": "team",
-          "gram": "feminine singular"
+          "stress": "lekip",
+          "gloss": "the team",
+          "gram": "feminine singular with elided la"
         },
         {
           "t": "a",
@@ -345,12 +361,28 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -375,20 +407,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "sur",
@@ -475,28 +499,28 @@
           "gram": "present, 2nd singular"
         },
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
-          "t": "un peu",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         },
         {
           "t": "peur.",
@@ -543,20 +567,12 @@
       "trans": "I was afraid it would be too dark.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
           "t": "peur",
@@ -853,12 +869,20 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "bien sûr.",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         }
       ]
     },
@@ -867,12 +891,28 @@
       "trans": "I have to show you something.",
       "words": [
         {
-          "t": "Il faut que",
+          "t": "Il",
           "lemma": "falloir",
           "pos": "verb",
-          "stress": "ilfokə",
-          "gloss": "it is necessary that",
-          "gram": "impersonal verb + que"
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject pronoun"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is necessary",
+          "gram": "present, 3sg impersonal"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "je",
@@ -905,12 +945,20 @@
       "trans": "What is it?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "c'est?",
@@ -989,20 +1037,12 @@
       "trans": "The poster is already ready?",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "affiche",
+          "t": "L'affiche",
           "lemma": "affiche",
           "pos": "noun",
-          "stress": "afiʃ",
-          "gloss": "poster",
-          "gram": "feminine singular"
+          "stress": "lafiʃ",
+          "gloss": "the poster",
+          "gram": "L': definite article, elided + affiche: feminine singular"
         },
         {
           "t": "est",
@@ -1043,20 +1083,12 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "équipe",
+          "t": "l'équipe",
           "lemma": "équipe",
           "pos": "noun",
-          "stress": "ekip",
-          "gloss": "team",
-          "gram": "feminine singular"
+          "stress": "lekip",
+          "gloss": "the team",
+          "gram": "feminine singular with elided la"
         },
         {
           "t": "a",
@@ -1113,12 +1145,28 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1143,20 +1191,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "sur",
@@ -1243,28 +1283,28 @@
           "gram": "present, 2nd singular"
         },
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
-          "t": "un peu",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         },
         {
           "t": "peur.",
@@ -1311,20 +1351,12 @@
       "trans": "I was afraid it would be too dark.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
           "t": "peur",
@@ -1621,12 +1653,20 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "bien sûr.",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         }
       ]
     },
@@ -1635,12 +1675,28 @@
       "trans": "I have to show you something.",
       "words": [
         {
-          "t": "Il faut que",
+          "t": "Il",
           "lemma": "falloir",
           "pos": "verb",
-          "stress": "ilfokə",
-          "gloss": "it is necessary that",
-          "gram": "impersonal verb + que"
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject pronoun"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is necessary",
+          "gram": "present, 3sg impersonal"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "je",
@@ -1673,12 +1729,20 @@
       "trans": "What is it?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "interrogative pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "c'est?",
@@ -1757,20 +1821,12 @@
       "trans": "The poster is already ready?",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "affiche",
+          "t": "L'affiche",
           "lemma": "affiche",
           "pos": "noun",
-          "stress": "afiʃ",
-          "gloss": "poster",
-          "gram": "feminine singular"
+          "stress": "lafiʃ",
+          "gloss": "the poster",
+          "gram": "L': definite article, elided + affiche: feminine singular"
         },
         {
           "t": "est",
@@ -1811,20 +1867,12 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "équipe",
+          "t": "l'équipe",
           "lemma": "équipe",
           "pos": "noun",
-          "stress": "ekip",
-          "gloss": "team",
-          "gram": "feminine singular"
+          "stress": "lekip",
+          "gloss": "the team",
+          "gram": "feminine singular with elided la"
         },
         {
           "t": "a",
@@ -1881,12 +1929,28 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1911,20 +1975,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "sur",
@@ -2011,28 +2067,28 @@
           "gram": "present, 2nd singular"
         },
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
-          "t": "un peu",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         },
         {
           "t": "peur.",
@@ -2079,20 +2135,12 @@
       "trans": "I was afraid it would be too dark.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "avais",
+          "t": "J'avais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avɛ",
-          "gloss": "had",
-          "gram": "imperfect, 1st singular"
+          "stress": "ʒavɛ",
+          "gloss": "I had (was)",
+          "gram": "pronoun je elided + imperfect 1st singular"
         },
         {
           "t": "peur",
@@ -5712,6 +5760,44 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "peu": {
+      "examples": [
+        {
+          "text": "Un peu de café?",
+          "trans": "A little coffee?"
+        },
+        {
+          "text": "Je suis un peu fatigué.",
+          "trans": "I'm a bit tired."
+        },
+        {
+          "text": "Oui, Cécile est un peu plus âgée.",
+          "trans": "Yes, Cécile is a little older."
+        }
+      ],
+      "forms": null,
+      "gloss": "little",
+      "lemma": "peu",
+      "meanings": [
+        {
+          "en": "un peu = a little, a bit",
+          "note": "peu de temps = little time"
+        },
+        {
+          "en": "not much",
+          "note": "peu de temps = little time"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "pø",
+      "related": [
+        {
+          "word": "très peu",
+          "gloss": "related adverbial expression (little)"
         }
       ]
     }

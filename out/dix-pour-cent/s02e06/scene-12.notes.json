@@ -7,12 +7,28 @@
       "trans": "There are actresses you see a lot.",
       "words": [
         {
-          "t": "Il y a",
+          "t": "Il",
           "lemma": "il y a",
-          "pos": "verb",
-          "stress": "ilja",
-          "gloss": "there are",
-          "gram": "impersonal verbal phrase"
+          "pos": "phrase",
+          "stress": "il",
+          "gloss": "(ago)",
+          "gram": "part of il y a; with a time = ago"
+        },
+        {
+          "t": "y",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "des",
@@ -31,20 +47,12 @@
           "gram": "feminine plural"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "whom, that",
-          "gram": "relative pronoun, elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "one, we",
-          "gram": "indefinite subject pronoun"
+          "pos": "conj",
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "voit",
@@ -155,20 +163,12 @@
           "gram": "indefinite subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "no longer",
-          "gram": "negative particle, elided (ne ... plus)"
-        },
-        {
-          "t": "a",
+          "t": "n'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "na",
+          "gloss": "has (not)",
+          "gram": "ne (elided n') + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "plus",
@@ -249,20 +249,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "herself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "épanouit",
+          "t": "s'épanouit",
           "lemma": "épanouir",
           "pos": "verb",
-          "stress": "epanwi",
-          "gloss": "blooms, flourishes",
-          "gram": "present, 3rd singular"
+          "stress": "sepanwi",
+          "gloss": "herself blooms, flourishes",
+          "gram": "s': reflexive pronoun, elided + épanouit: present, 3rd singular"
         },
         {
           "t": "encore.",
@@ -287,20 +279,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "herself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "ouvre,",
+          "t": "s'ouvre,",
           "lemma": "ouvrir",
           "pos": "verb",
-          "stress": "uvʁ",
-          "gloss": "opens",
-          "gram": "present, 3rd singular"
+          "stress": "suvʁ",
+          "gloss": "herself opens",
+          "gram": "s': reflexive pronoun, elided + ouvre,: present, 3rd singular"
         },
         {
           "t": "comme",
@@ -365,11 +349,19 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "Andréa Martel,",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
+          "gram": "proper name"
+        },
+        {
+          "t": "Martel,",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
           "gram": "proper name"
         },
         {
@@ -389,12 +381,20 @@
           "gram": "present, 3rd singular"
         },
         {
-          "t": "Juliette Binoche.",
-          "lemma": "juliettebinoche",
+          "t": "Juliette",
+          "lemma": "juliette",
           "pos": "name",
-          "stress": "ʒyljɛtbinɔʃ",
-          "gloss": "Juliette Binoche",
-          "gram": "proper name"
+          "stress": "ʒyljɛt",
+          "gloss": "Juliette",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Binoche.",
+          "lemma": "binoche",
+          "pos": "name",
+          "stress": "binɔʃ",
+          "gloss": "Binoche.",
+          "gram": "proper surname"
         }
       ]
     },
@@ -403,12 +403,20 @@
       "trans": "Jean-Denis Gillieres, a great friend of the festival.",
       "words": [
         {
-          "t": "Jean-Denis Gillières,",
-          "lemma": "jean-denisgillières",
+          "t": "Jean-Denis",
+          "lemma": "jean-denis",
           "pos": "name",
-          "stress": "ʒɑ̃dəniʒiljɛʁ",
-          "gloss": "Jean-Denis Gillières",
-          "gram": "proper name"
+          "stress": "ʒɑ̃dəni",
+          "gloss": "Jean-Denis (mogul)",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Gillières,",
+          "lemma": "gillières",
+          "pos": "name",
+          "stress": "ʒiljɛʁ",
+          "gloss": "Gillières",
+          "gram": "proper noun"
         },
         {
           "t": "un",
@@ -457,12 +465,20 @@
       "trans": "Of course. Delighted.",
       "words": [
         {
-          "t": "Bien sûr.",
+          "t": "Bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "Enchantée.",
@@ -541,20 +557,12 @@
       "trans": "I would really like to greet her, if possible.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aimerais",
+          "t": "J'aimerais",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛmʁɛ",
-          "gloss": "would like",
-          "gram": "conditional, 1st singular"
+          "stress": "ʒɛmʁɛ",
+          "gloss": "I would like",
+          "gram": "je + aimerais: conditional present, 1st person singular"
         },
         {
           "t": "beaucoup",
@@ -689,28 +697,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "her",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "appelle",
+          "t": "l'appelle",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "apɛl",
-          "gloss": "call, am calling",
-          "gram": "present, 1st singular"
+          "stress": "lapɛl",
+          "gloss": "am calling him",
+          "gram": "le (elided l', him) + appelle: present, 1st person singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -743,12 +759,20 @@
           "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "drôle de",
-          "lemma": "drôle de",
+          "t": "drôle",
+          "lemma": "drôle",
           "pos": "adj",
-          "stress": "dʁoldə",
-          "gloss": "strange",
-          "gram": "idiomatic adjective phrase"
+          "stress": "dʁol",
+          "gloss": "funny",
+          "gram": "singular adjective"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
           "t": "métier,",
@@ -789,28 +813,28 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "ombre",
+          "t": "l'ombre",
           "lemma": "ombre",
           "pos": "noun",
-          "stress": "ɔ̃bʁ",
+          "stress": "lɔ̃bʁ",
           "gloss": "shadow",
-          "gram": "feminine singular"
+          "gram": "definite article l' (elided) + feminine singular noun"
         },
         {
-          "t": "pour que",
-          "lemma": "pour que",
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
           "pos": "conj",
-          "stress": "puʁkə",
-          "gloss": "so that",
-          "gram": "subordinating conjunction (+ subjunctive)"
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "les",
@@ -865,11 +889,19 @@
       "trans": "Andrea Martel! That is much simpler.",
       "words": [
         {
-          "t": "Andréa Martel!",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
+          "gram": "proper name"
+        },
+        {
+          "t": "Martel!",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
           "gram": "proper name"
         },
         {
@@ -911,12 +943,28 @@
       "trans": "There are actresses you see a lot.",
       "words": [
         {
-          "t": "Il y a",
+          "t": "Il",
           "lemma": "il y a",
-          "pos": "verb",
-          "stress": "ilja",
-          "gloss": "there are",
-          "gram": "impersonal verbal phrase"
+          "pos": "phrase",
+          "stress": "il",
+          "gloss": "(ago)",
+          "gram": "part of il y a; with a time = ago"
+        },
+        {
+          "t": "y",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "des",
@@ -935,20 +983,12 @@
           "gram": "feminine plural"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "whom, that",
-          "gram": "relative pronoun, elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "one, we",
-          "gram": "indefinite subject pronoun"
+          "pos": "conj",
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "voit",
@@ -1059,20 +1099,12 @@
           "gram": "indefinite subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "no longer",
-          "gram": "negative particle, elided (ne ... plus)"
-        },
-        {
-          "t": "a",
+          "t": "n'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "na",
+          "gloss": "has (not)",
+          "gram": "ne (elided n') + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "plus",
@@ -1153,20 +1185,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "herself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "épanouit",
+          "t": "s'épanouit",
           "lemma": "épanouir",
           "pos": "verb",
-          "stress": "epanwi",
-          "gloss": "blooms, flourishes",
-          "gram": "present, 3rd singular"
+          "stress": "sepanwi",
+          "gloss": "herself blooms, flourishes",
+          "gram": "s': reflexive pronoun, elided + épanouit: present, 3rd singular"
         },
         {
           "t": "encore.",
@@ -1191,20 +1215,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "herself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "ouvre,",
+          "t": "s'ouvre,",
           "lemma": "ouvrir",
           "pos": "verb",
-          "stress": "uvʁ",
-          "gloss": "opens",
-          "gram": "present, 3rd singular"
+          "stress": "suvʁ",
+          "gloss": "herself opens",
+          "gram": "s': reflexive pronoun, elided + ouvre,: present, 3rd singular"
         },
         {
           "t": "comme",
@@ -1269,11 +1285,19 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "Andréa Martel,",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
+          "gram": "proper name"
+        },
+        {
+          "t": "Martel,",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
           "gram": "proper name"
         },
         {
@@ -1293,12 +1317,20 @@
           "gram": "present, 3rd singular"
         },
         {
-          "t": "Juliette Binoche.",
-          "lemma": "juliettebinoche",
+          "t": "Juliette",
+          "lemma": "juliette",
           "pos": "name",
-          "stress": "ʒyljɛtbinɔʃ",
-          "gloss": "Juliette Binoche",
-          "gram": "proper name"
+          "stress": "ʒyljɛt",
+          "gloss": "Juliette",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Binoche.",
+          "lemma": "binoche",
+          "pos": "name",
+          "stress": "binɔʃ",
+          "gloss": "Binoche.",
+          "gram": "proper surname"
         }
       ]
     },
@@ -1307,12 +1339,20 @@
       "trans": "Jean-Denis Gillieres, a great friend of the festival.",
       "words": [
         {
-          "t": "Jean-Denis Gillières,",
-          "lemma": "jean-denisgillières",
+          "t": "Jean-Denis",
+          "lemma": "jean-denis",
           "pos": "name",
-          "stress": "ʒɑ̃dəniʒiljɛʁ",
-          "gloss": "Jean-Denis Gillières",
-          "gram": "proper name"
+          "stress": "ʒɑ̃dəni",
+          "gloss": "Jean-Denis (mogul)",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Gillières,",
+          "lemma": "gillières",
+          "pos": "name",
+          "stress": "ʒiljɛʁ",
+          "gloss": "Gillières",
+          "gram": "proper noun"
         },
         {
           "t": "un",
@@ -1361,12 +1401,20 @@
       "trans": "Of course. Delighted.",
       "words": [
         {
-          "t": "Bien sûr.",
+          "t": "Bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "Enchantée.",
@@ -1445,20 +1493,12 @@
       "trans": "I would really like to greet her, if possible.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aimerais",
+          "t": "J'aimerais",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛmʁɛ",
-          "gloss": "would like",
-          "gram": "conditional, 1st singular"
+          "stress": "ʒɛmʁɛ",
+          "gloss": "I would like",
+          "gram": "je + aimerais: conditional present, 1st person singular"
         },
         {
           "t": "beaucoup",
@@ -1593,28 +1633,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "her",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "appelle",
+          "t": "l'appelle",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "apɛl",
-          "gloss": "call, am calling",
-          "gram": "present, 1st singular"
+          "stress": "lapɛl",
+          "gloss": "am calling him",
+          "gram": "le (elided l', him) + appelle: present, 1st person singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1647,12 +1695,20 @@
           "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "drôle de",
-          "lemma": "drôle de",
+          "t": "drôle",
+          "lemma": "drôle",
           "pos": "adj",
-          "stress": "dʁoldə",
-          "gloss": "strange",
-          "gram": "idiomatic adjective phrase"
+          "stress": "dʁol",
+          "gloss": "funny",
+          "gram": "singular adjective"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
           "t": "métier,",
@@ -1693,28 +1749,28 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "ombre",
+          "t": "l'ombre",
           "lemma": "ombre",
           "pos": "noun",
-          "stress": "ɔ̃bʁ",
+          "stress": "lɔ̃bʁ",
           "gloss": "shadow",
-          "gram": "feminine singular"
+          "gram": "definite article l' (elided) + feminine singular noun"
         },
         {
-          "t": "pour que",
-          "lemma": "pour que",
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
           "pos": "conj",
-          "stress": "puʁkə",
-          "gloss": "so that",
-          "gram": "subordinating conjunction (+ subjunctive)"
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "les",
@@ -1769,11 +1825,19 @@
       "trans": "Andrea Martel! That is much simpler.",
       "words": [
         {
-          "t": "Andréa Martel!",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
+          "gram": "proper name"
+        },
+        {
+          "t": "Martel!",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
           "gram": "proper name"
         },
         {
@@ -1815,12 +1879,28 @@
       "trans": "There are actresses you see a lot.",
       "words": [
         {
-          "t": "Il y a",
+          "t": "Il",
           "lemma": "il y a",
-          "pos": "verb",
-          "stress": "ilja",
-          "gloss": "there are",
-          "gram": "impersonal verbal phrase"
+          "pos": "phrase",
+          "stress": "il",
+          "gloss": "(ago)",
+          "gram": "part of il y a; with a time = ago"
+        },
+        {
+          "t": "y",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "i",
+          "gloss": "(ago)",
+          "gram": "part of il y a"
+        },
+        {
+          "t": "a",
+          "lemma": "il y a",
+          "pos": "phrase",
+          "stress": "a",
+          "gloss": "(ago)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "des",
@@ -1839,20 +1919,12 @@
           "gram": "feminine plural"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "whom, that",
-          "gram": "relative pronoun, elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "one, we",
-          "gram": "indefinite subject pronoun"
+          "pos": "conj",
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "voit",
@@ -1963,20 +2035,12 @@
           "gram": "indefinite subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "no longer",
-          "gram": "negative particle, elided (ne ... plus)"
-        },
-        {
-          "t": "a",
+          "t": "n'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd singular"
+          "stress": "na",
+          "gloss": "has (not)",
+          "gram": "ne (elided n') + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "plus",
@@ -2057,20 +2121,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "herself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "épanouit",
+          "t": "s'épanouit",
           "lemma": "épanouir",
           "pos": "verb",
-          "stress": "epanwi",
-          "gloss": "blooms, flourishes",
-          "gram": "present, 3rd singular"
+          "stress": "sepanwi",
+          "gloss": "herself blooms, flourishes",
+          "gram": "s': reflexive pronoun, elided + épanouit: present, 3rd singular"
         },
         {
           "t": "encore.",
@@ -2095,20 +2151,12 @@
           "gram": "subject pronoun, 3rd feminine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "herself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "ouvre,",
+          "t": "s'ouvre,",
           "lemma": "ouvrir",
           "pos": "verb",
-          "stress": "uvʁ",
-          "gloss": "opens",
-          "gram": "present, 3rd singular"
+          "stress": "suvʁ",
+          "gloss": "herself opens",
+          "gram": "s': reflexive pronoun, elided + ouvre,: present, 3rd singular"
         },
         {
           "t": "comme",
@@ -2173,11 +2221,19 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "Andréa Martel,",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
+          "gram": "proper name"
+        },
+        {
+          "t": "Martel,",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
           "gram": "proper name"
         },
         {
@@ -2197,12 +2253,20 @@
           "gram": "present, 3rd singular"
         },
         {
-          "t": "Juliette Binoche.",
-          "lemma": "juliettebinoche",
+          "t": "Juliette",
+          "lemma": "juliette",
           "pos": "name",
-          "stress": "ʒyljɛtbinɔʃ",
-          "gloss": "Juliette Binoche",
-          "gram": "proper name"
+          "stress": "ʒyljɛt",
+          "gloss": "Juliette",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Binoche.",
+          "lemma": "binoche",
+          "pos": "name",
+          "stress": "binɔʃ",
+          "gloss": "Binoche.",
+          "gram": "proper surname"
         }
       ]
     },
@@ -2211,12 +2275,20 @@
       "trans": "Jean-Denis Gillieres, a great friend of the festival.",
       "words": [
         {
-          "t": "Jean-Denis Gillières,",
-          "lemma": "jean-denisgillières",
+          "t": "Jean-Denis",
+          "lemma": "jean-denis",
           "pos": "name",
-          "stress": "ʒɑ̃dəniʒiljɛʁ",
-          "gloss": "Jean-Denis Gillières",
-          "gram": "proper name"
+          "stress": "ʒɑ̃dəni",
+          "gloss": "Jean-Denis (mogul)",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Gillières,",
+          "lemma": "gillières",
+          "pos": "name",
+          "stress": "ʒiljɛʁ",
+          "gloss": "Gillières",
+          "gram": "proper noun"
         },
         {
           "t": "un",
@@ -2265,12 +2337,20 @@
       "trans": "Of course. Delighted.",
       "words": [
         {
-          "t": "Bien sûr.",
+          "t": "Bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "Enchantée.",
@@ -2349,20 +2429,12 @@
       "trans": "I would really like to greet her, if possible.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aimerais",
+          "t": "J'aimerais",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛmʁɛ",
-          "gloss": "would like",
-          "gram": "conditional, 1st singular"
+          "stress": "ʒɛmʁɛ",
+          "gloss": "I would like",
+          "gram": "je + aimerais: conditional present, 1st person singular"
         },
         {
           "t": "beaucoup",
@@ -2497,28 +2569,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "her",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "appelle",
+          "t": "l'appelle",
           "lemma": "appeler",
           "pos": "verb",
-          "stress": "apɛl",
-          "gloss": "call, am calling",
-          "gram": "present, 1st singular"
+          "stress": "lapɛl",
+          "gloss": "am calling him",
+          "gram": "le (elided l', him) + appelle: present, 1st person singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -2551,12 +2631,20 @@
           "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "drôle de",
-          "lemma": "drôle de",
+          "t": "drôle",
+          "lemma": "drôle",
           "pos": "adj",
-          "stress": "dʁoldə",
-          "gloss": "strange",
-          "gram": "idiomatic adjective phrase"
+          "stress": "dʁol",
+          "gloss": "funny",
+          "gram": "singular adjective"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
           "t": "métier,",
@@ -2597,28 +2685,28 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "ombre",
+          "t": "l'ombre",
           "lemma": "ombre",
           "pos": "noun",
-          "stress": "ɔ̃bʁ",
+          "stress": "lɔ̃bʁ",
           "gloss": "shadow",
-          "gram": "feminine singular"
+          "gram": "definite article l' (elided) + feminine singular noun"
         },
         {
-          "t": "pour que",
-          "lemma": "pour que",
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
           "pos": "conj",
-          "stress": "puʁkə",
-          "gloss": "so that",
-          "gram": "subordinating conjunction (+ subjunctive)"
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "les",
@@ -2673,11 +2761,19 @@
       "trans": "Andrea Martel! That is much simpler.",
       "words": [
         {
-          "t": "Andréa Martel!",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
+          "gram": "proper name"
+        },
+        {
+          "t": "Martel!",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
           "gram": "proper name"
         },
         {
@@ -2719,11 +2815,19 @@
       "trans": "Andrea Martel! That is much simpler.",
       "words": [
         {
-          "t": "Andréa Martel!",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
+          "gram": "proper name"
+        },
+        {
+          "t": "Martel!",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
           "gram": "proper name"
         },
         {
@@ -7745,6 +7849,113 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "drôle": {
+      "examples": [
+        {
+          "text": "Très drôle, très moderne.",
+          "trans": "Very funny, very modern."
+        },
+        {
+          "text": "Cette histoire est drôle.",
+          "trans": "This story is funny."
+        },
+        {
+          "text": "C'est l'histoire d'une strip-teaseuse écolo. Très drôle, très moderne.",
+          "trans": "It's the story of an ecologist stripper. Very funny, very modern."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "drôle",
+              "drôle"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "drôles",
+              "drôles"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "funny, amusing",
+      "lemma": "drôle",
+      "meanings": [
+        {
+          "en": "funny, amusing",
+          "note": "after the noun: un film très drôle"
+        },
+        {
+          "en": "strange, odd",
+          "note": "before the noun: une drôle d'idée"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "dʁol",
+      "related": [
+        {
+          "word": "drôle de",
+          "gloss": "strange"
+        }
+      ]
+    },
+    "pour": {
+      "examples": [
+        {
+          "text": "Deux places pour mardi.",
+          "trans": "Two tickets for Tuesday."
+        },
+        {
+          "text": "Je suis là pour voir Mathias.",
+          "trans": "I'm here to see Mathias."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
+        }
+      ],
+      "forms": null,
+      "gloss": "for; (in order) to",
+      "lemma": "pour",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "before an infinitive: pour faire plaisir"
+        },
+        {
+          "en": "to, in order to",
+          "note": "+ infinitive: pour voir"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "puʁ",
+      "related": [
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
         }
       ]
     }

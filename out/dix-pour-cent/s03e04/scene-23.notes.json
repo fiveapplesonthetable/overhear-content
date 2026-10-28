@@ -15,12 +15,20 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "ça va,",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "are things going",
-          "gram": "idiomatic phrase"
+          "t": "ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "toi?",
@@ -45,20 +53,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "myself",
-          "gram": "reflexive pronoun 1sg elided"
-        },
-        {
-          "t": "en",
+          "t": "m'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "for it",
-          "gram": "adverbial pronoun"
+          "stress": "mɑ̃",
+          "gloss": "myself of it",
+          "gram": "me (reflexive) + en (adverbial pronoun)"
         },
         {
           "t": "veux",
@@ -69,12 +69,20 @@
           "gram": "present 1sg"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial locution"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -83,20 +91,12 @@
       "trans": "Will the insurance cover the shutdown?",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "assurance",
+          "t": "L'assurance",
           "lemma": "assurance",
           "pos": "noun",
-          "stress": "asyʁɑ̃s",
-          "gloss": "insurance",
-          "gram": "feminine noun"
+          "stress": "lasyʁɑ̃s",
+          "gloss": "the insurance",
+          "gram": "L': definite article elided + assurance: feminine noun"
         },
         {
           "t": "va",
@@ -115,20 +115,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "interruption?",
+          "t": "l'interruption?",
           "lemma": "interruption",
           "pos": "noun",
-          "stress": "ɛ̃tɛʁypsjɔ̃",
-          "gloss": "interruption / shutdown",
-          "gram": "feminine noun"
+          "stress": "lɛ̃tɛʁypsjɔ̃",
+          "gloss": "the interruption / shutdown",
+          "gram": "l': definite article elided + interruption?: feminine noun"
         }
       ]
     },
@@ -145,20 +137,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -391,20 +375,12 @@
       "trans": "It is a small experimental film.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -469,12 +445,20 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "vite fait.",
-          "lemma": "vite fait",
+          "t": "vite",
+          "lemma": "vite",
           "pos": "adv",
-          "stress": "vitfɛ",
-          "gloss": "quickly / casually",
-          "gram": "adverbial locution"
+          "stress": "vit",
+          "gloss": "quickly",
+          "gram": "adverb"
+        },
+        {
+          "t": "fait.",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "makes, does",
+          "gram": "present, 3sg"
         }
       ]
     },
@@ -691,12 +675,20 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "ça va,",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "are things going",
-          "gram": "idiomatic phrase"
+          "t": "ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "toi?",
@@ -721,20 +713,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "myself",
-          "gram": "reflexive pronoun 1sg elided"
-        },
-        {
-          "t": "en",
+          "t": "m'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "for it",
-          "gram": "adverbial pronoun"
+          "stress": "mɑ̃",
+          "gloss": "myself of it",
+          "gram": "me (reflexive) + en (adverbial pronoun)"
         },
         {
           "t": "veux",
@@ -745,12 +729,20 @@
           "gram": "present 1sg"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial locution"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -759,20 +751,12 @@
       "trans": "Will the insurance cover the shutdown?",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "assurance",
+          "t": "L'assurance",
           "lemma": "assurance",
           "pos": "noun",
-          "stress": "asyʁɑ̃s",
-          "gloss": "insurance",
-          "gram": "feminine noun"
+          "stress": "lasyʁɑ̃s",
+          "gloss": "the insurance",
+          "gram": "L': definite article elided + assurance: feminine noun"
         },
         {
           "t": "va",
@@ -791,20 +775,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "interruption?",
+          "t": "l'interruption?",
           "lemma": "interruption",
           "pos": "noun",
-          "stress": "ɛ̃tɛʁypsjɔ̃",
-          "gloss": "interruption / shutdown",
-          "gram": "feminine noun"
+          "stress": "lɛ̃tɛʁypsjɔ̃",
+          "gloss": "the interruption / shutdown",
+          "gram": "l': definite article elided + interruption?: feminine noun"
         }
       ]
     },
@@ -821,20 +797,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1067,20 +1035,12 @@
       "trans": "It is a small experimental film.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -1145,12 +1105,20 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "vite fait.",
-          "lemma": "vite fait",
+          "t": "vite",
+          "lemma": "vite",
           "pos": "adv",
-          "stress": "vitfɛ",
-          "gloss": "quickly / casually",
-          "gram": "adverbial locution"
+          "stress": "vit",
+          "gloss": "quickly",
+          "gram": "adverb"
+        },
+        {
+          "t": "fait.",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "makes, does",
+          "gram": "present, 3sg"
         }
       ]
     },
@@ -1367,12 +1335,20 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "ça va,",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "are things going",
-          "gram": "idiomatic phrase"
+          "t": "ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va,",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "toi?",
@@ -1397,20 +1373,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "myself",
-          "gram": "reflexive pronoun 1sg elided"
-        },
-        {
-          "t": "en",
+          "t": "m'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "for it",
-          "gram": "adverbial pronoun"
+          "stress": "mɑ̃",
+          "gloss": "myself of it",
+          "gram": "me (reflexive) + en (adverbial pronoun)"
         },
         {
           "t": "veux",
@@ -1421,12 +1389,20 @@
           "gram": "present 1sg"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial locution"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -1435,20 +1411,12 @@
       "trans": "Will the insurance cover the shutdown?",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "assurance",
+          "t": "L'assurance",
           "lemma": "assurance",
           "pos": "noun",
-          "stress": "asyʁɑ̃s",
-          "gloss": "insurance",
-          "gram": "feminine noun"
+          "stress": "lasyʁɑ̃s",
+          "gloss": "the insurance",
+          "gram": "L': definite article elided + assurance: feminine noun"
         },
         {
           "t": "va",
@@ -1467,20 +1435,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article elided"
-        },
-        {
-          "t": "interruption?",
+          "t": "l'interruption?",
           "lemma": "interruption",
           "pos": "noun",
-          "stress": "ɛ̃tɛʁypsjɔ̃",
-          "gloss": "interruption / shutdown",
-          "gram": "feminine noun"
+          "stress": "lɛ̃tɛʁypsjɔ̃",
+          "gloss": "the interruption / shutdown",
+          "gram": "l': definite article elided + interruption?: feminine noun"
         }
       ]
     },
@@ -1497,20 +1457,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1743,20 +1695,12 @@
       "trans": "It is a small experimental film.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "un",
@@ -1821,12 +1765,20 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "vite fait.",
-          "lemma": "vite fait",
+          "t": "vite",
+          "lemma": "vite",
           "pos": "adv",
-          "stress": "vitfɛ",
-          "gloss": "quickly / casually",
-          "gram": "adverbial locution"
+          "stress": "vit",
+          "gloss": "quickly",
+          "gram": "adverb"
+        },
+        {
+          "t": "fait.",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "makes, does",
+          "gram": "present, 3sg"
         }
       ]
     },
@@ -5725,6 +5677,86 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "peu": {
+      "examples": [
+        {
+          "text": "Un peu de café?",
+          "trans": "A little coffee?"
+        },
+        {
+          "text": "Je suis un peu fatigué.",
+          "trans": "I'm a bit tired."
+        },
+        {
+          "text": "Oui, Cécile est un peu plus âgée.",
+          "trans": "Yes, Cécile is a little older."
+        }
+      ],
+      "forms": null,
+      "gloss": "little",
+      "lemma": "peu",
+      "meanings": [
+        {
+          "en": "un peu = a little, a bit",
+          "note": "peu de temps = little time"
+        },
+        {
+          "en": "not much",
+          "note": "peu de temps = little time"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "pø",
+      "related": [
+        {
+          "word": "très peu",
+          "gloss": "related adverbial expression (little)"
+        }
+      ]
+    },
+    "vite": {
+      "examples": [
+        {
+          "text": "Je l'ai vite retiré.",
+          "trans": "I quickly pulled it back."
+        },
+        {
+          "text": "Viens vite!",
+          "trans": "Come quickly!"
+        },
+        {
+          "text": "Mais je l'ai vite retiré.",
+          "trans": "But I quickly pulled it back."
+        }
+      ],
+      "forms": null,
+      "gloss": "quickly, fast",
+      "lemma": "vite",
+      "meanings": [
+        {
+          "en": "quickly, fast",
+          "note": "Everyday French adv meaning 'quickly, fast'."
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "vit",
+      "related": [
+        {
+          "word": "inviter",
+          "gloss": "to invite"
+        },
+        {
+          "word": "vitesse",
+          "gloss": "speed"
+        },
+        {
+          "word": "vite fait",
+          "gloss": "quickly"
         }
       ]
     }

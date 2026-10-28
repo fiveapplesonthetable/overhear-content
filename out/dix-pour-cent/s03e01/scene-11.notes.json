@@ -39,20 +39,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -373,10 +365,26 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "à ta disposition",
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "ta",
+          "lemma": "ton",
+          "pos": "det",
+          "stress": "ta",
+          "gloss": "your",
+          "gram": "possessive determiner, feminine singular"
+        },
+        {
+          "t": "disposition",
           "lemma": "à disposition",
           "pos": "adv",
-          "stress": "adispɔzisjɔ̃",
+          "stress": null,
           "gloss": "at your disposal",
           "gram": "prepositional idiom"
         },
@@ -551,12 +559,20 @@
       "trans": "Very well, thank you.",
       "words": [
         {
-          "t": "Très bien,",
-          "lemma": "très bien",
+          "t": "Très",
+          "lemma": "très",
           "pos": "adv",
-          "stress": "tʁɛbjɛ̃",
-          "gloss": "very well",
-          "gram": "adverbial phrase"
+          "stress": "tʁɛ",
+          "gloss": "very",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "bien,",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well",
+          "gram": "adverb"
         },
         {
           "t": "merci.",
@@ -573,20 +589,12 @@
       "trans": "I am delighted. Pass along my warm regards to her.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "J'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
+          "stress": "ʒɑ̃",
           "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "suis",
@@ -643,20 +651,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "to it",
-          "gram": "adverbial pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "manquerai",
@@ -757,12 +757,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "Jean Dujardin",
-          "lemma": "jeandujardin",
+          "t": "Jean",
+          "lemma": "jean",
           "pos": "name",
-          "stress": "ʒɑ̃dyʒaʁdɛ̃",
-          "gloss": "Jean Dujardin",
-          "gram": "proper name"
+          "stress": "ʒɑ̃",
+          "gloss": "Jean",
+          "gram": "proper masculine first name"
+        },
+        {
+          "t": "Dujardin",
+          "lemma": "dujardin",
+          "pos": "name",
+          "stress": "dyʒaʁdɛ̃",
+          "gloss": "Dujardin",
+          "gram": "proper surname"
         },
         {
           "t": "maintenant.",
@@ -779,12 +787,20 @@
       "trans": "Take care of yourself on the road.",
       "words": [
         {
-          "t": "Fais attention",
-          "lemma": "faire attention",
+          "t": "Fais",
+          "lemma": "faire",
           "pos": "verb",
-          "stress": "fɛzatɑ̃sjɔ̃",
-          "gloss": "take care, pay attention",
-          "gram": "idiomatic verb phrase"
+          "stress": "fɛ",
+          "gloss": "are doing",
+          "gram": "present, 2nd person singular"
+        },
+        {
+          "t": "attention",
+          "lemma": "attention",
+          "pos": "interj",
+          "stress": "atɑ̃sjɔ̃",
+          "gloss": "careful, watch out",
+          "gram": "interjection"
         },
         {
           "t": "à",
@@ -841,20 +857,12 @@
           "gram": "negative particle (ne ... pas)"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "yourself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
-          "stress": "ɛ̃kjɛt",
-          "gloss": "worry",
-          "gram": "imperative, 2nd singular"
+          "stress": "ɛ̃kjete",
+          "gloss": "to worry (someone)",
+          "gram": "conjugated verb"
         },
         {
           "t": "pas,",
@@ -927,20 +935,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1261,10 +1261,26 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "à ta disposition",
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "ta",
+          "lemma": "ton",
+          "pos": "det",
+          "stress": "ta",
+          "gloss": "your",
+          "gram": "possessive determiner, feminine singular"
+        },
+        {
+          "t": "disposition",
           "lemma": "à disposition",
           "pos": "adv",
-          "stress": "adispɔzisjɔ̃",
+          "stress": null,
           "gloss": "at your disposal",
           "gram": "prepositional idiom"
         },
@@ -1439,12 +1455,20 @@
       "trans": "Very well, thank you.",
       "words": [
         {
-          "t": "Très bien,",
-          "lemma": "très bien",
+          "t": "Très",
+          "lemma": "très",
           "pos": "adv",
-          "stress": "tʁɛbjɛ̃",
-          "gloss": "very well",
-          "gram": "adverbial phrase"
+          "stress": "tʁɛ",
+          "gloss": "very",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "bien,",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well",
+          "gram": "adverb"
         },
         {
           "t": "merci.",
@@ -1461,20 +1485,12 @@
       "trans": "I am delighted. Pass along my warm regards to her.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "J'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
+          "stress": "ʒɑ̃",
           "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "suis",
@@ -1531,20 +1547,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "to it",
-          "gram": "adverbial pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "manquerai",
@@ -1645,12 +1653,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "Jean Dujardin",
-          "lemma": "jeandujardin",
+          "t": "Jean",
+          "lemma": "jean",
           "pos": "name",
-          "stress": "ʒɑ̃dyʒaʁdɛ̃",
-          "gloss": "Jean Dujardin",
-          "gram": "proper name"
+          "stress": "ʒɑ̃",
+          "gloss": "Jean",
+          "gram": "proper masculine first name"
+        },
+        {
+          "t": "Dujardin",
+          "lemma": "dujardin",
+          "pos": "name",
+          "stress": "dyʒaʁdɛ̃",
+          "gloss": "Dujardin",
+          "gram": "proper surname"
         },
         {
           "t": "maintenant.",
@@ -1667,12 +1683,20 @@
       "trans": "Take care of yourself on the road.",
       "words": [
         {
-          "t": "Fais attention",
-          "lemma": "faire attention",
+          "t": "Fais",
+          "lemma": "faire",
           "pos": "verb",
-          "stress": "fɛzatɑ̃sjɔ̃",
-          "gloss": "take care, pay attention",
-          "gram": "idiomatic verb phrase"
+          "stress": "fɛ",
+          "gloss": "are doing",
+          "gram": "present, 2nd person singular"
+        },
+        {
+          "t": "attention",
+          "lemma": "attention",
+          "pos": "interj",
+          "stress": "atɑ̃sjɔ̃",
+          "gloss": "careful, watch out",
+          "gram": "interjection"
         },
         {
           "t": "à",
@@ -1729,20 +1753,12 @@
           "gram": "negative particle (ne ... pas)"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "yourself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
-          "stress": "ɛ̃kjɛt",
-          "gloss": "worry",
-          "gram": "imperative, 2nd singular"
+          "stress": "ɛ̃kjete",
+          "gloss": "to worry (someone)",
+          "gram": "conjugated verb"
         },
         {
           "t": "pas,",
@@ -1815,20 +1831,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -2149,10 +2157,26 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "à ta disposition",
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "ta",
+          "lemma": "ton",
+          "pos": "det",
+          "stress": "ta",
+          "gloss": "your",
+          "gram": "possessive determiner, feminine singular"
+        },
+        {
+          "t": "disposition",
           "lemma": "à disposition",
           "pos": "adv",
-          "stress": "adispɔzisjɔ̃",
+          "stress": null,
           "gloss": "at your disposal",
           "gram": "prepositional idiom"
         },
@@ -2327,12 +2351,20 @@
       "trans": "Very well, thank you.",
       "words": [
         {
-          "t": "Très bien,",
-          "lemma": "très bien",
+          "t": "Très",
+          "lemma": "très",
           "pos": "adv",
-          "stress": "tʁɛbjɛ̃",
-          "gloss": "very well",
-          "gram": "adverbial phrase"
+          "stress": "tʁɛ",
+          "gloss": "very",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "bien,",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well",
+          "gram": "adverb"
         },
         {
           "t": "merci.",
@@ -2349,20 +2381,12 @@
       "trans": "I am delighted. Pass along my warm regards to her.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "J'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
+          "stress": "ʒɑ̃",
           "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "suis",
@@ -2419,20 +2443,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "to it",
-          "gram": "adverbial pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "manquerai",
@@ -2533,12 +2549,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "Jean Dujardin",
-          "lemma": "jeandujardin",
+          "t": "Jean",
+          "lemma": "jean",
           "pos": "name",
-          "stress": "ʒɑ̃dyʒaʁdɛ̃",
-          "gloss": "Jean Dujardin",
-          "gram": "proper name"
+          "stress": "ʒɑ̃",
+          "gloss": "Jean",
+          "gram": "proper masculine first name"
+        },
+        {
+          "t": "Dujardin",
+          "lemma": "dujardin",
+          "pos": "name",
+          "stress": "dyʒaʁdɛ̃",
+          "gloss": "Dujardin",
+          "gram": "proper surname"
         },
         {
           "t": "maintenant.",
@@ -2555,12 +2579,20 @@
       "trans": "Take care of yourself on the road.",
       "words": [
         {
-          "t": "Fais attention",
-          "lemma": "faire attention",
+          "t": "Fais",
+          "lemma": "faire",
           "pos": "verb",
-          "stress": "fɛzatɑ̃sjɔ̃",
-          "gloss": "take care, pay attention",
-          "gram": "idiomatic verb phrase"
+          "stress": "fɛ",
+          "gloss": "are doing",
+          "gram": "present, 2nd person singular"
+        },
+        {
+          "t": "attention",
+          "lemma": "attention",
+          "pos": "interj",
+          "stress": "atɑ̃sjɔ̃",
+          "gloss": "careful, watch out",
+          "gram": "interjection"
         },
         {
           "t": "à",
@@ -2617,20 +2649,12 @@
           "gram": "negative particle (ne ... pas)"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "yourself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
-          "stress": "ɛ̃kjɛt",
-          "gloss": "worry",
-          "gram": "imperative, 2nd singular"
+          "stress": "ɛ̃kjete",
+          "gloss": "to worry (someone)",
+          "gram": "conjugated verb"
         },
         {
           "t": "pas,",
@@ -2679,20 +2703,12 @@
           "gram": "negative particle (ne ... pas)"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "yourself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
-          "stress": "ɛ̃kjɛt",
-          "gloss": "worry",
-          "gram": "imperative, 2nd singular"
+          "stress": "ɛ̃kjete",
+          "gloss": "to worry (someone)",
+          "gram": "conjugated verb"
         },
         {
           "t": "pas,",
@@ -8105,6 +8121,298 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "très": {
+      "examples": [
+        {
+          "text": "Très bien.",
+          "trans": "Very well."
+        },
+        {
+          "text": "C'est très important.",
+          "trans": "It's very important."
+        },
+        {
+          "text": "Très bien. Et vous? Un thé?",
+          "trans": "Very well. And you? Tea?"
+        }
+      ],
+      "forms": null,
+      "gloss": "very",
+      "lemma": "très",
+      "meanings": [
+        {
+          "en": "very",
+          "note": "Everyday French adv meaning 'very'."
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "tʁɛ",
+      "related": [
+        {
+          "word": "très bien",
+          "gloss": "very well"
+        }
+      ]
+    },
+    "faire": {
+      "examples": [
+        {
+          "text": "Ne fais pas ça!",
+          "trans": "Don't do that!"
+        },
+        {
+          "text": "Fais du vélo!",
+          "trans": "Ride a bike!"
+        },
+        {
+          "text": "Qu'est-ce que tu fais?",
+          "trans": "What are you doing?"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je fais",
+              "nous faisons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu fais",
+              "vous faites"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle fait",
+              "ils/elles font"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to do, to make",
+      "lemma": "faire",
+      "meanings": [
+        {
+          "en": "to do",
+          "note": "pour faire quoi? = to do what?"
+        },
+        {
+          "en": "to make",
+          "note": "faire un café"
+        },
+        {
+          "en": "to go (an activity)",
+          "note": "faire du vélo = to ride a bike, to cycle"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai fait",
+                "nous avons fait"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as fait",
+                "vous avez fait"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a fait",
+                "ils/elles ont fait"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je faisais",
+                "nous faisions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu faisais",
+                "vous faisiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle faisait",
+                "ils/elles faisaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je ferai",
+                "nous ferons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu feras",
+                "vous ferez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle fera",
+                "ils/elles feront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "faisons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "fais",
+                "faites"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pos": "verb",
+      "stress": "fɛʁ",
+      "related": [
+        {
+          "word": "faire attention",
+          "gloss": "to pay attention"
+        },
+        {
+          "word": "refaire",
+          "gloss": "redo"
+        }
+      ]
+    },
+    "attention": {
+      "examples": [
+        {
+          "text": "Attention, la route!",
+          "trans": "Careful, the road!"
+        },
+        {
+          "text": "Fais attention!",
+          "trans": "Be careful!"
+        },
+        {
+          "text": "Attention, tu arrives sur la route!",
+          "trans": "Careful, you're heading for the road!"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'attention",
+              "les attentions"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "f",
+      "gloss": "attention; careful!",
+      "lemma": "attention",
+      "meanings": [
+        {
+          "en": "careful!, watch out!",
+          "note": "as a warning shout: attention!"
+        },
+        {
+          "en": "attention",
+          "note": "faire attention = to be careful"
+        }
+      ],
+      "moreForms": [],
+      "plural": "attentions",
+      "pos": "noun",
+      "stress": "atɑ̃sjɔ̃",
+      "related": [
+        {
+          "word": "attendre",
+          "gloss": "to wait"
+        },
+        {
+          "word": "inattendu",
+          "gloss": "unexpected"
+        },
+        {
+          "word": "atterrir",
+          "gloss": "to land"
         }
       ]
     }

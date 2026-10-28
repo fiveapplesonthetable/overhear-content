@@ -31,7 +31,7 @@
           "gram": "past part"
         },
         {
-          "t": "ça",
+          "t": "ça,",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
@@ -39,7 +39,7 @@
           "gram": "dem pron"
         },
         {
-          "t": "Andréa",
+          "t": "Andréa?",
           "lemma": "andréa",
           "pos": "name",
           "stress": "ɑ̃dʁea",
@@ -101,7 +101,7 @@
           "gram": "plur poss det"
         },
         {
-          "t": "bras",
+          "t": "bras.",
           "lemma": "bras",
           "pos": "noun",
           "stress": "bʁa",
@@ -155,7 +155,7 @@
           "gram": "sing poss det"
         },
         {
-          "t": "présence",
+          "t": "présence.",
           "lemma": "présence",
           "pos": "noun",
           "stress": "pʁezɑ̃s",
@@ -209,7 +209,7 @@
           "gram": "preposition"
         },
         {
-          "t": "décharge",
+          "t": "décharge.",
           "lemma": "décharge",
           "pos": "noun",
           "stress": "deʃaʁʒ",
@@ -223,12 +223,20 @@
       "trans": "What does that mean?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "idiomatic question pron"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "cela",
@@ -247,7 +255,7 @@
           "gram": "3rd sing pres"
         },
         {
-          "t": "dire",
+          "t": "dire?",
           "lemma": "dire",
           "pos": "verb",
           "stress": "diʁ",
@@ -301,7 +309,7 @@
           "gram": "masc sing poss det"
         },
         {
-          "t": "stress",
+          "t": "stress.",
           "lemma": "stress",
           "pos": "noun",
           "stress": "stʁɛs",
@@ -315,20 +323,12 @@
       "trans": "Is that a very good sign?",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "donc",
@@ -363,7 +363,7 @@
           "gram": "masc sing adj"
         },
         {
-          "t": "signe",
+          "t": "signe?",
           "lemma": "signe",
           "pos": "noun",
           "stress": "siɲ",
@@ -393,7 +393,7 @@
           "gram": "contracted prep+art"
         },
         {
-          "t": "contraire",
+          "t": "contraire,",
           "lemma": "contraire",
           "pos": "noun",
           "stress": "kɔ̃tʁɛʁ",
@@ -401,20 +401,12 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "de",
@@ -425,20 +417,12 @@
           "gram": "partitive prep"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "angoisse",
+          "t": "l'angoisse.",
           "lemma": "angoisse",
           "pos": "noun",
-          "stress": "ɑ̃ɡwas",
-          "gloss": "anxiety",
-          "gram": "fem sing noun"
+          "stress": "lɑ̃ɡwas",
+          "gloss": "the anxiety",
+          "gram": "l': fem sing def art + angoisse: fem sing noun"
         }
       ]
     },
@@ -455,20 +439,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "as",
+          "t": "as-tu",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "2nd sing pres aux"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "2nd sing subj pron"
+          "stress": "aty",
+          "gloss": "have you",
+          "gram": "inverted interrogative, 2sg"
         },
         {
           "t": "appris",
@@ -495,7 +471,7 @@
           "gram": "plur dem det"
         },
         {
-          "t": "théories",
+          "t": "théories?",
           "lemma": "théorie",
           "pos": "noun",
           "stress": "teɔʁi",
@@ -549,7 +525,7 @@
           "gram": "masc sing poss det"
         },
         {
-          "t": "bureau",
+          "t": "bureau.",
           "lemma": "bureau",
           "pos": "noun",
           "stress": "byʁo",
@@ -563,7 +539,7 @@
       "trans": "Yes, it is great, this book!",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -603,7 +579,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "livre",
+          "t": "livre!",
           "lemma": "livre",
           "pos": "noun",
           "stress": "livʁ",
@@ -657,7 +633,7 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "attentivement",
+          "t": "attentivement.",
           "lemma": "attentivement",
           "pos": "adv",
           "stress": "atɑ̃tivmɑ̃",
@@ -703,7 +679,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "maintenant",
+          "t": "maintenant.",
           "lemma": "maintenant",
           "pos": "adv",
           "stress": "mɛ̃tnɑ̃",
@@ -725,7 +701,7 @@
           "gram": "fem sing adj"
         },
         {
-          "t": "nuit",
+          "t": "nuit,",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",
@@ -757,7 +733,7 @@
           "gram": "fem sing dem det"
         },
         {
-          "t": "nuit",
+          "t": "nuit.",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",
@@ -795,7 +771,7 @@
           "gram": "past part"
         },
         {
-          "t": "ça",
+          "t": "ça,",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
@@ -803,7 +779,7 @@
           "gram": "dem pron"
         },
         {
-          "t": "Andréa",
+          "t": "Andréa?",
           "lemma": "andréa",
           "pos": "name",
           "stress": "ɑ̃dʁea",
@@ -865,7 +841,7 @@
           "gram": "plur poss det"
         },
         {
-          "t": "bras",
+          "t": "bras.",
           "lemma": "bras",
           "pos": "noun",
           "stress": "bʁa",
@@ -919,7 +895,7 @@
           "gram": "sing poss det"
         },
         {
-          "t": "présence",
+          "t": "présence.",
           "lemma": "présence",
           "pos": "noun",
           "stress": "pʁezɑ̃s",
@@ -973,7 +949,7 @@
           "gram": "preposition"
         },
         {
-          "t": "décharge",
+          "t": "décharge.",
           "lemma": "décharge",
           "pos": "noun",
           "stress": "deʃaʁʒ",
@@ -987,12 +963,20 @@
       "trans": "What does that mean?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "idiomatic question pron"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "cela",
@@ -1011,7 +995,7 @@
           "gram": "3rd sing pres"
         },
         {
-          "t": "dire",
+          "t": "dire?",
           "lemma": "dire",
           "pos": "verb",
           "stress": "diʁ",
@@ -1065,7 +1049,7 @@
           "gram": "masc sing poss det"
         },
         {
-          "t": "stress",
+          "t": "stress.",
           "lemma": "stress",
           "pos": "noun",
           "stress": "stʁɛs",
@@ -1079,20 +1063,12 @@
       "trans": "Is that a very good sign?",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "donc",
@@ -1127,7 +1103,7 @@
           "gram": "masc sing adj"
         },
         {
-          "t": "signe",
+          "t": "signe?",
           "lemma": "signe",
           "pos": "noun",
           "stress": "siɲ",
@@ -1157,7 +1133,7 @@
           "gram": "contracted prep+art"
         },
         {
-          "t": "contraire",
+          "t": "contraire,",
           "lemma": "contraire",
           "pos": "noun",
           "stress": "kɔ̃tʁɛʁ",
@@ -1165,20 +1141,12 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "de",
@@ -1189,20 +1157,12 @@
           "gram": "partitive prep"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "angoisse",
+          "t": "l'angoisse.",
           "lemma": "angoisse",
           "pos": "noun",
-          "stress": "ɑ̃ɡwas",
-          "gloss": "anxiety",
-          "gram": "fem sing noun"
+          "stress": "lɑ̃ɡwas",
+          "gloss": "the anxiety",
+          "gram": "l': fem sing def art + angoisse: fem sing noun"
         }
       ]
     },
@@ -1219,20 +1179,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "as",
+          "t": "as-tu",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "2nd sing pres aux"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "2nd sing subj pron"
+          "stress": "aty",
+          "gloss": "have you",
+          "gram": "inverted interrogative, 2sg"
         },
         {
           "t": "appris",
@@ -1259,7 +1211,7 @@
           "gram": "plur dem det"
         },
         {
-          "t": "théories",
+          "t": "théories?",
           "lemma": "théorie",
           "pos": "noun",
           "stress": "teɔʁi",
@@ -1313,7 +1265,7 @@
           "gram": "masc sing poss det"
         },
         {
-          "t": "bureau",
+          "t": "bureau.",
           "lemma": "bureau",
           "pos": "noun",
           "stress": "byʁo",
@@ -1327,7 +1279,7 @@
       "trans": "Yes, it is great, this book!",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -1367,7 +1319,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "livre",
+          "t": "livre!",
           "lemma": "livre",
           "pos": "noun",
           "stress": "livʁ",
@@ -1421,7 +1373,7 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "attentivement",
+          "t": "attentivement.",
           "lemma": "attentivement",
           "pos": "adv",
           "stress": "atɑ̃tivmɑ̃",
@@ -1467,7 +1419,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "maintenant",
+          "t": "maintenant.",
           "lemma": "maintenant",
           "pos": "adv",
           "stress": "mɛ̃tnɑ̃",
@@ -1489,7 +1441,7 @@
           "gram": "fem sing adj"
         },
         {
-          "t": "nuit",
+          "t": "nuit,",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",
@@ -1521,7 +1473,7 @@
           "gram": "fem sing dem det"
         },
         {
-          "t": "nuit",
+          "t": "nuit.",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",
@@ -1559,7 +1511,7 @@
           "gram": "past part"
         },
         {
-          "t": "ça",
+          "t": "ça,",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
@@ -1567,7 +1519,7 @@
           "gram": "dem pron"
         },
         {
-          "t": "Andréa",
+          "t": "Andréa?",
           "lemma": "andréa",
           "pos": "name",
           "stress": "ɑ̃dʁea",
@@ -1629,7 +1581,7 @@
           "gram": "plur poss det"
         },
         {
-          "t": "bras",
+          "t": "bras.",
           "lemma": "bras",
           "pos": "noun",
           "stress": "bʁa",
@@ -1683,7 +1635,7 @@
           "gram": "sing poss det"
         },
         {
-          "t": "présence",
+          "t": "présence.",
           "lemma": "présence",
           "pos": "noun",
           "stress": "pʁezɑ̃s",
@@ -1737,7 +1689,7 @@
           "gram": "preposition"
         },
         {
-          "t": "décharge",
+          "t": "décharge.",
           "lemma": "décharge",
           "pos": "noun",
           "stress": "deʃaʁʒ",
@@ -1751,12 +1703,20 @@
       "trans": "What does that mean?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "idiomatic question pron"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "cela",
@@ -1775,7 +1735,7 @@
           "gram": "3rd sing pres"
         },
         {
-          "t": "dire",
+          "t": "dire?",
           "lemma": "dire",
           "pos": "verb",
           "stress": "diʁ",
@@ -1829,7 +1789,7 @@
           "gram": "masc sing poss det"
         },
         {
-          "t": "stress",
+          "t": "stress.",
           "lemma": "stress",
           "pos": "noun",
           "stress": "stʁɛs",
@@ -1843,20 +1803,12 @@
       "trans": "Is that a very good sign?",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "donc",
@@ -1891,7 +1843,7 @@
           "gram": "masc sing adj"
         },
         {
-          "t": "signe",
+          "t": "signe?",
           "lemma": "signe",
           "pos": "noun",
           "stress": "siɲ",
@@ -1921,7 +1873,7 @@
           "gram": "contracted prep+art"
         },
         {
-          "t": "contraire",
+          "t": "contraire,",
           "lemma": "contraire",
           "pos": "noun",
           "stress": "kɔ̃tʁɛʁ",
@@ -1929,20 +1881,12 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "de",
@@ -1953,20 +1897,12 @@
           "gram": "partitive prep"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "angoisse",
+          "t": "l'angoisse.",
           "lemma": "angoisse",
           "pos": "noun",
-          "stress": "ɑ̃ɡwas",
-          "gloss": "anxiety",
-          "gram": "fem sing noun"
+          "stress": "lɑ̃ɡwas",
+          "gloss": "the anxiety",
+          "gram": "l': fem sing def art + angoisse: fem sing noun"
         }
       ]
     },
@@ -1983,20 +1919,12 @@
           "gram": "interrogative adverb"
         },
         {
-          "t": "as",
+          "t": "as-tu",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "2nd sing pres aux"
-        },
-        {
-          "t": "-tu",
-          "lemma": "tu",
-          "pos": "pron",
-          "stress": "ty",
-          "gloss": "you",
-          "gram": "2nd sing subj pron"
+          "stress": "aty",
+          "gloss": "have you",
+          "gram": "inverted interrogative, 2sg"
         },
         {
           "t": "appris",
@@ -2023,7 +1951,7 @@
           "gram": "plur dem det"
         },
         {
-          "t": "théories",
+          "t": "théories?",
           "lemma": "théorie",
           "pos": "noun",
           "stress": "teɔʁi",
@@ -2077,7 +2005,7 @@
           "gram": "masc sing poss det"
         },
         {
-          "t": "bureau",
+          "t": "bureau.",
           "lemma": "bureau",
           "pos": "noun",
           "stress": "byʁo",
@@ -2091,7 +2019,7 @@
       "trans": "Yes, it is great, this book!",
       "words": [
         {
-          "t": "Oui",
+          "t": "Oui,",
           "lemma": "oui",
           "pos": "adv",
           "stress": "wi",
@@ -2131,7 +2059,7 @@
           "gram": "masc sing dem det"
         },
         {
-          "t": "livre",
+          "t": "livre!",
           "lemma": "livre",
           "pos": "noun",
           "stress": "livʁ",
@@ -2185,7 +2113,7 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "attentivement",
+          "t": "attentivement.",
           "lemma": "attentivement",
           "pos": "adv",
           "stress": "atɑ̃tivmɑ̃",
@@ -2231,7 +2159,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "maintenant",
+          "t": "maintenant.",
           "lemma": "maintenant",
           "pos": "adv",
           "stress": "mɛ̃tnɑ̃",
@@ -2253,7 +2181,7 @@
           "gram": "fem sing adj"
         },
         {
-          "t": "nuit",
+          "t": "nuit,",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",
@@ -2285,7 +2213,7 @@
           "gram": "fem sing dem det"
         },
         {
-          "t": "nuit",
+          "t": "nuit.",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",
@@ -2307,7 +2235,7 @@
           "gram": "fem sing adj"
         },
         {
-          "t": "nuit",
+          "t": "nuit,",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",
@@ -2339,7 +2267,7 @@
           "gram": "fem sing dem det"
         },
         {
-          "t": "nuit",
+          "t": "nuit.",
           "lemma": "nuit",
           "pos": "noun",
           "stress": "nɥi",

@@ -7,20 +7,12 @@
       "trans": "I deduce that the Chopard jewelry has arrived. Hello.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "J'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "from it, that",
-          "gram": "adverbial pronoun"
+          "stress": "ʒɑ̃",
+          "gloss": "of it",
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "déduis",
@@ -123,28 +115,28 @@
       "trans": "Andrea Martel, Juliette Binoche's agent.",
       "words": [
         {
-          "t": "Andréa Martel,",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
           "gram": "proper name"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
+          "t": "Martel,",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
+          "gram": "proper name"
         },
         {
-          "t": "agent",
+          "t": "l'agent",
           "lemma": "agent",
           "pos": "noun",
-          "stress": "aʒɑ̃",
-          "gloss": "agent",
-          "gram": "masculine singular"
+          "stress": "laʒɑ̃",
+          "gloss": "the agent",
+          "gram": "le (elided) + agent (masculine singular)"
         },
         {
           "t": "de",
@@ -155,12 +147,20 @@
           "gram": "preposition"
         },
         {
-          "t": "Juliette Binoche.",
-          "lemma": "juliettebinoche",
+          "t": "Juliette",
+          "lemma": "juliette",
           "pos": "name",
-          "stress": "ʒyljɛtbinɔʃ",
-          "gloss": "Juliette Binoche",
-          "gram": "proper name"
+          "stress": "ʒyljɛt",
+          "gloss": "Juliette",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Binoche.",
+          "lemma": "binoche",
+          "pos": "name",
+          "stress": "binɔʃ",
+          "gloss": "Binoche.",
+          "gram": "proper surname"
         }
       ]
     },
@@ -223,20 +223,12 @@
           "gram": "subject pronoun, 2nd plural/polite"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "êtes",
+          "t": "n'êtes",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛt",
-          "gloss": "are",
-          "gram": "present, 2nd plural"
+          "stress": "nɛt",
+          "gloss": "are not",
+          "gram": "ne + êtes: negation + present, 2nd person plural / polite"
         },
         {
           "t": "pas",
@@ -255,12 +247,28 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "garde du corps",
-          "lemma": "garde du corps",
+          "t": "garde",
+          "lemma": "garder",
+          "pos": "verb",
+          "stress": "ɡaʁd",
+          "gloss": "keep",
+          "gram": "imperative, 2nd singular"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "corps",
+          "lemma": "corps",
           "pos": "noun",
-          "stress": "ɡaʁddykɔʁ",
-          "gloss": "bodyguard",
-          "gram": "compound noun, masculine singular"
+          "stress": "kɔʁ",
+          "gloss": "body",
+          "gram": "masculine singular"
         },
         {
           "t": "des",
@@ -393,20 +401,12 @@
           "gram": "proper name"
         },
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -657,12 +657,20 @@
           "gram": "disjunctive pronoun, 2nd plural"
         },
         {
-          "t": "bien sûr.",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         }
       ]
     },
@@ -679,20 +687,12 @@
           "gram": "adverbial phrase"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "compris.",
@@ -815,20 +815,12 @@
       "trans": "I deduce that the Chopard jewelry has arrived. Hello.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "J'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "from it, that",
-          "gram": "adverbial pronoun"
+          "stress": "ʒɑ̃",
+          "gloss": "of it",
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "déduis",
@@ -931,28 +923,28 @@
       "trans": "Andrea Martel, Juliette Binoche's agent.",
       "words": [
         {
-          "t": "Andréa Martel,",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
           "gram": "proper name"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
+          "t": "Martel,",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
+          "gram": "proper name"
         },
         {
-          "t": "agent",
+          "t": "l'agent",
           "lemma": "agent",
           "pos": "noun",
-          "stress": "aʒɑ̃",
-          "gloss": "agent",
-          "gram": "masculine singular"
+          "stress": "laʒɑ̃",
+          "gloss": "the agent",
+          "gram": "le (elided) + agent (masculine singular)"
         },
         {
           "t": "de",
@@ -963,12 +955,20 @@
           "gram": "preposition"
         },
         {
-          "t": "Juliette Binoche.",
-          "lemma": "juliettebinoche",
+          "t": "Juliette",
+          "lemma": "juliette",
           "pos": "name",
-          "stress": "ʒyljɛtbinɔʃ",
-          "gloss": "Juliette Binoche",
-          "gram": "proper name"
+          "stress": "ʒyljɛt",
+          "gloss": "Juliette",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Binoche.",
+          "lemma": "binoche",
+          "pos": "name",
+          "stress": "binɔʃ",
+          "gloss": "Binoche.",
+          "gram": "proper surname"
         }
       ]
     },
@@ -1031,20 +1031,12 @@
           "gram": "subject pronoun, 2nd plural/polite"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "êtes",
+          "t": "n'êtes",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛt",
-          "gloss": "are",
-          "gram": "present, 2nd plural"
+          "stress": "nɛt",
+          "gloss": "are not",
+          "gram": "ne + êtes: negation + present, 2nd person plural / polite"
         },
         {
           "t": "pas",
@@ -1063,12 +1055,28 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "garde du corps",
-          "lemma": "garde du corps",
+          "t": "garde",
+          "lemma": "garder",
+          "pos": "verb",
+          "stress": "ɡaʁd",
+          "gloss": "keep",
+          "gram": "imperative, 2nd singular"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "corps",
+          "lemma": "corps",
           "pos": "noun",
-          "stress": "ɡaʁddykɔʁ",
-          "gloss": "bodyguard",
-          "gram": "compound noun, masculine singular"
+          "stress": "kɔʁ",
+          "gloss": "body",
+          "gram": "masculine singular"
         },
         {
           "t": "des",
@@ -1201,20 +1209,12 @@
           "gram": "proper name"
         },
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1465,12 +1465,20 @@
           "gram": "disjunctive pronoun, 2nd plural"
         },
         {
-          "t": "bien sûr.",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         }
       ]
     },
@@ -1487,20 +1495,12 @@
           "gram": "adverbial phrase"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "compris.",
@@ -1623,20 +1623,12 @@
       "trans": "I deduce that the Chopard jewelry has arrived. Hello.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "J'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "from it, that",
-          "gram": "adverbial pronoun"
+          "stress": "ʒɑ̃",
+          "gloss": "of it",
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "déduis",
@@ -1739,28 +1731,28 @@
       "trans": "Andrea Martel, Juliette Binoche's agent.",
       "words": [
         {
-          "t": "Andréa Martel,",
-          "lemma": "andréamartel",
+          "t": "Andréa",
+          "lemma": "andréa",
           "pos": "name",
-          "stress": "ɑ̃dʁeamaʁtɛl",
-          "gloss": "Andréa Martel",
+          "stress": "ɑ̃dʁea",
+          "gloss": "Andréa",
           "gram": "proper name"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
+          "t": "Martel,",
+          "lemma": "martel",
+          "pos": "name",
+          "stress": "maʁtɛl",
+          "gloss": "Martel (Andréa's surname)",
+          "gram": "proper name"
         },
         {
-          "t": "agent",
+          "t": "l'agent",
           "lemma": "agent",
           "pos": "noun",
-          "stress": "aʒɑ̃",
-          "gloss": "agent",
-          "gram": "masculine singular"
+          "stress": "laʒɑ̃",
+          "gloss": "the agent",
+          "gram": "le (elided) + agent (masculine singular)"
         },
         {
           "t": "de",
@@ -1771,12 +1763,20 @@
           "gram": "preposition"
         },
         {
-          "t": "Juliette Binoche.",
-          "lemma": "juliettebinoche",
+          "t": "Juliette",
+          "lemma": "juliette",
           "pos": "name",
-          "stress": "ʒyljɛtbinɔʃ",
-          "gloss": "Juliette Binoche",
-          "gram": "proper name"
+          "stress": "ʒyljɛt",
+          "gloss": "Juliette",
+          "gram": "proper noun"
+        },
+        {
+          "t": "Binoche.",
+          "lemma": "binoche",
+          "pos": "name",
+          "stress": "binɔʃ",
+          "gloss": "Binoche.",
+          "gram": "proper surname"
         }
       ]
     },
@@ -1839,20 +1839,12 @@
           "gram": "subject pronoun, 2nd plural/polite"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "êtes",
+          "t": "n'êtes",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛt",
-          "gloss": "are",
-          "gram": "present, 2nd plural"
+          "stress": "nɛt",
+          "gloss": "are not",
+          "gram": "ne + êtes: negation + present, 2nd person plural / polite"
         },
         {
           "t": "pas",
@@ -1871,12 +1863,28 @@
           "gram": "definite article, masculine singular"
         },
         {
-          "t": "garde du corps",
-          "lemma": "garde du corps",
+          "t": "garde",
+          "lemma": "garder",
+          "pos": "verb",
+          "stress": "ɡaʁd",
+          "gloss": "keep",
+          "gram": "imperative, 2nd singular"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "corps",
+          "lemma": "corps",
           "pos": "noun",
-          "stress": "ɡaʁddykɔʁ",
-          "gloss": "bodyguard",
-          "gram": "compound noun, masculine singular"
+          "stress": "kɔʁ",
+          "gloss": "body",
+          "gram": "masculine singular"
         },
         {
           "t": "des",
@@ -2009,20 +2017,12 @@
           "gram": "proper name"
         },
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -2273,12 +2273,20 @@
           "gram": "disjunctive pronoun, 2nd plural"
         },
         {
-          "t": "bien sûr.",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr.",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         }
       ]
     },
@@ -2295,20 +2303,12 @@
           "gram": "adverbial phrase"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "compris.",
@@ -6386,6 +6386,228 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "garder": {
+      "examples": [
+        {
+          "text": "Je vous garde.",
+          "trans": "I'm keeping you."
+        },
+        {
+          "text": "Garde la monnaie.",
+          "trans": "Keep the change."
+        },
+        {
+          "text": "On a gardé une grande actrice.",
+          "trans": "We kept a great actress."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je garde",
+              "nous gardons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu gardes",
+              "vous gardez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle garde",
+              "ils/elles gardent"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to keep",
+      "lemma": "garder",
+      "meanings": [
+        {
+          "en": "to keep",
+          "note": "garder un enfant"
+        },
+        {
+          "en": "to look after",
+          "note": "garder un enfant"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai gardé",
+                "nous avons gardé"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as gardé",
+                "vous avez gardé"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a gardé",
+                "ils/elles ont gardé"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je gardais",
+                "nous gardions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu gardais",
+                "vous gardiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle gardait",
+                "ils/elles gardaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je garderai",
+                "nous garderons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu garderas",
+                "vous garderez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle gardera",
+                "ils/elles garderont"
+              ]
+            }
+          ],
+          "title": "Futur"
+        }
+      ],
+      "pos": "verb",
+      "stress": "ɡaʁde",
+      "related": [
+        {
+          "word": "regarder",
+          "gloss": "to look at"
+        },
+        {
+          "word": "gardien",
+          "gloss": "guardian"
+        },
+        {
+          "word": "regard",
+          "gloss": "look"
+        }
+      ]
+    },
+    "corps": {
+      "lemma": "corps",
+      "stress": "kɔʁ",
+      "pos": "noun",
+      "gloss": "body",
+      "gender": "m",
+      "plural": "corps",
+      "meanings": [
+        {
+          "en": "body",
+          "note": "invariable in plural"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "corps",
+              "corpss"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Prendre soin de son corps.",
+          "trans": "To take care of one's body."
+        },
+        {
+          "text": "Je peux te donner plus que mon corps, je peux aussi te donner mon cœur.",
+          "trans": "I can give you more than my body, I can also give you my heart."
+        },
+        {
+          "text": "Ton corps t'appartient. On ne possède pas quelqu'un.",
+          "trans": "Your body belongs to you. You do not own someone."
+        }
+      ],
+      "related": [
+        {
+          "word": "le/la corps",
+          "gloss": "the body (with article)"
         }
       ]
     }

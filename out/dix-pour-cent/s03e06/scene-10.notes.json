@@ -147,20 +147,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "to me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "as",
+          "t": "m'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "present, 2nd singular"
+          "stress": "ma",
+          "gloss": "have ... me",
+          "gram": "me (elided m', me) + as: auxiliary, present, 2nd person singular"
         },
         {
           "t": "rien",
@@ -185,12 +177,20 @@
       "trans": "Because your help never helps me.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁskə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "ton",
@@ -217,20 +217,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "aide",
+          "t": "m'aide",
           "lemma": "aider",
           "pos": "verb",
-          "stress": "ɛd",
-          "gloss": "helps",
-          "gram": "present, 3rd singular"
+          "stress": "mɛd",
+          "gloss": "helps me",
+          "gram": "object pronoun me + present 3rd singular"
         },
         {
           "t": "jamais.",
@@ -279,20 +271,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -435,20 +419,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of, as",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "actrice.",
+          "t": "d'actrice.",
           "lemma": "actrice",
           "pos": "noun",
-          "stress": "aktʁis",
-          "gloss": "actress",
-          "gram": "feminine singular"
+          "stress": "daktʁis",
+          "gloss": "acting",
+          "gram": "feminine singular noun with elided preposition"
         }
       ]
     },
@@ -465,20 +441,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -651,20 +619,12 @@
       "trans": "I lost the woman of my life.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "perdu",
@@ -823,20 +783,12 @@
           "gram": "preposition"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "avoir",
+          "t": "t'avoir",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
+          "stress": "tavwaʁ",
           "gloss": "having",
-          "gram": "auxiliary infinitive"
+          "gram": "object pronoun te elided + auxiliary infinitive"
         },
         {
           "t": "dérangée.",
@@ -869,12 +821,20 @@
           "gram": "proper name"
         },
         {
-          "t": "qu'est-ce qui",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛski",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun phrase"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -1055,20 +1015,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "to me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "as",
+          "t": "m'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "present, 2nd singular"
+          "stress": "ma",
+          "gloss": "have ... me",
+          "gram": "me (elided m', me) + as: auxiliary, present, 2nd person singular"
         },
         {
           "t": "rien",
@@ -1093,12 +1045,20 @@
       "trans": "Because your help never helps me.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁskə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "ton",
@@ -1125,20 +1085,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "aide",
+          "t": "m'aide",
           "lemma": "aider",
           "pos": "verb",
-          "stress": "ɛd",
-          "gloss": "helps",
-          "gram": "present, 3rd singular"
+          "stress": "mɛd",
+          "gloss": "helps me",
+          "gram": "object pronoun me + present 3rd singular"
         },
         {
           "t": "jamais.",
@@ -1187,20 +1139,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1343,20 +1287,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of, as",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "actrice.",
+          "t": "d'actrice.",
           "lemma": "actrice",
           "pos": "noun",
-          "stress": "aktʁis",
-          "gloss": "actress",
-          "gram": "feminine singular"
+          "stress": "daktʁis",
+          "gloss": "acting",
+          "gram": "feminine singular noun with elided preposition"
         }
       ]
     },
@@ -1373,20 +1309,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -1559,20 +1487,12 @@
       "trans": "I lost the woman of my life.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "perdu",
@@ -1731,20 +1651,12 @@
           "gram": "preposition"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "avoir",
+          "t": "t'avoir",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
+          "stress": "tavwaʁ",
           "gloss": "having",
-          "gram": "auxiliary infinitive"
+          "gram": "object pronoun te elided + auxiliary infinitive"
         },
         {
           "t": "dérangée.",
@@ -1777,12 +1689,20 @@
           "gram": "proper name"
         },
         {
-          "t": "qu'est-ce qui",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛski",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun phrase"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -1963,20 +1883,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "to me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "as",
+          "t": "m'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "present, 2nd singular"
+          "stress": "ma",
+          "gloss": "have ... me",
+          "gram": "me (elided m', me) + as: auxiliary, present, 2nd person singular"
         },
         {
           "t": "rien",
@@ -2001,12 +1913,20 @@
       "trans": "Because your help never helps me.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁskə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "ton",
@@ -2033,20 +1953,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "aide",
+          "t": "m'aide",
           "lemma": "aider",
           "pos": "verb",
-          "stress": "ɛd",
-          "gloss": "helps",
-          "gram": "present, 3rd singular"
+          "stress": "mɛd",
+          "gloss": "helps me",
+          "gram": "object pronoun me + present 3rd singular"
         },
         {
           "t": "jamais.",
@@ -2095,20 +2007,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -2251,20 +2155,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of, as",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "actrice.",
+          "t": "d'actrice.",
           "lemma": "actrice",
           "pos": "noun",
-          "stress": "aktʁis",
-          "gloss": "actress",
-          "gram": "feminine singular"
+          "stress": "daktʁis",
+          "gloss": "acting",
+          "gram": "feminine singular noun with elided preposition"
         }
       ]
     },
@@ -2281,20 +2177,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -2467,20 +2355,12 @@
       "trans": "I lost the woman of my life.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "perdu",
@@ -2639,20 +2519,12 @@
           "gram": "preposition"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "avoir",
+          "t": "t'avoir",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
+          "stress": "tavwaʁ",
           "gloss": "having",
-          "gram": "auxiliary infinitive"
+          "gram": "object pronoun te elided + auxiliary infinitive"
         },
         {
           "t": "dérangée.",
@@ -2685,12 +2557,20 @@
           "gram": "proper name"
         },
         {
-          "t": "qu'est-ce qui",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛski",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun phrase"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -2747,12 +2627,20 @@
           "gram": "proper name"
         },
         {
-          "t": "qu'est-ce qui",
+          "t": "qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛski",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun phrase"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",

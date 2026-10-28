@@ -39,12 +39,28 @@
           "gram": "past participle"
         },
         {
-          "t": "comme des fous,",
-          "lemma": "comme des fous",
-          "pos": "adv",
-          "stress": "kɔmdefu",
-          "gloss": "like crazy",
-          "gram": "idiomatic adverbial phrase"
+          "t": "comme",
+          "lemma": "comme",
+          "pos": "prep",
+          "stress": "kɔm",
+          "gloss": "like",
+          "gram": "preposition"
+        },
+        {
+          "t": "des",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "de",
+          "gloss": "some",
+          "gram": "indefinite article, plural"
+        },
+        {
+          "t": "fous,",
+          "lemma": "fou",
+          "pos": "adj",
+          "stress": "fu",
+          "gloss": "crazy",
+          "gram": "adjective, masculine plural"
         },
         {
           "t": "tu",
@@ -69,36 +85,20 @@
       "trans": "I love the poster, it is so beautiful.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "adore",
+          "t": "J'adore",
           "lemma": "adorer",
           "pos": "verb",
-          "stress": "adɔʁ",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "ʒadɔʁ",
+          "gloss": "I love, adore",
+          "gram": "pronoun je elided + present 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "affiche,",
+          "t": "l'affiche,",
           "lemma": "affiche",
           "pos": "noun",
-          "stress": "afiʃ",
-          "gloss": "poster",
-          "gram": "feminine singular"
+          "stress": "lafiʃ",
+          "gloss": "the poster",
+          "gram": "l': definite article, elided + affiche,: feminine singular"
         },
         {
           "t": "elle",
@@ -147,12 +147,20 @@
           "gram": "interjection / masculine noun"
         },
         {
-          "t": "les gars!",
-          "lemma": "les gars",
+          "t": "les",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "le",
+          "gloss": "the",
+          "gram": "definite article, plural"
+        },
+        {
+          "t": "gars!",
+          "lemma": "gars",
           "pos": "noun",
-          "stress": "leɡa",
-          "gloss": "guys",
-          "gram": "colloquial masculine plural noun"
+          "stress": "ɡɑ",
+          "gloss": "guy",
+          "gram": "masculine singular noun"
         },
         {
           "t": "Vous",
@@ -339,12 +347,20 @@
       "trans": "What is going on? Are you alright?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛski",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative subject pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -555,20 +571,12 @@
           "gram": "masculine singular (avoir besoin de = to need)"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "un",
+          "t": "d'un",
           "lemma": "un",
           "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "stress": "dœ̃",
+          "gloss": "of a",
+          "gram": "de (elided d', of) + un (a, masculine singular)"
         },
         {
           "t": "médecin!",
@@ -601,28 +609,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "accouche",
+          "t": "n'accouche",
           "lemma": "accoucher",
           "pos": "verb",
-          "stress": "akuʃ",
-          "gloss": "am giving birth",
-          "gram": "present, 1st singular"
+          "stress": "nakuʃ",
+          "gloss": "not am giving birth",
+          "gram": "n': negative particle, elided + accouche: present, 1st singular"
         },
         {
-          "t": "pas du tout!",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -693,20 +709,12 @@
       "trans": "I love my work, I do not want to stop.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "J'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛm",
+          "gloss": "I like",
+          "gram": "je (elided j', I) + aime: present, 1st person singular"
         },
         {
           "t": "mon",
@@ -757,20 +765,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "myself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "arrêter.",
+          "t": "m'arrêter.",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛte",
-          "gloss": "stop",
-          "gram": "infinitive"
+          "stress": "maʁɛte",
+          "gloss": "myself stop",
+          "gram": "m': reflexive pronoun, elided + arrêter.: infinitive"
         }
       ]
     },
@@ -811,12 +811,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "un peu,",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu,",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         },
         {
           "t": "Andréa.",
@@ -873,12 +881,28 @@
           "gram": "adverb"
         },
         {
-          "t": "il faut que",
+          "t": "il",
           "lemma": "falloir",
           "pos": "verb",
-          "stress": "ilfokə",
-          "gloss": "it is necessary that",
-          "gram": "impersonal verb + que"
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject pronoun"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is necessary",
+          "gram": "present, 3sg impersonal"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "je",
@@ -943,12 +967,28 @@
           "gram": "past participle"
         },
         {
-          "t": "comme des fous,",
-          "lemma": "comme des fous",
-          "pos": "adv",
-          "stress": "kɔmdefu",
-          "gloss": "like crazy",
-          "gram": "idiomatic adverbial phrase"
+          "t": "comme",
+          "lemma": "comme",
+          "pos": "prep",
+          "stress": "kɔm",
+          "gloss": "like",
+          "gram": "preposition"
+        },
+        {
+          "t": "des",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "de",
+          "gloss": "some",
+          "gram": "indefinite article, plural"
+        },
+        {
+          "t": "fous,",
+          "lemma": "fou",
+          "pos": "adj",
+          "stress": "fu",
+          "gloss": "crazy",
+          "gram": "adjective, masculine plural"
         },
         {
           "t": "tu",
@@ -973,36 +1013,20 @@
       "trans": "I love the poster, it is so beautiful.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "adore",
+          "t": "J'adore",
           "lemma": "adorer",
           "pos": "verb",
-          "stress": "adɔʁ",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "ʒadɔʁ",
+          "gloss": "I love, adore",
+          "gram": "pronoun je elided + present 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "affiche,",
+          "t": "l'affiche,",
           "lemma": "affiche",
           "pos": "noun",
-          "stress": "afiʃ",
-          "gloss": "poster",
-          "gram": "feminine singular"
+          "stress": "lafiʃ",
+          "gloss": "the poster",
+          "gram": "l': definite article, elided + affiche,: feminine singular"
         },
         {
           "t": "elle",
@@ -1051,12 +1075,20 @@
           "gram": "interjection / masculine noun"
         },
         {
-          "t": "les gars!",
-          "lemma": "les gars",
+          "t": "les",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "le",
+          "gloss": "the",
+          "gram": "definite article, plural"
+        },
+        {
+          "t": "gars!",
+          "lemma": "gars",
           "pos": "noun",
-          "stress": "leɡa",
-          "gloss": "guys",
-          "gram": "colloquial masculine plural noun"
+          "stress": "ɡɑ",
+          "gloss": "guy",
+          "gram": "masculine singular noun"
         },
         {
           "t": "Vous",
@@ -1243,12 +1275,20 @@
       "trans": "What is going on? Are you alright?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛski",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative subject pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -1459,20 +1499,12 @@
           "gram": "masculine singular (avoir besoin de = to need)"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "un",
+          "t": "d'un",
           "lemma": "un",
           "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "stress": "dœ̃",
+          "gloss": "of a",
+          "gram": "de (elided d', of) + un (a, masculine singular)"
         },
         {
           "t": "médecin!",
@@ -1505,28 +1537,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "accouche",
+          "t": "n'accouche",
           "lemma": "accoucher",
           "pos": "verb",
-          "stress": "akuʃ",
-          "gloss": "am giving birth",
-          "gram": "present, 1st singular"
+          "stress": "nakuʃ",
+          "gloss": "not am giving birth",
+          "gram": "n': negative particle, elided + accouche: present, 1st singular"
         },
         {
-          "t": "pas du tout!",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1597,20 +1637,12 @@
       "trans": "I love my work, I do not want to stop.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "J'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛm",
+          "gloss": "I like",
+          "gram": "je (elided j', I) + aime: present, 1st person singular"
         },
         {
           "t": "mon",
@@ -1661,20 +1693,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "myself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "arrêter.",
+          "t": "m'arrêter.",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛte",
-          "gloss": "stop",
-          "gram": "infinitive"
+          "stress": "maʁɛte",
+          "gloss": "myself stop",
+          "gram": "m': reflexive pronoun, elided + arrêter.: infinitive"
         }
       ]
     },
@@ -1715,12 +1739,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "un peu,",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu,",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         },
         {
           "t": "Andréa.",
@@ -1777,12 +1809,28 @@
           "gram": "adverb"
         },
         {
-          "t": "il faut que",
+          "t": "il",
           "lemma": "falloir",
           "pos": "verb",
-          "stress": "ilfokə",
-          "gloss": "it is necessary that",
-          "gram": "impersonal verb + que"
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject pronoun"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is necessary",
+          "gram": "present, 3sg impersonal"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "je",
@@ -1847,12 +1895,28 @@
           "gram": "past participle"
         },
         {
-          "t": "comme des fous,",
-          "lemma": "comme des fous",
-          "pos": "adv",
-          "stress": "kɔmdefu",
-          "gloss": "like crazy",
-          "gram": "idiomatic adverbial phrase"
+          "t": "comme",
+          "lemma": "comme",
+          "pos": "prep",
+          "stress": "kɔm",
+          "gloss": "like",
+          "gram": "preposition"
+        },
+        {
+          "t": "des",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "de",
+          "gloss": "some",
+          "gram": "indefinite article, plural"
+        },
+        {
+          "t": "fous,",
+          "lemma": "fou",
+          "pos": "adj",
+          "stress": "fu",
+          "gloss": "crazy",
+          "gram": "adjective, masculine plural"
         },
         {
           "t": "tu",
@@ -1877,36 +1941,20 @@
       "trans": "I love the poster, it is so beautiful.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "adore",
+          "t": "J'adore",
           "lemma": "adorer",
           "pos": "verb",
-          "stress": "adɔʁ",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "ʒadɔʁ",
+          "gloss": "I love, adore",
+          "gram": "pronoun je elided + present 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "affiche,",
+          "t": "l'affiche,",
           "lemma": "affiche",
           "pos": "noun",
-          "stress": "afiʃ",
-          "gloss": "poster",
-          "gram": "feminine singular"
+          "stress": "lafiʃ",
+          "gloss": "the poster",
+          "gram": "l': definite article, elided + affiche,: feminine singular"
         },
         {
           "t": "elle",
@@ -1955,12 +2003,20 @@
           "gram": "interjection / masculine noun"
         },
         {
-          "t": "les gars!",
-          "lemma": "les gars",
+          "t": "les",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "le",
+          "gloss": "the",
+          "gram": "definite article, plural"
+        },
+        {
+          "t": "gars!",
+          "lemma": "gars",
           "pos": "noun",
-          "stress": "leɡa",
-          "gloss": "guys",
-          "gram": "colloquial masculine plural noun"
+          "stress": "ɡɑ",
+          "gloss": "guy",
+          "gram": "masculine singular noun"
         },
         {
           "t": "Vous",
@@ -2147,12 +2203,20 @@
       "trans": "What is going on? Are you alright?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛski",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative subject pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
           "t": "se",
@@ -2363,20 +2427,12 @@
           "gram": "masculine singular (avoir besoin de = to need)"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "un",
+          "t": "d'un",
           "lemma": "un",
           "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "stress": "dœ̃",
+          "gloss": "of a",
+          "gram": "de (elided d', of) + un (a, masculine singular)"
         },
         {
           "t": "médecin!",
@@ -2409,28 +2465,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "accouche",
+          "t": "n'accouche",
           "lemma": "accoucher",
           "pos": "verb",
-          "stress": "akuʃ",
-          "gloss": "am giving birth",
-          "gram": "present, 1st singular"
+          "stress": "nakuʃ",
+          "gloss": "not am giving birth",
+          "gram": "n': negative particle, elided + accouche: present, 1st singular"
         },
         {
-          "t": "pas du tout!",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout!",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -2501,20 +2565,12 @@
       "trans": "I love my work, I do not want to stop.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "J'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "ʒɛm",
+          "gloss": "I like",
+          "gram": "je (elided j', I) + aime: present, 1st person singular"
         },
         {
           "t": "mon",
@@ -2565,20 +2621,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "myself",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "arrêter.",
+          "t": "m'arrêter.",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛte",
-          "gloss": "stop",
-          "gram": "infinitive"
+          "stress": "maʁɛte",
+          "gloss": "myself stop",
+          "gram": "m': reflexive pronoun, elided + arrêter.: infinitive"
         }
       ]
     },
@@ -2619,12 +2667,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "un peu,",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu,",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         },
         {
           "t": "Andréa.",
@@ -2681,12 +2737,28 @@
           "gram": "adverb"
         },
         {
-          "t": "il faut que",
+          "t": "il",
           "lemma": "falloir",
           "pos": "verb",
-          "stress": "ilfokə",
-          "gloss": "it is necessary that",
-          "gram": "impersonal verb + que"
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject pronoun"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is necessary",
+          "gram": "present, 3sg impersonal"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "je",
@@ -2759,12 +2831,28 @@
           "gram": "adverb"
         },
         {
-          "t": "il faut que",
+          "t": "il",
           "lemma": "falloir",
           "pos": "verb",
-          "stress": "ilfokə",
-          "gloss": "it is necessary that",
-          "gram": "impersonal verb + que"
+          "stress": "il",
+          "gloss": "it",
+          "gram": "impersonal subject pronoun"
+        },
+        {
+          "t": "faut",
+          "lemma": "falloir",
+          "pos": "verb",
+          "stress": "fo",
+          "gloss": "is necessary",
+          "gram": "present, 3sg impersonal"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "je",
@@ -8123,6 +8211,240 @@
           "gloss": "verb family relative (to be)"
         }
       ]
+    },
+    "comme": {
+      "examples": [
+        {
+          "text": "C'est comme un rêve.",
+          "trans": "It's like a dream."
+        },
+        {
+          "text": "Comme tu veux.",
+          "trans": "As you like."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
+        }
+      ],
+      "forms": null,
+      "gloss": "like, as",
+      "lemma": "comme",
+      "meanings": [
+        {
+          "en": "like",
+          "note": "comparison: comme un rêve"
+        },
+        {
+          "en": "as, since",
+          "note": "conjunction"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "kɔm",
+      "related": [
+        {
+          "word": "recommencer",
+          "gloss": "to start again"
+        },
+        {
+          "word": "recommandé",
+          "gloss": "registered letter"
+        }
+      ]
+    },
+    "fou": {
+      "examples": [
+        {
+          "text": "C'est fou!",
+          "trans": "It's crazy!"
+        },
+        {
+          "text": "Elle est folle de joie.",
+          "trans": "She's wild with joy."
+        },
+        {
+          "text": "Je sais, c'est fou!",
+          "trans": "I know, it's crazy!"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "fou",
+              "folle"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "fous",
+              "folles"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "crazy",
+      "lemma": "fou",
+      "meanings": [
+        {
+          "en": "crazy, mad",
+          "note": "c'est fou! = it's crazy!"
+        },
+        {
+          "en": "huge, incredible",
+          "note": "informal"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "fu",
+      "related": [
+        {
+          "word": "fouement",
+          "gloss": "in a crazy manner (adv.)"
+        }
+      ]
+    },
+    "gars": {
+      "lemma": "gars",
+      "stress": "ɡɑ",
+      "pos": "noun",
+      "gloss": "guy, lad, fellow",
+      "meanings": [
+        {
+          "en": "guy, lad, boy",
+          "note": "colloquial; singular and plural have the same form"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le gars",
+              "les gars"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le gars du site de rencontres?",
+          "trans": "The guy from the dating site?"
+        },
+        {
+          "text": "C'est un bon gars.",
+          "trans": "He is a good guy."
+        },
+        {
+          "text": "C'est un cauchemar, les gars.",
+          "trans": "It is a nightmare, guys."
+        }
+      ],
+      "gender": "m",
+      "plural": "gars",
+      "related": [
+        {
+          "word": "le/la gars",
+          "gloss": "the guy (with article)"
+        }
+      ]
+    },
+    "peu": {
+      "examples": [
+        {
+          "text": "Un peu de café?",
+          "trans": "A little coffee?"
+        },
+        {
+          "text": "Je suis un peu fatigué.",
+          "trans": "I'm a bit tired."
+        },
+        {
+          "text": "Oui, Cécile est un peu plus âgée.",
+          "trans": "Yes, Cécile is a little older."
+        }
+      ],
+      "forms": null,
+      "gloss": "little",
+      "lemma": "peu",
+      "meanings": [
+        {
+          "en": "un peu = a little, a bit",
+          "note": "peu de temps = little time"
+        },
+        {
+          "en": "not much",
+          "note": "peu de temps = little time"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "pø",
+      "related": [
+        {
+          "word": "très peu",
+          "gloss": "related adverbial expression (little)"
+        }
+      ]
+    },
+    "que": {
+      "examples": [
+        {
+          "text": "Dis-lui que je ne peux pas venir.",
+          "trans": "Tell her I can't come."
+        },
+        {
+          "text": "Je n'ai que deux places.",
+          "trans": "I've only got two tickets."
+        },
+        {
+          "text": "Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir.",
+          "trans": "Call Clémentine. Tell her I can't come tonight."
+        }
+      ],
+      "forms": null,
+      "gloss": "that; than; only (ne...que)",
+      "lemma": "que",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "joins two parts: dis-lui que..."
+        },
+        {
+          "en": "which, that",
+          "note": "relative: tout ce que"
+        },
+        {
+          "en": "only",
+          "note": "with ne: ne... que"
+        },
+        {
+          "en": "since",
+          "note": "ça fait trois semaines que..."
+        }
+      ],
+      "moreForms": [],
+      "pos": "conj",
+      "stress": "kə",
+      "related": []
     }
   }
 }

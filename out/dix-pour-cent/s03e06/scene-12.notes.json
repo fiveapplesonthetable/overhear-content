@@ -61,20 +61,12 @@
       "trans": "I am too cold, my lips are locking up.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "trop",
@@ -171,12 +163,28 @@
           "gram": "adverb of time"
         },
         {
-          "t": "s'il vous plaît!",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "polite expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît!",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -225,12 +233,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "du tout.",
-          "lemma": "du tout",
-          "pos": "adv",
-          "stress": "dytu",
-          "gloss": "at all",
-          "gram": "adverbial phrase"
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "tout.",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -349,20 +365,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôpital.",
+          "t": "l'hôpital.",
           "lemma": "hôpital",
           "pos": "noun",
-          "stress": "opital",
-          "gloss": "hospital",
-          "gram": "masculine singular"
+          "stress": "lɔpital",
+          "gloss": "the hospital",
+          "gram": "le (elided l') + masculine singular noun"
         }
       ]
     },
@@ -535,20 +543,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "écrit!",
@@ -683,20 +683,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "histoire.",
+          "t": "l'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "story",
-          "gram": "feminine singular"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         }
       ]
     },
@@ -945,20 +937,12 @@
       "trans": "I am too cold, my lips are locking up.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "trop",
@@ -1055,12 +1039,28 @@
           "gram": "adverb of time"
         },
         {
-          "t": "s'il vous plaît!",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "polite expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît!",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -1109,12 +1109,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "du tout.",
-          "lemma": "du tout",
-          "pos": "adv",
-          "stress": "dytu",
-          "gloss": "at all",
-          "gram": "adverbial phrase"
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "tout.",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -1233,20 +1241,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôpital.",
+          "t": "l'hôpital.",
           "lemma": "hôpital",
           "pos": "noun",
-          "stress": "opital",
-          "gloss": "hospital",
-          "gram": "masculine singular"
+          "stress": "lɔpital",
+          "gloss": "the hospital",
+          "gram": "le (elided l') + masculine singular noun"
         }
       ]
     },
@@ -1419,20 +1419,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "écrit!",
@@ -1567,20 +1559,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "histoire.",
+          "t": "l'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "story",
-          "gram": "feminine singular"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         }
       ]
     },
@@ -1829,20 +1813,12 @@
       "trans": "I am too cold, my lips are locking up.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "trop",
@@ -1939,12 +1915,28 @@
           "gram": "adverb of time"
         },
         {
-          "t": "s'il vous plaît!",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "polite expression"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît!",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -1993,12 +1985,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "du tout.",
-          "lemma": "du tout",
-          "pos": "adv",
-          "stress": "dytu",
-          "gloss": "at all",
-          "gram": "adverbial phrase"
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "tout.",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -2117,20 +2117,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "hôpital.",
+          "t": "l'hôpital.",
           "lemma": "hôpital",
           "pos": "noun",
-          "stress": "opital",
-          "gloss": "hospital",
-          "gram": "masculine singular"
+          "stress": "lɔpital",
+          "gloss": "the hospital",
+          "gram": "le (elided l') + masculine singular noun"
         }
       ]
     },
@@ -2303,20 +2295,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "écrit!",
@@ -2451,20 +2435,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "histoire.",
+          "t": "l'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "story",
-          "gram": "feminine singular"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         }
       ]
     },
@@ -7869,6 +7845,62 @@
           "gloss": "verb family relative (to be)"
         }
       ]
+    },
+    "du": {
+      "examples": [
+        {
+          "text": "Du Botox chaque année.",
+          "trans": "Botox every year."
+        },
+        {
+          "text": "Je veux du café.",
+          "trans": "I want some coffee."
+        },
+        {
+          "text": "C'est du compost.",
+          "trans": "It's compost."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "du (de l')",
+              "de la (de l')"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "des",
+              "des"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "some; of the",
+      "lemma": "du",
+      "meanings": [
+        {
+          "en": "some (partitive, masculine)",
+          "note": "du Botox, du pain"
+        },
+        {
+          "en": "of the (de + le)",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "det",
+      "stress": "dy",
+      "related": []
     }
   }
 }

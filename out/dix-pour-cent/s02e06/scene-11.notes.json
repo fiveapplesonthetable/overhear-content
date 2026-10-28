@@ -39,20 +39,12 @@
           "gram": "interjection / masculine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "for",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "having",
-          "gram": "auxiliary verb, infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "venus.",
@@ -219,12 +211,28 @@
           "gram": "indefinite article, feminine singular"
         },
         {
-          "t": "salle de cinéma.",
-          "lemma": "salle de cinéma",
+          "t": "salle",
+          "lemma": "salle",
           "pos": "noun",
-          "stress": "saldəsinema",
-          "gloss": "movie theater",
-          "gram": "compound noun, feminine singular"
+          "stress": "sal",
+          "gloss": "room, gym",
+          "gram": "feminine singular; 'salle de sport' = gym"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "cinéma.",
+          "lemma": "cinéma",
+          "pos": "noun",
+          "stress": "sinema",
+          "gloss": "cinema, movies",
+          "gram": "masculine singular"
         }
       ]
     },
@@ -233,20 +241,12 @@
       "trans": "I have your earpiece. Do you want to try it?",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "votre",
@@ -281,20 +281,12 @@
           "gram": "present, 2nd plural"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "essayer?",
+          "t": "l'essayer?",
           "lemma": "essayer",
           "pos": "verb",
-          "stress": "eseje",
-          "gloss": "to try",
-          "gram": "infinitive"
+          "stress": "leseje",
+          "gloss": "it to try",
+          "gram": "l': direct object pronoun, elided + essayer?: infinitive"
         }
       ]
     },
@@ -435,20 +427,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "subordinating conjunction, elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "se",
@@ -481,12 +465,28 @@
           "gram": "adverb"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -503,12 +503,20 @@
           "gram": "imperative, 2nd plural"
         },
         {
-          "t": "droit devant",
-          "lemma": "droit devant",
-          "pos": "adv",
-          "stress": "dʁwadəvɑ̃",
-          "gloss": "straight ahead",
-          "gram": "adverbial phrase"
+          "t": "droit",
+          "lemma": "droit",
+          "pos": "noun",
+          "stress": "dʁwa",
+          "gloss": "right",
+          "gram": "masculine singular in avoir le droit"
+        },
+        {
+          "t": "devant",
+          "lemma": "devant",
+          "pos": "prep",
+          "stress": "dəvɑ̃",
+          "gloss": "in front of",
+          "gram": "preposition"
         },
         {
           "t": "vous,",
@@ -519,12 +527,20 @@
           "gram": "disjunctive pronoun"
         },
         {
-          "t": "comme si",
-          "lemma": "comme si",
+          "t": "comme",
+          "lemma": "comme",
+          "pos": "prep",
+          "stress": "kɔm",
+          "gloss": "like",
+          "gram": "preposition"
+        },
+        {
+          "t": "si",
+          "lemma": "si",
           "pos": "conj",
-          "stress": "kɔmsi",
-          "gloss": "as if",
-          "gram": "conjunction phrase"
+          "stress": "si",
+          "gloss": "if",
+          "gram": "conditional conjunction"
         },
         {
           "t": "je",
@@ -535,20 +551,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "étais",
+          "t": "n'étais",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "were",
-          "gram": "imperfect, 1st singular"
+          "stress": "netɛ",
+          "gloss": "were (not)",
+          "gram": "ne (elided n') + étais: imperfect, 2nd person singular"
         },
         {
           "t": "pas",
@@ -947,12 +955,28 @@
           "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "pas en arrière.",
-          "lemma": "pas en arrière",
-          "pos": "noun",
-          "stress": "paɑ̃naʁjɛʁ",
-          "gloss": "step back",
-          "gram": "idiomatic phrase, masculine singular"
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "adv",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negative adverb"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "arrière.",
+          "lemma": "arrière",
+          "pos": "adv",
+          "stress": "aʁjɛʁ",
+          "gloss": "backward, back",
+          "gram": "adverb of direction in 'en arrière'"
         }
       ]
     },
@@ -961,12 +985,20 @@
       "trans": "Very good, it is operational.",
       "words": [
         {
-          "t": "Très bien,",
-          "lemma": "très bien",
+          "t": "Très",
+          "lemma": "très",
           "pos": "adv",
-          "stress": "tʁɛbjɛ̃",
-          "gloss": "very good, very well",
-          "gram": "adverbial phrase"
+          "stress": "tʁɛ",
+          "gloss": "very",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "bien,",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well",
+          "gram": "adverb"
         },
         {
           "t": "elle",
@@ -1031,20 +1063,12 @@
           "gram": "interjection / masculine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "for",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "having",
-          "gram": "auxiliary verb, infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "venus.",
@@ -1211,12 +1235,28 @@
           "gram": "indefinite article, feminine singular"
         },
         {
-          "t": "salle de cinéma.",
-          "lemma": "salle de cinéma",
+          "t": "salle",
+          "lemma": "salle",
           "pos": "noun",
-          "stress": "saldəsinema",
-          "gloss": "movie theater",
-          "gram": "compound noun, feminine singular"
+          "stress": "sal",
+          "gloss": "room, gym",
+          "gram": "feminine singular; 'salle de sport' = gym"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "cinéma.",
+          "lemma": "cinéma",
+          "pos": "noun",
+          "stress": "sinema",
+          "gloss": "cinema, movies",
+          "gram": "masculine singular"
         }
       ]
     },
@@ -1225,20 +1265,12 @@
       "trans": "I have your earpiece. Do you want to try it?",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "votre",
@@ -1273,20 +1305,12 @@
           "gram": "present, 2nd plural"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "essayer?",
+          "t": "l'essayer?",
           "lemma": "essayer",
           "pos": "verb",
-          "stress": "eseje",
-          "gloss": "to try",
-          "gram": "infinitive"
+          "stress": "leseje",
+          "gloss": "it to try",
+          "gram": "l': direct object pronoun, elided + essayer?: infinitive"
         }
       ]
     },
@@ -1427,20 +1451,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "subordinating conjunction, elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "se",
@@ -1473,12 +1489,28 @@
           "gram": "adverb"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -1495,12 +1527,20 @@
           "gram": "imperative, 2nd plural"
         },
         {
-          "t": "droit devant",
-          "lemma": "droit devant",
-          "pos": "adv",
-          "stress": "dʁwadəvɑ̃",
-          "gloss": "straight ahead",
-          "gram": "adverbial phrase"
+          "t": "droit",
+          "lemma": "droit",
+          "pos": "noun",
+          "stress": "dʁwa",
+          "gloss": "right",
+          "gram": "masculine singular in avoir le droit"
+        },
+        {
+          "t": "devant",
+          "lemma": "devant",
+          "pos": "prep",
+          "stress": "dəvɑ̃",
+          "gloss": "in front of",
+          "gram": "preposition"
         },
         {
           "t": "vous,",
@@ -1511,12 +1551,20 @@
           "gram": "disjunctive pronoun"
         },
         {
-          "t": "comme si",
-          "lemma": "comme si",
+          "t": "comme",
+          "lemma": "comme",
+          "pos": "prep",
+          "stress": "kɔm",
+          "gloss": "like",
+          "gram": "preposition"
+        },
+        {
+          "t": "si",
+          "lemma": "si",
           "pos": "conj",
-          "stress": "kɔmsi",
-          "gloss": "as if",
-          "gram": "conjunction phrase"
+          "stress": "si",
+          "gloss": "if",
+          "gram": "conditional conjunction"
         },
         {
           "t": "je",
@@ -1527,20 +1575,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "étais",
+          "t": "n'étais",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "were",
-          "gram": "imperfect, 1st singular"
+          "stress": "netɛ",
+          "gloss": "were (not)",
+          "gram": "ne (elided n') + étais: imperfect, 2nd person singular"
         },
         {
           "t": "pas",
@@ -1939,12 +1979,28 @@
           "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "pas en arrière.",
-          "lemma": "pas en arrière",
-          "pos": "noun",
-          "stress": "paɑ̃naʁjɛʁ",
-          "gloss": "step back",
-          "gram": "idiomatic phrase, masculine singular"
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "adv",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negative adverb"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "arrière.",
+          "lemma": "arrière",
+          "pos": "adv",
+          "stress": "aʁjɛʁ",
+          "gloss": "backward, back",
+          "gram": "adverb of direction in 'en arrière'"
         }
       ]
     },
@@ -1953,12 +2009,20 @@
       "trans": "Very good, it is operational.",
       "words": [
         {
-          "t": "Très bien,",
-          "lemma": "très bien",
+          "t": "Très",
+          "lemma": "très",
           "pos": "adv",
-          "stress": "tʁɛbjɛ̃",
-          "gloss": "very good, very well",
-          "gram": "adverbial phrase"
+          "stress": "tʁɛ",
+          "gloss": "very",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "bien,",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well",
+          "gram": "adverb"
         },
         {
           "t": "elle",
@@ -2023,20 +2087,12 @@
           "gram": "interjection / masculine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "for",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "être",
+          "t": "d'être",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "having",
-          "gram": "auxiliary verb, infinitive"
+          "stress": "dɛtʁ",
+          "gloss": "to be",
+          "gram": "infinitive verb with elided preposition"
         },
         {
           "t": "venus.",
@@ -2203,12 +2259,28 @@
           "gram": "indefinite article, feminine singular"
         },
         {
-          "t": "salle de cinéma.",
-          "lemma": "salle de cinéma",
+          "t": "salle",
+          "lemma": "salle",
           "pos": "noun",
-          "stress": "saldəsinema",
-          "gloss": "movie theater",
-          "gram": "compound noun, feminine singular"
+          "stress": "sal",
+          "gloss": "room, gym",
+          "gram": "feminine singular; 'salle de sport' = gym"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "cinéma.",
+          "lemma": "cinéma",
+          "pos": "noun",
+          "stress": "sinema",
+          "gloss": "cinema, movies",
+          "gram": "masculine singular"
         }
       ]
     },
@@ -2217,20 +2289,12 @@
       "trans": "I have your earpiece. Do you want to try it?",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "votre",
@@ -2265,20 +2329,12 @@
           "gram": "present, 2nd plural"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "it",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "essayer?",
+          "t": "l'essayer?",
           "lemma": "essayer",
           "pos": "verb",
-          "stress": "eseje",
-          "gloss": "to try",
-          "gram": "infinitive"
+          "stress": "leseje",
+          "gloss": "it to try",
+          "gram": "l': direct object pronoun, elided + essayer?: infinitive"
         }
       ]
     },
@@ -2419,20 +2475,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "subordinating conjunction, elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "se",
@@ -2465,12 +2513,28 @@
           "gram": "adverb"
         },
         {
-          "t": "pas du tout.",
+          "t": "pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padytu",
-          "gloss": "not at all",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         }
       ]
     },
@@ -2487,12 +2551,20 @@
           "gram": "imperative, 2nd plural"
         },
         {
-          "t": "droit devant",
-          "lemma": "droit devant",
-          "pos": "adv",
-          "stress": "dʁwadəvɑ̃",
-          "gloss": "straight ahead",
-          "gram": "adverbial phrase"
+          "t": "droit",
+          "lemma": "droit",
+          "pos": "noun",
+          "stress": "dʁwa",
+          "gloss": "right",
+          "gram": "masculine singular in avoir le droit"
+        },
+        {
+          "t": "devant",
+          "lemma": "devant",
+          "pos": "prep",
+          "stress": "dəvɑ̃",
+          "gloss": "in front of",
+          "gram": "preposition"
         },
         {
           "t": "vous,",
@@ -2503,12 +2575,20 @@
           "gram": "disjunctive pronoun"
         },
         {
-          "t": "comme si",
-          "lemma": "comme si",
+          "t": "comme",
+          "lemma": "comme",
+          "pos": "prep",
+          "stress": "kɔm",
+          "gloss": "like",
+          "gram": "preposition"
+        },
+        {
+          "t": "si",
+          "lemma": "si",
           "pos": "conj",
-          "stress": "kɔmsi",
-          "gloss": "as if",
-          "gram": "conjunction phrase"
+          "stress": "si",
+          "gloss": "if",
+          "gram": "conditional conjunction"
         },
         {
           "t": "je",
@@ -2519,20 +2599,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "étais",
+          "t": "n'étais",
           "lemma": "être",
           "pos": "verb",
-          "stress": "etɛ",
-          "gloss": "were",
-          "gram": "imperfect, 1st singular"
+          "stress": "netɛ",
+          "gloss": "were (not)",
+          "gram": "ne (elided n') + étais: imperfect, 2nd person singular"
         },
         {
           "t": "pas",
@@ -2931,12 +3003,28 @@
           "gram": "indefinite article, masculine singular"
         },
         {
-          "t": "pas en arrière.",
-          "lemma": "pas en arrière",
-          "pos": "noun",
-          "stress": "paɑ̃naʁjɛʁ",
-          "gloss": "step back",
-          "gram": "idiomatic phrase, masculine singular"
+          "t": "pas",
+          "lemma": "pas",
+          "pos": "adv",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "negative adverb"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "arrière.",
+          "lemma": "arrière",
+          "pos": "adv",
+          "stress": "aʁjɛʁ",
+          "gloss": "backward, back",
+          "gram": "adverb of direction in 'en arrière'"
         }
       ]
     },
@@ -2945,12 +3033,20 @@
       "trans": "Very good, it is operational.",
       "words": [
         {
-          "t": "Très bien,",
-          "lemma": "très bien",
+          "t": "Très",
+          "lemma": "très",
           "pos": "adv",
-          "stress": "tʁɛbjɛ̃",
-          "gloss": "very good, very well",
-          "gram": "adverbial phrase"
+          "stress": "tʁɛ",
+          "gloss": "very",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "bien,",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well",
+          "gram": "adverb"
         },
         {
           "t": "elle",
@@ -2983,12 +3079,20 @@
       "trans": "Very good, it is operational.",
       "words": [
         {
-          "t": "Très bien,",
-          "lemma": "très bien",
+          "t": "Très",
+          "lemma": "très",
           "pos": "adv",
-          "stress": "tʁɛbjɛ̃",
-          "gloss": "very good, very well",
-          "gram": "adverbial phrase"
+          "stress": "tʁɛ",
+          "gloss": "very",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "bien,",
+          "lemma": "bien",
+          "pos": "adv",
+          "stress": "bjɛ̃",
+          "gloss": "well",
+          "gram": "adverb"
         },
         {
           "t": "elle",
@@ -8546,6 +8650,371 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "salle": {
+      "examples": [
+        {
+          "text": "Voilà la salle de presse.",
+          "trans": "Here's the press room."
+        },
+        {
+          "text": "La salle est pleine.",
+          "trans": "The room is full."
+        },
+        {
+          "text": "Et voilà la salle de presse. On appelle ça la boutique.",
+          "trans": "And here's the press room. We call it the shop."
+        }
+      ],
+      "forms": {
+        "title": "Singular & plural",
+        "rows": [
+          {
+            "cells": [
+              "Singular",
+              "la salle"
+            ]
+          },
+          {
+            "cells": [
+              "Plural",
+              "les salles"
+            ]
+          }
+        ],
+        "columns": [
+          "Form",
+          "French"
+        ]
+      },
+      "gender": "f",
+      "gloss": "room, hall",
+      "lemma": "salle",
+      "meanings": [
+        {
+          "en": "room",
+          "note": "a large or shared room: salle de presse, salle de réunion"
+        }
+      ],
+      "moreForms": [],
+      "plural": "salles",
+      "pos": "noun",
+      "stress": "sal",
+      "related": [
+        {
+          "word": "salle de cinéma",
+          "gloss": "movie theater"
+        }
+      ]
+    },
+    "cinéma": {
+      "examples": [
+        {
+          "text": "Elle travaille dans le cinéma.",
+          "trans": "She works in film."
+        },
+        {
+          "text": "On va au cinéma?",
+          "trans": "Shall we go to the cinema?"
+        },
+        {
+          "text": "J'ai toujours adoré le cinéma.",
+          "trans": "I've always loved films."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le cinéma",
+              "les cinémas"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "m",
+      "gloss": "cinema, film",
+      "lemma": "cinéma",
+      "meanings": [
+        {
+          "en": "the film industry",
+          "note": "dans le cinéma = in film"
+        },
+        {
+          "en": "cinema (the building)",
+          "note": "aller au cinéma"
+        }
+      ],
+      "moreForms": [],
+      "plural": "cinémas",
+      "pos": "noun",
+      "stress": "sinema",
+      "related": [
+        {
+          "word": "le/la cinéma",
+          "gloss": "the cinema (with article)"
+        }
+      ]
+    },
+    "droit": {
+      "examples": [
+        {
+          "text": "Tiens-toi droite.",
+          "trans": "Stand up straight."
+        },
+        {
+          "text": "Tournez à droite.",
+          "trans": "Turn right."
+        },
+        {
+          "text": "Tiens-toi droite!",
+          "trans": "Stand up straight!"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "droit",
+              "droite"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "droits",
+              "droites"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "straight, upright; right",
+      "lemma": "droit",
+      "meanings": [
+        {
+          "en": "straight, upright",
+          "note": "se tenir droit(e) = to stand up straight"
+        },
+        {
+          "en": "right (side)",
+          "note": "la main droite"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "dʁwa",
+      "related": [
+        {
+          "word": "droite",
+          "gloss": "right"
+        },
+        {
+          "word": "droit devant",
+          "gloss": "straight ahead"
+        }
+      ]
+    },
+    "devant": {
+      "examples": [
+        {
+          "text": "Baissez les yeux devant la duchesse!",
+          "trans": "Lower your eyes before the duchess!"
+        },
+        {
+          "text": "Je t'attends devant le cinéma.",
+          "trans": "I'll wait for you in front of the cinema."
+        },
+        {
+          "text": "Tu l'as embrassée devant tout le monde!",
+          "trans": "You kissed her in front of everyone!"
+        }
+      ],
+      "forms": null,
+      "gloss": "in front of, before",
+      "lemma": "devant",
+      "meanings": [
+        {
+          "en": "in front of, before (a place or person)",
+          "note": "devant la porte = in front of the door"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "dəvɑ̃",
+      "related": []
+    },
+    "en": {
+      "examples": [
+        {
+          "text": "Je pars en vacances.",
+          "trans": "I'm going on holiday."
+        },
+        {
+          "text": "J'en ai assez!",
+          "trans": "I've had enough!"
+        },
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        }
+      ],
+      "forms": null,
+      "gloss": "in; (pronoun) of it, some",
+      "lemma": "en",
+      "meanings": [
+        {
+          "en": "in",
+          "note": "preposition: en vacances, en huit ans"
+        },
+        {
+          "en": "of it, of them",
+          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "ɑ̃",
+      "related": []
+    },
+    "arrière": {
+      "lemma": "arrière",
+      "stress": "aʁjɛʁ",
+      "pos": "adv",
+      "gloss": "backward, back",
+      "meanings": [
+        {
+          "en": "back, backward (direction)",
+          "note": "en arrière = back / backward"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Je reviens un peu en arrière.",
+          "trans": "I am going back a little."
+        },
+        {
+          "text": "Regarde en arrière.",
+          "trans": "Look behind you."
+        },
+        {
+          "text": "Un pas en arrière vers l'avant!",
+          "trans": "A step backward toward the future!"
+        }
+      ],
+      "related": [
+        {
+          "word": "arriver",
+          "gloss": "to arrive"
+        },
+        {
+          "word": "arrivée",
+          "gloss": "arrival"
+        }
+      ]
+    },
+    "très": {
+      "examples": [
+        {
+          "text": "Très bien.",
+          "trans": "Very well."
+        },
+        {
+          "text": "C'est très important.",
+          "trans": "It's very important."
+        },
+        {
+          "text": "Très bien. Et vous? Un thé?",
+          "trans": "Very well. And you? Tea?"
+        }
+      ],
+      "forms": null,
+      "gloss": "very",
+      "lemma": "très",
+      "meanings": [
+        {
+          "en": "very",
+          "note": "Everyday French adv meaning 'very'."
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "tʁɛ",
+      "related": [
+        {
+          "word": "très bien",
+          "gloss": "very well"
+        }
+      ]
+    },
+    "bien": {
+      "examples": [
+        {
+          "text": "Très bien!",
+          "trans": "Very good!"
+        },
+        {
+          "text": "C'est pour ton bien.",
+          "trans": "It's for your own good."
+        },
+        {
+          "text": "Très bien.",
+          "trans": "Very well."
+        }
+      ],
+      "forms": null,
+      "gloss": "well; good",
+      "lemma": "bien",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "as a masculine noun: pour le bien de = for the good of"
+        },
+        {
+          "en": "of course (bien sûr)",
+          "note": ""
+        },
+        {
+          "en": "will you (tu veux bien?)",
+          "note": "softens a request"
+        },
+        {
+          "en": "the good, benefit (le bien)",
+          "note": "as a masculine noun: pour le bien de = for the good of"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "bjɛ̃",
+      "related": [
+        {
+          "word": "bien sûr",
+          "gloss": "of course"
+        },
+        {
+          "word": "bientôt",
+          "gloss": "soon"
+        },
+        {
+          "word": "bienvenue",
+          "gloss": "welcome"
         }
       ]
     }

@@ -107,20 +107,12 @@
       "trans": "I signed on for a different movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "signé",
@@ -185,20 +177,12 @@
           "gram": "interjection"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "le",
@@ -309,20 +293,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "in it",
-          "gram": "pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "crois",
@@ -347,12 +323,20 @@
       "trans": "What do you not believe?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "vous",
@@ -393,20 +377,12 @@
       "trans": "It is a beautiful love story!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -433,20 +409,12 @@
           "gram": "noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "amour!",
+          "t": "d'amour!",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "noun"
+          "stress": "damuʁ",
+          "gloss": "of love ('scène d'amour' = love scene)",
+          "gram": "de (elided d', of) + amour"
         }
       ]
     },
@@ -619,20 +587,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "determiner"
-        },
-        {
-          "t": "idée!",
+          "t": "l'idée!",
           "lemma": "idée",
           "pos": "noun",
-          "stress": "ide",
-          "gloss": "idea",
-          "gram": "noun"
+          "stress": "lide",
+          "gloss": "the idea",
+          "gram": "la (elided l') + feminine singular noun"
         }
       ]
     },
@@ -657,20 +617,12 @@
           "gram": "fixed expression"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "très",
@@ -757,28 +709,28 @@
           "gram": "interjection"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course / certainly",
-          "gram": "fixed expression"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "that / it",
-          "gram": "pronoun"
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -911,20 +863,12 @@
       "trans": "I signed on for a different movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "signé",
@@ -989,20 +933,12 @@
           "gram": "interjection"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "le",
@@ -1113,20 +1049,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "in it",
-          "gram": "pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "crois",
@@ -1151,12 +1079,20 @@
       "trans": "What do you not believe?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "vous",
@@ -1197,20 +1133,12 @@
       "trans": "It is a beautiful love story!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -1237,20 +1165,12 @@
           "gram": "noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "amour!",
+          "t": "d'amour!",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "noun"
+          "stress": "damuʁ",
+          "gloss": "of love ('scène d'amour' = love scene)",
+          "gram": "de (elided d', of) + amour"
         }
       ]
     },
@@ -1423,20 +1343,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "determiner"
-        },
-        {
-          "t": "idée!",
+          "t": "l'idée!",
           "lemma": "idée",
           "pos": "noun",
-          "stress": "ide",
-          "gloss": "idea",
-          "gram": "noun"
+          "stress": "lide",
+          "gloss": "the idea",
+          "gram": "la (elided l') + feminine singular noun"
         }
       ]
     },
@@ -1461,20 +1373,12 @@
           "gram": "fixed expression"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "très",
@@ -1561,28 +1465,28 @@
           "gram": "interjection"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course / certainly",
-          "gram": "fixed expression"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "that / it",
-          "gram": "pronoun"
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -1715,20 +1619,12 @@
       "trans": "I signed on for a different movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "signé",
@@ -1793,20 +1689,12 @@
           "gram": "interjection"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "le",
@@ -1917,20 +1805,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
-          "gloss": "in it",
-          "gram": "pronoun"
+          "stress": "ni",
+          "gloss": "there",
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "crois",
@@ -1955,12 +1835,20 @@
       "trans": "What do you not believe?",
       "words": [
         {
-          "t": "Qu'est-ce que",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce que",
-          "pos": "pron",
-          "stress": "kɛskə",
-          "gloss": "what",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "kɛs",
+          "gloss": "what is it",
+          "gram": "question opener"
+        },
+        {
+          "t": "que",
+          "lemma": "qu'est-ce que",
+          "pos": "phrase",
+          "stress": "kə",
+          "gloss": "what (part 2)",
+          "gram": "question phrase qu'est-ce que, second part"
         },
         {
           "t": "vous",
@@ -2001,20 +1889,12 @@
       "trans": "It is a beautiful love story!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -2041,20 +1921,12 @@
           "gram": "noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "amour!",
+          "t": "d'amour!",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "noun"
+          "stress": "damuʁ",
+          "gloss": "of love ('scène d'amour' = love scene)",
+          "gram": "de (elided d', of) + amour"
         }
       ]
     },
@@ -2227,20 +2099,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "determiner"
-        },
-        {
-          "t": "idée!",
+          "t": "l'idée!",
           "lemma": "idée",
           "pos": "noun",
-          "stress": "ide",
-          "gloss": "idea",
-          "gram": "noun"
+          "stress": "lide",
+          "gloss": "the idea",
+          "gram": "la (elided l') + feminine singular noun"
         }
       ]
     },
@@ -2265,20 +2129,12 @@
           "gram": "fixed expression"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "très",
@@ -2365,28 +2221,28 @@
           "gram": "interjection"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course / certainly",
-          "gram": "fixed expression"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "that / it",
-          "gram": "pronoun"
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",

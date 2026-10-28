@@ -301,12 +301,20 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "ce que",
-          "lemma": "ce que",
-          "pos": "pron",
-          "stress": "səkə",
-          "gloss": "what",
-          "gram": "relative pronoun"
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "vous",
@@ -677,20 +685,12 @@
       "trans": "That is a very interesting proposal, Mathias.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -1033,12 +1033,20 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "ce que",
-          "lemma": "ce que",
-          "pos": "pron",
-          "stress": "səkə",
-          "gloss": "what",
-          "gram": "relative pronoun"
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "vous",
@@ -1409,20 +1417,12 @@
       "trans": "That is a very interesting proposal, Mathias.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -1765,12 +1765,20 @@
           "gram": "present, 1st singular"
         },
         {
-          "t": "ce que",
-          "lemma": "ce que",
-          "pos": "pron",
-          "stress": "səkə",
-          "gloss": "what",
-          "gram": "relative pronoun"
+          "t": "ce",
+          "lemma": "ce",
+          "pos": "det",
+          "stress": "sə",
+          "gloss": "this",
+          "gram": "demonstrative determiner, masculine singular"
+        },
+        {
+          "t": "que",
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that",
+          "gram": "subordinating conjunction"
         },
         {
           "t": "vous",
@@ -2141,20 +2149,12 @@
       "trans": "That is a very interesting proposal, Mathias.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -2203,20 +2203,12 @@
       "trans": "That is a very interesting proposal, Mathias.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -6927,6 +6919,47 @@
           "gloss": "verb family relative (to be)"
         }
       ]
+    },
+    "que": {
+      "examples": [
+        {
+          "text": "Dis-lui que je ne peux pas venir.",
+          "trans": "Tell her I can't come."
+        },
+        {
+          "text": "Je n'ai que deux places.",
+          "trans": "I've only got two tickets."
+        },
+        {
+          "text": "Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir.",
+          "trans": "Call Clémentine. Tell her I can't come tonight."
+        }
+      ],
+      "forms": null,
+      "gloss": "that; than; only (ne...que)",
+      "lemma": "que",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "joins two parts: dis-lui que..."
+        },
+        {
+          "en": "which, that",
+          "note": "relative: tout ce que"
+        },
+        {
+          "en": "only",
+          "note": "with ne: ne... que"
+        },
+        {
+          "en": "since",
+          "note": "ça fait trois semaines que..."
+        }
+      ],
+      "moreForms": [],
+      "pos": "conj",
+      "stress": "kə",
+      "related": []
     }
   }
 }

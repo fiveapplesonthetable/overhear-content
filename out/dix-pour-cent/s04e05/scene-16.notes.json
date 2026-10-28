@@ -7,20 +7,12 @@
       "trans": "I did what you asked me.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present auxiliary, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -55,20 +47,12 @@
           "gram": "subject pronoun, 2nd plural"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "avez",
+          "t": "m'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ave",
-          "gloss": "have",
-          "gram": "present auxiliary, 2nd plural"
+          "stress": "mave",
+          "gloss": "have me",
+          "gram": "m' + avez (me + avoir)"
         },
         {
           "t": "demandé.",
@@ -85,20 +69,12 @@
       "trans": "It is good.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bien.",
@@ -339,12 +315,28 @@
       "trans": "See you later.",
       "words": [
         {
-          "t": "À plus tard.",
-          "lemma": "à plus tard",
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "plus",
+          "lemma": "plus",
           "pos": "adv",
-          "stress": "aplytaʁ",
-          "gloss": "see you later",
-          "gram": "adverbial phrase"
+          "stress": "ply",
+          "gloss": "more",
+          "gram": "comparative adverb"
+        },
+        {
+          "t": "tard.",
+          "lemma": "tard",
+          "pos": "adv",
+          "stress": "taʁ",
+          "gloss": "late",
+          "gram": "adverb of time"
         }
       ]
     },
@@ -361,12 +353,36 @@
           "gram": "adverb"
         },
         {
-          "t": "à tout à l'heure.",
-          "lemma": "à tout à l'heure",
-          "pos": "adv",
-          "stress": "atutalœʁ",
-          "gloss": "see you later",
-          "gram": "adverbial phrase"
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure.",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -397,12 +413,20 @@
       "trans": "Goodbye.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection phrase"
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         }
       ]
     },
@@ -411,20 +435,12 @@
       "trans": "I did what you asked me.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present auxiliary, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -459,20 +475,12 @@
           "gram": "subject pronoun, 2nd plural"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "avez",
+          "t": "m'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ave",
-          "gloss": "have",
-          "gram": "present auxiliary, 2nd plural"
+          "stress": "mave",
+          "gloss": "have me",
+          "gram": "m' + avez (me + avoir)"
         },
         {
           "t": "demandé.",
@@ -489,20 +497,12 @@
       "trans": "It is good.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bien.",
@@ -743,12 +743,28 @@
       "trans": "See you later.",
       "words": [
         {
-          "t": "À plus tard.",
-          "lemma": "à plus tard",
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "plus",
+          "lemma": "plus",
           "pos": "adv",
-          "stress": "aplytaʁ",
-          "gloss": "see you later",
-          "gram": "adverbial phrase"
+          "stress": "ply",
+          "gloss": "more",
+          "gram": "comparative adverb"
+        },
+        {
+          "t": "tard.",
+          "lemma": "tard",
+          "pos": "adv",
+          "stress": "taʁ",
+          "gloss": "late",
+          "gram": "adverb of time"
         }
       ]
     },
@@ -765,12 +781,36 @@
           "gram": "adverb"
         },
         {
-          "t": "à tout à l'heure.",
-          "lemma": "à tout à l'heure",
-          "pos": "adv",
-          "stress": "atutalœʁ",
-          "gloss": "see you later",
-          "gram": "adverbial phrase"
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure.",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -801,12 +841,20 @@
       "trans": "Goodbye.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection phrase"
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         }
       ]
     },
@@ -815,20 +863,12 @@
       "trans": "I did what you asked me.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present auxiliary, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "fait",
@@ -863,20 +903,12 @@
           "gram": "subject pronoun, 2nd plural"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun, elided"
-        },
-        {
-          "t": "avez",
+          "t": "m'avez",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "ave",
-          "gloss": "have",
-          "gram": "present auxiliary, 2nd plural"
+          "stress": "mave",
+          "gloss": "have me",
+          "gram": "m' + avez (me + avoir)"
         },
         {
           "t": "demandé.",
@@ -893,20 +925,12 @@
       "trans": "It is good.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bien.",
@@ -1147,12 +1171,28 @@
       "trans": "See you later.",
       "words": [
         {
-          "t": "À plus tard.",
-          "lemma": "à plus tard",
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "plus",
+          "lemma": "plus",
           "pos": "adv",
-          "stress": "aplytaʁ",
-          "gloss": "see you later",
-          "gram": "adverbial phrase"
+          "stress": "ply",
+          "gloss": "more",
+          "gram": "comparative adverb"
+        },
+        {
+          "t": "tard.",
+          "lemma": "tard",
+          "pos": "adv",
+          "stress": "taʁ",
+          "gloss": "late",
+          "gram": "adverb of time"
         }
       ]
     },
@@ -1169,12 +1209,36 @@
           "gram": "adverb"
         },
         {
-          "t": "à tout à l'heure.",
-          "lemma": "à tout à l'heure",
-          "pos": "adv",
-          "stress": "atutalœʁ",
-          "gloss": "see you later",
-          "gram": "adverbial phrase"
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure.",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -1205,12 +1269,20 @@
       "trans": "Goodbye.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection phrase"
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         }
       ]
     },
@@ -1219,12 +1291,20 @@
       "trans": "Goodbye.",
       "words": [
         {
-          "t": "Au revoir.",
+          "t": "Au",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "oʁvwaʁ",
-          "gloss": "goodbye",
-          "gram": "interjection phrase"
+          "stress": "o",
+          "gloss": "good-",
+          "gram": "first word of au revoir"
+        },
+        {
+          "t": "revoir.",
+          "lemma": "au revoir",
+          "pos": "phrase",
+          "stress": "ʁəvwaʁ",
+          "gloss": "-bye",
+          "gram": "second word of au revoir"
         }
       ]
     }
@@ -3765,6 +3845,277 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "à": {
+      "examples": [
+        {
+          "text": "Je suis à Paris.",
+          "trans": "I'm in Paris."
+        },
+        {
+          "text": "À quatorze heures.",
+          "trans": "At two pm."
+        },
+        {
+          "text": "On est au Westin.",
+          "trans": "We're at the Westin."
+        }
+      ],
+      "forms": null,
+      "gloss": "at, in, to",
+      "lemma": "à",
+      "meanings": [
+        {
+          "en": "at, in",
+          "note": "place: à Paris, à mon cours"
+        },
+        {
+          "en": "at",
+          "note": "time: à midi"
+        },
+        {
+          "en": "au = à + le, aux = à + les",
+          "note": "contractions"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "a",
+      "related": []
+    },
+    "plus": {
+      "examples": [
+        {
+          "text": "À plus!",
+          "trans": "See you!"
+        },
+        {
+          "text": "Je veux plus de café.",
+          "trans": "I want more coffee."
+        },
+        {
+          "text": "Je n'en peux plus.",
+          "trans": "I can't take any more."
+        }
+      ],
+      "forms": null,
+      "gloss": "more",
+      "lemma": "plus",
+      "meanings": [
+        {
+          "en": "more",
+          "note": "pronounced plys when it means 'more' at the end"
+        },
+        {
+          "en": "à plus = see you later",
+          "note": "informal goodbye"
+        },
+        {
+          "en": "ne... plus = no longer",
+          "note": "pronounced ply"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "register": "à plus: informal",
+      "stress": "ply",
+      "related": [
+        {
+          "word": "plusieurs",
+          "gloss": "several"
+        }
+      ]
+    },
+    "tard": {
+      "examples": [
+        {
+          "text": "À plus tard!",
+          "trans": "See you later!"
+        },
+        {
+          "text": "Il est tard.",
+          "trans": "It's late."
+        },
+        {
+          "text": "Je rentre tard.",
+          "trans": "I'm getting home late."
+        }
+      ],
+      "forms": null,
+      "gloss": "late",
+      "lemma": "tard",
+      "meanings": [
+        {
+          "en": "late",
+          "note": "il est tard = it's late"
+        },
+        {
+          "en": "à plus tard = see you later",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "taʁ",
+      "related": [
+        {
+          "word": "retard",
+          "gloss": "delay"
+        },
+        {
+          "word": "retardement",
+          "gloss": "time delay"
+        },
+        {
+          "word": "tardif",
+          "gloss": "late"
+        }
+      ]
+    },
+    "tout": {
+      "examples": [
+        {
+          "text": "Merci à tous.",
+          "trans": "Thank you, everyone."
+        },
+        {
+          "text": "Oui à tout.",
+          "trans": "Yes to everything."
+        },
+        {
+          "text": "Ça ne va pas du tout.",
+          "trans": "It's not going at all."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "tout",
+              "toute"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "tous",
+              "toutes"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "all, everything; everyone",
+      "lemma": "tout",
+      "meanings": [
+        {
+          "en": "everything",
+          "note": "oui à tout = yes to everything"
+        },
+        {
+          "en": "all, everyone",
+          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+        },
+        {
+          "en": "at all",
+          "note": "pas du tout"
+        },
+        {
+          "en": "all, the whole",
+          "note": "before a noun: tout le monde = everyone"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "tu",
+      "related": [
+        {
+          "word": "tout le monde",
+          "gloss": "everybody"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
+    },
+    "heure": {
+      "examples": [
+        {
+          "text": "À tout à l'heure!",
+          "trans": "See you later!"
+        },
+        {
+          "text": "Il est quelle heure?",
+          "trans": "What time is it?"
+        },
+        {
+          "text": "Dans une heure.",
+          "trans": "In an hour."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'heure",
+              "les heures"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "f",
+      "gloss": "hour; time",
+      "lemma": "heure",
+      "meanings": [
+        {
+          "en": "hour",
+          "note": "quelle heure est-il? = what time is it?"
+        },
+        {
+          "en": "time (o'clock)",
+          "note": "quelle heure est-il? = what time is it?"
+        },
+        {
+          "en": "later today",
+          "note": "à tout à l'heure = see you later"
+        }
+      ],
+      "moreForms": [],
+      "plural": "heures",
+      "pos": "noun",
+      "stress": "œʁ",
+      "related": [
+        {
+          "word": "heurter",
+          "gloss": "to hit"
+        },
+        {
+          "word": "heureux",
+          "gloss": "happy"
+        },
+        {
+          "word": "heureusement",
+          "gloss": "fortunately"
         }
       ]
     }

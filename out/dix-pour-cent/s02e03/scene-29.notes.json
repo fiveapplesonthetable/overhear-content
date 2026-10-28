@@ -457,20 +457,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "casté,",
@@ -489,20 +481,12 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "him",
-          "gram": "direct object pronoun 3sg elided"
-        },
-        {
-          "t": "as",
+          "t": "l'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 2sg"
+          "stress": "la",
+          "gloss": "have ... it",
+          "gram": "le (elided l', it) + as: auxiliary, present, 2nd person singular"
         },
         {
           "t": "convaincu.",
@@ -527,20 +511,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -667,20 +643,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "conjunction elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we / one",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "en",
@@ -721,20 +689,12 @@
           "gram": "proper name"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "Gabriel",
@@ -905,20 +865,12 @@
           "gram": "subject pronoun"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "embarque",
+          "t": "m'embarque",
           "lemma": "embarquer",
           "pos": "verb",
-          "stress": "ɑ̃baʁk",
-          "gloss": "takes in",
-          "gram": "present 3sg"
+          "stress": "mɑ̃baʁk",
+          "gloss": "me takes in",
+          "gram": "m': direct object pronoun 1sg elided + embarque: present 3sg"
         },
         {
           "t": "aussi?",
@@ -973,12 +925,28 @@
       "trans": "Not at all. You were cast in an Audiard movie.",
       "words": [
         {
-          "t": "Pas du tout.",
+          "t": "Pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padutu",
-          "gloss": "not at all",
-          "gram": "fixed adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         },
         {
           "t": "Vous",
@@ -1037,20 +1005,12 @@
           "gram": "masculine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "Audiard.",
+          "t": "d'Audiard.",
           "lemma": "audiard",
           "pos": "name",
           "stress": null,
-          "gloss": "Audiard",
-          "gram": "proper name"
+          "gloss": "of Audiard",
+          "gram": "d': preposition elided + Audiard.: proper name"
         }
       ]
     },
@@ -1509,20 +1469,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "casté,",
@@ -1541,20 +1493,12 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "him",
-          "gram": "direct object pronoun 3sg elided"
-        },
-        {
-          "t": "as",
+          "t": "l'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 2sg"
+          "stress": "la",
+          "gloss": "have ... it",
+          "gram": "le (elided l', it) + as: auxiliary, present, 2nd person singular"
         },
         {
           "t": "convaincu.",
@@ -1579,20 +1523,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1719,20 +1655,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "conjunction elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we / one",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "en",
@@ -1773,20 +1701,12 @@
           "gram": "proper name"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "Gabriel",
@@ -1957,20 +1877,12 @@
           "gram": "subject pronoun"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "embarque",
+          "t": "m'embarque",
           "lemma": "embarquer",
           "pos": "verb",
-          "stress": "ɑ̃baʁk",
-          "gloss": "takes in",
-          "gram": "present 3sg"
+          "stress": "mɑ̃baʁk",
+          "gloss": "me takes in",
+          "gram": "m': direct object pronoun 1sg elided + embarque: present 3sg"
         },
         {
           "t": "aussi?",
@@ -2025,12 +1937,28 @@
       "trans": "Not at all. You were cast in an Audiard movie.",
       "words": [
         {
-          "t": "Pas du tout.",
+          "t": "Pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padutu",
-          "gloss": "not at all",
-          "gram": "fixed adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         },
         {
           "t": "Vous",
@@ -2089,20 +2017,12 @@
           "gram": "masculine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "Audiard.",
+          "t": "d'Audiard.",
           "lemma": "audiard",
           "pos": "name",
           "stress": null,
-          "gloss": "Audiard",
-          "gram": "proper name"
+          "gloss": "of Audiard",
+          "gram": "d': preposition elided + Audiard.: proper name"
         }
       ]
     },
@@ -2561,20 +2481,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "casté,",
@@ -2593,20 +2505,12 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "him",
-          "gram": "direct object pronoun 3sg elided"
-        },
-        {
-          "t": "as",
+          "t": "l'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 2sg"
+          "stress": "la",
+          "gloss": "have ... it",
+          "gram": "le (elided l', it) + as: auxiliary, present, 2nd person singular"
         },
         {
           "t": "convaincu.",
@@ -2631,20 +2535,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -2771,20 +2667,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
           "pos": "conj",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "conjunction elided"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we / one",
-          "gram": "indefinite subject pronoun"
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "en",
@@ -2825,20 +2713,12 @@
           "gram": "proper name"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "Gabriel",
@@ -3009,20 +2889,12 @@
           "gram": "subject pronoun"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "embarque",
+          "t": "m'embarque",
           "lemma": "embarquer",
           "pos": "verb",
-          "stress": "ɑ̃baʁk",
-          "gloss": "takes in",
-          "gram": "present 3sg"
+          "stress": "mɑ̃baʁk",
+          "gloss": "me takes in",
+          "gram": "m': direct object pronoun 1sg elided + embarque: present 3sg"
         },
         {
           "t": "aussi?",
@@ -3077,12 +2949,28 @@
       "trans": "Not at all. You were cast in an Audiard movie.",
       "words": [
         {
-          "t": "Pas du tout.",
+          "t": "Pas",
           "lemma": "pas du tout",
-          "pos": "adv",
-          "stress": "padutu",
-          "gloss": "not at all",
-          "gram": "fixed adverbial phrase"
+          "pos": "phrase",
+          "stress": "pa",
+          "gloss": "not",
+          "gram": "pas du tout = not at all, first part"
+        },
+        {
+          "t": "du",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "dy",
+          "gloss": "(at)",
+          "gram": "pas du tout, second part (de + le)"
+        },
+        {
+          "t": "tout.",
+          "lemma": "pas du tout",
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all",
+          "gram": "pas du tout, last part"
         },
         {
           "t": "Vous",
@@ -3141,20 +3029,12 @@
           "gram": "masculine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "Audiard.",
+          "t": "d'Audiard.",
           "lemma": "audiard",
           "pos": "name",
           "stress": null,
-          "gloss": "Audiard",
-          "gram": "proper name"
+          "gloss": "of Audiard",
+          "gram": "d': preposition elided + Audiard.: proper name"
         }
       ]
     },
@@ -3219,20 +3099,12 @@
           "gram": "masculine noun"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
-        },
-        {
-          "t": "Audiard.",
+          "t": "d'Audiard.",
           "lemma": "audiard",
           "pos": "name",
           "stress": null,
-          "gloss": "Audiard",
-          "gram": "proper name"
+          "gloss": "of Audiard",
+          "gram": "d': preposition elided + Audiard.: proper name"
         }
       ]
     }

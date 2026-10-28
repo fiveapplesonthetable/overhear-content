@@ -101,20 +101,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -155,20 +147,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun 1sg elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "dit",
@@ -217,20 +201,12 @@
       "trans": "I searched but there was nothing.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "cherché",
@@ -257,20 +233,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "avait",
@@ -459,20 +427,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'il",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "which",
-          "gram": "relative pronoun elided"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject pronoun"
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
         },
         {
           "t": "y",
@@ -521,28 +481,36 @@
       "trans": "In any case, it is too late now.",
       "words": [
         {
-          "t": "De toute façon,",
-          "lemma": "de toute façon",
-          "pos": "adv",
-          "stress": "dətutfasɔ̃",
-          "gloss": "in any case",
-          "gram": "adverbial phrase"
+          "t": "De",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
+          "t": "toute",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tut",
+          "gloss": "all",
+          "gram": "indefinite determiner, feminine singular"
         },
         {
-          "t": "est",
+          "t": "façon,",
+          "lemma": "façon",
+          "pos": "noun",
+          "stress": "fasɔ̃",
+          "gloss": "way, manner",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -591,20 +559,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -653,20 +613,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "him",
-          "gram": "direct object pronoun 3sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "pas",
@@ -699,28 +651,36 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun 1sg elided"
-        },
-        {
-          "t": "as",
+          "t": "m'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 2sg"
+          "stress": "ma",
+          "gloss": "have ... me",
+          "gram": "me (elided m', me) + as: auxiliary, present, 2nd person singular"
         },
         {
-          "t": "sauvé la mise!",
-          "lemma": "sauver la mise",
-          "pos": "phrase",
-          "stress": "sovɛlamiz",
-          "gloss": "saved the day",
-          "gram": "idiomatic verbal phrase"
+          "t": "sauvé",
+          "lemma": "sauver",
+          "pos": "verb",
+          "stress": "sove",
+          "gloss": "saved",
+          "gram": "past participle, masculine singular"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "mise!",
+          "lemma": "mise",
+          "pos": "noun",
+          "stress": "miz",
+          "gloss": "putting",
+          "gram": "noun"
         }
       ]
     },
@@ -753,12 +713,28 @@
           "gram": "imperative 2pl with pronoun"
         },
         {
-          "t": "s'il vous plaît.",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "polite phrase"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -875,12 +851,28 @@
       "trans": "Everyone has fear. He must make this movie.",
       "words": [
         {
-          "t": "Tout le monde",
+          "t": "Tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tulmɔ̃d",
-          "gloss": "everyone",
-          "gram": "indefinite pronoun phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "a",
@@ -1091,20 +1083,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -1145,20 +1129,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun 1sg elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "dit",
@@ -1207,20 +1183,12 @@
       "trans": "I searched but there was nothing.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "cherché",
@@ -1247,20 +1215,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "avait",
@@ -1449,20 +1409,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'il",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "which",
-          "gram": "relative pronoun elided"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject pronoun"
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
         },
         {
           "t": "y",
@@ -1511,28 +1463,36 @@
       "trans": "In any case, it is too late now.",
       "words": [
         {
-          "t": "De toute façon,",
-          "lemma": "de toute façon",
-          "pos": "adv",
-          "stress": "dətutfasɔ̃",
-          "gloss": "in any case",
-          "gram": "adverbial phrase"
+          "t": "De",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
+          "t": "toute",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tut",
+          "gloss": "all",
+          "gram": "indefinite determiner, feminine singular"
         },
         {
-          "t": "est",
+          "t": "façon,",
+          "lemma": "façon",
+          "pos": "noun",
+          "stress": "fasɔ̃",
+          "gloss": "way, manner",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -1581,20 +1541,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1643,20 +1595,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "him",
-          "gram": "direct object pronoun 3sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "pas",
@@ -1689,28 +1633,36 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun 1sg elided"
-        },
-        {
-          "t": "as",
+          "t": "m'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 2sg"
+          "stress": "ma",
+          "gloss": "have ... me",
+          "gram": "me (elided m', me) + as: auxiliary, present, 2nd person singular"
         },
         {
-          "t": "sauvé la mise!",
-          "lemma": "sauver la mise",
-          "pos": "phrase",
-          "stress": "sovɛlamiz",
-          "gloss": "saved the day",
-          "gram": "idiomatic verbal phrase"
+          "t": "sauvé",
+          "lemma": "sauver",
+          "pos": "verb",
+          "stress": "sove",
+          "gloss": "saved",
+          "gram": "past participle, masculine singular"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "mise!",
+          "lemma": "mise",
+          "pos": "noun",
+          "stress": "miz",
+          "gloss": "putting",
+          "gram": "noun"
         }
       ]
     },
@@ -1743,12 +1695,28 @@
           "gram": "imperative 2pl with pronoun"
         },
         {
-          "t": "s'il vous plaît.",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "polite phrase"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -1865,12 +1833,28 @@
       "trans": "Everyone has fear. He must make this movie.",
       "words": [
         {
-          "t": "Tout le monde",
+          "t": "Tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tulmɔ̃d",
-          "gloss": "everyone",
-          "gram": "indefinite pronoun phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "a",
@@ -2081,20 +2065,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "ai",
+          "t": "n'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ne",
+          "gloss": "have (not)",
+          "gram": "ne (elided n') + ai: present, 1st person singular"
         },
         {
           "t": "pas",
@@ -2135,20 +2111,12 @@
           "gram": "subject pronoun 3sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun 1sg elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "dit",
@@ -2197,20 +2165,12 @@
       "trans": "I searched but there was nothing.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "cherché",
@@ -2237,20 +2197,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "avait",
@@ -2439,20 +2391,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'il",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "which",
-          "gram": "relative pronoun elided"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject pronoun"
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
         },
         {
           "t": "y",
@@ -2501,28 +2445,36 @@
       "trans": "In any case, it is too late now.",
       "words": [
         {
-          "t": "De toute façon,",
-          "lemma": "de toute façon",
-          "pos": "adv",
-          "stress": "dətutfasɔ̃",
-          "gloss": "in any case",
-          "gram": "adverbial phrase"
+          "t": "De",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun elided"
+          "t": "toute",
+          "lemma": "tout",
+          "pos": "det",
+          "stress": "tut",
+          "gloss": "all",
+          "gram": "indefinite determiner, feminine singular"
         },
         {
-          "t": "est",
+          "t": "façon,",
+          "lemma": "façon",
+          "pos": "noun",
+          "stress": "fasɔ̃",
+          "gloss": "way, manner",
+          "gram": "feminine singular"
+        },
+        {
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "trop",
@@ -2571,20 +2523,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -2633,20 +2577,12 @@
           "gram": "negative particle"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "pron",
-          "stress": "l",
-          "gloss": "him",
-          "gram": "direct object pronoun 3sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "l'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "le",
+          "gloss": "have him",
+          "gram": "direct object pronoun l' + verb avoir, 1st person singular present"
         },
         {
           "t": "pas",
@@ -2679,28 +2615,36 @@
           "gram": "subject pronoun 2sg"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "indirect object pronoun 1sg elided"
-        },
-        {
-          "t": "as",
+          "t": "m'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 2sg"
+          "stress": "ma",
+          "gloss": "have ... me",
+          "gram": "me (elided m', me) + as: auxiliary, present, 2nd person singular"
         },
         {
-          "t": "sauvé la mise!",
-          "lemma": "sauver la mise",
-          "pos": "phrase",
-          "stress": "sovɛlamiz",
-          "gloss": "saved the day",
-          "gram": "idiomatic verbal phrase"
+          "t": "sauvé",
+          "lemma": "sauver",
+          "pos": "verb",
+          "stress": "sove",
+          "gloss": "saved",
+          "gram": "past participle, masculine singular"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "mise!",
+          "lemma": "mise",
+          "pos": "noun",
+          "stress": "miz",
+          "gloss": "putting",
+          "gram": "noun"
         }
       ]
     },
@@ -2733,12 +2677,28 @@
           "gram": "imperative 2pl with pronoun"
         },
         {
-          "t": "s'il vous plaît.",
+          "t": "s'il",
           "lemma": "s'il vous plaît",
           "pos": "phrase",
-          "stress": "silvuplɛ",
-          "gloss": "please",
-          "gram": "polite phrase"
+          "stress": "sil",
+          "gloss": "if it (please)",
+          "gram": "si (elided s') + il: start of 's'il vous plaît'"
+        },
+        {
+          "t": "vous",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "vu",
+          "gloss": "to you",
+          "gram": "second part of 's'il vous plaît'"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il vous plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases",
+          "gram": "third part of 's'il vous plaît' = please"
         }
       ]
     },
@@ -2855,12 +2815,28 @@
       "trans": "Everyone has fear. He must make this movie.",
       "words": [
         {
-          "t": "Tout le monde",
+          "t": "Tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tulmɔ̃d",
-          "gloss": "everyone",
-          "gram": "indefinite pronoun phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "a",
@@ -7741,6 +7717,276 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "façon": {
+      "examples": [
+        {
+          "text": "C'est une façon bizarre de faire.",
+          "trans": "It's a strange way of doing things."
+        },
+        {
+          "text": "De toute façon, je viens.",
+          "trans": "Anyway, I'm coming."
+        },
+        {
+          "text": "Les Français sont de vrais romantiques. C'est une façon bizarre de faire.",
+          "trans": "The French are true romantics. It's a strange way of doing things."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la façon",
+              "les façons"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "f",
+      "gloss": "way, manner",
+      "lemma": "façon",
+      "meanings": [
+        {
+          "en": "way, manner",
+          "note": "une façon de faire = a way of doing things"
+        }
+      ],
+      "moreForms": [],
+      "plural": "façons",
+      "pos": "noun",
+      "stress": "fasɔ̃",
+      "related": [
+        {
+          "word": "le/la façon",
+          "gloss": "the way (with article)"
+        }
+      ]
+    },
+    "sauver": {
+      "examples": [
+        {
+          "text": "Il a sauvé le contrat.",
+          "trans": "He saved the contract."
+        },
+        {
+          "text": "Tu m'as sauvé!",
+          "trans": "You saved me!"
+        },
+        {
+          "text": "J'ai sauvé une cliente de l'agence, c'est tout.",
+          "trans": "I saved one of the agency's clients, that's all."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je sauve",
+              "nous sauvons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu sauves",
+              "vous sauvez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle sauve",
+              "ils/elles sauvent"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to save, rescue",
+      "lemma": "sauver",
+      "meanings": [
+        {
+          "en": "to save, rescue",
+          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Core French verb meaning 'to save, rescue'."
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai sauvé",
+                "nous avons sauvé"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as sauvé",
+                "vous avez sauvé"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a sauvé",
+                "ils/elles ont sauvé"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je sauvais",
+                "nous sauvions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu sauvais",
+                "vous sauviez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle sauvait",
+                "ils/elles sauvaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je sauverai",
+                "nous sauverons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu sauveras",
+                "vous sauverez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle sauvera",
+                "ils/elles sauveront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        }
+      ],
+      "pos": "verb",
+      "stress": "sove",
+      "related": [
+        {
+          "word": "sauvage",
+          "gloss": "savage"
+        },
+        {
+          "word": "sauver la mise",
+          "gloss": "save the day"
+        },
+        {
+          "word": "sauveur",
+          "gloss": "savior"
+        }
+      ]
+    },
+    "mise": {
+      "lemma": "mise",
+      "stress": "miz",
+      "pos": "noun",
+      "gloss": "putting, placing; mise à jour = update",
+      "meanings": [
+        {
+          "en": "putting, placing, stake",
+          "note": "Standard feminine noun meaning 'putting, placing; mise à jour = update'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "mise",
+              "mises"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Une petite mise à jour du dossier.",
+          "trans": "A quick update of the file."
+        },
+        {
+          "text": "Il lui faut une petite mise à jour.",
+          "trans": "It just needs a small update."
+        },
+        {
+          "text": "Sauver la mise.",
+          "trans": "To save the day."
+        }
+      ],
+      "gender": "f",
+      "plural": "mises",
+      "related": [
+        {
+          "word": "miser",
+          "gloss": "to bet"
         }
       ]
     }

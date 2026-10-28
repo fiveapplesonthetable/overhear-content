@@ -7,20 +7,12 @@
       "trans": "I would like this girl to know her history.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st singular elided subject pronoun"
-        },
-        {
-          "t": "aimerais",
+          "t": "J'aimerais",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛmʁɛ",
-          "gloss": "would like",
-          "gram": "1st singular present conditional"
+          "stress": "ʒɛmʁɛ",
+          "gloss": "I would like",
+          "gram": "je + aimerais: conditional present, 1st person singular"
         },
         {
           "t": "que",
@@ -85,12 +77,20 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course, certainly",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "nous",
@@ -123,36 +123,20 @@
       "trans": "The story is that I am her father.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "histoire,",
+          "t": "L'histoire,",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "core truth",
-          "gram": "feminine singular noun"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "que",
@@ -201,20 +185,12 @@
       "trans": "That is a small part of the story.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -249,20 +225,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "histoire.",
+          "t": "l'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "full journey",
-          "gram": "feminine singular noun"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         }
       ]
     },
@@ -295,20 +263,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "a",
@@ -327,20 +287,12 @@
           "gram": "negative adverb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "any",
-          "gram": "elided partitive preposition"
-        },
-        {
-          "t": "histoire.",
+          "t": "d'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "family tale",
-          "gram": "feminine singular noun"
+          "stress": "distwaʁ",
+          "gloss": "of story?",
+          "gram": "de (elided) + histoire (feminine singular)"
         }
       ]
     },
@@ -411,20 +363,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -443,20 +387,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "which",
-          "gram": "relative pronoun"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "pos": "conj",
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "avait",
@@ -497,20 +433,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "mon",
@@ -675,20 +603,12 @@
       "trans": "Full adoption will no longer be possible.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "adoption",
+          "t": "L'adoption",
           "lemma": "adoption",
           "pos": "noun",
-          "stress": "adɔpsjɔ̃",
-          "gloss": "child adoption, legal placement",
-          "gram": "feminine singular noun"
+          "stress": "ladɔpsjɔ̃",
+          "gloss": "the child adoption, legal placement",
+          "gram": "L': feminine singular elided article + adoption: feminine singular noun"
         },
         {
           "t": "plénière",
@@ -877,20 +797,12 @@
           "gram": "1st singular subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "aurais",
+          "t": "n'aurais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "oʁɛ",
-          "gloss": "would have",
-          "gram": "1st singular conditional auxiliary"
+          "stress": "nɔʁɛ",
+          "gloss": "would not have",
+          "gram": "n' + aurais"
         },
         {
           "t": "jamais",
@@ -909,20 +821,12 @@
           "gram": "past participle"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "masculine singular elided article"
-        },
-        {
-          "t": "enfant.",
+          "t": "l'enfant.",
           "lemma": "enfant",
           "pos": "noun",
-          "stress": "ɑ̃fɑ̃",
-          "gloss": "unborn baby",
-          "gram": "masculine singular noun"
+          "stress": "lɑ̃fɑ̃",
+          "gloss": "the unborn baby",
+          "gram": "l': masculine singular elided article + enfant.: masculine singular noun"
         }
       ]
     },
@@ -931,12 +835,20 @@
       "trans": "Because I cannot have children myself.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "moi,",
@@ -1001,20 +913,12 @@
       "trans": "I would like this girl to know her history.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st singular elided subject pronoun"
-        },
-        {
-          "t": "aimerais",
+          "t": "J'aimerais",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛmʁɛ",
-          "gloss": "would like",
-          "gram": "1st singular present conditional"
+          "stress": "ʒɛmʁɛ",
+          "gloss": "I would like",
+          "gram": "je + aimerais: conditional present, 1st person singular"
         },
         {
           "t": "que",
@@ -1079,12 +983,20 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course, certainly",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "nous",
@@ -1117,36 +1029,20 @@
       "trans": "The story is that I am her father.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "histoire,",
+          "t": "L'histoire,",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "core truth",
-          "gram": "feminine singular noun"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "que",
@@ -1195,20 +1091,12 @@
       "trans": "That is a small part of the story.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -1243,20 +1131,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "histoire.",
+          "t": "l'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "full journey",
-          "gram": "feminine singular noun"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         }
       ]
     },
@@ -1289,20 +1169,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "a",
@@ -1321,20 +1193,12 @@
           "gram": "negative adverb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "any",
-          "gram": "elided partitive preposition"
-        },
-        {
-          "t": "histoire.",
+          "t": "d'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "family tale",
-          "gram": "feminine singular noun"
+          "stress": "distwaʁ",
+          "gloss": "of story?",
+          "gram": "de (elided) + histoire (feminine singular)"
         }
       ]
     },
@@ -1405,20 +1269,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1437,20 +1293,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "which",
-          "gram": "relative pronoun"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "pos": "conj",
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "avait",
@@ -1491,20 +1339,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "mon",
@@ -1669,20 +1509,12 @@
       "trans": "Full adoption will no longer be possible.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "adoption",
+          "t": "L'adoption",
           "lemma": "adoption",
           "pos": "noun",
-          "stress": "adɔpsjɔ̃",
-          "gloss": "child adoption, legal placement",
-          "gram": "feminine singular noun"
+          "stress": "ladɔpsjɔ̃",
+          "gloss": "the child adoption, legal placement",
+          "gram": "L': feminine singular elided article + adoption: feminine singular noun"
         },
         {
           "t": "plénière",
@@ -1871,20 +1703,12 @@
           "gram": "1st singular subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "aurais",
+          "t": "n'aurais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "oʁɛ",
-          "gloss": "would have",
-          "gram": "1st singular conditional auxiliary"
+          "stress": "nɔʁɛ",
+          "gloss": "would not have",
+          "gram": "n' + aurais"
         },
         {
           "t": "jamais",
@@ -1903,20 +1727,12 @@
           "gram": "past participle"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "masculine singular elided article"
-        },
-        {
-          "t": "enfant.",
+          "t": "l'enfant.",
           "lemma": "enfant",
           "pos": "noun",
-          "stress": "ɑ̃fɑ̃",
-          "gloss": "unborn baby",
-          "gram": "masculine singular noun"
+          "stress": "lɑ̃fɑ̃",
+          "gloss": "the unborn baby",
+          "gram": "l': masculine singular elided article + enfant.: masculine singular noun"
         }
       ]
     },
@@ -1925,12 +1741,20 @@
       "trans": "Because I cannot have children myself.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "moi,",
@@ -1995,20 +1819,12 @@
       "trans": "I would like this girl to know her history.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st singular elided subject pronoun"
-        },
-        {
-          "t": "aimerais",
+          "t": "J'aimerais",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛmʁɛ",
-          "gloss": "would like",
-          "gram": "1st singular present conditional"
+          "stress": "ʒɛmʁɛ",
+          "gloss": "I would like",
+          "gram": "je + aimerais: conditional present, 1st person singular"
         },
         {
           "t": "que",
@@ -2073,12 +1889,20 @@
           "gram": "affirmative adverb"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
-          "pos": "adv",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course, certainly",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "nous",
@@ -2111,36 +1935,20 @@
       "trans": "The story is that I am her father.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "histoire,",
+          "t": "L'histoire,",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "core truth",
-          "gram": "feminine singular noun"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "que",
@@ -2189,20 +1997,12 @@
       "trans": "That is a small part of the story.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "that",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
@@ -2237,20 +2037,12 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "histoire.",
+          "t": "l'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "full journey",
-          "gram": "feminine singular noun"
+          "stress": "listwaʁ",
+          "gloss": "the story",
+          "gram": "noun, feminine singular, with elided article la"
         }
       ]
     },
@@ -2283,20 +2075,12 @@
           "gram": "impersonal subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "y",
+          "t": "n'y",
           "lemma": "y",
           "pos": "pron",
-          "stress": "i",
+          "stress": "ni",
           "gloss": "there",
-          "gram": "adverbial pronoun"
+          "gram": "elided negative particle ne + adverbial pronoun y"
         },
         {
           "t": "a",
@@ -2315,20 +2099,12 @@
           "gram": "negative adverb"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "any",
-          "gram": "elided partitive preposition"
-        },
-        {
-          "t": "histoire.",
+          "t": "d'histoire.",
           "lemma": "histoire",
           "pos": "noun",
-          "stress": "istwaʁ",
-          "gloss": "family tale",
-          "gram": "feminine singular noun"
+          "stress": "distwaʁ",
+          "gloss": "of story?",
+          "gram": "de (elided) + histoire (feminine singular)"
         }
       ]
     },
@@ -2399,20 +2175,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -2431,20 +2199,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'on",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "which",
-          "gram": "relative pronoun"
-        },
-        {
-          "t": "on",
-          "lemma": "on",
-          "pos": "pron",
-          "stress": "ɔ̃",
-          "gloss": "we",
-          "gram": "indefinite subject pronoun"
+          "pos": "conj",
+          "stress": "kɔ̃",
+          "gloss": "that we",
+          "gram": "subordinating conjunction que (elided) + subject pronoun on"
         },
         {
           "t": "avait",
@@ -2485,20 +2245,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd singular present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "mon",
@@ -2663,20 +2415,12 @@
       "trans": "Full adoption will no longer be possible.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "feminine singular elided article"
-        },
-        {
-          "t": "adoption",
+          "t": "L'adoption",
           "lemma": "adoption",
           "pos": "noun",
-          "stress": "adɔpsjɔ̃",
-          "gloss": "child adoption, legal placement",
-          "gram": "feminine singular noun"
+          "stress": "ladɔpsjɔ̃",
+          "gloss": "the child adoption, legal placement",
+          "gram": "L': feminine singular elided article + adoption: feminine singular noun"
         },
         {
           "t": "plénière",
@@ -2865,20 +2609,12 @@
           "gram": "1st singular subject pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "elided negative particle"
-        },
-        {
-          "t": "aurais",
+          "t": "n'aurais",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "oʁɛ",
-          "gloss": "would have",
-          "gram": "1st singular conditional auxiliary"
+          "stress": "nɔʁɛ",
+          "gloss": "would not have",
+          "gram": "n' + aurais"
         },
         {
           "t": "jamais",
@@ -2897,20 +2633,12 @@
           "gram": "past participle"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "masculine singular elided article"
-        },
-        {
-          "t": "enfant.",
+          "t": "l'enfant.",
           "lemma": "enfant",
           "pos": "noun",
-          "stress": "ɑ̃fɑ̃",
-          "gloss": "unborn baby",
-          "gram": "masculine singular noun"
+          "stress": "lɑ̃fɑ̃",
+          "gloss": "the unborn baby",
+          "gram": "l': masculine singular elided article + enfant.: masculine singular noun"
         }
       ]
     },
@@ -2919,12 +2647,20 @@
       "trans": "Because I cannot have children myself.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "moi,",

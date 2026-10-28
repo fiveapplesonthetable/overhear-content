@@ -83,20 +83,12 @@
       "trans": "I really crossed the line.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "vraiment",
@@ -153,20 +145,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "rien.",
@@ -191,20 +175,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -261,28 +237,28 @@
           "gram": "present 2sg"
         },
         {
-          "t": "quelque chose",
+          "t": "quelque",
           "lemma": "quelque chose",
-          "pos": "pron",
-          "stress": "kɛlkəʃoz",
-          "gloss": "something",
-          "gram": "indefinite pronoun phrase"
+          "pos": "phrase",
+          "stress": "kɛlkə",
+          "gloss": "some",
+          "gram": "first part of 'quelque chose' = something"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
+          "t": "chose",
+          "lemma": "quelque chose",
+          "pos": "phrase",
+          "stress": "ʃoz",
+          "gloss": "thing",
+          "gram": "second part of 'quelque chose' = something"
         },
         {
-          "t": "incroyable.",
+          "t": "d'incroyable.",
           "lemma": "incroyable",
           "pos": "adj",
-          "stress": "ɛ̃kʁwajabl",
-          "gloss": "incredible",
-          "gram": "adjective, singular"
+          "stress": "dɛ̃kʁwajabl",
+          "gloss": "of incredible",
+          "gram": "d': preposition elided + incroyable.: adjective, singular"
         }
       ]
     },
@@ -415,12 +391,20 @@
       "trans": "Because I love you, Andrea.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "conjunction phrase"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "je",
@@ -431,20 +415,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "aime,",
+          "t": "t'aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present 1sg"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "Andréa.",
@@ -485,20 +461,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "aime,",
+          "t": "t'aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present 1sg"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "Colette.",
@@ -553,20 +521,12 @@
           "gram": "subject pronoun 3sg feminine"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "définitivement",
@@ -789,20 +749,12 @@
       "trans": "I really crossed the line.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "vraiment",
@@ -859,20 +811,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "rien.",
@@ -897,20 +841,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -967,28 +903,28 @@
           "gram": "present 2sg"
         },
         {
-          "t": "quelque chose",
+          "t": "quelque",
           "lemma": "quelque chose",
-          "pos": "pron",
-          "stress": "kɛlkəʃoz",
-          "gloss": "something",
-          "gram": "indefinite pronoun phrase"
+          "pos": "phrase",
+          "stress": "kɛlkə",
+          "gloss": "some",
+          "gram": "first part of 'quelque chose' = something"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
+          "t": "chose",
+          "lemma": "quelque chose",
+          "pos": "phrase",
+          "stress": "ʃoz",
+          "gloss": "thing",
+          "gram": "second part of 'quelque chose' = something"
         },
         {
-          "t": "incroyable.",
+          "t": "d'incroyable.",
           "lemma": "incroyable",
           "pos": "adj",
-          "stress": "ɛ̃kʁwajabl",
-          "gloss": "incredible",
-          "gram": "adjective, singular"
+          "stress": "dɛ̃kʁwajabl",
+          "gloss": "of incredible",
+          "gram": "d': preposition elided + incroyable.: adjective, singular"
         }
       ]
     },
@@ -1121,12 +1057,20 @@
       "trans": "Because I love you, Andrea.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "conjunction phrase"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "je",
@@ -1137,20 +1081,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "aime,",
+          "t": "t'aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present 1sg"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "Andréa.",
@@ -1191,20 +1127,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "aime,",
+          "t": "t'aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present 1sg"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "Colette.",
@@ -1259,20 +1187,12 @@
           "gram": "subject pronoun 3sg feminine"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "définitivement",
@@ -1495,20 +1415,12 @@
       "trans": "I really crossed the line.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun 1sg elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "auxiliary verb, present 1sg"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "vraiment",
@@ -1565,20 +1477,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "rien.",
@@ -1603,20 +1507,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present 3sg"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1673,28 +1569,28 @@
           "gram": "present 2sg"
         },
         {
-          "t": "quelque chose",
+          "t": "quelque",
           "lemma": "quelque chose",
-          "pos": "pron",
-          "stress": "kɛlkəʃoz",
-          "gloss": "something",
-          "gram": "indefinite pronoun phrase"
+          "pos": "phrase",
+          "stress": "kɛlkə",
+          "gloss": "some",
+          "gram": "first part of 'quelque chose' = something"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition elided"
+          "t": "chose",
+          "lemma": "quelque chose",
+          "pos": "phrase",
+          "stress": "ʃoz",
+          "gloss": "thing",
+          "gram": "second part of 'quelque chose' = something"
         },
         {
-          "t": "incroyable.",
+          "t": "d'incroyable.",
           "lemma": "incroyable",
           "pos": "adj",
-          "stress": "ɛ̃kʁwajabl",
-          "gloss": "incredible",
-          "gram": "adjective, singular"
+          "stress": "dɛ̃kʁwajabl",
+          "gloss": "of incredible",
+          "gram": "d': preposition elided + incroyable.: adjective, singular"
         }
       ]
     },
@@ -1827,12 +1723,20 @@
       "trans": "Because I love you, Andrea.",
       "words": [
         {
-          "t": "Parce que",
+          "t": "Parce",
           "lemma": "parce que",
           "pos": "conj",
-          "stress": "paʁsəkə",
+          "stress": "paʁs",
           "gloss": "because",
-          "gram": "conjunction phrase"
+          "gram": "conjunction in phrase parce que"
+        },
+        {
+          "t": "que",
+          "lemma": "parce que",
+          "pos": "conj",
+          "stress": "kə",
+          "gloss": "that, because",
+          "gram": "conjunction phrase part 2"
         },
         {
           "t": "je",
@@ -1843,20 +1747,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "aime,",
+          "t": "t'aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present 1sg"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "Andréa.",
@@ -1897,20 +1793,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "aime,",
+          "t": "t'aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present 1sg"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "Colette.",
@@ -1965,20 +1853,12 @@
           "gram": "subject pronoun 3sg feminine"
         },
         {
-          "t": "m'",
-          "lemma": "me",
-          "pos": "pron",
-          "stress": "m",
-          "gloss": "me",
-          "gram": "direct object pronoun 1sg elided"
-        },
-        {
-          "t": "a",
+          "t": "m'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "a",
-          "gloss": "has",
-          "gram": "auxiliary verb, present 3sg"
+          "stress": "ma",
+          "gloss": "has (me)",
+          "gram": "present, 3rd singular with elided me"
         },
         {
           "t": "définitivement",
@@ -2149,20 +2029,12 @@
           "gram": "subject pronoun 1sg"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun 2sg elided"
-        },
-        {
-          "t": "aime,",
+          "t": "t'aime,",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present 1sg"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "Colette.",

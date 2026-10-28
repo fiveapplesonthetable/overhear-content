@@ -93,20 +93,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "un",
+          "t": "d'un",
           "lemma": "un",
           "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "stress": "dœ̃",
+          "gloss": "of a",
+          "gram": "de (elided d', of) + un (a, masculine singular)"
         },
         {
           "t": "plan",
@@ -155,20 +147,12 @@
           "gram": "negative adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "j'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "at it",
-          "gram": "adverbial pronoun"
+          "stress": "ʒɑ̃",
+          "gloss": "of it",
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "suis",
@@ -303,28 +287,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "arrête",
+          "t": "t'arrête",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛt",
-          "gloss": "stop",
-          "gram": "present, 1st singular"
+          "stress": "taʁɛt",
+          "gloss": "you stop",
+          "gram": "t': direct object pronoun, elided + arrête: present, 1st singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "immediately, right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -667,20 +659,12 @@
       "trans": "That is the true job of an assistant.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "ça,",
@@ -715,20 +699,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "une",
+          "t": "d'une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an",
-          "gram": "indefinite article, feminine singular"
+          "gloss": "of a",
+          "gram": "de + une: elided preposition + indefinite article"
         },
         {
           "t": "assistante.",
@@ -839,20 +815,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'il",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "relative pronoun, elided"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject pronoun"
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
         },
         {
           "t": "faut",
@@ -925,12 +893,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -1025,20 +1001,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "un",
+          "t": "d'un",
           "lemma": "un",
           "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "stress": "dœ̃",
+          "gloss": "of a",
+          "gram": "de (elided d', of) + un (a, masculine singular)"
         },
         {
           "t": "plan",
@@ -1087,20 +1055,12 @@
           "gram": "negative adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "j'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "at it",
-          "gram": "adverbial pronoun"
+          "stress": "ʒɑ̃",
+          "gloss": "of it",
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "suis",
@@ -1235,28 +1195,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "arrête",
+          "t": "t'arrête",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛt",
-          "gloss": "stop",
-          "gram": "present, 1st singular"
+          "stress": "taʁɛt",
+          "gloss": "you stop",
+          "gram": "t': direct object pronoun, elided + arrête: present, 1st singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "immediately, right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1599,20 +1567,12 @@
       "trans": "That is the true job of an assistant.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "ça,",
@@ -1647,20 +1607,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "une",
+          "t": "d'une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an",
-          "gram": "indefinite article, feminine singular"
+          "gloss": "of a",
+          "gram": "de + une: elided preposition + indefinite article"
         },
         {
           "t": "assistante.",
@@ -1771,20 +1723,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'il",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "relative pronoun, elided"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject pronoun"
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
         },
         {
           "t": "faut",
@@ -1857,12 +1801,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -1957,20 +1909,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "un",
+          "t": "d'un",
           "lemma": "un",
           "pos": "det",
-          "stress": "œ̃",
-          "gloss": "a",
-          "gram": "indefinite article, masculine singular"
+          "stress": "dœ̃",
+          "gloss": "of a",
+          "gram": "de (elided d', of) + un (a, masculine singular)"
         },
         {
           "t": "plan",
@@ -2019,20 +1963,12 @@
           "gram": "negative adverb"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "en",
+          "t": "j'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "at it",
-          "gram": "adverbial pronoun"
+          "stress": "ʒɑ̃",
+          "gloss": "of it",
+          "gram": "je + en: adverbial pronoun, 'of it'"
         },
         {
           "t": "suis",
@@ -2167,28 +2103,36 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "arrête",
+          "t": "t'arrête",
           "lemma": "arrêter",
           "pos": "verb",
-          "stress": "aʁɛt",
-          "gloss": "stop",
-          "gram": "present, 1st singular"
+          "stress": "taʁɛt",
+          "gloss": "you stop",
+          "gram": "t': direct object pronoun, elided + arrête: present, 1st singular"
         },
         {
-          "t": "tout de suite.",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "immediately, right away",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite.",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -2531,20 +2475,12 @@
       "trans": "That is the true job of an assistant.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "ça,",
@@ -2579,20 +2515,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "une",
+          "t": "d'une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an",
-          "gram": "indefinite article, feminine singular"
+          "gloss": "of a",
+          "gram": "de + une: elided preposition + indefinite article"
         },
         {
           "t": "assistante.",
@@ -2703,20 +2631,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "qu'",
+          "t": "qu'il",
           "lemma": "que",
-          "pos": "pron",
-          "stress": "k",
-          "gloss": "that",
-          "gram": "relative pronoun, elided"
-        },
-        {
-          "t": "il",
-          "lemma": "il",
-          "pos": "pron",
-          "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject pronoun"
+          "pos": "conj",
+          "stress": "kil",
+          "gloss": "that he",
+          "gram": "conjunction que (elided) + subject pronoun il"
         },
         {
           "t": "faut",
@@ -2789,12 +2709,20 @@
           "gram": "infinitive"
         },
         {
-          "t": "un peu.",
-          "lemma": "un peu",
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "peu.",
+          "lemma": "peu",
           "pos": "adv",
-          "stress": "œ̃pø",
-          "gloss": "a little",
-          "gram": "adverbial phrase"
+          "stress": "pø",
+          "gloss": "little, bit",
+          "gram": "adverb of quantity"
         }
       ]
     },
@@ -8267,6 +8195,44 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "peu": {
+      "examples": [
+        {
+          "text": "Un peu de café?",
+          "trans": "A little coffee?"
+        },
+        {
+          "text": "Je suis un peu fatigué.",
+          "trans": "I'm a bit tired."
+        },
+        {
+          "text": "Oui, Cécile est un peu plus âgée.",
+          "trans": "Yes, Cécile is a little older."
+        }
+      ],
+      "forms": null,
+      "gloss": "little",
+      "lemma": "peu",
+      "meanings": [
+        {
+          "en": "un peu = a little, a bit",
+          "note": "peu de temps = little time"
+        },
+        {
+          "en": "not much",
+          "note": "peu de temps = little time"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "pø",
+      "related": [
+        {
+          "word": "très peu",
+          "gloss": "related adverbial expression (little)"
         }
       ]
     }

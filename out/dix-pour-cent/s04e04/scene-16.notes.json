@@ -53,12 +53,20 @@
       "trans": "I am fine. Is Noemie not here?",
       "words": [
         {
-          "t": "Ça va.",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "things are fine / fine",
-          "gram": "fixed expression"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va.",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "Noémie",
@@ -69,20 +77,12 @@
           "gram": "proper noun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -115,20 +115,36 @@
           "gram": "interjection"
         },
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "se passe?",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "se",
           "lemma": "se passer",
           "pos": "verb",
-          "stress": "səpase",
-          "gloss": "is going on",
-          "gram": "conjugated verb"
+          "stress": "sə",
+          "gloss": "itself",
+          "gram": "reflexive pronoun in 'se passer'"
+        },
+        {
+          "t": "passe?",
+          "lemma": "se passer",
+          "pos": "verb",
+          "stress": "pas",
+          "gloss": "is happening",
+          "gram": "present, 3rd person singular, reflexive"
         }
       ]
     },
@@ -137,20 +153,12 @@
       "trans": "I am having problems at work.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "des",
@@ -191,20 +199,12 @@
       "trans": "I lost my first big contract.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "perdu",
@@ -261,19 +261,11 @@
           "gram": "particle"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "tə",
-          "gloss": "yourself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
           "stress": "ɛ̃kjete",
-          "gloss": "worry",
+          "gloss": "to worry (someone)",
           "gram": "conjugated verb"
         },
         {
@@ -355,20 +347,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "about / of",
-          "gram": "preposition"
-        },
-        {
-          "t": "autre",
+          "t": "d'autre",
           "lemma": "autre",
           "pos": "adj",
-          "stress": "otʁ",
-          "gloss": "other",
-          "gram": "adjective"
+          "stress": "dotʁ",
+          "gloss": "else / other",
+          "gram": "d' + autre (partitive marker + adjective)"
         },
         {
           "t": "chose.",
@@ -385,20 +369,12 @@
       "trans": "I thought about the paternity recognition.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "réfléchi",
@@ -463,28 +439,28 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "t'",
-          "lemma": "te",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you",
-          "gram": "pronoun"
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "has",
-          "gram": "conjugated verb"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "fait",
@@ -503,20 +479,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis?",
+          "t": "d'avis?",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "noun"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis?: noun"
         }
       ]
     },
@@ -873,12 +841,20 @@
       "trans": "I am fine. Is Noemie not here?",
       "words": [
         {
-          "t": "Ça va.",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "things are fine / fine",
-          "gram": "fixed expression"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va.",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "Noémie",
@@ -889,20 +865,12 @@
           "gram": "proper noun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -935,20 +903,36 @@
           "gram": "interjection"
         },
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "se passe?",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "se",
           "lemma": "se passer",
           "pos": "verb",
-          "stress": "səpase",
-          "gloss": "is going on",
-          "gram": "conjugated verb"
+          "stress": "sə",
+          "gloss": "itself",
+          "gram": "reflexive pronoun in 'se passer'"
+        },
+        {
+          "t": "passe?",
+          "lemma": "se passer",
+          "pos": "verb",
+          "stress": "pas",
+          "gloss": "is happening",
+          "gram": "present, 3rd person singular, reflexive"
         }
       ]
     },
@@ -957,20 +941,12 @@
       "trans": "I am having problems at work.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "des",
@@ -1011,20 +987,12 @@
       "trans": "I lost my first big contract.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "perdu",
@@ -1081,19 +1049,11 @@
           "gram": "particle"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "tə",
-          "gloss": "yourself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
           "stress": "ɛ̃kjete",
-          "gloss": "worry",
+          "gloss": "to worry (someone)",
           "gram": "conjugated verb"
         },
         {
@@ -1175,20 +1135,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "about / of",
-          "gram": "preposition"
-        },
-        {
-          "t": "autre",
+          "t": "d'autre",
           "lemma": "autre",
           "pos": "adj",
-          "stress": "otʁ",
-          "gloss": "other",
-          "gram": "adjective"
+          "stress": "dotʁ",
+          "gloss": "else / other",
+          "gram": "d' + autre (partitive marker + adjective)"
         },
         {
           "t": "chose.",
@@ -1205,20 +1157,12 @@
       "trans": "I thought about the paternity recognition.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "réfléchi",
@@ -1283,28 +1227,28 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "t'",
-          "lemma": "te",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you",
-          "gram": "pronoun"
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "has",
-          "gram": "conjugated verb"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "fait",
@@ -1323,20 +1267,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis?",
+          "t": "d'avis?",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "noun"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis?: noun"
         }
       ]
     },
@@ -1693,12 +1629,20 @@
       "trans": "I am fine. Is Noemie not here?",
       "words": [
         {
-          "t": "Ça va.",
-          "lemma": "ça va",
-          "pos": "phrase",
-          "stress": "sava",
-          "gloss": "things are fine / fine",
-          "gram": "fixed expression"
+          "t": "Ça",
+          "lemma": "ça",
+          "pos": "pron",
+          "stress": "sa",
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
+        },
+        {
+          "t": "va.",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "goes",
+          "gram": "present, 3sg"
         },
         {
           "t": "Noémie",
@@ -1709,20 +1653,12 @@
           "gram": "proper noun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1755,20 +1691,36 @@
           "gram": "interjection"
         },
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "se passe?",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "se",
           "lemma": "se passer",
           "pos": "verb",
-          "stress": "səpase",
-          "gloss": "is going on",
-          "gram": "conjugated verb"
+          "stress": "sə",
+          "gloss": "itself",
+          "gram": "reflexive pronoun in 'se passer'"
+        },
+        {
+          "t": "passe?",
+          "lemma": "se passer",
+          "pos": "verb",
+          "stress": "pas",
+          "gloss": "is happening",
+          "gram": "present, 3rd person singular, reflexive"
         }
       ]
     },
@@ -1777,20 +1729,12 @@
       "trans": "I am having problems at work.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "des",
@@ -1831,20 +1775,12 @@
       "trans": "I lost my first big contract.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "perdu",
@@ -1901,19 +1837,11 @@
           "gram": "particle"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "tə",
-          "gloss": "yourself",
-          "gram": "pronoun"
-        },
-        {
-          "t": "inquiète",
+          "t": "t'inquiète",
           "lemma": "inquiéter",
           "pos": "verb",
           "stress": "ɛ̃kjete",
-          "gloss": "worry",
+          "gloss": "to worry (someone)",
           "gram": "conjugated verb"
         },
         {
@@ -1995,20 +1923,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "about / of",
-          "gram": "preposition"
-        },
-        {
-          "t": "autre",
+          "t": "d'autre",
           "lemma": "autre",
           "pos": "adj",
-          "stress": "otʁ",
-          "gloss": "other",
-          "gram": "adjective"
+          "stress": "dotʁ",
+          "gloss": "else / other",
+          "gram": "d' + autre (partitive marker + adjective)"
         },
         {
           "t": "chose.",
@@ -2025,20 +1945,12 @@
       "trans": "I thought about the paternity recognition.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "réfléchi",
@@ -2103,28 +2015,28 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "t'",
-          "lemma": "te",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "tə",
-          "gloss": "you",
-          "gram": "pronoun"
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "a",
+          "t": "t'a",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "has",
-          "gram": "conjugated verb"
+          "stress": "ta",
+          "gloss": "has ... to you",
+          "gram": "te (elided t', to you) + a: auxiliary, present, 3rd person singular"
         },
         {
           "t": "fait",
@@ -2143,20 +2055,12 @@
           "gram": "infinitive"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis?",
+          "t": "d'avis?",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "noun"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis?: noun"
         }
       ]
     },
@@ -7615,6 +7519,39 @@
           "gloss": "verb family relative (to be)"
         }
       ]
+    },
+    "ça": {
+      "examples": [
+        {
+          "text": "Je prends ça.",
+          "trans": "I'll take that."
+        },
+        {
+          "text": "Ça fait trois semaines.",
+          "trans": "It's been three weeks."
+        },
+        {
+          "text": "Je prends ça. Merci.",
+          "trans": "I'll take that. Thanks."
+        }
+      ],
+      "forms": null,
+      "gloss": "that, it",
+      "lemma": "ça",
+      "meanings": [
+        {
+          "en": "that, it",
+          "note": "informal for cela"
+        },
+        {
+          "en": "ça fait... que = it's been...",
+          "note": "with time"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "sa",
+      "related": []
     }
   }
 }

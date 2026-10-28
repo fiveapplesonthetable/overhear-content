@@ -69,20 +69,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -101,20 +93,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "génial!",
@@ -131,12 +115,20 @@
       "trans": "Of course yes, he loves the project.",
       "words": [
         {
-          "t": "Bien sûr",
+          "t": "Bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "que",
@@ -365,20 +357,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "beaucoup",
@@ -567,12 +551,36 @@
           "gram": "adverb of place"
         },
         {
-          "t": "à tout à l'heure!",
-          "lemma": "à tout à l'heure",
-          "pos": "phrase",
-          "stress": "atutalœʁ",
-          "gloss": "see you soon",
-          "gram": "prepositional phrase"
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure!",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -581,12 +589,36 @@
       "trans": "See you soon, I love you deeply.",
       "words": [
         {
-          "t": "À tout à l'heure,",
-          "lemma": "à tout à l'heure",
-          "pos": "phrase",
-          "stress": "atutalœʁ",
-          "gloss": "see you in a bit",
-          "gram": "prepositional phrase"
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure,",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         },
         {
           "t": "je",
@@ -597,20 +629,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "t'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "fort.",
@@ -689,20 +713,12 @@
       "trans": "Do not forget our housewarming party!",
       "words": [
         {
-          "t": "N'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "oublie",
+          "t": "N'oublie",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ubli",
-          "gloss": "forget",
-          "gram": "imperative, 2nd singular"
+          "stress": "nubli",
+          "gloss": "don't forget",
+          "gram": "'ne' + imperative, 2nd person singular (tu)"
         },
         {
           "t": "pas",
@@ -721,10 +737,26 @@
           "gram": "possessive determiner"
         },
         {
-          "t": "pendaison de crémaillère!",
+          "t": "pendaison",
           "lemma": "pendaison de crémaillère",
           "pos": "noun",
-          "stress": "pɑ̃dɛzɔ̃dəkʁemajɛʁ",
+          "stress": null,
+          "gloss": "housewarming party",
+          "gram": "feminine singular noun phrase"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "crémaillère!",
+          "lemma": "pendaison de crémaillère",
+          "pos": "noun",
+          "stress": null,
           "gloss": "housewarming party",
           "gram": "feminine singular noun phrase"
         }
@@ -759,36 +791,20 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "heure,",
+          "t": "l'heure,",
           "lemma": "heure",
           "pos": "noun",
-          "stress": "œʁ",
-          "gloss": "time, hour",
-          "gram": "feminine singular"
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "promis!",
@@ -929,20 +945,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -961,20 +969,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "génial!",
@@ -991,12 +991,20 @@
       "trans": "Of course yes, he loves the project.",
       "words": [
         {
-          "t": "Bien sûr",
+          "t": "Bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "que",
@@ -1225,20 +1233,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "beaucoup",
@@ -1427,12 +1427,36 @@
           "gram": "adverb of place"
         },
         {
-          "t": "à tout à l'heure!",
-          "lemma": "à tout à l'heure",
-          "pos": "phrase",
-          "stress": "atutalœʁ",
-          "gloss": "see you soon",
-          "gram": "prepositional phrase"
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure!",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -1441,12 +1465,36 @@
       "trans": "See you soon, I love you deeply.",
       "words": [
         {
-          "t": "À tout à l'heure,",
-          "lemma": "à tout à l'heure",
-          "pos": "phrase",
-          "stress": "atutalœʁ",
-          "gloss": "see you in a bit",
-          "gram": "prepositional phrase"
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure,",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         },
         {
           "t": "je",
@@ -1457,20 +1505,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "t'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "fort.",
@@ -1549,20 +1589,12 @@
       "trans": "Do not forget our housewarming party!",
       "words": [
         {
-          "t": "N'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "oublie",
+          "t": "N'oublie",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ubli",
-          "gloss": "forget",
-          "gram": "imperative, 2nd singular"
+          "stress": "nubli",
+          "gloss": "don't forget",
+          "gram": "'ne' + imperative, 2nd person singular (tu)"
         },
         {
           "t": "pas",
@@ -1581,10 +1613,26 @@
           "gram": "possessive determiner"
         },
         {
-          "t": "pendaison de crémaillère!",
+          "t": "pendaison",
           "lemma": "pendaison de crémaillère",
           "pos": "noun",
-          "stress": "pɑ̃dɛzɔ̃dəkʁemajɛʁ",
+          "stress": null,
+          "gloss": "housewarming party",
+          "gram": "feminine singular noun phrase"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "crémaillère!",
+          "lemma": "pendaison de crémaillère",
+          "pos": "noun",
+          "stress": null,
           "gloss": "housewarming party",
           "gram": "feminine singular noun phrase"
         }
@@ -1619,36 +1667,20 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "heure,",
+          "t": "l'heure,",
           "lemma": "heure",
           "pos": "noun",
-          "stress": "œʁ",
-          "gloss": "time, hour",
-          "gram": "feminine singular"
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "promis!",
@@ -1789,20 +1821,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1821,20 +1845,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "génial!",
@@ -1851,12 +1867,20 @@
       "trans": "Of course yes, he loves the project.",
       "words": [
         {
-          "t": "Bien sûr",
+          "t": "Bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course",
-          "gram": "adverbial phrase"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "que",
@@ -2085,20 +2109,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "beaucoup",
@@ -2287,12 +2303,36 @@
           "gram": "adverb of place"
         },
         {
-          "t": "à tout à l'heure!",
-          "lemma": "à tout à l'heure",
-          "pos": "phrase",
-          "stress": "atutalœʁ",
-          "gloss": "see you soon",
-          "gram": "prepositional phrase"
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure!",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         }
       ]
     },
@@ -2301,12 +2341,36 @@
       "trans": "See you soon, I love you deeply.",
       "words": [
         {
-          "t": "À tout à l'heure,",
-          "lemma": "à tout à l'heure",
-          "pos": "phrase",
-          "stress": "atutalœʁ",
-          "gloss": "see you in a bit",
-          "gram": "prepositional phrase"
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "tout",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
+        },
+        {
+          "t": "à",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "to",
+          "gram": "preposition"
+        },
+        {
+          "t": "l'heure,",
+          "lemma": "heure",
+          "pos": "noun",
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         },
         {
           "t": "je",
@@ -2317,20 +2381,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "direct object pronoun, elided"
-        },
-        {
-          "t": "aime",
+          "t": "t'aime",
           "lemma": "aimer",
           "pos": "verb",
-          "stress": "ɛm",
-          "gloss": "love",
-          "gram": "present, 1st singular"
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
         },
         {
           "t": "fort.",
@@ -2409,20 +2465,12 @@
       "trans": "Do not forget our housewarming party!",
       "words": [
         {
-          "t": "N'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "oublie",
+          "t": "N'oublie",
           "lemma": "oublier",
           "pos": "verb",
-          "stress": "ubli",
-          "gloss": "forget",
-          "gram": "imperative, 2nd singular"
+          "stress": "nubli",
+          "gloss": "don't forget",
+          "gram": "'ne' + imperative, 2nd person singular (tu)"
         },
         {
           "t": "pas",
@@ -2441,10 +2489,26 @@
           "gram": "possessive determiner"
         },
         {
-          "t": "pendaison de crémaillère!",
+          "t": "pendaison",
           "lemma": "pendaison de crémaillère",
           "pos": "noun",
-          "stress": "pɑ̃dɛzɔ̃dəkʁemajɛʁ",
+          "stress": null,
+          "gloss": "housewarming party",
+          "gram": "feminine singular noun phrase"
+        },
+        {
+          "t": "de",
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "preposition"
+        },
+        {
+          "t": "crémaillère!",
+          "lemma": "pendaison de crémaillère",
+          "pos": "noun",
+          "stress": null,
           "gloss": "housewarming party",
           "gram": "feminine singular noun phrase"
         }
@@ -2479,36 +2543,20 @@
           "gram": "preposition"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "heure,",
+          "t": "l'heure,",
           "lemma": "heure",
           "pos": "noun",
-          "stress": "œʁ",
-          "gloss": "time, hour",
-          "gram": "feminine singular"
+          "stress": "lœʁ",
+          "gloss": "the hour (a bit)",
+          "gram": "la (elided l') + heure: 'à tout à l'heure' = see you in a bit"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "promis!",

@@ -7,20 +7,12 @@
       "trans": "I brought two glasses to toast.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular auxiliary"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "apporté",
@@ -123,28 +115,12 @@
       "trans": "What are you saying there?",
       "words": [
         {
-          "t": "Qu'",
+          "t": "Qu'est-ce",
           "lemma": "que",
           "pos": "pron",
-          "stress": "k",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun, elided"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
-        },
-        {
-          "t": "-ce",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
+          "gram": "interrogative pronoun idiom"
         },
         {
           "t": "que",
@@ -247,20 +223,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -479,20 +447,12 @@
       "trans": "Listen to me for two minutes, please.",
       "words": [
         {
-          "t": "Écoute",
+          "t": "Écoute-moi",
           "lemma": "écouter",
           "pos": "verb",
-          "stress": "ekut",
-          "gloss": "listen",
-          "gram": "imperative, 2nd singular"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "to me",
-          "gram": "disjunctive pronoun, 1st singular"
+          "stress": "ekutmwa",
+          "gloss": "listen to me",
+          "gram": "present imperative with stressed pronoun, 2sg"
         },
         {
           "t": "deux",
@@ -519,20 +479,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "indirect object pronoun, 2nd singular"
-        },
-        {
-          "t": "en",
+          "t": "t'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "stress": "tɑ̃",
+          "gloss": "yourself with it",
+          "gram": "te (elided t', yourself) + en (of it): with 's'occuper de'"
         },
         {
           "t": "prie.",
@@ -703,44 +655,36 @@
       "trans": "Let me at least explain all that to you.",
       "words": [
         {
-          "t": "Laisse",
+          "t": "Laisse-moi",
           "lemma": "laisser",
           "pos": "verb",
-          "stress": "lɛs",
-          "gloss": "let",
-          "gram": "imperative, 2nd singular"
+          "stress": "lɛsmwa",
+          "gloss": "leave me",
+          "gram": "imperative, 2nd person singular + stressed pronoun moi; 'laisser faire' = leave to it"
         },
         {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "disjunctive pronoun, 1st singular"
+          "t": "au",
+          "lemma": "au",
+          "pos": "prep",
+          "stress": "o",
+          "gloss": "to the, at the",
+          "gram": "contracted preposition à + le"
         },
         {
-          "t": "au moins",
-          "lemma": "au moins",
+          "t": "moins",
+          "lemma": "moins",
           "pos": "adv",
-          "stress": "o.mwɛ̃",
-          "gloss": "at least",
-          "gram": "adverbial phrase"
+          "stress": "mwɛ̃",
+          "gloss": "less",
+          "gram": "adverb"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "to you",
-          "gram": "indirect object pronoun, 2nd singular"
-        },
-        {
-          "t": "expliquer",
+          "t": "t'expliquer",
           "lemma": "expliquer",
           "pos": "verb",
-          "stress": "ɛksplike",
-          "gloss": "to explain",
-          "gram": "infinitive"
+          "stress": "tɛksplike",
+          "gloss": "explain to you",
+          "gram": "elided indirect object pronoun te + infinitive"
         },
         {
           "t": "tout",
@@ -765,20 +709,12 @@
       "trans": "It is over between us, Mr. Barneville.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "terminé",
@@ -827,20 +763,12 @@
       "trans": "I brought two glasses to toast.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular auxiliary"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "apporté",
@@ -943,28 +871,12 @@
       "trans": "What are you saying there?",
       "words": [
         {
-          "t": "Qu'",
+          "t": "Qu'est-ce",
           "lemma": "que",
           "pos": "pron",
-          "stress": "k",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun, elided"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
-        },
-        {
-          "t": "-ce",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
+          "gram": "interrogative pronoun idiom"
         },
         {
           "t": "que",
@@ -1067,20 +979,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -1299,20 +1203,12 @@
       "trans": "Listen to me for two minutes, please.",
       "words": [
         {
-          "t": "Écoute",
+          "t": "Écoute-moi",
           "lemma": "écouter",
           "pos": "verb",
-          "stress": "ekut",
-          "gloss": "listen",
-          "gram": "imperative, 2nd singular"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "to me",
-          "gram": "disjunctive pronoun, 1st singular"
+          "stress": "ekutmwa",
+          "gloss": "listen to me",
+          "gram": "present imperative with stressed pronoun, 2sg"
         },
         {
           "t": "deux",
@@ -1339,20 +1235,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "indirect object pronoun, 2nd singular"
-        },
-        {
-          "t": "en",
+          "t": "t'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "stress": "tɑ̃",
+          "gloss": "yourself with it",
+          "gram": "te (elided t', yourself) + en (of it): with 's'occuper de'"
         },
         {
           "t": "prie.",
@@ -1523,44 +1411,36 @@
       "trans": "Let me at least explain all that to you.",
       "words": [
         {
-          "t": "Laisse",
+          "t": "Laisse-moi",
           "lemma": "laisser",
           "pos": "verb",
-          "stress": "lɛs",
-          "gloss": "let",
-          "gram": "imperative, 2nd singular"
+          "stress": "lɛsmwa",
+          "gloss": "leave me",
+          "gram": "imperative, 2nd person singular + stressed pronoun moi; 'laisser faire' = leave to it"
         },
         {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "disjunctive pronoun, 1st singular"
+          "t": "au",
+          "lemma": "au",
+          "pos": "prep",
+          "stress": "o",
+          "gloss": "to the, at the",
+          "gram": "contracted preposition à + le"
         },
         {
-          "t": "au moins",
-          "lemma": "au moins",
+          "t": "moins",
+          "lemma": "moins",
           "pos": "adv",
-          "stress": "o.mwɛ̃",
-          "gloss": "at least",
-          "gram": "adverbial phrase"
+          "stress": "mwɛ̃",
+          "gloss": "less",
+          "gram": "adverb"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "to you",
-          "gram": "indirect object pronoun, 2nd singular"
-        },
-        {
-          "t": "expliquer",
+          "t": "t'expliquer",
           "lemma": "expliquer",
           "pos": "verb",
-          "stress": "ɛksplike",
-          "gloss": "to explain",
-          "gram": "infinitive"
+          "stress": "tɛksplike",
+          "gloss": "explain to you",
+          "gram": "elided indirect object pronoun te + infinitive"
         },
         {
           "t": "tout",
@@ -1585,20 +1465,12 @@
       "trans": "It is over between us, Mr. Barneville.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "terminé",
@@ -1647,20 +1519,12 @@
       "trans": "I brought two glasses to toast.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, 1st singular, elided"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular auxiliary"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "apporté",
@@ -1763,28 +1627,12 @@
       "trans": "What are you saying there?",
       "words": [
         {
-          "t": "Qu'",
+          "t": "Qu'est-ce",
           "lemma": "que",
           "pos": "pron",
-          "stress": "k",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "interrogative pronoun, elided"
-        },
-        {
-          "t": "est",
-          "lemma": "être",
-          "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
-        },
-        {
-          "t": "-ce",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "demonstrative pronoun"
+          "gram": "interrogative pronoun idiom"
         },
         {
           "t": "que",
@@ -1887,20 +1735,12 @@
           "gram": "demonstrative pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "adv",
-          "stress": "n",
-          "gloss": "not",
-          "gram": "negative particle, elided"
-        },
-        {
-          "t": "est",
+          "t": "n'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "nɛ",
+          "gloss": "is (not)",
+          "gram": "ne (elided n') + est: present, 3rd person singular"
         },
         {
           "t": "pas",
@@ -2119,20 +1959,12 @@
       "trans": "Listen to me for two minutes, please.",
       "words": [
         {
-          "t": "Écoute",
+          "t": "Écoute-moi",
           "lemma": "écouter",
           "pos": "verb",
-          "stress": "ekut",
-          "gloss": "listen",
-          "gram": "imperative, 2nd singular"
-        },
-        {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "to me",
-          "gram": "disjunctive pronoun, 1st singular"
+          "stress": "ekutmwa",
+          "gloss": "listen to me",
+          "gram": "present imperative with stressed pronoun, 2sg"
         },
         {
           "t": "deux",
@@ -2159,20 +1991,12 @@
           "gram": "subject pronoun, 1st singular"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "you",
-          "gram": "indirect object pronoun, 2nd singular"
-        },
-        {
-          "t": "en",
+          "t": "t'en",
           "lemma": "en",
           "pos": "pron",
-          "stress": "ɑ̃",
-          "gloss": "of it",
-          "gram": "adverbial pronoun"
+          "stress": "tɑ̃",
+          "gloss": "yourself with it",
+          "gram": "te (elided t', yourself) + en (of it): with 's'occuper de'"
         },
         {
           "t": "prie.",
@@ -2343,44 +2167,36 @@
       "trans": "Let me at least explain all that to you.",
       "words": [
         {
-          "t": "Laisse",
+          "t": "Laisse-moi",
           "lemma": "laisser",
           "pos": "verb",
-          "stress": "lɛs",
-          "gloss": "let",
-          "gram": "imperative, 2nd singular"
+          "stress": "lɛsmwa",
+          "gloss": "leave me",
+          "gram": "imperative, 2nd person singular + stressed pronoun moi; 'laisser faire' = leave to it"
         },
         {
-          "t": "-moi",
-          "lemma": "moi",
-          "pos": "pron",
-          "stress": "mwa",
-          "gloss": "me",
-          "gram": "disjunctive pronoun, 1st singular"
+          "t": "au",
+          "lemma": "au",
+          "pos": "prep",
+          "stress": "o",
+          "gloss": "to the, at the",
+          "gram": "contracted preposition à + le"
         },
         {
-          "t": "au moins",
-          "lemma": "au moins",
+          "t": "moins",
+          "lemma": "moins",
           "pos": "adv",
-          "stress": "o.mwɛ̃",
-          "gloss": "at least",
-          "gram": "adverbial phrase"
+          "stress": "mwɛ̃",
+          "gloss": "less",
+          "gram": "adverb"
         },
         {
-          "t": "t'",
-          "lemma": "te",
-          "pos": "pron",
-          "stress": "t",
-          "gloss": "to you",
-          "gram": "indirect object pronoun, 2nd singular"
-        },
-        {
-          "t": "expliquer",
+          "t": "t'expliquer",
           "lemma": "expliquer",
           "pos": "verb",
-          "stress": "ɛksplike",
-          "gloss": "to explain",
-          "gram": "infinitive"
+          "stress": "tɛksplike",
+          "gloss": "explain to you",
+          "gram": "elided indirect object pronoun te + infinitive"
         },
         {
           "t": "tout",
@@ -2405,20 +2221,12 @@
       "trans": "It is over between us, Mr. Barneville.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "terminé",
@@ -2467,20 +2275,12 @@
       "trans": "It is over between us, Mr. Barneville.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "demonstrative pronoun, elided"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd singular"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "terminé",
@@ -7746,6 +7546,77 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "au": {
+      "examples": [
+        {
+          "text": "Non, au contraire.",
+          "trans": "No, quite the opposite."
+        },
+        {
+          "text": "Au revoir!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "Je suis au boulot.",
+          "trans": "I'm at work."
+        }
+      ],
+      "forms": null,
+      "gloss": "to the, at the",
+      "lemma": "au",
+      "meanings": [
+        {
+          "en": "to the, at the (à + le)",
+          "note": "à + le contracted: au boulot, au téléphone"
+        },
+        {
+          "en": "au contraire = on the contrary; au revoir = goodbye",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "o",
+      "related": []
+    },
+    "moins": {
+      "examples": [
+        {
+          "text": "Il est moins grand que moi.",
+          "trans": "He's shorter than me."
+        },
+        {
+          "text": "Attends au moins une heure.",
+          "trans": "Wait at least an hour."
+        },
+        {
+          "text": "Mais il veut quelqu'un de moins de trente ans.",
+          "trans": "But he wants someone under thirty."
+        }
+      ],
+      "forms": null,
+      "gloss": "less",
+      "lemma": "moins",
+      "meanings": [
+        {
+          "en": "less",
+          "note": "moins de trente ans = under thirty"
+        },
+        {
+          "en": "au moins = at least",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "mwɛ̃",
+      "related": [
+        {
+          "word": "moindre",
+          "gloss": "slightest"
         }
       ]
     }

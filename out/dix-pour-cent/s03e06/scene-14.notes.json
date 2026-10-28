@@ -7,7 +7,7 @@
       "trans": "Quiet, she begins her line.",
       "words": [
         {
-          "t": "Silence",
+          "t": "Silence,",
           "lemma": "silence",
           "pos": "noun",
           "stress": "silɑ̃s",
@@ -39,7 +39,7 @@
           "gram": "fem sing poss det"
         },
         {
-          "t": "réplique",
+          "t": "réplique.",
           "lemma": "réplique",
           "pos": "noun",
           "stress": "ʁeplik",
@@ -93,7 +93,7 @@
           "gram": "contracted prep+art"
         },
         {
-          "t": "morts",
+          "t": "morts.",
           "lemma": "mort",
           "pos": "noun",
           "stress": "mɔʁ",
@@ -139,7 +139,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "enfin",
+          "t": "enfin.",
           "lemma": "enfin",
           "pos": "adv",
           "stress": "ɑ̃fɛ̃",
@@ -161,7 +161,7 @@
           "gram": "interjection"
         },
         {
-          "t": "là",
+          "t": "là!",
           "lemma": "là",
           "pos": "adv",
           "stress": "la",
@@ -177,12 +177,28 @@
           "gram": "2nd plur imp"
         },
         {
-          "t": "tout de suite",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -231,7 +247,7 @@
           "gram": "fem sing dem det"
         },
         {
-          "t": "fois",
+          "t": "fois?",
           "lemma": "fois",
           "pos": "noun",
           "stress": "fwa",
@@ -245,20 +261,12 @@
       "trans": "I hear a very annoying noise.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "entends",
+          "t": "J'entends",
           "lemma": "entendre",
           "pos": "verb",
-          "stress": "ɑ̃tɑ̃",
-          "gloss": "hear",
-          "gram": "1st sing pres"
+          "stress": "ʒɑ̃tɑ̃",
+          "gloss": "I mean (lit. I hear/intend)",
+          "gram": "elided je + present, 1st person singular"
         },
         {
           "t": "un",
@@ -285,7 +293,7 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "gênant",
+          "t": "gênant.",
           "lemma": "gênant",
           "pos": "adj",
           "stress": "ʒenɑ̃",
@@ -299,20 +307,12 @@
       "trans": "It is only the night wind.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "seulement",
@@ -339,7 +339,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "nocturne",
+          "t": "nocturne.",
           "lemma": "nocturne",
           "pos": "adj",
           "stress": "nɔktyʁn",
@@ -393,7 +393,7 @@
           "gram": "preposition"
         },
         {
-          "t": "terre",
+          "t": "terre!",
           "lemma": "terre",
           "pos": "noun",
           "stress": "tɛʁ",
@@ -447,7 +447,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "dramatique",
+          "t": "dramatique.",
           "lemma": "dramatique",
           "pos": "adj",
           "stress": "dʁamatik",
@@ -493,20 +493,12 @@
           "gram": "fem sing indef det"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "émotion",
+          "t": "l'émotion.",
           "lemma": "émotion",
           "pos": "noun",
-          "stress": "emosjɔ̃",
-          "gloss": "emotion",
-          "gram": "fem sing noun"
+          "stress": "lemosjɔ̃",
+          "gloss": "the emotion",
+          "gram": "l': fem sing def art + émotion: fem sing noun"
         }
       ]
     },
@@ -515,20 +507,12 @@
       "trans": "The sound engineer can clean that.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "masc sing def art"
-        },
-        {
-          "t": "ingénieur",
+          "t": "L'ingénieur",
           "lemma": "ingénieur",
           "pos": "noun",
-          "stress": "ɛ̃ʒenjœʁ",
-          "gloss": "engineer",
-          "gram": "masc sing noun"
+          "stress": "lɛ̃ʒenjœʁ",
+          "gloss": "the engineer",
+          "gram": "L': masc sing def art + ingénieur: masc sing noun"
         },
         {
           "t": "du",
@@ -563,7 +547,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "ça",
+          "t": "ça.",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
@@ -609,7 +593,7 @@
           "gram": "fem sing indef art"
         },
         {
-          "t": "solution",
+          "t": "solution,",
           "lemma": "solution",
           "pos": "noun",
           "stress": "solysjɔ̃",
@@ -617,7 +601,7 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "Gabriel",
+          "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -663,7 +647,7 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "maintenant",
+          "t": "maintenant.",
           "lemma": "maintenant",
           "pos": "adv",
           "stress": "mɛ̃tnɑ̃",
@@ -677,7 +661,7 @@
       "trans": "Agreed, it is good for me!",
       "words": [
         {
-          "t": "D'accord",
+          "t": "D'accord,",
           "lemma": "d'accord",
           "pos": "adv",
           "stress": "dakoʁ",
@@ -685,20 +669,12 @@
           "gram": "idiom"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bon",
@@ -717,7 +693,7 @@
           "gram": "preposition"
         },
         {
-          "t": "moi",
+          "t": "moi!",
           "lemma": "moi",
           "pos": "pron",
           "stress": "mwa",
@@ -731,7 +707,7 @@
       "trans": "Quiet, she begins her line.",
       "words": [
         {
-          "t": "Silence",
+          "t": "Silence,",
           "lemma": "silence",
           "pos": "noun",
           "stress": "silɑ̃s",
@@ -763,7 +739,7 @@
           "gram": "fem sing poss det"
         },
         {
-          "t": "réplique",
+          "t": "réplique.",
           "lemma": "réplique",
           "pos": "noun",
           "stress": "ʁeplik",
@@ -817,7 +793,7 @@
           "gram": "contracted prep+art"
         },
         {
-          "t": "morts",
+          "t": "morts.",
           "lemma": "mort",
           "pos": "noun",
           "stress": "mɔʁ",
@@ -863,7 +839,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "enfin",
+          "t": "enfin.",
           "lemma": "enfin",
           "pos": "adv",
           "stress": "ɑ̃fɛ̃",
@@ -885,7 +861,7 @@
           "gram": "interjection"
         },
         {
-          "t": "là",
+          "t": "là!",
           "lemma": "là",
           "pos": "adv",
           "stress": "la",
@@ -901,12 +877,28 @@
           "gram": "2nd plur imp"
         },
         {
-          "t": "tout de suite",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -955,7 +947,7 @@
           "gram": "fem sing dem det"
         },
         {
-          "t": "fois",
+          "t": "fois?",
           "lemma": "fois",
           "pos": "noun",
           "stress": "fwa",
@@ -969,20 +961,12 @@
       "trans": "I hear a very annoying noise.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "entends",
+          "t": "J'entends",
           "lemma": "entendre",
           "pos": "verb",
-          "stress": "ɑ̃tɑ̃",
-          "gloss": "hear",
-          "gram": "1st sing pres"
+          "stress": "ʒɑ̃tɑ̃",
+          "gloss": "I mean (lit. I hear/intend)",
+          "gram": "elided je + present, 1st person singular"
         },
         {
           "t": "un",
@@ -1009,7 +993,7 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "gênant",
+          "t": "gênant.",
           "lemma": "gênant",
           "pos": "adj",
           "stress": "ʒenɑ̃",
@@ -1023,20 +1007,12 @@
       "trans": "It is only the night wind.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "seulement",
@@ -1063,7 +1039,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "nocturne",
+          "t": "nocturne.",
           "lemma": "nocturne",
           "pos": "adj",
           "stress": "nɔktyʁn",
@@ -1117,7 +1093,7 @@
           "gram": "preposition"
         },
         {
-          "t": "terre",
+          "t": "terre!",
           "lemma": "terre",
           "pos": "noun",
           "stress": "tɛʁ",
@@ -1171,7 +1147,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "dramatique",
+          "t": "dramatique.",
           "lemma": "dramatique",
           "pos": "adj",
           "stress": "dʁamatik",
@@ -1217,20 +1193,12 @@
           "gram": "fem sing indef det"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "émotion",
+          "t": "l'émotion.",
           "lemma": "émotion",
           "pos": "noun",
-          "stress": "emosjɔ̃",
-          "gloss": "emotion",
-          "gram": "fem sing noun"
+          "stress": "lemosjɔ̃",
+          "gloss": "the emotion",
+          "gram": "l': fem sing def art + émotion: fem sing noun"
         }
       ]
     },
@@ -1239,20 +1207,12 @@
       "trans": "The sound engineer can clean that.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "masc sing def art"
-        },
-        {
-          "t": "ingénieur",
+          "t": "L'ingénieur",
           "lemma": "ingénieur",
           "pos": "noun",
-          "stress": "ɛ̃ʒenjœʁ",
-          "gloss": "engineer",
-          "gram": "masc sing noun"
+          "stress": "lɛ̃ʒenjœʁ",
+          "gloss": "the engineer",
+          "gram": "L': masc sing def art + ingénieur: masc sing noun"
         },
         {
           "t": "du",
@@ -1287,7 +1247,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "ça",
+          "t": "ça.",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
@@ -1333,7 +1293,7 @@
           "gram": "fem sing indef art"
         },
         {
-          "t": "solution",
+          "t": "solution,",
           "lemma": "solution",
           "pos": "noun",
           "stress": "solysjɔ̃",
@@ -1341,7 +1301,7 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "Gabriel",
+          "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -1387,7 +1347,7 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "maintenant",
+          "t": "maintenant.",
           "lemma": "maintenant",
           "pos": "adv",
           "stress": "mɛ̃tnɑ̃",
@@ -1401,7 +1361,7 @@
       "trans": "Agreed, it is good for me!",
       "words": [
         {
-          "t": "D'accord",
+          "t": "D'accord,",
           "lemma": "d'accord",
           "pos": "adv",
           "stress": "dakoʁ",
@@ -1409,20 +1369,12 @@
           "gram": "idiom"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bon",
@@ -1441,7 +1393,7 @@
           "gram": "preposition"
         },
         {
-          "t": "moi",
+          "t": "moi!",
           "lemma": "moi",
           "pos": "pron",
           "stress": "mwa",
@@ -1455,7 +1407,7 @@
       "trans": "Quiet, she begins her line.",
       "words": [
         {
-          "t": "Silence",
+          "t": "Silence,",
           "lemma": "silence",
           "pos": "noun",
           "stress": "silɑ̃s",
@@ -1487,7 +1439,7 @@
           "gram": "fem sing poss det"
         },
         {
-          "t": "réplique",
+          "t": "réplique.",
           "lemma": "réplique",
           "pos": "noun",
           "stress": "ʁeplik",
@@ -1541,7 +1493,7 @@
           "gram": "contracted prep+art"
         },
         {
-          "t": "morts",
+          "t": "morts.",
           "lemma": "mort",
           "pos": "noun",
           "stress": "mɔʁ",
@@ -1587,7 +1539,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "enfin",
+          "t": "enfin.",
           "lemma": "enfin",
           "pos": "adv",
           "stress": "ɑ̃fɛ̃",
@@ -1609,7 +1561,7 @@
           "gram": "interjection"
         },
         {
-          "t": "là",
+          "t": "là!",
           "lemma": "là",
           "pos": "adv",
           "stress": "la",
@@ -1625,12 +1577,28 @@
           "gram": "2nd plur imp"
         },
         {
-          "t": "tout de suite",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudəsɥit",
-          "gloss": "right away",
-          "gram": "adverbial locution"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1679,7 +1647,7 @@
           "gram": "fem sing dem det"
         },
         {
-          "t": "fois",
+          "t": "fois?",
           "lemma": "fois",
           "pos": "noun",
           "stress": "fwa",
@@ -1693,20 +1661,12 @@
       "trans": "I hear a very annoying noise.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "1st sing subj pron"
-        },
-        {
-          "t": "entends",
+          "t": "J'entends",
           "lemma": "entendre",
           "pos": "verb",
-          "stress": "ɑ̃tɑ̃",
-          "gloss": "hear",
-          "gram": "1st sing pres"
+          "stress": "ʒɑ̃tɑ̃",
+          "gloss": "I mean (lit. I hear/intend)",
+          "gram": "elided je + present, 1st person singular"
         },
         {
           "t": "un",
@@ -1733,7 +1693,7 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "gênant",
+          "t": "gênant.",
           "lemma": "gênant",
           "pos": "adj",
           "stress": "ʒenɑ̃",
@@ -1747,20 +1707,12 @@
       "trans": "It is only the night wind.",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "seulement",
@@ -1787,7 +1739,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "nocturne",
+          "t": "nocturne.",
           "lemma": "nocturne",
           "pos": "adj",
           "stress": "nɔktyʁn",
@@ -1841,7 +1793,7 @@
           "gram": "preposition"
         },
         {
-          "t": "terre",
+          "t": "terre!",
           "lemma": "terre",
           "pos": "noun",
           "stress": "tɛʁ",
@@ -1895,7 +1847,7 @@
           "gram": "masc sing noun"
         },
         {
-          "t": "dramatique",
+          "t": "dramatique.",
           "lemma": "dramatique",
           "pos": "adj",
           "stress": "dʁamatik",
@@ -1941,20 +1893,12 @@
           "gram": "fem sing indef det"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "fem sing def art"
-        },
-        {
-          "t": "émotion",
+          "t": "l'émotion.",
           "lemma": "émotion",
           "pos": "noun",
-          "stress": "emosjɔ̃",
-          "gloss": "emotion",
-          "gram": "fem sing noun"
+          "stress": "lemosjɔ̃",
+          "gloss": "the emotion",
+          "gram": "l': fem sing def art + émotion: fem sing noun"
         }
       ]
     },
@@ -1963,20 +1907,12 @@
       "trans": "The sound engineer can clean that.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "masc sing def art"
-        },
-        {
-          "t": "ingénieur",
+          "t": "L'ingénieur",
           "lemma": "ingénieur",
           "pos": "noun",
-          "stress": "ɛ̃ʒenjœʁ",
-          "gloss": "engineer",
-          "gram": "masc sing noun"
+          "stress": "lɛ̃ʒenjœʁ",
+          "gloss": "the engineer",
+          "gram": "L': masc sing def art + ingénieur: masc sing noun"
         },
         {
           "t": "du",
@@ -2011,7 +1947,7 @@
           "gram": "infinitive"
         },
         {
-          "t": "ça",
+          "t": "ça.",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
@@ -2057,7 +1993,7 @@
           "gram": "fem sing indef art"
         },
         {
-          "t": "solution",
+          "t": "solution,",
           "lemma": "solution",
           "pos": "noun",
           "stress": "solysjɔ̃",
@@ -2065,7 +2001,7 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "Gabriel",
+          "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
           "stress": "ɡabʁijɛl",
@@ -2111,7 +2047,7 @@
           "gram": "fem sing noun"
         },
         {
-          "t": "maintenant",
+          "t": "maintenant.",
           "lemma": "maintenant",
           "pos": "adv",
           "stress": "mɛ̃tnɑ̃",
@@ -2125,7 +2061,7 @@
       "trans": "Agreed, it is good for me!",
       "words": [
         {
-          "t": "D'accord",
+          "t": "D'accord,",
           "lemma": "d'accord",
           "pos": "adv",
           "stress": "dakoʁ",
@@ -2133,20 +2069,12 @@
           "gram": "idiom"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bon",
@@ -2165,7 +2093,7 @@
           "gram": "preposition"
         },
         {
-          "t": "moi",
+          "t": "moi!",
           "lemma": "moi",
           "pos": "pron",
           "stress": "mwa",
@@ -2179,7 +2107,7 @@
       "trans": "Agreed, it is good for me!",
       "words": [
         {
-          "t": "D'accord",
+          "t": "D'accord,",
           "lemma": "d'accord",
           "pos": "adv",
           "stress": "dakoʁ",
@@ -2187,20 +2115,12 @@
           "gram": "idiom"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "it",
-          "gram": "dem pron"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛ",
-          "gloss": "is",
-          "gram": "3rd sing pres"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "bon",
@@ -2219,7 +2139,7 @@
           "gram": "preposition"
         },
         {
-          "t": "moi",
+          "t": "moi!",
           "lemma": "moi",
           "pos": "pron",
           "stress": "mwa",

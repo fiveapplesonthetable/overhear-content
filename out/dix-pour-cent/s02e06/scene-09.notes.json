@@ -145,20 +145,12 @@
       "trans": "The Chinese actress Gong Li is wearing one for the opening ceremony.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "actrice",
+          "t": "L'actrice",
           "lemma": "actrice",
           "pos": "noun",
-          "stress": "aktʁis",
-          "gloss": "actress",
-          "gram": "feminine singular"
+          "stress": "laktʁis",
+          "gloss": "the actress",
+          "gram": "le (elided l', the) + actrice: feminine singular"
         },
         {
           "t": "chinoise",
@@ -169,10 +161,18 @@
           "gram": "feminine singular adjective"
         },
         {
-          "t": "Gong Li",
+          "t": "Gong",
           "lemma": "gongli",
           "pos": "name",
-          "stress": "ɡɔŋli",
+          "stress": null,
+          "gloss": "Gong Li",
+          "gram": "proper name"
+        },
+        {
+          "t": "Li",
+          "lemma": "gongli",
+          "pos": "name",
+          "stress": null,
           "gloss": "Gong Li",
           "gram": "proper name"
         },
@@ -225,20 +225,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "ouverture.",
+          "t": "d'ouverture.",
           "lemma": "ouverture",
           "pos": "noun",
-          "stress": "uvɛʁtyʁ",
-          "gloss": "opening",
-          "gram": "feminine singular"
+          "stress": "duvɛʁtyʁ",
+          "gloss": "of opening",
+          "gram": "d': preposition, elided + ouverture.: feminine singular"
         }
       ]
     },
@@ -325,12 +317,20 @@
           "gram": "ce + est: present, 3rd singular"
         },
         {
-          "t": "quand même",
+          "t": "quand",
           "lemma": "quand même",
-          "pos": "adv",
-          "stress": "kɑ̃mɛm",
-          "gloss": "still, anyway",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "kɑ̃",
+          "gloss": "still, all the same",
+          "gram": "quand même, first part"
+        },
+        {
+          "t": "même",
+          "lemma": "quand même",
+          "pos": "phrase",
+          "stress": "mɛm",
+          "gloss": "same",
+          "gram": "second part of 'quand même' = after all"
         },
         {
           "t": "un",
@@ -443,12 +443,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "en même temps.",
-          "lemma": "en même temps",
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "même",
+          "lemma": "même",
           "pos": "adv",
-          "stress": "ɑ̃mɛmtɑ̃",
-          "gloss": "at the same time",
-          "gram": "adverbial phrase"
+          "stress": "mɛm",
+          "gloss": "even",
+          "gram": "adverb"
+        },
+        {
+          "t": "temps.",
+          "lemma": "temps",
+          "pos": "noun",
+          "stress": "tɑ̃",
+          "gloss": "time",
+          "gram": "masculine singular"
         }
       ]
     },
@@ -497,20 +513,12 @@
           "gram": "present, 3rd plural"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "themselves",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "habiller",
+          "t": "s'habiller",
           "lemma": "habiller",
           "pos": "verb",
-          "stress": "abije",
-          "gloss": "dress",
-          "gram": "infinitive"
+          "stress": "sabije",
+          "gloss": "themselves dress",
+          "gram": "s': reflexive pronoun, elided + habiller: infinitive"
         },
         {
           "t": "pareil!",
@@ -721,10 +729,18 @@
       "trans": "Gong Li is the icon of L'Oreal, the main partner of the festival.",
       "words": [
         {
-          "t": "Gong Li",
+          "t": "Gong",
           "lemma": "gongli",
           "pos": "name",
-          "stress": "ɡɔŋli",
+          "stress": null,
+          "gloss": "Gong Li",
+          "gram": "proper name"
+        },
+        {
+          "t": "Li",
+          "lemma": "gongli",
+          "pos": "name",
+          "stress": null,
           "gloss": "Gong Li",
           "gram": "proper name"
         },
@@ -737,20 +753,12 @@
           "gram": "present, 3rd singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "icône",
+          "t": "l'icône",
           "lemma": "icône",
           "pos": "noun",
-          "stress": "ikon",
-          "gloss": "icon",
-          "gram": "feminine singular"
+          "stress": "likon",
+          "gloss": "the icon",
+          "gram": "l': definite article, elided + icône: feminine singular"
         },
         {
           "t": "de",
@@ -965,20 +973,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "besoin",
@@ -1321,20 +1321,12 @@
       "trans": "The Chinese actress Gong Li is wearing one for the opening ceremony.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "actrice",
+          "t": "L'actrice",
           "lemma": "actrice",
           "pos": "noun",
-          "stress": "aktʁis",
-          "gloss": "actress",
-          "gram": "feminine singular"
+          "stress": "laktʁis",
+          "gloss": "the actress",
+          "gram": "le (elided l', the) + actrice: feminine singular"
         },
         {
           "t": "chinoise",
@@ -1345,10 +1337,18 @@
           "gram": "feminine singular adjective"
         },
         {
-          "t": "Gong Li",
+          "t": "Gong",
           "lemma": "gongli",
           "pos": "name",
-          "stress": "ɡɔŋli",
+          "stress": null,
+          "gloss": "Gong Li",
+          "gram": "proper name"
+        },
+        {
+          "t": "Li",
+          "lemma": "gongli",
+          "pos": "name",
+          "stress": null,
           "gloss": "Gong Li",
           "gram": "proper name"
         },
@@ -1401,20 +1401,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "ouverture.",
+          "t": "d'ouverture.",
           "lemma": "ouverture",
           "pos": "noun",
-          "stress": "uvɛʁtyʁ",
-          "gloss": "opening",
-          "gram": "feminine singular"
+          "stress": "duvɛʁtyʁ",
+          "gloss": "of opening",
+          "gram": "d': preposition, elided + ouverture.: feminine singular"
         }
       ]
     },
@@ -1501,12 +1493,20 @@
           "gram": "ce + est: present, 3rd singular"
         },
         {
-          "t": "quand même",
+          "t": "quand",
           "lemma": "quand même",
-          "pos": "adv",
-          "stress": "kɑ̃mɛm",
-          "gloss": "still, anyway",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "kɑ̃",
+          "gloss": "still, all the same",
+          "gram": "quand même, first part"
+        },
+        {
+          "t": "même",
+          "lemma": "quand même",
+          "pos": "phrase",
+          "stress": "mɛm",
+          "gloss": "same",
+          "gram": "second part of 'quand même' = after all"
         },
         {
           "t": "un",
@@ -1619,12 +1619,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "en même temps.",
-          "lemma": "en même temps",
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "même",
+          "lemma": "même",
           "pos": "adv",
-          "stress": "ɑ̃mɛmtɑ̃",
-          "gloss": "at the same time",
-          "gram": "adverbial phrase"
+          "stress": "mɛm",
+          "gloss": "even",
+          "gram": "adverb"
+        },
+        {
+          "t": "temps.",
+          "lemma": "temps",
+          "pos": "noun",
+          "stress": "tɑ̃",
+          "gloss": "time",
+          "gram": "masculine singular"
         }
       ]
     },
@@ -1673,20 +1689,12 @@
           "gram": "present, 3rd plural"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "themselves",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "habiller",
+          "t": "s'habiller",
           "lemma": "habiller",
           "pos": "verb",
-          "stress": "abije",
-          "gloss": "dress",
-          "gram": "infinitive"
+          "stress": "sabije",
+          "gloss": "themselves dress",
+          "gram": "s': reflexive pronoun, elided + habiller: infinitive"
         },
         {
           "t": "pareil!",
@@ -1897,10 +1905,18 @@
       "trans": "Gong Li is the icon of L'Oreal, the main partner of the festival.",
       "words": [
         {
-          "t": "Gong Li",
+          "t": "Gong",
           "lemma": "gongli",
           "pos": "name",
-          "stress": "ɡɔŋli",
+          "stress": null,
+          "gloss": "Gong Li",
+          "gram": "proper name"
+        },
+        {
+          "t": "Li",
+          "lemma": "gongli",
+          "pos": "name",
+          "stress": null,
           "gloss": "Gong Li",
           "gram": "proper name"
         },
@@ -1913,20 +1929,12 @@
           "gram": "present, 3rd singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "icône",
+          "t": "l'icône",
           "lemma": "icône",
           "pos": "noun",
-          "stress": "ikon",
-          "gloss": "icon",
-          "gram": "feminine singular"
+          "stress": "likon",
+          "gloss": "the icon",
+          "gram": "l': definite article, elided + icône: feminine singular"
         },
         {
           "t": "de",
@@ -2141,20 +2149,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "besoin",
@@ -2497,20 +2497,12 @@
       "trans": "The Chinese actress Gong Li is wearing one for the opening ceremony.",
       "words": [
         {
-          "t": "L'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "actrice",
+          "t": "L'actrice",
           "lemma": "actrice",
           "pos": "noun",
-          "stress": "aktʁis",
-          "gloss": "actress",
-          "gram": "feminine singular"
+          "stress": "laktʁis",
+          "gloss": "the actress",
+          "gram": "le (elided l', the) + actrice: feminine singular"
         },
         {
           "t": "chinoise",
@@ -2521,10 +2513,18 @@
           "gram": "feminine singular adjective"
         },
         {
-          "t": "Gong Li",
+          "t": "Gong",
           "lemma": "gongli",
           "pos": "name",
-          "stress": "ɡɔŋli",
+          "stress": null,
+          "gloss": "Gong Li",
+          "gram": "proper name"
+        },
+        {
+          "t": "Li",
+          "lemma": "gongli",
+          "pos": "name",
+          "stress": null,
           "gloss": "Gong Li",
           "gram": "proper name"
         },
@@ -2577,20 +2577,12 @@
           "gram": "feminine singular"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "d",
-          "gloss": "of",
-          "gram": "preposition, elided"
-        },
-        {
-          "t": "ouverture.",
+          "t": "d'ouverture.",
           "lemma": "ouverture",
           "pos": "noun",
-          "stress": "uvɛʁtyʁ",
-          "gloss": "opening",
-          "gram": "feminine singular"
+          "stress": "duvɛʁtyʁ",
+          "gloss": "of opening",
+          "gram": "d': preposition, elided + ouverture.: feminine singular"
         }
       ]
     },
@@ -2677,12 +2669,20 @@
           "gram": "ce + est: present, 3rd singular"
         },
         {
-          "t": "quand même",
+          "t": "quand",
           "lemma": "quand même",
-          "pos": "adv",
-          "stress": "kɑ̃mɛm",
-          "gloss": "still, anyway",
-          "gram": "adverbial phrase"
+          "pos": "phrase",
+          "stress": "kɑ̃",
+          "gloss": "still, all the same",
+          "gram": "quand même, first part"
+        },
+        {
+          "t": "même",
+          "lemma": "quand même",
+          "pos": "phrase",
+          "stress": "mɛm",
+          "gloss": "same",
+          "gram": "second part of 'quand même' = after all"
         },
         {
           "t": "un",
@@ -2795,12 +2795,28 @@
           "gram": "feminine singular"
         },
         {
-          "t": "en même temps.",
-          "lemma": "en même temps",
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "même",
+          "lemma": "même",
           "pos": "adv",
-          "stress": "ɑ̃mɛmtɑ̃",
-          "gloss": "at the same time",
-          "gram": "adverbial phrase"
+          "stress": "mɛm",
+          "gloss": "even",
+          "gram": "adverb"
+        },
+        {
+          "t": "temps.",
+          "lemma": "temps",
+          "pos": "noun",
+          "stress": "tɑ̃",
+          "gloss": "time",
+          "gram": "masculine singular"
         }
       ]
     },
@@ -2849,20 +2865,12 @@
           "gram": "present, 3rd plural"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "s",
-          "gloss": "themselves",
-          "gram": "reflexive pronoun, elided"
-        },
-        {
-          "t": "habiller",
+          "t": "s'habiller",
           "lemma": "habiller",
           "pos": "verb",
-          "stress": "abije",
-          "gloss": "dress",
-          "gram": "infinitive"
+          "stress": "sabije",
+          "gloss": "themselves dress",
+          "gram": "s': reflexive pronoun, elided + habiller: infinitive"
         },
         {
           "t": "pareil!",
@@ -3073,10 +3081,18 @@
       "trans": "Gong Li is the icon of L'Oreal, the main partner of the festival.",
       "words": [
         {
-          "t": "Gong Li",
+          "t": "Gong",
           "lemma": "gongli",
           "pos": "name",
-          "stress": "ɡɔŋli",
+          "stress": null,
+          "gloss": "Gong Li",
+          "gram": "proper name"
+        },
+        {
+          "t": "Li",
+          "lemma": "gongli",
+          "pos": "name",
+          "stress": null,
           "gloss": "Gong Li",
           "gram": "proper name"
         },
@@ -3089,20 +3105,12 @@
           "gram": "present, 3rd singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "l",
-          "gloss": "the",
-          "gram": "definite article, elided"
-        },
-        {
-          "t": "icône",
+          "t": "l'icône",
           "lemma": "icône",
           "pos": "noun",
-          "stress": "ikon",
-          "gloss": "icon",
-          "gram": "feminine singular"
+          "stress": "likon",
+          "gloss": "the icon",
+          "gram": "l': definite article, elided + icône: feminine singular"
         },
         {
           "t": "de",
@@ -3317,20 +3325,12 @@
           "gram": "coordinating conjunction"
         },
         {
-          "t": "j'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒ",
-          "gloss": "I",
-          "gram": "subject pronoun, elided"
-        },
-        {
-          "t": "ai",
+          "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "e",
-          "gloss": "have",
-          "gram": "present, 1st singular"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "besoin",
@@ -9094,6 +9094,70 @@
         {
           "word": "reêtre",
           "gloss": "verb family relative (to be)"
+        }
+      ]
+    },
+    "temps": {
+      "examples": [
+        {
+          "text": "Tout le temps.",
+          "trans": "All the time."
+        },
+        {
+          "text": "Je n'ai pas le temps.",
+          "trans": "I don't have time."
+        },
+        {
+          "text": "Mes amies en parlent tout le temps.",
+          "trans": "My friends talk about it all the time."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le temps",
+              "les temps"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "m",
+      "gloss": "time; weather",
+      "lemma": "temps",
+      "meanings": [
+        {
+          "en": "time",
+          "note": "tout le temps = all the time"
+        },
+        {
+          "en": "weather",
+          "note": "quel temps fait-il?"
+        }
+      ],
+      "moreForms": [],
+      "plural": "temps",
+      "pos": "noun",
+      "stress": "tɑ̃",
+      "related": [
+        {
+          "word": "temporaire",
+          "gloss": "temporary"
+        },
+        {
+          "word": "tempérament",
+          "gloss": "temperament"
+        },
+        {
+          "word": "température",
+          "gloss": "temperature"
         }
       ]
     }

@@ -7,20 +7,36 @@
       "trans": "What is going on here?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "se passe",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "se",
           "lemma": "se passer",
           "pos": "verb",
-          "stress": "səpase",
+          "stress": "sə",
+          "gloss": "itself",
+          "gram": "reflexive pronoun in 'se passer'"
+        },
+        {
+          "t": "passe",
+          "lemma": "se passer",
+          "pos": "verb",
+          "stress": "pas",
           "gloss": "is happening",
-          "gram": "conjugated verb"
+          "gram": "present, 3rd person singular, reflexive"
         },
         {
           "t": "ici?",
@@ -153,12 +169,20 @@
           "gram": "interjection"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course / certainly",
-          "gram": "fixed expression"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "ma",
@@ -191,20 +215,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "as",
+          "t": "n'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "na",
+          "gloss": "haven't",
+          "gram": "ne + as: present 2nd person singular, helper of the passé composé"
         },
         {
           "t": "pas",
@@ -331,12 +347,28 @@
           "gram": "preposition"
         },
         {
-          "t": "tout le monde?",
+          "t": "tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tuləmɔ̃d",
-          "gloss": "everyone / everybody",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde?",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         }
       ]
     },
@@ -491,20 +523,12 @@
       "trans": "I finally read this book!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "enfin",
@@ -545,20 +569,12 @@
       "trans": "It is crazy, it makes no sense!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "dingue,",
@@ -569,28 +585,28 @@
           "gram": "adjective"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "n'importe quoi!",
+          "t": "n'importe",
           "lemma": "n'importe quoi",
           "pos": "phrase",
-          "stress": "nɛ̃pɔʁtəkwa",
-          "gloss": "nonsense / rubbish",
-          "gram": "fixed expression"
+          "stress": "nɛ̃pɔʁt",
+          "gloss": "nonsense",
+          "gram": "idiomatic negative locution"
+        },
+        {
+          "t": "quoi!",
+          "lemma": "n'importe quoi",
+          "pos": "phrase",
+          "stress": "kwa",
+          "gloss": "what (nonsense)",
+          "gram": "second part of 'n'importe quoi' = nonsense!"
         }
       ]
     },
@@ -669,12 +685,28 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "tout de suite!",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudsɥit",
-          "gloss": "immediately / right away",
-          "gram": "adverb"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -683,20 +715,36 @@
       "trans": "What is going on here?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "se passe",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "se",
           "lemma": "se passer",
           "pos": "verb",
-          "stress": "səpase",
+          "stress": "sə",
+          "gloss": "itself",
+          "gram": "reflexive pronoun in 'se passer'"
+        },
+        {
+          "t": "passe",
+          "lemma": "se passer",
+          "pos": "verb",
+          "stress": "pas",
           "gloss": "is happening",
-          "gram": "conjugated verb"
+          "gram": "present, 3rd person singular, reflexive"
         },
         {
           "t": "ici?",
@@ -829,12 +877,20 @@
           "gram": "interjection"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course / certainly",
-          "gram": "fixed expression"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "ma",
@@ -867,20 +923,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "as",
+          "t": "n'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "na",
+          "gloss": "haven't",
+          "gram": "ne + as: present 2nd person singular, helper of the passé composé"
         },
         {
           "t": "pas",
@@ -1007,12 +1055,28 @@
           "gram": "preposition"
         },
         {
-          "t": "tout le monde?",
+          "t": "tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tuləmɔ̃d",
-          "gloss": "everyone / everybody",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde?",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         }
       ]
     },
@@ -1167,20 +1231,12 @@
       "trans": "I finally read this book!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "enfin",
@@ -1221,20 +1277,12 @@
       "trans": "It is crazy, it makes no sense!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "dingue,",
@@ -1245,28 +1293,28 @@
           "gram": "adjective"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "n'importe quoi!",
+          "t": "n'importe",
           "lemma": "n'importe quoi",
           "pos": "phrase",
-          "stress": "nɛ̃pɔʁtəkwa",
-          "gloss": "nonsense / rubbish",
-          "gram": "fixed expression"
+          "stress": "nɛ̃pɔʁt",
+          "gloss": "nonsense",
+          "gram": "idiomatic negative locution"
+        },
+        {
+          "t": "quoi!",
+          "lemma": "n'importe quoi",
+          "pos": "phrase",
+          "stress": "kwa",
+          "gloss": "what (nonsense)",
+          "gram": "second part of 'n'importe quoi' = nonsense!"
         }
       ]
     },
@@ -1345,12 +1393,28 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "tout de suite!",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudsɥit",
-          "gloss": "immediately / right away",
-          "gram": "adverb"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -1359,20 +1423,36 @@
       "trans": "What is going on here?",
       "words": [
         {
-          "t": "Qu'est-ce qui",
+          "t": "Qu'est-ce",
           "lemma": "qu'est-ce qui",
           "pos": "pron",
-          "stress": "kɛsəki",
+          "stress": "kɛskə",
           "gloss": "what",
-          "gram": "pronoun"
+          "gram": "first part of pronoun idiom 'qu'est-ce qui'"
         },
         {
-          "t": "se passe",
+          "t": "qui",
+          "lemma": "qu'est-ce qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "that",
+          "gram": "second part of pronoun idiom 'qu'est-ce qui'"
+        },
+        {
+          "t": "se",
           "lemma": "se passer",
           "pos": "verb",
-          "stress": "səpase",
+          "stress": "sə",
+          "gloss": "itself",
+          "gram": "reflexive pronoun in 'se passer'"
+        },
+        {
+          "t": "passe",
+          "lemma": "se passer",
+          "pos": "verb",
+          "stress": "pas",
           "gloss": "is happening",
-          "gram": "conjugated verb"
+          "gram": "present, 3rd person singular, reflexive"
         },
         {
           "t": "ici?",
@@ -1505,12 +1585,20 @@
           "gram": "interjection"
         },
         {
-          "t": "bien sûr,",
+          "t": "bien",
           "lemma": "bien sûr",
           "pos": "phrase",
-          "stress": "bjɛ̃syʁ",
-          "gloss": "of course / certainly",
-          "gram": "fixed expression"
+          "stress": "bjɛ̃",
+          "gloss": "well, very",
+          "gram": "first part of 'bien sûr'"
+        },
+        {
+          "t": "sûr,",
+          "lemma": "bien sûr",
+          "pos": "phrase",
+          "stress": "syʁ",
+          "gloss": "sure, of course",
+          "gram": "second part of 'bien sûr' = of course"
         },
         {
           "t": "ma",
@@ -1543,20 +1631,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "n'",
-          "lemma": "ne",
-          "pos": "part",
-          "stress": "nə",
-          "gloss": "not",
-          "gram": "particle"
-        },
-        {
-          "t": "as",
+          "t": "n'as",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "na",
+          "gloss": "haven't",
+          "gram": "ne + as: present 2nd person singular, helper of the passé composé"
         },
         {
           "t": "pas",
@@ -1683,12 +1763,28 @@
           "gram": "preposition"
         },
         {
-          "t": "tout le monde?",
+          "t": "tout",
           "lemma": "tout le monde",
-          "pos": "pron",
-          "stress": "tuləmɔ̃d",
-          "gloss": "everyone / everybody",
-          "gram": "pronoun"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "le",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "lə",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
+        },
+        {
+          "t": "monde?",
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "mɔ̃d",
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         }
       ]
     },
@@ -1843,20 +1939,12 @@
       "trans": "I finally read this book!",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "conjugated verb"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "enfin",
@@ -1897,20 +1985,12 @@
       "trans": "It is crazy, it makes no sense!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "dingue,",
@@ -1921,28 +2001,28 @@
           "gram": "adjective"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "n'importe quoi!",
+          "t": "n'importe",
           "lemma": "n'importe quoi",
           "pos": "phrase",
-          "stress": "nɛ̃pɔʁtəkwa",
-          "gloss": "nonsense / rubbish",
-          "gram": "fixed expression"
+          "stress": "nɛ̃pɔʁt",
+          "gloss": "nonsense",
+          "gram": "idiomatic negative locution"
+        },
+        {
+          "t": "quoi!",
+          "lemma": "n'importe quoi",
+          "pos": "phrase",
+          "stress": "kwa",
+          "gloss": "what (nonsense)",
+          "gram": "second part of 'n'importe quoi' = nonsense!"
         }
       ]
     },
@@ -2021,12 +2101,28 @@
           "gram": "conjugated verb"
         },
         {
-          "t": "tout de suite!",
+          "t": "tout",
           "lemma": "tout de suite",
-          "pos": "adv",
-          "stress": "tudsɥit",
-          "gloss": "immediately / right away",
-          "gram": "adverb"
+          "pos": "phrase",
+          "stress": "tu",
+          "gloss": "all, right",
+          "gram": "first part of 'tout de suite' = right away"
+        },
+        {
+          "t": "de",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "də",
+          "gloss": "of",
+          "gram": "second part of 'tout de suite'"
+        },
+        {
+          "t": "suite!",
+          "lemma": "tout de suite",
+          "pos": "phrase",
+          "stress": "sɥit",
+          "gloss": "away, at once",
+          "gram": "third part of 'tout de suite' = immediately"
         }
       ]
     },
@@ -2035,20 +2131,12 @@
       "trans": "It is over!",
       "words": [
         {
-          "t": "C'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "pronoun"
-        },
-        {
-          "t": "est",
+          "t": "C'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "conjugated verb"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "terminé!",
