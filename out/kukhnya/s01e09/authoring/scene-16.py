@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = 'In the pastry kitchen of Claude Monet, pastry chef Louis is finishing an elaborate banquet cake. Chef Barinov arrives to inspect the preparation, but they discover a small tool stuck in the cream. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around The Banquet Cake line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the pastry kitchen, Louis puts the final touches on an elaborate celebration cake, but Chef Barinov notices a small metal tool accidentally stuck inside the cream. Next time you watch the episode, listen for the Russian expressions for 'cake' and 'to play' — you will catch every word right away. See you next time!"
+INTRO = "The banquet cake is almost ready in the pastry section, and Louis is proud of it. Barinov comes by to check. Then he spots something in the cream that shouldn't be there. Here's the scene in Russian first."
+OPENER = "Let's go back through it slowly."
+TRANSITION = 'Now the whole scene again, with no stops.'
+OUTRO = "Louis will fix it, and he promises the cake will be perfect. What the guests don't know won't hurt them. Until next time."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('louis', 'Шеф, я почти закончил этот торт.', 'Chef, I have almost finished this cake.', [], ''),
@@ -31,15 +31,17 @@ STORY = [
     ('louis', 'Обещаю, торт будет идеальным.', 'I promise, the cake will be perfect.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I have almost finished this cake.' In the pastry section, Louis proudly tells the chef that the banquet cake is nearly finished."),
-    (1, None, "'Show it to me, Louis.' Barinov steps over and asks Louis to show him the cake."),
-    (2, None, "'I think the cake can be served soon.' Louis says the dessert is almost ready to go out to the dining room."),
-    (3, None, "'Wait, what on earth is this?' Leaning in closer, Viktor freezes and asks what on earth is sticking out of the frosting."),
-    (4, None, "'Oh, this is an iron clamp!' Louis gasps as he recognizes an iron clamp wedged into the cake."),
-    (5, None, "'This is a celebration cake for the guests!' Barinov reminds him in horror that this cake is for the VIP banquet guests."),
-    (6, None, "'Probably the little girl was playing here.' Louis guesses that the little girl must have left the tool there while playing."),
-    (7, None, "'Chef, calm down, no need to shout.' Seeing the chef's face turn red, Louis begs him to stay calm and not shout."),
-    (8, None, "'I will quickly fix everything right now.' The pastry chef promises to patch up the frosting right away."),
-    (9, None, "'Make it pretty so the guests notice nothing.' Viktor orders him to smooth it over cleanly so the guests never suspect a thing."),
-    (10, None, "'I promise, the cake will be perfect.' Louis swears the cake will look flawless when it hits the table. Now listen to the full conversation once more."),
+    (0, None, '\'Chef, I have almost finished this cake.\' Louis uses the term for "finished" that ends in the man\'s -l, as Max did. It\'s a modest, tired sentence. A pastry chef who has been up since dawn does not shout about it.'),
+    (1, None, '\'Show it to me, Louis.\' It\'s the same short command the chef used with Alisa\'s face. There\'s no "please" and no "you". Barinov is a man who has seen too many cakes go wrong, and he wants to look first.'),
+    (2, None, '\'I think the cake can be served soon.\' The russian for "it\'s possible" is the opposite of the "not allowed" word from the chocolate talk. Louis says it with caution, as if he knew something. He is hoping.'),
+    (3, None, '\'Wait, what on earth is this?\' The Russian is "this still what such", and the "still" adds the "on earth". It\'s the standard way to ask what something odd is. Barinov has seen it, and it can\'t be good.'),
+    (4, None, "'Oh, this is an iron clamp!' The word for iron grows from the Russian for the metal, and it takes a feminine ending to match the clamp. Louis is horrified, and rightly so. A tool in a banquet cake is a disaster."),
+    (5, None, '\'Where did it come from in the cream?\' This is the third "where" word, the one that means "from where". The verb literally says "took itself", which is how Russian says that something has come to be somewhere. Barinov asks as calmly as he can.'),
+    (6, None, '\'This is a celebration cake for the guests!\' The term for "festive" grows from the Russian for holiday. Barinov is outraged, because a tool in the cake would ruin the whole evening, and a hundred thousand rubles with it.'),
+    (7, None, '\'Probably the little girl was playing here.\' Louis names the culprit without saying her name. He means Alisa, of course. The girl\'s past ending is a small clue, and so is the word "here", pointing at the pastry bench.'),
+    (8, None, "'Did Alisa touch your cake?' It is the same word Max used for the knife, now with a girl's ending. There is no question word, only the voice rising. Barinov's anger is already building."),
+    (9, None, '\'Chef, calm down, no need to shout.\' The adverb for "calmly" works alone as "calm down". Louis is the nervous one here, and he tries to soothe. "Not needed to shout" is the "needed" pattern again.'),
+    (10, None, '\'I will quickly fix everything right now.\' The word for "fix" grows from the Russian for "right" or "correct", so it means "make right". Louis rolls up his sleeves. He knows how to rescue a cake, and he is calm about it.'),
+    (11, None, '\'Make it pretty so the guests notice nothing.\' "Make beautifully" is how Russian says it: the adverb of "beautiful". The "so that" word is back from the baking lesson. The "nothing noticed" part has the double negative.'),
+    (12, None, '\'I promise, the cake will be perfect.\' It\'s the same word Alisa used when she promised to be good. And "perfect" is the word "ideal" with a Russian ending. Louis keeps his word, and the cake saves the evening.'),
 ]

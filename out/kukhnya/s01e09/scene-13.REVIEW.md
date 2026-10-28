@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Тихо все, мне нужна полная тишина! | Quiet everyone, I need complete silence! | #282: Тихо все, полная тишина | verbatim |
-| 2 | Лёва | Шеф, мы уже выключили все шумные приборы. | Chef, we have already turned off all noisy equipment. | #284: Выключили все приборы | verbatim |
-| 3 | Шеф | Молчать, я требую абсолютного спокойствия на кухне. | Be quiet, I demand absolute calm in the kitchen. | #283: Молчать | verbatim |
-| 4 | Лёва | Все повара замолчали и стоят на месте. | All the cooks fell silent and are standing in place. | #285: Все заткнулись | verbatim |
-| 5 | Шеф | Не дышать, я хочу слышать каждый тихий звук. | Do not breathe, I want to hear every quiet sound. | #286: Не дышать | verbatim |
-| 6 | Лёва | Вы уверены, что наша маленькая гостья здесь? | Are you sure our little guest is here? | #286: Мне нужна полная гробовая тишина | verbatim |
-| 7 | Шеф | Она точно где-то спряталась в этом зале. | She definitely hid somewhere in this dining room. | #286: Мне нужна полная | verbatim |
-| 8 | Лёва | Я слышу странный лёгкий шорох возле стола. | I hear a strange faint rustling near the table. | #286: полная гробовая тишина | verbatim |
-| 9 | Шеф | Кто сейчас стоит там около большого холодильника? | Who is standing there near the big refrigerator right now? | #287: Инвалид | verbatim |
-| 10 | Лёва | Там никого нет, только большие коробки продуктов. | There is no one there, only large boxes of groceries. | #286: гробовая тишина | verbatim |
-| 11 | Шеф | Смотри внимательно, девочка сидит прямо под столом! | Look carefully, the girl is sitting right under the table! | #286: Мне нужна | verbatim |
-| 12 | Лёва | Какое счастье, мы наконец нашли нашу пропажу! | What joy, we finally found our missing one! | #286: тишина | verbatim |
+| 1 | Шеф | Тихо все, мне нужна полная тишина! | Quiet everyone, I need complete silence! | #282 00:17:29: Тихо все, полная тишина | verbatim |
+| 2 | Лёва | Шеф, мы уже выключили все шумные приборы. | Chef, we have already turned off all noisy equipment. | #284 00:17:33: Выключили все приборы | verbatim |
+| 3 | Шеф | Молчать, я требую абсолютного спокойствия на кухне. | Be quiet, I demand absolute calm in the kitchen. | #283 00:17:31: Молчать | verbatim |
+| 4 | Лёва | Все повара замолчали и стоят на месте. | All the cooks fell silent and are standing in place. | #285 00:17:35: Все заткнулись | verbatim |
+| 5 | Шеф | Не дышать, я хочу слышать каждый тихий звук. | Do not breathe, I want to hear every quiet sound. | #286 00:17:36: Не дышать | verbatim |
+| 6 | Лёва | Вы уверены, что наша маленькая гостья здесь? | Are you sure our little guest is here? | #286 00:17:36: Мне нужна полная гробовая тишина | verbatim |
+| 7 | Шеф | Она точно где-то спряталась в этом зале. | She definitely hid somewhere in this dining room. | #286 00:17:36: Мне нужна полная | verbatim |
+| 8 | Лёва | Я слышу странный лёгкий шорох возле стола. | I hear a strange faint rustling near the table. | #286 00:17:36: полная гробовая тишина | verbatim |
+| 9 | Шеф | Кто сейчас стоит там около большого холодильника? | Who is standing there near the big refrigerator right now? | #287 00:17:44: Инвалид | verbatim |
+| 10 | Лёва | Там никого нет, только большие коробки продуктов. | There is no one there, only large boxes of groceries. | #286 00:17:36: гробовая тишина | verbatim |
+| 11 | Шеф | Смотри внимательно, девочка сидит прямо под столом! | Look carefully, the girl is sitting right under the table! | #286 00:17:36: Мне нужна | verbatim |
+| 12 | Лёва | Какое счастье, мы наконец нашли нашу пропажу! | What joy, we finally found our missing one! | #286 00:17:36: тишина | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet everyone, I need complete silence!' Desperate to hear where Alisa is hiding, Barinov yells at the whole kitchen to be completely silent.
-- 'Chef, we have already turned off all noisy equipment.' Lyova reports that the staff has already switched off all the noisy appliances.
-- 'Be quiet, I demand absolute calm in the kitchen.' Viktor orders everyone to hold their tongues so the kitchen is dead quiet.
-- 'All the cooks fell silent and are standing in place.' Lyova whispers that every cook has frozen in place without a word.
-- 'Do not breathe, I want to hear every quiet sound.' Barinov tells them not to even breathe so he can catch the faintest sound.
-- 'Are you sure our little guest is here?' After a moment of silence, Lyova asks if the chef is sure their little guest is still in this room.
-- 'She definitely hid somewhere in this dining room.' Viktor is convinced she is hiding somewhere right here.
-- 'I hear a strange faint rustling near the table.' Listening closely, Lyova notices a faint rustling sound over by a prep table.
-- 'Who is standing there near the big refrigerator right now?' Barinov points toward the large fridge and asks who is standing over there.
-- 'There is no one there, only large boxes of groceries.' Lyova checks and says nobody is by the fridge except stacks of grocery boxes.
-- 'Look carefully, the girl is sitting right under the table!' Spotting her at last, Viktor tells Lyova to look right under the table where Alisa is sitting.
-- 'What joy, we finally found our missing one!' Relieved, Lyova celebrates that they have finally found their missing runaway.
+- 'Quiet everyone, I need complete silence!' The "needed" word agrees with its object, so with the feminine "silence" it ends in -a. You've heard its masculine and neuter forms already. Barinov shouts for quiet, which is a nice paradox.
+- 'Chef, we have already turned off all noisy equipment.' The russian for "noisy" comes from "noise", the same root. Lyova reports it like a soldier, in short plain words. A man who stutters when he's stressed manages not to stutter here.
+- 'Be quiet, I demand absolute calm in the kitchen.' Barinov uses the bare dictionary form of "be silent" as an order, and in Russian that sounds like a drill sergeant. It's harder than "please be quiet". He is not asking.
+- 'All the cooks fell silent and are standing in place.' The "za-" at the front of "fell silent" marks the moment it starts, so it's "went quiet" as opposed to simply "quiet". "In place" is "on the place". Lyova reports it all like an officer.
+- 'Do not breathe, I want to hear every quiet sound.' Another order in the bare dictionary form, this time with a "don't" in front. Barinov is comic and serious at once. The kitchen holds its breath, and so does the listener.
+- 'Are you sure our little guest is here?' Russian has a separate word for a female guest, a feminine twin of the usual one. Lyova speaks politely, as he does with the chef. He is sceptical, but he's careful about it.
+- 'She definitely hid somewhere in this dining room.' "Somewhere" is "where" with a little "-to" tacked on, which turns the question into "some place". The hiding word is the same as in the hide-and-seek game. Barinov remembers the game.
+- 'I hear a strange faint rustling near the table.' The term for "faint" is also "light" and "easy". Lyova is trying very hard, and the line shows it. Russian puts the table "of the table", with the ending doing the work.
+- 'Who is standing there near the big refrigerator right now?' The russian for refrigerator comes from the word for cold, so it's a "cold-maker". Barinov sees a shadow, and he wants to know who it is.
+- 'There is no one there, only large boxes of groceries.' "Nobody" and "isn't" together are a double negative, and it's right. Lyova is disappointed. The groceries are in boxes, so the boxes are the best he can offer.
+- 'Look carefully, the girl is sitting right under the table!' The russian for "carefully" grows out of the term for "attention". Barinov has sharp eyes when it matters. And "under the table" takes a different ending from "near the table".
+- 'What joy, we finally found our missing one!' The russian for the lost thing grows from the vanishing word in the cake scene. Lyova is thrilled. "What joy" is "what happiness", and the whole kitchen breathes out.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "In the main dining room of Claude Monet, art director Victoria seats her energetic niece Alisa at a quiet corner table. With important banquet guests expected to arrive shortly, Victoria asks the little girl to play calmly and not cause any commotion in the restaurant. Let's listen to their gentle exchange in Russian first."
-OPENER = "Let's examine how Victoria and little Alisa reach a calm agreement line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Now you know how to talk about seating children, encouraging calm behavior, and preparing for events in Russian. See you next time!'
+INTRO = 'A banquet is about to start, and Vika has to get Alisa settled. She seats her niece at a table in the dining room and gives her a few rules. Here is the scene in Russian first.'
+OPENER = "Now we'll go through it slowly."
+TRANSITION = 'And here is the whole scene again.'
+OUTRO = "Alisa promises to be good, and Vika decides to believe her. It won't last. We'll see what the guests make of her. Until next time."
 CLOSING = ('alisa', 'Пока!')
 STORY = [
     ('vika', 'Алиса, садись скорее за этот стол.', 'Alice, sit down at this table quickly.', [(219, 'Садись')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('alisa', 'Я просто буду тихо рисовать картинки.', 'I will simply draw pictures quietly.', [], ''),
 ]
 WALK = [
-    (0, None, "'Alice, sit down at this table quickly.' Seating her niece at a corner table in the dining room, Vika tells Alisa to sit down quickly."),
-    (1, None, "'Aunt Vika, will we play here?' Alisa perks up and asks if the two of them are going to play a game here."),
-    (2, None, "'No, I need to work a lot right now.' Vika apologizes and explains that she has a ton of work to handle right now."),
-    (3, None, "'And what am I to do here alone?' The little girl wonders about spending time independently."),
-    (4, None, "'Sit quietly and play calmly.' She asks Alisa to sit quietly and play by herself for a little while."),
-    (5, None, "'Will important restaurant guests arrive soon?' Alisa asks if the important restaurant guests are arriving soon."),
-    (6, None, "'Yes, a big banquet will begin soon.' Vika confirms that a big banquet is about to start in the hall."),
-    (7, None, "'I promise to behave very well.' Putting on her best manners, Alisa promises to behave very well."),
-    (8, None, "'You definitely will not let me down today?' Knowing how mischievous her niece can be, Vika double-checks that Alisa will not let her down."),
-    (9, None, "'I will be calmness itself, honest word!' The niece quotes a playful idiom expressing total composure."),
-    (10, None, "'You are a real clever girl, dear niece.' Touched by the promise, Vika praises her niece as a truly clever girl."),
-    (11, None, "'I will simply draw pictures quietly.' Alisa settles into her seat with a calm creative plan."),
+    (0, None, '\'Alice, sit down at this table quickly.\' "Sadis" is "sit down", meaning take a seat. Barinov used "sidi", "sit", for being seated. Russian also sits "behind" a table, so it\'s "za stol". Vika\'s tone is brisk.'),
+    (1, None, '\'Aunt Vika, will we play here?\' Children call any aunt "tyotya", and then the name. "Budem igrat" is "we will play", the "will be" trick again. It\'s a hopeful question from a girl who wants company.'),
+    (2, None, '\'No, I need to work a lot right now.\' "Mne nuzhno" is the "to me it\'s needed" pattern, and then "mnogo rabotat", "a lot to work". Vika puts it plainly. She has no time to play.'),
+    (3, None, '\'And what am I to do here alone?\' The girl says "odnoy" for "alone", a feminine form of the "odin" Louis used. It changes to suit a girl. And "chto mne delat" is the "what to me to do" from the knife scene.'),
+    (4, None, '\'Sit quietly and play calmly.\' "Posidi" starts with "po-", so it means "sit for a while", just as before. "Tikhonechko" is "quietly" with an extra tender ending, the way you talk to a child. It\'s gentle, but it\'s a command.'),
+    (5, None, '\'Will important restaurant guests arrive soon?\' "Skoro" is "soon", and "pridut" is "will come". It\'s the same word as the arriving banquet order, in the plural. Alisa asks as if she runs the place.'),
+    (6, None, '\'Yes, a big banquet will begin soon.\' "Nachnyotsya" is "will begin", with a -sya that means "begins by itself". "Bolshoy banket" is "a big banquet", almost like the English. Vika is giving a straight answer.'),
+    (7, None, '\'I promise to behave very well.\' "Obeshchayu" is "I promise". And "vesti sebya" is "to lead oneself", the Russian way to say "behave". It\'s the same word as "lead through" in the earlier scene about spending time.'),
+    (8, None, '\'You definitely will not let me down today?\' "Tochno" means "exactly" or "for sure". "Ne podvedyosh" is "you won\'t let down", and the picture is of leading someone to a place and leaving them. Vika has met this niece before.'),
+    (9, None, '\'I will be calmness itself, honest word!\' "Samo" is "itself", and it matches the neuter word for calm. "Chestnoe slovo" is "honest word", a promise on honour. Alisa uses every big phrase she knows.'),
+    (10, None, '\'You are a real clever girl, dear niece.\' "Umnitsa" is a clever girl, and it is also what you say to a child who has done well. "Dorogaya" means both "dear" and "expensive", so the Russian for a dear person is the word for a pricey thing. Vika is persuaded, for now.'),
+    (11, None, '\'I will simply draw pictures quietly.\' "Prosto" is "simply", as before. "Risovat" is "to draw", and "kartinki" are little pictures. Alisa plays the good girl well, and she sounds sincere.'),
 ]
