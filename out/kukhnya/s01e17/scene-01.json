@@ -6,16 +6,17 @@
  "level": "A1 — Duolingo Section 2",
  "labels": {
   "barinov": "Шеф",
-  "max": "Макс"
+  "senya": "Сеня",
+  "seller": "Продавец"
  },
  "segments": [
   {
    "v": "narrator",
-   "t": "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant. Chef Viktor Barinov rules the kitchen, and young Max Lavrov is the cook he loves to boss around. This morning Barinov drags Max to the market to teach him how to tell whether a fish is fresh. Listen to the lesson in Russian first, and watch how much Barinov reads from one face.",
+   "t": "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant. Chef Viktor Barinov rules the kitchen, and Senya is one of the cooks he loves to boss around. This morning Barinov drags Senya to the market to teach him how to tell whether a fish is fresh. Listen to the lesson in Russian first, and watch how much Barinov reads from one face.",
    "gap": 0.8
   },
   {
-   "v": "max",
+   "v": "senya",
    "t": "Я наступил в гнилую сливу, шеф.",
    "gap": 0.55
   },
@@ -31,12 +32,17 @@
   },
   {
    "v": "barinov",
-   "t": "Сколько дней этой рыбе, Макс?",
+   "t": "Как ты думаешь, сколько дней этой рыбе?",
    "gap": 0.55
   },
   {
-   "v": "max",
-   "t": "Продавец говорит, что привезли сегодня.",
+   "v": "barinov",
+   "t": "Не так. Учись у меня.",
+   "gap": 0.55
+  },
+  {
+   "v": "seller",
+   "t": "Один день. Сегодня привезли.",
    "gap": 0.55
   },
   {
@@ -47,6 +53,11 @@
   {
    "v": "barinov",
    "t": "Значит, этой рыбе минимум три дня.",
+   "gap": 0.55
+  },
+  {
+   "v": "seller",
+   "t": "Какие три? Ей максимум два.",
    "gap": 0.55
   },
   {
@@ -62,21 +73,6 @@
   {
    "v": "barinov",
    "t": "И её точно замораживали раньше.",
-   "gap": 0.55
-  },
-  {
-   "v": "max",
-   "t": "Шеф, вы настоящий мастер своего дела.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Учись у меня, пока я добрый.",
-   "gap": 0.55
-  },
-  {
-   "v": "max",
-   "t": "Спасибо за этот важный урок, шеф.",
    "gap": 0.9
   },
   {
@@ -85,7 +81,7 @@
    "gap": 0.4
   },
   {
-   "v": "max",
+   "v": "senya",
    "t": "Я наступил в гнилую сливу, шеф.",
    "gap": 0.55
   },
@@ -116,22 +112,32 @@
   },
   {
    "v": "barinov",
-   "t": "Сколько дней этой рыбе, Макс?",
+   "t": "Как ты думаешь, сколько дней этой рыбе?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'How many days old is this fish, Max?' Russian gives the age to the fish: \"etoy rybe\" means \"to this fish\", so the question is literally \"how many days to this fish?\".",
+   "t": "'How many days old do you think this fish is?' Russian gives the age to the fish: \"etoy rybe\" means \"to this fish\", so the question is literally \"how many days to this fish?\". \"Kak ty dumaesh\" is \"how do you think\", where English says \"what\".",
    "gap": 0.4
   },
   {
-   "v": "max",
-   "t": "Продавец говорит, что привезли сегодня.",
+   "v": "barinov",
+   "t": "Не так. Учись у меня.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'The seller says they brought it in today.' \"Privezli\" has no \"they\" in front of it. The plural ending on its own says that somebody delivered it.",
+   "t": "'Not like that. Learn from me.' \"Ne tak\" is simply \"not so\". \"Uchis u menya\" is literally \"learn at me\": \"u\" plus a person is where you pick something up.",
+   "gap": 0.4
+  },
+  {
+   "v": "seller",
+   "t": "Один день. Сегодня привезли.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'One day. It came in today.' \"Privezli\" has no \"they\" in front of it. The plural ending on its own says that somebody delivered it.",
    "gap": 0.4
   },
   {
@@ -152,6 +158,16 @@
   {
    "v": "narrator",
    "t": "'That means this fish is at least three days old.' \"Znachit\", it means, opens a conclusion. After \"tri\" the word for days is \"dnya\"; from five upwards it turns into \"dney\".",
+   "gap": 0.4
+  },
+  {
+   "v": "seller",
+   "t": "Какие три? Ей максимум два.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Three? It's two at most.' \"Kakie tri?\", literally \"what three?\", brushes a number aside. \"Ey\" is \"to her\": the fish, \"ryba\", is feminine, so its age goes to \"her\".",
    "gap": 0.4
   },
   {
@@ -181,41 +197,11 @@
   },
   {
    "v": "narrator",
-   "t": "'And it was definitely frozen before.' \"Zamorazhivali\" is \"they froze\", again with no \"they\". \"Tochno\", for sure, is a little word you'll hear constantly.",
-   "gap": 0.4
-  },
-  {
-   "v": "max",
-   "t": "Шеф, вы настоящий мастер своего дела.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Chef, you're a true master of your craft.' \"Master svoego dela\" is literally \"master of his own business\". \"Svoy\" means \"one's own\" and works for any person.",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Учись у меня, пока я добрый.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Learn from me while I'm in a good mood.' \"Poka\" here means \"while\", and it's the same word as the casual \"poka\" for \"bye\". \"Uchis u menya\" is literally \"learn at me\".",
-   "gap": 0.4
-  },
-  {
-   "v": "max",
-   "t": "Спасибо за этот важный урок, шеф.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Thank you for this important lesson, chef.' \"Spasibo za\" is \"thanks for\", and anything can follow it: \"za urok\", for the lesson. Now the market lesson again, start to finish.",
+   "t": "'And it was definitely frozen before.' \"Zamorazhivali\" is \"they froze\", again with no \"they\". \"Tochno\", for sure, is a little word you'll hear constantly. Now the market lesson again, start to finish.",
    "gap": 0.9
   },
   {
-   "v": "max",
+   "v": "senya",
    "t": "Я наступил в гнилую сливу, шеф.",
    "gap": 0.5
   },
@@ -231,12 +217,17 @@
   },
   {
    "v": "barinov",
-   "t": "Сколько дней этой рыбе, Макс?",
+   "t": "Как ты думаешь, сколько дней этой рыбе?",
    "gap": 0.5
   },
   {
-   "v": "max",
-   "t": "Продавец говорит, что привезли сегодня.",
+   "v": "barinov",
+   "t": "Не так. Учись у меня.",
+   "gap": 0.5
+  },
+  {
+   "v": "seller",
+   "t": "Один день. Сегодня привезли.",
    "gap": 0.5
   },
   {
@@ -247,6 +238,11 @@
   {
    "v": "barinov",
    "t": "Значит, этой рыбе минимум три дня.",
+   "gap": 0.5
+  },
+  {
+   "v": "seller",
+   "t": "Какие три? Ей максимум два.",
    "gap": 0.5
   },
   {
@@ -262,30 +258,15 @@
   {
    "v": "barinov",
    "t": "И её точно замораживали раньше.",
-   "gap": 0.5
-  },
-  {
-   "v": "max",
-   "t": "Шеф, вы настоящий мастер своего дела.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Учись у меня, пока я добрый.",
-   "gap": 0.5
-  },
-  {
-   "v": "max",
-   "t": "Спасибо за этот важный урок, шеф.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Barinov has read the seller like a book, and Max is impressed, at least for now. Remember that Russians give an age with 'to': \"etoy rybe pyat dney\", to this fish, five days. See you next time!",
+   "t": "Barinov has read the seller like a book, and the seller is not pleased about it. Remember that Russians give an age with 'to': \"etoy rybe pyat dney\", to this fish, five days. See you next time!",
    "gap": 0.5
   },
   {
-   "v": "max",
+   "v": "senya",
    "t": "До свидания!",
    "gap": 0.3
   }
@@ -316,36 +297,51 @@
    },
    {
     "line": 4,
+    "cue": 5,
+    "fragment": "Да не так."
+   },
+   {
+    "line": 4,
+    "cue": 6,
+    "fragment": "Учись."
+   },
+   {
+    "line": 5,
     "cue": 7,
     "fragment": "Один. Сегодня привезли."
    },
    {
-    "line": 5,
+    "line": 6,
     "cue": 8,
     "fragment": "Смотри внимательно."
    },
    {
-    "line": 5,
+    "line": 6,
     "cue": 10,
     "fragment": "Смотри, губы поджал."
    },
    {
-    "line": 6,
+    "line": 7,
     "cue": 11,
     "fragment": "Это значит, что рыбе не менее трех дней."
    },
    {
-    "line": 7,
+    "line": 8,
+    "cue": 12,
+    "fragment": "Да какие три? Ну, ей максимум два."
+   },
+   {
+    "line": 9,
     "cue": 13,
     "fragment": "О, нос почесал."
    },
    {
-    "line": 8,
+    "line": 10,
     "cue": 13,
     "fragment": "Это значит, что рыбе не меньше пяти дней."
    },
    {
-    "line": 9,
+    "line": 11,
     "cue": 14,
     "fragment": "Да еще ее замораживали."
    }
