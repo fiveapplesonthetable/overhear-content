@@ -119,5 +119,5 @@ out/
 - Scene ids and filenames are stable: once published, `<show>-sNNeNN-scene-NN` never changes meaning. Editing a published
   scene in place is fine (and expected when FEEDBACK.md asks for it); renumbering scenes is not.
 - The last segment of a script is a short new farewell (`Пока!`, `À bientôt!`), never a repeat of a story line.
-- A character keeps one voice for the whole show; every role key is listed in `characters.md`.
+- A character keeps one role key (their own name) for the whole show; every key is in `out/<show>/cast.json`; scripts have no `voices`. Read FEEDBACK.md "P-1" first.
 - Run the validator before every push: `python3 -I tools/validate.py out --require-notes` must print `OK`.
