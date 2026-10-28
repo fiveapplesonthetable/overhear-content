@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, tell me, did a tall man stop by your shop this morning?' Asking whether tell him did a tall man stop by Kostya's shop this morning puts Kostya right on the defensive.
-- 'In a black coat and with a moustache?' Over the moment and the ring, Senya presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, it seems there was someone like that.' Adding that it seems there was someone like fills in the missing piece for Max.
-- 'And what did he buy?' By asking what he buy, Senya presses Kostya for a straight answer.
-- 'An engagement ring.' Between the ring and the kitchen, Kostya gives Max a quick, grounded response.
-- 'Do you have the exact same one?' Asking whether Kostya has the exact same one is how Senya puts Kostya on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Who is that guy with Vika?' Here asking who that guy with Vika is shows Max looking for the real truth.
-- 'Probably a masseur. Vika forgot the business card on the table.' Turning from the ring to the work, Kostya keeps the exchange moving.
-- 'He does not look like a masseur at all!' Because he does not look like a masseur at all, Max does not bother softening the blow for Kostya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Max, are you a fool? It says: massage!' Checking whether Max a fool cuts straight through the tension between Kostya and Max.
-- 'This masseur said that he would do everything for Vika very carefully!' Once this masseur said that he would do everything for Vika very carefully, Max makes sure Kostya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I heard it myself! Right, Nastya, dial his number!' Declaring that he heard it himself brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Hello, tell me, did a tall man stop by your shop this morning?' Senya challenges bluntly from the start, linking "zdravstvuyte" ("hello"), "skazhite" ("tell"), and "segodnya" ("today") in one brisk exchange.
+- 'In a black coat and with a moustache?' Senya quizzes candidly to Max here, joining "chyornom" ("black") to "palto" ("coat") so every word pulls its weight.
+- 'Yes, it seems there was someone like that.' Kostya sustains a natural attitude straight away, joining "byl" ("was") to "da" ("yes") so every word pulls its weight.
+- 'And what did he buy?' Senya probes earnestly without a pause, linking "pokupal" ("bought, were buying"), "chto" ("what"), and "on" ("he") in one brisk exchange.
+- 'An engagement ring.' Kostya brings a frank tempo toward Max, leaning on "obruchalnoye" ("wedding") before closing the thought with "koltso" ("ring").
+- 'Do you have the exact same one?' Senya wonders honestly at this point, building the phrase around "yest" ("there is") and "vas" ("you") for a crisp, natural delivery.
+- 'Who is that guy with Vika?' Max inquires firmly in the room, weaving "tip" ("guy, fellow") together with "chto" ("what") just the way native speakers do.
+- 'Probably a masseur. Vika forgot the business card on the table.' Kostya conveys a frank position on the spot, anchoring the Russian line on "navernoye" ("probably") and "massazhist" ("massage therapist") without extra filler.
+- 'He does not look like a masseur at all!' Max maintains a firm view beside Kostya, pairing "sovsem" ("at all") with "pokhozh" ("look like, similar") to get the point across in plain spoken Russian.
+- 'Max, are you a fool? It says: massage!' Kostya probes calmly as the talk turns, joining "durak" ("fool, idiot") to "napisano" ("is written") so every word pulls its weight.
+- 'This masseur said that he would do everything for Vika very carefully!' Max picks a grounded attitude at once, linking "massazhist" ("massage therapist"), "skazal" ("said"), and "sdelayet" ("will do") in one brisk exchange.
+- 'I heard it myself! Right, Nastya, dial his number!' Max brings a brisk rhythm as they talk, combining "slyshal" ("heard") and "naberi-ka" ("dial, call") so the key meaning lands right away.

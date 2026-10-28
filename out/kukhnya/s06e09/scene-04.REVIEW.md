@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry that it turned out like this this morning.' Saying that that it turned out like this this morning is how Denis sets the tone with Katya.
-- 'She was the one who suddenly flew onto the main road.' Even though she was the one who suddenly flew onto the main road, Sveta keeps a steady face in front of Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Denis, here, I brought you some ice.' Adding that here she brought Denis some ice fills in the missing piece for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are rushing around the kitchen fast again.' Saying that Denis is rushing around the kitchen fast again is how Sveta sets the tone with Denis.
-- 'Girls, let us calm down a bit right now.' Since girls let them calm down a bit right now, Denis does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Alright, you calmly treat your arm.' Between the truth and the morning, Sveta gives Denis a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Sveta, let us just forget about the accident.' Explaining that they should just forget about the accident lays the cards on the table for Katya.
-- 'And what if you cannot play anymore?' Asking whether what if Denis cannot play anymore puts Denis right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Let them pay for the doctor and the X-ray.' Claiming that Denis should let them pay for the doctor sounds confident, even if Denis has doubts.
-- 'Exactly, you definitely need a good doctor.' Over the plan and the morning, Sveta answers Denis without a second thought.
-- 'Katya, can you drive me to the X-ray?' Here checking whether Katya drives him shows Denis looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'If you are not afraid to ride with me.' Pointing out that if Denis is not afraid to ride gives Denis a sobering reality check.
-- 'Great, then we will meet in exactly half an hour.' Denis explains that great then they will meet in exactly half an hour, keeping his voice calm and direct.
+- 'Sorry that it turned out like this this morning.' Denis maintains a clear manner in front of Katya, combining "prosti" ("sorry, forgive me") and "segodnya" ("today") so the key meaning lands right away.
+- 'She was the one who suddenly flew onto the main road.' Sveta chooses a pointed mood in the room, weaving "vnezapno" ("suddenly") together with "glavnuyu" ("main") just the way native speakers do.
+- 'Denis, here, I brought you some ice.' Katya offers a lively manner during the exchange, pairing "derzhi" ("here you go") with "lyod" ("ice") to get the point across in plain spoken Russian.
+- 'You are rushing around the kitchen fast again.' Sveta favors a thoughtful tack in the conversation, linking "snova" ("again"), "nosishsya" ("you rush around"), and "kukhne" ("kitchen") in one brisk exchange.
+- 'Girls, let us calm down a bit right now.' Denis sustains a playful tempo during the exchange, pairing "devochki" ("girl's") with "davayte" ("let's") to get the point across in plain spoken Russian.
+- 'Alright, you calmly treat your arm.' Sveta establishes a direct angle in the room, anchoring the Russian line on "spokoyno" ("calmly") and "lechi" ("to treat, to lecture") without extra filler.
+- 'Sveta, let us just forget about the accident.' Denis keeps a resolute view in the scene, building the phrase around "sveta" ("electricity") and "davay" ("let's") for a crisp, natural delivery.
+- 'And what if you cannot play anymore?' Sveta questions boldly in front of Katya, using "smozhesh" (from "smoch", "will you be able") alongside "bolshe" ("more") to shape the meaning.
+- 'Let them pay for the doctor and the X-ray.' Katya takes a grounded direction in this beat, using "oplachivayut" (from "oplachivat", "they pay for") alongside "vracha" ("doctor") to shape the meaning.
+- 'Exactly, you definitely need a good doctor.' Sveta shares a grounded attitude on the spot, linking "tochno" ("definitely"), "obyazatelno" ("surely, without fail"), and "nuzhen" ("is needed") in one brisk exchange.
+- 'Katya, can you drive me to the X-ray?' Denis prompts evenly at this point, building the phrase around "mozhesh" ("can") and "rentgen" ("fine") for a crisp, natural delivery.
+- 'If you are not afraid to ride with me.' Katya sets a wry attitude as the scene unfolds, combining "boishsya" ("you are afraid") and "yezdit" ("to drive, ride") so the key meaning lands right away.
+- 'Great, then we will meet in exactly half an hour.' Denis establishes a candid view in the scene, putting "otlichno" ("perfect, great") alongside "togda" ("back then") in a tight, everyday turn of phrase.

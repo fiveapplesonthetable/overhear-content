@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is happening?' By wondering what happening is, Vika presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vika, do not be nervous.' Saying that do not be nervous is how Max sets the tone with Kostya.
-- 'We caught the hypnotist.' Claiming that they caught the hypnotist sounds confident, even if Kostya has doubts.
-- 'We are interrogating him right now. Here are his things.' Pointing out that they are interrogating him right now gives Kostya a sobering reality check.
-- 'I told you, do not meddle in what is none of your business!' Insisting that she told Kostya does not meddle in what is none of Kostya's business shows Vika is not backing down.
-- 'This is an inspector from the commission!' Once this is an inspector from the commission, Vika makes sure Kostya hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Maxim, you are an exceptional person!' Declaring that Maxim Kostya is an exceptional person brings Vika's temper right to the surface. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Kostyan, it looks like we grabbed the wrong guy.' Even though someone it looks like they grabbed the wrong guy, Max keeps a steady face in front of Kostya.
-- 'What should we do now?' By wondering what they do now should, Kostya presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Untie him!' Over the shift and the inspector, Max lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Why me?' Over the moment and the inspector, Kostya presses Max for a straight answer.
-- 'Untie him faster!' With the moment and inspector at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'What is happening?' Vika prompts frankly from the start, anchoring the Russian line on "proiskhodit" ("is going on") and "chto" ("what") without extra filler.
+- 'Vika, do not be nervous.' Max shares a playful angle toward Vika, putting "nervnichay" ("be nervous") alongside "vik" ("Vika") in a tight, everyday turn of phrase.
+- 'We caught the hypnotist.' Max adopts a pointed approach in this beat, pairing "vzyali" ("took, arrested") with "gipnotizyora" ("hypnotist") to get the point across in plain spoken Russian.
+- 'We are interrogating him right now. Here are his things.' Max presents a warm line in their talk, pairing "seychas" ("now") with "doprashivayem" ("interrogate") so the "-sya" ending carries the action.
+- 'I told you, do not meddle in what is none of your business!' Vika shares a thoughtful posture as they talk, putting "skazala" ("told") alongside "lez" ("poke nose, meddle") in a tight, everyday turn of phrase.
+- 'This is an inspector from the commission!' Vika conveys a measured tempo beside Max, combining "inspektor" ("inspector") and "komissii" ("commission") so the key meaning lands right away.
+- 'Maxim, you are an exceptional person!' Vika displays a sharp angle for Kostya, combining "isklyuchitelnyy" ("exceptional") and "chelovek" ("a man, a person") so the key meaning lands right away.
+- 'Kostyan, it looks like we grabbed the wrong guy.' Max shares a brisk note in this beat, weaving "pokhodu" ("apparently") together with "vzyali" ("took, arrested") just the way native speakers do.
+- 'What should we do now?' Kostya challenges directly as they speak, weaving "teper" ("now") together with "delat" ("do") just the way native speakers do.
+- 'Untie him!' Max chooses a serious course for Vika, combining "razvyazyvay" ("untie") and "yego" ("him") so the key meaning lands right away.
+- 'Why me?' Kostya tests candidly right away, pairing "pochemu" ("why") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'Untie him faster!' Max keeps a measured approach as they talk, joining "bystreye" ("faster") to "razvyazyvay" ("untie") so every word pulls its weight.

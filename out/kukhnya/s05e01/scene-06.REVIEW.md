@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not even dare to say that.' Claiming that do not even dare to say sounds confident, even if Barinov has doubts.
-- 'Not everything is fine with you.' Pointing out that not everything is fine with Barinov gives Barinov a sobering reality check.
-- 'Do not dare lock yourselves in from me!' Once do not dare lock yourselves in from him, Barinov makes sure Mikhail hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will fire all of you today!' Declaring that he will fire all of Mikhail today brings Barinov's temper right to the surface. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Oh, you little macaque monkey!' With the guest and kitchen at stake, Barinov reacts without holding back.
-- 'Sorry, I thought the wrong thing.' Even though he thought the wrong thing, Barinov keeps a steady face in front of Mikhail.
-- 'This is not just a monkey to you.' Admitting that this is not just a monkey to Barinov shows Mikhail being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Today the entire restaurant menu is active.' Saying that today the entire restaurant menu is active is how Mikhail sets the tone with Barinov.
-- 'Guests are waiting for orders starting today.' Once guests are waiting for orders starting today, Mikhail can finally tell Barinov what he means.
-- 'I simply hate this rule.' Adding that he simply hates this rule fills in the missing piece for Mikhail. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Chef, what just happened here?' With the guest and work hanging in the air, Senya puts Barinov on the spot.
-- 'Well, is it a tasty banana?' Asking whether it a tasty banana is how Barinov puts Mikhail on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Do not even dare to say that.' Mikhail presents a pointed tempo without hesitation, pairing "smey" ("to dare") with "govorit" ("to talk") to get the point across in plain spoken Russian.
+- 'Not everything is fine with you.' Mikhail holds a measured line in their talk, putting "normalno" ("fine, OK") alongside "tebya" ("you") in a tight, everyday turn of phrase.
+- 'Do not dare lock yourselves in from me!' Barinov displays an honest angle in their talk, putting "smet" ("to dare") alongside "zakryvatsya" ("to lock oneself in") in a tight, everyday turn of phrase.
+- 'I will fire all of you today!' Barinov establishes a lively angle toward Senya, joining "segodnya" ("today") to "uvolyu" ("will fire") so every word pulls its weight.
+- 'Oh, you little macaque monkey!' Barinov displays a candid manner in front of Mikhail, anchoring the Russian line on "makaka" ("macaque monkey") and "akh" ("ah, oh") without extra filler.
+- 'Sorry, I thought the wrong thing.' Barinov conveys an easygoing manner in their talk, joining "izvini" ("sorry, excuse me") to "podumal" ("would think") so every word pulls its weight.
+- 'This is not just a monkey to you.' Mikhail strikes a measured tone for Barinov, linking "prosto" ("just"), "makaka" ("macaque monkey"), and "eto" ("this") in one brisk exchange.
+- 'Today the entire restaurant menu is active.' Mikhail establishes a playful tone at this moment, anchoring the Russian line on "segodnya" ("today") and "deystvuyet" ("is in effect") without extra filler.
+- 'Guests are waiting for orders starting today.' Mikhail chooses a frank stance on the spot, pairing "gosti" ("visitors, guests") with "zhdut" ("to wait, to expect") to get the point across in plain spoken Russian.
+- 'I simply hate this rule.' Barinov adopts a steady footing at this moment, putting "prosto" ("just") alongside "nenavizhu" ("hate") in a tight, everyday turn of phrase.
+- 'Chef, what just happened here?' Senya queries promptly at this point, combining "seychas" ("now") and "zdes" ("here") so the key meaning lands right away.
+- 'Well, is it a tasty banana?' Barinov questions earnestly at this point, weaving "vkusnyy" ("delicious") together with "banan" ("banana") just the way native speakers do.

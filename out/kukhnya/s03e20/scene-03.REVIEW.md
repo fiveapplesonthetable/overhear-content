@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Andrey Mikhailovich, did you call for me?' Questioning whether Andrey Mikhailovich did the inspector calls for him is how Barinov tests the inspector's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' Adding that Barinov should meet Sergey Vladimirovich fills in the missing piece for Barinov.
-- 'Starting today he is your new boss.' Pointing out that starting today he is Barinov's new boss gives Barinov a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Sergey is the best manager in our entire chain.' The inspector explains that Sergey is the best manager in their entire chain, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We had to call him in to save our profitability.' Realizing that they had to call him in to save their profitability changes how the inspector handles the situation.
-- 'Our profit is higher than in any European restaurant!' Insisting that their profit is higher than in any European restaurant shows Barinov is not backing down. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Hello, Seryozha! Hello to you too, darling!' With the boss and kitchen at stake, Max reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Wait a second, did the two of you already see each other yesterday?' The inspector asks whether a second did the two of Barinov already see each other yesterday, refusing to let the point slide.
-- 'Yes, Olya helped me with the hotel yesterday.' Saying that Olya helped him with the hotel yesterday is how Max sets the tone with Barinov.
-- 'Olga, tell me, is it fashionable to walk around like that now?' Wondering if someone tell him is it fashionable to walk around like that now shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Look, you are missing one earring in your ear.' Adding that the inspector is missing one earring in the inspector's ear fills in the missing piece for the inspector.
-- 'Andrey, put it in your pocket, or I will lose this one too.' Max tells Barinov that Andrey put it in Barinov's pocket or he will lose this one without dressing it up.
-- 'It is time for me to go, it turns out we have to save profitability!' Insisting that it is time for him to go it turns out they have to save profitability shows Barinov is not backing down. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Good morning, Andrey Mikhailovich, did you call for me?' Barinov challenges steadily as the beat lands, linking "dobroye" ("good"), "utro" ("morning"), and "zvali" ("called") in one brisk exchange.
+- 'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' The inspector maintains a warm manner for Max, putting "znakomtes" ("meet") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'Starting today he is your new boss.' The inspector adopts an easygoing footing in the room, linking "segodnyashnego" ("of today's"), "dnya" ("day"), and "novyy" ("new") in one brisk exchange.
+- 'Sergey is the best manager in our entire chain.' The inspector adopts a grounded bearing on the spot, linking "luchshiy" ("best"), "menedzher" ("manager"), and "seti" ("nets") in one brisk exchange.
+- 'We had to call him in to save our profitability.' The inspector sustains a serious footing during the exchange, building the phrase around "prishlos" ("had to, it fell to") and "vyzvat" ("to call, to summon") for a crisp, natural delivery.
+- 'Our profit is higher than in any European restaurant!' Barinov adopts an emphatic manner during the exchange, combining "pribyl" ("profit") and "vyshe" ("high, highly") so the key meaning lands right away.
+- 'Hello, Seryozha! Hello to you too, darling!' Max strikes a frank style in front of Barinov, building the phrase around "zdravstvuyte" ("hello") and "tozhe" ("too") for a crisp, natural delivery.
+- 'Wait a second, did the two of you already see each other yesterday?' The inspector wonders boldly without holding back, leaning on "podozhdite" ("wait") before closing the thought with "vchera" ("yesterday").
+- 'Yes, Olya helped me with the hotel yesterday.' Max shows a brisk rhythm without hesitation, putting "vchera" ("yesterday") alongside "pomogla" ("helped") in a tight, everyday turn of phrase.
+- 'Olga, tell me, is it fashionable to walk around like that now?' Barinov quizzes earnestly on the spot, building the phrase around "skazhite" ("tell") and "seychas" ("now") for a crisp, natural delivery.
+- 'Look, you are missing one earring in your ear.' Barinov adopts a grounded line toward the inspector, anchoring the Russian line on "posmotrite" ("look") and "seryozhki" ("earring") without extra filler.
+- 'Andrey, put it in your pocket, or I will lose this one too.' Max picks a wry course during the exchange, pairing "polozhi" ("put, place") with "poteryayu" ("to lose") to get the point across in plain spoken Russian.
+- 'It is time for me to go, it turns out we have to save profitability!' Barinov sustains a grounded bearing in front of the inspector, building the phrase around "pora" ("it's time") and "idti" ("to go") for a crisp, natural delivery.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, may I put the box in the office?' Asking whether may he puts the box in the office puts Barinov right on the defensive.
-- 'Tomorrow is my beloved mom's big milestone birthday.' Noting that tomorrow is his beloved big milestone birthday keeps Lyova's side of the story simple and clear.
-- 'Why does your mom need a second slow cooker at home?' By wondering why Lyova's need a second slow cooker at home, Barinov presses Lyova for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'This is not a slow cooker, but our old family house!' Insisting that this is not a slow cooker but their old family house shows Lyova is not backing down.
-- 'Our family has real noble roots.' Saying that their family has real noble roots is how Lyova sets the tone with Barinov.
-- 'Our ancestral estate burned down during the war.' With the shift and family in play, Lyova keeps this short reply brisk and direct.
-- 'I decided to recreate it out of ordinary matches.' Adding that he decided to recreate it out of ordinary matches fills in the missing piece for Barinov.
-- 'Lyova, you are simply a true master builder!' Saying that Lyova is simply a true master builder is how Barinov takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I glued this palace for two whole weeks.' With the moment and family in play, Lyova keeps this short reply brisk and direct.
-- 'Tomorrow there is cleaning at home, and Mom might find it.' Mentioning that tomorrow there is cleaning at home and Mom might find it moves the talk in a new direction.
-- 'Do not worry, put your palace on the table.' Saying that do not worry put Lyova's palace on the table is how Barinov sets the tone with Lyova.
-- 'Arkady the fish will reliably guard your gift!' Once Arkady the fish will reliably guard Lyova's gift, Barinov makes sure Lyova hears every word. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Chef, may I put the box in the office?' Lyova queries frankly on the spot, building the phrase around "mozhno" ("may, can") and "postavlyu" ("will set") for a crisp, natural delivery.
+- 'Tomorrow is my beloved mom's big milestone birthday.' Lyova conveys an honest tone for Barinov, building the phrase around "zavtra" ("tomorrow") and "lyubimoy" ("favourite, beloved") for a crisp, natural delivery.
+- 'Why does your mom need a second slow cooker at home?' Barinov challenges plainly without holding back, weaving "zachem" ("what for") together with "mame" ("mother, mum") just the way native speakers do.
+- 'This is not a slow cooker, but our old family house!' Lyova sustains a thoughtful line across the room, building the phrase around "multivarka" ("cooker") and "starinnyy" ("ancient, vintage") for a crisp, natural delivery.
+- 'Our family has real noble roots.' Lyova favors a resolute manner on the spot, using "semi" (from "semya", "family") alongside "nastoyashchiye" ("real") to shape the meaning.
+- 'Our ancestral estate burned down during the war.' Lyova shows a frank posture beside Barinov, weaving "rodovoye" ("estate") together with "sgorelo" ("burned up") just the way native speakers do.
+- 'I decided to recreate it out of ordinary matches.' Lyova conveys a lively tack beside Barinov, building the phrase around "reshil" ("has decided") and "vossozdat" ("to out") for a crisp, natural delivery.
+- 'Lyova, you are simply a true master builder!' Barinov favors a clear stance for Lyova, leaning on "prosto" ("just") before closing the thought with "nastoyashchiy" ("real, genuine").
+- 'I glued this palace for two whole weeks.' Lyova favors a lively bearing in this beat, anchoring the Russian line on "tselykh" ("whole, entire") and "nedeli" ("weeks") without extra filler.
+- 'Tomorrow there is cleaning at home, and Mom might find it.' Lyova displays a warm approach across the room, pairing "zavtra" ("tomorrow") with "doma" ("at home") to get the point across in plain spoken Russian.
+- 'Do not worry, put your palace on the table.' Barinov brings a firm posture during the exchange, linking "boysya" ("be afraid"), "postav" ("place, put"), and "dvorets" ("palace") in one brisk exchange.
+- 'Arkady the fish will reliably guard your gift!' Barinov displays a brisk attitude during the exchange, weaving "rybka" ("little fish") together with "nadyozhno" ("securely") just the way native speakers do.

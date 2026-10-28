@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is clear, thanks for the birthday wishes and goodbye!' Katya declares that everything is clear thanks for the birthday wishes and goodbye as the tension in the room peaks.
-- 'Katya, wait, I was only joking!' Because he was only joking, Nagiyev does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Speak immediately, where are you hiding her right now?' When Barinov asks if speak immediately where are Katya hiding her right now, Katya has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I simply lay down to sleep, do you not see?' Nagiyev asks whether he simply lay down to sleep do Barinov not see, refusing to let the point slide.
-- 'Dima, you had better not make me angry right now!' Declaring that Katya had better not make him angry right now brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Fine, I admit it honestly, she is in the shower right now.' Nagiyev mentions that fine he admits it honestly she is in the shower right now so Barinov sees what is at stake.
-- 'But you will not give me away to Elya, right?' Questioning whether Barinov will not give him away right is how Nagiyev tests Barinov's story.
-- 'You are a man, you must understand me!' Insisting that Barinov is a man Barinov must understand him shows Nagiyev is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'After all, you already covered for me once.' Over the hotel and the truth, Nagiyev answers Barinov without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh you shameless scoundrel, I will kill you!' Insisting that Katya shameless scoundrel he will kill Katya shows Barinov is not backing down.
-- 'Vitya, stop, have you completely lost your mind?' Wondering if stop have Barinov completely lost Barinov's mind shows Nagiyev caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will show you right now what happens when you wrong my daughter!' Declaring that he will show Katya right now what happens when Katya wrong his daughter brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Everything is clear, thanks for the birthday wishes and goodbye!' Katya sustains a serious attitude on the spot, anchoring the Russian line on "ponyatno" ("clear") and "spasibo" ("thank you") without extra filler.
+- 'Katya, wait, I was only joking!' Nagiyev shows a measured stance right away, linking "podozhdi" ("wait"), "prosto" ("just"), and "poshutil" ("to joke") in one brisk exchange.
+- 'Speak immediately, where are you hiding her right now?' Barinov quizzes evenly without holding back, anchoring the Russian line on "govori" ("say, talk") and "nemedlenno" ("immediately") without extra filler.
+- 'I simply lay down to sleep, do you not see?' Nagiyev checks evenly toward Katya here, combining the softening word "prosto" ("simply, just") with "spat" ("sleep") to give the line its natural spoken rhythm.
+- 'Dima, you had better not make me angry right now!' Barinov adopts a candid course at once, putting "luchshe" ("better") alongside "zli" ("anger") in a tight, everyday turn of phrase.
+- 'Fine, I admit it honestly, she is in the shower right now.' Nagiyev offers a warm tempo across the room, anchoring the Russian line on "priznayus" ("to confess") and "chestno" ("honestly") without extra filler.
+- 'But you will not give me away to Elya, right?' Nagiyev inquires calmly at this point, joining "vydash" ("to issue, give out") to "pravda" ("honestly") so every word pulls its weight.
+- 'You are a man, you must understand me!' Nagiyev holds a resolute tempo in this beat, combining "muzhchina" ("man") and "dolzhen" ("has to, must") so the key meaning lands right away.
+- 'After all, you already covered for me once.' Nagiyev sets a grounded manner as the scene unfolds, joining "uzhe" ("already, now") to "prikryl" ("to cover") so every word pulls its weight.
+- 'Oh you shameless scoundrel, I will kill you!' Barinov presents a firm bearing in the room, putting "bessovestnyy" ("shameless") alongside "negodyay" ("scoundrel, rascal") in a tight, everyday turn of phrase.
+- 'Vitya, stop, have you completely lost your mind?' Nagiyev presses calmly on the spot, pairing "ostanovis" ("to stop") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'I will show you right now what happens when you wrong my daughter!' Barinov takes a measured approach across the room, joining "seychas" ("now") to "pokazhu" ("will show") so every word pulls its weight.

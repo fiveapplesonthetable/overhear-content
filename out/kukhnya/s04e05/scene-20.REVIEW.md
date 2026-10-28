@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lev, today showed you still have much to learn.' Elena reminds Barinov that someone today showed Barinov still have much to learn before the moment passes. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Viktor Petrovich will now take the position of sous-chef.' Because Viktor Petrovich will now take the position, Elena treats the matter as settled.
-- 'I understand everything and completely agree.' Pointing out that he understands everything and completely agree gives Barinov a sobering reality check.
-- 'All right, Lyova, do not be too upset.' Barinov mentions that all right Lyova do not be too upset so Elena sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hey, do you have a light right now?' Asking whether Elena has a light right now cuts straight through the tension between Barinov and Elena. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Whoa, my lighter, where did you find it?' Wondering if someone his lighter where did Elena finds it shows Barinov caught off guard.
-- 'Right where you left it yesterday, in the refrigerator.' Lyova explains that right where Barinov left it yesterday in the refrigerator, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Wait, and why did you stay silent then?' By asking why Elena stays silent then, Barinov presses Elena for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why say anything, after all they would have fired you right away.' Noting that why say anything after all they would have fired Barinov right away keeps Lyova's side of the story simple and clear.
-- 'Take my money for this big fine.' Even though Elena should take his money for this big fine, Barinov keeps a steady face in front of Elena.
-- 'Lena, please put Lyova back in his position.' Admitting that someone please put Lyova back in his position shows Barinov being honest for a change.
-- 'I was the one who unplugged the refrigerator on purpose yesterday.' Saying that he was the one who unplugged the refrigerator on purpose yesterday is how Barinov sets the tone with Elena.
-- 'Deal, but now under your personal responsibility.' Here dealing but now under Barinov's personal responsibility sets up the next turn in their exchange.
+- 'Lev, today showed you still have much to learn.' Elena offers a brisk rhythm in their talk, joining "segodnya" ("today") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'Viktor Petrovich will now take the position of sous-chef.' Elena projects a calm style at once, weaving "dolzhnost" ("post, job") together with "su-shefa" ("sous-chef") just the way native speakers do.
+- 'I understand everything and completely agree.' Lyova shares a candid direction toward Barinov, putting "ponimayu" ("understand") alongside "polnostyu" ("completely") in a tight, everyday turn of phrase.
+- 'All right, Lyova, do not be too upset.' Barinov picks an earnest posture in the scene, combining "silno" ("strongly, much") and "rasstraivaysya" ("be upset, worry") so the key meaning lands right away.
+- 'Hey, do you have a light right now?' Barinov challenges pointedly in front of Elena, combining "u tebya" (literally "by you") with "slyshish" ("hear") rather than a separate word for "have".
+- 'Whoa, my lighter, where did you find it?' Barinov checks bluntly with Lyova now, linking "zazhigalka" ("where"), "gde" ("where"), and "nashyol" ("found") in one brisk exchange.
+- 'Right where you left it yesterday, in the refrigerator.' Lyova brings a measured footing across the room, weaving "tam" ("there") together with "gde" ("where") just the way native speakers do.
+- 'Wait, and why did you stay silent then?' Barinov inquires boldly during the talk, putting "podozhdi" ("wait") alongside "pochemu" ("why") in a tight, everyday turn of phrase.
+- 'Why say anything, after all they would have fired you right away.' Lyova holds a lively angle in the scene, putting "zachem" ("what for") alongside "govorit" ("to talk") in a tight, everyday turn of phrase.
+- 'Take my money for this big fine.' Barinov adopts a frank stance right away, combining "vozmi" ("take, pick up") and "dengi" ("money") so the key meaning lands right away.
+- 'Lena, please put Lyova back in his position.' Barinov projects an easygoing style in the scene, linking "verni" ("return"), "lyovu" ("lyova"), and "mesto" ("place, post") in one brisk exchange.
+- 'I was the one who unplugged the refrigerator on purpose yesterday.' Barinov chooses a grounded rhythm as they talk, leaning on "vchera" ("yesterday") before closing the thought with "spetsialno" ("on purpose").
+- 'Deal, but now under your personal responsibility.' Elena displays a wry angle as they talk, joining "dogovorilis" ("agreed, deal") to "teper" ("now") so every word pulls its weight.

@@ -16,7 +16,7 @@ TRANSITION = "Now let's hear the whole cover-story scene again from start to fin
 OUTRO = "That wraps up this scene as at Max's request, Denis calls Vika's phone pretending Kostya sprained his ankle at a bar so Max can borrow Vika's car, and Max wakes Kostya to make him memorize the cover story. See you next time!"
 CLOSING = ('kostya', 'До свидания!')
 STORY = [
-    ('denis', 'Вика, привет, это звонит Денис.', 'Vika, hi, this is Denis calling.', [(140, 'Вик, привет. Это Денис')], 'adapted for A1 clarity'),
+    ('max', 'Вика, привет, это звонит Денис.', 'Vika, hi, this is Denis calling.', [(140, 'Вик, привет. Это Денис')], 'adapted for A1 clarity'),
     ('denis', 'Извините, пожалуйста, что звоню так поздно.', 'Excuse me, please, for calling so late.', [(141, 'Извините, что так поздно')], 'adapted for A1 clarity'),
     ('denis', 'Я не могу дозвониться до Макса.', 'I cannot get through to Max on the phone.', [(141, 'Не могу до Макса дозвониться')], 'adapted for A1 clarity'),
     ('denis', 'Костя тут упал и ногу подвернул.', 'Kostya fell here and twisted his ankle.', [(142, 'Костя упал, и ногу подвернул')], 'adapted for A1 clarity'),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Да вообще любую, потом всё объясню!', 'Any leg at all, I will explain everything later!', [(160, 'Любую')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'Vika, hi, this is Denis calling.' Saying that this is Denis calling is how Denis sets the tone with Kostya."),
-    (1, None, "'Excuse me, please, for calling so late.' Between the car and the kitchen, Denis gives Kostya a quick, grounded response."),
-    (2, None, "'I cannot get through to Max on the phone.' Denis mentions that he cannot get through to Max on the phone so Kostya sees what is at stake."),
-    (3, None, "'Kostya fell here and twisted his ankle.' Even though Kostya fell here and twisted his ankle, Denis keeps a steady face in front of Kostya."),
-    (4, None, '\'Max, I have never lied at such length before!\' Insisting that he has never lied at such length shows Denis is not backing down. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (5, None, "'I told her that Kostya twisted his ankle.' Saying that he told her that Kostya twisted his ankle is how Denis sets the tone with Kostya."),
-    (6, None, "'Got it, Kostya, yes, I will come right now.' Once got it Kostya yes he will come right now, Max can finally tell Denis what he means."),
-    (7, None, '\'Vikulya, may I take your car?\' Asking whether someone may he takes Denis\'s car puts Denis right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (8, None, '\'Kostyan, hey, are you asleep already?\' Wondering if someone hey are Denis asleep already shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (9, None, "'I will ask you a favor, just do not ask questions.' Since he will ask Denis a favor just do not ask questions, Max does not waste words on excuses."),
-    (10, None, '\'If Vika asks, you dislocated your foot.\' Mentioning that if Vika asks Denis dislocated Denis\'s foot moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (11, None, '\'Wait, and why did I dislocate my foot?\' Here asking why he dislocate his foot shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (12, None, "'And which leg, the right one or the left one?' Asking whether which leg the right one or the left one puts Denis right on the defensive."),
-    (13, None, "'Any leg at all, I will explain everything later!' Max declares that any leg at all he will explain everything later as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (0, None, '\'Vika, hi, this is Denis calling.\' Max conveys a pointed course on the spot, building the phrase around "zvonit" ("is calling") and "vika" ("Vika") for a crisp, natural delivery.'),
+    (1, None, '\'Excuse me, please, for calling so late.\' Denis shares a direct posture at once, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "zvonyu" ("call").'),
+    (2, None, '\'I cannot get through to Max on the phone.\' Denis shares a serious view right away, putting "mogu" ("can") alongside "dozvonitsya" ("to get through") in a tight, everyday turn of phrase.'),
+    (3, None, '\'Kostya fell here and twisted his ankle.\' Denis takes a playful bearing at once, putting "tut" ("here") alongside "upal" ("fell") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Max, I have never lied at such length before!\' Denis sustains an emphatic approach in this beat, building the phrase around "dolgo" ("for a long time") and "nikogda" ("never") for a crisp, natural delivery.'),
+    (5, None, '\'I told her that Kostya twisted his ankle.\' Denis maintains a candid posture during the exchange, leaning on "skazal" ("said") before closing the thought with "podvernul" ("twisted, sprained").'),
+    (6, None, '\'Got it, Kostya, yes, I will come right now.\' Max shares a natural tone as the scene unfolds, combining "ponyal" ("understood") and "seychas" ("now") so the key meaning lands right away.'),
+    (7, None, '\'Vikulya, may I take your car?\' Max probes plainly as the talk turns, weaving "mozhno" ("may, can") together with "mashinu" ("car") just the way native speakers do.'),
+    (8, None, '\'Kostyan, hey, are you asleep already?\' Max inquires earnestly in this moment, leaning on "zdorovo" ("great, cool") before closing the thought with "uzhe" ("already, now").'),
+    (9, None, '\'I will ask you a favor, just do not ask questions.\' Max conveys a firm style beside Kostya, using "poproshu" (from "poprosit", "will ask") alongside "tolko" ("only") to shape the meaning.'),
+    (10, None, '\'If Vika asks, you dislocated your foot.\' Max displays a serious mood in their talk, weaving "sprosit" ("asks") together with "vyvikhnul" ("to foot") just the way native speakers do.'),
+    (11, None, '\'Wait, and why did I dislocate my foot?\' Kostya quizzes directly for Max\'s benefit, combining "podozhdi" ("wait") and "zachem" ("what for") so the key meaning lands right away.'),
+    (12, None, '\'And which leg, the right one or the left one?\' Kostya questions lightly in this moment, using "nogu" (from "noga", "foot") alongside "pravuyu" ("right") to shape the meaning.'),
+    (13, None, '\'Any leg at all, I will explain everything later!\' Max adopts a firm tempo right away, combining the conversational booster "voobshche" ("in general, overall") with "lyubuyu" ("any") to give the line its natural spoken rhythm.'),
 ]

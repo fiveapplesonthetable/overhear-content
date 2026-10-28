@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In the good sense of the word.' Between the conversation and the truth, Max gives Kostya a quick, grounded response.
-- 'If you need anything at all, Nikolai here can help.' Because if Max needs anything at all Nikolai here can help, Kostya treats the matter as settled.
-- 'Yes, yes, of course, of course.' With the work and hospital in play, Max keeps this short reply brisk and direct.
-- 'Bring me some cigarettes.' Kostya explains that Max should bring him some cigarettes, keeping his voice calm and direct.
-- 'I said, bring me some cigarettes.' Claiming that he said bring him some cigarettes sounds confident, even if Kostya has doubts.
-- 'Wait, what did you say?' Asking what Max says cuts straight through the tension between Kostya and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Your boss just said to turn to you if I need anything.' Max explains that Kostya's boss just said to turn to Kostya if he needs anything, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Come on, this is a hospital.' Because Max should come on this is a hospital, Kostya treats the matter as settled.
-- 'Easier than getting cigarettes.' Over the work and the truth, Max answers Kostya without a second thought.
-- 'By the way, do you not need morphine?' Checking whether Max not need morphine cuts straight through the tension between Kostya and Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'No, I want to smoke.' Explaining that he wants to smoke lays the cards on the table for Kostya.
-- 'I cannot help you with that.' Kostya mentions that he cannot help Max so Max sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'They will fire me for that.' Once they will fire him, Max can finally tell Kostya what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'In the good sense of the word.' Max chooses a clear style beside Kostya, putting "khoroshem" ("good") alongside "smysle" ("sense") in a tight, everyday turn of phrase.
+- 'If you need anything at all, Nikolai here can help.' Kostya sustains a pointed manner as the scene unfolds, weaving "ponadobitsya" ("to be needed") together with "yest" ("there is") just the way native speakers do.
+- 'Yes, yes, of course, of course.' Max chooses a pointed tone without hesitation, joining "konechno" ("of course") to "da-da" ("yes, indeed") so every word pulls its weight.
+- 'Bring me some cigarettes.' Kostya establishes a grounded tack during the exchange, anchoring the Russian line on "prinesi" ("bring") and "sigarety" ("cigarette") without extra filler.
+- 'I said, bring me some cigarettes.' Max presents an honest attitude in front of Kostya, pairing "govoryu" ("am telling") with "sigarety" ("cigarette") to get the point across in plain spoken Russian.
+- 'Wait, what did you say?' Kostya challenges honestly across the room, linking "govoryu" ("am telling"), "chego" ("what"), and "ya" ("I") in one brisk exchange.
+- 'Your boss just said to turn to you if I need anything.' Max takes a grounded stance on the spot, leaning on "nachalstvo" ("management") before closing the thought with "skazalos" ("to affect, tell on").
+- 'Come on, this is a hospital.' Kostya holds an honest direction in the scene, placing "bolnitsa" ("the hospital") straight beside "da" ("yes") with no word for "to be" needed.
+- 'Easier than getting cigarettes.' Max projects a steady tempo in front of Kostya, combining "sigaretami" ("cigarette") and "chem" ("than") so the key meaning lands right away.
+- 'By the way, do you not need morphine?' Kostya probes honestly across the room, weaving "kstati" ("by the way") together with "nuzhen" ("is needed") just the way native speakers do.
+- 'No, I want to smoke.' Max holds a frank stance at this moment, pairing "kurit" ("to smoke") with "khochu" ("want") to get the point across in plain spoken Russian.
+- 'I cannot help you with that.' Kostya projects a calm posture in the scene, pairing "pomoch" ("to help") with "mogu" ("can") to get the point across in plain spoken Russian.
+- 'They will fire me for that.' Max maintains a natural angle in this beat, pairing "uvolyat" ("will fire") with "eto" ("this") to get the point across in plain spoken Russian.

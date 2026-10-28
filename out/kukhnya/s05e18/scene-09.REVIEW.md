@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, fellas, have a conscience!' Saying that fellas have a conscience is how the guest takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I did not get out of my taxi all day, driving people.' Explaining that he did not get out of his taxi all day driving people lays the cards on the table for Barinov.
-- 'Turn off the drill, I just lay down to sleep!' Turning off the drill he just lay down to sleep shows the guest is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, friend, we have another hour of work here.' Realizing that friend they have another hour of work here changes how Barinov handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Bear with us, tomorrow he picks up his wife from the hospital.' Noting that bear with them tomorrow he picks up his wife from the hospital keeps Barinov's side of the story simple and clear.
-- 'Please, put yourself in our shoes.' Because the guest should put themselves in their shoes, Barinov treats the matter as settled.
-- 'Is a baby going to be screaming in here too?' Checking whether a baby going to be screaming in here cuts straight through the tension between the guest and Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Yes, my child is going to live in my home.' Saying that his child is going to live in his home is how Max sets the tone with Barinov.
-- 'Do you have some kind of problem with that?' Here asking whether Barinov has some kind of problem shows Max looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'You will have problems if I hear the drill again!' Because Barinov will have problems if he hears the drill again, the guest does not bother softening the blow for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Actually today is Saturday, you have no right.' The guest tells Barinov that today is Saturday Barinov has no right without dressing it up.
-- 'Pay no attention to him, let's continue.' Saying that the guest should pay no attention to him let them continue is how Barinov sets the tone with the guest.
+- 'Hello, fellas, have a conscience!' The guest chooses a direct direction in their talk, joining "zdravstvuyte" ("hello") to "muzhiki" ("lads, guys") so every word pulls its weight.
+- 'I did not get out of my taxi all day, driving people.' The guest establishes a sharp line in the room, linking "sutki" ("day and night"), "taksi" ("taxi"), and "vylezal" ("got out") in one brisk exchange.
+- 'Turn off the drill, I just lay down to sleep!' The guest strikes a calm direction in the room, joining "vyrubite" ("shut off") to "drel" ("power drill") so every word pulls its weight.
+- 'Listen, friend, we have another hour of work here.' Barinov shares an easygoing tack as the scene unfolds, building the phrase around "slushay" ("listen") and "drug" ("friend") for a crisp, natural delivery.
+- 'Bear with us, tomorrow he picks up his wife from the hospital.' Barinov takes a frank posture in the scene, linking "poterpi" ("to be patient for a while"), "zavtra" ("tomorrow"), and "zhenu" ("wife") in one brisk exchange.
+- 'Please, put yourself in our shoes.' Barinov displays a resolute tack at this moment, anchoring the Russian line on "voydi" ("enter") and "polozheniye" ("position, situation") without extra filler.
+- 'Is a baby going to be screaming in here too?' The guest queries wryly as the beat lands, building the phrase around "tut" ("here") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'Yes, my child is going to live in my home.' Max offers a wry posture right away, using "dome" (from "dom", "house") alongside "budet" ("will be") to shape the meaning.
+- 'Do you have some kind of problem with that?' Max checks briskly without a pause, leaning on "problemy" ("problems") before closing the thought with "tebya" ("you").
+- 'You will have problems if I hear the drill again!' The guest strikes an earnest note toward Max, leaning on "problemy" ("problems") before closing the thought with "budut" ("there will be").
+- 'Actually today is Saturday, you have no right.' The guest conveys a calm line on the spot, weaving "voobshche-to" ("actually") together with "segodnya" ("today") just the way native speakers do.
+- 'Pay no attention to him, let's continue.' Barinov chooses a steady angle at once, leaning on "obrashchay" ("pay") before closing the thought with "vnimaniya" ("attention").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, why are you not picking up the phone?' Here wondering why Kostya not picking up the phone is shows Max looking for the real truth.
-- 'I will explain everything right now.' Realizing that he will explain everything right now changes how Max handles the situation.
-- 'Yesterday I walk into the locker room.' Noting that yesterday he walks into the locker room keeps Max's side of the story simple and clear.
-- 'And I see someone rummaging through our things.' Seeing someone rummaging through their things is how Max lays out the situation for Kostya.
-- 'Probably a thief. I ran after him!' Around the hotel and room, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'When I was running across the road, Iosif Prigozhin hit me.' Saying that when he was running across the road Iosif Prigozhin hit him is how Max sets the tone with Kostya.
-- 'Lavrov, you are losing your touch.' Once Kostya is losing Kostya's touch, Vika can finally tell Kostya what she means.
-- 'Some kind of low-quality lying.' Over the point and the car, Vika answers Kostya without a second thought.
-- 'I told you the truth! What should I do?' Max asks whether he told Kostya the truth, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well let Iosif Prigozhin come here and tell it.' Explaining that Kostya should let Iosif Prigozhin come here and tell it lays the cards on the table for Kostya.
-- 'So you will believe Prigozhin, and not me?' Wondering if Kostya will believe Prigozhin and not him shows Max caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Listen, could you not say that Prigozhin broke the cognac?' Here checking whether Max not say that Prigozhin broke the cognac shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Vika, why are you not picking up the phone?' Max queries directly right away, using "trubku" (from "trubka", "the receiver") alongside "beryosh" ("do you take") to shape the meaning.
+- 'I will explain everything right now.' Max chooses a thoughtful position straight away, anchoring the Russian line on "seychas" ("now") and "obyasnyu" ("I'll explain") without extra filler.
+- 'Yesterday I walk into the locker room.' Max displays an unhurried stance across the room, weaving "vchera" ("yesterday") together with "zakhozhu" ("to come in") just the way native speakers do.
+- 'And I see someone rummaging through our things.' Max presents a grounded attitude in front of Vika, joining "vizhu" ("see") to "kak" ("how") so every word pulls its weight.
+- 'Probably a thief. I ran after him!' Max keeps a brisk mood on the spot, anchoring the Russian line on "navernoye" ("probably") and "vor" ("thief") without extra filler.
+- 'When I was running across the road, Iosif Prigozhin hit me.' Max sets a playful tack as they talk, joining "kogda" ("when") to "perebegal" ("ran across") so every word pulls its weight.
+- 'Lavrov, you are losing your touch.' Vika presents a clear manner without hesitation, putting "teryayesh" ("lose") alongside "kvalifikatsiyu" ("qualification") in a tight, everyday turn of phrase.
+- 'Some kind of low-quality lying.' Vika presents a serious mood across the room, leaning on "nekachestvennoye" ("low-quality") before closing the thought with "vranyo" ("never").
+- 'I told you the truth! What should I do?' Max presses frankly in this moment, using "pravdu" (from "pravda", "truth") alongside "skazal" ("said") to shape the meaning.
+- 'Well let Iosif Prigozhin come here and tell it.' Vika strikes a serious tempo across the room, building the phrase around "priyedet" ("will come, arrive") and "rasskazhet" ("will tell") for a crisp, natural delivery.
+- 'So you will believe Prigozhin, and not me?' Max questions plainly in the scene, leaning on "yest" ("there is") before closing the thought with "poverish" ("will believe").
+- 'Listen, could you not say that Prigozhin broke the cognac?' Kostya challenges firmly during the talk, putting "slushay" ("listen") alongside "mog" ("can, to be able") in a tight, everyday turn of phrase.

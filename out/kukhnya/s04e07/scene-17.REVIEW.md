@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And here is our signature onion soup!' Declaring that here is their signature onion soup brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Simply fantastic, what an amazing and tender taste!' Between the soup and the conversation, the guest delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Allow me to interrupt your lovely conversation!' By telling Barinov to allow him to interrupt Barinov's lovely conversation, German raises the stakes in the room at once.
-- 'Respected guest, they are brazenly deceiving you here!' German declares that respected guest they are brazenly deceiving Barinov here as the tension in the room peaks. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And how did you like this onion soup?' Asking how Barinov likes this onion soup is how German puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'The soup turned out very tasty, and what is the matter?' Questioning whether the soup turned out very tasty and what is the matter is how the guest tests Barinov's story.
-- 'But after all it is completely impossible to eat this soup!' Once after all it is completely impossible to eat this soup, German makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Right now it is as sour as pure vinegar!' Declaring that right now it is as sour as pure vinegar brings German's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Allow me, taste it yourself from my bowl.' Claiming that Barinov should allow him taste it themselves from his bowl sounds confident, even if Barinov has doubts.
-- 'Well why did you go silent, it is a magnificent soup after all!' Saying that why did German goes silent it is a magnificent soup after all is how Barinov takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Forgive me, I do not understand anything at all right now.' Explaining that he does not understand anything at all right now lays the cards on the table for Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Oh no, this simply cannot be!' Because this simply cannot be, German does not bother softening the blow for Barinov.
+- 'And here is our signature onion soup!' Barinov favors an honest tone in the room, building the phrase around "firmennyy" ("signature") and "lukovyy" ("onion") for a crisp, natural delivery.
+- 'Simply fantastic, what an amazing and tender taste!' The guest maintains an honest posture at once, putting "prosto" ("just") alongside "fantastika" ("fantastic") in a tight, everyday turn of phrase.
+- 'Allow me to interrupt your lovely conversation!' German brings a warm stance in the room, combining "razreshite" ("allow") and "prervat" ("to interrupt") so the key meaning lands right away.
+- 'Respected guest, they are brazenly deceiving you here!' German projects a resolute position as they talk, pairing "uvazhayemyy" ("respected, esteemed") with "gost" ("guest") to get the point across in plain spoken Russian.
+- 'And how did you like this onion soup?' German tests candidly as the talk turns, putting "kak" ("how") alongside "ponravilsya" ("was liked, pleased") in a tight, everyday turn of phrase.
+- 'The soup turned out very tasty, and what is the matter?' The guest questions evenly from the start, anchoring the Russian line on "sup" ("soup") and "poluchilsya" ("to turn out") without extra filler.
+- 'But after all it is completely impossible to eat this soup!' German holds a candid attitude in the scene, pairing "sup" ("soup") with "sovershenno" ("quite, completely") to get the point across in plain spoken Russian.
+- 'Right now it is as sour as pure vinegar!' German establishes a playful tempo across the room, building the phrase around "seychas" ("now") and "kislyy" ("sour") for a crisp, natural delivery.
+- 'Allow me, taste it yourself from my bowl.' The guest shows an emphatic line beside Barinov, weaving "pozvolte" ("allow me") together with "poprobuyte" ("try, taste") just the way native speakers do.
+- 'Well why did you go silent, it is a magnificent soup after all!' Barinov adopts a steady tempo during the exchange, combining "zamolchal" ("to fall silent") and "shikarnyy" ("splendid, luxurious") so the key meaning lands right away.
+- 'Forgive me, I do not understand anything at all right now.' German displays an honest tack in front of Barinov, doubling the negative with "ne" ("not") and "prostite" ("excuse me"), which is standard and required in Russian.
+- 'Oh no, this simply cannot be!' German displays a warm course during the exchange, pairing "prosto" ("just") with "mozhet" ("can") to get the point across in plain spoken Russian.

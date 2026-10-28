@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to fire one extra cook.' By needing to fire one extra cook, Max keeps his side of the story grounded. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Listen, can I have you for one minute?' Checking whether he has Fedya for one minute cuts straight through the tension between Max and Fedya.
-- 'We have a staff reduction in the restaurant right now.' Explaining that they have a staff reduction in the restaurant right now lays the cards on the table for Fedya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Forgive me, there is nothing personal here.' Max mentions that there is nothing personal here so Fedya sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I beg you, just do not fire me today!' Once he begs Max just do not fire him today, Fedya makes sure Max hears every word.
-- 'Please, I have a big family at home.' Having a big family at home is how Fedya lays out the situation for Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I have small children and a bank loan.' Admitting that he has small children and a bank loan shows Fedya being honest for a change. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Please, I am begging you very much!' Once he is begging Max very much, Fedya makes sure Max hears every word.
-- 'Well why are you kneeling, get up quickly now!' Once why are Fedya kneeling get up quickly now, Max makes sure Fedya hears every word. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Everything is fine, I will not fire you.' Even though everything is fine he will not fire Fedya, Max keeps a steady face in front of Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'On the contrary, you are a really great cook, got it?' Max asks whether on the contrary Fedya is a really great cook got it, refusing to let the point slide.
-- 'This downsizing will definitely not affect you.' Saying that this downsizing will definitely not affect Fedya is how Max sets the tone with Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So come on, go work calmly.' Since Fedya should come on go work calmly, Max does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'We need to fire one extra cook.' Max sustains a warm attitude for Fedya, pairing "nado" ("it is necessary") with "uvolit" ("to fire") to get the point across in plain spoken Russian.
+- 'Listen, can I have you for one minute?' Max wonders lightly in front of Fedya, leaning on "slushay" ("listen") before closing the thought with "mozhno" ("may, can").
+- 'We have a staff reduction in the restaurant right now.' Max maintains a wry view across the room, using "restorane" (from "restoran", "restaurant") alongside "seychas" ("now") to shape the meaning.
+- 'Forgive me, there is nothing personal here.' Max chooses a warm tack in the room, pairing "izvini" ("sorry, excuse me") with "tut" ("here") to get the point across in plain spoken Russian.
+- 'I beg you, just do not fire me today!' Fedya favors a firm rhythm without hesitation, linking "umolyayu" ("I beg"), "tolko" ("only"), and "uvolnyayte" ("fire") in one brisk exchange.
+- 'Please, I have a big family at home.' Fedya presents an emphatic angle right away, anchoring the Russian line on "doma" ("at home") and "bolshaya" ("large") without extra filler.
+- 'I have small children and a bank loan.' Fedya shares a natural direction in their talk, linking "malenkiye" ("little ones"), "deti" ("kids"), and "kredit" ("loan, credit") in one brisk exchange.
+- 'Please, I am begging you very much!' Fedya picks a warm line in their talk, building the phrase around "ochen" ("very much") and "silno" ("strongly, much") for a crisp, natural delivery.
+- 'Well why are you kneeling, get up quickly now!' Max conveys a measured footing in the scene, using "stoish" (from "stoyat", "stand") alongside "bystro" ("quickly") to shape the meaning.
+- 'Everything is fine, I will not fire you.' Max shares a natural manner on the spot, weaving "normalno" ("fine, OK") together with "uvolyu" ("will fire") just the way native speakers do.
+- 'On the contrary, you are a really great cook, got it?' Max wonders boldly toward Fedya here, pairing "naoborot" ("contrary") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'This downsizing will definitely not affect you.' Max favors a resolute posture beside Fedya, pairing "kosnyotsya" ("affect") with "sokrashcheniye" ("right") so the "-sya" ending carries the action.
+- 'So come on, go work calmly.' Max sets a clear note in the conversation, putting "davay" ("let's") alongside "spokoyno" ("calmly") in a tight, everyday turn of phrase.

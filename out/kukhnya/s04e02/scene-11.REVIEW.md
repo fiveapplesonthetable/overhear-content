@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just look who showed up.' Once just look who showed up, Senya can finally tell Max what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What did he order?' Wondering what he order is how Senya puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The chef's special.' Around the shift and dish, Max sets a calm, everyday tone with Senya.
-- 'He will get a dish alright.' Since he will get a dish alright, Senya does not waste words on excuses.
-- 'The chef's special is ready.' Mentioning that the special is ready moves the talk in a new direction.
-- 'That name is in French.' Senya reminds Max that that name is in French before the moment passes.
-- 'It sounds beautiful.' Because it sounds beautiful, Max treats the matter as settled.
-- 'Vika, well, what do you think?' Here asking what Senya thinks shows Max looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, there is no fracture, it is only a scratch.' Saying that there is no fracture it is only a scratch is how Max sets the tone with Senya.
-- 'And what if he kills me by accident?' Asking whether what if he kills her by accident puts Max right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I promise he will not mess up again.' Explaining that he promises he will not mess up again lays the cards on the table for Senya.
-- 'This is for you. What?' Wondering if this is for Senya shows Max caught off guard.
+- 'Just look who showed up.' Senya chooses an earnest tack in the room, pairing "smotri" ("look") with "prishyol" ("came, have come") to get the point across in plain spoken Russian.
+- 'What did he order?' Senya prompts directly as the beat lands, putting "zakazal" ("ordered") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'The chef's special.' Max holds a thoughtful bearing with Senya, linking "blyudo" ("dish"), "shefa" ("chef"), and "ot" ("from") in one brisk exchange.
+- 'He will get a dish alright.' Senya adopts an honest tack beside Vika, anchoring the Russian line on "budet" ("will be") and "blyudo" ("dish") without extra filler.
+- 'The chef's special is ready.' Senya presents an earnest course without hesitation, combining "blyudo" ("dish") and "shefa" ("chef") so the key meaning lands right away.
+- 'That name is in French.' Senya sustains a clear posture for Vika, building the phrase around "po-frantsuzski" ("in French") and "eto" ("this") for a crisp, natural delivery.
+- 'It sounds beautiful.' Max establishes an earnest bearing with Senya, leaning on "zvuchit" ("sounds") before closing the thought with "krasivo" ("beautifully").
+- 'Vika, well, what do you think?' Max inquires promptly on the spot, leaning on "dumayesh" ("think") before closing the thought with "vik" ("Vika").
+- 'Well, there is no fracture, it is only a scratch.' Max brings a serious tack for Senya, linking "pereloma" ("only") directly with "tsarapina" ("a scratch"), since Russian drops "is" and "are" in the present.
+- 'And what if he kills me by accident?' Vika presses honestly on the spot, pairing "ubyot" ("will kill") with "sluchayno" ("by any chance") to get the point across in plain spoken Russian.
+- 'I promise he will not mess up again.' Max presents a lively stance in the conversation, combining "obeshchayu" ("promise") and "bolshe" ("more") so the key meaning lands right away.
+- 'This is for you. What?' Max presses quietly across the room, linking "eto" ("this") directly with "vam" ("you"), since Russian drops "is" and "are" in the present.

@@ -20,20 +20,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Макс | Здравствуйте, можно заказать массаж? | Hello, can I order a massage? | #305: Здравствуйте. Можно заказать массаж | adapted: adapted |
 | 9 | Макс | Плюс интимные услуги? | Plus intimate services? | #305: плюс интимные услуги | adapted: adapted |
 | 10 | Костя | Ну конечно можно! | Well of course you can! | #306: Ну, конечно, можно | adapted: adapted |
-| 11 | Костя | Массажист Константин уже выезжает! | Masseur Konstantin is already on his way! | #307: Массажист Константин уже выезжает | adapted: adapted |
+| 11 | Макс | Массажист Константин уже выезжает! | Masseur Konstantin is already on his way! | #307: Массажист Константин уже выезжает | adapted: adapted |
 | 12 | Макс | Жду вас с нетерпением! | I am waiting for you impatiently! | #306: конечно, можно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me go!' Because Barinov should let him go, Max does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'They say that thoughts are material.' Admitting that they say that thoughts are material shows Max being honest for a change.
-- 'If you admit to yourself what you truly want.' Adding that if Barinov admits to themselves what Barinov truly want fills in the missing piece for Barinov.
-- 'Perhaps a miracle will happen.' Max tells Barinov that perhaps a miracle will happen without dressing it up.
-- 'Marry me!' Here telling Kostya to marry him lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Now your marriage is officially dissolved.' Mentioning that Barinov's marriage is officially dissolved moves the talk in a new direction.
-- 'But I am not giving up.' By being not giving up, Max keeps his side of the story grounded.
-- 'Hello, can I order a massage?' Checking whether he orders a massage cuts straight through the tension between Max and Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Plus intimate services?' Over the plan and the hope, Max presses Barinov for a straight answer.
-- 'Well of course you can!' With the plan and hope at stake, Kostya reacts without holding back. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Masseur Konstantin is already on his way!' Once masseur Konstantin is already on his way, Kostya makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am waiting for you impatiently!' Insisting that he is waiting for Barinov impatiently shows Max is not backing down.
+- 'Let me go!' Max sets a direct direction in the room, combining "otpusti" ("let go, release") and "menya" ("me") so the key meaning lands right away.
+- 'They say that thoughts are material.' Max offers a wry bearing for Kostya, building the phrase around "govoryat" ("talks, says") and "mysli" ("thoughts") for a crisp, natural delivery.
+- 'If you admit to yourself what you truly want.' Max sustains an honest footing for Barinov, linking "priznatsya" ("to admit"), "po-nastoyashchemu" ("truly"), and "khochesh" ("do you want") in one brisk exchange.
+- 'Perhaps a miracle will happen.' Max projects a clear tone as they talk, building the phrase around "vozmozhno" ("perhaps, possible") and "chudo" ("miracle") for a crisp, natural delivery.
+- 'Marry me!' Barinov takes a calm tack as the scene unfolds, weaving "vykhodi" ("go out, marry") together with "za" ("for") just the way native speakers do.
+- 'Now your marriage is officially dissolved.' Max shares a sharp tack beside Kostya, joining "teper" ("now") to "brak" ("marriage") so every word pulls its weight.
+- 'But I am not giving up.' Max adopts an unhurried tone right away, pairing "sdayus" ("to give up") with "no" ("but") to get the point across in plain spoken Russian.
+- 'Hello, can I order a massage?' Max asks pointedly at this point, pairing "zdravstvuyte" ("hello") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
+- 'Plus intimate services?' Max questions firmly with Barinov now, anchoring the Russian line on "intimnyye" ("intimate") and "uslugi" ("services") without extra filler.
+- 'Well of course you can!' Kostya establishes a steady angle on the spot, combining "konechno" ("of course") and "mozhno" ("may, can") so the key meaning lands right away.
+- 'Masseur Konstantin is already on his way!' Max favors a serious note as the scene unfolds, leaning on "massazhist" ("massage therapist") before closing the thought with "uzhe" ("already, now").
+- 'I am waiting for you impatiently!' Max holds an earnest line in their talk, weaving "zhdu" ("I wait, expect") together with "neterpeniyem" ("to forward") just the way native speakers do.

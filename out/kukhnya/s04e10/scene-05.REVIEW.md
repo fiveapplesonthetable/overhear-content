@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Comb the entire restaurant quickly!' Between the plan and the boss, Nagiyev delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Did I say something funny?' By checking whether he says something funny, Nagiyev presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well yes, very funny.' Around the plan and conversation, the guest sets a calm, everyday tone with Nagiyev.
-- 'I pictured a giant hairbrush.' Around the plan and point, the guest sets a calm, everyday tone with Nagiyev.
-- 'Just try arguing with me!' Over the boss and the restaurant, Nagiyev lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Find him for me quickly!' Finding him for him quickly is Nagiyev's blunt reaction in front of the guest.
-- 'Do not be afraid of a sharp knife.' Senya mentions that do not be afraid of a sharp knife so the guest sees what is at stake.
-- 'Instead, be afraid of an ordinary fork!' With the boss and conversation at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'One strike, four holes.' Between the boss and the conversation, Senya gives the guest a quick, grounded response.
-- 'There we go, all wrapped up.' Over the boss and the point, Senya answers the guest without a second thought.
-- 'Spring salads from Senya.' Around the boss and truth, Senya sets a calm, everyday tone with the guest.
-- 'You were whipped and defeated.' Noting that the guest was whipped and defeated keeps Senya's side of the story simple and clear.
+- 'Comb the entire restaurant quickly!' Nagiyev brings a pointed position straight away, leaning on "procheshite" ("to comb") before closing the thought with "bystro" ("quickly").
+- 'Did I say something funny?' Nagiyev queries warmly in front of Senya, pairing "skazal" ("said") with "smeshnoye" ("funny, ridiculous") to get the point across in plain spoken Russian.
+- 'Well yes, very funny.' The guest establishes an earnest style in the conversation, pairing "ochen" ("very much") with "smeshno" ("ridiculous") to get the point across in plain spoken Russian.
+- 'I pictured a giant hairbrush.' The guest projects an emphatic style in the conversation, using "predstavil" (from "predstavit", "to imagine") alongside "bolshuyu" ("large, big") to shape the meaning.
+- 'Just try arguing with me!' Nagiyev establishes a brisk approach for the guest, anchoring the Russian line on "tolko" ("only") and "poprobuy" ("to try, to taste") without extra filler.
+- 'Find him for me quickly!' Nagiyev displays an earnest course as the scene unfolds, combining "bystro" ("quickly") and "naydite" ("find") so the key meaning lands right away.
+- 'Do not be afraid of a sharp knife.' Senya shows a grounded view at once, joining "boysya" ("be afraid") to "ostrogo" ("sharp, spicy") so every word pulls its weight.
+- 'Instead, be afraid of an ordinary fork!' Senya offers a measured mood in the conversation, building the phrase around "boysya" ("be afraid") and "obychnoy" ("ordinary") for a crisp, natural delivery.
+- 'One strike, four holes.' Senya conveys a measured line at this moment, anchoring the Russian line on "udar" ("blow, strike") and "dyrki" ("holes") without extra filler.
+- 'There we go, all wrapped up.' Senya picks a candid approach in this beat, putting "upakovano" ("up") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
+- 'Spring salads from Senya.' Senya strikes an honest posture across the room, linking "salaty" ("salad"), "vesenniye" ("salads"), and "seni" ("senya") in one brisk exchange.
+- 'You were whipped and defeated.' Senya strikes an earnest footing for Nagiyev, weaving "byl" ("was") together with "vzbit" ("to defeated") just the way native speakers do.

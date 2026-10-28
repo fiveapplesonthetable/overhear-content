@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya and I are already sitting down at the table, bring the ring.' Mentioning that Nastya and he are already sitting down at the table bring the ring moves the talk in a new direction.
-- 'Sveta, did you already find the keys in my jacket?' Checking whether Barinov already find the keys in his jacket is how Denis puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tell me, did you not touch anything else in the pocket there?' With the work and ring hanging in the air, Denis puts Barinov on the spot.
-- 'Forgive me, darling, I simply could not help myself!' Because darling she simply could not help herself, Sveta does not bother softening the blow for Barinov. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'The ring is simply wonderful, and of course I agree!' Insisting that the ring is simply wonderful and of course she agrees shows Sveta is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I understand that the odds on their defeat are very high.' Saying that he understands that the odds on their defeat are very high is how Barinov sets the tone with Denis.
-- 'But I am completely sure that they will win today, bet everything!' Here being completely sure that they will win today bet everything lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Viktor, tell me, what is going on with our staff today?' Questioning whether tell her what is going on with their staff today is how Sveta tests Barinov's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'All day they have been telling the guests some strange truth!' Saying that all day they have been telling the guests some strange truth is how Sveta takes charge of the moment.
-- 'Wait, are you completely sure that they are telling the truth?' Checking whether Denis completely sure that they are telling the truth is how Barinov puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Chef, excuse me, should we save pasta for your lunch?' Questioning whether should they save pasta for Barinov's lunch is how Denis tests Barinov's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is just that all the staff in the hotel have already eaten!' Insisting that it is just that all the staff in the hotel have already eaten shows Denis is not backing down.
+- 'Nastya and I are already sitting down at the table, bring the ring.' Denis takes an easygoing manner in the scene, leaning on "uzhe" ("already, now") before closing the thought with "sadimsya" ("let's take seats").
+- 'Sveta, did you already find the keys in my jacket?' Denis prompts promptly to Sveta here, building the phrase around "sveta" ("electricity") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'Tell me, did you not touch anything else in the pocket there?' Denis probes decisively on the spot, weaving "skazhi" ("say") together with "tam" ("there") just the way native speakers do.
+- 'Forgive me, darling, I simply could not help myself!' Sveta takes a brisk angle right away, using "prosti" (from "prostit", "sorry, forgive me") alongside "lyubimyy" ("favourite") to shape the meaning.
+- 'The ring is simply wonderful, and of course I agree!' Sveta adopts a candid manner in the room, linking "koltso" ("ring") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
+- 'I understand that the odds on their defeat are very high.' Barinov shares a resolute style in the conversation, leaning on "ponimayu" ("understand") before closing the thought with "koeffitsiyent" ("coefficient").
+- 'But I am completely sure that they will win today, bet everything!' Barinov sustains an earnest view in front of Denis, building the phrase around "tochno" ("definitely") and "uveren" ("sure, confident") for a crisp, natural delivery.
+- 'Viktor, tell me, what is going on with our staff today?' Sveta presses pointedly to keep things clear, linking "skazhi" ("say"), "segodnya" ("today"), and "tvoritsya" ("is going on") in one brisk exchange.
+- 'All day they have been telling the guests some strange truth!' Sveta keeps a lively mood in the scene, linking "den" ("day"), "govoryat" ("talks, says"), and "gostyam" ("guests") in one brisk exchange.
+- 'Wait, are you completely sure that they are telling the truth?' Barinov prompts earnestly as the talk turns, pairing "podozhdi" ("wait") with "tochno" ("definitely") to get the point across in plain spoken Russian.
+- 'Chef, excuse me, should we save pasta for your lunch?' Denis prompts bluntly in their exchange, pairing "izvinite" ("sorry, excuse me") with "makarony" ("pasta") to get the point across in plain spoken Russian.
+- 'It is just that all the staff in the hotel have already eaten!' Denis offers a grounded attitude in their talk, building the phrase around "prosto" ("just") and "sotrudniki" ("employees") for a crisp, natural delivery.

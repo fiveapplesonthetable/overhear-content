@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank goodness you did not punch me in the nose.' Thanking goodness Elena did not punch her in the nose is how Vika lays out the situation for Elena.
-- 'Your guests have arrived.' Since Elena's guests have arrived, Nagiyev does not waste words on excuses.
-- 'I did not come alone.' Mentioning that she did not come alone moves the talk in a new direction.
-- 'I thought it over.' Elena reminds Nagiyev that she thought it before the moment passes.
-- 'So to speak.' With the conversation and dinner in play, Vika keeps this short reply brisk and direct.
-- 'Please, have a seat. Thank you.' Explaining that have a seat lays the cards on the table for Elena.
-- 'A classic French atmosphere.' Over the conversation and the restaurant, Vika answers Elena without a second thought.
-- 'So they were too lazy to hire a decent interior designer.' Claiming that they were too lazy to hire a decent interior designer sounds confident, even if Elena has doubts.
-- 'And what kind of entertainment show do you have here?' Asking whether what kind of entertainment show do Elena has here puts Elena right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'People come to a restaurant to eat, not to watch a circus.' Over the work and the dinner, Nagiyev answers Elena without a second thought.
-- 'When a place cannot cook, they distract guests with a show.' Realizing that when a place cannot cook they distract guests with a show changes how Vika handles the situation.
-- 'Well, at mom's restaurant they know how to cook.' Around the work and dinner, Nagiyev sets a calm, everyday tone with Elena.
-- 'Well, well, well.' Between the work and the dinner, Vika gives Elena a quick, grounded response.
+- 'Thank goodness you did not punch me in the nose.' Vika brings a pointed manner in front of Elena, pairing "spasibo" ("thank you") with "nos" ("nose") to get the point across in plain spoken Russian.
+- 'Your guests have arrived.' Nagiyev brings an honest attitude in this beat, anchoring the Russian line on "prishli" ("have come") and "vam" ("you") without extra filler.
+- 'I did not come alone.' Vika establishes an unhurried posture right away, putting "odna" ("one") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'I thought it over.' Elena brings a direct course as the scene unfolds, joining "podumala" ("thought") to "ya" ("I") so every word pulls its weight.
+- 'So to speak.' Vika shows a direct posture without hesitation, weaving "skazat" ("tell") together with "tak" ("so") just the way native speakers do.
+- 'Please, have a seat. Thank you.' Nagiyev presents an honest view in front of Vika, weaving "proshu" ("beg, ask") together with "spasibo" ("thank you") just the way native speakers do.
+- 'A classic French atmosphere.' Vika sustains a sharp direction as they talk, using "klassicheskaya" (from "klassicheskiy", "classic, classical") alongside "frantsuzskaya" ("French") to shape the meaning.
+- 'So they were too lazy to hire a decent interior designer.' Nagiyev keeps a frank attitude with Vika, building the phrase around "normalnogo" ("normal") and "dizaynera" ("designer") for a crisp, natural delivery.
+- 'And what kind of entertainment show do you have here?' Vika inquires naturally with Elena now, building the phrase around "shou" ("show") and "programmy" ("apps, programs") for a crisp, natural delivery.
+- 'People come to a restaurant to eat, not to watch a circus.' Nagiyev strikes an unhurried bearing across the room, building the phrase around "restorane" ("restaurant") and "lyudi" ("people") for a crisp, natural delivery.
+- 'When a place cannot cook, they distract guests with a show.' Vika chooses a resolute tone in front of Elena, linking "kogda" ("when"), "gotovit" ("to cook"), and "umeyut" ("can, know how to") in one brisk exchange.
+- 'Well, at mom's restaurant they know how to cook.' Nagiyev brings an honest footing during the exchange, building the phrase around "mama" ("mum, mother") and "restorane" ("restaurant") for a crisp, natural delivery.
+- 'Well, well, well.' Vika displays a lively mood for Elena, letting the single Russian word "tak" ("so") carry the entire reaction on its own.

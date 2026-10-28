@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, they just completely fired me.' Around the conversation and suit, Denis sets a calm, everyday tone with Barinov.
-- 'You and I did not take that into account.' Admitting that Barinov and he did not take that into account shows Kostya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, then we move on to a new plan.' With the work and suit in play, Kostya keeps this short reply brisk and direct.
-- 'But I do not have another plan.' Since he does not have another plan, Denis does not waste words on excuses.
-- 'I need to go and tell everyone the truth.' Denis tells Barinov that he needs to go and tell everyone the truth without dressing it up. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I will say that I am not going anywhere.' Noting that he will say that he is not going anywhere keeps Denis's side of the story simple and clear.
-- 'Alright, please just do not panic right now.' Because Alright please just do not panic right now, Kostya treats the matter as settled.
-- 'Did you already talk calmly with Katya?' Asking whether Barinov already talk calmly with Katya is how Kostya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I did not have time, everyone came running there.' Noting that he did not have time everyone came running there keeps Denis's side of the story simple and clear.
-- 'First you go and talk with Katya.' Claiming that first Barinov goes and talk with Katya sounds confident, even if Barinov has doubts.
-- 'Just be sure to return this suit to me.' Over the point and the suit, Barinov answers Denis without a second thought.
-- 'You look simply great in it.' Barinov mentions that Denis looks simply great in it so Denis sees what is at stake. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Kostya, they just completely fired me.' Denis adopts a frank rhythm in the conversation, pairing "tolko" ("only") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'You and I did not take that into account.' Kostya offers a calm footing in this beat, using "uchli" (from "uchest", "to take into account") alongside "etogo" ("that") to shape the meaning.
+- 'Alright, then we move on to a new plan.' Kostya shows a direct course in the scene, building the phrase around "togda" ("back then") and "perekhodim" ("to cross, to move on to") for a crisp, natural delivery.
+- 'But I do not have another plan.' Denis sustains a warm view with Kostya, weaving "drugogo" ("other, another") together with "plana" ("plan") just the way native speakers do.
+- 'I need to go and tell everyone the truth.' Denis takes a clear attitude across the room, combining "nado" ("it is necessary") and "poyti" ("go") so the key meaning lands right away.
+- 'I will say that I am not going anywhere.' Denis holds an earnest stance in the scene, building the phrase around "skazhu" ("I'll tell") and "nikuda" ("nowhere, anywhere") for a crisp, natural delivery.
+- 'Alright, please just do not panic right now.' Kostya displays a direct tempo in the scene, pairing "tolko" ("only") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Did you already talk calmly with Katya?' Kostya inquires lightly toward Denis here, leaning on "uzhe" ("already, now") before closing the thought with "spokoyno" ("calmly").
+- 'I did not have time, everyone came running there.' Denis conveys a candid tack during the exchange, joining "uspel" ("managed in time") to "tam" ("there") so every word pulls its weight.
+- 'First you go and talk with Katya.' Kostya sustains a resolute course beside Denis, joining "snachala" ("first, at first") to "idyosh" ("are coming") so every word pulls its weight.
+- 'Just be sure to return this suit to me.' Barinov sets a candid direction in the room, building the phrase around "tolko" ("only") and "kostyum" ("suit") for a crisp, natural delivery.
+- 'You look simply great in it.' Barinov shows a serious line in this beat, combining the softening word "prosto" ("simply, just") with "otlichno" ("perfect, great") to give the line its natural spoken rhythm.

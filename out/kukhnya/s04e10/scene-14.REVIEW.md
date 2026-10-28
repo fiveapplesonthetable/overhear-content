@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing, that is my nephew!' Because what are Barinov doing that is his nephew, Timur does not bother softening the blow for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If he bites you, you will become a zombie!' Insisting that if he bites Barinov Barinov will become a zombie shows Louis is not backing down. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Where we come from, biting an elder is a disgrace.' Mentioning that where they come from biting an elder is a disgrace moves the talk in a new direction.
-- 'Then we are not driving anywhere with you.' Saying that they are not driving anywhere with Barinov is how Louis sets the tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Oh, my poor brains!' Over the shift and the respect, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Come on, get into the car already.' Once Barinov should come on get into the car already, Timur can finally tell Barinov what he means.
-- 'Oh horror, what have I done!' Louis declares that horror what have he done as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I simply had no choice.' Claiming that he simply had no choice sounds confident, even if Barinov has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Our chef has become a zombie too!' Insisting that their has become a zombie shows Louis is not backing down.
-- 'What zombie, you idiots?' Over the moment and the respect, Barinov presses Louis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I have a wild hangover this morning!' Having a wild hangover this morning is Barinov's blunt reaction in front of Louis. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I was drinking Bloody Marys all night!' Barinov insists that he was drinking all night, leaving Louis no room to argue.
-- 'And you are yelling so loud that my brains hurt!' Saying that Louis is yelling so loud that his brains hurt is how Barinov takes charge of the moment. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'What are you doing, that is my nephew!' Timur adopts a thoughtful angle as the scene unfolds, putting "plemyannik" ("nephew") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'If he bites you, you will become a zombie!' Louis favors an easygoing approach for Timur, leaning on "ukusit" ("to zombie") before closing the thought with "stanete" ("to become").
+- 'Where we come from, biting an elder is a disgrace.' Timur takes a calm approach as the scene unfolds, leaning on "ukusit" ("to biting") before closing the thought with "starshego" ("older, elder").
+- 'Then we are not driving anywhere with you.' Louis sets a steady manner beside Timur, building the phrase around "togda" ("back then") and "nikuda" ("nowhere, anywhere") for a crisp, natural delivery.
+- 'Oh, my poor brains!' Barinov favors a candid attitude beside Louis, linking "bednyye" ("poor"), "mozgi" ("brains"), and "okh" ("oh") in one brisk exchange.
+- 'Come on, get into the car already.' Timur strikes a pointed tempo with Louis, using "davay" (from "davat", "let's") alongside "sadis" ("sit down") to shape the meaning.
+- 'Oh horror, what have I done!' Louis conveys a candid stance in this beat, building the phrase around "uzhas" ("horror") and "nadelal" ("make, cause") for a crisp, natural delivery.
+- 'I simply had no choice.' Louis maintains a serious angle as the scene unfolds, leaning on "prosto" ("just") before closing the thought with "bylo" ("was").
+- 'Our chef has become a zombie too!' Louis chooses an easygoing approach right away, leaning on "tozhe" ("too") before closing the thought with "stal" ("to become").
+- 'What zombie, you idiots?' Barinov probes earnestly toward Timur here, linking "yeshchyo" ("more, still"), "zombi" ("matter"), and "idioty" ("idiot, fool") in one brisk exchange.
+- 'I have a wild hangover this morning!' Barinov looks over frankly in their exchange, using the everyday "u menya" ("by me") alongside "utra" ("morning") to show what belongs to the speaker.
+- 'I was drinking Bloody Marys all night!' Barinov maintains a direct stance in this beat, linking "noch" ("night"), "krovavuyu" ("all"), and "meri" ("night") in one brisk exchange.
+- 'And you are yelling so loud that my brains hurt!' Barinov presents a steady style at this moment, combining "oryote" ("to yell, to bellow") and "mozgi" ("brains") so the key meaning lands right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How do you choose a good hotel for a vacation?' Here asking how Kostya chooses a good hotel for a vacation shows Max looking for the real truth.
-- 'Or for a business trip?' With the point and hotel hanging in the air, Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There is one simple rule.' Claiming that there is one simple rule sounds confident, even if Kostya has doubts.
-- 'The more stars, the better the service.' With the shift and award in play, Max keeps this short reply brisk and direct.
-- 'A special commission inspects every corner of the hotel.' Over the shift and the award, Max answers Kostya without a second thought.
-- 'Forgive me, I did not have time to exchange money.' Claiming that he did not have time to exchange money sounds confident, even if Kostya has doubts.
-- 'Is it alright if I pay in dollars?' Checking whether it alright if he pays in dollars cuts straight through the tension between Max and Kostya.
-- 'Will this be enough?' Asking whether this be enough is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course, here you go.' Admitting that here Kostya goes shows Nastya being honest for a change.
-- 'Kostik, look how much I earned!' Over the hotel and the guest, Nastya lets her real feelings show.
-- 'What is this?' With the hotel and award hanging in the air, Kostya puts Max on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dollars!' With the hotel and shift at stake, Nastya reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'How do you choose a good hotel for a vacation?' Max asks directly without a pause, pairing "kak" ("how") with "vybrat" ("to choose") to get the point across in plain spoken Russian.
+- 'Or for a business trip?' Max challenges quietly as the talk turns, joining "delovoy" ("business, businesslike") to "poyezdki" ("trip, journey") so every word pulls its weight.
+- 'There is one simple rule.' Max favors a steady footing for Kostya, using "yest" (from "byt", "there is") alongside "prostoye" ("simple") to shape the meaning.
+- 'The more stars, the better the service.' Max chooses a warm approach at once, pairing "bolshe" ("more") with "zvyozd" ("stars") to get the point across in plain spoken Russian.
+- 'A special commission inspects every corner of the hotel.' Max sets a sharp direction as the scene unfolds, pairing "spetsialnaya" ("special") with "komissiya" ("commission") to get the point across in plain spoken Russian.
+- 'Forgive me, I did not have time to exchange money.' Max shows a thoughtful footing with Nastya, weaving "prostite" ("excuse me") together with "uspel" ("managed in time") just the way native speakers do.
+- 'Is it alright if I pay in dollars?' Max queries candidly during the talk, leaning on "rasschitayus" ("pay") before closing the thought with "dollarami" ("dollars").
+- 'Will this be enough?' Max probes lightly in their exchange, leaning on "khvatit" ("enough") before closing the thought with "etogo" ("that").
+- 'Of course, here you go.' Nastya displays a direct line in front of Kostya, combining "konechno" ("of course") and "proshu" ("beg, ask") so the key meaning lands right away.
+- 'Kostik, look how much I earned!' Nastya shares a brisk approach without hesitation, anchoring the Russian line on "smotri" ("look") and "skolko" ("how much, so much") without extra filler.
+- 'What is this?' Kostya presses bluntly in front of Max, building the phrase around "chto" ("what") and "eto" ("this") for a crisp, natural delivery.
+- 'Dollars!' Nastya shows a playful tack in their talk, leaning on "dollary" ("dollars") as a compact, one-word response that needs no extra words.

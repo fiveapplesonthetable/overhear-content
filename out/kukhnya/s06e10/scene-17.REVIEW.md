@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come out one by one into the courtyard for inspection!' Telling Lyova to come out one by one into the courtyard for inspection is the inspector's blunt reaction in front of Lyova. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Immediately prepare all your documents for inspection.' Around the work and police, the inspector sets a calm, everyday tone with Lyova. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Move forward faster and stand in a line.' Mentioning that Lyova should move forward faster and stand in a line moves the talk in a new direction.
-- 'Listen, you do not look much like a foreign guest.' Admitting that Lyova does not look much like a foreign guest shows the inspector being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And I am a local resident, here is my Russian passport.' Even though he is a local resident here is his Russian passport, Lyova keeps a steady face in front of the inspector.
-- 'Alright, let us look at the documents, so you are Lev Semyonovich?' Asking whether Alright let them look at the documents so Lyova is puts Lyova right on the defensive.
-- 'Lev Semyonovich, explain what you are doing here?' Wondering if someone explain what Lyova is doing here shows the inspector caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'In what sense, I simply live here right now.' Lyova tells the inspector that in what sense he simply lives here right now without dressing it up.
-- 'Why are you living in cramped quarters with Moscow registration?' Here wondering why Lyova living in cramped quarters with Moscow registration is shows the inspector looking for the real truth.
-- 'Because my beloved girlfriend lives here.' Mentioning that because his beloved girlfriend lives here moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Now you will have a beloved girlfriend far from here.' The inspector reminds Lyova that Lyova will have a beloved girlfriend far from here before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Because tomorrow morning we are deporting everyone!' Saying that because tomorrow morning they are deporting everyone is how the inspector takes charge of the moment.
+- 'Come out one by one into the courtyard for inspection!' The inspector adopts a frank angle in front of Lyova, pairing "vykhodite" ("step out, come out") with "dvor" ("yard, courtyard") to get the point across in plain spoken Russian.
+- 'Immediately prepare all your documents for inspection.' The inspector offers a grounded footing straight away, leaning on "srazu" ("at once") before closing the thought with "gotovim" ("are preparing").
+- 'Move forward faster and stand in a line.' The inspector offers a serious approach at this moment, leaning on "prokhodim" ("to go through") before closing the thought with "bystreye" ("faster").
+- 'Listen, you do not look much like a foreign guest.' The inspector holds a serious mood for Lyova, linking "slushay" ("listen"), "ochen" ("very much"), and "pokhozh" ("look like, similar") in one brisk exchange.
+- 'And I am a local resident, here is my Russian passport.' Lyova adopts a lively position in this beat, joining "mestnyy" ("local") to "zhitel" ("resident") so every word pulls its weight.
+- 'Alright, let us look at the documents, so you are Lev Semyonovich?' The inspector wonders steadily in their exchange, weaving "posmotrim" ("have a look") together with "dokumenty" ("the documents") just the way native speakers do.
+- 'Lev Semyonovich, explain what you are doing here?' The inspector wonders promptly as the beat lands, anchoring the Russian line on "semyonovich" ("semyonovich") and "obyasnite" ("to explain") without extra filler.
+- 'In what sense, I simply live here right now.' Lyova projects a resolute rhythm without hesitation, joining "smysle" ("sense") to "prosto" ("just") so every word pulls its weight.
+- 'Why are you living in cramped quarters with Moscow registration?' The inspector prompts evenly at this point, pairing "zachem" ("what for") with "propiskoy" ("registration") to get the point across in plain spoken Russian.
+- 'Because my beloved girlfriend lives here.' Lyova offers an easygoing bearing beside the inspector, using the everyday "u menya" ("by me") alongside "potomu" ("because") to show what belongs to the speaker.
+- 'Now you will have a beloved girlfriend far from here.' The inspector conveys an honest tack at once, putting "teper" ("now") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'Because tomorrow morning we are deporting everyone!' The inspector holds a clear posture toward Lyova, joining "potomu" ("because") to "zavtra" ("tomorrow") so every word pulls its weight.

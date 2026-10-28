@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have two options right now.' Having two options right now is how Kostya lays out the situation for the guest.
-- 'Tell me honestly, were you in prison before?' Asking whether tell him honestly were the guest in prison puts the guest right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, I spent just a little time there.' Saying that he spent just a little time there is how the guest sets the tone with Kostya.
-- 'We are raising our son in the same apartment.' Since they are raising their son in the same apartment, Kostya does not waste words on excuses.
-- 'But I did not kill anyone.' Mentioning that he did not kill anyone moves the talk in a new direction.
-- 'You could have told me earlier.' Saying that the guest could have told him earlier is how Kostya sets the tone with the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Kostya, I played cards on trains.' Because he played cards on trains, the guest treats the matter as settled.
-- 'I should have told him about it earlier.' Explaining that he should have told him about it earlier lays the cards on the table for Kostya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'It was simply such a hard time back then.' The guest mentions that it was simply such a hard time back then so Kostya sees what is at stake.
-- 'My dad was also in prison back then.' Claiming that her dad was also in prison back then sounds confident, even if the guest has doubts.
-- 'I am going with our son to kindergarten now.' Pointing out that she is going with their son to kindergarten now gives the guest a sobering reality check.
-- 'You two talk on the way to work.' Around the truth and shift, Nastya sets a calm, everyday tone with the guest. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Please quietly close the door behind you.' With the truth and moment in play, Nastya keeps this short reply brisk and direct.
+- 'I have two options right now.' Kostya takes a wry stance toward the guest, linking "seychas" ("now"), "yest" ("there is"), and "varianta" ("options") in one brisk exchange.
+- 'Tell me honestly, were you in prison before?' Kostya tests honestly across the room, using "skazhi" (from "skazat", "say") alongside "chestno" ("honestly") to shape the meaning.
+- 'Yes, I spent just a little time there.' The guest sets a serious note toward Kostya, putting "tam" ("there") alongside "nemnogo" ("a bit") in a tight, everyday turn of phrase.
+- 'We are raising our son in the same apartment.' Kostya shows a candid approach as they talk, building the phrase around "vospityvayem" ("to bring up") and "syna" ("son") for a crisp, natural delivery.
+- 'But I did not kill anyone.' The guest shares a brisk attitude right away, anchoring the Russian line on "ubival" ("killed") and "da" ("yes") without extra filler.
+- 'You could have told me earlier.' Kostya shows a serious stance for Nastya, weaving "mog" ("can, to be able") together with "ranshe" ("earlier, previously") just the way native speakers do.
+- 'Kostya, I played cards on trains.' The guest strikes a frank manner straight away, building the phrase around "poyezdakh" ("train") and "igral" ("played") for a crisp, natural delivery.
+- 'I should have told him about it earlier.' The guest projects a measured line with Nastya, putting "ranshe" ("earlier, previously") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'It was simply such a hard time back then.' The guest sets a grounded approach as they talk, putting "togda" ("back then") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'My dad was also in prison back then.' Nastya projects an earnest view in this beat, leaning on "papa" ("Dad") before closing the thought with "tozhe" ("too").
+- 'I am going with our son to kindergarten now.' Nastya adopts a pointed attitude in this beat, pairing "seychas" ("now") with "yedu" ("am driving") so the "-sya" ending carries the action.
+- 'You two talk on the way to work.' Nastya strikes a brisk tempo beside Kostya, weaving "doroge" ("road") together with "rabotu" ("job") just the way native speakers do.
+- 'Please quietly close the door behind you.' Nastya favors a firm rhythm in the scene, weaving "tikho" ("easy, quiet") together with "zakroyte" ("close") just the way native speakers do.

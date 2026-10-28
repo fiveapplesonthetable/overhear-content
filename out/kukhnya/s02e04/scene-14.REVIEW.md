@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then I will head out.' Saying that he will head out is how Barinov sets the tone with Vika.
-- 'It has already started.' Once it has already started, Vika can finally tell Barinov what she means.
-- 'We wrap all of this up.' Over the kitchen and the revenge, Barinov answers Vika without a second thought.
-- 'All that is left is to put it in the oven.' Vika tells Barinov that all that is left is to put it in the oven without dressing it up.
-- 'He wanted to buy me off in France.' Since he wanted to buy him off in France, Barinov does not waste words on excuses.
-- 'Well, you get nothing with vinegar, mister.' Mentioning that Barinov gets nothing with vinegar moves the talk in a new direction.
-- 'Viktor Barinov is not for sale.' Barinov reminds Vika that Viktor Barinov is not for sale before the moment passes.
-- 'That is much better.' Because that is much better, Vika treats the matter as settled.
-- 'Now that is really good.' Explaining that that is really good lays the cards on the table for Vika.
-- 'Well, how is it going over there?' Asking how it going over there is cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maybe we should not do this?' When Barinov asks if maybe they should not do this, Vika has to answer fast. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'It did not work.' Pointing out that it did not work gives Barinov a sobering reality check.
-- 'All the worse for him.' Over the shift and the point, Barinov answers Vika without a second thought.
+- 'Then I will head out.' Barinov displays a candid view in the room, weaving "togda" ("back then") together with "poydu" ("go") just the way native speakers do.
+- 'It has already started.' Vika sustains an honest attitude in front of Barinov, putting "uzhe" ("already, now") alongside "nachalos" ("to begin, to start") in a tight, everyday turn of phrase.
+- 'We wrap all of this up.' Barinov presents a sharp rhythm in front of Vika, pairing "delo" ("matter") with "svorachivayem" ("to wrap up") to get the point across in plain spoken Russian.
+- 'All that is left is to put it in the oven.' Vika shows an emphatic manner at this moment, anchoring the Russian line on "ostalos" ("was left") and "tolko" ("only") without extra filler.
+- 'He wanted to buy me off in France.' Barinov projects a sharp footing at this moment, leaning on "kupit" ("buy") before closing the thought with "khotel" ("wanted").
+- 'Well, you get nothing with vinegar, mister.' Vika takes a brisk course toward Barinov, using "uksusom" (from "uksus", "vinegar") alongside "gospodin" ("Mr, sir") to shape the meaning.
+- 'Viktor Barinov is not for sale.' Barinov sustains a sharp view in the room, combining "prodayetsya" ("to be sold") and "viktor" ("Viktor") so the key meaning lands right away.
+- 'That is much better.' Vika shares a frank bearing in the scene, building the phrase around "luchshe" ("better") and "vot" ("there, here") for a crisp, natural delivery.
+- 'Now that is really good.' Barinov favors a wry footing right away, anchoring the Russian line on "sovsem" ("at all") and "khorosho" ("good, fine") without extra filler.
+- 'Well, how is it going over there?' Vika presses calmly as the beat lands, joining "tam" ("there") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Maybe we should not do this?' Barinov questions steadily in the room, linking "mozhet" ("can"), "nado" ("it is necessary"), and "ne" ("not") in one brisk exchange.
+- 'It did not work.' Vika picks an easygoing posture with Barinov, joining "srabotalo" ("to work, succeed") to "ne" ("not") so every word pulls its weight.
+- 'All the worse for him.' Barinov keeps a serious rhythm in the scene, pairing "khuzhe" ("worse") with "yemu" ("him") to get the point across in plain spoken Russian.

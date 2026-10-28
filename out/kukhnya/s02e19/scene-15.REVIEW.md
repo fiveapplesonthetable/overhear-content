@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Enjoy your meal.' Even though Vika should enjoy Vika's meal, Barinov keeps a steady face in front of Vika.
-- 'Where are all the other waitresses?' Asking where all the other waitresses are cuts straight through the tension between Vika and Barinov.
-- 'There is nobody here except me.' Claiming that there is nobody here except him sounds confident, even if Vika has doubts.
-- 'What kind of nonsense is this, huh?' Wondering if what kind of nonsense is this huh shows Vika caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, what can we possibly do about it?' By asking what they possibly do about it can, Barinov presses Vika for a straight answer.
-- 'Do you know what we can do?' Checking whether Barinov knows what they can do cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everyone does whatever they can.' Noting that everyone does whatever they can keeps Barinov's side of the story simple and clear.
-- 'And you, please, just endure it and do whatever you want.' Even though Barinov pleases just endure it and do whatever Barinov wants, Vika keeps a steady face in front of Barinov.
-- 'What is going to happen to us anyway?' By wondering what going to happen to them anyway is, Barinov presses Vika for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'So, do we have a deal?' Asking whether they have a deal cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That is none of your business.' Once that is none of Vika's business, Barinov can finally tell Vika what he means.
-- 'Do you smell that scent in the air?' Here checking whether Barinov smell that scent in the air shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That is the sweet smell of our victory.' Saying that that is the sweet smell of their victory is how Barinov sets the tone with Vika. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Enjoy your meal.' Barinov strikes an unhurried tempo toward Vika, leaning on "priyatnogo" ("pleasant") before closing the thought with "appetita" ("appetite").
+- 'Where are all the other waitresses?' Vika inquires directly from the start, linking "gde" ("where") directly with "ofitsianty" ("waiters"), since Russian drops "is" and "are" in the present.
+- 'There is nobody here except me.' Barinov takes an honest posture at once, linking "krome" ("except") directly with "menya" ("me"), since Russian drops "is" and "are" in the present.
+- 'What kind of nonsense is this, huh?' Vika presses warmly in their exchange, pairing "bred-to" ("nonsense") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'Well, what can we possibly do about it?' Barinov probes quietly beside Vika, leaning on "mozhem-to" ("can") before closing the thought with "chto" ("what").
+- 'Do you know what we can do?' Vika asks pointedly in the room, joining "znayesh" ("know") to "mozhem" ("can") so every word pulls its weight.
+- 'Everyone does whatever they can.' Barinov maintains a clear tempo straight away, pairing "mozhet" ("can") with "kto" ("who") to get the point across in plain spoken Russian.
+- 'And you, please, just endure it and do whatever you want.' Vika conveys a thoughtful angle on the spot, building the phrase around "terpite" ("endure, bear with it") and "khotite" ("want") for a crisp, natural delivery.
+- 'What is going to happen to us anyway?' Barinov questions wryly to keep things clear, linking "budet-to" ("will be"), "nu" ("oh, come on"), and "chto" ("what") in one brisk exchange.
+- 'So, do we have a deal?' Vika tests honestly for Barinov's benefit, putting "dogovorilis" ("agreed, deal") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'That is none of your business.' Barinov brings a pointed tone with Vika, linking "delo" ("matter") directly with "ne" ("not"), since Russian drops "is" and "are" in the present.
+- 'Do you smell that scent in the air?' Vika challenges dryly to keep things clear, leaning on "chuvstvuyesh" ("feel") before closing the thought with "zapakh" ("the smell").
+- 'That is the sweet smell of our victory.' Barinov picks a playful mood without hesitation, combining "sladkiy" ("sweet") and "zapakh" ("the smell") so the key meaning lands right away.

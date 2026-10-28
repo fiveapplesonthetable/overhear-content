@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, Timur, how did the conversation go?' Asking how the conversation go cuts straight through the tension between Max and Timur. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everything is fine, bro, we agreed on everything.' Saying that everything is fine bro they agreed on everything is how Timur sets the tone with Max.
-- 'One of them has a shop, we will supply meat to him.' Once one of them has a shop they will supply meat to him, Timur can finally tell Max what he means.
-- 'Listen, Timur, that is very good!' Declaring that that is very good brings Max's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We will deliver three times a week.' Saying that they will deliver three times a week is how Timur sets the tone with Max.
-- 'Great, and what about me then?' With the conversation and meat hanging in the air, Max puts Timur on the spot.
-- 'With you, however, things are really bad.' Mentioning that with Max however things are really bad moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why did you not tell me about the pork?' By asking why Max not tell him about the pork, Timur presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That changes everything completely now!' Insisting that that changes everything completely now shows Timur is not backing down.
-- 'Maybe we had better call the police?' Wondering if maybe they had better call the police shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, then it will be even worse for you.' Timur mentions that it will be even worse for Max so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Go talk to them, I gave them my word!' Insisting that Max should go talk to them he gave them his word shows Timur is not backing down.
+- 'So, Timur, how did the conversation go?' Max prompts bluntly in the room, pairing "kak" ("how") with "proshyol" ("passed") to get the point across in plain spoken Russian.
+- 'Everything is fine, bro, we agreed on everything.' Timur favors a clear direction beside Max, putting "poryadke" ("order") alongside "bratan" ("bro") in a tight, everyday turn of phrase.
+- 'One of them has a shop, we will supply meat to him.' Timur takes a firm bearing in front of Max, joining "magazin" ("shop") to "budem" ("will") so every word pulls its weight.
+- 'Listen, Timur, that is very good!' Max shows a candid tack at this moment, weaving "slushay" ("listen") together with "ochen" ("very much") just the way native speakers do.
+- 'We will deliver three times a week.' Timur adopts a calm stance straight away, pairing "budem" ("will") with "vozit" ("to carry, to haul") to get the point across in plain spoken Russian.
+- 'Great, and what about me then?' Max probes warmly during the talk, weaving "otlichno" ("perfect, great") together with "togda" ("back then") just the way native speakers do.
+- 'With you, however, things are really bad.' Timur takes a firm tempo on the spot, pairing "dela" ("things, affairs") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'Why did you not tell me about the pork?' Timur quizzes pointedly without holding back, weaving "pochemu" ("why") together with "svininu" ("pork") just the way native speakers do.
+- 'That changes everything completely now!' Timur holds an honest note for Max, building the phrase around "teper" ("now") and "voobshche" ("at all") for a crisp, natural delivery.
+- 'Maybe we had better call the police?' Max inquires firmly in the scene, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
+- 'No, then it will be even worse for you.' Timur displays an honest attitude toward Max, weaving "togda" ("back then") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'Go talk to them, I gave them my word!' Timur presents a measured course in the room, anchoring the Russian line on "idi" ("go") and "razgovarivay" ("talk") without extra filler.

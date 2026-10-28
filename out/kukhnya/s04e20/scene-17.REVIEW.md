@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, back off, I have no time for you right now.' Noting that back off she has no time for Denis right now keeps Katya's side of the story simple and clear. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Hey, what are you two doing right here?' Wondering what Katya two doing right here is is how Denis puts Katya on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Take your hands off my girlfriend right now!' Once Katya should take Katya's hands off his girlfriend right now, Denis makes sure Katya hears every word.
-- 'Come on, get out of here right now!' Coming on get out of here right now shows Denis is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will call our guys out here right now!' Once he will call their guys out here right now, Denis makes sure Katya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Denis, tell me, does it hurt very much right now?' Asking whether tell her does it hurt very much right now puts Denis right on the defensive.
-- 'Wait, let me take a careful look.' Letting her take a careful look moves the conversation forward without extra drama.
-- 'Everything is fine with me, it does not hurt at all.' Since everything is fine with him it does not hurt at all, Denis does not waste words on excuses.
-- 'Katya, I beg you, forgive me, please.' Pointing out that he begs Katya forgives him please gives Katya a sobering reality check.
-- 'I really never cheated on you.' Between the shift and the conversation, Denis gives Katya a quick, grounded response. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Katya, I do not want to lose you.' Claiming that he does not want to lose Katya sounds confident, even if Katya has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Quiet, I forgave you a long time ago.' Explaining that quiet she forgave Denis a long time ago lays the cards on the table for Denis.
+- 'Listen, back off, I have no time for you right now.' Katya offers a steady position in front of Denis, joining "slushayte" ("listen") to "otstante" ("to fall behind") so every word pulls its weight.
+- 'Hey, what are you two doing right here?' Denis checks directly from the start, pairing "tut" ("here") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Take your hands off my girlfriend right now!' Denis favors a steady footing toward Katya, building the phrase around "bystro" ("quickly") and "ruki" ("hands") for a crisp, natural delivery.
+- 'Come on, get out of here right now!' Denis strikes a resolute tempo without hesitation, leaning on "bystro" ("quickly") before closing the thought with "ushli" ("we have gone").
+- 'I will call our guys out here right now!' Denis brings a firm stance as they talk, pairing "seychas" ("now") with "syuda" ("here") to get the point across in plain spoken Russian.
+- 'Denis, tell me, does it hurt very much right now?' Katya presses evenly on the spot, anchoring the Russian line on "skazhi" ("say") and "seychas" ("now") without extra filler.
+- 'Wait, let me take a careful look.' Katya keeps a sharp tone in the room, using "podozhdi" (from "podozhdat", "wait") alongside "day" ("give") to shape the meaning.
+- 'Everything is fine with me, it does not hurt at all.' Denis chooses a pointed angle in the conversation, leaning on "normalno" ("fine, OK") before closing the thought with "sovsem" ("at all").
+- 'Katya, I beg you, forgive me, please.' Denis shares a thoughtful bearing in the room, anchoring the Russian line on "proshu" ("beg, ask") and "prosti" ("sorry, forgive me") without extra filler.
+- 'I really never cheated on you.' Denis brings a playful line straight away, pairing "pravda" ("honestly") with "nikogda" ("never") to get the point across in plain spoken Russian.
+- 'Katya, I do not want to lose you.' Denis strikes an unhurried course in the room, using "khochu" (from "khotet", "want") alongside "poteryat" ("to lose") to shape the meaning.
+- 'Quiet, I forgave you a long time ago.' Katya favors an earnest stance straight away, building the phrase around "tikho" ("easy, quiet") and "uzhe" ("already, now") for a crisp, natural delivery.

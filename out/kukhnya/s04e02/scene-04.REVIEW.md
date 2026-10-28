@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is Denis?' Around the morning and moment, Vika wants to know where Denis really stands.
-- 'He went back home.' Adding that he went back home fills in the missing piece for Denis.
-- 'He said Moscow is a village and Voronezh is a city of opportunity.' Saying that he said Moscow is a village and Voronezh is a city of opportunity is how Max sets the tone with Denis.
-- 'Want some? Maybe you will join me?' Asking whether maybe Denis will join him puts Denis right on the defensive.
-- 'I bought butter and bread.' Mentioning that he bought butter and bread moves the talk in a new direction.
-- 'Your prices here are something else, of course.' Denis reminds Max that Max's prices here are something else of course before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Max, I helped push a car out there.' Because he helped push a car out there, Denis treats the matter as settled.
-- 'Are there any towels?' Here checking whether there any towels shows Denis looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In the bathroom.' Over the shift and the morning, Max answers Denis without a second thought.
-- 'Well, where have you been wandering?' Questioning whether where have Denis been wandering is how Vika tests Denis's story.
-- 'I was at the grocery store.' Pointing out that he was at the grocery store gives Max a sobering reality check.
-- 'I have no words.' Saying that she has no words is how Vika sets the tone with Denis. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Where is Denis?' Vika questions bluntly as the talk turns, putting "gde" ("where") alongside "denis" ("Denis") in a tight, everyday turn of phrase.
+- 'He went back home.' Max keeps an emphatic view straight away, anchoring the Russian line on "domoy" ("home") and "uyekhal" ("left, went away") without extra filler.
+- 'He said Moscow is a village and Voronezh is a city of opportunity.' Max sets a grounded style during the exchange, pairing "skazal" ("said") with "derevnya" ("village, countryside") to get the point across in plain spoken Russian.
+- 'Want some? Maybe you will join me?' Max questions steadily as the talk turns, pairing "budesh" ("will") with "mozhet" ("can") to get the point across in plain spoken Russian.
+- 'I bought butter and bread.' Denis brings a playful tack in front of Max, joining "maslo" ("butter") to "khleb" ("bread") so every word pulls its weight.
+- 'Your prices here are something else, of course.' Denis sets a grounded manner with Vika, linking "tsena" ("price"), "konechno" ("of course"), and "vas" ("you") in one brisk exchange.
+- 'Max, I helped push a car out there.' Denis displays an earnest approach with Max, building the phrase around "tut" ("here") and "mashinu" ("car") for a crisp, natural delivery.
+- 'Are there any towels?' Denis queries plainly as they speak, leaning on "yest" ("there is") before closing the thought with "polotentsa" ("towels").
+- 'In the bathroom.' Max takes a firm angle toward Denis, letting the single Russian word "vannoy" ("bathtub, bath") carry the entire reaction on its own.
+- 'Well, where have you been wandering?' Vika queries earnestly in front of Max, putting "gde" ("where") alongside "khodish" ("can walk, are walking") in a tight, everyday turn of phrase.
+- 'I was at the grocery store.' Denis conveys a direct rhythm straight away, using "magazine" (from "magazin", "shop") alongside "byl" ("was") to shape the meaning.
+- 'I have no words.' Vika favors a direct manner beside Max, leaning on "slov" ("words") before closing the thought with "menya" ("me").

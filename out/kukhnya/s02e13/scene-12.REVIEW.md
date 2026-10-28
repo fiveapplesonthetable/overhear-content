@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He can hear everything!' Nagiyev declares that he can hear everything as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Tamara Petrovna!' Over the restaurant and the moment, Barinov lets his real feelings show.
-- 'He recognized me!' Between the restaurant and the conversation, Nagiyev delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Good Lord, he recognized me.' With the call and phone in play, Barinov keeps this short reply brisk and direct.
-- 'We cannot leave him here.' Mentioning that they cannot leave him here moves the talk in a new direction.
-- 'Grab him, Tamara Petrovna.' Here grabbing him Tamara sets up the next turn in their exchange.
-- 'I have the right to a phone call.' Adding that he has the right to a phone call fills in the missing piece for Barinov.
-- 'Call Dmitry Nagiyev.' Calling Dmitry Nagiyev is how Barinov lays out the situation for Nagiyev.
-- 'He is the owner of my restaurant.' Admitting that he is the owner of his restaurant shows Nagiyev being honest for a change.
-- 'And he will confirm that I am who I say I am.' Because he will confirm that he is who he says he is, Barinov treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Go ahead and dictate the number, I guess.' Saying that Barinov should go ahead and dictate the number he guesses is how Nagiyev sets the tone with Barinov.
-- 'Are you serious?' By checking whether Nagiyev serious, Barinov presses Nagiyev for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, alright then.' Between the police and the shift, Nagiyev gives Barinov a quick, grounded response.
+- 'He can hear everything!' Nagiyev maintains a candid tone during the exchange, pairing "slyshit" ("to hear") with "on" ("he") to get the point across in plain spoken Russian.
+- 'Tamara Petrovna!' Barinov keeps a brisk footing straight away, building the phrase around "tamara" ("Tamara") and "petrovna" ("Petrovna") for a crisp, natural delivery.
+- 'He recognized me!' Nagiyev strikes an emphatic approach in front of Barinov, joining "uznal" ("recognised") to "on" ("he") so every word pulls its weight.
+- 'Good Lord, he recognized me.' Barinov shares an honest attitude in the room, anchoring the Russian line on "uznal" ("recognised") and "gospodi" ("Good Lord") without extra filler.
+- 'We cannot leave him here.' Nagiyev favors a resolute tempo at once, pairing "nelzya" ("not allowed") with "zdes" ("here") to get the point across in plain spoken Russian.
+- 'Grab him, Tamara Petrovna.' Barinov strikes a serious course in the room, building the phrase around "beri" ("take, grab") and "yego" ("him") for a crisp, natural delivery.
+- 'I have the right to a phone call.' Nagiyev maintains a grounded rhythm in the room, pairing "imeyu" ("have") with "pravo" ("right") to get the point across in plain spoken Russian.
+- 'Call Dmitry Nagiyev.' Barinov picks a warm footing at this moment, combining "pozvonite" ("will call") and "dmitriyu" ("Dmitry") so the key meaning lands right away.
+- 'He is the owner of my restaurant.' Nagiyev strikes a natural stance across the room, putting "khozyain" ("owner") alongside "restorana" ("restaurant") in a tight, everyday turn of phrase.
+- 'And he will confirm that I am who I say I am.' Barinov shares an unhurried manner in the room, combining "podtverdil" ("to confirm") and "on" ("he") so the key meaning lands right away.
+- 'Go ahead and dictate the number, I guess.' Nagiyev strikes an unhurried posture across the room, using "diktuy" (from "diktovat", "read out, dictate") alongside "navernoye" ("probably") to shape the meaning.
+- 'Are you serious?' Barinov inquires dryly as the talk turns, leaning on "da" ("yes") before closing the thought with "ladno" ("all right").
+- 'Well, alright then.' Nagiyev keeps a thoughtful rhythm in the conversation, weaving "nu" ("oh, come on") together with "ladno" ("all right") just the way native speakers do.

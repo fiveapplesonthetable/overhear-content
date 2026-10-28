@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are doing physical exercises without being used to them.' Mentioning that Fedya is doing physical exercises without being used to them moves the talk in a new direction.
-- 'You have to prepare and warm up your body first.' Fedya reminds Senya that Senya has to prepare and warm up Senya's body first before the moment passes. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'All right, hold on just a minute.' Between the work and the conversation, Senya gives Fedya a quick, grounded response.
-- 'Is there anything you would like to tell me?' Asking whether there anything Senya would like to tell him cuts straight through the tension between Fedya and Senya.
-- 'You never would have guessed on your own.' Senya mentions that Fedya never would have guessed on Fedya's own so Fedya sees what is at stake. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Oh, it all started with that ridiculous gym bag.' Claiming that it all started with that ridiculous gym bag sounds confident, even if Senya has doubts.
-- 'I had guests over at my place.' Pointing out that he had guests over at his place gives Fedya a sobering reality check.
-- 'In the morning I was going to return it, and then I ran into you.' Fedya explains that in the morning he was going to return it and then he ran into Senya, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'It felt awkward to explain all of that to you on the spot.' Realizing that it felt awkward to explain all of that to Fedya on the spot changes how Senya handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You are not going to tell me that you play sports, are you?' When Fedya asks if Senya is not going to tell him that Senya plays sports are Senya, Senya has to answer fast.
-- 'Maybe the two of us should go jogging together?' Senya asks whether maybe the two of them should go jogging together, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I should have told you the whole truth right away.' Admitting that he should have told Senya the whole truth right away shows Fedya being honest for a change. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Let us do it first thing tomorrow.' Proposing that they do it first thing tomorrow moves the conversation forward without extra drama.
+- 'You are doing physical exercises without being used to them.' Senya picks a brisk tack in the scene, pairing "zanimayetes" ("are busy with") with "privychki" ("habit") so the "-sya" ending carries the action.
+- 'You have to prepare and warm up your body first.' Fedya keeps a pointed line at once, linking "organizm" ("organism"), "nuzhno" ("necessary"), and "podgotavlivat" ("to prepare") in one brisk exchange.
+- 'All right, hold on just a minute.' Senya holds a firm course in front of Fedya, joining "seychas" ("now") to "minutochku" ("a minute") so every word pulls its weight.
+- 'Is there anything you would like to tell me?' Fedya presses bluntly as they speak, weaving "khotite" ("want") together with "rasskazat" ("to tell") just the way native speakers do.
+- 'You never would have guessed on your own.' Senya maintains a lively attitude in the conversation, building the phrase around "voobshche" ("at all") and "dogadalis" ("guessed, thought of") for a crisp, natural delivery.
+- 'Oh, it all started with that ridiculous gym bag.' Fedya shows a brisk tone in front of Senya, combining "nachalos" ("to begin, to start") and "duratskoy" ("foolish, stupid") so the key meaning lands right away.
+- 'I had guests over at my place.' Senya offers a frank note in this beat, joining "byli" ("be") to "gosti" ("visitors, guests") so every word pulls its weight.
+- 'In the morning I was going to return it, and then I ran into you.' Fedya offers a playful stance in front of Senya, weaving "utrom" ("this morning") together with "sobralas" ("to get ready") just the way native speakers do.
+- 'It felt awkward to explain all of that to you on the spot.' Senya shows a lively tone with Fedya, combining "neudobno" ("awkward, uncomfortable") and "bylo" ("was") so the key meaning lands right away.
+- 'You are not going to tell me that you play sports, are you?' Fedya quizzes directly as the talk turns, anchoring the Russian line on "skazhete" ("will you say") and "zanimayetes" ("are busy with") without extra filler.
+- 'Maybe the two of us should go jogging together?' Senya tests directly in this moment, using "mozhet" (from "moch", "can") alongside "vmeste" ("together") to shape the meaning.
+- 'I should have told you the whole truth right away.' Fedya favors a frank line at once, pairing "nado" ("it is necessary") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Let us do it first thing tomorrow.' Senya sets a lively note for Fedya, anchoring the Russian line on "davayte" ("let's") and "pryamo" ("right, just") without extra filler.

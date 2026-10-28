@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, Dima, let's return to my old conditions.' Even though all right Dima let them return to his old conditions, Barinov keeps a steady face in front of the guest.
-- 'Remember, I kick you three times!' Because the guest should remember he kicks the guest three times, Barinov does not bother softening the blow for the guest. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What a mean person you are after all, Vitya!' Nagiyev insists that what a mean person Barinov is after all, leaving Barinov no room to argue.
-- 'And a true gentleman always keeps his word.' Once a true gentleman always keeps his word, Barinov can finally tell the guest what he means.
-- 'Wait, just not here and not right now!' With the point and exchange at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Work first, please introduce yourself to our guests.' Telling Barinov to work first please introduce themselves to their guests moves the conversation forward without extra drama.
-- 'Dear friends, I ask for a minute of your attention!' Insisting that dear friends he asks for a minute of Barinov's attention shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Allow me to introduce our head chef Viktor Barinov!' By allowing him to introduce their head Viktor Barinov, Nagiyev raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello, Viktor, we are very glad to see you!' Saying that they are very glad to see Barinov is how the guest takes charge of the moment.
-- 'Thank you, Dima, you are dismissed for now.' Because the guest is dismissed for now, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is a debt of honor, there is nothing you can do about it!' Saying that it is a debt of honor there is nothing the guest can do about it is how Barinov takes charge of the moment. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And remember, you still owe me two more times today!' Remembering the guest still owe him two more times today is Barinov's blunt reaction in front of the guest.
+- 'All right, Dima, let's return to my old conditions.' Barinov displays a sharp stance in this beat, pairing "vernyomsya" ("return, go back") with "starym" ("old") to get the point across in plain spoken Russian.
+- 'Remember, I kick you three times!' Barinov sets an emphatic tone in the room, pairing "pomnish" ("do you remember") with "raza" ("time") to get the point across in plain spoken Russian.
+- 'What a mean person you are after all, Vitya!' Nagiyev sustains an earnest bearing in this beat, linking "zloy" ("angry, mean") directly with "chelovek" ("a man, a person"), since Russian drops "is" and "are" in the present.
+- 'And a true gentleman always keeps his word.' Barinov strikes a steady rhythm as they talk, building the phrase around "nastoyashchiy" ("real, genuine") and "dzhentlmen" ("always") for a crisp, natural delivery.
+- 'Wait, just not here and not right now!' Nagiyev holds a warm line in their talk, building the phrase around "podozhdi" ("wait") and "tolko" ("only") for a crisp, natural delivery.
+- 'Work first, please introduce yourself to our guests.' Nagiyev chooses a clear angle straight away, putting "snachala" ("first, at first") alongside "rabota" ("job") in a tight, everyday turn of phrase.
+- 'Dear friends, I ask for a minute of your attention!' Nagiyev chooses a serious posture in the conversation, leaning on "dorogiye" ("dear") before closing the thought with "druzya" ("friends").
+- 'Allow me to introduce our head chef Viktor Barinov!' Nagiyev keeps an honest footing in their talk, joining "pozvolte" ("allow me") to "predstavit" ("to imagine") so every word pulls its weight.
+- 'Hello, Viktor, we are very glad to see you!' The guest offers a playful bearing in the conversation, pairing "zdravstvuyte" ("hello") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'Thank you, Dima, you are dismissed for now.' Barinov adopts an emphatic tack in front of Nagiyev, combining "spasibo" ("thank you") and "poka" ("bye") so the key meaning lands right away.
+- 'It is a debt of honor, there is nothing you can do about it!' Barinov brings a calm line in their talk, anchoring the Russian line on "kartochnyy" ("honor") and "dolg" ("debt") without extra filler.
+- 'And remember, you still owe me two more times today!' Barinov presents a calm mood in front of Nagiyev, leaning on "pomni" ("remember") before closing the thought with "segodnya" ("today").

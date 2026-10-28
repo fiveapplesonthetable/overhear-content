@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 INTRO = "After Nagiyev leaves the kitchen, the cooks tell Viktor that he shouldn't have insulted the owner, sparking a fiery farewell from the proud chef. Listen to the conversation in Russian first."
 OPENER = "Let's look closely at each Russian line in this scene."
 TRANSITION = 'With all the phrases clear, listen to the full Russian dialogue again.'
-OUTRO = "That covers Viktor's heated clash with the kitchen crew. Pay attention to how Russian uses dative pronouns in impersonal expressions of permission and obligation. Until next time!"
+OUTRO = "That covers Viktor's heated clash with the kitchen crew. Pay attention to how Russian uses indirect forms in impersonal expressions of permission and obligation. Until next time!"
 CLOSING = ('barinov', 'Хорошего дня!')
 STORY = [
     ('senya', 'Шеф, не нужно было вам Нагиева оскорблять.', 'Chef, you should not have insulted Nagiyev.', [(87, 'Шеф, не нужно было вам Нагиева оскорблять.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('senya', 'Шеф ушёл.', 'The Chef walked out.', [(89, 'Шеф')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, you should not have insulted Nagiyev.' Once Barinov should not have insulted Nagiyev, Senya can finally tell Barinov what he means."),
-    (1, None, '\'And nobody gave you the floor to speak.\' Adding that nobody gave Louis the floor to speak fills in the missing piece for Louis. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (2, None, "'Chef, all your problems come from your temper.' With the shift and pride in play, Senya keeps this short reply brisk and direct."),
-    (3, None, "'And nobody asked for your opinion either.' Since nobody asked for Louis's opinion either, Barinov does not waste words on excuses."),
-    (4, None, '\'At least now you have no right to insult us.\' Mentioning that at least now Barinov has no right to insult them moves the talk in a new direction. That little word "zato" means "on the bright side", flipping a complaint into an advantage.'),
-    (5, None, "'Keep quiet when grown men are sorting things out.' Saying that Louis should keep quiet when grown men are sorting things out is how Barinov sets the tone with Louis."),
-    (6, None, "'It is a good thing they fired you.' Because it is a good thing they fired Barinov, Louis treats the matter as settled."),
-    (7, None, '\'What did you just say?\' Wondering what Louis just say is how Barinov puts Louis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (8, None, '\'To hell with all of you.\' Around the moment and pride, Barinov sets a calm, everyday tone with Louis. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (9, None, "'Any restaurant will gladly hire me.' Claiming that any restaurant will gladly hire him sounds confident, even if Louis has doubts."),
-    (10, None, '\'And you will rot here without me.\' Pointing out that Louis will rot here without him gives Louis a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (11, None, "'The Chef walked out.' Senya explains that the Chef walked out, keeping his voice calm and direct."),
+    (0, None, '\'Chef, you should not have insulted Nagiyev.\' Senya adopts a serious position without hesitation, putting "nuzhno" ("necessary") alongside "bylo" ("was") in a tight, everyday turn of phrase.'),
+    (1, None, '\'And nobody gave you the floor to speak.\' Barinov picks a thoughtful tack on the spot, putting "slova" ("words") alongside "daval" ("gave") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Chef, all your problems come from your temper.\' Senya chooses a firm view in the room, joining "kharaktera" ("temper") to "problemy" ("problems") so every word pulls its weight.'),
+    (3, None, '\'And nobody asked for your opinion either.\' Barinov projects a lively note in front of Senya, leaning on "slova" ("words") before closing the thought with "daval" ("gave").'),
+    (4, None, '\'At least now you have no right to insult us.\' Louis chooses an easygoing mood as they talk, combining "teper" ("now") and "imeyete" ("have") so the key meaning lands right away.'),
+    (5, None, '\'Keep quiet when grown men are sorting things out.\' Barinov displays a sharp tack right away, anchoring the Russian line on "molchi" ("be quiet") and "kogda" ("when") without extra filler.'),
+    (6, None, '\'It is a good thing they fired you.\' Louis favors a warm manner straight away, weaving "khorosho" ("good, fine") together with "uvolili" ("to fire, to dismiss") just the way native speakers do.'),
+    (7, None, '\'What did you just say?\' Barinov checks sharply in this moment, building the phrase around "skazal" ("said") and "chto" ("what") for a crisp, natural delivery.'),
+    (8, None, '\'To hell with all of you.\' Barinov takes an honest style on the spot, joining "poshli" ("let\'s go") to "da" ("yes") so every word pulls its weight.'),
+    (9, None, '\'Any restaurant will gladly hire me.\' Barinov conveys an earnest direction in the scene, putting "lyuboy" ("any") alongside "restoran" ("restaurant") in a tight, everyday turn of phrase.'),
+    (10, None, '\'And you will rot here without me.\' Barinov maintains an easygoing tempo as the scene unfolds, putting "tut" ("here") alongside "sgniyote" ("without") in a tight, everyday turn of phrase.'),
+    (11, None, '\'The Chef walked out.\' Senya keeps a serious stance beside Louis, pairing "ushyol" ("left, departed") with "shef" ("Chef") to get the point across in plain spoken Russian.'),
 ]

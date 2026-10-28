@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you not going to cook her?' By checking whether Max not going to cook, Fedya presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Not right now.' Between the work and the guest, Max gives Fedya a quick, grounded response.
-- 'I am going to cook her tomorrow.' Noting that he is going to cook her tomorrow keeps Fedya's side of the story simple and clear.
-- 'Will you give her to me?' Here checking whether Fedya gives her to him shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am begging you.' Pointing out that he is begging Max gives Max a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not look at me like that.' Even though do not look at him like, Max keeps a steady face in front of Fedya.
-- 'Here, take her.' Between the point and the fish, Fedya gives Max a quick, grounded response.
-- 'But what about the soup?' Turning from the soup to the shift, Max asks Fedya directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Chicken marinated in fish broth.' Between the point and the work, Fedya gives Max a quick, grounded response.
-- 'They will never guess the difference.' Adding that they will never guess the difference fills in the missing piece for Fedya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'So a chicken is going to die in her place?' Questioning whether a chicken is going to die in her place is how Fedya tests Max's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Watch out or I will take her back right now.' Here watching out or he will take her back right now sets up the next turn in their exchange.
-- 'All right, go on.' With the truth and fish in play, Fedya keeps this short reply brisk and direct.
+- 'Are you not going to cook her?' Fedya queries earnestly without holding back, weaving "budesh" ("will") together with "gotovit" ("to cook") just the way native speakers do.
+- 'Not right now.' Max strikes a frank position in the room, leaning on "budu" ("will be") before closing the thought with "ne" ("not").
+- 'I am going to cook her tomorrow.' Fedya keeps a clear view beside Max, building the phrase around "gotovit" ("to cook") and "zavtra" ("tomorrow") for a crisp, natural delivery.
+- 'Will you give her to me?' Max challenges bluntly in their exchange, combining "otday" ("give back") and "yeye" ("she, it") so the key meaning lands right away.
+- 'I am begging you.' Fedya maintains a lively rhythm toward Max, pairing "ochen" ("very much") with "proshu" ("beg, ask") to get the point across in plain spoken Russian.
+- 'Do not look at me like that.' Max presents a thoughtful tack during the exchange, combining "smotri" ("look") and "ne" ("not") so the key meaning lands right away.
+- 'Here, take her.' Fedya keeps an earnest approach beside Max, joining "zabiray" ("take, collect") to "na" ("on, onto") so every word pulls its weight.
+- 'But what about the soup?' Max wonders naturally without hesitation, combining "kak" ("how") and "sup" ("soup") so the key meaning lands right away.
+- 'Chicken marinated in fish broth.' Fedya establishes an honest manner as they talk, joining "kuritsa" ("chicken") to "zamarinovannaya" ("marinated") so every word pulls its weight.
+- 'They will never guess the difference.' Max strikes an emphatic stance in the room, doubling the negative with "ne" ("not") and "nikogda" ("never"), which is standard and required in Russian.
+- 'So a chicken is going to die in her place?' Fedya wonders earnestly in front of Max, weaving "yest" ("there is") together with "umret" ("will die") just the way native speakers do.
+- 'Watch out or I will take her back right now.' Max adopts a pointed angle without hesitation, pairing "seychas" ("now") with "zaberu" ("will take") to get the point across in plain spoken Russian.
+- 'All right, go on.' Fedya favors a firm tone across the room, joining "idi" ("go") to "tak" ("so") so every word pulls its weight.

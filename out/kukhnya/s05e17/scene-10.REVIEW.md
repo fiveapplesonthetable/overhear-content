@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here, quietly drive his car away.' With the car and office in play, Eleonora keeps this short reply brisk and direct.
-- 'Leave it a couple of blocks away over there.' Leaving it a couple of blocks away over there is how Eleonora lays out the situation for Nikita.
-- 'Later they will calmly find it.' Admitting that later they will calmly find it shows Eleonora being honest for a change.
-- 'And what if Dmitry Vladimirovich notices?' Wondering if what if Dmitry Vladimirovich notices shows Nikita caught off guard.
-- 'Do not worry, he will not need the car anytime soon.' Once do not worry he will not need the car anytime soon, Eleonora can finally tell Nikita what she means.
-- 'Thank you very much, Eleonora Andreyevna.' Over the car and the office, Nikita answers Eleonora without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'From now on court Katya without crime.' Around the car and office, Eleonora sets a calm, everyday tone with Nikita.
-- 'Senechka, open the door for me immediately!' With the car and office at stake, Nikita reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Chef said that you will sober up first.' Mentioning that Chef said that Eleonora will sober up first moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Senechka, maybe you and I can make a deal?' Questioning whether someone maybe Eleonora and he can make a deal is how Nikita tests Eleonora's story.
-- 'I will not let you out even for money.' Because he will not let Eleonora out even for money, Senya treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Sit quietly in the office.' Noting that Eleonora should sit quietly in the office keeps Senya's side of the story simple and clear.
+- 'Here, quietly drive his car away.' Eleonora strikes a lively bearing in the conversation, joining "derzhi" ("here you go") to "tikho" ("easy, quiet") so every word pulls its weight.
+- 'Leave it a couple of blocks away over there.' Eleonora conveys a serious course at this moment, joining "paru" ("couple") to "kvartalov" ("city blocks") so every word pulls its weight.
+- 'Later they will calmly find it.' Eleonora brings a brisk view in the scene, building the phrase around "potom" ("then") and "spokoyno" ("calmly") for a crisp, natural delivery.
+- 'And what if Dmitry Vladimirovich notices?' Nikita checks boldly in this moment, joining "zametit" ("notices") to "yesli" ("if") so every word pulls its weight.
+- 'Do not worry, he will not need the car anytime soon.' Eleonora takes a lively mood without hesitation, anchoring the Russian line on "volnuysya" ("worry") and "mashina" ("a car") without extra filler.
+- 'Thank you very much, Eleonora Andreyevna.' Nikita strikes a thoughtful posture in front of Senya, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
+- 'From now on court Katya without crime.' Eleonora favors a natural attitude in the room, joining "dalshe" ("next, go on") to "ukhazhivay" ("to court, to woo") so every word pulls its weight.
+- 'Senechka, open the door for me immediately!' Nikita presents a pointed footing in this beat, anchoring the Russian line on "otkroy" ("to open") and "dver" ("door") without extra filler.
+- 'Chef said that you will sober up first.' Senya maintains a grounded line right away, anchoring the Russian line on "skazal" ("said") and "protrezveyete" ("you will sober up") without extra filler.
+- 'Senechka, maybe you and I can make a deal?' Nikita inquires quietly without holding back, building the phrase around "mozhet" ("can") and "dogovorimsya" ("we'll arrange") for a crisp, natural delivery.
+- 'I will not let you out even for money.' Senya projects a resolute posture in their talk, anchoring the Russian line on "dengi" ("money") and "vypushchu" ("will let out") without extra filler.
+- 'Sit quietly in the office.' Senya shows a resolute mood as the scene unfolds, linking "sidite" ("sit, stay seated"), "kabinete" ("office"), and "tikho" ("easy, quiet") in one brisk exchange.

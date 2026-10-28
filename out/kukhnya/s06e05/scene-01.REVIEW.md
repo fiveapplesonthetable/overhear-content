@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will tell you the whole truth.' Admitting that she will tell Barinov the whole truth shows Eva being honest for a change.
-- 'I do not believe in these tricks.' Saying that he does not believe in these tricks is how Barinov sets the tone with Eva.
-- 'I see that you are connected with food.' Seeing that Barinov is connected with food is how Eva lays out the situation for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Everything about me is written on the internet.' Adding that everything about him is written on the internet fills in the missing piece for Eva.
-- 'Just look into my eyes.' Between the truth and the surprise, Eva gives Barinov a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'A big promotion awaits you today.' Over the plan and the surprise, Eva answers Barinov without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What kind of promotion awaits me?' With the moment and surprise hanging in the air, Barinov puts Eva on the spot.
-- 'Two people will ask to help a friend.' Eva reminds Barinov that two people will ask to help a friend before the moment passes.
-- 'Mikhail Dzhekovich needs help right now.' Because Mikhail Dzhekovich needs help right now, Barinov treats the matter as settled.
-- 'Are you a normal person at all?' Checking whether Barinov a normal person at all cuts straight through the tension between Nastya and Barinov.
-- 'Do you mind that this is our sink?' Asking whether Barinov minds that this is their sink is how Nastya puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I still need to stop by the store.' Claiming that she still needs to stop by the store sounds confident, even if Barinov has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'I will tell you the whole truth.' Eva projects an honest style straight away, using "pravdu" (from "pravda", "truth") alongside "skazhu" ("I'll tell") to shape the meaning.
+- 'I do not believe in these tricks.' Barinov strikes a steady line as the scene unfolds, using "shtuchki" (from "shtuchka", "tricks, little things") alongside "veryu" ("believe") to shape the meaning.
+- 'I see that you are connected with food.' Eva brings a brisk tempo with Barinov, leaning on "vizhu" ("see") before closing the thought with "svyazan" ("connected, tied").
+- 'Everything about me is written on the internet.' Barinov favors a thoughtful direction as they talk, combining "tam" ("there") and "napisano" ("is written") so the key meaning lands right away.
+- 'Just look into my eyes.' Eva holds a serious course as they talk, building the phrase around "glaza" ("eyes") and "posmotri" ("look") for a crisp, natural delivery.
+- 'A big promotion awaits you today.' Eva keeps an emphatic line straight away, pairing "segodnya" ("today") with "zhdyot" ("is waiting") to get the point across in plain spoken Russian.
+- 'What kind of promotion awaits me?' Barinov questions lightly to Eva here, anchoring the Russian line on "yeshchyo" ("more, still") and "povysheniye" ("raise") without extra filler.
+- 'Two people will ask to help a friend.' Eva favors a warm stance without hesitation, weaving "cheloveka" ("a man, a person") together with "poprosyat" ("to ask, to request") just the way native speakers do.
+- 'Mikhail Dzhekovich needs help right now.' Barinov holds an unhurried style right away, linking "seychas" ("now"), "nuzhna" ("needed"), and "pomoshch" ("help") in one brisk exchange.
+- 'Are you a normal person at all?' Nastya probes quietly in the scene, combining "voobshche" ("at all") and "normalnyy" ("decent, normal") so the key meaning lands right away.
+- 'Do you mind that this is our sink?' Nastya checks evenly in the scene, joining "rakovina" ("sink") to "nichego" ("nothing") so every word pulls its weight.
+- 'I still need to stop by the store.' Nastya conveys a measured tone during the exchange, putting "yeshchyo" ("more, still") alongside "magazin" ("shop") in a tight, everyday turn of phrase.

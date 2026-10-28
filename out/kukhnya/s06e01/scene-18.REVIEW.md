@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, where is he?' Here wondering where he is shows Mikhail looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nagiyev and she, they were here!' Saying that Nagiyev and she they were here is how Mikhail takes charge of the moment.
-- 'Vitya, did you see?' Checking whether Barinov sees cuts straight through the tension between Mikhail and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dima is the last train car for me.' Once Dima is the last train car, Eleonora can finally tell Barinov what she means.
-- 'I am truly happy.' Being truly happy is how Eleonora lays out the situation for Barinov.
-- 'Misha, what is with you?' By wondering what with Eleonora is, Barinov presses Eleonora for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nobody was in here.' Since nobody was in here, Barinov does not waste words on excuses.
-- 'Why, you drank too much, brother.' Mentioning that why Eleonora drank too much brother moves the talk in a new direction.
-- 'Alright, enough, go and sleep it off.' With the situation and room in play, Barinov keeps this short reply brisk and direct.
-- 'Oh, there you are!' Eleonora declares that there Barinov is as the tension in the room peaks. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And here I am running around looking for you.' Explaining that here she is running around looking for Barinov lays the cards on the table for Barinov.
-- 'I could not understand where you disappeared to.' Eleonora mentions that she could not understand where Barinov disappeared so Barinov sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Excuse me, where is he?' Mikhail inquires naturally on the spot, linking "prostite" ("excuse me"), "gde" ("where"), and "on" ("he") in one brisk exchange.
+- 'Nagiyev and she, they were here!' Mikhail shows a warm course for Eleonora, weaving "byli" ("be") together with "zdes" ("here") just the way native speakers do.
+- 'Vitya, did you see?' Mikhail tests earnestly as the beat lands, joining "videl" ("saw, have seen") to "vitya" ("Vitya") so every word pulls its weight.
+- 'Dima is the last train car for me.' Eleonora shows an honest view in their talk, weaving "posledniy" ("last") together with "vagon" ("train") just the way native speakers do.
+- 'I am truly happy.' Eleonora shares a warm attitude straight away, weaving "samom" ("very") together with "dele" ("case") just the way native speakers do.
+- 'Misha, what is with you?' Barinov questions frankly toward Mikhail here, joining "misha" ("Misha") to "ty" ("you") so every word pulls its weight.
+- 'Nobody was in here.' Barinov projects a lively style across the room, linking "tut" ("here"), "bylo" ("was"), and "nikogo" ("nobody") in one brisk exchange.
+- 'Why, you drank too much, brother.' Barinov brings a direct stance with Mikhail, leaning on "perebral" ("overstepped") before closing the thought with "brat" ("brother").
+- 'Alright, enough, go and sleep it off.' Barinov offers a calm approach straight away, joining "khvatit" ("enough") to "idi" ("go") so every word pulls its weight.
+- 'Oh, there you are!' Eleonora establishes an easygoing course during the exchange, linking "gde" ("where") directly with "oy" ("oh"), since Russian drops "is" and "are" in the present.
+- 'And here I am running around looking for you.' Eleonora favors a resolute style as they talk, building the phrase around "begayu" ("run") and "ishchu" ("am looking for") for a crisp, natural delivery.
+- 'I could not understand where you disappeared to.' Eleonora establishes an emphatic bearing at once, pairing "delas" ("to go, vanish") with "poymu" ("understand") so the "-sya" ending carries the action.

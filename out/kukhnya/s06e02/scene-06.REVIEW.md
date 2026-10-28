@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fillet of wild pigeon with a bonbon.' With the dish and conversation in play, Nikita keeps this short reply brisk and direct.
-- 'And why is it so expensive?' Here wondering why it so expensive is shows Denis looking for the real truth.
-- 'Probably, it is very rare.' Realizing that probably it is very rare changes how Nikita handles the situation.
-- 'Is there a normal restaurant nearby?' Checking whether there a normal restaurant nearby cuts straight through the tension between Denis and Kostya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What is new, Denis?' Asking what new is is how Kostya puts Denis on the spot.
-- 'I cannot make up with Katya.' Even though he cannot make up with Katya, Denis keeps a steady face in front of Kostya.
-- 'She throws away flowers and does not pick up the phone.' Saying that she throws away flowers and does not pick up the phone is how Denis sets the tone with Kostya.
-- 'Are you kidding?' Asking whether Denis kidding cuts straight through the tension between Kostya and Denis.
-- 'Tonight everyone will have a drink and relax.' Adding that tonight everyone will have a drink and relax fills in the missing piece for Denis.
-- 'I will try talking to her once more.' Saying that he will try talking to her once is how Denis sets the tone with Kostya.
-- 'Listen, could you talk to Katya?' By asking whether Denis talks to Katya, Nikita presses Denis for a straight answer.
-- 'I am agonizing and want to make up.' Being agonizing and want to make up is how Nikita lays out the situation for Denis.
+- 'Fillet of wild pigeon with a bonbon.' Nikita brings a frank mood in the conversation, combining "file" ("fillet") and "dikogo" ("wild, terrible") so the key meaning lands right away.
+- 'And why is it so expensive?' Denis quizzes honestly as the talk turns, placing "pochemu" ("why") straight beside "dorogo" ("expensive") with no word for "to be" needed.
+- 'Probably, it is very rare.' Nikita adopts a serious tone straight away, linking "navernoye" ("probably") directly with "ochen" ("very much"), since Russian drops "is" and "are" in the present.
+- 'Is there a normal restaurant nearby?' Denis checks evenly to Nikita here, linking "normalnyy" ("decent, normal"), "restoran" ("restaurant"), and "poblizosti" ("nearby") in one brisk exchange.
+- 'What is new, Denis?' Kostya inquires naturally in front of Denis, anchoring the Russian line on "novogo" ("new") and "chto" ("what") without extra filler.
+- 'I cannot make up with Katya.' Denis strikes a calm style in the room, joining "mogu" ("can") to "pomiritsya" ("to make peace") so every word pulls its weight.
+- 'She throws away flowers and does not pick up the phone.' Denis presents a playful manner at this moment, putting "tsvety" ("the flowers") alongside "vybrasyvayet" ("throws away") in a tight, everyday turn of phrase.
+- 'Are you kidding?' Kostya tests warmly in the room, joining "izdevayeshsya" ("are kidding") to "ty" ("you") so every word pulls its weight.
+- 'Tonight everyone will have a drink and relax.' Kostya displays an honest course beside Denis, pairing "rasslabyatsya" ("will relax") with "segodnya" ("today") so the "-sya" ending carries the action.
+- 'I will try talking to her once more.' Denis takes an earnest stance without hesitation, putting "yeshchyo" ("more, still") alongside "raz" ("time, once") in a tight, everyday turn of phrase.
+- 'Listen, could you talk to Katya?' Nikita questions candidly to keep things clear, pairing "slushay" ("listen") with "mog" ("can, to be able") to get the point across in plain spoken Russian.
+- 'I am agonizing and want to make up.' Nikita offers a sharp note across the room, building the phrase around "muchayus" ("I suffer") and "pomiritsya" ("to make peace") for a crisp, natural delivery.

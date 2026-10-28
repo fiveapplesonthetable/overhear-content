@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora Andreevna is Katya's mom.' Adding that Eleonora Andreevna is Katya fills in the missing piece for Eleonora. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, have you come back again?' By checking whether Denis comes back again, Eleonora presses Denis for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Have you completely lost your mind?' With the hotel and work hanging in the air, Eleonora puts Denis on the spot.
-- 'Did you change your mind and come for the money?' Checking whether Denis changes Denis's mind and come for the money is how Eleonora puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, I do not need your money.' Admitting that he does not need Eleonora's money shows Denis being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I am not leaving here for anywhere.' Explaining that he is not leaving here for anywhere lays the cards on the table for Eleonora.
-- 'I am staying to work in the kitchen.' Denis explains that he is staying to work in the kitchen, keeping his voice calm and direct.
-- 'I really want to be with Katya.' Denis mentions that he really wants to be with Katya so Eleonora sees what is at stake.
-- 'And the fact that you and I slept together...' Claiming that the fact that Eleonora and he slept together sounds confident, even if Eleonora has doubts.
-- 'Please, be quiet, I ask you!' Declaring that be quiet she asks Denis brings Eleonora's temper right to the surface. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'We must forget that night.' Denis explains that they must forget that night, keeping his voice calm and direct.
-- 'Get out of my office!' By telling Denis to get out of her office, Eleonora raises the stakes in the room at once.
+- 'Eleonora Andreevna is Katya's mom.' Denis adopts a resolute tone right away, leaning on "mama" ("mum, mother") before closing the thought with "eleonora" ("Eleonora").
+- 'Well, have you come back again?' Eleonora prompts decisively in the room, anchoring the Russian line on "snova" ("again") and "prishyol" ("came, have come") without extra filler.
+- 'Have you completely lost your mind?' Eleonora probes bluntly toward Denis here, weaving "sovsem" ("at all") together with "uma" ("mind") just the way native speakers do.
+- 'Did you change your mind and come for the money?' Eleonora checks dryly without hesitation, putting "odumalsya" ("changed your mind") alongside "dengami" ("the money, funding") in a tight, everyday turn of phrase.
+- 'No, I do not need your money.' Denis favors a candid rhythm at once, anchoring the Russian line on "dengi" ("money") and "nuzhny" ("needed") without extra filler.
+- 'I am not leaving here for anywhere.' Denis holds a serious bearing beside Eleonora, putting "nikuda" ("nowhere, anywhere") alongside "otsyuda" ("from here") in a tight, everyday turn of phrase.
+- 'I am staying to work in the kitchen.' Denis keeps a sharp bearing toward Eleonora, putting "ostayus" ("am staying") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.
+- 'I really want to be with Katya.' Denis picks a direct approach at once, leaning on "ochen" ("very much") before closing the thought with "khochu" ("want").
+- 'And the fact that you and I slept together...' Denis holds a calm footing in their talk, weaving "perespali" ("slept together") together with "to" ("that") just the way native speakers do.
+- 'Please, be quiet, I ask you!' Eleonora keeps a playful tempo as they talk, leaning on "tikho" ("easy, quiet") before closing the thought with "proshu" ("beg, ask").
+- 'We must forget that night.' Denis sets a direct tack as the scene unfolds, anchoring the Russian line on "dolzhny" ("must, should") and "zabyt" ("forget") without extra filler.
+- 'Get out of my office!' Eleonora adopts a resolute tack as the scene unfolds, pairing "ukhodi" ("go away") with "kabineta" ("office") to get the point across in plain spoken Russian.

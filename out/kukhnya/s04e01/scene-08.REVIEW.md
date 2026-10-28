@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Darn it.' Over the room and the apartment, Max answers Nastya without a second thought.
-- 'She really is ideal after all.' Max reminds Nastya that she really is ideal after all before the moment passes.
-- 'Max, are you at it again?' Here asking whether Max at it again shows Vika looking for the real truth.
-- 'I asked you not to shave with my razor.' Mentioning that she asked Max not to shave with her razor moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Mom, why are you standing there? Come in.' Questioning whether Mom why are Max standing there is how Nastya tests Max's story. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Mom has arrived.' Claiming that Mom has arrived sounds confident, even if Max has doubts.
-- 'Hello there.' Around the room and apartment, Max sets a calm, everyday tone with Nastya.
-- 'Stepan Andreyevich got sick, so he can't come home.' Nastya explains that Stepan Andreyevich got sick so he cannot come home, keeping her voice calm and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I will stay with you for a while.' Realizing that she will stay with Max changes how Nastya handles the situation.
-- 'I will help out.' Noting that she will help out keeps Nastya's side of the story simple and clear.
-- 'Mom will hear us.' Even though Mom will hear them, Nastya keeps a steady face in front of Max.
-- 'She has been asleep for a long time.' Admitting that she has been asleep for a long time shows Max being honest for a change.
+- 'Darn it.' Max shares a candid approach at this moment, letting the single Russian word "chyort" ("darn, heck") carry the entire reaction on its own.
+- 'She really is ideal after all.' Max sustains an earnest footing in front of Vika, pairing "idealna" ("after") with "vsyo-taki" ("after all") to get the point across in plain spoken Russian.
+- 'Max, are you at it again?' Vika prompts candidly in front of Max, placing "opyat" ("again") straight beside "maks" ("Max") with no word for "to be" needed.
+- 'I asked you not to shave with my razor.' Vika chooses an earnest bearing without hesitation, linking "prosila" ("asked"), "britsya" ("to razor"), and "stankom" ("razor") in one brisk exchange.
+- 'Mom, why are you standing there? Come in.' Nastya queries briskly in the scene, putting "mama" ("mum, mother") alongside "stoite" ("are standing") in a tight, everyday turn of phrase.
+- 'Mom has arrived.' Nastya presents a natural note straight away, building the phrase around "mama" ("mum, mother") and "priyekhala" ("came, arrived") for a crisp, natural delivery.
+- 'Hello there.' Max shares a firm view in their talk, putting all the weight on "privet" ("hi") so the reply lands immediately.
+- 'Stepan Andreyevich got sick, so he can't come home.' Nastya favors a measured tempo in the conversation, building the phrase around "andreyevich" ("andreyevich") and "zabolel" ("to fall ill") for a crisp, natural delivery.
+- 'I will stay with you for a while.' Nastya sustains a wry rhythm in front of Max, joining "pozhivu" ("to live for a while") to "ya" ("I") so every word pulls its weight.
+- 'I will help out.' Nastya shows an unhurried bearing during the exchange, leaning on "pomogu" ("I'll help") as a compact, one-word response that needs no extra words.
+- 'Mom will hear us.' Nastya takes a thoughtful mood straight away, combining "mama" ("mum, mother") and "uslyshit" ("to hear") so the key meaning lands right away.
+- 'She has been asleep for a long time.' Max shows an honest angle in front of Vika, linking "spit" ("is sleeping"), "uzhe" ("already, now"), and "davno" ("for a long time") in one brisk exchange.

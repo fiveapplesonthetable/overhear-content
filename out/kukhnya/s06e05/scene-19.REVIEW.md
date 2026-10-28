@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of strange help is that?' Asking whether what kind of strange help is puts Eleonora right on the defensive.
-- 'I know Vitya better than he knows himself.' Knowing Vitya better than he knows himself moves the conversation forward without extra drama.
-- 'But you already had an agreement with him.' Once Eleonora already had an agreement with him, Nagiyev can finally tell Eleonora what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And then he went and lost everything.' Adding that he went and lost everything fills in the missing piece for Nagiyev.
-- 'Right now I need him in top form.' Saying that right now she needs him in top form is how Eleonora sets the tone with Nagiyev.
-- 'Believe me, he will beat all the competitors.' Believing her he will beat all the competitors is how Eleonora lays out the situation for Nagiyev.
-- 'And he will bring us the first star in Russia.' Mentioning that he will bring them the first star in Russia moves the talk in a new direction.
-- 'That is what is called a smart strategy.' Saying that that is what is called a smart strategy is how Eleonora sets the tone with Nagiyev. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And this right here is called our bedroom.' Because this right here is called their bedroom, Nagiyev treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And I feel so lonely in it.' Noting that he feels so lonely in it keeps Nagiyev's side of the story simple and clear.
-- 'Do not play the fool tonight, Dima.' Eleonora mentions that do not play the fool tonight Dima so Nagiyev sees what is at stake.
-- 'Nothing but great strategists gathered all around.' Over the conversation and the room, Nagiyev answers Eleonora without a second thought.
+- 'What kind of strange help is that?' Nagiyev quizzes sharply in this moment, linking "strannaya" ("strange"), "pomoshch" ("help"), and "chto" ("what") in one brisk exchange.
+- 'I know Vitya better than he knows himself.' Eleonora projects a warm tempo straight away, weaving "znayu" ("know") together with "luchshe" ("better") just the way native speakers do.
+- 'But you already had an agreement with him.' Nagiyev establishes a lively tone right away, pairing "uzhe" ("already, now") with "dogovorilis" ("agreed, deal") to get the point across in plain spoken Russian.
+- 'And then he went and lost everything.' Eleonora maintains an earnest approach in the conversation, linking "potom" ("then"), "vzyal" ("took"), and "proigral" ("lost") in one brisk exchange.
+- 'Right now I need him in top form.' Eleonora sets a serious posture straight away, pairing "seychas" ("now") with "nuzhen" ("is needed") to get the point across in plain spoken Russian.
+- 'Believe me, he will beat all the competitors.' Eleonora presents a clear posture right away, pairing "pover" ("believe") with "pobedit" ("wins") to get the point across in plain spoken Russian.
+- 'And he will bring us the first star in Russia.' Eleonora maintains a resolute direction across the room, leaning on "prinesyot" ("will bring") before closing the thought with "pervuyu" ("first").
+- 'That is what is called a smart strategy.' Eleonora shares a direct tack right away, anchoring the Russian line on "nazyvayetsya" ("is called") and "umnaya" ("clever, smart") without extra filler.
+- 'And this right here is called our bedroom.' Nagiyev takes a grounded direction toward Eleonora, weaving "nazyvayetsya" ("is called") together with "spalnya" ("bedroom") just the way native speakers do.
+- 'And I feel so lonely in it.' Nagiyev offers a playful approach in their talk, putting "odinoko" ("lonely") alongside "mne" ("to me") in a tight, everyday turn of phrase.
+- 'Do not play the fool tonight, Dima.' Eleonora shows a resolute tone toward Nagiyev, linking "valyay" ("play"), "duraka" ("fool, idiot"), and "segodnya" ("today") in one brisk exchange.
+- 'Nothing but great strategists gathered all around.' Nagiyev strikes an easygoing course as they talk, leaning on "krugom" ("all around") before closing the thought with "velikiye" ("great").

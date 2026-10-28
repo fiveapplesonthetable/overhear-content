@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Совесть, дай поспать. | Have a conscience, let me sleep. | #41: совесть, дай поспать | verbatim |
-| 2 | Лёва | Лёва, что тебе надо? | Lyova, what do you want? | #42: Лёва, что тебе надо | verbatim |
+| 2 | Шеф | Лёва, что тебе надо? | Lyova, what do you want? | #42: Лёва, что тебе надо | verbatim |
 | 3 | Шеф | Вы дома не ночевали. | You did not come home last night. | #43: Вы дома не ночевали | verbatim |
 | 4 | Лёва | Мы с мамой волнуемся. | Mom and I are worried about you. | #44: Мы с мамой волнуемся | verbatim |
 | 5 | Шеф | Где вы? | Where are you? | #44: Где вы | verbatim |
@@ -21,21 +21,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Шеф | Какое дело делаю? | What business am I tending to? | #49: Какое дело делаю | verbatim |
 | 10 | Лёва | Скоро буду. | I will be back soon. | #50: Скоро буду | verbatim |
 | 11 | Шеф | Ведешь себя как ребенок. | You are acting like a child. | #51: Ведешь себя как ребенок | verbatim |
-| 12 | Лёва | Ну, Лёва, взрослый парень. | Come on, Lyova is a grown man. | #52: Ну, Лёва, взрослый парень | verbatim |
+| 12 | Шеф | Ну, Лёва, взрослый парень. | Come on, Lyova is a grown man. | #52: Ну, Лёва, взрослый парень | verbatim |
 | 13 | Шеф | Мог бы ему сказать правду. | You could have just told him the truth. | #53: Мог бы ему сказать правду | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have a conscience, let me sleep.' Barinov tells Lyova that have a conscience let him sleep without dressing it up.
-- 'Lyova, what do you want?' By asking what Barinov wants, Lyova presses Barinov for a straight answer.
-- 'You did not come home last night.' Mentioning that Lyova did not come home last night moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Mom and I are worried about you.' Lyova tells Barinov that Mom and he are worried about Barinov without dressing it up.
-- 'Where are you?' Here asking where Lyova is shows Barinov looking for the real truth.
-- 'I spent the night at the restaurant.' Explaining that he spent the night at the restaurant lays the cards on the table for Barinov.
-- 'Right now I just stepped out briefly to the...' With the call and moment in play, Barinov keeps this short reply brisk and direct.
-- 'And what are you doing over there?' Wondering what Barinov doing over there is is how Lyova puts Barinov on the spot.
-- 'What business am I tending to?' Over the kitchen and the morning, Barinov presses Lyova for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I will be back soon.' Saying that he will be back soon is how Lyova sets the tone with Barinov.
-- 'You are acting like a child.' Realizing that Lyova is acting like a child changes how Barinov handles the situation.
-- 'Come on, Lyova is a grown man.' Since Barinov should come on Lyova is a grown man, Lyova does not waste words on excuses.
-- 'You could have just told him the truth.' Even though Lyova could have just told him the truth, Barinov keeps a steady face in front of Lyova.
+- 'Have a conscience, let me sleep.' Barinov keeps a lively tone without hesitation, pairing "sovest" ("conscience") with "day" ("give") to get the point across in plain spoken Russian.
+- 'Lyova, what do you want?' Barinov wonders dryly across the room, anchoring the Russian line on "nado" ("it is necessary") and "lyova" ("Lyova") without extra filler.
+- 'You did not come home last night.' Barinov picks an earnest course during the exchange, combining "doma" ("at home") and "nochevali" ("spent the night") so the key meaning lands right away.
+- 'Mom and I are worried about you.' Lyova conveys a firm attitude during the exchange, linking "mamoy" ("Mum"), "volnuyemsya" ("to worry"), and "my" ("we") in one brisk exchange.
+- 'Where are you?' Barinov inquires dryly to keep things clear, joining "gde" ("where") to "vy" ("you") so every word pulls its weight.
+- 'I spent the night at the restaurant.' Lyova takes a wry mood straight away, building the phrase around "restorane" ("restaurant") and "nocheval" ("spent the night") for a crisp, natural delivery.
+- 'Right now I just stepped out briefly to the...' Barinov takes a playful mood at this moment, building the phrase around "seychas" ("now") and "otoshel" ("wore off, moved away") for a crisp, natural delivery.
+- 'And what are you doing over there?' Lyova challenges steadily toward Barinov here, weaving "tam" ("there") together with "delayete" ("are doing") just the way native speakers do.
+- 'What business am I tending to?' Barinov probes directly as the talk turns, linking "delo" ("matter"), "delayu" ("I make"), and "kakoye" ("what a") in one brisk exchange.
+- 'I will be back soon.' Lyova establishes a playful note toward Barinov, putting "skoro" ("soon") alongside "budu" ("will be") in a tight, everyday turn of phrase.
+- 'You are acting like a child.' Barinov sustains a serious posture across the room, using "vedesh" (from "vesti", "lead, behave") alongside "kak" ("how") to shape the meaning.
+- 'Come on, Lyova is a grown man.' Barinov establishes a direct tone as they talk, linking "vzroslyy" ("grown-up, adult") directly with "paren" ("boyfriend"), since Russian drops "is" and "are" in the present.
+- 'You could have just told him the truth.' Barinov adopts a thoughtful tack right away, putting "mog" ("can, to be able") alongside "skazat" ("tell") in a tight, everyday turn of phrase.

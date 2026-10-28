@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, allow me to introduce myself, I am the hotel manager Mikhail.' Noting that the hostess should allow him to introduce himself he is the hotel manager Mikhail keeps Mikhail's side of the story simple and clear.
-- 'Hello, very nice to meet you, and my name is Oksana.' Claiming that very nice to meet Mikhail and her name is Oksana sounds confident, even if Mikhail has doubts.
-- 'And this is director Victoria and our head chef Viktor.' Pointing out that this is director Victoria and their head Viktor gives the hostess a sobering reality check.
-- 'We are glad that you found the time to visit us.' Mikhail explains that they are glad that the hostess found the time to visit them, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Allow us to present you with our regular client card.' Here allowing them to present the hostess with their regular client card sets up the next turn in their exchange. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Thank you very much, this is very unexpected for me.' Noting that very much this is very unexpected keeps the hostess's side of the story simple and clear.
-- 'Let's go, we will not disturb our guest while she chooses.' Proposing that they go they will not disturb their guest while she chooses is how Mikhail lays out the situation for the hostess.
-- 'Excuse me, please, what about my job?' Around the room and truth, the hostess wants to know where Mikhail really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I was told that you have an open hostess vacancy.' Saying that she was told that Mikhail has an open hostess vacancy is how the hostess sets the tone with Mikhail.
-- 'If it is not taken, I would like to work here.' Once if it is not taken she would like to work here, the hostess can finally tell Mikhail what she means.
-- 'Indeed, rich people have their own strange quirks!' Insisting that indeed rich people have their own strange quirks shows Mikhail is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, wait a minute, I will bring the application form right now.' Vika tells the hostess that Alright wait a minute she will bring the application form right now without dressing it up.
+- 'Good evening, allow me to introduce myself, I am the hotel manager Mikhail.' Mikhail strikes a playful stance on the spot, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
+- 'Hello, very nice to meet you, and my name is Oksana.' The hostess presents a pointed manner in the scene, building the phrase around "zdravstvuyte" ("hello") and "ochen" ("very much") for a crisp, natural delivery.
+- 'And this is director Victoria and our head chef Viktor.' Mikhail takes a frank attitude right away, putting "direktor" ("head teacher") alongside "shef-povar" ("head chef") in a tight, everyday turn of phrase.
+- 'We are glad that you found the time to visit us.' Mikhail presents a pointed bearing for Vika, leaning on "rady" ("glad") before closing the thought with "nashli" ("found, did find").
+- 'Allow us to present you with our regular client card.' Vika presents a candid manner at this moment, combining "pozvolte" ("allow me") and "podarit" ("give as a gift") so the key meaning lands right away.
+- 'Thank you very much, this is very unexpected for me.' The hostess holds an earnest manner during the exchange, linking "bolshoye" ("big, very much") directly with "spasibo" ("thank you"), since Russian drops "is" and "are" in the present.
+- 'Let's go, we will not disturb our guest while she chooses.' Mikhail adopts a wry line toward the hostess, anchoring the Russian line on "poydyomte" ("come on, let's go") and "budem" ("will") without extra filler.
+- 'Excuse me, please, what about my job?' The hostess prompts frankly in their exchange, combining "prostite" ("excuse me") and "kak" ("how") so the key meaning lands right away.
+- 'I was told that you have an open hostess vacancy.' The hostess favors a steady view in the room, weaving "skazali" ("told") together with "otkryta" ("opened, open") just the way native speakers do.
+- 'If it is not taken, I would like to work here.' The hostess projects a steady style on the spot, using "zanyata" (from "zanyatyy", "busy, occupied") alongside "khotela" ("wanted, meant") to shape the meaning.
+- 'Indeed, rich people have their own strange quirks!' Mikhail adopts an unhurried style straight away, pairing "bogatykh" ("rich") with "lyudey" ("people") to get the point across in plain spoken Russian.
+- 'Alright, wait a minute, I will bring the application form right now.' Vika takes a resolute view in front of Mikhail, building the phrase around "khorosho" ("good, fine") and "podozhdite" ("wait") for a crisp, natural delivery.

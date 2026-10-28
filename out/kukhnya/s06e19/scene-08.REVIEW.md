@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After all, you love her.' Explaining that after all Denis loves lays the cards on the table for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do, and what does that mean?' Questioning whether he does and what does that mean is how Denis tests Kostya's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We must ruin this wedding.' Realizing that they must ruin this wedding changes how Kostya handles the situation.
-- 'I agree, but how?' Over the dress and the wedding, Denis presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We can steal her wedding dress.' Even though they can steal her wedding dress, Kostya keeps a steady face in front of Denis.
-- 'They stole my wedding dress!' Denis insists that they stole his wedding dress, leaving Kostya no room to argue.
-- 'Or we can steal Katya herself.' Saying that they can steal Katya herself is how Kostya sets the tone with Denis.
-- 'We will just take her without the wedding dress.' Once they will just take her without the wedding dress, Kostya can finally tell Denis what he means.
-- 'Did you understand me, my friend?' Asking whether Kostya understands him cuts straight through the tension between Denis and Kostya.
-- 'Hi, did your bachelorette party go well?' By asking whether Denis's bachelorette party go well, Sveta presses Denis for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Oh yes, everything went fine.' Since everything went fine, Denis does not waste words on excuses.
-- 'Then get in, I will give you a ride.' By getting in she will give Denis a ride, Sveta keeps her side of the story grounded.
+- 'After all, you love her.' Kostya holds a direct tone in the conversation, building the phrase around "lyubish" ("love") and "ved" ("after all") for a crisp, natural delivery.
+- 'I do, and what does that mean?' Denis queries warmly toward Sveta here, putting "lyublyu" ("love") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
+- 'We must ruin this wedding.' Kostya displays an easygoing style at this moment, leaning on "dolzhny" ("must, should") before closing the thought with "sorvat" ("to disrupt").
+- 'I agree, but how?' Denis tests honestly in the room, pairing "soglasen" ("agreed") with "tolko" ("only") to get the point across in plain spoken Russian.
+- 'We can steal her wedding dress.' Kostya holds a resolute view in the conversation, joining "mozhem" ("can") to "svorovat" ("to steal") so every word pulls its weight.
+- 'They stole my wedding dress!' Denis strikes an honest posture in the conversation, linking "ukrali" ("stole"), "svadebnoye" ("wedding"), and "platye" ("a dress") in one brisk exchange.
+- 'Or we can steal Katya herself.' Kostya picks a grounded tack during the exchange, putting "mozhem" ("can") alongside "svorovat" ("to steal") in a tight, everyday turn of phrase.
+- 'We will just take her without the wedding dress.' Kostya presents a serious approach in front of Sveta, putting "prosto" ("just") alongside "zaberyom" ("will take") in a tight, everyday turn of phrase.
+- 'Did you understand me, my friend?' Denis probes decisively from the start, anchoring the Russian line on "ponyal" ("understood") and "drug" ("friend") without extra filler.
+- 'Hi, did your bachelorette party go well?' Sveta inquires openly to keep things clear, leaning on "devichnik" ("bachelorette party") before closing the thought with "proshyol" ("passed").
+- 'Oh yes, everything went fine.' Denis projects a lively bearing during the exchange, weaving "proshlo" ("have passed") together with "normalno" ("fine, OK") just the way native speakers do.
+- 'Then get in, I will give you a ride.' Sveta picks an easygoing rhythm at once, putting "togda" ("back then") alongside "sadites" ("sit down") in a tight, everyday turn of phrase.

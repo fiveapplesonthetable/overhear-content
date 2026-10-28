@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this unscheduled family council?' Wondering what this unscheduled family council is is how Barinov puts Eleonora on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dad, sit down, I want to say something important.' Realizing that dad sit down she wants to say something important changes how Katya handles the situation.
-- 'Tell me honestly, are you pregnant right now?' Asking whether tell her honestly are Barinov pregnant right now puts Barinov right on the defensive.
-- 'Mom, no, I am not pregnant at all.' Even though Mom no she is not pregnant at all, Katya keeps a steady face in front of Barinov.
-- 'I am leaving soon to live in Paris.' Katya explains that she is leaving soon to live in Paris, keeping her voice calm and direct.
-- 'Are you going there with that clown?' Here asking whether Eleonora going there with that clown shows Barinov looking for the real truth.
-- 'It would be better if you really were pregnant!' Once it would be better if Eleonora really were pregnant, Barinov makes sure Eleonora hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Has he already asked you to marry him?' Asking whether he already asked Barinov to marry him cuts straight through the tension between Eleonora and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, so far he only invited me to Paris.' With the family and doctor in play, Katya keeps this short reply brisk and direct.
-- 'And what about your mother and me?' Over the point and the family, Barinov presses Eleonora for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You lived wonderfully before my arrival.' Mentioning that Barinov lived wonderfully before her arrival moves the talk in a new direction. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'And each of you lived on your own.' Katya reminds Barinov that each of Barinov lived on Barinov's own before the moment passes.
+- 'What is this unscheduled family council?' Barinov queries pointedly as the beat lands, placing "vneplanovyy" ("unscheduled") straight beside "semeynyy" ("family") with no word for "to be" needed.
+- 'Dad, sit down, I want to say something important.' Katya offers a playful line in their talk, pairing "papa" ("Dad") with "prisyad" ("sit down") to get the point across in plain spoken Russian.
+- 'Tell me honestly, are you pregnant right now?' Eleonora prompts candidly as the beat lands, pairing "seychas" ("now") with "skazhi" ("say") so the "-sya" ending carries the action.
+- 'Mom, no, I am not pregnant at all.' Katya conveys a warm approach in this beat, leaning on "mama" ("mum, mother") before closing the thought with "sovsem" ("at all").
+- 'I am leaving soon to live in Paris.' Katya sets a measured posture right away, anchoring the Russian line on "skoro" ("soon") and "uyezzhayu" ("am leaving") without extra filler.
+- 'Are you going there with that clown?' Barinov wonders directly toward Katya here, building the phrase around "yedesh" ("are driving") and "tuda" ("there") for a crisp, natural delivery.
+- 'It would be better if you really were pregnant!' Barinov picks a sharp course in their talk, putting "luchshe" ("better") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.
+- 'Has he already asked you to marry him?' Eleonora checks wryly from the start, weaving "uzhe" ("already, now") together with "pozval" ("invited") just the way native speakers do.
+- 'No, so far he only invited me to Paris.' Katya brings an honest style as the scene unfolds, anchoring the Russian line on "poka" ("bye") and "pozval" ("invited") without extra filler.
+- 'And what about your mother and me?' Barinov presses honestly for Katya's benefit, leaning on "kak" ("how") before closing the thought with "mamoy" ("Mum").
+- 'You lived wonderfully before my arrival.' Katya brings an easygoing direction at once, anchoring the Russian line on "prekrasno" ("perfectly") and "zhili" ("to live") without extra filler.
+- 'And each of you lived on your own.' Katya chooses a calm stance as they talk, anchoring the Russian line on "zhili" ("to live") and "kazhdyy" ("every") without extra filler.

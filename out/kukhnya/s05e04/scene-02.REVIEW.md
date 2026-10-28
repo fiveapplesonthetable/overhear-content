@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich,' With the bet and hotel in play, Mikhail keeps this short reply brisk and direct.
-- 'is a head chef sent from God.' Admitting that is a head sent shows Mikhail being honest for a change.
-- 'Hail Barinov, hail Barinov, hail Barinov,.' Over the bet and the kitchen, Mikhail answers Barinov without a second thought.
-- 'forever and ever.' Between the bet and the shift, Mikhail gives Barinov a quick, grounded response.
-- 'No, Mishanya, singing is not your thing.' Adding that someone singing is not Mikhail's thing fills in the missing piece for Mikhail. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Now you are going to crow like a rooster.' Saying that Mikhail is going to crow like a rooster is how Barinov sets the tone with Mikhail.
-- 'And without your pants.' Between the bet and the point, Barinov gives Mikhail a quick, grounded response.
-- 'Mikhail Dzhekovich, what was that?' With the shift and bet hanging in the air, Vika puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'That, Viktoriya Sergeyevna, was a wish lost due to a ridiculous mistake.' Mikhail reminds Barinov that that Viktoriya Sergeyevna was a wish lost due to a ridiculous mistake before the moment passes.
-- 'But right now there will be a rematch.' Because right now there will be a rematch, Mikhail treats the matter as settled.
-- 'Oh, the rematch is postponed.' Explaining that the rematch is postponed lays the cards on the table for Mikhail.
-- 'Go practice crowing like a rooster.' Realizing that Mikhail should go practice crowing like a rooster changes how Barinov handles the situation.
+- 'Viktor Petrovich,' Mikhail chooses a warm view right away, weaving "viktor" ("Viktor") together with "petrovich" ("Petrovich") just the way native speakers do.
+- 'is a head chef sent from God.' Mikhail keeps a firm rhythm in front of Vika, anchoring the Russian line on "shef-povar" ("head chef") and "boga" ("God") without extra filler.
+- 'Hail Barinov, hail Barinov, hail Barinov,.' Mikhail shows a serious note toward Barinov, building the phrase around "slavsya" ("glory be to") and "barinov" ("Barinov") for a crisp, natural delivery.
+- 'forever and ever.' Mikhail sets an earnest view in the room, combining "veki" ("ages") and "vekov" ("of ages") so the key meaning lands right away.
+- 'No, Mishanya, singing is not your thing.' Barinov brings a resolute stance at this moment, combining "mishanya" ("Mishanya") and "peniye" ("singing") so the key meaning lands right away.
+- 'Now you are going to crow like a rooster.' Barinov adopts a measured tone at this moment, leaning on "teper" ("now") before closing the thought with "budesh" ("will").
+- 'And without your pants.' Barinov shares a steady position as the scene unfolds, anchoring the Russian line on "shtanu" ("pants") and "nu" ("oh, come on") without extra filler.
+- 'Mikhail Dzhekovich, what was that?' Vika asks warmly with Mikhail now, using "bylo" (from "byt", "was") alongside "mikhail" ("Mikhail") to shape the meaning.
+- 'That, Viktoriya Sergeyevna, was a wish lost due to a ridiculous mistake.' Mikhail strikes an emphatic view in the conversation, weaving "bylo" ("was") together with "proigrannoye" ("lost") just the way native speakers do.
+- 'But right now there will be a rematch.' Mikhail presents an easygoing approach without hesitation, pairing "seychas" ("now") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Oh, the rematch is postponed.' Barinov projects a natural bearing during the exchange, anchoring the Russian line on "revansh" ("rematch") and "otkladyvayetsya" ("is postponed") without extra filler.
+- 'Go practice crowing like a rooster.' Barinov picks a steady approach in this beat, combining "idi" ("go") and "treniruysya" ("practice") so the key meaning lands right away.

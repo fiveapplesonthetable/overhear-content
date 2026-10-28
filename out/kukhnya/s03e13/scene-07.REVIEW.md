@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know where those two bottles came from?' Checking whether Katya knows where those two bottles came is how Max puts Katya on the spot.
-- 'We took them from our bar.' Since they took them from their bar, Max does not waste words on excuses.
-- 'And I thought I dreamed that!' Insisting that she thought she dreamed shows Katya is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You invited me to the restaurant at night.' With the work and shift in play, Katya keeps this short reply brisk and direct.
-- 'We broke a huge amount of glassware there.' Around the work and moment, Max sets a calm, everyday tone with Katya.
-- 'If management sees the security camera recording, we are done for.' Explaining that if management sees the security camera recording they are done lays the cards on the table for Katya.
-- 'Stay calm, I have a plan.' Staying calm he has a plan is how Max lays out the situation for Katya.
-- 'Vika has the keys to the server room right now.' Claiming that Vika has the keys to the server room right now sounds confident, even if Katya has doubts.
-- 'She drives up to the restaurant and gets out of the car.' Pointing out that she drives up to the restaurant and gets out of the car gives Katya a sobering reality check.
-- 'I distract her with conversation.' Around the point and kitchen, Max sets a calm, everyday tone with Katya.
-- 'And you quickly grab the keys.' Turning from the point to the shift, Max keeps the exchange moving. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You sneak into the restaurant and destroy the recordings.' Over the point and the conversation, Max answers Katya without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Where will you get a bat in the restaurant?' Asking where Max gets a bat in the restaurant will is how Katya puts Max on the spot.
-- 'I will grab the fire hook off the wall!' Saying that he will grab the fire hook off the wall is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Do you know where those two bottles came from?' Max wonders bluntly as they speak, pairing "znayesh" ("know") with "otkuda" ("where from") to get the point across in plain spoken Russian.
+- 'We took them from our bar.' Max shows a grounded footing in the conversation, using "vzyali" (from "vzyat", "took, arrested") alongside "bara" ("of the bar") to shape the meaning.
+- 'And I thought I dreamed that!' Katya sustains a candid angle during the exchange, weaving "dumala" ("thought") together with "prisnilos" ("dreamed") just the way native speakers do.
+- 'You invited me to the restaurant at night.' Katya brings a measured approach beside Max, leaning on "nochyu" ("night") before closing the thought with "restoran" ("restaurant").
+- 'We broke a huge amount of glassware there.' Max shows an unhurried tempo in the room, joining "tam" ("there") to "nabili" ("smashed") so every word pulls its weight.
+- 'If management sees the security camera recording, we are done for.' Max shares a playful course in their talk, putting "nachalstvo" ("management") alongside "uvidit" ("will see") in a tight, everyday turn of phrase.
+- 'Stay calm, I have a plan.' Max shares an easygoing tone across the room, anchoring the Russian line on "spokoyno" ("calmly") and "yest" ("there is") without extra filler.
+- 'Vika has the keys to the server room right now.' Max adopts a natural tack straight away, leaning on "klyuchi" ("the keys") before closing the thought with "servernoy" ("server room").
+- 'She drives up to the restaurant and gets out of the car.' Max maintains a warm direction in this beat, combining "podyezzhayet" ("drives up") and "restoranu" ("restaurant") so the key meaning lands right away.
+- 'I distract her with conversation.' Max conveys a steady style in the conversation, weaving "otvlekayu" ("distract") together with "razgovorom" ("conversation") just the way native speakers do.
+- 'And you quickly grab the keys.' Max conveys a warm position as the scene unfolds, leaning on "bystro" ("quickly") before closing the thought with "zabirayesh" ("take").
+- 'You sneak into the restaurant and destroy the recordings.' Max sets a lively posture in their talk, pairing "pronikayesh" ("sneak in, penetrate") with "restoran" ("restaurant") to get the point across in plain spoken Russian.
+- 'Where will you get a bat in the restaurant?' Katya asks lightly in the room, pairing "gde" ("where") with "bitu" ("baseball bat") to get the point across in plain spoken Russian.
+- 'I will grab the fire hook off the wall!' Max maintains a calm stance toward Katya, pairing "vozmu" ("will get") with "steny" ("walls") to get the point across in plain spoken Russian.

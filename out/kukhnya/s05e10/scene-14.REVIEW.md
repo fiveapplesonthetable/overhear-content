@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have to report it to the police. Understood?' Max asks whether they have to report it to the police, refusing to let the point slide. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I did not understand. For silence, yes?' Asking whether he did not understand puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is nothing, do not worry. We will solve this.' Claiming that it is nothing do not worry sounds confident, even if Max has doubts.
-- 'Good afternoon. Are you ready to place an order?' Asking whether Max ready to place an order cuts straight through the tension between Nastya and Max. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, please, a cocktail.' With the conversation and police in play, Mikhail keeps this short reply brisk and direct.
-- 'A beach cocktail.' Over the conversation and the police, Mikhail answers Max without a second thought.
-- 'Vika got very upset.' Noting that Vika got very upset keeps Max's side of the story simple and clear.
-- 'What do you think, did I ruin the inspection?' Wondering what Mikhail thinks did he ruins the inspection cuts straight through the tension between Max and Mikhail. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course you ruined it, Max.' Over the conversation and the mistake, Nastya answers Max without a second thought.
-- 'Kostya, make one beach cocktail!' Nastya insists that Max should make one beach cocktail, leaving Max no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Wait, what did she order?' By wondering what she order, Max presses Mikhail for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Here you go, your cocktail.' Adding that here Max goes Max's cocktail fills in the missing piece for Max.
+- 'We have to report it to the police. Understood?' Max probes sharply across the room, linking "nado" ("it is necessary"), "politsiyu" ("the police"), and "soobshchat" ("to report, inform") in one brisk exchange.
+- 'I did not understand. For silence, yes?' Mikhail presses promptly to keep things clear, pairing "ponyal" ("understood") with "molchaniye" ("silence") to get the point across in plain spoken Russian.
+- 'It is nothing, do not worry. We will solve this.' Mikhail picks a grounded footing straight away, using "bespokoytes" (from "bespokoitsya", "worry") alongside "reshim" ("will sort out") to shape the meaning.
+- 'Good afternoon. Are you ready to place an order?' Nastya presses naturally across the room, building the phrase around "dobryy" ("good") and "den" ("day") for a crisp, natural delivery.
+- 'Yes, please, a cocktail.' Mikhail keeps an easygoing rhythm with Max, linking "kokteyl" ("cocktail"), "da" ("yes"), and "pozhaluysta" ("please") in one brisk exchange.
+- 'A beach cocktail.' Mikhail presents a direct direction toward Nastya, anchoring the Russian line on "kokteyl" ("cocktail") and "plyazhe" ("beach") without extra filler.
+- 'Vika got very upset.' Max establishes a thoughtful angle during the exchange, anchoring the Russian line on "silno" ("strongly, much") and "rasstroilas" ("got upset") without extra filler.
+- 'What do you think, did I ruin the inspection?' Max questions frankly beside Nastya, pairing "kak" ("how") with "dumayesh" ("think") to get the point across in plain spoken Russian.
+- 'Of course you ruined it, Max.' Nastya presents a steady tempo right away, leaning on "konechno" ("of course") before closing the thought with "sorval" ("disrupted").
+- 'Kostya, make one beach cocktail!' Nastya adopts a direct tempo in their talk, combining "sdelay" ("make, do") and "kokteyl" ("cocktail") so the key meaning lands right away.
+- 'Wait, what did she order?' Max tests openly during the talk, putting "podozhdi" ("wait") alongside "zakazala" ("to order") in a tight, everyday turn of phrase.
+- 'Here you go, your cocktail.' Nastya picks a serious tone beside Mikhail, joining "kokteyl" ("cocktail") to "pozhaluysta" ("please") so every word pulls its weight.

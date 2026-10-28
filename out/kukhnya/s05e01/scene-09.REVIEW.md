@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is completely normal.' Claiming that that is completely normal sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I was pregnant and kept forgetting everything.' Pointing out that she was pregnant and kept forgetting everything gives Barinov a sobering reality check.
-- 'One day I ended up at the zoo.' With the order and room in play, Nastya keeps this short reply brisk and direct.
-- 'Nastya, I have a favor to ask.' Here having a favor to ask sets up the next turn in their exchange. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Do not tell anyone about this, okay?' By checking whether not tell anyone about this okay, Vika presses Barinov for a straight answer.
-- 'I do not want to publicize it yet.' Even though she does not want to publicize it yet, Vika keeps a steady face in front of Barinov.
-- 'Victor Petrovich, there is a new order here.' Admitting that there is a new order here shows Vika being honest for a change.
-- 'A guest ordered the room service.' With the order and shift in play, Vika keeps this short reply brisk and direct.
-- 'Fine, I will go up myself right now.' Once fine he will go up himself right now, Barinov can finally tell Nastya what he means.
-- 'Did you call the chef to the room?' Checking whether Nastya calls the to the room cuts straight through the tension between Barinov and Nastya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Did you order the chicken breast?' Asking whether Nastya orders the chicken breast is how Barinov puts Nastya on the spot.
-- 'What are you doing in there right now?' Wondering what Barinov doing in there right now is is how Vika puts Barinov on the spot. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'That is completely normal.' Nastya maintains a brisk manner beside Barinov, building the phrase around "sovershenno" ("quite, completely") and "normalno" ("fine, OK") for a crisp, natural delivery.
+- 'I was pregnant and kept forgetting everything.' Nastya takes an earnest tack during the exchange, linking "byla" ("was"), "beremenna" ("pregnant"), and "zabyvala" ("I used to forget") in one brisk exchange.
+- 'One day I ended up at the zoo.' Nastya picks an honest angle as the scene unfolds, anchoring the Russian line on "odnazhdy" ("once, one day") and "prishla" ("came") without extra filler.
+- 'Nastya, I have a favor to ask.' Vika chooses an unhurried rhythm toward Nastya, combining "yest" ("there is") and "prosba" ("a request") so the key meaning lands right away.
+- 'Do not tell anyone about this, okay?' Vika tests calmly as they speak, combining "govori" ("say, talk") and "ne" ("not") so the key meaning lands right away.
+- 'I do not want to publicize it yet.' Vika shows a grounded course beside Nastya, pairing "poka" ("bye") with "khochu" ("want") to get the point across in plain spoken Russian.
+- 'Victor Petrovich, there is a new order here.' Vika establishes an earnest stance in this beat, putting "tut" ("here") alongside "novyy" ("new") in a tight, everyday turn of phrase.
+- 'A guest ordered the room service.' Vika offers a lively posture toward Nastya, building the phrase around "gost" ("guest") and "zakazal" ("ordered") for a crisp, natural delivery.
+- 'Fine, I will go up myself right now.' Barinov brings an unhurried approach toward Nastya, combining the easygoing tag "ladno" ("okay, fine") with "seychas" ("now") to give the line its natural spoken rhythm.
+- 'Did you call the chef to the room?' Barinov presses bluntly for Vika's benefit, combining "vyzyvali" ("to cause, to raise") and "shefa" ("chef") so the key meaning lands right away.
+- 'Did you order the chicken breast?' Barinov asks calmly in the scene, pairing "kurinuyu" ("chicken") with "grudku" ("chicken breast") to get the point across in plain spoken Russian.
+- 'What are you doing in there right now?' Vika challenges wryly right away, building the phrase around "seychas" ("now") and "tam" ("there") for a crisp, natural delivery.

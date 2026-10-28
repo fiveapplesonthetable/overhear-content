@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who on earth are you supposed to be?' Asking whether who on earth are Denis supposed to be puts Denis right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What do you want from my wife?' Wondering what Denis wants from his wife cuts straight through the tension between Kostya and Denis. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Denis, what are you doing here?' With the room and hotel hanging in the air, Katya puts Denis on the spot.
-- 'The Frenchman is staying in this room right now.' Adding that the Frenchman is staying in this room right now fills in the missing piece for Katya.
-- 'He is sitting in there with another girl.' Being sitting in there with another girl is how Denis lays out the situation for Katya.
-- 'We decided that you should know this.' Since they decided that Katya should know this, Denis does not waste words on excuses.
-- 'This Frenchman is simply deceiving you.' Mentioning that this Frenchman is simply deceiving Katya moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What is going on here right now?' Asking what going on here right now is is how Katya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Katya, meet her, this is my partner.' Meeting her this is his partner is how Kostya lays out the situation for Denis.
-- 'We studied together in Paris.' Between the hotel and the work, Kostya gives Denis a quick, grounded response.
-- 'Nice to meet you too right now.' Around the hotel and point, Katya sets a calm, everyday tone with Denis.
-- 'Wait a couple of minutes, and we will talk.' Claiming that a couple of minutes and they will talk sounds confident, even if Denis has doubts.
+- 'Who on earth are you supposed to be?' Kostya wonders wryly as they speak, anchoring the Russian line on "voobshche" ("at all") and "budesh" ("will") without extra filler.
+- 'What do you want from my wife?' Kostya speaks evenly with Katya now, linking "nado" ("it is necessary"), "zheny" ("wife"), and "chto" ("what") in one brisk exchange.
+- 'Denis, what are you doing here?' Katya questions earnestly as the talk turns, pairing "denis" ("Denis") with "zdes" ("here") so the "-sya" ending carries the action.
+- 'The Frenchman is staying in this room right now.' Denis holds a frank view in the room, combining "nomere" ("in the hotel room") and "seychas" ("now") so the key meaning lands right away.
+- 'He is sitting in there with another girl.' Denis takes a natural course in the scene, anchoring the Russian line on "tam" ("there") and "sidit" ("sits") without extra filler.
+- 'We decided that you should know this.' Denis sustains a playful course as the scene unfolds, using "reshili" (from "reshit", "decided") alongside "dolzhna" ("should, must") to shape the meaning.
+- 'This Frenchman is simply deceiving you.' Denis strikes a direct posture across the room, building the phrase around "frantsuz" ("Frenchman") and "prosto" ("just") for a crisp, natural delivery.
+- 'What is going on here right now?' Katya checks honestly as the talk turns, weaving "zdes" ("here") together with "voobshche" ("at all") just the way native speakers do.
+- 'Katya, meet her, this is my partner.' Kostya takes an easygoing course in front of Denis, combining "poznakomsya" ("to get acquainted") and "partnyor" ("partner") so the key meaning lands right away.
+- 'We studied together in Paris.' Kostya conveys a playful course during the exchange, joining "vmeste" ("together") to "uchilis" ("studied") so every word pulls its weight.
+- 'Nice to meet you too right now.' Katya displays a calm approach in this beat, putting "tozhe" ("too") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Wait a couple of minutes, and we will talk.' Kostya takes a lively manner in this beat, building the phrase around "podozhdi" ("wait") and "paru" ("couple") for a crisp, natural delivery.

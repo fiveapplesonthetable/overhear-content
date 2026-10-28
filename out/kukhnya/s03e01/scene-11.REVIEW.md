@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good! By taste it is simply tomato soup.' Saying that by taste it is simply tomato soup is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vitya, try it.' Even though Barinov should try it, Nagiyev keeps a steady face in front of Barinov.
-- 'I do not want to.' Adding that he does not want fills in the missing piece for Katya.
-- 'Try it! Do you like it?' Checking whether Barinov likes it cuts straight through the tension between Nagiyev and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Moving on. Frozen chocolate wind.' With the truth and soup in play, Katya keeps this short reply brisk and direct.
-- 'Guys, chocolate wind!' With the kitchen and conversation at stake, Nagiyev reacts without holding back.
-- 'We are selling air!' Nagiyev insists that they are selling air, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will try it, yes?' Wondering if he will try it yes shows Nagiyev caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, of course.' With the plan and soup in play, Katya keeps this short reply brisk and direct.
-- 'Delicious! Is our molecular menu ready?' Here checking whether their molecular menu ready shows Nagiyev looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'You already have a menu ready too?' Barinov asks whether Katya already have a menu ready, refusing to let the point slide. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Yesterday we sat down, chatted, and approved the menu.' Pointing out that yesterday they sat down chatted and approved the menu gives Barinov a sobering reality check.
+- 'Good! By taste it is simply tomato soup.' Nagiyev conveys an earnest style toward Barinov, placing "khorosho" ("good, fine") straight beside "vkusu" ("taste, style") with no word for "to be" needed.
+- 'Vitya, try it.' Nagiyev displays a natural posture in this beat, building the phrase around "poprobuy" ("to try, to taste") and "vitya" ("Vitya") for a crisp, natural delivery.
+- 'I do not want to.' Barinov conveys a grounded direction in the conversation, linking "khochu" ("want"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
+- 'Try it! Do you like it?' Nagiyev challenges calmly in their exchange, building the phrase around "poprobuy" ("to try, to taste") and "nravitsya" ("is pleasing") for a crisp, natural delivery.
+- 'Moving on. Frozen chocolate wind.' Katya adopts a playful tone for Barinov, anchoring the Russian line on "yedem" ("are going") and "dalshe" ("next, go on") without extra filler.
+- 'Guys, chocolate wind!' Nagiyev sustains a sharp footing at once, combining "rebyata" ("the boys, the lads") and "shokoladnyy" ("chocolate") so the key meaning lands right away.
+- 'We are selling air!' Nagiyev strikes a firm course right away, anchoring the Russian line on "vozdukh" ("air") and "prodayom" ("to sell") without extra filler.
+- 'I will try it, yes?' Nagiyev queries openly beside Katya, joining "poprobuyu" ("will try") to "ya" ("I") so every word pulls its weight.
+- 'Yes, of course.' Katya displays an honest note as they talk, building the phrase around "konechno" ("of course") and "da" ("yes") for a crisp, natural delivery.
+- 'Delicious! Is our molecular menu ready?' Nagiyev inquires promptly at this point, pairing "vkusno" ("it's tasty") with "molekulyarnoye" ("molecular") to get the point across in plain spoken Russian.
+- 'You already have a menu ready too?' Barinov asks warmly in the room, anchoring the Russian line on "uzhe" ("already, now") and "menyu" ("menu") without extra filler.
+- 'Yesterday we sat down, chatted, and approved the menu.' Nagiyev chooses a thoughtful manner in this beat, building the phrase around "vchera" ("yesterday") and "seli" ("to sit down") for a crisp, natural delivery.

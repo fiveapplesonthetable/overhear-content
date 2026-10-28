@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Therefore I bless you from the bottom of my heart.' With the situation and kitchen in play, Barinov keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Wait, pops, in what sense?' With the room and work hanging in the air, Max puts Barinov on the spot.
-- 'You are simply such a wonderful couple!' Saying that Katya is simply such a wonderful couple is how Barinov takes charge of the moment. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Looking at you two immediately gladdens the eye.' Over the situation and the work, Barinov answers Katya without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Dad, are you speaking seriously right now, really?' Katya asks whether dad are Barinov speaking seriously right now really, refusing to let the point slide.
-- 'Katya, bring me a little ice, please.' Realizing that Barinov should bring him a little ice please changes how Max handles the situation.
-- 'I need to have a word with your father.' Max mentions that he needs to have a word with Barinov's father so Barinov sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Pops, we agreed on five hundred thousand, after all!' With the plan and room at stake, Max reacts without holding back.
-- 'No, you suit her so well, son!' With the room and kitchen at stake, Barinov reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fine, give me at least three hundred thousand.' Between the kitchen and the work, Max gives Barinov a quick, grounded response. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'No, live together in harmony and love!' Telling Katya to live together in harmony and love is Barinov's blunt reaction in front of Katya.
-- 'One hundred thousand, how predictable you are, let's go to the safe.' Claiming that one hundred thousand how predictable Katya is let them go to the safe sounds confident, even if Katya has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We will quickly crack open my safe right now.' Pointing out that they will quickly crack open his safe right now gives Katya a sobering reality check.
+- 'Therefore I bless you from the bottom of my heart.' Barinov shows a playful rhythm in front of Katya, building the phrase around "poetomu" ("that's why") and "dushi" ("soul, heart") for a crisp, natural delivery.
+- 'Wait, pops, in what sense?' Max prompts directly without a pause, linking "podozhdi" ("wait"), "batya" ("Dad, the old man"), and "smysle" ("sense") in one brisk exchange.
+- 'You are simply such a wonderful couple!' Barinov sustains a pointed line right away, leaning on "prosto" ("just") before closing the thought with "chudesnaya" ("wonderful").
+- 'Looking at you two immediately gladdens the eye.' Barinov displays a candid manner in the room, weaving "smotrish" ("are staring") together with "srazu" ("at once") just the way native speakers do.
+- 'Dad, are you speaking seriously right now, really?' Katya checks candidly toward Barinov here, combining "papa" ("Dad") and "seychas" ("now") so the key meaning lands right away.
+- 'Katya, bring me a little ice, please.' Max projects a warm position as the scene unfolds, joining "prinesi" ("bring") to "nemnogo" ("a bit") so every word pulls its weight.
+- 'I need to have a word with your father.' Max projects a wry angle for Barinov, using "ottsom" (from "otets", "father") alongside "pogovorit" ("to talk") to shape the meaning.
+- 'Pops, we agreed on five hundred thousand, after all!' Max sets a thoughtful posture beside Katya, pairing "dogovorilis" ("agreed, deal") with "batya" ("Dad, the old man") so the "-sya" ending carries the action.
+- 'No, you suit her so well, son!' Barinov shares an emphatic course on the spot, weaving "khorosho" ("good, fine") together with "podkhodish" ("to approach") just the way native speakers do.
+- 'Fine, give me at least three hundred thousand.' Max offers an unhurried tone on the spot, linking "davay" ("let's"), "tysyach" ("thousand"), and "trista" ("three hundred") in one brisk exchange.
+- 'No, live together in harmony and love!' Barinov conveys a calm posture for Katya, weaving "zhivite" ("to live") together with "vmeste" ("together") just the way native speakers do.
+- 'One hundred thousand, how predictable you are, let's go to the safe.' Barinov shares a resolute course beside Max, combining "tysyach" ("thousand") and "predskazuyemyy" ("predictable") so the key meaning lands right away.
+- 'We will quickly crack open my safe right now.' Barinov strikes a serious mood as they talk, joining "seychas" ("now") to "bystro" ("quickly") so every word pulls its weight.

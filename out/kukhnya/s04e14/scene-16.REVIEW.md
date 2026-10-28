@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well now, you finally got caught in the fridge!' Katya insists that Denis finally got caught in the fridge, leaving Denis no room to argue.
-- 'All right, Katya, I am already tired of running.' Mentioning that all right Katya he is already tired of running moves the talk in a new direction.
-- 'I knew that I would press you into confessing today!' Katya declares that she knew that she would press Denis into confessing today as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will do anything, just leave me alone!' Because he will do anything just leave him alone, Denis does not bother softening the blow for Katya.
-- 'All right, if you want, let's spend the night together!' Insisting that all right if Katya wants let them spend the night together shows Denis is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Have you completely lost your mind, what are you doing?' Here asking whether Denis completely lost Denis's mind what are Denis doing shows Katya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You have been running after me all day after all!' Declaring that Katya has been running after him all day after all brings Denis's temper right to the surface.
-- 'I was watching so that you would not steal groceries!' Katya insists that she was watching so that Denis would not steal groceries, leaving Denis no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Senya and Fedya said that you are a thief!' Saying that Senya and Fedya said that Denis is a thief is how Katya takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And they told me that you are crazy for men!' Denis declares that they told him that Katya is crazy for men as the tension in the room peaks.
-- 'What scoundrels, they tricked us both!' With the situation and shift at stake, Katya reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Let's go quickly, we will give them a piece of our mind right now!' Denis declares that they should go quickly they will give them a piece of their mind right now as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well now, you finally got caught in the fridge!' Katya strikes a wry approach as the scene unfolds, anchoring the Russian line on "popalsya" ("got caught") and "nakonets" ("at last, finally") without extra filler.
+- 'All right, Katya, I am already tired of running.' Denis displays a direct style without hesitation, combining the easygoing tag "ladno" ("okay, fine") with "uzhe" ("already, now") to give the line its natural spoken rhythm.
+- 'I knew that I would press you into confessing today!' Katya strikes a direct style with Denis, using "znala" (from "znat", "knew") alongside "segodnya" ("today") to shape the meaning.
+- 'I will do anything, just leave me alone!' Denis shares a candid stance beside Katya, leaning on "sdelayu" ("I'll do") before closing the thought with "tolko" ("only").
+- 'All right, if you want, let's spend the night together!' Denis displays a warm view without hesitation, putting "khorosho" ("good, fine") alongside "khochesh" ("do you want") in a tight, everyday turn of phrase.
+- 'Have you completely lost your mind, what are you doing?' Katya inquires promptly without holding back, pairing "voobshche" ("at all") with "soshyol" ("gone") to get the point across in plain spoken Russian.
+- 'You have been running after me all day after all!' Denis strikes a direct direction right away, leaning on "den" ("day") before closing the thought with "begala" ("ran around").
+- 'I was watching so that you would not steal groceries!' Katya picks a sharp course without hesitation, anchoring the Russian line on "sledila" ("to watch, to follow") and "produkty" ("groceries") without extra filler.
+- 'Senya and Fedya said that you are a thief!' Katya takes a firm mood with Denis, building the phrase around "skazali" ("told") and "vor" ("thief") for a crisp, natural delivery.
+- 'And they told me that you are crazy for men!' Denis sets a grounded tempo at this moment, putting "skazali" ("told") alongside "bezumnaya" ("crazy") in a tight, everyday turn of phrase.
+- 'What scoundrels, they tricked us both!' Katya picks an emphatic rhythm at this moment, weaving "negodyai" ("scoundrels") together with "obmanuli" ("cheated") just the way native speakers do.
+- 'Let's go quickly, we will give them a piece of our mind right now!' Denis chooses a thoughtful footing at once, weaving "poshli" ("let's go") together with "skoreye" ("quickly, right away") just the way native speakers do.

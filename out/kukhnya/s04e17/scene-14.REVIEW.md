@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Meet my fiancé Denis.' Explaining that Denis should meet her Denis lays the cards on the table for Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He is the head chef of our restaurant.' Claiming that he is the head of their restaurant sounds confident, even if Denis has doubts.
-- 'Good evening, how do you like it here?' Asking how Katya likes it here cuts straight through the tension between Denis and Katya.
-- 'I must go back to the stove.' Denis explains that he must go back to the stove, keeping his voice calm and direct.
-- 'Denis, come over here quickly!' Saying that Denis should come over here quickly is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We are going to drink delicious wine right now.' Noting that they are going to drink delicious wine right now keeps Nagiyev's side of the story simple and clear.
-- 'And at the grand piano you will play something romantic.' Even though at the grand piano Denis will play something romantic, Nagiyev keeps a steady face in front of Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'But you planned the date for tomorrow.' With the plan and date in play, Denis keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Never put off love until tomorrow!' Insisting that never put off love until tomorrow shows Nagiyev is not backing down.
-- 'Friends, I prepared a musical gift for you.' Over the plan and the date, Denis answers Katya without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, my fiancé plays wonderfully.' Adding that her plays wonderfully fills in the missing piece for Denis. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'A talented person is talented in everything.' Katya tells Denis that a talented person is talented in everything without dressing it up.
+- 'Meet my fiancé Denis.' Katya offers a playful note straight away, putting "znakomtes" ("meet") alongside "zhenikh" ("groom, fiancé") in a tight, everyday turn of phrase.
+- 'He is the head chef of our restaurant.' Katya shares an emphatic course during the exchange, linking "glavnyy" ("main, chief"), "shef-povar" ("head chef"), and "restorana" ("restaurant") in one brisk exchange.
+- 'Good evening, how do you like it here?' Denis challenges wryly to Katya here, pairing "dobryy" ("good") with "vecher" ("evening") to get the point across in plain spoken Russian.
+- 'I must go back to the stove.' Denis offers an easygoing note across the room, putting "dolzhen" ("has to, must") alongside "idti" ("to go") in a tight, everyday turn of phrase.
+- 'Denis, come over here quickly!' Nagiyev picks a firm angle in this beat, pairing "denis" ("Denis") with "idi" ("go") so the "-sya" ending carries the action.
+- 'We are going to drink delicious wine right now.' Nagiyev establishes a brisk note as they talk, pairing "seychas" ("now") with "budem" ("will") so the "-sya" ending carries the action.
+- 'And at the grand piano you will play something romantic.' Nagiyev picks a grounded tempo at this moment, leaning on "royalem" ("to something") before closing the thought with "sygrayesh" ("to play, perform").
+- 'But you planned the date for tomorrow.' Denis conveys an earnest course in their talk, using "planirovali" (from "planirovat", "to tomorrow") alongside "svidaniye" ("date") to shape the meaning.
+- 'Never put off love until tomorrow!' Nagiyev strikes a firm stance toward Denis, leaning on "nikogda" ("never") before closing the thought with "otkladyvay" ("off").
+- 'Friends, I prepared a musical gift for you.' Denis establishes a frank course right away, leaning on "druzya" ("friends") before closing the thought with "prigotovil" ("cooked").
+- 'Yes, my fiancé plays wonderfully.' Katya holds a brisk tempo as the scene unfolds, putting "prekrasno" ("perfectly") alongside "igrayet" ("plays") in a tight, everyday turn of phrase.
+- 'A talented person is talented in everything.' Katya shows an unhurried stance as the scene unfolds, linking "talantlivyy" ("talented"), "chelovek" ("a man, a person"), and "talantliv" ("talented") in one brisk exchange.

@@ -7,7 +7,7 @@ SCENE = 9
 TITLE = 'Тост за новое меню  (A Toast to the New Menu)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'mikhail': 'Михаил'}
+LABELS = {'barinov': 'Шеф', 'katya': 'Катя', 'mikhail': 'Михаил'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 INTRO = "After closing time, the staff gathers at the bar to celebrate the new menu. Barinov apologizes to Mikhail for covering up Nagiyev's wedding-night indiscretion, while Denis and Nikita eye Katya's wine glass."
@@ -22,24 +22,24 @@ STORY = [
     ('barinov', 'Ты пойми, для нее это важно.', 'Understand, for her it is important.', [(147, 'Ты пойми, для нее это')], 'adapted'),
     ('mikhail', 'Никаких проблем, Витя.', 'No problem at all, Vitya.', [(148, 'Никаких проблем')], 'adapted'),
     ('barinov', 'За новое меню и за звезду!', 'To the new menu and to the star!', [(149, 'За новое меню и за звезду')], 'adapted'),
-    ('kostya', 'Катя уже третий бокал пьет.', 'Katya is already drinking her third glass.', [(150, 'Катя уже третий бокал пьет')], 'exact'),
-    ('kostya', 'По-моему, пора идти.', 'In my opinion, it is time to go.', [(151, 'По-моему, пора')], 'adapted'),
+    ('mikhail', 'Катя уже третий бокал пьет.', 'Katya is already drinking her third glass.', [(150, 'Катя уже третий бокал пьет')], 'exact'),
+    ('katya', 'По-моему, пора идти.', 'In my opinion, it is time to go.', [(151, 'По-моему, пора')], 'adapted'),
     ('mikhail', 'Давай, удачи.', 'Go ahead, good luck.', [(152, 'Давай')], 'adapted'),
-    ('kostya', 'Ну что, думаешь, пора уже с Катей поговорить?', 'Well, do you think it is time to talk to Katya already?', [(154, 'Ну что, думаешь, пора уж с Катей поговорить?')], 'adapted'),
+    ('katya', 'Ну что, думаешь, пора уже с Катей поговорить?', 'Well, do you think it is time to talk to Katya already?', [(154, 'Ну что, думаешь, пора уж с Катей поговорить?')], 'adapted'),
     ('mikhail', 'Да, а вино где?', 'Yes, and where is the wine?', [(155, 'Да. А вино где?')], 'exact'),
-    ('kostya', 'Не вопрос, сейчас налью.', 'No question, I will pour right now.', [(158, 'Не вопрос')], 'adapted'),
+    ('katya', 'Не вопрос, сейчас налью.', 'No question, I will pour right now.', [(158, 'Не вопрос')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'What happened, Vitya?\' Turning from the wedding to the kitchen, Mikhail asks Barinov directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (1, None, "'The prefect did not eat his fill.' Barinov explains that the prefect did not eat his fill, keeping his voice calm and direct."),
-    (2, None, '\'Misha, forgive me for not saying anything to Eleonora back then.\' Over the work and the menu, Barinov answers Kostya without a second thought. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (3, None, '\'Understand, for her it is important.\' Noting that Kostya should understand for her it is important keeps Barinov\'s side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (4, None, "'No problem at all, Vitya.' Around the work and menu, Mikhail sets a calm, everyday tone with Barinov."),
-    (5, None, "'To the new menu and to the star!' With the shift and menu at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (6, None, "'Katya is already drinking her third glass.' Saying that Katya is already drinking her third glass is how Kostya sets the tone with Barinov."),
-    (7, None, "'In my opinion, it is time to go.' Once in his opinion it is time to go, Kostya can finally tell Barinov what he means."),
-    (8, None, '\'Go ahead, good luck.\' Claiming that Barinov should go ahead good luck sounds confident, even if Barinov has doubts. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (9, None, "'Well, do you think it is time to talk to Katya already?' By asking whether Barinov thinks it is time to talk to Katya already, Kostya presses Barinov for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (10, None, "'Yes, and where is the wine?' Wondering where the wine is cuts straight through the tension between Mikhail and Barinov."),
-    (11, None, "'No question, I will pour right now.' Mentioning that question he will pour right now moves the talk in a new direction."),
+    (0, None, '\'What happened, Vitya?\' Mikhail presses sharply without hesitation, putting "sluchilos" ("happened") alongside "chto" ("what") in a tight, everyday turn of phrase.'),
+    (1, None, '\'The prefect did not eat his fill.\' Barinov shares an emphatic approach for Mikhail, pairing "nayelsya" ("ate his fill") with "prefekt" ("district prefect") so the "-sya" ending carries the action.'),
+    (2, None, '\'Misha, forgive me for not saying anything to Eleonora back then.\' Barinov shares an emphatic course as they talk, building the phrase around "prosti" ("sorry, forgive me") and "togda" ("back then") for a crisp, natural delivery.'),
+    (3, None, '\'Understand, for her it is important.\' Barinov holds a lively bearing in front of Mikhail, using "poymi" (from "ponyat", "understand") alongside "vazhno" ("important, mattering") to shape the meaning.'),
+    (4, None, '\'No problem at all, Vitya.\' Mikhail strikes a direct position at this moment, weaving "problem" ("problems") together with "nikakikh" ("no ... at all") just the way native speakers do.'),
+    (5, None, '\'To the new menu and to the star!\' Barinov sets a wry posture in the scene, putting "novoye" ("new") alongside "menyu" ("menu") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Katya is already drinking her third glass.\' Mikhail favors a firm posture straight away, anchoring the Russian line on "uzhe" ("already, now") and "tretiy" ("the third") without extra filler.'),
+    (7, None, '\'In my opinion, it is time to go.\' Katya keeps a pointed posture straight away, joining "po-moyemu" ("in my opinion") to "pora" ("it\'s time") so every word pulls its weight.'),
+    (8, None, '\'Go ahead, good luck.\' Mikhail sets an easygoing posture for Barinov, combining "davay" ("let\'s") and "udachi" ("luck") so the key meaning lands right away.'),
+    (9, None, '\'Well, do you think it is time to talk to Katya already?\' Katya wonders plainly without hesitation, joining "dumayesh" ("think") to "pora" ("it\'s time") so every word pulls its weight.'),
+    (10, None, '\'Yes, and where is the wine?\' Mikhail challenges boldly without a pause, linking "vino" ("wine") directly with "gde" ("where"), since Russian drops "is" and "are" in the present.'),
+    (11, None, '\'No question, I will pour right now.\' Katya picks a calm stance in the room, putting "vopros" ("question, matter") alongside "seychas" ("now") in a tight, everyday turn of phrase.'),
 ]

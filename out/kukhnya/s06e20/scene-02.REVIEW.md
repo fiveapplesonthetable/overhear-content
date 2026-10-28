@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did he pay the money after all?' By asking whether he pay the money after all, Barinov presses the inspector for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, he paid, of course.' Explaining that he paid of course lays the cards on the table for Barinov.
-- 'After all, this guest of ours is a foreigner.' Saying that after all this guest of their is a foreigner is how Mikhail sets the tone with Barinov.
-- 'He passed this along to you.' With the inspector and guest in play, Mikhail keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'This is a Michelin inspector from Paris!' Because this is a Michelin inspector from Paris, Mikhail does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He is their very chief inspector.' Since he is their very chief inspector, Barinov does not waste words on excuses.
-- 'He has already ruined many chefs.' Saying that he has already ruined many chefs is how Barinov sets the tone with the inspector.
-- 'Why is this happening to me?' Here wondering why this happening to him is shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Just do not get nervous right now.' Even though just do not get nervous right now, Mikhail keeps a steady face in front of Barinov.
-- 'Good afternoon, who is the chef here?' Wondering who the here is cuts straight through the tension between the inspector and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Here he is sitting before you.' Saying that here he is sitting before Barinov is how Mikhail sets the tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you for your answer.' Around the guest and shift, the inspector sets a calm, everyday tone with Barinov.
+- 'Wait, did he pay the money after all?' Barinov questions briskly during the talk, using "zaplatil" (from "zaplatit", "to pay") alongside "dengi" ("money") to shape the meaning.
+- 'Yes, he paid, of course.' Mikhail brings a steady footing as they talk, putting "zaplatil" ("to pay") alongside "konechno" ("of course") in a tight, everyday turn of phrase.
+- 'After all, this guest of ours is a foreigner.' Mikhail offers a measured approach in the room, anchoring the Russian line on "gost" ("guest") and "inostranets" ("foreigner") without extra filler.
+- 'He passed this along to you.' Mikhail displays a brisk stance across the room, pairing "peredal" ("to pass on") with "on" ("he") to get the point across in plain spoken Russian.
+- 'This is a Michelin inspector from Paris!' Mikhail shares a thoughtful view for Barinov, joining "inspektor" ("inspector") to "parizha" ("paris") so every word pulls its weight.
+- 'He is their very chief inspector.' Barinov brings a brisk direction toward Mikhail, building the phrase around "samyy" ("the most") and "glavnyy" ("main, chief") for a crisp, natural delivery.
+- 'He has already ruined many chefs.' Barinov takes a clear angle in the room, leaning on "uzhe" ("already, now") before closing the thought with "pogubil" ("to ruin, to destroy").
+- 'Why is this happening to me?' Barinov presses dryly in front of Mikhail, putting "pochemu" ("why") alongside "proiskhodit" ("is going on") in a tight, everyday turn of phrase.
+- 'Just do not get nervous right now.' Mikhail shares a frank manner across the room, combining "tolko" ("only") and "seychas" ("now") so the key meaning lands right away.
+- 'Good afternoon, who is the chef here?' The inspector inquires promptly as the talk turns, leaning on "dobryy" ("good") before closing the thought with "den" ("day").
+- 'Here he is sitting before you.' Mikhail maintains a natural direction at once, leaning on "sidit" ("sits") before closing the thought with "vot" ("there, here").
+- 'Thank you for your answer.' The inspector chooses a thoughtful angle at this moment, linking "spasibo" ("thank you"), "otvet" ("answer"), and "vam" ("you") in one brisk exchange.

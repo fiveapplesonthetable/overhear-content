@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Katya, as a friend, be the sheikh's wife for an hour.' Around the hotel and shift, Elena sets a calm, everyday tone with Katya.
-- 'I am going to my girlfriends at the Metropol, it is close by.' Claiming that she is going to her girlfriends at the Metropol it is close sounds confident, even if Katya has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'That is a bad idea.' Once that is a bad idea, Katya can finally tell Elena what she means.
-- 'You and I look alike as two drops of water.' Adding that Katya and she looks alike as two drops of water fills in the missing piece for Katya.
-- 'Nobody will notice.' Elena tells Katya that nobody will notice without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And my husband only visits me once a month anyway.' Since her husband only visits her once a month anyway, Elena does not waste words on excuses.
-- 'And he already visited this month.' Between the hotel and the shift, Elena gives Katya a quick, grounded response.
-- 'No, it is time for me to go.' Adding that it is time for her to go fills in the missing piece for Elena. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Then I will have to say that you got me drunk.' Because she will have to say that Katya got her drunk, Elena treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And your head chef undressed me and harassed me.' Over the hotel and the moment, Elena answers Katya without a second thought.
-- 'What kind of nonsense is that?' With the shift and hotel hanging in the air, Katya puts Elena on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And whom will my husband believe?' Asking whether whom will her husband believe puts Katya right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Listen, Katya, as a friend, be the sheikh's wife for an hour.' Elena adopts a sharp attitude as the scene unfolds, putting "poslushay" ("listen") alongside "druzhbe" ("friendship") in a tight, everyday turn of phrase.
+- 'I am going to my girlfriends at the Metropol, it is close by.' Elena chooses a resolute view across the room, leaning on "podruzhkam" ("girlfriends") before closing the thought with "blizko" ("closely").
+- 'That is a bad idea.' Katya maintains a steady style in their talk, building the phrase around "plokhaya" ("bad") and "ideya" ("idea") for a crisp, natural delivery.
+- 'You and I look alike as two drops of water.' Elena adopts a thoughtful stance in the room, anchoring the Russian line on "pokhozhi" ("similar, look like") and "kak" ("how") without extra filler.
+- 'Nobody will notice.' Elena strikes an easygoing approach on the spot, linking "zametit" ("notices"), "nikto" ("nobody"), and "ne" ("not") in one brisk exchange.
+- 'And my husband only visits me once a month anyway.' Elena keeps a wry angle without hesitation, weaving "muzh" ("husband") together with "voobshche" ("at all") just the way native speakers do.
+- 'And he already visited this month.' Elena sustains a brisk course right away, weaving "mesyatse" ("month") together with "uzhe" ("already, now") just the way native speakers do.
+- 'No, it is time for me to go.' Katya offers a measured angle in the room, putting "pora" ("it's time") alongside "net" ("no") in a tight, everyday turn of phrase.
+- 'Then I will have to say that you got me drunk.' Elena strikes a pointed angle in the conversation, joining "togda" ("back then") to "pridyotsya" ("you'll have to") so every word pulls its weight.
+- 'And your head chef undressed me and harassed me.' Elena sustains a resolute approach with Katya, joining "shef-povar" ("head chef") to "razdel" ("undressed") so every word pulls its weight.
+- 'What kind of nonsense is that?' Katya checks evenly right away, joining "bred" ("nonsense") to "chto" ("what") so every word pulls its weight.
+- 'And whom will my husband believe?' Elena probes frankly as the talk turns, linking "poverit" ("to believe"), "muzh" ("husband"), and "komu" ("to whom, who") in one brisk exchange.

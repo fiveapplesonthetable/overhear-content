@@ -16,7 +16,7 @@ TRANSITION = "Alright, let's listen to all those lines again from the top."
 OUTRO = 'That wraps up this scene as chef Barinov defends Vasily in front of Nagiyev and offers to pay for the dry cleaning, while Senya and Ilya clash after dishes are dropped in the dining room. See you next time!'
 CLOSING = ('nagiyev', 'До завтра!')
 STORY = [
-    ('nagiyev', 'Дима, это я его пригласил.', 'Dima, he is here as my guest.', [(299, 'Дима, это я его пригласил')], ''),
+    ('max', 'Дима, это я его пригласил.', 'Dima, he is here as my guest.', [(299, 'Дима, это я его пригласил')], ''),
     ('max', 'Хочешь его наказать, накажи меня.', 'If you want to punish him, punish me instead.', [(300, 'Хочешь его наказать, накажи меня')], ''),
     ('nagiyev', 'Могу тебе оплатить химчистку.', 'I can pay for your dry cleaning.', [(301, 'Могу тебе оплатить химчистку')], ''),
     ('max', 'У меня большой опыт.', 'I have plenty of experience with that.', [(302, 'У меня большой опыт')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nagiyev', 'Конечно, он не виноват.', 'Of course it was not his fault.', [(312, 'Конечно, он не виноват')], ''),
 ]
 WALK = [
-    (0, None, '\'Dima, he is here as my guest.\' Being here as his guest is how Nagiyev lays out the situation for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (1, None, "'If you want to punish him, punish me instead.' Since if Nagiyev wants to punish him punish him instead, Max does not waste words on excuses."),
-    (2, None, '\'I can pay for your dry cleaning.\' Mentioning that he can pay for Max\'s dry cleaning moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (3, None, '\'I have plenty of experience with that.\' Claiming that he has plenty of experience sounds confident, even if Nagiyev has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (4, None, "'This is my restaurant.' Because this is his restaurant, Nagiyev treats the matter as settled."),
-    (5, None, "'Both of you remember that.' Explaining that both of Nagiyev remembers lays the cards on the table for Nagiyev."),
-    (6, None, "'Whatever your heart desires.' With the conversation and chaos in play, Nagiyev keeps this short reply brisk and direct."),
-    (7, None, "'Yeah, some respectable place this is.' Claiming that yeah some respectable place this is sounds confident, even if Nagiyev has doubts."),
-    (8, None, '\'Those are not eggs.\' Pointing out that those are not eggs gives Max a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (9, None, '\'Why did you grab that plate right away?\' Asking why Nagiyev grabs that plate right away cuts straight through the tension between Max and Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (10, None, "'Because of you, we have to remake all these dishes now.' Realizing that because of Max they have to remake all these dishes now changes how Nagiyev handles the situation."),
-    (11, None, '\'Are you deaf, I told you it was not my fault.\' Noting that are Nagiyev deaf he told Nagiyev it was not his fault keeps Max\'s side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (12, None, "'Of course it was not his fault.' Even though it was not his fault, Nagiyev keeps a steady face in front of Max."),
+    (0, None, '\'Dima, he is here as my guest.\' Max projects an emphatic approach with Nagiyev, using "priglasil" (from "priglasit", "invited") alongside "dima" ("Dima") to shape the meaning.'),
+    (1, None, '\'If you want to punish him, punish me instead.\' Max displays an unhurried tempo during the exchange, pairing "khochesh" ("do you want") with "nakazat" ("to punish") to get the point across in plain spoken Russian.'),
+    (2, None, '\'I can pay for your dry cleaning.\' Nagiyev establishes a steady position in front of Max, combining "mogu" ("can") and "oplatit" ("will pay for") so the key meaning lands right away.'),
+    (3, None, '\'I have plenty of experience with that.\' Max brings an honest footing in this beat, combining "bolshoy" ("big") and "opyt" ("experience") so the key meaning lands right away.'),
+    (4, None, '\'This is my restaurant.\' Nagiyev offers a pointed stance as the scene unfolds, building the phrase around "restoran" ("restaurant") and "eto" ("this") for a crisp, natural delivery.'),
+    (5, None, '\'Both of you remember that.\' Max brings a brisk posture at this moment, weaving "zapomnite" ("remember") together with "oba" ("both") just the way native speakers do.'),
+    (6, None, '\'Whatever your heart desires.\' Nagiyev adopts a brisk direction for Max, weaving "dushu" ("soul, heart") together with "chem" ("than") just the way native speakers do.'),
+    (7, None, '\'Yeah, some respectable place this is.\' Max conveys a pointed tone as the scene unfolds, anchoring the Russian line on "prilichnoye" ("decent, respectable") and "mesto" ("place, post") without extra filler.'),
+    (8, None, '\'Those are not eggs.\' Nagiyev offers a playful note in the conversation, pairing "yaytsa" ("eggs") with "eto" ("this") to get the point across in plain spoken Russian.'),
+    (9, None, '\'Why did you grab that plate right away?\' Max queries honestly across the room, leaning on "zachem" ("what for") before closing the thought with "tarelku" ("plate, platter").'),
+    (10, None, '\'Because of you, we have to remake all these dishes now.\' Nagiyev presents a serious stance during the exchange, anchoring the Russian line on "skolko" ("how much, so much") and "blyud" ("dishes") without extra filler.'),
+    (11, None, '\'Are you deaf, I told you it was not my fault.\' Max adopts a clear tack toward Nagiyev, combining "slyshish" ("hear") and "govoryu" ("am telling") so the key meaning lands right away.'),
+    (12, None, '\'Of course it was not his fault.\' Nagiyev presents a pointed stance for Max, linking "konechno" ("of course"), "vinovat" ("at fault, guilty"), and "on" ("he") in one brisk exchange.'),
 ]

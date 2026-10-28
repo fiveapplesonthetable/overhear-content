@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vitya, how glad I am to see you!' The guest declares that how glad he is to see Barinov as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Volodya, pal, what brings you here?' Questioning whether Volodya pal what brings the guest here is how Barinov tests the guest's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am passing through Moscow and decided to drop by.' Since he is passing through Moscow and decided to drop, the guest does not waste words on excuses.
-- 'And people told me that you were fired from here.' Mentioning that people told him that Barinov was fired from here moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who could ever fire me from work?' Asking who ever fire him from work could is how Barinov puts the guest on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'All of Moscow is chasing after me right now!' Barinov insists that all of Moscow is chasing after him right now, leaving the guest no room to argue.
-- 'They did not fire me, they simply outbid for me.' Explaining that they did not fire him they simply outbid for him lays the cards on the table for the guest.
-- 'And where are you working as head chef now?' Asking where Barinov working as head now is cuts straight through the tension between the guest and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Right over here, I am in charge at the neighboring restaurant.' Claiming that right over here he is in charge at the neighboring restaurant sounds confident, even if the guest has doubts.
-- 'It is a very beautiful and fashionable place.' Explaining that it is a very beautiful and fashionable place lays the cards on the table for the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Then expect my wife and me for a visit tomorrow!' By telling Barinov to expect his wife and him for a visit tomorrow, the guest raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Excellent, then see you tomorrow, dear pal!' With the work and friend at stake, Barinov reacts without holding back.
+- 'Hello, Vitya, how glad I am to see you!' The guest presents a serious attitude straight away, building the phrase around "kak" ("how") and "rad" ("glad") for a crisp, natural delivery.
+- 'Volodya, pal, what brings you here?' Barinov challenges dryly at this point, joining "volodya" ("volodya") to "drug" ("friend") so every word pulls its weight.
+- 'I am passing through Moscow and decided to drop by.' The guest establishes a firm angle with Barinov, leaning on "proyezdom" ("through") before closing the thought with "reshil" ("has decided").
+- 'And people told me that you were fired from here.' The guest establishes a sharp approach during the exchange, combining "skazali" ("told") and "otsyuda" ("from here") so the key meaning lands right away.
+- 'Who could ever fire me from work?' Barinov wonders evenly beside the guest, anchoring the Russian line on "voobshche" ("at all") and "mozhet" ("can") without extra filler.
+- 'All of Moscow is chasing after me right now!' Barinov strikes a lively angle without hesitation, leaning on "seychas" ("now") before closing the thought with "gonyayetsya" ("to right").
+- 'They did not fire me, they simply outbid for me.' Barinov displays a thoughtful view in this beat, pairing "uvolili" ("to fire, to dismiss") with "prosto" ("just") to get the point across in plain spoken Russian.
+- 'And where are you working as head chef now?' The guest inquires warmly toward Barinov here, leaning on "gde" ("where") before closing the thought with "teper" ("now").
+- 'Right over here, I am in charge at the neighboring restaurant.' Barinov takes a sharp posture with the guest, anchoring the Russian line on "tut" ("here") and "sosednem" ("neighboring") without extra filler.
+- 'It is a very beautiful and fashionable place.' Barinov shares a serious manner beside the guest, linking "ochen" ("very much") directly with "krasivoye" ("beautiful"), since Russian drops "is" and "are" in the present.
+- 'Then expect my wife and me for a visit tomorrow!' The guest takes a clear position in the scene, pairing "znachit" ("then, so") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
+- 'Excellent, then see you tomorrow, dear pal!' Barinov takes a wry attitude at this moment, weaving "otlichno" ("perfect, great") together with "togda" ("back then") just the way native speakers do.

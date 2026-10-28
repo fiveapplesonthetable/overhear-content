@@ -7,7 +7,7 @@ SCENE = 10
 TITLE = 'Вторая порция рулетиков  (A Second Helping of Rolls)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'max': 'Макс'}
+LABELS = {'fedya': 'Федя', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
 SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 INTRO = 'Furious that Senya and Fedya kidnapped a reporter, Nagiyev heads out with them to fix the mess before the police get involved. Meanwhile in the kitchen, Nastya tells Max that the vegetarian guest loved the morning dish so much he ordered a second helping.'
@@ -17,31 +17,31 @@ OUTRO = 'That wraps up this scene as nagiyev goes out with Senya and Fedya to de
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Дмитрий Владимирович.', 'Dmitry Vladimirovich.', [(152, 'Дмитрий Владимирович')], ''),
-    ('barinov', 'Нет, нет.', 'No, no.', [(153, 'Нет, нет')], ''),
+    ('nagiyev', 'Нет, нет.', 'No, no.', [(153, 'Нет, нет')], ''),
     ('fedya', 'Вместе поедем.', 'We will go together.', [(154, 'Вместе поедем')], ''),
     ('max', 'А мне потом отвечать.', 'And I will be the one held responsible later.', [(154, 'а мне потом отвечать')], ''),
-    ('barinov', 'Ну, вегетарианец.', 'Well, it is the vegetarian.', [(156, 'Ну, вегетарианец')], ''),
+    ('nagiyev', 'Ну, вегетарианец.', 'Well, it is the vegetarian.', [(156, 'Ну, вегетарианец')], ''),
     ('fedya', 'Заказал такие же рулетики, как в прошлый раз.', 'He ordered the exact same rolls as last time.', [(156, 'Заказал такие же рулетики, как в прошлый раз')], ''),
     ('max', 'Вегетарианец. Заказал такие же рулетики.', 'The vegetarian. He ordered the exact same rolls.', [(156, 'вегетарианец. Заказал такие же рулетики')], ''),
-    ('barinov', 'Так что заказ на тебе.', 'So this order is on you.', [(157, 'Так что заказ на тебе')], ''),
+    ('nagiyev', 'Так что заказ на тебе.', 'So this order is on you.', [(157, 'Так что заказ на тебе')], ''),
     ('fedya', 'Нормальное вегетарианское блюдо получится.', 'It will turn out to be a proper vegetarian dish.', [(159, 'Нормальное вегетарианское блюдо получится')], ''),
     ('max', 'Хватит человека бесплатно мясом кормить.', 'Stop feeding the man meat for free.', [(161, 'Хватит человека бесплатно мясом кормить')], ''),
-    ('barinov', 'Нет, я сам очень есть хочу.', 'No, I am very hungry myself.', [(162, 'я сам'), (162, 'хочу')], 'adapted'),
+    ('nagiyev', 'Нет, я сам очень есть хочу.', 'No, I am very hungry myself.', [(162, 'я сам'), (162, 'хочу')], 'adapted'),
     ('fedya', 'Ну ладно, ладно.', 'Oh, alright, alright.', [(163, 'Ну ладно, ладно')], ''),
     ('max', 'На, комплимент от шефа.', 'Here, compliments of the chef.', [(164, 'На, комплимент от шефа')], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry Vladimirovich.' Between the deal and the kitchen, Max gives Barinov a quick, grounded response."),
-    (1, None, "'No, no.' With the deal and dish in play, Barinov keeps this short reply brisk and direct."),
-    (2, None, "'We will go together.' Saying that they will go together is how Fedya sets the tone with Barinov."),
-    (3, None, "'And I will be the one held responsible later.' Once he will be the one held responsible later, Max can finally tell Barinov what he means."),
-    (4, None, "'Well, it is the vegetarian.' Adding that it is the vegetarian fills in the missing piece for Fedya."),
-    (5, None, "'He ordered the exact same rolls as last time.' Between the guest and the deal, Fedya gives Barinov a quick, grounded response."),
-    (6, None, "'The vegetarian. He ordered the exact same rolls.' With the guest and kitchen in play, Max keeps this short reply brisk and direct."),
-    (7, None, '\'So this order is on you.\' Mentioning that this order is on Fedya moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, "'It will turn out to be a proper vegetarian dish.' Fedya reminds Barinov that it will turn out to be a proper vegetarian dish before the moment passes."),
-    (9, None, "'Stop feeding the man meat for free.' Adding that Barinov should stop feeding the man meat for free fills in the missing piece for Barinov."),
-    (10, None, "'No, I am very hungry myself.' Being very hungry himself is how Barinov lays out the situation for Fedya."),
-    (11, None, "'Oh, alright, alright.' With the police and deal in play, Fedya keeps this short reply brisk and direct."),
-    (12, None, "'Here, compliments of the chef.' Around the police and guest, Max sets a calm, everyday tone with Barinov."),
+    (0, None, '\'Dmitry Vladimirovich.\' Max maintains a candid mood in their talk, building the phrase around "dmitriy" ("Dmitry") and "vladimirovich" ("Vladimirovich") for a crisp, natural delivery.'),
+    (1, None, '\'No, no.\' Nagiyev offers a resolute bearing in the room, leaning on "net" ("no") as a compact, one-word response that needs no extra words.'),
+    (2, None, '\'We will go together.\' Fedya takes an honest angle in the scene, joining "vmeste" ("together") to "poyedem" ("will be off") so every word pulls its weight.'),
+    (3, None, '\'And I will be the one held responsible later.\' Max sustains an earnest direction in this beat, building the phrase around "potom" ("then") and "otvechat" ("to answer") for a crisp, natural delivery.'),
+    (4, None, '\'Well, it is the vegetarian.\' Nagiyev takes a grounded position at this moment, joining "vegetarianets" ("vegetarian") to "nu" ("oh, come on") so every word pulls its weight.'),
+    (5, None, '\'He ordered the exact same rolls as last time.\' Fedya shares a resolute line at this moment, combining "zakazal" ("ordered") and "ruletiki" ("little roll") so the key meaning lands right away.'),
+    (6, None, '\'The vegetarian. He ordered the exact same rolls.\' Max takes an earnest course in this beat, leaning on "vegetarianets" ("vegetarian") before closing the thought with "zakazal" ("ordered").'),
+    (7, None, '\'So this order is on you.\' Nagiyev keeps a wry tempo at once, putting "zakaz" ("order") alongside "tak" ("so") in a tight, everyday turn of phrase.'),
+    (8, None, '\'It will turn out to be a proper vegetarian dish.\' Fedya sets a playful view without hesitation, putting "normalnoye" ("normal") alongside "vegetarianskoye" ("vegetarian") in a tight, everyday turn of phrase.'),
+    (9, None, '\'Stop feeding the man meat for free.\' Max shows a brisk position in front of Nagiyev, combining "khvatit" ("enough") and "cheloveka" ("a man, a person") so the key meaning lands right away.'),
+    (10, None, '\'No, I am very hungry myself.\' Nagiyev adopts a natural line in this beat, combining "ochen" ("very much") and "yest" ("there is") so the key meaning lands right away.'),
+    (11, None, '\'Oh, alright, alright.\' Fedya keeps a lively bearing for Nagiyev, weaving "nu" ("oh, come on") together with "ladno" ("all right") just the way native speakers do.'),
+    (12, None, '\'Here, compliments of the chef.\' Max maintains a natural tone during the exchange, linking "kompliment" ("complimentary gift"), "shefa" ("chef"), and "na" ("on, onto") in one brisk exchange.'),
 ]

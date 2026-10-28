@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Так, кто тут Лавров? | All right, which one of you is Lavrov? | #228: Так, кто тут Лавров | verbatim |
 | 2 | Шеф | Костян, погоди. | Kostyan, hold on a second. | #228: Костян, погоди | verbatim |
-| 3 | Костя | Кто тут Лавров? Костян? | Who here is Lavrov? Kostyan? | #228: кто тут Лавров? Костян | verbatim |
+| 3 | Макс | Кто тут Лавров? Костян? | Who here is Lavrov? Kostyan? | #228: кто тут Лавров? Костян | verbatim |
 | 4 | Макс | А вам зачем? | Why do you need him? | #229: А вам зачем | verbatim |
 | 5 | Шеф | Извините, а обязательно идти? | Excuse me, do I really have to go? | #230: Извините, а обязательно идти | verbatim |
 | 6 | Костя | Хотите, можем тут при всех сделать. | If you prefer, we can do the procedure right here in front of everyone. | #231: Хотите, можем тут при всех сделать | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, which one of you is Lavrov?' Max asks whether all right which one of Barinov is Lavrov, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Kostyan, hold on a second.' Over the shift and the call, Barinov answers Kostya without a second thought.
-- 'Who here is Lavrov? Kostyan?' Wondering if who here is Lavrov shows Kostya caught off guard.
-- 'Why do you need him?' Asking why Barinov needs him is how Max puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Excuse me, do I really have to go?' Here asking whether he really has to go shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'If you prefer, we can do the procedure right here in front of everyone.' Once if Barinov prefers they can do the procedure right here in front of everyone, Kostya can finally tell Barinov what he means.
-- 'Hello, Kostyan, I have to go right now.' Adding that someone he has to go right now fills in the missing piece for Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Everything happens for a reason.' Barinov tells Kostya that everything happens for a reason without dressing it up.
-- 'Thanks to Vyacheslav Malafeev.' With the moment and restaurant in play, Kostya keeps this short reply brisk and direct.
-- 'Lyova, do you understand what is going on?' By asking whether Barinov understands what is going, Max presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He ate everything that I prepared.' Barinov reminds Kostya that he ate everything that he prepared before the moment passes.
-- 'I want to confess.' Wanting to confess moves the conversation forward without extra drama.
-- 'It was normal food, but I had a reason for doing it.' Explaining that it was normal food but he had a reason for doing it lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'All right, which one of you is Lavrov?' Max probes decisively to keep things clear, pairing "tut" ("here") with "tak" ("so") to get the point across in plain spoken Russian.
+- 'Kostyan, hold on a second.' Barinov picks an honest approach beside Max, putting "pogodi" ("wait") alongside "kostyan" ("Kostyan") in a tight, everyday turn of phrase.
+- 'Who here is Lavrov? Kostyan?' Max queries lightly in the room, joining "tut" ("here") to "kto" ("who") so every word pulls its weight.
+- 'Why do you need him?' Max questions openly to make the point, weaving "zachem" ("what for") together with "vam" ("you") just the way native speakers do.
+- 'Excuse me, do I really have to go?' Barinov quizzes quietly in front of Kostya, linking "izvinite" ("sorry, excuse me"), "obyazatelno" ("surely, without fail"), and "idti" ("to go") in one brisk exchange.
+- 'If you prefer, we can do the procedure right here in front of everyone.' Kostya keeps a lively angle in this beat, using "khotite" (from "khotet", "want") alongside "mozhem" ("can") to shape the meaning.
+- 'Hello, Kostyan, I have to go right now.' Max keeps a steady position in this beat, linking "tut" ("here"), "nuzhno" ("necessary"), and "poyti" ("go") in one brisk exchange.
+- 'Everything happens for a reason.' Barinov presents an earnest tack at this moment, using "delayetsya" (from "delat", "is made, is done") alongside "chto" ("what") to shape the meaning.
+- 'Thanks to Vyacheslav Malafeev.' Kostya conveys a grounded footing straight away, weaving "blagodarya" ("thanks to") together with "vyacheslavu" ("Vyacheslav") just the way native speakers do.
+- 'Lyova, do you understand what is going on?' Max quizzes briskly across the room, putting "ponimayesh" ("do you understand") alongside "delo" ("matter") in a tight, everyday turn of phrase.
+- 'He ate everything that I prepared.' Barinov displays a candid stance on the spot, leaning on "syel" ("ate") before closing the thought with "prigotovil" ("cooked").
+- 'I want to confess.' Kostya shares a brisk note in this beat, building the phrase around "khochu" ("want") and "priznatsya" ("to admit") for a crisp, natural delivery.
+- 'It was normal food, but I had a reason for doing it.' Max adopts an honest direction at once, combining "normalnoye" ("normal") and "byla" ("was") so the key meaning lands right away.

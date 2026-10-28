@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, forgive me, Chef, I ruined your suit.' With the shift and suit in play, Ainura keeps this short reply brisk and direct. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Did you really ruin it just now?' Checking whether Ainura really ruin it just now is how Barinov puts Ainura on the spot.
-- 'Now you definitely ruined it, thank you, Ainura.' Over the shift and the suit, Barinov answers Ainura without a second thought.
-- 'Lena, well how can I go to respectable people looking like this?' Asking whether someone well how can he goes to respectable people looking like this puts Ainura right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, looking like that, definitely nowhere.' Around the shift and suit, Elena sets a calm, everyday tone with Ainura.
-- 'That is just what I am telling you about.' Pointing out that that is just what he is telling Ainura gives Ainura a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fortunately, where we are going, you will not need a suit.' Elena explains that where they are going Ainura will not need a suit, keeping her voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Lena, I feel like a complete idiot.' Realizing that someone he feels like a complete idiot changes how Barinov handles the situation.
-- 'And what is more, an idiot who dressed so strangely.' Noting that what is more an idiot who dressed so strangely keeps Barinov's side of the story simple and clear.
-- 'Stop it, everyone is dressed like that here, and you have slender legs.' Explaining that Ainura should stop it everyone is dressed like that here and Ainura has slender legs lays the cards on the table for Ainura. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'May I go to the restroom first?' Questioning whether may he goes to the restroom first is how Barinov tests Ainura's story.
-- 'Of course you may, just make it quick.' Saying that Ainura may just make it quick is how Elena sets the tone with Ainura. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Oh, forgive me, Chef, I ruined your suit.' Ainura maintains an earnest position in the room, leaning on "prostite" ("excuse me") before closing the thought with "isportila" ("ruined, spoiled").
+- 'Did you really ruin it just now?' Barinov questions dryly in this moment, building the phrase around "seychas" ("now") and "isportila" ("ruined, spoiled") for a crisp, natural delivery.
+- 'Now you definitely ruined it, thank you, Ainura.' Barinov shows a calm position in this beat, putting "teper" ("now") alongside "tochno" ("definitely") in a tight, everyday turn of phrase.
+- 'Lena, well how can I go to respectable people looking like this?' Barinov questions firmly with Elena now, combining "kuda" ("where to") and "prilichnym" ("decent, respectable") so the key meaning lands right away.
+- 'Yes, looking like that, definitely nowhere.' Elena brings a natural footing at this moment, leaning on "vide" ("state") before closing the thought with "tochno" ("definitely").
+- 'That is just what I am telling you about.' Barinov displays a resolute course in the scene, putting "govoryu" ("am telling") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
+- 'Fortunately, where we are going, you will not need a suit.' Elena shares a serious stance in this beat, weaving "schastyu" ("happiness, good fortune") together with "tam" ("there") just the way native speakers do.
+- 'Lena, I feel like a complete idiot.' Barinov takes a grounded line in front of Elena, weaving "chuvstvuyu" ("feel") together with "polnym" ("full, complete") just the way native speakers do.
+- 'And what is more, an idiot who dressed so strangely.' Barinov strikes a wry rhythm during the exchange, linking "idiotom" ("idiot"), "stranno" ("strange"), and "odelsya" ("dressed") in one brisk exchange.
+- 'Stop it, everyone is dressed like that here, and you have slender legs.' Elena takes a steady note at this moment, leaning on "perestan" ("stop") before closing the thought with "zdes" ("here").
+- 'May I go to the restroom first?' Barinov checks dryly during the talk, linking "mogu" ("can"), "snachala" ("first, at first"), and "skhodit" ("to go") in one brisk exchange.
+- 'Of course you may, just make it quick.' Elena presents a natural course toward Barinov, anchoring the Russian line on "konechno" ("of course") and "mozhesh" ("can") without extra filler.

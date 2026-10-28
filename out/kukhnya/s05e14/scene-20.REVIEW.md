@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, you do everything for my own good, right?' Asking whether Mom Barinov does everything for her own good right puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, if you offered money to our cook Maxim...' With the conversation and anniversary in play, Katya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Does that mean you could have offered it to Denis earlier too?' Asking whether that mean Barinov could have offered it to Denis earlier is how Katya puts Barinov on the spot.
-- 'Tell me honestly, did Denis take the money back then?' Asking whether tell her honestly did Denis take the money back then puts Barinov right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In life we all look for a compromise one way or another.' Over the conversation and the anniversary, Barinov answers Elena without a second thought.
-- 'In a relationship between a man and a woman, compromise is very important.' Noting that in a relationship between a man and a woman compromise is very important keeps Barinov's side of the story simple and clear.
-- 'It carefully keeps our love afloat.' Even though it carefully keeps their love afloat, Barinov keeps a steady face in front of Elena.
-- 'Forgive me that we celebrated our anniversary so absurdly.' With the work and anniversary in play, Barinov keeps this short reply brisk and direct.
-- 'You know, I actually enjoyed this evening!' Around the anniversary and truth, Elena makes her point loud and clear.
-- 'Really? Then we will have to repeat it next year!' Barinov asks whether then they will have to repeat it next year, refusing to let the point slide. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Let this be our good, kind tradition.' Even though Barinov should let this be their good kind tradition, Elena keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Happy anniversary to you, my beloved Lenochka!' Over the shift and the anniversary, Barinov lets his real feelings show.
+- 'Mom, you do everything for my own good, right?' Katya questions quietly on the spot, combining "mama" ("mum, mother") and "delayesh" ("are you doing") so the key meaning lands right away.
+- 'Wait, if you offered money to our cook Maxim...' Katya picks a steady mood across the room, putting "podozhdi" ("wait") alongside "predlagala" ("offered") in a tight, everyday turn of phrase.
+- 'Does that mean you could have offered it to Denis earlier too?' Katya prompts calmly to keep things clear, combining "znachit" ("then, so") and "ranshe" ("earlier, previously") so the key meaning lands right away.
+- 'Tell me honestly, did Denis take the money back then?' Katya asks lightly without holding back, pairing "skazhi" ("say") with "chestno" ("honestly") to get the point across in plain spoken Russian.
+- 'In life we all look for a compromise one way or another.' Barinov keeps a serious rhythm across the room, joining "zhizni" ("life") to "inache" ("otherwise") so every word pulls its weight.
+- 'In a relationship between a man and a woman, compromise is very important.' Barinov maintains an earnest view in the room, joining "otnosheniyakh" ("relationships") to "muzhchinoy" ("man") so every word pulls its weight.
+- 'It carefully keeps our love afloat.' Barinov takes a warm line as they talk, building the phrase around "berezhno" ("carefully, with care") and "derzhit" ("keeps") for a crisp, natural delivery.
+- 'Forgive me that we celebrated our anniversary so absurdly.' Barinov picks an unhurried tone toward Katya, anchoring the Russian line on "prosti" ("sorry, forgive me") and "nelepo" ("absurdly, awkwardly") without extra filler.
+- 'You know, I actually enjoyed this evening!' Elena picks an earnest style right away, building the phrase around "znayesh" ("know") and "ponravilsya" ("was liked, pleased") for a crisp, natural delivery.
+- 'Really? Then we will have to repeat it next year!' Barinov prompts directly to keep things clear, pairing "pravda" ("honestly") with "togda" ("back then") to get the point across in plain spoken Russian.
+- 'Let this be our good, kind tradition.' Elena adopts a sharp style beside Barinov, putting "budet" ("will be") alongside "khoroshey" ("good") in a tight, everyday turn of phrase.
+- 'Happy anniversary to you, my beloved Lenochka!' Barinov holds a firm manner during the exchange, linking "godovshchinoy" ("anniversary"), "lyubimaya" ("favourite, beloved"), and "lenochka" ("lenochka") in one brisk exchange.

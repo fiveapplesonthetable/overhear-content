@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, I do not really feel like it.' Adding that he does not really feel like it fills in the missing piece for Barinov.
-- 'I am just not in the mood.' Being just not in the mood is how Barinov lays out the situation for Max.
-- 'I am very tired.' Adding that she is very tired fills in the missing piece for Barinov.
-- 'I am going to head home.' Being going to head home is how Max lays out the situation for Barinov.
-- 'Viktoriya Sergeyevna, you are the main star of tonight's evening.' Saying that Viktoriya Sergeyevna Max is the main star of tonight evening is how Barinov sets the tone with Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'This whole party was arranged solely for you.' Because this whole party was arranged solely for Barinov, Vika treats the matter as settled.
-- 'No, you are not going anywhere tonight.' Explaining that Barinov is not going anywhere tonight lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Can I have a word with you for a minute? Yes?' By checking whether he has a word with Max for a minute, Barinov presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What do you think you are doing?' By asking what Barinov thinks Barinov is doing, Vika presses Barinov for a straight answer.
-- 'What are you talking about?' Wondering what Barinov talking is is how Max puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Keep your hands off Vika, got it?' Questioning whether keep Max's hands off Vika got it is how Barinov tests Max's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What business is it of yours?' Vika asks whether what business is it, refusing to let the point slide.
-- 'She is mine.' Between the moment and the point, Max gives Barinov a quick, grounded response.
+- 'No, I do not really feel like it.' Max sets an easygoing mood as they talk, using "khochetsya" (from "khotetsya", "want, feel like") alongside "da" ("yes") to shape the meaning.
+- 'I am just not in the mood.' Barinov brings a grounded angle during the exchange, leaning on "nastroyeniya" ("mood") before closing the thought with "da" ("yes").
+- 'I am very tired.' Vika holds a firm posture for Barinov, linking "ochen" ("very much"), "ustala" ("are tired, got tired"), and "ya" ("I") in one brisk exchange.
+- 'I am going to head home.' Max offers a natural stance at once, weaving "poyedu" ("will go") together with "domoy" ("home") just the way native speakers do.
+- 'Viktoriya Sergeyevna, you are the main star of tonight's evening.' Barinov takes a warm rhythm in their talk, building the phrase around "glavnaya" ("main") and "zvezda" ("a star") for a crisp, natural delivery.
+- 'This whole party was arranged solely for you.' Vika shows a candid approach straight away, pairing "vecherinka" ("party") with "ustroyena" ("arranged") to get the point across in plain spoken Russian.
+- 'No, you are not going anywhere tonight.' Max strikes a wry tack beside Barinov, putting "segodnya" ("today") alongside "nikuda" ("nowhere, anywhere") in a tight, everyday turn of phrase.
+- 'Can I have a word with you for a minute? Yes?' Barinov wonders honestly on the spot, putting "smozhesh" ("will you be able") alongside "minutku" ("a minute") in a tight, everyday turn of phrase.
+- 'What do you think you are doing?' Vika inquires calmly across the room, building the phrase around "tvorish" ("are doing, creating") and "ty" ("you") for a crisp, natural delivery.
+- 'What are you talking about?' Max prompts earnestly to keep things clear, building the phrase around "da" ("yes") and "chem" ("than") for a crisp, natural delivery.
+- 'Keep your hands off Vika, got it?' Barinov quizzes candidly at this point, combining "trogay" ("touch") and "ponyal" ("understood") so the key meaning lands right away.
+- 'What business is it of yours?' Vika inquires quietly toward Max here, leaning on "delo" ("matter") before closing the thought with "tebe-to" ("to you").
+- 'She is mine.' Max displays a firm note during the exchange, combining "ona" ("it") and "moya" ("my") so the key meaning lands right away.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is my tartare?' Here wondering where her tartare is shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The boy went out first.' Nagiyev tells Vika that the boy went out first without dressing it up.
-- 'No panic, we keep working.' With the kitchen and truth in play, Vika keeps this short reply brisk and direct.
-- 'All right, come over here, you are going to help me.' Mentioning that all right come over here Vika is going to help him moves the talk in a new direction.
-- 'No, I wash the dishes.' Vika mentions that she washes the dishes so Nagiyev sees what is at stake.
-- 'You are going to help me. No.' Because Vika is going to help him, Nagiyev treats the matter as settled.
-- 'You are just in time, we are swamped with orders.' Explaining that Nagiyev is just in time they are swamped with orders lays the cards on the table for Nagiyev. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Wait, where is everybody?' Wondering where everybody is is how Nagiyev puts Vika on the spot.
-- 'I do not know.' Claiming that she does not know sounds confident, even if Nagiyev has doubts.
-- 'All right, let us roll.' Pointing out that all right let them roll gives Vika a sobering reality check.
-- 'You take the cold sauces, I am on the hot soups.' Vika explains that Nagiyev takes the cold sauces she is on the hot soups, keeping her voice calm and direct.
-- 'Okay, pepper.' Between the room and the work, Nagiyev gives Vika a quick, grounded response.
-- 'What a crazy rush that was.' Noting that what a crazy rush that was keeps Vika's side of the story simple and clear.
+- 'Where is my tartare?' Vika probes decisively without holding back, building the phrase around "gde" ("where") and "tartar" ("tartare") for a crisp, natural delivery.
+- 'The boy went out first.' Nagiyev conveys an emphatic rhythm in this beat, linking "malchik" ("boy"), "pervyy" ("first"), and "vyshel" ("stepped out") in one brisk exchange.
+- 'No panic, we keep working.' Vika keeps a natural view as they talk, using "paniki" (from "panika", "panic") alongside "prodolzhayem" ("we continue") to shape the meaning.
+- 'All right, come over here, you are going to help me.' Nagiyev sets an easygoing angle beside Vika, anchoring the Russian line on "idi" ("go") and "syuda" ("here") without extra filler.
+- 'No, I wash the dishes.' Vika offers a thoughtful view during the exchange, weaving "posudu" ("the dishes") together with "ne" ("not") just the way native speakers do.
+- 'You are going to help me. No.' Nagiyev strikes an unhurried position in the scene, linking "budesh" ("will"), "pomogat" ("to help"), and "mne" ("to me") in one brisk exchange.
+- 'You are just in time, we are swamped with orders.' Vika presents a warm angle in front of Nagiyev, combining "kak" ("how") and "raz" ("time, once") so the key meaning lands right away.
+- 'Wait, where is everybody?' Nagiyev quizzes dryly in front of Vika, building the phrase around "gde" ("where") and "vse" ("all") for a crisp, natural delivery.
+- 'I do not know.' Vika takes a thoughtful attitude in their talk, using "znayu" (from "znat", "know") alongside "ne" ("not") to shape the meaning.
+- 'All right, let us roll.' Nagiyev keeps a warm posture in their talk, pairing "poyekhali" ("here we go") with "tak" ("so") to get the point across in plain spoken Russian.
+- 'You take the cold sauces, I am on the hot soups.' Vika chooses a calm tone with Nagiyev, pairing "kholodnom" ("cold, chilly") with "sousakh" ("sauce, gravy") to get the point across in plain spoken Russian.
+- 'Okay, pepper.' Nagiyev keeps a direct posture toward Vika, pairing "perets" ("pepper") with "tak" ("so") to get the point across in plain spoken Russian.
+- 'What a crazy rush that was.' Vika chooses a thoughtful line without hesitation, linking "zapara" ("rush, mess"), "byla" ("was"), and "takaya" ("one like her") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did they not teach you to watch your step?' By asking whether they not teach Katya to watch Katya's step, Gulya presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Are you worked up again?' Checking whether Gulya worked up again cuts straight through the tension between Senya and Gulya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I got worked up? She kicked my bucket on purpose!' Questioning whether she got worked up is how Gulya tests Katya's story.
-- 'Just leave her alone already!' Between the situation and the moment, Senya delivers a sharp reaction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There is nothing and never was anything between Katya and me.' Because there is nothing and never was anything between Katya and him, Senya treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And never will be!' Once never will be, Gulya makes sure Katya hears every word.
-- 'Of course there never will be.' Senya mentions that there never will be so Gulya sees what is at stake.
-- 'Why did you not say right away: there was not, is not, and will not be?' Here wondering why Katya not say right away there was not is not and will not be shows Gulya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why do I have to say this for you?' By asking why she has to say this for Katya, Gulya presses Katya for a straight answer.
-- 'Or maybe you still want her after all?' With the kitchen and point hanging in the air, Gulya puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why do you keep repeating that!' Because why do Gulya keeps repeating, Senya does not bother softening the blow for Gulya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Crazy fool!' With the kitchen and situation at stake, Katya reacts without holding back.
+- 'Did they not teach you to watch your step?' Gulya wonders evenly as they speak, leaning on "nogi" ("legs") before closing the thought with "smotret" ("to watch").
+- 'Are you worked up again?' Senya challenges quietly in their exchange, joining "opyat" ("again") to "zavelas" ("got worked up") so every word pulls its weight.
+- 'I got worked up? She kicked my bucket on purpose!' Gulya tests briskly during the talk, building the phrase around "zavelas" ("got worked up") and "spetsialno" ("on purpose") for a crisp, natural delivery.
+- 'Just leave her alone already!' Senya conveys a warm direction for Katya, weaving "otstan" ("leave alone") together with "uzhe" ("already, now") just the way native speakers do.
+- 'There is nothing and never was anything between Katya and me.' Senya keeps a firm stance beside Gulya, doubling the negative with "ne" ("not") and "bylo" ("was"), which is standard and required in Russian.
+- 'And never will be!' Gulya favors an honest rhythm during the exchange, leaning on "budet" ("will be") before closing the thought with "ne" ("not").
+- 'Of course there never will be.' Senya favors a clear rhythm for Gulya, linking "konechno" ("of course"), "budet" ("will be"), and "da" ("yes") in one brisk exchange.
+- 'Why did you not say right away: there was not, is not, and will not be?' Gulya checks quietly at this point, joining "pochemu" ("why") to "srazu" ("at once") so every word pulls its weight.
+- 'Why do I have to say this for you?' Gulya wonders dryly during the talk, anchoring the Russian line on "pochemu" ("why") and "dolzhna" ("should, must") without extra filler.
+- 'Or maybe you still want her after all?' Gulya questions dryly without hesitation, pairing "mozhet" ("can") with "khochesh" ("do you want") to get the point across in plain spoken Russian.
+- 'Why do you keep repeating that!' Senya chooses a brisk tack as they talk, pairing "zaladila" ("keep repeating") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'Crazy fool!' Katya takes a calm note as the scene unfolds, joining "dura" ("fool") to "nenormalnaya" ("crazy, abnormal") so every word pulls its weight.

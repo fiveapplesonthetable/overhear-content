@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is it, both of you calm down quickly.' Noting that that is it both of Kristina calms down quickly keeps Barinov's side of the story simple and clear.
-- 'I have already understood everything perfectly.' Saying that he has already understood everything perfectly is how Barinov sets the tone with Kristina.
-- 'Wait, what exactly did you understand?' When Nagiyev asks if what exactly did Barinov understands, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, I will not be at the event tomorrow.' Saying that she will not be at the event tomorrow is how Kristina sets the tone with Barinov.
-- 'Please watch over everything yourself.' Watching over everything themselves is how Kristina lays out the situation for Barinov.
-- 'So that everything is at the highest level.' Adding that that everything is at the highest level fills in the missing piece for Barinov.
-- 'Well that is all, take the advance payment quickly.' Saying that that is all take the advance payment quickly is how Kristina sets the tone with Barinov.
-- 'Alright, everything will be fine with us.' Since Alright everything will be fine with them, Barinov does not waste words on excuses.
-- 'Why did she leave so pleased?' By asking why she leave so pleased, Nagiyev presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Who understands her there at all?' Asking whether who understands her there at all puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tomorrow will be my friend's anniversary.' Because tomorrow will be his friend anniversary, Nagiyev treats the matter as settled.
-- 'I want not to be nervous tomorrow.' Adding that he wants not to be nervous tomorrow fills in the missing piece for Barinov.
+- 'That is it, both of you calm down quickly.' Barinov brings a calm tempo toward Kristina, pairing "uspokoilis" ("have calmed down") with "bystro" ("quickly") so the "-sya" ending carries the action.
+- 'I have already understood everything perfectly.' Barinov shows a frank tempo without hesitation, joining "uzhe" ("already, now") to "prekrasno" ("perfectly") so every word pulls its weight.
+- 'Wait, what exactly did you understand?' Nagiyev tests evenly in this moment, weaving "podozhdi" ("wait") together with "ponyal" ("understood") just the way native speakers do.
+- 'Vitya, I will not be at the event tomorrow.' Kristina picks a candid course at once, putting "zavtra" ("tomorrow") alongside "meropriyatii" ("event") in a tight, everyday turn of phrase.
+- 'Please watch over everything yourself.' Kristina strikes an emphatic view toward Barinov, building the phrase around "prosledi" ("keep watch") and "ty" ("you") for a crisp, natural delivery.
+- 'So that everything is at the highest level.' Kristina picks a pointed rhythm straight away, combining "bylo" ("was") and "vysshem" ("highest, supreme") so the key meaning lands right away.
+- 'Well that is all, take the advance payment quickly.' Kristina adopts a warm posture across the room, combining "beri" ("take, grab") and "skoreye" ("quickly, right away") so the key meaning lands right away.
+- 'Alright, everything will be fine with us.' Barinov shows a lively angle across the room, linking "khorosho" ("good, fine"), "budet" ("will be"), and "normalno" ("fine, OK") in one brisk exchange.
+- 'Why did she leave so pleased?' Nagiyev questions steadily from the start, combining "pochemu" ("why") and "ushla" ("left, walked out") so the key meaning lands right away.
+- 'Who understands her there at all?' Nagiyev challenges pointedly as the talk turns, pairing "voobshche" ("at all") with "tam" ("there") to get the point across in plain spoken Russian.
+- 'Tomorrow will be my friend's anniversary.' Nagiyev displays a frank course with Barinov, anchoring the Russian line on "zavtra" ("tomorrow") and "budet" ("will be") without extra filler.
+- 'I want not to be nervous tomorrow.' Nagiyev maintains a frank posture at once, anchoring the Russian line on "khochu" ("want") and "zavtra" ("tomorrow") without extra filler.

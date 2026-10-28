@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, look, what is this?' Around the police and moment, Lyova wants to know where Barinov really stands. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Stay calm, Lyova, it seems this is it.' By telling Lyova to stay calm Lyova it seems this is it, Barinov keeps his side of the story grounded.
-- 'Do you remember where our fish is from?' Checking whether Lyova remembers where their fish is is how Barinov puts Lyova on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Our fish is from Yakutia.' Even though their fish is from Yakutia, Lyova keeps a steady face in front of Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And what do we have in Yakutia?' By asking what they have in Yakutia, Barinov presses Lyova for a straight answer.
-- 'That's right, they mine real diamonds there!' Once that is right they his real diamonds there, Barinov makes sure Lyova hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Chef, could this really be contraband?' Asking whether this really be contraband is how Lyova puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Maybe we should call the police?' Questioning whether maybe they should call the police is how Lyova tests Barinov's story.
-- 'Hello, Timur, this is Viktor Petrovich!' Saying that this is Viktor Petrovich is how Barinov takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do you remember I took a fish this morning?' Asking whether Lyova remembers he took a fish this morning cuts straight through the tension between Barinov and Lyova. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Do you still have any of this fish left?' Checking whether Lyova still have any of this fish left is how Barinov puts Lyova on the spot.
-- 'Bring absolutely all the fish over here!' Bringing absolutely all the fish over here is Barinov's blunt reaction in front of Lyova. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Yes, I liked the fish very much!' Once he liked the fish very much, Barinov makes sure Lyova hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Chef, look, what is this?' Lyova prompts frankly in the scene, using "posmotrite" (from "posmotret", "look") alongside "shef" ("Chef") to shape the meaning.
+- 'Stay calm, Lyova, it seems this is it.' Barinov projects a lively tempo straight away, leaning on "spokoyno" ("calmly") before closing the thought with "kazhetsya" ("it seems, I think").
+- 'Do you remember where our fish is from?' Barinov inquires pointedly without hesitation, linking "pomnish" ("do you remember"), "otkuda" ("where from"), and "ryba" ("fish") in one brisk exchange.
+- 'Our fish is from Yakutia.' Lyova presents an easygoing posture in the conversation, linking "ryba" ("fish") directly with "yakutii" ("morning"), since Russian drops "is" and "are" in the present.
+- 'And what do we have in Yakutia?' Barinov questions bluntly at this point, anchoring the Russian line on "yakutii" ("morning") and "nas" ("us") without extra filler.
+- 'That's right, they mine real diamonds there!' Barinov brings an easygoing note at this moment, joining "pravilno" ("right") to "tam" ("there") so every word pulls its weight.
+- 'Chef, could this really be contraband?' Lyova wonders warmly across the room, pairing "kontrabanda" ("contraband") with "shef" ("Chef") to get the point across in plain spoken Russian.
+- 'Maybe we should call the police?' Lyova tests promptly without holding back, pairing "mozhet" ("can") with "politsiyu" ("the police") to get the point across in plain spoken Russian.
+- 'Hello, Timur, this is Viktor Petrovich!' Barinov shows an unhurried line beside Lyova, placing "allo" ("hello") straight beside "timur" ("Timur") with no word for "to be" needed.
+- 'Do you remember I took a fish this morning?' Barinov queries calmly on the spot, joining "pomnish" ("do you remember") to "utrom" ("this morning") so every word pulls its weight.
+- 'Do you still have any of this fish left?' Barinov wonders earnestly in front of Lyova, combining "u tebya" (literally "by you") with "yeshchyo" ("more, still") rather than a separate word for "have".
+- 'Bring absolutely all the fish over here!' Barinov brings a frank line during the exchange, pairing "privozi" ("bring") with "syuda" ("here") to get the point across in plain spoken Russian.
+- 'Yes, I liked the fish very much!' Barinov chooses a clear direction in their talk, pairing "ryba" ("fish") with "ochen" ("very much") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Since childhood they teach us to believe in miracles.' With the kitchen and doctor in play, Max keeps this short reply brisk and direct.
-- 'Parents read us kind fairy tales in the evening.' Even though parents read them kind fairy tales in the evening, Max keeps a steady face in front of Barinov.
-- 'We believe that a miracle will definitely happen.' Claiming that they believe that a miracle will definitely happen sounds confident, even if Barinov has doubts.
-- 'Sometimes a miracle happens completely unexpectedly.' Saying that sometimes a miracle happens completely unexpectedly is how Max sets the tone with Barinov.
-- 'When it seems that the fairy tale has come to an end.' Once when it seems that the fairy tale has come to an end, Max can finally tell Barinov what he means.
-- 'Your pregnancy is progressing completely normally right now.' Adding that Barinov's pregnancy is progressing completely normally right now fills in the missing piece for Barinov.
-- 'You have no reasons for worry at all.' Saying that Barinov has no reasons for worry at all is how Vika sets the tone with Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'But if a miracle still did not happen...' Since if a miracle still did not happen, Max does not waste words on excuses.
-- 'That means you need to write your own fairy tale yourself!' Declaring that that means Barinov needs to write Barinov's own fairy tale themselves brings Max's temper right to the surface.
-- 'Chef, tell us, what is this place?' Asking whether tell them what is this place puts Barinov right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Friends, I did not call you here for nothing.' Because he did not call Max here for nothing, Barinov treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Guys, this will be our new restaurant!' Barinov declares that this will be their new restaurant as the tension in the room peaks.
+- 'Since childhood they teach us to believe in miracles.' Max takes a brisk posture in the room, joining "detstva" ("childhood") to "uchat" ("to learn, to teach") so every word pulls its weight.
+- 'Parents read us kind fairy tales in the evening.' Max chooses an easygoing attitude beside Vika, weaving "roditeli" ("parents") together with "chitayut" ("to read") just the way native speakers do.
+- 'We believe that a miracle will definitely happen.' Max presents a wry bearing in their talk, putting "verim" ("believe") alongside "chudo" ("miracle") in a tight, everyday turn of phrase.
+- 'Sometimes a miracle happens completely unexpectedly.' Max brings an honest course in the conversation, anchoring the Russian line on "inogda" ("sometimes, at times") and "chudo" ("miracle") without extra filler.
+- 'When it seems that the fairy tale has come to an end.' Max shows a resolute attitude at once, joining "kogda" ("when") to "kazhetsya" ("it seems, I think") so every word pulls its weight.
+- 'Your pregnancy is progressing completely normally right now.' Vika sets a resolute direction as they talk, leaning on "beremennost" ("pregnancy") before closing the thought with "seychas" ("now").
+- 'You have no reasons for worry at all.' Vika chooses a serious manner in front of Barinov, putting "prichin" ("reasons") alongside "volneniya" ("all") in a tight, everyday turn of phrase.
+- 'But if a miracle still did not happen...' Max displays a lively note beside Vika, anchoring the Russian line on "chudo" ("miracle") and "proizoshlo" ("happened") without extra filler.
+- 'That means you need to write your own fairy tale yourself!' Max takes a serious approach at this moment, weaving "znachit" ("then, so") together with "nuzhno" ("necessary") just the way native speakers do.
+- 'Chef, tell us, what is this place?' Max quizzes pointedly right away, using "skazhite" (from "skazat", "tell") alongside "shef" ("Chef") to shape the meaning.
+- 'Friends, I did not call you here for nothing.' Barinov displays an honest course in the room, pairing "druzya" ("friends") with "pozval" ("invited") to get the point across in plain spoken Russian.
+- 'Guys, this will be our new restaurant!' Barinov holds a playful bearing as they talk, joining "rebyata" ("the boys, the lads") to "budet" ("will be") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, since you and I are no longer friends.' Once fine since Lyova and he are no longer friends, Barinov can finally tell Lyova what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am not going down to the bottom alone.' Admitting that he is not going down to the bottom alone shows Barinov being honest for a change.
-- 'I have a copy of it.' Having a copy of it is how Barinov lays out the situation for Lyova.
-- 'You are way too lazy to have a copy.' Since Barinov is way too lazy to have a copy, Nagiyev does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Go on, beat it from here, you grand schemer.' Claiming that Barinov should go on beat it from here Barinov grand schemer sounds confident, even if Barinov has doubts. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Wait, what is burning?' By wondering what burning is, Lyova presses Barinov for a straight answer.
-- 'Go get a cloth.' Adding that Barinov should go get a cloth fills in the missing piece for Barinov.
-- 'And here I was afraid that chaos would start without me.' Explaining that here he was afraid that chaos would start without him lays the cards on the table for Lyova.
-- 'Well, now my mind is at ease.' Barinov mentions that his mind is at ease so Lyova sees what is at stake.
-- 'I will pack my things and get out of here.' Claiming that he will pack his things and get out of here sounds confident, even if Lyova has doubts.
-- 'Sorry, I will pay for everything out of my first paycheck.' Pointing out that he will pay for everything out of his first paycheck gives Barinov a sobering reality check.
-- 'What first paycheck? You are fired.' With the truth and secret hanging in the air, Lyova puts Barinov on the spot.
+- 'Fine, since you and I are no longer friends.' Barinov brings a brisk rhythm across the room, anchoring the Russian line on "raz" ("time, once") and "teper" ("now") without extra filler.
+- 'I am not going down to the bottom alone.' Barinov displays a grounded footing without hesitation, joining "dno" ("bottom") to "poydu" ("go") so every word pulls its weight.
+- 'I have a copy of it.' Barinov takes a measured tempo toward Lyova, pairing "kopiya" ("copy, photocopy") with "yest" ("there is") to get the point across in plain spoken Russian.
+- 'You are way too lazy to have a copy.' Nagiyev brings a lively footing at once, putting "lenivyy" ("lazy") alongside "kopiya" ("copy, photocopy") in a tight, everyday turn of phrase.
+- 'Go on, beat it from here, you grand schemer.' Nagiyev maintains a steady mood straight away, joining "davay" ("let's") to "cheshi" ("beat") so every word pulls its weight.
+- 'Wait, what is burning?' Lyova asks quietly in this moment, anchoring the Russian line on "gorit" ("is burning") and "chto" ("what") without extra filler.
+- 'Go get a cloth.' Lyova shows an emphatic posture with Barinov, joining "idi" ("go") to "tryapkoy" ("rag, cloth") so every word pulls its weight.
+- 'And here I was afraid that chaos would start without me.' Barinov shares a frank attitude as the scene unfolds, putting "boyalsya" ("was afraid") alongside "tut" ("here") in a tight, everyday turn of phrase.
+- 'Well, now my mind is at ease.' Barinov keeps a lively footing beside Lyova, pairing "teper" ("now") with "spokoyen" ("calm") to get the point across in plain spoken Russian.
+- 'I will pack my things and get out of here.' Barinov adopts a direct style in their talk, anchoring the Russian line on "soberu" ("I will pack") and "veshchichki" ("little thing") without extra filler.
+- 'Sorry, I will pay for everything out of my first paycheck.' Lyova keeps a frank note right away, joining "izvinite" ("sorry, excuse me") to "pervoy" ("first") so every word pulls its weight.
+- 'What first paycheck? You are fired.' Lyova presses evenly to make the point, anchoring the Russian line on "pervoy" ("first") and "zarplaty" ("salaries") without extra filler.

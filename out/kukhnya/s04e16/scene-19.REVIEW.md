@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here, friend, this is the cheapest bottle in the bar.' Realizing that here friend this is the cheapest bottle in the bar changes how Kostya handles the situation.
-- 'Tell me, Denis, what happened to you?' Around the family and conversation, Kostya wants to know where Denis really stands. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I have big problems with a certain girl.' Having big problems with a certain girl is how Denis lays out the situation for Kostya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What, did the two of you quarrel badly and break up today?' Asking what the two of Denis quarrel badly and break up today is how Kostya puts Denis on the spot.
-- 'It turned out that we had not even started dating.' Saying that it turned out that they had not even started dating is how Denis sets the tone with Kostya.
-- 'All right, let me drink a sip with you!' Once all right let him drink a sip with Denis, Kostya makes sure Denis hears every word. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Kostya, are you drinking right at work again?!' Asking whether Denis drinking right at work again cuts straight through the tension between Nastya and Denis.
-- 'Nastya, you are offending me, I did not drink!' Kostya insists that Denis is offending him he did not drink, leaving Denis no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are brazenly lying to my face again!' Saying that Denis is brazenly lying to her face again is how Nastya takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Then let our whole family be heavy drinkers!' Telling Denis to let their whole family be heavy drinkers shows Nastya is done holding back.
-- 'At the same time you will look at yourself from the outside, dear!' Because at the same time Denis will look at themselves from the outside, Nastya does not bother softening the blow for Denis. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Denis, after all, she does not know how to drink at all!' Insisting that after all she does not know how to drink at all shows Kostya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Here, friend, this is the cheapest bottle in the bar.' Kostya offers a grounded manner in the conversation, building the phrase around "derzhi" ("here you go") and "drug" ("friend") for a crisp, natural delivery.
+- 'Tell me, Denis, what happened to you?' Kostya inquires boldly to make the point, putting "rasskazyvay" ("tell") alongside "stryaslos" ("happened") in a tight, everyday turn of phrase.
+- 'I have big problems with a certain girl.' Denis shares a clear attitude in this beat, putting "bolshiye" ("big, serious") alongside "problemy" ("problems") in a tight, everyday turn of phrase.
+- 'What, did the two of you quarrel badly and break up today?' Kostya queries briskly right away, pairing "segodnya" ("today") with "silno" ("strongly, much") to get the point across in plain spoken Russian.
+- 'It turned out that we had not even started dating.' Denis sets an easygoing angle in the room, pairing "okazalos" ("turned out") with "nachinali" ("started") to get the point across in plain spoken Russian.
+- 'All right, let me drink a sip with you!' Kostya strikes a direct approach as the scene unfolds, joining "davay" ("let's") to "vypyu" ("drink") so every word pulls its weight.
+- 'Kostya, are you drinking right at work again?!' Nastya questions openly as the beat lands, combining "snova" ("again") and "pyosh" ("drink") so the key meaning lands right away.
+- 'Nastya, you are offending me, I did not drink!' Kostya holds a serious tone without hesitation, joining "obizhayesh" ("are insulting") to "pil" ("was drinking") so every word pulls its weight.
+- 'You are brazenly lying to my face again!' Nastya chooses a lively stance as they talk, weaving "opyat" ("again") together with "naglo" ("boldly, brazenly") just the way native speakers do.
+- 'Then let our whole family be heavy drinkers!' Nastya offers a direct line during the exchange, leaning on "togda" ("back then") before closing the thought with "semya" ("family").
+- 'At the same time you will look at yourself from the outside, dear!' Nastya sustains an unhurried manner at once, putting "zaodno" ("at the same time") alongside "posmotrish" ("you will see") in a tight, everyday turn of phrase.
+- 'Denis, after all, she does not know how to drink at all!' Kostya sustains a natural line beside Nastya, linking "sovsem" ("at all"), "umeyet" ("knows how to"), and "pit" ("drink") in one brisk exchange.

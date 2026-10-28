@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where am I going to get sleeping pills right now?' With the truth and car hanging in the air, Nikita puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Then let's try option number two.' Here trying option number two together sets up the next turn in their exchange.
-- 'Help, we need to call an ambulance!' Here helping they need to call an ambulance lets Nikita's real feelings break through. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'My phone is lying right over there.' Saying that his phone is lying right over there is how Nagiyev sets the tone with Katya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Then I have run out of options.' Having run out of options is how Nikita lays out the situation for Katya.
-- 'Alright then, today the salmon won.' Adding that Alright then today the salmon won fills in the missing piece for Katya.
-- 'Why did he tell me that?' Wondering why he tell him is how Nikita puts Katya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Nikita, why did you take the car keys?' Here wondering why Katya takes the car keys shows Nagiyev looking for the real truth.
-- 'Well, did it not work out yet?' By asking whether it not work out yet, Katya presses Nagiyev for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, nothing worked out yet.' Nikita reminds Katya that nothing worked out yet before the moment passes. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'You lie much better than you steal cars.' Because Nagiyev lies much better than Nagiyev steals cars, Katya treats the matter as settled.
-- 'Wait, I will definitely get the keys.' Explaining that he will definitely get the keys lays the cards on the table for Katya.
+- 'Where am I going to get sleeping pills right now?' Nikita wonders dryly on the spot, pairing "gde" ("where") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Then let's try option number two.' Nikita offers an easygoing position as the scene unfolds, pairing "togda" ("back then") with "probuyem" ("let's try, we try") to get the point across in plain spoken Russian.
+- 'Help, we need to call an ambulance!' Nikita picks a thoughtful line without hesitation, combining "pomogite" ("help") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'My phone is lying right over there.' Nagiyev adopts a brisk course at once, using the everyday "u menya" ("by me") alongside "telefon" ("phone") to show what belongs to the speaker.
+- 'Then I have run out of options.' Nikita offers an easygoing attitude straight away, leaning on "togda" ("back then") before closing the thought with "varianty" ("option, variant").
+- 'Alright then, today the salmon won.' Nagiyev holds a lively tack during the exchange, linking "segodnya" ("today"), "pobedil" ("won"), and "losos" ("salmon") in one brisk exchange.
+- 'Why did he tell me that?' Nikita challenges honestly in the room, weaving "zachem" ("what for") together with "skazal" ("said") just the way native speakers do.
+- 'Nikita, why did you take the car keys?' Nagiyev asks steadily in their exchange, pairing "zachem" ("what for") with "klyuchi" ("the keys") to get the point across in plain spoken Russian.
+- 'Well, did it not work out yet?' Katya questions decisively without a pause, joining "poka" ("bye") to "poluchilos" ("worked out") so every word pulls its weight.
+- 'Yes, nothing worked out yet.' Nikita favors a resolute bearing in front of Nagiyev, weaving "poka" ("bye") together with "vyshlo" ("happened, came about") just the way native speakers do.
+- 'You lie much better than you steal cars.' Katya strikes a brisk manner in front of Nagiyev, joining "vryosh" ("are lying") to "luchshe" ("better") so every word pulls its weight.
+- 'Wait, I will definitely get the keys.' Nikita presents an honest bearing beside Nagiyev, pairing "podozhdi" ("wait") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that on the stage just now?' Asking what that on the stage just now was is how Elena puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why did he ask me to drink up there?' Here asking why he ask her to drink up there shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Who knows with those Swedes?' Barinov asks whether who knows with those, refusing to let the point slide.
-- 'He thinks that Russians simply love to drink.' Barinov mentions that he thinks that Russians simply love to drink so Elena sees what is at stake.
-- 'At least you have the dress of your dreams!' Barinov insists that at least Elena has the dress of Elena's dreams, leaving Elena no room to argue. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I will go, I have a lot of cooking to do.' Explaining that he will go he has a lot of cooking to do lays the cards on the table for Elena.
-- 'Vitya, thank you very much for the dress.' Over the dress and the restaurant, Elena answers Barinov without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will marry you in it.' Realizing that she will marry Barinov in it changes how Elena handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well do not look at me like that!' Insisting that do not look at him like shows Barinov is not backing down.
-- 'Viktor Petrovich, the Michelin inspector has come to see you!' Once the Michelin inspector has come to see Barinov, Elena makes sure Barinov hears every word. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Hello, my name is Inspector Alexey Smolin.' Admitting that his name is inspector Alexey Smolin shows the inspector being honest for a change.
-- 'Today I am inspecting your new restaurant.' Saying that today he is inspecting Barinov's new restaurant is how the inspector sets the tone with Barinov.
+- 'What was that on the stage just now?' Elena wonders evenly to Barinov here, putting "seychas" ("now") alongside "stsene" ("the stage") in a tight, everyday turn of phrase.
+- 'Why did he ask me to drink up there?' Elena asks warmly to make the point, pairing "pochemu" ("why") with "poprosil" ("asked") to get the point across in plain spoken Russian.
+- 'Who knows with those Swedes?' Barinov tests sharply right away, anchoring the Russian line on "znayet" ("knows") and "shvedov" ("Swedes") without extra filler.
+- 'He thinks that Russians simply love to drink.' Barinov shows a lively tone at once, joining "dumayet" ("thinks") to "russkiye" ("Russian") so every word pulls its weight.
+- 'At least you have the dress of your dreams!' Barinov takes a grounded footing in the room, using "yest" (from "byt", "there is") alongside "platye" ("a dress") to shape the meaning.
+- 'I will go, I have a lot of cooking to do.' Barinov shows a measured note during the exchange, building the phrase around "poydu" ("go") and "mnogo" ("a lot") for a crisp, natural delivery.
+- 'Vitya, thank you very much for the dress.' Elena presents a natural angle in this beat, pairing "bolshoye" ("big, very much") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
+- 'I will marry you in it.' Elena holds a natural mood in front of the inspector, using "vyydu" (from "vyyti", "I'll get out") alongside "zamuzh" ("in marriage") to shape the meaning.
+- 'Well do not look at me like that!' Barinov sustains a lively approach in the room, joining "smotri" ("look") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Viktor Petrovich, the Michelin inspector has come to see you!' Elena keeps an honest course at once, linking "prishyol" ("came, have come"), "inspektor" ("inspector"), and "viktor" ("Viktor") in one brisk exchange.
+- 'Hello, my name is Inspector Alexey Smolin.' The inspector adopts a lively direction beside Barinov, joining "zdravstvuyte" ("hello") to "zovut" ("call") so every word pulls its weight.
+- 'Today I am inspecting your new restaurant.' The inspector conveys a measured note right away, combining "segodnya" ("today") and "proveryayu" ("to check, test") so the key meaning lands right away.

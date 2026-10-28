@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, go on, taste your dish boldly.' Here going on taste Max's dish boldly sets up the next turn in their exchange. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Viktor Petrovich, I invite you to evaluate the dish first.' Max explains that he invites Barinov to evaluate the dish first, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Alright, now it is your move, taste it.' Since Alright now it is Max's move taste it, Barinov does not waste words on excuses.
-- 'What great herring, prepare some like this for me.' Around the room and fish, Nagiyev sets a calm, everyday tone with Barinov.
-- 'And slice up some of this fish for me too.' Between the room and the fish, Nagiyev gives Barinov a quick, grounded response.
-- 'Nikita, did my advice about the cocoa help you?' By checking whether his advice about the cocoa help Barinov, Nagiyev presses Barinov for a straight answer.
-- 'Bring us the very best champagne.' Once Barinov should bring them the very best champagne, Nagiyev can finally tell Barinov what he means.
-- 'Naturally, on my tab, today there is a special occasion.' Nagiyev mentions that naturally on his tab today there is a special occasion so Barinov sees what is at stake.
-- 'Strange, I seem to be completely alive.' Claiming that strange he seems to be completely alive sounds confident, even if Barinov has doubts.
-- 'Of course you are alive, you did not eat your own fugu.' Pointing out that Max is alive Max did not eat Max's own fugu gives Max a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I quietly replaced your piece of fillet with mine.' With the fish and kitchen in play, Barinov keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why did you do that, Viktor Petrovich?' Asking why Barinov does that Viktor Petrovich is how Max puts Barinov on the spot.
+- 'Well, go on, taste your dish boldly.' Barinov projects a sharp direction in front of Max, pairing "davay" ("let's") with "smeleye" ("bolder, braver") to get the point across in plain spoken Russian.
+- 'Viktor Petrovich, I invite you to evaluate the dish first.' Max favors an honest approach in their talk, weaving "predlagayu" ("suggest") together with "pervym" ("first") just the way native speakers do.
+- 'Alright, now it is your move, taste it.' Barinov holds a resolute tempo as the scene unfolds, linking "khorosho" ("good, fine"), "teper" ("now"), and "khod" ("course, progress") in one brisk exchange.
+- 'What great herring, prepare some like this for me.' Nagiyev picks a calm line straight away, pairing "otlichnaya" ("excellent") with "selyodka" ("herring") to get the point across in plain spoken Russian.
+- 'And slice up some of this fish for me too.' Nagiyev adopts a lively bearing as they talk, putting "ryby" ("of fish") alongside "nastrogayte" ("slice up") in a tight, everyday turn of phrase.
+- 'Nikita, did my advice about the cocoa help you?' Nagiyev questions openly without holding back, building the phrase around "pomog" ("helped") and "sovet" ("council") for a crisp, natural delivery.
+- 'Bring us the very best champagne.' Nagiyev presents an easygoing tack as they talk, putting "prinesi" ("bring") alongside "shampanskogo" ("of champagne") in a tight, everyday turn of phrase.
+- 'Naturally, on my tab, today there is a special occasion.' Nagiyev shows a candid course for Max, pairing "yestestvenno" ("naturally") with "schyot" ("counting, account") to get the point across in plain spoken Russian.
+- 'Strange, I seem to be completely alive.' Max sets an unhurried approach with Barinov, putting "stranno" ("strange") alongside "sovershenno" ("quite, completely") in a tight, everyday turn of phrase.
+- 'Of course you are alive, you did not eat your own fugu.' Barinov strikes a brisk position in front of Nagiyev, building the phrase around "konechno" ("of course") and "zhivoy" ("alive") for a crisp, natural delivery.
+- 'I quietly replaced your piece of fillet with mine.' Barinov maintains a serious line beside Max, anchoring the Russian line on "nezametno" ("inconspicuously") and "zamenil" ("to replace") without extra filler.
+- 'Why did you do that, Viktor Petrovich?' Max probes steadily to keep things clear, linking "zachem" ("what for"), "sdelali" ("did, have done"), and "vy" ("you") in one brisk exchange.

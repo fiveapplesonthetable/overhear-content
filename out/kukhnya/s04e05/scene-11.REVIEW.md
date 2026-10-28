@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stay calm, Your Royal Majesty, just stay calm.' Since Lyova should stay calm Lyova's royal just stay calm, Barinov does not waste words on excuses. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'That is what you are going to get now, Lyova.' Because that is what Lyova is going to get now, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And how did you think you could joke with me?' By asking how Lyova thinks Lyova could joke with him, Barinov presses Lyova for a straight answer.
-- 'With us it is an eye for an eye, pal.' Barinov mentions that with them it is an eye for an eye pal so Lyova sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And of course, a big claw for a claw.' With the plan and revenge in play, Barinov keeps this short reply brisk and direct.
-- 'Right now I will quietly unplug this refrigerator.' Explaining that right now he will quietly unplug this refrigerator lays the cards on the table for Lyova.
-- 'By morning the expensive crab will definitely spoil.' Barinov explains that by morning the expensive crab will definitely spoil, keeping his voice calm and direct.
-- 'Viktor Petrovich, and what are you doing here?' Over the plan and the revenge, Lyova presses Barinov for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Why are you not sleeping at home yet?' Wondering why Barinov not sleeping at home yet is is how Lyova puts Barinov on the spot.
-- 'Why, do they fine people who are awake too?' Here wondering why they fine people who are awake shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, but it is already a very late hour.' Admitting that it is already a very late hour shows Lyova being honest for a change.
-- 'Fine, I am already heading home to my place.' Saying that fine he is already heading home to his place is how Barinov sets the tone with Lyova.
+- 'Stay calm, Your Royal Majesty, just stay calm.' Barinov conveys a steady stance in the room, combining "spokoystviye" ("calmness, composure") and "korolevskoye" ("royal") so the key meaning lands right away.
+- 'That is what you are going to get now, Lyova.' Barinov maintains a candid mood with Lyova, pairing "budet" ("will be") with "teper" ("now") to get the point across in plain spoken Russian.
+- 'And how did you think you could joke with me?' Barinov queries calmly on the spot, leaning on "kak" ("how") before closing the thought with "dumal" ("thought").
+- 'With us it is an eye for an eye, pal.' Barinov offers an emphatic direction on the spot, leaning on "oko" ("pal") before closing the thought with "drug" ("friend").
+- 'And of course, a big claw for a claw.' Barinov establishes an easygoing tone at once, leaning on "konechno" ("of course") before closing the thought with "bolshaya" ("large").
+- 'Right now I will quietly unplug this refrigerator.' Barinov offers a firm mood in the conversation, linking "seychas" ("now"), "tikho" ("easy, quiet"), and "vyklyuchu" ("to turn off") in one brisk exchange.
+- 'By morning the expensive crab will definitely spoil.' Barinov shows a frank attitude without hesitation, weaving "utru" ("morning") together with "dorogoy" ("dear") just the way native speakers do.
+- 'Viktor Petrovich, and what are you doing here?' Lyova challenges decisively without hesitation, building the phrase around "zdes" ("here") and "viktor" ("Viktor") for a crisp, natural delivery.
+- 'Why are you not sleeping at home yet?' Lyova quizzes calmly as they speak, weaving "pochemu" ("why") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'Why, do they fine people who are awake too?' Barinov queries plainly without holding back, linking "spyashchikh" ("who"), "tozhe" ("too"), and "shtrafuyut" ("to fine, penalize") in one brisk exchange.
+- 'No, but it is already a very late hour.' Lyova displays a pointed line for Barinov, linking "uzhe" ("already, now"), "ochen" ("very much"), and "pozdniy" ("hour") in one brisk exchange.
+- 'Fine, I am already heading home to my place.' Barinov takes a resolute mood across the room, joining "uzhe" ("already, now") to "ukhozhu" ("am leaving") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what do you see, doctor?' Asking what Eva sees doctor cuts straight through the tension between Barinov and Eva.
-- 'Yes, there is definitely a child here.' Claiming that there is definitely a child here sounds confident, even if Barinov has doubts.
-- 'Do you believe me now?' Here checking whether Barinov believes her now shows Eva looking for the real truth. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'And is that absolutely certain, doctor?' By asking whether that absolutely certain doctor, Barinov presses Eva for a straight answer.
-- 'Yes, the term is already two weeks.' Realizing that the term is already two weeks changes how the guest handles the situation.
-- 'I will wait for you in the corridor.' Noting that he will wait for Eva in the corridor keeps Barinov's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I told you he would believe it.' Even though she told Barinov he would believe it, Eva keeps a steady face in front of Barinov.
-- 'And what will you do next?' By wondering what Barinov does next will, the guest presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He will get scared and give money.' Saying that he will get scared and give money is how Eva sets the tone with Barinov.
-- 'And I will not object.' Once she will not object, Eva can finally tell Barinov what she means.
-- 'Here, take this, it is your fee.' Adding that here take this it is Barinov's fee fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, and is this really everything?' By asking whether this really everything, the guest presses Barinov for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Well, what do you see, doctor?' Barinov asks promptly during the talk, building the phrase around "vidite" ("see") and "doktor" ("Doctor") for a crisp, natural delivery.
+- 'Yes, there is definitely a child here.' The guest brings a candid course with Eva, weaving "zdes" ("here") together with "tochno" ("definitely") just the way native speakers do.
+- 'Do you believe me now?' Eva prompts wryly across the room, anchoring the Russian line on "teper" ("now") and "verite" ("to believe") without extra filler.
+- 'And is that absolutely certain, doctor?' Barinov questions frankly across the room, linking "absolyutno" ("completely"), "tochno" ("definitely"), and "doktor" ("Doctor") in one brisk exchange.
+- 'Yes, the term is already two weeks.' The guest holds a frank note in their talk, building the phrase around "srok" ("term") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'I will wait for you in the corridor.' Barinov keeps a firm line beside the guest, joining "podozhdu" ("will wait") to "koridore" ("corridor") so every word pulls its weight.
+- 'I told you he would believe it.' Eva keeps a frank attitude at this moment, linking "govorila" ("said"), "poverit" ("to believe"), and "ya" ("I") in one brisk exchange.
+- 'And what will you do next?' The guest prompts openly toward Eva here, linking "budesh" ("will"), "delat" ("do"), and "dalshe" ("next, go on") in one brisk exchange.
+- 'He will get scared and give money.' Eva presents an unhurried course as the scene unfolds, joining "ispugayetsya" ("will get scared") to "dast" ("will give") so every word pulls its weight.
+- 'And I will not object.' Eva offers an honest stance for the guest, weaving "budu" ("will be") together with "vozrazhat" ("to object, mind") just the way native speakers do.
+- 'Here, take this, it is your fee.' Eva establishes a direct stance for Barinov, putting "derzhi" ("here you go") alongside "gonorar" ("fee") in a tight, everyday turn of phrase.
+- 'Listen, and is this really everything?' The guest tests steadily in the scene, building the phrase around "slushay" ("listen") and "voobshche" ("at all") for a crisp, natural delivery.

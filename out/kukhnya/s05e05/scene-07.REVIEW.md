@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Elena Vladimirovna.' Between the test and the doctor, Max gives the doctor a quick, grounded response.
-- 'Hello.' With the test and kitchen in play, the doctor keeps this short reply brisk and direct.
-- 'I am Maxim Lavrov.' Max explains that he is Maxim Lavrov, keeping his voice calm and direct.
-- 'My wife is being monitored by you.' Noting that his wife is being monitored by the doctor keeps Max's side of the story simple and clear.
-- 'She asked me to pick up her test results.' Even though she asked him to pick up her test results, Max keeps a steady face in front of the doctor.
-- 'Yes, and what about it?' Over the moment and the test, the doctor presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And Victoria asked me not to say anything.' Saying that Victoria asked him not to say anything is how the doctor sets the tone with Max.
-- 'To a man named Maxim Lavrov.' Around the morning and test, the doctor sets a calm, everyday tone with Max.
-- 'Forgive me, this is very important.' Adding that this is very important fills in the missing piece for the doctor. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I need to know the truth.' Admitting that he needs to know the truth shows Max being honest for a change.
-- 'I cannot tell you anything.' Refusing to tell Max anything is how the doctor lays out the situation for Max. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'The thing is that this is my child.' Mentioning that the thing is that this is his child moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Hello, Elena Vladimirovna.' Max sets an earnest manner in their talk, pairing "zdravstvuyte" ("hello") with "yelena" ("Yelena") to get the point across in plain spoken Russian.
+- 'Hello.' The doctor adopts a measured angle on the spot, using "zdravstvuyte" ("hello") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I am Maxim Lavrov.' Max presents a pointed footing in the room, weaving "ya" ("I") together with "maksim" ("Maksim") just the way native speakers do.
+- 'My wife is being monitored by you.' Max chooses an honest direction during the exchange, putting "zhena" ("wife") alongside "nablyudayetsya" ("is being monitored") in a tight, everyday turn of phrase.
+- 'She asked me to pick up her test results.' Max adopts a sharp tone with the doctor, pairing "prosila" ("asked") with "zabrat" ("take") to get the point across in plain spoken Russian.
+- 'Yes, and what about it?' The doctor questions plainly during the talk, putting "da" ("yes") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'And Victoria asked me not to say anything.' The doctor brings a playful tack beside Max, anchoring the Russian line on "prosila" ("asked") and "govorit" ("to talk") without extra filler.
+- 'To a man named Maxim Lavrov.' The doctor sustains a steady manner during the exchange, weaving "cheloveku" ("to a person") together with "imeni" ("name") just the way native speakers do.
+- 'Forgive me, this is very important.' Max favors a playful tone in this beat, linking "prostite" ("excuse me"), "ochen" ("very much"), and "vazhno" ("important, mattering") in one brisk exchange.
+- 'I need to know the truth.' Max shares a natural direction at this moment, linking "nuzhno" ("necessary"), "znat" ("to know"), and "pravdu" ("truth") in one brisk exchange.
+- 'I cannot tell you anything.' The doctor brings a firm angle right away, leaning on "mogu" ("can") before closing the thought with "skazat" ("tell").
+- 'The thing is that this is my child.' Max conveys a candid view toward the doctor, combining "delo" ("matter") and "rebyonok" ("a child") so the key meaning lands right away.

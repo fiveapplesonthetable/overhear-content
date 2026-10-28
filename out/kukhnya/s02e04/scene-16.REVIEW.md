@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | А где, Виктор Петрович? | And where is Viktor Petrovich? | #264: А где, Виктор Петрович | verbatim |
+| 1 | Вика | А где, Виктор Петрович? | And where is Viktor Petrovich? | #264: А где, Виктор Петрович | verbatim |
 | 2 | Вика | Хорошо, рулет мой готов? | All right, is my meat roll ready? | #265: Хорошо, рулет мой готов | verbatim |
 | 3 | Шеф | Не знаю. | I do not know. | #266: Не знаю | verbatim |
 | 4 | Вика | Другие слова. | Different words. | #268: Другие слова | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is Viktor Petrovich?' Asking where Viktor Petrovich is is how Barinov puts Vika on the spot.
-- 'All right, is my meat roll ready?' When Vika asks if all right is her meat roll ready, Barinov has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not know.' Adding that he does not know fills in the missing piece for Vika.
-- 'Different words.' Turning from the work to the kitchen, Vika keeps the exchange moving.
-- 'Do you like words like that?' Checking whether Vika likes words like is how Barinov puts Vika on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'So Vitya has already told you his version of the truth.' Mentioning that Vitya has already told Barinov his version of the truth moves the talk in a new direction. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Listen, would you like to hear my version?' By asking whether Vika likes to hear his version, Barinov presses Vika for a straight answer.
-- 'I am going to tell you anyway.' Because she is going to tell Barinov anyway, Vika treats the matter as settled.
-- 'I was in love with the kitchen.' Explaining that he was in love with the kitchen lays the cards on the table for Vika.
-- 'And Viktor Petrovich.' Over the point and the kitchen, Vika answers Barinov without a second thought.
-- 'He was not just my teacher.' Claiming that he was not just his teacher sounds confident, even if Vika has doubts.
-- 'He was a god to me.' With the point and moment in play, Vika keeps this short reply brisk and direct.
-- 'And sit in the casino until morning.' Telling Vika to sit in the casino until morning is how Barinov lays out the situation for Vika.
+- 'And where is Viktor Petrovich?' Vika quizzes openly as they speak, placing "gde" ("where") straight beside "viktor" ("Viktor") with no word for "to be" needed.
+- 'All right, is my meat roll ready?' Vika asks naturally without holding back, weaving "khorosho" ("good, fine") together with "rulet" ("roll, roulade") just the way native speakers do.
+- 'I do not know.' Barinov shares an unhurried course in the room, weaving "znayu" ("know") together with "ne" ("not") just the way native speakers do.
+- 'Different words.' Vika maintains an easygoing manner in this beat, building the phrase around "drugiye" ("other") and "slova" ("words") for a crisp, natural delivery.
+- 'Do you like words like that?' Barinov challenges frankly across the room, weaving "nravyatsya" ("are pleasing") together with "slova" ("words") just the way native speakers do.
+- 'So Vitya has already told you his version of the truth.' Vika offers a firm tempo at once, leaning on "znachit" ("then, so") before closing the thought with "pravdu" ("truth").
+- 'Listen, would you like to hear my version?' Barinov probes bluntly in front of Vika, putting "slushayte" ("listen") alongside "khotite" ("want") in a tight, everyday turn of phrase.
+- 'I am going to tell you anyway.' Vika presents a candid manner for Barinov, pairing "rasskazhu" ("will tell") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'I was in love with the kitchen.' Barinov strikes a measured tone at this moment, using "byl" (from "byt", "was") alongside "vlyublen" ("in love") to shape the meaning.
+- 'And Viktor Petrovich.' Vika adopts a lively angle during the exchange, pairing "viktor" ("Viktor") with "petrovich" ("Petrovich") to get the point across in plain spoken Russian.
+- 'He was not just my teacher.' Barinov presents a direct direction during the exchange, leaning on "byl" ("was") before closing the thought with "uchitelem" ("teacher").
+- 'He was a god to me.' Vika maintains a measured style in the scene, anchoring the Russian line on "byl" ("was") and "bogom" ("God") without extra filler.
+- 'And sit in the casino until morning.' Barinov strikes a firm angle for Vika, weaving "kazino" ("casino") together with "utra" ("morning") just the way native speakers do.

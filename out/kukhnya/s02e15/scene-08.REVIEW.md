@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, are you two not at home?' Here asking whether Kostya two not at home shows Max looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Yeah, I want to sell it, I really need the cash.' Explaining that yeah she wants to sell it she really needs the cash lays the cards on the table for Kostya.
-- 'Ah, here it is, I found it.' Kostya mentions that here it is he found it so Max sees what is at stake.
-- 'Alright, see you.' Around the kitchen and room, Max sets a calm, everyday tone with Kostya.
-- 'Is this for me?' Over the work and the phone, Vika presses Kostya for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Max, that is so touching of you.' Kostya explains that that is so touching of Max, keeping his voice calm and direct.
-- 'For that, tonight I will wear nothing but your gifts.' Realizing that for that tonight he will wear nothing but Kostya's gifts changes how Max handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Come here.' Admitting that Kostya should come here shows Vika being honest for a change.
-- 'That one is my gift.' Even though that one is his gift, Kostya keeps a steady face in front of Max.
-- 'What is wrong with you?' By wondering what wrong with Kostya is, Max presses Kostya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And that is Ilya's gift.' Saying that that is Ilya gift is how Vika sets the tone with Kostya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I do not feel so well all of a sudden.' Once he does not feel so well all of a sudden, Kostya can finally tell Max what he means.
-- 'My head is spinning.' Adding that his head is spinning fills in the missing piece for Kostya.
+- 'Wait, are you two not at home?' Max asks decisively from the start, linking "doma" ("at home"), "vy" ("you"), and "chto" ("what") in one brisk exchange.
+- 'Yeah, I want to sell it, I really need the cash.' Vika picks an emphatic stance without hesitation, combining "prodat" ("to sell") and "khochu" ("want") so the key meaning lands right away.
+- 'Ah, here it is, I found it.' Kostya chooses an honest attitude straight away, putting "nashel" ("found") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
+- 'Alright, see you.' Max brings a serious course beside Vika, building the phrase around "poka" ("bye") and "vse" ("all") for a crisp, natural delivery.
+- 'Is this for me?' Vika tests honestly at this point, weaving "eto" ("this") together with "mne" ("to me") just the way native speakers do.
+- 'Max, that is so touching of you.' Kostya shares a natural bearing as they talk, anchoring the Russian line on "trogatelno" ("touchingly") and "maks" ("Max") without extra filler.
+- 'For that, tonight I will wear nothing but your gifts.' Max keeps a playful tempo in the conversation, linking "segodnya" ("today"), "ostanus" ("stay"), and "tolko" ("only") in one brisk exchange.
+- 'Come here.' Vika shares an emphatic rhythm in the room, using "idi" (from "idti", "go") alongside "syuda" ("here") to shape the meaning.
+- 'That one is my gift.' Kostya offers a clear rhythm during the exchange, building the phrase around "podarok" ("gift, voucher") and "eto" ("this") for a crisp, natural delivery.
+- 'What is wrong with you?' Max quizzes honestly for Vika's benefit, combining "ty" ("you") and "chego" ("what") so the key meaning lands right away.
+- 'And that is Ilya's gift.' Vika displays a pointed tone straight away, putting "podarok" ("gift, voucher") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'I do not feel so well all of a sudden.' Kostya sets a measured position straight away, linking "nekhorosho" ("not nice, wrong"), "da" ("yes"), and "chto-to" ("somehow") in one brisk exchange.
+- 'My head is spinning.' Max displays a pointed mood right away, combining "golova" ("head") and "kruzhitsya" ("is spinning") so the key meaning lands right away.

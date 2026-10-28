@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your father and I did not get along.' Even though Elena's father and he did not get along, Mikhail keeps a steady face in front of Elena.
-- 'But he is truly a good man.' Adding that he is truly a good man fills in the missing piece for Elena.
-- 'Did you sell your horse after all?' Here checking whether Elena sells Elena's horse after all shows Katya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, I kept the horse for myself.' Once he kept the horse for himself, Mikhail can finally tell Elena what he means.
-- 'Timur found a stable for me nearby.' Adding that Timur found a stable for him nearby fills in the missing piece for Elena.
-- 'Here, these are my personal savings.' Mikhail tells Elena that here these are his personal savings without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Thank you so very much, dear guys.' Around the point and news, Katya sets a calm, everyday tone with Elena.
-- 'Elena Pavlovna, we found the money!' Katya insists that they found the money, leaving Elena no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'We collected almost the entire sum.' Between the point and the news, Katya gives Elena a quick, grounded response.
-- 'Lena, what happened just now?' With the truth and news hanging in the air, Katya puts Elena on the spot.
-- 'They replied to me from the German clinic.' With the truth and news in play, Elena keeps this short reply brisk and direct.
-- 'The operation will be twice as expensive.' Elena mentions that the operation will be twice as expensive so Katya sees what is at stake.
+- 'Your father and I did not get along.' Mikhail keeps an easygoing footing across the room, building the phrase around "ottsom" ("father") and "ladili" ("got along") for a crisp, natural delivery.
+- 'But he is truly a good man.' Mikhail adopts a resolute line in the scene, putting "chelovek" ("a man, a person") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.
+- 'Did you sell your horse after all?' Katya quizzes dryly on the spot, using "prodal" (from "prodat", "to sell") alongside "konya" ("horse, knight") to shape the meaning.
+- 'No, I kept the horse for myself.' Mikhail displays a grounded posture at once, putting "konya" ("horse, knight") alongside "ostavil" ("left") in a tight, everyday turn of phrase.
+- 'Timur found a stable for me nearby.' Mikhail projects a measured line in this beat, joining "konyushnyu" ("stable") to "nedaleko" ("not far") so every word pulls its weight.
+- 'Here, these are my personal savings.' Mikhail adopts a serious view in the room, joining "lichnyye" ("personal") to "sberezheniya" ("savings") so every word pulls its weight.
+- 'Thank you so very much, dear guys.' Katya picks a sharp tempo at once, joining "spasibo" ("thank you") to "ogromnoye" ("huge, so very much") so every word pulls its weight.
+- 'Elena Pavlovna, we found the money!' Katya maintains a natural posture in the scene, combining "nashli" ("found, did find") and "dengi" ("money") so the key meaning lands right away.
+- 'We collected almost the entire sum.' Katya picks an unhurried bearing straight away, putting "sobrali" ("to collect") alongside "pochti" ("almost") in a tight, everyday turn of phrase.
+- 'Lena, what happened just now?' Katya inquires firmly for Mikhail's benefit, linking "seychas" ("now"), "sluchilos" ("happened"), and "lena" ("Lena") in one brisk exchange.
+- 'They replied to me from the German clinic.' Elena holds a calm line toward Katya, linking "otvetili" ("answered"), "nemetskoy" ("German"), and "kliniki" ("clinic, hospital") in one brisk exchange.
+- 'The operation will be twice as expensive.' Elena establishes a clear view as the scene unfolds, combining "operatsiya" ("operation") and "budet" ("will be") so the key meaning lands right away.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing in here?' Here wondering what Kostya doing in here is shows Fedya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Trying to talk them into becoming fresh again?' With the point and room hanging in the air, Kostya puts Fedya on the spot.
-- 'Listen, maybe I can buy new ones at a store?' When Fedya asks if maybe he can buy new ones at a store, Kostya has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'At the store, pal, they cost their weight in gold.' Between the conversation and the call, Kostya gives Fedya a quick, grounded response.
-- 'I have this one acquaintance.' Pointing out that he has this one acquaintance gives Kostya a sobering reality check.
-- 'He can hook you up.' Saying that he can hook Fedya up is how Kostya sets the tone with Fedya.
-- 'Five times cheaper.' Around the work and call, Fedya sets a calm, everyday tone with Kostya.
-- 'No catch at all.' Here catching at all sets up the next turn in their exchange.
-- 'Good, honest contraband.' Between the work and the call, Fedya gives Kostya a quick, grounded response.
-- 'No problem at all.' With the point and call in play, Kostya keeps this short reply brisk and direct.
-- 'Do you need a shark too?' By asking whether Kostya needs a shark, Fedya presses Kostya for a straight answer.
-- 'Not for now.' Around the point and call, Kostya sets a calm, everyday tone with Fedya.
-- 'If they do not catch you, they will not lock you up.' Because if they do not catch Kostya they will not lock Kostya up, Fedya treats the matter as settled.
+- 'What are you doing in here?' Fedya asks briskly across the room, placing "che" ("what") straight beside "ty" ("you") with no word for "to be" needed.
+- 'Trying to talk them into becoming fresh again?' Kostya questions firmly to Fedya here, weaving "ugovarivayesh" ("to persuade") together with "stat" ("to become") just the way native speakers do.
+- 'Listen, maybe I can buy new ones at a store?' Fedya probes boldly beside Kostya, putting "slushay" ("listen") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
+- 'At the store, pal, they cost their weight in gold.' Kostya picks an honest tone at this moment, leaning on "magazine" ("shop") before closing the thought with "starichok" ("old buddy").
+- 'I have this one acquaintance.' Fedya shares a natural bearing as the scene unfolds, putting "yest" ("there is") alongside "znakomyy" ("familiar") in a tight, everyday turn of phrase.
+- 'He can hook you up.' Kostya brings a sharp direction at once, combining "mozhet" ("can") and "podognat" ("drove up") so the key meaning lands right away.
+- 'Five times cheaper.' Fedya favors a resolute posture without hesitation, putting "raz" ("time, once") alongside "deshevle" ("cheaper") in a tight, everyday turn of phrase.
+- 'No catch at all.' Kostya picks a grounded posture in the room, leaning on "podvokha" ("catch, trick") before closing the thought with "nikakogo" ("no ... at all").
+- 'Good, honest contraband.' Fedya conveys a resolute angle as the scene unfolds, using "normalnaya" (from "normalnyy", "normal, proper") alongside "chestnaya" ("an honest one") to shape the meaning.
+- 'No problem at all.' Kostya offers a natural tempo straight away, pairing "vopros" ("question, matter") with "ne" ("not") to get the point across in plain spoken Russian.
+- 'Do you need a shark too?' Fedya queries steadily as the talk turns, combining "akula" ("shark") and "nuzhna" ("needed") so the key meaning lands right away.
+- 'Not for now.' Kostya sustains a lively tempo right away, joining "poka" ("bye") to "net" ("no") so every word pulls its weight.
+- 'If they do not catch you, they will not lock you up.' Fedya projects an earnest footing across the room, joining "poymayut" ("catch") to "posadyat" ("they'll put in prison") so every word pulls its weight.

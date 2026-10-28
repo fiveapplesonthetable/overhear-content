@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The signature onion soup for the guest is completely ready.' Even though the signature onion soup for the guest is completely ready, Senya keeps a steady face in front of German.
-- 'Arseny, you have been my ears and eyes.' Admitting that someone Senya has been his ears and eyes shows German being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Now the time has come to become my right hand.' Saying that the time has come to become his right hand is how German sets the tone with Senya.
-- 'I need one small favor from you.' Needing one small favor from Senya moves the conversation forward without extra drama.
-- 'Pour this sour vinegar into the onion soup.' Here pouring this sour vinegar into the onion soup sets up the next turn in their exchange.
-- 'German Mikhailovich, I cannot do that!' Saying that he cannot do is how Senya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'After all, that is not decent at all, right?' Asking whether after all that is not decent at all right puts German right on the defensive.
-- 'Wait, Arseny, Barinov will leave here tomorrow already.' Mentioning that someone Barinov will leave here tomorrow already moves the talk in a new direction.
-- 'And I will remain here as your head chef!' Insisting that he will remain here as Senya's head shows German is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And all of you still have to work with me.' Because all of Senya still have to work with him, German treats the matter as settled.
-- 'And for how long depends only on me!' Around the soup and truth, German makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Fine, give me your vinegar here, I will pour it.' Senya mentions that fine give him German's vinegar here he will pour it so German sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'The signature onion soup for the guest is completely ready.' Senya chooses a grounded angle beside German, leaning on "firmennyy" ("signature") before closing the thought with "lukovyy" ("onion").
+- 'Arseny, you have been my ears and eyes.' German sustains a brisk course right away, weaving "byli" ("be") together with "ushami" ("ear") just the way native speakers do.
+- 'Now the time has come to become my right hand.' German displays an unhurried bearing straight away, linking "teper" ("now"), "prishlo" ("to come, to arrive"), and "vremya" ("time") in one brisk exchange.
+- 'I need one small favor from you.' German adopts an earnest bearing in the scene, combining "nuzhno" ("necessary") and "malenkoye" ("small, little") so the key meaning lands right away.
+- 'Pour this sour vinegar into the onion soup.' German establishes a clear tempo in front of Senya, pairing "uksus" ("vinegar") with "naleyte" ("to pour") so the "-sya" ending carries the action.
+- 'German Mikhailovich, I cannot do that!' Senya sets a wry posture on the spot, combining "sdelat" ("to do") and "mogu" ("can") so the key meaning lands right away.
+- 'After all, that is not decent at all, right?' Senya queries calmly without a pause, linking "sovsem" ("at all"), "po-chelovecheski" ("decently"), and "pravda" ("honestly") in one brisk exchange.
+- 'Wait, Arseny, Barinov will leave here tomorrow already.' German brings a pointed approach toward Senya, pairing "podozhdi" ("wait") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
+- 'And I will remain here as your head chef!' German holds a wry stance straight away, pairing "ostanus" ("stay") with "zdes" ("here") so the "-sya" ending carries the action.
+- 'And all of you still have to work with me.' German shows a thoughtful rhythm on the spot, building the phrase around "yeshchyo" ("more, still") and "rabotat" ("to work") for a crisp, natural delivery.
+- 'And for how long depends only on me!' German takes a sharp tone in front of Senya, pairing "kak" ("how") with "dolgo" ("for a long time") to get the point across in plain spoken Russian.
+- 'Fine, give me your vinegar here, I will pour it.' Senya offers a sharp line in the conversation, linking "davayte" ("let's"), "syuda" ("here"), and "uksus" ("vinegar") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, bring the guest tea or coffee.' Explaining that the guest should bring the guest tea or coffee lays the cards on the table for the guest.
-- 'A decaf cappuccino for me, please.' Between the banquet and the room, the guest gives Vika a quick, grounded response.
-- 'And definitely with lactose-free milk.' With the banquet and truth in play, the guest keeps this short reply brisk and direct.
-- 'And no cinnamon in the cup at all!' Over the table and the room, the guest lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'So, you want to celebrate a birthday?' Asking whether the guest wants to celebrate a birthday puts the guest right on the defensive.
-- 'Yes, my little Tyoma is turning two years old.' Realizing that his little Tyoma is turning two years old changes how the guest handles the situation.
-- 'That is, your banquet will be for children?' Questioning whether that is the guest's banquet will be for children is how Vika tests the guest's story. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Why do you think it is for children?' Wondering why Vika thinks it is for children is how the guest puts Vika on the spot.
-- 'He is already a completely grown boy.' Once he is already a completely grown boy, the guest can finally tell Vika what he means.
-- 'And here is my good boy Tyoma!' The guest insists that here is his good boy Tyoma, leaving Vika no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Meet him, please, this is my Tyoma.' The guest explains that Vika should meet him please this is his Tyoma, keeping his voice calm and direct.
-- 'You are my clever one, come to me.' Adding that Vika is his clever one come to him fills in the missing piece for Vika. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Nastya, bring the guest tea or coffee.' Vika takes a calm bearing for the guest, weaving "prinesi" ("bring") together with "gostye" ("guest") just the way native speakers do.
+- 'A decaf cappuccino for me, please.' The guest sets a warm tone right away, weaving "kapuchino" ("a cappuccino") together with "kofeina" ("caffeine") just the way native speakers do.
+- 'And definitely with lactose-free milk.' The guest sets an unhurried approach at this moment, joining "obyazatelno" ("surely, without fail") to "bezlaktoznym" ("milk") so every word pulls its weight.
+- 'And no cinnamon in the cup at all!' The guest sets a resolute tack without hesitation, leaning on "koritsy" ("cinnamon") before closing the thought with "chashke" ("cup").
+- 'So, you want to celebrate a birthday?' Vika questions briskly without holding back, anchoring the Russian line on "znachit" ("then, so") and "khotite" ("want") without extra filler.
+- 'Yes, my little Tyoma is turning two years old.' The guest shows a direct view in the scene, building the phrase around "tyomochke" ("turning") and "ispolnyayetsya" ("to two") for a crisp, natural delivery.
+- 'That is, your banquet will be for children?' Vika asks promptly at this point, pairing "yest" ("there is") with "banket" ("banquet") to get the point across in plain spoken Russian.
+- 'Why do you think it is for children?' The guest quizzes warmly in their exchange, joining "pochemu" ("why") to "dumayete" ("think") so every word pulls its weight.
+- 'He is already a completely grown boy.' The guest sustains a pointed direction beside Vika, pairing "uzhe" ("already, now") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'And here is my good boy Tyoma!' The guest picks a grounded posture on the spot, anchoring the Russian line on "khoroshiy" ("good") and "tyoma" ("tyoma") without extra filler.
+- 'Meet him, please, this is my Tyoma.' The guest sets an emphatic tempo straight away, weaving "poznakomtes" ("get acquainted") together with "tyoma" ("tyoma") just the way native speakers do.
+- 'You are my clever one, come to me.' The guest conveys a clear posture in the scene, leaning on "umnitsa" ("clever girl") before closing the thought with "idi" ("go").

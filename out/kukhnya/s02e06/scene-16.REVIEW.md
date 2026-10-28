@@ -12,9 +12,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Сеня | Вычту из пенсии. | I will deduct it from your pension. | #264: Вычту из пенсии | verbatim |
 | 2 | Макс | Я не брал. | I did not take it. | #265: Я не брал | verbatim |
-| 3 | Сеня | Сеня. Леша. | Senya. Lyosha. | #266: Сеня. Леша | verbatim |
+| 3 | Макс | Сеня. Леша. | Senya. Lyosha. | #266: Сеня. Леша | verbatim |
 | 4 | Макс | Ты брал отсюда пирожное? | Did you take the pastry from right here? | #267: Ты брал отсюда пирожное | verbatim |
-| 5 | Сеня | Нет. Сеня? | No. Senya? | #268: Нет. Сеня | verbatim |
+| 5 | Макс | Нет. Сеня? | No. Senya? | #268: Нет. Сеня | verbatim |
 | 6 | Макс | Я плачу. | I am crying here. | #269: Я плачу | verbatim |
 | 7 | Сеня | И ты ничего не почувствовал? | And you did not feel anything hard inside? | #270: И ты ничего не почувствовал | verbatim |
 | 8 | Макс | Хозяин требует десерт. | The owner is demanding the dessert right now. | #271: Хозяин требует десерт | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will deduct it from your pension.' Senya mentions that he will deduct it from Max's pension so Max sees what is at stake.
-- 'I did not take it.' Claiming that he did not take it sounds confident, even if Senya has doubts.
-- 'Senya. Lyosha.' Over the work and the conversation, Senya answers Max without a second thought.
-- 'Did you take the pastry from right here?' Here asking whether Senya takes the pastry from right here shows Max looking for the real truth.
-- 'No. Senya?' Around the truth and conversation, Senya wants to know where Max really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am crying here.' Admitting that he is crying here shows Max being honest for a change.
-- 'And you did not feel anything hard inside?' Asking whether Max did not feel anything hard inside puts Max right on the defensive.
-- 'The owner is demanding the dessert right now.' Admitting that the owner is demanding the dessert right now shows Max being honest for a change.
-- 'It was delicious.' Saying that it was delicious is how Senya sets the tone with Max.
-- 'Right around here somewhere.' With the point and work in play, Max keeps this short reply brisk and direct.
-- 'This guy already ate it.' Adding that this guy already ate it fills in the missing piece for Max.
-- 'And where is our dessert?' Here asking where their dessert is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Just a couple more minutes.' Over the truth and the dessert, Senya answers Max without a second thought.
+- 'I will deduct it from your pension.' Senya brings a measured posture in their talk, leaning on "vychtu" ("salary") before closing the thought with "pensii" ("pension, retirement").
+- 'I did not take it.' Max strikes an earnest angle in the room, joining "bral" ("took") to "ya" ("I") so every word pulls its weight.
+- 'Senya. Lyosha.' Max sets a resolute tone without hesitation, leaning on "senya" ("Senya") before closing the thought with "lesha" ("Lyosha").
+- 'Did you take the pastry from right here?' Max tests frankly as they speak, joining "bral" ("took") to "otsyuda" ("from here") so every word pulls its weight.
+- 'No. Senya?' Max checks boldly right away, pairing "net" ("no") with "senya" ("Senya") to get the point across in plain spoken Russian.
+- 'I am crying here.' Max displays a frank tone straight away, building the phrase around "plachu" ("pay") and "ya" ("I") for a crisp, natural delivery.
+- 'And you did not feel anything hard inside?' Senya presses steadily right away, anchoring the Russian line on "pochuvstvoval" ("felt") and "ty" ("you") without extra filler.
+- 'The owner is demanding the dessert right now.' Max sets a brisk manner in the scene, building the phrase around "khozyain" ("owner") and "trebuyet" ("demands") for a crisp, natural delivery.
+- 'It was delicious.' Senya shows a frank view across the room, building the phrase around "bylo" ("was") and "vkusno" ("it's tasty") for a crisp, natural delivery.
+- 'Right around here somewhere.' Max presents an unhurried tone toward Senya, leaning on "gde-to" ("somewhere") before closing the thought with "zdes" ("here").
+- 'This guy already ate it.' Senya projects a serious mood at this moment, building the phrase around "paren" ("boyfriend") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'And where is our dessert?' Max asks evenly for Senya's benefit, building the phrase around "gde" ("where") and "desert" ("dessert") for a crisp, natural delivery.
+- 'Just a couple more minutes.' Senya presents a steady view at once, anchoring the Russian line on "yeshche" ("still") and "paru" ("couple") without extra filler.

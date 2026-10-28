@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, sit down, let's drink.' Mikhail explains that Barinov should sit down let them drink, keeping his voice calm and direct.
-- 'After all, today is such a happy day.' Admitting that after all today is such a happy day shows Mikhail being honest for a change.
-- 'I certainly know.' Over the truth and the money, Mikhail answers Barinov without a second thought.
-- 'And who is that?' With the work and money hanging in the air, Mikhail puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Nagiyev's ex-wife.' Around the truth and money, Barinov sets a calm, everyday tone with Kristina.
-- 'Misha, where are you going?' Wondering where Kristina going is cuts straight through the tension between Barinov and Kristina.
-- 'Where is my money?' Asking where her money is is how Kristina puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There is no money!' Saying that there is no money is how Mikhail takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Look what a moneybag you found.' Mikhail tells Barinov that what a moneybag Barinov found without dressing it up.
-- 'Look at yourselves, right out of love, huh?' With the point and money hanging in the air, Kristina puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, out of love.' With the wedding and money in play, Mikhail keeps this short reply brisk and direct.
-- 'Yes, you are right.' Kristina mentions that Barinov is right so Barinov sees what is at stake.
+- 'Vitya, sit down, let's drink.' Mikhail sustains a playful angle right away, using "sadis" (from "saditsya", "sit down") alongside "vypyem" ("will drink") to shape the meaning.
+- 'After all, today is such a happy day.' Mikhail chooses an honest approach with Kristina, leaning on "segodnya" ("today") before closing the thought with "schastlivyy" ("lucky").
+- 'I certainly know.' Mikhail projects a brisk position in front of Barinov, using "znayu" (from "znat", "know") alongside "uzh" ("certainly") to shape the meaning.
+- 'And who is that?' Mikhail prompts calmly in their exchange, joining "eto" ("this") to "kto" ("who") so every word pulls its weight.
+- 'Nagiyev's ex-wife.' Barinov strikes a brisk direction during the exchange, building the phrase around "byvshaya" ("former") and "zhena" ("wife") for a crisp, natural delivery.
+- 'Misha, where are you going?' Barinov probes naturally at this point, combining "kuda" ("where to") and "misha" ("Misha") so the key meaning lands right away.
+- 'Where is my money?' Kristina queries honestly across the room, linking "gde" ("where") directly with "dengi" ("money"), since Russian drops "is" and "are" in the present.
+- 'There is no money!' Mikhail holds a natural bearing in the conversation, weaving "deneg" ("money") together with "net" ("no") just the way native speakers do.
+- 'Look what a moneybag you found.' Mikhail projects a firm direction as they talk, pairing "denezhnyy" ("money, monetary") with "meshok" ("sack, bag") to get the point across in plain spoken Russian.
+- 'Look at yourselves, right out of love, huh?' Kristina queries directly across the room, joining "posmotrite" ("look") to "pryamo" ("right, just") so every word pulls its weight.
+- 'Yes, out of love.' Mikhail favors a candid attitude across the room, linking "lyubvi" ("love"), "da" ("yes"), and "po" ("according to") in one brisk exchange.
+- 'Yes, you are right.' Kristina shows a pointed angle in their talk, anchoring the Russian line on "prav" ("right") and "da" ("yes") without extra filler.

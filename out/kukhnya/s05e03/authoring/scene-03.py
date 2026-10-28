@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = 'Stunned that Eleonora owns the hotel, Barinov accuses Katya of knowing and declares he is quitting, while Eleonora asks Katya to fly to St. Petersburg tomorrow for a hotel event. Listen to the conversation.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that sets Eleonora's plot in motion to send Katya out of town. Notice the comparative structure 'more a musician than a cook'. Until next time!"
+OUTRO = "And that sets Eleonora's plot in motion to send Katya out of town. Notice the comparison phrase 'more a musician than a cook'. Until next time!"
 CLOSING = ('katya', 'Увидимся!')
 STORY = [
     ('barinov', 'Катя, ты об этом знала?', 'Katya, did you know about this?', [(33, 'Ты знала?')], 'adapted'),
@@ -36,22 +36,22 @@ STORY = [
     ('eleonora', 'Твоя кухня могла бы спасти положение.', 'Your cuisine could save the situation.', [(54, 'кухня'), (54, 'спасти положение')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Katya, did you know about this?\' By checking whether Eleonora knows about this, Barinov presses Eleonora for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (1, None, "'She knew nothing about it.' Eleonora tells Barinov that she knew nothing about it without dressing it up."),
-    (2, None, '\'So this is your personal plan?\' Questioning whether this is Eleonora\'s personal plan is how Barinov tests Eleonora\'s story. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (3, None, '\'Calm down, my husband hired you.\' Here calming down her husband hired Barinov sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (4, None, "'He left me this hotel.' Eleonora reminds Barinov that he left her this hotel before the moment passes."),
-    (5, None, '\'Did another husband run away from you?\' Checking whether another husband run away from Eleonora cuts straight through the tension between Barinov and Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (6, None, "'Accept my congratulations, my dear.' Explaining that Eleonora should accept his congratulations his dear lays the cards on the table for Eleonora."),
-    (7, None, "'He ran so fast that he forgot the hotel.' Barinov mentions that he ran so fast that he forgot the hotel so Eleonora sees what is at stake."),
-    (8, None, "'Actually, he died recently.' Between the trip and the work, Eleonora gives Barinov a quick, grounded response."),
-    (9, None, "'Look for another head chef for yourselves.' With the trip and truth in play, Barinov keeps this short reply brisk and direct."),
-    (10, None, "'Mom, please stop him!' Over the shift and the trip, Katya lets her real feelings show."),
-    (11, None, "'Denis is a very good guy.' Realizing that Denis is a very good guy changes how Katya handles the situation."),
-    (12, None, "'But he is more of a musician than a cook.' Noting that he is more of a musician than a cook keeps Katya's side of the story simple and clear."),
-    (13, None, "'So he still has not made up his mind?' Eleonora asks whether he still has not made up his mind, refusing to let the point slide."),
-    (14, None, '\'We agreed: you do not interfere in my life.\' Admitting that they agreed Barinov does not interfere in her life shows Katya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (15, None, '\'Tomorrow we have an important event.\' Saying that tomorrow they have an important event is how Eleonora sets the tone with Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (16, None, "'Our head cook there got sick.' Once their head cook there got sick, Eleonora can finally tell Barinov what she means."),
-    (17, None, '\'Your cuisine could save the situation.\' Adding that Barinov\'s cuisine could save the situation fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (0, None, '\'Katya, did you know about this?\' Barinov quizzes plainly from the start, putting "znala" ("knew") alongside "katya" ("Katya") in a tight, everyday turn of phrase.'),
+    (1, None, '\'She knew nothing about it.\' Eleonora shares a brisk rhythm toward Katya, leaning on "znala" ("knew") before closing the thought with "ona" ("it").'),
+    (2, None, '\'So this is your personal plan?\' Barinov inquires frankly as the talk turns, linking "znachit" ("then, so"), "lichno" ("personally"), and "plan" ("plan") in one brisk exchange.'),
+    (3, None, '\'Calm down, my husband hired you.\' Eleonora presents a brisk position with Katya, combining "uspokoysya" ("calm down") and "nanimal" ("hired") so the key meaning lands right away.'),
+    (4, None, '\'He left me this hotel.\' Eleonora takes a frank stance as the scene unfolds, joining "ostavil" ("left") to "otel" ("hotel") so every word pulls its weight.'),
+    (5, None, '\'Did another husband run away from you?\' Barinov presses sharply in front of Katya, building the phrase around "ocherednoy" ("another, next") and "muzh" ("husband") for a crisp, natural delivery.'),
+    (6, None, '\'Accept my congratulations, my dear.\' Barinov establishes an earnest mood at this moment, putting "primi" ("take, accept") alongside "pozdravleniya" ("congratulations") in a tight, everyday turn of phrase.'),
+    (7, None, '\'He ran so fast that he forgot the hotel.\' Barinov keeps a direct manner for Katya, using "bezhal" (from "bezhat", "to run, to flee") alongside "gostinitsu" ("the hotel") to shape the meaning.'),
+    (8, None, '\'Actually, he died recently.\' Eleonora displays a pointed approach for Barinov, putting "voobshche-to" ("actually") alongside "nedavno" ("returned") in a tight, everyday turn of phrase.'),
+    (9, None, '\'Look for another head chef for yourselves.\' Barinov sustains an earnest mood as the scene unfolds, using "ishchite" (from "iskat", "look for, search") alongside "drugogo" ("other, another") to shape the meaning.'),
+    (10, None, '\'Mom, please stop him!\' Katya offers a resolute mood in the room, linking "mama" ("mum, mother"), "ostanovi" ("stop"), and "nu" ("oh, come on") in one brisk exchange.'),
+    (11, None, '\'Denis is a very good guy.\' Katya takes a grounded style as the scene unfolds, building the phrase around "ochen" ("very much") and "khoroshiy" ("good") for a crisp, natural delivery.'),
+    (12, None, '\'But he is more of a musician than a cook.\' Katya conveys a playful attitude as they talk, pairing "bolshe" ("more") with "muzykant" ("musician") to get the point across in plain spoken Russian.'),
+    (13, None, '\'So he still has not made up his mind?\' Eleonora probes frankly with Katya now, combining "yest" ("there is") and "opredelilsya" ("made up his mind") so the key meaning lands right away.'),
+    (14, None, '\'We agreed: you do not interfere in my life.\' Katya keeps a grounded note in the room, weaving "dogovorilis" ("agreed, deal") together with "vmeshivayeshsya" ("you interfere") just the way native speakers do.'),
+    (15, None, '\'Tomorrow we have an important event.\' Eleonora holds a warm rhythm as they talk, leaning on "zavtra" ("tomorrow") before closing the thought with "vazhnoye" ("important").'),
+    (16, None, '\'Our head cook there got sick.\' Eleonora conveys a candid course in front of Barinov, pairing "tam" ("there") with "glavnyy" ("main, chief") to get the point across in plain spoken Russian.'),
+    (17, None, '\'Your cuisine could save the situation.\' Eleonora offers an emphatic view with Katya, joining "kukhnya" ("kitchen") to "mogla" ("could") so every word pulls its weight.'),
 ]

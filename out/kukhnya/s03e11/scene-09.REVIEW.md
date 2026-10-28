@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, why did you set me up like that?' Wondering why Barinov sets him up like is how Max puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Maybe you simply do not remember anything?' Wondering if maybe Barinov simply do not remember anything shows Katya caught off guard.
-- 'Hey, Max, take your hands off right now!' Here telling Barinov to take Barinov's hands off right now lets Katya's real feelings break through. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'And now will you also say that there is nothing going on?' Checking whether Katya also say that there is nothing going cuts straight through the tension between Barinov and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You misunderstood everything, Chef!' With the shift and situation at stake, Max reacts without holding back.
-- 'Watch out so that you do not run off to Voronezh!' Because Katya should watch out so that Katya does not run off to Voronezh, Barinov does not bother softening the blow for Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well then, what shall we name the son?' With the work and situation hanging in the air, Barinov puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Where is my hot food today, Chef?' Asking where his hot food today is cuts straight through the tension between Max and Barinov.
-- 'Why must the guest wait for so long?' When Max asks if why must the guest wait for so long, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Dmitry Vladimirovich, the chef is cooking for you himself.' Katya tells Barinov that the is cooking for Barinov himself without dressing it up. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Dima, wait, everything will be ready right now!' Barinov insists that everything will be ready right now, leaving Katya no room to argue.
-- 'Forgive me, I will quickly make everything again right now.' Mentioning that he will quickly make everything again right now moves the talk in a new direction.
-- 'Did you understand me? I am going to the kitchen!' Asking whether Katya understands him is how Barinov puts Katya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Katya, why did you set me up like that?' Max checks candidly as the talk turns, linking "zachem" ("what for"), "obmanula" ("to cheat, to deceive"), and "katya" ("Katya") in one brisk exchange.
+- 'Maybe you simply do not remember anything?' Katya probes calmly for Max's benefit, combining "mozhet" ("can") and "prosto" ("just") so the key meaning lands right away.
+- 'Hey, Max, take your hands off right now!' Katya holds a frank direction straight away, linking "uberi" ("take away, put away"), "ruki" ("hands"), and "seychas" ("now") in one brisk exchange.
+- 'And now will you also say that there is nothing going on?' Barinov asks firmly to keep things clear, linking "seychas" ("now"), "skazhesh" ("will you say"), and "chto" ("what") in one brisk exchange.
+- 'You misunderstood everything, Chef!' Max shows a serious tack straight away, linking "ponyali" ("did you understand"), "vy" ("you"), and "vsyo" ("everything") in one brisk exchange.
+- 'Watch out so that you do not run off to Voronezh!' Barinov favors a candid manner in the conversation, linking "smotri" ("look"), "uyekhal" ("left, went away"), and "chtoby" ("so that") in one brisk exchange.
+- 'Well then, what shall we name the son?' Barinov questions warmly for Katya's benefit, combining "kak" ("how") and "syna" ("son") so the key meaning lands right away.
+- 'Where is my hot food today, Chef?' Max inquires warmly on the spot, anchoring the Russian line on "gde" ("where") and "goryachaya" ("hot") without extra filler.
+- 'Why must the guest wait for so long?' Max presses bluntly as the beat lands, putting "pochemu" ("why") alongside "gost" ("guest") in a tight, everyday turn of phrase.
+- 'Dmitry Vladimirovich, the chef is cooking for you himself.' Katya holds a calm posture during the exchange, leaning on "gotovit" ("cooks") before closing the thought with "dmitriy" ("Dmitry").
+- 'Dima, wait, everything will be ready right now!' Barinov presents a resolute mood in front of Katya, anchoring the Russian line on "podozhdi" ("wait") and "seychas" ("now") without extra filler.
+- 'Forgive me, I will quickly make everything again right now.' Barinov sets a clear mood with Max, using "prosti" (from "prostit", "sorry, forgive me") alongside "seychas" ("now") to shape the meaning.
+- 'Did you understand me? I am going to the kitchen!' Barinov quizzes frankly from the start, anchoring the Russian line on "ponyal" ("understood") and "idu" ("going, running") without extra filler.

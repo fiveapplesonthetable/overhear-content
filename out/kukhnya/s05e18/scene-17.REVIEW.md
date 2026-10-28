@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, what are you doing here so late?' Wondering what Barinov doing here so late is is how Katya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I have a matter of life and death.' Even though he has a matter of life and death, Nikita keeps a steady face in front of Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'You must blindfold your eyes and walk into the hall.' Nikita explains that Barinov must blindfold Barinov's eyes and walk into the hall, keeping his voice calm and direct.
-- 'Alright, but I also have an important matter.' Realizing that Alright but she also has an important matter changes how Katya handles the situation. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I need five minutes to finish everything.' Explaining that she needs five minutes to finish everything lays the cards on the table for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Otherwise the whole kitchen could flood with foam.' Even though otherwise the whole kitchen could flood with foam, Katya keeps a steady face in front of Barinov.
-- 'Alright, I will wait for you by the door.' Admitting that Alright he will wait for Barinov by the door shows Nikita being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am heading in, we will be there in a couple of minutes.' Being heading in they will be there in a couple of minutes is how Nikita lays out the situation for Barinov.
-- 'Look what a dangerous moment this is right now!' Saying that what a dangerous moment this is right now is how Barinov takes charge of the moment.
-- 'I just need a little practice, and you are done for!' Barinov declares that he just needs a little practice and Katya is done as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Chef, I was letting you win!' Because he was letting Barinov wins, Nikita does not bother softening the blow for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Open the door, that is Timur with the crib!' Declaring that Katya should open the door that is Timur with the crib brings Barinov's temper right to the surface.
+- 'Nikita, what are you doing here so late?' Katya questions candidly right away, anchoring the Russian line on "tut" ("here") and "pozdno" ("too late, late") without extra filler.
+- 'I have a matter of life and death.' Nikita offers a calm tack in this beat, leaning on "vopros" ("question, matter") before closing the thought with "zhizni" ("life").
+- 'You must blindfold your eyes and walk into the hall.' Nikita presents a measured footing beside Barinov, combining "dolzhna" ("should, must") and "zavyazat" ("to blindfold") so the key meaning lands right away.
+- 'Alright, but I also have an important matter.' Katya adopts a pointed view as they talk, joining "tozhe" ("too") to "vazhnoye" ("important") so every word pulls its weight.
+- 'I need five minutes to finish everything.' Katya sets a clear tone in the conversation, building the phrase around "nuzhno" ("necessary") and "minut" ("minutes") for a crisp, natural delivery.
+- 'Otherwise the whole kitchen could flood with foam.' Katya conveys a thoughtful tone right away, weaving "inache" ("otherwise") together with "kukhnyu" ("kitchen") just the way native speakers do.
+- 'Alright, I will wait for you by the door.' Nikita strikes a warm approach with Barinov, joining "khorosho" ("good, fine") to "podozhdu" ("will wait") so every word pulls its weight.
+- 'I am heading in, we will be there in a couple of minutes.' Nikita shows a steady manner at once, linking "poshyol" ("went, set off"), "budem" ("will"), and "paru" ("couple") in one brisk exchange.
+- 'Look what a dangerous moment this is right now!' Barinov favors a resolute style for Katya, linking "smotri" ("look"), "seychas" ("now"), and "opasnyy" ("dangerous") in one brisk exchange.
+- 'I just need a little practice, and you are done for!' Barinov maintains a steady tempo in front of Nikita, pairing "natrenirovatsya" ("to practice enough") with "tolko" ("only") so the "-sya" ending carries the action.
+- 'Chef, I was letting you win!' Nikita adopts a steady mood straight away, combining "poddavalsya" ("was letting win") and "shef" ("Chef") so the key meaning lands right away.
+- 'Open the door, that is Timur with the crib!' Barinov projects a lively angle right away, joining "otkryvay" ("to open") to "dver" ("door") so every word pulls its weight.

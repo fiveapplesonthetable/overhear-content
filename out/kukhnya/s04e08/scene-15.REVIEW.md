@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, tell me, do you know how to knit well?' Max asks whether tell him do Ainura knows how to knit well, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And what exactly do you need knitted right now?' Asking whether what exactly do Max needs knitted right now puts Max right on the defensive.
-- 'This warm shawl of Mom's needs to be fixed urgently!' Saying that this warm shawl of Mom needs to be fixed urgently is how Max takes charge of the moment. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Oh my, and do you have knitting needles with you?' Questioning whether her and do Max has knitting needles with Max is how Ainura tests Max's story. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'No, Maksim, I do not know how to knit something like that.' Even though she does not know how to knit something like, Ainura keeps a steady face in front of Max.
-- 'I told you that everything will be fine!' Insisting that he told Ainura that everything will be fine shows Max is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Max, and just what are we going to do now?' Asking whether just what are they going to do now puts Ainura right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Do not worry, right now we will definitely think of something.' Once do not worry right now they will definitely think of something, Max can finally tell Ainura what he means.
-- 'What, are you going to lie to your mother again?' Wondering what Ainura going to lie to Ainura's mother again is is how Vika puts Ainura on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, I promise you, this is for the last time!' By promising Ainura this is for the last time, Max raises the stakes in the room at once. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Your lying never leads to anything good!' Vika declares that Ainura's lying never leads to anything good as the tension in the room peaks.
-- 'I will simply buy her the exact same shawl!' Because he will simply buy her the exact same shawl, Max does not bother softening the blow for Ainura. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Ainura, tell me, do you know how to knit well?' Max checks boldly in their exchange, leaning on "skazhi" ("say") before closing the thought with "khorosho" ("good, fine").
+- 'And what exactly do you need knitted right now?' Ainura challenges promptly during the talk, weaving "seychas" ("now") together with "nuzhno" ("necessary") just the way native speakers do.
+- 'This warm shawl of Mom's needs to be fixed urgently!' Max strikes a calm footing as the scene unfolds, linking "tyoplyy" ("warm"), "mamin" ("needs"), and "platok" ("kitchen") in one brisk exchange.
+- 'Oh my, and do you have knitting needles with you?' Ainura wonders plainly right away, linking "vyazalnyye" ("needles"), "spitsy" ("work"), and "yest" ("there is") in one brisk exchange.
+- 'No, Maksim, I do not know how to knit something like that.' Ainura takes a frank direction during the exchange, weaving "svyazat" ("to tie up, to bind") together with "umeyu" ("to know how to") just the way native speakers do.
+- 'I told you that everything will be fine!' Max shares a wry approach for Vika, leaning on "govoril" ("said, were saying") before closing the thought with "budet" ("will be").
+- 'Max, and just what are we going to do now?' Vika prompts sharply in the room, pairing "teper" ("now") with "delat" ("do") to get the point across in plain spoken Russian.
+- 'Do not worry, right now we will definitely think of something.' Max displays a firm posture in the conversation, joining "perezhivay" ("worry") to "seychas" ("now") so every word pulls its weight.
+- 'What, are you going to lie to your mother again?' Vika queries warmly right away, putting "opyat" ("again") alongside "budesh" ("will") in a tight, everyday turn of phrase.
+- 'Vika, I promise you, this is for the last time!' Max shares an easygoing view in the scene, combining "obeshchayu" ("promise") and "posledniy" ("last") so the key meaning lands right away.
+- 'Your lying never leads to anything good!' Vika presents a candid position in the room, doubling the negative with "ne" ("not") and "vranyo" ("never"), which is standard and required in Russian.
+- 'I will simply buy her the exact same shawl!' Max shows an unhurried note in their talk, joining "prosto" ("just") to "kuplyu" ("will buy") so every word pulls its weight.

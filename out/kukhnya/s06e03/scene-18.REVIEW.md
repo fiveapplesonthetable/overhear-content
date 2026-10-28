@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You could try another sausage at least once.' Because Denis could try another sausage at least once, Katya treats the matter as settled. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'They gifted you sausage, so be grateful!' Over the plan and the situation, Nikita lets his real feelings show.
-- 'Katya, let me drive you in a car?' Questioning whether let him drive Katya in a car is how Denis tests Katya's story. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'No need, I called a taxi.' Here needing she called a taxi sets up the next turn in their exchange. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Let me take you in the taxi.' Letting him take Denis in the taxi is how Nikita lays out the situation for Denis.
-- 'I will manage by myself.' Katya explains that she will manage by herself, keeping her voice calm and direct.
-- 'Where were you looking when you kicked so hard?' Here asking where Denis looking when Denis kicked so hard was shows Nikita looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are the one who deflected the ball into her face!' Because Katya is the one who deflected the ball into her face, Denis does not bother softening the blow for Katya.
-- 'If only you had blocked it properly!' Insisting that if only Katya had blocked it properly shows Denis is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Guys, we have a bullet!' Once they have a bullet, Nikita makes sure Denis hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Did you wash it well?' Here checking whether Katya washes it well shows Denis looking for the real truth.
-- 'Yes, I wiped it with alcohol!' With the situation and room at stake, Nikita reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'You could try another sausage at least once.' Katya picks a direct approach with Denis, building the phrase around "mozhno" ("may, can") and "druguyu" ("the other one") for a crisp, natural delivery.
+- 'They gifted you sausage, so be grateful!' Nikita takes a sharp line in this beat, weaving "podarili" ("gave") together with "kolbasu" ("sausage") just the way native speakers do.
+- 'Katya, let me drive you in a car?' Denis tests openly for Katya's benefit, using "davay" (from "davat", "let's") alongside "mashine" ("car") to shape the meaning.
+- 'No need, I called a taxi.' Katya strikes a brisk position right away, anchoring the Russian line on "nado" ("it is necessary") and "taksi" ("taxi") without extra filler.
+- 'Let me take you in the taxi.' Nikita conveys a frank note as they talk, combining "davay" ("let's") and "taksi" ("taxi") so the key meaning lands right away.
+- 'I will manage by myself.' Katya shares a firm stance without hesitation, weaving "spravlyus" ("will manage") together with "ya" ("I") just the way native speakers do.
+- 'Where were you looking when you kicked so hard?' Nikita queries naturally as the talk turns, leaning on "kuda" ("where to") before closing the thought with "smotrel" ("watched").
+- 'You are the one who deflected the ball into her face!' Denis holds a natural footing on the spot, pairing "litso" ("face") with "myach" ("ball") to get the point across in plain spoken Russian.
+- 'If only you had blocked it properly!' Denis displays an easygoing posture right away, putting "normalno" ("fine, OK") alongside "otbival" ("blocked, deflected") in a tight, everyday turn of phrase.
+- 'Guys, we have a bullet!' Nikita brings a natural position in the room, leaning on "u nas" ("by us, at our place") and "rebyata" ("the boys, the lads") the way natural Russian does.
+- 'Did you wash it well?' Denis wonders lightly in front of Katya, anchoring the Russian line on "khorosho" ("good, fine") and "pomyl" ("washed") without extra filler.
+- 'Yes, I wiped it with alcohol!' Nikita presents an honest bearing for Katya, combining "spirtom" ("with rubbing alcohol") and "proter" ("wiped") so the key meaning lands right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My name is Dmitry Nagiyev, hello!' Nagiyev declares that his name is Dmitry Nagiyev hello as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And we are starting the very best show.' Adding that they are starting the very best show fills in the missing piece for Lyova.
-- 'Our culinary show is called 'Head Chef'!' Insisting that their culinary show is called Chef shows Nagiyev is not backing down.
-- 'If only everything depended on me!' Between the kitchen and the room, Nagiyev delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You would have already won our show.' Mentioning that Lyova would have already won their show moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'First I want to thank my mom.' Lyova reminds Nagiyev that first he wants to thank before the moment passes.
-- 'And then I want to thank my wife.' Adding that he wants to thank his wife fills in the missing piece for Nagiyev.
-- 'Dmitry Vladimirovich, I had a dream.' Explaining that he had a dream lays the cards on the table for Nagiyev. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'In childhood I dreamed of becoming a cook.' With the situation and point in play, Lyova keeps this short reply brisk and direct.
-- 'And now my dream has finally come true!' Insisting that his dream has finally come true shows Lyova is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Such passions are boiling here at our show!' Once such passions are boiling here at their show, Nagiyev makes sure Lyova hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And this, friends, is only the very beginning!' Declaring that this friends is only the very beginning brings Nagiyev's temper right to the surface.
+- 'My name is Dmitry Nagiyev, hello!' Nagiyev takes a candid bearing toward Lyova, joining "zovut" ("call") to "zdravstvuyte" ("hello") so every word pulls its weight.
+- 'And we are starting the very best show.' Nagiyev favors a direct manner for Lyova, weaving "nachinayem" ("are starting") together with "samoye" ("the most") just the way native speakers do.
+- 'Our culinary show is called 'Head Chef'!' Nagiyev takes a thoughtful line at once, building the phrase around "kulinarnoye" ("culinary, cooking") and "shou" ("show") for a crisp, natural delivery.
+- 'If only everything depended on me!' Nagiyev establishes a calm line in front of Lyova, putting "zaviselo" ("to depend on") alongside "yesli" ("if") in a tight, everyday turn of phrase.
+- 'You would have already won our show.' Nagiyev holds an earnest style in the scene, anchoring the Russian line on "uzhe" ("already, now") and "vyigrali" ("won") without extra filler.
+- 'First I want to thank my mom.' Lyova favors a thoughtful style in the room, anchoring the Russian line on "snachala" ("first, at first") and "khochu" ("want") without extra filler.
+- 'And then I want to thank my wife.' Lyova offers a brisk note in the conversation, pairing "potom" ("then") with "khochu" ("want") to get the point across in plain spoken Russian.
+- 'Dmitry Vladimirovich, I had a dream.' Lyova offers a pointed manner in the scene, linking "byla" ("was"), "mechta" ("dream"), and "dmitriy" ("Dmitry") in one brisk exchange.
+- 'In childhood I dreamed of becoming a cook.' Lyova shows an emphatic tempo across the room, linking "detstve" ("childhood"), "mechtal" ("dreamed"), and "stat" ("to become") in one brisk exchange.
+- 'And now my dream has finally come true!' Lyova adopts a candid tempo in the room, pairing "nakonets" ("at last, finally") with "mechta" ("dream") so the "-sya" ending carries the action.
+- 'Such passions are boiling here at our show!' Nagiyev displays a serious line straight away, combining "strasti" ("passions, vices") and "kipyat" ("to show") so the key meaning lands right away.
+- 'And this, friends, is only the very beginning!' Nagiyev chooses a wry direction beside Lyova, leaning on "druzya" ("friends") before closing the thought with "tolko" ("only").

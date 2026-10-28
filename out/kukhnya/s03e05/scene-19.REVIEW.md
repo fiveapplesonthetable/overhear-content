@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just be more careful in the kitchen.' With the moment and chaos in play, Barinov keeps this short reply brisk and direct.
-- 'I spent half the night on this.' Adding that he spent half the night on this fills in the missing piece for Fedya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And mind you, do not touch anything here.' By telling Fedya to mind Fedya does not touch anything here, Barinov keeps his side of the story grounded. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'It seems I just broke a tooth.' Since it seems he just broke a tooth, Senya does not waste words on excuses.
-- 'Listen, make up something new, we are tired of it already.' Here making up something new they are tired of it already sets up the next turn in their exchange.
-- 'Fedya, I really broke a tooth!' With the room and work at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And you did not believe me at all.' Because Barinov did not believe him at all, Senya treats the matter as settled.
-- 'My friend, I got you some good medicine.' Explaining that his friend he got Barinov some good medicine lays the cards on the table for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What kind of medicine did you bring?' Questioning whether what kind of medicine did Barinov brings is how Senya tests Barinov's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nothing is too much for me to give a friend.' Claiming that nothing is too much for him to give a friend sounds confident, even if Barinov has doubts.
-- 'I would rather pull out all my teeth.' Pointing out that he would rather pull out all his teeth gives Barinov a sobering reality check.
-- 'So you do not appreciate my care?' Asking whether Barinov does not appreciate his care puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Just be more careful in the kitchen.' Barinov offers a calm line toward Fedya, weaving "tolko" ("only") together with "budte" ("be") just the way native speakers do.
+- 'I spent half the night on this.' Barinov sustains a frank course during the exchange, joining "polnochi" ("half the night") to "potratil" ("spent, took up") so every word pulls its weight.
+- 'And mind you, do not touch anything here.' Barinov maintains a clear manner in this beat, weaving "smotrite" ("look") together with "tut" ("here") just the way native speakers do.
+- 'It seems I just broke a tooth.' Senya establishes a lively note at once, weaving "kazhetsya" ("it seems, I think") together with "seychas" ("now") just the way native speakers do.
+- 'Listen, make up something new, we are tired of it already.' Fedya shows a frank tack for Barinov, linking "slushay" ("listen"), "pridumay" ("think up, figure out"), and "novoye" ("new") in one brisk exchange.
+- 'Fedya, I really broke a tooth!' Senya picks a frank tack during the exchange, weaving "pravda" ("honestly") together with "zub" ("a tooth") just the way native speakers do.
+- 'And you did not believe me at all.' Senya favors a calm approach on the spot, weaving "sovsem" ("at all") together with "verili" ("believed") just the way native speakers do.
+- 'My friend, I got you some good medicine.' Fedya projects an emphatic direction across the room, combining "drug" ("friend") and "khorosheye" ("lovely, good") so the key meaning lands right away.
+- 'What kind of medicine did you bring?' Senya wonders warmly toward Barinov here, combining "yeshchyo" ("more, still") and "lekarstvo" ("medicine") so the key meaning lands right away.
+- 'Nothing is too much for me to give a friend.' Fedya displays a direct position toward Senya, building the phrase around "druga" ("the friend") and "zhalko" ("feel sorry for") for a crisp, natural delivery.
+- 'I would rather pull out all my teeth.' Senya establishes an earnest tone with Barinov, weaving "luchshe" ("better") together with "zuby" ("tooth") just the way native speakers do.
+- 'So you do not appreciate my care?' Fedya wonders promptly for Senya's benefit, combining "znachit" ("then, so") and "tsenish" ("appreciate") so the key meaning lands right away.

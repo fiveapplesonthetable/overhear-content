@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, he is in the storage room right now.' Claiming that he is in the storage room right now sounds confident, even if Kostya has doubts.
-- 'Dima, calm down, pull yourself together!' Insisting that Kostya should calm down pull themselves together shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I am fine, let me go quickly.' Because he is fine let him go quickly, Nagiyev treats the matter as settled.
-- 'I am very glad that you stopped me.' Here being very glad that Kostya stopped him sets up the next turn in their exchange.
-- 'I am grateful in general that I am in a circle of friends.' Since he is grateful in general that he is in a circle of friends, Nagiyev does not waste words on excuses.
-- 'What a sly fellow, he tricked me!' With the point and story at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well never mind, we will see yet.' Admitting that never mind they will see yet shows Nagiyev being honest for a change.
-- 'Dmitry Vladimirovich, the chef did not want this.' Saying that the did not want this is how Max sets the tone with Kostya.
-- 'No, this is a very bad option.' Once this is a very bad option, Max can finally tell Kostya what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let us ask Max instead.' Explaining that they should ask Max instead lays the cards on the table for Max.
-- 'Max, tell us, Dmitry is better, right?' Questioning whether tell them Dmitry is better right is how Kostya tests Max's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Not a fact, Dmitry infuriates me altogether.' Between the kitchen and the story, Max gives Kostya a quick, grounded response.
+- 'Look, he is in the storage room right now.' Max offers a playful attitude as they talk, leaning on "smotri" ("look") before closing the thought with "seychas" ("now").
+- 'Dima, calm down, pull yourself together!' Max brings a steady position during the exchange, building the phrase around "uspokoysya" ("calm down") and "vozmi" ("take, pick up") for a crisp, natural delivery.
+- 'I am fine, let me go quickly.' Nagiyev shares a direct view across the room, putting "poryadke" ("order") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.
+- 'I am very glad that you stopped me.' Nagiyev favors a thoughtful tempo with Max, putting "ochen" ("very much") alongside "rad" ("glad") in a tight, everyday turn of phrase.
+- 'I am grateful in general that I am in a circle of friends.' Nagiyev chooses a clear note on the spot, leaning on "voobshche" ("at all") before closing the thought with "blagodaren" ("grateful").
+- 'What a sly fellow, he tricked me!' Nagiyev offers a calm mood without hesitation, building the phrase around "khitryy" ("cunning") and "malyy" ("fellow, guy") for a crisp, natural delivery.
+- 'Well never mind, we will see yet.' Nagiyev picks a pointed approach on the spot, weaving "yeshchyo" ("more, still") together with "posmotrim" ("have a look") just the way native speakers do.
+- 'Dmitry Vladimirovich, the chef did not want this.' Max takes a natural attitude straight away, joining "khotel" ("wanted") to "dmitriy" ("Dmitry") so every word pulls its weight.
+- 'No, this is a very bad option.' Max chooses a lively attitude in this beat, putting "ochen" ("very much") alongside "plokhoy" ("bad") in a tight, everyday turn of phrase.
+- 'Let us ask Max instead.' Kostya keeps a measured mood at this moment, joining "davay" ("let's") to "luchshe" ("better") so every word pulls its weight.
+- 'Max, tell us, Dmitry is better, right?' Kostya asks openly without a pause, using "skazhi" (from "skazat", "say") alongside "luchshe" ("better") to shape the meaning.
+- 'Not a fact, Dmitry infuriates me altogether.' Max presents a resolute tempo toward Nagiyev, combining "fakt" ("fact") and "voobshche" ("at all") so the key meaning lands right away.

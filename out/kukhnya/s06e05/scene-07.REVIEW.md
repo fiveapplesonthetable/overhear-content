@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One has to constantly visit different restaurants.' Admitting that one has to constantly visit different restaurants shows Elena being honest for a change.
-- 'Besides, it is more of a hobby.' Saying that besides it is more of a hobby is how Elena sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why on earth did you refuse?' With the work and job hanging in the air, Barinov puts Elena on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Quit your job, I am serious.' Quitting Elena's job he is serious is how Barinov lays out the situation for Elena.
-- 'You have always dreamed of writing books.' Saying that Elena has always dreamed of writing books is how Barinov sets the tone with Elena. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'One chef in the family is quite enough.' Since one in the family is quite enough, Barinov does not waste words on excuses.
-- 'Especially the best chef in Russia.' With the restaurant and job in play, Barinov keeps this short reply brisk and direct.
-- 'Now you have your own restaurant.' Saying that Barinov has Barinov's own restaurant is how Elena sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Soon we will finally get a star.' Because soon they will finally get a star, Barinov treats the matter as settled.
-- 'Then we will rake in money with a shovel.' Explaining that they will rake in money with a shovel lays the cards on the table for Elena.
-- 'In the worst case we have our bank.' Barinov mentions that in the worst case they have their bank so Elena sees what is at stake.
-- 'Do not touch this wedding money!' Elena declares that do not touch this wedding money as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'One has to constantly visit different restaurants.' Elena favors a wry footing in the conversation, weaving "nado" ("it is necessary") together with "postoyanno" ("constantly") just the way native speakers do.
+- 'Besides, it is more of a hobby.' Elena offers a natural posture beside Barinov, pairing "skoreye" ("quickly, right away") with "khobbi" ("hobby") to get the point across in plain spoken Russian.
+- 'Why on earth did you refuse?' Barinov challenges honestly with Elena now, anchoring the Russian line on "pochemu" ("why") and "otkazalas" ("refused") without extra filler.
+- 'Quit your job, I am serious.' Barinov adopts an earnest position toward Elena, putting "uvolnyaysya" ("quit, resign") alongside "raboty" ("of work") in a tight, everyday turn of phrase.
+- 'You have always dreamed of writing books.' Barinov chooses a lively mood beside Elena, weaving "vsegda" ("always") together with "mechtala" ("dreamed") just the way native speakers do.
+- 'One chef in the family is quite enough.' Barinov shares a sharp bearing in front of Elena, putting "semye" ("family") alongside "povara" ("cook") in a tight, everyday turn of phrase.
+- 'Especially the best chef in Russia.' Barinov takes a lively note straight away, joining "boleye" ("more") to "luchshego" ("best") so every word pulls its weight.
+- 'Now you have your own restaurant.' Elena adopts a resolute manner at this moment, anchoring the Russian line on "teper" ("now") and "restoranom" ("restaurant") without extra filler.
+- 'Soon we will finally get a star.' Barinov sustains a resolute tempo with Elena, weaving "skoro" ("soon") together with "zvezdu" ("star") just the way native speakers do.
+- 'Then we will rake in money with a shovel.' Barinov keeps a sharp mood with Elena, anchoring the Russian line on "togda" ("back then") and "dengi" ("money") without extra filler.
+- 'In the worst case we have our bank.' Barinov keeps a measured approach in the room, linking "kraynem" ("extreme, end"), "sluchaye" ("case, event"), and "yest" ("there is") in one brisk exchange.
+- 'Do not touch this wedding money!' Elena presents a resolute footing as they talk, putting "dengi" ("money") alongside "svadbu" ("wedding") in a tight, everyday turn of phrase.

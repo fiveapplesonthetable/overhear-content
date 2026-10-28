@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I catch the bullet with my teeth!' By catching the bullet with his teeth, Nagiyev raises the stakes in the room at once.
-- 'Awesome, go bring a bullet!' With the apartment and kitchen at stake, Nagiyev reacts without holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We do not have a bullet.' Barinov reminds Kostya that they do not have a bullet before the moment passes. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Then make a bullet quickly.' Once Barinov should make a bullet quickly, Nagiyev can finally tell Barinov what he means.
-- 'What am I supposed to make it out of?' With the apartment and shift hanging in the air, Barinov puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What difference does it make to me out of what?' Questioning whether what difference does it make to him out is how Nagiyev tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fine, I will make it right now.' Realizing that fine he will make it right now changes how Barinov handles the situation.
-- 'Wait, I still have to put it in my mouth!' Once he still has to put it in his mouth, Nagiyev makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The last time I did something like this was a very long time ago.' Even though the last time he did something like this was a very long time ago, Kostya keeps a steady face in front of Barinov.
-- 'I terribly love this food.' Between the apartment and the conversation, Kostya gives Barinov a quick, grounded response.
-- 'I completely forgot about the sausage!' Saying that he completely forgot about the sausage is how Kostya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will slice it for the table right now.' Once he will slice it for the table right now, Kostya can finally tell Barinov what he means.
+- 'I catch the bullet with my teeth!' Nagiyev shows a measured tack straight away, building the phrase around "lovlyu" ("catch") and "pulyu" ("bullet") for a crisp, natural delivery.
+- 'Awesome, go bring a bullet!' Nagiyev shares a grounded angle toward Kostya, anchoring the Russian line on "klass" ("cool, great") and "davay" ("let's") without extra filler.
+- 'We do not have a bullet.' Barinov shares an earnest posture on the spot, linking "puli" ("path, way"), "nas" ("us"), and "net" ("no") in one brisk exchange.
+- 'Then make a bullet quickly.' Nagiyev conveys a thoughtful position in the conversation, joining "znachit" ("then, so") to "sdelay" ("make, do") so every word pulls its weight.
+- 'What am I supposed to make it out of?' Barinov quizzes pointedly without holding back, building the phrase around "sdelayu" ("I'll do") and "iz" ("from, out of") for a crisp, natural delivery.
+- 'What difference does it make to me out of what?' Nagiyev prompts lightly without a pause, pairing "raznitsa" ("difference") with "kakaya" ("what, which") to get the point across in plain spoken Russian.
+- 'Fine, I will make it right now.' Barinov keeps an honest position in this beat, anchoring the Russian line on "seychas" ("now") and "sdelayu" ("I'll do") without extra filler.
+- 'Wait, I still have to put it in my mouth!' Nagiyev picks a candid bearing in the conversation, anchoring the Russian line on "yeshche" ("still") and "rot" ("mouth") without extra filler.
+- 'The last time I did something like this was a very long time ago.' Kostya presents an earnest tone in the room, weaving "posledniy" ("last") together with "raz" ("time, once") just the way native speakers do.
+- 'I terribly love this food.' Kostya offers a direct direction in the scene, joining "uzhas" ("horror") to "kak" ("how") so every word pulls its weight.
+- 'I completely forgot about the sausage!' Kostya takes a thoughtful rhythm with Barinov, leaning on "sovsem" ("at all") before closing the thought with "zabyl" ("forgot").
+- 'I will slice it for the table right now.' Kostya takes a thoughtful line during the exchange, weaving "seychas" ("now") together with "narezhu" ("will cut") just the way native speakers do.

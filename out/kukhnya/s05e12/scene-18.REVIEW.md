@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We called him, we thought he was with Vika!' Insisting that they called him they thought he was with Vika shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, to be honest...' Around the ring and chance, Senya sets a calm, everyday tone with Barinov.
-- 'Well, tell me, why did a ring appear instead of a pendant?' Wondering if tell him why did a ring appear instead of a pendant shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Chef, we thought that you wanted to make a proposal.' Senya tells Barinov that they thought that Barinov wanted to make a proposal without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We lost your gift and bought a ring.' Since they lost Barinov's gift and bought a ring, Senya does not waste words on excuses.
-- 'You have just ruined my whole life!' Barinov declares that Max has just ruined his whole life as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Chef, or maybe you ruin everything yourself?' Asking whether maybe Barinov ruins everything themselves puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Say thank you that they gave you a chance.' Max explains that Barinov should say thank Barinov that they gave Barinov a chance, keeping his voice calm and direct.
-- 'To do the right thing for once in your life!' Once to do the right thing for once in Barinov's life, Max makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Once in my life?' With the point and ring hanging in the air, Barinov puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Exactly so, chef.' With the chance and room in play, Max keeps this short reply brisk and direct.
-- 'Where is Elena right now?' Here wondering where Elena right now is shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'We called him, we thought he was with Vika!' Max shares an honest course in the scene, pairing "zvonili" ("called") with "podumali" ("thought") to get the point across in plain spoken Russian.
+- 'Well, to be honest...' Senya brings a warm direction in front of Max, pairing "chestno" ("honestly") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Well, tell me, why did a ring appear instead of a pendant?' Barinov quizzes frankly toward Max here, combining "skazhite" ("tell") and "pochemu" ("why") so the key meaning lands right away.
+- 'Chef, we thought that you wanted to make a proposal.' Senya conveys an honest approach without hesitation, linking "dumali" ("thought"), "predlozheniye" ("offer, proposal"), and "khotite" ("want") in one brisk exchange.
+- 'We lost your gift and bought a ring.' Senya picks a wry angle as the scene unfolds, anchoring the Russian line on "podarok" ("gift, voucher") and "poteryali" ("lost") without extra filler.
+- 'You have just ruined my whole life!' Barinov sustains a firm angle at this moment, leaning on "zhizn" ("life") before closing the thought with "seychas" ("now").
+- 'Chef, or maybe you ruin everything yourself?' Max inquires wryly from the start, anchoring the Russian line on "mozhet" ("can") and "portish" ("ruin, spoil") without extra filler.
+- 'Say thank you that they gave you a chance.' Max shares a serious manner for Senya, weaving "skazhi" ("say") together with "spasibo" ("thank you") just the way native speakers do.
+- 'To do the right thing for once in your life!' Max sets a wry note for Barinov, anchoring the Russian line on "raz" ("time, once") and "zhizni" ("life") without extra filler.
+- 'Once in my life?' Barinov presses plainly at this point, weaving "raz" ("time, once") together with "zhizni" ("life") just the way native speakers do.
+- 'Exactly so, chef.' Max adopts an emphatic view beside Barinov, joining "imenno" ("exactly, precisely") to "tak" ("so") so every word pulls its weight.
+- 'Where is Elena right now?' Barinov checks quietly for Senya's benefit, building the phrase around "gde" ("where") and "seychas" ("now") for a crisp, natural delivery.

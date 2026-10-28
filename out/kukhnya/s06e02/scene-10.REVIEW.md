@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, may I have a drink with you?' Wondering if may he has a drink with Denis shows Nikita caught off guard.
-- 'Let's drink to my mom and her wise advice.' Drinking to her and her wise advice together is how Katya lays out the situation for Denis. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'After all, you are nowhere without them, dismissed.' Claiming that after all Denis is nowhere without them dismissed sounds confident, even if Denis has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Katya, hi.' With the truth and party in play, Denis keeps this short reply brisk and direct.
-- 'You want to have a drink with me too, right?' Questioning whether Denis wants to have a drink with her too right is how Katya tests Denis's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'To those who run away, will you drink?' When Katya asks if to those who run away will Denis drinks, Denis has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, I will not drink to that.' Saying that he will not drink is how Denis sets the tone with Katya.
-- 'Well I will drink, you are very good at that.' Once she will drink Denis is very good, Katya can finally tell Denis what she means. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'She is right, I am at fault.' Adding that she is right he is at fault fills in the missing piece for Katya.
-- 'That is no reason to stay offended for so long.' Saying that that is no reason to stay offended for so long is how Nikita sets the tone with Denis.
-- 'I do not understand, does she work here with us?' Over the work and the party, Denis presses Katya for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Mine works here too.' Mentioning that his works here moves the talk in a new direction.
+- 'Katya, may I have a drink with you?' Nikita inquires sharply as the beat lands, building the phrase around "mogu" ("can") and "vypit" ("to drink") for a crisp, natural delivery.
+- 'Let's drink to my mom and her wise advice.' Katya chooses a resolute rhythm without hesitation, combining the everyday invitation "davay" ("come on, let us") with "mamu" ("mother, mum") to give the line its natural spoken rhythm.
+- 'After all, you are nowhere without them, dismissed.' Katya shows an earnest course as the scene unfolds, joining "nikuda" ("nowhere, anywhere") to "svoboden" ("free") so every word pulls its weight.
+- 'Katya, hi.' Denis presents a sharp line in the scene, combining "katya" ("Katya") and "privet" ("hi") so the key meaning lands right away.
+- 'You want to have a drink with me too, right?' Katya probes lightly in the scene, weaving "tozhe" ("too") together with "vypit" ("to drink") just the way native speakers do.
+- 'To those who run away, will you drink?' Katya probes frankly across the room, joining "sbegayut" ("run away") to "vypyesh" ("will you drink") so every word pulls its weight.
+- 'No, I will not drink to that.' Denis chooses an earnest tack straight away, putting "budu" ("will be") alongside "net" ("no") in a tight, everyday turn of phrase.
+- 'Well I will drink, you are very good at that.' Katya sets an emphatic attitude in the scene, combining "vypyu" ("drink") and "ochen" ("very much") so the key meaning lands right away.
+- 'She is right, I am at fault.' Denis shows a resolute stance as they talk, anchoring the Russian line on "prava" ("right, correct") and "vinovat" ("at fault, guilty") without extra filler.
+- 'That is no reason to stay offended for so long.' Nikita shares a frank style with Katya, putting "povod" ("reason, occasion") alongside "dolgo" ("for a long time") in a tight, everyday turn of phrase.
+- 'I do not understand, does she work here with us?' Denis inquires sharply for Katya's benefit, leaning on "ponyal" ("understood") before closing the thought with "rabotayet" ("works").
+- 'Mine works here too.' Nikita establishes a resolute tone in this beat, pairing "tozhe" ("too") with "tut" ("here") to get the point across in plain spoken Russian.

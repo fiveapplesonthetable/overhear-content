@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Лёва | Гуле кажется, что ты специально сводишь нас. | It seems to Gulya that you are purposefully setting us up. | #288: Гуле кажется, что ты сводишь нас с Ларисой | adapted: adapted |
 | 4 | Гость | Что вы, Лёва сам решает, с кем встречаться. | Not at all, Lyova decides for himself whom to date. | #289: Что вы, Лев сам решает, с кем мы встречаться | adapted: adapted |
 | 5 | Лёва | Вот именно, и я уже выбрал Гулю. | Exactly, and I have already chosen Gulya. | #290: И я уже выбрал Гулю | adapted: adapted |
-| 6 | Гость | Я не виновата, что влюбилась в этого человека. | It is not my fault that I fell in love with this person. | #290: Я не виновата, что ты уже влюбилась в этого человека | adapted: adapted |
+| 6 | Гуля | Я не виновата, что влюбилась в этого человека. | It is not my fault that I fell in love with this person. | #290: Я не виновата, что ты уже влюбилась в этого человека | adapted: adapted |
 | 7 | Гуля | Неужели ты влюбилась в него так быстро? | Did you really fall in love with him so quickly? | #291: Влюбилась? Так быстро | adapted: adapted |
 | 8 | Гуля | Я прекрасно понимаю, что тебе квартира нужна. | I understand perfectly well that you want the apartment. | #293: Квартира ей нужна | adapted: adapted |
 | 9 | Гость | Слушай меня внимательно, эта квартира будет моя. | Listen to me carefully, this apartment will be mine. | #294: эта хата моя | adapted: adapted |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, tell me, what is she doing here right now?' Lyova asks whether Mom tell him what is she doing here right now, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Your mom herself invited me to dinner.' Around the conversation and apartment, the guest sets a calm, everyday tone with Gulya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'It seems to Gulya that you are purposefully setting us up.' Adding that it seems to Gulya that the guest is purposefully setting them up fills in the missing piece for the guest.
-- 'Not at all, Lyova decides for himself whom to date.' The guest tells Gulya that not at all Lyova decides for himself whom to date without dressing it up. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Exactly, and I have already chosen Gulya.' Since exactly and he has already chosen Gulya, Lyova does not waste words on excuses.
-- 'It is not my fault that I fell in love with this person.' Mentioning that it is not his fault that he fell in love with this person moves the talk in a new direction.
-- 'Did you really fall in love with him so quickly?' Asking whether the guest really fall in love with him so quickly is how Gulya puts the guest on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I understand perfectly well that you want the apartment.' Mentioning that she understands perfectly well that the guest wants the apartment moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen to me carefully, this apartment will be mine.' Explaining that to him carefully this apartment will be lays the cards on the table for Gulya.
-- 'What are you saying, what are you even talking about?' Asking what the guest saying what are the guest even talking is cuts straight through the tension between Gulya and the guest. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I have already been looking after his mom for two months.' Having already been looking after his for two months is how the guest lays out the situation for Gulya.
-- 'So get out of my apartment quickly!' Saying that Gulya should get out of his apartment quickly is how the guest takes charge of the moment.
-- 'We will see whose apartment this will be!' Insisting that they will see whose apartment this will be shows Gulya is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Mom, tell me, what is she doing here right now?' Lyova quizzes honestly in the scene, linking "mama" ("mum, mother"), "skazhi" ("say"), and "zdes" ("here") in one brisk exchange.
+- 'Your mom herself invited me to dinner.' The guest conveys a candid course straight away, putting "mama" ("mum, mother") alongside "priglasila" ("to invite, to call in") in a tight, everyday turn of phrase.
+- 'It seems to Gulya that you are purposefully setting us up.' Lyova chooses a wry posture on the spot, linking "kazhetsya" ("it seems, I think"), "spetsialno" ("on purpose"), and "svodish" ("you are setting up") in one brisk exchange.
+- 'Not at all, Lyova decides for himself whom to date.' The guest presents a clear bearing without hesitation, combining "reshayet" ("decides") and "vstrechatsya" ("to meet") so the key meaning lands right away.
+- 'Exactly, and I have already chosen Gulya.' Lyova maintains a natural angle toward the guest, joining "uzhe" ("already, now") to "vybral" ("chose") so every word pulls its weight.
+- 'It is not my fault that I fell in love with this person.' Gulya offers a measured course on the spot, joining "vinovata" ("at fault, to blame") to "vlyubilas" ("fell in love") so every word pulls its weight.
+- 'Did you really fall in love with him so quickly?' Gulya tests pointedly to keep things clear, linking "vlyubilas" ("fell in love"), "bystro" ("quickly"), and "neuzheli" ("really, can it be") in one brisk exchange.
+- 'I understand perfectly well that you want the apartment.' Gulya strikes a natural posture at once, putting "prekrasno" ("perfectly") alongside "ponimayu" ("understand") in a tight, everyday turn of phrase.
+- 'Listen to me carefully, this apartment will be mine.' The guest sets a sharp course beside Gulya, pairing "slushay" ("listen") with "vnimatelno" ("carefully, attentively") to get the point across in plain spoken Russian.
+- 'What are you saying, what are you even talking about?' Gulya asks quietly across the room, using "govorish" (from "govorit", "you say") alongside "voobshche" ("at all") to shape the meaning.
+- 'I have already been looking after his mom for two months.' The guest presents an earnest tempo with Gulya, combining "uzhe" ("already, now") and "mesyatsa" ("months") so the key meaning lands right away.
+- 'So get out of my apartment quickly!' The guest maintains an unhurried bearing with Lyova, linking "bystro" ("quickly"), "ukhodi" ("go away"), and "kvartiry" ("flat") in one brisk exchange.
+- 'We will see whose apartment this will be!' Gulya maintains a playful view for the guest, combining "yeshchyo" ("more, still") and "posmotrim" ("have a look") so the key meaning lands right away.

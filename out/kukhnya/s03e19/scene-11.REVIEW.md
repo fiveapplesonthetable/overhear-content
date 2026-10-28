@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait a second, it says here: Rodion Sergeyevich Barinov!' Barinov insists that a second it says here Rodion Sergeyevich Barinov, leaving Max no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Chef, they wrote it down just the way he told us.' Noting that they wrote it down just the way he told them keeps Max's side of the story simple and clear.
-- 'I do not remember my surname, and I wanted something strong-sounding.' Even though he does not remember his surname and he wanted something strong sounding, Rodion keeps a steady face in front of Barinov.
-- 'Rodion Sergeyevich Barinov! And with a full set of documents!' Between the dish and the work, Max delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Even I do not have all such authentic documents.' Saying that even he does not have all such authentic documents is how Barinov sets the tone with Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I will fire him anyway for professional incompetence.' Once he will fire him anyway for professional incompetence, Max can finally tell Barinov what he means.
-- 'And how will you determine that? Just by his eyes?' Asking how Max determine will is how Barinov puts Max on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Right now he will cook something for us, and everything will be clear.' Saying that right now he will cook something for them and everything will be clear is how Max sets the tone with Barinov.
-- 'And here is the first order: fish and meat with vegetables.' Since here is the first order fish and meat with vegetables, Max does not waste words on excuses.
-- 'He will not cook anything, I am his boss here!' Barinov declares that he will not cook anything he is his boss here as the tension in the room peaks. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Viktor Petrovich, this is just a simple dish with vegetables.' Saying that this is just a simple dish with vegetables is how Rodion sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, what is there even to take long cooking here, tell me?' Here wondering what there even to take long cooking here tell him is shows Rodion looking for the real truth.
+- 'Wait a second, it says here: Rodion Sergeyevich Barinov!' Barinov takes a thoughtful bearing as they talk, weaving "podozhdite" ("wait") together with "tut" ("here") just the way native speakers do.
+- 'Chef, they wrote it down just the way he told us.' Max keeps a clear posture as the scene unfolds, pairing "kak" ("how") with "skazal" ("said") to get the point across in plain spoken Russian.
+- 'I do not remember my surname, and I wanted something strong-sounding.' Rodion displays a warm tack straight away, pairing "khotelos" ("to feel like") with "familii" ("surname, last name") so the "-sya" ending carries the action.
+- 'Rodion Sergeyevich Barinov! And with a full set of documents!' Max takes a thoughtful stance with Rodion, linking "polnym" ("full, complete"), "paketom" ("with a package"), and "dokumentov" ("documents") in one brisk exchange.
+- 'Even I do not have all such authentic documents.' Barinov displays a lively posture in their talk, using the everyday "u menya" ("by me") alongside "nastoyashchiye" ("real") to show what belongs to the speaker.
+- 'I will fire him anyway for professional incompetence.' Max shares a brisk bearing in front of Rodion, weaving "ravno" ("the same") together with "uvolyu" ("will fire") just the way native speakers do.
+- 'And how will you determine that? Just by his eyes?' Barinov challenges plainly in this moment, weaving "kak" ("how") together with "opredelite" ("you will determine") just the way native speakers do.
+- 'Right now he will cook something for us, and everything will be clear.' Max chooses an unhurried angle at this moment, pairing "seychas" ("now") with "prigotovit" ("makes, cooks") to get the point across in plain spoken Russian.
+- 'And here is the first order: fish and meat with vegetables.' Max shows an emphatic note without hesitation, combining "pervyy" ("first") and "zakaz" ("order") so the key meaning lands right away.
+- 'He will not cook anything, I am his boss here!' Barinov adopts an easygoing style toward Rodion, pairing "gotovit" ("to cook") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Viktor Petrovich, this is just a simple dish with vegetables.' Rodion holds a natural footing on the spot, anchoring the Russian line on "prostoye" ("simple") and "blyudo" ("dish") without extra filler.
+- 'Well, what is there even to take long cooking here, tell me?' Rodion tests decisively without hesitation, joining "tut" ("here") to "voobshche" ("at all") so every word pulls its weight.

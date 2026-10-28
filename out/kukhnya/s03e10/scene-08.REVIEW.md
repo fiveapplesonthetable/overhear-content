@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you really believe me just now?' By asking whether Barinov really believe her just now, Katya presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Come on, just do not get so upset.' Because Barinov should come on just do not get so upset, Katya treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We will definitely go have coffee some time.' Saying that they will definitely go have coffee some time is how Katya sets the tone with Barinov.
-- 'What is going on between you and this Lavrov?' Here asking what going on between Katya and this Lavrov is shows Barinov looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I will not tolerate any flings in my kitchen!' Insisting that he will not tolerate any flings in his kitchen shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You had better look at yourself, Dad.' Katya tells Barinov that Barinov had better look at themselves dad without dressing it up.
-- 'The whole kitchen laughs at you acting like a teenager.' Since the whole kitchen laughs at Barinov acting like a teenager, Katya does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Stay out of my life, it is my own business.' Telling Barinov to stay out of her life it is her own business is how Katya lays out the situation for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why, I am only looking out for you!' Saying that why he is only looking out for Katya is how Barinov takes charge of the moment.
-- 'Is it not a bit too late to become a caring dad?' Checking whether it not a bit too late to become a caring dad cuts straight through the tension between Katya and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Stop, wait, I have not finished speaking yet.' Mentioning that Katya should stop wait he has not finished speaking yet moves the talk in a new direction.
-- 'Chef, may I speak with you for a second?' Max asks whether may he speaks with Barinov for a second, refusing to let the point slide.
+- 'Wait, did you really believe me just now?' Katya questions firmly in the scene, weaving "realno" ("really possible") together with "seychas" ("now") just the way native speakers do.
+- 'Come on, just do not get so upset.' Katya maintains a measured tack toward Max, putting "tolko" ("only") alongside "rasstraivaysya" ("be upset, worry") in a tight, everyday turn of phrase.
+- 'We will definitely go have coffee some time.' Katya shares an earnest tempo during the exchange, leaning on "yeshchyo" ("more, still") before closing the thought with "obyazatelno" ("surely, without fail").
+- 'What is going on between you and this Lavrov?' Barinov queries quietly as they speak, weaving "chto" ("what") together with "tebya" ("you") just the way native speakers do.
+- 'I will not tolerate any flings in my kitchen!' Barinov strikes a serious line right away, linking "kukhne" ("kitchen"), "intrizhek" ("flings"), and "poterplyu" ("will tolerate") in one brisk exchange.
+- 'You had better look at yourself, Dad.' Katya brings a pointed angle as the scene unfolds, building the phrase around "luchshe" ("better") and "posmotri" ("look") for a crisp, natural delivery.
+- 'The whole kitchen laughs at you acting like a teenager.' Katya favors a frank manner without hesitation, weaving "kukhnya" ("kitchen") together with "smeyotsya" ("is laughing") just the way native speakers do.
+- 'Stay out of my life, it is my own business.' Katya holds a lively attitude for Max, linking "lez" ("poke nose, meddle"), "zhizn" ("life"), and "delo" ("matter") in one brisk exchange.
+- 'Why, I am only looking out for you!' Barinov favors a grounded view in the conversation, pairing "zabochus" ("care about") with "da" ("yes") so the "-sya" ending carries the action.
+- 'Is it not a bit too late to become a caring dad?' Katya probes pointedly in this moment, weaving "slishkom" ("too") together with "pozdno" ("too late, late") just the way native speakers do.
+- 'Stop, wait, I have not finished speaking yet.' Barinov offers an unhurried angle with Katya, linking "stoy" ("stop, wait"), "podozhdi" ("wait"), and "yeshchyo" ("more, still") in one brisk exchange.
+- 'Chef, may I speak with you for a second?' Max wonders candidly at this point, combining "mozhno" ("may, can") and "sekundu" ("second") so the key meaning lands right away.

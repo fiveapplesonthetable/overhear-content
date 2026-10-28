@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, Katya, this is specially for you.' Admitting that here Fedya goes Katya this is specially for Fedya shows Nikita being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hot cocoa with sweet little marshmallows!' Around the situation and conversation, Katya makes her point loud and clear.
-- 'I have adored it since early childhood.' Katya mentions that she has adored it since early childhood so Fedya sees what is at stake.
-- 'Tell me, how did you find out about that?' Asking whether tell her how did Fedya finds out puts Fedya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It seems to me there is a cosmic bond between us.' Adding that it seems to him there is a cosmic bond between them fills in the missing piece for Fedya.
-- 'Some higher intelligence is guiding me.' Because some higher intelligence is guiding him, Nikita treats the matter as settled.
-- 'Well then, is it really tasty for you?' Asking whether it really tasty for Fedya cuts straight through the tension between Nikita and Fedya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Katya, did you just kiss a waiter?' Checking whether Katya just kiss a waiter is how Fedya puts Katya on the spot.
-- 'Now you will start turning into a waitress!' Insisting that Katya will start turning into a waitress shows Fedya is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well fine, there is nothing terrible about that.' Pointing out that fine there is nothing terrible gives Fedya a sobering reality check.
-- 'After all, you do not turn into Senya.' Saying that after all Fedya does not turn into Senya is how Katya sets the tone with Fedya.
-- 'Have a nice time staying here, young lovebirds!' Fedya insists that have a nice time staying here young lovebirds, leaving Katya no room to argue. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Here you go, Katya, this is specially for you.' Nikita picks a wry bearing right away, anchoring the Russian line on "derzhi" ("here you go") and "spetsialno" ("on purpose") without extra filler.
+- 'Hot cocoa with sweet little marshmallows!' Katya offers a playful tone with Nikita, joining "goryacheye" ("hot") to "kakao" ("cocoa") so every word pulls its weight.
+- 'I have adored it since early childhood.' Katya sustains a brisk footing in the room, using "samogo" (from "samyy", "the very") alongside "detstva" ("childhood") to shape the meaning.
+- 'Tell me, how did you find out about that?' Katya queries promptly from the start, joining "skazhi" ("say") to "otkuda" ("where from") so every word pulls its weight.
+- 'It seems to me there is a cosmic bond between us.' Nikita offers a candid tack as they talk, putting "kazhetsya" ("it seems, I think") alongside "kosmicheskaya" ("cosmic") in a tight, everyday turn of phrase.
+- 'Some higher intelligence is guiding me.' Nikita shows a playful line across the room, combining "vysshiy" ("highest, supreme") and "razum" ("mind") so the key meaning lands right away.
+- 'Well then, is it really tasty for you?' Nikita inquires wryly in the room, anchoring the Russian line on "deystvitelno" ("really, indeed") and "vkusno" ("it's tasty") without extra filler.
+- 'Katya, did you just kiss a waiter?' Fedya prompts calmly without a pause, linking "ofitsianta" ("waiter"), "potselovala" ("kissed"), and "katya" ("Katya") in one brisk exchange.
+- 'Now you will start turning into a waitress!' Fedya establishes a clear line straight away, combining "teper" ("now") and "ofitsiantku" ("waitress") so the key meaning lands right away.
+- 'Well fine, there is nothing terrible about that.' Katya maintains an emphatic attitude straight away, building the phrase around "strashnogo" ("terrible, serious") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'After all, you do not turn into Senya.' Katya shares a clear style as the scene unfolds, leaning on "prevrashchayeshsya" ("to turn into") before closing the thought with "ved" ("after all").
+- 'Have a nice time staying here, young lovebirds!' Fedya sustains a brisk tack in their talk, building the phrase around "schastlivo" ("take care") and "ostavatsya" ("to stay, to remain") for a crisp, natural delivery.

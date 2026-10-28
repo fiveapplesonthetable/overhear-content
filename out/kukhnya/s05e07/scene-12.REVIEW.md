@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The prefect ordered the promotional entrecote.' Between the work and the shift, Mikhail gives Fedya a quick, grounded response.
-- 'Come on, Nikolai Maryanovich, there is just a tiny bit left!' Coming on Nikolai Maryanovich there is just a tiny bit left shows Mikhail is done holding back.
-- 'He will come right back and finish eating.' Mentioning that he will come right back and finish eating moves the talk in a new direction.
-- 'And now it turns out I am a crazy fool.' Katya reminds Fedya that it turns out she is a crazy fool before the moment passes.
-- 'Do not cry, everything will be fine.' Because do not cry everything will be fine, Fedya treats the matter as settled.
-- 'Thank you.' Because Fedya should thank Fedya, Katya treats the matter as settled.
-- 'You love him, and he does not understand!' Once Katya loves him and he does not understand, Fedya makes sure Katya hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What did he tell you yesterday?' Asking what he tell Katya yesterday is how Fedya puts Katya on the spot.
-- 'When I saw you, I immediately understood everything.' Pointing out that when he saw Katya he immediately understood everything gives Katya a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'A girl like you must be valued and loved.' Fedya explains that a girl like Katya must be valued and loved, keeping his voice calm and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'When I look into your eyes, I understand everything.' Realizing that when he looks into Katya's eyes he understands everything changes how Fedya handles the situation.
-- 'In these eyes my boat will sink.' Noting that in these eyes his boat will sink keeps Fedya's side of the story simple and clear.
+- 'The prefect ordered the promotional entrecote.' Mikhail sets a pointed tone as the scene unfolds, weaving "antrekot" ("entrecote, ribeye steak") together with "aktsii" ("rally, campaign") just the way native speakers do.
+- 'Come on, Nikolai Maryanovich, there is just a tiny bit left!' Mikhail establishes a pointed note during the exchange, putting "davayte" ("let's") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
+- 'He will come right back and finish eating.' Mikhail displays an honest stance in the scene, pairing "seychas" ("now") with "vernyotsya" ("will return") so the "-sya" ending carries the action.
+- 'And now it turns out I am a crazy fool.' Katya adopts a thoughtful approach without hesitation, pairing "teper" ("now") with "dura" ("fool") to get the point across in plain spoken Russian.
+- 'Do not cry, everything will be fine.' Fedya offers an easygoing rhythm in the scene, joining "plach" ("cry") to "budet" ("will be") so every word pulls its weight.
+- 'Thank you.' Katya presents a natural note as they talk, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
+- 'You love him, and he does not understand!' Fedya keeps a grounded direction in front of Katya, weaving "lyubish" ("love") together with "ponimayet" ("understands") just the way native speakers do.
+- 'What did he tell you yesterday?' Fedya asks quietly without a pause, pairing "vchera" ("yesterday") with "skazal" ("said") to get the point across in plain spoken Russian.
+- 'When I saw you, I immediately understood everything.' Fedya favors a wry style in their talk, weaving "kogda" ("when") together with "uvidel" ("saw") just the way native speakers do.
+- 'A girl like you must be valued and loved.' Fedya keeps a natural view in front of Mikhail, joining "devushku" ("young woman") to "nado" ("it is necessary") so every word pulls its weight.
+- 'When I look into your eyes, I understand everything.' Fedya shares an earnest manner beside Katya, leaning on "kogda" ("when") before closing the thought with "glaza" ("eyes").
+- 'In these eyes my boat will sink.' Fedya offers a pointed note on the spot, joining "glazakh" ("eye") to "barkas" ("launch, boat") so every word pulls its weight.

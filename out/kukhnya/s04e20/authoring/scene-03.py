@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e20.ru.srt'
 INTRO = "Storming down the corridor, furious Katya snaps at Vika that Max was right to leave her. Baffled and hurt, Vika turns to Denis and demands to know why Katya suddenly hates her so much. Let's listen to Denis's awkward confession in Russian."
 OPENER = "Now let's examine how Denis explains the misunderstanding to Vika line by line."
 TRANSITION = "Let's hear the corridor conversation between Vika and Denis from start to finish."
-OUTRO = 'Outraged that Denis told the bartender about dreaming of her, Vika refuses to get involved and tells Denis to fix his own mess. Listen for the nouns meaning rumor, dreams, and couch. Until next time!'
+OUTRO = 'Outraged that Denis told the bartender about dreaming of her, Vika refuses to get involved and tells Denis to fix his own mess. Listen for the words meaning rumor, dreams, and couch. Until next time!'
 CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('vika', 'Денис, ты мне объяснишь, что это было?', 'Denis, will you explain to me what that was?', [(41, 'Денис, может быть, ты объяснишь, что это было')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Ты сам эту кашу заварил.', 'You stirred up this mess yourself.', [(55, 'Сам заварил')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Denis, will you explain to me what that was?\' Here asking whether Denis explains to her what that was shows Vika looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (1, None, "'I am afraid you will not like this, Vika.' Pointing out that he is afraid Vika will not like this gives Vika a sobering reality check."),
-    (2, None, "'Enough keeping silent, tell me right now!' With the room and rumor at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat."),
-    (3, None, "'Katya thinks that we were together.' Saying that Katya thinks that they were together is how Denis sets the tone with Vika."),
-    (4, None, "'What? What kind of foolish nonsense is that?' Wondering if what kind of foolish nonsense is shows Vika caught off guard."),
-    (5, None, '\'What idiot spread this stupid rumor?\' Over the rumor and the kitchen, Vika presses Denis for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (6, None, "'I was just telling Kostya about my dreams.' Saying that he was just telling Kostya about his dreams is how Denis sets the tone with Vika."),
-    (7, None, "'I dreamed that we were in the office.' Since he dreamed that they were in the office, Denis does not waste words on excuses."),
-    (8, None, "'And Katya happened to walk in and overheard.' Over the room and the rumor, Denis answers Vika without a second thought."),
-    (9, None, "'Now she does not want to speak with me.' Mentioning that she does not want to speak with him moves the talk in a new direction."),
-    (10, None, "'Vika, tell me, what should I do now?' Questioning whether tell him what should he does now is how Denis tests Vika's story."),
-    (11, None, '\'You stirred up this mess yourself.\' Around the room and rumor, Vika sets a calm, everyday tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (0, None, '\'Denis, will you explain to me what that was?\' Vika quizzes pointedly as the beat lands, using "obyasnish" (from "obyasnit", "to explain") alongside "bylo" ("was") to shape the meaning.'),
+    (1, None, '\'I am afraid you will not like this, Vika.\' Denis keeps a brisk position beside Vika, linking "boyus" ("am afraid"), "ponravitsya" ("will please"), and "vika" ("Vika") in one brisk exchange.'),
+    (2, None, '\'Enough keeping silent, tell me right now!\' Vika strikes a serious bearing at this moment, building the phrase around "khvatit" ("enough") and "molchat" ("be quiet") for a crisp, natural delivery.'),
+    (3, None, '\'Katya thinks that we were together.\' Denis projects a lively direction as the scene unfolds, building the phrase around "dumayet" ("thinks") and "byli" ("be") for a crisp, natural delivery.'),
+    (4, None, '\'What? What kind of foolish nonsense is that?\' Vika quizzes warmly in front of Denis, leaning on "yeshchyo" ("more, still") before closing the thought with "glupyy" ("stupid").'),
+    (5, None, '\'What idiot spread this stupid rumor?\' Vika questions dryly during the talk, combining "idiot" ("idiot") and "raspustil" ("to spread") so the key meaning lands right away.'),
+    (6, None, '\'I was just telling Kostya about my dreams.\' Denis shows a frank style in their talk, building the phrase around "prosto" ("just") and "rasskazyval" ("told, recounted") for a crisp, natural delivery.'),
+    (7, None, '\'I dreamed that we were in the office.\' Denis strikes an emphatic line in their talk, anchoring the Russian line on "snilos" ("to appear in a dream") and "kabinete" ("office") without extra filler.'),
+    (8, None, '\'And Katya happened to walk in and overheard.\' Denis sustains a measured direction in front of Vika, linking "sluchayno" ("by any chance"), "zashla" ("dropped in"), and "uslyshala" ("to hear") in one brisk exchange.'),
+    (9, None, '\'Now she does not want to speak with me.\' Denis chooses a thoughtful attitude in the conversation, putting "teper" ("now") alongside "khochet" ("wants") in a tight, everyday turn of phrase.'),
+    (10, None, '\'Vika, tell me, what should I do now?\' Denis prompts decisively on the spot, pairing "skazhi" ("say") with "teper" ("now") to get the point across in plain spoken Russian.'),
+    (11, None, '\'You stirred up this mess yourself.\' Vika shares a lively style in the room, pairing "kashu" ("porridge") with "zavaril" ("brew, steep") to get the point across in plain spoken Russian.'),
 ]

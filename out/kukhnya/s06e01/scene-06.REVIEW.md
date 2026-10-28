@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me?' Checking whether Eleonora wants to see is how Katya puts Eleonora on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, sit down.' Even though Katya should sit down, Eleonora keeps a steady face in front of Katya.
-- 'Thank you, I will stand.' Saying that she will stand is how Katya sets the tone with Eleonora.
-- 'Katya, I understand you are upset with me.' Even though she understands Katya is upset, Eleonora keeps a steady face in front of Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'This is very important to me.' Admitting that this is very important shows Eleonora being honest for a change.
-- 'Sorry, I cannot, there is a lot of work.' Katya tells Eleonora that she cannot there is a lot of work without dressing it up.
-- 'But I can give you a day off.' Since she can give Katya a day off, Eleonora does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am at fault, I interfered in your life.' Eleonora mentions that she is at fault she interfered in Katya's life so Katya sees what is at stake.
-- 'Nikita is a good guy, I really like him.' Saying that Nikita is a good guy she really likes him is how Katya sets the tone with Eleonora.
-- 'But nothing excuses his lying.' Because nothing excuses his lying, Katya treats the matter as settled.
-- 'I understand you, because I love you.' Adding that she understands Katya because she loves Katya fills in the missing piece for Katya.
-- 'I love you very much, peace?' Wondering if she loves Katya very much peace shows Eleonora caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Did you want to see me?' Katya asks candidly to make the point, anchoring the Russian line on "khotela" ("wanted, meant") and "videt" ("to see") without extra filler.
+- 'Yes, sit down.' Eleonora chooses a pointed tone beside Katya, pairing "sadis" ("sit down") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'Thank you, I will stand.' Katya displays an earnest posture in the scene, leaning on "spasibo" ("thank you") before closing the thought with "postoyu" ("will stand").
+- 'Katya, I understand you are upset with me.' Eleonora projects a measured style as the scene unfolds, joining "ponimayu" ("understand") to "obizhena" ("offended, hurt") so every word pulls its weight.
+- 'This is very important to me.' Eleonora favors a firm posture in their talk, building the phrase around "ochen" ("very much") and "vazhno" ("important, mattering") for a crisp, natural delivery.
+- 'Sorry, I cannot, there is a lot of work.' Katya conveys a serious angle at this moment, linking "izvini" ("sorry, excuse me"), "mogu" ("can"), and "mnogo" ("a lot") in one brisk exchange.
+- 'But I can give you a day off.' Eleonora conveys a serious course as they talk, using "mogu" (from "moch", "can") alongside "dat" ("to give") to shape the meaning.
+- 'I am at fault, I interfered in your life.' Eleonora displays an emphatic mood for Katya, using "vinovata" (from "vinovatyy", "at fault, to blame") alongside "vmeshivalas" ("interfered") to shape the meaning.
+- 'Nikita is a good guy, I really like him.' Katya maintains a brisk tone as they talk, pairing "nravitsya" ("is pleasing") with "khoroshiy" ("good") so the "-sya" ending carries the action.
+- 'But nothing excuses his lying.' Katya projects a brisk rhythm for Eleonora, joining "opravdyvayet" ("live up to") to "vranya" ("lying") so every word pulls its weight.
+- 'I understand you, because I love you.' Eleonora picks a warm rhythm on the spot, combining "ponimayu" ("understand") and "potomu" ("because") so the key meaning lands right away.
+- 'I love you very much, peace?' Eleonora challenges bluntly toward Katya here, weaving "ochen" ("very much") together with "lyublyu" ("love") just the way native speakers do.

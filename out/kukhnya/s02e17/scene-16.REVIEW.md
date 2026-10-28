@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Максим, слушай. | Maxim, listen to me. | #259: Максим, слушай | verbatim |
+| 1 | Костя | Максим, слушай. | Maxim, listen to me. | #259: Максим, слушай | verbatim |
 | 2 | Костя | И я о том же. | That is exactly what I am talking about. | #261: И я о том же | verbatim |
 | 3 | Саша | Мне вообще кажется, что... | In fact, it seems to me that... | #262: Мне вообще кажется, что | verbatim |
 | 4 | Макс | Мой Костик изменяет меня с твоей Сашей. | My Kostik is cheating on me with your Sasha. | #263: Мой Костик изменяет меня с твоей Сашей | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, listen to me.' With the room and shift in play, Max keeps this short reply brisk and direct.
-- 'That is exactly what I am talking about.' Saying that that is exactly what he is talking is how Kostya sets the tone with Max.
-- 'In fact, it seems to me that...' Once in fact it seems, Sasha can finally tell Kostya what she means.
-- 'My Kostik is cheating on me with your Sasha.' Adding that his is cheating on him with Kostya's Sasha fills in the missing piece for Kostya.
-- 'That is nonsense, it cannot be true.' Saying that that is nonsense it cannot be true is how Kostya sets the tone with Max.
-- 'They were holding hands.' Since they were holding hands, Sasha does not waste words on excuses.
-- 'Well, let us go see.' Max explains that they should go see, keeping his voice calm and direct.
-- 'That is not what we agreed on.' Kostya reminds Max that that is not what they agreed before the moment passes.
-- 'You promised to tell him yourself.' Because Kostya promised to tell him themselves, Sasha treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Will that make you feel any better?' Asking whether that make Kostya feels any better is how Max puts Kostya on the spot.
-- 'I cannot keep lying to my best friend.' Claiming that he cannot keep lying to his best friend sounds confident, even if Max has doubts.
-- 'Either you tell him right now.' Claiming that either Kostya tells him right now sounds confident, even if Kostya has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So you really cheated on me?' With the shift and situation hanging in the air, Max puts Kostya on the spot.
+- 'Maxim, listen to me.' Kostya displays a resolute style at once, leaning on "slushay" ("listen") before closing the thought with "maksim" ("Maksim").
+- 'That is exactly what I am talking about.' Kostya shares a grounded direction across the room, pairing "ya" ("I") with "tom" ("that") to get the point across in plain spoken Russian.
+- 'In fact, it seems to me that...' Sasha keeps a calm footing during the exchange, weaving "voobshche" ("at all") together with "kazhetsya" ("it seems, I think") just the way native speakers do.
+- 'My Kostik is cheating on me with your Sasha.' Max displays a playful posture across the room, anchoring the Russian line on "izmenyayet" ("changes, alters") and "moy" ("my") without extra filler.
+- 'That is nonsense, it cannot be true.' Kostya chooses a direct style toward Max, leaning on "bred" ("nonsense") before closing the thought with "mozhet" ("can").
+- 'They were holding hands.' Sasha takes a brisk line toward Max, leaning on "derzhatsya" ("to hold on") before closing the thought with "ruki" ("hands").
+- 'Well, let us go see.' Max favors a wry rhythm as the scene unfolds, weaving "poshli" ("let's go") together with "nu" ("oh, come on") just the way native speakers do.
+- 'That is not what we agreed on.' Kostya holds a serious angle in front of Sasha, linking "dogovarivalis" ("had an agreement"), "my" ("we"), and "tak" ("so") in one brisk exchange.
+- 'You promised to tell him yourself.' Sasha picks a thoughtful course at once, combining "obeshchala" ("promised") and "rasskazat" ("to tell") so the key meaning lands right away.
+- 'Will that make you feel any better?' Max checks plainly to keep things clear, building the phrase around "legche" ("easier, better") and "stanet" ("will become") for a crisp, natural delivery.
+- 'I cannot keep lying to my best friend.' Kostya conveys a warm rhythm at once, using "mogu" (from "moch", "can") alongside "vrat" ("to lie") to shape the meaning.
+- 'Either you tell him right now.' Sasha conveys a grounded tone as the scene unfolds, weaving "skazhesh" ("will you say") together with "ili" ("or") just the way native speakers do.
+- 'So you really cheated on me?' Max asks candidly during the talk, combining "znachit" ("then, so") and "izmenila" ("would change") so the key meaning lands right away.

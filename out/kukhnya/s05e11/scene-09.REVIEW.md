@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like it, grandpa?' Wondering how the guest likes it is how Max puts the guest on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It tastes completely bland.' Mentioning that it tastes completely bland moves the talk in a new direction.
-- 'That is it, I am leaving.' Noting that that is it he is leaving keeps the guest's side of the story simple and clear.
-- 'Today I am meeting with a friend.' Because today he is meeting with a friend, the guest treats the matter as settled.
-- 'I have not seen her for ten years.' Saying that she has not seen her for ten years is how Mama sets the tone with the guest.
-- 'Let us go, granny, I will walk you out.' Going granny he will walk the guest out together moves the conversation forward without extra drama.
-- 'Granny, do not worry, I will look after him.' Claiming that granny do not worry he will look after him sounds confident, even if the guest has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will make a vegetarian out of him!' Saying that he will make a vegetarian out of him is how Max takes charge of the moment.
-- 'Do whatever you want, the main thing is that he does not eat meat.' The guest explains that do whatever Mama wants the main thing is that he does not eat meat, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Alright, granny, I promise.' Realizing that Alright granny he promises changes how Max handles the situation.
-- 'Yes. That is it, I am off!' Insisting that that is it he is off shows the guest is not backing down.
-- 'Have a nice evening!' Once have a nice evening, Max makes sure the guest hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well, how do you like it, grandpa?' Max inquires wryly to make the point, putting "kak" ("how") alongside "ded" ("grandfather") in a tight, everyday turn of phrase.
+- 'It tastes completely bland.' The guest maintains an emphatic tone with Max, putting "vkus" ("taste") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
+- 'That is it, I am leaving.' The guest brings an honest approach in front of Mama, anchoring the Russian line on "ukhozhu" ("am leaving") and "vsyo" ("everything") without extra filler.
+- 'Today I am meeting with a friend.' The guest strikes an emphatic mood in the scene, weaving "segodnya" ("today") together with "vstrechus" ("to meet") just the way native speakers do.
+- 'I have not seen her for ten years.' Mama sustains a frank posture toward the guest, using "videla" (from "videt", "saw") alongside "let" ("years") to shape the meaning.
+- 'Let us go, granny, I will walk you out.' Max establishes a thoughtful direction in the scene, pairing "poydyom" ("let's go") with "babulya" ("granny, old lady") to get the point across in plain spoken Russian.
+- 'Granny, do not worry, I will look after him.' Max maintains a grounded tone on the spot, combining "babul" ("granny") and "perezhivay" ("worry") so the key meaning lands right away.
+- 'I will make a vegetarian out of him!' Max brings a playful rhythm as the scene unfolds, pairing "vegetariantsa" ("vegetarian") with "sdelayu" ("I'll do") to get the point across in plain spoken Russian.
+- 'Do whatever you want, the main thing is that he does not eat meat.' The guest establishes a playful mood right away, anchoring the Russian line on "delay" ("do") and "khochesh" ("do you want") without extra filler.
+- 'Alright, granny, I promise.' Max strikes a thoughtful mood for Mama, linking "khorosho" ("good, fine"), "babul" ("granny"), and "obeshchayu" ("promise") in one brisk exchange.
+- 'Yes. That is it, I am off!' The guest shares a lively line in their talk, putting "poshla" ("am off") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'Have a nice evening!' Max sustains a firm note toward Mama, building the phrase around "khoroshego" ("good, the best") and "vechera" ("evening") for a crisp, natural delivery.

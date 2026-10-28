@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to talk.' By needing to talk, Sasha keeps her side of the story grounded. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Sasha, stay out of this, she is my girlfriend.' Staying out of this she is his girlfriend is how Barinov lays out the situation for Sasha.
-- 'And do not get too happy, that will not last long.' Realizing that do not get too happy that will not last long changes how Sasha handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I see you did not get the message.' Barinov explains that he sees Sasha did not get the message, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, explain it to me then.' Saying that Barinov should explain it to her then is how Sasha sets the tone with Barinov.
-- 'Hey, stop this immediately, both of you.' Once Sasha should stop this immediately both of Sasha, Barinov can finally tell Sasha what he means.
-- 'We are not finished here yet, got it?' Asking whether they are not finished here yet got it puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Excuse me, please.' With the guest and point in play, Barinov keeps this short reply brisk and direct.
-- 'Just like I told you.' Adding that just like she told Barinov fills in the missing piece for Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'There is always something dramatic happening here.' Saying that there is always something dramatic happening here is how Barinov sets the tone with Sasha.
-- 'This guest right here needs to be served very quickly.' Since this guest right here needs to be served very quickly, Sasha does not waste words on excuses.
-- 'Do you understand me?' Here checking whether Sasha understands him shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No problem at all.' With the shift and table in play, Sasha keeps this short reply brisk and direct.
+- 'We need to talk.' Sasha takes a grounded tone in the scene, joining "pogovorit" ("to talk") to "nado" ("it is necessary") so every word pulls its weight.
+- 'Sasha, stay out of this, she is my girlfriend.' Barinov shares a playful approach toward Sasha, anchoring the Russian line on "lez" ("poke nose, meddle") and "devushka" ("girlfriend") without extra filler.
+- 'And do not get too happy, that will not last long.' Sasha chooses a lively manner with Barinov, weaving "raduysya" ("rejoice, celebrate") together with "nadolgo" ("for long") just the way native speakers do.
+- 'I see you did not get the message.' Barinov strikes a playful note on the spot, weaving "vizhu" ("see") together with "ponyal" ("understood") just the way native speakers do.
+- 'Well, explain it to me then.' Sasha keeps a natural style for Barinov, joining "obyasni" ("explain") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Hey, stop this immediately, both of you.' Barinov brings a resolute direction toward Sasha, putting "prekratili" ("stopped, knock it off") alongside "nemedlenno" ("immediately") in a tight, everyday turn of phrase.
+- 'We are not finished here yet, got it?' Sasha wonders pointedly in their exchange, using "yeshche" (from "yeshchyo", "still") alongside "zakonchili" ("to finish, to complete") to shape the meaning.
+- 'Excuse me, please.' Barinov displays an unhurried note in this beat, pairing "izvinite" ("sorry, excuse me") with "pozhaluysta" ("please") to get the point across in plain spoken Russian.
+- 'Just like I told you.' Sasha maintains a candid rhythm at once, anchoring the Russian line on "govorila" ("said") and "ya" ("I") without extra filler.
+- 'There is always something dramatic happening here.' Barinov takes a thoughtful style as they talk, linking "zdes" ("here"), "vsegda" ("always"), and "proiskhodit" ("is going on") in one brisk exchange.
+- 'This guest right here needs to be served very quickly.' Sasha holds a brisk mood on the spot, building the phrase around "gostya" ("guest, visitor") and "nado" ("it is necessary") for a crisp, natural delivery.
+- 'Do you understand me?' Barinov queries directly without holding back, putting "ponyal" ("understood") alongside "menya" ("me") in a tight, everyday turn of phrase.
+- 'No problem at all.' Sasha strikes a resolute style right away, pairing "vopros" ("question, matter") with "ne" ("not") to get the point across in plain spoken Russian.

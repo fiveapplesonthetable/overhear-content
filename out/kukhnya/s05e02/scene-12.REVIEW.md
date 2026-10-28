@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Шеф | Несите ему лучше хороший стейк. | Better bring him a good steak. | #133: лучше стейк | adapted: adapted |
 | 2 | Шеф | Наш тайный гость уже не хочет стейка. | Our secret guest no longer wants steak. | #134: не хочет стейка | adapted: adapted |
 | 3 | Шеф | Он просит какой-нибудь вкусный десерт. | He is asking for some delicious dessert. | #135: Он просит какой-нибудь десерт | adapted: adapted |
-| 4 | Костя | Ты собираешься ей признаваться? | Are you going to confess to her? | #136: Ты собираешься признаваться? | adapted: adapted |
+| 4 | Катя | Ты собираешься ей признаваться? | Are you going to confess to her? | #136: Ты собираешься признаваться? | adapted: adapted |
 | 5 | Шеф | Гость хочет какой-нибудь лёгкий салат. | The guest wants some light salad. | #137: хочет какой-нибудь легкий салат | adapted: adapted |
 | 6 | Шеф | И просит, чтобы ему поменяли шторы. | And he asks for his curtains to be changed. | #138: И просит, чтобы ему поменяли шторы | adapted: verbatim |
 | 7 | Шеф | Ему мешает фонарь с улицы. | The streetlight outside is bothering him. | #139: Ему мешает фонарь с улицы | adapted: verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Better bring him a good steak.' Around the room and phone, Barinov sets a calm, everyday tone with Denis.
-- 'Our secret guest no longer wants steak.' Because their secret guest no longer wants steak, Barinov treats the matter as settled.
-- 'He is asking for some delicious dessert.' Being asking for some delicious dessert is how Barinov lays out the situation for Denis.
-- 'Are you going to confess to her?' Here checking whether Barinov going to confess shows Kostya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The guest wants some light salad.' Claiming that the guest wants some light salad sounds confident, even if Denis has doubts.
-- 'And he asks for his curtains to be changed.' Pointing out that he asks for his curtains to be changed gives Denis a sobering reality check.
-- 'The streetlight outside is bothering him.' Barinov explains that the streetlight outside is bothering him, keeping his voice calm and direct.
-- 'Katya, I must confess everything to you.' Realizing that he must confess everything to Barinov changes how Denis handles the situation.
-- 'On that night you and I broke up.' With the phone and shift in play, Denis keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I got drunk back then and cheated on you.' Even though he got drunk back then and cheated on Barinov, Denis keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I know that you will not forgive this.' Noting that he knows that Barinov will not forgive this keeps Denis's side of the story simple and clear.
-- 'Even if you forgive, you will never forget it.' Saying that even if Barinov forgives Barinov will never forget it is how Denis sets the tone with Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I regret this very deeply.' Noting that he regrets this very deeply keeps Denis's side of the story simple and clear.
+- 'Better bring him a good steak.' Barinov shares a thoughtful view beside Denis, combining "nesite" ("bring") and "luchshe" ("better") so the key meaning lands right away.
+- 'Our secret guest no longer wants steak.' Barinov conveys an unhurried rhythm straight away, building the phrase around "taynyy" ("secret, undercover") and "gost" ("guest") for a crisp, natural delivery.
+- 'He is asking for some delicious dessert.' Barinov shares a measured approach across the room, joining "prosit" ("is asking for") to "vkusnyy" ("delicious") so every word pulls its weight.
+- 'Are you going to confess to her?' Katya asks wryly as the talk turns, joining "sobirayeshsya" ("plan") to "priznavatsya" ("to confess") so every word pulls its weight.
+- 'The guest wants some light salad.' Barinov picks an unhurried attitude toward Denis, building the phrase around "gost" ("guest") and "khochet" ("wants") for a crisp, natural delivery.
+- 'And he asks for his curtains to be changed.' Barinov sets a wry rhythm with Katya, pairing "prosit" ("is asking for") with "pomenyali" ("changed, replaced") to get the point across in plain spoken Russian.
+- 'The streetlight outside is bothering him.' Barinov shows a firm approach in their talk, linking "meshayet" ("bothers"), "fonar" ("flashlight"), and "ulitsy" ("street") in one brisk exchange.
+- 'Katya, I must confess everything to you.' Denis maintains a lively line without hesitation, pairing "priznatsya" ("to admit") with "dolzhen" ("has to, must") so the "-sya" ending carries the action.
+- 'On that night you and I broke up.' Denis projects a playful style in the room, weaving "noch" ("night") together with "rasstalis" ("broke up, separated") just the way native speakers do.
+- 'I got drunk back then and cheated on you.' Denis takes a warm course at once, joining "togda" ("back then") to "napilsya" ("get drunk") so every word pulls its weight.
+- 'I know that you will not forgive this.' Denis strikes an easygoing tone in front of Barinov, building the phrase around "znayu" ("know") and "prostish" ("to forgive") for a crisp, natural delivery.
+- 'Even if you forgive, you will never forget it.' Denis holds a measured rhythm in this beat, joining "prostish" ("to forgive") to "nikogda" ("never") so every word pulls its weight.
+- 'I regret this very deeply.' Denis presents a pointed direction toward Barinov, weaving "ochen" ("very much") together with "sozhaleyu" ("to regret, be sorry") just the way native speakers do.

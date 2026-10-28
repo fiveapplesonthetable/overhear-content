@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you turn me down because of Nagiyev?' Checking whether Nagiyev turns him down because of Nagiyev is how Max puts Nagiyev on the spot.
-- 'Even if that is so, what business is it of yours?' Wondering if even if that is so what business is it shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is none of my business anymore.' Saying that it is none of his business anymore is how Max sets the tone with Nagiyev.
-- 'Kostya, please make a cocktail.' Adding that Nagiyev should make a cocktail fills in the missing piece for Nagiyev.
-- 'Vika, I have a proposal for you.' Even though he has a proposal for Max, Nagiyev keeps a steady face in front of Max. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Yes, I am listening to you attentively.' Pointing out that she is listening to Max attentively gives Max a sobering reality check. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'My friends invited me to Paris.' With the trip and shift in play, Nagiyev keeps this short reply brisk and direct.
-- 'Come with me, Paris is the city of love.' Here telling Max to come with him Paris is the city of love sets up the next turn in their exchange. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Where is your positive answer?' Wondering where Max's positive answer is is how Nagiyev puts Max on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It seems to me I will be more useful here.' Claiming that it seems to her she will be more useful here sounds confident, even if Max has doubts.
-- 'Our summer terrace opens tomorrow.' Pointing out that their summer terrace opens tomorrow gives Max a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Excuse me, please.' With the conversation and trip in play, Vika keeps this short reply brisk and direct.
+- 'Did you turn me down because of Nagiyev?' Max queries sharply in the room, combining "otkazala" ("turned down") and "ty" ("you") so the key meaning lands right away.
+- 'Even if that is so, what business is it of yours?' Vika prompts decisively from the start, weaving "delo" ("matter") together with "dazhe" ("even") just the way native speakers do.
+- 'It is none of my business anymore.' Max establishes an unhurried direction during the exchange, putting "uzhe" ("already, now") alongside "dela" ("things, affairs") in a tight, everyday turn of phrase.
+- 'Kostya, please make a cocktail.' Max sustains a firm style without hesitation, weaving "sdelay" ("make, do") together with "kokteyl" ("cocktail") just the way native speakers do.
+- 'Vika, I have a proposal for you.' Nagiyev projects a direct style in front of Max, linking "predlozheniye" ("offer, proposal"), "vika" ("Vika"), and "menya" ("me") in one brisk exchange.
+- 'Yes, I am listening to you attentively.' Vika holds a firm attitude in front of Nagiyev, leaning on "vnimatelno" ("carefully, attentively") before closing the thought with "slushayu" ("I'm listening").
+- 'My friends invited me to Paris.' Nagiyev picks a serious style in the conversation, putting "druzya" ("friends") alongside "priglasili" ("invited") in a tight, everyday turn of phrase.
+- 'Come with me, Paris is the city of love.' Nagiyev brings an honest footing without hesitation, anchoring the Russian line on "poyekhali" ("here we go") and "gorod" ("town") without extra filler.
+- 'Where is your positive answer?' Nagiyev prompts calmly without hesitation, putting "gde" ("where") alongside "polozhitelnyy" ("positive") in a tight, everyday turn of phrase.
+- 'It seems to me I will be more useful here.' Vika favors a measured note on the spot, linking "kazhetsya" ("it seems, I think"), "budu" ("will be"), and "polezneye" ("useful, helpful") in one brisk exchange.
+- 'Our summer terrace opens tomorrow.' Vika presents a sharp footing across the room, combining "zavtra" ("tomorrow") and "letnyaya" ("summer") so the key meaning lands right away.
+- 'Excuse me, please.' Vika offers a pointed course at once, building the phrase around "izvinite" ("sorry, excuse me") and "menya" ("me") for a crisp, natural delivery.

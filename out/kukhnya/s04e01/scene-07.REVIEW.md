@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please forgive me that it turned out this way.' Mentioning that that it turned out this way moves the talk in a new direction.
-- 'I will talk to Nagiyev.' Saying that he will talk to Nagiyev is how Barinov sets the tone with Elena.
-- 'In a day or two he will cool down.' Because in a day or two he will cool down, Barinov treats the matter as settled.
-- 'Viktor Petrovich, we cannot wait that long.' Admitting that they cannot wait that long shows Elena being honest for a change.
-- 'Our deadlines are burning.' Elena mentions that their deadlines are burning so Barinov sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'We will find someone else.' Claiming that they will find someone else sounds confident, even if Barinov has doubts.
-- 'Who else?' Around the shift and plan, Barinov wants to know where Elena really stands.
-- 'Well, we will find somebody.' Elena explains that they will find somebody, keeping her voice calm and direct.
-- 'She is also a very famous chef.' By being also a very famous, Elena keeps her side of the story grounded.
-- 'There is no need to ask anyone else.' Pointing out that there is no need to ask anyone else gives Elena a sobering reality check.
-- 'I told you, I will make a deal with Nagiyev.' Even though he told Elena he will make a deal with Nagiyev, Barinov keeps a steady face in front of Elena.
-- 'Well, all right then.' Around the work and shift, Elena sets a calm, everyday tone with Barinov.
+- 'Please forgive me that it turned out this way.' Barinov displays an honest tone with Elena, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "vyshlo" ("happened, came about").
+- 'I will talk to Nagiyev.' Barinov sustains an easygoing tone straight away, joining "pogovoryu" ("I'll talk") to "ya" ("I") so every word pulls its weight.
+- 'In a day or two he will cool down.' Barinov shares a measured position during the exchange, linking "denyok-drugoy" ("day"), "ostynet" ("to cool down"), and "on" ("he") in one brisk exchange.
+- 'Viktor Petrovich, we cannot wait that long.' Elena adopts an unhurried tempo with Barinov, leaning on "mozhem" ("can") before closing the thought with "dolgo" ("for a long time").
+- 'Our deadlines are burning.' Elena chooses an honest stance in this beat, leaning on "u nas" ("by us, at our place") and "sroki" ("term, period") the way natural Russian does.
+- 'We will find someone else.' Elena strikes a natural footing as the scene unfolds, weaving "naydyom" ("we'll find") together with "drugogo" ("other, another") just the way native speakers do.
+- 'Who else?' Barinov questions steadily in the scene, pairing "drugogo" ("other, another") with "kogo" ("whom") to get the point across in plain spoken Russian.
+- 'Well, we will find somebody.' Elena sustains a clear tempo in front of Barinov, linking "naydyom" ("we'll find"), "nu" ("oh, come on"), and "kogo-nibud" ("someone, anyone") in one brisk exchange.
+- 'She is also a very famous chef.' Elena displays a calm style in the conversation, joining "tozhe" ("too") to "ochen" ("very much") so every word pulls its weight.
+- 'There is no need to ask anyone else.' Barinov establishes a measured course toward Elena, joining "nado" ("it is necessary") to "prosit" ("to ask, to beg") so every word pulls its weight.
+- 'I told you, I will make a deal with Nagiyev.' Barinov establishes a brisk bearing beside Elena, leaning on "skazal" ("said") before closing the thought with "dogovoryus" ("to agree, to arrange").
+- 'Well, all right then.' Elena chooses an unhurried tone in the conversation, putting "khorosho" ("good, fine") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.

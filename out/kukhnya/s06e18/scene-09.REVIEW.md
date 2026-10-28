@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is my future daughter-in-law kissing?' Here wondering who his future daughter in law kissing is shows the guest looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'This is Denis, my first cousin.' Admitting that this is Denis her first cousin shows Katya being honest for a change.
-- 'And this is my Nikita's dad.' Saying that this is her Nikita dad is how Katya sets the tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am also very pleased to meet you.' Mentioning that he is also very pleased to meet the guest moves the talk in a new direction.
-- 'Maybe we could have dinner together now?' Wondering if maybe they could have dinner together now shows the guest caught off guard.
-- 'It will not work out, Denis is passing through.' Saying that it will not work out Denis is passing is how Katya sets the tone with Denis.
-- 'He has a plane this evening.' Since he has a plane this evening, Katya does not waste words on excuses. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Where are you headed, young man?' Wondering where Denis headed young man is is how the guest puts Denis on the spot.
-- 'I am flying to Japan today.' Being flying today is how Denis lays out the situation for the guest.
-- 'He has a big concert tour there.' Because he has a big concert tour there, Katya treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Denis is a talented pianist of ours.' Explaining that Denis is a talented pianist lays the cards on the table for Denis.
-- 'How tired I am of lying.' Denis mentions that how tired he is of lying so the guest sees what is at stake.
+- 'Who is my future daughter-in-law kissing?' The guest presses earnestly for Denis's benefit, building the phrase around "tseluyetsya" ("kisses") and "budushchaya" ("future, next") for a crisp, natural delivery.
+- 'This is Denis, my first cousin.' Katya keeps an emphatic direction as the scene unfolds, placing "dvoyurodnyy" ("first cousin") straight beside "brat" ("brother") with no word for "to be" needed.
+- 'And this is my Nikita's dad.' Katya presents an earnest stance in front of Denis, building the phrase around "papa" ("Dad") and "nikity" ("of Nikita") for a crisp, natural delivery.
+- 'I am also very pleased to meet you.' Denis strikes a candid position in the scene, weaving "tozhe" ("too") together with "ochen" ("very much") just the way native speakers do.
+- 'Maybe we could have dinner together now?' The guest queries pointedly for Denis's benefit, anchoring the Russian line on "mozhet" ("can") and "togda" ("back then") without extra filler.
+- 'It will not work out, Denis is passing through.' Katya chooses a calm bearing with the guest, anchoring the Russian line on "poluchitsya" ("will come out") and "tut" ("here") without extra filler.
+- 'He has a plane this evening.' Katya adopts an earnest tack toward Denis, linking "segodnya" ("today"), "vecherom" ("in the evening"), and "samolyot" ("plane") in one brisk exchange.
+- 'Where are you headed, young man?' The guest quizzes honestly on the spot, joining "kuda" ("where to") to "put" ("path") so every word pulls its weight.
+- 'I am flying to Japan today.' Denis sustains a brisk bearing in the conversation, combining "segodnya" ("today") and "lechu" ("treat, cure") so the key meaning lands right away.
+- 'He has a big concert tour there.' Katya presents an earnest tack in the scene, putting "tam" ("there") alongside "bolshiye" ("big, serious") in a tight, everyday turn of phrase.
+- 'Denis is a talented pianist of ours.' Katya strikes a direct angle in the room, linking "talantlivyy" ("talented"), "pianist" ("pianist"), and "denis" ("Denis") in one brisk exchange.
+- 'How tired I am of lying.' Denis chooses a direct tempo straight away, leaning on "kak" ("how") before closing the thought with "nadoyelo" ("has got boring").

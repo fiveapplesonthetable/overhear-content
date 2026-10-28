@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And do you remember how the pistol at the duel suddenly became real?' Checking whether Katya remembers how the pistol at the duel suddenly became real is how Mikhail puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And your big problems with the prefect and other troubles?' Over the truth and the revenge, Mikhail presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All your troubles brought me immense pleasure.' Because all Katya's troubles brought him immense pleasure, Mikhail treats the matter as settled.
-- 'Vitya, I will not hurt you all at once.' Explaining that he will not hurt Katya all at once lays the cards on the table for Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will try to stretch out this pleasure of mine for longer.' Mikhail mentions that he will try to stretch out this pleasure of his for longer so Katya sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Lyova, I thought it over here, come home today together with Gulya.' Claiming that she thought it over here come home today together with Gulya sounds confident, even if Mikhail has doubts.
-- 'Live peacefully at our home all together now.' Admitting that Katya should live peacefully at their home all together now shows Nikita being honest for a change. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Nikita, what beautiful flowers, thank you very much.' With the secret and revenge in play, Katya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tell me, are we celebrating something important this evening?' Wondering if tell her are they celebrating something important this evening shows Katya caught off guard.
-- 'You could say that, listen to me carefully, Katya.' Noting that Katya could say that listen to him carefully keeps Nikita's side of the story simple and clear. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I love you and want you to become my wife.' Pointing out that he loves Katya and want Katya to become his wife gives Katya a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Katya, tell me honestly, do you agree to marry me?' Wondering if tell him honestly do Katya agrees to marry him shows Nikita caught off guard.
-- 'Nikita, this is so unexpected, I need to think about it.' Saying that this is so unexpected she needs to think about it is how Katya sets the tone with Mikhail. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'And do you remember how the pistol at the duel suddenly became real?' Mikhail questions plainly beside Katya, anchoring the Russian line on "pomnish" ("do you remember") and "kak" ("how") without extra filler.
+- 'And your big problems with the prefect and other troubles?' Mikhail wonders bluntly to keep things clear, building the phrase around "bolshiye" ("big, serious") and "problemy" ("problems") for a crisp, natural delivery.
+- 'All your troubles brought me immense pleasure.' Mikhail favors a natural position toward Katya, weaving "nepriyatnosti" ("troubles") together with "dostavili" ("to deliver") just the way native speakers do.
+- 'Vitya, I will not hurt you all at once.' Mikhail picks an unhurried mood as the scene unfolds, combining "budu" ("will be") and "delat" ("do") so the key meaning lands right away.
+- 'I will try to stretch out this pleasure of mine for longer.' Mikhail sustains a playful tempo with Katya, building the phrase around "postarayus" ("to try") and "podolshe" ("longer") for a crisp, natural delivery.
+- 'Lyova, I thought it over here, come home today together with Gulya.' Katya displays a lively posture toward Nikita, weaving "tut" ("here") together with "podumala" ("thought") just the way native speakers do.
+- 'Live peacefully at our home all together now.' Nikita brings a direct manner during the exchange, building the phrase around "zhivite" ("to live") and "teper" ("now") for a crisp, natural delivery.
+- 'Nikita, what beautiful flowers, thank you very much.' Katya conveys an earnest course in their talk, joining "krasivyye" ("beautiful") to "tsvety" ("the flowers") so every word pulls its weight.
+- 'Tell me, are we celebrating something important this evening?' Katya prompts dryly as the talk turns, anchoring the Russian line on "skazhi" ("say") and "segodnya" ("today") without extra filler.
+- 'You could say that, listen to me carefully, Katya.' Nikita takes a resolute tempo toward Mikhail, linking "mozhno" ("may, can"), "skazat" ("tell"), and "poslushay" ("listen") in one brisk exchange.
+- 'I love you and want you to become my wife.' Nikita takes a candid mood during the exchange, building the phrase around "lyublyu" ("love") and "khochu" ("want") for a crisp, natural delivery.
+- 'Katya, tell me honestly, do you agree to marry me?' Nikita inquires warmly without a pause, combining "skazhi" ("say") and "chestno" ("honestly") so the key meaning lands right away.
+- 'Nikita, this is so unexpected, I need to think about it.' Katya offers an easygoing bearing as they talk, linking "neozhidanno" ("unexpected"), "nado" ("it is necessary"), and "podumat" ("to think") in one brisk exchange.

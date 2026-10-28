@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing out here?' Here wondering what Barinov doing out here is shows Nagiyev looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dima, hi. What are you doing?' By wondering what Nagiyev doing is, Barinov presses Nagiyev for a straight answer.
-- 'Oh, nothing much.' With the car and exchange in play, Nagiyev keeps this short reply brisk and direct.
-- 'What do you mean, nothing?' Here wondering what Nagiyev means nothing shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I have that important guest today, remember?' Asking whether he has that important guest today remember puts Barinov right on the defensive.
-- 'Of course I remember.' Over the car and the conversation, Barinov answers Nagiyev without a second thought.
-- 'I won't be here, I'm at a shoot all day.' Pointing out that he will not be here he is at a shoot all day gives Barinov a sobering reality check.
-- 'Everything is counting on you.' Nagiyev explains that everything is counting on Barinov, keeping his voice calm and direct.
-- 'Mind you don't mess up.' Saying that Barinov should mind Barinov does not mess up is how Nagiyev sets the tone with Barinov.
-- 'Come on over.' With the exchange and kitchen in play, Barinov keeps this short reply brisk and direct.
-- 'I reached an agreement with Nagiyev.' Over the exchange and the shift, Barinov answers Nagiyev without a second thought.
-- 'I am waiting for you in the kitchen.' Pointing out that he is waiting for Nagiyev in the kitchen gives Nagiyev a sobering reality check. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'What are you doing out here?' Nagiyev checks honestly without holding back, weaving "zdes" ("here") together with "delayesh" ("are you doing") just the way native speakers do.
+- 'Dima, hi. What are you doing?' Barinov probes firmly in front of Nagiyev, building the phrase around "delayesh" ("are you doing") and "dima" ("Dima") for a crisp, natural delivery.
+- 'Oh, nothing much.' Nagiyev shares a clear rhythm for Barinov, joining "da" ("yes") to "nichego" ("nothing") so every word pulls its weight.
+- 'What do you mean, nothing?' Barinov quizzes directly in this moment, linking "kak" ("how"), "da" ("yes"), and "nichego" ("nothing") in one brisk exchange.
+- 'I have that important guest today, remember?' Nagiyev probes warmly without holding back, combining "gost" ("guest") and "segodnya" ("today") so the key meaning lands right away.
+- 'Of course I remember.' Barinov takes a pointed position straight away, combining "konechno" ("of course") and "pomnyu" ("remember") so the key meaning lands right away.
+- 'I won't be here, I'm at a shoot all day.' Nagiyev maintains a wry rhythm for Barinov, anchoring the Russian line on "budet" ("will be") and "den" ("day") without extra filler.
+- 'Everything is counting on you.' Nagiyev conveys an earnest view in their talk, leaning on "vsyo" ("everything") before closing the thought with "na" ("on, onto").
+- 'Mind you don't mess up.' Nagiyev establishes a grounded bearing in front of Barinov, pairing "oblazhaysya" ("up") with "smotri" ("look") to get the point across in plain spoken Russian.
+- 'Come on over.' Barinov shares a frank direction in the scene, using "priyezzhayte" ("to come, to arrive") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I reached an agreement with Nagiyev.' Barinov holds a firm manner in the room, weaving "dogovorilsya" ("made a deal") together with "nagiyevym" ("Nagiyev") just the way native speakers do.
+- 'I am waiting for you in the kitchen.' Barinov shows a frank tone at this moment, linking "zhdu" ("I wait, expect"), "kukhne" ("kitchen"), and "vas" ("you") in one brisk exchange.

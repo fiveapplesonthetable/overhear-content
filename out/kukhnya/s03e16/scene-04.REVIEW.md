@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, maybe we started all this for nothing?' Asking whether maybe they started all this for nothing puts Senya right on the defensive.
-- 'Just think what a great life awaits us!' With the moment and meat at stake, Senya reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You steal meat and immediately blame it on the poltergeist!' Saying that Fedya steals meat and immediately blame it on the poltergeist is how Senya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Question, who locked me in the shower room this morning?' With the moment and meat hanging in the air, Senya puts Fedya on the spot.
-- 'Of course, the evil poltergeist did it!' Because the evil poltergeist did it, Fedya does not bother softening the blow for Senya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And if you smell in the morning, is it stale alcohol breath?' Asking whether if Fedya smell in the morning is it stale alcohol breath puts Fedya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You can easily blame that on the poltergeist too!' Once Fedya can easily blame that on the poltergeist, Senya makes sure Fedya hears every word.
-- 'Well alright, look how scary it turned out!' Declaring that alright look how scary it turned out brings Fedya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'It looks like real blood is painted on the mirror!' Fedya insists that it looks like real blood is painted on the mirror, leaving Senya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Fedya, that actually is real blood!' Saying that that actually is real blood is how Senya takes charge of the moment.
-- 'Relax, it is just ordinary pig's blood!' Telling Fedya to relax it is just ordinary pig blood is Senya's blunt reaction in front of Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, run quickly back to the kitchen!' Over the point and the meat, Senya lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Senya, maybe we started all this for nothing?' Fedya asks wryly on the spot, pairing "mozhet" ("can") with "zrya" ("for nothing") to get the point across in plain spoken Russian.
+- 'Just think what a great life awaits us!' Senya favors a grounded approach with Fedya, using "podumay" (from "podumat", "think") alongside "zhizn" ("life") to shape the meaning.
+- 'You steal meat and immediately blame it on the poltergeist!' Senya conveys a grounded stance straight away, joining "ukral" ("stole") to "myaso" ("meat") so every word pulls its weight.
+- 'Question, who locked me in the shower room this morning?' Senya wonders pointedly without a pause, pairing "vopros" ("question, matter") with "utrom" ("this morning") so the "-sya" ending carries the action.
+- 'Of course, the evil poltergeist did it!' Fedya keeps a brisk tack as the scene unfolds, building the phrase around "konechno" ("of course") and "sdelal" ("did") for a crisp, natural delivery.
+- 'And if you smell in the morning, is it stale alcohol breath?' Senya presses bluntly to Fedya here, building the phrase around "utrom" ("this morning") and "pakhnet" ("it smells") for a crisp, natural delivery.
+- 'You can easily blame that on the poltergeist too!' Senya conveys a sharp direction with Fedya, building the phrase around "tozhe" ("too") and "mozhno" ("may, can") for a crisp, natural delivery.
+- 'Well alright, look how scary it turned out!' Fedya shares an emphatic attitude beside Senya, pairing "poluchilos" ("worked out") with "smotri" ("look") so the "-sya" ending carries the action.
+- 'It looks like real blood is painted on the mirror!' Fedya takes a grounded approach beside Senya, linking "zerkale" ("mirror"), "nastoyashchaya" ("real, genuine"), and "krov" ("blood") in one brisk exchange.
+- 'Fedya, that actually is real blood!' Senya adopts a warm stance on the spot, leaning on "yest" ("there is") before closing the thought with "nastoyashchaya" ("real, genuine").
+- 'Relax, it is just ordinary pig's blood!' Senya keeps a candid manner on the spot, putting "rasslabsya" ("relax") alongside "obychnaya" ("ordinary, usual") in a tight, everyday turn of phrase.
+- 'Alright, run quickly back to the kitchen!' Senya holds a calm style in their talk, linking "begi" ("run"), "skoreye" ("quickly, right away"), and "obratno" ("back") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why? Because you are pilots, right?' Nagiyev asks whether because Katya is pilots right, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Why do I have to wait until Easter for my aspic, huh?' Here asking why he has to wait until Easter for his aspic huh shows Nagiyev looking for the real truth.
-- 'Why? What is this?' With the point and situation hanging in the air, Nagiyev puts Katya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And this is that very aspic that I was going to bring you.' Explaining that this is that very aspic that he was going to bring Katya lays the cards on the table for Katya. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Did Katya prepare this?' Checking whether Katya prepare this is how Nagiyev puts Katya on the spot.
-- 'Yes, Dmitry Vladimirovich.' Over the kitchen and the plan, Max answers Katya without a second thought.
-- 'Prepare something else unusual for me!' Saying that Katya should prepare something else unusual for him is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Why?' With the truth and work hanging in the air, Nagiyev puts Katya on the spot.
-- 'Because we are pilots!' Max declares that because they are pilots as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Thank you, I am in your debt.' Admitting that he is in Katya's debt shows Max being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You're welcome, Max.' Even though Max is welcome, Katya keeps a steady face in front of Max.
-- 'You simply saved me.' Between the shift and the truth, Max gives Katya a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Why? Because you are pilots, right?' Nagiyev checks briskly to make the point, combining "pochemu" ("why") and "potomu" ("because") so the key meaning lands right away.
+- 'Why do I have to wait until Easter for my aspic, huh?' Nagiyev tests naturally as they speak, leaning on "zhdat" ("to wait") before closing the thought with "dolzhen" ("has to, must").
+- 'Why? What is this?' Nagiyev probes promptly without holding back, joining "pochemu" ("why") to "eto" ("this") so every word pulls its weight.
+- 'And this is that very aspic that I was going to bring you.' Max establishes an unhurried style in the scene, combining "kak" ("how") and "raz" ("time, once") so the key meaning lands right away.
+- 'Did Katya prepare this?' Nagiyev tests promptly in front of Katya, putting "prigotovila" ("to prepare") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'Yes, Dmitry Vladimirovich.' Max shows a natural line on the spot, linking "da" ("yes"), "dmitriy" ("Dmitry"), and "vladimirovich" ("Vladimirovich") in one brisk exchange.
+- 'Prepare something else unusual for me!' Nagiyev projects a serious mood at once, building the phrase around "prigotov" ("prepare") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'Why?' Nagiyev questions candidly in this moment, letting the single Russian word "pochemu" ("why") carry the entire reaction on its own.
+- 'Because we are pilots!' Max adopts a warm tack for Katya, weaving "potomu" ("because") together with "piloty" ("pilots") just the way native speakers do.
+- 'Thank you, I am in your debt.' Max shares a steady manner in the scene, combining "spasibo" ("thank you") and "dolzhnik" ("debtor") so the key meaning lands right away.
+- 'You're welcome, Max.' Katya establishes a frank posture in front of Max, joining "pozhaluysta" ("please") to "maks" ("Max") so every word pulls its weight.
+- 'You simply saved me.' Max takes an easygoing tempo in this beat, joining "prosto" ("just") to "spasla" ("saved") so every word pulls its weight.

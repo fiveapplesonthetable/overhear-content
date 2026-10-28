@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yesterday the club lost, so he freaked out.' Explaining that yesterday the club lost so he freaked out lays the cards on the table for Mikhail.
-- 'And we have a commission in the hotel!' Because they have a commission in the hotel, Mikhail does not bother softening the blow for Barinov.
-- 'You look simply lovely!' Insisting that Barinov looks simply lovely shows Nagiyev is not backing down. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Vitya, only you can understand me.' Pointing out that only Barinov can understand him gives Barinov a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, this is a disgrace!' Declaring that this is a disgrace brings Nagiyev's temper right to the surface.
-- 'It could have been worse.' Realizing that it could have been worse changes how Barinov handles the situation.
-- 'The commission is waiting for the manager.' Noting that the commission is waiting for the manager keeps Mikhail's side of the story simple and clear.
-- 'Wait, has the commission even seen you?' By asking whether the commission even seen Barinov, Mikhail presses Barinov for a straight answer.
-- 'I spoke on the phone.' Admitting that he spoke on the phone shows Nagiyev being honest for a change.
-- 'He needs to sleep it off. Hide him somewhere.' Saying that he needs to sleep it off is how Mikhail sets the tone with Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And do not leave him alone, so he does not wander around the hotel.' Once do not leave him alone so he does not wander around the hotel, Mikhail can finally tell Barinov what he means.
-- 'And how many luxury suites do you have?' When Barinov asks if how many luxury suites do Mikhail has, Mikhail has to answer fast. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Yesterday the club lost, so he freaked out.' Barinov favors a measured attitude in this beat, combining "vchera" ("yesterday") and "klub" ("club, nightclub") so the key meaning lands right away.
+- 'And we have a commission in the hotel!' Mikhail takes an easygoing stance in the conversation, joining "komissiya" ("commission") to "otele" ("in the hotel") so every word pulls its weight.
+- 'You look simply lovely!' Nagiyev shares a playful stance on the spot, building the phrase around "vyglyadite" ("look") and "prosto" ("just") for a crisp, natural delivery.
+- 'Vitya, only you can understand me.' Nagiyev sustains a candid position during the exchange, leaning on "tolko" ("only") before closing the thought with "mozhesh" ("can").
+- 'Vitya, this is a disgrace!' Nagiyev picks a candid direction on the spot, building the phrase around "pozor" ("disgrace") and "vitya" ("Vitya") for a crisp, natural delivery.
+- 'It could have been worse.' Barinov presents a playful tone for Nagiyev, combining "moglo" ("can, to be able") and "byt" ("be") so the key meaning lands right away.
+- 'The commission is waiting for the manager.' Mikhail strikes a measured posture as the scene unfolds, linking "komissiya" ("commission"), "zhdyot" ("is waiting"), and "upravlyayushchego" ("manager") in one brisk exchange.
+- 'Wait, has the commission even seen you?' Mikhail queries frankly on the spot, linking "pogodi" ("wait"), "komissiya" ("commission"), and "voobshche" ("at all") in one brisk exchange.
+- 'I spoke on the phone.' Nagiyev shares a brisk line in their talk, pairing "telefonu" ("phone") with "obshchalsya" ("to communicate") to get the point across in plain spoken Russian.
+- 'He needs to sleep it off. Hide him somewhere.' Mikhail holds a grounded tone in this beat, joining "nado" ("it is necessary") to "prospatsya" ("to sleep it off") so every word pulls its weight.
+- 'And do not leave him alone, so he does not wander around the hotel.' Mikhail takes an emphatic tone across the room, building the phrase around "ostavlyayte" ("leave") and "otelyu" ("hotel") for a crisp, natural delivery.
+- 'And how many luxury suites do you have?' Barinov questions lightly beside Nagiyev, joining "skolko" ("how much, so much") to "nomerov" ("of rooms") so every word pulls its weight.

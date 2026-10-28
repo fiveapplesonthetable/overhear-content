@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = 'At the start of Episode 2, Denis introduces Boutique Hotel Eleon and explains the three big differences between a standalone restaurant and Restaurant Victor inside a hotel. Listen to the Russian narration first.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that introduces the new rhythm of life at Boutique Hotel Eleon. Notice the impersonal verb 'prikhoditsya' used with the dative plural for 'the cooks have to'. Until next time!"
+OUTRO = "And that introduces the new rhythm of life at Boutique Hotel Eleon. Notice the impersonal word 'prikhoditsya' used with the indirect plural for 'the cooks have to'. Until next time!"
 CLOSING = ('denis', 'До встречи!')
 STORY = [
     ('denis', 'Перед вами наш новый отель.', 'Before you is our new hotel.', [(1, 'Перед вами')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Им лень спуститься в ресторан!', 'They are too lazy to come down to the restaurant!', [(10, 'спуститься в ресторан')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Before you is our new hotel.' Denis reminds Barinov that before Barinov is their new hotel before the moment passes."),
-    (1, None, "'Our restaurant is located right here.' Because their restaurant is located right here, Denis treats the matter as settled."),
-    (2, None, "'We now work in this hotel.' With the restaurant and hotel in play, Denis keeps this short reply brisk and direct."),
-    (3, None, "'How does a hotel restaurant differ?' Wondering how a hotel restaurant differ is how Denis puts Barinov on the spot."),
-    (4, None, "'In a hotel there are always breakfasts.' Claiming that in a hotel there are always breakfasts sounds confident, even if Barinov has doubts."),
-    (5, None, "'The cooks have to get up early.' Pointing out that the cooks have to get up early gives Barinov a sobering reality check."),
-    (6, None, "'We get up early every morning.' Getting up early every morning moves the conversation forward without extra drama."),
-    (7, None, '\'Restaurant guests are not just casual visitors.\' Realizing that restaurant guests are not just casual visitors changes how Denis handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (8, None, '\'They are also hotel residents.\' Noting that they are also hotel residents keeps Denis\'s side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (9, None, "'We must feed all the guests.' Even though they must feed all the guests, Denis keeps a steady face in front of Barinov."),
-    (10, None, "'Someone does not want to get out of bed.' Admitting that someone does not want to get out of bed shows Denis being honest for a change."),
-    (11, None, "'They are too lazy to come down to the restaurant!' Because they are too lazy to come down to the restaurant, Barinov does not bother softening the blow for Denis. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (0, None, '\'Before you is our new hotel.\' Denis sustains a playful tempo in the room, linking "novyy" ("new") directly with "otel" ("hotel"), since Russian drops "is" and "are" in the present.'),
+    (1, None, '\'Our restaurant is located right here.\' Denis establishes a clear position in their talk, pairing "nakhoditsya" ("to be located") with "zdes" ("here") so the "-sya" ending carries the action.'),
+    (2, None, '\'We now work in this hotel.\' Denis offers an honest attitude in their talk, combining "teper" ("now") and "rabotayem" ("we work, let\'s work") so the key meaning lands right away.'),
+    (3, None, '\'How does a hotel restaurant differ?\' Denis questions plainly as the talk turns, using "otlichayetsya" (from "otlichatsya", "differs") alongside "restoran" ("restaurant") to shape the meaning.'),
+    (4, None, '\'In a hotel there are always breakfasts.\' Denis offers a sharp rhythm in the room, building the phrase around "otele" ("in the hotel") and "vsegda" ("always") for a crisp, natural delivery.'),
+    (5, None, '\'The cooks have to get up early.\' Denis projects an easygoing note for Barinov, combining "povaram" ("cooks") and "prikhoditsya" ("to have to") so the key meaning lands right away.'),
+    (6, None, '\'We get up early every morning.\' Barinov takes a candid mood with Denis, joining "vstayom" ("we get up, let\'s get up") to "kazhdoye" ("every, each") so every word pulls its weight.'),
+    (7, None, '\'Restaurant guests are not just casual visitors.\' Denis conveys an emphatic direction in the scene, building the phrase around "gosti" ("visitors, guests") and "restorana" ("restaurant") for a crisp, natural delivery.'),
+    (8, None, '\'They are also hotel residents.\' Denis shows a pointed style at this moment, anchoring the Russian line on "yeshchyo" ("more, still") and "postoyaltsy" ("hotel guests") without extra filler.'),
+    (9, None, '\'We must feed all the guests.\' Denis sustains an honest footing straight away, linking "dolzhny" ("must, should"), "kormit" ("to feed"), and "gostey" ("guests") in one brisk exchange.'),
+    (10, None, '\'Someone does not want to get out of bed.\' Denis shows an honest mood on the spot, linking "khochet" ("wants"), "vstavat" ("to get up"), and "krovati" ("bed") in one brisk exchange.'),
+    (11, None, '\'They are too lazy to come down to the restaurant!\' Barinov offers a thoughtful bearing in front of Denis, weaving "len" ("laziness, too lazy") together with "spustitsya" ("to come downstairs") just the way native speakers do.'),
 ]

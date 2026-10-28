@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My condolences, Dima.' With the point and banquet in play, Barinov keeps this short reply brisk and direct.
-- 'Congratulations, Eleonora.' Over the point and the banquet, Barinov answers Eleonora without a second thought.
-- 'Thank you, Vitya.' Around the point and banquet, Eleonora sets a calm, everyday tone with Barinov.
-- 'I understand that now is not the right time.' Noting that he understands that now is not the right time keeps Barinov's side of the story simple and clear.
-- 'But I wanted to talk about your mom.' Adding that he wanted to talk fills in the missing piece for Eleonora.
-- 'What do you mean?' With the shift and wedding hanging in the air, Eleonora puts Barinov on the spot.
-- 'She is keeping me from working.' Since she is keeping him from working, Barinov does not waste words on excuses.
-- 'Vitya, what are you talking about?' Asking what Barinov talking is is how Eleonora puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Mom already died two years ago.' Around the plan and wedding, Eleonora sets a calm, everyday tone with Barinov.
-- 'How, in what sense?' With the moment and wedding hanging in the air, Barinov puts Eleonora on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I told him back then.' Explaining that he told him back then lays the cards on the table for Barinov.
-- 'He was in such a state that he forgot.' Nagiyev mentions that he was in such a state that he forgot so Barinov sees what is at stake.
+- 'My condolences, Dima.' Barinov chooses a firm manner on the spot, building the phrase around "sochuvstvuyu" ("sympathize") and "dima" ("Dima") for a crisp, natural delivery.
+- 'Congratulations, Eleonora.' Barinov shares a grounded view in the conversation, building the phrase around "pozdravlyayu" ("congratulations") and "eleonora" ("Eleonora") for a crisp, natural delivery.
+- 'Thank you, Vitya.' Eleonora establishes a serious tack as they talk, building the phrase around "spasibo" ("thank you") and "vitya" ("Vitya") for a crisp, natural delivery.
+- 'I understand that now is not the right time.' Barinov establishes a calm attitude in the scene, weaving "ponimayu" ("understand") together with "seychas" ("now") just the way native speakers do.
+- 'But I wanted to talk about your mom.' Barinov displays a measured tack during the exchange, leaning on "khotel" ("wanted") before closing the thought with "pogovorit" ("to talk").
+- 'What do you mean?' Eleonora presses calmly beside Nagiyev, leaning on "smysle" ("sense") as a compact, one-word response that needs no extra words.
+- 'She is keeping me from working.' Barinov shares an earnest attitude in their talk, anchoring the Russian line on "meshayet" ("bothers") and "rabotat" ("to work") without extra filler.
+- 'Vitya, what are you talking about?' Eleonora questions quietly to keep things clear, placing "vitya" ("Vitya") straight beside "ty" ("you") with no word for "to be" needed.
+- 'Mom already died two years ago.' Eleonora favors a calm mood for Barinov, combining "mama" ("mum, mother") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'How, in what sense?' Barinov inquires honestly as the talk turns, putting "kak" ("how") alongside "smysle" ("sense") in a tight, everyday turn of phrase.
+- 'I told him back then.' Nagiyev displays an honest tack straight away, pairing "govoril" ("said, were saying") with "togda" ("back then") to get the point across in plain spoken Russian.
+- 'He was in such a state that he forgot.' Nagiyev brings a direct tempo in the room, leaning on "byl" ("was") before closing the thought with "sostoyanii" ("condition, state").

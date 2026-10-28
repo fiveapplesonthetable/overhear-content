@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you deceived me again!' Between the moment and the car, Lyova delivers a sharp reaction.
-- 'Live however you want now.' Explaining that Max should live however Max wants now lays the cards on the table for Max.
-- 'I do not care about you anymore.' Once he does not care about Max anymore, Lyova can finally tell Max what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Careful, chef, step back from the wall!' With the conversation and guest at stake, Lyova reacts without holding back.
-- 'If I say yes, will you forgive me?' Max asks whether if he says yes will Lyova forgives him, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I did solve the problem after all.' Since he did solve the problem after all, Max does not waste words on excuses.
-- 'Forgive me, this was all because of me.' Mentioning that this was all moves the talk in a new direction.
-- 'We still need to change the wheels.' With the moment and wedding in play, Max keeps this short reply brisk and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And there is no story sadder in the world.' Because there is no story sadder in the world, Max treats the matter as settled.
-- 'Than the story of the stolen wheels.' Around the conversation and wedding, Max sets a calm, everyday tone with Lyova.
-- 'Good afternoon, how can I help you?' By asking how she helps Lyova can, Vika presses Lyova for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hi, I decided to celebrate my wedding here!' Vika insists that she decided to celebrate her wedding here, leaving Lyova no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'That is great, isn't it?' Questioning whether that is great is not it is how Max tests Lyova's story.
+- 'Chef, you deceived me again!' Lyova establishes an honest note as the scene unfolds, pairing "opyat" ("again") with "obmanuli" ("cheated") to get the point across in plain spoken Russian.
+- 'Live however you want now.' Lyova sustains a candid view straight away, linking "zhivite" ("to live"), "teper" ("now"), and "kak" ("how") in one brisk exchange.
+- 'I do not care about you anymore.' Lyova projects an honest bearing at this moment, building the phrase around "teper" ("now") and "naplevat" ("don't care") for a crisp, natural delivery.
+- 'Careful, chef, step back from the wall!' Lyova establishes a calm mood at once, anchoring the Russian line on "ostorozhno" ("careful, carefully") and "otoydite" ("step back") without extra filler.
+- 'If I say yes, will you forgive me?' Max inquires promptly in the scene, linking "skazhu" ("I'll tell"), "prostish" ("to forgive"), and "yesli" ("if") in one brisk exchange.
+- 'I did solve the problem after all.' Max shares a brisk stance on the spot, combining "reshil" ("has decided") and "problemu" ("problem") so the key meaning lands right away.
+- 'Forgive me, this was all because of me.' Vika maintains a thoughtful tack in the scene, combining "prosti" ("sorry, forgive me") and "bylo" ("was") so the key meaning lands right away.
+- 'We still need to change the wheels.' Max keeps a frank footing in the scene, linking "yeshchyo" ("more, still"), "kolyosa" ("wheels"), and "nuzhno" ("necessary") in one brisk exchange.
+- 'And there is no story sadder in the world.' Max sets a serious posture in front of Lyova, linking "povesti" ("to world"), "pechalneye" ("world"), and "svete" ("world") in one brisk exchange.
+- 'Than the story of the stolen wheels.' Max takes an easygoing tempo as they talk, joining "povest" ("to story") to "ukradennykh" ("wheels") so every word pulls its weight.
+- 'Good afternoon, how can I help you?' Vika presses plainly as the beat lands, building the phrase around "dobryy" ("good") and "den" ("day") for a crisp, natural delivery.
+- 'Hi, I decided to celebrate my wedding here!' Vika picks a firm view on the spot, combining "reshila" ("decided") and "otprazdnovat" ("to wedding") so the key meaning lands right away.
+- 'That is great, isn't it?' Max presses plainly across the room, putting "zdorovo" ("great, cool") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.

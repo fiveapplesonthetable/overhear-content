@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, I have been waiting so long for you here!' Once she has been waiting so long for Barinov here, Vika makes sure Barinov hears every word.
-- 'Ainura, what on earth are you doing here in the dark?' Over the truth and the surprise, German presses Barinov for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And what are you all doing here, who let you in?' Here asking what Barinov all doing here who let Barinov is shows German looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It seems, guys, we walked in at a slightly bad time!' Barinov insists that it seems guys they walked in at a slightly bad time, leaving German no room to argue.
-- 'German Mikhailovich, we will just sit here quietly.' Explaining that they will just sit here quietly lays the cards on the table for German.
-- 'After all, your restaurant is closed today anyway.' Barinov mentions that after all German's restaurant is closed today anyway so German sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I do not understand, what are you allowing yourselves?' Over the surprise and the office, German presses Barinov for a straight answer.
-- 'It was I who allowed our friends to come in here.' Pointing out that it was she who allowed their friends to come in here gives Barinov a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let's all sit together and have a nice rest.' Saying that they should all sit together and have a nice rest is how Vika sets the tone with Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We will harmoniously discuss the development plans of our beloved restaurant.' Realizing that they will harmoniously discuss the development plans of their beloved restaurant changes how Vika handles the situation.
-- 'German Mikhailovich, you wanted this yourself after all!' Vika insists that Barinov wanted this themselves after all, leaving Barinov no room to argue. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'All right, do as you please, let's go!' Saying that all right do as Barinov pleases let them go is how German takes charge of the moment. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'German Mikhailovich, I have been waiting so long for you here!' Vika sustains a grounded stance straight away, building the phrase around "uzhe" ("already, now") and "tut" ("here") for a crisp, natural delivery.
+- 'Ainura, what on earth are you doing here in the dark?' German questions dryly in front of Vika, building the phrase around "voobshche" ("at all") and "zdes" ("here") for a crisp, natural delivery.
+- 'And what are you all doing here, who let you in?' German challenges wryly right away, joining "zdes" ("here") to "zabyli" ("have you forgotten") so every word pulls its weight.
+- 'It seems, guys, we walked in at a slightly bad time!' Barinov favors a natural posture right away, leaning on "kazhetsya" ("it seems, I think") before closing the thought with "rebyata" ("the boys, the lads").
+- 'German Mikhailovich, we will just sit here quietly.' Barinov picks a candid bearing for German, anchoring the Russian line on "tut" ("here") and "prosto" ("just") without extra filler.
+- 'After all, your restaurant is closed today anyway.' Barinov sustains an unhurried attitude for Vika, joining "restoran" ("restaurant") to "segodnya" ("today") so every word pulls its weight.
+- 'I do not understand, what are you allowing yourselves?' German tests frankly to Barinov here, pairing "ponimayu" ("understand") with "pozvolyayete" ("allow, permit") to get the point across in plain spoken Russian.
+- 'It was I who allowed our friends to come in here.' Vika favors a direct mood across the room, weaving "razreshila" ("to allow, to permit") together with "druzyam" ("friend") just the way native speakers do.
+- 'Let's all sit together and have a nice rest.' Vika maintains a lively note with Barinov, leaning on "davayte" ("let's") before closing the thought with "vmeste" ("together").
+- 'We will harmoniously discuss the development plans of our beloved restaurant.' Vika brings a serious note toward German, putting "druzhno" ("in a friendly way") alongside "obsudim" ("will discuss") in a tight, everyday turn of phrase.
+- 'German Mikhailovich, you wanted this yourself after all!' Vika shows an emphatic mood as the scene unfolds, using "khoteli" (from "khotet", "wanted") alongside "german" ("German") to shape the meaning.
+- 'All right, do as you please, let's go!' German conveys a brisk course for Vika, leaning on "delayte" ("do") before closing the thought with "kak" ("how").

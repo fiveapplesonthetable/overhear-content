@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You look simply like a princess.' Pointing out that Katya looks simply like a princess gives Katya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And you have an excellent prince.' Eleonora explains that Katya has an excellent prince, keeping her voice calm and direct.
-- 'All my life I was afraid for you.' Realizing that all her life she was afraid for Katya changes how Eleonora handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Just do not scare me.' Noting that just do not scare keeps Eleonora's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Although I am calm about you.' Even though although she is calm about Katya, Eleonora keeps a steady face in front of Katya.
-- 'At the wedding I will not be alone.' Admitting that at the wedding she will not be alone shows Eleonora being honest for a change.
-- 'Really, and who is this man?' Questioning whether really and who is this man is how Katya tests Eleonora's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He saved me from bankruptcy.' Between the wedding and the dress, Eleonora gives Katya a quick, grounded response.
-- 'Now he is our new investor.' Adding that he is their new investor fills in the missing piece for Katya.
-- 'And he is a very interesting man.' Noting that he is a very interesting man keeps Eleonora's side of the story simple and clear.
-- 'I will definitely introduce you at the wedding.' Since she will definitely introduce Katya at the wedding, Eleonora does not waste words on excuses.
-- 'Alright, Mom, I am very glad.' Mentioning that Alright Mom she is very glad moves the talk in a new direction.
+- 'You look simply like a princess.' Eleonora favors a pointed bearing during the exchange, putting "vyglyadish" ("look") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'And you have an excellent prince.' Eleonora maintains a firm approach with Katya, combining "prints" ("prince") and "otlichnyy" ("excellent, great") so the key meaning lands right away.
+- 'All my life I was afraid for you.' Eleonora chooses a grounded note as the scene unfolds, pairing "zhizn" ("life") with "boyalas" ("to be afraid") to get the point across in plain spoken Russian.
+- 'Just do not scare me.' Eleonora shares a warm line beside Katya, joining "tolko" ("only") to "pugay" ("to scare, frighten") so every word pulls its weight.
+- 'Although I am calm about you.' Eleonora holds a calm manner toward Katya, building the phrase around "spokoyna" ("calm, at ease") and "khotya" ("at least") for a crisp, natural delivery.
+- 'At the wedding I will not be alone.' Eleonora sustains an easygoing direction at once, weaving "svadbe" ("wedding") together with "budu" ("will be") just the way native speakers do.
+- 'Really, and who is this man?' Katya prompts evenly for Eleonora's benefit, anchoring the Russian line on "pravda" ("honestly") and "muzhchina" ("man") without extra filler.
+- 'He saved me from bankruptcy.' Eleonora presents an earnest manner in their talk, pairing "spas" ("saved") with "bankrotstva" ("bankruptcy") to get the point across in plain spoken Russian.
+- 'Now he is our new investor.' Eleonora picks a thoughtful line for Katya, joining "teper" ("now") to "novyy" ("new") so every word pulls its weight.
+- 'And he is a very interesting man.' Eleonora projects a natural stance with Katya, linking "ochen" ("very much"), "interesnyy" ("interesting"), and "muzhchina" ("man") in one brisk exchange.
+- 'I will definitely introduce you at the wedding.' Eleonora favors a calm view in their talk, using "svadbe" (from "svadba", "wedding") alongside "obyazatelno" ("surely, without fail") to shape the meaning.
+- 'Alright, Mom, I am very glad.' Katya establishes a thoughtful footing in the room, joining "khorosho" ("good, fine") to "mama" ("mum, mother") so every word pulls its weight.

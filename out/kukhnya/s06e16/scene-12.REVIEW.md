@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, what wonderful girls you have!' Insisting that what wonderful girls the guest has shows Barinov is not backing down. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Straighten your shoulders, you are a real model!' Once straighten Barinov's shoulders Barinov is a real model, the guest makes sure Barinov hears every word.
-- 'Here is my Elena's favorite dress.' Explaining that here is his Elena favorite dress lays the cards on the table for the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It reminds her of the old days.' Barinov mentions that it reminds her of the old days so the guest sees what is at stake.
-- 'Back then she was a poor and unknown singer.' Claiming that back then she was a poor and unknown singer sounds confident, even if the guest has doubts.
-- 'And now she washes the floors at home in it.' Pointing out that she washes the floors at home in it gives the guest a sobering reality check.
-- 'She has that kind of home kitchen fitness.' Barinov explains that she has that kind of home kitchen fitness, keeping his voice calm and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Excellent, the new dress will be ready by evening.' Realizing that excellent the new dress will be ready by evening changes how the guest handles the situation.
-- 'Will you manage to come to our show?' Asking whether Barinov manages to come to their show is how the guest puts Barinov on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I am afraid I cannot, I have to feed you all.' Being afraid he cannot he has to feed the guest all moves the conversation forward without extra drama. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Then see you tonight at the banquet!' By telling Barinov to see Barinov tonight at the banquet, the guest raises the stakes in the room at once.
-- 'Stop, tell me, who did her makeup?' Questioning whether stop tell him who did her makeup is how the guest tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Hello, what wonderful girls you have!' Barinov shares a frank note without hesitation, pairing "zdravstvuyte" ("hello") with "prekrasnyye" ("wonderful, fine") to get the point across in plain spoken Russian.
+- 'Straighten your shoulders, you are a real model!' The guest sets a brisk rhythm at once, pairing "rasprav" ("straighten") with "plechi" ("shoulder") to get the point across in plain spoken Russian.
+- 'Here is my Elena's favorite dress.' Barinov adopts a firm position toward the guest, combining "lyubimoye" ("favorite") and "platye" ("a dress") so the key meaning lands right away.
+- 'It reminds her of the old days.' Barinov takes a clear attitude at once, using "napominayet" (from "napominat", "reminds of") alongside "starom" ("old") to shape the meaning.
+- 'Back then she was a poor and unknown singer.' Barinov projects a natural bearing with the guest, putting "togda" ("back then") alongside "byla" ("was") in a tight, everyday turn of phrase.
+- 'And now she washes the floors at home in it.' Barinov favors an unhurried tack in front of the guest, leaning on "seychas" ("now") before closing the thought with "doma" ("at home").
+- 'She has that kind of home kitchen fitness.' Barinov holds an unhurried tempo right away, linking "domashniy" ("house"), "kukhonnyy" ("kitchen"), and "fitnes" ("fitness") in one brisk exchange.
+- 'Excellent, the new dress will be ready by evening.' The guest strikes an unhurried manner right away, pairing "otlichno" ("perfect, great") with "novoye" ("new") to get the point across in plain spoken Russian.
+- 'Will you manage to come to our show?' The guest checks directly toward Barinov here, building the phrase around "poluchitsya" ("will come out") and "priyti" ("to come") for a crisp, natural delivery.
+- 'I am afraid I cannot, I have to feed you all.' Barinov shares a clear manner for the guest, combining "boyus" ("am afraid") and "smogu" ("will be able to") so the key meaning lands right away.
+- 'Then see you tonight at the banquet!' The guest keeps a playful position at once, joining "togda" ("back then") to "vstrechi" ("meeting, next time") so every word pulls its weight.
+- 'Stop, tell me, who did her makeup?' The guest presses decisively in this moment, weaving "skazhite" ("tell") together with "delal" ("were doing") just the way native speakers do.

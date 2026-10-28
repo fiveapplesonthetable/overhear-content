@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why on earth did you come here today?' Over the guest and the secret, Nagiyev presses Kristina for a straight answer.
-- 'And a big hello to you too, my dear Dimochka.' Around the guest and shift, Kristina sets a calm, everyday tone with Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I simply missed you very much.' With the guest and moment in play, Kristina keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tell me quickly, what do you want from me?' Asking whether tell him quickly what do Kristina wants from him puts Kristina right on the defensive.
-- 'I need you for an hour or two.' Explaining that she needs Nagiyev for an hour or two lays the cards on the table for Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'My lawful wife walks around right near here!' Once his lawful wife walks around right near here, Nagiyev makes sure Kristina hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'This entire hotel belongs to her!' With the guest and secret at stake, Nagiyev reacts without holding back.
-- 'And what will happen if she sees us?' Wondering what happen if she sees them will cuts straight through the tension between Kristina and Nagiyev. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I beg you, behave quietly!' Here begging Kristina behave quietly lets Nagiyev's real feelings break through. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I told you yesterday, no more meetings.' Realizing that he told Kristina yesterday no more meetings changes how Nagiyev handles the situation.
-- 'Dima, you are telling me that for the third time.' Noting that Nagiyev is telling her that for the third time keeps Kristina's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Then your husband will be very displeased!' Insisting that Kristina's husband will be very displeased shows Nagiyev is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Why on earth did you come here today?' Nagiyev queries frankly without holding back, leaning on "zachem" ("what for") before closing the thought with "voobshche" ("at all").
+- 'And a big hello to you too, my dear Dimochka.' Kristina offers a grounded course in the scene, combining "bolshoy" ("big") and "dorogoy" ("dear") so the key meaning lands right away.
+- 'I simply missed you very much.' Kristina sustains a measured view in their talk, linking "prosto" ("just"), "ochen" ("very much"), and "silno" ("strongly, much") in one brisk exchange.
+- 'Tell me quickly, what do you want from me?' Nagiyev presses honestly without hesitation, leaning on "skazhi" ("say") before closing the thought with "bystreye" ("faster").
+- 'I need you for an hour or two.' Kristina brings an emphatic bearing in their talk, putting "nuzhen" ("is needed") alongside "chas" ("hour") in a tight, everyday turn of phrase.
+- 'My lawful wife walks around right near here!' Nagiyev shows an easygoing mood as the scene unfolds, joining "zdes" ("here") to "zakonnaya" ("legitimate") so every word pulls its weight.
+- 'This entire hotel belongs to her!' Nagiyev establishes a calm tempo toward Kristina, linking "otel" ("hotel"), "prinadlezhit" ("belongs"), and "vot" ("there, here") in one brisk exchange.
+- 'And what will happen if she sees us?' Kristina queries sharply with Nagiyev now, putting "budet" ("will be") alongside "uvidit" ("will see") in a tight, everyday turn of phrase.
+- 'I beg you, behave quietly!' Nagiyev favors a clear direction without hesitation, weaving "umolyayu" ("I beg") together with "vedi" ("lead, behave") just the way native speakers do.
+- 'I told you yesterday, no more meetings.' Nagiyev shares a thoughtful angle in their talk, anchoring the Russian line on "vchera" ("yesterday") and "skazal" ("said") without extra filler.
+- 'Dima, you are telling me that for the third time.' Kristina shares a steady view in the conversation, joining "tretiy" ("the third") to "raz" ("time, once") so every word pulls its weight.
+- 'Then your husband will be very displeased!' Nagiyev sustains a grounded bearing beside Kristina, linking "togda" ("back then"), "muzh" ("husband"), and "budet" ("will be") in one brisk exchange.

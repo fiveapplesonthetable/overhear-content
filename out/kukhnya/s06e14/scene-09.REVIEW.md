@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is very good and fresh beef.' Noting that this is very good and fresh beef keeps Barinov's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Lyova, try one more small piece.' Telling Lyova to try one more small piece is how Barinov lays out the situation for Lyova.
-- 'Wait, chef, this is not beef after all.' Admitting that this is not beef after all shows Lyova being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Exactly, this is young tender veal!' Barinov insists that exactly this is young tender veal, leaving Lyova no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You see, these Koreans are ordinary normal people.' Once these are ordinary normal people, Barinov can finally tell Lyova what he means.
-- 'They have some kind of special day today.' Adding that they have some kind of special day today fills in the missing piece for Barinov.
-- 'They are celebrating the birthday of their teacher.' Saying that they are celebrating the birthday of their teacher is how Senya sets the tone with Barinov.
-- 'Look, chef, what ordinary people they are!' Insisting that what ordinary people they are shows Lyova is not backing down.
-- 'It seems this is some very strange sect.' Mentioning that it seems this is some very strange sect moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We are lucky if this is veal.' Saying that they are lucky if this is veal is how Senya sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Stop talking all kinds of nonsense!' Insisting that Lyova should stop talking all kinds of nonsense shows Barinov is not backing down.
-- 'Let us better go back to the kitchen.' Even though they should better go back to the kitchen, Lyova keeps a steady face in front of Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'This is very good and fresh beef.' Barinov chooses a playful style across the room, linking "ochen" ("very much"), "khoroshaya" ("good"), and "svezhaya" ("fresh") in one brisk exchange.
+- 'Lyova, try one more small piece.' Barinov takes a natural posture right away, linking "poprobuy" ("to try, to taste"), "yeshchyo" ("more, still"), and "malenkiy" ("short, little") in one brisk exchange.
+- 'Wait, chef, this is not beef after all.' Lyova adopts a clear view as the scene unfolds, putting "podozhdite" ("wait") alongside "govyadina" ("beef") in a tight, everyday turn of phrase.
+- 'Exactly, this is young tender veal!' Barinov sustains a serious position across the room, weaving "tochno" ("definitely") together with "molodaya" ("young") just the way native speakers do.
+- 'You see, these Koreans are ordinary normal people.' Barinov shows an unhurried course in this beat, using "vidite" (from "videt", "see") alongside "koreytsy" ("Koreans") to shape the meaning.
+- 'They have some kind of special day today.' Senya chooses a candid mood in the room, pairing "segodnya" ("today") with "osobennyy" ("special, particular") to get the point across in plain spoken Russian.
+- 'They are celebrating the birthday of their teacher.' Senya maintains an easygoing note with Barinov, combining "otmechayut" ("celebrate, mark") and "den" ("day") so the key meaning lands right away.
+- 'Look, chef, what ordinary people they are!' Lyova presents a playful rhythm across the room, combining "posmotrite" ("look") and "obychnyye" ("ordinary") so the key meaning lands right away.
+- 'It seems this is some very strange sect.' Senya sustains a warm view at this moment, building the phrase around "kazhetsya" ("it seems, I think") and "ochen" ("very much") for a crisp, natural delivery.
+- 'We are lucky if this is veal.' Senya holds an unhurried course in front of Lyova, joining "yeshchyo" ("more, still") to "povezlo" ("it was lucky") so every word pulls its weight.
+- 'Stop talking all kinds of nonsense!' Barinov conveys a candid rhythm during the exchange, building the phrase around "khvatit" ("enough") and "glupost" ("nonsense, foolishness") for a crisp, natural delivery.
+- 'Let us better go back to the kitchen.' Lyova offers a thoughtful tack in their talk, putting "davayte" ("let's") alongside "luchshe" ("better") in a tight, everyday turn of phrase.

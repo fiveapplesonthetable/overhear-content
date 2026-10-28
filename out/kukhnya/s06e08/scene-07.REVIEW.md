@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations, though the main gift will come a bit later.' Since congratulations though the main gift will come a bit later, Barinov does not waste words on excuses.
-- 'Thank you very much, my dear friends!' Around the room and kitchen, Katya makes her point loud and clear. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Come on, step aside and let the parents through!' Coming on step aside and let the parents shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'My darling daughter, happy birthday!' Over the room and the moment, Eleonora lets her real feelings show.
-- 'My gift will soon arrive on your bank card.' Explaining that her gift will soon arrive on Barinov's bank card lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And we will celebrate tonight.' Eleonora mentions that they will celebrate tonight so Barinov sees what is at stake.
-- 'And my gift will not keep you waiting.' Claiming that his gift will not keep Eleonora waiting sounds confident, even if Eleonora has doubts.
-- 'I noticed that your mirror was cracked.' Pointing out that he noticed that Eleonora's mirror was cracked gives Eleonora a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Thank you very much, Dad, for the gift!' Over the kitchen and the work, Katya lets her real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'How observant you have become!' Declaring that how observant Barinov has become brings Katya's temper right to the surface.
-- 'That is not like you at all, Vitya.' Noting that that is not like Barinov at all keeps Eleonora's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dear friends, today is Katya's birthday!' Saying that dear friends today is Katya birthday is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Congratulations, though the main gift will come a bit later.' Barinov presents a thoughtful attitude across the room, leaning on "pozdravlyayu" ("congratulations") before closing the thought with "osnovnoy" ("main, basic").
+- 'Thank you very much, my dear friends!' Katya presents a wry tempo in the conversation, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "dorogiye" ("dear") in one brisk exchange.
+- 'Come on, step aside and let the parents through!' Barinov brings a steady tack straight away, anchoring the Russian line on "rasstupites" ("step aside") and "dayte" ("give") without extra filler.
+- 'My darling daughter, happy birthday!' Eleonora shares an earnest mood in front of Katya, putting "dochenka" ("sweetheart") alongside "dorogaya" ("expensive") in a tight, everyday turn of phrase.
+- 'My gift will soon arrive on your bank card.' Eleonora shows a lively style in the room, anchoring the Russian line on "podarok" ("gift, voucher") and "skoro" ("soon") without extra filler.
+- 'And we will celebrate tonight.' Eleonora favors a grounded approach for Katya, anchoring the Russian line on "prazdnovat" ("to celebrate") and "budem" ("will") without extra filler.
+- 'And my gift will not keep you waiting.' Barinov keeps a brisk direction during the exchange, putting "podarok" ("gift, voucher") alongside "zastavit" ("to force, to make") in a tight, everyday turn of phrase.
+- 'I noticed that your mirror was cracked.' Barinov sets a candid view toward Katya, anchoring the Russian line on "zametil" ("noticed") and "zerkalo" ("mirror") without extra filler.
+- 'Thank you very much, Dad, for the gift!' Katya chooses a lively mood straight away, pairing "spasibo" ("thank you") with "bolshoye" ("big, very much") to get the point across in plain spoken Russian.
+- 'How observant you have become!' Katya maintains an honest tone during the exchange, pairing "stal" ("to become") with "vnimatelnyy" ("attentive") to get the point across in plain spoken Russian.
+- 'That is not like you at all, Vitya.' Eleonora picks a lively bearing on the spot, linking "sovsem" ("at all") directly with "pokhozhe" ("like, similar"), since Russian drops "is" and "are" in the present.
+- 'Dear friends, today is Katya's birthday!' Barinov shares a frank rhythm during the exchange, building the phrase around "dorogiye" ("dear") and "druzya" ("friends") for a crisp, natural delivery.

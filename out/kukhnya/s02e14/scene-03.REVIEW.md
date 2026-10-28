@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, who is this Ilya?' Wondering who this Ilya is cuts straight through the tension between Max and Sasha. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Senya, go away, will you.' Sasha mentions that Max should go away will Max so Max sees what is at stake.
-- 'It does not matter, he is my ex.' Realizing that it does not matter he is his ex changes how Senya handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And how long ago did you break up?' Max asks whether how long ago did Sasha breaks up, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Six months ago.' Between the situation and the point, Sasha gives Max a quick, grounded response.
-- 'Oh, no, no, thank you.' Claiming that Max should thank Max sounds confident, even if Max has doubts.
-- 'In a week I will have a talk with Sasha.' Saying that in a week he will have a talk with Sasha is how Max sets the tone with Sasha.
-- 'Ah, speak of the devil.' Adding that Max should speak of the devil fills in the missing piece for Max.
-- 'Dmitry Vladimirovich is busy right now.' Adding that Dmitry Vladimirovich is busy right now fills in the missing piece for Max.
-- 'Please wait for him right here.' Around the room and conversation, Max sets a calm, everyday tone with Sasha.
-- 'And what happens now?' Wondering if what happens now shows Sasha caught off guard.
-- 'Wait, are you jealous?' By checking whether Max jealous, Senya presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am with you now.' Noting that he is with Sasha now keeps Max's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'So, who is this Ilya?' Max quizzes warmly across the room, anchoring the Russian line on "nu" ("oh, come on") and "kto" ("who") without extra filler.
+- 'Senya, go away, will you.' Sasha strikes a firm posture with Senya, using "uydi" (from "uyti", "go away, step inside") alongside "senya" ("Senya") to shape the meaning.
+- 'It does not matter, he is my ex.' Senya projects a frank course without hesitation, joining "vazhno" ("important, mattering") to "byvshiy" ("ex") so every word pulls its weight.
+- 'And how long ago did you break up?' Max tests calmly in the room, combining "davno" ("for a long time") and "rasstalis" ("broke up, separated") so the key meaning lands right away.
+- 'Six months ago.' Sasha picks a brisk view across the room, anchoring the Russian line on "polgoda" ("six months") and "nazad" ("ago") without extra filler.
+- 'Oh, no, no, thank you.' Senya keeps an emphatic angle without hesitation, anchoring the Russian line on "spasibo" ("thank you") and "net" ("no") without extra filler.
+- 'In a week I will have a talk with Sasha.' Max offers a calm view across the room, using "nedelyu" (from "nedelya", "for a week") alongside "pogovorim" ("we'll have a talk") to shape the meaning.
+- 'Ah, speak of the devil.' Sasha presents a thoughtful mood on the spot, weaving "vot" ("there, here") together with "on" ("he") just the way native speakers do.
+- 'Dmitry Vladimirovich is busy right now.' Senya takes an earnest mood in the room, pairing "seychas" ("now") with "zanyat" ("busy") to get the point across in plain spoken Russian.
+- 'Please wait for him right here.' Max favors a serious mood as the scene unfolds, joining "podozhdite" ("wait") to "zdes" ("here") so every word pulls its weight.
+- 'And what happens now?' Sasha quizzes briskly toward Max here, building the phrase around "teper" ("now") and "chto" ("what") for a crisp, natural delivery.
+- 'Wait, are you jealous?' Senya wonders lightly during the talk, building the phrase around "revnuyesh" ("are jealous") and "ty" ("you") for a crisp, natural delivery.
+- 'I am with you now.' Max strikes a frank note as the scene unfolds, building the phrase around "ya" ("I") and "toboy" ("you") for a crisp, natural delivery.

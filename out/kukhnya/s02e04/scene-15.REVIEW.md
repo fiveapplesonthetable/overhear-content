@@ -11,31 +11,31 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Нас заберут в полицию. | They will take us to the police. | #248: Нас заберут в полицию | verbatim |
-| 2 | Шеф | Нас посадят в тюрьму. | They will put us in prison. | #249: Нас посадят в тюрьму | verbatim |
+| 2 | Луи | Нас посадят в тюрьму. | They will put us in prison. | #249: Нас посадят в тюрьму | verbatim |
 | 3 | Вика | Господи, Луи! | Good lord, Louis! | #250: Господи, Луи | verbatim |
 | 4 | Макс | Вы все, словно, сумасшедшие. | You are all acting like crazy people. | #252: Вы все, словно, сумасшедшие | verbatim |
-| 5 | Шеф | Ну, что тут у вас? | Well, how is it going with you guys? | #253: Ну, что тут у вас | verbatim |
+| 5 | Луи | Ну, что тут у вас? | Well, how is it going with you guys? | #253: Ну, что тут у вас | verbatim |
 | 6 | Вика | Не, погоди, не готово. | No, wait, it is not ready yet. | #254: Не, погоди, не готово | verbatim |
 | 7 | Макс | Как шеф нас говорит. | Just like the Chef tells us. | #255: Как шеф нас говорит | verbatim |
-| 8 | Шеф | Сейчас я ему в салон соуса добавлю. | Right now I will add some sauce into his car interior. | #256: Сейчас я ему в салон соуса добавлю | verbatim |
+| 8 | Луи | Сейчас я ему в салон соуса добавлю. | Right now I will add some sauce into his car interior. | #256: Сейчас я ему в салон соуса добавлю | verbatim |
 | 9 | Вика | Виктория Сергеевна, я хотела вас предупредить. | Viktoriya Sergeyevna, I wanted to let you know in advance. | #258: Виктория Сергеевна, я хотела вас предупредить | verbatim |
 | 10 | Макс | На выходных мне не будет. | I will not be here this weekend. | #259: На выходных мне не будет | verbatim |
-| 11 | Шеф | На Кипр летим. | We are flying to Cyprus. | #261: На Кипр летим | verbatim |
+| 11 | Луи | На Кипр летим. | We are flying to Cyprus. | #261: На Кипр летим | verbatim |
 | 12 | Вика | С Максом. | With Max. | #262: С Максом | verbatim |
 | 13 | Макс | Ладно, я пойду. | All right, I will get going. | #263: Ладно, я пойду | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will take us to the police.' Saying that they will take them to the police is how Max sets the tone with Barinov.
-- 'They will put us in prison.' Once they will put them in prison, Barinov can finally tell Max what he means.
-- 'Good lord, Louis!' With the moment and point at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'You are all acting like crazy people.' Max tells Barinov that Barinov is all acting like crazy people without dressing it up. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well, how is it going with you guys?' Here asking how it going with Max guys is shows Barinov looking for the real truth.
-- 'No, wait, it is not ready yet.' Mentioning that it is not ready yet moves the talk in a new direction.
-- 'Just like the Chef tells us.' Max reminds Barinov that just like the Chef tells them before the moment passes.
-- 'Right now I will add some sauce into his car interior.' Because right now he will add some sauce into his car interior, Barinov treats the matter as settled.
-- 'Viktoriya Sergeyevna, I wanted to let you know in advance.' Explaining that Viktoriya Sergeyevna she wanted to let Barinov knows in advance lays the cards on the table for Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'I will not be here this weekend.' Max mentions that he will not be here this weekend so Barinov sees what is at stake.
-- 'We are flying to Cyprus.' Claiming that they are flying to Cyprus sounds confident, even if Max has doubts.
-- 'With Max.' Around the conversation and news, Vika sets a calm, everyday tone with Barinov.
-- 'All right, I will get going.' Max explains that all right he will get going, keeping his voice calm and direct.
+- 'They will take us to the police.' Max sets a frank rhythm toward Louis, combining "zaberut" ("to take back") and "politsiyu" ("the police") so the key meaning lands right away.
+- 'They will put us in prison.' Louis displays a frank rhythm at once, leaning on "posadyat" ("they'll put in prison") before closing the thought with "tyurmu" ("prison").
+- 'Good lord, Louis!' Vika presents a serious style toward Louis, weaving "gospodi" ("Good Lord") together with "lui" ("Louis") just the way native speakers do.
+- 'You are all acting like crazy people.' Max shows a calm attitude toward Vika, combining "sumasshedshiye" ("crazy, insane") and "vy" ("you") so the key meaning lands right away.
+- 'Well, how is it going with you guys?' Louis tests naturally during the talk, placing "tut" ("here") straight beside "nu" ("oh, come on") with no word for "to be" needed.
+- 'No, wait, it is not ready yet.' Vika maintains a grounded tack right away, anchoring the Russian line on "pogodi" ("wait") and "gotovo" ("ready") without extra filler.
+- 'Just like the Chef tells us.' Max chooses a candid bearing on the spot, combining "kak" ("how") and "govorit" ("talks") so the key meaning lands right away.
+- 'Right now I will add some sauce into his car interior.' Louis offers a playful line during the exchange, joining "seychas" ("now") to "salon" ("salon") so every word pulls its weight.
+- 'Viktoriya Sergeyevna, I wanted to let you know in advance.' Vika brings a sharp rhythm on the spot, pairing "khotela" ("wanted, meant") with "predupredit" ("to warn") to get the point across in plain spoken Russian.
+- 'I will not be here this weekend.' Max shares a thoughtful tone at this moment, combining "vykhodnykh" ("weekend") and "budet" ("will be") so the key meaning lands right away.
+- 'We are flying to Cyprus.' Louis holds a firm position in the scene, building the phrase around "letim" ("we're flying") and "na" ("on, onto") for a crisp, natural delivery.
+- 'With Max.' Vika chooses an unhurried attitude as they talk, letting the single Russian word "maksom" ("Max") carry the entire reaction on its own.
+- 'All right, I will get going.' Max holds a calm attitude with Louis, building the phrase around "poydu" ("go") and "ladno" ("all right") for a crisp, natural delivery.

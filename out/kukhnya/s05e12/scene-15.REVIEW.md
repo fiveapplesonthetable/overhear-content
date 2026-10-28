@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But we are in the kitchen!' Barinov insists that they are in the kitchen, leaving Elena no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And in the room above the kitchen it smells the exact same way. Something is wrong with the ventilation.' Around the room and meat, Lyova sets a calm, everyday tone with Barinov.
-- 'Bring the tools, I will see what can be done.' Realizing that Elena should bring the tools he will see what can be done changes how Barinov handles the situation. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Excuse me, I will sort it out.' Saying that he will sort it out is how Barinov sets the tone with Elena.
-- 'Elena, I congratulate you! With all my heart I wish you happiness.' Because he congratulates Barinov, Lyova does not bother softening the blow for Barinov.
-- 'You deserve this.' Mentioning that Barinov deserves this moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you. Can people congratulate me already?' Checking whether people congratulate her already cuts straight through the tension between Elena and Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'It looks like we can! Then I congratulate you too.' Insisting that it looks like they can shows Lyova is not backing down.
-- 'I always believed that you and Viktor Petrovich would get married.' Explaining that he always believed that Barinov and Viktor Petrovich would get married lays the cards on the table for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And I am very glad that he dared to take this step!' Because he is very glad that he dared to take this step, Lyova does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, Lyova.' With the meat and kitchen in play, Elena keeps this short reply brisk and direct.
-- 'What step?' With the point and wedding hanging in the air, Elena puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'But we are in the kitchen!' Barinov displays an earnest stance with Elena, weaving "kukhne" ("kitchen") together with "no" ("but") just the way native speakers do.
+- 'And in the room above the kitchen it smells the exact same way. Something is wrong with the ventilation.' Lyova presents a playful line at this moment, anchoring the Russian line on "nomere" ("in the hotel room") and "kukhney" ("kitchen") without extra filler.
+- 'Bring the tools, I will see what can be done.' Barinov shows a thoughtful mood without hesitation, joining "nesi" ("bring") to "instrumenty" ("tools") so every word pulls its weight.
+- 'Excuse me, I will sort it out.' Barinov conveys a calm stance straight away, pairing "razberus" ("I will sort out") with "izvinite" ("sorry, excuse me") so the "-sya" ending carries the action.
+- 'Elena, I congratulate you! With all my heart I wish you happiness.' Lyova chooses a measured rhythm without hesitation, pairing "pozdravlyayu" ("congratulations") with "dushi" ("soul, heart") to get the point across in plain spoken Russian.
+- 'You deserve this.' Lyova chooses a grounded stance in this beat, leaning on "zasluzhivayete" ("deserve") before closing the thought with "vy" ("you").
+- 'Thank you. Can people congratulate me already?' Elena tests earnestly beside Barinov, building the phrase around "spasibo" ("thank you") and "mozhno" ("may, can") for a crisp, natural delivery.
+- 'It looks like we can! Then I congratulate you too.' Lyova strikes an honest direction without hesitation, joining "pokhozhe" ("like, similar") to "mozhno" ("may, can") so every word pulls its weight.
+- 'I always believed that you and Viktor Petrovich would get married.' Lyova presents a natural direction across the room, putting "vsegda" ("always") alongside "veril" ("to believe") in a tight, everyday turn of phrase.
+- 'And I am very glad that he dared to take this step!' Lyova keeps an earnest position as they talk, building the phrase around "ochen" ("very much") and "rad" ("glad") for a crisp, natural delivery.
+- 'Wait, Lyova.' Elena picks a clear style right away, leaning on "podozhdite" ("wait") before closing the thought with "lyova" ("Lyova").
+- 'What step?' Elena prompts warmly with Lyova now, building the phrase around "shag" ("step") and "kakoy" ("what a, how") for a crisp, natural delivery.

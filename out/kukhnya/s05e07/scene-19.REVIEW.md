@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I forgot about the wine.' Vika tells Barinov that she forgot about the wine without dressing it up.
-- 'Sixty-five thousand rubles.' Over the truth and the wine, Kostya answers Barinov without a second thought.
-- 'One minute remains until the end of the match.' Around the truth and wine, Barinov sets a calm, everyday tone with Kostya.
-- 'Vitya, we need to talk.' Here needing to talk sets up the next turn in their exchange.
-- 'Vika, step aside, I cannot see anything.' Stepping aside he cannot see anything is how Barinov lays out the situation for Kostya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'But never do that again.' Explaining that never do that again lays the cards on the table for Kostya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What did you want?' With the shift and wine hanging in the air, Barinov puts Kostya on the spot.
-- 'Vitya, I want to talk.' Wanting to talk moves the conversation forward without extra drama.
-- 'No, I demand it.' Claiming that she demands it sounds confident, even if Barinov has doubts.
-- 'That you fire him.' Vika explains that that Barinov fires him, keeping her voice calm and direct.
-- 'What is wrong with you?' With the moment and wine hanging in the air, Barinov puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Is something wrong with the baby?' Here asking whether something wrong with the baby shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Max, I forgot about the wine.' Vika adopts a thoughtful course with Barinov, anchoring the Russian line on "vino" ("wine") and "zabyla" ("forgot") without extra filler.
+- 'Sixty-five thousand rubles.' Kostya sets a wry mood across the room, pairing "tysyach" ("thousand") with "rubley" ("roubles") to get the point across in plain spoken Russian.
+- 'One minute remains until the end of the match.' Barinov favors a frank position without hesitation, leaning on "minuta" ("minute") before closing the thought with "ostayotsya" ("stays").
+- 'Vitya, we need to talk.' Vika presents a firm bearing in the scene, leaning on "nado" ("it is necessary") before closing the thought with "pogovorit" ("to talk").
+- 'Vika, step aside, I cannot see anything.' Barinov presents a wry note for Kostya, linking "otoydi" ("to step back"), "vidno" ("one can see"), and "vika" ("Vika") in one brisk exchange.
+- 'But never do that again.' Barinov projects a candid note for Vika, weaving "bolshe" ("more") together with "nikogda" ("never") just the way native speakers do.
+- 'What did you want?' Barinov queries lightly right away, linking "khotela" ("wanted, meant"), "chego" ("what"), and "ty" ("you") in one brisk exchange.
+- 'Vitya, I want to talk.' Vika favors a lively tack toward Kostya, using "khochu" (from "khotet", "want") alongside "pogovorit" ("to talk") to shape the meaning.
+- 'No, I demand it.' Vika strikes a serious note in the conversation, linking "trebuyu" ("demand"), "net" ("no"), and "ya" ("I") in one brisk exchange.
+- 'That you fire him.' Vika chooses a natural view for Kostya, anchoring the Russian line on "uvolil" ("to fire, to dismiss") and "chtoby" ("so that") without extra filler.
+- 'What is wrong with you?' Barinov queries decisively in the scene, pairing "chto" ("what") with "toboy" ("you") to get the point across in plain spoken Russian.
+- 'Is something wrong with the baby?' Barinov queries bluntly in their exchange, pairing "rebyonkom" ("child") with "chto-to" ("somehow") to get the point across in plain spoken Russian.

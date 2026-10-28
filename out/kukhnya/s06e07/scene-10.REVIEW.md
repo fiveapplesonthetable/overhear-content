@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our son is staying at grandma's tonight.' Explaining that their son is staying at grandma tonight lays the cards on the table for Katya.
-- 'Everything is fine, we will be going soon.' Saying that everything is fine they will be going soon is how Kostya sets the tone with Katya.
-- 'It seems she is very rowdy tonight.' Claiming that it seems she is very rowdy tonight sounds confident, even if Kostya has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'In this state she might jump out of the car.' Pointing out that in this state she might jump out of the car gives Katya a sobering reality check.
-- 'Katya, will you help me get Nastya home?' Asking whether Katya helps him get Nastya home cuts straight through the tension between Kostya and Katya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course, let us go get in the car quickly.' Here proposing that they go get in the car quickly sets up the next turn in their exchange.
-- 'Sorry, brother, you see for yourself what the situation is.' Noting that brother Katya sees for themselves what the situation is keeps Kostya's side of the story simple and clear.
-- 'I want to ask about the hospital.' Katya explains that she wants to ask about the hospital, keeping her voice calm and direct.
-- 'Tell me, is everything really alright with you?' Wondering if tell her is everything really alright with Kostya shows Katya caught off guard. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Of course, everything is completely normal with me.' Saying that everything is completely normal with him is how Lyova sets the tone with Katya.
-- 'All of our waiters have suddenly disappeared somewhere.' Once all of their waiters have suddenly disappeared somewhere, Lyova can finally tell Katya what he means.
-- 'Apparently I will have to serve the dish myself.' Adding that apparently he will have to serve the dish himself fills in the missing piece for Katya.
+- 'Our son is staying at grandma's tonight.' Kostya takes a frank mood at once, building the phrase around "syn" ("son") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Everything is fine, we will be going soon.' Kostya displays a measured direction right away, building the phrase around "khorosho" ("good, fine") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'It seems she is very rowdy tonight.' Katya chooses a resolute footing during the exchange, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "segodnya" ("today") to shape the meaning.
+- 'In this state she might jump out of the car.' Kostya maintains a candid approach straight away, pairing "sostoyanii" ("condition, state") with "mozhet" ("can") to get the point across in plain spoken Russian.
+- 'Katya, will you help me get Nastya home?' Kostya challenges pointedly as the talk turns, using "pomozhesh" (from "pomoch", "you'll help") alongside "dovezti" ("to drive, take") to shape the meaning.
+- 'Of course, let us go get in the car quickly.' Katya establishes a calm angle right away, pairing "konechno" ("of course") with "poydyom" ("let's go") to get the point across in plain spoken Russian.
+- 'Sorry, brother, you see for yourself what the situation is.' Kostya presents a grounded manner toward Katya, putting "izvini" ("sorry, excuse me") alongside "brat" ("brother") in a tight, everyday turn of phrase.
+- 'I want to ask about the hospital.' Katya holds an honest rhythm in the conversation, weaving "khochu" ("want") together with "sprosit" ("to ask") just the way native speakers do.
+- 'Tell me, is everything really alright with you?' Katya asks earnestly on the spot, using "skazhi" (from "skazat", "say") alongside "tochno" ("definitely") to shape the meaning.
+- 'Of course, everything is completely normal with me.' Lyova offers a steady angle during the exchange, building the phrase around "konechno" ("of course") and "sovershenno" ("quite, completely") for a crisp, natural delivery.
+- 'All of our waiters have suddenly disappeared somewhere.' Lyova holds an unhurried attitude in this beat, pairing "kuda-to" ("somewhere") with "ofitsianty" ("waiters") to get the point across in plain spoken Russian.
+- 'Apparently I will have to serve the dish myself.' Lyova sustains a frank rhythm with Kostya, leaning on "vidimo" ("apparently") before closing the thought with "pridyotsya" ("you'll have to").

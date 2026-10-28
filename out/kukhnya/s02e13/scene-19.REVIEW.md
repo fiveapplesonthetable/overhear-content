@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on in, have a seat.' Because Max should come on in have a seat, Fedya treats the matter as settled.
-- 'So that they do not put a single gram of meat on your plate.' Admitting that that they do not put a single gram of meat on Fedya's plate shows Max being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Actually, I came back here specifically for that reason.' Saying that he came back here specifically for that reason is how Fedya sets the tone with Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'To taste a nice, juicy steak.' Over the room and the kitchen, Max answers Fedya without a second thought.
-- 'That is a very funny joke.' Adding that that is a very funny joke fills in the missing piece for Max.
-- 'I am completely serious.' Claiming that he is completely serious sounds confident, even if Fedya has doubts.
-- 'There is already so little joy in life.' Since there is already so little joy in life, Fedya does not waste words on excuses.
-- 'What is a human being, after all?' Asking what a human being after all is cuts straight through the tension between Max and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Then suddenly some nonsense happens, and our habits change.' Fedya reminds Max that suddenly some nonsense happens and their habits change before the moment passes.
-- 'Sometimes we change thanks to the people we love.' Because sometimes they change thanks to the people they love, Max treats the matter as settled.
-- 'I am coming over right now, I missed you.' Saying that he is coming over right now he missed Max is how Fedya sets the tone with Max.
-- 'And sometimes it happens like this.' Max mentions that sometimes it happens like this so Fedya sees what is at stake.
-- 'Who will now start changing themselves for each other.' Claiming that who will now start changing themselves for each other sounds confident, even if Max has doubts.
+- 'Come on in, have a seat.' Fedya displays a firm manner at this moment, pairing "prokhodite" ("come in") with "prisazhivaytes" ("have a seat") to get the point across in plain spoken Russian.
+- 'So that they do not put a single gram of meat on your plate.' Max displays a frank position straight away, combining "polozhili" ("to put, to lay down") and "gramma" ("gram") so the key meaning lands right away.
+- 'Actually, I came back here specifically for that reason.' Fedya chooses a direct approach as the scene unfolds, leaning on "kak" ("how") before closing the thought with "raz" ("time, once").
+- 'To taste a nice, juicy steak.' Max maintains an earnest tack in the conversation, building the phrase around "otvedat" ("to taste, to sample") and "sochnyy" ("juicy") for a crisp, natural delivery.
+- 'That is a very funny joke.' Fedya shares a wry tone in this beat, building the phrase around "ochen" ("very much") and "smeshnaya" ("funny, ridiculous") for a crisp, natural delivery.
+- 'I am completely serious.' Max conveys a serious posture at once, joining "vpolne" ("quite") to "seryezno" ("seriously") so every word pulls its weight.
+- 'There is already so little joy in life.' Fedya establishes a playful view as the scene unfolds, leaning on "zhizni" ("life") before closing the thought with "malo" ("little, not enough").
+- 'What is a human being, after all?' Max probes dryly with Fedya now, linking "chelovek" ("a man, a person"), "chto" ("what"), and "takoye" ("on earth") in one brisk exchange.
+- 'Then suddenly some nonsense happens, and our habits change.' Fedya picks a thoughtful tempo in this beat, combining "vdrug" ("suddenly, what if") and "sluchayetsya" ("to happen, occur") so the key meaning lands right away.
+- 'Sometimes we change thanks to the people we love.' Max takes an earnest line for Fedya, linking "poroy" ("at times, occasionally"), "menyayemsya" ("to change, alter"), and "lyubimym" ("favourite, beloved") in one brisk exchange.
+- 'I am coming over right now, I missed you.' Fedya establishes a playful stance at once, anchoring the Russian line on "seychas" ("now") and "priyedu" ("will come, visit") without extra filler.
+- 'And sometimes it happens like this.' Max keeps a warm approach in this beat, building the phrase around "yeshche" ("still") and "byvayet" ("there can be") for a crisp, natural delivery.
+- 'Who will now start changing themselves for each other.' Fedya picks a natural posture across the room, putting "teper" ("now") alongside "budut" ("there will be") in a tight, everyday turn of phrase.

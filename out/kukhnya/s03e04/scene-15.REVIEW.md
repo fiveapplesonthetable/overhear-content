@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's it, I placed my bet.' Mentioning that that is it he placed his bet moves the talk in a new direction.
-- 'Vitya, were you drinking all night?' By checking whether Barinov drinking all night, Elena presses Barinov for a straight answer.
-- 'I drank. I lost so much that I had to have a drink.' Because he lost so much that he had to have a drink, Barinov treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'So you were gambling too?' When Elena asks if Barinov was gambling, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, you are the one to blame for that.' Barinov mentions that Elena is the one to blame so Elena sees what is at stake.
-- 'You gave me that wretched elephant.' Claiming that Elena gave him that wretched elephant sounds confident, even if Elena has doubts.
-- 'So I am to blame too?' Elena asks whether she is to blame, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fine, when you come to your senses, we will talk.' Elena explains that fine when Barinov comes to Barinov's senses they will talk, keeping her voice calm and direct.
-- 'Lena, well you aren't to blame, it's that elephant that I lost!' Declaring that someone well Elena is not to blame it is that elephant that he lost brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What, did they rehire you? No, I came for my final pay.' By wondering what they rehire Barinov, Ilya presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hello everyone! Don't you worry.' Saying that do not Barinov worries is how Ilya takes charge of the moment.
-- 'Nagiyev has been eating Katya's molecular food for two days now.' Admitting that Nagiyev has been eating Katya molecular food for two days now shows Ilya being honest for a change.
+- 'That's it, I placed my bet.' Barinov strikes an unhurried attitude with Elena, building the phrase around "postavil" ("put") and "vsyo" ("everything") for a crisp, natural delivery.
+- 'Vitya, were you drinking all night?' Elena challenges quietly as they speak, anchoring the Russian line on "pil" ("was drinking") and "noch" ("night") without extra filler.
+- 'I drank. I lost so much that I had to have a drink.' Barinov establishes a calm stance for Elena, anchoring the Russian line on "pil" ("was drinking") and "stolko" ("so many") without extra filler.
+- 'So you were gambling too?' Elena presses bluntly in front of Ilya, leaning on "yest" ("there is") before closing the thought with "yeshchyo" ("more, still").
+- 'Well, you are the one to blame for that.' Barinov keeps an unhurried course toward Elena, joining "kak" ("how") to "raz" ("time, once") so every word pulls its weight.
+- 'You gave me that wretched elephant.' Barinov chooses an honest tempo for Ilya, putting "podarila" ("gave as a gift") alongside "slona" ("an elephant") in a tight, everyday turn of phrase.
+- 'So I am to blame too?' Elena prompts directly beside Barinov, linking "yest" ("there is"), "yeshchyo" ("more, still"), and "vinovata" ("at fault, to blame") in one brisk exchange.
+- 'Fine, when you come to your senses, we will talk.' Elena establishes a clear approach as the scene unfolds, building the phrase around "khorosho" ("good, fine") and "pridyosh" ("will come") for a crisp, natural delivery.
+- 'Lena, well you aren't to blame, it's that elephant that I lost!' Barinov strikes an unhurried course without hesitation, using "vinovata" (from "vinovatyy", "at fault, to blame") alongside "slon" ("elephant") to shape the meaning.
+- 'What, did they rehire you? No, I came for my final pay.' Ilya probes quietly in the scene, weaving "vernuli" ("returned") together with "raschyotom" ("final pay, settlement") just the way native speakers do.
+- 'Hello everyone! Don't you worry.' Ilya maintains an earnest direction in this beat, combining "perezhivay" ("worry") and "vsem" ("everyone") so the key meaning lands right away.
+- 'Nagiyev has been eating Katya's molecular food for two days now.' Ilya establishes a brisk approach as they talk, anchoring the Russian line on "uzhe" ("already, now") and "dnya" ("day") without extra filler.

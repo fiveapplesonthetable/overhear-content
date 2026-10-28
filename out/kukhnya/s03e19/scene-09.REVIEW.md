@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Officers, you do not have the right to take away my employee!' Barinov declares that officers Kostya does not have the right to take away his employee as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What employee? He is an ordinary homeless man, take him away!' Questioning whether he is an ordinary homeless man take him away is how Max tests Barinov's story.
-- 'First and foremost he is a very good and experienced cook.' Even though first and foremost he is a very good and experienced cook, Barinov keeps a steady face in front of Kostya.
-- 'Congratulations, Rodion, I have officially hired you!' Once congratulations Rodion he has officially hired Kostya, Barinov makes sure Kostya hears every word. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I have the right to hire cooks myself under my contract.' Once he has the right to hire cooks himself under his contract, Barinov can finally tell Kostya what he means.
-- 'And I as the employer have the right to see the employee's documents.' Once he as the employer have the right to see the employee documents, Max can finally tell Barinov what he means.
-- 'His passport and a real cook's medical booklet.' Turning from the test to the shift, Max keeps the exchange moving.
-- 'Rodion Sergeyevich starts work tomorrow, so you will see them tomorrow!' Barinov declares that Rodion Sergeyevich starts work tomorrow so Kostya will see them tomorrow as the tension in the room peaks.
-- 'Kostya, imagine, Vika is testing me as if I were a terrorist!' Because Barinov should imagine Vika is testing him as if he were a terrorist, Max does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, in a sense you really are quite the terrorist.' Mentioning that in a sense Barinov really are quite the terrorist moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Look, Vika is quietly whispering something to Eva right now.' Saying that Vika is quietly whispering something to Eva right now is how Max sets the tone with Barinov.
-- 'It looks like I am going to have another test today.' Because it looks like he is going to have another test today, Max treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Max, calm down, you already have real paranoia!' Saying that Barinov should calm down Barinov already have real paranoia is how Kostya takes charge of the moment. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Officers, you do not have the right to take away my employee!' Barinov brings a natural manner beside Kostya, leaning on "gospoda" ("gentlemen") before closing the thought with "politseyskiye" ("police officers").
+- 'What employee? He is an ordinary homeless man, take him away!' Max quizzes pointedly without holding back, weaving "yeshchyo" ("more, still") together with "sotrudnik" ("employee") just the way native speakers do.
+- 'First and foremost he is a very good and experienced cook.' Barinov keeps a measured tempo in the scene, anchoring the Russian line on "prezhde" ("before") and "ochen" ("very much") without extra filler.
+- 'Congratulations, Rodion, I have officially hired you!' Barinov chooses a resolute style at this moment, combining "pozdravlyayu" ("congratulations") and "ofitsialno" ("official, officially") so the key meaning lands right away.
+- 'I have the right to hire cooks myself under my contract.' Barinov conveys an easygoing line during the exchange, weaving "imeyu" ("have") together with "pravo" ("right") just the way native speakers do.
+- 'And I as the employer have the right to see the employee's documents.' Max displays a sharp bearing on the spot, anchoring the Russian line on "kak" ("how") and "rabotodatel" ("employer") without extra filler.
+- 'His passport and a real cook's medical booklet.' Max presents an earnest angle on the spot, pairing "pasport" ("passport") with "nastoyashchuyu" ("real, genuine") to get the point across in plain spoken Russian.
+- 'Rodion Sergeyevich starts work tomorrow, so you will see them tomorrow!' Barinov favors a direct tack on the spot, weaving "rabotayet" ("works") together with "zavtrashnego" ("tomorrow's") just the way native speakers do.
+- 'Kostya, imagine, Vika is testing me as if I were a terrorist!' Max adopts a pointed course in the scene, leaning on "predstav" ("imagine") before closing the thought with "proveryayet" ("is testing").
+- 'Well, in a sense you really are quite the terrorist.' Kostya holds a warm approach in the conversation, putting "smysle" ("sense") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'Look, Vika is quietly whispering something to Eva right now.' Max displays an earnest tempo as the scene unfolds, building the phrase around "smotri" ("look") and "seychas" ("now") for a crisp, natural delivery.
+- 'It looks like I am going to have another test today.' Max shows a sharp course for Kostya, combining "pokhozhe" ("like, similar") and "segodnya" ("today") so the key meaning lands right away.
+- 'Max, calm down, you already have real paranoia!' Kostya sustains a thoughtful mood for Barinov, building the phrase around "uspokoysya" ("calm down") and "uzhe" ("already, now") for a crisp, natural delivery.

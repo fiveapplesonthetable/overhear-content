@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is already a grown adult.' Realizing that she is already a grown adult changes how Eleonora handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'She has the right to make important decisions herself.' Having the right to make important decisions herself moves the conversation forward without extra drama.
-- 'We must not stand in her way right now.' Noting that they must not stand in her way right now keeps Eleonora's side of the story simple and clear.
-- 'Do you really think so calmly?' By checking whether Eleonora really think so calmly, Barinov presses Eleonora for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Maybe someone should just beat his face in?' Questioning whether maybe someone should just beat his face is how Eleonora tests Barinov's story.
-- 'And who exactly is going to beat him?' When Barinov asks if who exactly is going to beat him, Eleonora has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Victor Petrovich, maybe we can help?' Asking whether maybe they can help puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There is enough room for everyone at our place.' Adding that there is enough room for everyone at their place fills in the missing piece for Barinov.
-- 'I am categorically against this guest at home.' Once he is categorically against this guest at home, Kostya can finally tell Barinov what he means.
-- 'Kostya, you cannot treat your father like that!' Eleonora declares that Barinov cannot treat Barinov's father like as the tension in the room peaks. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Goodbye, leave my apartment now.' Between the apartment and the room, Kostya gives Barinov a quick, grounded response.
-- 'Let him stay in a hotel instead.' Because Barinov should let him stay in a hotel instead, Kostya treats the matter as settled.
+- 'She is already a grown adult.' Eleonora strikes an earnest manner beside Barinov, linking "uzhe" ("already, now") directly with "vzroslyy" ("grown-up, adult"), since Russian drops "is" and "are" in the present.
+- 'She has the right to make important decisions herself.' Eleonora sets a steady mood in the conversation, combining "vprave" ("entitled, has the right") and "prinimat" ("to receive") so the key meaning lands right away.
+- 'We must not stand in her way right now.' Eleonora maintains a clear footing beside Barinov, building the phrase around "dolzhny" ("must, should") and "seychas" ("now") for a crisp, natural delivery.
+- 'Do you really think so calmly?' Barinov prompts decisively with Kostya now, combining "pravda" ("honestly") and "spokoyno" ("calmly") so the key meaning lands right away.
+- 'Maybe someone should just beat his face in?' Eleonora quizzes quietly in the scene, linking "mozhet" ("can"), "prosto" ("just"), and "litso" ("face") in one brisk exchange.
+- 'And who exactly is going to beat him?' Barinov prompts quietly as they speak, putting "budet" ("will be") alongside "bit" ("to hit, beat") in a tight, everyday turn of phrase.
+- 'Victor Petrovich, maybe we can help?' Kostya quizzes steadily during the talk, linking "mozhet" ("can"), "smozhem" ("to be able"), and "pomoch" ("to help") in one brisk exchange.
+- 'There is enough room for everyone at our place.' Eleonora maintains a resolute direction in the room, putting "doma" ("at home") alongside "mesta" ("places") in a tight, everyday turn of phrase.
+- 'I am categorically against this guest at home.' Kostya keeps a natural manner at this moment, combining "kategoricheski" ("categorically") and "gostya" ("guest, visitor") so the key meaning lands right away.
+- 'Kostya, you cannot treat your father like that!' Eleonora adopts an earnest note as they talk, weaving "nelzya" ("not allowed") together with "ottsom" ("father") just the way native speakers do.
+- 'Goodbye, leave my apartment now.' Kostya sets a frank course as the scene unfolds, pairing "svidaniya" ("meeting") with "ukhodite" ("leave, go away") to get the point across in plain spoken Russian.
+- 'Let him stay in a hotel instead.' Kostya adopts an earnest manner across the room, leaning on "luchshe" ("better") before closing the thought with "zhivyot" ("lives").

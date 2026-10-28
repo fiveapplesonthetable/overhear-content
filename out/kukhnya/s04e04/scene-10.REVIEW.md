@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So we are starving, then.' Claiming that they are starving then sounds confident, even if Elena has doubts.
-- 'I added one new ingredient to the julienne over there.' With the work and photo in play, Barinov keeps this short reply brisk and direct.
-- 'Maybe you will take a look?' Questioning whether maybe Elena will take a look is how Barinov tests Elena's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let's see it.' Since they should see it, Elena does not waste words on excuses.
-- 'If you do not want your wife to see this,' Noting that if Elena does not want Elena's wife to see this keeps Barinov's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'simply be friendly and kind to me.' With the point and photo in play, Barinov keeps this short reply brisk and direct.
-- 'Yes, Chef, you are regular godfather.' Admitting that Barinov is regular godfather shows Elena being honest for a change.
-- 'You are pulling everyone's strings.' Saying that Barinov is pulling everyone strings is how Elena sets the tone with Barinov.
-- 'What is going on? Why are we sitting around?' Here asking what going is shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Is there no work? Alright, I am coming.' Checking whether there no work cuts straight through the tension between Elena and Barinov.
-- 'I just stepped away for a minute.' With the truth and photo in play, Elena keeps this short reply brisk and direct.
-- 'Mommy chased the godfather back home.' Over the truth and the photo, Barinov answers Elena without a second thought.
+- 'So we are starving, then.' Barinov conveys a warm tack for Elena, pairing "golodayem" ("to starving") with "znachit" ("then, so") to get the point across in plain spoken Russian.
+- 'I added one new ingredient to the julienne over there.' Barinov conveys a direct approach for Elena, anchoring the Russian line on "tam" ("there") and "zhulyen" ("julienne") without extra filler.
+- 'Maybe you will take a look?' Barinov challenges naturally at this point, joining "mozhet" ("can") to "posmotrite" ("look") so every word pulls its weight.
+- 'Let's see it.' Elena shares a playful approach in the room, putting all the weight on "davayte" ("let's") so the reply lands immediately.
+- 'If you do not want your wife to see this,' Barinov conveys a steady line at this moment, weaving "khochesh" ("do you want") together with "uvidela" ("to see") just the way native speakers do.
+- 'simply be friendly and kind to me.' Barinov keeps a pointed angle at once, weaving "prosto" ("just") together with "bud" ("were he") just the way native speakers do.
+- 'Yes, Chef, you are regular godfather.' Elena strikes a grounded tack in this beat, combining "pryamo" ("right, just") and "kryostnyy" ("god") so the key meaning lands right away.
+- 'You are pulling everyone's strings.' Elena offers an honest direction in the scene, putting "nitochki" ("strings") alongside "dyorgayete" ("to strings") in a tight, everyday turn of phrase.
+- 'What is going on? Why are we sitting around?' Elena queries bluntly as they speak, putting "pochemu" ("why") alongside "sidim" ("we are sitting") in a tight, everyday turn of phrase.
+- 'Is there no work? Alright, I am coming.' Elena asks bluntly in their exchange, weaving "raboty" ("of work") together with "uzhe" ("already, now") just the way native speakers do.
+- 'I just stepped away for a minute.' Elena strikes a grounded tone straight away, linking "minutku" ("a minute"), "ukhodil" ("to leave, to go away"), and "ya" ("I") in one brisk exchange.
+- 'Mommy chased the godfather back home.' Barinov holds a lively position straight away, weaving "kryostnogo" ("god") together with "ottsa" ("father") just the way native speakers do.

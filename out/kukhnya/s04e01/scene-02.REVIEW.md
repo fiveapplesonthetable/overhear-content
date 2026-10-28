@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, my respects.' Between the restaurant and the moment, Timur gives Barinov a quick, grounded response.
-- 'What? Excuse me.' With the room and restaurant hanging in the air, Barinov puts Elena on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You need to act more natural, understand?' When Barinov asks if Elena needs to act more natural understand, Elena has to answer fast.
-- 'They will not let that on television.' Explaining that they will not let that on television lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Good morning, Viktor Petrovich.' Around the restaurant and point, Elena sets a calm, everyday tone with Barinov.
-- 'How are things with you?' By wondering how things with Barinov are, Elena presses Barinov for a straight answer.
-- 'As you can see, not bad.' Pointing out that as Elena can see not bad gives Elena a sobering reality check.
-- 'They are filming a show about me right here.' Barinov explains that they are filming a show about him right here, keeping his voice calm and direct.
-- 'Keep trying hard, Lena Pavlovna.' Admitting that Elena should keep trying hard Pavlovna shows Barinov being honest for a change.
-- 'You know, I am afraid that is not a threat for me.' Claiming that she is afraid that is not a threat sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I will not distract you.' Even though she will not distract Barinov, Elena keeps a steady face in front of Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Why is that?' Over the restaurant and the room, Elena presses Barinov for a straight answer.
+- 'Viktor Petrovich, my respects.' Timur favors a resolute approach beside Barinov, leaning on "pochteniye" ("respect") before closing the thought with "viktor" ("Viktor").
+- 'What? Excuse me.' Barinov presses directly on the spot, putting "izvinite" ("sorry, excuse me") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'You need to act more natural, understand?' Barinov asks sharply to make the point, pairing "nado" ("it is necessary") with "kak-to" ("somehow, a bit") to get the point across in plain spoken Russian.
+- 'They will not let that on television.' Timur strikes a firm posture at once, joining "kanal" ("to television") to "propustyat" ("to let through") so every word pulls its weight.
+- 'Good morning, Viktor Petrovich.' Elena picks an emphatic tempo toward Barinov, pairing "dobroye" ("good") with "utro" ("morning") to get the point across in plain spoken Russian.
+- 'How are things with you?' Elena probes sharply in front of Timur, linking "kak" ("how") directly with "dela" ("things, affairs"), since Russian drops "is" and "are" in the present.
+- 'As you can see, not bad.' Barinov sustains a sharp rhythm in the scene, linking "kak" ("how"), "vidite" ("see"), and "neplokho" ("not bad") in one brisk exchange.
+- 'They are filming a show about me right here.' Barinov sustains a natural manner straight away, anchoring the Russian line on "tut" ("here") and "peredachu" ("broadcast") without extra filler.
+- 'Keep trying hard, Lena Pavlovna.' Barinov maintains an earnest approach at once, pairing "starayetes" ("are trying") with "vy" ("you") so the "-sya" ending carries the action.
+- 'You know, I am afraid that is not a threat for me.' Elena conveys a candid style in the room, building the phrase around "znayete" ("know") and "boyus" ("am afraid") for a crisp, natural delivery.
+- 'I will not distract you.' Elena maintains a sharp posture across the room, combining "budu" ("will be") and "otvlekat" ("to distract") so the key meaning lands right away.
+- 'Why is that?' Elena tests pointedly from the start, using "pochemu" ("why") by itself, a common way spoken Russian keeps fast dialogue punchy.

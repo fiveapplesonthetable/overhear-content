@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, honestly thank you, you helped a lot.' Because the hostess helped a lot, Max treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, get settled in, and I have to run.' Explaining that Alright get settled in and she has to run lays the cards on the table for the hostess.
-- 'Hello, did you forget something?' Checking whether the hostess forgets something cuts straight through the tension between Katya and the hostess.
-- 'I wanted to pick up the warm blanket.' Claiming that she wanted to pick up the warm blanket sounds confident, even if Katya has doubts.
-- 'Where is it? I will hand it to you myself.' Here asking where it is shows Katya looking for the real truth. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'No, I will find it faster myself.' The hostess explains that she will find it faster herself, keeping her voice calm and direct.
-- 'For some reason the closet will not open at all.' Realizing that for some reason the closet will not open at all changes how Katya handles the situation. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Well I do not know, it will have to be another time.' Noting that she does not know it will have to be another time keeps the hostess's side of the story simple and clear.
-- 'Just call ahead of time, and I will get it out for you.' Even though just call ahead of time and she will get it out for the hostess, Katya keeps a steady face in front of the hostess.
-- 'And how will you get it out yourself? Well, thank you.' By asking how Katya gets it out themselves will, the hostess presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Goodbye, have a nice day!' Because goodbye have a nice day, Katya does not bother softening the blow for the hostess. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Max, come out quickly, she left.' By telling the hostess to come out quickly she left, Katya keeps her side of the story grounded.
+- 'Katya, honestly thank you, you helped a lot.' Max presents a frank position in front of the hostess, putting "samom" ("very") alongside "dele" ("case") in a tight, everyday turn of phrase.
+- 'Alright, get settled in, and I have to run.' Katya takes a thoughtful style right away, combining "obustraivaysya" ("get settled in") and "pobezhala" ("ran") so the key meaning lands right away.
+- 'Hello, did you forget something?' Katya quizzes steadily without hesitation, weaving "zdravstvuyte" ("hello") together with "zabyli" ("have you forgotten") just the way native speakers do.
+- 'I wanted to pick up the warm blanket.' The hostess presents a natural tack straight away, combining "tyoploye" ("warm") and "odeyalo" ("blanket") so the key meaning lands right away.
+- 'Where is it? I will hand it to you myself.' Katya checks steadily without holding back, joining "gde" ("where") to "podam" ("will file") so every word pulls its weight.
+- 'No, I will find it faster myself.' The hostess keeps a serious angle beside Max, using "bystreye" (from "bystro", "faster") alongside "naydu" ("find") to shape the meaning.
+- 'For some reason the closet will not open at all.' Katya presents a natural tone during the exchange, joining "shkaf" ("wardrobe") to "nikak" ("in no way") so every word pulls its weight.
+- 'Well I do not know, it will have to be another time.' The hostess shares an earnest position as they talk, using "znayu" (from "znat", "know") alongside "pridyotsya" ("you'll have to") to shape the meaning.
+- 'Just call ahead of time, and I will get it out for you.' Katya sets a sharp note without hesitation, putting "pozvonite" ("will call") alongside "zaraneye" ("in advance") in a tight, everyday turn of phrase.
+- 'And how will you get it out yourself? Well, thank you.' The hostess checks steadily from the start, weaving "kak" ("how") together with "dostanesh" ("you will get") just the way native speakers do.
+- 'Goodbye, have a nice day!' Katya maintains a steady posture as they talk, leaning on "svidaniya" ("meeting") before closing the thought with "khoroshego" ("good, the best").
+- 'Max, come out quickly, she left.' Katya sustains a sharp mood right away, using "vykhodi" (from "vykhodit", "go out, marry") alongside "skoreye" ("quickly, right away") to shape the meaning.

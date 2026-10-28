@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Lyova, are you home alone right now?' Checking whether Barinov home alone right now is how Gulya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, my mom has already left for the dacha.' Barinov mentions that his has already left for the dacha so Elena sees what is at stake.
-- 'Please do not say anything more to me right now.' Claiming that do not say anything more to her right now sounds confident, even if Barinov has doubts.
-- 'Vitya, open this door for me, please!' Telling Barinov to open this door for her please is Elena's blunt reaction in front of Barinov. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Lena, wait one minute, I am busy right now.' Barinov explains that someone wait one minute he is busy right now, keeping his voice calm and direct.
-- 'Tell me honestly, are you alone in the office?' Questioning whether tell her honestly are Barinov alone in the office is how Elena tests Barinov's story.
-- 'Then open this door for me immediately, Vitya!' Insisting that Barinov should open this door for her immediately shows Elena is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I do not understand, what kind of madness is going on?' With the doctor and moment hanging in the air, Elena puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'After all, Anya saw you without a mustache today!' Insisting that after all Anya saw Barinov without a mustache today shows Elena is not backing down.
-- 'Lena, I swear to you, that was not me!' Once someone he swears to Elena that was not him, Barinov makes sure Elena hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Then who was kissing a female employee near the elevator?' By asking who kissing a female employee near the elevator was, Elena presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Please calm down, I will explain everything right now.' Claiming that Elena should calm down he will explain everything right now sounds confident, even if Elena has doubts.
+- 'Hi, Lyova, are you home alone right now?' Gulya challenges honestly beside Barinov, placing "seychas" ("now") straight beside "doma" ("at home") with no word for "to be" needed.
+- 'Yes, my mom has already left for the dacha.' Barinov shares a candid footing at once, building the phrase around "mama" ("mum, mother") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'Please do not say anything more to me right now.' Gulya maintains a thoughtful view at once, pairing "seychas" ("now") with "bolshe" ("more") so the "-sya" ending carries the action.
+- 'Vitya, open this door for me, please!' Elena offers a thoughtful line as they talk, weaving "otkroy" ("to open") together with "dver" ("door") just the way native speakers do.
+- 'Lena, wait one minute, I am busy right now.' Barinov displays a thoughtful view in the scene, weaving "podozhdi" ("wait") together with "minutku" ("a minute") just the way native speakers do.
+- 'Tell me honestly, are you alone in the office?' Elena checks evenly in their exchange, anchoring the Russian line on "skazhi" ("say") and "chestno" ("honestly") without extra filler.
+- 'Then open this door for me immediately, Vitya!' Elena maintains a grounded tempo across the room, weaving "togda" ("back then") together with "nemedlenno" ("immediately") just the way native speakers do.
+- 'I do not understand, what kind of madness is going on?' Elena wonders candidly during the talk, leaning on "ponimayu" ("understand") before closing the thought with "chertovshchina" ("devilry").
+- 'After all, Anya saw you without a mustache today!' Elena sustains a frank bearing in this beat, weaving "segodnya" ("today") together with "videla" ("saw") just the way native speakers do.
+- 'Lena, I swear to you, that was not me!' Barinov offers a steady attitude toward Gulya, using "klyanus" (from "klyastsya", "I swear") alongside "byl" ("was") to shape the meaning.
+- 'Then who was kissing a female employee near the elevator?' Elena quizzes naturally with Barinov now, pairing "tselovalsya" ("kissed") with "togda" ("back then") so the "-sya" ending carries the action.
+- 'Please calm down, I will explain everything right now.' Barinov presents a steady footing on the spot, anchoring the Russian line on "uspokoysya" ("calm down") and "seychas" ("now") without extra filler.

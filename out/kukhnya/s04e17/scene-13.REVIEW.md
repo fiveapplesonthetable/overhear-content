@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, I am ready already, let's go!' Because he is ready already let them go, Denis does not bother softening the blow for German.
-- 'Where are you headed, to the circus?' Wondering where Denis headed to the circus is cuts straight through the tension between Katya and Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Because you are dressed like a clown.' Pointing out that because Denis is dressed like a clown gives Denis a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'This is my best suit from Voronezh.' Denis mentions that this is his best suit from Voronezh so German sees what is at stake.
-- 'Ekaterina, it is good that you are still here.' Realizing that someone it is good that Denis is still here changes how German handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I need to leave urgently right now.' Because he needs to leave urgently right now, German treats the matter as settled. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Please look after the kitchen today.' Around the work and friend, German sets a calm, everyday tone with Denis.
-- 'But I cannot tonight.' Admitting that she cannot tonight shows Katya being honest for a change.
-- 'Then I will relieve you of the position.' Saying that he will relieve Denis of the position is how German sets the tone with Denis. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Lilya, I cannot leave work.' Once Lilya she cannot leave work, Katya can finally tell Denis what she means.
-- 'Come to our restaurant tonight instead.' Telling Denis to come to their restaurant tonight instead is how Katya lays out the situation for Denis.
-- 'So you do need me after all?' Asking whether German does need him after all puts German right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are needed, but your suit is not.' Since Denis is needed but Denis's suit is not, Katya does not waste words on excuses.
+- 'Katya, I am ready already, let's go!' Denis shares an earnest view on the spot, anchoring the Russian line on "uzhe" ("already, now") and "gotov" ("ready") without extra filler.
+- 'Where are you headed, to the circus?' Katya wonders evenly without holding back, linking "kuda" ("where to"), "sobralsya" ("got ready, planned"), and "tsirk" ("circus") in one brisk exchange.
+- 'Because you are dressed like a clown.' Katya holds a candid line in the room, placing "potomu" ("because") straight beside "odet" ("clown") with no word for "to be" needed.
+- 'This is my best suit from Voronezh.' Denis shares an earnest course in their talk, putting "luchshiy" ("best") alongside "kostyum" ("suit") in a tight, everyday turn of phrase.
+- 'Ekaterina, it is good that you are still here.' German holds an honest style beside Denis, building the phrase around "khorosho" ("good, fine") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'I need to leave urgently right now.' German chooses a playful attitude in their talk, combining "nuzhno" ("necessary") and "seychas" ("now") so the key meaning lands right away.
+- 'Please look after the kitchen today.' German keeps a calm rhythm on the spot, linking "prismotrite" ("to look"), "segodnya" ("today"), and "kukhney" ("kitchen") in one brisk exchange.
+- 'But I cannot tonight.' Katya brings a serious attitude straight away, linking "segodnya" ("today"), "vecherom" ("in the evening"), and "mogu" ("can") in one brisk exchange.
+- 'Then I will relieve you of the position.' German sets a playful tack beside Denis, combining "togda" ("back then") and "osvobozhu" ("position") so the key meaning lands right away.
+- 'Lilya, I cannot leave work.' Katya maintains a playful attitude without hesitation, weaving "lilya" ("lilya") together with "mogu" ("can") just the way native speakers do.
+- 'Come to our restaurant tonight instead.' Katya takes a natural rhythm beside Denis, joining "priyezzhayte" ("to come, to arrive") to "luchshe" ("better") so every word pulls its weight.
+- 'So you do need me after all?' Denis wonders warmly as they speak, anchoring the Russian line on "znachit" ("then, so") and "nuzhen" ("is needed") without extra filler.
+- 'You are needed, but your suit is not.' Katya takes a steady stance for Denis, building the phrase around "nuzhen" ("is needed") and "kostyum" ("suit") for a crisp, natural delivery.

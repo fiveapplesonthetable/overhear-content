@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Да пишешь сам. | Write it yourself. | #244: Да пишешь сам | verbatim |
-| 2 | Федя | Федя, я тебе все долги вернул? | Fedya, have I paid back all my debts to you? | #246: Федя, я тебе все долги вернул | verbatim |
+| 2 | Шеф | Федя, я тебе все долги вернул? | Fedya, have I paid back all my debts to you? | #246: Федя, я тебе все долги вернул | verbatim |
 | 3 | Шеф | Ну и пошел вон с моей кухни. | Then get the hell out of my kitchen. | #247: Ну и пошел вон с моей кухни | verbatim |
 | 4 | Федя | Собери апельсины и сразу уволен. | Pick up the oranges and you are fired immediately. | #248: собери апельсины и сразу уволен | verbatim |
 | 5 | Шеф | Да и еще. | Oh, and one more thing. | #249: Да и еще | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Write it yourself.' Pointing out that Fedya should write it themselves gives Fedya a sobering reality check.
-- 'Fedya, have I paid back all my debts to you?' Here checking whether he paid back all his debts to Barinov shows Fedya looking for the real truth.
-- 'Then get the hell out of my kitchen.' Here telling Fedya to get the hell out of his kitchen sets up the next turn in their exchange.
-- 'Pick up the oranges and you are fired immediately.' Since Barinov should pick up the oranges and Barinov is fired immediately, Fedya does not waste words on excuses.
-- 'Oh, and one more thing.' With the situation and room in play, Barinov keeps this short reply brisk and direct.
-- 'Everyone else whom I have not yet told that they are fired.' Adding that everyone else whom he has not yet told that they are fired fills in the missing piece for Barinov.
-- 'And what are we supposed to do now?' By wondering what they supposed to do now are, Barinov presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Calm down, all of you.' Mentioning that Barinov should calm down all of Barinov moves the talk in a new direction.
-- 'In two hours it will wear off.' Mentioning that in two hours it will wear off moves the talk in a new direction.
-- 'He will not remember a thing.' Saying that he will not remember a thing is how Fedya sets the tone with Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What are you hiding behind your back?' By asking what Fedya hiding behind Fedya's back is, Barinov presses Fedya for a straight answer.
-- 'The Chef has had enough already.' Explaining that the Chef has had enough already lays the cards on the table for Barinov.
-- 'You talked me into it, I will drink it myself.' Barinov mentions that Fedya talked him into it he will drink it himself so Fedya sees what is at stake.
+- 'Write it yourself.' Barinov shares a direct footing at once, pairing "pishesh" ("are writing") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'Fedya, have I paid back all my debts to you?' Barinov checks earnestly in front of Fedya, weaving "dolgi" ("debt, duty") together with "vernul" ("give back") just the way native speakers do.
+- 'Then get the hell out of my kitchen.' Barinov keeps a lively view in the conversation, using "poshel" (from "poyti", "go, off you go") alongside "kukhni" ("kitchen") to shape the meaning.
+- 'Pick up the oranges and you are fired immediately.' Fedya brings a resolute tack at once, leaning on "soberi" ("to collect") before closing the thought with "apelsiny" ("oranges").
+- 'Oh, and one more thing.' Barinov keeps a thoughtful tempo in the room, leaning on "yeshche" ("still") before closing the thought with "da" ("yes").
+- 'Everyone else whom I have not yet told that they are fired.' Fedya takes a playful bearing at once, weaving "skazal" ("said") together with "uvoleny" ("to fire") just the way native speakers do.
+- 'And what are we supposed to do now?' Barinov asks wryly to make the point, anchoring the Russian line on "teper" ("now") and "delat" ("do") without extra filler.
+- 'Calm down, all of you.' Fedya presents a firm rhythm without hesitation, joining "uspokoytes" ("calm down") to "da" ("yes") so every word pulls its weight.
+- 'In two hours it will wear off.' Barinov adopts a natural course right away, pairing "chasa" ("hours") with "otpustit" ("to let go, to release") to get the point across in plain spoken Russian.
+- 'He will not remember a thing.' Fedya shows a frank bearing as the scene unfolds, pairing "voobshche" ("at all") with "vspomnit" ("will remember") to get the point across in plain spoken Russian.
+- 'What are you hiding behind your back?' Barinov queries boldly right away, leaning on "tam" ("there") before closing the thought with "pryachesh" ("hide").
+- 'The Chef has had enough already.' Fedya offers a warm angle without hesitation, weaving "shefu" ("chef") together with "khvatit" ("enough") just the way native speakers do.
+- 'You talked me into it, I will drink it myself.' Barinov sustains a serious approach during the exchange, weaving "ugovorili" ("persuade") together with "ya" ("I") just the way native speakers do.

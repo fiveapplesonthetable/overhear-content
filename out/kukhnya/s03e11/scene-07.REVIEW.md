@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So there was nothing between the two of you?' Wondering if there was nothing between the two of Max shows Barinov caught off guard.
-- 'Then how does she know about the scar?' Wondering how she know about the scar cuts straight through the tension between Barinov and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What scar are you talking about?' When Max asks if what scar are Barinov talking, Barinov has to answer fast. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'She just saw it by accident!' Max declares that she just saw it by accident as the tension in the room peaks.
-- 'I hope you know what to do.' Admitting that he hopes Max knows what to do shows Barinov being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'The child will not grow up without a father.' Admitting that the child will not grow up without a father shows Barinov being honest for a change.
-- 'Enough arguing, you had better get ready for a wedding!' Once enough arguing Max had better get ready for a wedding, Barinov makes sure Max hears every word.
-- 'I sat down on the old sofa today.' Once he sat down on the old sofa today, Nagiyev can finally tell Barinov what he means.
-- 'Can you imagine how uncomfortable it is for our guests to sit?' By asking whether Barinov imagines how uncomfortable it is for their guests to sit, Nagiyev presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I will quickly call a good repairman right now.' Saying that he will quickly call a good repairman right now is how Max sets the tone with Barinov.
-- 'No need for a repairman, we need to change the furniture.' Explaining that Barinov should need for a repairman they need to change the furniture lays the cards on the table for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'It is time to remove all the old things from here.' Mentioning that it is time to remove all the old things from here moves the talk in a new direction. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Well how much longer can we put up with this?' When Nagiyev asks if how much longer can they put up with this, Barinov has to answer fast.
+- 'So there was nothing between the two of you?' Barinov checks directly during the talk, leaning on "znachit" ("then, so") before closing the thought with "bylo" ("was").
+- 'Then how does she know about the scar?' Barinov quizzes calmly in this moment, linking "togda" ("back then"), "otkuda" ("where from"), and "znayet" ("knows") in one brisk exchange.
+- 'What scar are you talking about?' Max checks earnestly in the scene, joining "yeshchyo" ("more, still") to "shram" ("scar") so every word pulls its weight.
+- 'She just saw it by accident!' Max keeps a serious manner at once, building the phrase around "sluchayno" ("by any chance") and "videla" ("saw") for a crisp, natural delivery.
+- 'I hope you know what to do.' Barinov picks a direct angle toward Max, leaning on "nadeyus" ("hope so") before closing the thought with "znayesh" ("know").
+- 'The child will not grow up without a father.' Barinov shares a frank angle at this moment, joining "rebyonok" ("a child") to "ottsa" ("father") so every word pulls its weight.
+- 'Enough arguing, you had better get ready for a wedding!' Barinov establishes a playful style with Max, pairing "khvatit" ("enough") with "sporit" ("to argue") to get the point across in plain spoken Russian.
+- 'I sat down on the old sofa today.' Nagiyev keeps an earnest angle at this moment, linking "sel" ("to sit down"), "segodnya" ("today"), and "staryy" ("old") in one brisk exchange.
+- 'Can you imagine how uncomfortable it is for our guests to sit?' Nagiyev questions candidly right away, anchoring the Russian line on "predstavlyayesh" ("can you imagine") and "kak" ("how") without extra filler.
+- 'I will quickly call a good repairman right now.' Max holds a pointed stance straight away, joining "seychas" ("now") to "bystro" ("quickly") so every word pulls its weight.
+- 'No need for a repairman, we need to change the furniture.' Nagiyev sustains a frank approach as the scene unfolds, weaving "nado" ("it is necessary") together with "mastera" ("technician") just the way native speakers do.
+- 'It is time to remove all the old things from here.' Nagiyev establishes a resolute line toward Max, pairing "pora" ("it's time") with "ubrat" ("to remove, to cut out") to get the point across in plain spoken Russian.
+- 'Well how much longer can we put up with this?' Nagiyev tests quietly in front of Barinov, leaning on "skolko" ("how much, so much") before closing the thought with "yeshchyo" ("more, still").

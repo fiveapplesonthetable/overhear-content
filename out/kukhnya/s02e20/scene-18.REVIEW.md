@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Baby, did you miss me?' Questioning whether baby did Max misses is how Nastya tests Max's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And they even brought out the foie gras.' Mentioning that they even brought out the foie gras moves the talk in a new direction.
-- 'Why on earth did we order so much food, huh?' Asking whether why on earth did they order so much food huh puts Max right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Look, nobody has room for anything anymore.' Because nobody has room for anything anymore, Max treats the matter as settled. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And I have a special surprise for everyone.' Having a special surprise for everyone is how Nastya lays out the situation for Max.
-- 'A team of true professionals wants to congratulate our newlyweds.' Max mentions that a team of true professionals wants to congratulate their newlyweds so Nastya sees what is at stake.
-- 'The staff of the Claude Monet restaurant.' Between the point and the gift, Nastya gives Max a quick, grounded response.
-- 'I am happy, conquered by the power.' Admitting that he is happy conquered by the power shows Max being honest for a change.
-- 'Of those cornflower-blue eyes.' With the surprise and table in play, Nastya keeps this short reply brisk and direct.
-- 'I want to tell you.' Realizing that he wants to tell Nastya changes how Max handles the situation.
-- 'That this song.' Over the surprise and the table, Nastya answers Max without a second thought.
-- 'Is for her.' Between the surprise and the table, Max gives Nastya a quick, grounded response.
-- 'You asked for it.' Admitting that Max asked for it shows Nastya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Baby, did you miss me?' Nastya presses calmly as they speak, putting "malysh" ("kid, little one") alongside "skuchal" ("to miss, yearn for") in a tight, everyday turn of phrase.
+- 'And they even brought out the foie gras.' Max chooses a resolute view straight away, putting "yeshche" ("still") alongside "fuagra" ("foie gras") in a tight, everyday turn of phrase.
+- 'Why on earth did we order so much food, huh?' Nastya quizzes pointedly to make the point, joining "zachem" ("what for") to "stolko" ("so many") so every word pulls its weight.
+- 'Look, nobody has room for anything anymore.' Max presents a firm stance in the room, pairing "smotri" ("look") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
+- 'And I have a special surprise for everyone.' Nastya presents a grounded tack straight away, using the everyday "u menya" ("by me") alongside "syurpriz" ("surprise") to show what belongs to the speaker.
+- 'A team of true professionals wants to congratulate our newlyweds.' Max establishes an emphatic attitude for Nastya, building the phrase around "pozdravit" ("to congratulate") and "molodykh" ("young") for a crisp, natural delivery.
+- 'The staff of the Claude Monet restaurant.' Nastya presents an easygoing style in the conversation, anchoring the Russian line on "kollektiv" ("staff, collective") and "restorana" ("restaurant") without extra filler.
+- 'I am happy, conquered by the power.' Max maintains a calm tone with Nastya, putting "schastliv" ("happy, lucky") alongside "pokoryonnyy" ("conquered, charmed") in a tight, everyday turn of phrase.
+- 'Of those cornflower-blue eyes.' Nastya strikes a measured approach in the room, leaning on "glaz" ("of eyes") before closing the thought with "sinikh" ("blue, dark blue").
+- 'I want to tell you.' Max takes an earnest course right away, leaning on "khochu" ("want") before closing the thought with "ya" ("I").
+- 'That this song.' Nastya shares a clear stance for Max, weaving "pesnya" ("song") together with "chto" ("what") just the way native speakers do.
+- 'Is for her.' Max establishes a resolute mood at once, using "yeyo" ("her") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'You asked for it.' Nastya brings a brisk view in the room, using "sprosila" (from "sprosit", "asked") alongside "ty" ("you") to shape the meaning.

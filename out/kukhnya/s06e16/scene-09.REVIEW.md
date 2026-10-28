@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have a slight problem with my stomach.' Having a slight problem with his stomach is how Kostya lays out the situation for the guest. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Can you stand behind the bar for a little while?' Asking whether the guest stands behind the bar for a little is how Kostya puts the guest on the spot.
-- 'No problem, Kostya, I will help you.' Explaining that problem Kostya he will help the guest lays the cards on the table for the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Are you not worried about the show?' By checking whether the guest not worried about the show, Louis presses the guest for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'No, I am not participating in it tomorrow.' Being not participating in it tomorrow is how the guest lays out the situation for Kostya.
-- 'Tomorrow I finally have a free day off!' Once tomorrow he finally have a free day off, the guest makes sure Kostya hears every word. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Let us drink this champagne to you, Polina!' Proposing that they drink this champagne to the guest Polina is Louis's blunt reaction in front of the guest. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I did not know a girl could be so beautiful.' Realizing that he did not know a girl could be so beautiful changes how Louis handles the situation.
-- 'Thank you very much, you really helped me out.' Noting that very much the guest really helped him out keeps Kostya's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Kostya, I am taking cold champagne right now.' Because he is taking cold champagne right now, Louis treats the matter as settled.
-- 'I am going to a room with a beautiful girl!' Louis insists that he is going to a room with a beautiful girl, leaving the guest no room to argue.
-- 'How much I love my wife!' Insisting that how much he loves his wife shows Kostya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I have a slight problem with my stomach.' Kostya keeps a thoughtful style across the room, using "nebolshiye" (from "nebolshoy", "small, modest") alongside "problemy" ("problems") to shape the meaning.
+- 'Can you stand behind the bar for a little while?' Kostya inquires openly to keep things clear, anchoring the Russian line on "mozhesh" ("can") and "postoyat" ("wait") without extra filler.
+- 'No problem, Kostya, I will help you.' Louis favors a brisk note on the spot, linking "problem" ("problems"), "pomogu" ("I'll help"), and "net" ("no") in one brisk exchange.
+- 'Are you not worried about the show?' Louis probes briskly to Kostya here, pairing "perezhivayete" ("are worrying") with "pokaz" ("show, fashion show") to get the point across in plain spoken Russian.
+- 'No, I am not participating in it tomorrow.' The guest shows a grounded attitude as they talk, putting "zavtra" ("tomorrow") alongside "uchastvuyu" ("am taking part") in a tight, everyday turn of phrase.
+- 'Tomorrow I finally have a free day off!' The guest begins dryly with Louis now, using the everyday "u menya" ("by me") alongside "zavtra" ("tomorrow") to show what belongs to the speaker.
+- 'Let us drink this champagne to you, Polina!' Louis sets a playful course toward the guest, pairing "vypyem" ("will drink") with "shampanskoye" ("champagne") to get the point across in plain spoken Russian.
+- 'I did not know a girl could be so beautiful.' Louis maintains a candid line at once, anchoring the Russian line on "znal" ("knew") and "devushka" ("girlfriend") without extra filler.
+- 'Thank you very much, you really helped me out.' Kostya keeps a frank mood during the exchange, linking "bolshoye" ("big, very much"), "spasibo" ("thank you"), and "realno" ("really possible") in one brisk exchange.
+- 'Kostya, I am taking cold champagne right now.' Louis presents an earnest stance for Kostya, putting "seychas" ("now") alongside "beru" ("to take") in a tight, everyday turn of phrase.
+- 'I am going to a room with a beautiful girl!' Louis establishes an earnest mood in their talk, putting "idu" ("going, running") alongside "nomer" ("number") in a tight, everyday turn of phrase.
+- 'How much I love my wife!' Kostya projects a resolute mood on the spot, linking "kak" ("how"), "lyublyu" ("love"), and "zhenu" ("wife") in one brisk exchange.

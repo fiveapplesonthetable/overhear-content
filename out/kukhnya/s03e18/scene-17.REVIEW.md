@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Apparently, I made a big mistake today after all.' Saying that apparently she made a big mistake today after all is how Vika sets the tone with Max.
-- 'I should not have come back here at all.' Once she should not have come back here at all, Vika can finally tell Max what she means. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'What do you mean should not have? Of course you should have!' Asking what Vika means should not have cuts straight through the tension between Max and Vika.
-- 'Everything here has stayed just the way it was.' Vika tells Max that everything here has stayed just the way it was without dressing it up.
-- 'Nobody in this restaurant has changed at all.' Since nobody in this restaurant has changed at all, Vika does not waste words on excuses. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Why nobody? I, for example, have changed.' When Max asks if he for example have changed, Vika has to answer fast.
-- 'During this time I gained two kilograms.' Over the conversation and the smile, Max answers Vika without a second thought. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'So you will not be left without a job?' Asking whether Max will not be left without a job puts Max right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course I will not, I have already learned everything.' Explaining that he will not he has already learned everything lays the cards on the table for Vika.
-- 'The main thing is that you smile and are happy.' Max reminds Vika that the main thing is that Vika smiles and are happy before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So smile right now, Viktoriya Sergeyevna!' Insisting that Vika should smile right now Viktoriya Sergeyevna shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well now, do you still remember my name?' Checking whether Max still remember her name is how Vika puts Max on the spot.
-- 'You mean Masha? Sorry, Marina, I mean Elvira!' Asking whether Vika means Masha puts Vika right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Apparently, I made a big mistake today after all.' Vika strikes a warm course in their talk, linking "vidimo" ("apparently"), "silno" ("strongly, much"), and "segodnya" ("today") in one brisk exchange.
+- 'I should not have come back here at all.' Vika offers an easygoing bearing across the room, combining the conversational booster "voobshche" ("in general, overall") with "nado" ("it is necessary") to give the line its natural spoken rhythm.
+- 'What do you mean should not have? Of course you should have!' Max tests calmly toward Vika here, putting "kak" ("how") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'Everything here has stayed just the way it was.' Vika favors a direct approach at this moment, weaving "zdes" ("here") together with "kak" ("how") just the way native speakers do.
+- 'Nobody in this restaurant has changed at all.' Vika adopts a natural angle as the scene unfolds, pairing "restorane" ("restaurant") with "voobshche" ("at all") to get the point across in plain spoken Russian.
+- 'Why nobody? I, for example, have changed.' Max checks calmly in their exchange, putting "pochemu" ("why") alongside "naprimer" ("for example") in a tight, everyday turn of phrase.
+- 'During this time I gained two kilograms.' Max establishes a clear position in the conversation, building the phrase around "vremya" ("time") and "kilogramma" ("kilograms") for a crisp, natural delivery.
+- 'So you will not be left without a job?' Vika presses frankly as the talk turns, putting "yest" ("there is") alongside "raboty" ("of work") in a tight, everyday turn of phrase.
+- 'Of course I will not, I have already learned everything.' Max sustains a clear course in the conversation, weaving "konechno" ("of course") together with "ostanus" ("stay") just the way native speakers do.
+- 'The main thing is that you smile and are happy.' Max takes an unhurried view during the exchange, pairing "glavnoye" ("important") with "ulybalas" ("smiled") to get the point across in plain spoken Russian.
+- 'So smile right now, Viktoriya Sergeyevna!' Max holds a warm tack beside Vika, combining "ulybnites" ("smile") and "pryamo" ("right, just") so the key meaning lands right away.
+- 'Well now, do you still remember my name?' Vika tests boldly in front of Max, putting "nado" ("it is necessary") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'You mean Masha? Sorry, Marina, I mean Elvira!' Max wonders directly right away, anchoring the Russian line on "smysle" ("sense") and "izvini" ("sorry, excuse me") without extra filler.

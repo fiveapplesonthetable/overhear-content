@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I wanted to talk with you.' Mentioning that he wanted to talk with Vika moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have no time, I need to leave urgently.' Having no time she needs to leave urgently moves the conversation forward without extra drama. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I just wanted to say that yesterday it seemed to me...' Because he just wanted to say that yesterday it seemed to him, Max treats the matter as settled.
-- 'That things between you and me are good again, or did it just seem that way to me?' Max asks whether that things between Vika and him are good again or did it just seem that way to him, refusing to let the point slide. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I don't know.' Vika reminds Max that she does not know before the moment passes.
-- 'And what will happen next?' Here asking what happen next will shows Max looking for the real truth.
-- 'I need to think.' Since she needs to think, Vika does not waste words on excuses. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Let me come over, we will talk about everything.' Adding that Vika should let him come over they will talk about everything fills in the missing piece for Vika. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Where are you heading in the middle of the workday?' Wondering where Vika heading in the middle of the workday is is how Max puts Vika on the spot.
-- 'None of your business. Curious? To my lover.' Over the work and the date, Vika presses Max for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Ah, got it all, no question.' Even though got it all no question, Max keeps a steady face in front of Vika.
-- 'See how the guy sang here? Everything from scratch.' Questioning whether see how the guy sang here is how Max tests Vika's story.
+- 'Vika, I wanted to talk with you.' Max favors a measured footing in this beat, using "khotel" (from "khotet", "wanted") alongside "pogovorit" ("to talk") to shape the meaning.
+- 'I have no time, I need to leave urgently.' Vika presents an easygoing bearing in the conversation, weaving "nekogda" ("there's no time") together with "nado" ("it is necessary") just the way native speakers do.
+- 'I just wanted to say that yesterday it seemed to me...' Max maintains a grounded bearing at once, anchoring the Russian line on "prosto" ("just") and "khotel" ("wanted") without extra filler.
+- 'That things between you and me are good again, or did it just seem that way to me?' Max probes calmly to Vika here, anchoring the Russian line on "snova" ("again") and "khorosho" ("good, fine") without extra filler.
+- 'I don't know.' Vika projects a grounded tack as they talk, joining "znayu" ("know") to "ne" ("not") so every word pulls its weight.
+- 'And what will happen next?' Max quizzes naturally to Vika here, anchoring the Russian line on "budet" ("will be") and "dalshe" ("next, go on") without extra filler.
+- 'I need to think.' Vika presents a brisk angle straight away, building the phrase around "nado" ("it is necessary") and "podumat" ("to think") for a crisp, natural delivery.
+- 'Let me come over, we will talk about everything.' Max maintains an earnest direction at once, using "davay" (from "davat", "let's") alongside "priyedu" ("will come, visit") to shape the meaning.
+- 'Where are you heading in the middle of the workday?' Max presses evenly to Vika here, joining "kuda" ("where to") to "sobralas" ("to get ready") so every word pulls its weight.
+- 'None of your business. Curious? To my lover.' Vika presses frankly to keep things clear, leaning on "delo" ("matter") before closing the thought with "interesno" ("interesting").
+- 'Ah, got it all, no question.' Max sets a candid approach right away, combining "ponyal" ("understood") and "vopros" ("question, matter") so the key meaning lands right away.
+- 'See how the guy sang here? Everything from scratch.' Max probes quietly in the room, leaning on "vidish" ("see") before closing the thought with "kak" ("how").

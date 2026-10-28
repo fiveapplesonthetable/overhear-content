@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, well how did your reconciliation dinner go?' Asking how Louis's reconciliation dinner go cuts straight through the tension between Max and Louis.
-- 'Nowhere, my wife got a bad toothache in the evening.' Senya tells Louis that nowhere his wife got a bad toothache in the evening without dressing it up.
-- 'She ate nothing at all during the whole evening.' Since she ate nothing at all during the whole evening, Senya does not waste words on excuses. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Folks, I wanted to ask you to cover for me.' Mentioning that folks he wanted to ask Max to cover for him moves the talk in a new direction.
-- 'My close friend is passing through Moscow today.' Louis reminds Max that his close friend is passing through Moscow today before the moment passes.
-- 'Louis, spare us the details, we are busy right now.' Because spare them the details they are busy right now, Senya treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Look for a replacement among the free cooks.' Explaining that for a replacement among the free cooks lays the cards on the table for Louis.
-- 'Denis, please do not worry about my work.' Saying that do not worry about his work is how Louis sets the tone with Max.
-- 'Tonight German will not be in the kitchen.' Claiming that tonight German will not be in the kitchen sounds confident, even if Max has doubts.
-- 'And all my desserts are already completely ready.' Pointing out that all his desserts are already completely ready gives Max a sobering reality check.
-- 'They are sitting neatly in my big refrigerator.' Louis explains that they are sitting neatly in his big refrigerator, keeping his voice calm and direct.
-- 'I labeled everything, you just need to hand them out!' Over the work and the dessert, Louis lets his real feelings show. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'Senya, well how did your reconciliation dinner go?' Max presses naturally toward Louis here, building the phrase around "kak" ("how") and "proshyol" ("passed") for a crisp, natural delivery.
+- 'Nowhere, my wife got a bad toothache in the evening.' Senya keeps a serious line in the room, joining "nikak" ("in no way") to "zheny" ("wife") so every word pulls its weight.
+- 'She ate nothing at all during the whole evening.' Senya keeps an emphatic angle in the conversation, putting "vecher" ("evening") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
+- 'Folks, I wanted to ask you to cover for me.' Louis projects a natural view toward Senya, using "druzya" (from "drug", "friends") alongside "khotel" ("wanted") to shape the meaning.
+- 'My close friend is passing through Moscow today.' Louis chooses a clear approach at once, pairing "segodnya" ("today") with "proyezdom" ("through") to get the point across in plain spoken Russian.
+- 'Louis, spare us the details, we are busy right now.' Senya favors a resolute footing as the scene unfolds, combining the everyday invitation "davay" ("come on, let us") with "podrobnostey" ("detail") to give the line its natural spoken rhythm.
+- 'Look for a replacement among the free cooks.' Senya displays a lively style during the exchange, combining "ishchi" ("look for") and "zamenu" ("substitute") so the key meaning lands right away.
+- 'Denis, please do not worry about my work.' Louis shows a firm approach in the scene, linking "perezhivay" ("worry"), "rabotu" ("job"), and "denis" ("Denis") in one brisk exchange.
+- 'Tonight German will not be in the kitchen.' Louis adopts a clear course for Max, pairing "segodnya" ("today") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
+- 'And all my desserts are already completely ready.' Louis brings a measured course during the exchange, weaving "deserty" ("desserts") together with "uzhe" ("already, now") just the way native speakers do.
+- 'They are sitting neatly in my big refrigerator.' Louis conveys a warm manner with Max, leaning on "akkuratno" ("carefully, gently") before closing the thought with "stoyat" ("cost").
+- 'I labeled everything, you just need to hand them out!' Louis conveys a steady angle at once, linking "podpisal" ("signed"), "nuzhno" ("necessary"), and "prosto" ("just") in one brisk exchange.

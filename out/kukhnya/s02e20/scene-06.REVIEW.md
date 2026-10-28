@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who do not value it very much.' Since who do not value it very much, Barinov does not waste words on excuses.
-- 'That is why I do not want to leave this place.' Mentioning that that is why she does not want to leave this place moves the talk in a new direction.
-- 'That was a fine speech.' Barinov reminds Vika that that was a fine speech before the moment passes.
-- 'Write it down for me later.' Claiming that Barinov should write it down for her later sounds confident, even if Barinov has doubts.
-- 'Viktoriya, where on earth have you been wandering, huh?' Questioning whether Viktoriya where on earth have Vika been wandering huh is how Barinov tests Vika's story.
-- 'And what about yourself?' With the truth and moment hanging in the air, Vika puts Barinov on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Saying she was not offended.' Claiming that saying she was not offended sounds confident, even if Vika has doubts.
-- 'Yet she hangs up on me for the second time.' Pointing out that yet she hangs up on her for the second time gives Barinov a sobering reality check.
-- 'That my future groom could not make it here today.' Barinov explains that that his future groom could not make it here today, keeping his voice calm and direct.
-- 'That is quite alright.' Realizing that that is quite alright changes how Vika handles the situation.
-- 'An envelope. Oh.' Over the work and the wedding, Barinov answers Vika without a second thought.
-- 'Right this way, please. Hello.' Around the work and wedding, Vika sets a calm, everyday tone with Barinov.
-- 'Why are you wandering around out there?' By asking why Vika wandering around out there is, Barinov presses Vika for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Who do not value it very much.' Barinov sustains a wry view without hesitation, combining "ochen" ("very much") and "dorogi" ("roads") so the key meaning lands right away.
+- 'That is why I do not want to leave this place.' Vika establishes an easygoing line without hesitation, building the phrase around "poetomu" ("that's why") and "khochu" ("want") for a crisp, natural delivery.
+- 'That was a fine speech.' Barinov holds an honest line as the scene unfolds, using "khoroshaya" (from "khoroshiy", "good") alongside "rech" ("speech") to shape the meaning.
+- 'Write it down for me later.' Vika keeps a brisk position in front of Barinov, building the phrase around "potom" ("then") and "perepishesh" ("to rewrite") for a crisp, natural delivery.
+- 'Viktoriya, where on earth have you been wandering, huh?' Barinov challenges warmly on the spot, linking "gde" ("where"), "cherti" ("devil, darn"), and "nosyat" ("wear") in one brisk exchange.
+- 'And what about yourself?' Vika checks wryly at this point, pairing "vas" ("you") with "net" ("no") to get the point across in plain spoken Russian.
+- 'Saying she was not offended.' Barinov strikes a grounded style straight away, linking "obidelas" ("offended"), "chto" ("what"), and "ne" ("not") in one brisk exchange.
+- 'Yet she hangs up on me for the second time.' Vika adopts a clear course on the spot, weaving "vtoroy" ("second") together with "raz" ("time, once") just the way native speakers do.
+- 'That my future groom could not make it here today.' Barinov picks a warm approach on the spot, building the phrase around "budushchiy" ("future") and "zhenikh" ("groom, fiancé") for a crisp, natural delivery.
+- 'That is quite alright.' Vika brings a measured tempo as they talk, pairing "strashnogo" ("terrible, serious") with "nichego" ("nothing") to get the point across in plain spoken Russian.
+- 'An envelope. Oh.' Barinov conveys an emphatic angle during the exchange, using "konvert" ("the envelope") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Right this way, please. Hello.' Vika strikes a calm style on the spot, pairing "proshu" ("beg, ask") with "zdravstvuyte" ("hello") to get the point across in plain spoken Russian.
+- 'Why are you wandering around out there?' Barinov probes openly with Vika now, joining "shlyayeshsya-to" ("to gad about") to "gde-to" ("somewhere") so every word pulls its weight.

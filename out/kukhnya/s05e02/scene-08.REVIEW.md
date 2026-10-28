@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Better tell her everything right away.' With the point and breakup in play, Kostya keeps this short reply brisk and direct.
-- 'What are you talking about here?' Wondering what Denis talking about here is cuts straight through the tension between Nastya and Denis. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Imagine that you and I broke up.' Explaining that Denis should imagine that Denis and he broke up lays the cards on the table for Denis.
-- 'Are you a complete fool?' Here asking whether Denis a complete fool shows Nastya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, just imagine it.' With the breakup and point in play, Kostya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am saying this purely figuratively.' Explaining that he is saying this purely figuratively lays the cards on the table for Denis.
-- 'Suppose I slept with another girl.' Telling Denis to suppose he slept with another girl moves the conversation forward without extra drama.
-- 'And then told you all about it.' Realizing that told Denis all about it changes how Kostya handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Wait, did you cheat on me?' By asking whether Denis cheat, Nastya presses Denis for a straight answer.
-- 'Well, you have not imagined it yet!' Saying that Denis has not imagined it yet is how Kostya takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'When? When did that happen?' Asking when that happen is how Nastya puts Denis on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'That never happened, Nastya!' Over the moment and the breakup, Kostya lets his real feelings show.
-- 'And now you are afraid to tell me, right?' Wondering if Denis is afraid to tell her right shows Nastya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What a coward you are!' Once what a coward Denis is, Nastya makes sure Denis hears every word. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Better tell her everything right away.' Kostya establishes an earnest mood without hesitation, combining "luchshe" ("better") and "srazu" ("at once") so the key meaning lands right away.
+- 'What are you talking about here?' Nastya questions firmly to make the point, pairing "tut" ("here") with "govorite" ("say, speak") to get the point across in plain spoken Russian.
+- 'Imagine that you and I broke up.' Kostya conveys an emphatic angle as the scene unfolds, pairing "predstav" ("imagine") with "rasstalis" ("broke up, separated") to get the point across in plain spoken Russian.
+- 'Are you a complete fool?' Nastya tests candidly toward Kostya here, putting "sovsem" ("at all") alongside "durak" ("fool, idiot") in a tight, everyday turn of phrase.
+- 'No, just imagine it.' Kostya projects a firm tack in the conversation, linking "prosto" ("just"), "predstav" ("imagine"), and "da" ("yes") in one brisk exchange.
+- 'I am saying this purely figuratively.' Kostya displays an unhurried attitude straight away, putting "govoryu" ("am telling") alongside "chisto" ("clean") in a tight, everyday turn of phrase.
+- 'Suppose I slept with another girl.' Kostya maintains a measured tempo in the conversation, combining "perespal" ("to sleep overnight") and "drugoy" ("other") so the key meaning lands right away.
+- 'And then told you all about it.' Kostya conveys a measured approach at this moment, pairing "potom" ("then") with "rasskazal" ("told") to get the point across in plain spoken Russian.
+- 'Wait, did you cheat on me?' Nastya probes calmly during the talk, pairing "izmenil" ("changed") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Well, you have not imagined it yet!' Kostya shows a steady posture toward Nastya, putting "yeshchyo" ("more, still") alongside "predstavila" ("imagined") in a tight, everyday turn of phrase.
+- 'When? When did that happen?' Nastya queries boldly to keep things clear, putting "kogda" ("when") alongside "bylo" ("was") in a tight, everyday turn of phrase.
+- 'That never happened, Nastya!' Kostya brings a firm direction straight away, pairing "nikogda" ("never") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'And now you are afraid to tell me, right?' Nastya inquires briskly to keep things clear, leaning on "teper" ("now") before closing the thought with "boishsya" ("you are afraid").
+- 'What a coward you are!' Nastya picks a serious tack beside Kostya, weaving "trus" ("coward") together with "kakoy" ("what a, how") just the way native speakers do.

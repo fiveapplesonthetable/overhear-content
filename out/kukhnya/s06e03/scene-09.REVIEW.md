@@ -17,23 +17,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Настя | Ради сына я готова поступиться своими принципами. | For the sake of our son I am ready to compromise my principles. | #153: Ради сына я готова<br>#153: со своими принципами | adapted: adapted |
 | 6 | Костя | Может, ты и права. | Maybe you are right. | #154: Может, ты права | adapted: adapted |
 | 7 | Настя | Может, сходишь в магазин, отметим новоселье? | Maybe you will go to the store so we can celebrate our housewarming? | #155: Может, сходишь в магазин?<br>#156: Отметим новоселье | adapted: adapted |
-| 8 | Денис | Играем до десяти голов. | We are playing to ten goals. | #157: Играем до<br>#157: голов | adapted: adapted |
-| 9 | Денис | Катя, за счетом последишь? | Katya, will you keep track of the score? | #158: за счетом последишь? | adapted: adapted |
+| 8 | Катя | Играем до десяти голов. | We are playing to ten goals. | #157: Играем до<br>#157: голов | adapted: adapted |
+| 9 | Настя | Катя, за счетом последишь? | Katya, will you keep track of the score? | #158: за счетом последишь? | adapted: adapted |
 | 10 | Настя | Это надолго? | Will this take a long time? | #159: Это надолго? | adapted: exact |
-| 11 | Денис | Да мы их за пять минут обыграем. | Why, we will beat them in five minutes. | #160: Да мы их за | adapted: adapted |
+| 11 | Катя | Да мы их за пять минут обыграем. | Why, we will beat them in five minutes. | #160: Да мы их за | adapted: adapted |
 | 12 | Настя | Ну давай, начинайте. | Well go ahead, start. | #161: Ну давай | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are not going to refuse anything.' Because they are not going to refuse anything, Nastya treats the matter as settled.
-- 'You said yourself that it is blood money.' Explaining that Denis said themselves that it is blood money lays the cards on the table for Denis.
-- 'On the other hand, our son has his own room.' Nastya mentions that on the other hand their son has his own room so Denis sees what is at stake. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'In a good apartment, in a good neighborhood.' With the work and match in play, Nastya keeps this short reply brisk and direct.
-- 'For the sake of our son I am ready to compromise my principles.' Pointing out that for the sake of their son she is ready to compromise her principles gives Denis a sobering reality check.
-- 'Maybe you are right.' Kostya explains that maybe Denis is right, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Maybe you will go to the store so we can celebrate our housewarming?' Asking whether maybe Denis will go to the store so they can celebrate their housewarming puts Denis right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We are playing to ten goals.' Noting that they are playing to ten goals keeps Denis's side of the story simple and clear.
-- 'Katya, will you keep track of the score?' Asking whether Kostya keeps track of the score is how Denis puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Will this take a long time?' Here asking whether this take a long time shows Nastya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why, we will beat them in five minutes.' Saying that why they will beat them in five minutes is how Denis sets the tone with Kostya.
-- 'Well go ahead, start.' Adding that Denis should go ahead start fills in the missing piece for Denis. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'We are not going to refuse anything.' Nastya takes a measured tack at this moment, weaving "budem" ("will") together with "otkazyvatsya" ("to refuse") just the way native speakers do.
+- 'You said yourself that it is blood money.' Kostya displays a steady tone as the scene unfolds, putting "govorila" ("said") alongside "krovavyye" ("blood-stained") in a tight, everyday turn of phrase.
+- 'On the other hand, our son has his own room.' Nastya maintains a serious tone beside Katya, joining "syna" ("son") to "komnata" ("room") so every word pulls its weight.
+- 'In a good apartment, in a good neighborhood.' Nastya sustains a playful mood for Kostya, weaving "khoroshey" ("good") together with "kvartire" ("flat") just the way native speakers do.
+- 'For the sake of our son I am ready to compromise my principles.' Nastya sustains a sharp position with Katya, anchoring the Russian line on "syna" ("son") and "gotova" ("ready") without extra filler.
+- 'Maybe you are right.' Kostya offers a clear mood without hesitation, linking "mozhet" ("can"), "prava" ("right, correct"), and "ty" ("you") in one brisk exchange.
+- 'Maybe you will go to the store so we can celebrate our housewarming?' Nastya checks honestly to keep things clear, joining "mozhet" ("can") to "skhodish" ("to go") so every word pulls its weight.
+- 'We are playing to ten goals.' Katya sets a calm footing in the room, combining "igrayem" ("play") and "golov" ("goals") so the key meaning lands right away.
+- 'Katya, will you keep track of the score?' Nastya quizzes openly as the beat lands, weaving "schetom" ("score") together with "posledish" ("will keep track of") just the way native speakers do.
+- 'Will this take a long time?' Nastya tests steadily without holding back, combining "nadolgo" ("for long") and "eto" ("this") so the key meaning lands right away.
+- 'Why, we will beat them in five minutes.' Katya adopts an earnest view in this beat, anchoring the Russian line on "minut" ("minutes") and "obygrayem" ("will beat, outplay") without extra filler.
+- 'Well go ahead, start.' Nastya conveys a measured approach in their talk, weaving "davay" ("let's") together with "nachinayte" ("start") just the way native speakers do.

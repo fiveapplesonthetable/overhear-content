@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, Vitya, hear me out to the end.' Explaining that Barinov should hear him out to the end lays the cards on the table for Barinov.
-- 'A Michelin inspector has secretly arrived in Moscow.' Because a Michelin inspector has secretly arrived in Moscow, Nagiyev treats the matter as settled.
-- 'Where do you think he will go first?' By wondering where Barinov thinks he will go first, Nagiyev presses Barinov for a straight answer.
-- 'He will go straight to the very best restaurant.' Nagiyev mentions that he will go straight to the very best restaurant so Barinov sees what is at stake.
-- 'Your restaurant without me is no longer the best.' Claiming that Nagiyev's restaurant without him is no longer the best sounds confident, even if Nagiyev has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You will have a chance to get a Michelin star!' Saying that Barinov will have a chance to get a Michelin star is how Nagiyev takes charge of the moment.
-- 'Dima, I have very little time right now.' Because he has very little time right now, Barinov treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Look what kind of car they gave me recently.' Realizing that what kind of car they gave him recently changes how Nagiyev handles the situation.
-- 'If you agree, this ride will be yours!' Insisting that if Barinov agrees this ride will be shows Nagiyev is not backing down.
-- 'Fresh trout was just delivered, I am going to receive it.' Even though fresh trout was just delivered he is going to receive it, Barinov keeps a steady face in front of Nagiyev.
-- 'Vitya, think carefully about the Michelin star.' Even though Barinov should think carefully about the Michelin star, Nagiyev keeps a steady face in front of Barinov.
-- 'And do not forget about this car either.' Saying that do not forget about this car either is how Nagiyev sets the tone with Barinov.
+- 'Wait, Vitya, hear me out to the end.' Nagiyev presents a direct bearing with Barinov, putting "podozhdi" ("wait") alongside "doslushay" ("hear out") in a tight, everyday turn of phrase.
+- 'A Michelin inspector has secretly arrived in Moscow.' Nagiyev offers a wry view during the exchange, putting "tayno" ("secretly") alongside "priyekhal" ("came") in a tight, everyday turn of phrase.
+- 'Where do you think he will go first?' Nagiyev tests quietly without a pause, putting "kak" ("how") alongside "dumayesh" ("think") in a tight, everyday turn of phrase.
+- 'He will go straight to the very best restaurant.' Nagiyev establishes an emphatic approach straight away, pairing "poydyot" ("will go") with "srazu" ("at once") to get the point across in plain spoken Russian.
+- 'Your restaurant without me is no longer the best.' Barinov chooses a serious tack in front of Nagiyev, putting "restoran" ("restaurant") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'You will have a chance to get a Michelin star!' Nagiyev shows a brisk approach in the conversation, building the phrase around "budet" ("will be") and "shans" ("chance") for a crisp, natural delivery.
+- 'Dima, I have very little time right now.' Barinov shares a wry footing across the room, weaving "seychas" ("now") together with "vremeni" ("time") just the way native speakers do.
+- 'Look what kind of car they gave me recently.' Nagiyev projects a frank note for Barinov, weaving "posmotri" ("look") together with "mashinu" ("car") just the way native speakers do.
+- 'If you agree, this ride will be yours!' Nagiyev keeps a clear course as they talk, pairing "soglasishsya" ("to agree") with "tachka" ("car, wheels") so the "-sya" ending carries the action.
+- 'Fresh trout was just delivered, I am going to receive it.' Barinov chooses an honest line beside Nagiyev, putting "seychas" ("now") alongside "svezhuyu" ("fresh") in a tight, everyday turn of phrase.
+- 'Vitya, think carefully about the Michelin star.' Nagiyev sets a pointed line for Barinov, anchoring the Russian line on "khorosho" ("good, fine") and "podumay" ("think") without extra filler.
+- 'And do not forget about this car either.' Nagiyev shares a wry note in this beat, pairing "mashinu" ("car") with "tozhe" ("too") to get the point across in plain spoken Russian.

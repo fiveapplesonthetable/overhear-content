@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The oven in my kitchen is acting up.' Noting that the oven in his kitchen is acting up keeps Barinov's side of the story simple and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I am afraid they slipped us a defective one.' Being afraid they slipped them a defective one is how Barinov lays out the situation for Eleonora.
-- 'Alright, when you find Misha, tell him.' Admitting that Alright when Barinov finds Misha tell him shows Eleonora being honest for a change.
-- 'Fine, I will go and be sure to tell him.' Saying that fine he will go and be sure to tell him is how Barinov sets the tone with Eleonora.
-- 'Why is that guy so cheerful?' Here asking why that guy so cheerful is shows Mikhail looking for the real truth.
-- 'His head has been hurting for a long time.' Adding that his head has been hurting for a long time fills in the missing piece for Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Let me go to him right now!' Once Barinov should let him go to him right now, Mikhail makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Come on, Mishanya, the odds are too uneven.' Coming on the odds are too uneven is how Barinov lays out the situation for Eleonora.
-- 'He is sober, and you need to sleep it off.' Claiming that he is sober and Eleonora needs to sleep it off sounds confident, even if Eleonora has doubts. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Do you have anything to drink here?' By asking whether Barinov has anything to drink here, Mikhail presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I have a couch, lie down.' Because he has a couch lie down, Barinov treats the matter as settled.
-- 'Go on and rest, and I will bring it.' Because Eleonora should go on and rest and he will bring it, Barinov treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'The oven in my kitchen is acting up.' Barinov takes a clear view with Eleonora, anchoring the Russian line on "kukhne" ("kitchen") and "pech" ("bake") without extra filler.
+- 'I am afraid they slipped us a defective one.' Barinov conveys a firm posture at once, putting "boyus" ("am afraid") alongside "brakovannuyu" ("defective") in a tight, everyday turn of phrase.
+- 'Alright, when you find Misha, tell him.' Eleonora takes a calm direction at once, building the phrase around "khorosho" ("good, fine") and "naydyosh" ("you'll find") for a crisp, natural delivery.
+- 'Fine, I will go and be sure to tell him.' Barinov picks an honest direction in this beat, building the phrase around "poydu" ("go") and "obyazatelno" ("surely, without fail") for a crisp, natural delivery.
+- 'Why is that guy so cheerful?' Mikhail queries firmly as the beat lands, linking "tip" ("guy, fellow"), "radostnyy" ("happy, joyful"), and "chego" ("what") in one brisk exchange.
+- 'His head has been hurting for a long time.' Barinov displays an easygoing tempo at this moment, linking "davno" ("for a long time"), "golova" ("head"), and "bolit" ("hurts, aches") in one brisk exchange.
+- 'Let me go to him right now!' Mikhail chooses a serious rhythm in front of Barinov, using "pusti" (from "pustit", "let go") alongside "seychas" ("now") to shape the meaning.
+- 'Come on, Mishanya, the odds are too uneven.' Barinov conveys a serious rhythm right away, anchoring the Russian line on "mishanya" ("Mishanya") and "sily" ("strength, forces") without extra filler.
+- 'He is sober, and you need to sleep it off.' Barinov picks an unhurried course in front of Eleonora, pairing "vyspatsya" ("get enough sleep") with "trezvyy" ("sober") so the "-sya" ending carries the action.
+- 'Do you have anything to drink here?' Mikhail prompts calmly in the room, linking "zdes" ("here"), "yest" ("there is"), and "vypit" ("to drink") in one brisk exchange.
+- 'I have a couch, lie down.' Barinov chooses a resolute note on the spot, weaving "yest" ("there is") together with "divan" ("sofa, couch") just the way native speakers do.
+- 'Go on and rest, and I will bring it.' Barinov presents a steady line on the spot, using "davay" (from "davat", "let's") alongside "otdykhay" ("rest, relax") to shape the meaning.

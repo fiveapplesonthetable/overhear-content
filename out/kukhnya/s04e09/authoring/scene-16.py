@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
 INTRO = "After Max quietly returns Styopa to Kostya, German steps into the courtyard, sees the office safe sitting on top of his crushed car, and challenges Barinov's crew to a fight."
 OPENER = "Let's break down each line as the courtyard confrontation heats up."
 TRANSITION = 'Now listen to the entire courtyard confrontation again.'
-OUTRO = "Notice that clever Russian trick: putting the noun before the number turns 'three people' into 'about three people'. See you next time!"
+OUTRO = "Notice that clever Russian trick: putting the word before the number turns 'three people' into 'about three people'. See you next time!"
 CLOSING = ('german', 'Пока!')
 STORY = [
     ('kostya', 'Макс недоступен, трубку не берёт.', 'Max is unreachable, he is not picking up the phone.', [(237, 'Макс недоступен, трубку не берет')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('german', 'С удовольствием, держи удар!', 'With pleasure, take this punch!', [(256, 'С удовольствием')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'Max is unreachable, he is not picking up the phone.' Because Max is unreachable he is not picking up the phone, Kostya treats the matter as settled."),
-    (1, None, '\'Where did Styopa get red boots from?\' Asking where Styopa get red boots is how Kostya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (2, None, "'Grandpa probably bought them for him.' Kostya mentions that Grandpa probably bought them for him so Barinov sees what is at stake."),
-    (3, None, "'Are you in your right mind at all?' By checking whether Barinov in Barinov's right mind at all, German presses Barinov for a straight answer."),
-    (4, None, '\'What have you done here?\' Wondering if what have Barinov done here shows German caught off guard. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (5, None, '\'You saw me, I was standing right here.\' Barinov explains that German saw him he was standing right here, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (6, None, "'I could never lift this thing alone.' Realizing that he could never lift this thing alone changes how Barinov handles the situation."),
-    (7, None, '\'You need about three people here.\' Noting that German needs about three people here keeps Barinov\'s side of the story simple and clear. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (8, None, "'Now let the police sort it out.' Telling Barinov to let the police sort it out moves the conversation forward without extra drama."),
-    (9, None, "'So you are a tough guy here, are you?' Wondering if German is a tough guy here are German shows Barinov caught off guard."),
-    (10, None, '\'Do you want to settle this like men?\' Checking whether Barinov wants to settle this like men is how German puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (11, None, "'With pleasure, take this punch!' Between the moment and the office, German delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (0, None, '\'Max is unreachable, he is not picking up the phone.\' Kostya shares an emphatic style in the scene, pairing "nedostupen" ("unreachable") with "trubku" ("the receiver") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Where did Styopa get red boots from?\' Kostya presses calmly without holding back, building the phrase around "otkuda" ("where from") and "styopy" ("get") for a crisp, natural delivery.'),
+    (2, None, '\'Grandpa probably bought them for him.\' Kostya shows a resolute position without hesitation, building the phrase around "ded" ("grandfather") and "navernoye" ("probably") for a crisp, natural delivery.'),
+    (3, None, '\'Are you in your right mind at all?\' German questions plainly in the room, building the phrase around "voobshche" ("at all") and "ume" ("mind, head") for a crisp, natural delivery.'),
+    (4, None, '\'What have you done here?\' German questions openly with Barinov now, combining "tut" ("here") and "sdelali" ("did, have done") so the key meaning lands right away.'),
+    (5, None, '\'You saw me, I was standing right here.\' Barinov projects a playful view right away, building the phrase around "videli" ("saw") and "tut" ("here") for a crisp, natural delivery.'),
+    (6, None, '\'I could never lift this thing alone.\' Barinov shows a resolute mood at once, building the phrase around "shtuku" ("a grand, thing") and "podnimu" ("will rouse") for a crisp, natural delivery.'),
+    (7, None, '\'You need about three people here.\' Barinov holds an easygoing direction during the exchange, pairing "tut" ("here") with "cheloveka" ("a man, a person") to get the point across in plain spoken Russian.'),
+    (8, None, '\'Now let the police sort it out.\' German sets an unhurried course at once, putting "teper" ("now") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.'),
+    (9, None, '\'So you are a tough guy here, are you?\' Barinov probes wryly in the room, pairing "znachit" ("then, so") with "tut" ("here") to get the point across in plain spoken Russian.'),
+    (10, None, '\'Do you want to settle this like men?\' German challenges directly to keep things clear, building the phrase around "khochesh" ("do you want") and "po-muzhski" ("like a man") for a crisp, natural delivery.'),
+    (11, None, '\'With pleasure, take this punch!\' German offers a firm tack on the spot, weaving "udovolstviyem" ("pleasure") together with "derzhi" ("here you go") just the way native speakers do.'),
 ]

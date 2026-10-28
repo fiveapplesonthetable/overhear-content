@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Макс | Ну, чего? | Well, how is that? | #283: Ну, чего | verbatim |
 | 2 | Костя | Тоже не подходит. | That does not work either. | #284: Тоже не подходит | verbatim |
 | 3 | Макс | Да ладно, все с ними в порядке. | Come on, they look convincing enough. | #285: Да ладно, все с ними в порядке | verbatim |
-| 4 | Костя | Костя, вы где были? | Kostya, where were you two? | #288: Костя, вы где были | verbatim |
+| 4 | Макс | Костя, вы где были? | Kostya, where were you two? | #288: Костя, вы где были | verbatim |
 | 5 | Макс | Что с вами? | What happened to you? | #288: Что с вами | verbatim |
 | 6 | Костя | Вы из-за нас, что ли, подрались? | Did the two of you get into a fight because of us? | #290: Вы из-за нас, что ли, подрались | verbatim |
 | 7 | Макс | Что из-за такого? | What is the big deal? | #291: Что из-за такого | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how is that?' With the shift and moment hanging in the air, Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That does not work either.' Because that does not work either, Kostya treats the matter as settled.
-- 'Come on, they look convincing enough.' Coming on they look convincing enough is how Max lays out the situation for Kostya.
-- 'Kostya, where were you two?' Asking where Max two was cuts straight through the tension between Kostya and Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'What happened to you?' Over the moment and the apartment, Max presses Kostya for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Did the two of you get into a fight because of us?' Here checking whether the two of Max gets into a fight because of them shows Kostya looking for the real truth.
-- 'What is the big deal?' By asking what the big deal is, Max presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, we had a fight.' Realizing that they had a fight changes how Kostya handles the situation.
-- 'Everything is fine now anyway.' Noting that everything is fine now anyway keeps Max's side of the story simple and clear.
-- 'Let us go have some tea.' Proposing that they go have some tea is how Kostya lays out the situation for Max.
-- 'Yes, let us do that.' Explaining that they should do lays the cards on the table for Kostya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You two get changed while we get everything ready.' With the kitchen and point in play, Kostya keeps this short reply brisk and direct.
-- 'We have something saved specially for an occasion like this.' Once they have something saved specially for an occasion like this, Max can finally tell Kostya what he means. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'Well, how is that?' Max asks directly in front of Kostya, combining "nu" ("oh, come on") and "chego" ("what") so the key meaning lands right away.
+- 'That does not work either.' Kostya takes a clear mood without hesitation, linking "tozhe" ("too"), "podkhodit" ("is coming up"), and "ne" ("not") in one brisk exchange.
+- 'Come on, they look convincing enough.' Max favors an honest direction in the scene, linking "poryadke" ("order"), "da" ("yes"), and "ladno" ("all right") in one brisk exchange.
+- 'Kostya, where were you two?' Max asks honestly without hesitation, anchoring the Russian line on "gde" ("where") and "byli" ("be") without extra filler.
+- 'What happened to you?' Max inquires briskly at this point, anchoring the Russian line on "chto" ("what") and "vami" ("you") without extra filler.
+- 'Did the two of you get into a fight because of us?' Kostya quizzes plainly in their exchange, pairing "podralis" ("to fight, have a brawl") with "vy" ("you") so the "-sya" ending carries the action.
+- 'What is the big deal?' Max asks candidly in their exchange, building the phrase around "chto" ("what") and "iz-za" ("because of") for a crisp, natural delivery.
+- 'Well, we had a fight.' Kostya picks an earnest stance straight away, combining "podralis" ("to fight, have a brawl") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'Everything is fine now anyway.' Max displays an emphatic direction at this moment, combining "uzhe" ("already, now") and "poryadke" ("order") so the key meaning lands right away.
+- 'Let us go have some tea.' Kostya shows a steady angle in front of Max, building the phrase around "poydemte" ("come on, let's go") and "chay" ("tea") for a crisp, natural delivery.
+- 'Yes, let us do that.' Max brings a resolute approach as the scene unfolds, combining "davayte" ("let's") and "da" ("yes") so the key meaning lands right away.
+- 'You two get changed while we get everything ready.' Kostya picks a candid approach with Max, anchoring the Russian line on "razdevaytes" ("to take off one's coat") and "prigotovimsya" ("to prepare") without extra filler.
+- 'We have something saved specially for an occasion like this.' Max keeps an honest line in front of Kostya, putting "spetsialno" ("on purpose") alongside "sluchaya" ("case, occasion") in a tight, everyday turn of phrase.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems we will have another wedding.' Realizing that it seems they will have another wedding changes how Fedya handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'They have not even held hands yet.' Noting that they have not even held hands yet keeps Fedya's side of the story simple and clear.
-- 'Today marks a week since we started dating.' Even though today marks a week since they started dating, Lyova keeps a steady face in front of Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This is a gift for you, dear Gulya.' Admitting that this is a gift for Fedya dear Gulya shows Lyova being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'How sweet, this is already the seventh teddy bear!' Insisting that how sweet this is already the seventh teddy bear shows Gulya is not backing down.
-- 'Thank you, Lyova, I have to run to work.' Saying that she has to run to work is how Gulya sets the tone with Fedya.
-- 'Fedya, actually Gulya is my girlfriend!' Declaring that Gulya is his girlfriend brings Lyova's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Gulya is certainly a very pretty girl.' Saying that Gulya is certainly a very pretty girl is how Fedya sets the tone with Gulya.
-- 'Sorry, Fedya, I did that completely by accident.' Since he did that completely by accident, Lyova does not waste words on excuses.
-- 'It is no big deal, everything is fine.' Mentioning that it is no big deal everything is fine moves the talk in a new direction.
-- 'Senya, they delivered fresh meat over there.' Over the joke and the kitchen, Lyova answers Fedya without a second thought.
-- 'I have not weighed it yet today.' Explaining that he has not weighed it yet today lays the cards on the table for Fedya.
+- 'It seems we will have another wedding.' Fedya conveys a warm rhythm straight away, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "budet" ("will be") without extra filler.
+- 'They have not even held hands yet.' Fedya presents a firm line on the spot, pairing "derzhalis" ("to hold on") with "yeshchyo" ("more, still") so the "-sya" ending carries the action.
+- 'Today marks a week since we started dating.' Lyova keeps an earnest angle across the room, weaving "segodnya" ("today") together with "nedelya" ("week") just the way native speakers do.
+- 'This is a gift for you, dear Gulya.' Lyova picks an earnest view in front of Gulya, leaning on "podarok" ("gift, voucher") before closing the thought with "dorogaya" ("expensive").
+- 'How sweet, this is already the seventh teddy bear!' Gulya maintains a calm view right away, leaning on "kak" ("how") before closing the thought with "milo" ("nice, sweet").
+- 'Thank you, Lyova, I have to run to work.' Gulya takes a direct position for Lyova, leaning on "spasibo" ("thank you") before closing the thought with "pobezhala" ("ran").
+- 'Fedya, actually Gulya is my girlfriend!' Lyova brings a natural course in the room, weaving "voobshche-to" ("actually") together with "devushka" ("girlfriend") just the way native speakers do.
+- 'Gulya is certainly a very pretty girl.' Fedya establishes an earnest stance for Lyova, weaving "konechno" ("of course") together with "ochen" ("very much") just the way native speakers do.
+- 'Sorry, Fedya, I did that completely by accident.' Lyova maintains a resolute approach beside Fedya, combining "prosti" ("sorry, forgive me") and "sovsem" ("at all") so the key meaning lands right away.
+- 'It is no big deal, everything is fine.' Fedya shares a brisk position in their talk, weaving "strashnogo" ("terrible, serious") together with "normalno" ("fine, OK") just the way native speakers do.
+- 'Senya, they delivered fresh meat over there.' Lyova shows a brisk mood on the spot, pairing "tam" ("there") with "svezheye" ("fresh") to get the point across in plain spoken Russian.
+- 'I have not weighed it yet today.' Lyova holds a sharp tack right away, linking "yeshchyo" ("more, still"), "vzveshival" ("weigh"), and "segodnya" ("today") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations. But in divorces I am ahead.' Mentioning that but in divorces he is ahead moves the talk in a new direction.
-- 'I will catch up to you yet. I am younger.' Saying that he will catch up to Barinov yet is how Nagiyev sets the tone with Barinov.
-- 'Dima, on such a joyful occasion can you raise my salary?' Asking whether on such a joyful occasion can Nagiyev raises his salary puts Nagiyev right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes. I thought about that.' Between the room and the restaurant, Nagiyev gives Barinov a quick, grounded response.
-- 'I thought and thought and changed my mind.' Nagiyev mentions that he thought and thought and changed his mind so Barinov sees what is at stake.
-- 'You are worthy of more. I forgive you all your debts!' Nagiyev declares that Barinov is worthy as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dima, I am so glad that you got divorced!' Declaring that he is so glad that Nagiyev got divorced brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am hungry. Why are they dawdling in the kitchen?' Questioning whether he is hungry is how Nagiyev tests Barinov's story.
-- 'It looks like you are not the only one who came to celebrate the divorce.' Realizing that it looks like Nagiyev is not the only one who came to celebrate the divorce changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It is time for me to work.' Noting that it is time for him to work keeps Barinov's side of the story simple and clear. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Sit! Right now, right now.' With the conversation and truth at stake, Nagiyev reacts without holding back.
-- 'Dmitry Vladimirovich!' With the work and room at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Congratulations. But in divorces I am ahead.' Barinov sets a resolute angle right away, leaning on "pozdravlyayu" ("congratulations") before closing the thought with "razvodam" ("divorces").
+- 'I will catch up to you yet. I am younger.' Nagiyev conveys a natural view beside Barinov, pairing "yeshchyo" ("more, still") with "dogonyu" ("will catch up with") to get the point across in plain spoken Russian.
+- 'Dima, on such a joyful occasion can you raise my salary?' Barinov probes quietly to keep things clear, anchoring the Russian line on "mozhesh" ("can") and "radostnomu" ("joyful, happy") without extra filler.
+- 'Yes. I thought about that.' Nagiyev adopts an emphatic direction in front of Barinov, combining "dumal" ("thought") and "da" ("yes") so the key meaning lands right away.
+- 'I thought and thought and changed my mind.' Nagiyev presents an unhurried note with Barinov, joining "dumal" ("thought") to "peredumal" ("changed your mind") so every word pulls its weight.
+- 'You are worthy of more. I forgive you all your debts!' Nagiyev offers a lively view as the scene unfolds, using "dostoin" (from "dostoynyy", "worthy, deserving") alongside "bolshego" ("more, greater") to shape the meaning.
+- 'Dima, I am so glad that you got divorced!' Barinov adopts a thoughtful posture as the scene unfolds, anchoring the Russian line on "rad" ("glad") and "razvyolsya" ("got divorced") without extra filler.
+- 'I am hungry. Why are they dawdling in the kitchen?' Nagiyev prompts steadily in the room, linking "yest" ("there is"), "khochetsya" ("want, feel like"), and "kukhne" ("kitchen") in one brisk exchange.
+- 'It looks like you are not the only one who came to celebrate the divorce.' Barinov favors a brisk tempo during the exchange, pairing "pokhozhe" ("like, similar") with "prishyol" ("came, have come") to get the point across in plain spoken Russian.
+- 'It is time for me to work.' Barinov presents an honest tempo straight away, building the phrase around "pora" ("it's time") and "rabotat" ("to work") for a crisp, natural delivery.
+- 'Sit! Right now, right now.' Nagiyev shares an easygoing stance in their talk, weaving "sidet" ("to sit") together with "seychas" ("now") just the way native speakers do.
+- 'Dmitry Vladimirovich!' Barinov maintains a clear line straight away, pairing "dmitriy" ("Dmitry") with "vladimirovich" ("Vladimirovich") to get the point across in plain spoken Russian.

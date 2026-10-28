@@ -19,23 +19,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | Хотя, если ему надо, пусть берет. | Although if he needs it, let him use it. | #138: Хотя, если ему надо, пусть берет | verbatim |
 | 8 | Костя | А все потому. | And all because of that. | #141: А все потому | verbatim |
 | 9 | Родион | Макс, слушай, я тебя как друга прошу, а? | Max, listen, I am begging you as a friend, okay? | #142: Макс, слушай, я тебя как друга прошу, а | verbatim |
-| 10 | Макс | Спокойной ночи, Максим Леонидович. | Good night, Maxim Leonidovich. | #144: Спокойной ночи, Максим Леонидович | verbatim |
+| 10 | Костя | Спокойной ночи, Максим Леонидович. | Good night, Maxim Leonidovich. | #144: Спокойной ночи, Максим Леонидович | verbatim |
 | 11 | Костя | Кстати, ничего, что я без нижнего белья. | By the way, I hope you do not mind that I sleep without underwear. | #145: Кстати, ничего, что я без нижнего белья | verbatim |
 | 12 | Родион | Я просто привык к свободе во всем. | I am simply accustomed to freedom in all things. | #146: Я просто привык к свободе во всем | verbatim |
 | 13 | Макс | Он так храпит. | He snores so loudly. | #148: Он так храпит | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Too bad there is no sound.' Mentioning that too bad there is no sound moves the talk in a new direction.
-- 'Maxim, if you say that one more time, I will be offended.' Kostya reminds Max that Maxim if Max says that one more time he will be offended before the moment passes.
-- 'And who gave you permission to spy on him?' When Rodion asks if who gave Kostya permission to spy on him, Kostya has to answer fast. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Besides, you have no right to do that.' Explaining that besides Kostya has no right to do lays the cards on the table for Kostya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Does he have the right to use your face cream?' Asking whether he have the right to use Max's face cream is how Kostya puts Max on the spot.
-- 'Man, that cream costs a fortune...' Claiming that man that cream costs a fortune sounds confident, even if Kostya has doubts.
-- 'Although if he needs it, let him use it.' Pointing out that although if he needs it let him use it gives Kostya a sobering reality check. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'And all because of that.' Between the work and the room, Kostya gives Max a quick, grounded response.
-- 'Max, listen, I am begging you as a friend, okay?' Asking whether he is begging Kostya as a friend okay puts Kostya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Good night, Maxim Leonidovich.' With the work and conversation in play, Max keeps this short reply brisk and direct.
-- 'By the way, I hope you do not mind that I sleep without underwear.' Mentioning that he hopes Max does not mind that he sleeps without underwear moves the talk in a new direction.
-- 'I am simply accustomed to freedom in all things.' Being simply accustomed to freedom in all things is how Rodion lays out the situation for Kostya.
-- 'He snores so loudly.' Around the work and plan, Max sets a calm, everyday tone with Kostya.
+- 'Too bad there is no sound.' Max presents a steady style at this moment, combining "zhalko" ("feel sorry for") and "zvuka" ("sound, volume") so the key meaning lands right away.
+- 'Maxim, if you say that one more time, I will be offended.' Kostya sets a frank view straight away, combining "yeshche" ("still") and "raz" ("time, once") so the key meaning lands right away.
+- 'And who gave you permission to spy on him?' Rodion presses quietly to keep things clear, pairing "razreshil" ("allowed") with "sledit" ("to monitor") to get the point across in plain spoken Russian.
+- 'Besides, you have no right to do that.' Max offers an unhurried manner straight away, joining "voobshche" ("at all") to "imeyete" ("have") so every word pulls its weight.
+- 'Does he have the right to use your face cream?' Kostya asks sharply without holding back, leaning on "imeyet" ("has") before closing the thought with "pravo" ("right").
+- 'Man, that cream costs a fortune...' Rodion presents an easygoing bearing as they talk, weaving "blin" ("damn") together with "krem" ("cream") just the way native speakers do.
+- 'Although if he needs it, let him use it.' Max projects a natural manner at once, anchoring the Russian line on "nado" ("it is necessary") and "beret" ("takes") without extra filler.
+- 'And all because of that.' Kostya displays a grounded tack in the conversation, pairing "potomu" ("because") with "vse" ("all") to get the point across in plain spoken Russian.
+- 'Max, listen, I am begging you as a friend, okay?' Rodion tests calmly across the room, pairing "slushay" ("listen") with "kak" ("how") to get the point across in plain spoken Russian.
+- 'Good night, Maxim Leonidovich.' Kostya holds a serious posture beside Rodion, linking "spokoynoy" ("good"), "nochi" ("night"), and "maksim" ("Maksim") in one brisk exchange.
+- 'By the way, I hope you do not mind that I sleep without underwear.' Kostya shares a candid view on the spot, pairing "kstati" ("by the way") with "nizhnego" ("lower, bottom") to get the point across in plain spoken Russian.
+- 'I am simply accustomed to freedom in all things.' Rodion shares an emphatic direction right away, combining the softening word "prosto" ("simply, just") with "privyk" ("got used") to give the line its natural spoken rhythm.
+- 'He snores so loudly.' Max sets an unhurried position at once, combining "khrapit" ("snores") and "on" ("he") so the key meaning lands right away.

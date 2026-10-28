@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear Anastasia and Konstantin, we are beginning our ceremony.' Max mentions that dear and Konstantin they are beginning their ceremony so Kostya sees what is at stake.
-- 'Wait a minute! Mom, where is my wedding bouquet?' Questioning whether Mom where is her wedding bouquet is how Nastya tests Kostya's story.
-- 'Sweetheart, they have not delivered your bouquet yet, traffic jams.' Pointing out that sweetheart they have not delivered Kostya's bouquet yet traffic jams gives Kostya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, that will not upset us at all today, will it, baby?' Kostya asks whether that will not upset them at all today will it baby, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'No, it will not upset us, everything is completely fine.' Realizing that it will not upset them everything is completely fine changes how Nastya handles the situation.
-- 'Nastya, tell me honestly, is it really fine?' Wondering if tell him honestly is it really fine shows Kostya caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Not true! This is the most terrible wedding that could possibly be!' Nastya declares that this is the most terrible wedding that could possibly be as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You are left at the wedding with no best man at all!' Saying that Kostya is left at the wedding with no best man at all is how Nastya takes charge of the moment.
-- 'You have a white cast on your leg, there will be no wedding dance!' Nastya declares that Kostya has a white cast on Kostya's leg there will be no wedding dance as the tension in the room peaks. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And they still have not delivered my pretty bouquet!' Because they still have not delivered her pretty bouquet, Nastya does not bother softening the blow for Kostya. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Do you think I dreamed of a wedding like this since childhood?' Asking whether Kostya thinks she dreamed of a wedding like this since childhood cuts straight through the tension between Nastya and Kostya.
-- 'No, we cannot start the wedding right now!' Insisting that they cannot start the wedding right now shows Nastya is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Dear Anastasia and Konstantin, we are beginning our ceremony.' Max chooses a firm bearing in front of Kostya, anchoring the Russian line on "dorogiye" ("dear") and "nachinayem" ("are starting") without extra filler.
+- 'Wait a minute! Mom, where is my wedding bouquet?' Nastya asks wryly in their exchange, putting "podozhdite" ("wait") alongside "minutu" ("a minute") in a tight, everyday turn of phrase.
+- 'Sweetheart, they have not delivered your bouquet yet, traffic jams.' Max keeps a thoughtful note right away, linking "dochenka" ("sweetheart"), "buket" ("bouquet"), and "poka" ("bye") in one brisk exchange.
+- 'Well, that will not upset us at all today, will it, baby?' Kostya checks earnestly at this point, putting "segodnya" ("today") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
+- 'No, it will not upset us, everything is completely fine.' Nastya takes a firm tempo in the conversation, linking "rasstroit" ("will upset"), "sovershenno" ("quite, completely"), and "normalno" ("fine, OK") in one brisk exchange.
+- 'Nastya, tell me honestly, is it really fine?' Kostya prompts wryly from the start, anchoring the Russian line on "skazhi" ("say") and "chestno" ("honestly") without extra filler.
+- 'Not true! This is the most terrible wedding that could possibly be!' Nastya shares a wry rhythm toward Kostya, building the phrase around "nepravda" ("untrue, a lie") and "samaya" ("most") for a crisp, natural delivery.
+- 'You are left at the wedding with no best man at all!' Nastya shares an honest tempo as the scene unfolds, pairing "ostalsya" ("remained") with "svadbe" ("wedding") so the "-sya" ending carries the action.
+- 'You have a white cast on your leg, there will be no wedding dance!' Nastya conveys an earnest rhythm for Kostya, joining "belyy" ("white") to "gips" ("plaster cast") so every word pulls its weight.
+- 'And they still have not delivered my pretty bouquet!' Nastya takes a measured tone at once, linking "yeshchyo" ("more, still"), "krasivyy" ("beautiful"), and "buket" ("bouquet") in one brisk exchange.
+- 'Do you think I dreamed of a wedding like this since childhood?' Nastya presses evenly in their exchange, combining "dumayesh" ("think") and "svadbe" ("wedding") so the key meaning lands right away.
+- 'No, we cannot start the wedding right now!' Nastya sets a grounded position as the scene unfolds, putting "seychas" ("now") alongside "mozhem" ("can") in a tight, everyday turn of phrase.

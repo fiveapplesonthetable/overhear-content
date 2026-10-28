@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora Andreyevna, did you call for me?' Asking whether Eleonora calls cuts straight through the tension between Vika and Eleonora. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, Victoria.' With the office and wedding in play, Eleonora keeps this short reply brisk and direct.
-- 'I persuaded a famous person to hold a wedding here.' Around the office and restaurant, Eleonora sets a calm, everyday tone with Nagiyev. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Everything is clear, we will do it at the highest level.' Claiming that everything is clear they will do it at the highest level sounds confident, even if Eleonora has doubts.
-- 'And here is our groom.' Explaining that here is their groom lays the cards on the table for Nagiyev.
-- 'What smells you have in the restroom.' Nagiyev explains that what smells Eleonora has in the restroom, keeping his voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Everything smells nice, even the paper.' Over the office and the work, Nagiyev answers Eleonora without a second thought.
-- 'No, it is mango.' Noting that it is mango keeps Eleonora's side of the story simple and clear.
-- 'Alright, let us move on to small details, to my wedding.' Even though Alright let them move on to small details to his wedding, Nagiyev keeps a steady face in front of Eleonora.
-- 'She did not even tell me who the child's father is.' Admitting that she did not even tell her who the child father is shows Vika being honest for a change.
-- 'Hey, do not go so heavy on that, you still have a train to catch.' Saying that do not go so heavy on that Eleonora still have a train to catch is how Nagiyev sets the tone with Eleonora.
-- 'I am not the train driver, after all.' Noting that she is not the train driver after all keeps Vika's side of the story simple and clear.
+- 'Eleonora Andreyevna, did you call for me?' Vika checks quietly during the talk, putting "zvali" ("called") alongside "eleonora" ("Eleonora") in a tight, everyday turn of phrase.
+- 'Yes, Victoria.' Eleonora picks a thoughtful footing without hesitation, weaving "da" ("yes") together with "viktoriya" ("Victoria") just the way native speakers do.
+- 'I persuaded a famous person to hold a wedding here.' Eleonora sustains a serious rhythm during the exchange, weaving "ugovorila" ("persuaded") together with "mediynogo" ("media, famous") just the way native speakers do.
+- 'Everything is clear, we will do it at the highest level.' Vika picks a grounded line in the conversation, leaning on "yasno" ("clear, got it") before closing the thought with "sdelayem" ("we'll do").
+- 'And here is our groom.' Eleonora holds a playful mood in the room, anchoring the Russian line on "zhenikh" ("groom, fiancé") and "vot" ("there, here") without extra filler.
+- 'What smells you have in the restroom.' Nagiyev displays an honest rhythm in the room, pairing "zapakhi" ("smells, scents") with "tualete" ("the toilet") to get the point across in plain spoken Russian.
+- 'Everything smells nice, even the paper.' Nagiyev shares an unhurried tack straight away, leaning on "pakhnet" ("it smells") before closing the thought with "bumazhka" ("slip of paper").
+- 'No, it is mango.' Eleonora holds an emphatic course across the room, weaving "mango" ("mango") together with "net" ("no") just the way native speakers do.
+- 'Alright, let us move on to small details, to my wedding.' Nagiyev keeps a calm view in their talk, linking "pereydyom" ("to cross, switch"), "melocham" ("small details"), and "svadbe" ("wedding") in one brisk exchange.
+- 'She did not even tell me who the child's father is.' Vika shares a pointed stance toward Nagiyev, joining "skazala" ("told") to "otets" ("father") so every word pulls its weight.
+- 'Hey, do not go so heavy on that, you still have a train to catch.' Nagiyev picks a thoughtful view in the room, pairing "nalegay" ("go heavy, lean into") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'I am not the train driver, after all.' Vika holds a serious position as they talk, linking "mashinist" ("train driver"), "ya" ("I"), and "zhe" ("but, after all") in one brisk exchange.

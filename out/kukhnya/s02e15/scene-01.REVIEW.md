@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When it is time to move to the next level.' Because when it is time to move to the next level, Nastya treats the matter as settled.
-- 'However, if you want dessert, you have to come to our place.' Explaining that however if Nastya wants dessert Nastya has to come to their place lays the cards on the table for Nastya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'For some people, this comes with great difficulty.' Nastya mentions that for some people this comes with great difficulty so Max sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Sweets late at night.' With the coffee and dinner in play, Max keeps this short reply brisk and direct.
-- 'Instead of dessert, let us go to my place and have some coffee.' Pointing out that instead of dessert let them go to her place and have some coffee gives Max a sobering reality check. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Oh sure, coffee late at night is much healthier.' Max explains that sure coffee late at night is much healthier, keeping his voice calm and direct.
-- 'Ah, to your place.' Around the coffee and shift, Nastya sets a calm, everyday tone with Max.
-- 'I would love to.' Noting that he would love keeps Max's side of the story simple and clear.
-- 'I adore drinking coffee at night.' Over the coffee and the work, Nastya answers Max without a second thought.
-- 'Which t-shirt do you like me in better?' Questioning whether which shirt do Nastya likes him in better is how Max tests Nastya's story.
-- 'In this one or in that one?' Over the moment and the coffee, Nastya presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What are you two doing in here?' Wondering what Nastya two doing in here is cuts straight through the tension between Max and Nastya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well, yes.' With the dinner and shift in play, Nastya keeps this short reply brisk and direct.
+- 'When it is time to move to the next level.' Nastya adopts a measured course in the room, pairing "kogda" ("when") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
+- 'However, if you want dessert, you have to come to our place.' Max displays a resolute style during the exchange, anchoring the Russian line on "khotite" ("want") and "desert" ("dessert") without extra filler.
+- 'For some people, this comes with great difficulty.' Nastya picks a pointed style across the room, pairing "poluchayetsya" ("works out") with "nekotorykh" ("some, certain") so the "-sya" ending carries the action.
+- 'Sweets late at night.' Max holds a steady line right away, building the phrase around "sladkaya" ("sweet") and "noch" ("night") for a crisp, natural delivery.
+- 'Instead of dessert, let us go to my place and have some coffee.' Nastya picks a direct position in the room, weaving "davayte" ("let's") together with "deserta" ("dessert") just the way native speakers do.
+- 'Oh sure, coffee late at night is much healthier.' Max takes a clear attitude in this beat, joining "kofe" ("of coffee") to "noch" ("night") so every word pulls its weight.
+- 'Ah, to your place.' Nastya maintains a brisk approach as the scene unfolds, putting all the weight on "vam" ("you") so the reply lands immediately.
+- 'I would love to.' Max picks a pointed rhythm in the conversation, pairing "udovolstviyem" ("pleasure") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'I adore drinking coffee at night.' Nastya favors an earnest line as they talk, linking "obozhayu" ("adore"), "kofe" ("of coffee"), and "noch" ("night") in one brisk exchange.
+- 'Which t-shirt do you like me in better?' Max quizzes dryly as they speak, joining "futbolke" ("T-shirt") to "bolshe" ("more") so every word pulls its weight.
+- 'In this one or in that one?' Nastya challenges decisively in the room, weaving "etoy" ("this") together with "ili" ("or") just the way native speakers do.
+- 'What are you two doing in here?' Max questions frankly as the talk turns, pairing "tut" ("here") with "zanimayetes" ("are busy with") to get the point across in plain spoken Russian.
+- 'Well, yes.' Nastya displays a direct tack right away, putting "nu" ("oh, come on") alongside "da" ("yes") in a tight, everyday turn of phrase.

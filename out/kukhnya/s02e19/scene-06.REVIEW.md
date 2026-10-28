@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Вика | Дмитрий Владимирович. | Dmitriy Vladimirovich. | #103: Дмитрий Владимирович | verbatim |
 | 6 | Нагиев | Ваш кофе. | Here is your coffee. | #104: Ваш кофе | verbatim |
 | 7 | Шеф | Че это? | What is this? | #104: Че это | verbatim |
-| 8 | Вика | Я не просил. | I did not ask for this. | #105: Я не просил | verbatim |
+| 8 | Нагиев | Я не просил. | I did not ask for this. | #105: Я не просил | verbatim |
 | 9 | Нагиев | Ах, вот как и я. | Ah, so that is how it is. | #106: Ах, вот как и я | verbatim |
 | 10 | Шеф | Ах, вот как. | Ah, I see now. | #107: Ах, вот как | verbatim |
 | 11 | Вика | Молодец. Глядишь так. | Good job. Keep looking like that. | #108: Молодец. Глядишь так | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, you understand how it is.' Explaining that Nagiyev understands how it is lays the cards on the table for Nagiyev.
-- 'That is why I walk around like this.' Vika mentions that that is why she walks around like this so Barinov sees what is at stake.
-- 'You see, people know me and love me.' With the moment and coffee in play, Nagiyev keeps this short reply brisk and direct.
-- 'That is how it turns out.' Pointing out that that is how it turns out gives Nagiyev a sobering reality check.
-- 'Dmitriy Vladimirovich.' Around the moment and coffee, Vika sets a calm, everyday tone with Barinov.
-- 'Here is your coffee.' Realizing that here is Barinov's coffee changes how Nagiyev handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What is this?' Here wondering what this is shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I did not ask for this.' Even though she did not ask for this, Vika keeps a steady face in front of Barinov.
-- 'Ah, so that is how it is.' Admitting that that is how it is shows Nagiyev being honest for a change.
-- 'Ah, I see now.' Barinov mentions that he sees now so Nagiyev sees what is at stake.
-- 'Good job. Keep looking like that.' By keeping looking like, Vika keeps her side of the story grounded.
-- 'Why, what is wrong?' When Nagiyev asks if why what is wrong, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'By the way, it suits you very well.' With the conversation and coffee in play, Barinov keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Well, you understand how it is.' Barinov projects a pointed style with Nagiyev, pairing "ponimayesh" ("do you understand") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'That is why I walk around like this.' Vika strikes a wry direction with Nagiyev, combining "poetomu" ("that's why") and "khozhu" ("walks") so the key meaning lands right away.
+- 'You see, people know me and love me.' Nagiyev adopts a pointed mood for Barinov, anchoring the Russian line on "vidish" ("see") and "lyudi" ("people") without extra filler.
+- 'That is how it turns out.' Barinov projects a warm angle in this beat, using "poluchayetsya" (from "poluchatsya", "works out") alongside "tak" ("so") to shape the meaning.
+- 'Dmitriy Vladimirovich.' Vika shares a wry attitude across the room, anchoring the Russian line on "dmitriy" ("Dmitry") and "vladimirovich" ("Vladimirovich") without extra filler.
+- 'Here is your coffee.' Nagiyev conveys a lively style toward Vika, joining "kofe" ("of coffee") to "vash" ("your, yours") so every word pulls its weight.
+- 'What is this?' Barinov challenges earnestly across the room, leaning on "che" ("what") before closing the thought with "eto" ("this").
+- 'I did not ask for this.' Nagiyev shows a direct attitude on the spot, using "prosil" (from "prosit", "ask for") alongside "ya" ("I") to shape the meaning.
+- 'Ah, so that is how it is.' Nagiyev adopts a sharp view right away, anchoring the Russian line on "kak" ("how") and "akh" ("ah, oh") without extra filler.
+- 'Ah, I see now.' Barinov displays a candid direction in their talk, weaving "kak" ("how") together with "akh" ("ah, oh") just the way native speakers do.
+- 'Good job. Keep looking like that.' Vika favors a brisk footing at once, joining "molodets" ("well done, good boy") to "glyadish" ("to look, to see") so every word pulls its weight.
+- 'Why, what is wrong?' Nagiyev tests lightly in the room, leaning on "che" ("what") as a compact, one-word response that needs no extra words.
+- 'By the way, it suits you very well.' Barinov holds a pointed style in this beat, linking "kstati" ("by the way"), "ochen" ("very much"), and "idet" ("go, walk") in one brisk exchange.

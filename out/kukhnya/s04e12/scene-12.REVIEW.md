@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Timur, did I wake you up?' Checking whether he wakes Max up is how Barinov puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, everything is fine, what happened?' When Timur asks if everything is fine what happened, Barinov has to answer fast.
-- 'Do you remember you brought me fish today?' By asking whether Max remembers Max brought him fish today, Barinov presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, I remember, and what is wrong with it?' Remembering and what is wrong with it is how Timur puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Could this fish be bad too?' Asking whether this fish be bad is how Timur puts Barinov on the spot.
-- 'Wait, in what sense 'too'?' With the shift and morning hanging in the air, Barinov puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, you did not like the morning fish.' Once Barinov did not like the morning fish, Timur can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So I brought you fresh Norwegian fish.' Adding that he brought Barinov fresh Norwegian fish fills in the missing piece for Barinov.
-- 'I get it illegally through Kazakhstan.' Because he gets it illegally, Timur treats the matter as settled.
-- 'And can you bring the morning batch?' Here checking whether Max brings the morning batch shows Barinov looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That morning Yakutian one, I really need it!' Insisting that that morning Yakutian one he really needs it shows Barinov is not backing down.
-- 'Fine, I will bring it, just do not get worked up.' Timur reminds Barinov that fine he will bring it just do not get worked up before the moment passes. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Yes, Sasha, we are pulling up, where are you?' Max asks whether they are pulling up where are Barinov, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Hello, Timur, did I wake you up?' Barinov questions lightly beside Max, building the phrase around "razbudil" ("to wake up") and "allo" ("hello") for a crisp, natural delivery.
+- 'No, everything is fine, what happened?' Timur challenges firmly to make the point, pairing "normalno" ("fine, OK") with "sluchilos" ("happened") to get the point across in plain spoken Russian.
+- 'Do you remember you brought me fish today?' Barinov inquires boldly to keep things clear, weaving "pomnish" ("do you remember") together with "segodnya" ("today") just the way native speakers do.
+- 'Yes, I remember, and what is wrong with it?' Timur queries honestly to keep things clear, linking "pomnyu" ("remember"), "da" ("yes"), and "chto" ("what") in one brisk exchange.
+- 'Could this fish be bad too?' Timur probes honestly as the beat lands, weaving "ryba" ("fish") together with "tozhe" ("too") just the way native speakers do.
+- 'Wait, in what sense 'too'?' Barinov presses bluntly across the room, putting "podozhdi" ("wait") alongside "smysle" ("sense") in a tight, everyday turn of phrase.
+- 'Well, you did not like the morning fish.' Timur picks a pointed note for Barinov, linking "utrennyaya" ("morning"), "ryba" ("fish"), and "ponravilas" ("pleased") in one brisk exchange.
+- 'So I brought you fresh Norwegian fish.' Timur strikes a sharp tack across the room, joining "privyoz" ("brought") to "svezhuyu" ("fresh") so every word pulls its weight.
+- 'I get it illegally through Kazakhstan.' Timur brings a direct rhythm as the scene unfolds, combining "kazakhstan" ("kazakhstan") and "nelegalno" ("kazakhstan") so the key meaning lands right away.
+- 'And can you bring the morning batch?' Barinov queries calmly in their exchange, putting "mozhesh" ("can") alongside "privezti" ("to bring") in a tight, everyday turn of phrase.
+- 'That morning Yakutian one, I really need it!' Barinov adopts a natural line without hesitation, pairing "utrennyuyu" ("morning") with "yakutskuyu" ("really") to get the point across in plain spoken Russian.
+- 'Fine, I will bring it, just do not get worked up.' Timur picks a wry note in this beat, using "privezu" (from "privezti", "will bring") alongside "tolko" ("only") to shape the meaning.
+- 'Yes, Sasha, we are pulling up, where are you?' Max prompts promptly as they speak, anchoring the Russian line on "podyezzhayem" ("drive up, approach") and "gde" ("where") without extra filler.

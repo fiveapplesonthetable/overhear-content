@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to introduce a new menu.' Needing to introduce a new menu moves the conversation forward without extra drama.
-- 'I have seen it, it works wonderfully.' Because he has seen it it works wonderfully, Nagiyev treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dima, let's step aside for a minute.' Stepping aside for a minute together moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'What are you holding there in your hands?' By wondering what Barinov holding there in Barinov's hands is, Nagiyev presses Barinov for a straight answer.
-- 'Vitya, are you playing games?' Asking whether Barinov playing games cuts straight through the tension between Nagiyev and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Speak, I have no secrets from colleagues.' Adding that Barinov should speak he has no secrets from colleagues fills in the missing piece for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Dima, we have a big problem.' Explaining that they have a big problem lays the cards on the table for Nagiyev.
-- 'You have warmed a snake on your chest.' Barinov explains that Nagiyev has warmed a snake on Nagiyev's chest, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'My ex-wife is far away right now.' Realizing that his ex wife is far away right now changes how Nagiyev handles the situation.
-- 'I am talking about your German.' Barinov explains that he is talking about Nagiyev's German, keeping his voice calm and direct.
-- 'Take a look at this yourself.' Since Nagiyev should take a look at this themselves, Barinov does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well go on, show me the video.' Telling Barinov to go on show him the video is how Nagiyev lays out the situation for Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'We need to introduce a new menu.' Nagiyev sets a calm view across the room, weaving "nado" ("it is necessary") together with "vvesti" ("to introduce") just the way native speakers do.
+- 'I have seen it, it works wonderfully.' Nagiyev maintains a grounded course toward Barinov, leaning on "videl" ("saw, have seen") before closing the thought with "prekrasno" ("perfectly").
+- 'Dima, let's step aside for a minute.' Barinov strikes a brisk rhythm as they talk, building the phrase around "davay" ("let's") and "otoydyom" ("to step back") for a crisp, natural delivery.
+- 'What are you holding there in your hands?' Nagiyev tests openly without holding back, putting "tam" ("there") alongside "rukakh" ("hands") in a tight, everyday turn of phrase.
+- 'Vitya, are you playing games?' Nagiyev tests naturally without holding back, leaning on "igry" ("games") before closing the thought with "igrayesh" ("to play").
+- 'Speak, I have no secrets from colleagues.' Nagiyev keeps a steady angle in this beat, anchoring the Russian line on "govori" ("say, talk") and "kolleg" ("colleagues") without extra filler.
+- 'Dima, we have a big problem.' Barinov projects an honest view in this beat, joining "bolshaya" ("large") to "problema" ("problem") so every word pulls its weight.
+- 'You have warmed a snake on your chest.' Barinov favors a warm position during the exchange, linking "zmeyu" ("snake"), "prigrel" ("to chest"), and "ty" ("you") in one brisk exchange.
+- 'My ex-wife is far away right now.' Nagiyev holds an emphatic tone on the spot, using "byvshaya" (from "byvshiy", "former") alongside "zhena" ("wife") to shape the meaning.
+- 'I am talking about your German.' Barinov shows an emphatic posture with Nagiyev, using "govoryu" (from "govorit", "am telling") alongside "germana" ("german") to shape the meaning.
+- 'Take a look at this yourself.' Barinov picks a sharp tack straight away, pairing "posmotri" ("look") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Well go on, show me the video.' Nagiyev conveys a serious view for Barinov, joining "davay" ("let's") to "pokazhi" ("show") so every word pulls its weight.

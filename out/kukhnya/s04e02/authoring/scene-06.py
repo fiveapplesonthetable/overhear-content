@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 INTRO = "Inside the kitchen of Claude Monet, sous-chef Lyova tries to maintain order until Viktor Barinov walks in pretending his firing was just a brief quarrel with Nagiyev. Let's hear the Russian dialogue first."
 OPENER = "Now let's walk through the Russian dialogue together."
 TRANSITION = "Let's hear the entire conversation one more time from start to finish."
-OUTRO = "That wraps up Viktor's failed attempt to pretend he wasn't fired. Notice how Russian reflexive verbs capture losing one's temper or freezing in place. See you next time!"
+OUTRO = "That wraps up Viktor's failed attempt to pretend he wasn't fired. Notice how Russian everyday expressions capture losing one's temper or freezing in place. See you next time!"
 CLOSING = ('nagiyev', 'Увидимся!')
 STORY = [
     ('lyova', 'Я всем шутникам работу найду.', 'I will find work for all the jokers here.', [(69, 'я всем шутникам работу найду.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'На днях будет новый шеф. А ты уходи.', 'In a few days there will be a new chef. And you leave.', [(85, 'На днях будет новый шеф.'), (86, 'А ты уходи.')], ''),
 ]
 WALK = [
-    (0, None, "'I will find work for all the jokers here.' Once he will find work for all the jokers here, Lyova can finally tell Barinov what he means."),
-    (1, None, "'Lavrov, get on vegetable prep.' Lyova explains that Barinov should get on vegetable prep, keeping his voice calm and direct."),
-    (2, None, '\'That is an order.\' Saying that that is an order is how Lyova sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (3, None, "'Good morning!' With the order and plan at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (4, None, "'Why are you frozen there, seals?' Asking why Lyova frozen there seals is is how Barinov puts Lyova on the spot."),
-    (5, None, '\'Chef, what about yesterday though?\' Over the moment and the order, Lyova presses Barinov for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (6, None, '\'And you believed it. Well, I acted foolishly.\' Over the conversation and the order, Barinov answers Lyova without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (7, None, "'Dima lost his temper. It happens to everyone.' Explaining that Dima lost his temper lays the cards on the table for Lyova."),
-    (8, None, "'He is not foolish enough to fire me.' Noting that he is not foolish enough to fire him keeps Barinov's side of the story simple and clear."),
-    (9, None, "'Quite a fool indeed.' Around the work and order, Nagiyev sets a calm, everyday tone with Barinov."),
-    (10, None, "'Why are we standing around? Get to work.' By asking why they standing around are, Nagiyev presses Barinov for a straight answer."),
-    (11, None, '\'In a few days there will be a new chef. And you leave.\' Nagiyev explains that in a few days there will be a new, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (0, None, '\'I will find work for all the jokers here.\' Lyova sustains an honest note in the conversation, building the phrase around "shutnikam" ("to the pranksters") and "rabotu" ("job") for a crisp, natural delivery.'),
+    (1, None, '\'Lavrov, get on vegetable prep.\' Lyova brings a measured line in their talk, pairing "zagotovki" ("preparation") with "lavrov" ("Lavrov") to get the point across in plain spoken Russian.'),
+    (2, None, '\'That is an order.\' Lyova chooses a serious view as they talk, anchoring the Russian line on "prikaz" ("the order") and "eto" ("this") without extra filler.'),
+    (3, None, '\'Good morning!\' Barinov keeps a resolute tack during the exchange, putting "dobroye" ("good") alongside "utro" ("morning") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Why are you frozen there, seals?\' Barinov asks lightly in the room, joining "zastyli" ("frozen") to "tyuleni" ("seals") so every word pulls its weight.'),
+    (5, None, '\'Chef, what about yesterday though?\' Lyova asks firmly to keep things clear, pairing "vchera" ("yesterday") with "shef" ("Chef") to get the point across in plain spoken Russian.'),
+    (6, None, '\'And you believed it. Well, I acted foolishly.\' Barinov picks a wry rhythm during the exchange, anchoring the Russian line on "poverili" ("believed") and "sglupil" ("to foolishly") without extra filler.'),
+    (7, None, '\'Dima lost his temper. It happens to everyone.\' Barinov adopts an emphatic tempo in this beat, pairing "pogoryachilsya" ("to lost") with "byvayet" ("there can be") to get the point across in plain spoken Russian.'),
+    (8, None, '\'He is not foolish enough to fire me.\' Barinov brings a brisk direction in this beat, anchoring the Russian line on "durak" ("fool, idiot") and "uvolit" ("to fire") without extra filler.'),
+    (9, None, '\'Quite a fool indeed.\' Nagiyev takes an earnest view without hesitation, combining "yeshchyo" ("more, still") and "durak" ("fool, idiot") so the key meaning lands right away.'),
+    (10, None, '\'Why are we standing around? Get to work.\' Nagiyev presses wryly across the room, combining "stoim" ("to stand") and "rabotayem" ("we work, let\'s work") so the key meaning lands right away.'),
+    (11, None, '\'In a few days there will be a new chef. And you leave.\' Nagiyev sets a sharp bearing in their talk, putting "dnyakh" ("days") alongside "budet" ("will be") in a tight, everyday turn of phrase.'),
 ]

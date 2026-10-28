@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 INTRO = "In the kitchen during the early breakfast rush, Chef Barinov pushes his sleepy cooks while manager Mikhail Dzhekovich explains how a 'secret guest' inspects every department of a hotel. Listen to the exchange."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that explains the secret shopper tradition in hospitality. Notice how the present active participle 'proveryayushchiy' functions as a noun meaning 'the inspector'. See you next time!"
+OUTRO = "And that explains the secret shopper tradition in hospitality. Notice how the descriptive word 'proveryayushchiy' functions as a word meaning 'the inspector'. See you next time!"
 CLOSING = ('barinov', 'До завтра!')
 STORY = [
     ('senya', 'Я сегодня на работе поем.', 'I will eat at work today.', [(11, 'На работе поем')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('mikhail', 'Он проверяет работу всех служб отеля.', 'He inspects the work of all hotel departments.', [(21, 'проверяет'), (21, 'всех служб отеля')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'I will eat at work today.' Saying that he will eat at work today is how Senya sets the tone with Barinov."),
-    (1, None, "'Livelier, livelier, let's work!' Declaring that livelier livelier let them work brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (2, None, "'Come on, wake up faster.' Because Mikhail should come on wake up faster, Barinov treats the matter as settled."),
-    (3, None, '\'A bit faster, well, where is our bacon?\' Asking whether a bit faster well where is their bacon puts Mikhail right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (4, None, "'We are frying, frying our bacon.' Claiming that they are frying frying their bacon sounds confident, even if Barinov has doubts."),
-    (5, None, "'Wake up everyone, morning has already arrived.' Because Mikhail should wake up everyone morning has already arrived, Barinov treats the matter as settled."),
-    (6, None, '\'What did you lose in my kitchen?\' By wondering what Mikhail loses in his kitchen, Barinov presses Mikhail for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, '\'I am doing your job for you.\' Realizing that he is doing Barinov\'s job for Barinov changes how Mikhail handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, "'Who is this secret guest?' Wondering who this secret guest is is how Barinov puts Mikhail on the spot."),
-    (9, None, '\'It is a method of inspection in a hotel.\' Even though it is a method of inspection in a hotel, Mikhail keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (10, None, "'The inspector stays here like an ordinary guest.' Admitting that the inspector stays here like an ordinary guest shows Mikhail being honest for a change."),
-    (11, None, "'He inspects the work of all hotel departments.' With the morning and secret in play, Mikhail keeps this short reply brisk and direct."),
+    (0, None, '\'I will eat at work today.\' Senya conveys a playful view right away, putting "segodnya" ("today") alongside "rabote" ("work") in a tight, everyday turn of phrase.'),
+    (1, None, '\'Livelier, livelier, let\'s work!\' Barinov shows a calm stance in the room, anchoring the Russian line on "zhiveye" ("faster, more lively") and "rabotayem" ("we work, let\'s work") without extra filler.'),
+    (2, None, '\'Come on, wake up faster.\' Barinov conveys a brisk approach on the spot, pairing "davayte" ("let\'s") with "bystreye" ("faster") to get the point across in plain spoken Russian.'),
+    (3, None, '\'A bit faster, well, where is our bacon?\' Barinov checks boldly during the talk, leaning on "pobystreye" ("faster, more quickly") before closing the thought with "gde" ("where").'),
+    (4, None, '\'We are frying, frying our bacon.\' Senya offers a firm approach right away, weaving "zharim" ("we fry") together with "bekon" ("bacon") just the way native speakers do.'),
+    (5, None, '\'Wake up everyone, morning has already arrived.\' Barinov takes an earnest course in front of Senya, anchoring the Russian line on "prosnulis" ("woke up") and "utro" ("morning") without extra filler.'),
+    (6, None, '\'What did you lose in my kitchen?\' Barinov tests evenly with Mikhail now, pairing "zabyl" ("forgot") with "kukhne" ("kitchen") to get the point across in plain spoken Russian.'),
+    (7, None, '\'I am doing your job for you.\' Mikhail favors a steady tone without hesitation, using "delayu" (from "delat", "I make") alongside "rabotu" ("job") to shape the meaning.'),
+    (8, None, '\'Who is this secret guest?\' Barinov prompts boldly right away, combining "taynyy" ("secret, undercover") and "gost" ("guest") so the key meaning lands right away.'),
+    (9, None, '\'It is a method of inspection in a hotel.\' Mikhail picks an emphatic rhythm with Senya, leaning on "sposob" ("a way, a method") before closing the thought with "proverki" ("check, inspection").'),
+    (10, None, '\'The inspector stays here like an ordinary guest.\' Mikhail offers an emphatic note at once, joining "proveryayushchiy" ("inspector") to "zhivyot" ("lives") so every word pulls its weight.'),
+    (11, None, '\'He inspects the work of all hotel departments.\' Mikhail projects a serious angle toward Senya, linking "proveryayet" ("is testing"), "rabotu" ("job"), and "sluzhb" ("of services") in one brisk exchange.'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well what, has he not come out of the office yet?' Asking whether what has he not come out of the office yet puts the guest right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Wait, look, is that not him walking over there by chance?' Asking whether that not him walking over there by chance is how Senya puts Denis on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hey, stop right there, we want to talk!' By stopping right there they want to talk, Denis raises the stakes in the room at once.
-- 'Hold him tighter, quiet, that is it, calm down right now!' Senya insists that Denis should hold him tighter quiet that is it calm down right now, leaving Denis no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Quiet, get up calmly on your feet, we are not fighting.' Realizing that quiet get up calmly on the guest's feet they are not fighting changes how Denis handles the situation.
-- 'Did you seriously run over here just to talk with me?' Checking whether Denis seriously run over here just to talk with him is how the guest puts Denis on the spot.
-- 'Listen to me, there is nothing between Sveta and me.' Even though to him there is nothing between Sveta and him, Denis keeps a steady face in front of the guest. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I am speaking seriously, she and I are just friends.' Denis mentions that he is speaking seriously she and he are just friends so the guest sees what is at stake.
-- 'And you two are a great couple, be together.' Saying that the guest two are a great couple be together is how Denis sets the tone with the guest.
-- 'Guys, what is with you, Sveta is my own sister!' The guest insists that what is with Denis Sveta is his own sister, leaving Denis no room to argue. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Wait, how is she your own sister?' Here asking how she Denis's own sister is shows Senya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Then why did you hit me in the courtyard this morning?' By wondering why the guest hits him in the courtyard this morning, Denis presses the guest for a straight answer.
+- 'Well what, has he not come out of the office yet?' Denis presses lightly beside the guest, putting "yeshchyo" ("more, still") alongside "vykhodil" ("walked out") in a tight, everyday turn of phrase.
+- 'Wait, look, is that not him walking over there by chance?' Senya checks firmly without hesitation, leaning on "podozhdi" ("wait") before closing the thought with "smotri" ("look").
+- 'Hey, stop right there, we want to talk!' Denis shows a direct style in this beat, building the phrase around "stoy" ("stop, wait") and "meste" ("place") for a crisp, natural delivery.
+- 'Hold him tighter, quiet, that is it, calm down right now!' Senya presents an earnest rhythm right away, leaning on "derzhi" ("here you go") before closing the thought with "krepche" ("tighter").
+- 'Quiet, get up calmly on your feet, we are not fighting.' Denis favors a thoughtful attitude toward the guest, linking "tikho" ("easy, quiet"), "vstavay" ("get up, stand up"), and "spokoyno" ("calmly") in one brisk exchange.
+- 'Did you seriously run over here just to talk with me?' The guest prompts briskly without a pause, combining "seryozno" ("seriously") and "pribezhali" ("came running") so the key meaning lands right away.
+- 'Listen to me, there is nothing between Sveta and me.' Denis takes an honest style without hesitation, building the phrase around "slushay" ("listen") and "menya" ("me") for a crisp, natural delivery.
+- 'I am speaking seriously, she and I are just friends.' Denis chooses a candid bearing without hesitation, combining "govoryu" ("am telling") and "seryozno" ("seriously") so the key meaning lands right away.
+- 'And you two are a great couple, be together.' Denis holds an easygoing bearing at this moment, weaving "otlichnaya" ("excellent") together with "para" ("a match, a pair") just the way native speakers do.
+- 'Guys, what is with you, Sveta is my own sister!' The guest favors a frank tone as they talk, placing "parni" ("guys, boys") straight beside "sveta" ("electricity") with no word for "to be" needed.
+- 'Wait, how is she your own sister?' Senya tests calmly for Denis's benefit, weaving "podozhdi" ("wait") together with "kak" ("how") just the way native speakers do.
+- 'Then why did you hit me in the courtyard this morning?' Denis asks quietly to make the point, pairing "zachem" ("what for") with "togda" ("back then") to get the point across in plain spoken Russian.

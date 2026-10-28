@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well that is it, pal, you are trapped now.' Adding that that is it pal Barinov is trapped now fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why am I suddenly trapped?' Around the point and breakup, Max wants to know where Barinov really stands.
-- 'Our Chef breaks up with a woman.' Since their Chef breaks up with a woman, Senya does not waste words on excuses.
-- 'Then he sinks into a deep sadness.' With the phone and point in play, Senya keeps this short reply brisk and direct.
-- 'He gets very bored being alone there.' Senya reminds Barinov that he gets very bored being alone there before the moment passes.
-- 'Stop lecturing me, I am working.' Here telling Barinov to stop lecturing him he is working sets up the next turn in their exchange.
-- 'The next stage of friendship awaits you.' With the kitchen and phone in play, Senya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Buddy, I really need you right now.' Barinov mentions that buddy he really needs Max right now so Max sees what is at stake.
-- 'Chef, it is the middle of the night right now.' Claiming that it is the middle of the night right now sounds confident, even if Barinov has doubts.
-- 'Take a taxi and come to me.' Taking a taxi and come to him moves the conversation forward without extra drama.
-- 'This is a matter of life and death.' Barinov explains that this is a matter of life and death, keeping his voice calm and direct.
-- 'Alright, Chef, I am heading out now.' Realizing that Alright Chef he is heading out now changes how Max handles the situation.
+- 'Well that is it, pal, you are trapped now.' Senya projects an easygoing mood in this beat, pairing "paren" ("boyfriend") with "popal" ("hit") to get the point across in plain spoken Russian.
+- 'Why am I suddenly trapped?' Max presses directly in this moment, putting "vdrug" ("suddenly, what if") alongside "popal" ("hit") in a tight, everyday turn of phrase.
+- 'Our Chef breaks up with a woman.' Senya projects a pointed tempo in front of Barinov, using "rasstayotsya" (from "rasstavatsya", "breaks up, parts ways") alongside "zhenshchinoy" ("a woman") to shape the meaning.
+- 'Then he sinks into a deep sadness.' Senya strikes a calm angle as the scene unfolds, joining "potom" ("then") to "ukhodit" ("leaves") so every word pulls its weight.
+- 'He gets very bored being alone there.' Senya keeps an easygoing tempo in the room, building the phrase around "tam" ("there") and "ochen" ("very much") for a crisp, natural delivery.
+- 'Stop lecturing me, I am working.' Max shares a direct posture on the spot, putting "khvatit" ("enough") alongside "lechit" ("to lecture") in a tight, everyday turn of phrase.
+- 'The next stage of friendship awaits you.' Senya displays a brisk approach in front of Barinov, leaning on "zhdyot" ("is waiting") before closing the thought with "sleduyushchaya" ("next, following").
+- 'Buddy, I really need you right now.' Barinov sustains an honest manner at this moment, linking "druzhishche" ("buddy"), "ochen" ("very much"), and "nuzhen" ("is needed") in one brisk exchange.
+- 'Chef, it is the middle of the night right now.' Max displays an earnest view in front of Barinov, weaving "seychas" ("now") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Take a taxi and come to me.' Barinov chooses a warm attitude across the room, putting "beri" ("take, grab") alongside "taksi" ("taxi") in a tight, everyday turn of phrase.
+- 'This is a matter of life and death.' Barinov establishes a clear footing in the scene, pairing "delo" ("matter") with "zhizni" ("life") to get the point across in plain spoken Russian.
+- 'Alright, Chef, I am heading out now.' Max favors a resolute posture with Senya, linking "khorosho" ("good, fine"), "uzhe" ("already, now"), and "vyyezzhayu" ("am driving out") in one brisk exchange.

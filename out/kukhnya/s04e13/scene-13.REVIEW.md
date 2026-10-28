@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone remember once and for all!' Around the moment and party, Vika makes her point loud and clear.
-- 'Everything in my life is great.' Vika mentions that everything in her life is great so Barinov sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Take your flowers back and leave!' By taking Barinov's flowers back and leave, Vika raises the stakes in the room at once. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'A courier brought this bouquet, not you?' When Vika asks if a courier brought this bouquet not Barinov, Barinov has to answer fast.
-- 'Chef, I have important information again.' Pointing out that he has important information again gives Barinov a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'About Katya again, speak quickly!' With the conversation and party at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Tonight at Monet there is a dog party.' Noting that tonight at Monet there is a dog party keeps Senya's side of the story simple and clear.
-- 'A rich lady is throwing a banquet for her little dog.' Even though a rich lady is throwing a banquet for her little dog, Senya keeps a steady face in front of Barinov.
-- 'And what does my Katya have to do with this?' By wondering what his Katya have to do with this, Barinov presses Senya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'They appointed Katya responsible for this banquet.' Around the conversation and party, Senya sets a calm, everyday tone with Barinov.
-- 'Get out of here if you have nothing useful!' Getting out of here if Senya has nothing useful shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello, Timur, do you remember your debt?' Here checking whether Senya remembers Senya's debt shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Everyone remember once and for all!' Vika sustains a resolute attitude during the exchange, joining "zapomnite" ("remember") to "raz" ("time, once") so every word pulls its weight.
+- 'Everything in my life is great.' Vika pushes back boldly in their exchange, using the everyday "u menya" ("by me") alongside "zhizni" ("life") to show what belongs to the speaker.
+- 'Take your flowers back and leave!' Vika displays an honest tone in this beat, combining "zaberite" ("take away") and "tsvety" ("the flowers") so the key meaning lands right away.
+- 'A courier brought this bouquet, not you?' Vika presses openly as they speak, building the phrase around "buket" ("bouquet") and "prinyos" ("brought") for a crisp, natural delivery.
+- 'Chef, I have important information again.' Senya takes a thoughtful attitude in the conversation, leaning on "snova" ("again") before closing the thought with "vazhnaya" ("important").
+- 'About Katya again, speak quickly!' Barinov sustains a frank posture straight away, linking "opyat" ("again"), "govori" ("say, talk"), and "skoreye" ("quickly, right away") in one brisk exchange.
+- 'Tonight at Monet there is a dog party.' Senya keeps an earnest view across the room, building the phrase around "segodnya" ("today") and "vecherom" ("in the evening") for a crisp, natural delivery.
+- 'A rich lady is throwing a banquet for her little dog.' Senya displays a firm position in the room, pairing "bogataya" ("rich, wealthy") with "dama" ("lady") to get the point across in plain spoken Russian.
+- 'And what does my Katya have to do with this?' Barinov questions candidly in their exchange, anchoring the Russian line on "zdes" ("here") and "pri" ("in the presence of") without extra filler.
+- 'They appointed Katya responsible for this banquet.' Senya adopts an easygoing tack as the scene unfolds, leaning on "naznachili" ("scheduled, prescribed") before closing the thought with "otvetstvennoy" ("responsible").
+- 'Get out of here if you have nothing useful!' Barinov sets a frank direction at once, combining "ukhodi" ("go away") and "otsyuda" ("from here") so the key meaning lands right away.
+- 'Hello, Timur, do you remember your debt?' Barinov queries sharply at this point, pairing "pomnish" ("do you remember") with "dolg" ("debt") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We all dream about having a happy ending.' With the plan and news in play, Max keeps this short reply brisk and direct.
-- 'Unfortunately.' Over the plan and the news, Kostya answers Max without a second thought.
-- 'In real life it does not always happen.' Nastya reminds Kostya that in real life it does not always happen before the moment passes.
-- 'And not for everyone.' With the room and news in play, Max keeps this short reply brisk and direct.
-- 'While someone else thinks their happy ending has already arrived.' Explaining that while someone else thinks their happy ending has already arrived lays the cards on the table for Max.
-- 'That the happy ending is already here.' Nastya mentions that that the happy ending is already here so Kostya sees what is at stake.
-- 'It looks like we are going to have a baby.' Claiming that it looks like they are going to have a baby sounds confident, even if Kostya has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And to someone else it only seems that way.' Pointing out that to someone else it only seems that way gives Max a sobering reality check.
-- 'Keep fighting for your happy ending.' Noting that Kostya should keep fighting for Kostya's happy ending keeps Nastya's side of the story simple and clear.
-- 'And now for an important announcement.' With the news and room in play, Max keeps this short reply brisk and direct.
-- 'From now on, a new waiter will be working on your shift.' Noting that from now on a new waiter will be working on Max's shift keeps Kostya's side of the story simple and clear.
-- 'Maxim Lavrov.' Over the news and the room, Nastya answers Kostya without a second thought.
+- 'We all dream about having a happy ending.' Max sustains a resolute posture in this beat, linking "mechtayem" ("to dream"), "kheppi-ende" ("happy ending"), and "my" ("we") in one brisk exchange.
+- 'Unfortunately.' Kostya takes a pointed view in front of Nastya, putting all the weight on "sozhaleniyu" ("regret") so the reply lands immediately.
+- 'In real life it does not always happen.' Nastya maintains a lively line as they talk, anchoring the Russian line on "zhizni" ("life") and "sluchayetsya" ("to happen, occur") without extra filler.
+- 'And not for everyone.' Max favors an earnest direction in the scene, joining "ne" ("not") to "vsekh" ("all") so every word pulls its weight.
+- 'While someone else thinks their happy ending has already arrived.' Kostya projects a natural direction in the scene, using "dumayet" (from "dumat", "thinks") alongside "kheppi-end" ("happy ending") to shape the meaning.
+- 'That the happy ending is already here.' Nastya picks a sharp tone right away, pairing "kheppi-end" ("happy ending") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
+- 'It looks like we are going to have a baby.' Max presents a brisk tempo in this beat, anchoring the Russian line on "pokhozhe" ("like, similar") and "budet" ("will be") without extra filler.
+- 'And to someone else it only seems that way.' Kostya picks a serious tone beside Nastya, joining "kazhetsya" ("it seems, I think") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Keep fighting for your happy ending.' Nastya sustains a measured angle in this beat, combining "borites" ("to fight, struggle") and "kheppi-end" ("happy ending") so the key meaning lands right away.
+- 'And now for an important announcement.' Max takes an honest style in front of Nastya, using "vazhnoye" (from "vazhnyy", "important") alongside "soobshcheniye" ("message") to shape the meaning.
+- 'From now on, a new waiter will be working on your shift.' Kostya favors a warm line on the spot, pairing "otnyne" ("from now on") with "smene" ("shift") to get the point across in plain spoken Russian.
+- 'Maxim Lavrov.' Nastya shows a resolute direction on the spot, joining "maksim" ("Maksim") to "lavrov" ("Lavrov") so every word pulls its weight.

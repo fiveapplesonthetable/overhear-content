@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, guys, let us do this.' Because Sasha should come on guys let them do this, Kostya treats the matter as settled.
-- 'Who has not chipped in yet, guys?' When Sasha asks if who has not chipped in yet guys, Kostya has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We are still coming up short.' Senya explains that they are still coming up short, keeping his voice calm and direct.
-- 'Who has not chipped in?' Asking whether who has not chipped puts Sasha right on the defensive.
-- 'You have not chipped in.' Noting that Kostya has not chipped keeps Sasha's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh, right, that is true.' Even though right that is true, Senya keeps a steady face in front of Kostya.
-- 'Senka has sailed his last boat.' Admitting that someone has sailed his last boat shows Kostya being honest for a change.
-- 'Farewell, Senka.' With the plan and point in play, Sasha keeps this short reply brisk and direct.
-- 'Kostya, those are not my panties.' Once those are not his panties, Senya can finally tell Kostya what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Have you seen mine?' By checking whether Sasha seen, Kostya presses Sasha for a straight answer.
-- 'Were you the one hanging laundry in the bathroom?' Asking whether Kostya the one hanging laundry in the bathroom cuts straight through the tension between Sasha and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Listen, Sasha, do you know where my shorts are?' Checking whether Kostya knows where his shorts are is how Senya puts Kostya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Can you imagine, all of your things fit right in here.' Mentioning that can Sasha imagines all of Sasha's things fit right in here moves the talk in a new direction.
+- 'Come on, guys, let us do this.' Kostya establishes an easygoing note in the room, linking "rebyat" ("kids, guys"), "davayte" ("let's"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Who has not chipped in yet, guys?' Sasha quizzes firmly across the room, leaning on "sdal" ("gave up, ratted out") before closing the thought with "rebyata" ("the boys, the lads").
+- 'We are still coming up short.' Senya strikes a candid footing straight away, building the phrase around "nabirayetsya" ("to gather, accumulate") and "chto-to" ("somehow") for a crisp, natural delivery.
+- 'Who has not chipped in?' Kostya quizzes plainly in this moment, building the phrase around "sdal" ("gave up, ratted out") and "kto" ("who") for a crisp, natural delivery.
+- 'You have not chipped in.' Sasha offers an honest approach in the room, linking "sdal" ("gave up, ratted out"), "ty" ("you"), and "ne" ("not") in one brisk exchange.
+- 'Oh, right, that is true.' Senya chooses a steady tack for Sasha, linking "tochno" ("definitely") directly with "da" ("yes"), since Russian drops "is" and "are" in the present.
+- 'Senka has sailed his last boat.' Kostya strikes a clear mood in the scene, using "otborozdil" (from "otborozdit", "to sail across") alongside "barkasu" ("launch, boat") to shape the meaning.
+- 'Farewell, Senka.' Sasha establishes a serious tone straight away, leaning on "proshchay" ("farewell") before closing the thought with "senka" ("Senya").
+- 'Kostya, those are not my panties.' Senya displays a grounded bearing without hesitation, building the phrase around "kost" ("bones") and "trusiki" ("briefs, underwear") for a crisp, natural delivery.
+- 'Have you seen mine?' Kostya questions lightly toward Senya here, weaving "videla" ("saw") together with "ty" ("you") just the way native speakers do.
+- 'Were you the one hanging laundry in the bathroom?' Sasha queries naturally as the talk turns, leaning on "tam" ("there") before closing the thought with "razveshivala" ("to hang up").
+- 'Listen, Sasha, do you know where my shorts are?' Senya presses firmly to Sasha here, weaving "slushay" ("listen") together with "znayesh" ("know") just the way native speakers do.
+- 'Can you imagine, all of your things fit right in here.' Kostya presents a warm mood in front of Sasha, putting "predstavlyayesh" ("can you imagine") alongside "veshchi" ("things") in a tight, everyday turn of phrase.

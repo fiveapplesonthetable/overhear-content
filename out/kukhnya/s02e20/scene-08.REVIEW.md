@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, are you even listening?' Asking whether Kostya even listening is how Barinov puts Kostya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, yes, of course.' With the shift and wedding in play, Kostya keeps this short reply brisk and direct.
-- 'Are there any problems?' By checking whether there any problems, Barinov presses Kostya for a straight answer.
-- 'No, no, please continue.' Over the shift and the wedding, Kostya answers Barinov without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What do we have next on the list?' Wondering what they have next on the list is how Barinov puts Kostya on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We are keeping that. Turbot.' Kostya mentions that they are keeping so Barinov sees what is at stake.
-- 'Yes, I understood everything.' Claiming that he understood everything sounds confident, even if Kostya has doubts.
-- 'I am the head chef, I memorized all of it.' Mentioning that he is the head he memorized all of it moves the talk in a new direction.
-- 'See you very soon.' Telling Kostya to see Kostya very soon moves the conversation forward without extra drama.
-- 'Do not worry at all.' Realizing that do not worry at all changes how Kostya handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'He will remember everything.' Noting that he will remember everything keeps Barinov's side of the story simple and clear.
-- 'He has a memory like that animal.' Admitting that he has a memory like that animal shows Kostya being honest for a change.
-- 'A memory like an elephant.' Between the moment and the banquet, Barinov gives Kostya a quick, grounded response.
+- 'Vitya, are you even listening?' Barinov tests firmly to keep things clear, using "bit" (from "bityy", "beaten, smashed") alongside "slushayesh" ("are listening to") to shape the meaning.
+- 'Yes, yes, of course.' Kostya presents a serious manner straight away, leaning on "da" ("yes") as a compact, one-word response that needs no extra words.
+- 'Are there any problems?' Barinov challenges honestly toward Kostya here, pairing "problemy" ("problems") with "kakiye-to" ("some kind of") to get the point across in plain spoken Russian.
+- 'No, no, please continue.' Kostya presents a pointed posture beside Barinov, pairing "prodolzhayte" ("to continue") with "net" ("no") to get the point across in plain spoken Russian.
+- 'What do we have next on the list?' Barinov wonders bluntly in front of Kostya, weaving "dalshe" ("next, go on") together with "chto" ("what") just the way native speakers do.
+- 'We are keeping that. Turbot.' Kostya chooses a warm manner in the conversation, combining "ostavlyayem" ("to leave") and "churbo" ("blockhead") so the key meaning lands right away.
+- 'Yes, I understood everything.' Barinov adopts a resolute posture at this moment, leaning on "ponyal" ("understood") before closing the thought with "da" ("yes").
+- 'I am the head chef, I memorized all of it.' Kostya displays a thoughtful rhythm at once, anchoring the Russian line on "zapomnil" ("to remember") and "ya" ("I") without extra filler.
+- 'See you very soon.' Barinov favors an honest rhythm on the spot, using "skoroy" (from "skoraya", "ambulance") alongside "vstrechi" ("meeting, next time") to shape the meaning.
+- 'Do not worry at all.' Kostya favors an emphatic manner in the room, joining "volnuytes" ("worry") to "vy" ("you") so every word pulls its weight.
+- 'He will remember everything.' Barinov shares a candid line without hesitation, weaving "zapomnit" ("will remember") together with "vse" ("all") just the way native speakers do.
+- 'He has a memory like that animal.' Kostya establishes a measured manner at this moment, linking "pamyat" ("memory"), "kak" ("how"), and "etogo" ("that") in one brisk exchange.
+- 'A memory like an elephant.' Barinov presents a sharp manner without hesitation, building the phrase around "pamyat" ("memory") and "kak" ("how") for a crisp, natural delivery.

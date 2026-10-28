@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, wait a second, hold on, stop.' With the call and hospital in play, Sasha keeps this short reply brisk and direct.
-- 'I will sort everything out.' Pointing out that he will sort everything out gives Sasha a sobering reality check.
-- 'Really. Okay?' With the apartment and conversation hanging in the air, Sasha puts Max on the spot.
-- 'Well, what have you decided?' When Max asks if what have Sasha decided, Sasha has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So go on, move back in, everything is fine.' Telling Max to go on move back in everything is fine is how Sasha lays out the situation for Max. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Still, I have decided to move out.' Even though still she has decided to move out, Sasha keeps a steady face in front of Max.
-- 'Oh, well, up to you.' With the call and work in play, Sasha keeps this short reply brisk and direct.
-- 'Why am I calling?' Over the money and the conversation, Max presses Sasha for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A young man came by here the other day.' Once a young man came by here the other day, Sasha can finally tell Max what she means.
-- 'He was asking about you.' Adding that he was asking about Sasha fills in the missing piece for Sasha. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'He seemed rather suspicious to me.' Between the hospital and the kitchen, Sasha gives Max a quick, grounded response.
-- 'You do not need to worry about any of this.' Since Sasha does not need to worry about any of this, Max does not waste words on excuses.
-- 'All right then, goodbye.' Around the hospital and conversation, Sasha sets a calm, everyday tone with Max.
+- 'Listen, wait a second, hold on, stop.' Sasha sustains a frank note in the room, using "slushay" (from "slushat", "listen") alongside "pogodi" ("wait") to shape the meaning.
+- 'I will sort everything out.' Max sets a resolute manner in the scene, putting "reshu" ("I'll solve") alongside "no" ("but") in a tight, everyday turn of phrase.
+- 'Really. Okay?' Sasha challenges firmly to Max here, joining "pravda" ("honestly") to "ladno" ("all right") so every word pulls its weight.
+- 'Well, what have you decided?' Max tests lightly at this point, combining "nadumala-to" ("to think up") and "nu" ("oh, come on") so the key meaning lands right away.
+- 'So go on, move back in, everything is fine.' Sasha brings a brisk footing straight away, linking "davay" ("let's"), "vozvrashchaysya" ("return"), and "khorosho" ("good, fine") in one brisk exchange.
+- 'Still, I have decided to move out.' Sasha sets a direct note on the spot, leaning on "reshila" ("decided") before closing the thought with "pereyekhat" ("to move in").
+- 'Oh, well, up to you.' Sasha conveys a calm style in front of Max, linking "smotri" ("look"), "oy" ("oh"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Why am I calling?' Max challenges wryly on the spot, joining "zvonyu" ("call") to "chego" ("what") so every word pulls its weight.
+- 'A young man came by here the other day.' Sasha projects a pointed tack across the room, putting "tam" ("there") alongside "dnyakh" ("days") in a tight, everyday turn of phrase.
+- 'He was asking about you.' Max presents a measured manner beside Sasha, combining "sprashivala" ("to ask") and "pro" ("about") so the key meaning lands right away.
+- 'He seemed rather suspicious to me.' Sasha holds a playful position in front of Max, weaving "podozritelnym" ("suspicious") together with "pokazalsya" ("to seem, appear") just the way native speakers do.
+- 'You do not need to worry about any of this.' Max adopts an honest style toward Sasha, joining "vam" ("you") to "eto" ("this") so every word pulls its weight.
+- 'All right then, goodbye.' Sasha picks a sharp footing in the scene, pairing "svidaniya" ("meeting") with "nu" ("oh, come on") to get the point across in plain spoken Russian.

@@ -7,7 +7,7 @@ SCENE = 20
 TITLE = 'Счастливый финал и новая глава  (A Happy Finale and a New Chapter)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'eleonora': 'Элеонора', 'max': 'Макс'}
+LABELS = {'eleonora': 'Элеонора', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.20'
 SOURCE_FILE = 'sources/kukhnya/s05/e20.ru.srt'
 INTRO = 'When Mikhail asks Eleonora about her health, she says she only had a mild flu—then stuns Victor and Mikhail by announcing her marriage to Nagiyev. Meanwhile, Vika stays in Moscow and Max becomes Chef of Monet!'
@@ -16,12 +16,12 @@ TRANSITION = "Alright, let's hear the entire conversation one more time from sta
 OUTRO = 'And with Max and Vika reunited at Claude Monet and a wedding on the horizon at Hotel Eleon, Season 5 comes to a joyful close. See you next time!'
 CLOSING = ('max', 'Пока!')
 STORY = [
-    ('barinov', 'Эля, скажи, а в целом здоровье как?', 'Elya, tell us, how is your health overall?', [(302, 'А в целом здоровье как')], 'adapted'),
+    ('vika', 'Эля, скажи, а в целом здоровье как?', 'Elya, tell us, how is your health overall?', [(302, 'А в целом здоровье как')], 'adapted'),
     ('eleonora', 'Обычный грипп, слава богу, уже прошёл.', 'Just a regular flu, thank goodness, it already passed.', [(303, 'Грипп, слава богу, прошел')], 'adapted'),
-    ('barinov', 'Подожди, какой ещё обычный грипп?', 'Wait, what do you mean just a regular flu?', [(304, 'Какой грипп')], 'adapted'),
+    ('vika', 'Подожди, какой ещё обычный грипп?', 'Wait, what do you mean just a regular flu?', [(304, 'Какой грипп')], 'adapted'),
     ('eleonora', 'Через два месяца у нас здесь свадебный банкет.', 'In two months we are having a wedding banquet here.', [(307, 'Через два месяца у нас здесь свадебный банкет')], 'adapted'),
     ('eleonora', 'Мы с Димочкой официально расписываемся.', 'Dimochka and I are officially getting married.', [(308, 'Мы с Димочкой расписываемся')], 'adapted'),
-    ('barinov', 'Неужели Димочка опять будет нашим начальником?', 'Is Dimochka really going to be our boss again?', [(309, 'Димочка опять будет вашим начальником')], 'adapted'),
+    ('vika', 'Неужели Димочка опять будет нашим начальником?', 'Is Dimochka really going to be our boss again?', [(309, 'Димочка опять будет вашим начальником')], 'adapted'),
     ('max', 'Главное, что у нашей истории счастливый конец.', 'The main thing is that our story has a happy ending.', [(310, 'у этой истории счастливый конец')], 'adapted'),
     ('max', 'Вика согласилась остаться со мной в Москве.', 'Vika agreed to stay with me in Moscow.', [(311, 'Вика согласилась остаться в Москве')], 'adapted'),
     ('max', 'А я наконец стал настоящим шеф-поваром!', 'And I finally became a real head chef!', [(311, 'а я стал шеф-поваром')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Когда заканчивается одна история, всегда начинается другая.', 'When one story ends, another one always begins.', [(315, 'когда заканчивается одна история'), (316, 'всегда начинается другая')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Elya, tell us, how is your health overall?\' Wondering if someone tell them how is Eleonora\'s health overall shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (1, None, "'Just a regular flu, thank goodness, it already passed.' Around the room and plan, Eleonora sets a calm, everyday tone with Barinov."),
-    (2, None, "'Wait, what do you mean just a regular flu?' By wondering what Eleonora means just a regular flu, Barinov presses Eleonora for a straight answer."),
-    (3, None, '\'In two months we are having a wedding banquet here.\' Mentioning that in two months they are having a wedding banquet here moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (4, None, "'Dimochka and I are officially getting married.' Eleonora reminds Barinov that someone and she are officially getting married before the moment passes."),
-    (5, None, "'Is Dimochka really going to be our boss again?' Here checking whether really going to be their boss again shows Barinov looking for the real truth."),
-    (6, None, "'The main thing is that our story has a happy ending.' Mentioning that the main thing is that their story has a happy ending moves the talk in a new direction."),
-    (7, None, "'Vika agreed to stay with me in Moscow.' Between the situation and the conversation, Max gives Barinov a quick, grounded response."),
-    (8, None, "'And I finally became a real head chef!' Over the truth and the situation, Max lets his real feelings show."),
-    (9, None, "'Vika and I will be working together again.' Explaining that Vika and he will be working together again lays the cards on the table for Barinov."),
-    (10, None, "'It turns out the dearest dreams really do come true!' Because it turns out the dearest dreams really do come true, Max does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (11, None, "'When one story ends, another one always begins.' Realizing that when one story ends another one always begins changes how Max handles the situation."),
+    (0, None, '\'Elya, tell us, how is your health overall?\' Vika probes earnestly beside Eleonora, linking "skazhi" ("say"), "tselom" ("whole"), and "zdorovye" ("health") in one brisk exchange.'),
+    (1, None, '\'Just a regular flu, thank goodness, it already passed.\' Eleonora holds a natural stance in the scene, combining "obychnyy" ("ordinary, regular") and "gripp" ("flu") so the key meaning lands right away.'),
+    (2, None, '\'Wait, what do you mean just a regular flu?\' Vika asks bluntly to Eleonora here, linking "podozhdi" ("wait"), "yeshchyo" ("more, still"), and "obychnyy" ("ordinary, regular") in one brisk exchange.'),
+    (3, None, '\'In two months we are having a wedding banquet here.\' Eleonora projects a thoughtful course in this beat, weaving "mesyatsa" ("months") together with "zdes" ("here") just the way native speakers do.'),
+    (4, None, '\'Dimochka and I are officially getting married.\' Eleonora keeps a wry bearing as they talk, leaning on "dimochkoy" ("with Dimochka") before closing the thought with "ofitsialno" ("official, officially").'),
+    (5, None, '\'Is Dimochka really going to be our boss again?\' Vika prompts plainly with Max now, pairing "opyat" ("again") with "budet" ("will be") to get the point across in plain spoken Russian.'),
+    (6, None, '\'The main thing is that our story has a happy ending.\' Max takes a grounded tempo as they talk, linking "glavnoye" ("important") directly with "istorii" ("stories"), since Russian drops "is" and "are" in the present.'),
+    (7, None, '\'Vika agreed to stay with me in Moscow.\' Max shows a wry course in front of Vika, pairing "soglasilas" ("to agree") with "ostatsya" ("to remain, to be left") to get the point across in plain spoken Russian.'),
+    (8, None, '\'And I finally became a real head chef!\' Max holds a serious view at once, linking "nakonets" ("at last, finally"), "stal" ("to become"), and "nastoyashchim" ("real, genuine") in one brisk exchange.'),
+    (9, None, '\'Vika and I will be working together again.\' Max shares a sharp angle in the room, weaving "snova" ("again") together with "budem" ("will") just the way native speakers do.'),
+    (10, None, '\'It turns out the dearest dreams really do come true!\' Max chooses a sharp attitude straight away, pairing "okazyvayetsya" ("to turn out to be") with "samyye" ("most, very") to get the point across in plain spoken Russian.'),
+    (11, None, '\'When one story ends, another one always begins.\' Max displays a warm approach for Vika, combining "kogda" ("when") and "zakanchivayetsya" ("to end, to finish") so the key meaning lands right away.'),
 ]

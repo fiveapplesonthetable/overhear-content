@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, may I ask one question?' Senya asks whether may he asks one question, refusing to let the point slide. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Are we allowed to participate too?' Checking whether they allowed to participate is how Senya puts Fedya on the spot. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Everyone is allowed, except our Vitya.' Nagiyev tells Fedya that everyone is allowed except their Vitya without dressing it up.
-- 'Of course you can, my dear friends.' Since Fedya can his dear friends, Nagiyev does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Thank you very much, Dima.' With the moment and exchange in play, Senya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What if I win and become the head chef.' Senya reminds Fedya that what if he wins and become the head before the moment passes.
-- 'I am just rehearsing with you in advance.' Here being just rehearsing with Fedya in advance sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I sit in a red armchair.' Since he sits in a red armchair, Nagiyev does not waste words on excuses.
-- 'I sit with my back to all the contestants.' Saying that he sits with his back to all the contestants is how Nagiyev sets the tone with Fedya.
-- 'And I choose only by taste.' Once he chooses only by taste, Nagiyev can finally tell Fedya what he means.
-- 'We determine the very best dish.' Over the conversation and the exchange, Nagiyev answers Fedya without a second thought.
-- 'Awesome, that is really original!' Saying that awesome that is really original is how Fedya takes charge of the moment.
+- 'Dmitry Vladimirovich, may I ask one question?' Senya quizzes openly to keep things clear, combining "mozhno" ("may, can") and "vopros" ("question, matter") so the key meaning lands right away.
+- 'Are we allowed to participate too?' Senya inquires wryly in their exchange, putting "tozhe" ("too") alongside "uchastvovat" ("to participate") in a tight, everyday turn of phrase.
+- 'Everyone is allowed, except our Vitya.' Nagiyev strikes a direct note beside Fedya, combining "mozhno" ("may, can") and "viti" ("to vitya") so the key meaning lands right away.
+- 'Of course you can, my dear friends.' Nagiyev shares a direct manner across the room, pairing "konechno" ("of course") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
+- 'Thank you very much, Dima.' Senya takes a natural view in this beat, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "tebe" ("for you, to you") in one brisk exchange.
+- 'What if I win and become the head chef.' Senya strikes an easygoing attitude for Nagiyev, building the phrase around "vdrug" ("suddenly, what if") and "vyigrayu" ("will win") for a crisp, natural delivery.
+- 'I am just rehearsing with you in advance.' Senya sustains a warm footing at once, putting "prosto" ("just") alongside "zaraneye" ("in advance") in a tight, everyday turn of phrase.
+- 'I sit in a red armchair.' Nagiyev conveys a measured approach at once, linking "sizhu" ("am sitting"), "krasnom" ("red"), and "kresle" ("armchair, chair") in one brisk exchange.
+- 'I sit with my back to all the contestants.' Nagiyev presents a frank attitude in the room, anchoring the Russian line on "sizhu" ("am sitting") and "spinoy" ("back") without extra filler.
+- 'And I choose only by taste.' Nagiyev shows a direct footing without hesitation, joining "tolko" ("only") to "vkusu" ("taste, style") so every word pulls its weight.
+- 'We determine the very best dish.' Nagiyev displays a lively attitude without hesitation, anchoring the Russian line on "opredelyayem" ("to best") and "samoye" ("the most") without extra filler.
+- 'Awesome, that is really original!' Fedya maintains an honest note in the conversation, building the phrase around "klass" ("cool, great") and "voobshche" ("at all") for a crisp, natural delivery.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Strong contractions.' Around the plan and shift, the doctor sets a calm, everyday tone with Kostya.
-- 'I am with you.' Because he is with the doctor, Kostya treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'My butterfly.' Around the plan and work, Kostya sets a calm, everyday tone with the doctor.
-- 'Take more air in.' Mentioning that Kostya should take more air moves the talk in a new direction.
-- 'Come on, everything is fine.' Kostya reminds the doctor that the doctor should come on everything is fine before the moment passes. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We are almost there already.' Even though they are almost there already, the doctor keeps a steady face in front of Kostya.
-- 'Come on, let's breathe.' The doctor explains that Kostya should come on let them breathe, keeping his voice calm and direct.
-- 'Do you have a conscience?' Here checking whether the doctor has a conscience shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The baby is only five months along.' Once the baby is only five months along, Vika can finally tell the doctor what she means.
-- 'What is with you, mommy, huh?' Wondering what with Kostya mommy huh is cuts straight through the tension between the doctor and Kostya.
-- 'We have become completely absent-minded.' Vika tells the doctor that they have become completely absent without dressing it up.
-- 'Oh my God.' With the room and situation in play, Vika keeps this short reply brisk and direct.
+- 'Strong contractions.' The doctor maintains a thoughtful posture beside Kostya, combining "silnyye" ("strong, powerful") and "skhvatki" ("contractions") so the key meaning lands right away.
+- 'I am with you.' Kostya adopts a firm view on the spot, combining "ya" ("I") and "toboy" ("you") so the key meaning lands right away.
+- 'My butterfly.' Kostya presents a brisk mood without hesitation, joining "babochka" ("butterfly") to "moya" ("my") so every word pulls its weight.
+- 'Take more air in.' The doctor offers a playful tone at this moment, joining "vozdukh" ("air") to "bolshe" ("more") so every word pulls its weight.
+- 'Come on, everything is fine.' Kostya establishes a steady manner right away, combining the everyday invitation "davay" ("come on, let us") with "khorosho" ("good, fine") to give the line its natural spoken rhythm.
+- 'We are almost there already.' The doctor brings a pointed line for Vika, weaving "uzhe" ("already, now") together with "pochti" ("almost") just the way native speakers do.
+- 'Come on, let's breathe.' The doctor chooses a sharp angle without hesitation, combining the everyday invitation "davay" ("come on, let us") with "dyshim" ("to breathe") to give the line its natural spoken rhythm.
+- 'Do you have a conscience?' Vika checks frankly as the talk turns, putting "sovest" ("conscience") alongside "yest" ("there is") in a tight, everyday turn of phrase.
+- 'The baby is only five months along.' Vika favors an emphatic rhythm at this moment, leaning on "rebyonku" ("your child") before closing the thought with "mesyatsev" ("months").
+- 'What is with you, mommy, huh?' The doctor inquires directly on the spot, combining "mamochka" ("mommy") and "chto" ("what") so the key meaning lands right away.
+- 'We have become completely absent-minded.' Vika chooses a lively mood in the conversation, putting "sovsem" ("at all") alongside "rasseyannymi" ("absent-minded") in a tight, everyday turn of phrase.
+- 'Oh my God.' Vika holds a candid tone as the scene unfolds, anchoring the Russian line on "bozhe" ("good lord, God") and "moy" ("my") without extra filler.

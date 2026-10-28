@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Этот в десять. | This one is at ten. | #160: Этот в десять | verbatim |
 | 2 | Вика | Добрый день. | Good afternoon. | #161: Добрый день | verbatim |
-| 3 | Шеф | Как Виктор Петрович себя чувствует? | How is Viktor Petrovich feeling? | #162: Как Виктор Петрович себя чувствует | verbatim |
+| 3 | Вика | Как Виктор Петрович себя чувствует? | How is Viktor Petrovich feeling? | #162: Как Виктор Петрович себя чувствует | verbatim |
 | 4 | Вика | Ну, знаете, уже лучше. | Well, you know, he is doing better already. | #163: Ну, знаете, уже лучше | verbatim |
 | 5 | Шеф | Бормотал, правда, что-то про вас. | Although he was muttering something about you. | #164: Бормотал, правда, что-то про вас | verbatim |
 | 6 | Вика | Про меня? | About me? | #165: Про меня | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This one is at ten.' Adding that this one is at ten fills in the missing piece for Vika.
-- 'Good afternoon.' Between the truth and the moment, Vika gives Barinov a quick, grounded response.
-- 'How is Viktor Petrovich feeling?' Asking how Viktor Petrovich feeling is is how Barinov puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, you know, he is doing better already.' Mentioning that he is doing better already moves the talk in a new direction.
-- 'Although he was muttering something about you.' Barinov reminds Vika that although he was muttering something about Vika before the moment passes. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'About me?' With the secret and point hanging in the air, Vika puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Do me a favor.' Explaining that do him a favor lays the cards on the table for Vika.
-- 'And what did he say?' Here wondering what he say shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That she has a family.' Claiming that that she has a family sounds confident, even if Vika has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'In such a weak little voice, you know.' Pointing out that in such a weak little voice Barinov knows gives Barinov a sobering reality check.
-- 'Forgive me, I could not make out all of it.' Barinov explains that he could not make out all of it, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Would you like some coffee?' Here asking whether Barinov likes some coffee shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, thank you.' Telling Vika to thank Vika moves the conversation forward without extra drama.
+- 'This one is at ten.' Barinov adopts a warm line in this beat, placing "desyat" ("ten") straight beside "etot" ("this") with no word for "to be" needed.
+- 'Good afternoon.' Vika chooses a candid bearing in the room, weaving "dobryy" ("good") together with "den" ("day") just the way native speakers do.
+- 'How is Viktor Petrovich feeling?' Vika asks bluntly during the talk, anchoring the Russian line on "kak" ("how") and "chuvstvuyet" ("feels") without extra filler.
+- 'Well, you know, he is doing better already.' Vika picks a natural angle as the scene unfolds, leaning on "znayete" ("know") before closing the thought with "uzhe" ("already, now").
+- 'Although he was muttering something about you.' Barinov favors an honest attitude at this moment, joining "bormotal" ("to mutter, mumble") to "pravda" ("honestly") so every word pulls its weight.
+- 'About me?' Vika quizzes earnestly from the start, putting "pro" ("about") alongside "menya" ("me") in a tight, everyday turn of phrase.
+- 'Do me a favor.' Barinov brings a serious direction straight away, putting "sdelayet" ("will do") alongside "odolzheniye" ("favour, concession") in a tight, everyday turn of phrase.
+- 'And what did he say?' Vika asks directly in front of Barinov, combining "skazal" ("said") and "chto" ("what") so the key meaning lands right away.
+- 'That she has a family.' Barinov projects an unhurried direction beside Vika, building the phrase around "semya" ("family") and "neye" ("her") for a crisp, natural delivery.
+- 'In such a weak little voice, you know.' Vika sustains a measured direction as the scene unfolds, weaving "slabym" ("weak") together with "golosom" ("voice") just the way native speakers do.
+- 'Forgive me, I could not make out all of it.' Barinov chooses a playful tone across the room, putting "prostite" ("excuse me") alongside "razobral" ("to take apart") in a tight, everyday turn of phrase.
+- 'Would you like some coffee?' Vika queries pointedly in their exchange, weaving "kofe" ("of coffee") together with "budesh" ("will") just the way native speakers do.
+- 'No, thank you.' Barinov presents a clear footing with Vika, leaning on "spasibo" ("thank you") before closing the thought with "da" ("yes").

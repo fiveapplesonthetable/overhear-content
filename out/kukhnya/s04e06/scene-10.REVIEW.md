@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Денис, значит, ты сегодня работаешь за Луи? | Denis, so you are working for Louis today? | #134: Ты мне с тобой сегодня. | adapted: adapted |
-| 2 | Настя | Тогда дай мне, пожалуйста, два французских пирожных. | Then give me two French pastries, please. | #135: Тогда мне мельфей и кассис-нуар. | adapted: adapted |
+| 1 | Сеня | Денис, значит, ты сегодня работаешь за Луи? | Denis, so you are working for Louis today? | #134: Ты мне с тобой сегодня. | adapted: adapted |
+| 2 | Луи | Тогда дай мне, пожалуйста, два французских пирожных. | Then give me two French pastries, please. | #135: Тогда мне мельфей и кассис-нуар. | adapted: adapted |
 | 3 | Денис | Вот беда, Луи подписал всё не по-русски! | What trouble, Louis labeled everything in a foreign language! | #136: Подписал он. | adapted: adapted |
 | 4 | Денис | И как мне понять, где какой десерт? | And how am I to understand which dessert is where? | #137: Что из этого мельфея, что кассис-массис? | adapted: adapted |
-| 5 | Настя | Денис, мне ещё нужен вишнёвый пирог со сливками! | Denis, I also need a cherry tart with cream! | #138: Дэн, мне клофути за сливки вышел. | adapted: adapted |
+| 5 | Луи | Денис, мне ещё нужен вишнёвый пирог со сливками! | Denis, I also need a cherry tart with cream! | #138: Дэн, мне клофути за сливки вышел. | adapted: adapted |
 | 6 | Денис | Отлично, теперь ещё и какой-то сложный пирог! | Great, now some complicated tart on top of that! | #139: Лично, еще и клофути. | adapted: adapted |
 | 7 | Сеня | Слушай, давай я тебе быстро помогу разобраться. | Listen, let me quickly help you figure it out. | #140: Что я там тебе дам и помогу? | adapted: adapted |
 | 8 | Денис | Сеня, скажи, какое из этих пирожных нужно отдать? | Senya, tell me, which of these pastries should I hand out? | #141: Что из этого мельфея, а что клофути? | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, so you are working for Louis today?' Questioning whether Denis is working for Louis today is how Nastya tests Denis's story.
-- 'Then give me two French pastries, please.' Here giving her two French pastries please sets up the next turn in their exchange.
-- 'What trouble, Louis labeled everything in a foreign language!' Over the plan and the dessert, Denis lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And how am I to understand which dessert is where?' Asking whether how am he to understand which dessert is puts Nastya right on the defensive.
-- 'Denis, I also need a cherry tart with cream!' Once she also needs a cherry tart with cream, Nastya makes sure Denis hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Great, now some complicated tart on top of that!' With the plan and dessert at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, let me quickly help you figure it out.' Because Denis should let him quickly help Denis figure it out, Senya treats the matter as settled.
-- 'Senya, tell me, which of these pastries should I hand out?' Denis asks whether tell him which of these pastries should he hands out, refusing to let the point slide. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Right now we will look closely and taste everything.' Claiming that right now they will look closely and taste everything sounds confident, even if Denis has doubts.
-- 'No, this is definitely not that pastry, give me another.' Pointing out that this is definitely not that pastry give him another gives Denis a sobering reality check.
-- 'What are you doing, you ate everything!' Insisting that what are Nastya doing Nastya ate everything shows Denis is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Go away from here, Senya, I will figure it out myself!' Here going away from here Senya he will figure it out himself lets Denis's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Denis, so you are working for Louis today?' Senya presses wryly in their exchange, anchoring the Russian line on "znachit" ("then, so") and "segodnya" ("today") without extra filler.
+- 'Then give me two French pastries, please.' Louis favors a calm note toward Senya, combining "togda" ("back then") and "day" ("give") so the key meaning lands right away.
+- 'What trouble, Louis labeled everything in a foreign language!' Denis shows a frank angle in front of Louis, joining "beda" ("trouble") to "podpisal" ("signed") so every word pulls its weight.
+- 'And how am I to understand which dessert is where?' Denis wonders decisively from the start, pairing "kak" ("how") with "ponyat" ("to understand") to get the point across in plain spoken Russian.
+- 'Denis, I also need a cherry tart with cream!' Louis establishes an emphatic footing in the scene, putting "yeshchyo" ("more, still") alongside "nuzhen" ("is needed") in a tight, everyday turn of phrase.
+- 'Great, now some complicated tart on top of that!' Denis projects a steady style at once, putting "otlichno" ("perfect, great") alongside "teper" ("now") in a tight, everyday turn of phrase.
+- 'Listen, let me quickly help you figure it out.' Senya shares a direct course for Denis, pairing "slushay" ("listen") with "davay" ("let's") to get the point across in plain spoken Russian.
+- 'Senya, tell me, which of these pastries should I hand out?' Denis inquires plainly to keep things clear, weaving "skazhi" ("say") together with "pirozhnykh" ("pastry") just the way native speakers do.
+- 'Right now we will look closely and taste everything.' Senya displays an unhurried manner at once, pairing "seychas" ("now") with "vnimatelno" ("carefully, attentively") so the "-sya" ending carries the action.
+- 'No, this is definitely not that pastry, give me another.' Senya shares a calm attitude as the scene unfolds, anchoring the Russian line on "tochno" ("definitely") and "pirozhnoye" ("pastries, cakes") without extra filler.
+- 'What are you doing, you ate everything!' Denis brings a resolute bearing straight away, putting "delayesh" ("are you doing") alongside "syel" ("ate") in a tight, everyday turn of phrase.
+- 'Go away from here, Senya, I will figure it out myself!' Denis sustains a sharp posture in the room, weaving "ukhodi" ("go away") together with "otsyuda" ("from here") just the way native speakers do.

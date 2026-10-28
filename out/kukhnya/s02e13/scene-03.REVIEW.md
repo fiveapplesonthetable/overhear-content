@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Barinov, did you order a pizza?' Checking whether Max orders a pizza is how Barinov puts Max on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, yes, yes, yes, yes.' Over the plan and the room, Max answers Barinov without a second thought.
-- 'Here is a thousand rubles.' Saying that here is a thousand rubles is how Barinov sets the tone with Max.
-- 'Nothing is too good for you.' Once nothing is too good for Barinov, Max can finally tell Barinov what he means. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'All the best.' Around the plan and room, Barinov sets a calm, everyday tone with Max.
-- 'Wait, where is the pizza?' Here asking where the pizza is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'They took it at the entrance.' Since they took it at the entrance, Barinov does not waste words on excuses.
-- 'Vitaly Petrovich.' Around the room and moment, Max sets a calm, everyday tone with Barinov.
-- 'That pearl barley of yours has driven me crazy already.' Barinov reminds Max that that pearl barley of Max's has driven him crazy already before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That is my pizza.' Because that is his pizza, Max treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Pals, that is strictly forbidden for you.' Explaining that pals that is strictly forbidden for Max lays the cards on the table for Max.
-- 'Next you will be asking for chicken with pineapple?' Wondering if next Barinov will be asking for chicken with pineapple shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That one is my favorite.' Claiming that that one is his favorite sounds confident, even if Max has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Barinov, did you order a pizza?' Barinov probes sharply for Max's benefit, building the phrase around "pitstsu" ("pizza, pizza place") and "zakazyvali" ("ordered") for a crisp, natural delivery.
+- 'Yes, yes, yes, yes, yes.' Max brings a frank note without hesitation, leaning on "da" ("yes") as a compact, one-word response that needs no extra words.
+- 'Here is a thousand rubles.' Barinov chooses a warm tone across the room, leaning on "derzhi" ("here you go") before closing the thought with "tysyachu" ("thousand").
+- 'Nothing is too good for you.' Max favors a playful attitude straight away, placing "zhalko" ("feel sorry for") straight beside "dlya" ("for") with no word for "to be" needed.
+- 'All the best.' Barinov strikes a measured attitude right away, combining "dobrogo" ("good") and "vsego" ("all") so the key meaning lands right away.
+- 'Wait, where is the pizza?' Max prompts steadily as the beat lands, leaning on "pitstsa" ("pizza") before closing the thought with "gde" ("where").
+- 'They took it at the entrance.' Barinov takes a lively manner without hesitation, using "zabrali" (from "zabrat", "took away") alongside "vkhode" ("entrance") to shape the meaning.
+- 'Vitaly Petrovich.' Max shows a wry stance in their talk, anchoring the Russian line on "vitaliy" ("Vitaly") and "petrovich" ("Petrovich") without extra filler.
+- 'That pearl barley of yours has driven me crazy already.' Barinov conveys a grounded tone on the spot, joining "perlog" ("pretext, excuse") to "dostala" ("to take out") so every word pulls its weight.
+- 'That is my pizza.' Max strikes an easygoing tack in this beat, anchoring the Russian line on "pitstsa" ("pizza") and "eto" ("this") without extra filler.
+- 'Pals, that is strictly forbidden for you.' Barinov adopts a warm tone in the room, placing "druzya" ("friends") straight beside "protivopokazano" ("contraindicated") with no word for "to be" needed.
+- 'Next you will be asking for chicken with pineapple?' Max checks directly as they speak, combining "poprosite" ("ask") and "kuritsu" ("chicken") so the key meaning lands right away.
+- 'That one is my favorite.' Barinov strikes a grounded tempo as they talk, placing "lyubimaya" ("favourite, beloved") straight beside "eto" ("this") with no word for "to be" needed.

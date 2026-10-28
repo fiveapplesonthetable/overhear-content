@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, tell me, what happened again?' Over the moment and the mistake, Vika presses Max for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen, Vika, just do not get too angry.' Max tells Vika that just do not get too angry without dressing it up.
-- 'Do you remember how we made up last night?' Asking whether Vika remembers how they made up last night cuts straight through the tension between Max and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You and I drank tasty wine back then.' Mentioning that Vika and he drank tasty wine back then moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well then, I took it from the bar.' Max reminds Vika that he took it from the bar before the moment passes.
-- 'And it suddenly turned out to be very expensive.' Because it suddenly turned out to be very expensive, Max treats the matter as settled.
-- 'And just how much does this bottle of wine cost?' Wondering if just how much does this bottle of wine cost shows Vika caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It costs a whole five thousand dollars.' Max mentions that it costs a whole five thousand dollars so Vika sees what is at stake.
-- 'Vika, do not worry, I will solve everything.' Claiming that do not worry he will solve everything sounds confident, even if Vika has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I know well how this usually ends.' Knowing well how this usually ends is how Vika lays out the situation for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I have to clean up your problems myself afterwards!' Declaring that she has to clean up Max's problems herself afterwards brings Vika's temper right to the surface.
-- 'Stop lecturing me, I will fix everything myself!' Stopping lecturing him he will fix everything himself is Max's blunt reaction in front of Vika. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Max, tell me, what happened again?' Vika asks openly in front of Max, leaning on "skazhi" ("say") before closing the thought with "opyat" ("again").
+- 'Listen, Vika, just do not get too angry.' Max projects a warm line during the exchange, linking "slushay" ("listen"), "tolko" ("only"), and "silno" ("strongly, much") in one brisk exchange.
+- 'Do you remember how we made up last night?' Max inquires wryly without holding back, pairing "pomnish" ("do you remember") with "kak" ("how") to get the point across in plain spoken Russian.
+- 'You and I drank tasty wine back then.' Max takes a frank tone on the spot, combining "togda" ("back then") and "pili" ("to drink") so the key meaning lands right away.
+- 'Well then, I took it from the bar.' Max conveys a warm rhythm without hesitation, joining "vzyal" ("took") to "bara" ("of the bar") so every word pulls its weight.
+- 'And it suddenly turned out to be very expensive.' Max favors a steady view without hesitation, joining "vdrug" ("suddenly, what if") to "okazalos" ("turned out") so every word pulls its weight.
+- 'And just how much does this bottle of wine cost?' Vika inquires sharply without holding back, building the phrase around "skolko" ("how much, so much") and "stoit" ("is parked") for a crisp, natural delivery.
+- 'It costs a whole five thousand dollars.' Max holds a warm direction with Vika, using "stoit" (from "stoyat", "is parked") alongside "tselykh" ("whole, entire") to shape the meaning.
+- 'Vika, do not worry, I will solve everything.' Max maintains a playful rhythm at once, linking "volnuysya" ("worry"), "reshu" ("I'll solve"), and "vika" ("Vika") in one brisk exchange.
+- 'I know well how this usually ends.' Vika holds a resolute bearing without hesitation, linking "khorosho" ("good, fine"), "znayu" ("know"), and "obychno" ("usually") in one brisk exchange.
+- 'I have to clean up your problems myself afterwards!' Vika strikes a frank stance for Max, linking "potom" ("then"), "prikhoditsya" ("to have to"), and "razgrebat" ("to afterwards") in one brisk exchange.
+- 'Stop lecturing me, I will fix everything myself!' Max keeps a pointed style in the scene, combining "khvatit" ("enough") and "otchityvat" ("to fix") so the key meaning lands right away.

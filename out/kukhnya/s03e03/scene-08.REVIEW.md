@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon. Ah, it is you?' Asking whether it is the guest puts the guest right on the defensive. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And I want you to go far away.' By wanting Max to go far away, the guest keeps his side of the story grounded. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We cannot go. We are pregnant.' Pointing out that they cannot go gives the guest a sobering reality check.
-- 'It is our first pregnancy, we are constantly nervous.' Max explains that it is their first pregnancy they are constantly nervous, keeping his voice calm and direct.
-- 'So we snapped at you.' With the room and point in play, Max keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'If they fire us, who will feed him?' Asking whether if they fire them who will feed him puts the guest right on the defensive.
-- 'Fine. After all, the child is not at fault.' Even though after all the child is not at fault, the guest keeps a steady face in front of Max.
-- 'Thank you so much from me and from my wife.' Over the situation and the kitchen, Max answers the guest without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Let's go, we are forgiven! A talented improvisation, did you see?' By proposing that they go they are forgiven, Max presses the guest for a straight answer.
-- 'Damn, I forgot my bag. Hold on a second.' Once damn she forgot her bag, Vika can finally tell the guest what she means.
-- 'I am calling my husband! He will shut your restaurant down completely.' By being calling his husband, the guest raises the stakes in the room at once. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Even if all of you there are pregnant!' Insisting that even if all of Max there are pregnant shows the guest is not backing down.
+- 'Good afternoon. Ah, it is you?' Max asks honestly to the guest here, building the phrase around "dobryy" ("good") and "den" ("day") for a crisp, natural delivery.
+- 'And I want you to go far away.' The guest sets an emphatic note as the scene unfolds, anchoring the Russian line on "khochu" ("want") and "poshli" ("let's go") without extra filler.
+- 'We cannot go. We are pregnant.' Max brings a brisk tempo toward the guest, combining "mozhem" ("can") and "idti" ("to go") so the key meaning lands right away.
+- 'It is our first pregnancy, we are constantly nervous.' Max holds a brisk tack in this beat, linking "pervaya" ("the first one"), "beremennost" ("pregnancy"), and "nervnichayem" ("are nervous") in one brisk exchange.
+- 'So we snapped at you.' Max favors a lively tone in their talk, pairing "sorvalis" ("snapped") with "vot" ("there, here") to get the point across in plain spoken Russian.
+- 'If they fire us, who will feed him?' Max probes earnestly at this point, weaving "uvolyat" ("will fire") together with "budet" ("will be") just the way native speakers do.
+- 'Fine. After all, the child is not at fault.' The guest picks a direct rhythm for Max, combining the easygoing tag "ladno" ("okay, fine") with "kontse" ("end") to give the line its natural spoken rhythm.
+- 'Thank you so much from me and from my wife.' Max shows a calm stance at this moment, leaning on "spasibo" ("thank you") before closing the thought with "ogromnoye" ("huge, so very much").
+- 'Let's go, we are forgiven! A talented improvisation, did you see?' Max inquires honestly in the scene, anchoring the Russian line on "poydyom" ("let's go") and "prostili" ("forgave") without extra filler.
+- 'Damn, I forgot my bag. Hold on a second.' Vika presents a warm style on the spot, pairing "chyort" ("darn, heck") with "sumku" ("bag, purse") to get the point across in plain spoken Russian.
+- 'I am calling my husband! He will shut your restaurant down completely.' The guest takes an honest tempo at this moment, linking "zvonyu" ("call"), "muzhu" ("husband"), and "voobshche" ("at all") in one brisk exchange.
+- 'Even if all of you there are pregnant!' The guest conveys a steady approach across the room, combining "tam" ("there") and "beremenny" ("pregnant") so the key meaning lands right away.

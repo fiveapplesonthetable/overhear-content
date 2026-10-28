@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This simply cannot be happening.' Admitting that this simply cannot be happening shows Kostya being honest for a change.
-- 'Kostya, pour me some cold water.' Once Kostya should pour him some cold water, Denis can finally tell Kostya what he means.
-- 'And why are you so angry today?' By asking why Denis so angry today is, Kostya presses Denis for a straight answer.
-- 'I was just at my father's restaurant.' Adding that he was just at his father restaurant fills in the missing piece for Denis.
-- 'I saw the Frenchman there with some girl.' Saying that he saw the Frenchman there with some girl is how Nikita sets the tone with Denis.
-- 'We must tell Katya about this immediately.' Since they must tell Katya about this immediately, Denis does not waste words on excuses.
-- 'Listen, maybe you should stay out of it?' Asking whether maybe Denis should stay out of it puts Denis right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But this man is blatantly deceiving her!' Declaring that this man is blatantly deceiving brings Denis's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well and what should we do then?' Wondering what they do then should is how Nikita puts Denis on the spot.
-- 'She will not even listen to us.' Explaining that she will not even listen to them lays the cards on the table for Denis.
-- 'You can quietly follow him in the evening.' Kostya mentions that Denis can quietly follow him in the evening so Denis sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'My father has a private detective.' Claiming that his father has a private detective sounds confident, even if Denis has doubts.
+- 'This simply cannot be happening.' Kostya displays a playful note in front of Denis, anchoring the Russian line on "prosto" ("just") and "mozhet" ("can") without extra filler.
+- 'Kostya, pour me some cold water.' Denis shows a calm line as the scene unfolds, linking "naley" ("pour"), "kholodnoy" ("cold"), and "vody" ("water") in one brisk exchange.
+- 'And why are you so angry today?' Kostya presses calmly in the room, pairing "segodnya" ("today") with "zloy" ("angry, mean") to get the point across in plain spoken Russian.
+- 'I was just at my father's restaurant.' Nikita offers a firm footing at once, building the phrase around "tolko" ("only") and "byl" ("was") for a crisp, natural delivery.
+- 'I saw the Frenchman there with some girl.' Nikita chooses a pointed position in the conversation, combining "videl" ("saw, have seen") and "tam" ("there") so the key meaning lands right away.
+- 'We must tell Katya about this immediately.' Denis shares a direct note beside Nikita, leaning on "nado" ("it is necessary") before closing the thought with "srazu" ("at once").
+- 'Listen, maybe you should stay out of it?' Kostya quizzes openly right away, linking "slushay" ("listen"), "mozhet" ("can"), and "budesh" ("will") in one brisk exchange.
+- 'But this man is blatantly deceiving her!' Denis holds an unhurried attitude toward Nikita, putting "chelovek" ("a man, a person") alongside "naglo" ("boldly, brazenly") in a tight, everyday turn of phrase.
+- 'Well and what should we do then?' Nikita queries dryly in the room, building the phrase around "togda" ("back then") and "delat" ("do") for a crisp, natural delivery.
+- 'She will not even listen to us.' Nikita shares a clear tempo beside Kostya, leaning on "slushat" ("to listen to") before closing the thought with "stanet" ("will become").
+- 'You can quietly follow him in the evening.' Kostya shares a grounded style for Denis, linking "mozhno" ("may, can"), "tikho" ("easy, quiet"), and "prosledit" ("to keep an eye on") in one brisk exchange.
+- 'My father has a private detective.' Nikita takes a firm tone toward Kostya, linking "ottsa" ("father"), "yest" ("there is"), and "chastnyy" ("private") in one brisk exchange.

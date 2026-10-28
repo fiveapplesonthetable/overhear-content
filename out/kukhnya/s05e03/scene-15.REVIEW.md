@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is just a little joke!' Insisting that this is just a little joke shows Nagiyev is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It is a surprise from our mustachioed clown.' Saying that it is a surprise from their mustachioed clown is how Nagiyev sets the tone with Barinov.
-- 'Thank you all very much for your attention.' With the conversation and dish in play, Nagiyev keeps this short reply brisk and direct.
-- 'Why did you kill that snake?' Here asking why Barinov kills that snake shows Eleonora looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How could you do that at all?' By wondering how Barinov does that at all could, Eleonora presses Barinov for a straight answer.
-- 'In order to cook it deliciously for you.' Between the conversation and the dish, Barinov gives Eleonora a quick, grounded response. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You are to blame for everything yourself.' Explaining that Eleonora is to blame for everything themselves lays the cards on the table for Eleonora. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nobody discussed the banquet with me.' With the work and dish in play, Barinov keeps this short reply brisk and direct.
-- 'I will definitely fire you for this!' Once she will definitely fire Barinov for this, Eleonora makes sure Barinov hears every word. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But under the contract you cannot.' Pointing out that under the contract Eleonora cannot gives Eleonora a sobering reality check. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What was that on stage just now?' Asking what that on stage just now was is how Nagiyev puts Barinov on the spot.
-- 'Try our new hot dish!' Telling Eleonora to try their new hot dish is Barinov's blunt reaction in front of Eleonora. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'This is just a little joke!' Nagiyev presents a brisk manner as they talk, putting "prosto" ("just") alongside "malenkaya" ("small") in a tight, everyday turn of phrase.
+- 'It is a surprise from our mustachioed clown.' Nagiyev takes a frank manner toward Eleonora, linking "syurpriz" ("surprise") directly with "usatogo" ("mustachioed"), since Russian drops "is" and "are" in the present.
+- 'Thank you all very much for your attention.' Nagiyev displays an unhurried tack without hesitation, combining "bolshoye" ("big, very much") and "spasibo" ("thank you") so the key meaning lands right away.
+- 'Why did you kill that snake?' Eleonora asks promptly toward Nagiyev here, combining "zachem" ("what for") and "zmeyu" ("snake") so the key meaning lands right away.
+- 'How could you do that at all?' Eleonora checks candidly toward Barinov here, putting "kak" ("how") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.
+- 'In order to cook it deliciously for you.' Barinov offers a wry tempo in this beat, linking "vkusno" ("it's tasty"), "prigotovit" ("to cook, to prepare"), and "chtoby" ("so that") in one brisk exchange.
+- 'You are to blame for everything yourself.' Barinov shares an easygoing style in the room, putting "vinovata" ("at fault, to blame") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'Nobody discussed the banquet with me.' Barinov conveys an emphatic direction during the exchange, joining "banket" ("banquet") to "obsuzhdal" ("discussed") so every word pulls its weight.
+- 'I will definitely fire you for this!' Eleonora sustains an easygoing direction straight away, anchoring the Russian line on "tochno" ("definitely") and "uvolyu" ("will fire") without extra filler.
+- 'But under the contract you cannot.' Barinov maintains a measured tone across the room, leaning on "kontraktu" ("by contract") before closing the thought with "mozhesh" ("can").
+- 'What was that on stage just now?' Nagiyev questions openly as the talk turns, combining "seychas" ("now") and "bylo" ("was") so the key meaning lands right away.
+- 'Try our new hot dish!' Barinov sets a playful position as they talk, anchoring the Russian line on "poprobuyte" ("try, taste") and "novoye" ("new") without extra filler.

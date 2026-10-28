@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you cut up this fish?' By asking why Barinov cuts up this fish, Max presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'It is supposed to be cooked whole.' Even though it is supposed to be cooked whole, Max keeps a steady face in front of Barinov.
-- 'Go bring another one. Was that the last one?' With the work and bet hanging in the air, Max puts Barinov on the spot.
-- 'I will run you ragged one last time, like in a proper restaurant.' Saying that he will run Elena ragged one last time like in a proper restaurant is how Barinov sets the tone with Elena. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Dorado in a salt cocoon flambé.' Over the point and the bet, Barinov answers Elena without a second thought.
-- 'Viktor Petrovich, let me take the orders.' Because Barinov should let him take the orders, Max treats the matter as settled.
-- 'I will make it faster anyway. You are sick after all.' Saying that he will make it faster anyway is how Max sets the tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Even dead, I will work faster than you.' Since even dead he will work faster than Elena, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Want to bet a thousand on it?' With the point and bet hanging in the air, Max puts Barinov on the spot.
-- 'Make it five. Let's go!' Because Elena should make it five, Barinov does not bother softening the blow for Elena. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Voilà! Dorado in a salt cocoon from the head chef.' With the point and bet at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Actually, from the sous-chef.' With the truth and bet in play, Elena keeps this short reply brisk and direct.
+- 'Why did you cut up this fish?' Max tests decisively toward Barinov here, putting "zachem" ("what for") alongside "rybu" ("fish") in a tight, everyday turn of phrase.
+- 'It is supposed to be cooked whole.' Max sets a calm manner in front of Elena, putting "tselikom" ("cooked") alongside "gotovyat" ("are preparing") in a tight, everyday turn of phrase.
+- 'Go bring another one. Was that the last one?' Max asks openly without hesitation, putting "idi" ("go") alongside "nesi" ("bring") in a tight, everyday turn of phrase.
+- 'I will run you ragged one last time, like in a proper restaurant.' Barinov establishes a thoughtful course at this moment, putting "pogonyayu" ("run") alongside "naposledok" ("favor") in a tight, everyday turn of phrase.
+- 'Dorado in a salt cocoon flambé.' Barinov favors a natural posture as the scene unfolds, putting "dorada" ("sea bream") alongside "solyanom" ("cocoon") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, let me take the orders.' Max picks a measured footing right away, joining "davayte" ("let's") to "zakazy" ("orders") so every word pulls its weight.
+- 'I will make it faster anyway. You are sick after all.' Max favors a serious posture at once, linking "bystreye" ("faster"), "sdelayu" ("I'll do"), and "ravno" ("the same") in one brisk exchange.
+- 'Even dead, I will work faster than you.' Barinov strikes a calm attitude beside Max, leaning on "myortvyy" ("dead, lifeless") before closing the thought with "srabotayu" ("to work, succeed").
+- 'Want to bet a thousand on it?' Max inquires frankly in the room, putting "sporim" ("wanna bet") alongside "shtuku" ("a grand, thing") in a tight, everyday turn of phrase.
+- 'Make it five. Let's go!' Barinov brings an emphatic course at this moment, pairing "poyekhali" ("here we go") with "pyat" ("five") to get the point across in plain spoken Russian.
+- 'Voilà! Dorado in a salt cocoon from the head chef.' Barinov conveys a playful posture in the room, building the phrase around "vualya" ("voilà") and "dorada" ("sea bream") for a crisp, natural delivery.
+- 'Actually, from the sous-chef.' Elena strikes a brisk position with Max, leaning on "voobshche-to" ("actually") before closing the thought with "su-shefa" ("sous-chef").

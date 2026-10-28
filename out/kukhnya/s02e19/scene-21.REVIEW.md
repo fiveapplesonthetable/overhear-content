@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A rare occasion when the old man is actually right.' Explaining that a rare occasion when the old man is actually right lays the cards on the table for Barinov.
-- 'I am sick and tired of this, Viktoriya.' Barinov explains that he is sick and tired of this Viktoriya, keeping his voice calm and direct.
-- 'From which the entire staff is suffering.' Claiming that from which the entire staff is suffering sounds confident, even if Barinov has doubts.
-- 'Wait, I do not understand, what war?' Asking whether he does not understand what war puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, guys, that is enough, enough.' Barinov explains that Alright guys that is enough enough, keeping his voice calm and direct.
-- 'So let me say this one more time.' By letting her say this one more time, Vika keeps her side of the story grounded.
-- 'Viktoriya, I am addressing you directly.' Noting that Viktoriya he is addressing Barinov directly keeps Max's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Kindly make sure that these people.' With the office and kitchen in play, Barinov keeps this short reply brisk and direct.
-- 'That the cooks do not wander around the dining room.' Admitting that that the cooks do not wander around the dining room shows Vika being honest for a change.
-- 'But when you lost your temper out there...' Saying that when Barinov lost Barinov's temper out there is how Max sets the tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I realized that is the exact energy I need.' Once she realized that is the exact energy she needs, Vika can finally tell Barinov what she means.
-- 'You were so expressive.' Adding that Barinov was so expressive fills in the missing piece for Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'You have such strong and gentle hands.' Saying that Barinov has such strong and gentle hands is how Max sets the tone with Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'A rare occasion when the old man is actually right.' Max offers a wry position straight away, pairing "redkiy" ("rare") with "sluchay" ("case, occasion") to get the point across in plain spoken Russian.
+- 'I am sick and tired of this, Viktoriya.' Barinov maintains a natural direction as they talk, putting "nadoyelo" ("has got boring") alongside "mne" ("to me") in a tight, everyday turn of phrase.
+- 'From which the entire staff is suffering.' Vika shares a calm approach beside Barinov, leaning on "stradayet" ("to suffer") before closing the thought with "personal" ("staff").
+- 'Wait, I do not understand, what war?' Max quizzes bluntly at this point, pairing "ponyal" ("understood") with "voyna" ("a war") to get the point across in plain spoken Russian.
+- 'Alright, guys, that is enough, enough.' Barinov offers a thoughtful tempo in the conversation, pairing "rebyata" ("the boys, the lads") with "khvatit" ("enough") to get the point across in plain spoken Russian.
+- 'So let me say this one more time.' Vika favors a brisk approach on the spot, anchoring the Russian line on "znachit" ("then, so") and "yeshche" ("still") without extra filler.
+- 'Viktoriya, I am addressing you directly.' Max picks a grounded tone straight away, pairing "obrashchayus" ("to right") with "viktoriya" ("Victoria") so the "-sya" ending carries the action.
+- 'Kindly make sure that these people.' Barinov presents a calm stance for Vika, using "potrudites" (from "potruditsya", "to take the trouble") alongside "delat" ("do") to shape the meaning.
+- 'That the cooks do not wander around the dining room.' Vika shows an unhurried line during the exchange, pairing "povara" ("cook") with "shlyalis" ("wander") to get the point across in plain spoken Russian.
+- 'But when you lost your temper out there...' Max shows a brisk stance in this beat, putting "kogda" ("when") alongside "vyshli" ("came out") in a tight, everyday turn of phrase.
+- 'I realized that is the exact energy I need.' Vika establishes an emphatic line in this beat, putting "ponyala" ("understood") alongside "nuzhno" ("necessary") in a tight, everyday turn of phrase.
+- 'You were so expressive.' Vika offers a direct course in the scene, linking "byli" ("be"), "vy" ("you"), and "takoy" ("such, so") in one brisk exchange.
+- 'You have such strong and gentle hands.' Max favors an honest style during the exchange, using "silnyye" (from "silnyy", "strong, powerful") alongside "nezhnyye" ("gentle, tender") to shape the meaning.

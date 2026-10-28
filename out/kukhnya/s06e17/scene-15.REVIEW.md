@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, he is on the roof right now!' Fedya insists that he is on the roof right now, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Great, now bring him down.' With the inspector and hotel in play, Barinov keeps this short reply brisk and direct.
-- 'Wait, this is not a hint at all!' Saying that this is not a hint at all is how Barinov takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You just bring him downstairs.' Around the inspector and kitchen, Barinov sets a calm, everyday tone with Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There is no need to throw him off the roof.' With the inspector and moment in play, Barinov keeps this short reply brisk and direct.
-- 'Chef, yes, I understood everything.' Because he understood everything, Fedya treats the matter as settled.
-- 'What have you done right now, Fedya?' Around the police and inspector, Barinov wants to know where Fedya really stands. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You said to bring him down.' Fedya mentions that Barinov said to bring him down so Barinov sees what is at stake.
-- 'I immediately understood that hint.' Claiming that he immediately understood that hint sounds confident, even if Barinov has doubts.
-- 'Chef, may I leave a bit early today?' Questioning whether may he leaves a bit early today is how Fedya tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Later they will put me on the wanted list.' Fedya explains that later they will put him on the wanted list, keeping his voice calm and direct.
-- 'What are you punishing me for?' Wondering what Fedya punishing him is cuts straight through the tension between Barinov and Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It was not me, he fell!' Insisting that it was not him he fell shows Barinov is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Chef, he is on the roof right now!' Fedya favors a warm posture on the spot, building the phrase around "seychas" ("now") and "kryshe" ("roof") for a crisp, natural delivery.
+- 'Great, now bring him down.' Barinov keeps a direct style in the scene, building the phrase around "otlichno" ("perfect, great") and "teper" ("now") for a crisp, natural delivery.
+- 'Wait, this is not a hint at all!' Barinov takes a grounded rhythm on the spot, leaning on "podozhdi" ("wait") before closing the thought with "sovsem" ("at all").
+- 'You just bring him downstairs.' Barinov keeps a calm rhythm as the scene unfolds, building the phrase around "prosto" ("just") and "spusti" ("to lower, to let down") for a crisp, natural delivery.
+- 'There is no need to throw him off the roof.' Barinov sustains a warm style toward Fedya, anchoring the Russian line on "sbrasyvat" ("to go") and "kryshi" ("roof") without extra filler.
+- 'Chef, yes, I understood everything.' Fedya favors a resolute note at once, weaving "ponyal" ("understood") together with "shef" ("Chef") just the way native speakers do.
+- 'What have you done right now, Fedya?' Barinov questions plainly during the talk, leaning on "nadelal" ("make, cause") before closing the thought with "seychas" ("now").
+- 'You said to bring him down.' Fedya holds a grounded tack in this beat, building the phrase around "skazali" ("told") and "spustit" ("to lower, to let down") for a crisp, natural delivery.
+- 'I immediately understood that hint.' Fedya maintains a warm mood across the room, pairing "srazu" ("at once") with "ponyal" ("understood") to get the point across in plain spoken Russian.
+- 'Chef, may I leave a bit early today?' Fedya tests boldly to make the point, putting "segodnya" ("today") alongside "poranshe" ("a bit earlier") in a tight, everyday turn of phrase.
+- 'Later they will put me on the wanted list.' Fedya projects a natural footing right away, joining "potom" ("then") to "rozysk" ("wanted list") so every word pulls its weight.
+- 'What are you punishing me for?' Barinov tests quietly to Fedya here, pairing "nakazyvayesh" ("you punish") with "za" ("for") to get the point across in plain spoken Russian.
+- 'It was not me, he fell!' Barinov holds a clear posture straight away, joining "upal" ("fell") to "eto" ("this") so every word pulls its weight.

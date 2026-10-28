@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You let such a wonderful woman slip away, Max!' Barinov declares that Kostya lets such a wonderful woman slip away as the tension in the room peaks.
-- 'But nothing at all happened between her and Nagiyev.' Over the room and the work, Barinov answers Kostya without a second thought. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Wait, Chef, how do you know that?' Here wondering how Barinov knows shows Max looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Believe me, I know for sure!' Telling Kostya to believe him he knows for sure shows Barinov is done holding back.
-- 'And remember, Dima, the kitchen is real magic!' Remembering Dima the kitchen is real magic shows Barinov is done holding back. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We soak the rabbit in water and add wine vinegar.' Around the situation and kitchen, Barinov sets a calm, everyday tone with Kostya.
-- 'This will tenderize the meat and remove the unpleasant smell.' Once this will tenderize the meat and remove the unpleasant smell, Barinov can finally tell Kostya what he means.
-- 'Dima, when you chop onions, always chew gum.' Over the situation and the conversation, Max answers Barinov without a second thought.
-- 'Then you definitely will not cry from the onions.' Max tells Barinov that Barinov definitely will not cry from the onions without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nastya, they just gave me a bonus, fifty thousand!' Insisting that they just gave him a bonus fifty thousand shows Kostya is not backing down.
-- 'And fifty thousand for you too, Vika rewarded us before leaving!' With the plan and conversation at stake, Kostya reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Now that is really very cool!' Declaring that that is really very cool brings Max's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'You let such a wonderful woman slip away, Max!' Barinov shares a firm footing as they talk, leaning on "prekrasnuyu" ("wonderful") before closing the thought with "zhenshchinu" ("a woman").
+- 'But nothing at all happened between her and Nagiyev.' Barinov adopts an emphatic stance in the room, pairing "voobshche" ("at all") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Wait, Chef, how do you know that?' Max challenges boldly for Barinov's benefit, building the phrase around "podozhdite" ("wait") and "otkuda" ("where from") for a crisp, natural delivery.
+- 'Believe me, I know for sure!' Barinov conveys a firm mood as they talk, using "pover" (from "poverit", "believe") alongside "tochno" ("definitely") to shape the meaning.
+- 'And remember, Dima, the kitchen is real magic!' Barinov strikes a brisk rhythm at once, building the phrase around "zapomni" ("remember") and "kukhnya" ("kitchen") for a crisp, natural delivery.
+- 'We soak the rabbit in water and add wine vinegar.' Barinov keeps a wry style as the scene unfolds, anchoring the Russian line on "vymachivayem" ("soak") and "krolika" ("rabbit") without extra filler.
+- 'This will tenderize the meat and remove the unpleasant smell.' Barinov displays a pointed line as they talk, anchoring the Russian line on "smyagchit" ("will tenderize") and "myaso" ("meat") without extra filler.
+- 'Dima, when you chop onions, always chew gum.' Max strikes an unhurried direction as the scene unfolds, combining "kogda" ("when") and "rezhesh" ("cut, slice") so the key meaning lands right away.
+- 'Then you definitely will not cry from the onions.' Max projects a frank bearing in the conversation, pairing "togda" ("back then") with "tochno" ("definitely") to get the point across in plain spoken Russian.
+- 'Nastya, they just gave me a bonus, fifty thousand!' Kostya holds an unhurried attitude on the spot, leaning on "tolko" ("only") before closing the thought with "premiyu" ("bonus, prize").
+- 'And fifty thousand for you too, Vika rewarded us before leaving!' Kostya chooses a lively approach with Barinov, building the phrase around "tozhe" ("too") and "tysyach" ("thousand") for a crisp, natural delivery.
+- 'Now that is really very cool!' Max conveys a frank approach as the scene unfolds, anchoring the Russian line on "deystvitelno" ("really, indeed") and "ochen" ("very much") without extra filler.

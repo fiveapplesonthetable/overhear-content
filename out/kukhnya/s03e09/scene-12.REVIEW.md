@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let Lyova babysit him now.' Telling Kostya to let Lyova babysit him now is how Barinov lays out the situation for Kostya.
-- 'Where have you been wandering around so long?' Wondering if where have Kostya been wandering around so long shows Barinov caught off guard.
-- 'I am not going to drink here alone!' Once he is not going to drink here alone, Barinov makes sure Kostya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hi, sweetheart, how are things going with you?' Questioning whether sweetheart how are things going with Barinov is how Nastya tests Barinov's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Were you not late for work today?' Asking whether Barinov not late for work today cuts straight through the tension between Nastya and Barinov.
-- 'Hi, no, everything is fine with me.' Because everything is fine with him, Kostya treats the matter as settled. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I decided to go to the shop again.' Explaining that she decided to go to the shop again lays the cards on the table for Barinov.
-- 'I see, that is very good, Nastya.' Saying that he sees that is very good is how Kostya sets the tone with Barinov.
-- 'Afterwards I will drop by your bar.' Claiming that afterwards she will drop by Barinov's bar sounds confident, even if Barinov has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, I will not distract you right now.' Pointing out that Alright she will not distract Barinov right now gives Barinov a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, see you soon then, bye.' With the conversation and surprise in play, Kostya keeps this short reply brisk and direct.
-- 'Kissing you tightly, bye!' Around the visit and plan, Nastya makes her point loud and clear. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Let Lyova babysit him now.' Barinov adopts a natural angle across the room, combining "teper" ("now") and "nyanchitsya" ("babysits, fusses over") so the key meaning lands right away.
+- 'Where have you been wandering around so long?' Barinov questions naturally as the talk turns, weaving "gde" ("where") together with "dolgo" ("for a long time") just the way native speakers do.
+- 'I am not going to drink here alone!' Barinov favors a sharp tone for Kostya, building the phrase around "budu" ("will be") and "tut" ("here") for a crisp, natural delivery.
+- 'Hi, sweetheart, how are things going with you?' Nastya inquires honestly in this moment, combining "lyubimyy" ("favourite") and "kak" ("how") so the key meaning lands right away.
+- 'Were you not late for work today?' Nastya questions dryly right away, pairing "segodnya" ("today") with "rabotu" ("job") to get the point across in plain spoken Russian.
+- 'Hi, no, everything is fine with me.' Kostya projects a playful footing at once, combining "khorosho" ("good, fine") and "privet" ("hi") so the key meaning lands right away.
+- 'I decided to go to the shop again.' Nastya takes a pointed direction right away, combining "snova" ("again") and "reshila" ("decided") so the key meaning lands right away.
+- 'I see, that is very good, Nastya.' Kostya establishes a wry course in the conversation, building the phrase around "ponyatno" ("clear") and "ochen" ("very much") for a crisp, natural delivery.
+- 'Afterwards I will drop by your bar.' Nastya brings a brisk manner in front of Barinov, leaning on "potom" ("then") before closing the thought with "bar" ("bar").
+- 'Alright, I will not distract you right now.' Nastya shares a brisk tempo for Kostya, pairing "seychas" ("now") with "budu" ("will be") so the "-sya" ending carries the action.
+- 'Alright, see you soon then, bye.' Kostya projects a clear view as the scene unfolds, joining "khorosho" ("good, fine") to "togda" ("back then") so every word pulls its weight.
+- 'Kissing you tightly, bye!' Nastya strikes a brisk manner on the spot, using "tseluyu" (from "tselovat", "kisses") alongside "krepko" ("tightly") to shape the meaning.

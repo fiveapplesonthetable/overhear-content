@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, just promise you will not get upset.' Once just promise Nastya will not get upset, Kostya can finally tell Nastya what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am not getting upset.' Noting that she is not getting upset keeps Nastya's side of the story simple and clear.
-- 'I really wanted to help you make peace.' Kostya tells Nastya that he really wanted to help Nastya makes peace without dressing it up.
-- 'And I broke his nose.' Around the moment and point, Nastya sets a calm, everyday tone with Kostya.
-- 'Did the two of you get into a fight again?' Here asking whether the two of Nastya gets into a fight again shows Kostya looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'He barely even fought back.' Over the conversation and the peace, Nastya answers Kostya without a second thought.
-- 'He was the one who told me to swing.' Because he was the one who told him to swing, Kostya treats the matter as settled.
-- 'And you beat the man up.' Explaining that Kostya beats the man up lays the cards on the table for Kostya.
-- 'Well, he asked for it himself.' Kostya mentions that he asked for it himself so Nastya sees what is at stake.
-- 'Kostya, maybe you are going to beat up my mother next?' Asking whether maybe Kostya is going to beat up her mother next puts Kostya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Honestly, it seems I hardly knew you at all.' Pointing out that it seems she hardly knew Kostya at all gives Kostya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hello, Mom, what happened to Dad?' Over the call and the news, Nastya presses Kostya for a straight answer.
-- 'All right, I am on my way right now.' Realizing that all right he is on his way right now changes how Kostya handles the situation.
+- 'Nastya, just promise you will not get upset.' Kostya keeps an easygoing bearing in front of Nastya, joining "tolko" ("only") to "volnuysya" ("worry") so every word pulls its weight.
+- 'I am not getting upset.' Nastya brings an emphatic mood with Kostya, weaving "volnuyus" ("am nervous") together with "ya" ("I") just the way native speakers do.
+- 'I really wanted to help you make peace.' Kostya takes a frank mood straight away, combining "ochen" ("very much") and "khotel" ("wanted") so the key meaning lands right away.
+- 'And I broke his nose.' Nastya takes an earnest rhythm straight away, using "slomal" (from "slomat", "broke") alongside "nos" ("nose") to shape the meaning.
+- 'Did the two of you get into a fight again?' Kostya tests steadily at this point, leaning on "opyat" ("again") before closing the thought with "podralis" ("to fight, have a brawl").
+- 'He barely even fought back.' Nastya maintains a candid footing in front of Kostya, anchoring the Russian line on "pochti" ("almost") and "dralsya" ("to fight, to brawl") without extra filler.
+- 'He was the one who told me to swing.' Kostya presents a frank posture at once, pairing "predlozhil" ("suggested") with "no" ("but") to get the point across in plain spoken Russian.
+- 'And you beat the man up.' Nastya shares an easygoing attitude with Kostya, anchoring the Russian line on "izbil" ("to beat up") and "cheloveka" ("a man, a person") without extra filler.
+- 'Well, he asked for it himself.' Kostya keeps a wry rhythm beside Nastya, building the phrase around "znachit" ("then, so") and "zakhotel" ("to want, to feel like") for a crisp, natural delivery.
+- 'Kostya, maybe you are going to beat up my mother next?' Nastya questions sharply to Kostya here, pairing "mozhet" ("can") with "mamu" ("mother, mum") to get the point across in plain spoken Russian.
+- 'Honestly, it seems I hardly knew you at all.' Nastya takes an earnest mood straight away, joining "voobshche" ("at all") to "pokhozhe" ("like, similar") so every word pulls its weight.
+- 'Hello, Mom, what happened to Dad?' Nastya wonders naturally as they speak, combining "mam" ("Mum") and "papoy" ("dad") so the key meaning lands right away.
+- 'All right, I am on my way right now.' Kostya sustains a calm attitude at once, leaning on "seychas" ("now") before closing the thought with "priyedu" ("will come, visit").

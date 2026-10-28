@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'New order: stellate sturgeon in white wine.' Around the moment and order, Lyova sets a calm, everyday tone with Eleonora.
-- 'Lyova, where is the fish?' By asking where the fish is, Senya presses Eleonora for a straight answer.
-- 'There is nothing here!' Declaring that there is nothing here brings Lyova's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Am I immediately to blame?' Over the truth and the order, Senya presses Eleonora for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'As if nobody steals except me.' Pointing out that as if nobody steals except him gives Eleonora a sobering reality check.
-- 'Then I will conduct my own investigation and find the thief.' Senya explains that he will conduct his own investigation and find the thief, keeping his voice calm and direct.
-- 'For now, everyone is under suspicion.' Realizing that for now everyone is under suspicion changes how Senya handles the situation.
-- 'How have you not sent your own daughter to an asylum yet?' Questioning whether how have Eleonora not sent Eleonora's own daughter to an asylum yet is how Lyova tests Eleonora's story.
-- 'Vitya, stop it.' Saying that Lyova should stop it is how Eleonora sets the tone with Lyova.
-- 'He is a good specialist.' Admitting that he is a good specialist shows Eleonora being honest for a change.
-- 'Back in the day he helped me a lot.' Saying that back in the day he helped her a lot is how Eleonora sets the tone with Lyova.
-- 'Either you do not respond to treatment, or he is a bad specialist.' Once either Eleonora does not respond to treatment or he is a bad specialist, Lyova can finally tell Eleonora what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'New order: stellate sturgeon in white wine.' Lyova sustains an unhurried line in the scene, building the phrase around "novyy" ("new") and "zakaz" ("order") for a crisp, natural delivery.
+- 'Lyova, where is the fish?' Senya questions quietly in the scene, putting "gde" ("where") alongside "ryba" ("fish") in a tight, everyday turn of phrase.
+- 'There is nothing here!' Lyova projects a thoughtful direction right away, leaning on "nichego" ("nothing") before closing the thought with "net" ("no").
+- 'Am I immediately to blame?' Senya tests calmly in this moment, linking "srazu" ("at once") directly with "vinovat" ("at fault, guilty"), since Russian drops "is" and "are" in the present.
+- 'As if nobody steals except me.' Senya establishes a thoughtful bearing in front of Eleonora, pairing "kak" ("how") with "voruyet" ("steals") to get the point across in plain spoken Russian.
+- 'Then I will conduct my own investigation and find the thief.' Senya chooses an honest bearing as they talk, putting "togda" ("back then") alongside "provedu" ("will spend") in a tight, everyday turn of phrase.
+- 'For now, everyone is under suspicion.' Senya sustains a natural course beside Eleonora, linking "poka" ("bye") directly with "podozreniyem" ("suspicion"), since Russian drops "is" and "are" in the present.
+- 'How have you not sent your own daughter to an asylum yet?' Lyova prompts directly with Senya now, anchoring the Russian line on "kak" ("how") and "yeshchyo" ("more, still") without extra filler.
+- 'Vitya, stop it.' Eleonora keeps a sharp posture on the spot, combining "zakanchivay" ("to finish, to conclude") and "vitya" ("Vitya") so the key meaning lands right away.
+- 'He is a good specialist.' Eleonora takes an easygoing position across the room, weaving "khoroshiy" ("good") together with "spetsialist" ("specialist") just the way native speakers do.
+- 'Back in the day he helped me a lot.' Eleonora displays a steady rhythm in front of Lyova, weaving "vremya" ("time") together with "ochen" ("very much") just the way native speakers do.
+- 'Either you do not respond to treatment, or he is a bad specialist.' Lyova adopts a measured tone right away, putting "lecheniyu" ("treatment") alongside "poddayoshsya" ("respond to") in a tight, everyday turn of phrase.

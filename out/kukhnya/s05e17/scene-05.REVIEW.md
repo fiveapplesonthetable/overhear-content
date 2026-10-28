@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, get in the car, I will explain.' Here getting in the car he will explain sets up the next turn in their exchange.
-- 'You have to hear me out right now.' Even though Eleonora has to hear him out right now, Nikita keeps a steady face in front of Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Whose car did you have yesterday?' Asking whether whose car did Eleonora has yesterday puts Eleonora right on the defensive.
-- 'Honestly speaking, I do not know.' Saying that speaking he does not know is how Nikita sets the tone with Eleonora.
-- 'I simply stole that car.' Once he simply stole that car, Nikita can finally tell Eleonora what he means.
-- 'That sounds very unexpected.' Adding that that sounds very unexpected fills in the missing piece for Eleonora.
-- 'Not everyone's mother owns a hotel.' Between the job and the shift, Nikita gives Eleonora a quick, grounded response.
-- 'I steal expensive cars to order.' Noting that he steals expensive cars to order keeps Nikita's side of the story simple and clear.
-- 'That is the kind of side job I have.' Mentioning that that is the kind of side job he has moves the talk in a new direction.
-- 'Good morning, have you seen Mikhail?' Asking whether Katya seen Mikhail cuts straight through the tension between Eleonora and Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'The two of you have grown closer lately.' Because the two of Katya has grown closer lately, Eleonora treats the matter as settled. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Alright, I will look for him myself.' Explaining that Alright she will look for him herself lays the cards on the table for Katya.
+- 'Katya, get in the car, I will explain.' Nikita establishes an easygoing mood as they talk, combining "sadis" ("sit down") and "mashinu" ("car") so the key meaning lands right away.
+- 'You have to hear me out right now.' Nikita strikes a measured course in front of Katya, linking "dolzhna" ("should, must"), "seychas" ("now"), and "vyslushat" ("to listen to") in one brisk exchange.
+- 'Whose car did you have yesterday?' Katya prompts bluntly to make the point, combining "vchera" ("yesterday") and "byla" ("was") so the key meaning lands right away.
+- 'Honestly speaking, I do not know.' Nikita conveys a warm style in this beat, putting "chestno" ("honestly") alongside "govorya" ("speaking") in a tight, everyday turn of phrase.
+- 'I simply stole that car.' Nikita sustains a frank line in this beat, linking "mashinu" ("car"), "prosto" ("just"), and "ugnal" ("to flip, steal") in one brisk exchange.
+- 'That sounds very unexpected.' Katya sustains a serious approach as they talk, joining "zvuchit" ("sounds") to "ochen" ("very much") so every word pulls its weight.
+- 'Not everyone's mother owns a hotel.' Nikita holds a thoughtful angle in the conversation, linking "mamy" ("mum, mother"), "otelyami" ("hotels"), and "vladeyut" ("own") in one brisk exchange.
+- 'I steal expensive cars to order.' Nikita brings a direct position without hesitation, leaning on "ugonyayu" ("I steal") before closing the thought with "dorogiye" ("dear").
+- 'That is the kind of side job I have.' Nikita shows a thoughtful rhythm toward Eleonora, combining "prirabotok" ("side job") and "vot" ("there, here") so the key meaning lands right away.
+- 'Good morning, have you seen Mikhail?' Eleonora asks dryly as the talk turns, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
+- 'The two of you have grown closer lately.' Eleonora holds a grounded footing in the scene, combining "posledneye" ("last, final") and "vremya" ("time") so the key meaning lands right away.
+- 'Alright, I will look for him myself.' Eleonora holds an unhurried stance on the spot, joining "poishchu" ("will look for") to "ladno" ("all right") so every word pulls its weight.

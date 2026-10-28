@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you everyone, the session is over.' Eleonora tells Barinov that everyone the session is without dressing it up.
-- 'Are we going to go through this every morning now?' Checking whether they going to go through this every morning now is how Barinov puts Eleonora on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Studies showed that the day should start with classical music.' Mentioning that studies showed that the day should start with classical music moves the talk in a new direction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Then labor productivity increases.' Over the kitchen and the hotel, Eleonora answers Barinov without a second thought.
-- 'I simply did not understand the idea right away.' Because he simply did not understand the idea right away, Barinov treats the matter as settled.
-- 'And it made me want my mom to hug me.' Explaining that it made him want his to hug him lays the cards on the table for Barinov.
-- 'Thank you everyone, let's get to work.' Eleonora mentions that everyone let them get to work so Barinov sees what is at stake.
-- 'Eleonora Andreyevna, my father wrote to me.' Claiming that his father wrote to him sounds confident, even if Barinov has doubts.
-- 'There was an inspector at their restaurant.' Pointing out that there was an inspector at their restaurant gives Barinov a sobering reality check.
-- 'If he is in Moscow, then he will stop by our place too.' Louis explains that if he is in Moscow then he will stop by their place, keeping his voice calm and direct.
-- 'This is our chance to get a star!' Barinov insists that this is their chance to get a star, leaving Eleonora no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Be ready today!' Around the morning and shift, Eleonora makes her point loud and clear. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Thank you everyone, the session is over.' Eleonora favors a candid note as they talk, putting "spasibo" ("thank you") alongside "urok" ("lesson") in a tight, everyday turn of phrase.
+- 'Are we going to go through this every morning now?' Barinov probes promptly in the room, weaving "teper" ("now") together with "kazhdoye" ("every, each") just the way native speakers do.
+- 'Studies showed that the day should start with classical music.' Eleonora conveys an earnest mood in front of Barinov, joining "issledovaniya" ("studies, research") to "pokazali" ("showed") so every word pulls its weight.
+- 'Then labor productivity increases.' Eleonora shows a clear line in their talk, leaning on "togda" ("back then") before closing the thought with "proizvoditelnost" ("productivity").
+- 'I simply did not understand the idea right away.' Barinov shares a wry rhythm with Eleonora, pairing "prosto" ("just") with "ideyu" ("idea") to get the point across in plain spoken Russian.
+- 'And it made me want my mom to hug me.' Louis sets a serious tone in the conversation, anchoring the Russian line on "zakhotelos" ("felt like having") and "mama" ("mum, mother") without extra filler.
+- 'Thank you everyone, let's get to work.' Eleonora sets an easygoing tack in the scene, linking "spasibo" ("thank you"), "rabotayem" ("we work, let's work"), and "vsem" ("everyone") in one brisk exchange.
+- 'Eleonora Andreyevna, my father wrote to me.' Louis brings a sharp rhythm in the room, pairing "otets" ("father") with "napisal" ("wrote") so the "-sya" ending carries the action.
+- 'There was an inspector at their restaurant.' Louis picks an honest angle without hesitation, pairing "restorane" ("restaurant") with "byl" ("was") to get the point across in plain spoken Russian.
+- 'If he is in Moscow, then he will stop by our place too.' Louis holds a clear course across the room, joining "zaydet" ("will stop by") to "yesli" ("if") so every word pulls its weight.
+- 'This is our chance to get a star!' Barinov shows a resolute tack in their talk, leaning on "shans" ("chance") before closing the thought with "poluchit" ("to get, to receive").
+- 'Be ready today!' Eleonora chooses a lively stance toward Louis, leaning on "budte" ("be") before closing the thought with "gotovy" ("ready").

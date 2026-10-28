@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I invite you to dinner tonight at Claude Monet.' Once she invites Nagiyev to dinner tonight at Claude Monet, Vika can finally tell Nagiyev what she means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh my goodness, how wonderful.' Over the room and the truth, Nagiyev answers Vika without a second thought.
-- 'Of course I accept.' Between the room and the truth, Vika gives Nagiyev a quick, grounded response.
-- 'You are not much of an actress.' Saying that Vika is not much of an actress is how Nagiyev sets the tone with Vika. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is a date. Kisses.' Because it is a date, Vika treats the matter as settled.
-- 'Vika, reserve this table right here for me tonight.' Over the shift and the table, Nagiyev answers Vika without a second thought.
-- 'That is Dmitry Vladimirovich's favorite table.' Vika mentions that that is Dmitry Vladimirovich favorite table so Nagiyev sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He has already reserved it for tonight.' Mentioning that he has already reserved it for tonight moves the talk in a new direction.
-- 'He reserves it every single day and never shows up.' Pointing out that he reserves it every single day and never shows up gives Nagiyev a sobering reality check.
-- 'If he shows up, I will smooth it over with him.' Nagiyev explains that if he shows up he will smooth it over with him, keeping his voice calm and direct.
-- 'Or else I will just say that you never warned me.' Realizing that else she will just say that Nagiyev never warned changes how Vika handles the situation.
-- 'This is for table five.' Noting that this is for table five keeps Nagiyev's side of the story simple and clear.
-- 'People are ordering so much meat today, as if Lent just ended.' Even though people are ordering so much meat today as if just ended, Vika keeps a steady face in front of Nagiyev.
+- 'I invite you to dinner tonight at Claude Monet.' Vika picks a measured footing during the exchange, combining "priglashayu" ("invite") and "segodnya" ("today") so the key meaning lands right away.
+- 'Oh my goodness, how wonderful.' Nagiyev sets a calm stance for Vika, combining "bozhe" ("good lord, God") and "kak" ("how") so the key meaning lands right away.
+- 'Of course I accept.' Vika sustains a lively stance as they talk, anchoring the Russian line on "konechno" ("of course") and "soglasna" ("agree") without extra filler.
+- 'You are not much of an actress.' Nagiyev establishes a resolute posture in the scene, weaving "aktrisa" ("actress") together with "ochen" ("very much") just the way native speakers do.
+- 'It is a date. Kisses.' Vika maintains a thoughtful course for Nagiyev, combining "dogovorilis" ("agreed, deal") and "tseluyu" ("kisses") so the key meaning lands right away.
+- 'Vika, reserve this table right here for me tonight.' Nagiyev strikes a measured mood in the conversation, linking "zabroniruy" ("to reserve"), "vecher" ("evening"), and "stolik" ("table") in one brisk exchange.
+- 'That is Dmitry Vladimirovich's favorite table.' Vika holds a pointed mood as the scene unfolds, joining "lyubimyy" ("favourite") to "stolik" ("table") so every word pulls its weight.
+- 'He has already reserved it for tonight.' Nagiyev projects a steady position in this beat, anchoring the Russian line on "segodnya" ("today") and "uzhe" ("already, now") without extra filler.
+- 'He reserves it every single day and never shows up.' Vika adopts an honest mood in their talk, weaving "kazhdyy" ("every") together with "den" ("day") just the way native speakers do.
+- 'If he shows up, I will smooth it over with him.' Nagiyev keeps a direct approach as the scene unfolds, weaving "pridet" ("will come") together with "dogovoryu" ("to finish speaking") just the way native speakers do.
+- 'Or else I will just say that you never warned me.' Vika offers a candid style at once, joining "skazhu" ("I'll tell") to "preduprezhdal" ("warned") so every word pulls its weight.
+- 'This is for table five.' Nagiyev adopts a warm mood during the exchange, building the phrase around "pyatogo" ("fifth") and "stolika" ("table") for a crisp, natural delivery.
+- 'People are ordering so much meat today, as if Lent just ended.' Vika sustains an easygoing attitude with Nagiyev, joining "stolko" ("so many") to "segodnya" ("today") so every word pulls its weight.

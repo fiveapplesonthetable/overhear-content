@@ -7,7 +7,7 @@ SCENE = 19
 TITLE = 'Повара выходят в зал  (The Cooks March into the Dining Room)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
 SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 INTRO = "In the kitchen, Kostya pats Max on the back and promises he will meet plenty of other experienced women. Then, refusing to let Vika's waitress strike paralyze the restaurant, Chef Barinov marches his entire brigade of cooks straight into the dining room carrying the guests' plates."
@@ -18,30 +18,30 @@ CLOSING = ('barinov', 'Увидимся!')
 STORY = [
     ('barinov', 'О, гляди.', 'Oh, just look at that.', [(310, 'О, гляди')], ''),
     ('vika', 'Да ладно, не расстраивайся так.', 'Come on, do not be so upset about it.', [(312, 'Да ладно, не расстраивайся так')], ''),
-    ('nagiyev', 'Будут у тебя еще опытные женщины.', 'You will have plenty of other experienced women in your life.', [(313, 'Будут у тебя еще опытные женщины')], ''),
+    ('max', 'Будут у тебя еще опытные женщины.', 'You will have plenty of other experienced women in your life.', [(313, 'Будут у тебя еще опытные женщины')], ''),
     ('barinov', 'Что вы, профессионалы.', 'Not at all, you are true professionals.', [(316, 'Что вы, профессионалы')], ''),
     ('vika', 'Приятного аппетита.', 'Enjoy your meal.', [(317, 'Приятного аппетита')], ''),
-    ('nagiyev', 'Извините, что так долго.', 'Forgive us for taking so long.', [(318, 'Извините, что так долго')], ''),
+    ('max', 'Извините, что так долго.', 'Forgive us for taking so long.', [(318, 'Извините, что так долго')], ''),
     ('barinov', 'Все из-за Виктории Сергеевны.', 'It is all because of Viktoriya Sergeyevna.', [(322, 'Все из-за Виктории Сергеевны')], ''),
     ('vika', 'Я понимаю.', 'I understand completely.', [(324, 'Я понимаю')], ''),
-    ('nagiyev', 'Как-то не пришли, а?', 'Wait, how come the waitresses did not show up, huh?', [(325, 'Как-то не пришли, а')], ''),
+    ('max', 'Как-то не пришли, а?', 'Wait, how come the waitresses did not show up, huh?', [(325, 'Как-то не пришли, а')], ''),
     ('barinov', 'Откуда я знаю?', 'How am I supposed to know?', [(326, 'Откуда я знаю')], ''),
     ('vika', 'Вон, рыжие на месте.', 'Look, the redhead is at her post.', [(327, 'Вон, рыжие на месте')], ''),
-    ('nagiyev', 'Бармен работает чуть мельче, да?', 'The bartender is working a bit slower, right?', [(328, 'Бармен работает чуть мельче, да')], ''),
+    ('max', 'Бармен работает чуть мельче, да?', 'The bartender is working a bit slower, right?', [(328, 'Бармен работает чуть мельче, да')], ''),
     ('barinov', 'Повара красавцы.', 'The cooks look like real champions.', [(329, 'Повара красавцы')], ''),
 ]
 WALK = [
-    (0, None, "'Oh, just look at that.' Around the plan and restaurant, Barinov sets a calm, everyday tone with Nagiyev."),
-    (1, None, "'Come on, do not be so upset about it.' Coming on do not be so upset about it is how Vika lays out the situation for Barinov."),
-    (2, None, '\'You will have plenty of other experienced women in your life.\' Claiming that Barinov will have plenty of other experienced women in Barinov\'s life sounds confident, even if Barinov has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (3, None, "'Not at all, you are true professionals.' Pointing out that not at all Nagiyev is true professionals gives Nagiyev a sobering reality check."),
-    (4, None, "'Enjoy your meal.' Here telling Barinov to enjoy Barinov's meal sets up the next turn in their exchange."),
-    (5, None, "'Forgive us for taking so long.' Since Barinov should forgive them for taking so long, Nagiyev does not waste words on excuses."),
-    (6, None, "'It is all because of Viktoriya Sergeyevna.' Noting that it is all because of Viktoriya Sergeyevna keeps Barinov's side of the story simple and clear."),
-    (7, None, "'I understand completely.' Explaining that she understands completely lays the cards on the table for Barinov."),
-    (8, None, '\'Wait, how come the waitresses did not show up, huh?\' Wondering if how come the waitresses did not show up huh shows Nagiyev caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (9, None, "'How am I supposed to know?' With the moment and restaurant hanging in the air, Barinov puts Nagiyev on the spot."),
-    (10, None, "'Look, the redhead is at her post.' Once the redhead is at her post, Vika can finally tell Barinov what she means."),
-    (11, None, '\'The bartender is working a bit slower, right?\' Nagiyev asks whether the bartender is working a bit slower right, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (12, None, "'The cooks look like real champions.' Barinov tells Nagiyev that the cooks look like real champions without dressing it up."),
+    (0, None, '\'Oh, just look at that.\' Barinov presents a playful approach in front of Max, putting all the weight on "glyadi" ("look, take a look") so the reply lands immediately.'),
+    (1, None, '\'Come on, do not be so upset about it.\' Vika picks a firm attitude with Max, linking "rasstraivaysya" ("be upset, worry"), "da" ("yes"), and "ladno" ("all right") in one brisk exchange.'),
+    (2, None, '\'You will have plenty of other experienced women in your life.\' Max holds a thoughtful line as they talk, combining "budut" ("there will be") and "yeshche" ("still") so the key meaning lands right away.'),
+    (3, None, '\'Not at all, you are true professionals.\' Barinov holds a frank angle in the room, anchoring the Russian line on "professionaly" ("professionals") and "chto" ("what") without extra filler.'),
+    (4, None, '\'Enjoy your meal.\' Vika strikes a frank style toward Barinov, joining "priyatnogo" ("pleasant") to "appetita" ("appetite") so every word pulls its weight.'),
+    (5, None, '\'Forgive us for taking so long.\' Max shares an unhurried mood in front of Vika, putting "izvinite" ("sorry, excuse me") alongside "dolgo" ("for a long time") in a tight, everyday turn of phrase.'),
+    (6, None, '\'It is all because of Viktoriya Sergeyevna.\' Barinov adopts a serious manner in this beat, leaning on "vse" ("all") before closing the thought with "iz-za" ("because of").'),
+    (7, None, '\'I understand completely.\' Vika displays a candid direction across the room, building the phrase around "ponimayu" ("understand") and "ya" ("I") for a crisp, natural delivery.'),
+    (8, None, '\'Wait, how come the waitresses did not show up, huh?\' Max probes quietly to Barinov here, joining "kak-to" ("somehow, a bit") to "prishli" ("have come") so every word pulls its weight.'),
+    (9, None, '\'How am I supposed to know?\' Barinov tests quietly during the talk, putting "otkuda" ("where from") alongside "znayu" ("know") in a tight, everyday turn of phrase.'),
+    (10, None, '\'Look, the redhead is at her post.\' Vika presents an earnest position during the exchange, building the phrase around "ryzhiye" ("red-haired") and "meste" ("place") for a crisp, natural delivery.'),
+    (11, None, '\'The bartender is working a bit slower, right?\' Max asks honestly during the talk, anchoring the Russian line on "barmen" ("bartender") and "rabotayet" ("works") without extra filler.'),
+    (12, None, '\'The cooks look like real champions.\' Barinov sustains a direct footing at once, weaving "povara" ("cook") together with "krasavtsy" ("handsome man") just the way native speakers do.'),
 ]

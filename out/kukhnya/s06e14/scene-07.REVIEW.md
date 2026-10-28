@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, tell me, why did you call me?' Asking whether tell her why did Nastya calls puts Nastya right on the defensive.
-- 'You need to choose between two guys.' Even though Katya needs to choose between two guys, Nastya keeps a steady face in front of Katya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'For that we need to make a list of flaws.' With the truth and conversation in play, Nastya keeps this short reply brisk and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I am not going to occupy myself with such nonsense.' Being not going to occupy herself with such nonsense is how Katya lays out the situation for Nastya.
-- 'Of course, that is why I put it all together myself.' Once that is why she puts it all together herself, Nastya can finally tell Katya what she means.
-- 'Here, look closely at this sheet of paper.' Around the plan and point, Nastya sets a calm, everyday tone with Katya.
-- 'Denis is flighty and unreliable.' Saying that Denis is flighty and unreliable is how Nastya sets the tone with Katya.
-- 'Well, one can still live with that.' Since one can still live, Katya does not waste words on excuses. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Katya, on the other hand this list is very objective.' Mentioning that on the other hand this list is very objective moves the talk in a new direction. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'Thank you very much for your help, Nastya.' With the plan and truth in play, Katya keeps this short reply brisk and direct.
-- 'But I will figure everything out myself somehow.' Because she will figure everything out herself somehow, Katya treats the matter as settled.
-- 'Mind you do not lose this important sheet of paper.' Telling Katya to mind Katya does not lose this important sheet of paper moves the conversation forward without extra drama.
+- 'Nastya, tell me, why did you call me?' Katya probes boldly to make the point, joining "skazhi" ("say") to "zachem" ("what for") so every word pulls its weight.
+- 'You need to choose between two guys.' Nastya projects a pointed tempo in front of Katya, building the phrase around "nuzhno" ("necessary") and "vybrat" ("to choose") for a crisp, natural delivery.
+- 'For that we need to make a list of flaws.' Nastya conveys a sharp position beside Katya, putting "nuzhno" ("necessary") alongside "sostavit" ("to put together") in a tight, everyday turn of phrase.
+- 'I am not going to occupy myself with such nonsense.' Katya shows a grounded direction on the spot, combining "glupostyu" ("nonsense, foolishness") and "zanimatsya" ("to be busy with") so the key meaning lands right away.
+- 'Of course, that is why I put it all together myself.' Nastya keeps a firm angle in the scene, leaning on "konechno" ("of course") before closing the thought with "poetomu" ("that's why").
+- 'Here, look closely at this sheet of paper.' Nastya picks a brisk view toward Katya, putting "posmotri" ("look") alongside "vnimatelno" ("carefully, attentively") in a tight, everyday turn of phrase.
+- 'Denis is flighty and unreliable.' Nastya conveys a natural position in front of Katya, linking "vetrenyy" ("fickle"), "nenadyozhnyy" ("unreliable"), and "denis" ("Denis") in one brisk exchange.
+- 'Well, one can still live with that.' Katya picks a warm line beside Nastya, anchoring the Russian line on "yeshchyo" ("more, still") and "mozhno" ("may, can") without extra filler.
+- 'Katya, on the other hand this list is very objective.' Nastya holds a playful tone toward Katya, linking "spisok" ("list"), "ochen" ("very much"), and "obyektivnyy" ("objective, impartial") in one brisk exchange.
+- 'Thank you very much for your help, Nastya.' Katya shows a frank style in their talk, building the phrase around "bolshoye" ("big, very much") and "spasibo" ("thank you") for a crisp, natural delivery.
+- 'But I will figure everything out myself somehow.' Katya shares a resolute note as they talk, combining "kak-nibud" ("somehow") and "razberus" ("I will sort out") so the key meaning lands right away.
+- 'Mind you do not lose this important sheet of paper.' Nastya offers a measured attitude at this moment, linking "smotri" ("look"), "poteryay" ("only"), and "vazhnyy" ("important") in one brisk exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We only chip in together in one case.' Between the truth and the point, Senya gives Fedya a quick, grounded response.
-- 'When we go to the sauna as a team.' With the truth and room in play, Fedya keeps this short reply brisk and direct.
-- 'And today is a completely different case.' Pointing out that today is a completely different case gives Fedya a sobering reality check.
-- 'You were the one who invited us.' Fedya explains that Senya was the one who invited them, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'My entire paycheck is right here.' Realizing that his entire paycheck is right here changes how Senya handles the situation.
-- 'That will teach you a lesson.' Noting that that will teach Senya a lesson keeps Fedya's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Next time you will not go grabbing other people's food.' Even though next time Fedya will not go grabbing other people food, Senya keeps a steady face in front of Fedya.
-- 'That is just how it goes in life.' Admitting that that is just how it goes in life shows Fedya being honest for a change.
-- 'You bend over backward trying your hardest.' Between the plan and the room, Senya gives Fedya a quick, grounded response.
-- 'Wait, I do not get it.' Once he does not get it, Fedya can finally tell Senya what he means.
-- 'Where is the money?' Wondering where the money is cuts straight through the tension between Senya and Fedya.
-- 'There is a thousand rubles missing in here.' Saying that there is a thousand rubles missing in here is how Fedya sets the tone with Senya.
-- 'Hurry up, people are waiting out there.' Senya explains that Fedya should hurry up people are waiting out there, keeping his voice calm and direct.
+- 'We only chip in together in one case.' Senya adopts a sharp angle at this moment, joining "skidyvayemsya" ("are chipping in") to "tolko" ("only") so every word pulls its weight.
+- 'When we go to the sauna as a team.' Fedya holds an unhurried view in the scene, combining "kogda" ("when") and "khodim" ("we are walking") so the key meaning lands right away.
+- 'And today is a completely different case.' Senya chooses an emphatic course in their talk, joining "segodnya" ("today") to "drugoy" ("other") so every word pulls its weight.
+- 'You were the one who invited us.' Fedya takes a firm tempo in this beat, joining "priglasil" ("invited") to "ty" ("you") so every word pulls its weight.
+- 'My entire paycheck is right here.' Senya picks a calm approach right away, placing "zdes" ("here") straight beside "zarplata" ("salary, wages") with no word for "to be" needed.
+- 'That will teach you a lesson.' Fedya displays a direct note in the scene, pairing "budet" ("will be") with "urokom" ("lesson") to get the point across in plain spoken Russian.
+- 'Next time you will not go grabbing other people's food.' Senya shows a serious angle toward Fedya, putting "bred" ("nonsense") alongside "budesh" ("will") in a tight, everyday turn of phrase.
+- 'That is just how it goes in life.' Fedya maintains a sharp style at this moment, combining "byvayet" ("there can be") and "zhizni" ("life") so the key meaning lands right away.
+- 'You bend over backward trying your hardest.' Senya conveys a resolute footing on the spot, building the phrase around "lezesh" ("climb, butt in") and "kozhi" ("skin, leather") for a crisp, natural delivery.
+- 'Wait, I do not get it.' Fedya holds a playful tack at this moment, using "ponyal" (from "ponyat", "understood") alongside "ya" ("I") to shape the meaning.
+- 'Where is the money?' Senya presses decisively beside Fedya, combining "gde" ("where") and "dengi" ("money") so the key meaning lands right away.
+- 'There is a thousand rubles missing in here.' Fedya holds an unhurried tone on the spot, weaving "tam" ("there") together with "tysyachi" ("thousands") just the way native speakers do.
+- 'Hurry up, people are waiting out there.' Senya strikes a grounded approach straight away, weaving "tam" ("there") together with "lyudi" ("people") just the way native speakers do.

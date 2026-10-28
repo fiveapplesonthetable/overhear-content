@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell the Chef that the sheikh wants to come to me after dinner.' Telling the Chef that the sheikh wants to come to her after dinner is how Katya lays out the situation for Barinov.
-- 'He wants to fulfill his marital duty!' Insisting that he wants to fulfill his marital duty shows Katya is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Keep quiet and go back.' Because Katya should keep quiet and go back, Barinov treats the matter as settled.
-- 'You are putting my daughter in danger, what are you doing?' Barinov asks whether Katya is putting his daughter in danger what are Katya doing, refusing to let the point slide.
-- 'Chef, they led Katya away in that outfit!' Max insists that they led Katya away in that outfit, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'In short, the sheikh wants to love her!' Saying that in short the sheikh wants to love is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Here is the very best lamb in all of Moscow.' Mentioning that here is the very best lamb in all of Moscow moves the talk in a new direction.
-- 'Timur, you will drive with me to the Metropol.' Saying that Katya will drive with him to the Metropol is how Barinov sets the tone with Katya.
-- 'We need to bring one person back fast.' Needing to bring one person back fast moves the conversation forward without extra drama. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Chef, and who will serve the dish to the sheikh?' Asking who serve the dish to the sheikh will is how Max puts Barinov on the spot.
-- 'I will serve it myself and stall him.' Barinov mentions that he will serve it himself and stall him so Katya sees what is at stake.
-- 'Good luck to you, Victor Petrovich!' With the shift and visit at stake, Max reacts without holding back. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Tell the Chef that the sheikh wants to come to me after dinner.' Katya establishes a clear line on the spot, leaning on "skazhite" ("tell") before closing the thought with "shefu" ("chef").
+- 'He wants to fulfill his marital duty!' Katya projects a measured line straight away, weaving "khochet" ("wants") together with "ispolnit" ("to fulfill") just the way native speakers do.
+- 'Keep quiet and go back.' Barinov chooses a resolute stance straight away, pairing "molchi" ("be quiet") with "idi" ("go") to get the point across in plain spoken Russian.
+- 'You are putting my daughter in danger, what are you doing?' Barinov tests wryly from the start, leaning on "doch" ("daughter") before closing the thought with "podstavlyayesh" ("are setting up").
+- 'Chef, they led Katya away in that outfit!' Max establishes an honest mood without hesitation, combining "tam" ("there") and "uveli" ("led away, took away") so the key meaning lands right away.
+- 'In short, the sheikh wants to love her!' Max establishes a wry position in their talk, joining "sheykh" ("sheikh") to "khochet" ("wants") so every word pulls its weight.
+- 'Here is the very best lamb in all of Moscow.' Barinov presents a thoughtful attitude toward Katya, putting "samyy" ("the most") alongside "luchshiy" ("best") in a tight, everyday turn of phrase.
+- 'Timur, you will drive with me to the Metropol.' Barinov picks a direct tack toward Max, anchoring the Russian line on "poyedesh" ("will go") and "timur" ("Timur") without extra filler.
+- 'We need to bring one person back fast.' Barinov displays a frank tempo in their talk, combining "nuzhno" ("necessary") and "privezti" ("to bring") so the key meaning lands right away.
+- 'Chef, and who will serve the dish to the sheikh?' Max tests calmly to Katya here, building the phrase around "podast" ("to submit, file") and "blyudo" ("dish") for a crisp, natural delivery.
+- 'I will serve it myself and stall him.' Barinov strikes a brisk stance toward Katya, using "podam" (from "podat", "will file") alongside "zaderzhu" ("will stop") to shape the meaning.
+- 'Good luck to you, Victor Petrovich!' Max chooses a natural footing toward Katya, pairing "udachi" ("luck") with "vam" ("you") to get the point across in plain spoken Russian.

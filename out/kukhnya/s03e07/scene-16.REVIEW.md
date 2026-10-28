@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, a guest is waiting for you out there with a cockroach.' Claiming that a guest is waiting for Max out there with a cockroach sounds confident, even if Max has doubts.
-- 'How tired I am of this already!' Declaring that how tired he is of this already brings Max's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What, it is boring to ride without music, right?' Questioning whether what it is boring to ride without music right is how Max tests Lyova's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vika, please, just hear me out.' Over the conversation and the car, Max answers Lyova without a second thought.
-- 'And what else is there to listen to here?' Asking whether what else is there to listen to here puts Lyova right on the defensive. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I have already listened to this a thousand times.' Admitting that she has already listened to this a thousand times shows Vika being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Vika, I was wrong, let us start everything from the beginning.' Admitting that he was wrong let them start everything from the beginning shows Max being honest for a change.
-- 'You are still a boy who does not know what he wants.' Saying that Lyova is still a boy who does not know what he wants is how Vika sets the tone with Lyova. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, I love you very much.' Loving Lyova very much moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, what did you just say?' Here asking what Lyova just say shows Vika looking for the real truth.
-- 'I said that I love you.' Max tells Lyova that he said that he loves Lyova without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I was afraid of those words, and now I say I truly love you.' Since he was afraid of those words and now he says he truly love Lyova, Max does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Chef, a guest is waiting for you out there with a cockroach.' Lyova conveys a sharp position in their talk, weaving "tam" ("there") together with "gost" ("guest") just the way native speakers do.
+- 'How tired I am of this already!' Max chooses a measured attitude in the conversation, weaving "kak" ("how") together with "nadoyelo" ("has got boring") just the way native speakers do.
+- 'What, it is boring to ride without music, right?' Max asks promptly from the start, anchoring the Russian line on "skuchno" ("boring") and "yekhat" ("to drive, to go") without extra filler.
+- 'Vika, please, just hear me out.' Max maintains a measured view in front of Vika, pairing "prosto" ("just") with "vyslushay" ("hear out, listen to") to get the point across in plain spoken Russian.
+- 'And what else is there to listen to here?' Vika quizzes openly as the talk turns, linking "tut" ("here"), "yeshchyo" ("more, still"), and "mozhno" ("may, can") in one brisk exchange.
+- 'I have already listened to this a thousand times.' Vika presents a pointed bearing in the conversation, joining "uzhe" ("already, now") to "tysyachi" ("thousands") so every word pulls its weight.
+- 'Vika, I was wrong, let us start everything from the beginning.' Max keeps a calm stance with Lyova, joining "byl" ("was") to "neprav" ("wrong") so every word pulls its weight.
+- 'You are still a boy who does not know what he wants.' Vika shows a pointed attitude toward Max, linking "yeshchyo" ("more, still"), "malchishka" ("boy, kid"), and "znayet" ("knows") in one brisk exchange.
+- 'Vika, I love you very much.' Max sets a lively note in the conversation, joining "ochen" ("very much") to "silno" ("strongly, much") so every word pulls its weight.
+- 'Wait, what did you just say?' Vika wonders earnestly at this point, weaving "podozhdi" ("wait") together with "seychas" ("now") just the way native speakers do.
+- 'I said that I love you.' Max shows a frank stance beside Lyova, weaving "skazal" ("said") together with "lyublyu" ("love") just the way native speakers do.
+- 'I was afraid of those words, and now I say I truly love you.' Max brings an emphatic line at once, putting "boyalsya" ("was afraid") alongside "slov" ("words") in a tight, everyday turn of phrase.

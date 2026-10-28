@@ -22,22 +22,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Саша | Мне кажется, что Миша не мой человек. | It seems to me that Misha is not my person. | #306: что Миша это не мой человек | adapted: adapted for A1 clarity |
 | 11 | Саша | С тобой всё было совсем по-другому. | With you everything was completely different. | #308: совсем все было по-другому | adapted: adapted for A1 clarity |
 | 12 | Макс | Да, с тобой всё было гораздо проще. | Yes, with you everything was much simpler. | #313: все было гораздо проще | adapted: adapted for A1 clarity |
-| 13 | Денис | Вика, он тебя очень сильно любит! | Vika, he loves you very much! | #320: Он тебя очень любит | adapted: adapted for A1 clarity |
+| 13 | Саша | Вика, он тебя очень сильно любит! | Vika, he loves you very much! | #320: Он тебя очень любит | adapted: adapted for A1 clarity |
 | 14 | Макс | Вика, пожалуйста, открой мне дверь! | Vika, please open the door for me! | #324: пожалуйста, открой | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, what are you doing in here?' With the work and wedding hanging in the air, Max puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'They kidnapped me, it is a wedding tradition.' Realizing that they kidnapped her it is a wedding tradition changes how Sasha handles the situation.
-- 'Misha is supposed to find me, but he is in no hurry.' Noting that Misha is supposed to find her but he is in no hurry keeps Sasha's side of the story simple and clear.
-- 'All right, then I will go back to the kitchen.' Even though all right then he will go back to the kitchen, Max keeps a steady face in front of Denis.
-- 'Max, wait, tell me, are you happy with Vika?' Asking whether tell her are Denis happy with Vika puts Denis right on the defensive.
-- 'Did you not have doubts before the wedding?' Asking whether Denis not have doubts before the wedding cuts straight through the tension between Sasha and Denis. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Did you not feel like dropping everything and running away?' Checking whether Denis not feel like dropping everything and running away is how Sasha puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Sasha, you just got overly nervous, that is normal.' Adding that Denis just got overly nervous that is normal fills in the missing piece for Denis.
-- 'Everyone has doubts, I had doubts back then too.' Max tells Denis that everyone has doubts he had doubts back then without dressing it up.
-- 'It seems to me that Misha is not my person.' Since it seems to her that Misha is not her person, Sasha does not waste words on excuses.
-- 'With you everything was completely different.' Mentioning that with Denis everything was completely different moves the talk in a new direction.
-- 'Yes, with you everything was much simpler.' Max reminds Denis that with Denis everything was much simpler before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, he loves you very much!' Denis insists that he loves Max very much, leaving Max no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vika, please open the door for me!' By opening the door for him, Max raises the stakes in the room at once.
+- 'Sasha, what are you doing in here?' Max challenges promptly beside Sasha, joining "tut" ("here") to "delayesh" ("are you doing") so every word pulls its weight.
+- 'They kidnapped me, it is a wedding tradition.' Sasha favors a natural course in the room, using "ukrali" (from "ukrast", "stole") alongside "svadebnaya" ("wedding") to shape the meaning.
+- 'Misha is supposed to find me, but he is in no hurry.' Sasha holds a grounded direction in this beat, leaning on "dolzhen" ("has to, must") before closing the thought with "nayti" ("to find").
+- 'All right, then I will go back to the kitchen.' Max projects an easygoing angle in the scene, joining "togda" ("back then") to "poydu" ("go") so every word pulls its weight.
+- 'Max, wait, tell me, are you happy with Vika?' Sasha asks firmly right away, leaning on "podozhdi" ("wait") before closing the thought with "skazhi" ("say").
+- 'Did you not have doubts before the wedding?' Sasha presses promptly in the scene, combining "bylo" ("was") and "somneniy" ("doubt") so the key meaning lands right away.
+- 'Did you not feel like dropping everything and running away?' Sasha prompts calmly with Max now, pairing "khotelos" ("to feel like") with "brosit" ("to drop") so the "-sya" ending carries the action.
+- 'Sasha, you just got overly nervous, that is normal.' Max favors a resolute rhythm right away, leaning on "prosto" ("just") before closing the thought with "perenervnichala" ("to nervous").
+- 'Everyone has doubts, I had doubts back then too.' Max conveys a frank tone without hesitation, pairing "somnevayutsya" ("to doubt") with "tozhe" ("too") to get the point across in plain spoken Russian.
+- 'It seems to me that Misha is not my person.' Sasha displays a brisk posture in the conversation, putting "kazhetsya" ("it seems, I think") alongside "chelovek" ("a man, a person") in a tight, everyday turn of phrase.
+- 'With you everything was completely different.' Sasha presents a serious attitude in the conversation, combining the intensifier "sovsem" ("completely, at all") with "bylo" ("was") to give the line its natural spoken rhythm.
+- 'Yes, with you everything was much simpler.' Max projects a playful angle in the room, weaving "bylo" ("was") together with "gorazdo" ("much") just the way native speakers do.
+- 'Vika, he loves you very much!' Sasha brings a warm note in the conversation, anchoring the Russian line on "ochen" ("very much") and "silno" ("strongly, much") without extra filler.
+- 'Vika, please open the door for me!' Max conveys a lively tone in their talk, building the phrase around "otkroy" ("to open") and "dver" ("door") for a crisp, natural delivery.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your table.' Claiming that here is Max's table sounds confident, even if Max has doubts.
-- 'Here is the menu, please.' Pointing out that here is the menu please gives Barinov a sobering reality check.
-- 'Tell the head chef to serve the turtle soup, okay?' Turning from the exchange to the kitchen, Barinov asks Max directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Five hundred rubles.' With the soup and point in play, Max keeps this short reply brisk and direct.
-- 'A hundred thousand dollars.' Around the guest and soup, Barinov sets a calm, everyday tone with Max.
-- 'And so what?' Over the kitchen and the soup, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And you drop that frying pan!' Barinov insists that Max drops that frying pan, leaving Max no room to argue.
-- 'Did nobody see it at all?' By checking whether nobody see it at all, Max presses Barinov for a straight answer. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Your turtle soup.' With the guest and conversation in play, Barinov keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'For some people, this path is full of adventures.' Adding that for some people this path is full of adventures fills in the missing piece for Barinov.
-- 'Yet by a miracle they manage to hold on.' Turning from the guest to the point, Barinov keeps the exchange moving.
-- 'While someone else, standing at a crossroads, chooses a direction.' Since while someone else standing at a crossroads chooses a direction, Max does not waste words on excuses.
-- 'Without knowing yet where it will lead.' Mentioning that without knowing yet where it will lead moves the talk in a new direction.
+- 'Here is your table.' Barinov favors a clear view in front of Max, weaving "stolik" ("table") together with "vash" ("your, yours") just the way native speakers do.
+- 'Here is the menu, please.' Max shares a thoughtful footing straight away, placing "menyu" ("menu") straight beside "pozhaluysta" ("please") with no word for "to be" needed.
+- 'Tell the head chef to serve the turtle soup, okay?' Barinov presses wryly on the spot, leaning on "peredayte" ("to pass on") before closing the thought with "shef-povaru" ("head chef").
+- 'Five hundred rubles.' Max sustains a sharp direction without hesitation, pairing "rubley" ("roubles") with "pyatsot" ("five hundred") to get the point across in plain spoken Russian.
+- 'A hundred thousand dollars.' Barinov brings an emphatic angle with Max, combining "tysyach" ("thousand") and "dollarov" ("dollars") so the key meaning lands right away.
+- 'And so what?' Max tests openly as the talk turns, putting all the weight on "chto" ("what") so the reply lands immediately.
+- 'And you drop that frying pan!' Barinov sustains a clear mood in the room, weaving "brosay" ("drop, abandon") together with "skovorodku" ("frying pan") just the way native speakers do.
+- 'Did nobody see it at all?' Max queries naturally as the talk turns, pairing "videl" ("saw, have seen") with "nikto" ("nobody") to get the point across in plain spoken Russian.
+- 'Your turtle soup.' Barinov adopts a wry tempo on the spot, building the phrase around "cherepakhovyy" ("turtle, tortoiseshell") and "sup" ("soup") for a crisp, natural delivery.
+- 'For some people, this path is full of adventures.' Max picks a frank tone as they talk, weaving "nekotorykh" ("some, certain") together with "put" ("path") just the way native speakers do.
+- 'Yet by a miracle they manage to hold on.' Barinov favors a candid manner at this moment, pairing "chudom" ("miracle, wonder") with "uspevayet" ("to manage in time") to get the point across in plain spoken Russian.
+- 'While someone else, standing at a crossroads, chooses a direction.' Max chooses a calm tack across the room, weaving "okazavshis" ("to find oneself") together with "perepute" ("crossroads") just the way native speakers do.
+- 'Without knowing yet where it will lead.' Barinov sustains a steady stance as they talk, linking "poka" ("bye"), "neizvestno" ("unknown, uncertain"), and "kuda" ("where to") in one brisk exchange.

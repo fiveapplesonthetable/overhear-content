@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, guys, you arrived just in time!' Over the apartment and the wedding, Vika lets her real feelings show.
-- 'Come on, Nastya, are you ready to start our dance?' When Kostya asks if come on Nastya are Max ready to start their dance, Max has to answer fast. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hello everyone! How are things going here?' Here wondering how things going here are shows Max looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Max, the doctor strictly forbade you to leave the house!' Around the apartment and visit, Vika makes her point loud and clear.
-- 'I just got really tired of lying at home all day.' Realizing that he just got really tired of lying at home all day changes how Max handles the situation.
-- 'And I really wanted to see the place where I used to work.' Noting that he really wanted to see the place where he used to work keeps Max's side of the story simple and clear.
-- 'Listen, it is really cool here in your restaurant!' Max declares that it is really cool here in Kostya's restaurant as the tension in the room peaks.
-- 'Hey, Max! How is your head today, better?' By wondering how Max's head today better is, Kostya presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tell me, please, where is our kitchen?' Asking whether tell him please where is their kitchen puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The kitchen is over there! And now let us dance to the music!' Once the kitchen is over there, Kostya makes sure Max hears every word.
-- 'Vika, I do not know if I ever said these words to you before.' Because he does not know if he ever said these words to Kostya, Max treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I wonder what words exactly you wanted to say to me?' Wondering what words exactly Kostya wanted to say is how Vika puts Kostya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I wanted to say that you are simply very beautiful.' Since he wanted to say that Kostya is simply very beautiful, Max does not waste words on excuses.
+- 'Oh, guys, you arrived just in time!' Vika brings an earnest tempo in their talk, leaning on "rebyata" ("the boys, the lads") before closing the thought with "prishli" ("have come").
+- 'Come on, Nastya, are you ready to start our dance?' Kostya inquires directly beside Vika, putting "davay" ("let's") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'Hello everyone! How are things going here?' Max wonders directly to keep things clear, anchoring the Russian line on "kak" ("how") and "tut" ("here") without extra filler.
+- 'Max, the doctor strictly forbade you to leave the house!' Vika takes a sharp tempo in the room, linking "doktor" ("Doctor"), "strogo" ("sternly, strictly"), and "zapretil" ("forbade") in one brisk exchange.
+- 'I just got really tired of lying at home all day.' Max establishes a warm tack at once, anchoring the Russian line on "prosto" ("just") and "ochen" ("very much") without extra filler.
+- 'And I really wanted to see the place where I used to work.' Max favors a clear style in the conversation, leaning on "ochen" ("very much") before closing the thought with "khotelos" ("to feel like").
+- 'Listen, it is really cool here in your restaurant!' Max holds a wry line in the scene, using "slushayte" (from "slushat", "listen") alongside "zdes" ("here") to shape the meaning.
+- 'Hey, Max! How is your head today, better?' Kostya presses honestly for Vika's benefit, linking "zdorovo" ("great, cool"), "kak" ("how"), and "golova" ("head") in one brisk exchange.
+- 'Tell me, please, where is our kitchen?' Max challenges calmly as they speak, leaning on "podskazhi" ("to prompt, to tell") before closing the thought with "kukhnya" ("kitchen").
+- 'The kitchen is over there! And now let us dance to the music!' Kostya takes a grounded approach without hesitation, joining "kukhnya" ("kitchen") to "tam" ("there") so every word pulls its weight.
+- 'Vika, I do not know if I ever said these words to you before.' Max offers an emphatic view at this moment, weaving "znayu" ("know") together with "govoril" ("said, were saying") just the way native speakers do.
+- 'I wonder what words exactly you wanted to say to me?' Vika presses decisively in the scene, leaning on "interesno" ("interesting") before closing the thought with "slova" ("words").
+- 'I wanted to say that you are simply very beautiful.' Max maintains a resolute style as they talk, building the phrase around "khotel" ("wanted") and "skazat" ("tell") for a crisp, natural delivery.

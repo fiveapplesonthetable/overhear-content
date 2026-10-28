@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, you two had a crazy little night?' Asking whether Barinov two had a crazy little night puts Barinov right on the defensive.
-- 'Vika, it is not what you thought!' Once it is not what Barinov thought, Max makes sure Barinov hears every word. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Sasha simply called and asked for help.' Noting that Sasha simply called and asked for help keeps Max's side of the story simple and clear.
-- 'Well I never, what a good Samaritan!' With the conversation and secret at stake, Vika reacts without holding back.
-- 'Vika, he is telling the truth, I was there!' Because he is telling the truth he was there, Max does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'They were there too, come on, confirm it!' Max declares that they were there too come on confirm it as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And our chef Viktor Petrovich was there!' Because their Viktor Petrovich was there, Max does not bother softening the blow for Barinov.
-- 'What do you have, some kind of secret club?' Wondering what Barinov has some kind of secret club cuts straight through the tension between Vika and Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'We really were there at night, we were!' Once they really were there at night they were, Barinov makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'That fiancé of Sasha's is just a total idiot.' Since that of Sasha is just a total idiot, Barinov does not waste words on excuses.
-- 'You see, I am telling the truth, nothing happened!' Once he is telling the truth nothing happened, Max makes sure Barinov hears every word. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And so what, should I dance for joy now?' Asking what she dances for joy now should cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'My husband helped his ex and lied to me!' Vika declares that her husband helped his ex and lied as the tension in the room peaks.
+- 'So, you two had a crazy little night?' Vika quizzes lightly in the room, joining "znachit" ("then, so") to "sumasshedshaya" ("crazy, insane") so every word pulls its weight.
+- 'Vika, it is not what you thought!' Max shares a brisk style during the exchange, putting "podumala" ("thought") alongside "vika" ("Vika") in a tight, everyday turn of phrase.
+- 'Sasha simply called and asked for help.' Max takes an earnest mood across the room, joining "prosto" ("just") to "pozvonila" ("phoned") so every word pulls its weight.
+- 'Well I never, what a good Samaritan!' Vika shares a natural direction without hesitation, anchoring the Russian line on "nado" ("it is necessary") and "dobryy" ("good") without extra filler.
+- 'Vika, he is telling the truth, I was there!' Max sustains a natural footing without hesitation, weaving "govorit" ("talks") together with "pravdu" ("truth") just the way native speakers do.
+- 'They were there too, come on, confirm it!' Max presents an honest bearing in this beat, anchoring the Russian line on "tozhe" ("too") and "tam" ("there") without extra filler.
+- 'And our chef Viktor Petrovich was there!' Max sets a playful attitude in their talk, putting "byl" ("was") alongside "nash" ("our") in a tight, everyday turn of phrase.
+- 'What do you have, some kind of secret club?' Vika challenges steadily to keep things clear, linking "taynyy" ("secret, undercover"), "kruzhok" ("club"), and "vas" ("you") in one brisk exchange.
+- 'We really were there at night, we were!' Barinov displays a serious posture at once, leaning on "byli" ("be") before closing the thought with "tam" ("there").
+- 'That fiancé of Sasha's is just a total idiot.' Barinov strikes an emphatic tone across the room, linking "zhenikh" ("groom, fiancé") directly with "sashkin" ("total"), since Russian drops "is" and "are" in the present.
+- 'You see, I am telling the truth, nothing happened!' Max offers a playful direction at once, pairing "vidish" ("see") with "pravdu" ("truth") to get the point across in plain spoken Russian.
+- 'And so what, should I dance for joy now?' Vika checks earnestly to Max here, weaving "teper" ("now") together with "plyasat" ("to joy") just the way native speakers do.
+- 'My husband helped his ex and lied to me!' Vika favors a thoughtful position across the room, joining "muzh" ("husband") to "pomog" ("helped") so every word pulls its weight.

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 INTRO = "In the kitchen, Lyova gloomily watches the confident new cook Artyom flirt with Gulya. Thinking about how short life is after his grandfather's story, Max urges Lyova to imagine he has only one day left to live and go fight for the girl he loves."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings the pep talk in the kitchen to a close. Notice the conditional mood in Max's sentence—you would do everything you wanted—and the imperative meaning take action. See you next time!"
+OUTRO = "That brings the pep talk in the kitchen to a close. Notice the conditional mood in Max's sentence—you would do everything you wanted—and the command meaning take action. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Принесу вам выпить.', 'I will bring you something to drink.', [(219, 'Принесу вам выпить')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Конечно, иди к ней!', 'Of course, go to her!', [(228, 'Действуй')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'I will bring you something to drink.\' Since he will bring Lyova something to drink, Max does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (1, None, '\'An excellent plan! That way she will definitely notice you.\' With the conversation and story at stake, Max reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (2, None, "'What?' Around the work and story, Lyova wants to know where Max really stands."),
-    (3, None, "'Lyova, stand and watch like this for a couple more days.' Since Lyova should stand and watch like this for a couple more days, Max does not waste words on excuses."),
-    (4, None, "'How this guy over here hits on Gulya.' Explaining that how this guy over here hits on Gulya lays the cards on the table for Lyova."),
-    (5, None, "'I have no chances against him.' Even though he has no chances against him, Lyova keeps a steady face in front of Max."),
-    (6, None, '\'Lyova, imagine that you have one day left to live.\' Imagining that Lyova has one day left to live moves the conversation forward without extra drama. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, '\'You would do everything that you wanted!\' Because Lyova would do everything that Lyova wanted, Max does not bother softening the blow for Lyova. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, "'Because tomorrow will no longer come.' Max explains that because tomorrow will no longer come, keeping his voice calm and direct."),
-    (9, None, '\'So why wait? Take action!\' With the point and story hanging in the air, Max puts Lyova on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (10, None, '\'Do you think it is worth trying?\' Here checking whether Max thinks it is worth trying shows Lyova looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (11, None, "'Of course, go to her!' Over the truth and the story, Max lets his real feelings show."),
+    (0, None, '\'I will bring you something to drink.\' Max projects a calm angle with Lyova, linking "prinesu" ("I will bring"), "vypit" ("to drink"), and "vam" ("you") in one brisk exchange.'),
+    (1, None, '\'An excellent plan! That way she will definitely notice you.\' Max offers an emphatic tack right away, joining "otlichnyy" ("excellent, great") to "plan" ("plan") so every word pulls its weight.'),
+    (2, None, '\'What?\' Lyova presses calmly to Max here, letting the single Russian word "chego" ("what") carry the entire reaction on its own.'),
+    (3, None, '\'Lyova, stand and watch like this for a couple more days.\' Max chooses a wry course in their talk, putting "yeshchyo" ("more, still") alongside "paru" ("couple") in a tight, everyday turn of phrase.'),
+    (4, None, '\'How this guy over here hits on Gulya.\' Max brings a calm footing in the scene, joining "kak" ("how") to "pristayot" ("bothers, pesters") so every word pulls its weight.'),
+    (5, None, '\'I have no chances against him.\' Lyova presents a sharp attitude in the room, joining "shansov" ("chances") to "menya" ("me") so every word pulls its weight.'),
+    (6, None, '\'Lyova, imagine that you have one day left to live.\' Max sets a natural attitude toward Lyova, pairing "ostalos" ("was left") with "predstav" ("imagine") so the "-sya" ending carries the action.'),
+    (7, None, '\'You would do everything that you wanted!\' Max offers a grounded manner with Lyova, joining "sdelal" ("did") to "khotel" ("wanted") so every word pulls its weight.'),
+    (8, None, '\'Because tomorrow will no longer come.\' Max picks a frank tack during the exchange, building the phrase around "potomu" ("because") and "zavtra" ("tomorrow") for a crisp, natural delivery.'),
+    (9, None, '\'So why wait? Take action!\' Max prompts directly right away, anchoring the Russian line on "zhdat" ("to wait") and "deystvuy" ("act, take action") without extra filler.'),
+    (10, None, '\'Do you think it is worth trying?\' Lyova prompts decisively to Max here, anchoring the Russian line on "dumayesh" ("think") and "stoit" ("is parked") without extra filler.'),
+    (11, None, '\'Of course, go to her!\' Max maintains a measured style for Lyova, anchoring the Russian line on "konechno" ("of course") and "idi" ("go") without extra filler.'),
 ]

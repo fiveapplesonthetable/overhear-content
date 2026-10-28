@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With what?' Over the moment and the shift, Vika presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'But your grandfather just passed away.' Between the shift and the truth, Kostya gives Vika a quick, grounded response.
-- 'Yes, you know, I...' Even though Kostya knows she, Vika keeps a steady face in front of Kostya.
-- 'I just have not fully processed it yet.' Admitting that he just has not fully processed it yet shows Kostya being honest for a change.
-- 'Allow me to get back to my work.' Mentioning that Kostya should allow her to get back to her work moves the talk in a new direction.
-- 'Yes, yes, of course.' With the moment and conversation in play, Kostya keeps this short reply brisk and direct.
-- 'Keep working, Kostya.' Noting that Kostya should keep working keeps Vika's side of the story simple and clear.
-- 'Right now I know for sure what I want.' Kostya tells Vika that right now he knows for sure what he wants without dressing it up.
-- 'Let us start everything over from the beginning.' By starting everything over from the beginning together, Vika keeps her side of the story grounded. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Now that is what I like to hear.' Mentioning that that is what he likes to hear moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Could you not come up with something normal?' Checking whether Kostya not come up with something normal cuts straight through the tension between Vika and Kostya.
-- 'What a thing to joke about.' Around the conversation and shift, Kostya sets a calm, everyday tone with Vika.
-- 'The main thing is that everything went smoothly.' Explaining that the main thing is that everything went smoothly lays the cards on the table for Kostya.
+- 'With what?' Vika asks quietly with Kostya now, putting all the weight on "chem" ("than") so the reply lands immediately.
+- 'But your grandfather just passed away.' Kostya establishes a calm line at once, pairing "dedushka" ("grandfather") with "umer" ("died") to get the point across in plain spoken Russian.
+- 'Yes, you know, I...' Vika conveys a wry style in front of Kostya, linking "znayete" ("know"), "da" ("yes"), and "ya" ("I") in one brisk exchange.
+- 'I just have not fully processed it yet.' Kostya picks a grounded position in the scene, combining the softening word "prosto" ("simply, just") with "kontsa" ("ending") to give the line its natural spoken rhythm.
+- 'Allow me to get back to my work.' Vika takes a wry course straight away, joining "pozvolte" ("allow me") to "vernus" ("will come back") so every word pulls its weight.
+- 'Yes, yes, of course.' Kostya shares an earnest style toward Vika, leaning on "konechno" ("of course") before closing the thought with "da" ("yes").
+- 'Keep working, Kostya.' Vika conveys a firm approach at once, putting "rabotay" ("work") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
+- 'Right now I know for sure what I want.' Kostya offers an honest approach without hesitation, linking "seychas" ("now"), "tochno" ("definitely"), and "znayu" ("know") in one brisk exchange.
+- 'Let us start everything over from the beginning.' Vika picks a pointed rhythm with Kostya, combining "davay" ("let's") and "nachnem" ("we start") so the key meaning lands right away.
+- 'Now that is what I like to hear.' Kostya keeps a resolute style beside Vika, building the phrase around "ponimayu" ("understand") and "vot" ("there, here") for a crisp, natural delivery.
+- 'Could you not come up with something normal?' Vika probes candidly as the beat lands, linking "mog" ("can, to be able"), "normalnoye" ("normal"), and "pridumat" ("to think up") in one brisk exchange.
+- 'What a thing to joke about.' Kostya sets a sharp posture as they talk, combining "nashel" ("found") and "shutit" ("to joke") so the key meaning lands right away.
+- 'The main thing is that everything went smoothly.' Vika sets a steady line for Kostya, putting "glavnoye" ("important") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.

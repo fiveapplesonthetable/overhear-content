@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what is going on here?' Asking whether tell him what is going on here puts Barinov right on the defensive.
-- 'I see you do not change at all.' Because he sees Barinov does not change at all, Denis treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Misha, what kind of jokes are these?' Asking whether what kind of jokes are these puts Denis right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, how am I a disabled person to you?' Over the secret and the truth, Barinov presses Denis for a straight answer.
-- 'You recently came out of a coma.' Pointing out that Barinov recently came out of a coma gives Barinov a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So I did not even lie.' Noting that he did not even lie keeps Mikhail's side of the story simple and clear.
-- 'I only embellished everything slightly.' With the secret and plan in play, Mikhail keeps this short reply brisk and direct.
-- 'Fry him a simple cheburek.' Here telling Barinov to fry him a simple cheburek sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And it will be a culinary masterpiece!' Mikhail declares that it will be a culinary masterpiece as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And do you know why it will be like that?' By asking whether Barinov knows why it will be like, Mikhail presses Barinov for a straight answer.
-- 'Right now you are our main ingredient.' Saying that right now Barinov is their main ingredient is how Mikhail sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I do not like this idea.' Once he does not like this idea, Barinov can finally tell Denis what he means.
+- 'Tell me, what is going on here?' Denis wonders earnestly in this moment, joining "skazhite" ("tell") to "tut" ("here") so every word pulls its weight.
+- 'I see you do not change at all.' Denis holds a pointed direction right away, joining "smotryu" ("look") to "sovsem" ("at all") so every word pulls its weight.
+- 'Misha, what kind of jokes are these?' Barinov prompts dryly to Denis here, putting "shutki" ("jokes") alongside "misha" ("Misha") in a tight, everyday turn of phrase.
+- 'Well, how am I a disabled person to you?' Barinov tests lightly right away, linking "invalid" ("disabled person"), "nu" ("oh, come on"), and "kakoy" ("what a, how") in one brisk exchange.
+- 'You recently came out of a coma.' Mikhail takes a lively tack straight away, putting "nedavno" ("returned") alongside "komy" ("coma") in a tight, everyday turn of phrase.
+- 'So I did not even lie.' Mikhail projects a wry rhythm in the conversation, using "sovral" (from "sovrat", "lied") alongside "tak" ("so") to shape the meaning.
+- 'I only embellished everything slightly.' Mikhail establishes an honest mood across the room, combining "tolko" ("only") and "slegka" ("slightly") so the key meaning lands right away.
+- 'Fry him a simple cheburek.' Mikhail adopts a natural style on the spot, weaving "prostoy" ("simple, ordinary") together with "cheburek" ("cheburek") just the way native speakers do.
+- 'And it will be a culinary masterpiece!' Mikhail conveys a playful position toward Barinov, weaving "budet" ("will be") together with "kulinarnyy" ("culinary") just the way native speakers do.
+- 'And do you know why it will be like that?' Mikhail tests briskly right away, weaving "znayesh" ("know") together with "pochemu" ("why") just the way native speakers do.
+- 'Right now you are our main ingredient.' Mikhail favors a direct direction at this moment, linking "seychas" ("now") directly with "glavnyy" ("main, chief"), since Russian drops "is" and "are" in the present.
+- 'I do not like this idea.' Barinov sustains a calm style toward Mikhail, leaning on "zateya" ("idea, venture") before closing the thought with "nravitsya" ("is pleasing").

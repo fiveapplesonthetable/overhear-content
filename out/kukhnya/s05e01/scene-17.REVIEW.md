@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right now the prefect will cut our ribbon.' Claiming that right now the prefect will cut their ribbon sounds confident, even if Barinov has doubts.
-- 'Applause, ladies and gentlemen!' With the work and hotel at stake, Mikhail reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Welcome to the hotel!' Over the point and the hotel, Mikhail lets his real feelings show.
-- 'And where is my pizza?' Here asking where his pizza is shows Mikhail looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everything will be ready. Do not worry.' Noting that everything will be ready keeps Barinov's side of the story simple and clear.
-- 'The hot pizza arrived, delivery.' With the moment and hotel in play, Senya keeps this short reply brisk and direct.
-- 'Who here is Chef Barinov?' Questioning whether who here is Chef Barinov is how Senya tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hand it here, check the order.' Here handing it here check the order sets up the next turn in their exchange. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I have everything ready.' Noting that he has everything ready keeps Barinov's side of the story simple and clear.
-- 'Where are our beautiful rose petals?' Wondering where their beautiful rose petals are cuts straight through the tension between Senya and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'They are in the storage room in a box.' Saying that they are in the storage room in a box is how Barinov sets the tone with Mikhail.
-- 'I will bring that box right now.' Since he will bring that box right now, Senya does not waste words on excuses.
+- 'Right now the prefect will cut our ribbon.' Mikhail shares an earnest note in the room, combining "seychas" ("now") and "prefekt" ("district prefect") so the key meaning lands right away.
+- 'Applause, ladies and gentlemen!' Mikhail strikes an unhurried view straight away, joining "aplodismenty" ("applause") to "damy" ("lady, woman") so every word pulls its weight.
+- 'Welcome to the hotel!' Mikhail keeps a calm position during the exchange, building the phrase around "dobro" ("good, kindness") and "pozhalovat" ("to welcome") for a crisp, natural delivery.
+- 'And where is my pizza?' Mikhail questions lightly without a pause, weaving "gde" ("where") together with "pitstsa" ("pizza") just the way native speakers do.
+- 'Everything will be ready. Do not worry.' Barinov maintains a grounded style in the scene, using "budet" (from "byt", "will be") alongside "bespokoysya" ("to worry") to shape the meaning.
+- 'The hot pizza arrived, delivery.' Senya adopts a pointed direction in this beat, putting "priyekhala" ("came, arrived") alongside "goryachaya" ("hot") in a tight, everyday turn of phrase.
+- 'Who here is Chef Barinov?' Senya prompts warmly in the scene, linking "zdes" ("here"), "kto" ("who"), and "shef" ("Chef") in one brisk exchange.
+- 'Hand it here, check the order.' Barinov keeps a frank posture in their talk, weaving "davayte" ("let's") together with "syuda" ("here") just the way native speakers do.
+- 'I have everything ready.' Barinov sets a clear tempo right away, leaning on "gotovo" ("ready") before closing the thought with "menya" ("me").
+- 'Where are our beautiful rose petals?' Senya questions wryly for Mikhail's benefit, pairing "gde" ("where") with "krasivyye" ("beautiful") to get the point across in plain spoken Russian.
+- 'They are in the storage room in a box.' Barinov displays a direct footing as they talk, weaving "sklade" ("warehouse") together with "korobke" ("box") just the way native speakers do.
+- 'I will bring that box right now.' Senya conveys a clear posture in the conversation, leaning on "seychas" ("now") before closing the thought with "prinesu" ("I will bring").

@@ -7,7 +7,7 @@ SCENE = 19
 TITLE = "Выбор Лёвы  (Lyova's Choice)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
+LABELS = {'barinov': 'Шеф', 'gulya': 'Гуля', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 INTRO = 'Chef Barinov announces to the entire restaurant that he is retiring from the stove and handing the title of head chef to his best friend and sous-chef, Lyova. Yet Lyova declines the promotion of a lifetime to fly to Bishkek after Gulya.'
@@ -22,24 +22,24 @@ STORY = [
     ('barinov', 'Я за ресторан не переживаю.', 'I am not worried about the restaurant.', [(305, 'Я за ресторан не переживаю')], 'adapted'),
     ('barinov', 'Лёва большой профессионал и друг.', 'Lyova is a great professional and friend.', [(306, 'он большой профессионал и большой друг')], 'adapted'),
     ('barinov', 'Он мой самый лучший друг.', 'He is my very best friend.', [(307, 'Мой лучший друг')], 'adapted'),
-    ('barinov', 'Пришла пора вам стать шефом.', 'The time has come for you to become head chef.', [(309, 'Пришла пора вам стать лучшим')], 'adapted'),
+    ('gulya', 'Пришла пора вам стать шефом.', 'The time has come for you to become head chef.', [(309, 'Пришла пора вам стать лучшим')], 'adapted'),
     ('lyova', 'Шеф, простите, я не могу.', 'Chef, forgive me, I cannot.', [(313, 'Шеф, я не могу')], 'adapted'),
     ('lyova', 'Я сейчас улетаю в Бишкек.', 'I am flying to Bishkek right now.', [(314, 'Я улетаю в Бишкек')], 'adapted'),
     ('lyova', 'Улетаю, может, на пять лет.', 'I am flying away, perhaps for five years.', [(315, 'Может быть, на пять лет')], 'adapted'),
     ('lyova', 'Извините меня за это решение.', 'Excuse me for this decision.', [(316, 'Извините')], 'adapted'),
-    ('barinov', 'Виктор Петрович, это настоящая любовь.', 'Viktor Petrovich, this is true love.', [(317, 'Виктор Петрович, это любовь')], 'adapted'),
+    ('gulya', 'Виктор Петрович, это настоящая любовь.', 'Viktor Petrovich, this is true love.', [(317, 'Виктор Петрович, это любовь')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Lyova, it is good that you stood up.' Pointing out that it is good that Lyova stood up gives Lyova a sobering reality check."),
-    (1, None, "'I must make an important announcement.' Barinov explains that he must make an important announcement, keeping his voice calm and direct."),
-    (2, None, "'I am no longer working as head chef.' Being no longer working as head is how Barinov lays out the situation for Lyova."),
-    (3, None, "'I am not worried about the restaurant.' Adding that he is not worried about the restaurant fills in the missing piece for Lyova."),
-    (4, None, "'Lyova is a great professional and friend.' Even though Lyova is a great professional and friend, Barinov keeps a steady face in front of Lyova."),
-    (5, None, "'He is my very best friend.' Admitting that he is his very best friend shows Barinov being honest for a change."),
-    (6, None, "'The time has come for you to become head chef.' Noting that the time has come for Lyova to become head keeps Barinov's side of the story simple and clear."),
-    (7, None, "'Chef, forgive me, I cannot.' Around the moment and choice, Lyova sets a calm, everyday tone with Barinov."),
-    (8, None, "'I am flying to Bishkek right now.' Being flying to Bishkek right now moves the conversation forward without extra drama."),
-    (9, None, "'I am flying away, perhaps for five years.' Claiming that he is flying away perhaps for five years sounds confident, even if Barinov has doubts."),
-    (10, None, '\'Excuse me for this decision.\' With the conversation and choice in play, Lyova keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (11, None, '\'Viktor Petrovich, this is true love.\' Mentioning that this is true love moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (0, None, '\'Lyova, it is good that you stood up.\' Barinov presents a natural mood straight away, leaning on "khorosho" ("good, fine") before closing the thought with "vstal" ("stood up, got up").'),
+    (1, None, '\'I must make an important announcement.\' Barinov keeps a clear view straight away, combining "dolzhen" ("has to, must") and "sdelat" ("to do") so the key meaning lands right away.'),
+    (2, None, '\'I am no longer working as head chef.\' Barinov conveys a sharp footing with Gulya, combining "bolshe" ("more") and "rabotayu" ("work") so the key meaning lands right away.'),
+    (3, None, '\'I am not worried about the restaurant.\' Barinov strikes a clear rhythm across the room, pairing "restoran" ("restaurant") with "perezhivayu" ("worry") to get the point across in plain spoken Russian.'),
+    (4, None, '\'Lyova is a great professional and friend.\' Barinov sets an earnest line beside Gulya, joining "bolshoy" ("big") to "professional" ("professional") so every word pulls its weight.'),
+    (5, None, '\'He is my very best friend.\' Barinov conveys a brisk note in the room, leaning on "samyy" ("the most") before closing the thought with "luchshiy" ("best").'),
+    (6, None, '\'The time has come for you to become head chef.\' Gulya strikes a direct line at once, building the phrase around "prishla" ("came") and "pora" ("it\'s time") for a crisp, natural delivery.'),
+    (7, None, '\'Chef, forgive me, I cannot.\' Lyova establishes a natural footing at this moment, putting "prostite" ("excuse me") alongside "mogu" ("can") in a tight, everyday turn of phrase.'),
+    (8, None, '\'I am flying to Bishkek right now.\' Lyova chooses a candid bearing in the conversation, anchoring the Russian line on "seychas" ("now") and "uletayu" ("am flying away") without extra filler.'),
+    (9, None, '\'I am flying away, perhaps for five years.\' Lyova adopts a frank tempo in their talk, leaning on "uletayu" ("am flying away") before closing the thought with "mozhet" ("can").'),
+    (10, None, '\'Excuse me for this decision.\' Lyova conveys a clear position as the scene unfolds, weaving "izvinite" ("sorry, excuse me") together with "resheniye" ("decision") just the way native speakers do.'),
+    (11, None, '\'Viktor Petrovich, this is true love.\' Gulya brings a direct style as the scene unfolds, putting "nastoyashchaya" ("real, genuine") alongside "lyubov" ("love") in a tight, everyday turn of phrase.'),
 ]

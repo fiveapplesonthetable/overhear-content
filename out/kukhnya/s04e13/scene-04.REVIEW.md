@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Katya, things turned out foolishly between us.' Explaining that things turned out foolishly between them lays the cards on the table for German.
-- 'I cannot talk right now, bye.' Adding that she cannot talk right now bye fills in the missing piece for Barinov.
-- 'Excuse me, please, go ahead.' Going ahead is how Katya lays out the situation for Barinov.
-- 'You already worked in our restaurant.' Pointing out that Barinov already worked in their restaurant gives Barinov a sobering reality check.
-- 'Moreover, that was quite recently.' German explains that moreover that was quite recently, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Yes, that is all true, I worked here.' Realizing that that is all true she worked here changes how Katya handles the situation.
-- 'Back then I worked under my father.' Noting that back then she worked under her father keeps Katya's side of the story simple and clear.
-- 'He was the head chef here back then.' Even though he was the head here back then, Katya keeps a steady face in front of Barinov.
-- 'Then you resigned of your own accord.' Over the phone and the conversation, German answers Barinov without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'May I find out the reason for this wish?' Wondering if may he finds out the reason for this wish shows German caught off guard.
-- 'We simply did not get along in character.' Once they simply did not get along in character, Katya can finally tell Barinov what she means.
-- 'That is not surprising, come with me.' Adding that that is not surprising come with him fills in the missing piece for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Hello, Katya, things turned out foolishly between us.' Barinov shows a serious tack at this moment, weaving "glupo" ("stupid") together with "poluchilos" ("worked out") just the way native speakers do.
+- 'I cannot talk right now, bye.' Katya chooses a sharp posture toward German, anchoring the Russian line on "mogu" ("can") and "seychas" ("now") without extra filler.
+- 'Excuse me, please, go ahead.' Katya brings a brisk bearing in front of Barinov, combining "izvinite" ("sorry, excuse me") and "prodolzhayte" ("to continue") so the key meaning lands right away.
+- 'You already worked in our restaurant.' German keeps a wry note right away, linking "uzhe" ("already, now"), "rabotali" ("worked"), and "restorane" ("restaurant") in one brisk exchange.
+- 'Moreover, that was quite recently.' German sustains a warm tempo in the room, pairing "bylo" ("was") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'Yes, that is all true, I worked here.' Katya sets a lively bearing on the spot, putting "verno" ("right, true") alongside "rabotala" ("worked") in a tight, everyday turn of phrase.
+- 'Back then I worked under my father.' Katya sustains a warm footing in front of Barinov, pairing "togda" ("back then") with "rabotala" ("worked") to get the point across in plain spoken Russian.
+- 'He was the head chef here back then.' Katya offers an earnest tack in front of German, putting "togda" ("back then") alongside "byl" ("was") in a tight, everyday turn of phrase.
+- 'Then you resigned of your own accord.' German shows an honest style beside Barinov, linking "potom" ("then"), "uvolilis" ("quit, resign"), and "sobstvennomu" ("own, proper") in one brisk exchange.
+- 'May I find out the reason for this wish?' German checks sharply to keep things clear, joining "mozhno" ("may, can") to "uznat" ("to find out") so every word pulls its weight.
+- 'We simply did not get along in character.' Katya shows a firm direction toward Barinov, combining the softening word "prosto" ("simply, just") with "soshlis" ("to converge") to give the line its natural spoken rhythm.
+- 'That is not surprising, come with me.' German chooses a steady manner in this beat, linking "neudivitelno" ("come"), "poydyomte" ("come on, let's go"), and "eto" ("this") in one brisk exchange.

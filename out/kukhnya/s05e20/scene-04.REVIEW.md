@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Vitya, do you need fresh fish from Japan?' Asking whether Barinov needs fresh fish is how Timur puts Barinov on the spot.
-- 'Wait, that is poisonous fugu fish!' Because that is poisonous fugu fish, Barinov does not bother softening the blow for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I will give it to you for half the price.' Since he will give it to Barinov for half the price, Timur does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, Timur, take it back with you.' Because Max should take it back with Max, Barinov treats the matter as settled.
-- 'Oguzok, why are you late for your shift again?' When Barinov asks if Oguzok why are Max late for Max's shift again, Max has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Actually, Chef, the critic liked my pâté.' Because the critic liked, Max treats the matter as settled.
-- 'It was because of me that we were mentioned in the guide.' Explaining that it was because of him that they were mentioned in the guide lays the cards on the table for Barinov.
-- 'Maybe he simply liked the bread or the water?' Wondering if maybe he simply liked the bread or the water shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You say that because you are jealous of me.' Claiming that Barinov says that because Barinov is jealous of him sounds confident, even if Barinov has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Have you decided that you cook better than me?' Here asking whether Max decided that Max cooks better than him shows Barinov looking for the real truth.
-- 'Then I propose an honest bet to you.' Between the shift and the bet, Barinov gives Max a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'If you are better than me, you will prepare fugu.' Realizing that if Max is better than him Max will prepare fugu changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Hi, Vitya, do you need fresh fish from Japan?' Timur quizzes warmly from the start, leaning on "svezhaya" ("fresh") before closing the thought with "ryba" ("fish").
+- 'Wait, that is poisonous fugu fish!' Barinov shares an easygoing view in front of Timur, leaning on "podozhdi" ("wait") before closing the thought with "yadovitaya" ("poisonous, venomous").
+- 'I will give it to you for half the price.' Timur sustains a sharp line in their talk, using "otdam" (from "otdat", "I give back") alongside "raza" ("time") to shape the meaning.
+- 'No, Timur, take it back with you.' Barinov chooses an earnest stance straight away, leaning on "zabiray" ("take, collect") before closing the thought with "obratno" ("back").
+- 'Oguzok, why are you late for your shift again?' Barinov prompts boldly in this moment, pairing "pochemu" ("why") with "snova" ("again") to get the point across in plain spoken Russian.
+- 'Actually, Chef, the critic liked my pâté.' Max sustains a natural attitude with Timur, pairing "voobshche-to" ("actually") with "pashtet" ("pâté") to get the point across in plain spoken Russian.
+- 'It was because of me that we were mentioned in the guide.' Max sustains an honest position in the room, weaving "upomyanuli" ("mentioned") together with "gide" ("guide") just the way native speakers do.
+- 'Maybe he simply liked the bread or the water?' Barinov presses quietly without holding back, combining the softening word "prosto" ("simply, just") with "mozhet" ("can") to give the line its natural spoken rhythm.
+- 'You say that because you are jealous of me.' Max favors an easygoing posture straight away, building the phrase around "govorite" ("say, speak") and "potomu" ("because") for a crisp, natural delivery.
+- 'Have you decided that you cook better than me?' Barinov tests earnestly in their exchange, using "reshil" (from "reshit", "has decided") alongside "gotovish" ("prepare, make") to shape the meaning.
+- 'Then I propose an honest bet to you.' Barinov favors a serious angle for Max, anchoring the Russian line on "togda" ("back then") and "predlagayu" ("suggest") without extra filler.
+- 'If you are better than me, you will prepare fugu.' Barinov shows a sharp line for Timur, linking "luchshe" ("better"), "prigotovish" ("will prepare"), and "fugu" ("fugu, pufferfish") in one brisk exchange.

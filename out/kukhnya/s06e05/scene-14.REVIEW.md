@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you think this clever plan will work?' Here checking whether Mikhail thinks this clever plan will work shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Where would he get that kind of big money?' By asking where he get that kind of big money would, Mikhail presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'He will bring that old menu back to you.' Once he will bring that old menu back to Barinov, Mikhail can finally tell Barinov what he means.
-- 'Kostik, I am stepping out for a little while now.' Adding that someone she is stepping out for a little while now fills in the missing piece for Barinov.
-- 'I already asked Nikita for time off myself.' Nastya tells Barinov that she already asked Nikita for time off herself without dressing it up.
-- 'Where are you heading off to, Nastya?' By wondering where Mikhail heading off is, Barinov presses Mikhail for a straight answer.
-- 'Vitya, we need the money tomorrow already.' Needing the money tomorrow already moves the conversation forward without extra drama.
-- 'Clear, I heard you loud and clear.' Barinov reminds Mikhail that clear he heard Mikhail loud and clear before the moment passes. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What, do you have no money at all?' Here wondering what Barinov has no money at all shows Mikhail looking for the real truth.
-- 'Actually no, I have a million right there.' Saying that he has a million right there is how Barinov sets the tone with Mikhail.
-- 'Lena and I were saving it for our wedding.' Barinov mentions that someone and he were saving it for their wedding so Mikhail sees what is at stake.
-- 'I would definitely help you, my friend.' Claiming that he would definitely help Barinov sounds confident, even if Barinov has doubts.
+- 'Do you think this clever plan will work?' Barinov asks calmly with Mikhail now, using "dumayesh" (from "dumat", "think") alongside "khitryy" ("cunning") to shape the meaning.
+- 'Where would he get that kind of big money?' Mikhail presses sharply beside Nastya, leaning on "otkuda" ("where from") before closing the thought with "bolshiye" ("big, serious").
+- 'He will bring that old menu back to you.' Mikhail adopts a frank rhythm beside Barinov, leaning on "vernyot" ("will reimburse") before closing the thought with "staroye" ("old").
+- 'Kostik, I am stepping out for a little while now.' Nastya offers an unhurried position straight away, building the phrase around "seychas" ("now") and "otluchus" ("step away briefly") for a crisp, natural delivery.
+- 'I already asked Nikita for time off myself.' Nastya shares a thoughtful rhythm in the conversation, leaning on "nikity" ("of Nikita") before closing the thought with "uzhe" ("already, now").
+- 'Where are you heading off to, Nastya?' Barinov tests lightly in the room, putting "kuda" ("where to") alongside "sobralas" ("to get ready") in a tight, everyday turn of phrase.
+- 'Vitya, we need the money tomorrow already.' Mikhail establishes an honest position straight away, combining "dengi" ("money") and "nuzhny" ("needed") so the key meaning lands right away.
+- 'Clear, I heard you loud and clear.' Barinov strikes a calm direction at this moment, combining "yasno" ("clear, got it") and "prekrasno" ("perfectly") so the key meaning lands right away.
+- 'What, do you have no money at all?' Mikhail queries directly as they speak, combining "sovsem" ("at all") and "deneg" ("money") so the key meaning lands right away.
+- 'Actually no, I have a million right there.' Barinov chooses a firm rhythm across the room, combining "yest" ("there is") and "kak" ("how") so the key meaning lands right away.
+- 'Lena and I were saving it for our wedding.' Barinov maintains a lively rhythm in the room, pairing "svadbu" ("wedding") with "otkladyvali" ("were setting aside") to get the point across in plain spoken Russian.
+- 'I would definitely help you, my friend.' Mikhail presents a steady manner in the conversation, linking "obyazatelno" ("surely, without fail"), "pomog" ("helped"), and "drug" ("friend") in one brisk exchange.

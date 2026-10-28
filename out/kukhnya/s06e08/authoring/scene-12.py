@@ -7,14 +7,14 @@ SCENE = 12
 TITLE = "Подозрения Михаила  (Mikhail's Suspicions)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'katya': 'Катя', 'mikhail': 'Михаил'}
+LABELS = {'barinov': 'Шеф', 'mikhail': 'Михаил'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.08'
 SOURCE_FILE = 'sources/kukhnya/s06/e08.ru.srt'
 INTRO = "At the bar counter, Mikhail casually reminds Chef Barinov of Dmitry Nagiyev's history of buying expensive gifts for women, planting a dark suspicion in Victor's mind."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
 OUTRO = "Hearing that Katya is heading upstairs to deliver a room-service order right after Mikhail's warning sets Chef Barinov's paternal instincts on fire. See you next time!"
-CLOSING = ('katya', 'До встречи!')
+CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('mikhail', 'Что-то Нагиев сегодня расщедрился, не находишь?', "Nagiyev got awfully generous today, don't you find?", [(197, 'Что-то Нагиев расщедрился, не находишь')], 'adapted'),
     ('barinov', 'Ему главное покрасоваться перед Элей и всеми.', 'The main thing for him is to show off in front of Elya and everyone.', [(199, 'перед Элей, перед всеми')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('mikhail', 'Из номера спрашивают, сколько ещё ждать заказ.', 'They are asking from the room how much longer to wait for the order.', [(213, 'спрашивают, сколько еще ждать заказа')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Nagiyev got awfully generous today, don\'t you find?\' Mikhail asks whether Nagiyev got awfully generous today do not Barinov finds, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (1, None, "'The main thing for him is to show off in front of Elya and everyone.' Mentioning that the main thing for him is to show off in front of and everyone moves the talk in a new direction."),
-    (2, None, "'In a word, he is just a typical actor.' Barinov reminds Katya that in a word he is just a typical actor before the moment passes."),
-    (3, None, '\'Listen, but you have known him longer.\' Because Barinov has known him longer, Mikhail treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (4, None, "'Did he ever give such expensive gifts to anyone before?' Checking whether he ever give such expensive gifts to anyone is how Mikhail puts Barinov on the spot."),
-    (5, None, "'When he was courting Vika, he gave her a car.' Barinov mentions that when he was courting Vika he gave her a car so Katya sees what is at stake."),
-    (6, None, '\'Wait, what are you hinting at to me right now?\' By asking what Katya hinting at to him right now is, Barinov presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (7, None, "'That man holds nothing sacred in life.' Pointing out that that man holds nothing sacred in life gives Barinov a sobering reality check."),
-    (8, None, "'He even cheated on his own wife at his wedding!' Over the moment and the conversation, Mikhail lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (9, None, '\'Oh come on, what a dark-minded man you are!\' Once Katya should come on what a dark man Katya is, Barinov makes sure Katya hears every word. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (10, None, "'Katya, forgive me for bothering you on your birthday.' Over the work and the moment, Mikhail answers Barinov without a second thought."),
-    (11, None, "'They are asking from the room how much longer to wait for the order.' Even though they are asking from the room how much longer to wait for the order, Mikhail keeps a steady face in front of Barinov."),
+    (0, None, '\'Nagiyev got awfully generous today, don\'t you find?\' Mikhail quizzes boldly in their exchange, joining "segodnya" ("today") to "rasshchedrilsya" ("became generous") so every word pulls its weight.'),
+    (1, None, '\'The main thing for him is to show off in front of Elya and everyone.\' Barinov adopts a clear tack in the room, weaving "glavnoye" ("important") together with "pokrasovatsya" ("to show off") just the way native speakers do.'),
+    (2, None, '\'In a word, he is just a typical actor.\' Barinov displays a calm position right away, linking "slovom" ("word") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.'),
+    (3, None, '\'Listen, but you have known him longer.\' Mikhail favors an honest bearing toward Barinov, joining "slushay" ("listen") to "dolshe" ("take") so every word pulls its weight.'),
+    (4, None, '\'Did he ever give such expensive gifts to anyone before?\' Mikhail challenges openly on the spot, weaving "ranshe" ("earlier, previously") together with "dorogiye" ("dear") just the way native speakers do.'),
+    (5, None, '\'When he was courting Vika, he gave her a car.\' Barinov adopts a playful direction on the spot, anchoring the Russian line on "kogda" ("when") and "ukhazhival" ("courted, paid court to") without extra filler.'),
+    (6, None, '\'Wait, what are you hinting at to me right now?\' Barinov questions frankly without a pause, combining "podozhdi" ("wait") and "seychas" ("now") so the key meaning lands right away.'),
+    (7, None, '\'That man holds nothing sacred in life.\' Mikhail shares a lively course without hesitation, putting "cheloveka" ("a man, a person") alongside "svyatogo" ("holy, sacred") in a tight, everyday turn of phrase.'),
+    (8, None, '\'He even cheated on his own wife at his wedding!\' Mikhail holds a firm line in their talk, using "svadbe" (from "svadba", "wedding") alongside "izmenil" ("changed") to shape the meaning.'),
+    (9, None, '\'Oh come on, what a dark-minded man you are!\' Barinov chooses an unhurried footing in front of Mikhail, linking "tyomnyy" ("dark") directly with "chelovek" ("a man, a person"), since Russian drops "is" and "are" in the present.'),
+    (10, None, '\'Katya, forgive me for bothering you on your birthday.\' Mikhail holds a pointed angle as the scene unfolds, linking "prosti" ("sorry, forgive me"), "bespokoyu" ("to bother, to disturb"), and "den" ("day") in one brisk exchange.'),
+    (11, None, '\'They are asking from the room how much longer to wait for the order.\' Mikhail takes an earnest angle right away, using "nomera" (from "nomer", "number, phone number") alongside "sprashivayut" ("are asking for") to shape the meaning.'),
 ]

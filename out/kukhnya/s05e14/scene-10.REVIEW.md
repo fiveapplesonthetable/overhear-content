@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Шеф, да эту модель просто невозможно собрать! | Chef, it is simply impossible to assemble this model! | #174: Шеф, да это невозможно собрать | adapted: adapted |
+| 1 | Елена | Шеф, да эту модель просто невозможно собрать! | Chef, it is simply impossible to assemble this model! | #174: Шеф, да это невозможно собрать | adapted: adapted |
 | 2 | Елена | Привет, Витя, мы скоро едем на стадион? | Hi, Vitya, are we heading to the stadium soon? | #178: Привет, Витя | adapted: adapted |
 | 3 | Шеф | Леночка, по всей видимости, я не смогу пойти. | Lenochka, apparently, I will not be able to go. | #180: По всей видимости, я не смогу пойти на футбол | adapted: adapted |
 | 4 | Елена | Витя, а что у тебя вдруг случилось? | Vitya, what suddenly happened over there? | #181: Витя, а что случилось | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, it is simply impossible to assemble this model!' Saying that it is simply impossible to assemble this model is how Barinov takes charge of the moment.
-- 'Hi, Vitya, are we heading to the stadium soon?' Here asking whether they heading to the stadium soon shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lenochka, apparently, I will not be able to go.' Pointing out that lenochka apparently he will not be able to go gives Elena a sobering reality check.
-- 'Vitya, what suddenly happened over there?' With the shift and match hanging in the air, Elena puts Barinov on the spot.
-- 'I am completely swamped at work today.' Barinov mentions that he is completely swamped at work today so Elena sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Why, can nobody cover for you?' Here wondering why nobody cover for Barinov can shows Elena looking for the real truth. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Nobody can, Lyova has a bad flu.' Even though nobody can Lyova has a bad flu, Barinov keeps a steady face in front of Elena.
-- 'Vika sent several more cooks to an off-site event.' Admitting that Vika sent several more cooks to an off site event shows Barinov being honest for a change.
-- 'And on top of that a very important guest arrived.' Over the match and the moment, Barinov answers Elena without a second thought.
-- 'Vitya, just please do not get so worked up.' Once just please do not get so worked up, Elena can finally tell Barinov what she means.
-- 'Where are my orders? Important guests are waiting out there!' By wondering where his orders are, Barinov presses Elena for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, we will go to the football match next time.' Saying that they will go to the football match next time is how Elena sets the tone with Barinov.
+- 'Chef, it is simply impossible to assemble this model!' Elena sets a playful tone on the spot, anchoring the Russian line on "model" ("model") and "prosto" ("just") without extra filler.
+- 'Hi, Vitya, are we heading to the stadium soon?' Elena asks calmly to Barinov here, combining "skoro" ("soon") and "yedem" ("are going") so the key meaning lands right away.
+- 'Lenochka, apparently, I will not be able to go.' Barinov strikes a measured view right away, putting "lenochka" ("lenochka") alongside "vidimosti" ("appearance") in a tight, everyday turn of phrase.
+- 'Vitya, what suddenly happened over there?' Elena probes naturally in the room, putting "vdrug" ("suddenly, what if") alongside "sluchilos" ("happened") in a tight, everyday turn of phrase.
+- 'I am completely swamped at work today.' Barinov sets a playful footing in the room, pairing "rabote" ("work") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'Why, can nobody cover for you?' Elena wonders steadily to Barinov here, anchoring the Russian line on "mozhet" ("can") and "podmenit" ("cover for, replace") without extra filler.
+- 'Nobody can, Lyova has a bad flu.' Barinov favors a grounded stance without hesitation, linking "mozhet" ("can"), "silnyy" ("the strong"), and "gripp" ("flu") in one brisk exchange.
+- 'Vika sent several more cooks to an off-site event.' Barinov conveys a warm attitude as they talk, leaning on "yeshchyo" ("more, still") before closing the thought with "povarov" ("cooks").
+- 'And on top of that a very important guest arrived.' Barinov favors an unhurried course straight away, linking "tut" ("here"), "yeshchyo" ("more, still"), and "priyekhal" ("came") in one brisk exchange.
+- 'Vitya, just please do not get so worked up.' Elena displays a candid tone beside Barinov, building the phrase around "tolko" ("only") and "silno" ("strongly, much") for a crisp, natural delivery.
+- 'Where are my orders? Important guests are waiting out there!' Barinov questions promptly without a pause, pairing "gde" ("where") with "zakazy" ("orders") to get the point across in plain spoken Russian.
+- 'Well, we will go to the football match next time.' Elena strikes an emphatic footing right away, using "skhodim" (from "skhodit", "go, pop over") alongside "futbol" ("football") to shape the meaning.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, it is me, I am ready to meet tonight.' Even though it is him he is ready to meet tonight, Barinov keeps a steady face in front of Lyova.
-- 'I will introduce you to a wonderful young woman.' Admitting that he will introduce Lyova to a wonderful young woman shows Barinov being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Get your money ready for dinner, loser!' Getting Lyova's money ready for dinner loser shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, Lyova, here is how things turned out.' Once here is how things turned out, Max can finally tell Barinov what he means.
-- 'Yes, Mom, I am going to have a date!' Lyova declares that Mom he is going to have a date as the tension in the room peaks. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Yes, she is from a very respectable family.' Saying that she is from a very respectable family is how Lyova sets the tone with Barinov.
-- 'I hope that you will meet each other soon.' Hoping that Barinov will meet each other soon is how Lyova lays out the situation for Barinov.
-- 'Alright, Mom, bye, it is time for me to work.' Mentioning that Alright Mom bye it is time for him to work moves the talk in a new direction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Thank you, what would I have done without you?' Wondering what he has done without Barinov would is how Lyova puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So, where is our date going to be?' Here wondering where their date going to be is shows Lyova looking for the real truth.
-- 'Listen, I completely forgot to ask about that.' Explaining that he completely forgot to ask lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Wait right here, I will go find out everything now.' Max mentions that right here he will go find out everything now so Barinov sees what is at stake.
+- 'Dima, it is me, I am ready to meet tonight.' Barinov shows a measured tone as they talk, pairing "gotov" ("ready") with "vstretitsya" ("to meet") to get the point across in plain spoken Russian.
+- 'I will introduce you to a wonderful young woman.' Barinov chooses a clear manner in their talk, anchoring the Russian line on "poznakomlyu" ("I'll introduce") and "prekrasnoy" ("beautiful, wonderful") without extra filler.
+- 'Get your money ready for dinner, loser!' Barinov establishes a frank course in the conversation, leaning on "gotov" ("prepare") before closing the thought with "dengi" ("money").
+- 'Listen, Lyova, here is how things turned out.' Max presents an unhurried tone without hesitation, combining "slushay" ("listen") and "tut" ("here") so the key meaning lands right away.
+- 'Yes, Mom, I am going to have a date!' Lyova picks a thoughtful stance on the spot, linking "mama" ("mum, mother"), "budet" ("will be"), and "svidaniye" ("date") in one brisk exchange.
+- 'Yes, she is from a very respectable family.' Lyova takes a calm view toward Max, pairing "ochen" ("very much") with "prilichnoy" ("decent, respectable") to get the point across in plain spoken Russian.
+- 'I hope that you will meet each other soon.' Lyova favors a brisk mood at this moment, combining "nadeyus" ("hope so") and "skoro" ("soon") so the key meaning lands right away.
+- 'Alright, Mom, bye, it is time for me to work.' Lyova maintains a measured view at once, joining "mama" ("mum, mother") to "poka" ("bye") so every word pulls its weight.
+- 'Thank you, what would I have done without you?' Lyova wonders candidly without holding back, anchoring the Russian line on "spasibo" ("thank you") and "delal" ("were doing") without extra filler.
+- 'So, where is our date going to be?' Lyova prompts lightly to keep things clear, pairing "gde" ("where") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Listen, I completely forgot to ask about that.' Max chooses a frank view in front of Barinov, weaving "slushay" ("listen") together with "sovsem" ("at all") just the way native speakers do.
+- 'Wait right here, I will go find out everything now.' Max projects a direct angle in the room, combining "podozhdi" ("wait") and "zdes" ("here") so the key meaning lands right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I tried to warn him.' Claiming that he tried to warn him sounds confident, even if Barinov has doubts.
-- 'Get out.' Getting out is how Barinov lays out the situation for Lyova.
-- 'What kind of nonsense is this?' Around the room and hotel, Barinov wants to know where Lyova really stands. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'A new service operates in our hotel.' Between the truth and the hotel, Mikhail gives Barinov a quick, grounded response.
-- 'This is a service for our guests.' Noting that this is a service for their guests keeps Mikhail's side of the story simple and clear.
-- 'You will be able to watch the chef's work.' Even though Barinov will be able to watch the work, Mikhail keeps a steady face in front of Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'This does not interrupt your rest.' Admitting that this does not interrupt Barinov's rest shows Mikhail being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I accept that after breakfast.' Mentioning that he accepts that after breakfast moves the talk in a new direction.
-- 'And right now excuse me.' With the room and hotel in play, Mikhail keeps this short reply brisk and direct.
-- 'You should introduce a new service.' Adding that Lyova should introduce a new service fills in the missing piece for Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'The hotel manager goes straight to the room.' Barinov tells Lyova that the hotel manager goes straight to the room without dressing it up.
-- 'Do not disturb our rest.' Since do not disturb their rest, Barinov does not waste words on excuses.
+- 'I tried to warn him.' Lyova conveys a lively bearing with Barinov, pairing "pytalsya" ("tried") with "predupredit" ("to warn") to get the point across in plain spoken Russian.
+- 'Get out.' Barinov strikes a sharp approach on the spot, weaving "poshyol" ("went, set off") together with "von" ("over there") just the way native speakers do.
+- 'What kind of nonsense is this?' Barinov prompts briskly to Lyova here, leaning on "yerunda" ("trifle, nothing") before closing the thought with "eto" ("this").
+- 'A new service operates in our hotel.' Mikhail takes a direct tone with Lyova, linking "otele" ("in the hotel"), "deystvuyet" ("is in effect"), and "novaya" ("new") in one brisk exchange.
+- 'This is a service for our guests.' Mikhail sustains an easygoing mood straight away, placing "usluga" ("favor, service") straight beside "gostey" ("guests") with no word for "to be" needed.
+- 'You will be able to watch the chef's work.' Mikhail projects a warm tone at once, building the phrase around "smozhete" ("will be able to") and "posmotret" ("to look up") for a crisp, natural delivery.
+- 'This does not interrupt your rest.' Mikhail favors a brisk mood with Barinov, weaving "preryvayet" ("interrupts") together with "otdykh" ("rest") just the way native speakers do.
+- 'I accept that after breakfast.' Mikhail brings a pointed tempo at this moment, leaning on "prinimayu" ("to receive") before closing the thought with "zavtraka" ("breakfast").
+- 'And right now excuse me.' Mikhail favors a direct direction as the scene unfolds, weaving "seychas" ("now") together with "izvini" ("sorry, excuse me") just the way native speakers do.
+- 'You should introduce a new service.' Barinov adopts a brisk posture during the exchange, putting "vvedi" ("introduce") alongside "novuyu" ("new") in a tight, everyday turn of phrase.
+- 'The hotel manager goes straight to the room.' Barinov conveys a natural footing in the conversation, combining "upravlyayushchiy" ("manager") and "idyot" ("goes, is going") so the key meaning lands right away.
+- 'Do not disturb our rest.' Barinov establishes a steady tack on the spot, anchoring the Russian line on "meshay" ("bother") and "otdykhu" ("to the rest") without extra filler.

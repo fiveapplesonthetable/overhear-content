@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, what are you doing, you miserable traitor?' Asking what Barinov doing Barinov miserable traitor is cuts straight through the tension between Fedya and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fedya, calm down, I have already thought everything through well!' By calming down he has already thought everything through well, Senya raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vinegar acid can easily be fixed with ordinary sugar.' Saying that vinegar can easily be fixed with ordinary sugar is how Senya sets the tone with Barinov.
-- 'As soon as German leaves right now, I will fix everything!' Once as soon as German leaves right now he will fix everything, Senya makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Denis, where did you get a live pigeon in your hands?' Wondering where Barinov gets a live pigeon in Barinov's hands cuts straight through the tension between Fedya and Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'All right, folks, where is my Dijon squab?' Wondering if all right folks where is his squab shows Barinov caught off guard.
-- 'Quiet, Denis, everything is fine, hide that bird!' Saying that quiet Denis everything is fine hide that bird is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I already cooked a partridge for the guest instead of squab.' Around the soup and conversation, Barinov sets a calm, everyday tone with Fedya.
-- 'Chef, we need to do something about German!' Fedya declares that they need to do something about German as the tension in the room peaks.
-- 'Thank you, pals, I am in your debt now.' Because pals he is in Fedya's debt now, Barinov treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Quickly pour the soup into the bowls and bake it!' With the moment and soup at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Right now we will quickly serve the hot onion soup!' Declaring that right now they will quickly serve the hot onion soup brings Senya's temper right to the surface.
+- 'Senya, what are you doing, you miserable traitor?' Fedya probes quietly in the scene, putting "tvorish" ("are doing, creating") alongside "predatel" ("traitor") in a tight, everyday turn of phrase.
+- 'Fedya, calm down, I have already thought everything through well!' Senya shares a brisk stance across the room, joining "uspokoysya" ("calm down") to "uzhe" ("already, now") so every word pulls its weight.
+- 'Vinegar acid can easily be fixed with ordinary sugar.' Senya picks a grounded direction for Barinov, putting "uksusnuyu" ("vinegar") alongside "kislotu" ("acid") in a tight, everyday turn of phrase.
+- 'As soon as German leaves right now, I will fix everything!' Senya establishes a calm note across the room, anchoring the Russian line on "seychas" ("now") and "tolko" ("only") without extra filler.
+- 'Denis, where did you get a live pigeon in your hands?' Fedya checks promptly to Barinov here, combining "otkuda" ("where from") and "rukakh" ("hands") so the key meaning lands right away.
+- 'All right, folks, where is my Dijon squab?' Barinov queries quietly to Senya here, using "druzya" (from "drug", "friends") alongside "gde" ("where") to shape the meaning.
+- 'Quiet, Denis, everything is fine, hide that bird!' Barinov shows a measured posture at this moment, linking "tikho" ("easy, quiet"), "normalno" ("fine, OK"), and "spryach" ("hide") in one brisk exchange.
+- 'I already cooked a partridge for the guest instead of squab.' Barinov keeps an emphatic course toward Senya, building the phrase around "uzhe" ("already, now") and "golubya" ("pigeon") for a crisp, natural delivery.
+- 'Chef, we need to do something about German!' Fedya shows a brisk footing straight away, joining "nado" ("it is necessary") to "delat" ("do") so every word pulls its weight.
+- 'Thank you, pals, I am in your debt now.' Barinov takes an earnest tone in their talk, anchoring the Russian line on "spasibo" ("thank you") and "druzya" ("friends") without extra filler.
+- 'Quickly pour the soup into the bowls and bake it!' Barinov offers a grounded style without hesitation, building the phrase around "bystro" ("quickly") and "nalivayte" ("pour") for a crisp, natural delivery.
+- 'Right now we will quickly serve the hot onion soup!' Senya projects a steady posture without hesitation, leaning on "seychas" ("now") before closing the thought with "bystro" ("quickly").

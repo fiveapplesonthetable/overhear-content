@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me call you back in a minute.' By letting him call Kostya back in a minute, Max keeps his side of the story grounded. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Where did I just walk in, a zoo?' Wondering where he just walks in a zoo cuts straight through the tension between Kostya and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And what are we all munching on here, huh?' Asking what they all munching on here huh are is how Max puts Kostya on the spot.
-- 'Not on my tab, I hope, huh?' Asking whether not on his tab he hopes huh puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, no, of course not.' With the conversation and smile in play, Max keeps this short reply brisk and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Alright, go ahead and set a place for me over there too.' Realizing that Alright go ahead and set a place for him over there changes how Kostya handles the situation.
-- 'I would gladly eat something myself.' Noting that he would gladly eat something himself keeps Max's side of the story simple and clear.
-- 'Yes, right away.' With the work and smile in play, Kostya keeps this short reply brisk and direct.
-- 'Stop nodding like that.' Realizing that Kostya should stop nodding like changes how Max handles the situation.
-- 'Take the order.' Taking the order moves the conversation forward without extra drama.
-- 'What is this, they want seconds now?' Asking what this they want seconds now is is how Max puts Kostya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'One more salad.' Over the work and the smile, Kostya answers Max without a second thought.
-- 'You will get your salad.' Saying that Kostya will get Kostya's salad is how Max sets the tone with Kostya. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Let me call you back in a minute.' Max holds an honest approach in this beat, linking "day-ka" ("give"), "perezvonyu" ("will call back"), and "ya" ("I") in one brisk exchange.
+- 'Where did I just walk in, a zoo?' Kostya checks calmly with Max now, joining "gde" ("where") to "zoopark" ("zoo") so every word pulls its weight.
+- 'And what are we all munching on here, huh?' Max prompts calmly to Kostya here, joining "khomyachim" ("to munch, snack on") to "chto" ("what") so every word pulls its weight.
+- 'Not on my tab, I hope, huh?' Kostya checks promptly in their exchange, pairing "nadeyus" ("hope so") with "schet" ("account") to get the point across in plain spoken Russian.
+- 'No, no, of course not.' Max offers a steady rhythm in the conversation, combining "net" ("no") and "chto" ("what") so the key meaning lands right away.
+- 'Alright, go ahead and set a place for me over there too.' Kostya offers a steady angle with Max, building the phrase around "davayte" ("let's") and "tozhe" ("too") for a crisp, natural delivery.
+- 'I would gladly eat something myself.' Max shows an honest stance as they talk, anchoring the Russian line on "tozhe" ("too") and "syel" ("ate") without extra filler.
+- 'Yes, right away.' Kostya chooses a pointed tone in the scene, putting all the weight on "da" ("yes") so the reply lands immediately.
+- 'Stop nodding like that.' Max presents a direct view during the exchange, putting "nikak" ("in no way") alongside "kivayte" ("to nod") in a tight, everyday turn of phrase.
+- 'Take the order.' Kostya takes a steady line in the scene, joining "primi" ("take, accept") to "zakaz" ("order") so every word pulls its weight.
+- 'What is this, they want seconds now?' Max prompts quietly in this moment, linking "dobavki" ("seconds"), "zakhoteli" ("wanted"), and "chto" ("what") in one brisk exchange.
+- 'One more salad.' Kostya keeps an earnest tack without hesitation, linking "yeshche" ("still"), "salat" ("salad"), and "odin" ("one") in one brisk exchange.
+- 'You will get your salad.' Max sustains a resolute angle as they talk, using "budet" (from "byt", "will be") alongside "salat" ("salad") to shape the meaning.

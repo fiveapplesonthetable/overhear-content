@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Тимур | Помощь нужна? | Do you need any help? | #216: Помощь нужна | verbatim |
 | 7 | Лёва | Так, блюдо отнесу, сделаю. | All right, I will take the dish out and do it. | #217: Так, блюдо отнесу, сделаю | verbatim |
 | 8 | Тимур | За седьмым столиком. | At table seven. | #218: За седьмым столиком | verbatim |
-| 9 | Лёва | Алло, Лёва, вас срочно Тимур зовёт. | Hello, Lyova, Timur is calling for you urgently. | #219: Алло, Лёва, вас срочно Тимур зовёт | verbatim |
+| 9 | Тимур | Алло, Лёва, вас срочно Тимур зовёт. | Hello, Lyova, Timur is calling for you urgently. | #219: Алло, Лёва, вас срочно Тимур зовёт | verbatim |
 | 10 | Тимур | Восьмой по готовности. | Table eight is ready to go. | #223: восьмой по готовности | verbatim |
 | 11 | Лёва | У меня банкет. | I have a banquet on my hands. | #224: У меня банкет | verbatim |
 | 12 | Тимур | И побыстрее не торопятся. | And they are in no hurry to speed up. | #226: И побыстрее не торопятся | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our dinner service is starting.' Adding that their dinner service is starting fills in the missing piece for Timur.
-- 'Quick, head to the storage room.' Between the kitchen and the point, Timur gives Lyova a quick, grounded response.
-- 'May I step out to the restroom?' Wondering if may he steps out to the restroom shows Lyova caught off guard. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I nearly sliced my fingers off.' With the dinner and kitchen in play, Timur keeps this short reply brisk and direct.
-- 'Where is the first-aid kit?' Asking where the first aid kit is cuts straight through the tension between Lyova and Timur. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Do you need any help?' Checking whether Lyova needs any help is how Timur puts Lyova on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'All right, I will take the dish out and do it.' Explaining that all right he will take the dish out and do it lays the cards on the table for Timur.
-- 'At table seven.' Turning from the dinner to the plan, Timur keeps the exchange moving.
-- 'Hello, Lyova, Timur is calling for you urgently.' Claiming that Timur is calling for Timur urgently sounds confident, even if Timur has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Table eight is ready to go.' Pointing out that table eight is ready to go gives Lyova a sobering reality check.
-- 'I have a banquet on my hands.' Mentioning that he has a banquet on his hands moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And they are in no hurry to speed up.' Realizing that they are in no hurry to speed up changes how Timur handles the situation.
-- 'Where is everybody?' Asking where everybody is cuts straight through the tension between Lyova and Timur.
+- 'Our dinner service is starting.' Lyova shows a firm tempo in the conversation, pairing "uzhin" ("dinner") with "nachinayetsya" ("begins") to get the point across in plain spoken Russian.
+- 'Quick, head to the storage room.' Timur displays a calm direction with Lyova, putting "bystro" ("quickly") alongside "sklad" ("warehouse") in a tight, everyday turn of phrase.
+- 'May I step out to the restroom?' Lyova probes promptly in their exchange, weaving "mozhno" ("may, can") together with "tualet" ("toilet") just the way native speakers do.
+- 'I nearly sliced my fingers off.' Timur picks an earnest posture straight away, building the phrase around "chut" ("almost, nearly") and "paltsy" ("fingers") for a crisp, natural delivery.
+- 'Where is the first-aid kit?' Lyova queries dryly right away, linking "gde" ("where") directly with "aptechka" ("first-aid kit"), since Russian drops "is" and "are" in the present.
+- 'Do you need any help?' Timur questions warmly as they speak, leaning on "pomoshch" ("help") before closing the thought with "nuzhna" ("needed").
+- 'All right, I will take the dish out and do it.' Lyova shows an emphatic mood in their talk, combining "blyudo" ("dish") and "otnesu" ("to carry to") so the key meaning lands right away.
+- 'At table seven.' Timur offers a calm course in their talk, weaving "sedmym" ("seventh") together with "stolikom" ("table") just the way native speakers do.
+- 'Hello, Lyova, Timur is calling for you urgently.' Timur projects a pointed style in this beat, leaning on "srochno" ("urgent, urgently") before closing the thought with "zovyot" ("calls").
+- 'Table eight is ready to go.' Timur displays a measured course in the conversation, leaning on "vosmoy" ("eighth") before closing the thought with "gotovnosti" ("readiness, doneness").
+- 'I have a banquet on my hands.' Lyova conveys a direct style at once, weaving "banket" ("banquet") together with "menya" ("me") just the way native speakers do.
+- 'And they are in no hurry to speed up.' Timur keeps an easygoing rhythm at once, pairing "toropyatsya" ("to be in a hurry") with "pobystreye" ("faster, more quickly") so the "-sya" ending carries the action.
+- 'Where is everybody?' Lyova checks openly in this moment, weaving "gde" ("where") together with "vse" ("all") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Help yourselves, please, my mom sent this.' Helping yourselves please her sent this is how Gulya lays out the situation for the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is our traditional national homemade dish.' Even though this is their traditional national homemade dish, Gulya keeps a steady face in front of the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Tell me, Mom, it tastes very good to you, right?' Questioning whether tell him Mom it tastes very good to the guest right is how Lyova tests the guest's story.
-- 'And what kind of tasty meat is this?' The guest asks whether what kind of tasty meat is this, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is real fresh homemade horse meat.' Once this is real fresh homemade horse meat, Gulya can finally tell the guest what she means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Lyova, but this is simply awful!' Declaring that this is simply awful brings the guest's temper right to the surface.
-- 'Mom, stop it, after all this is their culture.' Saying that Mom stop it after all this is their culture is how Lyova sets the tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Tell me, what is going on with you right now?' With the conversation and dish hanging in the air, Gulya puts the guest on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We just practice the German language sometimes.' With the dish and meat in play, Lyova keeps this short reply brisk and direct.
-- 'Mom, it is very impolite to argue so loudly.' Saying that Mom it is very impolite to argue so loudly is how Lyova sets the tone with the guest.
-- 'That is the same as eating a cat.' Because that is the same as eating a cat, the guest treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I consider this to be real barbarism.' Around the work and meat, the guest sets a calm, everyday tone with Gulya.
+- 'Help yourselves, please, my mom sent this.' Gulya projects a pointed approach in their talk, linking "ugoshchaytes" ("help yourselves"), "prislala" ("to send"), and "mama" ("mum, mother") in one brisk exchange.
+- 'This is our traditional national homemade dish.' Gulya shares a firm bearing with Lyova, weaving "starinnoye" ("ancient, vintage") together with "natsionalnoye" ("national, state") just the way native speakers do.
+- 'Tell me, Mom, it tastes very good to you, right?' Lyova checks directly without holding back, building the phrase around "skazhi" ("say") and "mama" ("mum, mother") for a crisp, natural delivery.
+- 'And what kind of tasty meat is this?' The guest probes lightly as the talk turns, anchoring the Russian line on "vkusnoye" ("tasty, delicious") and "myaso" ("meat") without extra filler.
+- 'This is real fresh homemade horse meat.' Gulya takes a lively mood on the spot, anchoring the Russian line on "nastoyashchaya" ("real, genuine") and "svezhaya" ("fresh") without extra filler.
+- 'Lyova, but this is simply awful!' The guest strikes an earnest angle in this beat, weaving "prosto" ("just") together with "uzhasno" ("terrible, awful") just the way native speakers do.
+- 'Mom, stop it, after all this is their culture.' Lyova shares a firm direction in front of the guest, anchoring the Russian line on "mama" ("mum, mother") and "perestan" ("stop") without extra filler.
+- 'Tell me, what is going on with you right now?' Gulya tests openly with Lyova now, anchoring the Russian line on "skazhite" ("tell") and "seychas" ("now") without extra filler.
+- 'We just practice the German language sometimes.' Lyova adopts a playful tempo with the guest, combining "prosto" ("just") and "inogda" ("sometimes, at times") so the key meaning lands right away.
+- 'Mom, it is very impolite to argue so loudly.' Lyova takes a thoughtful view at once, putting "mama" ("mum, mother") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'That is the same as eating a cat.' The guest chooses a clear view right away, building the phrase around "ravno" ("the same") and "kota" ("the cat") for a crisp, natural delivery.
+- 'I consider this to be real barbarism.' The guest sets an emphatic stance across the room, leaning on "schitayu" ("am counting") before closing the thought with "nastoyashcheye" ("real").

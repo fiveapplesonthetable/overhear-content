@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe we will start working already?' Questioning whether maybe they will start working already is how Katya tests Denis's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, we will start right now.' Saying that they will start right now is how Senya sets the tone with Denis.
-- 'I told you to work quickly!' Saying that she told Denis to work quickly is how Katya takes charge of the moment. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Katyusha, come on, do not be so nervous.' Explaining that someone come on do not be so nervous lays the cards on the table for Katya.
-- 'Denis, listen, we are at work right now.' Katya mentions that they are at work right now so Denis sees what is at stake.
-- 'Fedya, come on, do not be so nervous.' Here coming on do not be so nervous sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why are you doing this right now?' Asking why Katya doing this right now is cuts straight through the tension between Denis and Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Katyusha, I beg you, just calm down.' Denis explains that someone he begs Katya just calm down, keeping his voice calm and direct.
-- 'Do not call me Katyusha in here!' Katya insists that do not call her in here, leaving Denis no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Stop behaving like a pushover.' Claiming that Denis should stop behaving like a pushover sounds confident, even if Denis has doubts.
-- 'I do not like boys like that at all.' Explaining that she does not like boys like that at all lays the cards on the table for Denis.
-- 'I just wanted to help you.' Admitting that he just wanted to help Katya shows Denis being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Maybe we will start working already?' Katya queries firmly in front of Denis, linking "mozhet" ("can"), "uzhe" ("already, now"), and "rabotat" ("to work") in one brisk exchange.
+- 'Yes, we will start right now.' Senya maintains a natural course in this beat, combining "seychas" ("now") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'I told you to work quickly!' Katya offers a firm note straight away, building the phrase around "skazala" ("told") and "bystro" ("quickly") for a crisp, natural delivery.
+- 'Katyusha, come on, do not be so nervous.' Denis holds a natural footing across the room, joining "katyusha" ("eat") to "nervnichay" ("be nervous") so every word pulls its weight.
+- 'Denis, listen, we are at work right now.' Katya adopts a grounded tack in this beat, putting "slushay" ("listen") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Fedya, come on, do not be so nervous.' Senya sustains a natural course at once, using "nervnichay" (from "nervnichat", "be nervous") alongside "fedya" ("Fedya") to shape the meaning.
+- 'Why are you doing this right now?' Denis quizzes bluntly with Katya now, pairing "seychas" ("now") with "zachem" ("what for") so the "-sya" ending carries the action.
+- 'Katyusha, I beg you, just calm down.' Denis sets a steady mood toward Senya, putting "katyusha" ("eat") alongside "proshu" ("beg, ask") in a tight, everyday turn of phrase.
+- 'Do not call me Katyusha in here!' Katya establishes a steady line for Denis, leaning on "nazyvay" ("name, call") before closing the thought with "tut" ("here").
+- 'Stop behaving like a pushover.' Katya picks a natural approach as they talk, anchoring the Russian line on "perestan" ("stop") and "vesti" ("to conduct") without extra filler.
+- 'I do not like boys like that at all.' Katya picks a steady bearing in their talk, combining the intensifier "sovsem" ("completely, at all") with "malchiki" ("boys") to give the line its natural spoken rhythm.
+- 'I just wanted to help you.' Denis takes a firm posture during the exchange, joining "prosto" ("just") to "khotel" ("wanted") so every word pulls its weight.

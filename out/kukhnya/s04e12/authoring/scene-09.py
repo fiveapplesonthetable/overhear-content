@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e12.ru.srt'
 INTRO = "Late at night, Max's phone rings with a desperate call from Sasha outside Claude Monet, while in Arcobaleno Chef Barinov and Lyova finish gutting their fish with zero luck."
 OPENER = "Let's walk through Sasha's late-night plea and Barinov's next plan."
 TRANSITION = 'Now listen to the whole late-night scene again at natural speed.'
-OUTRO = "Remember the everyday driving phrase 'sest za rul' ('to sit behind the wheel') and the verb 'spravitsya s' ('to handle or manage someone'). Until next time!"
+OUTRO = "Remember the everyday driving phrase 'sest za rul' ('to sit behind the wheel') and the word 'spravitsya s' ('to handle or manage someone'). Until next time!"
 CLOSING = ('sasha', 'Пока!')
 STORY = [
     ('max', 'Алло, Саша, у тебя всё нормально?', 'Hello, Sasha, is everything okay with you?', [(125, 'Алло, Саша, у тебя всё нормально')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Лёва, иди за мной, захвати фонарь!', 'Lyova, follow me, grab a flashlight!', [(137, 'за мной')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, '\'Hello, Sasha, is everything okay with you?\' Asking whether everything okay with Barinov cuts straight through the tension between Max and Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (1, None, "'Max, I really need your help.' Realizing that she really needs Barinov's help changes how Sasha handles the situation."),
-    (2, None, '\'Can you come over to us right now?\' Here checking whether Barinov comes over to them right now shows Sasha looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (3, None, "'I am standing near the restaurant with Misha.' Claiming that she is standing near the restaurant with Misha sounds confident, even if Barinov has doubts."),
-    (4, None, "'He is drunk and wants to get behind the wheel.' Admitting that he is drunk and wants to get behind the wheel shows Sasha being honest for a change."),
-    (5, None, "'I cannot handle him by myself.' Because she cannot handle him by herself, Sasha treats the matter as settled."),
-    (6, None, "'Listen, it is actually the middle of the night outside.' Once it is actually the middle of the night outside, Max can finally tell Barinov what he means."),
-    (7, None, "'And what am I going to tell my Vika?' Around the phone and work, Max wants to know where Barinov really stands."),
-    (8, None, "'I beg you, I have no one else to turn to.' Saying that she begs Barinov she has no one else to turn is how Sasha sets the tone with Barinov."),
-    (9, None, '\'Well, Lyova, is there anything in there?\' Checking whether there anything in there is how Barinov puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (10, None, "'Well, it is actually good that there is nothing.' Mentioning that it is actually good that there is nothing moves the talk in a new direction."),
-    (11, None, '\'That carries up to seven years in prison!\' Saying that that carries up to seven years in prison is how Barinov takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (12, None, '\'Maybe the diamonds are in Fedya\'s fish?\' When Barinov asks if maybe the diamonds are in Fedya fish, Max has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (13, None, "'Lyova, follow me, grab a flashlight!' Barinov declares that Max should follow him grab a flashlight as the tension in the room peaks."),
+    (0, None, '\'Hello, Sasha, is everything okay with you?\' Max questions decisively in front of Barinov, putting "normalno" ("fine, OK") alongside "allo" ("hello") in a tight, everyday turn of phrase.'),
+    (1, None, '\'Max, I really need your help.\' Sasha picks an earnest angle as they talk, building the phrase around "ochen" ("very much") and "nuzhna" ("needed") for a crisp, natural delivery.'),
+    (2, None, '\'Can you come over to us right now?\' Sasha inquires candidly right away, building the phrase around "mozhesh" ("can") and "seychas" ("now") for a crisp, natural delivery.'),
+    (3, None, '\'I am standing near the restaurant with Misha.\' Sasha takes a frank tone in their talk, weaving "stoyu" ("am standing") together with "restorana" ("restaurant") just the way native speakers do.'),
+    (4, None, '\'He is drunk and wants to get behind the wheel.\' Sasha projects a steady tone at once, linking "pyanyy" ("drunk"), "khochet" ("wants"), and "rul" ("steering wheel") in one brisk exchange.'),
+    (5, None, '\'I cannot handle him by myself.\' Sasha offers an easygoing posture in their talk, building the phrase around "spravlyus" ("will manage") and "ya" ("I") for a crisp, natural delivery.'),
+    (6, None, '\'Listen, it is actually the middle of the night outside.\' Max establishes a firm mood across the room, joining "slushay" ("listen") to "voobshche-to" ("actually") so every word pulls its weight.'),
+    (7, None, '\'And what am I going to tell my Vika?\' Max inquires openly in their exchange, using "skazhu" (from "skazat", "I\'ll tell") alongside "chto" ("what") to shape the meaning.'),
+    (8, None, '\'I beg you, I have no one else to turn to.\' Sasha adopts an honest tone in their talk, joining "proshu" ("beg, ask") to "bolshe" ("more") so every word pulls its weight.'),
+    (9, None, '\'Well, Lyova, is there anything in there?\' Barinov tests earnestly from the start, pairing "yest" ("there is") with "tam" ("there") to get the point across in plain spoken Russian.'),
+    (10, None, '\'Well, it is actually good that there is nothing.\' Barinov presents a measured view right away, building the phrase around "khorosho" ("good, fine") and "da" ("yes") for a crisp, natural delivery.'),
+    (11, None, '\'That carries up to seven years in prison!\' Barinov adopts a brisk stance beside Sasha, putting "lisheniye" ("seven") alongside "svobody" ("freedom, liberty") in a tight, everyday turn of phrase.'),
+    (12, None, '\'Maybe the diamonds are in Fedya\'s fish?\' Barinov asks dryly in front of Max, leaning on "mozhet" ("can") before closing the thought with "brillianty" ("diamonds").'),
+    (13, None, '\'Lyova, follow me, grab a flashlight!\' Barinov conveys a grounded tone for Sasha, weaving "idi" ("go") together with "zakhvati" ("to flashlight") just the way native speakers do.'),
 ]

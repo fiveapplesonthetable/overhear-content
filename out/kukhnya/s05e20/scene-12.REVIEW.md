@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not ready to take such a sin upon my soul.' By being not ready to take such a sin upon his soul, Barinov keeps his side of the story grounded.
-- 'I could not allow you to take such a risk.' Barinov tells Eleonora that he could not allow Eleonora to take such a risk without dressing it up.
-- 'Nothing would have happened to me!' Because nothing would have happened to him, Barinov does not bother softening the blow for Eleonora. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'First your tongue would have gone completely numb.' Mentioning that first Eleonora's tongue would have gone completely numb moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Elya, I thought for a long time and wanted to say...' Saying that someone he thought for a long time and wanted to say is how Nagiyev sets the tone with Barinov.
-- 'Then you would have been thrown into a sudden fever.' Because Eleonora would have been thrown into a sudden fever, Barinov treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And severe itching would have started right away.' Explaining that severe itching would have started right away lays the cards on the table for Eleonora.
-- 'Dima, tell me, are you alright right now?' Questioning whether tell her are Barinov alright right now is how Eleonora tests Barinov's story.
-- 'Then your coordination and speech would have failed.' Claiming that Eleonora's coordination and speech would have failed sounds confident, even if Eleonora has doubts.
-- 'I have made an important manly decision...' Nagiyev explains that he has made an important manly decision, keeping his voice calm and direct.
-- 'Elya, please marry me!' With the work and table at stake, Nagiyev reacts without holding back.
-- 'Dima, what is wrong with you, why are you silent?' Asking what wrong with Barinov why are Barinov silent is cuts straight through the tension between Eleonora and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am not ready to take such a sin upon my soul.' Barinov holds a brisk style as they talk, joining "gotov" ("ready") to "brat" ("to take") so every word pulls its weight.
+- 'I could not allow you to take such a risk.' Barinov shows a sharp tempo during the exchange, using "mog" (from "moch", "can, to be able") alongside "pozvolit" ("afford, allow") to shape the meaning.
+- 'Nothing would have happened to me!' Barinov brings a resolute angle on the spot, leaning on "bylo" ("was") before closing the thought with "da" ("yes").
+- 'First your tongue would have gone completely numb.' Barinov sets a resolute tone toward Nagiyev, pairing "snachala" ("first, at first") with "silno" ("strongly, much") to get the point across in plain spoken Russian.
+- 'Elya, I thought for a long time and wanted to say...' Nagiyev adopts a frank angle in the conversation, anchoring the Russian line on "dolgo" ("for a long time") and "dumal" ("thought") without extra filler.
+- 'Then you would have been thrown into a sudden fever.' Barinov shows a serious stance beside Nagiyev, weaving "potom" ("then") together with "rezko" ("sharply, abruptly") just the way native speakers do.
+- 'And severe itching would have started right away.' Barinov favors a wry manner toward Eleonora, linking "srazu" ("at once"), "nachalsya" ("started, broke out"), and "silnyy" ("the strong") in one brisk exchange.
+- 'Dima, tell me, are you alright right now?' Eleonora quizzes decisively right away, weaving "skazhi" ("say") together with "seychas" ("now") just the way native speakers do.
+- 'Then your coordination and speech would have failed.' Barinov sets a playful mood at once, pairing "narushilas" ("became impaired") with "potom" ("then") so the "-sya" ending carries the action.
+- 'I have made an important manly decision...' Nagiyev sets a wry tempo in their talk, combining "prinyal" ("received") and "vazhnoye" ("important") so the key meaning lands right away.
+- 'Elya, please marry me!' Nagiyev adopts a serious line for Barinov, putting "vykhodi" ("go out, marry") alongside "zamuzh" ("in marriage") in a tight, everyday turn of phrase.
+- 'Dima, what is wrong with you, why are you silent?' Eleonora probes candidly in the room, linking "pochemu" ("why"), "molchish" ("are silent"), and "dima" ("Dima") in one brisk exchange.

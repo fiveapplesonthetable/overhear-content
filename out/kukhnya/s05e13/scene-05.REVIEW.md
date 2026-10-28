@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is true love, I will go call Mom!' Saying that this is true love she will go call Mom is how Nastya takes charge of the moment. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, that is of course far from everything.' Noting that that is of course far from everything keeps Kostya's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Kostya, what are you lost in thought about now?' Asking what Kostya lost in thought about now is is how Eva puts Kostya on the spot.
-- 'You know, I am thinking seriously here.' Explaining that he is thinking seriously here lays the cards on the table for Eva.
-- 'I wonder who is actually stronger?' Questioning whether he wonders who is actually stronger is how Kostya tests Eva's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A great white shark or an angry crocodile?' With the moment and call hanging in the air, Kostya puts Eva on the spot.
-- 'Maybe we should discuss this in bed instead?' Asking whether maybe they should discuss this in bed instead puts Kostya right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Great idea, dibs on being the shark!' With the work and story at stake, Kostya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I could not possibly tell that story!' Kostya declares that he could not possibly tell that story as the tension in the room peaks.
-- 'Especially right in front of my Nastya.' With the story and call in play, Kostya keeps this short reply brisk and direct.
-- 'Mom is also very happy for us.' Saying that Mom is also very happy for them is how Nastya sets the tone with Eva.
-- 'I always tell only the truth.' Because he always tells only the truth, Kostya treats the matter as settled.
+- 'This is true love, I will go call Mom!' Nastya maintains a serious note across the room, pairing "nastoyashchaya" ("real, genuine") with "lyubov" ("love") to get the point across in plain spoken Russian.
+- 'Well, that is of course far from everything.' Kostya adopts a steady style on the spot, placing "konechno" ("of course") straight beside "daleko" ("far away") with no word for "to be" needed.
+- 'Kostya, what are you lost in thought about now?' Eva tests decisively without a pause, building the phrase around "seychas" ("now") and "zadumalsya" ("become lost in thought") for a crisp, natural delivery.
+- 'You know, I am thinking seriously here.' Kostya establishes a wry direction in the room, leaning on "znayesh" ("know") before closing the thought with "tut" ("here").
+- 'I wonder who is actually stronger?' Kostya quizzes plainly toward Eva here, putting "interesno" ("interesting") alongside "samom" ("very") in a tight, everyday turn of phrase.
+- 'A great white shark or an angry crocodile?' Kostya challenges naturally on the spot, building the phrase around "bolshaya" ("large") and "belaya" ("white") for a crisp, natural delivery.
+- 'Maybe we should discuss this in bed instead?' Eva presses sharply without a pause, weaving "mozhet" ("can") together with "luchshe" ("better") just the way native speakers do.
+- 'Great idea, dibs on being the shark!' Kostya takes an easygoing angle at this moment, linking "otlichnaya" ("excellent"), "ideya" ("idea"), and "budu" ("will be") in one brisk exchange.
+- 'I could not possibly tell that story!' Kostya shows a playful line in the scene, weaving "mog" ("can, to be able") together with "rasskazat" ("to tell") just the way native speakers do.
+- 'Especially right in front of my Nastya.' Kostya chooses an easygoing footing straight away, putting "boleye" ("more") alongside "pryamo" ("right, just") in a tight, everyday turn of phrase.
+- 'Mom is also very happy for us.' Nastya takes a thoughtful manner in this beat, placing "mama" ("mum, mother") straight beside "tozhe" ("too") with no word for "to be" needed.
+- 'I always tell only the truth.' Kostya shares a calm view right away, pairing "vsegda" ("always") with "govoryu" ("am telling") to get the point across in plain spoken Russian.

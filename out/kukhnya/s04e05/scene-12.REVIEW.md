@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, we have an ambush in the kitchen.' Saying that they have an ambush in the kitchen is how Max sets the tone with Senya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Our German has gone completely wild today.' Because their German has gone completely wild today, Max treats the matter as settled.
-- 'Next month he will slash everyone's salary.' Explaining that next month he will slash everyone salary lays the cards on the table for Senya.
-- 'Now we will work twice as much.' Max mentions that they will work twice as much so Senya sees what is at stake.
-- 'And we will get paid twice as little.' Claiming that they will get paid twice as little sounds confident, even if Senya has doubts.
-- 'Maksim Leonidovich, do they really want to cut salaries?' Checking whether they really want to cut salaries is how Senya puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Keep quiet, please do not yell so loudly!' Keeping quiet please do not yell so loudly is Max's blunt reaction in front of Senya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nobody knows about this yet.' Realizing that nobody knows about this yet changes how Max handles the situation.
-- 'Let this stay strictly between us.' Letting this stay strictly between them is how Max lays out the situation for Senya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'By the way, the neighbors need a cook right now.' With the point and rumor in play, Max keeps this short reply brisk and direct.
-- 'Only you need to bring your resume very quickly.' Admitting that only Senya needs to bring Senya's resume very quickly shows Max being honest for a change.
-- 'Go quickly, I will cover for you here.' By telling Senya to go quickly he will cover for Senya here, Max keeps his side of the story grounded. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Hi, we have an ambush in the kitchen.' Max takes a calm bearing in front of Senya, pairing "kukhne" ("kitchen") with "zasada" ("kitchen") to get the point across in plain spoken Russian.
+- 'Our German has gone completely wild today.' Max offers a warm course toward Senya, weaving "segodnya" ("today") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Next month he will slash everyone's salary.' Max projects a playful style in their talk, linking "sleduyushchem" ("next"), "mesyatse" ("month"), and "srezhet" ("salary") in one brisk exchange.
+- 'Now we will work twice as much.' Max shows a lively direction with Senya, linking "rabotat" ("to work"), "teper" ("now"), and "budem" ("will") in one brisk exchange.
+- 'And we will get paid twice as little.' Max maintains a candid footing in the conversation, leaning on "poluchat" ("to receive") before closing the thought with "budem" ("will").
+- 'Maksim Leonidovich, do they really want to cut salaries?' Senya presses evenly across the room, leaning on "zarplatu" ("salary") before closing the thought with "realno" ("really possible").
+- 'Keep quiet, please do not yell so loudly!' Max strikes a grounded angle straight away, linking "tikho" ("easy, quiet"), "gromko" ("on speaker"), and "ori" ("to yell, to bellow") in one brisk exchange.
+- 'Nobody knows about this yet.' Max sets a playful line as they talk, doubling the negative with "ne" ("not") and "poka" ("bye"), which is standard and required in Russian.
+- 'Let this stay strictly between us.' Max adopts a calm angle in their talk, combining "ostanetsya" ("will remain") and "strogo" ("sternly, strictly") so the key meaning lands right away.
+- 'By the way, the neighbors need a cook right now.' Max keeps a calm line in their talk, leaning on "kstati" ("by the way") before closing the thought with "sosedey" ("neighbors").
+- 'Only you need to bring your resume very quickly.' Max sets a firm view across the room, weaving "tolko" ("only") together with "rezyume" ("résumé") just the way native speakers do.
+- 'Go quickly, I will cover for you here.' Max picks a resolute position toward Senya, leaning on "idi" ("go") before closing the thought with "skoreye" ("quickly, right away").

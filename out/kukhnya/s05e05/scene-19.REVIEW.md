@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, can I have you for a couple of minutes?' Asking whether he has Eleonora for a couple of minutes is how Denis puts Eleonora on the spot.
-- 'Denis, do you not see that we are talking?' Here asking whether Denis not see that they are talking shows Eleonora looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Mom, stop it, we have not properly discussed anything yet.' Realizing that Mom stop it they have not properly discussed anything yet changes how Katya handles the situation. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'The fact that he has a daughter!' Declaring that the fact that he has a daughter brings Eleonora's temper right to the surface.
-- 'Give us a couple of minutes, this is very important.' Since Eleonora should give them a couple of minutes this is very important, Denis does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I cheated on you.' Between the point and the conversation, Denis gives Eleonora a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What?' Over the truth and the room, Katya presses Denis for a straight answer.
-- 'On that day when you refused to marry me.' Between the point and the plan, Denis gives Eleonora a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I got drunk.' Adding that he got drunk fills in the missing piece for Eleonora.
-- 'Do I know her?' Here asking whether she knows shows Katya looking for the real truth.
-- 'I did not see her after that.' Once he did not see, Denis can finally tell Eleonora what he means.
-- 'There is no daughter, Kostya made it all up.' Mentioning that there is no daughter Kostya made it all up moves the talk in a new direction.
+- 'Katya, can I have you for a couple of minutes?' Denis quizzes boldly with Eleonora now, weaving "mozhno" ("may, can") together with "paru" ("couple") just the way native speakers do.
+- 'Denis, do you not see that we are talking?' Eleonora asks quietly in front of Katya, leaning on "vidish" ("see") before closing the thought with "razgovarivayem" ("to talk, to speak").
+- 'Mom, stop it, we have not properly discussed anything yet.' Katya brings a frank course in their talk, joining "mam" ("Mum") to "perestan" ("stop") so every word pulls its weight.
+- 'The fact that he has a daughter!' Eleonora strikes a calm position in the scene, linking "yest" ("there is"), "doch" ("daughter"), and "to" ("that") in one brisk exchange.
+- 'Give us a couple of minutes, this is very important.' Denis keeps a wry tack at once, building the phrase around "dayte" ("give") and "paru" ("couple") for a crisp, natural delivery.
+- 'I cheated on you.' Denis shares a wry position straight away, anchoring the Russian line on "izmenil" ("changed") and "ya" ("I") without extra filler.
+- 'What?' Katya tests earnestly right away, putting all the weight on "chto" ("what") so the reply lands immediately.
+- 'On that day when you refused to marry me.' Denis keeps an emphatic mood in front of Katya, building the phrase around "den" ("day") and "kogda" ("when") for a crisp, natural delivery.
+- 'I got drunk.' Denis displays a lively tone in the scene, putting "napilsya" ("get drunk") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'Do I know her?' Katya checks lightly as the beat lands, pairing "znayu" ("know") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'I did not see her after that.' Denis holds an emphatic position with Eleonora, building the phrase around "videl" ("saw, have seen") and "ya" ("I") for a crisp, natural delivery.
+- 'There is no daughter, Kostya made it all up.' Denis picks an earnest posture across the room, pairing "dochki" ("daughters") with "vydumal" ("made up, invented") to get the point across in plain spoken Russian.

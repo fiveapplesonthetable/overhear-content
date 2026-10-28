@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, why are you drinking during work hours?' Here wondering why Barinov drinking during work hours is shows the inspector looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I am celebrating your imminent resignation, Sergey Vladimirovich!' By being celebrating the inspector's imminent resignation Sergey Vladimirovich, Barinov raises the stakes in the room at once. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Interesting, why on earth should I resign?' Asking whether interesting why on earth should he resign puts Barinov right on the defensive.
-- 'Because of this pretty little thing right here!' Over the work and the hotel, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Look closely at it, do you recognize it?' Questioning whether closely at it do the inspector recognizes it is how Barinov tests the inspector's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh, did I really lose it by accident yesterday?' By checking whether he really loses it by accident yesterday, Max presses Barinov for a straight answer.
-- 'I see no logic, why should I resign because of an earring?' Seeing no logic why should he resign because of an earring cuts straight through the tension between the inspector and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And do you know where exactly I found it yesterday?' Checking whether the inspector knows where exactly he found it yesterday is how Barinov puts the inspector on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I found it on the floor when I dropped the cork at your place!' Declaring that he found it on the floor when he dropped the cork at the inspector's place brings Barinov's temper right to the surface.
-- 'You found it in my room, and that means nothing.' Once Barinov found it in his room and that means nothing, the inspector can finally tell Barinov what he means. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And I knew you would say that, which is why I came a second time!' Saying that he knew the inspector would say that which is why he came a second time is how Barinov takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That is precisely why I asked where your restroom was back then!' Barinov declares that that is precisely why he asked where the inspector's restroom was back then as the tension in the room peaks.
+- 'Viktor Petrovich, why are you drinking during work hours?' The inspector checks decisively without holding back, joining "pochemu" ("why") to "pyote" ("are drinking") so every word pulls its weight.
+- 'I am celebrating your imminent resignation, Sergey Vladimirovich!' Barinov adopts an earnest course in this beat, pairing "prazdnuyu" ("I am celebrating") with "skoroye" ("soon") to get the point across in plain spoken Russian.
+- 'Interesting, why on earth should I resign?' The inspector presses steadily with Barinov now, linking "interesno" ("interesting"), "stati" ("reason, grounds"), and "dolzhen" ("has to, must") in one brisk exchange.
+- 'Because of this pretty little thing right here!' Barinov shares a brisk style with Max, putting "krasivoy" ("beautiful, handsome") alongside "veshchichki" ("little thing") in a tight, everyday turn of phrase.
+- 'Look closely at it, do you recognize it?' Barinov challenges evenly in the scene, leaning on "posmotri" ("look") before closing the thought with "vnimatelno" ("carefully, attentively").
+- 'Oh, did I really lose it by accident yesterday?' Max wonders dryly to make the point, anchoring the Russian line on "vchera" ("yesterday") and "sluchayno" ("by any chance") without extra filler.
+- 'I see no logic, why should I resign because of an earring?' The inspector quizzes plainly on the spot, building the phrase around "vizhu" ("see") and "logiki" ("of logic") for a crisp, natural delivery.
+- 'And do you know where exactly I found it yesterday?' Barinov presses candidly across the room, weaving "znayesh" ("know") together with "gde" ("where") just the way native speakers do.
+- 'I found it on the floor when I dropped the cork at your place!' Barinov takes a measured direction in the conversation, linking "nashyol" ("found"), "polu" ("floor"), and "kogda" ("when") in one brisk exchange.
+- 'You found it in my room, and that means nothing.' The inspector sustains a lively view at once, using "obnaruzhili" (from "obnaruzhit", "to discover") alongside "nomere" ("in the hotel room") to shape the meaning.
+- 'And I knew you would say that, which is why I came a second time!' Barinov shares an easygoing tack for the inspector, leaning on "znal" ("knew") before closing the thought with "skazhesh" ("will you say").
+- 'That is precisely why I asked where your restroom was back then!' Barinov offers a frank line during the exchange, weaving "poetomu" ("that's why") together with "togda" ("back then") just the way native speakers do.

@@ -19,23 +19,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | И трясем. | And we shake it hard. | #240: И трясем | verbatim |
 | 8 | Шеф | Чеснок очищен. | The garlic is completely peeled. | #241: Чеснок очищен | verbatim |
 | 9 | Макс | Так, это переводить не надо. | Alright, there is no need to translate that part. | #246: Так, это переводить не надо | verbatim |
-| 10 | Шеф | Витя, не ори. | Vitya, do not yell in here. | #247: Витя, не ори | verbatim |
+| 10 | Макс | Витя, не ори. | Vitya, do not yell in here. | #247: Витя, не ори | verbatim |
 | 11 | Макс | Это у тебя надо спросить. | You are the one we should be asking about that. | #248: Это у тебя надо спросить | verbatim |
 | 12 | Шеф | Это тоже переводить не надо. | There is no need to translate that part either. | #250: Это тоже переводить не надо | verbatim |
 | 13 | Макс | Чудесных улиток. | Wonderful snails. | #252: чудесных улиток | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But first I am going to show all of you.' Max explains that first he is going to show all of Barinov, keeping his voice calm and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And we start pressing down with the palm of the hand.' Here starting pressing down with the palm of the hand sets up the next turn in their exchange.
-- 'With a knife we trim off the ends of the garlic.' Over the situation and the moment, Max answers Barinov without a second thought.
-- 'Now we take a mixing bowl.' Taking a mixing bowl moves the conversation forward without extra drama.
-- 'We place this garlic right inside it.' Around the situation and moment, Max sets a calm, everyday tone with Barinov.
-- 'We take a second bowl.' Here taking a second bowl sets up the next turn in their exchange.
-- 'And we shake it hard.' Between the situation and the moment, Max gives Barinov a quick, grounded response.
-- 'The garlic is completely peeled.' Adding that the garlic is completely peeled fills in the missing piece for Max.
-- 'Alright, there is no need to translate that part.' Max tells Barinov that Alright there is no need to translate that part without dressing it up.
-- 'Vitya, do not yell in here.' Since do not yell in here, Barinov does not waste words on excuses.
-- 'You are the one we should be asking about that.' Mentioning that Barinov is the one they should be asking moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'There is no need to translate that part either.' Saying that there is no need to translate that part either is how Barinov sets the tone with Max.
-- 'Wonderful snails.' With the situation and conversation in play, Max keeps this short reply brisk and direct.
+- 'But first I am going to show all of you.' Max sustains a warm footing as the scene unfolds, combining "snachala" ("first, at first") and "pokazhu" ("will show") so the key meaning lands right away.
+- 'And we start pressing down with the palm of the hand.' Barinov offers a playful posture as they talk, building the phrase around "ladoshkoy" ("palm of the hand") and "nachinayem" ("are starting") for a crisp, natural delivery.
+- 'With a knife we trim off the ends of the garlic.' Max maintains a measured tone without hesitation, anchoring the Russian line on "nozhikom" ("small knife") and "otrezayem" ("to cut off") without extra filler.
+- 'Now we take a mixing bowl.' Barinov sets a thoughtful view in their talk, building the phrase around "berem" ("we take") and "misku" ("bowl") for a crisp, natural delivery.
+- 'We place this garlic right inside it.' Max chooses an honest tone beside Barinov, putting "kladem" ("to put, to lay down") alongside "tuda" ("there") in a tight, everyday turn of phrase.
+- 'We take a second bowl.' Barinov conveys a thoughtful mood on the spot, building the phrase around "berem" ("we take") and "vtoruyu" ("second") for a crisp, natural delivery.
+- 'And we shake it hard.' Max offers a grounded course during the exchange, leaning on "tryasem" ("to shake") as a compact, one-word response that needs no extra words.
+- 'The garlic is completely peeled.' Barinov adopts a lively tack without hesitation, anchoring the Russian line on "chesnok" ("garlic") and "ochishchen" ("peeled, cleaned") without extra filler.
+- 'Alright, there is no need to translate that part.' Max takes an unhurried manner across the room, anchoring the Russian line on "perevodit" ("to transfer") and "nado" ("it is necessary") without extra filler.
+- 'Vitya, do not yell in here.' Max picks a serious manner right away, leaning on "ori" ("to yell, to bellow") before closing the thought with "vitya" ("Vitya").
+- 'You are the one we should be asking about that.' Max establishes a natural direction without hesitation, pairing "nado" ("it is necessary") with "sprosit" ("to ask") to get the point across in plain spoken Russian.
+- 'There is no need to translate that part either.' Barinov picks a sharp tack right away, combining "tozhe" ("too") and "perevodit" ("to transfer") so the key meaning lands right away.
+- 'Wonderful snails.' Max holds an easygoing mood in this beat, combining "chudesnykh" ("wonderful, miraculous") and "ulitok" ("snail, escargot") so the key meaning lands right away.

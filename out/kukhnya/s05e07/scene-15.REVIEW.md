@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Girls, order, do not be shy.' Vika tells Barinov that girls order do not be shy without dressing it up.
-- 'Give the bill to Lavrov.' Giving the bill to Lavrov is how Vika lays out the situation for Barinov.
-- 'Well then, did you lose?' Checking whether Mikhail loses is how Barinov puts Mikhail on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He will come right back and finish eating.' Saying that he will come right back and finish eating is how Mikhail sets the tone with Barinov.
-- 'There are still a hundred and twenty grams left here.' Because there are still a hundred and twenty grams left here, Barinov treats the matter as settled.
-- 'Nikolai Maryanovich, are you in here?' When Mikhail asks if Nikolai Maryanovich are Barinov in here, Barinov has to answer fast. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Nikolai Maryanovich, is everything alright with you?' Mikhail asks whether Nikolai Maryanovich is everything alright with Barinov, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Why is he not answering?' Here asking why he not answering is shows Barinov looking for the real truth.
-- 'Open the door, please!' Opening the door please is Mikhail's blunt reaction in front of Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'He got sick from your bet.' Barinov explains that he got sick from Mikhail's bet, keeping his voice calm and direct.
-- 'Break the lock faster!' Insisting that Barinov should break the lock faster shows Mikhail is not backing down.
-- 'Call an ambulance!' Telling Mikhail to call an ambulance shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Girls, order, do not be shy.' Vika presents a grounded note beside Barinov, building the phrase around "devchonki" ("girls") and "zakazyvayte" ("order") for a crisp, natural delivery.
+- 'Give the bill to Lavrov.' Vika chooses a firm bearing on the spot, anchoring the Russian line on "schyot" ("counting, account") and "otdash" ("to give, to hand over") without extra filler.
+- 'Well then, did you lose?' Barinov quizzes dryly in this moment, pairing "proigral" ("lost") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'He will come right back and finish eating.' Mikhail sustains a grounded direction for Vika, building the phrase around "seychas" ("now") and "vernyotsya" ("will return") for a crisp, natural delivery.
+- 'There are still a hundred and twenty grams left here.' Barinov projects a lively mood in the room, joining "tut" ("here") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'Nikolai Maryanovich, are you in here?' Mikhail tests earnestly for Vika's benefit, building the phrase around "tut" ("here") and "nikolay" ("Nikolai") for a crisp, natural delivery.
+- 'Nikolai Maryanovich, is everything alright with you?' Mikhail inquires directly toward Barinov here, leaning on "khorosho" ("good, fine") before closing the thought with "nikolay" ("Nikolai").
+- 'Why is he not answering?' Barinov quizzes openly with Vika now, joining "pochemu" ("why") to "otvechayet" ("is responsible") so every word pulls its weight.
+- 'Open the door, please!' Mikhail shows a calm direction toward Barinov, linking "otkroyte" ("open"), "dver" ("door"), and "pozhaluysta" ("please") in one brisk exchange.
+- 'He got sick from your bet.' Barinov sets a calm tone in their talk, leaning on "stalo" ("became, came over") before closing the thought with "plokho" ("badly").
+- 'Break the lock faster!' Mikhail sets a sharp bearing in their talk, combining "bystreye" ("faster") and "lomay" ("break") so the key meaning lands right away.
+- 'Call an ambulance!' Barinov maintains a clear position with Vika, anchoring the Russian line on "vyzyvay" ("to cause, to raise") and "skoruyu" ("ambulance") without extra filler.

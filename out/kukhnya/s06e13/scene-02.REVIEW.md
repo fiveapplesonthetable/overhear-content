@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What exactly will I say to her now?' Asking whether what exactly will he says to her now puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Asking her so bluntly is very foolish.' Adding that asking her so bluntly is very foolish fills in the missing piece for Barinov.
-- 'Even completely foolish, I would say.' Kostya tells Barinov that even completely foolish he would say without dressing it up.
-- 'Listen, maybe I will just go away?' Wondering if maybe he will just go away shows Denis caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Then she will definitely marry Nikita.' Mentioning that she will definitely marry Nikita moves the talk in a new direction.
-- 'I will say that I am leaving here forever.' Saying that he will say that he is leaving here forever is how Denis sets the tone with Barinov.
-- 'Then I will look closely at her reaction.' Because he will look closely at her reaction, Denis treats the matter as settled.
-- 'That way I will understand how she feels.' Explaining that that way he will understand how she feels lays the cards on the table for Barinov.
-- 'Listen, that is actually a good plan.' Kostya mentions that that is actually a good plan so Barinov sees what is at stake.
-- 'I only have left to sort things out with Sveta.' Claiming that he only has left to sort things out with Sveta sounds confident, even if Barinov has doubts.
-- 'Revenge is served to the table only cold.' Pointing out that revenge is served to the table only cold gives Denis a sobering reality check.
-- 'And preferably it should be served rare.' Barinov explains that preferably it should be served rare, keeping his voice calm and direct.
-- 'Alright, let us quickly finish our conversation.' Realizing that Alright let them quickly finish their conversation changes how Barinov handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'What exactly will I say to her now?' Denis stands firm boldly in this moment, joining "seychas" ("now") to "skazhu" ("I'll tell") so every word pulls its weight.
+- 'Asking her so bluntly is very foolish.' Denis sets an honest tempo in the scene, weaving "sprashivat" ("am asking") together with "lob" ("forehead") just the way native speakers do.
+- 'Even completely foolish, I would say.' Kostya keeps a grounded approach in this beat, weaving "sovsem" ("at all") together with "glupo" ("stupid") just the way native speakers do.
+- 'Listen, maybe I will just go away?' Denis checks wryly from the start, combining the softening word "prosto" ("simply, just") with "slushay" ("listen") to give the line its natural spoken rhythm.
+- 'Then she will definitely marry Nikita.' Kostya picks a clear rhythm without hesitation, combining "togda" ("back then") and "tochno" ("definitely") so the key meaning lands right away.
+- 'I will say that I am leaving here forever.' Denis picks a candid posture at this moment, pairing "skazhu" ("I'll tell") with "uyezzhayu" ("am leaving") to get the point across in plain spoken Russian.
+- 'Then I will look closely at her reaction.' Denis holds a calm manner without hesitation, joining "potom" ("then") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
+- 'That way I will understand how she feels.' Denis adopts a resolute posture with Kostya, putting "poymu" ("understand") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'Listen, that is actually a good plan.' Kostya offers an honest line with Barinov, joining "slushay" ("listen") to "khoroshiy" ("good") so every word pulls its weight.
+- 'I only have left to sort things out with Sveta.' Denis strikes a calm view across the room, leaning on "ostalos" ("was left") before closing the thought with "tolko" ("only").
+- 'Revenge is served to the table only cold.' Barinov shares a candid position in the scene, weaving "mest" ("revenge") together with "podayut" ("they serve") just the way native speakers do.
+- 'And preferably it should be served rare.' Barinov projects a brisk rhythm beside Kostya, leaning on "zhelatelno" ("preferably") before closing the thought with "podavat" ("to serve").
+- 'Alright, let us quickly finish our conversation.' Barinov favors a warm line at once, building the phrase around "davay" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.

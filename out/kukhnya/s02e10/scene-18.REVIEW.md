@@ -20,22 +20,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Федя | Алло, алло, полиция? | Hello, hello, police? | #298: Алло, алло, полиция | verbatim |
 | 9 | Костя | Салфетки берешь на складе. | You get the napkins from the storage room. | #301: Салфетки берешь на складе | verbatim |
 | 10 | Федя | Берете скатерти. | Take the tablecloths. | #302: Берете скатерти | verbatim |
-| 11 | Костя | Костя, а ты что здесь делаешь? | Kostya, what are you doing out here? | #303: Костя, а ты что здесь делаешь | verbatim |
+| 11 | Настя | Костя, а ты что здесь делаешь? | Kostya, what are you doing out here? | #303: Костя, а ты что здесь делаешь | verbatim |
 | 12 | Федя | Иди в бар. | Go back to the bar. | #304: Иди в бар | verbatim |
-| 13 | Костя | Костя, иди в бар. | Kostya, go to the bar. | #305: Костя, иди в бар | verbatim |
+| 13 | Настя | Костя, иди в бар. | Kostya, go to the bar. | #305: Костя, иди в бар | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'God willing.' Over the soup and the chaos, Kostya answers Fedya without a second thought.
-- 'Hello, what do you want?' Here asking what Kostya wants shows Fedya looking for the real truth.
-- 'I need to speak with you.' Explaining that he needs to speak with Fedya lays the cards on the table for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I have a proposition for you.' Fedya mentions that he has a proposition for Kostya so Kostya sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I beg your pardon?' By begging Fedya's pardon, Nastya presses Fedya for a straight answer.
-- 'Because it has to be fresh.' Even though because it has to be fresh, Fedya keeps a steady face in front of Kostya.
-- 'This chicken gave its life for you.' Admitting that this chicken gave its life for Fedya shows Kostya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hello, hello, police?' With the room and soup hanging in the air, Fedya puts Kostya on the spot.
-- 'You get the napkins from the storage room.' Once Fedya gets the napkins from the storage room, Kostya can finally tell Fedya what he means.
-- 'Take the tablecloths.' Taking the tablecloths moves the conversation forward without extra drama.
-- 'Kostya, what are you doing out here?' By wondering what Fedya doing out here is, Kostya presses Fedya for a straight answer.
-- 'Go back to the bar.' Going back to the bar is how Fedya lays out the situation for Kostya.
-- 'Kostya, go to the bar.' Noting that Fedya should go to the bar keeps Kostya's side of the story simple and clear.
+- 'God willing.' Kostya adopts a candid footing straight away, using "dast" (from "dat", "will give") alongside "bog" ("God") to shape the meaning.
+- 'Hello, what do you want?' Fedya wonders plainly as the talk turns, anchoring the Russian line on "zdravstvuyte" ("hello") and "vam" ("you") without extra filler.
+- 'I need to speak with you.' Kostya brings a measured rhythm in their talk, pairing "nado" ("it is necessary") with "pogovorit" ("to talk") to get the point across in plain spoken Russian.
+- 'I have a proposition for you.' Fedya adopts an earnest course with Nastya, linking "predlozheniye" ("offer, proposal"), "menya" ("me"), and "vam" ("you") in one brisk exchange.
+- 'I beg your pardon?' Nastya prompts quietly right away, pairing "ponyala" ("understood") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'Because it has to be fresh.' Fedya holds a resolute line in the scene, linking "potomu" ("because"), "dolzhna" ("should, must"), and "byt" ("be") in one brisk exchange.
+- 'This chicken gave its life for you.' Kostya sustains a pointed angle as they talk, anchoring the Russian line on "kuritsa" ("chicken") and "zhizn" ("life") without extra filler.
+- 'Hello, hello, police?' Fedya wonders directly as they speak, joining "politsiya" ("police") to "allo" ("hello") so every word pulls its weight.
+- 'You get the napkins from the storage room.' Kostya establishes an emphatic tack for Fedya, combining "salfetki" ("napkin") and "beresh" ("do you take") so the key meaning lands right away.
+- 'Take the tablecloths.' Fedya presents a measured mood without hesitation, anchoring the Russian line on "berete" ("take") and "skaterti" ("tablecloths") without extra filler.
+- 'Kostya, what are you doing out here?' Nastya prompts directly for Fedya's benefit, anchoring the Russian line on "zdes" ("here") and "delayesh" ("are you doing") without extra filler.
+- 'Go back to the bar.' Fedya takes a warm tone in their talk, weaving "idi" ("go") together with "bar" ("bar") just the way native speakers do.
+- 'Kostya, go to the bar.' Nastya offers a clear approach in their talk, weaving "idi" ("go") together with "bar" ("bar") just the way native speakers do.

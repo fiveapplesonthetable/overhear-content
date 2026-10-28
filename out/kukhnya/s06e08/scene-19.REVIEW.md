@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Она и так много пережила из-за меня. | She has already been through so much because of me. | #310: Она и так много чего пережила, в том числе из-за меня | adapted: adapted |
-| 2 | Костя | Я совсем не хочу на неё сейчас давить. | I do not want to put pressure on her right now at all. | #311: Не хочу на нее давить, понимаешь | adapted: adapted |
+| 1 | Денис | Она и так много пережила из-за меня. | She has already been through so much because of me. | #310: Она и так много чего пережила, в том числе из-за меня | adapted: adapted |
+| 2 | Денис | Я совсем не хочу на неё сейчас давить. | I do not want to put pressure on her right now at all. | #311: Не хочу на нее давить, понимаешь | adapted: adapted |
 | 3 | Элеонора | Спасибо тебе, Денис, я никогда не забуду этого. | Thank you, Denis, I will never forget this. | #317: я никогда не забуду этого | adapted: adapted |
-| 4 | Костя | Где наш маленький Стёпка, он ещё в доме? | Where is our little Styopka, is he still in the house? | #321: Где Степка | adapted: adapted |
-| 5 | Костя | Спасибо тебе огромное, папа, за спасение сына! | Thank you so much, Dad, for saving our son! | #322: Спасибо, пап | adapted: adapted |
+| 4 | Денис | Где наш маленький Стёпка, он ещё в доме? | Where is our little Styopka, is he still in the house? | #321: Где Степка | adapted: adapted |
+| 5 | Денис | Спасибо тебе огромное, папа, за спасение сына! | Thank you so much, Dad, for saving our son! | #322: Спасибо, пап | adapted: adapted |
 | 6 | Нагиев | Эля, девочка моя, это не то, что ты подумала! | Elya, my girl, this is not what you thought! | #324: Эля, девочка, это не то, что ты подумала | adapted: adapted |
 | 7 | Нагиев | Там на самом деле такая смешная история была. | There was actually such a funny story in there. | #325: Там такая смешная история была | adapted: adapted |
 | 8 | Элеонора | Отвернись, я не хочу больше ничего слушать! | Turn away, I do not want to listen to anything anymore! | #326: Я не хочу больше ничего слушать | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She has already been through so much because of me.' Since she has already been through so much because of him, Kostya does not waste words on excuses.
-- 'I do not want to put pressure on her right now at all.' Mentioning that he does not want to put pressure on her right now at all moves the talk in a new direction.
-- 'Thank you, Denis, I will never forget this.' Saying that she will never forget this is how Eleonora sets the tone with Kostya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Where is our little Styopka, is he still in the house?' Asking where their little is he still in the house is is how Kostya puts Eleonora on the spot.
-- 'Thank you so much, Dad, for saving our son!' Over the work and the kitchen, Kostya lets his real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Elya, my girl, this is not what you thought!' Insisting that someone his girl this is not what Eleonora thought shows Nagiyev is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There was actually such a funny story in there.' Claiming that there was actually such a funny story in there sounds confident, even if Eleonora has doubts.
-- 'Turn away, I do not want to listen to anything anymore!' Telling Kostya to turn away she does not want to listen to anything anymore shows Eleonora is done holding back. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Elya, why are we quarreling in front of everyone?' Asking whether someone why are they quarreling in front of everyone puts Eleonora right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everything is decided, tomorrow I am filing for divorce!' Saying that everything is decided tomorrow she is filing for divorce is how Eleonora takes charge of the moment.
-- 'Elya, word of honor, I love you very much!' Nagiyev declares that someone word of honor he loves Eleonora very much as the tension in the room peaks. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Go away and do not call me anymore!' Here going away and do not call her anymore lets Eleonora's real feelings break through. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'She has already been through so much because of me.' Denis offers a lively course in the conversation, linking "mnogo" ("a lot"), "perezhila" ("to survive"), and "ona" ("it") in one brisk exchange.
+- 'I do not want to put pressure on her right now at all.' Denis keeps a frank note in this beat, weaving "sovsem" ("at all") together with "khochu" ("want") just the way native speakers do.
+- 'Thank you, Denis, I will never forget this.' Eleonora chooses an easygoing line on the spot, pairing "spasibo" ("thank you") with "nikogda" ("never") to get the point across in plain spoken Russian.
+- 'Where is our little Styopka, is he still in the house?' Denis checks sharply for Nagiyev's benefit, building the phrase around "gde" ("where") and "malenkiy" ("short, little") for a crisp, natural delivery.
+- 'Thank you so much, Dad, for saving our son!' Denis takes an honest position in the scene, building the phrase around "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") for a crisp, natural delivery.
+- 'Elya, my girl, this is not what you thought!' Nagiyev shares a sharp position in the room, putting "devochka" ("girl") alongside "podumala" ("thought") in a tight, everyday turn of phrase.
+- 'There was actually such a funny story in there.' Nagiyev sustains a pointed view at this moment, pairing "tam" ("there") with "samom" ("very") to get the point across in plain spoken Russian.
+- 'Turn away, I do not want to listen to anything anymore!' Eleonora conveys a grounded footing beside Nagiyev, linking "otvernis" ("to turn away"), "khochu" ("want"), and "bolshe" ("more") in one brisk exchange.
+- 'Elya, why are we quarreling in front of everyone?' Nagiyev queries earnestly in their exchange, building the phrase around "zachem" ("what for") and "ssorimsya" ("to quarrel") for a crisp, natural delivery.
+- 'Everything is decided, tomorrow I am filing for divorce!' Eleonora shows a natural course without hesitation, weaving "resheno" ("decided, settled") together with "zavtra" ("tomorrow") just the way native speakers do.
+- 'Elya, word of honor, I love you very much!' Nagiyev keeps a resolute line as the scene unfolds, using "chestnoye" (from "chestnyy", "honest") alongside "slovo" ("word") to shape the meaning.
+- 'Go away and do not call me anymore!' Eleonora shows an honest approach in their talk, building the phrase around "ukhodi" ("go away") and "proch" ("off, away") for a crisp, natural delivery.

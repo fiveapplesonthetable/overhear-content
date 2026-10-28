@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I am really hungry for something.' Here being really hungry for something sets up the next turn in their exchange.
-- 'Will you cook something, huh?' Here asking whether Kostya cooks something huh shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course I will cook.' Because she will cook, Vika treats the matter as settled.
-- 'But first give me a kiss.' Around the point and dinner, Vika sets a calm, everyday tone with Kostya.
-- 'Darling, I am as hungry as a wolf.' Noting that he is as hungry as a wolf keeps Max's side of the story simple and clear.
-- 'Well hello there.' Between the point and the dinner, Vika gives Kostya a quick, grounded response.
-- 'I missed you so much.' With the truth and dinner in play, Vika keeps this short reply brisk and direct.
-- 'Unbelievable.' Over the truth and the dinner, Max answers Kostya without a second thought.
-- 'She was manipulating me all along!' Insisting that she was manipulating him all along shows Max is not backing down.
-- 'I wish someone would manipulate me like that!' Here wishing someone would manipulate him like shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tonight she is definitely going to cook.' Even though tonight she is definitely going to cook, Max keeps a steady face in front of Kostya.
-- 'Good luck to you, pal.' Around the truth and dinner, Kostya sets a calm, everyday tone with Max.
+- 'Vika, I am really hungry for something.' Max shows a firm attitude straight away, weaving "yest" ("there is") together with "khochetsya" ("want, feel like") just the way native speakers do.
+- 'Will you cook something, huh?' Max presses bluntly as the talk turns, building the phrase around "prigotovish" ("will prepare") and "chto-nibud" ("something") for a crisp, natural delivery.
+- 'Of course I will cook.' Vika displays a brisk attitude in the scene, pairing "konechno" ("of course") with "prigotovlyu" ("will prepare") to get the point across in plain spoken Russian.
+- 'But first give me a kiss.' Vika takes a sharp line in the room, pairing "snachala" ("first, at first") with "potseluy" ("kiss") to get the point across in plain spoken Russian.
+- 'Darling, I am as hungry as a wolf.' Max chooses a steady manner without hesitation, combining "dorogaya" ("expensive") and "golodnyy" ("hungry") so the key meaning lands right away.
+- 'Well hello there.' Vika strikes a wry footing in their talk, using "zdraste" ("hello, hi") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I missed you so much.' Vika displays a warm view in front of Kostya, joining "soskuchilas" ("missed") to "ya" ("I") so every word pulls its weight.
+- 'Unbelievable.' Max keeps a calm line toward Vika, putting all the weight on "ofiget" ("to unbelievable") so the reply lands immediately.
+- 'She was manipulating me all along!' Max chooses an honest course beside Kostya, anchoring the Russian line on "manipulirovala" ("to along") and "ona" ("it") without extra filler.
+- 'I wish someone would manipulate me like that!' Kostya presses frankly on the spot, weaving "pomanipuliroval" ("to like") together with "kto" ("who") just the way native speakers do.
+- 'Tonight she is definitely going to cook.' Max conveys an honest view beside Kostya, pairing "segodnya" ("today") with "tochno" ("definitely") to get the point across in plain spoken Russian.
+- 'Good luck to you, pal.' Kostya favors a lively tack during the exchange, building the phrase around "udachi" ("luck") and "drug" ("friend") for a crisp, natural delivery.

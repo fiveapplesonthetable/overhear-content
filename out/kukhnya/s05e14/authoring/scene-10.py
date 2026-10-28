@@ -16,7 +16,7 @@ TRANSITION = "Alright, let's hear the entire conversation one more time from sta
 OUTRO = 'Elena accepts the excuse with total sympathy, not suspecting that the Chef is staging the whole kitchen commotion. See you next time!'
 CLOSING = ('elena', 'Увидимся!')
 STORY = [
-    ('barinov', 'Шеф, да эту модель просто невозможно собрать!', 'Chef, it is simply impossible to assemble this model!', [(174, 'Шеф, да это невозможно собрать')], 'adapted'),
+    ('elena', 'Шеф, да эту модель просто невозможно собрать!', 'Chef, it is simply impossible to assemble this model!', [(174, 'Шеф, да это невозможно собрать')], 'adapted'),
     ('elena', 'Привет, Витя, мы скоро едем на стадион?', 'Hi, Vitya, are we heading to the stadium soon?', [(178, 'Привет, Витя')], 'adapted'),
     ('barinov', 'Леночка, по всей видимости, я не смогу пойти.', 'Lenochka, apparently, I will not be able to go.', [(180, 'По всей видимости, я не смогу пойти на футбол')], 'adapted'),
     ('elena', 'Витя, а что у тебя вдруг случилось?', 'Vitya, what suddenly happened over there?', [(181, 'Витя, а что случилось')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('elena', 'Ну, сходим на футбол в следующий раз.', 'Well, we will go to the football match next time.', [(191, 'Ну, сходим на футбол в следующий раз')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Chef, it is simply impossible to assemble this model!' Saying that it is simply impossible to assemble this model is how Barinov takes charge of the moment."),
-    (1, None, '\'Hi, Vitya, are we heading to the stadium soon?\' Here asking whether they heading to the stadium soon shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (2, None, "'Lenochka, apparently, I will not be able to go.' Pointing out that lenochka apparently he will not be able to go gives Elena a sobering reality check."),
-    (3, None, "'Vitya, what suddenly happened over there?' With the shift and match hanging in the air, Elena puts Barinov on the spot."),
-    (4, None, '\'I am completely swamped at work today.\' Barinov mentions that he is completely swamped at work today so Elena sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (5, None, '\'Why, can nobody cover for you?\' Here wondering why nobody cover for Barinov can shows Elena looking for the real truth. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (6, None, "'Nobody can, Lyova has a bad flu.' Even though nobody can Lyova has a bad flu, Barinov keeps a steady face in front of Elena."),
-    (7, None, "'Vika sent several more cooks to an off-site event.' Admitting that Vika sent several more cooks to an off site event shows Barinov being honest for a change."),
-    (8, None, "'And on top of that a very important guest arrived.' Over the match and the moment, Barinov answers Elena without a second thought."),
-    (9, None, "'Vitya, just please do not get so worked up.' Once just please do not get so worked up, Elena can finally tell Barinov what she means."),
-    (10, None, '\'Where are my orders? Important guests are waiting out there!\' By wondering where his orders are, Barinov presses Elena for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (11, None, "'Well, we will go to the football match next time.' Saying that they will go to the football match next time is how Elena sets the tone with Barinov."),
+    (0, None, '\'Chef, it is simply impossible to assemble this model!\' Elena sets a playful tone on the spot, anchoring the Russian line on "model" ("model") and "prosto" ("just") without extra filler.'),
+    (1, None, '\'Hi, Vitya, are we heading to the stadium soon?\' Elena asks calmly to Barinov here, combining "skoro" ("soon") and "yedem" ("are going") so the key meaning lands right away.'),
+    (2, None, '\'Lenochka, apparently, I will not be able to go.\' Barinov strikes a measured view right away, putting "lenochka" ("lenochka") alongside "vidimosti" ("appearance") in a tight, everyday turn of phrase.'),
+    (3, None, '\'Vitya, what suddenly happened over there?\' Elena probes naturally in the room, putting "vdrug" ("suddenly, what if") alongside "sluchilos" ("happened") in a tight, everyday turn of phrase.'),
+    (4, None, '\'I am completely swamped at work today.\' Barinov sets a playful footing in the room, pairing "rabote" ("work") with "segodnya" ("today") to get the point across in plain spoken Russian.'),
+    (5, None, '\'Why, can nobody cover for you?\' Elena wonders steadily to Barinov here, anchoring the Russian line on "mozhet" ("can") and "podmenit" ("cover for, replace") without extra filler.'),
+    (6, None, '\'Nobody can, Lyova has a bad flu.\' Barinov favors a grounded stance without hesitation, linking "mozhet" ("can"), "silnyy" ("the strong"), and "gripp" ("flu") in one brisk exchange.'),
+    (7, None, '\'Vika sent several more cooks to an off-site event.\' Barinov conveys a warm attitude as they talk, leaning on "yeshchyo" ("more, still") before closing the thought with "povarov" ("cooks").'),
+    (8, None, '\'And on top of that a very important guest arrived.\' Barinov favors an unhurried course straight away, linking "tut" ("here"), "yeshchyo" ("more, still"), and "priyekhal" ("came") in one brisk exchange.'),
+    (9, None, '\'Vitya, just please do not get so worked up.\' Elena displays a candid tone beside Barinov, building the phrase around "tolko" ("only") and "silno" ("strongly, much") for a crisp, natural delivery.'),
+    (10, None, '\'Where are my orders? Important guests are waiting out there!\' Barinov questions promptly without a pause, pairing "gde" ("where") with "zakazy" ("orders") to get the point across in plain spoken Russian.'),
+    (11, None, '\'Well, we will go to the football match next time.\' Elena strikes an emphatic footing right away, using "skhodim" (from "skhodit", "go, pop over") alongside "futbol" ("football") to shape the meaning.'),
 ]

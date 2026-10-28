@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At the end of the day we sum things up.' Around the plan and shift, Katya sets a calm, everyday tone with Barinov.
-- 'We doubt whether we made the right choice.' Admitting that they doubt whether they made the right choice shows Katya being honest for a change.
-- 'Lyova, stop, please, do not do that!' Here stopping please do not do lets Barinov's real feelings break through.
-- 'Why not? The oven is simply dirty.' Lyova asks whether the oven is simply dirty, refusing to let the point slide. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Well you really scared me just now!' With the point and kitchen at stake, Barinov reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Forgive me, I only wanted what was best.' Barinov tells Katya that he only wanted what was best without dressing it up.
-- 'We all worry about our setbacks.' With the room and shift in play, Katya keeps this short reply brisk and direct.
-- 'I just wanted to say that you are really cool.' Mentioning that she just wanted to say that Barinov is really cool moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I would hang out with you even without money.' Katya tells Barinov that she would hang out with Barinov even without money without dressing it up.
-- 'Thank you very much for the kind words.' Over the room and the point, Lyova answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We hope that tomorrow will be better.' Saying that they hope that tomorrow will be better is how Katya sets the tone with Barinov.
-- 'Did you do everything the way we agreed?' Here checking whether Barinov does everything the way they agreed shows Katya looking for the real truth.
+- 'At the end of the day we sum things up.' Katya projects a playful tack straight away, using "kontse" (from "konets", "end") alongside "dnya" ("day") to shape the meaning.
+- 'We doubt whether we made the right choice.' Katya maintains a frank direction at this moment, leaning on "somnevayemsya" ("we doubt") before closing the thought with "pravilnyy" ("correct, right").
+- 'Lyova, stop, please, do not do that!' Barinov shares a serious approach beside Katya, combining "stoy" ("stop, wait") and "nado" ("it is necessary") so the key meaning lands right away.
+- 'Why not? The oven is simply dirty.' Lyova prompts lightly in the scene, combining "pochemu" ("why") and "nado" ("it is necessary") so the key meaning lands right away.
+- 'Well you really scared me just now!' Barinov holds a candid view on the spot, combining "napugal" ("scared, did you scare") and "seychas" ("now") so the key meaning lands right away.
+- 'Forgive me, I only wanted what was best.' Barinov chooses an honest mood toward Lyova, combining "prosti" ("sorry, forgive me") and "khotel" ("wanted") so the key meaning lands right away.
+- 'We all worry about our setbacks.' Katya shares a brisk manner in the scene, putting "perezhivayem" ("are worried") alongside "neudachi" ("failure, bad luck") in a tight, everyday turn of phrase.
+- 'I just wanted to say that you are really cool.' Katya projects a warm rhythm during the exchange, building the phrase around "khotela" ("wanted, meant") and "skazat" ("tell") for a crisp, natural delivery.
+- 'I would hang out with you even without money.' Katya takes a measured tempo as they talk, anchoring the Russian line on "deneg" ("money") and "poobshchalas" ("chatted, hung out") without extra filler.
+- 'Thank you very much for the kind words.' Lyova picks an earnest bearing in the scene, anchoring the Russian line on "bolshoye" ("big, very much") and "spasibo" ("thank you") without extra filler.
+- 'We hope that tomorrow will be better.' Katya shows a frank bearing with Barinov, putting "nadeyemsya" ("hope, rely") alongside "zavtrashniy" ("tomorrow's") in a tight, everyday turn of phrase.
+- 'Did you do everything the way we agreed?' Katya quizzes directly during the talk, putting "sdelal" ("did") alongside "kak" ("how") in a tight, everyday turn of phrase.

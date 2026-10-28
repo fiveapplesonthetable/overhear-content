@@ -11,9 +11,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Федя | Сеня, пойдём домой, ну давай уйдём скорее! | Senya, let's go home, come on, let's leave quickly! | #333: Пойдем домой<br>#334: давай скорее | adapted: adapted |
-| 2 | Макс | Что ты боишься прямо как маленькая девочка? | Why are you scared just like a little girl? | #335: как девочка | adapted: adapted |
-| 3 | Макс | Запомни, не существует никакого полтергейста! | Remember, no poltergeist exists at all! | #336: Не существует никакого полтергейста | adapted: adapted |
-| 4 | Макс | Никакого призрака не существует, ты меня слышишь? | No ghost exists, do you hear me? | #337: Не существует, слышишь | adapted: adapted |
+| 2 | Сеня | Что ты боишься прямо как маленькая девочка? | Why are you scared just like a little girl? | #335: как девочка | adapted: adapted |
+| 3 | Сеня | Запомни, не существует никакого полтергейста! | Remember, no poltergeist exists at all! | #336: Не существует никакого полтергейста | adapted: adapted |
+| 4 | Сеня | Никакого призрака не существует, ты меня слышишь? | No ghost exists, do you hear me? | #337: Не существует, слышишь | adapted: adapted |
 | 5 | Федя | Сеня, что происходит, это же дед Кирилл! | Senya, what is happening, that is Grandpa Kirill! | #339: происходит<br>#339: Кирилл | adapted: adapted |
 | 6 | Шеф | На колени, зря вы потревожили меня! | On your knees, you should not have disturbed me! | #341: о том, что потревожили меня | adapted: adapted |
 | 7 | Федя | Пожалуйста, не убивай нас, мы сделаем всё, что угодно! | Please do not kill us, we will do anything at all! | #342: Не убивай нас. Мы сделаем все, что угодно | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, let's go home, come on, let's leave quickly!' Proposing that they go home come on let them leave quickly shows Fedya is done holding back.
-- 'Why are you scared just like a little girl?' By wondering why Barinov scared just like a little girl is, Max presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Remember, no poltergeist exists at all!' Here telling Barinov to remember no poltergeist exists at all lets Max's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No ghost exists, do you hear me?' When Max asks if ghost exists do Barinov hears him, Barinov has to answer fast.
-- 'Senya, what is happening, that is Grandpa Kirill!' Fedya declares that what is happening that is Grandpa Kirill as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'On your knees, you should not have disturbed me!' Because on Fedya's knees Fedya should not have disturbed him, Barinov does not bother softening the blow for Fedya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Please do not kill us, we will do anything at all!' Insisting that do not kill them they will do anything at all shows Fedya is not backing down.
-- 'Well then, pranksters, did you get a big scare just now?' Questioning whether pranksters did Fedya gets a big scare just now is how Barinov tests Fedya's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Now you are getting the full works: big fines and written explanations!' Declaring that Fedya is getting the full works big fines and written explanations brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You are getting the full works tonight, that goes for everyone!' Barinov insists that Fedya is getting the full works tonight that goes for everyone, leaving Fedya no room to argue.
-- 'Chef, if it consoles you at all, we nearly died of fright!' Over the restaurant and the revenge, Fedya lets his real feelings show. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Shut up, follow me quickly!' Shutting up follow him quickly is Barinov's blunt reaction in front of Fedya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Senya, let's go home, come on, let's leave quickly!' Fedya keeps a wry line as they talk, combining the everyday invitation "davay" ("come on, let us") with "poydyom" ("let's go") to give the line its natural spoken rhythm.
+- 'Why are you scared just like a little girl?' Senya presses calmly with Fedya now, putting "boishsya" ("you are afraid") alongside "pryamo" ("right, just") in a tight, everyday turn of phrase.
+- 'Remember, no poltergeist exists at all!' Senya takes a calm tone in their talk, building the phrase around "zapomni" ("remember") and "sushchestvuyet" ("exists, there are") for a crisp, natural delivery.
+- 'No ghost exists, do you hear me?' Senya asks naturally as the beat lands, putting "prizraka" ("ghost") alongside "sushchestvuyet" ("exists, there are") in a tight, everyday turn of phrase.
+- 'Senya, what is happening, that is Grandpa Kirill!' Fedya keeps a wry bearing in their talk, joining "proiskhodit" ("is going on") to "ded" ("grandfather") so every word pulls its weight.
+- 'On your knees, you should not have disturbed me!' Barinov shares a brisk tack without hesitation, combining "koleni" ("knees") and "zrya" ("for nothing") so the key meaning lands right away.
+- 'Please do not kill us, we will do anything at all!' Fedya presents a steady rhythm with Barinov, pairing "ubivay" ("kill") with "sdelayem" ("we'll do") to get the point across in plain spoken Russian.
+- 'Well then, pranksters, did you get a big scare just now?' Barinov quizzes lightly right away, joining "shutniki" ("pranksters") to "silno" ("strongly, much") so every word pulls its weight.
+- 'Now you are getting the full works: big fines and written explanations!' Barinov offers a sharp attitude with Fedya, leaning on "seychas" ("now") before closing the thought with "budet" ("will be").
+- 'You are getting the full works tonight, that goes for everyone!' Barinov sustains a thoughtful footing in the conversation, building the phrase around "budet" ("will be") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Chef, if it consoles you at all, we nearly died of fright!' Fedya offers a serious view with Barinov, joining "uteshit" ("will comfort") to "chut" ("almost, nearly") so every word pulls its weight.
+- 'Shut up, follow me quickly!' Barinov holds a frank position for Senya, joining "zamolchi" ("to fall silent") to "bystro" ("quickly") so every word pulls its weight.

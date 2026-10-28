@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, blow me down!' With the truth and conversation at stake, Senya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I left it myself, I don't remember where.' Noting that he left it himself he does not remember keeps Senya's side of the story simple and clear.
-- 'Nastya, where are you?' Over the restaurant and the morning, Kostya presses Nastya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I felt like having a little apple.' Admitting that she felt like having a little apple shows Nastya being honest for a change.
-- 'Let me peel it.' Saying that Nastya should let him peel it is how Kostya sets the tone with Nastya.
-- 'No, go to sleep.' Once Kostya should go to sleep, Nastya can finally tell Kostya what she means.
-- 'They brought him that fugu fish.' Adding that they brought him that fugu fish fills in the missing piece for Kostya.
-- 'He ate it and died.' Senya tells Kostya that he ate it and died without dressing it up.
-- 'Then it turned out to be a stroke.' Since it turned out to be a stroke, Senya does not waste words on excuses.
-- 'But I still won a grand anyway.' Mentioning that he still won a grand anyway moves the talk in a new direction.
-- 'Hand it over!' Senya declares that Kostya should hand it as the tension in the room peaks.
-- 'Nicely done!' Around the morning and work, Kostya makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well, blow me down!' Senya keeps a warm course with Kostya, anchoring the Russian line on "yakor" ("anchor") and "dushu" ("soul, heart") without extra filler.
+- 'I left it myself, I don't remember where.' Senya picks an honest tack in this beat, anchoring the Russian line on "ostavila" ("left") and "pomnyu" ("remember") without extra filler.
+- 'Nastya, where are you?' Kostya questions earnestly to make the point, combining "gde" ("where") and "nastya" ("Nastya") so the key meaning lands right away.
+- 'I felt like having a little apple.' Nastya picks a grounded attitude at once, weaving "yablochko" ("little apple") together with "zakhotelos" ("felt like having") just the way native speakers do.
+- 'Let me peel it.' Kostya holds a calm tempo beside Nastya, leaning on "davay" ("let's") before closing the thought with "pochishchu" ("will peel, clean").
+- 'No, go to sleep.' Nastya maintains an emphatic bearing in the conversation, putting "idi" ("go") alongside "spat" ("sleep") in a tight, everyday turn of phrase.
+- 'They brought him that fugu fish.' Senya takes a direct mood with Kostya, building the phrase around "prinesli" ("brought") and "rybu" ("fish") for a crisp, natural delivery.
+- 'He ate it and died.' Senya conveys an earnest tempo at this moment, building the phrase around "syel" ("ate") and "pomer" ("died") for a crisp, natural delivery.
+- 'Then it turned out to be a stroke.' Senya strikes a grounded bearing in front of Kostya, building the phrase around "potom" ("then") and "okazalsya" ("turned up") for a crisp, natural delivery.
+- 'But I still won a grand anyway.' Senya sets a clear line across the room, anchoring the Russian line on "shtuku" ("a grand, thing") and "ravno" ("the same") without extra filler.
+- 'Hand it over!' Senya strikes a steady approach toward Kostya, leaning on "otday" ("give back") as a compact, one-word response that needs no extra words.
+- 'Nicely done!' Kostya strikes a thoughtful bearing beside Senya, using "krasivo" ("beautifully") by itself, a common way spoken Russian keeps fast dialogue punchy.

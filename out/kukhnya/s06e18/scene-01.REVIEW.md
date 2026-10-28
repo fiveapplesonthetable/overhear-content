@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'His condition is stable but serious.' Even though his condition is stable but serious, the doctor keeps a steady face in front of Eleonora.
-- 'Thank goodness, this is treatable now.' Here telling Eleonora to thank goodness this is treatable now sets up the next turn in their exchange.
-- 'An urgent operation in Germany is needed.' Saying that an urgent operation in Germany is needed is how the doctor sets the tone with Eleonora.
-- 'By estimates this costs a lot.' Once by estimates this costs a lot, the doctor can finally tell Eleonora what he means.
-- 'I do not have that kind of money.' Adding that she does not have that kind of money fills in the missing piece for the doctor. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Money is not a problem, right, Mom?' Wondering if money is not a problem right Mom shows Katya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Actually, it is a big problem.' Since it is a big problem, Eleonora does not waste words on excuses.
-- 'But after all, he is my father.' Mentioning that after all he is her father moves the talk in a new direction.
-- 'I built a hotel in Saint Petersburg.' Between the point and the friend, Eleonora gives the doctor a quick, grounded response.
-- 'I took out a big loan against collateral.' Because she took out a big loan against collateral, Eleonora treats the matter as settled.
-- 'I can sell my apartment.' Explaining that she can sell her apartment lays the cards on the table for the doctor.
-- 'There is no need to sell anything right now.' Eleonora reminds the doctor that there is no need to sell anything right now before the moment passes. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'His condition is stable but serious.' The doctor shows a serious tempo in the scene, pairing "sostoyaniye" ("state") with "stabilno" ("stably") to get the point across in plain spoken Russian.
+- 'Thank goodness, this is treatable now.' The doctor shows a clear posture straight away, joining "slava" ("glory") to "bogu" ("to God") so every word pulls its weight.
+- 'An urgent operation in Germany is needed.' The doctor sets a calm tack as they talk, joining "nuzhna" ("needed") to "srochnaya" ("urgent") so every word pulls its weight.
+- 'By estimates this costs a lot.' The doctor shares a firm tack on the spot, anchoring the Russian line on "podschyotam" ("calculations") and "stoit" ("is parked") without extra filler.
+- 'I do not have that kind of money.' Katya opens up pointedly as they speak, using the everyday "u menya" ("by me") alongside "deneg" ("money") to show what belongs to the speaker.
+- 'Money is not a problem, right, Mom?' Katya queries earnestly as the talk turns, anchoring the Russian line on "dengi" ("money") and "problema" ("problem") without extra filler.
+- 'Actually, it is a big problem.' Eleonora strikes a wry tack in front of the doctor, weaving "voobshche-to" ("actually") together with "bolshaya" ("large") just the way native speakers do.
+- 'But after all, he is my father.' Katya conveys an earnest tempo in front of Eleonora, joining "otets" ("father") to "no" ("but") so every word pulls its weight.
+- 'I built a hotel in Saint Petersburg.' Eleonora presents a pointed line without hesitation, anchoring the Russian line on "otel" ("hotel") and "postroila" ("built") without extra filler.
+- 'I took out a big loan against collateral.' Eleonora establishes a resolute direction as the scene unfolds, leaning on "bolshoy" ("big") before closing the thought with "kredit" ("loan, credit").
+- 'I can sell my apartment.' Katya shares a direct posture in front of the doctor, anchoring the Russian line on "mogu" ("can") and "kvartiru" ("flat") without extra filler.
+- 'There is no need to sell anything right now.' Eleonora offers a calm direction as they talk, combining "nado" ("it is necessary") and "seychas" ("now") so the key meaning lands right away.

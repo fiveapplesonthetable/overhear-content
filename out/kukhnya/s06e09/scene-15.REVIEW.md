@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For me this is too energetic a dance.' Noting that for him this is too energetic a dance keeps Denis's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Denis, tell me, what happened to you right now?' Over the shift and the scandal, Elena presses Barinov for a straight answer.
-- 'My sore arm is aching badly again.' Adding that his sore arm is aching badly again fills in the missing piece for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'No, let us better go back to our hotel.' Since they should better go back to their hotel, Denis does not waste words on excuses.
-- 'I still need to pack my things there.' Since he still needs to pack his things there, Denis does not waste words on excuses.
-- 'Yes, of course, then let us go back quickly.' Even though they should go back quickly, Elena keeps a steady face in front of Barinov.
-- 'Lena, forgive me, we were just joking around foolishly.' Barinov reminds Denis that someone forgive him they were just joking around foolishly before the moment passes.
-- 'It happened by accident and sent itself.' Because it happened by accident and sent itself, Barinov treats the matter as settled.
-- 'You know I barely understand computers.' With the work and scandal in play, Barinov keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But nothing terrible happened today after all.' Around the work and scandal, Barinov sets a calm, everyday tone with Denis. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Big deal, some funny article came out.' Claiming that big deal some funny article came out sounds confident, even if Denis has doubts.
-- 'That is your whole real attitude, Vitya!' Once that is Barinov's whole real attitude, Elena makes sure Barinov hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Lena, wait, please listen to me calmly!' Between the work and the scandal, Barinov delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'For me this is too energetic a dance.' Denis sustains an easygoing posture beside Barinov, anchoring the Russian line on "slishkom" ("too") and "energichnyy" ("energetic") without extra filler.
+- 'Denis, tell me, what happened to you right now?' Elena probes lightly in this moment, combining "skazhi" ("say") and "seychas" ("now") so the key meaning lands right away.
+- 'My sore arm is aching badly again.' Denis holds a firm rhythm in their talk, joining "snova" ("again") to "silno" ("strongly, much") so every word pulls its weight.
+- 'No, let us better go back to our hotel.' Denis brings a brisk angle beside Elena, leaning on "poydyom" ("let's go") before closing the thought with "luchshe" ("better").
+- 'I still need to pack my things there.' Denis picks a playful manner in their talk, building the phrase around "yeshchyo" ("more, still") and "veshchi" ("things") for a crisp, natural delivery.
+- 'Yes, of course, then let us go back quickly.' Elena strikes a calm bearing in the room, weaving "konechno" ("of course") together with "togda" ("back then") just the way native speakers do.
+- 'Lena, forgive me, we were just joking around foolishly.' Barinov favors an unhurried course at once, using "prosti" (from "prostit", "sorry, forgive me") alongside "prosto" ("just") to shape the meaning.
+- 'It happened by accident and sent itself.' Barinov keeps a natural line with Elena, pairing "poluchilos" ("worked out") with "sluchayno" ("by any chance") so the "-sya" ending carries the action.
+- 'You know I barely understand computers.' Barinov sets a grounded view at this moment, pairing "znayesh" ("know") with "plokho" ("badly") to get the point across in plain spoken Russian.
+- 'But nothing terrible happened today after all.' Barinov sustains a measured course right away, putting "strashnogo" ("terrible, serious") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'Big deal, some funny article came out.' Barinov takes an earnest mood at this moment, using "podumayesh" (from "podumat", "big deal, so what") alongside "vyshla" ("married") to shape the meaning.
+- 'That is your whole real attitude, Vitya!' Elena keeps a natural tone across the room, linking "nastoyashcheye" ("real") directly with "otnosheniye" ("attitude, relation"), since Russian drops "is" and "are" in the present.
+- 'Lena, wait, please listen to me calmly!' Barinov favors a pointed view beside Denis, building the phrase around "podozhdi" ("wait") and "vyslushay" ("hear out, listen to") for a crisp, natural delivery.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If Spartak wins, I am buying beer for everyone!' Barinov declares that if Spartak wins he is buying beer for everyone as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'He has been owing me a bottle of whiskey for half a year.' Mikhail mentions that he has been owing him a bottle of whiskey for half a year so Barinov sees what is at stake.
-- 'And I am constantly looking out for your health.' Explaining that he is constantly looking out for Mikhail's health lays the cards on the table for Mikhail.
-- 'Thank you, of course, Vitya, for such concern.' With the plan and bet in play, Mikhail keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But if I were in your place I would not worry.' Realizing that if he were in Barinov's place he would not worry changes how Mikhail handles the situation.
-- 'Let's test that right now!' Proposing that they test that right now shows Mikhail is done holding back.
-- 'Bet you that I will drink three glasses of beer faster?' Asking whether bet Barinov that he will drink three glasses of beer faster puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What are you and I betting on right now?' Wondering what Mikhail and he betting on right now is cuts straight through the tension between Barinov and Mikhail. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If you win, I will give you a case of whiskey.' Saying that if Barinov wins he will give Barinov a case of whiskey is how Mikhail sets the tone with Barinov.
-- 'And if I win, you will hand over the ticket!' Insisting that if he wins Barinov will hand over the ticket shows Mikhail is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fine, but do not touch the other person's glasses with your hands!' Once fine but do not touch the other person glasses with Mikhail's hands, Barinov makes sure Mikhail hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, well then, is everyone ready? Let's go!' Asking whether Alright well then is everyone ready puts Barinov right on the defensive.
+- 'If Spartak wins, I am buying beer for everyone!' Barinov offers a serious line for Mikhail, using "vyigrayet" (from "vyigrat", "will win") alongside "stavlyu" ("put") to shape the meaning.
+- 'He has been owing me a bottle of whiskey for half a year.' Mikhail presents a thoughtful approach for Barinov, leaning on "butylku" ("a bottle") before closing the thought with "viski" ("whisky").
+- 'And I am constantly looking out for your health.' Barinov establishes a brisk bearing at once, putting "zdorovye" ("health") alongside "postoyanno" ("constantly") in a tight, everyday turn of phrase.
+- 'Thank you, of course, Vitya, for such concern.' Mikhail conveys an unhurried approach with Barinov, anchoring the Russian line on "spasibo" ("thank you") and "konechno" ("of course") without extra filler.
+- 'But if I were in your place I would not worry.' Mikhail strikes a frank direction in their talk, weaving "meste" ("place") together with "volnovalsya" ("worried") just the way native speakers do.
+- 'Let's test that right now!' Mikhail maintains a lively stance as the scene unfolds, combining "davay" ("let's") and "pryamo" ("right, just") so the key meaning lands right away.
+- 'Bet you that I will drink three glasses of beer faster?' Mikhail wonders evenly as the talk turns, building the phrase around "sporim" ("wanna bet") and "bystreye" ("faster") for a crisp, natural delivery.
+- 'What are you and I betting on right now?' Barinov presses wryly in their exchange, joining "seychas" ("now") to "sporim" ("wanna bet") so every word pulls its weight.
+- 'If you win, I will give you a case of whiskey.' Mikhail offers an easygoing tempo for Barinov, weaving "vyigrayesh" ("will win") together with "dam" ("will give") just the way native speakers do.
+- 'And if I win, you will hand over the ticket!' Mikhail maintains a warm style for Barinov, combining "vyigrayu" ("will win") and "otdash" ("to give, to hand over") so the key meaning lands right away.
+- 'Fine, but do not touch the other person's glasses with your hands!' Barinov offers a sharp tone straight away, building the phrase around "khorosho" ("good, fine") and "chuzhiye" ("someone else's") for a crisp, natural delivery.
+- 'Alright, well then, is everyone ready? Let's go!' Mikhail queries quietly without hesitation, pairing "gotovy" ("ready") with "poyekhali" ("here we go") to get the point across in plain spoken Russian.

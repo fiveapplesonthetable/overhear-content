@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, I cannot take them right now.' Once she cannot take them right now, Vika can finally tell Barinov what she means.
-- 'Forgive me, but for now I cannot.' Admitting that for now she cannot shows Vika being honest for a change.
-- 'Hello, friends, meet Sveta.' With the work and date in play, Barinov keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hello, very nice to meet you, I am Victoria.' Once very nice to meet Barinov she is Victoria, Vika can finally tell Barinov what she means.
-- 'I am an actor, so everyone recognizes me.' Barinov explains that he is an actor so everyone recognizes him, keeping his voice calm and direct.
-- 'Let us drink to our acquaintance!' Barinov declares that they should drink to their acquaintance as the tension in the room peaks. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hi, Katya, these flowers are for you.' Since these flowers are for Barinov, Lyova does not waste words on excuses.
-- 'Thank you, that is very sweet, Lyova.' Mentioning that that is very sweet moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'There is no need to say anything, I know everything.' Noting that there is no need to say anything he knows everything keeps Lyova's side of the story simple and clear. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Wait, what exactly do you know?' Questioning whether what exactly do Barinov knows is how Vika tests Barinov's story.
-- 'I know the whole truth about France.' Lyova tells Barinov that he knows the whole truth about France without dressing it up.
-- 'What truth about France?' With the moment and table hanging in the air, Vika puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Dima, I cannot take them right now.' Vika projects a playful rhythm in the room, joining "mogu" ("can") to "vzyat" ("to take") so every word pulls its weight.
+- 'Forgive me, but for now I cannot.' Vika maintains a firm line as the scene unfolds, pairing "izvini" ("sorry, excuse me") with "poka" ("bye") to get the point across in plain spoken Russian.
+- 'Hello, friends, meet Sveta.' Barinov presents a pointed attitude in the room, anchoring the Russian line on "zdravstvuyte" ("hello") and "druzya" ("friends") without extra filler.
+- 'Hello, very nice to meet you, I am Victoria.' Vika maintains a pointed mood during the exchange, combining "zdravstvuyte" ("hello") and "ochen" ("very much") so the key meaning lands right away.
+- 'I am an actor, so everyone recognizes me.' Barinov sets a measured approach in front of Lyova, linking "aktyor" ("actor"), "poetomu" ("that's why"), and "uznayut" ("find out") in one brisk exchange.
+- 'Let us drink to our acquaintance!' Barinov sets a pointed tempo beside Vika, combining the polite invitation "davayte" ("let us") with "vypyem" ("will drink") to give the line its natural spoken rhythm.
+- 'Hi, Katya, these flowers are for you.' Lyova displays a grounded footing at this moment, weaving "tsvety" ("the flowers") together with "privet" ("hi") just the way native speakers do.
+- 'Thank you, that is very sweet, Lyova.' Vika sets a serious position in the conversation, leaning on "spasibo" ("thank you") before closing the thought with "ochen" ("very much").
+- 'There is no need to say anything, I know everything.' Lyova favors a natural style in the room, linking "nado" ("it is necessary"), "govorit" ("to talk"), and "znayu" ("know") in one brisk exchange.
+- 'Wait, what exactly do you know?' Vika presses naturally beside Lyova, building the phrase around "podozhdi" ("wait") and "znayesh" ("know") for a crisp, natural delivery.
+- 'I know the whole truth about France.' Lyova takes an unhurried view as they talk, joining "znayu" ("know") to "pravdu" ("truth") so every word pulls its weight.
+- 'What truth about France?' Vika tests candidly without holding back, putting "yeshchyo" ("more, still") alongside "pravdu" ("truth") in a tight, everyday turn of phrase.

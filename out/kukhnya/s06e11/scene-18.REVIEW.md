@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, have you not signed any papers yet?' Asking whether the guest not signed any papers yet cuts straight through the tension between Barinov and the guest. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You cannot do business with my brother.' Claiming that the guest cannot do business with his brother sounds confident, even if the guest has doubts.
-- 'It is a lost cause, all his plans end in failure.' Explaining that it is a lost cause all his plans end in failure lays the cards on the table for the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Actually, your brother has a chain of oyster farms in America.' The guest mentions that Barinov's brother has a chain of oyster farms in America so Barinov sees what is at stake.
-- 'Oh really, and then I have big vineyards!' Once really and then he has big vineyards, Barinov makes sure the guest hears every word.
-- 'I am speaking seriously, we have been cooperating for a year and a half already.' Being speaking seriously they have been cooperating for a year and a half already moves the conversation forward without extra drama.
-- 'Valya, why did you tell me nothing about this?' Here asking why the guest tells him nothing about this shows Barinov looking for the real truth. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I tried this morning, but you did not listen to me.' Admitting that he tried this morning but Barinov did not listen to him shows Mikhail being honest for a change.
-- 'Good evening, excuse me, your door was unlocked.' Saying that Barinov's door was unlocked is how the guest sets the tone with Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Oh, you drove me from the airport this morning!' Because Barinov drove him from the airport this morning, Mikhail does not bother softening the blow for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, this morning you forgot your suitcase in my car.' Adding that this morning Barinov forgot Barinov's suitcase in his car fills in the missing piece for Barinov.
-- 'Thank you, it is nice to know that such honest people remain!' Once it is nice to know that such honest people remain, Mikhail makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Wait, have you not signed any papers yet?' Barinov wonders evenly in the room, pairing "podozhdite" ("wait") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'You cannot do business with my brother.' Barinov strikes a clear tempo beside Mikhail, combining "rodnym" ("native, own") and "bratom" ("brother, cousin") so the key meaning lands right away.
+- 'It is a lost cause, all his plans end in failure.' Barinov takes a thoughtful view as the scene unfolds, leaning on "pustoye" ("empty") before closing the thought with "delo" ("matter").
+- 'Actually, your brother has a chain of oyster farms in America.' The guest strikes a clear tone as the scene unfolds, building the phrase around "voobshche-to" ("actually") and "brata" ("of the brother") for a crisp, natural delivery.
+- 'Oh really, and then I have big vineyards!' Barinov keeps an easygoing footing in their talk, joining "togda" ("back then") to "bolshiye" ("big, serious") so every word pulls its weight.
+- 'I am speaking seriously, we have been cooperating for a year and a half already.' The guest takes a measured footing as they talk, joining "govoryu" ("am telling") to "seryozno" ("seriously") so every word pulls its weight.
+- 'Valya, why did you tell me nothing about this?' Barinov inquires bluntly to keep things clear, pairing "pochemu" ("why") with "govoril" ("said, were saying") to get the point across in plain spoken Russian.
+- 'I tried this morning, but you did not listen to me.' Mikhail brings a measured style in the scene, putting "utrom" ("this morning") alongside "pytalsya" ("tried") in a tight, everyday turn of phrase.
+- 'Good evening, excuse me, your door was unlocked.' The guest holds an honest approach as the scene unfolds, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
+- 'Oh, you drove me from the airport this morning!' Mikhail shows a thoughtful line as the scene unfolds, joining "segodnya" ("today") to "utrom" ("this morning") so every word pulls its weight.
+- 'Yes, this morning you forgot your suitcase in my car.' The guest establishes a pointed rhythm for Barinov, building the phrase around "utrom" ("this morning") and "chemodan" ("suitcase, luggage bag") for a crisp, natural delivery.
+- 'Thank you, it is nice to know that such honest people remain!' Mikhail shares a wry attitude at this moment, pairing "spasibo" ("thank you") with "priyatno" ("pleasant") to get the point across in plain spoken Russian.

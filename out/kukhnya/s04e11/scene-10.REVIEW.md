@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, what are you doing here?' With the morning and plan hanging in the air, Lyova puts Barinov on the spot.
-- 'A fine aroma, isn't it?' When Barinov asks if a fine aroma is not it, Lyova has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'But the restaurant dining room is on the other side!' Lyova insists that the restaurant dining room is on the other side, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What are you doing all this for?' By asking what Barinov doing all this is, Lyova presses Barinov for a straight answer.
-- 'Relax, Lyova, everything is great.' Claiming that Lyova should relax Lyova everything is great sounds confident, even if Lyova has doubts.
-- 'It is a real French restaurant, after all.' Since it is a real French restaurant after all, Barinov does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am creating the atmosphere of France for them.' Being creating the atmosphere of France for them is how Barinov lays out the situation for Lyova.
-- 'Choose an ironic tone in conversation.' Choosing an ironic tone in conversation is how Lyova lays out the situation for Barinov.
-- 'Chef, you are behaving like a child.' Because Barinov is behaving like a child, Lyova treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well, and what will you do next?' Wondering what Barinov does next will is how Lyova puts Barinov on the spot.
-- 'I do not know myself yet.' Because he does not know himself yet, Barinov treats the matter as settled.
-- 'Maybe you will release cockroaches in there too?' When Lyova asks if maybe Barinov will release cockroaches in there, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lyova, you got so much smarter with that moustache!' Because Lyova got so much smarter with that moustache, Barinov does not bother softening the blow for Lyova.
-- 'That is simply a brilliant idea!' Insisting that that is simply a brilliant idea shows Barinov is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Chef, what are you doing here?' Lyova prompts sharply with Barinov now, anchoring the Russian line on "tut" ("here") and "delayete" ("are doing") without extra filler.
+- 'A fine aroma, isn't it?' Barinov presses dryly in the scene, building the phrase around "khoroshiy" ("good") and "zapakh" ("the smell") for a crisp, natural delivery.
+- 'But the restaurant dining room is on the other side!' Lyova shares a brisk posture at this moment, putting "tam" ("there") alongside "zal" ("hall") in a tight, everyday turn of phrase.
+- 'What are you doing all this for?' Lyova checks frankly in the room, linking "zachem" ("what for"), "delayete" ("are doing"), and "vy" ("you") in one brisk exchange.
+- 'Relax, Lyova, everything is great.' Barinov projects a clear footing straight away, pairing "rasslabsya" ("relax") with "otlichno" ("perfect, great") so the "-sya" ending carries the action.
+- 'It is a real French restaurant, after all.' Barinov strikes a sharp posture for Lyova, putting "nastoyashchiy" ("real, genuine") alongside "frantsuzskiy" ("French") in a tight, everyday turn of phrase.
+- 'I am creating the atmosphere of France for them.' Barinov brings a wry approach in this beat, leaning on "sozdayu" ("to create, cause") before closing the thought with "atmosferu" ("atmosphere").
+- 'Choose an ironic tone in conversation.' Lyova shows a playful posture as the scene unfolds, linking "vyberite" ("to choose, use up"), "ironichnyy" ("ironic"), and "ton" ("tone") in one brisk exchange.
+- 'Chef, you are behaving like a child.' Lyova strikes a steady approach in the conversation, using "vedyote" (from "vesti", "conduct, behave") alongside "kak" ("how") to shape the meaning.
+- 'Well, and what will you do next?' Lyova challenges quietly across the room, weaving "dalshe" ("next, go on") together with "sdelayete" ("will do") just the way native speakers do.
+- 'I do not know myself yet.' Barinov maintains a measured course beside Lyova, joining "poka" ("bye") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'Maybe you will release cockroaches in there too?' Lyova inquires lightly in front of Barinov, combining "mozhet" ("can") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'Lyova, you got so much smarter with that moustache!' Barinov projects a wry rhythm at once, using "usami" (from "usy", "moustache") alongside "poumnel" ("to moustache") to shape the meaning.
+- 'That is simply a brilliant idea!' Barinov conveys a candid note without hesitation, linking "prosto" ("just"), "otlichnaya" ("excellent"), and "ideya" ("idea") in one brisk exchange.

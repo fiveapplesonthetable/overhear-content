@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, what was that just now?' Here asking what that just now was shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do you have nothing better to do?' By checking whether Katya has nothing better to do, Barinov presses Katya for a straight answer.
-- 'Why are you stepping ahead of your father?' Asking why Katya stepping ahead of Katya's father is cuts straight through the tension between Barinov and Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You yourself refused right away.' With the masterclass and conversation in play, Katya keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You could have said thank you too.' Mentioning that Barinov could have said thank Barinov moves the talk in a new direction.
-- 'I saved you from tomorrow.' Over the masterclass and the conversation, Katya answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Let us be together, I am ready to change.' Being together he is ready to change is how Kostya lays out the situation for Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'And she kicked me out right away.' With the masterclass and kitchen in play, Kostya keeps this short reply brisk and direct.
-- 'Come on, is it the first time?' Wondering if come on is it the first time shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And do you know why she kicked me out?' By checking whether Barinov knows why she kicked him out, Kostya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Because she was waiting for Nagiyev.' Pointing out that because she was waiting for Nagiyev gives Barinov a sobering reality check.
-- 'Which Nagiyev?' With the work and room hanging in the air, Barinov puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Katya, what was that just now?' Barinov inquires lightly to make the point, linking "seychas" ("now"), "bylo" ("was"), and "katya" ("Katya") in one brisk exchange.
+- 'Do you have nothing better to do?' Barinov probes sharply in the room, weaving "bolshe" ("more") together with "delat" ("do") just the way native speakers do.
+- 'Why are you stepping ahead of your father?' Barinov probes honestly as the talk turns, weaving "kuda" ("where to") together with "lezesh" ("climb, butt in") just the way native speakers do.
+- 'You yourself refused right away.' Katya adopts a serious view at this moment, anchoring the Russian line on "srazu" ("at once") and "otkazalsya" ("refused") without extra filler.
+- 'You could have said thank you too.' Katya shows a clear attitude straight away, using "mog" (from "moch", "can, to be able") alongside "skazat" ("tell") to shape the meaning.
+- 'I saved you from tomorrow.' Katya conveys an easygoing direction at this moment, using "spasla" (from "spasti", "saved") alongside "zavtrashnego" ("tomorrow's") to shape the meaning.
+- 'Let us be together, I am ready to change.' Kostya favors a direct posture in their talk, joining "davay" ("let's") to "budem" ("will") so every word pulls its weight.
+- 'And she kicked me out right away.' Kostya shares a brisk course as the scene unfolds, leaning on "srazu" ("at once") before closing the thought with "vygnala" ("kicked out").
+- 'Come on, is it the first time?' Barinov presses promptly beside Katya, linking "pervyy" ("first") directly with "raz" ("time, once"), since Russian drops "is" and "are" in the present.
+- 'And do you know why she kicked me out?' Kostya inquires earnestly right away, leaning on "znayesh" ("know") before closing the thought with "pochemu" ("why").
+- 'Because she was waiting for Nagiyev.' Kostya conveys a wry course during the exchange, combining "potomu" ("because") and "zhdala" ("to wait, to expect") so the key meaning lands right away.
+- 'Which Nagiyev?' Barinov checks frankly on the spot, joining "yeshchyo" ("more, still") to "kakogo" ("what") so every word pulls its weight.

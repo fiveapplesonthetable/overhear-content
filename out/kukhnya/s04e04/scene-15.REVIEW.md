@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you not forget the salt?' Here checking whether Barinov not forget the salt shows Elena looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I did not forget anything at all.' Explaining that he did not forget anything at all lays the cards on the table for Elena.
-- 'Why are you controlling everything in here?' Wondering why Elena controlling everything in here is cuts straight through the tension between Barinov and Elena. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You have been following me around all day.' Realizing that Elena has been following him around all day changes how Barinov handles the situation.
-- 'Do you have nothing else to do?' Here asking whether Elena has nothing else to do shows Barinov looking for the real truth.
-- 'Go to a beauty salon, do something for yourself.' Going to a beauty salon do something for themselves is how Barinov lays out the situation for Elena.
-- 'Sorry, I got carried away...' Admitting that he got carried away shows Barinov being honest for a change.
-- 'Would you care for a massage as well?' Checking whether Barinov cares for a massage as well is how German puts Barinov on the spot.
-- 'From this moment on, report to vegetable prep.' Around the room and point, German sets a calm, everyday tone with Barinov.
-- 'Go peel potatoes.' Once Barinov should go peel potatoes, German can finally tell Barinov what he means.
-- 'Alright, Viktor Petrovich.' With the room and plan in play, Elena keeps this short reply brisk and direct.
-- 'Get to work.' Claiming that Barinov should get to work sounds confident, even if Barinov has doubts.
+- 'Did you not forget the salt?' Elena challenges briskly in their exchange, joining "sol" ("salt") to "zabyl" ("forgot") so every word pulls its weight.
+- 'I did not forget anything at all.' Barinov establishes a firm approach right away, weaving "zabyl" ("forgot") together with "da" ("yes") just the way native speakers do.
+- 'Why are you controlling everything in here?' Barinov prompts frankly without holding back, building the phrase around "kontroliruyesh" ("to control") and "tut" ("here") for a crisp, natural delivery.
+- 'You have been following me around all day.' Barinov shows a natural mood across the room, weaving "khodish" ("can walk, are walking") together with "den" ("day") just the way native speakers do.
+- 'Do you have nothing else to do?' Barinov challenges candidly in the scene, leaning on "bolshe" ("more") before closing the thought with "zanyatsya" ("to attend to").
+- 'Go to a beauty salon, do something for yourself.' Barinov keeps a resolute note without hesitation, joining "poydi" ("let's go") to "salon" ("salon") so every word pulls its weight.
+- 'Sorry, I got carried away...' Barinov adopts an honest tone as they talk, leaning on "izvini" ("sorry, excuse me") before closing the thought with "chto-to" ("somehow").
+- 'Would you care for a massage as well?' German wonders naturally from the start, anchoring the Russian line on "massazh" ("a massage") and "zhelayete" ("would you like") without extra filler.
+- 'From this moment on, report to vegetable prep.' German chooses a thoughtful position on the spot, anchoring the Russian line on "momenta" ("moment") and "otpravlyaytes" ("prep") without extra filler.
+- 'Go peel potatoes.' German chooses a calm direction at this moment, pairing "chistite" ("to peel, clean") with "kartoshku" ("potatoes") to get the point across in plain spoken Russian.
+- 'Alright, Viktor Petrovich.' Elena shows an unhurried approach at once, putting "khorosho" ("good, fine") alongside "viktor" ("Viktor") in a tight, everyday turn of phrase.
+- 'Get to work.' German favors a calm course in this beat, weaving "rabotu" ("job") together with "za" ("for") just the way native speakers do.

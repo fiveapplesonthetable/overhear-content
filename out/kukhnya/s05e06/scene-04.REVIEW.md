@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand where such a desire to start a family comes from.' Wondering if she does not understand where such a desire to start a family comes shows Vika caught off guard.
-- 'How long can one wake up in a cold bed?' Wondering if how long can one wake up in a cold bed shows Kostya caught off guard. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Could this bald guy be the happy father?' Asking whether this bald guy be the happy father is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nagiyev? His wedding is in a month at our restaurant.' When Kostya asks if his wedding is in a month at their restaurant, Max has to answer fast.
-- 'Well done, Victoria thought everything through.' Pointing out that done Victoria thought everything gives Kostya a sobering reality check.
-- 'From one marriage into another without a pause.' Over the family and the truth, Max answers Kostya without a second thought.
-- 'Max, do not talk nonsense.' Realizing that do not talk nonsense changes how Kostya handles the situation.
-- 'Right now we will check whether I am talking nonsense or not.' Adding that right now they will check whether he is talking nonsense or not fills in the missing piece for Kostya.
-- 'Will you say who the father is yourself, or should I?' By asking whether Kostya says who the father is themselves or should he, Max presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Max, back off, the subject is closed.' Admitting that back off the subject is closed shows Vika being honest for a change.
-- 'Is it Nagiyev? Tell me, is it him or not?' Asking whether it Nagiyev cuts straight through the tension between Max and Kostya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Even if it is him, then what?' Wondering if even if it is him then shows Vika caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'I do not understand where such a desire to start a family comes from.' Vika probes evenly across the room, building the phrase around "ponimayu" ("understand") and "otkuda" ("where from") for a crisp, natural delivery.
+- 'How long can one wake up in a cold bed?' Kostya inquires quietly during the talk, combining "skolko" ("how much, so much") and "mozhno" ("may, can") so the key meaning lands right away.
+- 'Could this bald guy be the happy father?' Max probes candidly without hesitation, pairing "lysyy" ("bald") with "schastlivyy" ("lucky") to get the point across in plain spoken Russian.
+- 'Nagiyev? His wedding is in a month at our restaurant.' Kostya queries sharply beside Vika, linking "svadba" ("wedding"), "mesyats" ("month"), and "restorane" ("restaurant") in one brisk exchange.
+- 'Well done, Victoria thought everything through.' Max sets a frank tempo toward Kostya, putting "molodets" ("well done, good boy") alongside "produmala" ("thought through") in a tight, everyday turn of phrase.
+- 'From one marriage into another without a pause.' Max conveys a calm rhythm straight away, combining "braka" ("marriage") and "drugoy" ("other") so the key meaning lands right away.
+- 'Max, do not talk nonsense.' Kostya conveys a firm footing in their talk, using "goni" (from "gnat", "chase away") alongside "maks" ("Max") to shape the meaning.
+- 'Right now we will check whether I am talking nonsense or not.' Max sustains a sharp style without hesitation, building the phrase around "seychas" ("now") and "proverim" ("we will check") for a crisp, natural delivery.
+- 'Will you say who the father is yourself, or should I?' Max prompts frankly in the scene, pairing "otets" ("father") with "skazhesh" ("will you say") so the "-sya" ending carries the action.
+- 'Max, back off, the subject is closed.' Vika sets an unhurried posture in the scene, anchoring the Russian line on "otstan" ("leave alone") and "tema" ("tyoma") without extra filler.
+- 'Is it Nagiyev? Tell me, is it him or not?' Max wonders honestly on the spot, anchoring the Russian line on "skazhi" ("say") and "eto" ("this") without extra filler.
+- 'Even if it is him, then what?' Vika tests honestly from the start, anchoring the Russian line on "dazhe" ("even") and "yesli" ("if") without extra filler.

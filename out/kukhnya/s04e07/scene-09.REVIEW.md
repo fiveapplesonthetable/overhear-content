@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What, have you decided to make a clown out of me?' Wondering if what have German decided to make a clown out of him shows Barinov caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'The guests came here to eat my food specifically!' Saying that the guests came here to eat his food specifically is how Barinov takes charge of the moment.
-- 'They will realize in a second that I was not the one who cooked it.' Saying that they will realize in a second that he was not the one who cooked it is how Barinov sets the tone with German.
-- 'Well then, German, are you ready to make a bet?' Checking whether German ready to make a bet cuts straight through the tension between Barinov and German. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'German, I beg you, do not make a bet with him!' By begging Barinov does not make a bet with him, Nagiyev raises the stakes in the room at once.
-- 'No, why not, I am doing this consciously.' German tells Barinov that why not he is doing this consciously without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I know all your old culinary secrets.' Mentioning that he knows all Barinov's old culinary secrets moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Or are you afraid of losing this bet to me?' Asking whether Barinov afraid of losing this bet to him cuts straight through the tension between German and Barinov.
-- 'Fine, I bet you right now!' Saying that fine he bets German right now is how Barinov takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If the guests realize that I did not cook it...' Because if the guests realize that he did not cook it, Barinov treats the matter as settled.
-- 'Today you will carry out all my orders!' Because today German will carry out all his orders, Barinov does not bother softening the blow for German.
-- 'Deal, and if not, then you are the one who obeys!' Once Barinov should deal and if not then Barinov is the one who obeys, German makes sure Barinov hears every word. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'What, have you decided to make a clown out of me?' Barinov checks evenly to German here, using "reshili" (from "reshit", "decided") alongside "sdelat" ("to do") to shape the meaning.
+- 'The guests came here to eat my food specifically!' Barinov presents a brisk style straight away, anchoring the Russian line on "gosti" ("visitors, guests") and "prishli" ("have come") without extra filler.
+- 'They will realize in a second that I was not the one who cooked it.' Barinov presents an easygoing style in their talk, anchoring the Russian line on "sekundu" ("second") and "poymut" ("will realise") without extra filler.
+- 'Well then, German, are you ready to make a bet?' Barinov asks pointedly as they speak, weaving "gotovy" ("ready") together with "posporit" ("to argue") just the way native speakers do.
+- 'German, I beg you, do not make a bet with him!' Nagiyev takes a warm bearing during the exchange, joining "umolyayu" ("I beg") to "nado" ("it is necessary") so every word pulls its weight.
+- 'No, why not, I am doing this consciously.' German keeps a grounded footing with Nagiyev, combining "pochemu" ("why") and "delayu" ("I make") so the key meaning lands right away.
+- 'I know all your old culinary secrets.' German displays a thoughtful bearing during the exchange, putting "znayu" ("know") alongside "staryye" ("old") in a tight, everyday turn of phrase.
+- 'Or are you afraid of losing this bet to me?' German checks warmly as the beat lands, anchoring the Russian line on "boites" ("are afraid") and "proigrat" ("lose") without extra filler.
+- 'Fine, I bet you right now!' Barinov keeps an emphatic tone beside German, linking "khorosho" ("good, fine"), "sporim" ("wanna bet"), and "pryamo" ("right, just") in one brisk exchange.
+- 'If the guests realize that I did not cook it...' Barinov takes a clear course in this beat, using "gosti" (from "gost", "visitors, guests") alongside "poymut" ("will realise") to shape the meaning.
+- 'Today you will carry out all my orders!' Barinov sets a brisk direction right away, pairing "segodnya" ("today") with "budesh" ("will") to get the point across in plain spoken Russian.
+- 'Deal, and if not, then you are the one who obeys!' German maintains a measured posture in their talk, anchoring the Russian line on "goditsya" ("suits, works") and "podchinyayetes" ("to obey, to submit to") without extra filler.

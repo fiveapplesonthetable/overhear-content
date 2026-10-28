@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Son, why did you come home so early?' Wondering if son why did Kostya comes home so early shows the guest caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Close the door slightly, otherwise it is awkward for us.' Closing the door slightly otherwise it is awkward for them is how the guest lays out the situation for Kostya.
-- 'You work together at the hotel after all.' The guest explains that Kostya works together at the hotel after all, keeping his voice calm and direct. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Hello, Kostya, where is your dad?' Here asking where the guest's dad is shows Nastya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dad decided to take a warm bath.' Noting that dad decided to take a warm bath keeps Kostya's side of the story simple and clear.
-- 'Meet her, this is Mom's good friend Yevgeniya.' Claiming that the guest should meet her this is Mom good friend Yevgeniya sounds confident, even if the guest has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Hello, we are also very pleased to meet you right now.' Admitting that they are also very pleased to meet the guest right now shows Kostya being honest for a change.
-- 'And this is my new friend Anzhelika.' Noting that this is his new friend Anzhelika keeps the guest's side of the story simple and clear.
-- 'Maybe we can drink some tea together?' Asking whether maybe they can drink some tea together puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Look, I bought some fresh bagels here.' Adding that he bought some fresh bagels here fills in the missing piece for Kostya.
-- 'Excuse me, but I will probably go now.' Saying that she will probably go now is how Nastya sets the tone with the guest.
-- 'Wait, I will walk you to the door.' Since he will walk Kostya to the door, the guest does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Son, why did you come home so early?' The guest prompts directly in the scene, combining "synok" ("son") and "pochemu" ("why") so the key meaning lands right away.
+- 'Close the door slightly, otherwise it is awkward for us.' The guest picks a measured position across the room, putting "prikroy" ("please") alongside "dver" ("door") in a tight, everyday turn of phrase.
+- 'You work together at the hotel after all.' The guest holds an earnest bearing on the spot, building the phrase around "vmeste" ("together") and "otele" ("in the hotel") for a crisp, natural delivery.
+- 'Hello, Kostya, where is your dad?' Nastya quizzes calmly beside Kostya, joining "zdravstvuyte" ("hello") to "gde" ("where") so every word pulls its weight.
+- 'Dad decided to take a warm bath.' Kostya displays an earnest angle as they talk, joining "papa" ("Dad") to "reshil" ("has decided") so every word pulls its weight.
+- 'Meet her, this is Mom's good friend Yevgeniya.' Nastya chooses an easygoing manner with Kostya, linking "poznakomtes" ("get acquainted"), "mamina" ("Mom's"), and "khoroshaya" ("good") in one brisk exchange.
+- 'Hello, we are also very pleased to meet you right now.' Kostya conveys a firm bearing right away, weaving "zdravstvuyte" ("hello") together with "tozhe" ("too") just the way native speakers do.
+- 'And this is my new friend Anzhelika.' The guest favors a sharp attitude in the conversation, using "novaya" (from "novyy", "new") alongside "podruga" ("female friend") to shape the meaning.
+- 'Maybe we can drink some tea together?' The guest checks openly as the beat lands, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
+- 'Look, I bought some fresh bagels here.' The guest favors a serious bearing without hesitation, building the phrase around "smotrite" ("look") and "tut" ("here") for a crisp, natural delivery.
+- 'Excuse me, but I will probably go now.' Nastya chooses a pointed bearing at this moment, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "navernoye" ("probably").
+- 'Wait, I will walk you to the door.' The guest picks an honest tack at once, leaning on "podozhdite" ("wait") before closing the thought with "dveri" ("door").

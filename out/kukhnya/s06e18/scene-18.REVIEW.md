@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I see that the horse is not purebred.' By seeing that the horse is not purebred, Kostya keeps his side of the story grounded.
-- 'His dad is of one breed.' Admitting that his dad is of one breed shows Kostya being honest for a change.
-- 'Katyusha, may I come in to see you?' Questioning whether someone may she comes in to see Katya is how Elena tests Katya's story. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'You did not have any money, though.' Once Elena did not have any money though, Katya can finally tell Elena what she means. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Gifts from Nagiyev remained with me.' With the kitchen and money in play, Elena keeps this short reply brisk and direct.
-- 'One ex-husband helped another.' Elena tells Katya that one ex husband helped another without dressing it up.
-- 'Thank you very much for the help.' With the shift and team in play, Katya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, I did not come alone.' Adding that she did not come alone fills in the missing piece for Katya.
-- 'We chipped in here as a whole team.' Around the shift and team, Kostya sets a calm, everyday tone with Elena.
-- 'Everyone gave as much as they could.' Because everyone gave as much as they could, Kostya treats the matter as settled.
-- 'It did not come out to very much.' Explaining that it did not come out to very much lays the cards on the table for Elena.
-- 'Everyone simply wanted very much to help.' Kostya mentions that everyone simply wanted very much to help so Elena sees what is at stake.
+- 'I see that the horse is not purebred.' Kostya projects a pointed footing in their talk, joining "vizhu" ("see") to "kon" ("knight, horse") so every word pulls its weight.
+- 'His dad is of one breed.' Kostya holds a frank course straight away, leaning on "papa" ("Dad") before closing the thought with "porody" ("breed").
+- 'Katyusha, may I come in to see you?' Elena probes quietly as the beat lands, linking "katyusha" ("eat"), "mozhno" ("may, can"), and "voyti" ("to come in") in one brisk exchange.
+- 'You did not have any money, though.' Katya sets an easygoing angle with Kostya, anchoring the Russian line on "bylo" ("was") and "deneg" ("money") without extra filler.
+- 'Gifts from Nagiyev remained with me.' Elena strikes a sharp approach as the scene unfolds, pairing "ostalis" ("stayed, were left") with "podarki" ("presents") so the "-sya" ending carries the action.
+- 'One ex-husband helped another.' Elena adopts a lively bearing as the scene unfolds, building the phrase around "byvshiy" ("ex") and "muzh" ("husband") for a crisp, natural delivery.
+- 'Thank you very much for the help.' Katya strikes a lively approach on the spot, building the phrase around "spasibo" ("thank you") and "bolshoye" ("big, very much") for a crisp, natural delivery.
+- 'Wait, I did not come alone.' Elena chooses a resolute approach as the scene unfolds, leaning on "podozhdi" ("wait") before closing the thought with "prishla" ("came").
+- 'We chipped in here as a whole team.' Kostya keeps an emphatic manner across the room, linking "tut" ("here"), "komandoy" ("team"), and "skinulis" ("chipped in") in one brisk exchange.
+- 'Everyone gave as much as they could.' Kostya maintains a firm stance in this beat, linking "kazhdyy" ("every"), "dal" ("to give"), and "skolko" ("how much, so much") in one brisk exchange.
+- 'It did not come out to very much.' Kostya brings a brisk note at once, joining "vyshlo" ("happened, came about") to "ochen" ("very much") so every word pulls its weight.
+- 'Everyone simply wanted very much to help.' Kostya conveys a sharp tone as they talk, leaning on "prosto" ("just") before closing the thought with "ochen" ("very much").

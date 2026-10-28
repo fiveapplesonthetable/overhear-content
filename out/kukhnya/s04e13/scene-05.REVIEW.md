@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One moment, I ask for everyone's attention.' Explaining that one moment he asks for everyone attention lays the cards on the table for Fedya.
-- 'All of you know Ekaterina well.' German mentions that all of Fedya knows well so Fedya sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Today she is on our team again.' Claiming that today she is on their team again sounds confident, even if Fedya has doubts.
-- 'Guys, look who has returned to us!' Fedya declares that who has returned to them as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello everyone, I am very glad too.' Katya explains that everyone she is very glad, keeping her voice calm and direct.
-- 'Louis, get away from me, you naughty man!' Telling Fedya to get away from her Fedya naughty man shows Katya is done holding back.
-- 'Katya, you are simply a beauty today.' Noting that German is simply a beauty today keeps Fedya's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'And who is this new guy?' Here asking who this new guy is shows Katya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And this one here is our newcomer.' Admitting that this one here is their newcomer shows Fedya being honest for a change.
-- 'But he still cooks very poorly.' Saying that he still cooks very poorly is how Fedya sets the tone with German.
-- 'He is on familiar terms with music.' Being on familiar terms with music is how Fedya lays out the situation for German. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But with food he is still a stranger.' Adding that with food he is still a stranger fills in the missing piece for German.
+- 'One moment, I ask for everyone's attention.' German chooses a thoughtful approach with Fedya, putting "minutochku" ("a minute") alongside "proshu" ("beg, ask") in a tight, everyday turn of phrase.
+- 'All of you know Ekaterina well.' German picks a resolute stance in their talk, combining "khorosho" ("good, fine") and "znayete" ("know") so the key meaning lands right away.
+- 'Today she is on our team again.' German adopts a warm manner in the room, weaving "segodnya" ("today") together with "snova" ("again") just the way native speakers do.
+- 'Guys, look who has returned to us!' Fedya keeps a frank direction at this moment, building the phrase around "rebyata" ("the boys, the lads") and "smotrite" ("look") for a crisp, natural delivery.
+- 'Hello everyone, I am very glad too.' Katya displays a serious style without hesitation, placing "tozhe" ("too") straight beside "ochen" ("very much") with no word for "to be" needed.
+- 'Louis, get away from me, you naughty man!' Katya picks a grounded angle for German, combining "uydi" ("go away, step inside") and "protivnyy" ("man") so the key meaning lands right away.
+- 'Katya, you are simply a beauty today.' Fedya takes a steady line beside German, placing "segodnya" ("today") straight beside "prosto" ("just") with no word for "to be" needed.
+- 'And who is this new guy?' Katya checks steadily in the scene, joining "novyy" ("new") to "paren" ("boyfriend") so every word pulls its weight.
+- 'And this one here is our newcomer.' Fedya sustains a candid tack for German, joining "novenkiy" ("newcomer") to "vot" ("there, here") so every word pulls its weight.
+- 'But he still cooks very poorly.' Fedya establishes a serious direction in the room, building the phrase around "gotovit" ("cooks") and "poka" ("bye") for a crisp, natural delivery.
+- 'He is on familiar terms with music.' Fedya conveys a brisk direction in front of German, linking "muzykoy" ("music"), "davno" ("for a long time"), and "on" ("he") in one brisk exchange.
+- 'But with food he is still a stranger.' Fedya picks an unhurried tempo in their talk, using "yedoy" (from "yeda", "food") alongside "poka" ("bye") to shape the meaning.

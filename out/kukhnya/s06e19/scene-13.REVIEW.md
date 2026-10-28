@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you meddling in my kitchen?' Wondering why Barinov meddling in his kitchen is is how the guest puts Barinov on the spot.
-- 'Because this is my restaurant.' Barinov explains that because this is his restaurant, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And today is my daughter's wedding.' Realizing that today is his daughter wedding changes how Barinov handles the situation.
-- 'I will supervise every dish.' Noting that he will supervise every dish keeps Barinov's side of the story simple and clear.
-- 'Clear enough, then supervise it here yourself.' Around the team and conversation, the guest sets a calm, everyday tone with Barinov.
-- 'Keep supervising, respected maestro!' Keeping supervising respected maestro is the guest's blunt reaction in front of Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Check the plating of every dish yourself!' Once Barinov should check the plating of every dish themselves, the guest makes sure Barinov hears every word.
-- 'What on earth are you doing in here?' Around the moment and wedding, the guest wants to know where Barinov really stands. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Have you all lost your minds?' Checking whether Barinov all lost Barinov's minds is how the guest puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You have a real circus in here!' Declaring that Barinov has a real circus in here brings the guest's temper right to the surface.
-- 'Welcome to this kitchen.' With the moment and team in play, the guest keeps this short reply brisk and direct.
-- 'Guys, let us leave quickly, follow me!' Here leaving quickly follow him together lets the guest's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Why are you meddling in my kitchen?' The guest presses honestly to make the point, leaning on "pochemu" ("why") before closing the thought with "lezete" ("push in, barge in").
+- 'Because this is my restaurant.' Barinov presents a measured line across the room, linking "potomu" ("because"), "restoran" ("restaurant"), and "chto" ("what") in one brisk exchange.
+- 'And today is my daughter's wedding.' Barinov strikes a calm tempo in the conversation, weaving "segodnya" ("today") together with "svadba" ("wedding") just the way native speakers do.
+- 'I will supervise every dish.' Barinov picks an emphatic view at once, anchoring the Russian line on "budu" ("will be") and "kontrolirovat" ("to keep an eye on") without extra filler.
+- 'Clear enough, then supervise it here yourself.' The guest strikes an emphatic tack in their talk, weaving "yasno" ("clear, got it") together with "togda" ("back then") just the way native speakers do.
+- 'Keep supervising, respected maestro!' The guest presents a brisk posture straight away, anchoring the Russian line on "kontroliruyte" ("control, supervise") and "dalshe" ("next, go on") without extra filler.
+- 'Check the plating of every dish yourself!' The guest projects a frank direction with Barinov, weaving "proveryayte" ("check") together with "podachu" ("presentation") just the way native speakers do.
+- 'What on earth are you doing in here?' The guest asks quietly in the scene, leaning on "tut" ("here") before closing the thought with "voobshche" ("at all").
+- 'Have you all lost your minds?' The guest prompts frankly as the talk turns, pairing "uma" ("mind") with "soshli" ("went off") to get the point across in plain spoken Russian.
+- 'You have a real circus in here!' The guest picks an emphatic position with Barinov, anchoring the Russian line on "zdes" ("here") and "nastoyashchiy" ("real, genuine") without extra filler.
+- 'Welcome to this kitchen.' The guest brings a sharp attitude with Barinov, putting "dobro" ("good, kindness") alongside "pozhalovat" ("to welcome") in a tight, everyday turn of phrase.
+- 'Guys, let us leave quickly, follow me!' The guest chooses a lively style in the conversation, weaving "rebyata" ("the boys, the lads") together with "bystro" ("quickly") just the way native speakers do.

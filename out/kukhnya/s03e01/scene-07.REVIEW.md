@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is time to learn to open it yourself.' Saying that it is time to learn to open it themselves is how Kostya sets the tone with Max.
-- 'Listen, I am learning.' Mentioning that he is learning moves the talk in a new direction.
-- 'Only the bills for the training are big.' Adding that only the bills for the training are big fills in the missing piece for Kostya.
-- 'And how are things with Vika for you now?' Asking how things with Vika for Max now are cuts straight through the tension between Kostya and Max.
-- 'I invited her to the cinema forty times.' With the point and phone in play, Max keeps this short reply brisk and direct.
-- 'Five times I said that I cannot live without her.' Mentioning that five times he said that he cannot live moves the talk in a new direction.
-- 'And once I tried to kiss her.' Max reminds Kostya that once he tried to kiss before the moment passes.
-- 'I accidentally overheard a conversation on the phone.' With the truth and phone in play, Kostya keeps this short reply brisk and direct.
-- 'Ah, interesting.' Over the truth and the phone, Max answers Kostya without a second thought.
-- 'I promised that I would find a cook.' Nagiyev mentions that he promised that he would find a cook so Kostya sees what is at stake.
-- 'I did it. Please meet her.' Claiming that he did it sounds confident, even if Kostya has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Yekaterina Semyonova graduated from the academy.' Around the truth and phone, Nagiyev sets a calm, everyday tone with Kostya.
+- 'It is time to learn to open it yourself.' Kostya presents a firm direction in the room, pairing "nauchitsya" ("to learn") with "pora" ("it's time") so the "-sya" ending carries the action.
+- 'Listen, I am learning.' Max favors a frank mood beside Nagiyev, leaning on "slushay" ("listen") before closing the thought with "uchus" ("study, do at school").
+- 'Only the bills for the training are big.' Max picks a natural view at once, linking "tolko" ("only") directly with "scheta" ("account, bill"), since Russian drops "is" and "are" in the present.
+- 'And how are things with Vika for you now?' Kostya questions sharply to Nagiyev here, combining "kak" ("how") and "seychas" ("now") so the key meaning lands right away.
+- 'I invited her to the cinema forty times.' Max presents a serious bearing beside Kostya, building the phrase around "raz" ("time, once") and "priglashal" ("invited") for a crisp, natural delivery.
+- 'Five times I said that I cannot live without her.' Max strikes an unhurried tempo without hesitation, combining "raz" ("time, once") and "govoril" ("said, were saying") so the key meaning lands right away.
+- 'And once I tried to kiss her.' Max conveys a wry posture for Kostya, building the phrase around "raz" ("time, once") and "pytalsya" ("tried") for a crisp, natural delivery.
+- 'I accidentally overheard a conversation on the phone.' Kostya favors an easygoing posture at this moment, pairing "sluchayno" ("by any chance") with "podslushal" ("overheard") to get the point across in plain spoken Russian.
+- 'Ah, interesting.' Max brings a direct course in this beat, putting all the weight on "interesno" ("interesting") so the reply lands immediately.
+- 'I promised that I would find a cook.' Nagiyev adopts a grounded mood right away, combining "obeshchal" ("promised") and "naydu" ("find") so the key meaning lands right away.
+- 'I did it. Please meet her.' Nagiyev shares a calm note as the scene unfolds, combining "sdelal" ("did") and "proshu" ("beg, ask") so the key meaning lands right away.
+- 'Yekaterina Semyonova graduated from the academy.' Nagiyev brings a frank attitude for Max, pairing "okonchila" ("graduated from") with "akademiyu" ("academy") to get the point across in plain spoken Russian.

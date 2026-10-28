@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, please, dear friend.' Around the chance and friend, Eleonora sets a calm, everyday tone with Denis.
-- 'Horses bite in your hotel room!' Around the chance and story, Denis makes his point loud and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Tell me, is this a hotel or a stable?' Questioning whether tell him is this a hotel or a stable is how Denis tests Eleonora's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We did not even talk about the money.' Once they did not even talk about the money, Eleonora can finally tell Denis what she means.
-- 'First I will get checked for rabies.' Adding that first he will get checked for rabies fills in the missing piece for Eleonora.
-- 'There is a mad horse in my hotel!' Insisting that there is a mad horse in her hotel shows Eleonora is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Let us drink to Katya and Nikita.' Claiming that they should drink to Katya and Nikita sounds confident, even if Eleonora has doubts.
-- 'They are a very beautiful couple, after all.' Mentioning that they are a very beautiful couple after all moves the talk in a new direction.
-- 'We are drinking to our young couple.' Saying that they are drinking to their young couple is how Katya sets the tone with Denis.
-- 'They canceled the flight to Tokyo today.' With the money and story in play, Denis keeps this short reply brisk and direct.
-- 'The plane is not flying because of bad weather.' Explaining that the plane is not flying because of bad weather lays the cards on the table for Eleonora.
-- 'The weather there is terrible, a strong typhoon.' Katya mentions that the weather there is terrible a strong typhoon so Denis sees what is at stake.
+- 'Forgive me, please, dear friend.' Eleonora favors a firm manner toward Denis, linking "prostite" ("excuse me"), "dorogoy" ("dear"), and "drug" ("friend") in one brisk exchange.
+- 'Horses bite in your hotel room!' Denis holds a resolute mood in the conversation, combining "u tebya" (literally "by you") with "nomere" ("in the hotel room") rather than a separate word for "have".
+- 'Tell me, is this a hotel or a stable?' Denis prompts naturally as they speak, joining "skazhi" ("say") to "otel" ("hotel") so every word pulls its weight.
+- 'We did not even talk about the money.' Eleonora chooses an easygoing posture toward Katya, leaning on "dengakh" ("money") before closing the thought with "pogovorili" ("had a talk").
+- 'First I will get checked for rabies.' Denis strikes a pointed note as the scene unfolds, weaving "snachala" ("first, at first") together with "beshenstvo" ("rabies") just the way native speakers do.
+- 'There is a mad horse in my hotel!' Eleonora favors a firm attitude in the conversation, placing "otele" ("in the hotel") straight beside "beshenaya" ("mad, rabid") with no word for "to be" needed.
+- 'Let us drink to Katya and Nikita.' Denis maintains a thoughtful posture in their talk, combining "davay" ("let's") and "vypyem" ("will drink") so the key meaning lands right away.
+- 'They are a very beautiful couple, after all.' Denis chooses a brisk tack in this beat, linking "ochen" ("very much"), "krasivaya" ("pretty, beautiful"), and "para" ("a match, a pair") in one brisk exchange.
+- 'We are drinking to our young couple.' Katya adopts a sharp stance without hesitation, anchoring the Russian line on "pyom" ("to drink") and "molodykh" ("young") without extra filler.
+- 'They canceled the flight to Tokyo today.' Denis establishes a frank attitude across the room, weaving "reys" ("flight") together with "segodnya" ("today") just the way native speakers do.
+- 'The plane is not flying because of bad weather.' Denis maintains a thoughtful direction in the scene, linking "samolyot" ("plane"), "letit" ("is flying"), and "nepogody" ("bad weather") in one brisk exchange.
+- 'The weather there is terrible, a strong typhoon.' Katya keeps a clear tone without hesitation, combining "pogoda" ("weather") and "tam" ("there") so the key meaning lands right away.

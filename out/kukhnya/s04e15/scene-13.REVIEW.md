@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Comrade Captain, why did you let him go just now?' Questioning whether comrade Captain why did the inspector lets him go just now is how Denis tests the inspector's story.
-- 'Turn on your head at last and think!' The inspector insists that Denis should turn on Denis's head at last and think, leaving Denis no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'This young guy is just a small-time courier.' Adding that this young guy is just a small time courier fills in the missing piece for Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Through him we will get to the big fish!' Insisting that through him they will get to the big fish shows the inspector is not backing down.
-- 'Look, he went into this expensive restaurant.' Since he went into this expensive restaurant, Denis does not waste words on excuses.
-- 'Wait, and who else is that in the courtyard?' Questioning whether who else is that in the courtyard is how Denis tests the inspector's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And here the serious suppliers have arrived here!' The inspector insists that here the serious suppliers have arrived here, leaving Denis no room to argue.
-- 'We have hit the trail of a major syndicate.' Because they have hit the trail of a major syndicate, the inspector treats the matter as settled.
-- 'But we do not have direct evidence yet.' Explaining that they do not have direct evidence yet lays the cards on the table for the inspector. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'That means we need to quietly infiltrate inside.' The inspector mentions that that means they need to quietly infiltrate inside so Denis sees what is at stake.
-- 'I propose naming our secret operation Hurricane!' With the restaurant and kitchen at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Let's go into the dining room, we will find out everything there now!' Here proposing that they go into the dining room they will find out everything there now lets the inspector's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Comrade Captain, why did you let him go just now?' Denis queries earnestly as the talk turns, combining "tovarishch" ("comrade") and "kapitan" ("captain") so the key meaning lands right away.
+- 'Turn on your head at last and think!' The inspector keeps a thoughtful mood as they talk, pairing "nakonets" ("at last, finally") with "vklyuchi" ("turn on, put on") so the "-sya" ending carries the action.
+- 'This young guy is just a small-time courier.' The inspector sets a sharp course as they talk, combining the softening word "prosto" ("simply, just") with "molodoy" ("young") to give the line its natural spoken rhythm.
+- 'Through him we will get to the big fish!' The inspector displays an earnest rhythm across the room, leaning on "vyydem" ("to go out, to get out") before closing the thought with "krupnuyu" ("large, prominent").
+- 'Look, he went into this expensive restaurant.' Denis maintains an honest manner at this moment, anchoring the Russian line on "smotrite" ("look") and "zashyol" ("stopped by") without extra filler.
+- 'Wait, and who else is that in the courtyard?' Denis quizzes pointedly during the talk, anchoring the Russian line on "podozhdite" ("wait") and "yeshchyo" ("more, still") without extra filler.
+- 'And here the serious suppliers have arrived here!' The inspector sustains a wry view beside Denis, joining "seryoznyye" ("serious") to "postavshchiki" ("supplier, purveyor") so every word pulls its weight.
+- 'We have hit the trail of a major syndicate.' The inspector shows an emphatic view at once, linking "napali" ("attacked, mugged"), "sled" ("syndicate"), and "bolshoy" ("big") in one brisk exchange.
+- 'But we do not have direct evidence yet.' Denis takes a lively tack in the room, leaning on "poka" ("bye") before closing the thought with "pryamykh" ("straight, direct").
+- 'That means we need to quietly infiltrate inside.' The inspector favors a clear stance beside Denis, joining "znachit" ("then, so") to "nado" ("it is necessary") so every word pulls its weight.
+- 'I propose naming our secret operation Hurricane!' Denis sets a wry style without hesitation, leaning on "predlagayu" ("suggest") before closing the thought with "nazvat" ("name, call").
+- 'Let's go into the dining room, we will find out everything there now!' The inspector adopts a grounded tone as the scene unfolds, leaning on "poshli" ("let's go") before closing the thought with "zal" ("hall").

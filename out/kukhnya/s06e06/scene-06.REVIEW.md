@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Should I make you one hot cappuccino?' Kostya asks whether should he makes Barinov one hot cappuccino, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Are you still pouting at me?' Here asking whether Barinov still pouting shows Nastya looking for the real truth.
-- 'They gave me good tips here.' Noting that they gave her good tips here keeps Nastya's side of the story simple and clear.
-- 'You can put them in the stash for the television.' Even though Barinov can put them in the stash for the television, Nastya keeps a steady face in front of Barinov.
-- 'Kostik, please forgive me.' With the peace and news in play, Nastya keeps this short reply brisk and direct.
-- 'By the way, they will deliver the wardrobe tonight.' Saying that they will deliver the wardrobe tonight is how Nastya sets the tone with Barinov.
-- 'Do I also have to assemble it myself?' By asking whether he also has to assemble it himself, Kostya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There was not enough money left for assembly.' Adding that there was not enough money left for assembly fills in the missing piece for Barinov.
-- 'The two of you could not handle one guy!' Because the two of Kostya could not handle one guy, Barinov does not bother softening the blow for Kostya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And what are we supposed to do next?' Here asking what they supposed to do next are shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Now all that is left is waiting for French grandchildren.' Adding that all that is left is waiting for French grandchildren fills in the missing piece for Kostya.
-- 'Your mother has been taken very ill over there.' Nastya reminds Barinov that Barinov's mother has been taken very ill over there before the moment passes.
+- 'Should I make you one hot cappuccino?' Kostya questions boldly during the talk, pairing "sdelat" ("to do") with "goryachiy" ("hot") to get the point across in plain spoken Russian.
+- 'Are you still pouting at me?' Nastya challenges boldly without hesitation, leaning on "yeshchyo" ("more, still") before closing the thought with "duyeshsya" ("are pouting").
+- 'They gave me good tips here.' Nastya presents a frank direction across the room, anchoring the Russian line on "tut" ("here") and "khoroshiye" ("good") without extra filler.
+- 'You can put them in the stash for the television.' Nastya holds a grounded position as they talk, weaving "polozhish" ("you'll put") together with "zanachku" ("secret cash stash") just the way native speakers do.
+- 'Kostik, please forgive me.' Nastya shows a frank posture with Barinov, building the phrase around "prosti" ("sorry, forgive me") and "kostik" ("Kostik") for a crisp, natural delivery.
+- 'By the way, they will deliver the wardrobe tonight.' Nastya adopts a warm tempo at this moment, pairing "kstati" ("by the way") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'Do I also have to assemble it myself?' Kostya wonders firmly during the talk, combining "yeshchyo" ("more, still") and "sobrat" ("to collect") so the key meaning lands right away.
+- 'There was not enough money left for assembly.' Nastya maintains an honest approach in front of Kostya, combining "sborku" ("assembly") and "deneg" ("money") so the key meaning lands right away.
+- 'The two of you could not handle one guy!' Barinov establishes a serious mood during the exchange, building the phrase around "vdvoyom" ("the two of us together") and "odolet" ("to overpower") for a crisp, natural delivery.
+- 'And what are we supposed to do next?' Kostya probes warmly beside Nastya, weaving "teper" ("now") together with "delat" ("do") just the way native speakers do.
+- 'Now all that is left is waiting for French grandchildren.' Barinov brings a direct bearing at this moment, anchoring the Russian line on "teper" ("now") and "ostayotsya" ("stays") without extra filler.
+- 'Your mother has been taken very ill over there.' Nastya strikes a firm style for Kostya, leaning on "tam" ("there") before closing the thought with "mame" ("mother, mum").

@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Макс | За что мне такое наказание? | What did I do to deserve such punishment? | #4: за что мне такое наказание | verbatim |
 | 5 | Шеф | Как ты? | How are you holding up? | #4: как ты | verbatim |
 | 6 | Макс | А ведь если бы я туда попал. | And yet if I ever made it in there. | #7: А ведь если бы я туда попал | verbatim |
-| 7 | Шеф | Шеф, а можно с вами? | Chef, can I come along with you? | #8: Шеф, а можно с вами | verbatim |
+| 7 | Макс | Шеф, а можно с вами? | Chef, can I come along with you? | #8: Шеф, а можно с вами | verbatim |
 | 8 | Макс | Даже не мечтаю. | Do not even dream about it. | #9: Даже не мечтаю | verbatim |
 | 9 | Шеф | Они никого с собой не берут. | They never bring anyone along with them. | #10: Они никого с собой не берут | verbatim |
 | 10 | Макс | Мы для них никто. | To them, we are nobodies. | #11: Мы для них никто | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you believe the theory of the Buddhists.' Barinov mentions that if Max believes the theory so Max sees what is at stake.
-- 'I was probably even Hitler in a past life.' Claiming that he was probably even in a past life sounds confident, even if Barinov has doubts.
-- 'Otherwise I just do not understand it?' Wondering if otherwise he just does not understand it shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What did I do to deserve such punishment?' Wondering what he does to deserve such punishment is how Max puts Barinov on the spot.
-- 'How are you holding up?' Here wondering how Max holding up is shows Barinov looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And yet if I ever made it in there.' Noting that yet if he ever made it in there keeps Max's side of the story simple and clear.
-- 'Chef, can I come along with you?' Checking whether he comes along with Max cuts straight through the tension between Barinov and Max.
-- 'Do not even dream about it.' Admitting that do not even dream about it shows Max being honest for a change.
-- 'They never bring anyone along with them.' Between the moment and the restaurant, Barinov gives Max a quick, grounded response.
-- 'To them, we are nobodies.' Once to them they are nobodies, Max can finally tell Barinov what he means.
-- 'That is the elite.' Adding that that is the elite fills in the missing piece for Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And who do you think you are?' Wondering who Barinov thinks Barinov is is how Max puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have been working here for three years already.' Having been working here for three years already is how Barinov lays out the situation for Max.
+- 'If you believe the theory of the Buddhists.' Barinov keeps a candid direction in their talk, putting "verit" ("to believe") alongside "teorii" ("theory") in a tight, everyday turn of phrase.
+- 'I was probably even Hitler in a past life.' Max conveys a grounded position in the conversation, linking "navernoye" ("probably"), "byl" ("was"), and "dazhe" ("even") in one brisk exchange.
+- 'Otherwise I just do not understand it?' Barinov prompts decisively without a pause, combining "inache" ("otherwise") and "ponimayu" ("understand") so the key meaning lands right away.
+- 'What did I do to deserve such punishment?' Max tests plainly to Barinov here, leaning on "nakazaniye" ("punishment") before closing the thought with "za" ("for").
+- 'How are you holding up?' Barinov asks earnestly without hesitation, putting "kak" ("how") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'And yet if I ever made it in there.' Max brings an honest attitude in front of Barinov, building the phrase around "tuda" ("there") and "popal" ("hit") for a crisp, natural delivery.
+- 'Chef, can I come along with you?' Max checks directly beside Barinov, joining "mozhno" ("may, can") to "shef" ("Chef") so every word pulls its weight.
+- 'Do not even dream about it.' Max presents a grounded rhythm during the exchange, combining "mechtayu" ("dream") and "dazhe" ("even") so the key meaning lands right away.
+- 'They never bring anyone along with them.' Barinov chooses a natural tone in front of Max, anchoring the Russian line on "berut" ("to take") and "oni" ("they") without extra filler.
+- 'To them, we are nobodies.' Max picks a grounded mood across the room, placing "my" ("we") straight beside "dlya" ("for") with no word for "to be" needed.
+- 'That is the elite.' Barinov presents a sharp angle across the room, anchoring the Russian line on "elita" ("elite") and "eto" ("this") without extra filler.
+- 'And who do you think you are?' Max presses openly to keep things clear, weaving "ty-to" ("you") together with "kto" ("who") just the way native speakers do.
+- 'I have been working here for three years already.' Barinov adopts an emphatic position in the conversation, linking "zdes" ("here"), "uzhe" ("already, now"), and "goda" ("years") in one brisk exchange.

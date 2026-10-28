@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, how are you feeling, my friend?' By wondering how the doctor feeling is, Kostya presses the doctor for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hello, tell me, do we know each other?' Wondering if tell him do they know each other shows Max caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Very funny! Wait, I do not get it right now.' By waiting he does not get it right now, Kostya raises the stakes in the room at once.
-- 'Well, how is our patient feeling today?' Here wondering how their patient feeling today is shows the doctor looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Doctor, it seems there is something wrong with his memory.' Realizing that doctor it seems there is something wrong with his memory changes how Kostya handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'The blow was strong, it could have caused amnesia.' Noting that the blow was strong it could have caused amnesia keeps the doctor's side of the story simple and clear.
-- 'Look right here, do you see the dark spot?' Wondering if right here do Kostya sees the dark spot shows the doctor caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That is a hematoma, it became the cause of memory loss.' Admitting that that is a hematoma it became the cause of memory loss shows the doctor being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He remembers everything that happened two years ago.' Saying that he remembers everything that happened two years ago is how Kostya sets the tone with the doctor.
-- 'First very old memories return to a person.' Over the hospital and the conversation, the doctor answers Kostya without a second thought.
-- 'If you did not save in time, you start the game over!' Because if the doctor did not save in time the doctor starts the game, Kostya does not bother softening the blow for the doctor. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Come back tomorrow morning, right now the patient needs rest.' By telling Kostya to come back tomorrow morning right now the patient needs rest, the doctor keeps his side of the story grounded.
+- 'Max, how are you feeling, my friend?' Kostya wonders naturally to the doctor here, pairing "kak" ("how") with "chuvstvuyesh" ("feel") to get the point across in plain spoken Russian.
+- 'Hello, tell me, do we know each other?' Max tests earnestly to Kostya here, putting "zdravstvuyte" ("hello") alongside "skazhite" ("tell") in a tight, everyday turn of phrase.
+- 'Very funny! Wait, I do not get it right now.' Kostya adopts a resolute line in this beat, pairing "ochen" ("very much") with "smeshno" ("ridiculous") to get the point across in plain spoken Russian.
+- 'Well, how is our patient feeling today?' The doctor presses wryly from the start, joining "kak" ("how") to "segodnya" ("today") so every word pulls its weight.
+- 'Doctor, it seems there is something wrong with his memory.' Kostya sustains a measured tempo in the room, building the phrase around "doktor" ("Doctor") and "kazhetsya" ("it seems, I think") for a crisp, natural delivery.
+- 'The blow was strong, it could have caused amnesia.' The doctor presents a steady position in this beat, linking "udar" ("blow, strike"), "byl" ("was"), and "silnym" ("strong") in one brisk exchange.
+- 'Look right here, do you see the dark spot?' The doctor probes dryly for Kostya's benefit, leaning on "posmotrite" ("look") before closing the thought with "syuda" ("here").
+- 'That is a hematoma, it became the cause of memory loss.' The doctor keeps a pointed bearing toward Max, anchoring the Russian line on "gematoma" ("hematoma") and "stala" ("have become") without extra filler.
+- 'He remembers everything that happened two years ago.' Kostya presents a warm style in their talk, weaving "pomnit" ("remembers") together with "proiskhodilo" ("was happening") just the way native speakers do.
+- 'First very old memories return to a person.' The doctor takes a direct course in front of Max, leaning on "snachala" ("first, at first") before closing the thought with "cheloveku" ("to a person").
+- 'If you did not save in time, you start the game over!' Kostya picks an unhurried line beside the doctor, pairing "sokhranilsya" ("saved") with "vovremya" ("at the right time") so the "-sya" ending carries the action.
+- 'Come back tomorrow morning, right now the patient needs rest.' The doctor maintains a warm footing across the room, linking "pridyote" ("to come, to arrive"), "zavtra" ("tomorrow"), and "utrom" ("this morning") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I hate them all, traitors!' Nagiyev insists that he hates them all traitors, leaving Max no room to argue.
-- 'Dmitry Vladimirovich, what happened?' With the conversation and revenge hanging in the air, Max puts Nagiyev on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The director decided to film without me!' Nagiyev insists that the director decided to film without him, leaving Max no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'He wants to shoot the second part with someone else!' Saying that he wants to shoot the second part with someone else is how Nagiyev takes charge of the moment.
-- 'And I am such a handsome actor, after all!' Nagiyev insists that he is such a handsome actor after all, leaving Max no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Do we have any laxative in the kitchen?' Asking whether they have any laxative in the kitchen is how Nagiyev puts Max on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Pour it straight into the desserts, into the pastries!' Saying that Max should pour it straight into the desserts into the pastries is how Nagiyev takes charge of the moment.
-- 'Pour the whole bottle in there at once!' By telling Max to pour the whole bottle in there at once, Nagiyev raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will never get involved with these movies again!' Declaring that he will never get involved with these movies again brings Nagiyev's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Now I only act in the West!' Nagiyev insists that he only acts, leaving Max no room to argue.
-- 'She is very dangerous for everyone.' Realizing that she is very dangerous for everyone changes how Nagiyev handles the situation.
-- 'The agent is working undercover.' Noting that the agent is working undercover keeps Nagiyev's side of the story simple and clear.
+- 'I hate them all, traitors!' Nagiyev presents a wry style straight away, anchoring the Russian line on "nenavizhu" ("hate") and "predateli" ("traitors") without extra filler.
+- 'Dmitry Vladimirovich, what happened?' Max wonders quietly in their exchange, combining "sluchilos" ("happened") and "dmitriy" ("Dmitry") so the key meaning lands right away.
+- 'The director decided to film without me!' Nagiyev strikes a brisk bearing in the room, putting "rezhissyor" ("director") alongside "reshil" ("has decided") in a tight, everyday turn of phrase.
+- 'He wants to shoot the second part with someone else!' Nagiyev keeps a clear style across the room, using "khochet" (from "khotet", "wants") alongside "vtoruyu" ("second") to shape the meaning.
+- 'And I am such a handsome actor, after all!' Nagiyev conveys a natural rhythm at this moment, leaning on "krasivyy" ("beautiful") before closing the thought with "aktyor" ("actor").
+- 'Do we have any laxative in the kitchen?' Nagiyev presses steadily right away, anchoring the Russian line on "kukhne" ("kitchen") and "yest" ("there is") without extra filler.
+- 'Pour it straight into the desserts, into the pastries!' Nagiyev chooses an honest style for Max, anchoring the Russian line on "ley" ("pour") and "pryamo" ("right, just") without extra filler.
+- 'Pour the whole bottle in there at once!' Nagiyev sustains a measured view right away, putting "vylivay" ("pour") alongside "tuda" ("there") in a tight, everyday turn of phrase.
+- 'I will never get involved with these movies again!' Nagiyev favors an emphatic rhythm as the scene unfolds, weaving "bolshe" ("more") together with "svyazhus" ("will get in touch") just the way native speakers do.
+- 'Now I only act in the West!' Nagiyev favors a brisk line at this moment, building the phrase around "teper" ("now") and "snimayus" ("act") for a crisp, natural delivery.
+- 'She is very dangerous for everyone.' Nagiyev chooses a calm attitude in the scene, joining "ochen" ("very much") to "opasna" ("everyone") so every word pulls its weight.
+- 'The agent is working undercover.' Nagiyev maintains a direct line in this beat, building the phrase around "agent" ("agent") and "rabotayet" ("works") for a crisp, natural delivery.

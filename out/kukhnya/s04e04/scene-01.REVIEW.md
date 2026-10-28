@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Head chefs are the generals of the kitchen.' Claiming that head chefs are the generals of the kitchen sounds confident, even if Barinov has doubts.
-- 'They control the situation.' Controlling the situation is how Max lays out the situation for Barinov.
-- 'Regular cooks are the salt of the kitchen earth.' Max explains that regular cooks are the salt of the kitchen earth, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They have the hardest job of all.' Realizing that they have the hardest job of all changes how Max handles the situation.
-- 'Pull yourselves together.' Pulling yourselves together moves the conversation forward without extra drama.
-- 'You haven't worked as an ordinary cook in a long time.' Even though Barinov has not worked as an ordinary cook in a long time, Elena keeps a steady face in front of Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I simply did not get enough sleep.' Admitting that he simply did not get enough sleep shows Barinov being honest for a change.
-- 'You have lost your edge, old timer.' Saying that Barinov has lost Barinov's edge old timer is how Elena sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have not lost my edge at all.' By having not lost his edge at all, Barinov keeps his side of the story grounded. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Just look at yourself.' With the conversation and exchange in play, Elena keeps this short reply brisk and direct.
-- 'You are talking to a tomato.' Saying that Barinov is talking to a tomato is how Elena sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'In reality he is a deeply civilian person.' Since in reality he is a deeply civilian person, Max does not waste words on excuses.
+- 'Head chefs are the generals of the kitchen.' Max takes a brisk tack in the room, linking "shef-povara" ("head chef"), "generaly" ("general"), and "kukhni" ("kitchen") in one brisk exchange.
+- 'They control the situation.' Max keeps a calm footing in the conversation, weaving "kontroliruyut" ("to control") together with "situatsiyu" ("the situation") just the way native speakers do.
+- 'Regular cooks are the salt of the kitchen earth.' Max offers a resolute tone in the room, weaving "prostyye" ("simple, ordinary") together with "povara" ("cook") just the way native speakers do.
+- 'They have the hardest job of all.' Max takes an unhurried line as they talk, building the phrase around "slozhneye" ("job") and "im" ("them") for a crisp, natural delivery.
+- 'Pull yourselves together.' Elena conveys a sharp stance as they talk, putting all the weight on "soberites" ("to get ready") so the reply lands immediately.
+- 'You haven't worked as an ordinary cook in a long time.' Elena adopts a grounded stance at this moment, anchoring the Russian line on "davno" ("for a long time") and "obychnym" ("ordinary, usual") without extra filler.
+- 'I simply did not get enough sleep.' Barinov shows a steady approach with Elena, pairing "vyspalsya" ("got enough sleep") with "prosto" ("just") so the "-sya" ending carries the action.
+- 'You have lost your edge, old timer.' Elena adopts a resolute position as the scene unfolds, putting "sdal" ("gave up, ratted out") alongside "starichok" ("old buddy") in a tight, everyday turn of phrase.
+- 'I have not lost my edge at all.' Barinov projects a lively position in the room, putting "sdal" ("gave up, ratted out") alongside "nichego" ("nothing") in a tight, everyday turn of phrase.
+- 'Just look at yourself.' Elena takes an easygoing view as the scene unfolds, linking "posmotri" ("look"), "na" ("on, onto"), and "sebya" ("myself") in one brisk exchange.
+- 'You are talking to a tomato.' Elena chooses a direct footing in this beat, anchoring the Russian line on "pomidorom" ("tomato") and "razgovarivayesh" ("are talking") without extra filler.
+- 'In reality he is a deeply civilian person.' Max projects an honest direction across the room, combining "samom" ("very") and "dele" ("case") so the key meaning lands right away.

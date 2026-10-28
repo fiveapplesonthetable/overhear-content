@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Вика | Да, у нас с тобой действительно были отношения. | Yes, you and I really were in a relationship. | #161: Да<br>#162: У нас действительно были отношения | adapted: adapted |
 | 2 | Вика | И, возможно, я тогда даже сильно тебя любила. | And perhaps I even loved you very much back then. | #163: возможно, я даже тебя любила | adapted: adapted |
 | 3 | Вика | Любила, пока ты мне однажды не изменил. | I loved you until one day you cheated on me. | #164: Пока ты мне не изменил | adapted: adapted |
-| 4 | Макс | Да уж, тот прежний Макс был настоящим дураком. | Yeah, that old Max was a real fool. | #165: Да, а тот Макс был настоящим | adapted: adapted |
+| 4 | Вика | Да уж, тот прежний Макс был настоящим дураком. | Yeah, that old Max was a real fool. | #165: Да, а тот Макс был настоящим | adapted: adapted |
 | 5 | Вика | Как это у тебя всегда так легко получается? | How does it always work out so easily for you? | #166: Как это у тебя всегда получается | adapted: adapted |
 | 6 | Вика | Ты всё на свете умеешь обратить в свою пользу. | You know how to turn everything in the world to your advantage. | #167: Вот ты все умеешь обратить в свою пользу | adapted: adapted |
 | 7 | Вика | Вот так стукнулся головой и сразу всё забыл! | You just bumped your head like that and immediately forgot everything! | #168: Вот так стукнулся головой и все забыл | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, you and I really were in a relationship.' Saying that Max and she really were in a relationship is how Vika sets the tone with Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And perhaps I even loved you very much back then.' Claiming that perhaps she even loved Max very much back then sounds confident, even if Max has doubts.
-- 'I loved you until one day you cheated on me.' Pointing out that she loved Max until one day Max cheated gives Max a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yeah, that old Max was a real fool.' Max explains that yeah that old Max was a real fool, keeping his voice calm and direct.
-- 'How does it always work out so easily for you?' Asking how it always work out so easily for Max cuts straight through the tension between Vika and Max.
-- 'You know how to turn everything in the world to your advantage.' With the conversation and kitchen in play, Vika keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You just bumped your head like that and immediately forgot everything!' Declaring that Max just bumped Max's head like that and immediately forgot everything brings Vika's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'And maybe it is a good thing that I forgot everything?' Wondering if maybe it is a good thing that he forgot everything shows Max caught off guard.
-- 'Maybe now we will be able to start everything from the beginning?' Questioning whether maybe now they will be able to start everything from the beginning is how Max tests Vika's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There is one small problem here: I did not hit my head.' Once there is one small problem here she did not hit her head, Vika can finally tell Max what she means.
-- 'Alright, I will leave, it was a bad idea to stay at your place.' Adding that Alright he will leave it was a bad idea to stay at Vika's place fills in the missing piece for Vika.
-- 'Wait, what is wrong with you? Does your head hurt badly again?' By asking what wrong with Max is, Vika presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Yes, you and I really were in a relationship.' Vika takes a candid tempo in their talk, weaving "deystvitelno" ("really, indeed") together with "byli" ("be") just the way native speakers do.
+- 'And perhaps I even loved you very much back then.' Vika presents a natural bearing across the room, joining "vozmozhno" ("perhaps, possible") to "togda" ("back then") so every word pulls its weight.
+- 'I loved you until one day you cheated on me.' Vika sustains a lively tack as the scene unfolds, using "lyubila" (from "lyubit", "loved") alongside "poka" ("bye") to shape the meaning.
+- 'Yeah, that old Max was a real fool.' Vika maintains an unhurried style as the scene unfolds, pairing "prezhniy" ("former, previous") with "byl" ("was") to get the point across in plain spoken Russian.
+- 'How does it always work out so easily for you?' Vika tests candidly on the spot, building the phrase around "kak" ("how") and "vsegda" ("always") for a crisp, natural delivery.
+- 'You know how to turn everything in the world to your advantage.' Vika holds an earnest position as the scene unfolds, weaving "svete" ("world") together with "umeyesh" ("know how to") just the way native speakers do.
+- 'You just bumped your head like that and immediately forgot everything!' Vika brings an emphatic direction in front of Max, using "stuknulsya" (from "stuknutsya", "hit, bumped") alongside "golovoy" ("with one's head") to shape the meaning.
+- 'And maybe it is a good thing that I forgot everything?' Max asks decisively as the beat lands, pairing "mozhet" ("can") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
+- 'Maybe now we will be able to start everything from the beginning?' Max inquires dryly in front of Vika, putting "mozhet" ("can") alongside "teper" ("now") in a tight, everyday turn of phrase.
+- 'There is one small problem here: I did not hit my head.' Vika chooses a serious stance during the exchange, combining "tut" ("here") and "yest" ("there is") so the key meaning lands right away.
+- 'Alright, I will leave, it was a bad idea to stay at your place.' Max projects a steady view in this beat, combining "poydu" ("go") and "byla" ("was") so the key meaning lands right away.
+- 'Wait, what is wrong with you? Does your head hurt badly again?' Vika probes bluntly in their exchange, anchoring the Russian line on "podozhdi" ("wait") and "opyat" ("again") without extra filler.

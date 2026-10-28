@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, come over here quickly.' Around the kitchen and point, Nagiyev sets a calm, everyday tone with Barinov.
-- 'You are here like a silent reproach from the past.' Because Barinov is here like a silent reproach from the past, Nagiyev treats the matter as settled.
-- 'Tell me, do you want to fire me?' Questioning whether tell him do Barinov wants to fire him is how Max tests Barinov's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Yes, I want to very much, but I cannot.' Nagiyev reminds Barinov that he wants to very much but he cannot before the moment passes.
-- 'After all, I gave my honest word.' Claiming that after all he gave his honest word sounds confident, even if Barinov has doubts.
-- 'Maxim, go work in the kitchen instead.' Around the room and conversation, Nagiyev sets a calm, everyday tone with Barinov.
-- 'Our chef will not take me back.' Max explains that their will not take him back, keeping his voice calm and direct.
-- 'Chef, you look very good today.' Realizing that Barinov looks very good today changes how Max handles the situation.
-- 'Did you dress up so nicely for a wedding?' Here asking whether Barinov dress up so nicely for a wedding shows Max looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'No, I dressed up for a funeral.' With the shift and kitchen in play, Barinov keeps this short reply brisk and direct.
-- 'Vitya, why is your cook walking around in the hall?' Asking why Barinov's cook walking around in the hall is cuts straight through the tension between Nagiyev and Barinov.
-- 'Because I kicked him out of the kitchen.' With the shift and conversation in play, Barinov keeps this short reply brisk and direct.
+- 'Maxim, come over here quickly.' Nagiyev favors a natural tone toward Barinov, joining "bystro" ("quickly") to "idi" ("go") so every word pulls its weight.
+- 'You are here like a silent reproach from the past.' Nagiyev establishes a natural attitude straight away, pairing "zdes" ("here") with "kak" ("how") to get the point across in plain spoken Russian.
+- 'Tell me, do you want to fire me?' Max wonders promptly as the beat lands, weaving "skazhite" ("tell") together with "khotite" ("want") just the way native speakers do.
+- 'Yes, I want to very much, but I cannot.' Nagiyev displays a lively tack in this beat, combining "ochen" ("very much") and "khochu" ("want") so the key meaning lands right away.
+- 'After all, I gave my honest word.' Nagiyev establishes a frank line for Barinov, putting "dal" ("to give") alongside "chestnoye" ("honest") in a tight, everyday turn of phrase.
+- 'Maxim, go work in the kitchen instead.' Nagiyev chooses an emphatic stance in the room, combining "idi" ("go") and "luchshe" ("better") so the key meaning lands right away.
+- 'Our chef will not take me back.' Max maintains a candid view toward Barinov, pairing "obratno" ("back") with "vozmyot" ("will take, hire") to get the point across in plain spoken Russian.
+- 'Chef, you look very good today.' Max picks a direct line as they talk, anchoring the Russian line on "segodnya" ("today") and "ochen" ("very much") without extra filler.
+- 'Did you dress up so nicely for a wedding?' Max inquires directly in their exchange, linking "svadbu" ("wedding"), "krasivo" ("beautifully"), and "odelis" ("dressed up") in one brisk exchange.
+- 'No, I dressed up for a funeral.' Barinov establishes a calm stance across the room, anchoring the Russian line on "odelsya" ("dressed") and "pokhorony" ("funeral") without extra filler.
+- 'Vitya, why is your cook walking around in the hall?' Nagiyev tests naturally across the room, building the phrase around "pochemu" ("why") and "povar" ("chef, cook") for a crisp, natural delivery.
+- 'Because I kicked him out of the kitchen.' Barinov sets an honest bearing on the spot, weaving "potomu" ("because") together with "kukhni" ("kitchen") just the way native speakers do.

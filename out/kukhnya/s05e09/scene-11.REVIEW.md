@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you break something?' Checking whether Kostya breaks something is how Vika puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Me? No, I did not break anything.' When Kostya asks if no he did not break anything, Max has to answer fast. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Nobody saw a thing at all. Right, Max?' Kostya asks whether nobody saw a thing at all, refusing to let the point slide.
-- 'Kostyan, sorry. I promised Vika not to lie.' Even though he promised Vika not to lie, Max keeps a steady face in front of Kostya.
-- 'That is not true.' Admitting that that is not true shows Max being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'There was cognac there, and it was cheap.' Saying that there was cognac there and it was cheap is how Max sets the tone with Kostya.
-- 'Vika, listen, I really have changed.' Once he really has changed, Max can finally tell Kostya what he means.
-- 'Let me help you, huh?' Max asks whether let him help Kostya huh, refusing to let the point slide. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Alright.' With the point and answer in play, Vika keeps this short reply brisk and direct.
-- 'Great! Then I will quickly run to change clothes.' Once then he will quickly run to change clothes, Max makes sure Kostya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Five minutes, and do not go anywhere, okay?' Questioning whether five minutes and do not go anywhere okay is how Max tests Kostya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hey, who are you?' Wondering who Kostya is cuts straight through the tension between Max and Kostya.
+- 'Did you break something?' Vika questions naturally toward Kostya here, leaning on "razbil" ("wrecked, crashed") before closing the thought with "ty" ("you").
+- 'Me? No, I did not break anything.' Kostya wonders warmly in their exchange, using "razbival" (from "razbivat", "broke, smashed") alongside "ya" ("I") to shape the meaning.
+- 'Nobody saw a thing at all. Right, Max?' Kostya checks openly in their exchange, combining "voobshche" ("at all") and "videl" ("saw, have seen") so the key meaning lands right away.
+- 'Kostyan, sorry. I promised Vika not to lie.' Max shares a pointed tack as they talk, anchoring the Russian line on "izvini" ("sorry, excuse me") and "obeshchal" ("promised") without extra filler.
+- 'That is not true.' Max maintains a calm posture in their talk, pairing "nepravda" ("untrue, a lie") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'There was cognac there, and it was cheap.' Max adopts a firm view toward Vika, leaning on "tam" ("there") before closing the thought with "byl" ("was").
+- 'Vika, listen, I really have changed.' Max picks a brisk approach at once, linking "slushay" ("listen"), "pravda" ("honestly"), and "izmenilsya" ("have changed") in one brisk exchange.
+- 'Let me help you, huh?' Max presses warmly as the beat lands, putting "davay" ("let's") alongside "pomogu" ("I'll help") in a tight, everyday turn of phrase.
+- 'Alright.' Vika presents a wry tack beside Kostya, putting all the weight on "ladno" ("all right") so the reply lands immediately.
+- 'Great! Then I will quickly run to change clothes.' Max displays a calm approach at once, combining "zdorovo" ("great, cool") and "togda" ("back then") so the key meaning lands right away.
+- 'Five minutes, and do not go anywhere, okay?' Max queries calmly from the start, joining "minut" ("minutes") to "nikuda" ("nowhere, anywhere") so every word pulls its weight.
+- 'Hey, who are you?' Max inquires frankly during the talk, pairing "ey" ("hey") with "ty" ("you") to get the point across in plain spoken Russian.

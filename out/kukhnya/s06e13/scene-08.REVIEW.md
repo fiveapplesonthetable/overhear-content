@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you tell me where to find the bartender?' Asking whether Barinov tells him where to find the bartender cuts straight through the tension between the guest and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Who goes to bars in the morning?' Wondering if who goes to bars in the morning shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Not at all, I came to see my son.' Saying that not at all he came to see his son is how the guest sets the tone with Barinov.
-- 'He works here as a bartender.' Since he works here as a bartender, the guest does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Ah, well here is our Konstantin.' Mentioning that here is their Konstantin moves the talk in a new direction.
-- 'Chef, what else do you want from me?' Asking whether what else do Barinov wants from him puts Barinov right on the defensive.
-- 'Kostya, you and I did not finish talking.' Because Barinov and he did not finish talking, the guest treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You and I have already said everything.' Explaining that Barinov and he has already said everything lays the cards on the table for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Children are like a favorite soccer team.' Barinov mentions that children are like a favorite soccer team so the guest sees what is at stake.
-- 'You always worry a lot about them.' Around the plan and morning, Barinov sets a calm, everyday tone with the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And in return you get complete disappointment.' Pointing out that in return the guest gets complete disappointment gives the guest a sobering reality check.
-- 'No, Kostya is not at fault here.' The guest explains that Kostya is not at fault here, keeping his voice calm and direct.
+- 'Could you tell me where to find the bartender?' The guest tests steadily right away, using "podskazhete" (from "podskazat", "to prompt, to tell") alongside "gde" ("where") to shape the meaning.
+- 'Who goes to bars in the morning?' Barinov wonders steadily to Kostya here, anchoring the Russian line on "khodit" ("walks") and "bary" ("bars") without extra filler.
+- 'Not at all, I came to see my son.' The guest picks a wry course right away, leaning on "synu" ("son") before closing the thought with "prishyol" ("came, have come").
+- 'He works here as a bartender.' The guest brings an honest footing at once, combining "zdes" ("here") and "barmenom" ("bartender") so the key meaning lands right away.
+- 'Ah, well here is our Konstantin.' Barinov shows a steady posture as they talk, anchoring the Russian line on "tak" ("so") and "vot" ("there, here") without extra filler.
+- 'Chef, what else do you want from me?' Kostya quizzes directly across the room, weaving "yeshchyo" ("more, still") together with "shef" ("Chef") just the way native speakers do.
+- 'Kostya, you and I did not finish talking.' The guest sets a wry tempo on the spot, pairing "dogovorili" ("to finish speaking") with "kostya" ("Kostya") to get the point across in plain spoken Russian.
+- 'You and I have already said everything.' Kostya holds a resolute attitude in the room, joining "uzhe" ("already, now") to "skazali" ("told") so every word pulls its weight.
+- 'Children are like a favorite soccer team.' Barinov shares a measured mood at once, putting "deti" ("kids") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'You always worry a lot about them.' Barinov maintains a thoughtful bearing beside Kostya, weaving "vsegda" ("always") together with "silno" ("strongly, much") just the way native speakers do.
+- 'And in return you get complete disappointment.' Barinov projects a pointed rhythm as they talk, pairing "otvet" ("answer") with "poluchayesh" ("to receive") to get the point across in plain spoken Russian.
+- 'No, Kostya is not at fault here.' The guest takes a sharp mood as they talk, leaning on "tut" ("here") before closing the thought with "vinovat" ("at fault, guilty").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Simply amazing people have gathered here today!' Once simply amazing people have gathered here today, the guest makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We are glad to welcome you at the charity auction.' Mentioning that they are glad to welcome Barinov at the charity auction moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Lyova, that rat closed Monet on purpose!' Over the work and the idea, Barinov lets his real feelings show.
-- 'In forty minutes my guests will arrive here.' Because in forty minutes his guests will arrive here, Barinov treats the matter as settled.
-- 'Where am I supposed to put all my friends now?' Wondering if where am he supposed to put all his friends now shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And what if we celebrate the holiday right here?' Over the point and the idea, Barinov presses the guest for a straight answer.
-- 'What do you mean here, there is someone else's event here!' Saying that what do Barinov means here there is someone else event here is how Lyova takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Look, all the people are having fun, drinking, and eating.' Pointing out that all the people are having fun drinking and eating gives the guest a sobering reality check.
-- 'One can drink to leopards, or one can drink to me!' Declaring that one can drink to leopards or one can drink to him brings Barinov's temper right to the surface.
-- 'Lyova, quickly warn the kitchen and the bar.' With the work and idea in play, Barinov keeps this short reply brisk and direct.
-- 'After you, the lottery tickets are in the storeroom.' Noting that after the guest the lottery tickets are in the storeroom keeps Barinov's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Hey, open the door, this is not funny at all!' Here opening the door this is not funny at all lets the guest's real feelings break through.
+- 'Simply amazing people have gathered here today!' The guest holds a wry manner in their talk, joining "segodnya" ("today") to "zdes" ("here") so every word pulls its weight.
+- 'We are glad to welcome you at the charity auction.' The guest shows a firm position beside Lyova, using "rady" (from "rad", "glad") alongside "privetstvovat" ("to greet, to welcome") to shape the meaning.
+- 'Lyova, that rat closed Monet on purpose!' Barinov takes a brisk tone across the room, leaning on "krysa" ("rat") before closing the thought with "spetsialno" ("on purpose").
+- 'In forty minutes my guests will arrive here.' Barinov chooses an unhurried stance as the scene unfolds, pairing "minut" ("minutes") with "syuda" ("here") to get the point across in plain spoken Russian.
+- 'Where am I supposed to put all my friends now?' Barinov wonders evenly as the talk turns, anchoring the Russian line on "kuda" ("where to") and "teper" ("now") without extra filler.
+- 'And what if we celebrate the holiday right here?' Barinov asks boldly in their exchange, pairing "otmetit" ("to celebrate") with "prazdnik" ("holiday") to get the point across in plain spoken Russian.
+- 'What do you mean here, there is someone else's event here!' Lyova chooses a playful note as they talk, anchoring the Russian line on "kak" ("how") and "zdes" ("here") without extra filler.
+- 'Look, all the people are having fun, drinking, and eating.' Barinov projects a direct tone in their talk, leaning on "smotri" ("look") before closing the thought with "lyudi" ("people").
+- 'One can drink to leopards, or one can drink to me!' Barinov adopts a grounded style during the exchange, linking "mozhno" ("may, can"), "pit" ("drink"), and "leopardov" ("leopards") in one brisk exchange.
+- 'Lyova, quickly warn the kitchen and the bar.' Barinov projects a clear tempo as they talk, pairing "bystro" ("quickly") with "predupredi" ("warn, let know") to get the point across in plain spoken Russian.
+- 'After you, the lottery tickets are in the storeroom.' Barinov offers a direct bearing as the scene unfolds, weaving "proshu" ("beg, ask") together with "lotereynyye" ("tickets") just the way native speakers do.
+- 'Hey, open the door, this is not funny at all!' The guest shares a thoughtful direction in the scene, weaving "otkroyte" ("open") together with "dver" ("door") just the way native speakers do.

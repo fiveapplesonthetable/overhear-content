@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are we dividing up the tips?' Checking whether they dividing up the tips is how Ilya puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Seven thousand each today. Not much.' With the work and bet in play, Vika keeps this short reply brisk and direct.
-- 'They gave me fifteen, and I have to take seven?' Ilya asks whether they gave him fifteen and he has to take seven, refusing to let the point slide.
-- 'Why do I have to work for big-eared rookies?' Wondering why he has to work for big rookies cuts straight through the tension between Ilya and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What? Do I not work?' Asking whether he not work is how Max puts Ilya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I also put money into the common pool.' Once he also puts money into the common pool, Max can finally tell Ilya what he means.
-- 'You have arranged things nicely for yourself, haven't you?' Ilya asks whether Max has arranged things nicely for themselves have not Max, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Everyone works, not just you alone.' Vika tells Ilya that everyone works not just Ilya alone without dressing it up. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That is all. Goodbye.' Since that is all, Vika does not waste words on excuses.
-- 'Redhead, wait.' With the point and bet in play, Ilya keeps this short reply brisk and direct.
-- 'Shall we bet all the tips for the shift?' Over the money and the bet, Ilya presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Easy! The winner will take the whole sum afterward.' Once the winner will take the whole sum afterward, Max makes sure Ilya hears every word.
+- 'Are we dividing up the tips?' Ilya tests openly to keep things clear, pairing "chayevyye" ("tips") with "razbirayem" ("to take apart") to get the point across in plain spoken Russian.
+- 'Seven thousand each today. Not much.' Vika adopts a thoughtful stance in the room, putting "segodnya" ("today") alongside "tysyach" ("thousand") in a tight, everyday turn of phrase.
+- 'They gave me fifteen, and I have to take seven?' Ilya quizzes lightly in this moment, building the phrase around "dali" ("gave") and "pyatnashku" ("fifteen thousand") for a crisp, natural delivery.
+- 'Why do I have to work for big-eared rookies?' Ilya inquires quietly as the talk turns, building the phrase around "pochemu" ("why") and "dolzhen" ("has to, must") for a crisp, natural delivery.
+- 'What? Do I not work?' Max asks boldly from the start, pairing "rabotayu" ("work") with "chego" ("what") to get the point across in plain spoken Russian.
+- 'I also put money into the common pool.' Max keeps a sharp manner in the room, weaving "tozhe" ("too") together with "obshchuyu" ("common, shared") just the way native speakers do.
+- 'You have arranged things nicely for yourself, haven't you?' Ilya tests wryly at this point, combining "normalno" ("fine, OK") and "ustroilsya" ("to settle, to get a job") so the key meaning lands right away.
+- 'Everyone works, not just you alone.' Vika chooses a natural attitude for Max, putting "rabotayut" ("work") alongside "odin" ("one") in a tight, everyday turn of phrase.
+- 'That is all. Goodbye.' Vika strikes a clear mood in their talk, placing "svidaniya" ("meeting") straight beside "vsyo" ("everything") with no word for "to be" needed.
+- 'Redhead, wait.' Ilya shows a direct bearing on the spot, building the phrase around "ryzhiy" ("red-haired") and "pogodi" ("wait") for a crisp, natural delivery.
+- 'Shall we bet all the tips for the shift?' Ilya queries boldly toward Max here, building the phrase around "sporim" ("wanna bet") and "chayevyye" ("tips") for a crisp, natural delivery.
+- 'Easy! The winner will take the whole sum afterward.' Max keeps an honest tempo toward Vika, leaning on "legko" ("easy") before closing the thought with "pobeditel" ("winner").

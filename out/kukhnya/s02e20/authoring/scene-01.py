@@ -7,7 +7,7 @@ SCENE = 1
 TITLE = 'Борьба за место и отказ переезжать  (Fighting for His Place and Refusing to Move In)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'timur': 'Тимур'}
+LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'timur': 'Тимур'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
 SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 INTRO = "Welcome to Kukhnya Season 2, Episode 20. Max reflects on how he spent nearly a year earning his place in the kitchen and is ready to do anything to get it back. Meanwhile, at Elena's apartment, Chef Barinov stubbornly tries to fix a broken appliance himself and tells Elena he cannot move in with her."
@@ -26,22 +26,22 @@ STORY = [
     ('timur', 'Я сам справлюсь.', 'I can handle it myself.', [(8, 'Я сам справлюсь')], ''),
     ('barinov', 'Тут просто контакта нет.', 'There is simply a loose contact inside here.', [(11, 'тут просто контакта нет')], ''),
     ('timur', 'Я говорю, люди мы с тобой взрослые.', 'I am saying, you and I are both grown adults.', [(13, 'Я говорю, люди мы с тобой взрослые')], ''),
-    ('barinov', 'Эй, Витя.', 'Hey, Vitya, watch out.', [(15, 'Эй, Витя')], ''),
+    ('max', 'Эй, Витя.', 'Hey, Vitya, watch out.', [(15, 'Эй, Витя')], ''),
     ('timur', 'Я не могу к тебе переехать.', 'I cannot move in with you.', [(16, 'Я не могу к тебе переехать')], ''),
     ('barinov', 'Потому что я не могу к тебе переехать.', 'Because I simply cannot move in with you.', [(17, 'Потому что я не могу к тебе переехать')], ''),
 ]
 WALK = [
-    (0, None, "'Which I worked for almost a year to achieve.' Since which he worked for almost a year to achieve, Barinov does not waste words on excuses."),
-    (1, None, "'And I am ready to do anything to get it back.' Claiming that he is ready to do anything to get it back sounds confident, even if Barinov has doubts."),
-    (2, None, "'Timur, hey there.' With the moment and job in play, Barinov keeps this short reply brisk and direct."),
-    (3, None, "'What did you bring today?' By asking what Barinov brings today, Timur presses Barinov for a straight answer."),
-    (4, None, "'Breakfast is served.' Explaining that breakfast is served lays the cards on the table for Timur."),
-    (5, None, '\'What on earth is that?\' Timur asks whether what on earth is, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (6, None, "'I will call a repairman.' Claiming that he will call a repairman sounds confident, even if Timur has doubts."),
-    (7, None, "'I can handle it myself.' Pointing out that he can handle it himself gives Barinov a sobering reality check."),
-    (8, None, "'There is simply a loose contact inside here.' Barinov explains that there is simply a loose contact inside here, keeping his voice calm and direct."),
-    (9, None, "'I am saying, you and I are both grown adults.' Even though he is saying Barinov and he are both grown adults, Timur keeps a steady face in front of Barinov."),
-    (10, None, "'Hey, Vitya, watch out.' Saying that Timur should watch out is how Barinov sets the tone with Timur."),
-    (11, None, '\'I cannot move in with you.\' Timur explains that he cannot move in with Barinov, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (12, None, "'Because I simply cannot move in with you.' Admitting that because he simply cannot move in with Timur shows Barinov being honest for a change."),
+    (0, None, '\'Which I worked for almost a year to achieve.\' Barinov takes a wry style on the spot, pairing "dobivalsya" ("to strive for") with "pochti" ("almost") to get the point across in plain spoken Russian.'),
+    (1, None, '\'And I am ready to do anything to get it back.\' Timur establishes a measured stance as the scene unfolds, putting "gotov" ("ready") alongside "vernut" ("give back, get back") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Timur, hey there.\' Barinov sustains a wry posture straight away, joining "timur" ("Timur") to "privet" ("hi") so every word pulls its weight.'),
+    (3, None, '\'What did you bring today?\' Timur checks frankly on the spot, using "privez" (from "privezti", "to bring") alongside "chto" ("what") to shape the meaning.'),
+    (4, None, '\'Breakfast is served.\' Barinov favors a grounded approach in the scene, combining "kushat" ("to eat") and "podano" ("dinner") so the key meaning lands right away.'),
+    (5, None, '\'What on earth is that?\' Timur quizzes dryly from the start, joining "chto" ("what") to "eto" ("this") so every word pulls its weight.'),
+    (6, None, '\'I will call a repairman.\' Barinov displays a direct stance right away, anchoring the Russian line on "mastera" ("technician") and "vyzovu" ("will call, summon") without extra filler.'),
+    (7, None, '\'I can handle it myself.\' Timur favors a brisk tempo in this beat, pairing "spravlyus" ("will manage") with "ya" ("I") so the "-sya" ending carries the action.'),
+    (8, None, '\'There is simply a loose contact inside here.\' Barinov takes a steady style with Max, pairing "tut" ("here") with "prosto" ("just") to get the point across in plain spoken Russian.'),
+    (9, None, '\'I am saying, you and I are both grown adults.\' Timur picks a brisk manner at once, anchoring the Russian line on "govoryu" ("am telling") and "lyudi" ("people") without extra filler.'),
+    (10, None, '\'Hey, Vitya, watch out.\' Max conveys a candid footing beside Barinov, anchoring the Russian line on "ey" ("hey") and "vitya" ("Vitya") without extra filler.'),
+    (11, None, '\'I cannot move in with you.\' Timur presents a warm mood in this beat, combining "mogu" ("can") and "pereyekhat" ("to move in") so the key meaning lands right away.'),
+    (12, None, '\'Because I simply cannot move in with you.\' Barinov keeps a clear position in the scene, building the phrase around "potomu" ("because") and "mogu" ("can") for a crisp, natural delivery.'),
 ]

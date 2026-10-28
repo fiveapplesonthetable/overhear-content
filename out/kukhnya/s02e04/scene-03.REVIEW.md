@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Блин, походу я загранпаспорт у Вики забыл. | Damn, it looks like I forgot my passport at Vika's. | #33: Блин, походу я загранпаспорт у Вики забыл | verbatim |
 | 2 | Вика | Если она, конечно, не выбросила его еще. | Unless, of course, she has thrown it out already. | #35: Если она, конечно, не выбросила его еще | verbatim |
-| 3 | Костя | Костян, не тупи, кому я сейчас позвоню. | Kostyan, do not be dense, who am I going to call now. | #36: Костян, не тупи, кому я сейчас позвоню | verbatim |
+| 3 | Шеф | Костян, не тупи, кому я сейчас позвоню. | Kostyan, do not be dense, who am I going to call now. | #36: Костян, не тупи, кому я сейчас позвоню | verbatim |
 | 4 | Шеф | А нечего было ей изменять. | You should not have cheated on her. | #37: А нечего было ей изменять | verbatim |
 | 5 | Вика | То есть она тоже. | So she is there too. | #39: То есть она тоже | verbatim |
 | 6 | Костя | У меня же есть ключи от квартиры. | Wait, I still have the keys to the apartment. | #40: У меня же есть ключи от квартиры | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Damn, it looks like I forgot my passport at Vika's.' Saying that damn it looks like he forgot his passport at Vika is how Barinov sets the tone with Kostya.
-- 'Unless, of course, she has thrown it out already.' Once unless of course she has thrown it out already, Vika can finally tell Barinov what she means.
-- 'Kostyan, do not be dense, who am I going to call now.' Adding that someone do not be dense who am he going to call now fills in the missing piece for Barinov.
-- 'You should not have cheated on her.' Saying that Kostya should not have cheated is how Barinov sets the tone with Kostya.
-- 'So she is there too.' Realizing that she is there changes how Vika handles the situation.
-- 'Wait, I still have the keys to the apartment.' Mentioning that he still has the keys to the apartment moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Could you please invite Viktoriya Sergeyevna to the phone.' Barinov reminds Kostya that could Kostya pleases invite Viktoriya Sergeyevna to the phone before the moment passes.
-- 'Is she at work?' Asking whether she at work is how Vika puts Barinov on the spot.
-- 'Where is our Viktoriya Sergeyevna?' Here asking where their Viktoriya Sergeyevna is shows Kostya looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'She has a day off today.' Barinov mentions that she has a day off today so Kostya sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'At Viktoriya Sergeyevna's...' Turning from the restaurant to the shift, Vika keeps the exchange moving.
-- 'Viktor Petrovich, out there...' Over the restaurant and the conversation, Kostya answers Barinov without a second thought.
-- 'I want to, but I cannot.' Once he wants to but he cannot, Barinov can finally tell Kostya what he means.
+- 'Damn, it looks like I forgot my passport at Vika's.' Barinov takes a thoughtful position at this moment, pairing "blin" ("damn") with "pokhodu" ("apparently") to get the point across in plain spoken Russian.
+- 'Unless, of course, she has thrown it out already.' Vika brings a steady attitude at this moment, building the phrase around "konechno" ("of course") and "vybrosila" ("threw out") for a crisp, natural delivery.
+- 'Kostyan, do not be dense, who am I going to call now.' Barinov takes an earnest attitude across the room, linking "tupi" ("be dumb, space out"), "seychas" ("now"), and "pozvonyu" ("will call") in one brisk exchange.
+- 'You should not have cheated on her.' Barinov favors a firm tempo as they talk, linking "bylo" ("was"), "izmenyat" ("to cheat, be unfaithful"), and "nechego" ("nothing") in one brisk exchange.
+- 'So she is there too.' Vika brings a resolute rhythm as the scene unfolds, combining "yest" ("there is") and "tozhe" ("too") so the key meaning lands right away.
+- 'Wait, I still have the keys to the apartment.' Kostya maintains a playful view in the conversation, putting "yest" ("there is") alongside "klyuchi" ("the keys") in a tight, everyday turn of phrase.
+- 'Could you please invite Viktoriya Sergeyevna to the phone.' Barinov displays an unhurried bearing at this moment, putting "priglasite" ("call in, invite") alongside "telefonu" ("phone") in a tight, everyday turn of phrase.
+- 'Is she at work?' Vika probes evenly during the talk, putting "rabote" ("work") alongside "ona" ("it") in a tight, everyday turn of phrase.
+- 'Where is our Viktoriya Sergeyevna?' Kostya probes plainly during the talk, combining "gde" ("where") and "nas" ("us") so the key meaning lands right away.
+- 'She has a day off today.' Barinov holds a resolute position in the room, weaving "segodnya" ("today") together with "vykhodnoy" ("a day off") just the way native speakers do.
+- 'At Viktoriya Sergeyevna's...' Vika picks a calm rhythm in their talk, putting "viktorii" ("Victoria") alongside "sergeyevny" ("Sergeyevna") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, out there...' Kostya takes a sharp posture as the scene unfolds, building the phrase around "tam" ("there") and "viktor" ("Viktor") for a crisp, natural delivery.
+- 'I want to, but I cannot.' Barinov strikes a warm style as they talk, building the phrase around "khochu" ("want") and "mogu" ("can") for a crisp, natural delivery.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't Katya spend the night today?' Here asking why not Katya spend the night today shows Senya looking for the real truth.
-- 'She and I had a big fight yesterday.' Denis reminds Senya that she and he had a big fight yesterday before the moment passes.
-- 'She says I behave like a pushover.' Because she says he behave like a pushover, Denis treats the matter as settled.
-- 'Well, do not be a pushover anymore.' Explaining that do not be a pushover anymore lays the cards on the table for Denis.
-- 'Always dominate, be a real man.' Around the truth and morning, Senya sets a calm, everyday tone with Denis.
-- 'All right, I will definitely try today.' Claiming that all right he will definitely try today sounds confident, even if Senya has doubts.
-- 'Make up and come over for dinner.' Making up and come over for dinner moves the conversation forward without extra drama.
-- 'Marina and I really need this.' Saying that Marina and he really needs this is how Senya sets the tone with Denis. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'It seems to me that she liked you two a lot.' Realizing that it seems to him that she liked Denis two a lot changes how Senya handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I do not know, if Katya does not mind.' Since he does not know if Katya does not mind, Denis does not waste words on excuses.
-- 'Are you a real man or what?' Asking whether Denis a real man cuts straight through the tension between Senya and Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Right away, sweetheart, I am bringing your tea already!' Declaring that right away sweetheart he is bringing Denis's tea already brings Senya's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Why didn't Katya spend the night today?' Senya queries dryly in front of Denis, leaning on "pochemu" ("why") before closing the thought with "segodnya" ("today").
+- 'She and I had a big fight yesterday.' Denis projects a brisk course as they talk, building the phrase around "vchera" ("yesterday") and "silno" ("strongly, much") for a crisp, natural delivery.
+- 'She says I behave like a pushover.' Denis establishes a frank style in their talk, weaving "govorit" ("talks") together with "vedu" ("lead, am ahead") just the way native speakers do.
+- 'Well, do not be a pushover anymore.' Senya shares a resolute position for Denis, combining "bolshe" ("more") and "bud" ("were he") so the key meaning lands right away.
+- 'Always dominate, be a real man.' Senya chooses a grounded rhythm at once, leaning on "vsegda" ("always") before closing the thought with "dominiruy" ("dominate").
+- 'All right, I will definitely try today.' Denis picks a pointed mood as the scene unfolds, combining "segodnya" ("today") and "obyazatelno" ("surely, without fail") so the key meaning lands right away.
+- 'Make up and come over for dinner.' Senya projects an earnest style without hesitation, building the phrase around "davayte" ("let's") and "mirites" ("make peace") for a crisp, natural delivery.
+- 'Marina and I really need this.' Senya shows a natural line as they talk, combining "ochen" ("very much") and "nuzhno" ("necessary") so the key meaning lands right away.
+- 'It seems to me that she liked you two a lot.' Senya presents a grounded manner at this moment, pairing "kazhetsya" ("it seems, I think") with "ochen" ("very much") so the "-sya" ending carries the action.
+- 'I do not know, if Katya does not mind.' Denis sustains an unhurried angle in their talk, joining "znayu" ("know") to "budet" ("will be") so every word pulls its weight.
+- 'Are you a real man or what?' Senya tests bluntly to make the point, building the phrase around "voobshche" ("at all") and "muzhik" ("a real man") for a crisp, natural delivery.
+- 'Right away, sweetheart, I am bringing your tea already!' Senya adopts a brisk footing beside Denis, pairing "seychas" ("now") with "lyubimaya" ("favourite, beloved") so the "-sya" ending carries the action.

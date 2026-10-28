@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a crowd of guys standing in the back courtyard.' Admitting that there is a crowd of guys standing in the back courtyard shows Max being honest for a change.
-- 'It seems your father called them there.' Saying that it seems Ainura's father called them there is how Max sets the tone with Ainura. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And right now he led your boyfriend out there.' Once right now he led Ainura's boyfriend out there, Max can finally tell Ainura what he means.
-- 'I do not like the sound of this at all!' Because she does not like the sound of this at all, Katya does not bother softening the blow for Ainura.
-- 'Guys, let's all follow me quickly!' Saying that they should all follow her quickly is how Katya takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Ninety thousand, and you took ten this afternoon.' Since ninety thousand and Ainura took ten this afternoon, Max does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Wait, I will recount all the money right now.' Mentioning that he will recount all the money right now moves the talk in a new direction.
-- 'Ainura, have you seen my father?' Here asking whether Ainura seen her father shows Katya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I saw him, he just went into the office.' Because she saw him he just went into the office, Ainura treats the matter as settled.
-- 'A young guy in a leather jacket with a skull was with him.' Explaining that a young guy in a leather jacket with a skull was with him lays the cards on the table for Katya.
-- 'A real pirate, probably, be careful!' With the plan and work at stake, Ainura reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I will find them right now, wait here.' Claiming that she will find them right now wait here sounds confident, even if Ainura has doubts.
+- 'There is a crowd of guys standing in the back courtyard.' Max holds an unhurried stance in the scene, linking "tam" ("there"), "zadnem" ("back, rear"), and "dvore" ("yard, courtyard") in one brisk exchange.
+- 'It seems your father called them there.' Max offers a wry course across the room, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "tuda" ("there") without extra filler.
+- 'And right now he led your boyfriend out there.' Max keeps a serious direction in front of Ainura, weaving "seychas" ("now") together with "parnya" ("boyfriend") just the way native speakers do.
+- 'I do not like the sound of this at all!' Katya maintains an earnest footing at once, combining "sovsem" ("at all") and "nravitsya" ("is pleasing") so the key meaning lands right away.
+- 'Guys, let's all follow me quickly!' Katya picks a calm footing on the spot, pairing "rebyata" ("the boys, the lads") with "bystro" ("quickly") to get the point across in plain spoken Russian.
+- 'Ninety thousand, and you took ten this afternoon.' Max keeps an easygoing view in the room, weaving "tysyach" ("thousand") together with "dnyom" ("day") just the way native speakers do.
+- 'Wait, I will recount all the money right now.' Max projects a lively posture in front of Ainura, joining "podozhdi" ("wait") to "seychas" ("now") so every word pulls its weight.
+- 'Ainura, have you seen my father?' Katya challenges honestly right away, putting "ottsa" ("father") alongside "videla" ("saw") in a tight, everyday turn of phrase.
+- 'I saw him, he just went into the office.' Ainura sets a frank stance in front of Katya, leaning on "videla" ("saw") before closing the thought with "tolko" ("only").
+- 'A young guy in a leather jacket with a skull was with him.' Ainura sets an unhurried note as the scene unfolds, leaning on "molodoy" ("young") before closing the thought with "paren" ("boyfriend").
+- 'A real pirate, probably, be careful!' Ainura maintains a thoughtful attitude across the room, putting "nastoyashchiy" ("real, genuine") alongside "pirat" ("pirate") in a tight, everyday turn of phrase.
+- 'I will find them right now, wait here.' Katya presents a sharp angle right away, putting "seychas" ("now") alongside "naydu" ("find") in a tight, everyday turn of phrase.

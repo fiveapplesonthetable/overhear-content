@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Настя | Чё ты улыбаешься, а? | What are you smiling at, huh? | #212: Чё ты улыбаешься, а | verbatim |
 | 4 | Нагиев | А? Чё ты улыбаешься? | Huh? Why are you smiling? | #212: а? Чё ты улыбаешься | verbatim |
 | 5 | Настя | Что ты там подаешь? | What are you serving over there? | #214: что ты там подаешь | verbatim |
-| 6 | Нагиев | Дмитрий Владимирович, при чем здесь Настя? | Dmitriy Vladimirovich, what does Nastya have to do with this? | #215: Дмитрий Владимирович, при чем здесь Настя | verbatim |
+| 6 | Сеня | Дмитрий Владимирович, при чем здесь Настя? | Dmitriy Vladimirovich, what does Nastya have to do with this? | #215: Дмитрий Владимирович, при чем здесь Настя | verbatim |
 | 7 | Настя | Ясно тебе? | Is that clear to you? | #215: Ясно тебе | verbatim |
 | 8 | Нагиев | При том. | She has everything to do with it. | #216: При том | verbatim |
 | 9 | Настя | Кому что она подает. | Depending on who she serves and what she serves. | #217: Кому что она подает | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen up, everyone.' With the shift and smile in play, Nastya keeps this short reply brisk and direct.
-- 'Why are you smiling, you limp noodle, huh?' Here wondering why Nastya smiling Nastya limp noodle huh is shows Nagiyev looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What are you smiling at, huh?' By asking what Nagiyev smiling at huh is, Nastya presses Nagiyev for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Huh? Why are you smiling?' Wondering why Nastya smiling is cuts straight through the tension between Nagiyev and Nastya.
-- 'What are you serving over there?' Asking what Nagiyev serving over there is is how Nastya puts Nagiyev on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' Wondering if Dmitriy Vladimirovich what does Nastya have to do with this shows Nagiyev caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Is that clear to you?' By checking whether that clear to Nagiyev, Nastya presses Nagiyev for a straight answer.
-- 'She has everything to do with it.' Even though she has everything to do with it, Nagiyev keeps a steady face in front of Nastya.
-- 'Depending on who she serves and what she serves.' Admitting that depending on who she serves and what she serves shows Nastya being honest for a change.
-- 'Shut your mouths.' Pointing out that Nastya should shut Nastya's mouths gives Nastya a sobering reality check.
-- 'I am telling you, and I am telling all of you.' Being telling Nagiyev and she is telling all of Nagiyev moves the conversation forward without extra drama. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will not name names, but just try screwing up.' Adding that he will not name names but just try screwing up fills in the missing piece for Nastya.
-- 'Just you try.' Nastya tells Nagiyev that just Nagiyev tries without dressing it up.
+- 'Listen up, everyone.' Nastya sustains a brisk tack as they talk, anchoring the Russian line on "znachit" ("then, so") and "tak" ("so") without extra filler.
+- 'Why are you smiling, you limp noodle, huh?' Nagiyev quizzes naturally in the room, using "ulybayeshsya" (from "ulybatsya", "are smiling") alongside "vyalyy" ("sluggish, wilted") to shape the meaning.
+- 'What are you smiling at, huh?' Nastya presses frankly as the talk turns, putting "ulybayeshsya" ("are smiling") alongside "chyo" ("what") in a tight, everyday turn of phrase.
+- 'Huh? Why are you smiling?' Nagiyev probes promptly on the spot, combining "ulybayeshsya" ("are smiling") and "chyo" ("what") so the key meaning lands right away.
+- 'What are you serving over there?' Nastya probes bluntly to keep things clear, weaving "tam" ("there") together with "podayesh" ("are filing") just the way native speakers do.
+- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' Senya questions plainly without hesitation, combining "zdes" ("here") and "dmitriy" ("Dmitry") so the key meaning lands right away.
+- 'Is that clear to you?' Nastya quizzes honestly as they speak, putting "yasno" ("clear, got it") alongside "tebe" ("for you, to you") in a tight, everyday turn of phrase.
+- 'She has everything to do with it.' Nagiyev establishes a serious footing in the conversation, anchoring the Russian line on "pri" ("in the presence of") and "tom" ("that") without extra filler.
+- 'Depending on who she serves and what she serves.' Nastya takes a measured attitude right away, joining "podayet" ("to serve, submit") to "komu" ("to whom, who") so every word pulls its weight.
+- 'Shut your mouths.' Nagiyev picks a frank rhythm as the scene unfolds, pairing "rot" ("mouth") with "zakryli" ("to close, to shut") to get the point across in plain spoken Russian.
+- 'I am telling you, and I am telling all of you.' Nastya favors a steady bearing toward Nagiyev, weaving "znachit" ("then, so") together with "govoryu" ("am telling") just the way native speakers do.
+- 'I will not name names, but just try screwing up.' Nagiyev sets a brisk style in front of Senya, pairing "oblazhatsya" ("screw up, mess up") with "budu" ("will be") so the "-sya" ending carries the action.
+- 'Just you try.' Nastya adopts a natural position without hesitation, leaning on "tolko" ("only") before closing the thought with "poprobuyte" ("try, taste").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Iosif! Sorry.' Over the news and the conversation, Max lets his real feelings show.
-- 'What is that on you?' Here wondering what that on Max is shows the guest looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I wanted to look like you.' Noting that he wanted to look like the guest keeps Max's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You would have done better to grow it here.' Even though Max would have done better to grow it here, the guest keeps a steady face in front of Max.
-- 'Oh, are you really Iosif Prigozhin?' Asking whether the guest really Iosif Prigozhin is how Vika puts the guest on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'And thank goodness!' Thanking goodness shows the guest is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No way!' With the shift and hotel at stake, Vika reacts without holding back.
-- 'Forgive me for not believing you.' With the truth and doubt in play, Vika keeps this short reply brisk and direct.
-- 'In your place I would not have believed it either.' Max tells the guest that in the guest's place he would not have believed it either without dressing it up.
-- 'We are going to have a girl.' Since they are going to have a girl, Vika does not waste words on excuses.
-- 'Really? A girl?' Over the moment and the doubt, Max presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I knew it all along!' Declaring that he knew it all along brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Hello, Iosif! Sorry.' Max strikes a grounded stance at once, building the phrase around "izvini" ("sorry, excuse me") and "privet" ("hi") for a crisp, natural delivery.
+- 'What is that on you?' The guest challenges candidly beside Vika, placing "chto" ("what") straight beside "eto" ("this") with no word for "to be" needed.
+- 'I wanted to look like you.' Max strikes an honest line without hesitation, using "khotel" (from "khotet", "wanted") alongside "byt" ("be") to shape the meaning.
+- 'You would have done better to grow it here.' The guest offers a measured bearing in the scene, building the phrase around "luchshe" ("better") and "zdes" ("here") for a crisp, natural delivery.
+- 'Oh, are you really Iosif Prigozhin?' Vika checks candidly to make the point, pairing "pravda" ("honestly") with "oy" ("oh") to get the point across in plain spoken Russian.
+- 'And thank goodness!' The guest takes a resolute tempo right away, putting "slava" ("glory") alongside "bogu" ("to God") in a tight, everyday turn of phrase.
+- 'No way!' Vika holds a playful angle in this beat, leaning on "da" ("yes") before closing the thought with "ladno" ("all right").
+- 'Forgive me for not believing you.' Vika conveys an easygoing view in this beat, building the phrase around "prosti" ("sorry, forgive me") and "poverila" ("I believed") for a crisp, natural delivery.
+- 'In your place I would not have believed it either.' Max picks a brisk attitude straight away, putting "meste" ("place") alongside "tozhe" ("too") in a tight, everyday turn of phrase.
+- 'We are going to have a girl.' Vika sets a clear attitude in this beat, putting "budet" ("will be") alongside "devochka" ("girl") in a tight, everyday turn of phrase.
+- 'Really? A girl?' Max tests frankly in the scene, putting "pravda" ("honestly") alongside "devochka" ("girl") in a tight, everyday turn of phrase.
+- 'I knew it all along!' Max displays a natural tempo straight away, combining "znal" ("knew") and "ya" ("I") so the key meaning lands right away.

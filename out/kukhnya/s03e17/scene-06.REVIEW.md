@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, cooks, what are we going to feed the guests?' Asking whether cooks what are they going to feed the guests puts Katya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Louis wants to prepare a dessert with soap.' Mentioning that Louis wants to prepare a dessert with soap moves the talk in a new direction.
-- 'With laundry soap? Wonderful, Louis, wonderful!' Over the conversation and the sauce, Barinov presses Katya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fedya will serve fish with select black soil.' Because Fedya will serve fish with select black soil, Max treats the matter as settled.
-- 'Delightful, let them eat dirt today.' Explaining that delightful let them eat dirt today lays the cards on the table for Katya.
-- 'Lyova will put the meat in the oven for a long time.' Max mentions that Lyova will put the meat in the oven for a long time so Barinov sees what is at stake.
-- 'Lyova, think about it some more.' Barinov explains that Katya should think about it some, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And where are you going right now, Senya?' Wondering where Katya going right now is is how Barinov puts Katya on the spot.
-- 'To the restroom? Senya, that is overkill.' Over the work and the sauce, Max presses Barinov for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dad, we will prepare a molecular set with sauce.' Realizing that dad they will prepare a molecular set with sauce changes how Katya handles the situation.
-- 'Great idea, I completely approve.' Turning from the sauce to the kitchen, Barinov keeps the exchange moving.
-- 'Max has a real talent for ruining dishes.' Even though Max has a real talent for ruining dishes, Barinov keeps a steady face in front of Katya.
+- 'Well, cooks, what are we going to feed the guests?' Barinov quizzes warmly as the beat lands, combining "povara" ("cook") and "gostey" ("guests") so the key meaning lands right away.
+- 'Louis wants to prepare a dessert with soap.' Max sets a measured rhythm beside Katya, putting "khochet" ("wants") alongside "prigotovit" ("to cook, to prepare") in a tight, everyday turn of phrase.
+- 'With laundry soap? Wonderful, Louis, wonderful!' Barinov presses pointedly without hesitation, joining "khozyaystvennym" ("laundry, household") to "mylom" ("with soap") so every word pulls its weight.
+- 'Fedya will serve fish with select black soil.' Max chooses a playful course as the scene unfolds, putting "podast" ("to submit, file") alongside "rybu" ("fish") in a tight, everyday turn of phrase.
+- 'Delightful, let them eat dirt today.' Barinov sets a wry view across the room, linking "prelestno" ("delightful"), "segodnya" ("today"), and "zemlyu" ("land") in one brisk exchange.
+- 'Lyova will put the meat in the oven for a long time.' Max presents a steady line for Katya, putting "postavit" ("to put, to place") alongside "myaso" ("meat") in a tight, everyday turn of phrase.
+- 'Lyova, think about it some more.' Barinov offers a candid mood in the scene, combining "yeshchyo" ("more, still") and "khorosho" ("good, fine") so the key meaning lands right away.
+- 'And where are you going right now, Senya?' Barinov wonders firmly with Max now, joining "seychas" ("now") to "kuda" ("where to") so every word pulls its weight.
+- 'To the restroom? Senya, that is overkill.' Max questions dryly to Barinov here, linking "tualet" ("toilet") directly with "uzhe" ("already, now"), since Russian drops "is" and "are" in the present.
+- 'Dad, we will prepare a molecular set with sauce.' Katya conveys a frank tack as the scene unfolds, anchoring the Russian line on "papa" ("Dad") and "prigotovim" ("will prepare") without extra filler.
+- 'Great idea, I completely approve.' Barinov presents a sharp tone at this moment, putting "otlichnaya" ("excellent") alongside "ideya" ("idea") in a tight, everyday turn of phrase.
+- 'Max has a real talent for ruining dishes.' Barinov holds a wry bearing at this moment, weaving "nastoyashchiy" ("real, genuine") together with "talant" ("talent") just the way native speakers do.

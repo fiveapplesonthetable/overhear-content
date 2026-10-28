@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I shaved the coconuts, what is next?' When Denis asks if he shaved the coconuts what is next, Max has to answer fast.
-- 'And now boil them.' Admitting that Denis should boil them shows Max being honest for a change.
-- 'What are we even cooking?' Wondering what they even cooking are cuts straight through the tension between Denis and Max. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Boiled coconuts, what is unclear?' Wondering if boiled coconuts what is unclear shows Max caught off guard.
-- 'Guys, there is good news.' Because there is good news, Nagiyev treats the matter as settled.
-- 'And there is bad news.' Explaining that there is bad news lays the cards on the table for Denis.
-- 'I do not love you very much.' Saying that he does not love Denis very much is how Nagiyev sets the tone with Denis.
-- 'We are not going home today.' Claiming that they are not going home today sounds confident, even if Denis has doubts.
-- 'We have an impromptu banquet.' Pointing out that they have an impromptu banquet gives Denis a sobering reality check. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We are working as a friendly team all night.' Nagiyev explains that they are working as a friendly team all night, keeping his voice calm and direct.
-- 'Why have you hung your noses?' When Nagiyev asks if why have Denis hung Denis's noses, Denis has to answer fast. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Everyone will get a good bonus!' Declaring that everyone will get a good bonus brings Nagiyev's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I shaved the coconuts, what is next?' Denis prompts lightly for Max's benefit, pairing "pobril" ("to shave") with "kokosy" ("what") to get the point across in plain spoken Russian.
+- 'And now boil them.' Max projects a frank approach beside Nagiyev, combining "teper" ("now") and "svari" ("to cook, boil") so the key meaning lands right away.
+- 'What are we even cooking?' Denis questions steadily without holding back, weaving "voobshche" ("at all") together with "gotovim" ("are preparing") just the way native speakers do.
+- 'Boiled coconuts, what is unclear?' Max questions bluntly at this point, leaning on "varyonyye" ("boiled") before closing the thought with "kokosy" ("what").
+- 'Guys, there is good news.' Nagiyev strikes an easygoing position during the exchange, building the phrase around "rebyata" ("the boys, the lads") and "yest" ("there is") for a crisp, natural delivery.
+- 'And there is bad news.' Nagiyev projects an unhurried rhythm right away, building the phrase around "yest" ("there is") and "plokhaya" ("bad") for a crisp, natural delivery.
+- 'I do not love you very much.' Nagiyev keeps a direct position in front of Denis, putting "ochen" ("very much") alongside "lyublyu" ("love") in a tight, everyday turn of phrase.
+- 'We are not going home today.' Nagiyev keeps a steady view beside Max, weaving "segodnya" ("today") together with "raskhodimsya" ("to disperse") just the way native speakers do.
+- 'We have an impromptu banquet.' Nagiyev maintains a lively tack beside Denis, leaning on "u nas" ("by us, at our place") and "improvizirovannyy" ("banquet") the way natural Russian does.
+- 'We are working as a friendly team all night.' Nagiyev maintains an earnest bearing in this beat, combining "rabotayem" ("we work, let's work") and "druzhnym" ("friendly, harmonious") so the key meaning lands right away.
+- 'Why have you hung your noses?' Nagiyev challenges plainly with Denis now, using "nosy" (from "nos", "nose") alongside "povesili" ("to noses") to shape the meaning.
+- 'Everyone will get a good bonus!' Nagiyev holds a thoughtful rhythm during the exchange, weaving "budet" ("will be") together with "khoroshaya" ("good") just the way native speakers do.

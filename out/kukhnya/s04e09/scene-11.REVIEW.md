@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, here is your coffee.' Because here is Fedya's coffee, Louis treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Just the way you like it.' Explaining that just the way Fedya likes it lays the cards on the table for Fedya. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Why are you standing there, go on.' Senya mentions that why are Fedya standing there go so Fedya sees what is at stake.
-- 'And why does it have to be me right away?' Asking why it have to be him right away cuts straight through the tension between Fedya and Louis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let's play rock, paper, scissors for it.' Proposing that they play rock paper scissors for it moves the conversation forward without extra drama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We already flipped a coin.' Between the coffee and the truth, Senya gives Fedya a quick, grounded response.
-- 'Maybe we should play the cities game too?' Fedya asks whether maybe they should play the cities game, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Go on, reach into his pocket.' Explaining that Fedya should go on reach into his pocket lays the cards on the table for Fedya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'It is very funny to you, is it?' Asking whether it is very funny to Louis is it puts Louis right on the defensive.
-- 'You had better help me instead.' Admitting that Louis had better help him instead shows Fedya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, what are you doing in here?' By asking what Fedya doing in here is, Louis presses Fedya for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I cannot get my hand back out.' Realizing that he cannot get his hand back out changes how Fedya handles the situation.
-- 'I am afraid that he will wake up right now.' Being afraid that he will wake up right now moves the conversation forward without extra drama.
-- 'He will not wake up, he is sleeping soundly.' Saying that he will not wake up he is sleeping soundly is how Senya sets the tone with Fedya.
+- 'German Mikhailovich, here is your coffee.' Louis shows a wry mood in their talk, weaving "kofe" ("of coffee") together with "german" ("German") just the way native speakers do.
+- 'Just the way you like it.' Louis keeps a calm tone for Senya, linking "kak" ("how"), "lyubite" ("to love, to like"), and "vsyo" ("everything") in one brisk exchange.
+- 'Why are you standing there, go on.' Senya shows a direct stance with Fedya, combining the everyday invitation "davay" ("come on, let us") with "stoish" ("stand") to give the line its natural spoken rhythm.
+- 'And why does it have to be me right away?' Fedya wonders warmly with Senya now, pairing "pochemu" ("why") with "srazu" ("at once") to get the point across in plain spoken Russian.
+- 'Let's play rock, paper, scissors for it.' Fedya displays an earnest attitude at this moment, weaving "davay" ("let's") together with "kamen" ("stone") just the way native speakers do.
+- 'We already flipped a coin.' Senya sets a wry line right away, pairing "uzhe" ("already, now") with "monetku" ("coin") to get the point across in plain spoken Russian.
+- 'Maybe we should play the cities game too?' Fedya tests promptly without hesitation, putting "mozhet" ("can") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'Go on, reach into his pocket.' Senya shows a serious posture in the conversation, linking "lez" ("poke nose, meddle"), "davay" ("let's"), and "karman" ("pocket") in one brisk exchange.
+- 'It is very funny to you, is it?' Fedya presses openly at this point, weaving "ochen" ("very much") together with "smeshno" ("ridiculous") just the way native speakers do.
+- 'You had better help me instead.' Fedya sets an easygoing line in the room, putting "pomogi" ("help") alongside "luchshe" ("better") in a tight, everyday turn of phrase.
+- 'Well, what are you doing in here?' Louis checks openly as they speak, linking "tut" ("here"), "delayete" ("are doing"), and "nu" ("oh, come on") in one brisk exchange.
+- 'I cannot get my hand back out.' Fedya offers a wry style in their talk, linking "ruku" ("hand"), "mogu" ("can"), and "dostat" ("to take out") in one brisk exchange.
+- 'I am afraid that he will wake up right now.' Fedya shares a serious approach on the spot, building the phrase around "boyus" ("am afraid") and "seychas" ("now") for a crisp, natural delivery.
+- 'He will not wake up, he is sleeping soundly.' Senya keeps a pointed note in the conversation, weaving "prosnyotsya" ("right") together with "spit" ("is sleeping") just the way native speakers do.

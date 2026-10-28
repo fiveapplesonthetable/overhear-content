@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Enjoy your meal, respected Gavriil Ilyich!' Nagiyev insists that Barinov should enjoy Barinov's meal respected Ilyich, leaving Barinov no room to argue.
-- 'I thank you, I will taste it with pleasure right now.' Claiming that he thanks Barinov he will taste it with pleasure right now sounds confident, even if Barinov has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Tell me, did Barinov definitely cook this dish?' Wondering if tell him did Barinov definitely cook this dish shows the guest caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You know, we would rather celebrate in another place.' Once they would rather celebrate in another place, the guest can finally tell Barinov what he means.
-- 'I beg you, this is just a small misunderstanding!' Once he begs Barinov this is just a small misunderstanding, Nagiyev makes sure Barinov hears every word. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Right now we will fix everything very quickly!' Insisting that right now they will fix everything very quickly shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'They will serve you a dish personally from Viktor Barinov.' Since they will serve Barinov a dish personally from Viktor Barinov, Nagiyev does not waste words on excuses.
-- 'I will personally oversee this strictly myself!' Declaring that he will personally oversee this strictly himself brings Nagiyev's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well then, Mister Know-It-All, chop the tomatoes and egg!' With the work and guest at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Judging by everything, I am the one who won our bet!' Saying that judging by everything he is the one who won their bet is how Barinov takes charge of the moment.
-- 'So put on an apron quickly and get to work!' Here putting on an apron quickly and get to work lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vitya, go to the kitchen quickly to save the banquet!' Going to the kitchen quickly to save the banquet shows Nagiyev is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Enjoy your meal, respected Gavriil Ilyich!' Nagiyev offers a frank bearing beside Barinov, using "priyatnogo" (from "priyatnyy", "pleasant") alongside "appetita" ("appetite") to shape the meaning.
+- 'I thank you, I will taste it with pleasure right now.' The guest chooses an unhurried position as they talk, leaning on "blagodaryu" ("to thank") before closing the thought with "seychas" ("now").
+- 'Tell me, did Barinov definitely cook this dish?' The guest tests naturally from the start, anchoring the Russian line on "skazhite" ("tell") and "blyudo" ("dish") without extra filler.
+- 'You know, we would rather celebrate in another place.' The guest offers a resolute footing as they talk, linking "znayete" ("know"), "luchshe" ("better"), and "otprazdnuyem" ("to celebrate") in one brisk exchange.
+- 'I beg you, this is just a small misunderstanding!' Nagiyev holds a natural tone during the exchange, linking "umolyayu" ("I beg"), "prosto" ("just"), and "malenkoye" ("small, little") in one brisk exchange.
+- 'Right now we will fix everything very quickly!' Nagiyev projects an earnest rhythm in front of the guest, building the phrase around "seychas" ("now") and "ochen" ("very much") for a crisp, natural delivery.
+- 'They will serve you a dish personally from Viktor Barinov.' Nagiyev conveys a warm note in the conversation, building the phrase around "podadut" ("will serve") and "blyudo" ("dish") for a crisp, natural delivery.
+- 'I will personally oversee this strictly myself!' Nagiyev picks a warm position in the scene, weaving "lichno" ("personally") together with "strogo" ("sternly, strictly") just the way native speakers do.
+- 'Well then, Mister Know-It-All, chop the tomatoes and egg!' Barinov presents an earnest footing in the conversation, building the phrase around "gospodin" ("Mr, sir") and "vseznayka" ("chop") for a crisp, natural delivery.
+- 'Judging by everything, I am the one who won our bet!' Barinov conveys a thoughtful course during the exchange, anchoring the Russian line on "sudya" ("judging") and "spor" ("bet, wager") without extra filler.
+- 'So put on an apron quickly and get to work!' Barinov holds a natural note beside the guest, leaning on "bystro" ("quickly") before closing the thought with "nadevay" ("put on").
+- 'Vitya, go to the kitchen quickly to save the banquet!' Nagiyev adopts a thoughtful tack toward the guest, putting "idi" ("go") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.

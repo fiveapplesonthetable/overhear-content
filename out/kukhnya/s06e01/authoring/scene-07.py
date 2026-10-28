@@ -7,14 +7,14 @@ SCENE = 7
 TITLE = 'Новый пианист Денис  (The New Pianist Denis)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'denis': 'Денис', 'eleonora': 'Элеонора'}
+LABELS = {'denis': 'Денис', 'eleonora': 'Элеонора', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.01'
 SOURCE_FILE = 'sources/kukhnya/s06/e01.ru.srt'
 INTRO = "Right after promising Katya she will never meddle in her love life again, Eleonora spots Katya's ex-boyfriend Denis arriving as Nagiyev's replacement pianist and secretly orders Mikhail to get rid of him."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
 OUTRO = 'While Denis wonders if he still has a gig for the evening, Barinov turns the cookie crisis over to pastry chef Louis. Until next time!'
-CLOSING = ('barinov', 'Увидимся!')
+CLOSING = ('nagiyev', 'Увидимся!')
 STORY = [
     ('eleonora', 'Я никогда больше не буду лезть в твою жизнь.', 'I will never meddle in your life again.', [(106, 'Я никогда больше не буду лезть')], 'adapted'),
     ('denis', 'Здравствуйте, рад вас видеть.', 'Hello, glad to see you.', [(115, 'Здравствуйте')], 'adapted'),
@@ -24,22 +24,22 @@ STORY = [
     ('eleonora', 'Пусть он играет в другом месте.', 'Let him play in some other place.', [(120, 'играет в каком-нибудь другом месте')], 'adapted'),
     ('denis', 'Привет, Катя.', 'Hi, Katya.', [(123, 'Привет')], 'adapted'),
     ('denis', 'У вас тут текучка большая.', 'You have high staff turnover here.', [(125, 'У вас тут текучка')], 'adapted'),
-    ('barinov', 'Ведь это не похоже на мое печенье.', 'After all, this does not look like my cookies.', [(126, 'Ведь это не похоже на мое печенье')], 'exact'),
-    ('barinov', 'Я все-таки с острыми предметами работаю.', 'After all, I work with sharp objects.', [(127, 'я все-таки с острыми предметами работаю')], 'adapted'),
+    ('nagiyev', 'Ведь это не похоже на мое печенье.', 'After all, this does not look like my cookies.', [(126, 'Ведь это не похоже на мое печенье')], 'exact'),
+    ('nagiyev', 'Я все-таки с острыми предметами работаю.', 'After all, I work with sharp objects.', [(127, 'я все-таки с острыми предметами работаю')], 'adapted'),
     ('eleonora', 'Поздравляю, а мне приходится работать с тупыми.', 'Congratulations, while I have to work with dull ones.', [(128, 'Поздравляю, а мне приходится работать с тупыми')], 'exact'),
-    ('barinov', 'Сейчас сделаем новое печенье.', 'We will make new cookies right now.', [(126, 'мое печенье')], 'adapted'),
+    ('nagiyev', 'Сейчас сделаем новое печенье.', 'We will make new cookies right now.', [(126, 'мое печенье')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'I will never meddle in your life again.' Even though she will never meddle in Barinov's life again, Eleonora keeps a steady face in front of Barinov."),
-    (1, None, '\'Hello, glad to see you.\' Around the truth and wedding, Denis sets a calm, everyday tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (2, None, '\'Dima, may I have you for a moment?\' Eleonora asks whether may she has Barinov for a moment, refusing to let the point slide. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (3, None, "'He is not going to play for us.' Saying that he is not going to play for them is how Eleonora sets the tone with Barinov."),
-    (4, None, '\'Why are you freaking out, he is not my type.\' Adding that why are Barinov freaking out he is not her type fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (5, None, "'Let him play in some other place.' Because Barinov should let him play in some other place, Eleonora treats the matter as settled."),
-    (6, None, "'Hi, Katya.' Between the truth and the wedding, Denis gives Barinov a quick, grounded response."),
-    (7, None, '\'You have high staff turnover here.\' Mentioning that Barinov has high staff turnover here moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (8, None, '\'After all, this does not look like my cookies.\' Saying that after all this does not look like his cookies is how Barinov sets the tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (9, None, "'After all, I work with sharp objects.' Because after all he works with sharp objects, Barinov treats the matter as settled."),
-    (10, None, "'Congratulations, while I have to work with dull ones.' Explaining that congratulations while she has to work with dull ones lays the cards on the table for Barinov."),
-    (11, None, "'We will make new cookies right now.' Barinov mentions that they will make new cookies right now so Denis sees what is at stake."),
+    (0, None, '\'I will never meddle in your life again.\' Eleonora shows a resolute attitude during the exchange, linking "nikogda" ("never"), "bolshe" ("more"), and "budu" ("will be") in one brisk exchange.'),
+    (1, None, '\'Hello, glad to see you.\' Denis conveys a wry footing during the exchange, combining "zdravstvuyte" ("hello") and "rad" ("glad") so the key meaning lands right away.'),
+    (2, None, '\'Dima, may I have you for a moment?\' Eleonora wonders steadily in the room, combining "mozhno" ("may, can") and "minutochku" ("a minute") so the key meaning lands right away.'),
+    (3, None, '\'He is not going to play for us.\' Eleonora keeps a sharp line during the exchange, leaning on "igrat" ("to play") before closing the thought with "budet" ("will be").'),
+    (4, None, '\'Why are you freaking out, he is not my type.\' Eleonora shows a natural manner in front of Denis, weaving "psikhuyesh" ("freak out") together with "vkuse" ("taste") just the way native speakers do.'),
+    (5, None, '\'Let him play in some other place.\' Eleonora brings a calm manner on the spot, putting "igrayet" ("plays") alongside "drugom" ("different, another") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Hi, Katya.\' Denis projects an unhurried footing in their talk, combining "privet" ("hi") and "katya" ("Katya") so the key meaning lands right away.'),
+    (7, None, '\'You have high staff turnover here.\' Denis establishes a resolute position right away, weaving "tut" ("here") together with "tekuchka" ("staff turnover") just the way native speakers do.'),
+    (8, None, '\'After all, this does not look like my cookies.\' Nagiyev picks a sharp tone with Denis, weaving "pokhozhe" ("like, similar") together with "pechenye" ("cookies, pastry") just the way native speakers do.'),
+    (9, None, '\'After all, I work with sharp objects.\' Nagiyev sustains a serious angle beside Eleonora, weaving "ostrymi" ("sharp") together with "predmetami" ("objects") just the way native speakers do.'),
+    (10, None, '\'Congratulations, while I have to work with dull ones.\' Eleonora projects an easygoing direction at this moment, combining "pozdravlyayu" ("congratulations") and "prikhoditsya" ("to have to") so the key meaning lands right away.'),
+    (11, None, '\'We will make new cookies right now.\' Nagiyev establishes a sharp bearing without hesitation, combining "seychas" ("now") and "sdelayem" ("we\'ll do") so the key meaning lands right away.'),
 ]

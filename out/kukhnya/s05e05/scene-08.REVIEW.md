@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A deep thought.' Pointing out that a deep thought gives Elena a sobering reality check.
-- 'And this means brightly and colorfully.' Barinov explains that this means brightly and colorfully, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'No, black and white.' Between the moment and the room, Elena gives Barinov a quick, grounded response.
-- 'Lena, and who is the author of all these masterpieces?' Asking whether someone and who is the author of all these masterpieces puts Elena right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Did they not let him out of the asylum?' Asking whether they not let him out of the asylum cuts straight through the tension between Barinov and Elena. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'By the way, it is not a he, but a she.' Admitting that it is not a he but a she shows Elena being honest for a change.
-- 'Aha, then everything is clear.' Saying that Aha then everything is clear is how Barinov sets the tone with Elena.
-- 'Lots of free time, so she busies herself with nonsense.' With the conversation and truth in play, Barinov keeps this short reply brisk and direct.
-- 'I am very pleased that you like my art.' Even though she is very pleased that Barinov likes her art, Eleonora keeps a steady face in front of Barinov.
-- 'I am glad that you managed to make it out here.' Pointing out that she is glad that Barinov managed to make it out here gives Barinov a sobering reality check. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Lena, what are we doing here?' Questioning whether someone what are they doing here is how Barinov tests Elena's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We are building a good relationship with your boss.' Mentioning that they are building a good relationship with Barinov's boss moves the talk in a new direction.
+- 'A deep thought.' Barinov picks a frank manner with Elena, pairing "glubokaya" ("deep, profound") with "mysl" ("thought, idea") to get the point across in plain spoken Russian.
+- 'And this means brightly and colorfully.' Barinov conveys a resolute footing in front of Eleonora, weaving "znachit" ("then, so") together with "yarko" ("brightly") just the way native speakers do.
+- 'No, black and white.' Elena displays an unhurried line in front of Barinov, anchoring the Russian line on "chyornoye" ("black") and "beloye" ("white") without extra filler.
+- 'Lena, and who is the author of all these masterpieces?' Barinov questions briskly beside Eleonora, linking "avtor" ("author, creator"), "shedevrov" ("masterpieces"), and "lena" ("Lena") in one brisk exchange.
+- 'Did they not let him out of the asylum?' Barinov asks candidly to keep things clear, combining "psikhushki" ("mental hospital") and "otpustili" ("let go") so the key meaning lands right away.
+- 'By the way, it is not a he, but a she.' Elena conveys a wry attitude as the scene unfolds, building the phrase around "kstati" ("by the way") and "eto" ("this") for a crisp, natural delivery.
+- 'Aha, then everything is clear.' Barinov sets a lively tempo as they talk, anchoring the Russian line on "togda" ("back then") and "ponyatno" ("clear") without extra filler.
+- 'Lots of free time, so she busies herself with nonsense.' Barinov favors a brisk manner in the room, linking "mnogo" ("a lot"), "svobodnogo" ("free"), and "vremeni" ("time") in one brisk exchange.
+- 'I am very pleased that you like my art.' Eleonora chooses a natural bearing in the scene, anchoring the Russian line on "ochen" ("very much") and "priyatno" ("pleasant") without extra filler.
+- 'I am glad that you managed to make it out here.' Eleonora presents a pointed mood across the room, leaning on "rada" ("glad") before closing the thought with "udalos" ("succeeded").
+- 'Lena, what are we doing here?' Barinov challenges promptly to Elena here, joining "zdes" ("here") to "delayem" ("are doing") so every word pulls its weight.
+- 'We are building a good relationship with your boss.' Elena offers a firm stance toward Eleonora, linking "nalazhivayem" ("are building"), "otnosheniya" ("relations, relationship"), and "nachalnitsey" ("female boss") in one brisk exchange.

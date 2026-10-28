@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, he found her all by himself!' Kostya declares that he found her all by himself as the tension in the room peaks.
-- 'You wanted to introduce him to someone yourself.' Pointing out that Katya wanted to introduce him to someone themselves gives Katya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why must everyone live your way?' Asking whether why must everyone live Katya's way puts Katya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Guys, please do not quarrel because of me.' Realizing that do not quarrel changes how Nastya handles the situation.
-- 'Dad, you have nothing to do with this at all.' Noting that dad Katya has nothing to do with this at all keeps Kostya's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not meddle in other people's business.' Even though do not meddle in other people business, Kostya keeps a steady face in front of Katya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I do not meddle in other people's business at all!' Saying that she does not meddle in other people business at all is how Nastya takes charge of the moment.
-- 'Maybe we should order some good champagne?' Asking whether maybe they should order some good champagne puts Kostya right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What is this new molecular cuisine dish?' Here asking what this new molecular cuisine dish is shows Katya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Our chef Yekaterina prepares this dish.' Adding that their prepares this dish fills in the missing piece for Kostya.
-- 'I do not advise it, it takes a very long time to prepare.' Saying that he does not advise it it takes a very long time to prepare is how Kostya sets the tone with Katya.
-- 'It is decided, we will order the molecular cuisine!' Declaring that it is decided they will order the molecular cuisine brings Katya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Nastya, he found her all by himself!' Kostya keeps a measured course in front of Katya, joining "nashyol" ("found") to "nastya" ("Nastya") so every word pulls its weight.
+- 'You wanted to introduce him to someone yourself.' Kostya shares a natural stance with Nastya, leaning on "khotela" ("wanted, meant") before closing the thought with "poznakomit" ("to introduce").
+- 'Why must everyone live your way?' Kostya questions candidly toward Katya here, combining "pochemu" ("why") and "dolzhny" ("must, should") so the key meaning lands right away.
+- 'Guys, please do not quarrel because of me.' Nastya favors an unhurried tempo on the spot, joining "rebyata" ("the boys, the lads") to "ssortes" ("quarrel, argue") so every word pulls its weight.
+- 'Dad, you have nothing to do with this at all.' Kostya shares a candid view as the scene unfolds, leaning on "papa" ("Dad") before closing the thought with "tut" ("here").
+- 'Do not meddle in other people's business.' Kostya shows an earnest tack with Nastya, putting "nado" ("it is necessary") alongside "lezt" ("climb, meddle") in a tight, everyday turn of phrase.
+- 'I do not meddle in other people's business at all!' Nastya displays a calm tempo for Katya, putting "chuzhiye" ("someone else's") alongside "dela" ("things, affairs") in a tight, everyday turn of phrase.
+- 'Maybe we should order some good champagne?' Katya inquires decisively in the room, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
+- 'What is this new molecular cuisine dish?' Katya asks wryly for Kostya's benefit, pairing "novoye" ("new") with "blyudo" ("dish") to get the point across in plain spoken Russian.
+- 'Our chef Yekaterina prepares this dish.' Katya strikes a brisk approach at this moment, leaning on "blyudo" ("dish") before closing the thought with "gotovit" ("cooks").
+- 'I do not advise it, it takes a very long time to prepare.' Kostya projects a natural course for Katya, pairing "sovetuyu" ("advise") with "gotovitsya" ("is preparing") to get the point across in plain spoken Russian.
+- 'It is decided, we will order the molecular cuisine!' Katya keeps a steady note in the room, weaving "resheno" ("decided, settled") together with "budem" ("will") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, I thought very carefully about everything.' Once she thought very carefully about everything, Katya can finally tell Nikita what she means.
-- 'I agree with your proposal from yesterday.' Katya mentions that she agrees with Nikita's proposal from yesterday so Nikita sees what is at stake.
-- 'I agree to marry you.' Mentioning that she agrees to marry Nikita moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Katya, are you telling me the truth right now?' Checking whether Katya telling him the truth right now is how Nikita puts Katya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, this is truly the honest truth.' Mentioning that this is truly the honest truth moves the talk in a new direction.
-- 'Listen, I want to share my joy with you.' Wanting to share his joy with Katya is how Nikita lays out the situation for Katya. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Katya agreed to become my beloved wife.' With the plan and point in play, Nikita keeps this short reply brisk and direct.
-- 'Please, stop, people are looking at us.' Here telling Nikita to stop people are looking at them sets up the next turn in their exchange.
-- 'Let all the people look right now.' Since Katya should let all the people look right now, Nikita does not waste words on excuses.
-- 'Let everyone know how happy I am.' Telling Katya to let everyone know how happy he is is how Nikita lays out the situation for Katya.
-- 'Today I am truly proud and happy.' Pointing out that today he is truly proud and happy gives Katya a sobering reality check.
-- 'I promise that I will be the best husband.' By promising that he will be the best husband, Nikita keeps his side of the story grounded.
+- 'Nikita, I thought very carefully about everything.' Katya strikes an emphatic footing as they talk, putting "ochen" ("very much") alongside "khorosho" ("good, fine") in a tight, everyday turn of phrase.
+- 'I agree with your proposal from yesterday.' Katya maintains a warm view at this moment, pairing "soglasna" ("agree") with "vcherashnim" ("yesterday's") to get the point across in plain spoken Russian.
+- 'I agree to marry you.' Katya displays an easygoing style during the exchange, leaning on "soglasna" ("agree") before closing the thought with "vyyti" ("to marry").
+- 'Katya, are you telling me the truth right now?' Nikita probes decisively in their exchange, linking "govorish" ("you say"), "seychas" ("now"), and "pravdu" ("truth") in one brisk exchange.
+- 'Yes, this is truly the honest truth.' Katya conveys a frank rhythm at this moment, linking "deystvitelno" ("really, indeed") directly with "chistaya" ("clean"), since Russian drops "is" and "are" in the present.
+- 'Listen, I want to share my joy with you.' Nikita sustains a brisk tack beside Katya, pairing "poslushayte" ("listen") with "khochu" ("want") to get the point across in plain spoken Russian.
+- 'Katya agreed to become my beloved wife.' Nikita picks a direct attitude during the exchange, using "soglasilas" (from "soglasitsya", "to agree") alongside "stat" ("to become") to shape the meaning.
+- 'Please, stop, people are looking at us.' Katya maintains a grounded note beside Nikita, combining "khvatit" ("enough") and "lyudi" ("people") so the key meaning lands right away.
+- 'Let all the people look right now.' Nikita strikes a serious mood in the conversation, pairing "lyudi" ("people") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Let everyone know how happy I am.' Nikita sustains a pointed approach straight away, building the phrase around "znayut" ("know") and "kak" ("how") for a crisp, natural delivery.
+- 'Today I am truly proud and happy.' Nikita projects a candid bearing across the room, weaving "segodnya" ("today") together with "deystvitelno" ("really, indeed") just the way native speakers do.
+- 'I promise that I will be the best husband.' Nikita holds a resolute posture in the scene, weaving "obeshchayu" ("promise") together with "budu" ("will be") just the way native speakers do.

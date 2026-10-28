@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you be more careful?' By checking whether Barinov is more careful, Eleonora presses Barinov for a straight answer. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'What do you mean forgive me? Are you going to wash my trousers?' Asking what Barinov means forgive cuts straight through the tension between Eleonora and Barinov.
-- 'Well, if you want, I will wash them. Take them off!' Denis declares that if Barinov wants he will wash them as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello, I would like to work in your restaurant.' Because he would like to work in Barinov's restaurant, Denis treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Here is my resume.' Explaining that here is his resume lays the cards on the table for Barinov.
-- 'I am very sorry, but you do not suit us.' Eleonora mentions that she is very sorry but Barinov does not suit them so Barinov sees what is at stake. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Only I decide who works in my kitchen!' Declaring that only he decides who works in his kitchen brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The guy's resume is decent.' Pointing out that the guy resume is decent gives Denis a sobering reality check.
-- 'You did not even read it! He will not work here.' Saying that Barinov did not even read it is how Eleonora takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You are hired! Congratulations, let us go.' Barinov declares that Denis is hired as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fine, then let him cook gratin and quail for me.' Noting that fine then let him cook gratin and quail keeps Eleonora's side of the story simple and clear.
-- 'And bring it to me personally! We will see what kind of cook he is.' Declaring that Barinov should bring it to her personally brings Eleonora's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Could you be more careful?' Eleonora questions openly to Barinov here, joining "mozhno" ("may, can") to "poakkuratneye" ("more carefully") so every word pulls its weight.
+- 'What do you mean forgive me? Are you going to wash my trousers?' Eleonora probes warmly for Denis's benefit, putting "prostite" ("excuse me") alongside "bryuki" ("trousers, pants") in a tight, everyday turn of phrase.
+- 'Well, if you want, I will wash them. Take them off!' Denis picks a calm angle in this beat, pairing "khotite" ("want") with "postirayu" ("will wash") to get the point across in plain spoken Russian.
+- 'Hello, I would like to work in your restaurant.' Denis favors a playful view on the spot, linking "zdravstvuyte" ("hello"), "khotel" ("wanted"), and "rabotat" ("to work") in one brisk exchange.
+- 'Here is my resume.' Denis brings a calm style for Barinov, placing "rezyume" ("résumé") straight beside "vot" ("there, here") with no word for "to be" needed.
+- 'I am very sorry, but you do not suit us.' Eleonora offers a sharp tone in the scene, combining "ochen" ("very much") and "zhal" ("it is a pity") so the key meaning lands right away.
+- 'Only I decide who works in my kitchen!' Barinov shows a candid tack as they talk, joining "tolko" ("only") to "reshayu" ("decide") so every word pulls its weight.
+- 'The guy's resume is decent.' Barinov shows a pointed stance during the exchange, weaving "rezyume" ("résumé") together with "parnya" ("boyfriend") just the way native speakers do.
+- 'You did not even read it! He will not work here.' Eleonora shares an honest tempo in this beat, combining "chital" ("read") and "budet" ("will be") so the key meaning lands right away.
+- 'You are hired! Congratulations, let us go.' Barinov chooses a steady view straight away, leaning on "prinyat" ("accepted") before closing the thought with "pozdravlyayu" ("congratulations").
+- 'Fine, then let him cook gratin and quail for me.' Eleonora strikes a calm note beside Barinov, leaning on "togda" ("back then") before closing the thought with "prigotovit" ("makes, cooks").
+- 'And bring it to me personally! We will see what kind of cook he is.' Eleonora establishes a warm style in this beat, leaning on "lichno" ("personally") before closing the thought with "prinesyot" ("will bring").

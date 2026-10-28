@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So how did it go?' By wondering how it go, Max presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It did not work out.' Explaining that it did not work out lays the cards on the table for Max.
-- 'Oh, good grief, do not worry about it.' Max mentions that good grief do not worry about it so Kostya sees what is at stake.
-- 'At the end of the day.' Over the joke and the moment, Kostya answers Max without a second thought.
-- 'You watch football on TV, right?' Questioning whether Kostya watches football on right is how Max tests Kostya's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'They advertise plenty of remedies during the commercial breaks.' Kostya explains that they advertise plenty of remedies during the commercial breaks, keeping his voice calm and direct.
-- 'I do not need pills!' Once he does not need pills, Max makes sure Kostya hears every word.
-- 'I told you she would never agree to do it here.' Noting that he told Max she would never agree to do it here keeps Kostya's side of the story simple and clear.
-- 'What about inviting her to your home?' With the shift and work hanging in the air, Max puts Kostya on the spot.
-- 'Send your mother where?' With the moment and idea hanging in the air, Kostya puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'To the cinema or the ballet, there you go.' Saying that to the cinema or the ballet there Kostya goes is how Max sets the tone with Kostya.
-- 'For the entire night?' With the moment and apartment hanging in the air, Kostya puts Max on the spot.
-- 'Could I please leave a little early today?' By asking whether he pleases leave a little early today, Max presses Kostya for a straight answer. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'So how did it go?' Max prompts frankly on the spot, putting "nu" ("oh, come on") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'It did not work out.' Kostya adopts a wry rhythm beside Max, pairing "poluchilos" ("worked out") with "ne" ("not") to get the point across in plain spoken Russian.
+- 'Oh, good grief, do not worry about it.' Max projects a measured course at this moment, putting "bog" ("God") alongside "perezhivay" ("worry") in a tight, everyday turn of phrase.
+- 'At the end of the day.' Kostya favors a thoughtful approach for Max, using "kontse" (from "konets", "end") alongside "kontsov" ("of ends") to shape the meaning.
+- 'You watch football on TV, right?' Max presses briskly right away, building the phrase around "futbol" ("football") and "smotrish" ("are staring") for a crisp, natural delivery.
+- 'They advertise plenty of remedies during the commercial breaks.' Kostya brings a natural posture in the room, anchoring the Russian line on "tam" ("there") and "pereryvakh" ("break, interval") without extra filler.
+- 'I do not need pills!' Max conveys a frank approach beside Kostya, using "tabletki" (from "tabletka", "pill, tablet") alongside "nuzhny" ("needed") to shape the meaning.
+- 'I told you she would never agree to do it here.' Kostya sets a grounded note as they talk, pairing "zdes" ("here") with "soglasitsya" ("to agree") to get the point across in plain spoken Russian.
+- 'What about inviting her to your home?' Max asks honestly beside Kostya, combining "domoy" ("home") and "priglasit" ("to invite") so the key meaning lands right away.
+- 'Send your mother where?' Kostya asks honestly without a pause, building the phrase around "kuda" ("where to") and "otpravit" ("to send") for a crisp, natural delivery.
+- 'To the cinema or the ballet, there you go.' Max conveys a pointed line in the room, anchoring the Russian line on "kino" ("cinema, movies") and "balet" ("ballet") without extra filler.
+- 'For the entire night?' Kostya inquires earnestly across the room, putting "noch" ("night") alongside "na" ("on, onto") in a tight, everyday turn of phrase.
+- 'Could I please leave a little early today?' Max challenges warmly without a pause, joining "mozhno" ("may, can") to "segodnya" ("today") so every word pulls its weight.

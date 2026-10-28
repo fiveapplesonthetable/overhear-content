@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, forgive me once again.' With the promise and room in play, Max keeps this short reply brisk and direct.
-- 'Are you still here?' By asking whether Barinov still here, Vika presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have not talked to her yet.' Saying that he has not talked to her yet is how Barinov sets the tone with Max.
-- 'I am warning you: step back!' Vika insists that she is warning Barinov steps back, leaving Barinov no room to argue.
-- 'Chef, why did you not turn back?' Here asking why Barinov not turn back shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I always used to do that.' Mentioning that he always used to do moves the talk in a new direction.
-- 'Now the time has come to answer for my actions.' Barinov reminds Max that the time has come to answer for his actions before the moment passes.
-- 'Before you and our daughter!' With the truth and promise at stake, Max reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vika, do whatever you want, I will still be right beside you.' Explaining that do whatever Barinov wants he will still be right beside Barinov lays the cards on the table for Barinov.
-- 'Because I love you both.' Max mentions that because he loves Barinov both so Barinov sees what is at stake.
-- 'There is a chance that everything will work out!' Declaring that there is a chance that everything will work out brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hang on, chef, we will pull you out right now!' Here telling Barinov to hang on they will pull Barinov out right now lets Max's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Vika, forgive me once again.' Max conveys a natural style toward Barinov, linking "yeshchyo" ("more, still"), "raz" ("time, once"), and "prosti" ("sorry, forgive me") in one brisk exchange.
+- 'Are you still here?' Vika probes openly to Max here, pairing "yeshchyo" ("more, still") with "zdes" ("here") to get the point across in plain spoken Russian.
+- 'I have not talked to her yet.' Barinov shows a resolute bearing in the conversation, leaning on "yeshchyo" ("more, still") before closing the thought with "poka" ("bye").
+- 'I am warning you: step back!' Vika takes a grounded tack straight away, building the phrase around "preduprezhdayu" ("to warn") and "otoydi" ("to step back") for a crisp, natural delivery.
+- 'Chef, why did you not turn back?' Max quizzes calmly at this point, leaning on "pochemu" ("why") before closing the thought with "vernulsya" ("returned").
+- 'I always used to do that.' Barinov favors a grounded note as they talk, combining "vsegda" ("always") and "delal" ("were doing") so the key meaning lands right away.
+- 'Now the time has come to answer for my actions.' Barinov keeps a sharp view beside Max, anchoring the Russian line on "teper" ("now") and "prishlo" ("to come, to arrive") without extra filler.
+- 'Before you and our daughter!' Max favors a candid tone in their talk, using "docheryu" (from "doch", "daughter") alongside "pered" ("in front of") to shape the meaning.
+- 'Vika, do whatever you want, I will still be right beside you.' Max maintains a direct posture at once, leaning on "delay" ("do") before closing the thought with "khochesh" ("do you want").
+- 'Because I love you both.' Max chooses a natural style at this moment, linking "potomu" ("because"), "lyublyu" ("love"), and "chto" ("what") in one brisk exchange.
+- 'There is a chance that everything will work out!' Barinov picks a wry style for Max, putting "yest" ("there is") alongside "shans" ("chance") in a tight, everyday turn of phrase.
+- 'Hang on, chef, we will pull you out right now!' Max brings a sharp tempo across the room, building the phrase around "derzhites" ("stick") and "seychas" ("now") for a crisp, natural delivery.

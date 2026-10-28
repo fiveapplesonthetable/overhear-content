@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are fresh chestnuts and pigeons for the chef.' Even though here are fresh chestnuts and pigeons, Timur keeps a steady face in front of Denis.
-- 'Do guests really eat pigeons in our restaurant?' By asking whether guests really eat pigeons in their restaurant, Denis presses German for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Of course they eat them, after all it is expensive French game!' Declaring that they eat them after all it is expensive French game brings Timur's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'These chestnuts surprise me much more.' With the plan and kitchen in play, Timur keeps this short reply brisk and direct.
-- 'Why people eat them, I do not know.' Adding that why people eat them he does not know fills in the missing piece for Denis.
-- 'All right, fresh herbs, chestnuts, chicken, and pigeons.' Between the plan and the moment, Denis gives German a quick, grounded response.
-- 'And here are tasty little bones for the kind dog.' Since here are tasty little bones for the kind dog, Denis does not waste words on excuses.
-- 'Eat calmly while I carry the crates inside.' Saying that German should eat calmly while he carries the crates inside is how Denis sets the tone with German.
-- 'Shoo from here, bad dog, shoo!' With the situation and conversation at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No, just do not touch those expensive pigeons!' Denis insists that just do not touch those expensive pigeons, leaving German no room to argue.
-- 'Please give me back at least one pigeon!' By telling German to give him back at least one pigeon, Denis raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Denis, where are my fresh groceries from the storeroom?' Asking where his fresh groceries from the storeroom are is how German puts Denis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Here are fresh chestnuts and pigeons for the chef.' Timur establishes a sharp view in the conversation, linking "svezhiye" ("fresh"), "kashtany" ("pigeons"), and "golubi" ("chef") in one brisk exchange.
+- 'Do guests really eat pigeons in our restaurant?' Denis probes earnestly in this moment, putting "restorane" ("restaurant") alongside "gosti" ("visitors, guests") in a tight, everyday turn of phrase.
+- 'Of course they eat them, after all it is expensive French game!' Timur shares an unhurried tone beside Denis, building the phrase around "konechno" ("of course") and "yedyat" ("eat") for a crisp, natural delivery.
+- 'These chestnuts surprise me much more.' Timur holds an earnest stance for German, pairing "kashtany" ("pigeons") with "namnogo" ("much, far") to get the point across in plain spoken Russian.
+- 'Why people eat them, I do not know.' Timur keeps a firm style beside Denis, pairing "zachem" ("what for") with "lyudi" ("people") to get the point across in plain spoken Russian.
+- 'All right, fresh herbs, chestnuts, chicken, and pigeons.' Denis takes a direct approach across the room, joining "svezhaya" ("fresh") to "zelen" ("greens, fresh herbs") so every word pulls its weight.
+- 'And here are tasty little bones for the kind dog.' Denis favors a grounded tack in front of German, putting "vkusnyye" ("tasty, delicious") alongside "kostochki" ("kind") in a tight, everyday turn of phrase.
+- 'Eat calmly while I carry the crates inside.' Denis holds a serious stance in their talk, anchoring the Russian line on "pokushay" ("eat") and "spokoyno" ("calmly") without extra filler.
+- 'Shoo from here, bad dog, shoo!' Denis picks a resolute posture in this beat, joining "brys" ("shoo") to "otsyuda" ("from here") so every word pulls its weight.
+- 'No, just do not touch those expensive pigeons!' Denis sustains a steady approach at once, linking "tolko" ("only"), "trogay" ("touch"), and "dorogikh" ("expensive") in one brisk exchange.
+- 'Please give me back at least one pigeon!' Denis establishes a steady style in this beat, putting "otday" ("give back") alongside "golubya" ("pigeon") in a tight, everyday turn of phrase.
+- 'Denis, where are my fresh groceries from the storeroom?' German prompts calmly toward Timur here, pairing "gde" ("where") with "svezhiye" ("fresh") to get the point across in plain spoken Russian.

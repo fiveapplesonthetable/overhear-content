@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, everyone into the restaurant, we are cooking lunch!' Insisting that Alright everyone into the restaurant they are cooking lunch shows Barinov is not backing down.
-- 'That was not hard.' Explaining that that was not hard lays the cards on the table for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'We agreed to play to ten, so we will continue after lunch.' Denis mentions that they agreed to play to ten so they will continue after lunch so Barinov sees what is at stake.
-- 'Why prolong your disgrace?' Over the point and the match, Denis presses Barinov for a straight answer.
-- 'Well, are you ready?' Checking whether Barinov ready cuts straight through the tension between Nagiyev and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Wait, where is the money?' Asking where the money is is how Barinov puts Denis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He learns fast, smart boy.' Realizing that he learns fast smart boy changes how Nagiyev handles the situation.
-- 'We have not filmed a thing yet, and he is already asking for money.' Noting that they have not filmed a thing yet and he is already asking for money keeps Nagiyev's side of the story simple and clear. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'The pistol, where is his pistol?' Questioning whether the pistol where is his pistol is how Nagiyev tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We are ready, let's film!' Declaring that they are ready let them film brings Nagiyev's temper right to the surface.
-- 'Camera, rolling, let's go!' Nagiyev insists that camera rolling let them go, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Scene nine, take one, action!' Over the truth and the match, Nagiyev lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Alright, everyone into the restaurant, we are cooking lunch!' Barinov sustains a playful stance toward Denis, leaning on "restoran" ("restaurant") before closing the thought with "gotovim" ("are preparing").
+- 'That was not hard.' Denis holds a resolute position at once, weaving "bylo" ("was") together with "neslozhno" ("not hard, easy") just the way native speakers do.
+- 'We agreed to play to ten, so we will continue after lunch.' Denis offers an honest footing during the exchange, leaning on "dogovarivalis" ("had an agreement") before closing the thought with "obeda" ("lunch").
+- 'Why prolong your disgrace?' Denis presses boldly from the start, leaning on "zachem" ("what for") before closing the thought with "prodolzhat" ("to continue").
+- 'Well, are you ready?' Nagiyev quizzes candidly in the room, using "gotovy" (from "gotovyy", "ready") alongside "nu" ("oh, come on") to shape the meaning.
+- 'Wait, where is the money?' Barinov presses briskly during the talk, combining "podozhdi" ("wait") and "gde" ("where") so the key meaning lands right away.
+- 'He learns fast, smart boy.' Nagiyev sets a serious footing at once, putting "bystro" ("quickly") alongside "uchitsya" ("to study") in a tight, everyday turn of phrase.
+- 'We have not filmed a thing yet, and he is already asking for money.' Nagiyev shares a brisk line during the exchange, pairing "yeshche" ("still") with "snyali" ("fire, remove") to get the point across in plain spoken Russian.
+- 'The pistol, where is his pistol?' Nagiyev prompts lightly for Barinov's benefit, combining "pistolet" ("pistol") and "gde" ("where") so the key meaning lands right away.
+- 'We are ready, let's film!' Nagiyev sustains an emphatic manner across the room, leaning on "gotovy" ("ready") before closing the thought with "davayte" ("let's").
+- 'Camera, rolling, let's go!' Nagiyev conveys a warm rhythm straight away, building the phrase around "kamera" ("camera") and "motor" ("rolling, motor") for a crisp, natural delivery.
+- 'Scene nine, take one, action!' Nagiyev takes a brisk angle straight away, linking "stsena" ("stage, scene"), "dubl" ("take"), and "nachali" ("started") in one brisk exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You did not see me!' Senya insists that Fedya did not see him, leaving Fedya no room to argue.
-- 'Who are you hiding from?' Asking who Lyova hiding is is how Fedya puts Lyova on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Wait, what is going on over there?' Here asking what going on over there is shows Lyova looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fire, there is a fire!' Firing there is a fire is Senya's blunt reaction in front of Fedya.
-- 'Why are you just standing there staring?' Asking why Lyova just standing there staring is cuts straight through the tension between Fedya and Lyova. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do something!' With the room and shift at stake, Lyova reacts without holding back.
-- 'Oh my goodness, you know what, we need to...' Saying that his goodness Fedya knows what they need is how Senya sets the tone with Fedya.
-- 'Louis, come on, do you have a fire extinguisher?' Asking whether come on do Lyova has a fire extinguisher puts Lyova right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'What kind of restaurant is this?' Wondering if what kind of restaurant is this shows Lyova caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Into the walk-in fridge.' Over the point and the situation, Senya answers Fedya without a second thought.
-- 'I am going into the walk-in fridge.' Here being going into the walk in fridge sets up the next turn in their exchange.
-- 'No need, just focus on the orders.' Telling Fedya to need just focus on the orders is how Lyova lays out the situation for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'You have to help me.' Saying that Fedya has to help him is how Senya sets the tone with Fedya.
+- 'You did not see me!' Senya offers a direct direction beside Fedya, linking "videl" ("saw, have seen"), "ty" ("you"), and "menya" ("me") in one brisk exchange.
+- 'Who are you hiding from?' Fedya prompts boldly without hesitation, leaning on "vy" ("you") before closing the thought with "ot" ("from").
+- 'Wait, what is going on over there?' Lyova questions briskly in this moment, pairing "tam" ("there") with "proiskhodit" ("is going on") to get the point across in plain spoken Russian.
+- 'Fire, there is a fire!' Senya favors a warm attitude in the scene, putting "ogon" ("fire") alongside "pozhar" ("fire, blaze") in a tight, everyday turn of phrase.
+- 'Why are you just standing there staring?' Fedya probes quietly for Lyova's benefit, weaving "stoite" ("are standing") together with "smotrite" ("look") just the way native speakers do.
+- 'Do something!' Lyova offers a playful footing in the scene, using "delayte" (from "delat", "do") alongside "chto-to" ("somehow") to shape the meaning.
+- 'Oh my goodness, you know what, we need to...' Senya takes a firm tone in front of Fedya, using "bozhe" (from "bog", "good lord, God") alongside "znayete" ("know") to shape the meaning.
+- 'Louis, come on, do you have a fire extinguisher?' Fedya checks naturally for Senya's benefit, weaving "davayte" ("let's") together with "yest" ("there is") just the way native speakers do.
+- 'What kind of restaurant is this?' Lyova checks calmly to keep things clear, putting "restoran" ("restaurant") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Into the walk-in fridge.' Senya presents a natural tack in front of Lyova, letting the single Russian word "kholodilnik" ("fridge") carry the entire reaction on its own.
+- 'I am going into the walk-in fridge.' Fedya offers a grounded direction in front of Lyova, joining "poydu" ("go") to "kholodilnik" ("fridge") so every word pulls its weight.
+- 'No need, just focus on the orders.' Lyova holds a measured rhythm toward Senya, leaning on "nado" ("it is necessary") before closing the thought with "zanimaytes" ("get on it, deal with it").
+- 'You have to help me.' Senya displays a playful rhythm in their talk, putting "dolzhny" ("must, should") alongside "pomoch" ("to help") in a tight, everyday turn of phrase.

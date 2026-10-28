@@ -20,22 +20,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Саша | Это совсем не то, что вы подумали. | This is not at all what you think. | #345: Это совсем не то, что вы подумали | verbatim |
 | 9 | Илья | Ты как туда попал-то вообще? | How on earth did you even get in there? | #346: Ты как туда попал-то вообще | verbatim |
 | 10 | Настя | Вот именно. | That is what I would like to know. | #347: Вот именно | verbatim |
-| 11 | Саша | Я так соскучился. | I missed this place so much. | #348: Я так соскучился | verbatim |
+| 11 | Илья | Я так соскучился. | I missed this place so much. | #348: Я так соскучился | verbatim |
 | 12 | Илья | Я тоже. | Me too. | #348: Я тоже | verbatim |
 | 13 | Настя | Это что? | What is this? | #349: Это что | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The thing is.' Pointing out that the thing is gives Ilya a sobering reality check.
-- 'I do not know how to peel potatoes properly.' Sasha explains that she does not know how to peel potatoes properly, keeping her voice calm and direct.
-- 'And my salmon is burning!' Saying that his salmon is burning is how Ilya takes charge of the moment.
-- 'Please taste this sauce.' Saying that Ilya should taste this sauce is how Nastya sets the tone with Ilya.
-- 'Why are you all blocking my way?' By asking why Ilya all blocking her way is, Sasha presses Ilya for a straight answer.
-- 'Nastya, have you seen Sasha and Ilya?' Checking whether Nastya seen Sasha and Ilya cuts straight through the tension between Ilya and Nastya.
-- 'I have not seen Ilya.' Nastya mentions that she has not seen Ilya so Ilya sees what is at stake.
-- 'This is not at all what you think.' Once this is not at all what Ilya thinks, Sasha can finally tell Ilya what she means. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'How on earth did you even get in there?' When Ilya asks if how on earth did Nastya even get in there, Nastya has to answer fast.
-- 'That is what I would like to know.' Saying that that is what she would like to know is how Nastya sets the tone with Ilya.
-- 'I missed this place so much.' Around the point and situation, Sasha sets a calm, everyday tone with Ilya.
-- 'Me too.' Between the point and the situation, Ilya gives Nastya a quick, grounded response.
-- 'What is this?' Here asking what this is shows Nastya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'The thing is.' Nastya conveys a warm direction without hesitation, leaning on "delo" ("matter") before closing the thought with "tom" ("that").
+- 'I do not know how to peel potatoes properly.' Sasha shows a natural tone in this beat, linking "znayu" ("know"), "kak" ("how"), and "pravilno" ("right") in one brisk exchange.
+- 'And my salmon is burning!' Ilya conveys a warm approach at once, linking "losos" ("salmon"), "gorit" ("is burning"), and "menya" ("me") in one brisk exchange.
+- 'Please taste this sauce.' Nastya adopts a candid position on the spot, putting "poprobuyte" ("try, taste") alongside "sous" ("sauce") in a tight, everyday turn of phrase.
+- 'Why are you all blocking my way?' Sasha inquires candidly to keep things clear, putting "skryvayete" ("to hide, to conceal") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
+- 'Nastya, have you seen Sasha and Ilya?' Ilya quizzes promptly in the scene, putting "videla" ("saw") alongside "nastya" ("Nastya") in a tight, everyday turn of phrase.
+- 'I have not seen Ilya.' Nastya brings a calm line in the scene, leaning on "videla" ("saw") before closing the thought with "ilyu" ("Ilya").
+- 'This is not at all what you think.' Sasha favors a playful course in their talk, building the phrase around "sovsem" ("at all") and "podumali" ("thought") for a crisp, natural delivery.
+- 'How on earth did you even get in there?' Ilya prompts wryly toward Nastya here, linking "kak" ("how"), "tuda" ("there"), and "popal-to" ("got in") in one brisk exchange.
+- 'That is what I would like to know.' Nastya adopts an unhurried course as the scene unfolds, placing "vot" ("there, here") straight beside "imenno" ("exactly, precisely") with no word for "to be" needed.
+- 'I missed this place so much.' Ilya picks a warm style as they talk, pairing "soskuchilsya" ("missed") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'Me too.' Ilya chooses an earnest stance in the scene, putting "tozhe" ("too") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'What is this?' Nastya challenges warmly as the talk turns, combining "eto" ("this") and "chto" ("what") so the key meaning lands right away.

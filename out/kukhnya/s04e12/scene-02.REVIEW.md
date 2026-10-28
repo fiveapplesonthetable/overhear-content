@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, brother, take some good fish!' Around the fish and kitchen, Timur makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I do not need any, I already have some.' Realizing that he does not need any he already has some changes how Barinov handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Go sell it to the restaurant next door.' Going sell it to the restaurant next door is how Barinov lays out the situation for Timur.
-- 'They already took some for themselves.' Even though they already took some for themselves, Timur keeps a steady face in front of Barinov.
-- 'You have not tasted fish like this yet.' Admitting that Barinov has not tasted fish like this yet shows Timur being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, it is not even fresh!' Insisting that it is not even fresh shows Barinov is not backing down.
-- 'What do you mean it is not fresh?' Wondering what Barinov means it is not fresh is how Timur puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They brought it from Yakutia just this morning.' Adding that they brought it from Yakutia just this morning fills in the missing piece for Barinov.
-- 'She just got a little tired on the road.' Timur tells Barinov that she just got a little tired on the road without dressing it up.
-- 'She flew for six hours on a plane.' Since she flew for six hours on a plane, Timur does not waste words on excuses.
-- 'She traveled for two days by dog sled!' With the shift and fish at stake, Timur reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, do not offend her, huh.' Saying that do not offend her huh is how Timur sets the tone with Barinov.
-- 'I will give you one to try for free.' Because he will give Barinov one to try for free, Timur treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fine, hold this, give the fish to Lyova.' Between the shift and the fish, Barinov gives Timur a quick, grounded response.
+- 'Chef, brother, take some good fish!' Timur projects a playful posture for Barinov, leaning on "brat" ("brother") before closing the thought with "vozmi" ("take, pick up").
+- 'I do not need any, I already have some.' Barinov establishes a sharp manner for Timur, putting "nado" ("it is necessary") alongside "yest" ("there is") in a tight, everyday turn of phrase.
+- 'Go sell it to the restaurant next door.' Barinov projects a resolute view with Timur, combining "sosedniy" ("neighboring") and "restoran" ("restaurant") so the key meaning lands right away.
+- 'They already took some for themselves.' Timur chooses a natural mood without hesitation, putting "uzhe" ("already, now") alongside "vzyali" ("took, arrested") in a tight, everyday turn of phrase.
+- 'You have not tasted fish like this yet.' Timur holds a firm footing across the room, building the phrase around "rybu" ("fish") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'Wait, it is not even fresh!' Barinov brings a frank angle in the conversation, pairing "podozhdi" ("wait") with "nesvezhaya" ("fresh") to get the point across in plain spoken Russian.
+- 'What do you mean it is not fresh?' Timur wonders sharply to make the point, linking "kak" ("how") directly with "nesvezhaya" ("fresh"), since Russian drops "is" and "are" in the present.
+- 'They brought it from Yakutia just this morning.' Timur sustains a warm tone in the room, building the phrase around "tolko" ("only") and "utrom" ("this morning") for a crisp, natural delivery.
+- 'She just got a little tired on the road.' Timur projects an emphatic course without hesitation, building the phrase around "prosto" ("just") and "ustala" ("are tired, got tired") for a crisp, natural delivery.
+- 'She flew for six hours on a plane.' Timur shares a brisk tack during the exchange, putting "chasov" ("o'clock") alongside "letela" ("to fly, to race along") in a tight, everyday turn of phrase.
+- 'She traveled for two days by dog sled!' Timur chooses an emphatic course on the spot, building the phrase around "dnya" ("day") and "sobakakh" ("dog") for a crisp, natural delivery.
+- 'Listen, do not offend her, huh.' Timur displays a measured tack beside Barinov, putting "slushay" ("listen") alongside "obizhay" ("to hurt, to offend") in a tight, everyday turn of phrase.
+- 'I will give you one to try for free.' Timur keeps a natural direction on the spot, linking "probu" ("free"), "dam" ("will give"), and "besplatno" ("for free") in one brisk exchange.
+- 'Fine, hold this, give the fish to Lyova.' Barinov projects a steady approach in front of Timur, weaving "derzhi" ("here you go") together with "otday" ("give back") just the way native speakers do.

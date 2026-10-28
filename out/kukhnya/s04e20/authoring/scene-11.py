@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e20.ru.srt'
 INTRO = "Now that she knows Denis never cheated on her, Katya calls her father Viktor Petrovich for advice. Having just reached the final round of the cooking show, Barinov listens to his daughter's confession while dealing with his own chaos. Let's listen to their phone call in Russian."
 OPENER = "Now let's break down the phone call between Katya and her father line by line."
 TRANSITION = "Let's hear the phone conversation between Katya and Barinov from start to finish."
-OUTRO = 'Although Viktor Petrovich vouches that Denis is a good guy, both father and daughter admit that their lives are in complete turmoil right now. Listen for the short feminine adjective meaning right and the infinitive meaning to forgive. Until next time!'
+OUTRO = 'Although Viktor Petrovich vouches that Denis is a good guy, both father and daughter admit that their lives are in complete turmoil right now. Listen for the short feminine word meaning right and the base form meaning to forgive. Until next time!'
 CLOSING = ('katya', 'До встречи!')
 STORY = [
     ('katya', 'Алло, папа, тебе сейчас удобно говорить?', 'Hello, Dad, is it convenient for you to talk right now?', [(167, 'Алло')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('katya', 'Ладно, не буду тебя отвлекать, пока.', 'All right, I will not distract you, bye.', [(176, 'Ладно, не буду отвлекать, пока')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Hello, Dad, is it convenient for you to talk right now?\' When Katya asks if dad is it convenient for Barinov to talk right now, Barinov has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (1, None, "'All right, Dad, I was wrong.' Even though all right dad she was wrong, Katya keeps a steady face in front of Barinov."),
-    (2, None, "'I admit it, he did not cheat on me.' Pointing out that she admits it he did not cheat gives Barinov a sobering reality check."),
-    (3, None, "'There is nothing between him and Vika.' Saying that there is nothing between him and Vika is how Katya sets the tone with Barinov."),
-    (4, None, '\'I told you that right from the start.\' Once he told Katya that right from the start, Barinov can finally tell Katya what he means. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (5, None, "'Denis really is a good guy.' Adding that Denis really is a good guy fills in the missing piece for Katya."),
-    (6, None, '\'Just spare me your male solidarity.\' Around the phone and call, Katya sets a calm, everyday tone with Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (7, None, '\'All right, sweetheart, what do you think yourself?\' Asking whether all right sweetheart what do Katya thinks themselves puts Katya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (8, None, "'What do you think, should I forgive him?' Here asking what Barinov thinks should she forgives him shows Katya looking for the real truth."),
-    (9, None, '\'You know, I am a poor adviser for you right now.\' Being a poor adviser for Katya right now is how Barinov lays out the situation for Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (10, None, '\'My own life is a complete mess.\' Because his own life is a complete mess, Barinov treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (11, None, "'All right, I will not distract you, bye.' Mentioning that all right she will not distract Barinov bye moves the talk in a new direction."),
+    (0, None, '\'Hello, Dad, is it convenient for you to talk right now?\' Katya quizzes pointedly to Barinov here, linking "papa" ("Dad"), "seychas" ("now"), and "udobno" ("comfortable") in one brisk exchange.'),
+    (1, None, '\'All right, Dad, I was wrong.\' Katya sets a serious direction on the spot, combining "papa" ("Dad") and "byla" ("was") so the key meaning lands right away.'),
+    (2, None, '\'I admit it, he did not cheat on me.\' Katya takes a brisk position in the conversation, weaving "priznayu" ("to admit, to recognise") together with "izmenyal" ("cheated") just the way native speakers do.'),
+    (3, None, '\'There is nothing between him and Vika.\' Katya holds a lively course across the room, joining "mezhdu" ("between") to "nim" ("him") so every word pulls its weight.'),
+    (4, None, '\'I told you that right from the start.\' Barinov presents an easygoing mood on the spot, weaving "srazu" ("at once") together with "govoril" ("said, were saying") just the way native speakers do.'),
+    (5, None, '\'Denis really is a good guy.\' Barinov favors a brisk approach across the room, pairing "denis" ("Denis") with "pravda" ("honestly") so the "-sya" ending carries the action.'),
+    (6, None, '\'Just spare me your male solidarity.\' Katya projects an honest note toward Barinov, joining "tolko" ("only") to "davay" ("let\'s") so every word pulls its weight.'),
+    (7, None, '\'All right, sweetheart, what do you think yourself?\' Barinov quizzes briskly with Katya now, putting "dochka" ("dear, daughter") alongside "kak" ("how") in a tight, everyday turn of phrase.'),
+    (8, None, '\'What do you think, should I forgive him?\' Katya asks steadily across the room, pairing "kak" ("how") with "dumayesh" ("think") to get the point across in plain spoken Russian.'),
+    (9, None, '\'You know, I am a poor adviser for you right now.\' Barinov offers a warm mood during the exchange, pairing "znayesh" ("know") with "seychas" ("now") to get the point across in plain spoken Russian.'),
+    (10, None, '\'My own life is a complete mess.\' Barinov shares a playful line in this beat, placing "samogo" ("the very") straight beside "zhizni" ("life") with no word for "to be" needed.'),
+    (11, None, '\'All right, I will not distract you, bye.\' Katya brings a calm stance in the conversation, combining "budu" ("will be") and "otvlekat" ("to distract") so the key meaning lands right away.'),
 ]

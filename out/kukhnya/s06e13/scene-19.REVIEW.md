@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I do not know what happened.' Once she does not know what happened, Eleonora can finally tell Barinov what she means.
-- 'But I want to tell you one thing.' Since she wants to tell Barinov one thing, Eleonora does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Many years ago I quarreled with my father.' Over the truth and the peace, Eleonora answers Barinov without a second thought.
-- 'But recently, as you know, we made up.' Since recently as Barinov knows they made up, Eleonora does not waste words on excuses.
-- 'I deeply regret that I waited so long.' Mentioning that she deeply regret that she waited so long moves the talk in a new direction.
-- 'But remember that time flies by unnoticed.' By remembering that time flies by unnoticed, Eleonora keeps her side of the story grounded.
-- 'I never got the money today.' Because he never got the money today, Mikhail treats the matter as settled.
-- 'Forgive us, please, we will pay everything back.' Forgiving them please they will pay everything back is how Barinov lays out the situation for Eleonora.
-- 'Stop crying and shouting loudly in here.' Pointing out that Barinov should stop crying and shouting loudly in here gives Barinov a sobering reality check.
-- 'People live with one kidney too.' Between the peace and the room, Mikhail gives Barinov a quick, grounded response.
-- 'And right now you have two of them.' Pointing out that right now Barinov has two of them gives Barinov a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Next time I will not be joking.' Mikhail explains that next time he will not be joking, keeping his voice calm and direct.
+- 'Kostya, I do not know what happened.' Eleonora brings a frank bearing during the exchange, putting "znayu" ("know") alongside "proizoshlo" ("happened") in a tight, everyday turn of phrase.
+- 'But I want to tell you one thing.' Eleonora projects a wry course right away, using "khochu" (from "khotet", "want") alongside "skazat" ("tell") to shape the meaning.
+- 'Many years ago I quarreled with my father.' Eleonora holds a lively posture in their talk, joining "mnogo" ("a lot") to "let" ("years") so every word pulls its weight.
+- 'But recently, as you know, we made up.' Eleonora takes a thoughtful angle without hesitation, joining "nedavno" ("returned") to "kak" ("how") so every word pulls its weight.
+- 'I deeply regret that I waited so long.' Eleonora picks a thoughtful rhythm across the room, anchoring the Russian line on "ochen" ("very much") and "zhaleyu" ("regret") without extra filler.
+- 'But remember that time flies by unnoticed.' Eleonora shares a clear course in their talk, anchoring the Russian line on "pomni" ("remember") and "vremya" ("time") without extra filler.
+- 'I never got the money today.' Mikhail conveys a lively stance on the spot, linking "segodnya" ("today"), "dozhdalsya" ("to wait for"), and "deneg" ("money") in one brisk exchange.
+- 'Forgive us, please, we will pay everything back.' Barinov takes a direct view in this beat, building the phrase around "prostite" ("excuse me") and "otdadim" ("will give") for a crisp, natural delivery.
+- 'Stop crying and shouting loudly in here.' Mikhail maintains a playful mood in this beat, weaving "khvatit" ("enough") together with "tut" ("here") just the way native speakers do.
+- 'People live with one kidney too.' Mikhail adopts a playful note for Eleonora, combining "pochkoy" ("kidney") and "lyudi" ("people") so the key meaning lands right away.
+- 'And right now you have two of them.' Mikhail favors a natural posture in the scene, combining "u tebya" (literally "by you") with "seychas" ("now") rather than a separate word for "have".
+- 'Next time I will not be joking.' Mikhail picks a measured bearing as the scene unfolds, pairing "sleduyushchiy" ("next") with "raz" ("time, once") to get the point across in plain spoken Russian.

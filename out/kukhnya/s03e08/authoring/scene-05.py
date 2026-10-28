@@ -17,7 +17,7 @@ OUTRO = 'Having struck a deal with Nagiyev, Chef Barinov calls Elena Pavlovna to
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Наши выиграли, давай скорее наливай!', 'Our team won, come on, pour quickly!', [(66, 'Наливай')], 'adapted'),
-    ('nagiyev', 'Дима, наши сегодня, увы, проиграли.', 'Dima, our team lost today, alas.', [(67, 'Дима, наши проиграли')], 'adapted'),
+    ('barinov', 'Дима, наши сегодня, увы, проиграли.', 'Dima, our team lost today, alas.', [(67, 'Дима, наши проиграли')], 'adapted'),
     ('barinov', 'Ладно, ну что ты начинаешь!', 'Alright, well what are you starting!', [(70, 'Ладно, ну что ты')], 'adapted'),
     ('barinov', 'Ну проиграли мы сегодня и проиграли.', 'Well if we lost today, we lost.', [(71, 'Мы проиграли и проиграли')], 'adapted'),
     ('nagiyev', 'А если у вас сегодня ничья?', 'And what if you have a draw today?', [(73, 'Ничья')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Макс, ты сегодня возвращаешься на кухню.', 'Max, today you are returning to the kitchen.', [(81, 'Ты')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Our team won, come on, pour quickly!\' Nagiyev insists that their team won come on pour quickly, leaving Barinov no room to argue. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (1, None, "'Dima, our team lost today, alas.' Because their team lost today alas, Nagiyev treats the matter as settled."),
-    (2, None, "'Alright, well what are you starting!' Barinov declares that Alright well what are Nagiyev starting as the tension in the room peaks."),
-    (3, None, "'Well if we lost today, we lost.' Barinov mentions that if they lost today they lost so Nagiyev sees what is at stake."),
-    (4, None, '\'And what if you have a draw today?\' Nagiyev asks whether what if Barinov has a draw today, refusing to let the point slide. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (5, None, "'I do not want to hear anything, pour again!' Once he does not want to hear anything pour again, Nagiyev makes sure Barinov hears every word."),
-    (6, None, '\'So you had better go out in public with your beloved woman.\' Nagiyev explains that Barinov had better go out in public with Barinov\'s beloved woman, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (7, None, '\'At least your liver will be healthy.\' Realizing that at least Barinov\'s liver will be healthy changes how Nagiyev handles the situation. That little word "zato" means "on the bright side", flipping a complaint into an advantage.'),
-    (8, None, "'After all, I am bringing Max back only for your sake, Dima.' Noting that after all he is bringing Max back only for Nagiyev's sake Dima keeps Barinov's side of the story simple and clear."),
-    (9, None, "'I am going against all my principles.' Because he is going against all his principles, Barinov treats the matter as settled."),
-    (10, None, '\'That is it, we agreed, your condition is accepted.\' Admitting that that is it they agreed Barinov\'s condition is accepted shows Nagiyev being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (11, None, "'Max, today you are returning to the kitchen.' Saying that today Nagiyev is returning to the kitchen is how Barinov sets the tone with Nagiyev."),
+    (0, None, '\'Our team won, come on, pour quickly!\' Nagiyev adopts a grounded footing on the spot, joining "vyigrali" ("won") to "davay" ("let\'s") so every word pulls its weight.'),
+    (1, None, '\'Dima, our team lost today, alas.\' Barinov offers a sharp tack as they talk, leaning on "segodnya" ("today") before closing the thought with "proigrali" ("lost").'),
+    (2, None, '\'Alright, well what are you starting!\' Barinov presents a clear note as the scene unfolds, weaving "nachinayesh" ("are starting") together with "ladno" ("all right") just the way native speakers do.'),
+    (3, None, '\'Well if we lost today, we lost.\' Barinov projects a steady bearing for Nagiyev, linking "proigrali" ("lost"), "segodnya" ("today"), and "nu" ("oh, come on") in one brisk exchange.'),
+    (4, None, '\'And what if you have a draw today?\' Nagiyev probes frankly beside Barinov, linking "segodnya" ("today"), "nichya" ("draw"), and "yesli" ("if") in one brisk exchange.'),
+    (5, None, '\'I do not want to hear anything, pour again!\' Nagiyev sustains a resolute style beside Barinov, leaning on "khochu" ("want") before closing the thought with "slyshat" ("to hear").'),
+    (6, None, '\'So you had better go out in public with your beloved woman.\' Nagiyev holds a frank manner across the room, putting "luchshe" ("better") alongside "vyydi" ("step out, go out") in a tight, everyday turn of phrase.'),
+    (7, None, '\'At least your liver will be healthy.\' Nagiyev sets an emphatic manner beside Barinov, anchoring the Russian line on "pechen" ("liver") and "budet" ("will be") without extra filler.'),
+    (8, None, '\'After all, I am bringing Max back only for your sake, Dima.\' Barinov projects a playful tempo straight away, linking "vozvrashchayu" ("bring back"), "tolko" ("only"), and "ya" ("I") in one brisk exchange.'),
+    (9, None, '\'I am going against all my principles.\' Barinov keeps a grounded course right away, joining "idu" ("going, running") to "printsipov" ("principles") so every word pulls its weight.'),
+    (10, None, '\'That is it, we agreed, your condition is accepted.\' Nagiyev picks a candid style in the room, building the phrase around "dogovorilis" ("agreed, deal") and "usloviye" ("condition") for a crisp, natural delivery.'),
+    (11, None, '\'Max, today you are returning to the kitchen.\' Barinov sets a warm tempo as the scene unfolds, combining "segodnya" ("today") and "vozvrashchayeshsya" ("are returning") so the key meaning lands right away.'),
 ]

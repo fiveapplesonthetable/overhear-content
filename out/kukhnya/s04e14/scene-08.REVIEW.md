@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this here, are they celebrating a retirement?' By asking what this here are they celebrating a retirement is, German presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And that is none of your business at all.' Mentioning that that is none of German's business at all moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is very foolish to be rude to the cook who will cook.' Saying that it is very foolish to be rude to the cook who will cook is how Barinov sets the tone with German.
-- 'Tonight you will be cooking for my guests.' Because tonight German will be cooking for his guests, Barinov treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'For example, for the restaurant owner Dmitry Nagiyev!' With the moment and call at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'By the way, he and I recently made peace.' Barinov mentions that he and he recently made peace so German sees what is at stake.
-- 'Oh, here is Dima calling right now!' Barinov insists that here is Dima calling right now, leaving German no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dima, hello, thank you very much for the birthday wish!' With the conversation and call at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'He wants to give me an expensive watch!' Barinov declares that he wants to give him an expensive watch as the tension in the room peaks.
-- 'If you do not mind spending two hundred thousand, go ahead!' Because if German does not mind spending two hundred thousand go ahead, Barinov does not bother softening the blow for German. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'German Mikhailovich, prepare everything at the highest level!' Preparing everything at the highest level is Barinov's blunt reaction in front of German. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'All right, then I am off to the kitchen to try hard.' German explains that all right then he is off to the kitchen to try hard, keeping his voice calm and direct.
+- 'What is this here, are they celebrating a retirement?' German wonders firmly on the spot, anchoring the Russian line on "tut" ("here") and "vykhod" ("way out") without extra filler.
+- 'And that is none of your business at all.' Barinov offers a measured tack in their talk, weaving "uzhe" ("already, now") together with "sovsem" ("at all") just the way native speakers do.
+- 'It is very foolish to be rude to the cook who will cook.' Barinov offers an honest manner toward German, anchoring the Russian line on "ochen" ("very much") and "glupo" ("stupid") without extra filler.
+- 'Tonight you will be cooking for my guests.' Barinov brings a frank view in their talk, putting "vecherom" ("in the evening") alongside "budete" ("will be") in a tight, everyday turn of phrase.
+- 'For example, for the restaurant owner Dmitry Nagiyev!' Barinov sets an easygoing manner as the scene unfolds, pairing "naprimer" ("for example") with "khozyainu" ("owner, proprietor") to get the point across in plain spoken Russian.
+- 'By the way, he and I recently made peace.' Barinov offers a frank position straight away, anchoring the Russian line on "kstati" ("by the way") and "nedavno" ("returned") without extra filler.
+- 'Oh, here is Dima calling right now!' Barinov adopts an earnest stance as the scene unfolds, pairing "kak" ("how") with "raz" ("time, once") to get the point across in plain spoken Russian.
+- 'Dima, hello, thank you very much for the birthday wish!' Barinov conveys a candid angle in the room, building the phrase around "spasibo" ("thank you") and "bolshoye" ("big, very much") for a crisp, natural delivery.
+- 'He wants to give me an expensive watch!' Barinov holds a firm footing in the conversation, linking "khochet" ("wants"), "podarit" ("give as a gift"), and "dorogiye" ("dear") in one brisk exchange.
+- 'If you do not mind spending two hundred thousand, go ahead!' Barinov sets a pointed tone in the conversation, combining "zhalko" ("feel sorry for") and "tysyach" ("thousand") so the key meaning lands right away.
+- 'German Mikhailovich, prepare everything at the highest level!' Barinov brings a frank tempo in the conversation, putting "prigotovte" ("prepare, cook") alongside "vysshem" ("highest, supreme") in a tight, everyday turn of phrase.
+- 'All right, then I am off to the kitchen to try hard.' German strikes a serious footing straight away, pairing "staratsya" ("try") with "togda" ("back then") so the "-sya" ending carries the action.

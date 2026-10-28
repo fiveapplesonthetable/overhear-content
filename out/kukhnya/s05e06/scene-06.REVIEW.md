@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, I brought you dinner.' Because he brought Katya dinner, Barinov treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do not want to eat.' Realizing that she does not want to eat changes how Katya handles the situation.
-- 'Just try it: water and aspirin.' Around the shift and dinner, Barinov sets a calm, everyday tone with Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Very delicious.' Between the moment and the dinner, Katya gives Barinov a quick, grounded response.
-- 'I was thinking here, you and I rarely see each other.' Pointing out that he was thinking here Katya and he rarely see each other gives Katya a sobering reality check.
-- 'Let us go out somewhere.' Proposing that they go out somewhere is how Barinov lays out the situation for Katya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Sure, where to?' With the truth and dinner hanging in the air, Katya puts Barinov on the spot. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'To the zoo or to the movies?' Over the plan and the dinner, Barinov presses Katya for a straight answer.
-- 'Dad, do you hear yourself, what zoo?' Questioning whether dad do Barinov hears themselves what zoo is how Katya tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, we will go somewhere else.' Admitting that they will go somewhere else shows Barinov being honest for a change.
-- 'I will think of something.' Saying that he will think of something is how Barinov sets the tone with Katya.
-- 'Yeah, and what can you surprise me with?' Asking whether yeah and what can Barinov surprises puts Barinov right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Good morning, I brought you dinner.' Barinov establishes a sharp tone without hesitation, pairing "dobroye" ("good") with "utro" ("morning") to get the point across in plain spoken Russian.
+- 'I do not want to eat.' Katya picks a direct manner straight away, anchoring the Russian line on "khochu" ("want") and "yest" ("there is") without extra filler.
+- 'Just try it: water and aspirin.' Barinov projects a sharp style right away, linking "poprobuy" ("to try, to taste"), "voda" ("water"), and "aspirin" ("aspirin") in one brisk exchange.
+- 'Very delicious.' Katya establishes a warm attitude on the spot, combining "ochen" ("very much") and "vkusno" ("it's tasty") so the key meaning lands right away.
+- 'I was thinking here, you and I rarely see each other.' Barinov adopts a serious rhythm during the exchange, pairing "vidimsya" ("see each other") with "tut" ("here") so the "-sya" ending carries the action.
+- 'Let us go out somewhere.' Barinov holds a grounded note in front of Katya, leaning on "davay" ("let's") before closing the thought with "skhodim" ("go, pop over").
+- 'Sure, where to?' Katya challenges firmly in the scene, leaning on "davay" ("let's") before closing the thought with "kuda" ("where to").
+- 'To the zoo or to the movies?' Barinov tests evenly across the room, leaning on "zoopark" ("zoo") before closing the thought with "kino" ("cinema, movies").
+- 'Dad, do you hear yourself, what zoo?' Katya presses decisively in their exchange, joining "pap" ("Dad") to "slyshish" ("hear") so every word pulls its weight.
+- 'Well, we will go somewhere else.' Barinov chooses an unhurried tone in front of Katya, leaning on "yeshchyo" ("more, still") before closing the thought with "kuda-nibud" ("anywhere, somewhere").
+- 'I will think of something.' Barinov displays a direct bearing beside Katya, anchoring the Russian line on "pridumayu" ("will come up with") and "ya" ("I") without extra filler.
+- 'Yeah, and what can you surprise me with?' Katya prompts directly during the talk, building the phrase around "mozhesh" ("can") and "udivit" ("surprise") for a crisp, natural delivery.

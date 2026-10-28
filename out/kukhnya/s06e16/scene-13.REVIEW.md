@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She got offended and does not answer calls at all.' Kostya reminds Denis that she got offended and does not answer calls at all before the moment passes.
-- 'Maybe Louis will tell Nastya everything himself?' Asking whether maybe Louis will tell Nastya everything himself puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'She will decide that he is covering for me.' Explaining that she will decide that he is covering for him lays the cards on the table for Denis.
-- 'Why did you not tell her that you are not the bartender?' Here asking why Denis not tell her that Denis is not the bartender shows Kostya looking for the real truth.
-- 'Last night we had no time for conversation.' Claiming that last night they had no time for conversation sounds confident, even if Denis has doubts.
-- 'Kostya, forgive me for this mix-up.' With the kitchen and shift in play, Louis keeps this short reply brisk and direct.
-- 'It seems that now I really like girls.' Louis explains that it seems that now he really likes girls, keeping his voice calm and direct.
-- 'I do not even know how to tell my parents.' Because he does not even know how to tell his parents, Louis treats the matter as settled.
-- 'I really hope that they will understand me.' Noting that he really hopes that they will understand him keeps Louis's side of the story simple and clear.
-- 'Kostya, I have to go back to the room soon.' Louis mentions that he has to go back to the room soon so Denis sees what is at stake.
-- 'Polina and I need some cold champagne.' Admitting that Polina and he needs some cold champagne shows Louis being honest for a change. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Wait, I just got a great idea!' Kostya insists that he just got a great idea, leaving Denis no room to argue. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'She got offended and does not answer calls at all.' Kostya establishes an easygoing angle at this moment, pairing "obidelas" ("offended") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'Maybe Louis will tell Nastya everything himself?' Denis prompts frankly beside Louis, weaving "mozhet" ("can") together with "rasskazhet" ("will tell") just the way native speakers do.
+- 'She will decide that he is covering for me.' Kostya shares an easygoing tack as they talk, putting "reshit" ("will decide") alongside "prikryvayet" ("to cover up") in a tight, everyday turn of phrase.
+- 'Why did you not tell her that you are not the bartender?' Kostya checks naturally on the spot, linking "zachem" ("what for"), "skazal" ("said"), and "barmen" ("bartender") in one brisk exchange.
+- 'Last night we had no time for conversation.' Louis holds a sharp mood without hesitation, leaning on "vchera" ("yesterday") before closing the thought with "vecherom" ("in the evening").
+- 'Kostya, forgive me for this mix-up.' Louis takes a firm style straight away, building the phrase around "prosti" ("sorry, forgive me") and "putanitsu" ("mix-up, confusion") for a crisp, natural delivery.
+- 'It seems that now I really like girls.' Louis chooses an unhurried footing during the exchange, pairing "kazhetsya" ("it seems, I think") with "teper" ("now") so the "-sya" ending carries the action.
+- 'I do not even know how to tell my parents.' Louis conveys a measured approach in the room, linking "znayu" ("know"), "kak" ("how"), and "skazat" ("tell") in one brisk exchange.
+- 'I really hope that they will understand me.' Louis sustains a pointed stance during the exchange, joining "ochen" ("very much") to "nadeyus" ("hope so") so every word pulls its weight.
+- 'Kostya, I have to go back to the room soon.' Louis favors a resolute rhythm straight away, joining "skoro" ("soon") to "opyat" ("again") so every word pulls its weight.
+- 'Polina and I need some cold champagne.' Louis presents a resolute note straight away, weaving "nuzhno" ("necessary") together with "kholodnoye" ("cold") just the way native speakers do.
+- 'Wait, I just got a great idea!' Kostya establishes a grounded style at this moment, building the phrase around "podozhdi" ("wait") and "poyavilas" ("appeared") for a crisp, natural delivery.

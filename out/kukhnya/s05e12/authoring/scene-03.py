@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e12.ru.srt'
 INTRO = "Dropping Viktor off at the hotel in the morning, Elena casually asks what his plans are for the evening. Viktor talks about watching football on television and remembers that Friday is Lyova's birthday, completely forgetting that today is Elena's birthday!"
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the car ride scene. Listen for the colloquial verb meaning it annoys or infuriates me and Elena's sharp reply when Viktor forgets her birthday. Until next time!"
+OUTRO = "And that finishes the car ride scene. Listen for the colloquial word meaning it annoys or infuriates me and Elena's sharp reply when Viktor forgets her birthday. Until next time!"
 CLOSING = ('elena', 'Увидимся!')
 STORY = [
     ('barinov', 'Спасибо, что подвезла.', 'Thank you for giving me a ride.', [(23, 'Спасибо, что подвезла')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('elena', 'Даже видеть тебя не хочу!', 'I do not even want to see you!', [(32, 'день рождения')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Thank you for giving me a ride.' Around the work and morning, Barinov sets a calm, everyday tone with Elena."),
-    (1, None, "'What are the plans for the evening?' By asking what the plans for the evening are, Elena presses Barinov for a straight answer."),
-    (2, None, "'None at all. Spartak is not playing today.' Around the point and car, Barinov sets a calm, everyday tone with Elena."),
-    (3, None, '\'Do you even remember what day it is today?\' Asking whether Barinov even remember what day it is today is how Elena puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (4, None, "'Wednesday, why?' Over the hotel and the point, Barinov presses Elena for a straight answer."),
-    (5, None, "'On Friday it is Lyova's birthday.' Mentioning that on Friday it is Lyova birthday moves the talk in a new direction."),
-    (6, None, "'Thank you for reminding me!' With the morning and hotel at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (7, None, "'Listen, can you turn off that annoying sound?' Checking whether Elena turns off that annoying sound is how Barinov puts Elena on the spot."),
-    (8, None, "'It infuriates me!' Between the morning and the moment, Barinov delivers a sharp reaction. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (9, None, '\'And it infuriates me that you forgot about my birthday!\' Elena insists that it infuriates her that Barinov forgot about her birthday, leaving Barinov no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (10, None, "'Lena, wait!' With the morning and truth at stake, Barinov reacts without holding back."),
-    (11, None, '\'I do not even want to see you!\' Insisting that she does not even want to see Barinov shows Elena is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (0, None, '\'Thank you for giving me a ride.\' Barinov projects a serious tack in front of Elena, joining "spasibo" ("thank you") to "podvezla" ("gave a ride") so every word pulls its weight.'),
+    (1, None, '\'What are the plans for the evening?\' Elena quizzes quietly for Barinov\'s benefit, using "plany" (from "plan", "plans") alongside "vecher" ("evening") to shape the meaning.'),
+    (2, None, '\'None at all. Spartak is not playing today.\' Barinov favors a resolute tempo in front of Elena, linking "segodnya" ("today"), "igrayet" ("plays"), and "nikakikh" ("no ... at all") in one brisk exchange.'),
+    (3, None, '\'Do you even remember what day it is today?\' Elena presses plainly toward Barinov here, building the phrase around "voobshche" ("at all") and "pomnish" ("do you remember") for a crisp, natural delivery.'),
+    (4, None, '\'Wednesday, why?\' Barinov prompts dryly in the scene, pairing "sreda" ("Wednesday") with "chto" ("what") to get the point across in plain spoken Russian.'),
+    (5, None, '\'On Friday it is Lyova\'s birthday.\' Elena conveys a candid note on the spot, putting "pyatnitsu" ("Friday") alongside "den" ("day") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Thank you for reminding me!\' Barinov offers an emphatic line in their talk, joining "spasibo" ("thank you") to "napomnila" ("reminded") so every word pulls its weight.'),
+    (7, None, '\'Listen, can you turn off that annoying sound?\' Barinov probes pointedly with Elena now, linking "slushay" ("listen"), "mozhesh" ("can"), and "otklyuchit" ("to turn off") in one brisk exchange.'),
+    (8, None, '\'It infuriates me!\' Barinov chooses a grounded bearing right away, leaning on "besit" ("infuriates") as a compact, one-word response that needs no extra words.'),
+    (9, None, '\'And it infuriates me that you forgot about my birthday!\' Elena strikes a playful tone right away, linking "besit" ("infuriates"), "zabyl" ("forgot"), and "den" ("day") in one brisk exchange.'),
+    (10, None, '\'Lena, wait!\' Barinov offers a calm manner beside Elena, joining "podozhdi" ("wait") to "lena" ("Lena") so every word pulls its weight.'),
+    (11, None, '\'I do not even want to see you!\' Elena displays an unhurried tack in the scene, combining "videt" ("to see") and "khochu" ("want") so the key meaning lands right away.'),
 ]

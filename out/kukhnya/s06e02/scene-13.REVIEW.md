@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They suddenly moved our filming to tomorrow.' Pointing out that they suddenly moved their filming to tomorrow gives Mikhail a sobering reality check.
-- 'And we need to answer urgently.' By needing to answer urgently, Barinov keeps his side of the story grounded. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'They want to film tomorrow, what should we do?' Here wanting to film tomorrow what should they do shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'After all, Eleonora forbade everything.' With the room and call in play, Barinov keeps this short reply brisk and direct.
-- 'Agree to it, tomorrow she will be gone all day.' Adding that Barinov should agree to it tomorrow she will be gone all day fills in the missing piece for Barinov.
-- 'She will even thank you afterward.' Admitting that she will even thank Barinov afterward shows Mikhail being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, come tomorrow.' Over the room and the call, Barinov answers Mikhail without a second thought.
-- 'The crew will be at our place at four o'clock.' Once the crew will be at their place at four o'clock, Barinov can finally tell Mikhail what he means. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'It is no star, of course, but it is already something.' Adding that it is no star of course but it is already something fills in the missing piece for Mikhail. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let's go celebrate, I will catch up right now.' Since they should go celebrate he will catch up right now, Barinov does not waste words on excuses.
-- 'Thank you for the help, friend.' Over the call and the kitchen, Mikhail answers Barinov without a second thought.
-- 'As we say in Russia, one good turn deserves another.' Mentioning that as they say in Russia one good turn deserves another moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'They suddenly moved our filming to tomorrow.' Barinov brings a calm note as the scene unfolds, anchoring the Russian line on "vnezapno" ("suddenly") and "perenesli" ("rescheduled") without extra filler.
+- 'And we need to answer urgently.' Barinov brings a lively line right away, putting "nuzhno" ("necessary") alongside "otvetit" ("answer") in a tight, everyday turn of phrase.
+- 'They want to film tomorrow, what should we do?' Barinov wonders pointedly without hesitation, linking "khotyat" ("want"), "snimat" ("to film"), and "zavtra" ("tomorrow") in one brisk exchange.
+- 'After all, Eleonora forbade everything.' Barinov shares a clear stance toward Mikhail, pairing "zapretila" ("banned") with "eleonora" ("Eleonora") to get the point across in plain spoken Russian.
+- 'Agree to it, tomorrow she will be gone all day.' Mikhail adopts an honest style on the spot, putting "soglashaysya" ("agree") alongside "zavtra" ("tomorrow") in a tight, everyday turn of phrase.
+- 'She will even thank you afterward.' Mikhail adopts a warm stance in the scene, anchoring the Russian line on "yeshchyo" ("more, still") and "spasibo" ("thank you") without extra filler.
+- 'Alright, come tomorrow.' Barinov chooses a resolute course with Mikhail, anchoring the Russian line on "khorosho" ("good, fine") and "priyezzhayte" ("to come, to arrive") without extra filler.
+- 'The crew will be at our place at four o'clock.' Barinov takes a candid posture in the conversation, building the phrase around "gruppa" ("group, team") and "budet" ("will be") for a crisp, natural delivery.
+- 'It is no star, of course, but it is already something.' Barinov brings a direct footing in the scene, pairing "konechno" ("of course") with "zvezda" ("a star") to get the point across in plain spoken Russian.
+- 'Let's go celebrate, I will catch up right now.' Barinov chooses an unhurried footing straight away, linking "poydyom" ("let's go"), "otmetim" ("to celebrate"), and "seychas" ("now") in one brisk exchange.
+- 'Thank you for the help, friend.' Mikhail establishes a candid style as they talk, anchoring the Russian line on "spasibo" ("thank you") and "pomoshch" ("help") without extra filler.
+- 'As we say in Russia, one good turn deserves another.' Mikhail maintains a thoughtful stance as they talk, anchoring the Russian line on "kak" ("how") and "govoryat" ("talks, says") without extra filler.

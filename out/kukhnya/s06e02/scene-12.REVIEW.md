@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Костя | Мы на роликах катались. | We were skating on rollerblades. | #203: Мы на роликах катались | adapted: exact |
 | 5 | Костя | Я ее взял и наклонил. | I caught her and dipped her. | #204: Я ее раз взял<br>#205: Наклонил | adapted: adapted |
 | 6 | Лёва | Я все понял, я готов. | I understood everything, I am ready. | #206: Я все. Я готов | adapted: adapted |
-| 7 | Шеф | Виктор Петрович, здравствуйте. | Viktor Petrovich, hello. | #210: Виктор Петрович, здравствуйте | adapted: exact |
+| 7 | Костя | Виктор Петрович, здравствуйте. | Viktor Petrovich, hello. | #210: Виктор Петрович, здравствуйте | adapted: exact |
 | 8 | Костя | Это продюсер программы, мы меняем концепцию нашей программы. | This is the show's producer, we are changing the concept of our program. | #211: продюсер программы<br>#212: меняем концепцию нашей программы | adapted: adapted |
 | 9 | Костя | И теперь будем снимать в реальных ресторанах. | And now we will film in real restaurants. | #212: и теперь будем снимать<br>#213: в реальных ресторанах | adapted: adapted |
 | 10 | Шеф | С чего это вдруг такая честь? | Why such an honor all of a sudden? | #214: С чего это вдруг такая честь? | adapted: exact |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, did you kiss Gulya?' By asking whether Barinov kisses Gulya, Kostya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Even you already know.' Between the work and the menu, Lyova gives Barinov a quick, grounded response.
-- 'Do you know how Nastya and I kissed for the first time?' Asking whether Barinov knows how Nastya and he kissed for the first time is how Kostya puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We were skating on rollerblades.' Noting that they were skating on rollerblades keeps Kostya's side of the story simple and clear.
-- 'I caught her and dipped her.' Even though he caught her and dipped, Kostya keeps a steady face in front of Barinov.
-- 'I understood everything, I am ready.' Admitting that he understood everything he is ready shows Lyova being honest for a change.
-- 'Viktor Petrovich, hello.' With the point and menu in play, Barinov keeps this short reply brisk and direct.
-- 'This is the show's producer, we are changing the concept of our program.' Once this is the show producer they are changing the concept of their program, Kostya can finally tell Barinov what he means.
-- 'And now we will film in real restaurants.' Adding that they will film in real restaurants fills in the missing piece for Barinov.
-- 'Why such an honor all of a sudden?' With the moment and menu hanging in the air, Barinov puts Kostya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Rumors reached us that you introduced a new auteur menu.' Around the point and menu, Kostya sets a calm, everyday tone with Barinov.
-- 'Who, if not you, is the best chef in the country?' When Kostya asks if who if not Barinov is the best in the country, Barinov has to answer fast. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Well, did you kiss Gulya?' Kostya wonders warmly with Barinov now, using "potseloval" (from "potselovat", "to kiss") alongside "nu" ("oh, come on") to shape the meaning.
+- 'Even you already know.' Lyova shares a direct mood during the exchange, combining "uzhe" ("already, now") and "znayesh" ("know") so the key meaning lands right away.
+- 'Do you know how Nastya and I kissed for the first time?' Kostya presses calmly beside Barinov, anchoring the Russian line on "znayesh" ("know") and "kak" ("how") without extra filler.
+- 'We were skating on rollerblades.' Kostya keeps a playful direction toward Lyova, combining "rolikakh" ("rollerblades") and "katalis" ("skated, rode") so the key meaning lands right away.
+- 'I caught her and dipped her.' Kostya strikes a thoughtful tempo in the room, building the phrase around "vzyal" ("took") and "naklonil" ("dipped, leaned") for a crisp, natural delivery.
+- 'I understood everything, I am ready.' Lyova adopts a brisk stance in their talk, leaning on "ponyal" ("understood") before closing the thought with "gotov" ("ready").
+- 'Viktor Petrovich, hello.' Kostya adopts a lively direction right away, building the phrase around "zdravstvuyte" ("hello") and "viktor" ("Viktor") for a crisp, natural delivery.
+- 'This is the show's producer, we are changing the concept of our program.' Kostya takes a playful posture during the exchange, weaving "prodyuser" ("producer") together with "programmy" ("apps, programs") just the way native speakers do.
+- 'And now we will film in real restaurants.' Kostya holds a direct mood in front of Barinov, weaving "teper" ("now") together with "budem" ("will") just the way native speakers do.
+- 'Why such an honor all of a sudden?' Barinov checks calmly to make the point, linking "vdrug" ("suddenly, what if"), "chest" ("honor"), and "chego" ("what") in one brisk exchange.
+- 'Rumors reached us that you introduced a new auteur menu.' Kostya brings a measured footing as the scene unfolds, combining "doshli" ("reached") and "slukhi" ("rumors") so the key meaning lands right away.
+- 'Who, if not you, is the best chef in the country?' Kostya quizzes bluntly with Lyova now, linking "luchshiy" ("best"), "povar" ("chef, cook"), and "strany" ("country") in one brisk exchange.

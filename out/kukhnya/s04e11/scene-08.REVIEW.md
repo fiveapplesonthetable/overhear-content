@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here at last the light has come back on!' Nagiyev insists that here at last the light has come back, leaving Denis no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well then, shall we go to my place now?' Over the shift and the date, Nagiyev presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, I still have important business.' Once she still has important business, Vika can finally tell Denis what she means.
-- 'And what about the casting for the show?' With the shift and date hanging in the air, Vika puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You have come to the wrong person for that.' Saying that Denis has come to the wrong person is how Nagiyev sets the tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am just the host on there!' Saying that he is just the host on there is how Nagiyev takes charge of the moment.
-- 'Where are you going, wait!' Declaring that where are Denis going wait brings Nagiyev's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Thank you, you cheered an old man up.' Around the shift and date, Nagiyev sets a calm, everyday tone with Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you, I tried very hard.' Because he tried very hard, Denis treats the matter as settled.
-- 'Who are you at our place, anyway?' By asking who Denis at their place anyway is, Nagiyev presses Denis for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I work here as a cook.' Admitting that he works here as a cook shows Denis being honest for a change.
-- 'You will also be a musician at our place.' Claiming that Denis will also be a musician at their place sounds confident, even if Denis has doubts.
-- 'I will put you on half-time pay.' Explaining that he will put Denis on half time pay lays the cards on the table for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Thank you very much, Dmitry Vladimirovich!' Over the conversation and the date, Denis lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Here at last the light has come back on!' Nagiyev sets an earnest manner in their talk, combining "nakonets" ("at last, finally") and "poyavilsya" ("appeared") so the key meaning lands right away.
+- 'Well then, shall we go to my place now?' Nagiyev challenges evenly during the talk, linking "poyedem" ("will be off"), "seychas" ("now"), and "nu" ("oh, come on") in one brisk exchange.
+- 'No, I still have important business.' Vika adopts a measured tempo in the room, combining "yeshchyo" ("more, still") and "vazhnyye" ("important") so the key meaning lands right away.
+- 'And what about the casting for the show?' Vika asks sharply without a pause, combining "kak" ("how") and "kasting" ("casting, audition") so the key meaning lands right away.
+- 'You have come to the wrong person for that.' Nagiyev maintains an easygoing tone at once, pairing "sovsem" ("at all") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'I am just the host on there!' Nagiyev shows a candid style in the scene, linking "tam" ("there"), "prosto" ("just"), and "vedushchiy" ("host") in one brisk exchange.
+- 'Where are you going, wait!' Nagiyev shows a clear tone right away, building the phrase around "kuda" ("where to") and "poshla" ("am off") for a crisp, natural delivery.
+- 'Thank you, you cheered an old man up.' Nagiyev shows a direct rhythm at this moment, linking "spasibo" ("thank you"), "poradoval" ("to old"), and "starika" ("old man") in one brisk exchange.
+- 'Thank you, I tried very hard.' Denis sustains a grounded footing in front of Nagiyev, linking "spasibo" ("thank you"), "ochen" ("very much"), and "staralsya" ("tried") in one brisk exchange.
+- 'Who are you at our place, anyway?' Nagiyev probes decisively to keep things clear, placing "voobshche" ("at all") straight beside "ty" ("you") with no word for "to be" needed.
+- 'I work here as a cook.' Denis holds a frank tempo without hesitation, building the phrase around "zdes" ("here") and "rabotayu" ("work") for a crisp, natural delivery.
+- 'You will also be a musician at our place.' Nagiyev brings a serious manner on the spot, anchoring the Russian line on "budesh" ("will") and "yeshchyo" ("more, still") without extra filler.
+- 'I will put you on half-time pay.' Nagiyev takes a clear direction beside Denis, weaving "vozmu" ("will get") together with "polstavki" ("pay") just the way native speakers do.
+- 'Thank you very much, Dmitry Vladimirovich!' Denis maintains an honest tack across the room, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.

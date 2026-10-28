@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Barinov, Viktor Petrovich.' Around the work and kitchen, the inspector sets a calm, everyday tone with Barinov.
-- 'I understand. What will happen to me for this?' Here asking what happen to him for this will shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I think that we will let you go.' Thinking that they will let Barinov goes is how the inspector lays out the situation for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You have very influential friends, Viktor Petrovich.' Saying that Barinov has very influential friends Viktor Petrovich is how the inspector sets the tone with Barinov.
-- 'I agree to everything.' Agreeing to everything moves the conversation forward without extra drama.
-- 'Elena Pavlovna will state the condition to you.' Adding that Elena Pavlovna will state the condition to Barinov fills in the missing piece for Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'He is just an old acquaintance.' Saying that he is just an old acquaintance is how Elena sets the tone with Barinov.
-- 'Will you give me a ride home?' Checking whether Elena gives him a ride home cuts straight through the tension between Barinov and Elena. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I can't, I am without a car today.' Mentioning that she cannot she is without a car today moves the talk in a new direction.
-- 'Alright, I will walk on foot.' Barinov tells Elena that Alright he will walk on foot without dressing it up.
-- 'And what,actually, is the condition?' Wondering if what actually is the condition shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tomorrow you start working for me as my sous-chef.' Explaining that tomorrow Barinov starts working for her as lays the cards on the table for Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Barinov, Viktor Petrovich.' The inspector takes a serious line in their talk, pairing "barinov" ("Barinov") with "viktor" ("Viktor") to get the point across in plain spoken Russian.
+- 'I understand. What will happen to me for this?' Barinov challenges lightly as they speak, pairing "ponimayu" ("understand") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'I think that we will let you go.' The inspector adopts a steady tack in front of Barinov, combining "dumayu" ("I think") and "otpustim" ("to let go, to release") so the key meaning lands right away.
+- 'You have very influential friends, Viktor Petrovich.' The inspector sustains a brisk footing straight away, building the phrase around "ochen" ("very much") and "vliyatelnyye" ("influential") for a crisp, natural delivery.
+- 'I agree to everything.' Barinov favors a thoughtful tack in this beat, weaving "soglasen" ("agreed") together with "ya" ("I") just the way native speakers do.
+- 'Elena Pavlovna will state the condition to you.' The inspector chooses a frank tack on the spot, joining "ozvuchit" ("to state") to "yego" ("him") so every word pulls its weight.
+- 'He is just an old acquaintance.' Elena maintains an emphatic tone in their talk, linking "prosto" ("just") directly with "staryy" ("old"), since Russian drops "is" and "are" in the present.
+- 'Will you give me a ride home?' Barinov probes lightly to make the point, joining "doma" ("at home") to "podbrosite" ("to home") so every word pulls its weight.
+- 'I can't, I am without a car today.' Elena shares a grounded posture on the spot, putting "mogu" ("can") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'Alright, I will walk on foot.' Barinov adopts a warm posture in this beat, anchoring the Russian line on "proydus" ("to walk over") and "peshkom" ("on foot") without extra filler.
+- 'And what,actually, is the condition?' Barinov tests bluntly from the start, joining "sobstvenno" ("actually") to "usloviya" ("conditions") so every word pulls its weight.
+- 'Tomorrow you start working for me as my sous-chef.' Elena takes a steady rhythm beside the inspector, putting "zavtra" ("tomorrow") alongside "vykhodite" ("step out, come out") in a tight, everyday turn of phrase.

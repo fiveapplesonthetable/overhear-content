@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how much could this be worth?' Questioning whether tell him how much could this be worth is how Timur tests Sasha's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I do not know how much glass goes for these days.' Since he does not know how much glass goes for these days, Timur does not waste words on excuses.
-- 'Uncle Timur, I have a university education!' Once someone Timur he has a university education, Timur makes sure Sasha hears every word.
-- 'And how else are we supposed to sell stale fish?' Asking whether how else are they supposed to sell stale fish puts Sasha right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Learn, student, this is real marketing!' By telling Sasha to learn student this is real marketing, Timur raises the stakes in the room at once. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Tell me, why is there so much fish?' Questioning whether tell her why is there so much fish is how Sasha tests Timur's story.
-- 'Well, apparently because today is Thursday.' Once apparently because today is Thursday, Vika can finally tell Sasha what she means.
-- 'Sasha, I want to congratulate you too.' Here wanting to congratulate Sasha sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Congratulate me, thank you very much, Vika.' Even though Timur should congratulate her thank Timur very much, Sasha keeps a steady face in front of Timur.
-- 'Next time my husband is helping you...' Since next time her husband is helping Sasha, Vika does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Please be more careful, do not lose anything.' Mentioning that be more careful do not lose anything moves the talk in a new direction. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Girls, enough whispering, we are kidnapping the bride!' Sasha insists that girls enough whispering they are kidnapping the bride, leaving Timur no room to argue.
+- 'Tell me, how much could this be worth?' Timur checks naturally from the start, putting "skazhite" ("tell") alongside "skolko" ("how much, so much") in a tight, everyday turn of phrase.
+- 'I do not know how much glass goes for these days.' Timur favors a sharp rhythm for Vika, linking "znayu" ("know"), "pochyom" ("how much"), and "nynche" ("goes") in one brisk exchange.
+- 'Uncle Timur, I have a university education!' Timur holds a wry attitude in the room, weaving "dyadya" ("Uncle") together with "vyssheye" ("highest, supreme") just the way native speakers do.
+- 'And how else are we supposed to sell stale fish?' Timur asks earnestly without a pause, pairing "kak" ("how") with "inache" ("otherwise") to get the point across in plain spoken Russian.
+- 'Learn, student, this is real marketing!' Timur displays an unhurried footing in the scene, linking "uchis" ("learn"), "student" ("student"), and "nastoyashchiy" ("real, genuine") in one brisk exchange.
+- 'Tell me, why is there so much fish?' Sasha asks bluntly to keep things clear, leaning on "skazhite" ("tell") before closing the thought with "pochemu" ("why").
+- 'Well, apparently because today is Thursday.' Vika chooses an unhurried position in their talk, placing "vidimo" ("apparently") straight beside "potomu" ("because") with no word for "to be" needed.
+- 'Sasha, I want to congratulate you too.' Vika holds a warm attitude at once, weaving "tozhe" ("too") together with "khochu" ("want") just the way native speakers do.
+- 'Congratulate me, thank you very much, Vika.' Sasha chooses an easygoing style in the scene, building the phrase around "pozdravit" ("to congratulate") and "spasibo" ("thank you") for a crisp, natural delivery.
+- 'Next time my husband is helping you...' Vika establishes a playful footing as the scene unfolds, pairing "kogda" ("when") with "muzh" ("husband") to get the point across in plain spoken Russian.
+- 'Please be more careful, do not lose anything.' Vika sustains a playful stance for Sasha, putting "bud" ("were he") alongside "akkuratney" ("more carefully") in a tight, everyday turn of phrase.
+- 'Girls, enough whispering, we are kidnapping the bride!' Sasha shows a candid course in this beat, weaving "devochki" ("girl's") together with "khvatit" ("enough") just the way native speakers do.

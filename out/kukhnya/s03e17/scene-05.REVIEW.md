@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, what difference does it make who earns money?' When Max asks if what difference does it make who earns money, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A real restaurant makes good food.' Mentioning that a real restaurant makes good food moves the talk in a new direction.
-- 'Only Louis's accent will remain in our restaurant.' Barinov reminds Max that only Louis accent will remain in their restaurant before the moment passes.
-- 'Because they will kick all of us out of here.' Because because they will kick all of them out of here, Barinov treats the matter as settled.
-- 'Guys, attention, everyone listen carefully.' With the point and dish in play, Nagiyev keeps this short reply brisk and direct.
-- 'Today we have a banquet for an important man.' Nagiyev mentions that today they have a banquet for an important man so Barinov sees what is at stake.
-- 'He is a very important man with big money.' Because he is a very important man with big money, Nagiyev treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'So let us do everything at the highest level.' Realizing that they should do everything at the highest level changes how Nagiyev handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Did everyone understand me? Come on, brothers, to work!' By checking whether everyone understand him, Nagiyev presses Barinov for a straight answer.
-- 'We are even supposed to help sell ourselves more expensively!' Once they are even supposed to help sell themselves more expensively, Barinov makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'No way, they will not live to see that!' Declaring that way they will not live to see brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We will throw such a banquet for this guest today!' Barinov insists that they will throw such a banquet for this guest today, leaving Max no room to argue.
+- 'Chef, what difference does it make who earns money?' Max prompts calmly in the scene, pairing "raznitsa" ("difference") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'A real restaurant makes good food.' Barinov favors a firm tempo with Nagiyev, leaning on "nastoyashchiy" ("real, genuine") before closing the thought with "restoran" ("restaurant").
+- 'Only Louis's accent will remain in our restaurant.' Barinov shows a calm course as they talk, putting "restorane" ("restaurant") alongside "ostanetsya" ("will remain") in a tight, everyday turn of phrase.
+- 'Because they will kick all of us out of here.' Barinov sustains a clear approach on the spot, leaning on "potomu" ("because") before closing the thought with "otsyuda" ("from here").
+- 'Guys, attention, everyone listen carefully.' Nagiyev presents a steady manner in their talk, pairing "rebyata" ("the boys, the lads") with "vnimaniye" ("attention") to get the point across in plain spoken Russian.
+- 'Today we have a banquet for an important man.' Nagiyev picks a clear footing for Max, combining "segodnya" ("today") and "banket" ("banquet") so the key meaning lands right away.
+- 'He is a very important man with big money.' Nagiyev displays a serious position in the scene, weaving "ochen" ("very much") together with "vazhnyy" ("important") just the way native speakers do.
+- 'So let us do everything at the highest level.' Nagiyev keeps a serious attitude at once, joining "poetomu" ("that's why") to "davayte" ("let's") so every word pulls its weight.
+- 'Did everyone understand me? Come on, brothers, to work!' Nagiyev probes quietly to keep things clear, weaving "ponyali" ("did you understand") together with "davayte" ("let's") just the way native speakers do.
+- 'We are even supposed to help sell ourselves more expensively!' Barinov favors an easygoing bearing without hesitation, putting "yeshchyo" ("more, still") alongside "pomozhem" ("will help") in a tight, everyday turn of phrase.
+- 'No way, they will not live to see that!' Barinov brings a warm tempo in their talk, using "dozhdutsya" (from "dozhdatsya", "to wait for") alongside "nu" ("oh, come on") to shape the meaning.
+- 'We will throw such a banquet for this guest today!' Barinov chooses an unhurried stance without hesitation, combining "gostyu" ("to the guest") and "banket" ("banquet") so the key meaning lands right away.

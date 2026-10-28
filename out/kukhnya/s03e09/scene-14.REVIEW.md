@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, did he really always drink like this?' Here checking whether he really always drink like this shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'As far as I remember, yes, always.' Katya tells Max that as far as she remembers yes always without dressing it up.
-- 'In childhood he took me to the market.' Since in childhood he took her to the market, Katya does not waste words on excuses.
-- 'There he accidentally lost me.' Mentioning that there he accidentally lost moves the talk in a new direction.
-- 'Later he found me, and as a result he quit drinking.' Katya reminds Max that later he found her and as a result he quit drinking before the moment passes. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'A great idea was just born in my head.' Because a great idea was just born in his head, Max treats the matter as settled.
-- 'But you have to help me with it.' Explaining that Katya has to help him with it lays the cards on the table for Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, I will definitely help you.' Katya mentions that Alright she will definitely help Max so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Quiet, you and I will finish talking later.' Claiming that quiet Katya and he will finish talking later sounds confident, even if Katya has doubts.
-- 'Katya, did you bring your documents?' By asking whether Katya brings Katya's documents, Vika presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Excuse me, I forgot again today.' Katya explains that she forgot again today, keeping her voice calm and direct.
-- 'Let me definitely bring them tomorrow.' Noting that Max should let her definitely bring them tomorrow keeps Katya's side of the story simple and clear.
+- 'Listen, did he really always drink like this?' Max probes calmly toward Katya here, weaving "slushay" ("listen") together with "vsegda" ("always") just the way native speakers do.
+- 'As far as I remember, yes, always.' Katya maintains an earnest approach in their talk, building the phrase around "naskolko" ("as far as") and "pomnyu" ("remember") for a crisp, natural delivery.
+- 'In childhood he took me to the market.' Katya strikes a steady tempo in this beat, linking "detstve" ("childhood"), "vzyal" ("took"), and "rynok" ("market") in one brisk exchange.
+- 'There he accidentally lost me.' Katya chooses a steady tone in their talk, joining "tam" ("there") to "sluchayno" ("by any chance") so every word pulls its weight.
+- 'Later he found me, and as a result he quit drinking.' Katya presents a lively attitude as they talk, pairing "potom" ("then") with "nashyol" ("found") to get the point across in plain spoken Russian.
+- 'A great idea was just born in my head.' Max shares a pointed tack in their talk, combining "seychas" ("now") and "rodilas" ("was born") so the key meaning lands right away.
+- 'But you have to help me with it.' Max presents an emphatic footing on the spot, pairing "dolzhna" ("should, must") with "pomoch" ("to help") to get the point across in plain spoken Russian.
+- 'Alright, I will definitely help you.' Katya sets a calm direction as the scene unfolds, building the phrase around "khorosho" ("good, fine") and "obyazatelno" ("surely, without fail") for a crisp, natural delivery.
+- 'Quiet, you and I will finish talking later.' Max sustains a lively attitude at this moment, joining "tikho" ("easy, quiet") to "potom" ("then") so every word pulls its weight.
+- 'Katya, did you bring your documents?' Vika challenges pointedly in the room, building the phrase around "dokumenty" ("the documents") and "prinesla" ("brought") for a crisp, natural delivery.
+- 'Excuse me, I forgot again today.' Katya sustains an unhurried direction in their talk, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "segodnya" ("today") to shape the meaning.
+- 'Let me definitely bring them tomorrow.' Katya shares a lively style with Vika, weaving "davayte" ("let's") together with "tochno" ("definitely") just the way native speakers do.

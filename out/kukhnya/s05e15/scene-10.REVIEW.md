@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know, Vitya, you really are a very good person!' Declaring that Barinov really are a very good person brings the guest's temper right to the surface.
-- 'And I will not take a single ruble from you.' Saying that he will not take a single ruble from Barinov is how the guest sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, it is decided, I am divorcing Lena completely for free!' Saying that it is decided he is divorcing completely for free is how the guest takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Thank you very much, Gena, you are a true comrade!' Barinov declares that very much the guest is a true comrade as the tension in the room peaks.
-- 'For free, but only on one important condition.' Around the shift and money, the guest sets a calm, everyday tone with Barinov.
-- 'I absolutely must paint your portrait right now!' Insisting that he absolutely must paint Barinov's portrait right now shows the guest is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What? What portrait in the middle of the workplace?' Over the plan and the money, Barinov presses the guest for a straight answer.
-- 'Just take a close look at yourself right now!' Around the truth and room, the guest makes his point loud and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Look how much immense strength and energy is in you!' The guest insists that how much immense strength and energy is in Barinov, leaving Barinov no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Fine, the heck with you, go ahead and paint quickly!' Saying that fine the heck with the guest goes ahead and paint quickly is how Barinov takes charge of the moment.
-- 'No, not right here, I need plenty of space!' The guest declares that not right here he needs plenty of space as the tension in the room peaks. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I want to paint you on a summit, not in a cave!' Wanting to paint Barinov on a summit not in a cave is the guest's blunt reaction in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'You know, Vitya, you really are a very good person!' The guest brings a measured attitude straight away, putting "znayesh" ("know") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'And I will not take a single ruble from you.' The guest strikes a frank attitude at this moment, using "rublya" (from "rubl", "ruble") alongside "vozmu" ("will get") to shape the meaning.
+- 'Yes, it is decided, I am divorcing Lena completely for free!' The guest shows a frank style beside Barinov, pairing "resheno" ("decided, settled") with "razvozhus" ("to get divorced") to get the point across in plain spoken Russian.
+- 'Thank you very much, Gena, you are a true comrade!' Barinov establishes a measured tone in their talk, leaning on "bolshoye" ("big, very much") before closing the thought with "spasibo" ("thank you").
+- 'For free, but only on one important condition.' The guest keeps an unhurried posture as the scene unfolds, anchoring the Russian line on "besplatno" ("for free") and "tolko" ("only") without extra filler.
+- 'I absolutely must paint your portrait right now!' The guest sets a warm approach as the scene unfolds, combining "obyazatelno" ("surely, without fail") and "dolzhen" ("has to, must") so the key meaning lands right away.
+- 'What? What portrait in the middle of the workplace?' Barinov questions evenly as the beat lands, anchoring the Russian line on "yeshchyo" ("more, still") and "portret" ("portrait") without extra filler.
+- 'Just take a close look at yourself right now!' The guest brings a playful attitude in their talk, anchoring the Russian line on "tolko" ("only") and "vnimatelno" ("carefully, attentively") without extra filler.
+- 'Look how much immense strength and energy is in you!' The guest projects a pointed line in the scene, joining "posmotri" ("look") to "skolko" ("how much, so much") so every word pulls its weight.
+- 'Fine, the heck with you, go ahead and paint quickly!' Barinov sustains a serious rhythm at once, weaving "chyort" ("darn, heck") together with "davay" ("let's") just the way native speakers do.
+- 'No, not right here, I need plenty of space!' The guest presents a warm style in the room, linking "zdes" ("here"), "nuzhno" ("necessary"), and "prostranstvo" ("space") in one brisk exchange.
+- 'I want to paint you on a summit, not in a cave!' The guest shares a direct tack across the room, putting "khochu" ("want") alongside "napisat" ("to write") in a tight, everyday turn of phrase.

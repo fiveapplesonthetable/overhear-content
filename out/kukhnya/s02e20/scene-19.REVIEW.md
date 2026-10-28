@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, why is he singing about Nastya?' Here asking why he singing about Nastya is shows Max looking for the real truth.
-- 'The bride's name is supposed to be Katya.' Mentioning that the bride name is supposed to be Katya moves the talk in a new direction.
-- 'Will you marry me?' Asking whether Barinov marries cuts straight through the tension between Nastya and Barinov.
-- 'Onward to fun contests and charades.' With the plan and banquet in play, Max keeps this short reply brisk and direct.
-- 'Do we actually have any fun contests and charades?' Here checking whether they actually have any fun contests and charades shows Barinov looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'None that are fun.' Nastya mentions that none that are fun so Barinov sees what is at stake.
-- 'Let us all have a drink instead.' Even though they should all have a drink instead, Max keeps a steady face in front of Barinov.
-- 'Do you not want to thank Max for today?' Asking whether Max not want to thank Max for today is how Barinov puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, Chef, Oguzok was a real champion today.' Nastya explains that Oguzok was a real champion today, keeping her voice calm and direct.
-- 'Thank you, Oguzok.' Around the wedding and kitchen, Max sets a calm, everyday tone with Barinov.
-- 'Does that mean you have forgiven me?' Asking whether that mean Max has forgiven him cuts straight through the tension between Barinov and Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Can I come back to work?' Checking whether she comes back to work is how Nastya puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I already told you, I will not take you back.' Admitting that he already told Barinov he will not take Barinov back shows Max being honest for a change.
+- 'Wait, why is he singing about Nastya?' Max prompts earnestly without hesitation, putting "ponyal" ("understood") alongside "pochemu" ("why") in a tight, everyday turn of phrase.
+- 'The bride's name is supposed to be Katya.' Barinov projects a natural bearing for Nastya, linking "nevesta" ("bride, fiancée") directly with "zhe" ("but, after all"), since Russian drops "is" and "are" in the present.
+- 'Will you marry me?' Nastya queries dryly without hesitation, anchoring the Russian line on "vyydi" ("step out, go out") and "zhe" ("but, after all") without extra filler.
+- 'Onward to fun contests and charades.' Max conveys a warm angle with Nastya, joining "veselym" ("cheerful, merry") to "konkursam" ("contest, competition") so every word pulls its weight.
+- 'Do we actually have any fun contests and charades?' Barinov prompts wryly toward Max here, pairing "yest" ("there is") with "veselyye" ("cheerful, merry") to get the point across in plain spoken Russian.
+- 'None that are fun.' Nastya strikes an easygoing style at this moment, combining "veselykh" ("cheerful, merry") and "net" ("no") so the key meaning lands right away.
+- 'Let us all have a drink instead.' Max conveys a firm tone as the scene unfolds, pairing "davayte" ("let's") with "luchshe" ("better") to get the point across in plain spoken Russian.
+- 'Do you not want to thank Max for today?' Barinov asks quietly in this moment, leaning on "khochesh" ("do you want") before closing the thought with "poblagodarit" ("to thank").
+- 'Yes, Chef, Oguzok was a real champion today.' Nastya strikes a thoughtful bearing right away, pairing "aguzok" ("rookie, greenhorn") with "krasavets" ("handsome man") to get the point across in plain spoken Russian.
+- 'Thank you, Oguzok.' Max sustains a firm manner in the conversation, combining "spasibo" ("thank you") and "aguzok" ("rookie, greenhorn") so the key meaning lands right away.
+- 'Does that mean you have forgiven me?' Barinov prompts dryly to keep things clear, pairing "znachit" ("then, so") with "prostili" ("forgave") to get the point across in plain spoken Russian.
+- 'Can I come back to work?' Nastya prompts wryly in their exchange, linking "mogu" ("can"), "vernutsya" ("to return"), and "ya" ("I") in one brisk exchange.
+- 'I already told you, I will not take you back.' Max strikes an unhurried rhythm as the scene unfolds, weaving "skazal" ("said") together with "vozmu" ("will get") just the way native speakers do.

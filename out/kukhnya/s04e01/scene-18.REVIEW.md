@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are lucky they invited me to the casting anyway.' Mentioning that Barinov is lucky they invited him to the casting anyway moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I knew all along they would invite you.' Barinov reminds Max that he knew all along they would invite Max before the moment passes.
-- 'Chef, your program is starting on TV.' Because Barinov's program is starting, Max treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'All right, go ahead and turn it on.' Over the restaurant and the truth, Barinov answers Max without a second thought. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We accidentally found one more recording.' Max mentions that they accidentally found one more recording so Barinov sees what is at stake.
-- 'We decided to show it.' Claiming that they decided to show it sounds confident, even if Barinov has doubts.
-- 'Aren't you afraid that he will fire you?' Asking whether not Barinov afraid that he will fire Barinov cuts straight through the tension between Max and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Who will fire me? Fire me?' Wondering who fire him will is how Barinov puts Max on the spot.
-- 'Then who is going to cook?' Here wondering who going to cook is shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Ridiculous. He is just a clown.' Realizing that he is just a clown changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Vitya, you are fired.' Even though Barinov is fired, Nagiyev keeps a steady face in front of Barinov.
-- 'Denis, hey there, brother.' Around the restaurant and truth, Max sets a calm, everyday tone with Barinov.
+- 'You are lucky they invited me to the casting anyway.' Nagiyev conveys a natural note in front of Barinov, linking "povezlo" ("it was lucky"), "kasting" ("casting, audition"), and "priglasili" ("invited") in one brisk exchange.
+- 'I knew all along they would invite you.' Barinov displays an earnest manner right away, combining "znal" ("knew") and "priglasyat" ("to invite, to call in") so the key meaning lands right away.
+- 'Chef, your program is starting on TV.' Max shows an honest note as the scene unfolds, leaning on "tam" ("there") before closing the thought with "kino" ("cinema, movies").
+- 'All right, go ahead and turn it on.' Barinov strikes an emphatic direction at once, anchoring the Russian line on "davay" ("let's") and "vklyuchay" ("plug in, switch on") without extra filler.
+- 'We accidentally found one more recording.' Max brings a calm view for Barinov, anchoring the Russian line on "sluchayno" ("by any chance") and "obnaruzhili" ("to discover") without extra filler.
+- 'We decided to show it.' Max strikes an earnest rhythm without hesitation, using "reshili" (from "reshit", "decided") alongside "pokazat" ("to show") to shape the meaning.
+- 'Aren't you afraid that he will fire you?' Max challenges evenly with Barinov now, pairing "boites" ("are afraid") with "uvolit" ("will fire") to get the point across in plain spoken Russian.
+- 'Who will fire me? Fire me?' Barinov prompts promptly in the scene, anchoring the Russian line on "uvolit" ("will fire") and "kto" ("who") without extra filler.
+- 'Then who is going to cook?' Barinov wonders boldly at this point, pairing "gotovit" ("to cook") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Ridiculous. He is just a clown.' Barinov holds a firm direction in their talk, weaving "smeshno" ("ridiculous") together with "prosto" ("just") just the way native speakers do.
+- 'Vitya, you are fired.' Nagiyev strikes a natural tack at this moment, weaving "uvolen" ("fired") together with "vitya" ("Vitya") just the way native speakers do.
+- 'Denis, hey there, brother.' Max maintains a calm tempo during the exchange, pairing "denis" ("Denis") with "zdorovo" ("great, cool") so the "-sya" ending carries the action.

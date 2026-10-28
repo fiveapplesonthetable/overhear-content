@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Find out how quickly a foreign passport can be renewed.' By finding out how quickly a foreign passport can be renewed, Eleonora keeps her side of the story grounded. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'In a month I need to be in Milan.' Saying that in a month she needs to be in Milan is how Eleonora sets the tone with Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I cannot wait that long!' Because she cannot wait that long, Eleonora does not bother softening the blow for Barinov.
-- 'I only have one month left!' Saying that she only has one month left is how Eleonora takes charge of the moment. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'When filleting the fish you must be extremely careful.' Max reminds Barinov that when filleting the fish Barinov must be extremely careful before the moment passes. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Strong poison is contained in the roe, skin, and liver.' Because strong poison is contained in the roe skin and liver, Max treats the matter as settled.
-- 'We begin the filleting by removing the skin.' By beginning the filleting by removing the skin, Max keeps his side of the story grounded.
-- 'Look, Timur brought us the fresh fugu.' Barinov mentions that Timur brought them the fresh fugu so Eleonora sees what is at stake.
-- 'Oguzok, do you want to back out before it is too late?' Asking whether Oguzok do Eleonora wants to back out before it is too late puts Eleonora right on the defensive.
-- 'In the best case, terrible poisoning awaits you.' With the fish and phone in play, Barinov keeps this short reply brisk and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And in the worst case—a modest, quiet memorial service.' Over the fish and the phone, Barinov answers Eleonora without a second thought. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Yes, Chef, I will finish the orders now and we will start.' Realizing that he will finish the orders now and they will start changes how Max handles the situation.
+- 'Find out how quickly a foreign passport can be renewed.' Eleonora presents a wry rhythm with Barinov, combining "uznay" ("find out") and "vremya" ("time") so the key meaning lands right away.
+- 'In a month I need to be in Milan.' Eleonora shows a grounded bearing in front of Max, building the phrase around "mesyats" ("month") and "nado" ("it is necessary") for a crisp, natural delivery.
+- 'I cannot wait that long!' Eleonora maintains a resolute attitude on the spot, putting "mogu" ("can") alongside "dolgo" ("for a long time") in a tight, everyday turn of phrase.
+- 'I only have one month left!' Eleonora keeps a candid tone at this moment, building the phrase around "mesyats" ("month") and "ostalsya" ("remained") for a crisp, natural delivery.
+- 'When filleting the fish you must be extremely careful.' Max presents a serious manner without hesitation, anchoring the Russian line on "razdelke" ("cutting, preparation") and "ryby" ("of fish") without extra filler.
+- 'Strong poison is contained in the roe, skin, and liver.' Max shows a calm style with Eleonora, leaning on "silnyy" ("the strong") before closing the thought with "yad" ("poison, venom").
+- 'We begin the filleting by removing the skin.' Max projects a lively tone on the spot, weaving "nachinayem" ("are starting") together with "razdelku" ("cutting, preparation") just the way native speakers do.
+- 'Look, Timur brought us the fresh fugu.' Barinov conveys a steady course right away, linking "smotri" ("look"), "svezhuyu" ("fresh"), and "fugu" ("fugu, pufferfish") in one brisk exchange.
+- 'Oguzok, do you want to back out before it is too late?' Barinov wonders candidly during the talk, leaning on "khochesh" ("do you want") before closing the thought with "otkazatsya" ("to refuse, decline").
+- 'In the best case, terrible poisoning awaits you.' Barinov sets an unhurried tone in the conversation, pairing "luchshem" ("best") with "sluchaye" ("case, event") to get the point across in plain spoken Russian.
+- 'And in the worst case—a modest, quiet memorial service.' Barinov shows a brisk position with Eleonora, linking "khudshem" ("worst"), "skromnaya" ("modest, humble"), and "tikhaya" ("quiet") in one brisk exchange.
+- 'Yes, Chef, I will finish the orders now and we will start.' Max sustains a calm stance with Eleonora, weaving "seychas" ("now") together with "zakonchu" ("will finish") just the way native speakers do.

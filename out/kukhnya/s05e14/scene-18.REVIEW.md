@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is nice that such a pretty girl came to work with us.' Ilya mentions that it is nice that such a pretty girl came to work with them so the hostess sees what is at stake.
-- 'Thank you very much for such kind words.' Around the moment and interview, the hostess sets a calm, everyday tone with Ilya.
-- 'We will definitely need to get to know each other better.' Pointing out that they will definitely need to get to know each other better gives the hostess a sobering reality check. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Listen, what on earth are you allowing yourself here?' The hostess asks whether what on earth are Ilya allowing themselves here, refusing to let the point slide. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'If you want to work in the restaurant, you will have to agree.' Realizing that if the hostess wants to work in the restaurant the hostess will have to agree changes how Ilya handles the situation.
-- 'If you behave well, you will make a fast career.' Noting that if the hostess behave well the hostess will make a fast career keeps Ilya's side of the story simple and clear.
-- 'Look, our director's career turned out great!' Declaring that their director career turned out great brings Ilya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You are simply an insolent jerk, I am leaving!' The hostess insists that Ilya is simply an insolent jerk she is leaving, leaving Ilya no room to argue.
-- 'Ouch, what did you hit me so hard for?' Ilya asks whether ouch what did the hostess hits him so hard, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Oksana, excuse us, what happened here with you?' Turning from the interview to the shift, Mikhail asks the hostess directly. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'She suddenly started fighting out of nowhere!' Because she suddenly started fighting out of nowhere, Ilya does not bother softening the blow for the hostess.
-- 'Endure it, Ilya, rich people have their own quirks.' Mikhail tells the hostess that endure it Ilya rich people have their own quirks without dressing it up.
+- 'It is nice that such a pretty girl came to work with us.' Ilya establishes a lively view across the room, anchoring the Russian line on "khorosho" ("good, fine") and "simpatichnaya" ("pretty") without extra filler.
+- 'Thank you very much for such kind words.' The hostess keeps a firm tone right away, linking "bolshoye" ("big, very much"), "spasibo" ("thank you"), and "dobryye" ("good, kind") in one brisk exchange.
+- 'We will definitely need to get to know each other better.' Ilya shows a calm angle in this beat, weaving "nado" ("it is necessary") together with "budet" ("will be") just the way native speakers do.
+- 'Listen, what on earth are you allowing yourself here?' The hostess inquires sharply at this point, leaning on "poslushayte" ("listen") before closing the thought with "voobshche" ("at all").
+- 'If you want to work in the restaurant, you will have to agree.' Ilya takes an earnest line as the scene unfolds, pairing "pridyotsya" ("you'll have to") with "khotite" ("want") so the "-sya" ending carries the action.
+- 'If you behave well, you will make a fast career.' Ilya maintains a clear note in front of Mikhail, leaning on "budete" ("will be") before closing the thought with "vesti" ("to conduct").
+- 'Look, our director's career turned out great!' Ilya sustains a sharp footing at this moment, joining "smotrite" ("look") to "direktora" ("director") so every word pulls its weight.
+- 'You are simply an insolent jerk, I am leaving!' The hostess takes a frank bearing on the spot, leaning on "prosto" ("just") before closing the thought with "naglyy" ("insolent").
+- 'Ouch, what did you hit me so hard for?' Ilya tests directly from the start, putting "silno" ("strongly, much") alongside "udarili" ("to hit, to strike") in a tight, everyday turn of phrase.
+- 'Oksana, excuse us, what happened here with you?' Mikhail queries evenly without holding back, leaning on "oksana" ("oksana") before closing the thought with "izvinite" ("sorry, excuse me").
+- 'She suddenly started fighting out of nowhere!' Ilya shows a pointed mood across the room, joining "vdrug" ("suddenly, what if") to "dratsya" ("to fight") so every word pulls its weight.
+- 'Endure it, Ilya, rich people have their own quirks.' Mikhail adopts a direct attitude in front of Ilya, putting "terpi" ("bear, endure") alongside "bogatykh" ("rich") in a tight, everyday turn of phrase.

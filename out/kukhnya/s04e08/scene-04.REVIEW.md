@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I heard that strange conversation with my own ears!' Because he heard that strange conversation with his own ears, Barinov does not bother softening the blow for Elena.
-- 'Boys, I am going to step out right now for a couple of hours.' Elena explains that boys she is going to step out right now for a couple of hours, keeping her voice calm and direct.
-- 'Vitya, please keep an eye on the kitchen here.' Once Barinov should keep an eye on the kitchen here, Elena can finally tell Barinov what she means.
-- 'It does not look like they are going to fire Elena Pavlovna.' Noting that it does not look like they are going to fire Elena Pavlovna keeps Lyova's side of the story simple and clear.
-- 'Be quiet, Lyova, do not shout so loudly!' Barinov insists that be quiet Lyova do not shout so loudly, leaving Elena no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Lyova, you did not understand, she does not know this.' Admitting that Elena did not understand she does not know this shows Barinov being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'They simply want to quietly replace her with another chef.' Around the truth and job, Barinov sets a calm, everyday tone with Elena.
-- 'Then we definitely need to warn her!' Over the truth and the job, Lyova lets his real feelings show. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'What is the use, after all you know her well.' Adding that what is the use after all Elena knows her well fills in the missing piece for Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'She will then simply walk out of here proudly on her own.' Saying that she will then simply walk out of here proudly on her own is how Barinov sets the tone with Elena.
-- 'And I really do not want her to leave.' Since he really does not want her to leave, Barinov does not waste words on excuses.
-- 'She is not going anywhere, did you understand me, Lyova?' Barinov asks whether she is not going anywhere did Elena understands him, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I heard that strange conversation with my own ears!' Barinov conveys a calm mood at this moment, using "ushami" (from "ukho", "ear") alongside "slyshal" ("heard") to shape the meaning.
+- 'Boys, I am going to step out right now for a couple of hours.' Elena sets a frank footing in the room, anchoring the Russian line on "malchiki" ("boys") and "seychas" ("now") without extra filler.
+- 'Vitya, please keep an eye on the kitchen here.' Elena presents a pointed rhythm toward Barinov, putting "prismotri" ("supervision") alongside "tut" ("here") in a tight, everyday turn of phrase.
+- 'It does not look like they are going to fire Elena Pavlovna.' Lyova displays a warm course on the spot, pairing "sobirayutsya" ("gather, are gathering") with "pokhozhe" ("like, similar") so the "-sya" ending carries the action.
+- 'Be quiet, Lyova, do not shout so loudly!' Barinov brings a serious mood in their talk, building the phrase around "tikho" ("easy, quiet") and "krichi" ("shout, yell") for a crisp, natural delivery.
+- 'Lyova, you did not understand, she does not know this.' Barinov keeps a sharp bearing across the room, weaving "ponyal" ("understood") together with "znayet" ("knows") just the way native speakers do.
+- 'They simply want to quietly replace her with another chef.' Barinov shows a calm style as the scene unfolds, joining "prosto" ("just") to "khotyat" ("want") so every word pulls its weight.
+- 'Then we definitely need to warn her!' Lyova sets a warm tempo with Elena, anchoring the Russian line on "togda" ("back then") and "nado" ("it is necessary") without extra filler.
+- 'What is the use, after all you know her well.' Barinov sustains a natural tone in front of Elena, using "tolku" (from "tolka", "after") alongside "khorosho" ("good, fine") to shape the meaning.
+- 'She will then simply walk out of here proudly on her own.' Barinov presents an earnest view in this beat, combining "togda" ("back then") and "prosto" ("just") so the key meaning lands right away.
+- 'And I really do not want her to leave.' Barinov favors an earnest footing for Elena, linking "ochen" ("very much"), "khochu" ("want"), and "ukhodila" ("to leave, to go away") in one brisk exchange.
+- 'She is not going anywhere, did you understand me, Lyova?' Barinov asks earnestly to Lyova here, combining "nikuda" ("nowhere, anywhere") and "uydyot" ("will leave") so the key meaning lands right away.

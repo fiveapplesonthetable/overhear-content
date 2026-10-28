@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire scene again without interruption."
 OUTRO = 'That wraps up this scene as vika scolds Nastya for bringing the turtle back into the restaurant, and the cooks advise a desperate Lyova to flee town before nightfall since nobody has a hundred thousand dollars. Until next time!'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('nastya', 'Настя, что Пашка здесь делает?', 'Nastya, what is Pashka doing here?', [(227, 'Настя, что Пашка здесь делает')], ''),
+    ('vika', 'Настя, что Пашка здесь делает?', 'Nastya, what is Pashka doing here?', [(227, 'Настя, что Пашка здесь делает')], ''),
     ('vika', 'Ну, то я его с собой принесла.', 'Well, I brought him along with me.', [(228, 'Ну, то я его с собой принесла')], ''),
     ('nastya', 'Ну, мало ли что дома может случиться.', 'You never know what could happen at home.', [(229, 'Ну, мало ли что дома может случиться')], ''),
     ('vika', 'Настя, подойди сюда.', 'Nastya, come over here.', [(233, 'Настя, подойди сюда')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Слушай, да расслабься ты.', 'Listen, just relax.', [(242, 'Слушай, да расслабься ты')], ''),
 ]
 WALK = [
-    (0, None, '\'Nastya, what is Pashka doing here?\' By wondering what Pashka doing here is, Nastya presses Vika for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (1, None, "'Well, I brought him along with me.' Pointing out that she brought him along gives Nastya a sobering reality check."),
-    (2, None, "'You never know what could happen at home.' Nastya explains that Vika never know what could happen at home, keeping her voice calm and direct."),
-    (3, None, "'Nastya, come over here.' Noting that Nastya should come over here keeps Vika's side of the story simple and clear."),
-    (4, None, "'All right, that is it, I have to go.' Noting that all right that is it she has to go keeps Nastya's side of the story simple and clear."),
-    (5, None, "'Keep an eye on him.' By telling Nastya to keep an eye on him, Vika keeps her side of the story grounded."),
-    (6, None, "'No way, finding a hundred thousand dollars before tonight...' With the restaurant and moment in play, Nastya keeps this short reply brisk and direct."),
-    (7, None, "'You need to run away.' Saying that Nastya needs to run away is how Vika sets the tone with Nastya."),
-    (8, None, "'I do not know, somewhere far away.' Once she does not know somewhere far away, Nastya can finally tell Vika what she means."),
-    (9, None, '\'Just do not tell me the address.\' Adding that just do not tell her the address fills in the missing piece for Nastya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (10, None, "'No, guys, where could I possibly run?' Wondering if guys where could she possibly run shows Nastya caught off guard."),
-    (11, None, '\'You do not have any kids, at least.\' Since Nastya does not have any kids at least, Vika does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (12, None, '\'Listen, just relax.\' Around the kitchen and conversation, Nastya sets a calm, everyday tone with Vika. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (0, None, '\'Nastya, what is Pashka doing here?\' Vika prompts lightly in the room, pairing "zdes" ("here") with "delayet" ("does") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Well, I brought him along with me.\' Vika maintains an unhurried stance right away, leaning on "prinesla" ("brought") before closing the thought with "nu" ("oh, come on").'),
+    (2, None, '\'You never know what could happen at home.\' Nastya keeps a natural mood as the scene unfolds, building the phrase around "malo" ("little, not enough") and "doma" ("at home") for a crisp, natural delivery.'),
+    (3, None, '\'Nastya, come over here.\' Vika sustains a pointed position with Nastya, linking "podoydi" ("approach, go up"), "syuda" ("here"), and "nastya" ("Nastya") in one brisk exchange.'),
+    (4, None, '\'All right, that is it, I have to go.\' Nastya adopts a warm manner in the scene, combining "idti" ("to go") and "nado" ("it is necessary") so the key meaning lands right away.'),
+    (5, None, '\'Keep an eye on him.\' Vika presents a steady line at this moment, putting "prismotri" ("supervision") alongside "za" ("for") in a tight, everyday turn of phrase.'),
+    (6, None, '\'No way, finding a hundred thousand dollars before tonight...\' Nastya shows an emphatic manner during the exchange, building the phrase around "vechera" ("evening") and "nayti" ("to find") for a crisp, natural delivery.'),
+    (7, None, '\'You need to run away.\' Vika strikes a sharp rhythm in the scene, weaving "bezhat" ("to run, flee") together with "nado" ("it is necessary") just the way native speakers do.'),
+    (8, None, '\'I do not know, somewhere far away.\' Nastya strikes a grounded direction with Vika, weaving "znayu" ("know") together with "kuda-nibud" ("anywhere, somewhere") just the way native speakers do.'),
+    (9, None, '\'Just do not tell me the address.\' Vika maintains a steady view right away, pairing "tolko" ("only") with "adres" ("address") to get the point across in plain spoken Russian.'),
+    (10, None, '\'No, guys, where could I possibly run?\' Nastya presses promptly for Vika\'s benefit, pairing "rebyat" ("kids, guys") with "kuda" ("where to") to get the point across in plain spoken Russian.'),
+    (11, None, '\'You do not have any kids, at least.\' Vika brings a serious mood at once, weaving "detey" ("children") together with "tebya" ("you") just the way native speakers do.'),
+    (12, None, '\'Listen, just relax.\' Nastya displays an unhurried footing right away, putting "slushay" ("listen") alongside "rasslabsya" ("relax") in a tight, everyday turn of phrase.'),
 ]

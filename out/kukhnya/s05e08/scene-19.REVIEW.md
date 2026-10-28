@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I think the sheikh will forgive us.' Explaining that he thinks the sheikh will forgive them lays the cards on the table for Max.
-- 'He will definitely forgive us.' Saying that he will definitely forgive them is how Max sets the tone with Barinov.
-- 'Keep in mind, you will answer for this incident personally.' Once Barinov should keep in mind Barinov will answer for this incident personally, Mikhail can finally tell Barinov what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Victoria, maybe it is time for you to go on maternity leave?' Wondering if maybe it is time for Barinov to go on maternity leave shows Mikhail caught off guard.
-- 'Do not yell at my wife!' Saying that do not yell at his wife is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Peel potatoes, boy, do you even know who I am?' Questioning whether peel potatoes boy do Barinov even know who he is is how Mikhail tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am not going anywhere until you apologize to Vika.' Because he is not going anywhere until Barinov apologizes to Vika, Max treats the matter as settled.
-- 'You are fired!' Declaring that Barinov is fired brings Mikhail's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Dzhekovich, go back to your hotel, you have fed up the whole restaurant already.' Explaining that Max should go back to Max's hotel Max has fed up the whole restaurant already lays the cards on the table for Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will write everything in an official report.' Explaining that he will write everything in an official report lays the cards on the table for Barinov.
-- 'And do not forget to mention the tomato.' Barinov mentions that do not forget to mention the tomato so Max sees what is at stake.
-- 'The duty of every man is to protect his woman.' Claiming that the duty of every man is to protect his woman sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'I think the sheikh will forgive us.' Barinov sustains a warm stance in the conversation, weaving "dumayu" ("I think") together with "sheykh" ("sheikh") just the way native speakers do.
+- 'He will definitely forgive us.' Max takes a lively tack straight away, pairing "po-lyubomu" ("definitely") with "prostit" ("will forgive") to get the point across in plain spoken Russian.
+- 'Keep in mind, you will answer for this incident personally.' Mikhail takes a sharp view as the scene unfolds, joining "imeyte" ("to have") to "vidu" ("view, mind") so every word pulls its weight.
+- 'Victoria, maybe it is time for you to go on maternity leave?' Mikhail presses evenly in their exchange, putting "mozhet" ("can") alongside "dekret" ("maternity leave") in a tight, everyday turn of phrase.
+- 'Do not yell at my wife!' Max presents a serious mood in this beat, putting "ori" ("to yell, to bellow") alongside "zhenu" ("wife") in a tight, everyday turn of phrase.
+- 'Peel potatoes, boy, do you even know who I am?' Mikhail checks quietly without holding back, pairing "chisti" ("peel, clean") with "kartoshku" ("potatoes") to get the point across in plain spoken Russian.
+- 'I am not going anywhere until you apologize to Vika.' Max establishes a clear position right away, pairing "izvinishsya" ("apologize") with "nikuda" ("nowhere, anywhere") so the "-sya" ending carries the action.
+- 'You are fired!' Mikhail shares a calm direction with Max, weaving "uvolen" ("fired") together with "ty" ("you") just the way native speakers do.
+- 'Dzhekovich, go back to your hotel, you have fed up the whole restaurant already.' Barinov shares a serious view across the room, combining "idi-ka" ("go on") and "otel" ("hotel") so the key meaning lands right away.
+- 'I will write everything in an official report.' Mikhail favors a sharp approach without hesitation, building the phrase around "napishu" ("will write") and "dokladnoy" ("official report") for a crisp, natural delivery.
+- 'And do not forget to mention the tomato.' Barinov strikes a pointed position in the room, building the phrase around "zabud" ("forget") and "upomyanut" ("to mention") for a crisp, natural delivery.
+- 'The duty of every man is to protect his woman.' Max brings a lively note at once, weaving "dolg" ("debt") together with "kazhdogo" ("everyone") just the way native speakers do.

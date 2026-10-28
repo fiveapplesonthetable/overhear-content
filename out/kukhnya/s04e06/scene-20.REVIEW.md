@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say that bitter truth is better than a sweet lie.' Saying that they say that bitter truth is better than a sweet lie is how Max sets the tone with Vika.
-- 'But not everyone will want to taste that bitterness.' Max tells Vika that not everyone will want to taste that bitterness without dressing it up.
-- 'Although only that way can you feel the taste of life.' Since although only that way can Vika feels the taste of life, Max does not waste words on excuses.
-- 'It is the pleasant taste of victory when everything works out.' Mentioning that it is the pleasant taste of victory when everything works out moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And of course, the bright taste of our family relationship.' Around the money and work, Max sets a calm, everyday tone with Vika.
-- 'Our life is delicious in very different ways.' Because their life is delicious in very different ways, Max treats the matter as settled.
-- 'Vika, take this, here is the money for my rifle.' Here taking this here is the money for his rifle sets up the next turn in their exchange.
-- 'I returned it back to the store today.' Between the wine and the shock, Max gives Vika a quick, grounded response.
-- 'It really is high time for me to grow up.' Claiming that it really is high time for him to grow up sounds confident, even if Vika has doubts.
-- 'By the way, you can return your expensive wine too.' Pointing out that Vika can return Vika's expensive wine gives Vika a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So that they would refund my money for it to you?' Questioning whether that they would refund her money for it to Max is how Vika tests Max's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I already poured that wine down the sink, Max!' Between the apartment and the kitchen, Vika delivers a sharp reaction.
+- 'They say that bitter truth is better than a sweet lie.' Max takes a frank course beside Vika, joining "govoryat" ("talks, says") to "gorkaya" ("bitter") so every word pulls its weight.
+- 'But not everyone will want to taste that bitterness.' Max establishes a brisk direction straight away, pairing "kazhdyy" ("every") with "zakhochet" ("will want") to get the point across in plain spoken Russian.
+- 'Although only that way can you feel the taste of life.' Max offers a measured note in the conversation, joining "tolko" ("only") to "mozhno" ("may, can") so every word pulls its weight.
+- 'It is the pleasant taste of victory when everything works out.' Max displays a grounded tempo toward Vika, combining "priyatnyy" ("nice, pleasant") and "vkus" ("taste") so the key meaning lands right away.
+- 'And of course, the bright taste of our family relationship.' Max chooses a steady approach on the spot, joining "konechno" ("of course") to "yarkiy" ("vivid, bright") so every word pulls its weight.
+- 'Our life is delicious in very different ways.' Max displays an emphatic course across the room, joining "zhizn" ("life") to "byvayet" ("there can be") so every word pulls its weight.
+- 'Vika, take this, here is the money for my rifle.' Max maintains a thoughtful attitude across the room, putting "derzhi" ("here you go") alongside "dengi" ("money") in a tight, everyday turn of phrase.
+- 'I returned it back to the store today.' Max sets a thoughtful attitude right away, leaning on "segodnya" ("today") before closing the thought with "sdal" ("gave up, ratted out").
+- 'It really is high time for me to grow up.' Max shares a wry approach right away, joining "deystvitelno" ("really, indeed") to "uzhe" ("already, now") so every word pulls its weight.
+- 'By the way, you can return your expensive wine too.' Max shares a brisk approach at once, combining the casual transition "kstati" ("by the way") with "dorogoye" ("expensive") to give the line its natural spoken rhythm.
+- 'So that they would refund my money for it to you?' Vika questions evenly to make the point, linking "vernuli" ("returned"), "dengi" ("money"), and "chtoby" ("so that") in one brisk exchange.
+- 'I already poured that wine down the sink, Max!' Vika favors an emphatic note at this moment, putting "uzhe" ("already, now") alongside "vylila" ("to pour out") in a tight, everyday turn of phrase.

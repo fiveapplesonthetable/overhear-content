@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me call you right back.' Barinov explains that Sasha should let him call Sasha right back, keeping his voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Glad to see you.' Around the visit and moment, Vika sets a calm, everyday tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Thank you for the kind words.' Between the visit and the conversation, Sasha gives Barinov a quick, grounded response.
-- 'I am kidding, just kidding.' Claiming that he is kidding just kidding sounds confident, even if Sasha has doubts.
-- 'How are you feeling?' By wondering how Barinov feeling is, Vika presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Oh, stop saying that.' Stopping saying moves the conversation forward without extra drama.
-- 'The last time you were good as new was at the turn of the century.' Saying that the last time Sasha was good as new was at the turn of the century is how Barinov sets the tone with Sasha. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There is just so much work to do.' Once there is just so much work to do, Vika can finally tell Barinov what she means.
-- 'Do not give me away, I will explain everything to you later.' Adding that do not give her away she will explain everything to Barinov later fills in the missing piece for Barinov.
-- 'I am not at the restaurant right now.' Once he is not at the restaurant right now, Barinov can finally tell Sasha what he means. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'A head chef fresh from Paris.' Around the room and work, Vika sets a calm, everyday tone with Barinov.
-- 'Viktoriya Sergeyevna, maybe I should take that table myself?' Questioning whether Viktoriya Sergeyevna maybe she should take that table herself is how Sasha tests Barinov's story.
-- 'There are only three people sitting there.' Barinov reminds Sasha that there are only three people sitting there before the moment passes.
+- 'Let me call you right back.' Barinov sustains a calm tempo beside Sasha, using "day-ka" (from "dat", "give") alongside "perezvonyu" ("will call back") to shape the meaning.
+- 'Glad to see you.' Vika displays a firm manner beside Sasha, leaning on "rad" ("glad") before closing the thought with "videt" ("to see").
+- 'Thank you for the kind words.' Sasha adopts a frank stance in the scene, linking "spasibo" ("thank you"), "dobrom" ("kind, good"), and "slove" ("word") in one brisk exchange.
+- 'I am kidding, just kidding.' Barinov displays an emphatic angle beside Vika, using "shuchu" ("am joking") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'How are you feeling?' Vika quizzes frankly to keep things clear, joining "kak" ("how") to "chuvstvuyesh" ("feel") so every word pulls its weight.
+- 'Oh, stop saying that.' Sasha presents a pointed stance in front of Vika, putting "bros" ("drop it") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'The last time you were good as new was at the turn of the century.' Barinov brings a steady tempo during the exchange, weaving "kak" ("how") together with "novenkiy" ("newcomer") just the way native speakers do.
+- 'There is just so much work to do.' Vika shares a serious note in this beat, leaning on "raboty" ("of work") before closing the thought with "ochen" ("very much").
+- 'Do not give me away, I will explain everything to you later.' Sasha shares a direct style in front of Barinov, leaning on "vydavay" ("to hand out") before closing the thought with "potom" ("then").
+- 'I am not at the restaurant right now.' Barinov shows a calm stance in the room, pairing "restorane" ("restaurant") with "menya" ("me") to get the point across in plain spoken Russian.
+- 'A head chef fresh from Paris.' Vika sets a calm angle as the scene unfolds, weaving "shef-povar" ("head chef") together with "tolko" ("only") just the way native speakers do.
+- 'Viktoriya Sergeyevna, maybe I should take that table myself?' Sasha quizzes frankly in their exchange, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
+- 'There are only three people sitting there.' Barinov projects a sharp style on the spot, joining "tam" ("there") to "cheloveka" ("a man, a person") so every word pulls its weight.

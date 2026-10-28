@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well and what are we going to do?' Wondering what they going to do are is how Kostya puts the guest on the spot.
-- 'Good afternoon, I assembled the wardrobe.' Around the plan and situation, the guest sets a calm, everyday tone with Kostya.
-- 'Inspect my honest work right away.' Around the kitchen and situation, the guest sets a calm, everyday tone with Kostya.
-- 'Thank you very much for the help!' Between the room and the conversation, Nastya delivers a sharp reaction.
-- 'Did it not turn out great, Kostya?' Asking whether it not turn out great is how Nastya puts the guest on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, Nastya, this is my own home.' Saying that this is his own home is how Kostya sets the tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And I will assemble the furniture in it myself.' Once he will assemble the furniture in it himself, Kostya can finally tell the guest what he means.
-- 'Take this whole wardrobe apart immediately!' Declaring that the guest should take this whole wardrobe apart immediately brings Kostya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Listen, I only wanted to help.' Saying that he only wanted to help is how the guest sets the tone with Kostya.
-- 'Kostik, you did not want to assemble it yourself!' Nastya insists that someone the guest did not want to assemble it themselves, leaving the guest no room to argue.
-- 'And right now I want to assemble it myself.' Mentioning that right now he wants to assemble it himself moves the talk in a new direction.
-- 'I said clearly, take it back apart!' Kostya declares that he said clearly take it back apart as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well and what are we going to do?' Kostya quizzes evenly in this moment, linking "delat" ("do"), "budem" ("will"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Good afternoon, I assembled the wardrobe.' The guest takes a candid bearing beside Nastya, combining "dobryy" ("good") and "den" ("day") so the key meaning lands right away.
+- 'Inspect my honest work right away.' The guest offers a clear manner without hesitation, using "prinimayte" (from "prinimat", "accept, inspect") alongside "skoreye" ("quickly, right away") to shape the meaning.
+- 'Thank you very much for the help!' Nastya projects a candid angle at this moment, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
+- 'Did it not turn out great, Kostya?' Nastya challenges naturally in the scene, linking "pravda" ("honestly"), "poluchilos" ("worked out"), and "otlichno" ("perfect, great") in one brisk exchange.
+- 'No, Nastya, this is my own home.' Kostya strikes an earnest tone during the exchange, anchoring the Russian line on "sobstvennyy" ("own, proper") and "dom" ("home, house") without extra filler.
+- 'And I will assemble the furniture in it myself.' Kostya strikes a brisk tempo across the room, building the phrase around "mebel" ("furniture") and "sobirat" ("to collect") for a crisp, natural delivery.
+- 'Take this whole wardrobe apart immediately!' Kostya adopts a pointed rhythm in the conversation, combining "nemedlenno" ("immediately") and "razbiray" ("take apart") so the key meaning lands right away.
+- 'Listen, I only wanted to help.' The guest presents a steady line without hesitation, pairing "poslushay" ("listen") with "pomoch" ("to help") to get the point across in plain spoken Russian.
+- 'Kostik, you did not want to assemble it yourself!' Nastya picks a lively tone across the room, anchoring the Russian line on "khotel" ("wanted") and "sobirat" ("to collect") without extra filler.
+- 'And right now I want to assemble it myself.' Kostya shares a measured rhythm in this beat, combining "seychas" ("now") and "khochu" ("want") so the key meaning lands right away.
+- 'I said clearly, take it back apart!' Kostya holds a brisk style on the spot, putting "yasno" ("clear, got it") alongside "skazal" ("said") in a tight, everyday turn of phrase.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, take this, here is six hundred thousand for you.' Taking this here is six hundred thousand for Kostya is how the guest lays out the situation for Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Throw my daughter a proper wedding!' Telling Kostya to throw his daughter a proper wedding shows the guest is done holding back.
-- 'Do you hear me, a proper wedding!' Saying that do Kostya hears him a proper wedding is how the guest takes charge of the moment. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You see for yourself that she wants this.' Even though for themselves that she wants this, the guest keeps a steady face in front of Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'But she will never take money from me.' Admitting that she will never take money from him shows the guest being honest for a change.
-- 'And how will I explain where I got this money?' Wondering how he explains where he got this money will is how Kostya puts the guest on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What, am I supposed to make up stories for you too?' With the moment and money hanging in the air, the guest puts Kostya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tell her that you found it, stole it, or earned it!' Because Kostya should tell her that Kostya found it stole it or earned it, the guest does not bother softening the blow for Kostya.
-- 'No, that I earned it, she definitely will not believe.' Kostya tells the guest that that he earned it she definitely will not believe without dressing it up.
-- 'There, the wheels are turning in your head, start thinking!' Saying that there the wheels are turning in Kostya's head start thinking is how the guest takes charge of the moment. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Madam, what is the point of all this extra talk?' When Max asks if madam what is the point of all this extra talk, the guest has to answer fast.
-- 'Vika, I love you very much, after all!' Max insists that he loves the guest very much after all, leaving the guest no room to argue. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Kostya, take this, here is six hundred thousand for you.' The guest presents a sharp bearing in front of Kostya, putting "derzhi" ("here you go") alongside "tysyach" ("thousand") in a tight, everyday turn of phrase.
+- 'Throw my daughter a proper wedding!' The guest picks an earnest attitude in the scene, leaning on "ustroy" ("arrange, throw") before closing the thought with "docheri" ("of daughter").
+- 'Do you hear me, a proper wedding!' The guest conveys a clear approach at once, linking "slyshish" ("hear"), "normalnuyu" ("proper, normal"), and "svadbu" ("wedding") in one brisk exchange.
+- 'You see for yourself that she wants this.' The guest maintains a grounded approach in their talk, anchoring the Russian line on "vidish" ("see") and "khochet" ("wants") without extra filler.
+- 'But she will never take money from me.' The guest maintains a warm view in this beat, weaving "deneg" ("money") together with "vozmyot" ("will take, hire") just the way native speakers do.
+- 'And how will I explain where I got this money?' Kostya quizzes dryly at this point, joining "kak" ("how") to "obyasnyu" ("I'll explain") so every word pulls its weight.
+- 'What, am I supposed to make up stories for you too?' The guest probes candidly toward Kostya here, weaving "dolzhen" ("has to, must") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'Tell her that you found it, stole it, or earned it!' The guest maintains a direct tone in the scene, combining "skazhi" ("say") and "nashyol" ("found") so the key meaning lands right away.
+- 'No, that I earned it, she definitely will not believe.' Kostya presents an unhurried footing right away, combining "zarabotal" ("to start working") and "tochno" ("definitely") so the key meaning lands right away.
+- 'There, the wheels are turning in your head, start thinking!' The guest adopts a steady line during the exchange, combining "poshyol" ("went, set off") and "protsess" ("process") so the key meaning lands right away.
+- 'Madam, what is the point of all this extra talk?' Max queries boldly beside the guest, placing "madam" ("madam") straight beside "lishniye" ("unnecessary") with no word for "to be" needed.
+- 'Vika, I love you very much, after all!' Max keeps a lively course on the spot, pairing "ochen" ("very much") with "silno" ("strongly, much") to get the point across in plain spoken Russian.

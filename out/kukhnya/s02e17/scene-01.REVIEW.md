@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wonder how a bomb disposal expert feels.' Saying that he wonders how a bomb disposal expert feels is how Max sets the tone with Barinov.
-- 'Probably the exact same way we do.' Saying that probably the exact same way they do is how Barinov sets the tone with Max.
-- 'When we make the decision to tell the bitter truth or stay silent.' Between the dessert and the morning, Max gives Barinov a quick, grounded response.
-- 'We make our choice.' Here making their choice sets up the next turn in their exchange.
-- 'When are you people finally going to leave, it is impossible to sleep.' Max tells Barinov that when are Barinov people finally going to leave it is impossible to sleep without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'We work until the very last customer.' Working until the very last customer moves the conversation forward without extra drama.
-- 'Wait, what are you still doing here?' Asking what Barinov still doing here is is how Max puts Barinov on the spot.
-- 'I still have one more order.' Barinov reminds Max that he still has one more order before the moment passes. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Have they completely lost their minds?' By checking whether they completely lost their minds, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is two o'clock in the morning.' Explaining that it is two o'clock in the morning lays the cards on the table for Max.
-- 'Tell them that the kitchen is closed.' Explaining that Barinov should tell them that the kitchen is closed lays the cards on the table for Barinov.
-- 'Wait, is this dessert for them?' Here checking whether this dessert for them shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Why did you not say so right away?' By asking why Barinov not say so right away, Max presses Barinov for a straight answer.
+- 'I wonder how a bomb disposal expert feels.' Max conveys a firm angle in front of Barinov, linking "interesno" ("interesting"), "kak" ("how"), and "chuvstvuyet" ("feels") in one brisk exchange.
+- 'Probably the exact same way we do.' Barinov presents an emphatic line straight away, building the phrase around "navernoye" ("probably") and "kak" ("how") for a crisp, natural delivery.
+- 'When we make the decision to tell the bitter truth or stay silent.' Max shares a direct view toward Barinov, leaning on "kogda" ("when") before closing the thought with "prinimayem" ("to receive").
+- 'We make our choice.' Barinov sets an emphatic course at once, using "vybirayem" (from "vybirat", "choose") alongside "my" ("we") to shape the meaning.
+- 'When are you people finally going to leave, it is impossible to sleep.' Max offers a brisk note straight away, anchoring the Russian line on "kogda" ("when") and "uzhe" ("already, now") without extra filler.
+- 'We work until the very last customer.' Barinov brings an emphatic direction toward Max, anchoring the Russian line on "rabotayem" ("we work, let's work") and "poslednego" ("the last") without extra filler.
+- 'Wait, what are you still doing here?' Max probes calmly beside Barinov, weaving "zdes" ("here") together with "delayesh" ("are you doing") just the way native speakers do.
+- 'I still have one more order.' Barinov sustains a frank manner beside Max, leaning on "yeshchyo" ("more, still") before closing the thought with "zakaz" ("order").
+- 'Have they completely lost their minds?' Max tests directly at this point, anchoring the Russian line on "ofigeli" ("to unbelievable") and "oni" ("they") without extra filler.
+- 'It is two o'clock in the morning.' Barinov adopts a measured manner in front of Max, leaning on "chasa" ("hours") before closing the thought with "nochi" ("night").
+- 'Tell them that the kitchen is closed.' Max maintains a measured position in the scene, putting "skazhi" ("say") alongside "kukhnya" ("kitchen") in a tight, everyday turn of phrase.
+- 'Wait, is this dessert for them?' Barinov queries warmly to make the point, linking "eto" ("this") directly with "dlya" ("for"), since Russian drops "is" and "are" in the present.
+- 'Why did you not say so right away?' Max challenges warmly at this point, weaving "srazu" ("at once") together with "skazal" ("said") just the way native speakers do.

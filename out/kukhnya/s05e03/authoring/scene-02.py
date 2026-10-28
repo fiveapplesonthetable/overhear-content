@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = 'Moments after Denis flees, Chef Barinov walks in and exchanges sharp remarks with his ex-wife Eleonora Andreevna—only for Mikhail to introduce her as the owner of Boutique Hotel Eleon. Listen to the reunion.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that lands the second shock of the episode as Barinov learns his ex-wife owns the hotel. Notice Katya's playful imperative 'bite each other without me'. See you next time!"
+OUTRO = "And that lands the second shock of the episode as Barinov learns his ex-wife owns the hotel. Notice Katya's playful command 'bite each other without me'. See you next time!"
 CLOSING = ('barinov', 'До завтра!')
 STORY = [
     ('barinov', 'Вспомнили, что у вас есть дочь?', 'Did you remember that you have a daughter?', [(14, 'вспомнили, что у вас есть дочь?')], 'adapted'),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Прошу у вас прощения.', 'I beg your pardon.', [(32, 'Прошу прощения')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Did you remember that you have a daughter?\' Checking whether Eleonora remembers that Eleonora has a daughter cuts straight through the tension between Barinov and Eleonora. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (1, None, "'I always remembered her.' Eleonora tells Barinov that she always remembered without dressing it up."),
-    (2, None, "'And did you ever think of me?' Here asking whether Barinov ever think shows Eleonora looking for the real truth."),
-    (3, None, '\'I thought of you constantly.\' Mentioning that he thought of Eleonora constantly moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (4, None, "'There were difficult moments in life.' Barinov reminds Eleonora that there were difficult moments in life before the moment passes."),
-    (5, None, "'One remembers you, and things do not seem so bad.' Because one remembers Eleonora and things do not seem so bad, Barinov treats the matter as settled."),
-    (6, None, "'I will go, bite each other without me.' Explaining that she will go bite each other lays the cards on the table for Barinov."),
-    (7, None, '\'Wait, you did not really tell me anything.\' Eleonora mentions that Barinov did not really tell her anything so Barinov sees what is at stake. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (8, None, "'Everything is fine with her at the new place.' Claiming that everything is fine with her at the new place sounds confident, even if Eleonora has doubts."),
-    (9, None, "'You can go stroll around for another five years.' Pointing out that Eleonora can go stroll around for another five years gives Eleonora a sobering reality check."),
-    (10, None, "'Vitya, meet her right now.' Adding that Barinov should meet her right now fills in the missing piece for Barinov."),
-    (11, None, "'This is the owner of our hotel, Eleonora Andreevna.' Realizing that this is the owner of their hotel Eleonora Andreevna changes how Katya handles the situation."),
-    (12, None, '\'I beg your pardon.\' By begging Eleonora\'s pardon, Barinov keeps his side of the story grounded. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (0, None, '\'Did you remember that you have a daughter?\' Barinov questions lightly to make the point, using "vspomnili" (from "vspomnit", "remembered") alongside "yest" ("there is") to shape the meaning.'),
+    (1, None, '\'I always remembered her.\' Eleonora keeps a calm posture in their talk, putting "vsegda" ("always") alongside "pomnila" ("remembered") in a tight, everyday turn of phrase.'),
+    (2, None, '\'And did you ever think of me?\' Eleonora presses promptly on the spot, linking "vspominal" ("remembered"), "ty" ("you"), and "menya" ("me") in one brisk exchange.'),
+    (3, None, '\'I thought of you constantly.\' Barinov shares an honest footing on the spot, pairing "vspominal" ("remembered") with "postoyanno" ("constantly") to get the point across in plain spoken Russian.'),
+    (4, None, '\'There were difficult moments in life.\' Barinov adopts a natural bearing straight away, combining "byvali" ("to happen, to be") and "trudnyye" ("difficult, hard") so the key meaning lands right away.'),
+    (5, None, '\'One remembers you, and things do not seem so bad.\' Barinov establishes a calm position right away, putting "vspomnish" ("will remember") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.'),
+    (6, None, '\'I will go, bite each other without me.\' Katya sustains an honest rhythm for Barinov, building the phrase around "poydu" ("go") and "kusaytes" ("bite each other") for a crisp, natural delivery.'),
+    (7, None, '\'Wait, you did not really tell me anything.\' Eleonora sets a serious posture across the room, doubling the negative with "ne" ("not") and "podozhdi" ("wait"), which is standard and required in Russian.'),
+    (8, None, '\'Everything is fine with her at the new place.\' Barinov strikes an unhurried angle beside Eleonora, putting "novom" ("new") alongside "meste" ("place") in a tight, everyday turn of phrase.'),
+    (9, None, '\'You can go stroll around for another five years.\' Barinov establishes an earnest rhythm in the conversation, combining "mozhesh" ("can") and "yeshchyo" ("more, still") so the key meaning lands right away.'),
+    (10, None, '\'Vitya, meet her right now.\' Katya holds a measured direction in the conversation, weaving "poznakomsya" ("to get acquainted") together with "pryamo" ("right, just") just the way native speakers do.'),
+    (11, None, '\'This is the owner of our hotel, Eleonora Andreevna.\' Katya sets a playful rhythm beside Eleonora, anchoring the Russian line on "khozyayka" ("landlady") and "otelya" ("of the hotel") without extra filler.'),
+    (12, None, '\'I beg your pardon.\' Barinov holds a candid tone right away, using "proshu" (from "prosit", "beg, ask") alongside "proshcheniya" ("forgiveness") to shape the meaning.'),
 ]

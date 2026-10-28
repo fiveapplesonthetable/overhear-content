@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how long have you been bringing coffee to German?' Asking whether how long have German been bringing coffee to German puts German right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What nonsense is that? German Mikhailovich simply asked for coffee.' Wondering if what nonsense is shows Kostya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Today he simply asked for coffee and you brought it.' Admitting that today he simply asked for coffee and German brought it shows Max being honest for a change.
-- 'And tomorrow if he asks you to snitch, you won't refuse either?' When Max asks if tomorrow if he asks German to snitch German will not refuse either, German has to answer fast. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Who, me? I cannot stand him at all.' Questioning whether he cannot stand him at all is how Kostya tests German's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I even spat into his cup.' With the point and coffee in play, Kostya keeps this short reply brisk and direct.
-- 'Really? Spit in it one more time.' Over the work and the coffee, Max presses German for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, watch this.' Over the point and the coffee, Kostya answers German without a second thought. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I join in your hatred, brother.' Max explains that he joins in German's hatred brother, keeping his voice calm and direct.
-- 'A coffee break? I will gladly join you.' With the work and coffee hanging in the air, German puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let's drink some coffee.' Even though they should drink some coffee, German keeps a steady face in front of Kostya.
-- 'And then we will proceed to the evaluation.' Explaining that they will proceed to the evaluation lays the cards on the table for Kostya.
+- 'And how long have you been bringing coffee to German?' Max wonders bluntly during the talk, anchoring the Russian line on "davno" ("for a long time") and "germanu" ("coffee") without extra filler.
+- 'What nonsense is that? German Mikhailovich simply asked for coffee.' Kostya questions boldly at this point, combining "bred" ("nonsense") and "prosto" ("just") so the key meaning lands right away.
+- 'Today he simply asked for coffee and you brought it.' Max shows a candid note as they talk, putting "segodnya" ("today") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'And tomorrow if he asks you to snitch, you won't refuse either?' Max wonders openly in the scene, combining "zavtra" ("tomorrow") and "stuchat" ("to knock") so the key meaning lands right away.
+- 'Who, me? I cannot stand him at all.' Kostya checks calmly in their exchange, weaving "terpet" ("to hold on") together with "mogu" ("can") just the way native speakers do.
+- 'I even spat into his cup.' Kostya adopts a brisk note for Max, combining "chashku" ("a cup") and "plyunul" ("to cup") so the key meaning lands right away.
+- 'Really? Spit in it one more time.' Max quizzes evenly in the room, joining "plyun" ("spit") to "yeshchyo" ("more, still") so every word pulls its weight.
+- 'Alright, watch this.' Kostya holds a pointed stance without hesitation, leaning on "davay" ("let's") as a compact, one-word response that needs no extra words.
+- 'I join in your hatred, brother.' Max takes a measured tack beside German, linking "prisoyedinyayus" ("hatred"), "nenavisti" ("to brother"), and "brat" ("brother") in one brisk exchange.
+- 'A coffee break? I will gladly join you.' German inquires quietly beside Max, leaning on "kofe-breyk" ("coffee") before closing the thought with "udovolstviyem" ("pleasure").
+- 'Let's drink some coffee.' German establishes a sharp line straight away, building the phrase around "vypyem" ("will drink") and "kofeyku" ("drink") for a crisp, natural delivery.
+- 'And then we will proceed to the evaluation.' German offers a clear bearing at once, combining "pristupim" ("to start, get down to") and "attestatsii" ("evaluation") so the key meaning lands right away.

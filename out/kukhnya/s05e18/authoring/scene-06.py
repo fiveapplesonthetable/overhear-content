@@ -7,7 +7,7 @@ SCENE = 6
 TITLE = 'Легенда про мужа и детей  (The Cover Story About a Husband and Kids)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'ainura': 'Айнура', 'gulya': 'Гуля', 'tanya': 'Таня'}
+LABELS = {'ainura': 'Айнура', 'gulya': 'Гуля', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 INTRO = 'Finding the pastry on her table, Gulya panics and assumes Lyova is warning her that he saw her take food last night. Ainura invents a clever cover story to keep Gulya from being fired.'
@@ -27,19 +27,19 @@ STORY = [
     ('ainura', 'Скажи, что у тебя муж и дети.', 'Say that you have a husband and children.', [(100, 'потому что у тебя муж, дети')], 'adapted'),
     ('ainura', 'Скажи, что ты деньги высылаешь им.', 'Say that you send money home to them.', [(101, 'И ты деньги высылаешь им')], 'adapted'),
     ('gulya', 'Но ведь это совсем неправда.', 'But that is not true at all.', [(102, 'Но это же неправда')], 'adapted'),
-    ('tanya', 'Витя, вечером у меня важная встреча.', 'Vitya, this evening I have an important meeting.', [(105, 'Витя'), (110, 'вечером очень важная встреча')], 'adapted'),
+    ('lyova', 'Витя, вечером у меня важная встреча.', 'Vitya, this evening I have an important meeting.', [(105, 'Витя'), (110, 'вечером очень важная встреча')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Lyova knows that I stole a pastry yesterday.' Claiming that Lyova knows that she stole a pastry yesterday sounds confident, even if Ainura has doubts."),
-    (1, None, "'He will definitely fire me now.' Pointing out that he will definitely fire her now gives Ainura a sobering reality check."),
-    (2, None, '\'Oh, do not panic, it is just a warning.\' Ainura explains that do not panic it is just a warning, keeping her voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (3, None, '\'And why did he not give you a warning?\' Asking why he not give Ainura a warning cuts straight through the tension between Gulya and Ainura. Notice how she sticks to the formal "you", keeping a professional line between them.'),
-    (4, None, "'Lyova will definitely not touch me.' Noting that Lyova will definitely not touch keeps Ainura's side of the story simple and clear."),
-    (5, None, "'He has been pursuing me for three years already.' Even though he has been pursuing her for three years already, Ainura keeps a steady face in front of Gulya."),
-    (6, None, "'I see, so he will fire only me.' Admitting that she sees so he will fire only shows Gulya being honest for a change."),
-    (7, None, "'Only our chef can fire you.' Saying that only their can fire Gulya is how Ainura sets the tone with Gulya."),
-    (8, None, '\'Say that you have a husband and children.\' Saying that Gulya has a husband and children is how Ainura lays out the situation for Gulya. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (9, None, '\'Say that you send money home to them.\' Pointing out that Gulya should say that Gulya sends money home to them gives Gulya a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (10, None, "'But that is not true at all.' Noting that that is not true at all keeps Gulya's side of the story simple and clear."),
-    (11, None, '\'Vitya, this evening I have an important meeting.\' Since this evening she has an important meeting, Tanya does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (0, None, '\'Lyova knows that I stole a pastry yesterday.\' Gulya keeps a wry tack toward Ainura, building the phrase around "znayet" ("knows") and "vchera" ("yesterday") for a crisp, natural delivery.'),
+    (1, None, '\'He will definitely fire me now.\' Gulya holds a frank footing in the room, weaving "teper" ("now") together with "tochno" ("definitely") just the way native speakers do.'),
+    (2, None, '\'Oh, do not panic, it is just a warning.\' Ainura conveys a serious tack at this moment, leaning on "panikuy" ("panic") before closing the thought with "prosto" ("just").'),
+    (3, None, '\'And why did he not give you a warning?\' Gulya presses plainly in the room, leaning on "pochemu" ("why") before closing the thought with "preduprezhdeniye" ("warning").'),
+    (4, None, '\'Lyova will definitely not touch me.\' Ainura projects a candid position at this moment, pairing "tochno" ("definitely") with "budet" ("will be") to get the point across in plain spoken Russian.'),
+    (5, None, '\'He has been pursuing me for three years already.\' Ainura offers an easygoing approach with Lyova, linking "uzhe" ("already, now"), "goda" ("years"), and "dobivayetsya" ("to strive for") in one brisk exchange.'),
+    (6, None, '\'I see, so he will fire only me.\' Gulya picks a frank bearing on the spot, leaning on "ponyatno" ("clear") before closing the thought with "znachit" ("then, so").'),
+    (7, None, '\'Only our chef can fire you.\' Ainura sets a firm bearing beside Lyova, putting "mozhet" ("can") alongside "uvolit" ("to fire") in a tight, everyday turn of phrase.'),
+    (8, None, '\'Say that you have a husband and children.\' Ainura brings a calm approach beside Gulya, using "skazhi" (from "skazat", "say") alongside "muzh" ("husband") to shape the meaning.'),
+    (9, None, '\'Say that you send money home to them.\' Ainura holds a direct style in this beat, using "skazhi" (from "skazat", "say") alongside "dengi" ("money") to shape the meaning.'),
+    (10, None, '\'But that is not true at all.\' Gulya establishes a clear attitude as they talk, combining "sovsem" ("at all") and "nepravda" ("untrue, a lie") so the key meaning lands right away.'),
+    (11, None, '\'Vitya, this evening I have an important meeting.\' Lyova establishes a frank rhythm at this moment, pairing "vecherom" ("in the evening") with "vazhnaya" ("important") to get the point across in plain spoken Russian.'),
 ]

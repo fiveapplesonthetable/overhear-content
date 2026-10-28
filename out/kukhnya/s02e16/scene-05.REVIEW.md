@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We would like to order a pizza.' Max tells Nagiyev that they would like to order a pizza without dressing it up.
-- 'You know me better than that.' Over the room and the point, Sasha answers Max without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That he proposed to me.' Between the room and the point, Nagiyev gives Max a quick, grounded response.
-- 'Did your mom call you?' By asking whether Nagiyev's call Nagiyev, Max presses Nagiyev for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Only I did not think.' Because only she did not think, Sasha treats the matter as settled.
-- 'That you would react to it like this.' Explaining that that Max would react to it like this lays the cards on the table for Max.
-- 'I am telling you the truth, he beat himself up.' Because he is telling Nagiyev the truth he beat himself up, Max treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Anyway. Wait a second.' Telling Max to wait a second is how Sasha lays out the situation for Max.
-- 'Or else what?' With the conversation and plan hanging in the air, Nagiyev puts Max on the spot.
-- 'You know, the supreme art of war is not to attack the enemy.' Max explains that the supreme art of war is not to attack the enemy, keeping his voice calm and direct.
-- 'It is to destroy his plans.' Realizing that it is to destroy his plans changes how Sasha handles the situation.
-- 'Well, yes.' Over the shift and the restaurant, Nagiyev answers Max without a second thought.
-- 'It feels like I did not find this book by accident.' Even though it feels like he did not find this book by accident, Max keeps a steady face in front of Nagiyev.
+- 'We would like to order a pizza.' Max holds a playful style at once, using "zhelayem" (from "zhelat", "to wish") alongside "zakazat" ("to order") to shape the meaning.
+- 'You know me better than that.' Sasha offers a warm tempo toward Nagiyev, building the phrase around "znayesh" ("know") and "ty" ("you") for a crisp, natural delivery.
+- 'That he proposed to me.' Nagiyev presents a natural tone as they talk, leaning on "predlozheniye" ("offer, proposal") before closing the thought with "sdelal" ("did").
+- 'Did your mom call you?' Max presses quietly without hesitation, putting "mama" ("mum, mother") alongside "zvonila" ("called") in a tight, everyday turn of phrase.
+- 'Only I did not think.' Sasha adopts an honest posture straight away, leaning on "dumala" ("thought") before closing the thought with "no" ("but").
+- 'That you would react to it like this.' Nagiyev maintains a natural posture in the room, anchoring the Russian line on "otreagiruyesh" ("to react, respond") and "chto" ("what") without extra filler.
+- 'I am telling you the truth, he beat himself up.' Max displays a thoughtful stance at this moment, putting "realno" ("really possible") alongside "govoryu" ("am telling") in a tight, everyday turn of phrase.
+- 'Anyway. Wait a second.' Sasha shows an honest approach across the room, putting "koroche" ("long story short") alongside "podozhdi" ("wait") in a tight, everyday turn of phrase.
+- 'Or else what?' Nagiyev inquires sharply in their exchange, building the phrase around "to" ("that") and "chto" ("what") for a crisp, natural delivery.
+- 'You know, the supreme art of war is not to attack the enemy.' Max projects an emphatic tempo straight away, linking "znayete" ("know"), "vyssheye" ("highest, supreme"), and "preimushchestvo" ("lead") in one brisk exchange.
+- 'It is to destroy his plans.' Sasha displays a grounded rhythm in this beat, weaving "razrushit" ("to destroy") together with "plany" ("plans") just the way native speakers do.
+- 'Well, yes.' Nagiyev chooses a playful note in front of Sasha, building the phrase around "nu" ("oh, come on") and "da" ("yes") for a crisp, natural delivery.
+- 'It feels like I did not find this book by accident.' Max favors a candid course in this beat, linking "kazhetsya" ("it seems, I think"), "sluchayno" ("by any chance"), and "nashel" ("found") in one brisk exchange.

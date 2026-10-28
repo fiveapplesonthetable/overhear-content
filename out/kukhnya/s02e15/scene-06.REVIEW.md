@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, Elena.' Over the kitchen and the room, Barinov answers Lyova without a second thought.
-- 'Good afternoon, Viktor Petrovich.' Around the kitchen and situation, Vika sets a calm, everyday tone with Barinov.
-- 'I thought we switched to first-name terms.' Lyova mentions that he thought they switched to first name terms so Barinov sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It seemed to me.' Over the shift and the situation, Barinov answers Lyova without a second thought.
-- 'That yesterday we parted on formal terms.' Around the shift and situation, Vika sets a calm, everyday tone with Barinov.
-- 'You just imagined that.' Between the shift and the situation, Lyova gives Barinov a quick, grounded response. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well, that is completely normal after all.' Realizing that that is completely normal after all changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'People always compete with their rivals.' Over the truth and the conversation, Vika answers Barinov without a second thought.
-- 'Only I was thinking.' Even though only he was thinking, Lyova keeps a steady face in front of Barinov.
-- 'I live with Lyova, who lives with his mother.' Living with Lyova who lives with his mother moves the conversation forward without extra drama.
-- 'Yeah, good luck renting an apartment with Spartak playing like that.' Between the truth and the room, Vika gives Barinov a quick, grounded response.
-- 'They only win every other game.' With the truth and situation in play, Lyova keeps this short reply brisk and direct.
-- 'Next you will suggest doing it in the car like teenagers.' Adding that next Lyova will suggest doing it in the car like teenagers fills in the missing piece for Lyova.
+- 'Good afternoon, Elena.' Barinov offers an earnest mood straight away, weaving "dobryy" ("good") together with "den" ("day") just the way native speakers do.
+- 'Good afternoon, Viktor Petrovich.' Vika maintains an unhurried note in their talk, pairing "dobryy" ("good") with "viktor" ("Viktor") to get the point across in plain spoken Russian.
+- 'I thought we switched to first-name terms.' Lyova shows a sharp posture in this beat, building the phrase around "pereshli" ("moved on, crossed over") and "my" ("we") for a crisp, natural delivery.
+- 'It seemed to me.' Barinov sets a sharp tempo beside Vika, pairing "pokazalos" ("seemed") with "mne" ("to me") so the "-sya" ending carries the action.
+- 'That yesterday we parted on formal terms.' Vika offers a thoughtful approach during the exchange, linking "vchera" ("yesterday"), "rasstalis" ("broke up, separated"), and "chto" ("what") in one brisk exchange.
+- 'You just imagined that.' Lyova favors a serious style toward Vika, weaving "pokazalos" ("seemed") together with "vam" ("you") just the way native speakers do.
+- 'Well, that is completely normal after all.' Barinov offers a clear style right away, placing "normalno" ("fine, OK") straight beside "nu" ("oh, come on") with no word for "to be" needed.
+- 'People always compete with their rivals.' Vika sustains an easygoing attitude for Lyova, combining "konkurentami" ("rival, competitor") and "boryutsya" ("to fight, struggle") so the key meaning lands right away.
+- 'Only I was thinking.' Lyova sets a resolute view in their talk, linking "tolko" ("only"), "dumal" ("thought"), and "ya" ("I") in one brisk exchange.
+- 'I live with Lyova, who lives with his mother.' Barinov chooses a frank attitude in front of Vika, anchoring the Russian line on "zhivu" ("live") and "levoy" ("left") without extra filler.
+- 'Yeah, good luck renting an apartment with Spartak playing like that.' Vika presents a sharp bearing at this moment, leaning on "snimesh" ("will take off") before closing the thought with "aga" ("yeah, right").
+- 'They only win every other game.' Lyova keeps a firm mood at once, using "igrayut" (from "igrat", "to play") alongside "raz" ("time, once") to shape the meaning.
+- 'Next you will suggest doing it in the car like teenagers.' Barinov establishes a steady tone toward Lyova, pairing "yeshche" ("still") with "skazhi" ("say") to get the point across in plain spoken Russian.

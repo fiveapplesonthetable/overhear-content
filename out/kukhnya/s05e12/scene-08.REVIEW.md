@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arkady, what do you think, does this look like a surprise?' Barinov asks whether Arkady what do Fedya thinks does this look like a surprise, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Understood. We will think some more.' Once they will think some, Barinov can finally tell Fedya what he means.
-- 'Chef! I wanted to bring you some tea.' Senya declares that he wanted to bring Barinov some tea as the tension in the room peaks.
-- 'Where is the tea? Get out!' Wondering where the tea is cuts straight through the tension between Barinov and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Understood.' With the point and ring in play, Senya keeps this short reply brisk and direct.
-- 'I swear, the chef will propose to Elena today!' Senya insists that he swears the will propose to Elena today, leaving Barinov no room to argue.
-- 'I saw a ring box.' Senya reminds Barinov that he saw a ring box before the moment passes.
-- 'Anything could be in the little box!' Fedya insists that anything could be in the little box, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'A necklace, earrings, a chain.' With the office and ring in play, Fedya keeps this short reply brisk and direct.
-- 'Or a ring! I am serious.' Senya insists that he is serious, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Want to bet that there is a ring in there?' Senya asks whether want to bet that there is a ring in there, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Deal, to each of us!' Dealing to each of them shows Fedya is done holding back.
+- 'Arkady, what do you think, does this look like a surprise?' Barinov checks pointedly for Fedya's benefit, joining "kak" ("how") to "dumayesh" ("think") so every word pulls its weight.
+- 'Understood. We will think some more.' Barinov maintains a grounded style toward Senya, leaning on "ponyal" ("understood") before closing the thought with "budem" ("will").
+- 'Chef! I wanted to bring you some tea.' Senya shares a playful course on the spot, pairing "chayu" ("some tea") with "khotel" ("wanted") to get the point across in plain spoken Russian.
+- 'Where is the tea? Get out!' Barinov challenges directly without a pause, linking "gde" ("where"), "chay" ("tea"), and "poshyol" ("went, set off") in one brisk exchange.
+- 'Understood.' Senya establishes a resolute tone beside Barinov, using "ponyal" ("understood") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I swear, the chef will propose to Elena today!' Senya sustains a calm mood on the spot, weaving "otvechayu" ("to answer, to reply") together with "segodnya" ("today") just the way native speakers do.
+- 'I saw a ring box.' Senya strikes a serious tack in their talk, linking "videl" ("saw, have seen"), "korobochku" ("little box"), and "koltsa" ("ring") in one brisk exchange.
+- 'Anything could be in the little box!' Fedya offers a resolute line beside Senya, weaving "malo" ("little, not enough") together with "korobochke" ("little box") just the way native speakers do.
+- 'A necklace, earrings, a chain.' Fedya brings a playful position as they talk, joining "kolye" ("necklace") to "sergi" ("earrings") so every word pulls its weight.
+- 'Or a ring! I am serious.' Senya presents a serious mood on the spot, joining "koltso" ("ring") to "seryozno" ("seriously") so every word pulls its weight.
+- 'Want to bet that there is a ring in there?' Senya quizzes naturally without a pause, anchoring the Russian line on "sporim" ("wanna bet") and "tam" ("there") without extra filler.
+- 'Deal, to each of us!' Fedya projects a measured approach on the spot, leaning on "davay" ("let's") before closing the thought with "kazhdomu" ("each").

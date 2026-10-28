@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look who has arrived, my new head chef!' Nagiyev declares that who has arrived his new head as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dmitry Vladimirovich, I will not work for you.' Saying that he will not work for Nagiyev is how Max sets the tone with Nagiyev.
-- 'I am leaving Moscow for Saint Petersburg soon.' Being leaving Moscow for Saint Petersburg soon is how Max lays out the situation for Nagiyev.
-- 'Wait, have you thought carefully about this?' Here checking whether Max thought carefully about this shows Nagiyev looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'After all, a chance like this is given once in a lifetime.' Saying that after all a chance like this is given once in a lifetime is how Nagiyev sets the tone with Max.
-- 'I understand that perfectly, Dmitry Vladimirovich.' Claiming that he understands that perfectly Dmitry Vladimirovich sounds confident, even if Nagiyev has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But Vika is leaving together with our daughter.' Explaining that Vika is leaving together with their daughter lays the cards on the table for Nagiyev.
-- 'I simply cannot fail to go with them.' Max mentions that he simply cannot fail to go with them so Nagiyev sees what is at stake.
-- 'Listen, you are still very young after all.' Because Max is still very young after all, Nagiyev treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And a chance like this comes along only once.' Pointing out that a chance like this comes along only once gives Max a sobering reality check.
-- 'Tell me honestly, what is more important to you right now?' Questioning whether tell him honestly what is more important to Max right now is how Nagiyev tests Max's story.
-- 'My family is more important to me, excuse me.' Realizing that his family is more important to him excuse him changes how Max handles the situation.
+- 'Look who has arrived, my new head chef!' Nagiyev shows an earnest direction as they talk, weaving "smotrite" ("look") together with "prishyol" ("came, have come") just the way native speakers do.
+- 'Dmitry Vladimirovich, I will not work for you.' Max sets a warm footing in this beat, putting "budu" ("will be") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.
+- 'I am leaving Moscow for Saint Petersburg soon.' Max favors a natural position as they talk, weaving "skoro" ("soon") together with "uyezzhayu" ("am leaving") just the way native speakers do.
+- 'Wait, have you thought carefully about this?' Nagiyev questions honestly to make the point, combining "podozhdi" ("wait") and "khorosho" ("good, fine") so the key meaning lands right away.
+- 'After all, a chance like this is given once in a lifetime.' Nagiyev sustains a playful style as they talk, weaving "shans" ("chance") together with "dayotsya" ("is given") just the way native speakers do.
+- 'I understand that perfectly, Dmitry Vladimirovich.' Max keeps a sharp manner beside Nagiyev, joining "prekrasno" ("perfectly") to "ponimayu" ("understand") so every word pulls its weight.
+- 'But Vika is leaving together with our daughter.' Max maintains a candid mood in the conversation, joining "vmeste" ("together") to "dochkoy" ("daughter") so every word pulls its weight.
+- 'I simply cannot fail to go with them.' Max displays a resolute tack across the room, combining the softening word "prosto" ("simply, just") with "mogu" ("can") to give the line its natural spoken rhythm.
+- 'Listen, you are still very young after all.' Nagiyev conveys a thoughtful angle as they talk, pairing "poslushay" ("listen") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'And a chance like this comes along only once.' Nagiyev favors a measured tone during the exchange, leaning on "shans" ("chance") before closing the thought with "vypadayet" ("falls out, comes along").
+- 'Tell me honestly, what is more important to you right now?' Nagiyev tests directly without a pause, building the phrase around "skazhi" ("say") and "chestno" ("honestly") for a crisp, natural delivery.
+- 'My family is more important to me, excuse me.' Max sets an unhurried bearing at once, pairing "vazhneye" ("more important") with "semya" ("family") to get the point across in plain spoken Russian.

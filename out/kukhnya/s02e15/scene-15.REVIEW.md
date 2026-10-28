@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to get some fresh air.' Because he needs to get some fresh air, Barinov treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'I need to use the bathroom.' Here needing to use the bathroom sets up the next turn in their exchange.
-- 'I was not in the dining room.' Barinov mentions that he was not in the dining room so Vika sees what is at stake.
-- 'Maybe he is out in the dining room?' Vika asks whether maybe he is out in the dining room, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Over here, Vika.' With the shift and office in play, Barinov keeps this short reply brisk and direct.
-- 'Attention everyone, look at me.' Around the shift and money, Vika sets a calm, everyday tone with Barinov.
-- 'Where is the Chef?' Wondering where the Chef is is how Barinov puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Wait, did you not let him go early?' Here checking whether Barinov not let him go early shows Vika looking for the real truth.
-- 'The Chef gave him the rest of the day off.' Even though the Chef gave him the rest of the day off, Barinov keeps a steady face in front of Vika.
-- 'What is wrong with you all?' Wondering what wrong with Barinov all is cuts straight through the tension between Vika and Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Who do you think you are stealing from, huh?' By asking who Vika thinks Vika is stealing from huh, Barinov presses Vika for a straight answer.
-- 'Who are you stealing from?' Here asking who Barinov stealing is shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'From me!' Around the truth and office, Barinov makes his point loud and clear. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'I need to get some fresh air.' Barinov sets a pointed tempo at once, pairing "podyshat" ("to breathe in") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
+- 'I need to use the bathroom.' Vika conveys a playful stance across the room, building the phrase around "pisat" ("to write") and "khochu" ("want") for a crisp, natural delivery.
+- 'I was not in the dining room.' Barinov shows a playful direction in the scene, using "byl" (from "byt", "was") alongside "zale" ("hall") to shape the meaning.
+- 'Maybe he is out in the dining room?' Vika questions frankly as the beat lands, putting "mozhet" ("can") alongside "zale" ("hall") in a tight, everyday turn of phrase.
+- 'Over here, Vika.' Barinov brings a playful mood in the room, combining "syuda" ("here") and "vika" ("Vika") so the key meaning lands right away.
+- 'Attention everyone, look at me.' Vika maintains a clear course as they talk, linking "vnimaniye" ("attention"), "smotrim" ("to look, to watch"), and "na" ("on, onto") in one brisk exchange.
+- 'Where is the Chef?' Barinov asks calmly to Vika here, joining "gde" ("where") to "shef" ("Chef") so every word pulls its weight.
+- 'Wait, did you not let him go early?' Vika challenges sharply to keep things clear, joining "otpustili" ("let go") to "vy" ("you") so every word pulls its weight.
+- 'The Chef gave him the rest of the day off.' Barinov adopts a steady course beside Vika, putting "otpustil" ("let go") alongside "yego" ("him") in a tight, everyday turn of phrase.
+- 'What is wrong with you all?' Vika queries naturally to keep things clear, leaning on "vy" ("you") before closing the thought with "chto" ("what").
+- 'Who do you think you are stealing from, huh?' Barinov tests promptly beside Vika, combining "voruyete" ("to steal") and "vy" ("you") so the key meaning lands right away.
+- 'Who are you stealing from?' Vika presses warmly with Barinov now, leaning on "voruyete" ("to steal") before closing the thought with "kogo" ("whom").
+- 'From me!' Barinov strikes a wry mood at this moment, leaning on "menya" ("me") as a compact, one-word response that needs no extra words.

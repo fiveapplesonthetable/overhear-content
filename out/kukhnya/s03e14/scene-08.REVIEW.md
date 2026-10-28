@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what kind of meat is this?' Wondering if tell him what kind of meat is this shows the guest caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is the most tender meat from an old French recipe, pork!' Max insists that this is the most tender meat from an old French recipe pork, leaving Barinov no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Oops, I mixed it up, this dish is not for you!' Saying that someone he mixed it up this dish is not for Barinov is how Max takes charge of the moment.
-- 'I will finish stuffing it in there right now and come right back.' Adding that he will finish stuffing it in there right now and come right back fills in the missing piece for Barinov.
-- 'You have six seconds, we are by the car.' Saying that Barinov has six seconds they are by the car is how the guest sets the tone with Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Leave my daughter alone immediately!' Because the guest should leave his daughter alone immediately, Barinov does not bother softening the blow for the guest.
-- 'So, pops, did you bring the money?' Questioning whether pops did Barinov brings the money is how Max tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Here is a fist for you, not money!' Declaring that here is a fist for the guest not money brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If I see you with Katya again, I will shove your legs in your mouth!' Barinov insists that if he sees the guest with Katya again he will shove the guest's legs in the guest's mouth, leaving the guest no room to argue.
-- 'Dad, let him go, he just came to talk!' Saying that dad let him go he just came to talk is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Katya, do not listen to him, he wanted to get money!' Barinov declares that do not listen to him he wanted to get money as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I did not want to touch him, he provoked me!' Because he did not want to touch him he provoked him, Barinov does not bother softening the blow for the guest.
+- 'Tell me, what kind of meat is this?' The guest queries firmly from the start, linking "skazhi" ("say"), "myaso" ("meat"), and "chto" ("what") in one brisk exchange.
+- 'This is the most tender meat from an old French recipe, pork!' Max establishes an easygoing note toward the guest, building the phrase around "nezhneysheye" ("most tender") and "myaso" ("meat") for a crisp, natural delivery.
+- 'Oops, I mixed it up, this dish is not for you!' Max conveys a wry line right away, weaving "pereputal" ("mixed up, confused") together with "blyudo" ("dish") just the way native speakers do.
+- 'I will finish stuffing it in there right now and come right back.' Max maintains an easygoing stance for the guest, pairing "seychas" ("now") with "tam" ("there") so the "-sya" ending carries the action.
+- 'You have six seconds, we are by the car.' The guest projects a wry posture at this moment, weaving "sekund" ("seconds") together with "mashiny" ("cars") just the way native speakers do.
+- 'Leave my daughter alone immediately!' Barinov picks an earnest mood in the room, building the phrase around "nemedlenno" ("immediately") and "ostav" ("keep, leave") for a crisp, natural delivery.
+- 'So, pops, did you bring the money?' Max challenges warmly to keep things clear, putting "batya" ("Dad, the old man") alongside "prinyos" ("brought") in a tight, everyday turn of phrase.
+- 'Here is a fist for you, not money!' Barinov shows a pointed note for Max, building the phrase around "kulak" ("fist") and "dengi" ("money") for a crisp, natural delivery.
+- 'If I see you with Katya again, I will shove your legs in your mouth!' Barinov takes a thoughtful manner during the exchange, building the phrase around "yeshchyo" ("more, still") and "raz" ("time, once") for a crisp, natural delivery.
+- 'Dad, let him go, he just came to talk!' Max shares a sharp attitude beside the guest, combining the softening word "prosto" ("simply, just") with "papa" ("Dad") to give the line its natural spoken rhythm.
+- 'Katya, do not listen to him, he wanted to get money!' Barinov maintains a lively view in the scene, leaning on "slushay" ("listen") before closing the thought with "khotel" ("wanted").
+- 'I did not want to touch him, he provoked me!' Barinov sets a clear view toward Max, combining "trogat" ("to touch") and "khotel" ("wanted") so the key meaning lands right away.

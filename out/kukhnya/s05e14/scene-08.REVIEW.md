@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, why did you take the ticket from the guest?' By wondering why Barinov takes the ticket from the guest, Mikhail presses Barinov for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I thought that you gave him my ticket!' Insisting that he thought that Mikhail gave him his ticket shows Barinov is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Whenever you think, things only get worse for everyone!' Once whenever Barinov thinks things only get worse for everyone, Mikhail makes sure Barinov hears every word.
-- 'Sorry, Misha, I really did not know that.' Barinov explains that he really did not know, keeping his voice calm and direct.
-- 'Now I am going to have serious problems because of you.' Adding that he is going to have serious problems because of Barinov fills in the missing piece for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Then let me give him this ticket right here.' Because Mikhail should let him give him this ticket right here, Barinov treats the matter as settled.
-- 'And you will simply return mine to me quietly!' Barinov declares that Mikhail will simply return his to him quietly as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I already returned your ticket a long time ago!' Between the shift and the calm, Mikhail delivers a sharp reaction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You really returned it? Is it lying in my pocket?' Over the moment and the ticket, Barinov presses Mikhail for a straight answer.
-- 'But now I have big problems because of you.' Mikhail mentions that he has big problems because of Barinov so Barinov sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Why then should I be so kind to you?' Wondering if why then should he is so kind to Barinov shows Mikhail caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Misha, wait, do not take both tickets at once!' Barinov insists that do not take both tickets at once, leaving Mikhail no room to argue.
+- 'Vitya, why did you take the ticket from the guest?' Mikhail prompts warmly as the talk turns, pairing "zachem" ("what for") with "bilet" ("ticket") to get the point across in plain spoken Russian.
+- 'I thought that you gave him my ticket!' Barinov shows a wry angle in the conversation, weaving "dumal" ("thought") together with "otdal" ("gave") just the way native speakers do.
+- 'Whenever you think, things only get worse for everyone!' Mikhail strikes an unhurried line at this moment, linking "kogda" ("when"), "dumayesh" ("think"), and "tolko" ("only") in one brisk exchange.
+- 'Sorry, Misha, I really did not know that.' Barinov displays a measured tack for Mikhail, anchoring the Russian line on "izvini" ("sorry, excuse me") and "pravda" ("honestly") without extra filler.
+- 'Now I am going to have serious problems because of you.' Mikhail presents an earnest tempo in their talk, weaving "teper" ("now") together with "budut" ("there will be") just the way native speakers do.
+- 'Then let me give him this ticket right here.' Barinov adopts a grounded line across the room, using "davay" (from "davat", "let's") alongside "otdam" ("I give back") to shape the meaning.
+- 'And you will simply return mine to me quietly!' Barinov sets a sharp posture as the scene unfolds, combining "prosto" ("just") and "spokoyno" ("calmly") so the key meaning lands right away.
+- 'I already returned your ticket a long time ago!' Mikhail projects an emphatic view beside Barinov, joining "vernul" ("give back") to "uzhe" ("already, now") so every word pulls its weight.
+- 'You really returned it? Is it lying in my pocket?' Barinov queries steadily to make the point, weaving "pravda" ("honestly") together with "vernul" ("give back") just the way native speakers do.
+- 'But now I have big problems because of you.' Mikhail picks an emphatic tone straight away, weaving "teper" ("now") together with "bolshiye" ("big, serious") just the way native speakers do.
+- 'Why then should I be so kind to you?' Mikhail probes pointedly without holding back, weaving "pochemu" ("why") together with "dolzhen" ("has to, must") just the way native speakers do.
+- 'Misha, wait, do not take both tickets at once!' Barinov establishes a sharp style on the spot, combining "postoy" ("wait") and "zabiray" ("take, collect") so the key meaning lands right away.

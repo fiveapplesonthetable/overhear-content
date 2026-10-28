@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, your grandmother and grandfather are at my home.' Since the guest's grandmother and grandfather are at her home, Vika does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'They decided to give us a surprise.' Mentioning that they decided to give them a surprise moves the talk in a new direction.
-- 'Did you not tell them anything?' Here asking whether the guest not tell them anything shows Max looking for the real truth.
-- 'No. And as I understood, neither did you.' Because as she understood neither did the guest, Vika treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, you see, I forgot my razor at home.' Explaining that he forgot his razor at home lays the cards on the table for Max.
-- 'I want to shave before the checkup.' Wanting to shave before the checkup moves the conversation forward without extra drama.
-- 'It seems he ran out of razors. And what kind of checkup is it?' Questioning whether it seems he ran out of razors is how Vika tests the guest's story. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'We want to examine his heart.' By wanting to examine his heart, the guest keeps his side of the story grounded.
-- 'Bring them here to the hotel, please.' Even though the guest should bring them here to the hotel please, Max keeps a steady face in front of the guest.
-- 'I will explain everything to them myself.' Once he will explain everything to them himself, Max can finally tell the guest what he means.
-- 'Hello, where can I find the head chef?' Here asking where he finds the head can shows the guest looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There he is playing chess.' Even though there he is playing chess, Max keeps a steady face in front of the guest.
+- 'Max, your grandmother and grandfather are at my home.' Vika chooses an earnest footing in front of the guest, linking "babushka" ("old lady"), "dedushka" ("grandfather"), and "doma" ("at home") in one brisk exchange.
+- 'They decided to give us a surprise.' Vika picks a clear attitude at once, pairing "reshili" ("decided") with "sdelat" ("to do") to get the point across in plain spoken Russian.
+- 'Did you not tell them anything?' Max presses dryly with the guest now, anchoring the Russian line on "govorila" ("said") and "ty" ("you") without extra filler.
+- 'No. And as I understood, neither did you.' Vika keeps a sharp style during the exchange, joining "kak" ("how") to "ponyala" ("understood") so every word pulls its weight.
+- 'Vika, you see, I forgot my razor at home.' The guest presents a steady approach in the room, pairing "ponimayesh" ("do you understand") with "britvu" ("razor") to get the point across in plain spoken Russian.
+- 'I want to shave before the checkup.' The guest keeps a brisk approach at this moment, building the phrase around "khochu" ("want") and "obsledovaniyem" ("medical checkup") for a crisp, natural delivery.
+- 'It seems he ran out of razors. And what kind of checkup is it?' Vika inquires candidly during the talk, pairing "kazhetsya" ("it seems, I think") with "zakonchilis" ("are over, have ended") so the "-sya" ending carries the action.
+- 'We want to examine his heart.' The guest presents a warm bearing across the room, weaving "serdtse" ("heart") together with "khotim" ("want") just the way native speakers do.
+- 'Bring them here to the hotel, please.' Max takes a grounded attitude at this moment, joining "privezi" ("to bring") to "syuda" ("here") so every word pulls its weight.
+- 'I will explain everything to them myself.' Max chooses a resolute bearing in their talk, combining "obyasnyu" ("I'll explain") and "ya" ("I") so the key meaning lands right away.
+- 'Hello, where can I find the head chef?' The guest queries pointedly on the spot, building the phrase around "zdravstvuyte" ("hello") and "gde" ("where") for a crisp, natural delivery.
+- 'There he is playing chess.' Max displays a candid manner during the exchange, joining "shakhmaty" ("chess") to "igrayet" ("plays") so every word pulls its weight.

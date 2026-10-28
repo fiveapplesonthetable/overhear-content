@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, can you imagine, today I lost our flash drive.' Saying that can Denis imagines today she lost their flash drive is how Sveta sets the tone with Denis.
-- 'Well that is fine, at least we were not fired.' Once that is fine at least they were not fired, Denis can finally tell Katya what he means. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'I do not need any handouts from Katya.' Adding that she does not need any handouts from Katya fills in the missing piece for Denis.
-- 'Out of pride I will not stay here to work.' Sveta tells Denis that out of pride she will not stay here to work without dressing it up.
-- 'Wait, after all it was not Katya at all who did this.' Since after all it was not Katya at all who did this, Denis does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I talked with the chef in person this morning.' Mentioning that he talked with the in person this morning moves the talk in a new direction.
-- 'Really, you asked the chef for us yourself?' Wondering if really Denis asked the for them themselves shows Sveta caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course, because without you it will be boring here.' Because because without Katya it will be boring here, Denis treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I think I understood everything perfectly right now.' Explaining that she thinks she understood everything perfectly right now lays the cards on the table for Denis.
-- 'You invited me to the cafe and lied.' Over the point and the pride, Sveta answers Denis without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why are you looking at me so strangely right now?' By asking why Katya looking at him so strangely right now is, Denis presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Because I like you very much too.' Pointing out that because she likes Denis very much gives Denis a sobering reality check.
-- 'Denis, I see you are not bored at all anymore!' Once she sees Denis is not bored at all anymore, Katya makes sure Denis hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Denis, can you imagine, today I lost our flash drive.' Sveta strikes an unhurried footing at this moment, linking "predstavlyayesh" ("can you imagine"), "segodnya" ("today"), and "poteryala" ("lost, wasted") in one brisk exchange.
+- 'Well that is fine, at least we were not fired.' Denis keeps a sharp line at once, pairing "uvolili" ("to fire, to dismiss") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'I do not need any handouts from Katya.' Sveta keeps a grounded tack toward Denis, linking "podarki" ("presents"), "nuzhny" ("needed"), and "mne" ("to me") in one brisk exchange.
+- 'Out of pride I will not stay here to work.' Sveta favors a thoughtful tack right away, anchoring the Russian line on "gordosti" ("pride") and "tut" ("here") without extra filler.
+- 'Wait, after all it was not Katya at all who did this.' Denis adopts a calm angle for Katya, joining "podozhdi" ("wait") to "sdelala" ("have done, did") so every word pulls its weight.
+- 'I talked with the chef in person this morning.' Denis establishes a sharp approach at this moment, weaving "utrom" ("this morning") together with "lichno" ("personally") just the way native speakers do.
+- 'Really, you asked the chef for us yourself?' Sveta quizzes briskly as they speak, weaving "pravda" ("honestly") together with "poprosil" ("asked") just the way native speakers do.
+- 'Of course, because without you it will be boring here.' Denis takes a lively manner for Sveta, weaving "konechno" ("of course") together with "tut" ("here") just the way native speakers do.
+- 'I think I understood everything perfectly right now.' Sveta brings a measured note in their talk, pairing "kazhetsya" ("it seems, I think") with "seychas" ("now") so the "-sya" ending carries the action.
+- 'You invited me to the cafe and lied.' Sveta displays a sharp course as the scene unfolds, putting "pozval" ("invited") alongside "kafe" ("café") in a tight, everyday turn of phrase.
+- 'Why are you looking at me so strangely right now?' Denis tests boldly in this moment, weaving "pochemu" ("why") together with "seychas" ("now") just the way native speakers do.
+- 'Because I like you very much too.' Sveta sustains a direct course straight away, building the phrase around "potomu" ("because") and "tozhe" ("too") for a crisp, natural delivery.
+- 'Denis, I see you are not bored at all anymore!' Katya keeps a clear mood in front of Denis, combining "vizhu" ("see") and "uzhe" ("already, now") so the key meaning lands right away.

@@ -19,23 +19,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | Настя, сок делать. | Nastya, go make some juice. | #175: Настя, сок делать | verbatim |
 | 8 | Костя | Ну, все. | Well, that is it. | #178: Ну, все | verbatim |
 | 9 | Настя | Наверное, все Макс твой придумал, да? | Your Max probably came up with all of this, right? | #179: Наверное, все Макс твой придумал, да | verbatim |
-| 10 | Макс | Конечно, Макс. | Of course it was Max. | #180: Конечно, Макс | verbatim |
+| 10 | Костя | Конечно, Макс. | Of course it was Max. | #180: Конечно, Макс | verbatim |
 | 11 | Костя | За словами своими следи, овца. | Watch your mouth, you sheep. | #182: За словами своими следи, овца | verbatim |
 | 12 | Настя | Помолчи сейчас же, гном. | Be quiet right now, dwarf. | #183: гном | adapted: adapted |
 | 13 | Макс | Наверное, уже обнимается. | They are probably hugging each other already. | #185: Наверное, уже обнимается | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did I understand that correctly?' Asking whether he understands that correctly cuts straight through the tension between Max and Kostya.
-- 'Will I be able to come visit?' Checking whether he is able to come visit is how Kostya puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'All right, fine.' Around the truth and room, Nastya sets a calm, everyday tone with Kostya.
-- 'Come on, call my phone for me, will you?' Asking whether come on call his phone for him will Kostya puts Kostya right on the defensive.
-- 'Nastya, I lost my phone in the walk-in fridge.' Claiming that he lost his phone in the walk in fridge sounds confident, even if Max has doubts.
-- 'What were you doing in the walk-in fridge?' Asking what Kostya doing in the walk in fridge was is how Nastya puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Nastya, go make some juice.' Going make some juice is how Max lays out the situation for Kostya.
-- 'Well, that is it.' Realizing that that is it changes how Kostya handles the situation.
-- 'Your Max probably came up with all of this, right?' Asking whether Kostya's Max probably came up with all of this right puts Kostya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course it was Max.' Even though it was Max, Max keeps a steady face in front of Kostya.
-- 'Watch your mouth, you sheep.' Because Max should watch Max's mouth Max sheep, Kostya treats the matter as settled.
-- 'Be quiet right now, dwarf.' Between the room and the shift, Nastya gives Kostya a quick, grounded response.
-- 'They are probably hugging each other already.' Once they are probably hugging each other already, Max can finally tell Kostya what he means.
+- 'Did I understand that correctly?' Max quizzes warmly on the spot, joining "pravilno" ("right") to "ponyal" ("understood") so every word pulls its weight.
+- 'Will I be able to come visit?' Kostya checks candidly as the beat lands, leaning on "smogu" ("will be able to") before closing the thought with "prikhodit" ("to come, to walk in").
+- 'All right, fine.' Nastya takes a warm view in the room, combining the easygoing tag "ladno" ("okay, fine") with "nu" ("oh, come on") to give the line its natural spoken rhythm.
+- 'Come on, call my phone for me, will you?' Max questions frankly from the start, leaning on "poydem" ("let's go") before closing the thought with "naberesh" ("to gather, rack up").
+- 'Nastya, I lost my phone in the walk-in fridge.' Kostya presents a warm posture beside Max, anchoring the Russian line on "kholodilnike" ("fridge") and "telefon" ("phone") without extra filler.
+- 'What were you doing in the walk-in fridge?' Nastya queries dryly to make the point, putting "delal" ("were doing") alongside "kholodilnike" ("fridge") in a tight, everyday turn of phrase.
+- 'Nastya, go make some juice.' Max presents an unhurried attitude across the room, joining "sok" ("juice") to "delat" ("do") so every word pulls its weight.
+- 'Well, that is it.' Kostya shares a clear tempo in the conversation, linking "nu" ("oh, come on") directly with "vse" ("all"), since Russian drops "is" and "are" in the present.
+- 'Your Max probably came up with all of this, right?' Nastya wonders plainly without a pause, pairing "navernoye" ("probably") with "pridumal" ("came up with") to get the point across in plain spoken Russian.
+- 'Of course it was Max.' Kostya projects a resolute manner in their talk, putting "konechno" ("of course") alongside "maks" ("Max") in a tight, everyday turn of phrase.
+- 'Watch your mouth, you sheep.' Kostya takes a pointed attitude beside Max, using "slovami" (from "slovo", "words") alongside "sledi" ("watch, look after") to shape the meaning.
+- 'Be quiet right now, dwarf.' Nastya offers a thoughtful position as they talk, leaning on "pomolchi" ("to be quiet") before closing the thought with "seychas" ("now").
+- 'They are probably hugging each other already.' Max favors a lively bearing with Kostya, weaving "navernoye" ("probably") together with "uzhe" ("already, now") just the way native speakers do.

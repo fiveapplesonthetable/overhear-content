@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Лёва | А ты не знаешь? | Do you happen to know? | #220: а ты не знаешь | verbatim |
-| 2 | Нагиев | Где этот Дмитрий Владимирович? | Where is Dmitry Vladimirovich? | #220: где этот Дмитрий Владимирович | verbatim |
+| 2 | Лёва | Где этот Дмитрий Владимирович? | Where is Dmitry Vladimirovich? | #220: где этот Дмитрий Владимирович | verbatim |
 | 3 | Лёва | Он был здесь недавно, но ушёл куда-то. | He was here recently, but he went off somewhere. | #221: Он был здесь недавно, но ушёл куда-то | verbatim |
 | 4 | Нагиев | Его надо... | We need to take him... | #224: Его надо | verbatim |
 | 5 | Лёва | Его надо в ресторан. | We need to take him to the restaurant. | #225: Его надо в ресторан | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you happen to know?' Here checking whether Nagiyev happens to know shows Lyova looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Where is Dmitry Vladimirovich?' By asking where Dmitry Vladimirovich is, Nagiyev presses Lyova for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He was here recently, but he went off somewhere.' Saying that he was here recently but he went off somewhere is how Lyova sets the tone with Nagiyev.
-- 'We need to take him...' Needing to take him is how Nagiyev lays out the situation for Lyova. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'We need to take him to the restaurant.' Here needing to take him to the restaurant sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'And we will sort it out there.' Nagiyev tells Lyova that they will sort it out there without dressing it up.
-- 'I am a celebrity, after all.' Being a celebrity after all moves the conversation forward without extra drama.
-- 'Or maybe?' With the conversation and truth hanging in the air, Nagiyev puts Lyova on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let me make the call myself.' Even though Nagiyev should let him make the call himself, Lyova keeps a steady face in front of Nagiyev.
-- 'Come on, let us go.' Adding that Lyova should come on let them go fills in the missing piece for Lyova. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hey, hey.' With the shift and police in play, Lyova keeps this short reply brisk and direct.
-- 'Let us go. Hey.' Here proposing that they go sets up the next turn in their exchange.
-- 'Hey, hold it right there!' Telling Nagiyev to hold it right there shows Lyova is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Do you happen to know?' Lyova prompts decisively in their exchange, anchoring the Russian line on "znayesh" ("know") and "ty" ("you") without extra filler.
+- 'Where is Dmitry Vladimirovich?' Lyova queries naturally during the talk, pairing "gde" ("where") with "etot" ("this") to get the point across in plain spoken Russian.
+- 'He was here recently, but he went off somewhere.' Lyova shares a frank stance at once, anchoring the Russian line on "byl" ("was") and "zdes" ("here") without extra filler.
+- 'We need to take him...' Nagiyev strikes a pointed direction at this moment, putting "nado" ("it is necessary") alongside "yego" ("him") in a tight, everyday turn of phrase.
+- 'We need to take him to the restaurant.' Lyova projects an honest position beside Nagiyev, joining "nado" ("it is necessary") to "restoran" ("restaurant") so every word pulls its weight.
+- 'And we will sort it out there.' Nagiyev establishes a wry bearing at once, anchoring the Russian line on "tam" ("there") and "razberemsya" ("we'll sort it out") without extra filler.
+- 'I am a celebrity, after all.' Lyova adopts a lively course as they talk, leaning on "zvezda" ("a star") before closing the thought with "ya" ("I").
+- 'Or maybe?' Nagiyev tests directly across the room, putting all the weight on "mozhet" ("can") so the reply lands immediately.
+- 'Let me make the call myself.' Lyova strikes a measured direction beside Nagiyev, combining "davay" ("let's") and "pozvonyu" ("will call") so the key meaning lands right away.
+- 'Come on, let us go.' Nagiyev maintains a direct style during the exchange, anchoring the Russian line on "davay" ("let's") and "poyekhali" ("here we go") without extra filler.
+- 'Hey, hey.' Lyova strikes a sharp line at this moment, leaning on "ey" ("hey") as a compact, one-word response that needs no extra words.
+- 'Let us go. Hey.' Nagiyev sets a resolute footing in their talk, anchoring the Russian line on "poyekhali" ("here we go") and "ey" ("hey") without extra filler.
+- 'Hey, hold it right there!' Lyova shares a firm stance in the conversation, building the phrase around "postoyat" ("wait") and "nu" ("oh, come on") for a crisp, natural delivery.

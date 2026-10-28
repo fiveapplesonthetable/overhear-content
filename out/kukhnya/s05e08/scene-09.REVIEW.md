@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Елена | И подружки мои, и тусовки — всё пропало. | Both my girlfriends and parties—everything is gone. | #107: И подружки мои, тусовки | adapted: adapted |
 | 7 | Катя | Ну, это твой выбор. | Well, that is your choice. | #108: Ну, это твой выбор | adapted: adapted |
 | 8 | Елена | Как тебя зовут? | What is your name? | #109: Как тебя зовут | adapted: adapted |
-| 9 | Катя | Катя. | Katya. | #109: Катя | adapted: adapted |
+| 9 | Костя | Катя. | Katya. | #109: Катя | adapted: adapted |
 | 10 | Елена | А меня зовут Юля. | And my name is Yulya. | #109: Как тебя зовут | adapted: adapted |
 | 11 | Катя | Очень приятно познакомиться, Юля. | Very nice to meet you, Yulya. | #105: Ой, спасибо тебе | adapted: adapted |
 | 12 | Елена | Посиди со мной ещё немного. | Sit with me a little longer. | #106: Живу в золотой клетке | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Envy is choking you too, and a very big one at that.' Admitting that envy is choking Elena too and a very big one shows Kostya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Max, Nastya is nowhere to be found, she is not picking up the phone.' Saying that Nastya is nowhere to be found she is not picking up the phone is how Kostya sets the tone with Elena.
-- 'Did you check the harem?' Here checking whether Elena checks the harem shows Katya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Oh, thank you, I have not relaxed like this in a year.' Elena explains that she has not relaxed like this in a year, keeping her voice calm and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I live in a golden cage.' Explaining that she lives in a golden cage lays the cards on the table for Katya.
-- 'Both my girlfriends and parties—everything is gone.' Since both her girlfriends and parties everything is gone, Elena does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, that is your choice.' Mentioning that that is Elena's choice moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What is your name?' By wondering what Katya's name is, Elena presses Katya for a straight answer.
-- 'Katya.' With the plan and phone in play, Katya keeps this short reply brisk and direct.
-- 'And my name is Yulya.' Explaining that her name is Yulya lays the cards on the table for Katya.
-- 'Very nice to meet you, Yulya.' Around the plan and phone, Katya sets a calm, everyday tone with Elena.
-- 'Sit with me a little longer.' Sitting with her a little longer is how Elena lays out the situation for Katya.
+- 'Envy is choking you too, and a very big one at that.' Kostya displays an emphatic tone in this beat, joining "tozhe" ("too") to "zhaba" ("toad") so every word pulls its weight.
+- 'Max, Nastya is nowhere to be found, she is not picking up the phone.' Kostya establishes a serious angle in their talk, putting "nigde" ("nowhere") alongside "trubku" ("the receiver") in a tight, everyday turn of phrase.
+- 'Did you check the harem?' Katya inquires lightly in the room, leaning on "gareme" ("harem") before closing the thought with "smotrel" ("watched").
+- 'Oh, thank you, I have not relaxed like this in a year.' Elena strikes a playful stance at once, linking "spasibo" ("thank you"), "uzhe" ("already, now"), and "god" ("year") in one brisk exchange.
+- 'I live in a golden cage.' Elena sets an honest angle at this moment, combining "zhivu" ("live") and "zolotoy" ("golden") so the key meaning lands right away.
+- 'Both my girlfriends and parties—everything is gone.' Elena sustains a resolute mood straight away, joining "podruzhki" ("girlfriends") to "tusovki" ("parties, hangouts") so every word pulls its weight.
+- 'Well, that is your choice.' Katya brings a wry position in the conversation, putting "vybor" ("choice") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'What is your name?' Elena probes boldly on the spot, linking "kak" ("how"), "zovut" ("call"), and "tebya" ("you") in one brisk exchange.
+- 'Katya.' Kostya holds an unhurried course straight away, leaning on "katya" ("Katya") as a compact, one-word response that needs no extra words.
+- 'And my name is Yulya.' Elena establishes a clear mood in the room, anchoring the Russian line on "zovut" ("call") and "menya" ("me") without extra filler.
+- 'Very nice to meet you, Yulya.' Katya conveys a measured manner in front of Elena, leaning on "ochen" ("very much") before closing the thought with "priyatno" ("pleasant").
+- 'Sit with me a little longer.' Elena shows a pointed attitude at this moment, using "posidi" (from "posidet", "stay") alongside "yeshchyo" ("more, still") to shape the meaning.

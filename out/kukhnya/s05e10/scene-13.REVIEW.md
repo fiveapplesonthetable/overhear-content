@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, sleep, sleep.' Between the point and the doctor, Mikhail gives Barinov a quick, grounded response.
-- 'It is not my fault, I did not mean to!' Insisting that it is not his fault he did not mean shows Mikhail is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Do not worry. We will say that he fell by himself accidentally.' Since do not worry, Barinov does not waste words on excuses.
-- 'I will be a witness.' Explaining that he will be a witness lays the cards on the table for Mikhail.
-- 'What is it, doctor? Is hospitalization necessary?' Here asking what it doctor is shows Mikhail looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There are fractures there.' Realizing that there are fractures there changes how Senya handles the situation.
-- 'In short, if he survives, then good.' Noting that in short if he survives then good keeps Senya's side of the story simple and clear.
-- 'Of course he will survive! The injuries there are not so severe.' Declaring that he will survive brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Besides, medicine is at a serious level now.' Admitting that besides medicine is at a serious level now shows Barinov being honest for a change.
-- 'Calm down, I will cover for you.' Calming down he will cover for Barinov moves the conversation forward without extra drama.
-- 'Carry him into my office.' Mentioning that Barinov should carry him into his office moves the talk in a new direction.
-- 'And do not take your eyes off him!' Because do not take Barinov's eyes off him, Mikhail does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Quiet, sleep, sleep.' Mikhail displays a natural posture at once, weaving "tikho" ("easy, quiet") together with "spite" ("are sleeping") just the way native speakers do.
+- 'It is not my fault, I did not mean to!' Mikhail shares a brisk mood in the room, anchoring the Russian line on "vinovat" ("at fault, guilty") and "khotel" ("wanted") without extra filler.
+- 'Do not worry. We will say that he fell by himself accidentally.' Barinov projects a steady position in the room, building the phrase around "perezhivayte" ("worry") and "skazhem" ("we'll say") for a crisp, natural delivery.
+- 'I will be a witness.' Barinov shares a resolute note as the scene unfolds, leaning on "budu" ("will be") before closing the thought with "svidetelem" ("witness").
+- 'What is it, doctor? Is hospitalization necessary?' Mikhail inquires decisively to keep things clear, linking "doktor" ("Doctor"), "neobkhodima" ("necessary, essential"), and "gospitalizatsiya" ("hospitalization") in one brisk exchange.
+- 'There are fractures there.' Senya sets a brisk direction without hesitation, placing "tam" ("there") straight beside "perelomy" ("fractures") with no word for "to be" needed.
+- 'In short, if he survives, then good.' Senya displays a thoughtful note at this moment, anchoring the Russian line on "obshchem" ("short, so") and "vyzhivet" ("survives, will survive") without extra filler.
+- 'Of course he will survive! The injuries there are not so severe.' Barinov offers a firm style at once, linking "konechno" ("of course"), "vyzhivet" ("survives, will survive"), and "tam" ("there") in one brisk exchange.
+- 'Besides, medicine is at a serious level now.' Barinov projects a warm tempo in the conversation, combining "meditsina" ("medicine") and "seychas" ("now") so the key meaning lands right away.
+- 'Calm down, I will cover for you.' Senya shares an unhurried attitude in the conversation, leaning on "uspokoytes" ("calm down") before closing the thought with "prikroyu" ("to cover").
+- 'Carry him into my office.' Mikhail adopts an unhurried attitude with Barinov, combining "otnesi" ("take") and "kabinet" ("office") so the key meaning lands right away.
+- 'And do not take your eyes off him!' Mikhail favors a clear style right away, weaving "glaz" ("of eyes") together with "spuskay" ("take off") just the way native speakers do.

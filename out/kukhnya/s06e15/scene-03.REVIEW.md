@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad, why are you sitting in the dark?' Questioning whether dad why are Ainura sitting in the dark is how Lyova tests Ainura's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Look, a tip and a business card together at once.' Between the conversation and the news, Lyova gives Ainura a quick, grounded response.
-- 'But an important phone number is written there!' Because an important phone number is written there, Ainura does not bother softening the blow for Barinov. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Quickly copy that number down for yourself.' Between the work and the job, Ainura gives Barinov a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'My niece's husband is going to be a head chef!' Once her niece husband is going to be a head, Ainura makes sure Barinov hears every word.
-- 'Actually, I have not decided anything yet.' Once he has not decided anything yet, Lyova can finally tell Ainura what he means. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What do you mean you have not decided yet?' Asking what Barinov means Barinov has not decided yet is how Ainura puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What have you not decided over there, Lyova?' Asking whether what have Ainura not decided over there puts Ainura right on the defensive.
-- 'Viktor Petrovich, can you imagine what a strange coincidence!' Insisting that can Ainura imagines what a strange coincidence shows Lyova is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Yesterday I cooked your dish for a guest.' With the point and job in play, Lyova keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And he invited me to work as a head chef.' Around the point and job, Lyova sets a calm, everyday tone with Ainura.
-- 'Interesting, and who is this generous guest?' When Barinov asks if interesting and who is this generous guest, Ainura has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Dad, why are you sitting in the dark?' Lyova presses boldly from the start, building the phrase around "papa" ("Dad") and "pochemu" ("why") for a crisp, natural delivery.
+- 'Look, a tip and a business card together at once.' Lyova presents a lively course without hesitation, pairing "smotri" ("look") with "chayevyye" ("tips") to get the point across in plain spoken Russian.
+- 'But an important phone number is written there!' Ainura projects a serious rhythm in the conversation, putting "tam" ("there") alongside "napisan" ("written") in a tight, everyday turn of phrase.
+- 'Quickly copy that number down for yourself.' Ainura strikes an emphatic approach with Lyova, joining "bystro" ("quickly") to "perepishi" ("copy down, rewrite") so every word pulls its weight.
+- 'My niece's husband is going to be a head chef!' Ainura favors an earnest direction during the exchange, weaving "plemyannitsy" ("niece") together with "muzh" ("husband") just the way native speakers do.
+- 'Actually, I have not decided anything yet.' Lyova brings a pointed mood as they talk, building the phrase around "voobshche-to" ("actually") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'What do you mean you have not decided yet?' Ainura prompts pointedly as they speak, pairing "kak" ("how") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
+- 'What have you not decided over there, Lyova?' Barinov checks frankly as they speak, weaving "tam" ("there") together with "reshil" ("has decided") just the way native speakers do.
+- 'Viktor Petrovich, can you imagine what a strange coincidence!' Lyova maintains a lively course in the conversation, pairing "predstavlyayete" ("to imagine") with "strannoye" ("strange, odd") to get the point across in plain spoken Russian.
+- 'Yesterday I cooked your dish for a guest.' Lyova keeps an unhurried mood in the conversation, putting "vchera" ("yesterday") alongside "prigotovil" ("cooked") in a tight, everyday turn of phrase.
+- 'And he invited me to work as a head chef.' Lyova sustains a playful view at this moment, joining "pozval" ("invited") to "rabotat" ("to work") so every word pulls its weight.
+- 'Interesting, and who is this generous guest?' Barinov probes sharply with Lyova now, weaving "interesno" ("interesting") together with "shchedryy" ("generous") just the way native speakers do.

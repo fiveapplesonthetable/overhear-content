@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you really leaving tomorrow already?' Here checking whether Denis really leaving tomorrow already shows Senya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He did not even warn anyone in advance.' Adding that he did not even warn anyone in advance fills in the missing piece for Denis.
-- 'Denis is leaving for Voronezh forever tomorrow.' Saying that Denis is leaving for Voronezh forever tomorrow is how Senya sets the tone with Denis.
-- 'A nice room is freeing up at Kostya's place now.' Since a nice room is freeing up at Kostya place now, Senya does not waste words on excuses.
-- 'Now this is truly very big news.' Mentioning that this is truly very big news moves the talk in a new direction.
-- 'And who is going to play the piano?' By wondering who going to play the piano is, Mikhail presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, I did not understand anything right now.' Because Alright he did not understand anything right now, Mikhail treats the matter as settled. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Denis, should I sit down at the grand piano myself?' Mikhail asks whether should he sits down at the grand piano himself, refusing to let the point slide.
-- 'He is leaving us forever tomorrow.' Being leaving them forever tomorrow is how Senya lays out the situation for Denis.
-- 'Could you not have told me earlier?' Here asking whether Denis not have told him earlier shows Mikhail looking for the real truth. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Fine, then let us go get your final pay now.' Pointing out that fine then let them go get Denis's final pay now gives Denis a sobering reality check.
-- 'Wait, am I already completely fired?' Around the point and room, Denis wants to know where Mikhail really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Are you really leaving tomorrow already?' Senya inquires openly without a pause, building the phrase around "realno" ("really possible") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'He did not even warn anyone in advance.' Senya favors a resolute approach right away, joining "zaraneye" ("in advance") to "predupredil" ("warned") so every word pulls its weight.
+- 'Denis is leaving for Voronezh forever tomorrow.' Senya chooses a brisk bearing in the room, pairing "denis" ("Denis") with "zavtra" ("tomorrow") so the "-sya" ending carries the action.
+- 'A nice room is freeing up at Kostya's place now.' Senya picks a pointed mood in the conversation, pairing "kosti" ("bones") with "teper" ("now") to get the point across in plain spoken Russian.
+- 'Now this is truly very big news.' Senya offers a thoughtful course in the scene, pairing "deystvitelno" ("really, indeed") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'And who is going to play the piano?' Mikhail checks naturally in this moment, putting "budet" ("will be") alongside "igrat" ("to play") in a tight, everyday turn of phrase.
+- 'Alright, I did not understand anything right now.' Mikhail conveys an earnest direction during the exchange, linking "seychas" ("now"), "ponyal" ("understood"), and "tak" ("so") in one brisk exchange.
+- 'Denis, should I sit down at the grand piano myself?' Mikhail presses sharply during the talk, pairing "denis" ("Denis") with "royal" ("grand piano") so the "-sya" ending carries the action.
+- 'He is leaving us forever tomorrow.' Senya sets a sharp rhythm in the conversation, linking "zavtra" ("tomorrow"), "uyezzhayet" ("is leaving"), and "navsegda" ("forever") in one brisk exchange.
+- 'Could you not have told me earlier?' Mikhail wonders pointedly beside Senya, anchoring the Russian line on "ranshe" ("earlier, previously") and "nelzya" ("not allowed") without extra filler.
+- 'Fine, then let us go get your final pay now.' Mikhail strikes a playful rhythm in the room, pairing "seychas" ("now") with "togda" ("back then") so the "-sya" ending carries the action.
+- 'Wait, am I already completely fired?' Denis checks directly without a pause, linking "podozhdite" ("wait"), "uzhe" ("already, now"), and "sovsem" ("at all") in one brisk exchange.

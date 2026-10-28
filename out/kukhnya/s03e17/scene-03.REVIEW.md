@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will quarrel and ruin our whole wedding.' Since they will quarrel and ruin their whole wedding, Kostya does not waste words on excuses.
-- 'Max, will you come to our wedding alone?' Here checking whether Kostya comes to their wedding alone shows Nastya looking for the real truth.
-- 'And why should I come with Katya?' By asking why he comes with Katya should, Max presses Kostya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, I just thought so.' Because she just thought, Nastya treats the matter as settled.
-- 'She really likes you, after all.' Explaining that she really likes Kostya after all lays the cards on the table for Kostya.
-- 'Max, bring me that, do this for me.' Noting that Max should bring him that do this for him keeps Kostya's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What made you think that she likes me?' Asking whether what made Kostya thinks that she likes him puts Kostya right on the defensive. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'By all the signs, everything adds up.' Pointing out that by all the signs everything adds up gives Kostya a sobering reality check.
-- 'By what kind of signs?' Questioning whether by what kind of signs is how Max tests Kostya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'First, she looks only at you.' Realizing that first she looks only at Kostya changes how Nastya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That person always tries to touch you.' Noting that that person always tries to touch Kostya keeps Nastya's side of the story simple and clear.
-- 'And third, any of your jokes.' Even though third any of Kostya's jokes, Nastya keeps a steady face in front of Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How do you know all this, Nastya?' Asking how Kostya knows all this is how Max puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'They will quarrel and ruin our whole wedding.' Kostya holds a candid stance with Max, weaving "pererugayutsya" ("will quarrel with each other") together with "svadbu" ("wedding") just the way native speakers do.
+- 'Max, will you come to our wedding alone?' Nastya prompts briskly in the scene, putting "svadbu" ("wedding") alongside "pridyosh" ("will come") in a tight, everyday turn of phrase.
+- 'And why should I come with Katya?' Max probes frankly without hesitation, joining "pochemu" ("why") to "dolzhen" ("has to, must") so every word pulls its weight.
+- 'Well, I just thought so.' Nastya projects a wry course at this moment, joining "prosto" ("just") to "podumala" ("thought") so every word pulls its weight.
+- 'She really likes you, after all.' Nastya shares a wry tack straight away, anchoring the Russian line on "ochen" ("very much") and "nravishsya" ("appeal to, are liked") without extra filler.
+- 'Max, bring me that, do this for me.' Kostya establishes a natural footing with Nastya, putting "prinesi" ("bring") alongside "sdelay" ("make, do") in a tight, everyday turn of phrase.
+- 'What made you think that she likes me?' Max queries warmly as the beat lands, putting "vzyali" ("took, arrested") alongside "nravlyus" ("appeal, am liked") in a tight, everyday turn of phrase.
+- 'By all the signs, everything adds up.' Nastya conveys a natural manner at this moment, leaning on "priznakam" ("by the signs") before closing the thought with "skhoditsya" ("to match, add up").
+- 'By what kind of signs?' Max wonders boldly right away, pairing "yeshchyo" ("more, still") with "priznakam" ("by the signs") to get the point across in plain spoken Russian.
+- 'First, she looks only at you.' Nastya chooses a measured attitude in front of Max, pairing "pervoye" ("first") with "vzglyady" ("looks, glances") to get the point across in plain spoken Russian.
+- 'That person always tries to touch you.' Nastya takes a brisk style in their talk, leaning on "chelovek" ("a man, a person") before closing the thought with "vsegda" ("always").
+- 'And third, any of your jokes.' Nastya sustains a natural note at once, joining "tretye" ("third") to "lyubyye" ("any") so every word pulls its weight.
+- 'How do you know all this, Nastya?' Max queries bluntly to Kostya here, building the phrase around "otkuda" ("where from") and "znayesh" ("know") for a crisp, natural delivery.

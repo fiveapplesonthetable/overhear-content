@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, come over here.' Even though Barinov should come over here, Max keeps a steady face in front of Barinov.
-- 'Do not worry so much.' Noting that do not worry so much keeps Barinov's side of the story simple and clear.
-- 'He will start running even faster.' Even though he will start running even faster, Lyova keeps a steady face in front of Barinov.
-- 'You may take away my masterpiece, Alexandra.' Admitting that Barinov may take away his masterpiece shows Max being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'With pleasure.' Over the moment and the plan, Barinov answers Lyova without a second thought.
-- 'Listen, we need to remake this.' Needing to remake this is how Lyova lays out the situation for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'It tastes kind of sour.' Adding that it tastes kind of sour fills in the missing piece for Barinov.
-- 'Well, how is it going?' By asking how it going is, Barinov presses Lyova for a straight answer.
-- 'Any second now.' Over the conversation and the work, Lyova answers Barinov without a second thought.
-- 'It will kick in any minute now.' Mentioning that it will kick in any minute now moves the talk in a new direction.
-- 'Wait, what is supposed to happen?' Here asking what supposed to happen is shows Barinov looking for the real truth.
-- 'Well, his stomach will cramp up.' Because his stomach will cramp up, Lyova treats the matter as settled.
-- 'Somebody call an ambulance!' With the point and work at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Lyova, come over here.' Max adopts a thoughtful position beside Barinov, putting "poydi" ("let's go") alongside "syuda" ("here") in a tight, everyday turn of phrase.
+- 'Do not worry so much.' Barinov presents a calm position in their talk, putting "perezhivayte" ("worry") alongside "ne" ("not") in a tight, everyday turn of phrase.
+- 'He will start running even faster.' Lyova presents a pointed course as they talk, anchoring the Russian line on "yeshche" ("still") and "luchshe" ("better") without extra filler.
+- 'You may take away my masterpiece, Alexandra.' Max keeps an easygoing view in the scene, weaving "mozhete" ("can, may") together with "zabrat" ("take") just the way native speakers do.
+- 'With pleasure.' Barinov strikes an easygoing course in this beat, using "udovolstviyem" ("pleasure") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Listen, we need to remake this.' Lyova establishes a warm posture with Max, pairing "slushay" ("listen") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
+- 'It tastes kind of sour.' Max strikes a wry direction in the room, building the phrase around "kislyy" ("sour") and "kakoy-to" ("some") for a crisp, natural delivery.
+- 'Well, how is it going?' Barinov presses openly at this point, building the phrase around "nu" ("oh, come on") and "chto" ("what") for a crisp, natural delivery.
+- 'Any second now.' Lyova conveys an easygoing approach in their talk, leaning on "seychas" ("now") as a compact, one-word response that needs no extra words.
+- 'It will kick in any minute now.' Max sustains a grounded direction at once, weaving "minuty" ("minutes") together with "minutu" ("a minute") just the way native speakers do.
+- 'Wait, what is supposed to happen?' Barinov checks frankly during the talk, anchoring the Russian line on "dolzhno" ("ought, must") and "sluchitsya" ("to happen") without extra filler.
+- 'Well, his stomach will cramp up.' Lyova favors a natural attitude without hesitation, pairing "zhivot" ("belly") with "skrutit" ("twist, double over") to get the point across in plain spoken Russian.
+- 'Somebody call an ambulance!' Max picks a direct bearing during the exchange, anchoring the Russian line on "skoruyu" ("ambulance") and "vyzovite" ("to call, to summon") without extra filler.

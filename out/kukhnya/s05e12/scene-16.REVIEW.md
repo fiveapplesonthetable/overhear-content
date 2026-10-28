@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only do not tell Viktor Petrovich!' Declaring that only do not tell Viktor Petrovich brings Elena's temper right to the surface.
-- 'Elena Pavlovna?' With the work and table hanging in the air, Lyova puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes.' With the table and plan in play, Elena keeps this short reply brisk and direct.
-- 'Allow me to escort you to the celebration.' Lyova explains that Barinov should allow him to escort Barinov to the celebration, keeping his voice calm and direct.
-- 'I allow it!' By allowing it, Elena raises the stakes in the room at once. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Take off your robe, lie down on your side.' Realizing that Barinov should take off Barinov's robe lie down on Barinov's side changes how Lyova handles the situation.
-- 'Lena, happy birthday!' Between the point and the table, Barinov delivers a sharp reaction.
-- 'Thank you.' Adding that Barinov should thank Barinov fills in the missing piece for Barinov.
-- 'You are amazing, beautiful, and very smart.' Explaining that Elena is amazing beautiful and very smart lays the cards on the table for Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And thanks to your kind heart we are together again.' Barinov mentions that to Elena's kind heart they are together again so Elena sees what is at stake.
-- 'And I promise never to make foolish mistakes again.' Promising never to make foolish mistakes again is how Barinov lays out the situation for Elena. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Thank you, Vitya.' Between the truth and the table, Elena gives Barinov a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Only do not tell Viktor Petrovich!' Elena keeps a firm mood in the conversation, linking "tolko" ("only"), "govorite" ("say, speak"), and "vy" ("you") in one brisk exchange.
+- 'Elena Pavlovna?' Lyova prompts lightly to keep things clear, joining "yelena" ("Yelena") to "pavlovna" ("Pavlovna") so every word pulls its weight.
+- 'Yes.' Elena strikes an earnest direction across the room, letting the single Russian word "da" ("yes") carry the entire reaction on its own.
+- 'Allow me to escort you to the celebration.' Lyova shows a clear course at this moment, weaving "pozvolte" ("allow me") together with "provodit" ("to spend") just the way native speakers do.
+- 'I allow it!' Elena adopts a warm note on the spot, putting all the weight on "pozvolyayu" ("allow, permit") so the reply lands immediately.
+- 'Take off your robe, lie down on your side.' Lyova strikes an earnest direction right away, building the phrase around "snimayte" ("to take off") and "khalat" ("robe, bathrobe") for a crisp, natural delivery.
+- 'Lena, happy birthday!' Barinov sustains a natural tone beside Elena, building the phrase around "dnyom" ("day") and "rozhdeniya" ("of birth") for a crisp, natural delivery.
+- 'Thank you.' Elena keeps a brisk manner toward Lyova, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
+- 'You are amazing, beautiful, and very smart.' Barinov holds an emphatic stance at this moment, weaving "udivitelnaya" ("surprising") together with "krasivaya" ("pretty, beautiful") just the way native speakers do.
+- 'And thanks to your kind heart we are together again.' Barinov picks a firm stance on the spot, using "dobromu" (from "dobryy", "kind") alongside "serdtsu" ("heart") to shape the meaning.
+- 'And I promise never to make foolish mistakes again.' Barinov brings a frank tempo during the exchange, using "obeshchayu" (from "obeshchat", "promise") alongside "bolshe" ("more") to shape the meaning.
+- 'Thank you, Vitya.' Elena holds a pointed mood in front of Lyova, pairing "spasibo" ("thank you") with "tebe" ("for you, to you") to get the point across in plain spoken Russian.

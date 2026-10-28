@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vikochka, hello, how glad I am to see you!' Mama declares that someone hello how glad she is to see Max as the tension in the room peaks. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Welcome on your arrival, how did you get here today?' Asking whether welcome on Mama's arrival how did Mama gets here today puts Mama right on the defensive. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I got here fine, thank you very much, my dears.' Realizing that she got here fine thank Max very much her dears changes how Mama handles the situation.
-- 'Please come into the room, give me your bag.' Coming into the room give her Mama's bag is how Vika lays out the situation for Mama. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Vika, do you see what I arrived wearing today?' Checking whether Max sees what she arrived wearing today cuts straight through the tension between Mama and Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, that is a very beautiful warm shawl!' Vika insists that that is a very beautiful warm shawl, leaving Mama no room to argue.
-- 'And tell me, where did you buy such a pretty one?' Asking whether tell her where did Mama buys such a pretty one puts Mama right on the defensive. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Very funny, Vika, after all you knitted it yourself!' With the room and apartment at stake, Mama reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, that was our gift to Mom for her birthday!' Because that was their gift to Mom for her birthday, Max does not bother softening the blow for Mama.
-- 'Vika, surely you remember how we sent it to her?' When Max asks if surely Mama remembers how they sent it, Mama has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I wear it constantly, you are such a clever girl!' Once she wears it constantly Max is such a clever girl, Mama makes sure Max hears every word. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Oh, I have not even washed my hands from the trip yet!' Once she has not even washed her hands from the trip yet, Mama makes sure Max hears every word.
+- 'Vikochka, hello, how glad I am to see you!' Mama presents an earnest style at once, putting "vikochka" ("vikochka") alongside "zdravstvuyte" ("hello") in a tight, everyday turn of phrase.
+- 'Welcome on your arrival, how did you get here today?' Vika tests wryly without hesitation, building the phrase around "priyezdom" ("arrival") and "kak" ("how") for a crisp, natural delivery.
+- 'I got here fine, thank you very much, my dears.' Mama favors a brisk approach in this beat, anchoring the Russian line on "dobralas" ("to got") and "normalno" ("fine, OK") without extra filler.
+- 'Please come into the room, give me your bag.' Vika strikes a direct position on the spot, putting "prokhodite" ("come in") alongside "komnatu" ("the room") in a tight, everyday turn of phrase.
+- 'Vika, do you see what I arrived wearing today?' Mama prompts frankly as the talk turns, joining "vidish" ("see") to "segodnya" ("today") so every word pulls its weight.
+- 'Yes, that is a very beautiful warm shawl!' Vika projects a clear tone in the conversation, joining "ochen" ("very much") to "krasivyy" ("beautiful") so every word pulls its weight.
+- 'And tell me, where did you buy such a pretty one?' Vika tests decisively as they speak, building the phrase around "skazhite" ("tell") and "gde" ("where") for a crisp, natural delivery.
+- 'Very funny, Vika, after all you knitted it yourself!' Mama adopts a candid style in their talk, putting "ochen" ("very much") alongside "smeshno" ("ridiculous") in a tight, everyday turn of phrase.
+- 'Yes, that was our gift to Mom for her birthday!' Max conveys an unhurried rhythm in their talk, combining "podarok" ("gift, voucher") and "mame" ("mother, mum") so the key meaning lands right away.
+- 'Vika, surely you remember how we sent it to her?' Max quizzes pointedly as they speak, weaving "pomnish" ("do you remember") together with "kak" ("how") just the way native speakers do.
+- 'I wear it constantly, you are such a clever girl!' Mama holds a calm tempo at once, joining "postoyanno" ("constantly") to "noshu" ("to carry, to wear") so every word pulls its weight.
+- 'Oh, I have not even washed my hands from the trip yet!' Mama brings a direct mood toward Vika, building the phrase around "yeshchyo" ("more, still") and "ruki" ("hands") for a crisp, natural delivery.

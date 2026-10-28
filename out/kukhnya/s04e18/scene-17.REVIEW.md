@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the matter? Be more careful, please.' Here wondering what the matter is shows German looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is nothing serious, I will prepare everything myself.' Saying that it is nothing serious she will prepare everything herself is how Vika sets the tone with Barinov.
-- 'You cook simply amazingly, Vika.' Because Barinov cooks simply amazingly, German treats the matter as settled.
-- 'Just make sure you do not mix anything up there.' Explaining that just make sure German does not mix anything up there lays the cards on the table for German. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Well then, maybe we will taste it already?' Questioning whether maybe they will taste it already is how Vika tests Barinov's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, right now, I will just answer the call.' Because right now he will just answer the call, German treats the matter as settled.
-- 'Hello, yes, of course, I will be there soon.' Pointing out that he will be there soon gives Barinov a sobering reality check.
-- 'Vika, I apologize very much.' German mentions that he apologizes very much so Barinov sees what is at stake.
-- 'I need to go to the restaurant urgently.' Mentioning that he needs to go to the restaurant urgently moves the talk in a new direction.
-- 'What, do you need to go right now?' By asking what Barinov needs to go right now, Vika presses Barinov for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Yes, right now, Nagiyev is waiting for me there.' Even though right now Nagiyev is waiting for him there, German keeps a steady face in front of Barinov.
-- 'Excellent, he has left, call our friend.' Admitting that excellent he has left call their friend shows Barinov being honest for a change.
+- 'What is the matter? Be more careful, please.' German tests wryly as the talk turns, putting "delo" ("matter") alongside "budte" ("be") in a tight, everyday turn of phrase.
+- 'It is nothing serious, I will prepare everything myself.' Vika conveys an unhurried direction with German, joining "strashnogo" ("terrible, serious") to "prigotovlyu" ("will prepare") so every word pulls its weight.
+- 'You cook simply amazingly, Vika.' German conveys a brisk position toward Barinov, joining "gotovite" ("to cook, to prepare") to "prosto" ("just") so every word pulls its weight.
+- 'Just make sure you do not mix anything up there.' Barinov holds a lively angle beside Vika, using "smotri" (from "smotret", "look") alongside "tolko" ("only") to shape the meaning.
+- 'Well then, maybe we will taste it already?' Vika quizzes promptly to make the point, putting "mozhet" ("can") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
+- 'Yes, right now, I will just answer the call.' German shares a steady position at once, anchoring the Russian line on "seychas" ("now") and "tolko" ("only") without extra filler.
+- 'Hello, yes, of course, I will be there soon.' German maintains an earnest tack without hesitation, joining "konechno" ("of course") to "skoro" ("soon") so every word pulls its weight.
+- 'Vika, I apologize very much.' German brings an honest manner as they talk, combining "ochen" ("very much") and "proshu" ("beg, ask") so the key meaning lands right away.
+- 'I need to go to the restaurant urgently.' German shows a calm stance in the room, pairing "nuzhno" ("necessary") with "srochno" ("urgent, urgently") to get the point across in plain spoken Russian.
+- 'What, do you need to go right now?' Vika asks plainly beside German, leaning on "kak" ("how") before closing the thought with "nuzhno" ("necessary").
+- 'Yes, right now, Nagiyev is waiting for me there.' German shows a serious approach with Barinov, leaning on "seychas" ("now") before closing the thought with "tam" ("there").
+- 'Excellent, he has left, call our friend.' Barinov picks an emphatic rhythm in this beat, anchoring the Russian line on "otlichno" ("perfect, great") and "vyyekhal" ("to call") without extra filler.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that? Excuse me.' Over the shift and the hotel, Nikita presses Denis for a straight answer.
-- 'Open your eyes.' Because Denis should open Denis's eyes, Nikita treats the matter as settled.
-- 'Sorry, I did it by accident.' Denis explains that he did it by accident, keeping his voice calm and direct.
-- 'Listen, I actually came to see you.' Realizing that he actually came to see Nikita changes how Denis handles the situation.
-- 'I came here for a real reason.' Noting that he came here for a real reason keeps Denis's side of the story simple and clear.
-- 'Do you know Katya?' Here checking whether Nikita knows Katya shows Denis looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Who did you just name?' By asking who Denis just name, Nikita presses Denis for a straight answer.
-- 'Our Katya from the kitchen.' With the hotel and kitchen in play, Denis keeps this short reply brisk and direct.
-- 'I am her boyfriend, got it?' Questioning whether he is her boyfriend got it is how Denis tests Nikita's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You should not hit on her.' Adding that Nikita should not hit fills in the missing piece for Nikita.
-- 'What? I did not understand you.' Wondering if he did not understand Denis shows Nikita caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What are you talking about at all?' By asking what Denis talking about at all is, Nikita presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'What was that? Excuse me.' Nikita queries naturally as they speak, anchoring the Russian line on "bylo" ("was") and "izvinite" ("sorry, excuse me") without extra filler.
+- 'Open your eyes.' Nikita favors an unhurried position as the scene unfolds, using "glaza" (from "glaz", "eyes") alongside "otkroy" ("to open") to shape the meaning.
+- 'Sorry, I did it by accident.' Denis establishes a thoughtful direction across the room, putting "izvini" ("sorry, excuse me") alongside "sluchayno" ("by any chance") in a tight, everyday turn of phrase.
+- 'Listen, I actually came to see you.' Denis establishes a brisk style during the exchange, pairing "slushay" ("listen") with "prishyol" ("came, have come") to get the point across in plain spoken Russian.
+- 'I came here for a real reason.' Denis adopts a pointed tone beside Nikita, anchoring the Russian line on "prishyol" ("came, have come") and "samom" ("very") without extra filler.
+- 'Do you know Katya?' Denis asks dryly to Nikita here, weaving "znayesh" ("know") together with "ty" ("you") just the way native speakers do.
+- 'Who did you just name?' Nikita prompts sharply at this point, leaning on "seychas" ("now") before closing the thought with "nazval" ("called").
+- 'Our Katya from the kitchen.' Denis adopts a brisk line toward Nikita, pairing "kukhni" ("kitchen") with "nashu" ("our") to get the point across in plain spoken Russian.
+- 'I am her boyfriend, got it?' Denis prompts directly from the start, combining "paren" ("boyfriend") and "ponyal" ("understood") so the key meaning lands right away.
+- 'You should not hit on her.' Denis sustains an easygoing position at this moment, building the phrase around "nado" ("it is necessary") and "pristavat" ("to pester, to harass") for a crisp, natural delivery.
+- 'What? I did not understand you.' Nikita checks frankly in this moment, joining "ponyal" ("understood") to "chego" ("what") so every word pulls its weight.
+- 'What are you talking about at all?' Nikita questions lightly in this moment, weaving "voobshche" ("at all") together with "govorish" ("you say") just the way native speakers do.

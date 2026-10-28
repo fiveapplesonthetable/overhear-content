@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, please come on through.' Around the room and police, German sets a calm, everyday tone with Senya.
-- 'They stole a copper sauté pan.' Explaining that they stole a copper pan lays the cards on the table for Senya.
-- 'Nothing else disappeared.' Between the room and the police, Vika gives German a quick, grounded response. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I cannot find the sturgeon.' Pointing out that he cannot find the sturgeon gives German a sobering reality check.
-- 'It seems to me they stole it along with the pan.' Explaining that it seems to him they stole it along with the pan lays the cards on the table for German.
-- 'You called us in over this nonsense?' Questioning whether German called them in over this nonsense is how Vika tests German's story. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Excuse me, this is not nonsense.' Realizing that this is not nonsense changes how German handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'For a chef, this is the most important thing.' Noting that for a this is the most important thing keeps German's side of the story simple and clear.
-- 'And what if someone stole a pistol from you?' Asking whether what if someone stole a pistol from Senya puts Senya right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well then, shall we have some fun?' Wondering if shall they have some fun shows Vika caught off guard. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'No, we must draw on paper.' Saying that they must draw on paper is how Vika sets the tone with German.
-- 'Have you already started having fun without me?' Checking whether German already started having fun is how Vika puts German on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Hello, please come on through.' German offers a warm rhythm in the conversation, putting "zdravstvuyte" ("hello") alongside "prokhodite" ("come in") in a tight, everyday turn of phrase.
+- 'They stole a copper sauté pan.' German projects a firm footing right away, weaving "ukrali" ("stole") together with "mednyy" ("pan") just the way native speakers do.
+- 'Nothing else disappeared.' Vika keeps a clear direction as they talk, leaning on "bolshe" ("more") before closing the thought with "propalo" ("to disappeared").
+- 'I cannot find the sturgeon.' Senya takes an earnest direction beside Vika, weaving "mogu" ("can") together with "nayti" ("to find") just the way native speakers do.
+- 'It seems to me they stole it along with the pan.' Senya sets a clear tack in the scene, putting "kazhetsya" ("it seems, I think") alongside "ukrali" ("stole") in a tight, everyday turn of phrase.
+- 'You called us in over this nonsense?' Vika quizzes firmly in this moment, linking "yerundy" ("nonsense, trifle"), "vyzvali" ("called, summoned"), and "iz-za" ("because of") in one brisk exchange.
+- 'Excuse me, this is not nonsense.' German conveys a warm angle in the conversation, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "yerunda" ("trifle, nothing") to shape the meaning.
+- 'For a chef, this is the most important thing.' German strikes a clear tempo for Vika, pairing "povara" ("cook") with "samoye" ("the most") to get the point across in plain spoken Russian.
+- 'And what if someone stole a pistol from you?' German tests lightly in their exchange, weaving "ukrali" ("stole") together with "pistolet" ("pistol") just the way native speakers do.
+- 'Well then, shall we have some fun?' Vika questions promptly as they speak, building the phrase around "davay" ("let's") and "poveselimsya" ("will have fun") for a crisp, natural delivery.
+- 'No, we must draw on paper.' Vika projects an earnest direction as they talk, pairing "nado" ("it is necessary") with "risovat" ("to draw") to get the point across in plain spoken Russian.
+- 'Have you already started having fun without me?' Vika checks boldly to Senya here, putting "uzhe" ("already, now") alongside "nachal" ("started") in a tight, everyday turn of phrase.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is a real, genuine date.' Saying that this is a real genuine date is how the guest sets the tone with Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'My name is Nikolai.' Once his name is Nikolai, the guest can finally tell Max what he means.
-- 'We met a year ago at a festival.' Adding that they met a year ago at a festival fills in the missing piece for Max.
-- 'You looked simply stunning.' The guest tells Max that Max looked simply stunning without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Hi! By the way, there is a fine for breaking dishes.' Because there is a fine for breaking dishes, Max does not bother softening the blow for the guest. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'When will you get out of my life?' Wondering when the guest gets out of her life will is how Vika puts the guest on the spot.
-- 'Stop! Do you want me to leave?' Here checking whether the guest wants him to leave shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Fine, I can leave.' Because fine he can leave, Max treats the matter as settled.
-- 'Is everything all right?' Checking whether everything all right cuts straight through the tension between the guest and Max.
-- 'Yes. Thank you.' Explaining that the guest should thank the guest lays the cards on the table for the guest.
-- 'Well, and what did you achieve with this?' Here asking what the guest achieve with this shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You came on a date with me.' Pointing out that the guest came on a date with him gives the guest a sobering reality check.
+- 'This is a real, genuine date.' The guest establishes a firm rhythm as the scene unfolds, using "samoye" (from "samyy", "the most") alongside "nastoyashcheye" ("real") to shape the meaning.
+- 'My name is Nikolai.' The guest shows a sharp tack with Vika, weaving "zovut" ("call") together with "menya" ("me") just the way native speakers do.
+- 'We met a year ago at a festival.' The guest establishes a serious view beside Max, combining "vstrechalis" ("to meet, to date") and "god" ("year") so the key meaning lands right away.
+- 'You looked simply stunning.' The guest establishes a warm rhythm without hesitation, combining the softening word "prosto" ("simply, just") with "vyglyadeli" ("looked") to give the line its natural spoken rhythm.
+- 'Hi! By the way, there is a fine for breaking dishes.' Max shows a frank tack for the guest, joining "prochim" ("other") to "boy" ("fight, combat") so every word pulls its weight.
+- 'When will you get out of my life?' Vika questions pointedly for Max's benefit, anchoring the Russian line on "kogda" ("when") and "uydyosh" ("you'll leave") without extra filler.
+- 'Stop! Do you want me to leave?' Max probes frankly as the beat lands, joining "khochesh" ("do you want") to "ushyol" ("left, departed") so every word pulls its weight.
+- 'Fine, I can leave.' Max keeps a natural position in the conversation, putting "mogu" ("can") alongside "uyti" ("to leave") in a tight, everyday turn of phrase.
+- 'Is everything all right?' The guest prompts calmly in front of Max, weaving "normalno" ("fine, OK") together with "vsyo" ("everything") just the way native speakers do.
+- 'Yes. Thank you.' Max adopts a natural posture in the room, leaning on "spasibo" ("thank you") before closing the thought with "da" ("yes").
+- 'Well, and what did you achieve with this?' Vika wonders naturally to keep things clear, anchoring the Russian line on "dobilsya" ("achieved") and "nu" ("oh, come on") without extra filler.
+- 'You came on a date with me.' Max favors a resolute rhythm at this moment, joining "prishla" ("came") to "svidaniye" ("date") so every word pulls its weight.

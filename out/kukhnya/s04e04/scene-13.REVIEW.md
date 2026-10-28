@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot do it like this. All of this is weighing on me.' Because she cannot do it like this, Vika treats the matter as settled.
-- 'What is weighing on you?' Asking what weighing on Vika is is how Max puts Vika on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Did your voice finally come back? Wonderful.' Here asking whether Vika's voice finally come back shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That you stay silent and write these foolish notes.' Realizing that that Max stays silent and write these foolish notes changes how Vika handles the situation.
-- 'I do not want our child to be conceived in this way.' Explaining that she does not want their child to be conceived in this way lays the cards on the table for Max.
-- 'Maybe you do not want a child at all?' Wondering if maybe Max does not want a child at all shows Vika caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vika, come on, stop it.' By coming on stop it, Max keeps his side of the story grounded.
-- 'What kind of nonsense are you saying, huh?' Over the plan and the tears, Max presses Vika for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You are the one who always talks nonsense.' Once Max is the one who always talks nonsense, Vika can finally tell Max what she means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, come on, wait.' Because Vika should come on wait, Max treats the matter as settled.
-- 'Vika, stop.' With the room and tears in play, Max keeps this short reply brisk and direct.
-- 'Vika, wait!' With the plan and tears at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I cannot do it like this. All of this is weighing on me.' Vika chooses an unhurried manner beside Max, leaning on "mogu" ("can") before closing the thought with "davit" ("to press").
+- 'What is weighing on you?' Max challenges naturally without hesitation, joining "davit" ("to press") to "chto" ("what") so every word pulls its weight.
+- 'Did your voice finally come back? Wonderful.' Max challenges sharply in this moment, using "prorvalo" (from "prorvat", "to voice") alongside "prekrasno" ("perfectly") to shape the meaning.
+- 'That you stay silent and write these foolish notes.' Vika sets a warm tone straight away, putting "molchish" ("are silent") alongside "pishesh" ("are writing") in a tight, everyday turn of phrase.
+- 'I do not want our child to be conceived in this way.' Vika holds a clear tempo at once, weaving "khochu" ("want") together with "rebyonok" ("a child") just the way native speakers do.
+- 'Maybe you do not want a child at all?' Vika questions steadily to Max here, combining "mozhet" ("can") and "byt" ("be") so the key meaning lands right away.
+- 'Vika, come on, stop it.' Max strikes a serious tack right away, weaving "prekrati" ("stop it") together with "vik" ("Vika") just the way native speakers do.
+- 'What kind of nonsense are you saying, huh?' Max queries lightly in this moment, linking "gluposti" ("nonsense"), "govorish" ("you say"), and "chto" ("what") in one brisk exchange.
+- 'You are the one who always talks nonsense.' Vika picks a thoughtful direction in the conversation, anchoring the Russian line on "gluposti" ("nonsense") and "vsegda" ("always") without extra filler.
+- 'Vika, come on, wait.' Max brings a frank footing as the scene unfolds, leaning on "podozhdi" ("wait") before closing the thought with "vik" ("Vika").
+- 'Vika, stop.' Max conveys a firm mood in their talk, anchoring the Russian line on "stoy" ("stop, wait") and "vik" ("Vika") without extra filler.
+- 'Vika, wait!' Max projects a calm stance beside Vika, putting "stoy" ("stop, wait") alongside "vika" ("Vika") in a tight, everyday turn of phrase.

@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Ой, а вы шеф не видели? | Oh, have you seen the Chef? | #127: Ой, а вы шеф не видели | verbatim |
 | 2 | Шеф | Сказал, через полчаса придет. | He said he would be back in half an hour. | #129: Сказал, через полчаса придет | verbatim |
-| 3 | Макс | Удавлю, Макс. | I will strangle you, Max. | #130: Удавлю, Макс | verbatim |
+| 3 | Шеф | Удавлю, Макс. | I will strangle you, Max. | #130: Удавлю, Макс | verbatim |
 | 4 | Шеф | Прекрати думать головой. | Stop overthinking everything. | #132: Прекрати думать головой | verbatim |
 | 5 | Макс | Что ты тут делаешь? | What are you doing in here? | #134: что ты тут делаешь | verbatim |
 | 6 | Шеф | Так я по поводу зарплаты пришел. | I came by to ask about my salary. | #135: Так я по поводу зарплаты пришел | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, have you seen the Chef?' Checking whether Barinov seen the Chef cuts straight through the tension between Max and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'He said he would be back in half an hour.' Even though he said he would be back in half an hour, Barinov keeps a steady face in front of Max.
-- 'I will strangle you, Max.' Admitting that he will strangle Barinov shows Max being honest for a change.
-- 'Stop overthinking everything.' Stopping overthinking everything is how Barinov lays out the situation for Max.
-- 'What are you doing in here?' Asking what Barinov doing in here is cuts straight through the tension between Max and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I came by to ask about my salary.' Adding that he came by to ask about his salary fills in the missing piece for Max.
-- 'By the way, you are not going to give me a raise, are you?' Questioning whether Barinov is not going to give him a raise are Barinov is how Max tests Barinov's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And rightly so, I have not earned it.' Since rightly so he has not earned it, Barinov does not waste words on excuses.
-- 'No. And rightly so.' Around the conversation and moment, Max sets a calm, everyday tone with Barinov.
-- 'Until I find out the answer.' Barinov reminds Max that until he finds out the answer before the moment passes.
-- 'There is no point in continuing to breathe.' Because there is no point in continuing to breathe, Max treats the matter as settled.
-- 'Postscript.' Over the work and the office, Barinov answers Max without a second thought.
-- 'Bon appetit.' Between the work and the fish, Max gives Barinov a quick, grounded response.
+- 'Oh, have you seen the Chef?' Max wonders bluntly without a pause, linking "videli" ("saw"), "oy" ("oh"), and "vy" ("you") in one brisk exchange.
+- 'He said he would be back in half an hour.' Barinov sets a brisk attitude in the room, leaning on "skazal" ("said") before closing the thought with "polchasa" ("half-hour").
+- 'I will strangle you, Max.' Barinov shares a resolute style at this moment, building the phrase around "udavlyu" ("to strangle") and "maks" ("Max") for a crisp, natural delivery.
+- 'Stop overthinking everything.' Barinov picks a candid tone in their talk, combining "prekrati" ("stop it") and "dumat" ("to think") so the key meaning lands right away.
+- 'What are you doing in here?' Max prompts wryly beside Barinov, anchoring the Russian line on "tut" ("here") and "delayesh" ("are you doing") without extra filler.
+- 'I came by to ask about my salary.' Barinov presents a serious stance right away, leaning on "povodu" ("matter") before closing the thought with "zarplaty" ("salaries").
+- 'By the way, you are not going to give me a raise, are you?' Max checks openly in the room, putting "kstati" ("by the way") alongside "budete" ("will be") in a tight, everyday turn of phrase.
+- 'And rightly so, I have not earned it.' Barinov offers a thoughtful direction in the scene, pairing "pravilno" ("right") with "zasluzhil" ("earned") to get the point across in plain spoken Russian.
+- 'No. And rightly so.' Max takes a measured rhythm in the conversation, linking "pravilno" ("right"), "net" ("no"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Until I find out the answer.' Barinov presents a firm approach without hesitation, combining "poka" ("bye") and "otveta" ("answer") so the key meaning lands right away.
+- 'There is no point in continuing to breathe.' Max keeps a thoughtful position without hesitation, using "smysla" (from "smysl", "sense, meaning") alongside "prodolzhat" ("to continue") to shape the meaning.
+- 'Postscript.' Barinov sets a direct note across the room, leaning on "skriptum" ("postscript") before closing the thought with "po" ("according to").
+- 'Bon appetit.' Max holds a direct stance toward Barinov, using "priyatnogo" (from "priyatnyy", "pleasant") alongside "appetita" ("appetite") to shape the meaning.

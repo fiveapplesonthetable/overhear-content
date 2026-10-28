@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I am here for my pay.' Even though he is here for his pay, Denis keeps a steady face in front of Barinov.
-- 'Today is the big match.' Adding that today is the big match fills in the missing piece for Denis.
-- 'Are you a Spartak fan too?' By checking whether Barinov a Spartak fan, Denis presses Barinov for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I am a gladiator. Sit down.' Explaining that he is a gladiator lays the cards on the table for Denis.
-- 'Tomorrow I will show you a great Spartak bar.' Mentioning that tomorrow he will show Denis a great Spartak bar moves the talk in a new direction.
-- 'I can't, I have to look for a job.' Denis reminds Barinov that he cannot he has to look for a job before the moment passes. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Alright, it was nice meeting you.' Because Alright it was nice meeting Barinov, Denis treats the matter as settled.
-- 'Viktor Petrovich, can I do anything for you as a parting favor?' Checking whether he does anything for Barinov as a parting favor cuts straight through the tension between Lyova and Barinov.
-- 'You can. Take that young guy back.' By taking that young guy back, Barinov keeps his side of the story grounded.
-- 'That is my final request.' Claiming that that is his final request sounds confident, even if Denis has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Alright, I will.' Pointing out that Alright he will gives Barinov a sobering reality check.
-- 'Never give up.' With the room and car in play, Barinov keeps this short reply brisk and direct. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Hello, I am here for my pay.' Denis takes a resolute tack on the spot, pairing "zdravstvuyte" ("hello") with "dengami" ("the money, funding") to get the point across in plain spoken Russian.
+- 'Today is the big match.' Barinov holds a thoughtful angle in this beat, putting "segodnya" ("today") alongside "igra" ("game") in a tight, everyday turn of phrase.
+- 'Are you a Spartak fan too?' Denis queries boldly toward Barinov here, combining "tozhe" ("too") and "myasnoy" ("meat") so the key meaning lands right away.
+- 'I am a gladiator. Sit down.' Barinov takes a calm view at this moment, joining "gladiator" ("sit") to "sadis" ("sit down") so every word pulls its weight.
+- 'Tomorrow I will show you a great Spartak bar.' Barinov adopts a direct mood in front of Denis, joining "zavtra" ("tomorrow") to "spartakovskiy" ("spartak") so every word pulls its weight.
+- 'I can't, I have to look for a job.' Denis maintains an honest direction with Lyova, leaning on "mogu" ("can") before closing the thought with "rabotu" ("job").
+- 'Alright, it was nice meeting you.' Denis shows a grounded approach in this beat, pairing "priyatno" ("pleasant") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Viktor Petrovich, can I do anything for you as a parting favor?' Lyova questions honestly to keep things clear, weaving "mogu" ("can") together with "sdelat" ("to do") just the way native speakers do.
+- 'You can. Take that young guy back.' Barinov offers a calm line without hesitation, building the phrase around "mozhesh" ("can") and "vozmi" ("take, pick up") for a crisp, natural delivery.
+- 'That is my final request.' Barinov establishes an honest manner during the exchange, using "poslednyaya" (from "posledniy", "last, final") alongside "prosba" ("a request") to shape the meaning.
+- 'Alright, I will.' Lyova sets a direct tone as the scene unfolds, leaning on "khorosho" ("good, fine") as a compact, one-word response that needs no extra words.
+- 'Never give up.' Barinov sets a playful direction at once, building the phrase around "nikogda" ("never") and "sdavaysya" ("give up") for a crisp, natural delivery.

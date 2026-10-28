@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I am at a different age for such surprises.' Adding that she is at a different age for such surprises fills in the missing piece for Barinov.
-- 'Well, here we have arrived already, look!' Barinov declares that here they have arrived already look as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'This right here is my main surprise for you.' Because this right here is his main surprise for Elena, Barinov treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vitya, the thing is that I cannot marry you.' Adding that the thing is that she cannot marry Barinov fills in the missing piece for Barinov.
-- 'Wait, what do you mean you are not divorced yet?' Wondering what Elena means Elena is not divorced yet is how Barinov puts Elena on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You know we have not been husband and wife for a long time.' Claiming that they have not been husband and wife for a long time sounds confident, even if Barinov has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That stamp in the passport was just a formality.' Pointing out that that stamp in the passport was just a formality gives Barinov a sobering reality check.
-- 'Do you want me to call right now and settle everything?' Checking whether Barinov wants her to call right now and settle everything cuts straight through the tension between Elena and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Chef, we are all freezing out here on the street!' Senya declares that they are all freezing out here on the street as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Tell us, are you getting married today or not?' Questioning whether tell them are Barinov getting married today or not is how Senya tests Barinov's story.
-- 'Thank you for coming, but the wedding is canceled for now.' Even though for coming but the wedding is canceled for now, Barinov keeps a steady face in front of Elena.
-- 'I hope only temporarily, let's go to the car.' Saying that he hopes only temporarily let them go to the car is how Barinov sets the tone with Elena.
+- 'Vitya, I am at a different age for such surprises.' Elena chooses a warm tempo in front of Barinov, anchoring the Russian line on "drugoy" ("other") and "vozrast" ("age") without extra filler.
+- 'Well, here we have arrived already, look!' Barinov shows an emphatic posture across the room, leaning on "uzhe" ("already, now") before closing the thought with "prishli" ("have come").
+- 'This right here is my main surprise for you.' Barinov maintains an earnest line in the conversation, leaning on "glavnyy" ("main, chief") before closing the thought with "syurpriz" ("surprise").
+- 'Vitya, the thing is that I cannot marry you.' Elena adopts a playful note in the conversation, joining "delo" ("matter") to "mogu" ("can") so every word pulls its weight.
+- 'Wait, what do you mean you are not divorced yet?' Barinov queries decisively in their exchange, building the phrase around "podozhdi" ("wait") and "znachit" ("then, so") for a crisp, natural delivery.
+- 'You know we have not been husband and wife for a long time.' Elena sustains a calm course at once, joining "znayesh" ("know") to "davno" ("for a long time") so every word pulls its weight.
+- 'That stamp in the passport was just a formality.' Elena offers a clear tempo as they talk, joining "shtamp" ("stamp") to "pasporte" ("passport") so every word pulls its weight.
+- 'Do you want me to call right now and settle everything?' Elena quizzes steadily across the room, using "khochesh" (from "khotet", "do you want") alongside "seychas" ("now") to shape the meaning.
+- 'Chef, we are all freezing out here on the street!' Senya presents a sharp rhythm on the spot, pairing "voobshche-to" ("actually") with "tut" ("here") to get the point across in plain spoken Russian.
+- 'Tell us, are you getting married today or not?' Senya prompts openly across the room, joining "skazhite" ("tell") to "segodnya" ("today") so every word pulls its weight.
+- 'Thank you for coming, but the wedding is canceled for now.' Barinov takes a grounded manner straight away, joining "spasibo" ("thank you") to "prishli" ("have come") so every word pulls its weight.
+- 'I hope only temporarily, let's go to the car.' Barinov chooses an honest tone as the scene unfolds, combining "nadeyus" ("hope so") and "tolko" ("only") so the key meaning lands right away.

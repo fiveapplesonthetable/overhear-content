@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Make sure that this table is available.' Pointing out that Barinov should make sure that this table is available gives Barinov a sobering reality check.
-- 'What happened with you over there?' Over the hotel and the secret, Eleonora presses Barinov for a straight answer.
-- 'Why are you looking like that?' By asking why Barinov looking like is, Eleonora presses Barinov for a straight answer. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'They burst into my room.' Over the secret and the coffee, Barinov answers Eleonora without a second thought.
-- 'I will explain everything to you right now.' Since he will explain everything to Barinov right now, Mikhail does not waste words on excuses.
-- 'Victoria Sergeevna tricked us today.' With the secret and kitchen in play, Mikhail keeps this short reply brisk and direct.
-- 'She said that this gentleman was the inspector.' Mikhail explains that she said that this gentleman was the inspector, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do not hesitate, come right in here.' Realizing that do not hesitate come right in here changes how Eleonora handles the situation.
-- 'Be stricter with all of them.' Over the coffee and the guest, Eleonora answers Barinov without a second thought.
-- 'Do not worry, we will do everything.' Even though do not worry they will do everything, Barinov keeps a steady face in front of Eleonora.
-- 'And how did you find out about that?' Wondering how Barinov finds out cuts straight through the tension between Eleonora and Barinov.
-- 'First I will go and get dressed.' Saying that first he will go and get dressed is how Barinov sets the tone with Eleonora.
+- 'Make sure that this table is available.' Eleonora adopts an easygoing posture beside Barinov, anchoring the Russian line on "prosledite" ("to see to it") and "stolik" ("table") without extra filler.
+- 'What happened with you over there?' Eleonora asks warmly to Mikhail here, putting "tam" ("there") alongside "sluchilos" ("happened") in a tight, everyday turn of phrase.
+- 'Why are you looking like that?' Eleonora tests warmly in the room, linking "pochemu" ("why") directly with "vide" ("state"), since Russian drops "is" and "are" in the present.
+- 'They burst into my room.' Barinov maintains an earnest approach in front of Mikhail, pairing "vorvalis" ("broke into") with "nomer" ("number") to get the point across in plain spoken Russian.
+- 'I will explain everything to you right now.' Mikhail holds an honest angle right away, linking "seychas" ("now"), "obyasnyu" ("I'll explain"), and "ya" ("I") in one brisk exchange.
+- 'Victoria Sergeevna tricked us today.' Mikhail picks a wry view for Eleonora, putting "segodnya" ("today") alongside "obmanula" ("to cheat, to deceive") in a tight, everyday turn of phrase.
+- 'She said that this gentleman was the inspector.' Mikhail shares a candid mood in the conversation, pairing "skazala" ("told") with "gospodin" ("Mr, sir") to get the point across in plain spoken Russian.
+- 'Do not hesitate, come right in here.' Eleonora favors a warm tack during the exchange, joining "stesnyaytes" ("be shy, hesitate") to "prokhodite" ("come in") so every word pulls its weight.
+- 'Be stricter with all of them.' Eleonora chooses a calm tack right away, putting "budte" ("be") alongside "postrozhe" ("stricter") in a tight, everyday turn of phrase.
+- 'Do not worry, we will do everything.' Barinov shows a warm tack beside Mikhail, weaving "bespokoytes" ("worry") together with "sdelayem" ("we'll do") just the way native speakers do.
+- 'And how did you find out about that?' Eleonora queries bluntly in the room, leaning on "kak" ("how") before closing the thought with "uznali" ("found out, knew").
+- 'First I will go and get dressed.' Barinov takes a firm mood on the spot, linking "snachala" ("first, at first"), "poydu" ("go"), and "odenus" ("I will get dressed") in one brisk exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, please, do not even start.' Admitting that do not even start shows Max being honest for a change.
-- 'Five minutes is not being late.' Saying that five minutes is not being late is how Max sets the tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'If the mustachioed walrus asks, I arrived on time.' Once if the mustachioed walrus asks he arrived on time, Max can finally tell the guest what he means.
-- 'Then you get a fine of half a paycheck.' Adding that the guest gets a fine of half a paycheck fills in the missing piece for the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Be late one more time and you will be left without a paycheck.' Lyova tells the guest that be late one more time and the guest will be left without a paycheck without dressing it up.
-- 'Lyova, but that is unfair!' Because that is unfair, Max does not bother softening the blow for the guest.
-- 'And for the walrus comment, you are taking out the trash all day.' Mentioning that for the walrus comment the guest is taking out the trash all day moves the talk in a new direction.
-- 'Now everything is fair, right?' Wondering if everything is fair right shows Lyova caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You are deliberately trying to take my place, right?' Questioning whether the guest is deliberately trying to take his place right is how Max tests the guest's story.
-- 'Hey, you should move your car out of here.' Explaining that the guest should move the guest's car out of here lays the cards on the table for the guest. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'People actually walk through here.' With the truth and argument in play, Max keeps this short reply brisk and direct.
-- 'Nothing will happen, they can walk around it.' Claiming that nothing will happen they can walk around it sounds confident, even if Lyova has doubts.
-- 'You are going to move your car right now, got it?' Wondering if the guest is going to move the guest's car right now got it shows Max caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Lyova, please, do not even start.' Max sets a firm tack during the exchange, pairing "nachinay" ("start") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
+- 'Five minutes is not being late.' Max keeps a wry tempo right away, putting "minut" ("minutes") alongside "opozdaniye" ("being late") in a tight, everyday turn of phrase.
+- 'If the mustachioed walrus asks, I arrived on time.' Max strikes a steady tack at this moment, anchoring the Russian line on "usatyy" ("friend") and "morzh" ("walrus") without extra filler.
+- 'Then you get a fine of half a paycheck.' Lyova conveys a pointed rhythm beside Max, pairing "togda" ("back then") with "shtraf" ("fine") to get the point across in plain spoken Russian.
+- 'Be late one more time and you will be left without a paycheck.' Lyova chooses a serious tempo toward the guest, pairing "ostaneshsya" ("will stay") with "yeshchyo" ("more, still") so the "-sya" ending carries the action.
+- 'Lyova, but that is unfair!' Max shares a wry manner during the exchange, putting "nespravedlivo" ("unfairly") alongside "lyova" ("Lyova") in a tight, everyday turn of phrase.
+- 'And for the walrus comment, you are taking out the trash all day.' Lyova takes a serious angle in the room, weaving "morzha" ("walrus") together with "den" ("day") just the way native speakers do.
+- 'Now everything is fair, right?' Lyova asks warmly across the room, pairing "teper" ("now") with "spravedlivo" ("fair, justly") to get the point across in plain spoken Russian.
+- 'You are deliberately trying to take my place, right?' Max probes warmly to keep things clear, linking "spetsialno" ("on purpose"), "podsizhivayesh" ("are trying to take my job"), and "ty" ("you") in one brisk exchange.
+- 'Hey, you should move your car out of here.' Max chooses a steady footing in the conversation, putting "slyshish" ("hear") alongside "tachku" ("car, ride") in a tight, everyday turn of phrase.
+- 'People actually walk through here.' Max takes a grounded bearing as the scene unfolds, building the phrase around "zdes" ("here") and "voobshche-to" ("actually") for a crisp, natural delivery.
+- 'Nothing will happen, they can walk around it.' The guest projects a lively rhythm in the room, anchoring the Russian line on "sluchitsya" ("will happen") and "spokoyno" ("calmly") without extra filler.
+- 'You are going to move your car right now, got it?' Max tests evenly during the talk, anchoring the Russian line on "uberyosh" ("to remove, to take away") and "mashinu" ("car") without extra filler.

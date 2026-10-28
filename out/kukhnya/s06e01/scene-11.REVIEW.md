@@ -20,20 +20,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Шеф | Кажется, я их нашел. | I think I found them. | #209: Кажется, я их нашел | adapted: exact |
 | 9 | Гость | Какой ты молодец, Витя. | Good for you, Vitya. | #210: Какой ты молодец, Витя | adapted: exact |
 | 10 | Гость | Теперь ты будешь делать это печенье. | Now you will make these cookies. | #212: Теперь ты будешь делать это печенье | adapted: exact |
-| 11 | Никита | Дела в ресторане я принял. | I have taken over the restaurant affairs. | #213: Дела в ресторане я принял | adapted: exact |
-| 12 | Никита | На кухне нужно срочно заменить холодильник. | In the kitchen we urgently need to replace the refrigerator. | #214: На кухне нужно срочно заменить холодильник | adapted: exact |
+| 11 | Луи | Дела в ресторане я принял. | I have taken over the restaurant affairs. | #213: Дела в ресторане я принял | adapted: exact |
+| 12 | Луи | На кухне нужно срочно заменить холодильник. | In the kitchen we urgently need to replace the refrigerator. | #214: На кухне нужно срочно заменить холодильник | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Louis.' Over the plan and the wedding, Barinov answers the guest without a second thought.
-- 'Not bad, but it crunches too hard.' Around the point and plan, the guest sets a calm, everyday tone with Barinov.
-- 'Honestly?' With the conversation and wedding hanging in the air, Barinov puts the guest on the spot.
-- 'Sorry, like son-in-law, like cookies.' By liking son in law like cookies, Barinov keeps his side of the story grounded.
-- 'Are you planning to cook in my kitchen?' Checking whether the guest planning to cook in his kitchen is how Barinov puts the guest on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Vitya, have you seen my glasses?' Here checking whether Barinov seen his glasses shows the guest looking for the real truth.
-- 'Well where are they?' By asking where they are, the guest presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I think I found them.' Thinking he found them is how Barinov lays out the situation for the guest.
-- 'Good for you, Vitya.' Around the plan and wedding, the guest sets a calm, everyday tone with Barinov.
-- 'Now you will make these cookies.' Because Barinov will make these cookies, the guest treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I have taken over the restaurant affairs.' Admitting that he has taken over the restaurant affairs shows Nikita being honest for a change.
-- 'In the kitchen we urgently need to replace the refrigerator.' With the room and wedding in play, Nikita keeps this short reply brisk and direct.
+- 'Thank you, Louis.' Barinov takes a clear bearing as the scene unfolds, putting "spasibo" ("thank you") alongside "lui" ("Louis") in a tight, everyday turn of phrase.
+- 'Not bad, but it crunches too hard.' The guest establishes a direct attitude in front of Louis, combining "neplokho" ("not bad") and "khrustit" ("crunches") so the key meaning lands right away.
+- 'Honestly?' Barinov questions sharply as the beat lands, putting all the weight on "chestno" ("honestly") so the reply lands immediately.
+- 'Sorry, like son-in-law, like cookies.' Barinov chooses an easygoing stance at once, combining "izvini" ("sorry, excuse me") and "zyat" ("son-in-law") so the key meaning lands right away.
+- 'Are you planning to cook in my kitchen?' Barinov wonders evenly at this point, combining "sobirayetes" ("to intend") and "gotovit" ("to cook") so the key meaning lands right away.
+- 'Vitya, have you seen my glasses?' The guest presses pointedly with Louis now, combining "videl" ("saw, have seen") and "ochki" ("glasses") so the key meaning lands right away.
+- 'Well where are they?' The guest inquires honestly to Barinov here, linking "gde" ("where") directly with "nu" ("oh, come on"), since Russian drops "is" and "are" in the present.
+- 'I think I found them.' Barinov takes a grounded angle with Louis, linking "kazhetsya" ("it seems, I think"), "nashel" ("found"), and "ya" ("I") in one brisk exchange.
+- 'Good for you, Vitya.' The guest brings a pointed line in the conversation, pairing "molodets" ("well done, good boy") with "kakoy" ("what a, how") so the "-sya" ending carries the action.
+- 'Now you will make these cookies.' The guest chooses a pointed course in the scene, combining "teper" ("now") and "budesh" ("will") so the key meaning lands right away.
+- 'I have taken over the restaurant affairs.' Louis shares a sharp view for Barinov, pairing "dela" ("things, affairs") with "restorane" ("restaurant") to get the point across in plain spoken Russian.
+- 'In the kitchen we urgently need to replace the refrigerator.' Louis maintains a sharp attitude toward the guest, pairing "kukhne" ("kitchen") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.

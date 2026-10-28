@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, guys, what do you think you are doing?' Nastya asks whether guys what do Vika thinks Vika is doing, refusing to let the point slide. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Do you know who I am?' By checking whether Nastya knows who she is, Vika presses Nastya for a straight answer.
-- 'Are you trying to scare me?' Asking whether Vika trying to scare cuts straight through the tension between Nastya and Vika. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am not afraid of you.' Realizing that she is not afraid of Nastya changes how Vika handles the situation. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'You can do whatever you want to me.' Mentioning that Vika can do whatever Vika wants moves the talk in a new direction.
-- 'Anything you want.' Vika reminds Nastya that anything Nastya wants before the moment passes.
-- 'And I will still stay with Nastya no matter what.' Because she will still stay with Nastya no matter, Nastya treats the matter as settled.
-- 'Are you taking me out to the woods?' Asking whether Nastya taking her out to the woods is how Vika puts Nastya on the spot.
-- 'For family dinner.' Around the work and point, Nastya sets a calm, everyday tone with Vika.
-- 'I do not like you one bit.' Claiming that she does not like Nastya one bit sounds confident, even if Nastya has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And she came rushing right over to see me.' Pointing out that she came rushing right over to see gives Vika a sobering reality check.
-- 'All because you punched me once in the nose.' With the point and revenge in play, Vika keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Please forgive me once again.' Between the point and the kitchen, Nastya gives Vika a quick, grounded response.
+- 'Hey, guys, what do you think you are doing?' Nastya tests calmly without holding back, weaving "muzhiki" ("lads, guys") together with "ey" ("hey") just the way native speakers do.
+- 'Do you know who I am?' Vika asks calmly without a pause, anchoring the Russian line on "znayete" ("know") and "vy" ("you") without extra filler.
+- 'Are you trying to scare me?' Nastya presses honestly in their exchange, putting "napugat" ("to scare") alongside "khotite" ("want") in a tight, everyday turn of phrase.
+- 'I am not afraid of you.' Vika offers a frank attitude in front of Nastya, pairing "boyus" ("am afraid") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'You can do whatever you want to me.' Nastya displays a serious attitude in this beat, leaning on "mozhete" ("can, may") before closing the thought with "delat" ("do").
+- 'Anything you want.' Vika shows a warm bearing for Nastya, weaving "zakhotite" ("you want") together with "chto" ("what") just the way native speakers do.
+- 'And I will still stay with Nastya no matter what.' Nastya conveys a serious direction across the room, pairing "ravno" ("the same") with "budu" ("will be") to get the point across in plain spoken Russian.
+- 'Are you taking me out to the woods?' Vika questions decisively in their exchange, combining "vezete" ("to transport") and "les" ("forest") so the key meaning lands right away.
+- 'For family dinner.' Nastya conveys a pointed stance beside Vika, building the phrase around "obed" ("lunch") and "na" ("on, onto") for a crisp, natural delivery.
+- 'I do not like you one bit.' Vika sustains a calm attitude at once, joining "nravishsya" ("appeal to, are liked") to "ne" ("not") so every word pulls its weight.
+- 'And she came rushing right over to see me.' Nastya picks a grounded position in the scene, building the phrase around "priyekhala" ("came, arrived") and "ona" ("it") for a crisp, natural delivery.
+- 'All because you punched me once in the nose.' Vika chooses a candid tempo as the scene unfolds, putting "udaril" ("hit, struck") alongside "razok" ("time") in a tight, everyday turn of phrase.
+- 'Please forgive me once again.' Nastya sustains a natural manner as the scene unfolds, linking "izvinite" ("sorry, excuse me"), "yeshche" ("still"), and "raz" ("time, once") in one brisk exchange.

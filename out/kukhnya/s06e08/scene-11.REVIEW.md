@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, why are you torturing yourself for so long?' Here wondering why Barinov torturing themselves for so long is shows Fedya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Chef, I trust you more than anyone in the world.' Adding that he trusts Barinov more than anyone in the world fills in the missing piece for Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You will do it quickly and very professionally.' Saying that Barinov will do it quickly and very professionally is how Senya sets the tone with Barinov.
-- 'Fine, make it twenty thousand, and we have a deal.' Because fine make it twenty thousand and they have a deal, Barinov treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Tell me, are you mentally ready for this already?' Asking whether tell him are Fedya mentally ready for this already puts Fedya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fedya, hold him tightly by both arms.' Explaining that Fedya should hold him tightly by both arms lays the cards on the table for Fedya.
-- 'Chef, you are a grown man, what are you doing?' Questioning whether Barinov is a grown man what are Barinov doing is how Fedya tests Barinov's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Alright, and what is going on in here with you?' When Fedya asks if Alright and what is going on in here with Barinov, Barinov has to answer fast. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Nothing special, we are having quiet hour.' Barinov explains that nothing special they are having quiet hour, keeping his voice calm and direct.
-- 'Victor Petrovich, maybe we should have one shot each?' Wondering if maybe they should have one shot each shows Senya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Now that is truly a businesslike proposal!' Because that is truly a businesslike proposal, Barinov does not bother softening the blow for Fedya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Please, pour it into the glasses right away.' By pouring it into the glasses right away, Senya keeps his side of the story grounded.
+- 'Senya, why are you torturing yourself for so long?' Fedya probes naturally to make the point, weaving "dolgo" ("for a long time") together with "muchayeshsya" ("are torturing yourself") just the way native speakers do.
+- 'Chef, I trust you more than anyone in the world.' Senya favors a natural tack in their talk, building the phrase around "bolshe" ("more") and "svete" ("world") for a crisp, natural delivery.
+- 'You will do it quickly and very professionally.' Senya picks a resolute footing across the room, anchoring the Russian line on "sdelayete" ("will do") and "bystro" ("quickly") without extra filler.
+- 'Fine, make it twenty thousand, and we have a deal.' Barinov picks a candid approach for Senya, linking "davay" ("let's"), "tysyach" ("thousand"), and "rukam" ("hand, arm") in one brisk exchange.
+- 'Tell me, are you mentally ready for this already?' Barinov probes lightly beside Fedya, anchoring the Russian line on "skazhi" ("say") and "uzhe" ("already, now") without extra filler.
+- 'Fedya, hold him tightly by both arms.' Barinov projects a pointed attitude at this moment, linking "poderzhi" ("hold"), "krepko" ("tightly"), and "ruki" ("hands") in one brisk exchange.
+- 'Chef, you are a grown man, what are you doing?' Fedya questions warmly as they speak, combining "vzroslyy" ("grown-up, adult") and "chelovek" ("a man, a person") so the key meaning lands right away.
+- 'Alright, and what is going on in here with you?' Fedya queries dryly as the beat lands, putting "zdes" ("here") alongside "proiskhodit" ("is going on") in a tight, everyday turn of phrase.
+- 'Nothing special, we are having quiet hour.' Barinov adopts a lively tone in the room, joining "osobennogo" ("special, particular") to "tikhiy" ("quiet") so every word pulls its weight.
+- 'Victor Petrovich, maybe we should have one shot each?' Senya checks directly at this point, weaving "mozhet" ("can") together with "vypyem" ("will drink") just the way native speakers do.
+- 'Now that is truly a businesslike proposal!' Barinov offers a thoughtful attitude for Fedya, leaning on "deystvitelno" ("really, indeed") before closing the thought with "delovoye" ("business").
+- 'Please, pour it into the glasses right away.' Senya offers a direct posture across the room, joining "proshu" ("beg, ask") to "nalivayte" ("pour") so every word pulls its weight.

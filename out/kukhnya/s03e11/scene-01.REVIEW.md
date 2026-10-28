@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything in the world always changes.' Pointing out that everything in the world always changes gives Barinov a sobering reality check.
-- 'New cities are built and grow.' Vika explains that new cities are built and grow, keeping her voice calm and direct.
-- 'Millions of new people are born.' Realizing that millions of new people are born changes how Vika handles the situation.
-- 'In our kitchen the day begins the same way.' Noting that in their kitchen the day begins the same way keeps Vika's side of the story simple and clear.
-- 'Vitya, when will you make the new menu?' Asking when Barinov makes the new menu will is how Vika puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You promised me a new summer menu.' Admitting that Barinov promised her a new summer menu shows Vika being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What summer menu, Vika?' Around the truth and argument, Barinov wants to know where Nagiyev really stands.
-- 'Why do people need new dishes in summer?' Asking why people need new dishes in summer cuts straight through the tension between Barinov and Nagiyev. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Hello to everyone in our kitchen!' With the truth and point at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Viktoria Sergeyevna, I did not notice right away.' Nagiyev tells Barinov that he did not notice right away without dressing it up.
-- 'The chef has been promising a menu for two months already.' Since the has been promising a menu for two months already, Vika does not waste words on excuses.
-- 'After all, summer will end soon.' Mentioning that after all summer will end soon moves the talk in a new direction.
-- 'What a sly chef we have!' Because what a sly they have, Nagiyev does not bother softening the blow for Barinov.
+- 'Everything in the world always changes.' Vika brings a playful mood toward Barinov, using "mire" (from "mir", "world") alongside "vsegda" ("always") to shape the meaning.
+- 'New cities are built and grow.' Vika shows a natural footing in their talk, building the phrase around "stroyatsya" ("are built") and "rastut" ("to grow, to grow up") for a crisp, natural delivery.
+- 'Millions of new people are born.' Vika takes a steady bearing in the conversation, joining "rozhdayutsya" ("are born") to "milliony" ("millions") so every word pulls its weight.
+- 'In our kitchen the day begins the same way.' Vika displays an easygoing tempo at this moment, putting "kukhne" ("kitchen") alongside "den" ("day") in a tight, everyday turn of phrase.
+- 'Vitya, when will you make the new menu?' Vika asks plainly right away, pairing "kogda" ("when") with "sdelayesh" ("will you make") to get the point across in plain spoken Russian.
+- 'You promised me a new summer menu.' Vika offers a calm stance toward Nagiyev, joining "obeshchal" ("promised") to "novoye" ("new") so every word pulls its weight.
+- 'What summer menu, Vika?' Barinov prompts calmly as the beat lands, pairing "yeshchyo" ("more, still") with "letneye" ("summer") to get the point across in plain spoken Russian.
+- 'Why do people need new dishes in summer?' Barinov tests openly in the scene, putting "zachem" ("what for") alongside "lyudyam" ("people") in a tight, everyday turn of phrase.
+- 'Hello to everyone in our kitchen!' Nagiyev adopts a candid bearing as the scene unfolds, putting "kukhne" ("kitchen") alongside "privet" ("hi") in a tight, everyday turn of phrase.
+- 'Viktoria Sergeyevna, I did not notice right away.' Nagiyev brings an unhurried approach in their talk, weaving "srazu" ("at once") together with "zametil" ("noticed") just the way native speakers do.
+- 'The chef has been promising a menu for two months already.' Vika holds an honest course with Barinov, building the phrase around "uzhe" ("already, now") and "mesyatsa" ("months") for a crisp, natural delivery.
+- 'After all, summer will end soon.' Vika keeps an emphatic approach in this beat, joining "uzhe" ("already, now") to "skoro" ("soon") so every word pulls its weight.
+- 'What a sly chef we have!' Nagiyev adopts a wry footing right away, anchoring the Russian line on "khitryy" ("cunning") and "vot" ("there, here") without extra filler.

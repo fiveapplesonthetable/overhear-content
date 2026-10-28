@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turns out all the wards really are occupied.' Noting that it turns out all the wards really are occupied keeps Max's side of the story simple and clear.
-- 'Excuse me, is this room free?' By asking whether this room free, Max presses the doctor for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, this room is occupied too.' Admitting that this room is occupied shows the doctor being honest for a change.
-- 'And who is giving birth here, the television?' Asking who giving birth here the television is is how Max puts the doctor on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'This room is for someone from the mayor's office.' Once this room is for someone from the mayor office, the doctor can finally tell Max what he means.
-- 'They told me to prepare everything and wait.' Adding that they told him to prepare everything and wait fills in the missing piece for Max.
-- 'Viktoria Sergeyevna, our room is already ready!' Insisting that their room is already ready shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'How are you not ashamed of yourselves?' Wondering how the doctor not ashamed of yourselves is is how Max puts the doctor on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You have a minister's wife waiting in the hallway!' Declaring that the doctor has a minister wife waiting in the hallway brings Max's temper right to the surface.
-- 'Forgive us, we did not know that you had arrived.' Telling Max to forgive them they did not know that Max had arrived moves the conversation forward without extra drama. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Please, come in and make yourselves comfortable.' Claiming that Max should come in and make yourselves comfortable sounds confident, even if Max has doubts.
-- 'Max, what on earth is going on here?' With the shift and hospital hanging in the air, Vika puts the doctor on the spot.
-- 'Walk ahead and do not ask questions.' Adding that the doctor should walk ahead and do not ask questions fills in the missing piece for the doctor.
+- 'It turns out all the wards really are occupied.' Max adopts an emphatic mood in this beat, leaning on "okazyvayetsya" ("to turn out to be") before closing the thought with "deystvitelno" ("really, indeed").
+- 'Excuse me, is this room free?' Max challenges earnestly in their exchange, building the phrase around "prostite" ("excuse me") and "palata" ("hospital room") for a crisp, natural delivery.
+- 'No, this room is occupied too.' The doctor shares an honest mood at once, linking "palata" ("hospital room") directly with "tozhe" ("too"), since Russian drops "is" and "are" in the present.
+- 'And who is giving birth here, the television?' Max questions briskly toward Vika here, anchoring the Russian line on "tut" ("here") and "televizor" ("television") without extra filler.
+- 'This room is for someone from the mayor's office.' The doctor establishes a direct position without hesitation, weaving "palata" ("hospital room") together with "merii" ("town hall") just the way native speakers do.
+- 'They told me to prepare everything and wait.' The doctor brings a grounded stance during the exchange, putting "skazali" ("told") alongside "podgotovit" ("to prepare") in a tight, everyday turn of phrase.
+- 'Viktoria Sergeyevna, our room is already ready!' Max conveys an earnest style in front of the doctor, leaning on "palata" ("hospital room") before closing the thought with "uzhe" ("already, now").
+- 'How are you not ashamed of yourselves?' Max wonders pointedly toward Vika here, pairing "kak" ("how") with "stydno" ("shameful") to get the point across in plain spoken Russian.
+- 'You have a minister's wife waiting in the hallway!' Max displays a natural tone at this moment, anchoring the Russian line on "zhena" ("wife") and "ministra" ("minister") without extra filler.
+- 'Forgive us, we did not know that you had arrived.' The doctor offers a clear line without hesitation, weaving "prostite" ("excuse me") together with "znali" ("to know") just the way native speakers do.
+- 'Please, come in and make yourselves comfortable.' The doctor favors a candid stance in the conversation, anchoring the Russian line on "prokhodite" ("come in") and "raspolagaytes" ("to settle down") without extra filler.
+- 'Max, what on earth is going on here?' Vika prompts frankly for Max's benefit, combining "zdes" ("here") and "voobshche" ("at all") so the key meaning lands right away.
+- 'Walk ahead and do not ask questions.' Max sustains an earnest line in front of the doctor, linking "idi" ("go"), "vperyod" ("ahead of"), and "zadavay" ("ask") in one brisk exchange.

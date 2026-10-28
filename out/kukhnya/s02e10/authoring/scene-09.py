@@ -7,7 +7,7 @@ SCENE = 9
 TITLE = 'Саша переезжает к Максу и Косте  (Sasha Moves In with Max and Kostya)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'kostya': 'Костя', 'max': 'Макс'}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
 SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 INTRO = 'Feeling responsible for the flood, Max invites Sasha to move into his apartment with him and Kostya. Although Sasha first suspects he is only asking out of guilt, she happily accepts and starts kissing him right on the kitchen table as Kostya walks in.'
@@ -19,7 +19,7 @@ STORY = [
     ('max', 'Слушай, я тут подумал.', 'Listen, I have been thinking.', [(134, 'Слушай, я тут подумал')], ''),
     ('kostya', 'Ты ко мне перейдешь?', 'Will you move in with me?', [(135, 'ты ко мне перейдешь')], ''),
     ('max', 'Что ты чувствуешь вину.', 'You just feel guilty.', [(136, 'что ты чувствуешь вину')], ''),
-    ('kostya', 'Я сама разберусь со своими проблемами, правда.', 'I can handle my own problems myself, really.', [(137, 'Я сама разберусь со своими проблемами, правда')], ''),
+    ('sasha', 'Я сама разберусь со своими проблемами, правда.', 'I can handle my own problems myself, really.', [(137, 'Я сама разберусь со своими проблемами, правда')], ''),
     ('max', 'Да я не из-за этого.', 'I am not asking because of that.', [(138, 'Да я не из-за этого')], ''),
     ('kostya', 'Я давно хотел предложить тебе.', 'I have wanted to offer this to you for a long time.', [(139, 'я давно хотел предложить тебе')], ''),
     ('max', 'Ну, а ты сам-то уверен?', 'Well, are you sure about it yourself?', [(140, 'Ну, а ты сам-то уверен')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Костик, закрой глаза.', 'Kostik, close your eyes.', [(147, 'Костик, закрой глаза')], ''),
 ]
 WALK = [
-    (0, None, "'Listen, I have been thinking.' Having been thinking is how Max lays out the situation for Kostya."),
-    (1, None, "'Will you move in with me?' By asking whether Max moves in with him, Kostya presses Max for a straight answer."),
-    (2, None, '\'You just feel guilty.\' Between the point and the truth, Max gives Kostya a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (3, None, "'I can handle my own problems myself, really.' Realizing that he can handle his own problems himself really changes how Kostya handles the situation."),
-    (4, None, "'I am not asking because of that.' By being not asking, Max keeps his side of the story grounded."),
-    (5, None, '\'I have wanted to offer this to you for a long time.\' Because he has wanted to offer this to Max for a long time, Kostya treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (6, None, '\'Well, are you sure about it yourself?\' Asking whether Kostya sure about it themselves cuts straight through the tension between Max and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (7, None, "'Why would I not be?' Wondering why he not be would is how Kostya puts Max on the spot."),
-    (8, None, '\'Why am I wasting time for nothing?\' Turning from the apartment to the plan, Max asks Kostya directly. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (9, None, '\'Maybe right here?\' Around the kitchen and table, Kostya wants to know where Max really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (10, None, "'Do not mind me.' Max tells Kostya that do not mind him without dressing it up."),
-    (11, None, '\'I did not see you two.\' Since he did not see Max two, Kostya does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (12, None, "'Kostik, close your eyes.' Between the plan and the shift, Max gives Kostya a quick, grounded response."),
+    (0, None, '\'Listen, I have been thinking.\' Max holds an earnest tack straight away, joining "slushay" ("listen") to "tut" ("here") so every word pulls its weight.'),
+    (1, None, '\'Will you move in with me?\' Kostya prompts bluntly without a pause, leaning on "pereydesh" ("to cross, switch") before closing the thought with "ty" ("you").'),
+    (2, None, '\'You just feel guilty.\' Max shows a direct rhythm right away, linking "chuvstvuyesh" ("feel"), "vinu" ("fault, guilt"), and "chto" ("what") in one brisk exchange.'),
+    (3, None, '\'I can handle my own problems myself, really.\' Sasha favors a wry style without hesitation, leaning on "razberus" ("I will sort out") before closing the thought with "problemami" ("problem").'),
+    (4, None, '\'I am not asking because of that.\' Max chooses a measured angle in this beat, leaning on "da" ("yes") before closing the thought with "ya" ("I").'),
+    (5, None, '\'I have wanted to offer this to you for a long time.\' Kostya chooses a steady posture during the exchange, joining "davno" ("for a long time") to "khotel" ("wanted") so every word pulls its weight.'),
+    (6, None, '\'Well, are you sure about it yourself?\' Max challenges openly to Kostya here, linking "uveren" ("sure, confident") directly with "nu" ("oh, come on"), since Russian drops "is" and "are" in the present.'),
+    (7, None, '\'Why would I not be?\' Kostya probes bluntly right away, using "chego" (from "chto", "what") alongside "net" ("no") to shape the meaning.'),
+    (8, None, '\'Why am I wasting time for nothing?\' Max probes wryly without hesitation, linking "zrya" ("for nothing"), "vremya" ("time"), and "teryayu" ("to lose") in one brisk exchange.'),
+    (9, None, '\'Maybe right here?\' Kostya asks sharply toward Sasha here, leaning on "mozhet" ("can") before closing the thought with "pryamo" ("right, just").'),
+    (10, None, '\'Do not mind me.\' Max adopts a wry attitude in front of Kostya, anchoring the Russian line on "obrashchayte" ("to turn, to direct") and "vnimaniya" ("attention") without extra filler.'),
+    (11, None, '\'I did not see you two.\' Kostya maintains an emphatic posture for Sasha, pairing "videl" ("saw, have seen") with "ya" ("I") to get the point across in plain spoken Russian.'),
+    (12, None, '\'Kostik, close your eyes.\' Max presents a steady posture in their talk, pairing "zakroy" ("shut, close") with "glaza" ("eyes") to get the point across in plain spoken Russian.'),
 ]

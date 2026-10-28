@@ -7,7 +7,7 @@ SCENE = 14
 TITLE = "Расспросы Кости о слабостях Ильи  (Questioning Kostya About Ilya's Weaknesses)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'ilya': 'Илья', 'kostya': 'Костя'}
+LABELS = {'ilya': 'Илья', 'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
 SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 INTRO = 'Pretending that he wants to bury the hatchet with Ilya, Max casually asks Kostya what kind of things his old friend loves most. Trusting his roommate completely, Kostya gives Max the exact information he needs to prepare a cruel surprise for Ilya.'
@@ -26,22 +26,22 @@ STORY = [
     ('ilya', 'Так вот даже лучше.', 'Actually, this will be even better.', [(242, 'Так вот даже лучше')], ''),
     ('kostya', 'Ему понравится.', 'He is going to love this.', [(245, 'ему понравится')], ''),
     ('ilya', 'Не за что.', 'You are welcome.', [(246, 'Не за что')], ''),
-    ('kostya', 'Спасибо, Костян.', 'Thanks, Kostyan.', [(246, 'Спасибо, Костян')], ''),
+    ('max', 'Спасибо, Костян.', 'Thanks, Kostyan.', [(246, 'Спасибо, Костян')], ''),
     ('ilya', 'Давай, я пошел.', 'Alright, I am off.', [(247, 'Давай, я пошел')], ''),
     ('kostya', 'Но это так.', 'Just a little token.', [(249, 'Но это так')], ''),
 ]
 WALK = [
-    (0, None, "'I do not know how to approach him to make peace.' Kostya tells Ilya that he does not know how to approach him to make peace without dressing it up."),
-    (1, None, '\'Maybe I should invite him out for a beer, huh?\' Wondering if maybe he should invite him out for a beer huh shows Ilya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (2, None, "'Well, maybe.' Over the shift and the surprise, Kostya answers Ilya without a second thought."),
-    (3, None, '\'Wait, do you seriously want to make peace with him?\' Here asking whether Kostya seriously want to make peace with him shows Ilya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (4, None, "'Well yeah, that is why I am asking you.' Because yeah that is why he is asking Ilya, Kostya treats the matter as settled."),
-    (5, None, "'Listen, what does he like in general?' Asking what he like in general cuts straight through the tension between Ilya and Kostya."),
-    (6, None, "'Oh, he likes all kinds of things.' Kostya mentions that he likes all kinds of things so Ilya sees what is at stake."),
-    (7, None, "'Actually, this will be even better.' Claiming that this will be even better sounds confident, even if Kostya has doubts."),
-    (8, None, "'He is going to love this.' Being going to love this is how Kostya lays out the situation for Ilya."),
-    (9, None, "'You are welcome.' Ilya explains that Kostya is welcome, keeping his voice calm and direct."),
-    (10, None, "'Thanks, Kostyan.' With the conversation and peace in play, Kostya keeps this short reply brisk and direct."),
-    (11, None, "'Alright, I am off.' Noting that Alright he is off keeps Ilya's side of the story simple and clear."),
-    (12, None, '\'Just a little token.\' Around the conversation and peace, Kostya sets a calm, everyday tone with Ilya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
+    (0, None, '\'I do not know how to approach him to make peace.\' Kostya strikes a direct angle on the spot, using "znayu" (from "znat", "know") alongside "kak" ("how") to shape the meaning.'),
+    (1, None, '\'Maybe I should invite him out for a beer, huh?\' Ilya inquires earnestly in the scene, linking "mozhet" ("can"), "pivo" ("beer"), and "priglasit" ("to invite") in one brisk exchange.'),
+    (2, None, '\'Well, maybe.\' Kostya keeps a lively mood in their talk, using "mozhet" (from "moch", "can") alongside "nu" ("oh, come on") to shape the meaning.'),
+    (3, None, '\'Wait, do you seriously want to make peace with him?\' Ilya inquires boldly at this point, anchoring the Russian line on "realno" ("really possible") and "khochesh" ("do you want") without extra filler.'),
+    (4, None, '\'Well yeah, that is why I am asking you.\' Kostya conveys a calm line for Ilya, putting "poetomu" ("that\'s why") alongside "sprashivayu" ("am asking") in a tight, everyday turn of phrase.'),
+    (5, None, '\'Listen, what does he like in general?\' Ilya checks openly for Max\'s benefit, combining the conversational booster "voobshche" ("in general, overall") with "slushay" ("listen") to give the line its natural spoken rhythm.'),
+    (6, None, '\'Oh, he likes all kinds of things.\' Kostya sets a brisk tempo right away, anchoring the Russian line on "lyubit" ("loves") and "da" ("yes") without extra filler.'),
+    (7, None, '\'Actually, this will be even better.\' Ilya takes a warm rhythm in their talk, linking "luchshe" ("better"), "tak" ("so"), and "vot" ("there, here") in one brisk exchange.'),
+    (8, None, '\'He is going to love this.\' Kostya shows an unhurried tempo in the conversation, pairing "ponravitsya" ("will please") with "yemu" ("him") so the "-sya" ending carries the action.'),
+    (9, None, '\'You are welcome.\' Ilya conveys a candid attitude in the scene, weaving "ne" ("not") together with "za" ("for") just the way native speakers do.'),
+    (10, None, '\'Thanks, Kostyan.\' Max brings a wry mood across the room, joining "spasibo" ("thank you") to "kostyan" ("Kostyan") so every word pulls its weight.'),
+    (11, None, '\'Alright, I am off.\' Ilya sets a wry tack in front of Max, building the phrase around "davay" ("let\'s") and "poshel" ("go, off you go") for a crisp, natural delivery.'),
+    (12, None, '\'Just a little token.\' Kostya chooses an honest course at once, putting "no" ("but") alongside "eto" ("this") in a tight, everyday turn of phrase.'),
 ]

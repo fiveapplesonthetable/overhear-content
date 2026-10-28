@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What? How did she stand up for me in front of you?' Wondering how she stand up for him in front of the inspector cuts straight through the tension between Barinov and the inspector.
-- 'We were going to open a German beer restaurant here.' Once they were going to open a German beer restaurant here, the inspector can finally tell Barinov what he means.
-- 'We invited Viktoriya Sergeyevna to work with us.' Around the shift and plan, the inspector sets a calm, everyday tone with Barinov.
-- 'She agreed to work on only one condition.' Around the moment and job, the inspector sets a calm, everyday tone with Barinov.
-- 'Tell me, on what condition was that?' Wondering if tell him on what condition was shows Barinov caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'To keep this restaurant French and retain all the staff.' Around the moment and kitchen, the inspector sets a calm, everyday tone with Barinov.
-- 'Did she ask on her own to leave everything as it is?' Here checking whether she ask on her own to leave everything as it is shows Barinov looking for the real truth.
-- 'Yes, and she also negotiated a good bonus for you.' Around the moment and work, the inspector sets a calm, everyday tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'But now I see nothing will work out for her.' The inspector tells Barinov that he sees nothing will work out without dressing it up. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Sometimes everything can change in a single second.' Max mentions that sometimes everything can change in a single second so Barinov sees what is at stake.
-- 'A man with a suitcase can easily change his mind and stay.' Claiming that a man with a suitcase can easily change his mind and stay sounds confident, even if Barinov has doubts.
-- 'For someone, the main thing is to take the right step in time.' Pointing out that for someone the main thing is to take the right step in time gives Barinov a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'What? How did she stand up for me in front of you?' Barinov checks openly to make the point, linking "kak" ("how"), "otstaivala" ("defended, stood up for"), and "chego" ("what") in one brisk exchange.
+- 'We were going to open a German beer restaurant here.' The inspector adopts a warm course in front of Max, using "sobiralis" (from "sobiratsya", "to intend") alongside "otkryt" ("open") to shape the meaning.
+- 'We invited Viktoriya Sergeyevna to work with us.' The inspector maintains an earnest note at once, combining "priglasili" ("invited") and "rabotat" ("to work") so the key meaning lands right away.
+- 'She agreed to work on only one condition.' The inspector maintains a resolute mood for Max, using "soglasilas" (from "soglasitsya", "to agree") alongside "rabotat" ("to work") to shape the meaning.
+- 'Tell me, on what condition was that?' Barinov challenges sharply with the inspector now, pairing "skazhite" ("tell") with "uslovii" ("condition") to get the point across in plain spoken Russian.
+- 'To keep this restaurant French and retain all the staff.' The inspector adopts a natural mood in their talk, anchoring the Russian line on "ostavit" ("to keep, to leave") and "restoran" ("restaurant") without extra filler.
+- 'Did she ask on her own to leave everything as it is?' Barinov prompts naturally as the beat lands, building the phrase around "poprosila" ("asked") and "ostavit" ("to keep, to leave") for a crisp, natural delivery.
+- 'Yes, and she also negotiated a good bonus for you.' The inspector picks an earnest rhythm in the room, pairing "bonus" ("bonus") with "yeshchyo" ("more, still") so the "-sya" ending carries the action.
+- 'But now I see nothing will work out for her.' The inspector sets a sharp tack at once, weaving "teper" ("now") together with "vizhu" ("see") just the way native speakers do.
+- 'Sometimes everything can change in a single second.' Max offers a wry attitude in this beat, weaving "inogda" ("sometimes, at times") together with "mozhet" ("can") just the way native speakers do.
+- 'A man with a suitcase can easily change his mind and stay.' Max chooses a pointed direction as they talk, combining "chelovek" ("a man, a person") and "chemodanom" ("suitcase, luggage bag") so the key meaning lands right away.
+- 'For someone, the main thing is to take the right step in time.' Max displays a pointed position across the room, putting "glavnoye" ("important") alongside "vovremya" ("at the right time") in a tight, everyday turn of phrase.

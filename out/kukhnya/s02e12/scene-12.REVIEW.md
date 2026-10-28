@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Вика | Надо устроить запару. | We need to stage a kitchen rush. | #199: Надо устроить запару | verbatim |
 | 5 | Шеф | Посмотрим тогда, как он побегает. | Then we will see how fast he runs around. | #200: Посмотрим тогда, как он побегает | verbatim |
 | 6 | Вика | Ну что же, я пойду. | Well then, I should get going. | #201: Ну что же, я пойду | verbatim |
-| 7 | Шеф | До свидания, Виктор Петрович. | Goodbye, Viktor Petrovich. | #202: До свидания, Виктор Петрович | verbatim |
+| 7 | Вика | До свидания, Виктор Петрович. | Goodbye, Viktor Petrovich. | #202: До свидания, Виктор Петрович | verbatim |
 | 8 | Вика | Это хотел вас попросить. | There was something I wanted to ask of you. | #204: это хотел вас попросить | verbatim |
 | 9 | Шеф | Понимаете, когда вы приходите. | You see, whenever you come to visit. | #204: Понимаете, когда вы приходите | verbatim |
 | 10 | Вика | Виктору Петровичу становится лучше. | Viktor Petrovich starts feeling much better. | #205: Виктору Петровичу становится лучше | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not bad, simply good.' Around the kitchen and plan, Barinov sets a calm, everyday tone with Vika.
-- 'He spent two hours making a single dish.' Vika tells Barinov that he spent two hours making a single dish without dressing it up.
-- 'I would like to see him show off like that during a rush.' Since he would like to see him show off like that during a rush, Barinov does not waste words on excuses.
-- 'We need to stage a kitchen rush.' Needing to stage a kitchen rush moves the conversation forward without extra drama. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Then we will see how fast he runs around.' Barinov reminds Vika that they will see how fast he runs around before the moment passes.
-- 'Well then, I should get going.' Because she should get going, Vika treats the matter as settled.
-- 'Goodbye, Viktor Petrovich.' With the plan and dish in play, Barinov keeps this short reply brisk and direct.
-- 'There was something I wanted to ask of you.' Vika mentions that there was something she wanted to ask of Barinov so Barinov sees what is at stake.
-- 'You see, whenever you come to visit.' Claiming that whenever Vika comes to visit sounds confident, even if Vika has doubts. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Viktor Petrovich starts feeling much better.' Pointing out that Viktor Petrovich starts feeling much better gives Barinov a sobering reality check.
-- 'Is that so?' With the shift and conversation hanging in the air, Barinov puts Vika on the spot.
-- 'It would mean a lot to him.' Realizing that it would mean a lot to him changes how Vika handles the situation.
-- 'I can stop by this evening.' Noting that he can stop by this evening keeps Barinov's side of the story simple and clear.
+- 'Not bad, simply good.' Barinov establishes a pointed approach toward Vika, putting "neplokho" ("not bad") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'He spent two hours making a single dish.' Vika shows an easygoing note right away, combining "blyudo" ("dish") and "chasa" ("hours") so the key meaning lands right away.
+- 'I would like to see him show off like that during a rush.' Barinov presents a natural stance toward Vika, anchoring the Russian line on "poproboval" ("tried, tasted") and "povypendrivatsya" ("show off") without extra filler.
+- 'We need to stage a kitchen rush.' Vika brings a measured footing with Barinov, anchoring the Russian line on "nado" ("it is necessary") and "ustroit" ("to arrange") without extra filler.
+- 'Then we will see how fast he runs around.' Barinov favors a frank mood at once, joining "posmotrim" ("have a look") to "togda" ("back then") so every word pulls its weight.
+- 'Well then, I should get going.' Vika favors a calm stance for Barinov, joining "poydu" ("go") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Goodbye, Viktor Petrovich.' Vika chooses a candid bearing as they talk, anchoring the Russian line on "svidaniya" ("meeting") and "do" ("until") without extra filler.
+- 'There was something I wanted to ask of you.' Vika takes a natural course as they talk, weaving "khotel" ("wanted") together with "poprosit" ("to ask") just the way native speakers do.
+- 'You see, whenever you come to visit.' Barinov holds a lively attitude for Vika, using "ponimayete" (from "ponimat", "do you understand") alongside "kogda" ("when") to shape the meaning.
+- 'Viktor Petrovich starts feeling much better.' Vika chooses a playful manner in this beat, pairing "stanovitsya" ("becomes") with "luchshe" ("better") to get the point across in plain spoken Russian.
+- 'Is that so?' Barinov quizzes wryly in front of Vika, pairing "chto" ("what") with "li" ("whether") to get the point across in plain spoken Russian.
+- 'It would mean a lot to him.' Vika brings a brisk course without hesitation, anchoring the Russian line on "bylo" ("was") and "priyatno" ("pleasant") without extra filler.
+- 'I can stop by this evening.' Barinov conveys a measured tone in their talk, weaving "mogu" ("can") together with "vecherom" ("in the evening") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, you are returning to the kitchen again.' Saying that Maxim Elena is returning to the kitchen again is how Barinov sets the tone with Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, tell me, what happened with you?' With the truth and room hanging in the air, Elena puts Barinov on the spot.
-- 'Can you imagine, I asked Nagiyev for time off today.' Explaining that can Elena imagines he asked Nagiyev for time off today lays the cards on the table for Elena.
-- 'In order to meet calmly with your friends.' Around the shift and phone, Barinov sets a calm, everyday tone with Elena.
-- 'And he declared to me that one must have fun in the evening.' Claiming that he declared to him that one must have fun in the evening sounds confident, even if Elena has doubts.
-- 'I already work for him without days off as it is.' Pointing out that he already works for him without days off as it is gives Elena a sobering reality check.
-- 'Oh, Elena Pavlovna, what wonderful weather!' Over the plan and the phone, Nagiyev lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello, respected Dmitry Vladimirovich.' Around the moment and phone, Elena sets a calm, everyday tone with Barinov.
-- 'Dima, I am telling you for the last time, let me go.' Being telling Elena for the last time let him go is how Barinov lays out the situation for Elena. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Otherwise I will write a letter of resignation.' Even though otherwise he will write a letter of resignation, Barinov keeps a steady face in front of Elena.
-- 'How can that be, after all you have a banquet today!' Nagiyev declares that how can that be after all Barinov has a banquet today as the tension in the room peaks.
-- 'After all, I do not run out halfway through a play because friends arrived.' Saying that after all he does not run out halfway through a play because friends arrived is how Nagiyev sets the tone with Barinov.
+- 'Maxim, you are returning to the kitchen again.' Barinov projects a lively attitude right away, linking "snova" ("again"), "vozvrashchayeshsya" ("are returning"), and "kukhnyu" ("kitchen") in one brisk exchange.
+- 'Vitya, tell me, what happened with you?' Elena prompts frankly in the room, anchoring the Russian line on "skazhi" ("say") and "sluchilos" ("happened") without extra filler.
+- 'Can you imagine, I asked Nagiyev for time off today.' Barinov favors a direct position during the exchange, building the phrase around "predstavlyayesh" ("can you imagine") and "poprosil" ("asked") for a crisp, natural delivery.
+- 'In order to meet calmly with your friends.' Barinov presents a warm rhythm across the room, putting "spokoyno" ("calmly") alongside "vstretitsya" ("to meet") in a tight, everyday turn of phrase.
+- 'And he declared to me that one must have fun in the evening.' Barinov conveys a steady position in the conversation, combining "zayavil" ("declared, stated") and "razvlekatsya" ("have fun") so the key meaning lands right away.
+- 'I already work for him without days off as it is.' Barinov favors an unhurried note in front of Nagiyev, joining "rabotayu" ("work") to "vykhodnykh" ("weekend") so every word pulls its weight.
+- 'Oh, Elena Pavlovna, what wonderful weather!' Nagiyev strikes an unhurried position straight away, building the phrase around "prekrasnaya" ("wonderful") and "pogoda" ("weather") for a crisp, natural delivery.
+- 'Hello, respected Dmitry Vladimirovich.' Elena adopts a firm approach with Nagiyev, joining "zdravstvuyte" ("hello") to "uvazhayemyy" ("respected, esteemed") so every word pulls its weight.
+- 'Dima, I am telling you for the last time, let me go.' Barinov holds a direct line in the room, anchoring the Russian line on "posledniy" ("last") and "raz" ("time, once") without extra filler.
+- 'Otherwise I will write a letter of resignation.' Barinov favors an unhurried direction across the room, leaning on "inache" ("otherwise") before closing the thought with "napishu" ("will write").
+- 'How can that be, after all you have a banquet today!' Nagiyev strikes an emphatic tack as they talk, building the phrase around "kak" ("how") and "segodnya" ("today") for a crisp, natural delivery.
+- 'After all, I do not run out halfway through a play because friends arrived.' Nagiyev offers a lively manner beside Elena, building the phrase around "poloviny" ("half") and "spektaklya" ("play, performance") for a crisp, natural delivery.

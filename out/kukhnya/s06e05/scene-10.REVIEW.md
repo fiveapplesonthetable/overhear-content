@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, here is money for candy.' Admitting that here is money for candy shows Barinov being honest for a change.
-- 'Well then, do you believe me now?' By checking whether Barinov believes her now, Eva presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You guessed right and hit the bullseye.' Once Eva guessed right and hit the bullseye, Barinov can finally tell Eva what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Then I will not say anything more to you.' Adding that she will not say anything more to Barinov fills in the missing piece for Barinov.
-- 'Why, is there something else to say?' Here wondering why there something else to say is shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Look closely at me right now.' Around the news and moment, Eva sets a calm, everyday tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I clearly see your ex-wife.' With the news and work in play, Eva keeps this short reply brisk and direct.
-- 'They will bring you very bad news.' Saying that they will bring Barinov very bad news is how Eva sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No need to explain, I understood everything.' Telling Eva to need to explain he understood everything is how Barinov lays out the situation for Eva. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I am sure, I did not imagine it.' Being sure he did not imagine it is how Kostya lays out the situation for Barinov.
-- 'She definitely has an older man now.' Kostya mentions that she definitely has an older man now so Barinov sees what is at stake. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I saw him myself this morning.' Claiming that he saw him himself this morning sounds confident, even if Barinov has doubts.
+- 'Good morning, here is money for candy.' Barinov shares a resolute direction straight away, linking "dobroye" ("good") directly with "utro" ("morning"), since Russian drops "is" and "are" in the present.
+- 'Well then, do you believe me now?' Eva challenges calmly across the room, building the phrase around "verish" ("do you believe") and "teper" ("now") for a crisp, natural delivery.
+- 'You guessed right and hit the bullseye.' Barinov brings a lively line on the spot, putting "ugadala" ("to guess correctly") alongside "popala" ("got hit") in a tight, everyday turn of phrase.
+- 'Then I will not say anything more to you.' Eva chooses an honest posture on the spot, combining "togda" ("back then") and "bolshe" ("more") so the key meaning lands right away.
+- 'Why, is there something else to say?' Barinov queries briskly in this moment, anchoring the Russian line on "yest" ("there is") and "yeshchyo" ("more, still") without extra filler.
+- 'Look closely at me right now.' Eva favors a natural posture with Kostya, leaning on "seychas" ("now") before closing the thought with "vnimatelno" ("carefully, attentively").
+- 'I clearly see your ex-wife.' Eva presents a clear angle on the spot, pairing "yasno" ("clear, got it") with "vizhu" ("see") to get the point across in plain spoken Russian.
+- 'They will bring you very bad news.' Eva holds an unhurried line beside Kostya, linking "soobshchat" ("will report"), "ochen" ("very much"), and "durnuyu" ("bad, ill") in one brisk exchange.
+- 'No need to explain, I understood everything.' Barinov chooses a serious attitude at once, combining "nado" ("it is necessary") and "obyasnyat" ("to explain") so the key meaning lands right away.
+- 'I am sure, I did not imagine it.' Kostya maintains a candid bearing in front of Eva, putting "uveren" ("sure, confident") alongside "pokazalos" ("seemed") in a tight, everyday turn of phrase.
+- 'She definitely has an older man now.' Kostya shares a brisk rhythm during the exchange, pairing "poyavilsya" ("appeared") with "tochno" ("definitely") so the "-sya" ending carries the action.
+- 'I saw him myself this morning.' Kostya offers a direct tone in the scene, using "videl" (from "videt", "saw, have seen") alongside "segodnya" ("today") to shape the meaning.

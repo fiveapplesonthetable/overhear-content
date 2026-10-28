@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My mood is great.' Once his mood is great, Barinov can finally tell Nastya what he means.
-- 'And how are things going at your restaurant?' Wondering how things going at Barinov's restaurant are is how Nastya puts Barinov on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'She replied that she is tired.' Barinov tells Nastya that she replied that she is tired without dressing it up.
-- 'Chef, this is the perfect moment to invite her out somewhere.' Since this is the perfect moment to invite her out somewhere, Nastya does not waste words on excuses.
-- 'You cannot just blurt it out like that.' Mentioning that Nastya cannot just blurt it out like moves the talk in a new direction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Wait, what are you doing?' Asking what Barinov doing is cuts straight through the tension between Nastya and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I just invited her out on a date tomorrow in your name.' With the truth and date in play, Barinov keeps this short reply brisk and direct.
-- 'Because today you do not seem to be in top form.' Explaining that because today Barinov does not seem to be in top form lays the cards on the table for Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Are you trying to be the death of me?' Asking whether Nastya trying to be the death of him cuts straight through the tension between Barinov and Nastya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tell her that you were the one who typed that.' Pointing out that Barinov should tell her that Barinov was the one who typed gives Barinov a sobering reality check.
-- 'I cannot look.' Pointing out that he cannot look gives Nastya a sobering reality check.
-- 'Let me read what she wrote.' By telling Barinov to let her read what she wrote, Nastya keeps her side of the story grounded. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I read it, and she replied positively.' Because he reads it and she replied positively, Barinov treats the matter as settled.
+- 'My mood is great.' Barinov picks an unhurried style in front of Nastya, linking "nastroyeniye" ("mood") directly with "khorosheye" ("lovely, good"), since Russian drops "is" and "are" in the present.
+- 'And how are things going at your restaurant?' Nastya questions warmly from the start, putting "kak" ("how") alongside "vas" ("you") in a tight, everyday turn of phrase.
+- 'She replied that she is tired.' Barinov sets a resolute tone in the conversation, anchoring the Russian line on "otvetila" ("answered") and "ustala" ("are tired, got tired") without extra filler.
+- 'Chef, this is the perfect moment to invite her out somewhere.' Nastya shows a lively angle in this beat, linking "samoye" ("the most"), "vremya" ("time"), and "kuda-nibud" ("anywhere, somewhere") in one brisk exchange.
+- 'You cannot just blurt it out like that.' Barinov strikes a serious position during the exchange, building the phrase around "nelzya" ("not allowed") and "prosto" ("just") for a crisp, natural delivery.
+- 'Wait, what are you doing?' Nastya checks honestly without a pause, pairing "delayesh" ("are you doing") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'I just invited her out on a date tomorrow in your name.' Barinov shows a direct rhythm in the scene, joining "priglasil" ("invited") to "imeni" ("name") so every word pulls its weight.
+- 'Because today you do not seem to be in top form.' Nastya shows a clear tack without hesitation, joining "segodnya" ("today") to "kazhetsya" ("it seems, I think") so every word pulls its weight.
+- 'Are you trying to be the death of me?' Barinov prompts promptly at this point, anchoring the Russian line on "smerti" ("death") and "khochesh" ("do you want") without extra filler.
+- 'Tell her that you were the one who typed that.' Nastya presents a direct position toward Barinov, putting "sdelal" ("did") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'I cannot look.' Barinov holds a frank bearing with Nastya, linking "mogu" ("can"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
+- 'Let me read what she wrote.' Nastya projects an honest stance in front of Barinov, linking "davayte" ("let's"), "chitayu" ("am reading"), and "ya" ("I") in one brisk exchange.
+- 'I read it, and she replied positively.' Barinov maintains a measured posture right away, leaning on "prochital" ("read") before closing the thought with "otvetil" ("answered").

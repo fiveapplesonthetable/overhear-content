@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The universe is wrapped in thin invisible threads.' Adding that the universe is wrapped in thin invisible threads fills in the missing piece for Barinov.
-- 'They connect us with other people.' Around the truth and work, Max sets a calm, everyday tone with Barinov.
-- 'Every action of other people changes us.' Since every action of other people changes them, Max does not waste words on excuses.
-- 'Think about those whom you will change.' Thinking about those whom Barinov will change is how Max lays out the situation for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Maxim, come over to me for a minute.' Between the truth and the situation, Barinov gives Max a quick, grounded response.
-- 'Yes, Chef, I am listening to you.' Because he is listening to Barinov, Max treats the matter as settled.
-- 'Forgive me for yesterday.' Around the plan and moment, Barinov sets a calm, everyday tone with Max.
-- 'Thank you for not filing a police report.' Turning from the plan to the conversation, Barinov keeps the exchange moving.
-- 'Alright, Chef, it is all behind us now.' Claiming that Alright Chef it is all behind them now sounds confident, even if Barinov has doubts.
-- 'I got a sobriety implant because of you!' Declaring that he got a sobriety implant because of Max brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Easy, Chef, just take it easy, please!' With the work and situation at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will kill you, get over here!' Saying that he will kill Max gets over here is how Barinov takes charge of the moment.
+- 'The universe is wrapped in thin invisible threads.' Max conveys a natural mood right away, linking "vselennaya" ("universe"), "oputana" ("entangled, wrapped"), and "tonkimi" ("subtle, thin") in one brisk exchange.
+- 'They connect us with other people.' Max favors an unhurried approach for Barinov, weaving "svyazyvayut" ("connect, bind") together with "drugimi" ("other, another") just the way native speakers do.
+- 'Every action of other people changes us.' Max takes a direct stance straight away, anchoring the Russian line on "kazhdyy" ("every") and "postupok" ("act, deed") without extra filler.
+- 'Think about those whom you will change.' Max holds an honest attitude straight away, building the phrase around "podumay" ("think") and "izmenish" ("to cheat on") for a crisp, natural delivery.
+- 'Maxim, come over to me for a minute.' Barinov adopts a resolute bearing without hesitation, pairing "podoydi" ("approach, go up") with "minutu" ("a minute") to get the point across in plain spoken Russian.
+- 'Yes, Chef, I am listening to you.' Max adopts a serious posture in their talk, anchoring the Russian line on "slushayu" ("I'm listening") and "da" ("yes") without extra filler.
+- 'Forgive me for yesterday.' Barinov establishes a playful angle right away, combining "prosti" ("sorry, forgive me") and "vcherashniy" ("yesterday's") so the key meaning lands right away.
+- 'Thank you for not filing a police report.' Barinov holds a firm stance in the room, weaving "spasibo" ("thank you") together with "napisal" ("wrote") just the way native speakers do.
+- 'Alright, Chef, it is all behind us now.' Max conveys a natural approach in the scene, building the phrase around "khorosho" ("good, fine") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'I got a sobriety implant because of you!' Barinov picks a grounded bearing across the room, combining "zashilsya" ("got an anti-alcohol implant") and "ya" ("I") so the key meaning lands right away.
+- 'Easy, Chef, just take it easy, please!' Max sustains an easygoing note on the spot, anchoring the Russian line on "spokoyno" ("calmly") and "tolko" ("only") without extra filler.
+- 'I will kill you, get over here!' Barinov picks a serious note without hesitation, combining "ubyu" ("I'll kill") and "idi" ("go") so the key meaning lands right away.

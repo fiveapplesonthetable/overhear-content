@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, hi, how are you doing?' By asking how Vika doing is, Sasha presses Vika for a straight answer.
-- 'And I decided to celebrate my wedding here.' Realizing that she decided to celebrate her wedding here changes how Sasha handles the situation.
-- 'That is great, isn't it?' Sasha asks whether that is great is not it, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You want to celebrate your wedding here?' Vika asks whether Sasha wants to celebrate Sasha's wedding here, refusing to let the point slide.
-- 'Well yes, Misha and I are getting married.' Admitting that Misha and she are getting married shows Sasha being honest for a change.
-- 'We want to celebrate in a close circle.' Wanting to celebrate in a close circle is how Sasha lays out the situation for Vika.
-- 'A banquet for approximately thirty people.' Over the wedding and the point, Sasha answers Vika without a second thought.
-- 'Check, please, is Thursday free at your place?' Questioning whether check please is Thursday free at Vika's place is how Sasha tests Vika's story. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I will look in our logbook right now.' Saying that she will look in their logbook right now is how Vika sets the tone with Sasha.
-- 'Unfortunately, everything is booked this week.' Since everything is booked this week, Vika does not waste words on excuses.
-- 'So excuse me, please.' Over the banquet and the moment, Vika answers Sasha without a second thought.
-- 'We cannot help you with anything.' Pointing out that they cannot help Sasha with anything gives Sasha a sobering reality check. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Vika, hi, how are you doing?' Sasha presses firmly in their exchange, linking "kak" ("how") directly with "dela" ("things, affairs"), since Russian drops "is" and "are" in the present.
+- 'And I decided to celebrate my wedding here.' Sasha sustains an easygoing tempo with Vika, joining "reshila" ("decided") to "otprazdnovat" ("to wedding") so every word pulls its weight.
+- 'That is great, isn't it?' Sasha asks promptly as the beat lands, anchoring the Russian line on "zdorovo" ("great, cool") and "pravda" ("honestly") without extra filler.
+- 'You want to celebrate your wedding here?' Vika asks firmly without a pause, weaving "khochesh" ("do you want") together with "prazdnovat" ("to celebrate") just the way native speakers do.
+- 'Well yes, Misha and I are getting married.' Sasha chooses a serious rhythm in the scene, weaving "mishey" ("married") together with "zhenimsya" ("to marry") just the way native speakers do.
+- 'We want to celebrate in a close circle.' Sasha offers an emphatic mood during the exchange, joining "khotim" ("want") to "otprazdnovat" ("to wedding") so every word pulls its weight.
+- 'A banquet for approximately thirty people.' Sasha picks an earnest manner straight away, building the phrase around "banket" ("banquet") and "primerno" ("approximately") for a crisp, natural delivery.
+- 'Check, please, is Thursday free at your place?' Sasha prompts openly as the talk turns, leaning on "posmotri" ("look") before closing the thought with "chetverg" ("place").
+- 'I will look in our logbook right now.' Vika favors a frank footing on the spot, weaving "seychas" ("now") together with "posmotryu" ("have a look") just the way native speakers do.
+- 'Unfortunately, everything is booked this week.' Vika establishes an easygoing note straight away, using "sozhaleniyu" (from "sozhaleniye", "regret") alongside "nedele" ("week") to shape the meaning.
+- 'So excuse me, please.' Vika shares a resolute approach in their talk, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "tak" ("so") without extra filler.
+- 'We cannot help you with anything.' Vika offers a sharp stance during the exchange, weaving "mozhem" ("can") together with "pomoch" ("to help") just the way native speakers do.

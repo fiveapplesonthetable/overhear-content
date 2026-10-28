@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gena, will it be much longer? My arm has gone numb!' Questioning whether someone will it be much longer is how Barinov tests Fedya's story.
-- 'Surprise! Congratulations to our dear Chef on his wedding!' Over the point and the party, Senya lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Oh, it seems we had better run away from here quickly!' Once it seems they had better run away from here quickly, Fedya makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Freeze right there! What on earth are you doing here?' With the point and surprise hanging in the air, Barinov puts Fedya on the spot.
-- 'Chef, honestly, I did not see anything at all right now!' Senya insists that he did not see anything at all right now, leaving Barinov no room to argue. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'We swear that we will not tell anyone anything!' Once they swear that they will not tell anyone anything, Fedya makes sure Barinov hears every word. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'We were told that you asked to open this room.' Pointing out that they were told that Barinov asked to open this room gives Barinov a sobering reality check.
-- 'And you are in a good mood only rarely.' Fedya explains that Barinov is in a good mood only rarely, keeping his voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Either when Spartak won, or right before a drink!' Insisting that either when Spartak won or right before a drink shows Senya is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Besides, you slyly winked at me this morning.' With the shift and party in play, Fedya keeps this short reply brisk and direct.
-- 'So we decided to throw you a fun bachelor party!' Declaring that they decided to throw Barinov a fun bachelor party brings Senya's temper right to the surface. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Fine, come in, just close the front door tightly!' Over the party and the hotel, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Gena, will it be much longer? My arm has gone numb!' Barinov quizzes sharply to make the point, linking "gena" ("gene"), "skoro" ("soon"), and "tam" ("there") in one brisk exchange.
+- 'Surprise! Congratulations to our dear Chef on his wedding!' Senya establishes a direct manner in this beat, leaning on "syurpriz" ("surprise") before closing the thought with "pozdravlyayem" ("we congratulate").
+- 'Oh, it seems we had better run away from here quickly!' Fedya offers a clear tempo as they talk, pairing "kazhetsya" ("it seems, I think") with "luchshe" ("better") so the "-sya" ending carries the action.
+- 'Freeze right there! What on earth are you doing here?' Barinov queries steadily in their exchange, leaning on "stoyat" ("to stand") before closing the thought with "meste" ("place").
+- 'Chef, honestly, I did not see anything at all right now!' Senya brings a serious direction as they talk, combining the conversational booster "voobshche" ("in general, overall") with "chestno" ("honestly") to give the line its natural spoken rhythm.
+- 'We swear that we will not tell anyone anything!' Fedya strikes an honest note in their talk, joining "klyanyomsya" ("to swear") to "skazhem" ("we'll say") so every word pulls its weight.
+- 'We were told that you asked to open this room.' Senya brings a grounded tack at once, leaning on "skazali" ("told") before closing the thought with "poprosili" ("to ask, to request").
+- 'And you are in a good mood only rarely.' Fedya sustains a candid bearing in their talk, linking "khorosheye" ("lovely, good"), "nastroyeniye" ("mood"), and "byvayet" ("there can be") in one brisk exchange.
+- 'Either when Spartak won, or right before a drink!' Senya conveys an earnest tone across the room, linking "kogda" ("when"), "pobedil" ("won"), and "vypivkoy" ("drinks, drinking") in one brisk exchange.
+- 'Besides, you slyly winked at me this morning.' Fedya strikes a natural style without hesitation, anchoring the Russian line on "utrom" ("this morning") and "khitro" ("cleverly") without extra filler.
+- 'So we decided to throw you a fun bachelor party!' Senya picks a thoughtful bearing right away, anchoring the Russian line on "reshili" ("decided") and "ustroit" ("to arrange") without extra filler.
+- 'Fine, come in, just close the front door tightly!' Barinov establishes a firm view right away, building the phrase around "zakhodite" ("come in") and "tolko" ("only") for a crisp, natural delivery.

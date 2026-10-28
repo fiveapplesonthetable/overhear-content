@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well there, something like that.' Around the shift and bet, Barinov sets a calm, everyday tone with Elena.
-- 'Listen, how slim you used to be!' Insisting that how slim Barinov used to be shows Elena is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Are you hinting again that I am fat?' Here asking whether Elena hinting again that he is fat shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, I am just saying that you were slim.' Once she is just saying that Barinov was slim, Elena can finally tell Barinov what she means.
-- 'I can lose weight at any moment!' Barinov insists that he can lose weight at any moment, leaving Elena no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'So here is the deal.' Saying that here is the deal is how Elena sets the tone with Barinov.
-- 'In a week you will recover.' Once in a week Barinov will recover, Elena can finally tell Barinov what she means.
-- 'We have a date at the restaurant.' Adding that they have a date at the restaurant fills in the missing piece for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And I will be in this suit.' Saying that he will be in this suit is how Barinov sets the tone with Elena.
-- 'And it will be a bit too big on me!' Once it will be a bit too big on him, Barinov makes sure Elena hears every word.
-- 'We will see!' Declaring that they will see brings Elena's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I am telling you for sure!' Declaring that he is telling Elena for sure brings Barinov's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Well there, something like that.' Barinov establishes a thoughtful posture as the scene unfolds, leaning on "kak-to" ("somehow, a bit") before closing the thought with "nu" ("oh, come on").
+- 'Listen, how slim you used to be!' Elena keeps a brisk view without hesitation, joining "slushay" ("listen") to "byl" ("was") so every word pulls its weight.
+- 'Are you hinting again that I am fat?' Barinov wonders candidly for Elena's benefit, anchoring the Russian line on "opyat" ("again") and "namekayesh" ("are hinting") without extra filler.
+- 'No, I am just saying that you were slim.' Elena maintains a calm note on the spot, putting "prosto" ("just") alongside "govoryu" ("am telling") in a tight, everyday turn of phrase.
+- 'I can lose weight at any moment!' Barinov sets a warm style straight away, putting "mogu" ("can") alongside "pokhudet" ("to lose weight") in a tight, everyday turn of phrase.
+- 'So here is the deal.' Elena adopts a steady angle in the conversation, anchoring the Russian line on "znachit" ("then, so") and "tak" ("so") without extra filler.
+- 'In a week you will recover.' Elena conveys a measured position as the scene unfolds, joining "nedelyu" ("for a week") to "popravishsya" ("recover, get better") so every word pulls its weight.
+- 'We have a date at the restaurant.' Elena projects a pointed style right away, linking "svidaniye" ("date"), "restorane" ("restaurant"), and "nas" ("us") in one brisk exchange.
+- 'And I will be in this suit.' Barinov strikes a direct course without hesitation, joining "budu" ("will be") to "kostyume" ("costume") so every word pulls its weight.
+- 'And it will be a bit too big on me!' Barinov favors a candid tack right away, using "budet" (from "byt", "will be") alongside "velikovat" ("a bit too big") to shape the meaning.
+- 'We will see!' Elena brings a warm course in the conversation, leaning on "posmotrim" ("have a look") as a compact, one-word response that needs no extra words.
+- 'I am telling you for sure!' Barinov maintains a candid direction in this beat, combining "tochno" ("definitely") and "govoryu" ("am telling") so the key meaning lands right away.

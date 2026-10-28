@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Young people these days, I have to teach you and teach you.' Barinov reminds Elena that young people these days he has to teach Elena and teach Elena before the moment passes. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Chef, may I come in, here, take a look.' Because may he comes in here take a look, Max treats the matter as settled.
-- 'I drew up a detailed kitchen optimization plan.' Over the office and the point, Max answers Barinov without a second thought.
-- 'Interesting, and what is written in it?' Asking whether interesting and what is written in it puts Elena right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A proposal on how to fire the rookie faster?' With the plan and call hanging in the air, Barinov puts Elena on the spot.
-- 'Instead of working, you are drawing up silly plans.' Pointing out that instead of working Elena is drawing up silly plans gives Elena a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'That is it, go to the kitchen, I am busy.' Saying that that is it go to the kitchen he is busy is how Barinov sets the tone with Elena.
-- 'Vitya, listen, my car got towed away.' Realizing that her car got towed away changes how Elena handles the situation.
-- 'Can you come pick me up at the market right now?' Asking whether Barinov comes pick her up at the market right now cuts straight through the tension between Elena and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, of course, dictate the exact address to me.' Over the car and the work, Barinov answers Elena without a second thought.
-- 'Write it down, Dorozhny Drive.' Mentioning that Barinov should write it down drive moves the talk in a new direction.
-- 'Yes, got it all, I will come get you right now.' Saying that got it all he will come get Elena right now is how Barinov sets the tone with Elena. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Young people these days, I have to teach you and teach you.' Barinov adopts an unhurried direction at once, combining "molodyozh" ("youth, kids") and "poshla" ("am off") so the key meaning lands right away.
+- 'Chef, may I come in, here, take a look.' Max establishes a brisk course as they talk, putting "mozhno" ("may, can") alongside "voyti" ("to come in") in a tight, everyday turn of phrase.
+- 'I drew up a detailed kitchen optimization plan.' Max maintains a candid approach across the room, pairing "sostavil" ("put together") with "podrobnyy" ("detailed") to get the point across in plain spoken Russian.
+- 'Interesting, and what is written in it?' Barinov inquires boldly for Max's benefit, putting "interesno" ("interesting") alongside "napisano" ("is written") in a tight, everyday turn of phrase.
+- 'A proposal on how to fire the rookie faster?' Barinov wonders briskly as the beat lands, anchoring the Russian line on "predlozheniye" ("offer, proposal") and "kak" ("how") without extra filler.
+- 'Instead of working, you are drawing up silly plans.' Barinov shows a frank footing as the scene unfolds, weaving "raboty" ("of work") together with "sostavlyayesh" ("you draw up") just the way native speakers do.
+- 'That is it, go to the kitchen, I am busy.' Barinov keeps an earnest bearing with Elena, using "idi" (from "idti", "go") alongside "kukhnyu" ("kitchen") to shape the meaning.
+- 'Vitya, listen, my car got towed away.' Elena counters decisively during the talk, using the everyday "u menya" ("by me") alongside "slushay" ("listen") to show what belongs to the speaker.
+- 'Can you come pick me up at the market right now?' Elena queries plainly without hesitation, putting "mozhesh" ("can") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Yes, of course, dictate the exact address to me.' Barinov sets a pointed direction in their talk, pairing "adres" ("address") with "konechno" ("of course") so the "-sya" ending carries the action.
+- 'Write it down, Dorozhny Drive.' Elena displays a sharp stance on the spot, anchoring the Russian line on "zapisyvay" ("to write down") and "ulitsa" ("street") without extra filler.
+- 'Yes, got it all, I will come get you right now.' Barinov displays a resolute manner without hesitation, weaving "ponyal" ("understood") together with "seychas" ("now") just the way native speakers do.

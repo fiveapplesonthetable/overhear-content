@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, please, what is this?' Over the shift and the exchange, German presses Denis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Astonishing. Did you make this yourself? Out of a carrot?' Asking whether Denis makes this themselves is how German puts Denis on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Yes. Thank you.' Here telling German to thank German sets up the next turn in their exchange.
-- 'You peeled all the carrots and even made a flute. Well done.' Realizing that Denis peeled all the carrots and even made a flute changes how German handles the situation.
-- 'It will not be much trouble for you to peel a sack of potatoes.' Noting that it will not be much trouble for Denis to peel a sack of potatoes keeps German's side of the story simple and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Better make it two for you. Two sacks. Will you manage by evening?' With the moment and exchange hanging in the air, German puts Denis on the spot.
-- 'Chef, I won't finish in time by evening.' Admitting that he will not finish in time by evening shows Denis being honest for a change.
-- 'You will finish in time. You are very talented.' Saying that Denis will finish in time is how German sets the tone with Denis. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And if you don't finish in time, out you go.' Once if Denis does not finish in time out Denis goes, German can finally tell Denis what he means.
-- 'German Mikhailovich, why do we need so many potatoes?' Asking why they need so many potatoes is how Lyova puts Denis on the spot. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'For educational purposes. I will not tolerate slacking.' With the work and exchange in play, German keeps this short reply brisk and direct.
-- 'I do not like this either.' Since he does not like this either, Lyova does not waste words on excuses.
+- 'Excuse me, please, what is this?' German wonders dryly to keep things clear, combining "prostite" ("excuse me") and "pozhaluysta" ("please") so the key meaning lands right away.
+- 'Astonishing. Did you make this yourself? Out of a carrot?' German inquires openly in the room, putting "porazitelno" ("astonishing") alongside "sdelali" ("did, have done") in a tight, everyday turn of phrase.
+- 'Yes. Thank you.' Denis projects a natural approach straight away, weaving "spasibo" ("thank you") together with "da" ("yes") just the way native speakers do.
+- 'You peeled all the carrots and even made a flute. Well done.' German favors an unhurried stance without hesitation, using "morkovku" (from "morkovka", "carrot") alongside "pochistili" ("to carrots") to shape the meaning.
+- 'It will not be much trouble for you to peel a sack of potatoes.' German shows a serious footing in this beat, linking "sostavit" ("to peel"), "bolshogo" ("big"), and "truda" ("of labour") in one brisk exchange.
+- 'Better make it two for you. Two sacks. Will you manage by evening?' German prompts frankly in the room, building the phrase around "luchshe" ("better") and "meshka" ("sack, bag") for a crisp, natural delivery.
+- 'Chef, I won't finish in time by evening.' Denis shows a direct tone during the exchange, building the phrase around "vechera" ("evening") and "uspeyu" ("will manage") for a crisp, natural delivery.
+- 'You will finish in time. You are very talented.' German displays a pointed note at once, anchoring the Russian line on "uspeyete" ("to make it") and "ochen" ("very much") without extra filler.
+- 'And if you don't finish in time, out you go.' German keeps an easygoing course across the room, joining "uspeyete" ("to make it") to "poydyote" ("will go") so every word pulls its weight.
+- 'German Mikhailovich, why do we need so many potatoes?' Lyova tests directly for German's benefit, leaning on "nuzhno" ("necessary") before closing the thought with "stolko" ("so many").
+- 'For educational purposes. I will not tolerate slacking.' German sets an easygoing angle as the scene unfolds, leaning on "tselyakh" ("goal, aim") before closing the thought with "vospitaniya" ("upbringing").
+- 'I do not like this either.' Lyova keeps an unhurried mood in their talk, linking "tozhe" ("too"), "nravitsya" ("is pleasing"), and "mne" ("to me") in one brisk exchange.

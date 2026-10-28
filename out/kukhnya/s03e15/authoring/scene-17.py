@@ -7,7 +7,7 @@ SCENE = 17
 TITLE = "Покупка машины и условие гостя  (Buying the Car and the Guest's Condition)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'guest': 'Гость', 'max': 'Макс', 'nastya': 'Настя'}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 INTRO = "Outside the restaurant, Nastya proudly shows Kostya what she just bought with all their wedding money: Eva's pink car! Seconds later, Nagiyev's friend arrives for the bet and demands that every single cook leave the kitchen! Listen first."
@@ -25,21 +25,21 @@ STORY = [
     ('nastya', 'А хотите, мы вас сегодня до дома довезём?', 'Would you like us to drive you home today?', [(277, 'А хотите, мы вас сегодня до дома довезем')], 'adapted'),
     ('max', 'Нет, спасибо, вам же тогда придётся три метра проехать.', 'No, thank you, then you would have to drive a whole three meters.', [(278, 'Нет, спасибо'), (279, 'Вам же тогда придется целых три метра')], 'adapted'),
     ('max', 'Внимание всем на кухне, к нам едет ревизор!', 'Attention everyone in the kitchen, the inspector is coming!', [(281, 'Внимание, к нам едет ревизор')], 'adapted'),
-    ('guest', 'Не сомневаюсь, только давай, чтобы всё было честно.', "I do not doubt it, only let's make sure everything is fair.", [(283, 'Не сомневаюсь, только'), (283, 'чтобы все было')], 'adapted'),
-    ('guest', 'Пусть сейчас все твои повара выйдут из кухни!', 'Have all your cooks step out of the kitchen right now!', [(284, 'Все твои повара выйдут из кухни')], 'adapted'),
-    ('guest', 'Народа в зале почти нет, пусть выйдут из кухни!', 'There are almost no guests in the hall, let them leave the kitchen!', [(288, 'Народа в зале почти нет'), (290, 'выйдите из кухни')], 'adapted'),
+    ('kostya', 'Не сомневаюсь, только давай, чтобы всё было честно.', "I do not doubt it, only let's make sure everything is fair.", [(283, 'Не сомневаюсь, только'), (283, 'чтобы все было')], 'adapted'),
+    ('kostya', 'Пусть сейчас все твои повара выйдут из кухни!', 'Have all your cooks step out of the kitchen right now!', [(284, 'Все твои повара выйдут из кухни')], 'adapted'),
+    ('kostya', 'Народа в зале почти нет, пусть выйдут из кухни!', 'There are almost no guests in the hall, let them leave the kitchen!', [(288, 'Народа в зале почти нет'), (290, 'выйдите из кухни')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Alright, Kostya, open your eyes, you can look!' Nastya declares that Alright Kostya open the guest's eyes the guest can look as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat."),
-    (1, None, "'Here, look, I bought the car from Eva!' Because here look she bought the car from Eva, Nastya does not bother softening the blow for the guest. Russian puts the key word right up front so her emotion lands on the first beat."),
-    (2, None, "'Wait, Nastya, why did you buy it?' By wondering why the guest buys it, Max presses the guest for a straight answer."),
-    (3, None, '\'What do you mean why, we are having a baby soon, we cannot manage without a car!\' Once what do the guest means why they are having a baby soon they cannot manage without a car, Nastya makes sure the guest hears every word. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (4, None, '\'Kostya, are you not happy about the purchase at all?\' Checking whether the guest not happy about the purchase at all is how Nastya puts the guest on the spot. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (5, None, "'I am very happy, congratulations on the acquisition!' Max insists that he is very happy congratulations on the acquisition, leaving the guest no room to argue."),
-    (6, None, '\'Would you like us to drive you home today?\' By asking whether the guest likes them to drive the guest home today, Nastya presses the guest for a straight answer. Notice how she sticks to the formal "you", keeping a professional line between them.'),
-    (7, None, '\'No, thank you, then you would have to drive a whole three meters.\' Adding that the guest would have to drive a whole three meters fills in the missing piece for the guest. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (8, None, "'Attention everyone in the kitchen, the inspector is coming!' Because attention everyone in the kitchen the inspector is coming, Max does not bother softening the blow for the guest."),
-    (9, None, '\'I do not doubt it, only let\'s make sure everything is fair.\' Since he does not doubt it only let them make sure everything is fair, the guest does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (10, None, '\'Have all your cooks step out of the kitchen right now!\' Once have all Max\'s cooks step out of the kitchen right now, the guest makes sure Max hears every word. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (11, None, "'There are almost no guests in the hall, let them leave the kitchen!' Declaring that there are almost no guests in the hall let them leave the kitchen brings the guest's temper right to the surface."),
+    (0, None, '\'Alright, Kostya, open your eyes, you can look!\' Nastya sustains a candid note in the conversation, building the phrase around "otkryvay" ("to open") and "glaza" ("eyes") for a crisp, natural delivery.'),
+    (1, None, '\'Here, look, I bought the car from Eva!\' Nastya presents a steady tack without hesitation, putting "smotri" ("look") alongside "kupila" ("bought") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Wait, Nastya, why did you buy it?\' Max asks calmly as the talk turns, building the phrase around "podozhdi" ("wait") and "zachem" ("what for") for a crisp, natural delivery.'),
+    (3, None, '\'What do you mean why, we are having a baby soon, we cannot manage without a car!\' Nastya strikes a frank posture toward Max, building the phrase around "kak" ("how") and "zachem" ("what for") for a crisp, natural delivery.'),
+    (4, None, '\'Kostya, are you not happy about the purchase at all?\' Nastya questions boldly to Kostya here, leaning on "sovsem" ("at all") before closing the thought with "rad" ("glad").'),
+    (5, None, '\'I am very happy, congratulations on the acquisition!\' Max sets a serious footing across the room, putting "ochen" ("very much") alongside "rad" ("glad") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Would you like us to drive you home today?\' Nastya questions naturally for Kostya\'s benefit, using "khotite" (from "khotet", "want") alongside "segodnya" ("today") to shape the meaning.'),
+    (7, None, '\'No, thank you, then you would have to drive a whole three meters.\' Max takes a calm mood in this beat, weaving "spasibo" ("thank you") together with "togda" ("back then") just the way native speakers do.'),
+    (8, None, '\'Attention everyone in the kitchen, the inspector is coming!\' Max projects a pointed course at this moment, joining "vnimaniye" ("attention") to "kukhne" ("kitchen") so every word pulls its weight.'),
+    (9, None, '\'I do not doubt it, only let\'s make sure everything is fair.\' Kostya adopts an emphatic angle in front of Nastya, combining "somnevayus" ("doubt") and "tolko" ("only") so the key meaning lands right away.'),
+    (10, None, '\'Have all your cooks step out of the kitchen right now!\' Kostya brings an honest rhythm without hesitation, putting "seychas" ("now") alongside "povara" ("cook") in a tight, everyday turn of phrase.'),
+    (11, None, '\'There are almost no guests in the hall, let them leave the kitchen!\' Kostya establishes a clear tempo for Nastya, combining "naroda" ("of the people") and "zale" ("hall") so the key meaning lands right away.'),
 ]

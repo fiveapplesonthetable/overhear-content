@@ -7,7 +7,7 @@ SCENE = 6
 TITLE = 'Пробка в глаз  (A Cork in the Eye)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'denis': 'Денис', 'katya': 'Катя'}
+LABELS = {'denis': 'Денис', 'katya': 'Катя', 'nikita': 'Никита'}
 SOURCE_NAME = 'Кухня (Kukhnya) S6.15'
 SOURCE_FILE = 'sources/kukhnya/s06/e15.ru.srt'
 INTRO = 'At the bar, Katya pulls Nikita aside to break off their engagement while Denis approaches Sveta. Before either can finish a sentence, Sveta opens a champagne bottle and the cork hits her right in the eye!'
@@ -24,22 +24,22 @@ STORY = [
     ('denis', 'Прости, я же это не специально.', 'Forgive me, I did not do it on purpose.', [(91, 'Я не специально')], 'adapted'),
     ('denis', 'Никита, иди скорее вызывай сюда скорую!', 'Nikita, go quickly and call an ambulance here!', [(91, 'иди скорую вызывай')], 'adapted'),
     ('denis', 'Хотя я сам отвезу её врачу.', 'Although I will take her to the doctor myself.', [(92, 'Хотя я сам')], 'adapted'),
-    ('barinov', 'Представляешь, я ведь сам его вырастил.', 'Can you imagine, I raised him myself.', [(93, 'Я его вырастил')], 'adapted'),
-    ('barinov', 'Я сам всему его здесь выучил.', 'I taught him everything here myself.', [(94, 'Я его выучил')], 'adapted'),
-    ('barinov', 'Я как к родному сыну относился.', 'I treated him like my own son.', [(95, 'Как к сыну к нему относился')], 'adapted'),
-    ('barinov', 'А кроме того, на нём закупки!', 'And besides that, he handles all the purchasing!', [(96, 'А кроме того, на нем закупки')], 'adapted'),
+    ('nikita', 'Представляешь, я ведь сам его вырастил.', 'Can you imagine, I raised him myself.', [(93, 'Я его вырастил')], 'adapted'),
+    ('nikita', 'Я сам всему его здесь выучил.', 'I taught him everything here myself.', [(94, 'Я его выучил')], 'adapted'),
+    ('nikita', 'Я как к родному сыну относился.', 'I treated him like my own son.', [(95, 'Как к сыну к нему относился')], 'adapted'),
+    ('nikita', 'А кроме того, на нём закупки!', 'And besides that, he handles all the purchasing!', [(96, 'А кроме того, на нем закупки')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Nikita, do you have a minute right now?\' Asking whether Barinov has a minute right now cuts straight through the tension between Katya and Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (1, None, "'Of course, for you I even have two.' Pointing out that for Barinov he even has two gives Barinov a sobering reality check."),
-    (2, None, '\'Listen, here is the thing with us.\' Katya explains that here is the thing with them, keeping her voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (3, None, '\'It seems to me that we need to talk.\' Realizing that it seems to her that they need to talk changes how Katya handles the situation. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (4, None, "'Easy, darling, let me look at your eye right now.' Noting that easy darling let him look at Barinov's eye right now keeps Denis's side of the story simple and clear."),
-    (5, None, '\'Forgive me, I did not do it on purpose.\' Even though he did not do it on purpose, Denis keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (6, None, "'Nikita, go quickly and call an ambulance here!' Going quickly and call an ambulance here shows Denis is done holding back. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (7, None, "'Although I will take her to the doctor myself.' Saying that although he will take her to the doctor himself is how Denis sets the tone with Barinov."),
-    (8, None, "'Can you imagine, I raised him myself.' Once can Denis imagines he raised him himself, Barinov can finally tell Denis what he means."),
-    (9, None, "'I taught him everything here myself.' Adding that he taught him everything here himself fills in the missing piece for Denis."),
-    (10, None, "'I treated him like my own son.' With the room and kitchen in play, Barinov keeps this short reply brisk and direct."),
-    (11, None, "'And besides that, he handles all the purchasing!' Barinov declares that besides that he handles all the purchasing as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat."),
+    (0, None, '\'Nikita, do you have a minute right now?\' Katya inquires lightly as the talk turns, pairing "seychas" ("now") with "yest" ("there is") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Of course, for you I even have two.\' Denis maintains a sharp rhythm during the exchange, combining "konechno" ("of course") and "yest" ("there is") so the key meaning lands right away.'),
+    (2, None, '\'Listen, here is the thing with us.\' Katya shows a candid rhythm in the conversation, using "poslushay" (from "poslushat", "listen") alongside "tut" ("here") to shape the meaning.'),
+    (3, None, '\'It seems to me that we need to talk.\' Katya holds a resolute attitude in the scene, putting "kazhetsya" ("it seems, I think") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Easy, darling, let me look at your eye right now.\' Denis maintains an earnest attitude in this beat, building the phrase around "tikho" ("easy, quiet") and "milaya" ("darling") for a crisp, natural delivery.'),
+    (5, None, '\'Forgive me, I did not do it on purpose.\' Denis offers a thoughtful mood at this moment, linking "prosti" ("sorry, forgive me"), "spetsialno" ("on purpose"), and "ya" ("I") in one brisk exchange.'),
+    (6, None, '\'Nikita, go quickly and call an ambulance here!\' Denis shares an easygoing style for Katya, anchoring the Russian line on "idi" ("go") and "skoreye" ("quickly, right away") without extra filler.'),
+    (7, None, '\'Although I will take her to the doctor myself.\' Denis presents a sharp footing right away, pairing "otvezu" ("I\'ll drive") with "vrachu" ("the doctor") to get the point across in plain spoken Russian.'),
+    (8, None, '\'Can you imagine, I raised him myself.\' Nikita keeps a frank position with Denis, weaving "predstavlyayesh" ("can you imagine") together with "vyrastil" ("raised, trained") just the way native speakers do.'),
+    (9, None, '\'I taught him everything here myself.\' Nikita favors an honest tack in the conversation, leaning on "zdes" ("here") before closing the thought with "vyuchil" ("to learn, to memorise").'),
+    (10, None, '\'I treated him like my own son.\' Nikita sets a calm line as they talk, pairing "kak" ("how") with "rodnomu" ("native, own") to get the point across in plain spoken Russian.'),
+    (11, None, '\'And besides that, he handles all the purchasing!\' Nikita displays a thoughtful style at once, anchoring the Russian line on "zakupki" ("purchasing") and "krome" ("except") without extra filler.'),
 ]

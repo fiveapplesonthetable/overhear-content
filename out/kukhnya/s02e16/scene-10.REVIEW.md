@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kill the enemy with a borrowed knife.' Mentioning that Vika should kill the enemy with a borrowed knife moves the talk in a new direction.
-- 'Young man, may I have a word with you?' When Vika asks if young man may she has a word with Max, Max has to answer fast. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Yes, how can I help you?' Wondering how he helps Vika can is how Max puts Vika on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'To be precise, two red hairs.' Over the shift and the guest, Vika answers Max without a second thought.
-- 'Is this some kind of special promotion?' By asking whether this some kind of special promotion, Max presses Vika for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Buy one hair and get the second one free.' Because Max should buy one hair and get the second one free, Vika treats the matter as settled.
-- 'Forgive me, I have no idea how that happened.' Since he has no idea how that happened, Max does not waste words on excuses.
-- 'We are sincerely sorry.' Claiming that they are sincerely sorry sounds confident, even if Max has doubts.
-- 'We will replace your dish immediately.' Pointing out that they will replace Vika's dish immediately gives Vika a sobering reality check.
-- 'Just to make sure you do not bring back the exact same plate.' Vika explains that just to make sure Max does not bring back the exact same plate, keeping her voice calm and direct.
-- 'Once again, please accept my apologies.' Over the moment and the guest, Max answers Vika without a second thought.
-- 'You are going to pay for this dish yourself.' Noting that Max is going to pay for this dish themselves keeps Vika's side of the story simple and clear.
-- 'The salad is coming out of your paycheck.' Even though the salad is coming out of Vika's paycheck, Max keeps a steady face in front of Vika.
+- 'Kill the enemy with a borrowed knife.' Max picks a candid position across the room, leaning on "vospolzuysya" ("to take advantage of") before closing the thought with "chuzhim" ("foreign, alien").
+- 'Young man, may I have a word with you?' Vika prompts dryly at this point, pairing "molodoy" ("young") with "chelovek" ("a man, a person") to get the point across in plain spoken Russian.
+- 'Yes, how can I help you?' Max challenges frankly in their exchange, pairing "slushayu" ("I'm listening") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'To be precise, two red hairs.' Vika presents a natural tack in the room, leaning on "tochneye" ("definitely") before closing the thought with "ryzhikh" ("red-haired").
+- 'Is this some kind of special promotion?' Max checks wryly without holding back, putting "aktsiya" ("rally, campaign") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'Buy one hair and get the second one free.' Vika conveys a clear approach as they talk, building the phrase around "vtoroy" ("second") and "volos" ("hair") for a crisp, natural delivery.
+- 'Forgive me, I have no idea how that happened.' Max adopts a brisk stance in the room, anchoring the Russian line on "prostite" ("excuse me") and "ponimayu" ("understand") without extra filler.
+- 'We are sincerely sorry.' Vika presents a pointed line in front of Max, joining "iskrenne" ("sincerely") to "sozhaleyem" ("to regret, be sorry") so every word pulls its weight.
+- 'We will replace your dish immediately.' Max sets a pointed angle as the scene unfolds, pairing "seychas" ("now") with "zamenim" ("to replace") so the "-sya" ending carries the action.
+- 'Just to make sure you do not bring back the exact same plate.' Vika presents a natural posture as the scene unfolds, pairing "prinesli" ("brought") with "chtoby" ("so that") to get the point across in plain spoken Russian.
+- 'Once again, please accept my apologies.' Max shows a frank view as the scene unfolds, linking "yeshche" ("still"), "raz" ("time, once"), and "proshu" ("beg, ask") in one brisk exchange.
+- 'You are going to pay for this dish yourself.' Vika offers a warm footing at this moment, joining "budesh" ("will") to "platit" ("to pay") so every word pulls its weight.
+- 'The salad is coming out of your paycheck.' Max chooses an honest approach in the scene, linking "salat" ("salad") directly with "schet" ("account"), since Russian drops "is" and "are" in the present.

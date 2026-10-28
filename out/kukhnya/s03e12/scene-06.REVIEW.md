@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you want?' By asking what Nagiyev wants, the guest presses Nagiyev for a straight answer. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Hello, my name is Dmitry.' Explaining that his name is Dmitry lays the cards on the table for the guest.
-- 'Well, you look familiar to me.' The guest mentions that Nagiyev looks familiar to him so Nagiyev sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, are you that warrant officer?' Here asking whether Nagiyev that warrant officer shows the guest looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well done, you recognized me.' Between the conversation and the peace, Nagiyev gives the guest a quick, grounded response.
-- 'I am offering you peace.' Here being offering the guest peace sets up the next turn in their exchange. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What kind of peace for you?' Over the exchange and the peace, the guest presses Nagiyev for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You disgraced all Russian warrant officers!' Between the exchange and the kitchen, the guest delivers a sharp reaction.
-- 'You disgraced the entire Russian army!' Around the exchange and moment, the guest makes his point loud and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I truly came to you in peace.' Admitting that he truly came to the guest in peace shows Nagiyev being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I just wanted to offer you some money.' Saying that he just wanted to offer the guest some money is how Nagiyev sets the tone with the guest.
-- 'You decided to offer me money?' Wondering if Nagiyev decided to offer him money shows the guest caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'What do you want?' The guest asks honestly to Nagiyev here, combining "nado" ("it is necessary") and "chto" ("what") so the key meaning lands right away.
+- 'Hello, my name is Dmitry.' Nagiyev establishes a wry posture right away, building the phrase around "zdravstvuyte" ("hello") and "zovut" ("call") for a crisp, natural delivery.
+- 'Well, you look familiar to me.' The guest favors a lively view for Nagiyev, using "znakom" (from "znakomyy", "familiar, known") alongside "tak" ("so") to shape the meaning.
+- 'Wait, are you that warrant officer?' The guest wonders evenly from the start, building the phrase around "praporshchik" ("warrant officer") and "eto" ("this") for a crisp, natural delivery.
+- 'Well done, you recognized me.' Nagiyev sustains an easygoing course in the scene, leaning on "molodets" ("well done, good boy") before closing the thought with "uznal" ("recognised").
+- 'I am offering you peace.' Nagiyev sets a sharp tone for the guest, linking "mir" ("world"), "predlagayu" ("suggest"), and "ya" ("I") in one brisk exchange.
+- 'What kind of peace for you?' The guest asks calmly without holding back, pairing "yeshchyo" ("more, still") with "mir" ("world") to get the point across in plain spoken Russian.
+- 'You disgraced all Russian warrant officers!' The guest maintains an earnest view in the conversation, putting "russkikh" ("Russian") alongside "praporshchikov" ("warrant officers") in a tight, everyday turn of phrase.
+- 'You disgraced the entire Russian army!' The guest conveys a thoughtful angle on the spot, joining "russkuyu" ("Russian") to "armiyu" ("army") so every word pulls its weight.
+- 'I truly came to you in peace.' Nagiyev projects a pointed note at once, joining "pravda" ("honestly") to "mirom" ("peace") so every word pulls its weight.
+- 'I just wanted to offer you some money.' Nagiyev favors a serious approach beside the guest, leaning on "prosto" ("just") before closing the thought with "khotel" ("wanted").
+- 'You decided to offer me money?' The guest queries plainly toward Nagiyev here, building the phrase around "deneg" ("money") and "reshil" ("has decided") for a crisp, natural delivery.

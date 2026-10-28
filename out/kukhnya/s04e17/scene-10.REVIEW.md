@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, German, flowers are not necessary.' Vika mentions that flowers are not necessary so German sees what is at stake.
-- 'You mean the flowers? Forgive me, they are not for you.' German asks whether Katya means the flowers, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'They are for my sick aunt.' Pointing out that they are for his sick aunt gives Katya a sobering reality check.
-- 'Shall we go to the theater together tonight?' Over the point and the story, German presses Katya for a straight answer.
-- 'I was supposed to go with my aunt.' Realizing that he was supposed to go with his aunt changes how German handles the situation.
-- 'But she suddenly fell ill yesterday.' Noting that she suddenly fell ill yesterday keeps German's side of the story simple and clear.
-- 'Will you help me out tonight?' Asking whether Katya helps him out tonight cuts straight through the tension between German and Katya.
-- 'All right, I will go with pleasure.' Admitting that all right she will go with pleasure shows Vika being honest for a change.
-- 'Remember, we have been dating for three years already.' By telling German to remember they have been dating for three years already, Katya keeps her side of the story grounded.
-- 'You proposed marriage to me.' With the moment and morning in play, Katya keeps this short reply brisk and direct.
-- 'After all, you are just lying to my friend.' Realizing that after all German is just lying to her friend changes how Katya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We are heading out at seven sharp.' Saying that they are heading out at seven sharp is how Katya sets the tone with German.
+- 'Good morning, German, flowers are not necessary.' Vika presents a playful stance with German, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
+- 'You mean the flowers? Forgive me, they are not for you.' German checks plainly right away, putting "tsvety" ("the flowers") alongside "prostite" ("excuse me") in a tight, everyday turn of phrase.
+- 'They are for my sick aunt.' German sets a firm note in the conversation, linking "bolnoy" ("crazy") directly with "tyoti" ("aunt"), since Russian drops "is" and "are" in the present.
+- 'Shall we go to the theater together tonight?' German probes frankly without holding back, anchoring the Russian line on "skhodim" ("go, pop over") and "segodnya" ("today") without extra filler.
+- 'I was supposed to go with my aunt.' German picks an earnest mood across the room, anchoring the Russian line on "dolzhen" ("has to, must") and "byl" ("was") without extra filler.
+- 'But she suddenly fell ill yesterday.' German brings a sharp angle in the room, putting "vchera" ("yesterday") alongside "vdrug" ("suddenly, what if") in a tight, everyday turn of phrase.
+- 'Will you help me out tonight?' German checks candidly in their exchange, weaving "segodnya" ("today") together with "vecherom" ("in the evening") just the way native speakers do.
+- 'All right, I will go with pleasure.' Vika displays a resolute position right away, building the phrase around "khorosho" ("good, fine") and "udovolstviyem" ("pleasure") for a crisp, natural delivery.
+- 'Remember, we have been dating for three years already.' Katya sustains a grounded posture beside German, leaning on "zapomni" ("remember") before closing the thought with "vstrechayemsya" ("have been going out").
+- 'You proposed marriage to me.' Katya establishes a sharp view toward Vika, pairing "sdelal" ("did") with "predlozheniye" ("offer, proposal") to get the point across in plain spoken Russian.
+- 'After all, you are just lying to my friend.' Katya strikes a lively angle without hesitation, weaving "prosto" ("just") together with "podruge" ("friend") just the way native speakers do.
+- 'We are heading out at seven sharp.' Katya sets a wry tack with Vika, combining "vyyezzhayem" ("to drive out") and "rovno" ("exactly") so the key meaning lands right away.

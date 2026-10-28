@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly! Pack everything up fast!' By packing everything up fast, Barinov raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dima, I will explain everything to you right now.' Noting that he will explain everything to Lyova right now keeps Barinov's side of the story simple and clear.
-- 'We will feed your guests properly right away.' Because they will feed Lyova's guests properly right away, Barinov treats the matter as settled.
-- 'Don't bother. You have already fed everyone.' Explaining that do not bother lays the cards on the table for Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Open the door, I told you!' Opening the door he told Barinov is Nagiyev's blunt reaction in front of Barinov.
-- 'You are fired! Open the door, I am counting to three.' Insisting that Barinov is fired shows Nagiyev is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Six months.' Over the point and the plan, Nagiyev answers Barinov without a second thought.
-- 'You are working without a salary.' Nagiyev explains that Barinov is working without a salary, keeping his voice calm and direct.
-- 'Did you understand me?' Checking whether Barinov understands him cuts straight through the tension between Nagiyev and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He is an absolute madman.' By being an absolute madman, Barinov keeps his side of the story grounded.
-- 'Yes, all the time!' With the point and plan at stake, Lyova reacts without holding back.
-- 'I have had enough of this slave driver!' Having had enough of this slave driver is Barinov's blunt reaction in front of Lyova. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Quickly! Pack everything up fast!' Barinov displays a resolute manner in the conversation, pairing "bystro" ("quickly") with "sobrali" ("to collect") to get the point across in plain spoken Russian.
+- 'Dima, I will explain everything to you right now.' Barinov offers a frank tone across the room, weaving "seychas" ("now") together with "obyasnyu" ("I'll explain") just the way native speakers do.
+- 'We will feed your guests properly right away.' Barinov takes a grounded approach in their talk, joining "seychas" ("now") to "bystrenko" ("guests") so every word pulls its weight.
+- 'Don't bother. You have already fed everyone.' Nagiyev projects a thoughtful note beside Lyova, weaving "nado" ("it is necessary") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Open the door, I told you!' Nagiyev shows a warm footing straight away, weaving "otkroy" ("to open") together with "dver" ("door") just the way native speakers do.
+- 'You are fired! Open the door, I am counting to three.' Nagiyev holds an honest bearing in their talk, building the phrase around "uvolil" ("to fire, to dismiss") and "otkroy" ("to open") for a crisp, natural delivery.
+- 'Six months.' Nagiyev displays a direct footing as the scene unfolds, letting the single Russian word "polgoda" ("six months") carry the entire reaction on its own.
+- 'You are working without a salary.' Nagiyev displays a firm tone as the scene unfolds, putting "rabotayesh" ("are working") alongside "zarplaty" ("salaries") in a tight, everyday turn of phrase.
+- 'Did you understand me?' Nagiyev challenges lightly with Barinov now, leaning on "ponyal" ("understood") before closing the thought with "ty" ("you").
+- 'He is an absolute madman.' Barinov sustains a natural mood without hesitation, leaning on "absolyutnyy" ("absolute, complete") before closing the thought with "psikh" ("psycho").
+- 'Yes, all the time!' Lyova presents an emphatic tack in the conversation, joining "postoyanno" ("constantly") to "da" ("yes") so every word pulls its weight.
+- 'I have had enough of this slave driver!' Barinov favors a brisk mood right away, anchoring the Russian line on "dostal" ("got on everyone's nerves") and "plantator" ("slave") without extra filler.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, what is hard about it? Everything is hard!' Asking what hard about it is is how Max puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I did not get it, is something going on with Katya?' Questioning whether she did not get it is something going on with Katya is how Eva tests Barinov's story.
-- 'You did not get it? What else do you need?' When Max asks if Barinov did not get it, Barinov has to answer fast. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Pour orange juice into a glass for me quickly.' Telling Barinov to pour orange juice into a glass for her quickly is how Eva lays out the situation for Barinov.
-- 'Senya, please take the food out to our dog.' Realizing that Eva should take the food out to their dog changes how Barinov handles the situation.
-- 'Viktoriya Sergeyevna said that we cannot go outside.' Mentioning that Viktoriya Sergeyevna said that they cannot go outside moves the talk in a new direction. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Here only I decide what is allowed!' Declaring that here only he decides what is allowed brings Barinov's temper right to the surface. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Chef, you decide here, but she is the one who fines us.' Because Barinov decides here but she is the one who fines them, Max treats the matter as settled.
-- 'Kitchen, attention! Everyone remember my words!' Over the room and the secret, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Nobody has the right to change anything here!' Barinov declares that nobody has the right to change anything here as the tension in the room peaks. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Is everything alright with you? Well, no!' By checking whether everything alright with Eva, Barinov presses Eva for a straight answer.
-- 'Your new turnstile, you see, suddenly broke.' Pointing out that Eva's new turnstile Eva sees suddenly broke gives Eva a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Kostya, what is hard about it? Everything is hard!' Max probes candidly without hesitation, weaving "tut" ("here") together with "slozhnogo" ("complicated") just the way native speakers do.
+- 'I did not get it, is something going on with Katya?' Eva wonders honestly in this moment, combining "ponyala" ("understood") and "ya" ("I") so the key meaning lands right away.
+- 'You did not get it? What else do you need?' Max tests plainly in this moment, using "ponyala" (from "ponyat", "understood") alongside "yeshchyo" ("more, still") to shape the meaning.
+- 'Pour orange juice into a glass for me quickly.' Eva adopts a brisk footing in the conversation, weaving "sok" ("juice") together with "apelsinovyy" ("orange") just the way native speakers do.
+- 'Senya, please take the food out to our dog.' Barinov picks an emphatic tone across the room, pairing "otnesi" ("take") with "yedu" ("am driving") to get the point across in plain spoken Russian.
+- 'Viktoriya Sergeyevna said that we cannot go outside.' Max takes a frank tone toward Eva, building the phrase around "skazala" ("told") and "nelzya" ("not allowed") for a crisp, natural delivery.
+- 'Here only I decide what is allowed!' Barinov strikes an emphatic note in the room, weaving "zdes" ("here") together with "tolko" ("only") just the way native speakers do.
+- 'Chef, you decide here, but she is the one who fines us.' Max displays a firm line at this moment, anchoring the Russian line on "reshayete" ("to decide, to solve") and "tut" ("here") without extra filler.
+- 'Kitchen, attention! Everyone remember my words!' Barinov favors a natural posture in this beat, putting "kukhnya" ("kitchen") alongside "vnimaniye" ("attention") in a tight, everyday turn of phrase.
+- 'Nobody has the right to change anything here!' Barinov projects a pointed angle beside Max, doubling the negative with "ne" ("not") and "imeyet" ("has"), which is standard and required in Russian.
+- 'Is everything alright with you? Well, no!' Barinov challenges candidly without a pause, linking "poryadke" ("order") directly with "vas" ("you"), since Russian drops "is" and "are" in the present.
+- 'Your new turnstile, you see, suddenly broke.' Barinov projects a steady tone in their talk, leaning on "novyy" ("new") before closing the thought with "turniket" ("turnstile").

@@ -19,21 +19,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Лёва | Виктор Петрович, помогите мне переставить рассаду. | Viktor Petrovich, help me move the seedlings. | #227: Виктор Петрович, вы не | adapted: adapted |
 | 8 | Шеф | Конечно, вы знаете, как я обожаю рассаду! | Of course, you know how much I adore seedlings! | #229: Вы же знаете, как | adapted: adapted |
 | 9 | Шеф | Вера Ивановна, сейчас я вам всё объясню. | Vera Ivanovna, I will explain everything to you right now. | #230: Я вам все объясню. | adapted: adapted |
-| 10 | Лёва | Не надо, я уже сама всё поняла! | No need, I already figured everything out myself! | #231: Я уже давно все | adapted: adapted |
-| 11 | Лёва | Значит, мой Лёва наконец нашёл себе девушку! | So, my Lyova has finally found himself a girlfriend! | #232: Значит, Лева нашел себе | adapted: adapted |
+| 10 | Ева | Не надо, я уже сама всё поняла! | No need, I already figured everything out myself! | #231: Я уже давно все | adapted: adapted |
+| 11 | Шеф | Значит, мой Лёва наконец нашёл себе девушку! | So, my Lyova has finally found himself a girlfriend! | #232: Значит, Лева нашел себе | adapted: adapted |
 | 12 | Шеф | Да, только Лёва просил пока молчать! | Yes, only Lyova asked to keep quiet for now! | #235: Только Лёва просил вам | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Leave some room for the cutlets and compote too.' Eva explains that Barinov should leave some room for the cutlets and compote, keeping her voice calm and direct.
-- 'Eva, and when did you find time to make all this?' Wondering when Barinov finds time to make all this cuts straight through the tension between Lyova and Barinov.
-- 'Our Eva is very quick and skillful in general.' Adding that their Eva is very quick and skillful in general fills in the missing piece for Eva.
-- 'You have probably settled into Moscow completely by now?' Lyova asks whether Barinov has probably settled into Moscow completely by now, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Over two years in Moscow I have already gotten used to it!' Because over two years in Moscow she has already gotten used to it, Eva does not bother softening the blow for Barinov.
-- 'Wait, what do you mean over two years?' Asking what Barinov means over two years cuts straight through the tension between Lyova and Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Viktor Petrovich, help me move the seedlings.' Mentioning that Barinov should help him move the seedlings moves the talk in a new direction.
-- 'Of course, you know how much I adore seedlings!' Over the point and the secret, Barinov lets his real feelings show.
-- 'Vera Ivanovna, I will explain everything to you right now.' Explaining that Vera Ivanovna he will explain everything to Eva right now lays the cards on the table for Eva. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'No need, I already figured everything out myself!' Needing he already figured everything out himself shows Lyova is done holding back. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'So, my Lyova has finally found himself a girlfriend!' Lyova declares that his Lyova has finally found himself a girlfriend as the tension in the room peaks.
-- 'Yes, only Lyova asked to keep quiet for now!' Because only Lyova asked to keep quiet for now, Barinov does not bother softening the blow for Eva. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Leave some room for the cutlets and compote too.' Eva projects a pointed note in the conversation, using "ostavte" (from "ostavit", "leave") alongside "yeshchyo" ("more, still") to shape the meaning.
+- 'Eva, and when did you find time to make all this?' Lyova challenges naturally as the beat lands, linking "kogda" ("when"), "uspeli" ("to make it"), and "yeva" ("Eva") in one brisk exchange.
+- 'Our Eva is very quick and skillful in general.' Barinov brings a calm stance at this moment, combining the conversational booster "voobshche" ("in general, overall") with "ochen" ("very much") to give the line its natural spoken rhythm.
+- 'You have probably settled into Moscow completely by now?' Lyova queries naturally to Eva here, joining "navernoye" ("probably") to "uzhe" ("already, now") so every word pulls its weight.
+- 'Over two years in Moscow I have already gotten used to it!' Eva chooses an emphatic angle with Barinov, anchoring the Russian line on "goda" ("years") and "uzhe" ("already, now") without extra filler.
+- 'Wait, what do you mean over two years?' Lyova presses promptly in the scene, building the phrase around "podozhdite" ("wait") and "kak" ("how") for a crisp, natural delivery.
+- 'Viktor Petrovich, help me move the seedlings.' Lyova sets a firm tempo during the exchange, combining "pomogite" ("help") and "perestavit" ("to seedlings") so the key meaning lands right away.
+- 'Of course, you know how much I adore seedlings!' Barinov conveys a serious posture without hesitation, leaning on "konechno" ("of course") before closing the thought with "znayete" ("know").
+- 'Vera Ivanovna, I will explain everything to you right now.' Barinov holds a serious angle in their talk, weaving "seychas" ("now") together with "obyasnyu" ("I'll explain") just the way native speakers do.
+- 'No need, I already figured everything out myself!' Eva sustains an unhurried mood at this moment, building the phrase around "nado" ("it is necessary") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'So, my Lyova has finally found himself a girlfriend!' Barinov sets a measured tempo as the scene unfolds, pairing "znachit" ("then, so") with "nakonets" ("at last, finally") to get the point across in plain spoken Russian.
+- 'Yes, only Lyova asked to keep quiet for now!' Barinov brings a serious stance as the scene unfolds, building the phrase around "tolko" ("only") and "prosil" ("ask for") for a crisp, natural delivery.

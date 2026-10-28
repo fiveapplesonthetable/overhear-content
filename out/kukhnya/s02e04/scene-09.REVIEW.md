@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Кристина | Я вас потеряла. | I lost track of you. | #145: Я вас потеряла | verbatim |
-| 2 | Кристина | Простите, Кристина. | Forgive me, Kristina. | #146: Простите, Кристина | verbatim |
+| 2 | Шеф | Простите, Кристина. | Forgive me, Kristina. | #146: Простите, Кристина | verbatim |
 | 3 | Шеф | А вы в курсе? | Are you aware of this? | #147: А вы в курсе | verbatim |
 | 4 | Кристина | Что устроил ваш старый друг? | What your old friend just pulled off? | #147: что устроил ваш старый друг | verbatim |
 | 5 | Шеф | Ты смотри. | Just look at that. | #149: Ты смотри | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I lost track of you.' Saying that she lost track of Barinov is how Kristina sets the tone with Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Forgive me, Kristina.' With the restaurant and work in play, Kristina keeps this short reply brisk and direct.
-- 'Are you aware of this?' Here checking whether Kristina aware of this shows Barinov looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What your old friend just pulled off?' Around the kitchen and work, Kristina wants to know where Barinov really stands. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Just look at that.' With the kitchen and restaurant in play, Barinov keeps this short reply brisk and direct.
-- 'Gentlemen, it was a pleasure meeting you.' Mentioning that it was a pleasure meeting Barinov moves the talk in a new direction.
-- 'See you tomorrow.' Once Kristina should see Kristina tomorrow, Barinov can finally tell Kristina what he means.
-- 'Chef, maybe we should kill him, huh?' Asking whether maybe they should kill him huh puts Barinov right on the defensive.
-- 'Or at least scratch up his car.' Between the kitchen and the work, Barinov gives Kristina a quick, grounded response.
-- 'You know, that sheep's car.' With the boss and revenge in play, Kristina keeps this short reply brisk and direct.
-- 'Leave Volodka alone.' Adding that Kristina should leave alone fills in the missing piece for Kristina.
-- 'It broke the man.' Turning from the boss to the restaurant, Kristina keeps the exchange moving.
-- 'We will see who beats whom.' Barinov explains that they will see who beats, keeping his voice calm and direct.
+- 'I lost track of you.' Kristina sets a sharp tone at once, anchoring the Russian line on "poteryala" ("lost, wasted") and "ya" ("I") without extra filler.
+- 'Forgive me, Kristina.' Barinov establishes a grounded attitude for Kristina, joining "prostite" ("excuse me") to "kristina" ("Kristina") so every word pulls its weight.
+- 'Are you aware of this?' Barinov challenges firmly without hesitation, linking "kurse" ("course, regimen") directly with "vy" ("you"), since Russian drops "is" and "are" in the present.
+- 'What your old friend just pulled off?' Kristina probes sharply across the room, leaning on "ustroil" ("caused") before closing the thought with "staryy" ("old").
+- 'Just look at that.' Barinov displays a candid position at this moment, building the phrase around "smotri" ("look") and "ty" ("you") for a crisp, natural delivery.
+- 'Gentlemen, it was a pleasure meeting you.' Kristina chooses a resolute approach beside Barinov, pairing "poznakomitsya" ("to meet") with "gospoda" ("gentlemen") so the "-sya" ending carries the action.
+- 'See you tomorrow.' Barinov conveys a pointed position as the scene unfolds, joining "zavtra" ("tomorrow") to "do" ("until") so every word pulls its weight.
+- 'Chef, maybe we should kill him, huh?' Kristina inquires dryly to Barinov here, leaning on "mozhet" ("can") before closing the thought with "ubit" ("kill").
+- 'Or at least scratch up his car.' Barinov shows a resolute footing in front of Kristina, linking "mashina" ("a car"), "pokotsa" ("to scratch"), and "ili" ("or") in one brisk exchange.
+- 'You know, that sheep's car.' Kristina brings a wry position as the scene unfolds, pairing "barana" ("ram, sheep") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Leave Volodka alone.' Barinov offers a wry note with Kristina, weaving "ostavte" ("leave") together with "pokoye" ("peace") just the way native speakers do.
+- 'It broke the man.' Kristina chooses a candid approach straight away, combining "slomala" ("to break") and "muzhika" ("man, real man") so the key meaning lands right away.
+- 'We will see who beats whom.' Barinov sustains a pointed line without hesitation, weaving "yeshche" ("still") together with "posmotrim" ("have a look") just the way native speakers do.

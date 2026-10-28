@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, may I have you for a second?' Asking whether may he has Barinov for a second puts Barinov right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Elena Pavlovna, there is a strange person next to you.' Admitting that there is a strange person next to Nagiyev shows Barinov being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Vitya, stop sulking, you are a grown man!' Saying that Barinov should stop sulking Barinov is a grown man is how Nagiyev takes charge of the moment.
-- 'After all, I came to you on business.' Once after all he came to Barinov on business, Nagiyev can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Today important guests will come to my restaurant.' Adding that today important guests will come to his restaurant fills in the missing piece for Barinov.
-- 'They want to see you as the head chef of the restaurant.' Here wanting to see Barinov as the head of the restaurant sets up the next turn in their exchange.
-- 'I will give you ten percent of the order!' Because he will give Barinov ten percent of the order, Nagiyev does not bother softening the blow for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Good, I agree, but I do not need the money.' Mentioning that good he agrees but he does not need the money moves the talk in a new direction.
-- 'As payment I will give you three kicks!' Once as payment he will give Nagiyev three kicks, Barinov makes sure Nagiyev hears every word.
-- 'What, you want to give me three kicks?' Questioning whether what Barinov wants to give him three kicks is how Nagiyev tests Barinov's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, why are you playing the fool again?' By wondering why Barinov playing the fool again is, Nagiyev presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Fine, I agree, just help me out tonight!' Saying that fine he agrees just help him out tonight is how Nagiyev takes charge of the moment.
+- 'Viktor Petrovich, may I have you for a second?' Nagiyev probes naturally during the talk, linking "mozhno" ("may, can"), "sekundu" ("second"), and "viktor" ("Viktor") in one brisk exchange.
+- 'Elena Pavlovna, there is a strange person next to you.' Barinov keeps a grounded note in the scene, combining "ryadom" ("nearby") and "strannyy" ("strange, odd") so the key meaning lands right away.
+- 'Vitya, stop sulking, you are a grown man!' Nagiyev favors a grounded angle for Barinov, using "bros" (from "brosit", "drop it") alongside "obizhatsya" ("feel offended") to shape the meaning.
+- 'After all, I came to you on business.' Nagiyev shows a natural line at this moment, weaving "prishyol" ("came, have come") together with "delu" ("case") just the way native speakers do.
+- 'Today important guests will come to my restaurant.' Nagiyev keeps a playful line beside Barinov, linking "segodnya" ("today"), "restoran" ("restaurant"), and "pridut" ("will come") in one brisk exchange.
+- 'They want to see you as the head chef of the restaurant.' Nagiyev sets an emphatic angle in the conversation, pairing "khotyat" ("want") with "videt" ("to see") to get the point across in plain spoken Russian.
+- 'I will give you ten percent of the order!' Nagiyev sets a wry course at this moment, combining "dam" ("will give") and "protsentov" ("percent") so the key meaning lands right away.
+- 'Good, I agree, but I do not need the money.' Barinov offers a thoughtful attitude in this beat, leaning on "khorosho" ("good, fine") before closing the thought with "soglasen" ("agreed").
+- 'As payment I will give you three kicks!' Barinov takes an unhurried view on the spot, weaving "kachestve" ("quality") together with "platy" ("salary") just the way native speakers do.
+- 'What, you want to give me three kicks?' Nagiyev probes dryly to keep things clear, building the phrase around "khochesh" ("do you want") and "dat" ("to give") for a crisp, natural delivery.
+- 'Vitya, why are you playing the fool again?' Nagiyev checks quietly without holding back, linking "opyat" ("again"), "duraka" ("fool, idiot"), and "valyayesh" ("to again") in one brisk exchange.
+- 'Fine, I agree, just help me out tonight!' Nagiyev projects a pointed mood in front of Barinov, pairing "soglasen" ("agreed") with "tolko" ("only") to get the point across in plain spoken Russian.

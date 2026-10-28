@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to find something new in France.' Here needing to find something new in France sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I think we do not need to change anything yet.' Once she thinks they do not need to change anything yet, Vika can finally tell Barinov what she means. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Stop it, we have a modern restaurant after all!' Telling Barinov to stop it they have a modern restaurant after all is Nagiyev's blunt reaction in front of Barinov.
-- 'We must always move only forward.' Noting that they must always move only forward keeps Nagiyev's side of the story simple and clear.
-- 'There is so much good and beautiful around right now.' Even though there is so much good and beautiful around right now, Nagiyev keeps a steady face in front of Barinov.
-- 'We need to remove the old and not regret it.' By needing to remove the old and not regret it, Nagiyev keeps his side of the story grounded.
-- 'Vika, what do you think about this yourself?' Wondering what Barinov thinks about this themselves cuts straight through the tension between Nagiyev and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, friends, you have written me off too soon!' Once friends Nagiyev has written him off too soon, Barinov makes sure Nagiyev hears every word. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Come on, work faster in my kitchen!' Because Nagiyev should come on work faster in his kitchen, Barinov does not bother softening the blow for Nagiyev.
-- 'Right now your chef is going to cook himself!' Barinov insists that right now Nagiyev's is going to cook himself, leaving Nagiyev no room to argue. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Why did he decide to cook before dinner?' Asking why he decide to cook before dinner cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Here is a new order for Dmitry Vladimirovich.' Mentioning that here is a new order for Dmitry Vladimirovich moves the talk in a new direction.
-- 'Give it here, I will make everything myself!' Saying that Nagiyev should give it here he will make everything himself is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'We need to find something new in France.' Nagiyev sustains an emphatic attitude during the exchange, pairing "nado" ("it is necessary") with "nayti" ("to find") to get the point across in plain spoken Russian.
+- 'I think we do not need to change anything yet.' Vika conveys a steady rhythm for Nagiyev, linking "dumayu" ("I think"), "nado" ("it is necessary"), and "poka" ("bye") in one brisk exchange.
+- 'Stop it, we have a modern restaurant after all!' Nagiyev sustains a serious rhythm across the room, pairing "perestan" ("stop") with "sovremennyy" ("modern") to get the point across in plain spoken Russian.
+- 'We must always move only forward.' Nagiyev shares a serious view across the room, combining "dolzhny" ("must, should") and "vsegda" ("always") so the key meaning lands right away.
+- 'There is so much good and beautiful around right now.' Nagiyev holds a natural mood as the scene unfolds, pairing "seychas" ("now") with "stolko" ("so many") to get the point across in plain spoken Russian.
+- 'We need to remove the old and not regret it.' Nagiyev establishes an earnest view at this moment, linking "nado" ("it is necessary"), "ubrat" ("to remove, to cut out"), and "staroye" ("old") in one brisk exchange.
+- 'Vika, what do you think about this yourself?' Nagiyev questions naturally to keep things clear, anchoring the Russian line on "kak" ("how") and "dumayesh" ("think") without extra filler.
+- 'No, friends, you have written me off too soon!' Barinov displays a direct tone at once, pairing "druzya" ("friends") with "rano" ("early, young") to get the point across in plain spoken Russian.
+- 'Come on, work faster in my kitchen!' Barinov sustains a steady view across the room, joining "davayte" ("let's") to "rabotayte" ("work") so every word pulls its weight.
+- 'Right now your chef is going to cook himself!' Barinov sets a playful mood as they talk, pairing "seychas" ("now") with "gotovit" ("to cook") so the "-sya" ending carries the action.
+- 'Why did he decide to cook before dinner?' Vika queries decisively without hesitation, building the phrase around "pochemu" ("why") and "reshil" ("has decided") for a crisp, natural delivery.
+- 'Here is a new order for Dmitry Vladimirovich.' Vika sets an emphatic note during the exchange, building the phrase around "novyy" ("new") and "zakaz" ("order") for a crisp, natural delivery.
+- 'Give it here, I will make everything myself!' Barinov maintains a frank angle for Nagiyev, anchoring the Russian line on "day" ("give") and "syuda" ("here") without extra filler.

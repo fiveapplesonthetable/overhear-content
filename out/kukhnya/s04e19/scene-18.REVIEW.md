@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Виктор, это было очень вкусно и талантливо. | Viktor, that was very tasty and talented. | #263: Виктор, Виктор, вкусно, пронзительно, талантливо | adapted: adapted |
-| 2 | Нагиев | Была бы моя воля, вы бы выиграли. | If it were up to me, you would win. | #264: Была бы моя воля, вы бы уже выиграли | adapted: adapted |
+| 2 | Вика | Была бы моя воля, вы бы выиграли. | If it were up to me, you would win. | #264: Была бы моя воля, вы бы уже выиграли | adapted: adapted |
 | 3 | Нагиев | Но тут есть один маленький момент. | But there is one small catch here. | #265: Но есть нюанс | adapted: adapted |
 | 4 | Нагиев | К сожалению, мы уже набрали всех участников. | Unfortunately, we have already selected all the contestants. | #266: сожалению<br>#267: уже набрали участников на второй тур | adapted: adapted |
 | 5 | Нагиев | На второй тур больше мест нет. | There are no more spots for the second round. | #267: на второй тур | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, that was very tasty and talented.' Once that was very tasty and talented, Nagiyev can finally tell Barinov what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'If it were up to me, you would win.' Adding that if it were up to him Barinov would win fills in the missing piece for Barinov.
-- 'But there is one small catch here.' Saying that there is one small catch here is how Nagiyev sets the tone with Barinov.
-- 'Unfortunately, we have already selected all the contestants.' Since they have already selected all the contestants, Nagiyev does not waste words on excuses.
-- 'There are no more spots for the second round.' Mentioning that there are no more spots for the second round moves the talk in a new direction.
-- 'Sometimes life can be very unfair, friends.' Nagiyev reminds Barinov that sometimes life can be very unfair before the moment passes.
-- 'But life is life, and show business is show business.' Because life is life and show business is show business, Nagiyev treats the matter as settled.
-- 'We will meet with you in a week, bye!' Nagiyev declares that they will meet with Barinov in a week bye as the tension in the room peaks.
-- 'Cut! Dima, what are you doing right now?' Wondering if Dima what are Nagiyev doing right now shows Barinov caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What rules? We definitely have to take him!' Asking whether they definitely have to take him puts Nagiyev right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'No, we cannot take him into the show at all!' Nagiyev insists that they cannot take him into the show at all, leaving Barinov no room to argue.
-- 'But that dish was simply brilliant!' Declaring that that dish was simply brilliant brings Barinov's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Viktor, that was very tasty and talented.' Nagiyev favors a grounded posture without hesitation, linking "bylo" ("was"), "ochen" ("very much"), and "vkusno" ("it's tasty") in one brisk exchange.
+- 'If it were up to me, you would win.' Vika strikes an honest line in their talk, weaving "byla" ("was") together with "volya" ("willpower") just the way native speakers do.
+- 'But there is one small catch here.' Nagiyev shares a pointed note with Barinov, pairing "tut" ("here") with "yest" ("there is") to get the point across in plain spoken Russian.
+- 'Unfortunately, we have already selected all the contestants.' Nagiyev projects an unhurried angle at once, linking "sozhaleniyu" ("regret"), "uzhe" ("already, now"), and "nabrali" ("to gather, rack up") in one brisk exchange.
+- 'There are no more spots for the second round.' Nagiyev shares an emphatic bearing across the room, placing "vtoroy" ("second") straight beside "tur" ("round") with no word for "to be" needed.
+- 'Sometimes life can be very unfair, friends.' Nagiyev maintains an unhurried posture straight away, joining "inogda" ("sometimes, at times") to "zhizn" ("life") so every word pulls its weight.
+- 'But life is life, and show business is show business.' Nagiyev sets a lively attitude at once, joining "zhizn" ("life") to "yest" ("there is") so every word pulls its weight.
+- 'We will meet with you in a week, bye!' Nagiyev takes an honest bearing at once, pairing "vstretimsya" ("we'll meet") with "nedelyu" ("for a week") so the "-sya" ending carries the action.
+- 'Cut! Dima, what are you doing right now?' Barinov asks evenly as the talk turns, weaving "snyato" ("filmed, that's a wrap") together with "seychas" ("now") just the way native speakers do.
+- 'What rules? We definitely have to take him!' Barinov queries naturally in the scene, anchoring the Russian line on "pravila" ("rules") and "obyazatelno" ("surely, without fail") without extra filler.
+- 'No, we cannot take him into the show at all!' Nagiyev presents a steady footing in front of Barinov, combining "voobshche" ("at all") and "nelzya" ("not allowed") so the key meaning lands right away.
+- 'But that dish was simply brilliant!' Barinov shows a clear approach beside Vika, building the phrase around "blyudo" ("dish") and "bylo" ("was") for a crisp, natural delivery.

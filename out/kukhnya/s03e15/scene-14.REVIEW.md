@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, please come to the window!' Declaring that Vika should come to the window brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, do you not want to see me at all?' Here asking whether Vika not want to see him at all shows Max looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, then at least just say goodbye to me.' Between the situation and the plan, Max gives Vika a quick, grounded response.
-- 'Aha, are you playing hide-and-seek with me?' Questioning whether Aha are Vika playing hide and seek with him is how Max tests Vika's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You are acting just like in kindergarten!' Max declares that Vika is acting just like in kindergarten as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And look who is talking right now!' Because who is talking right now, Vika does not bother softening the blow for Max.
-- 'And I could have fallen from here at any moment.' Once he could have fallen from here at any moment, Max can finally tell Vika what he means.
-- 'Look, if I fall, it will be on your conscience!' Once if he falls it will be on Vika's conscience, Max makes sure Vika hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Max, you fool, what are you doing out there!' Declaring that Max fool what are Max doing out there brings Vika's temper right to the surface.
-- 'Do not worry, everything is secure here.' Since do not worry everything is secure here, Max does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Be careful, Max, hold on tight!' With the situation and kitchen at stake, Vika reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Good Lord, Max, did you fall!' Vika declares that good Max did Max falls as the tension in the room peaks.
+- 'Vika, please come to the window!' Max shows a firm angle in their talk, building the phrase around "podoydi" ("approach, go up") and "oknu" ("the window") for a crisp, natural delivery.
+- 'Well, do you not want to see me at all?' Max inquires frankly during the talk, leaning on "sovsem" ("at all") before closing the thought with "khochesh" ("do you want").
+- 'Alright, then at least just say goodbye to me.' Max holds a direct stance in the scene, pairing "proshchaysya" ("say goodbye") with "togda" ("back then") so the "-sya" ending carries the action.
+- 'Aha, are you playing hide-and-seek with me?' Max questions naturally during the talk, anchoring the Russian line on "pryatki" ("hide-and-seek") and "igrayesh" ("to play") without extra filler.
+- 'You are acting just like in kindergarten!' Max strikes a lively approach at this moment, linking "vedyosh" ("are leading"), "pryamo" ("right, just"), and "kak" ("how") in one brisk exchange.
+- 'And look who is talking right now!' Vika favors a serious bearing in front of Max, building the phrase around "seychas" ("now") and "govoril" ("said, were saying") for a crisp, natural delivery.
+- 'And I could have fallen from here at any moment.' Max sustains a clear attitude with Vika, linking "lyuboy" ("any"), "moment" ("moment"), and "mog" ("can, to be able") in one brisk exchange.
+- 'Look, if I fall, it will be on your conscience!' Max takes a direct course in the scene, joining "smotri" ("look") to "upadu" ("to fall, to drop") so every word pulls its weight.
+- 'Max, you fool, what are you doing out there!' Vika projects a clear direction at once, pairing "durak" ("fool, idiot") with "tam" ("there") to get the point across in plain spoken Russian.
+- 'Do not worry, everything is secure here.' Max shows a serious posture at once, building the phrase around "volnuysya" ("worry") and "zdes" ("here") for a crisp, natural delivery.
+- 'Be careful, Max, hold on tight!' Vika presents an honest tone in the room, pairing "derzhis" ("hang in there") with "ostorozhno" ("careful, carefully") so the "-sya" ending carries the action.
+- 'Good Lord, Max, did you fall!' Vika offers an unhurried note as they talk, building the phrase around "upal" ("fell") and "gospodi" ("Good Lord") for a crisp, natural delivery.

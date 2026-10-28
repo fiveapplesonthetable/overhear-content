@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For my own money you want to send me to a mental clinic?' Katya asks whether for her own money Senya wants to send her to a mental clinic, refusing to let the point slide.
-- 'Leave my office immediately, you are fired!' Telling Senya to leave her office immediately Senya is fired is Katya's blunt reaction in front of Senya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'As I understand it, she did not agree again.' Even though as he understands it she did not agree again, Senya keeps a steady face in front of Katya.
-- 'Sveta, hi, may I have you for one minute?' Questioning whether may she has Senya for one minute is how Katya tests Senya's story.
-- 'Listen, is there something going on between you and Denis?' By checking whether there something going on between Senya and Denis, Katya presses Senya for a straight answer. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And what difference does that even make to you?' Sveta asks whether what difference does that even make to Katya, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Since I am asking, that means it makes a difference to me.' Adding that since she is asking that means it makes a difference fills in the missing piece for Senya.
-- 'First of all, it is none of your personal business at all.' Sveta tells Katya that first of all it is none of Katya's personal business at all without dressing it up. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And second of all, yes, he and I are dating.' Since second of all yes he and she are dating, Sveta does not waste words on excuses.
-- 'What, now you will tell your mom to fire me?' When Sveta asks if what now Katya will tell Katya's to fire, Katya has to answer fast.
-- 'If you are coming to my birthday, we are gifting money.' Saying that if Katya is coming to his birthday they are gifting money is how Senya sets the tone with Katya.
-- 'Alright, as girls you can chip in a bit less.' Because Alright as girls Katya can chip in a bit less, Senya treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'For my own money you want to send me to a mental clinic?' Katya answers boldly in front of Senya, combining "dengi" ("money") and "khochesh" ("do you want") so the key meaning lands right away.
+- 'Leave my office immediately, you are fired!' Katya adopts a resolute direction as the scene unfolds, building the phrase around "nemedlenno" ("immediately") and "ukhodi" ("go away") for a crisp, natural delivery.
+- 'As I understand it, she did not agree again.' Senya conveys an easygoing tempo at this moment, putting "ponimayu" ("understand") alongside "snova" ("again") in a tight, everyday turn of phrase.
+- 'Sveta, hi, may I have you for one minute?' Katya challenges directly with Sveta now, weaving "sveta" ("electricity") together with "mozhno" ("may, can") just the way native speakers do.
+- 'Listen, is there something going on between you and Denis?' Katya questions earnestly from the start, combining "slushay" ("listen") and "denisom" ("time") so the key meaning lands right away.
+- 'And what difference does that even make to you?' Sveta presses dryly at this point, anchoring the Russian line on "voobshche" ("at all") and "raznitsa" ("difference") without extra filler.
+- 'Since I am asking, that means it makes a difference to me.' Katya offers a wry bearing for Senya, combining "raz" ("time, once") and "sprashivayu" ("am asking") so the key meaning lands right away.
+- 'First of all, it is none of your personal business at all.' Sveta offers a candid bearing in their talk, joining "vo-pervykh" ("first of all") to "sovershenno" ("quite, completely") so every word pulls its weight.
+- 'And second of all, yes, he and I are dating.' Sveta sets an unhurried footing beside Katya, anchoring the Russian line on "vo-vtorykh" ("second") and "vstrechayemsya" ("have been going out") without extra filler.
+- 'What, now you will tell your mom to fire me?' Sveta inquires decisively beside Senya, building the phrase around "teper" ("now") and "skazhesh" ("will you say") for a crisp, natural delivery.
+- 'If you are coming to my birthday, we are gifting money.' Senya shows a firm stance with Katya, weaving "idyote" ("to go") together with "den" ("day") just the way native speakers do.
+- 'Alright, as girls you can chip in a bit less.' Senya brings a lively rhythm in the conversation, pairing "kak" ("how") with "devushkam" ("girl, young woman") to get the point across in plain spoken Russian.

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
 INTRO = 'When German wakes up on his office floor, the chefs quickly convince him he fainted from magnetic storms, while across town Max discovers he brought the wrong toddler home.'
 OPENER = "Let's examine each line as German wakes up and Max calls Kostya in a panic."
 TRANSITION = 'Now listen to the entire exchange again at natural speed.'
-OUTRO = "Listen for how Russian asks 'do you feel better?' in just two words using the dative pronoun and the comparative adverb. See you next time!"
+OUTRO = "Listen for how Russian asks 'do you feel better?' in just two words using the indirect form and the comparison word. See you next time!"
 CLOSING = ('senya', 'До завтра!')
 STORY = [
     ('senya', 'Герман Михайлович, вам лучше?', 'German Mikhailovich, do you feel better?', [(160, 'Герман Михайлович, вам лучше')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'И майка у него с пауком.', 'And he has a shirt with a spider.', [(174, 'и майка у него с')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, '\'German Mikhailovich, do you feel better?\' Asking whether German feels better cuts straight through the tension between Senya and German. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (1, None, "'You fell into a faint.' Explaining that German fell into a faint lays the cards on the table for German."),
-    (2, None, '\'What happened to me?\' Over the police and the apartment, German presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (3, None, "'There are strong magnetic storms today.' Claiming that there are strong magnetic storms today sounds confident, even if German has doubts."),
-    (4, None, "'Was I knocked out for a long time?' Checking whether he knocked out for a long time cuts straight through the tension between German and Max."),
-    (5, None, "'I am going to drive away for a bit now.' Saying that he is going to drive away for a bit now is how German sets the tone with Max."),
-    (6, None, "'Hello, Kostya, call Nastya's dad.' Realizing that German should call Nastya dad changes how Max handles the situation."),
-    (7, None, "'Have him drive back here.' Noting that have him drive back here keeps Max's side of the story simple and clear."),
-    (8, None, "'Styopa forgot his mask at home.' Even though Styopa forgot his mask at home, Max keeps a steady face in front of German."),
-    (9, None, "'It is better to bring him back right now.' Admitting that it is better to bring him back right now shows Max being honest for a change."),
-    (10, None, "'There is a boy here, two years old, named Roma.' Saying that there is a boy here two years old named Roma is how Max sets the tone with German."),
-    (11, None, '\'And he has a shirt with a spider.\' Explaining that he has a shirt with a spider lays the cards on the table for German. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (0, None, '\'German Mikhailovich, do you feel better?\' Senya prompts naturally without holding back, combining "luchshe" ("better") and "german" ("German") so the key meaning lands right away.'),
+    (1, None, '\'You fell into a faint.\' Senya shows a calm attitude in the conversation, leaning on "obmorok" ("faint") before closing the thought with "upali" ("to fall, to drop").'),
+    (2, None, '\'What happened to me?\' German checks candidly from the start, anchoring the Russian line on "sluchilos" ("happened") and "chto" ("what") without extra filler.'),
+    (3, None, '\'There are strong magnetic storms today.\' Senya strikes an unhurried attitude at this moment, weaving "segodnya" ("today") together with "magnitnyye" ("magnetic") just the way native speakers do.'),
+    (4, None, '\'Was I knocked out for a long time?\' German inquires honestly to keep things clear, putting "dolgo" ("for a long time") alongside "otklyuchke" ("time") in a tight, everyday turn of phrase.'),
+    (5, None, '\'I am going to drive away for a bit now.\' German strikes a brisk direction in the room, putting "seychas" ("now") alongside "nenadolgo" ("for a short time") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Hello, Kostya, call Nastya\'s dad.\' Max shares a thoughtful footing as they talk, combining "zvoni" ("call") and "pape" ("to Dad") so the key meaning lands right away.'),
+    (7, None, '\'Have him drive back here.\' Max offers a sharp angle in the scene, weaving "obratno" ("back") together with "yedet" ("is going") just the way native speakers do.'),
+    (8, None, '\'Styopa forgot his mask at home.\' Max presents a steady course in this beat, linking "styopa" ("styopa"), "masku" ("mask"), and "doma" ("at home") in one brisk exchange.'),
+    (9, None, '\'It is better to bring him back right now.\' Max displays a resolute note during the exchange, combining "luchshe" ("better") and "privezti" ("to bring") so the key meaning lands right away.'),
+    (10, None, '\'There is a boy here, two years old, named Roma.\' Max presents a natural course right away, leaning on "tut" ("here") before closing the thought with "malchik" ("boy").'),
+    (11, None, '\'And he has a shirt with a spider.\' Max sets an emphatic manner toward Senya, leaning on "mayka" ("spider") before closing the thought with "paukom" ("spider").'),
 ]

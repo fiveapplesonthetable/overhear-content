@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, what happened, and where is Senya right now?' Wondering if what happened and where is Senya right now shows Denis caught off guard.
-- 'He is in the bathroom right now, and I stopped in to see you.' Marina mentions that he is in the bathroom right now and she stopped in to see Denis so Denis sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You must know that you are not alone now!' Marina insists that Denis must know that Denis is not alone now, leaving Denis no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Thank you very much, but you do not need to help me!' Saying that very much but Marina does not need to help him is how Denis takes charge of the moment.
-- 'Do not be so afraid, you will feel better right away!' Marina declares that do not be so afraid Denis will feel better right away as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Senya and I will help you start a new life.' Admitting that Senya and she will help Denis starts a new life shows Marina being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Listen, when we made our deal, Senya kept quiet about this!' Insisting that when they made their deal Senya kept quiet about this shows Denis is not backing down.
-- 'On such strange terms I refuse to rent the room!' Once on such strange terms he refuses to rent the room, Denis makes sure Marina hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Senya, come here, is he renting a room from us?' Marina asks whether come here is he renting a room from them, refusing to let the point slide. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'No, Marina, he is simply living with us for free!' Once he is simply living with them for free, Senya makes sure Denis hears every word.
-- 'Some 'simply', for twenty-five thousand rubles!' With the moment and situation at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Marina, calm down, I will explain everything honestly to you right now!' Here telling Denis to calm down he will explain everything honestly to Denis right now lets Senya's real feelings break through. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Marina, what happened, and where is Senya right now?' Denis quizzes promptly to keep things clear, anchoring the Russian line on "sluchilos" ("happened") and "gde" ("where") without extra filler.
+- 'He is in the bathroom right now, and I stopped in to see you.' Marina picks an emphatic style right away, anchoring the Russian line on "seychas" ("now") and "vannoy" ("bathtub, bath") without extra filler.
+- 'You must know that you are not alone now!' Marina shares a brisk bearing with Denis, linking "dolzhen" ("has to, must"), "znat" ("to know"), and "teper" ("now") in one brisk exchange.
+- 'Thank you very much, but you do not need to help me!' Denis sets a calm line for Senya, leaning on "spasibo" ("thank you") before closing the thought with "bolshoye" ("big, very much").
+- 'Do not be so afraid, you will feel better right away!' Marina offers a clear approach as the scene unfolds, anchoring the Russian line on "boysya" ("be afraid") and "stanet" ("will become") without extra filler.
+- 'Senya and I will help you start a new life.' Marina offers an honest tack with Senya, linking "seney" ("start"), "pomozhem" ("will help"), and "nachat" ("to begin, to start") in one brisk exchange.
+- 'Listen, when we made our deal, Senya kept quiet about this!' Denis shows a wry note with Marina, pairing "slushayte" ("listen") with "kogda" ("when") to get the point across in plain spoken Russian.
+- 'On such strange terms I refuse to rent the room!' Denis displays a playful stance without hesitation, pairing "strannykh" ("strange") with "usloviyakh" ("conditions") to get the point across in plain spoken Russian.
+- 'Senya, come here, is he renting a room from us?' Marina queries wryly on the spot, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.
+- 'No, Marina, he is simply living with us for free!' Senya offers a calm manner across the room, linking "prosto" ("just"), "besplatno" ("for free"), and "zhivyot" ("lives") in one brisk exchange.
+- 'Some 'simply', for twenty-five thousand rubles!' Denis displays a firm tone straight away, combining "prosto" ("just") and "tysyach" ("thousand") so the key meaning lands right away.
+- 'Marina, calm down, I will explain everything honestly to you right now!' Senya maintains a thoughtful view as they talk, linking "uspokoysya" ("calm down"), "seychas" ("now"), and "chestno" ("honestly") in one brisk exchange.

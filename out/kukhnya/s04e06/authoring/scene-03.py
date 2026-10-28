@@ -7,7 +7,7 @@ SCENE = 3
 TITLE = 'Примирительный ужин  (Reconciliation Dinner)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'fedya': 'Федя', 'max': 'Макс', 'senya': 'Сеня'}
+LABELS = {'max': 'Макс', 'senya': 'Сеня', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.06'
 SOURCE_FILE = 'sources/kukhnya/s04/e06.ru.srt'
 INTRO = 'At Claude Monet, Vika walks right past Max without a word, still angry about the gaming rifle. In the kitchen, Max accidentally knocks over a plate of kidneys that Senya was saving for a romantic dinner with his wife, sparking an idea for how Max can win Vika back.'
@@ -22,24 +22,24 @@ STORY = [
     ('senya', 'Да это просто сырые почки разморозились.', 'Oh, those are just raw kidneys that thawed out.', [(38, 'Да че, почки.'), (40, 'Разморозились, че.')], 'adapted'),
     ('senya', 'Вот досада, это мой примирительный ужин!', 'What a nuisance, that was my reconciliation dinner!', [(41, 'это ж мой примирительный ужин.')], 'adapted'),
     ('max', 'Прости, какой ещё примирительный ужин?', 'Excuse me, what kind of reconciliation dinner?', [(42, 'Какой? Примирительный.')], 'adapted'),
-    ('fedya', 'Он вчера сильно поссорился со своей женой.', 'He had a big quarrel with his wife yesterday.', [(43, 'Да с женой он поссорился с Маринкой.')], 'adapted'),
-    ('fedya', 'И теперь хочет вкусным ужином вымолить прощение.', 'And now he wants to beg forgiveness with a tasty dinner.', [(44, 'Хочет ужину все прощения вымолить.')], 'adapted'),
+    ('vika', 'Он вчера сильно поссорился со своей женой.', 'He had a big quarrel with his wife yesterday.', [(43, 'Да с женой он поссорился с Маринкой.')], 'adapted'),
+    ('vika', 'И теперь хочет вкусным ужином вымолить прощение.', 'And now he wants to beg forgiveness with a tasty dinner.', [(44, 'Хочет ужину все прощения вымолить.')], 'adapted'),
     ('senya', 'Свечи, вино и почки никогда не подводили!', 'Candles, wine, and kidneys have never let me down!', [(45, 'Свечи, вино, запеченные почки ни разу меня не подводили.')], 'adapted'),
-    ('fedya', 'Кроме случая, когда ты приготовил протухшие почки!', 'Except the time when you cooked spoiled kidneys!', [(46, 'когда ты приготовил протухшие почки.')], 'adapted'),
+    ('vika', 'Кроме случая, когда ты приготовил протухшие почки!', 'Except the time when you cooked spoiled kidneys!', [(46, 'когда ты приготовил протухшие почки.')], 'adapted'),
     ('max', 'Я тоже хочу устроить романтический вечер.', 'I also want to arrange a romantic evening.', [(48, 'Если ты тоже хочешь устроить что-нибудь романтическое')], 'adapted'),
     ('max', 'Денис сегодня подольше задержится в кино.', 'Denis will stay longer at the cinema today.', [(49, 'я могу сегодня подольше в кино задержаться.')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Vika, wait a moment, let\'s talk calmly.\' Adding that a moment let them talk calmly fills in the missing piece for Fedya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (1, None, "'Are you angry because of that rifle from yesterday?' Asking whether Fedya angry because of that rifle from yesterday is how Max puts Fedya on the spot."),
-    (2, None, '\'Senya, why do you have blood here?\' Here asking why Fedya has blood here shows Max looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (3, None, '\'Oh, those are just raw kidneys that thawed out.\' Mentioning that those are just raw kidneys that thawed out moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (4, None, "'What a nuisance, that was my reconciliation dinner!' Once what a nuisance that was his reconciliation dinner, Senya makes sure Fedya hears every word."),
-    (5, None, '\'Excuse me, what kind of reconciliation dinner?\' With the work and dinner hanging in the air, Max puts Fedya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (6, None, "'He had a big quarrel with his wife yesterday.' Explaining that he had a big quarrel with his wife yesterday lays the cards on the table for Max."),
-    (7, None, "'And now he wants to beg forgiveness with a tasty dinner.' Fedya tells Max that he wants to beg forgiveness with a tasty dinner without dressing it up."),
-    (8, None, '\'Candles, wine, and kidneys have never let me down!\' Senya declares that candles wine and kidneys have never let him down as the tension in the room peaks. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (9, None, '\'Except the time when you cooked spoiled kidneys!\' With the work and dinner at stake, Fedya reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (10, None, "'I also want to arrange a romantic evening.' Max explains that he also wants to arrange a romantic evening, keeping his voice calm and direct."),
-    (11, None, "'Denis will stay longer at the cinema today.' Realizing that Denis will stay longer at the cinema today changes how Max handles the situation."),
+    (0, None, '\'Vika, wait a moment, let\'s talk calmly.\' Max brings a steady line straight away, using "podozhdi" (from "podozhdat", "wait") alongside "davay" ("let\'s") to shape the meaning.'),
+    (1, None, '\'Are you angry because of that rifle from yesterday?\' Max checks openly without holding back, joining "zlishsya" ("to be angry") to "vcherashnego" ("yesterday\'s") so every word pulls its weight.'),
+    (2, None, '\'Senya, why do you have blood here?\' Max questions calmly at this point, building the phrase around "pochemu" ("why") and "zdes" ("here") for a crisp, natural delivery.'),
+    (3, None, '\'Oh, those are just raw kidneys that thawed out.\' Senya sets a sharp course right away, combining the softening word "prosto" ("simply, just") with "syryye" ("raw, damp") to give the line its natural spoken rhythm.'),
+    (4, None, '\'What a nuisance, that was my reconciliation dinner!\' Senya chooses a pointed note in this beat, building the phrase around "dosada" ("annoyance, shame") and "primiritelnyy" ("dinner") for a crisp, natural delivery.'),
+    (5, None, '\'Excuse me, what kind of reconciliation dinner?\' Max prompts wryly from the start, linking "prosti" ("sorry, forgive me"), "yeshchyo" ("more, still"), and "primiritelnyy" ("dinner") in one brisk exchange.'),
+    (6, None, '\'He had a big quarrel with his wife yesterday.\' Vika projects a grounded mood across the room, joining "vchera" ("yesterday") to "silno" ("strongly, much") so every word pulls its weight.'),
+    (7, None, '\'And now he wants to beg forgiveness with a tasty dinner.\' Vika conveys a brisk footing in front of Senya, joining "teper" ("now") to "khochet" ("wants") so every word pulls its weight.'),
+    (8, None, '\'Candles, wine, and kidneys have never let me down!\' Senya strikes a direct manner during the exchange, using "svechi" (from "svecha", "candles") alongside "vino" ("wine") to shape the meaning.'),
+    (9, None, '\'Except the time when you cooked spoiled kidneys!\' Vika displays a natural posture without hesitation, combining "sluchaya" ("case, occasion") and "kogda" ("when") so the key meaning lands right away.'),
+    (10, None, '\'I also want to arrange a romantic evening.\' Max picks an unhurried angle without hesitation, combining "tozhe" ("too") and "khochu" ("want") so the key meaning lands right away.'),
+    (11, None, '\'Denis will stay longer at the cinema today.\' Max displays an unhurried bearing for Vika, pairing "segodnya" ("today") with "podolshe" ("longer") to get the point across in plain spoken Russian.'),
 ]

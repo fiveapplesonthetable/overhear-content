@@ -17,7 +17,7 @@ OUTRO = "Touched by Nikita's romantic imagination, Katya smiles as he hands back
 CLOSING = ('nikita', 'Всего хорошего!')
 STORY = [
     ('barinov', 'Дима, а где вторые ключи от машины?', 'Dima, where is the second set of keys to the car?', [(311, 'Дим, а где вторые ключи от машины')], 'adapted'),
-    ('nagiyev', 'Дима никогда слов на ветер не бросает.', 'Dima never throws words to the wind.', [(313, 'Дима слов на ветер не бросает')], 'adapted'),
+    ('nikita', 'Дима никогда слов на ветер не бросает.', 'Dima never throws words to the wind.', [(313, 'Дима слов на ветер не бросает')], 'adapted'),
     ('nagiyev', 'Витюша, держи второй ключ, тачка твоя.', 'Vityusha, take the second key, the car is yours.', [(314, 'тачка твоя'), (315, 'Второй ключ')], 'adapted'),
     ('nagiyev', 'Ах ты хитрец, свою же машину угнал!', 'Oh you schemer, you stole your own car!', [(317, 'Свою же машину угнал')], 'adapted'),
     ('barinov', 'Ведь я для нашей общей судьбы старался.', 'After all, I was doing it for our shared destiny.', [(318, 'Ведь я для тебя это делал'), (319, 'Для твоей судьбы')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('nikita', 'А потом тебе бы вернули пропажу.', 'And then they would have returned your missing hat.', [(332, 'тебе бы вернули пропажу')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Dima, where is the second set of keys to the car?' By wondering where the second set of keys to the car is, Barinov presses Nagiyev for a straight answer."),
-    (1, None, '\'Dima never throws words to the wind.\' Because Dima never throws words to the wind, Nagiyev treats the matter as settled. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (2, None, '\'Vityusha, take the second key, the car is yours.\' Explaining that someone take the second key the car is lays the cards on the table for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (3, None, "'Oh you schemer, you stole your own car!' Declaring that Barinov schemer Barinov stole Barinov's own car brings Nagiyev's temper right to the surface."),
-    (4, None, "'After all, I was doing it for our shared destiny.' Claiming that after all he was doing it for their shared destiny sounds confident, even if Nagiyev has doubts."),
-    (5, None, '\'Get out of my restaurant!\' Here getting out of his restaurant lets Nagiyev\'s real feelings break through. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (6, None, "'It is a pity, of course, that everything fell through today.' Noting that it is a pity of course that everything fell through today keeps Nikita's side of the story simple and clear."),
-    (7, None, "'I spent three whole days preparing for this.' Realizing that he spent three whole days preparing for this changes how Nikita handles the situation."),
-    (8, None, "'To start with, we would have sat down on a bench.' Noting that to start with they would have sat down on a bench keeps Nikita's side of the story simple and clear."),
-    (9, None, "'Then fairy lights would have lit up around us.' Even though fairy lights would have lit up around them, Nikita keeps a steady face in front of Barinov."),
-    (10, None, "'And they would have served us hot mulled wine.' Admitting that they would have served them hot mulled wine shows Nikita being honest for a change."),
-    (11, None, '\'And then they would have returned your missing hat.\' Saying that they would have returned Barinov\'s missing hat is how Nikita sets the tone with Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
+    (0, None, '\'Dima, where is the second set of keys to the car?\' Barinov queries evenly for Nagiyev\'s benefit, weaving "gde" ("where") together with "vtoryye" ("a second") just the way native speakers do.'),
+    (1, None, '\'Dima never throws words to the wind.\' Nikita shows a thoughtful tempo at once, weaving "nikogda" ("never") together with "slov" ("words") just the way native speakers do.'),
+    (2, None, '\'Vityusha, take the second key, the car is yours.\' Nagiyev keeps a warm mood beside Barinov, joining "vityusha" ("vityusha") to "derzhi" ("here you go") so every word pulls its weight.'),
+    (3, None, '\'Oh you schemer, you stole your own car!\' Nagiyev adopts a thoughtful direction without hesitation, pairing "khitrets" ("schemer") with "mashinu" ("car") to get the point across in plain spoken Russian.'),
+    (4, None, '\'After all, I was doing it for our shared destiny.\' Barinov projects an earnest line with Nagiyev, anchoring the Russian line on "obshchey" ("mutual, common") and "sudby" ("fate, destiny") without extra filler.'),
+    (5, None, '\'Get out of my restaurant!\' Nagiyev takes a lively stance straight away, weaving "poshyol" ("went, set off") together with "restorana" ("restaurant") just the way native speakers do.'),
+    (6, None, '\'It is a pity, of course, that everything fell through today.\' Nikita keeps a sharp manner as they talk, weaving "zhalko" ("feel sorry for") together with "konechno" ("of course") just the way native speakers do.'),
+    (7, None, '\'I spent three whole days preparing for this.\' Nikita holds a serious line during the exchange, anchoring the Russian line on "tselykh" ("whole, entire") and "dnya" ("day") without extra filler.'),
+    (8, None, '\'To start with, we would have sat down on a bench.\' Nikita holds a firm line without hesitation, linking "nachala" ("beginning"), "seli" ("to sit down"), and "skameyku" ("bench") in one brisk exchange.'),
+    (9, None, '\'Then fairy lights would have lit up around us.\' Nikita offers a pointed approach toward Nagiyev, leaning on "potom" ("then") before closing the thought with "zazhglis" ("lit up").'),
+    (10, None, '\'And they would have served us hot mulled wine.\' Nikita establishes a serious style in the room, leaning on "podali" ("to submit, file") before closing the thought with "goryachiy" ("hot").'),
+    (11, None, '\'And then they would have returned your missing hat.\' Nikita brings a serious mood in their talk, weaving "potom" ("then") together with "vernuli" ("returned") just the way native speakers do.'),
 ]

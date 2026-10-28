@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations!' Around the kitchen and friend, Max makes his point loud and clear.
-- 'Hi. Listen to me.' Over the plan and the table, Ilya answers Max without a second thought.
-- 'You will come today and say that you are my regular client.' Even though Max will come today and say that Max is his regular client, Ilya keeps a steady face in front of Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'They will escort you to a table, and you will order this.' Admitting that they will escort Max to a table and Max will order this shows Ilya being honest for a change.
-- 'They will bring the bill. Are you listening to me?' Ilya asks whether they will bring the bill, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You will put this slip of paper into the folder.' Once Max will put this slip of paper into the folder, Ilya can finally tell Max what he means.
-- 'And start a scandal, as if they want to overcharge you.' Starting a scandal as if they want to overcharge Max moves the conversation forward without extra drama.
-- 'Got it? Go on.' Over the moment and the table, Ilya presses Max for a straight answer. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I will owe you one.' Since he will owe Max one, Ilya does not waste words on excuses.
-- 'Sunshine, listen, I will step away for half an hour.' Mentioning that sunshine listen he will step away for half an hour moves the talk in a new direction.
-- 'If my regulars come, will you seat them?' Asking whether if his regulars come will Max seat them puts Max right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course. You're welcome.' Because Ilya is welcome, Sasha treats the matter as settled.
+- 'Congratulations!' Max displays a sharp line in this beat, putting all the weight on "pozdravlyayem" ("we congratulate") so the reply lands immediately.
+- 'Hi. Listen to me.' Ilya chooses an easygoing posture without hesitation, combining "slushay" ("listen") and "privet" ("hi") so the key meaning lands right away.
+- 'You will come today and say that you are my regular client.' Ilya offers a brisk tack at once, using "pridyosh" (from "priyti", "will come") alongside "segodnya" ("today") to shape the meaning.
+- 'They will escort you to a table, and you will order this.' Ilya adopts a sharp line as they talk, building the phrase around "provodit" ("spends") and "stol" ("table") for a crisp, natural delivery.
+- 'They will bring the bill. Are you listening to me?' Ilya prompts calmly right away, building the phrase around "prinesut" ("will bring") and "schyot" ("counting, account") for a crisp, natural delivery.
+- 'You will put this slip of paper into the folder.' Ilya sustains a pointed rhythm during the exchange, building the phrase around "polozhish" ("you'll put") and "papku" ("bill folder") for a crisp, natural delivery.
+- 'And start a scandal, as if they want to overcharge you.' Ilya takes an easygoing tempo as they talk, using "nachinay" (from "nachinat", "start") alongside "skandal" ("scandal, fuss") to shape the meaning.
+- 'Got it? Go on.' Ilya queries bluntly in front of Sasha, weaving "ponyal" ("understood") together with "davay" ("let's") just the way native speakers do.
+- 'I will owe you one.' Ilya brings a grounded note in front of Max, building the phrase around "dolgu" ("debt") and "ostanus" ("stay") for a crisp, natural delivery.
+- 'Sunshine, listen, I will step away for half an hour.' Ilya picks a grounded manner beside Sasha, building the phrase around "solnyshko" ("sweetheart") and "slushay" ("listen") for a crisp, natural delivery.
+- 'If my regulars come, will you seat them?' Ilya quizzes warmly in this moment, putting "postoyannyye" ("regular, permanent") alongside "pridut" ("will come") in a tight, everyday turn of phrase.
+- 'Of course. You're welcome.' Sasha takes an honest tempo during the exchange, building the phrase around "konechno" ("of course") and "pozhaluysta" ("please") for a crisp, natural delivery.

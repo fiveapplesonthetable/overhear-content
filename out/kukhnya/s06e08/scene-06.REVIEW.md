@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On the way we almost forgot our son at home.' Since on the way they almost forgot their son at home, Kostya does not waste words on excuses.
-- 'Kostya, stop it, that is not funny at all.' Here telling the guest to stop it that is not funny at all sets up the next turn in their exchange.
-- 'Welcome upon your arrival, my dear children!' Over the plan and the family, the guest lets his real feelings show. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Thank you, and what is this man doing here?' Here asking what this man doing here is shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Kostik, do not be angry, he had nowhere else to go.' Explaining that someone do not be angry he had nowhere else to go lays the cards on the table for the guest.
-- 'Do not lose your temper in my house.' The guest mentions that do not lose Kostya's temper in his house so Kostya sees what is at stake. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'After all, he is still your own father.' Claiming that after all he is still Kostya's own father sounds confident, even if Kostya has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And to me, therefore, a close relative.' Over the guest and the plan, the guest answers Kostya without a second thought.
-- 'So let us go into the house calmly.' Noting that they should go into the house calmly keeps the guest's side of the story simple and clear. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'We will spend time in a close family circle.' Realizing that they will spend time in a close family circle changes how the guest handles the situation.
-- 'Just look, everyone around here is red-headed!' Saying that just look everyone around here is red headed is how the guest takes charge of the moment.
-- 'And what did I do to deserve such punishment?' Here asking what he does to deserve such punishment shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'On the way we almost forgot our son at home.' Kostya adopts a grounded footing with the guest, putting "doroge" ("road") alongside "chut" ("almost, nearly") in a tight, everyday turn of phrase.
+- 'Kostya, stop it, that is not funny at all.' Nastya offers a brisk approach toward Kostya, weaving "perestan" ("stop") together with "sovsem" ("at all") just the way native speakers do.
+- 'Welcome upon your arrival, my dear children!' The guest maintains a lively footing during the exchange, pairing "priyezdom" ("arrival") with "dorogiye" ("dear") to get the point across in plain spoken Russian.
+- 'Thank you, and what is this man doing here?' Kostya presses promptly in their exchange, building the phrase around "spasibo" ("thank you") and "chelovek" ("a man, a person") for a crisp, natural delivery.
+- 'Kostik, do not be angry, he had nowhere else to go.' Nastya keeps a calm note straight away, joining "zlis" ("be angry") to "nekuda" ("nowhere") so every word pulls its weight.
+- 'Do not lose your temper in my house.' The guest brings an emphatic style at once, leaning on "dome" ("house") before closing the thought with "davay" ("let's").
+- 'After all, he is still your own father.' The guest adopts a thoughtful position right away, anchoring the Russian line on "rodnoy" ("dear friend") and "otets" ("father") without extra filler.
+- 'And to me, therefore, a close relative.' The guest brings a grounded position in this beat, leaning on "stalo" ("became, came over") before closing the thought with "byt" ("be").
+- 'So let us go into the house calmly.' The guest picks a thoughtful line with Kostya, combining "davay" ("let's") and "spokoyno" ("calmly") so the key meaning lands right away.
+- 'We will spend time in a close family circle.' The guest chooses a lively angle in the room, putting "provedyom" ("will spend") alongside "vremya" ("time") in a tight, everyday turn of phrase.
+- 'Just look, everyone around here is red-headed!' The guest strikes a warm direction in the scene, pairing "tolko" ("only") with "posmotri" ("look") to get the point across in plain spoken Russian.
+- 'And what did I do to deserve such punishment?' Kostya wonders earnestly as they speak, anchoring the Russian line on "nakazaniye" ("punishment") and "za" ("for") without extra filler.

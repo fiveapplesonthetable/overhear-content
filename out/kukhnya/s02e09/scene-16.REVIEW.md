@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Шеф, клянемся, мы как лучше хотели. | Chef, we swear we only meant well. | #262: Шеф, клянемся, мы как лучше хотели | verbatim |
+| 1 | Вика | Шеф, клянемся, мы как лучше хотели. | Chef, we swear we only meant well. | #262: Шеф, клянемся, мы как лучше хотели | verbatim |
 | 2 | Вика | Мы вообще думали. | We actually thought. | #263: Мы вообще думали | verbatim |
 | 3 | Таня | Как вы. | Just like you. | #264: как вы | verbatim |
 | 4 | Шеф | Вы совершенно правы. | You are completely right. | #265: вы совершенно правы | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, we swear we only meant well.' Once they swear they only meant well, Barinov can finally tell Tanya what he means.
-- 'We actually thought.' Even though they actually thought, Vika keeps a steady face in front of Barinov.
-- 'Just like you.' Around the truth and call, Tanya sets a calm, everyday tone with Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'You are completely right.' Saying that Tanya is completely right is how Barinov sets the tone with Tanya.
-- 'Please forgive us.' Vika explains that Barinov should forgive them, keeping her voice calm and direct. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'And this time we will not let you down.' Adding that this time they will not let Barinov down fills in the missing piece for Barinov.
-- 'How could you even think such a thing?' Here wondering how Tanya even think such a thing could shows Barinov looking for the real truth.
-- 'Well, he was being so kind.' Since he was being so kind, Vika does not waste words on excuses.
-- 'He was not drinking.' Mentioning that he was not drinking moves the talk in a new direction.
-- 'All right, that is enough, go on.' Barinov reminds Tanya that all right that is enough go before the moment passes.
-- 'And what should we do now?' Here asking what they do now should shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing now, you have done plenty already.' Explaining that nothing now Barinov has done plenty already lays the cards on the table for Barinov. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Go on, I will call her for him.' Noting that Tanya should go on he will call her for him keeps Barinov's side of the story simple and clear.
+- 'Chef, we swear we only meant well.' Vika shares a resolute mood in this beat, putting "klyanemsya" ("swear, vow") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'We actually thought.' Vika projects a grounded tone right away, joining "voobshche" ("at all") to "dumali" ("thought") so every word pulls its weight.
+- 'Just like you.' Tanya conveys a pointed style with Barinov, putting "kak" ("how") alongside "vy" ("you") in a tight, everyday turn of phrase.
+- 'You are completely right.' Barinov presents a serious direction without hesitation, combining "sovershenno" ("quite, completely") and "pravy" ("right") so the key meaning lands right away.
+- 'Please forgive us.' Vika shows an unhurried footing in the conversation, using "prostite" (from "prostit", "excuse me") alongside "vy" ("you") to shape the meaning.
+- 'And this time we will not let you down.' Tanya shares a sharp tack in this beat, weaving "raz" ("time, once") together with "podvedem" ("let down, fail") just the way native speakers do.
+- 'How could you even think such a thing?' Barinov queries sharply in the room, leaning on "kak" ("how") before closing the thought with "mogli" ("could").
+- 'Well, he was being so kind.' Vika projects a resolute rhythm in the scene, weaving "byl" ("was") together with "dobryy" ("good") just the way native speakers do.
+- 'He was not drinking.' Tanya displays a grounded note in this beat, anchoring the Russian line on "pil" ("was drinking") and "ne" ("not") without extra filler.
+- 'All right, that is enough, go on.' Barinov presents a brisk line in the scene, joining "davayte" ("let's") to "idite" ("come") so every word pulls its weight.
+- 'And what should we do now?' Vika questions plainly without holding back, anchoring the Russian line on "teper" ("now") and "delat" ("do") without extra filler.
+- 'Nothing now, you have done plenty already.' Tanya holds a grounded rhythm in front of Vika, anchoring the Russian line on "teper" ("now") and "uzhe" ("already, now") without extra filler.
+- 'Go on, I will call her for him.' Barinov conveys an unhurried course at once, building the phrase around "idite" ("come") and "pozvonyu" ("will call") for a crisp, natural delivery.

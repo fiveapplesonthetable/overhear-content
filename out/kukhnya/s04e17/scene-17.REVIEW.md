@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Doctor, what are you doing here in the evening?' Questioning whether doctor what are Eva doing here in the evening is how Barinov tests Eva's story. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do you arrange medical exams at home?' Asking whether Eva arranges medical exams at home cuts straight through the tension between Barinov and Eva. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'She paid me money for this!' Lyova declares that she paid him money for this as the tension in the room peaks.
-- 'She asked me to say that she is pregnant.' Lyova explains that she asked him to say that she is pregnant, keeping his voice calm and direct.
-- 'Vitya, let him go, he is lying about everything!' Letting him go he is lying about everything is Eva's blunt reaction in front of Barinov. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'No, I am not lying at all right now.' Lyova mentions that he is not lying at all right now so Barinov sees what is at stake.
-- 'I was lying back then at the morning exam.' Even though he was lying back then at the morning exam, Lyova keeps a steady face in front of Barinov.
-- 'We are not having any child!' Barinov insists that they are not having any child, leaving Eva no room to argue. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What do you mean there won't be, you coward!' Because what do Barinov means there will not be Barinov coward, Eva does not bother softening the blow for Barinov.
-- 'Viktor Petrovich, will you let me go now?' Asking whether Barinov lets him go now cuts straight through the tension between Lyova and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Of course, get out of here and go home quickly!' Here telling Eva to get out of here and go home quickly lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Eva, you seriously need medical treatment.' With the doctor and kitchen in play, Barinov keeps this short reply brisk and direct.
+- 'Doctor, what are you doing here in the evening?' Barinov questions quietly to make the point, pairing "doktor" ("Doctor") with "zdes" ("here") to get the point across in plain spoken Russian.
+- 'Do you arrange medical exams at home?' Barinov presses firmly during the talk, putting "domu" ("house") alongside "osmotry" ("home") in a tight, everyday turn of phrase.
+- 'She paid me money for this!' Lyova adopts a resolute rhythm on the spot, anchoring the Russian line on "zaplatila" ("to pay") and "dengi" ("money") without extra filler.
+- 'She asked me to say that she is pregnant.' Lyova brings a serious attitude in their talk, pairing "poprosila" ("asked") with "skazat" ("tell") to get the point across in plain spoken Russian.
+- 'Vitya, let him go, he is lying about everything!' Eva holds an unhurried approach toward Barinov, linking "otpusti" ("let go, release"), "vryot" ("is lying"), and "vitya" ("Vitya") in one brisk exchange.
+- 'No, I am not lying at all right now.' Lyova sets a warm rhythm in their talk, anchoring the Russian line on "seychas" ("now") and "sovsem" ("at all") without extra filler.
+- 'I was lying back then at the morning exam.' Lyova offers a clear direction in the scene, pairing "togda" ("back then") with "utrom" ("this morning") to get the point across in plain spoken Russian.
+- 'We are not having any child!' Barinov chooses a direct bearing in this beat, combining "budet" ("will be") and "rebyonka" ("child") so the key meaning lands right away.
+- 'What do you mean there won't be, you coward!' Eva favors a brisk angle as they talk, putting "kak" ("how") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, will you let me go now?' Lyova wonders evenly in the scene, combining "teper" ("now") and "otpustite" ("let go, release") so the key meaning lands right away.
+- 'Of course, get out of here and go home quickly!' Barinov adopts an easygoing tone during the exchange, joining "konechno" ("of course") to "idi" ("go") so every word pulls its weight.
+- 'Eva, you seriously need medical treatment.' Barinov keeps a calm note in this beat, weaving "seryozno" ("seriously") together with "lechitsya" ("is treatable") just the way native speakers do.

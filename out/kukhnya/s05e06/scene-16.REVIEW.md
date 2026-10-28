@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Зайчонок, ну ты куда? | Little bunny, where are you going? | #259: ну ты куда, ну | adapted: adapted |
-| 2 | Гость | Подальше от тебя и твоих детей! | Far away from you and your children! | #260: Подальше от тебя и твоих детей | adapted: adapted |
+| 2 | Макс | Подальше от тебя и твоих детей! | Far away from you and your children! | #260: Подальше от тебя и твоих детей | adapted: adapted |
 | 3 | Нагиев | Да ты послушай, зайка! | Just listen to me, sweetheart! | #261: Да ты<br>#261: зайка | adapted: adapted |
 | 4 | Нагиев | Это что сейчас было? | What was that just now? | #262: Это что | adapted: adapted |
 | 5 | Вика | Дима, прости. | Dima, forgive me. | #262: Дима, прости | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Little bunny, where are you going?' Nagiyev asks whether little bunny where are the guest going, refusing to let the point slide.
-- 'Far away from you and your children!' Around the room and point, the guest makes his point loud and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Just listen to me, sweetheart!' With the hotel and kitchen at stake, Nagiyev reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What was that just now?' Here wondering what that just now was shows Nagiyev looking for the real truth.
-- 'Dima, forgive me.' With the plan and hotel in play, Vika keeps this short reply brisk and direct.
-- 'I told Max that this is your child.' Vika explains that she told Max that this is the guest's child, keeping her voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What did you do?' Asking what the guest does is how Nagiyev puts the guest on the spot.
-- 'There was nothing between you and me!' Insisting that there was nothing between the guest and him shows Nagiyev is not backing down. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I just wanted him to leave me alone.' Even though she just wanted him to leave her alone, Vika keeps a steady face in front of the guest.
-- 'How was there nothing at all?' Asking how there nothing at all was cuts straight through the tension between Nagiyev and the guest.
-- 'I am very sorry.' Noting that she is very sorry keeps Vika's side of the story simple and clear.
-- 'Great, now there will not be a wedding either.' Once great now there will not be a wedding either, Nagiyev can finally tell the guest what he means.
+- 'Little bunny, where are you going?' Nagiyev questions candidly from the start, placing "zaychonok" ("little bunny") straight beside "kuda" ("where to") with no word for "to be" needed.
+- 'Far away from you and your children!' Max presents a direct angle in the conversation, anchoring the Russian line on "podalshe" ("a little further away") and "detey" ("children") without extra filler.
+- 'Just listen to me, sweetheart!' Nagiyev holds a firm note in this beat, using "poslushay" (from "poslushat", "listen") alongside "zayka" ("sweetheart") to shape the meaning.
+- 'What was that just now?' Nagiyev queries bluntly in front of Vika, pairing "seychas" ("now") with "bylo" ("was") so the "-sya" ending carries the action.
+- 'Dima, forgive me.' Vika offers a thoughtful manner with Max, putting "prosti" ("sorry, forgive me") alongside "dima" ("Dima") in a tight, everyday turn of phrase.
+- 'I told Max that this is your child.' Vika displays a brisk rhythm in the room, putting "skazala" ("told") alongside "rebyonok" ("a child") in a tight, everyday turn of phrase.
+- 'What did you do?' Nagiyev asks bluntly as the talk turns, leaning on "sdelala" ("have done, did") before closing the thought with "chego" ("what").
+- 'There was nothing between you and me!' Nagiyev offers a firm bearing in the scene, doubling the negative with "ne" ("not") and "bylo" ("was"), which is standard and required in Russian.
+- 'I just wanted him to leave me alone.' Vika presents a resolute position without hesitation, putting "prosto" ("just") alongside "khotela" ("wanted, meant") in a tight, everyday turn of phrase.
+- 'How was there nothing at all?' Nagiyev questions firmly across the room, joining "kak" ("how") to "bylo" ("was") so every word pulls its weight.
+- 'I am very sorry.' Vika establishes an honest mood as the scene unfolds, leaning on "ochen" ("very much") before closing the thought with "zhal" ("it is a pity").
+- 'Great, now there will not be a wedding either.' Nagiyev adopts a clear manner as the scene unfolds, weaving "otlichno" ("perfect, great") together with "teper" ("now") just the way native speakers do.

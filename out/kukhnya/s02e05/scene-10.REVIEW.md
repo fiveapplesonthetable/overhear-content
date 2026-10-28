@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Это наш шеф-повар Виктор Петрович. | This is our head chef, Viktor Petrovich. | #154: Это наш шеф-повар Виктор Петрович | verbatim |
+| 1 | Вика | Это наш шеф-повар Виктор Петрович. | This is our head chef, Viktor Petrovich. | #154: Это наш шеф-повар Виктор Петрович | verbatim |
 | 2 | Вика | Кстати, Виктор Петрович большой футбольный фанат. | By the way, Viktor Petrovich is a huge football fan. | #157: Кстати, Виктор Петрович большой футбольный фанат | verbatim |
 | 3 | Кристина | И он болеет за ваш футбольный клуб. | And he roots for your football club. | #158: и он болеет за ваш футбольный клуб | verbatim |
 | 4 | Шеф | Она шутит. | She is joking. | #159: Она шутит | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is our head chef, Viktor Petrovich.' Realizing that this is their head Viktor Petrovich changes how Barinov handles the situation.
-- 'By the way, Viktor Petrovich is a huge football fan.' Noting that Viktor Petrovich is a huge football fan keeps Vika's side of the story simple and clear.
-- 'And he roots for your football club.' Over the kitchen and the guest, Kristina answers Barinov without a second thought. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'She is joking.' Admitting that she is joking shows Barinov being honest for a change.
-- 'I noticed.' With the kitchen and match in play, Vika keeps this short reply brisk and direct.
-- 'I know.' Around the kitchen and shift, Kristina sets a calm, everyday tone with Barinov.
-- 'Enjoy your meal.' By enjoying Kristina's meal, Barinov keeps his side of the story grounded.
-- 'Good luck to you tomorrow.' Over the kitchen and the work, Vika answers Barinov without a second thought. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Chef, well, how did it go out there?' Here asking how it go out there shows Kristina looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing at all!' Around the moment and match, Barinov makes his point loud and clear.
-- 'How could you mix up Makeev with Malafeev?' Asking how Barinov mix up Makeev with Malafeev could cuts straight through the tension between Vika and Barinov. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Mixing up Spartak with Zenit.' With the shift and kitchen in play, Kristina keeps this short reply brisk and direct.
+- 'This is our head chef, Viktor Petrovich.' Vika projects a pointed bearing straight away, leaning on "shef-povar" ("head chef") before closing the thought with "eto" ("this").
+- 'By the way, Viktor Petrovich is a huge football fan.' Vika displays a firm approach with Kristina, combining the casual transition "kstati" ("by the way") with "bolshoy" ("big") to give the line its natural spoken rhythm.
+- 'And he roots for your football club.' Kristina presents a direct mood in this beat, pairing "boleyet" ("is ill") with "futbolnyy" ("football") to get the point across in plain spoken Russian.
+- 'She is joking.' Barinov chooses a natural angle as the scene unfolds, building the phrase around "shutit" ("is joking") and "ona" ("it") for a crisp, natural delivery.
+- 'I noticed.' Vika establishes a lively direction at once, anchoring the Russian line on "zametil" ("noticed") and "ya" ("I") without extra filler.
+- 'I know.' Kristina conveys a candid rhythm as they talk, leaning on "znayu" ("know") before closing the thought with "ya" ("I").
+- 'Enjoy your meal.' Barinov displays a direct position as the scene unfolds, anchoring the Russian line on "priyatnogo" ("pleasant") and "appetita" ("appetite") without extra filler.
+- 'Good luck to you tomorrow.' Vika projects an honest footing across the room, weaving "udachi" ("luck") together with "zavtra" ("tomorrow") just the way native speakers do.
+- 'Chef, well, how did it go out there?' Kristina inquires lightly in this moment, leaning on "tam" ("there") before closing the thought with "shef" ("Chef").
+- 'Nothing at all!' Barinov takes a frank view in the scene, anchoring the Russian line on "da" ("yes") and "nichego" ("nothing") without extra filler.
+- 'How could you mix up Makeev with Malafeev?' Vika prompts briskly in the room, pairing "kak" ("how") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
+- 'Mixing up Spartak with Zenit.' Kristina shows a thoughtful bearing with Vika, putting "myaso" ("meat") alongside "bomzhami" ("homeless person") in a tight, everyday turn of phrase.

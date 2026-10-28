@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Господа, хочу сказать буквально пару слов. | Gentlemen, I want to say literally a couple of words. | #301: Господа, хочу сказать буквально пару слов | verbatim |
 | 2 | Вика | Это блюдо в свое время придумал мой учитель. | This dish was originally invented by my teacher. | #302: Это блюдо в свое время придумал мой учитель | verbatim |
-| 3 | Шеф | Виктор Петрович Баринов. | Viktor Petrovich Barinov. | #303: Виктор Петрович Баринов | verbatim |
+| 3 | Вика | Виктор Петрович Баринов. | Viktor Petrovich Barinov. | #303: Виктор Петрович Баринов | verbatim |
 | 4 | Вика | Шеф-повар этого ресторана. | The head chef of this restaurant. | #304: Шеф-повар этого ресторана | verbatim |
 | 5 | Шеф | Которому я обязан всем. | To whom I owe everything. | #305: Которому я обязан всем | verbatim |
 | 6 | Вика | Почему я считаю его гением. | Which is why I consider him a genius. | #306: почему я считаю его гением | verbatim |
@@ -20,22 +20,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Вика | Может быть это из-за чернослива? | Maybe it is because of the prunes? | #308: Может быть это из-за чернослива | verbatim |
 | 9 | Шеф | Сплошной уксус. | It is pure vinegar. | #310: Сплошной уксус | verbatim |
 | 10 | Вика | Дорогие друзья, к сожалению, мне пора в аэропорт. | Dear friends, unfortunately it is time for me to head to the airport. | #311: Дорогие друзья, к сожалению, мне пора в аэропорт | verbatim |
-| 11 | Шеф | Виктор Петрович. | Viktor Petrovich. | #313: Виктор Петрович | verbatim |
+| 11 | Вика | Виктор Петрович. | Viktor Petrovich. | #313: Виктор Петрович | verbatim |
 | 12 | Вика | Вот ключи от моей. | Here are the keys to my. | #314: Вот ключи от моей | verbatim |
 | 13 | Шеф | Новой машины. | New car. | #315: новой машины | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gentlemen, I want to say literally a couple of words.' Claiming that he wants to say literally a couple of words sounds confident, even if Vika has doubts.
-- 'This dish was originally invented by my teacher.' Once this dish was originally invented by her teacher, Vika can finally tell Barinov what she means.
-- 'Viktor Petrovich Barinov.' Between the moment and the shift, Barinov gives Vika a quick, grounded response.
-- 'The head chef of this restaurant.' With the moment and work in play, Vika keeps this short reply brisk and direct.
-- 'To whom I owe everything.' Since to whom he owes everything, Barinov does not waste words on excuses.
-- 'Which is why I consider him a genius.' Mentioning that which is why she consider him a genius moves the talk in a new direction.
-- 'Well, that is a rather strange taste, right?' Questioning whether that is a rather strange taste right is how Barinov tests Vika's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maybe it is because of the prunes?' When Vika asks if maybe it is because of the prunes, Barinov has to answer fast.
-- 'It is pure vinegar.' Explaining that it is pure vinegar lays the cards on the table for Vika.
-- 'Dear friends, unfortunately it is time for me to head to the airport.' Vika mentions that dear friends unfortunately it is time for her to head to the airport so Barinov sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Viktor Petrovich.' Turning from the conversation to the work, Barinov keeps the exchange moving.
-- 'Here are the keys to my.' Pointing out that here are the keys gives Barinov a sobering reality check.
-- 'New car.' Between the work and the dish, Barinov gives Vika a quick, grounded response.
+- 'Gentlemen, I want to say literally a couple of words.' Barinov holds an emphatic approach in the room, weaving "gospoda" ("gentlemen") together with "khochu" ("want") just the way native speakers do.
+- 'This dish was originally invented by my teacher.' Vika takes a wry mood in their talk, building the phrase around "blyudo" ("dish") and "vremya" ("time") for a crisp, natural delivery.
+- 'Viktor Petrovich Barinov.' Vika projects a natural rhythm with Barinov, pairing "viktor" ("Viktor") with "petrovich" ("Petrovich") to get the point across in plain spoken Russian.
+- 'The head chef of this restaurant.' Vika presents a measured position toward Barinov, linking "shef-povar" ("head chef"), "restorana" ("restaurant"), and "etogo" ("that") in one brisk exchange.
+- 'To whom I owe everything.' Barinov holds a measured manner with Vika, building the phrase around "obyazan" ("obliged, owing") and "kotoromu" ("whom, which") for a crisp, natural delivery.
+- 'Which is why I consider him a genius.' Vika chooses a grounded style beside Barinov, building the phrase around "pochemu" ("why") and "schitayu" ("am counting") for a crisp, natural delivery.
+- 'Well, that is a rather strange taste, right?' Barinov presses steadily to Vika here, leaning on "strannyy" ("strange, odd") before closing the thought with "vkus" ("taste").
+- 'Maybe it is because of the prunes?' Vika quizzes promptly without hesitation, weaving "mozhet" ("can") together with "byt" ("be") just the way native speakers do.
+- 'It is pure vinegar.' Barinov brings a resolute course in their talk, weaving "sploshnoy" ("continuous") together with "uksus" ("vinegar") just the way native speakers do.
+- 'Dear friends, unfortunately it is time for me to head to the airport.' Vika chooses a frank footing as the scene unfolds, anchoring the Russian line on "dorogiye" ("dear") and "druzya" ("friends") without extra filler.
+- 'Viktor Petrovich.' Vika shares a playful view on the spot, building the phrase around "viktor" ("Viktor") and "petrovich" ("Petrovich") for a crisp, natural delivery.
+- 'Here are the keys to my.' Vika projects an emphatic angle at once, using "klyuchi" (from "klyuch", "the keys") alongside "vot" ("there, here") to shape the meaning.
+- 'New car.' Barinov shows an honest manner in their talk, combining "novoy" ("new") and "mashiny" ("cars") so the key meaning lands right away.

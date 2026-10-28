@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let Viktor Petrovich be the sous-chef instead.' Letting Viktor Petrovich be the instead is how Lyova lays out the situation for Barinov.
-- 'He is older and much more experienced than me.' Lyova explains that he is older and much more experienced than him, keeping his voice calm and direct.
-- 'And I cannot work like this anymore.' Explaining that he cannot work like this anymore lays the cards on the table for Barinov.
-- 'What happened, does he not obey you?' Questioning whether what happened does he not obey Barinov is how Elena tests Barinov's story.
-- 'Listen to me carefully, dear Lev.' With the work and boss in play, Elena keeps this short reply brisk and direct.
-- 'Viktor Petrovich is now your direct subordinate.' Pointing out that Viktor Petrovich is now Barinov's direct subordinate gives Barinov a sobering reality check. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'If he does not obey, punish him strictly.' Elena explains that if he does not obey punish him strictly, keeping her voice calm and direct.
-- 'You want me to punish the chef?' Wondering if Barinov wants him to punish shows Lyova caught off guard. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Who here in the kitchen is not obeying?' Questioning whether who here in the kitchen is not obeying is how Barinov tests Elena's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Elena Pavlovna, I simply cannot do that.' Even though he simply cannot do, Lyova keeps a steady face in front of Barinov.
-- 'This must be done for his own good.' Admitting that this must be done for his own good shows Elena being honest for a change. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Tomorrow a guest ordered a fresh royal crab.' With the point and boss in play, Elena keeps this short reply brisk and direct.
-- 'Make sure that they bring a fresh crab tomorrow.' By telling Barinov to make sure that they bring a fresh crab tomorrow, Elena keeps her side of the story grounded.
+- 'Let Viktor Petrovich be the sous-chef instead.' Lyova offers a resolute view during the exchange, joining "luchshe" ("better") to "budet" ("will be") so every word pulls its weight.
+- 'He is older and much more experienced than me.' Lyova sets an honest stance in the room, linking "starshe" ("much"), "namnogo" ("much, far"), and "opytneye" ("than") in one brisk exchange.
+- 'And I cannot work like this anymore.' Lyova establishes an emphatic view as they talk, leaning on "rabotat" ("to work") before closing the thought with "bolshe" ("more").
+- 'What happened, does he not obey you?' Elena questions lightly across the room, putting "sluchilos" ("happened") alongside "slushayetsya" ("to obey, heed") in a tight, everyday turn of phrase.
+- 'Listen to me carefully, dear Lev.' Elena establishes a playful course on the spot, pairing "poslushayte" ("listen") with "vnimatelno" ("carefully, attentively") to get the point across in plain spoken Russian.
+- 'Viktor Petrovich is now your direct subordinate.' Elena takes an unhurried tempo at this moment, leaning on "seychas" ("now") before closing the thought with "pryamoy" ("live").
+- 'If he does not obey, punish him strictly.' Elena picks a brisk footing in the room, joining "podchinyayetsya" ("to obey, to submit to") to "strogo" ("sternly, strictly") so every word pulls its weight.
+- 'You want me to punish the chef?' Lyova questions pointedly as the talk turns, putting "khotite" ("want") alongside "nakazal" ("to punish") in a tight, everyday turn of phrase.
+- 'Who here in the kitchen is not obeying?' Barinov presses openly as the beat lands, combining "tut" ("here") and "kukhne" ("kitchen") so the key meaning lands right away.
+- 'Elena Pavlovna, I simply cannot do that.' Lyova presents an earnest direction straight away, combining the softening word "prosto" ("simply, just") with "mogu" ("can") to give the line its natural spoken rhythm.
+- 'This must be done for his own good.' Elena brings a clear style in front of Barinov, combining "nuzhno" ("necessary") and "delat" ("do") so the key meaning lands right away.
+- 'Tomorrow a guest ordered a fresh royal crab.' Elena conveys a resolute view straight away, combining "zavtra" ("tomorrow") and "gost" ("guest") so the key meaning lands right away.
+- 'Make sure that they bring a fresh crab tomorrow.' Elena keeps a firm approach in the conversation, joining "prosledite" ("to see to it") to "zavtra" ("tomorrow") so every word pulls its weight.

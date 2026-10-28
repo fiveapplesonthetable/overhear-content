@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Otherwise everything is fine with us.' Pointing out that otherwise everything is fine with them gives the guest a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And where is my grandson right now?' By wondering where his grandson right now is, the guest presses Nastya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Kostya and his dad went to the zoo.' Realizing that Kostya and his dad went to the zoo changes how Nastya handles the situation.
-- 'Wait, with what dad?' Over the work and the photo, the guest presses Nastya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Did Kostya really not tell you?' Here checking whether Kostya really not tell the guest shows Nastya looking for the real truth. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'I recently found his dad.' Admitting that she recently found his dad shows Nastya being honest for a change.
-- 'Kostik is so very glad now.' Saying that someone is so very glad now is how Nastya sets the tone with the guest.
-- 'Why, this is not Kostya's father!' Insisting that why this is not Kostya father shows the guest is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'How could it not be him?' Here asking how it not be him could shows Nastya looking for the real truth.
-- 'Tell me for sure, is it him or not?' Nastya asks whether tell her for sure is it him or not, refusing to let the point slide. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Mom, I will call you back later.' Since Mom she will call the guest back later, Nastya does not waste words on excuses. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Nastya, set the table quickly!' By telling Nastya to set the table quickly, the guest raises the stakes in the room at once.
+- 'Otherwise everything is fine with us.' Nastya keeps a steady note beside the guest, anchoring the Russian line on "ostalnom" ("remaining, other") and "khorosho" ("good, fine") without extra filler.
+- 'And where is my grandson right now?' The guest queries candidly in their exchange, joining "gde" ("where") to "seychas" ("now") so every word pulls its weight.
+- 'Kostya and his dad went to the zoo.' Nastya presents a playful line toward the guest, leaning on "papoy" ("dad") before closing the thought with "poshli" ("let's go").
+- 'Wait, with what dad?' The guest challenges calmly in this moment, building the phrase around "podozhdi" ("wait") and "yeshchyo" ("more, still") for a crisp, natural delivery.
+- 'Did Kostya really not tell you?' Nastya presses openly without hesitation, leaning on "govoril" ("said, were saying") before closing the thought with "kostya" ("Kostya").
+- 'I recently found his dad.' Nastya maintains a grounded rhythm for the guest, leaning on "nedavno" ("returned") before closing the thought with "nashla" ("found, did you find").
+- 'Kostik is so very glad now.' Nastya shares a pointed approach in this beat, joining "teper" ("now") to "silno" ("strongly, much") so every word pulls its weight.
+- 'Why, this is not Kostya's father!' The guest sets a natural rhythm in the room, pairing "otets" ("father") with "kosti" ("bones") so the "-sya" ending carries the action.
+- 'How could it not be him?' Nastya questions frankly to make the point, combining "kak" ("how") and "mozhet" ("can") so the key meaning lands right away.
+- 'Tell me for sure, is it him or not?' Nastya asks calmly in their exchange, linking "skazhite" ("tell"), "tochno" ("definitely"), and "on" ("he") in one brisk exchange.
+- 'Mom, I will call you back later.' Nastya establishes an unhurried stance in the conversation, combining "mama" ("mum, mother") and "pozzhe" ("later") so the key meaning lands right away.
+- 'Nastya, set the table quickly!' The guest takes an unhurried style in this beat, using "bystreye" (from "bystro", "faster") alongside "nakryvay" ("set") to shape the meaning.

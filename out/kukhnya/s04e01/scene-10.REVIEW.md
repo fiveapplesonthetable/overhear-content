@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am married to an ideal woman.' Explaining that he is married to an ideal woman lays the cards on the table for Kostya.
-- 'That is a good thing, isn't it?' Kostya asks whether that is a good thing is not it, refusing to let the point slide. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Kostya, what is good about that?' Wondering what good is cuts straight through the tension between Max and Kostya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'She has no flaws at all.' Explaining that she has no flaws at all lays the cards on the table for Kostya.
-- 'It is impossible to find fault with her.' Max mentions that it is impossible to find fault so Kostya sees what is at stake.
-- 'Well, I don't know, Max.' Claiming that he does not know sounds confident, even if Max has doubts.
-- 'It is a sin for the two of us to complain.' Explaining that it is a sin for the two of them to complain lays the cards on the table for Max.
-- 'You and I got lucky.' Kostya mentions that Max and he got lucky so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Who else would fry pancakes like these?' Asking whether who else would fry pancakes like these puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen, Vika has never baked pancakes for me.' Noting that Vika has never baked pancakes for him keeps Max's side of the story simple and clear.
-- 'She has never cooked anything for me at all.' Even though she has never cooked anything for him at all, Max keeps a steady face in front of Kostya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'She has been my wife for half a year.' Admitting that she has been his wife for half a year shows Max being honest for a change.
+- 'I am married to an ideal woman.' Max strikes a frank posture in the scene, putting "zhenat" ("married") alongside "idealnoy" ("ideal, perfect") in a tight, everyday turn of phrase.
+- 'That is a good thing, isn't it?' Kostya presses firmly in front of Max, anchoring the Russian line on "khorosho" ("good, fine") and "eto" ("this") without extra filler.
+- 'Kostya, what is good about that?' Max probes wryly as the talk turns, putting "khoroshego" ("good, the best") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
+- 'She has no flaws at all.' Max offers a sharp stance with Kostya, using "nedostatkov" (from "nedostatk", "all") alongside "neyo" ("her") to shape the meaning.
+- 'It is impossible to find fault with her.' Max picks a sharp line for Kostya, pairing "nevozmozhno" ("impossible") with "pridratsya" ("to fault") to get the point across in plain spoken Russian.
+- 'Well, I don't know, Max.' Kostya brings a direct footing toward Max, leaning on "znayu" ("know") before closing the thought with "nu" ("oh, come on").
+- 'It is a sin for the two of us to complain.' Kostya adopts an easygoing note across the room, linking "voobshche" ("at all"), "grekh" ("sin"), and "zhalovatsya" ("complain") in one brisk exchange.
+- 'You and I got lucky.' Kostya picks an emphatic angle at once, putting "povezlo" ("it was lucky") alongside "nam" ("us") in a tight, everyday turn of phrase.
+- 'Who else would fry pancakes like these?' Kostya tests lightly as the beat lands, building the phrase around "yeshchyo" ("more, still") and "blinov" ("pancakes") for a crisp, natural delivery.
+- 'Listen, Vika has never baked pancakes for me.' Max projects an easygoing footing straight away, joining "slushay" ("listen") to "nikogda" ("never") so every word pulls its weight.
+- 'She has never cooked anything for me at all.' Max conveys a candid position in front of Kostya, leaning on "voobshche" ("at all") before closing the thought with "gotovila" ("to cook, to prepare").
+- 'She has been my wife for half a year.' Max offers a sharp angle for Kostya, linking "uzhe" ("already, now"), "polgoda" ("six months"), and "zhena" ("wife") in one brisk exchange.

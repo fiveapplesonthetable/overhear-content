@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Костян, ты представляешь, это какой-то... | Kostyan, can you imagine, this is some kind of... | #119: Костян, ты представляешь, это какой-то | verbatim |
-| 2 | Саша | О, привет, Саш. | Oh, hi, Sasha. | #120: О, привет, Саш | verbatim |
-| 3 | Костя | Спасибо, Костя, супер. | Thank you, Kostya, that is super. | #121: Спасибо, Костя, супер | verbatim |
+| 1 | Саша | Костян, ты представляешь, это какой-то... | Kostyan, can you imagine, this is some kind of... | #119: Костян, ты представляешь, это какой-то | verbatim |
+| 2 | Костя | О, привет, Саш. | Oh, hi, Sasha. | #120: О, привет, Саш | verbatim |
+| 3 | Саша | Спасибо, Костя, супер. | Thank you, Kostya, that is super. | #121: Спасибо, Костя, супер | verbatim |
 | 4 | Саша | Ну, как видишь, нет. | Well, as you can see, I did not go. | #123: Ну, как видишь, нет | verbatim |
-| 5 | Костя | Хотела поговорить. | I wanted to talk. | #124: Хотела поговорить | verbatim |
+| 5 | Саша | Хотела поговорить. | I wanted to talk. | #124: Хотела поговорить | verbatim |
 | 6 | Саша | Да, конечно. | Yes, of course. | #125: Да, конечно | verbatim |
 | 7 | Костя | Что мы вместе. | That we are together. | #128: что мы вместе | verbatim |
 | 8 | Саша | Ну, что, тогда до вечера? | Well then, see you tonight? | #130: Ну, что, тогда до вечера | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, can you imagine, this is some kind of...' Realizing that someone can Sasha imagines this is some kind changes how Kostya handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, hi, Sasha.' Between the shift and the kitchen, Sasha gives Kostya a quick, grounded response.
-- 'Thank you, Kostya, that is super.' Even though that is super, Kostya keeps a steady face in front of Sasha.
-- 'Well, as you can see, I did not go.' Admitting that as Kostya can see she did not go shows Sasha being honest for a change.
-- 'I wanted to talk.' Saying that he wanted to talk is how Kostya sets the tone with Sasha.
-- 'Yes, of course.' Over the shift and the plan, Sasha answers Kostya without a second thought.
-- 'That we are together.' Adding that that they are together fills in the missing piece for Sasha.
-- 'Well then, see you tonight?' Over the conversation and the shift, Sasha presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I probably will not be able to make it tonight.' Since he probably will not be able to make it tonight, Kostya does not waste words on excuses.
-- 'I need to support Kostya.' Here needing to support Kostya sets up the next turn in their exchange. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'What happened?' Over the conversation and the plan, Kostya presses Sasha for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'His dog died.' Between the moment and the truth, Sasha gives Kostya a quick, grounded response.
-- 'He loved her very much.' Explaining that he loved her very much lays the cards on the table for Sasha.
+- 'Kostyan, can you imagine, this is some kind of...' Sasha offers a clear posture toward Kostya, using "predstavlyayesh" (from "predstavlyat", "can you imagine") alongside "kostyan" ("Kostyan") to shape the meaning.
+- 'Oh, hi, Sasha.' Kostya takes a grounded direction with Sasha, pairing "privet" ("hi") with "sash" ("Sasha") to get the point across in plain spoken Russian.
+- 'Thank you, Kostya, that is super.' Sasha takes a serious footing without hesitation, anchoring the Russian line on "spasibo" ("thank you") and "super" ("super, great") without extra filler.
+- 'Well, as you can see, I did not go.' Sasha brings a candid posture right away, anchoring the Russian line on "kak" ("how") and "vidish" ("see") without extra filler.
+- 'I wanted to talk.' Sasha presents a direct stance in the scene, combining "khotela" ("wanted, meant") and "pogovorit" ("to talk") so the key meaning lands right away.
+- 'Yes, of course.' Sasha takes a direct tack as they talk, pairing "konechno" ("of course") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'That we are together.' Kostya sets an honest note right away, anchoring the Russian line on "vmeste" ("together") and "chto" ("what") without extra filler.
+- 'Well then, see you tonight?' Sasha inquires firmly toward Kostya here, putting "togda" ("back then") alongside "vechera" ("evening") in a tight, everyday turn of phrase.
+- 'I probably will not be able to make it tonight.' Kostya projects an unhurried manner straight away, weaving "navernoye" ("probably") together with "segodnya" ("today") just the way native speakers do.
+- 'I need to support Kostya.' Sasha chooses an honest view straight away, combining "nado" ("it is necessary") and "podderzhat" ("to support") so the key meaning lands right away.
+- 'What happened?' Kostya presses frankly to keep things clear, combining "sluchilos" ("happened") and "chto" ("what") so the key meaning lands right away.
+- 'His dog died.' Sasha strikes a natural stance straight away, weaving "sobaka" ("dog") together with "umerla" ("died") just the way native speakers do.
+- 'He loved her very much.' Kostya adopts a thoughtful course in the room, building the phrase around "ochen" ("very much") and "lyubil" ("loved") for a crisp, natural delivery.

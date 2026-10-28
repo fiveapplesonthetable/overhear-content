@@ -16,7 +16,7 @@ TRANSITION = "Alright, let's hear the entire conversation one more time from sta
 OUTRO = 'As Denis and Nikita overpower the guard and make their escape, Chef Barinov runs straight into Elena and Malouda at the hotel entrance. Until next time!'
 CLOSING = ('mikhail', 'До свидания!')
 STORY = [
-    ('barinov', 'Сейчас, шеф, мы коляску достанем.', 'Right now, Chef, we will get a wheelchair.', [(141, 'Сейчас, шеф, мы коляску достанем')], 'adapted'),
+    ('mikhail', 'Сейчас, шеф, мы коляску достанем.', 'Right now, Chef, we will get a wheelchair.', [(141, 'Сейчас, шеф, мы коляску достанем')], 'adapted'),
     ('barinov', 'Через полчаса всё будет готово.', 'In half an hour everything will be ready.', [(142, 'Через полчаса все будет')], 'adapted'),
     ('mikhail', 'Пока они ищут, спрячься куда-нибудь.', 'While they are looking, hide somewhere.', [(143, 'пока они ищут коляску, спрячься куда-нибудь')], 'adapted'),
     ('mikhail', 'Чтобы тебя инспектор не увидел.', 'So that the inspector does not see you.', [(144, 'чтобы тебя инспектор не увидел')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('mikhail', 'Быстро сели оба на место!', 'Sit back down in your places quickly, both of you!', [(154, 'сели я сказал'), (156, 'Сели')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Right now, Chef, we will get a wheelchair.' Because right now Chef they will get a wheelchair, Barinov treats the matter as settled."),
-    (1, None, "'In half an hour everything will be ready.' Explaining that in half an hour everything will be ready lays the cards on the table for Denis."),
-    (2, None, "'While they are looking, hide somewhere.' Mikhail mentions that while they are looking hide somewhere so Barinov sees what is at stake."),
-    (3, None, '\'So that the inspector does not see you.\' Claiming that that the inspector does not see Barinov sounds confident, even if Barinov has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (4, None, '\'I will say that you are in the hospital.\' Pointing out that he will say that Barinov is in the hospital gives Barinov a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (5, None, "'Hey, I urgently need to go to the restroom.' Over the inspector and the point, Denis answers Barinov without a second thought."),
-    (6, None, '\'And what does that have to do with me?\' Wondering what that have to do with him cuts straight through the tension between Mikhail and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (7, None, '\'You will not get far anyway.\' Noting that Barinov will not get far anyway keeps Mikhail\'s side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (8, None, "'Maybe you will stand up from the chair now?' Wondering if maybe Barinov will stand up from the chair now shows Denis caught off guard."),
-    (9, None, "'Because I really need to go.' Admitting that because he really needs to go shows Denis being honest for a change. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (10, None, '\'What are you doing over there right now?\' Asking what Barinov doing over there right now is cuts straight through the tension between Mikhail and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (11, None, "'Sit back down in your places quickly, both of you!' Mikhail declares that Barinov should sit back down in Barinov's places quickly both of Barinov as the tension in the room peaks."),
+    (0, None, '\'Right now, Chef, we will get a wheelchair.\' Mikhail maintains a playful course in this beat, pairing "seychas" ("now") with "kolyasku" ("wheelchair") so the "-sya" ending carries the action.'),
+    (1, None, '\'In half an hour everything will be ready.\' Barinov projects a candid rhythm on the spot, pairing "polchasa" ("half-hour") with "budet" ("will be") to get the point across in plain spoken Russian.'),
+    (2, None, '\'While they are looking, hide somewhere.\' Mikhail holds a candid course beside Barinov, joining "poka" ("bye") to "ishchut" ("look for") so every word pulls its weight.'),
+    (3, None, '\'So that the inspector does not see you.\' Mikhail conveys a frank posture with Denis, combining "inspektor" ("inspector") and "uvidel" ("saw") so the key meaning lands right away.'),
+    (4, None, '\'I will say that you are in the hospital.\' Mikhail presents a warm rhythm beside Barinov, putting "skazhu" ("I\'ll tell") alongside "bolnitse" ("the hospital") in a tight, everyday turn of phrase.'),
+    (5, None, '\'Hey, I urgently need to go to the restroom.\' Denis displays a warm footing toward Mikhail, combining "srochno" ("urgent, urgently") and "tualet" ("toilet") so the key meaning lands right away.'),
+    (6, None, '\'And what does that have to do with me?\' Mikhail queries decisively without hesitation, combining "zdes" ("here") and "voobshche" ("at all") so the key meaning lands right away.'),
+    (7, None, '\'You will not get far anyway.\' Mikhail shows a grounded stance in their talk, linking "daleko" ("far away"), "ravno" ("the same"), and "uydyosh" ("you\'ll leave") in one brisk exchange.'),
+    (8, None, '\'Maybe you will stand up from the chair now?\' Denis queries pointedly to keep things clear, weaving "mozhet" ("can") together with "seychas" ("now") just the way native speakers do.'),
+    (9, None, '\'Because I really need to go.\' Denis takes a brisk line at this moment, combining "potomu" ("because") and "ochen" ("very much") so the key meaning lands right away.'),
+    (10, None, '\'What are you doing over there right now?\' Mikhail inquires pointedly in their exchange, combining "tam" ("there") and "seychas" ("now") so the key meaning lands right away.'),
+    (11, None, '\'Sit back down in your places quickly, both of you!\' Mikhail projects a candid footing in the room, leaning on "bystro" ("quickly") before closing the thought with "seli" ("to sit down").'),
 ]

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e20.ru.srt'
 INTRO = "With his broken arm in a cast, Denis stops by the bar and explains to Kostya why he jumped out of Vika's office window yesterday. As Denis vividly describes his dream about Vika kissing him on the couch, Katya walks up behind him and hears only the worst part. Let's listen to the misunderstanding in Russian."
 OPENER = "Now let's trace how Katya overhears Denis's story out of context line by line."
 TRANSITION = "Let's hear the conversation at the bar again from start to finish."
-OUTRO = 'Believing that Denis actually slept with Vika in the office, a heartbroken Katya refuses to listen and storms away. Listen for the verbs meaning frightened, happened, and explain. See you next time!'
+OUTRO = 'Believing that Denis actually slept with Vika in the office, a heartbroken Katya refuses to listen and storms away. Listen for the action words meaning frightened, happened, and explain. See you next time!'
 CLOSING = ('denis', 'Пока!')
 STORY = [
     ('kostya', 'Здорово, ну ты нас вчера напугал!', 'Hey there, you really scared us yesterday!', [(22, 'Здорово. Слушай, ну ты нас вчера, конечно, напугал')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('denis', 'Катя, постой, я всё тебе объясню!', 'Katya, wait, I will explain everything to you!', [(37, 'Катя, я все объясню')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Hey there, you really scared us yesterday!\' Between the point and the story, Kostya delivers a sharp reaction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (1, None, "'Kostya, I got scared myself yesterday too.' Even though he got scared himself yesterday, Denis keeps a steady face in front of Kostya."),
-    (2, None, "'Tell me, how did all of this happen yesterday?' Questioning whether tell him how did all of this happen yesterday is how Kostya tests Denis's story."),
-    (3, None, '\'Do you remember I told you about my dreams?\' Here asking whether Kostya remembers he told Kostya about his dreams shows Denis looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (4, None, "'Well then, that woman was Vika.' Once that woman was Vika, Denis can finally tell Kostya what he means."),
-    (5, None, "'Wait, you mean Vika in your dream?' Asking whether Denis means Vika in Denis's dream puts Denis right on the defensive."),
-    (6, None, "'Well, tell me about that in more detail.' Kostya explains that Denis should tell him about that in more detail, keeping his voice calm and direct."),
-    (7, None, "'She called me into the office to help.' Since she called him into the office to help, Denis does not waste words on excuses."),
-    (8, None, "'In there she kisses me on the couch.' Mentioning that in there she kisses him on the couch moves the talk in a new direction."),
-    (9, None, '\'I say to her: Vika, do not do that!\' Denis insists that he says to her Vika do not do, leaving Kostya no room to argue. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (10, None, "'Katya, I need to talk with you!' Denis insists that he needs to talk with Kostya, leaving Kostya no room to argue. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (11, None, "'Katya, wait, I will explain everything to you!' Declaring that he will explain everything to Kostya brings Denis's temper right to the surface."),
+    (0, None, '\'Hey there, you really scared us yesterday!\' Kostya favors a candid bearing in front of Denis, putting "zdorovo" ("great, cool") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.'),
+    (1, None, '\'Kostya, I got scared myself yesterday too.\' Denis offers a steady bearing without hesitation, linking "vchera" ("yesterday"), "ispugalsya" ("got scared"), and "kostya" ("Kostya") in one brisk exchange.'),
+    (2, None, '\'Tell me, how did all of this happen yesterday?\' Kostya challenges promptly to make the point, combining "rasskazhi" ("tell") and "kak" ("how") so the key meaning lands right away.'),
+    (3, None, '\'Do you remember I told you about my dreams?\' Denis follows up candidly beside Kostya, joining "pomnish" ("do you remember") to "rasskazyval" ("told, recounted") so every word pulls its weight.'),
+    (4, None, '\'Well then, that woman was Vika.\' Denis projects a natural direction with Kostya, using "zhenshchinoy" (from "zhenshchina", "a woman") alongside "byla" ("was") to shape the meaning.'),
+    (5, None, '\'Wait, you mean Vika in your dream?\' Kostya quizzes dryly without a pause, putting "podozhdi" ("wait") alongside "sne" ("dream, sleep") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Well, tell me about that in more detail.\' Kostya picks a firm tempo in front of Denis, combining "rasskazhi" ("tell") and "podrobneye" ("detail") so the key meaning lands right away.'),
+    (7, None, '\'She called me into the office to help.\' Denis sets a grounded rhythm at once, pairing "pozvala" ("calls, summons") with "kabinet" ("office") to get the point across in plain spoken Russian.'),
+    (8, None, '\'In there she kisses me on the couch.\' Denis picks an earnest tempo right away, anchoring the Russian line on "tam" ("there") and "tseluyet" ("to kiss") without extra filler.'),
+    (9, None, '\'I say to her: Vika, do not do that!\' Denis displays a serious approach across the room, anchoring the Russian line on "govoryu" ("am telling") and "nado" ("it is necessary") without extra filler.'),
+    (10, None, '\'Katya, I need to talk with you!\' Denis brings a clear angle right away, putting "nuzhno" ("necessary") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.'),
+    (11, None, '\'Katya, wait, I will explain everything to you!\' Denis chooses an honest tempo without hesitation, pairing "postoy" ("wait") with "obyasnyu" ("I\'ll explain") to get the point across in plain spoken Russian.'),
 ]

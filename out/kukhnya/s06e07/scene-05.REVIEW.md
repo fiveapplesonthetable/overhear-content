@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Lyova, I completely lost track of you.' Explaining that she completely lost track of Lyova lays the cards on the table for Lyova. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Tell me, where were you for so long?' Gulya asks whether tell her where were Lyova for so long, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I had some important business over there.' Claiming that he had some important business over there sounds confident, even if Gulya has doubts.
-- 'Wait, were you at the hospital today?' Asking whether Lyova at the hospital today cuts straight through the tension between Gulya and Lyova. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What made you think that all of a sudden?' Questioning whether what made Gulya thinks that all of a sudden is how Lyova tests Gulya's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You have blue hospital shoe covers on your feet!' Declaring that Lyova has blue hospital shoe covers on Lyova's feet brings Gulya's temper right to the surface.
-- 'I was simply renewing my medical book.' Noting that he was simply renewing his medical book keeps Lyova's side of the story simple and clear.
-- 'Excuse me, please, it is time for me to go work.' Even though it is time for him to go work, Lyova keeps a steady face in front of Gulya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'He does not know how to lie to me at all.' Around the hospital and room, Gulya sets a calm, everyday tone with Lyova.
-- 'Katya, the girls and I wanted to hang out tonight.' Saying that the girls and she wanted to hang out tonight is how Nastya sets the tone with Gulya.
-- 'Maybe you will come out with us tonight?' Asking whether maybe Gulya will come out with them tonight puts Gulya right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Thank you for the invitation, I will definitely come.' Adding that for the invitation she will definitely come fills in the missing piece for Lyova.
+- 'Hello, Lyova, I completely lost track of you.' Gulya shows an easygoing stance in front of Lyova, weaving "sovsem" ("at all") together with "poteryala" ("lost, wasted") just the way native speakers do.
+- 'Tell me, where were you for so long?' Gulya wonders boldly to make the point, anchoring the Russian line on "skazhi" ("say") and "gde" ("where") without extra filler.
+- 'I had some important business over there.' Lyova picks a brisk footing as they talk, combining "tam" ("there") and "bylo" ("was") so the key meaning lands right away.
+- 'Wait, were you at the hospital today?' Gulya queries briskly with Nastya now, linking "podozhdi" ("wait"), "segodnya" ("today"), and "byl" ("was") in one brisk exchange.
+- 'What made you think that all of a sudden?' Lyova inquires boldly without holding back, building the phrase around "vdrug" ("suddenly, what if") and "vzyala" ("took") for a crisp, natural delivery.
+- 'You have blue hospital shoe covers on your feet!' Gulya brings a playful mood beside Nastya, pairing "nogakh" ("leg, foot") with "siniye" ("blue, dark blue") to get the point across in plain spoken Russian.
+- 'I was simply renewing my medical book.' Lyova presents an unhurried rhythm as the scene unfolds, combining the softening word "prosto" ("simply, just") with "meditsinskuyu" ("medical") to give the line its natural spoken rhythm.
+- 'Excuse me, please, it is time for me to go work.' Lyova maintains a candid position beside Nastya, pairing "prosti" ("sorry, forgive me") with "pora" ("it's time") to get the point across in plain spoken Russian.
+- 'He does not know how to lie to me at all.' Gulya takes an emphatic view at once, linking "sovsem" ("at all"), "umeyet" ("knows how to"), and "vrat" ("to lie") in one brisk exchange.
+- 'Katya, the girls and I wanted to hang out tonight.' Nastya displays a brisk bearing in front of Lyova, putting "devochkami" ("girls") alongside "khoteli" ("wanted") in a tight, everyday turn of phrase.
+- 'Maybe you will come out with us tonight?' Nastya inquires lightly without holding back, pairing "mozhet" ("can") with "poydyosh" ("will you go") to get the point across in plain spoken Russian.
+- 'Thank you for the invitation, I will definitely come.' Gulya chooses a resolute course beside Nastya, anchoring the Russian line on "spasibo" ("thank you") and "priglasheniye" ("invitation") without extra filler.

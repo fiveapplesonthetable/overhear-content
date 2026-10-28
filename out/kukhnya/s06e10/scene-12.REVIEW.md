@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vitya, what do you think, will my wife forgive me?' By asking what Barinov thinks will his wife forgive him, Nagiyev presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That depends on how hard you try.' Noting that that depends on how hard Eleonora tries keeps Barinov's side of the story simple and clear.
-- 'I will try hard, because an actor's career is very short.' Even though he will try hard because an actor career is very short, Nagiyev keeps a steady face in front of Barinov.
-- 'Today you are a star, and tomorrow they will kick you off television.' Admitting that today Eleonora is a star and tomorrow they will kick Eleonora off television shows Barinov being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And here there are four floors and an excellent restaurant.' Saying that here there are four floors and an excellent restaurant is how Barinov sets the tone with Eleonora.
-- 'Tell me, is she in her office right now?' Asking whether tell him is she in her office right now puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, she just recently came out to have dinner.' Adding that she just recently came out to have dinner fills in the missing piece for Eleonora.
-- 'Elechka, enjoy your meal, I have a surprise for you.' Barinov tells Eleonora that someone enjoy Eleonora's meal he has a surprise for Eleonora without dressing it up.
-- 'If I see orderlies again, I will hit you with a bottle!' Because if she sees orderlies again she will hit Barinov with a bottle, Eleonora does not bother softening the blow for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, I called Dima, he came to make peace.' Mentioning that he called Dima he came to make peace moves the talk in a new direction.
-- 'What Dima did you call here to see me?' Asking whether what Dima did Barinov calls here to see puts Barinov right on the defensive.
-- 'Your husband Nagiyev, here he comes toward us!' Declaring that Eleonora's husband Nagiyev here he comes toward them brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Hello, Vitya, what do you think, will my wife forgive me?' Nagiyev presses lightly as the talk turns, building the phrase around "kak" ("how") and "dumayesh" ("think") for a crisp, natural delivery.
+- 'That depends on how hard you try.' Barinov sustains a playful view without hesitation, using "zavisit" (from "zaviset", "depends") alongside "kak" ("how") to shape the meaning.
+- 'I will try hard, because an actor's career is very short.' Nagiyev projects a firm bearing without hesitation, pairing "budu" ("will be") with "staratsya" ("try") to get the point across in plain spoken Russian.
+- 'Today you are a star, and tomorrow they will kick you off television.' Barinov holds an honest footing straight away, weaving "segodnya" ("today") together with "zvezda" ("a star") just the way native speakers do.
+- 'And here there are four floors and an excellent restaurant.' Barinov sets a measured stance as they talk, anchoring the Russian line on "zdes" ("here") and "etazha" ("floor, storey") without extra filler.
+- 'Tell me, is she in her office right now?' Nagiyev probes lightly in this moment, joining "skazhi" ("say") to "seychas" ("now") so every word pulls its weight.
+- 'No, she just recently came out to have dinner.' Barinov brings a thoughtful tempo in the room, building the phrase around "kak" ("how") and "raz" ("time, once") for a crisp, natural delivery.
+- 'Elechka, enjoy your meal, I have a surprise for you.' Barinov favors a thoughtful approach in their talk, joining "priyatnogo" ("pleasant") to "appetita" ("appetite") so every word pulls its weight.
+- 'If I see orderlies again, I will hit you with a bottle!' Eleonora sets a candid tack on the spot, joining "snova" ("again") to "uvizhu" ("I will see") so every word pulls its weight.
+- 'No, I called Dima, he came to make peace.' Barinov takes an easygoing course in the scene, weaving "pozval" ("invited") together with "miritsya" ("to make peace") just the way native speakers do.
+- 'What Dima did you call here to see me?' Eleonora questions boldly right away, combining "yeshchyo" ("more, still") and "syuda" ("here") so the key meaning lands right away.
+- 'Your husband Nagiyev, here he comes toward us!' Barinov picks a clear manner across the room, putting "muzha" ("husband") alongside "idyot" ("goes, is going") in a tight, everyday turn of phrase.

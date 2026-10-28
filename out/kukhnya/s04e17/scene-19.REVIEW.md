@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My dad is an irresponsible eccentric.' Denis mentions that his dad is an irresponsible eccentric so Katya sees what is at stake.
-- 'And I have been waiting for my prince for a long time.' Mentioning that he has been waiting for his prince for a long time moves the talk in a new direction.
-- 'Probably his horse fell ill.' Pointing out that probably his horse fell ill gives Katya a sobering reality check. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And the restaurant owner is no better than the horse.' Denis explains that the restaurant owner is no better than the horse, keeping his voice calm and direct.
-- 'He parties himself, yet scolds me.' With the key and kitchen in play, Denis keeps this short reply brisk and direct.
-- 'But you should perceive everything like this!' Because Katya should perceive everything like this, Denis does not bother softening the blow for Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'My dad is still full of energy!' Insisting that his dad is still full of energy shows Denis is not backing down.
-- 'And soon I will have a brother!' Once soon he will have a brother, Denis makes sure Katya hears every word. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'There will be no prince, there will be a king instead!' Declaring that there will be no prince there will be a king instead brings Denis's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The owner shouted for no reason today.' Over the key and the work, Denis answers Katya without a second thought.
-- 'On the bright side, I am young and beautiful!' Saying that on the bright side he is young and beautiful is how Denis takes charge of the moment. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'Denis, this song is simply wonderful!' Katya declares that this song is simply wonderful as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'My dad is an irresponsible eccentric.' Denis takes an earnest footing beside Katya, leaning on "papa" ("Dad") before closing the thought with "bezotvetstvennyy" ("irresponsible").
+- 'And I have been waiting for my prince for a long time.' Denis adopts a pointed style during the exchange, pairing "printsa" ("prince") with "zhdu" ("I wait, expect") to get the point across in plain spoken Russian.
+- 'Probably his horse fell ill.' Denis favors a firm manner in the scene, weaving "navernoye" ("probably") together with "kon" ("knight, horse") just the way native speakers do.
+- 'And the restaurant owner is no better than the horse.' Denis offers a measured footing on the spot, building the phrase around "khozyain" ("owner") and "restorana" ("restaurant") for a crisp, natural delivery.
+- 'He parties himself, yet scolds me.' Denis picks an emphatic note across the room, leaning on "gulyayet" ("walks, is walking") before closing the thought with "rugayet" ("to scold, berate").
+- 'But you should perceive everything like this!' Denis conveys a thoughtful approach as they talk, using "dolzhna" (from "dolzhen", "should, must") alongside "vosprinimat" ("to like") to shape the meaning.
+- 'My dad is still full of energy!' Denis chooses a natural bearing in their talk, weaving "papasha" ("daddy, pop") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'And soon I will have a brother!' Denis sets a natural line in their talk, using the everyday "u menya" ("by me") alongside "skoro" ("soon") to show what belongs to the speaker.
+- 'There will be no prince, there will be a king instead!' Denis shares a frank tack at this moment, pairing "printsa" ("prince") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'The owner shouted for no reason today.' Denis sets a thoughtful course across the room, combining "khozyain" ("owner") and "segodnya" ("today") so the key meaning lands right away.
+- 'On the bright side, I am young and beautiful!' Denis holds a firm mood on the spot, linking "yuna" ("young"), "krasiva" ("beautiful"), and "zato" ("but on the other hand") in one brisk exchange.
+- 'Denis, this song is simply wonderful!' Katya adopts a playful attitude with Denis, linking "pesnya" ("song") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.

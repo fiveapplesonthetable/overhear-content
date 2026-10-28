@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, I brought the freshest goods.' Claiming that he brought the freshest goods sounds confident, even if Barinov has doubts.
-- 'They were still having breakfast this morning.' Pointing out that they were still having breakfast this morning gives Barinov a sobering reality check.
-- 'Why did you bring so much?' By asking why Barinov brings so much, Senya presses Barinov for a straight answer.
-- 'You yourselves asked for five kilograms.' Realizing that Barinov yourselves asked for five kilograms changes how Timur handles the situation. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'We asked for only five individual ones.' Noting that they asked for only five individual ones keeps Senya's side of the story simple and clear.
-- 'I do not sell them one by one.' Even though he does not sell them one by one, Timur keeps a steady face in front of Barinov.
-- 'If you do not buy them, others will.' Admitting that if Barinov does not buy them others will shows Timur being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'They will buy them at the Chinese restaurant.' Saying that they will buy them at the Chinese restaurant is how Timur sets the tone with Barinov.
-- 'Fine, hand them over here.' Between the kitchen and the moment, Senya gives Barinov a quick, grounded response.
-- 'Good morning, Timur.' With the kitchen and point in play, Barinov keeps this short reply brisk and direct.
-- 'I met Eleonora Andreevna on the street.' Timur tells Barinov that he met Eleonora Andreevna on the street without dressing it up.
-- 'She found us at the new place.' Since she found them at the new place, Timur does not waste words on excuses.
-- 'You always fed me great, Chef.' Over the kitchen and the situation, Timur answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Look, I brought the freshest goods.' Timur takes an honest attitude toward Barinov, using "smotri" (from "smotret", "look") alongside "svezhayshiy" ("freshest") to shape the meaning.
+- 'They were still having breakfast this morning.' Timur chooses a calm style on the spot, linking "yeshchyo" ("more, still"), "utra" ("morning"), and "zavtrakali" ("had breakfast") in one brisk exchange.
+- 'Why did you bring so much?' Senya tests dryly in the scene, building the phrase around "zachem" ("what for") and "mnogo" ("a lot") for a crisp, natural delivery.
+- 'You yourselves asked for five kilograms.' Timur sets a frank footing at this moment, leaning on "prosili" ("asked, requested") before closing the thought with "kilogramm" ("kilogram").
+- 'We asked for only five individual ones.' Senya sustains a steady position straight away, weaving "prosili" ("asked, requested") together with "tolko" ("only") just the way native speakers do.
+- 'I do not sell them one by one.' Timur presents a natural mood with Senya, putting "prodayu" ("I sell") alongside "odnomu" ("alone, by myself") in a tight, everyday turn of phrase.
+- 'If you do not buy them, others will.' Timur maintains an earnest direction in their talk, anchoring the Russian line on "kupish" ("to buy") and "kupyat" ("to buy") without extra filler.
+- 'They will buy them at the Chinese restaurant.' Timur brings a natural approach toward Senya, putting "kupyat" ("to buy") alongside "kitayskom" ("Chinese") in a tight, everyday turn of phrase.
+- 'Fine, hand them over here.' Senya keeps a steady posture on the spot, anchoring the Russian line on "davay" ("let's") and "syuda" ("here") without extra filler.
+- 'Good morning, Timur.' Barinov maintains a wry tone toward Timur, pairing "dobroye" ("good") with "utro" ("morning") to get the point across in plain spoken Russian.
+- 'I met Eleonora Andreevna on the street.' Timur presents a thoughtful direction straight away, pairing "vstretil" ("met") with "ulitse" ("street") to get the point across in plain spoken Russian.
+- 'She found us at the new place.' Timur conveys a grounded style straight away, joining "nashla" ("found, did you find") to "novom" ("new") so every word pulls its weight.
+- 'You always fed me great, Chef.' Timur displays a firm tempo for Barinov, pairing "vsegda" ("always") with "otlichno" ("perfect, great") to get the point across in plain spoken Russian.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not know, this is not mine.' Because she does not know this is not, Katya treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Who else needs to choose between you two?' Asking whether who else needs to choose between Barinov two puts Barinov right on the defensive.
-- 'Maybe Kostya is choosing a best friend for himself.' Admitting that maybe Kostya is choosing a best friend for himself shows Katya being honest for a change.
-- 'Chef, you were completely right today.' Pointing out that Barinov was completely right today gives Barinov a sobering reality check. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'That meat was definitely not a dog.' Once that meat was definitely not a dog, Senya can finally tell Barinov what he means.
-- 'Well finally you turned on your brains!' Declaring that finally Katya turned on Katya's brains brings Barinov's temper right to the surface. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Wait, are you making fun of me?' Asking whether Katya making fun of him is how Barinov puts Katya on the spot. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'No, chef, we read it on the internet.' By reading it on the internet, Senya keeps his side of the story grounded.
-- 'If my wife finds out, I am done for.' Mentioning that if his wife finds out he is done moves the talk in a new direction.
-- 'And it also says here about the prophet.' Senya reminds Barinov that it also says here about the prophet before the moment passes.
-- 'His spirit is reborn from the sacred flame.' Because his spirit is reborn from the sacred flame, Senya treats the matter as settled.
-- 'Get out of here while I am still in a good mood!' Getting out of here while he is still in a good mood shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I do not know, this is not mine.' Katya picks a clear footing in the room, leaning on "znayu" ("know") before closing the thought with "ya" ("I").
+- 'Who else needs to choose between you two?' Katya asks candidly right away, pairing "yeshchyo" ("more, still") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.
+- 'Maybe Kostya is choosing a best friend for himself.' Katya shares a playful angle for Barinov, combining "mozhet" ("can") and "vybirayet" ("chooses") so the key meaning lands right away.
+- 'Chef, you were completely right today.' Senya adopts an emphatic stance in the room, combining "byli" ("be") and "segodnya" ("today") so the key meaning lands right away.
+- 'That meat was definitely not a dog.' Senya keeps a resolute rhythm at this moment, combining "myaso" ("meat") and "tochno" ("definitely") so the key meaning lands right away.
+- 'Well finally you turned on your brains!' Barinov offers a serious course in this beat, weaving "nakonets-to" ("at last, finally") together with "vklyuchili" ("to turn on") just the way native speakers do.
+- 'Wait, are you making fun of me?' Barinov prompts candidly to keep things clear, weaving "podozhdite" ("wait") together with "nado" ("it is necessary") just the way native speakers do.
+- 'No, chef, we read it on the internet.' Senya projects a playful bearing as the scene unfolds, linking "prochitali" ("to read"), "internete" ("internet"), and "net" ("no") in one brisk exchange.
+- 'If my wife finds out, I am done for.' Senya establishes a clear position for Barinov, anchoring the Russian line on "zhena" ("wife") and "uznayet" ("will find out") without extra filler.
+- 'And it also says here about the prophet.' Senya sets a grounded note for Katya, joining "yeshchyo" ("more, still") to "tut" ("here") so every word pulls its weight.
+- 'His spirit is reborn from the sacred flame.' Senya presents a direct approach toward Barinov, putting "dukh" ("spirit") alongside "vozrozhdayetsya" ("is reborn, revives") in a tight, everyday turn of phrase.
+- 'Get out of here while I am still in a good mood!' Barinov brings a lively course in this beat, leaning on "poshli" ("let's go") before closing the thought with "otsyuda" ("from here").

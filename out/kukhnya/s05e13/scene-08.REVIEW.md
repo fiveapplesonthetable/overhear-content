@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, what on earth have you done here?' Asking whether what on earth have Barinov done here puts Barinov right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Did you really lock them all up?' Asking whether Barinov really lock them all up is how Gulya puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Forgive me, but this is for our sake.' Even though this is for their sake, Lyova keeps a steady face in front of Barinov.
-- 'They all wanted to stand in the way of our happiness.' Admitting that they all wanted to stand in the way of their happiness shows Lyova being honest for a change.
-- 'Nobody has ever loved me like this before!' Gulya declares that nobody has ever loved her like this as the tension in the room peaks. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Thank you for the kind words, guys.' With the wedding and kitchen in play, Lyova keeps this short reply brisk and direct.
-- 'Well, why did you blush like that?' Here wondering why Gulya blush like shows Barinov looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Let's all drink to the Chef together now!' Saying that they should all drink to the Chef together now is how Lyova takes charge of the moment. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Viktor Petrovich, we drink to you!' Drinking to Barinov is Lyova's blunt reaction in front of Barinov.
-- 'Thank you, Lyova, you are a true friend.' Mentioning that Gulya is a true friend moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I wish you immense family happiness.' Adding that he wishes Barinov immense family happiness fills in the missing piece for Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Pour the glasses full quickly, friends!' Because Gulya should pour the glasses full quickly, Barinov does not bother softening the blow for Gulya.
+- 'Lyova, what on earth have you done here?' Gulya tests pointedly in the scene, putting "tut" ("here") alongside "natvoril" ("did, got up to") in a tight, everyday turn of phrase.
+- 'Did you really lock them all up?' Gulya presses wryly without holding back, combining "zakryl" ("passed, closed") and "neuzheli" ("really, can it be") so the key meaning lands right away.
+- 'Forgive me, but this is for our sake.' Lyova shows a grounded rhythm beside Barinov, building the phrase around "prosti" ("sorry, forgive me") and "menya" ("me") for a crisp, natural delivery.
+- 'They all wanted to stand in the way of our happiness.' Lyova displays a direct line right away, anchoring the Russian line on "khoteli" ("wanted") and "pomeshat" ("to disturb") without extra filler.
+- 'Nobody has ever loved me like this before!' Gulya keeps a playful direction at once, joining "yeshchyo" ("more, still") to "lyubil" ("loved") so every word pulls its weight.
+- 'Thank you for the kind words, guys.' Lyova sustains a direct style in the room, building the phrase around "spasibo" ("thank you") and "dobryye" ("good, kind") for a crisp, natural delivery.
+- 'Well, why did you blush like that?' Barinov probes quietly to Gulya here, putting "pokrasnel" ("blush") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Let's all drink to the Chef together now!' Lyova brings a direct attitude in the conversation, combining "davayte" ("let's") and "teper" ("now") so the key meaning lands right away.
+- 'Viktor Petrovich, we drink to you!' Lyova shows a lively view in the scene, linking "pyom" ("to drink"), "viktor" ("Viktor"), and "petrovich" ("Petrovich") in one brisk exchange.
+- 'Thank you, Lyova, you are a true friend.' Barinov presents an easygoing style on the spot, pairing "spasibo" ("thank you") with "nastoyashchiy" ("real, genuine") to get the point across in plain spoken Russian.
+- 'I wish you immense family happiness.' Lyova favors an unhurried footing with Barinov, building the phrase around "zhelayu" ("I wish") and "ogromnogo" ("huge, vast") for a crisp, natural delivery.
+- 'Pour the glasses full quickly, friends!' Barinov favors a thoughtful posture in their talk, linking "nalivayte" ("pour"), "skoreye" ("quickly, right away"), and "polnyye" ("full, complete") in one brisk exchange.

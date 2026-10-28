@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Kostya, has this ever happened to you?' Checking whether this ever happened to Kostya cuts straight through the tension between Denis and Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I love our Katya very much.' Noting that he loves their Katya very much keeps Denis's side of the story simple and clear.
-- 'But in my dreams I see a completely different woman.' Denis tells Kostya that in his dreams he sees a completely different woman without dressing it up.
-- 'Tell me, is that normal at all or not?' Wondering if tell him is that normal at all or not shows Denis caught off guard. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Bro, my Nastya wants a second child.' Mentioning that bro his Nastya wants a second child moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And what you have is just an ordinary dream.' Kostya reminds Denis that what Denis has is just an ordinary dream before the moment passes.
-- 'It feels to me like I am deceiving her.' Because it feels to him like he is deceiving, Denis treats the matter as settled.
-- 'Maybe it is better to tell her the whole truth?' Asking whether maybe it is better to tell her the whole truth puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What, are you crazy? It is just a dream!' Wondering what Denis crazy is cuts straight through the tension between Kostya and Denis.
-- 'I once dreamed about a beautiful famous actress.' Over the friend and the truth, Kostya answers Denis without a second thought.
-- 'Actually, that actress has six children.' Pointing out that that actress has six children gives Denis a sobering reality check.
-- 'Nastya, I did not like that dream at all!' Because he did not like that dream at all, Kostya does not bother softening the blow for Denis.
+- 'Listen, Kostya, has this ever happened to you?' Denis tests frankly in this moment, weaving "slushay" ("listen") together with "byvalo" ("to happen, to be") just the way native speakers do.
+- 'I love our Katya very much.' Denis shows an unhurried note in the room, putting "ochen" ("very much") alongside "silno" ("strongly, much") in a tight, everyday turn of phrase.
+- 'But in my dreams I see a completely different woman.' Denis establishes a pointed direction in the conversation, putting "sne" ("dream, sleep") alongside "vizhu" ("see") in a tight, everyday turn of phrase.
+- 'Tell me, is that normal at all or not?' Denis prompts naturally in the scene, anchoring the Russian line on "skazhi" ("say") and "voobshche" ("at all") without extra filler.
+- 'Bro, my Nastya wants a second child.' Kostya chooses a resolute stance straight away, linking "brat" ("brother"), "khochet" ("wants"), and "vtorogo" ("second") in one brisk exchange.
+- 'And what you have is just an ordinary dream.' Kostya offers a playful rhythm right away, combining "u tebya" (literally "by you") with "prosto" ("just") rather than a separate word for "have".
+- 'It feels to me like I am deceiving her.' Denis offers an easygoing line right away, weaving "kazhetsya" ("it seems, I think") together with "obmanyvayu" ("deceive") just the way native speakers do.
+- 'Maybe it is better to tell her the whole truth?' Denis tests candidly in front of Nastya, leaning on "mozhet" ("can") before closing the thought with "luchshe" ("better").
+- 'What, are you crazy? It is just a dream!' Kostya probes wryly from the start, anchoring the Russian line on "durak" ("fool, idiot") and "prosto" ("just") without extra filler.
+- 'I once dreamed about a beautiful famous actress.' Kostya conveys a measured line as they talk, joining "odnazhdy" ("once, one day") to "snilas" ("to appear in a dream") so every word pulls its weight.
+- 'Actually, that actress has six children.' Nastya maintains an unhurried manner in this beat, combining the conversational booster "voobshche" ("in general, overall") with "voobshche-to" ("actually") to give the line its natural spoken rhythm.
+- 'Nastya, I did not like that dream at all!' Kostya adopts a sharp manner in this beat, combining "son" ("dream") and "sovsem" ("at all") so the key meaning lands right away.

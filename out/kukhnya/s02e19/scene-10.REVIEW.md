@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, single-celled organisms.' Over the shift and the dinner, Barinov answers Vika without a second thought.
-- 'Everyone is dismissed, see you tomorrow.' Vika mentions that everyone is dismissed see Barinov tomorrow so Barinov sees what is at stake.
-- 'Bye, everyone.' Around the moment and banquet, Barinov sets a calm, everyday tone with Vika.
-- 'More orders just came in, a party of eight arrived.' Pointing out that more orders just came in a party of eight arrived gives Barinov a sobering reality check.
-- 'What more orders? It is time to go home.' Barinov asks whether what more orders, refusing to let the point slide. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'It is time to go home.' Realizing that it is time to go home changes how Vika handles the situation. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'But Viktoriya Sergeyevna said.' Noting that Viktoriya Sergeyevna said keeps Barinov's side of the story simple and clear.
-- 'That these are very important guests.' Even though that these are very important guests, Vika keeps a steady face in front of Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well, just make it quick.' With the conversation and banquet in play, Barinov keeps this short reply brisk and direct.
-- 'Everything tastes so delicious.' Saying that everything tastes so delicious is how Vika sets the tone with Barinov.
-- 'Well then, thank you so much for the late dinner.' Over the conversation and the banquet, Barinov answers Vika without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Wait, I do not get it.' Adding that she does not get it fills in the missing piece for Barinov.
-- 'Thanks a lot, guys.' Between the conversation and the dinner, Barinov gives Vika a quick, grounded response.
+- 'Alright, single-celled organisms.' Barinov chooses a brisk line on the spot, anchoring the Russian line on "odnokletochnyye" ("single-celled") and "tak" ("so") without extra filler.
+- 'Everyone is dismissed, see you tomorrow.' Vika picks a warm rhythm straight away, linking "svobodny" ("free") directly with "zavtra" ("tomorrow"), since Russian drops "is" and "are" in the present.
+- 'Bye, everyone.' Barinov shows a steady line with Vika, putting "poka" ("bye") alongside "vsem" ("everyone") in a tight, everyday turn of phrase.
+- 'More orders just came in, a party of eight arrived.' Vika projects a firm bearing straight away, leaning on "yeshchyo" ("more, still") before closing the thought with "zakazy" ("orders").
+- 'What more orders? It is time to go home.' Barinov tests firmly with Vika now, linking "yeshchyo" ("more, still"), "zakazy" ("orders"), and "domoy" ("home") in one brisk exchange.
+- 'It is time to go home.' Vika picks an unhurried stance in the room, combining "domoy" ("home") and "pora" ("it's time") so the key meaning lands right away.
+- 'But Viktoriya Sergeyevna said.' Barinov sets a wry footing in the conversation, combining "skazala" ("told") and "viktoriya" ("Victoria") so the key meaning lands right away.
+- 'That these are very important guests.' Vika offers a sharp view right away, building the phrase around "ochen" ("very much") and "vazhnyye" ("important") for a crisp, natural delivery.
+- 'Well, just make it quick.' Barinov shares a serious view as the scene unfolds, joining "tolko" ("only") to "pobystreye" ("faster, more quickly") so every word pulls its weight.
+- 'Everything tastes so delicious.' Vika conveys a natural bearing for Barinov, weaving "kak" ("how") together with "vkusnenko" ("deliciously") just the way native speakers do.
+- 'Well then, thank you so much for the late dinner.' Barinov picks a thoughtful line in this beat, joining "spasibo" ("thank you") to "pozdniy" ("hour") so every word pulls its weight.
+- 'Wait, I do not get it.' Vika adopts a pointed tempo beside Barinov, weaving "ponyal" ("understood") together with "ne" ("not") just the way native speakers do.
+- 'Thanks a lot, guys.' Barinov offers a natural tone for Vika, pairing "rebyata" ("the boys, the lads") with "spasibo" ("thank you") to get the point across in plain spoken Russian.

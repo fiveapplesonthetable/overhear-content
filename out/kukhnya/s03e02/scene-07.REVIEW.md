@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eat! Insatiable.' With the meat and order at stake, Nastya reacts without holding back.
-- 'Here is a piece of candy.' Noting that here is a piece of candy keeps Nastya's side of the story simple and clear.
-- 'So, regarding the tenderloin.' Around the moment and meat, Max sets a calm, everyday tone with Ilya.
-- 'First of all, it must be fresh.' Admitting that first of all it must be fresh shows Max being honest for a change.
-- 'At a minimum.' With the moment and bet in play, Max keeps this short reply brisk and direct.
-- 'Picking up the lamb.' With the conversation and order in play, Ilya keeps this short reply brisk and direct.
-- 'Right, why is it getting cold here? Taking it.' When Ilya asks if right why is it getting cold here, Max has to answer fast.
-- 'Bon appetit!' Around the room and bet, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, what is this?' With the room and conversation hanging in the air, Ilya puts Max on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Apparently, the lamb was very delicious, and the cook couldn't resist.' Mentioning that apparently the lamb was very delicious and the cook could not resist moves the talk in a new direction.
-- 'Let me redo everything right now.' Because Ilya should let him redo everything right now, Max treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Forgive me! Well, you asked for it.' Max insists that Ilya asked for it, leaving Ilya no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Eat! Insatiable.' Nastya establishes a resolute stance across the room, putting "yesh" ("eat") alongside "nenasytnyy" ("insatiable") in a tight, everyday turn of phrase.
+- 'Here is a piece of candy.' Nastya offers a sharp stance with Max, leaning on "konfetka" ("piece of candy") before closing the thought with "vot" ("there, here").
+- 'So, regarding the tenderloin.' Max strikes a lively style in front of Ilya, anchoring the Russian line on "znachit" ("then, so") and "povodu" ("matter") without extra filler.
+- 'First of all, it must be fresh.' Max shows a sharp line for Nastya, using "dolzhna" (from "dolzhen", "should, must") alongside "byt" ("be") to shape the meaning.
+- 'At a minimum.' Max chooses a lively direction toward Ilya, weaving "kak" ("how") together with "minimum" ("at least, minimum") just the way native speakers do.
+- 'Picking up the lamb.' Ilya shows a candid view with Nastya, leaning on "yagnyonka" ("lamb") before closing the thought with "zabirayem" ("we are taking").
+- 'Right, why is it getting cold here? Taking it.' Ilya asks quietly across the room, combining "pochemu" ("why") and "zdes" ("here") so the key meaning lands right away.
+- 'Bon appetit!' Max keeps a serious view right away, pairing "priyatnogo" ("pleasant") with "appetita" ("appetite") to get the point across in plain spoken Russian.
+- 'Well, what is this?' Ilya tests calmly in their exchange, leaning on "nu" ("oh, come on") before closing the thought with "chto" ("what").
+- 'Apparently, the lamb was very delicious, and the cook couldn't resist.' Max keeps a lively footing in their talk, linking "vidimo" ("apparently"), "yagnyonok" ("lamb"), and "byl" ("was") in one brisk exchange.
+- 'Let me redo everything right now.' Max presents a sharp manner during the exchange, leaning on "davayte" ("let's") before closing the thought with "seychas" ("now").
+- 'Forgive me! Well, you asked for it.' Max holds a firm attitude in this beat, building the phrase around "prostite" ("excuse me") and "naprosilsya" ("asked for it") for a crisp, natural delivery.

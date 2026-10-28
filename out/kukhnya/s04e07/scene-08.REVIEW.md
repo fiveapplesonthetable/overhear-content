@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev himself asked me to save today's banquet!' Saying that Nagiyev himself asked him to save today banquet is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Because your new chef cannot handle it.' Admitting that because German's new cannot handle it shows Barinov being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Interesting, why was I not invited to this conversation?' Wondering if interesting why was he not invited to this conversation shows German caught off guard.
-- 'Let's go to the office, quickly, we will settle everything there!' Once they should go to the office quickly they will settle everything there, Barinov makes sure German hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dima, explain to him who is in charge here today!' Insisting that German should explain to him who is in charge here today shows Barinov is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vitya, we agreed that you would simply come.' Nagiyev tells Barinov that they agreed that Barinov would simply come without dressing it up.
-- 'You will only show your face to the important guests.' Since Barinov will only show Barinov's face to the important guests, Nagiyev does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'We had no agreement about any cooking!' Saying that they had no agreement about any cooking is how Nagiyev takes charge of the moment. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What is that you are saying to me right now, Dima?' Here asking what that German is saying to him right now Dima is shows Barinov looking for the real truth.
-- 'Calm down, I am begging you very much!' Here calming down he is begging Barinov very much lets Nagiyev's real feelings break through. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Today our German Mikhailovich is cooking in the kitchen.' Explaining that today their German Mikhailovich is cooking in the kitchen lays the cards on the table for Barinov.
-- 'And you simply carry the dishes out nicely to the hall!' With the truth and banquet at stake, Barinov reacts without holding back.
+- 'Nagiyev himself asked me to save today's banquet!' Barinov takes an earnest manner in the scene, building the phrase around "poprosil" ("asked") and "spasti" ("to save") for a crisp, natural delivery.
+- 'Because your new chef cannot handle it.' Barinov offers a clear attitude in the scene, weaving "potomu" ("because") together with "novyy" ("new") just the way native speakers do.
+- 'Interesting, why was I not invited to this conversation?' German inquires openly with Barinov now, leaning on "interesno" ("interesting") before closing the thought with "pochemu" ("why").
+- 'Let's go to the office, quickly, we will settle everything there!' Barinov maintains a direct tempo across the room, anchoring the Russian line on "poshli" ("let's go") and "kabinet" ("office") without extra filler.
+- 'Dima, explain to him who is in charge here today!' Barinov sets a direct line with German, leaning on "obyasni" ("explain") before closing the thought with "segodnya" ("today").
+- 'Vitya, we agreed that you would simply come.' Nagiyev establishes a direct attitude straight away, using "dogovarivalis" (from "dogovarivatsya", "had an agreement") alongside "prosto" ("just") to shape the meaning.
+- 'You will only show your face to the important guests.' Nagiyev maintains a thoughtful angle across the room, joining "tolko" ("only") to "pokazhesh" ("will show") so every word pulls its weight.
+- 'We had no agreement about any cooking!' Nagiyev sets a thoughtful tempo as the scene unfolds, putting "gotovku" ("cooking") alongside "ugovora" ("cooking") in a tight, everyday turn of phrase.
+- 'What is that you are saying to me right now, Dima?' Barinov presses plainly in front of German, building the phrase around "seychas" ("now") and "govorish" ("you say") for a crisp, natural delivery.
+- 'Calm down, I am begging you very much!' Nagiyev chooses a lively tack with German, pairing "uspokoysya" ("calm down") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'Today our German Mikhailovich is cooking in the kitchen.' Nagiyev picks a brisk note at once, linking "segodnya" ("today"), "kukhne" ("kitchen"), and "gotovit" ("cooks") in one brisk exchange.
+- 'And you simply carry the dishes out nicely to the hall!' Barinov shares an unhurried rhythm toward Nagiyev, anchoring the Russian line on "prosto" ("just") and "krasivo" ("beautifully") without extra filler.

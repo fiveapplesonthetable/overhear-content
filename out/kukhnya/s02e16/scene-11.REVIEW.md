@@ -11,31 +11,31 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Тимур, говядина свежая. | Timur, is the beef fresh? | #186: Тимур, говядина свежая | verbatim |
-| 2 | Сеня | Сегодня мне нужна самая свежая. | Today I need the freshest beef you have. | #187: Сегодня мне нужна самая свежая | verbatim |
-| 3 | Настя | Для тебя самая свежая завтрашняя. | For you, it is so fresh it is practically tomorrow's. | #188: Для тебя самая свежая завтрашняя | verbatim |
+| 2 | Елена | Сегодня мне нужна самая свежая. | Today I need the freshest beef you have. | #187: Сегодня мне нужна самая свежая | verbatim |
+| 3 | Лёва | Для тебя самая свежая завтрашняя. | For you, it is so fresh it is practically tomorrow's. | #188: Для тебя самая свежая завтрашняя | verbatim |
 | 4 | Шеф | Слушай, ну что ты хочешь? | Listen, what more could you ask for? | #189: Слушай, ну что ты хочешь | verbatim |
-| 5 | Сеня | Сегодняшнее хотел сказать. | I meant to say today's fresh cut. | #191: Сегодняшнее хотел сказать | verbatim |
-| 6 | Настя | Это для моих гостей. | This is for my personal guests. | #193: Это для моих гостей | verbatim |
+| 5 | Елена | Сегодняшнее хотел сказать. | I meant to say today's fresh cut. | #191: Сегодняшнее хотел сказать | verbatim |
+| 6 | Лёва | Это для моих гостей. | This is for my personal guests. | #193: Это для моих гостей | verbatim |
 | 7 | Шеф | И, кстати, сегодня меня не будет. | And by the way, I will not be in the kitchen tonight. | #194: И, кстати, сегодня меня не будет | verbatim |
-| 8 | Сеня | А вот так, Лева, сегодня вечером я гость. | That is right, Lyova, tonight I am dining as a guest. | #196: А вот так, Лева, сегодня вечером я гость | verbatim |
-| 9 | Настя | А ты будешь за шеф-повара. | And you will be acting as head chef. | #197: А ты будешь за шеф-повара | verbatim |
+| 8 | Елена | А вот так, Лева, сегодня вечером я гость. | That is right, Lyova, tonight I am dining as a guest. | #196: А вот так, Лева, сегодня вечером я гость | verbatim |
+| 9 | Лёва | А ты будешь за шеф-повара. | And you will be acting as head chef. | #197: А ты будешь за шеф-повара | verbatim |
 | 10 | Шеф | Ну как? | So how does it taste? | #198: Ну как | verbatim |
-| 11 | Сеня | Должно быть не просто хорошо, а великолепно. | It must be not merely good, but magnificent. | #201: Должно быть не просто хорошо, а великолепно | verbatim |
-| 12 | Настя | Ой, да, я хотела сказать паштет. | Oh, yes, I meant to say the pate. | #204: Ой, да, я хотела сказать паштет | verbatim |
+| 11 | Елена | Должно быть не просто хорошо, а великолепно. | It must be not merely good, but magnificent. | #201: Должно быть не просто хорошо, а великолепно | verbatim |
+| 12 | Елена | Ой, да, я хотела сказать паштет. | Oh, yes, I meant to say the pate. | #204: Ой, да, я хотела сказать паштет | verbatim |
 | 13 | Шеф | Ага, спасибо. | Got it, thank you. | #205: Ага, спасибо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, is the beef fresh?' Here checking whether the beef fresh shows Barinov looking for the real truth.
-- 'Today I need the freshest beef you have.' Since today he needs the freshest beef Barinov has, Senya does not waste words on excuses.
-- 'For you, it is so fresh it is practically tomorrow's.' Mentioning that for Barinov it is so fresh it is practically tomorrow moves the talk in a new direction.
-- 'Listen, what more could you ask for?' Questioning whether what more could Nastya asks is how Barinov tests Nastya's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I meant to say today's fresh cut.' Because he meant to say today fresh cut, Senya treats the matter as settled.
-- 'This is for my personal guests.' Explaining that this is for her personal guests lays the cards on the table for Barinov.
-- 'And by the way, I will not be in the kitchen tonight.' Saying that he will not be in the kitchen tonight is how Barinov sets the tone with Nastya.
-- 'That is right, Lyova, tonight I am dining as a guest.' Claiming that that is right Lyova tonight he is dining as a guest sounds confident, even if Barinov has doubts.
-- 'And you will be acting as head chef.' Pointing out that Barinov will be acting as head gives Barinov a sobering reality check.
-- 'So how does it taste?' By asking how it taste, Barinov presses Nastya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It must be not merely good, but magnificent.' Realizing that it must be not merely good but magnificent changes how Senya handles the situation.
-- 'Oh, yes, I meant to say the pate.' Noting that she meant to say the pate keeps Nastya's side of the story simple and clear.
-- 'Got it, thank you.' Even though got it thank Nastya, Barinov keeps a steady face in front of Nastya.
+- 'Timur, is the beef fresh?' Barinov queries evenly as they speak, weaving "govyadina" ("beef") together with "svezhaya" ("fresh") just the way native speakers do.
+- 'Today I need the freshest beef you have.' Elena favors a direct posture beside Lyova, leaning on "segodnya" ("today") before closing the thought with "nuzhna" ("needed").
+- 'For you, it is so fresh it is practically tomorrow's.' Lyova picks an easygoing footing toward Barinov, placing "samaya" ("most") straight beside "svezhaya" ("fresh") with no word for "to be" needed.
+- 'Listen, what more could you ask for?' Barinov wonders calmly in this moment, anchoring the Russian line on "slushay" ("listen") and "khochesh" ("do you want") without extra filler.
+- 'I meant to say today's fresh cut.' Elena offers a calm direction on the spot, linking "segodnyashneye" ("today's"), "khotel" ("wanted"), and "skazat" ("tell") in one brisk exchange.
+- 'This is for my personal guests.' Lyova shares a thoughtful position in front of Elena, using "gostey" (from "gost", "guests") alongside "eto" ("this") to shape the meaning.
+- 'And by the way, I will not be in the kitchen tonight.' Barinov picks a lively angle in the scene, combining the casual transition "kstati" ("by the way") with "segodnya" ("today") to give the line its natural spoken rhythm.
+- 'That is right, Lyova, tonight I am dining as a guest.' Elena keeps a clear tempo during the exchange, anchoring the Russian line on "segodnya" ("today") and "vecherom" ("in the evening") without extra filler.
+- 'And you will be acting as head chef.' Lyova shows a brisk manner beside Barinov, weaving "budesh" ("will") together with "shef-povara" ("head chef") just the way native speakers do.
+- 'So how does it taste?' Barinov probes candidly as the talk turns, anchoring the Russian line on "kak" ("how") and "nu" ("oh, come on") without extra filler.
+- 'It must be not merely good, but magnificent.' Elena keeps an unhurried angle with Barinov, combining the softening word "prosto" ("simply, just") with "dolzhno" ("ought, must") to give the line its natural spoken rhythm.
+- 'Oh, yes, I meant to say the pate.' Elena shows a lively line with Lyova, linking "khotela" ("wanted, meant"), "skazat" ("tell"), and "pashtet" ("pâté") in one brisk exchange.
+- 'Got it, thank you.' Barinov displays an unhurried rhythm on the spot, combining "spasibo" ("thank you") and "aga" ("yeah, right") so the key meaning lands right away.

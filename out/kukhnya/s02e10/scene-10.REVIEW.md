@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' Asking what this is is how Barinov puts Vika on the spot.
-- 'He is going to live with us.' Pointing out that he is going to live with them gives Barinov a sobering reality check.
-- 'And what do we need him for?' By wondering what they need him, Barinov presses Vika for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Come on, look how cool he is.' Coming on look how cool he is is how Vika lays out the situation for Barinov.
-- 'Please, please, please.' With the point and truth in play, Barinov keeps this short reply brisk and direct.
-- 'All right, fine.' With the truth and visit in play, Vika keeps this short reply brisk and direct.
-- 'Look, he can barely walk.' Admitting that he can barely walk shows Barinov being honest for a change.
-- 'Oh, come on.' Over the truth and the visit, Vika answers Barinov without a second thought.
-- 'Are you expected?' Asking whether Vika expected is how Barinov puts Vika on the spot. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'How may I help you?' Asking whether how may she helps Barinov puts Barinov right on the defensive.
-- 'Yes, that is our head chef.' Saying that that is their head is how Barinov sets the tone with Vika. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And where is he?' Asking where he is cuts straight through the tension between Vika and Barinov. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Perhaps you would like to take a seat?' When Barinov asks if perhaps Vika would like to take a seat, Vika has to answer fast.
+- 'What is this?' Barinov questions firmly without holding back, putting "chto" ("what") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'He is going to live with us.' Vika takes a sharp tone as they talk, joining "budet" ("will be") to "zhit" ("to live") so every word pulls its weight.
+- 'And what do we need him for?' Barinov quizzes earnestly across the room, linking "zachem" ("what for"), "on" ("he"), and "nam" ("us") in one brisk exchange.
+- 'Come on, look how cool he is.' Vika offers a lively attitude in this beat, weaving "smotri" ("look") together with "prikolnyy" ("cool") just the way native speakers do.
+- 'Please, please, please.' Barinov picks a clear posture in the scene, letting the single Russian word "pozhaluysta" ("please") carry the entire reaction on its own.
+- 'All right, fine.' Vika maintains a serious position in their talk, combining "nu" ("oh, come on") and "ladno" ("all right") so the key meaning lands right away.
+- 'Look, he can barely walk.' Barinov favors an honest course on the spot, linking "smotri" ("look"), "yele" ("barely, hardly"), and "khodit" ("walks") in one brisk exchange.
+- 'Oh, come on.' Vika shows a direct stance during the exchange, anchoring the Russian line on "nu" ("oh, come on") and "net" ("no") without extra filler.
+- 'Are you expected?' Barinov checks promptly to make the point, using "ozhidayut" (from "ozhidat", "to expect, to wait for") alongside "vas" ("you") to shape the meaning.
+- 'How may I help you?' Vika checks openly as the talk turns, combining "mogu" ("can") and "pomoch" ("to help") so the key meaning lands right away.
+- 'Yes, that is our head chef.' Barinov strikes a brisk footing in the conversation, pairing "shef-povar" ("head chef") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'And where is he?' Vika challenges evenly toward Barinov here, building the phrase around "gde" ("where") and "on" ("he") for a crisp, natural delivery.
+- 'Perhaps you would like to take a seat?' Barinov queries briskly with Vika now, leaning on "mozhet" ("can") before closing the thought with "prisyadete" ("to sit down").

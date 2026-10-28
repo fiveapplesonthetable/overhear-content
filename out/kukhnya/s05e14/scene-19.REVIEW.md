@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I hope you will do everything quickly for my daughter.' Hoping Katya will do everything quickly for her daughter moves the conversation forward without extra drama.
-- 'You do not even need to doubt that, Eleonora Andreyevna.' Claiming that Eleonora does not even need to doubt that Eleonora Andreyevna sounds confident, even if Eleonora has doubts.
-- 'Who is knocking at the door there? Hide quickly!' Here wondering who knocking at the door there is shows Eleonora looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Mom, are you not ashamed? Everyone is talking about this!' Wondering if Mom are Eleonora not ashamed shows Katya caught off guard.
-- 'Katya, forgive me, I just needed the money very badly.' Realizing that he just needed the money very badly changes how Max handles the situation.
-- 'Are you sleeping with my mom for money?' Asking whether Eleonora sleeping with her for money is how Katya puts Eleonora on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Have you lost your mind? What affair?' Checking whether Eleonora lost Eleonora's mind is how Max puts Eleonora on the spot.
-- 'Your mom paid me so that I would break up with you!' Declaring that Eleonora's paid him so that he would break up with Eleonora brings Max's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Sweetheart, I just wanted you to be happy!' Eleonora insists that sweetheart she just wanted Katya to be happy, leaving Katya no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Now do you understand that I was worried about you?' Checking whether Katya understands that she was worried about Katya is how Eleonora puts Katya on the spot.
-- 'And why did you not say that you two are not dating?' Asking why Katya not say that Katya two are not dating is how Eleonora puts Katya on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Why, you did not let me get a single word in!' Because why Eleonora did not let him get a single word, Max does not bother softening the blow for Eleonora. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'I hope you will do everything quickly for my daughter.' Eleonora chooses a lively approach in the room, anchoring the Russian line on "nadeyus" ("hope so") and "sdelayesh" ("will you make") without extra filler.
+- 'You do not even need to doubt that, Eleonora Andreyevna.' Max shares a frank rhythm in their talk, joining "mozhete" ("can, may") to "somnevatsya" ("to doubt") so every word pulls its weight.
+- 'Who is knocking at the door there? Hide quickly!' Eleonora prompts bluntly in front of Katya, combining "tam" ("there") and "stuchit" ("is knocking") so the key meaning lands right away.
+- 'Mom, are you not ashamed? Everyone is talking about this!' Katya probes wryly in front of Max, joining "mama" ("mum, mother") to "stydno" ("shameful") so every word pulls its weight.
+- 'Katya, forgive me, I just needed the money very badly.' Max sustains a pointed style right away, building the phrase around "prosti" ("sorry, forgive me") and "prosto" ("just") for a crisp, natural delivery.
+- 'Are you sleeping with my mom for money?' Katya asks bluntly to keep things clear, weaving "spish" ("are sleeping") together with "mamoy" ("Mum") just the way native speakers do.
+- 'Have you lost your mind? What affair?' Max queries promptly without a pause, leaning on "uma" ("mind") before closing the thought with "soshla" ("went off, lost").
+- 'Your mom paid me so that I would break up with you!' Max holds a frank manner during the exchange, pairing "mama" ("mum, mother") with "zaplatila" ("to pay") to get the point across in plain spoken Russian.
+- 'Sweetheart, I just wanted you to be happy!' Eleonora shares a wry tone for Katya, anchoring the Russian line on "dochenka" ("sweetheart") and "prosto" ("just") without extra filler.
+- 'Now do you understand that I was worried about you?' Eleonora asks wryly without a pause, putting "teper" ("now") alongside "ponimayesh" ("do you understand") in a tight, everyday turn of phrase.
+- 'And why did you not say that you two are not dating?' Eleonora tests boldly to keep things clear, putting "pochemu" ("why") alongside "skazal" ("said") in a tight, everyday turn of phrase.
+- 'Why, you did not let me get a single word in!' Max takes a frank stance during the exchange, linking "dali" ("gave"), "slova" ("words"), and "skazat" ("tell") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to say goodnight to you.' Admitting that she wanted to say goodnight to the guest shows Nastya being honest for a change. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Did you get so worked up over the sink?' Checking whether the guest gets so worked up over the sink cuts straight through the tension between Nastya and the guest.
-- 'Alright then, I forgive you.' Once Alright then she forgives the guest, Nastya can finally tell the guest what she means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I chose new furniture for the restaurant.' With the restaurant and morning in play, the guest keeps this short reply brisk and direct.
-- 'I just cannot make up my mind about the color.' Saying that he just cannot make up his mind about the color is how the guest sets the tone with Nastya.
-- 'What do you think, is gold not too much?' Asking what Nastya thinks is gold not too much cuts straight through the tension between the guest and Nastya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Dad, did you call me to talk about chairs?' Asking whether dad did the guest calls him to talk about chairs puts the guest right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I called you to offer you a good job.' Saying that he called Nastya to offer Nastya a good job is how the guest sets the tone with Nastya.
-- 'Enough, you have already proven everything to me.' Because enough Nastya has already proven everything to him, the guest treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Come back home soon, take the pen.' Coming back home soon take the pen is how the guest lays out the situation for Nastya.
-- 'Write down any good salary for yourself.' Noting that Nastya should write down any good salary for themselves keeps the guest's side of the story simple and clear.
-- 'Excuse me, I will answer quickly right now.' Claiming that he will answer quickly right now sounds confident, even if the guest has doubts.
+- 'I wanted to say goodnight to you.' Nastya maintains a sharp tone on the spot, putting "khotela" ("wanted, meant") alongside "skazat" ("tell") in a tight, everyday turn of phrase.
+- 'Did you get so worked up over the sink?' Nastya challenges warmly without hesitation, combining "razvolnovalsya" ("to get nervous") and "rakoviny" ("sink") so the key meaning lands right away.
+- 'Alright then, I forgive you.' Nastya presents a playful angle straight away, linking "proshchayu" ("to forgive"), "nu" ("oh, come on"), and "ladno" ("all right") in one brisk exchange.
+- 'I chose new furniture for the restaurant.' The guest strikes a wry attitude toward Nikita, joining "vybral" ("chose") to "novuyu" ("new") so every word pulls its weight.
+- 'I just cannot make up my mind about the color.' The guest shows a brisk tone in the conversation, building the phrase around "tsvetom" ("color") and "nikak" ("in no way") for a crisp, natural delivery.
+- 'What do you think, is gold not too much?' The guest questions decisively as the beat lands, anchoring the Russian line on "kak" ("how") and "schitayesh" ("to count, to think") without extra filler.
+- 'Dad, did you call me to talk about chairs?' Nikita questions warmly to the guest here, anchoring the Russian line on "papa" ("Dad") and "pozval" ("invited") without extra filler.
+- 'I called you to offer you a good job.' The guest shares a steady rhythm at this moment, putting "pozval" ("invited") alongside "predlozhit" ("to offer") in a tight, everyday turn of phrase.
+- 'Enough, you have already proven everything to me.' The guest adopts a warm attitude as the scene unfolds, weaving "khvatit" ("enough") together with "uzhe" ("already, now") just the way native speakers do.
+- 'Come back home soon, take the pen.' The guest sets a grounded line in the room, linking "vozvrashchaysya" ("return"), "skoreye" ("quickly, right away"), and "domoy" ("home") in one brisk exchange.
+- 'Write down any good salary for yourself.' The guest strikes an unhurried direction in the conversation, using "pishi" (from "pisat", "write") alongside "lyubuyu" ("any") to shape the meaning.
+- 'Excuse me, I will answer quickly right now.' Nikita conveys a thoughtful line on the spot, combining "izvini" ("sorry, excuse me") and "seychas" ("now") so the key meaning lands right away.

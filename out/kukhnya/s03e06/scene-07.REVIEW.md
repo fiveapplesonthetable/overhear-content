@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why are you keeping silent there?' Wondering why Max keeping silent there is cuts straight through the tension between Kostya and Max.
-- 'After all, you did not spend the night at home today.' Even though after all Max did not spend the night at home today, Kostya keeps a steady face in front of Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I see you managed after all today.' Since he sees Max managed after all today, Kostya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And Vika did not interfere this time.' Saying that Vika did not interfere this time is how Kostya sets the tone with Max.
-- 'Hello, dear Kostya.' Between the call and the work, Vika gives Kostya a quick, grounded response.
-- 'Oh, I will call you back later.' Adding that he will call Max back later fills in the missing piece for Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Take it, that is Kostya calling you.' Mentioning that Kostya should take it that is Kostya calling Kostya moves the talk in a new direction.
-- 'And it turns out you are a coward too.' Since it turns out Kostya is a coward, Vika does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How could I ever fall in love with you at all?' Wondering how she ever fall in love with Kostya at all could cuts straight through the tension between Vika and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Oh calm down finally.' Even though Kostya should calm down finally, Max keeps a steady face in front of Kostya.
-- 'Oh, it seems I fell!' Once it seems she fell, Vika makes sure Kostya hears every word. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Vika, maybe I can help you?' Questioning whether maybe he can help Kostya is how Max tests Kostya's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Max, why are you keeping silent there?' Kostya quizzes promptly across the room, linking "tam" ("there"), "molchish" ("are silent"), and "maks" ("Max") in one brisk exchange.
+- 'After all, you did not spend the night at home today.' Kostya sets a natural manner toward Vika, combining "segodnya" ("today") and "nocheval" ("spent the night") so the key meaning lands right away.
+- 'I see you managed after all today.' Kostya strikes an emphatic footing for Max, anchoring the Russian line on "vizhu" ("see") and "segodnya" ("today") without extra filler.
+- 'And Vika did not interfere this time.' Kostya sustains a steady manner in the conversation, using "pomeshala" (from "pomeshat", "disturbed, interrupted") alongside "raz" ("time, once") to shape the meaning.
+- 'Hello, dear Kostya.' Vika sets a wry tempo beside Kostya, weaving "dorogoy" ("dear") together with "zdravstvuy" ("hello") just the way native speakers do.
+- 'Oh, I will call you back later.' Kostya sets a wry note in this beat, building the phrase around "potom" ("then") and "perezvonyu" ("will call back") for a crisp, natural delivery.
+- 'Take it, that is Kostya calling you.' Vika conveys a measured rhythm across the room, using "vozmi" (from "vzyat", "take, pick up") alongside "zvonit" ("is calling") to shape the meaning.
+- 'And it turns out you are a coward too.' Vika holds a thoughtful stance during the exchange, linking "yeshchyo" ("more, still"), "trus" ("coward"), and "okazyvayetsya" ("to turn out to be") in one brisk exchange.
+- 'How could I ever fall in love with you at all?' Vika quizzes plainly for Kostya's benefit, pairing "vlyubitsya" ("fall in love") with "kak" ("how") so the "-sya" ending carries the action.
+- 'Oh calm down finally.' Max maintains a frank footing in front of Vika, combining "uspokoysya" ("calm down") and "nakonets" ("at last, finally") so the key meaning lands right away.
+- 'Oh, it seems I fell!' Vika strikes a playful manner with Kostya, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "upala" ("to fall, to drop") to shape the meaning.
+- 'Vika, maybe I can help you?' Max probes firmly across the room, using "mozhet" (from "moch", "can") alongside "pomogu" ("I'll help") to shape the meaning.

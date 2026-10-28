@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Вика | Слушай, вижу, у тебя все в порядке. | Listen, I see everything is going well for you. | #74: Слушай, вижу, у тебя все в порядке | verbatim |
 | 3 | Шеф | Опять на кухне? | Back in the kitchen again? | #75: Опять на кухне | verbatim |
 | 4 | Вика | Я вижу, вы знакомы. | I see the two of you know each other. | #76: Я вижу, вы знакомы | verbatim |
-| 5 | Шеф | Виктор Петрович мой первый шеф. | Viktor Petrovich was my first head chef. | #77: Виктор Петрович мой первый шеф | verbatim |
+| 5 | Вика | Виктор Петрович мой первый шеф. | Viktor Petrovich was my first head chef. | #77: Виктор Петрович мой первый шеф | verbatim |
 | 6 | Вика | Мой учитель. | My teacher. | #78: Мой учитель | verbatim |
 | 7 | Шеф | Где лучше поставить оборудование. | Where it is best to set up the equipment. | #80: где лучше поставить оборудование | verbatim |
 | 8 | Вика | Потом поговорим. | We will talk later. | #81: Потом поговорим | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How many years has it been?' Asking whether how many years has it been puts Vika right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Listen, I see everything is going well for you.' Claiming that she sees everything is going well for Barinov sounds confident, even if Barinov has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Back in the kitchen again?' Turning from the kitchen to the apartment, Barinov asks Vika directly.
-- 'I see the two of you know each other.' Because she sees the two of Barinov knows each other, Vika treats the matter as settled. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Viktor Petrovich was my first head chef.' Since Viktor Petrovich was his first head, Barinov does not waste words on excuses.
-- 'My teacher.' With the kitchen and shift in play, Vika keeps this short reply brisk and direct.
-- 'Where it is best to set up the equipment.' Barinov reminds Vika that where it is best to set up the equipment before the moment passes.
-- 'We will talk later.' Because they will talk later, Vika treats the matter as settled.
-- 'Igor, what are you doing here?' Wondering what Vika doing here is cuts straight through the tension between Barinov and Vika.
-- 'You are not replying to my text messages.' Vika mentions that Barinov is not replying to her text messages so Barinov sees what is at stake.
-- 'Well, because I have nothing to say to you.' Claiming that because he has nothing to say to Vika sounds confident, even if Vika has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Then you could have replied that you have nothing to say.' Pointing out that Barinov could have replied that Barinov has nothing to say gives Barinov a sobering reality check.
-- 'Are you waiting for someone?' Asking whether Vika waiting for someone cuts straight through the tension between Barinov and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'How many years has it been?' Barinov tests earnestly in the room, pairing "skolko" ("how much, so much") with "let" ("years") to get the point across in plain spoken Russian.
+- 'Listen, I see everything is going well for you.' Vika establishes a candid tempo across the room, combining "u tebya" (literally "by you") with "slushay" ("listen") rather than a separate word for "have".
+- 'Back in the kitchen again?' Barinov inquires pointedly across the room, building the phrase around "opyat" ("again") and "kukhne" ("kitchen") for a crisp, natural delivery.
+- 'I see the two of you know each other.' Vika offers a brisk line beside Barinov, using "vizhu" (from "videt", "see") alongside "znakomy" ("acquainted") to shape the meaning.
+- 'Viktor Petrovich was my first head chef.' Vika sustains a candid bearing with Barinov, pairing "pervyy" ("first") with "viktor" ("Viktor") to get the point across in plain spoken Russian.
+- 'My teacher.' Vika takes a firm note at this moment, putting "uchitel" ("teacher") alongside "moy" ("my") in a tight, everyday turn of phrase.
+- 'Where it is best to set up the equipment.' Barinov projects a pointed rhythm across the room, anchoring the Russian line on "gde" ("where") and "luchshe" ("better") without extra filler.
+- 'We will talk later.' Vika projects a clear angle right away, building the phrase around "potom" ("then") and "pogovorim" ("we'll have a talk") for a crisp, natural delivery.
+- 'Igor, what are you doing here?' Barinov checks honestly to Vika here, linking "zdes" ("here"), "delayesh" ("are you doing"), and "igor" ("Igor") in one brisk exchange.
+- 'You are not replying to my text messages.' Vika strikes an easygoing mood in their talk, weaving "otvechayesh" ("to answer, to reply") together with "sms" ("SMS, text message") just the way native speakers do.
+- 'Well, because I have nothing to say to you.' Barinov displays an earnest note toward Vika, putting "potomu" ("because") alongside "otvetit" ("answer") in a tight, everyday turn of phrase.
+- 'Then you could have replied that you have nothing to say.' Vika sustains a direct manner right away, joining "otvetila" ("answered") to "otvetit" ("answer") so every word pulls its weight.
+- 'Are you waiting for someone?' Barinov quizzes decisively right away, weaving "zhdesh" ("are waiting") together with "kogo-to" ("someone") just the way native speakers do.

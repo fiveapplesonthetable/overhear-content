@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how did the sous-chef's first day go?' Wondering if tell her how did the first day go shows Vika caught off guard.
-- 'German asked me to fire one cook.' Because German asked him to fire one cook, Max treats the matter as settled.
-- 'But I simply could not fire him.' Explaining that he simply could not fire him lays the cards on the table for Denis.
-- 'It is not at all necessary to fire a person directly.' Vika mentions that it is not at all necessary to fire a person directly so Denis sees what is at stake.
-- 'I heard the neighbors need cooks right now.' Claiming that she heard the neighbors need cooks right now sounds confident, even if Denis has doubts.
-- 'Are you suggesting getting him hired by our competitors?' By asking whether Denis suggesting getting him hired by their competitors, Max presses Denis for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, you are a real genius!' Max declares that Denis is a real genius as the tension in the room peaks.
-- 'By the way, his mom sent Denis good money.' Realizing that his sent Denis good money changes how Max handles the situation.
-- 'Already tomorrow he will move out of our place.' Noting that already tomorrow he will move out of their place keeps Max's side of the story simple and clear.
-- 'What a great mom he has after all!' Once what a great he has after all, Vika makes sure Denis hears every word.
-- 'Folks, did I interrupt you here?' Wondering if folks did he interrupt Max here shows Denis caught off guard. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Enjoy your bath, go to sleep quickly.' Max mentions that Denis should enjoy Denis's bath go to sleep quickly so Denis sees what is at stake.
+- 'Tell me, how did the sous-chef's first day go?' Vika inquires calmly during the talk, anchoring the Russian line on "rasskazhi" ("tell") and "kak" ("how") without extra filler.
+- 'German asked me to fire one cook.' Max takes a frank tack straight away, joining "poprosil" ("asked") to "uvolit" ("to fire") so every word pulls its weight.
+- 'But I simply could not fire him.' Max maintains a steady course in front of Denis, putting "prosto" ("just") alongside "smog" ("to be able") in a tight, everyday turn of phrase.
+- 'It is not at all necessary to fire a person directly.' Vika offers a lively position as they talk, combining "cheloveka" ("a man, a person") and "sovsem" ("at all") so the key meaning lands right away.
+- 'I heard the neighbors need cooks right now.' Vika keeps a wry posture in the scene, anchoring the Russian line on "slyshala" ("to hear") and "sosedyam" ("neighbour") without extra filler.
+- 'Are you suggesting getting him hired by our competitors?' Max questions steadily as the beat lands, putting "predlagayesh" ("are suggesting") alongside "ustroit" ("to arrange") in a tight, everyday turn of phrase.
+- 'Vika, you are a real genius!' Max conveys a frank note right away, placing "nastoyashchiy" ("real, genuine") straight beside "geniy" ("genius") with no word for "to be" needed.
+- 'By the way, his mom sent Denis good money.' Max holds an easygoing line as the scene unfolds, weaving "kstati" ("by the way") together with "mama" ("mum, mother") just the way native speakers do.
+- 'Already tomorrow he will move out of our place.' Max brings an unhurried style during the exchange, pairing "uzhe" ("already, now") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
+- 'What a great mom he has after all!' Vika takes a frank note across the room, linking "mama" ("mum, mother"), "molodets" ("well done, good boy"), and "kakaya" ("what, which") in one brisk exchange.
+- 'Folks, did I interrupt you here?' Denis inquires earnestly toward Max here, linking "druzya" ("friends"), "tut" ("here"), and "pomeshal" ("disturbed, interrupted") in one brisk exchange.
+- 'Enjoy your bath, go to sleep quickly.' Max adopts an emphatic approach without hesitation, putting "lyogkim" ("light, easy") alongside "parom" ("go") in a tight, everyday turn of phrase.

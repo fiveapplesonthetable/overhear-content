@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the occasion?' Asking what the occasion is is how Elena puts Barinov on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I have very important news.' Adding that he has very important news fills in the missing piece for Elena. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'They offered me a new job.' Between the shift and the pride, Barinov gives Elena a quick, grounded response.
-- 'I did not tell you, I wanted to make a surprise.' Noting that she did not tell Barinov she wanted to make a surprise keeps Elena's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'In two days I have a meeting with readers.' Even though in two days she has a meeting with readers, Elena keeps a steady face in front of Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Sorry, a new job?' Turning from the menu to the work, Elena asks Barinov directly.
-- 'Yes, but I decided to turn it down.' Saying that he decided to turn it down is how Barinov sets the tone with Elena.
-- 'I am going to fight for the star.' Because he is going to fight for the star, Barinov treats the matter as settled.
-- 'Right now I am going to introduce a new auteur menu.' Admitting that right now he is going to introduce a new auteur menu shows Barinov being honest for a change.
-- 'That is wonderful, you will be the first chef in Russia.' Saying that that is wonderful Barinov will be the first in Russia is how Elena sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And you wrote a culinary book.' Since Elena wrote a culinary book, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am very tired today.' Since he is very tired today, Barinov does not waste words on excuses.
+- 'What is the occasion?' Elena inquires frankly as the beat lands, weaving "povod" ("reason, occasion") together with "chto" ("what") just the way native speakers do.
+- 'I have very important news.' Barinov takes a candid posture for Elena, building the phrase around "ochen" ("very much") and "vazhnaya" ("important") for a crisp, natural delivery.
+- 'They offered me a new job.' Barinov conveys a sharp mood at once, joining "predlozhili" ("offered") to "novuyu" ("new") so every word pulls its weight.
+- 'I did not tell you, I wanted to make a surprise.' Elena strikes an earnest style toward Barinov, building the phrase around "govorila" ("said") and "khotela" ("wanted, meant") for a crisp, natural delivery.
+- 'In two days I have a meeting with readers.' Elena establishes a clear footing for Barinov, using "dnya" (from "den", "day") alongside "vstrecha" ("a meeting") to shape the meaning.
+- 'Sorry, a new job?' Elena questions steadily at this point, pairing "prosti" ("sorry, forgive me") with "novaya" ("new") to get the point across in plain spoken Russian.
+- 'Yes, but I decided to turn it down.' Barinov shows a serious approach in the scene, pairing "reshil" ("has decided") with "otkazatsya" ("to refuse, decline") to get the point across in plain spoken Russian.
+- 'I am going to fight for the star.' Barinov keeps an earnest line in their talk, joining "budu" ("will be") to "borotsya" ("to fight") so every word pulls its weight.
+- 'Right now I am going to introduce a new auteur menu.' Barinov adopts a thoughtful tack during the exchange, pairing "seychas" ("now") with "sobirayus" ("am planning") to get the point across in plain spoken Russian.
+- 'That is wonderful, you will be the first chef in Russia.' Elena keeps a measured mood in the room, combining "zamechatelno" ("wonderful") and "budesh" ("will") so the key meaning lands right away.
+- 'And you wrote a culinary book.' Barinov presents a natural course straight away, leaning on "napisala" ("to write") before closing the thought with "kulinarnuyu" ("culinary").
+- 'I am very tired today.' Barinov sustains a natural course right away, building the phrase around "ochen" ("very much") and "ustal" ("am tired") for a crisp, natural delivery.

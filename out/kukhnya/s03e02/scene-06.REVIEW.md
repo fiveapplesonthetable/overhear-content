@@ -21,19 +21,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Федя | Что так хочется? | What do you want so badly? | #82: Что так хочется | verbatim |
 | 10 | Федя | Я не позавтракал сегодня. | I didn't have breakfast today. | #83: Не позавтракал сегодня | adapted: adapted |
 | 11 | Федя | Представляешь, Макс всю колбасу ночью съел. | Can you imagine, Max ate all the sausage at night. | #83: Представляешь, Макс<br>#83: всю колбасу ночью | adapted: adapted |
-| 12 | Федя | Федя, сделай бутик, а? | Fedya, make me a sandwich, will you? | #84: сделай бутик, а | adapted: adapted |
+| 12 | Тимур | Федя, сделай бутик, а? | Fedya, make me a sandwich, will you? | #84: сделай бутик, а | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, can you give us a little manure?' Asking whether Nastya gives them a little manure is how Fedya puts Nastya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Manure? What do you mean, give? Buy it!' Here asking what Fedya means give shows Timur looking for the real truth.
-- 'Do you know what kind of manure this is?' By checking whether Fedya knows what kind of manure this is, Timur presses Fedya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This is the best manure, it is fresh.' Admitting that this is the best manure it is fresh shows Timur being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'How much? Shall we make a deal?' Over the shift and the meat, Fedya presses Nastya for a straight answer.
-- 'A baby needs proteins that are only in meat.' Once a baby needs proteins that are only in meat, Nastya can finally tell Fedya what she means.
-- 'Sometimes a pregnant woman feels a craving.' Adding that sometimes a pregnant woman feels a craving fills in the missing piece for Fedya.
-- 'Were you checking the weather like that?' Checking whether Fedya checking the weather like cuts straight through the tension between Nastya and Fedya.
-- 'What do you want so badly?' Asking what Nastya wants so badly is how Fedya puts Nastya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I didn't have breakfast today.' Mentioning that he did not have breakfast today moves the talk in a new direction.
-- 'Can you imagine, Max ate all the sausage at night.' Fedya reminds Nastya that can Nastya imagines Max ate all the sausage at night before the moment passes.
-- 'Fedya, make me a sandwich, will you?' Wondering if make him a sandwich will Nastya shows Fedya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Timur, can you give us a little manure?' Fedya inquires openly to make the point, linking "mozhesh" ("can"), "dat" ("to give"), and "nemnogo" ("a bit") in one brisk exchange.
+- 'Manure? What do you mean, give? Buy it!' Timur presses evenly at this point, weaving "navoza" ("manure") together with "smysle" ("sense") just the way native speakers do.
+- 'Do you know what kind of manure this is?' Timur queries naturally in front of Fedya, using "znayesh" (from "znat", "know") alongside "navoz" ("manure") to shape the meaning.
+- 'This is the best manure, it is fresh.' Timur brings a warm angle for Nastya, leaning on "luchshiy" ("best") before closing the thought with "navoz" ("manure").
+- 'How much? Shall we make a deal?' Fedya prompts pointedly from the start, anchoring the Russian line on "skolko" ("how much, so much") and "dogovorimsya" ("we'll arrange") without extra filler.
+- 'A baby needs proteins that are only in meat.' Nastya favors a wry style in their talk, linking "rebyonku" ("your child"), "neobkhodimy" ("necessary, essential"), and "belki" ("proteins") in one brisk exchange.
+- 'Sometimes a pregnant woman feels a craving.' Nastya sustains a serious footing straight away, joining "inogda" ("sometimes, at times") to "beremennaya" ("pregnant") so every word pulls its weight.
+- 'Were you checking the weather like that?' Nastya challenges decisively to Timur here, combining "pogodu" ("weather") and "smotrela" ("was looking") so the key meaning lands right away.
+- 'What do you want so badly?' Fedya questions quietly from the start, combining "khochetsya" ("want, feel like") and "chto" ("what") so the key meaning lands right away.
+- 'I didn't have breakfast today.' Fedya presents a direct footing in their talk, pairing "pozavtrakal" ("had breakfast") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'Can you imagine, Max ate all the sausage at night.' Fedya chooses a grounded angle for Nastya, anchoring the Russian line on "predstavlyayesh" ("can you imagine") and "kolbasu" ("sausage") without extra filler.
+- 'Fedya, make me a sandwich, will you?' Timur presses bluntly from the start, pairing "sdelay" ("make, do") with "butik" ("sandwich") to get the point across in plain spoken Russian.

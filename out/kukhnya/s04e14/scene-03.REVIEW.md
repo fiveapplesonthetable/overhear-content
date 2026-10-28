@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, I beg your pardon.' Begging Barinov's pardon moves the conversation forward without extra drama. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Yes, of course, everything is still on for tonight!' Barinov insists that everything is still on for tonight, leaving Elena no room to argue.
-- 'My guests will arrive at eight sharp.' Barinov reminds Elena that his guests will arrive at eight sharp before the moment passes.
-- 'We are closing the restaurant specially for friends.' Because they are closing the restaurant specially for friends, Barinov treats the matter as settled.
-- 'Viktor Petrovich, appreciate this irony of life.' Between the shift and the point, Elena gives Barinov a quick, grounded response.
-- 'Today we are helping to save rare leopards.' Elena mentions that today they are helping to save rare leopards so Barinov sees what is at stake.
-- 'And for this they give us benefits.' Over the shift and the room, Elena answers Barinov without a second thought. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It turns out that the leopards save us too.' Explaining that it turns out that the leopards save them lays the cards on the table for Barinov.
-- 'Nikolay Andreyevich, will you be having lunch right now?' Barinov asks whether someone Andreyevich will Elena is having lunch right now, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I have a plane in three hours.' Even though he has a plane in three hours, Lyova keeps a steady face in front of Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'So prepare lunch very quickly.' Explaining that Barinov should prepare lunch very quickly lays the cards on the table for Barinov.
-- 'And happy birthday, Viktor Petrovich!' With the point and restaurant at stake, Lyova reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Viktor Petrovich, I beg your pardon.' Elena favors a frank footing in this beat, using "proshu" (from "prosit", "beg, ask") alongside "proshcheniya" ("forgiveness") to shape the meaning.
+- 'Yes, of course, everything is still on for tonight!' Barinov conveys an honest tack at this moment, pairing "konechno" ("of course") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
+- 'My guests will arrive at eight sharp.' Barinov favors a candid direction as they talk, weaving "gosti" ("visitors, guests") together with "pridut" ("will come") just the way native speakers do.
+- 'We are closing the restaurant specially for friends.' Barinov conveys a measured mood with Lyova, pairing "spetsialno" ("on purpose") with "zakryvayem" ("close, are closing") to get the point across in plain spoken Russian.
+- 'Viktor Petrovich, appreciate this irony of life.' Elena maintains a thoughtful position as they talk, putting "otsenite" ("to appreciate") alongside "ironiyu" ("life") in a tight, everyday turn of phrase.
+- 'Today we are helping to save rare leopards.' Elena sets a serious direction as the scene unfolds, leaning on "segodnya" ("today") before closing the thought with "pomogayem" ("to help").
+- 'And for this they give us benefits.' Elena picks an earnest mood in the room, putting "dayut" ("they give") alongside "lgoty" ("benefits, allowances") in a tight, everyday turn of phrase.
+- 'It turns out that the leopards save us too.' Elena adopts a warm view at this moment, joining "vykhodit" ("goes out") to "leopardy" ("leopards") so every word pulls its weight.
+- 'Nikolay Andreyevich, will you be having lunch right now?' Barinov queries steadily to keep things clear, pairing "andreyevich" ("andreyevich") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'I have a plane in three hours.' Lyova picks a firm style straight away, using the everyday "u menya" ("by me") alongside "chasa" ("hours") to show what belongs to the speaker.
+- 'So prepare lunch very quickly.' Lyova shares a calm tack on the spot, leaning on "prigotovte" ("prepare, cook") before closing the thought with "obed" ("lunch").
+- 'And happy birthday, Viktor Petrovich!' Lyova favors a pointed approach as they talk, using "dnyom" (from "den", "day") alongside "rozhdeniya" ("of birth") to shape the meaning.

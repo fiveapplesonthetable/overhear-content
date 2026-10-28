@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Give me the microphone for a minute.' Pointing out that Barinov should give him the microphone for a minute gives Barinov a sobering reality check.
-- 'Since then we have always been together.' Pointing out that since then they have always been together gives Barinov a sobering reality check.
-- 'You fill my life with meaning!' Declaring that Barinov fills his life with meaning brings Denis's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Vika, look what he is doing!' Barinov insists that what he is doing, leaving Denis no room to argue.
-- 'You are my life!' Saying that Barinov is his life is how Denis takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You are my world!' Denis declares that Barinov is his world as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I need you so much, Katya.' Denis explains that he needs Barinov so much, keeping his voice calm and direct.
-- 'What are you doing, Denis?' With the truth and hotel hanging in the air, Katya puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I will tell you everything right now.' Denis explains that he will tell Barinov everything right now, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Katya, marry me!' Denis declares that Barinov should marry him as the tension in the room peaks.
-- 'What is that falling from above?' By asking what that falling from above is, Katya presses Barinov for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Where did these cockroaches come from?!' Wondering where these cockroaches come cuts straight through the tension between Barinov and Denis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Give me the microphone for a minute.' Denis establishes a steady rhythm in front of Barinov, leaning on "day" ("give") before closing the thought with "mikrofon" ("microphone").
+- 'Since then we have always been together.' Denis conveys a firm line toward Katya, building the phrase around "por" ("time") and "vsegda" ("always") for a crisp, natural delivery.
+- 'You fill my life with meaning!' Denis holds a firm tack in this beat, weaving "napolnyayesh" ("you fill") together with "zhizn" ("life") just the way native speakers do.
+- 'Vika, look what he is doing!' Barinov brings a resolute approach in the conversation, putting "smotri" ("look") alongside "delayet" ("does") in a tight, everyday turn of phrase.
+- 'You are my life!' Denis presents a clear angle during the exchange, building the phrase around "zhizn" ("life") and "ty" ("you") for a crisp, natural delivery.
+- 'You are my world!' Denis chooses a calm note in front of Katya, building the phrase around "mir" ("world") and "ty" ("you") for a crisp, natural delivery.
+- 'I need you so much, Katya.' Denis sustains a playful view for Barinov, building the phrase around "ochen" ("very much") and "nuzhna" ("needed") for a crisp, natural delivery.
+- 'What are you doing, Denis?' Katya tests evenly in their exchange, joining "delayesh" ("are you doing") to "chto" ("what") so every word pulls its weight.
+- 'I will tell you everything right now.' Denis shows an easygoing tack in the conversation, weaving "seychas" ("now") together with "skazhu" ("I'll tell") just the way native speakers do.
+- 'Katya, marry me!' Denis presents a measured posture toward Katya, putting "vykhodi" ("go out, marry") alongside "katya" ("Katya") in a tight, everyday turn of phrase.
+- 'What is that falling from above?' Katya inquires sharply in the room, leaning on "padayet" ("falls") before closing the thought with "sverkhu" ("upstairs, from above").
+- 'Where did these cockroaches come from?!' Barinov checks briskly in their exchange, linking "otkuda" ("where from"), "zdes" ("here"), and "tarakany" ("cockroaches") in one brisk exchange.

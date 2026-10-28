@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, I have two pairs right now.' Once he has two pairs right now, Mikhail can finally tell Barinov what he means.
-- 'What a great intrigue we have here.' Adding that what a great intrigue they have here fills in the missing piece for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I also have a strong full combination.' Saying that he also has a strong full combination is how the guest sets the tone with Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Go and open your safe quickly.' Telling Barinov to go and open Barinov's safe quickly is how the guest lays out the situation for Barinov.
-- 'I beg your pardon very much.' Barinov explains that he begs the guest's pardon very much, keeping his voice calm and direct. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I miscalculated my strength a little.' With the room and bet in play, Barinov keeps this short reply brisk and direct.
-- 'I do not have that kind of big money.' Because he does not have that kind of big money, Barinov treats the matter as settled.
-- 'Will you give me a small extension today?' Here checking whether the guest gives him a small extension today shows Barinov looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do you take me for a fool here?' Asking whether Barinov takes him for a fool here cuts straight through the tension between the guest and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Did you decide to cheat me so easily?' Checking whether Barinov decides to cheat him so easily is how the guest puts Barinov on the spot.
-- 'If there is no money tonight.' Pointing out that if there is no money tonight gives Barinov a sobering reality check.
-- 'You will owe me a lot more.' The guest explains that Barinov will owe him a lot, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Look, I have two pairs right now.' Mikhail picks a warm line in front of Barinov, using the everyday "u menya" ("by me") alongside "smotrite" ("look") to show what belongs to the speaker.
+- 'What a great intrigue we have here.' The guest adopts a frank tone as they talk, using "otlichnaya" (from "otlichnyy", "excellent") alongside "intriga" ("intrigue, suspense") to shape the meaning.
+- 'I also have a strong full combination.' The guest sustains a pointed mood at once, pairing "tozhe" ("too") with "silnaya" ("strong") to get the point across in plain spoken Russian.
+- 'Go and open your safe quickly.' The guest shows a frank position toward Mikhail, building the phrase around "idite" ("come") and "otkryvayte" ("open") for a crisp, natural delivery.
+- 'I beg your pardon very much.' Barinov displays a lively tack toward the guest, leaning on "ochen" ("very much") before closing the thought with "proshu" ("beg, ask").
+- 'I miscalculated my strength a little.' Barinov chooses a direct mood during the exchange, joining "nemnogo" ("a bit") to "rasschital" ("calculated") so every word pulls its weight.
+- 'I do not have that kind of big money.' Barinov holds an emphatic attitude with the guest, anchoring the Russian line on "bolshikh" ("big") and "deneg" ("money") without extra filler.
+- 'Will you give me a small extension today?' Barinov quizzes warmly in this moment, weaving "dadite" ("will give") together with "nebolshuyu" ("small, modest") just the way native speakers do.
+- 'Do you take me for a fool here?' The guest inquires bluntly right away, leaning on "tut" ("here") before closing the thought with "gluptsa" ("fool").
+- 'Did you decide to cheat me so easily?' The guest asks wryly as the beat lands, combining "reshili" ("decided") and "prosto" ("just") so the key meaning lands right away.
+- 'If there is no money tonight.' The guest shares a lively position in the scene, putting "segodnya" ("today") alongside "vecherom" ("in the evening") in a tight, everyday turn of phrase.
+- 'You will owe me a lot more.' The guest holds a resolute stance at this moment, anchoring the Russian line on "yeshchyo" ("more, still") and "mnogo" ("a lot") without extra filler.

@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = 'Laughing at how movies stuff product placement into every scene, Max, Fedya, and Senya hold up a bottle of cooking oil like actors in a commercial before debating their favorite film genres.'
 OPENER = "Let's walk through the product-placement parody line by line."
 TRANSITION = 'Now listen to the whole exchange again at natural speed.'
-OUTRO = "Remember that the Russian noun for cinema or movie is borrowed and indeclinable — it keeps its '-o' ending in every single grammatical case. Until next time!"
+OUTRO = "Remember that the Russian word for cinema or movie is borrowed and indeclinable — it keeps its '-o' ending in every single context. Until next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Федя, дай мне масло.', 'Fedya, give me the oil.', [(25, 'Дай масло')], 'adapted for A1 clarity'),
@@ -30,16 +30,16 @@ STORY = [
     ('senya', 'Ненавижу эти скучные понедельники.', 'I hate these boring Mondays.', [(34, 'Ненавижу понедельники')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'Fedya, give me the oil.' Admitting that Fedya should give him the oil shows Max being honest for a change."),
-    (1, None, "'Here you go, here is your oil.' Since here Max goes here is Max's oil, Fedya does not waste words on excuses."),
-    (2, None, '\'Oh, this is my favorite oil!\' Max declares that this is his favorite oil as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (3, None, "'Well yes, that is exactly right.' Saying that that is exactly right is how Senya sets the tone with Fedya."),
-    (4, None, "'Then at the movie theater we spit in disgust.' With the situation and conversation in play, Senya keeps this short reply brisk and direct."),
-    (5, None, "'And then they film a second part.' Around the situation and work, Senya sets a calm, everyday tone with Fedya."),
-    (6, None, '\'Our Arseny is a real film critic.\' Fedya mentions that their is a real film critic so Max sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (7, None, "'And what do you watch yourself?' By wondering what Max watches themselves, Fedya presses Max for a straight answer."),
-    (8, None, "'Here, the meat mallet is free now.' Pointing out that here the meat mallet is free now gives Fedya a sobering reality check."),
-    (9, None, "'Thanks, I do not need it anymore.' Noting that he does not need it anymore keeps Max's side of the story simple and clear."),
-    (10, None, "'I love a good manly movie.' Admitting that he loves a good manly movie shows Senya being honest for a change."),
-    (11, None, "'I hate these boring Mondays.' Hating these boring is how Senya lays out the situation for Fedya."),
+    (0, None, '\'Fedya, give me the oil.\' Max projects a natural course at once, joining "day" ("give") to "maslo" ("butter") so every word pulls its weight.'),
+    (1, None, '\'Here you go, here is your oil.\' Fedya offers a lively tack without hesitation, pairing "maslo" ("butter") with "pozhaluysta" ("please") to get the point across in plain spoken Russian.'),
+    (2, None, '\'Oh, this is my favorite oil!\' Max sets a firm course during the exchange, leaning on "lyubimoye" ("favorite") before closing the thought with "maslo" ("butter").'),
+    (3, None, '\'Well yes, that is exactly right.\' Senya holds an unhurried style in the room, building the phrase around "pravilno" ("right") and "nu" ("oh, come on") for a crisp, natural delivery.'),
+    (4, None, '\'Then at the movie theater we spit in disgust.\' Senya keeps a wry tack straight away, linking "potom" ("then"), "kinoteatre" ("theater"), and "plyuyomsya" ("disgust") in one brisk exchange.'),
+    (5, None, '\'And then they film a second part.\' Senya shares a clear position in the room, anchoring the Russian line on "potom" ("then") and "snimayut" ("film, shoot") without extra filler.'),
+    (6, None, '\'Our Arseny is a real film critic.\' Fedya holds a thoughtful position right away, placing "nastoyashchiy" ("real, genuine") straight beside "kinokritik" ("critic") with no word for "to be" needed.'),
+    (7, None, '\'And what do you watch yourself?\' Fedya probes quietly for Senya\'s benefit, combining "smotrish" ("are staring") and "sam" ("yourself") so the key meaning lands right away.'),
+    (8, None, '\'Here, the meat mallet is free now.\' Max projects a warm rhythm with Fedya, leaning on "molotok" ("mallet") before closing the thought with "uzhe" ("already, now").'),
+    (9, None, '\'Thanks, I do not need it anymore.\' Max displays an honest view at this moment, pairing "spasibo" ("thank you") with "uzhe" ("already, now") to get the point across in plain spoken Russian.'),
+    (10, None, '\'I love a good manly movie.\' Senya offers an honest posture on the spot, using "lyublyu" (from "lyubit", "love") alongside "khorosheye" ("lovely, good") to shape the meaning.'),
+    (11, None, '\'I hate these boring Mondays.\' Senya sets a sharp view at once, leaning on "nenavizhu" ("hate") before closing the thought with "skuchnyye" ("boring, dull").'),
 ]

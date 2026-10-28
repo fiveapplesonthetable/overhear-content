@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, here is your Stepan.' Because here is Barinov's Stepan, Max treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Let's make a swap.' Explaining that they should make a swap lays the cards on the table for Barinov.
-- 'This is a completely different boy.' Saying that this is a completely different boy is how Max sets the tone with Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Children cannot change that fast.' Claiming that children cannot change that fast sounds confident, even if Barinov has doubts.
-- 'Take off the mask and take a look.' Once Barinov should take off the mask and take a look, Max can finally tell Barinov what he means.
-- 'Where is my grandson then?' Here asking where his grandson then is shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We lifted the safe, careful!' With the restaurant and truth at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We go around the table carefully on the right.' Going around the table carefully on the right moves the conversation forward without extra drama.
-- 'Chef, you could help us instead!' Once Barinov could help them instead, Fedya makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Actually, that is exactly what I am doing.' Admitting that that is exactly what he is doing shows Barinov being honest for a change.
-- 'Bring it this way, pull toward yourself.' Pointing out that Barinov should bring it this way pull toward themselves gives Barinov a sobering reality check.
-- 'That is it, we are done for!' Saying that that is it they are done is how Fedya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Well, here is your Stepan.' Max displays a wry footing in the conversation, anchoring the Russian line on "nu" ("oh, come on") and "vot" ("there, here") without extra filler.
+- 'Let's make a swap.' Max sets a clear direction on the spot, anchoring the Russian line on "davay" ("let's") and "sdelayem" ("we'll do") without extra filler.
+- 'This is a completely different boy.' Max picks a brisk position in the room, combining "sovsem" ("at all") and "drugoy" ("other") so the key meaning lands right away.
+- 'Children cannot change that fast.' Max sustains an easygoing angle in their talk, leaning on "deti" ("kids") before closing the thought with "mogut" ("can").
+- 'Take off the mask and take a look.' Max takes a grounded rhythm toward Barinov, building the phrase around "snimite" ("withdraw, remove") and "masku" ("mask") for a crisp, natural delivery.
+- 'Where is my grandson then?' Max questions honestly right away, linking "gde" ("where") directly with "togda" ("back then"), since Russian drops "is" and "are" in the present.
+- 'We lifted the safe, careful!' Barinov favors a natural tempo without hesitation, building the phrase around "podnyali" ("lifted, raised") and "seyf" ("safe") for a crisp, natural delivery.
+- 'We go around the table carefully on the right.' Fedya establishes a calm angle in front of Max, combining "sprava" ("to the right") and "akkuratno" ("carefully, gently") so the key meaning lands right away.
+- 'Chef, you could help us instead!' Fedya shares a measured bearing as the scene unfolds, leaning on "pomogli" ("helped") before closing the thought with "luchshe" ("better").
+- 'Actually, that is exactly what I am doing.' Barinov takes an earnest view with Max, pairing "voobshche-to" ("actually") with "zanimayus" ("am handling") to get the point across in plain spoken Russian.
+- 'Bring it this way, pull toward yourself.' Fedya displays an emphatic view straight away, linking "davay" ("let's"), "syuda" ("here"), and "tyani" ("drag out, delay") in one brisk exchange.
+- 'That is it, we are done for!' Fedya brings a calm view across the room, pairing "konets" ("end") with "vsyo" ("everything") so the "-sya" ending carries the action.

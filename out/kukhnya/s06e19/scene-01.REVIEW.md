@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome back to us, Vitya!' With the point and hospital at stake, Eleonora reacts without holding back.
-- 'Misha, thank you for everything.' Around the truth and hospital, Barinov sets a calm, everyday tone with Eleonora. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And thank you all very much.' Between the truth and the hospital, Barinov gives Eleonora a quick, grounded response. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'But a special thank you to my son-in-law.' Over the truth and the team, Barinov answers Eleonora without a second thought.
-- 'Dad, he is not your son-in-law yet.' Even though dad he is not Barinov's son in law yet, Katya keeps a steady face in front of Barinov.
-- 'That title will be his in twenty-four hours.' Admitting that that title will be his in twenty four hours shows Katya being honest for a change.
-- 'Let us go to the kitchen quickly.' Going to the kitchen quickly together is how Barinov lays out the situation for Eleonora.
-- 'I want to look at my cooks.' Wanting to look at his cooks is how Barinov lays out the situation for Eleonora.
-- 'Vitya, wait here for a minute.' With the hospital and hotel in play, Eleonora keeps this short reply brisk and direct.
-- 'And where are all my guys?' Here asking where all his guys are shows Barinov looking for the real truth.
-- 'Vitya, get acquainted with this man.' Getting acquainted with this man is how Eleonora lays out the situation for Barinov.
-- 'This is our new head chef.' Mentioning that this is their new head moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Welcome back to us, Vitya!' Eleonora adopts an honest manner in the conversation, anchoring the Russian line on "vozvrashcheniyem" ("return") and "tebya" ("you") without extra filler.
+- 'Misha, thank you for everything.' Barinov strikes a measured rhythm in the room, anchoring the Russian line on "spasibo" ("thank you") and "misha" ("Misha") without extra filler.
+- 'And thank you all very much.' Barinov brings a brisk style at this moment, putting "bolshoye" ("big, very much") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
+- 'But a special thank you to my son-in-law.' Barinov picks an earnest direction for Katya, putting "osoboye" ("special") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
+- 'Dad, he is not your son-in-law yet.' Katya maintains a thoughtful posture on the spot, linking "papa" ("Dad") directly with "poka" ("bye"), since Russian drops "is" and "are" in the present.
+- 'That title will be his in twenty-four hours.' Katya adopts a calm posture toward Eleonora, joining "titul" ("title") to "budet" ("will be") so every word pulls its weight.
+- 'Let us go to the kitchen quickly.' Barinov brings a candid manner during the exchange, weaving "davayte" ("let's") together with "skoreye" ("quickly, right away") just the way native speakers do.
+- 'I want to look at my cooks.' Barinov brings a wry approach in the scene, pairing "khochu" ("want") with "posmotret" ("to look up") to get the point across in plain spoken Russian.
+- 'Vitya, wait here for a minute.' Eleonora holds a firm mood in this beat, using "podozhdi" (from "podozhdat", "wait") alongside "tut" ("here") to shape the meaning.
+- 'And where are all my guys?' Barinov tests honestly at this point, placing "gde" ("where") straight beside "rebyata" ("the boys, the lads") with no word for "to be" needed.
+- 'Vitya, get acquainted with this man.' Eleonora chooses a calm tone for Barinov, using "poznakomsya" (from "poznakomitsya", "to get acquainted") alongside "chelovekom" ("person, people") to shape the meaning.
+- 'This is our new head chef.' Eleonora adopts a calm stance in the conversation, joining "novyy" ("new") to "glavnyy" ("main, chief") so every word pulls its weight.

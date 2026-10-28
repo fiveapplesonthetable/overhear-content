@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Шеф | Екатерина, зайдите ко мне. | Yekaterina, come into my office. | #323: Екатерина, зайдите ко мне | verbatim |
 | 7 | Шеф | Ну что ж, поздравляю. | Well then, congratulations. | #324: Ну что ж, поздравляю | verbatim |
 | 8 | Шеф | У меня собеседование не смогла пройти. | You couldn't pass the interview with me. | #325: У меня собеседование не смогла пройти | verbatim |
-| 9 | Шеф | Пошла к Нагиеву. Браво! | You went to Nagiyev. Bravo! | #325: пошла к Нагиеву<br>#326: Браво | adapted: adapted |
+| 9 | Вика | Пошла к Нагиеву. Браво! | You went to Nagiyev. Bravo! | #325: пошла к Нагиеву<br>#326: Браво | adapted: adapted |
 | 10 | Шеф | Но тебе здесь будет нелегко. | But it will not be easy for you here. | #326: тебе здесь будет нелегко | adapted: adapted |
 | 11 | Вика | Папа, мне никогда не было легко. | Dad, it has never been easy for me. | #327: мне никогда не было легко | adapted: adapted |
 | 12 | Шеф | А кто платил за твоё обучение во Франции? | And who paid for your education in France? | #329: А кто платил за твое обучение во Франции | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I completely forgot. All right, I will come out now.' Saying that she completely forgot is how Vika sets the tone with Barinov.
-- 'Wow! Are you heading out on a date?' By checking whether Barinov heading out on a date, Max presses Barinov for a straight answer.
-- 'Maybe on a date.' Over the kitchen and the restaurant, Vika answers Barinov without a second thought.
-- 'Nice. When it is with me, it is no.' Max tells Barinov that when it is with him it is no without dressing it up.
-- 'That does not concern you.' Since that does not concern Barinov, Vika does not waste words on excuses.
-- 'Yekaterina, come into my office.' With the kitchen and office in play, Barinov keeps this short reply brisk and direct.
-- 'Well then, congratulations.' Over the kitchen and the office, Barinov answers Max without a second thought.
-- 'You couldn't pass the interview with me.' Because Max could not pass the interview with him, Barinov treats the matter as settled.
-- 'You went to Nagiyev. Bravo!' Barinov declares that Max went to Nagiyev as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'But it will not be easy for you here.' Barinov mentions that it will not be easy for Max here so Max sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dad, it has never been easy for me.' Claiming that dad it has never been easy sounds confident, even if Barinov has doubts.
-- 'And who paid for your education in France?' Barinov asks whether who paid for Max's education in France, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I completely forgot. All right, I will come out now.' Vika sustains a pointed position on the spot, building the phrase around "zabyla" ("forgot") and "sovsem" ("at all") for a crisp, natural delivery.
+- 'Wow! Are you heading out on a date?' Max checks briskly beside Vika, pairing "sobralas" ("to get ready") with "svidaniye" ("date") so the "-sya" ending carries the action.
+- 'Maybe on a date.' Vika offers a wry tack in the room, weaving "mozhet" ("can") together with "svidaniye" ("date") just the way native speakers do.
+- 'Nice. When it is with me, it is no.' Max favors a candid footing across the room, building the phrase around "normalno" ("fine, OK") and "kak" ("how") for a crisp, natural delivery.
+- 'That does not concern you.' Vika keeps a brisk view as the scene unfolds, anchoring the Russian line on "kasayetsya" ("concerns, applies to") and "tebya" ("you") without extra filler.
+- 'Yekaterina, come into my office.' Barinov adopts a frank position toward Vika, anchoring the Russian line on "zaydite" ("come in") and "yekaterina" ("Yekaterina") without extra filler.
+- 'Well then, congratulations.' Barinov picks an earnest style at this moment, putting "pozdravlyayu" ("congratulations") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'You couldn't pass the interview with me.' Barinov holds a serious tone as the scene unfolds, anchoring the Russian line on "sobesedovaniye" ("interview") and "smogla" ("could, was able") without extra filler.
+- 'You went to Nagiyev. Bravo!' Vika keeps a resolute view in the scene, using "poshla" (from "poyti", "am off") alongside "nagiyevu" ("Nagiyev") to shape the meaning.
+- 'But it will not be easy for you here.' Barinov offers an earnest attitude at once, joining "zdes" ("here") to "budet" ("will be") so every word pulls its weight.
+- 'Dad, it has never been easy for me.' Vika maintains a serious manner in the scene, putting "papa" ("Dad") alongside "nikogda" ("never") in a tight, everyday turn of phrase.
+- 'And who paid for your education in France?' Barinov probes steadily across the room, weaving "platil" ("paid") together with "obucheniye" ("training, tuition") just the way native speakers do.

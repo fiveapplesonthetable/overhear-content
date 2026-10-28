@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was a really good movie.' Once that was a really good movie, Barinov can finally tell Vika what he means.
-- 'I nearly burst into tears at the end.' With the plan and kitchen in play, Vika keeps this short reply brisk and direct.
-- 'I never would have guessed that you know how to cry.' Barinov tells Vika that he never would have guessed that Vika knows how to cry without dressing it up.
-- 'And why is that?' With the restaurant and plan hanging in the air, Vika puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Because you are a head chef.' Mentioning that because Vika is a head moves the talk in a new direction. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And we head chefs.' Between the plan and the point, Vika gives Barinov a quick, grounded response.
-- 'Are tough guys.' Because are tough guys, Barinov treats the matter as settled.
-- 'Listen, Viktor Petrovich, I am actually a woman.' Since she is actually a woman, Vika does not waste words on excuses.
-- 'Yes, in case you have not managed to notice yet.' Barinov mentions that in case Vika has not managed to notice yet so Vika sees what is at stake.
-- 'Right alongside tough guys like that.' Over the story and the conversation, Vika answers Barinov without a second thought.
-- 'By the way, I have wanted to ask you for a long time.' By having wanted to ask Vika for a long time, Barinov presses Vika for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What kind of name is that for a restaurant?' Asking whether what kind of name is that for a restaurant puts Barinov right on the defensive.
-- 'It simply means rainbow in Italian.' Realizing that it simply means rainbow in Italian changes how Barinov handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'That was a really good movie.' Barinov conveys a pointed course in the scene, pairing "khoroshiy" ("good") with "film" ("movie") to get the point across in plain spoken Russian.
+- 'I nearly burst into tears at the end.' Vika sets an unhurried course at once, pairing "rasplakalas" ("to burst into tears") with "chut" ("almost, nearly") so the "-sya" ending carries the action.
+- 'I never would have guessed that you know how to cry.' Barinov projects an easygoing view at once, joining "nikogda" ("never") to "podumal" ("would think") so every word pulls its weight.
+- 'And why is that?' Vika asks wryly as the beat lands, building the phrase around "pochemu" ("why") and "eto" ("this") for a crisp, natural delivery.
+- 'Because you are a head chef.' Barinov sustains a steady view toward Vika, building the phrase around "shef-povar" ("head chef") and "vy" ("you") for a crisp, natural delivery.
+- 'And we head chefs.' Vika takes a candid footing straight away, combining "my" ("we") and "shef" ("Chef") so the key meaning lands right away.
+- 'Are tough guys.' Barinov sets a wry line at this moment, placing "rebyata" ("the boys, the lads") straight beside "krepkiye" ("strong") with no word for "to be" needed.
+- 'Listen, Viktor Petrovich, I am actually a woman.' Vika takes a brisk style for Barinov, putting "slushayte" ("listen") alongside "voobshche-to" ("actually") in a tight, everyday turn of phrase.
+- 'Yes, in case you have not managed to notice yet.' Barinov favors a grounded manner during the exchange, linking "yeshche" ("still"), "uspeli" ("to make it"), and "zametit" ("to notice, spot") in one brisk exchange.
+- 'Right alongside tough guys like that.' Vika sets a clear stance as they talk, pairing "krepkimi" ("strong, sturdy") with "rebyatami" ("kids, guys") to get the point across in plain spoken Russian.
+- 'By the way, I have wanted to ask you for a long time.' Barinov quizzes steadily at this point, joining "davno" ("for a long time") to "khotel" ("wanted") so every word pulls its weight.
+- 'What kind of name is that for a restaurant?' Vika presses quietly in front of Barinov, building the phrase around "nazvaniye" ("name, title") and "restorana" ("restaurant") for a crisp, natural delivery.
+- 'It simply means rainbow in Italian.' Barinov keeps a sharp position right away, joining "prosto" ("just") to "tsvet" ("colour") so every word pulls its weight.

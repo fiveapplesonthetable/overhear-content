@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Может, они не вспомнят? | Maybe they will not even remember those dishes? | #254: Может, они не вспомнят | verbatim |
-| 2 | Федя | Рот закрой, Федя. | Shut your mouth, Fedya. | #255: Рот закрой, Федя | verbatim |
+| 2 | Нагиев | Рот закрой, Федя. | Shut your mouth, Fedya. | #255: Рот закрой, Федя | verbatim |
 | 3 | Нагиев | А они все вспомнят. | They will remember every single thing. | #256: А они все вспомнят | verbatim |
 | 4 | Шеф | Они бабки за это платили. | They paid good money for that menu. | #257: Они бабки за это платили | verbatim |
 | 5 | Федя | Быстро готовьте. | Cook it right now, fast. | #258: Быстро готовьте | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe they will not even remember those dishes?' Wondering if maybe they will not even remember those dishes shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Shut your mouth, Fedya.' Fedya mentions that Barinov should shut Barinov's mouth so Barinov sees what is at stake.
-- 'They will remember every single thing.' Saying that they will remember every single thing is how Nagiyev sets the tone with Barinov.
-- 'They paid good money for that menu.' Because they paid good money for that menu, Barinov treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Cook it right now, fast.' Telling Barinov to cook it right now fast moves the conversation forward without extra drama.
-- 'Dima, we will not make it in time.' Nagiyev mentions that they will not make it in time so Barinov sees what is at stake.
-- 'We do not even have the ingredients here.' Claiming that they do not even have the ingredients here sounds confident, even if Fedya has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Chef, you will have your hour, I will handle everything.' Pointing out that Barinov will have Barinov's hour he will handle everything gives Barinov a sobering reality check.
-- 'Get out of here right now.' Getting out of here right now is how Nagiyev lays out the situation for Barinov.
-- 'I am the one who decides who goes where and when.' By being the one who decides who goes, Barinov keeps his side of the story grounded.
-- 'What did you just say, kid?' Wondering what Barinov just say kid cuts straight through the tension between Fedya and Barinov.
-- 'Did all of you hear that?' Asking whether all of Barinov hears is how Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Start prepping the appetizers, he will handle it.' Since Fedya should start prepping the appetizers he will handle it, Barinov does not waste words on excuses.
+- 'Maybe they will not even remember those dishes?' Barinov probes naturally on the spot, weaving "mozhet" ("can") together with "vspomnyat" ("to remember") just the way native speakers do.
+- 'Shut your mouth, Fedya.' Nagiyev presents a grounded tack at once, linking "rot" ("mouth"), "zakroy" ("shut, close"), and "fedya" ("Fedya") in one brisk exchange.
+- 'They will remember every single thing.' Nagiyev chooses a resolute approach straight away, leaning on "vspomnyat" ("to remember") before closing the thought with "oni" ("they").
+- 'They paid good money for that menu.' Barinov shares a calm footing without hesitation, putting "babki" ("grand") alongside "platili" ("pay") in a tight, everyday turn of phrase.
+- 'Cook it right now, fast.' Fedya shows a direct manner with Barinov, building the phrase around "bystro" ("quickly") and "gotovte" ("cook") for a crisp, natural delivery.
+- 'Dima, we will not make it in time.' Nagiyev shares a frank note in this beat, leaning on "uspeyem" ("we'll make it") before closing the thought with "dim" ("Dima").
+- 'We do not even have the ingredients here.' Barinov shows an honest tone in this beat, building the phrase around "nas" ("us") and "yego" ("him") for a crisp, natural delivery.
+- 'Chef, you will have your hour, I will handle everything.' Fedya sets an earnest tempo right away, leaning on "budet" ("will be") before closing the thought with "chas" ("hour").
+- 'Get out of here right now.' Nagiyev establishes a candid view right away, combining "poshel" ("go, off you go") and "otsyuda" ("from here") so the key meaning lands right away.
+- 'I am the one who decides who goes where and when.' Barinov establishes a measured footing at this moment, combining "reshayu" ("decide") and "kuda" ("where to") so the key meaning lands right away.
+- 'What did you just say, kid?' Fedya challenges firmly on the spot, weaving "skazal" ("said") together with "malysh" ("kid, little one") just the way native speakers do.
+- 'Did all of you hear that?' Nagiyev inquires frankly right away, putting "slyshali" ("did you hear") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'Start prepping the appetizers, he will handle it.' Barinov offers a calm course at this moment, using "gotovte" (from "gotovit", "cook") alongside "zakuski" ("appetizer, snack") to shape the meaning.

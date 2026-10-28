@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, I am the head chef of the restaurant.' Saying that he is the head of the restaurant is how Barinov sets the tone with the guest.
-- 'Tell me, was it you who called for me just now?' Questioning whether tell him was it the guest who called for him just now is how Barinov tests the guest's story.
-- 'Yes, I called, I found a cockroach in my plate.' The guest explains that he called he found a cockroach in his plate, keeping his voice calm and direct.
-- 'Do you understand that I can sue you for this?' Asking whether Barinov understands that he can sue Barinov for this cuts straight through the tension between the guest and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I do not understand you, I do not see a cockroach here.' Noting that he does not understand the guest he does not see a cockroach here keeps Barinov's side of the story simple and clear.
-- 'So that is how you talk to me, yes?' When the guest asks if that is how Barinov talks to him yes, Barinov has to answer fast. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'By the way, I am a well-known journalist.' Explaining that he is a well known journalist lays the cards on the table for Barinov.
-- 'And all of Moscow will soon find out about this.' Saying that all of Moscow will soon find out about this is how the guest sets the tone with Barinov.
-- 'I firmly promise you that.' Turning from the table to the work, the guest keeps the exchange moving. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Right now I am going to photograph it.' Adding that right now he is going to photograph it fills in the missing piece for Barinov.
-- 'Ah, so you are talking about this?' Wondering if the guest is talking about this shows Barinov caught off guard.
-- 'Listen, this is not a cockroach at all.' Since this is not a cockroach at all, Barinov does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Good afternoon, I am the head chef of the restaurant.' Barinov conveys a clear course in front of the guest, putting "dobryy" ("good") alongside "den" ("day") in a tight, everyday turn of phrase.
+- 'Tell me, was it you who called for me just now?' Barinov quizzes wryly as the talk turns, linking "skazhite" ("tell"), "seychas" ("now"), and "zvali" ("called") in one brisk exchange.
+- 'Yes, I called, I found a cockroach in my plate.' The guest favors a warm note across the room, using "zval" (from "zvat", "called, invited") alongside "tarelke" ("plate") to shape the meaning.
+- 'Do you understand that I can sue you for this?' The guest asks sharply as they speak, anchoring the Russian line on "ponimayete" ("do you understand") and "mogu" ("can") without extra filler.
+- 'I do not understand you, I do not see a cockroach here.' Barinov chooses a grounded tone as the scene unfolds, anchoring the Russian line on "ponimayu" ("understand") and "vizhu" ("see") without extra filler.
+- 'So that is how you talk to me, yes?' The guest probes earnestly beside Barinov, linking "kak" ("how"), "razgovarivayete" ("are talking"), and "vot" ("there, here") in one brisk exchange.
+- 'By the way, I am a well-known journalist.' The guest chooses a playful bearing for Barinov, using "prochim" (from "prochiy", "other") alongside "izvestnyy" ("famous, well-known") to shape the meaning.
+- 'And all of Moscow will soon find out about this.' The guest chooses an easygoing bearing in the room, joining "skoro" ("soon") to "uznayet" ("will find out") so every word pulls its weight.
+- 'I firmly promise you that.' The guest shows an honest line in this beat, weaving "tvyordo" ("firmly") together with "obeshchayu" ("promise") just the way native speakers do.
+- 'Right now I am going to photograph it.' The guest establishes a pointed rhythm at once, anchoring the Russian line on "seychas" ("now") and "sobirayus" ("am planning") without extra filler.
+- 'Ah, so you are talking about this?' Barinov questions quietly as the talk turns, using "govorite" (from "govorit", "say, speak") alongside "tak" ("so") to shape the meaning.
+- 'Listen, this is not a cockroach at all.' Barinov conveys a wry view right away, weaving "poslushayte" ("listen") together with "vovse" ("at all") just the way native speakers do.

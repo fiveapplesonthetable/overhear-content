@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No need for any options, I can spend the night at the train station.' Even though Barinov should need for any options he can spend the night at the train station, Max keeps a steady face in front of Barinov.
-- 'Fine, he will stay at my place until your wedding.' Claiming that fine he will stay at her place until Barinov's wedding sounds confident, even if Barinov has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And right after the wedding you will take him to your place.' Pointing out that right after the wedding Barinov will take him to Barinov's place gives Barinov a sobering reality check. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Of course we will take him! Thank you very much, Doctor!' Once they will take him, Max makes sure Barinov hears every word.
-- 'Good evening, Sergey! May I come in?' Barinov asks whether may he comes, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Sergey, we need to calmly clear up our situation.' Between the hotel and the kitchen, Barinov gives Max a quick, grounded response. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Some misunderstanding happened between us today.' With the hotel and moment in play, Barinov keeps this short reply brisk and direct.
-- 'Oh, my fault, I accidentally dropped my cork.' Around the hotel and conversation, Barinov sets a calm, everyday tone with Max.
-- 'The situation between us really does need to be cleared up right away.' Saying that the situation between them really does need to be cleared up right away is how Max sets the tone with Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'First, to you I am not Sergey, but Sergey Vladimirovich.' Once first to Barinov he is not Sergey but Sergey Vladimirovich, Max can finally tell Barinov what he means.
-- 'And second, I never drink with subordinates.' Adding that second he never drinks with subordinates fills in the missing piece for Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Try not to be late for work tomorrow morning.' Claiming that Barinov should try not to be late for work tomorrow morning sounds confident, even if Barinov has doubts.
+- 'No need for any options, I can spend the night at the train station.' Max sets a wry style beside Barinov, joining "nado" ("it is necessary") to "variantov" ("options") so every word pulls its weight.
+- 'Fine, he will stay at my place until your wedding.' Vika conveys a measured line beside Max, linking "khorosho" ("good, fine"), "pozhivyot" ("will stay"), and "svadby" ("wedding") in one brisk exchange.
+- 'And right after the wedding you will take him to your place.' Vika favors a lively manner in front of Barinov, putting "srazu" ("at once") alongside "svadby" ("wedding") in a tight, everyday turn of phrase.
+- 'Of course we will take him! Thank you very much, Doctor!' Max picks a candid approach in the conversation, building the phrase around "konechno" ("of course") and "srazu" ("at once") for a crisp, natural delivery.
+- 'Good evening, Sergey! May I come in?' Barinov quizzes bluntly right away, linking "dobryy" ("good"), "vecher" ("evening"), and "mogu" ("can") in one brisk exchange.
+- 'Sergey, we need to calmly clear up our situation.' Barinov presents a candid bearing as they talk, anchoring the Russian line on "nado" ("it is necessary") and "spokoyno" ("calmly") without extra filler.
+- 'Some misunderstanding happened between us today.' Barinov brings a pointed tempo on the spot, leaning on "segodnya" ("today") before closing the thought with "proizoshlo" ("happened").
+- 'Oh, my fault, I accidentally dropped my cork.' Barinov projects an emphatic direction with Vika, using "vinovat" (from "vinovatyy", "at fault, guilty") alongside "sluchayno" ("by any chance") to shape the meaning.
+- 'The situation between us really does need to be cleared up right away.' Max establishes a clear course toward Barinov, putting "situatsiyu" ("the situation") alongside "deystvitelno" ("really, indeed") in a tight, everyday turn of phrase.
+- 'First, to you I am not Sergey, but Sergey Vladimirovich.' Max takes a serious stance at this moment, placing "vo-pervykh" ("first of all") straight beside "ya" ("I") with no word for "to be" needed.
+- 'And second, I never drink with subordinates.' Max favors a wry tone on the spot, leaning on "vo-vtorykh" ("second") before closing the thought with "nikogda" ("never").
+- 'Try not to be late for work tomorrow morning.' Max takes a direct view in the conversation, building the phrase around "postaraytes" ("try") and "zavtra" ("tomorrow") for a crisp, natural delivery.

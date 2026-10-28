@@ -16,7 +16,7 @@ TRANSITION = "Alright, let's hear the entire conversation one more time from sta
 OUTRO = "Nagiyev's dream of a rich investor vanishes in an instant when he learns the oligarch is just as broke as he is. Until next time!"
 CLOSING = ('guest', 'Хорошего дня!')
 STORY = [
-    ('max', 'Макс, мы все сегодня тобой очень гордимся.', 'Max, we are all very proud of you today.', [(260, 'Макс, мы тобой гордимся')], 'adapted'),
+    ('nagiyev', 'Макс, мы все сегодня тобой очень гордимся.', 'Max, we are all very proud of you today.', [(260, 'Макс, мы тобой гордимся')], 'adapted'),
     ('max', 'Это не я молодец, это Айнура плов приготовила.', 'I am not the hero, Ainura cooked the pilaf.', [(261, 'это Айнура плов приготовил')], 'adapted'),
     ('nagiyev', 'Сергей Фёдорович, вы что это тут делаете?', 'Sergey Fyodorovich, what are you doing in here?', [(263, 'Сергей Федорович, вы что это тут')], 'adapted'),
     ('guest', 'Дима, а что мне теперь ещё остаётся?', 'Dima, what else is left for me now?', [(264, 'Что мне еще остается')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Там все дома радуются и весело смеются.', 'Everyone at home rejoices and laughs merrily there.', [(272, 'Все смеются')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'Max, we are all very proud of you today.\' Since they are all very proud of the guest today, Max does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (1, None, '\'I am not the hero, Ainura cooked the pilaf.\' Once he is not the hero Ainura cooked the pilaf, Max can finally tell the guest what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (2, None, "'Sergey Fyodorovich, what are you doing in here?' Nagiyev asks whether Sergey Fyodorovich what are the guest doing in here, refusing to let the point slide."),
-    (3, None, '\'Dima, what else is left for me now?\' Asking whether what else is left for him now puts Max right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (4, None, "'I lost all my money, I am completely bankrupt.' Explaining that he lost all his money he is completely bankrupt lays the cards on the table for Max."),
-    (5, None, "'Wait, who are you? Are you bankrupt too?' Asking who the guest is cuts straight through the tension between Nagiyev and the guest."),
-    (6, None, "'You see, without money nobody needs me anymore.' Claiming that without money nobody needs him anymore sounds confident, even if Max has doubts."),
-    (7, None, '\'Yes, now I see that very well.\' Nagiyev mentions that he sees that very well so the guest sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (8, None, "'Listen, why did you not go home?' By asking why the guest not go home, Nagiyev presses the guest for a straight answer."),
-    (9, None, "'At home the walls are so warm and cozy.' Realizing that at home the walls are so warm and cozy changes how Nagiyev handles the situation."),
-    (10, None, '\'Your wife and children walk around you there.\' Around the work and banquet, Nagiyev sets a calm, everyday tone with the guest. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (11, None, "'Everyone at home rejoices and laughs merrily there.' Even though everyone at home rejoices and laughs merrily there, Nagiyev keeps a steady face in front of the guest."),
+    (0, None, '\'Max, we are all very proud of you today.\' Nagiyev sets a calm tone as the scene unfolds, pairing "gordimsya" ("we are proud of") with "segodnya" ("today") so the "-sya" ending carries the action.'),
+    (1, None, '\'I am not the hero, Ainura cooked the pilaf.\' Max shows an earnest manner at once, building the phrase around "molodets" ("well done, good boy") and "plov" ("pilaf") for a crisp, natural delivery.'),
+    (2, None, '\'Sergey Fyodorovich, what are you doing in here?\' Nagiyev queries quietly as the beat lands, building the phrase around "tut" ("here") and "delayete" ("are doing") for a crisp, natural delivery.'),
+    (3, None, '\'Dima, what else is left for me now?\' The guest questions wryly to Nagiyev here, combining "teper" ("now") and "yeshchyo" ("more, still") so the key meaning lands right away.'),
+    (4, None, '\'I lost all my money, I am completely bankrupt.\' The guest sustains a steady position on the spot, joining "poteryal" ("lost") to "dengi" ("money") so every word pulls its weight.'),
+    (5, None, '\'Wait, who are you? Are you bankrupt too?\' Nagiyev challenges lightly to make the point, using "podozhdi" (from "podozhdat", "wait") alongside "tozhe" ("too") to shape the meaning.'),
+    (6, None, '\'You see, without money nobody needs me anymore.\' The guest keeps a sharp tempo for Max, weaving "vidish" ("see") together with "deneg" ("money") just the way native speakers do.'),
+    (7, None, '\'Yes, now I see that very well.\' Nagiyev shows an easygoing course in their talk, anchoring the Russian line on "teper" ("now") and "ochen" ("very much") without extra filler.'),
+    (8, None, '\'Listen, why did you not go home?\' Nagiyev prompts naturally without holding back, pairing "poslushay" ("listen") with "pochemu" ("why") to get the point across in plain spoken Russian.'),
+    (9, None, '\'At home the walls are so warm and cozy.\' Nagiyev takes a thoughtful line without hesitation, joining "doma" ("at home") to "tyoplyye" ("warm") so every word pulls its weight.'),
+    (10, None, '\'Your wife and children walk around you there.\' Nagiyev sets a frank posture on the spot, linking "tam" ("there"), "zhena" ("wife"), and "deti" ("kids") in one brisk exchange.'),
+    (11, None, '\'Everyone at home rejoices and laughs merrily there.\' Nagiyev adopts a brisk footing as the scene unfolds, pairing "raduyutsya" ("to rejoice") with "tam" ("there") so the "-sya" ending carries the action.'),
 ]

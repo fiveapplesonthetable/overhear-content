@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 INTRO = 'Summoning Denis to her office, Eleonora Andreevna offers him twenty thousand euros to disappear from the hotel and city while Katya is in St. Petersburg—and fires him when he turns the money down. Listen to their confrontation.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that shows Denis standing up to Eleonora's bribe even at the cost of his job. Notice the short passive participle 'uvolen' meaning 'you are fired'. Until next time!"
+OUTRO = "And that shows Denis standing up to Eleonora's bribe even at the cost of his job. Notice the short form 'uvolen' meaning 'you are fired'. Until next time!"
 CLOSING = ('denis', 'Всего хорошего!')
 STORY = [
     ('eleonora', 'Нам нужно решить нашу деликатную проблему.', 'We need to solve our delicate problem.', [(77, 'нам нужно решить нашу деликатную проблему')], 'verbatim'),
@@ -31,17 +31,17 @@ STORY = [
     ('eleonora', 'Ты с этого дня уволен.', 'As of today, you are fired.', [(89, 'Ты уволен')], 'adapted'),
 ]
 WALK = [
-    (0, None, '\'We need to solve our delicate problem.\' Needing to solve their delicate problem is how Eleonora lays out the situation for Denis. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (1, None, "'I need to talk to Katya.' Even though he needs to talk to Katya, Denis keeps a steady face in front of Eleonora. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (2, None, "'Have you completely lost your mind?' Around the money and point, Eleonora wants to know where Denis really stands."),
-    (3, None, "'Alright, good, I understood.' Mentioning that Alright good she understood moves the talk in a new direction."),
-    (4, None, '\'And I kiss you too.\' Explaining that she kisses Denis lays the cards on the table for Denis. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (5, None, "'Katya is leaving for another city today.' Because Katya is leaving for another city today, Eleonora treats the matter as settled."),
-    (6, None, '\'You will have to disappear from the hotel.\' Mentioning that Denis will have to disappear from the hotel moves the talk in a new direction. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (7, None, '\'And even better, from this city.\' Around the hotel and office, Eleonora sets a calm, everyday tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (8, None, "'I am giving you twenty thousand.' Adding that she is giving Denis twenty thousand fills in the missing piece for Denis."),
-    (9, None, '\'Will that amount suit you?\' Here asking whether that amount suit Denis shows Eleonora looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (10, None, "'No, I am going back to work.' Admitting that he is going back to work shows Denis being honest for a change."),
-    (11, None, "'Then do not be in a hurry.' Realizing that do not be in a hurry changes how Eleonora handles the situation."),
-    (12, None, '\'As of today, you are fired.\' Noting that as of today Denis is fired keeps Eleonora\'s side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (0, None, '\'We need to solve our delicate problem.\' Eleonora adopts an honest direction straight away, building the phrase around "nuzhno" ("necessary") and "reshit" ("to resolve") for a crisp, natural delivery.'),
+    (1, None, '\'I need to talk to Katya.\' Denis displays a clear style in the scene, putting "nado" ("it is necessary") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Have you completely lost your mind?\' Eleonora inquires decisively in their exchange, linking "sovsem" ("at all"), "uma" ("mind"), and "soshyol" ("gone") in one brisk exchange.'),
+    (3, None, '\'Alright, good, I understood.\' Eleonora keeps a pointed tack across the room, joining "khorosho" ("good, fine") to "ponyala" ("understood") so every word pulls its weight.'),
+    (4, None, '\'And I kiss you too.\' Eleonora holds a firm position during the exchange, building the phrase around "tozhe" ("too") and "tseluyu" ("kisses") for a crisp, natural delivery.'),
+    (5, None, '\'Katya is leaving for another city today.\' Eleonora projects a serious position in this beat, pairing "segodnya" ("today") with "uyezzhayet" ("is leaving") to get the point across in plain spoken Russian.'),
+    (6, None, '\'You will have to disappear from the hotel.\' Eleonora shares an unhurried position in the scene, weaving "dolzhen" ("has to, must") together with "budesh" ("will") just the way native speakers do.'),
+    (7, None, '\'And even better, from this city.\' Eleonora brings a warm bearing without hesitation, joining "yeshchyo" ("more, still") to "luchshe" ("better") so every word pulls its weight.'),
+    (8, None, '\'I am giving you twenty thousand.\' Eleonora presents a playful course during the exchange, combining "dayu" ("give") and "tysyach" ("thousand") so the key meaning lands right away.'),
+    (9, None, '\'Will that amount suit you?\' Eleonora tests evenly to Denis here, putting "summa" ("sum") alongside "ustroit" ("to arrange") in a tight, everyday turn of phrase.'),
+    (10, None, '\'No, I am going back to work.\' Denis picks a warm note as the scene unfolds, putting "poydu" ("go") alongside "rabotat" ("to work") in a tight, everyday turn of phrase.'),
+    (11, None, '\'Then do not be in a hurry.\' Eleonora adopts a candid stance in the conversation, combining "togda" ("back then") and "nikuda" ("nowhere, anywhere") so the key meaning lands right away.'),
+    (12, None, '\'As of today, you are fired.\' Eleonora favors an earnest position as they talk, joining "dnya" ("day") to "uvolen" ("fired") so every word pulls its weight.'),
 ]

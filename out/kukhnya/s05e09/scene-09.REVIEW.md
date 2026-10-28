@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a face you have, just like a plate.' Lyova explains that what a face Ainura has just like a plate, keeping his voice calm and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Go back to your homeland.' Telling Ainura to go back to Ainura's homeland is how Lyova lays out the situation for Ainura.
-- 'Ainura! Well what did they write?' Asking whether well what did they write puts Ainura right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What on earth did you write?' Wondering if what on earth did Lyova writes shows Ainura caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I wanted to pull a prank, guys.' Admitting that he wanted to pull a prank guys shows Senya being honest for a change.
-- 'That is outrageous! Lyova, forgive me, please.' Because that is outrageous, Ainura does not bother softening the blow for Lyova. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I am very ashamed of this person.' Explaining that she is very ashamed of this person lays the cards on the table for Lyova.
-- 'Let me help. Do you want to invite her on a date?' Asking whether let her help puts Lyova right on the defensive.
-- 'She does not even want to talk to me.' Noting that she does not even want to talk to him keeps Lyova's side of the story simple and clear.
-- 'You write it down, and I will pass it along.' Since Lyova writes it down and she will pass it along, Ainura does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'At the same time I will explain why it all happened this way.' Mentioning that at the same time she will explain why it all happened this way moves the talk in a new direction.
-- 'Never mind, write. Girls love taking a long time to get ready.' With the room and date in play, Ainura keeps this short reply brisk and direct.
+- 'What a face you have, just like a plate.' Lyova takes a direct position straight away, leaning on "litso" ("face") before closing the thought with "pryamo" ("right, just").
+- 'Go back to your homeland.' Lyova holds a measured course in the scene, using "ubiraysya" (from "ubiratsya", "get out, clear off") alongside "rodinu" ("the motherland") to shape the meaning.
+- 'Ainura! Well what did they write?' Lyova prompts pointedly as they speak, linking "napisali" ("to write"), "aynura" ("Ainura"), and "nu" ("oh, come on") in one brisk exchange.
+- 'What on earth did you write?' Ainura probes directly in the room, pairing "napisal-to" ("wrote") with "chego" ("what") to get the point across in plain spoken Russian.
+- 'I wanted to pull a prank, guys.' Senya adopts an unhurried tone on the spot, combining "prikolnutsya" ("to pull a prank") and "khotel" ("wanted") so the key meaning lands right away.
+- 'That is outrageous! Lyova, forgive me, please.' Ainura chooses a lively tempo straight away, combining "vozmutitelno" ("outrageous") and "prosti" ("sorry, forgive me") so the key meaning lands right away.
+- 'I am very ashamed of this person.' Ainura shows a pointed tempo during the exchange, leaning on "ochen" ("very much") before closing the thought with "stydno" ("shameful").
+- 'Let me help. Do you want to invite her on a date?' Ainura asks honestly to make the point, leaning on "davay" ("let's") before closing the thought with "pomogu" ("I'll help").
+- 'She does not even want to talk to me.' Lyova adopts a direct direction across the room, leaning on "razgovarivat" ("to talk, to speak") before closing the thought with "khochet" ("wants").
+- 'You write it down, and I will pass it along.' Ainura chooses a lively course at this moment, combining "napishi" ("write") and "peredam" ("will pass on") so the key meaning lands right away.
+- 'At the same time I will explain why it all happened this way.' Ainura offers a wry tone during the exchange, joining "zaodno" ("at the same time") to "obyasnyu" ("I'll explain") so every word pulls its weight.
+- 'Never mind, write. Girls love taking a long time to get ready.' Ainura maintains an earnest mood as they talk, leaning on "pishi" ("write") before closing the thought with "devushki" ("a girl").

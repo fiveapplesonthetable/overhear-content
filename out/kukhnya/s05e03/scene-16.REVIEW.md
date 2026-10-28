@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, where is our snake?' Here asking where their snake is shows Barinov looking for the real truth.
-- 'But you cooked it yourself!' Between the truth and the plan, Senya delivers a sharp reaction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Do I really look like a villain?' Asking whether he really looks like a villain cuts straight through the tension between Barinov and Nagiyev. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I cooked an ordinary eel today.' Around the conversation and truth, Barinov sets a calm, everyday tone with Nagiyev.
-- 'And I hid the live snake in a pot.' Barinov reminds Nagiyev that he hid the live snake in a pot before the moment passes.
-- 'It pushed the lid open and crawled away!' Around the plan and conversation, Senya makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Now quickly look for it everywhere!' With the plan and point at stake, Barinov reacts without holding back.
-- 'Senya, go on and search under the tables.' Since Nagiyev should go on and search under the tables, Barinov does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Go on, crawl around and search carefully!' Telling Nagiyev to go on crawl around and search carefully shows Barinov is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Come on, ladies and gentlemen, let's fill our glasses!' Coming on ladies and gentlemen let them fill their glasses shows Nagiyev is done holding back.
-- 'Let's all have a drink together right now.' Mentioning that they should all have a drink together right now moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Where could that snake have crawled off to?' Wondering where that snake have crawled off could is how Barinov puts Nagiyev on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Wait, where is our snake?' Barinov tests boldly in the scene, combining "podozhdi" ("wait") and "gde" ("where") so the key meaning lands right away.
+- 'But you cooked it yourself!' Senya holds a pointed manner with Nagiyev, weaving "tolko" ("only") together with "prigotovili" ("cooked, prepared") just the way native speakers do.
+- 'Do I really look like a villain?' Barinov inquires sharply to Nagiyev here, building the phrase around "pokhozh" ("look like, similar") and "zlodeya" ("villain, scoundrel") for a crisp, natural delivery.
+- 'I cooked an ordinary eel today.' Barinov brings a serious attitude as the scene unfolds, anchoring the Russian line on "obychnogo" ("ordinary, usual") and "ugrya" ("eel") without extra filler.
+- 'And I hid the live snake in a pot.' Barinov sustains an honest tempo on the spot, building the phrase around "zhivuyu" ("living") and "zmeyu" ("snake") for a crisp, natural delivery.
+- 'It pushed the lid open and crawled away!' Senya maintains a firm position beside Nagiyev, putting "otkryla" ("opened") alongside "kryshku" ("lid") in a tight, everyday turn of phrase.
+- 'Now quickly look for it everywhere!' Barinov shows a serious posture for Nagiyev, joining "teper" ("now") to "bystro" ("quickly") so every word pulls its weight.
+- 'Senya, go on and search under the tables.' Barinov conveys a steady bearing at this moment, using "davay" (from "davat", "let's") alongside "ishchi" ("look for") to shape the meaning.
+- 'Go on, crawl around and search carefully!' Barinov strikes a candid manner on the spot, combining the everyday invitation "davay" ("come on, let us") with "polzay" ("crawl") to give the line its natural spoken rhythm.
+- 'Come on, ladies and gentlemen, let's fill our glasses!' Nagiyev adopts a thoughtful rhythm on the spot, pairing "davayte" ("let's") with "damy" ("lady, woman") to get the point across in plain spoken Russian.
+- 'Let's all have a drink together right now.' Nagiyev displays a serious attitude at once, leaning on "davayte" ("let's") before closing the thought with "vmeste" ("together").
+- 'Where could that snake have crawled off to?' Barinov inquires lightly on the spot, building the phrase around "kuda" ("where to") and "mogla" ("could") for a crisp, natural delivery.

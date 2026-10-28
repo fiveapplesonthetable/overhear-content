@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, let me explain everything to you.' Because Ainura should let him explain everything to Ainura, Denis treats the matter as settled.
-- 'Denis, just leave me alone right now!' Over the point and the gossip, Katya lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Katya, I only dreamed all of that!' Around the point and office, Denis makes his point loud and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I was just telling Kostya my dream.' Noting that he was just telling Kostya his dream keeps Denis's side of the story simple and clear.
-- 'Let's go to him, he will confirm it for you.' Saying that they should go to him he will confirm it for Ainura is how Denis sets the tone with Ainura. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, Kostya, was that really just a dream?' Here asking whether that really just a dream shows Ainura looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I never lie in my life!' Declaring that she never lies in her life brings Ainura's temper right to the surface.
-- 'I saw everything with my own eyes.' Since she saw everything with her own eyes, Ainura does not waste words on excuses.
-- 'The two of them were there by the window.' Mentioning that the two of them were there by the window moves the talk in a new direction.
-- 'Because of that Denis fell out of the window!' Ainura declares that because of that Denis fell out of the window as the tension in the room peaks.
-- 'Katya, wait, that really did not happen!' Because that really did not happen, Denis does not bother softening the blow for Ainura. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Do not touch me, get out of my way!' Insisting that do not touch her get out of her way shows Katya is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Katya, let me explain everything to you.' Denis shares a serious bearing without hesitation, pairing "day" ("give") with "obyasnyu" ("I'll explain") to get the point across in plain spoken Russian.
+- 'Denis, just leave me alone right now!' Katya establishes a lively mood in the scene, pairing "prosto" ("just") with "otstan" ("leave alone") to get the point across in plain spoken Russian.
+- 'Katya, I only dreamed all of that!' Denis sets a sharp style in their talk, putting "prisnilos" ("dreamed") alongside "katya" ("Katya") in a tight, everyday turn of phrase.
+- 'I was just telling Kostya my dream.' Denis takes a playful view in the conversation, leaning on "prosto" ("just") before closing the thought with "rasskazyval" ("told, recounted").
+- 'Let's go to him, he will confirm it for you.' Denis adopts a resolute view across the room, leaning on "poydyom" ("let's go") before closing the thought with "podtverdit" ("to confirm").
+- 'Yes, Kostya, was that really just a dream?' Ainura probes frankly for Katya's benefit, leaning on "byl" ("was") before closing the thought with "prosto" ("just").
+- 'I never lie in my life!' Ainura keeps a wry footing on the spot, linking "nikogda" ("never"), "zhizni" ("life"), and "obmanyvayu" ("deceive") in one brisk exchange.
+- 'I saw everything with my own eyes.' Ainura displays a thoughtful course with Katya, leaning on "videla" ("saw") before closing the thought with "sobstvennymi" ("own, proper").
+- 'The two of them were there by the window.' Ainura conveys a serious note with Denis, using "byli" (from "byt", "be") alongside "tam" ("there") to shape the meaning.
+- 'Because of that Denis fell out of the window!' Ainura sets a direct mood at once, pairing "vypal" ("fell out") with "okna" ("window") to get the point across in plain spoken Russian.
+- 'Katya, wait, that really did not happen!' Denis establishes a warm direction for Ainura, putting "podozhdi" ("wait") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.
+- 'Do not touch me, get out of my way!' Katya favors a pointed style at once, using "trogay" (from "trogat", "touch") alongside "uydi" ("go away, step inside") to shape the meaning.

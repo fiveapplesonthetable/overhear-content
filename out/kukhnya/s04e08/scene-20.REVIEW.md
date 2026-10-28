@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom said that Denis is simply my childhood friend.' Pointing out that Mom said that Denis is simply his childhood friend gives Denis a sobering reality check.
-- 'After all, he and I grew up in the same courtyard.' Max explains that after all he and he grew up in the same courtyard, keeping his voice calm and direct.
-- 'Wait, so that means he is simply your childhood friend?' Wondering if that means he is simply Denis's childhood friend shows Vika caught off guard.
-- 'Vika, well he really is just like a brother to me!' Insisting that he really is just like a brother to him shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'So you were brazenly lying to me this whole time?' Asking whether Denis was brazenly lying to her this whole time puts Denis right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vika, please forgive me that it turned out this way.' Admitting that that it turned out this way shows Denis being honest for a change.
-- 'Simply if I had not lied, you would have kicked him out.' Saying that simply if he had not lied Denis would have kicked him out is how Max sets the tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Be quiet, I do not even want to hear you anymore!' Saying that be quiet she does not even want to hear Denis anymore is how Vika takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Elena told Chef that they are far too different people.' Admitting that Elena told Chef that they are far too different people shows Max being honest for a change.
-- 'She needs to leave so as not to torment anyone.' Max tells Denis that she needs to leave so as not to torment anyone without dressing it up. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Just what makes people lie so foolishly?' Max asks whether just what makes people lie so foolishly, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Only people hurt the ones whom they love deeply.' Mentioning that only people hurt the ones whom they love deeply moves the talk in a new direction.
+- 'Mom said that Denis is simply my childhood friend.' Max holds an honest tack with Denis, anchoring the Russian line on "mama" ("mum, mother") and "skazala" ("told") without extra filler.
+- 'After all, he and I grew up in the same courtyard.' Max holds an honest tone in the room, joining "vyrosli" ("grew up") to "dvore" ("yard, courtyard") so every word pulls its weight.
+- 'Wait, so that means he is simply your childhood friend?' Vika challenges firmly on the spot, building the phrase around "podozhdi" ("wait") and "znachit" ("then, so") for a crisp, natural delivery.
+- 'Vika, well he really is just like a brother to me!' Max conveys a measured angle on the spot, pairing "pravda" ("honestly") with "sovsem" ("at all") to get the point across in plain spoken Russian.
+- 'So you were brazenly lying to me this whole time?' Vika quizzes dryly on the spot, weaving "znachit" ("then, so") together with "vremya" ("time") just the way native speakers do.
+- 'Vika, please forgive me that it turned out this way.' Denis presents an unhurried angle at this moment, weaving "izvini" ("sorry, excuse me") together with "poluchilos" ("worked out") just the way native speakers do.
+- 'Simply if I had not lied, you would have kicked him out.' Max maintains a calm angle with Denis, combining "prosto" ("just") and "sovral" ("lied") so the key meaning lands right away.
+- 'Be quiet, I do not even want to hear you anymore!' Vika shows a brisk note toward Max, building the phrase around "zamolchi" ("to fall silent") and "slyshat" ("to hear") for a crisp, natural delivery.
+- 'Elena told Chef that they are far too different people.' Max presents a pointed tack at once, putting "skazala" ("told") alongside "shefu" ("chef") in a tight, everyday turn of phrase.
+- 'She needs to leave so as not to torment anyone.' Max conveys a candid tempo during the exchange, leaning on "nado" ("it is necessary") before closing the thought with "uyekhat" ("to leave, go away").
+- 'Just what makes people lie so foolishly?' Max probes openly on the spot, building the phrase around "zastavlyayet" ("is forcing") and "lyudey" ("people") for a crisp, natural delivery.
+- 'Only people hurt the ones whom they love deeply.' Max adopts an easygoing stance in this beat, joining "tolko" ("only") to "lyudi" ("people") so every word pulls its weight.

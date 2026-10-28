@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A dish best served cold.' With the work and mistake in play, Sasha keeps this short reply brisk and direct.
-- 'Sasha, wait, Sasha!' Around the plan and mistake, Senya makes his point loud and clear.
-- 'That is not funny!' Sasha insists that that is not funny, leaving Senya no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'In life, everything eventually comes full circle.' Noting that in life everything eventually comes full circle keeps Senya's side of the story simple and clear.
-- 'To some, the pain they caused comes back.' Even though to some the pain they caused comes back, Sasha keeps a steady face in front of Senya.
-- 'To others, life restores their confidence in a loved one.' Admitting that to others life restores their confidence in a loved one shows Senya being honest for a change.
-- 'And confidence in themselves.' With the point and mistake in play, Sasha keeps this short reply brisk and direct.
-- 'To learn from our mistakes.' Over the point and the mistake, Senya answers Sasha without a second thought.
-- 'The main thing is that we ourselves are ready for change.' Adding that the main thing is that they themselves are ready for change fills in the missing piece for Senya.
-- 'I simply do not know how to rest.' Senya tells Sasha that he simply does not know how to rest without dressing it up.
-- 'I have only been on vacation twice in my whole life.' Even though she has only been on vacation twice in her whole life, Sasha keeps a steady face in front of Senya.
-- 'And both times were at culinary festivals.' Mentioning that both times were at culinary festivals moves the talk in a new direction.
-- 'But this works for me.' With the truth and mistake in play, Sasha keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'A dish best served cold.' Sasha offers a sharp stance at this moment, building the phrase around "blyudo" ("dish") and "podayetsya" ("to be served") for a crisp, natural delivery.
+- 'Sasha, wait, Sasha!' Senya favors a clear direction at once, letting the single Russian word "sash" ("Sasha") carry the entire reaction on its own.
+- 'That is not funny!' Sasha picks a pointed angle beside Senya, linking "smeshno" ("ridiculous") directly with "ne" ("not"), since Russian drops "is" and "are" in the present.
+- 'In life, everything eventually comes full circle.' Senya establishes an honest angle without hesitation, anchoring the Russian line on "zhizni" ("life") and "vozvrashchayetsya" ("comes back") without extra filler.
+- 'To some, the pain they caused comes back.' Sasha projects a pointed bearing without hesitation, linking "vozvrashchayetsya" ("comes back"), "bol" ("pain, ache"), and "odnim" ("one") in one brisk exchange.
+- 'To others, life restores their confidence in a loved one.' Senya shows a firm attitude in their talk, linking "drugim" ("other"), "naoborot" ("contrary"), and "zhizn" ("life") in one brisk exchange.
+- 'And confidence in themselves.' Sasha projects a calm footing in front of Senya, building the phrase around "uverennost" ("confidence") and "sebe" ("yourself") for a crisp, natural delivery.
+- 'To learn from our mistakes.' Senya chooses a direct view in the conversation, anchoring the Russian line on "sdelat" ("to do") and "vyvody" ("conclusions") without extra filler.
+- 'The main thing is that we ourselves are ready for change.' Sasha holds a serious posture beside Senya, using "glavnoye" (from "glavnyy", "important") alongside "byli" ("be") to shape the meaning.
+- 'I simply do not know how to rest.' Senya shows a pointed bearing as they talk, linking "otdykhat" ("relax"), "umeyu" ("to know how to"), and "ne" ("not") in one brisk exchange.
+- 'I have only been on vacation twice in my whole life.' Sasha displays a brisk line at this moment, pairing "otpuske-to" ("vacation, leave") with "raza" ("time") to get the point across in plain spoken Russian.
+- 'And both times were at culinary festivals.' Senya offers a candid view as they talk, using "kulinarnykh" (from "kulinarnyy", "culinary") alongside "festivalyakh" ("festival") to shape the meaning.
+- 'But this works for me.' Sasha offers a brisk line in the conversation, linking "rabotayet" ("works"), "no" ("but"), and "eto" ("this") in one brisk exchange.

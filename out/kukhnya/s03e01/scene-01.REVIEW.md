@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am Max Lavrov.' Being Max Lavrov is how Max lays out the situation for the guest.
-- 'I used to work as a cook, now I am a waiter.' Once he used to work as a cook now he is a waiter, Max can finally tell the guest what he means.
-- 'Working as a waiter is not easy at all.' Adding that working as a waiter is not easy at all fills in the missing piece for the guest.
-- 'You are gravely mistaken.' Max tells the guest that the guest is gravely mistaken without dressing it up.
-- 'Hello!' With the conversation and work at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Are you writing this down?' Asking whether Max writing this down cuts straight through the tension between the guest and Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I will remember it.' Max reminds the guest that he will remember it before the moment passes.
-- 'Gratin, please. And rabbit for me.' Over the kitchen and the order, the guest answers Max without a second thought.
-- 'A salad and still water.' Around the kitchen and shift, the guest sets a calm, everyday tone with Max.
-- 'And fresh orange juice.' Around the kitchen and moment, the guest sets a calm, everyday tone with Max.
-- 'What is this?' Asking what this is cuts straight through the tension between Max and the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Beautiful!' Over the room and the table, Max lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I am Max Lavrov.' Max sustains a pointed tone as they talk, linking "ya" ("I"), "maks" ("Max"), and "lavrov" ("Lavrov") in one brisk exchange.
+- 'I used to work as a cook, now I am a waiter.' Max presents a pointed course with the guest, joining "ranshe" ("earlier, previously") to "rabotal" ("worked") so every word pulls its weight.
+- 'Working as a waiter is not easy at all.' Max sustains a steady course in the room, leaning on "rabotat" ("to work") before closing the thought with "ofitsiantom" ("waiter, server").
+- 'You are gravely mistaken.' Max maintains a natural rhythm as the scene unfolds, putting "silno" ("strongly, much") alongside "zabluzhdayetes" ("are mistaken") in a tight, everyday turn of phrase.
+- 'Hello!' Max offers a lively course as they talk, putting all the weight on "zdravstvuyte" ("hello") so the reply lands immediately.
+- 'Are you writing this down?' The guest challenges sharply in the scene, weaving "zapisyvayete" ("write down") together with "vy" ("you") just the way native speakers do.
+- 'I will remember it.' Max displays a thoughtful note on the spot, combining "zapomnyu" ("will remember") and "ya" ("I") so the key meaning lands right away.
+- 'Gratin, please. And rabbit for me.' The guest displays an honest direction in their talk, anchoring the Russian line on "graten" ("gratin") and "krolika" ("rabbit") without extra filler.
+- 'A salad and still water.' The guest presents a steady stance in their talk, linking "salat" ("salad"), "voda" ("water"), and "gaza" ("gas") in one brisk exchange.
+- 'And fresh orange juice.' The guest conveys a candid posture as the scene unfolds, building the phrase around "apelsinovyy" ("orange") and "fresh" ("fresh juice") for a crisp, natural delivery.
+- 'What is this?' Max asks openly across the room, building the phrase around "chto" ("what") and "eto" ("this") for a crisp, natural delivery.
+- 'Beautiful!' Max conveys a grounded note during the exchange, putting all the weight on "krasota" ("beauty") so the reply lands immediately.

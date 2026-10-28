@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you.' Noting that German should thank German keeps Denis's side of the story simple and clear.
-- 'You are welcome.' Pointing out that Denis is welcome gives Denis a sobering reality check.
-- 'Lavrov, what are you doing here?' Wondering what Denis doing here is cuts straight through the tension between German and Denis. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is my day off. I decided to help Denis out.' Realizing that it is his day off changes how Max handles the situation.
-- 'This is not an occasion where you should show brotherly care.' Noting that this is not an occasion where Denis should show brotherly care keeps German's side of the story simple and clear. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Please leave, otherwise your day off will never end.' Admitting that Denis should leave otherwise Denis's day off will never end shows German being honest for a change. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Alright, go on. I will manage by myself.' Between the point and the room, Denis gives German a quick, grounded response.
-- 'Then I will have to solve your problems for you again.' Saying that he will have to solve Denis's problems for Denis again is how Max sets the tone with Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What do you mean, again?' Here wondering what German means again shows Denis looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Because this happens all the time.' Adding that because this happens all the time fills in the missing piece for Denis.
-- 'Get out of here, got it? I will do everything myself.' Denis asks whether get out of here got it, refusing to let the point slide. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Are you going to carve a violin out of a potato?' Asking whether Denis going to carve a violin out of a potato is how Max puts Denis on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Thank you.' Denis chooses a clear note straight away, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
+- 'You are welcome.' Max holds a steady stance as the scene unfolds, building the phrase around "ne" ("not") and "za" ("for") for a crisp, natural delivery.
+- 'Lavrov, what are you doing here?' German probes wryly at this point, linking "zdes" ("here"), "delayete" ("are doing"), and "lavrov" ("Lavrov") in one brisk exchange.
+- 'It is my day off. I decided to help Denis out.' Max conveys a grounded posture on the spot, combining "vykhodnoy" ("a day off") and "reshil" ("has decided") so the key meaning lands right away.
+- 'This is not an occasion where you should show brotherly care.' German projects a measured footing in front of Denis, linking "sluchay" ("case, occasion"), "gde" ("where"), and "nuzhno" ("necessary") in one brisk exchange.
+- 'Please leave, otherwise your day off will never end.' German strikes a direct direction in this beat, building the phrase around "stupayte" ("leave") and "inache" ("otherwise") for a crisp, natural delivery.
+- 'Alright, go on. I will manage by myself.' Denis favors a direct direction as the scene unfolds, anchoring the Russian line on "idi" ("go") and "spravlyus" ("will manage") without extra filler.
+- 'Then I will have to solve your problems for you again.' Max brings a thoughtful attitude as they talk, weaving "potom" ("then") together with "opyat" ("again") just the way native speakers do.
+- 'What do you mean, again?' Denis tests openly to keep things clear, leaning on "znachit" ("then, so") before closing the thought with "opyat" ("again").
+- 'Because this happens all the time.' Max chooses a pointed attitude straight away, combining "potomu" ("because") and "proiskhodit" ("is going on") so the key meaning lands right away.
+- 'Get out of here, got it? I will do everything myself.' Denis probes candidly with German now, combining the everyday invitation "davay" ("come on, let us") with "idi" ("go") to give the line its natural spoken rhythm.
+- 'Are you going to carve a violin out of a potato?' Max presses decisively as they speak, using "skripku" (from "skripka", "going") alongside "kartoshki" ("potatoes") to shape the meaning.

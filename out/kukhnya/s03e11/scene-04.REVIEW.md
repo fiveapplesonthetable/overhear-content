@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will call Katya here right now.' Pointing out that he will call Katya here right now gives Katya a sobering reality check.
-- 'The French guest probably already gave me away.' Katya explains that the French guest probably already gave her away, keeping her voice calm and direct.
-- 'Listen, do not worry like that yet.' Realizing that do not worry like that yet changes how Max handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Katya, come here to me quickly!' Insisting that Katya should come here to him quickly shows Barinov is not backing down.
-- 'Damn, Dad is already calling me!' Declaring that damn dad is already calling brings Katya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Katya, do you not hear me at all?' By checking whether Katya not hear him at all, Barinov presses Katya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dad, you must not shout at me right now.' Saying that dad Barinov must not shout at her right now is how Katya sets the tone with Barinov.
-- 'Why is it that I cannot shout at you?' Wondering why it that he cannot shout at Katya is is how Barinov puts Katya on the spot. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Because I am expecting a baby, Dad.' Adding that because she is expecting a baby dad fills in the missing piece for Barinov.
-- 'What did you say? Is that really true?' Here asking what Katya says shows Barinov looking for the real truth.
-- 'Who is the father? I am asking you directly!' Wondering who the father is cuts straight through the tension between Barinov and Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Is it Max? I warned you!' Asking whether it Max is how Barinov puts Katya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Stand here and just keep quiet right now!' By standing here and just keep quiet right now, Barinov raises the stakes in the room at once.
+- 'I will call Katya here right now.' Barinov maintains a resolute direction in the room, putting "seychas" ("now") alongside "pozovu" ("will call") in a tight, everyday turn of phrase.
+- 'The French guest probably already gave me away.' Katya maintains a firm position in the room, putting "frantsuzskiy" ("French") alongside "gost" ("guest") in a tight, everyday turn of phrase.
+- 'Listen, do not worry like that yet.' Max projects a wry position beside Barinov, weaving "slushay" ("listen") together with "poka" ("bye") just the way native speakers do.
+- 'Katya, come here to me quickly!' Barinov conveys a pointed direction in front of Max, weaving "idi" ("go") together with "skoreye" ("quickly, right away") just the way native speakers do.
+- 'Damn, Dad is already calling me!' Katya sets an easygoing stance in this beat, combining "chyort" ("darn, heck") and "papa" ("Dad") so the key meaning lands right away.
+- 'Katya, do you not hear me at all?' Barinov inquires directly with Max now, putting "sovsem" ("at all") alongside "slyshish" ("hear") in a tight, everyday turn of phrase.
+- 'Dad, you must not shout at me right now.' Katya adopts an earnest note without hesitation, pairing "seychas" ("now") with "papa" ("Dad") so the "-sya" ending carries the action.
+- 'Why is it that I cannot shout at you?' Barinov tests candidly toward Max here, building the phrase around "pochemu" ("why") and "nelzya" ("not allowed") for a crisp, natural delivery.
+- 'Because I am expecting a baby, Dad.' Katya sustains a wry rhythm as the scene unfolds, building the phrase around "potomu" ("because") and "zhdu" ("I wait, expect") for a crisp, natural delivery.
+- 'What did you say? Is that really true?' Barinov quizzes naturally as the beat lands, putting "skazala" ("told") alongside "tochno" ("definitely") in a tight, everyday turn of phrase.
+- 'Who is the father? I am asking you directly!' Barinov checks naturally from the start, putting "otets" ("father") alongside "pryamo" ("right, just") in a tight, everyday turn of phrase.
+- 'Is it Max? I warned you!' Barinov checks promptly in their exchange, linking "prosil" ("ask for"), "eto" ("this"), and "maks" ("Max") in one brisk exchange.
+- 'Stand here and just keep quiet right now!' Barinov strikes an unhurried stance toward Katya, leaning on "stoy" ("stop, wait") before closing the thought with "zdes" ("here").

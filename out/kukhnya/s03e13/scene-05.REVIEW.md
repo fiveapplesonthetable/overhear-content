@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you very much for the coffee.' Between the shift and the friend, Vika gives Max a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do bald men bring you coffee in bed?' Checking whether bald men bring Nagiyev coffee in bed cuts straight through the tension between Max and Nagiyev. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'When I get up, all the men are still asleep.' Mentioning that when she gets up all the men are still asleep moves the talk in a new direction.
-- 'Well, Dima could have taken the trouble.' Max reminds Nagiyev that Dima could have taken the trouble before the moment passes.
-- 'To express his gratitude, so to speak.' Between the moment and the coffee, Max gives Nagiyev a quick, grounded response.
-- 'Well, so far there is not much to thank me for.' Explaining that far there is not much to thank lays the cards on the table for Max.
-- 'Wait, I did not understand just now.' Vika mentions that she did not understand just now so Max sees what is at stake.
-- 'And how does Dima feel about that?' Here wondering how Dima feel shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He seems to take it fine.' Pointing out that he seems to take it fine gives Max a sobering reality check.
-- 'Alright, if it is a no, then it is a no.' Nagiyev explains that Alright if it is a no then it is a no, keeping his voice calm and direct.
-- 'I understand everything perfectly well.' Understanding everything perfectly well is how Nagiyev lays out the situation for Max.
-- 'I say yes to you, and you say no to me.' Adding that he says yes to Max and Max says no to him fills in the missing piece for Max.
-- 'Good night, Dmitry Vladimirovich.' With the work and friend in play, Vika keeps this short reply brisk and direct.
+- 'Thank you very much for the coffee.' Vika presents a warm tempo at this moment, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
+- 'Do bald men bring you coffee in bed?' Max challenges honestly across the room, pairing "lysyye" ("bald") with "muzhchiny" ("man") to get the point across in plain spoken Russian.
+- 'When I get up, all the men are still asleep.' Vika keeps a serious manner with Max, leaning on "kogda" ("when") before closing the thought with "vstayu" ("getting up").
+- 'Well, Dima could have taken the trouble.' Max displays a resolute tone across the room, joining "mog" ("can, to be able") to "pobespokoitsya" ("to take the trouble") so every word pulls its weight.
+- 'To express his gratitude, so to speak.' Max offers a calm posture without hesitation, pairing "vyrazit" ("to express") with "blagodarnost" ("gratitude") to get the point across in plain spoken Russian.
+- 'Well, so far there is not much to thank me for.' Vika sustains a natural mood in this beat, anchoring the Russian line on "poka" ("bye") and "blagodarit" ("to thank") without extra filler.
+- 'Wait, I did not understand just now.' Vika shows a brisk course straight away, joining "podozhdi" ("wait") to "seychas" ("now") so every word pulls its weight.
+- 'And how does Dima feel about that?' Max queries candidly with Vika now, linking "kak" ("how"), "otnositsya" ("applies"), and "dima" ("Dima") in one brisk exchange.
+- 'He seems to take it fine.' Vika brings a natural approach at once, anchoring the Russian line on "otnositsya" ("applies") and "normalno" ("fine, OK") without extra filler.
+- 'Alright, if it is a no, then it is a no.' Nagiyev adopts a playful tack for Vika, linking "ladno" ("all right"), "net" ("no"), and "tak" ("so") in one brisk exchange.
+- 'I understand everything perfectly well.' Nagiyev sets a resolute course in the room, weaving "prekrasno" ("perfectly") together with "ponimayu" ("understand") just the way native speakers do.
+- 'I say yes to you, and you say no to me.' Nagiyev shows an earnest view in the conversation, anchoring the Russian line on "ya" ("I") and "tebe" ("for you, to you") without extra filler.
+- 'Good night, Dmitry Vladimirovich.' Vika takes a direct footing for Max, building the phrase around "spokoynoy" ("good") and "nochi" ("night") for a crisp, natural delivery.

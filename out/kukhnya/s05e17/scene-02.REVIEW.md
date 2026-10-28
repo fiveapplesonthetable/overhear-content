@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, put on shoe covers immediately!' Once Max should put on shoe covers immediately, the doctor makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vika, is that you here?' By checking whether that the doctor here, Max presses the doctor for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, my name is Masha.' Admitting that his name is Masha shows the doctor being honest for a change.
-- 'Wait, where is Goncharova?' With the plan and phone hanging in the air, Max puts the doctor on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am Goncharova too.' Pointing out that he is Goncharova gives Max a sobering reality check.
-- 'And where is the other Goncharova?' By asking where the other Goncharova is, Max presses the doctor for a straight answer.
-- 'The baby just does not want to be born yet.' The doctor tells Max that the baby just does not want to be born yet without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Hello, Vika, where are you?' Asking where the doctor is is how Max puts the doctor on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am at work right now.' Explaining that she is at work right now lays the cards on the table for the doctor.
-- 'Are you not giving birth yet?' By checking whether the doctor not giving birth yet, Max presses the doctor for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, I am very busy.' Mentioning that she is very busy moves the talk in a new direction.
-- 'I am coming to the hotel right now.' Max reminds the doctor that he is coming to the hotel right now before the moment passes.
+- 'Hey, put on shoe covers immediately!' The doctor takes an earnest tone as they talk, weaving "nadente" ("to put on") together with "bakhily" ("shoe covers") just the way native speakers do.
+- 'Vika, is that you here?' Max quizzes dryly on the spot, leaning on "zdes" ("here") before closing the thought with "vika" ("Vika").
+- 'No, my name is Masha.' The doctor presents a candid tone as the scene unfolds, leaning on "zovut" ("call") before closing the thought with "net" ("no").
+- 'Wait, where is Goncharova?' Max quizzes steadily as the beat lands, combining "podozhdite" ("wait") and "gde" ("where") so the key meaning lands right away.
+- 'I am Goncharova too.' The doctor conveys a lively note in front of Max, building the phrase around "tozhe" ("too") and "ya" ("I") for a crisp, natural delivery.
+- 'And where is the other Goncharova?' Max steps in quietly during the talk, putting "gde" ("where") alongside "drugaya" ("different, other") in a tight, everyday turn of phrase.
+- 'The baby just does not want to be born yet.' The doctor keeps a frank position in this beat, pairing "rebyonok" ("a child") with "nikak" ("in no way") to get the point across in plain spoken Russian.
+- 'Hello, Vika, where are you?' Max questions decisively with Vika now, combining "gde" ("where") and "allo" ("hello") so the key meaning lands right away.
+- 'I am at work right now.' Vika offers a wry note in their talk, placing "seychas" ("now") straight beside "rabote" ("work") with no word for "to be" needed.
+- 'Are you not giving birth yet?' Max inquires firmly from the start, building the phrase around "yeshchyo" ("more, still") and "rozhayesh" ("to give birth") for a crisp, natural delivery.
+- 'No, I am very busy.' Vika conveys a candid bearing in this beat, linking "ochen" ("very much"), "zanyata" ("busy, occupied"), and "net" ("no") in one brisk exchange.
+- 'I am coming to the hotel right now.' Max sets a pointed manner on the spot, combining "seychas" ("now") and "priyedu" ("will come, visit") so the key meaning lands right away.

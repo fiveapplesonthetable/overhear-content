@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you stalking me? Good Lord! What are you doing here?' By checking whether Denis stalking, Eleonora presses Denis for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Waiting for Katya. That is the last thing I needed.' Between the conversation and the secret, Denis gives Eleonora a quick, grounded response.
-- 'Turn around right now.' Adding that Denis should turn around right now fills in the missing piece for Denis.
-- 'Listen, I cannot go on like this anymore.' Pointing out that he cannot go on like this anymore gives Eleonora a sobering reality check.
-- 'Everything between Katya and me is falling apart because of you.' Adding that everything between Katya and him is falling apart because of Eleonora fills in the missing piece for Eleonora.
-- 'Let us tell her the truth.' Denis explains that they should tell her the truth, keeping his voice calm and direct. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Boy, you ruined your relationship yourself.' Over the work and the secret, Eleonora answers Denis without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Now you want to ruin things between Katya and me too?' Wondering if Denis wants to ruin things between Katya shows Eleonora caught off guard.
-- 'No, it is just... You will never tell Katya about what happened.' Saying that it is just is how Eleonora sets the tone with Denis. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'She is coming.' Because she is coming, Denis treats the matter as settled.
-- 'What do we do?' Wondering what they do is how Denis puts Eleonora on the spot.
-- 'Do not let her into the bathroom.' Eleonora mentions that do not let her into the bathroom so Denis sees what is at stake.
+- 'Are you stalking me? Good Lord! What are you doing here?' Eleonora quizzes honestly in the scene, combining "presleduyete" ("you are stalking") and "tut" ("here") so the key meaning lands right away.
+- 'Waiting for Katya. That is the last thing I needed.' Denis holds a candid position with Eleonora, using "zhdu" (from "zhdat", "I wait, expect") alongside "yeshche" ("still") to shape the meaning.
+- 'Turn around right now.' Eleonora keeps a resolute manner in the room, anchoring the Russian line on "otvernis" ("to turn away") and "seychas" ("now") without extra filler.
+- 'Listen, I cannot go on like this anymore.' Denis maintains an unhurried style toward Eleonora, leaning on "poslushayte" ("listen") before closing the thought with "bolshe" ("more").
+- 'Everything between Katya and me is falling apart because of you.' Denis establishes an honest approach straight away, leaning on "rushitsya" ("is falling apart") before closing the thought with "nas" ("us").
+- 'Let us tell her the truth.' Denis projects a playful posture toward Eleonora, building the phrase around "davayte" ("let's") and "rasskazhem" ("to tell") for a crisp, natural delivery.
+- 'Boy, you ruined your relationship yourself.' Eleonora strikes a clear style as they talk, building the phrase around "malchik" ("boy") and "otnosheniya" ("relations, relationship") for a crisp, natural delivery.
+- 'Now you want to ruin things between Katya and me too?' Eleonora queries steadily from the start, putting "teper" ("now") alongside "khochesh" ("do you want") in a tight, everyday turn of phrase.
+- 'No, it is just... You will never tell Katya about what happened.' Eleonora presents a thoughtful mood straight away, linking "prosto" ("just"), "nikogda" ("never"), and "skazhesh" ("will you say") in one brisk exchange.
+- 'She is coming.' Denis takes an easygoing tempo in the room, pairing "idet" ("go, walk") with "ona" ("it") to get the point across in plain spoken Russian.
+- 'What do we do?' Denis prompts sharply from the start, pairing "delat" ("do") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'Do not let her into the bathroom.' Eleonora shows a candid mood for Denis, weaving "vannuyu" ("bathroom") together with "ne" ("not") just the way native speakers do.

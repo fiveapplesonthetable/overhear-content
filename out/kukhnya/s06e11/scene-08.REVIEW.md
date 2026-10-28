@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take a look, please, is the second room paid for already?' Barinov asks whether take a look please is the second room paid for already, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, then just put that room on my tab.' Claiming that Alright then just put that room on his tab sounds confident, even if the guest has doubts.
-- 'Andrey, hello, I am very glad to see you here.' Pointing out that Andrey hello he is very glad to see the guest here gives the guest a sobering reality check.
-- 'And your brother and I are discussing an interesting project.' The guest explains that Barinov's brother and he are discussing an interesting project, keeping his voice calm and direct.
-- 'You have, of course, heard about oyster farms?' Questioning whether Barinov has of course heard about oyster farms is how the guest tests Barinov's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Excuse me for a second, hello, I am listening.' Noting that for a second hello he is listening keeps the guest's side of the story simple and clear.
-- 'Valya, tell me, what are you doing over there?' Asking whether tell him what are the guest doing over there puts the guest right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He is a serious person, do not drag him into risky ventures!' Because he is a serious person do not drag him into risky ventures, Barinov does not bother softening the blow for the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Vitya, calm down, I am not dragging him into anything.' Because Barinov should calm down he is not dragging him into anything, the guest treats the matter as settled.
-- 'He himself became very interested in my new project.' Around the moment and hotel, the guest sets a calm, everyday tone with Barinov.
-- 'After all, this is excellent and mutually beneficial cooperation for us.' Adding that after all this is excellent and mutually beneficial cooperation for them fills in the missing piece for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do you remember who paid off the debt for you afterward?' Asking whether the guest remembers who paid off the debt for the guest afterward is how Barinov puts the guest on the spot.
-- 'In short, I really hope that you heard me!' Barinov declares that in short he really hopes that the guest heard him as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Take a look, please, is the second room paid for already?' Barinov wonders candidly without holding back, joining "posmotri" ("look") to "vtoroy" ("second") so every word pulls its weight.
+- 'Alright, then just put that room on my tab.' Barinov brings an unhurried direction for the guest, putting "togda" ("back then") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'Andrey, hello, I am very glad to see you here.' Barinov brings a resolute attitude in front of the guest, weaving "zdravstvuyte" ("hello") together with "ochen" ("very much") just the way native speakers do.
+- 'And your brother and I are discussing an interesting project.' The guest presents a resolute attitude in the scene, putting "bratom" ("brother, cousin") alongside "obsuzhdayem" ("are discussing") in a tight, everyday turn of phrase.
+- 'You have, of course, heard about oyster farms?' The guest questions decisively beside Barinov, combining "konechno" ("of course") and "slyshali" ("did you hear") so the key meaning lands right away.
+- 'Excuse me for a second, hello, I am listening.' The guest maintains an honest mood on the spot, putting "izvinite" ("sorry, excuse me") alongside "sekundu" ("second") in a tight, everyday turn of phrase.
+- 'Valya, tell me, what are you doing over there?' Barinov checks calmly without holding back, leaning on "skazhi" ("say") before closing the thought with "tam" ("there").
+- 'He is a serious person, do not drag him into risky ventures!' Barinov offers a direct stance toward the guest, joining "seryoznyy" ("important, serious") to "chelovek" ("a man, a person") so every word pulls its weight.
+- 'Vitya, calm down, I am not dragging him into anything.' The guest takes a warm course during the exchange, linking "uspokoysya" ("calm down"), "nikuda" ("nowhere, anywhere"), and "vtyagivayu" ("I am dragging into") in one brisk exchange.
+- 'He himself became very interested in my new project.' The guest sustains a playful rhythm in the room, leaning on "ochen" ("very much") before closing the thought with "zainteresovalsya" ("became interested").
+- 'After all, this is excellent and mutually beneficial cooperation for us.' The guest holds an unhurried manner in this beat, using "otlichnoye" (from "otlichnyy", "excellent") alongside "vzaimovygodnoye" ("mutually beneficial") to shape the meaning.
+- 'Do you remember who paid off the debt for you afterward?' Barinov challenges plainly during the talk, leaning on "pomnish" ("do you remember") before closing the thought with "potom" ("then").
+- 'In short, I really hope that you heard me!' Barinov sustains a steady position in the room, leaning on "koroche" ("long story short") before closing the thought with "ochen" ("very much").

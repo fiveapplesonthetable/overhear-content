@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, we have a disaster, our Max just crashed!' Once they have a disaster their Max just crashed, Kostya makes sure Max hears every word.
-- 'What do you mean crashed? He was flying on a plane!' Here asking what Kostya means crashed shows Senya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He got a message that Vika is giving birth right now.' Kostya tells Max that he got a message that Vika is giving birth right now without dressing it up.
-- 'And he immediately jumped down with a parachute!' With the kitchen and work at stake, Kostya reacts without holding back.
-- 'He got badly tangled in the lines and landed poorly.' Mentioning that he got badly tangled in the lines and landed poorly moves the talk in a new direction.
-- 'Doctors just called me from his phone.' Kostya reminds Max that doctors just called him from his phone before the moment passes.
-- 'The doctors said that his condition is very serious.' Because the doctors said that his condition is very serious, Kostya treats the matter as settled.
-- 'Fedya, what have you and I done today?' Wondering if what have Kostya and he done today shows Senya caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We just wanted to play a harmless joke on him!' Declaring that they just wanted to play a harmless joke on him brings Senya's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello, Max, you should have seen their pale faces just now!' Kostya insists that Max should have seen their pale faces just now, leaving Max no room to argue.
-- 'Listen, do you think we did not joke too harshly?' Asking whether Max thinks they did not joke too harshly is how Kostya puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is fine, because of them I almost jumped with a parachute myself!' Max declares that it is fine because of them he almost jumped with a parachute himself as the tension in the room peaks. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Guys, we have a disaster, our Max just crashed!' Kostya shares a wry position as the scene unfolds, putting "rebyata" ("the boys, the lads") alongside "beda" ("trouble") in a tight, everyday turn of phrase.
+- 'What do you mean crashed? He was flying on a plane!' Senya asks pointedly as they speak, pairing "razbilsya" ("got killed") with "kak" ("how") so the "-sya" ending carries the action.
+- 'He got a message that Vika is giving birth right now.' Kostya picks a thoughtful line toward Max, pairing "seychas" ("now") with "prishla" ("came") so the "-sya" ending carries the action.
+- 'And he immediately jumped down with a parachute!' Kostya establishes a calm attitude on the spot, linking "srazu" ("at once"), "prygnul" ("jumped"), and "vniz" ("downstairs") in one brisk exchange.
+- 'He got badly tangled in the lines and landed poorly.' Kostya offers a measured tempo straight away, joining "silno" ("strongly, much") to "zaputalsya" ("got confused") so every word pulls its weight.
+- 'Doctors just called me from his phone.' Kostya presents a frank posture without hesitation, building the phrase around "tolko" ("only") and "pozvonili" ("called") for a crisp, natural delivery.
+- 'The doctors said that his condition is very serious.' Kostya chooses a playful approach as the scene unfolds, putting "vrachi" ("doctors") alongside "skazali" ("told") in a tight, everyday turn of phrase.
+- 'Fedya, what have you and I done today?' Senya tests candidly during the talk, putting "segodnya" ("today") alongside "nadelali" ("make, cause") in a tight, everyday turn of phrase.
+- 'We just wanted to play a harmless joke on him!' Senya maintains an emphatic direction toward Kostya, putting "prosto" ("just") alongside "bezobidno" ("harmlessly") in a tight, everyday turn of phrase.
+- 'Hello, Max, you should have seen their pale faces just now!' Kostya shows a resolute line at once, building the phrase around "videl" ("saw, have seen") and "seychas" ("now") for a crisp, natural delivery.
+- 'Listen, do you think we did not joke too harshly?' Kostya asks sharply in front of Max, leaning on "slushay" ("listen") before closing the thought with "dumayesh" ("think").
+- 'It is fine, because of them I almost jumped with a parachute myself!' Max shares a serious view during the exchange, pairing "chut" ("almost, nearly") with "parashyutom" ("parachute") to get the point across in plain spoken Russian.

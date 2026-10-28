@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina, no new car.' With the work and argument in play, Nagiyev keeps this short reply brisk and direct.
-- 'I told you in plain Russian. No.' Once he told Barinov in plain Russian, Nagiyev can finally tell Barinov what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What is this?' Over the kitchen and the argument, Nagiyev presses Barinov for a straight answer.
-- 'What is this, I am asking you?' Here wondering what this he is asking Barinov is shows Nagiyev looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'He is drying socks in the centrifuge.' Explaining that he is drying socks in the centrifuge lays the cards on the table for Barinov.
-- 'He says they dry fast.' Mentioning that he says they dry fast moves the talk in a new direction.
-- 'Vitya, I asked you to find a person!' Declaring that he asked Barinov to find a person brings Nagiyev's temper right to the surface. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'There is no specialist in Moscow.' Because there is no specialist in Moscow, Barinov treats the matter as settled.
-- 'We looked, but nobody suited us.' Explaining that they looked but nobody suited them lays the cards on the table for Nagiyev.
-- 'I have one more question for you.' Having one more question for Nagiyev is how Barinov lays out the situation for Nagiyev. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Too bad. And you showed such promise.' Claiming that and Nagiyev showed such promise sounds confident, even if Nagiyev has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You only need to do one thing.' Pointing out that Nagiyev only need to do one thing gives Nagiyev a sobering reality check.
+- 'Kristina, no new car.' Nagiyev brings a wry line in front of Barinov, leaning on "novoy" ("new") before closing the thought with "mashiny" ("cars").
+- 'I told you in plain Russian. No.' Nagiyev chooses a serious posture as they talk, linking "po-russki" ("in Russian"), "skazal" ("said"), and "ya" ("I") in one brisk exchange.
+- 'What is this?' Nagiyev wonders quietly across the room, putting "eto" ("this") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'What is this, I am asking you?' Nagiyev challenges earnestly in the room, combining "sprashivayu" ("am asking") and "chto" ("what") so the key meaning lands right away.
+- 'He is drying socks in the centrifuge.' Senya shows a pointed line in the conversation, weaving "tsentrifuge" ("centrifuge") together with "noski" ("socks") just the way native speakers do.
+- 'He says they dry fast.' Senya sets a sharp note in the room, combining "govorit" ("talks") and "sokhnut" ("dry") so the key meaning lands right away.
+- 'Vitya, I asked you to find a person!' Nagiyev maintains a sharp mood right away, putting "prosil" ("ask for") alongside "nayti" ("to find") in a tight, everyday turn of phrase.
+- 'There is no specialist in Moscow.' Barinov displays a lively stance on the spot, joining "spetsialista" ("specialist") to "moskve" ("Moscow") so every word pulls its weight.
+- 'We looked, but nobody suited us.' Barinov projects a wry position in their talk, using "iskali" (from "iskat", "searched for") alongside "podoshel" ("suited, fit") to shape the meaning.
+- 'I have one more question for you.' Barinov keeps a grounded manner right away, linking "yeshchyo" ("more, still"), "vopros" ("question, matter"), and "odin" ("one") in one brisk exchange.
+- 'Too bad. And you showed such promise.' Barinov keeps a resolute position in the room, pairing "plokho" ("badly") with "podavali" ("to serve, submit") to get the point across in plain spoken Russian.
+- 'You only need to do one thing.' Barinov displays a lively direction toward Senya, anchoring the Russian line on "nuzhno" ("necessary") and "sdelat" ("to do") without extra filler.

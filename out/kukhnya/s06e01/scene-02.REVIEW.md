@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is ready.' Even though everything is ready, Barinov keeps a steady face in front of Senya.
-- 'What?' Over the banquet and the wedding, Senya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing, I am very happy.' Saying that nothing he is very happy is how Barinov sets the tone with Senya.
-- 'I hope I do not need to repeat to you.' Realizing that he hopes he does not need to repeat to Senya changes how Barinov handles the situation. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Today is a very important banquet.' Adding that today is a very important banquet fills in the missing piece for Senya.
-- 'And I am warning everyone right away.' Claiming that he is warning everyone right away sounds confident, even if Senya has doubts.
-- 'If a lobster disappears, I will fire you.' Since if a lobster disappears he will fire Senya, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Chef, everyone back to work.' Between the conversation and the wedding, Senya gives Barinov a quick, grounded response.
-- 'Chef, is everything alright?' Asking whether everything alright cuts straight through the tension between Senya and Barinov.
-- 'Everything is fine, just magnetic storms.' Because everything is fine just magnetic storms, Barinov treats the matter as settled.
-- 'I will go lie down for a bit.' Explaining that he will go lie down for a bit lays the cards on the table for Senya.
-- 'Why are we standing around?' Asking why they standing around are is how Barinov puts Senya on the spot.
+- 'Everything is ready.' Barinov holds a warm tempo across the room, building the phrase around "gotovo" ("ready") and "vse" ("all") for a crisp, natural delivery.
+- 'What?' Senya asks evenly in this moment, leaning on "chto" ("what") as a compact, one-word response that needs no extra words.
+- 'Nothing, I am very happy.' Barinov holds a resolute tempo without hesitation, anchoring the Russian line on "schastliv" ("happy, lucky") and "silno" ("strongly, much") without extra filler.
+- 'I hope I do not need to repeat to you.' Barinov sets an emphatic position beside Senya, putting "nadeyus" ("hope so") alongside "povtoryat" ("to repeat") in a tight, everyday turn of phrase.
+- 'Today is a very important banquet.' Barinov picks a firm style for Senya, weaving "segodnya" ("today") together with "ochen" ("very much") just the way native speakers do.
+- 'And I am warning everyone right away.' Barinov offers a sharp stance in their talk, leaning on "srazu" ("at once") before closing the thought with "preduprezhdayu" ("to warn").
+- 'If a lobster disappears, I will fire you.' Barinov chooses a pointed tempo straight away, leaning on "propadet" ("disappears") before closing the thought with "omar" ("lobster").
+- 'Chef, everyone back to work.' Senya establishes a sharp manner during the exchange, combining "rabotu" ("job") and "shef" ("Chef") so the key meaning lands right away.
+- 'Chef, is everything alright?' Senya inquires firmly in this moment, anchoring the Russian line on "poryadke" ("order") and "shef" ("Chef") without extra filler.
+- 'Everything is fine, just magnetic storms.' Barinov projects a playful tone in their talk, linking "poryadke" ("order") directly with "magnitnyye" ("magnetic"), since Russian drops "is" and "are" in the present.
+- 'I will go lie down for a bit.' Barinov displays a lively posture as the scene unfolds, combining "poydu" ("go") and "prilyagu" ("will lie down briefly") so the key meaning lands right away.
+- 'Why are we standing around?' Barinov checks briskly without a pause, joining "stoim" ("to stand") to "chto" ("what") so every word pulls its weight.

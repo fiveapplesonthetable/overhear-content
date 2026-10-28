@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, this is all the pure truth.' Pointing out that this is all the pure truth gives Lyova a sobering reality check.
-- 'But what about us now?' With the party and moment hanging in the air, Lyova puts Gulya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am getting married there soon.' Saying that she is getting married there soon is how Gulya sets the tone with Lyova.
-- 'My mother found a groom for me.' Noting that her mother found a groom keeps Gulya's side of the story simple and clear.
-- 'That is the custom for us at home.' Even though that is the custom for them at home, Gulya keeps a steady face in front of Lyova. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Forgive me, please, for everything.' Over the party and the plan, Gulya answers Lyova without a second thought.
-- 'I offered to run away with her today.' Between the apartment and the party, Lyova gives Gulya a quick, grounded response.
-- 'Just forget about her!' With the apartment and work at stake, Nastya reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nastya will leave the house right now.' Adding that Nastya will leave the house right now fills in the missing piece for Gulya.
-- 'And you and I will have a talk.' Saying that Gulya and he will have a talk is how Lyova sets the tone with Gulya.
-- 'That is it, I am running off to the bachelorette party.' Since that is it she is running off to the bachelorette party, Nastya does not waste words on excuses.
-- 'Do not drink too much here.' Mentioning that do not drink too much here moves the talk in a new direction. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Lyova, this is all the pure truth.' Gulya projects a pointed position right away, building the phrase around "chistaya" ("clean") and "pravda" ("honestly") for a crisp, natural delivery.
+- 'But what about us now?' Lyova challenges calmly during the talk, linking "kak" ("how"), "teper" ("now"), and "no" ("but") in one brisk exchange.
+- 'I am getting married there soon.' Gulya strikes a firm tack in the scene, anchoring the Russian line on "skoro" ("soon") and "tam" ("there") without extra filler.
+- 'My mother found a groom for me.' Gulya picks a firm manner right away, anchoring the Russian line on "mama" ("mum, mother") and "nashla" ("found, did you find") without extra filler.
+- 'That is the custom for us at home.' Gulya chooses a clear mood toward Lyova, placing "doma" ("at home") straight beside "prinyato" ("accepted, copy that") with no word for "to be" needed.
+- 'Forgive me, please, for everything.' Gulya maintains an unhurried bearing straight away, leaning on "prosti" ("sorry, forgive me") before closing the thought with "menya" ("me").
+- 'I offered to run away with her today.' Lyova sustains a sharp posture at this moment, building the phrase around "predlozhil" ("suggested") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Just forget about her!' Nastya conveys an easygoing style on the spot, weaving "zabud" ("forget") together with "da" ("yes") just the way native speakers do.
+- 'Nastya will leave the house right now.' Lyova establishes a clear line in this beat, putting "seychas" ("now") alongside "uydyot" ("will leave") in a tight, everyday turn of phrase.
+- 'And you and I will have a talk.' Lyova chooses a pointed approach in the conversation, anchoring the Russian line on "pogovorim" ("we'll have a talk") and "my" ("we") without extra filler.
+- 'That is it, I am running off to the bachelorette party.' Nastya chooses an earnest attitude without hesitation, anchoring the Russian line on "pobezhala" ("ran") and "devichnik" ("bachelorette party") without extra filler.
+- 'Do not drink too much here.' Nastya holds a candid style right away, weaving "tut" ("here") together with "mnogo" ("a lot") just the way native speakers do.

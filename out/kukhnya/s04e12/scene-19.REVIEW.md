@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, maybe you will come work for me?' Wondering if maybe Kostya will come work for him shows Barinov caught off guard.
-- 'Oh no, thank you very much, chef.' Over the point and the shift, Max answers Barinov without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I will go to St. Petersburg to a friend.' Noting that he will go to St keeps Max's side of the story simple and clear.
-- 'Apparently, it will be better for everyone this way.' Even though apparently it will be better for everyone this way, Max keeps a steady face in front of Barinov.
-- 'We went for an X-ray, my leg is fine!' Once they went for an his leg is fine, Kostya makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Passengers, board the car, the train is departing.' Saying that passengers board the car the train is departing is how Kostya sets the tone with Barinov.
-- 'Well goodbye, pal, take care of yourself there!' With the plan and conversation at stake, Kostya reacts without holding back.
-- 'In my youth I thought that I would still have everything.' Adding that in his youth he thought that he would still have everything fills in the missing piece for Kostya.
-- 'So I did not truly treasure anything in particular.' Saying that he did not truly treasure anything in particular is how Barinov sets the tone with Kostya.
-- 'And now I have very little left.' Barinov explains that he has very little left, keeping his voice calm and direct.
-- 'You still have time, do not waste it in vain.' Mentioning that Kostya still have time do not waste it in vain moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Thank you for everything, dear chef.' With the truth and plan in play, Max keeps this short reply brisk and direct. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'But instead of faith, only emptiness remained inside.' Between the truth and the room, Max gives Barinov a quick, grounded response.
+- 'Max, maybe you will come work for me?' Barinov asks boldly in the scene, putting "mozhet" ("can") alongside "poydyosh" ("will you go") in a tight, everyday turn of phrase.
+- 'Oh no, thank you very much, chef.' Max establishes an unhurried note during the exchange, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
+- 'I will go to St. Petersburg to a friend.' Max shows a brisk bearing during the exchange, combining "piter" ("petersburg") and "drugu" ("friend") so the key meaning lands right away.
+- 'Apparently, it will be better for everyone this way.' Max adopts a resolute approach for Kostya, anchoring the Russian line on "vidimo" ("apparently") and "budet" ("will be") without extra filler.
+- 'We went for an X-ray, my leg is fine!' Kostya maintains a grounded approach during the exchange, anchoring the Russian line on "khodili" ("walked") and "rentgen" ("fine") without extra filler.
+- 'Passengers, board the car, the train is departing.' Kostya shares a resolute rhythm at once, using "passazhiry" (from "passazhir", "passenger") alongside "prokhodim" ("to go through") to shape the meaning.
+- 'Well goodbye, pal, take care of yourself there!' Kostya picks an emphatic posture as the scene unfolds, pairing "poka" ("bye") with "drug" ("friend") to get the point across in plain spoken Russian.
+- 'In my youth I thought that I would still have everything.' Barinov chooses a candid rhythm for Max, leaning on "molodosti" ("in youth") before closing the thought with "dumal" ("thought").
+- 'So I did not truly treasure anything in particular.' Barinov favors a grounded direction beside Kostya, combining "poetomu" ("that's why") and "osobenno" ("especially") so the key meaning lands right away.
+- 'And now I have very little left.' Barinov brings a direct attitude across the room, using the everyday "u menya" ("by me") alongside "seychas" ("now") to show what belongs to the speaker.
+- 'You still have time, do not waste it in vain.' Barinov picks a sharp rhythm during the exchange, putting "yest" ("there is") alongside "vremya" ("time") in a tight, everyday turn of phrase.
+- 'Thank you for everything, dear chef.' Max brings a firm line in front of Kostya, weaving "spasibo" ("thank you") together with "dorogoy" ("dear") just the way native speakers do.
+- 'But instead of faith, only emptiness remained inside.' Max takes a direct course on the spot, using "very" (from "vera", "faith, belief") alongside "vnutri" ("inside") to shape the meaning.

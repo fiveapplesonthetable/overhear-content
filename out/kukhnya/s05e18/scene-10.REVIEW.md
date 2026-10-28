@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fellas, our conversation went the wrong way.' Claiming that fellas their conversation went the wrong way sounds confident, even if Barinov has doubts.
-- 'I sincerely apologize to you.' Around the conversation and smile, the guest sets a calm, everyday tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is just my nerves and severe lack of sleep.' The guest explains that it is just his nerves and severe lack of sleep, keeping his voice calm and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Let me just help you instead.' Since Barinov should let him just help Barinov instead, the guest does not waste words on excuses.
-- 'You will assemble the crib faster and leave.' Noting that Barinov will assemble the crib faster and leave keeps the guest's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And I will calmly go to sleep.' Even though he will calmly go to sleep, the guest keeps a steady face in front of Barinov.
-- 'Well alright, come on in then.' Around the work and smile, Barinov sets a calm, everyday tone with the guest.
-- 'Listen, let me take a look at the diagram.' Once Barinov should let him take a look at the diagram, the guest can finally tell Barinov what he means.
-- 'Pour me some water in the kitchen, please.' Since Barinov should pour him some water in the kitchen please, the guest does not waste words on excuses.
-- 'I will bring a glass of cold water right now.' Adding that he will bring a glass of cold water right now fills in the missing piece for Barinov.
-- 'I will go wash my hands too.' Saying that he will go wash his hands is how Barinov sets the tone with the guest.
-- 'Great, I will sort things out quickly here right now.' Since great he will sort things out quickly here right now, the guest does not waste words on excuses.
+- 'Fellas, our conversation went the wrong way.' The guest maintains a firm note beside Barinov, combining "muzhiki" ("lads, guys") and "nepravilnyy" ("wrong, incorrect") so the key meaning lands right away.
+- 'I sincerely apologize to you.' The guest offers a playful manner without hesitation, building the phrase around "iskrenne" ("sincerely") and "izvinyayus" ("apologize") for a crisp, natural delivery.
+- 'It is just my nerves and severe lack of sleep.' The guest picks a playful note as the scene unfolds, linking "prosto" ("just") directly with "nervy" ("nerve"), since Russian drops "is" and "are" in the present.
+- 'Let me just help you instead.' The guest holds a brisk approach without hesitation, pairing "davayte" ("let's") with "luchshe" ("better") to get the point across in plain spoken Russian.
+- 'You will assemble the crib faster and leave.' The guest adopts a warm angle toward Barinov, combining "bystreye" ("faster") and "krovatku" ("baby crib") so the key meaning lands right away.
+- 'And I will calmly go to sleep.' The guest conveys a firm stance in front of Max, anchoring the Russian line on "spokoyno" ("calmly") and "spat" ("sleep") without extra filler.
+- 'Well alright, come on in then.' Barinov offers a playful rhythm on the spot, linking "khorosho" ("good, fine"), "togda" ("back then"), and "zakhodi" ("come in") in one brisk exchange.
+- 'Listen, let me take a look at the diagram.' The guest maintains a natural position in front of Max, combining "slushay" ("listen") and "day" ("give") so the key meaning lands right away.
+- 'Pour me some water in the kitchen, please.' The guest shows a serious approach without hesitation, weaving "naley" ("pour") together with "vodichki" ("some water") just the way native speakers do.
+- 'I will bring a glass of cold water right now.' Max favors a playful rhythm in the room, joining "seychas" ("now") to "prinesu" ("I will bring") so every word pulls its weight.
+- 'I will go wash my hands too.' Barinov projects a clear rhythm with the guest, combining "tozhe" ("too") and "poydu" ("go") so the key meaning lands right away.
+- 'Great, I will sort things out quickly here right now.' The guest keeps an easygoing tack at this moment, leaning on "otlichno" ("perfect, great") before closing the thought with "seychas" ("now").

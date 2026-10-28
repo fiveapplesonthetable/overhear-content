@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did it not work out staying at your aunt's place?' Checking whether it not work out staying at Kostya's aunt place is how Barinov puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, her father-in-law is coming to visit her.' Pointing out that her father in law is coming to visit gives Barinov a sobering reality check.
-- 'So it did not work out.' Barinov explains that it did not work out, keeping his voice calm and direct.
-- 'All right then.' Around the work and office, Kostya sets a calm, everyday tone with Barinov.
-- 'Well, it is no big deal.' Noting that it is no big deal keeps Barinov's side of the story simple and clear.
-- 'Maybe.' Over the work and the shift, Kostya answers Barinov without a second thought.
-- 'Some woman is walking this way, she wants to see the Chef.' Admitting that some woman is walking this way she wants to see the Chef shows Barinov being honest for a change.
-- 'We stick to the plan.' Between the work and the point, Kostya gives Barinov a quick, grounded response.
-- 'Where can I find your head chef?' Wondering where he finds Kostya's head can is how Barinov puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'In his office, of course.' With the point and office in play, Kostya keeps this short reply brisk and direct.
-- 'I specifically asked not to be disturbed.' Barinov tells Kostya that he specifically asked not to be disturbed without dressing it up.
-- 'I am preparing the new menu.' Explaining that he is preparing the new menu lays the cards on the table for Barinov.
-- 'Close that damn door!' Closing that damn door shows Barinov is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Did it not work out staying at your aunt's place?' Barinov presses promptly right away, building the phrase around "poluchilos" ("worked out") and "teti" ("aunt") for a crisp, natural delivery.
+- 'Yes, her father-in-law is coming to visit her.' Kostya displays a frank angle without hesitation, pairing "svegrov" ("mother-in-law") with "priyezzhayet" ("is arriving") to get the point across in plain spoken Russian.
+- 'So it did not work out.' Barinov maintains a calm tack on the spot, putting "poluchilos" ("worked out") alongside "ne" ("not") in a tight, everyday turn of phrase.
+- 'All right then.' Kostya keeps a clear note at this moment, weaving "nu" ("oh, come on") together with "ladno" ("all right") just the way native speakers do.
+- 'Well, it is no big deal.' Barinov adopts a playful view in the conversation, pairing "strashnogo" ("terrible, serious") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Maybe.' Kostya presents a calm style during the exchange, putting "mozhet" ("can") alongside "byt" ("be") in a tight, everyday turn of phrase.
+- 'Some woman is walking this way, she wants to see the Chef.' Barinov adopts an honest note right away, pairing "tam" ("there") with "devushka" ("girlfriend") to get the point across in plain spoken Russian.
+- 'We stick to the plan.' Kostya offers a wry course without hesitation, building the phrase around "rabotayem" ("we work, let's work") and "planu" ("plan") for a crisp, natural delivery.
+- 'Where can I find your head chef?' Barinov probes dryly from the start, joining "gde" ("where") to "mogu" ("can") so every word pulls its weight.
+- 'In his office, of course.' Kostya conveys a resolute rhythm at this moment, pairing "kabinete" ("office") with "konechno" ("of course") to get the point across in plain spoken Russian.
+- 'I specifically asked not to be disturbed.' Barinov picks an easygoing note in the scene, combining "prosil" ("ask for") and "bespokoit" ("to bother") so the key meaning lands right away.
+- 'I am preparing the new menu.' Kostya establishes an easygoing direction on the spot, pairing "gotovlyu" ("prepare") with "novoye" ("new") to get the point across in plain spoken Russian.
+- 'Close that damn door!' Barinov sustains a steady rhythm without hesitation, using "zakroyte" (from "zakryt", "close") alongside "chertovu" ("devil's, damned") to shape the meaning.

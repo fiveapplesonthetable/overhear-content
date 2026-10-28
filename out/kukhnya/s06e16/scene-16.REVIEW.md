@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, this video is specially for you.' Saying that this video is specially for the guest is how Kostya sets the tone with the guest.
-- 'I understand that it is bad to be in here.' By understanding that it is bad to be in here, Kostya keeps his side of the story grounded.
-- 'But this is the only way to prove it to you.' Explaining that this is the only way to prove it to the guest lays the cards on the table for the guest. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Darling, please come back to me soon.' By coming back to him soon, the guest keeps his side of the story grounded.
-- 'I will be waiting for you very much right here.' Claiming that he will be waiting for Kostya very much right here sounds confident, even if Kostya has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I am not looking at anything, darling Nastya!' Because he is not looking at anything darling Nastya, Kostya does not bother softening the blow for the guest. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'My daughter, please do not cry anymore.' The guest explains that his daughter please do not cry anymore, keeping his voice calm and direct.
-- 'You are young and beautiful, we will find you another man.' Realizing that Kostya is young and beautiful they will find Kostya another man changes how the guest handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dad, I do not need any other man!' Saying that dad she does not need any other man is how Nastya takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Calm down, listen to music and sit quietly.' Since Kostya should calm down listen to music and sit quietly, the guest does not waste words on excuses.
-- 'Dad, wait, where are you going right now?' Nastya asks whether dad wait where are the guest going right now, refusing to let the point slide. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do not worry, we will just talk calmly.' Noting that do not worry they will just talk calmly keeps the guest's side of the story simple and clear.
+- 'Nastya, this video is specially for you.' Kostya conveys a clear footing in the room, linking "video" ("video"), "spetsialno" ("on purpose"), and "nastya" ("Nastya") in one brisk exchange.
+- 'I understand that it is bad to be in here.' Kostya sustains a measured note in front of Nastya, putting "ponimayu" ("understand") alongside "plokho" ("badly") in a tight, everyday turn of phrase.
+- 'But this is the only way to prove it to you.' Kostya establishes an emphatic stance in front of the guest, combining "yedinstvennyy" ("only") and "sposob" ("a way, a method") so the key meaning lands right away.
+- 'Darling, please come back to me soon.' The guest shares a lively view across the room, anchoring the Russian line on "milyy" ("darling") and "vozvrashchaysya" ("return") without extra filler.
+- 'I will be waiting for you very much right here.' The guest adopts a lively note in this beat, putting "budu" ("will be") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
+- 'I am not looking at anything, darling Nastya!' Kostya shares a thoughtful view as the scene unfolds, doubling the negative with "ne" ("not") and "smotryu" ("look"), which is standard and required in Russian.
+- 'My daughter, please do not cry anymore.' The guest picks a brisk rhythm for Kostya, pairing "dochenka" ("sweetheart") with "bolshe" ("more") to get the point across in plain spoken Russian.
+- 'You are young and beautiful, we will find you another man.' The guest projects a serious view at once, building the phrase around "molodaya" ("young") and "krasivaya" ("pretty, beautiful") for a crisp, natural delivery.
+- 'Dad, I do not need any other man!' Nastya adopts a warm tone in their talk, linking "papa" ("Dad"), "nuzhen" ("is needed"), and "drugoy" ("other") in one brisk exchange.
+- 'Calm down, listen to music and sit quietly.' The guest conveys a clear angle toward Nastya, joining "uspokoysya" ("calm down") to "poslushay" ("listen") so every word pulls its weight.
+- 'Dad, wait, where are you going right now?' Nastya inquires boldly in this moment, linking "papa" ("Dad"), "podozhdi" ("wait"), and "seychas" ("now") in one brisk exchange.
+- 'Do not worry, we will just talk calmly.' The guest presents a lively footing right away, pairing "volnuysya" ("worry") with "prosto" ("just") so the "-sya" ending carries the action.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, we are short-handed here.' Once they are short handed here, Lyova can finally tell Denis what he means.
-- 'I sent you to do the vegetable prep.' Adding that he sent Denis to do the vegetable prep fills in the missing piece for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Sorry, I was just taking Vika to the emergency clinic.' Saying that he was just taking Vika to the emergency clinic is how Max sets the tone with Denis.
-- 'So, what are you planning to do now?' Wondering what Denis planning to do now is is how Max puts Denis on the spot.
-- 'I will get a job somewhere.' Mentioning that he will get a job somewhere moves the talk in a new direction.
-- 'Well, I will even go work at a construction site.' Saying that he will even go work at a construction site is how Denis sets the tone with Lyova.
-- 'What a day this turned out to be.' Because what a day this turned out to be, Denis treats the matter as settled.
-- 'You do not need to go to a construction site.' Explaining that Denis does not need to go to a construction site lays the cards on the table for Denis. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'You will work right here. As a cook.' Max mentions that Denis will work right here so Denis sees what is at stake.
-- 'Max, what do you mean, I don't know how to cook.' Claiming that what do Lyova means he does not know how to cook sounds confident, even if Lyova has doubts.
-- 'You will not need to cook.' Explaining that Denis will not need to cook lays the cards on the table for Denis. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Come on, let's go.' Coming on let them go is how Max lays out the situation for Denis.
+- 'Lavrov, we are short-handed here.' Lyova keeps a playful style across the room, building the phrase around "ruk" ("arms") and "khvatayet" ("grabs") for a crisp, natural delivery.
+- 'I sent you to do the vegetable prep.' Lyova chooses an earnest tone on the spot, combining "zagotovku" ("preparation") and "otpravil" ("sent") so the key meaning lands right away.
+- 'Sorry, I was just taking Vika to the emergency clinic.' Max adopts a pointed position right away, leaning on "prosti" ("sorry, forgive me") before closing the thought with "prosto" ("just").
+- 'So, what are you planning to do now?' Max probes honestly in their exchange, leaning on "delat" ("do") before closing the thought with "sobirayeshsya" ("plan").
+- 'I will get a job somewhere.' Denis chooses a steady approach at this moment, pairing "ustroyus" ("to get a job") with "kuda-nibud" ("anywhere, somewhere") to get the point across in plain spoken Russian.
+- 'Well, I will even go work at a construction site.' Denis adopts an easygoing posture in this beat, combining "stroyku" ("building site") and "poydu" ("go") so the key meaning lands right away.
+- 'What a day this turned out to be.' Denis establishes a frank tempo toward Lyova, weaving "denyok" ("day, little day") together with "vydalsya" ("to day") just the way native speakers do.
+- 'You do not need to go to a construction site.' Max keeps an emphatic manner in this beat, pairing "nado" ("it is necessary") with "stroyku" ("building site") to get the point across in plain spoken Russian.
+- 'You will work right here. As a cook.' Max offers a measured course for Denis, pairing "zdes" ("here") with "budesh" ("will") to get the point across in plain spoken Russian.
+- 'Max, what do you mean, I don't know how to cook.' Denis takes a steady course in the room, putting "gotovit" ("to cook") alongside "umeyu" ("to know how to") in a tight, everyday turn of phrase.
+- 'You will not need to cook.' Max sets a calm tack as the scene unfolds, linking "nado" ("it is necessary"), "budet" ("will be"), and "gotovit" ("to cook") in one brisk exchange.
+- 'Come on, let's go.' Max holds a direct tone in their talk, letting the single Russian word "poydyom" ("let's go") carry the entire reaction on its own.

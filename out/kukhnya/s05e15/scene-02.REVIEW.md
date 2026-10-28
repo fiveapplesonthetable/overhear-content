@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this? I always drink a latte!' With the moment and coffee hanging in the air, Eleonora puts Kostya on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Excuse me, but you did not warn me about that.' Saying that Eleonora did not warn him is how Nikita sets the tone with Eleonora. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Every day I drink the exact same coffee!' Eleonora declares that every day she drinks the exact same coffee as the tension in the room peaks.
-- 'First of all, please speak to me in a normal tone.' With the coffee and morning in play, Nikita keeps this short reply brisk and direct.
-- 'I do not know which coffee you prefer in the morning.' Because he does not know which coffee Eleonora prefers in the morning, Nikita treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Because I am only working my first day here.' Claiming that because he is only working his first day here sounds confident, even if Eleonora has doubts.
-- 'Then it is also your last day, you are fired already!' Declaring that it is also Kostya's last day Kostya is fired already brings Eleonora's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nikita, what are you doing? That is the owner of the hotel!' Around the conversation and coffee, Kostya wants to know where Eleonora really stands. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Go catch up to her quickly and apologize right away!' Here going catch up to her quickly and apologize right away lets Kostya's real feelings break through.
-- 'For what? For the fact that she insulted me?' Around the work and coffee, Nikita wants to know where Eleonora really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let her be the one to apologize to me now!' Saying that Eleonora should let her be the one to apologize to him now is how Nikita takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Are you completely foolish? Go and apologize right now!' By asking whether Eleonora completely foolish, Kostya presses Eleonora for a straight answer.
+- 'What is this? I always drink a latte!' Eleonora probes calmly to keep things clear, weaving "vsegda" ("always") together with "pyu" ("to drink") just the way native speakers do.
+- 'Excuse me, but you did not warn me about that.' Nikita establishes a clear direction in the conversation, putting "izvinite" ("sorry, excuse me") alongside "predupredili" ("warned") in a tight, everyday turn of phrase.
+- 'Every day I drink the exact same coffee!' Eleonora projects a measured manner on the spot, anchoring the Russian line on "kazhdyy" ("every") and "den" ("day") without extra filler.
+- 'First of all, please speak to me in a normal tone.' Nikita establishes an easygoing posture at once, anchoring the Russian line on "vo-pervykh" ("first of all") and "proshu" ("beg, ask") without extra filler.
+- 'I do not know which coffee you prefer in the morning.' Nikita holds a wry rhythm across the room, linking "znayu" ("know"), "kofe" ("of coffee"), and "utrom" ("this morning") in one brisk exchange.
+- 'Because I am only working my first day here.' Nikita establishes a pointed manner without hesitation, building the phrase around "potomu" ("because") and "rabotayu" ("work") for a crisp, natural delivery.
+- 'Then it is also your last day, you are fired already!' Eleonora holds a direct angle in front of Kostya, building the phrase around "znachit" ("then, so") and "posledniy" ("last") for a crisp, natural delivery.
+- 'Nikita, what are you doing? That is the owner of the hotel!' Kostya queries frankly without hesitation, joining "tvorish" ("are doing, creating") to "khozyayka" ("landlady") so every word pulls its weight.
+- 'Go catch up to her quickly and apologize right away!' Kostya presents a steady rhythm beside Eleonora, combining "idi" ("go") and "skoreye" ("quickly, right away") so the key meaning lands right away.
+- 'For what? For the fact that she insulted me?' Nikita probes warmly beside Kostya, joining "oskorbila" ("insult, offend") to "za" ("for") so every word pulls its weight.
+- 'Let her be the one to apologize to me now!' Nikita favors a grounded attitude in the scene, building the phrase around "teper" ("now") and "izvinyayetsya" ("apologize") for a crisp, natural delivery.
+- 'Are you completely foolish? Go and apologize right now!' Kostya probes candidly as the talk turns, joining "sovsem" ("at all") to "glupyy" ("stupid") so every word pulls its weight.

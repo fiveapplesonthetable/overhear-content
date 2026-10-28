@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take this money for your honesty and thank you very much.' Claiming that Barinov should take this money for Barinov's honesty and thank Barinov very much sounds confident, even if Barinov has doubts.
-- 'By the way, Valentin, did they give you the envelope this afternoon?' Wondering if Valentin did they give Barinov the envelope this afternoon shows the guest caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Valya, do not look for the envelope, it is no longer there.' Pointing out that do not look for the envelope it is no longer there gives Eleonora a sobering reality check.
-- 'I took it when I wanted to save Andrey from your idea.' Barinov explains that he took it when he wanted to save Andrey from Eleonora's idea, keeping his voice calm and direct.
-- 'And I accidentally lost that envelope on the way in a taxi.' Realizing that he accidentally lost that envelope on the way in a taxi changes how Barinov handles the situation.
-- 'But I will definitely pay back all the money soon, Andrey.' Noting that he will definitely pay back all the money soon Andrey keeps Barinov's side of the story simple and clear.
-- 'There is no need, because I lent that money to Valentin.' The guest mentions that there is no need because he that money to Valentin so Barinov sees what is at stake.
-- 'Specifically so that he could pay you back his old debt.' Admitting that specifically so that he could pay Barinov back his old debt shows the guest being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So now you and I are completely even.' Noting that Barinov and he are completely even keeps the guest's side of the story simple and clear. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Viktor Petrovich, you always need to trust your own people!' With the point and trust at stake, the guest reacts without holding back.
-- 'And this gift, brother, is for you as a keepsake.' Adding that this gift brother is for Barinov as a keepsake fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Andrey, good evening, and here is my daughter!' Insisting that Andrey good evening and here is her daughter shows Eleonora is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Take this money for your honesty and thank you very much.' The guest establishes a sharp course without hesitation, pairing "vozmite" ("take") with "dengi" ("money") to get the point across in plain spoken Russian.
+- 'By the way, Valentin, did they give you the envelope this afternoon?' The guest prompts calmly to Eleonora here, leaning on "kstati" ("by the way") before closing the thought with "segodnya" ("today").
+- 'Valya, do not look for the envelope, it is no longer there.' Barinov shares a candid line in this beat, anchoring the Russian line on "ishchi" ("look for") and "konvert" ("the envelope") without extra filler.
+- 'I took it when I wanted to save Andrey from your idea.' Barinov holds an unhurried stance at this moment, joining "zabral" ("takes it back") to "kogda" ("when") so every word pulls its weight.
+- 'And I accidentally lost that envelope on the way in a taxi.' Barinov keeps a direct course across the room, anchoring the Russian line on "sluchayno" ("by any chance") and "poteryal" ("lost") without extra filler.
+- 'But I will definitely pay back all the money soon, Andrey.' Barinov shares a measured stance at once, putting "obyazatelno" ("surely, without fail") alongside "skoro" ("soon") in a tight, everyday turn of phrase.
+- 'There is no need, because I lent that money to Valentin.' The guest brings a wry direction in the conversation, weaving "nado" ("it is necessary") together with "dengi" ("money") just the way native speakers do.
+- 'Specifically so that he could pay you back his old debt.' The guest conveys a brisk rhythm straight away, linking "spetsialno" ("on purpose"), "smog" ("to be able"), and "staryy" ("old") in one brisk exchange.
+- 'So now you and I are completely even.' The guest presents a brisk course as the scene unfolds, anchoring the Russian line on "teper" ("now") and "polnostyu" ("completely") without extra filler.
+- 'Viktor Petrovich, you always need to trust your own people!' The guest sets a frank view beside Eleonora, combining "rodnym" ("native, own") and "lyudyam" ("people") so the key meaning lands right away.
+- 'And this gift, brother, is for you as a keepsake.' The guest brings a frank tack during the exchange, combining "podarok" ("gift, voucher") and "brat" ("brother") so the key meaning lands right away.
+- 'Andrey, good evening, and here is my daughter!' Eleonora holds a natural tempo in the room, leaning on "dobryy" ("good") before closing the thought with "vecher" ("evening").

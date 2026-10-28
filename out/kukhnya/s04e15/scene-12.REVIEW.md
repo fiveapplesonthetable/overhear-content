@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen to me, these powders are completely legal!' Denis declares that to him these powders are completely legal as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'All of you say the exact same thing during interrogation!' Because all of Denis says the exact same thing during interrogation, the inspector does not bother softening the blow for Denis.
-- 'Answer honestly, what is this white powder called?' Questioning whether answer honestly what is this white powder called is how the inspector tests Denis's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is written here, this is ordinary culinary agar-agar.' Saying that it is written here this is ordinary culinary is how Denis sets the tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Whoa, some new kind of junk has appeared!' Declaring that someone some new kind of junk has appeared brings the inspector's temper right to the surface.
-- 'And what do you usually do with this powder?' By wondering what Denis usually do with this powder, the inspector presses Denis for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I am telling you, we cook food out of it!' Because he is telling the guest they cook food out of it, Denis does not bother softening the blow for the guest. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'They asked me in the kitchen to buy this quickly.' Because they asked him in the kitchen to buy this quickly, Denis treats the matter as settled.
-- 'All right, detained citizen, you are now completely free!' Because all right detained citizen Denis is now completely free, the guest does not bother softening the blow for Denis. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Excuse us, a very foolish misunderstanding occurred.' Once Denis should excuse them a very foolish misunderstanding occurred, the guest can finally tell Denis what he means.
-- 'Really, you are letting me go to work right now?' Asking whether really the guest is letting him go to work right now puts the guest right on the defensive.
-- 'Thank you very much, goodbye!' Over the plan and the police, Denis lets his real feelings show. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Listen to me, these powders are completely legal!' Denis takes a measured attitude on the spot, joining "poslushayte" ("listen") to "poroshki" ("powder") so every word pulls its weight.
+- 'All of you say the exact same thing during interrogation!' The inspector adopts an easygoing rhythm in this beat, joining "doprose" ("same") to "govorite" ("say, speak") so every word pulls its weight.
+- 'Answer honestly, what is this white powder called?' The inspector wonders frankly without holding back, pairing "otvechay" ("answer") with "chestno" ("honestly") to get the point across in plain spoken Russian.
+- 'It is written here, this is ordinary culinary agar-agar.' Denis sustains a frank tempo right away, anchoring the Russian line on "zdes" ("here") and "napisano" ("is written") without extra filler.
+- 'Whoa, some new kind of junk has appeared!' The inspector projects a serious tempo in their talk, weaving "ocherednaya" ("another, next") together with "novaya" ("new") just the way native speakers do.
+- 'And what do you usually do with this powder?' The inspector asks pointedly for the guest's benefit, pairing "obychno" ("usually") with "poroshkom" ("powder") to get the point across in plain spoken Russian.
+- 'I am telling you, we cook food out of it!' Denis presents a grounded view beside the guest, pairing "govoryu" ("am telling") with "gotovim" ("are preparing") to get the point across in plain spoken Russian.
+- 'They asked me in the kitchen to buy this quickly.' Denis shares a steady rhythm as the scene unfolds, leaning on "kukhne" ("kitchen") before closing the thought with "poprosili" ("to ask, to request").
+- 'All right, detained citizen, you are now completely free!' The guest establishes a natural direction for Denis, putting "zaderzhannyy" ("right") alongside "grazhdanin" ("citizen") in a tight, everyday turn of phrase.
+- 'Excuse us, a very foolish misunderstanding occurred.' The guest sustains a playful posture without hesitation, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "proizoshlo" ("happened") to shape the meaning.
+- 'Really, you are letting me go to work right now?' Denis presses plainly with the guest now, building the phrase around "pravda" ("honestly") and "seychas" ("now") for a crisp, natural delivery.
+- 'Thank you very much, goodbye!' Denis offers a clear angle toward the inspector, leaning on "spasibo" ("thank you") before closing the thought with "ogromnoye" ("huge, so very much").

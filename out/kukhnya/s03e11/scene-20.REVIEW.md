@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello! Mom, here is our chef Viktor Petrovich.' Max insists that Mom here is their Viktor Petrovich, leaving Barinov no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Very nice to meet you, I am Viktor Petrovich, Katya's father.' Barinov explains that very nice to meet Katya he is Viktor Petrovich Katya father, keeping his voice calm and direct.
-- 'Where are we going to celebrate our wedding?' Wondering where they going to celebrate their wedding are cuts straight through the tension between Max and Barinov.
-- 'Max, you can end this performance already.' Noting that Barinov can end this performance already keeps Katya's side of the story simple and clear.
-- 'I told Dad that there was nothing between us.' Even though she told dad that there was nothing between them, Katya keeps a steady face in front of Barinov. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Chef, I told you this truth right away!' Once he told Barinov this truth right away, Max makes sure Barinov hears every word.
-- 'Thank you very much, here is your money for the act.' Saying that very much here is Barinov's money for the act is how Max sets the tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Every person has their own secret fears.' Once every person has their own secret fears, Max can finally tell Barinov what he means.
-- 'Some people try never to open that door.' With the plan and wedding in play, Max keeps this short reply brisk and direct.
-- 'Others try to hide their fears from everyone.' Max tells Barinov that others try to hide their fears from everyone without dressing it up.
-- 'And some people in life are very lucky.' Since some people in life are very lucky, Max does not waste words on excuses.
-- 'They have no fear in their soul at all.' Mentioning that they have no fear in their soul at all moves the talk in a new direction.
-- 'Because brave guys are not afraid of anything.' Max reminds Barinov that because brave guys are not afraid of anything before the moment passes. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Hello! Mom, here is our chef Viktor Petrovich.' Max displays a wry direction in front of Barinov, joining "zdravstvuyte" ("hello") to "mama" ("mum, mother") so every word pulls its weight.
+- 'Very nice to meet you, I am Viktor Petrovich, Katya's father.' Barinov takes an emphatic manner as the scene unfolds, anchoring the Russian line on "ochen" ("very much") and "priyatno" ("pleasant") without extra filler.
+- 'Where are we going to celebrate our wedding?' Max tests steadily as they speak, building the phrase around "gde" ("where") and "budem" ("will") for a crisp, natural delivery.
+- 'Max, you can end this performance already.' Katya sustains a playful line in the scene, joining "mozhesh" ("can") to "uzhe" ("already, now") so every word pulls its weight.
+- 'I told Dad that there was nothing between us.' Katya chooses a playful footing at this moment, anchoring the Russian line on "skazala" ("told") and "pape" ("to Dad") without extra filler.
+- 'Chef, I told you this truth right away!' Max picks a playful attitude during the exchange, leaning on "srazu" ("at once") before closing the thought with "skazal" ("said").
+- 'Thank you very much, here is your money for the act.' Max brings an honest mood during the exchange, anchoring the Russian line on "spasibo" ("thank you") and "bolshoye" ("big, very much") without extra filler.
+- 'Every person has their own secret fears.' Max offers a steady tack with Katya, using "kazhdogo" (from "kazhdyy", "everyone") alongside "cheloveka" ("a man, a person") to shape the meaning.
+- 'Some people try never to open that door.' Max sets a brisk mood with Barinov, linking "lyudi" ("people"), "starayutsya" ("to try"), and "dver" ("door") in one brisk exchange.
+- 'Others try to hide their fears from everyone.' Max presents a measured rhythm as they talk, linking "drugiye" ("other"), "pytayutsya" ("to try, to attempt"), and "skryt" ("to hide, conceal") in one brisk exchange.
+- 'And some people in life are very lucky.' Max shows an honest tack for Barinov, weaving "nekotorym" ("some, certain") together with "lyudyam" ("people") just the way native speakers do.
+- 'They have no fear in their soul at all.' Max holds a natural angle in the room, weaving "dushe" ("soul") together with "sovsem" ("at all") just the way native speakers do.
+- 'Because brave guys are not afraid of anything.' Max strikes a frank angle for Barinov, pairing "potomu" ("because") with "smelyye" ("bold") to get the point across in plain spoken Russian.

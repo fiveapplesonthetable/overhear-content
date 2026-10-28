@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, are you already drinking in the middle of the day?' Checking whether Kostya already drinking in the middle of the day is how Nastya puts Kostya on the spot.
-- 'Nastya, well I only tasted a tiny drop!' Over the wine and the tears, Kostya lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'After all, I am simply studying to become a real sommelier.' Even though after all he is simply studying to become a real sommelier, Kostya keeps a steady face in front of Nastya.
-- 'By the way, this dry wine goes excellently with the soup!' Declaring that this dry wine goes excellently with the soup brings Kostya's temper right to the surface.
-- 'Nastya, wait, why did you suddenly start crying?' Asking why Nastya suddenly start crying is how Kostya puts Nastya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tell me honestly, did something happen to you?' Asking whether tell him honestly did something happen to Nastya puts Nastya right on the defensive. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'When I was little, my dad used to drink.' Adding that when she was little her dad used to drink fills in the missing piece for Kostya.
-- 'At first he also drank only one little drop at a time.' Nastya tells Kostya that at first he also drank only one little drop at a time without dressing it up.
-- 'I am very afraid of a repeat of this sad story.' Since she is very afraid of a repeat of this sad story, Nastya does not waste words on excuses.
-- 'After all, we have a little son growing up at home.' Mentioning that after all they have a little son growing up at home moves the talk in a new direction.
-- 'I want a completely different childhood for him!' Saying that she wants a completely different childhood for him is how Nastya takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Forgive me, darling, I will not do it anymore!' Kostya insists that darling he will not do it anymore, leaving Nastya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Kostya, are you already drinking in the middle of the day?' Nastya quizzes evenly to keep things clear, joining "uzhe" ("already, now") to "posredi" ("narrow") so every word pulls its weight.
+- 'Nastya, well I only tasted a tiny drop!' Kostya holds a clear line in this beat, weaving "poproboval" ("tried, tasted") together with "tolko" ("only") just the way native speakers do.
+- 'After all, I am simply studying to become a real sommelier.' Kostya sets a direct rhythm beside Nastya, linking "prosto" ("just"), "uchus" ("study, do at school"), and "nastoyashchego" ("real, genuine") in one brisk exchange.
+- 'By the way, this dry wine goes excellently with the soup!' Kostya strikes a serious rhythm with Nastya, building the phrase around "kstati" ("by the way") and "sukhoye" ("dry") for a crisp, natural delivery.
+- 'Nastya, wait, why did you suddenly start crying?' Kostya presses sharply right away, pairing "podozhdi" ("wait") with "vdrug" ("suddenly, what if") to get the point across in plain spoken Russian.
+- 'Tell me honestly, did something happen to you?' Kostya inquires plainly as the beat lands, putting "skazhi" ("say") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
+- 'When I was little, my dad used to drink.' Nastya conveys a measured note in the scene, linking "kogda" ("when"), "byla" ("was"), and "malenkaya" ("small") in one brisk exchange.
+- 'At first he also drank only one little drop at a time.' Nastya displays an honest tempo in this beat, linking "tozhe" ("too"), "snachala" ("first, at first"), and "pil" ("was drinking") in one brisk exchange.
+- 'I am very afraid of a repeat of this sad story.' Nastya takes a firm position without hesitation, weaving "ochen" ("very much") together with "boyus" ("am afraid") just the way native speakers do.
+- 'After all, we have a little son growing up at home.' Nastya keeps a calm bearing across the room, weaving "doma" ("at home") together with "rastyot" ("grows") just the way native speakers do.
+- 'I want a completely different childhood for him!' Nastya sets a warm footing in this beat, weaving "khochu" ("want") together with "sovsem" ("at all") just the way native speakers do.
+- 'Forgive me, darling, I will not do it anymore!' Kostya picks a lively tone as the scene unfolds, pairing "prosti" ("sorry, forgive me") with "lyubimaya" ("favourite, beloved") to get the point across in plain spoken Russian.

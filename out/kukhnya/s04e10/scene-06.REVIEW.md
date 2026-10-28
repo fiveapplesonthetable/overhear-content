@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'An ordinary cook could not have done this.' Nagiyev tells Fedya that an ordinary cook could not have done this without dressing it up. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He is not an ordinary cook.' Saying that he is not an ordinary cook is how Fedya sets the tone with Nagiyev.
-- 'He is Sergeant Arseny Meat-Grinder.' Once he is meat grinder, Fedya can finally tell Nagiyev what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He and I served together.' Over the meat and the boss, Fedya answers Nagiyev without a second thought.
-- 'And I do not care at all.' Because he does not care at all, Nagiyev treats the matter as settled.
-- 'Aren't you supposed to be businessmen?' Here asking whether not Nagiyev supposed to be businessmen shows Fedya looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Or who are you after all?' By wondering who Fedya after all is, Nagiyev presses Fedya for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'And here I am, villains!' Insisting that here he is villains shows Senya is not backing down.
-- 'Senya, you came to save us!' Once Nagiyev came to save them, Fedya makes sure Nagiyev hears every word. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is nothing, anyone would have acted the same way.' Senya explains that it is nothing anyone would have acted the same way, keeping his voice calm and direct.
-- 'I simply did my best for you, guys.' Realizing that he simply did his best for Fedya guys changes how Senya handles the situation.
-- 'Thank you, our savior!' Around the boss and conversation, Fedya makes his point loud and clear. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'An ordinary cook could not have done this.' Nagiyev offers a wry position in front of Fedya, leaning on "obychnyy" ("ordinary, regular") before closing the thought with "povar" ("chef, cook").
+- 'He is not an ordinary cook.' Fedya maintains a frank direction during the exchange, pairing "obychnyy" ("ordinary, regular") with "povar" ("chef, cook") to get the point across in plain spoken Russian.
+- 'He is Sergeant Arseny Meat-Grinder.' Fedya adopts a serious direction straight away, building the phrase around "serzhant" ("arseny") and "myasorubka" ("meat-grinder") for a crisp, natural delivery.
+- 'He and I served together.' Fedya offers an unhurried bearing in their talk, building the phrase around "vmeste" ("together") and "sluzhili" ("to serve") for a crisp, natural delivery.
+- 'And I do not care at all.' Nagiyev sets a clear tack for Fedya, combining the intensifier "sovsem" ("completely, at all") with "naplevat" ("don't care") to give the line its natural spoken rhythm.
+- 'Aren't you supposed to be businessmen?' Fedya questions pointedly at this point, combining "biznesmeny" ("businessmen") and "vy" ("you") so the key meaning lands right away.
+- 'Or who are you after all?' Nagiyev tests plainly as the talk turns, linking "ili" ("or") directly with "vy" ("you"), since Russian drops "is" and "are" in the present.
+- 'And here I am, villains!' Senya adopts an easygoing tone right away, joining "zlodei" ("villains, scoundrels") to "vot" ("there, here") so every word pulls its weight.
+- 'Senya, you came to save us!' Fedya sets a calm approach in front of Nagiyev, leaning on "prishyol" ("came, have come") before closing the thought with "spasti" ("to save").
+- 'It is nothing, anyone would have acted the same way.' Senya strikes an earnest mood without hesitation, anchoring the Russian line on "lyuboy" ("any") and "postupil" ("acted") without extra filler.
+- 'I simply did my best for you, guys.' Senya maintains a steady bearing on the spot, putting "prosto" ("just") alongside "staralsya" ("tried") in a tight, everyday turn of phrase.
+- 'Thank you, our savior!' Fedya chooses a calm tempo as they talk, putting "spasibo" ("thank you") alongside "spasitel" ("savior") in a tight, everyday turn of phrase.

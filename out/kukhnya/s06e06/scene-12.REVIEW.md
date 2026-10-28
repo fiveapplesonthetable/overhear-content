@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put me back on the table quickly!' Because Barinov should put him back on the table quickly, Lyova does not bother softening the blow for Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Lyova, hurry up, I have no time!' Here telling Denis to hurry up he has no time lets Barinov's real feelings break through.
-- 'Read and sign the supply request.' Adding that Barinov should read and sign the supply request fills in the missing piece for Barinov.
-- 'What is there to read, I trust you.' Even though what is there to read he trusts Denis, Barinov keeps a steady face in front of Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Give me the pen here, I will sign quickly.' Explaining that Denis should give him the pen here he will sign quickly lays the cards on the table for Denis.
-- 'Hurry up and look for that packet!' Insisting that Barinov should hurry up and look for that packet shows Denis is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'I put the packet inside his suitcase.' Lyova tells Barinov that he puts the packet inside his suitcase without dressing it up.
-- 'And the Frenchman locked the suitcase.' Turning from the order to the truth, Lyova keeps the exchange moving.
-- 'Then we will carry out the whole suitcase together.' Saying that they will carry out the whole suitcase together is how Denis sets the tone with Barinov.
-- 'Where on earth did I put my key?' Asking whether where on earth did he puts his key puts Denis right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tell me, have the police arrived here already?' Wondering if tell him have the police arrived here already shows Barinov caught off guard.
-- 'Yes, the receptionist led them straight upstairs.' Lyova reminds Barinov that the receptionist led them straight upstairs before the moment passes.
+- 'Put me back on the table quickly!' Lyova adopts an earnest tack beside Barinov, combining "postav" ("place, put") and "bystreye" ("faster") so the key meaning lands right away.
+- 'Lyova, hurry up, I have no time!' Barinov keeps an earnest stance in front of Lyova, weaving "davay" ("let's") together with "bystreye" ("faster") just the way native speakers do.
+- 'Read and sign the supply request.' Lyova shares a measured bearing as the scene unfolds, leaning on "zayavku" ("request, order form") before closing the thought with "produkty" ("groceries").
+- 'What is there to read, I trust you.' Barinov conveys a thoughtful bearing as they talk, weaving "tam" ("there") together with "chitat" ("to read") just the way native speakers do.
+- 'Give me the pen here, I will sign quickly.' Barinov displays a calm footing without hesitation, linking "davay" ("let's"), "syuda" ("here"), and "ruchku" ("a pen") in one brisk exchange.
+- 'Hurry up and look for that packet!' Denis brings a resolute view for Lyova, anchoring the Russian line on "davay" ("let's") and "bystreye" ("faster") without extra filler.
+- 'I put the packet inside his suitcase.' Lyova adopts an unhurried attitude on the spot, linking "paket" ("the plastic bag"), "chemodan" ("suitcase, luggage bag"), and "polozhil" ("laid, put down") in one brisk exchange.
+- 'And the Frenchman locked the suitcase.' Lyova maintains a firm line as the scene unfolds, joining "frantsuz" ("Frenchman") to "zakryl" ("passed, closed") so every word pulls its weight.
+- 'Then we will carry out the whole suitcase together.' Denis adopts an unhurried course in the conversation, building the phrase around "znachit" ("then, so") and "budem" ("will") for a crisp, natural delivery.
+- 'Where on earth did I put my key?' Barinov prompts warmly beside Lyova, pairing "kuda" ("where to") with "del" ("things to do") to get the point across in plain spoken Russian.
+- 'Tell me, have the police arrived here already?' Barinov asks frankly without a pause, linking "skazhite" ("tell"), "politsiya" ("police"), and "syuda" ("here") in one brisk exchange.
+- 'Yes, the receptionist led them straight upstairs.' Lyova favors a lively view straight away, joining "dezhurnyy" ("receptionist") to "povyol" ("led, took") so every word pulls its weight.

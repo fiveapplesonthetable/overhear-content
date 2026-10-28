@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You want to send me into retirement, right?' When Barinov asks if Nagiyev wants to send him into retirement right, Nagiyev has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Vitya, first put down that big ladle.' Nagiyev explains that first put down that big ladle, keeping his voice calm and direct.
-- 'Vitya, nobody was going to replace you!' Insisting that nobody was going to replace Barinov shows Vika is not backing down. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I heard with my own ears how you were talking!' Once he heard with his own ears how Nagiyev was talking, Barinov makes sure Nagiyev hears every word. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You said that it is time to replace everything old!' Declaring that Nagiyev said that it is time to replace everything old brings Barinov's temper right to the surface.
-- 'Vitya, we were discussing the old furniture in the dining room then.' Admitting that they were discussing the old furniture in the dining room then shows Vika being honest for a change.
-- 'Then what was that serious conversation tonight about?' Here wondering what that serious conversation tonight was shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I will tell you everything honestly right now.' Once he will tell Barinov everything honestly right now, Nagiyev can finally tell Barinov what he means.
-- 'Vika was asking me to make you my partner.' Adding that Vika was asking him to make Barinov his partner fills in the missing piece for Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And at that moment I almost agreed.' With the truth and chance in play, Nagiyev keeps this short reply brisk and direct.
-- 'And now I took a look and changed my mind!' Once he took a look and changed his mind, Nagiyev makes sure Barinov hears every word.
-- 'Dima, why did you suddenly change your mind?' By wondering why Nagiyev suddenly change Nagiyev's mind, Barinov presses Nagiyev for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Let us go from here to the dining room, Viktoria Sergeyevna!' Proposing that they go from here to the dining room Viktoria Sergeyevna shows Nagiyev is done holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'You want to send me into retirement, right?' Barinov queries directly beside Nagiyev, using "khotite" (from "khotet", "want") alongside "otpravit" ("to send") to shape the meaning.
+- 'Vitya, first put down that big ladle.' Nagiyev chooses a thoughtful attitude without hesitation, leaning on "snachala" ("first, at first") before closing the thought with "polozhi" ("put, place").
+- 'Vitya, nobody was going to replace you!' Vika keeps a clear manner in their talk, pairing "khotel" ("wanted") with "menyat" ("to change") to get the point across in plain spoken Russian.
+- 'I heard with my own ears how you were talking!' Barinov shows a clear rhythm at once, joining "slyshal" ("heard") to "kak" ("how") so every word pulls its weight.
+- 'You said that it is time to replace everything old!' Barinov chooses a candid approach without hesitation, leaning on "skazali" ("told") before closing the thought with "pora" ("it's time").
+- 'Vitya, we were discussing the old furniture in the dining room then.' Vika keeps a frank bearing in the scene, linking "togda" ("back then"), "staruyu" ("an old"), and "mebel" ("furniture") in one brisk exchange.
+- 'Then what was that serious conversation tonight about?' Barinov probes warmly from the start, linking "togda" ("back then"), "seryoznyy" ("important, serious"), and "razgovor" ("conversation") in one brisk exchange.
+- 'I will tell you everything honestly right now.' Nagiyev presents a playful attitude in the conversation, pairing "seychas" ("now") with "chestno" ("honestly") to get the point across in plain spoken Russian.
+- 'Vika was asking me to make you my partner.' Nagiyev establishes a grounded rhythm at this moment, pairing "prosila" ("asked") with "sdelat" ("to do") to get the point across in plain spoken Russian.
+- 'And at that moment I almost agreed.' Nagiyev keeps a natural mood right away, linking "moment" ("moment"), "pochti" ("almost"), and "soglasilsya" ("agreed") in one brisk exchange.
+- 'And now I took a look and changed my mind!' Nagiyev establishes a resolute tack at this moment, anchoring the Russian line on "seychas" ("now") and "posmotrel" ("looked, had a look") without extra filler.
+- 'Dima, why did you suddenly change your mind?' Barinov probes directly in front of Vika, joining "pochemu" ("why") to "vdrug" ("suddenly, what if") so every word pulls its weight.
+- 'Let us go from here to the dining room, Viktoria Sergeyevna!' Nagiyev establishes a lively approach in the room, combining "poydyomte" ("come on, let's go") and "otsyuda" ("from here") so the key meaning lands right away.

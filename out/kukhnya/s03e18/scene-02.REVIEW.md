@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will anyone really follow your foolish rules?' Checking whether anyone really follow Max's foolish rules is how Barinov puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Sorry, Chef, I cannot shake your hand.' Once he cannot shake Barinov's hand, Max can finally tell Barinov what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'The new rules strictly forbid us to do that.' Adding that the new rules strictly forbid them to do fills in the missing piece for Barinov.
-- 'They are already following them. Here is your kit.' Saying that they are already following them is how Vika sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Lyova, how could you allow such a thing?' Asking how Max allows such a thing could is how Barinov puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'That is enough, I am calling Dima right now!' Barinov declares that that is enough he is calling Dima right now as the tension in the room peaks.
-- 'Excuse me, please, I am a little late.' Here being a little late sets up the next turn in their exchange.
-- 'And what on earth is that in the corridor?' With the situation and truth hanging in the air, Max puts Barinov on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Wait, I do not get it, was that allowed?' Wondering if he does not get it was that allowed shows Barinov caught off guard.
-- 'Who do you think she came back for?' Here wondering who Barinov thinks she came back shows Max looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do you think she came back here for me?' Checking whether Barinov thinks she came back here for him is how Max puts Barinov on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, to put these gloves on us!' Saying that to put these gloves on them is how Barinov takes charge of the moment.
+- 'Will anyone really follow your foolish rules?' Barinov probes sharply right away, pairing "budet" ("will be") with "soblyudat" ("to observe") to get the point across in plain spoken Russian.
+- 'Sorry, Chef, I cannot shake your hand.' Max shows a brisk footing for Vika, weaving "izvinite" ("sorry, excuse me") together with "mogu" ("can") just the way native speakers do.
+- 'The new rules strictly forbid us to do that.' Max displays a warm line straight away, pairing "novyye" ("new") with "pravila" ("rules") to get the point across in plain spoken Russian.
+- 'They are already following them. Here is your kit.' Vika projects an earnest approach as they talk, linking "uzhe" ("already, now"), "soblyudayut" ("they follow"), and "komplekt" ("set") in one brisk exchange.
+- 'Lyova, how could you allow such a thing?' Barinov questions lightly without a pause, combining "kak" ("how") and "mog" ("can, to be able") so the key meaning lands right away.
+- 'That is enough, I am calling Dima right now!' Barinov takes a lively stance with Vika, weaving "khvatit" ("enough") together with "seychas" ("now") just the way native speakers do.
+- 'Excuse me, please, I am a little late.' Max takes a resolute posture in the scene, weaving "izvinite" ("sorry, excuse me") together with "nemnogo" ("a bit") just the way native speakers do.
+- 'And what on earth is that in the corridor?' Max checks boldly to Vika here, linking "yeshchyo" ("more, still") directly with "koridore" ("corridor"), since Russian drops "is" and "are" in the present.
+- 'Wait, I do not get it, was that allowed?' Barinov probes plainly as the beat lands, linking "ponyal" ("understood"), "mozhno" ("may, can"), and "bylo" ("was") in one brisk exchange.
+- 'Who do you think she came back for?' Max quizzes sharply to make the point, pairing "kak" ("how") with "dumayesh" ("think") to get the point across in plain spoken Russian.
+- 'Do you think she came back here for me?' Max questions promptly right away, pairing "vernulas" ("returned") with "dumayesh" ("think") so the "-sya" ending carries the action.
+- 'No, to put these gloves on us!' Barinov shows a direct mood across the room, putting "nadet" ("put on") alongside "perchatki" ("gloves") in a tight, everyday turn of phrase.

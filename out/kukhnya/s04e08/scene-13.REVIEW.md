@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, it does not look at all like he is grieving.' Pointing out that it does not look at all like he is grieving gives Denis a sobering reality check.
-- 'Look at him, he is far too cheerful today!' Marina declares that at him he is far too cheerful today as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Marina, why are you picking on the man for nothing?' Here wondering why Denis picking on the man for nothing is shows Senya looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He is under heavy stress, and laughter is a defense.' Being under heavy stress and laughter is a defense is how Senya lays out the situation for Denis.
-- 'Senya, maybe we could watch an interesting movie tonight?' Denis asks whether maybe they could watch an interesting movie tonight, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'A big passenger plane crashes in the mountains in it!' Over the apartment and the truth, Denis lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Denis, let's rather watch a movie another time.' Claiming that they should rather watch a movie another time sounds confident, even if Denis has doubts.
-- 'Marina, it seems everything is even worse than I thought!' Saying that it seems everything is even worse than he thought is how Senya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'From such grief he has completely lost his mind!' Senya declares that from such grief he has completely lost his mind as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I beg you, keep a close eye on him.' Here begging Denis keeps a close eye on him sets up the next turn in their exchange.
-- 'Denis, do you want to go for a walk right now?' Asking whether Denis wants to go for a walk right now is how Marina puts Denis on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Yes, I want to go visit my brother right now!' Wanting to go visit his brother right now is Denis's blunt reaction in front of Marina. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Senya, it does not look at all like he is grieving.' Marina sets a pointed view in front of Denis, putting "sovsem" ("at all") alongside "pokhozhe" ("like, similar") in a tight, everyday turn of phrase.
+- 'Look at him, he is far too cheerful today!' Marina strikes a thoughtful tone toward Senya, joining "posmotri" ("look") to "slishkom" ("too") so every word pulls its weight.
+- 'Marina, why are you picking on the man for nothing?' Senya wonders plainly without hesitation, joining "zrya" ("for nothing") to "pridirayeshsya" ("to nothing") so every word pulls its weight.
+- 'He is under heavy stress, and laughter is a defense.' Senya sustains a playful view as the scene unfolds, linking "silnyy" ("the strong"), "stress" ("stress"), and "smekh" ("defense") in one brisk exchange.
+- 'Senya, maybe we could watch an interesting movie tonight?' Denis prompts directly for Marina's benefit, building the phrase around "mozhet" ("can") and "segodnya" ("today") for a crisp, natural delivery.
+- 'A big passenger plane crashes in the mountains in it!' Denis shares a firm manner beside Senya, putting "tam" ("there") alongside "gorakh" ("mountain, hill") in a tight, everyday turn of phrase.
+- 'Denis, let's rather watch a movie another time.' Senya chooses an honest attitude toward Denis, combining the everyday invitation "davay" ("come on, let us") with "luchshe" ("better") to give the line its natural spoken rhythm.
+- 'Marina, it seems everything is even worse than I thought!' Senya favors a sharp view as they talk, putting "kazhetsya" ("it seems, I think") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'From such grief he has completely lost his mind!' Senya presents a resolute angle right away, anchoring the Russian line on "gorya" ("grief, sorrow") and "sovsem" ("at all") without extra filler.
+- 'I beg you, keep a close eye on him.' Senya holds an unhurried attitude in the room, combining "ochen" ("very much") and "proshu" ("beg, ask") so the key meaning lands right away.
+- 'Denis, do you want to go for a walk right now?' Marina asks plainly without hesitation, combining "seychas" ("now") and "khotite" ("want") so the key meaning lands right away.
+- 'Yes, I want to go visit my brother right now!' Denis shows a brisk manner in the room, joining "khochu" ("want") to "seychas" ("now") so every word pulls its weight.

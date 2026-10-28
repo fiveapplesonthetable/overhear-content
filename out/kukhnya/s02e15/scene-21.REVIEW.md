@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not want to see you.' Because he does not want to see Nastya, Max treats the matter as settled. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Serves me right for being such a fool.' Explaining that serves her right for being such a fool lays the cards on the table for Max.
-- 'I never learn anything in life, huh?' Asking whether she never learns anything in life huh puts Max right on the defensive. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What else could I have told you?' Wondering if what else could he has told Nastya shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You could have told me the exact truth.' Explaining that Max could have told her the exact truth lays the cards on the table for Max.
-- 'Because I was afraid that you would not like me.' Sasha explains that because she was afraid that Max would not like, keeping her voice calm and direct. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'And I really want you to like me.' Realizing that he really wants Nastya to like him changes how Max handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I am on my way to the airport.' Here being on her way to the airport sets up the next turn in their exchange.
-- 'Even when it seems like the right step.' Even though even when it seems like the right step, Sasha keeps a steady face in front of Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'The main thing is that mom never finds out.' Admitting that the main thing is that never finds out shows Max being honest for a change.
-- 'And it is wonderful when you do not want to go back.' Saying that it is wonderful when Max does not want to go back is how Nastya sets the tone with Max.
-- 'When you actually like the changes.' Once when Max actually like the changes, Sasha can finally tell Max what she means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, it is morning already, we have to get up.' Adding that it is morning already they have to get up fills in the missing piece for Nastya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'I do not want to see you.' Max establishes an emphatic footing at this moment, anchoring the Russian line on "videt" ("to see") and "khochu" ("want") without extra filler.
+- 'Serves me right for being such a fool.' Nastya offers a measured view in the conversation, joining "nado" ("it is necessary") to "dura" ("fool") so every word pulls its weight.
+- 'I never learn anything in life, huh?' Sasha asks plainly as the beat lands, combining "zhizni" ("life") and "uchat" ("to learn, to teach") so the key meaning lands right away.
+- 'What else could I have told you?' Max probes firmly without a pause, joining "mog" ("can, to be able") to "skazat" ("tell") so every word pulls its weight.
+- 'You could have told me the exact truth.' Nastya keeps a direct rhythm on the spot, joining "mogli" ("could") to "skazat" ("tell") so every word pulls its weight.
+- 'Because I was afraid that you would not like me.' Sasha projects a natural manner without hesitation, leaning on "potomu" ("because") before closing the thought with "boyalsya" ("was afraid").
+- 'And I really want you to like me.' Max projects a frank stance as the scene unfolds, joining "ochen" ("very much") to "khochu" ("want") so every word pulls its weight.
+- 'I am on my way to the airport.' Nastya picks a natural footing at this moment, pairing "yedu" ("am driving") with "aeroport" ("the airport") to get the point across in plain spoken Russian.
+- 'Even when it seems like the right step.' Sasha displays an unhurried manner with Max, joining "kazhetsya" ("it seems, I think") to "pravilnym" ("correct, right") so every word pulls its weight.
+- 'The main thing is that mom never finds out.' Max projects an earnest approach at once, weaving "glavnoye" ("important") together with "mama" ("mum, mother") just the way native speakers do.
+- 'And it is wonderful when you do not want to go back.' Nastya strikes a pointed mood straight away, joining "khorosho" ("good, fine") to "kogda" ("when") so every word pulls its weight.
+- 'When you actually like the changes.' Sasha picks a measured course on the spot, pairing "kogda" ("when") with "izmeneniya" ("changes") to get the point across in plain spoken Russian.
+- 'Listen, it is morning already, we have to get up.' Max offers a pointed position in this beat, building the phrase around "slushay" ("listen") and "uzhe" ("already, now") for a crisp, natural delivery.

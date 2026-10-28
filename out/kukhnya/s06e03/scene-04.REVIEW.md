@@ -14,26 +14,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Никита | Работы не будет, можешь идти домой. | There will be no work, you can go home. | #59: не будет. Так что можешь домой | adapted: adapted |
 | 3 | Денис | Тебя забыл спросить. | I forgot to ask you. | #60: Тебя забыл спросить | adapted: exact |
 | 4 | Денис | Да сколько можно? | How much longer can this go on? | #62: Сколько можно | adapted: adapted |
-| 5 | Сеня | Извините, мы нечаянно. | Sorry, we did it accidentally. | #63: Извините, мы нечаянно | adapted: exact |
-| 6 | Сеня | Слушай, кино Нагиева, и канализация засорилась. | Listen, Nagiyev's movie is here, and the plumbing got clogged. | #64: кино Нагиева и канализация засорилась | adapted: adapted |
-| 7 | Сеня | Не думаю, что это просто так. | I do not think that is a coincidence. | #65: Не думаю | adapted: adapted |
-| 8 | Сеня | Я тут подумал, может, в футбол сыграем? | I was just thinking, maybe we should play football? | #66: я тут подумал<br>#67: может, в футбол сыграем? | adapted: adapted |
+| 5 | Нагиев | Извините, мы нечаянно. | Sorry, we did it accidentally. | #63: Извините, мы нечаянно | adapted: exact |
+| 6 | Нагиев | Слушай, кино Нагиева, и канализация засорилась. | Listen, Nagiyev's movie is here, and the plumbing got clogged. | #64: кино Нагиева и канализация засорилась | adapted: adapted |
+| 7 | Нагиев | Не думаю, что это просто так. | I do not think that is a coincidence. | #65: Не думаю | adapted: adapted |
+| 8 | Нагиев | Я тут подумал, может, в футбол сыграем? | I was just thinking, maybe we should play football? | #66: я тут подумал<br>#67: может, в футбол сыграем? | adapted: adapted |
 | 9 | Денис | Не хочу я играть. | I do not want to play. | #68: Не хочу | adapted: adapted |
 | 10 | Никита | Да он просто испугался. | Why, he just got scared. | #69: Да он просто испугался | adapted: exact |
 | 11 | Денис | Ладно, давай сыграем. | Fine, let's play. | #70: Давай, сыграем | adapted: adapted |
-| 12 | Сеня | А подайте мяч, пожалуйста. | Pass the ball, please. | #71: А подайте мяч, пожалуйста | adapted: exact |
+| 12 | Нагиев | А подайте мяч, пожалуйста. | Pass the ball, please. | #71: А подайте мяч, пожалуйста | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev is filming a movie today.' Because Nagiyev is filming a movie today, Nikita treats the matter as settled.
-- 'There will be no work, you can go home.' Mentioning that there will be no work Denis can go home moves the talk in a new direction.
-- 'I forgot to ask you.' Denis mentions that he forgot to ask Nikita so Nikita sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How much longer can this go on?' Asking whether how much longer can this go puts Nikita right on the defensive.
-- 'Sorry, we did it accidentally.' Pointing out that they did it accidentally gives Denis a sobering reality check.
-- 'Listen, Nagiyev's movie is here, and the plumbing got clogged.' Senya explains that Nagiyev movie is here and the plumbing got clogged, keeping his voice calm and direct.
-- 'I do not think that is a coincidence.' Realizing that he does not think that is a coincidence changes how Senya handles the situation.
-- 'I was just thinking, maybe we should play football?' Senya asks whether he was just thinking maybe they should play football, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not want to play.' With the point and match in play, Denis keeps this short reply brisk and direct.
-- 'Why, he just got scared.' Admitting that why he just got scared shows Nikita being honest for a change.
-- 'Fine, let's play.' Saying that fine let them play is how Denis sets the tone with Nikita. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Pass the ball, please.' Here passing the ball please sets up the next turn in their exchange.
+- 'Nagiyev is filming a movie today.' Nikita brings a serious tack without hesitation, linking "segodnya" ("today"), "kino" ("cinema, movies"), and "snimayet" ("is filming") in one brisk exchange.
+- 'There will be no work, you can go home.' Nikita sets a natural tack at this moment, putting "raboty" ("of work") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'I forgot to ask you.' Denis shows a wry angle in the room, linking "zabyl" ("forgot"), "sprosit" ("to ask"), and "tebya" ("you") in one brisk exchange.
+- 'How much longer can this go on?' Denis quizzes steadily during the talk, weaving "skolko" ("how much, so much") together with "mozhno" ("may, can") just the way native speakers do.
+- 'Sorry, we did it accidentally.' Nagiyev shows a warm line right away, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "nechayanno" ("by accident") to shape the meaning.
+- 'Listen, Nagiyev's movie is here, and the plumbing got clogged.' Nagiyev presents an unhurried approach at once, linking "slushay" ("listen"), "kino" ("cinema, movies"), and "kanalizatsiya" ("sewage, plumbing") in one brisk exchange.
+- 'I do not think that is a coincidence.' Nagiyev chooses an emphatic bearing right away, linking "dumayu" ("I think"), "prosto" ("just"), and "ne" ("not") in one brisk exchange.
+- 'I was just thinking, maybe we should play football?' Nagiyev quizzes naturally right away, joining "tut" ("here") to "podumal" ("would think") so every word pulls its weight.
+- 'I do not want to play.' Denis brings an emphatic attitude in the room, leaning on "khochu" ("want") before closing the thought with "igrat" ("to play").
+- 'Why, he just got scared.' Nikita sustains a sharp view on the spot, combining "prosto" ("just") and "ispugalsya" ("got scared") so the key meaning lands right away.
+- 'Fine, let's play.' Denis chooses an unhurried tempo on the spot, using "davay" (from "davat", "let's") alongside "sygrayem" ("will play, will hold") to shape the meaning.
+- 'Pass the ball, please.' Nagiyev favors an honest tack right away, using "podayte" (from "podat", "to submit, file") alongside "myach" ("ball") to shape the meaning.

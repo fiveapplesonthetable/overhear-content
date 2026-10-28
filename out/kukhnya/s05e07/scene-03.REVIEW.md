@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take your hands off, step away from my husband right now!' Declaring that Katya should take Katya's hands off step away from her husband right now brings Gulya's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Marina, what is wrong with you?' Wondering what wrong with Gulya is cuts straight through the tension between Senya and Gulya.
-- 'Do you think that I am blind?' Asking whether Katya thinks that she is blind is how Gulya puts Katya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well we already sorted it out, I made a mistake.' Senya reminds Gulya that they already sorted it out he made a mistake before the moment passes.
-- 'Why did she call late yesterday?' By wondering why she call late yesterday, Gulya presses Katya for a straight answer.
-- 'Fedya's birthday is coming up soon, she called to ask for advice.' Explaining that Fedya birthday is coming up soon she called to ask for advice lays the cards on the table for Gulya.
-- 'Are you satisfied? You ruined the surprise.' Checking whether Gulya satisfied is how Senya puts Gulya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And what is this? Also a surprise for Fedya?' Here wondering what this is shows Gulya looking for the real truth.
-- 'Why was this lying in your drawer with your socks?' By asking why this lying in Katya's drawer with Katya's socks was, Gulya presses Katya for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You could not keep Denis, so you decided to steal my husband?' When Gulya asks if Katya could not keep Denis so Katya decided to steal her husband, Katya has to answer fast. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Marina, have you lost your mind?' Asking whether Gulya lost Gulya's mind is how Katya puts Gulya on the spot.
-- 'Quiet, quiet, what are you doing?' Asking whether quiet quiet what are Gulya doing puts Gulya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Take your hands off, step away from my husband right now!' Gulya maintains an honest tack in the room, leaning on "ruki" ("hands") before closing the thought with "ubrala" ("took off, removed").
+- 'Marina, what is wrong with you?' Senya wonders openly as they speak, joining "marin" ("Marina") to "ty" ("you") so every word pulls its weight.
+- 'Do you think that I am blind?' Gulya probes naturally in their exchange, leaning on "dumayesh" ("think") before closing the thought with "slepaya" ("blind").
+- 'Well we already sorted it out, I made a mistake.' Senya chooses a serious direction as the scene unfolds, using "razobralis" (from "razobratsya", "to sort out") alongside "oshibsya" ("to make a mistake") to shape the meaning.
+- 'Why did she call late yesterday?' Gulya presses steadily in this moment, putting "zachem" ("what for") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.
+- 'Fedya's birthday is coming up soon, she called to ask for advice.' Senya maintains an unhurried posture for Katya, pairing "posovetovatsya" ("to consult") with "skoro" ("soon") so the "-sya" ending carries the action.
+- 'Are you satisfied? You ruined the surprise.' Senya wonders calmly across the room, putting "dovolna" ("happy, pleased") alongside "isportila" ("ruined, spoiled") in a tight, everyday turn of phrase.
+- 'And what is this? Also a surprise for Fedya?' Gulya presses naturally toward Senya here, linking "tozhe" ("too") directly with "syurpriz" ("surprise"), since Russian drops "is" and "are" in the present.
+- 'Why was this lying in your drawer with your socks?' Gulya probes sharply as the talk turns, weaving "pochemu" ("why") together with "lezhalo" ("to lie, to rest") just the way native speakers do.
+- 'You could not keep Denis, so you decided to steal my husband?' Gulya probes naturally to make the point, building the phrase around "denisa" ("denis") and "uderzhala" ("kept, held onto") for a crisp, natural delivery.
+- 'Marina, have you lost your mind?' Katya presses plainly without hesitation, leaning on "uma" ("mind") before closing the thought with "soshla" ("went off, lost").
+- 'Quiet, quiet, what are you doing?' Senya prompts frankly to keep things clear, combining "tikho" ("easy, quiet") and "tvorish" ("are doing, creating") so the key meaning lands right away.

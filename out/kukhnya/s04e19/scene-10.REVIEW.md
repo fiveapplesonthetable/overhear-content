@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to think about something pleasant more often.' Admitting that he needs to think about something pleasant more often shows Denis being honest for a change.
-- 'And then all the bad dreams will pass.' Adding that all the bad dreams will pass fills in the missing piece for Vika.
-- 'Hi, Denis, will you help me in the office?' Here checking whether Denis helps her in the office shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I need to move the couch a little in there.' Needing to move the couch a little in there moves the conversation forward without extra drama.
-- 'Yes, of course, I will help you right now.' Mentioning that he will help Vika right now moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Well, tell me, how are your nightmares?' Asking whether tell her how are Denis's nightmares puts Denis right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Everything is fine, I did as you said.' Because everything is fine he did as Vika said, Denis treats the matter as settled.
-- 'I thought about something pleasant before sleep.' Explaining that he thought about something pleasant before sleep lays the cards on the table for Vika.
-- 'Thank you very much for your help.' With the office and shift in play, Denis keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There is no need to thank me for that.' Claiming that there is no need to thank sounds confident, even if Denis has doubts.
-- 'I am glad that I helped you.' Once she is glad that she helped Denis, Vika can finally tell Denis what she means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'A dog bit my leg badly yesterday!' With the conversation and office at stake, Denis reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'I need to think about something pleasant more often.' Denis takes a serious mood beside Vika, pairing "nuzhno" ("necessary") with "chashche" ("more often") to get the point across in plain spoken Russian.
+- 'And then all the bad dreams will pass.' Denis keeps an unhurried footing at once, putting "togda" ("back then") alongside "plokhiye" ("bad") in a tight, everyday turn of phrase.
+- 'Hi, Denis, will you help me in the office?' Vika presses steadily as they speak, leaning on "pomozhesh" ("you'll help") before closing the thought with "kabinete" ("office").
+- 'I need to move the couch a little in there.' Vika adopts a firm footing in the room, putting "tam" ("there") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'Yes, of course, I will help you right now.' Denis keeps a sharp tone without hesitation, linking "konechno" ("of course"), "seychas" ("now"), and "pomogu" ("I'll help") in one brisk exchange.
+- 'Well, tell me, how are your nightmares?' Vika asks promptly as the beat lands, pairing "skazhi" ("say") with "kak" ("how") to get the point across in plain spoken Russian.
+- 'Everything is fine, I did as you said.' Denis keeps a candid line right away, joining "khorosho" ("good, fine") to "sdelal" ("did") so every word pulls its weight.
+- 'I thought about something pleasant before sleep.' Denis adopts a playful style on the spot, putting "dumal" ("thought") alongside "priyatnom" ("pleasant, nice") in a tight, everyday turn of phrase.
+- 'Thank you very much for your help.' Denis shares a resolute mood during the exchange, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "pomoshch" ("help") in one brisk exchange.
+- 'There is no need to thank me for that.' Vika favors a calm bearing as they talk, anchoring the Russian line on "nado" ("it is necessary") and "blagodarit" ("to thank") without extra filler.
+- 'I am glad that I helped you.' Vika projects a calm approach as the scene unfolds, joining "rada" ("glad") to "pomogla" ("helped") so every word pulls its weight.
+- 'A dog bit my leg badly yesterday!' Denis picks a serious attitude without hesitation, weaving "vchera" ("yesterday") together with "sobaka" ("dog") just the way native speakers do.

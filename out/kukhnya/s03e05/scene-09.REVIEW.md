@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, I am burning, burning, burning!' By being burning burning burning, Senya raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Guys, help me, help!' Telling Lyova to help him help is Senya's blunt reaction in front of Lyova.
-- 'What is that hard thing you have there?' Wondering what that hard thing Senya has there is is how Lyova puts Senya on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'That is none of your business at all.' Since that is none of Lyova's business at all, Senya does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Come on, stand right here quickly.' Because Senya should come on stand right here quickly, Lyova treats the matter as settled.
-- 'What else is this that you have?' Lyova asks whether what else is this that Senya has, refusing to let the point slide. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Lyova, this is not mine at all.' Because this is not his at all, Senya treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Really, this is not yours at all?' Wondering if really this is not Senya's at all shows Lyova caught off guard.
-- 'No, of course, this is not mine.' Senya mentions that this is not so Lyova sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Well yes, of course, as if I believed that.' Around the conversation and moment, Lyova sets a calm, everyday tone with Senya.
-- 'I will search you personally.' Pointing out that he will search Senya personally gives Senya a sobering reality check.
-- 'At the end of every working day.' Over the conversation and the truth, Lyova answers Senya without a second thought.
+- 'Oh, I am burning, burning, burning!' Senya shows an easygoing bearing during the exchange, joining "goryu" ("am burning") to "oy" ("oh") so every word pulls its weight.
+- 'Guys, help me, help!' Senya sets a serious note for Lyova, building the phrase around "rebyata" ("the boys, the lads") and "pomogite" ("help") for a crisp, natural delivery.
+- 'What is that hard thing you have there?' Lyova queries earnestly right away, putting "tvyordoye" ("hard, firm") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'That is none of your business at all.' Senya shares a serious posture for Lyova, combining "sovsem" ("at all") and "delo" ("matter") so the key meaning lands right away.
+- 'Come on, stand right here quickly.' Lyova brings an easygoing course in their talk, putting "bystro" ("quickly") alongside "stoy" ("stop, wait") in a tight, everyday turn of phrase.
+- 'What else is this that you have?' Lyova questions earnestly at this point, leaning on "yeshchyo" ("more, still") before closing the thought with "eto" ("this").
+- 'Lyova, this is not mine at all.' Senya keeps a direct line at this moment, putting "voobshche" ("at all") alongside "lyova" ("Lyova") in a tight, everyday turn of phrase.
+- 'Really, this is not yours at all?' Lyova probes directly to Senya here, combining "pravda" ("honestly") and "sovsem" ("at all") so the key meaning lands right away.
+- 'No, of course, this is not mine.' Senya keeps a thoughtful tone across the room, combining "konechno" ("of course") and "net" ("no") so the key meaning lands right away.
+- 'Well yes, of course, as if I believed that.' Lyova presents a measured style in the scene, building the phrase around "konechno" ("of course") and "poveril" ("to believe") for a crisp, natural delivery.
+- 'I will search you personally.' Lyova shares an emphatic line beside Senya, anchoring the Russian line on "budu" ("will be") and "personalno" ("personally") without extra filler.
+- 'At the end of every working day.' Lyova chooses a grounded manner for Senya, combining "kontse" ("end") and "kazhdogo" ("everyone") so the key meaning lands right away.

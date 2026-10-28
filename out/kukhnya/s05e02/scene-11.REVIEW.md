@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon! We are glad to welcome you to our hotel.' Because they are glad to welcome Barinov to their hotel, Mikhail does not bother softening the blow for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'My name is Mikhail. How can I help you?' Questioning whether his name is Mikhail is how Mikhail tests Barinov's story. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'My room is still not ready.' Explaining that his room is still not ready lays the cards on the table for Mikhail.
-- 'Please accept our deepest apologies.' Accepting their deepest apologies is how Mikhail lays out the situation for Barinov.
-- 'I can offer you a luxury suite.' Claiming that he can offer Barinov a luxury suite sounds confident, even if Barinov has doubts. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Allow me to escort you there.' Even though Barinov should allow him to escort Barinov there, Mikhail keeps a steady face in front of Barinov.
-- 'Is that really the secret guest?' Here checking whether that really the secret guest shows Vika looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'No, he is just an ordinary guest.' Realizing that he is just an ordinary guest changes how Vika handles the situation. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Otherwise there was no way to reconcile those two.' Noting that otherwise there was no way to reconcile those two keeps Vika's side of the story simple and clear.
-- 'Room service straight to the room.' Around the room and story, Barinov sets a calm, everyday tone with Mikhail.
-- 'This is a special service from the chef.' Admitting that this is a special service shows Barinov being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You simply have golden hands.' Saying that Barinov simply have golden hands is how Mikhail sets the tone with Barinov.
-- 'No, thank you, I am at work.' Adding that he is at work fills in the missing piece for Mikhail.
+- 'Good afternoon! We are glad to welcome you to our hotel.' Mikhail favors a lively rhythm right away, linking "dobryy" ("good"), "den" ("day"), and "rady" ("glad") in one brisk exchange.
+- 'My name is Mikhail. How can I help you?' Mikhail queries steadily as the talk turns, combining "zovut" ("call") and "mogu" ("can") so the key meaning lands right away.
+- 'My room is still not ready.' Barinov keeps a serious footing in the room, combining "nomer" ("number") and "por" ("time") so the key meaning lands right away.
+- 'Please accept our deepest apologies.' Mikhail sustains a warm position beside Vika, using "primite" (from "prinyat", "accept") alongside "glubokiye" ("deep, profound") to shape the meaning.
+- 'I can offer you a luxury suite.' Mikhail picks a measured footing as they talk, combining "mogu" ("can") and "predlozhit" ("to offer") so the key meaning lands right away.
+- 'Allow me to escort you there.' Mikhail shows an emphatic stance as they talk, weaving "pozvolte" ("allow me") together with "tuda" ("there") just the way native speakers do.
+- 'Is that really the secret guest?' Vika presses bluntly in the scene, pairing "yest" ("there is") with "samyy" ("the most") to get the point across in plain spoken Russian.
+- 'No, he is just an ordinary guest.' Vika holds a brisk style straight away, pairing "prosto" ("just") with "obychnyy" ("ordinary, regular") to get the point across in plain spoken Russian.
+- 'Otherwise there was no way to reconcile those two.' Vika displays a brisk tone in front of Barinov, building the phrase around "inache" ("otherwise") and "bylo" ("was") for a crisp, natural delivery.
+- 'Room service straight to the room.' Barinov brings a frank line with Vika, joining "obsluzhivaniye" ("service") to "pryamo" ("right, just") so every word pulls its weight.
+- 'This is a special service from the chef.' Barinov displays a calm position as the scene unfolds, building the phrase around "spetsialnaya" ("special") and "usluga" ("favor, service") for a crisp, natural delivery.
+- 'You simply have golden hands.' Mikhail shares a candid tone on the spot, pairing "prosto" ("just") with "zolotyye" ("golden") to get the point across in plain spoken Russian.
+- 'No, thank you, I am at work.' Barinov shares a resolute tempo beside Mikhail, pairing "spasibo" ("thank you") with "rabote" ("work") to get the point across in plain spoken Russian.

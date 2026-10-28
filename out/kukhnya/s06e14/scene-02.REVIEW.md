@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, please, for yesterday evening.' Between the shift and the wedding, Nikita gives Barinov a quick, grounded response.
-- 'I usually never cry like that.' Between the shift and the meat, Nikita gives Barinov a quick, grounded response. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Have you never been on the roof?' By asking whether Barinov never been on the roof, Nikita presses Barinov for a straight answer.
-- 'Let us launch a beautiful wedding fireworks display from there.' Proposing that they launch a beautiful wedding fireworks display from there is how Nikita lays out the situation for Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Get out of here right now!' Here getting out of here right now lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, this is our guest from Korea.' Adding that this is their guest from Korea fills in the missing piece for Barinov.
-- 'Do you see that I am busy right now?' By checking whether Mikhail sees that he is busy right now, Barinov presses Mikhail for a straight answer. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'I have a request for you.' Having a request for Barinov is how Mikhail lays out the situation for Barinov. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Could you please cook this beef?' Checking whether Barinov pleases cook this beef is how Mikhail puts Barinov on the spot.
-- 'We cook only from our menu.' Here cooking only from their menu sets up the next turn in their exchange.
-- 'And we cook only from our own ingredients.' By cooking only from their own ingredients, Barinov keeps his side of the story grounded.
-- 'I understand everything, but the guest will pay.' By understanding everything but the guest will pay, Mikhail keeps his side of the story grounded.
+- 'Forgive me, please, for yesterday evening.' Nikita adopts a steady note in the room, pairing "prosti" ("sorry, forgive me") with "vcherashniy" ("yesterday's") to get the point across in plain spoken Russian.
+- 'I usually never cry like that.' Nikita shows an honest angle in front of Mikhail, linking "obychno" ("usually"), "nikogda" ("never"), and "plachu" ("pay") in one brisk exchange.
+- 'Have you never been on the roof?' Nikita inquires warmly as the beat lands, linking "nikogda" ("never"), "byla" ("was"), and "kryshe" ("roof") in one brisk exchange.
+- 'Let us launch a beautiful wedding fireworks display from there.' Nikita chooses a clear view with Mikhail, joining "davay" ("let's") to "zapustim" ("will launch") so every word pulls its weight.
+- 'Get out of here right now!' Barinov sustains a natural line in the conversation, linking "bystro" ("quickly"), "poshyol" ("went, set off"), and "otsyuda" ("from here") in one brisk exchange.
+- 'Wait, this is our guest from Korea.' Mikhail keeps an unhurried style toward Nikita, joining "podozhdi" ("wait") to "gost" ("guest") so every word pulls its weight.
+- 'Do you see that I am busy right now?' Barinov inquires calmly right away, pairing "seychas" ("now") with "vidite" ("see") so the "-sya" ending carries the action.
+- 'I have a request for you.' Mikhail establishes a playful style right away, linking "yest" ("there is"), "prosba" ("a request"), and "menya" ("me") in one brisk exchange.
+- 'Could you please cook this beef?' Mikhail challenges honestly beside Barinov, pairing "mogli" ("could") with "prigotovit" ("to cook, to prepare") to get the point across in plain spoken Russian.
+- 'We cook only from our menu.' Barinov favors a steady rhythm in front of Nikita, weaving "gotovim" ("are preparing") together with "tolko" ("only") just the way native speakers do.
+- 'And we cook only from our own ingredients.' Barinov takes a brisk posture on the spot, building the phrase around "gotovim" ("are preparing") and "tolko" ("only") for a crisp, natural delivery.
+- 'I understand everything, but the guest will pay.' Mikhail conveys a lively tack for Nikita, using "ponimayu" (from "ponimat", "understand") alongside "gost" ("guest") to shape the meaning.

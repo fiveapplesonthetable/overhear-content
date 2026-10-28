@@ -22,20 +22,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Лёва | Вечером что был? | What happened in the evening? | #345: Вечером что был | verbatim |
 | 11 | Шеф | Ничего не знаю. | I do not know anything. | #346: Ничего не знаю | verbatim |
 | 12 | Лёва | У меня планы. | I have plans. | #346: У меня планы | verbatim |
-| 13 | Шеф | Шеф, готово. | Chef, everything is ready. | #347: Шеф, готово | verbatim |
+| 13 | Макс | Шеф, готово. | Chef, everything is ready. | #347: Шеф, готово | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What test are you talking about?' Barinov asks whether what test are Lyova talking, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What do you think?' Wondering what Barinov thinks cuts straight through the tension between Lyova and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You signed the request form yourself.' Over the truth and the test, Barinov answers Lyova without a second thought.
-- 'Was I drunk when I signed it?' Here asking whether he drunk when he signed it shows Lyova looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, then it does not count.' Admitting that it does not count shows Barinov being honest for a change.
-- 'You should have warned me beforehand.' Saying that Barinov should have warned him beforehand is how Lyova sets the tone with Barinov.
-- 'It is not my fault.' Once it is not his fault, Barinov can finally tell Lyova what he means.
-- 'That you are drunk all the time.' Adding that that Barinov is drunk all the time fills in the missing piece for Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Quite an actor even without you.' With the plan and test in play, Barinov keeps this short reply brisk and direct.
-- 'What happened in the evening?' With the kitchen and plan hanging in the air, Lyova puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not know anything.' Mentioning that he does not know anything moves the talk in a new direction. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I have plans.' Pointing out that he has plans gives Barinov a sobering reality check.
-- 'Chef, everything is ready.' Because everything is ready, Barinov treats the matter as settled.
+- 'What test are you talking about?' Barinov tests openly in the room, weaving "proverku" ("inspection") together with "kakuyu" ("what") just the way native speakers do.
+- 'What do you think?' Lyova quizzes sharply without a pause, joining "dumayesh" ("think") to "ty" ("you") so every word pulls its weight.
+- 'You signed the request form yourself.' Barinov establishes a resolute manner in this beat, anchoring the Russian line on "zayavleniye" ("statement") and "podpisali" ("to sign") without extra filler.
+- 'Was I drunk when I signed it?' Lyova questions sharply beside Max, combining "pyanyy" ("drunk") and "byl" ("was") so the key meaning lands right away.
+- 'Well, then it does not count.' Barinov chooses a frank note in the room, putting "togda" ("back then") alongside "schitayetsya" ("to be considered") in a tight, everyday turn of phrase.
+- 'You should have warned me beforehand.' Lyova chooses an unhurried position in the room, putting "preduprezhdat" ("to warn") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'It is not my fault.' Barinov strikes a grounded footing across the room, anchoring the Russian line on "vinovat" ("at fault, guilty") and "ya" ("I") without extra filler.
+- 'That you are drunk all the time.' Lyova projects a steady view without hesitation, linking "vremya" ("time"), "pyanyy" ("drunk"), and "chto" ("what") in one brisk exchange.
+- 'Quite an actor even without you.' Barinov adopts a steady view as the scene unfolds, anchoring the Russian line on "akter" ("actor") and "bez" ("without") without extra filler.
+- 'What happened in the evening?' Lyova tests lightly in the room, building the phrase around "vecherom" ("in the evening") and "byl" ("was") for a crisp, natural delivery.
+- 'I do not know anything.' Barinov chooses a grounded posture in their talk, joining "znayu" ("know") to "nichego" ("nothing") so every word pulls its weight.
+- 'I have plans.' Lyova conveys an earnest angle in this beat, building the phrase around "plany" ("plans") and "menya" ("me") for a crisp, natural delivery.
+- 'Chef, everything is ready.' Max sustains a clear tone toward Barinov, pairing "gotovo" ("ready") with "shef" ("Chef") to get the point across in plain spoken Russian.

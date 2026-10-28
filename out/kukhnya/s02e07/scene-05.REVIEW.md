@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Настя | Костик, не ругайся. | Kostik, please do not get angry. | #69: Костик, не ругайся | verbatim |
 | 6 | Родион | Просто он болеет. | He is just really sick. | #71: Просто он болеет | verbatim |
 | 7 | Костя | Там теплее, чем на улице. | It is much warmer in the stairwell than out on the street. | #72: Там теплее, чем на улице | verbatim |
-| 8 | Настя | Настя, так пусть он в подъезд идет. | Nastya, then let him stay out in the stairwell. | #72: Настя, так пусть он в подъезд идет | verbatim |
+| 8 | Родион | Настя, так пусть он в подъезд идет. | Nastya, then let him stay out in the stairwell. | #72: Настя, так пусть он в подъезд идет | verbatim |
 | 9 | Родион | Ему нельзя в подъезд. | He cannot stay in the stairwell. | #73: Ему нельзя в подъезд | verbatim |
 | 10 | Костя | Вы запретили домой приносить. | You forbade me to bring stray animals into the apartment. | #74: вы запретили домой приносить | verbatim |
 | 11 | Настя | А у меня, может, аллергия на эту... | What if I have an allergy to this... | #77: А у меня, может, аллергия на эту | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am coming out.' Being coming out is how Kostya lays out the situation for Nastya.
-- 'I nearly killed that guy back there.' Between the conversation and the apartment, Nastya gives Kostya a quick, grounded response.
-- 'Who is at the door?' By wondering who at the door is, Rodion presses Kostya for a straight answer.
-- 'It looks like I left my keys in my jacket pocket.' Explaining that it looks like he left his keys in his jacket pocket lays the cards on the table for Nastya.
-- 'Kostik, please do not get angry.' Nastya mentions that someone please do not get angry so Kostya sees what is at stake.
-- 'He is just really sick.' Realizing that he is just really sick changes how Rodion handles the situation.
-- 'It is much warmer in the stairwell than out on the street.' Pointing out that it is much warmer in the stairwell than out on the street gives Nastya a sobering reality check.
-- 'Nastya, then let him stay out in the stairwell.' Pointing out that Kostya should let him stay out in the stairwell gives Kostya a sobering reality check.
-- 'He cannot stay in the stairwell.' By refusing to stay in the stairwell, Rodion keeps his side of the story grounded.
-- 'You forbade me to bring stray animals into the apartment.' Over the work and the moment, Kostya answers Nastya without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'What if I have an allergy to this...' Even though what if she has an allergy to this, Nastya keeps a steady face in front of Kostya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Kostya? How could I not know?' Asking how she not know could cuts straight through the tension between Nastya and Kostya.
-- 'And you are about to throw a sick person out onto the street.' Saying that Nastya is about to throw a sick person out onto the street is how Kostya sets the tone with Nastya. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'I am coming out.' Kostya keeps a serious view toward Nastya, putting "vykhozhu" ("get out, go out") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'I nearly killed that guy back there.' Nastya shares a sharp angle for Rodion, joining "chut" ("almost, nearly") to "ubil" ("killed") so every word pulls its weight.
+- 'Who is at the door?' Rodion queries evenly in front of Kostya, placing "tam" ("there") straight beside "kto" ("who") with no word for "to be" needed.
+- 'It looks like I left my keys in my jacket pocket.' Kostya sustains a pointed mood at once, weaving "pokhodu" ("apparently") together with "klyuchi" ("the keys") just the way native speakers do.
+- 'Kostik, please do not get angry.' Nastya picks a playful mood in their talk, weaving "rugaysya" ("to quarrel") together with "kostik" ("Kostik") just the way native speakers do.
+- 'He is just really sick.' Rodion keeps a lively footing toward Nastya, leaning on "prosto" ("just") before closing the thought with "boleyet" ("is ill").
+- 'It is much warmer in the stairwell than out on the street.' Kostya sets a clear posture for Nastya, combining "tam" ("there") and "tepleye" ("warm") so the key meaning lands right away.
+- 'Nastya, then let him stay out in the stairwell.' Rodion offers a sharp mood on the spot, leaning on "podyezd" ("entrance, doorway") before closing the thought with "idet" ("go, walk").
+- 'He cannot stay in the stairwell.' Rodion chooses a sharp view across the room, anchoring the Russian line on "nelzya" ("not allowed") and "podyezd" ("entrance, doorway") without extra filler.
+- 'You forbade me to bring stray animals into the apartment.' Kostya offers a playful course in their talk, building the phrase around "zapretili" ("to forbid, to ban") and "domoy" ("home") for a crisp, natural delivery.
+- 'What if I have an allergy to this...' Nastya maintains a wry angle across the room, anchoring the Russian line on "mozhet" ("can") and "allergiya" ("an allergy") without extra filler.
+- 'Kostya? How could I not know?' Nastya presses earnestly during the talk, weaving "znala" ("knew") together with "kostya" ("Kostya") just the way native speakers do.
+- 'And you are about to throw a sick person out onto the street.' Kostya conveys a steady manner beside Nastya, leaning on "sobirayeshsya" ("plan") before closing the thought with "vygnat" ("to kick out").

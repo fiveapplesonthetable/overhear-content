@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, is that you?' Checking whether that Fedya is how Senya puts Fedya on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'It is a brand-new movie.' Fedya mentions that it is a brand new movie so Senya sees what is at stake.
-- 'I need it for a role.' Mentioning that he needs it for a role moves the talk in a new direction.
-- 'That is what I thought.' Pointing out that that is what she thought gives Fedya a sobering reality check.
-- 'What kind of movie is it?' Asking whether what kind of movie is it puts Fedya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I did not understand a single thing.' Realizing that he did not understand a single thing changes how Fedya handles the situation.
-- 'Nothing whatsoever.' Over the situation and the work, Senya answers Fedya without a second thought.
-- 'This is not our usual trash.' Even though this is not their usual trash, Fedya keeps a steady face in front of Senya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Picture a waterfall.' Between the situation and the work, Senya gives Fedya a quick, grounded response.
-- 'Carlos is lying on the edge of a raft.' Saying that Carlos is lying on the edge of a raft is how Fedya sets the tone with Senya.
-- 'Yes, Carlos.' With the situation and truth in play, Senya keeps this short reply brisk and direct.
-- 'A cold wind blowing from the shore.' Over the situation and the truth, Fedya answers Senya without a second thought.
-- 'Which a human hand will never touch again.' Senya tells Fedya that which a human hand will never touch again without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'Oh, is that you?' Senya inquires earnestly to Fedya here, building the phrase around "oy" ("oh") and "eto" ("this") for a crisp, natural delivery.
+- 'It is a brand-new movie.' Fedya maintains a sharp footing with Vika, combining "kino" ("cinema, movies") and "novoye" ("new") so the key meaning lands right away.
+- 'I need it for a role.' Senya takes a grounded stance in this beat, linking "roli" ("role, part"), "nuzhnoye" ("needed"), and "dlya" ("for") in one brisk exchange.
+- 'That is what I thought.' Vika chooses a firm position in their talk, pairing "podumala" ("thought") with "ya" ("I") to get the point across in plain spoken Russian.
+- 'What kind of movie is it?' Senya probes earnestly on the spot, combining "film" ("movie") and "chto" ("what") so the key meaning lands right away.
+- 'I did not understand a single thing.' Fedya sustains a warm stance as the scene unfolds, linking "ponyal" ("understood"), "nichego" ("nothing"), and "ne" ("not") in one brisk exchange.
+- 'Nothing whatsoever.' Senya offers a clear view across the room, combining the conversational booster "voobshche" ("in general, overall") with "nichego" ("nothing") to give the line its natural spoken rhythm.
+- 'This is not our usual trash.' Fedya sets a calm manner without hesitation, building the phrase around "barakhlo" ("junk, stuff") and "eto" ("this") for a crisp, natural delivery.
+- 'Picture a waterfall.' Senya chooses a steady bearing as they talk, building the phrase around "predstav" ("imagine") and "vodopad" ("waterfall") for a crisp, natural delivery.
+- 'Carlos is lying on the edge of a raft.' Fedya chooses a wry approach toward Vika, pairing "lezhit" ("is lying") with "krayu" ("the side, the edge") to get the point across in plain spoken Russian.
+- 'Yes, Carlos.' Senya shows a pointed stance at once, putting "da" ("yes") alongside "karlos" ("Carlos") in a tight, everyday turn of phrase.
+- 'A cold wind blowing from the shore.' Fedya takes an emphatic course across the room, linking "kholodnyy" ("cold"), "veter" ("wind"), and "berega" ("shore, bank") in one brisk exchange.
+- 'Which a human hand will never touch again.' Senya sets a thoughtful manner toward Fedya, anchoring the Russian line on "uzhe" ("already, now") and "nikogda" ("never") without extra filler.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already gave an injection, the pressure dropped.' The doctor explains that he already gave an injection the pressure dropped, keeping his voice calm and direct.
-- 'Now she needs rest and positive emotions.' Realizing that she needs rest and positive emotions changes how the doctor handles the situation.
-- 'Elechka, my dear, how are you feeling?' Asking whether someone his dear how are the doctor feeling puts the doctor right on the defensive.
-- 'This Frenchman is a real Michelin inspector!' Because this Frenchman is a real Michelin inspector, Barinov does not bother softening the blow for the doctor. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Our patient is making a sudden recovery.' Admitting that their patient is making a sudden recovery shows the doctor being honest for a change. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Look how badly mom frightened us!' With the work and doctor at stake, Barinov reacts without holding back.
-- 'I wanted to throw a farewell banquet today.' Once he wanted to throw a farewell banquet today, Barinov can finally tell the doctor what he means.
-- 'What banquet, I am not flying anywhere!' Katya insists that what banquet she is not flying anywhere, leaving Barinov no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I will stay until mom recovers.' Saying that she will stay until recovers is how Katya sets the tone with Barinov.
-- 'Just fly calmly to your Paris!' With the point and inspector at stake, Barinov reacts without holding back. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do not worry about mom, she is strong.' Mentioning that do not worry about she is strong moves the talk in a new direction.
-- 'Especially since I will always be nearby.' Barinov reminds the doctor that especially since he will always be nearby before the moment passes.
+- 'I already gave an injection, the pressure dropped.' The doctor establishes a grounded view beside Barinov, weaving "uzhe" ("already, now") together with "sdelal" ("did") just the way native speakers do.
+- 'Now she needs rest and positive emotions.' The doctor displays a lively bearing straight away, anchoring the Russian line on "teper" ("now") and "nuzhen" ("is needed") without extra filler.
+- 'Elechka, my dear, how are you feeling?' Barinov probes honestly to keep things clear, building the phrase around "dorogaya" ("expensive") and "kak" ("how") for a crisp, natural delivery.
+- 'This Frenchman is a real Michelin inspector!' Barinov strikes a frank direction in front of Katya, leaning on "frantsuz" ("Frenchman") before closing the thought with "nastoyashchiy" ("real, genuine").
+- 'Our patient is making a sudden recovery.' The doctor brings a brisk angle on the spot, putting "bolnaya" ("sick, ill") alongside "rezko" ("sharply, abruptly") in a tight, everyday turn of phrase.
+- 'Look how badly mom frightened us!' Barinov favors a thoughtful rhythm at once, putting "kak" ("how") alongside "napugala" ("to scare, to frighten") in a tight, everyday turn of phrase.
+- 'I wanted to throw a farewell banquet today.' Barinov presents a frank note in this beat, leaning on "khotel" ("wanted") before closing the thought with "segodnya" ("today").
+- 'What banquet, I am not flying anywhere!' Katya conveys a candid course with the doctor, leaning on "banket" ("banquet") before closing the thought with "nikuda" ("nowhere, anywhere").
+- 'I will stay until mom recovers.' Katya favors an earnest position for Barinov, weaving "ostanus" ("stay") together with "poka" ("bye") just the way native speakers do.
+- 'Just fly calmly to your Paris!' Barinov shows a grounded posture in the scene, using "leti" (from "letet", "to fly, to race along") alongside "spokoyno" ("calmly") to shape the meaning.
+- 'Do not worry about mom, she is strong.' Barinov offers a playful note without hesitation, joining "dumay" ("think") to "mamu" ("mother, mum") so every word pulls its weight.
+- 'Especially since I will always be nearby.' Barinov presents a warm position beside Katya, leaning on "boleye" ("more") before closing the thought with "vsegda" ("always").

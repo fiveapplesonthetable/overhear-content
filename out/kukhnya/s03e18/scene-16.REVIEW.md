@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is going on in the kitchen here?' By asking what going on in the kitchen here is, Vika presses Barinov for a straight answer.
-- 'Chef is burning the new menu on the stove here.' Once Chef is burning the new menu on the stove here, Max can finally tell Barinov what he means.
-- 'Nothing special is happening, we are burning your menu!' Declaring that nothing special is happening they are burning Max's menu brings Barinov's temper right to the surface. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Vitya, you are drunk, stop this circus immediately!' Vika insists that Barinov is drunk stop this circus immediately, leaving Barinov no room to argue.
-- 'No way, right now we will put the fire in the center.' Since way right now they will put the fire in the center, Barinov does not waste words on excuses.
-- 'And we will merrily jump over this bonfire!' Barinov declares that they will merrily jump over this bonfire as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'If you do not stop right now, I will fine you.' Vika reminds Barinov that if Barinov does not stop right now she will fine Barinov before the moment passes.
-- 'Nothing of the sort will work out for you!' Insisting that nothing of the sort will work out for Max shows Barinov is not backing down. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Because I am quitting on my own right now!' Once because he is quitting on his own right now, Barinov makes sure Max hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vika, do not worry, he is just drunk.' Max mentions that do not worry he is just drunk so Barinov sees what is at stake.
-- 'Max, stop constantly defending him in front of me!' By telling Barinov to stop constantly defending him in front, Vika raises the stakes in the room at once. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'I am not defending him, I just do not want you to get upset.' By being not defending him he just does not want Barinov to get upset, Max keeps his side of the story grounded. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'What is going on in the kitchen here?' Vika inquires earnestly on the spot, leaning on "tut" ("here") before closing the thought with "proiskhodit" ("is going on").
+- 'Chef is burning the new menu on the stove here.' Max chooses an easygoing bearing for Vika, pairing "tut" ("here") with "plite" ("stove") to get the point across in plain spoken Russian.
+- 'Nothing special is happening, we are burning your menu!' Barinov brings a pointed position as they talk, weaving "osobennogo" ("special, particular") together with "proiskhodit" ("is going on") just the way native speakers do.
+- 'Vitya, you are drunk, stop this circus immediately!' Vika shows a direct approach at this moment, leaning on "pyanyy" ("drunk") before closing the thought with "nemedlenno" ("immediately").
+- 'No way, right now we will put the fire in the center.' Barinov maintains a frank angle in the conversation, anchoring the Russian line on "seychas" ("now") and "postavim" ("will put on") without extra filler.
+- 'And we will merrily jump over this bonfire!' Barinov brings a brisk angle as they talk, anchoring the Russian line on "budem" ("will") and "veselo" ("merrily") without extra filler.
+- 'If you do not stop right now, I will fine you.' Vika sustains a measured bearing with Barinov, building the phrase around "seychas" ("now") and "perestanesh" ("you stop") for a crisp, natural delivery.
+- 'Nothing of the sort will work out for you!' Barinov conveys a direct manner with Vika, putting "poluchitsya" ("will come out") alongside "nichego" ("nothing") in a tight, everyday turn of phrase.
+- 'Because I am quitting on my own right now!' Barinov shares a natural tack during the exchange, pairing "potomu" ("because") with "pryamo" ("right, just") to get the point across in plain spoken Russian.
+- 'Vika, do not worry, he is just drunk.' Max presents a clear manner right away, using "volnuysya" (from "volnovatsya", "worry") alongside "prosto" ("just") to shape the meaning.
+- 'Max, stop constantly defending him in front of me!' Vika holds an earnest stance on the spot, weaving "khvatit" ("enough") together with "postoyanno" ("constantly") just the way native speakers do.
+- 'I am not defending him, I just do not want you to get upset.' Max adopts a clear course across the room, joining "zashchishchayu" ("to defend, protect") to "prosto" ("just") so every word pulls its weight.

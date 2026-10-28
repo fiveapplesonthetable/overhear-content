@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please get acquainted.' Explaining that Denis should get acquainted lays the cards on the table for Denis.
-- 'Denis, this is my mom.' With the plan and shock in play, Katya keeps this short reply brisk and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Mom, this is my boyfriend Denis.' Since Mom this is her boyfriend Denis, Katya does not waste words on excuses. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Very nice to meet you.' With the office and shock in play, Eleonora keeps this short reply brisk and direct.
-- 'Do not be afraid, Mom does not bite.' Explaining that do not be afraid Mom does not bite lays the cards on the table for Denis.
-- 'Yes, I already know that.' Because he already knows, Denis treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Denis, and what do you do for a living?' By wondering what Denis does for a living, Eleonora presses Denis for a straight answer.
-- 'I work right here for you.' Since he works right here for Eleonora, Denis does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I work as a cook in the kitchen.' Saying that he works as a cook in the kitchen is how Denis sets the tone with Eleonora.
-- 'Very good, and closer to Katya.' Over the office and the moment, Eleonora answers Denis without a second thought.
-- 'You are under my roof now.' Eleonora explains that Denis is under her roof now, keeping her voice calm and direct. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'So we will see each other often.' Realizing that they will see each other often changes how Eleonora handles the situation.
-- 'Excuse me, I need to go.' Explaining that he needs to go lays the cards on the table for Eleonora.
+- 'Please get acquainted.' Katya takes a direct attitude in the scene, joining "oznakomtes" ("familiarize yourself") to "pozhaluysta" ("please") so every word pulls its weight.
+- 'Denis, this is my mom.' Katya conveys a firm style at this moment, pairing "mama" ("mum, mother") with "denis" ("Denis") to get the point across in plain spoken Russian.
+- 'Mom, this is my boyfriend Denis.' Katya strikes a frank position in the room, pairing "mama" ("mum, mother") with "paren" ("boyfriend") to get the point across in plain spoken Russian.
+- 'Very nice to meet you.' Eleonora displays a calm angle as the scene unfolds, linking "ochen" ("very much"), "priyatno" ("pleasant"), and "mne" ("to me") in one brisk exchange.
+- 'Do not be afraid, Mom does not bite.' Katya takes a grounded course in the scene, building the phrase around "boysya" ("be afraid") and "mama" ("mum, mother") for a crisp, natural delivery.
+- 'Yes, I already know that.' Denis keeps an emphatic view in the room, combining "uzhe" ("already, now") and "znayu" ("know") so the key meaning lands right away.
+- 'Denis, and what do you do for a living?' Eleonora probes decisively without holding back, joining "zanimayetes" ("are busy with") to "denis" ("Denis") so every word pulls its weight.
+- 'I work right here for you.' Denis establishes a measured view in this beat, anchoring the Russian line on "zdes" ("here") and "rabotayu" ("work") without extra filler.
+- 'I work as a cook in the kitchen.' Denis maintains a firm course without hesitation, putting "rabotayu" ("work") alongside "povarom" ("as a cook") in a tight, everyday turn of phrase.
+- 'Very good, and closer to Katya.' Eleonora sets a grounded angle across the room, pairing "ochen" ("very much") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
+- 'You are under my roof now.' Eleonora displays a clear mood at once, linking "teper" ("now"), "kryshey" ("roof"), and "vy" ("you") in one brisk exchange.
+- 'So we will see each other often.' Eleonora offers a wry rhythm as they talk, linking "znachit" ("then, so"), "budete" ("will be"), and "chasto" ("often") in one brisk exchange.
+- 'Excuse me, I need to go.' Denis picks a pointed view at once, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "nuzhno" ("necessary") without extra filler.

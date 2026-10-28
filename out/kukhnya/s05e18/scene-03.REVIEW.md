@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, tell us how everything went.' Mentioning that Lyova should tell them how everything went moves the talk in a new direction.
-- 'I walked up, and we chatted a little.' Pointing out that he walked up and they chatted a little gives Fedya a sobering reality check.
-- 'You never actually spoke to her, did you?' Questioning whether Lyova never actually spoke to her did Lyova is how Fedya tests Lyova's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Lyova, you need to act faster.' Realizing that Lyova needs to act faster changes how Fedya handles the situation. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'At least now I know what she likes.' Noting that at least now he knows what she likes keeps Lyova's side of the story simple and clear.
-- 'Gulya really adores our pastries.' Between the hospital and the conversation, Lyova gives Fedya a quick, grounded response.
-- 'This is my present for her.' Admitting that this is his present shows Lyova being honest for a change. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Friends, welcome the happy new father!' Over the plan and the gift, Max lets his real feelings show.
-- 'Tomorrow morning my girls are being discharged from the hospital.' Once tomorrow morning his girls are being discharged from the hospital, Max can finally tell Fedya what he means.
-- 'So I invite everyone to the discharge!' Declaring that he invites everyone to the discharge brings Max's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Oguzok, this is for you from the whole team.' Saying that Oguzok this is for Lyova from the whole team is how Fedya sets the tone with Lyova.
-- 'Thank you so much, guys!' Around the plan and hospital, Max makes his point loud and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Well, tell us how everything went.' Fedya presents a pointed tack without hesitation, weaving "kak" ("how") together with "proshlo" ("have passed") just the way native speakers do.
+- 'I walked up, and we chatted a little.' Lyova maintains a measured footing in the conversation, putting "podoshyol" ("to come up") alongside "poboltali" ("chatted") in a tight, everyday turn of phrase.
+- 'You never actually spoke to her, did you?' Fedya inquires sharply for Lyova's benefit, weaving "zagovoril" ("started talking") together with "ty" ("you") just the way native speakers do.
+- 'Lyova, you need to act faster.' Fedya displays a pointed mood in front of Max, anchoring the Russian line on "nado" ("it is necessary") and "deystvovat" ("to act, take action") without extra filler.
+- 'At least now I know what she likes.' Lyova establishes a warm manner at this moment, combining "teper" ("now") and "znayu" ("know") so the key meaning lands right away.
+- 'Gulya really adores our pastries.' Lyova maintains a pointed tack in the conversation, anchoring the Russian line on "ochen" ("very much") and "obozhayet" ("adores, loves") without extra filler.
+- 'This is my present for her.' Lyova strikes an honest posture across the room, linking "podarok" ("gift, voucher"), "eto" ("this"), and "moy" ("my") in one brisk exchange.
+- 'Friends, welcome the happy new father!' Max projects a clear attitude in their talk, linking "druzya" ("friends"), "vstrechayte" ("to meet, to welcome"), and "schastlivogo" ("happy") in one brisk exchange.
+- 'Tomorrow morning my girls are being discharged from the hospital.' Max takes a measured mood in the conversation, joining "zavtra" ("tomorrow") to "utrom" ("this morning") so every word pulls its weight.
+- 'So I invite everyone to the discharge!' Max offers an unhurried stance at this moment, joining "poetomu" ("that's why") to "priglashayu" ("invite") so every word pulls its weight.
+- 'Oguzok, this is for you from the whole team.' Fedya favors an unhurried posture with Lyova, putting "kollektiva" ("collective") alongside "oguzok" ("Rump") in a tight, everyday turn of phrase.
+- 'Thank you so much, guys!' Max shows a frank rhythm in their talk, joining "spasibo" ("thank you") to "ogromnoye" ("huge, so very much") so every word pulls its weight.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Lena, I have already arranged everything!' Saying that someone he has already arranged everything is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Tomorrow morning the three of us will be by the registry office.' Barinov reminds Elena that tomorrow morning the three of them will be by the registry office before the moment passes.
-- 'First we quickly divorce you two, and then we marry us!' Over the truth and the party, Barinov lets his real feelings show. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Vitya, and how did you manage to persuade him?' Here wondering how Barinov manages to persuade him shows Elena looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You know me, I can persuade anyone!' Once him he can persuade anyone, Barinov makes sure Elena hears every word.
-- 'Alright, agreed, and what is that noise over there?' Wondering if Alright agreed and what is that noise over there shows Elena caught off guard. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'The guys just threw a small celebration for me here.' Pointing out that the guys just threw a small celebration for him here gives Elena a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Do not worry, I am not going to drink today!' Because do not worry he is not going to drink today, Barinov does not bother softening the blow for Elena.
-- 'My friend, tomorrow morning I am finally getting married!' Elena declares that her friend tomorrow morning she is finally getting married as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'What is the meaning of this? All the guests are complaining about you!' Asking what the meaning of this is cuts straight through the tension between Mikhail and Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Stop grumbling, Misha, my wedding is tomorrow morning!' By telling Elena to stop grumbling Misha his wedding is tomorrow morning, Barinov raises the stakes in the room at once.
-- 'Sit down at the table with us, let's have a drink instead!' By sitting down at the table with them let them have a drink instead, Barinov raises the stakes in the room at once. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Hello, Lena, I have already arranged everything!' Barinov holds a wry position straight away, building the phrase around "uzhe" ("already, now") and "dogovorilsya" ("made a deal") for a crisp, natural delivery.
+- 'Tomorrow morning the three of us will be by the registry office.' Barinov keeps a candid angle as the scene unfolds, anchoring the Russian line on "zavtra" ("tomorrow") and "utrom" ("this morning") without extra filler.
+- 'First we quickly divorce you two, and then we marry us!' Barinov chooses a brisk manner for Elena, leaning on "snachala" ("first, at first") before closing the thought with "bystro" ("quickly").
+- 'Vitya, and how did you manage to persuade him?' Elena challenges calmly beside Mikhail, anchoring the Russian line on "kak" ("how") and "udalos" ("succeeded") without extra filler.
+- 'You know me, I can persuade anyone!' Barinov strikes a steady tack at this moment, linking "znayesh" ("know"), "lyubogo" ("any"), and "cheloveka" ("a man, a person") in one brisk exchange.
+- 'Alright, agreed, and what is that noise over there?' Elena presses calmly in front of Mikhail, combining "u tebya" (literally "by you") with "khorosho" ("good, fine") rather than a separate word for "have".
+- 'The guys just threw a small celebration for me here.' Barinov favors an earnest approach across the room, leaning on "rebyata" ("the boys, the lads") before closing the thought with "tut" ("here").
+- 'Do not worry, I am not going to drink today!' Barinov holds a candid posture for Mikhail, combining "volnuysya" ("worry") and "segodnya" ("today") so the key meaning lands right away.
+- 'My friend, tomorrow morning I am finally getting married!' Elena sets a resolute manner at this moment, pairing "podruga" ("female friend") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
+- 'What is the meaning of this? All the guests are complaining about you!' Mikhail quizzes naturally to Elena here, putting "kak" ("how") alongside "ponimat" ("understand") in a tight, everyday turn of phrase.
+- 'Stop grumbling, Misha, my wedding is tomorrow morning!' Barinov sustains a calm approach in the room, joining "khvatit" ("enough") to "vorchat" ("grumble") so every word pulls its weight.
+- 'Sit down at the table with us, let's have a drink instead!' Barinov establishes a candid posture without hesitation, combining "sadis" ("sit down") and "stolu" ("table") so the key meaning lands right away.

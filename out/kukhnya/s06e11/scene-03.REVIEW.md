@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you laughing at, everyone get to work quickly!' Barinov declares that what are Fedya laughing at everyone get to work quickly as the tension in the room peaks. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Why are you shouting so loudly in here?' Wondering why Barinov shouting so loudly in here is cuts straight through the tension between the guest and Barinov.
-- 'Valya, did you really come here?' Asking whether Fedya really come here is how Barinov puts Fedya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well hello, brother, how long has it been since we saw each other!' Once brother how long has it been since they saw each other, the guest makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What are you even doing here in Moscow?' By wondering what Fedya even doing here in Moscow is, Barinov presses Fedya for a straight answer.
-- 'If you picked up the phone when your brother calls.' Noting that if Barinov picked up the phone when Barinov's brother calls keeps the guest's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Then you would not be asking about this right now.' Even though Barinov would not be asking about this right now, the guest keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And why do you call our chef Zyuzya?' Here wondering why Barinov calls shows Fedya looking for the real truth.
-- 'This funny story started back in school.' Saying that this funny story started back in school is how the guest sets the tone with Barinov.
-- 'Valya, be quiet, do not tell them anything!' Insisting that be quiet do not tell them anything shows Barinov is not backing down. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'In history class they ask him what the prince's name was.' Adding that in history class they ask him what the prince name was fills in the missing piece for Barinov.
-- 'At least in school I went to physics olympiads!' Declaring that at least in school he went to physics olympiads brings Barinov's temper right to the surface. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'Someone whispered Zyuzya to him, and Vitya answered just like that!' Around the suit and truth, the guest makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'What are you laughing at, everyone get to work quickly!' Barinov presents a warm bearing on the spot, combining "smeyotes" ("are laughing") and "bystro" ("quickly") so the key meaning lands right away.
+- 'Why are you shouting so loudly in here?' The guest checks promptly as the talk turns, weaving "tut" ("here") together with "gromko" ("on speaker") just the way native speakers do.
+- 'Valya, did you really come here?' Barinov prompts steadily in the room, pairing "pravda" ("honestly") with "priyekhal" ("came") to get the point across in plain spoken Russian.
+- 'Well hello, brother, how long has it been since we saw each other!' The guest strikes an emphatic approach for Fedya, leaning on "brat" ("brother") before closing the thought with "skolko" ("how much, so much").
+- 'What are you even doing here in Moscow?' Barinov tests sharply as the beat lands, weaving "zdes" ("here") together with "voobshche" ("at all") just the way native speakers do.
+- 'If you picked up the phone when your brother calls.' The guest sustains a measured attitude across the room, building the phrase around "bral" ("took") and "trubku" ("the receiver") for a crisp, natural delivery.
+- 'Then you would not be asking about this right now.' The guest brings a brisk angle during the exchange, combining "togda" ("back then") and "seychas" ("now") so the key meaning lands right away.
+- 'And why do you call our chef Zyuzya?' Fedya checks candidly beside the guest, linking "pochemu" ("why"), "nazyvayete" ("to call, to name"), and "shefa" ("chef") in one brisk exchange.
+- 'This funny story started back in school.' The guest maintains a natural line as the scene unfolds, leaning on "smeshnaya" ("funny, ridiculous") before closing the thought with "istoriya" ("history").
+- 'Valya, be quiet, do not tell them anything!' Barinov shows a resolute stance in front of the guest, doubling the negative with "ne" ("not") and "zamolchi" ("to fall silent"), which is standard and required in Russian.
+- 'In history class they ask him what the prince's name was.' The guest displays a lively angle straight away, pairing "uroke" ("lesson") with "istorii" ("stories") to get the point across in plain spoken Russian.
+- 'At least in school I went to physics olympiads!' Barinov presents a direct line on the spot, linking "shkole" ("school"), "olimpiady" ("olympiads"), and "fizike" ("in physics") in one brisk exchange.
+- 'Someone whispered Zyuzya to him, and Vitya answered just like that!' The guest adopts a natural footing in their talk, leaning on "shepnul" ("whispered") before closing the thought with "otvetil" ("answered").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom and Dad, I want to drink a toast to you.' Katya explains that Mom and dad she wants to drink a toast to Barinov, keeping her voice calm and direct. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Thanks to Dad, who organized all of this.' With the shift and banquet in play, Katya keeps this short reply brisk and direct.
-- 'Friends, excuse me for being a little late.' Over the shift and the banquet, Barinov answers Eleonora without a second thought.
-- 'No big deal, the main thing is that you are here.' Even though big deal the main thing is that Barinov is here, Katya keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Friends, I also have a toast.' Admitting that he also has a toast shows Barinov being honest for a change.
-- 'Our dear guest has not tried my cake.' Saying that their dear guest has not tried his cake is how Barinov sets the tone with Eleonora.
-- 'But tonight I am going to fix that!' Because tonight he is going to fix, Barinov does not bother softening the blow for Eleonora. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is for you for deceiving my daughter!' Insisting that this is for Eleonora for deceiving his daughter shows Barinov is not backing down.
-- 'Dad, explain quickly, what is going on here?' Wondering if dad explain quickly what is going on here shows Katya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'He is fooling around upstairs with other girls!' Declaring that he is fooling around upstairs with other girls brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And at the same time he is stringing our daughter along!' Barinov insists that at the same time he is stringing their daughter along, leaving Eleonora no room to argue.
-- 'Why did you cause this loud scandal?' Wondering why Barinov cause this loud scandal cuts straight through the tension between Eleonora and Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Mom and Dad, I want to drink a toast to you.' Katya strikes a serious stance straight away, anchoring the Russian line on "mama" ("mum, mother") and "papa" ("Dad") without extra filler.
+- 'Thanks to Dad, who organized all of this.' Katya favors a lively line toward Eleonora, combining "spasibo" ("thank you") and "pape" ("to Dad") so the key meaning lands right away.
+- 'Friends, excuse me for being a little late.' Barinov presents a playful manner on the spot, combining "druzya" ("friends") and "izvinite" ("sorry, excuse me") so the key meaning lands right away.
+- 'No big deal, the main thing is that you are here.' Katya chooses an honest posture in front of Eleonora, combining "strashnogo" ("terrible, serious") and "glavnoye" ("important") so the key meaning lands right away.
+- 'Friends, I also have a toast.' Barinov sustains a measured tone straight away, building the phrase around "druzya" ("friends") and "tozhe" ("too") for a crisp, natural delivery.
+- 'Our dear guest has not tried my cake.' Barinov adopts a wry position straight away, pairing "dorogoy" ("dear") with "gost" ("guest") to get the point across in plain spoken Russian.
+- 'But tonight I am going to fix that!' Barinov chooses a playful tone in their talk, leaning on "segodnya" ("today") before closing the thought with "vecherom" ("in the evening").
+- 'This is for you for deceiving my daughter!' Barinov presents a warm tone in the conversation, anchoring the Russian line on "obmanyval" ("cheated, deceived") and "doch" ("daughter") without extra filler.
+- 'Dad, explain quickly, what is going on here?' Katya probes lightly without holding back, linking "papa" ("Dad"), "obyasni" ("explain"), and "skoreye" ("quickly, right away") in one brisk exchange.
+- 'He is fooling around upstairs with other girls!' Barinov establishes a direct tone as the scene unfolds, anchoring the Russian line on "tam" ("there") and "naverkhu" ("upstairs") without extra filler.
+- 'And at the same time he is stringing our daughter along!' Barinov projects a firm style in the scene, leaning on "odnovremenno" ("simultaneously") before closing the thought with "morochit" ("tricks, strings along").
+- 'Why did you cause this loud scandal?' Eleonora presses firmly toward Katya here, leaning on "zachem" ("what for") before closing the thought with "ustroil" ("caused").

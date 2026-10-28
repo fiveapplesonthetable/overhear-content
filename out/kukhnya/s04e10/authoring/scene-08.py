@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e10.ru.srt'
 INTRO = "Back in the real kitchen, Fedya bursts out laughing at Senya's action-movie daydream, and when Senya asks what Fedya watches, we jump straight into Fedya's romantic pizza-delivery fantasy."
 OPENER = "Let's examine each line as Fedya teases Senya and starts his own daydream."
 TRANSITION = "Now let's hear the whole scene again at natural speed."
-OUTRO = "Notice how Russian uses the present tense in 'first time I see' where English requires the present perfect 'first time I have seen'. See you next time!"
+OUTRO = "Notice how Russian uses the present form in 'first time I see' where English requires the present perfect 'first time I have seen'. See you next time!"
 CLOSING = ('vika', 'Всего хорошего!')
 STORY = [
     ('fedya', 'Ну ладно, герой ты наш.', 'All right then, you hero of ours.', [(80, 'Ну, ладно')], 'adapted for A1 clarity'),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Проходи скорее к нам.', 'Come on in to us quickly.', [(87, 'сегодня санитарный день')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, '\'All right then, you hero of ours.\' Around the kitchen and moment, Fedya sets a calm, everyday tone with Senya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (1, None, '\'Why did you run away yesterday then?\' Asking why Senya runs away yesterday then cuts straight through the tension between Fedya and Senya. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (2, None, "'Well, I simply do not hit children.' Mentioning that he simply does not hit children moves the talk in a new direction."),
-    (3, None, '\'What kind of movies do you watch yourself?\' Asking whether what kind of movies do Fedya watches themselves puts Fedya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (4, None, "'I only watch romantic movies.' Because he only watches romantic movies, Fedya treats the matter as settled."),
-    (5, None, "'Hi there, beautiful girls!' With the situation and point at stake, Fedya reacts without holding back."),
-    (6, None, '\'Did someone order a pizza to a restaurant?\' Asking whether someone order a pizza to a restaurant is how Fedya puts Senya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (7, None, "'This is the first time I have seen that.' Claiming that this is the first time he has seen sounds confident, even if Senya has doubts."),
-    (8, None, "'We have a sanitary cleaning day today.' Pointing out that they have a sanitary cleaning day today gives Fedya a sobering reality check."),
-    (9, None, "'We really felt like having something hot.' Vika explains that they really felt like having something hot, keeping her voice calm and direct."),
-    (10, None, '\'It is somehow very hot in here at your place.\' Realizing that it is somehow very hot in here at Senya\'s place changes how Fedya handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (11, None, "'Come on in to us quickly.' Once Fedya should come on in to them quickly, Vika can finally tell Fedya what she means."),
+    (0, None, '\'All right then, you hero of ours.\' Fedya adopts a candid angle straight away, combining the easygoing tag "ladno" ("okay, fine") with "geroy" ("hero") to give the line its natural spoken rhythm.'),
+    (1, None, '\'Why did you run away yesterday then?\' Fedya queries promptly in this moment, leaning on "pochemu" ("why") before closing the thought with "vchera" ("yesterday").'),
+    (2, None, '\'Well, I simply do not hit children.\' Senya keeps a sharp posture in their talk, linking "prosto" ("just"), "detey" ("children"), and "byu" ("to beat, to hit") in one brisk exchange.'),
+    (3, None, '\'What kind of movies do you watch yourself?\' Senya challenges boldly as they speak, linking "kino" ("cinema, movies"), "smotrish" ("are staring"), and "ty" ("you") in one brisk exchange.'),
+    (4, None, '\'I only watch romantic movies.\' Fedya presents an easygoing mood as they talk, leaning on "smotryu" ("look") before closing the thought with "tolko" ("only").'),
+    (5, None, '\'Hi there, beautiful girls!\' Fedya holds an unhurried bearing across the room, building the phrase around "krasivyye" ("beautiful") and "devushki" ("a girl") for a crisp, natural delivery.'),
+    (6, None, '\'Did someone order a pizza to a restaurant?\' Fedya wonders quietly with Senya now, pairing "restoran" ("restaurant") with "zakazali" ("ordered") to get the point across in plain spoken Russian.'),
+    (7, None, '\'This is the first time I have seen that.\' Fedya shows a sharp line as they talk, weaving "pervyy" ("first") together with "raz" ("time, once") just the way native speakers do.'),
+    (8, None, '\'We have a sanitary cleaning day today.\' Vika adopts a warm attitude in the room, combining "segodnya" ("today") and "sanitarnyy" ("sanitary, health") so the key meaning lands right away.'),
+    (9, None, '\'We really felt like having something hot.\' Vika presents an earnest tone in the conversation, pairing "zakhotelos" ("felt like having") with "goryachenkogo" ("having") so the "-sya" ending carries the action.'),
+    (10, None, '\'It is somehow very hot in here at your place.\' Fedya favors a firm course with Senya, linking "tut" ("here") directly with "ochen" ("very much"), since Russian drops "is" and "are" in the present.'),
+    (11, None, '\'Come on in to us quickly.\' Vika displays a grounded approach in this beat, pairing "prokhodi" ("come in") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.'),
 ]

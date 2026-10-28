@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, get this cat out of here quickly!' Getting this cat out of here quickly shows Katya is done holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Katya, where did a cat even come from here?' Here asking where a cat even come from here shows German looking for the real truth.
-- 'I myself know absolutely nothing!' Between the moment and the party, Katya delivers a sharp reaction. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What is going on over there with you right now?' Asking what going on over there with Denis right now is cuts straight through the tension between German and Denis. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Hurray, I finally caught this cat!' Denis insists that someone he finally caught this cat, leaving German no room to argue.
-- 'Wait, there is a phone number on the collar here.' Realizing that there is a phone number on the collar here changes how Denis handles the situation.
-- 'We can call and find out whose cat it is.' Noting that they can call and find out whose cat it is keeps Denis's side of the story simple and clear. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Thank you, Denis, let me call right now.' Since Denis should let him call right now, German does not waste words on excuses.
-- 'Wait, why is my cell phone ringing?' Asking why her cell phone ringing is is how Katya puts Denis on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'German Mikhailovich, this is some kind of cruel setup!' Once this is some kind of cruel setup, Katya makes sure Denis hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Honestly, this is not my cat!' Declaring that this is not her cat brings Katya's temper right to the surface.
-- 'I do not want to listen, you are fired!' Insisting that he does not want to listen Denis is fired shows German is not backing down. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Denis, get this cat out of here quickly!' Katya holds a calm approach for Denis, building the phrase around "uberi" ("take away, put away") and "koshku" ("cat") for a crisp, natural delivery.
+- 'Katya, where did a cat even come from here?' German prompts lightly beside Katya, combining the conversational booster "voobshche" ("in general, overall") with "otkuda" ("where from") to give the line its natural spoken rhythm.
+- 'I myself know absolutely nothing!' Katya establishes a measured tempo in the conversation, combining "sovershenno" ("quite, completely") and "znayu" ("know") so the key meaning lands right away.
+- 'What is going on over there with you right now?' German questions warmly with Katya now, putting "tam" ("there") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Hurray, I finally caught this cat!' Denis adopts an unhurried posture at once, pairing "nakonets" ("at last, finally") with "poymal" ("caught") so the "-sya" ending carries the action.
+- 'Wait, there is a phone number on the collar here.' Denis projects a measured stance right away, weaving "podozhdite" ("wait") together with "tut" ("here") just the way native speakers do.
+- 'We can call and find out whose cat it is.' Denis projects an unhurried tone in the conversation, combining "mozhno" ("may, can") and "pozvonit" ("to call") so the key meaning lands right away.
+- 'Thank you, Denis, let me call right now.' German displays a measured posture in this beat, leaning on "spasibo" ("thank you") before closing the thought with "davay" ("let's").
+- 'Wait, why is my cell phone ringing?' Katya tests evenly across the room, pairing "podozhdite" ("wait") with "pochemu" ("why") to get the point across in plain spoken Russian.
+- 'German Mikhailovich, this is some kind of cruel setup!' Katya brings an honest line in this beat, leaning on "zlaya" ("evil, angry") before closing the thought with "podstava" ("setup").
+- 'Honestly, this is not my cat!' Katya sustains a natural style during the exchange, putting "chestnoye" ("honest") alongside "slovo" ("word") in a tight, everyday turn of phrase.
+- 'I do not want to listen, you are fired!' German adopts a pointed tempo beside Katya, combining "khochu" ("want") and "slushat" ("to listen to") so the key meaning lands right away.

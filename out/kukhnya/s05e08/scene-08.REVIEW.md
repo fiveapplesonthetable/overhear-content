@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I brought the ice cream.' Admitting that she brought the ice cream shows Katya being honest for a change.
-- 'Well, try it.' Katya explains that Fedya should try it, keeping her voice calm and direct. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Thank you.' Saying that Fedya should thank Fedya is how Katya sets the tone with Fedya.
-- 'Come on, infidels, let us hurry along.' Since Fedya should come on infidels let them hurry along, Senya does not waste words on excuses. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Bring it over here faster!' Fedya declares that Katya should bring it over here faster as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Well, how did it go?' Here wondering how it go shows Senya looking for the real truth.
-- 'Did you see, she made a gesture!' Fedya insists that did Katya sees she made a gesture, leaving Katya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Like they gave her the ring!' By liking they gave her the ring, Senya raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'They are asking to repeat the ice cream for the room.' Because they are asking to repeat the ice cream for the room, Katya treats the matter as settled.
-- 'They are taking cognac ice cream again!' Because they are taking cognac ice cream again, Senya does not bother softening the blow for Fedya. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'They definitely want to take all the rings.' With the work and ring in play, Fedya keeps this short reply brisk and direct.
-- 'I will make one more portion right now.' Claiming that she will make one more portion right now sounds confident, even if Fedya has doubts.
+- 'I brought the ice cream.' Katya adopts a candid posture with Fedya, combining "prinesla" ("brought") and "morozhenoye" ("ice cream") so the key meaning lands right away.
+- 'Well, try it.' Katya establishes a serious footing in their talk, anchoring the Russian line on "poprobuyte" ("try, taste") and "nu" ("oh, come on") without extra filler.
+- 'Thank you.' Katya offers a frank position in the room, letting the single Russian word "spasibo" ("thank you") carry the entire reaction on its own.
+- 'Come on, infidels, let us hurry along.' Senya sustains a natural tempo at this moment, pairing "potoraplivayemsya" ("hurry along") with "davayte" ("let's") so the "-sya" ending carries the action.
+- 'Bring it over here faster!' Fedya offers an emphatic approach as they talk, building the phrase around "tashchi" ("drag, bring") and "syuda" ("here") for a crisp, natural delivery.
+- 'Well, how did it go?' Senya presses steadily to Katya here, putting "tam" ("there") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Did you see, she made a gesture!' Fedya strikes a calm tempo as the scene unfolds, weaving "vidal" ("saw, did you see") together with "zhest" ("gesture") just the way native speakers do.
+- 'Like they gave her the ring!' Senya displays a brisk style at this moment, putting "persten" ("signet, gem ring") alongside "dali" ("gave") in a tight, everyday turn of phrase.
+- 'They are asking to repeat the ice cream for the room.' Katya sustains a grounded posture in the scene, linking "prosyat" ("they're asking"), "povtorit" ("to repeat, another round"), and "morozhenoye" ("ice cream") in one brisk exchange.
+- 'They are taking cognac ice cream again!' Senya holds a thoughtful bearing at this moment, combining "opyat" ("again") and "nesut" ("are carrying") so the key meaning lands right away.
+- 'They definitely want to take all the rings.' Fedya maintains a thoughtful posture without hesitation, pairing "tochno" ("definitely") with "khotyat" ("want") to get the point across in plain spoken Russian.
+- 'I will make one more portion right now.' Katya offers a wry course during the exchange, weaving "seychas" ("now") together with "sdelayu" ("I'll do") just the way native speakers do.

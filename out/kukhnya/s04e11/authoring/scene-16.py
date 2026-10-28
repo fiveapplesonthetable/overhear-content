@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e11.ru.srt'
 INTRO = 'Still trapped in the apartment elevator hours later, Max loses his patience when a voice finally crackles over the intercom and decides to show Vika how a tough guy talks.'
 OPENER = "Let's go through each line of the intercom argument in the elevator."
 TRANSITION = "Now let's hear the whole elevator intercom scene again."
-OUTRO = "Notice how Russian says 'we want you to pull us out': because the subject changes, you must use 'chtoby' followed by the past-tense verb. See you next time!"
+OUTRO = "Notice how Russian says 'we want you to pull us out': because the subject changes, you must use 'chtoby' followed by the past-tense word. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('guest', 'Я слушаю, есть там кто?', 'I am listening, is anyone in there?', [(245, 'Я слушаю, есть там кто')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'А не пожалуйста, помогите нам.', "And not 'please help us'.", [(259, 'пожалуйста, помогите')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'I am listening, is anyone in there?' Here being listening is anyone in there shows the guest looking for the real truth."),
-    (1, None, '\'Listen, how long can we wait for you?\' Asking whether how long can they wait for the guest puts the guest right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (2, None, '\'Let me talk, you will ruin everything.\' Vika mentions that the guest should let her talk the guest will ruin everything so the guest sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (3, None, "'Hello, we have been stuck in here for a long time.' Adding that they have been stuck in here for a long time fills in the missing piece for the guest."),
-    (4, None, '\'We want you to pull us out.\' Here wanting the guest to pull them out sets up the next turn in their exchange. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
-    (5, None, '\'Actually, our shift has already ended.\' Since their shift has already ended, the guest does not waste words on excuses. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (6, None, "'Hold on, what do you mean your shift ended?' Asking whether hold on what do the guest means the guest's shift ended puts the guest right on the defensive."),
-    (7, None, '\'I have remembered your voice well!\' Max declares that he has remembered the guest\'s voice well as the tension in the room peaks. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, '\'I will get out right now and find you, got it?\' Questioning whether he will get out right now and find the guest got it is how Max tests the guest\'s story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (9, None, "'Did you just say that to me?' By asking whether Max just say that to him, the guest presses Max for a straight answer."),
-    (10, None, '\'Yes, to you, so open up quickly!\' With the point and apartment at stake, Max reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (11, None, "'That is how men solve problems.' Claiming that that is how men solve problems sounds confident, even if the guest has doubts."),
-    (12, None, "'And not 'please help us'.' Around the apartment and kitchen, Max sets a calm, everyday tone with the guest."),
+    (0, None, '\'I am listening, is anyone in there?\' The guest challenges wryly on the spot, using "slushayu" (from "slushat", "I\'m listening") alongside "yest" ("there is") to shape the meaning.'),
+    (1, None, '\'Listen, how long can we wait for you?\' Max wonders sharply to make the point, pairing "slushay" ("listen") with "skolko" ("how much, so much") to get the point across in plain spoken Russian.'),
+    (2, None, '\'Let me talk, you will ruin everything.\' Vika establishes a grounded posture at once, pairing "day" ("give") with "skazhu" ("I\'ll tell") to get the point across in plain spoken Russian.'),
+    (3, None, '\'Hello, we have been stuck in here for a long time.\' Vika shows a resolute footing as they talk, linking "zdravstvuyte" ("hello"), "tut" ("here"), and "davno" ("for a long time") in one brisk exchange.'),
+    (4, None, '\'We want you to pull us out.\' Vika picks a warm rhythm toward the guest, anchoring the Russian line on "khotim" ("want") and "vytashchili" ("to pull out") without extra filler.'),
+    (5, None, '\'Actually, our shift has already ended.\' The guest projects a pointed course beside Vika, leaning on "u nas" ("by us, at our place") and "voobshche-to" ("actually") the way natural Russian does.'),
+    (6, None, '\'Hold on, what do you mean your shift ended?\' Max quizzes naturally without holding back, leaning on "pogodi" ("wait") before closing the thought with "yeshchyo" ("more, still").'),
+    (7, None, '\'I have remembered your voice well!\' Max strikes a brisk tone in their talk, linking "golos" ("voice"), "khorosho" ("good, fine"), and "zapomnil" ("to remember") in one brisk exchange.'),
+    (8, None, '\'I will get out right now and find you, got it?\' Max questions naturally to keep things clear, joining "seychas" ("now") to "vyydu" ("I\'ll get out") so every word pulls its weight.'),
+    (9, None, '\'Did you just say that to me?\' The guest presses pointedly without holding back, combining "seychas" ("now") and "skazal" ("said") so the key meaning lands right away.'),
+    (10, None, '\'Yes, to you, so open up quickly!\' Max chooses a thoughtful line in this beat, combining "otkryvay" ("to open") and "bystro" ("quickly") so the key meaning lands right away.'),
+    (11, None, '\'That is how men solve problems.\' Max keeps a sharp course beside Vika, building the phrase around "muzhchiny" ("man") and "reshayut" ("solve") for a crisp, natural delivery.'),
+    (12, None, '\'And not \'please help us\'.\' Max holds a sharp course at this moment, weaving "pomogite" ("help") together with "ne" ("not") just the way native speakers do.'),
 ]

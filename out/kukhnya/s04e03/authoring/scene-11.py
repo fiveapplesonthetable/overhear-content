@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e03.ru.srt'
 INTRO = "Disaster strikes at Claude Monet when Denis slices up the last whole dorado for Nagiyev's flambé, while over at Arcobaleno Viktor falls into a trap when sous-chef Misha challenges him to a cooking race. Listen to their Russian conversation first."
 OPENER = "Let's look closely at each Russian line in this scene."
 TRANSITION = 'With all the phrases clear, listen to the full Russian dialogue again.'
-OUTRO = "That wraps up Denis's fish disaster at Claude Monet and Viktor's speed-cooking bet at Arcobaleno. Notice how Russian comparative adverbs work in challenges. Until next time!"
+OUTRO = "That wraps up Denis's fish disaster at Claude Monet and Viktor's speed-cooking bet at Arcobaleno. Notice how Russian comparison words work in challenges. Until next time!"
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('max', 'Ты зачем эту рыбу порезал?', 'Why did you cut up this fish?', [(172, 'рыбу порезал?')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('elena', 'Вообще-то от су-шефа.', 'Actually, from the sous-chef.', [(188, 'Вообще-то')], ''),
 ]
 WALK = [
-    (0, None, '\'Why did you cut up this fish?\' By asking why Barinov cuts up this fish, Max presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (1, None, "'It is supposed to be cooked whole.' Even though it is supposed to be cooked whole, Max keeps a steady face in front of Barinov."),
-    (2, None, "'Go bring another one. Was that the last one?' With the work and bet hanging in the air, Max puts Barinov on the spot."),
-    (3, None, '\'I will run you ragged one last time, like in a proper restaurant.\' Saying that he will run Elena ragged one last time like in a proper restaurant is how Barinov sets the tone with Elena. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (4, None, "'Dorado in a salt cocoon flambé.' Over the point and the bet, Barinov answers Elena without a second thought."),
-    (5, None, "'Viktor Petrovich, let me take the orders.' Because Barinov should let him take the orders, Max treats the matter as settled."),
-    (6, None, '\'I will make it faster anyway. You are sick after all.\' Saying that he will make it faster anyway is how Max sets the tone with Barinov. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (7, None, '\'Even dead, I will work faster than you.\' Since even dead he will work faster than Elena, Barinov does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (8, None, "'Want to bet a thousand on it?' With the point and bet hanging in the air, Max puts Barinov on the spot."),
-    (9, None, "'Make it five. Let's go!' Because Elena should make it five, Barinov does not bother softening the blow for Elena. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (10, None, "'Voilà! Dorado in a salt cocoon from the head chef.' With the point and bet at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (11, None, "'Actually, from the sous-chef.' With the truth and bet in play, Elena keeps this short reply brisk and direct."),
+    (0, None, '\'Why did you cut up this fish?\' Max tests decisively toward Barinov here, putting "zachem" ("what for") alongside "rybu" ("fish") in a tight, everyday turn of phrase.'),
+    (1, None, '\'It is supposed to be cooked whole.\' Max sets a calm manner in front of Elena, putting "tselikom" ("cooked") alongside "gotovyat" ("are preparing") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Go bring another one. Was that the last one?\' Max asks openly without hesitation, putting "idi" ("go") alongside "nesi" ("bring") in a tight, everyday turn of phrase.'),
+    (3, None, '\'I will run you ragged one last time, like in a proper restaurant.\' Barinov establishes a thoughtful course at this moment, putting "pogonyayu" ("run") alongside "naposledok" ("favor") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Dorado in a salt cocoon flambé.\' Barinov favors a natural posture as the scene unfolds, putting "dorada" ("sea bream") alongside "solyanom" ("cocoon") in a tight, everyday turn of phrase.'),
+    (5, None, '\'Viktor Petrovich, let me take the orders.\' Max picks a measured footing right away, joining "davayte" ("let\'s") to "zakazy" ("orders") so every word pulls its weight.'),
+    (6, None, '\'I will make it faster anyway. You are sick after all.\' Max favors a serious posture at once, linking "bystreye" ("faster"), "sdelayu" ("I\'ll do"), and "ravno" ("the same") in one brisk exchange.'),
+    (7, None, '\'Even dead, I will work faster than you.\' Barinov strikes a calm attitude beside Max, leaning on "myortvyy" ("dead, lifeless") before closing the thought with "srabotayu" ("to work, succeed").'),
+    (8, None, '\'Want to bet a thousand on it?\' Max inquires frankly in the room, putting "sporim" ("wanna bet") alongside "shtuku" ("a grand, thing") in a tight, everyday turn of phrase.'),
+    (9, None, '\'Make it five. Let\'s go!\' Barinov brings an emphatic course at this moment, pairing "poyekhali" ("here we go") with "pyat" ("five") to get the point across in plain spoken Russian.'),
+    (10, None, '\'Voilà! Dorado in a salt cocoon from the head chef.\' Barinov conveys a playful posture in the room, building the phrase around "vualya" ("voilà") and "dorada" ("sea bream") for a crisp, natural delivery.'),
+    (11, None, '\'Actually, from the sous-chef.\' Elena strikes a brisk position with Max, leaning on "voobshche-to" ("actually") before closing the thought with "su-shefa" ("sous-chef").'),
 ]

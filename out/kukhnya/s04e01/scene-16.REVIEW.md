@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi there. Are you hungry?' Checking whether Max hungry cuts straight through the tension between Vika and Max.
-- 'Well, a little bit.' Around the moment and dinner, Max sets a calm, everyday tone with Vika.
-- 'What do we have for dinner tonight?' Here asking what they have for dinner tonight shows Max looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Whatever you cook is what we will eat.' Explaining that whatever Max cooks is what they will eat lays the cards on the table for Max.
-- 'I can cook, of course.' Max mentions that he can cook of course so Vika sees what is at stake.
-- 'I am just really tired today.' Max explains that he is just really tired today, keeping his voice calm and direct.
-- 'Listen, why don't we order something?' Here wondering why not they order something shows Vika looking for the real truth.
-- 'Maybe let's make some quick pancakes, huh?' Wondering if maybe let them make some quick pancakes huh shows Max caught off guard. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You can make them, right?' Questioning whether Vika can make them right is how Max tests Vika's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I can. Great.' Between the truth and the dinner, Vika gives Max a quick, grounded response.
-- 'Here, everything is ready.' Even though here everything is ready, Vika keeps a steady face in front of Max.
-- 'It smells delicious.' With the dinner and work in play, Max keeps this short reply brisk and direct.
+- 'Hi there. Are you hungry?' Vika challenges sharply as the talk turns, combining "progolodalsya" ("got hungry") and "privet" ("hi") so the key meaning lands right away.
+- 'Well, a little bit.' Max adopts a measured tempo in front of Vika, leaning on "yest" ("there is") before closing the thought with "nemnogo" ("a bit").
+- 'What do we have for dinner tonight?' Max queries honestly right away, weaving "segodnya" ("today") together with "uzhin" ("dinner") just the way native speakers do.
+- 'Whatever you cook is what we will eat.' Vika picks a natural footing straight away, leaning on "prigotovish" ("will prepare") before closing the thought with "budem" ("will").
+- 'I can cook, of course.' Max shows a sharp rhythm across the room, building the phrase around "mogu" ("can") and "konechno" ("of course") for a crisp, natural delivery.
+- 'I am just really tired today.' Max takes a serious style in this beat, building the phrase around "prosto" ("just") and "ustal" ("am tired") for a crisp, natural delivery.
+- 'Listen, why don't we order something?' Vika probes steadily toward Max here, combining "slushay" ("listen") and "davay" ("let's") so the key meaning lands right away.
+- 'Maybe let's make some quick pancakes, huh?' Max challenges pointedly with Vika now, combining the everyday invitation "davay" ("come on, let us") with "mozhet" ("can") to give the line its natural spoken rhythm.
+- 'You can make them, right?' Max challenges evenly on the spot, joining "mozhesh" ("can") to "ty" ("you") so every word pulls its weight.
+- 'I can. Great.' Vika conveys a thoughtful direction straight away, leaning on "mogu" ("can") before closing the thought with "otlichno" ("perfect, great").
+- 'Here, everything is ready.' Vika displays a brisk tempo in this beat, using "gotovo" (from "gotovyy", "ready") alongside "vot" ("there, here") to shape the meaning.
+- 'It smells delicious.' Max offers a playful stance in front of Vika, weaving "pakhnet" ("it smells") together with "vkusno" ("it's tasty") just the way native speakers do.

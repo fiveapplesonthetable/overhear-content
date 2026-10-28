@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With every fit of rage, you recite a poem.' With the moment and anger in play, Louis keeps this short reply brisk and direct.
-- 'Just give it a try.' Over the moment and the anger, Max answers Louis without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well, for example, any poem at all.' Around the moment and anger, Louis sets a calm, everyday tone with Max.
-- 'Well, that one.' Between the moment and the anger, Max gives Louis a quick, grounded response.
-- 'I know that one.' Claiming that he knows that one sounds confident, even if Max has doubts.
-- 'Now it cries like a little child.' Since it cries like a little child, Max does not waste words on excuses.
-- 'Well, there you see.' Mentioning that there Max sees moves the talk in a new direction.
-- 'I really want to, very much.' Max reminds Louis that he really wants to very much before the moment passes.
-- 'You mean me.' Because Max means him, Louis treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How do I get rid of her?' By asking how he gets rid, Max presses Louis for a straight answer.
-- 'Just tell her that you are, well, that way.' Louis mentions that just tell her that Max is well that way so Max sees what is at stake. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You know, not into girls.' With the work and anger in play, Max keeps this short reply brisk and direct.
-- 'Come sit down with us.' Explaining that Max should come sit down with them lays the cards on the table for Max.
+- 'With every fit of rage, you recite a poem.' Louis keeps an unhurried footing in the room, weaving "kazhdom" ("every") together with "pristupe" ("attack, fit") just the way native speakers do.
+- 'Just give it a try.' Max offers a firm direction straight away, leaning on "poprobuyte" ("try, taste") before closing the thought with "vy" ("you").
+- 'Well, for example, any poem at all.' Louis maintains an honest rhythm in front of Max, building the phrase around "naprimer" ("for example") and "lyuboye" ("any") for a crisp, natural delivery.
+- 'Well, that one.' Max projects an emphatic course for Louis, anchoring the Russian line on "nu" ("oh, come on") and "to" ("that") without extra filler.
+- 'I know that one.' Louis takes a measured line in the room, weaving "znayu" ("know") together with "ya" ("I") just the way native speakers do.
+- 'Now it cries like a little child.' Max establishes a candid style in front of Louis, combining "zaplachet" ("to fine") and "to" ("that") so the key meaning lands right away.
+- 'Well, there you see.' Louis offers a lively stance in this beat, using "vidite" (from "videt", "see") alongside "nu" ("oh, come on") to shape the meaning.
+- 'I really want to, very much.' Max brings a thoughtful course on the spot, combining "ochen" ("very much") and "khochu" ("want") so the key meaning lands right away.
+- 'You mean me.' Louis chooses an easygoing line across the room, weaving "ty" ("you") together with "menya" ("me") just the way native speakers do.
+- 'How do I get rid of her?' Max questions honestly right away, pairing "izbavitsya" ("to get rid of") with "kak" ("how") so the "-sya" ending carries the action.
+- 'Just tell her that you are, well, that way.' Louis picks a measured tack for Max, combining "skazhi" ("say") and "ty" ("you") so the key meaning lands right away.
+- 'You know, not into girls.' Max displays an easygoing tack in the conversation, pairing "devochek" ("girl") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Come sit down with us.' Louis shows a brisk rhythm in front of Max, building the phrase around "sadis" ("sit down") and "nami" ("us") for a crisp, natural delivery.

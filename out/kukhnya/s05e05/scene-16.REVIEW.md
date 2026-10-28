@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stop, hand over the bag!' The guest insists that Barinov should stop hand over the bag, leaving Barinov no room to argue.
-- 'What is going on, this is my bag!' Elena insists that what is going on this is her bag, leaving Barinov no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Security, give back my bag!' Around the truth and guest, the guest makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Alright, what happened?' With the guest and room hanging in the air, Barinov puts Elena on the spot.
-- 'Take your hands off me!' Elena declares that Barinov should take Barinov's hands off as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Quiet, quiet, what on earth is happening?' When Barinov asks if quiet quiet what on earth is happening, Elena has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'You were completely right.' Saying that Barinov was completely right is how the guest sets the tone with Barinov.
-- 'She is a thief!' Declaring that she is a thief brings the guest's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What?' Over the guest and the hotel, Elena presses Barinov for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let her go, this is a misunderstanding.' Letting her go this is a misunderstanding is how Barinov lays out the situation for Elena.
-- 'Thank you for your vigilance.' Around the conversation and shift, the guest sets a calm, everyday tone with Barinov.
-- 'Vitya, explain to me what this means!' Elena declares that Barinov should explain to her what this means as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
+- 'Stop, hand over the bag!' The guest keeps an emphatic tack as the scene unfolds, building the phrase around "stoyte" ("stop, wait") and "otdayte" ("give, hand over") for a crisp, natural delivery.
+- 'What is going on, this is my bag!' Elena establishes an emphatic stance right away, putting "sumka" ("bag, handbag") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'Security, give back my bag!' The guest chooses an earnest line at this moment, pairing "okhrana" ("security, the guards") with "otdayte" ("give, hand over") to get the point across in plain spoken Russian.
+- 'Alright, what happened?' Barinov quizzes bluntly in this moment, combining "sluchilos" ("happened") and "tak" ("so") so the key meaning lands right away.
+- 'Take your hands off me!' Elena adopts a thoughtful posture in the scene, anchoring the Russian line on "ruki" ("hands") and "uberite" ("take away, remove") without extra filler.
+- 'Quiet, quiet, what on earth is happening?' Barinov presses honestly in this moment, joining "tikho" ("easy, quiet") to "voobshche" ("at all") so every word pulls its weight.
+- 'You were completely right.' The guest offers an earnest tone without hesitation, weaving "byli" ("be") together with "sovershenno" ("quite, completely") just the way native speakers do.
+- 'She is a thief!' The guest adopts a warm posture in this beat, anchoring the Russian line on "vorovka" ("thief") and "ona" ("it") without extra filler.
+- 'What?' Elena queries promptly to keep things clear, leaning on "chto" ("what") as a compact, one-word response that needs no extra words.
+- 'Let her go, this is a misunderstanding.' Barinov sets a measured manner on the spot, anchoring the Russian line on "otpustite" ("let go, release") and "nedorazumeniye" ("misunderstanding") without extra filler.
+- 'Thank you for your vigilance.' The guest projects an easygoing line on the spot, leaning on "spasibo" ("thank you") before closing the thought with "bditelnost" ("vigilance").
+- 'Vitya, explain to me what this means!' Elena favors a calm view in their talk, building the phrase around "obyasni" ("explain") and "znachit" ("then, so") for a crisp, natural delivery.

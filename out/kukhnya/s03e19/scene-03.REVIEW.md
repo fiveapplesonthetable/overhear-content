@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Apparently, time in my life flies very fast.' Realizing that apparently time in her life flies very fast changes how Vika handles the situation.
-- 'Hello, Viktoriya Sergeyevna! How are you doing?' Asking how Max doing is cuts straight through the tension between Sasha and Max.
-- 'Hello, Sasha! May I congratulate you already?' When Vika asks if may she congratulates Max already, Max has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Yes, I am getting married soon, I am having a baby.' Explaining that she is getting married soon she is having a baby lays the cards on the table for Max. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What do you mean married? I am not going to marry her!' By asking what Sasha means married, Max presses Sasha for a straight answer.
-- 'What do you have to do with it? Learn to count, daddy!' Wondering what Max has to do with it cuts straight through the tension between Sasha and Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Alright, I will not bother you, all the best!' Sasha insists that Alright she will not bother Max all the best, leaving Max no room to argue. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Vika, I lied because I got scared because of Sasha.' Max tells Sasha that he lied because he got scared because of Sasha without dressing it up.
-- 'I thought everything had become fine between us lately.' Since he thought everything had become fine between them lately, Max does not waste words on excuses. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'And this baby, it turns out, is not mine at all.' Mentioning that this baby it turns out is not his at all moves the talk in a new direction.
-- 'Max, let us make a deal: you will never lie to me again.' Vika explains that they should make a deal Max will never lie to her again, keeping her voice calm and direct.
-- 'Do you firmly promise me that right now?' Here checking whether Max firmly promise her that right now shows Vika looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, Vika, I honestly promise you that.' Between the phone and the conversation, Max gives Sasha a quick, grounded response. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Apparently, time in my life flies very fast.' Vika offers a pointed stance in the conversation, leaning on "vidimo" ("apparently") before closing the thought with "vremya" ("time").
+- 'Hello, Viktoriya Sergeyevna! How are you doing?' Sasha probes decisively during the talk, joining "zdravstvuyte" ("hello") to "kak" ("how") so every word pulls its weight.
+- 'Hello, Sasha! May I congratulate you already?' Vika challenges decisively in their exchange, weaving "uzhe" ("already, now") together with "mogu" ("can") just the way native speakers do.
+- 'Yes, I am getting married soon, I am having a baby.' Sasha offers an emphatic angle in the scene, putting "skoro" ("soon") alongside "vykhozhu" ("get out, go out") in a tight, everyday turn of phrase.
+- 'What do you mean married? I am not going to marry her!' Max presses plainly from the start, putting "kak" ("how") alongside "zamuzh" ("in marriage") in a tight, everyday turn of phrase.
+- 'What do you have to do with it? Learn to count, daddy!' Sasha presses steadily in this moment, joining "zdes" ("here") to "nauchis" ("learn") so every word pulls its weight.
+- 'Alright, I will not bother you, all the best!' Sasha maintains a warm posture at once, weaving "budu" ("will be") together with "meshat" ("to bother, to disturb") just the way native speakers do.
+- 'Vika, I lied because I got scared because of Sasha.' Max adopts a frank approach in the scene, putting "sovral" ("lied") alongside "potomu" ("because") in a tight, everyday turn of phrase.
+- 'I thought everything had become fine between us lately.' Max conveys a serious style in the room, joining "dumal" ("thought") to "posledneye" ("last, final") so every word pulls its weight.
+- 'And this baby, it turns out, is not mine at all.' Max takes an honest attitude right away, leaning on "rebyonok" ("a child") before closing the thought with "okazyvayetsya" ("to turn out to be").
+- 'Max, let us make a deal: you will never lie to me again.' Vika displays a calm bearing in their talk, leaning on "davay" ("let's") before closing the thought with "dogovorimsya" ("we'll arrange").
+- 'Do you firmly promise me that right now?' Vika queries pointedly at this point, pairing "seychas" ("now") with "tvyordo" ("firmly") to get the point across in plain spoken Russian.
+- 'Yes, Vika, I honestly promise you that.' Max takes a frank stance in the conversation, joining "chestno" ("honestly") to "obeshchayu" ("promise") so every word pulls its weight.

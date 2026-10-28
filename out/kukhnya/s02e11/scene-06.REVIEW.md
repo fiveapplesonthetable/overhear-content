@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, he is a superstar!' Insisting that he is a superstar shows Fedya is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What about it?' Over the plan and the conversation, Kostya presses Fedya for a straight answer.
-- 'Come on, come on.' Explaining that Kostya should come on come lays the cards on the table for Kostya.
-- 'Senya, when will the steak be ready?' By wondering when the steak be ready will, Kostya presses Fedya for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What, do you two have no work to do?' Asking what Kostya two have no work to do cuts straight through the tension between Fedya and Kostya.
-- 'For some reason nobody is ordering turbot today.' Pointing out that for some reason nobody is ordering turbot today gives Fedya a sobering reality check. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I do not need that.' Fedya explains that he does not need, keeping his voice calm and direct. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I am listening to you.' Saying that he is listening to Fedya is how Kostya sets the tone with Fedya.
-- 'Listen to me.' Over the truth and the point, Fedya answers Kostya without a second thought.
-- 'And who is Galkin anyway?' Asking who Galkin anyway is is how Kostya puts Fedya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Are you completely out of your mind?' Here asking whether Kostya completely out of Kostya's mind shows Fedya looking for the real truth.
-- 'Do not yell at me!' Kostya declares that do not yell at him as the tension in the room peaks. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Look at the habit he picked up!' With the kitchen and point at stake, Fedya reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Oh, he is a superstar!' Fedya sustains an honest tone for Kostya, using "superstar" (from "superzvezda", "superstar") alongside "ay" ("ouch") to shape the meaning.
+- 'What about it?' Kostya checks lightly toward Fedya here, using "chto" ("what") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Come on, come on.' Fedya holds a serious footing during the exchange, using "nu" ("oh, come on") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Senya, when will the steak be ready?' Kostya presses candidly on the spot, putting "kogda" ("when") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'What, do you two have no work to do?' Fedya quizzes dryly to Kostya here, linking "raboty" ("of work"), "vas" ("you"), and "chego" ("what") in one brisk exchange.
+- 'For some reason nobody is ordering turbot today.' Kostya adopts a playful angle as the scene unfolds, doubling the negative with "ne" ("not") and "segodnya" ("today"), which is standard and required in Russian.
+- 'I do not need that.' Fedya takes a grounded tempo at this moment, leaning on "nado" ("it is necessary") before closing the thought with "ne" ("not").
+- 'I am listening to you.' Kostya takes a lively style as they talk, building the phrase around "slushayu" ("I'm listening") and "ya" ("I") for a crisp, natural delivery.
+- 'Listen to me.' Fedya conveys a playful style on the spot, pairing "poslushay" ("listen") with "menya" ("me") to get the point across in plain spoken Russian.
+- 'And who is Galkin anyway?' Kostya tests evenly to make the point, placing "galkin" ("Galkin") straight beside "kto" ("who") with no word for "to be" needed.
+- 'Are you completely out of your mind?' Fedya challenges lightly as they speak, placing "durak" ("fool, idiot") straight beside "sovsem" ("at all") with no word for "to be" needed.
+- 'Do not yell at me!' Kostya holds a firm direction in the room, anchoring the Russian line on "nado" ("it is necessary") and "orat" ("to yell, to bellow") without extra filler.
+- 'Look at the habit he picked up!' Fedya conveys a firm line in this beat, joining "modu" ("fashion, habit") to "vzyal" ("took") so every word pulls its weight.

@@ -7,7 +7,7 @@ SCENE = 14
 TITLE = "Тайна отличника аттестации  (The Top Scorer's Secret)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'german': 'Герман', 'max': 'Макс', 'senya': 'Сеня'}
+LABELS = {'german': 'Герман', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S4.03'
 SOURCE_FILE = 'sources/kukhnya/s04/e03.ru.srt'
 INTRO = "Back at Claude Monet, Max rescues Denis by sneaking in a whole dorado from Arcobaleno, and once German carries it out to Nagiyev, the other cooks demand answers from Max. Let's listen to their exchange in Russian."
@@ -24,22 +24,22 @@ STORY = [
     ('max', 'Вот рыба.', 'Here is the fish.', [(224, 'Вот рыба.')], ''),
     ('german', 'Отлично. Так, я сам отнесу.', 'Excellent. Alright, I will carry it out myself.', [(225, 'Отлично. Так, я сам отнесу.')], ''),
     ('max', 'Последний раз помогаю тебе.', 'This is the last time I am helping you.', [(226, 'Последний раз помогаю тебе')], ''),
-    ('senya', 'Можешь ты нам всем объяснить?', 'Can you explain this to all of us?', [(227, 'можешь ты нам'), (227, 'всем объяснить')], ''),
-    ('senya', 'Почему этот отличник аттестации готовить не умеет?', 'Why does this top scorer of the evaluation not know how to cook at all?', [(229, 'почему этот отличник аттестации'), (229, 'готовить'), (230, 'не умеет?')], ''),
+    ('nagiyev', 'Можешь ты нам всем объяснить?', 'Can you explain this to all of us?', [(227, 'можешь ты нам'), (227, 'всем объяснить')], ''),
+    ('nagiyev', 'Почему этот отличник аттестации готовить не умеет?', 'Why does this top scorer of the evaluation not know how to cook at all?', [(229, 'почему этот отличник аттестации'), (229, 'готовить'), (230, 'не умеет?')], ''),
     ('max', 'Ребят, я вам сейчас всё объясню.', 'Guys, I will explain everything to you right now.', [(230, 'Ребят, я вам сейчас все объясню.')], ''),
     ('max', 'Дело в том, что Денис не повар.', 'The thing is that Denis is not a cook.', [(232, 'Дело в том, что Денис не повар.')], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry Vladimirovich is waiting for his fish.' Noting that Dmitry Vladimirovich is waiting for his fish keeps Max's side of the story simple and clear."),
-    (1, None, "'Denis, bring over your culinary masterpiece.' Bringing over Max's culinary masterpiece is how German lays out the situation for Max."),
-    (2, None, "'German Mikhailovich, do you even know what is going on in the dining room?' Here asking whether German even know what is going on in the dining room shows Max looking for the real truth."),
-    (3, None, "'There are guests out there. And everyone is waiting for their orders.' Saying that there are guests out there is how Max sets the tone with German."),
-    (4, None, "'Well, we are cooking. So keep cooking.' Once they are cooking, German can finally tell Max what he means."),
-    (5, None, "'Here is the fish.' Adding that here is the fish fills in the missing piece for German."),
-    (6, None, "'Excellent. Alright, I will carry it out myself.' Saying that Alright he will carry it out himself is how German sets the tone with Max."),
-    (7, None, '\'This is the last time I am helping you.\' Since this is the last time he is helping German, Max does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (8, None, "'Can you explain this to all of us?' Checking whether German explains this to all of them cuts straight through the tension between Senya and German."),
-    (9, None, '\'Why does this top scorer of the evaluation not know how to cook at all?\' Asking why this top scorer of the evaluation not know how to cook at all is how Senya puts German on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (10, None, '\'Guys, I will explain everything to you right now.\' Because he will explain everything to German right now, Max treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (11, None, "'The thing is that Denis is not a cook.' Explaining that the thing is that Denis is not a cook lays the cards on the table for German."),
+    (0, None, '\'Dmitry Vladimirovich is waiting for his fish.\' Max establishes a resolute attitude at once, leaning on "zhdyot" ("is waiting") before closing the thought with "rybu" ("fish").'),
+    (1, None, '\'Denis, bring over your culinary masterpiece.\' German strikes a resolute course without hesitation, building the phrase around "prinesite" ("bring") and "proizvedeniye" ("work of art") for a crisp, natural delivery.'),
+    (2, None, '\'German Mikhailovich, do you even know what is going on in the dining room?\' Max questions boldly for German\'s benefit, pairing "voobshche" ("at all") with "znayete" ("know") to get the point across in plain spoken Russian.'),
+    (3, None, '\'There are guests out there. And everyone is waiting for their orders.\' Max shares a natural stance on the spot, linking "tam" ("there"), "gosti" ("visitors, guests"), and "zhdut" ("to wait, to expect") in one brisk exchange.'),
+    (4, None, '\'Well, we are cooking. So keep cooking.\' German keeps a serious position toward Max, linking "gotovim" ("are preparing"), "gotovte" ("cook"), and "nu" ("oh, come on") in one brisk exchange.'),
+    (5, None, '\'Here is the fish.\' Max establishes a frank attitude without hesitation, placing "ryba" ("fish") straight beside "vot" ("there, here") with no word for "to be" needed.'),
+    (6, None, '\'Excellent. Alright, I will carry it out myself.\' German picks a frank approach at once, combining "otlichno" ("perfect, great") and "otnesu" ("to carry to") so the key meaning lands right away.'),
+    (7, None, '\'This is the last time I am helping you.\' Max conveys an emphatic tempo in the room, linking "posledniy" ("last"), "raz" ("time, once"), and "pomogayu" ("to help") in one brisk exchange.'),
+    (8, None, '\'Can you explain this to all of us?\' Nagiyev prompts quietly toward German here, anchoring the Russian line on "mozhesh" ("can") and "obyasnit" ("to explain") without extra filler.'),
+    (9, None, '\'Why does this top scorer of the evaluation not know how to cook at all?\' Nagiyev quizzes warmly in the scene, linking "pochemu" ("why"), "otlichnik" ("handle"), and "attestatsii" ("evaluation") in one brisk exchange.'),
+    (10, None, '\'Guys, I will explain everything to you right now.\' Max favors an earnest style at this moment, building the phrase around "rebyat" ("kids, guys") and "seychas" ("now") for a crisp, natural delivery.'),
+    (11, None, '\'The thing is that Denis is not a cook.\' Max shares a serious manner right away, weaving "delo" ("matter") together with "povar" ("chef, cook") just the way native speakers do.'),
 ]

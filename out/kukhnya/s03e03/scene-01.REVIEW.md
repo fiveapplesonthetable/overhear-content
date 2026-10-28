@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are athletes the most superstitious people in the world?' Checking whether athletes the most superstitious people in the world is how Max puts the guest on the spot.
-- 'Nothing of the sort. The most superstitious people are waiters.' Around the conversation and argument, Max sets a calm, everyday tone with the guest. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Your salad.' Over the work and the argument, Nastya answers the guest without a second thought. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'I spilled the salt. No big deal.' Around the conversation and kitchen, the guest sets a calm, everyday tone with Max.
-- 'What do you mean, no big deal?' Asking what the guest means no big deal is how Nastya puts the guest on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Now you and I will definitely quarrel.' Noting that the guest and she will definitely quarrel keeps Nastya's side of the story simple and clear. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Miss, I have no intention of quarreling with you.' Mentioning that Max should miss he has no intention of quarreling with Max moves the talk in a new direction.
-- 'Where are you looking? First salt, then wine!' Asking where Max looking is cuts straight through the tension between the guest and Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Call the manager!' The guest declares that Max should call the manager as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I told you we would quarrel.' Once she told the guest they would quarrel, Nastya can finally tell the guest what she means.
-- 'Thank you. Goodbye. We look forward to seeing you again.' By looking forward to seeing the guest again, Max keeps his side of the story grounded. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Waiters believe in all omens.' With the point and argument in play, Max keeps this short reply brisk and direct.
+- 'Are athletes the most superstitious people in the world?' Max checks briskly without holding back, leaning on "sportsmeny" ("athletes") before closing the thought with "samyye" ("most, very").
+- 'Nothing of the sort. The most superstitious people are waiters.' Max sustains an earnest manner in the conversation, putting "podobnogo" ("of the sort") alongside "samyye" ("most, very") in a tight, everyday turn of phrase.
+- 'Your salad.' Nastya strikes a thoughtful tempo with the guest, pairing "salat" ("salad") with "vash" ("your, yours") to get the point across in plain spoken Russian.
+- 'I spilled the salt. No big deal.' The guest keeps a grounded angle in the room, putting "sol" ("salt") alongside "prosypala" ("spilled") in a tight, everyday turn of phrase.
+- 'What do you mean, no big deal?' Nastya questions boldly at this point, combining "kak" ("how") and "strashnogo" ("terrible, serious") so the key meaning lands right away.
+- 'Now you and I will definitely quarrel.' Nastya sets a resolute posture in their talk, pairing "teper" ("now") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
+- 'Miss, I have no intention of quarreling with you.' The guest conveys a warm tack during the exchange, weaving "devushka" ("girlfriend") together with "sobirayus" ("am planning") just the way native speakers do.
+- 'Where are you looking? First salt, then wine!' The guest checks naturally without holding back, linking "kuda" ("where to"), "smotrite" ("look"), and "sperva" ("first") in one brisk exchange.
+- 'Call the manager!' The guest holds a firm note beside Max, joining "pozovite" ("call") to "administratora" ("administrator") so every word pulls its weight.
+- 'I told you we would quarrel.' Nastya picks an earnest attitude as they talk, pairing "possorimsya" ("will quarrel") with "govorila" ("said") so the "-sya" ending carries the action.
+- 'Thank you. Goodbye. We look forward to seeing you again.' Max keeps a calm tempo in the room, leaning on "spasibo" ("thank you") before closing the thought with "svidaniya" ("meeting").
+- 'Waiters believe in all omens.' Max picks an emphatic tempo as the scene unfolds, putting "ofitsianty" ("waiters") alongside "veryat" ("believe") in a tight, everyday turn of phrase.

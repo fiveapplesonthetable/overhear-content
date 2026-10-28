@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our restaurant always remains the best in Moscow.' Around the truth and secret, Max sets a calm, everyday tone with the hostess.
-- 'A team of professional chefs works here.' Mentioning that a team of professional chefs works here moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'There are always products of the highest quality here.' Max reminds the hostess that there are always products of the highest quality here before the moment passes.
-- 'Our guest service is at the highest level.' Because their guest service is at the highest level, the hostess treats the matter as settled.
-- 'Excuse me, a waiter will come to you soon.' Explaining that a waiter will come to Max soon lays the cards on the table for Max. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'We are not in much of a hurry today.' Max mentions that they are not in much of a hurry today so the hostess sees what is at stake.
-- 'There are very many orders in the dining room today.' Claiming that there are very many orders in the dining room today sounds confident, even if Max has doubts.
-- 'We understand everything perfectly.' Here understanding everything perfectly sets up the next turn in their exchange.
-- 'Of course, our restaurant needs a good owner.' Max explains that their restaurant needs a good owner, keeping his voice calm and direct.
-- 'The owner must be strong and confident.' Realizing that the owner must be strong and confident changes how Max handles the situation.
-- 'He always knows exactly what to do.' Noting that he always knows exactly what to do keeps Max's side of the story simple and clear.
-- 'I put everything into that safe!' Saying that he puts everything into that safe is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Our restaurant always remains the best in Moscow.' Max conveys an honest tone right away, weaving "restoran" ("restaurant") together with "vsegda" ("always") just the way native speakers do.
+- 'A team of professional chefs works here.' Max maintains a measured stance right away, weaving "rabotayet" ("works") together with "komanda" ("team") just the way native speakers do.
+- 'There are always products of the highest quality here.' Max sustains a wry tack in front of the hostess, linking "zdes" ("here") directly with "vsegda" ("always"), since Russian drops "is" and "are" in the present.
+- 'Our guest service is at the highest level.' The hostess projects a thoughtful note in their talk, weaving "obsluzhivaniye" ("service") together with "gostey" ("guests") just the way native speakers do.
+- 'Excuse me, a waiter will come to you soon.' The hostess maintains a calm posture in front of Max, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "skoro" ("soon") without extra filler.
+- 'We are not in much of a hurry today.' Max offers a lively posture in their talk, anchoring the Russian line on "segodnya" ("today") and "osobo" ("particularly") without extra filler.
+- 'There are very many orders in the dining room today.' The hostess conveys a measured attitude without hesitation, putting "zale" ("hall") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'We understand everything perfectly.' Max picks a measured position without hesitation, linking "prekrasno" ("perfectly"), "ponimayem" ("to understand"), and "my" ("we") in one brisk exchange.
+- 'Of course, our restaurant needs a good owner.' Max offers a playful mood without hesitation, combining "konechno" ("of course") and "restoranu" ("restaurant") so the key meaning lands right away.
+- 'The owner must be strong and confident.' Max strikes an honest mood with Nagiyev, combining "khozyain" ("owner") and "dolzhen" ("has to, must") so the key meaning lands right away.
+- 'He always knows exactly what to do.' Max establishes a calm stance during the exchange, combining "vsegda" ("always") and "tochno" ("definitely") so the key meaning lands right away.
+- 'I put everything into that safe!' Nagiyev holds a steady mood in their talk, linking "seyf" ("safe"), "otnyos" ("to carry to"), and "ya" ("I") in one brisk exchange.

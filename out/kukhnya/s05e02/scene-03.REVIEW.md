@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If something goes wrong, they fine the staff.' Mikhail reminds Barinov that if something goes wrong they fine the staff before the moment passes.
-- 'I do not worry about my subordinates.' Because he does not worry about his subordinates, Barinov treats the matter as settled.
-- 'Misha, go to your own office.' Going to Mikhail's own office moves the conversation forward without extra drama. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'In ten minutes we have a meeting.' Mikhail mentions that in ten minutes they have a meeting so Barinov sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'All our management will be there.' Claiming that all their management will be there sounds confident, even if Barinov has doubts.
-- 'They informed me of important news.' With the room and secret in play, Vika keeps this short reply brisk and direct.
-- 'The secret guest will be here today or tomorrow.' Vika explains that the secret guest will be here today or tomorrow, keeping her voice calm and direct.
-- 'Be on alert today.' Around the room and secret, Vika sets a calm, everyday tone with Barinov.
-- 'Mikhail, there is a small problem there.' Noting that there is a small problem there keeps Vika's side of the story simple and clear.
-- 'The guests are complaining about the bitter cold.' Even though the guests are complaining about the bitter cold, Vika keeps a steady face in front of Barinov.
-- 'Well, send our engineer up there.' Admitting that Barinov should send their engineer up there shows Mikhail being honest for a change.
-- 'Could he not think of that himself?' By checking whether he not think of that himself, Mikhail presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'If something goes wrong, they fine the staff.' Mikhail takes a frank direction as they talk, building the phrase around "personal" ("staff") and "shtrafuyut" ("to fine, penalize") for a crisp, natural delivery.
+- 'I do not worry about my subordinates.' Barinov shows a measured style in front of Vika, weaving "podchinyonnykh" ("subordinates") together with "volnuyus" ("am nervous") just the way native speakers do.
+- 'Misha, go to your own office.' Barinov shows a candid course during the exchange, linking "idi" ("go"), "kabinet" ("office"), and "misha" ("Misha") in one brisk exchange.
+- 'In ten minutes we have a meeting.' Mikhail shows a resolute tempo in this beat, leaning on "minut" ("minutes") before closing the thought with "sobraniye" ("meeting").
+- 'All our management will be there.' Mikhail chooses a firm footing in the scene, putting "tam" ("there") alongside "budet" ("will be") in a tight, everyday turn of phrase.
+- 'They informed me of important news.' Vika sets a pointed view right away, combining "soobshchili" ("to inform, report") and "vazhnuyu" ("important") so the key meaning lands right away.
+- 'The secret guest will be here today or tomorrow.' Vika brings a wry footing beside Barinov, linking "taynyy" ("secret, undercover"), "gost" ("guest"), and "budet" ("will be") in one brisk exchange.
+- 'Be on alert today.' Vika keeps a frank manner straight away, building the phrase around "budte" ("be") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Mikhail, there is a small problem there.' Vika picks a wry line with Barinov, weaving "tam" ("there") together with "nebolshaya" ("small") just the way native speakers do.
+- 'The guests are complaining about the bitter cold.' Vika projects a clear tone at this moment, using "gosti" (from "gost", "visitors, guests") alongside "zhaluyutsya" ("complain") to shape the meaning.
+- 'Well, send our engineer up there.' Mikhail favors a natural position at once, joining "otpravte" ("send") to "tuda" ("there") so every word pulls its weight.
+- 'Could he not think of that himself?' Mikhail quizzes candidly beside Vika, linking "mog" ("can, to be able"), "podumat" ("to think"), and "on" ("he") in one brisk exchange.

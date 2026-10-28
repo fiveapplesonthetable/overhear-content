@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The car is nice, but the owner parked very badly.' Once the car is nice but the owner parked very badly, Katya can finally tell the guest what she means.
-- 'You certainly cannot buy brains with daddy's money!' Katya insists that the guest certainly cannot buy brains with daddy money, leaving the guest no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Women need surprises full of intrigue and romance.' Max tells the guest that women need surprises full of intrigue and romance without dressing it up.
-- 'Even if they come from some mysterious stranger.' With the car and wedding in play, Max keeps this short reply brisk and direct.
-- 'Max Lavrov? Hi, let's hug right away!' When the guest asks if hi let them hug right away, Katya has to answer fast. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hi, Dasha, how glad I am to see you!' Insisting that Dasha how glad he is to see the guest shows Max is not backing down. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You and I stayed good friends, remember?' Asking whether Katya and he stayed good friends remember puts Katya right on the defensive.
-- 'Yes, of course I remember, that did happen.' Remembering that did happen moves the conversation forward without extra drama.
-- 'Tell me honestly, Max, are you married now?' Questioning whether tell him honestly Max are Katya married now is how the guest tests Katya's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Why no, not at all, I am already divorced.' Claiming that why no not at all he is already divorced sounds confident, even if the guest has doubts.
-- 'Then why is there a wedding ring on your finger?' Here wondering why there a wedding ring on Katya's finger is shows the guest looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It just will not come off at all, it is completely stuck!' Because it just will not come off at all it is completely stuck, Max does not bother softening the blow for the guest. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
+- 'The car is nice, but the owner parked very badly.' Katya shares a lively attitude straight away, combining "mashina" ("a car") and "krasivaya" ("pretty, beautiful") so the key meaning lands right away.
+- 'You certainly cannot buy brains with daddy's money!' Katya conveys a direct note across the room, pairing "um" ("mind, sense") with "papiny" ("dad's, father's") to get the point across in plain spoken Russian.
+- 'Women need surprises full of intrigue and romance.' Max takes an earnest stance straight away, weaving "zhenshchinam" ("women") together with "nuzhny" ("needed") just the way native speakers do.
+- 'Even if they come from some mysterious stranger.' Max shares a direct rhythm as the scene unfolds, putting "tainstvennogo" ("mysterious") alongside "neznakomtsa" ("stranger") in a tight, everyday turn of phrase.
+- 'Max Lavrov? Hi, let's hug right away!' The guest probes frankly right away, putting "davay" ("let's") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
+- 'Hi, Dasha, how glad I am to see you!' Max adopts a warm tack across the room, leaning on "kak" ("how") before closing the thought with "rad" ("glad").
+- 'You and I stayed good friends, remember?' The guest presses firmly across the room, pairing "ostalis" ("stayed, were left") with "khoroshimi" ("good, nice") to get the point across in plain spoken Russian.
+- 'Yes, of course I remember, that did happen.' Max keeps a resolute footing with Katya, joining "konechno" ("of course") to "pomnyu" ("remember") so every word pulls its weight.
+- 'Tell me honestly, Max, are you married now?' The guest quizzes plainly in this moment, joining "skazhi" ("say") to "chestno" ("honestly") so every word pulls its weight.
+- 'Why no, not at all, I am already divorced.' Max brings a serious tone toward Katya, linking "uzhe" ("already, now"), "razvedyon" ("divorced"), and "da" ("yes") in one brisk exchange.
+- 'Then why is there a wedding ring on your finger?' The guest challenges calmly from the start, pairing "pochemu" ("why") with "togda" ("back then") to get the point across in plain spoken Russian.
+- 'It just will not come off at all, it is completely stuck!' Max keeps a thoughtful course as the scene unfolds, leaning on "prosto" ("just") before closing the thought with "nikak" ("in no way").

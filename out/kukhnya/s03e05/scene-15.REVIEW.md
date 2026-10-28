@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe you will help me win her over?' Wondering if maybe Max will help him win shows Nagiyev caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I will help you?' Questioning whether he will help Nagiyev is how Max tests Nagiyev's story.
-- 'After all, you two once had love.' Nagiyev tells Max that after all Max two once had love without dressing it up. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Tell me what she likes.' Telling him what she likes is how Nagiyev lays out the situation for Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Where she goes, and where she does not.' Mentioning that where she goes and where she does not moves the talk in a new direction.
-- 'You will not need that anymore.' Saying that Max will not need that anymore is how Nagiyev sets the tone with Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'No, I do not mean that at all.' Because he does not mean that at all, Max treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Vika loves only expensive gifts and jewelry.' Explaining that Vika loves only expensive gifts and jewelry lays the cards on the table for Nagiyev.
-- 'I cannot afford that for myself.' Max mentions that he cannot afford that for himself so Nagiyev sees what is at stake.
-- 'That is why we broke up.' Claiming that that is why they broke up sounds confident, even if Nagiyev has doubts.
-- 'Think whether you need a second Kristina.' Thinking whether Nagiyev needs a second Kristina moves the conversation forward without extra drama.
-- 'Thank you very much for the advice.' Turning from the moment to the shift, Nagiyev keeps the exchange moving. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Maybe you will help me win her over?' Nagiyev inquires boldly without a pause, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
+- 'I will help you?' Max asks promptly on the spot, linking "pomogu" ("I'll help"), "ya" ("I"), and "vam" ("you") in one brisk exchange.
+- 'After all, you two once had love.' Nagiyev displays a candid position in front of Max, leaning on "kogda-to" ("once, at one time") before closing the thought with "lyubov" ("love").
+- 'Tell me what she likes.' Nagiyev offers a sharp manner across the room, joining "rasskazhi" ("tell") to "lyubit" ("loves") so every word pulls its weight.
+- 'Where she goes, and where she does not.' Nagiyev sustains a brisk footing toward Max, anchoring the Russian line on "kuda" ("where to") and "khodit" ("walks") without extra filler.
+- 'You will not need that anymore.' Nagiyev chooses a measured tack in this beat, combining "bolshe" ("more") and "ponadobitsya" ("to be needed") so the key meaning lands right away.
+- 'No, I do not mean that at all.' Max brings an earnest manner as they talk, pairing "sovsem" ("at all") with "net" ("no") to get the point across in plain spoken Russian.
+- 'Vika loves only expensive gifts and jewelry.' Max chooses an unhurried stance toward Nagiyev, combining "lyubit" ("loves") and "tolko" ("only") so the key meaning lands right away.
+- 'I cannot afford that for myself.' Max displays a wry manner right away, putting "pozvolit" ("afford, allow") alongside "mogu" ("can") in a tight, everyday turn of phrase.
+- 'That is why we broke up.' Max picks a natural style beside Nagiyev, combining "poetomu" ("that's why") and "rasstalis" ("broke up, separated") so the key meaning lands right away.
+- 'Think whether you need a second Kristina.' Max establishes a natural angle in the conversation, putting "podumayte" ("think") alongside "nuzhna" ("needed") in a tight, everyday turn of phrase.
+- 'Thank you very much for the advice.' Nagiyev maintains an emphatic line beside Max, combining "bolshoye" ("big, very much") and "spasibo" ("thank you") so the key meaning lands right away.

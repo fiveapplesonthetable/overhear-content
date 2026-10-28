@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are the potatoes?' Here wondering where the potatoes are shows Lyova looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And where is the zucchini? And where is Lavrov?' By asking where the zucchini is, Lyova presses Barinov for a straight answer.
-- 'Fine, keep working, I will do everything myself.' Lyova tells Barinov that fine keep working he will do everything himself without dressing it up.
-- 'You did the absolute right thing by giving me a second chance.' Since Barinov did the absolute right thing by giving him a second chance, Nagiyev does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'War and Peace, Napoleon—all of that is mine.' Mentioning that war and peace Napoleon all of that is moves the talk in a new direction.
-- 'I even read it. Thank you very much.' Nagiyev tells Barinov that he even reads it without dressing it up. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'By the way, the cooking here in our restaurant is amazing.' Because the cooking here in their restaurant is amazing, Nagiyev treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'And do not worry at all.' Explaining that do not worry at all lays the cards on the table for Barinov.
-- 'I kicked out the chef who ruined dinner last time.' With the wine and kitchen in play, Nagiyev keeps this short reply brisk and direct.
-- 'Everything is fine. Go do your work.' Claiming that everything is fine sounds confident, even if Barinov has doubts.
-- 'I am a guest here.' Once he is a guest here, Barinov can finally tell Lyova what he means.
-- 'Wait a second, you...' Over the wine and the shift, Nagiyev answers Barinov without a second thought. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Where are the potatoes?' Lyova presses steadily toward Barinov here, weaving "gde" ("where") together with "kartoshka" ("potato") just the way native speakers do.
+- 'And where is the zucchini? And where is Lavrov?' Lyova inquires openly during the talk, joining "gde" ("where") to "tsukini" ("zucchini") so every word pulls its weight.
+- 'Fine, keep working, I will do everything myself.' Lyova sustains a candid footing in the scene, pairing "rabotayte" ("work") with "sdelayu" ("I'll do") to get the point across in plain spoken Russian.
+- 'You did the absolute right thing by giving me a second chance.' Nagiyev displays an unhurried tone toward Lyova, combining "absolyutno" ("completely") and "pravilno" ("right") so the key meaning lands right away.
+- 'War and Peace, Napoleon—all of that is mine.' Nagiyev keeps a steady direction during the exchange, placing "voyna" ("a war") straight beside "mir" ("world") with no word for "to be" needed.
+- 'I even read it. Thank you very much.' Nagiyev strikes a sharp stance during the exchange, building the phrase around "chital" ("read") and "spasibo" ("thank you") for a crisp, natural delivery.
+- 'By the way, the cooking here in our restaurant is amazing.' Nagiyev brings a direct tack in this beat, pairing "kstati" ("by the way") with "zdes" ("here") to get the point across in plain spoken Russian.
+- 'And do not worry at all.' Nagiyev shows a brisk line on the spot, pairing "volnuytes" ("worry") with "vy" ("you") so the "-sya" ending carries the action.
+- 'I kicked out the chef who ruined dinner last time.' Nagiyev strikes a brisk bearing in front of Barinov, weaving "shefa" ("chef") together with "togda" ("back then") just the way native speakers do.
+- 'Everything is fine. Go do your work.' Nagiyev displays an honest direction toward Lyova, weaving "normalno" ("fine, OK") together with "idi" ("go") just the way native speakers do.
+- 'I am a guest here.' Barinov favors a warm tempo in the room, joining "gost" ("guest") to "ya" ("I") so every word pulls its weight.
+- 'Wait a second, you...' Nagiyev keeps a warm bearing right away, joining "vy" ("you") to "eto" ("this") so every word pulls its weight.

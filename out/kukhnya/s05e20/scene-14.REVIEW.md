@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, technically you won the bet.' Adding that technically Max won the bet fills in the missing piece for Max. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Congratulations to you, but there is also bad news.' Barinov tells Max that congratulations to Max but there is also bad news without dressing it up. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'As of today you are fired from our kitchen.' Since as of today Max is fired from their kitchen, Barinov does not waste words on excuses.
-- 'What do you mean fired, why, that is unfair!' Max declares that what do Barinov means fired why that is unfair as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Two great chefs cannot coexist in one kitchen.' Barinov reminds Max that two great chefs cannot coexist in one kitchen before the moment passes.
-- 'So tomorrow you start as head chef at Restaurant Monet!' Insisting that tomorrow Max starts as head at restaurant Monet shows Barinov is not backing down.
-- 'In a year every restaurant in Moscow will be chasing after him.' Explaining that in a year every restaurant in Moscow will be chasing after him lays the cards on the table for Max.
-- 'Because right now he is me in my youth.' Barinov mentions that because right now he is him in his youth so Max sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Think how much you will save if you sign him now.' Because Max should think how much Max will save if Max signs him now, Barinov treats the matter as settled.
-- 'So, Maxim, now you are the new head chef of Monet.' Pointing out that Maxim now Barinov is the new head of Monet gives Barinov a sobering reality check. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Really? I am the new head chef of Restaurant Monet?' Max asks whether he is the new head of restaurant Monet, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Make sure you do not let me down there, Oguzok!' Saying that Max should make sure Max does not let him down there Oguzok is how Barinov takes charge of the moment.
-- 'Thank you so much, Chef, may I hug you?' Wondering if much Chef may he hug Barinov shows Max caught off guard. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
+- 'By the way, technically you won the bet.' Barinov sets a warm posture as they talk, pairing "kstati" ("by the way") with "formalno" ("formally") to get the point across in plain spoken Russian.
+- 'Congratulations to you, but there is also bad news.' Barinov favors a resolute course in their talk, linking "pozdravlyayu" ("congratulations"), "yest" ("there is"), and "plokhaya" ("bad") in one brisk exchange.
+- 'As of today you are fired from our kitchen.' Barinov shares an emphatic tone toward Max, using "segodnyashnego" (from "segodnyashniy", "of today's") alongside "dnya" ("day") to shape the meaning.
+- 'What do you mean fired, why, that is unfair!' Max favors a resolute tempo in front of Nagiyev, weaving "kak" ("how") together with "uvolen" ("fired") just the way native speakers do.
+- 'Two great chefs cannot coexist in one kitchen.' Barinov strikes a brisk view for Max, pairing "krutykh" ("cool, tough") with "povara" ("cook") to get the point across in plain spoken Russian.
+- 'So tomorrow you start as head chef at Restaurant Monet!' Barinov sets an easygoing posture during the exchange, linking "poetomu" ("that's why"), "zavtra" ("tomorrow"), and "vykhodish" ("to go out, to get out") in one brisk exchange.
+- 'In a year every restaurant in Moscow will be chasing after him.' Barinov sets a playful posture in the room, pairing "gonyatsya" ("to chase after") with "god" ("year") so the "-sya" ending carries the action.
+- 'Because right now he is me in my youth.' Barinov shows a direct footing at this moment, leaning on "potomu" ("because") before closing the thought with "seychas" ("now").
+- 'Think how much you will save if you sign him now.' Barinov conveys a warm approach in their talk, combining "podumay" ("think") and "skolko" ("how much, so much") so the key meaning lands right away.
+- 'So, Maxim, now you are the new head chef of Monet.' Nagiyev shares a playful position beside Max, anchoring the Russian line on "teper" ("now") and "novyy" ("new") without extra filler.
+- 'Really? I am the new head chef of Restaurant Monet?' Max challenges sharply in their exchange, combining "pravda" ("honestly") and "novyy" ("new") so the key meaning lands right away.
+- 'Make sure you do not let me down there, Oguzok!' Barinov projects a playful approach straight away, weaving "smotri" ("look") together with "podvedi" ("to let down") just the way native speakers do.
+- 'Thank you so much, Chef, may I hug you?' Max questions evenly on the spot, anchoring the Russian line on "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") without extra filler.

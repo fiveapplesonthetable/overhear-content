@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I beg you, please forgive me for everything!' Begging Kostya pleases forgive him for everything is Max's blunt reaction in front of Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Tell me honestly, Max, will you marry me?' Questioning whether tell her honestly Max will Kostya marries is how Vika tests Kostya's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'They say the properties of human memory have still not been studied.' Realizing that they say the properties of human memory have still not been studied changes how Max handles the situation.
-- 'In difficult moments we remember someone truly close to us.' With the point and hospital in play, Max keeps this short reply brisk and direct.
-- 'Why is it sometimes so hard to forget all grievances?' Wondering why it sometimes so hard to forget all grievances is is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And remember that there is nothing more important than old proven friendship.' Max explains that Kostya should remember that there is nothing more important than old proven friendship, keeping his voice calm and direct.
-- 'Max, why are you standing there by the door?' By asking why Max standing there by the door is, Kostya presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Come over here quickly, look what a son was born to me!' Here coming over here quickly look what a son was born to him lets Kostya's real feelings break through. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'In our life there are such wonderful and bright moments.' Saying that in their life there are such wonderful and bright moments is how Max sets the tone with Kostya.
-- 'Which one wants to keep forever in one's memory.' Once which one wants to keep forever in one memory, Max can finally tell Kostya what he means.
-- 'Kostik, how wrong I was this morning!' Declaring that someone how wrong she was this morning brings Vika's temper right to the surface. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Because this is the very best day of my life!' Vika insists that because this is the very best day of her life, leaving Kostya no room to argue.
+- 'Vika, I beg you, please forgive me for everything!' Max keeps a lively stance without hesitation, joining "proshu" ("beg, ask") to "prosti" ("sorry, forgive me") so every word pulls its weight.
+- 'Tell me honestly, Max, will you marry me?' Vika inquires wryly to keep things clear, using "skazhi" (from "skazat", "say") alongside "chestno" ("honestly") to shape the meaning.
+- 'They say the properties of human memory have still not been studied.' Max shares an easygoing tack with Kostya, anchoring the Russian line on "govoryat" ("talks, says") and "svoystva" ("properties") without extra filler.
+- 'In difficult moments we remember someone truly close to us.' Max brings a firm position in the room, pairing "trudnyye" ("difficult, hard") with "minuty" ("minutes") to get the point across in plain spoken Russian.
+- 'Why is it sometimes so hard to forget all grievances?' Max challenges sharply as they speak, joining "pochemu" ("why") to "inogda" ("sometimes, at times") so every word pulls its weight.
+- 'And remember that there is nothing more important than old proven friendship.' Max establishes a playful course right away, pairing "vspomnit" ("to remember") with "vazhneye" ("more important") to get the point across in plain spoken Russian.
+- 'Max, why are you standing there by the door?' Kostya tests warmly to make the point, building the phrase around "tam" ("there") and "vstal" ("stood up, got up") for a crisp, natural delivery.
+- 'Come over here quickly, look what a son was born to me!' Kostya sets an honest tack toward Vika, putting "idi" ("go") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
+- 'In our life there are such wonderful and bright moments.' Max keeps a natural approach on the spot, using "zhizni" (from "zhizn", "life") alongside "byvayut" ("occur, happen") to shape the meaning.
+- 'Which one wants to keep forever in one's memory.' Max chooses an easygoing line in their talk, joining "khochetsya" ("want, feel like") to "navsegda" ("forever") so every word pulls its weight.
+- 'Kostik, how wrong I was this morning!' Vika chooses a direct approach during the exchange, building the phrase around "kak" ("how") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Because this is the very best day of my life!' Vika projects a wry angle right away, leaning on "potomu" ("because") before closing the thought with "samyy" ("the most").

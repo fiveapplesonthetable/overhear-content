@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Sveta, you know that a certain person likes you, right?' When Nikita asks if that a certain person likes Lyova right, Lyova has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Suppose I know.' Admitting that Lyova should suppose she knows shows Sveta being honest for a change.
-- 'By the way, he is really suffering.' Admitting that he is really suffering shows Nikita being honest for a change.
-- 'And what should I do?' By wondering what she does should, Sveta presses Lyova for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I do not know, for example, drink a cup of coffee with him in an hour.' Because he does not know for example drink a cup of coffee with him in an hour, Nikita treats the matter as settled.
-- 'Well alright, it is a deal.' Admitting that alright it is a deal shows Sveta being honest for a change.
-- 'Let's rest a little.' Once they should rest a little, Lyova can finally tell Nikita what he means. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Why, I am not tired, and you are the very best coach.' Once why she is not tired and Lyova is the very best coach, Sveta can finally tell Lyova what she means.
-- 'On the other hand, I am very tired, sorry.' Adding that on the other hand he is very tired sorry fills in the missing piece for Nikita. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'Lyova, be more careful!' With the point and coffee at stake, Sveta reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'More carefully, watch where you are going!' Insisting that more carefully watch where Lyova is going shows Sveta is not backing down.
-- 'Oh, help!' Around the point and coffee, Lyova makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Listen, Sveta, you know that a certain person likes you, right?' Nikita inquires promptly on the spot, joining "slushay" ("listen") to "sveta" ("electricity") so every word pulls its weight.
+- 'Suppose I know.' Sveta favors a direct manner during the exchange, anchoring the Russian line on "dopustim" ("let's say") and "znayu" ("know") without extra filler.
+- 'By the way, he is really suffering.' Nikita brings a sharp line on the spot, combining "prochim" ("other") and "pryamo" ("right, just") so the key meaning lands right away.
+- 'And what should I do?' Sveta wonders bluntly toward Nikita here, anchoring the Russian line on "delat" ("do") and "chto" ("what") without extra filler.
+- 'I do not know, for example, drink a cup of coffee with him in an hour.' Nikita keeps a serious attitude right away, linking "znayu" ("know"), "naprimer" ("for example"), and "vypit" ("to drink") in one brisk exchange.
+- 'Well alright, it is a deal.' Sveta strikes a serious tempo in front of Nikita, linking "khorosho" ("good, fine"), "dogovorilis" ("agreed, deal"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Let's rest a little.' Lyova sets a clear rhythm for Nikita, pairing "davay" ("let's") with "nemnogo" ("a bit") to get the point across in plain spoken Russian.
+- 'Why, I am not tired, and you are the very best coach.' Sveta sets a lively angle beside Nikita, combining "ustala" ("are tired, got tired") and "samyy" ("the most") so the key meaning lands right away.
+- 'On the other hand, I am very tired, sorry.' Lyova maintains a calm course toward Nikita, anchoring the Russian line on "ochen" ("very much") and "ustal" ("am tired") without extra filler.
+- 'Lyova, be more careful!' Sveta conveys a steady mood in their talk, building the phrase around "ostorozhney" ("careful") and "lyova" ("Lyova") for a crisp, natural delivery.
+- 'More carefully, watch where you are going!' Sveta keeps a steady approach with Lyova, using "akkuratney" (from "akkuratno", "more carefully") alongside "posmotri" ("look") to shape the meaning.
+- 'Oh, help!' Lyova holds a thoughtful tack in front of Sveta, building the phrase around "pomogite" ("help") and "oy" ("oh") for a crisp, natural delivery.

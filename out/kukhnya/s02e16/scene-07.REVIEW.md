@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Это что здесь происходит? | What on earth is going on here? | #113: Это что здесь происходит | verbatim |
 | 2 | Вика | Нет, ты давай, иди в комнату. | No, go on into your room right now. | #114: Нет, ты давай, иди в комнату | verbatim |
-| 3 | Шеф | Виктор Петрович, остановитесь. | Viktor Petrovich, stop right there. | #116: Виктор Петрович, остановитесь | verbatim |
+| 3 | Вика | Виктор Петрович, остановитесь. | Viktor Petrovich, stop right there. | #116: Виктор Петрович, остановитесь | verbatim |
 | 4 | Вика | Фу ты елки, Виктор Петрович, мой… | Good grief, Viktor Petrovich, this is my... | #119: Фу ты елки, Виктор Петрович, мой | verbatim |
 | 5 | Шеф | Понятно, ты можешь не продолжать. | I get it, you do not need to finish that sentence. | #120: Понятно, ты можешь не продолжать | verbatim |
 | 6 | Вика | И что вы с ним здесь? | Wait, what are you doing here with him? | #121: И что вы с ним здесь | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth is going on here?' Wondering if what on earth is going on here shows Barinov caught off guard.
-- 'No, go on into your room right now.' Going on into Barinov's room right now is how Vika lays out the situation for Barinov. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Viktor Petrovich, stop right there.' Saying that Vika should stop right there is how Barinov sets the tone with Vika.
-- 'Good grief, Viktor Petrovich, this is my...' Vika reminds Barinov that good grief Viktor Petrovich this is before the moment passes.
-- 'I get it, you do not need to finish that sentence.' Saying that he gets it Vika does not need to finish that sentence is how Barinov sets the tone with Vika. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Wait, what are you doing here with him?' Wondering what Barinov doing here with him is is how Vika puts Barinov on the spot. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Alright, stop that right now, please.' With the moment and argument in play, Barinov keeps this short reply brisk and direct.
-- 'And besides, why are you even here?' When Vika asks if besides why are Barinov even here, Barinov has to answer fast. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'By the way, he smells like alcohol.' With the conversation and argument in play, Barinov keeps this short reply brisk and direct.
-- 'Mom, please do not even start.' Vika explains that Mom please do not even start, keeping her voice calm and direct.
-- 'Maybe you really would be better off in the army.' Realizing that maybe Vika really would be better off in the army changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Go to your room.' Here telling Barinov to go to Barinov's room sets up the next turn in their exchange.
-- 'No, did you see that?' Here checking whether Vika sees shows Barinov looking for the real truth.
+- 'What on earth is going on here?' Barinov wonders warmly without a pause, pairing "zdes" ("here") with "proiskhodit" ("is going on") to get the point across in plain spoken Russian.
+- 'No, go on into your room right now.' Vika projects a measured tone for Barinov, anchoring the Russian line on "davay" ("let's") and "idi" ("go") without extra filler.
+- 'Viktor Petrovich, stop right there.' Vika keeps a sharp note as they talk, using "ostanovites" (from "ostanovitsya", "to stop") alongside "viktor" ("Viktor") to shape the meaning.
+- 'Good grief, Viktor Petrovich, this is my...' Vika maintains a grounded posture for Barinov, combining "yelki" ("fir tree") and "fu" ("drop it") so the key meaning lands right away.
+- 'I get it, you do not need to finish that sentence.' Barinov displays a pointed posture as the scene unfolds, combining "ponyatno" ("clear") and "mozhesh" ("can") so the key meaning lands right away.
+- 'Wait, what are you doing here with him?' Vika challenges honestly from the start, joining "zdes" ("here") to "chto" ("what") so every word pulls its weight.
+- 'Alright, stop that right now, please.' Barinov presents a frank note in this beat, leaning on "prekrati" ("stop it") before closing the thought with "tak" ("so").
+- 'And besides, why are you even here?' Vika prompts promptly on the spot, anchoring the Russian line on "voobshche" ("at all") and "pochemu" ("why") without extra filler.
+- 'By the way, he smells like alcohol.' Barinov projects a frank approach during the exchange, joining "kstati" ("by the way") to "alkogolem" ("alcohol") so every word pulls its weight.
+- 'Mom, please do not even start.' Vika displays an earnest tone for Barinov, putting "mam" ("Mum") alongside "tolko" ("only") in a tight, everyday turn of phrase.
+- 'Maybe you really would be better off in the army.' Barinov chooses a playful angle right away, joining "konechno" ("of course") to "luchshe" ("better") so every word pulls its weight.
+- 'Go to your room.' Vika takes a playful line across the room, leaning on "idi" ("go") before closing the thought with "komnatu" ("the room").
+- 'No, did you see that?' Barinov presses wryly in front of Vika, using "videl" (from "videt", "saw, have seen") alongside "net" ("no") to shape the meaning.

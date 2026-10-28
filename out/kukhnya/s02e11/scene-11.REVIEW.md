@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I was thinking about our argument.' Lyova reminds Max that he was thinking about their argument before the moment passes.
-- 'I was wrong.' Because he was wrong, Max treats the matter as settled.
-- 'You were right.' Explaining that Max was right lays the cards on the table for Max.
-- 'Come on, I was the one who was wrong, you were right.' Mentioning that Lyova should come on he was the one who was wrong Lyova was right moves the talk in a new direction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I was only arguing for the sake of arguing.' Claiming that he was only arguing for the sake of arguing sounds confident, even if Max has doubts.
-- 'Galkin is more popular in Russia.' Pointing out that Galkin is more popular in Russia gives Lyova a sobering reality check.
-- 'Wait, why did you agree so quickly?' Wondering why Max agrees so quickly is how Lyova puts Max on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Did Lyova talk to you too?' Here checking whether Lyova talk to Lyova shows Max looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What? No way?' With the shift and plan hanging in the air, Lyova puts Max on the spot.
-- 'Yeah, he told you the same thing?' When Max asks if yeah he told Lyova the same thing, Lyova has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Maybe I was just testing you?' Lyova asks whether maybe he was just testing Max, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And you caved in.' Turning from the argument to the point, Max keeps the exchange moving.
-- 'I did not cave in.' Once he did not cave, Lyova can finally tell Max what he means.
+- 'Listen, I was thinking about our argument.' Lyova picks an easygoing position during the exchange, combining "slushay" ("listen") and "tut" ("here") so the key meaning lands right away.
+- 'I was wrong.' Max takes an earnest posture on the spot, using "byl" (from "byt", "was") alongside "neprav" ("wrong") to shape the meaning.
+- 'You were right.' Lyova establishes an emphatic footing at once, leaning on "prav" ("right") before closing the thought with "ty" ("you").
+- 'Come on, I was the one who was wrong, you were right.' Max adopts a thoughtful course in this beat, putting "neprav" ("wrong") alongside "prav" ("right") in a tight, everyday turn of phrase.
+- 'I was only arguing for the sake of arguing.' Lyova displays a clear tack with Max, combining "sporil" ("to argue, to dispute") and "tolko" ("only") so the key meaning lands right away.
+- 'Galkin is more popular in Russia.' Max displays a measured tone straight away, combining "populyarneye" ("popular") and "galkin" ("Galkin") so the key meaning lands right away.
+- 'Wait, why did you agree so quickly?' Lyova checks steadily without hesitation, joining "bystro" ("quickly") to "soglasilsya" ("agreed") so every word pulls its weight.
+- 'Did Lyova talk to you too?' Max queries sharply in the scene, joining "razgovarival" ("spoke, talked") to "toboy" ("you") so every word pulls its weight.
+- 'What? No way?' Lyova inquires honestly for Max's benefit, weaving "chego" ("what") together with "da" ("yes") just the way native speakers do.
+- 'Yeah, he told you the same thing?' Max asks wryly in their exchange, building the phrase around "tozhe" ("too") and "aga" ("yeah, right") for a crisp, natural delivery.
+- 'Maybe I was just testing you?' Lyova inquires directly in the room, pairing "mozhet" ("can") with "proveryal" ("to check, test") to get the point across in plain spoken Russian.
+- 'And you caved in.' Max presents a pointed tempo for Lyova, putting "sdalsya" ("to surrender") alongside "ty" ("you") in a tight, everyday turn of phrase.
+- 'I did not cave in.' Lyova presents a candid direction with Max, leaning on "sdalsya" ("to surrender") before closing the thought with "ya" ("I").

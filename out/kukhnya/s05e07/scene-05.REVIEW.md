@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Шеф | Я победил, наказал одного олигарха в покер. | I won, I beat an oligarch at poker. | #83: Я победил<br>#84: Наказал одного олигарха в покер | adapted: adapted |
 | 7 | Вика | Шеф, и много вы выиграли? | Chef, and did you win a lot? | #85: Шеф, и много вы выиграли | adapted: adapted |
 | 8 | Шеф | А вот и мой выигрыш. | And here are my winnings. | #88: А вот и мой выигрыш | adapted: adapted |
-| 9 | Гость | Говядина в коробках, свинина в тушах, забирайте. | Beef in boxes, pork in carcasses, take them. | #90: Говядина в коробках, свинина в тушах<br>#89: Забирайте | adapted: adapted |
+| 9 | Макс | Говядина в коробках, свинина в тушах, забирайте. | Beef in boxes, pork in carcasses, take them. | #90: Говядина в коробках, свинина в тушах<br>#89: Забирайте | adapted: adapted |
 | 10 | Шеф | Не понял, а деньги где? | I do not understand, where is the money? | #91: Не понял. Деньги где | adapted: adapted |
-| 11 | Гость | С деньгами сейчас туго, забирайте. | Money is tight right now, take the meat. | #92: сейчас туго<br>#93: Забирайте | adapted: adapted |
+| 11 | Макс | С деньгами сейчас туго, забирайте. | Money is tight right now, take the meat. | #92: сейчас туго<br>#93: Забирайте | adapted: adapted |
 | 12 | Вика | Шеф, да вы теперь мясной король. | Chef, you really are the meat king now. | #95: Шеф, да вы теперь мясной король | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'First of all, there was nothing between us.' Barinov tells the guest that first of all there was nothing between them without dressing it up. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Second of all, I need a cook.' Since second of all he needs a cook, Barinov does not waste words on excuses.
-- 'Third of all, I am in a great mood.' Mentioning that third of all he is in a great mood moves the talk in a new direction.
-- 'In short, he will work here.' Barinov reminds the guest that in short he will work here before the moment passes.
-- 'Chef, why are you so cheerful?' Asking why Barinov so cheerful is is how Vika puts Barinov on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'I won, I beat an oligarch at poker.' Explaining that he won he beats an oligarch at poker lays the cards on the table for the guest.
-- 'Chef, and did you win a lot?' By checking whether Barinov wins a lot, Vika presses Barinov for a straight answer. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'And here are my winnings.' Claiming that here are his winnings sounds confident, even if the guest has doubts.
-- 'Beef in boxes, pork in carcasses, take them.' Around the conversation and meat, the guest sets a calm, everyday tone with Barinov.
-- 'I do not understand, where is the money?' Over the room and the meat, Barinov presses the guest for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Money is tight right now, take the meat.' Realizing that money is tight right now take the meat changes how the guest handles the situation.
-- 'Chef, you really are the meat king now.' Noting that Barinov really are the meat king now keeps Vika's side of the story simple and clear.
+- 'First of all, there was nothing between us.' Barinov brings an unhurried line for Max, anchoring the Russian line on "vo-pervykh" ("first of all") and "bylo" ("was") without extra filler.
+- 'Second of all, I need a cook.' Barinov holds a direct line in this beat, anchoring the Russian line on "vo-vtorykh" ("second") and "nuzhen" ("is needed") without extra filler.
+- 'Third of all, I am in a great mood.' Barinov presents a frank manner across the room, using the everyday "u menya" ("by me") alongside "v-tretikh" ("thirdly, third of all") to show what belongs to the speaker.
+- 'In short, he will work here.' Barinov maintains an unhurried position in the conversation, combining "koroche" ("long story short") and "budet" ("will be") so the key meaning lands right away.
+- 'Chef, why are you so cheerful?' Vika probes directly in the room, linking "radostnyy" ("happy, joyful"), "shef" ("Chef"), and "chto" ("what") in one brisk exchange.
+- 'I won, I beat an oligarch at poker.' Barinov shares an honest angle beside Vika, putting "pobedil" ("won") alongside "nakazal" ("to punish") in a tight, everyday turn of phrase.
+- 'Chef, and did you win a lot?' Vika inquires lightly right away, leaning on "mnogo" ("a lot") before closing the thought with "vyigrali" ("won").
+- 'And here are my winnings.' Barinov maintains a grounded stance in this beat, joining "vyigrysh" ("winnings") to "vot" ("there, here") so every word pulls its weight.
+- 'Beef in boxes, pork in carcasses, take them.' Max shows a calm attitude right away, putting "govyadina" ("beef") alongside "korobkakh" ("boxes") in a tight, everyday turn of phrase.
+- 'I do not understand, where is the money?' Barinov checks naturally without hesitation, leaning on "ponyal" ("understood") before closing the thought with "dengi" ("money").
+- 'Money is tight right now, take the meat.' Max shows a frank manner with Barinov, weaving "dengami" ("the money, funding") together with "seychas" ("now") just the way native speakers do.
+- 'Chef, you really are the meat king now.' Vika shares an honest position beside Max, combining "teper" ("now") and "myasnoy" ("meat") so the key meaning lands right away.

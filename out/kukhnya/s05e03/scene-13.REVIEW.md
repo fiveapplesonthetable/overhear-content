@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is our fur seal?' Asking where their fur seal is is how Eleonora puts Mikhail on the spot.
-- 'Where is the mink? I made an arrangement with the zoo director.' Here asking where the mink is shows Eleonora looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The equipment broke down there, and the mink got sick.' Since the equipment broke down there and the mink got sick, Mikhail does not waste words on excuses.
-- 'I need cute animals at the evening.' Pointing out that she needs cute animals at the evening gives Mikhail a sobering reality check.
-- 'Many people consider snakes very cute.' Over the moment and the situation, Mikhail answers Eleonora without a second thought.
-- 'Who if not we will support nature?' Asking whether who if not they will support nature puts Eleonora right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Today we have a fur seal and a mink.' Explaining that today they have a fur seal and a mink lays the cards on the table for Eleonora.
-- 'And also our Far Eastern rat snake.' Around the conversation and work, Nagiyev sets a calm, everyday tone with Eleonora.
-- 'But unfortunately they are not with us today.' Claiming that they are not with them today sounds confident, even if Eleonora has doubts.
-- 'Neither the fur seal nor the mink made it here.' Pointing out that neither the fur seal nor the mink made it here gives Eleonora a sobering reality check.
-- 'They are simply dropping like flies.' Nagiyev explains that they are simply dropping like flies, keeping his voice calm and direct.
-- 'But we will have to chip in for the snake today.' Realizing that they will have to chip in for the snake today changes how Nagiyev handles the situation.
+- 'And where is our fur seal?' Eleonora inquires frankly without holding back, weaving "gde" ("where") together with "morskoy" ("sea, marine") just the way native speakers do.
+- 'Where is the mink? I made an arrangement with the zoo director.' Eleonora challenges frankly as the beat lands, putting "gde" ("where") alongside "norka" ("mink") in a tight, everyday turn of phrase.
+- 'The equipment broke down there, and the mink got sick.' Mikhail displays a lively rhythm in the room, anchoring the Russian line on "tam" ("there") and "oborudovaniye" ("equipment") without extra filler.
+- 'I need cute animals at the evening.' Eleonora shows a grounded manner straight away, joining "vechere" ("evening") to "nuzhny" ("needed") so every word pulls its weight.
+- 'Many people consider snakes very cute.' Mikhail maintains a thoughtful tone in the room, anchoring the Russian line on "mnogiye" ("many") and "schitayut" ("consider, think") without extra filler.
+- 'Who if not we will support nature?' Nagiyev checks firmly with Mikhail now, joining "kak" ("how") to "podderzhit" ("will support") so every word pulls its weight.
+- 'Today we have a fur seal and a mink.' Nagiyev chooses an emphatic posture with Eleonora, putting "segodnya" ("today") alongside "morskoy" ("sea, marine") in a tight, everyday turn of phrase.
+- 'And also our Far Eastern rat snake.' Nagiyev sets a warm position at once, building the phrase around "yeshchyo" ("more, still") and "dalnevostochnyy" ("Far Eastern") for a crisp, natural delivery.
+- 'But unfortunately they are not with us today.' Nagiyev holds a measured direction in this beat, linking "segodnya" ("today") directly with "sozhaleniyu" ("regret"), since Russian drops "is" and "are" in the present.
+- 'Neither the fur seal nor the mink made it here.' Nagiyev sets an emphatic posture right away, putting "kotika" ("of the fur seal") alongside "norki" ("mink") in a tight, everyday turn of phrase.
+- 'They are simply dropping like flies.' Nagiyev presents a calm attitude straight away, putting "prosto" ("just") alongside "padayut" ("to fall") in a tight, everyday turn of phrase.
+- 'But we will have to chip in for the snake today.' Nagiyev takes a sharp rhythm across the room, anchoring the Russian line on "zmeyu" ("snake") and "pridyotsya" ("you'll have to") without extra filler.

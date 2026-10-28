@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e17.ru.srt'
 INTRO = "Sitting at the grand piano, Denis improvises a funny two-part song about all of Katya's problems. First he sings her complaints in a tragic minor key, and then he flips the same facts into an upbeat major key that makes Katya burst out laughing. Let's listen to Denis's song in Russian."
 OPENER = "Let's go through the lyrics of Denis's minor-and-major song line by line."
 TRANSITION = "Now let's hear the musical scene again without interruption."
-OUTRO = "Denis's joyful song completely lifts Katya's spirits and shows her how much he cares. Notice how a contrastive conjunction introduces a bright silver lining in Russian. Until next time!"
+OUTRO = "Denis's joyful song completely lifts Katya's spirits and shows her how much he cares. Notice how a contrastive connecting word introduces a bright silver lining in Russian. Until next time!"
 CLOSING = ('denis', 'До завтра!')
 STORY = [
     ('denis', 'Мой папа безответственный чудак.', 'My dad is an irresponsible eccentric.', [(307, 'Мой папа безответственный чудак')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('katya', 'Денис, эта песня просто чудесная!', 'Denis, this song is simply wonderful!', [], 'new'),
 ]
 WALK = [
-    (0, None, "'My dad is an irresponsible eccentric.' Denis mentions that his dad is an irresponsible eccentric so Katya sees what is at stake."),
-    (1, None, "'And I have been waiting for my prince for a long time.' Mentioning that he has been waiting for his prince for a long time moves the talk in a new direction."),
-    (2, None, '\'Probably his horse fell ill.\' Pointing out that probably his horse fell ill gives Katya a sobering reality check. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.'),
-    (3, None, "'And the restaurant owner is no better than the horse.' Denis explains that the restaurant owner is no better than the horse, keeping his voice calm and direct."),
-    (4, None, "'He parties himself, yet scolds me.' With the key and kitchen in play, Denis keeps this short reply brisk and direct."),
-    (5, None, '\'But you should perceive everything like this!\' Because Katya should perceive everything like this, Denis does not bother softening the blow for Katya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (6, None, "'My dad is still full of energy!' Insisting that his dad is still full of energy shows Denis is not backing down."),
-    (7, None, '\'And soon I will have a brother!\' Once soon he will have a brother, Denis makes sure Katya hears every word. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
-    (8, None, "'There will be no prince, there will be a king instead!' Declaring that there will be no prince there will be a king instead brings Denis's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (9, None, "'The owner shouted for no reason today.' Over the key and the work, Denis answers Katya without a second thought."),
-    (10, None, '\'On the bright side, I am young and beautiful!\' Saying that on the bright side he is young and beautiful is how Denis takes charge of the moment. That little word "zato" means "on the bright side", flipping a complaint into an advantage.'),
-    (11, None, "'Denis, this song is simply wonderful!' Katya declares that this song is simply wonderful as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (0, None, '\'My dad is an irresponsible eccentric.\' Denis takes an earnest footing beside Katya, leaning on "papa" ("Dad") before closing the thought with "bezotvetstvennyy" ("irresponsible").'),
+    (1, None, '\'And I have been waiting for my prince for a long time.\' Denis adopts a pointed style during the exchange, pairing "printsa" ("prince") with "zhdu" ("I wait, expect") to get the point across in plain spoken Russian.'),
+    (2, None, '\'Probably his horse fell ill.\' Denis favors a firm manner in the scene, weaving "navernoye" ("probably") together with "kon" ("knight, horse") just the way native speakers do.'),
+    (3, None, '\'And the restaurant owner is no better than the horse.\' Denis offers a measured footing on the spot, building the phrase around "khozyain" ("owner") and "restorana" ("restaurant") for a crisp, natural delivery.'),
+    (4, None, '\'He parties himself, yet scolds me.\' Denis picks an emphatic note across the room, leaning on "gulyayet" ("walks, is walking") before closing the thought with "rugayet" ("to scold, berate").'),
+    (5, None, '\'But you should perceive everything like this!\' Denis conveys a thoughtful approach as they talk, using "dolzhna" (from "dolzhen", "should, must") alongside "vosprinimat" ("to like") to shape the meaning.'),
+    (6, None, '\'My dad is still full of energy!\' Denis chooses a natural bearing in their talk, weaving "papasha" ("daddy, pop") together with "yeshchyo" ("more, still") just the way native speakers do.'),
+    (7, None, '\'And soon I will have a brother!\' Denis sets a natural line in their talk, using the everyday "u menya" ("by me") alongside "skoro" ("soon") to show what belongs to the speaker.'),
+    (8, None, '\'There will be no prince, there will be a king instead!\' Denis shares a frank tack at this moment, pairing "printsa" ("prince") with "budet" ("will be") to get the point across in plain spoken Russian.'),
+    (9, None, '\'The owner shouted for no reason today.\' Denis sets a thoughtful course across the room, combining "khozyain" ("owner") and "segodnya" ("today") so the key meaning lands right away.'),
+    (10, None, '\'On the bright side, I am young and beautiful!\' Denis holds a firm mood on the spot, linking "yuna" ("young"), "krasiva" ("beautiful"), and "zato" ("but on the other hand") in one brisk exchange.'),
+    (11, None, '\'Denis, this song is simply wonderful!\' Katya adopts a playful attitude with Denis, linking "pesnya" ("song") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.'),
 ]

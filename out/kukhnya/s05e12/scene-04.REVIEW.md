@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Витя, это фиаско! | Vitya, this is a fiasco! | #33: Витя, это фиаско | adapted: adapted |
+| 1 | Елена | Витя, это фиаско! | Vitya, this is a fiasco! | #33: Витя, это фиаско | adapted: adapted |
 | 2 | Шеф | Держусь, тебя не поздравляю. | I am holding back, not congratulating you. | #34: Держусь, тебя не поздравляю | adapted: adapted |
 | 3 | Шеф | А ты не можешь потерпеть до вечера! | And you cannot be patient until evening! | #34: потерпеть до вечера | adapted: adapted |
 | 4 | Елена | То есть ты подготовил мне сюрприз? | So you prepared a surprise for me? | #35: То есть ты подготовил мне сюрприз | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, this is a fiasco!' Insisting that this is a fiasco shows Barinov is not backing down.
-- 'I am holding back, not congratulating you.' Realizing that he is holding back not congratulating Elena changes how Barinov handles the situation. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And you cannot be patient until evening!' Declaring that Elena cannot be patient until evening brings Barinov's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'So you prepared a surprise for me?' With the secret and truth hanging in the air, Elena puts Barinov on the spot.
-- 'Precisely, a surprise!' Over the situation and the secret, Barinov lets his real feelings show. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I simply do not believe it.' Mentioning that she simply does not believe it moves the talk in a new direction.
-- 'Usually your surprises happen by themselves.' Elena reminds Barinov that usually Barinov's surprises happen by themselves before the moment passes.
-- 'Then you simply ask forgiveness for them.' Around the truth and surprise, Elena sets a calm, everyday tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well we will see tonight!' Once they will see tonight, Barinov makes sure Elena hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Thank you very much, that is very nice.' Elena mentions that very much that is very nice so Barinov sees what is at stake.
-- 'I will call and we will celebrate.' Claiming that she will call and they will celebrate sounds confident, even if Barinov has doubts.
-- 'Until evening, darling!' With the shift and surprise at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Vitya, this is a fiasco!' Elena picks an unhurried position across the room, joining "fiasko" ("fiasco") to "vitya" ("Vitya") so every word pulls its weight.
+- 'I am holding back, not congratulating you.' Barinov projects a sharp angle in their talk, combining "derzhus" ("hold back") and "pozdravlyayu" ("congratulations") so the key meaning lands right away.
+- 'And you cannot be patient until evening!' Barinov shares a lively tempo on the spot, pairing "mozhesh" ("can") with "poterpet" ("to be patient") to get the point across in plain spoken Russian.
+- 'So you prepared a surprise for me?' Elena challenges wryly with Barinov now, using "yest" (from "byt", "there is") alongside "podgotovil" ("prepared") to shape the meaning.
+- 'Precisely, a surprise!' Barinov displays a wry approach straight away, weaving "syurpriz" ("surprise") together with "vot" ("there, here") just the way native speakers do.
+- 'I simply do not believe it.' Elena favors an easygoing tone in the room, joining "prosto" ("just") to "veryu" ("believe") so every word pulls its weight.
+- 'Usually your surprises happen by themselves.' Elena adopts a serious tone toward Barinov, pairing "sluchayutsya" ("happen, occur") with "obychno" ("usually") so the "-sya" ending carries the action.
+- 'Then you simply ask forgiveness for them.' Elena projects a thoughtful manner right away, building the phrase around "potom" ("then") and "prosto" ("just") for a crisp, natural delivery.
+- 'Well we will see tonight!' Barinov shows a direct footing for Elena, building the phrase around "uvidim" ("to see") and "vecherom" ("in the evening") for a crisp, natural delivery.
+- 'Thank you very much, that is very nice.' Elena takes an honest style across the room, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
+- 'I will call and we will celebrate.' Elena adopts a resolute tone for Barinov, combining "pozvonyu" ("will call") and "otmetim" ("to celebrate") so the key meaning lands right away.
+- 'Until evening, darling!' Barinov sustains a natural rhythm in their talk, joining "vechera" ("evening") to "lyubimaya" ("favourite, beloved") so every word pulls its weight.

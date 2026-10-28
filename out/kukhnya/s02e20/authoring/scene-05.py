@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire scene again without interruption."
 OUTRO = 'That wraps up this scene as when Chef Barinov tries to throw Max out of the kitchen again, Max passionately explains that he only wants to work at Claude Monet to learn from the best chef in Moscow. Until next time!'
 CLOSING = ('senya', 'Увидимся!')
 STORY = [
-    ('barinov', 'Шеф, не надо так.', 'Chef, please do not be like that.', [(78, 'Шеф, не надо так')], ''),
+    ('senya', 'Шеф, не надо так.', 'Chef, please do not be like that.', [(78, 'Шеф, не надо так')], ''),
     ('senya', 'Шел отсюда!', 'Get the hell out of here!', [(79, 'Шел отсюда')], ''),
     ('barinov', 'Уйдет вместе с ним.', 'Anyone who defends him will leave right along with him.', [(80, 'уйдет вместе с ним')], ''),
     ('senya', 'Можешь работать?', 'Can you let me work?', [(81, 'Можешь работать')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Я хочу хоть чему-то у него научиться.', 'I want to learn at least something from him.', [(94, 'Я хочу хоть чему-то у него научиться')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, please do not be like that.\' Since do not be like, Barinov does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (1, None, "'Get the hell out of here!' By getting the hell out of here, Senya raises the stakes in the room at once. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (2, None, "'Anyone who defends him will leave right along with him.' Barinov reminds Senya that anyone who defends him will leave right along with him before the moment passes."),
-    (3, None, '\'Can you let me work?\' By checking whether Barinov lets him work, Senya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (4, None, '\'Why are you doing all of this?\' Asking why Senya doing all of this is cuts straight through the tension between Barinov and Senya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (5, None, "'What is all of this?' Wondering what all of this is is how Senya puts Barinov on the spot."),
-    (6, None, '\'What is the point of all this?\' Here wondering what the point of all this is shows Barinov looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (7, None, "'Because I want to work right here.' Pointing out that because he wants to work right here gives Barinov a sobering reality check."),
-    (8, None, "'This is Moscow, there are thousands of restaurants here.' Barinov explains that this is Moscow there are thousands of restaurants here, keeping his voice calm and direct."),
-    (9, None, "'I want to work specifically in this one.' Wanting to work specifically in this one is how Senya lays out the situation for Barinov."),
-    (10, None, '\'Because this is the finest restaurant in the city.\' Noting that because this is the finest restaurant in the city keeps Barinov\'s side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (11, None, "'A chef like ours is nearly impossible to find.' Even though a like their is nearly impossible to find, Senya keeps a steady face in front of Barinov."),
-    (12, None, '\'I want to learn at least something from him.\' Claiming that he wants to learn at least something from him sounds confident, even if Senya has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.'),
+    (0, None, '\'Chef, please do not be like that.\' Senya strikes an earnest bearing as the scene unfolds, anchoring the Russian line on "nado" ("it is necessary") and "shef" ("Chef") without extra filler.'),
+    (1, None, '\'Get the hell out of here!\' Senya displays a pointed course as the scene unfolds, joining "shel" ("go, walk") to "otsyuda" ("from here") so every word pulls its weight.'),
+    (2, None, '\'Anyone who defends him will leave right along with him.\' Barinov keeps a playful position beside Senya, joining "uydet" ("will leave") to "vmeste" ("together") so every word pulls its weight.'),
+    (3, None, '\'Can you let me work?\' Senya probes promptly for Barinov\'s benefit, joining "mozhesh" ("can") to "rabotat" ("to work") so every word pulls its weight.'),
+    (4, None, '\'Why are you doing all of this?\' Barinov challenges evenly without hesitation, joining "zachem" ("what for") to "vse" ("all") so every word pulls its weight.'),
+    (5, None, '\'What is all of this?\' Senya prompts firmly to Barinov here, placing "chto" ("what") straight beside "eto" ("this") with no word for "to be" needed.'),
+    (6, None, '\'What is the point of all this?\' Barinov probes bluntly as the beat lands, combining "dlya" ("for") and "chego" ("what") so the key meaning lands right away.'),
+    (7, None, '\'Because I want to work right here.\' Senya chooses an earnest posture in the room, building the phrase around "potomu" ("because") and "khochu" ("want") for a crisp, natural delivery.'),
+    (8, None, '\'This is Moscow, there are thousands of restaurants here.\' Barinov favors an earnest posture as they talk, weaving "zdes" ("here") together with "tysyachi" ("thousands") just the way native speakers do.'),
+    (9, None, '\'I want to work specifically in this one.\' Senya adopts a serious stance without hesitation, pairing "khochu" ("want") with "rabotat" ("to work") to get the point across in plain spoken Russian.'),
+    (10, None, '\'Because this is the finest restaurant in the city.\' Barinov keeps a serious angle in the conversation, joining "potomu" ("because") to "luchshiy" ("best") so every word pulls its weight.'),
+    (11, None, '\'A chef like ours is nearly impossible to find.\' Senya shares a direct position at this moment, pairing "kak" ("how") with "nado" ("it is necessary") to get the point across in plain spoken Russian.'),
+    (12, None, '\'I want to learn at least something from him.\' Barinov conveys a sharp note as they talk, putting "khochu" ("want") alongside "nauchitsya" ("to learn") in a tight, everyday turn of phrase.'),
 ]

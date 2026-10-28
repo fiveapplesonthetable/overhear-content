@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can tolerate anything, anything!' Insisting that he can tolerate anything anything shows the guest is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'But I will not eat a competitor's sausage!' Once he will not eat a competitor sausage, the guest makes sure Kostya hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'It is tasty sausage, I always buy it.' Kostya mentions that it is tasty sausage he always buys it so the guest sees what is at stake.
-- 'Why, there is nothing but chemicals in there!' The guest insists that why there is nothing but chemicals in there, leaving Kostya no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I will show you normal sausage right now.' Explaining that he will show Kostya normal sausage right now lays the cards on the table for Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Here, look, pure meat!' Around the point and kitchen, the guest makes his point loud and clear.
-- 'They are tasty and cheap.' Realizing that they are tasty and cheap changes how Kostya handles the situation.
-- 'I will fill the whole apartment with my sausage!' Insisting that he will fill the whole apartment with his sausage shows the guest is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I do not need your sausage or this apartment!' Once he does not need the guest's sausage or this apartment, Kostya makes sure the guest hears every word.
-- 'Enough arguing!' Over the truth and the argument, Nastya lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Is it really so hard to break your principles just once?' By checking whether it really so hard to break the guest's principles just once, Nastya presses the guest for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'After all, everyone will be better off from this!' Saying that after all everyone will be better off from this is how Nastya takes charge of the moment.
+- 'I can tolerate anything, anything!' The guest favors a grounded course in the conversation, building the phrase around "mogu" ("can") and "sterpet" ("to endure, tolerate") for a crisp, natural delivery.
+- 'But I will not eat a competitor's sausage!' The guest displays a candid position in the scene, combining "kolbasu" ("sausage") and "konkurenta" ("competitor") so the key meaning lands right away.
+- 'It is tasty sausage, I always buy it.' Kostya maintains a resolute view straight away, pairing "vkusnaya" ("tasty") with "kolbasa" ("sausage") to get the point across in plain spoken Russian.
+- 'Why, there is nothing but chemicals in there!' The guest brings a direct angle without hesitation, joining "tam" ("there") to "khimiya" ("chemicals, chemistry") so every word pulls its weight.
+- 'I will show you normal sausage right now.' The guest favors a grounded style during the exchange, building the phrase around "seychas" ("now") and "normalnuyu" ("proper, normal") for a crisp, natural delivery.
+- 'Here, look, pure meat!' The guest holds a grounded tempo in the room, joining "smotri" ("look") to "myaso" ("meat") so every word pulls its weight.
+- 'They are tasty and cheap.' Kostya adopts a natural posture for the guest, anchoring the Russian line on "vkusnyye" ("tasty, delicious") and "deshevyye" ("cheap") without extra filler.
+- 'I will fill the whole apartment with my sausage!' The guest maintains a lively direction in their talk, pairing "kvartiru" ("flat") with "kolbasoy" ("sausage") to get the point across in plain spoken Russian.
+- 'I do not need your sausage or this apartment!' Kostya holds a serious stance in their talk, building the phrase around "nado" ("it is necessary") and "kolbasy" ("sausage") for a crisp, natural delivery.
+- 'Enough arguing!' Nastya keeps a frank posture for Kostya, anchoring the Russian line on "khvatit" ("enough") and "sporit" ("to argue") without extra filler.
+- 'Is it really so hard to break your principles just once?' Nastya prompts briskly with the guest now, combining "slozhno" ("difficult") and "raz" ("time, once") so the key meaning lands right away.
+- 'After all, everyone will be better off from this!' Nastya adopts a firm manner as the scene unfolds, combining "budet" ("will be") and "luchshe" ("better") so the key meaning lands right away.

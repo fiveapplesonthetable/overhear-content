@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e17.ru.srt'
 INTRO = "As soon as his date steps away to powder her nose, a jealous Nagiyev corners Denis and orders him to vanish into the kitchen. Unfortunately, Katya's friend Lilya walks right up to ask for a photo with Nagiyev and his 'head chef', blowing Katya's cover completely. Let's listen to the awkward exposure in Russian."
 OPENER = "Let's examine how Nagiyev exposes Denis and Katya's charade line by line."
 TRANSITION = "Now let's hear the entire dining room confrontation again without interruption."
-OUTRO = "Lilya immediately realizes that Denis is neither the head chef nor Katya's real fiancé, leaving Katya mortified. Listen for the reflexive infinitive meaning to take a picture together. See you next time!"
+OUTRO = "Lilya immediately realizes that Denis is neither the head chef nor Katya's real fiancé, leaving Katya mortified. Listen for the self-directed base form meaning to take a picture together. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Ты зачем надел форму шеф-повара?', "Why did you put on the head chef's uniform?", [(268, 'Шеф-повар, да')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('katya', 'Он такой же муж, как шеф-повар.', 'He is as much a husband as he is a head chef.', [(282, 'Я так понимаю, муж, он такой же, как и шеф-повар, да')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Why did you put on the head chef's uniform?' Wondering why Denis puts on the head uniform cuts straight through the tension between Nagiyev and Denis."),
-    (1, None, "'Go to the kitchen quickly right now!' Because Denis should go to the kitchen quickly right now, Nagiyev does not bother softening the blow for Denis. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (2, None, '\'So that I do not see you in here!\' Because that he does not see Denis in here, Nagiyev does not bother softening the blow for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (3, None, "'Otherwise you will be begging for alms at the station.' Nagiyev explains that otherwise Denis will be begging for alms at the station, keeping his voice calm and direct."),
-    (4, None, "'Dmitry Vladimirovich, may we take a photo with you?' Katya asks whether may they take a photo with Denis, refusing to let the point slide. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (5, None, '\'Of course, my dear, let\'s make it quick.\' Noting that his dear let them make it quick keeps Nagiyev\'s side of the story simple and clear. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (6, None, "'We wanted a photo together with your head chef.' Even though they wanted a photo together with Denis's head, Katya keeps a steady face in front of Denis."),
-    (7, None, "'When a real head chef appears, then we will take a photo.' Admitting that when a real head appears then they will take a photo shows Nagiyev being honest for a change."),
-    (8, None, '\'Why are ordinary cooks walking around the dining room?\' Wondering why ordinary cooks walking around the dining room are cuts straight through the tension between Nagiyev and Denis. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (9, None, "'And in someone else's uniform, no less!' With the kitchen and date at stake, Nagiyev reacts without holding back."),
-    (10, None, "'Katya, I am truly very sorry.' Since he is truly very sorry, Denis does not waste words on excuses."),
-    (11, None, "'He is as much a husband as he is a head chef.' Saying that he is as much a husband as he is a head is how Katya sets the tone with Denis."),
+    (0, None, '\'Why did you put on the head chef\'s uniform?\' Nagiyev questions openly during the talk, pairing "zachem" ("what for") with "nadel" ("put on") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Go to the kitchen quickly right now!\' Nagiyev establishes a measured line as the scene unfolds, anchoring the Russian line on "bystro" ("quickly") and "idi" ("go") without extra filler.'),
+    (2, None, '\'So that I do not see you in here!\' Nagiyev holds an unhurried note toward Denis, putting "zdes" ("here") alongside "videl" ("saw, have seen") in a tight, everyday turn of phrase.'),
+    (3, None, '\'Otherwise you will be begging for alms at the station.\' Nagiyev keeps a clear angle in the conversation, pairing "inache" ("otherwise") with "budesh" ("will") to get the point across in plain spoken Russian.'),
+    (4, None, '\'Dmitry Vladimirovich, may we take a photo with you?\' Katya asks plainly beside Denis, joining "mozhno" ("may, can") to "sfotografirovatsya" ("to take a photo together") so every word pulls its weight.'),
+    (5, None, '\'Of course, my dear, let\'s make it quick.\' Nagiyev favors an honest view in the room, linking "konechno" ("of course"), "khoroshaya" ("good"), and "davay" ("let\'s") in one brisk exchange.'),
+    (6, None, '\'We wanted a photo together with your head chef.\' Katya establishes a calm view during the exchange, putting "khoteli" ("wanted") alongside "vmeste" ("together") in a tight, everyday turn of phrase.'),
+    (7, None, '\'When a real head chef appears, then we will take a photo.\' Nagiyev shares a thoughtful note in the room, pairing "kogda" ("when") with "poyavitsya" ("shows up, appears") to get the point across in plain spoken Russian.'),
+    (8, None, '\'Why are ordinary cooks walking around the dining room?\' Nagiyev prompts decisively for Denis\'s benefit, combining "pochemu" ("why") and "prostyye" ("simple, ordinary") so the key meaning lands right away.'),
+    (9, None, '\'And in someone else\'s uniform, no less!\' Nagiyev presents a playful manner in front of Katya, anchoring the Russian line on "yeshchyo" ("more, still") and "chuzhoy" ("someone else\'s") without extra filler.'),
+    (10, None, '\'Katya, I am truly very sorry.\' Denis takes an honest attitude at this moment, anchoring the Russian line on "pravda" ("honestly") and "ochen" ("very much") without extra filler.'),
+    (11, None, '\'He is as much a husband as he is a head chef.\' Katya shows a measured tempo without hesitation, pairing "muzh" ("husband") with "kak" ("how") to get the point across in plain spoken Russian.'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, why do I need this tenderloin?' By asking why he needs this tenderloin, Max presses Louis for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That is the chef's special—beef tenderloin medallion.' Because that is the special beef tenderloin medallion, Lyova treats the matter as settled.
-- 'Lyova, today I am the head chef here.' Explaining that today he is the head here lays the cards on the table for Louis.
-- 'And I am going to cook my own signature dish.' Here being going to cook his own signature dish sets up the next turn in their exchange.
-- 'Right, what dish is that, your pâté?' Lyova asks whether right what dish is, refusing to let the point slide.
-- 'At least they recently added it to our menu.' With the guest and shift in play, Max keeps this short reply brisk and direct. That little word "zato" means "on the bright side", flipping a complaint into an advantage.
-- 'And what dish of yours did they add to the menu?' Wondering if what dish of Louis's did they add to the menu shows Max caught off guard. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Fine, cook whatever you want yourself.' Realizing that fine cook whatever Louis wants themselves changes how Lyova handles the situation.
-- 'Oh, look at what is written on this page.' Noting that at what is written on this page keeps Louis's side of the story simple and clear.
-- 'The name of our restaurant and today's date are here.' Even though the name of their restaurant and today date are here, Louis keeps a steady face in front of Lyova.
-- 'Louis, can you quickly translate the text?' Asking whether Louis quickly translate the text is how Lyova puts Louis on the spot.
-- 'I will read it now, there are very interesting notes here.' Saying that he will read it now there are very interesting notes here is how Louis sets the tone with Lyova.
+- 'Lyova, why do I need this tenderloin?' Max wonders honestly right away, anchoring the Russian line on "zachem" ("what for") and "vyrezka" ("tenderloin") without extra filler.
+- 'That is the chef's special—beef tenderloin medallion.' Lyova presents a serious view at this moment, putting "blyudo" ("dish") alongside "shefa" ("chef") in a tight, everyday turn of phrase.
+- 'Lyova, today I am the head chef here.' Max takes a warm footing for Louis, leaning on "segodnya" ("today") before closing the thought with "zdes" ("here").
+- 'And I am going to cook my own signature dish.' Max holds an unhurried angle during the exchange, joining "budu" ("will be") to "gotovit" ("to cook") so every word pulls its weight.
+- 'Right, what dish is that, your pâté?' Lyova asks boldly to Louis here, joining "yeshchyo" ("more, still") to "blyudo" ("dish") so every word pulls its weight.
+- 'At least they recently added it to our menu.' Max holds a steady tack in the scene, joining "nedavno" ("returned") to "dobavili" ("to add") so every word pulls its weight.
+- 'And what dish of yours did they add to the menu?' Max quizzes calmly as they speak, pairing "menyu" ("menu") with "dobavili" ("to add") to get the point across in plain spoken Russian.
+- 'Fine, cook whatever you want yourself.' Lyova shows a serious style in front of Max, combining "gotov" ("prepare") and "khochesh" ("do you want") so the key meaning lands right away.
+- 'Oh, look at what is written on this page.' Louis picks a grounded tone as the scene unfolds, leaning on "smotrite" ("look") before closing the thought with "napisano" ("is written").
+- 'The name of our restaurant and today's date are here.' Louis holds an honest approach in front of Max, linking "tut" ("here"), "stoit" ("is parked"), and "nazvaniye" ("name, title") in one brisk exchange.
+- 'Louis, can you quickly translate the text?' Lyova asks bluntly without a pause, leaning on "mozhesh" ("can") before closing the thought with "bystro" ("quickly").
+- 'I will read it now, there are very interesting notes here.' Louis sets a direct attitude in the scene, combining "seychas" ("now") and "prochitayu" ("to read") so the key meaning lands right away.

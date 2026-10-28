@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what does it say?' By asking what it say, Max presses the doctor for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Only one line again.' Between the visit and the moment, Vika gives the doctor a quick, grounded response.
-- 'Phew, thank goodness.' With the visit and point in play, Max keeps this short reply brisk and direct.
-- 'Oops, sorry, out of habit.' Around the visit and truth, Max sets a calm, everyday tone with the doctor.
-- 'Nothing terrible. Judging by the tests, you are healthy.' Noting that judging by the tests Max is healthy keeps the doctor's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Over the next two days I advise you to work really hard.' Even though over the next two days he advises Max to work really hard, the doctor keeps a steady face in front of Max.
-- 'Excuse me, and how often should we try?' Asking whether how often should they try puts the doctor right on the defensive. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, that depends on you.' Around the kitchen and conversation, the doctor sets a calm, everyday tone with Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Some people can manage seven times.' Once some people can manage seven times, the doctor can finally tell Max what he means.
-- 'Well, seven it is then.' Adding that seven it is then fills in the missing piece for the doctor.
-- 'Seven times?' Over the visit and the point, Max presses the doctor for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I mean over the course of two days.' Admitting that he means over the course of two days shows the doctor being honest for a change.
+- 'Well, what does it say?' Max presses calmly beside the doctor, putting "tam" ("there") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
+- 'Only one line again.' Vika projects an emphatic rhythm straight away, joining "opyat" ("again") to "odna" ("one") so every word pulls its weight.
+- 'Phew, thank goodness.' Max establishes an easygoing view straight away, putting "slava" ("glory") alongside "bogu" ("to God") in a tight, everyday turn of phrase.
+- 'Oops, sorry, out of habit.' Max takes a grounded view in the room, linking "izvini" ("sorry, excuse me"), "privychke" ("habit"), and "oy" ("oh") in one brisk exchange.
+- 'Nothing terrible. Judging by the tests, you are healthy.' The doctor adopts a warm style without hesitation, weaving "strashnogo" ("terrible, serious") together with "sudya" ("judging") just the way native speakers do.
+- 'Over the next two days I advise you to work really hard.' The doctor sets an earnest tack as the scene unfolds, joining "blizhayshiye" ("next, coming") to "dnya" ("day") so every word pulls its weight.
+- 'Excuse me, and how often should we try?' Vika checks boldly to keep things clear, linking "izvinite" ("sorry, excuse me"), "kak" ("how"), and "chasto" ("often") in one brisk exchange.
+- 'Well, that depends on you.' The doctor sets a firm attitude in the scene, building the phrase around "uzhe" ("already, now") and "zavisit" ("depends") for a crisp, natural delivery.
+- 'Some people can manage seven times.' The doctor favors a grounded direction with Max, joining "mozhet" ("can") to "raz" ("time, once") so every word pulls its weight.
+- 'Well, seven it is then.' Vika shows a measured note as the scene unfolds, anchoring the Russian line on "sem" ("seven") and "nu" ("oh, come on") without extra filler.
+- 'Seven times?' Max asks pointedly without holding back, letting the single Russian word "sem" ("seven") carry the entire reaction on its own.
+- 'I mean over the course of two days.' The doctor offers an unhurried view on the spot, using "imeyetsya" (from "imetsya", "is available") alongside "vidu" ("view, mind") to shape the meaning.

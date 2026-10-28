@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe I should take off my pants too?' Senya asks whether maybe he should take off his pants, refusing to let the point slide.
-- 'Alright, work calmly.' With the plan and secret in play, Fedya keeps this short reply brisk and direct.
-- 'Where did you put the meat?' Here wondering where Senya puts the meat shows Fedya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'The meat is right here.' Since the meat is right here, Senya does not waste words on excuses.
-- 'I made a through pocket.' Mentioning that he made a through pocket moves the talk in a new direction.
-- 'And it falls straight down.' Senya reminds Fedya that it falls straight down before the moment passes.
-- 'Yes indeed, simply unbelievable!' With the shift and meat at stake, Fedya reacts without holding back.
-- 'You have not seen my device yet.' Explaining that Fedya has not seen his device yet lays the cards on the table for Fedya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'This is a device for oil.' Senya mentions that this is a device for oil so Fedya sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Did you tie a bottle to your leg?' Checking whether Senya tie a bottle to Senya's leg is how Fedya puts Senya on the spot.
-- 'Listen, this is an indispensable thing.' Pointing out that this is an indispensable thing gives Fedya a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Yes, so do not mix it up.' Fedya explains that do not mix it up, keeping his voice calm and direct. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Maybe I should take off my pants too?' Senya prompts openly without a pause, combining "mozhet" ("can") and "yeshchyo" ("more, still") so the key meaning lands right away.
+- 'Alright, work calmly.' Fedya offers a sharp tempo across the room, linking "spokoyno" ("calmly"), "rabotayte" ("work"), and "ladno" ("all right") in one brisk exchange.
+- 'Where did you put the meat?' Fedya questions boldly from the start, combining "kuda" ("where to") and "myaso" ("meat") so the key meaning lands right away.
+- 'The meat is right here.' Senya brings a lively rhythm as they talk, leaning on "myaso" ("meat") before closing the thought with "lezhit" ("is lying").
+- 'I made a through pocket.' Senya favors an honest approach toward Fedya, linking "sdelal" ("did"), "sploshnoy" ("continuous"), and "karman" ("pocket") in one brisk exchange.
+- 'And it falls straight down.' Senya adopts a lively attitude with Fedya, anchoring the Russian line on "padayet" ("falls") and "pryamo" ("right, just") without extra filler.
+- 'Yes indeed, simply unbelievable!' Fedya shares a measured note on the spot, anchoring the Russian line on "prosto" ("just") and "neveroyatno" ("incredibly") without extra filler.
+- 'You have not seen my device yet.' Senya maintains a sharp rhythm as the scene unfolds, combining "yeshchyo" ("more, still") and "ustroystvo" ("device") so the key meaning lands right away.
+- 'This is a device for oil.' Senya shares an emphatic position with Fedya, weaving "ustroystvo" ("device") together with "masla" ("butter, oil") just the way native speakers do.
+- 'Did you tie a bottle to your leg?' Fedya queries wryly in the scene, putting "butylku" ("a bottle") alongside "noge" ("leg, foot") in a tight, everyday turn of phrase.
+- 'Listen, this is an indispensable thing.' Senya brings a clear rhythm in the room, leaning on "slushay" ("listen") before closing the thought with "nezamenimaya" ("indispensable").
+- 'Yes, so do not mix it up.' Fedya sets an honest angle at this moment, putting "pereputay" ("mix up") alongside "da" ("yes") in a tight, everyday turn of phrase.

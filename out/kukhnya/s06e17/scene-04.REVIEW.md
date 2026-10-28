@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After you, it is very close by.' Adding that after Barinov it is very close fills in the missing piece for Barinov.
-- 'You broke the dream of my life.' Over the plan and the inspector, Barinov answers Fedya without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What kind of report will he write now?' Asking whether what kind of report will he write now puts Fedya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Viktor Petrovich, maybe it will blow over?' Senya asks whether maybe it will blow, refusing to let the point slide.
-- 'We will feed him deliciously later.' Saying that they will feed him deliciously later is how Senya sets the tone with Barinov.
-- 'Name me at least one reason.' With the room and inspector in play, Fedya keeps this short reply brisk and direct.
-- 'I locked him in the refrigerator.' Over the room and the inspector, Fedya answers Barinov without a second thought.
-- 'Why did you do that just now?' By wondering why Fedya does that just now, Barinov presses Fedya for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You hinted at it to me yourself.' Around the room and inspector, Fedya sets a calm, everyday tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'If we let him go, he will create problems.' Pointing out that if they let him go he will create problems gives Barinov a sobering reality check.
-- 'And right now he will not create any?' Wondering if right now he will not create any shows Barinov caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Now we will think of something, Chef.' Realizing that they will think of something changes how Fedya handles the situation.
+- 'After you, it is very close by.' Fedya shows a wry manner in front of Barinov, building the phrase around "proshu" ("beg, ask") and "zdes" ("here") for a crisp, natural delivery.
+- 'You broke the dream of my life.' Barinov adopts a steady tone in their talk, combining "slomali" ("broke") and "mechtu" ("dream") so the key meaning lands right away.
+- 'What kind of report will he write now?' Barinov queries warmly from the start, putting "otchyot" ("report, account") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Viktor Petrovich, maybe it will blow over?' Senya quizzes boldly during the talk, putting "mozhet" ("can") alongside "oboydyotsya" ("will do") in a tight, everyday turn of phrase.
+- 'We will feed him deliciously later.' Senya picks a wry rhythm in the scene, building the phrase around "potom" ("then") and "vkusno" ("it's tasty") for a crisp, natural delivery.
+- 'Name me at least one reason.' Fedya shows a direct style in this beat, joining "nazovi" ("name") to "prichinu" ("an excuse, a reason") so every word pulls its weight.
+- 'I locked him in the refrigerator.' Fedya strikes a thoughtful stance in the scene, building the phrase around "zaper" ("locked in") and "kholodilnike" ("fridge") for a crisp, natural delivery.
+- 'Why did you do that just now?' Barinov quizzes dryly toward Senya here, leaning on "zachem" ("what for") before closing the thought with "seychas" ("now").
+- 'You hinted at it to me yourself.' Fedya shares a serious rhythm on the spot, combining "namekali" ("to hint, imply") and "vy" ("you") so the key meaning lands right away.
+- 'If we let him go, he will create problems.' Fedya keeps a lively position in front of Senya, weaving "otpustim" ("to let go, to release") together with "sozdast" ("to create, establish") just the way native speakers do.
+- 'And right now he will not create any?' Barinov inquires decisively beside Fedya, linking "seychas" ("now"), "sozdast" ("to create, establish"), and "on" ("he") in one brisk exchange.
+- 'Now we will think of something, Chef.' Fedya presents a direct angle at once, putting "seychas" ("now") alongside "pridumayem" ("to think up") in a tight, everyday turn of phrase.

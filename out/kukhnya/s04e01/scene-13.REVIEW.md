@@ -21,19 +21,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Вика | Вот теперь снято. Отлично. | Now it is filmed. Excellent. | #170: Вот теперь снято. Отлично. | verbatim |
 | 10 | Шеф | Спасибо. Огромное спасибо. | Thank you. Thank you very much. | #172: Спасибо. Огромное спасибо. | verbatim |
 | 11 | Вика | Там Дмитрий Владимирович пришёл. | Dmitry Vladimirovich has just arrived. | #174: Там Дмитрий Владимирович пришел. | verbatim |
-| 12 | Вика | Сказал, что продюсер на месте, можешь подавать блюда. | He said the producer is at his table and you can serve the dishes. | #175: Сказал, что продюсер на месте, можешь подавать блюда. | verbatim |
+| 12 | Нагиев | Сказал, что продюсер на месте, можешь подавать блюда. | He said the producer is at his table and you can serve the dishes. | #175: Сказал, что продюсер на месте, можешь подавать блюда. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, aren't you at a shoot today?' By asking whether not Barinov at a shoot today, Vika presses Barinov for a straight answer.
-- 'Thank goodness, it was canceled.' Thanking goodness it was canceled is how Nagiyev lays out the situation for Barinov.
-- 'Is Vitya in his kitchen?' Asking whether Vitya in his kitchen is how Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, he was there.' Explaining that he was there lays the cards on the table for Barinov.
-- 'Go tell him that my producer is already here.' Here telling Barinov to go tell him that his producer is already here sets up the next turn in their exchange.
-- 'Let him bring out his cooking.' Since Barinov should let him bring out his cooking, Nagiyev does not waste words on excuses.
-- 'Enjoy your meal.' By telling Nagiyev to enjoy Nagiyev's meal, Barinov keeps his side of the story grounded.
-- 'Stop right there!' Stopping right there shows Vika is done holding back. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Now it is filmed. Excellent.' Realizing that it is filmed changes how Vika handles the situation.
-- 'Thank you. Thank you very much.' Over the work and the point, Barinov answers Nagiyev without a second thought.
-- 'Dmitry Vladimirovich has just arrived.' Even though Dmitry Vladimirovich has just arrived, Vika keeps a steady face in front of Barinov.
-- 'He said the producer is at his table and you can serve the dishes.' Admitting that he said the producer is at his table and Barinov can serve the dishes shows Vika being honest for a change.
+- 'Dmitry Vladimirovich, aren't you at a shoot today?' Vika probes directly in the room, joining "segodnya" ("today") to "syomkakh" ("day") so every word pulls its weight.
+- 'Thank goodness, it was canceled.' Nagiyev adopts a natural rhythm in front of Vika, pairing "slava" ("glory") with "bogu" ("to God") to get the point across in plain spoken Russian.
+- 'Is Vitya in his kitchen?' Nagiyev challenges honestly as the beat lands, leaning on "vitya" ("Vitya") before closing the thought with "sebya" ("myself").
+- 'Yes, he was there.' Vika picks a natural approach for Nagiyev, leaning on "byl" ("was") before closing the thought with "da" ("yes").
+- 'Go tell him that my producer is already here.' Nagiyev shares an honest attitude at this moment, pairing "idi" ("go") with "skazhi" ("say") to get the point across in plain spoken Russian.
+- 'Let him bring out his cooking.' Nagiyev takes a serious line during the exchange, building the phrase around "stryapnyu" ("out") and "nesyot" ("to carry, to bring") for a crisp, natural delivery.
+- 'Enjoy your meal.' Barinov establishes a firm footing as they talk, leaning on "priyatnogo" ("pleasant") before closing the thought with "appetita" ("appetite").
+- 'Stop right there!' Vika sustains a wry bearing for Nagiyev, letting the single Russian word "stop" ("stop, cut") carry the entire reaction on its own.
+- 'Now it is filmed. Excellent.' Vika brings a resolute footing in this beat, anchoring the Russian line on "teper" ("now") and "snyato" ("filmed, that's a wrap") without extra filler.
+- 'Thank you. Thank you very much.' Barinov sets a frank bearing with Vika, joining "spasibo" ("thank you") to "ogromnoye" ("huge, so very much") so every word pulls its weight.
+- 'Dmitry Vladimirovich has just arrived.' Vika chooses a thoughtful attitude in the scene, joining "tam" ("there") to "prishyol" ("came, have come") so every word pulls its weight.
+- 'He said the producer is at his table and you can serve the dishes.' Nagiyev keeps a pointed manner straight away, joining "skazal" ("said") to "prodyuser" ("producer") so every word pulls its weight.

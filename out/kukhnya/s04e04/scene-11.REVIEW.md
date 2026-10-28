@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, you only peeled two sacks.' Between the truth and the conversation, German gives Denis a quick, grounded response. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well yes, just as you said.' Pointing out that just as German said gives German a sobering reality check. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You probably did not listen to the end.' German explains that Denis probably did not listen to the end, keeping his voice calm and direct.
-- 'After all, I said not two, but twenty.' Realizing that after all he said not two but twenty changes how German handles the situation.
-- 'You probably missed the zero.' Over the truth and the plan, German answers Denis without a second thought. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'What, twenty more sacks?' Around the truth and conversation, Denis wants to know where German really stands.
-- 'No, of course not twenty. Eighteen.' With the plan and conversation in play, German keeps this short reply brisk and direct.
-- 'After all, you already peeled two.' Around the plan and kitchen, German sets a calm, everyday tone with Denis. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Alright. I am giving you one more day.' Saying that he is giving Denis one more day is how German sets the tone with Denis.
-- 'It is foolish to peel twenty sacks of potatoes. What for?' Wondering if it is foolish to peel twenty sacks of potatoes shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It is foolish to stand up for a person.' Noting that it is foolish to stand up for a person keeps German's side of the story simple and clear.
-- 'who makes a flute out of a carrot.' Since who makes a flute out of a carrot, German does not waste words on excuses.
+- 'Wait, you only peeled two sacks.' German establishes a frank manner on the spot, combining "pochistili" ("to carrots") and "tolko" ("only") so the key meaning lands right away.
+- 'Well yes, just as you said.' Denis brings a frank line in front of Max, joining "kak" ("how") to "skazali" ("told") so every word pulls its weight.
+- 'You probably did not listen to the end.' German brings an unhurried view in the scene, putting "navernoye" ("probably") alongside "doslushali" ("to end") in a tight, everyday turn of phrase.
+- 'After all, I said not two, but twenty.' German presents a playful position during the exchange, putting "skazal" ("said") alongside "dva" ("two") in a tight, everyday turn of phrase.
+- 'You probably missed the zero.' German sets a natural tack on the spot, linking "nol" ("zero, nil"), "navernoye" ("probably"), and "uslyshali" ("heard") in one brisk exchange.
+- 'What, twenty more sacks?' Denis probes calmly in their exchange, joining "yeshchyo" ("more, still") to "meshkov" ("sack, bag") so every word pulls its weight.
+- 'No, of course not twenty. Eighteen.' German offers a measured note as the scene unfolds, joining "konechno" ("of course") to "dvadtsat" ("twenty") so every word pulls its weight.
+- 'After all, you already peeled two.' German adopts a pointed attitude in the scene, pairing "uzhe" ("already, now") with "pochistili" ("to carrots") to get the point across in plain spoken Russian.
+- 'Alright. I am giving you one more day.' German conveys a firm line straight away, leaning on "dayu" ("give") before closing the thought with "yeshchyo" ("more, still").
+- 'It is foolish to peel twenty sacks of potatoes. What for?' Max asks calmly right away, combining "glupo" ("stupid") and "chistit" ("to peel") so the key meaning lands right away.
+- 'It is foolish to stand up for a person.' German offers a clear rhythm straight away, building the phrase around "glupo" ("stupid") and "zastupatsya" ("to stand up for") for a crisp, natural delivery.
+- 'who makes a flute out of a carrot.' German sets a playful tempo toward Max, pairing "morkovki" ("carrot") with "delayet" ("does") to get the point across in plain spoken Russian.

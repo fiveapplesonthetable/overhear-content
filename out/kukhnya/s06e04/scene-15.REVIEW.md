@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Где у вас туалет? | Where is your restroom? | #235: Где у вас туалет? | adapted: exact |
+| 1 | Никита | Где у вас туалет? | Where is your restroom? | #235: Где у вас туалет? | adapted: exact |
 | 2 | Шеф | Налево по коридору. | To the left down the corridor. | #235: Налево по коридору | adapted: exact |
-| 3 | Костя | Так если он не настоящий, может, я ему самого дешевого вина налью? | So if he is not real, maybe I should pour him the cheapest wine? | #237: Так если он не настоящий, может, я ему самого дешевого вина налью? | adapted: exact |
-| 4 | Костя | А зачем продукт на него переводить? | Why waste good product on him? | #238: продукт на него переводить? | adapted: adapted |
+| 3 | Никита | Так если он не настоящий, может, я ему самого дешевого вина налью? | So if he is not real, maybe I should pour him the cheapest wine? | #237: Так если он не настоящий, может, я ему самого дешевого вина налью? | adapted: exact |
+| 4 | Никита | А зачем продукт на него переводить? | Why waste good product on him? | #238: продукт на него переводить? | adapted: adapted |
 | 5 | Шеф | Эта фотография вообще ничего не доказывает. | That photograph does not prove anything at all. | #239: Эта фотография вообще ничего не доказывает | adapted: exact |
 | 6 | Шеф | Может быть, это тоже инспектор. | Maybe this guy is an inspector too. | #240: Может быть, это тоже инспектор | adapted: exact |
 | 7 | Шеф | В блюде не хватает остроты. | The dish lacks spiciness. | #241: Не хватает остроты | adapted: adapted |
 | 8 | Шеф | Ну вот, теперь в самый раз. | Well there, now it is just right. | #244: Ну вот, теперь в самый раз | adapted: exact |
 | 9 | Шеф | Думаю, уважаемому инспектору должно понравиться. | I think the respected inspector should like it. | #245: Думаю, уважаемому инспектору | adapted: adapted |
-| 10 | Костя | Катя, подожди, у нас важный разговор. | Katya, wait, we have an important conversation. | #246: Катя!<br>#247: Подожди, у нас важный разговор | adapted: adapted |
-| 11 | Костя | Дело в том, что Никита склеил крышку рояля, и я решил отомстить. | The thing is that Nikita glued the piano lid shut, and I decided to get revenge. | #249: дело в том, что Никита<br>#249: крышку рояля<br>#250: И я решил отомстить | adapted: adapted |
+| 10 | Никита | Катя, подожди, у нас важный разговор. | Katya, wait, we have an important conversation. | #246: Катя!<br>#247: Подожди, у нас важный разговор | adapted: adapted |
+| 11 | Шеф | Дело в том, что Никита склеил крышку рояля, и я решил отомстить. | The thing is that Nikita glued the piano lid shut, and I decided to get revenge. | #249: дело в том, что Никита<br>#249: крышку рояля<br>#250: И я решил отомстить | adapted: adapted |
 | 12 | Катя | Как именно отомстить? | How exactly did you get revenge? | #251: Как отомстить? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your restroom?' Here wondering where Barinov's restroom is shows Kostya looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'To the left down the corridor.' Since to the left down the corridor, Barinov does not waste words on excuses.
-- 'So if he is not real, maybe I should pour him the cheapest wine?' Questioning whether if he is not real maybe he should pour him the cheapest wine is how Kostya tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why waste good product on him?' Over the point and the photo, Kostya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'That photograph does not prove anything at all.' Because that photograph does not prove anything at all, Barinov treats the matter as settled.
-- 'Maybe this guy is an inspector too.' Explaining that maybe this guy is an inspector lays the cards on the table for Katya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'The dish lacks spiciness.' Around the revenge and sauce, Barinov sets a calm, everyday tone with Katya.
-- 'Well there, now it is just right.' Claiming that there now it is just right sounds confident, even if Katya has doubts.
-- 'I think the respected inspector should like it.' Realizing that he thinks the respected inspector should like it changes how Barinov handles the situation.
-- 'Katya, wait, we have an important conversation.' Kostya explains that they have an important conversation, keeping his voice calm and direct. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'The thing is that Nikita glued the piano lid shut, and I decided to get revenge.' Realizing that the thing is that Nikita glued the piano lid shut and he decided to get revenge changes how Kostya handles the situation.
-- 'How exactly did you get revenge?' Wondering if how exactly did Barinov gets revenge shows Katya caught off guard. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Where is your restroom?' Nikita probes lightly beside Barinov, anchoring the Russian line on "gde" ("where") and "tualet" ("toilet") without extra filler.
+- 'To the left down the corridor.' Barinov sustains a thoughtful course as the scene unfolds, putting "nalevo" ("to the left") alongside "koridoru" ("corridor, hall") in a tight, everyday turn of phrase.
+- 'So if he is not real, maybe I should pour him the cheapest wine?' Nikita questions bluntly for Barinov's benefit, anchoring the Russian line on "nastoyashchiy" ("real, genuine") and "mozhet" ("can") without extra filler.
+- 'Why waste good product on him?' Nikita tests frankly without a pause, building the phrase around "zachem" ("what for") and "produkt" ("product") for a crisp, natural delivery.
+- 'That photograph does not prove anything at all.' Barinov displays a clear footing straight away, putting "fotografiya" ("photograph") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.
+- 'Maybe this guy is an inspector too.' Barinov conveys a thoughtful rhythm on the spot, weaving "mozhet" ("can") together with "byt" ("be") just the way native speakers do.
+- 'The dish lacks spiciness.' Barinov chooses a warm tempo straight away, putting "blyude" ("dish, course") alongside "khvatayet" ("grabs") in a tight, everyday turn of phrase.
+- 'Well there, now it is just right.' Barinov picks a clear course at this moment, joining "teper" ("now") to "samyy" ("the most") so every word pulls its weight.
+- 'I think the respected inspector should like it.' Barinov brings a lively attitude in the scene, building the phrase around "dumayu" ("I think") and "uvazhayemomu" ("respected") for a crisp, natural delivery.
+- 'Katya, wait, we have an important conversation.' Nikita shows a natural rhythm in their talk, linking "podozhdi" ("wait"), "vazhnyy" ("important"), and "razgovor" ("conversation") in one brisk exchange.
+- 'The thing is that Nikita glued the piano lid shut, and I decided to get revenge.' Barinov keeps a serious style in this beat, weaving "delo" ("matter") together with "skleil" ("glued together") just the way native speakers do.
+- 'How exactly did you get revenge?' Katya asks quietly beside Nikita, anchoring the Russian line on "kak" ("how") and "otomstit" ("to take revenge") without extra filler.

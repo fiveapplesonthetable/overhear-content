@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, come on over to us.' Because Vika should come on over to them, Nagiyev treats the matter as settled.
-- 'Hello, allow me to introduce a man to you.' Because Vika should allow him to introduce a man to Vika, Nagiyev treats the matter as settled.
-- 'He will produce our new show.' Saying that he will produce their new show is how Nagiyev sets the tone with Vika.
-- 'He is a true master of our television.' Mentioning that he is a true master of their television moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is my friend Vyacheslav Aleksandrovich.' Mentioning that this is his friend Vyacheslav Aleksandrovich moves the talk in a new direction.
-- 'We are very pleased to meet you.' Saying that they are very pleased to meet Nagiyev is how Vika sets the tone with Nagiyev. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'And why are we just standing around?' Wondering why they just standing around are is how Nagiyev puts Vika on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let's work actively, gentlemen.' Saying that they should work actively gentlemen is how Nagiyev sets the tone with Vika.
-- 'We will work for the common good.' Saying that they will work for the common good is how Nagiyev sets the tone with Vika.
-- 'Well then, have you decided on the host yet?' Checking whether Vika decided on the host yet cuts straight through the tension between Nagiyev and Vika. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Excuse me, I need to answer this right now.' Needing to answer this right now moves the conversation forward without extra drama.
-- 'Hello, yes, I am listening to you closely.' Claiming that she is listening to Nagiyev closely sounds confident, even if Nagiyev has doubts. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
+- 'Good afternoon, come on over to us.' Nagiyev presents an earnest manner in this beat, putting "dobryy" ("good") alongside "den" ("day") in a tight, everyday turn of phrase.
+- 'Hello, allow me to introduce a man to you.' Nagiyev picks a warm position across the room, leaning on "zdravstvuyte" ("hello") before closing the thought with "pozvolte" ("allow me").
+- 'He will produce our new show.' Nagiyev keeps a steady position on the spot, building the phrase around "budet" ("will be") and "delat" ("do") for a crisp, natural delivery.
+- 'He is a true master of our television.' Nagiyev keeps an earnest style in the conversation, building the phrase around "nastoyashchiy" ("real, genuine") and "master" ("technician") for a crisp, natural delivery.
+- 'This is my friend Vyacheslav Aleksandrovich.' Nagiyev maintains a sharp style across the room, linking "drug" ("friend") directly with "vyacheslav" ("aleksandrovich"), since Russian drops "is" and "are" in the present.
+- 'We are very pleased to meet you.' Vika picks a wry view straight away, anchoring the Russian line on "ochen" ("very much") and "priyatno" ("pleasant") without extra filler.
+- 'And why are we just standing around?' Nagiyev queries dryly during the talk, pairing "prosto" ("just") with "stoim" ("to stand") to get the point across in plain spoken Russian.
+- 'Let's work actively, gentlemen.' Nagiyev projects a calm bearing straight away, putting "davayte" ("let's") alongside "aktivno" ("actively") in a tight, everyday turn of phrase.
+- 'We will work for the common good.' Nagiyev picks a measured note beside Vika, pairing "budem" ("will") with "truditsya" ("to common") to get the point across in plain spoken Russian.
+- 'Well then, have you decided on the host yet?' Nagiyev questions candidly in front of Vika, using "vedushchim" (from "vedushchit", "to yet") alongside "uzhe" ("already, now") to shape the meaning.
+- 'Excuse me, I need to answer this right now.' Vika strikes a brisk course straight away, putting "izvinite" ("sorry, excuse me") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Hello, yes, I am listening to you closely.' Vika presents a wry footing toward Nagiyev, weaving "vnimatelno" ("carefully, attentively") together with "slushayu" ("I'm listening") just the way native speakers do.

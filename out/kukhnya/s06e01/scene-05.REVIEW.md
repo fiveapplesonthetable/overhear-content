@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot act like this.' Even though Eleonora cannot act like this, Nagiyev keeps a steady face in front of Eleonora. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'You cannot fire everyone I smile at.' Admitting that Eleonora cannot fire everyone he smiles shows Nagiyev being honest for a change. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'What beautiful fingers you have.' Saying that what beautiful fingers Eleonora has is how Nagiyev sets the tone with Eleonora.
-- 'And what are you doing today?' Here asking what Eleonora doing today is shows Nagiyev looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You are fired.' Adding that Nagiyev is fired fills in the missing piece for Nagiyev. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'And your fingers too.' With the work and point in play, Eleonora keeps this short reply brisk and direct.
-- 'Alright then, you fired everyone.' Around the work and truth, Nagiyev sets a calm, everyday tone with Eleonora. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Then who is going to run things today?' Here wondering who going to run things today is shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nikita, come here!' Coming here shows Eleonora is done holding back.
-- 'Congratulations, you are the restaurant director.' Because congratulations Nagiyev is the restaurant director, Eleonora treats the matter as settled. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Thank you, Eleonora Andreyevna.' With the point and work in play, Nikita keeps this short reply brisk and direct.
-- 'Nikita Andreyevich, coffee?' With the restaurant and kitchen hanging in the air, Nagiyev puts Eleonora on the spot.
+- 'You cannot act like this.' Nagiyev strikes a brisk course straight away, joining "nelzya" ("not allowed") to "delat" ("do") so every word pulls its weight.
+- 'You cannot fire everyone I smile at.' Nagiyev displays a grounded stance at once, combining "nelzya" ("not allowed") and "uvolnyat" ("to fire, to dismiss") so the key meaning lands right away.
+- 'What beautiful fingers you have.' Nagiyev displays an honest tempo during the exchange, combining "krasivyye" ("beautiful") and "paltsy" ("fingers") so the key meaning lands right away.
+- 'And what are you doing today?' Nagiyev inquires lightly right away, weaving "delayete" ("are doing") together with "segodnya" ("today") just the way native speakers do.
+- 'You are fired.' Eleonora picks a calm manner in front of Nagiyev, anchoring the Russian line on "uvoleny" ("to fire") and "vy" ("you") without extra filler.
+- 'And your fingers too.' Eleonora takes a serious course straight away, weaving "paltsy" ("fingers") together with "tozhe" ("too") just the way native speakers do.
+- 'Alright then, you fired everyone.' Nagiyev keeps a frank line for Eleonora, leaning on "uvolila" ("fired") before closing the thought with "nu" ("oh, come on").
+- 'Then who is going to run things today?' Nagiyev challenges decisively with Nikita now, linking "rabotat" ("to work"), "budet" ("will be"), and "segodnya" ("today") in one brisk exchange.
+- 'Nikita, come here!' Eleonora takes a warm rhythm without hesitation, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.
+- 'Congratulations, you are the restaurant director.' Eleonora presents a pointed mood across the room, pairing "pozdravlyayu" ("congratulations") with "direktor" ("head teacher") to get the point across in plain spoken Russian.
+- 'Thank you, Eleonora Andreyevna.' Nikita strikes a serious mood as the scene unfolds, joining "spasibo" ("thank you") to "eleonora" ("Eleonora") so every word pulls its weight.
+- 'Nikita Andreyevich, coffee?' Nagiyev prompts naturally in the room, anchoring the Russian line on "andreyevich" ("andreyevich") and "kofe" ("of coffee") without extra filler.

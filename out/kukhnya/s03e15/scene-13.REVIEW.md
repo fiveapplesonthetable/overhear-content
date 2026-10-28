@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vika, hi, are you home right now?' Checking whether Kostya home right now is how Max puts Kostya on the spot.
-- 'No, I am not home, why do you ask?' Being not home why do Max asks is how Kostya puts Max on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, nothing, alright, lower me down!' Over the conversation and the gift, Max lets his real feelings show. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'What happened with your truck down there?' Over the conversation and the wedding, Max presses Kostya for a straight answer.
-- 'Something got jammed, do not worry, we will fix everything right now!' Because something got jammed do not worry they will fix everything right now, Kostya does not bother softening the blow for Max. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Folks, may I have everyone's attention for a minute!' Insisting that folks may he has everyone attention for a minute shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'So, as I understand it, you two are having a wedding soon.' Once as he understands it Kostya two are having a wedding soon, Nagiyev can finally tell Kostya what he means.
-- 'Yes, Dmitry Vladimirovich, our wedding is soon.' Adding that their wedding is soon fills in the missing piece for Max.
-- 'My colleagues, friends, and I are very happy for you.' Nagiyev tells Kostya that his colleagues friends and he are very happy for Kostya without dressing it up. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'A new young and beautiful family is being born among us!' Saying that a new young and beautiful family is being born among them is how Nagiyev takes charge of the moment.
-- 'As a generous man, I am giving the best gift to the newlyweds.' Mentioning that as a generous man he is giving the best gift to the newlyweds moves the talk in a new direction.
-- 'So live happily, kids, harmony and love to you!' Insisting that Kostya should live happily kids harmony and love to Kostya shows Nagiyev is not backing down. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
+- 'Hello, Vika, hi, are you home right now?' Max checks pointedly for Kostya's benefit, putting "seychas" ("now") alongside "doma" ("at home") in a tight, everyday turn of phrase.
+- 'No, I am not home, why do you ask?' Kostya checks promptly in the room, joining "doma" ("at home") to "khotel" ("wanted") so every word pulls its weight.
+- 'Oh, nothing, alright, lower me down!' Max holds a resolute course in the scene, putting "davay" ("let's") alongside "vniz" ("downstairs") in a tight, everyday turn of phrase.
+- 'What happened with your truck down there?' Max probes earnestly for Nagiyev's benefit, leaning on "tam" ("there") before closing the thought with "sluchilos" ("happened").
+- 'Something got jammed, do not worry, we will fix everything right now!' Kostya maintains a candid note on the spot, weaving "zayelo" ("got jammed") together with "volnuysya" ("worry") just the way native speakers do.
+- 'Folks, may I have everyone's attention for a minute!' Nagiyev shares a brisk note at once, building the phrase around "rebyata" ("the boys, the lads") and "proshu" ("beg, ask") for a crisp, natural delivery.
+- 'So, as I understand it, you two are having a wedding soon.' Nagiyev offers a natural angle beside Kostya, combining "znachit" ("then, so") and "ponyal" ("understood") so the key meaning lands right away.
+- 'Yes, Dmitry Vladimirovich, our wedding is soon.' Kostya sets an honest position straight away, anchoring the Russian line on "skoro" ("soon") and "svadba" ("wedding") without extra filler.
+- 'My colleagues, friends, and I are very happy for you.' Nagiyev sets a calm line in this beat, putting "kollegami" ("colleagues") alongside "druzyami" ("friends") in a tight, everyday turn of phrase.
+- 'A new young and beautiful family is being born among us!' Nagiyev chooses a lively footing on the spot, linking "rozhdayetsya" ("is being born"), "novaya" ("new"), and "molodaya" ("young") in one brisk exchange.
+- 'As a generous man, I am giving the best gift to the newlyweds.' Nagiyev offers an earnest attitude toward Kostya, pairing "kak" ("how") with "chelovek" ("a man, a person") to get the point across in plain spoken Russian.
+- 'So live happily, kids, harmony and love to you!' Nagiyev displays an honest approach for Max, leaning on "poetomu" ("that's why") before closing the thought with "zhivite" ("to live").

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does it not seem to you that our dining room is old?' By asking whether it not seem to Barinov that their dining room is old, Nagiyev presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'It is just as old as you are.' Vika explains that it is just as old as Barinov is, keeping her voice calm and direct.
-- 'Vitya, well how do you feel today?' Asking how Barinov feels today is how Nagiyev puts Barinov on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dima, I did not drink last night!' Saying that he did not drink last night is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Everything is completely fine with me, see?' Wondering if everything is completely fine with him see shows Barinov caught off guard.
-- 'Yes, understood, what did you want to talk about?' Questioning whether understood what did Nagiyev wants to talk is how Barinov tests Nagiyev's story. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Lately you have been walking around sad and tired.' Saying that lately Barinov has been walking around sad and tired is how Nagiyev sets the tone with Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You definitely need to get a good rest right now.' Between the plan and the point, Nagiyev gives Barinov a quick, grounded response.
-- 'Your cooks in the kitchen are managing on their own for now.' Adding that Barinov's cooks in the kitchen are managing on their own for now fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'So go home calmly and rest.' Explaining that Barinov should go home calmly and rest lays the cards on the table for Barinov.
-- 'There is no need, Dima, I work great on my own.' Since there is no need Dima he works great on his own, Barinov does not waste words on excuses.
-- 'This is not a discussion, this is my direct order!' Nagiyev declares that this is not a discussion this is his direct order as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Alright, I will take only two days.' Barinov reminds Nagiyev that Alright he will take only two days before the moment passes.
+- 'Does it not seem to you that our dining room is old?' Nagiyev queries evenly as the talk turns, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "zal" ("hall") to shape the meaning.
+- 'It is just as old as you are.' Vika takes an unhurried tone toward Nagiyev, combining the intensifier "sovsem" ("completely, at all") with "staryy" ("old") to give the line its natural spoken rhythm.
+- 'Vitya, well how do you feel today?' Nagiyev asks promptly without a pause, anchoring the Russian line on "kak" ("how") and "segodnya" ("today") without extra filler.
+- 'Dima, I did not drink last night!' Barinov conveys a steady line in this beat, linking "pil" ("was drinking"), "vchera" ("yesterday"), and "vecherom" ("in the evening") in one brisk exchange.
+- 'Everything is completely fine with me, see?' Barinov asks wryly as the talk turns, building the phrase around "voobshche" ("at all") and "poryadke" ("order") for a crisp, natural delivery.
+- 'Yes, understood, what did you want to talk about?' Barinov wonders naturally to Vika here, anchoring the Russian line on "ponyatno" ("clear") and "khotel" ("wanted") without extra filler.
+- 'Lately you have been walking around sad and tired.' Nagiyev projects a wry footing as they talk, weaving "posledneye" ("last, final") together with "vremya" ("time") just the way native speakers do.
+- 'You definitely need to get a good rest right now.' Nagiyev sets an emphatic posture in their talk, pairing "seychas" ("now") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
+- 'Your cooks in the kitchen are managing on their own for now.' Nagiyev presents a natural style in front of Barinov, combining "povara" ("cook") and "kukhne" ("kitchen") so the key meaning lands right away.
+- 'So go home calmly and rest.' Nagiyev takes a serious angle across the room, joining "idi" ("go") to "spokoyno" ("calmly") so every word pulls its weight.
+- 'There is no need, Dima, I work great on my own.' Barinov favors a thoughtful bearing on the spot, anchoring the Russian line on "nado" ("it is necessary") and "otlichno" ("perfect, great") without extra filler.
+- 'This is not a discussion, this is my direct order!' Nagiyev keeps a brisk style in their talk, linking "razgovor" ("conversation") directly with "pryamoy" ("live"), since Russian drops "is" and "are" in the present.
+- 'Alright, I will take only two days.' Barinov strikes a pointed footing at once, putting "vozmu" ("will get") alongside "tolko" ("only") in a tight, everyday turn of phrase.

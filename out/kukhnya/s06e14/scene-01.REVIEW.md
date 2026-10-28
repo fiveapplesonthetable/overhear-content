@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wonder, are they Japanese or Chinese?' Kostya asks whether he wonders are they Japanese or Chinese, refusing to let the point slide.
-- 'Can you really not tell them apart at all?' By checking whether Katya really not tell them apart at all, Nastya presses Katya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Of course, I tell them apart very well.' Claiming that he tells them apart very well sounds confident, even if Katya has doubts.
-- 'It turns out these guests arrived from Korea.' Saying that it turns out these guests arrived from Korea is how Kostya sets the tone with Katya.
-- 'I need to calmly figure myself out.' Because she needs to calmly figure herself out, Katya treats the matter as settled. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'And what happened yesterday on the roof?' With the moment and choice hanging in the air, Nastya puts Katya on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Did something happen between you and Denis?' Checking whether something happen between Katya and Denis cuts straight through the tension between Nastya and Katya.
-- 'Did you agree to marry Nikita?' Asking whether Katya agrees to marry Nikita is how Nastya puts Katya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I do not know, I am completely confused.' Because she does not know she is completely confused, Katya treats the matter as settled.
-- 'Hello, girls, what are you whispering about?' Wondering if girls what are Katya whispering shows Kostya caught off guard.
-- 'Hello, Kostya, we are just chatting.' Because they are just chatting, Katya treats the matter as settled.
-- 'Nastya, your new blouse suits you very well.' With the work and choice in play, Katya keeps this short reply brisk and direct. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'I wonder, are they Japanese or Chinese?' Kostya asks wryly as the beat lands, linking "interesno" ("interesting"), "yapontsy" ("Japanese man"), and "kitaytsy" ("Chinese people") in one brisk exchange.
+- 'Can you really not tell them apart at all?' Nastya prompts naturally beside Kostya, weaving "sovsem" ("at all") together with "razlichayesh" ("distinguish") just the way native speakers do.
+- 'Of course, I tell them apart very well.' Kostya establishes a clear direction in the room, building the phrase around "konechno" ("of course") and "ochen" ("very much") for a crisp, natural delivery.
+- 'It turns out these guests arrived from Korea.' Kostya holds a lively tack straight away, weaving "okazyvayetsya" ("to turn out to be") together with "gosti" ("visitors, guests") just the way native speakers do.
+- 'I need to calmly figure myself out.' Katya shows a candid direction toward Kostya, joining "nado" ("it is necessary") to "spokoyno" ("calmly") so every word pulls its weight.
+- 'And what happened yesterday on the roof?' Nastya asks naturally without a pause, pairing "sluchilos" ("happened") with "vchera" ("yesterday") so the "-sya" ending carries the action.
+- 'Did something happen between you and Denis?' Nastya challenges honestly with Katya now, anchoring the Russian line on "bylo" ("was") and "denisom" ("time") without extra filler.
+- 'Did you agree to marry Nikita?' Nastya asks firmly to Kostya here, anchoring the Russian line on "soglasilas" ("to agree") and "vyyti" ("to marry") without extra filler.
+- 'I do not know, I am completely confused.' Katya displays a sharp course for Kostya, combining "znayu" ("know") and "sovsem" ("at all") so the key meaning lands right away.
+- 'Hello, girls, what are you whispering about?' Kostya checks bluntly in the room, building the phrase around "devochki" ("girl's") and "shepchetes" ("whisper to each other") for a crisp, natural delivery.
+- 'Hello, Kostya, we are just chatting.' Katya maintains a measured note in the scene, combining "prosto" ("just") and "boltayem" ("to chatter") so the key meaning lands right away.
+- 'Nastya, your new blouse suits you very well.' Katya strikes a measured tempo in the room, anchoring the Russian line on "ochen" ("very much") and "idyot" ("goes, is going") without extra filler.

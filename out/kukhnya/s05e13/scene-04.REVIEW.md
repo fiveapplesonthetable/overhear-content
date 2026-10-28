@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My mother-in-law is a former national champion.' Realizing that his mother in law is a former national champion changes how Senya handles the situation.
-- 'I simply have no chance at home.' Noting that he simply has no chance at home keeps Senya's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I would never raise a hand myself.' Even though he would never raise a hand himself, Kostya keeps a steady face in front of Nastya. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And how did you almost break my nose?' By asking how Kostya almost break her nose, Nastya presses Kostya for a straight answer.
-- 'You hit me once in your sleep!' Declaring that Kostya hits her once in Kostya's sleep brings Nastya's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nastya, I was having a terrible dream then.' Once he was having a terrible dream then, Kostya can finally tell Nastya what he means.
-- 'In the dream I was a brave gladiator.' Adding that in the dream he was a brave gladiator fills in the missing piece for Nastya.
-- 'A huge hungry lion was running after me!' Kostya declares that a huge hungry lion was running after him as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And what if you had killed me?' Asking whether what if Kostya had killed puts Kostya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What would you have done alone then?' Wondering what Kostya has done alone then would is how Nastya puts Kostya on the spot.
-- 'If I were suddenly gone?' Questioning whether if she were suddenly gone is how Nastya tests Kostya's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nastya, please do not interrupt me right now.' Because do not interrupt him right now, Kostya treats the matter as settled.
+- 'My mother-in-law is a former national champion.' Senya brings a grounded line during the exchange, anchoring the Russian line on "tyoshcha" ("mother-in-law") and "byvshaya" ("former") without extra filler.
+- 'I simply have no chance at home.' Senya brings a grounded stance without hesitation, combining "doma" ("at home") and "prosto" ("just") so the key meaning lands right away.
+- 'I would never raise a hand myself.' Kostya strikes an emphatic footing beside Nastya, building the phrase around "nikogda" ("never") and "ruku" ("hand") for a crisp, natural delivery.
+- 'And how did you almost break my nose?' Nastya checks plainly on the spot, weaving "kak" ("how") together with "nos" ("nose") just the way native speakers do.
+- 'You hit me once in your sleep!' Nastya adopts a frank footing right away, combining "udaril" ("hit, struck") and "odnazhdy" ("once, one day") so the key meaning lands right away.
+- 'Nastya, I was having a terrible dream then.' Kostya keeps a clear approach right away, joining "togda" ("back then") to "snilsya" ("to appear in a dream") so every word pulls its weight.
+- 'In the dream I was a brave gladiator.' Kostya conveys a warm view at this moment, joining "sne" ("dream, sleep") to "byl" ("was") so every word pulls its weight.
+- 'A huge hungry lion was running after me!' Kostya favors an easygoing direction for Senya, combining "ogromnyy" ("huge") and "golodnyy" ("hungry") so the key meaning lands right away.
+- 'And what if you had killed me?' Nastya prompts calmly from the start, building the phrase around "ubil" ("killed") and "vot" ("there, here") for a crisp, natural delivery.
+- 'What would you have done alone then?' Nastya asks candidly in the scene, combining "togda" ("back then") and "delal" ("were doing") so the key meaning lands right away.
+- 'If I were suddenly gone?' Nastya quizzes directly toward Kostya here, weaving "vdrug" ("suddenly, what if") together with "stalo" ("became, came over") just the way native speakers do.
+- 'Nastya, please do not interrupt me right now.' Kostya chooses a resolute course across the room, anchoring the Russian line on "perebivay" ("to interrupt") and "seychas" ("now") without extra filler.

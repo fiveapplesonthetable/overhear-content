@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And this is a woman.' Once this is a woman, Max can finally tell Barinov what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Beautiful and intelligent.' Over the kitchen and the date, Barinov answers Kostya without a second thought.
-- 'I like her too.' With the kitchen and photo in play, Kostya keeps this short reply brisk and direct.
-- 'By the way, when you ask her out on a date, let me know.' Since when Barinov asks her out on a date let him know, Max does not waste words on excuses.
-- 'What did you just say?' By asking what Kostya just say, Barinov presses Kostya for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'What date are you talking about?' When Kostya asks if what date are Barinov talking, Barinov has to answer fast.
-- 'Chef, I just want to help.' Because he just wants to help, Max treats the matter as settled.
-- 'Get the hell out of here.' Getting the hell out of here is how Barinov lays out the situation for Kostya.
-- 'Get out, I said!' Getting out he said is Kostya's blunt reaction in front of Barinov.
-- 'Mom, this is my Kostya.' Claiming that Mom this is his Kostya sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'This is my mother.' Pointing out that this is his mother gives Kostya a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Very nice to meet you.' Around the shift and work, Kostya sets a calm, everyday tone with Barinov.
-- 'It is very nice to meet you too.' Realizing that it is very nice to meet Barinov changes how Max handles the situation.
+- 'And this is a woman.' Max establishes an unhurried approach toward Barinov, combining "zhenshchina" ("woman") and "eto" ("this") so the key meaning lands right away.
+- 'Beautiful and intelligent.' Barinov brings a grounded footing straight away, weaving "krasivaya" ("pretty, beautiful") together with "umnaya" ("clever, smart") just the way native speakers do.
+- 'I like her too.' Kostya chooses a lively tempo beside Barinov, putting "tozhe" ("too") alongside "nravitsya" ("is pleasing") in a tight, everyday turn of phrase.
+- 'By the way, when you ask her out on a date, let me know.' Max establishes a candid tone as they talk, combining "kstati" ("by the way") and "kogda" ("when") so the key meaning lands right away.
+- 'What did you just say?' Barinov questions promptly for Kostya's benefit, combining "tebe" ("for you, to you") and "chto" ("what") so the key meaning lands right away.
+- 'What date are you talking about?' Kostya queries frankly from the start, putting "svidaniye" ("date") alongside "kakoye" ("what a") in a tight, everyday turn of phrase.
+- 'Chef, I just want to help.' Max shares a resolute mood in the room, anchoring the Russian line on "pomoch" ("to help") and "khochu" ("want") without extra filler.
+- 'Get the hell out of here.' Barinov takes a brisk rhythm for Max, building the phrase around "poshel" ("go, off you go") and "otsyuda" ("from here") for a crisp, natural delivery.
+- 'Get out, I said!' Kostya holds an unhurried line in the conversation, building the phrase around "poshel" ("go, off you go") and "skazal" ("said") for a crisp, natural delivery.
+- 'Mom, this is my Kostya.' Max adopts a thoughtful tempo in this beat, linking "mama" ("mum, mother") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
+- 'This is my mother.' Barinov brings a grounded view without hesitation, weaving "mama" ("mum, mother") together with "eto" ("this") just the way native speakers do.
+- 'Very nice to meet you.' Kostya shows a candid posture toward Max, building the phrase around "ochen" ("very much") and "priyatno" ("pleasant") for a crisp, natural delivery.
+- 'It is very nice to meet you too.' Max displays a thoughtful angle at once, joining "tozhe" ("too") to "ochen" ("very much") so every word pulls its weight.

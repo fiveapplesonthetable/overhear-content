@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how many Moscow homeless people eat at my expense?' Over the moment and the police, Max presses Sasha for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Only this one, but please do not worry.' Noting that only this one but please do not worry keeps Vika's side of the story simple and clear. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'Rodion Sergeyevich is a very cleanly and decent man.' Even though Rodion Sergeyevich is a very cleanly and decent man, Vika keeps a steady face in front of Max.
-- 'You will talk about that with the police tomorrow.' Admitting that Sasha will talk about that with the police tomorrow shows Max being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I would not like to end up at the police station at all.' Saying that he would not like to end up at the police station at all is how Max sets the tone with Sasha.
-- 'They both feed you poorly there and the people are unfriendly.' Once they both feed Sasha poorly there and the people are unfriendly, Max can finally tell Sasha what he means.
-- 'Sasha, wait, what do you mean the baby is not Ilya's?' Here wondering what Sasha means the baby is not Ilya shows Max looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I mean, and what are you going to do now?' When Max asks if he means and what are Sasha going to do now, Sasha has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I am calmly planning to have this baby.' Here being calmly planning to have this baby sets up the next turn in their exchange.
-- 'Yes, hi, Vika! No, I am not at work yet.' Insisting that no he is not at work yet shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I think that I will be at our restaurant soon.' Saying that he thinks that he will be at their restaurant soon is how Max sets the tone with Sasha.
-- 'Why did you just tell her a lie on the phone?' By wondering why Max just tell her a lie on the phone, Sasha presses Max for a straight answer.
+- 'And how many Moscow homeless people eat at my expense?' Max asks directly across the room, putting "skolko" ("how much, so much") alongside "moskovskikh" ("Moscow") in a tight, everyday turn of phrase.
+- 'Only this one, but please do not worry.' Vika displays a serious angle during the exchange, pairing "tolko" ("only") with "volnuytes" ("worry") to get the point across in plain spoken Russian.
+- 'Rodion Sergeyevich is a very cleanly and decent man.' Vika establishes a serious course in their talk, anchoring the Russian line on "ochen" ("very much") and "chistoplotnyy" ("cleanly, neat") without extra filler.
+- 'You will talk about that with the police tomorrow.' Max sets an unhurried footing in the conversation, building the phrase around "zavtra" ("tomorrow") and "pogovorite" ("have a word") for a crisp, natural delivery.
+- 'I would not like to end up at the police station at all.' Max establishes a playful line in their talk, leaning on "politsiyu" ("the police") before closing the thought with "popadat" ("to end up, get into").
+- 'They both feed you poorly there and the people are unfriendly.' Max conveys a frank angle across the room, putting "tam" ("there") alongside "kormyat" ("to feed") in a tight, everyday turn of phrase.
+- 'Sasha, wait, what do you mean the baby is not Ilya's?' Max quizzes pointedly from the start, weaving "podozhdi" ("wait") together with "kak" ("how") just the way native speakers do.
+- 'I mean, and what are you going to do now?' Max presses pointedly from the start, pairing "smysle" ("sense") with "teper" ("now") to get the point across in plain spoken Russian.
+- 'I am calmly planning to have this baby.' Sasha establishes a grounded course during the exchange, leaning on "spokoyno" ("calmly") before closing the thought with "dumayu" ("I think").
+- 'Yes, hi, Vika! No, I am not at work yet.' Max takes a direct view without hesitation, building the phrase around "yeshchyo" ("more, still") and "rabote" ("work") for a crisp, natural delivery.
+- 'I think that I will be at our restaurant soon.' Max takes a candid bearing in front of Sasha, joining "dumayu" ("I think") to "skoro" ("soon") so every word pulls its weight.
+- 'Why did you just tell her a lie on the phone?' Sasha presses boldly across the room, anchoring the Russian line on "zachem" ("what for") and "seychas" ("now") without extra filler.

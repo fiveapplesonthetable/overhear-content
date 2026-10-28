@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Саша | А откуда ты знаешь? | And how do you know about that? | #68: А откуда ты знаешь | verbatim |
 | 4 | Шеф | Между прочим, я сам отказался лететь. | By the way, I refused to fly myself. | #69: Между прочим, я сам отказался лететь | verbatim |
 | 5 | Костя | А что по этому поводу думает Саша? | And what does Sasha think about that? | #70: А что по этому поводу думает Саша | verbatim |
-| 6 | Саша | А что Саша? | What about Sasha? | #71: А что Саша | verbatim |
+| 6 | Шеф | А что Саша? | What about Sasha? | #71: А что Саша | verbatim |
 | 7 | Шеф | С Сашей у меня как бы все. | Things between Sasha and me are basically over. | #71: С Сашей у меня как бы все | verbatim |
 | 8 | Костя | А я не мог. | I just could not go. | #73: А я не мог | verbatim |
 | 9 | Саша | Горе случилось, дед умер. | A tragedy happened, his grandfather died. | #74: Горе случилось, дед умер | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And pass along good luck from the head chef to her husband tomorrow.' Passing along good luck from the head to her husband tomorrow moves the conversation forward without extra drama.
-- 'So I see.' Turning from the match to the shift, Kostya keeps the exchange moving.
-- 'And how do you know about that?' Wondering how Barinov knows is how Sasha puts Barinov on the spot.
-- 'By the way, I refused to fly myself.' Between the match and the work, Barinov gives Kostya a quick, grounded response.
-- 'And what does Sasha think about that?' By asking what Sasha think, Kostya presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What about Sasha?' With the kitchen and point hanging in the air, Sasha puts Barinov on the spot.
-- 'Things between Sasha and me are basically over.' Adding that things between Sasha and him are basically fills in the missing piece for Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I just could not go.' Kostya tells Barinov that he just could not go without dressing it up.
-- 'A tragedy happened, his grandfather died.' Between the kitchen and the moment, Sasha gives Barinov a quick, grounded response.
-- 'No, Kostya's grandfather.' With the kitchen and work in play, Barinov keeps this short reply brisk and direct.
-- 'Yours?' With the shift and point hanging in the air, Kostya puts Barinov on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I had to support pal, you understand, right?' Questioning whether she had to support pal Barinov understands right is how Sasha tests Barinov's story.
-- 'Yes, of course.' Over the shift and the luck, Barinov answers Kostya without a second thought.
+- 'And pass along good luck from the head chef to her husband tomorrow.' Barinov maintains a frank direction at once, combining "pereday" ("pass on, give") and "shef-povara" ("head chef") so the key meaning lands right away.
+- 'So I see.' Kostya sets an emphatic course in the room, combining "smotryu" ("look") and "ya" ("I") so the key meaning lands right away.
+- 'And how do you know about that?' Sasha inquires frankly during the talk, putting "otkuda" ("where from") alongside "znayesh" ("know") in a tight, everyday turn of phrase.
+- 'By the way, I refused to fly myself.' Barinov sustains a pointed posture beside Sasha, pairing "prochim" ("other") with "otkazalsya" ("refused") to get the point across in plain spoken Russian.
+- 'And what does Sasha think about that?' Kostya inquires openly without a pause, joining "povodu" ("matter") to "dumayet" ("thinks") so every word pulls its weight.
+- 'What about Sasha?' Barinov asks pointedly for Sasha's benefit, building the phrase around "chto" ("what") and "sasha" ("Sasha") for a crisp, natural delivery.
+- 'Things between Sasha and me are basically over.' Barinov sustains a playful tone in their talk, building the phrase around "kak" ("how") and "sashey" ("Sasha") for a crisp, natural delivery.
+- 'I just could not go.' Kostya strikes a direct tone in the conversation, linking "mog" ("can, to be able"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
+- 'A tragedy happened, his grandfather died.' Sasha holds an emphatic mood on the spot, linking "gore" ("grief, sorrow"), "sluchilos" ("happened"), and "ded" ("grandfather") in one brisk exchange.
+- 'No, Kostya's grandfather.' Barinov presents a measured angle in the room, pairing "kosti" ("bones") with "net" ("no") to get the point across in plain spoken Russian.
+- 'Yours?' Kostya inquires naturally as they speak, combining "u tebya" (literally "by you") with "tebya" ("you") rather than a separate word for "have".
+- 'I had to support pal, you understand, right?' Sasha questions openly in front of Kostya, anchoring the Russian line on "nado" ("it is necessary") and "bylo" ("was") without extra filler.
+- 'Yes, of course.' Barinov conveys a candid note at once, joining "konechno" ("of course") to "da" ("yes") so every word pulls its weight.

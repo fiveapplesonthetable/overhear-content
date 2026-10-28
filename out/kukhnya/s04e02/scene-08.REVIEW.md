@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The most important thing is to always smile.' Once the most important thing is to always smile, Max can finally tell Denis what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Make it look more natural.' Telling Denis to make it look more natural moves the conversation forward without extra drama.
-- 'Go ahead. I believe in you.' Once he believes in Denis, Max can finally tell Denis what he means.
-- 'These things happen.' Around the moment and job, Denis sets a calm, everyday tone with Max.
-- 'You have a wonderful resume, but unfortunately you do not suit us.' Mentioning that Denis has a wonderful resume but unfortunately Denis does not suit them moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'We will definitely call you back.' Saying that they will definitely call Denis back is how Vika sets the tone with Denis.
-- 'Forgive me, I will fix everything.' Because he will fix everything, Denis treats the matter as settled.
-- 'I think my finger is hurt.' Explaining that she thinks her finger is hurt lays the cards on the table for Denis. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Let's go to the emergency clinic.' Here going to the emergency clinic together sets up the next turn in their exchange.
-- 'Easy, easy, calm down.' With the conversation and job in play, Max keeps this short reply brisk and direct.
-- 'Unfortunately.' Over the conversation and the job, Vika answers Denis without a second thought.
-- 'Where are all of you even looking?' Here wondering where all of Denis even looking are shows Vika looking for the real truth.
+- 'The most important thing is to always smile.' Max holds a grounded rhythm in this beat, leaning on "samoye" ("the most") before closing the thought with "glavnoye" ("important").
+- 'Make it look more natural.' Max picks an unhurried angle with Vika, putting all the weight on "yestestvenney" ("make") so the reply lands immediately.
+- 'Go ahead. I believe in you.' Max shares a grounded stance in front of Denis, leaning on "vperyod" ("ahead of") before closing the thought with "veryu" ("believe").
+- 'These things happen.' Denis sustains a firm attitude across the room, using "byvayet" ("there can be") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'You have a wonderful resume, but unfortunately you do not suit us.' Vika offers a lively attitude as they talk, building the phrase around "prekrasnoye" ("wonderful, fine") and "rezyume" ("résumé") for a crisp, natural delivery.
+- 'We will definitely call you back.' Vika sets a playful style without hesitation, pairing "obyazatelno" ("surely, without fail") with "perezvonim" ("to call back") to get the point across in plain spoken Russian.
+- 'Forgive me, I will fix everything.' Denis establishes a clear tack with Max, putting "prostite" ("excuse me") alongside "ispravlyu" ("will fix") in a tight, everyday turn of phrase.
+- 'I think my finger is hurt.' Vika presents a natural line during the exchange, linking "kazhetsya" ("it seems, I think"), "palets" ("finger"), and "menya" ("me") in one brisk exchange.
+- 'Let's go to the emergency clinic.' Max maintains a warm tempo during the exchange, putting "poyekhali" ("here we go") alongside "travmpunkt" ("emergency") in a tight, everyday turn of phrase.
+- 'Easy, easy, calm down.' Max strikes an easygoing note beside Vika, using "tikho" ("easy, quiet") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Unfortunately.' Vika picks a serious tempo in the conversation, putting all the weight on "sozhaleniyu" ("regret") so the reply lands immediately.
+- 'Where are all of you even looking?' Vika challenges warmly in their exchange, joining "kuda" ("where to") to "smotrite" ("look") so every word pulls its weight.

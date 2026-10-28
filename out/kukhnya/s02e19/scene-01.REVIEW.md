@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Between the dining room and the kitchen.' Between the guest and the work, Max gives Barinov a quick, grounded response.
-- 'Excuse me, I am listening.' Because he is listening, Barinov treats the matter as settled. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'There is far too much oil in here.' Claiming that there is far too much oil in here sounds confident, even if Barinov has doubts.
-- 'Please pass this along to the cooks.' Realizing that Max should pass this along to the cooks changes how Barinov handles the situation.
-- 'Have them remake the salad.' Max explains that have them remake the salad, keeping his voice calm and direct.
-- 'They asked to have the salad remade.' Realizing that they asked to have the salad remade changes how Barinov handles the situation.
-- 'Thank you for remaking it so quickly.' Around the work and guest, Max sets a calm, everyday tone with Barinov.
-- 'Here you go, just the way you like it.' Even though here Max goes just the way Max likes it, Barinov keeps a steady face in front of Max. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Well now, that is another matter entirely.' Admitting that that is another matter entirely shows Max being honest for a change.
-- 'Are you out of your mind, tell me?' Here asking whether Max out of Max's mind tell him shows Barinov looking for the real truth.
-- 'What is going on over here?' By wondering what going on over here is, Max presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Nothing is going on, everything is fine.' Adding that nothing is going on everything is fine fills in the missing piece for Max. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'I will remake it right now.' Saying that he will remake it right now is how Max sets the tone with Barinov.
+- 'Between the dining room and the kitchen.' Max keeps a calm tack at once, leaning on "zala" ("hall, large room") before closing the thought with "kukhni" ("kitchen").
+- 'Excuse me, I am listening.' Barinov establishes an unhurried position right away, leaning on "prostite" ("excuse me") before closing the thought with "slushayu" ("I'm listening").
+- 'There is far too much oil in here.' Max brings a pointed approach in the conversation, pairing "tut" ("here") with "slishkom" ("too") to get the point across in plain spoken Russian.
+- 'Please pass this along to the cooks.' Barinov conveys a lively posture straight away, using "peredayte" (from "peredat", "to pass on") alongside "povaram" ("cooks") to shape the meaning.
+- 'Have them remake the salad.' Max takes a candid style across the room, weaving "peredelayut" ("redo") together with "salat" ("salad") just the way native speakers do.
+- 'They asked to have the salad remade.' Barinov maintains an earnest tack for Max, anchoring the Russian line on "prosili" ("asked, requested") and "peredelat" ("to redo, to remake") without extra filler.
+- 'Thank you for remaking it so quickly.' Max sets a serious style across the room, leaning on "spasibo" ("thank you") before closing the thought with "peredelali" ("to redo, to remake").
+- 'Here you go, just the way you like it.' Barinov picks a clear attitude with Max, weaving "kak" ("how") together with "lyubite" ("to love, to like") just the way native speakers do.
+- 'Well now, that is another matter entirely.' Max offers a calm posture in the room, combining "drugoye" ("another, other") and "delo" ("matter") so the key meaning lands right away.
+- 'Are you out of your mind, tell me?' Barinov checks earnestly in this moment, combining "presh" ("to charge ahead") and "skazhi" ("say") so the key meaning lands right away.
+- 'What is going on over here?' Max asks quietly in front of Barinov, anchoring the Russian line on "zdes" ("here") and "proizoshlo" ("happened") without extra filler.
+- 'Nothing is going on, everything is fine.' Barinov maintains a direct manner as the scene unfolds, putting "proiskhodit" ("is going on") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.
+- 'I will remake it right now.' Max conveys a sharp note in their talk, building the phrase around "seychas" ("now") and "peredelayu" ("will redo") for a crisp, natural delivery.

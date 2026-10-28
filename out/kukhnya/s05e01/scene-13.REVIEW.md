@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | О, доброе утро, шеф! | Oh, good morning, Chef! | #208: О, доброе утро, шеф! | adapted: verbatim |
+| 1 | Михаил | О, доброе утро, шеф! | Oh, good morning, Chef! | #208: О, доброе утро, шеф! | adapted: verbatim |
 | 2 | Шеф | Михаил сделает нам туалет, как просим. | Mikhail will give us a restroom as we ask. | #209: сделает нам туалет, как мы просим | adapted: adapted |
-| 3 | Шеф | Шеф, я там совсем чуть-чуть. | Chef, I only need a tiny moment in there. | #210: Шеф, я там совсем чуть-чуть | adapted: verbatim |
+| 3 | Михаил | Шеф, я там совсем чуть-чуть. | Chef, I only need a tiny moment in there. | #210: Шеф, я там совсем чуть-чуть | adapted: verbatim |
 | 4 | Михаил | Пожалуйста, не волнуйтесь. | Please, do not worry. | #213: Пожалуйста, не волнуйтесь | adapted: verbatim |
 | 5 | Михаил | Сейчас мы всё быстро исправим. | Right now we will fix everything quickly. | #213: Сейчас все исправим | adapted: adapted |
 | 6 | Михаил | Что там, лифт сломался? | What is going on there, did the elevator break? | #215: Что там, лифт сломался? | adapted: verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, good morning, Chef!' Around the shift and argument, Barinov makes his point loud and clear.
-- 'Mikhail will give us a restroom as we ask.' Explaining that Mikhail will give them a restroom as they ask lays the cards on the table for Mikhail.
-- 'Chef, I only need a tiny moment in there.' Barinov explains that he only needs a tiny moment in there, keeping his voice calm and direct.
-- 'Please, do not worry.' Because do not worry, Mikhail treats the matter as settled.
-- 'Right now we will fix everything quickly.' Noting that right now they will fix everything quickly keeps Mikhail's side of the story simple and clear.
-- 'What is going on there, did the elevator break?' Wondering what going on there did the elevator break is cuts straight through the tension between Mikhail and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, Mikhail, there is a little problem there.' Admitting that there is a little problem there shows Vika being honest for a change.
-- 'I am checking whether everything is ready for the opening.' Admitting that he is checking whether everything is ready for the opening shows Barinov being honest for a change.
-- 'Would you not like to join us?' By checking whether Mikhail not like to join them, Barinov presses Mikhail for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We will lose all our guests like this!' Once they will lose all their guests like this, Mikhail makes sure Barinov hears every word.
-- 'If you want to keep them, stay out of my way!' Declaring that if Mikhail wants to keep them stay out of his way brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Goodness, why are you acting like children?' Vika asks whether goodness why are Barinov acting like children, refusing to let the point slide. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.
-- 'Cannot reach an agreement? Toss a coin.' Asking whether cannot reach an agreement puts Barinov right on the defensive.
+- 'Oh, good morning, Chef!' Mikhail adopts a playful posture for Barinov, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
+- 'Mikhail will give us a restroom as we ask.' Barinov adopts a resolute stance in the scene, anchoring the Russian line on "sdelayet" ("will do") and "tualet" ("toilet") without extra filler.
+- 'Chef, I only need a tiny moment in there.' Mikhail holds an easygoing attitude as the scene unfolds, linking "tam" ("there"), "sovsem" ("at all"), and "chut-chut" ("a little bit") in one brisk exchange.
+- 'Please, do not worry.' Mikhail picks an emphatic mood as the scene unfolds, putting "volnuytes" ("worry") alongside "pozhaluysta" ("please") in a tight, everyday turn of phrase.
+- 'Right now we will fix everything quickly.' Mikhail sets a serious footing with Barinov, putting "seychas" ("now") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.
+- 'What is going on there, did the elevator break?' Mikhail inquires sharply beside Vika, building the phrase around "tam" ("there") and "lift" ("elevator") for a crisp, natural delivery.
+- 'No, Mikhail, there is a little problem there.' Vika sets a thoughtful approach at once, anchoring the Russian line on "tam" ("there") and "nebolshaya" ("small") without extra filler.
+- 'I am checking whether everything is ready for the opening.' Barinov projects a candid bearing in this beat, using "proveryayu" (from "proveryat", "to check, test") alongside "gotovo" ("ready") to shape the meaning.
+- 'Would you not like to join us?' Barinov probes boldly in the scene, putting "khotite" ("want") alongside "prisoyedinitsya" ("to join") in a tight, everyday turn of phrase.
+- 'We will lose all our guests like this!' Mikhail takes a grounded direction as they talk, building the phrase around "gostey" ("guests") and "poteryayem" ("will lose") for a crisp, natural delivery.
+- 'If you want to keep them, stay out of my way!' Barinov presents an emphatic direction for Mikhail, leaning on "khochesh" ("do you want") before closing the thought with "sokhranit" ("to preserve").
+- 'Goodness, why are you acting like children?' Vika challenges pointedly as the beat lands, building the phrase around "kak" ("how") and "deti" ("kids") for a crisp, natural delivery.
+- 'Cannot reach an agreement? Toss a coin.' Vika counters wryly without a pause, leaning on "mozhete" ("can, may") before closing the thought with "dogovoritsya" ("to reach an agreement").

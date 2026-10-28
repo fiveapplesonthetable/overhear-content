@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, as I understand it, you are Viktor, Katya's dad?' The guest asks whether as he understands it Barinov is Viktor Katya dad, refusing to let the point slide. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'A friend of my daughter is a friend of mine.' Since a friend of his daughter is a friend, Barinov does not waste words on excuses.
-- 'Try the dish, your opinion is very important to me.' By telling the guest to try the dish the guest's opinion is very important to him, Barinov keeps his side of the story grounded. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'How delicious, practically as good as in France!' Around the truth and shift, the guest makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'For Russia this is simply excellent.' Because for Russia this is simply excellent, the guest treats the matter as settled.
-- 'But to cook like my grandmother, one has to be born in France.' Explaining that to cook like his grandmother one has to be born in France lays the cards on the table for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Enjoy your meal.' Enjoying the guest's meal is how Barinov lays out the situation for the guest.
-- 'Katya, this is insanely delicious!' The guest insists that this is insanely delicious, leaving Barinov no room to argue.
-- 'What did he say to you?' Wondering what he say to the guest is how Barinov puts the guest on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He said that it is oversalted.' Katya mentions that he said that it is oversalted so Barinov sees what is at stake.
-- 'Listen, does Nikita usually sit here?' By asking whether Nikita usually sit here, the guest presses Barinov for a straight answer.
-- 'Yes, I need to pay him back for something.' Since she needs to pay him back for something, Katya does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Good afternoon, as I understand it, you are Viktor, Katya's dad?' The guest probes evenly as the talk turns, weaving "dobryy" ("good") together with "den" ("day") just the way native speakers do.
+- 'A friend of my daughter is a friend of mine.' Barinov conveys a grounded view toward Katya, linking "drug" ("friend") directly with "docheri" ("of daughter"), since Russian drops "is" and "are" in the present.
+- 'Try the dish, your opinion is very important to me.' Barinov presents a sharp posture at once, pairing "poprobuyte" ("try, taste") with "blyudo" ("dish") to get the point across in plain spoken Russian.
+- 'How delicious, practically as good as in France!' The guest holds a sharp tack right away, joining "kak" ("how") to "vkusno" ("it's tasty") so every word pulls its weight.
+- 'For Russia this is simply excellent.' The guest shares a firm stance in front of Barinov, linking "prosto" ("just"), "otlichno" ("perfect, great"), and "dlya" ("for") in one brisk exchange.
+- 'But to cook like my grandmother, one has to be born in France.' The guest brings an honest tempo with Katya, pairing "roditsya" ("to be born") with "gotovit" ("to cook") so the "-sya" ending carries the action.
+- 'Enjoy your meal.' Barinov favors a thoughtful note in front of the guest, using "priyatnogo" (from "priyatnyy", "pleasant") alongside "appetita" ("appetite") to shape the meaning.
+- 'Katya, this is insanely delicious!' The guest offers an honest approach at this moment, pairing "bezumno" ("madly, crazily") with "vkusno" ("it's tasty") to get the point across in plain spoken Russian.
+- 'What did he say to you?' Barinov queries pointedly for the guest's benefit, leaning on "skazal" ("said") before closing the thought with "chto" ("what").
+- 'He said that it is oversalted.' Katya establishes a thoughtful course in their talk, putting "skazal" ("said") alongside "peresoleno" ("oversalted") in a tight, everyday turn of phrase.
+- 'Listen, does Nikita usually sit here?' The guest probes frankly as they speak, anchoring the Russian line on "slushay" ("listen") and "obychno" ("usually") without extra filler.
+- 'Yes, I need to pay him back for something.' Katya offers a wry position in the scene, building the phrase around "nado" ("it is necessary") and "vernut" ("give back, get back") for a crisp, natural delivery.

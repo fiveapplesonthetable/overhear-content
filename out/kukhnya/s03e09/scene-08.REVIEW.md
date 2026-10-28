@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maximka, you are simply my lucky talisman!' Barinov declares that someone Kostya is simply his lucky talisman as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You and I got really lucky.' Saying that Kostya and he got really lucky is how Barinov sets the tone with Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Kostik, are we going to the rally today?' When Nastya asks if someone are they going to the rally today, Barinov has to answer fast.
-- 'For animal rights, I told you about it.' Mentioning that for animal rights she told Barinov about it moves the talk in a new direction.
-- 'Listen, Nastya, I cannot make it today.' Mentioning that he cannot make it today moves the talk in a new direction.
-- 'I am heading to work right now.' Being heading to work right now is how Kostya lays out the situation for Barinov.
-- 'What do you mean to work? It is our day off!' Here asking what Barinov means to work shows Nastya looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'I got a second job.' Kostya mentions that he got a second job so Barinov sees what is at stake.
-- 'And just where did you get a job?' Nastya asks whether just where did Barinov gets a job, refusing to let the point slide.
-- 'At a sports bar, money for wedding expenses will not hurt.' Pointing out that at a sports bar money for wedding expenses will not hurt gives Barinov a sobering reality check.
-- 'And why are you going there in a suit?' Here wondering why Barinov going there in a suit is shows Nastya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It is just my first day today.' Realizing that it is just his first day today changes how Kostya handles the situation.
+- 'Maximka, you are simply my lucky talisman!' Barinov picks a wry tone at this moment, placing "prosto" ("just") straight beside "talisman" ("talisman, lucky charm") with no word for "to be" needed.
+- 'You and I got really lucky.' Barinov brings a lively footing beside Nastya, combining "krupno" ("big time, greatly") and "povezlo" ("it was lucky") so the key meaning lands right away.
+- 'Kostik, are we going to the rally today?' Nastya inquires evenly in the room, putting "segodnya" ("today") alongside "idyom" ("are going") in a tight, everyday turn of phrase.
+- 'For animal rights, I told you about it.' Nastya presents a direct view in this beat, combining "zashchitu" ("defence") and "zhivotnykh" ("animal") so the key meaning lands right away.
+- 'Listen, Nastya, I cannot make it today.' Kostya keeps an easygoing stance in this beat, building the phrase around "slushay" ("listen") and "segodnya" ("today") for a crisp, natural delivery.
+- 'I am heading to work right now.' Kostya displays a clear style in their talk, combining "seychas" ("now") and "rabotu" ("job") so the key meaning lands right away.
+- 'What do you mean to work? It is our day off!' Nastya tests lightly during the talk, leaning on "kak" ("how") before closing the thought with "rabotu" ("job").
+- 'I got a second job.' Kostya conveys a warm mood on the spot, combining "ustroilsya" ("to settle, to get a job") and "vtoruyu" ("second") so the key meaning lands right away.
+- 'And just where did you get a job?' Nastya presses calmly as they speak, anchoring the Russian line on "kuda" ("where to") and "ustroilsya" ("to settle, to get a job") without extra filler.
+- 'At a sports bar, money for wedding expenses will not hurt.' Kostya projects an earnest style at once, putting "sportbar" ("sports bar") alongside "svadebnyye" ("wedding") in a tight, everyday turn of phrase.
+- 'And why are you going there in a suit?' Nastya tests lightly to Barinov here, using "kostyume" (from "kostyum", "costume") alongside "idyosh" ("are coming") to shape the meaning.
+- 'It is just my first day today.' Kostya strikes an easygoing approach without hesitation, weaving "prosto" ("just") together with "segodnya" ("today") just the way native speakers do.

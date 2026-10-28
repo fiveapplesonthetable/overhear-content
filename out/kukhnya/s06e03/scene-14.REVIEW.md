@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you learned the lines by heart already?' Checking whether Barinov learned the lines by heart already cuts straight through the tension between Nagiyev and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'One question is bothering me, why?' When Barinov asks if one question is bothering him, Nagiyev has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'After all, a doctor heals people, and you break bones.' Saying that after all a doctor heals people and Nagiyev breaks bones is how Barinov sets the tone with Nagiyev.
-- 'Vitya, this is high art!' Because this is high art, Nagiyev does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'He is always right, do you understand?' By being always right do Barinov understands, Nagiyev presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What nonsense this is.' Barinov explains that what nonsense this is, keeping his voice calm and direct.
-- 'Alright, enough eating, let's work!' Declaring that Alright enough eating let them work brings Nagiyev's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'What are you doing, I was playing the ball!' Barinov insists that what are Nagiyev doing he was playing the ball, leaving Nagiyev no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You almost broke my leg, do you hear?' Asking whether Nagiyev almost broke his leg do Nagiyev hears puts Nagiyev right on the defensive.
-- 'Guys, why did you get so worked up?' Asking why Barinov gets so worked up is how Nikita puts Barinov on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Let's do it this way, we take a penalty kick against you and call it a day.' Mentioning that they should do it this way they take a penalty kick against Nagiyev and call it a day moves the talk in a new direction. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Look who appointed himself referee, fine, I am in goal.' Once who appointed himself referee fine he is in goal, Nikita can finally tell Barinov what he means.
+- 'Have you learned the lines by heart already?' Nagiyev tests lightly as the talk turns, leaning on "tekst" ("the text") before closing the thought with "uzhe" ("already, now").
+- 'One question is bothering me, why?' Barinov wonders dryly to make the point, pairing "muchayet" ("torments") with "vopros" ("question, matter") to get the point across in plain spoken Russian.
+- 'After all, a doctor heals people, and you break bones.' Barinov conveys a serious tack in the room, linking "vrach" ("doctor"), "lechit" ("cures, heals"), and "lyudey" ("people") in one brisk exchange.
+- 'Vitya, this is high art!' Nagiyev strikes an earnest tempo without hesitation, anchoring the Russian line on "vysokoye" ("high") and "iskusstvo" ("the Art") without extra filler.
+- 'He is always right, do you understand?' Nagiyev inquires calmly as the beat lands, leaning on "vsegda" ("always") before closing the thought with "prav" ("right").
+- 'What nonsense this is.' Barinov shows a playful style as they talk, anchoring the Russian line on "bred" ("nonsense") and "kakoy" ("what a, how") without extra filler.
+- 'Alright, enough eating, let's work!' Nagiyev shows an earnest direction in this beat, building the phrase around "khvatit" ("enough") and "yest" ("there is") for a crisp, natural delivery.
+- 'What are you doing, I was playing the ball!' Barinov holds a candid attitude as they talk, linking "delayesh" ("are you doing"), "myach" ("ball"), and "igral" ("played") in one brisk exchange.
+- 'You almost broke my leg, do you hear?' Barinov inquires decisively to make the point, leaning on "chut" ("almost, nearly") before closing the thought with "nogu" ("foot").
+- 'Guys, why did you get so worked up?' Nikita prompts honestly to Nagiyev here, linking "rebyata" ("the boys, the lads"), "zavelis" ("got worked up"), and "vy" ("you") in one brisk exchange.
+- 'Let's do it this way, we take a penalty kick against you and call it a day.' Barinov adopts a clear mood without hesitation, joining "davayte" ("let's") to "probivayem" ("take, kick") so every word pulls its weight.
+- 'Look who appointed himself referee, fine, I am in goal.' Nikita presents an earnest mood as they talk, building the phrase around "tozhe" ("too") and "sudya" ("judge") for a crisp, natural delivery.

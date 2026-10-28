@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One time we stole two brides at once.' Noting that one time they stole two brides at once keeps Timur's side of the story simple and clear.
-- 'Do you want us to steal her right now?' By asking whether Ainura wants them to steal her right now, Timur presses Ainura for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Right here, in our hotel?' With the truth and deal hanging in the air, Lyova puts Ainura on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'She is working alone in the laundry room today.' Saying that she is working alone in the laundry room today is how Lyova sets the tone with Ainura.
-- 'Excellent, then I understood everything well.' Once excellent then he understood everything well, Timur can finally tell Ainura what he means.
-- 'Wait for us at home and prepare a celebration.' With the plan and deal in play, Timur keeps this short reply brisk and direct.
-- 'Listen, have you seen Katya by any chance?' Asking whether Ainura seen Katya by any chance cuts straight through the tension between Lyova and Ainura.
-- 'Denis, you are going the wrong way right now.' Since Ainura is going the wrong way right now, Timur does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'There are many roads, but only one true path.' Mentioning that there are many roads but only one true path moves the talk in a new direction.
-- 'Tell me, where is your restroom here?' Asking whether tell him where is Ainura's restroom here puts Ainura right on the defensive.
-- 'Go home, I will finish up your chores.' Going home she will finish up Lyova's chores is how Ainura lays out the situation for Lyova. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do not forget to close the door to the laundry room.' Explaining that do not forget to close the door to the laundry room lays the cards on the table for Lyova.
+- 'One time we stole two brides at once.' Timur chooses a direct mood in this beat, weaving "raz" ("time, once") together with "nevest" ("bride, fiancée") just the way native speakers do.
+- 'Do you want us to steal her right now?' Timur prompts quietly to make the point, using "khochesh" (from "khotet", "do you want") alongside "pryamo" ("right, just") to shape the meaning.
+- 'Right here, in our hotel?' Lyova wonders lightly from the start, anchoring the Russian line on "pryamo" ("right, just") and "zdes" ("here") without extra filler.
+- 'She is working alone in the laundry room today.' Lyova establishes a sharp position in the room, leaning on "segodnya" ("today") before closing the thought with "rabotayet" ("works").
+- 'Excellent, then I understood everything well.' Timur conveys a natural tone in front of Ainura, leaning on "otlichno" ("perfect, great") before closing the thought with "togda" ("back then").
+- 'Wait for us at home and prepare a celebration.' Timur shares a wry direction toward Lyova, leaning on "zhdi" ("wait") before closing the thought with "doma" ("at home").
+- 'Listen, have you seen Katya by any chance?' Lyova asks naturally in the scene, anchoring the Russian line on "slushay" ("listen") and "sluchayno" ("by any chance") without extra filler.
+- 'Denis, you are going the wrong way right now.' Timur sustains an easygoing posture during the exchange, building the phrase around "seychas" ("now") and "idyosh" ("are coming") for a crisp, natural delivery.
+- 'There are many roads, but only one true path.' Timur brings a thoughtful posture in front of Ainura, placing "dorog" ("expensive, dear") straight beside "mnogo" ("a lot") with no word for "to be" needed.
+- 'Tell me, where is your restroom here?' Lyova queries steadily beside Timur, joining "skazhite" ("tell") to "gde" ("where") so every word pulls its weight.
+- 'Go home, I will finish up your chores.' Ainura brings a measured direction across the room, combining "idi" ("go") and "domoy" ("home") so the key meaning lands right away.
+- 'Do not forget to close the door to the laundry room.' Ainura shares a warm bearing as they talk, putting "zabud" ("forget") alongside "zakryt" ("to close, to shut") in a tight, everyday turn of phrase.

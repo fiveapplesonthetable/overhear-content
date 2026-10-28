@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is there a casino located in here?' Asking whether there a casino located in here is how Max puts Barinov on the spot.
-- 'Barinov is here, he called for me.' Saying that Barinov is here he called for him is how Max sets the tone with Barinov.
-- 'Alright, then come in here quickly.' With the table and truth in play, the guest keeps this short reply brisk and direct.
-- 'Maximka, you have finally arrived!' Declaring that someone the guest has finally arrived brings Barinov's temper right to the surface.
-- 'Do you have any money with you?' Checking whether the guest has any money with the guest is how Barinov puts the guest on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Chef, you did not say anything about money.' Because Barinov did not say anything about money, Max treats the matter as settled. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Well, you could have guessed it yourself.' Explaining that the guest could have guessed it themselves lays the cards on the table for the guest.
-- 'Vitya, are you going to keep playing?' Checking whether Barinov going to keep playing cuts straight through the tension between the guest and Barinov. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Yes, I will, I am betting him.' Claiming that he will he is betting him sounds confident, even if the guest has doubts.
-- 'Chef, what on earth are you doing?' Over the bet and the money, Max presses Barinov for a straight answer.
-- 'Be quiet, he is a good, hardworking guy.' Barinov mentions that be quiet he is a good hardworking guy so the guest sees what is at stake.
-- 'Well alright, let us keep playing.' Realizing that alright let them keep playing changes how the guest handles the situation. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Is there a casino located in here?' Max presses firmly in their exchange, building the phrase around "zdes" ("here") and "kazino" ("casino") for a crisp, natural delivery.
+- 'Barinov is here, he called for me.' Max shares a calm bearing straight away, combining "tut" ("here") and "pozval" ("invited") so the key meaning lands right away.
+- 'Alright, then come in here quickly.' The guest offers a serious stance toward Barinov, linking "togda" ("back then"), "zakhodi" ("come in"), and "syuda" ("here") in one brisk exchange.
+- 'Maximka, you have finally arrived!' Barinov shows a calm manner on the spot, leaning on "nakonets-to" ("at last, finally") before closing the thought with "priyekhal" ("came").
+- 'Do you have any money with you?' Barinov questions decisively during the talk, joining "dengi" ("money") to "yest" ("there is") so every word pulls its weight.
+- 'Chef, you did not say anything about money.' Max picks a serious approach in the scene, building the phrase around "govorili" ("talked") and "shef" ("Chef") for a crisp, natural delivery.
+- 'Well, you could have guessed it yourself.' Barinov picks a playful tempo during the exchange, pairing "dogadatsya" ("to guess, to realise") with "vpolne" ("quite") to get the point across in plain spoken Russian.
+- 'Vitya, are you going to keep playing?' The guest presses evenly to keep things clear, leaning on "dalshe" ("next, go on") before closing the thought with "igrat" ("to play").
+- 'Yes, I will, I am betting him.' Barinov conveys a measured direction for the guest, weaving "budu" ("will be") together with "stavlyu" ("put") just the way native speakers do.
+- 'Chef, what on earth are you doing?' Max challenges bluntly from the start, leaning on "delayete" ("are doing") before closing the thought with "shef" ("Chef").
+- 'Be quiet, he is a good, hardworking guy.' Barinov keeps a thoughtful approach across the room, joining "molchi" ("be quiet") to "khoroshiy" ("good") so every word pulls its weight.
+- 'Well alright, let us keep playing.' The guest presents a brisk direction during the exchange, pairing "khorosho" ("good, fine") with "davay" ("let's") to get the point across in plain spoken Russian.

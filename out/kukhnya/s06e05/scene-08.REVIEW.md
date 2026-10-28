@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is everything fine with you today?' Asking whether everything fine with Kostya today cuts straight through the tension between Nastya and Kostya. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'With me yes, everything is fine.' Saying that with him yes everything is fine is how Kostya sets the tone with Nastya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Wait, Nastya, listen to me first.' With the forgiveness and kitchen in play, Kostya keeps this short reply brisk and direct.
-- 'Hear me out, please, to the end.' Realizing that Nastya should hear him out please to the end changes how Kostya handles the situation.
-- 'People sometimes make mistakes in life.' Over the forgiveness and the kitchen, Kostya answers Nastya without a second thought.
-- 'I myself am at fault before you.' Around the forgiveness and kitchen, Kostya sets a calm, everyday tone with Nastya.
-- 'To love is a great ability to forgive.' Mentioning that to love is a great ability to forgive moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You see, I am ready to do that.' Mentioning that he is ready to do moves the talk in a new direction. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Because I love you very much.' Because because he loves Nastya very much, Kostya treats the matter as settled.
-- 'But I will definitely improve soon.' Explaining that he will definitely improve soon lays the cards on the table for Nastya.
-- 'I am ready to wash my socks myself.' Kostya mentions that he is ready to wash his socks himself so Nastya sees what is at stake.
-- 'I will never eat in bed anymore.' Claiming that he will never eat in bed anymore sounds confident, even if Nastya has doubts.
+- 'Is everything fine with you today?' Nastya prompts sharply in the scene, pairing "segodnya" ("today") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
+- 'With me yes, everything is fine.' Kostya picks an unhurried attitude at this moment, linking "khorosho" ("good, fine"), "menya" ("me"), and "da" ("yes") in one brisk exchange.
+- 'Wait, Nastya, listen to me first.' Kostya sets a sharp position straight away, putting "podozhdi" ("wait") alongside "poslushay" ("listen") in a tight, everyday turn of phrase.
+- 'Hear me out, please, to the end.' Kostya picks a frank view with Nastya, leaning on "vyslushay" ("hear out, listen to") before closing the thought with "kontsa" ("ending").
+- 'People sometimes make mistakes in life.' Kostya takes a grounded approach in the conversation, leaning on "lyudi" ("people") before closing the thought with "zhizni" ("life").
+- 'I myself am at fault before you.' Kostya keeps an unhurried style with Nastya, combining "vinovat" ("at fault, guilty") and "ya" ("I") so the key meaning lands right away.
+- 'To love is a great ability to forgive.' Kostya holds an honest tempo across the room, pairing "lyubit" ("love") with "bolshoye" ("big, very much") to get the point across in plain spoken Russian.
+- 'You see, I am ready to do that.' Kostya shares a firm approach in the room, pairing "ponimayesh" ("do you understand") with "gotov" ("ready") to get the point across in plain spoken Russian.
+- 'Because I love you very much.' Kostya shows a brisk attitude as they talk, linking "potomu" ("because"), "ochen" ("very much"), and "lyublyu" ("love") in one brisk exchange.
+- 'But I will definitely improve soon.' Kostya picks a natural angle during the exchange, combining "obyazatelno" ("surely, without fail") and "skoro" ("soon") so the key meaning lands right away.
+- 'I am ready to wash my socks myself.' Kostya sustains a grounded tempo across the room, joining "gotov" ("ready") to "stirat" ("to do the washing") so every word pulls its weight.
+- 'I will never eat in bed anymore.' Kostya maintains a playful tone at once, pairing "bolshe" ("more") with "budu" ("will be") to get the point across in plain spoken Russian.

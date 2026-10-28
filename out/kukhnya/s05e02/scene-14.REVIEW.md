@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A new order for our room.' With the guest and meat in play, Senya keeps this short reply brisk and direct.
-- 'I am carrying this myself today!' Senya insists that he is carrying this himself today, leaving Barinov no room to argue. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'What huge tips they give in there!' Around the kitchen and meat, Senya makes his point loud and clear.
-- 'I have never had tips like these before.' Here having never had tips like these sets up the next turn in their exchange. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'You could at least share with your friends.' Claiming that Mikhail could at least share with Mikhail's friends sounds confident, even if Mikhail has doubts.
-- 'Immediately take this off the table.' Between the guest and the kitchen, Mikhail gives Barinov a quick, grounded response.
-- 'I do not like it when the meat is poorly cooked.' Saying that he does not like it when the meat is poorly cooked is how Mikhail sets the tone with Barinov.
-- 'Right now I will redo everything quickly.' Because right now he will redo everything quickly, Barinov treats the matter as settled.
-- 'No need anymore. Bring some coffee.' Telling Barinov to bring some coffee is how Mikhail lays out the situation for Barinov.
-- 'He is just joking like that today.' Pointing out that he is just joking like that today gives Barinov a sobering reality check.
-- 'This guest got really lucky, right?' Wondering if this guest got really lucky right shows Senya caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The president himself would envy service like this.' Saying that the president himself would envy service like this is how Senya sets the tone with Barinov.
+- 'A new order for our room.' Senya sets a frank attitude in the scene, combining "novyy" ("new") and "zakaz" ("order") so the key meaning lands right away.
+- 'I am carrying this myself today!' Senya projects a playful direction right away, joining "segodnya" ("today") to "nesu" ("am I babbling") so every word pulls its weight.
+- 'What huge tips they give in there!' Senya picks a natural attitude beside Barinov, combining "tam" ("there") and "ogromnyye" ("huge") so the key meaning lands right away.
+- 'I have never had tips like these before.' Senya shares a sharp tone in this beat, weaving "chayevykh" ("tips") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'You could at least share with your friends.' Barinov takes a resolute posture in the scene, using "druzyami" (from "drug", "friends") alongside "podelilsya" ("shared") to shape the meaning.
+- 'Immediately take this off the table.' Mikhail brings a direct course in front of Senya, leaning on "nemedlenno" ("immediately") before closing the thought with "uberite" ("take away, remove").
+- 'I do not like it when the meat is poorly cooked.' Mikhail brings a sharp tempo for Barinov, combining "lyublyu" ("love") and "kogda" ("when") so the key meaning lands right away.
+- 'Right now I will redo everything quickly.' Barinov holds a steady angle in the conversation, leaning on "seychas" ("now") before closing the thought with "bystro" ("quickly").
+- 'No need anymore. Bring some coffee.' Mikhail adopts an unhurried tack in this beat, putting "uzhe" ("already, now") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
+- 'He is just joking like that today.' Mikhail picks a grounded attitude in this beat, pairing "prosto" ("just") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'This guest got really lucky, right?' Senya inquires frankly in the scene, leaning on "gostyu" ("to the guest") before closing the thought with "ochen" ("very much").
+- 'The president himself would envy service like this.' Senya adopts a sharp posture during the exchange, pairing "obsluzhivaniyu" ("service") with "pozaviduyet" ("will envy") to get the point across in plain spoken Russian.

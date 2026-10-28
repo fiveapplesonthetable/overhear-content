@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, and here comes our hero.' Admitting that here comes their hero shows the guest being honest for a change.
-- 'Will you sit down with us for the road?' By checking whether Barinov sits down with them for the road, the guest presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'We are not allowed to sit down in the dining room.' Once they are not allowed to sit down in the dining room, Max can finally tell Barinov what he means.
-- 'Well then let's step outside and you can lie down.' Proposing that they step outside and Barinov can lie down is how the guest lays out the situation for Barinov.
-- 'Let's go outside, we have something to discuss.' Noting that they should go outside they have something to discuss keeps the guest's side of the story simple and clear.
-- 'Alright, only I have a dish in the kitchen.' Since Alright only he has a dish in the kitchen, Max does not waste words on excuses.
-- 'I will finish stuffing it right now and come right out.' Mentioning that he will finish stuffing it right now and come right out moves the talk in a new direction.
-- 'Go on then, we are waiting for you outside.' Because Barinov should go on then they are waiting for Barinov outside, the guest treats the matter as settled. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Hey, pops, why did you call?' When Max asks if pops why did Barinov calls, Barinov has to answer fast.
-- 'Things turned out rather awkwardly between us yesterday.' Explaining that things turned out rather awkwardly between them yesterday lays the cards on the table for Barinov. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'You need money, and I need my daughter.' Barinov mentions that the guest needs money and he needs his daughter so the guest sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Got it, and how much money is here?' Wondering if got it and how much money is here shows Max caught off guard.
-- 'There is exactly one hundred thousand rubles here.' Pointing out that there is exactly one hundred thousand rubles here gives the guest a sobering reality check.
-- 'Do you have any more daughters?' By checking whether Barinov has any more daughters, Max presses Barinov for a straight answer. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
+- 'Oh, and here comes our hero.' The guest keeps an earnest direction in the conversation, weaving "geroy" ("hero") together with "prishyol" ("came, have come") just the way native speakers do.
+- 'Will you sit down with us for the road?' The guest prompts calmly without holding back, linking "prisyadesh" ("will sit down"), "dorozhku" ("journey, road"), and "nami" ("us") in one brisk exchange.
+- 'We are not allowed to sit down in the dining room.' Max conveys an emphatic rhythm without hesitation, weaving "zale" ("hall") together with "polozheno" ("allowed, supposed to") just the way native speakers do.
+- 'Well then let's step outside and you can lie down.' The guest takes a grounded posture in the conversation, putting "togda" ("back then") alongside "poydyom" ("let's go") in a tight, everyday turn of phrase.
+- 'Let's go outside, we have something to discuss.' The guest shows an unhurried note without hesitation, weaving "poydyom" ("let's go") together with "ulitsu" ("street") just the way native speakers do.
+- 'Alright, only I have a dish in the kitchen.' Max shows an honest posture across the room, combining "khorosho" ("good, fine") and "tolko" ("only") so the key meaning lands right away.
+- 'I will finish stuffing it right now and come right out.' Max holds a candid tone at once, linking "seychas" ("now"), "dofarshiruyu" ("will finish stuffing"), and "srazu" ("at once") in one brisk exchange.
+- 'Go on then, we are waiting for you outside.' The guest shares a thoughtful bearing in this beat, weaving "idi" ("go") together with "davay" ("let's") just the way native speakers do.
+- 'Hey, pops, why did you call?' Max checks briskly to make the point, weaving "zdorovo" ("great, cool") together with "batya" ("Dad, the old man") just the way native speakers do.
+- 'Things turned out rather awkwardly between us yesterday.' Max presents an unhurried tempo in the conversation, leaning on "vchera" ("yesterday") before closing the thought with "kak-to" ("somehow, a bit").
+- 'You need money, and I need my daughter.' Barinov establishes a playful direction in their talk, pairing "nuzhny" ("needed") with "dengi" ("money") to get the point across in plain spoken Russian.
+- 'Got it, and how much money is here?' Max checks earnestly without a pause, combining "ponyal" ("understood") and "skolko" ("how much, so much") so the key meaning lands right away.
+- 'There is exactly one hundred thousand rubles here.' Barinov keeps a playful approach as the scene unfolds, linking "zdes" ("here") directly with "rovno" ("exactly"), since Russian drops "is" and "are" in the present.
+- 'Do you have any more daughters?' Max probes frankly for the guest's benefit, weaving "yeshchyo" ("more, still") together with "dochki" ("daughters") just the way native speakers do.

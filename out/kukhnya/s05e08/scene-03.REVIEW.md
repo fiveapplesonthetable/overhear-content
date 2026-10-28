@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look what a massive stone that is.' Admitting that what a massive stone that is shows Senya being honest for a change.
-- 'At our job I can only earn a stone that big in my kidneys.' Saying that at their job he can only earn a stone that big in his kidneys is how Fedya sets the tone with Kostya.
-- 'Kostyan, are you not afraid that Nastya will take the order to the sheikh?' Questioning whether someone are Fedya not afraid that Nastya will take the order to the sheikh is how Senya tests Fedya's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He will fall in love with her and kidnap her into his harem.' Adding that he will fall in love with her and kidnap her into his harem fills in the missing piece for Fedya.
-- 'The sheikh, Nastya? I beg you, who needs her?' Over the work and the ring, Kostya presses Fedya for a straight answer.
-- 'I mean, Nastya, I need you!' By meaning Nastya he needs Fedya, Kostya raises the stakes in the room at once. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Once we get the ring, I will buy myself a country house.' Mentioning that once they get the ring he will buy himself a country house moves the talk in a new direction.
-- 'Listen, thirty acres of beach.' With the shift and ring in play, Fedya keeps this short reply brisk and direct.
-- 'Stop wasting ingredients!' Here stopping wasting ingredients lets Kostya's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'The Chef just ate your dream.' Explaining that the Chef just ate Kostya's dream lays the cards on the table for Kostya.
-- 'Order for the second floor: cheese with baked pear.' Pointing out that Fedya should order for the second floor cheese with baked pear gives Fedya a sobering reality check.
-- 'Chef, Fedya and I will make it ourselves!' Because Fedya and he will make it themselves, Senya does not bother softening the blow for Fedya. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Look what a massive stone that is.' Senya maintains a natural approach across the room, combining "glyadi" ("look, take a look") and "kamen" ("stone") so the key meaning lands right away.
+- 'At our job I can only earn a stone that big in my kidneys.' Fedya adopts a firm stance with Senya, pairing "rabote" ("work") with "kamen" ("stone") to get the point across in plain spoken Russian.
+- 'Kostyan, are you not afraid that Nastya will take the order to the sheikh?' Senya tests boldly right away, putting "boishsya" ("you are afraid") alongside "otnesyot" ("will take, bring") in a tight, everyday turn of phrase.
+- 'He will fall in love with her and kidnap her into his harem.' Senya brings a grounded manner during the exchange, putting "vlyubitsya" ("will fall in love") alongside "pokhitit" ("will kidnap") in a tight, everyday turn of phrase.
+- 'The sheikh, Nastya? I beg you, who needs her?' Kostya asks lightly beside Fedya, combining "sheykh" ("sheikh") and "umolyayu" ("I beg") so the key meaning lands right away.
+- 'I mean, Nastya, I need you!' Kostya shares an honest view in the room, combining "smysle" ("sense") and "nuzhna" ("needed") so the key meaning lands right away.
+- 'Once we get the ring, I will buy myself a country house.' Senya holds an honest course in front of Fedya, joining "poluchim" ("will get, receive") to "persten" ("signet, gem ring") so every word pulls its weight.
+- 'Listen, thirty acres of beach.' Fedya displays a brisk stance in the conversation, putting "slysh" ("listen") alongside "sotok" ("hundredths of a hectare") in a tight, everyday turn of phrase.
+- 'Stop wasting ingredients!' Kostya shows a firm course as they talk, linking "khvatit" ("enough"), "produkty" ("groceries"), and "perevodit" ("to transfer") in one brisk exchange.
+- 'The Chef just ate your dream.' Fedya shares an unhurried stance in their talk, leaning on "mechtu" ("dream") before closing the thought with "syel" ("ate").
+- 'Order for the second floor: cheese with baked pear.' Kostya sets a candid position right away, anchoring the Russian line on "zakaz" ("order") and "vtoroy" ("second") without extra filler.
+- 'Chef, Fedya and I will make it ourselves!' Senya brings a clear style in the conversation, leaning on "sdelayem" ("we'll do") before closing the thought with "shef" ("Chef").

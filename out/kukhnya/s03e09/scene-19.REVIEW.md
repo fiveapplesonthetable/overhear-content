@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, forgive me, I was lying to you.' Adding that he was lying to Vika fills in the missing piece for Vika.
-- 'In reality I have been working for your dad.' Kostya tells Vika that in reality he has been working for Vika's dad without dressing it up.
-- 'Or rather, I used to work here.' Since rather he used to work here, Kostya does not waste words on excuses.
-- 'I will no longer be able to work for you.' Mentioning that he will no longer be able to work for Vika moves the talk in a new direction.
-- 'Because Nastya is against this kind of work.' Kostya reminds Vika that because Nastya is against this kind of work before the moment passes.
-- 'And there is no need to lend us money.' Because there is no need to lend them money, Kostya treats the matter as settled. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I will definitely earn it myself.' Explaining that he will definitely earn it himself lays the cards on the table for Vika.
-- 'Katya, you do not need to bring your diploma anymore.' Saying that Kostya does not need to bring Kostya's diploma anymore is how Vika sets the tone with Kostya.
-- 'I sent an official inquiry to Paris.' Claiming that she sent an official inquiry to Paris sounds confident, even if Kostya has doubts.
-- 'They replied to me that you were expelled from there.' Pointing out that they replied to her that Kostya was expelled from there gives Kostya a sobering reality check.
-- 'I chose not to tell your father.' Over the conversation and the secret, Vika answers Kostya without a second thought.
-- 'I thought you would want to tell him that yourself.' Realizing that she thought Kostya would want to tell him that themselves changes how Vika handles the situation. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'Nastya, forgive me, I was lying to you.' Kostya establishes a calm tone as they talk, pairing "prosti" ("sorry, forgive me") with "vral" ("to lie, to tell lies") to get the point across in plain spoken Russian.
+- 'In reality I have been working for your dad.' Kostya offers a playful bearing without hesitation, building the phrase around "samom" ("very") and "dele" ("case") for a crisp, natural delivery.
+- 'Or rather, I used to work here.' Kostya offers an earnest posture on the spot, building the phrase around "tochneye" ("definitely") and "tut" ("here") for a crisp, natural delivery.
+- 'I will no longer be able to work for you.' Kostya adopts an emphatic posture on the spot, joining "bolshe" ("more") to "smogu" ("will be able to") so every word pulls its weight.
+- 'Because Nastya is against this kind of work.' Kostya strikes a resolute line in the scene, building the phrase around "potomu" ("because") and "raboty" ("of work") for a crisp, natural delivery.
+- 'And there is no need to lend us money.' Kostya picks an unhurried manner straight away, leaning on "deneg" ("money") before closing the thought with "zanimat" ("occupy, take up").
+- 'I will definitely earn it myself.' Kostya takes a grounded course straight away, putting "obyazatelno" ("surely, without fail") alongside "zarabotayu" ("will earn") in a tight, everyday turn of phrase.
+- 'Katya, you do not need to bring your diploma anymore.' Vika sustains an earnest tempo straight away, building the phrase around "mozhesh" ("can") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'I sent an official inquiry to Paris.' Vika maintains a sharp position without hesitation, building the phrase around "sdelala" ("have done, did") and "ofitsialnyy" ("official") for a crisp, natural delivery.
+- 'They replied to me that you were expelled from there.' Vika shows an emphatic line as they talk, joining "otvetili" ("answered") to "ottuda" ("from there") so every word pulls its weight.
+- 'I chose not to tell your father.' Vika takes a measured mood at this moment, linking "stala" ("have become"), "govorit" ("to talk"), and "ottsu" ("to father") in one brisk exchange.
+- 'I thought you would want to tell him that yourself.' Vika sets a serious footing in their talk, anchoring the Russian line on "podumala" ("thought") and "zakhochesh" ("you want") without extra filler.

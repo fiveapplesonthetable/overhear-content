@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You do not understand.' Max tells Kostya that Kostya does not understand without dressing it up. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Max, please tell me, why did you do this?' Kostya asks whether tell him why did Max does this, refusing to let the point slide. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Do you realize you cannot treat people like that?' By checking whether Kostya realizes Kostya cannot treat people like, Max presses Kostya for a straight answer.
-- 'Let me explain everything at home, alright?' Asking whether let him explain everything at home alright puts Max right on the defensive. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Nobody wants to see you.' Because nobody wants to see Kostya, Max treats the matter as settled. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Neither here nor at home.' Between the shift and the apartment, Kostya gives Max a quick, grounded response.
-- 'There is no such thing as a war without casualties.' Max mentions that there is no such thing as a war without casualties so Kostya sees what is at stake.
-- 'Turns out your entertainment program is pretty lively after all.' Claiming that turns out Max's entertainment program is pretty lively after all sounds confident, even if Max has doubts.
-- 'I understand now.' Max explains that he understands now, keeping his voice calm and direct.
-- 'In any war, it is the innocent who suffer the most.' Kostya explains that in any war it is the innocent who suffer, keeping his voice calm and direct.
-- 'Those who get dragged into the battle against their will.' Realizing that those who get dragged into the battle against their will changes how Max handles the situation.
-- 'War is the way of deception.' Noting that war is the way of deception keeps Kostya's side of the story simple and clear.
-- 'And sometimes the one who ends up deceived is yourself.' Even though sometimes the one who ends up deceived is themselves, Max keeps a steady face in front of Kostya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'You do not understand.' Max offers a serious tack in the conversation, building the phrase around "ponimayesh" ("do you understand") and "ty" ("you") for a crisp, natural delivery.
+- 'Max, please tell me, why did you do this?' Kostya asks firmly to keep things clear, leaning on "skazhi" ("say") before closing the thought with "zachem" ("what for").
+- 'Do you realize you cannot treat people like that?' Max wonders decisively in this moment, joining "ponimayesh" ("do you understand") to "lyudmi" ("people") so every word pulls its weight.
+- 'Let me explain everything at home, alright?' Kostya asks openly right away, combining the easygoing tag "ladno" ("okay, fine") with "davayte" ("let's") to give the line its natural spoken rhythm.
+- 'Nobody wants to see you.' Max sets an unhurried bearing without hesitation, pairing "khochet" ("wants") with "videt" ("to see") to get the point across in plain spoken Russian.
+- 'Neither here nor at home.' Kostya holds a brisk attitude at once, anchoring the Russian line on "zdes" ("here") and "doma" ("at home") without extra filler.
+- 'There is no such thing as a war without casualties.' Max sets an honest manner in the scene, combining "voyn" ("war") and "poter" ("loss") so the key meaning lands right away.
+- 'Turns out your entertainment program is pretty lively after all.' Kostya favors a resolute attitude in the room, leaning on "programma" ("programme") before closing the thought with "interesneye" ("interesting").
+- 'I understand now.' Max keeps a grounded stance in front of Kostya, joining "ponyal" ("understood") to "ya" ("I") so every word pulls its weight.
+- 'In any war, it is the innocent who suffer the most.' Kostya maintains a thoughtful approach at once, joining "bolshe" ("more") to "voyny" ("of war") so every word pulls its weight.
+- 'Those who get dragged into the battle against their will.' Max picks a thoughtful attitude at once, pairing "okazalis" ("to turn out to be") with "vtyanuty" ("drawn in, involved") to get the point across in plain spoken Russian.
+- 'War is the way of deception.' Kostya adopts a natural tempo for Max, building the phrase around "voyna" ("a war") and "put" ("path") for a crisp, natural delivery.
+- 'And sometimes the one who ends up deceived is yourself.' Max sets a playful manner as the scene unfolds, putting "poroy" ("at times, occasionally") alongside "obmanutym" ("deceived, cheated") in a tight, everyday turn of phrase.

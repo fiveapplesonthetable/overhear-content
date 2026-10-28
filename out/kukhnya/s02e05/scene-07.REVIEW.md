@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Вика | Я тебя поддерживаю. | I am here to support you. | #99: я тебя поддерживаю | verbatim |
-| 2 | Костя | Костя, а ты о чем? | Kostya, what are you talking about? | #101: Костя, а ты о чем | verbatim |
+| 2 | Вика | Костя, а ты о чем? | Kostya, what are you talking about? | #101: Костя, а ты о чем | verbatim |
 | 3 | Вика | Я фильм вчера смотрел. | I watched a movie yesterday. | #103: Я фильм вчера смотрел | verbatim |
 | 4 | Костя | Ну, ты смотри, не увлекайся такими фильмами. | Well, be careful not to get too carried away with movies like that. | #104: Ну, ты смотри, не увлекайся такими фильмами | verbatim |
 | 5 | Вика | Иди сюда, поможешь мне. | Come over here and help me. | #105: Иди сюда, поможешь мне | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am here to support you.' Because she is here to support Kostya, Vika treats the matter as settled.
-- 'Kostya, what are you talking about?' Here asking what Vika talking is shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I watched a movie yesterday.' Even though she watched a movie yesterday, Vika keeps a steady face in front of Kostya.
-- 'Well, be careful not to get too carried away with movies like that.' With the conversation and work in play, Kostya keeps this short reply brisk and direct.
-- 'Come over here and help me.' Telling Kostya to come over here and help is how Vika lays out the situation for Kostya.
-- 'Come on, hurry it up.' Claiming that Vika should come on hurry it up sounds confident, even if Vika has doubts. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'This one is ready.' Adding that this one is ready fills in the missing piece for Kostya.
-- 'You will not give it all away.' Kostya tells Vika that Vika will not give it all away without dressing it up.
-- 'And to think someone was shouting that you never fry tartare.' Since to think someone was shouting that Kostya never fry tartare, Vika does not waste words on excuses.
-- 'And I will never do it again, believe me.' Mentioning that he will never do it again believe him moves the talk in a new direction.
-- 'I am afraid you are going to have to.' Vika mentions that she is afraid Kostya is going to have so Kostya sees what is at stake.
-- 'She liked everything very much.' Because she liked everything very much, Kostya treats the matter as settled.
-- 'Well, what would you not do in the name of your favorite team.' Explaining that what would Kostya not do in the name of Kostya's favorite team lays the cards on the table for Kostya.
+- 'I am here to support you.' Vika conveys a warm line at once, using "podderzhivayu" (from "podderzhivat", "to support") alongside "ya" ("I") to shape the meaning.
+- 'Kostya, what are you talking about?' Vika presses lightly across the room, building the phrase around "kostya" ("Kostya") and "ty" ("you") for a crisp, natural delivery.
+- 'I watched a movie yesterday.' Vika picks an earnest angle at once, weaving "film" ("movie") together with "vchera" ("yesterday") just the way native speakers do.
+- 'Well, be careful not to get too carried away with movies like that.' Kostya picks a warm posture beside Vika, joining "smotri" ("look") to "uvlekaysya" ("get carried away") so every word pulls its weight.
+- 'Come over here and help me.' Vika offers a lively bearing toward Kostya, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.
+- 'Come on, hurry it up.' Kostya sets a brisk view in the room, combining the everyday invitation "davay" ("come on, let us") with "davay" ("let's") to give the line its natural spoken rhythm.
+- 'This one is ready.' Vika shares an earnest view beside Kostya, putting "gotovo" ("ready") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'You will not give it all away.' Kostya keeps an earnest tone at once, linking "otdash" ("to give, to hand over"), "vse" ("all"), and "ne" ("not") in one brisk exchange.
+- 'And to think someone was shouting that you never fry tartare.' Vika strikes a lively bearing straight away, using "krichal" (from "krichat", "yelled") alongside "tartary" ("tartare") to shape the meaning.
+- 'And I will never do it again, believe me.' Kostya strikes a playful direction in this beat, linking "nikogda" ("never"), "bolshe" ("more"), and "sdelayesh" ("will you make") in one brisk exchange.
+- 'I am afraid you are going to have to.' Vika favors a wry direction straight away, using "boyus" (from "boyatsya", "am afraid") alongside "pridetsya" ("will have to") to shape the meaning.
+- 'She liked everything very much.' Kostya picks a brisk style during the exchange, combining "ochen" ("very much") and "ponravilos" ("pleased, was liked") so the key meaning lands right away.
+- 'Well, what would you not do in the name of your favorite team.' Vika projects a playful approach at once, building the phrase around "sdelayesh" ("will you make") and "imya" ("name") for a crisp, natural delivery.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you think you are doing here, huh?' Wondering what Ainura thinks Ainura is doing here huh cuts straight through the tension between Barinov and Ainura.
-- 'How did you decide not to feed vegetarians normal food?' Asking how Barinov decides not to feed vegetarians normal food is how Ainura puts Barinov on the spot. Notice how she sticks to the formal "you", keeping a professional line between them.
-- 'With meat.' Between the truth and the plan, Barinov gives Ainura a quick, grounded response.
-- 'What happens when the chef is away?' Asking whether what happens when the is away puts Barinov right on the defensive.
-- 'Oh. Go on.' Between the plan and the guest, Barinov gives Ainura a quick, grounded response.
-- 'Right now a vegetarian out there is about to eat meat.' Saying that right now a vegetarian out there is about to eat meat is how Ainura sets the tone with Barinov.
-- 'What do you mean, meat?' Here wondering what Ainura means meat shows Barinov looking for the real truth.
-- 'Why are you panicking?' By asking why Barinov panicking is, Ainura presses Barinov for a straight answer. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'He will not even notice anything.' Saying that he will not even notice anything is how Barinov sets the tone with Ainura. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Really, it is true.' Because really it is true, Ainura treats the matter as settled.
-- 'You will even thank me later.' Explaining that Ainura will even thank him later lays the cards on the table for Ainura.
-- 'Agreed, vegetarians are total idiots too.' Ainura mentions that agreed vegetarians are total idiots so Barinov sees what is at stake.
-- 'Total idiots, right?' With the shift and meat hanging in the air, Barinov puts Ainura on the spot.
+- 'What do you think you are doing here, huh?' Barinov tests steadily to keep things clear, putting "tut" ("here") alongside "delayete" ("are doing") in a tight, everyday turn of phrase.
+- 'How did you decide not to feed vegetarians normal food?' Ainura quizzes evenly in their exchange, joining "kak" ("how") to "reshili" ("decided") so every word pulls its weight.
+- 'With meat.' Barinov projects a steady direction at this moment, putting all the weight on "myasom" ("meat") so the reply lands immediately.
+- 'What happens when the chef is away?' Ainura quizzes steadily across the room, putting "kuda" ("where to") alongside "shefa" ("chef") in a tight, everyday turn of phrase.
+- 'Oh. Go on.' Barinov shares a pointed footing beside Ainura, putting all the weight on "idi" ("go") so the reply lands immediately.
+- 'Right now a vegetarian out there is about to eat meat.' Ainura brings a playful rhythm at once, pairing "tam" ("there") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'What do you mean, meat?' Barinov wonders sharply on the spot, weaving "kak" ("how") together with "myaso" ("meat") just the way native speakers do.
+- 'Why are you panicking?' Ainura questions steadily from the start, pairing "panikuyesh" ("to panic") with "chyo" ("what") to get the point across in plain spoken Russian.
+- 'He will not even notice anything.' Barinov sets an easygoing style across the room, doubling the negative with "ne" ("not") and "zametit" ("notices"), which is standard and required in Russian.
+- 'Really, it is true.' Ainura picks an unhurried attitude as the scene unfolds, leaning on "samom" ("very") before closing the thought with "dele" ("case").
+- 'You will even thank me later.' Barinov chooses a lively note with Ainura, linking "yeshchyo" ("more, still"), "spasibo" ("thank you"), and "skazhesh" ("will you say") in one brisk exchange.
+- 'Agreed, vegetarians are total idiots too.' Ainura favors a firm tack for Barinov, linking "soglasen" ("agreed"), "vegetarianskiye" ("vegetarian"), and "yeshchyo" ("more, still") in one brisk exchange.
+- 'Total idiots, right?' Barinov checks plainly toward Ainura here, putting all the weight on "idioty" ("idiot, fool") so the reply lands immediately.

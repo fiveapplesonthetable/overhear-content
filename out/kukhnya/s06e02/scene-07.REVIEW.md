@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I added a little sage, try it.' Around the conversation and recipe, Senya sets a calm, everyday tone with Barinov.
-- 'You added sage?' With the menu and truth hanging in the air, Barinov puts Nastya on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'This is a dish by Viktor Barinov!' Insisting that this is a dish by Viktor Barinov shows Barinov is not backing down. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Chef, can we prepare ribs from the old menu?' By checking whether they prepare ribs from the old menu, Nastya presses Barinov for a straight answer.
-- 'The prefect just arrived out there and demands ribs.' Even though the prefect just arrived out there and demands ribs, Nastya keeps a steady face in front of Barinov.
-- 'He said that he did not understand half the words on the menu.' Admitting that he said that he did not understand half the words on the menu shows Nastya being honest for a change.
-- 'Do I have an inspection from city hall?' Here checking whether he has an inspection from city hall shows Barinov looking for the real truth.
-- 'Nikolai Maryanovich, my respects!' Barinov declares that Nikolai Maryanovich his respects as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hello, Vitya, are you going to feed me?' Checking whether Barinov going to feed him cuts straight through the tension between Senya and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am glad to offer you dishes from my auteur menu.' Since he is glad to offer Nastya dishes from his auteur menu, Barinov does not waste words on excuses.
-- 'Do not worry, everything will be delicious and fast.' Once do not worry everything will be delicious and fast, Barinov can finally tell Nastya what he means. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Choose a dish.' Adding that Nastya should choose a dish fills in the missing piece for Nastya.
+- 'Chef, I added a little sage, try it.' Senya sets a resolute posture across the room, building the phrase around "nemnogo" ("a bit") and "shalfey" ("sage") for a crisp, natural delivery.
+- 'You added sage?' Barinov presses calmly in this moment, putting "shalfey" ("sage") alongside "dobavil" ("added") in a tight, everyday turn of phrase.
+- 'This is a dish by Viktor Barinov!' Barinov conveys a grounded direction toward Nastya, leaning on "blyudo" ("dish") before closing the thought with "eto" ("this").
+- 'Chef, can we prepare ribs from the old menu?' Nastya tests bluntly with Senya now, building the phrase around "mozhem" ("can") and "rebryshki" ("ribs") for a crisp, natural delivery.
+- 'The prefect just arrived out there and demands ribs.' Nastya chooses a thoughtful footing without hesitation, putting "tam" ("there") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'He said that he did not understand half the words on the menu.' Nastya takes a natural attitude at this moment, building the phrase around "skazal" ("said") and "polovinu" ("half") for a crisp, natural delivery.
+- 'Do I have an inspection from city hall?' Barinov checks honestly in the scene, weaving "proverka" ("a test") together with "merii" ("town hall") just the way native speakers do.
+- 'Nikolai Maryanovich, my respects!' Barinov sets a wry stance in this beat, combining "pochteniye" ("respect") and "nikolay" ("Nikolai") so the key meaning lands right away.
+- 'Hello, Vitya, are you going to feed me?' Senya quizzes calmly in this moment, linking "zdorovo" ("great, cool"), "kormit" ("to feed"), and "budesh" ("will") in one brisk exchange.
+- 'I am glad to offer you dishes from my auteur menu.' Barinov projects a sharp tone at once, linking "rad" ("glad"), "predlozhit" ("to offer"), and "blyuda" ("of dish") in one brisk exchange.
+- 'Do not worry, everything will be delicious and fast.' Barinov strikes a grounded tempo for Nastya, weaving "volnuytes" ("worry") together with "budet" ("will be") just the way native speakers do.
+- 'Choose a dish.' Barinov holds a serious manner during the exchange, anchoring the Russian line on "vybirayte" ("choose") and "blyudo" ("dish") without extra filler.

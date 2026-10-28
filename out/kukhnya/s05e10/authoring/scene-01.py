@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 INTRO = 'Max explains how a special commission inspects every corner of a hotel to award its star rating. Meanwhile in the restaurant, a polite guest settles his bill with Nastya in what look like dollars—until Kostya sees they are paper napkins.'
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes our opening scene in the dining room. Listen for the comparative structure meaning the more stars, the better the service, and Nastya's surprise at the bar. Until next time!"
+OUTRO = "And that finishes our opening scene in the dining room. Listen for the comparison phrase meaning the more stars, the better the service, and Nastya's surprise at the bar. Until next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Как выбрать хороший отель для отпуска?', 'How do you choose a good hotel for a vacation?', [(1, 'Как выбрать хороший отель для отпуска')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Доллары!', 'Dollars!', [(19, 'Доллары')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'How do you choose a good hotel for a vacation?' Here asking how Kostya chooses a good hotel for a vacation shows Max looking for the real truth."),
-    (1, None, '\'Or for a business trip?\' With the point and hotel hanging in the air, Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (2, None, "'There is one simple rule.' Claiming that there is one simple rule sounds confident, even if Kostya has doubts."),
-    (3, None, "'The more stars, the better the service.' With the shift and award in play, Max keeps this short reply brisk and direct."),
-    (4, None, "'A special commission inspects every corner of the hotel.' Over the shift and the award, Max answers Kostya without a second thought."),
-    (5, None, "'Forgive me, I did not have time to exchange money.' Claiming that he did not have time to exchange money sounds confident, even if Kostya has doubts."),
-    (6, None, "'Is it alright if I pay in dollars?' Checking whether it alright if he pays in dollars cuts straight through the tension between Max and Kostya."),
-    (7, None, '\'Will this be enough?\' Asking whether this be enough is how Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (8, None, "'Of course, here you go.' Admitting that here Kostya goes shows Nastya being honest for a change."),
-    (9, None, "'Kostik, look how much I earned!' Over the hotel and the guest, Nastya lets her real feelings show."),
-    (10, None, '\'What is this?\' With the hotel and award hanging in the air, Kostya puts Max on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (11, None, "'Dollars!' With the hotel and shift at stake, Nastya reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat."),
+    (0, None, '\'How do you choose a good hotel for a vacation?\' Max asks directly without a pause, pairing "kak" ("how") with "vybrat" ("to choose") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Or for a business trip?\' Max challenges quietly as the talk turns, joining "delovoy" ("business, businesslike") to "poyezdki" ("trip, journey") so every word pulls its weight.'),
+    (2, None, '\'There is one simple rule.\' Max favors a steady footing for Kostya, using "yest" (from "byt", "there is") alongside "prostoye" ("simple") to shape the meaning.'),
+    (3, None, '\'The more stars, the better the service.\' Max chooses a warm approach at once, pairing "bolshe" ("more") with "zvyozd" ("stars") to get the point across in plain spoken Russian.'),
+    (4, None, '\'A special commission inspects every corner of the hotel.\' Max sets a sharp direction as the scene unfolds, pairing "spetsialnaya" ("special") with "komissiya" ("commission") to get the point across in plain spoken Russian.'),
+    (5, None, '\'Forgive me, I did not have time to exchange money.\' Max shows a thoughtful footing with Nastya, weaving "prostite" ("excuse me") together with "uspel" ("managed in time") just the way native speakers do.'),
+    (6, None, '\'Is it alright if I pay in dollars?\' Max queries candidly during the talk, leaning on "rasschitayus" ("pay") before closing the thought with "dollarami" ("dollars").'),
+    (7, None, '\'Will this be enough?\' Max probes lightly in their exchange, leaning on "khvatit" ("enough") before closing the thought with "etogo" ("that").'),
+    (8, None, '\'Of course, here you go.\' Nastya displays a direct line in front of Kostya, combining "konechno" ("of course") and "proshu" ("beg, ask") so the key meaning lands right away.'),
+    (9, None, '\'Kostik, look how much I earned!\' Nastya shares a brisk approach without hesitation, anchoring the Russian line on "smotri" ("look") and "skolko" ("how much, so much") without extra filler.'),
+    (10, None, '\'What is this?\' Kostya presses bluntly in front of Max, building the phrase around "chto" ("what") and "eto" ("this") for a crisp, natural delivery.'),
+    (11, None, '\'Dollars!\' Nastya shows a playful tack in their talk, leaning on "dollary" ("dollars") as a compact, one-word response that needs no extra words.'),
 ]

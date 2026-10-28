@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, let the car stay right here.' Admitting that fine let the car stay right here shows Max being honest for a change.
-- 'Do you have any more questions?' Checking whether Katya has any more questions is how Barinov puts Katya on the spot.
-- 'I have one, do you run fast?' When Max asks if he has one do Barinov runs fast, Barinov has to answer fast. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And what business is that of yours?' Asking whether what business is puts Katya right on the defensive. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Hi, why do you keep calling me?' Wondering why Barinov keeps calling cuts straight through the tension between Katya and Barinov.
-- 'Where were you, I cannot get through to you!' Barinov declares that where were Katya he cannot get through to Katya as the tension in the room peaks. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I was busy last night.' Mentioning that she was busy last night moves the talk in a new direction.
-- 'Were you with that biker?' By checking whether Katya with that biker, Barinov presses Katya for a straight answer.
-- 'But he is a total creep!' Declaring that he is a total creep brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I forbid you to date him.' Once he forbids Katya to date him, Barinov can finally tell Katya what he means. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Do you know why they call him Piston?' Here checking whether Barinov knows why they call him shows Katya looking for the real truth.
-- 'Imagine that, I know very well!' Here telling Katya to imagine that he knows very well lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Because he pumps up motorcycle tires by hand!' With the work and point at stake, Katya reacts without holding back. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Fine, let the car stay right here.' Max displays a direct line as the scene unfolds, anchoring the Russian line on "mashina" ("a car") and "tut" ("here") without extra filler.
+- 'Do you have any more questions?' Barinov tests openly without hesitation, putting "yeshchyo" ("more, still") alongside "yest" ("there is") in a tight, everyday turn of phrase.
+- 'I have one, do you run fast?' Max wonders decisively as the beat lands, building the phrase around "yest" ("there is") and "begayesh" ("run") for a crisp, natural delivery.
+- 'And what business is that of yours?' Barinov tests calmly right away, combining "delo" ("matter") and "tebe" ("for you, to you") so the key meaning lands right away.
+- 'Hi, why do you keep calling me?' Katya questions naturally at this point, leaning on "nazvanivayesh" ("keep calling") before closing the thought with "privet" ("hi").
+- 'Where were you, I cannot get through to you!' Barinov keeps a frank view at once, joining "gde" ("where") to "byla" ("was") so every word pulls its weight.
+- 'I was busy last night.' Katya maintains a frank style in their talk, anchoring the Russian line on "vchera" ("yesterday") and "vecherom" ("in the evening") without extra filler.
+- 'Were you with that biker?' Barinov queries evenly as the talk turns, anchoring the Russian line on "byla" ("was") and "baykerom" ("with a biker") without extra filler.
+- 'But he is a total creep!' Barinov sets a serious tempo in the conversation, anchoring the Russian line on "prosto" ("just") and "moralnyy" ("moral") without extra filler.
+- 'I forbid you to date him.' Barinov displays a lively style across the room, combining "zapreshchayu" ("forbid") and "vstrechatsya" ("to meet") so the key meaning lands right away.
+- 'Do you know why they call him Piston?' Katya inquires plainly from the start, putting "znayesh" ("know") alongside "pochemu" ("why") in a tight, everyday turn of phrase.
+- 'Imagine that, I know very well!' Barinov holds a frank attitude in the conversation, using "predstav" (from "predstavit", "imagine") alongside "prekrasno" ("perfectly") to shape the meaning.
+- 'Because he pumps up motorcycle tires by hand!' Katya sets a candid posture straight away, combining "potomu" ("because") and "kolesa" ("wheels, tires") so the key meaning lands right away.

@@ -16,7 +16,7 @@ TRANSITION = "Let's hear the complete conversation once more."
 OUTRO = "That wraps up this scene as nastya's father receives a ransom call demanding a large sum of money that very day, revealing that Nastya staged her own kidnapping with her homeless friends. Until next time!"
 CLOSING = ('nastya', 'Увидимся!')
 STORY = [
-    ('nastya', 'Настя. Настенька.', 'Nastya. Little Nastya.', [(72, 'Настя. Настенька')], ''),
+    ('senya', 'Настя. Настенька.', 'Nastya. Little Nastya.', [(72, 'Настя. Настенька')], ''),
     ('senya', 'Еще раз добрый вечер.', 'Good evening once again.', [(73, 'Еще раз добрый вечер')], ''),
     ('nastya', 'Где дочь моя?', 'Where is my daughter?', [(74, 'Где дочь моя')], ''),
     ('senya', 'Но мы хотим получить за нее много денег.', 'We want to receive a lot of money for her.', [(75, 'Но мы хотим получить за нее много денег')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Заберете деньги у папы.', 'You will collect the money from my dad.', [(88, 'Заберете деньги у папы')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya. Little Nastya.' With the shift and call in play, Nastya keeps this short reply brisk and direct."),
-    (1, None, "'Good evening once again.' With the shift and money in play, Senya keeps this short reply brisk and direct."),
-    (2, None, "'Where is my daughter?' Asking where her daughter is cuts straight through the tension between Nastya and Senya."),
-    (3, None, "'We want to receive a lot of money for her.' Wanting to receive a lot of money is how Senya lays out the situation for Nastya."),
-    (4, None, "'This very day.' Between the moment and the call, Nastya gives Senya a quick, grounded response."),
-    (5, None, "'How much is a lot?' Senya asks whether how much is a lot, refusing to let the point slide."),
-    (6, None, '\'How much do we need?\' Asking whether how much do they need puts Senya right on the defensive. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (7, None, '\'It is me.\' Adding that it is him fills in the missing piece for Nastya. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (8, None, "'And right now.' Over the conversation and the call, Nastya answers Senya without a second thought."),
-    (9, None, '\'Your daughter is going to suffer.\' Since Nastya\'s daughter is going to suffer, Senya does not waste words on excuses. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (10, None, "'My compliments to you.' Around the conversation and call, Nastya sets a calm, everyday tone with Senya."),
-    (11, None, "'Well, otherwise everything is going according to plan.' Senya reminds Nastya that otherwise everything is going according to plan before the moment passes."),
-    (12, None, "'You will collect the money from my dad.' Because Senya will collect the money from her dad, Nastya treats the matter as settled."),
+    (0, None, '\'Nastya. Little Nastya.\' Senya displays a firm footing on the spot, pairing "nastya" ("Nastya") with "nastenka" ("Nastenka") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Good evening once again.\' Senya adopts a playful stance in this beat, putting "yeshche" ("still") alongside "raz" ("time, once") in a tight, everyday turn of phrase.'),
+    (2, None, '\'Where is my daughter?\' Nastya prompts directly as they speak, linking "gde" ("where"), "doch" ("daughter"), and "moya" ("my") in one brisk exchange.'),
+    (3, None, '\'We want to receive a lot of money for her.\' Senya maintains a wry posture in front of Nastya, combining "khotim" ("want") and "poluchit" ("to get, to receive") so the key meaning lands right away.'),
+    (4, None, '\'This very day.\' Nastya maintains a pointed course beside Senya, putting "segodnya" ("today") alongside "zhe" ("but, after all") in a tight, everyday turn of phrase.'),
+    (5, None, '\'How much is a lot?\' Senya queries briskly in the room, anchoring the Russian line on "mnogo" ("a lot") and "skolko" ("how much, so much") without extra filler.'),
+    (6, None, '\'How much do we need?\' Nastya prompts dryly toward Senya here, pairing "skolko" ("how much, so much") with "nuzhno" ("necessary") to get the point across in plain spoken Russian.'),
+    (7, None, '\'It is me.\' Senya takes a measured mood toward Nastya, weaving "eto" ("this") together with "ya" ("I") just the way native speakers do.'),
+    (8, None, '\'And right now.\' Nastya sets a playful style straight away, letting the single Russian word "seychas" ("now") carry the entire reaction on its own.'),
+    (9, None, '\'Your daughter is going to suffer.\' Senya takes a steady position beside Nastya, anchoring the Russian line on "doch" ("daughter") and "budet" ("will be") without extra filler.'),
+    (10, None, '\'My compliments to you.\' Nastya conveys a grounded view in their talk, pairing "pochteniye" ("respect") with "moye" ("my") to get the point across in plain spoken Russian.'),
+    (11, None, '\'Well, otherwise everything is going according to plan.\' Senya conveys an honest bearing on the spot, building the phrase around "planu" ("plan") and "nu" ("oh, come on") for a crisp, natural delivery.'),
+    (12, None, '\'You will collect the money from my dad.\' Nastya presents a grounded angle with Senya, putting "zaberete" ("to take back") alongside "dengi" ("money") in a tight, everyday turn of phrase.'),
 ]

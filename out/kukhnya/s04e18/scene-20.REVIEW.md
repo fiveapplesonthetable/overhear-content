@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Markus, thank you very much for coming.' Between the office and the shift, Barinov gives Denis a quick, grounded response. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'I dreamed of taking revenge on him for two years.' With the office and conversation in play, Denis keeps this short reply brisk and direct.
-- 'Well then, German, this is a repeat offense now.' Because this is a repeat offense now, Barinov treats the matter as settled.
-- 'So make your own choice right now, German.' Mentioning that Denis should make Denis's own choice right now German moves the talk in a new direction.
-- 'Either you quietly leave the restaurant.' Over the office and the plan, Barinov answers Denis without a second thought. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Or your suspended sentence will become real prison time.' Claiming that Denis's suspended sentence will become real prison time sounds confident, even if Denis has doubts.
-- 'Hello, Dmitry Vladimirovich, this is German.' Pointing out that this is German gives Barinov a sobering reality check. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Dmitry Vladimirovich, I am resigning today.' Pointing out that he is resigning today gives Barinov a sobering reality check.
-- 'I am leaving for personal reasons.' German explains that he is leaving for personal reasons, keeping his voice calm and direct.
-- 'Sometimes for the sake of truth a clever deception is needed.' Noting that sometimes for the sake of truth a clever deception is needed keeps Denis's side of the story simple and clear.
-- 'But whoever lies often always loses.' Even though whoever lies often always loses, Denis keeps a steady face in front of Barinov.
-- 'It is wiser to always remain yourself.' Admitting that it is wiser to always remain themselves shows Denis being honest for a change.
+- 'Markus, thank you very much for coming.' Barinov chooses an honest mood as the scene unfolds, pairing "markus" ("markus") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
+- 'I dreamed of taking revenge on him for two years.' Denis adopts a playful angle in the conversation, combining "goda" ("years") and "mechtal" ("dreamed") so the key meaning lands right away.
+- 'Well then, German, this is a repeat offense now.' Barinov sets a natural bearing at this moment, joining "uzhe" ("already, now") to "retsidiv" ("offense") so every word pulls its weight.
+- 'So make your own choice right now, German.' Barinov shares a steady position toward German, pairing "vybiray" ("to choose, select") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Either you quietly leave the restaurant.' Barinov maintains a candid tack as the scene unfolds, combining "tikho" ("easy, quiet") and "ukhodish" ("are leaving") so the key meaning lands right away.
+- 'Or your suspended sentence will become real prison time.' Barinov chooses a firm tack at once, joining "uslovnyy" ("suspended") to "srok" ("term") so every word pulls its weight.
+- 'Hello, Dmitry Vladimirovich, this is German.' German conveys a pointed view with Barinov, weaving "allo" ("hello") together with "dmitriy" ("Dmitry") just the way native speakers do.
+- 'Dmitry Vladimirovich, I am resigning today.' German establishes a brisk note as the scene unfolds, pairing "segodnya" ("today") with "uvolnyayus" ("quit, resign") to get the point across in plain spoken Russian.
+- 'I am leaving for personal reasons.' German favors a thoughtful tack in the scene, joining "ukhozhu" ("am leaving") to "lichnym" ("personal") so every word pulls its weight.
+- 'Sometimes for the sake of truth a clever deception is needed.' Denis strikes a lively tempo right away, linking "inogda" ("sometimes, at times"), "pravdy" ("truth"), and "nuzhen" ("is needed") in one brisk exchange.
+- 'But whoever lies often always loses.' Denis conveys a clear view with Barinov, anchoring the Russian line on "chasto" ("often") and "vryot" ("is lying") without extra filler.
+- 'It is wiser to always remain yourself.' Denis projects a lively angle with German, combining "mudreye" ("wiser") and "vsegda" ("always") so the key meaning lands right away.

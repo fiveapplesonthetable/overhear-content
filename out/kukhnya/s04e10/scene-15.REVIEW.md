@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bro, you just bit me!' Over the moment and the story, Fedya lets his real feelings show. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'We should have shot you right away.' Since they should have shot German right away, Fedya does not waste words on excuses.
-- 'Here are brains in red wine.' Mentioning that here are brains in red wine moves the talk in a new direction.
-- 'And a dish with pine nuts.' With the moment and story in play, German keeps this short reply brisk and direct.
-- 'Also pâté made from goose brains.' Because also made from goose brains, German treats the matter as settled.
-- 'And a fresh brain smoothie.' Around the moment and story, German sets a calm, everyday tone with Fedya.
-- 'Senya, hand me the big knife.' Here telling Fedya to hand him the big knife sets up the next turn in their exchange.
-- 'Yeah, that is quite a cheerful story you have.' Claiming that yeah that is quite a cheerful story Fedya has sounds confident, even if Fedya has doubts.
-- 'Our team turns out rather strange in it.' Pointing out that their team turns out rather strange in it gives Fedya a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Not a funny movie at all.' With the conversation and story in play, Fedya keeps this short reply brisk and direct.
-- 'Let's just go back to boiling coconuts instead.' Saying that they should just go back to boiling coconuts instead is how Max sets the tone with Fedya.
-- 'Get to work, do not get distracted.' Mentioning that Fedya should get to work do not get distracted moves the talk in a new direction.
+- 'Bro, you just bit me!' Fedya holds a grounded position straight away, pairing "bratan" ("bro") with "ukusil" ("to bit") to get the point across in plain spoken Russian.
+- 'We should have shot you right away.' Fedya conveys a lively position for Max, combining "nado" ("it is necessary") and "bylo" ("was") so the key meaning lands right away.
+- 'Here are brains in red wine.' German adopts a playful tone with Fedya, putting "mozgi" ("brains") alongside "krasnom" ("red") in a tight, everyday turn of phrase.
+- 'And a dish with pine nuts.' German establishes a pointed approach in this beat, combining "blyudo" ("dish") and "kedrovymi" ("nuts") so the key meaning lands right away.
+- 'Also pâté made from goose brains.' German brings a calm line at this moment, anchoring the Russian line on "yeshchyo" ("more, still") and "pashtet" ("pâté") without extra filler.
+- 'And a fresh brain smoothie.' German conveys a candid stance in the room, putting "svezhiy" ("fresh") alongside "mozgovoy" ("smoothie") in a tight, everyday turn of phrase.
+- 'Senya, hand me the big knife.' German shows a sharp posture during the exchange, using "poday" (from "podat", "to submit, file") alongside "bolshoy" ("big") to shape the meaning.
+- 'Yeah, that is quite a cheerful story you have.' Max presents a natural style without hesitation, linking "vesyolaya" ("cheerful, fun"), "istoriya" ("history"), and "da" ("yes") in one brisk exchange.
+- 'Our team turns out rather strange in it.' Max conveys a lively note on the spot, weaving "strannyy" ("strange, odd") together with "kollektiv" ("staff, collective") just the way native speakers do.
+- 'Not a funny movie at all.' Fedya picks a natural tack beside Max, combining the intensifier "sovsem" ("completely, at all") with "smeshnoye" ("funny, ridiculous") to give the line its natural spoken rhythm.
+- 'Let's just go back to boiling coconuts instead.' Max projects a pointed angle in the scene, using "davayte" (from "davat", "let's") alongside "luchshe" ("better") to shape the meaning.
+- 'Get to work, do not get distracted.' German sets a grounded position right away, anchoring the Russian line on "rabotayte" ("work") and "otvlekaytes" ("get") without extra filler.

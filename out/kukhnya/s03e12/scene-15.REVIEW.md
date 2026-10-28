@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, did you forget something again?' Here asking whether the hostess forgets something again shows Max looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'No, I was just taking out the trash.' Explaining that he was just taking out the trash lays the cards on the table for the hostess.
-- 'Goodbye, young man.' Around the point and work, the hostess sets a calm, everyday tone with Katya.
-- 'How am I supposed to understand this?' With the conversation and money hanging in the air, Max puts the hostess on the spot. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Quiet, this granny lives in the next-door apartment.' Pointing out that quiet this granny lives in the next door apartment gives the hostess a sobering reality check.
-- 'And what am I supposed to do now?' Asking whether what am he supposed to do now puts the hostess right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am telling you, move out of here quickly.' Katya tells the hostess that she is telling the hostess moves out of here quickly without dressing it up. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Listen, I paid for the first and the last month.' Noting that he paid for the first and the last month keeps Max's side of the story simple and clear.
-- 'And I left a deposit, I have no money at all.' Even though he left a deposit he has no money at all, Max keeps a steady face in front of the hostess. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Well and what do you suggest now?' By wondering what the hostess suggests now, Katya presses the hostess for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Then let us live here together.' Adding that they should live here together fills in the missing piece for the hostess.
-- 'I warned you, alright, let me help.' Once she warned the hostess alright let her help, Katya can finally tell the hostess what she means. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Hello, did you forget something again?' Max prompts evenly at this point, anchoring the Russian line on "zdravstvuyte" ("hello") and "opyat" ("again") without extra filler.
+- 'No, I was just taking out the trash.' Max projects a sharp bearing for Katya, leaning on "prosto" ("just") before closing the thought with "musor" ("rubbish").
+- 'Goodbye, young man.' The hostess establishes a serious line on the spot, anchoring the Russian line on "svidaniya" ("meeting") and "molodoy" ("young") without extra filler.
+- 'How am I supposed to understand this?' Max presses decisively to keep things clear, weaving "kak" ("how") together with "voobshche" ("at all") just the way native speakers do.
+- 'Quiet, this granny lives in the next-door apartment.' Katya sets a steady style in this beat, pairing "tishe" ("quiet, more quietly") with "babulya" ("granny, old lady") to get the point across in plain spoken Russian.
+- 'And what am I supposed to do now?' Max inquires steadily without hesitation, putting "teper" ("now") alongside "delat" ("do") in a tight, everyday turn of phrase.
+- 'I am telling you, move out of here quickly.' Katya chooses an emphatic manner toward the hostess, using "govoryu" (from "govorit", "am telling") alongside "bystreye" ("faster") to shape the meaning.
+- 'Listen, I paid for the first and the last month.' Max holds a playful line at once, anchoring the Russian line on "slushay" ("listen") and "pervyy" ("first") without extra filler.
+- 'And I left a deposit, I have no money at all.' Max strikes a natural direction in the scene, weaving "zalog" ("security deposit") together with "ostavil" ("left") just the way native speakers do.
+- 'Well and what do you suggest now?' Katya quizzes earnestly as the talk turns, joining "teper" ("now") to "predlagayesh" ("are suggesting") so every word pulls its weight.
+- 'Then let us live here together.' Max sets an easygoing bearing right away, putting "togda" ("back then") alongside "davay" ("let's") in a tight, everyday turn of phrase.
+- 'I warned you, alright, let me help.' Katya takes a grounded direction during the exchange, weaving "predupredila" ("warned") together with "davay" ("let's") just the way native speakers do.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Help, a snake bit me!' Insisting that Fedya should help a snake bit him shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'It bit me right from behind!' With the plan and shift at stake, Nagiyev reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Oh, how awful I feel right now!' Insisting that how awful he feels right now shows Nagiyev is not backing down.
-- 'Someone needs to get this venom out urgently!' Once someone needs to get this venom out urgently, Nagiyev makes sure Fedya hears every word. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I am begging all of you!' By being begging all of Fedya, Nagiyev raises the stakes in the room at once. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Help me, I cannot do it myself!' Here helping him he cannot do it himself lets Nagiyev's real feelings break through.
-- 'I simply cannot reach back there myself!' Saying that he simply cannot reach back there himself is how Nagiyev takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Fedya, please be a pal!' With the room and shift at stake, Nagiyev reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Guys, please be human beings!' Over the room and the conversation, Nagiyev lets his real feelings show.
-- 'I am giving a hundred thousand for this!' By being giving a hundred thousand for this, Nagiyev raises the stakes in the room at once. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Fine, come on, I can do it!' Once fine come on he can do it, Fedya makes sure Nagiyev hears every word. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Why not, I have a big loan to pay!' Declaring that why not he has a big loan to pay brings Fedya's temper right to the surface.
+- 'Help, a snake bit me!' Nagiyev shares a clear posture beside Fedya, pairing "pomogite" ("help") with "zmeya" ("kitchen") to get the point across in plain spoken Russian.
+- 'It bit me right from behind!' Nagiyev adopts a warm rhythm in their talk, leaning on "pryamo" ("right, just") before closing the thought with "szadi" ("behind, leaning back").
+- 'Oh, how awful I feel right now!' Nagiyev picks a frank angle with Fedya, putting "kak" ("how") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Someone needs to get this venom out urgently!' Nagiyev maintains a firm stance in the scene, linking "nado" ("it is necessary"), "srochno" ("urgent, urgently"), and "yad" ("poison, venom") in one brisk exchange.
+- 'I am begging all of you!' Nagiyev holds a sharp mood without hesitation, anchoring the Russian line on "ochen" ("very much") and "proshu" ("beg, ask") without extra filler.
+- 'Help me, I cannot do it myself!' Nagiyev sets a calm tone on the spot, anchoring the Russian line on "pomogite" ("help") and "mogu" ("can") without extra filler.
+- 'I simply cannot reach back there myself!' Nagiyev holds a resolute attitude toward Fedya, joining "tuda" ("there") to "prosto" ("just") so every word pulls its weight.
+- 'Fedya, please be a pal!' Nagiyev shares a grounded direction beside Fedya, combining "bud" ("were he") and "chelovekom" ("person, people") so the key meaning lands right away.
+- 'Guys, please be human beings!' Nagiyev sets a playful style at this moment, joining "rebyata" ("the boys, the lads") to "budte" ("be") so every word pulls its weight.
+- 'I am giving a hundred thousand for this!' Nagiyev chooses a frank note with Fedya, combining "tysyach" ("thousand") and "dayu" ("give") so the key meaning lands right away.
+- 'Fine, come on, I can do it!' Fedya keeps an emphatic course with Nagiyev, combining the easygoing tag "ladno" ("okay, fine") with "davay" ("let's") to give the line its natural spoken rhythm.
+- 'Why not, I have a big loan to pay!' Fedya conveys a steady direction across the room, leaning on "bolshoy" ("big") before closing the thought with "kredit" ("loan, credit").

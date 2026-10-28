@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e19.ru.srt'
 INTRO = "The dining room of Claude Monet has been transformed into a bright television studio for the upcoming contest. When Nagiyev spots Viktor Petrovich watching the preparations, he warns the veteran chef not to dare enter the competition. Let's listen to their fiery exchange in Russian."
 OPENER = "Now let's break down the argument between Nagiyev and Chef Barinov line by line."
 TRANSITION = "Let's hear the confrontation in the studio again from beginning to end."
-OUTRO = "Viktor Petrovich proudly declares that real chefs work in kitchens rather than chasing television fame, though Fedya's pride is stung. Listen for the nouns meaning studio, smell, and cooks. Until next time!"
+OUTRO = "Viktor Petrovich proudly declares that real chefs work in kitchens rather than chasing television fame, though Fedya's pride is stung. Listen for the words meaning studio, smell, and cooks. Until next time!"
 CLOSING = ('barinov', 'До завтра!')
 STORY = [
     ('fedya', 'Смотрите, там в зале настоящая студия.', 'Look, there is a real studio out in the dining room.', [(55, 'Там настоящая студия')], 'adapted'),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Подождите, это кто тут у нас неудачник?', 'Wait a second, who are you calling a loser here?', [(70, 'Это кто этот неудачник')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Look, there is a real studio out in the dining room.' Once there is a real studio out in the dining room, Fedya can finally tell Barinov what he means."),
-    (1, None, "'Senya and I decided to give it a try too.' Adding that Senya and he decided to give it a try fills in the missing piece for Barinov."),
-    (2, None, "'And will you participate out there, Chef?' By asking whether Barinov participate out there, Fedya presses Barinov for a straight answer."),
-    (3, None, '\'Vitya, do not even try.\' Since do not even try, Nagiyev does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (4, None, "'I ate your food for five years.' Mentioning that he ate Barinov's food for five years moves the talk in a new direction."),
-    (5, None, "'I will recognize your dishes by their smell.' Saying that he will recognize Barinov's dishes by their smell is how Nagiyev sets the tone with Barinov."),
-    (6, None, '\'And I will kick you out of the contest right away.\' Because he will kick Barinov out of the contest right away, Nagiyev treats the matter as settled. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (7, None, '\'I have not been afraid of anything for a long time.\' By having not been afraid of anything for a long time, Barinov keeps his side of the story grounded. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.'),
-    (8, None, "'If I wanted to, I would win.' Barinov mentions that if he wanted to he would win so Fedya sees what is at stake."),
-    (9, None, '\'But your show is for losers.\' Claiming that Fedya\'s show is for losers sounds confident, even if Fedya has doubts. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.'),
-    (10, None, "'Normal cooks work quietly in the kitchen.' Pointing out that normal cooks work quietly in the kitchen gives Fedya a sobering reality check."),
-    (11, None, "'Wait a second, who are you calling a loser here?' Wondering if a second who are Barinov calling a loser here shows Fedya caught off guard."),
+    (0, None, '\'Look, there is a real studio out in the dining room.\' Fedya displays an earnest approach during the exchange, combining "smotrite" ("look") and "tam" ("there") so the key meaning lands right away.'),
+    (1, None, '\'Senya and I decided to give it a try too.\' Fedya keeps a steady tempo in front of Nagiyev, using "seney" (from "senya", "start") alongside "tozhe" ("too") to shape the meaning.'),
+    (2, None, '\'And will you participate out there, Chef?\' Fedya prompts bluntly to make the point, linking "budete" ("will be"), "tam" ("there"), and "uchastvovat" ("to participate") in one brisk exchange.'),
+    (3, None, '\'Vitya, do not even try.\' Nagiyev sustains a steady posture across the room, using "probuy" (from "probovat", "to try, to taste") alongside "vitya" ("Vitya") to shape the meaning.'),
+    (4, None, '\'I ate your food for five years.\' Nagiyev projects a warm course beside Barinov, joining "let" ("years") to "yel" ("ate") so every word pulls its weight.'),
+    (5, None, '\'I will recognize your dishes by their smell.\' Nagiyev takes a resolute course in their talk, linking "zapakhu" ("smell, scent"), "blyuda" ("of dish"), and "uznayu" ("to recognise") in one brisk exchange.'),
+    (6, None, '\'And I will kick you out of the contest right away.\' Nagiyev keeps a warm posture for Barinov, building the phrase around "srazu" ("at once") and "vygonyu" ("to kick out") for a crisp, natural delivery.'),
+    (7, None, '\'I have not been afraid of anything for a long time.\' Barinov establishes a candid tone during the exchange, pairing "boyus" ("am afraid") with "davno" ("for a long time") so the "-sya" ending carries the action.'),
+    (8, None, '\'If I wanted to, I would win.\' Barinov shares a thoughtful tone in this beat, combining "khotel" ("wanted") and "pobedil" ("won") so the key meaning lands right away.'),
+    (9, None, '\'But your show is for losers.\' Barinov presents an easygoing tack as they talk, combining "shou" ("show") and "neudachnikov" ("losers") so the key meaning lands right away.'),
+    (10, None, '\'Normal cooks work quietly in the kitchen.\' Barinov presents a measured posture toward Fedya, anchoring the Russian line on "normalnyye" ("normal") and "povara" ("cook") without extra filler.'),
+    (11, None, '\'Wait a second, who are you calling a loser here?\' Fedya challenges calmly to make the point, combining "podozhdite" ("wait") and "tut" ("here") so the key meaning lands right away.'),
 ]

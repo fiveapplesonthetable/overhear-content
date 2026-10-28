@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right then, you hero of ours.' Around the kitchen and moment, Fedya sets a calm, everyday tone with Senya. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Why did you run away yesterday then?' Asking why Senya runs away yesterday then cuts straight through the tension between Fedya and Senya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Well, I simply do not hit children.' Mentioning that he simply does not hit children moves the talk in a new direction.
-- 'What kind of movies do you watch yourself?' Asking whether what kind of movies do Fedya watches themselves puts Fedya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'I only watch romantic movies.' Because he only watches romantic movies, Fedya treats the matter as settled.
-- 'Hi there, beautiful girls!' With the situation and point at stake, Fedya reacts without holding back.
-- 'Did someone order a pizza to a restaurant?' Asking whether someone order a pizza to a restaurant is how Fedya puts Senya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'This is the first time I have seen that.' Claiming that this is the first time he has seen sounds confident, even if Senya has doubts.
-- 'We have a sanitary cleaning day today.' Pointing out that they have a sanitary cleaning day today gives Fedya a sobering reality check.
-- 'We really felt like having something hot.' Vika explains that they really felt like having something hot, keeping her voice calm and direct.
-- 'It is somehow very hot in here at your place.' Realizing that it is somehow very hot in here at Senya's place changes how Fedya handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Come on in to us quickly.' Once Fedya should come on in to them quickly, Vika can finally tell Fedya what she means.
+- 'All right then, you hero of ours.' Fedya adopts a candid angle straight away, combining the easygoing tag "ladno" ("okay, fine") with "geroy" ("hero") to give the line its natural spoken rhythm.
+- 'Why did you run away yesterday then?' Fedya queries promptly in this moment, leaning on "pochemu" ("why") before closing the thought with "vchera" ("yesterday").
+- 'Well, I simply do not hit children.' Senya keeps a sharp posture in their talk, linking "prosto" ("just"), "detey" ("children"), and "byu" ("to beat, to hit") in one brisk exchange.
+- 'What kind of movies do you watch yourself?' Senya challenges boldly as they speak, linking "kino" ("cinema, movies"), "smotrish" ("are staring"), and "ty" ("you") in one brisk exchange.
+- 'I only watch romantic movies.' Fedya presents an easygoing mood as they talk, leaning on "smotryu" ("look") before closing the thought with "tolko" ("only").
+- 'Hi there, beautiful girls!' Fedya holds an unhurried bearing across the room, building the phrase around "krasivyye" ("beautiful") and "devushki" ("a girl") for a crisp, natural delivery.
+- 'Did someone order a pizza to a restaurant?' Fedya wonders quietly with Senya now, pairing "restoran" ("restaurant") with "zakazali" ("ordered") to get the point across in plain spoken Russian.
+- 'This is the first time I have seen that.' Fedya shows a sharp line as they talk, weaving "pervyy" ("first") together with "raz" ("time, once") just the way native speakers do.
+- 'We have a sanitary cleaning day today.' Vika adopts a warm attitude in the room, combining "segodnya" ("today") and "sanitarnyy" ("sanitary, health") so the key meaning lands right away.
+- 'We really felt like having something hot.' Vika presents an earnest tone in the conversation, pairing "zakhotelos" ("felt like having") with "goryachenkogo" ("having") so the "-sya" ending carries the action.
+- 'It is somehow very hot in here at your place.' Fedya favors a firm course with Senya, linking "tut" ("here") directly with "ochen" ("very much"), since Russian drops "is" and "are" in the present.
+- 'Come on in to us quickly.' Vika displays a grounded approach in this beat, pairing "prokhodi" ("come in") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.

@@ -7,7 +7,7 @@ SCENE = 17
 TITLE = "Звонок Елены и визит к Кристине  (Elena's Call and the Visit to Kristina)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'kristina': 'Кристина', 'vika': 'Вика'}
+LABELS = {'barinov': 'Шеф', 'kristina': 'Кристина', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
 SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 INTRO = 'Elena calls Viktor Petrovich back with a warm laugh, touched by how much his kitchen crew cares about him, and agrees to reschedule their date. Meanwhile, Max heads to meet Kristina after work to settle the blackmail, unaware that Nagiyev has already arrived.'
@@ -16,32 +16,32 @@ TRANSITION = "Let's hear the full exchange one more time at natural speed."
 OUTRO = "That wraps up this scene as elena forgives Viktor Petrovich after hearing how worried his cooks were about him, while Max goes to Kristina's office only to hear Nagiyev inside with her. Until next time!"
 CLOSING = ('kristina', 'До встречи!')
 STORY = [
-    ('barinov', 'Виктор Петрович.', 'Viktor Petrovich.', [(278, 'Виктор Петрович')], ''),
-    ('vika', 'Да, мне все рассказали ваши...', 'Yes, your staff told me everything...', [(279, 'Да, мне все рассказали ваши')], ''),
+    ('max', 'Виктор Петрович.', 'Viktor Petrovich.', [(278, 'Виктор Петрович')], ''),
+    ('max', 'Да, мне все рассказали ваши...', 'Yes, your staff told me everything...', [(279, 'Да, мне все рассказали ваши')], ''),
     ('kristina', 'Ну перестаньте.', 'Oh, stop it now.', [(280, 'ну перестаньте')], ''),
     ('barinov', 'Они действительно за вас переживают.', 'They really do worry about you.', [(281, 'Они действительно за вас переживают')], ''),
-    ('vika', 'В девять у выхода.', 'At nine by the exit.', [(282, 'В девять у выхода')], ''),
-    ('kristina', 'Кристина, я вообще-то поговорить пришел.', 'Kristina, I actually came here to talk.', [(283, 'Кристина, я вообще-то поговорить пришел')], ''),
+    ('max', 'В девять у выхода.', 'At nine by the exit.', [(282, 'В девять у выхода')], ''),
+    ('barinov', 'Кристина, я вообще-то поговорить пришел.', 'Kristina, I actually came here to talk.', [(283, 'Кристина, я вообще-то поговорить пришел')], ''),
     ('barinov', 'Ну вот после и поговорим.', 'Well, we can talk afterwards.', [(284, 'Ну вот после и поговорим')], ''),
-    ('vika', 'Как дела?', 'How are things going?', [(287, 'Как дела')], ''),
+    ('max', 'Как дела?', 'How are things going?', [(287, 'Как дела')], ''),
     ('kristina', 'Это хорошо.', 'That is good.', [(289, 'Это хорошо')], ''),
     ('barinov', 'Интересно, кроме меня здесь кто-то шастал?', 'I wonder if anyone else has been snooping around here besides me?', [(290, 'Интересно, кроме меня здесь кто-то шастал')], ''),
-    ('vika', 'Ты такой.', 'You are so...', [(291, 'ты такой')], ''),
+    ('max', 'Ты такой.', 'You are so...', [(291, 'ты такой')], ''),
     ('kristina', 'Ты такой сексуальный, когда ревнуешь.', 'You are so sexy when you get jealous.', [(293, 'Ты такой сексуальный, когда ревнуешь')], ''),
     ('barinov', 'Ты тоже такая сексуальная, когда я ревную.', 'You are so sexy too when I get jealous.', [(294, 'Ты тоже такая сексуальная, когда я ревную')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor Petrovich.' Over the point and the call, Barinov answers Kristina without a second thought."),
-    (1, None, '\'Yes, your staff told me everything...\' Even though Barinov\'s staff told her everything, Vika keeps a steady face in front of Barinov. Even in the middle of the drama, she keeps the polite plural "you" that workplace Russian expects.'),
-    (2, None, "'Oh, stop it now.' Claiming that Barinov should stop it now sounds confident, even if Barinov has doubts."),
-    (3, None, '\'They really do worry about you.\' Saying that they really do worry about Kristina is how Barinov sets the tone with Kristina. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.'),
-    (4, None, "'At nine by the exit.' Over the point and the shift, Vika answers Barinov without a second thought."),
-    (5, None, "'Kristina, I actually came here to talk.' Adding that she actually came here to talk fills in the missing piece for Barinov."),
-    (6, None, "'Well, we can talk afterwards.' Barinov tells Kristina that they can talk afterwards without dressing it up."),
-    (7, None, '\'How are things going?\' Here asking how things going are shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (8, None, "'That is good.' Mentioning that that is good moves the talk in a new direction."),
-    (9, None, '\'I wonder if anyone else has been snooping around here besides me?\' Barinov asks whether he wonders if anyone else has been snooping around here besides him, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (10, None, '\'You are so...\' Over the call and the shift, Vika answers Barinov without a second thought. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (11, None, "'You are so sexy when you get jealous.' Explaining that Barinov is so sexy when Barinov gets jealous lays the cards on the table for Barinov."),
-    (12, None, '\'You are so sexy too when I get jealous.\' Barinov mentions that Kristina is so sexy too when he gets jealous so Kristina sees what is at stake. Speaking with the close, informal "you" strips away any polite distance between them.'),
+    (0, None, '\'Viktor Petrovich.\' Max shares a serious course in the conversation, pairing "viktor" ("Viktor") with "petrovich" ("Petrovich") to get the point across in plain spoken Russian.'),
+    (1, None, '\'Yes, your staff told me everything...\' Max presents a natural rhythm beside Kristina, anchoring the Russian line on "rasskazali" ("told") and "da" ("yes") without extra filler.'),
+    (2, None, '\'Oh, stop it now.\' Kristina adopts an easygoing tempo with Barinov, using "perestante" (from "perestat", "stop it") alongside "nu" ("oh, come on") to shape the meaning.'),
+    (3, None, '\'They really do worry about you.\' Barinov chooses an earnest manner during the exchange, leaning on "deystvitelno" ("really, indeed") before closing the thought with "perezhivayut" ("to worry, to fret").'),
+    (4, None, '\'At nine by the exit.\' Max sustains a grounded view in the scene, weaving "vykhoda" ("exit, way out") together with "devyat" ("nine") just the way native speakers do.'),
+    (5, None, '\'Kristina, I actually came here to talk.\' Barinov picks a warm posture as the scene unfolds, putting "voobshche-to" ("actually") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.'),
+    (6, None, '\'Well, we can talk afterwards.\' Barinov sustains a warm angle during the exchange, using "pogovorim" (from "pogovorit", "we\'ll have a talk") alongside "nu" ("oh, come on") to shape the meaning.'),
+    (7, None, '\'How are things going?\' Max presses decisively across the room, pairing "kak" ("how") with "dela" ("things, affairs") to get the point across in plain spoken Russian.'),
+    (8, None, '\'That is good.\' Kristina sustains an emphatic note at this moment, putting "khorosho" ("good, fine") alongside "eto" ("this") in a tight, everyday turn of phrase.'),
+    (9, None, '\'I wonder if anyone else has been snooping around here besides me?\' Barinov inquires calmly at this point, leaning on "interesno" ("interesting") before closing the thought with "zdes" ("here").'),
+    (10, None, '\'You are so...\' Max maintains a lively tack right away, anchoring the Russian line on "ty" ("you") and "takoy" ("such, so") without extra filler.'),
+    (11, None, '\'You are so sexy when you get jealous.\' Kristina brings a frank position toward Max, linking "seksualnyy" ("sexy, attractive"), "kogda" ("when"), and "revnuyesh" ("are jealous") in one brisk exchange.'),
+    (12, None, '\'You are so sexy too when I get jealous.\' Barinov displays a sharp rhythm across the room, building the phrase around "tozhe" ("too") and "seksualnaya" ("sexy, attractive") for a crisp, natural delivery.'),
 ]

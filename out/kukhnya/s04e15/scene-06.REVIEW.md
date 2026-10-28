@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am asking once more, where are my thickeners?' Questioning whether she is asking once more where are her thickeners is how Katya tests Denis's story. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Last night I left rare powders here.' Once last night she left rare powders here, Katya can finally tell Denis what she means.
-- 'Katya, I know where your strange powders are.' Admitting that he knows where German's strange powders are shows Denis being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'German Mikhailovich, look what these clowns did!' Insisting that what these clowns did shows Katya is not backing down. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Tonight we have an important molecular show.' Since tonight they have an important molecular show, Katya does not waste words on excuses.
-- 'Nagiyev invited very important guests to the hall!' Over the point and the truth, Katya lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Yes, the molecular show is davvero important.' German reminds Denis that the molecular show is davvero important before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Katya, can one really not just buy these additives?' By checking whether one really not just buy these additives, German presses Denis for a straight answer.
-- 'They are not sold in an ordinary store at all!' Katya declares that they are not sold in an ordinary store at all as the tension in the room peaks. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'One must urgently go to the other end of Moscow.' Katya mentions that one must urgently go to the other end of Moscow so Denis sees what is at stake. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'One needs to meet with the supplier, and there is little time.' Claiming that one needs to meet with the supplier and there is little time sounds confident, even if Denis has doubts.
-- 'Katya, let me quickly make a round trip for them!' Telling German to let him quickly make a round trip for them shows Denis is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'I am asking once more, where are my thickeners?' Katya wonders bluntly to Denis here, anchoring the Russian line on "yeshchyo" ("more, still") and "raz" ("time, once") without extra filler.
+- 'Last night I left rare powders here.' Katya favors a candid approach across the room, linking "vchera" ("yesterday"), "vecherom" ("in the evening"), and "ostavlyala" ("to leave") in one brisk exchange.
+- 'Katya, I know where your strange powders are.' Denis keeps a firm bearing on the spot, joining "znayu" ("know") to "gde" ("where") so every word pulls its weight.
+- 'German Mikhailovich, look what these clowns did!' Katya chooses a frank attitude without hesitation, pairing "posmotrite" ("look") with "klouny" ("clown") to get the point across in plain spoken Russian.
+- 'Tonight we have an important molecular show.' Katya projects an emphatic position in the conversation, joining "segodnya" ("today") to "vecherom" ("in the evening") so every word pulls its weight.
+- 'Nagiyev invited very important guests to the hall!' Katya sets a calm view at this moment, pairing "pozval" ("invited") with "zal" ("hall") to get the point across in plain spoken Russian.
+- 'Yes, the molecular show is davvero important.' German favors an unhurried note in front of Denis, pairing "molekulyarnoye" ("molecular") with "shou" ("show") to get the point across in plain spoken Russian.
+- 'Katya, can one really not just buy these additives?' German prompts decisively without hesitation, linking "nelzya" ("not allowed"), "prosto" ("just"), and "kupit" ("buy") in one brisk exchange.
+- 'They are not sold in an ordinary store at all!' Katya shares a candid course in front of Denis, pairing "prodayutsya" ("to be sold") with "obychnom" ("normal, regular") so the "-sya" ending carries the action.
+- 'One must urgently go to the other end of Moscow.' Katya favors a frank note in this beat, weaving "nado" ("it is necessary") together with "srochno" ("urgent, urgently") just the way native speakers do.
+- 'One needs to meet with the supplier, and there is little time.' Katya takes a resolute position in the room, linking "nuzhno" ("necessary"), "vstretitsya" ("to meet"), and "postavshchikom" ("supplier, purveyor") in one brisk exchange.
+- 'Katya, let me quickly make a round trip for them!' Denis offers a brisk style in this beat, leaning on "davay" ("let's") before closing the thought with "bystro" ("quickly").

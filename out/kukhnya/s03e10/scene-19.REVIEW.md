@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you completely lost your conscience?' Checking whether Lyova completely lost Lyova's conscience cuts straight through the tension between Barinov and Lyova.
-- 'March into my office right now!' With the moment and plan at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Victor Petrovich, do not shout at Katya!' Once do not shout at Katya, Lyova makes sure Barinov hears every word. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'She must not get nervous, she is having a flare-up!' Declaring that she must not get nervous she is having a flare up brings Lyova's temper right to the surface.
-- 'What kind of flare-up are you having, daughter?' Asking whether what kind of flare up are Lyova having daughter puts Lyova right on the defensive. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Lyova, is everything alright with your head?' Checking whether everything alright with Lyova's head is how Barinov puts Lyova on the spot. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'It was Max who told me all that about her!' Lyova declares that it was Max who told him all as the tension in the room peaks.
-- 'I said nothing, Lyova simply misunderstood me.' Mentioning that he said nothing Lyova simply misunderstood him moves the talk in a new direction.
-- 'So all of that was untrue, right?' Questioning whether all of that was untrue right is how Lyova tests Barinov's story. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And that she stayed in a clinic?' When Barinov asks if that she stayed in a clinic, Lyova has to answer fast.
-- 'Victor Petrovich, please, just do not!' Declaring that just do not brings Max's temper right to the surface. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Run away from here quickly, come on, stop!' Saying that Lyova should run away from here quickly come on stop is how Barinov takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Have you completely lost your conscience?' Barinov probes briskly as they speak, weaving "sovsem" ("at all") together with "sovest" ("conscience") just the way native speakers do.
+- 'March into my office right now!' Barinov picks a warm tack without hesitation, joining "bystro" ("quickly") to "kabinet" ("office") so every word pulls its weight.
+- 'Victor Petrovich, do not shout at Katya!' Lyova maintains a firm bearing as the scene unfolds, putting "krichite" ("yell, shout") alongside "viktor" ("Viktor") in a tight, everyday turn of phrase.
+- 'She must not get nervous, she is having a flare-up!' Lyova sets an earnest tone at once, putting "nelzya" ("not allowed") alongside "nervnichat" ("to get worked up") in a tight, everyday turn of phrase.
+- 'What kind of flare-up are you having, daughter?' Barinov challenges pointedly in front of Lyova, linking "yeshchyo" ("more, still") directly with "obostreniye" ("flare-up, relapse"), since Russian drops "is" and "are" in the present.
+- 'Lyova, is everything alright with your head?' Barinov asks plainly as the beat lands, joining "golovoy" ("with one's head") to "poryadke" ("order") so every word pulls its weight.
+- 'It was Max who told me all that about her!' Lyova strikes a brisk footing beside Barinov, weaving "nagovoril" ("told") together with "eto" ("this") just the way native speakers do.
+- 'I said nothing, Lyova simply misunderstood me.' Max maintains an earnest rhythm as they talk, combining "prosto" ("just") and "nepravilno" ("wrongly") so the key meaning lands right away.
+- 'So all of that was untrue, right?' Lyova quizzes lightly as they speak, linking "nepravda" ("untrue, a lie"), "byla" ("was"), and "tak" ("so") in one brisk exchange.
+- 'And that she stayed in a clinic?' Barinov asks calmly for Max's benefit, pairing "klinike" ("clinic, hospital") with "lezhala" ("to lie, to rest") to get the point across in plain spoken Russian.
+- 'Victor Petrovich, please, just do not!' Max strikes an earnest tone in the scene, linking "tolko" ("only"), "nado" ("it is necessary"), and "viktor" ("Viktor") in one brisk exchange.
+- 'Run away from here quickly, come on, stop!' Barinov sustains a calm direction at this moment, weaving "begi" ("run") together with "otsyuda" ("from here") just the way native speakers do.

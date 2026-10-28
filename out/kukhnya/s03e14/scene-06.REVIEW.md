@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How sick and tired I am of all of them!' Saying that how sick and tired he is of all of them is how Max takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Hey, hero, how much longer do we have to wait for you?' When Lyova asks if hero how much longer do they have to wait for Katya, Katya has to answer fast.
-- 'Yes, I am coming out right now.' Admitting that he is coming out right now shows Max being honest for a change.
-- 'Lyova, my vision is going dark and my head is spinning.' Adding that his vision is going dark and his head is spinning fills in the missing piece for Katya. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'It is probably blood pressure, maybe I can rest at home?' Wondering if it is probably blood pressure maybe he can rest at home shows Max caught off guard.
-- 'Of course, go home, I am letting you leave.' Adding that Katya should go home he is letting Katya leaves fills in the missing piece for Katya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Dad, do you have any conscience at all?' When Katya asks if dad do Lyova has any conscience at all, Lyova has to answer fast. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What is wrong, did you and Stas have a fight?' Asking what wrong did Katya and Stas have a fight is cuts straight through the tension between Max and Katya.
-- 'Take your money, Stas told me everything!' Saying that Lyova should take Lyova's money Stas told her everything is how Katya takes charge of the moment. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'What do you mean told you, what money?' Here wondering what Katya means told Katya what money shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Good Lord, how pathetic you really are!' Insisting that good how pathetic Lyova really are shows Katya is not backing down.
-- 'Katya, wait, listen to me!' With the moment and office at stake, Max reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'How sick and tired I am of all of them!' Max chooses an honest rhythm in the room, putting "kak" ("how") alongside "dostali" ("have driven crazy") in a tight, everyday turn of phrase.
+- 'Hey, hero, how much longer do we have to wait for you?' Lyova presses plainly across the room, building the phrase around "geroy" ("hero") and "skolko" ("how much, so much") for a crisp, natural delivery.
+- 'Yes, I am coming out right now.' Max chooses a serious view beside Katya, combining "uzhe" ("already, now") and "seychas" ("now") so the key meaning lands right away.
+- 'Lyova, my vision is going dark and my head is spinning.' Max presents an honest footing as they talk, pairing "glazakh" ("eye") with "temneyet" ("gets dark") to get the point across in plain spoken Russian.
+- 'It is probably blood pressure, maybe I can rest at home?' Max asks directly toward Katya here, putting "davleniye" ("blood pressure") alongside "navernoye" ("probably") in a tight, everyday turn of phrase.
+- 'Of course, go home, I am letting you leave.' Lyova projects a natural direction as the scene unfolds, pairing "konechno" ("of course") with "yezzhay" ("go, drive") to get the point across in plain spoken Russian.
+- 'Dad, do you have any conscience at all?' Katya tests wryly in front of Lyova, joining "papa" ("Dad") to "sovest" ("conscience") so every word pulls its weight.
+- 'What is wrong, did you and Stas have a fight?' Max tests frankly without hesitation, combining "possorilis" ("had a fight") and "chto" ("what") so the key meaning lands right away.
+- 'Take your money, Stas told me everything!' Katya projects a measured posture on the spot, joining "beri" ("take, grab") to "dengi" ("money") so every word pulls its weight.
+- 'What do you mean told you, what money?' Max probes boldly across the room, weaving "kak" ("how") together with "rasskazal" ("told") just the way native speakers do.
+- 'Good Lord, how pathetic you really are!' Katya sets an honest direction during the exchange, joining "zhalkiy" ("pathetic, pitiful") to "gospodi" ("Good Lord") so every word pulls its weight.
+- 'Katya, wait, listen to me!' Max maintains a warm approach on the spot, leaning on "podozhdi" ("wait") before closing the thought with "poslushay" ("listen").

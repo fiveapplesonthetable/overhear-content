@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, Vika and I love each other.' Claiming that Vika and he loves each other sounds confident, even if Nagiyev has doubts.
-- 'And we want very much to be together.' Wanting very much to be together is how Max lays out the situation for Nagiyev.
-- 'And I will definitely pay for your car.' Max explains that he will definitely pay for Nagiyev's car, keeping his voice calm and direct.
-- 'I will definitely pay you somehow later.' Realizing that he will definitely pay Nagiyev somehow later changes how Max handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Well what a bad day it is today!' Nagiyev insists that what a bad day it is today, leaving Max no room to argue.
-- 'They wrecked my new car today.' With the moment and car in play, Nagiyev keeps this short reply brisk and direct.
-- 'And they broke my heart too.' Around the moment and car, Nagiyev sets a calm, everyday tone with Max.
-- 'Dima, please forgive me for everything.' With the moment and revenge in play, Vika keeps this short reply brisk and direct.
-- 'Honestly, I am very sorry.' Since she is very sorry, Vika does not waste words on excuses.
-- 'No, I am the one who feels sorry for both of you right now.' Saying that he is the one who feels sorry for both of Max right now is how Nagiyev sets the tone with Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You will not be able to get a job at a single restaurant in Moscow.' Saying that Max will not be able to get a job at a single restaurant in Moscow is how Nagiyev sets the tone with Max.
-- 'Remember, I will simply destroy you!' Telling Max to remember he will simply destroy Max is Nagiyev's blunt reaction in front of Max. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'Dmitry Vladimirovich, Vika and I love each other.' Max presents an easygoing view with Nagiyev, leaning on "lyubim" ("love") before closing the thought with "drug" ("friend").
+- 'And we want very much to be together.' Max conveys an unhurried angle in their talk, building the phrase around "ochen" ("very much") and "khotim" ("want") for a crisp, natural delivery.
+- 'And I will definitely pay for your car.' Max strikes a resolute stance right away, linking "mashinu" ("car"), "obyazatelno" ("surely, without fail"), and "zaplachu" ("will pay") in one brisk exchange.
+- 'I will definitely pay you somehow later.' Max projects a firm bearing at this moment, combining "obyazatelno" ("surely, without fail") and "zaplachu" ("will pay") so the key meaning lands right away.
+- 'Well what a bad day it is today!' Nagiyev picks a measured direction in front of Max, placing "segodnya" ("today") straight beside "plokhoy" ("bad") with no word for "to be" needed.
+- 'They wrecked my new car today.' Nagiyev chooses a clear bearing at once, putting "mashinu" ("car") alongside "novuyu" ("new") in a tight, everyday turn of phrase.
+- 'And they broke my heart too.' Nagiyev sets a pointed style with Max, joining "serdtse" ("heart") to "tozhe" ("too") so every word pulls its weight.
+- 'Dima, please forgive me for everything.' Vika picks a warm course in this beat, putting "prosti" ("sorry, forgive me") alongside "dima" ("Dima") in a tight, everyday turn of phrase.
+- 'Honestly, I am very sorry.' Vika maintains a sharp rhythm on the spot, linking "chestnoye" ("honest") directly with "slovo" ("word"), since Russian drops "is" and "are" in the present.
+- 'No, I am the one who feels sorry for both of you right now.' Nagiyev holds a firm angle in front of Vika, leaning on "seychas" ("now") before closing the thought with "zhal" ("it is a pity").
+- 'You will not be able to get a job at a single restaurant in Moscow.' Nagiyev favors a serious direction on the spot, linking "smozhete" ("will be able to"), "ustroitsya" ("to get a job"), and "restoran" ("restaurant") in one brisk exchange.
+- 'Remember, I will simply destroy you!' Nagiyev picks a grounded position in the conversation, linking "zapomnite" ("remember"), "prosto" ("just"), and "unichtozhu" ("will destroy") in one brisk exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well of course, this is simply fried onion.' Claiming that this is simply fried onion sounds confident, even if Max has doubts.
-- 'I think our issue is completely resolved.' Realizing that he thinks their issue is completely resolved changes how Barinov handles the situation.
-- 'I wish you a pleasant appetite.' Wishing Max a pleasant appetite moves the conversation forward without extra drama. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'There they go, come on, catch up quickly!' With the plan and situation at stake, Barinov reacts without holding back.
-- 'Listen, hit his car in the fender.' Here telling Max to hit his car in the fender sets up the next turn in their exchange.
-- 'I will hit you in the fender myself right now.' Even though he will hit Barinov in the fender himself right now, Max keeps a steady face in front of Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Alright, just catch up and drive behind.' With the moment and room in play, Barinov keeps this short reply brisk and direct.
-- 'Max, you are crazy, stop the car immediately!' Insisting that Barinov is crazy stop the car immediately shows Vika is not backing down. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Hello, Kostya, urgently go home right now.' Around the conversation and kitchen, Max sets a calm, everyday tone with Barinov.
-- 'That is all, Vika, I know what I am doing.' Adding that that is all Vika he knows what he is doing fills in the missing piece for Barinov.
-- 'Why are you standing here, let us go quickly!' Barinov insists that why are Max standing here let them go quickly, leaving Max no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'You cannot drive on a red light, the fine is five thousand rubles.' Since Barinov cannot drive on a red light the fine is five thousand rubles, Max does not waste words on excuses. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
+- 'Well of course, this is simply fried onion.' Barinov picks a calm footing beside Max, combining "konechno" ("of course") and "prosto" ("just") so the key meaning lands right away.
+- 'I think our issue is completely resolved.' Barinov offers a serious note with Vika, combining "dumayu" ("I think") and "vopros" ("question, matter") so the key meaning lands right away.
+- 'I wish you a pleasant appetite.' Barinov establishes a direct tone without hesitation, leaning on "zhelayu" ("I wish") before closing the thought with "priyatnogo" ("pleasant").
+- 'There they go, come on, catch up quickly!' Barinov sets a calm mood in front of Vika, combining the everyday invitation "davay" ("come on, let us") with "yedut" ("are going") to give the line its natural spoken rhythm.
+- 'Listen, hit his car in the fender.' Barinov maintains a brisk line beside Max, leaning on "slushay" ("listen") before closing the thought with "udar" ("hit, strike").
+- 'I will hit you in the fender myself right now.' Max maintains an emphatic tack at this moment, pairing "seychas" ("now") with "udaryu" ("to hit, to strike") to get the point across in plain spoken Russian.
+- 'Alright, just catch up and drive behind.' Barinov brings a thoughtful angle at this moment, weaving "prosto" ("just") together with "dogoni" ("catch up") just the way native speakers do.
+- 'Max, you are crazy, stop the car immediately!' Vika favors a candid approach at once, linking "nenormalnyy" ("crazy, abnormal"), "nemedlenno" ("immediately"), and "ostanovi" ("stop") in one brisk exchange.
+- 'Hello, Kostya, urgently go home right now.' Max favors a steady posture with Barinov, leaning on "srochno" ("urgent, urgently") before closing the thought with "poyezzhay" ("drive, go").
+- 'That is all, Vika, I know what I am doing.' Max takes an earnest mood on the spot, joining "znayu" ("know") to "delayu" ("I make") so every word pulls its weight.
+- 'Why are you standing here, let us go quickly!' Barinov adopts a brisk posture in the room, joining "tut" ("here") to "stoish" ("stand") so every word pulls its weight.
+- 'You cannot drive on a red light, the fine is five thousand rubles.' Max sets a firm line as the scene unfolds, pairing "krasnyy" ("red") with "svet" ("light, electricity") to get the point across in plain spoken Russian.

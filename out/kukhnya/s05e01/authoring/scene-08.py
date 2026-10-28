@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 INTRO = "At the bar counter, Vika completely forgets that banquet clients came by yesterday, and Nastya gently reveals that she and Kostya already figured out Vika's pregnancy secret. Listen to the Russian conversation."
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that concludes the moment at the bar between Vika, Nastya, and Kostya. Notice the polite imperative 'do not worry' when Nastya addresses Vika formally. See you next time!"
+OUTRO = "And that concludes the moment at the bar between Vika, Nastya, and Kostya. Notice the polite command 'do not worry' when Nastya addresses Vika formally. See you next time!"
 CLOSING = ('nastya', 'До встречи!')
 STORY = [
     ('kostya', 'Тимуру надо отдать деньги.', 'We need to give the money to Timur.', [(117, 'Тимуру надо отдать')], 'adapted'),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Сделай, пожалуйста, кофе для столиков.', 'Please make coffee for the tables.', [(131, 'Сделай, пожалуйста'), (132, 'кофе для всех столиков')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'We need to give the money to Timur.' Needing to give the money to Timur moves the conversation forward without extra drama. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (1, None, "'In short, he knows what it is for.' Pointing out that in short he knows what it is gives Nastya a sobering reality check."),
-    (2, None, "'Victoria Sergeevna, people came to see you.' Nastya explains that people came to see Kostya, keeping her voice calm and direct."),
-    (3, None, '\'Regarding which banquet?\' Around the order and secret, Vika wants to know where Kostya really stands. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (4, None, "'They came yesterday and placed an order.' Noting that they came yesterday and placed an order keeps Nastya's side of the story simple and clear."),
-    (5, None, "'They wanted to make changes to the menu.' Even though they wanted to make changes to the menu, Nastya keeps a steady face in front of Kostya."),
-    (6, None, '\'Were they here yesterday?\' Here asking whether they here yesterday shows Vika looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (7, None, '\'Do not worry, I took the order.\' Saying that do not worry she took the order is how Nastya sets the tone with Kostya. Notice how she sticks to the formal "you", keeping a professional line between them.'),
-    (8, None, "'You must not get nervous right now.' Once Kostya must not get nervous right now, Nastya can finally tell Kostya what she means."),
-    (9, None, '\'How do you know? Does it show already?\' Asking how Kostya knows is how Vika puts Kostya on the spot. Speaking with the close, informal "you" strips away any polite distance between them.'),
-    (10, None, "'No, not very much yet.' Between the secret and the work, Nastya gives Kostya a quick, grounded response."),
-    (11, None, "'Kostya and I started to suspect.' Since Kostya and she started to suspect, Nastya does not waste words on excuses."),
-    (12, None, "'Please make coffee for the tables.' Telling Kostya to make coffee for the tables moves the conversation forward without extra drama."),
+    (0, None, '\'We need to give the money to Timur.\' Kostya conveys a grounded posture in front of Nastya, weaving "timuru" ("timur") together with "nado" ("it is necessary") just the way native speakers do.'),
+    (1, None, '\'In short, he knows what it is for.\' Kostya adopts a serious course in the conversation, weaving "koroche" ("long story short") together with "znayet" ("knows") just the way native speakers do.'),
+    (2, None, '\'Victoria Sergeevna, people came to see you.\' Nastya displays a natural rhythm with Kostya, anchoring the Russian line on "prikhodili" ("to come") and "viktoriya" ("Victoria") without extra filler.'),
+    (3, None, '\'Regarding which banquet?\' Vika checks calmly without a pause, weaving "povodu" ("matter") together with "banketa" ("banquet") just the way native speakers do.'),
+    (4, None, '\'They came yesterday and placed an order.\' Nastya chooses a thoughtful line at this moment, combining "vchera" ("yesterday") and "prikhodili" ("to come") so the key meaning lands right away.'),
+    (5, None, '\'They wanted to make changes to the menu.\' Nastya conveys an earnest view in their talk, weaving "khoteli" ("wanted") together with "vnesti" ("to pay in, to carry in") just the way native speakers do.'),
+    (6, None, '\'Were they here yesterday?\' Vika wonders bluntly right away, joining "byli" ("be") to "zdes" ("here") so every word pulls its weight.'),
+    (7, None, '\'Do not worry, I took the order.\' Nastya shares a warm line across the room, leaning on "volnuytes" ("worry") before closing the thought with "prinyala" ("accepted, made").'),
+    (8, None, '\'You must not get nervous right now.\' Nastya brings an honest stance in this beat, putting "seychas" ("now") alongside "nelzya" ("not allowed") in a tight, everyday turn of phrase.'),
+    (9, None, '\'How do you know? Does it show already?\' Vika asks directly in their exchange, anchoring the Russian line on "otkuda" ("where from") and "znayesh" ("know") without extra filler.'),
+    (10, None, '\'No, not very much yet.\' Nastya presents an easygoing manner at this moment, combining "poka" ("bye") and "yeshchyo" ("more, still") so the key meaning lands right away.'),
+    (11, None, '\'Kostya and I started to suspect.\' Nastya strikes an unhurried tempo at this moment, building the phrase around "nachali" ("started") and "podozrevat" ("to suspect") for a crisp, natural delivery.'),
+    (12, None, '\'Please make coffee for the tables.\' Vika brings a brisk posture as the scene unfolds, leaning on "sdelay" ("make, do") before closing the thought with "kofe" ("of coffee").'),
 ]

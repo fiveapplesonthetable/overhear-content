@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Элеонора | Пусть он играет в другом месте. | Let him play in some other place. | #120: играет в каком-нибудь другом месте | adapted: adapted |
 | 7 | Денис | Привет, Катя. | Hi, Katya. | #123: Привет | adapted: adapted |
 | 8 | Денис | У вас тут текучка большая. | You have high staff turnover here. | #125: У вас тут текучка | adapted: adapted |
-| 9 | Шеф | Ведь это не похоже на мое печенье. | After all, this does not look like my cookies. | #126: Ведь это не похоже на мое печенье | adapted: exact |
-| 10 | Шеф | Я все-таки с острыми предметами работаю. | After all, I work with sharp objects. | #127: я все-таки с острыми предметами работаю | adapted: adapted |
+| 9 | Нагиев | Ведь это не похоже на мое печенье. | After all, this does not look like my cookies. | #126: Ведь это не похоже на мое печенье | adapted: exact |
+| 10 | Нагиев | Я все-таки с острыми предметами работаю. | After all, I work with sharp objects. | #127: я все-таки с острыми предметами работаю | adapted: adapted |
 | 11 | Элеонора | Поздравляю, а мне приходится работать с тупыми. | Congratulations, while I have to work with dull ones. | #128: Поздравляю, а мне приходится работать с тупыми | adapted: exact |
-| 12 | Шеф | Сейчас сделаем новое печенье. | We will make new cookies right now. | #126: мое печенье | adapted: adapted |
+| 12 | Нагиев | Сейчас сделаем новое печенье. | We will make new cookies right now. | #126: мое печенье | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will never meddle in your life again.' Even though she will never meddle in Barinov's life again, Eleonora keeps a steady face in front of Barinov.
-- 'Hello, glad to see you.' Around the truth and wedding, Denis sets a calm, everyday tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Dima, may I have you for a moment?' Eleonora asks whether may she has Barinov for a moment, refusing to let the point slide. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'He is not going to play for us.' Saying that he is not going to play for them is how Eleonora sets the tone with Barinov.
-- 'Why are you freaking out, he is not my type.' Adding that why are Barinov freaking out he is not her type fills in the missing piece for Barinov. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Let him play in some other place.' Because Barinov should let him play in some other place, Eleonora treats the matter as settled.
-- 'Hi, Katya.' Between the truth and the wedding, Denis gives Barinov a quick, grounded response.
-- 'You have high staff turnover here.' Mentioning that Barinov has high staff turnover here moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'After all, this does not look like my cookies.' Saying that after all this does not look like his cookies is how Barinov sets the tone with Denis. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'After all, I work with sharp objects.' Because after all he works with sharp objects, Barinov treats the matter as settled.
-- 'Congratulations, while I have to work with dull ones.' Explaining that congratulations while she has to work with dull ones lays the cards on the table for Barinov.
-- 'We will make new cookies right now.' Barinov mentions that they will make new cookies right now so Denis sees what is at stake.
+- 'I will never meddle in your life again.' Eleonora shows a resolute attitude during the exchange, linking "nikogda" ("never"), "bolshe" ("more"), and "budu" ("will be") in one brisk exchange.
+- 'Hello, glad to see you.' Denis conveys a wry footing during the exchange, combining "zdravstvuyte" ("hello") and "rad" ("glad") so the key meaning lands right away.
+- 'Dima, may I have you for a moment?' Eleonora wonders steadily in the room, combining "mozhno" ("may, can") and "minutochku" ("a minute") so the key meaning lands right away.
+- 'He is not going to play for us.' Eleonora keeps a sharp line during the exchange, leaning on "igrat" ("to play") before closing the thought with "budet" ("will be").
+- 'Why are you freaking out, he is not my type.' Eleonora shows a natural manner in front of Denis, weaving "psikhuyesh" ("freak out") together with "vkuse" ("taste") just the way native speakers do.
+- 'Let him play in some other place.' Eleonora brings a calm manner on the spot, putting "igrayet" ("plays") alongside "drugom" ("different, another") in a tight, everyday turn of phrase.
+- 'Hi, Katya.' Denis projects an unhurried footing in their talk, combining "privet" ("hi") and "katya" ("Katya") so the key meaning lands right away.
+- 'You have high staff turnover here.' Denis establishes a resolute position right away, weaving "tut" ("here") together with "tekuchka" ("staff turnover") just the way native speakers do.
+- 'After all, this does not look like my cookies.' Nagiyev picks a sharp tone with Denis, weaving "pokhozhe" ("like, similar") together with "pechenye" ("cookies, pastry") just the way native speakers do.
+- 'After all, I work with sharp objects.' Nagiyev sustains a serious angle beside Eleonora, weaving "ostrymi" ("sharp") together with "predmetami" ("objects") just the way native speakers do.
+- 'Congratulations, while I have to work with dull ones.' Eleonora projects an easygoing direction at this moment, combining "pozdravlyayu" ("congratulations") and "prikhoditsya" ("to have to") so the key meaning lands right away.
+- 'We will make new cookies right now.' Nagiyev establishes a sharp bearing without hesitation, combining "seychas" ("now") and "sdelayem" ("we'll do") so the key meaning lands right away.

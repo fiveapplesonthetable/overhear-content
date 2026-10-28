@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A breakup plunges you into a cold, lonely night.' Around the truth and dish, Max sets a calm, everyday tone with Fedya.
-- 'But with the sunrise come new reasons to keep living.' Between the truth and the dish, Max gives Fedya a quick, grounded response.
-- 'Cuisine is a true high art.' Claiming that cuisine is a true high art sounds confident, even if Fedya has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You cannot simply copy other people's dishes.' Pointing out that Fedya cannot simply copy other people dishes gives Fedya a sobering reality check.
-- 'You need a unique recipe that nobody can replicate.' Max explains that Fedya needs a unique recipe that nobody can replicate, keeping his voice calm and direct. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'And I only have simple pâté on the menu.' Realizing that he only has simple on the menu changes how Max handles the situation. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I must invent my own new signature dish.' Noting that he must invent his own new signature dish keeps Max's side of the story simple and clear.
-- 'Something exquisite, like beautiful France itself!' Around the work and dish, Max makes his point loud and clear. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, what is happening with the lights in the kitchen?' Asking what happening with the lights in the kitchen is cuts straight through the tension between Senya and Fedya. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What kind of devilry is going on in here?' Asking whether what kind of devilry is going on in here puts Fedya right on the defensive.
-- 'Could it be a real poltergeist?' Here checking whether it be a real poltergeist shows Fedya looking for the real truth. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'It is the spirit of a dead person who came back to take revenge!' Declaring that it is the spirit of a dead person who came back to take revenge brings Fedya's temper right to the surface. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Friends, who could take revenge on us, Grandpa Kirill?' Wondering who take revenge on them Grandpa Kirill could cuts straight through the tension between Senya and Fedya.
+- 'A breakup plunges you into a cold, lonely night.' Max chooses an unhurried note without hesitation, joining "rasstavaniye" ("breakup, parting") to "pogruzhayet" ("plunges, immerses") so every word pulls its weight.
+- 'But with the sunrise come new reasons to keep living.' Max establishes a grounded footing toward Senya, linking "voskhodom" ("with the rising"), "solntsa" ("of the sun"), and "poyavlyayutsya" ("to appear") in one brisk exchange.
+- 'Cuisine is a true high art.' Max favors a candid approach during the exchange, leaning on "kukhnya" ("kitchen") before closing the thought with "nastoyashcheye" ("real").
+- 'You cannot simply copy other people's dishes.' Max brings a natural style in their talk, putting "nelzya" ("not allowed") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'You need a unique recipe that nobody can replicate.' Max projects an emphatic stance in this beat, pairing "nuzhen" ("is needed") with "unikalnyy" ("unique") to get the point across in plain spoken Russian.
+- 'And I only have simple pâté on the menu.' Max cuts in promptly during the talk, using the everyday "u menya" ("by me") alongside "menyu" ("menu") to show what belongs to the speaker.
+- 'I must invent my own new signature dish.' Max offers an unhurried footing beside Fedya, putting "dolzhen" ("has to, must") alongside "pridumat" ("to think up") in a tight, everyday turn of phrase.
+- 'Something exquisite, like beautiful France itself!' Max sustains a wry style right away, weaving "izyskannoye" ("exquisite, refined") together with "kak" ("how") just the way native speakers do.
+- 'Wait, what is happening with the lights in the kitchen?' Senya queries briskly toward Fedya here, putting "podozhdite" ("wait") alongside "proiskhodit" ("is going on") in a tight, everyday turn of phrase.
+- 'What kind of devilry is going on in here?' Senya quizzes honestly in the scene, pairing "chertovshchina" ("devilry") with "tut" ("here") to get the point across in plain spoken Russian.
+- 'Could it be a real poltergeist?' Fedya probes frankly during the talk, putting "mozhet" ("can") alongside "byt" ("be") in a tight, everyday turn of phrase.
+- 'It is the spirit of a dead person who came back to take revenge!' Fedya strikes a steady posture on the spot, linking "dukh" ("spirit"), "umershego" ("deceased, dead"), and "cheloveka" ("a man, a person") in one brisk exchange.
+- 'Friends, who could take revenge on us, Grandpa Kirill?' Senya wonders openly without a pause, pairing "druzya" ("friends") with "mozhet" ("can") to get the point across in plain spoken Russian.

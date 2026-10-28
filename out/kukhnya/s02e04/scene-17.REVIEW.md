@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Макс | В общем. | In short. | #285: В общем | verbatim |
 | 2 | Шеф | Я сказал правду. | I told the truth. | #288: я сказал правду | verbatim |
 | 3 | Макс | Либо правды. | Or the truth. | #288: либо правды | verbatim |
-| 4 | Шеф | Витя уволили. | Vitya was fired. | #289: Витя уволили | verbatim |
+| 4 | Макс | Витя уволили. | Vitya was fired. | #289: Витя уволили | verbatim |
 | 5 | Макс | Спросите меня, жалею ли я об этом поступке? | Ask me whether I regret that action? | #291: Спросите меня, жалею ли я об этом поступке | verbatim |
 | 6 | Шеф | Поступил бы иначе. | Would I have acted differently. | #293: Поступил бы иначе | verbatim |
 | 7 | Макс | А вы как поступили бы на моем месте? | And how would you have acted in my place? | #295: А вы как поступили бы на моем месте | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In short.' Over the kitchen and the point, Max answers Barinov without a second thought.
-- 'I told the truth.' Once he told the truth, Barinov can finally tell Max what he means.
-- 'Or the truth.' With the shift and meat in play, Max keeps this short reply brisk and direct.
-- 'Vitya was fired.' Barinov tells Max that Vitya was fired without dressing it up.
-- 'Ask me whether I regret that action?' When Max asks if ask him whether he regrets that action, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Would I have acted differently.' Mentioning that would he has acted differently moves the talk in a new direction.
-- 'And how would you have acted in my place?' Here asking how Barinov has acted in his place would shows Max looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Your meat roll is done cooking.' Because Max's meat roll is done cooking, Barinov treats the matter as settled. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Well, yes.' Around the moment and truth, Max sets a calm, everyday tone with Barinov.
-- 'Well, the wait is finally over.' Barinov mentions that the wait is finally so Max sees what is at stake.
-- 'The signature meat roll by Valdemar Barani is ready.' Claiming that the signature meat roll by Valdemar Barani is ready sounds confident, even if Barinov has doubts.
-- 'And right now we are going to taste it.' Pointing out that right now they are going to taste it gives Max a sobering reality check.
+- 'In short.' Max establishes a serious direction at once, putting all the weight on "obshchem" ("short, so") so the reply lands immediately.
+- 'I told the truth.' Barinov picks an earnest position as they talk, pairing "skazal" ("said") with "pravdu" ("truth") to get the point across in plain spoken Russian.
+- 'Or the truth.' Max chooses a serious footing in the scene, leaning on "pravdy" ("truth") before closing the thought with "libo" ("or, either").
+- 'Vitya was fired.' Max holds a brisk angle straight away, joining "uvolili" ("to fire, to dismiss") to "vitya" ("Vitya") so every word pulls its weight.
+- 'Ask me whether I regret that action?' Max challenges honestly in the scene, linking "sprosite" ("ask"), "zhaleyu" ("regret"), and "postupke" ("act, action") in one brisk exchange.
+- 'Would I have acted differently.' Barinov establishes a warm footing in front of Max, combining "postupil" ("acted") and "inache" ("otherwise") so the key meaning lands right away.
+- 'And how would you have acted in my place?' Max wonders steadily at this point, anchoring the Russian line on "kak" ("how") and "postupili" ("acted, behaved") without extra filler.
+- 'Your meat roll is done cooking.' Barinov chooses a warm manner in this beat, pairing "rulet" ("roll, roulade") with "prigotovilsya" ("to prepare") to get the point across in plain spoken Russian.
+- 'Well, yes.' Max sets a direct direction beside Barinov, putting "nu" ("oh, come on") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'Well, the wait is finally over.' Barinov sets a warm line during the exchange, pairing "dozhdalis" ("to wait for") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'The signature meat roll by Valdemar Barani is ready.' Max strikes a playful tack with Barinov, pairing "firmennyy" ("signature") with "rulet" ("roll, roulade") to get the point across in plain spoken Russian.
+- 'And right now we are going to taste it.' Barinov sustains an earnest manner during the exchange, linking "seychas" ("now"), "poprobuyem" ("try"), and "my" ("we") in one brisk exchange.

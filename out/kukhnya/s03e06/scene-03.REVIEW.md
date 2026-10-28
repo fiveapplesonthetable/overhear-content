@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you going to manage there?' Asking what Kostya going to manage there is cuts straight through the tension between Nagiyev and Kostya. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'These are all my people.' Even though these are all his people, Nagiyev keeps a steady face in front of Kostya.
-- 'You will not manage them, is that clear?' Asking whether Kostya will not manage them is that clear puts Kostya right on the defensive. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'No, I will manage them.' Saying that she will manage them is how Kristina sets the tone with Kostya.
-- 'Take the champagne and go away from here.' Taking the champagne and go away from here is how Nagiyev lays out the situation for Kostya.
-- 'Well why, leave it here.' With the boss and kitchen in play, Kristina keeps this short reply brisk and direct.
-- 'Quickly take this champagne away from here.' Over the boss and the kitchen, Nagiyev answers Kostya without a second thought. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'And I told you, leave it, otherwise I will fire you.' Since she told Kostya leaves it otherwise she will fire Kostya, Kristina does not waste words on excuses.
-- 'You two had a hard breakup.' Mentioning that Kristina two had a hard breakup moves the talk in a new direction. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'That is why it gives you no peace.' Saying that that is why it gives Kristina no peace is how Kostya sets the tone with Kristina. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Thank you, friend, you explained everything clearly to me.' With the boss and point in play, Nagiyev keeps this short reply brisk and direct.
-- 'That way you will gradually forget her.' Explaining that that way Kristina will gradually forget lays the cards on the table for Kristina.
+- 'What are you going to manage there?' Nagiyev challenges frankly with Kostya now, joining "tam" ("there") to "upravlyat" ("to manage, to run") so every word pulls its weight.
+- 'These are all my people.' Nagiyev chooses a playful stance straight away, placing "lyudi" ("people") straight beside "eto" ("this") with no word for "to be" needed.
+- 'You will not manage them, is that clear?' Nagiyev prompts bluntly in the room, anchoring the Russian line on "budesh" ("will") and "upravlyat" ("to manage, to run") without extra filler.
+- 'No, I will manage them.' Kristina holds a lively attitude in this beat, weaving "budu" ("will be") together with "upravlyat" ("to manage, to run") just the way native speakers do.
+- 'Take the champagne and go away from here.' Nagiyev favors a clear direction without hesitation, building the phrase around "vozmi" ("take, pick up") and "shampanskoye" ("champagne") for a crisp, natural delivery.
+- 'Well why, leave it here.' Kristina picks a direct manner beside Nagiyev, weaving "pochemu" ("why") together with "ostav" ("keep, leave") just the way native speakers do.
+- 'Quickly take this champagne away from here.' Nagiyev offers an emphatic rhythm beside Kostya, building the phrase around "bystro" ("quickly") and "uberi" ("take away, put away") for a crisp, natural delivery.
+- 'And I told you, leave it, otherwise I will fire you.' Kristina presents a firm tack at once, anchoring the Russian line on "skazala" ("told") and "ostav" ("keep, leave") without extra filler.
+- 'You two had a hard breakup.' Kostya establishes a calm manner straight away, combining "bylo" ("was") and "tyazhyoloye" ("heavy, hard") so the key meaning lands right away.
+- 'That is why it gives you no peace.' Kostya holds a calm tack at this moment, linking "dayot" ("gives, yields"), "pokoya" ("peace, rest"), and "vot" ("there, here") in one brisk exchange.
+- 'Thank you, friend, you explained everything clearly to me.' Nagiyev shares an earnest approach during the exchange, joining "spasibo" ("thank you") to "drug" ("friend") so every word pulls its weight.
+- 'That way you will gradually forget her.' Kostya offers a natural bearing during the exchange, leaning on "postepenno" ("gradually") before closing the thought with "zabudesh" ("will forget").

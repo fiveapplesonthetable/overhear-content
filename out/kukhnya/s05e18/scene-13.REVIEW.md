@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, open the door for us immediately!' Opening the door for them immediately shows Max is done holding back.
-- 'Maxim, drop it, he will not open.' Pointing out that Maxim drop it he will not open gives the guest a sobering reality check.
-- 'Let's just go and buy a new crib instead.' Proposing that they just go and buy a new crib instead moves the conversation forward without extra drama.
-- 'No way, he will return all the money to me!' Max insists that way he will return all the money to him, leaving Barinov no room to argue.
-- 'Or maybe I should give you some glue instead?' The guest asks whether maybe he should give Barinov some glue instead, refusing to let the point slide. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'You can quietly glue your crib back together.' Even though Barinov can quietly glue Barinov's crib back together, the guest keeps a steady face in front of Barinov.
-- 'You will not get any sleep today anyway!' Because Barinov will not get any sleep today anyway, Max does not bother softening the blow for Barinov.
-- 'You broke my wife's baby crib!' With the moment and money at stake, Max reacts without holding back. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, driver, let's settle this the easy way!' Once driver let them settle this the easy way, Barinov makes sure the guest hears every word. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'You come out and hand over twenty thousand!' Declaring that the guest comes out and hand over twenty thousand brings Barinov's temper right to the surface.
-- 'I work legally in a taxi!' The guest declares that he works legally in a taxi as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Get away from here and let me sleep!' Getting away from here and let him sleep is the guest's blunt reaction in front of Barinov. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Hey, open the door for us immediately!' Max adopts a playful view for Barinov, leaning on "slysh" ("listen") before closing the thought with "nemedlenno" ("immediately").
+- 'Maxim, drop it, he will not open.' Barinov presents an emphatic line at once, combining "bros" ("drop it") and "otkroyet" ("will open") so the key meaning lands right away.
+- 'Let's just go and buy a new crib instead.' Barinov adopts a playful posture across the room, weaving "luchshe" ("better") together with "poyedem" ("will be off") just the way native speakers do.
+- 'No way, he will return all the money to me!' Max projects an unhurried angle straight away, linking "dengi" ("money"), "vernyot" ("will reimburse"), and "nu" ("oh, come on") in one brisk exchange.
+- 'Or maybe I should give you some glue instead?' The guest checks dryly in front of Barinov, joining "mozhet" ("can") to "luchshe" ("better") so every word pulls its weight.
+- 'You can quietly glue your crib back together.' The guest shares an honest direction at once, anchoring the Russian line on "budete" ("will be") and "tikhonechko" ("very quietly") without extra filler.
+- 'You will not get any sleep today anyway!' Max sets a pointed tack at this moment, putting "ravno" ("the same") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
+- 'You broke my wife's baby crib!' Max holds a direct posture as they talk, linking "zhene" ("wife"), "detskuyu" ("nursery, kids' room"), and "krovatku" ("baby crib") in one brisk exchange.
+- 'Listen, driver, let's settle this the easy way!' Barinov strikes a lively attitude during the exchange, joining "slysh" ("listen") to "voditel" ("driver") so every word pulls its weight.
+- 'You come out and hand over twenty thousand!' Barinov sets a calm course at this moment, anchoring the Russian line on "vykhodish" ("to go out, to get out") and "otdayosh" ("to hand over") without extra filler.
+- 'I work legally in a taxi!' The guest offers a clear posture toward Barinov, joining "legalno" ("legally") to "rabotayu" ("work") so every word pulls its weight.
+- 'Get away from here and let me sleep!' The guest establishes an honest attitude across the room, putting "ukhodite" ("leave, go away") alongside "otsyuda" ("from here") in a tight, everyday turn of phrase.

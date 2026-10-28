@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, do you feel better?' Asking whether German feels better cuts straight through the tension between Senya and German. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'You fell into a faint.' Explaining that German fell into a faint lays the cards on the table for German.
-- 'What happened to me?' Over the police and the apartment, German presses Max for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'There are strong magnetic storms today.' Claiming that there are strong magnetic storms today sounds confident, even if German has doubts.
-- 'Was I knocked out for a long time?' Checking whether he knocked out for a long time cuts straight through the tension between German and Max.
-- 'I am going to drive away for a bit now.' Saying that he is going to drive away for a bit now is how German sets the tone with Max.
-- 'Hello, Kostya, call Nastya's dad.' Realizing that German should call Nastya dad changes how Max handles the situation.
-- 'Have him drive back here.' Noting that have him drive back here keeps Max's side of the story simple and clear.
-- 'Styopa forgot his mask at home.' Even though Styopa forgot his mask at home, Max keeps a steady face in front of German.
-- 'It is better to bring him back right now.' Admitting that it is better to bring him back right now shows Max being honest for a change.
-- 'There is a boy here, two years old, named Roma.' Saying that there is a boy here two years old named Roma is how Max sets the tone with German.
-- 'And he has a shirt with a spider.' Explaining that he has a shirt with a spider lays the cards on the table for German. Russian expresses having something as "by me is", keeping the phrase short and grounded.
+- 'German Mikhailovich, do you feel better?' Senya prompts naturally without holding back, combining "luchshe" ("better") and "german" ("German") so the key meaning lands right away.
+- 'You fell into a faint.' Senya shows a calm attitude in the conversation, leaning on "obmorok" ("faint") before closing the thought with "upali" ("to fall, to drop").
+- 'What happened to me?' German checks candidly from the start, anchoring the Russian line on "sluchilos" ("happened") and "chto" ("what") without extra filler.
+- 'There are strong magnetic storms today.' Senya strikes an unhurried attitude at this moment, weaving "segodnya" ("today") together with "magnitnyye" ("magnetic") just the way native speakers do.
+- 'Was I knocked out for a long time?' German inquires honestly to keep things clear, putting "dolgo" ("for a long time") alongside "otklyuchke" ("time") in a tight, everyday turn of phrase.
+- 'I am going to drive away for a bit now.' German strikes a brisk direction in the room, putting "seychas" ("now") alongside "nenadolgo" ("for a short time") in a tight, everyday turn of phrase.
+- 'Hello, Kostya, call Nastya's dad.' Max shares a thoughtful footing as they talk, combining "zvoni" ("call") and "pape" ("to Dad") so the key meaning lands right away.
+- 'Have him drive back here.' Max offers a sharp angle in the scene, weaving "obratno" ("back") together with "yedet" ("is going") just the way native speakers do.
+- 'Styopa forgot his mask at home.' Max presents a steady course in this beat, linking "styopa" ("styopa"), "masku" ("mask"), and "doma" ("at home") in one brisk exchange.
+- 'It is better to bring him back right now.' Max displays a resolute note during the exchange, combining "luchshe" ("better") and "privezti" ("to bring") so the key meaning lands right away.
+- 'There is a boy here, two years old, named Roma.' Max presents a natural course right away, leaning on "tut" ("here") before closing the thought with "malchik" ("boy").
+- 'And he has a shirt with a spider.' Max sets an emphatic manner toward Senya, leaning on "mayka" ("spider") before closing the thought with "paukom" ("spider").

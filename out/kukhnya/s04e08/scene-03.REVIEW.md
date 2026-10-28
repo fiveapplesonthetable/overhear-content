@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, is nobody you know renting out a room?' Here checking whether nobody Fedya knows renting out a room shows Denis looking for the real truth. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'What do we look like to you, a housing agency?' By asking what they look like to Denis a housing agency, Senya presses Denis for a straight answer.
-- 'Senya, he is looking for a room, why are you being slow?' Wondering if he is looking for a room why are Denis being slow shows Fedya caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Otherwise your red boat will definitely slip away!' Fedya insists that otherwise Denis's red boat will definitely slip away, leaving Denis no room to argue. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Wait, there is a nice room in my apartment!' Saying that there is a nice room in his apartment is how Senya takes charge of the moment.
-- 'I will rent it to you for just twenty thousand.' Admitting that he will rent it to Denis for just twenty thousand shows Senya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Honestly speaking, that is a bit pricey for me.' Saying that speaking that is a bit pricey for him is how Denis sets the tone with Fedya. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'After all, you will not be living with strangers!' Insisting that after all Denis will not be living with strangers shows Senya is not backing down.
-- 'I definitely will not kick you out onto the street at night.' Adding that he definitely will not kick Denis out onto the street at night fills in the missing piece for Denis. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'All right, I will think carefully about your offer.' Denis tells Fedya that all right he will think carefully about Fedya's offer without dressing it up.
-- 'And will your wife Marina not object to you?' Checking whether Denis's wife Marina not object to Denis cuts straight through the tension between Fedya and Denis.
-- 'I am the master of the house, whatever I ask for is how it will be!' Because he is the master of the house whatever he asks for is how it will be, Senya does not bother softening the blow for Denis. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Guys, is nobody you know renting out a room?' Denis checks wryly during the talk, putting "parni" ("guys, boys") alongside "znakomykh" ("familiar, known") in a tight, everyday turn of phrase.
+- 'What do we look like to you, a housing agency?' Senya presses frankly across the room, linking "pokhozhi" ("similar, look like"), "agentstvo" ("agency"), and "zhilya" ("housing, accommodation") in one brisk exchange.
+- 'Senya, he is looking for a room, why are you being slow?' Fedya wonders directly in the room, anchoring the Russian line on "ishchet" ("looks for, seeks") and "komnatu" ("the room") without extra filler.
+- 'Otherwise your red boat will definitely slip away!' Fedya chooses a natural manner in their talk, weaving "inache" ("otherwise") together with "krasnaya" ("red") just the way native speakers do.
+- 'Wait, there is a nice room in my apartment!' Senya offers a sharp course in the conversation, building the phrase around "podozhdi" ("wait") and "yest" ("there is") for a crisp, natural delivery.
+- 'I will rent it to you for just twenty thousand.' Senya presents a serious tone for Fedya, putting "sdam" ("I'll rent out") alongside "tysyach" ("thousand") in a tight, everyday turn of phrase.
+- 'Honestly speaking, that is a bit pricey for me.' Denis adopts a playful bearing across the room, combining "chestno" ("honestly") and "govorya" ("speaking") so the key meaning lands right away.
+- 'After all, you will not be living with strangers!' Senya strikes a warm tack toward Fedya, building the phrase around "budesh" ("will") and "zhit" ("to live") for a crisp, natural delivery.
+- 'I definitely will not kick you out onto the street at night.' Senya picks a firm tempo in their talk, leaning on "nochyu" ("night") before closing the thought with "ulitsu" ("street").
+- 'All right, I will think carefully about your offer.' Denis picks a lively line straight away, pairing "khorosho" ("good, fine") with "podumayu" ("to think") to get the point across in plain spoken Russian.
+- 'And will your wife Marina not object to you?' Fedya asks dryly without a pause, anchoring the Russian line on "zhena" ("wife") and "vozrazit" ("to object") without extra filler.
+- 'I am the master of the house, whatever I ask for is how it will be!' Senya conveys an earnest attitude for Fedya, using "dome" (from "dom", "house") alongside "khozyain" ("owner") to shape the meaning.

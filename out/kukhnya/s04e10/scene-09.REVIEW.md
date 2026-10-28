@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ugh, Fedya, how vulgar you are!' Saying that ugh Fedya how vulgar Elena is is how Nastya takes charge of the moment. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Check Kostya's browser history on his laptop.' Checking Kostya browser history on his laptop is how Fedya lays out the situation for Elena.
-- 'I already checked his laptop.' Between the story and the truth, Nastya gives Elena a quick, grounded response.
-- 'There is nothing bad on there.' Saying that there is nothing bad on there is how Nastya sets the tone with Elena.
-- 'That means he simply deleted it.' Because that means he simply deleted it, Fedya treats the matter as settled.
-- 'I will stay out in the corridor for a bit.' Explaining that she will stay out in the corridor for a bit lays the cards on the table for Fedya.
-- 'I will wait until the trailer finishes.' Elena mentions that she will wait until the trailer finishes so Fedya sees what is at stake.
-- 'What, is everything really that bad?' Wondering what everything really that bad is is how Nastya puts Elena on the spot.
-- 'A question has come up for me here.' Pointing out that a question has come up for her here gives Fedya a sobering reality check. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'A nightmare, this is aimed at fools.' Elena explains that a nightmare this is aimed at fools, keeping her voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'You are simply out of the loop.' Realizing that Elena is simply out of the loop changes how Nastya handles the situation.
-- 'It is impossible to watch such a movie.' Noting that it is impossible to watch such a movie keeps Elena's side of the story simple and clear.
+- 'Ugh, Fedya, how vulgar you are!' Nastya brings a lively angle at once, anchoring the Russian line on "poshlyak" ("vulgar") and "fu" ("drop it") without extra filler.
+- 'Check Kostya's browser history on his laptop.' Fedya strikes an honest rhythm right away, linking "kosti" ("bones"), "istoriyu" ("history"), and "brauzera" ("laptop") in one brisk exchange.
+- 'I already checked his laptop.' Nastya holds an earnest posture at this moment, leaning on "uzhe" ("already, now") before closing the thought with "proveryala" ("to check, test").
+- 'There is nothing bad on there.' Nastya shares a brisk tone during the exchange, linking "plokhogo" ("bad") directly with "tam" ("there"), since Russian drops "is" and "are" in the present.
+- 'That means he simply deleted it.' Fedya sets a steady tone toward Elena, combining the softening word "prosto" ("simply, just") with "znachit" ("then, so") to give the line its natural spoken rhythm.
+- 'I will stay out in the corridor for a bit.' Elena brings a frank style at this moment, anchoring the Russian line on "pobudu" ("to stay for a while") and "koridore" ("corridor") without extra filler.
+- 'I will wait until the trailer finishes.' Elena establishes a calm tone as they talk, weaving "podozhdu" ("will wait") together with "poka" ("bye") just the way native speakers do.
+- 'What, is everything really that bad?' Nastya prompts promptly without a pause, leaning on "plokho" ("badly") before closing the thought with "chto" ("what").
+- 'A question has come up for me here.' Elena offers an emphatic tempo for Fedya, putting "tut" ("here") alongside "voznik" ("to arise, emerge") in a tight, everyday turn of phrase.
+- 'A nightmare, this is aimed at fools.' Elena brings a steady tone without hesitation, weaving "koshmar" ("nightmare") together with "gluptsov" ("fools") just the way native speakers do.
+- 'You are simply out of the loop.' Nastya brings a measured direction on the spot, building the phrase around "prosto" ("just") and "sovsem" ("at all") for a crisp, natural delivery.
+- 'It is impossible to watch such a movie.' Elena picks an earnest rhythm on the spot, pairing "kino" ("cinema, movies") with "nevozmozhno" ("impossible") to get the point across in plain spoken Russian.

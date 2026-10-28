@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you will not come in to work tomorrow.' Once Barinov will not come in to work tomorrow, Mikhail can finally tell Barinov what he means.
-- 'Now we need to look for a new musician.' Here needing to look for a new musician sets up the next turn in their exchange. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'I have one musician friend.' Admitting that he has one musician friend shows Kostya being honest for a change. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'I can call him right now.' Since he can call him right now, Kostya does not waste words on excuses.
-- 'Ainura, I will not rent the apartment to you.' Mentioning that he will not rent the apartment to Barinov moves the talk in a new direction. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'How will eight people live there?' Here wondering how eight people live there will shows Kostya looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Are they all really very neat people?' By asking whether they all really very neat people, Kostya presses Barinov for a straight answer.
-- 'No, I have already given my word.' By having already given his word, Kostya keeps his side of the story grounded.
-- 'Kostya, I ran out of drinks in my office.' Barinov mentions that he ran out of drinks in his office so Kostya sees what is at stake. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Give me something strong and quickly.' Because Kostya should give him something strong and quickly, Barinov treats the matter as settled.
-- 'I understood everything, I will bring it quickly now.' Pointing out that he understood everything he will bring it quickly now gives Barinov a sobering reality check.
-- 'Thank you, I am waiting for you at the bar counter.' Noting that he is waiting for Kostya at the bar counter keeps Barinov's side of the story simple and clear. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
+- 'So you will not come in to work tomorrow.' Mikhail strikes an emphatic style without hesitation, anchoring the Russian line on "znachit" ("then, so") and "zavtra" ("tomorrow") without extra filler.
+- 'Now we need to look for a new musician.' Mikhail presents a resolute style on the spot, combining "teper" ("now") and "nado" ("it is necessary") so the key meaning lands right away.
+- 'I have one musician friend.' Kostya holds a lively footing as they talk, pairing "yest" ("there is") with "znakomyy" ("familiar") to get the point across in plain spoken Russian.
+- 'I can call him right now.' Kostya adopts an earnest course on the spot, using "mogu" (from "moch", "can") alongside "pryamo" ("right, just") to shape the meaning.
+- 'Ainura, I will not rent the apartment to you.' Kostya presents a serious attitude for Barinov, leaning on "kvartiru" ("flat") before closing the thought with "sdam" ("I'll rent out").
+- 'How will eight people live there?' Kostya presses boldly without a pause, putting "kak" ("how") alongside "tam" ("there") in a tight, everyday turn of phrase.
+- 'Are they all really very neat people?' Kostya wonders dryly without hesitation, joining "deystvitelno" ("really, indeed") to "ochen" ("very much") so every word pulls its weight.
+- 'No, I have already given my word.' Kostya displays a sharp approach on the spot, combining "uzhe" ("already, now") and "slovo" ("word") so the key meaning lands right away.
+- 'Kostya, I ran out of drinks in my office.' Barinov brings an unhurried mood in this beat, using "kabinete" (from "kabinet", "office") alongside "konchilos" ("to over") to shape the meaning.
+- 'Give me something strong and quickly.' Barinov sets an easygoing bearing in this beat, pairing "day" ("give") with "krepkogo" ("strong") to get the point across in plain spoken Russian.
+- 'I understood everything, I will bring it quickly now.' Kostya shows a frank manner at this moment, linking "ponyal" ("understood"), "seychas" ("now"), and "bystro" ("quickly") in one brisk exchange.
+- 'Thank you, I am waiting for you at the bar counter.' Barinov displays a natural rhythm right away, pairing "spasibo" ("thank you") with "zhdu" ("I wait, expect") to get the point across in plain spoken Russian.

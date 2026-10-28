@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Елена | Надо же в штанах. Это тебе. | Well look at that, wearing pants. These are for you. | #118: Надо же в | adapted: adapted |
-| 2 | Елена | Спасибо, не надо. Да ладно, Лен, ну это было неумно, я согласен. | No thank you. Come on, Lena, it was foolish, I agree. | #119: Спасибо, не надо | adapted: adapted |
+| 2 | Шеф | Спасибо, не надо. Да ладно, Лен, ну это было неумно, я согласен. | No thank you. Come on, Lena, it was foolish, I agree. | #119: Спасибо, не надо | adapted: adapted |
 | 3 | Шеф | Во всяком случае, я же не соврал, сказал правду. | At least I did not lie to you, I told the truth. | #120: Во всяком случае | adapted: adapted |
 | 4 | Шеф | Видишь, я уже изменился. Ты изменился? | See, I have already changed. You changed? | #121: Видишь, я уже | adapted: adapted |
 | 5 | Елена | Да. Да ты такой же самовлюблённый эгоист, как был. | Right. You are the exact same narcissistic egoist you always were. | #122: Да. Да ты | adapted: adapted |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well look at that, wearing pants. These are for you.' With the shift and dress in play, Elena keeps this short reply brisk and direct. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'No thank you. Come on, Lena, it was foolish, I agree.' Coming on it was foolish she agrees is how Elena lays out the situation for Barinov.
-- 'At least I did not lie to you, I told the truth.' Saying that at least he did not lie to Elena he told the truth is how Barinov sets the tone with Elena.
-- 'See, I have already changed. You changed?' Wondering if see he has already changed shows Barinov caught off guard. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Right. You are the exact same narcissistic egoist you always were.' Adding that Barinov is the exact same narcissistic egoist Barinov always were fills in the missing piece for Barinov.
-- 'Instead of simply apologizing for your stupidity.' With the moment and dress in play, Elena keeps this short reply brisk and direct.
-- 'And that is all. I agree. It was stupid.' Once that is all, Barinov can finally tell Elena what he means. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But it was a card debt. And paying it off is a matter of honor.' Mentioning that it was a card debt moves the talk in a new direction.
-- 'Crowing without pants is not a debt, it is idiocy.' Elena reminds Barinov that crowing without pants is not a debt it is idiocy before the moment passes. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Yes, idiocy. But I promised to carry out any idiocy if I lost.' Because but he promised to carry out any idiocy if he lost, Barinov treats the matter as settled.
-- 'Alright then. Will you take the flowers? No.' Checking whether Elena takes the flowers is how Barinov puts Elena on the spot.
-- 'Miss, these are for you from a man with a sense of self-respect.' Noting that Elena should miss these are for Elena from a man with a sense of self respect keeps Barinov's side of the story simple and clear. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Excuse me, she was bringing those flowers to me.' Claiming that she was bringing those flowers sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Give the flowers back.' By telling Elena to give the flowers back, Barinov keeps his side of the story grounded.
+- 'Well look at that, wearing pants. These are for you.' Elena chooses a direct rhythm straight away, combining "nado" ("it is necessary") and "shtanakh" ("in pants") so the key meaning lands right away.
+- 'No thank you. Come on, Lena, it was foolish, I agree.' Barinov keeps a brisk bearing in the scene, building the phrase around "spasibo" ("thank you") and "nado" ("it is necessary") for a crisp, natural delivery.
+- 'At least I did not lie to you, I told the truth.' Barinov takes a brisk line for Elena, linking "sluchaye" ("case, event"), "sovral" ("lied"), and "skazal" ("said") in one brisk exchange.
+- 'See, I have already changed. You changed?' Barinov prompts calmly at this point, joining "vidish" ("see") to "uzhe" ("already, now") so every word pulls its weight.
+- 'Right. You are the exact same narcissistic egoist you always were.' Elena adopts an earnest posture in this beat, pairing "samovlyublyonnyy" ("narcissistic") with "egoist" ("egoist") to get the point across in plain spoken Russian.
+- 'Instead of simply apologizing for your stupidity.' Elena adopts an easygoing attitude straight away, combining the softening word "prosto" ("simply, just") with "vzyat" ("to take") to give the line its natural spoken rhythm.
+- 'And that is all. I agree. It was stupid.' Barinov sustains an honest stance in the conversation, joining "soglasen" ("agreed") to "bylo" ("was") so every word pulls its weight.
+- 'But it was a card debt. And paying it off is a matter of honor.' Barinov conveys a warm tone toward Elena, using "byl" (from "byt", "was") alongside "kartochnyy" ("honor") to shape the meaning.
+- 'Crowing without pants is not a debt, it is idiocy.' Elena chooses a natural direction during the exchange, putting "kukarekat" ("crow") alongside "shtanov" ("pants, trousers") in a tight, everyday turn of phrase.
+- 'Yes, idiocy. But I promised to carry out any idiocy if I lost.' Barinov shares an unhurried angle at once, anchoring the Russian line on "idiotizm" ("idiocy") and "obeshchal" ("promised") without extra filler.
+- 'Alright then. Will you take the flowers? No.' Barinov presses bluntly without hesitation, putting "tsvety" ("the flowers") alongside "vozmesh" ("to take") in a tight, everyday turn of phrase.
+- 'Miss, these are for you from a man with a sense of self-respect.' Barinov strikes a brisk tone on the spot, linking "devushka" ("girlfriend") directly with "muzhchiny" ("man"), since Russian drops "is" and "are" in the present.
+- 'Excuse me, she was bringing those flowers to me.' Elena displays a frank position straight away, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "tsvety" ("the flowers") without extra filler.
+- 'Give the flowers back.' Barinov favors a pointed note on the spot, weaving "otdayte" ("give, hand over") together with "tsvety" ("the flowers") just the way native speakers do.

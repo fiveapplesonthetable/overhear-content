@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Макс | Пуговица. Луи. | A button. Louis. | #239: Пуговица. Луи | verbatim |
 | 2 | Луи | Сейчас я не знаю, как это... | Right now I do not know how this... | #243: Сейчас я не знаю, как это | verbatim |
 | 3 | Макс | Извините, мы все исправим. | Forgive us, we will fix everything at once. | #244: Извините, мы все исправим | verbatim |
-| 4 | Луи | Спасибо, я сама. | Thank you, I can manage myself. | #245: Спасибо, я сама | verbatim |
+| 4 | Настя | Спасибо, я сама. | Thank you, I can manage myself. | #245: Спасибо, я сама | verbatim |
 | 5 | Макс | То, что он тебе сказал, правда? | Is what he told you really true? | #249: То, что он тебе сказал, правда | verbatim |
 | 6 | Луи | Этот усатый твоему даже стихи читает. | That mustachioed guy even recites poetry to yours. | #250: Этот усатый твоему даже стихи читает | verbatim |
 | 7 | Макс | Изменяет твоему Луи с женщиной. | He is cheating on your Louis with a woman. | #251: Изменяет твоему Луи с женщиной | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A button. Louis.' Over the gossip and the kitchen, Max answers Louis without a second thought.
-- 'Right now I do not know how this...' Saying that right now he does not know how this is how Louis sets the tone with Max.
-- 'Forgive us, we will fix everything at once.' Pointing out that Louis should forgive them they will fix everything at once gives Louis a sobering reality check.
-- 'Thank you, I can manage myself.' Adding that he can manage himself fills in the missing piece for Max.
-- 'Is what he told you really true?' Asking whether what he told Louis really true is how Max puts Louis on the spot.
-- 'That mustachioed guy even recites poetry to yours.' Over the gossip and the conversation, Louis answers Max without a second thought.
-- 'He is cheating on your Louis with a woman.' Since he is cheating on Louis's Louis with a woman, Max does not waste words on excuses.
-- 'Well, did you talk to Max yet?' Asking whether Max talks to Max yet cuts straight through the tension between Louis and Max.
-- 'What are you waiting for?' Wondering what Louis waiting is is how Max puts Louis on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Go over there and tell him right now.' Mentioning that Max should go over there and tell him right now moves the talk in a new direction.
-- 'That is none of your business.' Max mentions that that is none of Louis's business so Louis sees what is at stake.
-- 'I do not have any lemons left.' Claiming that he does not have any lemons left sounds confident, even if Max has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Let us go to the walk-in cooler.' Even though they should go to the walk in cooler, Max keeps a steady face in front of Louis.
+- 'A button. Louis.' Max holds an honest position for Louis, joining "pugovitsa" ("button") to "lui" ("Louis") so every word pulls its weight.
+- 'Right now I do not know how this...' Louis favors a measured line straight away, weaving "seychas" ("now") together with "znayu" ("know") just the way native speakers do.
+- 'Forgive us, we will fix everything at once.' Max keeps a clear manner during the exchange, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "ispravim" ("will fix, will correct") to shape the meaning.
+- 'Thank you, I can manage myself.' Nastya keeps a serious tempo at this moment, combining "spasibo" ("thank you") and "ya" ("I") so the key meaning lands right away.
+- 'Is what he told you really true?' Max quizzes firmly right away, building the phrase around "skazal" ("said") and "pravda" ("honestly") for a crisp, natural delivery.
+- 'That mustachioed guy even recites poetry to yours.' Louis displays an easygoing tone in front of Nastya, weaving "usatyy" ("friend") together with "stikhi" ("verses, rhymes") just the way native speakers do.
+- 'He is cheating on your Louis with a woman.' Max holds an earnest mood during the exchange, building the phrase around "izmenyayet" ("changes, alters") and "zhenshchinoy" ("a woman") for a crisp, natural delivery.
+- 'Well, did you talk to Max yet?' Louis tests warmly in the room, pairing "pogovorila" ("talked, had a talk") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'What are you waiting for?' Max quizzes pointedly with Louis now, joining "zhdesh" ("are waiting") to "chego" ("what") so every word pulls its weight.
+- 'Go over there and tell him right now.' Louis shows an unhurried note during the exchange, linking "idi" ("go"), "skazhi" ("say"), and "yemu" ("him") in one brisk exchange.
+- 'That is none of your business.' Max establishes a thoughtful view across the room, putting "delo" ("matter") alongside "da" ("yes") in a tight, everyday turn of phrase.
+- 'I do not have any lemons left.' Louis establishes an honest approach without hesitation, anchoring the Russian line on "limonov" ("lemon") and "da" ("yes") without extra filler.
+- 'Let us go to the walk-in cooler.' Max brings a brisk direction beside Louis, combining "poydem" ("let's go") and "kholodilnik" ("fridge") so the key meaning lands right away.

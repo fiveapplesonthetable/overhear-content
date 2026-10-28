@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The ideal start to the day is an invigorating shower.' Even though the ideal start to the day is an invigorating shower, Max keeps a steady face in front of Lyova.
-- 'A hearty breakfast and a little cup of hot coffee.' Around the morning and truth, Max sets a calm, everyday tone with Lyova.
-- 'Ouch, Lyova, that is very hot!' Max declares that ouch Lyova that is very hot as the tension in the room peaks. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Forgive me, please, I did it by accident.' Once he did it by accident, Lyova can finally tell Max what he means.
-- 'Were you peeking at Katya again?' Here checking whether Lyova peeking at Katya again shows Max looking for the real truth. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Our Lyova has fallen for the Chef's daughter.' Max tells Lyova that their Lyova has fallen for the Chef daughter without dressing it up.
-- 'Wait, is it really that noticeable?' Checking whether it really that noticeable cuts straight through the tension between Lyova and Max.
-- 'I understand, I do not have a chance.' Noting that he understands he does not have a chance keeps Lyova's side of the story simple and clear. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Come on, why are you writing yourself off?' Wondering if come on why are Lyova writing themselves off shows Max caught off guard. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You have to help me with Katya.' Because Max has to help him with Katya, Lyova treats the matter as settled.
-- 'What? I am not going to help.' Wondering if he is not going to help shows Max caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am serious, just judge for yourself.' Explaining that he is serious just judge for themselves lays the cards on the table for Max.
+- 'The ideal start to the day is an invigorating shower.' Max conveys a frank course in the scene, joining "idealnoye" ("ideal, perfect") to "nachalo" ("the beginning") so every word pulls its weight.
+- 'A hearty breakfast and a little cup of hot coffee.' Max establishes an emphatic bearing with Lyova, weaving "plotnyy" ("hearty, solid") together with "zavtrak" ("breakfast") just the way native speakers do.
+- 'Ouch, Lyova, that is very hot!' Max holds an earnest mood as the scene unfolds, pairing "ochen" ("very much") with "goryacho" ("hot") to get the point across in plain spoken Russian.
+- 'Forgive me, please, I did it by accident.' Lyova maintains a thoughtful tack with Max, putting "prosti" ("sorry, forgive me") alongside "sluchayno" ("by any chance") in a tight, everyday turn of phrase.
+- 'Were you peeking at Katya again?' Max checks evenly as the talk turns, joining "opyat" ("again") to "podglyadyval" ("were spying") so every word pulls its weight.
+- 'Our Lyova has fallen for the Chef's daughter.' Max maintains a serious tone with Lyova, leaning on "zapal" ("fell for") before closing the thought with "dochku" ("daughter").
+- 'Wait, is it really that noticeable?' Lyova probes directly to make the point, pairing "zametno" ("noticeable") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'I understand, I do not have a chance.' Lyova fires back dryly for Max's benefit, using the everyday "u menya" ("by me") alongside "ponimayu" ("understand") to show what belongs to the speaker.
+- 'Come on, why are you writing yourself off?' Max asks openly without a pause, using "khoronish" (from "khoronit", "you bury, write off") alongside "ladno" ("all right") to shape the meaning.
+- 'You have to help me with Katya.' Lyova brings a thoughtful course in the conversation, weaving "dolzhen" ("has to, must") together with "pomoch" ("to help") just the way native speakers do.
+- 'What? I am not going to help.' Max wonders evenly beside Lyova, joining "budu" ("will be") to "pomogat" ("to help") so every word pulls its weight.
+- 'I am serious, just judge for yourself.' Lyova sets a direct tempo in the room, putting "seryozno" ("seriously") alongside "posudi" ("judge for yourself") in a tight, everyday turn of phrase.

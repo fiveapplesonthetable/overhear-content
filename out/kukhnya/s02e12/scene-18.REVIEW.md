@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My sister, I mean.' Adding that his sister he means fills in the missing piece for Tanya.
-- 'Give me your hand.' Even though Max should give her Max's hand, Vika keeps a steady face in front of Max.
-- 'She is going to like it very much.' Noting that she is going to like it very much keeps Tanya's side of the story simple and clear.
-- 'Okay? Listen here?' With the conversation and shift hanging in the air, Max puts Tanya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'What are we going to do, huh?' By wondering what they going to do huh are, Vika presses Max for a straight answer.
-- 'Our dance of love is only just beginning.' Because their dance of love is only just beginning, Max treats the matter as settled.
-- 'Hold on a second.' Holding on a second is how Max lays out the situation for Tanya.
-- 'Max, Max!' Between the work and the morning, Vika delivers a sharp reaction.
-- 'Why did he hit you like that?' By asking why he hit Max likes, Tanya presses Max for a straight answer. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'It was nothing.' Pointing out that it was nothing gives Tanya a sobering reality check.
-- 'Lavrov, I have news for you.' Adding that she has news for Max fills in the missing piece for Max.
-- 'If you do not like it, get lost, got it?' Asking whether if Tanya does not like it get lost got it puts Tanya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Come over here!' Coming over here is Max's blunt reaction in front of Tanya. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'My sister, I mean.' Max picks a lively course in their talk, weaving "sestra" ("sister") together with "smysle" ("sense") just the way native speakers do.
+- 'Give me your hand.' Vika establishes a wry stance as they talk, joining "ruku" ("hand") to "tvoyu" ("your") so every word pulls its weight.
+- 'She is going to like it very much.' Tanya holds an honest posture beside Max, weaving "ochen" ("very much") together with "ponravitsya" ("will please") just the way native speakers do.
+- 'Okay? Listen here?' Max queries naturally right away, leaning on "slushay" ("listen") before closing the thought with "okey" ("okay").
+- 'What are we going to do, huh?' Vika prompts directly toward Max here, leaning on "delat" ("do") before closing the thought with "chto" ("what").
+- 'Our dance of love is only just beginning.' Max keeps a calm style in their talk, weaving "tanets" ("dance") together with "lyubvi" ("love") just the way native speakers do.
+- 'Hold on a second.' Max chooses a lively line at once, combining "pogodi" ("wait") and "nu-ka" ("go on, come on") so the key meaning lands right away.
+- 'Max, Max!' Vika chooses a resolute approach with Tanya, using "maks" ("Max") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Why did he hit you like that?' Tanya asks bluntly in their exchange, pairing "za" ("for") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'It was nothing.' Max shows an emphatic stance with Vika, pairing "da" ("yes") with "tak" ("so") to get the point across in plain spoken Russian.
+- 'Lavrov, I have news for you.' Vika holds a natural posture for Max, linking "novost" ("the news"), "lavrov" ("Lavrov"), and "menya" ("me") in one brisk exchange.
+- 'If you do not like it, get lost, got it?' Max checks frankly in this moment, weaving "ustraivayet" ("to organize") together with "ponyal" ("understood") just the way native speakers do.
+- 'Come over here!' Max adopts a lively mood toward Tanya, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.

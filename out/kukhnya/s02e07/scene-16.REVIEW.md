@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Я хочу выпить за вас. | I want to propose a toast to the two of you. | #251: Я хочу выпить за вас | verbatim |
 | 2 | Костя | Вы замечательные люди. | You are wonderful people. | #252: Вы замечательные люди | verbatim |
-| 3 | Настя | О, Настенька, а мы тут немного это. | Oh, Nastenka, we were just having a little bite here. | #253: О, Настенька, а мы тут немного это | verbatim |
+| 3 | Макс | О, Настенька, а мы тут немного это. | Oh, Nastenka, we were just having a little bite here. | #253: О, Настенька, а мы тут немного это | verbatim |
 | 4 | Макс | Анастасия Степановна, мне ужасно стыдно. | Anastasiya Stepanovna, I am terribly ashamed. | #254: Анастасия Степановна, мне ужасно стыдно | verbatim |
 | 5 | Костя | Но мы не оставили вам ужин. | Because we did not leave any dinner for you. | #255: но мы не оставили вам ужин | verbatim |
 | 6 | Настя | Что в дружеской компании мы как-то. | In such friendly company, we somehow got carried away. | #256: что в дружеской компании мы как-то | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to propose a toast to the two of you.' Max mentions that he wants to propose a toast to the two of Kostya so Kostya sees what is at stake.
-- 'You are wonderful people.' Saying that Max is wonderful people is how Kostya sets the tone with Max. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Oh, Nastenka, we were just having a little bite here.' Because someone they were just having a little bite here, Nastya treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Anastasiya Stepanovna, I am terribly ashamed.' Explaining that someone he is terribly ashamed lays the cards on the table for Kostya.
-- 'Because we did not leave any dinner for you.' Kostya mentions that because they did not leave any dinner for Max so Max sees what is at stake. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'In such friendly company, we somehow got carried away.' Claiming that in such friendly company they somehow got carried away sounds confident, even if Kostya has doubts.
-- 'Yes, we ate everything up, Nastenka.' Pointing out that they ate everything up gives Kostya a sobering reality check.
-- 'There are still some tomatoes left in the fridge.' Kostya explains that there are still some tomatoes left in the fridge, keeping his voice calm and direct.
-- 'Well, what do you say, guys?' Here asking what Kostya says guys shows Nastya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'How about we all go to karaoke, huh?' Around the trip and table, Max wants to know where Kostya really stands.
-- 'When the soul calls for going to karaoke.' Even though when the soul calls for going to karaoke, Kostya keeps a steady face in front of Max. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Let us go, my soul is singing.' Claiming that they should go her soul is singing sounds confident, even if Kostya has doubts.
-- 'Hold on, stop, Kostya, can I talk to you for a minute?' Questioning whether hold on stop Kostya can he talks to Kostya for a minute is how Max tests Kostya's story.
+- 'I want to propose a toast to the two of you.' Max keeps a lively direction for Kostya, using "khochu" (from "khotet", "want") alongside "vypit" ("to drink") to shape the meaning.
+- 'You are wonderful people.' Kostya keeps a clear course straight away, linking "zamechatelnyye" ("wonderful") directly with "lyudi" ("people"), since Russian drops "is" and "are" in the present.
+- 'Oh, Nastenka, we were just having a little bite here.' Max adopts a calm course without hesitation, anchoring the Russian line on "tut" ("here") and "nemnogo" ("a bit") without extra filler.
+- 'Anastasiya Stepanovna, I am terribly ashamed.' Max takes a resolute posture during the exchange, combining "uzhasno" ("terrible, awful") and "stydno" ("shameful") so the key meaning lands right away.
+- 'Because we did not leave any dinner for you.' Kostya adopts a sharp view toward Max, putting "ostavili" ("left") alongside "uzhin" ("dinner") in a tight, everyday turn of phrase.
+- 'In such friendly company, we somehow got carried away.' Nastya keeps a thoughtful direction as they talk, weaving "druzheskoy" ("friendly") together with "kompanii" ("companies") just the way native speakers do.
+- 'Yes, we ate everything up, Nastenka.' Max establishes a frank view in their talk, leaning on "syeli" ("ate up") before closing the thought with "da" ("yes").
+- 'There are still some tomatoes left in the fridge.' Kostya sets a grounded direction beside Nastya, putting "tam" ("there") alongside "kholodilnike" ("fridge") in a tight, everyday turn of phrase.
+- 'Well, what do you say, guys?' Nastya queries pointedly in this moment, anchoring the Russian line on "muzhiki" ("lads, guys") and "che" ("what") without extra filler.
+- 'How about we all go to karaoke, huh?' Max asks plainly without hesitation, anchoring the Russian line on "poyekhali" ("here we go") and "karaoke" ("karaoke") without extra filler.
+- 'When the soul calls for going to karaoke.' Kostya takes a calm tempo in front of Max, linking "kogda" ("when"), "nuzhno" ("necessary"), and "yekhat" ("to drive, to go") in one brisk exchange.
+- 'Let us go, my soul is singing.' Nastya keeps a brisk course in the conversation, linking "yedem" ("are going"), "dusha" ("shower"), and "roman" ("romance") in one brisk exchange.
+- 'Hold on, stop, Kostya, can I talk to you for a minute?' Max questions calmly to make the point, combining "mozhno" ("may, can") and "minutku" ("a minute") so the key meaning lands right away.

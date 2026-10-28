@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, where is the cod in Martian salt?' Here wondering where the cod salt is shows Barinov looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lyova, will the chicken be ready soon?' By asking whether the chicken be ready soon, Barinov presses Lyova for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Yes, chef, just a couple more seconds.' With the shift and menu in play, Lyova keeps this short reply brisk and direct.
-- 'Chef, Nagiyev is calling you right now.' Saying that Nagiyev is calling Barinov right now is how Lyova sets the tone with Barinov. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Soon the Emperor of the Galaxy will fly in to us!' Insisting that soon the Emperor of the will fly in to them shows Nagiyev is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Dima, you have to warn me in advance!' Once Lyova has to warn him in advance, Barinov makes sure Lyova hears every word.
-- 'Vitya, that is completely impossible.' Nagiyev mentions that that is completely impossible so Barinov sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'The lifespan of these creatures is seven hours.' Claiming that the lifespan of these creatures is seven hours sounds confident, even if Barinov has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Born, ate a meal, and died right away.' Pointing out that born ate a meal and died right away gives Barinov a sobering reality check.
-- 'Do not worry, Dima, we will do everything.' Barinov explains that do not worry Dima they will do everything, keeping his voice calm and direct.
-- 'We will host the guest in first-class style!' Because they will host the guest in first class style, Barinov does not bother softening the blow for Lyova. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Right, otherwise it is the end for all of us.' Noting that right otherwise it is the end for all of them keeps Nagiyev's side of the story simple and clear.
+- 'Fedya, where is the cod in Martian salt?' Barinov asks candidly right away, anchoring the Russian line on "gde" ("where") and "treska" ("cod") without extra filler.
+- 'Lyova, will the chicken be ready soon?' Barinov questions directly toward Nagiyev here, pairing "kuritsa" ("chicken") with "skoro" ("soon") to get the point across in plain spoken Russian.
+- 'Yes, chef, just a couple more seconds.' Lyova shares a lively note toward Barinov, linking "yeshchyo" ("more, still"), "para" ("a match, a pair"), and "sekund" ("seconds") in one brisk exchange.
+- 'Chef, Nagiyev is calling you right now.' Lyova sustains an earnest view at once, linking "seychas" ("now"), "zvonit" ("is calling"), and "shef" ("Chef") in one brisk exchange.
+- 'Soon the Emperor of the Galaxy will fly in to us!' Nagiyev maintains an earnest angle for Barinov, building the phrase around "skoro" ("soon") and "priletit" ("to arrive, to fly in") for a crisp, natural delivery.
+- 'Dima, you have to warn me in advance!' Barinov projects a pointed posture beside Nagiyev, weaving "nado" ("it is necessary") together with "zaraneye" ("in advance") just the way native speakers do.
+- 'Vitya, that is completely impossible.' Nagiyev presents a resolute manner in their talk, putting "sovershenno" ("quite, completely") alongside "nevozmozhno" ("impossible") in a tight, everyday turn of phrase.
+- 'The lifespan of these creatures is seven hours.' Nagiyev brings an easygoing position during the exchange, weaving "zhizn" ("life") together with "sushchestv" ("essence, creature") just the way native speakers do.
+- 'Born, ate a meal, and died right away.' Nagiyev chooses a candid manner as they talk, leaning on "rodilsya" ("was born") before closing the thought with "poyel" ("to eat").
+- 'Do not worry, Dima, we will do everything.' Barinov projects a sharp position toward Nagiyev, building the phrase around "volnuysya" ("worry") and "sdelayem" ("we'll do") for a crisp, natural delivery.
+- 'We will host the guest in first-class style!' Barinov favors a clear footing in the conversation, weaving "primem" ("to receive") together with "gostya" ("guest, visitor") just the way native speakers do.
+- 'Right, otherwise it is the end for all of us.' Nagiyev sustains a frank view at once, putting "pravilno" ("right") alongside "inache" ("otherwise") in a tight, everyday turn of phrase.

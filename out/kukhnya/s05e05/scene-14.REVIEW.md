@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the head chef of this restaurant.' Adding that he is the head of this restaurant fills in the missing piece for Elena.
-- 'Does everything suit you?' By checking whether everything suit Elena, Barinov presses Elena for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Thank you, everything is very delicious.' Realizing that everything is very delicious changes how the guest handles the situation.
-- 'Turn around carefully.' Barinov mentions that Elena should turn around carefully so Elena sees what is at stake.
-- 'Are you not acquainted with the woman by the kitchen?' Here checking whether Elena not acquainted with the woman by the kitchen shows Barinov looking for the real truth. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'No, I am seeing her for the first time.' Being seeing her for the first time moves the conversation forward without extra drama.
-- 'Stay far away from her.' Telling Elena to stay far away moves the conversation forward without extra drama.
-- 'Under no circumstances talk to her.' Between the shift and the dress, Barinov gives Elena a quick, grounded response.
-- 'What, is she some kind of swindler?' Here asking what she some kind of swindler is shows the guest looking for the real truth.
-- 'We are not sure, we suspect so.' Saying that they are not sure they suspect is how Barinov sets the tone with Elena.
-- 'I talked to her, she does not want to meet.' Since he talked to her she does not want to meet, Barinov does not waste words on excuses.
-- 'Very sad, I will go then.' Mentioning that very sad she will go then moves the talk in a new direction.
+- 'I am the head chef of this restaurant.' Barinov shares a grounded position for Elena, combining "shef-povar" ("head chef") and "restorana" ("restaurant") so the key meaning lands right away.
+- 'Does everything suit you?' Barinov quizzes plainly toward the guest here, using "ustraivayet" (from "ustraivat", "to organize") alongside "vas" ("you") to shape the meaning.
+- 'Thank you, everything is very delicious.' The guest takes a clear approach toward Barinov, leaning on "spasibo" ("thank you") before closing the thought with "ochen" ("very much").
+- 'Turn around carefully.' Barinov holds a measured tack with the guest, leaning on "ostorozhno" ("careful, carefully") before closing the thought with "povernites" ("turn around").
+- 'Are you not acquainted with the woman by the kitchen?' Barinov quizzes decisively across the room, using "znakomy" (from "znakomyy", "acquainted") alongside "zhenshchinoy" ("a woman") to shape the meaning.
+- 'No, I am seeing her for the first time.' The guest holds an earnest tack in front of Elena, linking "vpervyye" ("for the first time"), "vizhu" ("see"), and "net" ("no") in one brisk exchange.
+- 'Stay far away from her.' Barinov shares an earnest course across the room, putting "derzhites" ("stick") alongside "podalshe" ("a little further away") in a tight, everyday turn of phrase.
+- 'Under no circumstances talk to her.' Barinov picks a grounded stance at this moment, pairing "sluchaye" ("case, event") with "obshchaytes" ("talk, associate") to get the point across in plain spoken Russian.
+- 'What, is she some kind of swindler?' The guest challenges wryly in front of Barinov, pairing "moshennitsa" ("con artist") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'We are not sure, we suspect so.' Barinov keeps a frank angle at once, joining "uvereny" ("sure, certain") to "podozrevayem" ("suspect") so every word pulls its weight.
+- 'I talked to her, she does not want to meet.' Barinov takes a lively tempo toward Elena, joining "pogovoril" ("to have a talk") to "khochet" ("wants") so every word pulls its weight.
+- 'Very sad, I will go then.' Elena projects an easygoing stance on the spot, joining "ochen" ("very much") to "zhal" ("it is a pity") so every word pulls its weight.

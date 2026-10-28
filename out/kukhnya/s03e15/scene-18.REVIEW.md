@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Taste it, did it turn out delicious or not?' Questioning whether taste it did it turn out delicious or not is how Nagiyev tests Barinov's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Strange, but this is actually very delicious!' Max declares that strange but this is actually very delicious as the tension in the room peaks.
-- 'I admit, Dima, I underestimated you before.' Here admitting Dima he underestimated Barinov sets up the next turn in their exchange. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'And what if he suspects a trick and asks everyone to leave?' Asking whether what if he suspects a trick and asks everyone to leave puts Barinov right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Then we are sunk, and we will need another plan.' Admitting that they are sunk and they will need another plan shows Barinov being honest for a change.
-- 'Wait, Vitya, do we actually have that plan?' Asking whether they actually have that plan is how Nagiyev puts Barinov on the spot. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'A prepared raw dish will already be sitting inside the oven.' Once a prepared raw dish will already be sitting inside the oven, Barinov can finally tell Max what he means.
-- 'You will put your dish in the oven, and then pull out the right dish.' Adding that Max will put Max's dish in the oven and then pull out the right dish fills in the missing piece for Max.
-- 'Most importantly, do not forget to turn on the oven in time!' Barinov declares that most importantly do not forget to turn on the oven in time as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Wait, and how do I turn on this oven?' Wondering how he turns on this oven is how Nagiyev puts Barinov on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Simply turn the switch over there to the right!' With the plan and dish at stake, Barinov reacts without holding back.
-- 'The rabbit is raw, shall we settle up on our bet?' When Max asks if the rabbit is raw shall they settle up on their bet, Barinov has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Taste it, did it turn out delicious or not?' Nagiyev inquires earnestly without a pause, linking "poprobuy" ("to try, to taste"), "vkusno" ("it's tasty"), and "poluchilos" ("worked out") in one brisk exchange.
+- 'Strange, but this is actually very delicious!' Max takes a candid mood beside Nagiyev, anchoring the Russian line on "stranno" ("strange") and "deystvitelno" ("really, indeed") without extra filler.
+- 'I admit, Dima, I underestimated you before.' Max maintains a warm mood at this moment, leaning on "priznayu" ("to admit, to recognise") before closing the thought with "ranshe" ("earlier, previously").
+- 'And what if he suspects a trick and asks everyone to leave?' Nagiyev quizzes evenly to make the point, joining "zapodozrit" ("suspects") to "obman" ("a trick") so every word pulls its weight.
+- 'Then we are sunk, and we will need another plan.' Barinov sustains a calm manner in the conversation, building the phrase around "priplyli" ("came to a dead end") and "togda" ("back then") for a crisp, natural delivery.
+- 'Wait, Vitya, do we actually have that plan?' Nagiyev quizzes bluntly as the talk turns, putting "podozhdi" ("wait") alongside "plan" ("plan") in a tight, everyday turn of phrase.
+- 'A prepared raw dish will already be sitting inside the oven.' Barinov favors a firm attitude straight away, joining "dukhovke" ("the oven") to "uzhe" ("already, now") so every word pulls its weight.
+- 'You will put your dish in the oven, and then pull out the right dish.' Barinov chooses a lively tempo as the scene unfolds, joining "blyudo" ("dish") to "otpravish" ("to send") so every word pulls its weight.
+- 'Most importantly, do not forget to turn on the oven in time!' Barinov shows an honest course across the room, building the phrase around "samoye" ("the most") and "glavnoye" ("important") for a crisp, natural delivery.
+- 'Wait, and how do I turn on this oven?' Nagiyev checks naturally without hesitation, building the phrase around "podozhdi" ("wait") and "kak" ("how") for a crisp, natural delivery.
+- 'Simply turn the switch over there to the right!' Barinov holds a natural posture in their talk, weaving "prosto" ("just") together with "poverni" ("turn") just the way native speakers do.
+- 'The rabbit is raw, shall we settle up on our bet?' Max challenges honestly toward Nagiyev here, weaving "krolik" ("rabbit") together with "syroy" ("raw, damp") just the way native speakers do.

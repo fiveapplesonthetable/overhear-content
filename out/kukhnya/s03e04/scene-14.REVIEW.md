@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoria Sergeyevna, my soul! Why aren't you at home?' By asking why not Barinov at home are, Nagiyev presses Barinov for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why are we sitting at work?' Wondering why they sitting at work are cuts straight through the tension between Nagiyev and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Why, because we work until the last guest.' Over the moment and the room, Vika answers Barinov without a second thought.
-- 'Are you hinting at me? What guest? I am simply the owner.' Here asking whether Barinov hinting at him shows Nagiyev looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'And the owner is lord! I grant you the night off today.' Because the owner is, Nagiyev does not bother softening the blow for Barinov. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Let's continue this lucky day!' Here proposing that they continue this lucky day lets Barinov's real feelings break through.
-- 'To be honest, not really.' Turning from the kitchen to the work, Vika keeps the exchange moving.
-- 'Whiskey!' With the plan and shift at stake, Barinov reacts without holding back. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Another round? No, I don't want to drink anymore.' Wondering if no she does not want to drink anymore shows Vika caught off guard.
-- 'Whiskey? Yes, with cola.' With the plan and room hanging in the air, Barinov puts Nagiyev on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Whiskey with cola, for sure.' Around the shift and moment, Barinov sets a calm, everyday tone with Nagiyev.
-- 'And how shall we do it?' Barinov asks whether how shall they do it, refusing to let the point slide.
+- 'Viktoria Sergeyevna, my soul! Why aren't you at home?' Nagiyev wonders naturally on the spot, joining "dusha" ("shower") to "doma" ("at home") so every word pulls its weight.
+- 'Why are we sitting at work?' Nagiyev prompts boldly right away, linking "rabote" ("work"), "sidim" ("we are sitting"), and "chego" ("what") in one brisk exchange.
+- 'Why, because we work until the last guest.' Vika displays a playful stance during the exchange, combining "rabotayem" ("we work, let's work") and "poslednego" ("the last") so the key meaning lands right away.
+- 'Are you hinting at me? What guest? I am simply the owner.' Nagiyev challenges boldly across the room, building the phrase around "namekayete" ("are hinting") and "gost" ("guest") for a crisp, natural delivery.
+- 'And the owner is lord! I grant you the night off today.' Nagiyev shares a candid bearing for Barinov, joining "khozyain" ("owner") to "barin" ("master, lord") so every word pulls its weight.
+- 'Let's continue this lucky day!' Barinov maintains a steady bearing in the room, pairing "prodolzhim" ("will continue") with "udachnyy" ("lucky, successful") to get the point across in plain spoken Russian.
+- 'To be honest, not really.' Vika strikes a warm line at once, pairing "chestno" ("honestly") with "ochen" ("very much") to get the point across in plain spoken Russian.
+- 'Whiskey!' Barinov displays a direct tack on the spot, letting the single Russian word "viski" ("whisky") carry the entire reaction on its own.
+- 'Another round? No, I don't want to drink anymore.' Vika checks firmly to make the point, linking "povtorit" ("to repeat, another round"), "khochu" ("want"), and "bolshe" ("more") in one brisk exchange.
+- 'Whiskey? Yes, with cola.' Barinov challenges calmly on the spot, weaving "viski" ("whisky") together with "koloy" ("cola") just the way native speakers do.
+- 'Whiskey with cola, for sure.' Barinov brings an honest mood in their talk, pairing "viski" ("whisky") with "koloy" ("cola") to get the point across in plain spoken Russian.
+- 'And how shall we do it?' Barinov challenges promptly in their exchange, combining "kak" ("how") and "sdelayem" ("we'll do") so the key meaning lands right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, are you really disabled?' Over the story and the car, the inspector presses Mikhail for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'I did not know about that at all.' Mentioning that he did not know about that at all moves the talk in a new direction.
-- 'Viktor does not like to talk about this.' Mikhail tells the inspector that Viktor does not like to talk about this without dressing it up.
-- 'His legs were completely paralyzed.' Claiming that his legs were completely paralyzed sounds confident, even if the inspector has doubts. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'But our chef does not give up.' Pointing out that their does not give up gives the inspector a sobering reality check.
-- 'He works here every day.' Mikhail explains that he works here every day, keeping his voice calm and direct.
-- 'Your courage is worthy of great admiration.' Realizing that Mikhail's courage is worthy of great admiration changes how the inspector handles the situation. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Grandmother said this is not Kostya's father.' Noting that grandmother said this is not Kostya father keeps Nastya's side of the story simple and clear.
-- 'She is elderly, she could have mixed it up.' Being elderly she could have mixed it up moves the conversation forward without extra drama.
-- 'You found him recently yourself, after all.' Admitting that the inspector found him recently themselves after all shows Nastya being honest for a change. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'He confirmed that he is Kostya's father.' Saying that he confirmed that he is Kostya father is how Nastya sets the tone with the inspector.
-- 'That means this man is a sly swindler!' Mikhail declares that that means this man is a sly swindler as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Tell me, are you really disabled?' The inspector tests directly on the spot, linking "skazhite" ("tell"), "samom" ("very"), and "dele" ("case") in one brisk exchange.
+- 'I did not know about that at all.' The inspector brings a natural manner across the room, combining the intensifier "sovsem" ("completely, at all") with "znal" ("knew") to give the line its natural spoken rhythm.
+- 'Viktor does not like to talk about this.' Mikhail strikes a firm angle in the room, leaning on "lyubit" ("loves") before closing the thought with "govorit" ("to talk").
+- 'His legs were completely paralyzed.' Mikhail brings an easygoing note during the exchange, anchoring the Russian line on "polnostyu" ("completely") and "paralizovalo" ("paralyzed") without extra filler.
+- 'But our chef does not give up.' Mikhail presents a steady footing in their talk, joining "sdayotsya" ("gives up") to "no" ("but") so every word pulls its weight.
+- 'He works here every day.' Mikhail brings a resolute tempo in the conversation, pairing "kazhdyy" ("every") with "den" ("day") to get the point across in plain spoken Russian.
+- 'Your courage is worthy of great admiration.' The inspector shows a brisk stance at once, anchoring the Russian line on "muzhestvo" ("courage") and "dostoyno" ("worthily, properly") without extra filler.
+- 'Grandmother said this is not Kostya's father.' Nastya displays a serious tempo in front of Mikhail, putting "babushka" ("old lady") alongside "skazala" ("told") in a tight, everyday turn of phrase.
+- 'She is elderly, she could have mixed it up.' Nastya takes a pointed posture beside the inspector, joining "starenkaya" ("elderly, old") to "mogla" ("could") so every word pulls its weight.
+- 'You found him recently yourself, after all.' Nastya sustains a warm course in the conversation, weaving "nedavno" ("returned") together with "nashla" ("found, did you find") just the way native speakers do.
+- 'He confirmed that he is Kostya's father.' Nastya adopts a playful tack in front of the inspector, weaving "podtverdil" ("to confirm") together with "otets" ("father") just the way native speakers do.
+- 'That means this man is a sly swindler!' Mikhail favors a lively line as the scene unfolds, leaning on "znachit" ("then, so") before closing the thought with "chelovek" ("a man, a person").

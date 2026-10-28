@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Timur, how are you doing this morning?' Wondering how Timur doing this morning is is how Katya puts Timur on the spot.
-- 'Hi, gorgeous, do you know who blocked my driveway?' Wondering if gorgeous do Katya knows who blocked his driveway shows Timur caught off guard. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, we saw that insolent car ourselves this morning.' Katya tells Timur that they saw that insolent car themselves this morning without dressing it up.
-- 'Because of him I have to walk an extra twenty meters on foot!' Declaring that because of him he has to walk an extra twenty meters on foot brings Timur's temper right to the surface.
-- 'Timur, tell me, do you have any rotten eggs?' Katya asks whether tell her do Timur has any rotten eggs, refusing to let the point slide. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'Are you offending me, gorgeous? Of course I do not!' Here asking whether Katya offending him gorgeous shows Timur looking for the real truth. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'What a pity, otherwise we would punish him for his parking!' Katya declares that what a pity otherwise they would punish him for his parking as the tension in the room peaks.
-- 'Oh, for a cause like that? Then of course I have some!' With the point and team hanging in the air, Timur puts Katya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Here you go, the very best choice rotten eggs!' Insisting that here Katya goes the very best choice rotten eggs shows Timur is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Great, come on and keep me company right now!' Between the point and the car, Katya delivers a sharp reaction.
-- 'With great pleasure, let's throw them right at the windshield!' Declaring that with great pleasure let them throw them right at the windshield brings Timur's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Now that owner will definitely learn how to park properly!' Katya insists that that owner will definitely learn how to park properly, leaving Timur no room to argue. Russian puts the key word right up front so her emotion lands on the first beat.
+- 'Hi, Timur, how are you doing this morning?' Katya tests earnestly in the scene, pairing "kak" ("how") with "dela" ("things, affairs") to get the point across in plain spoken Russian.
+- 'Hi, gorgeous, do you know who blocked my driveway?' Timur tests lightly to keep things clear, leaning on "krasavitsa" ("beauty") before closing the thought with "znayesh" ("know").
+- 'No, we saw that insolent car ourselves this morning.' Katya holds an earnest tack for Timur, putting "utrom" ("this morning") alongside "videli" ("saw") in a tight, everyday turn of phrase.
+- 'Because of him I have to walk an extra twenty meters on foot!' Timur keeps a serious position straight away, pairing "dolzhen" ("has to, must") with "lishniye" ("unnecessary") to get the point across in plain spoken Russian.
+- 'Timur, tell me, do you have any rotten eggs?' Katya queries honestly without hesitation, combining "u tebya" (literally "by you") with "skazhi" ("say") rather than a separate word for "have".
+- 'Are you offending me, gorgeous? Of course I do not!' Timur presses openly to make the point, pairing "obizhayesh" ("are insulting") with "krasavitsa" ("beauty") to get the point across in plain spoken Russian.
+- 'What a pity, otherwise we would punish him for his parking!' Katya favors a pointed style in their talk, leaning on "ochen" ("very much") before closing the thought with "zhal" ("it is a pity").
+- 'Oh, for a cause like that? Then of course I have some!' Timur challenges sharply as they speak, weaving "dela" ("things, affairs") together with "togda" ("back then") just the way native speakers do.
+- 'Here you go, the very best choice rotten eggs!' Timur picks an easygoing bearing in this beat, combining "derzhi" ("here you go") and "samyye" ("most, very") so the key meaning lands right away.
+- 'Great, come on and keep me company right now!' Katya sets a playful tack without hesitation, combining the everyday invitation "davay" ("come on, let us") with "otlichno" ("perfect, great") to give the line its natural spoken rhythm.
+- 'With great pleasure, let's throw them right at the windshield!' Timur chooses a natural note across the room, putting "bolshim" ("great") alongside "udovolstviyem" ("pleasure") in a tight, everyday turn of phrase.
+- 'Now that owner will definitely learn how to park properly!' Katya maintains a grounded posture for Timur, pairing "teper" ("now") with "khozyain" ("owner") to get the point across in plain spoken Russian.

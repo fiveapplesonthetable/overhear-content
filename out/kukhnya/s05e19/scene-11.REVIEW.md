@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kitchen, I ask everyone to pay attention!' Insisting that kitchen he asks everyone to pay attention shows Max is not backing down. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'At first glance, these are ordinary fish trimmings.' Because at first glance these are ordinary fish trimmings, Max treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'But if you look at them more closely...' Explaining that if Fedya looks at them more closely lays the cards on the table for Fedya.
-- 'Now this is our new dish of the day.' Max mentions that this is their new dish of the day so Fedya sees what is at stake. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'These are exquisite homemade trout sausages.' Claiming that these are exquisite homemade trout sausages sounds confident, even if Fedya has doubts. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Those trimmings used to be my own dish of the day.' Pointing out that those trimmings used to be his own dish of the day gives Fedya a sobering reality check.
-- 'Now there is no way to sneak them home from the kitchen.' Saying that there is no way to sneak them home from the kitchen is how Senya sets the tone with Fedya.
-- 'Comrade Chef, taste this dish right here.' Around the point and dish, Fedya sets a calm, everyday tone with Max. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'I also prepared a dish of the day out of scraps.' Around the point and fish, Fedya sets a calm, everyday tone with Max.
-- 'Well done, Fedya, let's see what is here.' Even though done Fedya let them see what is here, Max keeps a steady face in front of Fedya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Here is a side dish of fresh potato peels.' Admitting that here is a side dish of fresh potato peels shows Fedya being honest for a change.
-- 'I named this dish Provençal slops.' Between the truth and the fish, Fedya gives Max a quick, grounded response.
+- 'Kitchen, I ask everyone to pay attention!' Max takes a grounded manner in the room, combining "kukhnya" ("kitchen") and "proshu" ("beg, ask") so the key meaning lands right away.
+- 'At first glance, these are ordinary fish trimmings.' Max strikes a resolute position in their talk, building the phrase around "pervyy" ("first") and "vzglyad" ("look, glance") for a crisp, natural delivery.
+- 'But if you look at them more closely...' Max favors a playful position in the room, anchoring the Russian line on "vnimatelneye" ("more careful") and "prismotretsya" ("to take a closer look") without extra filler.
+- 'Now this is our new dish of the day.' Max displays a serious bearing as the scene unfolds, joining "teper" ("now") to "novoye" ("new") so every word pulls its weight.
+- 'These are exquisite homemade trout sausages.' Max chooses a playful manner in this beat, pairing "izyskannyye" ("exquisite") with "domashniye" ("home, domestic") to get the point across in plain spoken Russian.
+- 'Those trimmings used to be my own dish of the day.' Senya brings a candid tack at this moment, pairing "obrezki" ("trimmings") with "byli" ("be") to get the point across in plain spoken Russian.
+- 'Now there is no way to sneak them home from the kitchen.' Senya takes a brisk approach in the conversation, linking "teper" ("now"), "kukhni" ("kitchen"), and "domoy" ("home") in one brisk exchange.
+- 'Comrade Chef, taste this dish right here.' Fedya conveys a frank line in the conversation, joining "tovarishch" ("comrade") to "poprobuyte" ("try, taste") so every word pulls its weight.
+- 'I also prepared a dish of the day out of scraps.' Fedya displays a lively rhythm with Max, leaning on "tozhe" ("too") before closing the thought with "prigotovil" ("cooked").
+- 'Well done, Fedya, let's see what is here.' Max picks a serious direction straight away, pairing "molodets" ("well done, good boy") with "davay" ("let's") so the "-sya" ending carries the action.
+- 'Here is a side dish of fresh potato peels.' Fedya holds an earnest tack with Max, leaning on "tut" ("here") before closing the thought with "garnir" ("side dish").
+- 'I named this dish Provençal slops.' Fedya establishes an honest position toward Senya, anchoring the Russian line on "nazval" ("called") and "blyudo" ("dish") without extra filler.

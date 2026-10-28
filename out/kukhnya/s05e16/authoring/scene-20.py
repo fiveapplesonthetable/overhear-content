@@ -7,7 +7,7 @@ SCENE = 20
 TITLE = 'Развернуть самолёт ради любви  (Turning the Plane Around for Love)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'guest': 'Гость', 'kostya': 'Костя', 'max': 'Макс'}
+LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S5.16'
 SOURCE_FILE = 'sources/kukhnya/s05/e16.ru.srt'
 INTRO = "When Kostya calls Max a second time to tell him Vika is genuinely in labor now, Max realizes how deeply he loves Vika and takes out an instant five-hundred-thousand-ruble loan from Dasha's bank to turn the jet back to Moscow."
@@ -22,24 +22,24 @@ STORY = [
     ('max', 'Иначе какая же это тогда настоящая любовь?', 'Otherwise what kind of real love is it then?', [(326, 'Иначе какая это к черту любовь')], 'adapted'),
     ('max', 'Даша, прости, но мне срочно нужно в Москву!', 'Dasha, forgive me, but I urgently need to get to Moscow!', [(327, 'Мне нужно в Москву')], 'adapted'),
     ('max', 'Скажи, сколько стоит прямо сейчас развернуть наш самолёт?', 'Tell me, how much does it cost to turn our plane around right now?', [(328, 'Сколько стоит развернуть самолет')], 'adapted'),
-    ('guest', 'Это будет стоить примерно пятьсот тысяч рублей.', 'That will cost roughly five hundred thousand rubles.', [(329, 'Тысяч пятьсот')], 'adapted'),
+    ('vika', 'Это будет стоить примерно пятьсот тысяч рублей.', 'That will cost roughly five hundred thousand rubles.', [(329, 'Тысяч пятьсот')], 'adapted'),
     ('max', 'А ваш банк ведь выдаёт клиентам срочные кредиты?', 'And does your bank issue urgent loans to clients?', [(330, 'банка')], 'adapted'),
-    ('guest', 'Макс, ты действительно так сильно её ещё любишь?', 'Max, do you really still love her that much?', [(331, 'Я ее очень люблю')], 'adapted'),
+    ('vika', 'Макс, ты действительно так сильно её ещё любишь?', 'Max, do you really still love her that much?', [(331, 'Я ее очень люблю')], 'adapted'),
     ('max', 'Да, Даша, я её очень сильно люблю!', 'Yes, Dasha, I love her very much!', [(331, 'Я ее очень люблю')], 'adapted'),
-    ('guest', 'Хорошо, оформляй бумаги, сейчас развернём самолёт в Москву.', 'Alright, sign the papers, we will turn the plane back to Moscow now.', [(328, 'развернуть самолет')], 'adapted'),
+    ('vika', 'Хорошо, оформляй бумаги, сейчас развернём самолёт в Москву.', 'Alright, sign the papers, we will turn the plane back to Moscow now.', [(328, 'развернуть самолет')], 'adapted'),
     ('max', 'Спасибо тебе огромное, Вика, только дождись меня там!', 'Thank you so much, Vika, just wait for me there!', [(327, 'Мне нужно в Москву')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Max, do not hang up, now she really is giving birth!' Saying that do not hang up now she really is giving birth is how Kostya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (1, None, '\'The most important thing in life is that you must love a woman.\' Adding that the most important thing in life is that the guest must love a woman fills in the missing piece for the guest. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (2, None, "'And you must do it with all your heart and fiercely!' Because the guest must do it with all the guest's heart and fiercely, Max does not bother softening the blow for the guest."),
-    (3, None, '\'Otherwise what kind of real love is it then?\' Asking whether otherwise what kind of real love is it then puts the guest right on the defensive. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (4, None, "'Dasha, forgive me, but I urgently need to get to Moscow!' Over the moment and the kitchen, Max lets his real feelings show. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (5, None, "'Tell me, how much does it cost to turn our plane around right now?' Asking whether tell him how much does it cost to turn their plane around right now puts the guest right on the defensive."),
-    (6, None, '\'That will cost roughly five hundred thousand rubles.\' Because that will cost roughly five hundred thousand rubles, the guest treats the matter as settled. Russian drops "is" in the present, setting the two halves of the thought side by side.'),
-    (7, None, '\'And does your bank issue urgent loans to clients?\' Asking whether the guest\'s bank issue urgent loans to clients cuts straight through the tension between Max and the guest. Notice how he sticks to the formal "you", keeping a professional line between them.'),
-    (8, None, "'Max, do you really still love her that much?' Checking whether Kostya really still love her that much is how the guest puts Kostya on the spot."),
-    (9, None, "'Yes, Dasha, I love her very much!' Because Dasha he loves her very much, Max does not bother softening the blow for the guest. Russian puts the key word right up front so his emotion lands on the first beat."),
-    (10, None, "'Alright, sign the papers, we will turn the plane back to Moscow now.' Pointing out that Alright sign the papers they will turn the plane back to Moscow now gives Kostya a sobering reality check."),
-    (11, None, "'Thank you so much, Vika, just wait for me there!' Over the conversation and the point, Max lets his real feelings show."),
+    (0, None, '\'Max, do not hang up, now she really is giving birth!\' Kostya offers an emphatic tempo as they talk, using "brosay" (from "brosat", "drop, abandon") alongside "trubku" ("the receiver") to shape the meaning.'),
+    (1, None, '\'The most important thing in life is that you must love a woman.\' Max projects a natural approach across the room, joining "samoye" ("the most") to "glavnoye" ("important") so every word pulls its weight.'),
+    (2, None, '\'And you must do it with all your heart and fiercely!\' Max sets a frank posture at once, leaning on "delat" ("do") before closing the thought with "nuzhno" ("necessary").'),
+    (3, None, '\'Otherwise what kind of real love is it then?\' Max quizzes dryly as the talk turns, putting "inache" ("otherwise") alongside "togda" ("back then") in a tight, everyday turn of phrase.'),
+    (4, None, '\'Dasha, forgive me, but I urgently need to get to Moscow!\' Max favors a wry position in the room, using "prosti" (from "prostit", "sorry, forgive me") alongside "srochno" ("urgent, urgently") to shape the meaning.'),
+    (5, None, '\'Tell me, how much does it cost to turn our plane around right now?\' Max tests evenly to keep things clear, pairing "seychas" ("now") with "skazhi" ("say") so the "-sya" ending carries the action.'),
+    (6, None, '\'That will cost roughly five hundred thousand rubles.\' Vika sets a calm attitude in front of Kostya, leaning on "budet" ("will be") before closing the thought with "stoit" ("cost").'),
+    (7, None, '\'And does your bank issue urgent loans to clients?\' Max quizzes candidly in the room, weaving "bank" ("bank") together with "vydayot" ("to hand out") just the way native speakers do.'),
+    (8, None, '\'Max, do you really still love her that much?\' Vika queries naturally in this moment, putting "deystvitelno" ("really, indeed") alongside "silno" ("strongly, much") in a tight, everyday turn of phrase.'),
+    (9, None, '\'Yes, Dasha, I love her very much!\' Max projects an emphatic stance right away, anchoring the Russian line on "ochen" ("very much") and "silno" ("strongly, much") without extra filler.'),
+    (10, None, '\'Alright, sign the papers, we will turn the plane back to Moscow now.\' Vika projects a clear line in front of Kostya, building the phrase around "khorosho" ("good, fine") and "oformlyay" ("to draw up") for a crisp, natural delivery.'),
+    (11, None, '\'Thank you so much, Vika, just wait for me there!\' Max projects a thoughtful mood in the conversation, building the phrase around "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") for a crisp, natural delivery.'),
 ]

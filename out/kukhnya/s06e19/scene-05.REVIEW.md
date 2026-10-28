@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, everything is in your hands right now.' Pointing out that everything is in Fedya's hands right now gives Fedya a sobering reality check.
-- 'Show them who is the master in the kitchen.' Claiming that Fedya should show them who is the master in the kitchen sounds confident, even if Fedya has doubts.
-- 'Go and win back your jobs.' By going and win back Fedya's jobs, Barinov keeps his side of the story grounded.
-- 'Chef, we will tear them apart today!' Saying that they will tear them apart today is how Senya takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'We will quickly defeat these cooks.' Even though they will quickly defeat these cooks, Fedya keeps a steady face in front of Barinov.
-- 'Better prove that in the kitchen.' With the kitchen and work in play, Barinov keeps this short reply brisk and direct.
-- 'Let us do it like in the old days!' Because they should do it like in the old days, Barinov does not bother softening the blow for Fedya. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Each pair will prepare one dish.' Once each pair will prepare one dish, Barinov can finally tell Fedya what he means.
-- 'Whoever cooks better will stay.' Adding that whoever cooks better will stay fills in the missing piece for Fedya.
-- 'The best will remain in this kitchen.' Barinov tells Fedya that the best will remain in this kitchen without dressing it up.
-- 'You have exactly half an hour.' Since Fedya has exactly half an hour, Barinov does not waste words on excuses. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Come on, guys, get started on the work!' Once Fedya should come on guys get started on the work, Barinov makes sure Fedya hears every word.
+- 'Guys, everything is in your hands right now.' Barinov strikes a brisk stance at this moment, linking "parni" ("guys, boys"), "seychas" ("now"), and "rukakh" ("hands") in one brisk exchange.
+- 'Show them who is the master in the kitchen.' Barinov shows an unhurried bearing in the conversation, building the phrase around "pokazhite" ("show") and "kukhne" ("kitchen") for a crisp, natural delivery.
+- 'Go and win back your jobs.' Barinov shows a thoughtful stance in front of Fedya, weaving "idite" ("come") together with "vernite" ("return, pay back") just the way native speakers do.
+- 'Chef, we will tear them apart today!' Senya sets a calm attitude without hesitation, linking "segodnya" ("today"), "porvyom" ("we will tear apart"), and "shef" ("Chef") in one brisk exchange.
+- 'We will quickly defeat these cooks.' Fedya adopts a resolute position as the scene unfolds, weaving "bystro" ("quickly") together with "pobedim" ("will defeat") just the way native speakers do.
+- 'Better prove that in the kitchen.' Barinov brings a natural approach in the scene, putting "luchshe" ("better") alongside "dokazhi" ("prove") in a tight, everyday turn of phrase.
+- 'Let us do it like in the old days!' Barinov brings a lively position with Fedya, anchoring the Russian line on "davayte" ("let's") and "kak" ("how") without extra filler.
+- 'Each pair will prepare one dish.' Barinov takes a thoughtful tempo during the exchange, joining "kazhdaya" ("every") to "para" ("a match, a pair") so every word pulls its weight.
+- 'Whoever cooks better will stay.' Barinov holds an emphatic style as the scene unfolds, weaving "prigotovit" ("makes, cooks") together with "luchshe" ("better") just the way native speakers do.
+- 'The best will remain in this kitchen.' Barinov projects an earnest view across the room, building the phrase around "luchshiye" ("best") and "ostanutsya" ("will stay, remain") for a crisp, natural delivery.
+- 'You have exactly half an hour.' Barinov conveys a wry mood as the scene unfolds, leaning on "rovno" ("exactly") before closing the thought with "polchasa" ("half-hour").
+- 'Come on, guys, get started on the work!' Barinov shares a grounded view at this moment, joining "davayte" ("let's") to "rebyata" ("the boys, the lads") so every word pulls its weight.

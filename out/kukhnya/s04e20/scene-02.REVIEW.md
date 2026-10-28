@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, you really scared us yesterday!' Between the point and the story, Kostya delivers a sharp reaction. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Kostya, I got scared myself yesterday too.' Even though he got scared himself yesterday, Denis keeps a steady face in front of Kostya.
-- 'Tell me, how did all of this happen yesterday?' Questioning whether tell him how did all of this happen yesterday is how Kostya tests Denis's story.
-- 'Do you remember I told you about my dreams?' Here asking whether Kostya remembers he told Kostya about his dreams shows Denis looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well then, that woman was Vika.' Once that woman was Vika, Denis can finally tell Kostya what he means.
-- 'Wait, you mean Vika in your dream?' Asking whether Denis means Vika in Denis's dream puts Denis right on the defensive.
-- 'Well, tell me about that in more detail.' Kostya explains that Denis should tell him about that in more detail, keeping his voice calm and direct.
-- 'She called me into the office to help.' Since she called him into the office to help, Denis does not waste words on excuses.
-- 'In there she kisses me on the couch.' Mentioning that in there she kisses him on the couch moves the talk in a new direction.
-- 'I say to her: Vika, do not do that!' Denis insists that he says to her Vika do not do, leaving Kostya no room to argue. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'Katya, I need to talk with you!' Denis insists that he needs to talk with Kostya, leaving Kostya no room to argue. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'Katya, wait, I will explain everything to you!' Declaring that he will explain everything to Kostya brings Denis's temper right to the surface.
+- 'Hey there, you really scared us yesterday!' Kostya favors a candid bearing in front of Denis, putting "zdorovo" ("great, cool") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.
+- 'Kostya, I got scared myself yesterday too.' Denis offers a steady bearing without hesitation, linking "vchera" ("yesterday"), "ispugalsya" ("got scared"), and "kostya" ("Kostya") in one brisk exchange.
+- 'Tell me, how did all of this happen yesterday?' Kostya challenges promptly to make the point, combining "rasskazhi" ("tell") and "kak" ("how") so the key meaning lands right away.
+- 'Do you remember I told you about my dreams?' Denis follows up candidly beside Kostya, joining "pomnish" ("do you remember") to "rasskazyval" ("told, recounted") so every word pulls its weight.
+- 'Well then, that woman was Vika.' Denis projects a natural direction with Kostya, using "zhenshchinoy" (from "zhenshchina", "a woman") alongside "byla" ("was") to shape the meaning.
+- 'Wait, you mean Vika in your dream?' Kostya quizzes dryly without a pause, putting "podozhdi" ("wait") alongside "sne" ("dream, sleep") in a tight, everyday turn of phrase.
+- 'Well, tell me about that in more detail.' Kostya picks a firm tempo in front of Denis, combining "rasskazhi" ("tell") and "podrobneye" ("detail") so the key meaning lands right away.
+- 'She called me into the office to help.' Denis sets a grounded rhythm at once, pairing "pozvala" ("calls, summons") with "kabinet" ("office") to get the point across in plain spoken Russian.
+- 'In there she kisses me on the couch.' Denis picks an earnest tempo right away, anchoring the Russian line on "tam" ("there") and "tseluyet" ("to kiss") without extra filler.
+- 'I say to her: Vika, do not do that!' Denis displays a serious approach across the room, anchoring the Russian line on "govoryu" ("am telling") and "nado" ("it is necessary") without extra filler.
+- 'Katya, I need to talk with you!' Denis brings a clear angle right away, putting "nuzhno" ("necessary") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
+- 'Katya, wait, I will explain everything to you!' Denis chooses an honest tempo without hesitation, pairing "postoy" ("wait") with "obyasnyu" ("I'll explain") to get the point across in plain spoken Russian.

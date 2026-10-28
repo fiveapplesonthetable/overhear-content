@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, is this real liquid chicken?' Here asking whether this real liquid chicken shows the guest looking for the real truth.
-- 'Quiet, they spread it out so thinly on purpose.' Around the moment and point, the inspector sets a calm, everyday tone with the guest.
-- 'Dear guests, taste our new hot dish!' Over the point and the team, Katya lets her real feelings show. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Well, tell me honestly, what do you feel right now?' Wondering if tell him honestly what do the guest feels right now shows the inspector caught off guard.
-- 'It seems my heart is beating much faster!' The guest declares that it seems his heart is beating much faster as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And I really want more of this food!' Because he really wants more of this food, the guest does not bother softening the blow for the inspector. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'I literally cannot stop, it is so tasty!' Insisting that he literally cannot stop it is so tasty shows the guest is not backing down.
-- 'Everything is clear, this is definitely a strong stimulant!' Once everything is clear this is definitely a strong stimulant, the inspector makes sure the guest hears every word. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'They are mixing the powder right into the chicken!' Declaring that they are mixing the powder right into the chicken brings the inspector's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Comrade Captain, what are we going to do now?' Questioning whether comrade Captain what are they going to do now is how the guest tests the inspector's story.
-- 'We are immediately calling our arrest team here!' Saying that they are immediately calling their arrest team here is how the inspector takes charge of the moment. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And now we will show you our dessert!' Katya declares that they will show the guest their dessert as the tension in the room peaks. Notice how she sticks to the formal "you", keeping a professional line between them.
+- 'Wait, is this real liquid chicken?' The guest questions dryly with the inspector now, anchoring the Russian line on "podozhdite" ("wait") and "nastoyashchaya" ("real, genuine") without extra filler.
+- 'Quiet, they spread it out so thinly on purpose.' The inspector presents an emphatic angle at once, pairing "tikho" ("easy, quiet") with "spetsialno" ("on purpose") to get the point across in plain spoken Russian.
+- 'Dear guests, taste our new hot dish!' Katya picks a resolute attitude in this beat, leaning on "dorogiye" ("dear") before closing the thought with "gosti" ("visitors, guests").
+- 'Well, tell me honestly, what do you feel right now?' The inspector challenges decisively to make the point, anchoring the Russian line on "skazhi" ("say") and "chestno" ("honestly") without extra filler.
+- 'It seems my heart is beating much faster!' The guest picks a clear course toward the inspector, building the phrase around "kazhetsya" ("it seems, I think") and "serdtse" ("heart") for a crisp, natural delivery.
+- 'And I really want more of this food!' The guest brings a calm course as the scene unfolds, anchoring the Russian line on "ochen" ("very much") and "khochetsya" ("want, feel like") without extra filler.
+- 'I literally cannot stop, it is so tasty!' The guest brings a resolute tack at once, pairing "pryamo" ("right, just") with "mogu" ("can") to get the point across in plain spoken Russian.
+- 'Everything is clear, this is definitely a strong stimulant!' The inspector conveys a candid stance in the room, combining "ponyatno" ("clear") and "tochno" ("definitely") so the key meaning lands right away.
+- 'They are mixing the powder right into the chicken!' The inspector takes a lively mood beside the guest, joining "podmeshivayut" ("to powder") to "poroshok" ("powder") so every word pulls its weight.
+- 'Comrade Captain, what are we going to do now?' The guest quizzes decisively to make the point, joining "tovarishch" ("comrade") to "kapitan" ("captain") so every word pulls its weight.
+- 'We are immediately calling our arrest team here!' The inspector conveys a grounded angle right away, combining "nemedlenno" ("immediately") and "vyzyvayem" ("to cause, to raise") so the key meaning lands right away.
+- 'And now we will show you our dessert!' Katya brings a firm approach as they talk, combining "seychas" ("now") and "pokazhem" ("shall we show") so the key meaning lands right away.

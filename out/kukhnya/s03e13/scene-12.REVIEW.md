@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, Kostya, how are things going here?' Asking how things going here are cuts straight through the tension between Max and the guest. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'All quiet, nobody asked for you.' Since all quiet nobody asked for the guest, Kostya does not waste words on excuses.
-- 'Miss, will you let me kiss your hand?' Asking whether miss will Kostya lets him kiss Kostya's hand puts Kostya right on the defensive. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Or maybe your pretty little foot?' Around the kitchen and work, the guest wants to know where Kostya really stands. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Alright, buddy, let's head for the exit quickly.' Because Alright buddy let them head for the exit quickly, Max treats the matter as settled.
-- 'Hello, are you looking for someone?' Asking whether the guest looking for someone is how Kostya puts the guest on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Could you tell me where to find Viktoria Sergeyevna?' Here asking whether Kostya tells him where to find Viktoria Sergeyevna shows the guest looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I am here about repairing the video surveillance system.' Being here about repairing the video surveillance system is how the guest lays out the situation for Kostya.
-- 'Hello, Viktoria is already waiting for you.' Pointing out that Viktoria is already waiting for the guest gives the guest a sobering reality check. Even in the middle of the drama, he keeps the polite plural "you" that workplace Russian expects.
-- 'Listen, friend, why did you come here anyway?' Questioning whether friend why did the guest comes here anyway is how Max tests the guest's story. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'To repair your coffee machine, of course!' With the moment and restaurant at stake, the guest reacts without holding back.
-- 'And you fixed it yourselves, well done!' Around the moment and room, the guest makes his point loud and clear. Notice how he sticks to the formal "you", keeping a professional line between them.
+- 'So, Kostya, how are things going here?' Max challenges bluntly during the talk, weaving "kak" ("how") together with "tut" ("here") just the way native speakers do.
+- 'All quiet, nobody asked for you.' Kostya maintains an easygoing tempo in the scene, pairing "interesovalsya" ("asked about") with "tishina" ("silence, quiet") so the "-sya" ending carries the action.
+- 'Miss, will you let me kiss your hand?' The guest tests promptly at this point, putting "devushka" ("girlfriend") alongside "dadite" ("will give") in a tight, everyday turn of phrase.
+- 'Or maybe your pretty little foot?' The guest queries dryly across the room, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
+- 'Alright, buddy, let's head for the exit quickly.' Max conveys an emphatic stance on the spot, joining "druzhishche" ("buddy") to "poydyom" ("let's go") so every word pulls its weight.
+- 'Hello, are you looking for someone?' Kostya wonders naturally at this point, pairing "zdravstvuyte" ("hello") with "ishchete" ("to look for") to get the point across in plain spoken Russian.
+- 'Could you tell me where to find Viktoria Sergeyevna?' The guest tests directly right away, combining "podskazhite" ("tell, prompt") and "gde" ("where") so the key meaning lands right away.
+- 'I am here about repairing the video surveillance system.' The guest brings a grounded rhythm in the scene, linking "povodu" ("matter"), "remonta" ("repair"), and "sistem" ("system") in one brisk exchange.
+- 'Hello, Viktoria is already waiting for you.' Kostya keeps an emphatic line in the scene, building the phrase around "zdravstvuyte" ("hello") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'Listen, friend, why did you come here anyway?' Max probes decisively without a pause, combining "slushay" ("listen") and "drug" ("friend") so the key meaning lands right away.
+- 'To repair your coffee machine, of course!' The guest sustains a calm course in the conversation, using "kofemashinu" (from "kofemashina", "coffee machine") alongside "remontirovat" ("to repair") to shape the meaning.
+- 'And you fixed it yourselves, well done!' The guest shows a wry attitude in front of Max, building the phrase around "pochinili" ("repaired, fixed") and "krasavtsy" ("handsome man") for a crisp, natural delivery.

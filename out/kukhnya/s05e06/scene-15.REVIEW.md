@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right here we will arrange the tables.' Because right here they will arrange the tables, Vika treats the matter as settled.
-- 'Here we will leave space for the dance floor.' Explaining that here they will leave space for the dance floor lays the cards on the table for Max.
-- 'Will you have live music?' Here asking whether Max has live music shows Vika looking for the real truth. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'What live music? Lip-syncing, only lip-syncing.' With the room and wedding hanging in the air, Nagiyev puts Max on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Let us discuss the menu, we will start with salads.' Claiming that they should discuss the menu they will start with salads sounds confident, even if Max has doubts.
-- 'And I think we will start with introductions.' Max mentions that he thinks they will start with introductions so Nagiyev sees what is at stake.
-- 'What is your name?' Here wondering what Nagiyev's name is shows Max looking for the real truth. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Natasha, and I am Maxim, Victoria Sergeyevna's husband.' Noting that Natasha and he is Maxim Victoria Sergeyevna husband keeps Max's side of the story simple and clear.
-- 'What is he talking about? Are you a fool or what?' Wondering what he talking is cuts straight through the tension between Nagiyev and Max. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Natashenka, you will have a wonderful, merry wedding.' Admitting that someone Nagiyev will have a wonderful merry wedding shows Max being honest for a change. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'You will have fun, sing, and dance.' Saying that Nagiyev will have fun sing and dance is how Max sets the tone with Nagiyev.
-- 'Sweetheart, I have no idea at all!' Nagiyev declares that sweetheart he has no idea at all as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Right here we will arrange the tables.' Vika strikes a calm approach in this beat, weaving "zdes" ("here") together with "rasstavim" ("will arrange") just the way native speakers do.
+- 'Here we will leave space for the dance floor.' Vika favors a natural position right away, leaning on "zdes" ("here") before closing the thought with "ostavim" ("let's leave").
+- 'Will you have live music?' Vika queries sharply at this point, combining "zhivaya" ("alive") and "muzyka" ("music") so the key meaning lands right away.
+- 'What live music? Lip-syncing, only lip-syncing.' Nagiyev wonders plainly across the room, pairing "zhivaya" ("alive") with "fanera" ("lip-syncing") to get the point across in plain spoken Russian.
+- 'Let us discuss the menu, we will start with salads.' Vika holds an honest style in their talk, joining "davayte" ("let's") to "obsudim" ("will discuss") so every word pulls its weight.
+- 'And I think we will start with introductions.' Max displays an unhurried bearing in their talk, anchoring the Russian line on "dumayu" ("I think") and "nachnyom" ("we start") without extra filler.
+- 'What is your name?' Max probes earnestly to Nagiyev here, joining "kak" ("how") to "zovut" ("call") so every word pulls its weight.
+- 'Natasha, and I am Maxim, Victoria Sergeyevna's husband.' Max sustains a serious course as they talk, linking "natasha" ("Natasha") directly with "muzh" ("husband"), since Russian drops "is" and "are" in the present.
+- 'What is he talking about? Are you a fool or what?' Nagiyev quizzes calmly for Max's benefit, linking "govorit" ("talks"), "durak" ("fool, idiot"), and "chego" ("what") in one brisk exchange.
+- 'Natashenka, you will have a wonderful, merry wedding.' Max holds a lively tack for Vika, linking "budet" ("will be"), "chudesnaya" ("wonderful"), and "vesyolaya" ("cheerful, fun") in one brisk exchange.
+- 'You will have fun, sing, and dance.' Max favors an unhurried footing right away, leaning on "budete" ("will be") before closing the thought with "veselitsya" ("to without").
+- 'Sweetheart, I have no idea at all!' Nagiyev conveys a firm footing with Vika, joining "zayka" ("sweetheart") to "voobshche" ("at all") so every word pulls its weight.

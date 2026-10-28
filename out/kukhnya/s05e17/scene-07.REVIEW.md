@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you lock me in here?' Asking why Barinov locks him in here is how Mikhail puts Barinov on the spot.
-- 'So that you do not do anything foolish!' Declaring that that Mikhail does not do anything foolish brings Barinov's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Vitya, you are a real traitor!' Mikhail insists that Barinov is a real traitor, leaving Barinov no room to argue. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Senya, I am heading to the market.' Even though he is heading to the market, Barinov keeps a steady face in front of Mikhail.
-- 'You are guarding Mikhail Dzhekovich's peace.' Once Mikhail is guarding Mikhail Dzhekovich peace, Barinov can finally tell Mikhail what he means. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'If he comes out of the office, I will punish you!' Because if he comes out of the office he will punish Mikhail, Barinov does not bother softening the blow for Mikhail. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'And if he does not come out, will you give me a bonus?' When Senya asks if if he does not come out will Barinov gives him a bonus, Barinov has to answer fast.
-- 'Five thousand kicks in the backside.' Since five thousand kicks in the backside, Barinov does not waste words on excuses.
-- 'Thanks, that is a great advance for me.' Mentioning that that is a great advance for him moves the talk in a new direction. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Quiet, do not shout, I found the way.' Barinov reminds Mikhail that quiet do not shout he found the way before the moment passes.
-- 'There is another maternity hospital nearby.' Because there is another maternity hospital nearby, Barinov treats the matter as settled.
-- 'Alright, we will go under the contract.' Explaining that Alright they will go under the contract lays the cards on the table for Mikhail.
+- 'Why did you lock me in here?' Mikhail quizzes naturally as the beat lands, weaving "zachem" ("what for") together with "tut" ("here") just the way native speakers do.
+- 'So that you do not do anything foolish!' Barinov sets a clear direction at this moment, leaning on "glupostey" ("foolish things") before closing the thought with "nadelal" ("make, cause").
+- 'Vitya, you are a real traitor!' Mikhail establishes an emphatic style for Barinov, placing "nastoyashchiy" ("real, genuine") straight beside "predatel" ("traitor") with no word for "to be" needed.
+- 'Senya, I am heading to the market.' Barinov sustains a candid rhythm beside Senya, using "poyekhal" (from "poyekhat", "I'm off") alongside "rynok" ("market") to shape the meaning.
+- 'You are guarding Mikhail Dzhekovich's peace.' Barinov sustains a natural note right away, joining "okhranyayesh" ("you guard") to "pokoy" ("peace, rest") so every word pulls its weight.
+- 'If he comes out of the office, I will punish you!' Barinov sets a candid rhythm across the room, anchoring the Russian line on "vyydet" ("will come out") and "kabineta" ("office") without extra filler.
+- 'And if he does not come out, will you give me a bonus?' Senya questions briskly on the spot, building the phrase around "vyydet" ("will come out") and "premiyu" ("bonus, prize") for a crisp, natural delivery.
+- 'Five thousand kicks in the backside.' Barinov keeps a lively course in their talk, joining "tysyach" ("thousand") to "pinkov" ("kicks") so every word pulls its weight.
+- 'Thanks, that is a great advance for me.' Senya replies dryly toward Barinov here, using the everyday "u menya" ("by me") alongside "spasibo" ("thank you") to show what belongs to the speaker.
+- 'Quiet, do not shout, I found the way.' Barinov favors a lively course right away, building the phrase around "tikho" ("easy, quiet") and "krichi" ("shout, yell") for a crisp, natural delivery.
+- 'There is another maternity hospital nearby.' Barinov offers an easygoing position beside Mikhail, putting "tut" ("here") alongside "poblizosti" ("nearby") in a tight, everyday turn of phrase.
+- 'Alright, we will go under the contract.' Barinov sustains a sharp posture in the scene, weaving "poyedem" ("will be off") together with "kontraktu" ("by contract") just the way native speakers do.

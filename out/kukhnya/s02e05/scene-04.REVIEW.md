@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is the wife of a famous football player.' Realizing that she is the wife of a famous football player changes how Barinov handles the situation.
-- 'Be so kind as to do it.' Noting that be so kind as to do it keeps Lyova's side of the story simple and clear. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Which football player?' Over the shift and the room, Barinov presses Lyova for a straight answer. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Well, how am I supposed to know?' Around the moment and guest, Lyova wants to know where Barinov really stands.
-- 'Maybe from Spartak.' Around the shift and point, Barinov sets a calm, everyday tone with Lyova.
-- 'I am not going to go ask her.' Lyova explains that he is not going to go ask, keeping his voice calm and direct.
-- 'Well, then try to remember.' Trying to remember is how Barinov lays out the situation for Lyova.
-- 'He looks like that one.' Lyova tells Barinov that he looks like that one without dressing it up.
-- 'Like which one?' With the conversation and guest hanging in the air, Barinov puts Lyova on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I just named your players.' Around the moment and conversation, Lyova sets a calm, everyday tone with Barinov.
-- 'Like the first one.' Once Lyova should like the first one, Barinov can finally tell Lyova what he means.
-- 'Zhenya is a good player.' Because someone is a good player, Lyova treats the matter as settled.
-- 'Interesting. He stepped away.' Between the moment and the plan, Barinov gives Lyova a quick, grounded response.
+- 'She is the wife of a famous football player.' Barinov shares an unhurried style right away, combining "zhena" ("wife") and "izvestnogo" ("famous") so the key meaning lands right away.
+- 'Be so kind as to do it.' Lyova favors a measured approach at once, joining "bud" ("were he") to "lyubezen" ("kind, polite") so every word pulls its weight.
+- 'Which football player?' Barinov tests warmly without hesitation, putting "futbolista" ("footballer") alongside "kakogo" ("what") in a tight, everyday turn of phrase.
+- 'Well, how am I supposed to know?' Lyova checks pointedly to make the point, joining "otkuda" ("where from") to "znayu" ("know") so every word pulls its weight.
+- 'Maybe from Spartak.' Barinov keeps a candid attitude across the room, joining "mozhet" ("can") to "spartaka" ("Spartak's") so every word pulls its weight.
+- 'I am not going to go ask her.' Lyova strikes a direct footing in their talk, weaving "budu" ("will be") together with "sprashivat" ("am asking") just the way native speakers do.
+- 'Well, then try to remember.' Barinov sets a brisk rhythm in front of Lyova, weaving "togda" ("back then") together with "poprobuy" ("to try, to taste") just the way native speakers do.
+- 'He looks like that one.' Lyova holds a candid approach on the spot, putting "pokhozhe" ("like, similar") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
+- 'Like which one?' Barinov presses earnestly in front of Lyova, leaning on "na" ("on, onto") before closing the thought with "kogo" ("whom").
+- 'I just named your players.' Lyova maintains a frank note as the scene unfolds, leaning on "nazval" ("called") before closing the thought with "ya" ("I").
+- 'Like the first one.' Barinov conveys a brisk mood in the conversation, using "pervogo" (from "pervyy", "first") alongside "na" ("on, onto") to shape the meaning.
+- 'Zhenya is a good player.' Lyova adopts a resolute tempo on the spot, combining "khoroshiy" ("good") and "zhenya" ("Zhenya") so the key meaning lands right away.
+- 'Interesting. He stepped away.' Barinov keeps a candid bearing in the scene, joining "interesno" ("interesting") to "otoshel" ("wore off, moved away") so every word pulls its weight.

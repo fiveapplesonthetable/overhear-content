@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Макс | Это он может. | That sounds just like him. | #170: Это он может | verbatim |
 | 3 | Елена | Вот. Хорошо. | There. Good. | #173: Вот. Хорошо | verbatim |
 | 4 | Макс | Я могу на вас рассчитывать? | Can I count on you? | #174: Я могу на вас рассчитывать | verbatim |
-| 5 | Елена | Ну, Елена Павловна, будете мне должны. | Well, Elena Pavlovna, you will owe me one. | #176: Ну, Елена Павловна, будете мне должны | verbatim |
+| 5 | Макс | Ну, Елена Павловна, будете мне должны. | Well, Elena Pavlovna, you will owe me one. | #176: Ну, Елена Павловна, будете мне должны | verbatim |
 | 6 | Макс | Буду вам должна. | I will owe you one. | #176: Буду вам должна | verbatim |
 | 7 | Елена | Вить, ты дурак, а? | Vitya, are you a fool or what? | #177: Вить, ты дурак, а | verbatim |
 | 8 | Макс | Да ладно. | Oh, come on. | #179: Да ладно | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, yes.' With the trip and phone in play, Elena keeps this short reply brisk and direct.
-- 'That sounds just like him.' Max explains that that sounds just like him, keeping his voice calm and direct. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'There. Good.' Turning from the trip to the kitchen, Elena keeps the exchange moving.
-- 'Can I count on you?' Checking whether he counts on Elena cuts straight through the tension between Max and Elena.
-- 'Well, Elena Pavlovna, you will owe me one.' Even though Max will owe her one, Elena keeps a steady face in front of Max.
-- 'I will owe you one.' Admitting that he will owe Elena one shows Max being honest for a change. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Vitya, are you a fool or what?' By checking whether Max a fool, Elena presses Max for a straight answer.
-- 'Oh, come on.' Turning from the phone to the trip, Max keeps the exchange moving.
-- 'Oh, can you imagine, I forgot my phone.' Adding that can Max imagines she forgot her phone fills in the missing piece for Max.
-- 'Ah, I was just about to head out.' Saying that he was just about to head out is how Max sets the tone with Elena.
-- 'Goodbye.' With the phone and conversation in play, Elena keeps this short reply brisk and direct.
-- 'Are you still alive under there?' Checking whether Elena still alive under there cuts straight through the tension between Max and Elena. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'You bet I am.' Elena reminds Max that Max bets she is before the moment passes.
+- 'Well, yes.' Elena takes a calm tone as they talk, pairing "nu" ("oh, come on") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'That sounds just like him.' Max presents a direct rhythm at this moment, putting "mozhet" ("can") alongside "eto" ("this") in a tight, everyday turn of phrase.
+- 'There. Good.' Elena takes a steady direction beside Max, pairing "khorosho" ("good, fine") with "vot" ("there, here") to get the point across in plain spoken Russian.
+- 'Can I count on you?' Max asks lightly at this point, leaning on "mogu" ("can") before closing the thought with "rasschityvat" ("to count on").
+- 'Well, Elena Pavlovna, you will owe me one.' Max picks a measured footing in this beat, putting "budete" ("will be") alongside "dolzhny" ("must, should") in a tight, everyday turn of phrase.
+- 'I will owe you one.' Max sustains a wry bearing in the scene, joining "budu" ("will be") to "dolzhna" ("should, must") so every word pulls its weight.
+- 'Vitya, are you a fool or what?' Elena presses wryly for Max's benefit, placing "durak" ("fool, idiot") straight beside "vit" ("Vitya") with no word for "to be" needed.
+- 'Oh, come on.' Max takes a playful course during the exchange, pairing "da" ("yes") with "ladno" ("all right") to get the point across in plain spoken Russian.
+- 'Oh, can you imagine, I forgot my phone.' Elena picks an unhurried line without hesitation, putting "predstavlyayete" ("to imagine") alongside "zabyla" ("forgot") in a tight, everyday turn of phrase.
+- 'Ah, I was just about to head out.' Max conveys a grounded angle during the exchange, linking "bezhat" ("to run, flee"), "khotel" ("wanted"), and "ya" ("I") in one brisk exchange.
+- 'Goodbye.' Elena strikes an honest bearing in their talk, joining "svidaniya" ("meeting") to "do" ("until") so every word pulls its weight.
+- 'Are you still alive under there?' Max queries boldly without a pause, joining "zhiv" ("alive") to "tam" ("there") so every word pulls its weight.
+- 'You bet I am.' Elena offers a grounded view with Max, leaning on "slovo" ("word") before closing the thought with "ne" ("not").

@@ -19,21 +19,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | Какой косяк? | What kind of mistake? | #92: Какой косяк? | verbatim |
 | 8 | Костя | Не знаю. | I don't know. | #93: Не знаю. | verbatim |
 | 9 | Костя | Или бритвой твоей пользуется. | Or maybe she uses your razor. | #96: Или бритвой твоей пользуется. | verbatim |
-| 10 | Настя | Бывает же такое? | Does that really happen? | #98: Бывает же такое? | verbatim |
+| 10 | Вика | Бывает же такое? | Does that really happen? | #98: Бывает же такое? | verbatim |
 | 11 | Макс | Да вроде нет. | It doesn't seem so. | #99: Да вроде нет. | verbatim |
 | 12 | Костя | Ищи. | Keep looking. | #101: Ищи. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is wrong with you?' Here asking what wrong with Max is shows Kostya looking for the real truth. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Oh, just family stuff.' Around the shift and friend, Max sets a calm, everyday tone with Kostya.
-- 'Vika has really worn me out.' Because Vika has really worn him out, Max treats the matter as settled.
-- 'She nags me over every little thing.' With the shift and mistake in play, Max keeps this short reply brisk and direct.
-- 'Find some mistake of hers.' Adding that Max should find some mistake of hers fills in the missing piece for Max.
-- 'Then she won't be able to reproach you.' Claiming that she will not be able to reproach Max sounds confident, even if Max has doubts. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'What kind of mistake?' With the mistake and moment hanging in the air, Max puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I don't know.' Once he does not know, Kostya can finally tell Max what he means.
-- 'Or maybe she uses your razor.' Realizing that maybe she uses Max's razor changes how Kostya handles the situation.
-- 'Does that really happen?' By checking whether that really happen, Nastya presses Kostya for a straight answer. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'It doesn't seem so.' Even though it does not seem, Max keeps a steady face in front of Kostya.
-- 'Keep looking.' Realizing that Max should keep looking changes how Kostya handles the situation.
+- 'What is wrong with you?' Kostya tests directly without hesitation, pairing "ty" ("you") with "chto" ("what") to get the point across in plain spoken Russian.
+- 'Oh, just family stuff.' Max displays an earnest direction toward Vika, pairing "semeynoye" ("family") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'Vika has really worn me out.' Max favors a grounded posture in their talk, building the phrase around "uzhe" ("already, now") and "dostala" ("to take out") for a crisp, natural delivery.
+- 'She nags me over every little thing.' Max conveys an emphatic style across the room, joining "pilit" ("nag") to "kazhdomu" ("each") so every word pulls its weight.
+- 'Find some mistake of hers.' Kostya projects a wry style as the scene unfolds, building the phrase around "naydi" ("find") and "kosyak" ("hers") for a crisp, natural delivery.
+- 'Then she won't be able to reproach you.' Kostya presents a pointed angle on the spot, combining "togda" ("back then") and "smozhet" ("will be able") so the key meaning lands right away.
+- 'What kind of mistake?' Max wonders pointedly in this moment, joining "kosyak" ("hers") to "kakoy" ("what a, how") so every word pulls its weight.
+- 'I don't know.' Kostya strikes a direct mood for Vika, joining "znayu" ("know") to "ne" ("not") so every word pulls its weight.
+- 'Or maybe she uses your razor.' Kostya offers a playful posture in their talk, pairing "polzuyetsya" ("to use") with "britvoy" ("razor") so the "-sya" ending carries the action.
+- 'Does that really happen?' Vika prompts candidly in the scene, anchoring the Russian line on "byvayet" ("there can be") and "zhe" ("but, after all") without extra filler.
+- 'It doesn't seem so.' Max picks a wry approach without hesitation, joining "da" ("yes") to "vrode" ("seemingly, apparently") so every word pulls its weight.
+- 'Keep looking.' Kostya brings a candid footing in the room, putting all the weight on "ishchi" ("look for") so the reply lands immediately.

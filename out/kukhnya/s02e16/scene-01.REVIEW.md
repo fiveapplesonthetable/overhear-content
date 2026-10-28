@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My signature omelet.' Around the call and wedding, Max sets a calm, everyday tone with Kostya.
-- 'I only looked away for a second.' Since he only looked away for a second, Kostya does not waste words on excuses.
-- 'Who is that?' Over the kitchen and the apartment, Sasha presses Kostya for a straight answer. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Give me two thousand rubles.' Because Kostya should give him two thousand rubles, Max treats the matter as settled.
-- 'Two thousand rubles.' With the call and point in play, Kostya keeps this short reply brisk and direct.
-- 'Who called?' With the shift and call hanging in the air, Sasha puts Kostya on the spot. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'My mom called.' With the apartment and wedding in play, Max keeps this short reply brisk and direct.
-- 'Once again she wanted to ask about the wedding.' Claiming that once again she wanted to ask about the wedding sounds confident, even if Max has doubts.
-- 'Well, I will call her back later.' Pointing out that she will call her back later gives Kostya a sobering reality check.
-- 'Is everything alright?' Asking whether everything alright is how Max puts Kostya on the spot.
-- 'Look, just look at this.' Around the apartment and work, Kostya sets a calm, everyday tone with Max.
-- 'Yesterday I killed a moth in the closet.' With the apartment and truth in play, Sasha keeps this short reply brisk and direct.
-- 'Do I have to pay money for that moth now too?' Asking whether he has to pay money for that moth now cuts straight through the tension between Max and Kostya.
+- 'My signature omelet.' Max holds a clear stance in the conversation, anchoring the Russian line on "firmennyy" ("signature") and "omlet" ("omelette") without extra filler.
+- 'I only looked away for a second.' Kostya picks an unhurried tone in the room, anchoring the Russian line on "sekundu" ("second") and "pokazal" ("to show") without extra filler.
+- 'Who is that?' Sasha prompts quietly as they speak, putting "eto" ("this") alongside "kto" ("who") in a tight, everyday turn of phrase.
+- 'Give me two thousand rubles.' Max chooses a lively position straight away, combining "day" ("give") and "tysyachi" ("thousands") so the key meaning lands right away.
+- 'Two thousand rubles.' Kostya projects a natural footing on the spot, putting "tysyachi" ("thousands") alongside "dve" ("two") in a tight, everyday turn of phrase.
+- 'Who called?' Sasha wonders warmly as the talk turns, pairing "zvonil" ("called") with "kto" ("who") to get the point across in plain spoken Russian.
+- 'My mom called.' Max conveys a playful stance in the conversation, building the phrase around "mama" ("mum, mother") and "zvonila" ("called") for a crisp, natural delivery.
+- 'Once again she wanted to ask about the wedding.' Kostya favors a brisk rhythm in their talk, combining "ocherednoy" ("another, next") and "raz" ("time, once") so the key meaning lands right away.
+- 'Well, I will call her back later.' Sasha keeps a warm line in front of Kostya, putting "potom" ("then") alongside "perezvonyu" ("will call back") in a tight, everyday turn of phrase.
+- 'Is everything alright?' Max probes lightly in front of Sasha, joining "normalno" ("fine, OK") to "vse" ("all") so every word pulls its weight.
+- 'Look, just look at this.' Kostya adopts a calm attitude as they talk, using "smotrite" ("look") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Yesterday I killed a moth in the closet.' Sasha projects a pointed tone in this beat, weaving "vchera" ("yesterday") together with "shkaf" ("wardrobe") just the way native speakers do.
+- 'Do I have to pay money for that moth now too?' Max wonders honestly in their exchange, pairing "teper" ("now") with "tozhe" ("too") to get the point across in plain spoken Russian.

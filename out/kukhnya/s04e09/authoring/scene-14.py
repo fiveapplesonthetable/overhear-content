@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s04/e09.ru.srt'
 INTRO = "Up in German's office, Chef Barinov tries the stolen keys on the safe, and when neither one fits, he comes up with the reckless idea of throwing the whole safe out the window."
 OPENER = "Let's walk through the dialogue as the chefs wrestle with the heavy safe."
 TRANSITION = 'Now listen to the whole scene again from start to finish.'
-OUTRO = "Remember that when a key fits or does not fit a lock, Russian uses the verb meaning 'to approach' or 'suit'. See you next time!"
+OUTRO = "Remember that when a key fits or does not fit a lock, Russian uses the word meaning 'to approach' or 'suit'. See you next time!"
 CLOSING = ('barinov', 'Хорошего дня!')
 STORY = [
     ('barinov', 'Эти ключи не подходят.', 'These keys do not fit.', [(194, 'Ключи не подходят')], 'adapted for A1 clarity'),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Можно сбрасывать, давай!', 'We can drop it now, go!', [(210, 'сбрасывать')], 'adapted for A1 clarity'),
 ]
 WALK = [
-    (0, None, "'These keys do not fit.' Because these keys do not fit, Barinov treats the matter as settled."),
-    (1, None, "'Oh, I forgot to check the second one.' Explaining that he forgot to check the second one lays the cards on the table for Barinov."),
-    (2, None, "'And what are we supposed to do now?' Asking what they supposed to do now are cuts straight through the tension between Fedya and Barinov."),
-    (3, None, '\'Guys, we need to get out of here.\' Needing to get out of here is how Senya lays out the situation for Barinov. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.'),
-    (4, None, "'Here is the plan, we have to steal the safe.' Explaining that here is the plan they have to steal the safe lays the cards on the table for Fedya. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front."),
-    (5, None, "'Chef, they will put us in prison!' Because they will put them in prison, Senya does not bother softening the blow for Barinov."),
-    (6, None, '\'Who even needs it?\' Barinov asks whether who even needs it, refusing to let the point slide. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.'),
-    (7, None, "'It has stood here empty for a hundred years.' Noting that it has stood here empty for a hundred years keeps Barinov's side of the story simple and clear."),
-    (8, None, "'Carrying it out unnoticed will not work.' Even though carrying it out unnoticed will not work, Fedya keeps a steady face in front of Barinov."),
-    (9, None, "'Besides, it is very heavy.' Admitting that besides it is very heavy shows Barinov being honest for a change."),
-    (10, None, '\'Let\'s drop it out the window!\' Here proposing that they drop it out the window lets Barinov\'s real feelings break through. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
-    (11, None, "'If it breaks open, even better.' Once if it breaks open even better, Barinov can finally tell Fedya what he means."),
-    (12, None, "'Go to the kitchen and keep watch.' Realizing that Fedya should go to the kitchen and keep watch changes how Barinov handles the situation."),
-    (13, None, '\'We can drop it now, go!\' Insisting that they can drop it now go shows Barinov is not backing down. Starting with "davay" is the everyday Russian way to say "come on, let us do this".'),
+    (0, None, '\'These keys do not fit.\' Barinov sets an honest style beside Fedya, putting "klyuchi" ("the keys") alongside "podkhodyat" ("to approach") in a tight, everyday turn of phrase.'),
+    (1, None, '\'Oh, I forgot to check the second one.\' Senya displays an unhurried stance across the room, combining "zabyl" ("forgot") and "vtoroy" ("second") so the key meaning lands right away.'),
+    (2, None, '\'And what are we supposed to do now?\' Fedya probes quietly as the talk turns, linking "teper" ("now"), "delat" ("do"), and "chto" ("what") in one brisk exchange.'),
+    (3, None, '\'Guys, we need to get out of here.\' Senya picks a warm course straight away, anchoring the Russian line on "rebyata" ("the boys, the lads") and "nado" ("it is necessary") without extra filler.'),
+    (4, None, '\'Here is the plan, we have to steal the safe.\' Barinov sustains a direct tack in the conversation, weaving "znachit" ("then, so") together with "nado" ("it is necessary") just the way native speakers do.'),
+    (5, None, '\'Chef, they will put us in prison!\' Senya conveys a calm note with Fedya, building the phrase around "posadyat" ("they\'ll put in prison") and "shef" ("Chef") for a crisp, natural delivery.'),
+    (6, None, '\'Who even needs it?\' Barinov tests naturally in this moment, weaving "nuzhen" ("is needed") together with "da" ("yes") just the way native speakers do.'),
+    (7, None, '\'It has stood here empty for a hundred years.\' Barinov adopts a frank bearing in the room, linking "zdes" ("here"), "let" ("years"), and "stoit" ("is parked") in one brisk exchange.'),
+    (8, None, '\'Carrying it out unnoticed will not work.\' Fedya shares a calm course across the room, pairing "vynesti" ("issue, hand down") with "nezametno" ("inconspicuously") to get the point across in plain spoken Russian.'),
+    (9, None, '\'Besides, it is very heavy.\' Barinov keeps an emphatic rhythm during the exchange, combining "ochen" ("very much") and "tyazhyolyy" ("heavy") so the key meaning lands right away.'),
+    (10, None, '\'Let\'s drop it out the window!\' Barinov takes a natural posture as the scene unfolds, weaving "davayte" ("let\'s") together with "sbrosim" ("to drop") just the way native speakers do.'),
+    (11, None, '\'If it breaks open, even better.\' Barinov maintains an earnest bearing at once, putting "slomayetsya" ("to break down") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.'),
+    (12, None, '\'Go to the kitchen and keep watch.\' Barinov keeps an earnest tack for Fedya, joining "idi" ("go") to "kukhnyu" ("kitchen") so every word pulls its weight.'),
+    (13, None, '\'We can drop it now, go!\' Barinov holds a natural bearing on the spot, joining "mozhno" ("may, can") to "sbrasyvat" ("to go") so every word pulls its weight.'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what kind of maniac is he?' Asking whether what kind of maniac is he puts the guest right on the defensive.
-- 'Look how much the child loves him.' Explaining that how much the child loves him lays the cards on the table for the guest.
-- 'Little children sense everything right away.' Between the test and the kitchen, Nastya gives the guest a quick, grounded response.
-- 'Better to kick him out just in case.' With the test and moment in play, the guest keeps this short reply brisk and direct.
-- 'No, better to let him stay at home.' Pointing out that better to let him stay at home gives the guest a sobering reality check.
-- 'We need to do a paternity test.' Explaining that they need to do a paternity test lays the cards on the table for Nastya. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'That is simply a great idea, Dad!' Because that is simply a great idea dad, Nastya does not bother softening the blow for the guest.
-- 'I saw about that in the movies.' Noting that she saw about that in the movies keeps Nastya's side of the story simple and clear.
-- 'For the test we need to take saliva.' Around the secret and kitchen, Nastya sets a calm, everyday tone with the guest. Russian packs the whole idea of what is allowed or needed into one impersonal word at the front.
-- 'They definitely need to take blood there.' Around the secret and shift, the guest sets a calm, everyday tone with Nastya.
-- 'And I read that hair is needed.' Reading that hair is needed is how Nastya lays out the situation for the guest.
-- 'No, saliva is needed for the test.' Once saliva is needed for the test, the guest can finally tell Nastya what he means.
+- 'Well, what kind of maniac is he?' Nastya challenges naturally in the scene, joining "manyak" ("maniac") to "nu" ("oh, come on") so every word pulls its weight.
+- 'Look how much the child loves him.' Nastya brings an earnest bearing as the scene unfolds, putting "posmotri" ("look") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'Little children sense everything right away.' Nastya takes a thoughtful mood in their talk, weaving "malenkiye" ("little ones") together with "deti" ("kids") just the way native speakers do.
+- 'Better to kick him out just in case.' The guest conveys a measured tack during the exchange, putting "luchshe" ("better") alongside "vygnat" ("to kick out") in a tight, everyday turn of phrase.
+- 'No, better to let him stay at home.' Nastya adopts an easygoing attitude for the guest, joining "luchshe" ("better") to "ostavit" ("to keep, to leave") so every word pulls its weight.
+- 'We need to do a paternity test.' The guest strikes an earnest direction without hesitation, linking "nado" ("it is necessary"), "sdelat" ("to do"), and "test" ("test") in one brisk exchange.
+- 'That is simply a great idea, Dad!' Nastya adopts a pointed rhythm right away, building the phrase around "prosto" ("just") and "otlichnaya" ("excellent") for a crisp, natural delivery.
+- 'I saw about that in the movies.' Nastya keeps a thoughtful course during the exchange, putting "kino" ("cinema, movies") alongside "videla" ("saw") in a tight, everyday turn of phrase.
+- 'For the test we need to take saliva.' Nastya shares an emphatic posture in this beat, linking "testa" ("dough"), "nuzhno" ("necessary"), and "vzyat" ("to take") in one brisk exchange.
+- 'They definitely need to take blood there.' The guest shows a playful view across the room, putting "tam" ("there") alongside "obyazatelno" ("surely, without fail") in a tight, everyday turn of phrase.
+- 'And I read that hair is needed.' Nastya picks an honest position toward the guest, putting "chitala" ("read") alongside "nuzhny" ("needed") in a tight, everyday turn of phrase.
+- 'No, saliva is needed for the test.' The guest shows a candid stance during the exchange, weaving "analiza" ("test, analysis") together with "nuzhna" ("needed") just the way native speakers do.

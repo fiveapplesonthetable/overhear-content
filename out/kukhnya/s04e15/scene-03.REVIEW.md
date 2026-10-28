@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Lyova, pour me some coffee.' Because Eva should pour him some coffee, Barinov treats the matter as settled.
-- 'Good morning, Viktor Petrovich, how was your celebration?' Asking how Barinov's celebration was cuts straight through the tension between Lyova and Barinov.
-- 'Viktor Petrovich, she is a very young girl after all!' Declaring that she is a very young girl after all brings Lyova's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Quiet, otherwise Viktoriya Sergeyevna will definitely kill me!' Barinov insists that quiet otherwise Viktoriya Sergeyevna will definitely kill him, leaving Eva no room to argue. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Oh, excuse me, please, hello everyone!' With the conversation and apartment at stake, Eva reacts without holding back.
-- 'Viktor Petrovich, who is this young woman?' Wondering who this young woman is cuts straight through the tension between Lyova and Barinov. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Oh, this is my beloved niece who arrived!' Because this is his beloved niece who arrived, Barinov does not bother softening the blow for Eva. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'She came to visit me for a short while.' Because she came to visit him for a short, Barinov treats the matter as settled.
-- 'Why did you never speak about her before?' By wondering why Barinov never speak, Lyova presses Barinov for a straight answer. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'She flew in from distant Vladivostok for two days!' Declaring that she flew in from distant Vladivostok for two days brings Barinov's temper right to the surface. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Vera Ivanovna, excuse us, we are in a terrible hurry!' Barinov insists that Vera Ivanovna excuse them they are in a terrible hurry, leaving Eva no room to argue.
-- 'Lyova, hurry up, it is time for us to go to the kitchen!' Barinov insists that Eva should hurry up it is time for them to go to the kitchen, leaving Eva no room to argue. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'Good morning, Lyova, pour me some coffee.' Barinov shows a pointed tempo during the exchange, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
+- 'Good morning, Viktor Petrovich, how was your celebration?' Lyova tests naturally in the room, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
+- 'Viktor Petrovich, she is a very young girl after all!' Lyova establishes a clear posture toward Barinov, pairing "sovsem" ("at all") with "molodaya" ("young") to get the point across in plain spoken Russian.
+- 'Quiet, otherwise Viktoriya Sergeyevna will definitely kill me!' Barinov conveys a candid angle with Lyova, anchoring the Russian line on "tikho" ("easy, quiet") and "inache" ("otherwise") without extra filler.
+- 'Oh, excuse me, please, hello everyone!' Eva shows an emphatic rhythm at once, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "zdravstvuyte" ("hello") to shape the meaning.
+- 'Viktor Petrovich, who is this young woman?' Lyova challenges promptly to make the point, pairing "molodaya" ("young") with "devushka" ("girlfriend") to get the point across in plain spoken Russian.
+- 'Oh, this is my beloved niece who arrived!' Barinov projects an unhurried tack at once, building the phrase around "lyubimaya" ("favourite, beloved") and "plemyannitsa" ("niece") for a crisp, natural delivery.
+- 'She came to visit me for a short while.' Barinov takes a measured tack as they talk, building the phrase around "priyekhala" ("came, arrived") and "nenadolgo" ("for a short time") for a crisp, natural delivery.
+- 'Why did you never speak about her before?' Lyova checks openly with Barinov now, linking "pochemu" ("why"), "ranshe" ("earlier, previously"), and "govorili" ("talked") in one brisk exchange.
+- 'She flew in from distant Vladivostok for two days!' Barinov sets a firm mood at once, leaning on "dalyokogo" ("vladivostok") before closing the thought with "vladivostoka" ("two").
+- 'Vera Ivanovna, excuse us, we are in a terrible hurry!' Barinov chooses an honest posture across the room, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "uzhasno" ("terrible, awful") without extra filler.
+- 'Lyova, hurry up, it is time for us to go to the kitchen!' Barinov holds a thoughtful footing right away, leaning on "davay" ("let's") before closing the thought with "bystreye" ("faster").

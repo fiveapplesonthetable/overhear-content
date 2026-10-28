@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's drink to our long friendship!' Proposing that they drink to their long friendship shows Nagiyev is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
-- 'Dima, maybe we really shouldn't today?' Barinov asks whether maybe they really should not today, refusing to let the point slide.
-- 'I still have to perform on the show tomorrow.' Admitting that he still has to perform on the show tomorrow shows Barinov being honest for a change.
-- 'And I have to host that show tomorrow!' Having to host that show tomorrow shows Nagiyev is done holding back. Russian drops "is" in the present, setting the two halves of the thought side by side.
-- 'Who are we even afraid of, my friend?' By asking who they even afraid are, Nagiyev presses Barinov for a straight answer.
-- 'Why are you bothering that plant?' Wondering why Nagiyev bothering that plant is cuts straight through the tension between Barinov and Nagiyev. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'Look, we have snacks on the table.' Saying that they have snacks on the table is how Barinov sets the tone with Nagiyev. In Russian you say "by me" or "with us" rather than "I have", so the situation sits right with the person.
-- 'Wait, why does your flower smell like whisky?' Here asking why Barinov's flower smell like whisky shows Nagiyev looking for the real truth.
-- 'I do not know why it smells like that.' Since he does not know why it smells like, Barinov does not waste words on excuses.
-- 'It seems I have finally understood everything right now!' Nagiyev declares that it seems he has finally understood everything right now as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'You wanted to get me drunk on purpose!' Saying that Barinov wanted to get him drunk on purpose is how Nagiyev takes charge of the moment.
-- 'So that I could not perform tomorrow!' Nagiyev declares that that he could not perform tomorrow as the tension in the room peaks. Russian puts the key word right up front so his emotion lands on the first beat.
+- 'Let's drink to our long friendship!' Nagiyev holds a measured manner in the conversation, weaving "davay" ("let's") together with "vypyem" ("will drink") just the way native speakers do.
+- 'Dima, maybe we really shouldn't today?' Barinov asks firmly to keep things clear, pairing "mozhet" ("can") with "segodnya" ("today") to get the point across in plain spoken Russian.
+- 'I still have to perform on the show tomorrow.' Barinov sets a steady attitude across the room, linking "yeshchyo" ("more, still"), "zavtra" ("tomorrow"), and "shou" ("show") in one brisk exchange.
+- 'And I have to host that show tomorrow!' Nagiyev conveys a grounded course in the room, pairing "shou" ("show") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
+- 'Who are we even afraid of, my friend?' Nagiyev asks calmly to Barinov here, combining the conversational booster "voobshche" ("in general, overall") with "boimsya" ("to be afraid") to give the line its natural spoken rhythm.
+- 'Why are you bothering that plant?' Barinov asks firmly to Nagiyev here, anchoring the Russian line on "zachem" ("what for") and "rasteniyu" ("plant") without extra filler.
+- 'Look, we have snacks on the table.' Barinov displays a serious position in the room, putting "smotri" ("look") alongside "stole" ("table") in a tight, everyday turn of phrase.
+- 'Wait, why does your flower smell like whisky?' Nagiyev challenges warmly for Barinov's benefit, anchoring the Russian line on "podozhdi" ("wait") and "pochemu" ("why") without extra filler.
+- 'I do not know why it smells like that.' Barinov sets a playful angle as they talk, anchoring the Russian line on "znayu" ("know") and "pochemu" ("why") without extra filler.
+- 'It seems I have finally understood everything right now!' Nagiyev chooses a brisk rhythm beside Barinov, pairing "kazhetsya" ("it seems, I think") with "seychas" ("now") so the "-sya" ending carries the action.
+- 'You wanted to get me drunk on purpose!' Nagiyev chooses a brisk rhythm straight away, leaning on "khotel" ("wanted") before closing the thought with "spetsialno" ("on purpose").
+- 'So that I could not perform tomorrow!' Nagiyev shows a warm stance beside Barinov, weaving "smog" ("to be able") together with "zavtra" ("tomorrow") just the way native speakers do.

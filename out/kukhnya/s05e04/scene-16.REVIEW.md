@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, I am not hungry.' By being not hungry, Eleonora keeps her side of the story grounded.
-- 'I do not eat after six.' Admitting that she does not eat after six shows Eleonora being honest for a change.
-- 'Katya, please forgive me.' Telling Eleonora to forgive him is how Denis lays out the situation for Eleonora.
-- 'I really do have tons of work.' Once he really does have tons of work, Denis can finally tell Eleonora what he means.
-- 'Alright, I am waiting for you.' Adding that Alright she is waiting for Denis fills in the missing piece for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Come to the suite quickly.' Mentioning that Denis should come to the suite quickly moves the talk in a new direction.
-- 'Kiss me.' With the conversation and situation in play, Katya keeps this short reply brisk and direct.
-- 'What are you doing, huh?' Asking what Eleonora doing huh is cuts straight through the tension between Denis and Eleonora. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'The Chef will kill me.' Denis reminds Eleonora that the Chef will kill him before the moment passes.
-- 'Calm down, I am talking to Siri.' By telling Eleonora to calm down he is talking, Denis keeps his side of the story grounded.
-- 'You lie right here for now.' Explaining that Denis lies right here for now lays the cards on the table for Denis. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Lie there for now and work up an appetite.' Here lying there for now and work up an appetite sets up the next turn in their exchange. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Thank you, I am not hungry.' Eleonora establishes an emphatic bearing in the scene, pairing "spasibo" ("thank you") with "golodna" ("hungry") to get the point across in plain spoken Russian.
+- 'I do not eat after six.' Eleonora takes a warm direction in this beat, using "yem" (from "yest", "to eat") alongside "shesti" ("six") to shape the meaning.
+- 'Katya, please forgive me.' Denis displays a steady tone across the room, anchoring the Russian line on "prosti" ("sorry, forgive me") and "kat" ("Katya") without extra filler.
+- 'I really do have tons of work.' Denis shows a pointed style for Katya, building the phrase around "pravda" ("honestly") and "raboty" ("of work") for a crisp, natural delivery.
+- 'Alright, I am waiting for you.' Katya projects an earnest course right away, weaving "zhdu" ("I wait, expect") together with "ladno" ("all right") just the way native speakers do.
+- 'Come to the suite quickly.' Katya offers a wry line beside Eleonora, building the phrase around "prikhodi" ("come") and "skoreye" ("quickly, right away") for a crisp, natural delivery.
+- 'Kiss me.' Katya displays a brisk attitude as they talk, pairing "potseluy" ("kiss") with "menya" ("me") to get the point across in plain spoken Russian.
+- 'What are you doing, huh?' Denis inquires honestly at this point, leaning on "tvorish" ("are doing, creating") before closing the thought with "che" ("what").
+- 'The Chef will kill me.' Denis sustains a measured position straight away, using "ubyet" (from "ubit", "will kill") alongside "menya" ("me") to shape the meaning.
+- 'Calm down, I am talking to Siri.' Denis brings a pointed tone in this beat, linking "spokoyno" ("calmly"), "siri" ("Siri"), and "govoryu" ("am telling") in one brisk exchange.
+- 'You lie right here for now.' Katya favors a pointed approach in the room, weaving "poka" ("bye") together with "lezhi" ("lie down") just the way native speakers do.
+- 'Lie there for now and work up an appetite.' Katya holds a sharp style in their talk, pairing "poka" ("bye") with "lezhi" ("lie down") to get the point across in plain spoken Russian.

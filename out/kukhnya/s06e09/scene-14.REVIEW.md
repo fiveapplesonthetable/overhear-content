@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The main thing is, never repeat my mistakes.' Noting that the main thing is never repeat her mistakes keeps Eleonora's side of the story simple and clear. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Find yourself a normal, modest, simple guy.' Noting that Denis should find themselves a normal modest simple guy keeps Eleonora's side of the story simple and clear.
-- 'So that you are in first place for him.' Adding that that Denis is in first place for him fills in the missing piece for Denis.
-- 'And so that you do not have to remove foolish tattoos.' Eleonora tells Denis that that Denis does not have to remove foolish tattoos without dressing it up. There is no "you" needed in the Russian here: one short word states the rule for everyone in the room.
-- 'We once decided to get tattoos with our names.' Since they once decided to get tattoos with their names, Eleonora does not waste words on excuses.
-- 'And why did you come to see me at all?' By asking why Denis comes to see her at all, Eleonora presses Denis for a straight answer.
-- 'Mom, I heard you fired people today.' Katya reminds Denis that Mom she heard Denis fired people today before the moment passes. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Did you come again to ask on behalf of your Denis?' Asking whether Denis comes again to ask on behalf of Denis's Denis is how Eleonora puts Denis on the spot. Speaking with the close, informal "you" strips away any polite distance between them.
-- 'And for Sveta too, she is my friend.' Explaining that for Sveta too she is her friend lays the cards on the table for Denis.
-- 'Alright, let them both keep working in peace.' Eleonora reminds Denis that Alright let them both keep working in peace before the moment passes.
-- 'Excuse me, please, I was just lost in thought a bit.' Claiming that he was just lost in thought a bit sounds confident, even if Eleonora has doubts.
-- 'Listen, let us dance right now right in the coffee shop?' Wondering if they should dance right now right in the coffee shop shows Katya caught off guard.
-- 'Let us do it, after all this is my favorite song!' Proposing that they do it after all this is his favorite song shows Denis is done holding back. Starting with "davay" is the everyday Russian way to say "come on, let us do this".
+- 'The main thing is, never repeat my mistakes.' Eleonora shares a lively bearing at once, linking "glavnoye" ("important"), "nikogda" ("never"), and "povtoryay" ("to repeat, to review") in one brisk exchange.
+- 'Find yourself a normal, modest, simple guy.' Eleonora strikes a pointed course in the scene, building the phrase around "naydi" ("find") and "normalnogo" ("normal") for a crisp, natural delivery.
+- 'So that you are in first place for him.' Eleonora displays a serious line at once, putting "byla" ("was") alongside "pervom" ("first") in a tight, everyday turn of phrase.
+- 'And so that you do not have to remove foolish tattoos.' Eleonora establishes a wry footing in this beat, leaning on "glupykh" ("foolish") before closing the thought with "tatuirovok" ("tattoos").
+- 'We once decided to get tattoos with our names.' Eleonora takes a brisk mood during the exchange, weaving "odnazhdy" ("once, one day") together with "reshili" ("decided") just the way native speakers do.
+- 'And why did you come to see me at all?' Eleonora wonders warmly at this point, pairing "voobshche" ("at all") with "zachem" ("what for") to get the point across in plain spoken Russian.
+- 'Mom, I heard you fired people today.' Katya picks a candid tone with Denis, anchoring the Russian line on "mama" ("mum, mother") and "slyshala" ("to hear") without extra filler.
+- 'Did you come again to ask on behalf of your Denis?' Eleonora asks firmly as the beat lands, anchoring the Russian line on "opyat" ("again") and "prishla" ("came") without extra filler.
+- 'And for Sveta too, she is my friend.' Katya chooses an easygoing course in the scene, pairing "svetu" ("light, electricity") with "tozhe" ("too") to get the point across in plain spoken Russian.
+- 'Alright, let them both keep working in peace.' Eleonora adopts a steady tack right away, pairing "dalshe" ("next, go on") with "spokoyno" ("calmly") to get the point across in plain spoken Russian.
+- 'Excuse me, please, I was just lost in thought a bit.' Denis conveys a playful tempo beside Eleonora, combining the softening word "prosto" ("simply, just") with "izvini" ("sorry, excuse me") to give the line its natural spoken rhythm.
+- 'Listen, let us dance right now right in the coffee shop?' Katya queries promptly with Eleonora now, linking "slushay" ("listen"), "davay" ("let's"), and "seychas" ("now") in one brisk exchange.
+- 'Let us do it, after all this is my favorite song!' Denis takes a brisk style in the scene, joining "davay" ("let's") to "samaya" ("most") so every word pulls its weight.

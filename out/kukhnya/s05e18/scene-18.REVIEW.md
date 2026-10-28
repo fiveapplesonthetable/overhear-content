@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you here again in my restaurant?' Checking whether Denis here again in her restaurant is how Eleonora puts Denis on the spot. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Listen, this is not what you thought!' Denis insists that this is not what Eleonora thought, leaving Eleonora no room to argue.
-- 'I asked you never to come near Katya!' Saying that she asked Denis never to come near Katya is how Eleonora takes charge of the moment. Russian stacks "never" or "nothing" together with "not", doubling the refusal for extra weight.
-- 'Listen, I am not here because of Katya at all.' Because he is not here because of Katya at all, Denis treats the matter as settled.
-- 'Of course, you simply came to play the guitar!' Because Denis simply came to play the guitar, Eleonora does not bother softening the blow for Denis.
-- 'Wait, what are you doing right now?' Wondering what Eleonora doing right now is is how Denis puts Eleonora on the spot. Notice how he sticks to the formal "you", keeping a professional line between them.
-- 'Get out of the restaurant immediately!' Getting out of the restaurant immediately is Eleonora's blunt reaction in front of Denis. Russian puts the key word right up front so her emotion lands on the first beat.
-- 'Alright, calm down, I am leaving already.' Saying that Alright calm down he is leaving already is how Denis sets the tone with Eleonora.
-- 'Let me never see you here again!' Declaring that Denis should let her never see Denis here again brings Eleonora's temper right to the surface. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Nikita, do we still have far to walk?' Here checking whether they still have far to walk shows Katya looking for the real truth. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'No, we have just a tiny bit left.' Saying that they have just a tiny bit left is how Denis sets the tone with Eleonora.
-- 'You make a rather mediocre guide, honestly.' Since Denis makes a rather mediocre guide honestly, Katya does not waste words on excuses. Speaking with the close, informal "you" strips away any polite distance between them.
+- 'Are you here again in my restaurant?' Eleonora challenges frankly without hesitation, combining "opyat" ("again") and "zdes" ("here") so the key meaning lands right away.
+- 'Listen, this is not what you thought!' Denis sets a wry course beside Katya, putting "poslushayte" ("listen") alongside "podumali" ("thought") in a tight, everyday turn of phrase.
+- 'I asked you never to come near Katya!' Eleonora keeps a lively view in their talk, pairing "prosila" ("asked") with "nikogda" ("never") to get the point across in plain spoken Russian.
+- 'Listen, I am not here because of Katya at all.' Denis shares an earnest rhythm in the conversation, weaving "poslushayte" ("listen") together with "tut" ("here") just the way native speakers do.
+- 'Of course, you simply came to play the guitar!' Eleonora projects a playful attitude on the spot, joining "konechno" ("of course") to "prosto" ("just") so every word pulls its weight.
+- 'Wait, what are you doing right now?' Denis quizzes briskly for Katya's benefit, pairing "podozhdite" ("wait") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'Get out of the restaurant immediately!' Eleonora adopts a clear angle across the room, pairing "nemedlenno" ("immediately") with "poshyol" ("went, set off") to get the point across in plain spoken Russian.
+- 'Alright, calm down, I am leaving already.' Denis strikes a brisk course straight away, using "uspokoytes" (from "uspokoitsya", "calm down") alongside "uzhe" ("already, now") to shape the meaning.
+- 'Let me never see you here again!' Eleonora presents a measured style beside Denis, linking "zdes" ("here"), "bolshe" ("more"), and "videla" ("saw") in one brisk exchange.
+- 'Nikita, do we still have far to walk?' Katya inquires frankly across the room, putting "dolgo" ("for a long time") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'No, we have just a tiny bit left.' Denis projects an easygoing tempo in their talk, pairing "ostalos" ("was left") with "sovsem" ("at all") so the "-sya" ending carries the action.
+- 'You make a rather mediocre guide, honestly.' Katya sets a clear note during the exchange, joining "povodyr" ("guide") to "chestno" ("honestly") so every word pulls its weight.

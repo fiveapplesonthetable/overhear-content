@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I will not last much longer like this.' Adding that he will not last much longer like this fills in the missing piece for Fedya.
-- 'Tell me, what am I supposed to do now?' Questioning whether tell him what am he supposed to do now is how Max tests Fedya's story. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I, for instance, do not even know.' Since he for instance do not even know, Senya does not waste words on excuses.
-- 'Back then I landed in the hospital.' With the work and room in play, Senya keeps this short reply brisk and direct.
-- 'Otherwise the Chef would not have left me alone.' Senya reminds Fedya that otherwise the Chef would not have left him alone before the moment passes.
-- 'But not everyone was that lucky by far.' Because not everyone was that lucky by far, Fedya treats the matter as settled.
-- 'There are also some positives in this.' Explaining that there are also some positives in this lays the cards on the table for Max.
-- 'And just what positives are there here?' When Max asks if just what positives are there here, Fedya has to answer fast. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Lyova became sous-chef after a period like that.' With the point and truth in play, Fedya keeps this short reply brisk and direct.
-- 'True, he started stuttering after that.' Pointing out that he started stuttering gives Max a sobering reality check.
-- 'Katya, I have a matter to discuss with you.' Claiming that he has a matter to discuss with Fedya sounds confident, even if Fedya has doubts. Russian expresses having something as "by me is", keeping the phrase short and grounded.
-- 'How can we make your father stop drinking?' Here wondering how they make Fedya's father stop drinking can shows Max looking for the real truth. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
+- 'Listen, I will not last much longer like this.' Max chooses a brisk course with Fedya, combining "slushayte" ("listen") and "dolgo" ("for a long time") so the key meaning lands right away.
+- 'Tell me, what am I supposed to do now?' Max probes sharply for Senya's benefit, building the phrase around "skazhite" ("tell") and "teper" ("now") for a crisp, natural delivery.
+- 'I, for instance, do not even know.' Senya sustains a wry mood straight away, joining "primeru" ("example") to "znayu" ("know") so every word pulls its weight.
+- 'Back then I landed in the hospital.' Senya conveys a steady posture at once, combining "togda" ("back then") and "bolnitsu" ("the hospital") so the key meaning lands right away.
+- 'Otherwise the Chef would not have left me alone.' Senya sustains a direct mood on the spot, putting "inache" ("otherwise") alongside "otstal" ("to fall behind") in a tight, everyday turn of phrase.
+- 'But not everyone was that lucky by far.' Fedya chooses an unhurried posture during the exchange, anchoring the Russian line on "daleko" ("far away") and "vezlo" ("to transport") without extra filler.
+- 'There are also some positives in this.' Fedya establishes an emphatic style on the spot, weaving "tozhe" ("too") together with "yest" ("there is") just the way native speakers do.
+- 'And just what positives are there here?' Max questions sharply as the beat lands, linking "tut" ("here") directly with "kakiye" ("what"), since Russian drops "is" and "are" in the present.
+- 'Lyova became sous-chef after a period like that.' Fedya brings a serious mood right away, pairing "perioda" ("period") with "su-shefom" ("sous-chef") to get the point across in plain spoken Russian.
+- 'True, he started stuttering after that.' Fedya strikes a measured tone in the room, building the phrase around "pravda" ("honestly") and "potom" ("then") for a crisp, natural delivery.
+- 'Katya, I have a matter to discuss with you.' Max presents a warm line in their talk, joining "delo" ("matter") to "katya" ("Katya") so every word pulls its weight.
+- 'How can we make your father stop drinking?' Max questions wryly from the start, pairing "kak" ("how") with "zastavit" ("to force, make") to get the point across in plain spoken Russian.

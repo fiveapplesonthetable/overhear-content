@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima asked to prepare the dish with tenderloin that he ate at lunch.' Realizing that Dima asked to prepare the dish with tenderloin that he ate at lunch changes how Barinov handles the situation.
-- 'Which dish?' With the shift and dish hanging in the air, Barinov puts Kostya on the spot. In Russian, he does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'Tenderloin with balsamic pearls from the molecular cuisine.' With the truth and dish in play, Barinov keeps this short reply brisk and direct.
-- 'I no longer have the required ingredient.' Admitting that she no longer have the required ingredient shows Nastya being honest for a change.
-- 'Stop laughing!' Here telling Kostya to stop laughing lets Barinov's real feelings break through. Russian puts the key word right up front so his emotion lands on the first beat.
-- 'Replace it with something else, make it quickly.' Adding that Kostya should replace it with something else make it quickly fills in the missing piece for Kostya.
-- 'Why didn't you tell me?' By wondering why not Barinov tells him, Kostya presses Barinov for a straight answer.
-- 'Because I betrayed my principles.' Over the plan and the dish, Nastya answers Barinov without a second thought.
-- 'If I betrayed my principles, that means I could betray you too.' Since if she betrayed her principles that means she could betray Barinov, Nastya does not waste words on excuses. Using the informal "you" shows how direct and unfiltered their kitchen relationship is.
-- 'Come on, Nastya, don't talk nonsense.' Coming on Nastya do not talk nonsense is how Kostya lays out the situation for Barinov.
-- 'And what if tomorrow I feel like having something else?' When Nastya asks if what if tomorrow she feels like having something else, Barinov has to answer fast. In Russian, she does not need helper words like "do" or "did"—rising pitch alone turns it into a question.
-- 'I won't be able to hold back either.' Because she will not be able to hold back either, Nastya treats the matter as settled.
+- 'Dima asked to prepare the dish with tenderloin that he ate at lunch.' Barinov conveys an emphatic stance beside Kostya, weaving "prosil" ("ask for") together with "prigotovit" ("to cook, to prepare") just the way native speakers do.
+- 'Which dish?' Barinov questions calmly with Nastya now, pairing "blyudo" ("dish") with "kakoye" ("what a") to get the point across in plain spoken Russian.
+- 'Tenderloin with balsamic pearls from the molecular cuisine.' Barinov chooses a direct angle right away, linking "vyrezka" ("tenderloin"), "balzamicheskimi" ("balsamic"), and "zhemchuzhinami" ("pearls") in one brisk exchange.
+- 'I no longer have the required ingredient.' Nastya favors a calm position in the scene, pairing "bolshe" ("more") with "nuzhnogo" ("the right, necessary") to get the point across in plain spoken Russian.
+- 'Stop laughing!' Barinov displays a lively angle during the exchange, anchoring the Russian line on "khvatit" ("enough") and "rzhat" ("to laugh loudly") without extra filler.
+- 'Replace it with something else, make it quickly.' Barinov adopts a pointed tone in their talk, anchoring the Russian line on "zameni" ("replace") and "drugoye" ("another, other") without extra filler.
+- 'Why didn't you tell me?' Kostya quizzes lightly in this moment, weaving "pochemu" ("why") together with "skazala" ("told") just the way native speakers do.
+- 'Because I betrayed my principles.' Nastya adopts an unhurried manner with Kostya, pairing "potomu" ("because") with "predala" ("betrayed") to get the point across in plain spoken Russian.
+- 'If I betrayed my principles, that means I could betray you too.' Nastya adopts an emphatic course across the room, leaning on "predala" ("betrayed") before closing the thought with "printsipy" ("principles").
+- 'Come on, Nastya, don't talk nonsense.' Kostya brings a wry direction for Nastya, linking "govori" ("say, talk"), "glupostey" ("foolish things"), and "da" ("yes") in one brisk exchange.
+- 'And what if tomorrow I feel like having something else?' Nastya quizzes decisively in this moment, linking "zavtra" ("tomorrow"), "drugoye" ("another, other"), and "zakhochetsya" ("will feel like") in one brisk exchange.
+- 'I won't be able to hold back either.' Nastya brings a candid manner in front of Kostya, pairing "tozhe" ("too") with "smogu" ("will be able to") to get the point across in plain spoken Russian.
