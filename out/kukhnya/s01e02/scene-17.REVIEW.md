@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, should I bring you a cup of coffee?' "To you to bring" is how Russian offers something: "vam prinesti". "Coffee" never changes.
+- 'Viktoriya Sergeyevna, should I bring you a cup of coffee?' "Vam prinesti", "to you to bring", is how Russians offer something. "Chashka" becomes "chashku", and "kofe" never changes.
 - 'Lord, how sick of everything I am!' The first word is "Gospodi", an exclamation like "oh Lord". The second half is "everything reached me", a stock way to say you've had enough.
-- 'Have new problems arisen in the restaurant again?' "Voznikli" is "arose", and "again" is "opyat'". "New problems" is plural, so both words end in "-y".
+- 'Have new problems arisen in the restaurant again?' "Voznikli" is "arose", and "opyat'" is "again". "Novyye problemy" are both plural.
 - 'Of course, expensive cognac went missing in the bar.' "Disappeared" is "propal", with the -l of a masculine word, because "cognac" is masculine. It's the same verb as "disappear to" in the last scene.
-- 'Bartender Kostya is looking for that bottle now.' "Looks for" is a relative of "ishchi", the command from the knife scene. "That bottle" ends in -u as the thing being sought.
-- 'Well, why does everything always go wrong?' Literally "goes not so", using the everyday word for "go". Russians use it for events as well as people.
+- 'Bartender Kostya is looking for that bottle now.' "Ishchet", is looking for, is the same verb as "ishchi" from the knife scene. "Etu butylku" ends in -u as the thing being sought.
+- 'Well, why does everything always go wrong?' "Idyot ne tak" is "goes not so". Russians say "idti", to go, about events as well as people.
 - 'Our work is always very stressful.' "Stressful" comes from "nerves". It ends in -aya to match the feminine word "work".
 - 'The chef shouts, cooks argue, mess everywhere!' "Bardak" is slang for a mess, a stronger word than "besporyadok". No "and" between the items, just commas.
-- 'You need to rest a bit and calm down.' "To you necessary" is how Russian says "you need". "Calm down" has "-sya" on the end, and it's from "calm".
-- 'Can a day really not pass normally?' "Neuzheli" is a question word meaning "really?". "Nel'zya, chtoby" is "is it impossible that". "Passed" is the past of "pass".
+- 'You need to rest a bit and calm down.' "Vam nuzhno", "to you necessary", is the Russian "you need". "Otdokhnut'" is "to rest", and "uspokoit'sya", to calm down, ends in "-sya".
+- 'Can a day really not pass normally?' "Neuzheli" is "can it really be?". "Nel'zya, chtoby" is "is it impossible that", and "proshyol", passed, is the past form that goes after "chtoby".
 - 'I am sure everything will work out soon.' A woman says "uverena", a man says "uveren". "Will work out" has the same root as "ladno", fine, so it means "will get into harmony".
-- 'I want at least one calm day!' "I want" drops the "I", because "khochu" already says it. "At least" is two little words.
-- 'We all want this very much, believe me.' "Believe me" is a polite command. "We all" is two short words.
+- 'I want at least one calm day!' "Khochu" already says "I want", so Vika drops the "ya". "Khotya by", at least, is two small words.
+- 'We all want this very much, believe me.' "Pover'te", believe me, is the polite command from "verit'", to believe. "My vse" is "we all".

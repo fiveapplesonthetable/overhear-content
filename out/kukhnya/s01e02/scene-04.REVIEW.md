@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is my knife?' The question word comes first, as in English, and "my" sits in front of the knife. That small "a" at the start can mean "and" or "but", and here it just pushes the question along.
-- 'Who took my knife?' Again the question word leads. The "-l" on the end of "took" is the past tense, used for a man or a thing.
-- 'Chef, I didn't take it.' Literally, "I not took". The "-a" at the end of the last word tells you the speaker is a woman, and a man would say "bral".
-- 'I repeat: who took my knife?' Think of "povtor", a repeat, with "-yayu" for "I". This is what you say when your patience has run out.
-- 'I don't know, chef.' One of the most useful sentences in Russian, and it's built exactly as it sounds: "I not know". The "ne" goes right in front of the word it cancels.
+- 'And where is my knife?' "Gde" is "where", and "moy nozh" is "my knife". The little "a" at the start can mean "and" or "but", and here it just pushes the question along.
+- 'Who took my knife?' "Kto vzyal" is "who took". "Kto" always takes the masculine past, so it's "vzyal" with a plain -l, whoever the thief turns out to be.
+- 'Chef, I didn't take it.' "Ya ne brala" is "I not took". Nastya switches to "brat'", the everyday partner of "vzyat'", because she's denying any taking at all. The "-a" shows she's a woman; a man would say "ne bral".
+- 'I repeat: who took my knife?' "Povtoryayu" is "I repeat", from "povtor", a repeat. This is what you say when your patience has run out.
+- 'I don't know, chef.' "Ya ne znayu", "I not know", is one of the most useful sentences in Russian. "Ne" goes right in front of the word it cancels.
 - 'Nobody will go home from here.' Russian doubles the negative, so "nobody" and "not" both appear before the verb. Going home is the single word "domoy", and "otsyuda" means "from here".
 - 'Until you find the knife.' Russian has no separate word for "until" here. It says "while you don't find", so "poka" plus "ne". And "poka" is also the casual "bye", which really means "for now".
-- 'Understood, chef.' One short word for "understood", literally "it's clear". Nastya needs no "I" in it, and it's the usual way to show you got the message.
-- 'I will not cook anything.' Here's another double negative: "ne budu" and "nichego" both say no, and Russian insists on both. "To cook" has "ready" hiding inside it, because cooking is getting things ready.
-- 'Right, everyone, look for the knife.' The first word works as "right" or "so". The chef says "we look", so he is joining the search, which is a nice touch for a boss.
-- 'Quick!' It comes from the word for "alive", so "look lively", get a move on.
+- 'Understood, chef.' "Ponyatno" is one word that means "it's clear". Nastya needs no "I" in it, and it's the usual way to show you got the message.
+- 'I will not cook anything.' "Ne budu" and "nichego" both say no, and Russian insists on both. "Gotovit'", to cook, has "gotov", ready, inside it: cooking is getting things ready.
+- 'Right, everyone, look for the knife.' "Tak" works as "right" or "so". "Vse ishchem" is "all of us look", with the "we" form of the verb, so the chef counts himself in.
+- 'Quick!' "Zhivo" comes from "zhivoy", alive, so it's "look lively", get a move on.
 - 'What is the problem?' "Chto za" means "what kind of", so Nastya's question is "what kind of problem?". You can ask "chto za" about nearly anything.
-- 'We will buy the same knife.' "The same kind of" is two little words, and "we will buy" is just one. Nastya makes it sound very simple.
+- 'We will buy the same knife.' "Takoy zhe" is "the same kind of", and "kupim", "we'll buy", is a single word. Nastya makes it sound very simple.
 - 'And do you know what kind of knife this is?' Look for the "chto za" again: "what kind of knife is this". The chef says "you" the friendly way to Nastya, as bosses do in kitchens.

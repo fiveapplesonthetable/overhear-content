@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turned out somewhat awkward, Kostya.' "Kak-to" is "somehow": the "-to" makes things vague. "Awkward" is "ne" plus "lovkiy", deft.
-- 'You almost broke my nose!' "Chut' ne" is literally "barely not", and it means "almost". Russian says "broke to me the nose", where we say "my nose".
-- 'Old buddy, forgive me, please!' "Starichok" is "old man", given a small ending that makes it warm. "Prosti" is the friendly "forgive me".
-- 'What good is your simple apology to me?' This is a pun: "prostoye" means "simple" and shares its root with "prosti", "forgive". Kostya plays with Max's words.
-- 'Now you owe me big time.' Russian says "behind you a big debt". "Debt" is what you'd see on a bill.
-- 'What can I do for you?' "Mogu" is "I can", and "sdelat'" is "to do". "For you" is "dlya tebya", the friendly form.
-- 'Make me some fresh orange juice.' Orange is the fruit, "apel'sin", with an ending that makes it a describing word. "Fresh" is the "fresh" of "a fresh head".
-- 'My head is spinning very much.' Russian says "at me spins the head", the "I have" pattern. "Spins" comes from "krug", a circle.
-- 'I will do everything quickly right now.' The "s-" in front of "do" means "get it done". "Seychas" is "right now".
-- 'It is very loud in the kitchen right now.' "Gromko" means "loud" and doubles as "loudly". Russian needs no "it is".
-- 'Is the chef shouting at the cooks again?' "Shouts at" uses a short word for "at". "Cooks" ends in "-ov" as the object.
-- 'He is still looking for the knife.' "Do sikh por" is literally "until these times", and it means "still". "Looks for" is the "ishchi" family.
-- 'Then it is better for us to be quieter.' "Tishe" is "quieter", from "tikho", quiet. "For us better" is how Russian says "we'd better".
-- 'Hold your juice, my friend.' "Derzhi" is literally "hold", used for "here, take it". "Friend mine" has the word order of a warm greeting.
+- 'It turned out somewhat awkward, Kostya.' "Kak-to" is "somehow": the "-to" makes things vague. "Nelovko", awkward, is "ne" plus "lovko", deftly.
+- 'You almost broke my nose!' "Chut' ne" is "barely not", and it means "almost". Russian says "slomal mne nos", "broke to me the nose", where English says "my nose".
+- 'Old buddy, forgive me, please!' "Starichok" is "starik", old man, made small and warm. "Prosti" is the friendly "forgive me".
+- 'What good is your simple apology to me?' Kostya puns on "prostoye", simple, and "prosti", forgive, which share a root. "Zachem mne" is "what for to me".
+- 'Now you owe me big time.' Russian says "za toboy bol'shoy dolg", "behind you a big debt". "Dolg" is a debt.
+- 'What can I do for you?' "Mogu" is "I can", and "sdelat'" is "to do". "Dlya tebya", for you, is the friendly form.
+- 'Make me some fresh orange juice.' "Apel'sinovyy", orange, is the fruit "apel'sin" turned into a describing word. "Svezhiy" is "fresh", and "sok" is juice.
+- 'My head is spinning very much.' Russian says "u menya kruzhitsya golova", "at me spins the head". "Kruzhitsya" comes from "krug", a circle.
+- 'I will do everything quickly right now.' "Sdelayu" is "I'll get it done": the "s-" makes it finished. "Seychas" is "right now".
+- 'It is very loud in the kitchen right now.' "Gromko" means "loud" and doubles as "loudly". Russian needs no "it is": just "in the kitchen loud".
+- 'Is the chef shouting at the cooks again?' "Krichit na" is "shouts at". After "na", "povara" becomes "povarov", and "opyat'" is "again".
+- 'He is still looking for the knife.' "Do sikh por" is "until these times", and it means "still". "Ishchet" is "looks for".
+- 'Then it is better for us to be quieter.' "Tishe", quieter, comes from "tikho", quiet. "Nam luchshe" is "to us better", the Russian for "we'd better".
+- 'Hold your juice, my friend.' "Derzhi" is "hold", but it's what Russians say when handing something over: "here you go". "Drug moy", "friend mine", puts "my" last for warmth.

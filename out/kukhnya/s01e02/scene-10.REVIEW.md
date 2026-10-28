@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, the guests in the dining hall want the chef!' Sasha opens with "rebyata", the all-purpose word for an informal group. "Want the chef" is "ask the chef", and "chef" gains an -a as the thing they ask for.
-- 'What? Has she already tasted our dish?' The -la on "tasted" shows it's a woman, and the "po-" in front means "had a go".
-- 'Yes, she ate almost all the fricassee.' The "s-" on the front of "ate" makes it "ate it all up". And "almost everything" is two little words.
-- 'Maybe she wants seconds?' You know "mozhet byt'" as "maybe". "Seconds" is literally "an addition", from the verb "to add".
-- 'No, she is calling specifically for the head chef.' "Imenno" means "precisely", a word that points right at the one you mean.
-- 'I warned you! That was a bad idea!' Senya is a man, so "warned" ends in -l. "Was" ends in -a, because "idea" is a feminine word.
-- 'Go to Chef's office yourself!' One word, "sam", means "yourself", and it throws the job back at the other cook. "Into the office" has no ending, since you're going into it.
-- 'Why me? You came up with all of this!' Russian keeps "I" after the question word, so it's literally "why I?". "Came up with" has "dumat'", to think, inside.
-- 'You are his right-hand man in the kitchen.' Russian has the same idiom as English: "right hand". The word "right" also means "correct", so it's a happy double meaning.
-- 'I am not going, he will kill me!' "Poydu" is "I will go": "po-" turns the going into a future. Senya's fear is clear in the short sentences.
-- 'Let us just send Chef a text message.' "Let's write" is two short words, and "message" grows out of "report".
-- 'And write our resignation letters right away?' The phrase is "application about dismissal", and the "dismissal" is from "to fire", the one you heard in scene 8. The "o" becomes "ob" before a vowel.
+- 'Guys, the guests in the dining hall want the chef!' Sasha opens with "rebyata", the word for any informal group. "Prosyat shefa" is "ask for the chef", and "shef" gains an -a as the one being asked for.
+- 'What? Has she already tasted our dish?' "Poprobovala" is "tasted": the "po-" makes it a finished taste, and the "-la" shows it's a woman.
+- 'Yes, she ate almost all the fricassee.' "S'yela" is "ate up", the finished partner of "yest'", to eat. "Pochti vsyo" is "almost everything".
+- 'Maybe she wants seconds?' "Mozhet byt'" is "maybe". "Dobavka", seconds, is literally "an addition", like the verb "dobavit'", add.
+- 'No, she is calling specifically for the head chef.' "Imenno" means "precisely", a word that points right at the one you mean. "Zovyot" is "calls".
+- 'I warned you! That was a bad idea!' "Preduprezhdal" is "I warned", and "byla", "was", ends in -a because "ideya" is a feminine word.
+- 'Go to Chef's office yourself!' "Sam", "yourself", throws the job back at the other cook. "V kabinet", "into the office", keeps "kabinet" unchanged because he'd be going into it.
+- 'Why me? You came up with all of this!' "Pochemu ya" is "why I?", with no change to "ya". "Pridumal", "came up with", has "dumat'", to think, inside it.
+- 'You are his right-hand man in the kitchen.' "Pravaya ruka", "right hand", is the same idiom as in English. "Pravyy" is "right", and its cousin "prav" means "correct".
+- 'I am not going, he will kill me!' "Ne poydu" looks like a present form, but the "po-" makes it a future: "I won't go". "Ub'yot", "will kill", works the same way.
+- 'Let us just send Chef a text message.' "Davayte napishem" is "let's write". "Soobshcheniye", a message, is what you send to "soobshchit'", let someone know.
+- 'And write our resignation letters right away?' "Zayavleniye ob uvol'nenii" is "an application about dismissal", and "uvol'neniye" comes from "uvolit'", to fire. "O" becomes "ob" before a vowel.
 - 'No need to jinx it ahead of time!' The verb means to caw like a crow, and Russians use it for predicting doom out loud. "Ahead of time" is literally "earlier than time".

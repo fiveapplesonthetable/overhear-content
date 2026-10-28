@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika says that you started a fight.' "Started" here is "arranged", a relative of "get a job". "Fight" has an -u as the object.
-- 'We were simply fooling around in the backyard.' "Fooled around" comes from "fool". "Backyard" is "back" and "yard", with endings after "in".
-- 'Show me the video of this fight of yours.' "Show" takes the formal "-te". "This" and "of yours" both change to the "of" shape, so the whole phrase has the same ending.
-- 'Is that really a fight? You did not even fight back!' "Razve" at the start means "really?" and carries doubt. "Fight" has "-sya" at the end, a little "self".
-- 'So there is no reason to fire the cook yet.' "Not for what" is how Russian says "no reason". "Yet" also means "bye".
-- 'Dmitry, thank you for the fair decision.' "Thank you" plus "for" is the frame from the first scene of the series. "Fair" and "decision" are both easy to spot.
-- 'Listen to me everyone: forget about this video!' The chef addresses the whole room. "About this" uses "ob" because the next word starts with a vowel.
-- 'Vika still has to work here as art director.' "To Vika still to work" is the Russian for "Vika still has to work". "As art director" has the "-om" ending for "as".
-- 'Whoever dares laugh will immediately get out!' "Posmeyet" is "dares", and "laugh" has "-sya" at the end. "Will go out" finishes the threat.
-- 'Every coin has two sides.' Russian says "medal", not "coin", for the two sides of a story. "Two" is feminine to match "side".
-- 'One day everything around can change drastically.' Russian packs "one day" into the single "odnazhdy". "Drastically" starts from "sharp".
-- 'A former enemy unexpectedly becomes your friend.' "Former" means "was", turned into a describing word. "Unexpectedly" has "expect" in it. And "becomes" is followed by "-im", the "as" ending.
-- 'And a strict tyrant becomes a little bit kinder.' "Kinder" ends in "-eye", the same "more" ending you've heard on "faster". "Nemnogo" is "a little".
-- 'Life goes on, and tomorrow is a new day!' "Goes on" ends in "-sya", as if life continues itself. "Tomorrow" is a word you've heard before.
+- 'Vika says that you started a fight.' "Ustroil", set up, is how Russians say you started a fight. "Draka", fight, becomes "draku" as the thing set up.
+- 'We were simply fooling around in the backyard.' "Durachilis'", fooled around, comes from "durak", a fool. "Na zadnem dvore" is "on the back yard".
+- 'Show me the video of this fight of yours.' "Pokazhite", show, has the formal "-te". "Etoy vashey draki" puts the same "of" ending on all three words.
+- 'Is that really a fight? You did not even fight back!' "Razve" opens a doubtful "really?". "Dralsya", fought, ends in "-sya", and "dazhe" is "even".
+- 'So there is no reason to fire the cook yet.' "Ne za chto" is "not for what", here meaning "no reason". "Poka", yet, is the same word as "bye".
+- 'Dmitry, thank you for the fair decision.' "Spasibo za" is "thanks for". "Spravedlivoye", fair, and "resheniye", decision, both end in -oye and -iye to match.
+- 'Listen to me everyone: forget about this video!' "Slushayte" and "zabud'te" are commands to the whole room. "Ob etom", about this, uses "ob" before a vowel.
+- 'Vika still has to work here as art director.' "Vike yeshchyo rabotat'" is "to Vika still to work", the Russian for "Vika still has to work". "Art-direktorom" takes -om for "as".
+- 'Whoever dares laugh will immediately get out!' "Posmeyet", dares, sounds like "smeyat'sya", to laugh, but it comes from "smet'", to dare. "Poydyot von" is "will go out".
+- 'Every coin has two sides.' Russian says "medal'", medal, where English says "coin". "Dve", two, is feminine to match "storony", sides.
+- 'One day everything around can change drastically.' Russian packs "one day" into a single word, "odnazhdy". And "drastically" here is the same word as "sharply", as in a sharp turn.
+- 'A former enemy unexpectedly becomes your friend.' "Byvshiy", former, grows from "byl", was. "Stanovitsya", becomes, puts the next word in its "as" shape: "tvoim drugom".
+- 'And a strict tyrant becomes a little bit kinder.' "Dobreye", kinder, ends in "-eye", the same "more" ending as "bystreye", faster. "Nemnogo" is "a little".
+- 'Life goes on, and tomorrow is a new day!' "Prodolzhayetsya", goes on, ends in "-sya", as if life keeps itself going. "Zavtra" is "tomorrow".

@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Why can't we buy such a knife?' "Nel'zya" is a very useful word meaning "it's not allowed" or "it's impossible". Put "pochemu" in front and you can ask why anything can't be done.
-- 'You can't buy such a knife in a hurry.' The first word is "in a quick way". Then "ne poluchitsya", literally "it won't work out", which Russians say whenever something can't be done.
-- 'And how much does it cost?' The shop question: "how much" and then "costs". Nastya says "he" for the knife, because "nozh" is a masculine word.
-- 'This is an expensive Japanese knife.' One word does two jobs: it means "expensive" and also "dear", as in a dear friend. And there's no "is" here, just "this" and the rest.
-- 'The chef ordered it for a very long time.' "Ordered" is close to the noun "zakaz", an order. "It" is the same word that means "him" or "his", and it never changes.
-- 'And is it very sharp?' The Russian word for sharp also means spicy, so it's good for knives and for food. Context tells you which.
-- 'The sharpest knife in the kitchen.' Put "samyy" in front of a describing word and you get "the most": "the most sharp". It's easy to remember, and works with any word.
-- 'Where could it possibly be?' You may know "mozhet byt'" as "maybe", but taken apart the two words mean "can be". A tiny "zhe" in the middle adds the "possibly".
-- 'We already looked everywhere.' "Vezde", everywhere, and "already" are both small words you'll use constantly. "Looked for" is a relative of the command "ishchi" below.
-- 'Maybe someone took it home?' Russian can say "maybe" with just the first of those two words. Add "-to" to "who" and you get "someone".
-- 'Nobody would dare do that.' The double negative is back, with "nobody" and "not" side by side. "Will dare" grows from "smet'", to dare.
-- 'The chef will fire everyone immediately.' "Srazu" is the everyday "immediately", and "everyone" takes a new ending because it's the object.
-- 'Come on, look for the knife quickly.' The first word is a friendly "come on". "Ishchi" is the command "look for", and "skoreye" is "faster".
+- 'You can't buy such a knife in a hurry.' "Po-bystromu" is "in a quick way", from "bystro", quickly. Then "ne poluchitsya", "it won't work out", which Russians say whenever something can't be done.
+- 'And how much does it cost?' "Skol'ko stoit" is the shop question, "how much costs". Nastya calls the knife "on", "he", because "nozh" is a masculine word.
+- 'This is an expensive Japanese knife.' "Dorogoy" does two jobs: it means "expensive" and also "dear", as in a dear friend. And there's no "is", just "eto", this, and the rest.
+- 'The chef ordered it for a very long time.' "Zakazyval", "ordered", comes from "zakaz", an order. "Yego", "it", is the same word as "him" and "his", and it never changes.
+- 'And is it very sharp?' "Ostryy" means "sharp" and also "spicy", so it's good for knives and for food. Context tells you which.
+- 'The sharpest knife in the kitchen.' Put "samyy" in front of a describing word and you get "the most": "samyy ostryy", "the most sharp". It works with any describing word.
+- 'Where could it possibly be?' "Mozhet byt'" is "maybe", but here the two words keep their real meaning, "can be". "Zhe" after "gde" adds the "possibly".
+- 'We already looked everywhere.' "Uzhe", already, and "vezde", everywhere, are small words you'll use constantly. "Iskali", "looked for", is the past of "iskat'", the same verb as the command "ishchi" below.
+- 'Maybe someone took it home?' "Mozhet" on its own can mean "maybe". "Kto-to" is "kto", who, plus "-to", which makes it "someone".
+- 'Nobody would dare do that.' "Nikto ne", "nobody not", is the double negative again. "Posmeyet", "will dare", grows from "smet'", to dare.
+- 'The chef will fire everyone immediately.' "Srazu" is the everyday "immediately". "Vse", everyone, becomes "vsekh" because they're the ones being fired.
+- 'Come on, look for the knife quickly.' "Davay" is a friendly "come on". "Ishchi" is the command "look for", and "skoreye" is "quicker".
 - 'All right. I will look here.' The "po-" at the front of "I will look" gives it the sense of a quick look. "Here" is "zdes'".

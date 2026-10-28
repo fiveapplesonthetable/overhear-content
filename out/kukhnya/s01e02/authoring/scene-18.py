@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Chef Viktor is in his office, glued to the television. It's the big Moscow derby, his beloved Spartak against CSKA, and the cook Senya wants to know when dinner service starts. The chef doesn't want to hear about food. Here's the Russian first."
 OPENER = "Let's run through the match."
 TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = "The chef loves football more than the kitchen, which is something you've now seen. You've also picked up a few useful football words."
+OUTRO = 'Barinov would rather watch Spartak than cook. Keep "pora", "it\'s time", which Senya used twice to get him back to the stove.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('senya', 'Шеф, пора начинать готовить горячие блюда?', 'Chef, is it time to start preparing hot dishes?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('senya', 'А теперь пора вернуться к нашей кухне.', 'And now it is time to return to our kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, is it time to start preparing hot dishes?\' "Pora" means "it\'s time", and it takes the plain "to start". "Hot dishes" is plural, so both words end alike.'),
-    (1, None, '\'Quiet, Senya! A decisive match is on right now!\' A match "goes", so Russian says "idyot". "Decisive" is from "to decide".'),
-    (2, None, '\'Who is playing in this match today?\' "Plays" is the everyday word for playing a game or a match. "In this match" has an "-e" ending.'),
-    (3, None, '\'Our great Spartak is playing against CSKA!\' "Protiv" is "against". "Velikiy" is "great", the grand word, and "our" shows the chef is a fan.'),
-    (4, None, '\'And what is the score in the game now?\' "Score" also means "bill" in a restaurant, as in "schyot, pozhaluysta". "In the game" ends in -e.'),
-    (5, None, '\'A draw so far, but we must win!\' "Nich\'ya" is a draw, and "so far" also means "bye". "Must" and "win" are two short words.'),
-    (6, None, '\'Look, the ball is flying toward their goal!\' "Vorota", goal, is always plural, because it\'s really "gates". "Their" never changes.'),
-    (7, None, '\'Near the opponent penalty area CSKA is holding defense.\' "Area" is also "square". "Defense" comes from "oborona". "Holds" is the same word as "hold the menu".'),
-    (8, None, '\'The Spartak forward receives a fast pass.\' "Forward" comes from the verb "to attack". "Receives" is the everyday word for "to get".'),
-    (9, None, '\'Come on, Ari with the ball shoots hard!\' "Davay" is a friendly "come on!". "With the ball" has the ending "-om", and "hits" is how Russians describe shooting.'),
+    (0, None, '\'Chef, is it time to start preparing hot dishes?\' "Pora" is "it\'s time", and it takes the plain "nachinat\'", to start. In "goryachiye blyuda", hot dishes, "blyudo" becomes "blyuda" for more than one.'),
+    (1, None, '\'Quiet, Senya! A decisive match is on right now!\' "Tikho" is "quiet". In Russian a match "idyot", goes, and "reshayushchiy", decisive, is the match that "reshayet", decides, it all.'),
+    (2, None, '\'Who is playing in this match today?\' "Igrayet", plays, is the everyday verb for games. "Na etom matche" puts an -e on "match".'),
+    (3, None, '\'Our great Spartak is playing against CSKA!\' "Protiv" is "against". "Velikiy" is the grand word for "great", and "nash", our, shows the chef is a fan.'),
+    (4, None, '\'And what is the score in the game now?\' "Schyot", score, is also the restaurant bill, as in "schyot, pozhaluysta". "V igre" is "in the game".'),
+    (5, None, '\'A draw so far, but we must win!\' "Nich\'ya", a draw, is literally "nobody\'s". "Poka", so far, is the same word as "bye", and "dolzhny pobedit\'" is "must win".'),
+    (6, None, '\'Look, the ball is flying toward their goal!\' "Vorota", goal, is always plural, because it\'s really "gates". "Letit" is "flies".'),
+    (7, None, '\'Near the opponent penalty area CSKA is holding defense.\' "Shtrafnaya ploshchad\'" is the penalty area, and "ploshchad\'" is also a town square. "Derzhit oboronu" is "holds the defence".'),
+    (8, None, '\'The Spartak forward receives a fast pass.\' "Napadayushchiy", forward, is "the attacking one", from "napadat\'". "Poluchayet" is "receives", and "pas" is borrowed from English.'),
+    (9, None, '\'Come on, Ari with the ball shoots hard!\' "Davay" is a friendly "come on!". "S myachom", with the ball, ends in -om, and "b\'yot", hits, is how Russians describe a shot.'),
     (10, None, '\'The goalkeeper catches this ball with difficulty.\' "Vratar\'" is the goalkeeper, from "vorota", the goal: the gatekeeper. "With difficulty" is literally "with labour".'),
-    (11, None, '\'What a dangerous and beautiful moment it was!\' "What a" begins an exclamation. "Was" is masculine because "moment" is.'),
-    (12, None, '\'And now it is time to return to our kitchen.\' "Pora" appears again, with "to return". "To our kitchen" has endings on both words.'),
+    (11, None, '\'What a dangerous and beautiful moment it was!\' "Kakoy" begins the exclamation, "what a". "Byl", was, is masculine because "moment" is.'),
+    (12, None, '\'And now it is time to return to our kitchen.\' "Pora" again, now with "vernut\'sya", to return. In "k nashey kukhne", "k" changes both words.'),
 ]

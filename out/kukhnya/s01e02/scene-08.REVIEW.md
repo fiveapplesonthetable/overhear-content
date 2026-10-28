@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef flatly refuses to cook this dish.' "Flatly" grows out of "cutting off". The verb "refuses" ends in "-sya", a little "self" added to many Russian verbs.
-- 'But why? What happened in the kitchen?' You'll use "chto sluchilos'" all the time. It means "what happened".
-- 'He lost his favorite knife.' "Favorite" comes from "lyubit'", to love, so it means "loved". And "his own" is one short word.
+- 'Chef flatly refuses to cook this dish.' "Naotrez", "flatly", is built on "otrezat'", to cut off, as if the answer were cut short. "Otkazyvayetsya", "refuses", ends in "-sya", the little "self" many Russian verbs carry.
+- 'But why? What happened in the kitchen?' "Chto sluchilos'", "what happened", is the question for any trouble. "Na kukhne" is "on the kitchen", as Russians always put it.
+- 'He lost his favorite knife.' "Lyubimyy", favourite, is really "loved": inside it sits "lyubit'". "Svoy", "his own", is one short word, and "poteryal" is "lost".
 - 'Soon you will have a new chef!' Russian says "at you will be", the "I have" pattern but in the future. "Skoro" means "soon".
-- 'He will be fired if he does not make the fricassee.' Nobody is named as firing him. It's just "they will fire". "Fricassee" is borrowed and never changes.
-- 'Guys, let us cook this dish ourselves!' The first word means "guys" or "lads" and Russians use it for any informal group. "Let's" is a word that really means "give".
-- 'Are you out of your mind? He will kill us!' Literally "went off the mind". Russians say it when someone is being reckless.
+- 'He will be fired if he does not make the fricassee.' "Uvolyat" is "they will fire", with nobody named as doing it. "Frikase" is borrowed from French and never changes.
+- 'Guys, let us cook this dish ourselves!' "Rebyata", guys, is for any informal group. "Davayte" turns the next verb into "let's", and "sami" is "ourselves".
+- 'Are you out of your mind? He will kill us!' "S uma soshyol" is "went off the mind", which Russians say when someone is being reckless. "Ub'yot" is "will kill".
 - 'Yes, you are right, better not risk it.' A man says "prav", and a woman would say "prava". Then "better not", which is as short as it sounds.
-- 'But if we do not cook, Chef will be fired.' Same impersonal "they will fire" as before. And "if not" is two short words.
+- 'But if we do not cook, Chef will be fired.' "A yesli my ne prigotovim" is "but if we don't cook". It's the same nameless "uvolyat", "they'll fire", as before.
 - 'Exactly, you are right, we must cook right away!' "Nado" is "it's necessary", the Russian way to say "we must". "Srochno", urgently, has "srok", a deadline, hiding in it.
-- 'Darn, I am confused. This is a dangerous idea.' The first word really means "devil", but it's a mild curse. "Confused" comes from the verb "to tangle".
-- 'But we have a duty to save our chef.' "Obliged" belongs to the family of "definitely". "To save" and "thank you" share a root, since "spasibo" began as "God save".
-- 'All right, turn on the stove and get the meat!' Two friendly commands in a row, "turn on" and "get out", with an "and" between them.
+- 'Darn, I am confused. This is a dangerous idea.' "Chyort" really means "devil", but it's a mild curse. "Zaputalsya", "I got confused", has "putat'", to tangle, at its heart.
+- 'But we have a duty to save our chef.' "Obyazany", "obliged", belongs to the family of "obyazatel'no", definitely. "Spasti", to save, shares a root with "spasibo", which began as "God save you".
+- 'All right, turn on the stove and get the meat!' "Vklyuchay" is "switch on", and "dostavay" is "get out", two friendly commands in a row.

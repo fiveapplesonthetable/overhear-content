@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, is it time to start preparing hot dishes?' "Pora" means "it's time", and it takes the plain "to start". "Hot dishes" is plural, so both words end alike.
-- 'Quiet, Senya! A decisive match is on right now!' A match "goes", so Russian says "idyot". "Decisive" is from "to decide".
-- 'Who is playing in this match today?' "Plays" is the everyday word for playing a game or a match. "In this match" has an "-e" ending.
-- 'Our great Spartak is playing against CSKA!' "Protiv" is "against". "Velikiy" is "great", the grand word, and "our" shows the chef is a fan.
-- 'And what is the score in the game now?' "Score" also means "bill" in a restaurant, as in "schyot, pozhaluysta". "In the game" ends in -e.
-- 'A draw so far, but we must win!' "Nich'ya" is a draw, and "so far" also means "bye". "Must" and "win" are two short words.
-- 'Look, the ball is flying toward their goal!' "Vorota", goal, is always plural, because it's really "gates". "Their" never changes.
-- 'Near the opponent penalty area CSKA is holding defense.' "Area" is also "square". "Defense" comes from "oborona". "Holds" is the same word as "hold the menu".
-- 'The Spartak forward receives a fast pass.' "Forward" comes from the verb "to attack". "Receives" is the everyday word for "to get".
-- 'Come on, Ari with the ball shoots hard!' "Davay" is a friendly "come on!". "With the ball" has the ending "-om", and "hits" is how Russians describe shooting.
+- 'Chef, is it time to start preparing hot dishes?' "Pora" is "it's time", and it takes the plain "nachinat'", to start. In "goryachiye blyuda", hot dishes, "blyudo" becomes "blyuda" for more than one.
+- 'Quiet, Senya! A decisive match is on right now!' "Tikho" is "quiet". In Russian a match "idyot", goes, and "reshayushchiy", decisive, is the match that "reshayet", decides, it all.
+- 'Who is playing in this match today?' "Igrayet", plays, is the everyday verb for games. "Na etom matche" puts an -e on "match".
+- 'Our great Spartak is playing against CSKA!' "Protiv" is "against". "Velikiy" is the grand word for "great", and "nash", our, shows the chef is a fan.
+- 'And what is the score in the game now?' "Schyot", score, is also the restaurant bill, as in "schyot, pozhaluysta". "V igre" is "in the game".
+- 'A draw so far, but we must win!' "Nich'ya", a draw, is literally "nobody's". "Poka", so far, is the same word as "bye", and "dolzhny pobedit'" is "must win".
+- 'Look, the ball is flying toward their goal!' "Vorota", goal, is always plural, because it's really "gates". "Letit" is "flies".
+- 'Near the opponent penalty area CSKA is holding defense.' "Shtrafnaya ploshchad'" is the penalty area, and "ploshchad'" is also a town square. "Derzhit oboronu" is "holds the defence".
+- 'The Spartak forward receives a fast pass.' "Napadayushchiy", forward, is "the attacking one", from "napadat'". "Poluchayet" is "receives", and "pas" is borrowed from English.
+- 'Come on, Ari with the ball shoots hard!' "Davay" is a friendly "come on!". "S myachom", with the ball, ends in -om, and "b'yot", hits, is how Russians describe a shot.
 - 'The goalkeeper catches this ball with difficulty.' "Vratar'" is the goalkeeper, from "vorota", the goal: the gatekeeper. "With difficulty" is literally "with labour".
-- 'What a dangerous and beautiful moment it was!' "What a" begins an exclamation. "Was" is masculine because "moment" is.
-- 'And now it is time to return to our kitchen.' "Pora" appears again, with "to return". "To our kitchen" has endings on both words.
+- 'What a dangerous and beautiful moment it was!' "Kakoy" begins the exclamation, "what a". "Byl", was, is masculine because "moment" is.
+- 'And now it is time to return to our kitchen.' "Pora" again, now with "vernut'sya", to return. In "k nashey kukhne", "k" changes both words.

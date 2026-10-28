@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You stole my favorite Japanese knife!' The "u-" at the front of "stole" is the "away" prefix. It ends in "-li" because the chef is speaking to several people.
-- 'And you completely ruined my dish!' "Ruined" is "spoiled", plus a prefix, and "completely" is "sovershenno".
-- 'And all of you get out of here quickly!' "Went out" is used as an order, which Russians do all the time. "Here" is in the "from here" form.
-- 'Chef, we were only trying to help!' Word for word it's "we wanted as better", the stock excuse for good intentions.
-- 'I do not care what you were trying to do!' Literally "to me to spit", a rude way to say "I couldn't care less". The last words are "what you there wanted".
-- 'Do you know what the guest said about the fricassee?' A rising voice turns "you know" into a question. The woman guest has her own feminine form, and "about" is a casual short word.
-- 'Was she completely delighted?' "In full delight" is a nice phrase to reuse, and "was" ends in -a for a woman.
-- 'She said that it was disgusting!' "Disgusting" is a long word. "It" refers to the fricassee, which is a neuter word. "That" is the same word as "what".
-- 'Chef, I told them right away!' "Im" is the "to them" form of "they", and "srazu" is "right away".
-- 'It was Senya who made that terrible sauce!' Russian starts with "this Senya cooked", a handy way to point at who did it. "Terrible" comes from "horror".
-- 'No, Fedya roasted that partridge himself!' "Himself" is the shifting-the-blame word, and "that partridge" ends in -u as the thing roasted.
-- 'Stop arguing! You are all terrible cooks!' "Enough" is literally "it suffices". "Cooks" has the odd plural in -a.
-- 'Get out of my kitchen right now!' The verb is "clear yourselves off", a rude "scram". "Off my kitchen" uses the little word meaning "from".
+- 'You stole my favorite Japanese knife!' "Ukrali" is "stole", from "krast'", to steal, with "u-", away, at the front. It ends in -li because the chef is accusing several people.
+- 'And you completely ruined my dish!' "Isportili" is "spoiled", the finished form of "portit'". "Sovershenno", completely, is related to "sovershennyy", perfect.
+- 'And all of you get out of here quickly!' "Vyshli" is a past "went out", but the chef barks it as an order. Russians sometimes do that when they want something done right now. "Otsyuda" is "from here".
+- 'Chef, we were only trying to help!' "My khoteli kak luchshe" is "we wanted as better". It's the stock excuse when good intentions go wrong.
+- 'I do not care what you were trying to do!' "Mne plevat'" is "to me to spit", a rude "I couldn't care less". Then "chego vy tam khoteli", "what you there wanted".
+- 'Do you know what the guest said about the fricassee?' A rising voice turns "znayete", "you know", into a question. "Gost'ya" is the feminine of "gost'", guest, and "pro" is a casual "about".
+- 'Was she completely delighted?' "V polnom vostorge", "in full delight", is a phrase worth keeping. "Byla", was, ends in -a for a woman.
+- 'She said that it was disgusting!' "Otvratitel'no", disgusting, ends in -o to match "ono", the fricassee. The "that" is "chto", the same word as "what".
+- 'Chef, I told them right away!' "Im" is "to them", and "srazu" is "right away". Senya now claims he warned everyone.
+- 'It was Senya who made that terrible sauce!' "Eto Senya gotovil" is "this Senya cooked", a handy way to point at who did it. "Uzhasnyy", terrible, comes from "uzhas", horror.
+- 'No, Fedya roasted that partridge himself!' "Sam", himself, is the word for passing the blame. "Zharil", roasted, comes from "zhar", heat, and "kuropatka" becomes "kuropatku" as the thing roasted.
+- 'Stop arguing! You are all terrible cooks!' "Khvatit" is "enough", or "it suffices". "Povara", cooks, makes its plural with -a, like "doma", houses.
+- 'Get out of my kitchen right now!' "Ubiraytes'" is "take yourselves away", a rude "clear off". In "s moyey kukhni", "off my kitchen", "s" is the "from" that goes with "na" places.

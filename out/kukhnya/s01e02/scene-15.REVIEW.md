@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Where did the bottle of expensive cognac disappear to?' "Kuda" means "where to", and it's different from "gde", "where it is". Russian wants one for moving and one for staying.
-- 'Honestly speaking, I don't know at all.' "Honestly speaking" is exactly that, "honestly speaking". "At all" comes before "not".
-- 'And who should know if not you?' The key is "must", or "supposed to". "If not you" is as short as it sounds.
-- 'Kostya, you need to be fired from your job immediately!' Russian says "you necessary to fire", so "you" takes its object shape. "From work" uses the small word for "from".
-- 'It definitely stood here, I remember myself.' Kostya says "definitely" and "myself" for emphasis. "Pomnyu" is "I remember".
-- 'So that fake repairman stole it.' "Fake" is borrowed, and "stole" has the "away" prefix on it.
-- 'What an insolent, vile thief!' A little "zhe" turns the sentence into "what a...!". The two describing words are rude ones.
-- 'This bottle costs huge money.' "Costs" is spelled exactly like "stands", and context tells you which. After it, "money" takes the "of" form.
-- 'Excuse me, I will fix everything right now.' "Fix" comes from "right": you make it right again.
-- 'Where did you run so fast?' "Where to" again, and "ran off" with the "po-" that gives the start of the run.
-- 'I will catch up with that thief and return the cognac!' "Catch up" comes from "to chase" with "as far as" in front. "Return" is literally "give back".
-- 'Just you dare not bring it back!' "Just try" is a threat in Russian, close to "don't you dare". "Back" ends it.
+- 'Honestly speaking, I don't know at all.' "Chestno govorya" is "honestly speaking", exactly as in English. "Sovsem ne znayu" is "at all not I know".
+- 'And who should know if not you?' "Dolzhen znat'" is "must know" or "is supposed to know". "Yesli ne ty", "if not you", is as short as it sounds.
+- 'Kostya, you need to be fired from your job immediately!' "Tebya nuzhno uvolit'" is "you necessary to fire": "ty" becomes "tebya" because Kostya is the one being fired. "S raboty" is "from work".
+- 'It definitely stood here, I remember myself.' "Tochno", definitely, and "sam", myself, add weight. "Pomnyu" is "I remember", and "on", it, is the cognac, a masculine word.
+- 'So that fake repairman stole it.' "Fal'shivyy", fake, comes from German "falsch". "Ukral", stole, is the singular of the chef's "ukrali".
+- 'What an insolent, vile thief!' "Vot zhe" turns the sentence into "what a...!". "Naglyy" is "cheeky" or "insolent", "podlyy" is "vile", and "vor" is a thief.
+- 'This bottle costs huge money.' "Stoit", costs, is spelled exactly like "stoit", stands, and context tells you which. Russians say "ogromnykh deneg", "of huge money".
+- 'Excuse me, I will fix everything right now.' "Ispravlyu", I'll fix, comes from "pravyy", right: you make it right again. "Izvinite" is the polite "excuse me".
+- 'Where did you run so fast?' "Kuda", where to, again. "Pobezhal" is "ran off", and the "po-" marks the start of the run.
+- 'I will catch up with that thief and return the cognac!' "Dogonyu", I'll catch up, is "gonyat'", to chase, with "do-", as far as. "Vernu" is "I'll return".
+- 'Just you dare not bring it back!' "Poprobuy tol'ko" is "just try", a threat, close to "don't you dare". "Nazad", back, ends it.
