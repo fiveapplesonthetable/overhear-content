@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'first_guest': 'Первый гость', 'second_guest': 'Второй гость'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "At a VIP table in the Claude Monet dining room, wealthy guests taste the newly served black caviar delicacy. Completely oblivious to the kitchen's culinary disguise, the diners rave about its fresh natural Astrakhan quality. Listen to their conversation in Russian first, then we will break down each line in English."
-OPENER = "Now let's go back through the exchange around Astrakhan Caviar line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the restaurant dining room, wealthy guests taste the disguised black caviar and rave about its natural Astrakhan quality, praising the chef for the magnificent appetizer. Next time you watch the episode, listen for the Russian expressions for 'to be felt' and 'rarely' — you will catch every word right away. See you next time!"
+INTRO = "The dyed caviar has gone out to the dining room, and the guests are tasting it. They know good caviar when they eat it, or think they do. Here's the scene in Russian first."
+OPENER = "Let's go through it, one line at a time."
+TRANSITION = 'Now the whole scene again.'
+OUTRO = 'The guests are delighted, and the pike has passed its first test. Whether it passes the second test, with the owner, is another matter. Until next time.'
 CLOSING = ('second_guest', 'Пока!')
 STORY = [
     ('first_guest', 'Попробуйте эту закуску, господа.', 'Taste this appetizer, gentlemen.', [], ''),
@@ -30,13 +30,16 @@ STORY = [
     ('second_guest', 'Этот вечер удался на славу!', 'This evening was a glorious success!', [], ''),
 ]
 WALK = [
-    (0, None, "'Taste this appetizer, gentlemen.' At the VIP table in the dining room, the host invites his companions to try the caviar appetizer."),
-    (1, None, "'Listen, this is wonderful caviar!' Taking a bite, the second guest marvels at how wonderful the caviar is."),
-    (2, None, "'You can immediately sense that it is natural.' The first guest nods sagely, claiming you can tell right away that it is all-natural."),
-    (3, None, "'Yes, I only ever ate such caviar in Astrakhan.' His friend agrees, saying he has only tasted caviar this good in Astrakhan."),
-    (4, None, "'In Moscow you rarely encounter such quality.' The host remarks that finding such genuine quality in Moscow is rare."),
-    (5, None, "'Yes, delicious, very delicious!' Savoring another spoonful, the second guest repeats how delicious it is."),
-    (6, None, "'The head chef of this restaurant is a true master.' The host praises Claude Monet's head chef as a true master of his craft."),
-    (7, None, "'We will definitely order another portion.' Enjoying the disguised pike roe so much, they decide to order another helping."),
-    (8, None, "'Pass on our sincere gratitude to the chef.' The host asks the waiter to pass their warm compliments along to the chef. Now listen to the full conversation once more."),
+    (0, None, '\'Taste this appetizer, gentlemen.\' "Zakuska" is the little dish you eat alongside a drink, and "gospoda" is an old word for "gentlemen" that came back into use. It sounds slightly grand, which suits the caviar.'),
+    (1, None, '\'Listen, this is wonderful caviar!\' Russians begin with "listen" when they have something to say. "Chudesnaya" grows out of what Russian calls "miracle", the same root as in the chef\'s culinary miracle. The guest is warming up.'),
+    (2, None, '\'You can immediately sense that it is natural.\' The Russian is "immediately it is felt", with the -sya doing the passive job. So the feeling comes by itself. The man is sure of his palate, and the dye is invisible.'),
+    (3, None, '\'Yes, I only ever ate such caviar in Astrakhan.\' Astrakhan is a southern river city known for its caviar, so this is high praise. "Ate" is "el". Word for word it\'s "such only in Astrakhan ate". He remembers it like a holiday.'),
+    (4, None, '\'In Moscow you rarely encounter such quality.\' Russian says "you" for "one" or "people": "rarely you will meet". "Meet" is the verb for running into something. The guest speaks as a connoisseur.'),
+    (5, None, '\'Yes, delicious, very delicious!\' "Vkusno" without the adjective ending means "it is tasty", and Russians shout it at the table. The repetition is genuine enthusiasm. The second guest cannot get enough.'),
+    (6, None, '\'The head chef of this restaurant is a true master.\' "Shef-povar" joins "chef" and "cook" together, like a title. "Master" is the same word as the repairmen in the stove story. The guest praises Barinov, who is not there.'),
+    (7, None, '\'And the fresh bread goes with it perfectly.\' "Goes with" is the walking-up word again, which also means "suits". "Bread" is "khleb". The guests talk about bread now, which is the kind of detail people mention when everything is fine.'),
+    (8, None, '\'We will definitely order another portion.\' "Obyazatelno" means "without fail", and it comes from the same root as "obliged". The guest has decided. This is a bill that someone else will have to explain.'),
+    (9, None, '\'I am ready to come here every day.\' "Come" is in a form that means "come regularly". "Ready" is "gotov". The guest says it with great warmth, which is the highest praise a restaurant can get.'),
+    (10, None, '\'Pass on our sincere gratitude to the chef.\' "Pass on" is the same "give across" you\'ve heard. "Sincere" is a warm word, and "gratitude" is longer than "thanks". It\'s a formal, old-fashioned sentence, and the guests mean it.'),
+    (11, None, '\'This evening was a glorious success!\' The Russian is "succeeded to glory", an idiom for "went wonderfully". "Succeeded" grows from the word for "luck". The guest closes the scene with a flourish.'),
 ]

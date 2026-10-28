@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the kitchen workspace behind closed doors, Chef Viktor and Senya commence their bold culinary deception. Armed with dark natural food dye, they set out to tint the yellow pike caviar into convincing black pearls, joking that it feels like decorating eggs for Easter. Let us listen to their conspiratorial dialogue in Russian first.'
-OPENER = "Now let us examine Viktor and Senya's secret recipe step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the pike caviar successfully dyed a glistening black, Viktor and Senya admire their handiwork, confident that no patron will discover their culinary ruse. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to look' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has an idea: if the pike caviar is the wrong colour, change the colour. He and Senya set to work with a food dye. Here's the scene in Russian first."
+OPENER = "Let's take it again, slowly."
+TRANSITION = 'One more time, the whole scene.'
+OUTRO = 'The caviar is black, the spoon is stirring, and the secret is safe. If it is still a secret by tonight, it will be a miracle. Until next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Давай начнём красить эту щучью икру.', 'Let us start dyeing this pike caviar.', [(207, 'Давай'), (207, 'давай')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Этот секрет никто не должен знать.', 'No one must know this secret.', [], ''),
 ]
 WALK = [
-    (0, None, "'Let us start dyeing this pike caviar.' Rolling up his sleeves, Barinov tells Senya it is time to dye the pike roe."),
-    (1, None, "'Do you want to turn it into black?' Senya asks in amazement if the chef really plans to paint yellow caviar black."),
-    (2, None, "'Yes, we will dye all of this caviar.' Viktor confirms that they are going to tint the entire batch."),
-    (3, None, "'This turns out to be a real pike Easter.' Laughing at the scheme, Senya jokes that it feels like dyeing eggs for Easter."),
-    (4, None, "'Bring black food dye here.' Barinov orders him to fetch the black food coloring from the pastry shelf."),
-    (5, None, "'I found an excellent dye on the shelf.' Senya returns with a bottle of dark natural food dye."),
-    (6, None, "'Add the dye slowly and carefully.' Viktor instructs him to pour the coloring in slowly and carefully."),
-    (7, None, "'The caviar is already becoming completely black.' Watching the bowl, Senya marvels as the yellow roe turns pitch black."),
-    (8, None, "'Now stir all the caviar well with a spoon.' Barinov tells him to stir the whole batch gently with a spoon."),
-    (9, None, "'It looks just like expensive black caviar.' Senya grins and says it looks indistinguishable from luxury sturgeon caviar now."),
-    (10, None, "'Not a single guest of the restaurant will notice anything.' Viktor is confident that not a single diner in the hall will suspect a thing."),
-    (11, None, "'You are simply a genius of culinary secrets, chef.' Impressed by the hustle, Senya calls the chef a culinary genius."),
-    (12, None, "'No one must know this secret.' Barinov warns him again that nobody outside this room can ever find out."),
+    (0, None, '\'Let us start dyeing this pike caviar.\' "Let\'s begin" is the pair you know. "Dye" comes from the term for "paint". Barinov gives the order cheerfully. It\'s an odd way to cook.'),
+    (1, None, '\'Do you want to turn it into black?\' "Turn into" is a "change-over" word. Senya checks that he has understood. His voice shows a mixture of awe and doubt.'),
+    (2, None, '\'Yes, we will dye all of this caviar.\' The prefix "po-" in "will dye" gives the sense of "all the way through". "All of this" shows "all" in the ending. Barinov is decisive.'),
+    (3, None, '\'This turns out to be a real pike Easter.\' Russians dye eggs for Easter, so dyed caviar is a "pike Easter". It is a joke on the festival and also the name of a cheese dessert. Senya has a sense of humour.'),
+    (4, None, '\'Bring black food dye here.\' "Carry" stands for carrying in your hands. "To here" is the word that goes with "here". Barinov gives commands the way he gives everything, loudly.'),
+    (5, None, '\'I found an excellent dye on the shelf.\' "Found" is the past of "find". "On the shelf" has the ending for "on". Senya is resourceful. The kitchen has everything, including things it shouldn\'t.'),
+    (6, None, '\'Add the dye slowly and carefully.\' "Add" is an ongoing command, "keep adding". "Carefully" also means "neatly". Barinov teaches him the craft of forgery.'),
+    (7, None, '\'The caviar is already becoming completely black.\' "Becoming" is the on-going form of "become". "Completely" echoes "completely not right". Senya reports the progress with delight.'),
+    (8, None, '\'Now stir all the caviar well with a spoon.\' "Stir" has the "po-" of "a little while". "With a spoon" shows "with" in its ending. Barinov supervises, and the work is slow.'),
+    (9, None, '\'It looks just like expensive black caviar.\' "Just like" is "straight as". "Expensive" is the "dear" word. Senya is amazed at his own work, and he sounds like an artist.'),
+    (10, None, '\'Not a single guest of the restaurant will notice anything.\' It\'s a triple negative: "not one", "nothing", "not". Russian wants all of them. Barinov is full of confidence, and that is a bad sign.'),
+    (11, None, '\'You are simply a genius of culinary secrets, chef.\' "Genius" is the same as in English. "Of culinary secrets" has the "of" endings. Senya flatters his boss, and the boss accepts it.'),
+    (12, None, '\'No one must know this secret.\' "Nobody must" is "nobody not must", with the "must" word from the loan scene. "Know" is the plain form. Barinov closes the scene with his rule, and we know it won\'t hold.'),
 ]

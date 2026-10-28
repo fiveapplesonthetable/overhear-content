@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'tamara': 'Тамара'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In his private office at Claude Monet, Chef Viktor Barinov desperately needs a quick financial windfall to pay off debts. Calling bookmaker Tamara, he shocks her by placing a massive hundred-thousand-ruble wager on CSKA to beat his lifelong beloved club Spartak. Let's listen to their phone call in Russian first."
-OPENER = "Let's examine how Chef Barinov places a risky sports bet over the telephone line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Now you know how to talk about sports wagers, financial risks, and moral compromises in Russian. See you next time!'
+INTRO = "Barinov has made up his mind about the bet, and the bet is a shock. He phones Tamara, who takes bets, and puts his money on his own team's rival. Here's the call in Russian first."
+OPENER = "Let's take it slowly, line by line."
+TRANSITION = 'And here is the whole call again.'
+OUTRO = 'A hundred thousand rubles on the wrong team. Tamara has taken the bet, and Barinov has no money to cover it yet. See you in the next scene.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Тамара, здравствуй, это Витя Баринов беспокоит.', 'Tamara, hello, this is Vitya Barinov calling.', [(131, 'Тамарочка, здравствуй'), (132, 'Это Витя Баринов тебя беспокоит')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('tamara', 'Надеюсь, ты понимаешь свой огромный риск.', 'I hope you understand your huge risk.', [], ''),
 ]
 WALK = [
-    (0, None, "'Tamara, hello, this is Vitya Barinov calling.' The chef opens the phone call using a polite greeting and a third person identifier."),
-    (1, None, "'Hi, Vitya, do you want to place a bet?' Tamara greets 'Vitya' at the betting office."),
-    (2, None, "'Yes, put money on the Spartak match.' Barinov wants to gamble on 'Spartak'."),
-    (3, None, "'Are you betting on your native Spartak's victory?' Tamara asks if he backs his favorite."),
-    (4, None, "'No, I am betting on a CSKA victory!' The chef drops a bombshell by wagering on his bitter rival team."),
-    (5, None, "'Are you not joking? They are your enemies!' Tamara is shocked he bets against them."),
-    (6, None, "'I bet exactly one hundred thousand rubles!' Barinov confirms his massive wager."),
-    (7, None, "'Do you have that kind of money with you?' Tamara asks if he has cash ready."),
-    (8, None, "'Reserve the bet, I will bring cash soon.' Barinov promises to bring the cash soon."),
-    (9, None, "'All right, your bet is accepted at the office.' Tamara accepts the reservation for him."),
-    (10, None, "'Thank you, money right now matters more than anything to me.' Barinov admits cash is his priority now."),
-    (11, None, "'I hope you understand your huge risk.' The bookmaker concludes the conversation with a cautionary statement."),
+    (0, None, '\'Tamara, hello, this is Vitya Barinov calling.\' "Vitya" is a friendly short form of Viktor. Russians open a call with "bothers you", an old, polite phrase. Barinov is the soul of courtesy when he wants something.'),
+    (1, None, '\'Hi, Vitya, do you want to place a bet?\' "Make a bet" is the way Russians say "place a bet". Tamara uses "ty" and "Vitya", so they are old friends. She is businesslike, and she\'s heard this a hundred times.'),
+    (2, None, '\'Yes, put money on the Spartak match.\' "Put" is also how you bet, so "put money on" a match. It\'s the same idea as in English, but with what Russian calls putting down. "Match of Spartak" has the "of" ending.'),
+    (3, None, '\'Are you betting on your native Spartak\'s victory?\' "Native" recalls "own dad", family-close. "On victory" has the ending for "on". Tamara asks as if checking her ears.'),
+    (4, None, '\'No, I am betting on a CSKA victory!\' Russians say the letters of the army club\'s initials, "tse-es-ka". They are Spartak\'s great rival. Barinov knows what he is doing, and he says it clearly.'),
+    (5, None, '\'Are you not joking? They are your enemies!\' "Enemies" is a strong word for rivals. The little "zhe" is the "after all" again. Tamara is shocked. It is like a lifelong fan betting on his club\'s greatest rival.'),
+    (6, None, '\'I bet exactly one hundred thousand rubles!\' The word for "exactly" also means "level" or "even". "I put" is the bet word again. Barinov names the sum, and the sum is large.'),
+    (7, None, '\'Do you have that kind of money with you?\' "At you there is with self" is how Russian says "do you have on you". The russian for "such" is the one in "such a long one". She is practical.'),
+    (8, None, '\'Reserve the bet, I will bring cash soon.\' "Reserve" is the English word with a Russian ending. "Cash" is the "available" money again. Barinov asks for credit, and credit is a delicate thing in a betting shop.'),
+    (9, None, '\'All right, your bet is accepted at the office.\' "Accepted" has a feminine ending because "bet" is feminine. "Office" is an old word, and in this world it means the betting shop. Tamara agrees, but not happily.'),
+    (10, None, '\'Thank you, money right now matters more than anything to me.\' "More important" is "important" with the -ee ending of the comparative. "Than everything" has the "of" form. Barinov says it as if it were a principle.'),
+    (11, None, '\'I hope you understand your huge risk.\' "Hope" is from the same family as "reliable". Tamara says "I hope" like a friend giving a last warning. The term for risk is borrowed, as are most of the betting words.'),
 ]

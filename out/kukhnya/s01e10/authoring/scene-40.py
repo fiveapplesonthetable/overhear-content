@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In the back room of Claude Monet, Chef Barinov is engrossed in an intense televised football match. His viewing is interrupted when Senya rushes in to report that restaurant owner Dmitry Nagiyev urgently wants to see him. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace hierarchy, sports fandom expressions, and urgent managerial summons."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Reluctantly leaving his televised football match, Chef Barinov leaves Senya in charge of the score and heads out to meet Nagiyev. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to lead' and 'carefully' — you will catch every word right away. See you next time!"
+INTRO = "A big football match is on, and Barinov wants to watch it in peace. Senya tells him that the owner is calling for him, urgently. Here's the scene in Russian first."
+OPENER = "Let's take it again, slowly."
+TRANSITION = "Here's the whole scene once more."
+OUTRO = 'Barinov goes to see Nagiyev, and Senya stays with the television. The score is two-nil, but not for long. Until next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сеня, не мешай мне смотреть футбол!', "Senya, don't disturb me watching football!", [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Смотри в оба и внимательно следи за счётом!', 'Keep your eyes peeled and attentively watch the score!', [(292, 'Следи за счетом')], ''),
 ]
 WALK = [
-    (0, None, "'Senya, don't disturb me watching football!' Glued to the small television in the back room, Barinov snaps at Senya not to block the football match."),
-    (1, None, "'Chef, Dmitry Vladimirovich is urgently calling you!' Senya urgently reports that owner Dmitry Nagiyev is calling for the chef right now."),
-    (2, None, "'Why does the owner call at this exact moment?' Viktor groans, asking why the boss has to summon him in the middle of the game."),
-    (3, None, "'He said that this is a very urgent matter.' Senya says Nagiyev sounded dead serious and called it urgent."),
-    (4, None, "'I have known this man for a whole twenty years.' Viktor grumbles that he has known Nagiyev for twenty years and knows his dramatic habits."),
-    (5, None, "'He is waiting for you right now near the hall.' Senya reminds him that the owner is waiting right outside the dining room."),
-    (6, None, "'Our team is leading in the score two-nil!' Pointing at the screen, Viktor worries because the team he bet on is up two-nil."),
-    (7, None, "'I promise to attentively watch the football score.' Senya volunteers to keep his eyes glued to the score while the chef is gone."),
-    (8, None, "'If our team loses, I will punish you!' Superstitious as ever, Barinov warns that if the team blows the lead while he is out, he will blame Senya."),
-    (9, None, "'Chef, I will not step away from the TV screen.' Senya swears he will not take his eyes off the television screen."),
-    (10, None, "'Fine, I will go and listen to Dmitry Nagiyev.' Reluctantly tearing himself away, Viktor goes to see what Nagiyev wants."),
-    (11, None, "'Good luck to you in the talk with our master!' Senya wishes him luck with the boss."),
-    (12, None, "'Keep your eyes peeled and attentively watch the score!' Viktor tells him one last time to watch the score like a hawk."),
+    (0, None, '\'Senya, don\'t disturb me watching football!\' "Meshat" is a word with two meanings that share one spelling: to stir, as with the cream, and to disturb, as here. Context tells you which. Barinov is irritated.'),
+    (1, None, '\'Chef, Dmitry Vladimirovich is urgently calling you!\' "Calls" is the "summon" word. Senya uses the full name and father\'s name, with respect. He knows he is going to be shouted at.'),
+    (2, None, '\'Why does the owner call at this exact moment?\' "Owner" recalls "master of the kitchen". "Exactly" is "imenno". Barinov complains to the air, like a man whose luck is out.'),
+    (3, None, '\'He said that this is a very urgent matter.\' "Said" is the male past. "Urgent matter" is the pair you have heard from Max. Senya passes on the message and hopes to be done.'),
+    (4, None, '\'I have known this man for a whole twenty years.\' Russian uses the present: "I know him twenty years". After a number like twenty, "years" is "let". Barinov sounds weary, as he has had years of this.'),
+    (5, None, '\'He is waiting for you right now near the hall.\' "Waits you" has no "for". "Near the hall" is "vozle zala". Senya repeats the message. He knows how easily Barinov forgets.'),
+    (6, None, '\'Our team is leading in the score two-nil!\' "Leads" stands for "leads", as in "behaves". "Score" is a word that also means "count" and "bill". Barinov is pleased, and so he is generous.'),
+    (7, None, '\'I promise to attentively watch the football score.\' "Watch" was used in the stove scene when the chef told Lyova to supervise. "Promise" is the banquet word. Senya reassures him.'),
+    (8, None, '\'If our team loses, I will punish you!\' "Loses" is back from the first scene, about the father who lost the money. "Will punish" is a short future. Barinov threatens, as he does with everyone.'),
+    (9, None, '\'Chef, I will not step away from the TV screen.\' "Step away" is the one the chef used for "step back". "From the screen" is the ending for "from". Senya swears to guard the screen.'),
+    (10, None, '\'Fine, I will go and listen to Dmitry Nagiyev.\' "Listen to the end" is how the "vy-" prefix works, so "hear out". Barinov gives in, though he hates it. The football will have to wait.'),
+    (11, None, '\'Good luck to you in the talk with our master!\' Wishes in Russian take the "of" ending, so it is "of luck to you". "Master" is the owner. Senya\'s good wishes are sincere, and he guesses it won\'t help.'),
+    (12, None, '\'Keep your eyes peeled and attentively watch the score!\' "Look into both" means keep both eyes open. "Watch" is the one again. Barinov leaves with a final order. He is still thinking of the match.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'Behind closed doors in his private office, Chef Viktor Petrovich confronts Max about Victoria. Drawing on his own painful past experience with her family, the veteran chef scolds the panicked young cook and strictly forbids him from running away to Voronezh. Let us listen to their heated exchange in Russian first.'
-OPENER = "Now let us examine Viktor's firm life lecture to Max line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Faced with Viktor's strict refusal to let him run away, Max realizes that he cannot escape his responsibilities and must confront whatever lies ahead. Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "In the office, Barinov speaks to Max about Vika's family. He has some experience of them, and not good experience. Here's the scene in Russian first."
+OPENER = "Right, let's go back through it."
+TRANSITION = 'Here it all is once more.'
+OUTRO = "Barinov tells Max he must take responsibility. It's the first time the chef has sounded fatherly. Catch you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Вот это ты сильно попал, парень.', 'Now you are in deep trouble, lad.', [(189, 'Вот это ты попал')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Мужчина обязан отвечать за свои поступки.', 'A man is obliged to answer for his actions.', [(201, 'За свои поступки надо отвечать')], ''),
 ]
 WALK = [
-    (0, None, "'Now you are in deep trouble, lad.' Barinov plainly builds some meaning through combining 'now' with 'deep' and 'lad'."),
-    (1, None, "'Chef, believe me, it just happened accidentally.' Max warmly gives such idea by combining 'chef' and 'just' along with 'accidentally'."),
-    (2, None, "'You had to think with your head in advance.' Barinov warmly draws some feeling by combining 'you' with 'with' and 'advance'."),
-    (3, None, "'What am I to do now?' Max neatly draws this point through pairing 'what' with 'do' plus 'now'."),
-    (4, None, "'Their family will not leave you alone now.' Speaking as Vika's former brother-in-law, Viktor warns that her family will never let him off the hook."),
-    (5, None, "'Do you know this family so well?' Max simply gives some view by connecting 'do' with 'this' along with 'well'."),
-    (6, None, "'I myself used to live in this family.' Barinov calmly shapes the thought through pairing 'i' with 'live' and 'family'."),
-    (7, None, "'And did they drive you out of the house?' Max plainly shapes the message through matching 'and' and 'drive' along with 'house'."),
-    (8, None, "'They took all strength from me.' Barinov boldly shares this view through grouping 'they' with 'strength' plus 'me'."),
-    (9, None, "'Maybe I should just leave for Voronezh?' Max clearly shares that image by blending 'maybe' with 'just' as well as 'voronezh'."),
-    (10, None, "'You will not go anywhere now.' Barinov warmly casts such picture through connecting 'you' and 'go' and 'now'."),
-    (11, None, "'But I am very afraid of such responsibility.' Max boldly shows such concept through grouping 'but' and 'afraid' and 'responsibility'."),
-    (12, None, "'A man is obliged to answer for his actions.' Barinov simply builds this image by combining 'man' and 'for' and 'actions'."),
+    (0, None, '\'Now you are in deep trouble, lad.\' "Hit" means hitting a target, used for "landed in". What russian calls "lad" is casual. Barinov is gruff, and also a little amused.'),
+    (1, None, '\'Chef, believe me, it just happened accidentally.\' "Believe" is the polite command. "Accidentally" is the one from "chance". "Turned out" stands for a result. Max talks like a man giving a statement.'),
+    (2, None, '\'You had to think with your head in advance.\' "It was necessary" is the past of "it\'s necessary", so it means "you should have". Russian thinks "with the head", with the instrument ending. Barinov is blunt.'),
+    (3, None, '\'What am I to do now?\' The little "zhe" gives it the "on earth". "To me to do" is the Russian pattern. Max\'s question is a prayer, and he asks it of the wrong man.'),
+    (4, None, '\'Their family will not leave you alone now.\' "Fall behind" is how Russians say "leave alone". "Their" is "of them". Barinov warns him, and his warning comes from experience.'),
+    (5, None, '\'Do you know this family so well?\' "This family" takes an ending for the thing known. Max asks politely, with "you". It\'s a clever question, because the answer will be a surprise.'),
+    (6, None, '\'I myself used to live in this family.\' "Lived" is the past of "live", the root of "life". "Earlier" covers "formerly". Barinov was once married to Vika\'s sister, and he says so lightly.'),
+    (7, None, '\'And did they drive you out of the house?\' "Drive out" is back from the kitchen scene. "From the house" is the ending for "from". Max guesses at the story. His guess is close.'),
+    (8, None, '\'They took all strength from me.\' Russian uses "at me" for "from me" with a verb of taking. They "took at me" all strength. It is a handy bit of Russian to learn. Barinov sounds worn out.'),
+    (9, None, '\'Maybe I should just leave for Voronezh?\' "Leave" is the by-vehicle word that the stove used. Voronezh is Max\'s home town. His idea is to run, and it isn\'t a bad idea, in his own mind.'),
+    (10, None, '\'You will not go anywhere now.\' "Nowhere" and "not" are both there. "Will go" is by vehicle. Barinov says it flatly. He has decided for Max.'),
+    (11, None, '\'But I am very afraid of such responsibility.\' Fear takes the "of" ending on the thing feared. "Responsibility" is a long word with the same root as "answer". Max is honest at last.'),
+    (12, None, '\'A man is obliged to answer for his actions.\' "Obliged" is a strong word. "Answer for" uses the little word for "for". "His own" is the word "svoi". Barinov gets serious, and the lecture ends.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'tanya': 'Таня', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Tanya arrives unexpectedly at Claude Monet and sits at a corner table to confront her sister Victoria. Believing a wild rumor spread by Chef Barinov that Vika is pregnant, Tanya demands to know why she was kept in the dark. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the family dynamics, expressions of disbelief, and denial of false rumors."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Shocked to learn that Chef Barinov spread rumors about her pregnancy, Victoria prepares to confront him immediately in the kitchen. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'crazy' and 'pregnant' — you will catch every word right away. See you next time!"
+INTRO = "A new customer sits at the corner table: Tanya, Vika's sister and Alisa's mother. She has heard something from the chef. Here's the scene in Russian first."
+OPENER = "Now let's slow it down."
+TRANSITION = 'One more time, all the way through.'
+OUTRO = 'The rumour has come from Barinov, and Vika knows it is not true. She has a few words to say to him. Speak soon.'
 CLOSING = ('tanya', 'Пока!')
 STORY = [
     ('tanya', 'Здравствуй, Вика! Я села за угловой столик.', 'Hello, Vika! I sat down at the corner table.', [(254, 'Угловой столик')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('tanya', 'Тогда тебе нужно срочно поговорить с Виктором.', 'Then you need to urgently speak with Viktor.', [(258, 'Мне Витя сказал')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Vika! I sat down at the corner table.' Meanwhile, Vika's sister Tanya rushes into the restaurant and sits down at a corner table."),
-    (1, None, "'Hello, Tanya! Why did you come so urgently?' Surprised to see her sister again, Vika asks why she came back in such a hurry."),
-    (2, None, "'Why didn't you tell me anything at all?' Hurt, Tanya asks why Vika kept such a huge family secret from her."),
-    (3, None, "'Tanya, I don't understand your strange questions.' Baffled, Vika says she has no idea what Tanya is talking about."),
-    (4, None, "'You should have immediately called your own sister!' Tanya scolds her for not calling her own sister first."),
-    (5, None, "'Explain to me calmly, what happened at all?' Vika asks her to calm down and explain what supposedly happened."),
-    (6, None, "'You are pregnant, and I find out about it last!' Tanya blurts out the rumor: that Vika is pregnant and told her sister last."),
-    (7, None, "'Where did you get such nonsense at all?' Vika stares at her and asks where on earth she heard such nonsense."),
-    (8, None, "'Chef Vitya told me about this personally!' Tanya reveals that Viktor Barinov himself just called to tell her."),
-    (9, None, "'Viktor again made up this insane story!' Vika groans, realizing the rumor she started to scare Max reached Viktor and Tanya."),
-    (10, None, "'So, you are not expecting a baby at all?' Tanya pauses and asks if Vika really is not expecting a baby after all."),
-    (11, None, "'Of course not, this is simply an insolent lie!' Vika confirms it is completely false."),
-    (12, None, "'Then you need to urgently speak with Viktor.' Tanya tells Vika she had better go straighten things out with Viktor right away."),
+    (0, None, '\'Hello, Vika! I sat down at the corner table.\' Tanya says "zdravstvuy", the casual form of the long hello. "Sat down" ends in -la, since she\'s a woman. "Behind the little corner table" is how a diner sits. She is friendly, for now.'),
+    (1, None, '\'Hello, Tanya! Why did you come so urgently?\' "Privet" is the informal hello. "Came" has the woman\'s -la. "Urgently" is "srochno", which began the whole banquet. Vika is polite, and she is already wary.'),
+    (2, None, '\'Why didn\'t you tell me anything at all?\' Russian has "say" and "tell", and this is the second one, for telling a story or giving news. "Nothing not" carries the double negative. Tanya sounds hurt.'),
+    (3, None, '\'Tanya, I don\'t understand your strange questions.\' "Of your strange questions" is the "of" form, because "not understand" asks for it. Vika is honestly puzzled. She has no idea what has been said.'),
+    (4, None, '\'You should have immediately called your own sister!\' "Must" with a past "were" makes "should have". "Own sister" uses the word "rodnoy", for a sister by blood. Tanya\'s complaint is a family complaint.'),
+    (5, None, '\'Explain to me calmly, what happened at all?\' "Explain" is the command form of the word the chef used to Tanya. "Happened" is a close relative of "what is happening". Vika is calm, because she has nothing to hide.'),
+    (6, None, '\'You are pregnant, and I find out about it last!\' "Find out" is the same as in Vika\'s earlier complaint. "Last" ends in -ey for a woman. Tanya\'s anger is clear, and so is her hurt.'),
+    (7, None, '\'Where did you get such nonsense at all?\' Russian says "from what did you take", meaning "what made you think so". "Nonsense" covers foolishness. Vika is angry, though not yet at her sister.'),
+    (8, None, '\'Chef Vitya told me about this personally!\' "Personally" is the one the chef used about the stove. The doer of the sentence comes last: "to me about this said chef Vitya". Tanya names her source.'),
+    (9, None, '\'Viktor again made up this insane story!\' "Made up" means inventing. "Insane" is "without mind". Vika knows who is behind it. She uses his proper name, Viktor, because she is angry.'),
+    (10, None, '\'So, you are not expecting a baby at all?\' "So" means "it means". "Wait for a baby" is "expecting", as before. Tanya checks the facts, and her tone changes.'),
+    (11, None, '\'Of course not, this is simply an insolent lie!\' "Lie" is related to the word "to lie". "Insolent" is a strong word, and it applies to the chef. Vika denies it in the plainest possible way.'),
+    (12, None, '\'Then you need to urgently speak with Viktor.\' "Then" starts the line. "Speak with" has the little "po" for a proper chat. Tanya tells her sister what to do. It\'s a natural move for an older sister.'),
 ]

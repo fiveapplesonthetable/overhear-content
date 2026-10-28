@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In the main restaurant room, a VIP guest lavishly praises the special caviar, believing Barinov's tale about private planes from Astrakhan. Meanwhile, Barinov anxiously tracks the football broadcast, his mood swinging wildly with every update from the pitch."
-OPENER = "Let's listen to the VIP guest savoring the fraudulent caviar while Barinov agonizes over a live football match."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Between fraudulent caviar compliments and a painful match result, Barinov barely keeps his anger under control. Next time you watch the episode, listen for the Russian expressions for 'idler' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "The pike caviar has passed, the owner is out of sight, and the guests are happy. Barinov is on the floor, charming them, and checking the score. Here's the scene in Russian first."
+OPENER = "Let's go through it, one line at a time."
+TRANSITION = 'And the whole scene again.'
+OUTRO = 'The caviar is a success, and the football is a disaster. Barinov finds out in the next scene. Catch you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('guest', 'Шеф, налейте мне ещё немного вина.', 'Chef, pour me some more wine.', [(314, 'мне')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Да уж, играют как настоящие бездельники!', 'Indeed, they play like real slackers!', [(321, 'Уроды.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, pour me some more wine.' The relaxed guest enjoys his lavish meal at the table."),
-    (1, None, "'What an incredibly delicious black caviar you have!' To Viktor's relief, the VIP guest raves about how delicious the black caviar is."),
-    (2, None, "'Of course, this is the best caviar straight from Astrakhan.' Playing along smoothly, Barinov boasts that the caviar came straight from Astrakhan."),
-    (3, None, "'We fly it here on special Boeings.' The chef adds ridiculous claims about luxury transport."),
-    (4, None, "'Well, in taste everything is simply excellent!' The guest remains totally unaware of the deception."),
-    (5, None, "'In our restaurant it cannot be any other way.' When the guest praises the flavor, Viktor replies proudly that Claude Monet accepts nothing less."),
-    (6, None, "'Waiter, what is the score in the match now?' Turning anxiously to a passing waiter, Viktor whispers to ask the current score of the football match."),
-    (7, None, "'The score there is three-three now, our guys tied it up!' Watching the live broadcast on his phone, the guest excitedly announces that Spartak just tied the match three to three."),
-    (8, None, "'They had not tied it up like that for twenty years in a row.' Amazed by the comeback, the guest marvels that the team has not pulled off a rally like that in twenty years."),
-    (9, None, "'And today they suddenly scored three quick goals!' He adds in disbelief that the players suddenly scored three quick goals in a row today."),
-    (10, None, "'Did Spartak really let victory slip away in the end again?!' Hearing that Spartak just scored three goals to tie the game at three-all — ruining his huge bet on CSKA — Viktor gasps in disbelief."),
-    (11, None, "'Football today turned out very nervous and strange.' Shaking his head with a grin, the guest remarks that today's football match turned out wild and nerve-wracking."),
-    (12, None, "'Indeed, they play like real slackers!' Barinov vents his deep sports frustration under his breath."),
+    (0, None, '\'Chef, pour me some more wine.\' "Pour" is the polite command. "Wine" takes the "some of" ending. The guest sounds relaxed, and the chef is on show.'),
+    (1, None, '\'What an incredibly delicious black caviar you have!\' "Incredibly" is built on "believe", so it\'s "unbelievably". "At you" is Russian for "you have". The guest praises the dyed pike.'),
+    (2, None, '\'Of course, this is the best caviar straight from Astrakhan.\' "Straight from" is "pryamo iz". Barinov leans on Astrakhan, the guests\' own favourite. His lie is a good one.'),
+    (3, None, '\'We fly it here on special Boeings.\' "Transport regularly" is the word, here with a plane. "Boeings" is plural and has the "by means of" ending. Barinov\'s lie gets wilder, and the guests are charmed.'),
+    (4, None, '\'Well, in taste everything is simply excellent!\' "By taste" uses the small word for "by". The guest is satisfied. He has no idea what he has tasted.'),
+    (5, None, '\'In our restaurant it cannot be any other way.\' "Otherwise" and "cannot be" are two short phrases. Barinov preens, and it\'s his best performance.'),
+    (6, None, '\'Waiter, what is the score in the match now?\' "Score" is the same word as in the owner\'s scene. "In the match" has the ending for "in". He asks a waiter in the middle of a sales pitch.'),
+    (7, None, '\'The score there is three-three now, our guys tied it up!\' "Played back" is how Russian says "equalised". "Ours" is a way to say "our guys", our team. The guest shares the football news.'),
+    (8, None, '\'They had not tied it up like that for twenty years in a row.\' "In a row" is one word. "Twenty years" uses "let", the form after twenty. The guest is amazed, and so is everyone.'),
+    (9, None, '\'And today they suddenly scored three quick goals!\' "Suddenly" is the "vdrug" from the cooks\' scene. "Hit in" is how you score a goal. The guest recounts it with joy.'),
+    (10, None, '\'Did Spartak really let victory slip away in the end again?!\' "Let slip away" is a strong word, as if victory were a fish. "Really" is "neuzheli". Barinov is on the edge of tears.'),
+    (11, None, '\'Football today turned out very nervous and strange.\' "Turned out" stands for a result. "Nervous" is easy to spot. The guest speaks like a commentator.'),
+    (12, None, '\'Indeed, they play like real slackers!\' "Da uzh" is a sarcastic "yes, indeed". "Slackers" comes from "without business", people with nothing to do. Barinov says it bitterly.'),
 ]

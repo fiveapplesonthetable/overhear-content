@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Pressed by Nagiyev, Chef Barinov finally confesses that the supposed sturgeon caviar is dyed pike roe. Furious at the reckless risk to the restaurant's reputation, Nagiyev imposes a crushing fine on the head chef."
-OPENER = "Let's explore Barinov's confession about the dyed pike roe and Nagiyev's furious disciplinary punishment."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Facing a massive deduction and living on edge, Barinov hurries back to the kitchen to see through the banquet service. Next time you watch the episode, listen for the Russian expressions for 'scam' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has been caught. Nagiyev wants the truth, and the chef gives it, with a bit of spin. Then the owner passes sentence. Here's the scene in Russian first."
+OPENER = "Now let's slow it down."
+TRANSITION = 'And once more, the whole scene.'
+OUTRO = "Barinov has lost a month's pay on top of his bet. Max, standing by, tries to follow the rules of address. Speak soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Ладно, это обычная щучья икра, Дим.', 'Fine, it is ordinary pike roe, Dim.', [(299, 'Щучья.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Слушаюсь, шеф, то есть Дмитрий Владимирович.', 'Yes sir, chef, I mean Dmitry Vladimirovich.', [], ''),
 ]
 WALK = [
-    (0, None, "'Fine, it is ordinary pike roe, Dim.' Barinov finally drops the charade and admits the truth."),
-    (1, None, "'Scientists say it is even healthier than black!' After confessing that it is dyed pike roe, Viktor jokes weakly that scientists say pike roe is even healthier."),
-    (2, None, "'Sorry, we could not get decent one in time.' Barinov cites delivery failures for the scam."),
-    (3, None, "'Therefore I decided to dye it a little.' He explains that since they could not get sturgeon caviar in time, he decided to tint the pike roe."),
-    (4, None, "'If your scam surfaces, they will simply kill you!' Nagiyev whispers in horror that if the tough VIP guests find out, they will kill Viktor."),
-    (5, None, "'They will kill you and bury you in the woods.' The owner paints a terrifying picture of revenge."),
-    (6, None, "'I will not even weep at your grave.' He jokes darkly that if they bury Viktor in the woods, he will not even cry at his grave."),
-    (7, None, "'And if it does not surface, you are a real lucky guy.' However, if the guests never notice the dye, Nagiyev says Viktor is the luckiest man alive."),
-    (8, None, "'You will work an entire month without salary!' Even so, for pocketing the caviar money, Nagiyev sentences Viktor to work a full month without pay."),
-    (9, None, "'I am fining you two hundred thousand rubles.' The restaurant owner names the stiff financial penalty."),
-    (10, None, "'Seriously? On what will I live for a month?!' Viktor protests in dismay, asking how he is supposed to live for a month after a two-hundred-thousand-ruble fine."),
-    (11, None, "'That is all, go to the kitchen and do not anger me!' Nagiyev tells him to march back to the kitchen before he makes the fine even worse."),
-    (12, None, "'Yes sir, chef, I mean Dmitry Vladimirovich.' Defeated, Barinov mutters 'yes, chef' — before correcting himself to address the owner."),
+    (0, None, '\'Fine, it is ordinary pike roe, Dim.\' Russians shorten a name when they call someone: "Dima" becomes "Dim". "Ordinary" is the plain word. Barinov gives up. His tone is almost relieved.'),
+    (1, None, '\'Scientists say it is even healthier than black!\' "Healthier" is "useful" with the comparative ending. There is no "than": black caviar takes the "of" ending. Barinov tries a last defence.'),
+    (2, None, '\'Sorry, we could not get decent one in time.\' "Get hold of" means obtaining something. "Decent" is the word "normal". "In time" is one word. He sounds almost apologetic.'),
+    (3, None, '\'Therefore I decided to dye it a little.\' "Poetomu" is "therefore", the cousin of "because". "Dye" is the verb from the kitchen. Barinov confesses without shame.'),
+    (4, None, '\'If your scam surfaces, they will simply kill you!\' "Surfaces" means floats up. "They will kill" has no one named. Nagiyev exaggerates, and the exaggeration is part of the joke.'),
+    (5, None, '\'They will kill you and bury you in the woods.\' "In the woods" is "v lesu", with a special ending for forest. "Bury" is "dig in". Nagiyev adds detail, and the detail is cheerful.'),
+    (6, None, '\'I will not even weep at your grave.\' "Will not even" is "dazhe ne budu". "Grave" is "mogila". Nagiyev speaks lightly of a heavy matter. The effect is comic.'),
+    (7, None, '\'And if it does not surface, you are a real lucky guy.\' "Lucky one" grows from the word that meant "you got lucky" in the first scene. "Real" is the word you know. Nagiyev\'s logic is generous.'),
+    (8, None, '\'You will work an entire month without salary!\' "Without" is the small word from "without lumps". "Salary" takes the "of" ending. Nagiyev\'s sentence is a harsh one, and he delivers it calmly.'),
+    (9, None, '\'I am fining you two hundred thousand rubles.\' "Fine" is the verb from the noun for a fine. Two hundred thousand is exactly what Timur wanted for the caviar. It\'s a tidy joke.'),
+    (10, None, '\'Seriously? On what will I live for a month?!\' "On what" is the cook\'s question about the stove, and now it concerns life. "Live" is the root of "life". Barinov is dismayed.'),
+    (11, None, '\'That is all, go to the kitchen and do not anger me!\' "That\'s all" is "vsyo". "Do not anger" is "don\'t make me angry", from the word for "evil". Nagiyev ends the talk, and it is time for the chef to go.'),
+    (12, None, '\'Yes sir, chef, I mean Dmitry Vladimirovich.\' "Slushayus" is "I listen to myself", with the -sya, and means "yes sir". Max slips and calls Nagiyev "chef". "That is" is the word he uses to correct himself.'),
 ]

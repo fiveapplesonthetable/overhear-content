@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "At the restaurant bar counter, art director Victoria firmly interrogates bartender Kostya about his friend Max's awkward behavior. Kostya attempts to feign ignorance, but accidentally lets slip that Max is deliberately avoiding Victoria, instantly confirming her deepest suspicions. Let's listen to their tense exchange in Russian first."
-OPENER = "Let's review how Victoria questions Kostya in the dining room line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Now you know how to talk about evasive answers, secret avoidance, and direct questioning in Russian. See you next time!'
+INTRO = "Vika is not satisfied with Kostya's first answers, so she questions him again, more sharply. She can tell Max is hiding, and she thinks Kostya knows why. Here's the scene in Russian first."
+OPENER = "Right, let's go back and take it slowly."
+TRANSITION = "Now we'll hear it all again."
+OUTRO = "Kostya has said too much, and Vika has noticed. It's a good example of how not to keep a secret. See you in the next scene."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Костя, что происходит с нашим Максом?', 'Kostya, what is happening with our Max?', [(88, 'А что происходит с Максом')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Вика, я правда ничего не знаю!', 'Vika, I truly know nothing!', [(94, 'Да')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, what is happening with our Max?' Vika demands to know about 'Max'."),
-    (1, None, "'And what is happening with Max at all?' Kostya plays dumb about the situation."),
-    (2, None, "'It is I who is asking you directly right now!' Vika presses for a direct answer."),
-    (3, None, "'I honestly know nothing, Vika.' Kostya claims complete ignorance."),
-    (4, None, "'He is your best friend in the restaurant!' Vika points out their close friendship."),
-    (5, None, "'He told me absolutely nothing.' Kostya repeats that he knows nothing."),
-    (6, None, "'You are clearly concealing the truth from me.' Vika accuses him of hiding things."),
-    (7, None, "'I do not know why he is hiding!' Kostya expresses confusion over the hiding."),
-    (8, None, "'So that means Max is hiding from me?' Vika connects the dots about 'Max'."),
-    (9, None, "'What? No! Who is hiding at all?' Kostya scrambles to retract his statement with frantic exclamations."),
-    (10, None, "'Kostya, do not try to deceive me right now!' Vika threatens him to tell the truth."),
-    (11, None, "'Vika, I truly know nothing!' Kostya frantically denies knowing anything again."),
+    (0, None, '\'Kostya, what is happening with our Max?\' Russians put "our" in front of a person they\'re fond of, like a friend or a colleague. The russian for "happens" is a general one, "goes on". Vika asks it quite calmly, at first.'),
+    (1, None, '\'And what is happening with Max at all?\' Kostya stalls by asking the same question back. It\'s the oldest trick in the book. The "at all" filler is the one from the knife scene. Vika is not fooled for a second.'),
+    (2, None, '\'It is I who is asking you directly right now!\' "It\'s me who asks you" is a natural way to insist. "Directly" is the word meaning "straight". Vika is losing patience, and she says so.'),
+    (3, None, '\'I honestly know nothing, Vika.\' "Honestly" is built on "honest". And "nothing not know" gives you two negatives for one. Kostya says it softly, as if saying it softly made it more believable.'),
+    (4, None, '\'He is your best friend in the restaurant!\' "Best" is related to "better", which is why they sound alike. Vika points out the obvious. She knows what friends tell each other.'),
+    (5, None, '\'He told me absolutely nothing.\' "Absolutely nothing" is "completely nothing", and "not told" comes with it. Kostya is piling on the negatives. The more he piles on, the less believable he sounds.'),
+    (6, None, '\'You are clearly concealing the truth from me.\' Russian has one word for "hide yourself" and another for "hide something". This is the second: to conceal. Vika picks the right one. She names the secret without knowing it.'),
+    (7, None, '\'I do not know why he is hiding!\' Kostya slips. The word is the first one, "hides himself". He has just told her that Max is hiding, which was the very thing he was supposed not to say.'),
+    (8, None, '\'So that means Max is hiding from me?\' Vika uses "that is" to draw her conclusion. "From me" is the little word for "away from". She is not asking, but stating. She has pulled the thread, and the sweater is coming apart.'),
+    (9, None, "'What? No! Who is hiding at all?' Kostya tries to back out of it. His questions come tumbling out, one after another. It's the sound of a man who knows he has made a mistake."),
+    (10, None, '\'Kostya, do not try to deceive me right now!\' "Try" here is "attempt", a different word from "try a dish". Vika\'s tone is stern. She says "deceive" in a form that means "pull one over".'),
+    (11, None, '\'Vika, I truly know nothing!\' The Russian word for "truth" can also mean "really", so Kostya says "truth nothing I know". He is on the ropes, and his defence has become a plea.'),
 ]

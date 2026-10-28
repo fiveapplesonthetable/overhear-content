@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "As Tanya enthusiastically suggests arranging a quick registry appointment and announcing the wedding to the whole dining room, both Max and Victoria instantly regret their impulsive game of chicken. Admitting they moved too fast, they hastily backtrack. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the panic of hasty commitments, expressions of regret, and comedic retreat from marriage."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Realizing that they both acted far too impulsively in the heat of the moment, Max and Victoria agree to postpone any wedding talk indefinitely. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "The pretend engagement is going further than either of them expected. They talk about the registry office, and then both of them get cold feet. Here's the scene in Russian first."
+OPENER = "Now let's go through it slowly."
+TRANSITION = 'And the whole scene again.'
+OUTRO = 'The wedding is on hold, at least for now, and the football match is about to begin. Max goes back to work. See you in the next scene.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Мы подадим официальное заявление в загс?', 'Will we submit an official application to the registry office?', [(276, 'подадим заявление')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Иди работай, свадьба пока точно подождёт!', 'Go work, the wedding will definitely wait for now!', [(287, 'Идите, идите')], ''),
 ]
 WALK = [
-    (0, None, "'Will we submit an official application to the registry office?' Still refusing to blink first, Max asks if they should head to the registry office to file the paperwork."),
-    (1, None, "'Tanya, do you have acquaintances at the registry office?' Raising the stakes, Vika asks her sister Tanya if she has a friend at the registry office to speed things up."),
-    (2, None, "'Please help us sign the register as fast as possible.' Sweating now, Max begs Tanya to help them get married as fast as humanly possible."),
-    (3, None, "'Let's tell this news to all the guests of the restaurant!' Vika suggests announcing their engagement to the entire restaurant right now."),
-    (4, None, "'Wait, it seems I jumped the gun a little now.' Finally cracking, Max calls a timeout and admits he might have rushed things a bit."),
-    (5, None, "'To be honest, I also rushed with the answer too much.' Relieved that he blinked, Vika admits she also answered a little too hastily."),
-    (6, None, "'So, both of us need to think carefully.' Max quickly agrees that both of them should think things over carefully first."),
-    (7, None, "'Yes, it is better for us to wait a little with the wedding.' Vika nods that holding off on the wedding is definitely wiser."),
-    (8, None, "'Chef, will you help us sort this out calmly?' Turning to the chef for backup, Max asks if Viktor will help them sort this out."),
-    (9, None, "'The chef doesn't want to listen to our family arguments.' Already stressed about his football bet, Barinov wants no part of their lovers' quarrel."),
-    (10, None, "'Viktor has an important football match starting now.' Vika notes that Viktor's big football match is kicking off right now."),
-    (11, None, "'Then we will sort everything out ourselves later.' Max agrees they will settle their score later on their own."),
-    (12, None, "'Go work, the wedding will definitely wait for now!' Calling a truce, Vika sends him back to the kitchen and says the wedding can wait."),
+    (0, None, '\'Will we submit an official application to the registry office?\' "Zags" is an acronym from the Soviet years for the civil registry office, and Russians still say it. "Submit" is the same as "serve". Max is practical, as people are in a panic.'),
+    (1, None, '\'Tanya, do you have acquaintances at the registry office?\' "Acquaintances" grows from "get acquainted". Vika gets her sister involved. Her words are casual, but the plan is serious.'),
+    (2, None, '\'Please help us sign the register as fast as possible.\' "Sign" in this sense means to get married officially. "As possible" uses "can", so "as quickly as can be". Max sounds anxious.'),
+    (3, None, '\'Let\'s tell this news to all the guests of the restaurant!\' "Let\'s tell" is a polite "let\'s". "To all the guests" has the ending for "to". Vika is half joking. She wants Max to panic.'),
+    (4, None, '\'Wait, it seems I jumped the gun a little now.\' "Hurried" is the word related to "in a hurry". "Slightly" is a small word. Max has had time to think, and the thinking is not kind.'),
+    (5, None, '\'To be honest, I also rushed with the answer too much.\' "Honestly speaking" is a fixed phrase. "Rushed" has the woman\'s -las. Vika is as nervous as he is, and she is the first to say so.'),
+    (6, None, '\'So, both of us need to think carefully.\' "Both" has the "to" ending: "to both it is necessary". "Thoroughly" is a gentler form of "well". They are being sensible at last.'),
+    (7, None, '\'Yes, it is better for us to wait a little with the wedding.\' "For us better" is the usual pattern. "With the wedding" has the "with" ending. Vika agrees, and both of them relax.'),
+    (8, None, '\'Chef, will you help us sort this out calmly?\' "Sort out" is the word that Barinov used for solving the stove problem. "Will help" is in the polite form. Max asks, and the chef is busy.'),
+    (9, None, '\'The chef doesn\'t want to listen to our family arguments.\' "Family" is an adjective here. A "spor" is a dispute and also a bet, both in one word. Max speaks about Barinov, who is nowhere near.'),
+    (10, None, '\'Viktor has an important football match starting now.\' "At Viktor" is Russian for "Viktor has". "Starts" is the -sya word, "begins itself". Vika knows what is on the chef\'s mind.'),
+    (11, None, '\'Then we will sort everything out ourselves later.\' "Ourselves" is the word "sami". "Sort out everything" shows "in everything" in its ending. Max puts off the problem.'),
+    (12, None, '\'Go work, the wedding will definitely wait for now!\' "Go work" has no "and" in Russian, just two words. "For now" means "while". Vika ends the scene as a manager would.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the Claude Monet kitchen, Fedya and Senya finish preparing the caviar for the VIP table. Fedya inspects the bowl and worries they did not add enough dye, but Senya insists it looks perfectly authentic. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Checking the Caviar line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the kitchen, Fedya worries they did not add enough black dye to the caviar, but Senya reassures him that it looks completely authentic before sending it to the dining room. Next time you watch the episode, listen for the Russian expressions for 'real' and 'suddenly' — you will catch every word right away. See you next time!"
+INTRO = "The caviar is nearly done, and Fedya is worried that it isn't quite finished. Senya assures him it's perfect. Here's the scene in Russian first."
+OPENER = "Let's go through it slowly."
+TRANSITION = 'And one more time.'
+OUTRO = "The cooks carry the caviar out to the dining room. Whatever happens now, it's too late to go back. Until next time."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, подойди сюда на секунду.', 'Senya, come over here for a second.', [], ''),
@@ -30,12 +30,16 @@ STORY = [
     ('senya', 'Давай, выносим икру в зал.', 'Come on, let us bring the caviar into the hall.', [(248, 'выносим икру.')], ''),
 ]
 WALK = [
-    (0, None, "'Senya, come over here for a second.' Before sending the caviar out, Fedya calls Senya over for one last check."),
-    (1, None, "'I think we did not finish dyeing it.' Squinting at the bowl, Fedya worries that they missed a few yellow spots."),
-    (2, None, "'Come on, it is completely black!' Senya waves the concern away, insisting the roe is pitch black."),
-    (3, None, "'What if Chef sees light caviar eggs?' Fedya asks nervously what will happen if the chef spots any pale grains."),
-    (4, None, "'Nobody will notice anything suspicious.' Senya assures him that nobody is going to notice anything odd."),
-    (5, None, "'All right, all right, you convinced me.' Reluctantly convinced, Fedya gives in."),
-    (6, None, "'Then call the waiter, it is time to serve the dish.' Senya tells him to call the waiter over because it is time to serve the VIP table."),
-    (7, None, "'Come on, let us bring the caviar into the hall.' With a deep breath, they send the dyed caviar out into the dining room. Now listen to the full conversation once more."),
+    (0, None, '\'Senya, come over here for a second.\' "Come up" is the walking-up word. "Here" is the plain one. Fedya calls his friend over, with a worried look.'),
+    (1, None, '\'What is it, Fedya? Is everything ready?\' "What such" is the "what is it" from earlier. The second question has only a rising voice. Senya is relaxed, and he wants to go on.'),
+    (2, None, '\'I think we did not finish dyeing it.\' The prefix "do-" means "to the end", so "finish painting". "It seems to me" is the usual hedge. Fedya has seen something the other missed.'),
+    (3, None, '\'Come on, it is completely black!\' "Drop it" is how Russians say "come on". "Absolutely" is a strong word. Senya is dismissive. He is also trying to convince himself.'),
+    (4, None, '\'What if Chef sees light caviar eggs?\' "What if" is made of "and suddenly". A single egg is "ikrinka", the caviar with a singular ending. Fedya worries about a few pale eggs.'),
+    (5, None, '\'Nobody will notice anything suspicious.\' "Nothing of suspicious" has the "of" ending. "Suspicious" is built on "suspicion". Senya answers calmly, like a man selling a car.'),
+    (6, None, '\'If the caviar were not like real caviar,\' "If would" is how Russian marks an unreal "if". The little "by" is the same one as in "I would drink". Senya builds an argument.'),
+    (7, None, '\'you would not be tasting it yourself right now.\' The "by" appears again, with "not" and "tasting". Senya\'s logic is a bit of a trap. He is clever, and also a little ridiculous.'),
+    (8, None, '\'All right, all right, you convinced me.\' "Convinced" is a short word. Repeating "fine" makes it reluctant. Fedya gives in. His doubts are not gone.'),
+    (9, None, '\'Then call the waiter, it is time to serve the dish.\' "Call" is the command for summoning. "It\'s time" is the one-word sentence from the baking lesson. Senya takes over the service.'),
+    (10, None, '\'Waiter, take the order for table one!\' "Take away" is the one for the dish. "For table one" uses the small word for "for". The cooks now behave like professionals.'),
+    (11, None, '\'Come on, let us bring the caviar into the hall.\' "Bring out" has the prefix for "out". "Into the hall" is the dining room. Senya leads the way. The pike caviar goes to the guests.'),
 ]

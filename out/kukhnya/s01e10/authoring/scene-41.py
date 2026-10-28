@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the lavish dining hall of Claude Monet, restaurant owner Dmitry Nagiyev summons Chef Viktor Barinov to his table. Eyeing a plate of strangely colored black caviar intended for wealthy guests, Nagiyev demands an immediate and honest explanation.'
-OPENER = "Let's watch Nagiyev confront Chef Barinov over suspicious caviar served in the main dining hall."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Cornered by his sharp-eyed boss in front of empty tables, Barinov realizes his culinary deception cannot last. Next time you watch the episode, listen for the Russian expressions for 'to lie' and 'to speak' — you will catch every word right away. See you next time!"
+INTRO = "The owner of the restaurant, Dmitry Nagiyev, has a plate of caviar in front of him, and he does not like what he sees. Barinov has to explain, which is difficult. Here's the scene in Russian first."
+OPENER = "Let's go through it slowly."
+TRANSITION = 'Now the whole scene again.'
+OUTRO = 'The chef is under pressure, and the truth is about to come out. Nagiyev is not fooled. See you in the next scene.'
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Витя, иди скорее сюда к столу!', 'Vitya, come quickly here to the table!', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nagiyev', 'Не ври мне, говори сейчас всю правду!', 'Do not lie to me, tell the whole truth now!', [], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, come quickly here to the table!' Nagiyev calls the head chef into the dining room."),
-    (1, None, "'What happened, Dmitry Vladimirovich, what is the matter?' Approaching Nagiyev's table, Barinov asks what the urgent matter is."),
-    (2, None, "'Vitya, tell me straight, what is this?' Pointing down at the bowl on the table, Nagiyev demands to know what he is looking at."),
-    (3, None, "'What? What is this on the plate?' Pointing straight at the suspiciously dark appetizer, Barinov demands to know what is sitting on the plate."),
-    (4, None, "'This is real fresh Russian caviar.' Putting on a confident front, Viktor declares it is genuine fresh Russian caviar."),
-    (5, None, "'And very expensive and very good caviar!' He piles on the praise, calling it top-shelf luxury roe."),
-    (6, None, "'Vitya, are you a complete fool or pretending?' Having seen the black food dye bleeding onto the plate, Nagiyev asks if Viktor thinks he is a complete fool."),
-    (7, None, "'In what sense a fool, I do not understand you!' Viktor plays innocent and claims he has no idea what Dmitry means."),
-    (8, None, "'What is this, I am strictly asking you?!' Nagiyev taps the stained plate and demands an honest answer right now."),
-    (9, None, "'The guests asked for black caviar for the holiday table.' Viktor reminds him that the VIP guests ordered black caviar for their celebration."),
-    (10, None, "'But the color of this caviar is strange and suspicious.' Nagiyev points out that the 'black' caviar is leaking a very suspicious dark ring."),
-    (11, None, "'Special lighting in the hall changes all shades.' Thinking fast, Viktor blames the restaurant's lighting for playing tricks on the color."),
-    (12, None, "'Do not lie to me, tell the whole truth now!' Nagiyev cuts him off and orders him to stop lying and confess the truth."),
+    (0, None, '\'Vitya, come quickly here to the table!\' Nagiyev uses the friendly "Vitya", not "Viktor". "Go here" is how Russians say "come here". The owner is brisk, and he wants an answer.'),
+    (1, None, '\'What happened, Dmitry Vladimirovich, what is the matter?\' Barinov uses the full name and father\'s name. "In what is the matter" is the pair you know. He is polite, and wary.'),
+    (2, None, '\'Vitya, tell me straight, what is this?\' "Chego" is a casual form of "what", and the line has no verb at all: "this of what?". It means "what on earth is this?". Nagiyev is amused and angry at once.'),
+    (3, None, '\'What? What is this on the plate?\' Barinov repeats the question to buy time. "On the plate" has the "on" ending. He plays dumb, and the audience can see it.'),
+    (4, None, '\'This is real fresh Russian caviar.\' "The very real" is "the most real", with "most" doing the work of "the very". Barinov swears it, a little too loudly.'),
+    (5, None, '\'And very expensive and very good caviar!\' "Moreover" opens the line. "Expensive" is the "dear" word, and "good" is "khoroshaya". Barinov piles up the adjectives, which is a bad sign.'),
+    (6, None, '\'Vitya, are you a complete fool or pretending?\' "Fool" is what Vika used for Max. "Pretend" has the -sya, "pretend oneself". Nagiyev is not fooled, and the tone is dry.'),
+    (7, None, '\'In what sense a fool, I do not understand you!\' "In what sense" is a casual "what do you mean". Barinov uses the polite "you" and fakes hurt. He is a poor actor.'),
+    (8, None, '\'What is this, I am strictly asking you?!\' "Strictly" comes from the term for "strict". The question is repeated, with more weight. Nagiyev is now in charge, and the chef knows it.'),
+    (9, None, '\'The guests asked for black caviar for the holiday table.\' "To the holiday table" is "k prazdnichnomu stolu". "Festive" is the cake word. Barinov explains, pointing at the guests, as if they were to blame.'),
+    (10, None, '\'But the color of this caviar is strange and suspicious.\' "Strange" and "suspicious" are two adjectives, with the second built on "suspicion". Nagiyev sees what everyone else has missed.'),
+    (11, None, '\'Special lighting in the hall changes all shades.\' "Light" is also what Russian calls "world", in "in the world". "Shades" are hues. Barinov invents an excuse, and the excuse is absurd.'),
+    (12, None, '\'Do not lie to me, tell the whole truth now!\' "Lie" covers fib, which Tanya used about the chef. "Whole truth" is "all truth". Nagiyev closes the argument.'),
 ]

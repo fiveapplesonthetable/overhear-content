@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Здравствуйте, я вас внимательно слушаю. | Hello, I am listening to you attentively. | #7: Я вас слушаю. Здравствуйте, Виктор | verbatim |
-| 2 | Девушка | Вы отлично выступали в нашем кулинарном шоу. | You performed wonderfully on our culinary show. | #8: кулинарном шоу? | verbatim |
-| 3 | Шеф | И что решили ваши строгие продюсеры? | And what did your strict producers decide? | #9: нашим продюсерам. | verbatim |
-| 4 | Девушка | Мы хотим предложить вам постоянную работу. | We want to offer you a permanent job. | #10: хотят предложить вам | verbatim |
-| 5 | Шеф | Во сколько вы оценили мою работу? | At how much did you value my work? | #12: во сколько ваши продюсеры оценили мою работу? | verbatim |
-| 6 | Девушка | Десять тысяч за каждую новую передачу. | Ten thousand for each new broadcast. | #14: Десять, десять одна программа. | verbatim |
-| 7 | Шеф | Десять тысяч евро за один выпуск? | Ten thousand euros for one episode? | #15: Евро? | verbatim |
-| 8 | Девушка | Нет, мы платим десять тысяч рублей. | No, we pay ten thousand rubles. | #15: Рублей. | verbatim |
-| 9 | Шеф | Тогда до свидания, а лучше прощайте! | Then goodbye, or rather farewell! | #16: До свидания. Нет, лучше прощайте. | verbatim |
-| 10 | Девушка | Подождите, Виктор, давайте спокойно всё обсудим. | Wait, Viktor, let us calmly discuss everything. | #17: Подождите. Давайте мы с вами обсудим. | verbatim |
-| 11 | Шеф | Вы предлагаете работать в мой выходной день. | You propose that I work on my day off. | #18: Вы мне предлагаете работать в мой выходной день | verbatim |
+| 1 | Шеф | Здравствуйте, я вас внимательно слушаю. | Hello, I am listening to you attentively. | #7 00:01:09: Я вас слушаю. Здравствуйте, Виктор | verbatim |
+| 2 | Девушка | Вы отлично выступали в нашем кулинарном шоу. | You performed wonderfully on our culinary show. | #8 00:01:12: кулинарном шоу? | verbatim |
+| 3 | Шеф | И что решили ваши строгие продюсеры? | And what did your strict producers decide? | #9 00:01:15: нашим продюсерам. | verbatim |
+| 4 | Девушка | Мы хотим предложить вам постоянную работу. | We want to offer you a permanent job. | #10 00:01:17: хотят предложить вам | verbatim |
+| 5 | Шеф | Во сколько вы оценили мою работу? | At how much did you value my work? | #12 00:01:22: во сколько ваши продюсеры оценили мою работу? | verbatim |
+| 6 | Девушка | Десять тысяч за каждую новую передачу. | Ten thousand for each new broadcast. | #14 00:01:29: Десять, десять одна программа. | verbatim |
+| 7 | Шеф | Десять тысяч евро за один выпуск? | Ten thousand euros for one episode? | #15 00:01:31: Евро? | verbatim |
+| 8 | Девушка | Нет, мы платим десять тысяч рублей. | No, we pay ten thousand rubles. | #15 00:01:31: Рублей. | verbatim |
+| 9 | Шеф | Тогда до свидания, а лучше прощайте! | Then goodbye, or rather farewell! | #16 00:01:32: До свидания. Нет, лучше прощайте. | verbatim |
+| 10 | Девушка | Подождите, Виктор, давайте спокойно всё обсудим. | Wait, Viktor, let us calmly discuss everything. | #17 00:01:35: Подождите. Давайте мы с вами обсудим. | verbatim |
+| 11 | Шеф | Вы предлагаете работать в мой выходной день. | You propose that I work on my day off. | #18 00:01:37: Вы мне предлагаете работать в мой выходной день | verbatim |
 | 12 | Девушка | Это сделает ваш ресторан очень известным. | This will make your restaurant very famous. | new | new |
-| 13 | Шеф | Я не работаю за такие смешные копейки! | I do not work for such ridiculous kopecks! | #19: да еще за копейки. | verbatim |
+| 13 | Шеф | Я не работаю за такие смешные копейки! | I do not work for such ridiculous kopecks! | #19 00:01:41: да еще за копейки. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I am listening to you attentively.' Putting on his polite professional manner, Barinov greets the television representative and invites her to speak.
-- 'You performed wonderfully on our culinary show.' The young producer starts with flattery, praising how well Viktor performed on their cooking show.
-- 'And what did your strict producers decide?' Flattered and intrigued, Barinov asks what her strict studio producers have decided.
-- 'We want to offer you a permanent job.' Woman voices the thought smoothly and naturally.
-- 'At how much did you value my work?' Getting straight to business, he asks how much the network is offering to pay him.
-- 'Ten thousand for each new broadcast.' She names the studio's offer: ten thousand for each new episode of the morning show.
-- 'Ten thousand euros for one episode?' Barinov's eyes light up, assuming the television network means ten thousand euros per broadcast.
-- 'No, we pay ten thousand rubles.' Woman puts the idea across in a natural everyday manner.
-- 'Then goodbye, or rather farewell!' Outraged to hear the offer is in rubles, Barinov dramatically bids her farewell on the spot.
-- 'Wait, Viktor, let us calmly discuss everything.' Taken aback by his outburst, the producer asks Viktor to wait and discuss the offer calmly.
-- 'You propose that I work on my day off.' Barinov articulates the point with simple everyday clarity.
-- 'This will make your restaurant very famous.' She tries to sweeten the deal by arguing that television exposure will make his restaurant famous.
-- 'I do not work for such ridiculous kopecks!' Insulted by the low pay, Barinov scoffs that a master chef does not work for mere pennies.
+- 'Hello, I am listening to you attentively.' This is a polite opening, "I you listen", and the "you" is the formal one. It's what Russians say at the start of a business talk. Barinov is playing the gentleman.
+- 'You performed wonderfully on our culinary show.' "Performed" means to appear in front of an audience. "Culinary" is built from the term for the kitchen, and "show" is the English word, which never changes. It's a compliment.
+- 'And what did your strict producers decide?' Barinov says "strict" about people he has never met. He is hinting, with a smile. "Decided" is the same word Barinov used in the kitchen scene. He goes straight to money.
+- 'We want to offer you a permanent job.' "Permanent" grows out of what Russian calls "constant". "Offer" has "to you" inside the sentence, so the woman is polite. It sounds like good news, until she names the sum.
+- 'At how much did you value my work?' "Into how much" is Russian for "at what price". It's a blunt way to ask about money. Barinov values his work highly, and he wants to hear the number.
+- 'Ten thousand for each new broadcast.' A "broadcast" is something passed on, the same word as "pass on". "Thousand" comes in the plural here. She says it brightly, as if it were a lot. It isn't.
+- 'Ten thousand euros for one episode?' "Euro" never changes its ending. "Episode" here is an issue, something released. Barinov hopes she means euros, and she doesn't. His voice is hopeful, and then it drops.
+- 'No, we pay ten thousand rubles.' "Pay" is what the guests used for paying a hundred thousand for the cake. After "ten", the rubles take the plural "of" ending. She says it kindly, and kindness is not what he wants.
+- 'Then goodbye, or rather farewell!' The usual goodbye is "until seeing", meaning "until we meet again". The other one is the final "farewell". So Barinov means he doesn't want to see her again, ever.
+- 'Wait, Viktor, let us calmly discuss everything.' She uses the polite plural "wait" and the polite "let's". She calls him by his first name. A television woman knows how to keep a man in the room.
+- 'You propose that I work on my day off.' A "day off" in Russian is literally an "exit day", the day you go out. And the sentence is built on "you propose". Barinov lines up his objections like plates.
+- 'This will make your restaurant very famous.' "Famous" here means "known", and it was used for the pastry chef. She changes tack, from his salary to the restaurant's name. It's a smart argument, though not enough.
+- 'I do not work for such ridiculous kopecks!' A hundred kopecks make a ruble, so it's what English calls peanuts. The word for ridiculous is the one meaning "funny". Barinov says it with great contempt, and he walks away.

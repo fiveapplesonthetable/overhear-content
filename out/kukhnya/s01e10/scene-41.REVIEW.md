@@ -12,13 +12,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Нагиев | Витя, иди скорее сюда к столу! | Vitya, come quickly here to the table! | new | new |
 | 2 | Шеф | Что случилось, Дмитрий Владимирович, в чём дело? | What happened, Dmitry Vladimirovich, what is the matter? | new | new |
-| 3 | Нагиев | Витя, скажи мне прямо, это чего? | Vitya, tell me straight, what is this? | #293: Вить, это чего? | verbatim |
-| 4 | Шеф | Чего? Вот это на тарелке чего? | What? What is this on the plate? | #294: Чего? Вот это чего? | verbatim |
-| 5 | Шеф | Это самая настоящая свежая русская икра. | This is real fresh Russian caviar. | #295: Икра. | verbatim |
-| 6 | Шеф | Причём очень дорогая и очень хорошая икра! | And very expensive and very good caviar! | #296: Причем очень хорошая. | verbatim |
-| 7 | Нагиев | Витя, ты совсем дурак или притворяешься? | Vitya, are you a complete fool or pretending? | #297: Вить, ты дурак? | verbatim |
-| 8 | Шеф | В каком смысле дурак, не понимаю вас! | In what sense a fool, I do not understand you! | #297: В смысле? | verbatim |
-| 9 | Нагиев | Вот это чего, я тебя строго спрашиваю?! | What is this, I am strictly asking you?! | #298: Вот это чего я тебя спрашиваю? | verbatim |
+| 3 | Нагиев | Витя, скажи мне прямо, это чего? | Vitya, tell me straight, what is this? | #293 00:20:57: Вить, это чего? | verbatim |
+| 4 | Шеф | Чего? Вот это на тарелке чего? | What? What is this on the plate? | #294 00:20:59: Чего? Вот это чего? | verbatim |
+| 5 | Шеф | Это самая настоящая свежая русская икра. | This is real fresh Russian caviar. | #295 00:21:02: Икра. | verbatim |
+| 6 | Шеф | Причём очень дорогая и очень хорошая икра! | And very expensive and very good caviar! | #296 00:21:05: Причем очень хорошая. | verbatim |
+| 7 | Нагиев | Витя, ты совсем дурак или притворяешься? | Vitya, are you a complete fool or pretending? | #297 00:21:06: Вить, ты дурак? | verbatim |
+| 8 | Шеф | В каком смысле дурак, не понимаю вас! | In what sense a fool, I do not understand you! | #297 00:21:06: В смысле? | verbatim |
+| 9 | Нагиев | Вот это чего, я тебя строго спрашиваю?! | What is this, I am strictly asking you?! | #298 00:21:11: Вот это чего я тебя спрашиваю? | verbatim |
 | 10 | Шеф | Гости просили чёрную икру к праздничному столу. | The guests asked for black caviar for the holiday table. | new | new |
 | 11 | Нагиев | Но цвет у этой икры странный и подозрительный. | But the color of this caviar is strange and suspicious. | new | new |
 | 12 | Шеф | Особый свет в зале меняет все оттенки. | Special lighting in the hall changes all shades. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, come quickly here to the table!' Nagiyev calls the head chef into the dining room.
-- 'What happened, Dmitry Vladimirovich, what is the matter?' Approaching Nagiyev's table, Barinov asks what the urgent matter is.
-- 'Vitya, tell me straight, what is this?' Pointing down at the bowl on the table, Nagiyev demands to know what he is looking at.
-- 'What? What is this on the plate?' Pointing straight at the suspiciously dark appetizer, Barinov demands to know what is sitting on the plate.
-- 'This is real fresh Russian caviar.' Putting on a confident front, Viktor declares it is genuine fresh Russian caviar.
-- 'And very expensive and very good caviar!' He piles on the praise, calling it top-shelf luxury roe.
-- 'Vitya, are you a complete fool or pretending?' Having seen the black food dye bleeding onto the plate, Nagiyev asks if Viktor thinks he is a complete fool.
-- 'In what sense a fool, I do not understand you!' Viktor plays innocent and claims he has no idea what Dmitry means.
-- 'What is this, I am strictly asking you?!' Nagiyev taps the stained plate and demands an honest answer right now.
-- 'The guests asked for black caviar for the holiday table.' Viktor reminds him that the VIP guests ordered black caviar for their celebration.
-- 'But the color of this caviar is strange and suspicious.' Nagiyev points out that the 'black' caviar is leaking a very suspicious dark ring.
-- 'Special lighting in the hall changes all shades.' Thinking fast, Viktor blames the restaurant's lighting for playing tricks on the color.
-- 'Do not lie to me, tell the whole truth now!' Nagiyev cuts him off and orders him to stop lying and confess the truth.
+- 'Vitya, come quickly here to the table!' Nagiyev uses the friendly "Vitya", not "Viktor". "Go here" is how Russians say "come here". The owner is brisk, and he wants an answer.
+- 'What happened, Dmitry Vladimirovich, what is the matter?' Barinov uses the full name and father's name. "In what is the matter" is the pair you know. He is polite, and wary.
+- 'Vitya, tell me straight, what is this?' "Chego" is a casual form of "what", and the line has no verb at all: "this of what?". It means "what on earth is this?". Nagiyev is amused and angry at once.
+- 'What? What is this on the plate?' Barinov repeats the question to buy time. "On the plate" has the "on" ending. He plays dumb, and the audience can see it.
+- 'This is real fresh Russian caviar.' "The very real" is "the most real", with "most" doing the work of "the very". Barinov swears it, a little too loudly.
+- 'And very expensive and very good caviar!' "Moreover" opens the line. "Expensive" is the "dear" word, and "good" is "khoroshaya". Barinov piles up the adjectives, which is a bad sign.
+- 'Vitya, are you a complete fool or pretending?' "Fool" is what Vika used for Max. "Pretend" has the -sya, "pretend oneself". Nagiyev is not fooled, and the tone is dry.
+- 'In what sense a fool, I do not understand you!' "In what sense" is a casual "what do you mean". Barinov uses the polite "you" and fakes hurt. He is a poor actor.
+- 'What is this, I am strictly asking you?!' "Strictly" comes from the term for "strict". The question is repeated, with more weight. Nagiyev is now in charge, and the chef knows it.
+- 'The guests asked for black caviar for the holiday table.' "To the holiday table" is "k prazdnichnomu stolu". "Festive" is the cake word. Barinov explains, pointing at the guests, as if they were to blame.
+- 'But the color of this caviar is strange and suspicious.' "Strange" and "suspicious" are two adjectives, with the second built on "suspicion". Nagiyev sees what everyone else has missed.
+- 'Special lighting in the hall changes all shades.' "Light" is also what Russian calls "world", in "in the world". "Shades" are hues. Barinov invents an excuse, and the excuse is absurd.
+- 'Do not lie to me, tell the whole truth now!' "Lie" covers fib, which Tanya used about the chef. "Whole truth" is "all truth". Nagiyev closes the argument.

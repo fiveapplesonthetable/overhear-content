@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the kitchen of Claude Monet, cooks Senya and Fedya have bought cheap pike caviar to replace sturgeon caviar. To pull off the trick, Senya prepares special food dye to turn the golden caviar pitch black. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around The Secret Recipe line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the kitchen, Senya and Fedya inspect the golden pike caviar and prepare black food coloring to disguise it as expensive sturgeon caviar. Next time you watch the episode, listen for the Russian expressions for 'of course' and 'colour' — you will catch every word right away. See you next time!"
+INTRO = "Fedya has noticed what Senya is doing, and he is not sure it's a good idea. Senya has an answer for everything. Here's the scene in Russian first."
+OPENER = "Now we'll go through it slowly."
+TRANSITION = 'And once more, the whole scene.'
+OUTRO = "The colour is starting to change, and both cooks are impressed. The risk is with the chef, who doesn't know. Catch you next time."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, ты уверен в этой идее?', 'Senya, are you sure about this idea?', [], ''),
@@ -30,13 +30,16 @@ STORY = [
     ('senya', 'Отлично, получается настоящая осетровая икра!', 'Excellent, it is turning out like real sturgeon caviar!', [], ''),
 ]
 WALK = [
-    (0, None, "'Senya, are you sure about this idea?' When Fedya walks in on the caviar dyeing operation, he asks if Senya is sure about this crazy idea."),
-    (1, None, "'Of course, this is a brilliant plan!' Senya brushes off his worry and calls the plan pure genius."),
-    (2, None, "'Now we will carefully dye it.' He explains that they only need to tint the roe evenly."),
-    (3, None, "'I have a special black food coloring.' He holds up the bottle of natural black food coloring."),
-    (4, None, "'And the guests will not notice anything?' Still nervous, Fedya asks whether the wealthy guests will notice the swap."),
-    (5, None, "'They will think that this is expensive caviar.' Senya is sure the diners will think they are eating top-shelf sturgeon caviar."),
-    (6, None, "'Take the big spoon and stir.' He hands Fedya a big spoon and tells him to help stir."),
-    (7, None, "'Look, the color is already starting to change.' Watching the bowl darken, Fedya admits the color is transforming right before their eyes."),
-    (8, None, "'Excellent, it is turning out like real sturgeon caviar!' Senya declares triumphantly that it looks just like real black caviar now. Now listen to the full conversation once more."),
+    (0, None, '\'Senya, are you sure about this idea?\' "Sure of" uses the little word for "in", so "sure in this idea". Fedya is the cautious one. He has doubts, and he says them politely.'),
+    (1, None, '\'Of course, this is a brilliant plan!\' "Brilliant" grows out of "genius". Senya answers at once, with no doubts at all. The scene is a contest of nerves.'),
+    (2, None, '\'It is completely yellow, like sand.\' The little "zhe" adds "look at it". "Sand" is a short word. Fedya describes the caviar\'s colour, and his picture is a good one.'),
+    (3, None, '\'Now we will carefully dye it.\' "Carefully" is the one from the chef\'s instructions. "Will dye" has the "po-". Senya repeats his boss\'s words, as a cook repeats a recipe.'),
+    (4, None, '\'What dye will you paint it with?\' The question has the "with" ending: "with what dye". "Dye" and "paint" are the same word. Fedya is practical and wants details.'),
+    (5, None, '\'I have a special black food coloring.\' "At me there is" is the pattern. "Special" is easy to spot. Senya has the dye in his pocket, like a cook with a secret.'),
+    (6, None, '\'And the guests will not notice anything?\' The question is just a rising voice. "Not notice nothing" is the double negative. Fedya wants to be sure, and his doubts are reasonable.'),
+    (7, None, '\'They will think that this is expensive caviar.\' "Will think" uses "po-" again. "Expensive" is the "dear" one. Senya states the whole plan in one sentence.'),
+    (8, None, '\'Then let us quickly begin the work.\' "Then" and "give" make "so, let\'s". "Work" has the ending for the thing being begun. Fedya gives in. The decision takes a second.'),
+    (9, None, '\'Take the big spoon and stir.\' "Take" is the command from "take a spoon". "Stir through" has a prefix for "thoroughly". Senya passes on the tools and the orders.'),
+    (10, None, '\'Look, the color is already starting to change.\' "Starts" and "change" are two short words. The root of "change" is in the word from the chef\'s lecture, "will change". The caviar is darkening.'),
+    (11, None, '\'Excellent, it is turning out like real sturgeon caviar!\' Real black caviar comes from the sturgeon. "Turns out" is the word of a result. Senya is thrilled. He has made a fortune out of a pike.'),
 ]
