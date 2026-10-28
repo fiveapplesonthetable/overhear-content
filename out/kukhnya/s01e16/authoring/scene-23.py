@@ -36,7 +36,7 @@ WALK = [
     (4, None, "'It came out exactly the same.' 'Poluchilos' means 'it turned out', and Russians say it about any dish or plan that worked. 'Odin v odin', literally 'one into one', means 'identical'."),
     (5, None, "'Even a little better.' 'Chut-chut' means 'a tiny bit', and doubling the word makes it smaller. 'Luchshe', 'better', looks nothing like 'khorosho', 'good'."),
     (6, None, "'No way!' 'Da ladno', literally 'yes, all right', is said with a rising voice to mean 'come off it'. It is casual, the way a boss talks to his cook."),
-    (7, None, "'Yeah.' 'Da' is the plain 'yes'. Max takes Barinov's question at face value and simply agrees."),
+    (7, None, "'Yeah.' That 'da ladno' was not a real question, but Max answers it with a flat 'da', the word for a plain 'yes', and so misses the doubt in it."),
     (8, None, "'That can't be.' 'Ne mozhet byt', literally 'cannot be', is the standard 'that's impossible'. The same three words with a different tone can also mean 'really?'."),
     (9, None, "'Taste it yourself.' 'Poprobuyte' means 'try' and also 'taste', the word for sampling food. 'Sami' means 'yourself', in the polite plural form."),
     (10, None, "'Well, we'll see.' 'Posmotrim', literally 'we'll look', is the everyday 'we'll see'. 'Nu', 'well', makes it sound sceptical."),

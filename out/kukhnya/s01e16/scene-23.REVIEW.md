@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It came out exactly the same.' 'Poluchilos' means 'it turned out', and Russians say it about any dish or plan that worked. 'Odin v odin', literally 'one into one', means 'identical'.
 - 'Even a little better.' 'Chut-chut' means 'a tiny bit', and doubling the word makes it smaller. 'Luchshe', 'better', looks nothing like 'khorosho', 'good'.
 - 'No way!' 'Da ladno', literally 'yes, all right', is said with a rising voice to mean 'come off it'. It is casual, the way a boss talks to his cook.
-- 'Yeah.' 'Da' is the plain 'yes'. Max takes Barinov's question at face value and simply agrees.
+- 'Yeah.' That 'da ladno' was not a real question, but Max answers it with a flat 'da', the word for a plain 'yes', and so misses the doubt in it.
 - 'That can't be.' 'Ne mozhet byt', literally 'cannot be', is the standard 'that's impossible'. The same three words with a different tone can also mean 'really?'.
 - 'Taste it yourself.' 'Poprobuyte' means 'try' and also 'taste', the word for sampling food. 'Sami' means 'yourself', in the polite plural form.
 - 'Well, we'll see.' 'Posmotrim', literally 'we'll look', is the everyday 'we'll see'. 'Nu', 'well', makes it sound sceptical.

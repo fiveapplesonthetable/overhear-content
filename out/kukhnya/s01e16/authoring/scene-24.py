@@ -27,7 +27,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Not bad.' 'Neplokho' is one word: 'ne', 'not', joined to 'plokho', 'badly'. Russians use it for anything from 'fine' to 'quite good'."),
-    (1, None, "'Really?' 'Da?', 'yes?', with a rising voice means 'really?'. Max is fishing for more praise."),
+    (1, None, "'Really?' 'Da?' is literally 'yes?', but with a rising voice it means 'really?', so one syllable does the work of a whole question. Max is fishing for more praise."),
     (2, None, "'Only this isn't my pâté.' 'Tolko', 'only', also works as 'but' at the start of a sentence. The 'ne', 'not', goes right before the word it denies, here 'moy', 'my'."),
     (3, None, "'What? Same texture.' Max says 'kak?', literally 'how?', which is what Russians say when they are stunned. 'Ta zhe' means 'the same', and 'ta' is feminine to match 'konsistentsiya'."),
     (4, None, "'And I got the ingredients right.' 'Sostav', 'composition', is the word printed above the ingredients list on any packet. 'Podobral' means 'picked out' or 'matched'."),
