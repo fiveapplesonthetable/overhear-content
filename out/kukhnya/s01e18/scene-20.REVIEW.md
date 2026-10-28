@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How, fired? You too?' 'How' is used here as 'what?'. 'You too' needs the 'a' ending on 'you'.
 - 'Yes, we're all leaving.' 'Leave' is the ongoing kind, a going away. 'All' goes before it.
 - 'And what did the chef say?' The opening 'a' means 'and' with a hint of contrast. 'Said' ends in the masculine 'l'.
-- 'The chef did nothing.' 'Nothing' and 'not' appear together. 'Did' is the finished kind of 'do'.
+- 'The chef did nothing.' 'Nothing' and 'not' appear together. 'Did' is the completed kind of 'do'.
 - 'Now we are out of work.' 'Without' brings in the 'of' form, so 'work' changes its ending. There's no 'are'.
 - 'What do we do now?' 'To us' stands in for 'we', and 'to do' is the plain form. 'Now' sits in the middle.
 - 'I don't know, let's go home.' 'We'll go' works as 'let's go'. 'Home' as a direction is a single word.

@@ -11,8 +11,8 @@ LABELS = {'inspector': 'Инспектор', 'nagiyev': 'Нагиев', 'vika': 
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "The inspector is still in the dining room at Claude Monet, now hunting for the one extinguisher that is actually hanging where it should. Then the owner, Dmitry Nagiyev, walks in and asks him straight out why this restaurant. We'll hear it in Russian first."
-OPENER = "Now let's look at it line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = "Now we'll take it apart."
+TRANSITION = "Let's hear the whole thing again, start to finish."
 OUTRO = "So the tip came from the restaurant next door, and the inspector is coming back tomorrow. Listen out for the little word that means 'here you are' or 'there it is', because Vika uses it and Russians say it constantly. See you next time!"
 CLOSING = ('inspector', 'Пока!')
 STORY = [
@@ -33,7 +33,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Where is your fire extinguisher?' Russian's 'where' is one you'll hear in every shop and station, and 'your' is the polite-or-plural form, matching a masculine thing."),
-    (1, None, "'It was hanging here last time.' A masculine speaker or thing gets a past form that just ends in 'l', no extra ending. 'Last time' is literally 'in the past time'."),
+    (1, None, "'It was hanging here last time.' A masculine speaker or thing gets a past form that just carries 'l', no extra ending. 'Last time' is literally 'in the past time'."),
     (2, None, "'Are you laughing at me?' Russian laughs 'over' someone, so the little word 'over' stands where English puts 'at'. The inspector also throws in a small 'what' at the start, which works like our 'what, are you kidding me?'."),
     (3, None, "'This one is not suitable.' The Russian for 'suits' literally means 'walks up to', which makes sense if you picture something that comes up to the mark. Here it's negated, and the inspector says 'this one' with the masculine word for it."),
     (4, None, "'Here is a normal fire extinguisher.' Vika points with the little word 'vot', 'here you go', and she doesn't need any 'is' after it. Russian's 'normal' you will recognise at once."),

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Max has spent the day cooking his own version of Barinov's pâté. Now he needs an honest opinion, so he calls over his best friend Kostya, the bartender. Kostya is not at all sure about the colour. We'll hear it in Russian first."
-OPENER = "Let's slow down and go through it line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max has spent the day cooking his own version of Barinov's pâté. Now he needs an honest opinion, so he calls over his best friend Kostya, the bartender. Kostya is not at all sure about the colour. Here it is in Russian."
+OPENER = 'Back to the start, then, with the details.'
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "Max's pâté isn't the chef's, and he knows it, but two days off are worth a few more tries. Next time someone offers you food in Russian, you'll know how to ask whether it's safe to eat. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'And does it resemble the chef's signature pâté?' The Russian for 'looks like' is followed by a small word for 'on' in Russian. The chef is not 'chef's' with an apostrophe-s, but the word itself with an 'a' on the end."),
     (10, None, "'No, the chef's dish is much better.' The first three words are 'at the chef' and mean the chef's version. Russian's 'better' is a short form that doesn't change, and 'much' is built from 'by much'."),
     (11, None, "'Did you put too much sauce in there?' The Russian for 'too' is the one to pair with 'much', and then the sauce takes an 'a' ending, because 'much' makes it a 'some of'. The 'l' on 'put' says the speaker is addressing a man."),
-    (12, None, "'Yes, keep trying and keep cooking!' The first word is a command that means 'carry on'. Russian's 'try hard' ends in 'sya', the little 'oneself', and the last word means 'further'."),
+    (12, None, "'Yes, keep trying and keep cooking!' The opening word is a command that means 'carry on'. Russian's 'try hard' finishes with 'sya', the little 'oneself', and the last word means 'further'."),
 ]

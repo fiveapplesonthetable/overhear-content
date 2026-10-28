@@ -34,10 +34,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I want to spend a lot of time with them, too.' After 'with', 'them' picks up an 'n', so it becomes 'nimi'. 'Too' is a tiny word that comes after 'I'.
 - 'It's fine, you'll get along.' 'Become friends' is built from 'friend' and ends in 'sya'. Max uses the plural 'you', as he's speaking to both women.
 - 'That has never happened.' Russian has two negatives: 'was not' and 'never'. 'Such' sits at the front.
-- 'For some reason, I'm not surprised.' 'For some reason' is 'why' plus 'to', which makes it vague. 'Surprised' ends in 'a' because Vika is a woman.
+- 'For some reason, I'm not surprised.' 'For some reason' is 'why' plus 'to', which makes it vague. 'Surprised' finishes with 'a' because Vika is a woman.
 - 'Anyway, you stay a while.' The first two words are 'in general', used the way we say 'anyway'. 'Sit a while' has the 'po' prefix for 'a bit'.
 - 'And we should probably get going.' The opening 'and' sets the groups against each other. 'We will go' works as 'we're off'.
 - 'It's time for us to go home.' 'Home' as a direction is a separate word from 'at home'. 'It's time' is one short word.
-- 'Because it's not allowed at work.' The opening words mean 'otherwise', and are used here as 'because'. 'Forbidden' ends in 'o', since it has no subject.
+- 'Because it's not allowed at work.' The opening words mean 'otherwise', and are used here as 'because'. 'Forbidden' carries 'o', since it has no subject.
 - 'Right! You might as well dance on the bar too.' The 'you would' is made by adding a small word after the past form. 'On the bar counter' is built with 'on', and both nouns take an ending.
 - 'Guys, what is going on?' 'Guys' means 'lads' and is plural. 'What are you at' is a casual way to ask what's the matter.

@@ -11,8 +11,8 @@ LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'The inspector has left Barinov with a fine and a bigger problem: Louis, his pastry chef, is to be deported. Ainura, who has just played the guest in the dining room, offers to help, and Barinov, out of ideas, thinks aloud. First the Russian.'
-OPENER = "Let's take it one piece at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = "Let's go back through it slowly."
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "Ainura agrees to try, though neither of them quite knows how. Keep an ear out for 'mozhet': here it means 'maybe', although in other sentences it means 'can'. See you next time!"
 CLOSING = ('ainura', 'До свидания!')
 STORY = [
@@ -41,7 +41,7 @@ WALK = [
     (7, None, "'We could negotiate.' The second word means 'it will work out', and it has no subject, no 'we' and no 'I'. Together they say 'to come to terms, it will succeed'."),
     (8, None, "'There.' This little pointing word, 'vot', can mean 'here you are' or 'that's it', and here Barinov seems to have thought of something."),
     (9, None, "'Though...' It's a hinge word, the kind you say when you are turning an idea around. Russians often let it hang."),
-    (10, None, "'If you save his life...' Barinov uses the casual 'you' with his staff. 'Will save' is a finished action, so the future is built into the ending."),
+    (10, None, "'If you save his life...' Barinov uses the casual 'you' with his staff. 'Will save' is an action seen as complete, so the future is built into the ending."),
     (11, None, "'Maybe he will forgive us.' 'Maybe' is the same word as at the start of the scene. The little 'i' in the middle can mean 'even', so it's 'he might even forgive us'."),
-    (12, None, "'All right, Chef. I will try.' 'I will try' is the finished kind, meaning 'I'll give it a go'. Ainura calls her boss by his job title, as everyone in the kitchen does."),
+    (12, None, "'All right, Chef. I will try.' 'I will try' treats the action as done, meaning 'I'll give it a go'. Ainura calls her boss by his job title, as everyone in the kitchen does."),
 ]

@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I need to speak to your boss.' The pattern is 'to me needed', then 'to have a talk' with the 'po' prefix that makes it a short chat. 'With your boss' has an 'im' ending.
 - 'Our chef is very busy right now.' 'Busy' is a short form, and the ending would change for a woman. 'Right now' is a good one-word reply to a request for someone's time.
 - 'He will quickly find time for me.' 'Will find' is a future made from a finished action. The 'me' after 'for' has the ending that Russian puts on it whenever it is the one affected.
-- 'Get up, now come with me.' The first word is the polite plural order for 'stand up'. The second word, with the 'te' at the end, is the formal 'come along'.
+- 'Get up, now come with me.' The opening word is the polite plural order for 'stand up'. The second word, with the 'te' at the end, is the formal 'come along'.
 - 'Alright, let's go to the chef's office.' Louis uses the same 'te' form but this time as 'let's go'. The office doesn't change since it's a direction.

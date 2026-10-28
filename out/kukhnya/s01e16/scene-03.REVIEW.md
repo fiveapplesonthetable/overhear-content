@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Arcobaleno.' He repeats the name so the official can write it down. Spelling out a name is the same trick on any phone line.
 - 'What are you doing?' The ending on the Russian for 'do' says 'you', polite or plural. Barinov has caught him mid-call and is clearly amused.
 - 'I am solving our problems.' 'I solve' is one word, and Russian's 'our' has the ending that goes with 'problems'. Nagiyev sounds quite pleased with himself.
-- 'Well done, keep it up.' The first word is a compliment that is roughly 'a fine fellow', used for anyone who does a thing well. The second part, 'keep it up', is a stock phrase you can use for any good effort.
+- 'Well done, keep it up.' The opening word is a compliment that is roughly 'a fine fellow', used for anyone who does a thing well. The second part, 'keep it up', is a stock phrase you can use for any good effort.

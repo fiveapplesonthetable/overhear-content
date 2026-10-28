@@ -11,8 +11,8 @@ LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'senya': 'Се
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'Major Lanovsky has been called to the kitchen, and the staff are on edge, because one of the cooks without papers, Fedya, is hiding in the walk-in fridge. Barinov and Senya whisper, and then the inspector arrives and asks for the fridge to be opened. Here is the Russian first.'
-OPENER = "Let's go over it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = "Now let's look at what was said."
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "The fridge is about to be opened, and Barinov is nowhere near ready. Remember the way the inspector asks politely, with a phrase that literally means 'be kind'. See you next time!"
 CLOSING = ('inspector', 'Пока!')
 STORY = [
@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'He is in the fridge.' 'In' plus an 'e' ending on the fridge says where he is. Barinov doesn't need to say more, since the fridge is the whole problem."),
     (8, None, "'Excellent.' It's the top mark in a Russian school, a five out of five, so it carries a bit of pride. Here it's said through a gritted smile."),
     (9, None, "'Viktor Petrovich, would you be so kind.' The phrase is literally 'be kind', in the polite plural command. It's what a very formal person says before asking for something."),
-    (10, None, "'Open the fridge, please.' The command ends in 'yte', which is the polite way to order someone around. 'Please' is a long, friendly-sounding word, and it also means 'you're welcome'."),
+    (10, None, "'Open the fridge, please.' The command finishes with 'yte', which is the polite way to order someone around. 'Please' is a long, friendly-sounding word, and it also means 'you're welcome'."),
     (11, None, "'I'm waiting.' It's just one word, no 'I', and no 'am'. Three words from the inspector would be more polite, but he says one, and it is more menacing."),
 ]

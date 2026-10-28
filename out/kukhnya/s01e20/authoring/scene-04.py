@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Max has rung Vika to ask about the ring she sent him. She says it was for a friend, and Max starts to realise he's misread the whole thing. We'll hear it in Russian first."
-OPENER = "Let's go through it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max has rung Vika to ask about the ring she sent him. She says it was for a friend, and Max starts to realise he's misread the whole thing. Russian first, then we'll take it apart."
+OPENER = 'Time for the details.'
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Vika wants Max to give her the ring after all, and Max has to find a year's wages. The phrase 'dlya sebya', meaning 'for oneself', is useful, and it is the same for every person. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -34,16 +34,16 @@ STORY = [
 WALK = [
     (0, None, "'Hi. I wanted to ask about the gift.' 'Wanted to find out' uses the plain 'find out'. 'About' is a one-word phrase."),
     (1, None, "'Did you like this lovely ring?' 'Liked' is neuter, because 'ring' is neuter. 'To you' sits next to it."),
-    (2, None, "'Yes, it's very pretty.' 'It' is the neuter 'ono', since 'ring' is neuter. 'Beautiful' ends in 'oe'."),
+    (2, None, "'Yes, it's very pretty.' 'It' is the neuter 'ono', since 'ring' is neuter. 'Beautiful' carries 'oe'."),
     (3, None, "'And do you know how much it costs?' 'How much' is one word. 'Costs' means 'stands' in this sense."),
-    (4, None, "'Do you think that's reasonable for a gift?' 'You consider' ends in 'sh'. 'For a gift' needs a small word and an 'a'."),
+    (4, None, "'Do you think that's reasonable for a gift?' 'You consider' finishes with 'sh'. 'For a gift' needs a small word and an 'a'."),
     (5, None, "'Of course. Tanya was choosing a present for herself.' 'Herself' is the same for everyone, 'sebya'. 'Was choosing' is the ongoing past."),
-    (6, None, "'She just sent me a photo.' 'Sent' ends in 'a', and 'just' is a small word. 'Photograph' is a borrowed word."),
+    (6, None, "'She just sent me a photo.' 'Sent' carries 'a', and 'just' is a small word. 'Photograph' is a borrowed word."),
     (7, None, "'But I wanted to give you the ring myself.' 'Myself' is a short word, 'sam'. 'Give as a gift' is the same word from before."),
-    (8, None, "'You wanted to give the same thing?' 'The same thing' is three words, and means 'that very same'. 'Wanted' ends in 'l'."),
-    (9, None, "'I'll tell her to choose something else.' 'To her' is the short word 'ey'. 'Something else' ends in 'oe' since it is neuter."),
-    (10, None, "'And you'll give me this ring.' 'You'll give' is a finished action, ending in 'sh'. 'Me' takes the 'to me' form."),
-    (11, None, "'What for? She's already bought it.' 'What for' asks about purpose. 'Bought' ends in 'a' for a woman."),
-    (12, None, "'No, she was just asking for advice.' 'Ask for' is followed by the 'of' form, so 'advice' ends in 'a'. 'Asked' ends in 'a' for a woman."),
-    (13, None, "'I'll call her now.' 'Call' goes with 'to her', not 'her'. 'I'll call' is a finished action."),
+    (8, None, "'You wanted to give the same thing?' 'The same thing' is three words, and means 'that very same'. 'Wanted' carries 'l'."),
+    (9, None, "'I'll tell her to choose something else.' 'To her' is the short word 'ey'. 'Something else' finishes with 'oe' since it is neuter."),
+    (10, None, "'And you'll give me this ring.' 'You'll give' is an action seen as complete, ending in 'sh'. 'Me' takes the 'to me' form."),
+    (11, None, "'What for? She's already bought it.' 'What for' asks about purpose. 'Bought' carries 'a' for a woman."),
+    (12, None, "'No, she was just asking for advice.' 'Ask for' is followed by the 'of' form, so 'advice' finishes with 'a'. 'Asked' finishes with 'a' for a woman."),
+    (13, None, "'I'll call her now.' 'Call' goes with 'to her', not 'her'. 'I'll call' treats the action as done."),
 ]

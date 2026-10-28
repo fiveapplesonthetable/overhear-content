@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A big inspection is going on in the neighboring restaurant right now.' Russian says the inspection 'goes' where English says 'is going on'. 'In the neighboring restaurant' has an 'e' ending on both words.
 - 'Right now I don't care about someone else's inspections.' The little group 'to me, not up to' means 'I'm not in the mood for'. Russian's 'someone else's' comes from the Russian for 'foreign'.
 - 'They are checking all the cooks over there.' Nobody is named, so Russian just uses the 'they' ending on Russian's 'check'. We do the same in English when we say 'they're checking everyone'.
-- 'Answer honestly, whose pâté is better right now?' 'Whose' has to match 'pâté', so it has the masculine form. 'Honestly' ends in 'o' like the other words for 'how'.
+- 'Answer honestly, whose pâté is better right now?' 'Whose' has to match 'pâté', so it has the masculine form. 'Honestly' carries 'o' like the other words for 'how'.
 - 'Do you promise not to be offended by me?' The Russian for 'be offended' ends in 'sya', the 'oneself' bit, as it is something that happens to you. Russians say 'offended on' someone.
-- 'I want to hear only the pure truth.' Russian's 'I want' is irregular, so it's worth learning as it is. 'Pure truth' ends in 'uyu', since the truth is the thing being asked for.
+- 'I want to hear only the pure truth.' Russian's 'I want' is irregular, so it's worth learning as it is. 'Pure truth' finishes with 'uyu', since the truth is the thing being asked for.
 - 'And you definitely won't tell the chef?' The Russian for 'to the chef' has a 'u' on the end, where the chef is the one it goes to. 'Definitely' is the same word as 'exactly'.
 - 'No, I just want to know the result.' The small word for 'just' also means 'simply', and it softens what could sound blunt. Russian's 'result' is a borrowing, easy to recognise.
 - 'The chef's pâté is much better.' Kostya has to say it, and he does it in the plainest words he can. 'At the chef' is Russian's way of saying 'the chef's', and 'better' is the short one.

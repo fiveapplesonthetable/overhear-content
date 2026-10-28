@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "At the bar, Nastya talks to Kostya about their relationship in an unusually poetic way. She compares it to a staircase that goes up to the sun, and Kostya isn't sure where this is going. First, the Russian."
-OPENER = "Let's replay it step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "At the bar, Nastya talks to Kostya about their relationship in an unusually poetic way. She compares it to a staircase that goes up to the sun, and Kostya isn't sure where this is going. The Russian comes first."
+OPENER = 'Slowly this time.'
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Kostya agrees with everything, though he doesn't know to what. 'Shag za shagom' is a lovely phrase for 'step by step', and it literally says 'step after step'. See you next time!"
 CLOSING = ('kostya', 'До свидания!')
 STORY = [
@@ -34,11 +34,11 @@ WALK = [
     (1, None, "'Well yes, of course it's good.' 'Well yes' is two small words. 'Of course' is a long word with a 'sh' sound in the middle."),
     (2, None, "'It's as if we're climbing a staircase.' 'As if' is two words in Russian. 'Along the staircase' uses a small word for 'along' and an 'e' ending."),
     (3, None, "'We're going up, straight to the sun.' 'Up' is the word for direction. The sun is pronounced with a silent 'l', so it is 'sontse'."),
-    (4, None, "'We're going high, step by step.' 'Step after step' is a phrase made with 'za' and an 'om' ending. 'High' ends in 'o'."),
+    (4, None, "'We're going high, step by step.' 'Step after step' is a phrase made with 'za' and an 'om' ending. 'High' carries 'o'."),
     (5, None, "'We're not in a hurry to climb, are we?' 'Hurry' and 'climb' both end in 'sya'. The small word 'zhe' makes it a question looking for 'no'."),
     (6, None, "'Seems not, we aren't in a hurry.' 'Seems' is one word, meaning 'apparently'. It is a handy way to hedge."),
-    (7, None, "'If we stop, we might fall.' 'Stop' ends in 'sya' as it means 'stop oneself'. 'Might' is 'can', and 'fall' follows it."),
-    (8, None, "'We might fall down and smash ourselves up.' 'Smash' ends in 'sya', and means 'smash oneself'. 'Down' is the direction word."),
+    (7, None, "'If we stop, we might fall.' 'Stop' carries 'sya' as it means 'stop oneself'. 'Might' is 'can', and 'fall' follows it."),
+    (8, None, "'We might fall down and smash ourselves up.' 'Smash' finishes with 'sya', and means 'smash oneself'. 'Down' is the direction word."),
     (9, None, "'On no account can we stop.' The phrase means 'in no case'. The word 'nelzya' is the 'not allowed' word."),
     (10, None, "'We must always only go forward.' 'Must' is plural to go with 'we'. 'Only' and 'forward' are two small words."),
     (11, None, "'Yes, I agree with you.' 'Agree' is a short masculine form. 'With you' is the irregular 'toboy'."),

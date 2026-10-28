@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Can't you see?' It is only 'don't you see', with the polite plural. Fedya is mocking.
 - 'The pros have arrived.' 'Professionals' is a borrowed word, in the plural. 'Arrived' has the plural ending 'li'.
 - 'You aren't professionals.' The 'not' goes in front of the noun. There's no 'are'.
-- 'You just talk a lot.' 'Just' and 'a lot' flank the verb. 'Talk' ends in 'ite', the polite plural.
+- 'You just talk a lot.' 'Just' and 'a lot' flank the verb. 'Talk' carries 'ite', the polite plural.
 - 'We're telling the truth.' 'We tell' ends in 'im'. 'Truth' takes a 'u' ending.
 - 'Go and work!' 'Go' is a polite plural command. The next word is the plain form 'to work'.
-- 'Okay, we're going.' 'We go' ends in 'yom'. The first word is a quick 'okay'.
+- 'Okay, we're going.' 'We go' finishes with 'yom'. The first word is a quick 'okay'.

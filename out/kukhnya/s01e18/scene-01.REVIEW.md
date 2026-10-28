@@ -27,12 +27,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Oh, Kristina, hello!' Sasha uses the long, formal hello, the one that is hard to say. 'Oy' is just a little gasp of surprise.
 - 'What's with the formal hello?' Kristina turns the hello itself into a noun, 'the official hello'. The opening, 'what else for', shows she's amused and a little annoyed.
-- 'I can't do otherwise, I'm at work.' 'Otherwise' is a single word, and 'at work' is 'on work', with an 'e' ending. It's a useful excuse for any occasion.
-- 'I understand you perfectly, friend.' 'Perfectly' is borrowed from 'wonderful', so she says 'wonderfully'. A female friend ends in 'a', and the 'you' is casual.
+- 'I can't do otherwise, I'm at work.' 'Otherwise' is just one word, and 'at work' is 'on work', with an 'e' ending. It's a useful excuse for any occasion.
+- 'I understand you perfectly, friend.' 'Perfectly' is borrowed from 'wonderful', so she says 'wonderfully'. A female friend carries 'a', and the 'you' is casual.
 - 'I worked here myself for a whole year.' The 'la' on 'worked' says that Kristina is a woman, and 'sama' means 'myself' in the feminine. 'A whole year' needs no word for 'for'.
-- 'Hi, Kristina, you look great!' 'You look' ends in 'sh' for the casual 'you'. 'Great' ends in 'o' because it describes how she looks.
+- 'Hi, Kristina, you look great!' 'You look' ends in 'sh' for the casual 'you'. 'Great' finishes with 'o' because it describes how she looks.
 - 'Thank you, my dear!' Russian says 'my good one', using the feminine form of 'good'. It's a warm way to address a woman you know well.
-- 'When did you come back home to Moscow?' The verb ends in 'las', which is feminine, and 'came back' fits someone returning. 'To Moscow' makes the city take a 'u' ending.
+- 'When did you come back home to Moscow?' The verb carries 'las', which is feminine, and 'came back' fits someone returning. 'To Moscow' makes the city take a 'u' ending.
 - 'The day before yesterday, but I'm very bored here.' 'The day before yesterday' is one word. 'To me boring' is how Russian says 'I'm bored'.
 - 'I'm thinking of flying to Monaco soon!' 'I think' plus the plain 'fly away' means 'I'm thinking of flying'. 'Monaco' never changes its ending.
 - 'Now I will check the reports and we will go.' 'Now' covers 'in a moment' too. 'We'll go' uses a verb for going by vehicle.

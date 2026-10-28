@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Barinov and Max are carrying the market's fish back to Claude Monet. Max says he's heard good things about the restaurant next door, and the chef takes it as an insult. We'll hear it in Russian first."
-OPENER = "Let's take it line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Barinov and Max are carrying the market's fish back to Claude Monet. Max says he's heard good things about the restaurant next door, and the chef takes it as an insult. Here's the Russian, start to finish."
+OPENER = 'Back to the start, then, with the details.'
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "Max gives in and agrees on the spot, as an apprentice should. If you ever need to agree strongly, 'a hundred percent' works just as well in Russian as in English. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('barinov', 'Тогда быстро иди работать на кухню.', 'Then quickly go work in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, hold the fish tighter!' The command 'hold' is the casual one. 'Tighter' is a single word, with the 'che' ending doing the work of 'er'."),
-    (1, None, "'Chef, I'm holding everything very tightly.' 'I hold' is one word, and 'tightly' ends in 'o', like many of the 'how' words. 'Everything' is a tiny word that you'll hear all the time."),
+    (0, None, "'Max, hold the fish tighter!' The command 'hold' is the casual one. 'Tighter' comes as one word, with the 'che' ending doing the work of 'er'."),
+    (1, None, "'Chef, I'm holding everything very tightly.' 'I hold' is one word, and 'tightly' carries 'o', like many of the 'how' words. 'Everything' is a tiny word that you'll hear all the time."),
     (2, None, "'We've almost reached the restaurant.' 'Almost' and 'already' are the two small words. 'Came' is the one for arriving on foot, and 'to the restaurant' is a direction, so the restaurant doesn't change."),
     (3, None, "'Are you really going to the neighboring restaurant?' 'Really' is a long word, but you can hear 'actual' in it. 'Will go' is a polite plural, since Max is speaking to the chef."),
     (4, None, "'I have nothing better to do, Max.' The Russian is 'to do more nothing', which is an idiom for a sneer. 'To me' stands in for 'I'."),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Probably you're right, chef.' 'Probably' is one word. 'Right' is a short form here, in the plural polite form."),
     (10, None, "'Our restaurant is the best in the city.' The dash stands in for 'is'. 'Most best' sounds odd in English, but Russian often stacks the two for emphasis."),
     (11, None, "'I agree with you a hundred percent.' 'Agree' is a short form, and a woman would say it a different way. 'Hundred percent' needs 'to' in front of it, as in 'to a hundred percent'."),
-    (12, None, "'Then quickly go and work in the kitchen.' Russian says 'go work' with no 'and' between, as do many languages. 'To the kitchen' uses the little word for 'on', which is the one for work places."),
+    (12, None, "'Then quickly go and work in the kitchen.' Russian says 'go work' with no 'and' between, as do many languages. 'To the kitchen' uses the small word for 'on', which is the one for work places."),
 ]

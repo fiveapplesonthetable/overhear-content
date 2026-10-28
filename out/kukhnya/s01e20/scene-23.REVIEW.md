@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Morning has come.' 'Morning' is neuter, so 'came' ends in 'o'. A short, quiet start.
+- 'Morning has come.' 'Morning' is neuter, so 'came' finishes with 'o'. A short, quiet start.
 - 'Now everything is clear.' 'Clear' is a word with an 'o' ending, used without a subject. There's no 'is'.
 - 'But it's already late.' 'Late' is a word with an 'o' ending. 'But already' are two small words.
-- 'Time has gone.' 'Time' is neuter, so 'went away' ends in 'o'. A very short sentence.
+- 'Time has gone.' 'Time' is neuter, so 'went away' carries 'o'. A very short sentence.
 - 'It's our common mistake.' 'Common' means 'shared'. 'Mistake' is feminine, so both words end in 'aya'.
-- 'Maybe we should have woken up?' The word 'stoilo' means 'it was worth'. 'Wake up' ends in 'sya'.
-- 'Woken up sooner?' 'Earlier' is a single word. Max repeats the idea.
-- 'I don't know the answer.' 'Answer' is a masculine word with no ending. 'I know' ends in 'u'.
+- 'Maybe we should have woken up?' The word 'stoilo' means 'it was worth'. 'Wake up' finishes with 'sya'.
+- 'Woken up sooner?' 'Earlier' is just one word. Max repeats the idea.
+- 'I don't know the answer.' 'Answer' is a masculine word with no ending. 'I know' finishes with 'u'.
 - 'Nobody knows.' 'Nobody' and 'not' appear together. Two words and a full stop.
-- 'Life goes on.' 'Continues' ends in 'sya', meaning it continues by itself. 'Life' ends in a soft sign.
+- 'Life goes on.' 'Continues' carries 'sya', meaning it continues by itself. 'Life' ends in a soft sign.
 - 'We need to go.' 'Necessary' plus the plain 'to go'. It is a short instruction.
 - 'Only forward.' 'Only' sits in front of 'forward'. The episode ends on the plain word.

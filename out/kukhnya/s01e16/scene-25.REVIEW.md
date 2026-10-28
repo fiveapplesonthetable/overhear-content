@@ -32,8 +32,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you kidding me?' The 'sya' ending makes the verb 'mock' and means you are doing it to someone. Max uses the polite 'you' with the boss.
 - 'Why?' One word again. Barinov is pretending to be surprised.
 - 'You were educating yourself.' It's a made-up kind of word, built from 'self' plus 'bring up', plus 'sya'. Barinov enjoys the sound of it.
-- 'Well, let's go.' The first word is the 'well' that Russians use when they change the subject. The second is the 'we' form, standing in for 'let's go'.
-- 'By the way, it's good pâté.' 'By the way' is a single word. The 'good' has the masculine ending to go with the pâté.
+- 'Well, let's go.' The opening word is the 'well' that Russians use when they change the subject. The second is the 'we' form, standing in for 'let's go'.
+- 'By the way, it's good pâté.' 'By the way' is just one word. The 'good' has the masculine ending to go with the pâté.
 - 'How do you make it?' Barinov uses the casual 'you', and the ending 'sh' shows it. He has gone from bossy to curious.
 - 'What did you put in?' There's no word for 'you'. The question about 'did you add' relies on the 'l' ending, and the context.
 - 'Beef, liver.' A list of two nouns, with no verb. Max replies with the plainest possible words.

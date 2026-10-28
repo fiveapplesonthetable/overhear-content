@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Kostya, this is just awful!' 'Horror' is used to mean 'awful'. 'Just' sits right before it.
 - 'Senya has been poisoned by our cognac.' 'Poisoned' ends in 'sya', so it's 'poisoned himself'. Russian has no word for 'by': the cognac simply takes an 'im' ending.
 - 'Oh no, what do we do?' 'What to do' is the plain form, with no 'we'. 'Oh no' is two tiny words.
-- 'Kostya, give me a bottle of cognac.' 'Give' is the casual command. 'A bottle of cognac' has no word for 'of': the cognac just takes an 'a' ending.
+- 'Kostya, give me a bottle of cognac.' 'Give' is the friendly command. 'A bottle of cognac' has no word for 'of': the cognac just takes an 'a' ending.
 - 'The one on the right.' A bottle in Russian 'stands', so 'stands' is used. 'On the right' is a single word.
-- 'This bottle right here?' 'Bottle' is feminine, so 'this' ends in 'u' as the object. The pointing word 'vot' starts it.
-- 'No, give me another one. Yes, that one.' 'Another' ends in 'uyu', matching the feminine bottle. Barinov changes his mind in mid-sentence.
+- 'This bottle right here?' 'Bottle' is feminine, so 'this' finishes with 'u' as the object. The pointing word 'vot' starts it.
+- 'No, give me another one. Yes, that one.' 'Another' carries 'uyu', matching the feminine bottle. Barinov changes his mind in mid-sentence.
 - 'The chef has taken our cognac!' 'Took away' ends in the masculine 'l'. 'Our cognac' is masculine too.
-- 'We need to take this bottle back.' 'Take away' has the prefix 'za', and 'back' is a single word. 'Necessary' is followed by the plain form.
+- 'We need to take this bottle back.' 'Take away' has the prefix 'za', and 'back' is just one word. 'Necessary' is followed by the plain form.
 - 'I can't go up to him.' The prefix 'pod' on the word for 'go' means 'approach'. 'To him' picks up an 'n', so it's 'nemu'.
 - 'Come on, Kostya, you have to.' 'Davay' means 'come on' here. 'Must' ends in 'en' for a man.
 - 'All right, I'll go.' 'I'll go' is a plain future of going on foot. 'All right' is the usual sigh of giving in.

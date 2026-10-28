@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Max's money-making lessons for Kostya continue behind the bar. He has another trick, and this one involves expensive cognac. We'll hear it in Russian first."
-OPENER = 'Here it is again, line by line.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max's money-making lessons for Kostya continue behind the bar. He has another trick, and this one involves expensive cognac. First, the Russian."
+OPENER = "Now let's look at what was said."
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "Kostya has played along so far, but he is not at all comfortable. As you listen again, spot 'korotche', which means 'in short' and is used to wrap up an explanation. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -30,8 +30,8 @@ STORY = [
     ('max', 'Поверь мне, никто не почувствует разницу!', 'Believe me, nobody will feel the difference!', [], ''),
 ]
 WALK = [
-    (0, None, "'That's not all, listen on.' 'Still not all' is the Russian for 'that's not all'. 'Further' is a single word."),
-    (1, None, "'What other secret will you show me?' 'What other' is made with 'which' and 'else'. 'You'll show' ends in 'esh', the casual 'you'."),
+    (0, None, "'That's not all, listen on.' 'Still not all' is the Russian for 'that's not all'. 'Further' is one word on its own."),
+    (1, None, "'What other secret will you show me?' 'What other' is made with 'which' and 'else'. 'You'll show' carries 'esh', the casual 'you'."),
     (2, None, "'Now I'll show you a new trick.' 'Trick' is the word for a conjuring trick. 'I'll show' changes its 'z' into 'zh'."),
     (3, None, "'In short, first you take a clean glass.' 'Shorter' is used here for 'in short'. 'You take' is general, so 'you' means anyone."),
     (4, None, "'Okay, I took a big, beautiful glass.' 'Took' ends in the masculine 'l'. 'Big' and 'beautiful' have matching endings."),

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Max has been trying all day to copy Barinov's pâté, and he thinks he has done it. He walks up to the chef to announce it, and Barinov listens with growing disbelief. We'll hear it in Russian first."
-OPENER = "Let's replay it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Max has been trying all day to copy Barinov's pâté, and he thinks he has done it. He walks up to the chef to announce it, and Barinov listens with growing disbelief. Listen to it in Russian first."
+OPENER = 'Here it is again, piece by piece.'
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "Barinov will not take Max's word for it, and the chef is on his way to taste it. The phrase 'one in one' is a lovely one to borrow when something is exactly the same. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
@@ -30,11 +30,11 @@ STORY = [
     ('barinov', 'Мы посмотрим.', 'We will see.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I did it.' 'Did' is the finished kind, ending in the masculine 'l'. The little word for 'it' follows."),
+    (0, None, "'Chef, I did it.' 'Did' is a finished action, ending in the masculine 'l'. The little word for 'it' follows."),
     (1, None, "'What did you make?' The order is the same as English. Barinov uses the casual 'you', as a boss does."),
     (2, None, "'I made your pâté.' Max says 'your' in the polite form, matching the masculine pâté. A casual 'your' would be 'tvoy', but that's for friends."),
     (3, None, "'My pâté?' He says just 'my pâté' and the rising voice turns it into a question. There's no extra word for 'what'."),
-    (4, None, "'It came out exactly the same.' The first word is 'it got obtained', a very Russian way of saying 'it turned out'. 'One in one' is the picture for identical."),
+    (4, None, "'It came out exactly the same.' The word at the start is 'it got obtained', a very Russian way of saying 'it turned out'. 'One in one' is the picture for identical."),
     (5, None, "'I must taste it.' 'Must' ends in 'en' for a man, and a woman would say a different ending. After it comes the plain 'to try'."),
     (6, None, "'Even a little better.' The doubled 'chut' is a bit like 'teeny-weeny', and Russians double a word to make it smaller or bigger. 'Better' is the short form."),
     (7, None, "'No way!' Literally 'yes okay?', and it works as 'really?'. It is a casual line, the sort a friend would use."),

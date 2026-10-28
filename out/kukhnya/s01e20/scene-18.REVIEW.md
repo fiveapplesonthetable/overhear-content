@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to tell you something.' 'Something' is built from two pieces, 'koe' and 'what'. 'Wanted' ends in 'l' for a man.
+- 'I wanted to tell you something.' 'Something' is built from two pieces, 'koe' and 'what'. 'Wanted' carries 'l' for a man.
 - 'I want...' He starts and stops. 'I want' is irregular.
 - 'For you to be my wife.' 'In order that' is followed by a past form: 'chtoby you became'. 'My wife' takes an 'oy' ending.
 - 'Have you lost your mind?' 'Went off from mind' is the idiom for 'lost your mind'. The tag 'chto li' means 'or what'.
 - 'What? What?' 'Chego' is the casual way to say 'what?'. It sounds like 'huh?'.
-- 'You said yourself that every day is a new step.' 'Yourself' ends in 'a' for a woman. 'Every day' is two words, with no 'is' between.
+- 'You said yourself that every day is a new step.' 'Yourself' carries 'a' for a woman. 'Every day' is two words, with no 'is' between.
 - 'Kostya, I meant meeting the parents.' 'I had in view' is how Russian says 'I meant'. 'Acquaintance' stands for 'meeting'.
 - 'Not this.' The word 'a ne' means 'and not'. It contrasts the two ideas.
 - 'In my plan this step was only a year away.' 'By plan' uses 'po' and a 'u' ending. 'In a year' is 'through a year'.
 - 'What, you have a plan?' 'Some' is made with a tail, 'to'. 'What' at the start is a casual way to ask.
 - 'Yes, I do.' Nastya repeats 'there is' as her answer. That's how Russians say yes.
-- 'And you nearly wrecked it.' 'Nearly' is made with 'chut ne'. 'Wrecked' ends in 'l', for a man.
-- 'Forgive me, please.' 'Forgive' is the casual command. 'Me' takes the 'a' form.
-- 'I forgive you.' The word for 'I forgive' is from the same family as 'goodbye'. 'You' takes the 'a' form.
+- 'And you nearly wrecked it.' 'Nearly' is made with 'chut ne'. 'Wrecked' finishes with 'l', for a man.
+- 'Forgive me, please.' 'Forgive' is the informal order. 'Me' takes the 'a' form.
+- 'I forgive you.' The Russian for 'I forgive' is from the same family as 'goodbye'. 'You' takes the 'a' form.

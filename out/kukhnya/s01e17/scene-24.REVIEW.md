@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The main thing is to tell the truth.' The dash takes the place of 'is'. 'Truth' takes a 'u' ending after 'speak'.
 - 'You must believe in your strength.' Russians believe 'in' things, with a small word for 'in'. 'Strength' is plural, as in 'strengths'.
 - 'And believe in your true self.' 'Self' is a special one. 'True' means 'real', and takes an ending to go with it.
-- 'I want to start everything over.' 'Anew' is built from 'new', with a prefix. 'Start' is the finished kind.
-- 'You can fix everything, Max.' 'You can' uses the casual 'you'. 'Fix' is a finished action.
+- 'I want to start everything over.' 'Anew' is built from 'new', with a prefix. 'Start' treats the action as done.
+- 'You can fix everything, Max.' 'You can' uses the casual 'you'. 'Fix' is a once-and-done action.
 - 'I'm starting everything with a clean slate.' Russian says 'from a clean sheet' where English says 'slate'. 'Sheet' means a sheet of paper.
 - 'You have a good future ahead.' 'Ahead' is one word. 'Future' is a neuter word that looks like an adjective.
 - 'Your fate depends only on you.' 'Depends on' needs the little word 'ot', followed by 'you' in a different form. 'Only' sits in the middle.
 - 'We believe in you, friend.' 'In you' needs the small word for 'in', and the 'you' takes a different form. 'We believe' ends in 'm'.
-- 'Thank you, Kostya, for your support.' 'Support' ends in 'ka'. After 'for', 'your' takes a 'u' ending.
+- 'Thank you, Kostya, for your support.' 'Support' finishes with 'ka'. After 'for', 'your' takes a 'u' ending.

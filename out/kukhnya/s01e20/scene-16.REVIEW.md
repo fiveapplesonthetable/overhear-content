@@ -35,9 +35,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are they expensive?' 'Expensive' is plural, ending in 'ie'. The question lives in the voice.
 - 'It's my grandfather's old watch.' 'Grandfather's' is made from 'granddad' with an ending. 'Old' is plural.
 - 'Here, take it, old man.' 'Na' is a one-syllable word for 'here, take it'. 'Hold on' is a command with 'sya'.
-- 'Thank you very much.' 'Thanks' is neuter, so 'big' ends in 'oe'. 'To you' sits between them.
+- 'Thank you very much.' 'Thanks' is neuter, so 'big' finishes with 'oe'. 'To you' sits between them.
 - 'You need them more than I do.' 'More needed' is one word, made with 'ee'. 'To you' sits in front.
 - 'I'll sell them and buy food.' Both verbs are future, finished actions. 'Food' takes the 'of' form.
-- 'Do what you like with them.' 'With them' picks up an 'n', so 'nimi'. 'Do' is the casual command.
+- 'Do what you like with them.' 'With them' picks up an 'n', so 'nimi'. 'Do' is the friendly command.
 - 'Goodbye.' This word is the final goodbye, from the same family as 'forgive'. It means you may not meet again.
 - 'You're a very kind person.' 'Kind' is the word from 'good day'. There's no 'are'.

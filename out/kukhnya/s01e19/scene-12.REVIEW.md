@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'm just standing and breathing the air.' Russians breathe 'with' the air, so 'air' takes an 'om' ending. 'Stand' and 'breathe' are two words with 'and' between.
 - 'Are you following me again?' 'Follow' needs the small word 'za', so it's 'follow behind me'. 'Behind me' is the irregular 'mnoy'.
 - 'But you have an important business meeting right now.' The small 'zhe' adds the sense of 'but you know'. 'At you' stands for 'you have'.
-- 'Max, tell me honestly, are you jealous?' 'Tell' is the casual command, and 'honestly' ends in 'o'. 'Be jealous' is a verb of its own in Russian.
+- 'Max, tell me honestly, are you jealous?' 'Tell' is the friendly command, and 'honestly' finishes with 'o'. 'Be jealous' is a verb of its own in Russian.
 - 'I'm not jealous of you at all.' The Russian jealous verb takes 'you' as its object. 'Not at all' is two small words.
 - 'It's a meeting about the sale of the restaurant.' 'About' is a three-word phrase meaning 'on the occasion of'. 'Of the sale' and 'of the restaurant' both end in 'i' or 'a'.
 - 'I'm calm, go to your meeting.' 'Calm' is a short masculine form. 'Go' is the command for going by vehicle.

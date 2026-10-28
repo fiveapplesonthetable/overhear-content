@@ -33,8 +33,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We have a private party.' 'Closed party' is how Russians say 'private'. 'At us' stands for 'we have'.
 - 'She'll kick up a stink on the internet.' The phrase 'raise a stench' is an idiom for making a fuss. 'On the internet' needs an 'e'.
 - 'The restaurant's price could drop a lot.' 'Of the restaurant' follows 'price'. 'Fall' is a finished action.
-- 'So you really are selling it?' The word 'vse-taki' means 'after all'. 'You sell' ends in 'sh', for the casual 'you'.
-- 'I tried.' 'Try' ends in 'sya', and the 'l' says it's a man. A short, tired line.
+- 'So you really are selling it?' The word 'vse-taki' means 'after all'. 'You sell' finishes with 'sh', for the casual 'you'.
+- 'I tried.' 'Try' carries 'sya', and the 'l' says it's a man. A short, tired line.
 - 'Who wants an empty restaurant?' 'To whom needed' is the Russian pattern. 'Empty' agrees with the masculine restaurant.
 - 'This was your idea.' 'Was' ends in 'a' because 'idea' is feminine. Barinov is not letting him off.
 - 'Chef, can I go home?' 'Possible' plus 'to go' plus 'home' makes the question. 'Home' as a direction is one word.

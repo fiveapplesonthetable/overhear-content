@@ -32,8 +32,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everyone plays roles.' 'Play' is plural, to go with 'everyone'. 'Roles' is plural too.
 - 'They are other people's masks.' 'Other people's' also means 'foreign'. 'Masks' is plural.
 - 'But the moment of awakening comes.' 'Awakening' is built from 'wake'. 'Comes' is a long word for 'sets in'.
-- 'Life tears these masks off us.' 'Off us' is a small word and 'nas'. 'Tears off' is a single word.
+- 'Life tears these masks off us.' 'Off us' is a small word and 'nas'. 'Tears off' is just one word.
 - 'They were endless.' 'Endless' is built from 'without end'. 'Were' is plural.
 - 'Light lays reality bare.' 'Lays bare' comes from 'naked'. 'Light' is neuter.
-- 'We see the truth.' 'We see' ends in 'im'. 'Truth' takes a 'u' ending.
+- 'We see the truth.' 'We see' finishes with 'im'. 'Truth' takes a 'u' ending.
 - 'We weren't ready for it.' 'For it' picks up an 'n', so it is 'k ney'. 'Ready' is plural.

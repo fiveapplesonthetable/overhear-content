@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lanovsky': 'Лановский', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "The migration inspectors are now inside Claude Monet, and Chef Barinov is trying to get the cooks without papers out through the back door and the dining room. Then a smiling officer walks in and introduces himself. We'll hear it in Russian first."
-OPENER = 'Here it is again, line by line.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "The migration inspectors are now inside Claude Monet, and Chef Barinov is trying to get the cooks without papers out through the back door and the dining room. Then a smiling officer walks in and introduces himself. Here's the Russian, start to finish."
+OPENER = 'Now the same story, slowly.'
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "The major says he will wait, and he sounds like a man with all day. The sentence 'I can't, unfortunately' is a good one to borrow for your own polite refusals. See you next time!"
 CLOSING = ('lanovsky', 'Пока!')
 STORY = [
@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'I am a major of the migration service.' Russian has no 'am' here, so the sentence is just 'I major'. The 'oy' ending on 'service' and on its describing word is the 'of' form."),
     (8, None, "'Can we go to the office?' 'We can' is one word. After the 'go' word comes the 'to the office', and the office itself keeps its form because it's a direction."),
     (9, None, "'Unfortunately, I cannot.' The opening is a fixed phrase that really means 'to my regret'. 'I can't' is the irregular 'I' form, so it's worth learning whole."),
-    (10, None, "'I need to cook for the guests.' Russian says 'to me needed', not 'I need'. 'Guests' ends in 'ey', which is the plural after 'for'."),
+    (10, None, "'I need to cook for the guests.' Russian says 'to me needed', not 'I need'. 'Guests' carries 'ey', which is the plural after 'for'."),
     (11, None, "'Alright, I'll wait for you here.' The Russian for 'wait' is the kind that means to wait a while, and its ending is the 'I' one. The major is polite and in no rush, which is the worrying part."),
 ]

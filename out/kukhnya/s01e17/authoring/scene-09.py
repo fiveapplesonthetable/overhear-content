@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "It is contest day in the kitchen of Claude Monet. Barinov has asked the cooks for a new seasonal dish, and Senya steps up first. We'll hear it in Russian first."
-OPENER = "Now let's take it step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'It is contest day in the kitchen of Claude Monet. Barinov has asked the cooks for a new seasonal dish, and Senya steps up first. Here it is in Russian.'
+OPENER = 'Slowly this time.'
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Senya has won before anyone else has even served. When you rewatch, notice how Barinov asks 'what is this?' with an extra word, as if the dish might bite. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
@@ -37,11 +37,11 @@ WALK = [
     (3, None, "'All right, let's try it.' 'Davay' with 'we will be' and the plain 'try' is a casual way to say 'let's'. Barinov uses the casual form with Senya."),
     (4, None, "'And what is this?' The two words 'what such' make it more pointed, as in 'what exactly is this?'. A bit suspicious, and a bit curious."),
     (5, None, "'It's tender meat with thin ham.' 'With' makes 'ham' take an 'oy' ending, and 'thin' follows it. 'Tender' and 'meat' both end in 'oe'."),
-    (6, None, "'Very tasty, I like this recipe!' 'Tasty' ends in 'o' when it describes a thing. 'I like' is 'to me pleases', so the recipe does the pleasing."),
+    (6, None, "'Very tasty, I like this recipe!' 'Tasty' finishes with 'o' when it describes a thing. 'I like' is 'to me pleases', so the recipe does the pleasing."),
     (7, None, "'Congratulations, your dish is now on the menu.' 'Menu' never changes its ending, even after 'in'. It is a borrowed word that stays put."),
     (8, None, "'Chef, wait, this is completely unfair!' 'Unfair' is 'not' plus 'honestly', stuck together. 'Completely' is a handy intensifier."),
-    (9, None, "'Thank you very much, Chef, I'm very glad!' The short form for 'glad' ends in a bare consonant for a man. 'Thanks' is a neuter noun, so 'big' ends in 'oe'."),
-    (10, None, "'Congratulations on your win, colleague.' Russians say 'I congratulate with victory', using the little word for 'with'. 'Colleague' ends in 'a' but is masculine."),
+    (9, None, "'Thank you very much, Chef, I'm very glad!' The short form for 'glad' ends in a bare consonant for a man. 'Thanks' is a neuter noun, so 'big' carries 'oe'."),
+    (10, None, "'Congratulations on your win, colleague.' Russians say 'I congratulate with victory', using the tiny word for 'with'. 'Colleague' ends in 'a' but is masculine."),
     (11, None, "'Chef, what about our dishes?' The opening words, 'and how then', protest politely. 'Dishes' is plural, with an 'a' ending."),
     (12, None, "'I don't need anything else, I've found it.' Russian has 'more nothing not needed', which makes three negatives in a row. 'Found' ends in the masculine 'l'."),
 ]

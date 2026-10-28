@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People often doubt.' 'People' is an irregular plural. 'Doubt' ends in 'sya', so it is 'doubt oneself'.
+- 'People often doubt.' 'People' is an irregular plural. 'Doubt' carries 'sya', so it is 'doubt oneself'.
 - 'About what?' Russians doubt 'in' something, so the small word for 'in' comes before 'what'. 'In what' is a typical question.
 - 'In what they have.' 'In that which' is the phrase, with 'that' taking an 'om' ending. 'They have' ends in 'yut'.
 - 'That's true.' 'Truth' is used with 'this', and there's no 'is'. It's a quick agreement.
-- 'They don't know.' 'They know' ends in 'yut', and 'not' sits in front. The plural ending marks 'they'.
+- 'They don't know.' 'They know' finishes with 'yut', and 'not' sits in front. The plural ending marks 'they'.
 - 'What don't they know?' After a negative, 'what' takes the 'of' form, 'chego'. It's a small trap for learners.
 - 'How dear what they have is to them.' 'Dear' means both 'expensive' and 'precious'. 'To them' stands for 'for them'.
-- 'We know.' 'We know' ends in 'em'. Vika replies in two words.
+- 'We know.' 'We know' carries 'em'. Vika replies in two words.
 - 'Yes, we know.' Max echoes her. Repetition is natural in Russian.
 - 'That's good.' 'This good' is the sentence, with no 'is'. 'Good' ends in 'o'.
 - 'Very good.' Just 'very' in front. A short, happy line.
-- 'I agree.' 'Agreed' ends in 'a' for a woman. Literally, it says 'I am in agreement'.
+- 'I agree.' 'Agreed' finishes with 'a' for a woman. Literally, it says 'I am in agreement'.

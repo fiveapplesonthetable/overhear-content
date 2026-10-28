@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Nagiyev arrives back at Claude Monet with his wife Kristina. He admits to the staff that he has gone too far with his penny-pinching, and then he announces who is going to run the restaurant. We'll hear it in Russian first."
-OPENER = "Let's go over it again, line by line."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+INTRO = "Nagiyev arrives back at Claude Monet with his wife Kristina. He admits to the staff that he has gone too far with his penny-pinching, and then he announces who is going to run the restaurant. First the Russian, and don't worry about catching every word."
+OPENER = 'Here is the same thing, explained.'
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "The staff have just been told that the new boss is the owner's wife. As you listen again, notice the idiom 'to bend the stick too far', which means to go too far. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
@@ -33,12 +33,12 @@ WALK = [
     (0, None, "'Well, have we arrived?' 'Arrived' means arrived by vehicle, and it's a plural. Said as a question, it needs no extra word."),
     (1, None, "'Let's go and see how things are.' 'Let's go' is the past form used as an invitation. 'How at us the matters' is 'how are things'."),
     (2, None, "'Guys, these past few days I went too far.' The idiom is 'I bent the stick', meaning I overdid it. 'Went too far' is a very natural thing to say with a stick."),
-    (3, None, "'Dmitry, we understand everything.' The short form of his name is the kind used by friends. 'We understand' ends in 'em'."),
+    (3, None, "'Dmitry, we understand everything.' The short form of his name is the kind used by friends. 'We understand' finishes with 'em'."),
     (4, None, "'It's your restaurant, it breaks my heart.' Russians say the soul aches, not the heart. 'Your restaurant' has 'your' in the casual form."),
-    (5, None, "'I sat at home and thought it over.' 'Sat' is the kind that means a short while. 'Thought' is a finished action, and 'well' ends in 'o'."),
+    (5, None, "'I sat at home and thought it over.' 'Sat' is the kind that means a short while. 'Thought' is a finished action, and 'well' carries 'o'."),
     (6, None, "'Kristina and I talked it over.' Russian says 'we with Kristina', and the name takes an 'oy' ending. 'Talked it over' ends in 's', for 'each other'."),
-    (7, None, "'The restaurant should be run by someone who knows the business.' 'Manage' takes the 'with' form, so the restaurant ends in 'om'. 'Knowing' is made from 'know'."),
-    (8, None, "'Yes, that's quite right.' 'Completely' is a long word. 'Right' ends in 'o', like many words that say how."),
+    (7, None, "'The restaurant should be run by someone who knows the business.' 'Manage' takes the 'with' form, so the restaurant finishes with 'om'. 'Knowing' is made from 'know'."),
+    (8, None, "'Yes, that's quite right.' 'Completely' is a long word. 'Right' carries 'o', like many words that say how."),
     (9, None, "'That person is right here among us.' 'Among us' is a single small word and 'us'. 'Right now' is added to say 'here'."),
     (10, None, "'I'm always ready to help.' 'Ready' is a short form with a masculine ending. 'Always' sits at the front."),
     (11, None, "'This is my wife, Kristina.' There's no 'is', only 'this my wife'. 'My' ends in 'ya', for a feminine noun."),

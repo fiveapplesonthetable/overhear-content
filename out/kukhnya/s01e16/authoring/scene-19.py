@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'inspector': 'Инспектор', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "The inspector has seen through Louis, and now he asks for the one thing a guest wouldn't have to show: his work permit. Louis explains that his papers are somewhere else, and things go downhill from there. First, the Russian."
-OPENER = "Let's go through it in order."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "The inspector has seen through Louis, and now he asks for the one thing a guest wouldn't have to show: his work permit. Louis explains that his papers are somewhere else, and things go downhill from there. Let's hear how it sounds in Russian."
+OPENER = "Let's listen again, with the meaning this time."
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "The inspector politely marches Louis off to see the chef. Next time you hear someone say 'proydyomte', which is the polite way to say 'come along', you'll know what it is. See you next time!"
 CLOSING = ('inspector', 'До свидания!')
 STORY = [
@@ -42,6 +42,6 @@ WALK = [
     (8, None, "'I need to speak to your boss.' The pattern is 'to me needed', then 'to have a talk' with the 'po' prefix that makes it a short chat. 'With your boss' has an 'im' ending."),
     (9, None, "'Our chef is very busy right now.' 'Busy' is a short form, and the ending would change for a woman. 'Right now' is a good one-word reply to a request for someone's time."),
     (10, None, "'He will quickly find time for me.' 'Will find' is a future made from a finished action. The 'me' after 'for' has the ending that Russian puts on it whenever it is the one affected."),
-    (11, None, "'Get up, now come with me.' The first word is the polite plural order for 'stand up'. The second word, with the 'te' at the end, is the formal 'come along'."),
+    (11, None, "'Get up, now come with me.' The opening word is the polite plural order for 'stand up'. The second word, with the 'te' at the end, is the formal 'come along'."),
     (12, None, "'Alright, let's go to the chef's office.' Louis uses the same 'te' form but this time as 'let's go'. The office doesn't change since it's a direction."),
 ]

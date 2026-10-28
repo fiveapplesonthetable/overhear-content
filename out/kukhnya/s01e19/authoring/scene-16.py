@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "The restaurant's birthday party is going badly. A famous guest has been turned away at the door, and the owner storms in to ask the chef what is going on. Max wanders in at exactly the wrong moment. We'll hear it in Russian first."
-OPENER = "Let's go through it one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "The restaurant's birthday party is going badly. A famous guest has been turned away at the door, and the owner storms in to ask the chef what is going on. Max wanders in at exactly the wrong moment. Let's hear how it sounds in Russian."
+OPENER = "Let's walk through what each line is doing."
+TRANSITION = "Let's hear the whole thing again, start to finish."
 OUTRO = "Barinov has a worse problem than a mood. 'Yest'' means 'there is', but a cook says it to a chef as 'aye, aye', which is a neat double life for one word. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
@@ -38,8 +38,8 @@ WALK = [
     (3, None, "'We have a private party.' 'Closed party' is how Russians say 'private'. 'At us' stands for 'we have'."),
     (4, None, "'She'll kick up a stink on the internet.' The phrase 'raise a stench' is an idiom for making a fuss. 'On the internet' needs an 'e'."),
     (5, None, "'The restaurant's price could drop a lot.' 'Of the restaurant' follows 'price'. 'Fall' is a finished action."),
-    (6, None, "'So you really are selling it?' The word 'vse-taki' means 'after all'. 'You sell' ends in 'sh', for the casual 'you'."),
-    (7, None, "'I tried.' 'Try' ends in 'sya', and the 'l' says it's a man. A short, tired line."),
+    (6, None, "'So you really are selling it?' The word 'vse-taki' means 'after all'. 'You sell' finishes with 'sh', for the casual 'you'."),
+    (7, None, "'I tried.' 'Try' carries 'sya', and the 'l' says it's a man. A short, tired line."),
     (8, None, "'Who wants an empty restaurant?' 'To whom needed' is the Russian pattern. 'Empty' agrees with the masculine restaurant."),
     (9, None, "'This was your idea.' 'Was' ends in 'a' because 'idea' is feminine. Barinov is not letting him off."),
     (10, None, "'Chef, can I go home?' 'Possible' plus 'to go' plus 'home' makes the question. 'Home' as a direction is one word."),

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Nastya has come to find Kostya at work for what she calls a serious talk. Kostya, certain she's about to bring up marriage, suddenly develops a very urgent need to be somewhere else. We'll hear it in Russian first."
-OPENER = "Let's replay it one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Nastya has come to find Kostya at work for what she calls a serious talk. Kostya, certain she's about to bring up marriage, suddenly develops a very urgent need to be somewhere else. Let's hear how it sounds in Russian."
+OPENER = "Let's pull it apart a little."
+TRANSITION = 'Now the whole conversation once more, from start to finish.'
 OUTRO = "Kostya has escaped, for now, with an excuse that is hard to argue with. 'Nikuda' means 'nowhere' and is built from 'where to' with 'ni' in front, much like 'nobody' or 'never'. See you next time!"
 CLOSING = ('nastya', 'До свидания!')
 STORY = [
@@ -30,9 +30,9 @@ STORY = [
     ('kostya', 'Мне срочно нужно в туалет.', 'I urgently need to go to the toilet.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, we need to have a serious talk.' 'To us necessary' stands for 'we need'. 'Seriously' ends in 'o', and 'to talk' is a plain form."),
-    (1, None, "'I wanted to discuss something with you.' 'Something' is built from two pieces, 'koe' and 'what'. 'Discuss' is the finished kind."),
-    (2, None, "'Wait a minute, I'll be right back.' 'Right now' also means 'in a moment', so it softens the line. 'Come back' ends in 'sya'."),
+    (0, None, "'Kostya, we need to have a serious talk.' 'To us necessary' stands for 'we need'. 'Seriously' carries 'o', and 'to talk' is a plain form."),
+    (1, None, "'I wanted to discuss something with you.' 'Something' is built from two pieces, 'koe' and 'what'. 'Discuss' is a once-and-done action."),
+    (2, None, "'Wait a minute, I'll be right back.' 'Right now' also means 'in a moment', so it softens the line. 'Come back' carries 'sya'."),
     (3, None, "'It's a very important conversation for us.' 'Important' agrees with the masculine 'conversation'. 'For us' is a small word and 'nas'."),
     (4, None, "'I understand, but I have to go.' 'To me necessary' stands for 'I need'. 'Go' is the plain form."),
     (5, None, "'Are you running away from my questions again?' 'Run away' is the ongoing kind. 'From my questions' takes the 'ov' plural after 'from'."),

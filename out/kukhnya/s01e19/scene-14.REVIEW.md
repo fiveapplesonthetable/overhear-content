@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you going to do?' 'Intend' ends in 'sya', and literally means 'gather yourself'. It is followed by the plain 'to do'.
+- 'What are you going to do?' 'Intend' carries 'sya', and literally means 'gather yourself'. It is followed by the plain 'to do'.
 - 'You mean the restaurant?' The small word 'naschyot' means 'regarding'. 'Restaurant' takes an 'a' ending after it.
 - 'The owner gave you two weeks.' 'Two' takes the feminine form, 'dve', as 'week' is feminine. 'Weeks' after 'two' ends in 'i'.
-- 'A week's already gone by.' 'Passed' ends in 'a' because 'week' is feminine. 'Already' is placed first.
+- 'A week's already gone by.' 'Passed' finishes with 'a' because 'week' is feminine. 'Already' is placed first.
 - 'Don't worry, I have an idea.' A negative command uses the ongoing form of 'worry'. 'At me there is' stands for 'I have'.
-- 'Let me guess. You'll get drunk?' 'Give' plus 'I'll guess' makes 'let me guess'. 'Get drunk' is a finished action, from 'drink'.
+- 'Let me guess. You'll get drunk?' 'Give' plus 'I'll guess' makes 'let me guess'. 'Get drunk' is the completed kind, from 'drink'.
 - 'Naturally. It's such an occasion.' 'Naturally' is built from 'nature'. 'Occasion' also means 'reason'.
 - 'The birthday of the Claude Monet restaurant.' Three nouns in a row, each in the 'of' form. 'Day of birth' is a pair of words.
-- 'We'll throw a feast for the whole world.' The phrase rhymes in Russian, 'pir na ves mir', which makes it a favourite saying. 'Arrange' is a finished action.
-- 'And how will the world hear about it?' 'Find out' is a finished action, in the future. 'About this' adds a 'b' before the vowel.
+- 'We'll throw a feast for the whole world.' The phrase rhymes in Russian, 'pir na ves mir', which makes it a favourite saying. 'Arrange' is an action seen as complete.
+- 'And how will the world hear about it?' 'Find out' treats the action as done, in the future. 'About this' adds a 'b' before the vowel.
 - 'I'll take care of that.' The idiom is 'I take it on myself'. 'Myself' is a special word, here with an 'ya' ending.
 - 'Got it. Good luck.' 'Understandable' is a one-word reply. 'Luck' takes an 'i' ending in a wish.
 - 'Thanks.' One word, and plenty for Barinov. It's the plain Russian thank-you.

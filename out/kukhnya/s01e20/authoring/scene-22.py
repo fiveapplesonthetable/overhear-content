@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "The reflection continues as the season draws to a close. Max speaks about the illusions people live in, and how they are stripped away. We'll hear it in Russian first."
-OPENER = "Let's replay it step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'The reflection continues as the season draws to a close. Max speaks about the illusions people live in, and how they are stripped away. The Russian comes first.'
+OPENER = 'Slowly this time.'
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "The masks come off, and nobody was ready. 'Probuzhdeniye' means 'awakening' and comes from the verb for waking someone. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
@@ -37,9 +37,9 @@ WALK = [
     (4, None, "'Everyone plays roles.' 'Play' is plural, to go with 'everyone'. 'Roles' is plural too."),
     (5, None, "'They are other people's masks.' 'Other people's' also means 'foreign'. 'Masks' is plural."),
     (6, None, "'But the moment of awakening comes.' 'Awakening' is built from 'wake'. 'Comes' is a long word for 'sets in'."),
-    (7, None, "'Life tears these masks off us.' 'Off us' is a small word and 'nas'. 'Tears off' is a single word."),
+    (7, None, "'Life tears these masks off us.' 'Off us' is a small word and 'nas'. 'Tears off' is just one word."),
     (8, None, "'They were endless.' 'Endless' is built from 'without end'. 'Were' is plural."),
     (9, None, "'Light lays reality bare.' 'Lays bare' comes from 'naked'. 'Light' is neuter."),
-    (10, None, "'We see the truth.' 'We see' ends in 'im'. 'Truth' takes a 'u' ending."),
+    (10, None, "'We see the truth.' 'We see' finishes with 'im'. 'Truth' takes a 'u' ending."),
     (11, None, "'We weren't ready for it.' 'For it' picks up an 'n', so it is 'k ney'. 'Ready' is plural."),
 ]

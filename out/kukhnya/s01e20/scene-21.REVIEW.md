@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People often sleep.' 'People' is an irregular plural. 'They sleep' ends in 'yat'.
+- 'People often sleep.' 'People' is an irregular plural. 'They sleep' carries 'yat'.
 - 'They don't want to think.' 'They want' is irregular, ending in 'yat'. 'To think' is the plain form.
 - 'Everyone loves to dream.' 'Dream' means to daydream, not to sleep. 'They love' is plural, to go with 'everyone'.
-- 'We have dreams.' Russians 'see' dreams, where English 'has' them. 'We see' ends in 'im'.
+- 'We have dreams.' Russians 'see' dreams, where English 'has' them. 'We see' carries 'im'.
 - 'Such is our life.' 'Such at us life' is the word order. There's no 'is'.
 - 'Nobody sees the truth.' 'Nobody' and 'not' appear together. 'Truth' takes a 'u' ending.
 - 'We ourselves don't see.' 'Ourselves' is a short plural word. It comes right after 'we'.
 - 'Many close their eyes.' 'Eyes' is plural, with a stressed 'a'. 'Many' is plural, too.
-- 'They are afraid.' 'Fear' ends in 'sya', so it's 'they fear themselves'. A short, plain line.
+- 'They are afraid.' 'Fear' finishes with 'sya', so it's 'they fear themselves'. A short, plain line.
 - 'They just wait for a miracle.' 'Wait for' takes the object form, but 'miracle' is neuter and doesn't change. 'Just' sits at the front.
 - 'Nobody knows anything.' Three negatives: 'nobody', 'nothing' and 'not'. All are required.
-- 'And everyone keeps quiet.' 'Are silent' ends in 'yat'. 'Everyone' is the plain word.
+- 'And everyone keeps quiet.' 'Are silent' carries 'yat'. 'Everyone' is the plain word.

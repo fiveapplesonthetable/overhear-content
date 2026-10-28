@@ -25,11 +25,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I did it.' 'Did' is the finished kind, ending in the masculine 'l'. The little word for 'it' follows.
+- 'Chef, I did it.' 'Did' is a finished action, ending in the masculine 'l'. The little word for 'it' follows.
 - 'What did you make?' The order is the same as English. Barinov uses the casual 'you', as a boss does.
 - 'I made your pâté.' Max says 'your' in the polite form, matching the masculine pâté. A casual 'your' would be 'tvoy', but that's for friends.
 - 'My pâté?' He says just 'my pâté' and the rising voice turns it into a question. There's no extra word for 'what'.
-- 'It came out exactly the same.' The first word is 'it got obtained', a very Russian way of saying 'it turned out'. 'One in one' is the picture for identical.
+- 'It came out exactly the same.' The word at the start is 'it got obtained', a very Russian way of saying 'it turned out'. 'One in one' is the picture for identical.
 - 'I must taste it.' 'Must' ends in 'en' for a man, and a woman would say a different ending. After it comes the plain 'to try'.
 - 'Even a little better.' The doubled 'chut' is a bit like 'teeny-weeny', and Russians double a word to make it smaller or bigger. 'Better' is the short form.
 - 'No way!' Literally 'yes okay?', and it works as 'really?'. It is a casual line, the sort a friend would use.

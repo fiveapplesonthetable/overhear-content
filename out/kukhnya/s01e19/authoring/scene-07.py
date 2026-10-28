@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "In the dining room, Max brings Vika a single flower and asks her out for the evening. She turns him down, and then a delivery man arrives with a huge bouquet for her. We'll hear it in Russian first."
-OPENER = "Let's take it apart a line at a time."
-TRANSITION = "Now let's hear the whole scene once more from start to finish."
+INTRO = 'In the dining room, Max brings Vika a single flower and asks her out for the evening. She turns him down, and then a delivery man arrives with a huge bouquet for her. Here it is in Russian.'
+OPENER = "Let's pull it apart a little."
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "Max's single flower looks small now. Remember that Russians say flowers 'stand' in water, so the verb for putting them there is the one for standing something up. See you next time!"
 CLOSING = ('guest', 'До скорого!')
 STORY = [
@@ -30,7 +30,7 @@ STORY = [
     ('vika', 'Надо их быстро поставить в воду.', 'We need to put them in water quickly.', [(173, 'Надо их'), (173, 'поставить в воду')], ''),
 ]
 WALK = [
-    (0, None, "'Hi, Vika, I was just thinking.' 'Here' is used as a filler. The 'thought' is the finished kind, so it means a thought that has arrived."),
+    (0, None, "'Hi, Vika, I was just thinking.' 'Here' is used as a filler. The 'thought' is a once-and-done action, so it means a thought that has arrived."),
     (1, None, "'Anyway, this is for you.' The opening is a stock phrase, 'in general'. 'This to you' means 'this is for you'."),
     (2, None, "'How unexpected, thank you very much!' 'Unexpected' is 'not' plus 'expected', stuck together. 'How' plus an adverb makes an exclamation."),
     (3, None, "'Listen, maybe we could go somewhere tonight?' 'We'll go' is the kind of going that comes back, so it suits an outing. 'Somewhere' is built with a tail on 'where to'."),
@@ -38,7 +38,7 @@ WALK = [
     (5, None, "'I have an important business meeting.' 'Business' is an adjective made from 'matter'. 'At me' stands for 'I have'."),
     (6, None, "'Excuse me, are you Viktoria Goncharova, the art director?' There is no 'are', only 'you' and the name. 'Excuse me' is the polite word."),
     (7, None, "'Yes, that's me.' Russian says 'this I', where English says 'that's me'. The 'I' stays in its plain form."),
-    (8, None, "'Then this is for you, sign here.' 'Sign' ends in 'sya', so it means 'sign yourself'. 'For you' is the polite 'vam'."),
+    (8, None, "'Then this is for you, sign here.' 'Sign' finishes with 'sya', so it means 'sign yourself'. 'For you' is the polite 'vam'."),
     (9, None, "'How beautiful! Max, hold these, please.' 'What beauty' is the Russian exclamation, with 'beauty' as a noun. 'Hold' is the casual command."),
     (10, None, "'Thank you for the lovely flowers.' 'Wonderful' is built from 'miracle'. 'Flowers' is plural, with a 'y' ending."),
     (11, None, "'We need to put them quickly in water.' Russians say flowers 'stand' in water, so the word is the one for standing something up. 'In water' needs an 'u' ending."),

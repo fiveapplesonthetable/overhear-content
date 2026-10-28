@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Isn't your birthday today?' The 'not' goes right before 'today', so only that word is denied. It sounds suspicious, which it should.
 - 'I wanted to do something nice for you.' 'Nice' is used as a noun, so it means 'something nice'. 'Do to you' is the usual pattern.
 - 'Did you lie to us about the holiday?' 'Lied' is the kind that means a small lie. 'About' is a tiny word.
-- 'I wanted to forget all the grudges.' 'Grudges' is plural. 'Forget' is a finished action.
+- 'I wanted to forget all the grudges.' 'Grudges' is plural. 'Forget' is an action seen as complete.
 - 'But you mustn't lie to friends.' The 'not allowed' word is followed by the plain 'to lie'. 'To friends' has a plural ending.
 - 'Any lie is bad.' 'Any' is a single word. The dash stands in for 'is'.
 - 'I'm very much in the wrong before you.' 'Guilty' is a short form with a masculine ending. 'Before you' picks up an 'ami' ending.

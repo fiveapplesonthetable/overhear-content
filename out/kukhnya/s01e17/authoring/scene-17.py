@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Barinov has spotted the veal rolls from his own kitchen on the menu of the rival restaurant, and he storms over to its chef, Elena, to accuse her of stealing the dish. We'll hear it in Russian first."
-OPENER = "Let's replay it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Barinov has spotted the veal rolls from his own kitchen on the menu of the rival restaurant, and he storms over to its chef, Elena, to accuse her of stealing the dish. Russian first, then we'll take it apart."
+OPENER = "Now we'll take it apart."
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Elena has the date on her side, and Barinov has to back down. As you listen again, notice that 'stoyat'' is just the basic form of the word, used as a stern command. See you next time!"
 CLOSING = ('elena', 'До свидания.')
 STORY = [
@@ -32,7 +32,7 @@ STORY = [
 WALK = [
     (0, None, "'Hold it right there.' The basic form of 'stand' is used as a command, like a guard's 'freeze!'. It's bossy by itself."),
     (1, None, "'What's the matter?' Russian says 'in what is the matter', with 'matter' a very common word. It's a fixed phrase."),
-    (2, None, "'You stole our dish.' 'Stole' ends in 'li', because he says 'you' in the plural. 'Our dish' is neuter, with the 'e' ending."),
+    (2, None, "'You stole our dish.' 'Stole' finishes with 'li', because he says 'you' in the plural. 'Our dish' is neuter, with the 'e' ending."),
     (3, None, "'We invented it ourselves.' 'Ourselves' goes first, which puts weight on it. 'It' is the same as 'him', a quirk for neuter nouns."),
     (4, None, "'I knew it.' The line is 'I so and knew', with the 'so and' as 'I thought as much'. 'Knew' ends in the masculine 'l'."),
     (5, None, "'You can't do anything yourselves.' 'Nothing' and 'not' appear together, and Russian demands both. 'Yourselves' sits at the end."),

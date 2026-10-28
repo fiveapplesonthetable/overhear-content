@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I stepped in a rotten plum, chef.' 'Rotten' comes from the verb for rotting, and the plum ends in 'u' because Max stepped into it. The 'l' on the end of 'stepped' says it's a man speaking.
+- 'I stepped in a rotten plum, chef.' 'Rotten' comes from the verb for rotting, and the plum finishes with 'u' because Max stepped into it. The 'l' on the end of 'stepped' says it's a man speaking.
 - 'Quit whining, I'm in a good mood.' The opening word means 'enough' and is followed by the plain 'whine', a slangy one. 'At me good mood' is how Russian says 'I'm in a good mood'.
 - 'Today you will learn the art of buying fish.' 'Art' is followed by the plain 'to buy', with no 'of' in between. 'Fish' takes a 'u' ending as the thing being bought.
 - 'How many days old is this fish, Max?' Russian gives an age with 'to': literally 'to this fish how many days'. After 'how many', 'days' takes a special plural.
 - 'The seller says they brought it today.' 'They brought' has the 'li' ending with no 'they', which is how Russian says 'it was brought'. The verb is the one for bringing by vehicle.
 - 'Watch closely, he pursed his lips.' 'Watch' is a casual command, and 'closely' is a describing word ending in 'o'. 'Lips' is always plural in Russian.
-- 'That means this fish is at least three days old.' The first word is 'it means', used here as 'so' or 'in other words'. After 'three', 'days' changes again, to a shorter form.
+- 'That means this fish is at least three days old.' The word at the start is 'it means', used here as 'so' or 'in other words'. After 'three', 'days' changes again, to a shorter form.
 - 'And now he scratched his nose.' The 'po' on the front of 'scratch' means he did it briefly. Barinov reads a scratch of the nose like a confession.
 - 'This fish is already five days old.' After 'five' the days switch back to the longer form, just like after 'how many'. Two, three or four days take the short one, and five or more take the long.
 - 'And it was definitely frozen before.' 'They froze' is built on the word for frost, and again has no 'they'. 'Definitely' and 'before' are tiny words, easy to lift into other sentences.

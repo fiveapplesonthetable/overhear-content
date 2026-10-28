@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Where is your fire extinguisher?' Russian's 'where' is one you'll hear in every shop and station, and 'your' is the polite-or-plural form, matching a masculine thing.
-- 'It was hanging here last time.' A masculine speaker or thing gets a past form that just ends in 'l', no extra ending. 'Last time' is literally 'in the past time'.
+- 'It was hanging here last time.' A masculine speaker or thing gets a past form that just carries 'l', no extra ending. 'Last time' is literally 'in the past time'.
 - 'Are you laughing at me?' Russian laughs 'over' someone, so the little word 'over' stands where English puts 'at'. The inspector also throws in a small 'what' at the start, which works like our 'what, are you kidding me?'.
 - 'This one is not suitable.' The Russian for 'suits' literally means 'walks up to', which makes sense if you picture something that comes up to the mark. Here it's negated, and the inspector says 'this one' with the masculine word for it.
 - 'Here is a normal fire extinguisher.' Vika points with the little word 'vot', 'here you go', and she doesn't need any 'is' after it. Russian's 'normal' you will recognise at once.

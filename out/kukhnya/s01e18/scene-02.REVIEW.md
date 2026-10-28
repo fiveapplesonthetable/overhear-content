@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What are these tiny numbers in the report?' 'What kind of' is made with 'chto za'. 'Numbers' is plural, and the report takes an 'e' after 'in'.
 - 'Why do we have so little money?' After 'little', money takes the 'of' form, which is 'deneg'. That form is irregular and worth learning as it is.
 - 'Dmitry Vladimirovich, we have few guests right now.' Vika uses his name and patronymic, the polite address for a boss. After 'few', the guests take the 'ey' ending.
-- 'A new Italian restaurant opened nearby.' The ending 'sya' on 'opened' means the restaurant opened by itself. 'Nearby' is a single word.
+- 'A new Italian restaurant opened nearby.' The ending 'sya' on 'opened' means the restaurant opened by itself. 'Nearby' comes as one word.
 - 'And what am I supposed to do now?' It is literally 'and to me what now to do', which is the plain 'to do'. Nagiyev is exasperated.
 - 'I need to feed my big family!' 'To me necessary' stands for 'I need'. 'Own big family' is feminine, with 'yu' endings.
 - 'Dima, there are simply no people right now.' Barinov uses a pet short form of the name, which only a friend could get away with. After 'there aren't', 'people' takes an 'ey' ending.
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You always have the same old story!' 'One and the same' is the phrase for 'identical'. 'Story' ends in 'ya'.
 - 'We will definitely come up with a good solution.' 'We'll devise' is the 'we' form of a finished action. 'Solution' comes from the verb for 'solve'.
 - 'You see, we're working seriously here.' 'You see' is just the polite form of 'see'. Nagiyev uses it the way we say 'look'.
-- 'I'm staying in the restaurant with my colleagues!' 'I stay' ends in 'sya'. 'With my colleagues' has a 'so' and a plural 'imi' ending.
+- 'I'm staying in the restaurant with my colleagues!' 'I stay' finishes with 'sya'. 'With my colleagues' has a 'so' and a plural 'imi' ending.

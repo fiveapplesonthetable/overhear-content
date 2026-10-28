@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is this the end?' There's no word for 'is', and the question comes only from the rising voice. 'End' ends in a hard 'ts'.
 - 'I don't know.' This time the 'I' is spelled out, which gives the line a heavier tone. Without it, the line would sound a touch more casual.
 - 'Chef, what do we do?' It's just 'what to do', in the basic form, with no 'we' at all. Max talks to the boss with a plain title.
-- 'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is the finished kind, meaning to go away for good.
+- 'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is a once-and-done action, meaning to go away for good.
 - 'I'm very sorry.' Russian says 'to me very pity', so the sorrow is something that happens to you. It's a gentle way to give bad news.
 - 'Pack your things.' The 'sya' on the end means 'gather yourselves', and 'te' makes it a command to several people. In real life it also means 'get ready to go'.
-- 'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It ends in 'ite', the polite command ending again.
+- 'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It carries 'ite', the polite command ending again.
 - 'It's my duty.' 'Duty' is also 'debt', so duty is what you owe. 'My' is masculine to match.
 - 'Good.' It sounds resigned here, like 'fine' or 'all right'. Barinov has nothing left to argue with.

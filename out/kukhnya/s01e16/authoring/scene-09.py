@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "At Arcobaleno, the migration inspector has finished with Elena Pavlovna's kitchen and found nothing wrong. Hungry, he looks for somewhere to eat, and he picks the restaurant next door. That is Claude Monet. First, the Russian."
-OPENER = "Now let's walk through it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "At Arcobaleno, the migration inspector has finished with Elena Pavlovna's kitchen and found nothing wrong. Hungry, he looks for somewhere to eat, and he picks the restaurant next door. That is Claude Monet. The Russian comes first."
+OPENER = "Let's unpack it."
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "The revenge is about to land on Claude Monet's own doorstep, and Barinov is the first to see it coming. As you watch, keep an eye out for 'vot' and 'von': they look alike but mean very different things. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -33,7 +33,7 @@ WALK = [
     (0, None, "'Everything is in order with you.' The first two words are the 'at you' that Russian uses where we say 'you have'. It's a happy ending to a long inspection."),
     (1, None, "'We do everything right.' Russian's 'everything' has an 'o' ending to say 'all of it', and 'right' is 'correctly'. The ending on 'do' is the one for 'we'."),
     (2, None, "'Thank you very much.' The Russian for 'thanks' is a noun, so Russian's 'big' has to match it. Elena's 'to you' at the end is polite."),
-    (3, None, "'You really surprised me.' The Russian for 'me' changes its shape when it is the one being surprised. The verb is the finished kind, so it's about one moment, not a habit."),
+    (3, None, "'You really surprised me.' The Russian for 'me' changes its shape when it is the one being surprised. The verb is a finished action, so it's about one moment, not a habit."),
     (4, None, "'Not a single cook without documents.' The first two words mean 'not even one' and are followed by the 'of' form for the cook. 'Without' is another small word that brings a particular ending after it."),
     (5, None, "'I got used to working by the law.' The 'a' on the end of the first word says Elena is a woman, since a man would end it with 'l'. 'By the law' is a tiny two-word chunk, and the law gets an 'u' ending."),
     (6, None, "'It was very pleasant for me.' The little middle word, 'was', is the neuter form since no one is actually doing it. 'To me' is how Russian puts it: the pleasure happens to me, rather than being something I do."),

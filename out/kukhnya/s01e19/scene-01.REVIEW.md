@@ -26,10 +26,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Woke me up, did you?' One word does the work of four. The 'l' ending tells you it's a man who did it, and 'wake up' is built from the plain word for waking with a prefix on the front.
-- 'Please forgive me.' 'Forgive' is the casual command, and 'me' takes the 'a' form, 'menya'. Max says it the way a child does.
-- 'Where were you, anyway?' 'Anyway' is a long word, 'voobshche', which is said 'vaapshe'. 'Were' ends in 'l' for a man.
+- 'Please forgive me.' 'Forgive' is the informal order, and 'me' takes the 'a' form, 'menya'. Max says it the way a child does.
+- 'Where were you, anyway?' 'Anyway' is a long word, 'voobshche', which is said 'vaapshe'. 'Were' finishes with 'l' for a man.
 - 'What is this, an interrogation?' 'What kind of' is made with 'chto za', as in many Russian questions. 'Interrogation' is a noun built from 'to ask'.
-- 'You think you can roam wherever you like?' 'Anywhere' is literally 'where it pleases', two words. The slangy word for 'roam' ends in 'sya', so it's 'roam oneself'.
+- 'You think you can roam wherever you like?' 'Anywhere' is literally 'where it pleases', two words. The slangy word for 'roam' carries 'sya', so it's 'roam oneself'.
 - 'And come home at three?' Russians say 'in three hours' for 'at three o'clock', and after 'three' 'hour' is shortened. 'Come' is the ongoing kind, for a habit.
 - 'Quarter to.' The Russian is 'without fifteen', since the minutes before the hour are 'without'. Max leaves the hour out, because they both know it's three.
 - 'What kind of relationship do we have?' 'At us' stands for 'we have'. 'Relationship' is always plural in Russian when it means a relationship between two people.

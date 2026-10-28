@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Maxim, please forgive us.' Vika uses his full first name, which is formal. 'Forgive' is the casual command, and 'us' takes its object form.
 - 'We ruined a great holiday for you.' 'Ruined' ends in 'li' for the plural. 'To you' tells whose holiday it was.
-- 'I'm not angry with you.' Russian is angry 'on' someone, so a small word for 'on' comes before 'you'. 'I am angry' ends in 'sya'.
+- 'I'm not angry with you.' Russian is angry 'on' someone, so a small word for 'on' comes before 'you'. 'I am angry' finishes with 'sya'.
 - 'Please forgive them, from the heart.' 'Them' is a short word. 'From the soul' is Russian's version of 'from the heart'.
 - 'And forgive me too.' The 'me' comes first, and 'too' follows it. Putting the object first makes it sound like a plea.
 - 'So, is that all? Is the conflict over?' The verb for 'ended' has 'sya' on it, so the conflict ended by itself. 'Is that all' is just 'all?', said as a question.
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We all want peace in the kitchen.' 'Peace' also means 'world'. After 'want', 'peace' takes an 'a' ending.
 - 'Peace in the kitchen is the main thing.' The dash takes the place of 'is'. 'Main' comes from 'head'.
 - 'Thank you all for the kind words.' 'To all' is a short word for 'thank everyone'. 'Kind' is the same as in 'good day'.
-- 'Now we can work calmly.' 'Now' and 'calmly' are the two small words. 'We can' is a single word.
+- 'Now we can work calmly.' 'Now' and 'calmly' are the two small words. 'We can' is one word on its own.
 - 'I'm very glad we made up.' 'Glad' has a bare ending for a man. 'Made up' is built from 'peace', plus 'sya'.

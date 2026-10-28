@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at this video.' 'Look' is the casual command. 'Video' never changes, whatever its role.
+- 'Look at this video.' 'Look' is the informal order. 'Video' never changes, whatever its role.
 - 'I don't understand. Am I fired?' 'Fired' is a short masculine form, so no 'am'. The question lives on the voice.
 - 'No, you're a star!' 'Star' is feminine. There's no 'are'.
 - 'Why am I a star?' The same word again, in the same shape. Barinov is baffled.
 - 'The video has a million views.' 'At the video' stands for 'has'. 'Million' is followed by the 'of' plural, 'views'.
-- 'Everyone wants to see you.' 'They want' ends in 'yat'. 'You' takes the 'a' form, 'vas'.
+- 'Everyone wants to see you.' 'They want' finishes with 'yat'. 'You' takes the 'a' form, 'vas'.
 - 'Do we have many guests?' 'At us' stands for 'we have'. After 'many', 'guests' takes the 'ey' ending.
 - 'Yes, all the tables are taken.' 'Taken' is a plural short form. 'Tables' are little tables, plural.
 - 'You're very popular now.' 'Popular' is a short masculine form. 'Now' ends the line.
 - 'So can I go on working?' 'Can I' is one word. 'Further' means 'on'.
-- 'Of course! Go to the kitchen.' 'Go' is the casual command. 'To the kitchen' uses 'on' and a 'u' ending.
+- 'Of course! Go to the kitchen.' 'Go' is the informal order. 'To the kitchen' uses 'on' and a 'u' ending.
 - 'Thanks, I'll go and work.' 'I'll go' is a future form. 'Work' is the plain form.
 - 'I expect a tasty lunch today.' 'Wait' stands for 'expect'. 'Tasty lunch' has masculine endings.
 - 'It'll be done, my boss.' 'Will be done' is a neuter short form. 'Boss' is borrowed.

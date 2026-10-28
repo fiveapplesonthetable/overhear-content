@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "The toast is interrupted. Barinov asks Max to show him his passport, and the date of birth in it is not what Max has been telling everyone. We'll hear it in Russian first."
-OPENER = "Let's replay it one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "The toast is interrupted. Barinov asks Max to show him his passport, and the date of birth in it is not what Max has been telling everyone. Here's the Russian, start to finish."
+OPENER = "We'll go through it again, this time with the meaning."
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Max has been caught out, and everyone has something to say about it. As you listen again, notice that months are not capitalised in Russian, and that 'v fevrale' means 'in February'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'Isn't your birthday today?' The 'not' goes right before 'today', so only that word is denied. It sounds suspicious, which it should."),
     (4, None, "'I wanted to do something nice for you.' 'Nice' is used as a noun, so it means 'something nice'. 'Do to you' is the usual pattern."),
     (5, None, "'Did you lie to us about the holiday?' 'Lied' is the kind that means a small lie. 'About' is a tiny word."),
-    (6, None, "'I wanted to forget all the grudges.' 'Grudges' is plural. 'Forget' is a finished action."),
+    (6, None, "'I wanted to forget all the grudges.' 'Grudges' is plural. 'Forget' is an action seen as complete."),
     (7, None, "'But you mustn't lie to friends.' The 'not allowed' word is followed by the plain 'to lie'. 'To friends' has a plural ending."),
     (8, None, "'Any lie is bad.' 'Any' is a single word. The dash stands in for 'is'."),
     (9, None, "'I'm very much in the wrong before you.' 'Guilty' is a short form with a masculine ending. 'Before you' picks up an 'ami' ending."),

@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Kostya, we need to talk.' 'To us necessary' is the pattern. 'To talk' is the plain form.
 - 'Can it wait?' 'Can' is a short word ending in 't' for 'it'. 'Wait a while' is the plain form.
-- 'No, it's important.' 'Important' is used here as a describing word that ends in 'o'. There's no 'is'.
+- 'No, it's important.' 'Important' is used here as a describing word that finishes with 'o'. There's no 'is'.
 - 'Nastya, I've missed you so much.' Russians say 'I got bored for you', with the small word 'po'. 'You' takes the 'e' ending.
 - 'Please, listen to me.' 'Listen' is the finished command. 'Please' is the longer word.
 - 'I'm listening to you.' 'Listen' is the on-purpose word. 'You' takes the 'a' form.
 - 'Our relationship is moving fast.' 'Relationship' is plural, so 'develop' is plural too. The 'sya' ending means 'develop themselves'.
-- 'I think it's great.' 'I think' ends in 'yu'. 'Great' ends in 'o'.
-- 'But we need to discuss our future.' 'Future' is neuter, so 'our' ends in 'e'. 'Discuss' is the finished kind.
+- 'I think it's great.' 'I think' carries 'yu'. 'Great' finishes with 'o'.
+- 'But we need to discuss our future.' 'Future' is neuter, so 'our' finishes with 'e'. 'Discuss' is a once-and-done action.
 - 'We have plenty of time.' After 'many', 'time' takes a different ending, 'i'. 'At us there is' stands for 'we have'.
 - 'No, the time has come now.' The line is 'the time has come', in the neuter form. 'Now' ends the sentence.
 - 'Okay, I'm ready to talk.' 'Ready' is a short masculine form. 'To talk' is the plain form.

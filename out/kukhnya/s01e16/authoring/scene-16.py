@@ -11,8 +11,8 @@ LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'max': 'Мак
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = 'One more cook without papers needs hiding, and the kitchen is running out of places to put people. Barinov tells him to wait it out, and the inspector finally declares the kitchen clean. Hear it in Russian first.'
-OPENER = "Let's take it apart a little at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = 'Time for the details.'
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "The inspector declares the kitchen clean, and Barinov is pleased with himself. As you listen again, spot 'davay', the little word that Russians sprinkle everywhere for 'come on' or 'okay'. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -34,16 +34,16 @@ STORY = [
 WALK = [
     (0, None, "'What makes you think so?' Word for word it is 'you from what took', which is a favourite Russian idiom. It really asks 'on what grounds?'."),
     (1, None, "'Another illegal.' 'One more' is the way to say 'another'. The 'ne' prefix does the same job as 'il' in English."),
-    (2, None, "'Good grief, where do we put you?' The first word is 'Lord', used the way we say 'good grief'. 'Where to' asks for a direction, and the 'put' word is used for getting rid of someone."),
+    (2, None, "'Good grief, where do we put you?' The word at the start is 'Lord', used the way we say 'good grief'. 'Where to' asks for a direction, and the 'put' word is used for getting rid of someone."),
     (3, None, "'You'll sit it out in the toilet.' The 'ot' on the front means 'out', as in sitting through something until it is over. The ending in 'sya' makes it 'sit yourselves out'."),
-    (4, None, "'Then you'll leave through the entrance.' 'Entrance' is built as an 'in-way', and when you swap the first part for 'out' you get 'exit'. 'Go away' is a finished action, which gives the line a future meaning."),
+    (4, None, "'Then you'll leave through the entrance.' 'Entrance' is built as an 'in-way', and when you swap the first part for 'out' you get 'exit'. 'Go away' is the completed kind, which gives the line a future meaning."),
     (5, None, "'They are on duty at the entrance.' Russians say 'on the entrance' where English says 'at'. The ending is an 'e', the one that says where."),
     (6, None, "'Let him sit in the hall for a while.' The 'po' at the front of 'sit' makes it 'sit a bit'. The hall takes an 'e' because he'll be in it."),
     (7, None, "'Go to the bar and take some clothes.' The first word means going somewhere and coming straight back. 'Clothes' is singular in Russian, so it's 'take clothing'."),
     (8, None, "'Hang in there, come on.' The first word is 'endure', a command. The second, 'davay', is the all-purpose 'come on' or 'okay' that Russians use constantly."),
     (9, None, "'Congratulations.' It literally says 'I congratulate you', with 'I' folded into the ending. The inspector sounds oddly warm."),
     (10, None, "'Everything is clean with you.' 'At you everything' is the pattern again, and the ending 'o' on 'clean' makes it describe a state of things."),
-    (11, None, "'I told you so right away.' The little word 'zhe' adds the sense of 'didn't I?'. 'Told' has the masculine 'l', and 'right away' is a single word."),
+    (11, None, "'I told you so right away.' The little word 'zhe' adds the sense of 'didn't I?'. 'Told' has the masculine 'l', and 'right away' comes as one word."),
     (12, None, "'I have no right to believe.' This is the formal way to say 'have', not the casual 'at me is'. It's the inspector's official tone, which Russians would recognise at once."),
     (13, None, "'We are professionals.' It has no 'are'. It's a short plural statement and Barinov says it with pride."),
 ]

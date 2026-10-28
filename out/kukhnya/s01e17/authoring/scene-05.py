@@ -11,8 +11,8 @@ LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Vika has given Barinov a deadline for a new seasonal dish, and he has no idea what to cook. So he calls the kitchen together and announces a contest, with a prize for the winner. Max asks the awkward questions. We'll hear it in Russian first."
-OPENER = "Let's replay it slowly, one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = 'Now the same story, slowly.'
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "A bonus at the end of the month and no insults until then: that's the whole deal. 'Srazu' means 'right away' and is worth remembering, since Max and Barinov both use it. See you next time!"
 CLOSING = ('max', 'До свидания.')
 STORY = [
@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'I have an announcement.' The usual 'at me' pattern stands for 'I have'. The same word also means a notice or ad on a board, so it's the word for anything pinned up."),
-    (1, None, "'We need a seasonal dish.' The thing needed stays in its plain form, so it's 'needed dish'. 'Seasonal' ends in 'oe' to match the neuter 'dish'."),
+    (1, None, "'We need a seasonal dish.' The thing needed stays in its plain form, so it's 'needed dish'. 'Seasonal' finishes with 'oe' to match the neuter 'dish'."),
     (2, None, "'Chef, wait.' The command is the polite plural one. The 'po' on the front softens it to 'wait a moment'."),
     (3, None, "'You said you wouldn't come up with it.' 'You said' begins with a little word that means 'but', reminding him. 'Won't invent' is built from 'will not' plus the plain 'invent'."),
     (4, None, "'And I won't.' The little 'i' in the middle puts weight on the refusal. It's a flat reply, three words long."),

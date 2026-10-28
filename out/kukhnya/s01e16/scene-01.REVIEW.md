@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It must hang within three meters.' Russian's 'must' changes with whoever is the subject, and here it's the masculine form because the extinguisher is masculine in Russian. The second word stays in its dictionary form, 'to hang', and 'three meters' wears a plural ending.
 - 'From the place of a possible fire.' This is a pile-up of the 'of' form: place, possible, fire all end in the matching ending. 'Fire' here is the destructive one, not the one for a campfire.
 - 'This is not a problem.' Vika shrugs it off. The small word for 'not' sits right in front of what it denies, and the Russian for 'problem' is one you already know from English.
-- 'This is a very big problem.' Russian's 'big' ends in 'aya' because 'problem' is feminine in Russian, just like the Russian for 'bad' did in the first line. 'Very' is the same word as before.
+- 'This is a very big problem.' Russian's 'big' finishes with 'aya' because 'problem' is feminine in Russian, just like the Russian for 'bad' did in the first line. 'Very' is the same word as before.
 - 'Oh, how bad everything is.' The first sound is just a sigh, like 'ugh'. Russian's 'bad' has no 'aya' this time, because it describes a whole situation instead of a noun.
 - 'I give you two days for correction.' 'I give' is one word, with the ending that means 'I'. 'Day' changes after 'two', and the Russian for 'correction' comes from the verb 'to fix'.
 - 'We will do everything.' This looks like the present, but it's the kind of word that means one finished job, so it points to the future. It's the right thing to promise, even if Vika isn't sure how.

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Vika is heading for a very expensive car in the car park when she finds Max lurking behind a pillar. He claims he is just getting some air, and she doesn't believe a word of it. We'll hear it in Russian first."
-OPENER = "Let's go over it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Vika is heading for a very expensive car in the car park when she finds Max lurking behind a pillar. He claims he is just getting some air, and she doesn't believe a word of it. Russian first, no need to catch it all."
+OPENER = "Now we'll take it apart."
+TRANSITION = 'Now it all together again, from the top.'
 OUTRO = "Vika hands Max her car keys and drives off in someone else's car, leaving him to say goodbye. 'Schastlivogo puti' literally wishes a happy road, and it's what you say to anyone setting off. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'I'm just standing and breathing the air.' Russians breathe 'with' the air, so 'air' takes an 'om' ending. 'Stand' and 'breathe' are two words with 'and' between."),
     (2, None, "'Are you following me again?' 'Follow' needs the small word 'za', so it's 'follow behind me'. 'Behind me' is the irregular 'mnoy'."),
     (3, None, "'But you have an important business meeting right now.' The small 'zhe' adds the sense of 'but you know'. 'At you' stands for 'you have'."),
-    (4, None, "'Max, tell me honestly, are you jealous?' 'Tell' is the casual command, and 'honestly' ends in 'o'. 'Be jealous' is a verb of its own in Russian."),
+    (4, None, "'Max, tell me honestly, are you jealous?' 'Tell' is the friendly command, and 'honestly' finishes with 'o'. 'Be jealous' is a verb of its own in Russian."),
     (5, None, "'I'm not jealous of you at all.' The Russian jealous verb takes 'you' as its object. 'Not at all' is two small words."),
     (6, None, "'It's a meeting about the sale of the restaurant.' 'About' is a three-word phrase meaning 'on the occasion of'. 'Of the sale' and 'of the restaurant' both end in 'i' or 'a'."),
     (7, None, "'I'm calm, go to your meeting.' 'Calm' is a short masculine form. 'Go' is the command for going by vehicle."),

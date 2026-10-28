@@ -32,8 +32,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I wanted to protect my best chef.' 'Own' is the small word that points back to the speaker, and 'best' is the irregular one. Barinov says it simply, without self-pity.
 - 'You should have confessed to everything right away.' 'It was necessary' is how Russian says 'should have'. 'Confess' has 'sya' at the end, and it's the 'to everything' that follows.
 - 'Then you would have received a simple warning.' The little word 'by' after the past form is what makes it 'would have'. 'Warning' comes from the verb 'to warn'.
-- 'Can we come to an agreement with you now?' The verb ends in 'sya' as an agreement is something people do with each other. 'With you' changes shape to 'vami' after 'with'.
-- 'No, it's already too late now.' 'Late' is the same sort of word as 'quickly', ending in 'o'. 'Too' is a single word, built to go in front of an adjective or adverb.
+- 'Can we come to an agreement with you now?' The verb finishes with 'sya' as an agreement is something people do with each other. 'With you' changes shape to 'vami' after 'with'.
+- 'No, it's already too late now.' 'Late' is the same sort of word as 'quickly', ending in 'o'. 'Too' is one word on its own, built to go in front of an adjective or adverb.
 - 'Unfortunately, you'll have to pay a fine.' The 'you'll have to' is shaped like 'to you will come about', and it means there's no choice. 'Fine' is a loan from German.
 - 'All right, the restaurant will pay this big fine.' The 'za' at the front of 'pay' tells you it will be paid in full. The masculine 'this' and 'big' match 'fine'.
 - 'But that's still far from everything.' It says 'far not all'. It's a handy way to warn that there is more bad news.

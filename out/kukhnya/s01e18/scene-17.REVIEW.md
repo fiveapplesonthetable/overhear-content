@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I have to fire your cooks.' 'Must' ends in a bare consonant, for a man. The cooks end in 'ov', which is the form for living things being acted on.
 - 'Have you gone completely mad?' The words mean 'gone out of your mind'. Barinov uses the casual 'you'.
-- 'They cost too much.' Russian says 'stand expensively' where English says 'cost a lot'. 'Expensively' ends in 'o', like many words that say how.
-- 'That's nearly half a million every month.' 'Half a million' is a single word, with 'pol' for 'half'. 'Every month' needs no word for 'during'.
+- 'They cost too much.' Russian says 'stand expensively' where English says 'cost a lot'. 'Expensively' finishes with 'o', like many words that say how.
+- 'That's nearly half a million every month.' 'Half a million' comes as one word, with 'pol' for 'half'. 'Every month' needs no word for 'during'.
 - 'You can't fire them.' 'Fire' is the ongoing form, which suits a refusal. 'Them' is a short word.
 - 'It's the best team in Moscow.' 'Best' is the irregular word that doesn't look like 'good'. 'In Moscow' needs an 'e' on the end of the city's name.
 - 'It's cheaper to find new people.' 'Cheaper' is the comparative of 'cheaply', in a single word. 'People' is the irregular plural.
 - 'What difference does it make who cuts carrots?' 'Which difference' is the Russian for 'what difference'. 'Carrots' is a singular collective word.
-- 'It's my team!' There's no 'is'. 'My' ends in 'ya', since 'team' is feminine.
-- 'If you fire them, you'll lose me.' 'If' opens the condition, and both verbs are future ones. 'Lose' is a finished action.
+- 'It's my team!' There's no 'is'. 'My' carries 'ya', since 'team' is feminine.
+- 'If you fire them, you'll lose me.' 'If' opens the condition, and both verbs are future ones. 'Lose' is the completed kind.
 - 'Just sit down and calm down.' Nagiyev uses a pet form of Barinov's name. 'Calm down' ends in 'sya', so it's 'calm yourself'.
-- 'All right, sort it out yourselves.' 'Sort out' ends in 'sya' and is plural and polite. 'Yourselves' is a handy little word.
+- 'All right, sort it out yourselves.' 'Sort out' finishes with 'sya' and is plural and polite. 'Yourselves' is a handy little word.
 - 'And meanwhile I'm quitting.' The word is the one for 'fire', with 'sya' added, so it's 'fire myself'. 'Meanwhile' is a small word that is also used for 'bye'.
-- 'Wait, we'll work it all out.' 'Wait' is the casual command. 'We'll decide' is a finished action word.
+- 'Wait, we'll work it all out.' 'Wait' is the casual command. 'We'll decide' is an action seen as complete.

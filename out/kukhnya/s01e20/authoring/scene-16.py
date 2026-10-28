@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'old_man': 'Старик'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Outside the restaurant, Max has met an old man on the street. He has decided to give away the watch he inherited from his grandfather, and the old man cannot quite believe it. We'll hear it in Russian first."
-OPENER = "Let's go through it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = 'Outside the restaurant, Max has met an old man on the street. He has decided to give away the watch he inherited from his grandfather, and the old man cannot quite believe it. Here it is in Russian.'
+OPENER = "We'll go through it again, this time with the meaning."
+TRANSITION = "Let's finish by hearing it all again."
 OUTRO = "Max walks away lighter, and the old man now has a watch and a story. 'Proshchay' is the Russian for 'farewell', and it is the same word as 'forgive'. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
@@ -40,10 +40,10 @@ WALK = [
     (5, None, "'Are they expensive?' 'Expensive' is plural, ending in 'ie'. The question lives in the voice."),
     (6, None, "'It's my grandfather's old watch.' 'Grandfather's' is made from 'granddad' with an ending. 'Old' is plural."),
     (7, None, "'Here, take it, old man.' 'Na' is a one-syllable word for 'here, take it'. 'Hold on' is a command with 'sya'."),
-    (8, None, "'Thank you very much.' 'Thanks' is neuter, so 'big' ends in 'oe'. 'To you' sits between them."),
+    (8, None, "'Thank you very much.' 'Thanks' is neuter, so 'big' finishes with 'oe'. 'To you' sits between them."),
     (9, None, "'You need them more than I do.' 'More needed' is one word, made with 'ee'. 'To you' sits in front."),
     (10, None, "'I'll sell them and buy food.' Both verbs are future, finished actions. 'Food' takes the 'of' form."),
-    (11, None, "'Do what you like with them.' 'With them' picks up an 'n', so 'nimi'. 'Do' is the casual command."),
+    (11, None, "'Do what you like with them.' 'With them' picks up an 'n', so 'nimi'. 'Do' is the friendly command."),
     (12, None, "'Goodbye.' This word is the final goodbye, from the same family as 'forgive'. It means you may not meet again."),
     (13, None, "'You're a very kind person.' 'Kind' is the word from 'good day'. There's no 'are'."),
 ]

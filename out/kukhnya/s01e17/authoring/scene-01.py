@@ -11,8 +11,8 @@ LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant. Chef Viktor Barinov rules the kitchen, and young Max Lavrov is the cook he loves to boss around. This morning Barinov drags Max to the market to teach him how to tell whether a fish is fresh. First the Russian, and don't worry about catching every word."
-OPENER = "Now we'll go back through it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = "Let's walk through what each line is doing."
+TRANSITION = "Let's hear the whole thing again, start to finish."
 OUTRO = "Barinov has read the seller like a book, and Max is impressed, at least for now. Remember that Russians give an age with 'to': 'to this fish, five days'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,13 +31,13 @@ STORY = [
     ('max', 'Спасибо за этот важный урок, шеф.', 'Thank you for this important lesson, chef.', [], ''),
 ]
 WALK = [
-    (0, None, "'I stepped in a rotten plum, chef.' 'Rotten' comes from the verb for rotting, and the plum ends in 'u' because Max stepped into it. The 'l' on the end of 'stepped' says it's a man speaking."),
+    (0, None, "'I stepped in a rotten plum, chef.' 'Rotten' comes from the verb for rotting, and the plum finishes with 'u' because Max stepped into it. The 'l' on the end of 'stepped' says it's a man speaking."),
     (1, None, "'Quit whining, I'm in a good mood.' The opening word means 'enough' and is followed by the plain 'whine', a slangy one. 'At me good mood' is how Russian says 'I'm in a good mood'."),
     (2, None, "'Today you will learn the art of buying fish.' 'Art' is followed by the plain 'to buy', with no 'of' in between. 'Fish' takes a 'u' ending as the thing being bought."),
     (3, None, "'How many days old is this fish, Max?' Russian gives an age with 'to': literally 'to this fish how many days'. After 'how many', 'days' takes a special plural."),
     (4, None, "'The seller says they brought it today.' 'They brought' has the 'li' ending with no 'they', which is how Russian says 'it was brought'. The verb is the one for bringing by vehicle."),
     (5, None, "'Watch closely, he pursed his lips.' 'Watch' is a casual command, and 'closely' is a describing word ending in 'o'. 'Lips' is always plural in Russian."),
-    (6, None, "'That means this fish is at least three days old.' The first word is 'it means', used here as 'so' or 'in other words'. After 'three', 'days' changes again, to a shorter form."),
+    (6, None, "'That means this fish is at least three days old.' The word at the start is 'it means', used here as 'so' or 'in other words'. After 'three', 'days' changes again, to a shorter form."),
     (7, None, "'And now he scratched his nose.' The 'po' on the front of 'scratch' means he did it briefly. Barinov reads a scratch of the nose like a confession."),
     (8, None, "'This fish is already five days old.' After 'five' the days switch back to the longer form, just like after 'how many'. Two, three or four days take the short one, and five or more take the long."),
     (9, None, "'And it was definitely frozen before.' 'They froze' is built on the word for frost, and again has no 'they'. 'Definitely' and 'before' are tiny words, easy to lift into other sentences."),

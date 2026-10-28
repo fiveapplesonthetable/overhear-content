@@ -25,8 +25,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's not all, listen on.' 'Still not all' is the Russian for 'that's not all'. 'Further' is a single word.
-- 'What other secret will you show me?' 'What other' is made with 'which' and 'else'. 'You'll show' ends in 'esh', the casual 'you'.
+- 'That's not all, listen on.' 'Still not all' is the Russian for 'that's not all'. 'Further' is one word on its own.
+- 'What other secret will you show me?' 'What other' is made with 'which' and 'else'. 'You'll show' carries 'esh', the casual 'you'.
 - 'Now I'll show you a new trick.' 'Trick' is the word for a conjuring trick. 'I'll show' changes its 'z' into 'zh'.
 - 'In short, first you take a clean glass.' 'Shorter' is used here for 'in short'. 'You take' is general, so 'you' means anyone.
 - 'Okay, I took a big, beautiful glass.' 'Took' ends in the masculine 'l'. 'Big' and 'beautiful' have matching endings.

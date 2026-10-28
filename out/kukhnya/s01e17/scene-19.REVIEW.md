@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, well, where are you?' The opening 'nu' is impatient. There is no 'are', only 'you where'.
 - 'Are you coming soon?' It is just 'you soon?', with no verb. The rising voice does the asking.
 - 'I'm already here.' Three tiny words. 'Here' is the one with a soft sign at the end.
-- 'Why are you standing there?' Russians use 'stand' for being on your feet. 'Stand' ends in 'sh', for the casual 'you'.
+- 'Why are you standing there?' Russians use 'stand' for being on your feet. 'Stand' carries 'sh', for the casual 'you'.
 - 'I'm waiting for my friends.' 'Wait for' takes the 'of' form, so 'friends' ends in 'ey'. 'Own' points back to Max.
-- 'Which friends?' 'Which' ends in 'ikh', the same as in the previous line. It's the same ending, so you can hear the match.
+- 'Which friends?' 'Which' finishes with 'ikh', the same as in the previous line. It's the same ending, so you can hear the match.
 - 'Nastya and Kostya.' Both names change their endings, with the final 'ya' turning into 'yu'. Russian names change shape like ordinary nouns.
 - 'Did you invite them here?' 'Invited' ends in the masculine 'l'. 'Here' means 'to here', which is why it has a different shape.
 - 'Yes, it's a surprise.' 'Surprise' is a word borrowed from French. Max says it with a grin.
-- 'I'm not ready for guests.' 'Ready' ends in 'a' because Vika is a woman. 'For guests' needs a little word and a different ending on 'guests'.
+- 'I'm not ready for guests.' 'Ready' carries 'a' because Vika is a woman. 'For guests' needs a little word and a different ending on 'guests'.
 - 'Everything will be fine.' 'Will be' is a word on its own. Max is cheerfully optimistic.
 - 'Come in faster.' 'Come in' is a casual command. 'Faster' is one word, built on 'quickly'.

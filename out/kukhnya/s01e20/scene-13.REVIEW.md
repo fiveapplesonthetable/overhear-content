@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Kostya, did you buy a ring for Nastya?' The name changes its ending after 'for', with the final 'ya' turning into 'i'. 'Bought' ends in the masculine 'l'.
 - 'Yes, I bought one. Did you?' Kostya repeats 'bought' as his answer. That is how Russians say yes.
 - 'Yes, I bought a ring for Vika too.' The girl's name takes the same 'i' ending after 'for'. 'Too' sits in front of 'bought'.
-- 'Show me your ring, please.' 'Show' is the casual command. 'Own' is a special word, here in the neuter, as 'ring' is neuter.
+- 'Show me your ring, please.' 'Show' is the friendly command. 'Own' is a special word, here in the neuter, as 'ring' is neuter.
 - 'Are you buying rings for each other?' 'Friend for friend' is the Russian for 'for each other'. 'You buy' is plural.
-- 'What's it to you, Senya? Go away.' 'To you what business' is the rude 'mind your own'. 'Go away' is a finished action.
+- 'What's it to you, Senya? Go away.' 'To you what business' is the rude 'mind your own'. 'Go away' is a once-and-done action.
 - 'I'm just curious, when's your wedding?' 'Interesting' on its own means 'I wonder'. 'Wedding' is a word you'll learn quickly.
 - 'It's not your problem. Shut up.' 'Shut up' has a prefix 'za' on 'be silent'. It is a rude command.
 - 'Okay, okay. I was only joking.' 'Joked' has the prefix 'po', for 'cracked a joke'. Doubling 'okay' sounds soothing.
-- 'Have you already given the ring to Nastya?' The name takes an 'e' ending when someone is given something. 'Gave as a gift' is the finished kind.
+- 'Have you already given the ring to Nastya?' The name takes an 'e' ending when someone is given something. 'Gave as a gift' is a once-and-done action.
 - 'Not yet. I want to do it now.' 'Not yet' is literally 'still no'. 'Now' closes the line.
 - 'Good luck, Kostya. It's an important moment.' 'Of luck to you' is the wish. 'Important' agrees with the masculine 'moment'.
 - 'Thanks, Max. Good luck with Vika too.' The girl's name takes an 'oy' ending after 'with'. 'Too' sits before 'luck'.
-- 'Yes, I need lots of luck today.' 'Needed' ends in 'a' to match the feminine 'luck'. 'Big' ends in 'aya' for the same reason.
+- 'Yes, I need lots of luck today.' 'Needed' finishes with 'a' to match the feminine 'luck'. 'Big' finishes with 'aya' for the same reason.

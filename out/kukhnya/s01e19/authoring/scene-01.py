@@ -11,8 +11,8 @@ LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
 INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen. This episode opens in the middle of the night at Vika's flat, where Max has just crept in very late and Vika is waiting for him. First you'll hear it in Russian, and you don't need to catch every word."
-OPENER = "Let's go back through it slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = "Let's see how the Russian puts it together."
+TRANSITION = 'Here is the whole conversation again.'
 OUTRO = "Vika has used Max's own words against him, which is a good way to win an argument. Notice how she turns 'free relationship' into 'you're free tonight', with the same word at the heart of both. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -31,10 +31,10 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Woke me up, did you?' One word does the work of four. The 'l' ending tells you it's a man who did it, and 'wake up' is built from the plain word for waking with a prefix on the front."),
-    (1, None, "'Please forgive me.' 'Forgive' is the casual command, and 'me' takes the 'a' form, 'menya'. Max says it the way a child does."),
-    (2, None, "'Where were you, anyway?' 'Anyway' is a long word, 'voobshche', which is said 'vaapshe'. 'Were' ends in 'l' for a man."),
+    (1, None, "'Please forgive me.' 'Forgive' is the informal order, and 'me' takes the 'a' form, 'menya'. Max says it the way a child does."),
+    (2, None, "'Where were you, anyway?' 'Anyway' is a long word, 'voobshche', which is said 'vaapshe'. 'Were' finishes with 'l' for a man."),
     (3, None, "'What is this, an interrogation?' 'What kind of' is made with 'chto za', as in many Russian questions. 'Interrogation' is a noun built from 'to ask'."),
-    (4, None, "'You think you can roam wherever you like?' 'Anywhere' is literally 'where it pleases', two words. The slangy word for 'roam' ends in 'sya', so it's 'roam oneself'."),
+    (4, None, "'You think you can roam wherever you like?' 'Anywhere' is literally 'where it pleases', two words. The slangy word for 'roam' carries 'sya', so it's 'roam oneself'."),
     (5, None, "'And come home at three?' Russians say 'in three hours' for 'at three o'clock', and after 'three' 'hour' is shortened. 'Come' is the ongoing kind, for a habit."),
     (6, None, "'Quarter to.' The Russian is 'without fifteen', since the minutes before the hour are 'without'. Max leaves the hour out, because they both know it's three."),
     (7, None, "'What kind of relationship do we have?' 'At us' stands for 'we have'. 'Relationship' is always plural in Russian when it means a relationship between two people."),

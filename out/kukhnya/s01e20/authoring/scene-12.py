@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Thanks to the video, the restaurant is packed. A guest is losing patience at the door, Vika has her hands full, and Barinov decides it's time to thank the team. We'll hear it in Russian first."
-OPENER = "Let's go through it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+INTRO = "Thanks to the video, the restaurant is packed. A guest is losing patience at the door, Vika has her hands full, and Barinov decides it's time to thank the team. First the Russian, and don't worry about catching every word."
+OPENER = "Let's replay it, with a word or two on each line."
+TRANSITION = "Let's hear the whole thing again, start to finish."
 OUTRO = "The team will get their party, and the restaurant its customers. 'Devushka' means 'girl', and it is also what Russians call a waitress or any young woman whose attention they want. See you next time!"
 CLOSING = ('vika', 'До свидания!')
 STORY = [
@@ -32,7 +32,7 @@ STORY = [
     ('vika', 'Хорошо, я скажу всем на кухне.', 'Good, I will tell everyone in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Miss, when will we sit at a table?' 'Girl' is used to call a waitress. 'We'll sit down' is a finished action."),
+    (0, None, "'Miss, when will we sit at a table?' 'Girl' is used to call a waitress. 'We'll sit down' is an action seen as complete."),
     (1, None, "'Wait one minute, please.' 'Wait' is the polite command. 'One minute' takes a 'u' ending."),
     (2, None, "'I've already been waiting twenty minutes!' Russian uses the present, 'I wait already twenty minutes'. After 'twenty', 'minutes' takes the 'of' plural."),
     (3, None, "'Sorry, the restaurant is very full now.' 'Sorry' is the polite word. 'Full' is a masculine short form."),
@@ -40,10 +40,10 @@ WALK = [
     (5, None, "'A lot of new guests today.' After 'many', 'new' and 'guests' both take the 'of' plural. 'Today' closes the sentence."),
     (6, None, "'That's good, we had a hard period.' 'At us was' stands for 'we had'. 'Hard' agrees with the masculine 'period'."),
     (7, None, "'Yes, and now we have a lot of work.' 'Much of work' uses the 'of' form for work, 'raboty'. 'Now' is a small word."),
-    (8, None, "'We need to thank our team.' Russians 'say thanks to' someone, so 'team' takes the 'to' form. 'Our' ends in 'ey' to match."),
+    (8, None, "'We need to thank our team.' Russians 'say thanks to' someone, so 'team' takes the 'to' form. 'Our' carries 'ey' to match."),
     (9, None, "'How can we do this?' 'How' and 'we can' make a plain question. 'This' takes the object form."),
-    (10, None, "'Tell everyone there'll be a party on Saturday.' 'On Saturday' is 'in Saturday', with a 'u' ending. 'Tell' is the casual command."),
+    (10, None, "'Tell everyone there'll be a party on Saturday.' 'On Saturday' is 'in Saturday', with a 'u' ending. 'Tell' is the friendly command."),
     (11, None, "'A party for our team? Excellent!' 'Party' is a word made from 'evening'. 'For our team' takes an 'ey' ending."),
     (12, None, "'Yes, after midnight.' 'After twelve of night' is how Russian says 'after midnight'. Both words take the 'of' form."),
-    (13, None, "'Good, I'll tell everyone in the kitchen.' 'I'll tell' is a finished action. 'To everyone' is 'vsem'."),
+    (13, None, "'Good, I'll tell everyone in the kitchen.' 'I'll tell' treats the action as done. 'To everyone' is 'vsem'."),
 ]

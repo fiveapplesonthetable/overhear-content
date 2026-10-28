@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Five liters of cognac every week.' After 'five', 'liters' takes an 'ov' ending. 'Every week' needs no word for 'during'.
 - 'Does he bring it for free?' 'For free' is built from 'without' and 'pay'. It's the same 'pay' word as in 'rent'.
 - 'Yes, absolutely free.' 'Absolutely' is a borrowed word, and it sits right before 'free'.
-- 'And what do we do with it?' 'With it' picks up an 'n', so 'nim'. 'We do' ends in 'em'.
-- 'We swap the bottles and pay for the apartment.' 'We swap' ends in 'em'. 'For' brings the apartment into the 'u' form.
+- 'And what do we do with it?' 'With it' picks up an 'n', so 'nim'. 'We do' finishes with 'em'.
+- 'We swap the bottles and pay for the apartment.' 'We swap' carries 'em'. 'For' brings the apartment into the 'u' form.

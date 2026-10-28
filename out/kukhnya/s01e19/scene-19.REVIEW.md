@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Does that mean yes?' Russian says 'this means yes' and lets the voice rise. 'Means' is 'signifies'.
 - 'Yes.' One word. Her answer is as short as his question was long.
 - 'I'm so glad.' 'Glad' is a short masculine form, with no ending. The small word 'tak' means 'so'.
-- 'I'm glad too.' This time the word ends in 'a', since Vika is a woman. The pair 'rad' and 'rada' are worth remembering.
+- 'I'm glad too.' This time the word carries 'a', since Vika is a woman. The pair 'rad' and 'rada' are worth remembering.
 - 'Now we're together.' There's no 'are', just 'now we together'. 'Together' is a handy word.
 - 'Yes, we're together.' Vika repeats Max's words. Repetition is how Russians say yes.
 - 'It's wonderful.' 'Wonderful' ends in 'o', and there's no 'is'. It comes from 'beautiful'.
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I love you.' 'I love' is one word with a 'yu' ending. 'You' takes the 'a' form, 'tebya'.
 - 'I love you, Max.' The same line again, with his name added. A name added at the end is a vocative, and it needs no change.
 - 'At last.' The word is 'nakonets', with a little 'to' added for emphasis. It's what you say when something has taken too long.
-- 'I'm so glad, Max.' Vika's word for 'glad' ends in 'a'. 'So' sits before it.
+- 'I'm so glad, Max.' Vika's word for 'glad' finishes with 'a'. 'So' sits before it.

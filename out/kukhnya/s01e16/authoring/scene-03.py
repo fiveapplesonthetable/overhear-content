@@ -11,8 +11,8 @@ LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Nagiyev now knows that the restaurant next door, Arcobaleno, called the inspector on them. He is furious, picks up the phone and decides to hit back with a call of his own. First the Russian, and then we'll take it apart."
-OPENER = "Let's go through it a line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OPENER = 'Here it is again, piece by piece.'
+TRANSITION = 'Once more, all the way through.'
 OUTRO = "Nagiyev hangs up pleased with himself, and Chef Barinov seems delighted too. When you watch, listen for the word that means 'war' and for how Nagiyev says 'good afternoon' so sweetly. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Arcobaleno.' He repeats the name so the official can write it down. Spelling out a name is the same trick on any phone line."),
     (11, None, "'What are you doing?' The ending on the Russian for 'do' says 'you', polite or plural. Barinov has caught him mid-call and is clearly amused."),
     (12, None, "'I am solving our problems.' 'I solve' is one word, and Russian's 'our' has the ending that goes with 'problems'. Nagiyev sounds quite pleased with himself."),
-    (13, None, "'Well done, keep it up.' The first word is a compliment that is roughly 'a fine fellow', used for anyone who does a thing well. The second part, 'keep it up', is a stock phrase you can use for any good effort."),
+    (13, None, "'Well done, keep it up.' The opening word is a compliment that is roughly 'a fine fellow', used for anyone who does a thing well. The second part, 'keep it up', is a stock phrase you can use for any good effort."),
 ]
