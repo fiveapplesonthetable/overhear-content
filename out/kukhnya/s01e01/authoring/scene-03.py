@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Late in the quiet night, Max and Vika lie awake talking in the dim room. Vika asks Max if he truly loves cooking, and Max passionately describes food as genuine art and happiness. They exchange gentle jokes about fate and coincidences before finally wishing each other good night. Let's listen to their bedroom conversation in Russian first."
-OPENER = "Now let's examine Max and Vika's quiet nighttime conversation line by line."
+INTRO = "It's late now, and Max and Vika are lying awake in the dark, talking quietly. She asks whether he really loves cooking, and he tells her what food means to him. Here's the conversation in Russian first."
+OPENER = "Let's look at the pieces."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+OUTRO = 'Quiet, warm talk like this is full of words you can reuse, and "good night" is the one to keep. In the morning the mood changes completely.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, ты уже почти засыпаешь?', 'Max, are you almost falling asleep?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Спокойной ночи, мой храбрый повар.', 'Good night, my brave cook.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, are you almost falling asleep?' Vika checks if he is still awake in the quiet darkness of the bedroom."),
-    (1, None, "'No, I am simply admiring you.' Max replies that his attention is entirely focused on her beauty rather than sleeping."),
-    (2, None, "'Do you really love cooking so much?' She questions the depth of his dedication to the culinary arts."),
-    (3, None, "'Food is true love and passion!' He emphatically confirms that the kitchen is his true calling in life."),
-    (4, None, "'You speak about food like a poet.' Vika remarks on his lyrical and romantic way of describing his profession."),
-    (5, None, "'Good food gives people immense happiness.' Max explains his philosophy that preparing great meals is about bringing joy to others."),
-    (6, None, "'At which restaurant is your interview?' She casually asks where he will be trying his luck the following morning."),
-    (7, None, "'In the very best French restaurant in Moscow.' He confidently names the top dining establishment in the city as his destination."),
-    (8, None, "'Our city is full of surprising coincidences.' Vika notes how small the world is, hinting at a connection she has yet to reveal."),
-    (9, None, "'I am glad that I met you today.' He reflects on his good fortune in crossing paths with her outside the club."),
-    (10, None, "'Go to sleep, you need to rest well.' She gently urges him to get some rest for his big day."),
-    (11, None, "'Good night, beautiful Vika.' Max wishes her a peaceful sleep, clearly smitten with his new companion."),
-    (12, None, "'Good night, my brave cook.' Vika returns the sentiment with a tender nickname for her protector."),
+    (0, None, '\'Max, are you almost falling asleep?\' "Zasypayesh\'" is "you\'re falling asleep", and it shares its root with "spat\'", to sleep, which comes back at the end of this scene. "Pochti", "almost", makes the question a gentle tease.'),
+    (1, None, '\'No, I am simply admiring you.\' "Lyubuyus\'" is "I enjoy looking at", and what you look at has to change shape: "ty" turns into "toboy". The final "-s\'" is a little "self" that Russian attaches to many verbs.'),
+    (2, None, '\'Do you really love cooking so much?\' "Lyubish\' gotovit\'" is "you love to cook", just two words with no "to" between them. "Pravda", "truth", is standing in for "really", as it did when they first met.'),
+    (3, None, '\'Food is true love and passion!\' The dash is standing in for "is". "Lyubov\'" is "love", related to "lyublyu", "I love", and "nastoyashchaya" means "real" or "genuine".'),
+    (4, None, '\'You speak about food like a poet.\' "O yede" is "about food", and "yeda" gets an -e after "o". "Kak poet" is "like a poet", and as you can see "poet" looks just like English.'),
+    (5, None, '\'Good food gives people immense happiness.\' "Darit" means "gives", and it grows from "dar", a gift, so good food literally hands out a gift. "Lyudyam" is "to people": "lyudi" is irregular, and this is its "to" form.'),
+    (6, None, '\'At which restaurant is your interview?\' "U tebya", "at you", is the friendly twin of "u vas". After "v", "in", both words of "kakoy restoran" change: "v kakom restorane".'),
+    (7, None, '\'In the very best French restaurant in Moscow.\' "Samyy luchshiy", "the very best", becomes "samom luchshem" after "v". "Moskvy" means "of Moscow": "Moskva" drops its -a and takes -y.'),
+    (8, None, '\'Our city is full of surprising coincidences.\' "Sovpadeniye", a coincidence, is built from "so-", together, and "padat\'", to fall: things that fall together. "Polon", "full", is in the masculine form to match "gorod", city.'),
+    (9, None, '\'I am glad that I met you today.\' A man says "ya rad", "I\'m glad", and a woman says "ya rada". "Vstretil", "met", works the same way: in the past tense, Russian verbs show whether the speaker is a man or a woman.'),
+    (10, None, '\'Go to sleep, you need to rest well.\' "Lozhis\' spat\'" is "lie down to sleep". "Tebe nado", "to you necessary", is just like "mne nuzhna" from the bar: the one who needs gets the "to" form.'),
+    (11, None, '\'Good night, beautiful Vika.\' "Spokoynoy nochi" is literally "of a quiet night", with "I wish you" left out. It\'s a ready-made phrase, so you can just say it.'),
+    (12, None, '\'Good night, my brave cook.\' Vika has another word for brave: "khrabryy", a touch more heroic than the "smelyy" she used earlier. Russian often has several words for a quality.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vadim': 'Вадим', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Behind the restaurant Claude Monet, Max catches Vika alone to apologize for his clumsy behavior. Their uneasy conversation is suddenly shattered when Vika's aggressive ex-lover Vadim arrives, demanding explanations and escalating the confrontation into real danger. Let's listen to their intense exchange in Russian first."
-OPENER = "Now let's examine this high-stakes dramatic confrontation line by line."
+INTRO = "Behind the restaurant, Max catches Vika alone and apologises for his clumsy behaviour. Their uneasy talk is cut short when Vadim arrives, demanding to know what is going on, and things turn dangerous. Here's the Russian first."
+OPENER = 'Now the quarrel.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Just as Vadim pulls out his weapon, Chef Barinov storms into the alley and brings the dangerous duel to an abrupt halt. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'to believe' — you will catch every word right away. See you next time!"
+OUTRO = 'A threat, a gun, and one very brave cook. Remember "otoydi ot neyo", "step away from her", a phrase you hope never to need.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, пожалуйста, прости меня за всё.', 'Vika, please forgive me for everything.', [(298, 'ну прости меня')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Макс, прекрати, у него есть пистолет!', 'Max, stop, he has a gun!', [(318, 'Прячь мушку')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, please forgive me for everything.' Max attempts to make peace after their disastrous morning together."),
-    (1, None, "'Why do I always trust the wrong people?' Vika expresses bitter frustration with her choices in men."),
-    (2, None, "'Every person can make a mistake.' Max tries to reason with Vika using an impersonal philosophical truth."),
-    (3, None, "'I myself am to blame for this situation.' Vika refuses easy comfort and shoulders the blame alone."),
-    (4, None, "'So that means it is true, you are together?' Vadim steps out from the shadows consumed by furious jealousy."),
-    (5, None, "'Vadim, what are you doing here?' Vika is startled and frightened by her aggressive former lover."),
-    (6, None, "'I came to talk with you right now.' Vadim refuses to leave until he gets the answers he demands."),
-    (7, None, "'And this guy must leave immediately!' The prosecutor aggressively orders the young cook out of the way."),
-    (8, None, "'Choose your words when talking with her!' Max courageously steps forward to shield Vika from verbal abuse."),
-    (9, None, "'You are talking to a beautiful girl.' Max insists that Vadim show basic decency and respect."),
-    (10, None, "'What did you just say to me, pup?' Enraged that a lowly cook dares challenge him, Vadim turns aggressive."),
-    (11, None, "'I told you: step away from her!' Max refuses to back down despite the growing physical threat."),
-    (12, None, "'Max, stop, he has a gun!' Vika screams in horror as Vadim reaches into his jacket for a weapon."),
+    (0, None, '\'Vika, please forgive me for everything.\' "Prosti" is the "ty" form of "forgive". "Za vsyo" is "for everything", the "za" of reasons.'),
+    (1, None, '\'Why do I always trust the wrong people?\' "Veryu" means both "I believe" and "I trust", and it takes the "to" form: "tem lyudyam". "Ne tem", not those, is the Russian "the wrong ones".'),
+    (2, None, '\'Every person can make a mistake.\' "Sovershit\' oshibku" is "to commit a mistake", a slightly formal phrase. "Oshibka" becomes "oshibku" as the object.'),
+    (3, None, '\'I myself am to blame for this situation.\' "Vinovata", to blame, is built from "vina", fault, with a woman\'s -a. "Sama", myself, also ends in -a.'),
+    (4, None, '\'So that means it is true, you are together?\' "Tak znachit" is "so it means", for putting two and two together. "Vy" is plural here, for both of them.'),
+    (5, None, '\'Vadim, what are you doing here?\' "Chto ty zdes\' delayesh\'?" is "what you here do?". Russian has no -ing form, so the plain present does the job.'),
+    (6, None, '\'I came to talk with you right now.\' "Prishyol", came, is a man\'s form and means he came on foot. "Pogovorit\' s toboy" is "to talk with you", the "ty" form.'),
+    (7, None, '\'And this guy must leave immediately!\' "Paren\'" is the ordinary word for a guy. "Dolzhen", must, has a man\'s ending, and "uyti" is "to go away".'),
+    (8, None, '\'Choose your words when talking with her!\' Max now says "ty" to Vadim: "vybiray" and "govorish\'". "S ney" is "with her".'),
+    (9, None, '\'You are talking to a beautiful girl.\' "Razgovarivayesh\'", you\'re talking, is from "razgovor", a conversation. "S krasivoy devushkoy" has -oy on both words after "s".'),
+    (10, None, '\'What did you just say to me, pup?\' "Shchenok" is a puppy, and it\'s an insult for a young man. "Ty chto" at the start is the challenge.'),
+    (11, None, '\'I told you: step away from her!\' "Otoydi" is the command "step away". "Ot neyo" is "from her", where "yeyo" picks up an "n" after "ot".'),
+    (12, None, '\'Max, stop, he has a gun!\' "Prekrati" is "stop it". "U nego yest\' pistolet" is "at him there is a pistol", the full "have" pattern with "yest\'".'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "To flatter the suspected critic, the front-of-house staff presents her with a complimentary dish from the lucky table promotion. When the woman rejects the restaurant's salad anyway, an infuriated Chef Barinov rushes out to defend his culinary honor. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the culinary defense expressions, angry kitchen imperatives, and professional dispute vocabulary."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Unable to control his culinary fury, Chef Barinov charges into the dining room ready to confront the mysterious critic. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'trouble' and 'dish' — you will catch every word right away. See you next time!"
+INTRO = 'The lady at table seven has sent the salad back again. Vika brings the news to Barinov, who is not in a mood to listen. See what you can catch.'
+OPENER = "Here's what is going on, line by line."
+TRANSITION = 'Now you can hear it all again.'
+OUTRO = 'Barinov is storming toward the dining room, and Vika is trying to stop him. The word "scandal" is about to be proved right. Until the next scene.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Витя, у нас в зале большая беда.', 'Vitya, we have big trouble in the dining room.', [(179, 'Витя!')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Заткнись, Вика, я никогда не делаю ошибок!', 'Shut up, Vika, I never make mistakes!', [(188, 'Заткнись')], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, we have big trouble in the dining room.' Vika brings bad news to the chef. She warns him that something terrible has happened outside."),
-    (1, None, "'Well, what bad thing happened out there now?' Barinov is tired of hearing about problems. He asks what could possibly be wrong this time."),
-    (2, None, "'That female guest again completely refused the salad.' She explains the disaster. The woman rejected the salad for a second time."),
-    (3, None, "'How refused, after all, this is our signature recipe!' He is deeply offended. The chef cannot believe someone would refuse his special signature dish."),
-    (4, None, "'She said she did not like the dish at all.' The manager repeats the harsh feedback. The guest simply stated that the food was not good."),
-    (5, None, "'Did she completely lose her silly mind?' Barinov reacts with anger and disbelief. He thinks the woman must be crazy to dislike his cooking."),
-    (6, None, "'Vitya, where are you going so quickly and angrily?' Vika notices him storming off. She asks where he is heading in such a furious mood."),
-    (7, None, "'I will go straight into the dining room myself and handle it!' He decides to take action. The boss plans to go out there and confront the guest personally."),
-    (8, None, "'Stop, we do not need a loud scandal right now at all!' She tries to hold him back. The manager desperately wants to avoid a public screaming match in the restaurant."),
-    (9, None, "'Nobody dares insult my haute cuisine!' Barinov lets his ego do the talking. He refuses to let anyone disrespect his fine dining creations."),
-    (10, None, "'A critic is sitting there, learn to calmly admit mistakes.' Vika reminds him of the danger. She tells him to swallow his pride because a reviewer is watching."),
-    (11, None, "'Shut up, Vika, I never make mistakes!' The chef completely rejects her advice. He yells at her and claims his cooking is always flawless."),
+    (0, None, '\'Vitya, we have big trouble in the dining room.\' "Vitya" is the short form of "Viktor". "Beda" is a good word to know: trouble, bad luck. "U nas v zale" is "at us in the hall".'),
+    (1, None, '\'Well, what bad thing happened out there now?\' Barinov piles up little words, "nu", "eshchyo", "tam", "takoe", to show how tired he is of the day. "Sluchilos" is "happened".'),
+    (2, None, '\'That female guest again completely refused the salad.\' Russians refuse "ot", "from", something: "otkazalas ot salata". It is the verb behind Kostya\'s "otkaz". "Snova" is "again".'),
+    (3, None, '\'How refused, after all, this is our signature recipe!\' Barinov echoes "kak otkazalas" in disbelief. "Ved" is "after all", a close cousin of "zhe". "Firmenny retsept" is "signature recipe".'),
+    (4, None, '\'She said she did not like the dish at all.\' The Russian is "ey sovsem ne ponravilos", "to her not at all pleased", the same pattern as "mne nravitsya". "Sovsem" is "at all".'),
+    (5, None, '\'Did she completely lose her silly mind?\' Russians lose their head, not their mind: "poteryala svoyu glupuyu golovu". "Golova" is "head". Barinov is deeply offended.'),
+    (6, None, '\'Vitya, where are you going so quickly and angrily?\' "Serdito", "angrily", is the family of "serditsya", the word in "papa serditsya na menya", "Dad is angry with me". "Kuda" is "where to".'),
+    (7, None, '\'I will go straight into the dining room myself and handle it!\' "Poydu i razberus" is "I\'ll go and sort it out". "Razberus" is from "razbiratsya", "to sort out". "Sam" is "myself".'),
+    (8, None, '\'Stop, we do not need a loud scandal right now at all!\' "Stoy", "stand", is the usual "stop!". "Ne nuzhen", "not needed", agrees with "skandal", which is masculine.'),
+    (9, None, '\'Nobody dares insult my haute cuisine!\' "Smeet", "dares", is a short, proud word. "Oskorblyat" is "to insult". And "vysokaya kukhnya", "high kitchen", is haute cuisine.'),
+    (10, None, '\'A critic is sitting there, learn to calmly admit mistakes.\' "Umey" is the command of "umet", "to know how to", so Vika says "know how to admit". "Priznavat oshibki" is "to admit mistakes".'),
+    (11, None, '\'Shut up, Vika, I never make mistakes!\' "Zatknis" has -sya, "plug yourself", and it is rude. "Nikogda ne delayu oshibok" is "never not make mistakes", with "oshibok" after the "ne".'),
 ]

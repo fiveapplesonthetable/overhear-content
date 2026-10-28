@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the restaurant locker room, Max and art director Victoria desperately try to hide Dmitry Nagiyev's unconscious dog after a freak accident with a hot dog. Victoria is terrified of Dmitry's fury, while Max tries to keep calm despite standing in his underwear. Let's listen to their frantic conversation in Russian first."
-OPENER = "Let's review this frantic locker room exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Hiding the little dog on a locker shelf, Max and Victoria hope their secret stays safe from the rest of the staff. See you next time!'
+INTRO = "At Claude Monet, Tyson, the owner Nagiyev's dog, lies still after the shock from the socket. Max and Vika carry him into the staff locker room to hide him, and Max is still without his trousers. It's in Russian first."
+OPENER = 'Slowly now. Vika panics, and Max keeps saying it will all be fine.'
+TRANSITION = 'Now the whole scene again, at full speed.'
+OUTRO = "Max's promise, nikto nichego ne uznayet, 'nobody will find out anything', is the classic line just before everyone finds out. You've also heard pridyot v sebya, 'will come round', literally 'will come into herself'. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Осторожней, куда ты прячешь бедную собаку?', 'Careful, where are you hiding the poor dog?', [(116, 'Осторожней'), (117, 'Куда ты ее прячешь')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Всё будет хорошо, никто ничего не узнает!', 'Everything will be fine, nobody will find out anything!', [(122, 'Ничем. Просто разговариваем')], ''),
 ]
 WALK = [
-    (0, None, "'Careful, where are you hiding the poor dog?' Vika walks into the locker room and catches Max doing something incredibly suspicious."),
-    (1, None, "'Here in the locker room nobody will find her.' Max explains his desperate plan to stash the unconscious dog where no one looks."),
-    (2, None, "'My God, what will I tell Dmitry?' Vika panics, realizing she will have to answer to the restaurant owner."),
-    (3, None, "'Tell him the truth, that the dog simply ran away.' Max suggests a simple lie about the dog escaping on its own."),
-    (4, None, "'Dmitry Vladimirovich will be simply furious!' She imagines Nagiyev's terrifying reaction to losing his beloved pet."),
-    (5, None, "'Calm down, she will soon come to her senses herself.' Max tries to reassure her that the dog will wake up perfectly fine soon."),
-    (6, None, "'Why are you standing in front of me without pants?' Vika suddenly notices that Max is standing there half-naked."),
-    (7, None, "'My jeans are being washed in the machine right now.' Max sheepishly explains his pants are in the laundry after the dog incident."),
-    (8, None, "'Put at least something on yourself quickly!' She demands he cover up his embarrassing state immediately."),
-    (9, None, "'First let us carefully put the dog here.' Max insists they prioritize hiding the animal before dealing with his wardrobe."),
-    (10, None, "'Fine, put her quietly on the bottom shelf.' Vika reluctantly agrees, pointing to a secluded spot for the dog."),
-    (11, None, "'Everything will be fine, nobody will find out anything!' Max confidently promises that their disastrous secret is completely safe."),
+    (0, None, "'Careful, where are you hiding the poor dog?' In speech, ostorozhney, literally 'more carefully', just means 'watch it'. She asks kuda, 'where to', since the dog is on the move."),
+    (1, None, "'Here in the locker room nobody will find her.' The feminine yeyo, 'her', follows sobaka. A razdevalka, 'locker room', is where you razdevatsya, 'get undressed'."),
+    (2, None, "'My God, what will I tell Dmitry?' The person you tell takes -yu here, so his name changes after skazhu. In her next line Vika switches to the full, respectful Dmitry Vladimirovich."),
+    (3, None, "'Tell him the truth, that the dog simply ran away.' Max says skazhi, the friendly command, since he and Vika are on ty terms. The -a on ubezhala agrees with sobaka, and the 'truth' he offers is a lie."),
+    (4, None, "'Dmitry Vladimirovich will be simply furious!' Russian says budet v yarosti, 'will be in fury', and after v, yarost becomes yarosti. Here prosto, 'simply', just turns up the volume."),
+    (5, None, "'Calm down, she will soon come to her senses herself.' Friends tell each other uspokoysya, 'calm down'. To come round after fainting is priyti v sebya, literally 'to come into oneself'."),
+    (6, None, "'Why are you standing in front of me without pants?' Like dzhinsy, shtany, 'trousers', has no singular, and after bez it becomes shtanov. In peredo mnoy, 'in front of me', an extra -o makes pered easier to say."),
+    (7, None, "'My jeans are being washed in the machine right now.' Everyday Russian calls a washing machine stiralnaya mashinka, using the small form mashinka. With stirayutsya, Max repeats what he told Vika before the dog appeared."),
+    (8, None, "'Put at least something on yourself quickly!' For clothes Russians use naden, 'put on'. The ending -nibud turns chto into 'something, anything', and khot adds 'at least'."),
+    (9, None, "'First let us carefully put the dog here.' Max's davay polozhim, 'let's put', is the friendly 'let's' again. The word akkuratno means 'carefully, gently', not 'accurately'."),
+    (10, None, "'Fine, put her quietly on the bottom shelf.' Vika answers with polozhi, the friendly command from the same polozhit. Because the dog is going onto it, polka, 'shelf', becomes polku."),
+    (11, None, "'Everything will be fine, nobody will find out anything!' The standard reassurance is vsyo budet khorosho, literally 'all will be well'. Russian stacks three negatives in nikto nichego ne uznayet, and needs all of them."),
 ]

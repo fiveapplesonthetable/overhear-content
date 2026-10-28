@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'In the quiet storage room, Ainura urges Chef Barinov to return to the restaurant. She warns him that the kitchen is falling apart without his guidance and the replacement chef is on the verge of tears. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Time to Return line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the storage room, Ainura urges Chef Barinov to return to the kitchen, warning him that the replacement chef is falling apart and orders are collapsing. Next time you watch the episode, listen for the Russian expressions for 'victory' and 'to work' — you will catch every word right away. See you next time!"
+INTRO = "Ainura, the cleaner, is still in the storeroom with Barinov. She has come to bring him back to the kitchen, which is falling apart without him, and she gets to the point quickly. Here it is in Russian first."
+OPENER = "Let's go through her persuasion. Barinov resists, then gives in a little."
+TRANSITION = "Now the conversation from the start."
+OUTRO = "The scene ends with a joke on repetition: she is still \"na rabote\", at work, and he still offers her a drink. You now know that line by heart. See you next time."
 CLOSING = ('ainura', 'Пока!')
 STORY = [
     ('barinov', 'Ты как меня нашла, Айнура?', 'How did you find me, Ainura?', [(315, 'Ты как меня нашла?')], ''),
@@ -31,15 +31,17 @@ STORY = [
     ('ainura', 'Шеф, я же на работе!', 'Chef, I am at work after all!', [(323, 'Я ж на работе.')], ''),
 ]
 WALK = [
-    (0, None, "'How did you find me, Ainura?' Barinov wonders how the cleaner managed to track him down."),
-    (1, None, "'I have been working for you for a long time.' Ainura reminds him she is a long-time employee."),
-    (2, None, "'I know all your secret places.' Ainura knows every single hiding spot in the restaurant."),
-    (3, None, "'Dear Chef, you need to return to the kitchen.' Ainura warmly calls him 'dear chef' and begs him to come back to his kitchen."),
-    (4, None, "'You sound right now like my former mother-in-law.' Barinov compares her nagging to a strict mother-in-law."),
-    (5, None, "'Seriously, it is very hard for the cooks without you.' Ainura stresses that the kitchen brigade is suffering without him."),
-    (6, None, "'They are not coping at all with orders.' Ainura reports that the staff is completely failing the service."),
-    (7, None, "'The new female chef will soon fall completely ill.' Ainura warns that the temporary boss is nearing a breakdown."),
-    (8, None, "'When have I ever lied to you?' Ainura asks him to trust her honest assessment of the chaos."),
-    (9, None, "'All right, let us drink to victory then.' Barinov finally agrees and proposes a toast to his return."),
-    (10, None, "'Chef, I am at work after all!' Ainura once again refuses alcohol during her working hours."),
+    (0, None, "'How did you find me, Ainura?' Barinov puts \"ty\" first and \"kak\", how, second, which makes the question sound more surprised. Then \"nashla\", found, has the -a because Ainura is a woman."),
+    (1, None, "'I have been working for you for a long time.' Russian keeps the present, \"rabotayu\", for something that started long ago and is still true. Then \"u tebya\" means 'at yours': working at someone's place means working for them."),
+    (2, None, "'I know all your secret places.' Secret, \"taynye\", comes from \"tayna\", a secret. In \"vse tvoi\" you get 'all your', the \"ty\" kind of 'your'."),
+    (3, None, "'All right, and why did you come?' Barinov says \"prishla\", came, the word for arriving on foot: Russian picks the word by how you travel. And \"zachem\" asks 'what for', about purpose."),
+    (4, None, "'Dear Chef, you need to return to the kitchen.' Going to the kitchen is \"na kukhnyu\", with -yu for a direction; being in the kitchen is \"na kukhne\". And \"tebe nuzhno\" is 'to you it is necessary'."),
+    (5, None, "'You sound right now like my former mother-in-law.' A \"tyoshcha\" is specifically a wife's mother; a husband's mother is \"svekrov\". And \"byvshaya\" means former, as in an ex."),
+    (6, None, "'Seriously, it is very hard for the cooks without you.' Ainura says \"povaram\", 'to the cooks', since in Russian hardship happens to someone. With \"bez tebya\", without you, \"ty\" turns into \"tebya\"."),
+    (7, None, "'They are not coping at all with orders.' To cope with something is \"spravlyatsya s\", the everyday phrase for handling work. After \"s\", the orders, \"zakazy\", become \"zakazami\"."),
+    (8, None, "'The new female chef will soon fall completely ill.' A \"devochka\" is a little girl, so \"devochka-shef\" is mildly dismissive. And \"zaboleet\", will get ill, is built on \"bolet\", to be ill."),
+    (9, None, "'Are you sure you are not deceiving me?' Literally 'exactly', \"tochno\" works as 'for sure' in a question. To deceive, \"obmanyvat\", is a stronger word than \"vrat\", to lie."),
+    (10, None, "'When have I ever lied to you?' Ainura's \"obmanyvala\" asks about any time at all, which is why it reads as 'ever'. Adding \"voobshche\", in general, makes it sharper."),
+    (11, None, "'All right, let us drink to victory then.' Put \"davay\" before a 'we' form like \"vypyem\" and you have the Russian 'let's'. A toast uses \"za\", for: \"za pobedu\", to victory."),
+    (12, None, "'Chef, I am at work after all!' It's the same line Ainura said earlier, \"na rabote\" with \"zhe\", and it gets funnier the second time. Hearing it twice is how you'll remember it."),
 ]

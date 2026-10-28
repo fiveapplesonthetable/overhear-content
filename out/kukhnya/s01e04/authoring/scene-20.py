@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'louis': 'Луи', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = 'Max serves his special soup to the Claude Monet kitchen crew, but it turns out to be an alarming bright blue color. The cooks are skeptical, pastry chef Louis suddenly notices his missing food dye, but the bizarre soup turns out to be surprisingly delicious. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = 'Now let us go through each phrase to see how it works in Russian.'
+INTRO = 'Max brings his special soup to the kitchen crew, and it is a startling bright blue. The cooks are suspicious, Louis the pastry chef recognises his missing food dye, and the soup turns out to taste surprisingly good. Here is the Russian first.'
+OPENER = "Let's look at the blue soup."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Despite the shock of Louis's blue food dye, the staff lunch turns out to be a surprising hit. Until then! Next time you watch the episode, listen for the Russian expressions for 'author's' and 'dish' — you will catch every word right away. See you next time!"
+OUTRO = 'The cooks have to admit the blue soup tastes good. You\'ve heard "kak budto", "as if", which is a very useful phrase.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('senya', 'Что это за странное блюдо?', 'What kind of strange dish is this?', [(269, 'Что за фигня')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Я же говорил, что вкусно!', 'I told you it was delicious!', [(278, 'Правда, вкусно')], ''),
 ]
 WALK = [
-    (0, None, "'What kind of strange dish is this?' Senya wonders about the strange dish."),
-    (1, None, "'This is my new delicious soup!' Max introduces his new delicious soup."),
-    (2, None, "'Why is it such a blue color?' Senya questions why the soup is blue."),
-    (3, None, "'This is an original creator's recipe.' Max explains it is an original recipe he created."),
-    (4, None, "'Thanks, I am on a diet today.' Senya declines the offer, claiming to be on a diet."),
-    (5, None, "'Wait, this is really very delicious!' Max insists the soup is actually very tasty."),
-    (6, None, "'Pardon, that is my food coloring!' Louis interrupts, recognizing the blue substance as his food coloring."),
-    (7, None, "'I looked for it for so long!' Louis mentions he has been searching for it for a long time."),
-    (8, None, "'Wait, where are you all going?' Max asks where everyone is going as they walk away."),
-    (9, None, "'We do not want to eat chemicals.' Senya states they do not want to eat chemicals."),
-    (10, None, "'But this is actually delicious!' Max still defends the taste of his creation."),
-    (11, None, "'What an interesting pretty little soup.' Senya sarcastically calls it an interesting and pretty soup."),
-    (12, None, "'Like you are eating the sea directly.' Senya jokes that eating it is like eating the sea."),
-    (13, None, "'I told you it was delicious!' Max repeats that he told them it was delicious."),
+    (0, None, '\'What kind of strange dish is this?\' "Chto eto za" is "what kind of". "Strannoye", strange, ends in -oye because "blyudo" is neuter.'),
+    (1, None, '\'This is my new delicious soup!\' "Moy novyy vkusnyy sup": every word is masculine to match "sup".'),
+    (2, None, '\'Why is it such a blue color?\' Russian gives colour in the "of" form: "takogo sinego tsveta", of such a blue colour. "Tsveta" is also the plural "colours", while "tsvety" are flowers.'),
+    (3, None, '\'This is an original creator\'s recipe.\' "Avtorskiy", author\'s, is the word in "avtorskaya kukhnya", a chef\'s own cooking. "Original\'nyy" is borrowed.'),
+    (4, None, '\'Thanks, I am on a diet today.\' "Spasibo" here is a polite no. "Na diete" is "on a diet", with -e after "na".'),
+    (5, None, '\'Wait, this is really very delicious!\' "Podozhdi" is the familiar "wait". "Deystvitel\'no" is "really", and "vkusno" is "tasty".'),
+    (6, None, '\'Pardon, that is my food coloring!\' "Pardon" is borrowed. "Krasitel\'", dye, is from "krasit\'", to paint, and "eto zhe" is "why, that\'s".'),
+    (7, None, '\'I looked for it for so long!\' "Iskal" is "looked for", with the man\'s -l. "Tak dolgo" is "so long".'),
+    (8, None, '\'Wait, where are you all going?\' "Kuda" asks "where to", for movement. "Vy vse" is "you all", and "ukhodite" is "you are leaving".'),
+    (9, None, '\'We do not want to eat chemicals.\' "Khimiya", chemistry, is the Russian word for artificial additives. As the object, it becomes "khimiyu".'),
+    (10, None, '\'But this is actually delicious!\' "Real\'no" is slang for "really". "Eto zhe" adds "after all".'),
+    (11, None, '\'What an interesting pretty little soup.\' "Supchik" is "sup" with the little -chik, a fond word for soup. "Kakoy" opens the exclamation.'),
+    (12, None, '\'Like you are eating the sea directly.\' "Kak budto" is "as if". "Yesh\'", you eat, means "one eats", said to nobody in particular.'),
+    (13, None, '\'I told you it was delicious!\' "Ya zhe govoril" is "I did say", with "zhe" for "after all".'),
 ]

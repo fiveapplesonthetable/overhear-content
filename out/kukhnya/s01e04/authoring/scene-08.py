@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "In the busy kitchen of Claude Monet, cook Senya hands Max the fresh ingredients for a cream soup. Senya gives practical advice on prepping the vegetables, while Max promises to make the dish unforgettable. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this kitchen prep session step by step."
+INTRO = "Max has been given his first real job, a cream soup, and Senya, the meat cook, hands him the ingredients and some advice. Max, as usual, promises it will be the best soup anyone has tasted. Here's the Russian first."
+OPENER = "Let's go back to the soup station."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'With the ingredients assembled and prep instructions in mind, Max begins cooking with energy. See you next time!'
+OUTRO = 'Max has the ingredients, the instructions and plenty of confidence. If you take away "pere-" in "peresoli", "oversalt", you\'ve got the over-prefix again.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('senya', 'Вот твои сухарики, сливки и морковка.', 'Here are your croutons, cream, and carrot.', [(96, 'Вот твои хлебочки, сливки и морковка')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Ты будешь приятно удивлён этим супом!', 'You will be pleasantly surprised by this soup!', [], ''),
 ]
 WALK = [
-    (0, None, "'Here are your croutons, cream, and carrot.' Senya hands over the ingredients needed for the dish."),
-    (1, None, "'Great, and where is the fresh onion?' Max asks for the missing vegetable."),
-    (2, None, "'Here is the onion, start boiling the soup.' Providing the missing item, the cook tells his coworker to begin."),
-    (3, None, "'I will make the most delicious cream soup.' Confidence radiates as the young chef promises an amazing meal."),
-    (4, None, "'The main thing is do not oversalt the broth on the stove.' A warning is given to be careful with the seasoning."),
-    (5, None, "'Do not worry, I know the exact recipe.' Reassuring his colleague, the cook claims to have the instructions memorized."),
-    (6, None, "'First chop the onion and carrot finely.' Detailed initial prep work is required."),
-    (7, None, "'I will cut the vegetables into even pieces.' Promising perfection, the newcomer vows to slice the ingredients evenly."),
-    (8, None, "'Then add butter and warm cream.' The next steps involve dairy."),
-    (9, None, "'Everything will be ready on time, Senya.' A guarantee is made that the task will be finished promptly."),
-    (10, None, "'I will come and check your dish.' Inspecting the final result will be necessary."),
-    (11, None, "'You will be pleasantly surprised by this soup!' Boasting about the flavor, the cook expects to impress his coworker."),
+    (0, None, '\'Here are your croutons, cream, and carrot.\' "Sukhariki" are little croutons, from "sukhoy", dry. "Slivki", cream, only exists in the plural, and "morkovka" is the everyday word for one carrot.'),
+    (1, None, '\'Great, and where is the fresh onion?\' "A" moves on to the next item. "Svezhiy luk" is "fresh onion", and "luk" stands for onions in general.'),
+    (2, None, '\'Here is the onion, start boiling the soup.\' "Varit\'" is cooking in water, so you "varit\'" soup, eggs and coffee. "Nachinay" is the command "begin".'),
+    (3, None, '\'I will make the most delicious cream soup.\' "Samyy vkusnyy" is "the most tasty", made with "samyy" in front. "Krem-sup" is borrowed.'),
+    (4, None, '\'The main thing is do not oversalt the broth on the stove.\' "Peresoli" is "pere-", over, plus "solit\'", to salt. The same "pere-" gives "perezharit\'", to overfry.'),
+    (5, None, '\'Do not worry, I know the exact recipe.\' "Ne volnuysya" is the familiar "don\'t worry". "Tochnyy retsept" is "exact recipe".'),
+    (6, None, '\'First chop the onion and carrot finely.\' "Melko", finely, is from "melkiy", small. "Narezh\'" is "na-" plus "rezat\'", to cut: cut up.'),
+    (7, None, '\'I will cut the vegetables into even pieces.\' "Rovnymi kusochkami" is "with even little pieces", with -ymi and -ami for "with".'),
+    (8, None, '\'Then add butter and warm cream.\' "Zatem" is "after that", and "dobav\'" is the command "add". "Maslo" covers both butter and oil.'),
+    (9, None, '\'Everything will be ready on time, Senya.\' "Budet gotovo" is "will be ready", with -o to match "vsyo". "Vovremya" is "in time", written as one word.'),
+    (10, None, '\'I will come and check your dish.\' "Pridu" and "proveryu" are single-word futures, I\'ll come and I\'ll check, with no "budu".'),
+    (11, None, '\'You will be pleasantly surprised by this soup!\' "Udivlyon" is the man\'s short "surprised". "Etim supom" takes -im and -om for "by".'),
 ]

@@ -10,18 +10,18 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "As Tanya enthusiastically suggests arranging a quick registry appointment and announcing the wedding to the whole dining room, both Max and Victoria instantly regret their impulsive game of chicken. Admitting they moved too fast, they hastily backtrack. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the panic of hasty commitments, expressions of regret, and comedic retreat from marriage."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Realizing that they both acted far too impulsively in the heat of the moment, Max and Victoria agree to postpone any wedding talk indefinitely. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "The pretend engagement is going further than either of them expected. They talk about the registry office, and then both of them get cold feet. Listen first, and I'll explain afterwards."
+OPENER = "Let's unpack it."
+TRANSITION = 'Back to the full version.'
+OUTRO = 'The wedding is on hold, at least for now, and the football match is about to begin. Max goes back to work. Take care until then.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('max', 'Мы подадим официальное заявление в загс?', 'Will we submit an official application to the registry office?', [(276, 'подадим заявление')], ''),
+    ('max', 'Мы подадим заявление в загс?', 'Shall we apply at the registry office?', [(276, 'подадим заявление')], ''),
     ('vika', 'Таня, у тебя есть знакомые в загсе?', 'Tanya, do you have acquaintances at the registry office?', [(277, 'Тань, у тебя есть кто-нибудь')], ''),
-    ('max', 'Пожалуйста, помоги нам расписаться как можно быстрее.', 'Please help us sign the register as fast as possible.', [(278, 'побыстрее расписать')], ''),
+    ('max', 'Пожалуйста, помогите нам расписаться как можно быстрее.', 'Please help us get married as fast as possible.', [(278, 'побыстрее расписать')], ''),
     ('vika', 'Давайте расскажем эту новость всем гостям ресторана!', "Let's tell this news to all the guests of the restaurant!", [(280, 'давайте скажем всем'), (281, 'Обрадуем')], ''),
-    ('max', 'Подожди, кажется, я немножко поторопился сейчас.', 'Wait, it seems I jumped the gun a little now.', [(281, 'Подожди'), (283, 'А я с предложением')], ''),
-    ('vika', 'Честно говоря, я тоже слишком поторопилась с ответом.', 'To be honest, I also rushed with the answer too much.', [(282, 'немножко поторопилась с ответом')], ''),
+    ('max', 'Подожди, кажется, я немножко поторопился.', 'Wait, it seems I rushed a little.', [(281, 'Подожди'), (283, 'А я с предложением')], ''),
+    ('vika', 'Честно говоря, я тоже поторопилась с ответом.', 'To be honest, I also rushed with my answer.', [(282, 'немножко поторопилась с ответом')], ''),
     ('max', 'Значит, нам обоим нужно хорошенько подумать.', 'So, both of us need to think carefully.', [(283, 'Мы немножко подумаем')], ''),
     ('vika', 'Да, нам лучше немного подождать со свадьбой.', 'Yes, it is better for us to wait a little with the wedding.', [(284, 'Да, мы подумаем')], ''),
     ('max', 'Шеф, вы поможете нам спокойно разобраться?', 'Chef, will you help us sort this out calmly?', [(285, 'разбирайтесь сами')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Иди работай, свадьба пока точно подождёт!', 'Go work, the wedding will definitely wait for now!', [(287, 'Идите, идите')], ''),
 ]
 WALK = [
-    (0, None, "'Will we submit an official application to the registry office?' Still refusing to blink first, Max asks if they should head to the registry office to file the paperwork."),
-    (1, None, "'Tanya, do you have acquaintances at the registry office?' Raising the stakes, Vika asks her sister Tanya if she has a friend at the registry office to speed things up."),
-    (2, None, "'Please help us sign the register as fast as possible.' Sweating now, Max begs Tanya to help them get married as fast as humanly possible."),
-    (3, None, "'Let's tell this news to all the guests of the restaurant!' Vika suggests announcing their engagement to the entire restaurant right now."),
-    (4, None, "'Wait, it seems I jumped the gun a little now.' Finally cracking, Max calls a timeout and admits he might have rushed things a bit."),
-    (5, None, "'To be honest, I also rushed with the answer too much.' Relieved that he blinked, Vika admits she also answered a little too hastily."),
-    (6, None, "'So, both of us need to think carefully.' Max quickly agrees that both of them should think things over carefully first."),
-    (7, None, "'Yes, it is better for us to wait a little with the wedding.' Vika nods that holding off on the wedding is definitely wiser."),
-    (8, None, "'Chef, will you help us sort this out calmly?' Turning to the chef for backup, Max asks if Viktor will help them sort this out."),
-    (9, None, "'The chef doesn't want to listen to our family arguments.' Already stressed about his football bet, Barinov wants no part of their lovers' quarrel."),
-    (10, None, "'Viktor has an important football match starting now.' Vika notes that Viktor's big football match is kicking off right now."),
-    (11, None, "'Then we will sort everything out ourselves later.' Max agrees they will settle their score later on their own."),
-    (12, None, "'Go work, the wedding will definitely wait for now!' Calling a truce, Vika sends him back to the kitchen and says the wedding can wait."),
+    (0, None, '\'Shall we apply at the registry office?\' "ZAGS" is an old abbreviation for the civil registry office, and Russians still say it. "Podadim zayavlenie" is "we will hand in an application"; "podat" is the verb of Senya\'s "pora podavat blyudo".'),
+    (1, None, '\'Tanya, do you have acquaintances at the registry office?\' "Znakomye", "acquaintances", comes from Max\'s "davayte znakomitsya". "U tebya est" is "at you there are", "you have". Vika turns to her sister.'),
+    (2, None, '\'Please help us get married as fast as possible.\' "Raspisatsya", literally "sign each other", means to register a marriage. "Kak mozhno bystree" is "as fast as can be". "Pomogite" is the polite "help".'),
+    (3, None, '\'Let\'s tell this news to all the guests of the restaurant!\' "Davayte rasskazhem" is "let\'s tell", with the same "rasskazat" as Tanya\'s complaint. "Vsem gostyam" is "to all the guests". Vika raises the stakes.'),
+    (4, None, '\'Wait, it seems I rushed a little.\' "Potoropilsya" is "I rushed", with -sya. "Nemnozhko" is "a little bit", a softer "nemnogo". "Kazhetsya" is "it seems". Max starts to back away.'),
+    (5, None, '\'To be honest, I also rushed with my answer.\' "Chestno govorya" is "honestly speaking", a fixed phrase. "Potoropilas" has the -las for a woman. "S otvetom" is "with the answer". Vika backs away too.'),
+    (6, None, '\'So, both of us need to think carefully.\' "Nam oboim nuzhno" is "to us both it is needed". "Khoroshenko" is a homely form of "khorosho", "well", meaning "properly". "Podumat" is "to think it over".'),
+    (7, None, '\'Yes, it is better for us to wait a little with the wedding.\' For "it is better for us", Russian says "nam luchshe", "to us better". "So svadboy" is "with the wedding": "svadba" becomes "svadboy". "Podozhdat" is "to wait a while".'),
+    (8, None, '\'Chef, will you help us sort this out calmly?\' "Razobratsya" is "to sort out", from Barinov\'s "Ne nado nikomu zvonit, ya razberus" about the stove. "Pomozhete" is "will you help", polite.'),
+    (9, None, '\'The chef doesn\'t want to listen to our family arguments.\' "Semeynye" is "family" as an adjective, from "semya". "Spory" are "arguments". Barinov has no time for them.'),
+    (10, None, '\'Viktor has an important football match starting now.\' "U Viktora" is "at Viktor", the Russian for "Viktor has". "Nachinaetsya" is "begins", with -sya. "Futbolny match" is easy to hear.'),
+    (11, None, '\'Then we will sort everything out ourselves later.\' The word "sami", "ourselves", puts the job back on the two of them. "Vo vsyom razberyomsya" is "in everything we will sort ourselves out", the same verb as before. "Pozzhe" is "later".'),
+    (12, None, '\'Go work, the wedding will definitely wait for now!\' "Idi rabotay" is "go work", two commands with no "and". "Poka" here means "for now", the same word as "bye". "Podozhdyot" is "will wait".'),
 ]

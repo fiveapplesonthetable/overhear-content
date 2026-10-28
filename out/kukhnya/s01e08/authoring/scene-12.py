@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Elena Sokolova approaches pastry station where French chef Louis is delicately assembling gourmet desserts. Recognizing his regional accent, Elena strikes a chord by reminiscing about his native home of Provence and the famous desserts in Saint-Paul-de-Vence. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this heartwarming conversation about France line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Completely won over by Elena's knowledge and charm, Louis happily presents his finest pastries for the dining room. See you next time!"
+INTRO = "Still running Barinov's kitchen at Claude Monet, Elena goes over to Louis, the French pastry chef, who does not want her anywhere near his desserts. She finds a way to win him over. It's in Russian first."
+OPENER = 'Slowly now. Louis starts out rude, and Elena wins him over with talk of home.'
+TRANSITION = 'Now hear it all again, from the cold start to the warm finish.'
+OUTRO = "Elena's method is simple: notice an accent, guess where it's from, and talk about home. She starts with u vas takoy znakomyy aktsent, 'you have such a familiar accent'. See you next time."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('elena', 'Луи, чем вы сейчас занимаетесь на десертах?', 'Louis, what are you doing on the desserts right now?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('louis', 'Спасибо, я словно ненадолго вернулся домой!', 'Thank you, I felt as if I briefly returned home!', [(138, 'Я как будто ненадолго вернулся домой')], ''),
 ]
 WALK = [
-    (0, None, "'Louis, what are you doing on the desserts right now?' Elena approaches the pastry station to inspect the ongoing prep work."),
-    (1, None, "'What business is it of yours regarding my desserts?' Louis snaps at her, protective of his delicate desserts and annoyed by her presence."),
-    (2, None, "'You have such a warm and familiar accent.' She ignores his hostility and focuses on the distinct lilt in his voice."),
-    (3, None, "'Yes, I came here from France itself.' Louis proudly confirms his authentic French origins."),
-    (4, None, "'It is Provence, am I absolutely right?' Elena pinpoints the exact region, showing off her deep culinary knowledge."),
-    (5, None, "'Yes, madame, you guessed very subtly!' Louis is genuinely impressed by her accurate geographical guess."),
-    (6, None, "'I simply adore wonderful Saint-Paul-de-Vence!' She mentions a specific, picturesque village to build an immediate rapport."),
-    (7, None, "'Incredible, my whole family lives right there!' Louis lights up, thrilled to meet someone who knows his hometown."),
-    (8, None, "'And what desserts they serve at La Colombe d'Or!' Elena casually name-drops a legendary local restaurant to win him over."),
-    (9, None, "'Oh, madame, that is my most favorite place!' Louis is completely charmed, confirming it is his favorite spot in the world."),
-    (10, None, "'There is a magnificent view and completely magical atmosphere.' She vividly describes the beautiful setting, proving she has actually been there."),
-    (11, None, "'Thank you, I felt as if I briefly returned home!' Louis sincerely thanks her for giving him a brief, comforting taste of home."),
+    (0, None, "'Louis, what are you doing on the desserts right now?' After zanimatsya, 'to be busy with', 'what' takes the form chem. Kitchen talk puts a station after na, so na desertakh is the dessert section, like na kukhne for the kitchen."),
+    (1, None, "'What business is it of yours regarding my desserts?' Louis answers with kakoye vam delo do..., literally 'what business to you up to...', a blunt 'what's it to you'. His vam is polite, but the phrase is rude anyway."),
+    (2, None, "'You have such a warm and familiar accent.' Built on znat, 'to know', znakomyy means 'familiar', and znakomyy on its own is an acquaintance. Here takoy, 'such', matches aktsent."),
+    (3, None, "'Yes, I came here from France itself.' Louis says priyekhal, from priyekhat, 'to arrive by transport', not on foot. In iz samoy..., samyy means 'the very', so it's 'from the very France'."),
+    (4, None, "'It is Provence, am I absolutely right?' A woman says prava, 'right', and a man prav. Adding zhe to eto, 'it's surely', shows she's confident."),
+    (5, None, "'Yes, madame, you guessed very subtly!' His ugadali, 'you guessed', means she got it right. The word tonko, 'subtly', comes from tonkiy, 'thin, fine'."),
+    (6, None, "'I simply adore wonderful Saint-Paul-de-Vence!' Saying obozhayu, 'I adore', is stronger than lyublyu, 'I love'. In Russian spelling the town keeps its hyphens."),
+    (7, None, "'Incredible, my whole family lives right there!' Literally 'not probable', neveroyatno is ne glued to veroyatno. And imenno tam means 'exactly there'."),
+    (8, None, "'And what desserts they serve at La Colombe d'Or!' Here kakiye, 'what', makes an exclamation. Russian translates the restaurant's name as 'the golden dove', and after v the name takes -oy and -e."),
+    (9, None, "'Oh, madame, that is my most favorite place!' Both moyo, 'my', and samoye lyubimoye, 'most favourite', match mesto, 'place', which is neuter. One mention of his village and Louis is won over."),
+    (10, None, "'There is a magnificent view and completely magical atmosphere.' A volshebnik is a wizard, so volshebnyy is 'magical'. The word vid, 'view', also means 'kind' or 'appearance'."),
+    (11, None, "'Thank you, I felt as if I briefly returned home!' His slovno, 'as if', is a slightly literary kak budto. Answering 'where to', domoy means 'home', and nenadolgo, 'not for long', is written as one word."),
 ]

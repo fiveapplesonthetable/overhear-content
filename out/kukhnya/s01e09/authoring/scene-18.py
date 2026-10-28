@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "At Claude Monet, Chef Barinov discovers his young daughter Alisa happily painting the face of pastry chef Louis in the kitchen. Relieved that she is safe and occupied, Barinov allows her to stay under one strict condition: no whiskey under any circumstances. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the parental instructions, strict prohibitions, and pastry culinary terminology."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Reassured that his daughter is safe with Louis and delighted by the lucrative dessert order, Chef Barinov leaves the kitchen in good spirits. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "It's later in the same long day. Alisa is with Louis in the pastry section, and she has used his face as a drawing board. Barinov arrives to check on the cake and on his daughter. Let's hear it."
+OPENER = "Now I'll walk you through it."
+TRANSITION = 'One more run through, all the way.'
+OUTRO = "The banquet will go well, and Alisa will stay. The only rule is the one about whiskey. Next, we'll see how the evening ends. Until we meet again, in Russian."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('barinov', 'Луи, ты отлично справляешься с Алисой.', 'Louis, you are handling Alisa great.', [(323, 'Луи')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('louis', 'Шеф, наш банкет пройдёт на высшем уровне!', 'Chef, our banquet will go at the highest level!', [(340, 'нашего банка')], ''),
 ]
 WALK = [
-    (0, None, "'Louis, you are handling Alisa great.' Finding Alisa happily occupied in the kitchen, Barinov praises Louis for handling her so well."),
-    (1, None, "'Chef, she was simply drawing on my face!' With painted cheeks covered in frosting, Louis explains that she was just drawing on his face."),
-    (2, None, "'Fine, let her stay here with you.' Relieved that she is staying out of trouble, Viktor lets her remain at Louis's station."),
-    (3, None, "'Just remember the main and strict rule.' However, the chef tells Louis to remember one strict rule."),
-    (4, None, "'Under no circumstances can she have whiskey!' Joking darkly about his own habits, Viktor warns that under no circumstances is the child allowed whiskey."),
-    (5, None, "'Chef, I remember your strict words perfectly.' Louis solemnly assures the chef that he remembers every word of his rules."),
-    (6, None, "'I prepared a magnificent cake for the important banquet.' Turning to his work, Louis shows off the magnificent cake he finished for the banquet."),
-    (7, None, "'The guests paid huge money for it!' Viktor reminds him that the bank clients paid a fortune for this reception."),
-    (8, None, "'They gave a whole hundred thousand rubles!' Louis marvels that the guests paid a full hundred thousand rubles for the order."),
-    (9, None, "'They know that you are a famous pastry chef.' Barinov flatters Louis by saying the clients know he is a renowned French pastry chef."),
-    (10, None, "'French desserts always cost very much.' Louis proudly agrees that genuine French desserts always command a high price."),
-    (11, None, "'The main thing is that all guests are satisfied.' Viktor says the only thing that matters now is keeping every guest happy."),
-    (12, None, "'Chef, our banquet will go at the highest level!' Louis promises that their banquet dessert will be a triumph."),
+    (0, None, '\'Louis, you are handling Alisa great.\' "Spravlyaeshsya" is from the same family as Louis\'s "ne spravlyus" in the first scene, when he said he couldn\'t manage alone. "S Alisoy" is "with Alisa". Now it\'s a compliment.'),
+    (1, None, '\'Chef, she was simply drawing on my face!\' "Risovala" is "was drawing", with the girl\'s -la. "Na moyom litse" is "on my face": after "na", "litso" becomes "litse". He sounds more hurt than angry.'),
+    (2, None, '\'Fine, let her stay here with you.\' "Puskay" is a chattier twin of "pust", "let", which Louis used in "pust moet posudu". "Ostayotsya" is "stays". Barinov leaves the child with the nearest adult.'),
+    (3, None, '\'Just remember the main and strict rule.\' "Glavnoe" is "main" here, and on its own it means "the main thing". "Strogoe", "strict", ends in -oe to match "pravilo", "rule". "Pomni" is "remember".'),
+    (4, None, '\'Under no circumstances can she have whiskey!\' "Ni pri kakikh obstoyatelstvakh" is "not under any circumstances", a set phrase. "Ey nelzya" is "to her not allowed", the chocolate rule again. "Viski" is borrowed, so it never changes.'),
+    (5, None, '\'Chef, I remember your strict words perfectly.\' Louis says "vashi", the polite "your", as he does with the chef. "Prekrasno" is "perfectly" here, and also "wonderfully". "Pomnyu" is "I remember".'),
+    (6, None, '\'I prepared a magnificent cake for the important banquet.\' "Prigotovil" is "prepared", with the man\'s -l. "Velikolepny" is "magnificent". "Dlya vazhnogo banketa" is "for the important banquet", and both words change after "dlya".'),
+    (7, None, '\'The guests paid huge money for it!\' "Dengi", "money", is always plural in Russian, so it\'s "ogromnye dengi", "huge monies". "Zaplatili" is "paid", with the plural -li.'),
+    (8, None, '\'They gave a whole hundred thousand rubles!\' "Tselykh", "a whole", is the same as in "tselykh polchasa", "a whole half-hour". "Sto tysyach rubley" is "a hundred thousand rubles": after a number, "rubl" becomes "rubley".'),
+    (9, None, '\'They know that you are a famous pastry chef.\' "Znamenity" is "famous", and "konditer" is a pastry chef. "Znayut" is "they know". Barinov hands out a compliment, which is rare.'),
+    (10, None, '\'French desserts always cost very much.\' "Stoyat dorogo" is "stand dearly": "stoit", "stands", is how Russian says "costs". "Dorogo" comes from "dorogoy", both "dear" and "expensive". Louis is proud of the price.'),
+    (11, None, '\'The main thing is that all guests are satisfied.\' "Glavnoe, chtoby" is "the main thing, so that". "Dovolny" is "satisfied" or "pleased". Barinov names the point of the whole day.'),
+    (12, None, '\'Chef, our banquet will go at the highest level!\' "Na vysshem urovne", "at the highest level", is the idiom for "top-notch". "Proydyot" is really "will pass", the same word as "kak proshlo", "how did it go".'),
 ]

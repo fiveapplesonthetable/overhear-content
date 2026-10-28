@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the kitchen workspace behind closed doors, Chef Viktor and Senya commence their bold culinary deception. Armed with dark natural food dye, they set out to tint the yellow pike caviar into convincing black pearls, joking that it feels like decorating eggs for Easter. Let us listen to their conspiratorial dialogue in Russian first.'
-OPENER = "Now let us examine Viktor and Senya's secret recipe step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the pike caviar successfully dyed a glistening black, Viktor and Senya admire their handiwork, confident that no patron will discover their culinary ruse. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'to look' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov has an idea: if the pike caviar is the wrong colour, change the colour. He and Senya set to work with a food dye. Listen to the tone before the words.'
+OPENER = 'Now for the details.'
+TRANSITION = 'Once more, the whole thing through.'
+OUTRO = 'The caviar is black, the spoon is stirring, and the secret is safe. If it is still a secret by tonight, it will be a miracle. Until next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Давай начнём красить эту щучью икру.', 'Let us start dyeing this pike caviar.', [(207, 'Давай'), (207, 'давай')], ''),
-    ('senya', 'Вы хотите превратить её в чёрную?', 'Do you want to turn it into black?', [], ''),
+    ('senya', 'Вы хотите сделать её чёрной?', 'Do you want to make it black?', [], ''),
     ('barinov', 'Да, мы покрасим всю эту икру.', 'Yes, we will dye all of this caviar.', [], ''),
-    ('senya', 'Это прямо настоящая щучья пасха получается.', 'This turns out to be a real pike Easter.', [], ''),
+    ('senya', 'Получается настоящая щучья пасха.', 'It turns out a real pike Easter.', [], ''),
     ('barinov', 'Неси сюда чёрный краситель.', 'Bring black food dye here.', [], ''),
     ('senya', 'Я нашёл на полке отличный краситель.', 'I found an excellent dye on the shelf.', [], ''),
     ('barinov', 'Добавляй краситель медленно и аккуратно.', 'Add the dye slowly and carefully.', [], ''),
     ('senya', 'Икра уже становится совсем чёрной.', 'The caviar is already becoming completely black.', [], ''),
     ('barinov', 'Теперь хорошо помешай ложкой всю икру.', 'Now stir all the caviar well with a spoon.', [], ''),
-    ('senya', 'Она выглядит прямо как дорогая чёрная.', 'It looks just like expensive black caviar.', [], ''),
+    ('senya', 'Теперь она похожа на дорогую чёрную икру.', 'Now it looks like expensive black caviar.', [], ''),
     ('barinov', 'Ни один гость ресторана ничего не заметит.', 'Not a single guest of the restaurant will notice anything.', [], ''),
-    ('senya', 'Вы просто гений кулинарных секретов, шеф.', 'You are simply a genius of culinary secrets, chef.', [], ''),
+    ('senya', 'Шеф, вы просто кулинарный гений.', 'Chef, you are simply a culinary genius.', [], ''),
     ('barinov', 'Этот секрет никто не должен знать.', 'No one must know this secret.', [], ''),
 ]
 WALK = [
-    (0, None, "'Let us start dyeing this pike caviar.' Rolling up his sleeves, Barinov tells Senya it is time to dye the pike roe."),
-    (1, None, "'Do you want to turn it into black?' Senya asks in amazement if the chef really plans to paint yellow caviar black."),
-    (2, None, "'Yes, we will dye all of this caviar.' Viktor confirms that they are going to tint the entire batch."),
-    (3, None, "'This turns out to be a real pike Easter.' Laughing at the scheme, Senya jokes that it feels like dyeing eggs for Easter."),
-    (4, None, "'Bring black food dye here.' Barinov orders him to fetch the black food coloring from the pastry shelf."),
-    (5, None, "'I found an excellent dye on the shelf.' Senya returns with a bottle of dark natural food dye."),
-    (6, None, "'Add the dye slowly and carefully.' Viktor instructs him to pour the coloring in slowly and carefully."),
-    (7, None, "'The caviar is already becoming completely black.' Watching the bowl, Senya marvels as the yellow roe turns pitch black."),
-    (8, None, "'Now stir all the caviar well with a spoon.' Barinov tells him to stir the whole batch gently with a spoon."),
-    (9, None, "'It looks just like expensive black caviar.' Senya grins and says it looks indistinguishable from luxury sturgeon caviar now."),
-    (10, None, "'Not a single guest of the restaurant will notice anything.' Viktor is confident that not a single diner in the hall will suspect a thing."),
-    (11, None, "'You are simply a genius of culinary secrets, chef.' Impressed by the hustle, Senya calls the chef a culinary genius."),
-    (12, None, "'No one must know this secret.' Barinov warns him again that nobody outside this room can ever find out."),
+    (0, None, '\'Let us start dyeing this pike caviar.\' "Davay nachnyom", "let\'s begin", is how Russians start a job together. "Krasit" is "to dye" or "to paint", and it shares a root with "kraska", "paint". "Shchuchya ikra" is "pike caviar".'),
+    (1, None, '\'Do you want to make it black?\' "Sdelat eyo chyornoy" is "to make it black". After "sdelat", "chyornaya" turns into "chyornoy". Senya checks that he has understood the plan.'),
+    (2, None, '\'Yes, we will dye all of this caviar.\' "Pokrasim" is "we will dye": "krasit" with po- in front, for a job that gets finished. "Vsyu etu ikru" is "all this caviar". Barinov does not hesitate.'),
+    (3, None, '\'It turns out a real pike Easter.\' At Easter, "Paskha", Russians dye eggs, so dyed caviar becomes a "pike Easter". "Paskha" is also the name of a sweet curd dessert. "Poluchaetsya" is "it turns out".'),
+    (4, None, '\'Bring black food dye here.\' "Nesi" is "carry" or "bring", said to one person. "Syuda" is "to here", for movement; "zdes" is "here" for staying put. "Krasitel" is the dye itself.'),
+    (5, None, '\'I found an excellent dye on the shelf.\' "Nashyol" is "found", heard in Barinov\'s question about the knife, "Gde ty ego nashyol?". "Na polke" is "on the shelf", from "polka".'),
+    (6, None, '\'Add the dye slowly and carefully.\' "Dobavlyay" is "keep adding", for a step that takes time. "Medlenno i akkuratno" is "slowly and carefully". Barinov wants the colour to go in evenly.'),
+    (7, None, '\'The caviar is already becoming completely black.\' "Stanovitsya" is "becomes", a change still happening. After it the colour takes the same -oy ending as before: "sovsem chyornoy". Senya reports the progress.'),
+    (8, None, '\'Now stir all the caviar well with a spoon.\' "Pomeshay" is "give it a stir", from "meshat", the word Louis used for the chocolate: "Meshay ravnomerno". "Lozhkoy" is "with a spoon", from "lozhka".'),
+    (9, None, '\'Now it looks like expensive black caviar.\' "Pokhozha na" is "looks like", literally "similar onto". After "na", "dorogaya chyornaya ikra" becomes "doroguyu chyornuyu ikru". "Dorogoy" means both "expensive" and "dear".'),
+    (10, None, '\'Not a single guest of the restaurant will notice anything.\' "Ni odin gost", "nichego", "ne zametit": three negatives, and Russian needs all of them. Barinov said much the same about the cake: "chtoby gosti nichego ne zametili".'),
+    (11, None, '\'Chef, you are simply a culinary genius.\' "Geniy" is "genius" and "kulinarny" is "culinary", both easy to recognise. "Prosto" is "simply". Senya flatters his boss.'),
+    (12, None, '\'No one must know this secret.\' "Nikto ne dolzhen" is "nobody not must". "Dolzhen" also means "owe": Fedya told Barinov "Vy mne eshchyo pyat tysyach dolzhny", "you still owe me five thousand". "Znat" is "to know".'),
 ]

@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Stunned by Max's audacious public proposal, Victoria pauses to assess the situation. Rather than getting flustered, she looks him in the eye and boldly calls his bluff by accepting to marry him. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the declarations of intent, emotional boldness, and marriage vocabulary."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Refusing to back down in front of her sister, Victoria calls Max's bluff by accepting his marriage proposal on the spot. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to speak' — you will catch every word right away. See you next time!"
+INTRO = "Max has proposed in the middle of the restaurant, and Vika has not run away. She answers him, and the answer surprises him. Here's the Russian, from the top."
+OPENER = "Let's go back to the beginning."
+TRANSITION = 'Here is the full story once more.'
+OUTRO = 'Vika has said yes, which neither of them expected. Whether it holds is another story. Keep listening.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Максим, ты думал, что я испугаюсь?', 'Maxim, did you think that I would get scared?', [(275, 'Я согласна')], ''),
     ('max', 'Я просто сделал тебе красивое предложение.', 'I simply made you a beautiful proposal.', [(275, 'Я согласна')], ''),
-    ('vika', 'Ты хотел проверить мою смелость сейчас?', 'You wanted to test my courage now?', [(275, 'Я согласна')], ''),
+    ('vika', 'Ты хотел проверить мою смелость?', 'You wanted to test my courage?', [(275, 'Я согласна')], ''),
     ('max', 'Я готов создать с тобой крепкую семью.', 'I am ready to create a strong family with you.', [(275, 'Я согласна')], ''),
-    ('vika', 'Ты уверен в своих громких словах?', 'Are you confident in your loud words?', [(275, 'Я согласна')], ''),
+    ('vika', 'Ты уверен в своих словах?', 'Are you sure of your words?', [(275, 'Я согласна')], ''),
     ('max', 'Я абсолютно уверен в каждом своём слове!', 'I am absolutely confident in every word of mine!', [(275, 'Я согласна')], ''),
     ('vika', 'Тогда слушай мой честный ответ при всех.', 'Then listen to my honest answer in front of everyone.', [(275, 'Я согласна')], ''),
-    ('vika', 'Я согласна стать твоей законной женой!', 'I agree to become your lawful wife!', [(275, 'Я согласна')], ''),
-    ('max', 'Ты действительно сейчас говоришь чистую правду?', 'Are you really speaking the pure truth now?', [(275, 'Я согласна')], ''),
+    ('vika', 'Я согласна стать твоей женой!', 'I agree to become your wife!', [(275, 'Я согласна')], ''),
+    ('max', 'Ты правда согласна?', 'Do you really agree?', [(275, 'Я согласна')], ''),
     ('vika', 'Да, я принимаю твоё неожиданное предложение.', 'Yes, I accept your unexpected proposal.', [(275, 'Я согласна')], ''),
-    ('max', 'Теперь мы станем настоящими женихом и невестой!', 'Now we will become real groom and bride!', [(275, 'Я согласна')], ''),
+    ('max', 'Теперь мы жених и невеста!', 'Now we are bride and groom!', [(275, 'Я согласна')], ''),
     ('vika', 'Посмотрим, как ты справишься с этим, Максим!', 'We will see how you handle this, Maxim!', [(275, 'Я согласна')], ''),
     ('max', 'Я готов ко всем трудностям нашей свадьбы!', 'I am ready for all the difficulties of our wedding!', [(275, 'Я согласна')], ''),
 ]
 WALK = [
-    (0, None, "'Maxim, did you think that I would get scared?' Refusing to be outdone in their game of chicken, Vika asks if Maxim really thought she would back down."),
-    (1, None, "'I simply made you a beautiful proposal.' Max innocently replies that he simply made her a heartfelt marriage proposal."),
-    (2, None, "'You wanted to test my courage now?' Vika sees right through him: he is testing her nerve in front of her family."),
-    (3, None, "'I am ready to create a strong family with you.' Keeping up the act, Max declares he is ready to build a strong family with her."),
-    (4, None, "'Are you confident in your loud words?' Narrowing her eyes, Vika asks if he is truly sure about those bold words."),
-    (5, None, "'I am absolutely confident in every word of mine!' Max swears he stands by every single word."),
-    (6, None, "'Then listen to my honest answer in front of everyone.' Calling his bluff right back, Vika tells everyone to listen to her honest answer."),
-    (7, None, "'I agree to become your lawful wife!' To Max's horror, Vika announces that she agrees to become his lawful wife."),
-    (8, None, "'Are you really speaking the pure truth now?' His smile freezing, Max asks if she is seriously saying yes right now."),
-    (9, None, "'Yes, I accept your unexpected proposal.' Vika coolly confirms that she accepts his proposal."),
-    (10, None, "'Now we will become real groom and bride!' Trapped by his own stunt, Max gulps that they are officially engaged now."),
-    (11, None, "'We will see how you handle this, Maxim!' Vika smirks and says they will see how well Maxim handles being a groom."),
-    (12, None, "'I am ready for all the difficulties of our wedding!' Trying not to panic, Max claims he is ready for every challenge of their wedding."),
+    (0, None, '\'Maxim, did you think that I would get scared?\' She calls him "Maksim", in full. "Ispugayus" is "I will get scared", the verb in Kostya\'s "On ispugalsya svadby". After "chto", Russian keeps the future, where English says "would".'),
+    (1, None, '\'I simply made you a beautiful proposal.\' Russians "make a proposal", "sdelat predlozhenie", to propose marriage. "Predlozhenie" is also the grammar word for "sentence". "Prosto" is "simply".'),
+    (2, None, '\'You wanted to test my courage?\' "Proverit" is "to test", "to check", heard in Barinov\'s "Snachala ya proveryu rabotu nashikh povarov". "Smelost", "courage", comes from "smely", "brave".'),
+    (3, None, '\'I am ready to create a strong family with you.\' "Sozdat" is "to create", a grand word. "Krepkaya semya" is "a strong family"; "krepkiy" also describes strong tea. "S toboy" is "with you".'),
+    (4, None, '\'Are you sure of your words?\' "Uveren v svoikh slovakh" is "sure in your own words". Russian uses "svoy" for things that belong to the person in the sentence. Vika asks for proof.'),
+    (5, None, '\'I am absolutely confident in every word of mine!\' "V kazhdom svoyom slove" is "in every own word": "kazhdy", "svoy" and "slovo" all change after "v". "Absolyutno uveren" is "absolutely sure".'),
+    (6, None, '\'Then listen to my honest answer in front of everyone.\' "Pri vsekh" is "in front of everyone", literally "at all". "Chestny otvet" is "honest answer"; "chestno" was in Kostya\'s "pogovori s ney chestno".'),
+    (7, None, '\'I agree to become your wife!\' "Soglasna" is "I agree", with -a because Vika is a woman. "Stat tvoey zhenoy" is "to become your wife": after "stat", "zhena" becomes "zhenoy". Vika says yes.'),
+    (8, None, '\'Do you really agree?\' "Pravda", "truth", works here as "really": "ty pravda soglasna?", "you truly agree?". Max asks again.'),
+    (9, None, '\'Yes, I accept your unexpected proposal.\' "Prinimayu" is "I accept", the verb behind Tamara\'s "tvoya stavka prinyata", "your bet is accepted". "Neozhidannoe", "unexpected", is "not awaited", from "zhdat".'),
+    (10, None, '\'Now we are bride and groom!\' "Zhenikh i nevesta" is "groom and bride", the fixed pair for an engaged couple, with the groom first. There is no word for "are": "now we groom and bride".'),
+    (11, None, '\'We will see how you handle this, Maxim!\' Vika\'s "Posmotrim" is "we will see". "Spravishsya" is "you will cope", as in Louis\'s "Ya odin segodnya ne spravlyus". "S etim" is "with this".'),
+    (12, None, '\'I am ready for all the difficulties of our wedding!\' "Gotov k" is "ready for": "gotov ko vsem trudnostyam". "Trudnosti" comes from "trudny", "difficult", as in Barinov\'s "spravitsya gorazdo trudnee". Max sounds very sure.'),
 ]

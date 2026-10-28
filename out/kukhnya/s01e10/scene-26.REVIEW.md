@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Пойдём со мной в мой кабинет. | Come with me into my office. | #188: пойдем со мной | verbatim |
+| 1 | Шеф | Пойдём со мной в мой кабинет. | Come with me into my office. | #188 00:12:52: пойдем со мной | verbatim |
 | 2 | Макс | Шеф, куда мы сейчас идём? | Chef, where are we going now? | new | new |
 | 3 | Шеф | Нам нужен очень серьёзный разговор. | We need a very serious conversation. | new | new |
 | 4 | Макс | Вы всё слышали на кухне? | Did you hear everything in the kitchen? | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come with me into my office.' Barinov calmly draws this thought through linking 'come' and 'into' and 'office'.
-- 'Chef, where are we going now?' Max clearly builds the idea by connecting 'chef' and 'we' and 'now'.
-- 'We need a very serious conversation.' Barinov clearly shares such image through merging 'we' with 'very' and 'conversation'.
-- 'Did you hear everything in the kitchen?' Max calmly forms such thought by combining 'did' and 'hear' plus 'kitchen'.
-- 'I heard every word of yours.' Barinov plainly brings that meaning through grouping 'i' and 'every' plus 'yours'.
-- 'I myself do not understand anything.' Max simply draws some message through fusing 'i' and 'not' plus 'anything'.
-- 'You caused a real big scandal.' Barinov softly brings some picture by linking 'you' with 'real' plus 'scandal'.
-- 'I did not want to offend anyone.' Max truly brings that image through combining 'i' and 'want' and 'anyone'.
-- 'Go into the room and close the door.' Leading him into the office, Viktor tells him to step inside and shut the door.
-- 'Good, I am already closing the door.' Max boldly casts the thought through connecting 'good' with 'already' as well as 'door'.
-- 'Sit on a chair and listen to me.' Barinov clearly gives that meaning through combining 'sit' with 'and' and 'me'.
-- 'I am listening to you attentively, chef.' Max simply shows such meaning by linking 'i' and 'you' plus 'chef'.
-- 'Now your life will change greatly.' Barinov neatly makes the concept through merging 'now' with 'will' plus 'greatly'.
+- 'Come with me into my office.' "Poydyom" is "let's go", the word in Tanya's "poydyom, ya bystro s ney poproshchayus". "So mnoy" is "with me": "s" becomes "so" before "mnoy". "Kabinet" is an office.
+- 'Chef, where are we going now?' "Kuda" is "where to", the question for direction. "Idyom" is "we're going", on foot. "Seychas" is "now". Max sounds worried.
+- 'We need a very serious conversation.' "Nam nuzhen", "to us is needed", is "we need". It's "nuzhen" because "razgovor", "conversation", is masculine. "Razgovor" is built on "govorit", "to talk".
+- 'Did you hear everything in the kitchen?' "Slyshali" ends in -li because Max uses the polite "vy", even for one person. "Vsyo" is "everything", and "na kukhne" is "in the kitchen".
+- 'I heard every word of yours.' Now it's "slyshal", with -l for Barinov. "Kazhdoe tvoyo slovo" is "every your word": both little words take -o to match "slovo". He sounds pleased and a bit menacing.
+- 'I myself do not understand anything.' "Ya sam" is "I myself". "Nichego ne ponimayu" is "I don't understand anything", with two negatives, "nichego" and "ne". Max wants sympathy.
+- 'You caused a real big scandal.' "Ustroil", literally "arranged", is how you say "caused" or "made" for a scene. "Skandal" is borrowed. "Nastoyashchiy" is "real".
+- 'I did not want to offend anyone.' "Obidet", "to offend", is the family of Timur's "obizhaesh". "Nikogo" is "nobody", and "ne khotel" is "didn't want": two negatives again.
+- 'Go into the room and close the door.' "Zakhodi" is "come in", with za- for going into a place. "Zakroy dver" is "close the door". "V komnatu" is "into the room": "komnata" becomes "komnatu".
+- 'Good, I am already closing the door.' "Zakryvayu", "I'm closing", is the in-progress form, while "zakroy" was the one-time order. Russian keeps the two forms apart. "Uzhe" is "already".
+- 'Sit on a chair and listen to me.' "Syad" is "sit down", the same verb as Vika's "sadis" to Alisa. "Na stul" is "onto a chair". "Slushay menya" is "listen to me".
+- 'I am listening to you attentively, chef.' "Ya vnimatelno slushayu vas" is the phrase Barinov himself used earlier, "ya vas vnimatelno slushayu". "Vnimatelno" is "attentively". Max uses the polite "vas".
+- 'Now your life will change greatly.' "Izmenitsya" is "will change", with -sya on the end. "Zhizn", "life", is the family of "zhiv", "alive". "Silno" is "greatly".

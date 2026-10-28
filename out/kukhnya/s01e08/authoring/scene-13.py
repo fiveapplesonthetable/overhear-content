@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the quiet vegetable storeroom of Claude Monet, Max and Sasha scramble to hide Dmitry Nagiyev's unconscious dog among sacks of potatoes. Desperate to conceal the animal until nightfall, they use fragrant cilantro before art director Victoria walks in unexpectedly. Let's listen to their nervous conversation in Russian."
-OPENER = "Let's explore how Max and Sasha attempt to conceal their secret in the restaurant storeroom."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to talk about hiding items, giving excuses, and handling unexpected workplace interruptions in Russian. Listen for these practical expressions in the upcoming scenes. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'evening' — you will catch every word right away. See you next time!"
+INTRO = "At Claude Monet, the cooks Max and Sasha are trying to hide Nagiyev's dog, Tyson, in the vegetable storeroom, behind the potatoes. Vika is about to walk in on them. It's in Russian first."
+OPENER = 'Slowly now. Max and Sasha speak in quick commands, and then Vika walks in.'
+TRANSITION = "Here's the hiding again, all in one go."
+OUTRO = "Vika's put-down, eto vam ne motel, 'this is no motel for you', is a joke and a telling-off at once. And pust ona polezhit, 'let her lie for a while', shows how pust makes a 'let' for someone else. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вот, положи её сюда.', 'Here, put her here.', [(139, 'сюда давай')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('vika', 'Быстро уходите, это вам не мотель.', 'Leave quickly, this is no motel for you.', [(162, 'заканчивайте здесь фритюриться, это вам не мотель')], ''),
 ]
 WALK = [
-    (0, None, "'Let her lie here until evening.' Sasha suggests leaving the dog hidden among the vegetables until the shift ends."),
-    (1, None, "'It will easily cover any odor.' He notes that the strong smell of herbs will mask any unwanted dog odors."),
-    (2, None, "'Tablecloths in the vegetable storeroom?' Vika enters the storeroom and immediately spots the highly suspicious setup."),
-    (3, None, "'Leave quickly, this is no motel for you.' She kicks them out, reminding them this is a professional kitchen, not a hideout."),
+    (0, None, "'Here, put her here.' You say vot when handing over or showing something. Max's polozhi is the friendly 'put', and yeyo, 'her', is feminine to match sobaka."),
+    (1, None, "'Let her lie here until evening.' To let someone else do something, Russian uses pust: pust ona polezhit. With po-, polezhat means lying for a while, and after do, 'until', vecher becomes vechera."),
+    (2, None, "'We will carry her out at night.' The vy- in vynesem, 'we'll carry out', is the same 'out' as in vykhod, 'exit'. Russian says 'at night' with one word, nochyu."),
+    (3, None, "'Take the fresh cilantro.' Sasha's vozmi is the friendly command from vzyat, 'to take'. As the thing taken, kinza, 'cilantro', becomes kinzu."),
+    (4, None, "'It will easily cover any odor.' Built from pere-, 'over', and bit, 'to beat', perebit is what a strong smell does to a weaker one. Here ona, 'it', is the cilantro, since kinza is feminine."),
+    (5, None, "'Help me lift this sack.' In Russian you give help to someone, so 'me' is mne. Then comes podnyat, 'to lift', in its basic form."),
+    (6, None, "'Put the dog deeper behind the potatoes.' Because the dog is being moved there, it's za kartoshku; once she's there, she lies za kartoshkoy. The singular kartoshka means potatoes in general."),
+    (7, None, "'And what are you doing here?' Vika's chem vy tut zanimayetes, 'what are you busy with here', is a classic boss's question. Her vy is plural, for both of them."),
+    (8, None, "'I am just looking for clean tablecloths.' The object of ishchu, 'I'm looking for', follows with no 'for' at all. The plural skaterti comes from skatert, 'tablecloth'."),
+    (9, None, "'Tablecloths in the vegetable storeroom?' By repeating Sasha's words with a rising voice, Vika turns them into a question; Russian needs nothing else. The word ovoshchnoy, 'vegetable', comes from ovoshchi, 'vegetables'."),
+    (10, None, "'Max, why aren't you in the kitchen?' Putting ne straight before the place gives ne na kukhne, 'not in the kitchen'. As always, Vika says ty to Max."),
+    (11, None, "'I have a legitimate day off today.' Max's u menya vykhodnoy, literally 'by me a day off', is how you say you're off work. With zakonnyy, 'legitimate', he insists he has every right to it."),
+    (12, None, "'Leave quickly, this is no motel for you.' Since ukhodite is plural, she is sending both of them out. A common scolding goes eto vam ne..., 'this is not a ... for you', as in eto vam ne shkola."),
 ]

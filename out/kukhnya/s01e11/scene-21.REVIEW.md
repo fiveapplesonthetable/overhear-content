@@ -10,28 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Твой суп, дружище, приятного аппетита. | Your soup, buddy, enjoy your meal. | #282: Твой суп, дружище, приятного аппетита. | verbatim |
-| 2 | Вика | Виктор Петрович, что вы делаете? | Viktor Petrovich, what are you doing? | #283: Ты что делаешь? | verbatim |
-| 3 | Шеф | Я делаю то, что должен делать. | I am doing what I must do. | #284: То, что должен. | verbatim |
-| 4 | Вика | Но там же сидит важный критик! | But an important critic is sitting right there! | #284: Там же критик. | verbatim |
-| 5 | Шеф | Мне всё равно, кто там сидит. | I do not care who is sitting there. | #285: Мне что, это только одно и надо? | verbatim |
-| 6 | Шеф | Этот гость заказал суп раньше. | This guest ordered soup earlier. | #287: Этот человек раньше заказал суп, он его получил. | verbatim |
+| 1 | Шеф | Твой суп, дружище, приятного аппетита. | Your soup, buddy, enjoy your meal. | #282 00:18:55: Твой суп, дружище, приятного аппетита. | verbatim |
+| 2 | Вика | Виктор Петрович, что вы делаете? | Viktor Petrovich, what are you doing? | #283 00:18:57: Ты что делаешь? | verbatim |
+| 3 | Шеф | Я делаю то, что должен делать. | I am doing what I must do. | #284 00:18:59: То, что должен. | verbatim |
+| 4 | Вика | Но там же сидит важный критик! | But an important critic is sitting right there! | #284 00:18:59: Там же критик. | verbatim |
+| 5 | Шеф | Мне всё равно, кто там сидит. | I do not care who is sitting there. | #285 00:19:01: Мне что, это только одно и надо? | verbatim |
+| 6 | Шеф | Этот гость заказал суп раньше. | This guest ordered soup earlier. | #287 00:19:06: Этот человек раньше заказал суп, он его получил. | verbatim |
 | 7 | Вика | Критик очень зол, он уйдёт! | The critic is very angry, he will leave! | new | new |
 | 8 | Шеф | Пусть уходит, если не умеет ждать. | Let him leave if he does not know how to wait. | new | new |
 | 9 | Вика | Вы рискуете репутацией нашего ресторана. | You are risking our restaurant's reputation. | new | new |
-| 10 | Шеф | Да будь он хоть трижды критик! | Even if he were three times a critic! | #285: Да будь он хоть трижды критик, | verbatim |
-| 11 | Шеф | Я всем гостям подаю по очереди. | I serve all guests in turn. | #286: я всем подаю по очереди. | verbatim |
-| 12 | Шеф | У меня на кухне все равны! | In my kitchen everyone is equal! | #289: У меня на кухне все равны. | verbatim |
+| 10 | Шеф | Да будь он хоть трижды критик! | Even if he were three times a critic! | #285 00:19:01: Да будь он хоть трижды критик, | verbatim |
+| 11 | Шеф | Я всем гостям подаю по очереди. | I serve all guests in turn. | #286 00:19:04: я всем подаю по очереди. | verbatim |
+| 12 | Шеф | У меня на кухне все равны! | In my kitchen everyone is equal! | #289 00:19:12: У меня на кухне все равны. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your soup, buddy, enjoy your meal.' Barinov friendly gives the soup to the regular customer. He wishes his buddy a good meal.
-- 'Viktor Petrovich, what are you doing?' Vika is horrified and asks what on earth he is doing. She cannot believe he just did that.
-- 'I am doing what I must do.' Barinov simply replies that he is doing what must be done. He is following his own rules.
-- 'But an important critic is sitting right there!' Vika frantically points out the important VIP sitting out there. She thinks this is a huge mistake.
-- 'I do not care who is sitting there.' Barinov stubbornly declares that he does not care who is sitting there. Status means nothing to him.
-- 'This guest ordered soup earlier.' Barinov defends his choice by saying the other person ordered first. It is just basic fairness.
-- 'Let him leave if he does not know how to wait.' Barinov adds that the impatient man can leave if he cannot wait. He refuses to be bossed around.
-- 'You are risking our restaurant' Vika warns him that he is risking their entire reputation. This could destroy everything they built.
-- 'Even if he were three times a critic!' Barinov yells back that it does not matter if the guy is a critic three times over. He stands his ground.
-- 'In my kitchen everyone is equal!' Barinov proudly announces that everyone is equal in his kitchen. He serves food fairly to all.
+- 'Your soup, buddy, enjoy your meal.' "Priyatnogo appetita" is literally "of pleasant appetite", the usual Russian "bon appetit". "Druzhishche", "buddy", is the warm word the guest at the bar used for Kostya. Barinov serves the man himself.
+- 'Viktor Petrovich, what are you doing?' Vika uses the polite "vy", with his first name and father's name. "Chto vy delaete" is "what are you doing". She can see perfectly well what he is doing.
+- 'I am doing what I must do.' "To, chto", "that which", is the Russian frame for "what" in the middle of a sentence. "Dolzhen" is "must". Barinov answers calmly.
+- 'But an important critic is sitting right there!' The little "zhe" in "tam zhe" adds "after all, right there". "Vazhny kritik" is "an important critic". Vika points at the table.
+- 'I do not care who is sitting there.' "Mne vsyo ravno", "to me all the same", is the idiom for "I don't care". "Ravno" is built on "ravny", "equal", which comes back in the last line. Barinov is clear.
+- 'This guest ordered soup earlier.' "Ranshe" is "earlier", "before" in time. "Zakazal sup" is "ordered soup". The guest at the bar had ordered first, and for Barinov that settles it.
+- 'The critic is very angry, he will leave!' "Zol" is the short form of "zloy", "angry" or "wicked". "Uydyot", "he will leave", has u- for "away". Vika's voice is rising.
+- 'Let him leave if he does not know how to wait.' "Pust", "let him", came up a moment ago, about the same critic: "pust snachala sdelaet normalny zakaz". "Umeet" is "knows how to". Barinov dares the critic to go.
+- 'You are risking our restaurant's reputation.' In Russian you risk "with" something, so "reputatsiya" becomes "reputatsiey". "Nashego restorana" is "of our restaurant". This is Vika's real fear.
+- 'Even if he were three times a critic!' "Bud on", "be he", is a way to say "even if he were". "Trizhdy", "three times", is one word. Barinov exaggerates, and it is part of the charm.
+- 'I serve all guests in turn.' "Podayu" is "I serve". "Vsem gostyam", "to all guests", has the "to" ending on both words. "Po ocheredi", "in turn", is the phrase from his "pust zhdyot sup po ocheredi".
+- 'In my kitchen everyone is equal!' "Ravny" is the plural short form of "equal", the root of "vsyo ravno". "U menya na kukhne" is "at me in the kitchen", "in my kitchen". Barinov ends the argument on a principle.

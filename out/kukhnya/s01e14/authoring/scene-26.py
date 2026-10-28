@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "The evening ends. Max shares a final thought about responsibility. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
-OPENER = "Let's go through it line by line. Max narrates the closing montage."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "And so another chaotic day at Claude Monet comes to an end. Next time you watch the episode, listen for the Russian expressions for 'responsibility' and 'strange' — you will catch every word right away. See you next time!"
+INTRO = "The evening is over, and Max has some thoughts about responsibility. Barinov's conclusion is much more practical."
+OPENER = 'Slowly, from the thought to the toast.'
+TRANSITION = 'And the last scene, once more in full.'
+OUTRO = "That's the end of the episode. Max has his moral, Barinov has his promise, and the glasses are about to be filled. See you back in the kitchen."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Ответственность — странная штука.', 'Responsibility is a strange thing.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Наливай!', 'Pour!', [], ''),
 ]
 WALK = [
-    (0, None, "'Responsibility is a strange thing.' Max reflects on the nature of duty. He calls responsibility a very strange thing."),
-    (1, None, "'On the one hand, we are afraid of it.' He explains the common fear associated with it. Max notes that on the one hand, people are afraid of it."),
-    (2, None, "'And on the other hand...' Max introduces the opposing view. He transitions to the other hand of his argument."),
-    (3, None, "'It is what earns us respect.' He explains the positive side of taking charge. Max says it is exactly how we earn respect."),
-    (4, None, "'And brings us closer together.' Max highlights the bonding power of shared challenges. He notes it brings people closer together."),
-    (5, None, "'When we act irresponsibly...' He points out the value of making mistakes. Max mentions that acting irresponsibly has a purpose."),
-    (6, None, "'We draw the right conclusions.' Max concludes his philosophical thought. He says our mistakes help us draw the right conclusions."),
-    (7, None, "'That's it, I won't drink at work anymore.' Chef Barinov makes a grand declaration. He swears he will never drink at work again."),
-    (8, None, "'I've decided.' He insists he has made a firm choice. Barinov says he has finally decided for good."),
-    (9, None, "'I definitely won't drink.' Barinov repeats his promise for emphasis. He firmly states he definitely will not drink."),
-    (10, None, "'But we should celebrate that.' He immediately finds an excuse to break his new rule. Barinov says they need to celebrate his decision."),
-    (11, None, "'Pour!' Barinov gives a joyful command to start the party. He enthusiastically yells to pour the drinks."),
+    (0, None, "'Responsibility is a strange thing.' 'Otvetstvennost' grows from otvet, 'answer', so it's 'answerability', like otvechaet za in the office. 'Shtuka' is a casual word for 'thing'."),
+    (1, None, "'On the one hand, we are afraid of it.' S odnoy storony is literally 'from one side'. 'Boimsya' ends in 'sya'; the verb never appears without it."),
+    (2, None, "'And on the other hand...' S drugoy storony, 'from the other side', completes the pair."),
+    (3, None, "'It is what earns us respect.' 'Blagodarya ey' is 'thanks to it', from blagodarit, to thank. 'Zavoyovyvaem' is literally 'we conquer', the verb you'd use for winning a war."),
+    (4, None, "'And brings us closer together.' Drug k drugu, 'friend to friend', is the fixed way to say 'each other'. 'Blizhe' is 'closer'."),
+    (5, None, "'When we act irresponsibly...' 'Bezotvetstvennye' is bez, 'without', plus the responsibility word. 'Sovershaya' means 'while committing', a form that ends in 'ya'."),
+    (6, None, "'We draw the right conclusions.' Russians 'make' conclusions, delat vyvody, where English draws them. 'Pravilnye', 'right', has the plural ending to match."),
+    (7, None, "'That's it, I won't drink at work anymore.' 'Vsyo', 'all', closes the topic. 'Bolshe ne' is 'no more', and na rabote is 'at work', with an 'e' after na."),
+    (8, None, "'I've decided.' 'Reshil' is a man's past form, a done deal. A woman would say reshila."),
+    (9, None, "'I definitely won't drink.' 'Tochno' is 'exactly', and here it means 'definitely'. Ne pyu is present, but it works as a promise for the future."),
+    (10, None, "'But we should celebrate that.' Nado otmetit is literally 'it's needed to mark it', the usual way to say 'let's celebrate'."),
+    (11, None, "'Pour!' 'Nalivay' is the ty command from nalit, the same verb as nalyot, Nastya's 'she will pour'. It's what you say to whoever has the bottle."),
 ]

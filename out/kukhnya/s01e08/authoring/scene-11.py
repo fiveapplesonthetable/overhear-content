@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Acting as guest head chef for the day, Elena Sokolova observes fish specialist Fedya at his cooking station. She surprises the defensive line cook by offering expert praise for his frying technique, comparing his craft to the legendary Paul Bocuse in Lyon. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this flattering kitchen exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Charmed by Elena's generous compliments, Fedya happily redoubles his efforts at the fish station. See you next time!"
+INTRO = "Elena is running Barinov's kitchen at Claude Monet for the day. She stops beside Fedya, one of the cooks, and praises the way he fries fish. Fedya is not used to compliments. It's in Russian first."
+OPENER = 'Slowly now. Each compliment from Elena gets a suspicious answer from Fedya, until he gives in.'
+TRANSITION = 'Now the whole conversation again, in one go.'
+OUTRO = "Fedya's line mne nikogda ne govorili takikh slov, 'nobody ever told me such words', is a good way to accept a compliment. And s pervogo vzglyada, 'at first sight', works for talent and for love. See you next time."
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('elena', 'Федя, скажите, вы случайно учились во Франции?', 'Fedya, tell me, did you by chance study in France?', [(125, 'Федя, вы учились во Франции')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Обещаю сделать самое вкусное блюдо сегодня!', 'I promise to make the most delicious dish today!', [], ''),
 ]
 WALK = [
-    (0, None, "'Fedya, tell me, did you by any chance study in France?' Elena begins with an inquiry about Fedya's culinary training."),
-    (1, None, "'I have nothing better to do than to study there!' Fedya dismisses the idea with gruff defensive skepticism."),
-    (2, None, "'You have simply stunning fish searing technique.' Elena praises his frying skills with genuine professional admiration."),
-    (3, None, "'I simply fry fish on a hot pan.' Fedya downplays his technique as basic everyday kitchen routine."),
-    (4, None, "'Such searing is only done in Lyon at Bocuse's.' Elena compares his crust to elite French haute cuisine."),
-    (5, None, "'Are you seriously comparing me with a French master?' Fedya is visibly touched by the flattering comparison."),
-    (6, None, "'Absolutely seriously, you have a rare natural gift.' Elena reaffirms that his talent comes straight from nature."),
-    (7, None, "'No one has ever spoken such words to me before.' Fedya confesses that Barinov rarely offers such gentle encouragement."),
-    (8, None, "'Real talent is always visible at first sight.' Elena emphasizes her respect for dedicated craftsmanship."),
-    (9, None, "'Thank you very much for such a high praise, chef.' Fedya warmly expresses sincere gratitude to the visiting chef."),
-    (10, None, "'Keep cooking, the guests will be in complete delight.' Elena urges him to keep up the stellar standard."),
-    (11, None, "'I promise to make the most delicious dish today!' Fedya returns to his station with newfound professional pride."),
+    (0, None, "'Fedya, tell me, did you by chance study in France?' Elena says skazhite, the polite 'tell', much like 'tell me' in English. Putting sluchayno, 'by chance', in the question softens it, like 'did you happen to'."),
+    (1, None, "'Like I had nothing better to do than study there!' Fedya's delat mne bolshe nechego, literally 'to do for me more nothing', is a sarcastic 'as if I had nothing better to do'. And uchitsya, 'to study', always carries its -sya."),
+    (2, None, "'You have simply amazing technique for frying fish.' Cooks call searing obzharka, from obzharit, 'to fry on all sides'. And ryby, 'of fish', is ryba with the 'of' ending."),
+    (3, None, "'I simply fry fish on a hot pan.' For frying, Russian has zharit, so 'I fry' is zharyu. On a hot pan is na goryachey skovorode, with the location endings -ey and -e."),
+    (4, None, "'They only do such searing in Lyon at Bocuse's.' To say 'at someone's place', Russian uses u plus the person, the way u menya can mean 'at my place'. With delayut, 'they do', and no subject, it means 'it is done'."),
+    (5, None, "'Are you seriously comparing me to a French master?' After sravnivat, 'to compare', comes s, 'with', and the -im, -om endings: s frantsuzskim masterom. Elena repeats his seryozno, 'seriously', in her answer."),
+    (6, None, "'Absolutely seriously, you have a rare natural gift.' Like English 'gift', dar means a talent, and comes from darit, 'to give a present'. The word prirodnyy, 'natural', is built on priroda, 'nature'."),
+    (7, None, "'Nobody ever told me such words before.' With no subject, mne ne govorili, literally 'to me they didn't say', means 'nobody told me'. After ne, the object switches to the 'of' form: takikh slov."),
+    (8, None, "'True talent is always visible at first sight.' The short form viden, 'visible', would be vidna with a feminine word. The set phrase s pervogo vzglyada, literally 'from the first look', means 'at first sight'."),
+    (9, None, "'Thank you very much for such high praise, Chef.' A vysokaya otsenka is literally a high mark, as at school, and here it means high praise. After za, it becomes takuyu vysokuyu otsenku."),
+    (10, None, "'Continue cooking, the guests will be in complete delight.' Elena's prodolzhayte, 'carry on', is polite, and the activity follows it: prodolzhayte gotovit. To be thrilled is to be v polnom vostorge, 'in complete delight'."),
+    (11, None, "'I promise to make the most delicious dish today!' Fedya's obeshchayu, 'I promise', takes the action straight after it: obeshchayu sdelat. For 'the most', Russian puts samyy in front, here samoye vkusnoye to match blyudo."),
 ]

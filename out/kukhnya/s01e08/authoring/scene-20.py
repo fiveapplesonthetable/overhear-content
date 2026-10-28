@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Returning to the living room with hot tea, the owner catches Max and Vika looking like a devoted, affectionate couple. Convinced that her beloved dog Hector will be in loving hands, she happily agrees to let them take him home. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the domestic vocabulary, expressions of pet care, and lighthearted flirtation."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Hector successfully adopted, Max and Vika head home together, sharing a playful bond forged through mutual deception. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to see' and 'together' — you will catch every word right away. See you next time!"
+INTRO = "We're still in the stranger's flat with Max and Vika. The owner has come back with the tea, and the two of them now have to play a happy engaged couple well enough to win Hector the dog. Here it is in Russian first."
+OPENER = "Let's go through the performance. Every line is meant for the owner's ears."
+TRANSITION = "And now the whole act, start to finish."
+OUTRO = "Notice how much of this is about a home: warm, quiet, a soft couch, a park nearby. Those words work just as well for describing your own place. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вот видите, мы идеальная и дружная пара.', 'You see, we are an ideal and harmonious couple.', [(235, 'и чаек')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Теперь наша жизнь станет намного лучше вместе.', 'Now our life will become much better together.', [(240, 'новый дом')], ''),
 ]
 WALK = [
-    (0, None, "'You see, we are an ideal and harmonious couple.' Max lays on the charm, presenting them as a perfectly harmonious household."),
-    (1, None, "'We love animals very much and take care of them.' Vika plays along, confirming their shared dedication to giving pets a wonderful life."),
-    (2, None, "'In our good apartment it is always warm and peaceful.' He casually drops details about their supposedly comfortable and stable living situation."),
-    (3, None, "'Hector will be able to walk in the beautiful park every day.' Vika adds a picturesque image of daily strolls to win over the sentimental owner."),
-    (4, None, "'And sleep on the soft couch by the bed.' Max throws in a cozy detail about where the dog will sleep to seal the deal."),
-    (5, None, "'The owner is very glad about our kind words.' Vika notices that their combined performance is working flawlessly."),
-    (6, None, "'She sees how much we suit each other.' He whispers that the owner is completely buying their soulmate routine."),
-    (7, None, "'Careful, Max, this is just our clever game.' Vika warns him not to get carried away with his own fictional romance."),
-    (8, None, "'The main thing is that the dog finally found its home.' Max brushes off the awkwardness, thrilled that their mission was a success."),
-    (9, None, "'I am sincerely happy to take this good dog.' She drops the act for a moment to express genuine joy about adopting the animal."),
-    (10, None, "'Let's go quickly, Hector is waiting for us by the door.' Max urges a swift exit before their web of lies starts to unravel."),
-    (11, None, "'Now our life will become much better together.' Vika delivers one last convincingly sweet line for the owner's benefit."),
+    (0, None, "'You see, we are an ideal and harmonious couple.' Max says \"vot vidite\" with the polite \"vidite\", because he is talking to the owner. And \"druzhnaya\", harmonious, comes from \"drug\", friend: a couple that gets on."),
+    (1, None, "'We love animals very much and take care of them.' After \"lyubim\", we love, \"zhivotnye\" becomes \"zhivotnykh\": loved living things take that ending. And 'them' after \"o\", about, is \"o nikh\"."),
+    (2, None, "'In our good apartment it is always warm and peaceful.' After \"v\", in, the flat takes the -e ending: \"v nashey khoroshey kvartire\". Then \"teplo i spokoyno\" needs no 'it is': Russian states the feeling of a place on its own."),
+    (3, None, "'Hector will be able to walk in the beautiful park every day.' Vika's \"smozhet\", will be able, is the future of 'can'. In the park is \"v krasivom parke\", with -om and -e after \"v\"."),
+    (4, None, "'And sleep on the soft couch by the bed.' On the couch is \"na myagkom divane\", a place, so \"divan\" takes -e. And \"vozle\", by or next to, turns \"krovat\", bed, into \"krovati\"."),
+    (5, None, "'The owner is very glad about our kind words.' You are glad 'to' something in Russian, so with \"rada\" the words become \"nashim dobrym slovam\". The -a on \"rada\" is there because the owner is a woman."),
+    (6, None, "'She sees how much we suit each other.' To suit or fit is \"podkhodit\", from \"pod\", up to, and \"khodit\", to go. And \"drug drugu\", each other, is literally 'friend to friend'."),
+    (7, None, "'Careful, Max, this is just our clever game.' You'll see \"ostorozhno\", careful, on Russian warning signs. Vika's \"khitraya\" is closer to 'sly' or 'cunning': the fox in Russian fairy tales is \"khitraya\"."),
+    (8, None, "'The main thing is that the dog finally found its home.' Lots of Russian sentences open with \"glavnoe, chto\", 'the main thing is that'. And \"svoy dom\", its home, uses \"svoy\" because the home belongs to the dog."),
+    (9, None, "'I am sincerely happy to take this good dog.' Vika's \"schastliva\" has the -a of a woman speaking; Max would say \"schastliv\". The dog, \"pyos\", loses its o when it changes: \"etogo dobrogo psa\"."),
+    (10, None, "'Let's go quickly, Hector is waiting for us by the door.' Here \"poydyom\" is 'let's go', and \"skoree\", quicker, hurries it along. By the door is \"u dveri\", where \"u\", at, gives \"dver\" an -i."),
+    (11, None, "'Now our life will become much better together.' Vika's \"stanet\", will become, speaks about what comes next. For 'much better' Russian says \"namnogo luchshe\", literally 'by a lot better'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = 'At the bar counter of Claude Monet, Max has made a mess while attempting to brew coffee. Waitress Sasha arrives, surveys the spilled milk, and orders him away from the machine. Listen to their playful conversation in Russian first, and then we will review it in English.'
-OPENER = "Let's review this encounter at the bar line by line."
+INTRO = "Max's bartending career has not gone well. There is spilled milk all over the counter, and Sasha, a waitress, arrives and is not impressed. Here is the exchange in Russian first."
+OPENER = 'Back to the spilled milk.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Relieved of his bartending duties, Max heads back to the kitchen, leaving coffee preparation to the professionals. See you next time!'
+OUTRO = 'Max has been sent back to the kitchen, and the coffee machine is safe at last. You\'ve learned a good Russian jab: "tozhe mne", "some ... you are".'
 CLOSING = ('sasha', 'Пока!')
 STORY = [
     ('sasha', 'Что ты тут вообще делаешь?', 'What are you even doing here?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Уже ухожу, шеф бара!', 'Leaving already, bar boss!', [], ''),
 ]
 WALK = [
-    (0, None, "'What are you even doing here?' Sasha asks Max with deep skepticism as she enters the bar area."),
-    (1, None, "'I am just brewing coffee for the guests.' Max defends his unauthorized attempt to operate the coffee machine."),
-    (2, None, "'You spilled milk all over the counter!' Sasha points out the messy puddle on the wooden bar surface."),
-    (3, None, "'I wanted to show a neat trick.' Max explains his failed bottle routine with a guilty smile."),
-    (4, None, "'Some bartender you are!' Sasha mocks his nonexistent bartending credentials."),
-    (5, None, "'Every master makes mistakes.' Max offers a humorous justification for the little accident."),
-    (6, None, "'Get lost, go on, I will do everything myself.' Sasha takes over the coffee machine to serve the patrons."),
-    (7, None, "'All right, I had better go to the kitchen.' Max recognizes that his bartending career has come to an end."),
-    (8, None, "'And never touch the coffee machine again!' Sasha firmly establishes the boundaries of the restaurant floor."),
-    (9, None, "'The kitchen is definitely closer to my heart than this bar.' Max finds solace in his true culinary calling."),
-    (10, None, "'Then go help the cooks.' Sasha sends him back where he belongs before Chef notices his absence."),
-    (11, None, "'Leaving already, bar boss!' Max departs with a playful salute before retreating to the kitchen."),
+    (0, None, '\'What are you even doing here?\' "Voobshche" adds "even" or "at all" and gives the question an edge. "Tut" is the casual "here".'),
+    (1, None, '\'I am just brewing coffee for the guests.\' "Varyu" is the same boiling verb as "vari kofe" in the last scene. After "dlya", for, "gosti" becomes "gostey".'),
+    (2, None, '\'You spilled milk all over the counter!\' You can hear the pieces in "razlil": "raz-", apart, and "lil", poured. So the milk went everywhere.'),
+    (3, None, '\'I wanted to show a neat trick.\' "Khotel pokazat\'" is "wanted to show", two verbs side by side. "Fokus" is a trick, as in a magic trick.'),
+    (4, None, '\'Some bartender you are!\' "Tozhe mne" in front of a noun is Russian for "some ... you are!". It\'s literally "also to me", and you can put almost any noun after it.'),
+    (5, None, '\'Every master makes mistakes.\' Russian puts it as "at every master there happen mistakes". "Byvayut" means "happen from time to time", and "u kazhdogo" is "at each".'),
+    (6, None, '\'Get lost, go on, I will do everything myself.\' "Provalivay" is a rude "scram", from "provalit\'sya", to fall through. "Sama", "myself", ends in -a because Sasha is a woman.'),
+    (7, None, '\'All right, I had better go to the kitchen.\' "Ya luchshe poydu" is "I better will go", the same "luchshe" Max used to turn down a seat.'),
+    (8, None, '\'And never touch the coffee machine again!\' "Bol\'she nikogda ne" is "more never not": "nikogda" and "ne" both say no, and Russian is happy with that. "Kofemashina" is "coffee" and "machine" stuck together.'),
+    (9, None, '\'The kitchen is definitely closer to my heart than this bar.\' "Mne blizhe" is "to me closer". "Chem" is "than", and "tochno" is "definitely".'),
+    (10, None, '\'Then go help the cooks.\' "Vot i idi" is "well, go then". "Povaram", "to the cooks", has the "-am" ending that means "to" for a group.'),
+    (11, None, '\'Leaving already, bar boss!\' "Uzhe ukhozhu" is "already I\'m leaving". "Shef bara" is "chef of the bar": "bar" adds an -a for "of".'),
 ]

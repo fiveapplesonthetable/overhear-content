@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the corridor outside the bustling kitchen, Chef Viktor Petrovich overhears Max speaking about Victoria. Stunned by what he hears, the head chef immediately grabs the bewildered young cook and marches him into his private office for an urgent confrontation. Let us listen to their tense exchange in Russian first.'
-OPENER = 'Now let us examine the dialogue between Chef Viktor and Max line by line.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the office door firmly shut, Viktor Petrovich prepares to give Max a stern lecture on family responsibilities and the chaotic consequences of his actions. Next time you watch the episode, listen for the Russian expressions for 'big' and 'carefully' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov has heard something, and he leads Max away to his office for a talk. Max is nervous, and the chef sounds severe. Have a listen first.'
+OPENER = "Let's slow it down."
+TRANSITION = "Now let's hear it once more, start to finish."
+OUTRO = "The door is closed, and Max is sitting down. The chef's lecture is about to begin. Enjoy the rest of the episode."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Пойдём со мной в мой кабинет.', 'Come with me into my office.', [(188, 'пойдем со мной')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Теперь твоя жизнь сильно изменится.', 'Now your life will change greatly.', [], ''),
 ]
 WALK = [
-    (0, None, "'Come with me into my office.' Barinov calmly draws this thought through linking 'come' and 'into' and 'office'."),
-    (1, None, "'Chef, where are we going now?' Max clearly builds the idea by connecting 'chef' and 'we' and 'now'."),
-    (2, None, "'We need a very serious conversation.' Barinov clearly shares such image through merging 'we' with 'very' and 'conversation'."),
-    (3, None, "'Did you hear everything in the kitchen?' Max calmly forms such thought by combining 'did' and 'hear' plus 'kitchen'."),
-    (4, None, "'I heard every word of yours.' Barinov plainly brings that meaning through grouping 'i' and 'every' plus 'yours'."),
-    (5, None, "'I myself do not understand anything.' Max simply draws some message through fusing 'i' and 'not' plus 'anything'."),
-    (6, None, "'You caused a real big scandal.' Barinov softly brings some picture by linking 'you' with 'real' plus 'scandal'."),
-    (7, None, "'I did not want to offend anyone.' Max truly brings that image through combining 'i' and 'want' and 'anyone'."),
-    (8, None, "'Go into the room and close the door.' Leading him into the office, Viktor tells him to step inside and shut the door."),
-    (9, None, "'Good, I am already closing the door.' Max boldly casts the thought through connecting 'good' with 'already' as well as 'door'."),
-    (10, None, "'Sit on a chair and listen to me.' Barinov clearly gives that meaning through combining 'sit' with 'and' and 'me'."),
-    (11, None, "'I am listening to you attentively, chef.' Max simply shows such meaning by linking 'i' and 'you' plus 'chef'."),
-    (12, None, "'Now your life will change greatly.' Barinov neatly makes the concept through merging 'now' with 'will' plus 'greatly'."),
+    (0, None, '\'Come with me into my office.\' "Poydyom" is "let\'s go", the word in Tanya\'s "poydyom, ya bystro s ney poproshchayus". "So mnoy" is "with me": "s" becomes "so" before "mnoy". "Kabinet" is an office.'),
+    (1, None, '\'Chef, where are we going now?\' "Kuda" is "where to", the question for direction. "Idyom" is "we\'re going", on foot. "Seychas" is "now". Max sounds worried.'),
+    (2, None, '\'We need a very serious conversation.\' "Nam nuzhen", "to us is needed", is "we need". It\'s "nuzhen" because "razgovor", "conversation", is masculine. "Razgovor" is built on "govorit", "to talk".'),
+    (3, None, '\'Did you hear everything in the kitchen?\' "Slyshali" ends in -li because Max uses the polite "vy", even for one person. "Vsyo" is "everything", and "na kukhne" is "in the kitchen".'),
+    (4, None, '\'I heard every word of yours.\' Now it\'s "slyshal", with -l for Barinov. "Kazhdoe tvoyo slovo" is "every your word": both little words take -o to match "slovo". He sounds pleased and a bit menacing.'),
+    (5, None, '\'I myself do not understand anything.\' "Ya sam" is "I myself". "Nichego ne ponimayu" is "I don\'t understand anything", with two negatives, "nichego" and "ne". Max wants sympathy.'),
+    (6, None, '\'You caused a real big scandal.\' "Ustroil", literally "arranged", is how you say "caused" or "made" for a scene. "Skandal" is borrowed. "Nastoyashchiy" is "real".'),
+    (7, None, '\'I did not want to offend anyone.\' "Obidet", "to offend", is the family of Timur\'s "obizhaesh". "Nikogo" is "nobody", and "ne khotel" is "didn\'t want": two negatives again.'),
+    (8, None, '\'Go into the room and close the door.\' "Zakhodi" is "come in", with za- for going into a place. "Zakroy dver" is "close the door". "V komnatu" is "into the room": "komnata" becomes "komnatu".'),
+    (9, None, '\'Good, I am already closing the door.\' "Zakryvayu", "I\'m closing", is the in-progress form, while "zakroy" was the one-time order. Russian keeps the two forms apart. "Uzhe" is "already".'),
+    (10, None, '\'Sit on a chair and listen to me.\' "Syad" is "sit down", the same verb as Vika\'s "sadis" to Alisa. "Na stul" is "onto a chair". "Slushay menya" is "listen to me".'),
+    (11, None, '\'I am listening to you attentively, chef.\' "Ya vnimatelno slushayu vas" is the phrase Barinov himself used earlier, "ya vas vnimatelno slushayu". "Vnimatelno" is "attentively". Max uses the polite "vas".'),
+    (12, None, '\'Now your life will change greatly.\' "Izmenitsya" is "will change", with -sya on the end. "Zhizn", "life", is the family of "zhiv", "alive". "Silno" is "greatly".'),
 ]

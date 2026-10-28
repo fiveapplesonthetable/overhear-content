@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Inside the dining room of restaurant Claude Monet, owner Dmitry Nagiyev confronts head chef Viktor Barinov. Warning Viktor that rival restaurateurs are arriving for dinner tonight, Dmitry demands an extraordinary menu to prove their culinary superiority. Let's listen in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace vocabulary and expressions of confidence."
+INTRO = "In the dining room, the owner, Nagiyev, has a worry for his chef. Rival restaurant people are coming to dinner tonight, and he needs Barinov to impress them. Barinov, as ever, thinks it's easy. Here's the talk in Russian first."
+OPENER = "Now let's pick through it."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor Barinov assures Dmitry Nagiyev that Claude Monet will impress the visiting competitors tonight. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'author's' — you will catch every word right away. See you next time!"
+OUTRO = 'The owner is nervous, the chef is sure of himself, and both of them are being a bit unreasonable. You\'ve heard how Russians say "I\'ll fire you", and how a chef keeps his word.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('nagiyev', 'Виктор, нам нужно срочно поговорить о работе.', 'Viktor, we need to urgently talk about work.', [(89, 'тебе пора завязывать')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Не волнуйся, шеф всегда держит своё слово.', 'Do not worry, the chef always keeps his word.', [(91, 'Будет наоборот')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor, we need to urgently talk about work.' Nagiyev initiates a serious conversation, setting a tone of immediate business urgency for his employee."),
-    (1, None, "'Dima, the restaurant is full and all guests are happy.' Barinov defends his current performance by gesturing at the bustling and satisfied dining room."),
-    (2, None, "'Tonight I invited competitors over to our place.' Dropping a bombshell, the owner reveals his provocative guest list for the evening service."),
-    (3, None, "'Why are you inviting these strange people?' The head chef reacts with confusion and annoyance at the prospect of feeding industry rivals."),
-    (4, None, "'Our neighbor is opening a new restaurant next door.' Explaining the tactical move, the celebrity host mentions the impending threat of a nearby establishment."),
-    (5, None, "'We will prepare the very best dish for them.' Accepting the challenge, the culinary master promises to deliver a show-stopping meal for them."),
-    (6, None, "'They brought a new chef straight from India.' Raising the stakes, the businessman shares a detail about the exotic talent hired by the opposition."),
-    (7, None, "'They would have done better finding a cook from Tajikistan.' A dismissive joke is cracked to belittle the culinary origins of the newly imported competition."),
-    (8, None, "'You must greatly surprise our guests.' The boss sets an incredibly high bar, demanding an unforgettable gastronomic experience for the visitors."),
-    (9, None, "'My signature cuisine will amaze absolutely everyone.' Overflowing with ego, the master cook guarantees his unique creations will leave everyone completely stunned."),
-    (10, None, "'If you make a mistake, I will fire you immediately.' A ruthless ultimatum is delivered, making it clear that failure tonight means instant termination."),
-    (11, None, "'Do not worry, the chef always keeps his word.' Confidently brushing off the threat, the head cook reassures his boss of his flawless track record."),
+    (0, None, '\'Viktor, we need to urgently talk about work.\' "Nam nuzhno" is "to us needed", the same pattern as "mne nuzhna". "Pogovorit\'" is "to have a talk", and "o rabote" is "about work", with -e after "o".'),
+    (1, None, '\'Dima, the restaurant is full and all guests are happy.\' That name is a short, friendly form of Dmitry, which Barinov uses with his boss. "Polon" is "full", and "dovol\'ny" is "satisfied", plural in -y.'),
+    (2, None, '\'Tonight I invited competitors over to our place.\' "Segodnya vecherom" is "this evening", with "vecherom" taking -om, as parts of the day often do. "Priglasil" is a one-time "invited", and "konkurenty" is borrowed.'),
+    (3, None, '\'Why are you inviting these strange people?\' "Zachem" is "what for", a different question from "pochemu", which asks the reason. "Etikh strannykh lyudey" is plural. "Lyudi" is the irregular word for "people".'),
+    (4, None, '\'Our neighbor is opening a new restaurant next door.\' "Sosed" is neighbour, and "za stenoy" is literally "behind the wall", Russian for "next door". "Otkryvayet" is "opens".'),
+    (5, None, '\'We will prepare the very best dish for them.\' "Prigotovim" is "we will prepare", one word. "Dlya nikh" is "for them", and Russian puts an "n" on "them" after little words like "dlya".'),
+    (6, None, '\'They brought a new chef straight from India.\' "Priveli" is "brought", but for a person, by leading. For a thing it would be "prinesli". "Shef-povar" is "chef" and "cook" stuck together.'),
+    (7, None, '\'They would have done better finding a cook from Tajikistan.\' "Luchshe" is "better", a cousin of "luchshiy", best. The small word "by" is what makes the sentence "would have".'),
+    (8, None, '\'You must greatly surprise our guests.\' "Dolzhen" is "must" in the form for a man; said to a woman it would be "dolzhna". "Udivit\'", "to surprise", shares a root with "udivitel\'nykh", "surprising", from the night scene.'),
+    (9, None, '\'My signature cuisine will amaze absolutely everyone.\' "Avtorskaya kukhnya" is "author\'s cuisine", a phrase for a chef\'s own style, as if the chef were a writer. "Porazit" is "will amaze".'),
+    (10, None, '\'If you make a mistake, I will fire you immediately.\' "Yesli" is "if". "Oshibyosh\'sya", "you make a mistake", is the verb behind "oshibka", a mistake. "Uvolyu" is "I will fire", one word.'),
+    (11, None, '\'Do not worry, the chef always keeps his word.\' "Ne volnuysya" is "don\'t worry", a command with "self". Barinov calls himself "shef" in the third person. "Derzhit slovo" is "holds the word", the same "hold" as "hold the menu".'),
 ]

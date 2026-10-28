@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Returning to Max's bedroom in a panic after bumping into Nastya, Victoria furiously rebukes him for exposing her presence to the staff. While Max tries to downplay her fears and urges her to hurry to the restaurant, Victoria insists that they leave the apartment separately. Let's listen to their confrontation in Russian."
-OPENER = "Let's see how Victoria vents her frustration and how Max attempts to calm her down."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to express anger over a ruined reputation, dismiss exaggerated fears, and plan a discreet exit in Russian. Listen for these lively dialogue patterns in future episodes. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to come back' — you will catch every word right away. See you next time!"
+INTRO = "Vika goes back into Max's room, flustered after bumping into Nastya. She is sure that her secret is out, and Max thinks she is overreacting. Listen to their talk in Russian before we go through it."
+OPENER = 'Line by line, at a calmer pace.'
+TRANSITION = 'Now it all again, from the top.'
+OUTRO = 'Max and Vika agree on one thing: she should leave first. Whether the staff are fooled is another matter. Back soon.'
 CLOSING = ('vika', 'Увидимся на кухне ресторана, Макс.')
 STORY = [
     ('max', 'Почему ты вернулась такая злая?', 'Why did you come back so angry?', [(253, 'А че мы такие злые?')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('max', 'Я согласен, иди первой, Вика.', 'I agree, you go first, Vika.', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya just saw me in here!' A frantic exclamation revealing sudden fear of discovery by a coworker."),
-    (1, None, "'Did you invite our whole restaurant here?' A hyperbolic accusation expressing frustration over lack of privacy."),
-    (2, None, "'My reputation at the restaurant will be ruined.' A dramatic expression of worry concerning professional standing."),
-    (3, None, "'We must leave the building separately.' A cautious instruction intended to prevent coworkers from suspecting a romance. Now, let's hear Victoria and Max settle their departure once more."),
+    (0, None, "'Why did you come back so angry?' 'Vernulas'' means 'came back': the woman's 'la' plus 's', a short 'sya'. 'Takaya zlaya' is 'so angry', and both end in 'aya'."),
+    (1, None, "'Nastya just saw me in here!' 'Tolko chto' means 'just now', and not 'only what'. 'Videla' has the 'a' of Nastya as a woman."),
+    (2, None, "'She simply lives in this apartment.' After 'in', 'kvartira' loses its final 'a' and picks up an 'e', so it's 'kvartire'."),
+    (3, None, "'Did you invite our whole restaurant here?' 'Ves nash restoran' is 'all our restaurant', and 'ves' matches the masculine 'restoran'. 'Priglasil', invited, ends in 'l' for Max."),
+    (4, None, "'In my opinion, you are exaggerating greatly now.' 'Po-moemu' is 'in my opinion', built like 'po-russki', in Russian. 'Preuvelichivaesh' grows from 'velik', great."),
+    (5, None, "'My reputation at the restaurant will be ruined.' 'Razrushena', ruined, ends in 'a' because 'reputatsiya' is feminine. 'Budet razrushena' is literally 'will be destroyed'."),
+    (6, None, "'Nastya is a kind girl and knows how to keep quiet.' 'Umeet' means 'knows how', so it's about a skill. 'Molchat' is 'to be silent'. Max is soothing."),
+    (7, None, "'Waiters always discuss the management's personal life.' 'Ofitsianty' is waiters, in the plural. 'Nachalstva' is the management as a body, and the ending 'a' shows 'of'."),
+    (8, None, "'No one will discuss you, calm down.' 'Ne stanet obsuzhdat' is literally 'will not start to discuss', a common way to say 'won't'. The calming order has a 'sya'."),
+    (9, None, "'I will never come here again.' Literally, 'more never not'. The triple negative is correct Russian. 'Pridu' is the on-foot kind of 'come'."),
+    (10, None, "'Perhaps it is already time for you to go to work.' 'Pozhaluy' means 'perhaps' or 'I suppose', and it softens a suggestion. 'Tebe pora' is literally 'to you time'."),
+    (11, None, "'We must leave the building separately.' 'Razdelno' comes from the verb 'to divide'. 'Iz doma' is 'out of the house', with 'a' after 'dom'."),
+    (12, None, "'I agree, you go first, Vika.' 'Soglasen' has a man's bare ending. 'Pervoy' has the 'oy' of a woman, since Vika goes first."),
 ]

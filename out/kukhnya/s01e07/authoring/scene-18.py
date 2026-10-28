@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Having been kicked out of his accommodation and desperately needing a place to sleep, Max tracks down the apartment of French pastry chef Louis. Before Max can even explain his predicament, the theatrical baker completely misinterprets the late-night visit as an unexpected declaration of romantic affection. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Max and Louis's hilarious doorstep encounter line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max's desperate search for a place to sleep leads to a comic misunderstanding and an empty hallway. Next time you watch the episode, listen for the Russian expressions for 'address' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = 'Late that evening, Max turns up at a flat with a suitcase and a bunch of flowers, expecting to find one of his colleagues there. The door is opened by Louis, the French pastry chef from Claude Monet, who jumps to a very wrong conclusion. Hear the doorstep scene in Russian.'
+OPENER = "Let's go back through it. Max is trying to ask for a bed, and Louis is hearing something else."
+TRANSITION = 'Now the doorstep scene all the way through.'
+OUTRO = "This scene has 'nowhere to spend the night' and 'it will all work out', two things that are good to know in any language. Louis hears something else, and so does the audience. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Привет, Луи, а где наш Феликс?', 'Hi, Louis, and where is our Felix?', [(343, 'Привет. А Фелик где?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Луи, открой дверь, подожди секунду!', 'Louis, open the door, wait a second!', [], ''),
 ]
 WALK = [
-    (0, None, "'Hi, Louis, and where is our Felix?' Max arrives at the doorway hoping to find his friend."),
-    (1, None, "'I do not know, he is probably at home.' The French pastry chef greets the unexpected evening visitor."),
-    (2, None, "'But how did you find out my address?' Louis is puzzled by how Max tracked down his private residence."),
-    (3, None, "'Louis, I just need help today.' The rookie cook tries to explain his desperate homeless situation."),
-    (4, None, "'Wait, Maxim, no, no need to continue!' Louis hastily waves his hands to cut off the conversation."),
-    (5, None, "'I have nowhere to spend this night.' Max clarifies that he is simply looking for a sofa to sleep on."),
-    (6, None, "'Nothing will work out between us.' The dramatic baker misinterprets the visit as a romantic overture."),
-    (7, None, "'My heart has long been occupied.' Louis politely turns down what he presumes to be a confession."),
-    (8, None, "'Louis, you misunderstood me completely!' Max desperately tries to correct the awkward misunderstanding."),
-    (9, None, "'Do not worry, everything will work out.' The pastry chef offers warm consolation with a sympathetic smile."),
-    (10, None, "'You will definitely find yourself someone else.' Louis reassures Max that true love awaits him elsewhere."),
-    (11, None, "'Everything will be great, ooh-la-la, bye!' The eccentric Frenchman bids farewell and closes the door firmly."),
-    (12, None, "'Louis, open the door, wait a second!' Max bangs on the wooden frame, left stranded in the hallway."),
+    (0, None, '\'Hi, Louis, and where is our Felix?\' "Nash Feliks", \'our Felix\', sounds warm, the way you\'d mention a colleague everyone knows. "Gde" asks where something is; \'where to\' would be kuda.'),
+    (1, None, '\'I do not know, he is probably at home.\' "Navernoye", \'probably\', is what you say when guessing. "Doma" means \'at home\', with no movement.'),
+    (2, None, '\'But how did you find out my address?\' "Uznal", \'found out\', is from uznat\', which also means \'to recognise\'. "Kak", \'how\', opens the question.'),
+    (3, None, '\'Louis, I just need help today.\' "Pomoshch\'", help, is feminine, so \'needed\' is nuzhna. "Mne nuzhna", \'to me needed\', is the usual \'I need\'.'),
+    (4, None, "'Wait, Maxim, no, no need to continue!' Louis uses Max's full name to sound dramatic. Ne nado, 'no need', plus an infinitive means 'don't': ne nado prodolzhat'."),
+    (5, None, '\'I have nowhere to spend this night.\' "Mne negde", \'I have nowhere\', is what Max said about Moscow too. "Provesti", to spend time, is literally \'to lead through\'.'),
+    (6, None, '\'Nothing will work out between us.\' U nas s toboy, \'at us with you\', means \'between you and me\'. "Nichego ne poluchitsya" is the standard way to turn someone down.'),
+    (7, None, '\'My heart has long been occupied.\' "Zanyato", \'occupied\', is also said of a taken seat or a busy phone line. It ends in -o to match serdtse, a neuter noun.'),
+    (8, None, '\'Louis, you misunderstood me completely!\' "Nepravil\'no", \'wrongly\', is ne plus pravil\'no, \'correctly\'. Ponyal ends in -l because Louis is a man.'),
+    (9, None, '\'Do not worry, everything will work out.\' "Vsyo obrazuyetsya", \'it\'ll all sort itself out\', is a stock phrase of comfort. Putting ty before ne perezhivay makes the command gentler.'),
+    (10, None, '\'You will definitely find yourself someone else.\' "Kogo-nibud\'", \'someone\', is kto in its object form plus -nibud\'. "Drugogo", \'else\', agrees with it.'),
+    (11, None, '\'Everything will be great, ooh-la-la, bye!\' "Ulya-lya" is Louis\'s French ooh-la-la dropped into Russian. Poka, \'bye\', doubles as the poka of \'while\' in the chef\'s \'learn while I\'m kind\'.'),
+    (12, None, '\'Louis, open the door, wait a second!\' "Otkroy", \'open\', and podozhdi, \'wait\', are both said to one person on ty terms. In podozhdi sekundu, sekunda takes the object ending -u.'),
 ]

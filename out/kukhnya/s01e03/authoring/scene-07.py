@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'judge': 'Судья'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "In the dining room of Claude Monet, Viktor Barinov personally brings a traditional dessert to an important guest. Bragging about his culinary stature, the Chef is horrified to discover that the woman is the exact judge who recently suspended his driving license. Let's listen to their confrontation in Russian first."
-OPENER = "Let's review this unexpected courtroom reunion in the dining room line by line."
+INTRO = "In the dining room, Chef Barinov brings a dessert to an important guest himself, boasting that he does whatever the guests ask. Then the guest tells him what she does for a living, and the chef goes pale. Here's the Russian first."
+OPENER = "Let's go back to the table."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Realizing he will not be getting his driver's license back anytime soon, Barinov slinks back to the kitchen. See you next time!"
+OUTRO = 'The judge is not about to give back his licence, and Barinov slinks back to the kitchen. Take "skazhite spasibo" with you: it\'s how Russians say "count yourself lucky".'
 CLOSING = ('judge', 'Пока!')
 STORY = [
     ('barinov', 'Вот десерт от нашего кондитера.', 'Here is dessert from our pastry chef.', [(167, 'от нашего кондитера')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('judge', 'Скажите спасибо, что срок всего год.', 'Say thank you that the suspension is only a year.', [(192, 'спасибо скажите, что вас только на год')], ''),
 ]
 WALK = [
-    (0, None, "'Here is dessert from our pastry chef.' Viktor Barinov politely presents the complimentary dish."),
-    (1, None, "'Thank you for changing the menu for me.' The guest expresses gratitude for accommodating her request."),
-    (2, None, "'I am the chef and I fulfill any orders.' Barinov proudly boasts of his culinary flexibility."),
-    (3, None, "'And what do you do, if it is not a secret?' Barinov casually inquires about her profession."),
-    (4, None, "'I work as a judge at the Tverskoy court.' The woman reveals her prestigious judicial position."),
-    (5, None, "'Whoa! And they suspended my license yesterday!' Barinov shares his recent driving misfortune."),
-    (6, None, "'What is your last name?' The judge asks for his identity with sudden legal curiosity."),
-    (7, None, "'My last name is Barinov. Viktor Barinov.' The chef introduces himself without anticipating the trap."),
-    (8, None, "'So it was I who issued that decision!' The judge recognizes the defendant from her morning docket."),
-    (9, None, "'Maybe we can fix everything?' Barinov immediately tries to negotiate an informal compromise."),
-    (10, None, "'No. You knocked down a traffic light on the road!' The judge sternly cites the egregious violation."),
-    (11, None, "'But I had a valid excuse.' Barinov attempts a futile defense of his reckless behavior."),
-    (12, None, "'Say thank you that the suspension is only a year.' The judge reminds him that the sentence could have been worse."),
+    (0, None, '\'Here is dessert from our pastry chef.\' "Ot nashego konditera" puts the "from" ending on both words, -ego and -a. A "konditer" makes cakes and pastries.'),
+    (1, None, '\'Thank you for changing the menu for me.\' "Spasibo, chto" is "thanks that", the frame for thanking someone for what they did. "Izmenili", changed, has the -li of the polite "vy".'),
+    (2, None, '\'I am the chef and I fulfill any orders.\' "Lyubyye", any, comes from "lyubit\'", to love, so it\'s "whichever you like". "Vypolnyayu zakazy" is "I fulfill orders".'),
+    (3, None, '\'And what do you do, if it is not a secret?\' "Kem vy rabotayete?" is "as whom do you work?", with "kto" changed to "kem". "Yesli ne sekret" softens a personal question.'),
+    (4, None, '\'I work as a judge at the Tverskoy court.\' "Sud\'ya" becomes "sud\'yoy" for "as a judge". "V Tverskom sude" is "in the Tverskoy court", with -om and -e for being in a place.'),
+    (5, None, '\'Whoa! And they suspended my license yesterday!\' A driving licence is "prava", rights, always plural. "Menya lishili prav" is "they deprived me of rights", with no one named as "they".'),
+    (6, None, '\'What is your last name?\' "Familiya" looks like "family", but it means only your surname. "Kak vasha familiya?" is "how your surname?".'),
+    (7, None, '\'My last name is Barinov. Viktor Barinov.\' Russian leaves out "is": "moya familiya Barinov". "Viktor" is his first name.'),
+    (8, None, '\'So it was I who issued that decision!\' "Vynesti resheniye", to carry out a decision, is how a court passes a ruling. "Eto ya", it\'s I, puts the weight on her.'),
+    (9, None, '\'Maybe we can fix everything?\' "Mozhet byt\'" is "may be", the full "maybe". "Ispravit\'", to fix, has "pravyy", right, at its core, so it means "set right".'),
+    (10, None, '\'No. You knocked down a traffic light on the road!\' "Svetofor" joins "svet", light, to a Greek root for "carrying". "Sbili" is "knocked down", and "na doroge" is "on the road".'),
+    (11, None, '\'But I had a valid excuse.\' "U menya bylo" is "at me there was", the past of "I have". "Uvazhitel\'noye", valid, shares a root with "uvazheniye", respect, and "opravdaniye" is "excuse".'),
+    (12, None, '\'Say thank you that the suspension is only a year.\' "Skazhite spasibo, chto" means "be grateful that". "Srok" is a fixed term, and "vsego god" is "in all a year".'),
 ]

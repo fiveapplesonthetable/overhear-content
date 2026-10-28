@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'master': 'Мастер', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "At the restaurant bar in Claude Monet, dining room manager Vika discovers an unfamiliar man tampering with the register. Infuriated that an unauthorized stranger is behind the counter without supervision, she angrily throws him out. Let's listen to their argument in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the imperative commands and expressions used in urgent situations."
+INTRO = "Back at the bar, Vika sees a man behind the counter fiddling with the cash register. From behind she takes him for Kostya, but it isn't: it's a stranger, and she is not pleased. Here's their argument in Russian first."
+OPENER = "Let's go through the confusion."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika ejects the suspicious repairman from behind the counter and summons Kostya to explain himself. Keep up the great work practicing fast-paced conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'bar' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika throws the repairman out and sends for the real Kostya. You\'ve learned how to say "get out of here" and "strictly forbidden".'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Костя, ты уже починил нашу кассу?', 'Kostya, have you already fixed our register?', [(179, 'ты сикибер починил')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Я хочу знать, кто пустил этого человека.', 'I want to know who let this person in.', [(184, 'зови Костю')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, have you already fixed our register?' Vika asks Kostya if the register is finally fixed."),
-    (1, None, "'No, I am still working on this register.' The repairman states he is still working on the machine."),
-    (2, None, "'What are you even doing behind our bar counter?' Vika demands to know what he is doing behind the bar counter."),
-    (3, None, "'I am simply calmly adjusting this complex system.' The repairman explains he is simply adjusting the complex system."),
-    (4, None, "'Leave here quickly, out of the bar!' Vika orders him to leave the bar quickly."),
-    (5, None, "'Woman, wait, I am a repair technician.' The repairman asks her to wait, clarifying his job."),
-    (6, None, "'I said to get out of here immediately!' Vika insists that he gets out immediately."),
-    (7, None, "'Why are you shouting so loudly at me?' The repairman wonders why she is shouting so loudly."),
-    (8, None, "'Outsiders are strictly forbidden to be here.' Vika explains that outsiders are strictly forbidden to be there."),
-    (9, None, "'Fine, calm down, I am already leaving here.' The repairman agrees to calm down and leave."),
-    (10, None, "'Waiter, quickly find bartender Kostya for me!' Vika tells the waiter to find bartender Kostya quickly."),
-    (11, None, "'I want to know who let this person in.' Vika wants to find out who let this person in."),
+    (0, None, '\'Kostya, have you already fixed our register?\' Vika says "Kostya" because she thinks it\'s him. "Pochinil", fixed, is the past for a man, and "nashu kassu", our till, ends in -u as the thing fixed.'),
+    (1, None, '\'No, I am still working on this register.\' "Rabotayu nad" is "I work over", since "nad" means "above". After "nad", "kassa" becomes "kassoy".'),
+    (2, None, '\'What are you even doing behind our bar counter?\' "Za" is "behind", and after it "barnaya stoyka" becomes "barnoy stoykoy". "Voobshche" sharpens the question.'),
+    (3, None, '\'I am simply calmly adjusting this complex system.\' "Spokoyno", calmly, comes from "pokoy", peace, the root of "spokoynoy nochi", good night. "Nastraivayu" is "I\'m tuning", as you\'d tune a radio.'),
+    (4, None, '\'Leave here quickly, out of the bar!\' "Von" is a rude "out!", and "iz bara" is "out of the bar". Vika piles them up, with "otsyuda", from here, as well.'),
+    (5, None, '\'Woman, wait, I am a repair technician.\' Calling someone "zhenshchina", woman, is common but blunt. "Master po remontu", "master in repair", is a repairman, and "podozhdite" is the polite "wait".'),
+    (6, None, '\'I said to get out of here immediately!\' "Skazala" ends in -a for Vika. "Nemedlenno", immediately, is "ne", not, plus "medlenno", slowly.'),
+    (7, None, '\'Why are you shouting so loudly at me?\' "Zachem" is "what for", a sharper "why". "Krichite na menya" is "shout on me", with the same "na" as "smotri na", look at.'),
+    (8, None, '\'Outsiders are strictly forbidden to be here.\' "Postoronniy", outsider, comes from "storona", side, so it means people from the side. "Strogo zapreshcheno", strictly forbidden, is what you see on signs.'),
+    (9, None, '\'Fine, calm down, I am already leaving here.\' "Uspokoytes\'", calm down, has the same "pokoy" as "spokoyno". "Ladno" is the Russian "OK, fine".'),
+    (10, None, '\'Waiter, quickly find bartender Kostya for me!\' "Naydi", find, is a friendly command. "Barmen Kostya" becomes "barmena Kostyu" because he\'s the one being found.'),
+    (11, None, '\'I want to know who let this person in.\' "Khochu znat\'" is "I want to know". "Pustil" is "let in", and "etot chelovek" becomes "etogo cheloveka" as the one let in.'),
 ]

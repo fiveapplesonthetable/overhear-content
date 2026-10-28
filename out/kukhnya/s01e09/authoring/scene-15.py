@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "Allergic red spots have indeed broken out across Alisa's face, driving Chef Barinov to write his humorous last will. While Barinov trembles in his office, Alisa wanders over to the pastry section where Max is admiring his latest cake. Examining Max's romantic dessert, the observant child casually drops a revelation that catches Max completely off guard. Let's listen to their sweet and surprising chat in Russian first."
-OPENER = "Let's break down this charming exchange line by line. Notice how childlike logic uncovers hidden romantic truths in conversational Russian."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Stunned by Alisa's innocent gossip, Max is left with a racing heart and a big smile. Fantastic job exploring emotional storytelling in conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'important' and 'tasty' — you will catch every word right away. See you next time!"
+INTRO = "Alisa has red spots on her face, and Barinov is writing his will. While he is in his office, Alisa goes to the pastry section, where Max is admiring a cake. She spots something about the cake that Max would rather she hadn't. Just listen, and see how much you pick up."
+OPENER = 'This time, with explanations.'
+TRANSITION = 'Once more, at the pace of a real conversation.'
+OUTRO = 'Max has just learned that Vika loves him, from a child, and he looks stunned. He was told by the least likely person. Back soon.'
 CLOSING = ('alisa', 'Пока!')
 STORY = [
     ('max', 'Алиса, что за красные пятна появились?', 'Alisa, what kind of red spots have appeared?', [(294, 'Ой, а что это у нее на лице')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Ого, вот это настоящая важная новость!', 'Wow, that is real important news!', [], ''),
 ]
 WALK = [
-    (0, None, "'Alisa, what kind of red spots have appeared?' When Alisa wanders back to the pastry counter, Max notices her cheeks and asks where those red spots came from."),
-    (1, None, "'I really cannot eat chocolate at all.' Alisa casually admits that she is actually allergic to chocolate."),
-    (2, None, "'Papa got scared and is writing his will!' Max jokes that her father is so terrified of her mom's reaction that he is writing his last will."),
-    (3, None, "'Wow, what a handsome sweet cake!' Spotting the dessert on Max's counter, Alisa gasps at what a pretty cake he made."),
-    (4, None, "'You like it? I made it myself.' Pleased, Max asks if she likes it and says he baked it himself."),
-    (5, None, "'Did you make it for Aunt Vika?' Guessing his crush, the perceptive girl asks if he made the cake for Aunt Vika."),
-    (6, None, "'Why do you think about Aunt Vika?' Caught off guard, Max asks why she immediately thought of Vika."),
-    (7, None, "'Papa always made tasty food for Mama.' Alisa explains her logic: her dad always cooked special treats for her mom."),
-    (8, None, "'And what is this supposed to mean at all?' Max asks what that has to do with him."),
-    (9, None, "'So Papa loves my Mama very much.' Alisa says cooking for someone means you love them very much."),
-    (10, None, "'But Vika and I are just friends.' Turning red, Max claims that he and Vika are just friends."),
-    (11, None, "'And Aunt Vika said that she loves you!' Alisa cheerfully lets slip that Aunt Vika told her she loves Max."),
-    (12, None, "'Wow, that is real important news!' Stunned and delighted, Max calls that a huge piece of news."),
+    (0, None, '\'Alisa, what kind of red spots have appeared?\' "Chto za", literally "what for", is how Russian asks "what kind of". "Krasny" is "red", and it once also meant "beautiful", which is how Red Square got its name. "Pyatna" are spots.'),
+    (1, None, '\'I really cannot eat chocolate at all.\' Alisa says "mne zhe sovsem nelzya", "to me after all completely not allowed". The "zhe" is the same little "you know" word from the last scene. She has heard the rule a hundred times.'),
+    (2, None, '\'Papa got scared and is writing his will!\' "Ispugalsya", "got scared", ends in -sya, the "himself" ending, as if fear happened to him. "Zaveshchanie" is a will, the legal one. Max says it with a grin.'),
+    (3, None, '\'Wow, what a handsome sweet cake!\' "Ukh ty" is a short, admiring "wow". "Krasivy" is "beautiful" or "handsome", a relative of the old "krasny". She isn\'t easily impressed, so this is real praise.'),
+    (4, None, '\'You like it? I made it myself.\' Russian doesn\'t say "do you like it". It says "nravitsya?", "is it pleasing?". "Sam" is "myself" for a man. He\'s proud, and he wants to hear it.'),
+    (5, None, '\'Did you make it for Aunt Vika?\' After "dlya", "for", both words change: "tyotya Vika" becomes "tyoti Viki". Alisa asks it as plain fact, and that is the problem.'),
+    (6, None, '\'Why do you think about Aunt Vika?\' After "pro", "about", the endings change again, to "tyotyu Viku". Max tries to sound casual, and he does not manage it. He answers a question with a question.'),
+    (7, None, '\'Papa always made tasty food for Mama.\' "Gotovil" is "cooked" with the man\'s -l. "Mame" is "to Mama", with no word for "for" needed. "Vkusnaya eda" is "tasty food". It\'s a sharp thing for a child to notice.'),
+    (8, None, '\'And what is this supposed to mean at all?\' "Dolzhno znachit" is "must mean": "dolzhno" is "must" or "supposed to". "Voobshche", "at all", is a filler Russians use when they\'re baffled.'),
+    (9, None, '\'So Papa loves my Mama very much.\' "Znachit" is literally "means", and Russians use it as "so" when they draw a conclusion. "Silno lyubit" is "strongly loves". Alisa works it out like a detective.'),
+    (10, None, '\'But Vika and I are just friends.\' Russian says "my s Vikoy", "we with Vika", for "Vika and I". "Druzya" is "friends", the plural of "drug". Max sounds a bit too quick.'),
+    (11, None, '\'And Aunt Vika said that she loves you!\' "Skazala" has the woman\'s -la, because Vika is the one who said it. "Lyubit tebya" is "loves you". Alisa passes it on straight from the source.'),
+    (12, None, '\'Wow, that is real important news!\' "Novost" is one piece of news, and Russian can count them: "novosti" is several. "Ogo" is another "wow", a surprised one. Max hasn\'t been so happy all day.'),
 ]

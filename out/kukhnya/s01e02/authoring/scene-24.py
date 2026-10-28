@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = 'In the elegant dining room of Claude Monet, panic erupts when an influential guest discovers a filleting knife baked inside his fish, threatening the restaurant with immediate disaster.'
-OPENER = "Let's explore the kitchen emergency and Max's brilliant storytelling."
+INTRO = "The knife has been hidden inside a fish, and now the fish has been served. A guest in the dining room has found it, and the chef rushes out to face the music. Max has a rescue plan, and it is a bold one. Here's the Russian first."
+OPENER = 'Now the dining-room drama.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Saved from disaster by quick thinking, Max earns grudging respect from the head chef. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'tasty' — you will catch every word right away. See you next time!"
+OUTRO = 'Max talks his way out of disaster, and the chef is, for once, almost grateful. Keep in mind "pozvol\'te", the polite "allow me".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'В зале гость нашёл нож в рыбе!', 'In the dining room a guest found a knife in the fish!', [(253, 'Там рыбий нож нашли.')], ''),
@@ -29,21 +29,21 @@ STORY = [
     ('barinov', 'Сейчас всё сделаем, приятного аппетита.', 'We will prepare everything right away, bon appetit.', [(277, 'Приятного аппетита.')], ''),
     ('barinov', 'Макс, пошли скорее на кухню.', "Max, let's head quickly to the kitchen.", [(276, 'Макс, пошли.')], ''),
     ('max', 'Шеф, вы назвали меня по имени!', 'Chef, you called me by my name!', [(278, 'Шеф, а вы меня по именем назвали.')], ''),
-    ('barinov', 'Огузок, без спроса не выходи в зал!', 'Runt, do not come out to the dining room without permission!', [(279, 'если ты еще раз без моего разрешения')], ''),
+    ('barinov', 'Огузок, без спроса не выходи в зал!', 'Oguzok, do not come out to the dining room without permission!', [(279, 'если ты еще раз без моего разрешения')], ''),
 ]
 WALK = [
-    (0, None, "'In the dining room a guest found a knife in the fish!' Barinov announces the catastrophic news that a diner has discovered the missing blade embedded in his meal."),
-    (1, None, "'Chef, we must urgently do something.' Max immediately recognizes the impending doom and urges the head chef to take swift, decisive action."),
-    (2, None, "'I will go out to the dining room myself.' Barinov bravely takes personal responsibility, deciding to face the furious patron head-on."),
-    (3, None, "'Will you explain to me what this is?' The outraged customer demands a rational explanation for the deadly weapon hiding inside his expensive entree."),
-    (4, None, "'Allow me to explain everything to the guest.' Max boldly interrupts, offering to handle the delicate situation with his own quick thinking."),
-    (5, None, "'Before you is a unique ancient recipe.' Max spins a wildly creative lie, framing the kitchen's massive blunder as a rare culinary masterpiece."),
-    (6, None, "'The Crusaders prepared fish right on their swords.' Max invents an elaborate historical myth about medieval warriors to justify the bizarre presentation."),
-    (7, None, "'Yes, this is indeed very delicious!' The wealthy diner completely falls for the tall tale, praising the incredible flavor of the dish."),
-    (8, None, "'This is true poetry of haute cuisine.' The gullible patron elevates the absurd mistake to the level of exquisite culinary art."),
-    (9, None, "'Bring me another fish just like this!' The satisfied customer enthusiastically demands a second serving of the supposedly historical delicacy."),
-    (10, None, "'We will prepare everything right away, bon appetit.' Barinov plays along smoothly, wishing the man a good meal while hiding his profound relief."),
-    (11, None, "'Max, let's head quickly to the kitchen.' Barinov aggressively ushers his quick-witted subordinate back behind closed doors before the illusion shatters."),
-    (12, None, "'Chef, you called me by my name!' Max beams with pride, thrilled that the formidable boss finally acknowledged him respectfully."),
-    (13, None, "'Runt, do not come out to the dining room without permission!' Barinov instantly reverts to his harsh persona, reminding the rookie of his lowly place in the hierarchy."),
+    (0, None, '\'In the dining room a guest found a knife in the fish!\' "Nashyol", found, is an irregular past of "nayti". "V zale" and "v rybe" both end in -e for "in".'),
+    (1, None, '\'Chef, we must urgently do something.\' "Nuzhno", necessary, does the job of "must". "Chto-to", something, is "chto" plus "-to", just like "kto-to".'),
+    (2, None, '\'I will go out to the dining room myself.\' "Ya sam poydu" is "I myself will go". "V zal", into the hall, keeps "zal" unchanged because he\'s heading there.'),
+    (3, None, '\'Will you explain to me what this is?\' "Vy ob\'yasnite" is a future, "you will explain", used as a stern request. "Chto eto takoye" is "what this such".'),
+    (4, None, '\'Allow me to explain everything to the guest.\' "Pozvol\'te", allow, is a formal command. "Gostyu", to the guest, takes -yu for "to".'),
+    (5, None, '\'Before you is a unique ancient recipe.\' "Pered vami" is "before you", and after "pered", "vy" becomes "vami". "Starinnyy", ancient, comes from "staryy", old.'),
+    (6, None, '\'The Crusaders prepared fish right on their swords.\' "Krestonostsy" are "cross-carriers", from "krest", cross, and "nosit\'", carry. "Na mechakh", on swords, has the plural -akh.'),
+    (7, None, '\'Yes, this is indeed very delicious!\' "Deystvitel\'no", indeed, comes from "deystviye", action, so it means "in fact". "Vkusno" is "tasty".'),
+    (8, None, '\'This is true poetry of haute cuisine.\' Russian says "vysokaya kukhnya", "high cuisine", for haute cuisine. "Poeziya" is borrowed, and the guest sounds grand.'),
+    (9, None, '\'Bring me another fish just like this!\' "Prinesite", bring, has the "-te" of formal commands. "Yeshchyo odnu takuyu" ends in -u to match "rybu", fish.'),
+    (10, None, '\'We will prepare everything right away, bon appetit.\' "Priyatnogo appetita" is "of pleasant appetite", the standard wish before a meal.'),
+    (11, None, '\'Max, let\'s head quickly to the kitchen.\' "Poshli" is "went", but here it means "let\'s go", which is very common. "Skoreye" is "quicker".'),
+    (12, None, '\'Chef, you called me by my name!\' "Po imeni" is "by name", and Max is delighted. "Nazvali", called, ends in -li because Max says "vy" to his boss.'),
+    (13, None, '\'Oguzok, do not come out to the dining room without permission!\' "Bez sprosa" is "without asking", from "sprosit\'", to ask. "Ne vykhodi" is "don\'t come out", and the chef is back to calling Max "Oguzok".'),
 ]

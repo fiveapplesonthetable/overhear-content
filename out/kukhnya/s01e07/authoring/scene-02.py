@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Arriving at Claude Monet well before his shift, Kostya finds Max wandering around in casual clothes instead of his chef uniform. Pressing him for answers, Kostya uncovers Max's shocking secret: to avoid Moscow's exorbitant rents, Max has been sleeping overnight in the restaurant dining room. Let's listen to their confrontation in Russian first."
-OPENER = "Now let's examine Kostya and Max's confrontation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Terrified of what Chef Barinov would do if he caught a cook sleeping in the restaurant, Kostya considers how to help his friend out of this dangerous situation. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'at all' — you will catch every word right away. See you next time!"
+INTRO = "It's early morning at Claude Monet. Kostya, the bartender, comes in and finds Max, the new cook, wandering about in ordinary clothes long before his shift. When Kostya asks why, Max has to admit what he has been doing at night. Here's the Russian, with a few times of day to listen for."
+OPENER = "Let's go back through it. Kostya asks the questions, and Max does his best to avoid the answers."
+TRANSITION = 'Now the whole scene again, straight through.'
+OUTRO = "Max's secret comes out in four words: 'I live right here'. Kostya's answer is the sort of thing that anybody would say. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, почему ты пришёл так рано?', 'Kostya, why did you arrive so early?', [(5, 'ты как так рано приперся')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Пожалуйста, не рассказывай никому мой секрет.', 'Please do not tell anyone my secret.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, why did you arrive so early?' Max turns the question around, wondering why Kostya is here so soon."),
-    (1, None, "'It is already eight o'clock in the morning, Max.' Kostya points out the actual time, showing it is morning already."),
-    (2, None, "'I thought that the restaurant was still closed.' He genuinely believed he was safe from being caught before opening hours."),
-    (3, None, "'Why haven't you put on your uniform yet?' The lack of kitchen attire immediately raises a red flag."),
-    (4, None, "'My locker key is lying here.' Max tries to deflect by casually mentioning his locker key."),
-    (5, None, "'Then go faster to the staff locker room.' Kostya urges his friend to get changed before anyone sees him."),
-    (6, None, "'Do not boss me around, I will manage everything in time.' He gets defensive, claiming he has everything under control."),
-    (7, None, "'What were you doing here at night at all?' Suspicion finally takes over as Kostya demands to know the truth."),
-    (8, None, "'Honestly speaking, I live right here.' Max confesses his desperate housing situation with total honesty."),
-    (9, None, "'You spend the night in Chef Barinov's restaurant?!' The idea of sleeping at work leaves Kostya utterly speechless."),
-    (10, None, "'Yes, I sleep on the sofa in the dining room.' He confirms the crazy setup, specifically mentioning the dining room furniture."),
-    (11, None, "'If the chef finds out, he will kill you!' The chef will be furious if he discovers a squatter in his establishment."),
-    (12, None, "'Please do not tell anyone my secret.' Max begs for silence, knowing his job is on the line."),
+    (0, None, '\'Kostya, why did you arrive so early?\' "Prishyol", \'came\', is for arriving on foot, with pri- meaning arrival. "Tak rano" is \'so early\'.'),
+    (1, None, '\'It is already eight o\'clock in the morning, Max.\' Russian counts the clock in hours: vosem\' chasov, \'eight of hours\'. "Utra", \'of the morning\', is how you say a.m.'),
+    (2, None, '\'I thought that the restaurant was still closed.\' "Dumal" ends in -l, the past tense for a man; a woman would say dumala. "Yeshchyo" means \'still\' here.'),
+    (3, None, '\'Why haven\'t you put on your uniform yet?\' "Yeshchyo ne", \'still not\', is how Russian says \'not yet\'. "Nadet\'" is the verb for putting on clothes, and forma becomes formu as the thing being put on.'),
+    (4, None, "'My locker key is lying here.' A key in Russian 'lies', lezhit, when it is flat on a surface. And it's a key ot shkafa, 'from the locker', where English says 'to' or 'of'."),
+    (5, None, '\'Then go faster to the staff locker room.\' "Idi" is the command \'go\', and bystreye, \'faster\', is how you tell someone to hurry. "Razdevalka", the changing room, comes from razdevat\'sya, to get undressed.'),
+    (6, None, '\'Do not boss me around, I will manage everything in time.\' "Komandovat\'", to command, takes mnoy, the \'by me\' form of \'me\'. "Uspeyu" is the future of uspet\', to make it in time, and you\'ll hear it whenever someone is running late.'),
+    (7, None, '\'What were you doing here at night at all?\' "Vobshche", \'at all\', gives the question a suspicious edge. "Noch\'yu", \'at night\', is the word for night with an ending that turns it into a time.'),
+    (8, None, '\'Honestly speaking, I live right here.\' "Chestno govorya" is a fixed phrase, like \'to be honest\'. "Pryamo zdes\'" is \'straight here\', meaning right here.'),
+    (9, None, '\'You spend the night in Chef Barinov\'s restaurant?!\' "Nochevat\'", to spend the night, is built on noch\', night. "Shefa Barinova", \'of Chef Barinov\', puts an -a on both words to show whose restaurant it is.'),
+    (10, None, '\'Yes, I sleep on the sofa in the dining room.\' "Splyu", \'I sleep\', has an extra l that only the I form gets; \'you sleep\' is spish. "Divan" and zal both take -e after na and v: na divane, v zale.'),
+    (11, None, '\'If the chef finds out, he will kill you!\' Russian puts uznayet, \'will find out\', in the future, where English says \'finds out\'. "Ub\'yot", \'will kill\', is the future too.'),
+    (12, None, '\'Please do not tell anyone my secret.\' "Nikomu" means \'to nobody\', and the ne in front of rasskazyvay stays: \'don\'t tell to nobody\'. Ne rasskazyvay is the usual way to ask someone to keep quiet.'),
 ]

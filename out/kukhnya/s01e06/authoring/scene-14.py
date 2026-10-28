@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Inside the restaurant staff locker room, Kostya tries to talk the eccentric homeless man Rodion out of dining in the luxurious dining room. Despite Kostya's frantic protests, Rodion remains completely unyielding and demands his five-star meal. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the classic literary references, conditional clauses, and polite conversational phrases."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Despite Kostya's nervous attempts to negotiate, Rodion proves to be an unflappable negotiator who will settle for nothing less than a table at Claude Monet. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'administrator' and 'carefully' — you will catch every word right away. See you next time!"
+INTRO = "In the staff changing room at Claude Monet, Rodion has the truffles and the upper hand. He wants a proper lunch in the restaurant, and Kostya is trying to talk him out of it. It's in Russian first."
+OPENER = 'Slowly now. Rodion speaks like a gentleman, and Kostya gets more nervous with every line.'
+TRANSITION = 'Now the bargaining from the start.'
+OUTRO = 'Rodion\'s lines are a lesson in sounding grand: "torg zdes neumesten", "vesti sebya akkuratno", and "priyatnogo appetita". Any of them makes a simple request sound elegant. See you next time.'
 CLOSING = ('rodion', 'Пока!')
 STORY = [
     ('kostya', 'Подожди, давай мы просто заплатим деньги.', "Wait, let's just pay you money.", [(197, 'мы тебе денег заплатим')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('rodion', 'Тогда пожелайте мне приятного аппетита, Константин.', 'Then wish me bon appétit, Konstantin.', [], ''),
 ]
 WALK = [
-    (0, None, "'Wait, let's just pay you money.' Making one last desperate attempt, Kostya tries to buy their way out of this trap."),
-    (1, None, "'Bargaining is completely inappropriate here, young man.' Waving off the cash, Rodion quotes a famous literary phrase to shut him down."),
-    (2, None, "'But this is a very expensive restaurant!' Kostya stresses that fine dining is way out of bounds for this situation."),
-    (3, None, "'I know this fine restaurant perfectly well.' Confidently asserting his taste, Rodion claims familiarity with high-end establishments."),
-    (4, None, "'The administrator will throw you out into the street immediately.' Kostya warns him that the hawkeyed manager will spot an imposter instantly."),
-    (5, None, "'In a decent suit nobody will recognize me.' Rodion assures them that clothes make the man in these environments."),
-    (6, None, "'And what if you accidentally ruin someone else's clothes?' He is fretting about liability, Kostya worries about lending out a customer's expensive jacket."),
-    (7, None, "'I promise to behave extremely neatly.' Giving his aristocratic word, Rodion promises not to stain the borrowed suit."),
-    (8, None, "'Where exactly are our missing truffles hidden?' Impatiently demanding answers, Kostya wants the location of their hostage ingredients."),
-    (9, None, "'You will receive the truffles right after lunch.' Slyly refusing to hand over his leverage, Rodion waits until he is fully fed."),
-    (10, None, "'The Chef will get very angry if he finds out the truth.' Trembling at the thought of Barinov, Kostya fears the discovery of their massive deception."),
-    (11, None, "'Then wish me bon appétit, Konstantin.' Cheerfully concluding the negotiation, Rodion savors his impending meal."),
+    (0, None, '\'Wait, let\'s just pay money.\' "Podozhdi", wait, is the "ty" command, the one you\'ll hear most. "Zaplatim", we\'ll pay, is za- plus "platit", so a single payment and done.'),
+    (1, None, '\'Bargaining is completely inappropriate here, young man.\' "Torg", bargaining, is the word you\'d hear at a market. "Neumesten", out of place, is "ne" plus umesten, fitting.'),
+    (2, None, '\'But this is a very expensive restaurant!\' "Zhe" adds an \'after all\', as if Kostya is stating the obvious. "Dorogoy", expensive, also means \'dear\', the word that opens a letter.'),
+    (3, None, '\'I know this fine restaurant perfectly well.\' Rodion uses "prekrasno" and "prekrasnyy" back to back, \'perfectly\' and \'fine\', and he clearly enjoys it. "Znayu", I know, is the plain \'I know\' for facts and places.'),
+    (4, None, '\'The administrator will throw you out into the street immediately.\' "Vygonit", will throw out, is vy-, out, plus "gnat", to chase. "Na ulitsu", onto the street, has -u because that\'s where he\'ll land.'),
+    (5, None, '\'In a decent suit nobody will recognize me.\' Russians say "v kostyume", \'in a suit\', just as in English. "Uznaet", will recognize, is "znat", to know, with u- in front.'),
+    (6, None, '\'And what if you accidentally ruin someone else\'s clothes?\' A "esli", \'and if\', is how \'what if\' begins. "Sluchayno", by accident, is from "sluchay", a chance event.'),
+    (7, None, '\'I promise to behave extremely neatly.\' "Vesti sebya", to behave, is literally \'to lead oneself\'. "Krayne", extremely, is from "kray", edge.'),
+    (8, None, '\'Where exactly are our missing truffles hidden?\' "Spryatany", hidden, ends in -y because the truffles are plural. "Propavshie", missing, belongs with "propast", to vanish.'),
+    (9, None, '\'You will receive the truffles right after lunch.\' "Poluchite", you\'ll receive, is a future form with "vy". After "posle", after, "obed" becomes "obeda".'),
+    (10, None, '\'The Chef will get very angry if he finds out the truth.\' "Razozlitsya", will get angry, is from "zloy", angry, with raz- and -sya around it. "Uznaet pravdu", finds out the truth, uses "uznaet" again, now as \'find out\' rather than \'recognize\'.'),
+    (11, None, '\'Then wish me bon appétit, Konstantin.\' "Priyatnogo appetita", \'of pleasant appetite\', is the Russian \'enjoy your meal\', with the -ogo and -a coming from "pozhelat". Konstantin is Kostya\'s full name, which Rodion uses to sound lofty.'),
 ]

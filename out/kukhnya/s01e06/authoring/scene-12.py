@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Inside the bustling kitchen, the stern sanitary inspector meticulously scrutinizes every surface alongside a nervous Chef Barinov. Noticing wet tiles and an open bottle of alcohol sitting right beside the grill station, the inspector delivers a harsh reprimand. Let's listen to their tense exchange in Russian first."
-OPENER = "Let's observe how the inspector identifies infractions on the kitchen floor."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you understand how sanitary infractions are discovered and disputed in restaurants. Listen for these stern phrases next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'bottle' and 'wine' — you will catch every word right away. See you next time!"
+INTRO = "Inside the kitchen at Claude Monet the sanitary inspector is checking everything: the floor, the grill, a bottle that should not be open. Barinov, the head chef, follows him and tries to keep up appearances. It's in Russian first."
+OPENER = 'Slowly now. The inspector speaks in short official remarks, and Barinov answers with excuses.'
+TRANSITION = 'Here is the inspection again, from the slippery floor on.'
+OUTRO = 'Barinov keeps saying "lichno", personally, and the inspector keeps saying "narushenie", violation. Between them they\'ve given you the vocabulary of a very bad afternoon. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('inspector', 'Скользкий пол — это источник опасности.', 'A slippery floor is a source of danger.', [(160, 'Скользкий пол — это источник опасности для сотрудников')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('inspector', 'Откройте замок, я должен всё увидеть.', 'Open the lock, I must see everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'A slippery floor is a source of danger.' Formally citing a blatant safety violation, the inspector points at the floor."),
-    (1, None, "'Why is this bottle open by the grill?' The official sharply questions an obvious fire hazard near the flames."),
-    (2, None, "'You won't get off with a simple fine here!' Threatening severe consequences, the inspector promises more than a mere fine."),
-    (3, None, "'Let's move on, I will inspect the storage.' Marching onward, the official moves to uncover more infractions in the back room."),
+    (0, None, '\'A slippery floor is a source of danger.\' The dash stands in for \'is\', which Russian doesn\'t say in the present. "Istochnik", source, is also the word for a natural spring.'),
+    (1, None, '\'We will wipe up this water immediately.\' "Seychas zhe", \'this very minute\', adds "zhe" for urgency. "Vytrem", we\'ll wipe, is a finished-action form, so it means the future.'),
+    (2, None, '\'Why is this bottle open by the grill?\' "Otkryta", open, takes its -a from "butylka", bottle. "U grilya", by the grill, adds -ya to "gril" after u.'),
+    (3, None, '\'This wine is needed for meat sauce.\' "Vino", wine, is neuter, so "nuzhno", needed, ends in -o. "Myasnoy sous", \'meaty sauce\', turns "myaso" into a describing word.'),
+    (4, None, '\'Understood, but that is still a violation.\' "Ponyatno", understood, is the everyday \'got it\'. "Vsyo ravno", \'all equal\', means \'anyway\' or \'still\'.'),
+    (5, None, '\'I will personally put the bottle in the cupboard.\' "Uberu", I\'ll put away, is from "ubrat", the finished partner of "ubirat". "V shkaf", into the cupboard, keeps "shkaf" unchanged because it\'s masculine.'),
+    (6, None, '\'You won\'t get off with a simple fine here!\' "Otdelaetes", you\'ll get off, needs the -s at the end. "Prostym shtrafom", with a simple fine, has -ym and -om because it means \'by means of\'.'),
+    (7, None, '\'Believe me, we have an exemplary restaurant!\' "Pover\'te", believe me, is the polite command from "poverit". "Obraztsovyy", exemplary, is from obrazets, a model or sample.'),
+    (8, None, '\'Let\'s move on, I will inspect the storage.\' "Poydyomte", let\'s go, takes "poydyom" and adds -te to make it polite. "Osmotryu", I\'ll inspect, starts with o-, around: to look all over.'),
+    (9, None, '\'Please, walk right behind me.\' "Proshu vas", \'I ask you\', is a formal \'please\'. "Za mnoy", behind me, turns "ya" into "mnoy" after "za".'),
+    (10, None, '\'And what is located behind this door?\' "Nakhoditsya", is located, is literally \'finds itself\'. "Za etoy dveryu", behind this door, turns "dver" into "dveryu" after "za".'),
+    (11, None, '\'There is our storage for unopened bottles.\' "Zakrytykh", closed, here means \'sealed\'. "Dlya", for, turns "butylki" into "butylok".'),
+    (12, None, '\'Open the lock, I must see everything.\' "Zamok", lock, is stressed at the end; stressed on the first syllable, the same spelling means \'castle\'. "Dolzhen", I must, is the form a man uses.'),
 ]

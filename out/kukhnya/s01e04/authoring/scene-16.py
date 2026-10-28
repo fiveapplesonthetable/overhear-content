@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "Behind the bar at Claude Monet, Kostya is despondent after failing to invite waitress Nastya on a date. Max teases his roommate about his clumsy attempt, noting that charming women requires experience and practice. Desperate for help, Kostya begs Max to talk to Nastya and explain his feelings for him. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine the dialogue line by line. Notice the friendly teasing and the heartfelt request for romantic assistance."
+INTRO = "Behind the bar, Kostya is gloomy: his attempt to charm Nastya went badly. Max teases him a little, and then Kostya asks Max to talk to her on his behalf. Max, who thinks he is a born diplomat, agrees. Here's the Russian first."
+OPENER = "Let's go back to the bar."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max agrees to act as cupid for his friend, confident in his romantic persuasive powers. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'to worry' — you will catch every word right away. See you next time!"
+OUTRO = 'Max promises to be gentle, which is not what he\'s known for. A nice thing to keep: "minut sem\'", where the number after the noun means "about".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Я понял, свидания у тебя не будет?', "I take it you won't have a date?", [(211, 'свидания у тебя не будет')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Не волнуйся, я прирождённый дипломат!', 'Do not worry, I am a natural diplomat!', [], ''),
 ]
 WALK = [
-    (0, None, "'I take it you won't have a date?' Max assumes his friend will not have a date."),
-    (1, None, "'Yes, I said something completely stupid again.' Kostya admits he said something foolish again."),
-    (2, None, "'You get way too nervous around her.' Max tells him he gets too anxious around her."),
-    (3, None, "'I cannot manage to speak beautifully!' Kostya complains he cannot speak eloquently."),
-    (4, None, "'One needs to learn this long and patiently.' Max explains that such a skill takes time and patience to learn."),
-    (5, None, "'Listen, maybe you could talk with her?' Kostya asks if his friend could speak to her for him."),
-    (6, None, "'What exactly am I supposed to tell her?' Max wonders what exactly he should tell her."),
-    (7, None, "'Explain that I really like her.' Kostya wants him to express his strong feelings for her."),
-    (8, None, "'Okay, I will try to talk with Nastya.' Max agrees to try talking with Nastya."),
-    (9, None, "'Thank you, friend, you will really help me out!' Kostya expresses deep gratitude for the help."),
-    (10, None, "'I have about seven minutes right now.' Max notes he has about seven minutes free right now."),
-    (11, None, "'Just say everything as gently as possible.' Kostya begs him to speak as gently as possible."),
-    (12, None, "'Do not worry, I am a natural diplomat!' Max confidently claims to be a natural diplomat."),
+    (0, None, '\'I take it you won\'t have a date?\' "Ya ponyal", I understood, opens the line as "I take it". "U tebya ne budet" is "at you there won\'t be", and after "ne budet", "svidaniye" becomes "svidaniya".'),
+    (1, None, '\'Yes, I said something completely stupid again.\' Russian says "skazal glupost\'", said a stupidity. "Polnuyu", complete, takes -uyu as the object.'),
+    (2, None, '\'You get way too nervous around her.\' "Slishkom" is "too". "Nervnichayesh\'" is from "nervy", nerves, and "pered ney" is "in front of her".'),
+    (3, None, '\'I cannot manage to speak beautifully!\' "Ne poluchayetsya u menya" is "it doesn\'t work out at me", the Russian for failing at something. "Krasivo" is "beautifully".'),
+    (4, None, '\'One needs to learn this long and patiently.\' "Terpelivo", patiently, is from "terpet\'", to endure. "Uchit\'sya" takes "to" for the subject learned, so "eto" becomes "etomu".'),
+    (5, None, '\'Listen, maybe you could talk with her?\' "A mozhet" is "and maybe". "Pogovorish\'" is "you\'ll have a talk", with "po-" for a short one.'),
+    (6, None, '\'What exactly am I supposed to tell her?\' "Dolzhen" is "must" for a man. "Yey" is "to her".'),
+    (7, None, '\'Explain that I really like her.\' "Ob\'\'yasni" is "explain". In "ona mne nravitsya", she does the pleasing and "mne" receives it.'),
+    (8, None, '\'Okay, I will try to talk with Nastya.\' After "s", with, "Nastya" becomes "Nastey".'),
+    (9, None, '\'Thank you, friend, you will really help me out!\' "Vyruchish\'" is "you\'ll get me out of a jam", warmer than "pomozhesh\'", you\'ll help.'),
+    (10, None, '\'I have about seven minutes right now.\' Putting the number after the noun makes it rough: "minut sem\'" is about seven, "sem\' minut" is seven.'),
+    (11, None, '\'Just say everything as gently as possible.\' "Maksimal\'no" is borrowed, "maximally". "Nezhno", gently, is from "nezhnyy", tender.'),
+    (12, None, '\'Do not worry, I am a natural diplomat!\' "Prirozhdyonnyy" is "pri-" plus "rozhdyonnyy", born: born to it. "Diplomat" was borrowed into Russian unchanged.'),
 ]

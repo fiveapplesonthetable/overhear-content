@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Девушка, с вами всё в порядке? | Miss, are you all right? | #13: Слышь, мужик, ты как сейчас девушку ведёшь | verbatim |
+| 1 | Макс | Девушка, с вами всё в порядке? | Miss, are you all right? | #13 00:00:57: Слышь, мужик, ты как сейчас девушку ведёшь | verbatim |
 | 2 | Вика | Да, спасибо за вашу помощь. | Yes, thank you for your help. | new | new |
-| 3 | Вика | Ой, кажется, у вас сломан нос! | Oh, it looks like your nose is broken! | #15: А мне кажется, у меня нос сломан | verbatim |
-| 4 | Макс | Мой нос — это мой главный инструмент. | My nose is my main instrument. | #16: Это же мой инструмент | verbatim |
+| 3 | Вика | Ой, кажется, у вас сломан нос! | Oh, it looks like your nose is broken! | #15 00:01:10: А мне кажется, у меня нос сломан | verbatim |
+| 4 | Макс | Мой нос — это мой главный инструмент. | My nose is my main instrument. | #16 00:01:12: Это же мой инструмент | verbatim |
 | 5 | Вика | Почему нос так важен для вас? | Why is your nose so important to you? | new | new |
-| 6 | Макс | Завтра у меня важное собеседование на работу. | Tomorrow I have an important job interview. | #14: мне просто на собеседование завтра | verbatim |
-| 7 | Вика | Кем вы хотите устроиться на работу? | What job do you want to get? | #17: А ты кем устраиваешься | verbatim |
-| 8 | Макс | Я хочу работать поваром в ресторане. | I want to work as a cook in a restaurant. | #18: поваром в ресторан | verbatim |
-| 9 | Вика | Правда? Я тоже работаю в ресторане! | Really? I work in a restaurant too! | #19: А я тоже в ресторане работаю<br>#20: Да ну? Да | verbatim |
-| 10 | Макс | Значит, у нас с тобой много общего. | So you and I have a lot in common. | #21: У нас с тобой много общего | verbatim |
+| 6 | Макс | Завтра у меня важное собеседование на работу. | Tomorrow I have an important job interview. | #14 00:01:06: мне просто на собеседование завтра | verbatim |
+| 7 | Вика | Кем вы хотите устроиться на работу? | What job do you want to get? | #17 00:01:14: А ты кем устраиваешься | verbatim |
+| 8 | Макс | Я хочу работать поваром в ресторане. | I want to work as a cook in a restaurant. | #18 00:01:16: поваром в ресторан | verbatim |
+| 9 | Вика | Правда? Я тоже работаю в ресторане! | Really? I work in a restaurant too! | #19 00:01:19: А я тоже в ресторане работаю<br>#20 00:01:21: Да ну? Да | verbatim |
+| 10 | Макс | Значит, у нас с тобой много общего. | So you and I have a lot in common. | #21 00:01:23: У нас с тобой много общего | verbatim |
 | 11 | Вика | Ты очень милый и смелый парень. | You are a very sweet and brave guy. | new | new |
 | 12 | Макс | Может быть, пойдём выпьем вместе кофе? | Maybe we should go drink coffee together? | new | new |
 | 13 | Вика | С большим удовольствием, пойдём скорее! | With great pleasure, let's go quickly! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Miss, are you all right?' Max checks on her well-being immediately after taking a punch meant for her.
-- 'Yes, thank you for your help.' Vika expresses her gratitude toward the stranger who just stepped in to protect her outside the club.
-- 'Oh, it looks like your nose is broken!' Noticing the injury on his face, she reacts with sudden concern for his bleeding nose.
-- 'My nose is my main instrument.' Max tries to play it cool while emphasizing how important his sense of smell is for his career.
-- 'Why is your nose so important to you?' Intrigued by his unusual statement, she asks for clarification about his facial feature.
-- 'Tomorrow I have an important job interview.' Max reveals his upcoming opportunity, showing that his mind is entirely focused on his future in Moscow.
-- 'What job do you want to get?' Vika probes further to learn more about the ambitions of this brave guy she just met.
-- 'I want to work as a cook in a restaurant.' He proudly states his dream of becoming a culinary professional in a bustling kitchen.
-- 'Really? I work in a restaurant too!' Pleasantly surprised by this coincidence, she shares that they belong to the same industry.
-- 'So you and I have a lot in common.' Max playfully points out their shared background to build a connection with the beautiful stranger.
-- 'You are a very sweet and brave guy.' Vika warmly compliments him for stepping up earlier and being so charming during their chat.
-- 'Maybe we should go drink coffee together?' Taking a shot, he invites her out to continue their conversation somewhere more comfortable.
-- 'With great pleasure, let's go quickly!' Vika enthusiastically accepts his invitation, eager to spend more time together.
+- 'Miss, are you all right?' Russian has no neat word for "miss". Max calls out "devushka", literally "girl", and that's really what people say to a young woman they don't know. The rest is "with you, everything in order?", with the polite "vy" you use for a stranger.
+- 'Yes, thank you for your help.' "Spasibo za" is a frame you can reuse: "spasibo", then "za", "for", then whatever you're thankful for. "Spasibo za kofe" thanks someone for the coffee.
+- 'Oh, it looks like your nose is broken!' There's no "have" in this sentence. Russian says "u vas", "at you", and then names the thing: at you, a broken nose. That little "u" is how Russians say who has something, and you'll hear it all through this scene.
+- 'My nose is my main instrument.' Nothing in the Russian means "is". In the present tense Russian simply leaves it out, and "eto", "this", often fills the gap: "my nose, this is my main instrument".
+- 'Why is your nose so important to you?' "Pochemu" is "why", and "tak vazhen" is "so important". "Dlya vas", "for you", is the polite "you" again: Vika is still keeping a stranger at arm's length.
+- 'Tomorrow I have an important job interview.' Same pattern as the nose: "u menya", "at me", is how Max says "I have". The long word for "interview", "sobesedovaniye", has "beseda", a talk, hiding inside it.
+- 'What job do you want to get?' "Kem" is a form of "kto", "who", that means "as whom". So Vika literally asks "as whom do you want to get a job?", and the answer has to come back in the same "as" form.
+- 'I want to work as a cook in a restaurant.' Here's that answer. "Povar" is a cook, and "povarom" is "as a cook": the "-om" ending does the job of English "as". "V restorane", "in a restaurant", adds an -e to "restoran" after "v".
+- 'Really? I work in a restaurant too!' "Pravda" means "truth", so her "really?" is, word for word, "truth?". "Tozhe", "too", is a word you'll hear all day: "ya tozhe" is "me too".
+- 'So you and I have a lot in common.' Max switches from the polite "vy" to the friendly "ty" here. "U nas s toboy" is "at us with you", the friendly way to say "you and I have", and "mnogo obshchego" is "a lot in common".
+- 'You are a very sweet and brave guy.' Now Vika says "ty" as well. "Paren'" is the casual word for a guy, and "milyy" is the everyday word for sweet or nice.
+- 'Maybe we should go drink coffee together?' "Mozhet byt'" is "maybe", literally "can be". Then come two verbs side by side, "poydyom, vypyem", "let's go, let's drink", with no "and" between them. That's a very common way to suggest doing something together.
+- 'With great pleasure, let's go quickly!' "S bol'shim udovol'stviyem", "with great pleasure", is the warm way to accept an invitation. "Skoreye" means "quicker", and on its own it's how you hurry someone along.

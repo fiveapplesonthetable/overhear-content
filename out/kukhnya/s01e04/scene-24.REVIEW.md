@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Макс, подожди минуту! | Max, wait a minute! | #331: Макс! | verbatim |
+| 1 | Вика | Макс, подожди минуту! | Max, wait a minute! | #331 00:23:33: Макс! | verbatim |
 | 2 | Макс | Вика? Что случилось? | Vika? What happened? | new | new |
 | 3 | Вика | Ты никуда не уходишь. | You are not leaving anywhere. | new | new |
 | 4 | Макс | Но шеф только что меня уволил. | But the chef just fired me. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, wait a minute!' Vika asks Max to wait a minute.
-- 'Vika? What happened?' Max turns around to see what she wants.
-- 'You are not leaving anywhere.' Vika tells him he is not going anywhere.
-- 'But the chef just fired me.' Max reminds her that he just got fired.
-- 'I spoke with the chef.' Vika reveals she spoke with the boss.
-- 'And what did he tell you?' Max asks about the outcome of that conversation.
-- 'He allowed you to stay in the kitchen.' Vika announces he is allowed to stay in the kitchen.
-- 'Really? You saved me!' Max expresses immense gratitude for being saved.
-- 'Just do not make stupid mistakes anymore.' Vika warns him not to make stupid mistakes anymore.
-- 'I promise, I will work very diligently.' Max promises to work very diligently.
-- 'Return to your work station.' Vika instructs him to return to his work station.
-- 'Thank you very much for your help, Vika!' Max thanks her again for the help.
-- 'Go, before the chef changes his mind.' Vika tells him to go before the boss changes his mind.
-- 'I got a second chance!' Max celebrates getting a second chance.
+- 'Max, wait a minute!' "Podozhdi" is the familiar "wait". "Minutu" takes -u for a length of time.
+- 'Vika? What happened?' "Chto sluchilos'?" is "what has happened?".
+- 'You are not leaving anywhere.' The present "ne ukhodish'" is "you are not leaving". "Nikuda" is "nowhere".
+- 'But the chef just fired me.' "Tol'ko chto" is "only that", meaning just now. "Uvolil" ends in -l for the chef.
+- 'I spoke with the chef.' "Pogovorila" has "po-" for a talk and -la for a woman. "S shefom" is "with the chef".
+- 'And what did he tell you?' "Tebe skazal" is "to you said", with "tebe" as the "to" form of "ty".
+- 'He allowed you to stay in the kitchen.' "Razreshil", allowed, is the verb behind "razresheniye", permission. "Tebe ostat'sya" is "to you to stay".
+- 'Really? You saved me!' "Spasla" is "saved", with -la for Vika. "Pravda?" is "really?".
+- 'Just do not make stupid mistakes anymore.' "Ne sovershay oshibok" is "don't commit mistakes", a formal phrasing. "Bol'she ne" is "no more".
+- 'I promise, I will work very diligently.' "Staratel'no", diligently, is from "starat'sya", to try hard. "Budu rabotat'" is "I will work".
+- 'Return to your work station.' "Vozvrashchaysya" ends in -sya. "Rabocheye mesto" is "working place".
+- 'Thank you very much for your help, Vika!' "Spasibo ogromnoye" is "huge thanks". "Pomoshch'", help, is the noun of "pomoch'".
+- 'Go, before the chef changes his mind.' "Poka... ne" with a past verb is "before". "Peredumal" is "pere-" plus "dumal": thought again.
+- 'I got a second chance!' "U menya poyavilsya" is "at me appeared", Russian for getting something new. "Vtoroy shans" is "second chance".

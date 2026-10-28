@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = 'Nastya arrives at the kitchen of restaurant Claude Monet on a very tense morning. The cooks are whispering nervously because Chef Viktor Barinov is approaching in a terrible mood. Listen to the Russian dialogue first, and then we will review the phrases together in English.'
-OPENER = "Let's break down this tense kitchen conversation sentence by sentence."
+INTRO = "Back at Claude Monet, the kitchen is oddly silent. Nastya, a waitress, wants to know why, and Senya, one of the cooks, tells her: the chef is coming, and he is in a foul mood because of last night's football. This is the Russian first."
+OPENER = 'Now the same scene, slowly.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In Kukhnya, Chef Barinov's football obsession and terrible temper are legendary, and the kitchen staff quickly learns when to stay out of his way. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'always' — you will catch every word right away. See you next time!"
+OUTRO = 'So the rule of the kitchen is simple: when the chef\'s team loses, you keep your head down and work. Take away "za rabotu", "to work!", because you\'ll hear it again.'
 CLOSING = ('nastya', 'До встречи!')
 STORY = [
     ('nastya', 'Почему на кухне так тихо?', 'Why is the kitchen so quiet?', [], ''),
@@ -32,22 +32,18 @@ STORY = [
     ('senya', 'Вот и молодец. За работу!', 'Good job. To work!', [], ''),
 ]
 WALK = [
-    (0, None, "'Why is the kitchen so quiet?' Nastya wonders about the unusual silence among the kitchen staff this morning."),
-    (1, None, "'Chef is coming.' Senya quietly warns her that their terrifying boss is on his way."),
-    (2, None, "'Angry again.' He adds that the boss is in one of his notorious bad moods."),
-    (3, None, "'What happened?' She asks what triggered the boss's fury this time."),
-    (4, None, "'Football again?' Nastya guesses that sports betting might be the cause again."),
-    (5, None, "'Yes, yesterday Spartak played.' Senya confirms that a match involving a specific team took place the night before."),
-    (6, None, "'And how much did he lose?' She inquires about the financial damage the boss suffered."),
-    (7, None, "'A hundred grand.' He reveals the massive sum of money lost on the bet."),
-    (8, None, "'Unbelievable!' Nastya is stunned by the sheer size of the gambling loss."),
-    (9, None, "'A hundred thousand rubles?' She repeats the amount just to make sure she heard it correctly."),
-    (10, None, "'Yes, exactly one hundred thousand.' Senya confirms the exact devastating figure without hesitation."),
-    (11, None, "'They always lose before his shift.' He points out the recurring pattern of bad luck right before work."),
-    (12, None, "'And what do we do now?' She asks for advice on how to survive the upcoming storm."),
-    (13, None, "'Stay silent and just work.' Senya recommends keeping their heads down and focusing purely on tasks."),
-    (14, None, "'Do not anger the chef today.' He specifically warns against doing anything that might set the boss off."),
-    (15, None, "'Understood.' Nastya acknowledges the survival strategy for the day."),
-    (16, None, "'I will be very careful.' She promises to tread lightly around the explosive head cook."),
-    (17, None, "'To work!' Senya abruptly ends the chat to get back to his station before disaster strikes."),
+    (0, None, '\'Why is the kitchen so quiet?\' Russian says "na kukhne", "on the kitchen", where English says "in", and it\'s what everyone says about a restaurant kitchen. "Tikho" is "quiet", for a voice or a room.'),
+    (1, None, '\'Chef is coming. Angry again.\' Russian covers "is coming" with "idyot", the on-foot kind. The second sentence has no "is" at all: just "again angry". "Shef" is borrowed from French "chef", meaning chief.'),
+    (2, None, '\'What happened? Football again?\' "Chto sluchilos\'" is "what happened", a question you\'ll need constantly. "Futbol" is borrowed whole, and "opyat\'", "again", is the word Senya used a moment ago.'),
+    (3, None, '\'Yes, yesterday Spartak played.\' "Vchera" is "yesterday", a handy single word. Russian puts the news first, so "igral", "played", comes before the team. Spartak is a Moscow football club, and the chef takes it personally.'),
+    (4, None, '\'And how much did he lose?\' "Proigral" is "igral", played, with "pro-" in front, and that prefix turns "played" into "lost". "Skol\'ko", "how much", is the same word you\'d use to ask a price.'),
+    (5, None, '\'A hundred grand.\' "Sto shtuk" is slang: "sto" is a hundred, and "shtuka" means "a piece", which is street slang for a thousand roubles. So it\'s literally "a hundred pieces".'),
+    (6, None, '\'Unbelievable! A hundred thousand rubles?\' "Nichego sebe", "nothing to oneself", is an exclamation of surprise like "wow". After a number like a hundred thousand, "rubl\'" turns into "rubley".'),
+    (7, None, '\'Yes, exactly one hundred thousand.\' "Rovno" means "exactly", and it also means "even" or "level". Senya adds it because the amount is the whole point.'),
+    (8, None, '\'They always lose before his shift.\' "Proigryvayut" is "proigrat\'" stretched out with "-yva-" in the middle, which makes it a habit: "they keep losing". "Pered smenoy" is "before the shift".'),
+    (9, None, '\'And what do we do now?\' There\'s no "we" in Russian. "Chto delat\'" is "what to do", the plain "to do" with nothing else, and that\'s how people ask for advice.'),
+    (10, None, '\'Stay silent and just work.\' "Molchi" and "rabotay" are both commands, and both are short. "Prosto" is the shrug from earlier: just work, don\'t make it complicated.'),
+    (11, None, '\'Do not anger the chef today.\' "Ne zli" has "zloy", angry, inside it, which Senya used a moment ago: "don\'t make him angry". "Shefa" has an -a on the end because the chef is the one being angered. And "segodnya" is spelled with a g but said "sevodnya".'),
+    (12, None, '\'Understood. I will be very careful.\' "Ponyatno" does the job of "understood". Nastya is a woman, so "careful" ends in "-oy", "ostorozhnoy": the "as a" ending, in the feminine.'),
+    (13, None, '\'Good job. To work!\' "Vot i molodets" is "there you go, well done". "Molodets" is the praise word from the soup scene. "Za rabotu", "for work", is how you say "let\'s get going".'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'passerby': 'Прохожий'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Temporarily banned from his own kitchen after losing a bet to his culinary rival Elena, Chef Barinov sits dejectedly on a park bench outside Claude Monet. A curious passerby stops by to ask why the famous chef is loitering on the street in the middle of a workday. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this unusual street conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Revitalized by the brief conversation on the park bench, Chef Barinov prepares to reclaim authority over Claude Monet. See you next time!'
+INTRO = "Barinov has been shut out of his own restaurant, Claude Monet, while Elena runs his kitchen for the day. He sits on a bench outside, and a rude stranger sits down next to him. It's in Russian first."
+OPENER = 'Slowly now. The stranger starts with an insult, and by the end Barinov is thanking him.'
+TRANSITION = 'Now the whole conversation on the bench again.'
+OUTRO = "Barinov's vow, ya vernus i vernu svoyu kukhnyu, 'I'll come back and get my kitchen back', puts two close words together: vernutsya, 'to return', and vernut, 'to get something back'. And spasibo za sovet, 'thanks for the advice', is useful any day. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('passerby', 'Эй, дурак, почему ты сидишь здесь?', 'Hey, idiot, why are you sitting here?', [(124, 'Эй, дурак')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Спасибо за совет, я иду побеждать!', 'Thank you for the advice, I am going to win!', [], ''),
 ]
 WALK = [
-    (0, None, "'Hey, fool, why are you sitting here?' A cheeky passerby calls out to Barinov on the park bench."),
-    (1, None, "'I am a great head chef, and not a fool at all!' Barinov defends his culinary dignity with offended pride."),
-    (2, None, "'Then why are you not cooking in the kitchen?' The bystander questions why a top chef is idling outside."),
-    (3, None, "'I was temporarily kicked out of my own restaurant.' Barinov bitterly admits his temporary banishment."),
-    (4, None, "'Who dared to kick out such a strict cook?' The stranger is amazed that anyone could unseat the fearsome cook."),
-    (5, None, "'One impudent woman from the neighboring restaurant.' Barinov grumbles about his cunning rival Elena Sokolova."),
-    (6, None, "'Women always bring men big problems.' The passerby offers a cynical philosophical observation."),
-    (7, None, "'You are absolutely right, my chance interlocutor.' Barinov finds unexpected comfort in the stranger's words."),
-    (8, None, "'And what are you going to do now?' The bystander asks about Barinov's next move."),
-    (9, None, "'I will return and win back my kitchen!' Barinov resolves to reclaim his rightful kitchen kingdom."),
-    (10, None, "'Now those are the right words, brave cook!' The stranger cheers on Barinov's fighting spirit."),
-    (11, None, "'Thank you for the advice, I am going to win!' Barinov stands up from the bench, ready for victory."),
+    (0, None, "'Hey, idiot, why are you sitting here?' The stranger says ty to a man he has never met, which is rude, and so is durak, 'fool'. The form sidish comes from sidet, 'to be sitting'."),
+    (1, None, "'I am a great head chef, not an idiot at all!' Adding vovse, 'at all', makes the a ne contrast stronger: a vovse ne durak. The word velikiy, 'great', is the title used for famous tsars."),
+    (2, None, "'Then why are you not cooking in the kitchen?' Russian puts ne straight in front to say 'aren't cooking': ne gotovish. And na kukhne again uses na for the kitchen."),
+    (3, None, "'They temporarily kicked me out of my own restaurant.' With menya vygnali, 'they kicked me out', Russian uses the 'they' form with no subject to say something was done to you. After iz, sobstvennyy restoran becomes sobstvennogo restorana."),
+    (4, None, "'Who dared to kick out such a strict chef?' Right after posmel, 'dared', comes the action, vygnat. When a man is the object, the endings are -ogo and -a: takogo strogogo povara."),
+    (5, None, "'An insolent woman from a neighboring restaurant.' Here odna means 'a certain', not 'one'. The word sosedniy, 'neighbouring', comes from sosed, 'neighbour'."),
+    (6, None, "'Women always bring men big problems.' The -am on muzhchinam means 'to men'. With prinosyat, 'they bring', the stranger means something that keeps happening."),
+    (7, None, "'You are absolutely right, my random conversational partner.' In an argument, being right is prav; a woman would say prava. A sobesednik is someone you talk with, from s, 'with', and beseda, 'conversation'."),
+    (8, None, "'And what are you going to do now?' Literally 'to gather oneself', sobiratsya also means 'to be going to': sobirayeshsya delat, 'are you going to do'. And teper means 'now, after all this'."),
+    (9, None, "'I will return and get my kitchen back!' Barinov's vernus, 'I'll come back', and vernu, 'I'll give back', differ only by -s, the short form of -sya. The word svoyu, 'my own', points back to him."),
+    (10, None, "'Now those are the right words, brave cook!' Russians approve with vot eto at the start: vot eto pravilnyye slova. The stranger calls him smelyy, 'brave', and the flattery works."),
+    (11, None, "'Thank you for the advice, I am going to win!' You thank someone za something: spasibo za sovet. Saying idu, 'I'm going', plus an action names what you're off to do, here pobezhdat, 'to win'."),
 ]

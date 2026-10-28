@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elvira': 'Эльвира', 'vadim': 'Вадим', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "In the dining room of Claude Monet, Vadik tries to corner Vika to talk about their secret relationship. Just as Vika firmly rejects his advances, Vadik's wife Elvira arrives and cheerfully praises Vika for her help, creating a deeply awkward moment. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the conversational expressions, modal phrases, and subtle emotional shifts."
+INTRO = "In the dining room, Vadim corners Vika and tries to talk about their past. Then his wife, Elvira, walks in, delighted with the restaurant and with Vika, who has just helped her. It's a very awkward moment, and Vika plays it cool. Here's the Russian first."
+OPENER = "Let's go through the awkward meeting."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika handles the awkward encounter with grace while Vadik struggles to keep his composure in front of his wife. Great work practicing lively conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'important' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika keeps her composure while Vadim sweats. If you\'re looking for a phrase to take away, "ostav\' menya v pokoye", "leave me in peace", is worth learning.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vadim', 'Вика, нам нужно серьёзно поговорить.', 'Vika, we need to talk seriously.', [(244, 'надо поговорить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Спасибо, я всегда рада помочь вам.', 'Thank you, I am always glad to help you.', [(252, 'помогла')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, we need to talk seriously.' Vadim initiates an important conversation."),
-    (1, None, "'I already told you everything.' Vika dismisses his attempt to talk."),
-    (2, None, "'Come on, don't be angry with me.' Vadim asks her to let go of her anger."),
-    (3, None, "'You know my real feelings.' Vadim reminds her of his true emotions."),
-    (4, None, "'Leave me alone right now!' Vika demands to be left in peace."),
-    (5, None, "'Vadik, darling, there you are!' Elvira joyfully finds her husband."),
-    (6, None, "'We are just discussing an important banquet.' Vadim creates a cover story for their conversation."),
-    (7, None, "'Get acquainted, this is my wife Elvira.' Vadim introduces his spouse."),
-    (8, None, "'And she and I have already met!' Elvira reveals their prior encounter."),
-    (9, None, "'Viktoria Sergeyevna helped me a lot today.' Elvira praises the assistance she received."),
-    (10, None, "'Vadik, good for you for choosing this restaurant!' Elvira approves of the dining location."),
-    (11, None, "'You are my absolute best husband.' Elvira expresses her affection."),
-    (12, None, "'Thank you, I am always glad to help you.' Vika politely responds to the compliment."),
+    (0, None, '\'Vika, we need to talk seriously.\' "Nam nuzhno" is "to us necessary", the "we need" pattern again. "Ser\'yozno pogovorit\'" is "seriously to talk".'),
+    (1, None, '\'I already told you everything.\' "Skazala", told, ends in -la because Vika is a woman. "Tebe" is "to you", and "uzhe" is "already".'),
+    (2, None, '\'Come on, don\'t be angry with me.\' "Khvatit" is "it\'s enough", a way of saying "stop it". "Ne zlis\'", don\'t be angry, has the -s\' ending, and "na menya" is "at me".'),
+    (3, None, '\'You know my real feelings.\' "Ty zhe znayesh\'" is "you do know", with "zhe" leaning on it. "Chuvstva", feelings, is the plural of "chuvstvo", and "moi" matches it.'),
+    (4, None, '\'Leave me alone right now!\' "Ostav\' menya v pokoye" is "leave me in peace". "Pokoy", peace, becomes "pokoye" after "v".'),
+    (5, None, '\'Vadik, darling, there you are!\' "Vadik" is a pet form of "Vadim". "Milyy" is "sweet" or "dear", and "vot ty gde" is "here you where", Russian for "there you are".'),
+    (6, None, '\'We are just discussing an important banquet.\' "Kak raz" is "just", in the sense of "exactly now". "Obsuzhdayem", we discuss, has "sud", judgement, at its root.'),
+    (7, None, '\'Get acquainted, this is my wife Elvira.\' "Supruga" is the formal word for wife; "zhena" is the everyday one. "Poznakom\'tes\'", get acquainted, is said to two people.'),
+    (8, None, '\'And she and I have already met!\' "My s ney" is "we with her", the Russian "she and I". "Poznakomilis\'", met, ends in -lis\' for "we".'),
+    (9, None, '\'Viktoria Sergeyevna helped me a lot today.\' Russians help "to" someone, so "me" is "mne". "Pomogla", helped, ends in -la for a woman, and "ochen\'" is "a lot".'),
+    (10, None, '\'Vadik, good for you for choosing this restaurant!\' "Ty molodets, chto" is "you\'re well done that", the frame for praising what someone did. "Vybral", chose, is "brat\'" with "vy-".'),
+    (11, None, '\'You are my absolute best husband.\' "Ty u menya" is "you at me", a warm way to say "you\'re my". "Samyy luchshiy" doubles up on "best", and "muzh" is husband.'),
+    (12, None, '\'Thank you, I am always glad to help you.\' "Rada", glad, is the woman\'s form; a man would say "rad". "Vsegda" is "always", and "pomoch\' vam" is "to help to you".'),
 ]

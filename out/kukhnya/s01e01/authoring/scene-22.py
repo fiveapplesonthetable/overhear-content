@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'mark': 'Марк', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = 'At the prestigious Claude Monet restaurant, charismatic celebrity owner Dmitry Nagiyev welcomes a rival restaurateur, Mark. The two exchange playful insults about their head chefs, before Dmitry orders dining room art director Vika to serve the main course with special dietary care.'
-OPENER = "Let's see how Dmitry Nagiyev welcomes his rival in this lively scene."
+INTRO = "A rival restaurant owner called Mark visits Claude Monet, and the owner, Nagiyev, welcomes him with a smile. The two men trade friendly insults about their head chefs, and then Nagiyev tells Vika to bring out the hot dishes. Here's the Russian first."
+OPENER = "Let's look at how they trade insults."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Dmitry exchanges smug smiles with Mark as Vika heads to the kitchen to deliver the ticket. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'Two owners, two chefs, and a lot of pride. You\'ve heard a nice phrase for the end of the scene: "I\'ll personally oversee it".'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('nagiyev', 'Рад приветствовать вас в лучшем ресторане!', 'Delighted to welcome you to the finest restaurant!', [(280, 'рад приветствовать вас в лучшем ресторане')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Я лично прослежу за этим блюдом.', 'I will personally oversee this dish.', [], ''),
 ]
 WALK = [
-    (0, None, "'Delighted to welcome you to the finest restaurant!' Nagiyev greets his competitor with boastful hospitality."),
-    (1, None, "'We are opening our restaurant in two weeks.' Mark casually drops the timeline for his looming business threat."),
-    (2, None, "'Meet her, this is my chef Elena.' He introduces the secret weapon of his new culinary venture."),
-    (3, None, "'She worked at the very best restaurant.' Mark brags about his head cook's elite background."),
-    (4, None, "'And has your chef not fallen sick yet?' He takes a jab at the infamous drinking habits of his rival's boss."),
-    (5, None, "'Do not worry, my chef will outlive you.' Nagiyev defends his star talent with a dark, confident joke."),
-    (6, None, "'Vika, serve the hot dishes to the guests quickly!' He suddenly commands the manager to bring out the food."),
-    (7, None, "'Our guests have gotten very hungry.' Nagiyev playfully insists that the rivals are starving for a good meal."),
-    (8, None, "'Good day, they will bring everything right now.' Vika greets the table with perfectly polished charm."),
-    (9, None, "'Just make sure there is no pepper at all.' Mark unexpectedly dictates a strict dietary restriction."),
-    (10, None, "'Very well, I will notify the head chef immediately.' Vika promises to handle the allergy issue personally."),
-    (11, None, "'In the kitchen they are already preparing this order.' She reassures them that the meal is well underway."),
-    (12, None, "'In our kitchen the best masters work.' Nagiyev cannot resist bragging about his kitchen staff again."),
-    (13, None, "'I will personally oversee this dish.' Vika assures them that she will maintain absolute control over the plate."),
+    (0, None, '\'Delighted to welcome you to the finest restaurant!\' "Rad" is "glad", used for "delighted". "Privetstvovat\'", "to welcome", has "privet", hi, inside it.'),
+    (1, None, '\'We are opening our restaurant in two weeks.\' "Cherez dve nedeli" is "in two weeks", literally "through two weeks". "Dve" is the feminine "two", because "nedelya" is feminine.'),
+    (2, None, '\'Meet her, this is my chef Elena.\' "Poznakomsya" is "get acquainted", from "znakomyy", familiar. Elena is a woman, but "povar" stays masculine, so Mark says "moy shef-povar", not a feminine form.'),
+    (3, None, '\'She worked at the very best restaurant.\' "Rabotala", "worked", ends in "-la" because Elena is a woman. "V samom luchshem restorane" is almost word for word what Max said about his interview restaurant, so you already know it.'),
+    (4, None, '\'And has your chef not fallen sick yet?\' "Zabolel" is "fell ill", from "bolet\'", to hurt or be ill. "Yeshchyo ne" is "not yet". "Tvoy" is the friendly "your".'),
+    (5, None, '\'Do not worry, my chef will outlive you.\' "Perezhivyot" is "pere-", over, plus "zhit\'", to live: outlive. "Ne volnuysya" is the friendly "don\'t worry".'),
+    (6, None, '\'Vika, serve the hot dishes to the guests quickly!\' "Skoreye" is "faster", the word from the coffee invitation. "Podavay" is "serve", and "goryachiye blyuda" is plural, "hot dishes".'),
+    (7, None, '\'Our guests have gotten very hungry.\' "Progolodalis\'" has "golod", hunger, inside it, and the whole word means "got hungry". The "-li" in it is the plural, for the guests, and "-s\'" is the "self" bit the verb always carries.'),
+    (8, None, '\'Good day, they will bring everything right now.\' "Prinesut" is "they will bring", with no subject. Russian uses an unnamed "they" for staff, like English "they\'ll bring it".'),
+    (9, None, '\'Just make sure there is no pepper at all.\' "Chtoby" is "so that", introducing what he wants. "Ne bylo pertsa" is "there not be of pepper", with an "of" ending on "perets".'),
+    (10, None, '\'Very well, I will notify the head chef immediately.\' "Nemedlenno" is "ne" plus "medlenno", slowly: not slowly, so immediately. "Preduprezhu" is "I will warn", in one word.'),
+    (11, None, '\'In the kitchen they are already preparing this order.\' "Gotovyat" is "they prepare", again with no named subject. "Zakaz" is "order", the word the chef used in "according to your order".'),
+    (12, None, '\'In our kitchen the best masters work.\' "U nas na kukhne" is "at us on the kitchen", Russian for "in our kitchen". "Mastera" is a plural in "-a", like "povara", cooks.'),
+    (13, None, '\'I will personally oversee this dish.\' "Proslezhu" is "I\'ll see to it", the same verb as "prosledi" at the stove. After "za", "eto blyudo" becomes "etim blyudom": over this dish.'),
 ]

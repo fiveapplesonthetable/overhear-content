@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Walking into Claude Monet's kitchen to investigate the slowdown, Victoria is stunned to discover a gaping empty space where the primary cooking stove should be. When she angrily confronts Chef Barinov, he concocts ridiculous excuses about technical diagnostics before Victoria threatens to call the owner. Let's listen to their confrontation in Russian."
-OPENER = "Let's explore how Victoria interrogates Chef Barinov over the sudden disappearance of essential kitchen equipment."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = 'Vika has seen the empty space where the stove used to be, and she is not amused. Barinov spins a story about repairs and handles. Let the Russian wash over you first.'
+OPENER = 'Time to look at it properly.'
+TRANSITION = 'Now, from the top, in one go.'
+OUTRO = "Vika threatens to phone the owner, and Barinov says he will sort it out. He has no idea how. That's all for now."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Что здесь происходит? Где наша плита?', 'What is happening here? Where is our stove?', [(144, 'Что такое?'), (145, 'Где наша плита?')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Не надо никому звонить, я разберусь.', 'No need to call anyone, I will sort it out.', [], ''),
 ]
 WALK = [
-    (0, None, "'Our stove has now gone for diagnostics.' Barinov repeats his lie to her."),
-    (1, None, "'It did not have time to leave you a note!' An absurd comedic excuse attributing human actions to an inanimate appliance for the listener."),
-    (2, None, "'Stop clowning around and return it immediately!' Vika demands the equipment back immediately."),
-    (3, None, "'I will call Dmitry Nagiyev right now.' Vika threatens to call 'Dmitry Nagiyev'."),
+    (0, None, '\'What is happening here? Where is our stove?\' "Proiskhodit" is "is happening", the same word as before. "Gde nasha plita" has no "is" at all. Vika has found an empty place in the kitchen.'),
+    (1, None, '\'Our stove has now gone for diagnostics.\' The stove "uekhala", "drove away", the word for leaving by vehicle. "Diagnostika" is a borrowed technical word. Barinov sounds like a doctor and a car mechanic at once.'),
+    (2, None, '\'Its main handle simply broke down.\' "Ruchka", "handle", is a small form of "ruka", "hand". "Slomalas" has the -sya, "broke itself". "U neyo", "at her", is how Russian says "its" for the stove.'),
+    (3, None, '\'Why am I finding out about this last?\' "Posledney", "last", has a feminine ending, because Vika is speaking about herself. "Uznayu" is "I find out", the word Kostya used for Max.'),
+    (4, None, '\'It did not have time to leave you a note!\' "Uspela" is "had time", a single word in Russian, with -la because the stove is "she". "Zapiska" is a note. Barinov\'s sarcasm is dry, and it\'s a bad idea.'),
+    (5, None, '\'But the stove asked you not to worry.\' "Prosila" is the same "asked" as in the invented goodbye message. "Ne volnovatsya" is "not to worry". Barinov keeps up the joke with a straight face.'),
+    (6, None, '\'Stop clowning around and return it immediately!\' "Payasnichat", "clown around", comes from "payats", "clown". "Nemedlenno" is "immediately", literally "without delay". Vika is angry, but she still uses the polite "you".'),
+    (7, None, '\'The repairmen promise to return everything very soon.\' "Mastera", "masters", is the word for craftsmen and repairmen. "Obeshchayut" is "promise", the word Louis used about his cake. Each lie needs another.'),
+    (8, None, '\'On what should the cooks prepare hot food?\' "Goryachee" is "hot" with a neuter ending, and alone it means "hot dishes". "Na chyom" is the cook\'s "on what" again.'),
+    (9, None, '\'We have a small electric burner.\' "U nas est", "at us there is", is the pattern for having a thing. "Elektricheskaya" is easy to recognise. Barinov\'s answer to the problem is a toy.'),
+    (10, None, '\'This is a top-class restaurant, not a canteen!\' "Stolovaya", "canteen", comes from "stol", "table", and it\'s the plain cafeteria of a factory or school. "Vysshego klassa" is "of the highest class".'),
+    (11, None, '\'I will call Dmitry Nagiyev right now.\' "Seychas zhe" is "right this minute". "Pozvonyu" is "I will call", "zvonit" with po-. "Dmitriyu" is Dmitry\'s name with -yu, "to Dmitry": you phone "to" someone.'),
+    (12, None, '\'No need to call anyone, I will sort it out.\' "Nikomu", "to nobody", sits with "ne nado" as a double negative. "Razberus", "I will sort it out", comes from "razbirat", "take apart". We know he won\'t.'),
 ]

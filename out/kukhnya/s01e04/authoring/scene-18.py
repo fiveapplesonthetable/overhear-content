@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "Chef Viktor Barinov storms into the rival restaurant Arcobaleno to confront chef Elena Pavlovna. Furious that one of his Claude Monet cooks applied for a job there, he demands to know the applicant's identity. Elena playfully refuses to give up the cook's name and politely shows Barinov the door. Let's listen to their fiery confrontation in Russian."
-OPENER = "Let's analyze this dramatic rivalry line by line. Observe the proud tone and formal professional banter between competing culinary masters."
+INTRO = "Chef Barinov marches into the rival restaurant to find Elena Sokolova, determined to find out which of his cooks came to her for a job. Elena has no intention of telling him. Here's the Russian first."
+OPENER = "Let's go through the standoff."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Barinov leaves empty-handed, but determined to uncover the traitor in his own kitchen. Great job following this intense culinary confrontation! Next time you watch the episode, listen for the Russian expressions for 'question' and 'exit' — you will catch every word right away. See you next time!"
+OUTRO = 'Barinov leaves without a name, but he\'s determined to find the traitor himself. Take away "vsego vam dobrogo", the Russian way to say "all the best".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'У меня к вам совсем простой вопрос.', 'I have a very simple question for you.', [(251, 'простой вопрос')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Вот и отлично, всего вам доброго!', 'Wonderful then, all the best to you!', [(263, 'Ну и хорошо')], ''),
 ]
 WALK = [
-    (0, None, "'I have a very simple question for you.' Barinov states he has a very simple question."),
-    (1, None, "'From one head chef to another?' Elena asks if it is from one head chef to another."),
-    (2, None, "'Which of my cooks came to see you?' Barinov demands to know which of his cooks visited her."),
-    (3, None, "'I do not rat out my people, Viktor.' Elena refuses to betray her people."),
-    (4, None, "'He is my cook, not yours!' Barinov insists the cook belongs to him."),
-    (5, None, "'He wants to work in a good kitchen.' Elena explains the cook just wants to work in a good kitchen."),
-    (6, None, "'I have the best kitchen in this city!' Barinov proudly claims his kitchen is the best in the city."),
-    (7, None, "'Then why are your people looking for work?' Elena questions why his staff would look for work elsewhere then."),
-    (8, None, "'I will definitely find out his name myself!' Barinov vows to discover the name himself."),
-    (9, None, "'It is time for me to go to the kitchen.' Elena notes it is time for her to return to work."),
-    (10, None, "'Will you find the way out yourself?' Elena asks if he can find his own way out."),
-    (11, None, "'I will, I remember the way very well.' Barinov confirms he remembers the route perfectly."),
-    (12, None, "'Wonderful then, all the best to you!' Elena bids him a cheerful goodbye."),
+    (0, None, '\'I have a very simple question for you.\' "U menya k vam vopros" is "at me to you a question". "Prostoy" is "simple", the adjective behind "prosto".'),
+    (1, None, '\'From one head chef to another?\' "Kak u shef-povara k shef-povaru" is "as at a head chef to a head chef", with -a for "at" and -u for "to".'),
+    (2, None, '\'Which of my cooks came to see you?\' "Kto iz moikh povarov" is "who of my cooks". "Prikhodil", came, describes a trip there and back, which makes it a visit.'),
+    (3, None, '\'I do not rat out my people, Viktor.\' "Sdavat\'" is to hand over, to the police or to an examiner. "Svoikh lyudey" is "my own people".'),
+    (4, None, '\'He is my cook, not yours!\' "A ne vash" is "and not yours". The little "a" sets one claim against the other.'),
+    (5, None, '\'He wants to work in a good kitchen.\' Russians work "na kukhne", on the kitchen. "Khoroshey" takes -ey to match.'),
+    (6, None, '\'I have the best kitchen in this city!\' "Luchshaya", best, is feminine for "kukhnya". "V etom gorode" is "in this city".'),
+    (7, None, '\'Then why are your people looking for work?\' "Ishchut" is "they look for", from "iskat\'". "Vashi lyudi" is "your people".'),
+    (8, None, '\'I will definitely find out his name myself!\' "Obyazatel\'no" is "definitely". "Yego", his, never changes, and "uznayu" is "I\'ll find out".'),
+    (9, None, '\'It is time for me to go to the kitchen.\' "Mne pora" is "to me it\'s time". "Na kukhnyu" takes -u for heading there.'),
+    (10, None, '\'Will you find the way out yourself?\' "Vykhod", exit, is "vy-", out, plus "khod", a going. "Sami", yourself, is the polite plural of "sam".'),
+    (11, None, '\'I will, I remember the way very well.\' Russian answers by repeating the verb, "naydu", I\'ll find. "Dorogu" is "doroga", road, as the object.'),
+    (12, None, '\'Wonderful then, all the best to you!\' "Vsego dobrogo" is "of all good", a wish in the "of" form. It is a polite goodbye.'),
 ]

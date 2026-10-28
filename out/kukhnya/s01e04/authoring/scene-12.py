@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "Terrified of the lie detector machine in Barinov's office, line cook Senya completely breaks down before the sensors are even attached. Instead of answering questions about rival restaurant Arcobaleno, Senya frantically confesses to every scrap of food he ever pilfered from the kitchen. Let's listen to his hilarious confession in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
+INTRO = 'Senya is next in the chair, and he breaks down before the machine is even switched on. Instead of answering about the rival restaurant, he starts confessing to every bit of food he has ever taken from the kitchen. Here is the Russian first.'
+OPENER = 'Now the confession.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Barinov stares in disbelief at his sobbing cook before deciding what to do next. Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'more' — you will catch every word right away. See you next time!"
+OUTRO = 'Barinov stares at his sobbing cook and decides what to do next. You\'ve heard "klyanus\'", "I swear", which is a good one to know.'
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Шеф, пожалуйста, не включайте прибор!', 'Chef, please, do not turn on the device!', [(146, 'Шеф, пожалуйста')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('senya', 'Нет! Я предан только вам!', 'No! I am loyal only to you!', [(154, 'Нет')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, please do not turn on the device!' Senya begs, sweating profusely before the machine is even attached."),
-    (1, None, "'I took this fish after the banquet!' Panicking before the machine is even turned on, Senya blurts out a confession about the banquet fish."),
-    (2, None, "'And the half-kilo of expensive caviar?' Chef Barinov presses, seizing the chance to uncover other thefts."),
-    (3, None, "'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more."),
+    (0, None, '\'Chef, please, do not turn on the device!\' "Ne vklyuchayte" is "don\'t switch on", with the polite -te. "Pribor" is a device or gauge.'),
+    (1, None, '\'Why are you shaking so hard?\' "Ty chego" is a spoken "why are you". "Drozhish\'" is "you tremble", and "sil\'no" is "strongly".'),
+    (2, None, '\'I will tell you everything honestly myself!\' "Sam" is "myself", here "of my own accord". "Rasskazhu" is "I\'ll tell", and "chestno" is "honestly".'),
+    (3, None, '\'I took that fish after the banquet!\' "Vzyal ya" is "took I", with "ya" last for emphasis. "Posle banketa" is "after the banquet".'),
+    (4, None, '\'And I took that venison away too!\' "Olenina", venison, is from "olen\'", deer. "Unyos" is "carried off", with "u-" for away.'),
+    (5, None, '\'And half a kilo of expensive caviar?\' "Polkilo" is "pol-", half, plus "kilo". After it, "dorogaya ikra" becomes "dorogoy ikry".'),
+    (6, None, '\'No, Chef, I did not take the caviar!\' Senya puts "ikru" first for stress: the caviar, I did not take. "Ne bral" is "didn\'t take".'),
+    (7, None, '\'Forgive me, please, Chef!\' "Prostite menya" is "forgive me" with the polite -te.'),
+    (8, None, '\'I do not care about your venison!\' "Mne plevat\'" is "to me to spit", a blunt "I couldn\'t care less". "Na tvoyu oleninu" is what he spits on.'),
+    (9, None, '\'Did you go to the neighboring restaurant?\' The same question Fedya got: "khodil", went and came back.'),
+    (10, None, '\'No, Chef, I swear to you!\' "Klyanus\'" is "I swear", with -s\'. "Vam" is "to you", polite.'),
+    (11, None, '\'Tell the truth, yes or no?\' "Govori pravdu" is "speak the truth", with "pravda" becoming "pravdu" as the object.'),
+    (12, None, '\'No! I am loyal only to you!\' "Predan" is the man\'s short "devoted". "Tol\'ko vam" is "only to you".'),
 ]

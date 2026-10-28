@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "During a high-pressure rush at Claude Monet, Chef Viktor Barinov barks orders across the kitchen line. Noticing that Max is missing from his station, Barinov searches the back storage area and discovers him sound asleep on vegetable crates. Caught red-handed, Max struggles to excuse his midday nap. Let's listen to their fiery confrontation in Russian first."
-OPENER = "Now let's examine Barinov and Max's heated storage room exchange line by line."
+INTRO = "The kitchen is in the middle of a rush, and Chef Barinov can't find Max. He searches the back store and finds him fast asleep on vegetable crates in the dark. Here's the confrontation in Russian first."
+OPENER = "Let's go back and see how Max defends himself."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+OUTRO = 'Max\'s excuse is a fancy foreign word, and the chef is not impressed. Keep the verb "vstavay", "get up", which comes back in the next scene.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'На кухне сегодня страшная спешка!', 'There is a terrible rush in the kitchen today!', [(21, 'Быстрее, девочки, двигаемся')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Уже встаю, шеф, всё понял.', 'Already getting up, chef, understood everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'There is a terrible rush in the kitchen today!' Barinov says there is a terrible rush in the kitchen today."),
-    (1, None, "'Chef, I did not hear your shouts.' Max claims he did not hear his shouts."),
-    (2, None, "'What are you doing here in the dark?' The chef asks what he is doing here in the dark."),
-    (3, None, "'I simply lay down for five minutes.' He explains he simply lay down for five minutes."),
-    (4, None, "'Oguzok, are you sleeping right on the crates?!' Barinov asks Oguzok if he is sleeping right on the crates."),
-    (5, None, "'Forgive me, chef, I was very tired.' Max apologizes to the chef and says he was very tired."),
-    (6, None, "'You have a daytime work shift going on!' He reminds him he has a daytime work shift going on."),
-    (7, None, "'I could not fall asleep all night.' Max says he could not fall asleep all night."),
-    (8, None, "'Your nights do not concern me at all.' Barinov says his nights do not concern him at all."),
-    (9, None, "'Probably I have difficult acclimatization.' He guesses he is having difficult acclimatization."),
-    (10, None, "'What on earth kind of acclimatization?!' The chef asks what on earth kind of acclimatization he means."),
-    (11, None, "'Now get up immediately and go to work!' Barinov orders him to get up immediately and go to work."),
-    (12, None, "'Already getting up, chef, understood everything.' Max says he is already getting up and understands everything."),
+    (0, None, '\'There is a terrible rush in the kitchen today!\' "Strashnaya", terrible, grows out of "strakh", fear. "Speshka", a rush, belongs with "speshit\'", to hurry.'),
+    (1, None, '\'Chef, I did not hear your shouts.\' After "ne slyshal", the thing not heard takes the "of" form, so "kriki" becomes "krikov". "Slyshal" ends in -l for a man.'),
+    (2, None, '\'What are you doing here in the dark?\' "V temnote" is "in darkness", from "temnyy", dark. "Ty chto delayesh\'" uses the familiar "ty".'),
+    (3, None, '\'I simply lay down for five minutes.\' "Prilyog" is "lyog", lay down, with "pri-" for doing it briefly. "Na pyat\' minut" uses "na" for a planned stretch of time.'),
+    (4, None, '\'Oguzok, are you sleeping right on the crates?!\' "Na yashchikakh" is "yashchiki", crates, with the plural -akh after "na". "Spish\'" is "you sleep", from "spat\'".'),
+    (5, None, '\'Forgive me, chef, I was very tired.\' "Ustal" is the man\'s "got tired", and a woman would say "ustala". "Prostite" is "forgive" with the polite -te.'),
+    (6, None, '\'You have a daytime work shift going on!\' "Dnevnaya", daytime, comes from "den\'", day. "Idyot", it goes, is how Russian says something is under way.'),
+    (7, None, '\'I could not fall asleep all night.\' "Vsyu noch\'", the whole night, needs no word for "during". "Zasnut\'" is "spat\'" with "za-" for the start: to fall asleep.'),
+    (8, None, '\'Your nights do not concern me at all.\' "Nochi", nights, is the subject, so "volnuyut", worry, is plural. "Ne volnuysya", don\'t worry, is from the same verb.'),
+    (9, None, '\'Probably I have difficult acclimatization.\' "Navernoye" is "probably". "Akklimatizatsiya" is a borrowed word, and "slozhnaya", difficult, is feminine to match it.'),
+    (10, None, '\'What on earth kind of acclimatization?!\' "Kakaya yeshchyo", what further, mocks a word someone just used. "K chyortu" is "to the devil", a mild curse.'),
+    (11, None, '\'Now get up immediately and go to work!\' "A nu" is a push, "come on now". "Zhivo" is "look lively", "vstavay" is "get up", and "idi rabotat\'" is "go work".'),
+    (12, None, '\'Already getting up, chef, understood everything.\' The present "vstayu" covers "I\'m getting up". "Vsyo ponyal" is "understood everything", with no "I".'),
 ]

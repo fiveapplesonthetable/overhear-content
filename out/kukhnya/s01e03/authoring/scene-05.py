@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Max runs into the kitchen terrified that Vika's ex-husband, a powerful prosecutor, will destroy him. Chef Viktor Barinov does not offer much sympathy and jokingly begins reciting Max's eulogy. Listen to the story in Russian first, and then we will review each line."
-OPENER = "Let's review this funny kitchen panic step by step."
+INTRO = "Max rushes into the kitchen in a panic. A prosecutor, Vika's ex-husband, is after him, and he tells the chef. Barinov has little sympathy, and starts speaking about Max as though he were already dead. This is the Russian first."
+OPENER = "Now let's go over the chef's joke."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "That concludes our fifth scene. In Kukhnya, Chef Barinov's cynical wit is always on display, even when his staff is in serious trouble. See you next time!"
+OUTRO = 'The chef sends Max back to work, which is the best advice a cynic can give. You\'ve learned the phrase for "you don\'t joke with a prosecutor".'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Шеф, у меня большие проблемы.', 'Chef, I have big problems.', [], ''),
-    ('barinov', 'Что опять стряслось, огузок?', 'What happened again, runt?', [], ''),
+    ('barinov', 'Что опять стряслось, огузок?', 'What happened again, Oguzok?', [], ''),
     ('max', 'Меня ищет грозный прокурор.', 'A terrible prosecutor is looking for me.', [], ''),
     ('barinov', 'И за что же он тебя ищет?', 'And why is he looking for you?', [], ''),
     ('max', 'Он знает про меня и Вику.', 'He knows about me and Vika.', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Иди работай и не болтай.', 'Go work and do not chat.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I have big problems.' Deep trouble brings the frantic cook straight into his manager's office."),
-    (1, None, "'What happened again, runt?' Barinov groans and asks what disaster his subordinate has caused this time."),
-    (2, None, "'A terrible prosecutor is looking for me.' A frightening legal official is actively hunting down the newest kitchen staff member."),
-    (3, None, "'And why is he looking for you?' Discovering the exact nature of the supposed crime takes some prodding."),
-    (4, None, "'He knows about me and Vika.' Max reveals that the official has discovered his secret workplace romance."),
-    (5, None, "'You slept with someone else's woman?' Connecting the dots leads to the realization of a dangerous affair with a married woman."),
-    (6, None, "'I did not know that she is married.' Ignorance of her marital status serves as the only possible defense."),
-    (7, None, "'He was the most talented cook.' Barinov sarcastically eulogizes his employee's culinary potential."),
-    (8, None, "'Whom I ever knew.' Acting as if the young man is already gone adds a dark humor to the moment."),
-    (9, None, "'Chef, are you already burying me?' Max asks in a panic if his boss truly believes his life is over."),
-    (10, None, "'You don't mess with a prosecutor.' Powerful legal figures make incredibly dangerous enemies in any scenario."),
-    (11, None, "'He will quickly send you behind bars.' A swift trip to prison seems like the most likely outcome here."),
-    (12, None, "'What should I do now?' Desperate pleas for survival advice fall on deaf ears."),
-    (13, None, "'Go work and do not chat.' Barinov heartlessly commands him to stop whining and get back to his kitchen duties."),
+    (0, None, '\'Chef, I have big problems.\' "U menya", "at me", is the Russian "I have". "Bol\'shiye problemy" puts the plural -iye and -y on both words.'),
+    (1, None, '\'What happened again, Oguzok?\' "Stryaslos\'" is a colloquial "happened", kept for unpleasant surprises. "Opyat\'" is "again", and the chef uses his nickname for Max.'),
+    (2, None, '\'A terrible prosecutor is looking for me.\' "Menya ishchet" puts "me" first, then "looks for". "Groznyy" is the tsar\'s title that English gives as "the Terrible", and it means fearsome.'),
+    (3, None, '\'And why is he looking for you?\' "Za chto" is "for what", the "why" you ask about a punishment. "Zhe" sharpens the question.'),
+    (4, None, '\'He knows about me and Vika.\' "Pro" is the spoken word for "about". After it, "Vika" becomes "Viku", and "ya" becomes "menya".'),
+    (5, None, '\'You slept with someone else\'s woman?\' "Spal s" is "slept with", and after "s" the words take -oy: "s chuzhoy zhenshchinoy". "Chuzhoy" is "someone else\'s".'),
+    (6, None, '\'I did not know that she is married.\' "Zamuzhem", for a woman, is "za muzhem", behind a husband. A married man is "zhenat", from "zhena", wife.'),
+    (7, None, '\'He was the most talented cook.\' "Eto byl" is "this was", and Barinov talks about Max in the past. "Samyy talantlivyy" is "the most talented".'),
+    (8, None, '\'Whom I ever knew.\' "Kotorogo", whom, is "kotoryy" in its object shape for a person. "Kogda-libo" is "ever", "kogda", when, with -libo.'),
+    (9, None, '\'Chef, are you already burying me?\' Max says "vy" to the chef. "Khoronite" is "you bury", and "uzhe" is "already".'),
+    (10, None, '\'You don\'t mess with a prosecutor.\' "S prokurorom shutki plokhi" is "with a prosecutor jokes are bad". It\'s a fixed phrase, and "prokuror" can be swapped for anyone dangerous.'),
+    (11, None, '\'He will quickly send you behind bars.\' "Za reshyotku" is "behind the grille", which means prison. "Otpravit" is "will send".'),
+    (12, None, '\'What should I do now?\' "Chto mne delat\'?" is "what to me to do?", the pattern for asking advice. "Teper\'" is "now", and "zhe" adds despair.'),
+    (13, None, '\'Go work and do not chat.\' "Idi rabotay" puts two commands side by side, "go" and "work". "Ne boltay" is "don\'t chatter", from "boltat\'".'),
 ]

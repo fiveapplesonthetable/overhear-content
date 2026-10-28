@@ -10,16 +10,16 @@ PAIR = 'ru-en'
 LABELS = {'diana': 'Диана', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the dining room, restaurant owner Dmitry Nagiyev greets his VIP guest Diana. She excitedly praises the handsome and sociable head chef she just met, unknowingly talking about Max instead of Chef Barinov. Confused but eager to please, Nagiyev agrees to her requests. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Diana and Nagiyev's confusing conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Eager to please his wealthy guest, Nagiyev blindly promises that the chef will cook live in the dining room, setting up a disastrous encounter with the real Barinov. Next time you watch the episode, listen for the Russian expressions for 'always' and 'perfectly' — you will catch every word right away. See you next time!"
+INTRO = 'A rich guest, Diana, is chatting with the owner, Nagiyev, in the dining room. She loves the head chef she just met, but he is talking about Barinov and she is talking about somebody else. Have a listen to them in Russian.'
+OPENER = 'Again, line by line.'
+TRANSITION = 'And the conversation, start to finish.'
+OUTRO = "Nagiyev promises that the chef will cook for her, without realising who she means. Hold on to 'v khoroshem nastroenii', in a good mood. Speak soon."
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Диана, вы как всегда прекрасно пахнете!', 'Diana, you smell wonderful as always!', [(152, 'Дианочка, как всегда, прекрасно, цветете, пахнете.')], ''),
     ('diana', 'Дмитрий, вы такой смешной.', 'Dmitry, you are so funny.', [(155, 'Невечка, вы такой смешной.')], ''),
     ('diana', 'Кстати, я уже познакомилась с шеф-поваром.', 'By the way, I already met the head chef.', [(156, 'мы уже познакомились с вашим шеф-поваром.')], ''),
-    ('nagiyev', 'Ой, Господи, и как он вам?', 'Oh, Lord, and how is he for you?', [(157, 'Ой, господи, а?')], ''),
+    ('nagiyev', 'Ой, Господи, и как он вам?', 'Oh, Lord, and what do you make of him?', [(157, 'Ой, господи, а?')], ''),
     ('diana', 'Он супер, просто такой красавчик!', 'He is super, just such a handsome man!', [(158, 'Он супер, такой красавчик.')], ''),
     ('nagiyev', 'Это вы вообще о ком говорите?', 'Who are you talking about anyway?', [(159, 'Это вы о ком?')], ''),
     ('diana', 'Он такой милый и очень общительный!', 'He is so sweet and very sociable!', [(161, 'Такой общительный!'), (162, 'И вообще просто душка.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nagiyev', 'Хорошо, он всё сделает для вас.', 'All right, he will do everything for you.', [], ''),
 ]
 WALK = [
-    (0, None, "'Diana, you smell wonderful as always!' Nagiyev warmly greets his VIP guest. He compliments her perfume."),
-    (1, None, "'Dmitry, you are so funny.' Diana playfully accepts the compliment. She calls Nagiyev a funny guy."),
-    (2, None, "'By the way, I already met the head chef.' She mentions her earlier encounter. Diana says she has already met the head chef."),
-    (3, None, "'Oh, Lord, and how is he for you?' Nagiyev is terrified by this news. He nervously asks what she thought of the drunken Barinov."),
-    (4, None, "'He is super, just such a handsome man!' Diana surprises him with praise. She calls the chef super and very handsome."),
-    (5, None, "'Who are you talking about anyway?' Nagiyev is completely baffled. He has no idea who she is actually talking about."),
-    (6, None, "'He is so sweet and very sociable!' Diana continues to describe her dream chef. She praises his sweet and sociable personality."),
-    (7, None, "'Probably, he is in a good mood today.' Nagiyev tries to make sense of the situation. He assumes Barinov is just having a good day."),
-    (8, None, "'I was gifted a book with French recipes.' Diana brings up her special request. She mentions a gift she received of French recipes."),
-    (9, None, "'This is a very interesting gift.' Nagiyev politely acknowledges the gift. He calls it a very interesting present."),
-    (10, None, "'Could he cook for us?' Diana asks for a favor. She wonders if the chef could cook something from it."),
-    (11, None, "'If he is in such a mood, yes.' Nagiyev cautiously agrees. He figures if the chef is in a good mood, it might work."),
-    (12, None, "'I want him to cook here!' Diana insists on her request. She really wants this specific chef to cook for them."),
-    (13, None, "'All right, he will do everything for you.' Nagiyev confidently promises to deliver. He assures her the chef will do everything she asks."),
+    (0, None, "'Diana, you smell wonderful as always!' 'Kak vsegda' is 'as always'. 'Pakhnete', you smell, ends in 'ete', the 'vy' ending, because Nagiyev is polite with a guest."),
+    (1, None, "'Dmitry, you are so funny.' She pairs his full first name with the polite 'vy', friendly but proper. 'Vy takoy smeshnoy' is literally 'you such funny', no 'are'."),
+    (2, None, "'By the way, I already met the head chef.' 'Kstati' is 'by the way'. You get acquainted 's', with, someone, so 'shef-povar' takes the 'with' ending 'om'. 'Poznakomilas' has the 'a' of a woman."),
+    (3, None, "'Oh, Lord, and what do you make of him?' 'Gospodi' is the old calling form of 'Gospod', 'the Lord', kept alive in this exclamation. 'Kak on vam?' is literally 'how is he to you?'."),
+    (4, None, "'He is super, just such a handsome man!' 'Krasavchik' shares its root with 'krasivy', handsome, and the 'chik' makes it playful, like 'a real looker'. 'Super' is borrowed and never changes."),
+    (5, None, "'Who are you talking about anyway?' 'O kom' is 'about whom': 'kto', who, turns into 'kom' after 'o'. 'Vobshche', literally 'in general', here gives the 'anyway'."),
+    (6, None, "'He is so sweet and very sociable!' 'Obshchitelny', sociable, is from 'obshchatsya', to chat or mix with people. 'Mily' is 'sweet' or 'nice' about a person."),
+    (7, None, "'Probably, he is in a good mood today.' 'V khoroshem nastroenii' is 'in a good mood'. After 'v', in, both words change their endings: 'khoroshee' becomes 'khoroshem' and 'nastroenie' becomes 'nastroenii'."),
+    (8, None, "'I was gifted a book with French recipes.' 'Mne podarili' is literally 'to me they gifted', with no one named; Russian uses the 'they' form for this. 'Knigu', book, takes 'u' as the thing given."),
+    (9, None, "'This is a very interesting gift.' 'Podarok', gift, comes from the same verb as 'podarili' in the line before. 'Interesny' ends in 'y' to match it, a masculine noun."),
+    (10, None, "'Could he cook for us?' 'Mog by' is 'could', the past tense 'mog' plus 'by', and it softens a request. 'Dlya nas' is 'for us'."),
+    (11, None, "'If he is in such a mood, yes.' Here's the same mood phrase again, now with 'takom', the 'in' form of 'takoy', such. 'Esli' is 'if'."),
+    (12, None, "'I want him to cook here!' Literally, 'I want so that he cooked here'. After 'chtoby' the verb takes the past form, 'gotovil', though she means the future."),
+    (13, None, "'All right, he will do everything for you.' 'Sdelaet' is 'will do', a future in one word. 'Dlya vas' is 'for you', the polite 'vy' again."),
 ]

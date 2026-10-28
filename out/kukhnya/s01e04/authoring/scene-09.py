@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = 'At the hot line of Claude Monet, Chef Viktor Barinov demands a status report from Max about the soup order. Warning his young cook against foolish errors, the Chef orders him to start cooking immediately without distractions. Listen to their conversation in Russian first.'
-OPENER = "Let's examine this intense kitchen inspection line by line."
+INTRO = 'At the stove, Chef Barinov checks that Max has understood the order for the soup. He warns him against mistakes, and then tells him to stop talking and get started. Here is the Russian first.'
+OPENER = "Now let's listen to the chef's checking."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Under the watchful eye of Chef Barinov, Max takes full charge of the soup station. See you next time!'
+OUTRO = 'Max is on his own at the soup station, with the chef watching. Notice "khvatit", "enough", one of the chef\'s favourite words.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Лавров, ты всё понял по заказу?', 'Lavrov, did you understand everything about the order?', [(98, 'ты все понял')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Посмотрим, какой ты повар на деле.', 'We will see what kind of cook you are in practice.', [], ''),
 ]
 WALK = [
-    (0, None, "'Lavrov, did you understand everything about the order?' Barinov questions the new cook to ensure clarity."),
-    (1, None, "'Yes, Chef, I understood everything perfectly!' Eagerly confirming, the cook says he knows exactly what to do."),
-    (2, None, "'The soup must be ideal and hot.' High standards are required for the dish."),
-    (3, None, "'I use the best vegetables and cream.' Mentioning his ingredients, the cook promises top quality."),
-    (4, None, "'Our guests do not tolerate foolish mistakes.' The customers are very demanding."),
-    (5, None, "'I guarantee the flawless taste of this dish.' Perfection is guaranteed for this meal."),
-    (6, None, "'Stop chattering away, Lavrov.' Telling the young cook to quiet down, the chef shows impatience."),
-    (7, None, "'Well get to work quickly!' Orders are given to begin the task immediately."),
-    (8, None, "'Already starting to cook right now, Chef!' Max springs into action and announces his start."),
-    (9, None, "'And watch this stove attentively!' Keeping a close eye on the heat is crucial."),
-    (10, None, "'I will not step away from it anywhere!' Max springs to action and grabs the pan."),
-    (11, None, "'We will see what kind of cook you are in practice.' A challenge is issued to prove actual culinary skills."),
+    (0, None, '\'Lavrov, did you understand everything about the order?\' Barinov calls Max by his surname, "Lavrov", as a stern boss does. "Po zakazu" is "on the order", meaning about it.'),
+    (1, None, '\'Yes, Chef, I understood everything perfectly!\' "Ponyal" ends in -l for a man. "Otlichno", perfectly, is the adverb of "otlichnyy", excellent.'),
+    (2, None, '\'The soup must be ideal and hot.\' "Dolzhen byt\'" is "must be", and after it both adjectives take -ym or -im: "ideal\'nym", "goryachim".'),
+    (3, None, '\'I use the best vegetables and cream.\' "Ispol\'zuyu" is "I use", from "pol\'za", benefit. "Luchshiye", the best, is plural for "ovoshchi i slivki".'),
+    (4, None, '\'Our guests do not tolerate foolish mistakes.\' "Terpyat" is "they put up with", from "terpet\'", to endure. After "ne", "oshibki" becomes the "of" form "oshibok", and "glupyye" becomes "glupykh".'),
+    (5, None, '\'I guarantee the flawless taste of this dish.\' "Bezuprechnyy" is "bez", without, plus "uprek", reproach. "Etogo blyuda" is "of this dish".'),
+    (6, None, '\'Stop chattering away, Lavrov.\' "Khvatit", enough, is a verb meaning "it suffices". "Boltat\' yazykom" is "to wag with the tongue", and "yazyk" means both tongue and language.'),
+    (7, None, '\'Well get to work quickly!\' "Pristupay k" is "set about", and "k rabote" puts -e on "rabota" after "k". "Skoreye" is "quicker".'),
+    (8, None, '\'Already starting to cook right now, Chef!\' "Nachinayu" is the plain present, "I start", which also covers "I\'m starting". "Pryamo seychas" is "right now".'),
+    (9, None, '\'And watch this stove attentively!\' "Sledi za" is "follow behind", meaning keep an eye on. After "za", "plita" becomes "plitoy", and "eta" becomes "etoy".'),
+    (10, None, '\'I will not step away from it anywhere!\' "Ot neyo" is "from her", since the stove is feminine, with an "n" added after "ot". "Otoydu" is "I\'ll step away", and "nikuda" doubles the negative.'),
+    (11, None, '\'We will see what kind of cook you are in practice.\' "Posmotrim" is "we\'ll see". "Na dele" is "in the deed", meaning in practice.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = 'In the restaurant locker room, pranksters Senya and Fedya set up an elaborate trick for rookie Max. They pretend that health inspectors require all cooks to shave their arms completely bare before the shift. Listen to their hilarious conversation in Russian first, and then we will examine every line.'
-OPENER = "Let's examine this hilarious locker room prank line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our fifth scene. In Kukhnya, trusting senior cooks about sanitation rules is a guaranteed recipe for personal embarrassment. See you next time!'
+INTRO = "In the cooks' changing room at Claude Monet, Senya and Fedya, the two kitchen pranksters, have a new victim: Max, who has only just joined. They tell him a health inspection is coming and that cooks have to shave their arms. It's in Russian first, and you're about to hear a story that is complete nonsense."
+OPENER = 'Now through it slowly. Notice how serious the two of them sound.'
+TRANSITION = "Here's the whole prank again, without stopping."
+OUTRO = '"Brit", to shave, and "britva", razor, aren\'t words you\'ll need every day, but "da ladno", come on, and "gluposti", nonsense, are. See you next time.'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Привет, парни! Как ваши дела?', 'Hello, guys! How are your things?', [(33, 'Салют'), (34, 'Как сам')], ''),
@@ -32,21 +32,18 @@ STORY = [
     ('max', 'Спасибо, Федя, я быстро всё побрею.', 'Thank you, Fedya, I will quickly shave everything.', [(47, 'Спасибо')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, guys!' Walking in cheerfully, Max greets his colleagues before the shift."),
-    (1, None, "'How are your things?' Max casually checks in on them before unpacking his things."),
-    (2, None, "'Senya, are you nearly done?' Holding a can of shaving cream, Fedya pretends to be in a rush."),
-    (3, None, "'I need the foam!' Fedya demands the shaving supplies to sell the prank to the rookie."),
-    (4, None, "'I will just shave my right arm, and that's it.' Playing along, Senya acts like shaving his forearms is a normal routine."),
-    (5, None, "'And what are you doing?' Stopping in his tracks, Max is completely bewildered by their strange behavior."),
-    (6, None, "'Shaving your arms?' Max asks for confirmation, unable to believe his eyes."),
-    (7, None, "'Today is the fifteenth, a big sanitary inspection!' Inventing a fake inspection, Fedya attempts to panic Max."),
-    (8, None, "'Hair must not fall into the food!' Earnestly reciting a fake hygiene rule, Senya backs up their charade."),
-    (9, None, "'Come on, this is complete nonsense!' Laughing it off initially, Max suspects they are messing with him."),
-    (10, None, "'This is a strict rule of the sanitary inspection.' With a deadpan face, Fedya insists the requirement is mandatory."),
-    (11, None, "'If they find even one hair — you'll be fired immediately!' Raising the stakes, Senya threatens extreme disciplinary action."),
-    (12, None, "'Why didn't you warn me earlier?' Falling for the lie, Max panics over being unprepared."),
-    (13, None, "'I don't even have a razor with me.' Max frantically realizes he lacks the tools to comply with the fake rule."),
-    (14, None, "'All right, runt, take my razor.' He magnanimously, Fedya offers his own gear to trap Max completely."),
-    (15, None, "'For arms I don't mind the razor at all.' Fedya adds a humorous detail to ensure the prank goes all the way."),
-    (16, None, "'Thank you, Fedya, I will quickly shave everything.' Gratefully accepting the trap, Max rushes to shave himself completely bare."),
+    (0, None, '\'Hello, guys! How are your things?\' "Parni", guys, is more than one "paren", young man. "Kak dela", \'how are things\', is the question for a friend, and Max says "vashi", your, because he\'s talking to two people.'),
+    (1, None, '\'Senya, are you nearly done? I need the foam!\' "Ty skoro", \'you soon?\', has no verb at all, and it\'s exactly how you\'d hurry someone. "Mne nuzhna pena" is literally \'to me is needed foam\'.'),
+    (2, None, '\'I will just shave my right arm, and that\'s it.\' "Ruka" is both \'arm\' and \'hand\'; Russian doesn\'t split them. "I vsyo", \'and all\', means \'and that\'s it\'.'),
+    (3, None, '\'And what are you doing? Shaving your arms?\' "Breete", you shave, comes from "brit", which changes its stem: "ya breyu", "vy breete". Max\'s second question is just two words and a rising voice.'),
+    (4, None, '\'Today is the fifteenth, a big sanitary inspection!\' Russians give a date with "chislo", number: "pyatnadtsatoe chislo", \'the fifteenth number\'. "Proverka", check, is what Russians call any inspection.'),
+    (5, None, '\'Hair must not fall into the food!\' "Volosy", hair, is plural in Russian, like \'hairs\', so "dolzhny", must, is plural too. "V edu", into the food, takes -u because it\'s movement into.'),
+    (6, None, '\'Come on, this is complete nonsense!\' "Da ladno vam" is \'come off it, you two\'. "Gluposti", nonsense, is literally \'stupidities\', more than one "glupost", from "glupyy", stupid.'),
+    (7, None, '\'This is a strict rule of the sanitary inspection.\' "Inspektsiya" becomes "inspektsii" for \'of the inspection\'. Fedya sounds like he\'s reading from an official notice.'),
+    (8, None, '\'If they find even one hair — you\'ll be fired immediately!\' "Naydut" and "uvolyat", they\'ll find and they\'ll fire, come with no \'they\': nobody in particular, just \'the authorities\'. One hair is "volos", without the -y.'),
+    (9, None, '\'Why didn\'t you warn me earlier?\' "Predupredili", you warned, starts with pred-, \'before\', so a warning is telling someone ahead of time. The -li ending is the past for "vy".'),
+    (10, None, '\'I don\'t even have a razor with me.\' "U menya net" is \'I don\'t have\', and after "net" the razor changes: "britva" becomes "britvy". "S soboy", with me, is literally \'with oneself\'.'),
+    (11, None, '\'All right, runt, take my razor.\' "Vozmi", take, is the command from "vzyat". "Moyu britvu", my razor, both end in -u, the ending for the thing taken.'),
+    (12, None, '\'For arms I don\'t mind the razor at all.\' "Mne ne zhalko", \'to me not a pity\', is how you say \'I don\'t begrudge it\'. "Sovsem ne" is \'not at all\'.'),
+    (13, None, '\'Thank you, Fedya, I will quickly shave everything.\' "Pobreyu", I\'ll shave, is the po- partner of "brit", the one for a job you finish. Max thanks the man who has just tricked him.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "Sitting alone in his office, Chef Viktor Barinov stares sadly into his fishbowl. Feeling betrayed by the entire restaurant staff, he pours out his grief to his faithful pet goldfish Arkasha until sous-chef Lyova walks in. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the emotional laments, terms of endearment, and caring workplace expressions."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova's gentle concern offers Chef Barinov comfort as he nurses his wounded pride in seclusion. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to throw' and 'faithful' — you will catch every word right away. See you next time!"
+INTRO = "At Claude Monet, Barinov has shut himself in his dark office, sure that his cooks have betrayed him for Elena. He talks to the only one he trusts, his goldfish Arkasha, until Lyova, one of his cooks, comes to find him. It's in Russian first."
+OPENER = 'Slowly now. Barinov is dramatic, and Lyova tries to bring him back.'
+TRANSITION = 'And the whole sad scene again, without the pauses.'
+OUTRO = "Barinov's ya nikuda ne poydu, 'I'm not going anywhere', is easy to say and very firm. And skuchat bez, literally 'to be bored without', is how Russians say they miss someone. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Один ты остался у меня, милый Аркашка.', 'You are all I have left, dear Arkasha.', [(213, 'Один ты у меня остался, Аркашка')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Тогда я принесу вам горячего чаю сюда.', 'Then I will bring you some hot tea here.', [(213, 'Аркашка')], ''),
 ]
 WALK = [
-    (0, None, "'You are all I have left, dear Arkasha.' Barinov leans over his fishbowl, feeling entirely abandoned by his human staff."),
-    (1, None, "'Chef, why are you sitting here in the dark?' Lyova finds him sulking in the shadows and wants to understand his gloomy mood."),
-    (2, None, "'My fish is the only loyal organism in the world.' The head chef bitterly concludes that only a silent pet can be trusted."),
-    (3, None, "'But our entire kitchen misses you very much!' The sous-chef tries to reassure his boss that the team still needs him."),
-    (4, None, "'All the cooks in the kitchen are true traitors.' Barinov refuses to listen, firmly believing everyone has turned their backs on him."),
-    (5, None, "'They just got scared of the new strict order.' Lyova explains that the crew was simply intimidated by Elena's harsh demands."),
-    (6, None, "'They gladly abandoned their old chef.' He takes their compliance with the guest chef as a deeply personal betrayal."),
-    (7, None, "'We all sincerely love only you, chef.' Lyova declares their unwavering devotion, hoping to pull him out of his misery."),
-    (8, None, "'Only Arkasha listens to me attentively and keeps quiet.' Barinov praises his goldfish for never talking back or following other orders."),
-    (9, None, "'Let's go to the kitchen before the soup gets cold.' Lyova tries a practical approach, hoping a culinary emergency will spark some action."),
-    (10, None, "'I will not go anywhere out of this office.' Barinov stubbornly plants himself in his chair, refusing to step foot outside."),
-    (11, None, "'Then I will bring you some hot tea here.' The loyal sous-chef gives up and offers to serve him right there."),
+    (0, None, "'You are all I have left, dear Arkasha.' In odin ty ostalsya u menya, literally 'only you remained by me', odin, 'one', means 'only'. The fish's name is a pet form of Arkady."),
+    (1, None, "'Chef, why are you sitting here in the dark?' Lyova says vy to his boss: vy sidite. After v, temnota, 'darkness', becomes temnote."),
+    (2, None, "'My fish is the only loyal organism in the world.' Adding -ka to ryba gives rybka, a small, dear fish. The phrase na svete, 'in the world', uses svet, which also means 'light'."),
+    (3, None, "'But our entire kitchen misses you very much!' To miss someone in Russian is skuchat bez, literally 'to be bored without'. And vsya nasha kukhnya means the whole team."),
+    (4, None, "'All the cooks in the kitchen are true traitors.' A predatel, 'traitor', is someone who predal, 'betrayed'. In writing, the dash stands where English has 'are'."),
+    (5, None, "'They just got scared of the new strict order.' After ispugalis, 'they got scared', poryadok gains an -a: poryadka. Both novogo and strogogo match it."),
+    (6, None, "'They gladly abandoned their old chef.' Russian says 'gladly' as s udovolstviyem, 'with pleasure'. With brosili, 'they threw', comes the brosat that also means abandoning someone."),
+    (7, None, "'We all sincerely love only you, chef.' Lyova's lyubim, 'we love', comes from lyubit. And iskrenne, 'sincerely', comes from iskrenniy."),
+    (8, None, "'Only Arkasha listens to me attentively and keeps quiet.' After slushayet, 'listens', menya follows with no 'to'. Russian has a single word for 'keeps quiet', molchit."),
+    (9, None, "'Let's go to the kitchen before the soup gets cold.' Lyova's poydyomte, 'let's go', adds -te to be polite. Russian says 'before it gets cold' as poka ne ostyl, literally 'while it hasn't cooled'."),
+    (10, None, "'I will not go anywhere out of this office.' Like nikto ne, nikuda ne, 'nowhere not', keeps both negatives. After iz, etot kabinet becomes etogo kabineta."),
+    (11, None, "'Then I will bring you some hot tea here.' The -u in goryachego chayu, 'some hot tea', is an old form meaning 'some of'. And syuda, 'here', answers 'where to', because the tea is coming to him."),
 ]

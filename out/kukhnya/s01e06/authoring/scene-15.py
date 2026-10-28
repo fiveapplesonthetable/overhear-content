@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "To sneak the eccentric Rodion into Claude Monet's dining room, Max hatches a bold scheme and calls the restaurant desk to reserve a table for the reclusive writer Viktor Pelevin. As Kostya worries that their cover will be blown, Rodion puts on dark glasses to complete the disguise. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the phone reservation etiquette, expressions of disbelief, and cultural references to modern literature."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max's audacious Pelevin disguise plan gives the boys their only hope of retrieving the truffles before the evening rush. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'adventure' and 'administrator' — you will catch every word right away. See you next time!"
+INTRO = "Back at Claude Monet, Max has a plan to get Rodion a table: book it in the name of Viktor Pelevin, a famous writer whom nobody ever sees. Kostya thinks it's madness. It's in Russian first."
+OPENER = "Let's go through the phone call and the argument after it. Max is sure of himself, and Kostya isn't."
+TRANSITION = "Here's the booking and the argument in one go."
+OUTRO = 'You can now book a table in Russian: "zabronirovat stolik", for whom, and the name. And if you need to worry out loud, a "esli" and "vdrug" both mean \'what if\'. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Алло, ресторан, я хочу забронировать столик.', 'Hello, restaurant, I want to reserve a table.', [(201, 'Ресторан Клод Мане, я слушаю вас')], ''),
@@ -26,20 +26,20 @@ STORY = [
     ('kostya', 'Вдруг в ресторане есть его преданные читатели?', 'What if there are his devoted readers in the restaurant?', [(205, 'как он выглядит, а?')], ''),
     ('max', 'Они видели только его имя на обложке.', 'They only saw his name on the cover.', [(206, 'Да ладно тебе')], ''),
     ('kostya', 'Как Родион сможет убедительно изобразить гения?', 'How will Rodion be able to convincingly portray a genius?', [(207, 'А я знаю')], ''),
-    ('max', 'Он просто наденет тёмные чёрные очки.', 'He will simply put on dark black glasses.', [(208, 'Вот так')], ''),
+    ('max', 'Он просто наденет тёмные очки.', 'He will simply put on dark glasses.', [(208, 'Вот так')], ''),
     ('kostya', 'Надеюсь, эта безумная авантюра сработает сегодня.', 'I hope this crazy gamble will work today.', [(208, 'Вот так')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, restaurant, I want to reserve a table.' Confidently playing the role of a booking agent, Max speaks over the phone."),
-    (1, None, "'Max, for whom exactly are you booking a table?' Nervously whispering, Kostya is terrified of who his friend is pretending to be."),
-    (2, None, "'For the famous Russian writer Viktor Pelevin.' Dramatically unveiling his plan, Max names his audacious choice of celebrity cover."),
-    (3, None, "'Are you out of your mind, what Pelevin?' Kostya panics, recognizing the sheer insanity of impersonating a living legend."),
-    (4, None, "'The administrator was very thrilled with such an important guest.' Happily reporting success, Max notes that Vika bought the lie completely."),
-    (5, None, "'And what if Victoria knows what he looks like?' Bringing up a massive flaw, Kostya worries the administrator knows his face."),
-    (6, None, "'Pelevin is a mysterious writer, nobody has seen him.' Max relies on the author's famous reclusiveness as the ultimate shield."),
-    (7, None, "'What if there are his devoted readers in the restaurant?' Inventing catastrophic scenarios, Kostya fears being exposed by fans."),
-    (8, None, "'They only saw his name on the cover.' Dismissing the threat, Max points out that readers don't know the author's face."),
-    (9, None, "'How will Rodion be able to convincingly portray a genius?' Doubting the quirky vagrant, Kostya wonders if he can act like a profound literary giant."),
-    (10, None, "'He will simply put on dark black glasses.' Triumphantly presenting his strategy, Max reveals his foolproof, albeit ridiculous, disguise."),
-    (11, None, "'I hope this crazy gamble will work today.' Crossing his fingers, Kostya hopes the absurd trick actually holds up."),
+    (0, None, '\'Hello, restaurant, I want to reserve a table.\' "Allo" is the hello you only say on the phone. "Stolik" is a \'little table\', which is what you book in a restaurant.'),
+    (1, None, '\'Max, for whom exactly are you booking a table?\' "Dlya kogo", for whom, changes "kto" to "kogo" after "dlya". "Zakazyvaesh", you\'re ordering, is also how you order food in a restaurant.'),
+    (2, None, '\'For the famous Russian writer Viktor Pelevin.\' After "dlya" every word changes: "izvestnogo", "russkogo", "pisatelya", "Viktora Pelevina". That pile of endings is what makes the sentence sound so official.'),
+    (3, None, '\'Are you out of your mind, what Pelevin?\' "S uma soshyol", \'gone down off the mind\', is the idiom for \'gone mad\'. "Kakoy eshche" Pelevin, \'what other Pelevin\', means \'what are you on about?\'.'),
+    (4, None, '\'The administrator was very thrilled with such an important guest.\' "Obradovalas", was delighted, ends in -as, so the administrator is a woman. "Takomu vazhnomu gostyu" is \'at such an important guest\', with -omu and -yu on each word.'),
+    (5, None, '\'And what if Victoria knows what he looks like?\' "Znaet v litso", \'knows in the face\', means knows him by sight. Kostya is worried she\'d spot the fake at once.'),
+    (6, None, '\'Pelevin is a mysterious writer, nobody has seen him.\' "Zagadochnyy", mysterious, is from "zagadka", a riddle. "Nikto ego ne videl" has two negatives, "nikto" and "ne", as Russian always does.'),
+    (7, None, '\'What if there are his devoted readers in the restaurant?\' "Vdrug", suddenly, works as \'what if\' at the start of a worried question. "Chitateli", readers, are people who "chitat", read.'),
+    (8, None, '\'They only saw his name on the cover.\' "Imya", name, doesn\'t change here because it\'s what they saw. "Na oblozhke", on the cover, turns "oblozhka" into -e for the place.'),
+    (9, None, '\'How will Rodion be able to convincingly portray a genius?\' "Smozhet", will be able, is the future of "moch", can. "Geniya" is genius with -ya, because it\'s what he\'ll portray.'),
+    (10, None, '\'He will simply put on dark glasses.\' "Ochki", glasses, only exists in the plural. "Nadenet", will put on, is the verb for clothes; for a hat or glasses you use it too.'),
+    (11, None, '\'I hope this crazy gamble will work today.\' "Avantyura", a risky adventure, is a French loan with a bad reputation in Russian. "Bezumnaya", crazy, is literally \'without mind\': "bez" plus "um".'),
 ]

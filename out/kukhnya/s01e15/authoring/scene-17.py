@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Max arrives at Victoria's apartment and awkwardly asks to move in with her. He tries to sound independent, but eventually admits his true feelings. Let us listen to their conversation in Russian first."
-OPENER = 'Now let us examine the conversation line by line.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max arrives at Victoria's apartment and awkwardly asks to move in with her. He tries to sound independent, but eventually admits his true feelings. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to move' — you will catch every word right away. See you next time!"
+INTRO = "Max has made up his mind, and he arrives at Vika's flat. He wants to move in with her, and he has trouble saying why. Hear it in Russian first."
+OPENER = 'Slowly, once more.'
+TRANSITION = 'Now the scene in one go.'
+OUTRO = "Max has finally said what he wants. Vika's answer comes next."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Привет, Макс.', 'Hi, Max.', [(335, 'Привет.')], ''),
-    ('vika', 'Привет.', 'Hi.', [(335, 'Привет.')], ''),
+    ('max', 'Привет.', 'Hi.', [(335, 'Привет.')], ''),
     ('max', 'Я хочу переехать к тебе.', 'I want to move to your place.', [(336, 'Я хочу переехать к тебе.')], ''),
     ('vika', 'Тебе негде жить?', 'Do you have nowhere to live?', [(337, 'Что, негде жить?')], ''),
     ('max', 'Нет, у меня миллион вариантов.', 'No, I have a million options.', [(337, 'Да нет, просто...'), (338, 'Да миллион вариантов.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Да, я тебе верю.', 'Yes, I believe you.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hi, Max.' Vika greets his reflection or maybe speaks out of habit, leaving out any state-of-being words and connecting the greeting straight to the name."),
-    (1, None, "'Hi.' Vika offers a short, standard greeting that is heard all the time in everyday Russian chats."),
-    (2, None, '\'I want to move to your place.\' Getting right to the point, Max uses the casual, friendly "you" to suggest moving in together.'),
-    (3, None, '\'Do you have nowhere to live?\' Vika turns a simple observation into a probing question just by pitching her voice up on "nowhere."'),
-    (4, None, '\'No, I have a million options.\' Trying to sound cool, Max boasts using a classic phrasing pattern, literally saying "at me" there are a million choices.'),
-    (5, None, "'Kostya is calling me back.' Trying to sound in high demand, Max brags that Kostya is already asking him to move back in."),
-    (6, None, '\'Leva is also inviting me to live.\' Adding more proof of his popularity, Max pairs "Lyova" with the word for "too" to show how wanted he is.'),
-    (7, None, '\'But I am ready to live with you.\' Dropping the tough act, Max switches back to the familiar "you" to admit where he really wants to be.'),
-    (8, None, "'What do you want to say?' Gently pushing him to be more direct, Vika relies on a very common everyday phrase."),
-    (9, None, "'I want to live with you.' Spelling it out clearly at last, Max uses a completely natural and straightforward declaration."),
-    (10, None, "'I do not want to be without you.' Max adds a sweet follow-up, keeping his phrasing simple and deeply sincere."),
-    (11, None, '\'That is very pleasant to hear.\' Showing she is touched, Vika effortlessly combines "very much" with "pleasant" and "to hear."'),
-    (12, None, '\'Really?\' Checking if she is serious, Max turns a single word meaning "truth" or "honestly" into a quick question.'),
-    (13, None, "'Yes, I believe you.' Vika reassures him with a short, punchy sentence centered around the action of believing."),
+    (0, None, "'Hi, Max.' 'Privet' is the casual hello, and it's what Russians say to friends. She adds his name."),
+    (1, None, "'Hi.' Max answers with the same word. Russians usually return 'privet' with 'privet'."),
+    (2, None, "'I want to move to your place.' 'K tebe', literally 'to you', is how Russian says 'to your place'. 'Pereekhat' is 'to move house'."),
+    (3, None, "'Do you have nowhere to live?' 'Negde' is 'gde', where, with 'ne' in front: 'there is nowhere'. Add 'zhit' and you have 'nowhere to live', with no 'you' or 'have' needed."),
+    (4, None, "'No, I have a million options.' 'Million' stays the same, and the thing counted takes 'of' in the plural, 'variantov'. 'U menya' is 'at me'."),
+    (5, None, "'Kostya is calling me back.' 'Zovyot' is 'calls', in the sense of calling someone to come. 'Nazad' is 'back', and 'menya' is 'me'."),
+    (6, None, "'Lyova is also inviting me to live.' 'Priglashaet' is 'invites', followed by 'to live' in its basic shape. 'Tozhe' is 'also'."),
+    (7, None, "'But I am ready to live with you.' 'Gotov' is 'ready' with no ending, the man's form; Vika would say 'gotova'. 'Zhit s toboy', to live with you, follows directly."),
+    (8, None, "'What do you want to say?' She asks him directly. It's the Russian for 'what are you getting at?'."),
+    (9, None, "'I want to live with you.' 'Khochu zhit s toboy': 'want', 'to live', 'with you'. In the show Max only manages 'v smysle, khochu', 'I mean, I want to'."),
+    (10, None, "'I do not want to be without you.' 'Bez tebya' is 'without you', and 'bez' takes the 'a' form of 'you'. 'Byt' is 'to be'."),
+    (11, None, "'That is very pleasant to hear.' 'Priyatno' is 'pleasant', and Russian needs no 'is' here. 'Slyshat' is 'to hear'."),
+    (12, None, "'Really?' One word, 'pravda', the same as 'truth'. Max can hardly believe it."),
+    (13, None, "'Yes, I believe you.' 'Tebe veryu' is 'to you I believe'. In Russian you believe 'to' somebody, so 'you' goes in the 'to' form."),
 ]

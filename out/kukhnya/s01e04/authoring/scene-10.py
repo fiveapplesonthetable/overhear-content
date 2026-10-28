@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'expert': 'Эксперт', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "Determined to discover which kitchen staff member secretly interviewed at the rival restaurant Arcobaleno, Chef Barinov hires a polygraph examiner. Hooked up to the lie detector machine in Barinov's office, fish cook Fedya undergoes a tense interrogation. Let's listen to their conversation in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
+INTRO = 'The chef is determined to find the traitor, so he has hired a lie-detector expert and set up a machine in his office. Fedya, the fish cook, is the first to be questioned. Here is the Russian first.'
+OPENER = "Let's go through the questioning."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Fedya hurries out of the office, relieved that his dark secrets went undetected. Next time you watch the episode, listen for the Russian expressions for 'quite' and 'really' — you will catch every word right away. See you next time!"
+OUTRO = 'Fedya passes the test and is sent to fetch Senya. The phrase to keep is "detektor lzhi", "lie detector", where "lozh\'" is a lie.'
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('barinov', 'Заходи, Федя. Садись на стул.', 'Come in, Fedya. Sit down on the chair.', [(114, 'Заходи')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Свободен. Позови сюда Сеню.', 'You are free to go. Call Senya in here.', [(138, 'Свободен'), (139, 'позови там Сеню')], ''),
 ]
 WALK = [
-    (0, None, "'This is a real lie detector, Fedya.' Barinov announces sternly as the specialist hooks up the wires."),
-    (1, None, '\'Answer only "yes" or "no".\' The polygraph examiner sets the rules before beginning the baseline questions.'),
-    (2, None, "'Did you go to the neighboring restaurant?' Chef Barinov asks abruptly, getting to the true point of the test."),
-    (3, None, "'You are free to go. Call Senya here.' Barinov orders, satisfied that Fedya is not the traitor. Now listen to the full lie detector interrogation once more."),
+    (0, None, '\'Come in, Fedya. Sit down on the chair.\' "Zakhodi" is "come in", with "za-" for going inside. "Sadis\'" is "seat yourself", with -s\' for the self.'),
+    (1, None, '\'Chef, what is this thing?\' "Chto eto takoye?" is "what is this such?", a handy way to ask what something is.'),
+    (2, None, '\'This is a real lie detector, Fedya.\' "Lozh\'", a lie, drops its vowel in "lzhi", of a lie. The machine is "detektor lzhi", detector of a lie.'),
+    (3, None, '\'I must catch the rat in the kitchen.\' "Krysa", rat, is also Russian slang for a traitor. "Poymat\'" is "to catch", and "dolzhen" is "must" for a man.'),
+    (4, None, '\'Answer only yes or no.\' "Otvechayte" is a command with the polite -te. "Tol\'ko" is "only", and "ili" is "or".'),
+    (5, None, '\'Fine, that is completely clear to me.\' "Vpolne" is "in full", from "polnyy", full. "Mne ponyatno", to me it\'s clear, needs no "I".'),
+    (6, None, '\'Tell me, is today really Wednesday?\' "Sreda", Wednesday, is related to "seredina", middle, since it falls mid-week. "Deystvitel\'no" is "really".'),
+    (7, None, '\'Yes, today is Wednesday.\' Fedya repeats "sreda" with no verb, because Russian leaves out "is".'),
+    (8, None, '\'Is your real name Fyodor?\' "Fyodor" is the full name behind "Fedya". "Nastoyashcheye", real, ends in -eye because "imya", name, is neuter.'),
+    (9, None, '\'Yes.\' Just "da", which is what the expert asked for.'),
+    (10, None, '\'Did you go to the neighboring restaurant?\' "Khodil" is "went and came back". "Sosedniy", neighbouring, is from "sosed", neighbour.'),
+    (11, None, '\'No, I did not go anywhere.\' "Nikuda ne khodil" is "nowhere not went", the double negative.'),
+    (12, None, '\'You are free to go. Call Senya in here.\' "Svoboden" is the man\'s short "free". "Pozovi" is "call", and "Senya" turns into "Senyu" as the one called.'),
 ]

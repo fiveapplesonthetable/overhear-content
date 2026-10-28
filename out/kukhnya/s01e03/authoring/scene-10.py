@@ -10,13 +10,13 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Having secretly replaced the missing live goose with a dressed market carcass, Max returns to face head chef Viktor Barinov. Barinov immediately questions why Max's apron is spotless without a single drop of blood, forcing Max to tell a shocking lie. Let's listen to their confrontation in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
+INTRO = 'Max has quietly swapped the live goose for a ready-plucked one from the market, and now he has to explain to Barinov why his apron is spotless. He tells the chef a story that is more dramatic than the truth. Here is the Russian first.'
+OPENER = 'Now the lie, line by line.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova prepares the bird for roasting while Barinov begins preparing the special compliment. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'important' — you will catch every word right away. See you next time!"
+OUTRO = 'Max has saved the goose, and he has also saved his job. Remember "ni kapli", "not a drop", which is how Russians say "not even a bit".'
 CLOSING = ('max', 'Пока!')
 STORY = [
-    ('barinov', 'Огузок! Где мой свежий гусь?', 'Guzak! Where is my fresh goose?', [(235, 'Где гусь')], ''),
+    ('barinov', 'Огузок! Где мой свежий гусь?', 'Oguzok! Where is my fresh goose?', [(235, 'Где гусь')], ''),
     ('max', 'Я только что прикончил его!', 'I have just finished it off!', [(236, 'Я его только что прикончил')], ''),
     ('barinov', 'Почему ты такой подозрительно чистый?', 'Why are you so suspiciously clean?', [(237, 'А что ты такой чистенький')], ''),
     ('barinov', 'На тебе нет ни капли крови!', 'There is not a drop of blood on you!', [(237, 'ни капельки крови на тебя не попало')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('max', 'Я спас птицу и свою работу.', 'I saved the bird and my job.', [], ''),
 ]
 WALK = [
-    (0, None, "'I have just finished it off!' Max announces he completed the task."),
-    (1, None, "'There is not a drop of blood on you!' Barinov points out the lack of mess."),
-    (2, None, "'Chef, I simply strangled it!' Max explains his clean method of killing."),
-    (3, None, "'Lyova, start preparing the goose quickly!' Barinov orders the cook to begin working on the bird."),
+    (0, None, '\'Oguzok! Where is my fresh goose?\' Barinov opens with the nickname. "Gde" is "where", and "svezhiy" is "fresh".'),
+    (1, None, '\'I have just finished it off!\' "Prikonchil" contains "konets", end, so it\'s "brought to an end". "Tol\'ko chto" is "only what", meaning "just now".'),
+    (2, None, '\'Why are you so suspiciously clean?\' "Podozritel\'no" is "podozritel\'nyy", suspicious, with the -o of a how-word. "Chistyy" is "clean".'),
+    (3, None, '\'There is not a drop of blood on you!\' "Net ni kapli krovi" is "there isn\'t not a drop of blood": "ni" means "not even". "Kaplya" and "krov\'" both take the "of" form.'),
+    (4, None, '\'I did not cut it at all.\' "Sovsem ne" is "not at all". "Rezal", cut, ends in -l for a man, and "yego" is the goose.'),
+    (5, None, '\'And how did you kill it?\' "Kak" is "how". "Ubil", killed, is the past of "ubit\'", the verb from the goose scene.'),
+    (6, None, '\'Chef, I simply strangled it!\' "Zadushil", strangled, is "dushit\'", to choke, with "za-" for finishing it, related to "dukh", breath. "Prosto" is "simply".'),
+    (7, None, '\'What a nightmare! A real Othello in the kitchen!\' "Kakoy koshmar!" is "what a nightmare!". "Otello" strangles his wife in Shakespeare, so the chef is joking.'),
+    (8, None, '\'Drag your bird to the sous-chef\'s table!\' "Tashchi" is "drag", said of anything heavy. "Su-shefu", to the sous-chef, takes -u for "to", and "svoyu ptitsu" is "your own bird".'),
+    (9, None, '\'Lyova, start preparing the goose quickly!\' "Nachinay" is the "ty" command "start". "Gotovit\' gusya" is "to cook the goose", with -ya on the bird.'),
+    (10, None, '\'Understood, Chef, I am turning on the oven.\' "Vklyuchayu", I switch on, also means "I include", and it works for any switch. "Dukhovka", oven, comes from "dukh", hot air.'),
+    (11, None, '\'And I will take care of an important compliment.\' "Zaymus\'", I\'ll take care, ends in -s\'. What you take care of changes its ending, so it\'s "vazhnym komplimentom". A chef\'s "kompliment" is a free little dish.'),
+    (12, None, '\'I saved the bird and my job.\' "Spas", saved, shares its root with "spasibo", once "spasi Bog", "may God save you". "Svoyu rabotu" is "my own job".'),
 ]

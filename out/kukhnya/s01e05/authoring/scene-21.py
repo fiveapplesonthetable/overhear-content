@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "During the overwhelming evening rush at Claude Monet, orders pile up endlessly and Max finds himself pushed to the absolute breaking point. Taking pity on the rookie, seasoned fish cook Fedya steps up to his station to teach him the ultimate golden rule of kitchen survival. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Fedya and Max's kitchen advice line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Equipped with Fedya's invaluable advice, Max steadies his hands and prepares to clear the rush. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to happen' — you will catch every word right away. See you next time!"
+INTRO = "Still in the Claude Monet kitchen, Max is drowning in orders, and Fedya, who was teasing him a minute ago, steps over to his station. What he teaches isn't a cooking trick. It's a rule about panic. Listen in Russian first."
+OPENER = "Let's take it slowly. Fedya talks like a coach."
+TRANSITION = 'Now let it flow, breath and all.'
+OUTRO = 'Fedya\'s rule, "zapara tolko v golove", \'the rush is only in your head\', works in an office as well as in a kitchen. "Vdokh" and "vydokh" will help too.'
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('fedya', 'Ладно, новичок, отойди немного в сторону.', 'Alright, newcomer, step aside a little.', [(306, 'Ладно')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('fedya', 'Тогда начинай готовить спокойно!', 'Then begin to cook calmly!', [], ''),
 ]
 WALK = [
-    (0, None, "'Alright, newcomer, step aside a little.' Fedya takes charge of the crowded workspace with calm authority."),
-    (1, None, "'Move over, come on, I will help you.' The experienced line cook generously offers practical assistance."),
-    (2, None, "'Fedya, thank you, nothing is working out for me!' Max gratefully admits his helplessness amid the tickets."),
-    (3, None, "'Right now the main thing is to completely calm down.' Fedya emphasizes emotional control over panic."),
-    (4, None, "'Take a deep breath.' Fedya guides his young colleague through a simple centering exercise."),
-    (5, None, "'And now a slow exhale.' The veteran chef ensures Max releases the mounting physical tension."),
-    (6, None, "'And forever remember the main rule.' Fedya prepares to impart essential professional wisdom."),
-    (7, None, "'The rush does not happen in the kitchen.' Fedya begins dismantling the illusion of external chaos."),
-    (8, None, "'The real rush is always only in your head!' The seasoned cook reveals the psychological secret to handling pressure."),
-    (9, None, "'But orders keep coming every minute!' Max vocalizes the anxiety caused by the relentless printer."),
-    (10, None, "'Make each dish in turn.' Fedya reminds him that steady sequential focus conquers any pile of tickets."),
-    (11, None, "'Alright, I understood your advice.' Max internalizes the lesson and regains his composure."),
-    (12, None, "'Then begin to cook calmly!' Fedya gives the green light to restart work with confidence."),
+    (0, None, '\'Alright, newcomer, step aside a little.\' "Novichok", \'newcomer\', comes from "novyy", \'new\'. "Otoydi", \'step away\', starts with "ot-", which means \'away from\'.'),
+    (1, None, '\'Move over, come on, I will help you.\' "Podvinsya", \'move over\', ends in -sya because you move yourself. "Davay" tacked on after a command works as a nudge: \'come on\'.'),
+    (2, None, '\'Fedya, thank you, nothing is working out for me!\' "U menya nichego ne poluchaetsya" is literally \'at me nothing comes out\'. Use it whenever nothing you try works.'),
+    (3, None, '\'Right now the main thing is to completely calm down.\' "Glavnoe", \'the main thing\', is an adjective used as a noun. "Polnostyu", \'completely\', comes from "polnyy", \'full\'.'),
+    (4, None, '\'Take a deep breath.\' "Vdokh", \'a breath in\', starts with "v-", \'in\'. "Glubokiy", \'deep\', is the same word you\'d use for deep water.'),
+    (5, None, '\'And now a slow exhale.\' "Vydokh", \'a breath out\', starts with "vy-", \'out\'. "Vdokh" and "vydokh" share a root, and only the prefix changes.'),
+    (6, None, '\'And forever remember the main rule.\' "Navsegda", \'forever\', joins "na" and "vsegda", \'always\'. "Zapomni", \'remember\', shares a root with "pamyat", \'memory\'.'),
+    (7, None, '\'The rush does not happen in the kitchen.\' "Zapara" is kitchen slang for a rush, and the whole scene hangs on it. "Ne" goes right before "na kukhne", so the \'not\' is about the place.'),
+    (8, None, '\'The real rush is always only in your head!\' "V golove", \'in the head\', has the place ending -e. Russian doesn\'t say \'your\' here; the head is understood to be yours.'),
+    (9, None, '\'But orders keep coming every minute!\' Russian says orders "idut", \'go\', where English has \'come\'. "Kazhduyu minutu" takes -uyu and -u because it says how often.'),
+    (10, None, '\'Make each dish in turn.\' "Po ocheredi", \'in turn\', comes from "ochered", \'a queue\'. "Delay" is the imperfective command, for doing something again and again.'),
+    (11, None, '\'Alright, I understood your advice.\' "Sovet", \'advice\', can also mean a council, the one in \'Soviet\'. "Ya ponyal" is what a man says; a woman would say "ponyala".'),
+    (12, None, '\'Then begin to cook calmly!\' "Spokoyno", \'calmly\', is the -o adverb from "spokoynyy". "Nachinay", \'start\', goes straight into "gotovit", \'to cook\'.'),
 ]

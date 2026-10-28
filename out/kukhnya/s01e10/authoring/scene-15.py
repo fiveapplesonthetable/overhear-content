@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'tamara': 'Тамара'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In his private office at Claude Monet, Chef Viktor Barinov desperately needs a quick financial windfall to pay off debts. Calling bookmaker Tamara, he shocks her by placing a massive hundred-thousand-ruble wager on CSKA to beat his lifelong beloved club Spartak. Let's listen to their phone call in Russian first."
-OPENER = "Let's examine how Chef Barinov places a risky sports bet over the telephone line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Now you know how to talk about sports wagers, financial risks, and moral compromises in Russian. See you next time!'
+INTRO = "Barinov has made up his mind about the bet, and the bet is a shock. He phones Tamara, who takes bets, and puts his money on his own team's rival. Listen to who says what."
+OPENER = "Let's take the lines one by one."
+TRANSITION = "Let's play it through again."
+OUTRO = "A hundred thousand rubles on the wrong team. Tamara has taken the bet, and Barinov has no money to cover it yet. That's it for this one."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Тамара, здравствуй, это Витя Баринов беспокоит.', 'Tamara, hello, this is Vitya Barinov calling.', [(131, 'Тамарочка, здравствуй'), (132, 'Это Витя Баринов тебя беспокоит')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('tamara', 'Надеюсь, ты понимаешь свой огромный риск.', 'I hope you understand your huge risk.', [], ''),
 ]
 WALK = [
-    (0, None, "'Tamara, hello, this is Vitya Barinov calling.' The chef opens the phone call using a polite greeting and a third person identifier."),
-    (1, None, "'Hi, Vitya, do you want to place a bet?' Tamara greets 'Vitya' at the betting office."),
-    (2, None, "'Yes, put money on the Spartak match.' Barinov wants to gamble on 'Spartak'."),
-    (3, None, "'Are you betting on your native Spartak's victory?' Tamara asks if he backs his favorite."),
-    (4, None, "'No, I am betting on a CSKA victory!' The chef drops a bombshell by wagering on his bitter rival team."),
-    (5, None, "'Are you not joking? They are your enemies!' Tamara is shocked he bets against them."),
-    (6, None, "'I bet exactly one hundred thousand rubles!' Barinov confirms his massive wager."),
-    (7, None, "'Do you have that kind of money with you?' Tamara asks if he has cash ready."),
-    (8, None, "'Reserve the bet, I will bring cash soon.' Barinov promises to bring the cash soon."),
-    (9, None, "'All right, your bet is accepted at the office.' Tamara accepts the reservation for him."),
-    (10, None, "'Thank you, money right now matters more than anything to me.' Barinov admits cash is his priority now."),
-    (11, None, "'I hope you understand your huge risk.' The bookmaker concludes the conversation with a cautionary statement."),
+    (0, None, '\'Tamara, hello, this is Vitya Barinov calling.\' "Vitya" is a friendly short form of Viktor. Russians open a call with "bespokoit", "is bothering you", an old, polite phrase. "Zdravstvuy" is the hello for one friend.'),
+    (1, None, '\'Hi, Vitya, do you want to place a bet?\' "Sdelat stavku" is "make a bet". Tamara says "ty" and "Vitya", so they know each other well. "Privet" is the casual "hi".'),
+    (2, None, '\'Yes, put money on the Spartak match.\' "Postav" is "put", standing up, and it\'s also how you bet. "Na match Spartaka" is "on the match of Spartak": the club\'s name takes -a.'),
+    (3, None, '\'Are you betting on your native Spartak\'s victory?\' "Rodnoy" is "native" or "one\'s own", from "rod", "family", and Russians use it for a home team. "Na pobedu" is "on victory": "pobeda" becomes "pobedu".'),
+    (4, None, '\'No, I am betting on a CSKA victory!\' Russians say the letters of the army club\'s initials, "tse-es-ka". They are Spartak\'s great rival. "Stavlyu" is "I bet", literally "I put".'),
+    (5, None, '\'Are you not joking? They are your enemies!\' "Vragi" is "enemies", a strong word for rivals. The little "zhe" is the "after all" again. "Shutish" is "you joke".'),
+    (6, None, '\'I bet exactly one hundred thousand rubles!\' "Rovno", "exactly", also means "level" or "even". "Sto tysyach rubley" is the same sum as the banquet cake. Barinov names it, and it is large.'),
+    (7, None, '\'Do you have that kind of money with you?\' "U tebya est s soboy" is "at you there is with self", the Russian for "on you". "Takie dengi" is "such money", plural, as money always is.'),
+    (8, None, '\'Reserve the bet, I will bring cash soon.\' "Zarezerviruy" is "reserve", a borrowed word with Russian bits on both ends. "Nalichnye" is "cash", from "nalichie", "being on hand". Barinov asks for credit.'),
+    (9, None, '\'All right, your bet is accepted at the office.\' "Prinyata", "accepted", ends in -a because "stavka", "bet", is feminine. "Kontora" is an old word for an office, and here it\'s the betting shop.'),
+    (10, None, '\'Thank you, money right now matters more than anything to me.\' "Vazhnee" is "vazhno", "important", with -ee: "more important". "Vazhnee vsego" is "more important than everything", with no "than" word, just the ending on "vsego".'),
+    (11, None, '\'I hope you understand your huge risk.\' "Nadeyus", "I hope", is from "nadezhda", like "nadyozhny". "Risk" is borrowed. Tamara says it like a friend giving a last warning.'),
 ]

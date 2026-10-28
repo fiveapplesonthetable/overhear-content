@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
-INTRO = "Aspiring young cook Maksim Lavrov arrives in Moscow dreaming of culinary fame. Outside a crowded nightclub, he steps in to defend a striking young woman named Vika and gets punched in the face. As Vika checks his bruised nose, they strike up an easy conversation and realize they share a passion for the restaurant world. Let's listen to their meeting in Russian first."
-OPENER = "Now let's examine Max and Vika's club meeting line by line."
+INTRO = 'This is Kukhnya, which simply means "the kitchen": a Russian comedy about a hot-tempered head chef and the cooks and waiters who survive him, in a smart Moscow restaurant called Claude Monet. The first episode starts the night before the new cook turns up. Maksim Lavrov, called Max, has just arrived in the city, and outside a nightclub he steps in to help a woman called Vika and gets punched for his trouble. You\'ll hear their first conversation in Russian before we pick it apart, so don\'t worry about catching every word.'
+OPENER = 'Now slowly, one line at a time.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+OUTRO = 'So Max opens the series with a sore nose and a coffee date. If the Russian felt fast, that\'s normal: "u menya" and "u vas", "at me" and "at you", will keep coming back, and they\'ll soon feel easy. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Девушка, с вами всё в порядке?', 'Miss, are you all right?', [(13, 'Слышь, мужик, ты как сейчас девушку ведёшь')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'С большим удовольствием, пойдём скорее!', "With great pleasure, let's go quickly!", [], ''),
 ]
 WALK = [
-    (0, None, "'Miss, are you all right?' Max checks on her well-being immediately after taking a punch meant for her."),
-    (1, None, "'Yes, thank you for your help.' Vika expresses her gratitude toward the stranger who just stepped in to protect her outside the club."),
-    (2, None, "'Oh, it looks like your nose is broken!' Noticing the injury on his face, she reacts with sudden concern for his bleeding nose."),
-    (3, None, "'My nose is my main instrument.' Max tries to play it cool while emphasizing how important his sense of smell is for his career."),
-    (4, None, "'Why is your nose so important to you?' Intrigued by his unusual statement, she asks for clarification about his facial feature."),
-    (5, None, "'Tomorrow I have an important job interview.' Max reveals his upcoming opportunity, showing that his mind is entirely focused on his future in Moscow."),
-    (6, None, "'What job do you want to get?' Vika probes further to learn more about the ambitions of this brave guy she just met."),
-    (7, None, "'I want to work as a cook in a restaurant.' He proudly states his dream of becoming a culinary professional in a bustling kitchen."),
-    (8, None, "'Really? I work in a restaurant too!' Pleasantly surprised by this coincidence, she shares that they belong to the same industry."),
-    (9, None, "'So you and I have a lot in common.' Max playfully points out their shared background to build a connection with the beautiful stranger."),
-    (10, None, "'You are a very sweet and brave guy.' Vika warmly compliments him for stepping up earlier and being so charming during their chat."),
-    (11, None, "'Maybe we should go drink coffee together?' Taking a shot, he invites her out to continue their conversation somewhere more comfortable."),
-    (12, None, "'With great pleasure, let's go quickly!' Vika enthusiastically accepts his invitation, eager to spend more time together."),
+    (0, None, '\'Miss, are you all right?\' Russian has no neat word for "miss". Max calls out "devushka", literally "girl", and that\'s really what people say to a young woman they don\'t know. The rest is "with you, everything in order?", with the polite "vy" you use for a stranger.'),
+    (1, None, '\'Yes, thank you for your help.\' "Spasibo za" is a frame you can reuse: "spasibo", then "za", "for", then whatever you\'re thankful for. "Spasibo za kofe" thanks someone for the coffee.'),
+    (2, None, '\'Oh, it looks like your nose is broken!\' There\'s no "have" in this sentence. Russian says "u vas", "at you", and then names the thing: at you, a broken nose. That little "u" is how Russians say who has something, and you\'ll hear it all through this scene.'),
+    (3, None, '\'My nose is my main instrument.\' Nothing in the Russian means "is". In the present tense Russian simply leaves it out, and "eto", "this", often fills the gap: "my nose, this is my main instrument".'),
+    (4, None, '\'Why is your nose so important to you?\' "Pochemu" is "why", and "tak vazhen" is "so important". "Dlya vas", "for you", is the polite "you" again: Vika is still keeping a stranger at arm\'s length.'),
+    (5, None, '\'Tomorrow I have an important job interview.\' Same pattern as the nose: "u menya", "at me", is how Max says "I have". The long word for "interview", "sobesedovaniye", has "beseda", a talk, hiding inside it.'),
+    (6, None, '\'What job do you want to get?\' "Kem" is a form of "kto", "who", that means "as whom". So Vika literally asks "as whom do you want to get a job?", and the answer has to come back in the same "as" form.'),
+    (7, None, '\'I want to work as a cook in a restaurant.\' Here\'s that answer. "Povar" is a cook, and "povarom" is "as a cook": the "-om" ending does the job of English "as". "V restorane", "in a restaurant", adds an -e to "restoran" after "v".'),
+    (8, None, '\'Really? I work in a restaurant too!\' "Pravda" means "truth", so her "really?" is, word for word, "truth?". "Tozhe", "too", is a word you\'ll hear all day: "ya tozhe" is "me too".'),
+    (9, None, '\'So you and I have a lot in common.\' Max switches from the polite "vy" to the friendly "ty" here. "U nas s toboy" is "at us with you", the friendly way to say "you and I have", and "mnogo obshchego" is "a lot in common".'),
+    (10, None, '\'You are a very sweet and brave guy.\' Now Vika says "ty" as well. "Paren\'" is the casual word for a guy, and "milyy" is the everyday word for sweet or nice.'),
+    (11, None, '\'Maybe we should go drink coffee together?\' "Mozhet byt\'" is "maybe", literally "can be". Then come two verbs side by side, "poydyom, vypyem", "let\'s go, let\'s drink", with no "and" between them. That\'s a very common way to suggest doing something together.'),
+    (12, None, '\'With great pleasure, let\'s go quickly!\' "S bol\'shim udovol\'stviyem", "with great pleasure", is the warm way to accept an invitation. "Skoreye" means "quicker", and on its own it\'s how you hurry someone along.'),
 ]

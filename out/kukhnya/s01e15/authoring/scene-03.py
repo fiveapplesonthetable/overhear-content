@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyuba': 'Люба'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Viktor Petrovich wakes up with a terrible headache as Lyuba calls to remind him about work. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around A Morning Call line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor hangs up the phone, determined to get a few more minutes of rest. Next time you watch the episode, listen for the Russian expressions for 'morning' and 'a bit earlier' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov is fast asleep with a hangover when his phone starts ringing. It is Lyuba, from the restaurant, reminding him about work. The call comes first, in Russian.'
+OPENER = 'The call, line by line.'
+TRANSITION = 'Now the call again, from the first ring.'
+OUTRO = "Barinov hangs up and tries to get a few more minutes in bed. He sounds a lot more awake on the phone than he is. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Что за шум с утра пораньше?', 'What is that noise early in the morning?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'А я шеф, я немного задержусь!', 'And I am the chef, I will be a little late!', [(20, 'А я задержусь')], ''),
 ]
 WALK = [
-    (0, None, "'What is that noise early in the morning?' Waking up feeling terrible, the boss grumbles about the loud sounds disturbing his rest."),
-    (1, None, "'Who is calling me so early in the morning?' Annoyed by the ringing phone, he questions who could possibly be bothering him at this hour."),
-    (2, None, "'Hello, Viktor Petrovich, are you up already?' Lyuba checks in on her boss, making sure he is awake and getting ready for the day."),
-    (3, None, "'Of course, I have been up for a long time.' Lying through his teeth, he pretends he has been active and alert for quite a while."),
-    (4, None, "'You are lying to me, you are still sleeping!' Seeing right through his bluff, she calls him out on his obvious attempt to deceive her."),
-    (5, None, "'I am cheerful and full of new strength.' Trying to sound energetic, he claims to be completely refreshed and ready to go."),
-    (6, None, "'Viktor Petrovich, you will be late for work!' She issues a stern warning about the time, reminding him of his responsibilities."),
-    (7, None, "'Lyuba, leave me alone, I know my business.' Brushing off her concerns, the chef insists he has everything completely under control."),
-    (8, None, "'The restaurant is opening soon for guests.' Highlighting the urgency, the caller points out that service is about to begin."),
-    (9, None, "'You are the one who will be late for the shift today!' Flipping the blame, he attempts to turn the accusation around on his employee."),
-    (10, None, "'And when will you arrive at the kitchen yourself?' Refusing to back down, she directly asks for his actual estimated time of arrival."),
-    (11, None, "'And I am the chef, I will be a little late!' Pulling rank, the boss excuses his own tardiness by relying on his authority."),
+    (0, None, "'What is that noise early in the morning?' 'Chto za' means 'what sort of', and it often sounds annoyed. 'S utra poranshe' is a set phrase for 'at the crack of dawn', usually said with a groan."),
+    (1, None, "'Who is calling me so early in the morning?' 'Mne zvonit' is 'to me phones', so the person phoned goes in the 'to me' form. 'Utrom' ends in 'om' to mean 'in the morning'."),
+    (2, None, "'Hello, Viktor Petrovich, are you up already?' Lyuba uses the polite 'vy', so the verb is 'vstali', with the plural 'li', even though she's talking to one man. That's how you address a boss."),
+    (3, None, "'Of course, I have been up for a long time.' 'Na nogakh' is literally 'on feet', Russian for 'up and about'. 'Davno' covers the 'have been'."),
+    (4, None, "'You are lying to me, you are still sleeping!' 'Obmanyvaete' is 'you deceive', with the polite 'ete' ending. 'Eshchyo' means 'still' here, and in other lines 'more' or 'yet'."),
+    (5, None, "'I am cheerful and full of new strength.' After 'polon', full, the thing that fills goes into the 'of' form: 'sily' becomes 'sil', 'of strengths'. 'Bodryy' is brisk and wide awake."),
+    (6, None, "'Viktor Petrovich, you will be late for work!' Lyuba stays polite and puts 'will be late' in the future. 'Na rabotu' needs a 'u' on 'rabota' to show the direction."),
+    (7, None, "'Lyuba, leave me alone, I know my business.' 'Otstan'' is literally 'fall behind', and it's rude for 'get off my back'. 'Svoyo delo' is 'my own business', the thing he's good at."),
+    (8, None, "'The restaurant is opening soon for guests.' The restaurant 'opens itself', so 'otkryvaetsya' ends in 'sya'. 'Skoro' is just 'soon'."),
+    (9, None, "'You are the one who will be late for the shift today!' 'Eto ty' is 'it's you who', a handy way to hit back. 'Na smenu' is 'for the shift'."),
+    (10, None, "'And when will you arrive at the kitchen yourself?' 'Sami', yourself, is in the plural form, to match the polite 'vy'. The little 'a' at the start means 'and what about'."),
+    (11, None, "'And I am the chef, I will be a little late!' 'Zaderzhus'' means 'I will be held up', as in 'I will hold myself up'. 'A ya shef' is just 'and I chef', which is all the reason he needs."),
 ]

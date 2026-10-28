@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'timur': 'Тимур'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Having tasted the black caviar and praised its flavor, Chef Barinov is hit with a hefty price tag of two hundred thousand rubles. When Barinov admits he lost all his cash on a bad football bet, the supplier flatly refuses credit and demands payment for the sample. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the monetary expressions, gambling references, and transactional disputes."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Humiliated by his gambling losses, Chef Barinov is left empty-handed and petty-taxed by his unimpressed supplier. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to give back' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has tasted the caviar, and now it's time to pay. Timur wants two hundred thousand rubles, and Barinov has just lost his money on football. Let's hear it."
+OPENER = "Now I'll walk you through it."
+TRANSITION = 'One more run through, all the way.'
+OUTRO = 'No cash, no caviar, and a charge for the spoon. Barinov is in trouble, and he cannot see how to get out. Until we meet again, in Russian.'
 CLOSING = ('timur', 'Пока!')
 STORY = [
     ('barinov', 'Да, эта чёрная икра действительно очень вкусная.', 'Yes, this black caviar is indeed very tasty.', [(172, 'Да. Да. Вкусная')], ''),
@@ -23,23 +23,23 @@ STORY = [
     ('barinov', 'Тимур, оставь икру, а деньги отдам позже.', 'Timur, leave the caviar, and I will pay later.', [(175, 'оставляю икру, а деньги через неделю')], ''),
     ('timur', 'Нет денег — нет никакой вкусной икры.', 'No money — no delicious caviar.', [(176, 'нет налички, нет икры')], ''),
     ('barinov', 'Я поставил все деньги по твоему совету!', 'I bet all the money on your advice!', [(177, 'все деньги поставил на кони по твоей наводке')], ''),
-    ('timur', 'Ты проиграл на своих любимых быстрых конях.', 'You lost on your favorite fast horses.', [(178, 'На коней?')], ''),
-    ('barinov', 'Ты же сам клялся в их победе!', 'You yourself swore by their victory!', [(177, 'Тимур, я отдам')], ''),
+    ('timur', 'Ты всё проиграл на своих любимых конях.', 'You lost everything on your beloved horses.', [(178, 'На коней?')], ''),
+    ('barinov', 'Ты же сам клялся, что они выиграют!', 'You swore yourself that they would win!', [(177, 'Тимур, я отдам')], ''),
     ('timur', 'Пусть теперь твои кони приносят тебе икру.', 'Let your horses bring caviar to you now.', [(179, 'пусть твои кони тебе икру и мечут')], ''),
     ('barinov', 'Зачем ты убираешь этот товар обратно?', 'Why are you taking this merchandise back?', [(180, 'триста рублей годи')], ''),
-    ('timur', 'Кстати, верни триста рублей за эту ложку!', 'By the way, return three hundred rubles for this spoon!', [(180, 'триста рублей годи'), (182, 'Ты целую ложку икры съел')], ''),
+    ('timur', 'Кстати, с тебя триста рублей за эту ложку!', 'By the way, you owe three hundred rubles for this spoonful!', [(180, 'триста рублей годи'), (182, 'Ты целую ложку икры съел')], ''),
 ]
 WALK = [
-    (0, None, "'Yes, this black caviar is indeed very tasty.' Barinov simply draws that point by fusing 'yes' and 'caviar' plus 'tasty'."),
-    (1, None, "'How much money did you prepare for five kilograms?' Timur softly draws that thought by combining 'how' with 'you' along with 'kilograms'."),
-    (2, None, "'Name the exact price for all these goods.' Barinov clearly shapes the idea through connecting 'name' and 'for' and 'goods'."),
-    (3, None, "'That will be exactly two hundred thousand rubles right now.' Timur neatly makes that meaning through connecting 'that' with 'hundred' along with 'now'."),
-    (4, None, "'Timur, leave the caviar, and I will pay later.' Barinov clearly draws this concept through fusing 'timur' and 'i' as well as 'later'."),
-    (5, None, "'No money — no delicious caviar.' Timur warmly shapes the concept by grouping 'no' and 'no' along with 'caviar'."),
-    (6, None, "'I bet all the money on your advice!' Barinov truly gives such idea through merging 'i' with 'money' plus 'advice'."),
-    (7, None, "'You lost on your favorite fast horses.' Timur softly shapes this image through blending 'you' and 'favorite' along with 'horses'."),
-    (8, None, "'You yourself swore by their victory!' Barinov clearly draws the concept by blending 'you' and 'by' along with 'victory'."),
-    (9, None, "'Let your horses bring caviar to you now.' Timur plainly gives that picture through matching 'let' and 'bring' and 'now'."),
-    (10, None, "'Why are you taking this merchandise back?' Barinov simply forms the thought by fusing 'why' with 'this' as well as 'back'."),
-    (11, None, "'By the way, return three hundred rubles for this spoon!' Timur calmly brings some thought by pairing 'by' with 'hundred' as well as 'spoon'."),
+    (0, None, '\'Yes, this black caviar is indeed very tasty.\' "Deystvitelno", "indeed", is built on "deystvie", "action", so it means "in actual fact". "Vkusnaya" is "tasty", with -aya for "ikra". Barinov praises the caviar.'),
+    (1, None, '\'How much money did you prepare for five kilograms?\' "Skolko deneg", literally "how much of money", is "how much money": "dengi" becomes "deneg". "Prigotovil" is "you got ready", from "gotovit". Timur gets to business.'),
+    (2, None, '\'Name the exact price for all these goods.\' "Tovar", "goods", is singular in Russian, so it\'s "ves etot tovar", "all this goods". "Nazovi" is "name", said to one person. "Tochnuyu tsenu" is "the exact price".'),
+    (3, None, '\'That will be exactly two hundred thousand rubles right now.\' "S tebya", literally "from you", is the usual way to say "you owe". "Dvesti tysyach rubley" is "two hundred thousand rubles". "Pryamo seychas" is "right now".'),
+    (4, None, '\'Timur, leave the caviar, and I will pay later.\' "Ostav", "leave", is the verb in Max\'s "ya ostavil ego", "I left it". "Otdam", "I\'ll give back", is how you say you\'ll pay. "Pozzhe" is "later".'),
+    (5, None, '\'No money — no delicious caviar.\' "Net deneg, net ikry" is the pattern: after "net", "dengi" becomes "deneg" and "ikra" becomes "ikry". Short sayings like this are common. Timur says it like a rule.'),
+    (6, None, '\'I bet all the money on your advice!\' "Postavil", "I put", is how you say "I bet", as in "stavlyu". "Po tvoemu sovetu" is "on your advice", the same "po" as in Max\'s "po retseptu", "by the recipe".'),
+    (7, None, '\'You lost everything on your beloved horses.\' "Koni", "horses", is the nickname for CSKA, the Moscow football club, so the "horses" are the team Barinov bet on. "Na konyakh" is "on the horses". "Proigral" is "lost".'),
+    (8, None, '\'You swore yourself that they would win!\' "Klyalsya", "swore", has -sya on the end. "Vyigrayut" is "they will win", the opposite of "proigral", "lost". "Ty zhe sam" is "you yourself". Barinov blames Timur.'),
+    (9, None, '\'Let your horses bring caviar to you now.\' "Pust" is "let", and it opens the line. "Prinosyat" is "bring", as in bring again and again. "Tvoi koni" is "your horses". Timur is mocking him.'),
+    (10, None, '\'Why are you taking this merchandise back?\' "Ubiraesh" is "you\'re taking away", the same verb as "tidy up". "Obratno" is "back". "Zachem" is "what for". Barinov watches the caviar go.'),
+    (11, None, '\'By the way, you owe three hundred rubles for this spoonful!\' "Kstati" is "by the way". "S tebya", "from you", comes back for "you owe". "Za etu lozhku" is "for this spoon": "lozhka" becomes "lozhku" after "za".'),
 ]
