@@ -2972,71 +2972,23 @@
     },
     {
       "seg": 67,
-      "trans": "Yulia, come here, don't be upset! Come let me hug you!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "Юля,",
-          "lemma": "юля",
-          "pos": "name",
-          "stress": "Ю́ля",
-          "gloss": "Yulia",
-          "gram": "feminine first name, vocative/nominative"
-        },
-        {
-          "t": "ну",
-          "lemma": "ну",
-          "pos": "part",
+          "t": "До",
+          "lemma": "до",
+          "pos": "prep",
           "stress": null,
-          "gloss": "come on",
-          "gram": "particle"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "иди",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "иди́",
-          "gloss": "come",
-          "gram": "2nd person singular imperative, imperfective"
-        },
-        {
-          "t": "сюда,",
-          "lemma": "сюда",
-          "pos": "adv",
-          "stress": "сюда́",
-          "gloss": "here",
-          "gram": "adverb of direction"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "обижайся!",
-          "lemma": "обижаться",
-          "pos": "verb",
-          "stress": "обижа́йся",
-          "gloss": "be offended, be upset",
-          "gram": "2nd person singular imperative, imperfective"
-        },
-        {
-          "t": "Иди",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "Иди́",
-          "gloss": "come",
-          "gram": "2nd person singular imperative, imperfective"
-        },
-        {
-          "t": "обниму!",
-          "lemma": "обнять",
-          "pos": "verb",
-          "stress": "обниму́",
-          "gloss": "I'll hug (you)",
-          "gram": "1st person singular future, perfective"
+          "t": "встречи!",
+          "lemma": "встреча",
+          "pos": "noun",
+          "stress": "встре́чи",
+          "gloss": "meeting, next time",
+          "gram": "genitive feminine singular"
         }
       ]
     }
@@ -8524,6 +8476,104 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "встреча": {
+      "lemma": "встреча",
+      "stress": "встре́ча",
+      "pos": "noun",
+      "gloss": "meeting",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "meeting",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        },
+        {
+          "en": "see you",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "встреча",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "встречи",
+              "встреч"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "встрече",
+              "встречам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "встречу",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "встречей",
+              "встречами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "встрече",
+              "встречах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До встречи!",
+          "trans": "See you!"
+        },
+        {
+          "text": "У меня встреча.",
+          "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
         }
       ]
     }

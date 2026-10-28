@@ -3436,55 +3436,15 @@
     },
     {
       "seg": 91,
-      "trans": "I will go try to cook myself some porridge.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "пойду",
-          "lemma": "пойти",
-          "pos": "verb",
-          "stress": "пойду́",
-          "gloss": "will go",
-          "gram": "1st person singular future, perfective"
-        },
-        {
-          "t": "попробую",
-          "lemma": "попробовать",
-          "pos": "verb",
-          "stress": "попро́бую",
-          "gloss": "will try",
-          "gram": "1st person singular future, perfective"
-        },
-        {
-          "t": "приготовить",
-          "lemma": "приготовить",
-          "pos": "verb",
-          "stress": "пригото́вить",
-          "gloss": "to cook, to prepare",
-          "gram": "perfective infinitive"
-        },
-        {
-          "t": "себе",
-          "lemma": "себя",
-          "pos": "pron",
-          "stress": "себе́",
-          "gloss": "for myself",
-          "gram": "reflexive pronoun, dative"
-        },
-        {
-          "t": "кашу.",
-          "lemma": "каша",
-          "pos": "noun",
-          "stress": "ка́шу",
-          "gloss": "porridge",
-          "gram": "feminine singular accusative"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -9823,6 +9783,44 @@
         {
           "word": "ягодка",
           "gloss": "little berry"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

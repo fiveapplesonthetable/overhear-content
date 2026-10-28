@@ -1630,39 +1630,15 @@
     },
     {
       "seg": 55,
-      "trans": "It seems I injured my back.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Кажется,",
-          "lemma": "казаться",
-          "pos": "verb",
-          "stress": "Ка́жется",
-          "gloss": "it seems",
-          "gram": "3rd person singular present"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "спину",
-          "lemma": "спина",
-          "pos": "noun",
-          "stress": "спи́ну",
-          "gloss": "back",
-          "gram": "feminine accusative singular"
-        },
-        {
-          "t": "повредил.",
-          "lemma": "повредить",
-          "pos": "verb",
-          "stress": "повреди́л",
-          "gloss": "injured, damaged",
-          "gram": "masculine singular past (perfective)"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -5282,6 +5258,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

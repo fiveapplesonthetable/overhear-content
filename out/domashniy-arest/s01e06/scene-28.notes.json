@@ -2326,71 +2326,23 @@
     },
     {
       "seg": 55,
-      "trans": "But at least he loves his daughter!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "Но,",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "по",
-          "lemma": "по",
+          "t": "До",
+          "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, at (in по крайней мере = at least)",
-          "gram": "+ dative"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "крайней",
-          "lemma": "крайний",
-          "pos": "adj",
-          "stress": "кра́йней",
-          "gloss": "extreme, least (по крайней мере = at least)",
-          "gram": "feminine singular dative"
-        },
-        {
-          "t": "мере,",
-          "lemma": "мера",
+          "t": "встречи!",
+          "lemma": "встреча",
           "pos": "noun",
-          "stress": "ме́ре",
-          "gloss": "measure (по крайней мере = at least)",
-          "gram": "feminine singular dative"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "3rd person masculine singular, nominative"
-        },
-        {
-          "t": "дочь",
-          "lemma": "дочь",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "daughter",
-          "gram": "feminine singular accusative"
-        },
-        {
-          "t": "свою",
-          "lemma": "свой",
-          "pos": "det",
-          "stress": "свою́",
-          "gloss": "his own",
-          "gram": "feminine singular accusative"
-        },
-        {
-          "t": "любит!",
-          "lemma": "любить",
-          "pos": "verb",
-          "stress": "лю́бит",
-          "gloss": "loves",
-          "gram": "3rd person singular present, imperfective"
+          "stress": "встре́чи",
+          "gloss": "meeting, next time",
+          "gram": "genitive feminine singular"
         }
       ]
     }
@@ -6628,6 +6580,146 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "встреча": {
+      "lemma": "встреча",
+      "stress": "встре́ча",
+      "pos": "noun",
+      "gloss": "meeting",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "meeting",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        },
+        {
+          "en": "see you",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "встреча",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "встречи",
+              "встреч"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "встрече",
+              "встречам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "встречу",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "встречей",
+              "встречами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "встрече",
+              "встречах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До встречи!",
+          "trans": "See you!"
+        },
+        {
+          "text": "У меня встреча.",
+          "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
         }
       ]
     }

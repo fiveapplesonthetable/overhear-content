@@ -2152,47 +2152,23 @@
     },
     {
       "seg": 59,
-      "trans": "A wonderful future awaits us ahead!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "Впереди",
-          "lemma": "впереди",
-          "pos": "adv",
-          "stress": "Впереди́",
-          "gloss": "ahead",
-          "gram": "adverb"
-        },
-        {
-          "t": "нас",
-          "lemma": "мы",
-          "pos": "pron",
+          "t": "До",
+          "lemma": "до",
+          "pos": "prep",
           "stress": null,
-          "gloss": "us",
-          "gram": "plural accusative"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "ждёт",
-          "lemma": "ждать",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "awaits",
-          "gram": "present 3rd singular"
-        },
-        {
-          "t": "прекрасное",
-          "lemma": "прекрасный",
-          "pos": "adj",
-          "stress": "прекра́сное",
-          "gloss": "wonderful",
-          "gram": "neuter nominative singular"
-        },
-        {
-          "t": "будущее!",
-          "lemma": "будущий",
-          "pos": "adj",
-          "stress": "бу́дущее",
-          "gloss": "future",
-          "gram": "substantivized adjective, neuter nominative"
+          "t": "встречи!",
+          "lemma": "встреча",
+          "pos": "noun",
+          "stress": "встре́чи",
+          "gloss": "meeting, next time",
+          "gram": "genitive feminine singular"
         }
       ]
     }
@@ -7594,6 +7570,48 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
         }
       ]
     }

@@ -2998,63 +2998,23 @@
     },
     {
       "seg": 83,
-      "trans": "Ours is the fake cluster. Operation Golden Billion.",
+      "trans": "Goodbye!",
       "words": [
         {
-          "t": "У",
-          "lemma": "у",
+          "t": "До",
+          "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "at, with (у нас = ours is)",
+          "gloss": "until",
           "gram": "preposition + genitive"
         },
         {
-          "t": "нас",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural, genitive"
-        },
-        {
-          "t": "фальшивый",
-          "lemma": "фальшивый",
-          "pos": "adj",
-          "stress": "фальши́вый",
-          "gloss": "fake, phony",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "кластер.",
-          "lemma": "кластер",
+          "t": "свидания!",
+          "lemma": "свидание",
           "pos": "noun",
-          "stress": "кла́стер",
-          "gloss": "cluster",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "Операция",
-          "lemma": "операция",
-          "pos": "noun",
-          "stress": "Опера́ция",
-          "gloss": "operation",
-          "gram": "nominative singular, feminine"
-        },
-        {
-          "t": "«Золотой",
-          "lemma": "золотой",
-          "pos": "adj",
-          "stress": "Золото́й",
-          "gloss": "golden",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "ярд».",
-          "lemma": "ярд",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "billion (slang short for миллиард)",
-          "gram": "nominative singular, masculine"
+          "stress": "свида́ния",
+          "gloss": "meeting (goodbye)",
+          "gram": "genitive neuter singular"
         }
       ]
     }
@@ -9175,6 +9135,138 @@
         }
       ],
       "register": "slang (in the 'billion' sense)"
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
+        }
+      ]
+    },
+    "свидание": {
+      "lemma": "свидание",
+      "stress": "свида́ние",
+      "pos": "noun",
+      "gloss": "meeting; date",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "до свидания = goodbye",
+          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        },
+        {
+          "en": "date (romantic)",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "свидания",
+              "свиданий"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "свиданию",
+              "свиданиям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "свиданием",
+              "свиданиями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "свидании",
+              "свиданиях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "У меня сегодня свидание.",
+          "trans": "I have a date today."
+        },
+        {
+          "text": "У неё свидание.",
+          "trans": "She has a date."
+        }
+      ],
+      "related": [
+        {
+          "word": "видать",
+          "gloss": "to see"
+        }
+      ]
     }
   }
 }

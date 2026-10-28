@@ -1732,55 +1732,15 @@
     },
     {
       "seg": 51,
-      "trans": "Let's find out the name of our grand winner!",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Давайте",
-          "lemma": "давать",
-          "pos": "verb",
-          "stress": "Дава́йте",
-          "gloss": "let us",
-          "gram": "cohortative imperative"
-        },
-        {
-          "t": "узнаем",
-          "lemma": "узнать",
-          "pos": "verb",
-          "stress": "узна́ем",
-          "gloss": "find out",
-          "gram": "1st person plural future, perfective"
-        },
-        {
-          "t": "имя",
-          "lemma": "имя",
-          "pos": "noun",
-          "stress": "и́мя",
-          "gloss": "name",
-          "gram": "neuter singular accusative"
-        },
-        {
-          "t": "нашего",
-          "lemma": "наш",
-          "pos": "det",
-          "stress": "на́шего",
-          "gloss": "our",
-          "gram": "masculine singular genitive"
-        },
-        {
-          "t": "главного",
-          "lemma": "главный",
-          "pos": "adj",
-          "stress": "гла́вного",
-          "gloss": "main",
-          "gram": "masculine singular genitive"
-        },
-        {
-          "t": "победителя!",
-          "lemma": "победитель",
-          "pos": "noun",
-          "stress": "победи́теля",
-          "gloss": "winner",
-          "gram": "masculine singular genitive"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -6626,6 +6586,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

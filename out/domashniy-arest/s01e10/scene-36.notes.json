@@ -2368,63 +2368,23 @@
     },
     {
       "seg": 59,
-      "trans": "But I will never forgive your deceit.",
+      "trans": "Have a good day!",
       "words": [
         {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "coord"
+          "t": "Хорошего",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good",
+          "gram": "genitive masculine singular"
         },
         {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "nom.1sg"
-        },
-        {
-          "t": "никогда",
-          "lemma": "никогда",
-          "pos": "adv",
-          "stress": "никогда́",
-          "gloss": "never",
-          "gram": "adverb"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "neg"
-        },
-        {
-          "t": "прощу",
-          "lemma": "простить",
-          "pos": "verb",
-          "stress": "прощу́",
-          "gloss": "to forgive; (imperative) excuse me",
-          "gram": "1sg.fut"
-        },
-        {
-          "t": "твой",
-          "lemma": "твой",
-          "pos": "det",
-          "stress": null,
-          "gloss": "your (informal)",
-          "gram": "acc.m.sg"
-        },
-        {
-          "t": "обман.",
-          "lemma": "обман",
+          "t": "дня!",
+          "lemma": "день",
           "pos": "noun",
-          "stress": "обма́н",
-          "gloss": "deceit, trick",
-          "gram": "acc.m.sg"
+          "stress": null,
+          "gloss": "day",
+          "gram": "genitive masculine singular"
         }
       ]
     }
@@ -7289,6 +7249,92 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "день": {
+      "lemma": "день",
+      "stress": "день",
+      "pos": "noun",
+      "gloss": "day",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "day",
+          "note": "на днях = in the next few days, or the other day"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дня",
+              "дней"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "дню",
+              "дням"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "днём",
+              "днями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "дне",
+              "днях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добрый день!",
+          "trans": "Good afternoon!"
+        },
+        {
+          "text": "Я позвоню на днях.",
+          "trans": "I'll call in the next few days."
+        },
+        {
+          "text": "На днях, на сайте.",
+          "trans": "Any day now, on the website."
+        }
+      ],
+      "related": [
+        {
+          "word": "деньги",
+          "gloss": "money"
         }
       ]
     }

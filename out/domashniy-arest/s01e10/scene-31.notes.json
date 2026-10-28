@@ -2146,23 +2146,15 @@
     },
     {
       "seg": 63,
-      "trans": "Mama, look!",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Мама,",
-          "lemma": "мама",
-          "pos": "noun",
-          "stress": "Ма́ма",
-          "gloss": "mama",
-          "gram": "feminine animate, vocative/nominative"
-        },
-        {
-          "t": "смотри!",
-          "lemma": "смотреть",
-          "pos": "verb",
-          "stress": "смотри́",
-          "gloss": "look",
-          "gram": "imperative 2nd person singular"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -6465,6 +6457,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

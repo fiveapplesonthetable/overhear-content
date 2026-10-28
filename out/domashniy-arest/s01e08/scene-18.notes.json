@@ -2142,47 +2142,15 @@
     },
     {
       "seg": 59,
-      "trans": "I like your mom very much.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Твоя",
-          "lemma": "твой",
-          "pos": "det",
-          "stress": "Твоя́",
-          "gloss": "your",
-          "gram": "feminine nominative singular"
-        },
-        {
-          "t": "мама",
-          "lemma": "мама",
-          "pos": "noun",
-          "stress": "ма́ма",
-          "gloss": "mom",
-          "gram": "feminine nominative singular"
-        },
-        {
-          "t": "мне",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to me",
-          "gram": "1st person singular, dative"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
+          "t": "Пока!",
+          "lemma": "пока",
           "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "нравится.",
-          "lemma": "нравиться",
-          "pos": "verb",
-          "stress": "нра́вится",
-          "gloss": "pleases, is liked",
-          "gram": "3rd person singular present"
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -6247,6 +6215,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

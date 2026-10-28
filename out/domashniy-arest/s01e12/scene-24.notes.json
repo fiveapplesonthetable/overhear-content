@@ -2374,63 +2374,15 @@
     },
     {
       "seg": 55,
-      "trans": "Yes, I will tell everything and show the place!",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes",
-          "gram": "affirmative particle"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "всё",
-          "lemma": "всё",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "neuter singular accusative"
-        },
-        {
-          "t": "расскажу",
-          "lemma": "рассказать",
-          "pos": "verb",
-          "stress": "расскажу́",
-          "gloss": "will tell",
-          "gram": "1st person singular future, perfective"
-        },
-        {
-          "t": "и",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "покажу",
-          "lemma": "показать",
-          "pos": "verb",
-          "stress": "покажу́",
-          "gloss": "will show",
-          "gram": "1st person singular future, perfective"
-        },
-        {
-          "t": "место!",
-          "lemma": "место",
-          "pos": "noun",
-          "stress": "ме́сто",
-          "gloss": "place",
-          "gram": "neuter singular accusative"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -8242,6 +8194,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }
