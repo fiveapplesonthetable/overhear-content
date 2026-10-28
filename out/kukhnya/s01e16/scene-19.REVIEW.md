@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where is your work permit?' 'Razreshenie', 'permit', comes from 'razreshit', 'to allow'. 'Na rabotu', literally 'onto work', is the 'for work' part.
 - 'It's at home.' 'U menya doma' is literally 'at me at home', the usual way to say 'at my place'. 'Ono', 'it', is neuter because 'razreshenie' is neuter.
 - 'Where have you come from?' 'Otkuda' means 'from where', a single word. 'Priekhali' means 'came' by transport, not on foot, and it's what Russians ask a newcomer.
-- 'From Moldova.' 'Iz', 'from', changes 'Moldova' to 'Moldovy'. Many Russians still say the older name 'Moldaviya'.
+- 'From Moldova.' After 'iz', 'from', the country takes a new ending: 'Moldova' becomes 'Moldovy'. Many Russians still say the older name 'Moldaviya'.
 - 'So you do need a permit.' 'Znachit', literally 'it means', is the everyday 'so' when you draw a conclusion. 'Vam nuzhno' is literally 'to you it is needed'.
 - 'I just haven't had time to get it done.' 'Ne uspel' means 'didn't manage in time', from 'uspet', 'to make it in time'. English has no single word for it.
 - 'This is a big problem for the restaurant.' 'Problema' is feminine, so 'bolshaya', 'big', ends in '-aya'. 'Dlya restorana', 'for the restaurant', adds '-a' after 'dlya', 'for'.
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What are you going to do now?' 'Budete delat' is 'will be doing': the future of 'byt', 'to be', plus the plain verb. 'Teper' means 'now', in the sense of 'from now on'.
 - 'I need to talk to your boss.' 'Mne nuzhno', 'to me it is needed', is the usual 'I need to'. 'Pogovorit' means 'to have a talk', and 'nachalnik' means 'boss'.
 - 'Get up. Come with me.' 'Vstavayte', 'get up', speaks to him as 'vy'. 'Proydyomte' is literally 'let's go through', with the polite '-te' on the end, and it is what police and officials say.
-- 'Well, let's go.' 'Poydyomte' is the ordinary polite 'let's go'. 'Nu', 'well', makes it sound like giving in.
+- 'Well, let's go.' 'Poydyomte' is the ordinary 'let's go' with the polite '-te' ending, so Fedya stays formal with the officer. 'Nu', 'well', makes it sound like giving in.
