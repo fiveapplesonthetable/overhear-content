@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Костя | Он спас вечер. | He saved the evening. | new | new |
 | 4 | Настя | Да, она наговорила гадости. | Yeah, she said awful things. | #310 00:20:26: Да, она наговорила<br>#310 00:20:26: гадости | verbatim |
 | 5 | Настя | Ему всякие гадости. | All sorts of awful things to him. | #310 00:20:26: ему всякие гадости | verbatim |
-| 6 | Настя | И ей очень стыдно. | And she feels terrible. | #310 00:20:26: и ему очень стыдно | verbatim |
+| 6 | Настя | И ему очень стыдно. | And he feels terrible. | #310 00:20:26: и ему очень стыдно | verbatim |
 | 7 | Костя | И как же она это исправит? | So how's she going to make it right? | #311 00:20:31: И как же она это исправит | verbatim |
 | 8 | Костя | Что она будет делать? | What will she do? | new | new |
 | 9 | Настя | А, водка. | Ah, vodka. | #312 00:20:34: А, водка | verbatim |
@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He saved the evening.' 'Spas' is 'saved'. The same root sits in spasibo, which grew out of 'spasi Bog', 'God save you'.
 - 'Yeah, she said awful things.' 'Nagovorila' is govorit, to talk, with 'na' added, so it's 'said a whole heap'. It's usually things you'd rather not have said.
 - 'All sorts of awful things to him.' Nastya just carries on the sentence. 'Vsyakie' means 'all sorts of', and emu is 'to him'.
-- 'And she feels terrible.' Literally 'to her very ashamed'. 'Ey' is 'to her', and stydno, ashamed, is something that happens to a person.
+- 'And he feels terrible.' Literally 'to him very ashamed'. 'Emu' is 'to him' again, and stydno, ashamed, is something that happens to a person.
 - 'So how's she going to make it right?' 'Ispravit' is 'to put right', with prav, the root of pravilno, 'correctly'. Zhe adds the 'so' of a curious question.
 - 'What will she do?' 'Budet delat', 'will be doing', is the future with budet plus the basic form. Kostya asks about the process, not the result.
 - 'Ah, vodka.' Vodka is voda, water, plus the small-and-dear ending 'ka': literally 'little water'.
