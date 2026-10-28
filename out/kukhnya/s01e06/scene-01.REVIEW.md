@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, look at the guests in the dining room.' 'Look' is the command you give a friend, and 'at the guests' needs a short word for 'at' in front. 'In the hall' is just 'in' plus a short word with an 'e' at the end, which is how Russian shows a place.
 - 'They are ordering our specialty dishes.' The long describing word for 'specialty' comes from 'firm' or 'company', so it means 'the house's own'. You'll see it on menus.
 - 'People come here every evening.' 'People' is a plural-only word; Russian has a different word when you mean one person. 'Every evening' needs no 'in' or 'on', just the two words side by side.
-- 'Everyone chooses their favorite dish.' 'Favorite' is built on 'to love'. 'Their own' is a small word that points back at the person doing the choosing.
+- 'Everyone chooses their favorite dish.' 'Favorite' is rooted in 'to love'. 'Their own' is a word that points back at the person doing the choosing.
 - 'They do not think about the food's journey.' Russian shows 'of' by changing the end of the word, so 'journey of food' needs no word for 'of'. 'Think about' is followed by a short 'about' word.
 - 'Which dish travels a long way?' The question word 'which' matches 'dish' in its ending. 'Travels' is 'passes through', which fits a dish going from the market to the table.
 - 'Every dish begins its journey at the market.' Russian uses 'on' for markets, so it says 'on the market'. 'Begins' ends in 'et', which is the ending for 'it' or 'he'.
 - 'Then the cooks prepare the order in the kitchen.' 'Cooks' ends in 'a', one of the few plurals that does. 'Prepare' ends in 'yat', which is how 'they' sounds.
 - 'The whole kitchen works for one plate.' 'For the sake of' is a single short word, and it asks for the next word to change: 'one plate' becomes 'of one plate'. 'Whole' agrees with 'kitchen' and ends in 'a'.
 - 'The cooks rush very much and get nervous.' 'Get nervous' comes from 'nerves'. Both actions end in 'yut' or 'ayut', the 'they' ending.
-- 'And guests only see the delicious result.' 'Delicious' is built on 'taste'. 'Result' is borrowed and looks like the English one.
+- 'And guests only see the delicious result.' 'Delicious' is based on 'taste'. 'Result' is borrowed and looks like the English one.
 - 'For them this is a real celebration of taste.' 'For them' is two small words. 'Celebration' is also the word for a public holiday, and 'of taste' is the same 'of' by ending.
 - 'Soon our usual working evening will begin.' 'Soon' is the same word that means 'quickly' in some sentences. 'Working' is made from 'work', so 'a working evening' is an evening of work.

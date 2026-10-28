@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Careful, you impaled me with your sausage!' 'Careful' is the same short warning you hear at the kitchen door. 'With your own sausage' ends in 'oy', which is the Russian 'with'.
 - 'Louis, stop screaming so loudly.' 'Stop' is a command you can use on anyone. 'Loudly' and 'to shout' come from the same family.
-- 'Tell Maria that I loved her!' 'Tell' is followed by 'to Maria', in which the name ends in 'i'. 'Loved' ends in 'l' because Louis is a man.
-- 'Stop dying, we need to clean the kitchen.' 'Enough' is followed by 'dying', so it is 'enough dying'. The verb 'clean up' means to put things away and make a place tidy.
-- 'Does Chef force us to wash these shelves?' 'Forces' is a strong word. 'Us' is a small word, and 'shelves' is the plural.
+- 'Tell Maria that I loved her!' 'Tell' is followed by 'to Maria', in which the name ends in 'i'. 'Loved' carries 'l' since Louis is a man.
+- 'Stop dying, we need to clean the kitchen.' 'Enough' is followed by 'dying', so it comes out as 'enough dying'. The verb 'clean up' means to put things away and make a place tidy.
+- 'Does Chef force us to wash these shelves?' 'Forces' is a strong word, close to 'makes us'. 'Us' takes a short form, and 'shelves' is the plural.
 - 'Yes, Chef demands perfect cleanliness everywhere.' 'Demands' is followed by 'cleanliness' with a different ending. 'Everywhere' is a handy word for 'in every place'.
 - 'Dust has been lying here for a whole year!' Russian says dust 'lies', as in lies on a shelf. 'Whole' is placed in front of 'year' to emphasize it.
 - 'Since the restaurant opened nobody has cleaned here.' 'Since the opening' is one small word and then a changed noun. 'Nobody' comes with 'not', as it must.
 - 'Then quickly take a rag and water.' 'Take' is a command. 'Water' has an 'u' ending because it's the thing you take.
 - 'I am ready, let's finish this work.' 'Let's finish' is the form that sounds like 'we will finish'. 'Ready' is the man's form.
-- 'The main thing is that Chef is very pleased.' 'So that' is a small word that makes the next part a wish. 'Pleased' is the man's form of 'satisfied'.
+- 'The main thing is that Chef is very pleased.' 'So that' makes the next part a wish, and it is why the past form follows. 'Pleased' is the man's form of 'satisfied'.
 - 'Exactly, otherwise we will really get it!' 'Otherwise' is a handy single word. 'We'll get it' is literally 'it will reach us', which is the way to say we'll catch it.

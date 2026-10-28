@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Rump, bring one truffle here quickly!' The nickname is a cut of meat from the rear of the animal. 'Bring' is slangy, and it means 'haul'.
 - 'Table seven ordered a salad with truffles.' A table is named by an ordinal, so it's literally 'the seventh little table'. 'With truffles' puts an 'ami' on the end.
 - 'Chef, I will bring everything quickly now.' 'I will bring' starts with 'pri', the piece that means 'toward'. 'Now' and 'quickly' stand side by side.
-- 'Nastya, stop, I urgently need help!' 'Stop' comes from 'stand'. 'Help' is a she-word, so 'needed' ends in 'a'.
-- 'What happened, Max? What is it?' 'What is it' is two small words that mean 'what's up'. 'Happened' is built on 'chance'.
+- 'Nastya, stop, I urgently need help!' 'Stop' comes from 'stand'. 'Help' is one of the she-words, so 'needed' ends in 'a'.
+- 'What happened, Max? What is it?' 'What is it' is two small words that mean 'what's up'. 'Happened' is related to 'chance'.
 - 'Tell the guest that the truffles are bad today.' 'To the guest' has an 'u' on the end. 'Bad' is in the plural to match the truffles.
-- 'Let him order any other dish!' 'Let him' is a single word. 'Any' and 'other' agree with 'dish'.
+- 'Let him order any other dish!' 'Any' and 'other' agree with 'dish'.
 - 'No, I cannot say that.' 'I can't' is the flat 'cannot'. 'Like that' is two words glued together.
-- 'The guest came especially for this salad.' 'Especially' is built on 'special'. 'For the sake of' takes the next word in an 'of' form.
+- 'The guest came especially for this salad.' 'Especially' rests on 'special'. 'For the sake of' takes the next word in an 'of' form.
 - 'But I do not have this truffle!' 'At me there isn't' is the way to say 'I don't have', and the truffle changes its ending. 'This' changes with it.
 - 'He is a very strict and important person.' 'Person' is a word that works for men and women. 'Strict' and 'important' are in the same shape.
 - 'By the way, he asked to pass you a note.' 'By the way' is a one-word way to change the subject. 'Note' comes from 'to write down'.

@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello, restaurant, I want to reserve a table.' 'Hello' of this kind is used only on the phone. 'Reserve' is borrowed from French, and a 'stolik' is a 'little table'.
 - 'Max, for whom exactly are you booking a table?' 'For whom' is two words, and the second one has a changed shape. 'Booking' is literally 'ordering'.
-- 'For the famous Russian writer Viktor Pelevin.' 'Famous' comes from 'known'. 'Writer' is built on 'write', and every word changes its ending after 'for'.
-- 'Are you out of your mind, what Pelevin?' 'Gone off the mind' is the Russian idiom for 'crazy'. 'What Pelevin' is a dismissive way to say 'what are you talking about'.
+- 'For the famous Russian writer Viktor Pelevin.' 'Famous' comes from 'known'. 'Writer' springs from 'write', and every word changes its ending after 'for'.
+- 'Are you out of your mind, what Pelevin?' 'Gone off the mind' is the Russian idiom for 'crazy'. 'What Pelevin' is a dismissive way of saying 'what are you talking about'.
 - 'The administrator was very pleased with such an important guest.' 'Was pleased' is feminine, so the administrator is a woman. 'Such an important guest' has the 'to' ending on both words.
-- 'And what if Victoria knows his face?' 'Knows him in the face' is the Russian way to say 'recognizes him'. 'What if' is a short phrase.
+- 'And what if Victoria knows his face?' 'Knows him in the face' is the Russian phrase for saying 'recognizes him'. 'What if' is a short phrase.
 - 'Pelevin is a mysterious writer, nobody has seen him.' 'Mysterious' comes from 'riddle'. 'Nobody has seen' has the usual double 'no'.
-- 'What if there are devoted readers of his in the restaurant?' 'Devoted' comes from 'give over'. 'Readers' is built on 'read'.
+- 'What if there are devoted readers of his in the restaurant?' 'Devoted' comes from 'give over'. 'Readers' is rooted in 'read'.
 - 'They only saw his name on the cover.' 'Name' is a neuter word and does not change in this form. 'On the cover' has an 'e' for the place.
-- 'How will Rodion be able to convincingly portray a genius?' 'Convincingly' comes from 'convince'. 'Will be able' is a single word with a future sense.
+- 'How will Rodion be able to convincingly portray a genius?' 'Convincingly' comes from 'convince'. 'Will be able' is one word with a future sense.
 - 'He will simply put on dark black glasses.' 'Glasses' is plural only in Russian, as it is in English. 'Dark' and 'black' together are an emphatic pair.
-- 'I hope this crazy gamble will work today.' 'Crazy' is built from 'without' and 'mind', which echoes the 'out of your mind' idiom. 'Will work' means 'will come off'.
+- 'I hope this crazy gamble will work today.' 'Crazy' is pieced together from 'without' and 'mind', which echoes the 'out of your mind' idiom. 'Will work' means 'will come off'.

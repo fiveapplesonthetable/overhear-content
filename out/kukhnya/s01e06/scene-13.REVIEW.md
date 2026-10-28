@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where did you find this box?' Max uses the informal 'you' with a stranger, which is rude, and Rodion will answer politely. 'Found' ends in a consonant because it's about a man.
 - 'You were looking for expensive truffles in the trash.' Rodion answers with the polite 'you', which is a contrast. 'At the dump' uses 'on', not 'in'.
 - 'Please, give them back to us quickly!' 'Give back' has a prefix that means 'away'. 'Them' and 'to us' are two small words, one after the other.
-- 'First introduce yourself politely, young man.' 'Introduce yourself' ends in 'sya', so it is 'present yourself'. 'Young man' is the usual way to address a man you don't know.
+- 'First introduce yourself politely, young man.' 'Introduce yourself' ends in 'sya', meaning 'present yourself'. 'Young man' is the usual way to address a man you don't know.
 - 'My name is Max, and this is Kostya.' Russian says 'they call me Max', and the 'they' is not named. 'And this is' is a handy way to present a friend.
 - 'Very pleased, and I am Rodion Sergeyevich.' 'Pleasant' is what Russians say when they meet someone, as in 'nice to meet you'. The second name is the father's, so 'Sergeyevich' is 'son of Sergey'.
 - 'What do you want for these mushrooms?' Max calls truffles 'mushrooms', which is what they are. 'For' here means 'in return for'.
-- 'I need one small friendly favor.' 'Small' is 'not big', made from the two words. 'Friendly' is built on 'friend'.
+- 'I need one small friendly favor.' 'Small' is 'not big', made from the two words. 'Friendly' is derived from 'friend'.
 - 'We can pay you a little money.' 'A little' is followed by the 'of' form of 'money', as if it were 'a little of money'. 'To you' is a single short word.
 - 'No, I want a luxurious lunch here.' The meal in the middle of the day is a main one in Russia, and this word names it. 'Luxurious' comes from 'luxury'.
 - 'But the guards won't let you in!' 'Won't let in' is made from 'let' with a negative. 'Inside' is the movement word for 'to the inside'.

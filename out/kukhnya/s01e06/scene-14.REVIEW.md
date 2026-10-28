@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Bargaining is completely inappropriate here, young man.' 'Inappropriate' is made of 'not' plus 'fitting'. Rodion keeps the grand word and the 'young man' to sound lofty.
 - 'But this is a very expensive restaurant!' The little word in the middle adds 'after all', as if it were obvious. 'Expensive' is the word that also means 'dear'.
 - 'I know this fine restaurant perfectly well.' The same word is used twice, as 'finely' and 'fine', which makes it sound like Rodion enjoys it. 'Know' here is about a place.
-- 'The administrator will throw you out into the street immediately.' 'Throw out' has a prefix that means 'out', and the street is the place you are thrown to. 'Immediately' is a short word.
+- 'The administrator will throw you out into the street immediately.' 'Throw out' has a prefix that means 'out', and the street is the place you are thrown to.
 - 'In a decent suit nobody will recognize me.' 'In a suit' means 'wearing a suit', and Russian uses 'in' for clothes. 'Recognize' comes from 'know'.
-- 'And what if you accidentally ruin someone else's clothes?' 'Accidentally' comes from 'chance'. 'Someone else's' is one word that stands for 'not mine'.
+- 'And what if you accidentally ruin someone else's clothes?' 'Accidentally' comes from 'chance'. 'Someone else's' is a single word that stands for 'not mine'.
 - 'I promise to behave extremely neatly.' 'To behave' is 'to lead oneself'. 'Extremely' is also 'at the edge', which is how Russian exaggerates.
 - 'Where exactly are our missing truffles hidden?' 'Hidden' ends in a plural, to agree with 'truffles'. 'Missing' means 'having gone missing'.
 - 'You will receive the truffles right after lunch.' 'Will receive' is a polite future, with 'you' as a group. 'After lunch' puts 'after' before a changed ending.

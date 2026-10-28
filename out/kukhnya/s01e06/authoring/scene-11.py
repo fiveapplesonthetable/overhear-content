@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "The sanitary inspector has finished with the dining room, and Vika walks him through to the kitchen. She is polite and confident. He is polite and very, very thorough. It's in Russian first, and there is a lot of formal language to enjoy."
 OPENER = "Let's go back. Notice that both of them use the polite 'you' and the official words."
-TRANSITION = 'And the whole formal exchange once more.'
+TRANSITION = "Let's hear it all the way through."
 OUTRO = "You've now heard a formal Russian conversation, with 'please', 'you', and 'welcome'. It's the opposite of the shouting in the kitchen, and it's good practice for official situations. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Добро пожаловать на нашу кухню!', 'Welcome to our kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Come in, please, here is our kitchen.' 'Come through' is the polite way to invite someone to walk ahead. 'Here is' is a small word that points."),
-    (1, None, "'Regarding the hall, I have no complaints.' 'Regarding' is a small word that takes the next word in a changed shape. 'Complaints' follows the 'there are none' phrase and is therefore in the 'of' form."),
-    (2, None, "'We strictly monitor cleanliness everywhere.' 'Strictly' is built on 'strict'. 'Monitor' is followed by 'over' and 'cleanliness'."),
+    (0, None, "'Come in, please, here is our kitchen.' 'Come through' is the courteous way to invite someone to walk ahead. 'Here is' points at things without needing a verb."),
+    (1, None, "'Regarding the hall, I have no complaints.' 'Regarding' makes the next word change its shape. 'Complaints' follows the 'there are none' phrase and is therefore in the 'of' form."),
+    (2, None, "'We strictly monitor cleanliness everywhere.' The word for 'strictly' is built on the Russian for 'strict'. 'Monitor' is followed by the small word 'over' and then 'cleanliness', so Russians say 'watch over cleanliness'."),
     (3, None, "'Now let's look at your kitchen carefully.' 'Let's look' ends in 'im', as 'we' does. 'Your' is the polite form because he is speaking to the staff."),
-    (4, None, "'We have the best cooks working here.' 'At us here' is the way to say 'we have'. 'Best' is in the plural to match 'cooks'."),
+    (4, None, "'We have the best cooks working here.' 'At us here' is the phrase for saying 'we have'. 'Best' is in the plural to match 'cooks'."),
     (5, None, "'I am interested only in sanitary rules.' Russian turns the sentence round: 'me interest only the rules'. The rules are the thing doing the interesting."),
-    (6, None, "'All employees wear a clean uniform.' 'Employees' is built from 'with' and 'work', so they are 'co-workers'. 'Wear' is 'carry'."),
-    (7, None, "'I myself will check every workstation.' 'Myself' stresses that he will not trust anyone's report. 'Every' agrees with 'workstation' in its shape."),
-    (8, None, "'Our head chef personally oversees everything.' 'Personally' is built on 'personal'. 'Oversees' ends in 'et', as it is about one person."),
-    (9, None, "'In the kitchen one must not violate rules.' 'must not' is a flat 'forbidden', the opposite of 'allowed'. It's the word on prohibition signs."),
-    (10, None, "'You can see everything yourselves.' 'You can' is the polite form. 'Yourselves' ends in a plural, because Vika addresses him politely."),
-    (11, None, "'Then we begin a full sanitary inspection.' 'We begin' ends in 'em'. 'Full' and 'sanitary' are both in the shape to agree with 'inspection'."),
-    (12, None, "'Welcome to our kitchen!' The first phrase is a formal 'welcome', close to 'good to come'. It's what you see on a doormat or hear at a door."),
+    (6, None, "'All employees wear a clean uniform.' 'employees' is literally 'co-workers', built from 'with' and 'work'. The term for 'wear' is also the term for 'carry'."),
+    (7, None, "'I myself will check every workstation.' 'myself' stresses that he will not trust anyone's report. 'Every' has an ending that agrees with 'workstation'."),
+    (8, None, "'Our head chef personally oversees everything.' 'personally' stems from the expression for 'personal'. 'oversees' ends in 'et', as it is about one person."),
+    (9, None, "'In the kitchen one must not violate rules.' The Russian for 'must not' is a flat 'forbidden', and it means the opposite of 'allowed'. It is the word you see on prohibition signs."),
+    (10, None, "'You can see everything yourselves.' 'You can' is the respectful form. 'Yourselves' ends in a plural, because Vika addresses him politely."),
+    (11, None, "'Then we begin a full sanitary inspection.' The word for 'we begin' ends in 'em', which is the 'we' ending. 'Full' and 'sanitary' both take the ending that agrees with 'inspection'."),
+    (12, None, "'Welcome to our kitchen!' The opening phrase is a formal word for 'welcome', and it is literally close to 'good to come'. It is what you see on a doormat or hear at a door."),
 ]

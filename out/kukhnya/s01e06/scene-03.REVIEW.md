@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So, cooks, chop all the vegetables.' The command starts with 'na' and ends in 'te', which is for a group. 'Vegetables' is a plural that ends in 'i'.
 - 'Chef, we are already chopping onions.' 'We chop' ends in 'em'. 'onion' also means 'a bow', as in bow and arrow.
 - 'Chop faster, guests will come soon.' This is the same word 'chop', now as a group command. 'Will come' is the future of 'arrive'.
-- 'And where will we get fresh meat?' 'Where' asks about a place, not a direction. 'Will take' is the Russian way to say 'will get'.
+- 'And where will we get fresh meat?' 'Where' asks about a place, not a direction. 'Will take' is the Russian phrase for saying 'will get'.
 - 'First a cook selects the best products.' 'First' is made from 'from' and 'beginning', so 'from the start'. 'Best' ends in 'ie', to match the plural 'products'.
 - 'Do we buy meat in a shop?' Again no word for 'do', just the rising voice. 'In a shop' ends in 'e' for the place.
 - 'No, I choose everything myself at the market.' 'Myself' sits before the action it stresses. The market takes 'na', not 'v', which is why it says 'on the market'.
-- 'Do you personally inspect every piece?' Max says 'you' politely, so the action ends in 'ete'. 'Personally' is built from 'personal'.
-- 'A real chef does not trust strangers.' 'Trust' is built from 'faith', so it is 'to give faith to'. 'Strangers' is made from 'someone else's', with an ending for 'to'.
-- 'May I go with you?' 'Is it possible to me' is the standard way to ask permission. 'With you' is the polite 'you', in the 'with' form.
+- 'Do you personally inspect every piece?' Max says 'you' politely, so the action ends in 'ete'. 'Personally' is taken from 'personal'.
+- 'A real chef does not trust strangers.' 'Trust' starts from 'faith', so it comes out as 'to give faith to'. 'Strangers' is made from 'someone else's', with an ending for 'to'.
+- 'May I go with you?' 'Is it possible to me' is the standard way to ask permission. 'With you' is the courteous 'you', in the 'with' form.
 - 'You will stay in the kitchen peeling potatoes.' 'You will stay' ends in 'sya'. 'potato' here is the everyday one.
-- 'I dreamed of selecting the best products.' 'Dreamed' is built from 'a dream'. The 'l' at the end shows the speaker is a man.
-- 'First learn to cut without mistakes!' 'Learn' ends in 'sya', so it is 'teach yourself'. 'Without mistakes' puts the ending 'ok' on 'mistake'.
+- 'I dreamed of selecting the best products.' 'Dreamed' is pieced together from 'a dream'. The 'l' at the end shows the speaker is a man.
+- 'First learn to cut without mistakes!' 'Learn' ends in 'sya', meaning 'teach yourself'. 'Without mistakes' puts the ending 'ok' on 'mistake'.

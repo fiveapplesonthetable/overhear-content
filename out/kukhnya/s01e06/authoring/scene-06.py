@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Max has just found out that the shaving story was a prank, and now he has the real inspection to worry about. In the kitchen, Vika, who runs the dining room, tells Barinov that the sanitary inspector is coming, and Barinov has his own idea of how to deal with it. It's in Russian first."
 OPENER = "Let's go back through it. Vika is exasperated, and Barinov is relaxed in a way that should worry you."
-TRANSITION = 'And the whole argument again.'
+TRANSITION = 'Here goes the full scene.'
 OUTRO = "Look at 'if there were order, we wouldn't pay': that one small word, doing the work twice, is how Russian says 'would'. It's a handy shape to know. See you next time."
 CLOSING = ('max', 'До встречи!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Я пойду мыть полы на кухне.', 'I will go wash the floors in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Do they trick all newcomers like that?' 'newcomers' is built from 'new'. 'Like that' is two short words that are useful in many sentences."),
-    (1, None, "'I must quickly put on my chef's hat.' Russian has one word for putting on clothes yourself, and another for dressing someone else. 'Cook's' is made from 'cook', so it is the cook's cap."),
-    (2, None, "'Chef, today is the fifteenth, do you remember?' Vika uses the informal 'you' with her boss, which tells you how close they are. 'Remember' is built from 'memory'."),
+    (0, None, "'Do they trick all newcomers like that?' 'newcomers' is made from 'new'. 'Like that' is two short words that are useful in many sentences."),
+    (1, None, "'I must quickly put on my chef's hat.' Russian has one word for putting on clothes yourself, and another for dressing someone else. 'Cook's' is made from 'cook', which makes it the cook's cap."),
+    (2, None, "'Chef, today is the fifteenth, do you remember?' Vika uses the informal 'you' with her boss, which tells you how close they are. 'Remember' grows out of 'memory'."),
     (3, None, "'Soon the restaurant's sanitary inspection will arrive.' 'Will arrive' is a one-word future. 'Of the restaurant' is shown by a changed ending, with no word for 'of'."),
-    (4, None, "'And in your kitchen there is a mess again!' 'At you in the kitchen' is how Russian says 'in your kitchen'. 'mess' is slang, and it sounds rude to a chef."),
-    (5, None, "'Where do you see a mess, my dear?' 'mess' is built from 'without' and 'order'. 'My dear' is a sweet word used with a sharp edge here."),
-    (6, None, "'Look for yourself what a clean shelf this is!' 'Which' turns into 'what a' in an exclamation. 'Yourself' is a small word that adds 'you take a look'."),
+    (4, None, "'And in your kitchen there is a mess again!' 'At you in the kitchen' is Russian for 'in your kitchen'. 'mess' is slang, and it sounds rude to a chef."),
+    (5, None, "'Where do you see a mess, my dear?' 'mess' is formed from 'without' and 'order'. 'My dear' is a sweet word used with a sharp edge here."),
+    (6, None, "'Look for yourself what a clean shelf this is!' 'Which' turns into 'what a' in an exclamation. 'Yourself' adds 'go and see for yourself'."),
     (7, None, "'A little money solves any big problems.' 'Money' is always plural in Russian, so 'solve' is plural too. 'Any' and 'big' agree with 'problems'."),
     (8, None, "'If there were order, we wouldn't pay!' The little word 'by' appears twice, which is how Russian builds 'would'. It means 'if there were order, we would not be paying'."),
     (9, None, "'There is always a lot of work in a restaurant kitchen.' 'A lot of' is followed by the 'of' ending, so 'work' changes. 'Always' is a very common small word."),
     (10, None, "'Inspectors look for violations only for money.' 'For the sake of money' is a short phrase meaning 'because of'. 'Look for' is the same as 'seek'."),
-    (11, None, "'We must urgently establish perfect cleanliness.' 'Cleanliness' is built from 'clean'. 'Urgently' comes from 'urgent'."),
-    (12, None, "'It seems today we have big problems.' 'It seems' is one word. 'We have' is 'at us', as it always is in Russian."),
-    (13, None, "'I will go wash the floors in the kitchen.' 'Floors' is plural, as the word is used in the sense of 'the floor space'. 'I will go' is a single word, and 'wash' comes right after it."),
+    (11, None, "'We must urgently establish perfect cleanliness.' 'Cleanliness' is put together from 'clean'. 'Urgently' comes from 'urgent'."),
+    (12, None, "'It seems today we have big problems.' 'We have' is 'at us', as it always is in Russian."),
+    (13, None, "'I will go wash the floors in the kitchen.' 'Floors' is plural, as Russian says 'floors' for a floor surface. 'I will go' is a single word, and 'wash' comes right after it."),
 ]

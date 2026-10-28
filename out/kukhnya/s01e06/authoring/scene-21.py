@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "A fight has broken out in the dining room, and a famous guest has been hit. Vika storms into the kitchen to tell Barinov, who has already worked out how to profit from it. It's in Russian first."
 OPENER = "Let's go slowly through the argument. Vika is furious, and Barinov is delighted."
-TRANSITION = 'Here is the whole row again.'
+TRANSITION = 'By now it should sound clearer.'
 OUTRO = "Barinov's last point is that bad luck can be good publicity. Russian has a neat word for that sort of reason, 'povod', and you've heard it once. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -32,14 +32,14 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Viktor, a terrible scandal happened in the dining room.' Vika uses his first name, which she does when she is cross. 'Scandal' is borrowed, and 'terrible' comes from 'horror'."),
-    (1, None, "'Calm down, Vika, we will show the video to the inspection.' The word for 'calm down' ends in 'sya'. 'Video' doesn't change at all, and 'to the inspection' takes an 'e' ending."),
+    (1, None, "'Calm down, Vika, we will show the video to the inspection.' The Russian word for 'calm down' ends in 'sya'. 'Video' doesn't change at all, and 'to the inspection' takes an 'e' ending."),
     (2, None, "'We will surely pass the inspection.' 'Pass' is 'walk through', which is how Russian says 'pass an exam'. 'Surely' is a handy short word."),
-    (3, None, "'But this vagrant caused a real nightmare!' The word for 'vagrant' comes from the word for 'wander'. 'Caused' literally means 'arranged', as if the man had staged it."),
-    (4, None, "'He shouted and scared off all the guests!' The word for 'scared off' has a prefix meaning 'in all directions'. 'All the guests' puts the guests in a changed form."),
-    (5, None, "'And then he beat up the writer Pelevin!' 'Beat up' starts with a piece that means 'thoroughly'. 'The writer' ends in 'a' because he is the one who was hit."),
+    (3, None, "'But this vagrant caused a real nightmare!' The Russian for 'vagrant' comes from the Russian for 'wander'. 'Caused' literally means 'arranged', as if the man had staged it."),
+    (4, None, "'He shouted and scared off all the guests!' The term for 'scared off' has a prefix meaning 'in all directions'. 'All the guests' puts the guests in a changed form."),
+    (5, None, "'And then he beat up the writer Pelevin!' 'Beat up' starts with a piece that means 'thoroughly'. 'The writer' gets 'a' since he is the one who was hit."),
     (6, None, "'Is this really complete nonsense to you?' 'Really' is the surprised word for 'no way'. 'Nonsense' is a casual word, closer to 'rubbish'."),
     (7, None, "'Of course, this is not nonsense at all.' Barinov echoes her word and puts 'not at all' before it. That pattern is useful in any argument, and it works with other words too."),
-    (8, None, "'This is a very big important event!' 'Event' is built from 'with' and 'being'. 'Big' and 'important' agree with it."),
+    (8, None, "'This is a very big important event!' 'Event' is formed from 'with' and 'being'. 'Big' and 'important' agree with it."),
     (9, None, "'And what benefit is there in this for the restaurant?' The word for 'benefit' is a short she-word. 'To the restaurant' takes a 'u' ending."),
     (10, None, "'Now we are not just a good restaurant.' 'Not just' is a very Russian pair of words. It sets up a sentence that goes on 'but also...'."),
     (11, None, "'Here they punched a famous person in the face!' 'They gave on the snout' is the slang for 'punched in the face', and the 'snout' is rude. No one is named, so it sounds like 'someone did'."),

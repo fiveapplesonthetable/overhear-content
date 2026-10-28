@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Cleaning the back of the storeroom, Max and Kostya find an old plastic bag full of something black and knobbly. They agree it's rotten potatoes. It's in Russian first, and there is a joke in it that the chef would not enjoy."
 OPENER = "Let's go slowly. Max and Kostya sound like friends who have been cleaning for hours, which they have."
-TRANSITION = 'And the whole discovery again.'
+TRANSITION = 'Now the story in one go.'
 OUTRO = "Remember the Russian for 'rotten' and 'rubbish bin', because the chef will want them later. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -39,7 +39,7 @@ WALK = [
     (6, None, "'People on the internet buy absolutely everything!' 'On the internet' puts an 'e' on the end. 'Absolutely everything' is two words, and they sound as emphatic as they look."),
     (7, None, "'Kostyan, don't be dense, drop these jokes.' 'Kostyan' is the casual form of Kostya's name. 'Don't be dense' is slang, and 'drop' is the command 'throw'."),
     (8, None, "'Okay, I will take it to the dump.' 'Carry away' starts with 'ot', which means 'off'. 'dump' is informal."),
-    (9, None, "'Take it quickly to the garbage bin outside.' 'Garbage' is built from 'rubbish'. 'Outside' is literally 'onto the street'."),
+    (9, None, "'Take it quickly to the garbage bin outside.' 'Garbage' is assembled from 'rubbish'. 'Outside' is literally 'onto the street'."),
     (10, None, "'I'll be back quickly and we will carry on cleaning.' 'I'll return' ends in 'sya'. 'Cleaning' comes from the same word as 'clean up'."),
     (11, None, "'Great, we still have a lot to wash today.' 'To us still much to wash' is the way Russian says 'we have a lot to wash'. 'Today' is pronounced with a 'v'."),
 ]

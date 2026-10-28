@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Inside the kitchen the inspector is looking at everything: the floor, the grill, a bottle that should not be open. Barinov follows him, trying to keep up a front. It's in Russian first."
 OPENER = 'Slowly now. The inspector gives short, formal remarks, and Barinov is full of excuses.'
-TRANSITION = 'And the whole inspection once more.'
+TRANSITION = 'And now without interruptions.'
 OUTRO = "Barinov's favourite word here is 'personally', and the inspector's is 'violation'. Between them they've given you a handful of official words and a few good reactions. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,14 +31,14 @@ STORY = [
     ('inspector', 'Откройте замок, я должен всё увидеть.', 'Open the lock, I must see everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'A slippery floor is a source of danger.' The dash stands in for 'is'. 'Source' also means 'spring', as in water, and 'danger' is built from 'dangerous'."),
+    (0, None, "'A slippery floor is a source of danger.' The dash stands in for 'is'. 'Source' also means 'spring', as in water, and 'danger' starts from 'dangerous'."),
     (1, None, "'We will wipe up this water immediately.' 'Right now' has a tiny extra word that makes it 'this very minute'. 'We will wipe' ends in 'em', the 'we' ending."),
     (2, None, "'Why is this bottle open by the grill?' 'Open' ends in 'a' to agree with 'bottle'. 'By the grill' is the short 'at' word plus a changed ending."),
     (3, None, "'This wine is needed for meat sauce.' 'Wine' is neuter, so 'needed' ends in 'o'. 'Of meat' becomes a describing word, giving 'meaty sauce'."),
     (4, None, "'Understood, but that is still a violation.' 'Understood' is a handy one-word answer. 'Still' is literally 'all equal', which here means 'regardless'."),
     (5, None, "'I will personally put the bottle in the cupboard.' 'Put away' begins with the little piece 'u' that gives the sense of 'out of sight'. 'Into the cupboard' has no ending change on the cupboard."),
     (6, None, "'You won't get off with a simple fine here!' The long word at the end is the Russian for 'get off lightly'. It ends in 'sya', and the fine takes a 'with' ending."),
-    (7, None, "'Believe me, we have an exemplary restaurant!' 'Believe' is the polite command. 'Exemplary' comes from 'a sample' or 'a model'."),
+    (7, None, "'Believe me, we have an exemplary restaurant!' 'Believe' is the formal command. 'Exemplary' comes from 'a sample' or 'a model'."),
     (8, None, "'Let's move on, I will inspect the storage.' 'Let's go' has a polite 'te' on the end, which turns it into an invitation. 'Inspect' begins with a piece that means 'around'."),
     (9, None, "'Please, walk right behind me.' 'I ask you' is the formal way to say 'please'. 'Behind me' is 'behind' plus a changed form of 'me'."),
     (10, None, "'And what is located behind this door?' 'Is located' comes from 'to find', so it's literally 'finds itself'. 'Behind this door' uses the same 'behind' as before."),

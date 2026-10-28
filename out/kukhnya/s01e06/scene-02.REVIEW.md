@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oguzok, look at this plate.' The nickname comes first, as it often does. 'This plate' has an 'u' ending because the plate is what's being looked at.
 - 'Chef, is this dish already ready?' There is no word for 'is' or 'do': the voice goes up and that's the question. 'Ready' ends in 'o' to match 'dish'.
 - 'The main thing remains: to garnish it with herbs.' 'Remains' is in a neutral form with no person in it, like 'what's left'. 'Garnish' is related to 'beautiful', and 'with herbs' ends in 'yu', which is Russian's 'with'.
-- 'Every detail has important meaning.' 'Detail' is the French word, with a soft ending. 'Has meaning' is the usual way to say 'matters'.
-- 'Food is obliged to look beautiful and appetizing.' 'Obliged' ends in 'a' because 'food' is a she-word. The two ways of saying 'beautifully' and 'appetizingly' both end in 'o'.
+- 'Every detail has important meaning.' 'Detail' is the French word, with a soft ending. 'Has meaning' is the usual way of saying 'matters'.
+- 'Food is obliged to look beautiful and appetizing.' 'Obliged' gets 'a' since 'food' is grammatically a she-word. The two ways of saying 'beautifully' and 'appetizingly' both end in 'o'.
 - 'Shall we put fresh herbs here?' 'Let's put' is the form that sounds like 'shall we'. 'Herbs' is a word for greens, and it comes from 'green'.
 - 'Carefully! Do not ruin the expensive presentation.' One word is enough for 'careful!'. 'expensive' also means 'dear', so a good presentation is a precious one.
 - 'I do everything very carefully, chef.' 'I do' ends in 'yu', and 'everything' is a short, handy word. Max repeats the word 'carefully' to show he heard.
 - 'Beautiful presentation is very important for guests.' 'Important' ends in 'a' to match 'presentation'. 'For guests' needs a changed ending on 'guests'.
-- 'The waiters are already waiting in the kitchen.' 'Waiting' ends in 'ut', the 'they' ending again. 'Already' comes right before it.
+- 'The waiters are already waiting in the kitchen.' 'Waiting' ends in 'ut', the 'they' ending again. 'Already' is followed by it.
 - 'Call the waiter, let them carry the order.' 'Let them' is a single little word. 'carry' has the same 'ut' ending.
 - 'Sasha, take the ready hot dish!' 'Take' starts with 'za' and means 'pick up'. 'Ready' and 'hot' both end in 'oe' to agree with 'dish'.
-- 'Great, we continue working further.' 'We continue' ends in 'em', which is the 'we' ending. 'Further' is a short word meaning 'on'.
+- 'Great, we continue working further.' 'We continue' ends in 'em', which is the 'we' ending. 'Further' means 'on', as in 'keep going'.

@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'For others, a series of bitter disappointments.' 'For others' is 'for different', and it matches the previous line. 'Bitter' is the taste word, used for feelings.
 - 'Stop daydreaming, go wash the frying pans!' 'Enough' is followed by 'dreaming'. 'Go wash' needs no word for 'and'.
 - 'In any case one must be ready for everything.' 'In any case' is a fixed phrase. 'Must be ready' has 'ready' in a form that agrees with 'one'.
-- 'Life teaches us unexpected turns of fate.' 'Unexpected' is built from 'not' and 'expected'. 'Turn' and 'fate' are two related ideas.
+- 'Life teaches us unexpected turns of fate.' 'Unexpected' is assembled from 'not' and 'expected'. 'Turn' and 'fate' are two related ideas.
 - 'I will definitely deal with this problem.' 'Deal with' ends in 'sya', and the problem takes the 'with' ending. 'Definitely' is a handy word.
 - 'Now that is the right attitude for a cook!' 'Attitude' is a word for 'mood' or 'tuning'. 'For a cook' uses a changed form of 'cook'.
-- 'Tomorrow new culinary victories await me!' 'Await me' is literally 'wait for me', with the plural 'victories' as the subject. 'Tomorrow' is a short word.
+- 'Tomorrow new culinary victories await me!' 'Await me' is literally 'wait for me', with the plural 'victories' as the subject.
