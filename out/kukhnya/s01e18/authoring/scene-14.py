@@ -10,36 +10,34 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kristina': 'Кристина', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = 'Kristina is now in charge, and her first move is to take Barinov aside for a private word. She asks Vika to leave them alone, and then she gets to the point: the restaurant needs cuts. Notice how polite she stays while she says it.'
+INTRO = 'Kristina is now in charge, and her first move is to ask Barinov for a private word, politely sending Vika away. Barinov stalls by calling to Kostya at the bar for a bottle of cognac. Listen to it in Russian first.'
 OPENER = 'Now the private word, one line at a time.'
-TRANSITION = 'Now the meeting from the top, without stopping.'
-OUTRO = 'The new boss has begun with a number, and Barinov is already uneasy. Keep "ya ne protiv", \'I\'m not against\', a polite way to say \'I don\'t mind\'. See you next time!'
+TRANSITION = 'Now the whole scene from the top, without stopping.'
+OUTRO = 'Barinov has his bottle, and the private talk can begin. Keep "esli vy ne protiv", if you don\'t mind, for any polite request. See you next time!'
 CLOSING = ('kristina', 'Всего доброго!')
 STORY = [
-    ('kristina', 'Мы с Димой обсудили дела.', 'Dima and I discussed the affairs.', [(265, 'Мы с Димочкой обсудили дела в ресторане,')], ''),
-    ('kristina', 'У меня есть хорошая идея.', 'I have a good idea.', [(265, 'и у меня есть пара мыслей,')], ''),
-    ('kristina', 'Как сделать ресторан лучше.', 'How to make the restaurant better.', [(266, 'как сделать снова его рентабельным.')], ''),
-    ('kristina', 'Но сначала хочу поговорить с вами.', 'But first I want to talk with you.', [(267, 'Но для начала я хотела бы обсудить с вами')], ''),
-    ('kristina', 'Только с вами, Виктор Петрович.', 'Only with you, Viktor Petrovich.', [(267, 'Виктор Петрович,')], ''),
-    ('kristina', 'Если вы не против, Виктория Сергеевна?', 'If you do not mind, Victoria Sergeyevna?', [(268, 'если вы, конечно, не против.'), (269, 'А вы не против, Виктория Сергеевна?')], ''),
-    ('vika', 'Да, конечно, я не против.', 'Yes, of course, I do not mind.', [(270, 'Да, конечно.')], ''),
-    ('barinov', 'Замечательно, я вас слушаю.', 'Great, I am listening to you.', [(271, 'Замечательно. Ну, я слышу.')], ''),
-    ('kristina', 'Я посмотрела зарплаты сотрудников.', 'I looked at the employees salaries.', [], ''),
-    ('kristina', 'Нам нужно сделать увольнения.', 'We need to make layoffs.', [(266, 'сделать')], ''),
-    ('barinov', 'О чём вы говорите?', 'What are you talking about?', [], ''),
-    ('kristina', 'Вика получает очень много денег.', 'Vika receives a lot of money.', [], ''),
+    ('kristina', 'Мы с Димочкой обсудили дела в ресторане,', 'Dimochka and I have talked over things at the restaurant,', [(265, 'Мы с Димочкой обсудили дела в ресторане,')], ''),
+    ('kristina', 'и у меня есть пара мыслей, как снова сделать его рентабельным.', 'and I have a couple of ideas on how to make it profitable again.', [(265, 'и у меня есть пара мыслей,'), (266, 'как сделать снова его рентабельным.')], ''),
+    ('kristina', 'Но для начала я хотела бы обсудить это с вами наедине,', "But first I'd like to discuss it with you in private,", [(267, 'Но для начала я хотела бы обсудить с вами наедине,')], ''),
+    ('kristina', 'Виктор Петрович, если вы, конечно, не против.', "Viktor Petrovich, if you don't mind, of course.", [(267, 'Виктор Петрович,'), (268, 'если вы, конечно, не против.')], ''),
+    ('kristina', 'А вы не против, Виктория Сергеевна?', "And you don't mind, Victoria Sergeyevna?", [(269, 'А вы не против, Виктория Сергеевна?')], ''),
+    ('vika', 'Да, конечно.', 'Yes, of course.', [(270, 'Да, конечно.')], ''),
+    ('barinov', 'Замечательно. Ну, я слушаю.', "Wonderful. Well, I'm listening.", [(271, 'Замечательно. Ну, я слышу.')], ''),
+    ('barinov', 'Сейчас, подождите-ка.', 'Just a moment, hold on.', [(272, 'Сейчас, подождите-ка.')], ''),
+    ('barinov', 'Костя, дай мне бутылочку коньяка.', 'Kostya, give me a bottle of cognac.', [(275, 'Костя, дай мне бутылочку коньяка.')], ''),
+    ('barinov', 'Нет, правее.', 'No, further right.', [(276, 'Правее.'), (277, 'Нет, правее.')], ''),
+    ('barinov', 'Эту бутылку.', 'That bottle.', [(279, 'Эту бутылку.')], ''),
 ]
 WALK = [
-    (0, None, '\'Dima and I have discussed things.\' Russian says "my s Dimoy", \'we with Dima\'. "Dela", affairs, covers business of every kind.'),
-    (1, None, '\'I have a good idea.\' "U menya est", \'at me there is\': I have. "Ideya" is easy to recognise.'),
-    (2, None, '\'How to make the restaurant better.\' "Luchshe", better, comes from "khorosho", good, with no \'more\' needed.'),
-    (3, None, '\'But first I want to talk to you.\' "Snachala", first, at the start. "S vami", with you, is the polite \'you\'.'),
-    (4, None, '\'Only with you, Viktor Petrovich.\' First name plus father\'s name, with "-ovich" meaning \'son of\', is the respectful way to address someone.'),
-    (5, None, '\'If you don\'t mind?\' "Esli vy ne protiv", \'if you\'re not against\': a polite way to ask someone to step out.'),
-    (6, None, '\'Yes, of course, I don\'t mind.\' "Konechno", of course, is usually said "koneshno", with a \'sh\'.'),
-    (7, None, '\'Wonderful, I\'m listening.\' "Zamechatelno" comes from "zamechat", to notice: something worth noticing.'),
-    (8, None, '\'I\'ve looked at the staff salaries.\' "Zarplata" is short for "zarabotnaya plata", earned pay. "Posmotrela" ends in "-la": a woman speaking.'),
-    (9, None, '\'We need to make cuts.\' "Uvolneniya" means dismissals, from "uvolit", to fire. "Nam nuzhno", \'to us needed\'.'),
-    (10, None, '\'What are you talking about?\' "O chyom", about what: after "o", "chto" turns into "chyom".'),
-    (11, None, '\'Vika earns a lot of money.\' "Poluchaet", gets, is how you say someone is paid. After "mnogo", "dengi" becomes "deneg".'),
+    (0, None, '\'Dimochka and I have talked over things at the restaurant,\' Russian says "my s Dimochkoy", "we with Dimochka", for "Dimochka and I". "Dimochka" is a fond form of Dima.'),
+    (1, None, '\'and I have a couple of ideas on how to make it profitable again.\' "Para mysley" is "a pair of thoughts". "Rentabelnym", profitable, takes "-ym" after "sdelat", to make.'),
+    (2, None, '\'But first I\'d like to discuss it with you in private,\' "Khotela by" is "would like", softer than "khochu". It ends in "-a" because Kristina is a woman. "Naedine" means alone together.'),
+    (3, None, '\'Viktor Petrovich, if you don\'t mind, of course.\' First name plus father\'s name is the respectful way to address someone. "Esli vy ne protiv" is literally "if you are not against".'),
+    (4, None, '\'And you don\'t mind, Victoria Sergeyevna?\' The same polite question again, now aimed at Vika, to send her out of the room.'),
+    (5, None, '\'Yes, of course.\' "Konechno", of course, is usually said "koneshno", with a "sh".'),
+    (6, None, '\'Wonderful. Well, I\'m listening.\' "Zamechatelno" comes from "zamechat", to notice: something worth noticing. "Ya slushayu", I\'m listening, is also how many Russians answer the phone.'),
+    (7, None, '\'Just a moment, hold on.\' "Podozhdite" is "wait" said politely, with "-te": Barinov keeps to "vy" with his boss\'s wife. "-ka" softens it.'),
+    (8, None, '\'Kostya, give me a bottle of cognac.\' "Day" is "give" said to one person you call "ty". "Butylochka" is a fond little form of "butylka", bottle.'),
+    (9, None, '\'No, further right.\' "Pravee" is "more to the right", from "pravyy", right. Its partner is "levee", more to the left.'),
+    (10, None, '\'That bottle.\' "Etu", this, ends in "-u" because "butylku" is the thing being given.'),
 ]
