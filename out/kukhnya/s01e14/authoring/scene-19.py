@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ilya': 'Илья', 'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Let us listen to their conversation in Russian first.'
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = 'Things are getting tense, and Max has to organise a small team to rescue the dinner. He reassures them, and he sets them to work. Here is the scene in Russian first.'
+OPENER = "Let's go through their plan slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Next time you watch the episode, listen for the Russian expressions for 'to sort out' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'The team is organised, and now they have to deliver. When you watch, notice who panics first. Until next time.'
 CLOSING = ('ilya', 'Пока!')
 STORY = [
     ('max', 'Ладно, мы разберёмся с этим.', 'Alright, we will figure this out.', [(280, 'Ладно, разберёмся.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('ilya', 'Тогда начинаем прямо сейчас.', 'Then we start right now.', [], ''),
 ]
 WALK = [
-    (0, None, "'Alright, we will figure this out.' Max tries to calm the situation. He promises they will figure this out together."),
-    (1, None, "'Everything will be fine.' He offers a general reassurance. Max insists that everything will be fine in the end."),
-    (2, None, "'What should we do now?' Ilya is confused about their next steps. He asks what they should do right now."),
-    (3, None, "'Let's go.' Max gives a simple command. He tells everyone it is time to go."),
-    (4, None, "'Where are we going?' Sasha is still confused by the instruction. She asks where exactly they are going."),
-    (5, None, "'We are not going anywhere.' Max clarifies his statement. He explains they are not literally going anywhere."),
-    (6, None, "'It means that we are starting.' He explains the metaphor. Max says it just means they are starting the work."),
-    (7, None, "'Now I understand everything.' Ilya finally grasps the concept. He announces that he understands everything now."),
-    (8, None, "'Then let's work.' Sasha is ready to begin. She suggests they start working immediately."),
-    (9, None, "'Yes, back to work.' Max agrees with her enthusiasm. He echoes her call to get back to work."),
-    (10, None, "'We have little time.' Ilya points out the urgency of their task. He reminds everyone they have very little time left."),
-    (11, None, "'We must be in time.' Sasha emphasizes the goal. She says they absolutely must be in time."),
-    (12, None, "'Of course we will be in time.' Max projects total confidence. He assures them that they will certainly make it."),
-    (13, None, "'Then we start right now.' Ilya calls for immediate action. He declares they are starting right this second."),
+    (0, None, "'Alright, we will figure this out.' The word for 'figure out' ends in 'sya', which makes it 'sort ourselves out'. 'Ladno' is the shrug that means 'okay then'."),
+    (1, None, "'Everything will be fine.' Russian says 'everything will be well', with 'khorosho', an adverb, in place of an adjective."),
+    (2, None, "'What should we do now?' Instead of 'we' do something, Russian says 'to us to do'. The little 'nam' stands for the people who must act."),
+    (3, None, "'Let's go.' It is one word, 'poekhali', meaning 'let's go by vehicle'. It's famous because the first man in space said it as his rocket took off."),
+    (4, None, "'Where are we going?' 'Kuda' means 'where to'. Russian separates 'where' for being somewhere from 'where to' for going somewhere."),
+    (5, None, "'We are not going anywhere.' 'Nikuda ne' is 'nowhere not'. Russian insists on the double negative."),
+    (6, None, "'It means that we are starting.' 'Eto znachit' is 'this means', and it introduces an explanation. 'Nachinaem' is 'we begin'."),
+    (7, None, "'Now I understand everything.' 'Ponyal' ends in 'l' because the speaker is a man. 'Vsyo' is 'everything', and it is a very handy word."),
+    (8, None, "'Then let's work.' 'Davayte' is the group 'let's', and it's followed by the basic form of the action. 'Togda' links it to the line before."),
+    (9, None, "'Yes, back to work.' 'Za rabotu' is an idiom with no verb, 'to work!', that Russians use as a rallying cry."),
+    (10, None, "'We have little time.' Russian says 'at us little of time', and 'vremeni' takes the 'of' ending. The word for 'little' is 'malo', and it works as 'not much'."),
+    (11, None, "'We must be in time.' 'Uspet' means 'to manage in time', and there is no clean English verb for it. It's a very useful Russian word."),
+    (12, None, "'Of course we will be in time.' 'Uspeem' is the 'we' form of the same word. It says 'we will make it' in a single word."),
+    (13, None, "'Then we start right now.' 'Nachinaem' is 'we begin', which Russians also use for 'let's begin'. 'Pryamo seychas' is 'straight now'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Dmitry Nagiyev tastes the dish. He takes a bite and is absolutely amazed. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Let's go through it line by line. Nagiyev closes his eyes in delight."
+INTRO = "Nagiyev tastes the dish, and he is amazed. He can't believe the little cook did it. Here is the scene in Russian first."
+OPENER = "Let's go through the tasting line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The guests applaud as Nagiyev praises the meal. Next time you watch the episode, listen for the Russian expressions for 'divinely' and 'very' — you will catch every word right away. See you next time!"
+OUTRO = 'The dinner is a triumph, and everyone is relieved. When you watch the episode, see how Max reacts to the praise. Until next time.'
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Это божественно.', 'This is divine.', [(305, 'Это божественно')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Браво!', 'Bravo!', [(308, 'Браво')], ''),
 ]
 WALK = [
-    (0, None, "'This is divine.' Nagiyev is completely blown away by the taste. He calls the dish divine."),
-    (1, None, "'This is very tasty.' He reiterates his extreme satisfaction. Nagiyev confirms it is very tasty."),
-    (2, None, "'I didn't expect this.' He admits he is pleasantly surprised. Nagiyev confesses he did not expect it to be this good."),
-    (3, None, "'You're lucky, little chef.' Nagiyev congratulates Max on his success. He playfully calls him a lucky little chef."),
-    (4, None, "'Dmitry Vladimirovich.' He respectfully corrects the young chef. He uses Nagiyev's formal name and patronymic."),
-    (5, None, "'Well, we're all lucky.' Nagiyev decides to share the credit. He generously states that everyone is lucky today."),
-    (6, None, "'Our restaurant is the best.' He proudly praises his own establishment. Nagiyev declares their restaurant is the best."),
-    (7, None, "'The guests are very pleased.' He notes the success of the evening. Nagiyev mentions the guests are very pleased."),
-    (8, None, "'We did it.' Nagiyev celebrates their victory. He proudly announces that they did it."),
-    (9, None, "'Now we can rest.' He declares the work is finally over. Nagiyev says they can now rest."),
-    (10, None, "'Excellent work, team.' Nagiyev compliments the entire staff. He tells the team they did excellent work."),
-    (11, None, "'Bravo!' He offers a final word of praise. Nagiyev shouts a crisp, celebratory bravo to everyone."),
+    (0, None, "'This is divine.' 'Bozhestvenno' comes from 'bog', god. It's a very strong compliment, and English uses 'divine' the same way."),
+    (1, None, "'This is very tasty.' 'Vkusno' is 'tasty' and it has no 'is'. 'Ochen' is 'very'."),
+    (2, None, "'I didn't expect this.' 'Ozhidal' means 'expected', and 'takogo' is 'such' with an 'o' ending that shows it's the thing not expected."),
+    (3, None, "'You are lucky, little chef.' 'Povezlo tebe' is 'it was lucky to you', so luck is a thing that happens to you. 'Povaryonok' is a nickname, 'little cook'."),
+    (4, None, "'Dmitry Vladimirovich.' First name plus father's name is the respectful way to address a boss. Max says it to thank him, very carefully."),
+    (5, None, "'Well, we're all lucky.' 'Vsem povezlo' is 'to all it was lucky', the same luck pattern as before. 'Vsem' is 'to everyone'."),
+    (6, None, "'Our restaurant is the best.' 'Luchshiy' means 'the best', and there's no 'is'. Nagiyev says it with satisfaction."),
+    (7, None, "'The guests are very pleased.' 'Dovolny' is 'pleased', in the plural to match 'gosti'. It's a short form with no extra word."),
+    (8, None, "'We did it.' 'My sdelali eto' is 'we did this', and Russians like to say 'we' about team victories."),
+    (9, None, "'Now we can rest.' 'Mozhno' means 'we may', 'it's allowed', and 'otdykhat' is 'to rest'. 'Teper' is 'now'."),
+    (10, None, "'Excellent work, team.' 'Komanda' is feminine, so it sounds like 'the team, she'. 'Otlichnaya' is 'excellent' with an 'aya' to match."),
+    (11, None, "'Bravo!' It's the same as in English, and Russians say it to applaud too. No translation needed."),
 ]

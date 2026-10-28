@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Макс | Костя, новый заказ для гостей готов. | Kostya, the new order for the guests is ready. | new | new |
 | 2 | Костя | Отлично, покажи мне эти красивые тарелки. | Great, show me these beautiful plates. | new | new |
-| 3 | Макс | Вот вкусный французский стейк и горячая рыба. | Here is a delicious French steak and hot fish. | #169: Филиминьон по-фламански, лангусты а-ля Франце. | verbatim |
+| 3 | Макс | Вот вкусный французский стейк и горячая рыба. | Here is a delicious French steak and hot fish. | #169 00:10:26: Филиминьон по-фламански, лангусты а-ля Франце. | verbatim |
 | 4 | Костя | Это блюдо выглядит очень аппетитно и дорого. | This dish looks very appetizing and expensive. | new | new |
 | 5 | Макс | Я долго готовил этот редкий рецепт. | I cooked this rare recipe for a long time. | new | new |
 | 6 | Костя | Наши гости в зале очень голодные. | Our guests in the hall are very hungry. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, the new order for the guests is ready.' Max proudly announces the food is ready. He tells Kostya the VIP order is complete.
-- 'Great, show me these beautiful plates.' Kostya asks to see the masterpiece. He wants to look at the beautiful plates.
-- 'Here is a delicious French steak and hot fish.' Max presents his culinary creations. He points out the French steak and the hot fish.
-- 'This dish looks very appetizing and expensive.' Kostya is impressed by the presentation. He remarks that it looks very appetizing and expensive.
-- 'I cooked this rare recipe for a long time.' Max highlights the effort he put in. He mentions it took a long time to prepare this rare recipe.
-- 'Our guests in the hall are very hungry.' Kostya reminds him of the urgency. He points out that the guests are very hungry.
-- 'Then carry these plates right now.' Max tells Kostya to hurry up. He orders him to take the plates out right now.
-- 'I will quickly take the hot food to the guests.' Kostya promises swift delivery. He assures Max he will carry the hot food out quickly.
-- 'Be sure to wish them bon appétit.' Max gives a final instruction. He tells Kostya to be sure to wish them bon appetit.
-- 'Of course, I will do everything very politely.' Kostya promises to be professional. He says he will do everything very politely.
-- 'Say that the chef cooked for them.' Max wants to ensure he gets the credit. He specifically asks Kostya to mention the chef cooked it.
-- 'Good, I will pass on your warm words.' Kostya agrees to the request. He promises to pass on the warm words.
-- 'Go quickly, the guests are already waiting for the order!' Max urges him out the door. He yells at Kostya to go because the guests are waiting.
+- 'Kostya, the new order for the guests is ready.' 'Zakaz' means 'order', in a restaurant. 'Gotov' is 'ready', and a man's form ends in a bare consonant because 'zakaz' is masculine.
+- 'Great, show me these beautiful plates.' 'Pokazhi' is 'show!'. 'Eti krasivye tarelki' is the plural, 'these beautiful plates', and all three words end in 'i' or 'e'.
+- 'Here is a delicious French steak and hot fish.' 'Vot' points at the plate. 'Goryachaya' is 'hot' and ends in 'aya' because 'ryba' is feminine, while 'steyk' is masculine and gets 'y'.
+- 'This dish looks very appetizing and expensive.' After 'looks' Russian uses the adverb, so it's 'looks expensively', 'vyglyadit dorogo'. 'Dorogo' is also the word for 'dear' in letters.
+- 'I cooked this rare recipe for a long time.' 'Dolgo' means 'for a long time'. 'Gotovil' is 'prepared', in a man's form, and 'redkiy' is 'rare', so it's an unusual recipe.
+- 'Our guests in the hall are very hungry.' 'Golodnye' is 'hungry' in the plural, and ends in 'ye' to match 'gosti'. 'V zale' is 'in the hall'.
+- 'Then carry these plates right now.' 'Nesi' is the order 'carry!' on foot. 'Pryamo seychas' means 'straight now', and it's how Russians say 'right now'.
+- 'I will quickly take the hot food to the guests.' 'Otnesu' means 'I'll carry away to', and the 'ot' shows it's going somewhere. 'Gostyam' is 'to the guests', with 'yam' for 'to'.
+- 'Be sure to wish them bon appetit.' 'Priyatnogo appetita' is literally 'of pleasant appetite', and it is the set phrase for 'bon appetit'. 'Pozhelay' is 'wish!'.
+- 'Of course, I will do everything very politely.' 'Vezhlivo' is 'politely', from 'vezhlivy'. 'Sdelayu' is 'I'll do', and it covers 'will do'.
+- 'Say that the chef cooked for them.' 'Skazhi' is the order 'say!'. 'Dlya nikh' means 'for them', and the 'n' is added to 'ikh' after 'for'.
+- 'Good, I will pass on your warm words.' 'Peredam' is 'I'll pass on', and 'tyoplye slova' means 'warm words'. Russians use 'warm' for kind words, as English does.
+- 'Go quickly, the guests are already waiting for the order!' Russians wait 'the order', not 'for the order', so the 'for' disappears. The word for 'quicker' is the plain word for 'quick' with an 'e' on the end.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Max approaches Victoria at the bar. She pours him a strong drink to say thank you. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Let's go through it line by line. Max asks Vika a playful question."
+INTRO = 'Max goes to the bar, where Vika has poured him a drink to say thanks. They talk about whether he is a croissant or a stick of celery. Here is the scene in Russian first.'
+OPENER = "Let's go through it again, slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "They share a warm moment of mutual respect. Next time you watch the episode, listen for the Russian expressions for 'croissant' and 'celery' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika gives him a nickname that sticks. When you watch the episode, listen for how soft her voice is. Until next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'А я кто?', 'And what am I?', [(313, 'А я кто')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Мой храбрый круассан.', 'My brave croissant.', [(316, 'мой храбрый круассан')], ''),
 ]
 WALK = [
-    (0, None, "'And what am I?' Max playfully asks for his reward. He wonders what his new title is."),
-    (1, None, "'A croissant or celery?' He offers two funny options based on their history. Max asks if he is a croissant or celery."),
-    (2, None, "'Well, of course a croissant.' Vika smiles and gives him the better option. She assures him he is definitely a croissant."),
-    (3, None, "'Why a croissant?' Max pretends to be confused by the choice. He jokingly asks why she picked croissant."),
-    (4, None, "'I don't eat flour products.' He brings up a fake dietary restriction. Max claims he does not even eat baked goods."),
-    (5, None, "'You saved our restaurant.' Vika ignores the joke and expresses genuine gratitude. She tells him he saved their restaurant."),
-    (6, None, "'You did great, Max.' She offers him sincere praise. Vika calls him a good guy and uses his name affectionately."),
-    (7, None, "'I just did my job.' Max downplays his heroic actions. He humbly claims he was just doing his job."),
-    (8, None, "'No, it was cool.' Vika refuses to let him be modest. She insists that what he did was actually very cool."),
-    (9, None, "'You helped me a lot.' She acknowledges his personal support. Vika tells him he helped her a lot."),
-    (10, None, "'Thank you.' Vika delivers a simple, heartfelt expression of gratitude. She thanks him sincerely."),
-    (11, None, "'My brave croissant.' She gives him a sweet new nickname. Vika affectionately calls him her brave croissant."),
+    (0, None, "'And what am I?' 'A ya kto' is 'and I who', with no verb. The little 'a' at the start is the 'and' that starts a new thought."),
+    (1, None, "'A croissant or celery?' Both 'kruassan' and 'selderey' are loan words, so you can guess them. 'Ili' means 'or'."),
+    (2, None, "'Well, of course a croissant.' Vika answers without a verb, just 'kruassan'. 'Nu' is a 'well' that makes it sound casual."),
+    (3, None, "'Why a croissant?' Max repeats her answer as a question. It works like a mini echo."),
+    (4, None, "'I don't eat flour products.' 'Muchnoe' means 'floury things' and grows from 'muka', flour. 'Ne em' is 'I don't eat', and 'zhe' says 'after all'."),
+    (5, None, "'You saved our restaurant.' 'Spas' is 'saved', and 'nash restoran' stays the same because it is the thing saved. A short, grateful sentence."),
+    (6, None, "'You did great, Max.' 'Molodets' is 'good lad', and it's for men. For a woman Russians would say 'molodets' too."),
+    (7, None, "'I just did my job.' 'Svoyu rabotu' is 'my own job', with 'u' endings. Max is modest, or tries to be."),
+    (8, None, "'No, it was cool.' 'Kruto' means 'cool' in slang, and it literally means 'steeply'. 'Eto bylo' is 'this was'."),
+    (9, None, "'You helped me a lot.' 'Pomog mne' is 'helped to me', so the helped person goes in the 'to' form. 'Ochen' is 'very'."),
+    (10, None, "'Thank you.' 'Spasibo tebe' is 'thanks to you', and the 'tebe' makes it personal. It's what you'd say to a friend."),
+    (11, None, "'My brave croissant.' 'Khrabry' means 'brave', and it describes the croissant. A pet name, nothing more."),
 ]

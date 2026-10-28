@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'louis': 'Луи', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the dining room, an angry guest complains to the pastry chef Louis about finding something hard in his dessert. Louis is terrified. Leva bravely steps in, claims to be the head chef, and takes responsibility. Let us listen to their conversation in Russian first.'
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "A guest has bitten on something hard in his dessert, and he's furious. He turns on Louis, who is terrified, until Lyova steps in. Here is the argument in Russian first."
+OPENER = "Let's go back through the argument slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the dining room, an angry guest complains to the pastry chef Louis about finding something hard in his dessert. Louis is terrified. Leva bravely steps in, claims to be the head chef, and takes responsibility. Next time you watch the episode, listen for the Russian expressions for 'dessert' and 'a little' — you will catch every word right away. See you next time!"
+OUTRO = 'Lyova takes responsibility, and the guest hands over the evidence. When you watch, notice who has the loudest voice. Until next time.'
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('guest', 'Что это у меня в десерте?', 'What is this in my dessert?', [(253, 'Че за хрень у меня в десерте?')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('louis', 'Вкусный десерт, большое спасибо.', 'Delicious dessert, thank you very much.', [(272, 'Вкусный десерт с коньяком.')], ''),
 ]
 WALK = [
-    (0, None, "'What is this in my dessert?' The guest angrily confronts Louis. He demands to know what is in his dessert."),
-    (1, None, "'I almost broke a tooth because of you!' He exaggerates the danger of the situation. The guest claims he nearly broke a tooth."),
-    (2, None, "'Please forgive us.' Louis apologizes profusely. He begs for forgiveness for the terrible mistake."),
-    (3, None, "'First, learn to speak Russian!' The guest insults Louis's language skills. He rudely tells him to learn Russian first."),
-    (4, None, "'Why did you come here?' He questions why Louis is even in the country. The guest asks why he came here."),
-    (5, None, "'So people would break their teeth?' The guest continues his aggressive rant. He asks if Louis came just to break people's teeth."),
-    (6, None, "'I am the pastry chef, it is my fault.' Louis tries to take full responsibility. He admits he is the pastry chef and it is his fault."),
-    (7, None, "'Leave the pastry chef alone.' Lyova steps in to defend his colleague. He orders the guest to leave the pastry chef alone."),
-    (8, None, "'And who are you?' The guest turns his anger on Lyova. He aggressively asks who Lyova thinks he is."),
-    (9, None, "'I am the head chef of this restaurant.' Lyova boldly claims authority. He states that he is the head chef of the restaurant."),
-    (10, None, "'I am responsible for everything in the kitchen.' He explains his role to the angry guest. Lyova says he is responsible for everything in the kitchen."),
-    (11, None, "'Do you have complaints against me?' Lyova challenges the guest directly. He asks if the man has any complaints against him."),
-    (12, None, "'Here is my complaint, hold it.' The guest hands over the evidence. He tells Lyova to hold his complaint."),
-    (13, None, "'Delicious dessert, thank you very much.' Louis is incredibly grateful for the rescue. He thanks Lyova very much for stepping in."),
+    (0, None, "'What is this in my dessert?' Russian says 'at me in the dessert', which is how you describe what happens to you. The question has no 'is' in it."),
+    (1, None, "'I almost broke a tooth because of you!' The two words 'chut ne' together mean 'almost', and the speaker really does mean 'barely not'. 'Because of you' is polite, in the plural form."),
+    (2, None, "'Please forgive us.' 'Prostite' is how you say sorry to more than one person, or to a person you respect. Louis uses it to the whole room."),
+    (3, None, "'First, learn to speak Russian!' The guest puts the object first, 'in Russian to speak learn'. The order for 'learn' ends in 'is', which is a rude way to speak to a stranger."),
+    (4, None, "'Why did you come here?' 'Priekhal' means 'came by vehicle', and the ending 'l' is a man's. Russian pairs each kind of movement with its own word."),
+    (5, None, "'So people would break their teeth?' 'Chtoby' means 'in order that', and the next action is in the past form, 'broke'. The rude question needs no 'so that' in English."),
+    (6, None, "'I am the pastry chef, it is my fault.' The word for 'fault' looks exactly like the word for 'of wine', 'vina', but here it means blame. Louis owns up at once, in two short pieces."),
+    (7, None, "'Leave the pastry chef alone.' 'V pokoe' is 'in peace', and 'ostavte' is 'leave'. The pastry chef takes an 'a' on the end."),
+    (8, None, "'And who are you?' 'Kto takoy' is 'who such', and it's pointed. A guest uses it when he wants to know what right you have."),
+    (9, None, "'I am the head chef of this restaurant.' 'Etogo restorana' is 'of this restaurant', with 'ogo' showing the 'of'. Lyova claims the job with one short sentence."),
+    (10, None, "'I am responsible for everything in the kitchen.' The word for 'responsible' comes from 'to answer', so he literally says 'I answer for everything'. 'Na kukhne' is 'in the kitchen'."),
+    (11, None, "'Do you have complaints against me?' 'U vas est' is 'at you there is', which means 'do you have'. 'Ko mne' is 'to me', with the 'o' added to make it easy to say."),
+    (12, None, "'Here is my complaint, hold it.' 'Derzhite' is 'hold!', for a guest. The guest hands over the SIM card as his complaint."),
+    (13, None, "'Delicious dessert, thank you very much.' The word for 'big' goes with 'thanks', so it's 'big thanks'. Louis says it because he is so relieved."),
 ]

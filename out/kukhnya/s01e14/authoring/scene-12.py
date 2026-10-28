@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the busy kitchen of Claude Monet, Chef Viktor notices pastry chef Louis weeping uncontrollably. Impatient with the emotional display and concerned about pending orders, Viktor orders Louis to get back to work. Let us listen to their sharp confrontation in Russian first.'
-OPENER = "Now let us examine Viktor and Louis's kitchen dispute line by line."
+INTRO = 'In the kitchen, pastry chef Louis is sobbing again, and Barinov has no patience for it. Orders are waiting. Here is their exchange in Russian first.'
+OPENER = "Let's go through it again, slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Louis pressured back into pastry prep and the kitchen crew snapped to attention, the bustling restaurant kitchen resumes its normal chaotic rhythm. Next time you watch the episode, listen for the Russian expressions for 'why' and 'again' — you will catch every word right away. See you next time!"
+OUTRO = 'Louis gets back to work, and Barinov yells at the rest of the kitchen to do the same. When you watch, count how many times someone is called a lazybones. Speak soon.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Луи, почему ты опять горько плачешь?', 'Louis, why are you crying bitterly again?', [(175, 'Луи.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Работаем быстро, гости ждут свои заказы!', 'Work quickly, guests are waiting for their orders!', [(178, 'Работаем!')], ''),
 ]
 WALK = [
-    (0, None, "'Louis, why are you crying bitterly again?' Chef Barinov demands an explanation for the tears. He asks Louis why he is crying so bitterly."),
-    (1, None, "'Chef, a terrible drama happened to me.' Louis tries to explain his emotional state. He dramatically claims a terrible tragedy has occurred."),
-    (2, None, "'Stop this foolish noise right now!' Barinov has zero patience for this. He orders Louis to stop the foolish noise right now."),
-    (3, None, "'My tender heart is broken into pieces.' Louis ignores the command and continues crying. He says his tender heart is broken into pieces."),
-    (4, None, "'Quickly wipe your tears and make desserts.' Barinov gives a strict order. He tells Louis to wipe his tears and get back to making desserts."),
-    (5, None, "'I cannot bake sweet cakes right now.' Louis claims he is too upset to work. He says he cannot possibly bake sweet cakes right now."),
-    (6, None, "'Our important guests have been waiting for desserts for a long time!' Barinov reminds him of the waiting customers. He points out the important guests have been waiting a long time."),
-    (7, None, "'All right, chef, I will start making creams.' Louis finally gives in. He agrees to start preparing the creams for the desserts."),
-    (8, None, "'And stop your constant empty complaints.' Barinov adds a final warning. He tells Louis to stop his constant empty complaints."),
-    (9, None, "'Hey, cooks, why are you all standing around?' Barinov turns his anger on the rest of the kitchen. He demands to know why everyone is just standing around."),
-    (10, None, "'We are already starting to prepare orders quickly.' Louis quickly jumps to the kitchen's defense. He assures the Chef they are already starting the orders."),
-    (11, None, "'Move lively, sluggards, let us begin working together!' Barinov yells at them to hurry up. He calls them sluggards and orders them to work together."),
-    (12, None, "'Work quickly, guests are waiting for their orders!' He repeats the urgent command. Barinov reminds them the guests are waiting for their food."),
+    (0, None, "'Louis, why are you crying bitterly again?' 'Gorko plachesh' is 'cry bitterly', and 'gorko' comes from 'gorky', bitter. 'Opyat' means 'again'."),
+    (1, None, "'Chef, a terrible drama happened to me.' 'U menya sluchilas'' is 'at me happened', which Russians use for events. 'Strashnaya' is 'terrible', from 'strakh', fear."),
+    (2, None, "'Stop this foolish noise right now!' The order 'stop' is the same one used for ending a conversation, a harsh one. 'Foolish noise' makes Louis's crying sound like a stupid thing."),
+    (3, None, "'My tender heart is broken into pieces.' 'Razbito' means 'broken' and it ends in 'o' to match 'serdtse', neuter. 'Na kuski' is 'into pieces'."),
+    (4, None, "'Quickly wipe your tears and make desserts.' Tears are always plural in Russian, so there's no word for a single tear in this form. Two orders sit side by side, 'wipe' and 'make'."),
+    (5, None, "'I cannot bake sweet cakes right now.' 'Pech' is 'to bake', and 'pirozhnye' are small cakes, which look like a describing word but work as a name. 'Ne mogu' is 'I can't'."),
+    (6, None, "'Our important guests have been waiting for desserts for a long time!' 'Davno zhdut' is 'for a long time wait', and Russian uses the present for 'have been waiting'. Barinov keeps it short."),
+    (7, None, "'All right, chef, I will start making creams.' 'Nachnu' is 'I will begin'. 'Gotovit' is 'to make' and 'kremy' is 'creams', in the plural."),
+    (8, None, "'And stop your constant empty complaints.' 'Zhaloby' means 'complaints', and it is always plural. 'Pustye' is 'empty', which Russians use for 'meaningless'."),
+    (9, None, "'Hey, cooks, why are you all standing around?' 'Povara' is the plural of 'povar', and it ends in 'a', which is the odd form for masculine words. 'Vy vse' is 'you all'."),
+    (10, None, "'We are already starting to prepare orders quickly.' Louis answers with 'we', not 'I', to include the whole kitchen. The word for 'orders' is plural, and it is what the cooks make."),
+    (11, None, "'Move lively, sluggards, let us begin working together!' 'Zhivee' is 'more alive', so 'faster', and 'lentyai' is 'lazybones'. 'Druzhno' means 'in a friendly, united way' and comes from 'drug', friend."),
+    (12, None, "'Work quickly, guests are waiting for their orders!' 'Rabotaem' is 'we work', and Russians use it for 'let's work'. 'Svoi' is 'their own'."),
 ]

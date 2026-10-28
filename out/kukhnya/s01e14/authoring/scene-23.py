@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Nastya and Kostya watch from the bar. They discuss Max and Victoria. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
-OPENER = "Let's go through it line by line. Kostya nods toward Max."
+INTRO = 'At the bar, Kostya and Nastya have watched the whole drama. They talk about Max and Vika. Here is their chat in Russian first.'
+OPENER = "Let's go back through their chat, one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "They watch Victoria preparing a drink for Max. Next time you watch the episode, listen for the Russian expressions for 'well done' and 'to help' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika has an idea for how to say sorry, and Kostya approves. When you watch, see if you can guess what she is pouring. Catch you next time.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Максим молодец.', 'Maxim did great.', [(309, 'Максим молодец')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Она знает, что делать.', 'She knows what to do.', [], ''),
 ]
 WALK = [
-    (0, None, "'Maxim did great.' Kostya praises Max's performance. He tells Nastya that Maxim did a great job."),
-    (1, None, "'He helped Vika.' He highlights Max's good deed. Kostya points out that Max helped Vika."),
-    (2, None, "'He saved the evening.' Kostya summarizes the impact of Max's actions. He says Max saved the entire evening."),
-    (3, None, "'Yeah, she said awful things.' Nastya recalls Vika's earlier behavior. She notes that Vika said some awful things."),
-    (4, None, "'All sorts of awful things to him.' She emphasizes how mean Vika was. Nastya mentions Vika said all sorts of nasty things to him."),
-    (5, None, "'And she feels terrible.' Nastya knows how Vika is feeling now. She says Vika feels terrible and ashamed."),
-    (6, None, "'So how's she going to make it right?' Kostya wonders about the next steps. He asks how Vika plans to fix the situation."),
-    (7, None, "'What will she do?' He is curious about Vika's strategy. Kostya asks what she is going to do."),
-    (8, None, "'Ah, vodka.' Nastya spots the solution immediately. She simply points out the vodka."),
-    (9, None, "'She will pour him vodka.' She explains Vika's apology method. Nastya predicts Vika will pour him a drink."),
-    (10, None, "'That's a good plan.' Kostya approves of the strategy. He agrees that it is a very good plan."),
-    (11, None, "'She knows what to do.' Nastya is confident in Vika's abilities. She notes that Vika always knows exactly what to do."),
+    (0, None, "'Maxim did great.' Kostya uses the long form of Max's name, which sounds a little proud. 'Molodets' means 'good lad', and it is the usual word for praising a man."),
+    (1, None, "'He helped Vika.' 'Pomog' means 'helped', and the helped person goes in the 'e' form, 'Vike', which is 'to Vika'."),
+    (2, None, "'He saved the evening.' 'Spas' is 'saved', and 'vecher' is 'evening'. The sentence is as short as it can be."),
+    (3, None, "'Yeah, she said awful things.' 'Nagovorila' is 'talked a lot', with the 'na' meaning a big amount. 'Gadosti' are 'nasty things'."),
+    (4, None, "'All sorts of awful things to him.' She leaves out the action. 'Emu vsyakie gadosti' is 'to him all kinds of nasty things', and the verb is understood."),
+    (5, None, "'And she feels terrible.' Russian says 'to her very ashamed', with 'ey' for 'to her'. Shame is something that happens to you."),
+    (6, None, "'So how's she going to make it right?' 'Ispravit' means 'correct' or 'put right'. 'A kak zhe' is 'and how then'."),
+    (7, None, "'What will she do?' 'Budet delat' is 'will do', made of 'will be' and 'do'. It's the usual way for a longer action."),
+    (8, None, "'Ah, vodka.' It's the same word as in English, and Russians say it with the 'a' sound of recognition first. Nastya has guessed."),
+    (9, None, "'She will pour him vodka.' 'Nalyot' is 'she'll pour', and the vodka takes an 'i' ending as 'some vodka'. 'Emu' is 'to him'."),
+    (10, None, "'That's a good plan.' 'Khoroshiy plan' is the plain phrase, and Russians use it just as English does."),
+    (11, None, "'She knows what to do.' 'Chto delat' is 'what to do', as a question word with the basic form after it. 'Znaet' is 'she knows'."),
 ]

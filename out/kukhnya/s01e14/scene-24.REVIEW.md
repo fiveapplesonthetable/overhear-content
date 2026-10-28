@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | А я кто? | And what am I? | #313: А я кто | verbatim |
-| 2 | Макс | Круассан или сельдерей? | A croissant or celery? | #313: Круассан или сельдерей | verbatim |
-| 3 | Вика | Ну, конечно, круассан. | Well, of course a croissant. | #314: Ну, конечно, круассан | verbatim |
+| 1 | Макс | А я кто? | And what am I? | #313 00:20:40: А я кто | verbatim |
+| 2 | Макс | Круассан или сельдерей? | A croissant or celery? | #313 00:20:40: Круассан или сельдерей | verbatim |
+| 3 | Вика | Ну, конечно, круассан. | Well, of course a croissant. | #314 00:20:44: Ну, конечно, круассан | verbatim |
 | 4 | Макс | Почему круассан? | Why a croissant? | new | new |
-| 5 | Макс | Я же не ем мучное. | I don't eat flour products. | #315: Я же не ем мучную | verbatim |
+| 5 | Макс | Я же не ем мучное. | I don't eat flour products. | #315 00:20:46: Я же не ем мучную | verbatim |
 | 6 | Вика | Ты спас наш ресторан. | You saved our restaurant. | new | new |
 | 7 | Вика | Ты молодец, Макс. | You did great, Max. | new | new |
 | 8 | Макс | Я просто сделал свою работу. | I just did my job. | new | new |
 | 9 | Вика | Нет, это было круто. | No, it was cool. | new | new |
 | 10 | Вика | Ты очень помог мне. | You helped me a lot. | new | new |
-| 11 | Вика | Спасибо тебе. | Thank you. | #316: Спасибо тебе | verbatim |
-| 12 | Вика | Мой храбрый круассан. | My brave croissant. | #316: мой храбрый круассан | verbatim |
+| 11 | Вика | Спасибо тебе. | Thank you. | #316 00:20:51: Спасибо тебе | verbatim |
+| 12 | Вика | Мой храбрый круассан. | My brave croissant. | #316 00:20:51: мой храбрый круассан | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what am I?' Max playfully asks for his reward. He wonders what his new title is.
-- 'A croissant or celery?' He offers two funny options based on their history. Max asks if he is a croissant or celery.
-- 'Well, of course a croissant.' Vika smiles and gives him the better option. She assures him he is definitely a croissant.
-- 'Why a croissant?' Max pretends to be confused by the choice. He jokingly asks why she picked croissant.
-- 'I don't eat flour products.' He brings up a fake dietary restriction. Max claims he does not even eat baked goods.
-- 'You saved our restaurant.' Vika ignores the joke and expresses genuine gratitude. She tells him he saved their restaurant.
-- 'You did great, Max.' She offers him sincere praise. Vika calls him a good guy and uses his name affectionately.
-- 'I just did my job.' Max downplays his heroic actions. He humbly claims he was just doing his job.
-- 'No, it was cool.' Vika refuses to let him be modest. She insists that what he did was actually very cool.
-- 'You helped me a lot.' She acknowledges his personal support. Vika tells him he helped her a lot.
-- 'Thank you.' Vika delivers a simple, heartfelt expression of gratitude. She thanks him sincerely.
-- 'My brave croissant.' She gives him a sweet new nickname. Vika affectionately calls him her brave croissant.
+- 'And what am I?' 'A ya kto' is 'and I who', with no verb. The little 'a' at the start is the 'and' that starts a new thought.
+- 'A croissant or celery?' Both 'kruassan' and 'selderey' are loan words, so you can guess them. 'Ili' means 'or'.
+- 'Well, of course a croissant.' Vika answers without a verb, just 'kruassan'. 'Nu' is a 'well' that makes it sound casual.
+- 'Why a croissant?' Max repeats her answer as a question. It works like a mini echo.
+- 'I don't eat flour products.' 'Muchnoe' means 'floury things' and grows from 'muka', flour. 'Ne em' is 'I don't eat', and 'zhe' says 'after all'.
+- 'You saved our restaurant.' 'Spas' is 'saved', and 'nash restoran' stays the same because it is the thing saved. A short, grateful sentence.
+- 'You did great, Max.' 'Molodets' is 'good lad', and it's for men. For a woman Russians would say 'molodets' too.
+- 'I just did my job.' 'Svoyu rabotu' is 'my own job', with 'u' endings. Max is modest, or tries to be.
+- 'No, it was cool.' 'Kruto' means 'cool' in slang, and it literally means 'steeply'. 'Eto bylo' is 'this was'.
+- 'You helped me a lot.' 'Pomog mne' is 'helped to me', so the helped person goes in the 'to' form. 'Ochen' is 'very'.
+- 'Thank you.' 'Spasibo tebe' is 'thanks to you', and the 'tebe' makes it personal. It's what you'd say to a friend.
+- 'My brave croissant.' 'Khrabry' means 'brave', and it describes the croissant. A pet name, nothing more.

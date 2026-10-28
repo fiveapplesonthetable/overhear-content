@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'eleonora': 'Элеонора', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Vika's mother Eleonora visits the restaurant to criticize Vika's relationship with Max. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Let's analyze this tense mother-daughter dialogue."
+INTRO = 'Vika has a visitor at the restaurant: a woman she calls Mum. The woman has plenty to say about Max. Here is their talk in Russian first.'
+OPENER = "Let's go through it again, a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Eleonora leaves, but her words leave Vika feeling frustrated in this scene. Next time you watch the episode, listen for the Russian expressions for 'mum' and 'what for' — you will catch every word right away. See you next time!"
+OUTRO = "Vika's mother backs off for now, but she hasn't changed her mind. When you watch, notice how Vika's tone changes. See you next time."
 CLOSING = ('eleonora', 'Пока!')
 STORY = [
     ('vika', 'Мам, зачем ты пришла сюда сегодня?', 'Mom, why did you come here today?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('eleonora', 'Ладно, я оставлю вас в покое пока.', 'Alright, I will leave you in peace for now.', [], ''),
 ]
 WALK = [
-    (0, None, "'Mom, why did you come here today?' Vika is surprised to see her mother. She asks why she came to the restaurant."),
-    (1, None, "'What do you want with that strange teenager?' Eleonora immediately insults Max. She questions why Vika is dating a younger man."),
-    (2, None, "'Max is a serious guy and a good cook.' Vika defends Max. She calls him a serious guy and praises his cooking."),
-    (3, None, "'Why do you always go to extremes?' Eleonora criticizes Vika's life choices. She accuses her daughter of always going to extremes."),
-    (4, None, "'This is my life, and I decide myself.' Vika asserts her independence. She firmly states that she makes her own decisions."),
-    (5, None, "'First married men, then kids, kids right away.' Eleonora lists Vika's supposed mistakes. She dramatically claims Vika jumps from one extreme to another."),
-    (6, None, "'Stop criticizing me every single day!' Vika asks her mother to stop. She is tired of the constant daily criticism."),
-    (7, None, "'Tell me, did you enroll the guy in school?' Eleonora delivers a sarcastic insult. She mockingly asks if Vika enrolled Max in school."),
-    (8, None, "'I do not want to discuss this now.' Vika refuses to argue further. She states she has no desire to talk about this right now."),
-    (9, None, "'Otherwise I could have helped you.' Eleonora offers a condescending excuse. She claims she only wanted to help them out."),
-    (10, None, "'Mom, please, just leave from here.' Vika begs her mother to leave. She just wants some peace and quiet."),
-    (11, None, "'Alright, I will leave you in peace for now.' Eleonora agrees to back off for now. She promises to leave them alone temporarily."),
+    (0, None, "'Mom, why did you come here today?' 'Mam' is the short form of 'mama', used when you call to your mother. 'Prishla' is 'came', and it ends in 'la' because Vika is a woman."),
+    (1, None, "'What do you want with that strange teenager?' 'Zachem tebe' is literally 'what for to you', which means 'what do you need him for?'. 'Tinejdzher' is the English word, with Russian spelling."),
+    (2, None, "'Max is a serious guy and a good cook.' There is no 'is'. 'Seryozny' is 'serious', and 'paren' is 'guy', a word for a young man."),
+    (3, None, "'Why do you always go to extremes?' 'Vechno' is 'eternally' and it means 'always', in a grumbly way. 'Krayu' is 'edge', so 'krainosti' are 'extremes', things at the edge."),
+    (4, None, "'This is my life, and I decide myself.' 'Sama' ends in 'a' again, because Vika is a woman. 'Reshayu' is 'I decide'. 'Zhizn' is feminine, so 'moya' ends in 'a'."),
+    (5, None, "'First married men, then kids, kids right away.' 'To ... to' is 'now ... now' or 'first ... then'. 'Zhenatiki' is a slightly mocking word for married men."),
+    (6, None, "'Stop criticizing me every single day!' 'Khvatit' is 'enough', from a word meaning 'to be sufficient'. 'Kazhdy den' is 'every day'."),
+    (7, None, "'Tell me, did you enrol the guy in school?' She says it sarcastically, because Max isn't a child. 'Zapisala v shkolu' is 'registered in school', and 'parnya' is 'guy' as the one being registered."),
+    (8, None, "'I do not want to discuss this now.' 'Obsuzhdat' is 'to discuss' and the little word 'eto' is 'this'."),
+    (9, None, "'Otherwise I could have helped you.' 'A to' means 'or else', and 'mogla by' means 'could', with the tiny word 'by' making the 'would'. 'Vam' is 'to you', plural."),
+    (10, None, "'Mom, please, just leave from here.' This time she says the long 'mama', which sounds less friendly. 'Ukhodi' is 'go away', and 'otsyuda' is 'from here'."),
+    (11, None, "'Alright, I will leave you in peace for now.' 'V pokoe' is 'in peace'. 'Ostavlyu' is 'I'll leave', and 'poka' means 'for now'."),
 ]

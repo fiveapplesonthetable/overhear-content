@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the corridor of Claude Monet, Victoria intercepts a heavily intoxicated Chef Barinov. Furious at his unprofessional state, she explicitly forbids him from entering the dining room, but the drunk chef stubbornly insists on conducting an inspection of the bar. Let us listen to their argument in Russian first.'
-OPENER = "Now let us examine Victoria and the chef's argument line by line."
+INTRO = 'Barinov has arrived, but he has had too much to drink. Vika catches him in the corridor and refuses to let him near the guests. Here is the scene in Russian first.'
+OPENER = "Let's go through it again, slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Despite Victoria's desperate attempts to hide the drunken chef from the VIP guests, Barinov stumbles off toward the bar, determined to cause more chaos. Next time you watch the episode, listen for the Russian expressions for 'what for' and 'strongly' — you will catch every word right away. See you next time!"
+OUTRO = 'Nobody manages to stop him, and he heads for the bar. When you watch, notice who tries hardest to keep him out of the dining room. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Шеф, зачем ты так сильно напился?', 'Chef, why did you get so drunk?', [(50, 'Ты зачем так нажирался?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'А пойдёмте все вместе проинспектируем бар!', 'Let us all together inspect the bar!', [(61, 'Пойдемте проинспектируем бар.'), (63, 'А пойдем-ка проинспектируем бар.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, why did you get so drunk?' Vika is furious with the Chef. She demands to know why he is heavily intoxicated."),
-    (1, None, "'I am not drunk, but drank a little aperitif.' Barinov denies being drunk. He claims he only had a tiny bit of alcohol."),
-    (2, None, "'You can barely stand on your feet.' Vika points out his obvious state. She notes he can barely stand upright."),
-    (3, None, "'The face of the restaurant arrived, I am ready to welcome guests!' Barinov proudly announces his arrival. He claims he is ready to greet the guests."),
-    (4, None, "'In this state you will not go out to the guests!' Vika absolutely forbids it. She tells him he cannot be seen like this."),
-    (5, None, "'And you will never get married.' Barinov delivers a drunken insult. He makes a rude comment about her personal life."),
-    (6, None, "'Stop grabbing me so roughly.' Vika tells him to let go of her. She demands he stop grabbing her arm."),
-    (7, None, "'I must personally check our restaurant.' Barinov insists on doing his job. He slurs that he needs to inspect the restaurant."),
-    (8, None, "'Do something with this drunken monster!' Vika calls for help. She begs someone to deal with the drunk Chef."),
-    (9, None, "'I had a very good idea.' Barinov suddenly gets a bright idea. He thinks he has a great plan."),
-    (10, None, "'What other idea can there be now?' Vika is highly skeptical. She wonders what kind of idea he could possibly have now."),
-    (11, None, "'Let us all together inspect the bar!' Barinov announces his grand plan. He suggests they all go inspect the bar together."),
+    (0, None, "'Chef, why did you get so drunk?' 'Napilsya' is built from 'pit', to drink, with 'na' for 'fill up' and 'sya' for 'oneself'. So 'drank himself full'. 'Zachem' is 'what for'."),
+    (1, None, "'I am not drunk, but drank a little aperitif.' 'Ne ... a ...' is the Russian 'not ... but ...'. 'Vypil' is 'drank up', and 'nemnogo aperitiva' is 'a little of aperitif', with an 'a' on the end."),
+    (2, None, "'You can barely stand on your feet.' 'Ele' means 'barely', and 'stoish' is 'you stand'. 'Na svoikh nogakh' is 'on your own feet'."),
+    (3, None, "'The face of the restaurant arrived, I am ready to welcome guests!' 'Litso' is 'face', and the same word is used in 'the face of the company'. 'Pribylo' is a formal 'arrived', used for trains and delegations. 'Gotov' is 'ready'."),
+    (4, None, "'In this state you will not go out to the guests!' Vika says 'in such a state' with a long, heavy word for 'state'. The going-out word starts with 'vy', which means 'out', so it is the same as English 'go out'."),
+    (5, None, "'And you will never get married.' It's the same word as Vika's, 'vyydesh', but 'vyyti zamuzh' means 'to marry', and only a woman does it. 'Nikogda ne' is 'never not', with the extra 'not' that Russian needs."),
+    (6, None, "'Stop grabbing me so roughly.' The words for 'enough' and 'grab hold of' sound almost the same, because they grow from one root. It sounds like a pun, and Russians enjoy that."),
+    (7, None, "'I must personally check our restaurant.' The word for 'personally' is a handy one to remember, since you can put it before any action. Barinov uses it to mean 'I, nobody else'."),
+    (8, None, "'Do something with this drunken monster!' The 'nibud' on the end of 'something' means 'any'. The word for 'monster' grows from the word for 'miracle', because a monster is something odd and amazing."),
+    (9, None, "'I had a very good idea.' Russian says 'at me appeared an idea', 'u menya poyavilas ideya'. Ideas turn up, they're not had."),
+    (10, None, "'What other idea can there be now?' 'Kakaya eshchyo' is 'what else'. 'Mozhet byt' is 'can be'."),
+    (11, None, "'Let us all together inspect the bar!' 'Poydyomte' is 'let's go', with the 'te' ending, which makes it feel like an invitation to a group. 'Proinspektiruem' is built from the English word 'inspect', plus a Russian beginning."),
 ]

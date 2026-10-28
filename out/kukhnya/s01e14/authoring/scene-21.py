@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "In the dining room, the French guest Jacques is singing La Marseillaise after drinking too much. Owner Dmitry Nagiyev steps in and announces that he will taste Max's dish himself. Let's listen to the scene in Russian first."
-OPENER = "Let's go through the Dmitry Nagiyev's announcement line by line."
+INTRO = 'Jacques has had too much to drink and is now singing in the dining room. Nagiyev decides to judge the dish himself. Here is the scene in Russian first.'
+OPENER = "Let's go through it again, from the singing to the tasting."
 TRANSITION = "Now let's hear the whole scene once more from start to finish."
-OUTRO = 'With Jacques out of commission, Dmitry Nagiyev takes it upon himself to judge the dish. See you next time!'
+OUTRO = 'Jacques is out of action, and the owner is about to taste the dish. When you watch, see whether the dish deserves the fuss. Speak soon.'
 CLOSING = ('nagiyev', 'До встречи!')
 STORY = [
     ('nagiyev', 'Гости громко исполняют Марсельезу.', 'The guests are loudly singing La Marseillaise.', [(302, 'Исполняют Марсельезу')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nagiyev', 'Посмотрим, что приготовил наш повар.', 'Let us see what our chef cooked.', [], ''),
 ]
 WALK = [
-    (0, None, "'The guests are loudly singing La Marseillaise.' Dmitry points out the French national anthem echoing through the room."),
-    (1, None, "'It seems our French guest is tired.' Vika politely softens the awkward situation."),
-    (2, None, "'Let us all forgive Jacques.' The word for 'let us' invites the whole table to excuse their guest."),
-    (3, None, "'He apparently had too much today.' Dmitry jokes that Jacques indulged plenty already."),
-    (4, None, "'Even without our main dish.' He notes that the main course has not even been served yet."),
-    (5, None, "'He can no longer judge the food.' Vika realizes Jacques cannot act as the culinary judge."),
-    (6, None, "'That is why he is just singing right now.' The word at the start means 'therefore' or 'that is why'."),
-    (7, None, "'Well then, dear friends.' Dmitry gathers everyone's attention with a warm address."),
-    (8, None, "'Then I will be the main taster.' He volunteers to judge the French dish himself."),
-    (9, None, "'I will taste this dish myself.' Adding the word for 'myself' emphasizes his personal role."),
-    (10, None, "'I hope you will really like the dish.' Vika nervously hopes the meal passes the test."),
-    (11, None, "'Let us see what our chef cooked.' Dmitry prepares to take the first bite."),
+    (0, None, "'The guests are loudly singing La Marseillaise.' 'Marselezu' ends in 'u' because it is the thing being performed. 'Ispolnyayut' is a formal word for 'perform' or 'sing'."),
+    (1, None, "'It seems our French guest is tired.' 'Kazhetsya' means 'it seems', and it's a single word. 'Ustal' is 'got tired', and Russians use the past for 'is tired'."),
+    (2, None, "'Let us all forgive Jacques.' 'Druzhno' means 'all together' and comes from 'drug', friend. Jacques takes an 'a' ending because he is the one forgiven."),
+    (3, None, "'He apparently had too much today.' 'Vidimo' is 'apparently', literally 'visibly'. 'Nakushalsya' is a polite and funny way to say 'ate and drank too much'."),
+    (4, None, "'Even without our main dish.' 'Bez' means 'without', and it is followed by the 'of' ending, so 'dish' becomes 'blyuda'. 'Dazhe' is 'even'."),
+    (5, None, "'He can no longer judge the food.' 'Uzhe ne' is 'already not', and it means 'no longer'. 'Otsenivat' means 'to judge, to rate'."),
+    (6, None, "'That is why he is just singing right now.' 'Poetomu' is 'therefore', one word. 'Poyot' is 'sings', and the word for 'just' makes it sound like a shrug."),
+    (7, None, "'Well then, dear friends.' 'Nu chto zh' is a drawn-out 'well then', a favourite of people who are about to make a speech."),
+    (8, None, "'Then I will be the main taster.' Russian says 'as the main taster will be I', with the job in the 'ym' ending. The word order puts 'I' last for drama."),
+    (9, None, "'I will taste this dish myself.' 'Sam' is 'myself', and it's the same word as in 'I'll do it myself'. 'Poprobuyu' is 'I'll try' in the sense of 'taste'."),
+    (10, None, "'I hope you will really like the dish.' 'Nadeyus' is 'I hope', with 'sya' in it. 'Vam ponravitsya' is 'to you it will be pleasing'."),
+    (11, None, "'Let us see what our cook prepared.' 'Posmotrim' is 'let's see', and the second half asks 'what did he prepare'. 'Povar' is the cook."),
 ]
