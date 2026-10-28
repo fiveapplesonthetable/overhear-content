@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Viktoria Sergeyevna, did you call me?' Kostya uses her full name and father's name, which is formal. The verb ends in "-li", the polite plural.
-- 'Kostya, explain what this mess in the bar is?' "Mess" is built as "without order", so "disorder". And "chto za" means "what kind of".
-- 'There is no terrible mess here.' After "there isn't", the missing thing takes an "of" ending: "no terrible of-mess". The describing word gets one too.
-- 'Why was a strange man standing behind the bar counter?' "Strange" also means "someone else's". Russians say "stood", not "was", for someone in a spot.
-- 'He is a specialist and was fixing our electronic register.' This "was fixing" is the ongoing job. The version with "po-" in the last scene meant "had fixed". Without "po-" it's unfinished.
-- 'You left a stranger completely alone without supervision?' "Stranger" is "ne" plus "familiar": an unfamiliar person. "Supervision" comes from "to look".
-- 'I stepped away to the kitchen for literally a minute.' "Literally" comes from "letter", so it means "to the letter". The "ot-" on "stepped away" means "away from".
-- 'And now look carefully at this shelf.' "Look at" takes a small word, and "shelf" ends in -u. Vika's command is the friendly one.
-- 'I see nothing unusual here.' "Unusual" is "usual" with "not" in front. "Nothing" arrives in its "of" form.
-- 'Where then is our expensive cognac standing?' Russians say bottles "stand". "Expensive" is the same word as "dear".
-- 'This cognac always stood right here.' "Always stood" is two words, and "right here" is literally "straight here".
-- 'The bottle is no longer in its place.' Russian says "of-bottle more isn't". After "isn't", the thing takes the "of" ending. "Its own place" uses the "own" word.
+- 'Yes, Viktoria Sergeyevna, did you call me?' Kostya uses her first name and her father's name, which is formal. "Zvali", called, ends in -li to go with the polite "vy".
+- 'Kostya, explain what this mess in the bar is?' "Besporyadok", mess, is "bez", without, plus "poryadok", order. "Chto za" means "what kind of", and "ob'yasni" is "explain".
+- 'There is no terrible mess here.' After "net", there isn't, the missing thing takes an "of" ending, so "besporyadok" becomes "besporyadka". "Strashnyy", terrible, comes from "strakh", fear.
+- 'Why was a strange man standing behind the bar counter?' "Chuzhoy" means "someone else's", so a "chuzhoy chelovek" is a stranger. Russians say a person "stoyal", stood, in a spot.
+- 'He is a specialist and was fixing our electronic register.' "Chinil" is "was fixing", the job still going on. Vika's "pochinil", with "po-", meant the job was done.
+- 'You left a stranger completely alone without supervision?' "Neznakomets", stranger, is "ne" plus "znakomyy", familiar. "Bez prismotra", without supervision, has "smotret'", look, inside it.
+- 'I stepped away to the kitchen for literally a minute.' "Bukval'no", literally, comes from "bukva", a letter. "Otoshyol", stepped away, has "ot-", away from.
+- 'And now look carefully at this shelf.' "Posmotri na" is "look at", and "na" turns "eta polka" into "etu polku". "Vnimatel'no" is "carefully".
+- 'I see nothing unusual here.' "Neobychnyy", unusual, is "obychnyy", usual, with "ne" in front. "Nichego ne vizhu" is "nothing not I see", the double negative.
+- 'Where then is our expensive cognac standing?' Russians say bottles "stoyat", stand. "Dorogoy" is "expensive" and also "dear", and "togda" is "then".
+- 'This cognac always stood right here.' "Vsegda stoyal" is "always stood". "Pryamo zdes'" is "straight here", meaning "right here".
+- 'The bottle is no longer in its place.' "Butylki bol'she net" is "of-bottle more isn't": after "net", "butylka" takes the "of" ending. "Na svoyom meste" is "in its own place".

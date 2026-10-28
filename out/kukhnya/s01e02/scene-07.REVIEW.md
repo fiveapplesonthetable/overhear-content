@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you even doing here?' The word "vobshche" adds "even" or "at all" and gives the question an edge. "Tut" is the casual "here".
-- 'I am just brewing coffee for the guests.' "Brewing" is the same cooking word as in the last scene. After "for", "guests" changes to a new shape.
+- 'What are you even doing here?' "Voobshche" adds "even" or "at all" and gives the question an edge. "Tut" is the casual "here".
+- 'I am just brewing coffee for the guests.' "Varyu" is the same boiling verb as "vari kofe" in the last scene. After "dlya", for, "gosti" becomes "gostey".
 - 'You spilled milk all over the counter!' You can hear the pieces in "razlil": "raz-", apart, and "lil", poured. So the milk went everywhere.
-- 'I wanted to show a neat trick.' Two verbs side by side: "wanted" and "to show". The last word is "trick", as in a magic trick, and Max sounds proud.
+- 'I wanted to show a neat trick.' "Khotel pokazat'" is "wanted to show", two verbs side by side. "Fokus" is a trick, as in a magic trick.
 - 'Some bartender you are!' "Tozhe mne" in front of a noun is Russian for "some ... you are!". It's literally "also to me", and you can put almost any noun after it.
-- 'Every master makes mistakes.' The verb means "happen from time to time". Max puts it as "at every master there happen mistakes", which is more elegant than "makes".
-- 'Get lost, go on, I will do everything myself.' The first word is a rude "scram", close to "fall through". Sasha is a woman, so "myself" ends in -a.
-- 'All right, I had better go to the kitchen.' "I'd better" is "better I'll go" in Russian, which is shorter than the English.
-- 'And never touch the coffee machine again!' Count the negatives: "more never not". Russian happily stacks them. The last word is "coffee" and "machine" stuck together.
-- 'The kitchen is definitely closer to my heart than this bar.' Max says "closer to me", and "than" is a small word. He is telling Sasha where he belongs.
-- 'Then go help the cooks.' "To the cooks" has the ending that means "to". The first two words are "so go", like "well, go then".
-- 'Leaving already, bar boss!' "Boss of the bar" is built with the second word in the "of" form. Max is making a joke at Sasha's expense.
+- 'Every master makes mistakes.' Russian puts it as "at every master there happen mistakes". "Byvayut" means "happen from time to time", and "u kazhdogo" is "at each".
+- 'Get lost, go on, I will do everything myself.' "Provalivay" is a rude "scram", from "provalit'sya", to fall through. "Sama", "myself", ends in -a because Sasha is a woman.
+- 'All right, I had better go to the kitchen.' "Ya luchshe poydu" is "I better will go", the same "luchshe" Max used to turn down a seat.
+- 'And never touch the coffee machine again!' "Bol'she nikogda ne" is "more never not": "nikogda" and "ne" both say no, and Russian is happy with that. "Kofemashina" is "coffee" and "machine" stuck together.
+- 'The kitchen is definitely closer to my heart than this bar.' "Mne blizhe" is "to me closer". "Chem" is "than", and "tochno" is "definitely".
+- 'Then go help the cooks.' "Vot i idi" is "well, go then". "Povaram", "to the cooks", has the "-am" ending that means "to" for a group.
+- 'Leaving already, bar boss!' "Uzhe ukhozhu" is "already I'm leaving". "Shef bara" is "chef of the bar": "bar" adds an -a for "of".

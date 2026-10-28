@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Jindi, hide this knife quickly!' "Oy" is a short exclamation. "Quickly" is the "faster" word, and the command to hide is a very short one.
-- 'Why should I hide this knife?' "To me to hide" is how Russian says "should I?". Jindi uses "zachem", which means "what for".
-- 'This is our chef's favorite knife!' "Favorite" comes from "to love". "Our chef's" has endings on both words.
-- 'The chef has been looking for it all morning.' "Already" plus a present form tells you it has been going on a while. "The whole morning" needs no little word in front.
-- 'I simply wanted to wash dishes.' "Wash" has a "po-" in front that means a quick wash. "Dishes" is a singular word in Russian, a collective noun.
-- 'If the chef sees the knife, there will be a scandal!' "Uvidit" is "will see". "There will be" is the future of "is", and "scandal" is borrowed.
-- 'He will yell at us very loudly.' "Will yell" has "will be" plus "to shout". "At us" is two short words, and "very loudly" is literally "very strongly".
-- 'What should I do now?' "To me to do" is again the "should I" pattern. The little "zhe" adds worry.
-- 'Put the knife back onto the table.' "Put" is the command for laying something flat. "Back" is a word of its own, and "onto the table" has no ending because it's movement.
-- 'Let the chef find his knife himself.' "Let" makes a command about someone else. "Himself" and "his own" are two short words.
-- 'Hide it further away from here, quickly!' "Further" is "far", given a comparing ending. "Quickly" is the "faster" form.
-- 'Alright, I will put everything away now.' "Put away" is a "clear off" word, and it's the same one the chef used in the last scene.
-- 'Just do not say anything to anyone!' Count them: "to nobody", "nothing" and "not". It's the Russian triple negative, completely correct.
+- 'Oh, Jindi, hide this knife quickly!' "Oy" is a short "oh!". "Skoreye" is "quicker", and "spryach'", hide, is the command form of "spryatat'".
+- 'Why should I hide this knife?' "Zachem mne pryatat'" is "what for to me to hide", which is how Russian asks "why should I?".
+- 'This is our chef's favorite knife!' "Lyubimyy nozh" is the "loved knife" again. "Nashego shefa", "of our chef", puts an "of" ending on both words.
+- 'The chef has been looking for it all morning.' "Ishchet uzhe", "looks already", uses the present for something that started earlier and is still going. "Vsyo utro" is "the whole morning".
+- 'I simply wanted to wash dishes.' "Pomyt'" is the finished partner of "myt'", to wash. "Posuda", dishes, is a single word for all the crockery.
+- 'If the chef sees the knife, there will be a scandal!' "Uvidit" is "will see". "Budet" is "there will be", and "skandal" is borrowed.
+- 'He will yell at us very loudly.' "Budet krichat'" is "will shout", made from "budet" plus the verb. "Na nas" is "at us", and "ochen' sil'no" is "very strongly".
+- 'What should I do now?' "Chto mne delat'" is "what to me to do", the same "should I" pattern again. "Zhe" adds worry.
+- 'Put the knife back onto the table.' "Polozhi" is the command for laying something flat. "Obratno" is "back", and "na stol" is "onto the table".
+- 'Let the chef find his knife himself.' "Pust'" is "let", for wishing something on someone else. "Sam" is "himself" and "svoy" is "his own".
+- 'Hide it further away from here, quickly!' "Podal'she", further away, is "daleko", far, with "po-" and a comparing ending. "Bystreye" is "faster".
+- 'Alright, I will put everything away now.' "Uberu", I'll put away, is from "ubrat'", the verb the chef used for the dirty box.
+- 'Just do not say anything to anyone!' Count them: "nikomu", to nobody, "nichego", nothing, and "ne". It's a Russian triple negative, completely correct.

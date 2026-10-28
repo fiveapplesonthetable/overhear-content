@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, the waiter has already served our dish.' The first word is "look", addressed to a group. "Served" is a past-tense verb. "Already" is the small word you've heard.
-- 'She picked up the fork and is tasting the sauce.' The -a on "took" shows it's a woman. And "tastes" is also "tries", the same word.
-- 'Is she smiling or frowning?' "Smiles" comes from the noun for a smile. The two verbs are joined by "or", and Max is just guessing.
-- 'She is chewing the first piece very attentively.' "Piece" gets a small ending that makes it "a little piece". And "attentively" comes from the noun for attention.
+- 'Look, the waiter has already served our dish.' "Smotrite" is "look", said to a group. "Podal", "served", is the past of "podat'", the same family as "podavay", serve.
+- 'She picked up the fork and is tasting the sauce.' The -a on "vzyala", "took", shows it's a woman. "Probuyet" means both "tastes" and "tries".
+- 'Is she smiling or frowning?' "Ulybayetsya", "smiles", comes from "ulybka", a smile, and "khmuritsya" is "frowns". "Ili" is "or".
+- 'She is chewing the first piece very attentively.' "Kusochek" is "kusok", a piece, made small. "Vnimatel'no", attentively, comes from "vnimaniye", attention.
 - 'And for some reason she is completely silent.' "Pochemu-to" is "why" plus "-to", which makes it "for some reason". Russians add "-to" to question words when the answer is unknown.
-- 'Is that good or bad?' Here are the two opposites side by side, "good" and "bad", joined by "or". They're short and easy to remember.
-- 'I do not understand anything yet myself.' "Nothing" and "not" together, the double negative once more. "Poka" here means "for now", the same word as the casual "bye".
-- 'The main thing is that she does not call the director.' "Glavnoye" opens it, then "chtoby" for "that", and Russian puts the next word in the past, "she not called", to express a hope.
-- 'Look, she took another sip.' A sip grows out of "to swallow". "Another" is literally "one more".
-- 'It seems she liked our fricassee!' "Kazhetsya", seems, carries the little "-sya" ending. "To her it pleased" is Russian for "she liked", and the ending matches the neuter word "fricassee".
-- 'Do not celebrate too early.' "Don't rejoice" is the command. "Earlier than time" is Russian for "too early".
-- 'Oh, she is calling the waitress to the table!' The waitress is the waiter's word with "-ka" added. "To the table" has an -u because it's movement toward.
+- 'Is that good or bad?' "Khorosho ili plokho", "good or bad", is two opposites joined by "ili". They're short and easy to remember.
+- 'I do not understand anything yet myself.' "Nichego ne", "nothing not", is the double negative once more. "Poka" here means "for now", the same word as the casual "bye".
+- 'The main thing is that she does not call the director.' "Glavnoye" opens it, then "chtoby", "so that". After "chtoby" the verb takes its past form, "ne pozvala", even though it's about a hope.
+- 'Look, she took another sip.' "Glotok", a sip, is one swallow: the verb "glotat'" means to swallow. "Yeshchyo odin" is "one more".
+- 'It seems she liked our fricassee!' "Kazhetsya" is "it seems". "Yey ponravilos'" is "to her it pleased", and the "-os'" ending matches "frikase", a neuter word.
+- 'Do not celebrate too early.' "Ne raduysya", "don't rejoice", comes from "rad", glad. "Ran'she vremeni", "earlier than time", is how Russians say "too early".
+- 'Oh, she is calling the waitress to the table!' "Ofitsiantka" is "ofitsiant", a waiter, with "-ka" for a woman. "K stolu" is "to the table": "stol" adds -u after "k".

@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Шеф | Вы точно везде хорошо искали? | Did you definitely look well everywhere? | #238 00:17:54: Везде смотрели? | verbatim |
 | 6 | Лёва | Да, мы всё проверили на кухне. | Yes, we checked everything in the kitchen. | #239 00:17:58: Везде. | verbatim |
 | 7 | Шеф | Значит, продолжайте искать дальше! | Then continue to look further! | #239 00:17:58: Ну ищите. | verbatim |
-| 8 | Шеф | Кто-то мог случайно оставить нож внутри. | Someone could accidentally leave the knife inside. | #240 00:18:00: оставил там нож | verbatim |
+| 8 | Шеф | Кто-то мог случайно оставить нож внутри. | Someone could have accidentally left the knife inside. | #240 00:18:00: оставил там нож | verbatim |
 | 9 | Шеф | Например, кто-то забыл нож в рыбе. | For example, someone forgot the knife in the fish. | #241 00:18:04: Ну, в рыбе, например. | verbatim |
 | 10 | Лёва | В рыбе? Это невозможно, шеф! | In the fish? That is impossible, Chef! | #242 00:18:07: В рыбе? | verbatim |
 | 11 | Шеф | Я не знаю. Ищите везде! | I do not know. Look everywhere! | #243 00:18:10: Ищите везде. | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you put a dirty box here?' "Put" really means "make stand", so a box is "stood" somewhere. The two describing words end in "-uyu" as the object.
-- 'Remove it from here very quickly!' "It" is feminine, because "box" is a feminine word. "Remove" is a friendly command.
-- 'Lyova, have you already found my knife?' The chef says "vy", but here it's the plural, "you all", not the polite one. He means Lyova and the others.
-- 'We have not found it yet, Chef.' "Not yet" is "still not". The little "yego" for "it" never changes.
-- 'Did you definitely look well everywhere?' "Definitely" and "everywhere" are two short words, with "well" between. It sounds like a real interrogation.
-- 'Yes, we checked everything in the kitchen.' "Checked" ends in "-li", the plural for "we". "Everything" is one short word.
-- 'Then continue to look further!' "Continue" is a command to a group. "Further" also means "more", in the sense of keep going.
-- 'Someone could accidentally leave the knife inside.' "Could" is a short word, "mog". "Accidentally" comes from "chance", and "inside" is one small word.
-- 'For example, someone forgot the knife in the fish.' "For example" is "on example". "Forgot" ends in -l, and "in the fish" has an -e on the fish.
-- 'In the fish? That is impossible, Chef!' Lyova repeats the words with a question in his voice. "Impossible" is "not" plus "possible".
-- 'I do not know. Look everywhere!' "Ishchite" is the command "look for", in the form for a group. The chef has stopped being logical.
-- 'Alright, Chef, we will find everything.' Lyova says "naydyom", "we will find". Lyova is trying to calm him.
-- 'Without the knife we will not be able to work!' "Without" makes "knife" take an -a. "Smozhem" is "we will be able", with "not" before it.
+- 'Why did you put a dirty box here?' "Postavil", put, really means "made stand", so a box is stood somewhere. "Gryaznaya korobka" becomes "gryaznuyu korobku" as the thing put.
+- 'Remove it from here very quickly!' "Yeyo", it, is the "her" word, because "korobka" is feminine. "Uberi" is the friendly "take away".
+- 'Lyova, have you already found my knife?' The chef says "vy", but here it's the plural "you all", not the polite one. "Nashli", found, ends in -li for the group.
+- 'We have not found it yet, Chef.' "Yeshchyo ne" is "still not", the Russian "not yet". "Yego", it, never changes.
+- 'Did you definitely look well everywhere?' "Tochno" is "definitely", "vezde" is "everywhere", and "khorosho" sits between as "well".
+- 'Yes, we checked everything in the kitchen.' "Proverili", checked, ends in -li for "we". "Vsyo" is "everything".
+- 'Then continue to look further!' "Znachit", then, is literally "it means". "Prodolzhayte" is "keep on", said to a group, and "dal'she" is "further".
+- 'Someone could have accidentally left the knife inside.' "Mog" is "could". "Sluchayno", by accident, comes from "sluchay", a chance, and "vnutri" is "inside".
+- 'For example, someone forgot the knife in the fish.' "Naprimer" is "on example". "Zabyl", forgot, ends in -l, and "v rybe" puts an -e on the fish.
+- 'In the fish? That is impossible, Chef!' Lyova repeats "v rybe" as a question. "Nevozmozhno" is "ne" plus "vozmozhno", possible.
+- 'I do not know. Look everywhere!' "Ishchite" is "look for", said to a group. "Vezde", everywhere, is the same word Lyova used.
+- 'Alright, Chef, we will find everything.' "Naydyom" is "we'll find". "Vsyo", everything, is the thing found.
+- 'Without the knife we will not be able to work!' "Bez nozha": "bez" makes "nozh" take an -a. "Ne smozhem" is "won't be able".

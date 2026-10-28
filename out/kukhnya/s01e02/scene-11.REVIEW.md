@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef! Chef! You are being called to the dining hall!' Literally "they call you", with no one named, and that's the usual way to say you're wanted. The "you" here is the formal one.
-- 'What else? Who is waiting for me there?' The first two words mean something like "what now?". Both "waits" and "there" are short, easy words.
+- 'Chef! Chef! You are being called to the dining hall!' "Vas zovut v zal" is "you they call to the hall". "Zovut", "they call", names nobody, which is the usual way to say you're wanted. Ainura uses "vas", the polite "you", for her boss.
+- 'What else? Who is waiting for me there?' "Chto yeshchyo?" is "what else?", an impatient "what now?". "Zhdyot" is "waits", and "tam" is "there".
 - 'That pretty lady from the neighboring restaurant.' "Simpatichnaya" looks like "sympathetic" but really means nice-looking or likeable. A false friend worth knowing.
-- 'How can I be of service?' Russian says "with what can I be useful". "Useful" is from "benefit".
-- 'I have just tasted your fricassee.' "Just now" is literally "only what". The -la on "tasted" tells you Elena is a woman.
-- 'Well, and how did you like our dish?' It starts with "nu", the "well..." of Russian. Then "how to you", which is how Russians ask what you think of something.
-- 'You know, I liked it very much.' "You know" is a filler, as in English. Then "it pleased me", with the verb ending in -o to match "it".
-- 'Really? This is my old signature recipe.' "Signature" grows out of "firma", a company, so it means "of the house". The rest is plain: old and recipe.
-- 'Partridge was left over, and it was a shame to throw it out.' "To throw out" has "vy-", out, in front. "It was a shame" is "it was a pity", all in one small word.
-- 'Understood. It is pleasant to leave your place alive.' "Alive" is the root behind "quick!" in the knife scene, with the -oy of a woman. A joke with a sting.
-- 'What? Are you already leaving the restaurant?' The first word, "kak", means "how" but here shows surprise, like "what?". "Out of the restaurant" is two short words.
-- 'Your chef's special took far too long to prepare.' "Was being prepared" ends in "-s'", as if the dish prepared itself. "Too long" is two little words.
+- 'How can I be of service?' Russian says "chem ya mogu byt' polezen", "with what can I be useful". "Polezen" is the short form of "poleznyy", useful, and a woman would say "polezna".
+- 'I have just tasted your fricassee.' "Tol'ko chto" is "only what", and together they mean "just now". The -la on "poprobovala" shows Elena is a woman.
+- 'Well, and how did you like our dish?' "Nu" is the "well..." of Russian. "Kak vam" is "how to you", which is how Russians ask what you thought of something.
+- 'You know, I liked it very much.' "Vy znayete", "you know", is a filler, just as in English. "Ono mne ponravilos'" is "it to me pleased", with -os' to match "ono", the fricassee.
+- 'Really? This is my old signature recipe.' "Firmennyy", signature, grows out of "firma", a company, so it means "of the house". "Staryy retsept" is "old recipe".
+- 'Partridge was left over, and it was a shame to throw it out.' "Vybrasyvat'", to throw out, starts with "vy-", out. "Zhalko" is "it's a pity", all in one word.
+- 'Understood. It is pleasant to leave your place alive.' "Zhivoy", alive, is the root of "zhivo!", quick, from the knife scene. It ends in -oy because Elena is a woman. A joke with a sting.
+- 'What? Are you already leaving the restaurant?' "Kak" means "how", but here it shows surprise, like "what?". In "iz restorana", "out of the restaurant", "iz" makes "restoran" add an -a.
+- 'Your chef's special took far too long to prepare.' "Gotovilos'", "was being cooked", ends in "-s'", as if the dish cooked itself. "Slishkom dolgo" is "too long".
 - 'Goodbye, head chef.' Literally "until meeting", and it's the standard formal goodbye. Use it with anyone you don't know well.

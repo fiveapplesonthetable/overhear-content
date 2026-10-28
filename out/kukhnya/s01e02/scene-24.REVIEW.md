@@ -23,21 +23,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Шеф | Сейчас всё сделаем, приятного аппетита. | We will prepare everything right away, bon appetit. | #277 00:20:41: Приятного аппетита. | verbatim |
 | 12 | Шеф | Макс, пошли скорее на кухню. | Max, let's head quickly to the kitchen. | #276 00:20:38: Макс, пошли. | verbatim |
 | 13 | Макс | Шеф, вы назвали меня по имени! | Chef, you called me by my name! | #278 00:20:44: Шеф, а вы меня по именем назвали. | verbatim |
-| 14 | Шеф | Огузок, без спроса не выходи в зал! | Runt, do not come out to the dining room without permission! | #279 00:20:47: если ты еще раз без моего разрешения | verbatim |
+| 14 | Шеф | Огузок, без спроса не выходи в зал! | Oguzok, do not come out to the dining room without permission! | #279 00:20:47: если ты еще раз без моего разрешения | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In the dining room a guest found a knife in the fish!' "Found" is an irregular past, "nashyol". "In the fish" has the -e on the fish, and the position of "in the dining room" at the front sets the scene.
-- 'Chef, we must urgently do something.' "Necessary" does the job of "must". "Something" is "what" plus "-to", the "-to" we met before.
-- 'I will go out to the dining room myself.' "Myself" is one short word. "Will go" is also one, and "to the hall" has no ending.
-- 'Will you explain to me what this is?' Russian uses the future for a polite request, so "will you explain" means "please explain". "What is this" ends in a small word meaning "such".
-- 'Allow me to explain everything to the guest.' "Allow" is a formal command, and "to the guest" has the "to" ending. Max steps in to save the situation.
-- 'Before you is a unique ancient recipe.' "Before you" has "you" in a special shape after "before". "Ancient" starts from "old".
-- 'The Crusaders prepared fish right on their swords.' "Crusaders" means "cross-carriers": "cross" and "carry". "On swords" has the plural ending for "on".
-- 'Yes, this is indeed very delicious!' "Indeed" comes from "action", so it means "truly". The guest agrees with Max.
-- 'This is true poetry of haute cuisine.' Russian says "high cuisine" for "haute cuisine". "Poetry" is borrowed, as the guest sounds grand.
-- 'Bring me another fish just like this!' "Bring" takes the "-te" of formal commands. "One more" and "such" are both feminine, to match "fish".
+- 'In the dining room a guest found a knife in the fish!' "Nashyol", found, is an irregular past of "nayti". "V zale" and "v rybe" both end in -e for "in".
+- 'Chef, we must urgently do something.' "Nuzhno", necessary, does the job of "must". "Chto-to", something, is "chto" plus "-to", just like "kto-to".
+- 'I will go out to the dining room myself.' "Ya sam poydu" is "I myself will go". "V zal", into the hall, keeps "zal" unchanged because he's heading there.
+- 'Will you explain to me what this is?' "Vy ob'yasnite" is a future, "you will explain", used as a stern request. "Chto eto takoye" is "what this such".
+- 'Allow me to explain everything to the guest.' "Pozvol'te", allow, is a formal command. "Gostyu", to the guest, takes -yu for "to".
+- 'Before you is a unique ancient recipe.' "Pered vami" is "before you", and after "pered", "vy" becomes "vami". "Starinnyy", ancient, comes from "staryy", old.
+- 'The Crusaders prepared fish right on their swords.' "Krestonostsy" are "cross-carriers", from "krest", cross, and "nosit'", carry. "Na mechakh", on swords, has the plural -akh.
+- 'Yes, this is indeed very delicious!' "Deystvitel'no", indeed, comes from "deystviye", action, so it means "in fact". "Vkusno" is "tasty".
+- 'This is true poetry of haute cuisine.' Russian says "vysokaya kukhnya", "high cuisine", for haute cuisine. "Poeziya" is borrowed, and the guest sounds grand.
+- 'Bring me another fish just like this!' "Prinesite", bring, has the "-te" of formal commands. "Yeshchyo odnu takuyu" ends in -u to match "rybu", fish.
 - 'We will prepare everything right away, bon appetit.' "Priyatnogo appetita" is "of pleasant appetite", the standard wish before a meal.
-- 'Max, let's head quickly to the kitchen.' "Went", used as "let's go", is a common Russian trick. "Quickly" is the "faster" word.
-- 'Chef, you called me by my name!' "By name" is literally "by name", and Max is delighted. "Called" is plural-polite.
-- 'Runt, do not come out to the dining room without permission!' "Without permission" is "without asking", and "come out" is a command with "not" in front. The chef is back to his nickname for Max.
+- 'Max, let's head quickly to the kitchen.' "Poshli" is "went", but here it means "let's go", which is very common. "Skoreye" is "quicker".
+- 'Chef, you called me by my name!' "Po imeni" is "by name", and Max is delighted. "Nazvali", called, ends in -li because Max says "vy" to his boss.
+- 'Oguzok, do not come out to the dining room without permission!' "Bez sprosa" is "without asking", from "sprosit'", to ask. "Ne vykhodi" is "don't come out", and the chef is back to calling Max "Oguzok".

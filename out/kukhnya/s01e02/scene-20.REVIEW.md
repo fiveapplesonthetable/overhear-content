@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, come to my office!' "Zaydi" is "drop by", with "za-" meaning "on the way". "To me" becomes "ko mne" with an extra "o" for easier saying.
-- 'Yes, chef, I am already here.' "Already here" is two short words. Lyova needs no "am", since Russian leaves it out.
-- 'Where is my favorite fish knife?' "Fish knife" is "fish's knife", the fish word turned into a describing word. "Favorite" comes from "to love".
-- 'We are looking for it everywhere, chef.' "Vezde" is "everywhere". "Looking for" is the family of "ishchi", and "it" never changes.
-- 'Are you a sous-chef or who?' "Sous" is borrowed from French, as in "sous-chef". The second half, "or who such", is a rude way to ask "who are you?".
-- 'I maintain order in the kitchen.' "Slezhu za" means "keep an eye on", close to "follow after". "Order" is the root of "disorder" earlier.
-- 'You keep an eye on the kitchen very poorly!' The same verb comes back, now "you keep an eye". "Poorly" is "plokho", the opposite of "khorosho".
-- 'All the cooks are very busy with the search right now.' "Busy" is a short word, and "searches" is plural, from "poisk". "With" is shown by the ending "-ami".
-- 'Without this knife, the restaurant does not function!' "Without" is "bez", which makes the knife take an "of" ending. "Works" does the job of "functions".
-- 'We checked all tables and shelves.' "Checked" ends in "-li" for "we". "Tables" and "shelves" are both plural.
-- 'If the knife is not found, I will fire everyone!' "Is found" ends in "-sya", as if the knife finds itself. "Everyone" takes the object form.
-- 'Chef, we will certainly find what went missing.' "Certainly" comes from "obligatory". "Propazha", what went missing, comes from "to vanish".
-- 'Go and find it right now!' "Go and find" is two commands joined by "and". "Right now" is "straight now".
-- 'Understood, chef! I will find the knife.' "Slushayus'" is what a soldier says: "I'm listening", meaning "yes, sir". "Naydu" is "I will find".
+- 'Lyova, come to my office!' "Zaydi" is "drop in", with "za-" for a quick stop. "K mne" becomes "ko mne", with an extra "o" to make it easier to say.
+- 'Yes, chef, I am already here.' "Ya uzhe zdes'" is "I already here", with no "am", since Russian leaves it out.
+- 'Where is my favorite fish knife?' "Rybiy nozh" is a fish knife: "ryba", fish, becomes the describing word "rybiy". "Lyubimyy", favourite, shares its root with "lyubit'", love.
+- 'We are looking for it everywhere, chef.' "Vezde" is "everywhere". "Ishchem" is "we look for", and "yego", it, never changes.
+- 'Are you a sous-chef or who?' "Su-shef" is borrowed from French. "Ili kto takoy" is "or who such", a rude way to ask "who do you think you are?".
+- 'I maintain order in the kitchen.' "Slezhu za" is "I keep an eye on", from "sled", a track. "Poryadok", order, is the root of "besporyadok", mess.
+- 'You keep an eye on the kitchen very poorly!' The chef throws back the same verb, now "sledish'", "you keep an eye". "Plokho", poorly, is the opposite of "khorosho".
+- 'All the cooks are very busy with the search right now.' "Zanyaty" is "busy" for several people. "Poiski", the search, is plural in Russian, and "-ami" gives the "with".
+- 'Without this knife, the restaurant does not function!' "Bez", without, makes "etot nozh" become "etogo nozha". "Ne rabotayet", "doesn't work", does the job of "doesn't function".
+- 'We checked all tables and shelves.' "Proverili", checked, ends in -li for "we". "Stoly i polki" are both plurals: "stol" takes -y and "polka" takes -i.
+- 'If the knife is not found, I will fire everyone!' "Naydyotsya", "is found", ends in "-sya", as if the knife will find itself. "Vsekh uvolyu" is "all I'll fire".
+- 'Chef, we will certainly find what went missing.' "Obyazatel'no", certainly, is built on "obyazat'", oblige. "Propazha", what went missing, comes from "propast'", to vanish.
+- 'Go and find it right now!' "Idi i naydi" is two commands joined by "i", and. "Pryamo seychas" is "straight now", meaning "right now".
+- 'Understood, chef! I will find the knife.' "Slushayus'" is what a soldier says: "I'm listening", meaning "yes, sir". "Naydu" is "I'll find".
