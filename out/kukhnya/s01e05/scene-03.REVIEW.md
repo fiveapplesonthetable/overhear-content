@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Внимание, повара! Начнём наше собрание. | Attention, cooks! Let us begin our meeting. | #38 00:02:35: начнем собрание | adapted: adapted |
-| 2 | Аня | Шеф, что сегодня стряслось на кухне? | Chef, what happened in the kitchen today? | new | new: new |
+| 2 | Саша | Шеф, что сегодня стряслось на кухне? | Chef, what happened in the kitchen today? | new | new: new |
 | 3 | Шеф | Кто-то вчера разморозил пять килограммов трески. | Someone thawed five kilograms of cod yesterday. | #39 00:02:39: разморозил пять килограммов трески | adapted: adapted |
-| 4 | Аня | И что нам теперь делать? | And what are we to do now? | new | new: new |
+| 4 | Саша | И что нам теперь делать? | And what are we to do now? | new | new: new |
 | 5 | Шеф | Мы обязаны продать всю рыбу сегодня! | We must sell all the fish today! | #40 00:02:44: мы должны ее сегодня продать | adapted: adapted |
-| 6 | Аня | Гости заказывают только мясо и пасту. | Guests only order meat and pasta. | new | new: new |
+| 6 | Саша | Гости заказывают только мясо и пасту. | Guests only order meat and pasta. | new | new: new |
 | 7 | Шеф | Саша, подойди ко мне немедленно. | Sasha, come to me immediately. | #42 00:02:49: Саша! Зайди сюда | adapted: adapted |
-| 8 | Аня | Я слушаю вас внимательно, шеф. | I am listening to you carefully, chef. | #43 00:02:52: Да, шеф | adapted: adapted |
+| 8 | Саша | Я слушаю вас внимательно, шеф. | I am listening to you carefully, chef. | #43 00:02:52: Да, шеф | adapted: adapted |
 | 9 | Шеф | Передай официантам: сегодня активно предлагаем треску. | Tell the waiters: today we actively offer cod. | #43 00:02:52: что сегодня продаем треску | adapted: adapted |
-| 10 | Аня | Может быть, сделаем специальную скидку? | Maybe we will give a special discount? | new | new: new |
+| 10 | Саша | Может быть, сделаем специальную скидку? | Maybe we will give a special discount? | new | new: new |
 | 11 | Шеф | Да, скидка двадцать процентов на рыбу. | Yes, twenty percent discount on fish. | #44 00:02:55: скидка 20% | adapted: adapted |
-| 12 | Аня | Понятно, шеф, мы всё организуем. | Understood, chef, we will organize everything. | #45 00:02:58: Понятно | adapted: adapted |
+| 12 | Саша | Понятно, шеф, мы всё организуем. | Understood, chef, we will organize everything. | #45 00:02:58: Понятно | adapted: adapted |
 | 13 | Шеф | Если рыба останется, я вас оштрафую! | If fish remains, I will fine you! | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)

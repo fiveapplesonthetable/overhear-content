@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I repeat for everyone, the order is already waiting!' Elena calls out the dinner order firmly a second time.
 - 'Elena, they heard you perfectly well.' Viktor defends his kitchen staff against her sharp tone.
-- 'Why then is nobody working?' Demanding immediate physical action from the frozen line cooks.
+- 'Why then is nobody working?' The phrasing opens with 'why' before bringing in 'then' and 'is working' to make the point clear.
 - 'In my kitchen there is always strict order.' Barinov insists on his controlled culinary rhythm.
-- 'You work too slowly for a restaurant.' Criticizing the pace of Claude Monet's kitchen line.
-- 'Every good dish needs its own time.' Defending the deliberate pacing required for gourmet cuisine.
-- 'Guests do not like to wait long for food.' Reminding Barinov of basic customer satisfaction.
-- 'Our guests appreciate high taste.' Emphasizing that excellence cannot be rushed.
-- 'I will show myself how one must work!' Stepping up to personally supervise every station.
-- 'Great, I will go calmly rest.' Feigning complete nonchalance as he prepares to exit.
+- 'You work too slowly for a restaurant.' Elena chooses the imperfective verb meaning 'work' for the ongoing action, followed by 'too' and 'slowly'.
+- 'Every good dish needs its own time.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'dish', combining 'good' with 'dish' and 'needed'.
+- 'Guests do not like to wait long for food.' The phrasing opens with 'guests' before bringing in 'like' and 'long' to make the point clear.
+- 'Our guests appreciate high taste.' Chef Barinov expresses this naturally by combining the word for 'guests' with 'appreciate' and 'high'.
+- 'I will show myself how one must work!' Elena uses the perfective verb meaning 'will show' to focus on the single completed result, pairing it with 'how' and 'must'.
+- 'Great, I will go calmly rest.' Here Chef Barinov anchors the line on the word meaning 'great' and builds the thought around 'will go' and 'calmly'.
 - 'Are you abandoning your kitchen to me?' Elena realizes Barinov is leaving her with his stubborn cooks.
 - 'I am sure that you will manage excellently.' Barinov patronizingly leaves the kitchen in her hands.
-- 'Return soon, otherwise I will take the restaurant!' Threatening to make Claude Monet her own establishment.
-- 'We'll see who stays the winner here!' Viktor turns on his heel with confidence.
+- 'Return soon, otherwise I will take the restaurant!' Elena leads with the direct command form meaning 'return', pairing it with 'soon' and 'otherwise'.
+- 'We'll see who stays the winner here!' Chef Barinov uses the perfective verb meaning 'we will see' to focus on the single completed result, pairing it with 'here' and 'will remain'.

@@ -2247,11 +2247,20 @@
           "trans": "Hello, Viktor Stepanovich?"
         },
         {
-          "text": "Алло?",
-          "trans": "Hello?"
+          "text": "Алло, Вика, ты сейчас где находишься?",
+          "trans": "Hello, Vika, where are you right now?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "быть": {
       "lemma": "быть",
@@ -2267,7 +2276,7 @@
         },
         {
           "en": "there is, there are",
-          "note": "present есть; у меня есть = I have"
+          "note": "Secondary conversational sense ('there is, there are') (present есть; у меня есть = I have) used in spoken Russian dialogue."
         },
         {
           "en": "will (with an imperfective infinitive)",
@@ -2285,58 +2294,27 @@
           {
             "cells": [
               "1st",
-              "есть",
-              "есть"
+              "буду",
+              "будем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "есть",
-              "есть"
+              "будешь",
+              "будете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "есть",
-              "есть"
+              "будет",
+              "будут"
             ]
           }
         ]
       },
       "moreForms": [
-        {
-          "title": "Future",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "буду",
-                "будем"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "будешь",
-                "будете"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "будет",
-                "будут"
-              ]
-            }
-          ]
-        },
         {
           "title": "Past",
           "columns": [
@@ -2354,23 +2332,6 @@
                 "была",
                 "было",
                 "были"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "будь",
-                "будьте"
               ]
             }
           ]
@@ -2413,11 +2374,11 @@
       "meanings": [
         {
           "en": "in",
-          "note": "+ prepositional (where)"
+          "note": "Russian preposition meaning 'in' that governs a specific oblique case on the following noun phrase."
         },
         {
           "en": "into, to",
-          "note": "+ accusative (where to)"
+          "note": "Secondary conversational sense ('into, to') (+ accusative (where to)) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2436,7 +2397,16 @@
           "trans": "Hello! How was it in Hungary?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "внутри",
+          "gloss": "inside"
+        },
+        {
+          "word": "входить",
+          "gloss": "to enter"
+        }
+      ]
     },
     "весь": {
       "lemma": "весь",
@@ -2446,15 +2416,15 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "the neuter form 'всё' used alone"
+          "note": "Russian determiner/pronoun ('all') agreeing in gender, number, and case with the noun phrase it specifies."
         },
         {
           "en": "everything",
-          "note": "neuter всё"
+          "note": "Secondary conversational sense ('everything') (neuter всё) used in spoken Russian dialogue."
         },
         {
           "en": "everyone",
-          "note": "plural все"
+          "note": "Secondary conversational sense ('everyone') (plural все) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2538,7 +2508,16 @@
           "trans": "Share with everyone."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "внутренний": {
       "lemma": "внутренний",
@@ -2548,7 +2527,7 @@
       "meanings": [
         {
           "en": "inner, internal, inside",
-          "note": "relating to the inside"
+          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'inner' and agreeing in gender, number, and case."
         }
       ],
       "forms": {
@@ -2655,7 +2634,7 @@
         },
         {
           "en": "out!",
-          "note": "вон отсюда! = get out of here!"
+          "note": "Secondary conversational sense ('out!') (вон отсюда! = get out of here!) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2689,11 +2668,11 @@
       "meanings": [
         {
           "en": "at all, absolutely",
-          "note": "for emphasis"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'at all'."
         },
         {
           "en": "in general",
-          "note": ""
+          "note": "Secondary conversational sense ('in general') used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2731,7 +2710,7 @@
         },
         {
           "en": "that's it, done",
-          "note": "at the start of a sentence"
+          "note": "Secondary conversational sense ('that's it, done') (at the start of a sentence) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2768,8 +2747,8 @@
           "note": "polite to one person, or to several people"
         },
         {
-          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2834,8 +2813,12 @@
       ],
       "related": [
         {
-          "word": "вас",
-          "gloss": "you (genitive/accusative)"
+          "word": "ваш",
+          "gloss": "your, yours"
+        },
+        {
+          "word": "ты",
+          "gloss": "you (singular)"
         }
       ]
     },
@@ -2853,7 +2836,7 @@
         },
         {
           "en": "to get out (of prison, arrest)",
-          "note": ""
+          "note": "Secondary conversational sense ('to get out (of prison, arrest)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2933,12 +2916,12 @@
           "trans": "I'm going out in a minute."
         },
         {
-          "text": "Выходи!",
-          "trans": "Come out!"
-        },
-        {
           "text": "Ты мне даёшь пятьсот рублей, а я выхожу и покупаю тебе лучшую приставку в мире.",
           "trans": "You give me five hundred roubles, and I get out and buy you the best console in the world."
+        },
+        {
+          "text": "Давай быстрее выходи из подсобки, начинается вечерняя смена!",
+          "trans": "Come on out of the storage room quickly, the evening shift is starting!"
         }
       ],
       "related": [
@@ -2964,7 +2947,7 @@
       "meanings": [
         {
           "en": "where",
-          "note": "location; for direction use 'куда'"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'where'."
         }
       ],
       "forms": null,
@@ -2985,8 +2968,12 @@
       ],
       "related": [
         {
-          "word": "очень где",
-          "gloss": "intensified / related adverb (where)"
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
         }
       ]
     },
@@ -3103,7 +3090,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "дай! = give (me)!"
+          "note": "Russian perfective verb focusing on a single completed action or result meaning 'to give', forming an aspectual pair with 'давать'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         }
       ],
       "forms": {
@@ -3158,23 +3145,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "дай",
-                "дайте"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -3215,7 +3185,7 @@
       "meanings": [
         {
           "en": "little girl, schoolgirl, girl",
-          "note": "female child or teenager"
+          "note": "Derived feminine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'girl'."
         }
       ],
       "forms": {
@@ -3287,8 +3257,12 @@
       ],
       "related": [
         {
-          "word": "девочкный",
-          "gloss": "related to girl (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -3479,11 +3453,11 @@
       "meanings": [
         {
           "en": "recording (audio or video)",
-          "note": "запись идёт = it is recording"
+          "note": "Declinable feminine noun meaning 'recording', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         },
         {
           "en": "written note, appointment",
-          "note": ""
+          "note": "Secondary conversational sense ('written note, appointment') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -3570,11 +3544,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person"
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to call', forming an aspectual pair with 'позвонить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         },
         {
           "en": "to ring",
-          "note": "a bell or phone"
+          "note": "Secondary conversational sense ('to ring') (a bell or phone) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -3758,8 +3732,12 @@
       ],
       "related": [
         {
-          "word": "зданиный",
-          "gloss": "related to building (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -3790,7 +3768,16 @@
           "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "тоже",
+          "gloss": "also, too"
+        },
+        {
+          "word": "вместе",
+          "gloss": "together"
+        }
+      ]
     },
     "из": {
       "lemma": "из",
@@ -3820,7 +3807,16 @@
         }
       ],
       "governs": "+ genitive",
-      "related": []
+      "related": [
+        {
+          "word": "выход",
+          "gloss": "exit"
+        },
+        {
+          "word": "выходить",
+          "gloss": "to go out"
+        }
+      ]
     },
     "какой": {
       "lemma": "какой",
@@ -3830,7 +3826,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "in questions"
+          "note": "Russian determiner/pronoun ('what') agreeing in gender, number, and case with the noun phrase it specifies."
         },
         {
           "en": "what a, how",
@@ -3938,7 +3934,7 @@
       "meanings": [
         {
           "en": "camera, video camera",
-          "note": "device for recording video"
+          "note": "Declinable feminine noun meaning 'camera', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         }
       ],
       "forms": {
@@ -4028,11 +4024,11 @@
       "meanings": [
         {
           "en": "kitchen",
-          "note": "the room"
+          "note": "Entered Russian via Polish 'kuchnia' and Middle High German 'küchen', ultimately from Late Latin 'coquina' (from 'coquere', to cook)."
         },
         {
           "en": "cuisine, cooking",
-          "note": "русская кухня = Russian cuisine"
+          "note": "Secondary conversational sense ('cuisine, cooking') (русская кухня = Russian cuisine) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -4104,8 +4100,12 @@
       ],
       "related": [
         {
-          "word": "кухнный",
-          "gloss": "related to kitchen (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -4190,8 +4190,12 @@
       ],
       "related": [
         {
-          "word": "мамный",
-          "gloss": "related to mum (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -4205,7 +4209,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive"
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'can', forming an aspectual pair with 'смочь'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         }
       ],
       "forms": {
@@ -4294,8 +4298,8 @@
           "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
-          "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -4360,8 +4364,12 @@
       ],
       "related": [
         {
-          "word": "нас",
-          "gloss": "us (genitive/accusative/prepositional)"
+          "word": "наш",
+          "gloss": "our, ours"
+        },
+        {
+          "word": "все",
+          "gloss": "everyone, all"
         }
       ]
     },
@@ -4373,11 +4381,11 @@
       "meanings": [
         {
           "en": "on",
-          "note": "+ prepositional: на сайте"
+          "note": "Russian preposition meaning 'on' that governs a specific oblique case on the following noun phrase."
         },
         {
           "en": "onto, to; for",
-          "note": "+ accusative: на второй срок"
+          "note": "Secondary conversational sense ('onto, to; for') (+ accusative: на второй срок) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -4396,7 +4404,16 @@
           "trans": "I love our town very much. That's why I'm running for a second term."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "наверх",
+          "gloss": "upstairs, upward"
+        },
+        {
+          "word": "накрыть",
+          "gloss": "to cover, set"
+        }
+      ]
     },
     "найти": {
       "lemma": "найти",
@@ -4463,23 +4480,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "найди",
-                "найдите"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -4530,7 +4530,16 @@
           "trans": "Chef, I didn't take it."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "нет",
+          "gloss": "no"
+        },
+        {
+          "word": "никогда",
+          "gloss": "never"
+        }
+      ]
     },
     "нет": {
       "lemma": "нет",
@@ -4544,7 +4553,7 @@
         },
         {
           "en": "there isn't",
-          "note": "+ genitive"
+          "note": "Secondary conversational sense ('there isn't') (+ genitive) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -4563,7 +4572,16 @@
           "trans": "No. That's mine."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "не",
+          "gloss": "not"
+        },
+        {
+          "word": "нельзя",
+          "gloss": "impossible, must not"
+        }
+      ]
     },
     "она": {
       "lemma": "она",
@@ -4573,7 +4591,7 @@
       "meanings": [
         {
           "en": "she",
-          "note": "её, ей, ей, о ней"
+          "note": "High-frequency Russian pronoun ('she') whose case form reflects its grammatical role in the clause."
         }
       ],
       "forms": null,
@@ -4592,7 +4610,16 @@
           "trans": "Pasha, I don't want to hear about her again. Understood?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "он",
+          "gloss": "he"
+        },
+        {
+          "word": "они",
+          "gloss": "they"
+        }
+      ]
     },
     "отключить": {
       "lemma": "отключить",
@@ -4604,11 +4631,11 @@
       "meanings": [
         {
           "en": "to switch off, to disconnect",
-          "note": "отключить свет = cut the power"
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'ключить'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to switch off', forming an aspectual pair with 'отключать'."
         },
         {
           "en": "to cut off (power, water)",
-          "note": "отключить свет = cut the power"
+          "note": "Secondary conversational sense ('to cut off (power, water)') (отключить свет = cut the power) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -4719,7 +4746,7 @@
       "meanings": [
         {
           "en": "from here, out of here",
-          "note": "locative / directional adverb"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'from here'."
         }
       ],
       "forms": null,
@@ -4868,7 +4895,7 @@
       "meanings": [
         {
           "en": "to go, to set off",
-          "note": "on foot"
+          "note": "Russian perfective verb focusing on a single completed action or result meaning 'to go', forming an aspectual pair with 'идти'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         }
       ],
       "forms": {
@@ -4920,23 +4947,6 @@
                 "пошла",
                 "пошло",
                 "пошли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пойди",
-                "пойдите"
               ]
             }
           ]
@@ -5044,8 +5054,12 @@
       ],
       "related": [
         {
-          "word": "приказный",
-          "gloss": "related to order (adj.)"
+          "word": "прикольно",
+          "gloss": "cool"
+        },
+        {
+          "word": "приключение",
+          "gloss": "adventure"
         }
       ]
     },
@@ -5059,7 +5073,7 @@
       "meanings": [
         {
           "en": "to order, to command",
-          "note": "кому-то + infinitive"
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'казать'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to order', forming an aspectual pair with 'приказывать'."
         }
       ],
       "forms": {
@@ -5111,23 +5125,6 @@
                 "приказала",
                 "приказало",
                 "приказали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "прикажи",
-                "прикажите"
               ]
             }
           ]
@@ -5284,7 +5281,7 @@
       "meanings": [
         {
           "en": "restaurant",
-          "note": "dining establishment"
+          "note": "Borrowed from French 'restaurant' (from 'restaurer', to restore strength with rich broth); entered Russian in the early 19th century."
         }
       ],
       "forms": {
@@ -5393,7 +5390,16 @@
         }
       ],
       "governs": "+ instrumental",
-      "related": []
+      "related": [
+        {
+          "word": "вместе",
+          "gloss": "together"
+        },
+        {
+          "word": "собрать",
+          "gloss": "to gather"
+        }
+      ]
     },
     "сам": {
       "lemma": "сам",
@@ -5403,7 +5409,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "сам, сама, само, сами"
+          "note": "High-frequency Russian pronoun ('oneself') whose case form reflects its grammatical role in the clause."
         }
       ],
       "forms": {
@@ -5487,7 +5493,16 @@
           "trans": "I'll have a good time on my own."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "себя",
+          "gloss": "oneself"
+        },
+        {
+          "word": "самый",
+          "gloss": "the very, most"
+        }
+      ]
     },
     "свой": {
       "lemma": "свой",
@@ -5581,7 +5596,16 @@
           "trans": "And what kind of mayor would I be if I kept my word?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "себя",
+          "gloss": "oneself"
+        },
+        {
+          "word": "сам",
+          "gloss": "oneself, personally"
+        }
+      ]
     },
     "сделать": {
       "lemma": "сделать",
@@ -5593,7 +5617,7 @@
       "meanings": [
         {
           "en": "to do, to make",
-          "note": "completed action"
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to do', forming an aspectual pair with 'делать'."
         }
       ],
       "forms": {
@@ -5708,7 +5732,7 @@
         },
         {
           "en": "in a moment",
-          "note": ""
+          "note": "Secondary conversational sense ('in a moment') used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -5747,7 +5771,7 @@
         },
         {
           "en": "piece of advice",
-          "note": ""
+          "note": "Secondary conversational sense ('piece of advice') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -5950,8 +5974,8 @@
           "note": "'что я за мэр такой' = what kind of mayor am I"
         },
         {
-          "en": "что такое? = what's this?",
-          "note": ""
+          "en": "? = what's this?",
+          "note": "Secondary conversational sense ('? = what's this?') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -6037,12 +6061,12 @@
       ],
       "related": [
         {
-          "word": "тако",
-          "gloss": "in a such way (adv.)"
+          "word": "так",
+          "gloss": "so, thus"
         },
         {
-          "word": "такость",
-          "gloss": "quality of being such"
+          "word": "уже",
+          "gloss": "already"
         }
       ]
     },
@@ -6055,7 +6079,7 @@
       "meanings": [
         {
           "en": "telephone, phone",
-          "note": "also a mobile phone"
+          "note": "International compound from Greek 'tele' (far) + 'phone' (voice, sound)."
         }
       ],
       "forms": {
@@ -6148,7 +6172,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "as opposed to before"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'now'."
         }
       ],
       "forms": null,
@@ -6182,7 +6206,7 @@
       "meanings": [
         {
           "en": "too, also",
-          "note": "Core Russian adv meaning 'too, also' in everyday speech."
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'too'."
         }
       ],
       "forms": null,
@@ -6203,8 +6227,12 @@
       ],
       "related": [
         {
-          "word": "очень тоже",
-          "gloss": "intensified / related adverb (too)"
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
         }
       ]
     },
@@ -6220,7 +6248,7 @@
         },
         {
           "en": "exactly, precisely",
-          "note": ""
+          "note": "Secondary conversational sense ('exactly, precisely') used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -6255,7 +6283,7 @@
       "meanings": [
         {
           "en": "toilet",
-          "note": "the room or the bowl"
+          "note": "Declinable masculine noun meaning 'toilet', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         }
       ],
       "forms": {
@@ -6327,8 +6355,12 @@
       ],
       "related": [
         {
-          "word": "туалетный",
-          "gloss": "related to toilet (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -6340,11 +6372,11 @@
       "meanings": [
         {
           "en": "you",
-          "note": "one person, informal"
+          "note": "High-frequency Russian pronoun ('you') whose case form reflects its grammatical role in the clause."
         },
         {
-          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -6409,12 +6441,12 @@
       ],
       "related": [
         {
-          "word": "тебя",
-          "gloss": "you (genitive/accusative)"
+          "word": "твой",
+          "gloss": "your, yours"
         },
         {
-          "word": "тебе",
-          "gloss": "to you (dative)"
+          "word": "вы",
+          "gloss": "you (polite/plural)"
         }
       ]
     },
@@ -6422,19 +6454,19 @@
       "lemma": "у",
       "stress": "у",
       "pos": "prep",
-      "gloss": "at, by; (у меня) I have",
+      "gloss": "at, by; I have",
       "meanings": [
         {
           "en": "at, by, near",
-          "note": "+ genitive"
+          "note": "Russian preposition meaning 'at' that governs a specific oblique case on the following noun phrase."
         },
         {
-          "en": "у меня есть = I have",
-          "note": "possession"
+          "en": "I have",
+          "note": "Secondary conversational sense ('I have') (possession) used in spoken Russian dialogue."
         },
         {
           "en": "from (ask from someone)",
-          "note": "просить у кого"
+          "note": "Secondary conversational sense ('from (ask from someone)') (просить у кого) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -6454,7 +6486,16 @@
         }
       ],
       "governs": "+ genitive",
-      "related": []
+      "related": [
+        {
+          "word": "рядом",
+          "gloss": "nearby, next to"
+        },
+        {
+          "word": "около",
+          "gloss": "near, around"
+        }
+      ]
     },
     "уже": {
       "lemma": "уже",
@@ -6485,8 +6526,8 @@
       ],
       "related": [
         {
-          "word": "очень уже",
-          "gloss": "intensified / related adverb (already)"
+          "word": "так",
+          "gloss": "so, thus"
         }
       ]
     },
@@ -6532,20 +6573,16 @@
       "meanings": [
         {
           "en": "well",
-          "note": "how something is done"
+          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'well'."
         },
         {
           "en": "good, fine",
-          "note": "as an answer"
+          "note": "Secondary conversational sense ('good, fine') (as an answer) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
-        {
-          "text": "Хорошо!",
-          "trans": "Good!"
-        },
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
@@ -6553,6 +6590,10 @@
         {
           "text": "Хорошо! Там всё нормально.",
           "trans": "Good! Everything's fine over there."
+        },
+        {
+          "text": "Хорошо, Виктор Петрович, я сейчас же всё переделаю заново!",
+          "trans": "All right, Viktor Petrovich, I will redo everything right now!"
         }
       ],
       "related": [
@@ -6578,7 +6619,7 @@
       "meanings": [
         {
           "en": "worse",
-          "note": "comparative of плохо / плохой"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'worse'."
         }
       ],
       "forms": null,
@@ -6621,7 +6662,7 @@
         },
         {
           "en": "people",
-          "note": "plural люди, a different word"
+          "note": "Secondary conversational sense ('people') (plural люди, a different word) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -6707,7 +6748,7 @@
       "meanings": [
         {
           "en": "boss, chief",
-          "note": "informal"
+          "note": "Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
         }
       ],
       "forms": {
@@ -6780,8 +6821,12 @@
       "animacy": "anim",
       "related": [
         {
-          "word": "шефный",
-          "gloss": "related to boss (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -6801,11 +6846,11 @@
         },
         {
           "en": "is",
-          "note": "linking word: главное — это народ"
+          "note": "Secondary conversational sense ('is') (linking word: главное — это народ) used in spoken Russian dialogue."
         },
         {
-          "en": "other forms: этого, этому, это, этим, этом",
-          "note": "case forms"
+          "en": "other forms:",
+          "note": "Secondary conversational sense ('other forms:') used in spoken Russian dialogue."
         }
       ],
       "forms": {

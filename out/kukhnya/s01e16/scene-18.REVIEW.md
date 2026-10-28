@@ -11,22 +11,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Инспектор | Можно посмотреть на ваши документы? | May I look at your documents? | #261 00:18:35: ваши документы? | adapted: adapted |
-| 2 | Аня | Я просто обычный гость ресторана. | I am just an ordinary guest of the restaurant. | new | new: new |
+| 2 | Луи | Я просто обычный гость ресторана. | I am just an ordinary guest of the restaurant. | new | new: new |
 | 3 | Инспектор | Нет, вы работаете здесь поваром. | No, you work here as a chef. | #261 00:18:35: Вы же повар в этом ресторане | adapted: adapted |
-| 4 | Аня | Почему вы вдруг так решили? | Why did you suddenly decide so? | new | new: new |
+| 4 | Луи | Почему вы вдруг так решили? | Why did you suddenly decide so? | new | new: new |
 | 5 | Инспектор | Вы очень внимательно смотрите на блюдо. | You are looking at the dish very carefully. | #262 00:18:38: только повар может так придирчиво рассматривать | adapted: adapted |
 | 6 | Инспектор | Вам эта еда совсем не нравится. | You do not like this food at all. | #263 00:18:43: ему оно не понравится | adapted: adapted |
 | 7 | Инспектор | Потому что готовил её другой повар. | Because another chef cooked it. | #264 00:18:46: готовил-то его кто-то другой | adapted: adapted |
-| 8 | Аня | Я просто люблю хорошую кухню. | I simply love good cuisine. | new | new: new |
+| 8 | Луи | Я просто люблю хорошую кухню. | I simply love good cuisine. | new | new: new |
 | 9 | Инспектор | Ещё вы постоянно трогаете свою голову. | Also you are constantly touching your head. | #265 00:18:48: Вы все время трогаете голову | adapted: adapted |
 | 10 | Инспектор | На работе вы всегда носите шапку. | At work you always wear a cap. | new | new: new |
 | 11 | Инспектор | И вы совсем не пьёте вино. | And you are not drinking the wine at all. | #266 00:18:52: Вы не прикоснулись вообще | adapted: adapted |
 | 12 | Инспектор | Потому что на работе нельзя пить. | Because at work one must not drink. | #267 00:18:56: потому что на работе пить | adapted: adapted |
-| 13 | Аня | Да, вы сказали чистую правду. | Yes, you told the pure truth. | new | new: new |
+| 13 | Луи | Да, вы сказали чистую правду. | Yes, you told the pure truth. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'May I look at your documents?' A formal request used by an official during an inspection.
 - 'No, you work here as a chef.' Russian uses the instrumental case for the profession after the verb to work.
 - 'Also you are constantly touching your head.' A sharp observation pointing out a physical habit.
-- 'Because at work one must not drink.' An explanation referencing workplace rules with an impersonal modal word.
+- 'Because at work one must not drink.' An explanation referencing workplace rules with an impersonal modal word. Now, let's listen to the inspector's deduction from start to finish.

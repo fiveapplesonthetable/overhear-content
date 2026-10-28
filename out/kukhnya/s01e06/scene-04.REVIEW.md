@@ -29,17 +29,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Tell me honestly, did this sheep die of old age?' Barinov questions the suspicious meat quality.
 - 'Why insult me?' Timur takes theatrical offense at the accusation.
-- 'This is a young and tasty lamb!' Praising the tender meat enthusiastically.
-- 'I already have enough sheep in the kitchen.' The chef jokes about his foolish cooks.
-- 'Wait, look at this excellent meat!' Offering an alternative cut from the back of the van.
-- 'I swear, this is the best fresh meat!' Vowing that the lamb is of the highest standard.
+- 'This is a young and tasty lamb!' Russian omits the present-tense verb 'to be' here, linking 'young' directly with 'tasty', combining 'young' with 'tasty' and 'lamb'.
+- 'I already have enough sheep in the kitchen.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'kitchen' with 'already' and 'is enough'.
+- 'Wait, look at this excellent meat!' Timur leads with the direct command form meaning 'wait', pairing it with 'look' and 'excellent'.
+- 'I swear, this is the best fresh meat!' Timur chooses the imperfective verb meaning 'I swear' for the ongoing action, followed by 'best' and 'fresh'.
 - 'Yes, this lamb is really good.' Barinov grudgingly acknowledges the genuine quality.
-- 'Fine, I will take this meat.' Agreeing to purchase the lamb for the restaurant.
+- 'Fine, I will take this meat.' Chef Barinov expresses this naturally by combining the word for 'fine' with 'take' and 'meat'.
 - 'Chef, my dear, do you need truffles?' The supplier pitches an exclusive underground luxury.
-- 'Are you offering me contraband again?' Calling out the illicit origin of the delicacy.
+- 'Are you offering me contraband again?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'again', pairing it with 'are offering' and 'contraband'.
 - 'Of course I do!' Barinov cannot resist premium French truffles.
-- 'How much are you selling them for?' Inquiring about the price.
-- 'For you as a friend, only six hundred euros per kilogram.' Quoting a supposedly friendly bargain rate.
-- 'Great, I will take these truffles!' Agreeing to the lucrative deal without hesitation.
+- 'How much are you selling them for?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'how much', followed by 'sell'.
+- 'For you as a friend, only six hundred euros per kilogram.' Russian omits the present-tense verb 'to be' here, linking 'as a friend' directly with 'only', combining 'as a friend' with 'only' and 'six hundred'.
+- 'Great, I will take these truffles!' Here Chef Barinov anchors the line on the word meaning 'great' and builds the thought around 'take' and 'truffles'.
 - 'Then the price has risen to seven hundred euros!' Timur audaciously hikes the price on the spot.
-- 'Timur, don't get cheeky and hand over the goods!' Shutting down the greedy supplier with a firm command.
+- 'Timur, don't get cheeky and hand over the goods!' Chef Barinov leads with the direct command form meaning 'get cheeky', pairing it with 'hand over' and 'goods'.

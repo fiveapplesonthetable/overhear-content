@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Мы подадим официальное заявление в загс? | Will we submit an official application to the registry office? | #276 00:19:32: подадим заявление | adapted: asking about registration |
+| 1 | Макс | Мы подадим официальное заявление в загс? | Will we submit an official application to the registry office? | #276 00:19:32: подадим заявление | adapted: asking about registration |
 | 2 | Вика | Таня, у тебя есть знакомые в загсе? | Tanya, do you have acquaintances at the registry office? | #277 00:19:35: Тань, у тебя есть кто-нибудь | adapted: asking for connections |
-| 3 | Аня | Пожалуйста, помоги нам расписаться как можно быстрее. | Please help us sign the register as fast as possible. | #278 00:19:37: побыстрее расписать | adapted: requesting urgent ceremony |
+| 3 | Макс | Пожалуйста, помоги нам расписаться как можно быстрее. | Please help us sign the register as fast as possible. | #278 00:19:37: побыстрее расписать | adapted: requesting urgent ceremony |
 | 4 | Вика | Давайте расскажем эту новость всем гостям ресторана! | Let's tell this news to all the guests of the restaurant! | #280 00:19:42: давайте скажем всем<br>#281 00:19:49: Обрадуем | adapted: suggesting public announcement |
-| 5 | Аня | Подожди, кажется, я немножко поторопился сейчас. | Wait, it seems I jumped the gun a little now. | #281 00:19:49: Подожди<br>#283 00:19:54: А я с предложением | adapted: realizing rush |
+| 5 | Макс | Подожди, кажется, я немножко поторопился сейчас. | Wait, it seems I jumped the gun a little now. | #281 00:19:49: Подожди<br>#283 00:19:54: А я с предложением | adapted: realizing rush |
 | 6 | Вика | Честно говоря, я тоже слишком поторопилась с ответом. | To be honest, I also rushed with the answer too much. | #282 00:19:52: немножко поторопилась с ответом | adapted: admitting rash answer |
-| 7 | Аня | Значит, нам обоим нужно хорошенько подумать. | So, both of us need to think carefully. | #283 00:19:54: Мы немножко подумаем | adapted: suggesting deliberation |
+| 7 | Макс | Значит, нам обоим нужно хорошенько подумать. | So, both of us need to think carefully. | #283 00:19:54: Мы немножко подумаем | adapted: suggesting deliberation |
 | 8 | Вика | Да, нам лучше немного подождать со свадьбой. | Yes, it is better for us to wait a little with the wedding. | #284 00:19:56: Да, мы подумаем | adapted: agreeing to delay |
-| 9 | Аня | Шеф, вы поможете нам спокойно разобраться? | Chef, will you help us sort this out calmly? | #285 00:19:58: разбирайтесь сами | adapted: asking Barinov for advice |
-| 10 | Аня | Шеф не хочет слушать наши семейные споры. | The chef doesn't want to listen to our family arguments. | #285 00:19:58: разбирайтесь сами | adapted: acknowledging Barinov's disinterest |
+| 9 | Макс | Шеф, вы поможете нам спокойно разобраться? | Chef, will you help us sort this out calmly? | #285 00:19:58: разбирайтесь сами | adapted: asking Barinov for advice |
+| 10 | Макс | Шеф не хочет слушать наши семейные споры. | The chef doesn't want to listen to our family arguments. | #285 00:19:58: разбирайтесь сами | adapted: acknowledging Barinov's disinterest |
 | 11 | Вика | У Виктора сейчас начинается важный футбольный матч. | Viktor has an important football match starting now. | #286 00:20:00: футбол начинается | adapted: noting football distraction |
-| 12 | Аня | Тогда мы сами во всём разберёмся позже. | Then we will sort everything out ourselves later. | #287 00:20:02: Идите, идите | adapted: agreeing to postpone |
+| 12 | Макс | Тогда мы сами во всём разберёмся позже. | Then we will sort everything out ourselves later. | #287 00:20:02: Идите, идите | adapted: agreeing to postpone |
 | 13 | Вика | Иди работай, свадьба пока точно подождёт! | Go work, the wedding will definitely wait for now! | #287 00:20:02: Идите, идите | adapted: calling off wedding for now |
 
 ## Walk-through narration (English only, no target-language words quoted)

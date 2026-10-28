@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good morning, Chef Viktor Petrovich!' Elena greets her culinary rival with a polite smile.
-- 'Good morning, Elena Pavlovna.' Barinov responds with guarded courtesy.
+- 'Good morning, Elena Pavlovna.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning'.
 - 'Why did you come to this market?' Elena inquires about his presence among the stalls.
-- 'I am choosing the best fresh vegetables.' Boasting about his high standards for produce.
+- 'I am choosing the best fresh vegetables.' Chef Barinov chooses the imperfective verb meaning 'am choosing' for the ongoing action, followed by 'the most' and 'best'.
 - 'And did you decide to make your husband borscht?' Viktor teases her about domestic cooking chores.
-- 'No, I am opening a new expensive restaurant.' Revealing her ambitious upcoming business venture.
-- 'I am preparing a new menu myself.' Emphasizing her personal creative investment in the kitchen.
-- 'Nobody will go to your restaurant!' Predicting instant commercial failure for his rival.
-- 'We will see whose kitchen is better!' Challenging Barinov to a culinary duel.
+- 'No, I am opening a new expensive restaurant.' Elena chooses the imperfective verb meaning 'am opening' for the ongoing action, followed by 'new' and 'expensive'.
+- 'I am preparing a new menu myself.' Elena chooses the imperfective verb meaning 'prepare' for the ongoing action, followed by 'new' and 'menu'.
+- 'Nobody will go to your restaurant!' Chef Barinov expresses this naturally by combining the word for 'restaurant' with 'will go'.
+- 'We will see whose kitchen is better!' Elena puts the word for 'yet' together with 'will see' and 'kitchen' in a crisp, natural spoken turn of phrase.
 - 'My restaurant will always be first!' Viktor proudly defends Claude Monet as the top restaurant.
-- 'Then try these beautiful apples.' Offering a fruit sample from the market vendor.
-- 'Oh, how sour these apples are!' Reacting with sudden shock to the tart fruit.
+- 'Then try these beautiful apples.' Elena leads with the direct command form meaning 'try', pairing it with 'then' and 'beautiful'.
+- 'Oh, how sour these apples are!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'sour', combining 'oh' with 'sour' and 'apples'.
 - 'One must know how to choose good fruit!' Barinov mocks her poor eye for quality produce.
-- 'Learn while I am a kind chef!' Giving playful advice to his defeated rival.
+- 'Learn while I am a kind chef!' Chef Barinov leads with the direct command form meaning 'learn', pairing it with 'while' and 'kind'.

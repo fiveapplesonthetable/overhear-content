@@ -11,29 +11,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Федя | Лёва, ну что такое? | Lyova, well what is this? | new | new: new |
-| 2 | Аня | Что ты хочешь сказать? | What do you want to say? | new | new: new |
+| 2 | Лёва | Что ты хочешь сказать? | What do you want to say? | new | new: new |
 | 3 | Федя | Что за цирк ты устроил? | What kind of circus did you stage? | new | new: new |
-| 4 | Аня | Я ничего не устраивал. | I did not stage anything. | new | new: new |
+| 4 | Лёва | Я ничего не устраивал. | I did not stage anything. | new | new: new |
 | 5 | Федя | Виктору Петровичу надо хорошо выспаться. | Viktor Petrovich needs to sleep well. | new | new: new |
-| 6 | Аня | Почему ему надо спать? | Why does he need to sleep? | new | new: new |
+| 6 | Лёва | Почему ему надо спать? | Why does he need to sleep? | new | new: new |
 | 7 | Федя | Ты же знаешь его ситуацию. | You know his situation. | new | new: new |
 | 8 | Федя | У него больное сердце. | He has a sick heart. | new | new: new |
-| 9 | Аня | У него больное сердце? | He has a sick heart? | new | new: new |
-| 10 | Аня | Это у меня больное сердце. | It is me who has a sick heart. | new | new: new |
+| 9 | Лёва | У него больное сердце? | He has a sick heart? | new | new: new |
+| 10 | Лёва | Это у меня больное сердце. | It is me who has a sick heart. | new | new: new |
 | 11 | Федя | Тебе надо успокоиться, Лёва. | You need to calm down, Lyova. | new | new: new |
-| 12 | Аня | Я не могу работать в таком стрессе. | I cannot work in such stress. | new | new: new |
+| 12 | Лёва | Я не могу работать в таком стрессе. | I cannot work in such stress. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, well what is this?' Notice the word order: 'Lyova' comes first, and 'on earth' finishes the sentence.
-- 'What do you want to say?' Lyova starts with 'what' and pairs it with 'you' to make the point clear. Then Fedya replies.
-- 'What kind of circus did you stage?' The key word here means 'what', which Fedya combines with 'circus'.
-- 'I did not stage anything.' Listen for the word meaning 'I' right alongside 'nothing' in this line.
-- 'Viktor Petrovich needs to sleep well.' The key word here means 'Viktor', which Fedya combines with 'Petrovich'. And Lyova jumps in.
-- 'Why does he need to sleep?' Lyova starts with 'why' and pairs it with 'him' to make the point clear.
-- 'You know his situation.' Fedya puts 'you' up front so the listener immediately catches the tone, followed by 'know'.
-- 'He has a sick heart.' A compact expression built around 'him' and 'heart'. Lyova answers straight away.
-- 'He has a sick heart?' Lyova puts 'him' up front so the listener immediately catches the tone, followed by 'sore'.
-- 'It is me who has a sick heart.' You'll hear 'this' all the time in the show, here connected with 'heart'.
-- 'You need to calm down, Lyova.' You'll hear 'for you' all the time in the show, here connected with 'Lyova'. Then Lyova replies.
+- 'Lyova, well what is this?' Russian omits the present-tense verb 'to be' here, linking 'Lyova' directly with 'oh', combining 'Lyova' with 'oh' and 'what'.
+- 'What do you want to say?' Lyova chooses the imperfective verb meaning 'do you want' for the ongoing action, followed by 'tell'.
+- 'What kind of circus did you stage?' The phrasing opens with 'circus' before bringing in 'caused' to make the point clear.
+- 'I did not stage anything.' The negative particle sits directly before the verb for 'to organize' to negate the action.
+- 'Viktor Petrovich needs to sleep well.' Fedya puts the word for 'it is necessary' together with 'good' and 'get enough sleep' in a crisp, natural spoken turn of phrase.
+- 'Why does he need to sleep?' Here Lyova anchors the line on the word meaning 'why' and builds the thought around 'it is necessary' and 'to sleep'.
+- 'You know his situation.' Fedya uses the informal singular 'you' here with 'the situation', as friends and close colleagues do.
+- 'He has a sick heart.' Russian omits the present-tense verb 'to be' here, linking 'sore' directly with 'heart', combining 'sore' with 'heart'.
+- 'He has a sick heart?' Lyova turns a statement into a question purely through rising intonation on the word meaning 'sore', followed by 'heart'.
+- 'It is me who has a sick heart.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'heart'.
+- 'You need to calm down, Lyova.' The phrasing opens with 'it is necessary' before bringing in 'to calm down' to make the point clear.
 - 'I cannot work in such stress.' The little negative word sits right in front of the verb for 'can', just like 'not' in English.

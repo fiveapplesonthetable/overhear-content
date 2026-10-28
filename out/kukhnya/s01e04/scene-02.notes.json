@@ -2171,24 +2171,61 @@
       "meanings": [
         {
           "en": "appetite",
-          "note": "= Enjoy your meal!"
+          "note": "Declinable masculine noun meaning 'appetite', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!"
+          "en": "!",
+          "note": "Secondary conversational sense ('!') (= Enjoy your meal!) used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "аппетит"
+              "nominative",
+              "аппетит",
+              "аппетиты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "аппетита",
+              "аппетитов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "аппетиту",
+              "аппетитам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "аппетит",
+              "аппетиты"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "аппетитом",
+              "аппетитами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "аппетите",
+              "аппетитах"
             ]
           }
         ]
@@ -2237,7 +2274,7 @@
         },
         {
           "en": "there is, there are",
-          "note": "present есть; у меня есть = I have"
+          "note": "Secondary conversational sense ('there is, there are') (present есть; у меня есть = I have) used in spoken Russian dialogue."
         },
         {
           "en": "will (with an imperfective infinitive)",
@@ -2245,52 +2282,37 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "быть"
+              "1st",
+              "буду",
+              "будем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "будешь",
+              "будете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "будет",
+              "будут"
             ]
           }
         ]
       },
       "moreForms": [
-        {
-          "title": "Future",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "буду",
-                "будем"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "будешь",
-                "будете"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "будет",
-                "будут"
-              ]
-            }
-          ]
-        },
         {
           "title": "Past",
           "columns": [
@@ -2308,23 +2330,6 @@
                 "была",
                 "было",
                 "были"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "будь",
-                "будьте"
               ]
             }
           ]
@@ -2367,11 +2372,11 @@
       "meanings": [
         {
           "en": "in",
-          "note": "+ prepositional (where)"
+          "note": "Russian preposition meaning 'in' that governs a specific oblique case on the following noun phrase."
         },
         {
           "en": "into, to",
-          "note": "+ accusative (where to)"
+          "note": "Secondary conversational sense ('into, to') (+ accusative (where to)) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2390,7 +2395,16 @@
           "trans": "Hello! How was it in Hungary?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "внутри",
+          "gloss": "inside"
+        },
+        {
+          "word": "входить",
+          "gloss": "to enter"
+        }
+      ]
     },
     "ваш": {
       "lemma": "ваш",
@@ -2400,7 +2414,7 @@
       "meanings": [
         {
           "en": "your, yours",
-          "note": "polite (вы) or plural"
+          "note": "Russian determiner/pronoun ('your') agreeing in gender, number, and case with the noun phrase it specifies."
         }
       ],
       "forms": {
@@ -2484,7 +2498,16 @@
           "trans": "Arkady Borisovich, who are your rivals?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "вы",
+          "gloss": "you"
+        },
+        {
+          "word": "свой",
+          "gloss": "one's own"
+        }
+      ]
     },
     "возле": {
       "lemma": "возле",
@@ -2494,7 +2517,7 @@
       "meanings": [
         {
           "en": "near, beside, right by",
-          "note": "+ genitive"
+          "note": "Russian preposition meaning 'near' that governs a specific oblique case on the following noun phrase."
         }
       ],
       "forms": null,
@@ -2513,7 +2536,16 @@
           "trans": "Near Anikeev's house two suspicious people were walking."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "вы": {
       "lemma": "вы",
@@ -2526,8 +2558,8 @@
           "note": "polite to one person, or to several people"
         },
         {
-          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2592,8 +2624,12 @@
       ],
       "related": [
         {
-          "word": "вас",
-          "gloss": "you (genitive/accusative)"
+          "word": "ваш",
+          "gloss": "your, yours"
+        },
+        {
+          "word": "ты",
+          "gloss": "you (singular)"
         }
       ]
     },
@@ -2610,16 +2646,53 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "газета"
+              "nominative",
+              "газета",
+              "газеты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "газеты",
+              "газет"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "газете",
+              "газетам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "газету",
+              "газеты"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "газетой",
+              "газетами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "газете",
+              "газетах"
             ]
           }
         ]
@@ -2637,8 +2710,12 @@
       ],
       "related": [
         {
-          "word": "газетный",
-          "gloss": "related to newspaper (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -2653,8 +2730,8 @@
           "note": "emphatic at the start of a sentence"
         },
         {
-          "en": "да ну? = really?, oh yeah?",
-          "note": "disbelief"
+          "en": "? = really?, oh yeah?",
+          "note": "Secondary conversational sense ('? = really?, oh yeah?') (disbelief) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2673,7 +2750,16 @@
           "trans": "Oh yeah? When?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "конечно",
+          "gloss": "of course"
+        },
+        {
+          "word": "правда",
+          "gloss": "truth, really"
+        }
+      ]
     },
     "даже": {
       "lemma": "даже",
@@ -2683,7 +2769,7 @@
       "meanings": [
         {
           "en": "even",
-          "note": "Core Russian part meaning 'even' in everyday speech."
+          "note": "Conversational Russian particle ('even') that adds modal nuance, emphasis, or discourse tone in spoken dialogue."
         }
       ],
       "forms": null,
@@ -2702,7 +2788,16 @@
           "trans": "Yes! Even a child knows."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "до": {
       "lemma": "до",
@@ -2712,11 +2807,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive"
+          "note": "Russian preposition meaning 'until' that governs a specific oblique case on the following noun phrase."
         },
         {
-          "en": "до свидания = goodbye",
-          "note": ""
+          "en": "goodbye",
+          "note": "Secondary conversational sense ('goodbye') used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2735,7 +2830,16 @@
           "trans": "See you tonight!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach"
+        },
+        {
+          "word": "домой",
+          "gloss": "homeward"
+        }
+      ]
     },
     "достойный": {
       "lemma": "достойный",
@@ -2749,16 +2853,67 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "достойный"
+              "nominative",
+              "достойный",
+              "достойная",
+              "достойное",
+              "достойные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "достойного",
+              "достойной",
+              "достойного",
+              "достойных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "достойному",
+              "достойной",
+              "достойному",
+              "достойным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "достойный",
+              "достойную",
+              "достойное",
+              "достойные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "достойным",
+              "достойной",
+              "достойным",
+              "достойными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "достойном",
+              "достойной",
+              "достойном",
+              "достойных"
             ]
           }
         ]
@@ -2816,7 +2971,16 @@
           "trans": "Take her if you want."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "когда",
+          "gloss": "when"
+        },
+        {
+          "word": "тогда",
+          "gloss": "then"
+        }
+      ]
     },
     "желать": {
       "lemma": "желать",
@@ -2832,16 +2996,32 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "желать"
+              "1st",
+              "желаю",
+              "желаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "желаешь",
+              "желаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "желает",
+              "желают"
             ]
           }
         ]
@@ -2864,23 +3044,6 @@
                 "желала",
                 "желало",
                 "желали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "желай",
-                "желайте"
               ]
             }
           ]
@@ -2915,7 +3078,7 @@
       "meanings": [
         {
           "en": "in advance, beforehand, ahead of time",
-          "note": "temporal adverb"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'in advance'."
         }
       ],
       "forms": null,
@@ -2936,8 +3099,12 @@
       ],
       "related": [
         {
-          "word": "очень заранее",
-          "gloss": "intensified / related adverb (in advance)"
+          "word": "заработать",
+          "gloss": "to start working"
+        },
+        {
+          "word": "зараза",
+          "gloss": "infection"
         }
       ]
     },
@@ -3010,7 +3177,16 @@
           "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "тоже",
+          "gloss": "also, too"
+        },
+        {
+          "word": "вместе",
+          "gloss": "together"
+        }
+      ]
     },
     "из": {
       "lemma": "из",
@@ -3040,7 +3216,16 @@
         }
       ],
       "governs": "+ genitive",
-      "related": []
+      "related": [
+        {
+          "word": "выход",
+          "gloss": "exit"
+        },
+        {
+          "word": "выходить",
+          "gloss": "to go out"
+        }
+      ]
     },
     "искать": {
       "lemma": "искать",
@@ -3056,16 +3241,32 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "искать"
+              "1st",
+              "ищу",
+              "ищем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ищешь",
+              "ищете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ищет",
+              "ищут"
             ]
           }
         ]
@@ -3088,23 +3289,6 @@
                 "искала",
                 "искало",
                 "искали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "ищи",
-                "ищите"
               ]
             }
           ]
@@ -3139,7 +3323,7 @@
       "meanings": [
         {
           "en": "to (a person), towards",
-          "note": "+ dative"
+          "note": "Russian preposition meaning 'to' that governs a specific oblique case on the following noun phrase."
         }
       ],
       "forms": null,
@@ -3158,7 +3342,16 @@
           "trans": "Arkady Borisovich, I'm sorry, there's a man here to see you."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "навстречу",
+          "gloss": "toward"
+        },
+        {
+          "word": "подойти",
+          "gloss": "to approach"
+        }
+      ]
     },
     "какой": {
       "lemma": "какой",
@@ -3168,7 +3361,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "in questions"
+          "note": "Russian determiner/pronoun ('what') agreeing in gender, number, and case with the noun phrase it specifies."
         },
         {
           "en": "what a, how",
@@ -3276,20 +3469,57 @@
       "meanings": [
         {
           "en": "candidate",
-          "note": "in an election or for a job"
+          "note": "From Latin 'candidatus' ('clothed in white toga', worn by office-seekers in ancient Rome)."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "кандидат"
+              "nominative",
+              "кандидат",
+              "кандидаты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "кандидата",
+              "кандидатов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "кандидату",
+              "кандидатам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "кандидат",
+              "кандидаты"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "кандидатом",
+              "кандидатами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "кандидате",
+              "кандидатах"
             ]
           }
         ]
@@ -3337,16 +3567,53 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "колпак"
+              "nominative",
+              "колпак",
+              "колпаки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "колпака",
+              "колпаков"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "колпаку",
+              "колпакам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "колпак",
+              "колпаки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "колпаком",
+              "колпаками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "колпаке",
+              "колпаках"
             ]
           }
         ]
@@ -3368,8 +3635,12 @@
       ],
       "related": [
         {
-          "word": "колпакный",
-          "gloss": "related to chef's hat (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -3385,21 +3656,58 @@
           "note": "the 'е' drops out in the other forms"
         },
         {
-          "en": "'Конец связи' = over and out",
-          "note": "radio and phone phrase"
+          "en": "' ' = over and out",
+          "note": "Secondary conversational sense ('' ' = over and out') (radio and phone phrase) used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "конец"
+              "nominative",
+              "конец",
+              "концы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "конца",
+              "концов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "концу",
+              "концам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "конец",
+              "концы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "концом",
+              "концами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "конце",
+              "концах"
             ]
           }
         ]
@@ -3442,7 +3750,7 @@
       "meanings": [
         {
           "en": "someone, somebody",
-          "note": "Core Russian pron meaning 'someone, somebody' in everyday speech."
+          "note": "High-frequency Russian pronoun ('someone') whose case form reflects its grammatical role in the clause."
         }
       ],
       "forms": null,
@@ -3500,7 +3808,7 @@
       "meanings": [
         {
           "en": "better",
-          "note": "comparative of хорошо"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'better'."
         }
       ],
       "forms": null,
@@ -3539,20 +3847,57 @@
         },
         {
           "en": "post, position",
-          "note": "на его место = in his place"
+          "note": "Secondary conversational sense ('post, position') (на его место = in his place) used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "место"
+              "nominative",
+              "место",
+              "места"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "места",
+              "мест"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "месту",
+              "местам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "место",
+              "места"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "местом",
+              "местами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "месте",
+              "местах"
             ]
           }
         ]
@@ -3596,57 +3941,62 @@
       "meanings": [
         {
           "en": "metro, subway, underground",
-          "note": "indeclinable"
+          "note": "Declinable neuter noun meaning 'metro', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         }
       ],
       "forms": {
-        "title": "singular",
+        "title": "Declension",
         "columns": [
-          "Nom",
-          "Gen",
-          "Dat",
-          "Acc",
-          "Inst",
-          "Prep"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
+              "nominative",
               "метро",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
               "метро",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
               "метро",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
               "метро",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
               "метро",
-              "метро"
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "метро",
+              "—"
             ]
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "plural",
-          "columns": [
-            "Nom",
-            "Gen",
-            "Dat",
-            "Acc",
-            "Inst",
-            "Prep"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "метро",
-                "метро",
-                "метро",
-                "метро",
-                "метро",
-                "метро"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Станция метро находится рядом.",
@@ -3676,7 +4026,7 @@
       "meanings": [
         {
           "en": "maybe, perhaps",
-          "note": "short for может быть"
+          "note": "Conversational Russian particle ('maybe') that adds modal nuance, emphasis, or discourse tone in spoken dialogue."
         }
       ],
       "forms": null,
@@ -3714,7 +4064,7 @@
       "meanings": [
         {
           "en": "my, mine",
-          "note": "agrees with the thing owned"
+          "note": "Russian determiner/pronoun ('my') agreeing in gender, number, and case with the noun phrase it specifies."
         }
       ],
       "forms": {
@@ -3798,7 +4148,16 @@
           "trans": "No. That's mine."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "я",
+          "gloss": "I"
+        },
+        {
+          "word": "свой",
+          "gloss": "one's own"
+        }
+      ]
     },
     "мы": {
       "lemma": "мы",
@@ -3811,8 +4170,8 @@
           "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
-          "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -3877,8 +4236,12 @@
       ],
       "related": [
         {
-          "word": "нас",
-          "gloss": "us (genitive/accusative/prepositional)"
+          "word": "наш",
+          "gloss": "our, ours"
+        },
+        {
+          "word": "все",
+          "gloss": "everyone, all"
         }
       ]
     },
@@ -3896,20 +4259,36 @@
         },
         {
           "en": "to dial (a phone number); to recruit",
-          "note": ""
+          "note": "Secondary conversational sense ('to dial (a phone number); to recruit') used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "набирать"
+              "1st",
+              "набираю",
+              "набираем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "набираешь",
+              "набираете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "набирает",
+              "набирают"
             ]
           }
         ]
@@ -3932,23 +4311,6 @@
                 "набирала",
                 "набирало",
                 "набирали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "набирай",
-                "набирайте"
               ]
             }
           ]
@@ -4010,7 +4372,16 @@
           "trans": "Chef, I didn't take it."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "нет",
+          "gloss": "no"
+        },
+        {
+          "word": "никогда",
+          "gloss": "never"
+        }
+      ]
     },
     "некоторый": {
       "lemma": "некоторый",
@@ -4020,20 +4391,71 @@
       "meanings": [
         {
           "en": "some, certain individuals",
-          "note": "indefinite pronominal adjective"
+          "note": "Descriptive Russian adjective meaning 'some', agreeing in gender, number, and case with the noun it modifies."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "некоторый"
+              "nominative",
+              "некоторый",
+              "некоторая",
+              "некоторое",
+              "некоторые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "некоторого",
+              "некоторой",
+              "некоторого",
+              "некоторых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "некоторому",
+              "некоторой",
+              "некоторому",
+              "некоторым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "некоторый",
+              "некоторую",
+              "некоторое",
+              "некоторые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "некоторым",
+              "некоторой",
+              "некоторым",
+              "некоторыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "некотором",
+              "некоторой",
+              "некотором",
+              "некоторых"
             ]
           }
         ]
@@ -4073,16 +4495,53 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "необходимость"
+              "nominative",
+              "необходимость",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "необходимости",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "необходимости",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "необходимость",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "необходимостью",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "необходимости",
+              "—"
             ]
           }
         ]
@@ -4117,7 +4576,7 @@
         },
         {
           "en": "there isn't",
-          "note": "+ genitive"
+          "note": "Secondary conversational sense ('there isn't') (+ genitive) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -4136,7 +4595,16 @@
           "trans": "No. That's mine."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "не",
+          "gloss": "not"
+        },
+        {
+          "word": "нельзя",
+          "gloss": "impossible, must not"
+        }
+      ]
     },
     "неужели": {
       "lemma": "неужели",
@@ -4146,7 +4614,7 @@
       "meanings": [
         {
           "en": "really?, can it be?",
-          "note": "expresses surprise or doubt"
+          "note": "Conversational Russian particle ('really?') that adds modal nuance, emphasis, or discourse tone in spoken dialogue."
         }
       ],
       "forms": null,
@@ -4165,7 +4633,16 @@
           "trans": "Do you really not care at all?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "никакой": {
       "lemma": "никакой",
@@ -4175,7 +4652,7 @@
       "meanings": [
         {
           "en": "no ... at all, not any",
-          "note": "with не / нет"
+          "note": "Russian determiner/pronoun ('no ... at all') agreeing in gender, number, and case with the noun phrase it specifies."
         }
       ],
       "forms": {
@@ -4278,24 +4755,75 @@
       "meanings": [
         {
           "en": "normal, ordinary",
-          "note": "colloquial"
+          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'normal' and agreeing in gender, number, and case."
         },
         {
           "en": "decent, OK",
-          "note": "colloquial"
+          "note": "Secondary conversational sense ('decent, OK') (colloquial) used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "нормальный"
+              "nominative",
+              "нормальный",
+              "нормальная",
+              "нормальное",
+              "нормальные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нормального",
+              "нормальной",
+              "нормального",
+              "нормальных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нормальному",
+              "нормальной",
+              "нормальному",
+              "нормальным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нормальный",
+              "нормальную",
+              "нормальное",
+              "нормальные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нормальным",
+              "нормальной",
+              "нормальным",
+              "нормальными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нормальном",
+              "нормальной",
+              "нормальном",
+              "нормальных"
             ]
           }
         ]
@@ -4331,20 +4859,57 @@
       "meanings": [
         {
           "en": "advertisement, classified ad, notice",
-          "note": "по объявлению = through an ad"
+          "note": "Verbal action or result neuter noun formed with '-ение'/'-ание', meaning 'advertisement' in conversational and formal Russian."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "объявление"
+              "nominative",
+              "объявление",
+              "объявления"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "объявления",
+              "объявлений"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "объявлению",
+              "объявлениям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "объявление",
+              "объявления"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "объявлением",
+              "объявлениями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "объявлении",
+              "объявлениях"
             ]
           }
         ]
@@ -4383,16 +4948,67 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "отличный"
+              "nominative",
+              "отличный",
+              "отличная",
+              "отличное",
+              "отличные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "отличного",
+              "отличной",
+              "отличного",
+              "отличных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "отличному",
+              "отличной",
+              "отличному",
+              "отличным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "отличный",
+              "отличную",
+              "отличное",
+              "отличные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "отличным",
+              "отличной",
+              "отличным",
+              "отличными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "отличном",
+              "отличной",
+              "отличном",
+              "отличных"
             ]
           }
         ]
@@ -4435,11 +5051,11 @@
       "meanings": [
         {
           "en": "very",
-          "note": "with verbs: очень люблю"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'very'."
         },
         {
           "en": "very much",
-          "note": "with verbs: очень люблю"
+          "note": "Secondary conversational sense ('very much') (with verbs: очень люблю) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -4460,8 +5076,12 @@
       ],
       "related": [
         {
-          "word": "совсем",
-          "gloss": "intensified / related adverb (very)"
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
         }
       ]
     },
@@ -4473,15 +5093,15 @@
       "meanings": [
         {
           "en": "about, concerning",
-          "note": "in 'по поводу' + genitive"
+          "note": "Russian preposition meaning 'along' that governs a specific oblique case on the following noun phrase."
         },
         {
           "en": "along, around",
-          "note": "+ dative"
+          "note": "Secondary conversational sense ('along, around') (+ dative) used in spoken Russian dialogue."
         },
         {
           "en": "by (phone)",
-          "note": "'по телефону'"
+          "note": "Secondary conversational sense ('by (phone)') ('по телефону') used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -4501,7 +5121,16 @@
         }
       ],
       "governs": "+ dative",
-      "related": []
+      "related": [
+        {
+          "word": "пойти",
+          "gloss": "to set off"
+        },
+        {
+          "word": "дорога",
+          "gloss": "road, way"
+        }
+      ]
     },
     "повар": {
       "lemma": "повар",
@@ -4512,20 +5141,57 @@
       "meanings": [
         {
           "en": "cook, chef",
-          "note": "irregular plural повара"
+          "note": "Declinable masculine noun meaning 'cook', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "повар"
+              "nominative",
+              "повар",
+              "повара"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "повара",
+              "поваров"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "повару",
+              "поварам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "повара",
+              "поваров"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "поваром",
+              "поварами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "поваре",
+              "поварах"
             ]
           }
         ]
@@ -4547,8 +5213,12 @@
       ],
       "related": [
         {
-          "word": "поварный",
-          "gloss": "related to cook (adj.)"
+          "word": "готовить",
+          "gloss": "to cook"
+        },
+        {
+          "word": "кухня",
+          "gloss": "kitchen"
         }
       ]
     },
@@ -4562,24 +5232,40 @@
       "meanings": [
         {
           "en": "to put, to stand (something upright)",
-          "note": "поставить защёлку = fit a latch"
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'ставить'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to put', forming an aspectual pair with 'ставить'."
         },
         {
           "en": "to install",
-          "note": ""
+          "note": "Secondary conversational sense ('to install') used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Future",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "поставить"
+              "1st",
+              "поставлю",
+              "поставим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "поставишь",
+              "поставите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "поставит",
+              "поставят"
             ]
           }
         ]
@@ -4602,23 +5288,6 @@
                 "поставила",
                 "поставило",
                 "поставили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "поставь",
-                "поставьте"
               ]
             }
           ]
@@ -4665,16 +5334,67 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "преданный"
+              "nominative",
+              "преданный",
+              "преданная",
+              "преданное",
+              "преданные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "преданного",
+              "преданной",
+              "преданного",
+              "преданных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "преданному",
+              "преданной",
+              "преданному",
+              "преданным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "преданный",
+              "преданную",
+              "преданное",
+              "преданные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "преданным",
+              "преданной",
+              "преданным",
+              "преданными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "преданном",
+              "преданной",
+              "преданном",
+              "преданных"
             ]
           }
         ]
@@ -4696,12 +5416,12 @@
       ],
       "related": [
         {
-          "word": "преданно",
-          "gloss": "in a devoted way (adv.)"
+          "word": "очень",
+          "gloss": "very"
         },
         {
-          "word": "преданность",
-          "gloss": "quality of being devoted"
+          "word": "такой",
+          "gloss": "such"
         }
       ]
     },
@@ -4715,20 +5435,36 @@
       "meanings": [
         {
           "en": "to come, to arrive",
-          "note": "on foot, once"
+          "note": "Russian perfective verb focusing on a single completed action or result meaning 'to come', forming an aspectual pair with 'приходить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Future",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "прийти"
+              "1st",
+              "приду",
+              "придём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "придёшь",
+              "придёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "придёт",
+              "придут"
             ]
           }
         ]
@@ -4751,23 +5487,6 @@
                 "пришла",
                 "пришло",
                 "пришли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "приди",
-                "придите"
               ]
             }
           ]
@@ -4802,51 +5521,80 @@
       "meanings": [
         {
           "en": "pleasant, nice",
-          "note": "= Enjoy your meal!"
+          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'pleasant' and agreeing in gender, number, and case."
         },
         {
-          "en": "Приятного аппетита!",
-          "note": "= Enjoy your meal!"
+          "en": "!",
+          "note": "Secondary conversational sense ('!') (= Enjoy your meal!) used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "приятный"
+              "nominative",
+              "приятный",
+              "приятная",
+              "приятное",
+              "приятные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "приятного",
+              "приятной",
+              "приятного",
+              "приятных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "приятному",
+              "приятной",
+              "приятному",
+              "приятным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "приятный",
+              "приятную",
+              "приятное",
+              "приятные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "приятным",
+              "приятной",
+              "приятным",
+              "приятными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "приятном",
+              "приятной",
+              "приятном",
+              "приятных"
             ]
           }
         ]
       },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "приятен",
-                "приятна",
-                "приятно",
-                "приятны"
-              ]
-            }
-          ]
-        }
-      ],
+      "moreForms": [],
       "examples": [
         {
           "text": "Приятного аппетита!",
@@ -4863,12 +5611,12 @@
       ],
       "related": [
         {
-          "word": "приятно",
-          "gloss": "in a pleasant way (adv.)"
+          "word": "неприятный",
+          "gloss": "unpleasant"
         },
         {
-          "word": "приятность",
-          "gloss": "quality of being pleasant"
+          "word": "приятно",
+          "gloss": "pleasant"
         }
       ]
     },
@@ -4885,16 +5633,53 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "профессионал"
+              "nominative",
+              "профессионал",
+              "профессионалы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "профессионала",
+              "профессионалов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "профессионалу",
+              "профессионалам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "профессионал",
+              "профессионалы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "профессионалом",
+              "профессионалами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "профессионале",
+              "профессионалах"
             ]
           }
         ]
@@ -4934,24 +5719,61 @@
       "meanings": [
         {
           "en": "work",
-          "note": "'на работе' = at work"
+          "note": "Declinable feminine noun meaning 'work', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         },
         {
           "en": "job",
-          "note": ""
+          "note": "Secondary conversational sense ('job') used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "работа"
+              "nominative",
+              "работа",
+              "работы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "работы",
+              "работ"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "работе",
+              "работам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "работу",
+              "работы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "работой",
+              "работами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "работе",
+              "работах"
             ]
           }
         ]
@@ -5000,16 +5822,32 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "работать"
+              "1st",
+              "работаю",
+              "работаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "работаешь",
+              "работаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "работает",
+              "работают"
             ]
           }
         ]
@@ -5032,23 +5870,6 @@
                 "работала",
                 "работало",
                 "работали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "работай",
-                "работайте"
               ]
             }
           ]
@@ -5088,25 +5909,41 @@
       "lemma": "расширяться",
       "stress": "расширя́ться",
       "pos": "verb",
-      "aspect": "imperfective",
+      "aspect": "impf",
       "gloss": "to expand",
       "meanings": [
         {
           "en": "to expand",
-          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'ширяться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an verbal verb meaning 'to expand'."
+          "note": "Prefix 'рас-' ('apart, un-, thoroughly') indicates distribution or intensive action (stem 'ширяться'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to expand'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "расширяться"
+              "1st",
+              "расширяюсь",
+              "расширяемся"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "расширяешься",
+              "расширяетесь"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "расширяется",
+              "расширяются"
             ]
           }
         ]
@@ -5116,30 +5953,18 @@
           "title": "Past",
           "columns": [
             "",
-            ""
+            "m",
+            "f",
+            "n",
+            "pl"
           ],
           "rows": [
             {
               "cells": [
-                "masculine",
-                "расширялся"
-              ]
-            },
-            {
-              "cells": [
-                "feminine",
-                "расширялась"
-              ]
-            },
-            {
-              "cells": [
-                "neuter",
-                "расширялось"
-              ]
-            },
-            {
-              "cells": [
-                "plural",
+                "past",
+                "расширялся",
+                "расширялась",
+                "расширялось",
                 "расширялись"
               ]
             }
@@ -5158,8 +5983,12 @@
       ],
       "related": [
         {
-          "word": "срасширяться",
-          "gloss": "aspect/prefix relative (to expand)"
+          "word": "делать",
+          "gloss": "to do, make"
+        },
+        {
+          "word": "время",
+          "gloss": "time"
         }
       ]
     },
@@ -5172,20 +6001,57 @@
       "meanings": [
         {
           "en": "restaurant",
-          "note": "dining establishment"
+          "note": "Borrowed from French 'restaurant' (from 'restaurer', to restore strength with rich broth); entered Russian in the early 19th century."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "ресторан"
+              "nominative",
+              "ресторан",
+              "рестораны"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ресторана",
+              "ресторанов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ресторану",
+              "ресторанам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ресторан",
+              "рестораны"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "рестораном",
+              "ресторанами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ресторане",
+              "ресторанах"
             ]
           }
         ]
@@ -5226,20 +6092,36 @@
       "meanings": [
         {
           "en": "to eat, to eat up",
-          "note": "a whole portion; completed action"
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ъесть'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to eat', forming an aspectual pair with 'есть'."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Future",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "съесть"
+              "1st",
+              "съем",
+              "съедим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "съешь",
+              "съедите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "съест",
+              "съедят"
             ]
           }
         ]
@@ -5262,23 +6144,6 @@
                 "съела",
                 "съело",
                 "съели"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "съешь",
-                "съешьте"
               ]
             }
           ]
@@ -5318,16 +6183,53 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "табличка"
+              "nominative",
+              "табличка",
+              "таблички"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "таблички",
+              "табличк"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "табличке",
+              "табличкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "табличку",
+              "таблички"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "табличкой",
+              "табличками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "табличке",
+              "табличках"
             ]
           }
         ]
@@ -5362,11 +6264,11 @@
       "meanings": [
         {
           "en": "then, back then",
-          "note": "at that time"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'then'."
         },
         {
           "en": "then, in that case",
-          "note": ""
+          "note": "Secondary conversational sense ('then, in that case') used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -5387,8 +6289,12 @@
       ],
       "related": [
         {
-          "word": "очень тогда",
-          "gloss": "intensified / related adverb (then)"
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
         }
       ]
     },
@@ -5421,8 +6327,8 @@
       ],
       "related": [
         {
-          "word": "очень уже",
-          "gloss": "intensified / related adverb (already)"
+          "word": "так",
+          "gloss": "so, thus"
         }
       ]
     },
@@ -5440,16 +6346,32 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Future",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "уйти"
+              "1st",
+              "уйду",
+              "уйдём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "уйдёшь",
+              "уйдёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "уйдёт",
+              "уйдут"
             ]
           }
         ]
@@ -5472,23 +6394,6 @@
                 "ушла",
                 "ушло",
                 "ушли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "уйди",
-                "уйдите"
               ]
             }
           ]
@@ -5525,20 +6430,36 @@
       "meanings": [
         {
           "en": "to leave, to go away (on foot)",
-          "note": "Уходи! = Go away!"
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'ходить'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to leave', forming an aspectual pair with 'уйти'."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Present",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "уходить"
+              "1st",
+              "ухожу",
+              "уходим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "уходишь",
+              "уходите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "уходит",
+              "уходят"
             ]
           }
         ]
@@ -5564,30 +6485,9 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "уходи",
-                "уходите"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
-        {
-          "text": "Уходи!",
-          "trans": "Go away!"
-        },
         {
           "text": "Я ухожу домой.",
           "trans": "I'm going home."
@@ -5595,6 +6495,10 @@
         {
           "text": "Помешал. Уходи.",
           "trans": "You are. Go away."
+        },
+        {
+          "text": "Уходи отсюда скорее, пока шеф не увидел тебя без формы!",
+          "trans": "Get out of here quickly before the chef sees you without a uniform!"
         }
       ],
       "related": [
@@ -5624,16 +6528,67 @@
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "хороший"
+              "nominative",
+              "хороший",
+              "хорошая",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хорошего",
+              "хорошей",
+              "хорошего",
+              "хороших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хорошему",
+              "хорошей",
+              "хорошему",
+              "хорошим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хороший",
+              "хорошую",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хорошим",
+              "хорошей",
+              "хорошим",
+              "хорошими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хорошем",
+              "хорошей",
+              "хорошем",
+              "хороших"
             ]
           }
         ]
@@ -5681,20 +6636,57 @@
         },
         {
           "en": "people",
-          "note": "plural люди, a different word"
+          "note": "Secondary conversational sense ('people') (plural люди, a different word) used in spoken Russian dialogue."
         }
       ],
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "человек"
+              "nominative",
+              "человек",
+              "люди"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "человека",
+              "людей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "человеку",
+              "людям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "человека",
+              "людей"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "человеком",
+              "людьми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "человеке",
+              "людях"
             ]
           }
         ]
@@ -5737,11 +6729,11 @@
         },
         {
           "en": "is",
-          "note": "linking word: главное — это народ"
+          "note": "Secondary conversational sense ('is') (linking word: главное — это народ) used in spoken Russian dialogue."
         },
         {
-          "en": "other forms: этого, этому, это, этим, этом",
-          "note": "case forms"
+          "en": "other forms:",
+          "note": "Secondary conversational sense ('other forms:') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -5921,8 +6913,8 @@
           "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
-          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -5987,12 +6979,12 @@
       ],
       "related": [
         {
-          "word": "меня",
-          "gloss": "me (genitive/accusative)"
+          "word": "мой",
+          "gloss": "my, mine"
         },
         {
-          "word": "мне",
-          "gloss": "to me (dative)"
+          "word": "мы",
+          "gloss": "we"
         }
       ]
     }

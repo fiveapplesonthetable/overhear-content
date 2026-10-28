@@ -20,13 +20,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Вика | Конечно, одну минуту. | Of course, one minute. | new | new: new |
 | 9 | Гость | Официанты тут вообще работают? | Do waiters even work here? | new | new: new |
 | 10 | Гость | Уважаемые. | Excuse me. | #281 00:18:34: Уважаемые | adapted: adapted |
-| 11 | Аня | Что вам угодно? | What would you like? | new | new: new |
+| 11 | Макс | Что вам угодно? | What would you like? | new | new: new |
 | 12 | Гость | Я хочу поговорить с поваром. | I want to speak with the chef. | new | new: new |
-| 13 | Аня | Я передам вашу просьбу. | I will pass on your request. | new | new: new |
+| 13 | Макс | Я передам вашу просьбу. | I will pass on your request. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a problem with our order.' The key word here means 'us', which the guest combines with 'problem'.
-- 'I asked for no onions.' Notice the word order: 'I' comes first, and 'onion' finishes the sentence.
-- 'Excuse me.' the guest starts with 'respected' and pairs it with 'respected' to make the point clear.
-- 'I want to speak with the chef.' the guest puts 'I' up front so the listener immediately catches the tone, followed by 'want'.
+- 'We have a problem with our order.' the guest uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'problem' and 'order'.
+- 'I asked for no onions.' the guest chooses the imperfective verb meaning 'ask for' for the ongoing action, followed by 'onion'.
+- 'Excuse me.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'respected'.
+- 'I want to speak with the chef.' the guest chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'to talk' and 'as a cook'.

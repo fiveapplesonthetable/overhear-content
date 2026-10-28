@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Костя, привет. Почему ты сердишься? | Kostya, hi. Why are you angry? | new | new: new |
+| 1 | Макс | Костя, привет. Почему ты сердишься? | Kostya, hi. Why are you angry? | new | new: new |
 | 2 | Костя | Отвали, или я сломаю тебе нос! | Back off, or I will break your nose! | #6 00:00:40: Отвали, или я тебе нос сломаю | adapted: adapted |
-| 3 | Аня | За что? Что я тебе сделал? | What for? What did I do to you? | #7 00:00:43: За что | adapted: adapted |
+| 3 | Макс | За что? Что я тебе сделал? | What for? What did I do to you? | #7 00:00:43: За что | adapted: adapted |
 | 4 | Костя | Ты вчера целовался с моей девушкой! | Yesterday you kissed my girl! | #7 00:00:43: ты целовался с моей девушкой | adapted: adapted |
-| 5 | Аня | Это было совершенно случайное недоразумение. | It was a completely accidental misunderstanding. | #11 00:00:56: это вообще недоразумение было | adapted: adapted |
+| 5 | Макс | Это было совершенно случайное недоразумение. | It was a completely accidental misunderstanding. | #11 00:00:56: это вообще недоразумение было | adapted: adapted |
 | 6 | Костя | Вы целовались прямо в ресторане! | You were kissing right in the restaurant! | new | new: new |
-| 7 | Аня | Я вчера весь день хотел спать. | I wanted to sleep all day yesterday. | #12 00:00:59: Я вчера весь день<br>#12 00:00:59: спать хотел | adapted: adapted |
-| 8 | Аня | Кстати, технически она пока не твоя. | By the way, technically she is not yours yet. | #13 00:01:02: Кстати, технически она пока не твоя | adapted: adapted |
+| 7 | Макс | Я вчера весь день хотел спать. | I wanted to sleep all day yesterday. | #12 00:00:59: Я вчера весь день<br>#12 00:00:59: спать хотел | adapted: adapted |
+| 8 | Макс | Кстати, технически она пока не твоя. | By the way, technically she is not yours yet. | #13 00:01:02: Кстати, технически она пока не твоя | adapted: adapted |
 | 9 | Костя | Для меня это не имеет значения. | For me that does not matter. | new | new: new |
-| 10 | Аня | Между мной и Настей ничего нет! | There is nothing between me and Nastya! | #15 00:01:09: между нами ничего нет | adapted: adapted |
+| 10 | Макс | Между мной и Настей ничего нет! | There is nothing between me and Nastya! | #15 00:01:09: между нами ничего нет | adapted: adapted |
 | 11 | Костя | Ты предал нашу дружбу, Макс. | You betrayed our friendship, Max. | new | new: new |
-| 12 | Аня | Я докажу, что она мне безразлична. | I will prove that she means nothing to me. | new | new: new |
+| 12 | Макс | Я докажу, что она мне безразлична. | I will prove that she means nothing to me. | new | new: new |
 | 13 | Костя | Посмотрим, как ты это докажешь. | We will see how you prove it. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -14,8 +14,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Шеф | Что ты улыбаешься? | What are you smiling at? | #33 00:01:58: Что ты улыбаешься? | adapted: adapted |
 | 3 | Шеф | Давай, отвечай. | Come on, answer. | #33 00:01:58: Давай, отвечай. | adapted: adapted |
 | 4 | Шеф | Айнура, это японец? | Aynura, is this a Japanese person? | #34 00:02:02: Айнура, это что, реальные японецы | adapted: adapted |
-| 5 | Аня | Нет. | No. | #35 00:02:12: Не, | adapted: adapted |
-| 6 | Аня | Он не наш. | He is not ours. | #36 00:02:17: не наш. | adapted: adapted |
+| 5 | Айнура | Нет. | No. | #35 00:02:12: Не, | adapted: adapted |
+| 6 | Айнура | Он не наш. | He is not ours. | #36 00:02:17: не наш. | adapted: adapted |
 | 7 | Шеф | Слушай, ты перепутал. | Listen, you made a mistake. | #37 00:02:19: Слышь, Бехада, ты перепутал. | adapted: adapted |
 | 8 | Шеф | Суши делают рядом. | They make sushi next door. | #38 00:02:22: Суши делают в соседнем ресторане. | adapted: adapted |
 | 9 | Сеня | Шеф, это новый повар. | Chef, this is the new cook. | new | new: new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who are you?' Notice the word order: 'you' comes first, and 'who' finishes the sentence.
-- 'What are you smiling at?' The first content word means 'what', and 'are smiling' rounds out the thought.
-- 'Come on, answer.' Notice the word order: 'let's' comes first, and 'answer' finishes the sentence.
-- 'Aynura, is this a Japanese person?' The key word here means 'Ainura', which Chef Viktor combines with 'this'.
-- 'No.' The first content word means 'no', and 'no' rounds out the thought.
-- 'He is not ours.' Ainura starts with 'he' and pairs it with 'he' to make the point clear. Then Chef Viktor replies.
-- 'Listen, you made a mistake.' Here 'listen' sets up the idea, while 'mixed up' comes at the end for emphasis.
-- 'They make sushi next door.' Chef Viktor starts with 'sushi' and pairs it with 'they do' to make the point clear.
-- 'Chef, this is the new cook.' The first content word means 'chef', and 'chef' rounds out the thought. And Chef Viktor jumps in.
-- 'What cook?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'chef' straight to 'chef'.
-- 'He will make sushi.' Here 'he' sets up the idea, while 'sushi' comes at the end for emphasis.
-- 'Get out of here.' You'll hear 'go' all the time in the show, here connected with 'from here'.
+- 'Who are you?' Russian omits the present-tense verb 'to be' here, linking 'you' directly with 'who', combining 'you' with 'who' and 'such'.
+- 'What are you smiling at?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'are smiling'.
+- 'Come on, answer.' Chef Barinov leads with the direct command form meaning 'let's', followed by 'answer'.
+- 'Aynura, is this a Japanese person?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'Japanese man' to make the point directly in conversation.
+- 'No.' A crisp, everyday conversational reply meaning 'no' that you will hear constantly in Russian dialogue.
+- 'He is not ours.' Russian omits the present-tense verb 'to be' here, linking 'he' directly with 'not', combining 'he' with 'not' and 'our'.
+- 'Listen, you made a mistake.' Chef Barinov leads with the direct command form meaning 'listen', followed by 'mixed up'.
+- 'They make sushi next door.' Chef Barinov expresses this naturally by combining the word for 'sushi' with 'they do' and 'nearby'.
+- 'Chef, this is the new cook.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'chef', combining 'new' with 'chef'.
+- 'What cook?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'chef'.
+- 'He will make sushi.' Senya chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'do' and 'sushi'.
+- 'Get out of here.' Chef Barinov leads with the direct command form meaning 'go', followed by 'from here'.

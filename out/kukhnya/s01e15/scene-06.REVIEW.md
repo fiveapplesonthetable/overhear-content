@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну ты куда? | Where are you going? | new | new: new |
+| 1 | Костя | Ну ты куда? | Where are you going? | new | new: new |
 | 2 | Макс | Я иду к Насте. | I am going to Nastya. | new | new: new |
-| 3 | Аня | Понимаешь, я не могу переехать к ней. | You see, I cannot move in with her. | new | new: new |
+| 3 | Костя | Понимаешь, я не могу переехать к ней. | You see, I cannot move in with her. | new | new: new |
 | 4 | Макс | Почему ты не хочешь жить с ней? | Why do you not want to live with her? | new | new: new |
-| 5 | Аня | Мы с Максом вместе за квартиру платим. | Max and I split the rent together. | new | new: new |
+| 5 | Костя | Мы с Максом вместе за квартиру платим. | Max and I split the rent together. | new | new: new |
 | 6 | Макс | Это очень глупая и плохая отговорка. | This is a very stupid and bad excuse. | new | new: new |
-| 7 | Аня | Один он ее не потянет. | He cannot afford it on his own. | new | new: new |
+| 7 | Костя | Один он ее не потянет. | He cannot afford it on his own. | new | new: new |
 | 8 | Макс | Если ты не хочешь жить со мной, скажи. | If you do not want to live with me, say so. | new | new: new |
-| 9 | Аня | Да я хочу. Это Макс не хочет. | I do want to. Max does not want to. | new | new: new |
+| 9 | Костя | Да я хочу. Это Макс не хочет. | I do want to. Max does not want to. | new | new: new |
 | 10 | Макс | Она тебе не поверит. | She will not believe you. | new | new: new |
-| 11 | Аня | Я его понимаю. Но я с ним поговорю. | I understand him. But I will talk to him. | new | new: new |
+| 11 | Костя | Я его понимаю. Но я с ним поговорю. | I understand him. But I will talk to him. | new | new: new |
 | 12 | Макс | Тебе нужно сделать это сегодня. | You need to do this today. | new | new: new |
-| 13 | Аня | Обещаю. | I promise. | new | new: new |
+| 13 | Костя | Обещаю. | I promise. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are you going?' -- Kostya asks him where he is going.
-- 'I am going to Nastya.' -- Max answers him with his simple plan.
-- 'You see, I cannot move in with her.' -- Kostya explains his problem to him.
-- 'Why do you not want to live with her?' -- Max asks him about his strange hesitation.
-- 'Max and I split the rent together.' -- He tells him about their shared apartment.
-- 'This is a very stupid and bad excuse.' -- Max criticizes his friend for his cowardice.
-- 'He cannot afford it on his own.' -- Kostya worries about his poor friend.
-- 'If you do not want to live with me, say so.' -- Max mimics her words to mock him.
-- 'I do want to. Max does not want to.' -- Kostya blames his friend for the delay.
-- 'She will not believe you.' -- Max warns him about her sharp intuition.
-- 'I understand him. But I will talk to him.' -- He promises to resolve the tricky situation.
-- 'You need to do this today.' -- Max urges him to act very quickly.
-- 'I promise.' -- He gives him a very firm vow.
+- 'Where are you going?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'where to'.
+- 'I am going to Nastya.' Max delivers a punchy one-word reaction built around the Russian word meaning 'going'.
+- 'You see, I cannot move in with her.' Kostya chooses the imperfective verb meaning 'do you understand' for the ongoing action, followed by 'can' and 'to move in'.
+- 'Why do you not want to live with her?' Max expresses this naturally by combining the word for 'why' with 'do you want' and 'to live'.
+- 'Max and I split the rent together.' Kostya puts the word for 'together' together with 'flat' and 'pay' in a crisp, natural spoken turn of phrase.
+- 'This is a very stupid and bad excuse.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'silly', pairing it with 'bad' and 'excuse'.
+- 'He cannot afford it on his own.' The phrasing opens with 'one' before bringing in 'to pull' to make the point clear.
+- 'If you do not want to live with me, say so.' Max leads with the direct command form meaning 'say', pairing it with 'do you want' and 'to live'.
+- 'I do want to. Max does not want to.' Kostya chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'wants'.
+- 'She will not believe you.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to believe'.
+- 'I understand him. But I will talk to him.' Kostya chooses the imperfective verb meaning 'understand' for the ongoing action, followed by 'I'll talk'.
+- 'You need to do this today.' Max expresses this naturally by combining the word for 'necessary' with 'to do' and 'today'.
+- 'I promise.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'promise'.

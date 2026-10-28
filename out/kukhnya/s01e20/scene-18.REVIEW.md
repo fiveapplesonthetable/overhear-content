@@ -10,26 +10,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я хотел тебе кое-что сказать. | I wanted to tell you something. | #292 00:19:42: хотел тебе кое-что сказать | adapted: adapted |
-| 2 | Аня | Я хочу. | I want... | #293 00:19:49: Я хочу | adapted: adapted |
-| 3 | Аня | Чтобы ты стала моей женой. | For you to be my wife. | #294 00:19:51: Ты стала моей женой | adapted: adapted |
+| 1 | Костя | Я хотел тебе кое-что сказать. | I wanted to tell you something. | #292 00:19:42: хотел тебе кое-что сказать | adapted: adapted |
+| 2 | Костя | Я хочу. | I want... | #293 00:19:49: Я хочу | adapted: adapted |
+| 3 | Костя | Чтобы ты стала моей женой. | For you to be my wife. | #294 00:19:51: Ты стала моей женой | adapted: adapted |
 | 4 | Настя | С ума сошел, что ли? О богу, бери. | Have you lost your mind? Oh God, take it. | #295 00:19:57: С ума сошел, что ли? Богу, бери | adapted: adapted |
-| 5 | Аня | Чего? Чего? | What? What? | #296 00:20:00: Чего? Чего | adapted: adapted |
-| 6 | Аня | Сама говорила, что каждый день это новый шаг. | You said yourself that every day is a new step. | #297 00:20:02: Сама говорила, что каждый день это новый шаг | adapted: adapted |
+| 5 | Костя | Чего? Чего? | What? What? | #296 00:20:00: Чего? Чего | adapted: adapted |
+| 6 | Костя | Сама говорила, что каждый день это новый шаг. | You said yourself that every day is a new step. | #297 00:20:02: Сама говорила, что каждый день это новый шаг | adapted: adapted |
 | 7 | Настя | Костя, я имела в виду знакомство с родителями. | Kostya, I meant meeting the parents. | #298 00:20:06: Костя, я имела в виду знакомство с родителями | adapted: adapted |
 | 8 | Настя | А не это. | Not this. | #298 00:20:06: а не это | adapted: adapted |
 | 9 | Настя | У меня по плану этот шаг только через год. | I had this step planned for a year from now. | #299 00:20:09: У меня по плану этот шаг только через год | adapted: adapted |
-| 10 | Аня | Что, есть какой-то план? | What, you have a plan? | #300 00:20:12: Что, есть какой-то план | adapted: adapted |
+| 10 | Костя | Что, есть какой-то план? | What, you have a plan? | #300 00:20:12: Что, есть какой-то план | adapted: adapted |
 | 11 | Настя | Да, есть. | Yes, I do. | #300 00:20:12: Да, есть | adapted: adapted |
 | 12 | Настя | А ты его сейчас чуть не разрушил. | And you nearly destroyed it just now. | #301 00:20:14: А ты его сейчас чуть не разрушил | adapted: adapted |
-| 13 | Аня | Прости меня, пожалуйста. | Forgive me, please. | new | new: new |
+| 13 | Костя | Прости меня, пожалуйста. | Forgive me, please. | new | new: new |
 | 14 | Настя | Я прощаю тебя. | I forgive you. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For you to be my wife.' The first content word means 'you', and 'wife' rounds out the thought. Nastya answers straight away.
-- 'Have you lost your mind? Oh God, take it.' Notice the word order: 'mind' comes first, and 'take' finishes the sentence.
-- 'You said yourself that every day is a new step.' Kostya starts with 'myself' and pairs it with 'said' to make the point clear.
-- 'Kostya, I meant meeting the parents.' Nastya starts with 'Kostya' and pairs it with 'I' to make the point clear.
-- 'I had this step planned for a year from now.' Nastya puts 'me' up front so the listener immediately catches the tone, followed by 'plan'.
-- 'And you nearly destroyed it just now.' You'll hear 'you' all the time in the show, here connected with 'destroyed'.
+- 'For you to be my wife.' The '-a' ending on the past-tense verb for 'have become' shows that the subject is feminine.
+- 'Have you lost your mind? Oh God, take it.' Nastya uses the imperative command form of the verb meaning 'take'.
+- 'You said yourself that every day is a new step.' Kostya chooses the imperfective verb meaning 'said' for the ongoing action, followed by 'every' and 'day'.
+- 'Kostya, I meant meeting the parents.' The '-a' ending on the past-tense verb for 'had' shows that the subject is feminine.
+- 'I had this step planned for a year from now.' Nastya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'plan' with 'step' and 'only'.
+- 'And you nearly destroyed it just now.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'nearly' and 'destroyed'.

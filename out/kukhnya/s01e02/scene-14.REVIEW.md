@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Да, Виктория Сергеевна, вы звали меня? | Yes, Viktoria Sergeyevna, did you call me? | #187 00:13:47: Да Виктория Сергеевна | adapted: reporting to manager |
-| 2 | Аня | Костя, объясни, что за беспорядок в баре? | Kostya, explain what this mess in the bar is? | #187 00:13:47: Костя это что нормально<br>#188 00:13:51: Почему у тебя бардак | adapted: demanding explanation |
+| 2 | Вика | Костя, объясни, что за беспорядок в баре? | Kostya, explain what this mess in the bar is? | #187 00:13:47: Костя это что нормально<br>#188 00:13:51: Почему у тебя бардак | adapted: demanding explanation |
 | 3 | Костя | Здесь нет никакого страшного беспорядка. | There is no terrible mess here. | #187 00:13:47: это что нормально | adapted: minimizing issue |
-| 4 | Аня | Почему чужой человек стоял за барной стойкой? | Why was a strange man standing behind the bar counter? | #188 00:13:51: сторонние в баре | adapted: questioning stranger |
+| 4 | Вика | Почему чужой человек стоял за барной стойкой? | Why was a strange man standing behind the bar counter? | #188 00:13:51: сторонние в баре | adapted: questioning stranger |
 | 5 | Костя | Он специалист и чинил нашу электронную кассу. | He is a specialist and was fixing our electronic register. | #189 00:13:54: он это Сикипер чинил | adapted: explaining technician |
-| 6 | Аня | Ты оставил незнакомца совсем одного без присмотра? | You left a stranger completely alone without supervision? | #188 00:13:51: сторонние в баре | adapted: scolding negligence |
+| 6 | Вика | Ты оставил незнакомца совсем одного без присмотра? | You left a stranger completely alone without supervision? | #188 00:13:51: сторонние в баре | adapted: scolding negligence |
 | 7 | Костя | Я отошёл на кухню буквально на минуту. | I stepped away to the kitchen for literally a minute. | #189 00:13:54: чинил | adapted: justifying absence |
-| 8 | Аня | А теперь внимательно посмотри на эту полку. | And now look carefully at this shelf. | #191 00:14:00: Где тогда коньяк | adapted: directing attention |
+| 8 | Вика | А теперь внимательно посмотри на эту полку. | And now look carefully at this shelf. | #191 00:14:00: Где тогда коньяк | adapted: directing attention |
 | 9 | Костя | Я не вижу здесь ничего необычного. | I see nothing unusual here. | #190 00:13:57: Да | adapted: looking around |
-| 10 | Аня | Где тогда стоит наш дорогой коньяк? | Where then is our expensive cognac standing? | #191 00:14:00: Где тогда коньяк | adapted: pointing out absence |
+| 10 | Вика | Где тогда стоит наш дорогой коньяк? | Where then is our expensive cognac standing? | #191 00:14:00: Где тогда коньяк | adapted: pointing out absence |
 | 11 | Костя | Этот коньяк всегда стоял прямо здесь. | This cognac always stood right here. | #191 00:14:00: Где тогда коньяк | adapted: noticing empty spot |
-| 12 | Аня | Бутылки больше нет на своём месте. | The bottle is no longer in its place. | #191 00:14:00: Где тогда коньяк | adapted: confirming disappearance |
+| 12 | Вика | Бутылки больше нет на своём месте. | The bottle is no longer in its place. | #191 00:14:00: Где тогда коньяк | adapted: confirming disappearance |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

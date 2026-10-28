@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дима, зачем ты позвал меня сюда? | Dima, why did you call me here? | #1 00:00:10: Дим, ну в каком хрен я здесь | adapted: adapted |
+| 1 | Шеф | Дима, зачем ты позвал меня сюда? | Dima, why did you call me here? | #1 00:00:10: Дим, ну в каком хрен я здесь | adapted: adapted |
 | 2 | Нагиев | Ты будешь выступать на телевидении, Виктор. | You will perform on television, Viktor. | #3 00:00:13: Ты не только повар, ты лицо нашего ресторана | adapted: adapted |
-| 3 | Аня | Я шеф-повар, а не известный актёр! | I am a head chef, not a famous actor! | #2 00:00:11: Я же не актер, я повар | adapted: adapted |
+| 3 | Шеф | Я шеф-повар, а не известный актёр! | I am a head chef, not a famous actor! | #2 00:00:11: Я же не актер, я повар | adapted: adapted |
 | 4 | Нагиев | Ты главное лицо нашего дорогого ресторана. | You are the main face of our expensive restaurant. | #3 00:00:13: ты лицо нашего ресторана | adapted: adapted |
-| 5 | Аня | Моё место на кухне у плиты. | My place is in the kitchen at the stove. | new | new: new |
+| 5 | Шеф | Моё место на кухне у плиты. | My place is in the kitchen at the stove. | new | new: new |
 | 6 | Нагиев | Зрители хотят видеть настоящего шефа. | The viewers want to see a real chef. | #4 00:00:15: этим лицом светить | adapted: adapted |
-| 7 | Аня | Отпусти меня обратно в Клод Моне. | Let me go back to Claude Monet. | #5 00:00:17: Давай в ресторан поеду | adapted: adapted |
+| 7 | Шеф | Отпусти меня обратно в Клод Моне. | Let me go back to Claude Monet. | #5 00:00:17: Давай в ресторан поеду | adapted: adapted |
 | 8 | Нагиев | Перестань спорить и иди вперёд. | Stop arguing and go forward. | #10 00:00:30: Все, в тени живот и вперед | adapted: adapted |
-| 9 | Аня | Там будет выступать эта Соколова? | Will that Sokolova perform there? | #17 00:00:49: Елена Соколова | adapted: adapted |
+| 9 | Шеф | Там будет выступать эта Соколова? | Will that Sokolova perform there? | #17 00:00:49: Елена Соколова | adapted: adapted |
 | 10 | Нагиев | Да, Елена Соколова из ресторана Аркабалено. | Yes, Elena Sokolova from Arcobaleno restaurant. | #16 00:00:44: шеф-повар ресторана Арка Баляна<br>#17 00:00:49: Елена Соколова | adapted: adapted |
-| 11 | Аня | Я докажу всем свой высокий класс. | I will prove my high caliber to everyone. | new | new: new |
+| 11 | Шеф | Я докажу всем свой высокий класс. | I will prove my high caliber to everyone. | new | new: new |
 | 12 | Нагиев | Вот это отличный настрой, шеф! | Now that is a great attitude, chef! | new | new: new |
-| 13 | Аня | Прямой эфир начинается прямо сейчас. | Live broadcast begins right now. | #19 00:00:53: Итак, мы начинаем | adapted: adapted |
+| 13 | Шеф | Прямой эфир начинается прямо сейчас. | Live broadcast begins right now. | #19 00:00:53: Итак, мы начинаем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Will that Sokolova perform there?' Barinov discovers his competitor's presence on the show.
 - 'Yes, Elena Sokolova from Arcobaleno restaurant.' Nagiev confirms the rival head chef's participation.
 - 'I will prove my high caliber to everyone.' Barinov's competitive pride is instantly triggered.
-- 'Now that is a great attitude, chef!' Nagiev praises the chef's fighting spirit.
+- 'Now that is a great attitude, chef!' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'attitude', combining 'great' with 'attitude' and 'chef'.
 - 'Live broadcast begins right now.' Barinov prepares for airtime as cameras roll.

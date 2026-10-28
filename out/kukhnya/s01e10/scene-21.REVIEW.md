@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Вика, почему ты так странно смотришь? | Vika, why are you looking so strangely? | #162 00:11:07: никого не было | adapted: asking about expression |
-| 2 | Аня | Макс, я должна сказать тебе важную вещь. | Max, I must tell you an important thing. | #165 00:11:15: что ты знал | adapted: preparing serious news |
+| 2 | Вика | Макс, я должна сказать тебе важную вещь. | Max, I must tell you an important thing. | #165 00:11:15: что ты знал | adapted: preparing serious news |
 | 3 | Макс | Ты снова сердишься из-за вчерашней глупой шутки? | Are you angry again because of yesterday's silly joke? | #163 00:11:11: Ты не переживай | adapted: guessing reason |
-| 4 | Аня | Нет, я беременна от тебя. | No, I am pregnant with your child. | #162 00:11:07: Точно от меня? | adapted: dropping bombshell |
+| 4 | Вика | Нет, я беременна от тебя. | No, I am pregnant with your child. | #162 00:11:07: Точно от меня? | adapted: dropping bombshell |
 | 5 | Макс | Ты абсолютно уверена, что ребёнок мой? | Are you absolutely sure that the baby is mine? | #162 00:11:07: Точно от меня? | adapted: asking in disbelief |
-| 6 | Аня | После тебя у меня никого не было. | I have not been with anyone since you. | #162 00:11:07: После тебя у меня никого не было | adapted: confirming paternity |
+| 6 | Вика | После тебя у меня никого не было. | I have not been with anyone since you. | #162 00:11:07: После тебя у меня никого не было | adapted: confirming paternity |
 | 7 | Макс | Но мы же совсем молодые люди! | But we are completely young people! | #163 00:11:11: Ты не переживай | adapted: panicking over age |
-| 8 | Аня | Ты только не переживай так сильно, Макс. | Just do not worry so much, Max. | #163 00:11:11: Ты не переживай | adapted: calming him down |
+| 8 | Вика | Ты только не переживай так сильно, Макс. | Just do not worry so much, Max. | #163 00:11:11: Ты не переживай | adapted: calming him down |
 | 9 | Макс | Что же нам теперь с этим делать? | What on earth should we do with this now? | #164 00:11:13: Мне от тебя ничего не нужно | adapted: seeking solution |
-| 10 | Аня | Мне от тебя совершенно ничего не нужно. | I do not need anything at all from you. | #164 00:11:13: Мне от тебя ничего не нужно | adapted: declaring independence |
+| 10 | Вика | Мне от тебя совершенно ничего не нужно. | I do not need anything at all from you. | #164 00:11:13: Мне от тебя ничего не нужно | adapted: declaring independence |
 | 11 | Макс | Тогда зачем ты решила сказать мне правду? | Then why did you decide to tell me the truth? | #165 00:11:15: Это я так | adapted: questioning motives |
-| 12 | Аня | Это просто для того, чтобы ты знал. | This is just so that you would know. | #165 00:11:15: Это я так, что ты знал | adapted: giving reason |
+| 12 | Вика | Это просто для того, чтобы ты знал. | This is just so that you would know. | #165 00:11:15: Это я так, что ты знал | adapted: giving reason |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

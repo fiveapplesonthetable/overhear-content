@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Разбудил? | Did I wake you? | #1 00:00:21: Расбудил? Конечно, нет. | verbatim |
+| 1 | Вика | Разбудил? | Did I wake you? | #1 00:00:21: Расбудил? Конечно, нет. | verbatim |
 | 2 | Max | Прости меня, пожалуйста. | Please forgive me. | #5 00:00:35: Прости меня, пожалуйста, я так устал. | verbatim |
-| 3 | Аня | Где ты вообще был? | Where were you, anyway? | #7 00:00:42: И где ты вообще был? | verbatim |
+| 3 | Вика | Где ты вообще был? | Where were you, anyway? | #7 00:00:42: И где ты вообще был? | verbatim |
 | 4 | Max | Что тут допрос такой? | What is this, an interrogation? | #8 00:00:44: А, что вообще тут допрос такой, а? | verbatim |
-| 5 | Аня | Ты считаешь, что можешь шляться где угодно? | You think you can wander off anywhere? | #9 00:00:47: Ты считаешь, что ты можешь шляться, черт знает где, бухать, | verbatim |
-| 6 | Аня | И приходить в три часа? | And stroll in at three o'clock? | #10 00:00:50: а потом приходить спокойно ко мне в три часа? | verbatim |
+| 5 | Вика | Ты считаешь, что можешь шляться где угодно? | You think you can wander off anywhere? | #9 00:00:47: Ты считаешь, что ты можешь шляться, черт знает где, бухать, | verbatim |
+| 6 | Вика | И приходить в три часа? | And stroll in at three o'clock? | #10 00:00:50: а потом приходить спокойно ко мне в три часа? | verbatim |
 | 7 | Max | Без пятнадцати. | Quarter to. | #11 00:00:54: Без пятнадцати. | verbatim |
-| 8 | Аня | Что у нас за отношения? | What kind of relationship do we have? | #12 00:00:56: Что у нас за отношения? | verbatim |
+| 8 | Вика | Что у нас за отношения? | What kind of relationship do we have? | #12 00:00:56: Что у нас за отношения? | verbatim |
 | 9 | Max | У нас свободные отношения. | We have an open relationship. | #13 00:00:58: У нас свободные отношения. | verbatim |
 | 10 | Max | Все хорошо. | Everything is fine. | #14 00:01:01: Все хорошо. Чего ты серьезная такая? | verbatim |
-| 11 | Аня | Раз у нас свободные отношения, | Since we have an open relationship, | #15 00:01:03: Раз у нас свободные отношения, на сегодня ты свободен. | verbatim |
-| 12 | Аня | На сегодня ты свободен. | You are free for tonight. | #15 00:01:03: Раз у нас свободные отношения, на сегодня ты свободен. | verbatim |
+| 11 | Вика | Раз у нас свободные отношения, | Since we have an open relationship, | #15 00:01:03: Раз у нас свободные отношения, на сегодня ты свободен. | verbatim |
+| 12 | Вика | На сегодня ты свободен. | You are free for tonight. | #15 00:01:03: Раз у нас свободные отношения, на сегодня ты свободен. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did I wake you?' You'll hear 'to wake up' all the time in the show, here connected with 'to wake up'.
-- 'Please forgive me.' Max puts 'sorry' up front so the listener immediately catches the tone, followed by 'me'. Vika answers straight away.
-- 'Where were you, anyway?' You'll hear 'where' all the time in the show, here connected with 'was'.
-- 'What is this, an interrogation?' Notice the word order: 'what' comes first, and 'interrogation' finishes the sentence.
+- 'Did I wake you?' Vika asks this with a single word meaning 'to wake up', using rising intonation to turn it into a quick question.
+- 'Please forgive me.' Max uses the imperative command form of the verb meaning 'sorry'. Then Vika responds.
+- 'Where were you, anyway?' The phrasing opens with 'where' before bringing in 'at all' and 'was' to make the point clear.
+- 'What is this, an interrogation?' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'interrogation', combining 'here' with 'interrogation'.
 - 'You think you can wander off anywhere?' The reflexive ending on the verb for 'wander' turns the action back onto the subject.
-- 'And stroll in at three o'clock?' Vika starts with 'to come' and pairs it with 'three' to make the point clear.
-- 'Quarter to.' Max puts 'fifteen' up front so the listener immediately catches the tone, followed by 'fifteen'.
-- 'What kind of relationship do we have?' The key word here means 'what', which Vika combines with 'us'. And Max jumps in.
-- 'We have an open relationship.' The key word here means 'us', which Max combines with 'free'.
-- 'Everything is fine.' A compact expression built around 'good' and 'good'.
-- 'Since we have an open relationship,' A compact expression built around 'time' and 'relations'.
-- 'You are free for tonight.' — Notice the adverb meaning 'today' paired with the pronoun for 'you'.
+- 'And stroll in at three o'clock?' Vika turns a statement into a question purely through rising intonation on the word meaning 'to come', pairing it with 'three' and 'hours'.
+- 'Quarter to.' Max delivers a punchy one-word reaction built around the Russian word meaning 'fifteen'.
+- 'What kind of relationship do we have?' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'relations'.
+- 'We have an open relationship.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'free' with 'relations'.
+- 'Everything is fine.' Max delivers a punchy one-word reaction built around the Russian word meaning 'good'.
+- 'Since we have an open relationship,' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'time' with 'free' and 'relations'.
+- 'You are free for tonight.' Vika uses the informal singular 'you' here with 'free', as friends and close colleagues do.

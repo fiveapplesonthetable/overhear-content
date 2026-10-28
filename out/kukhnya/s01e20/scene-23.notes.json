@@ -1041,7 +1041,7 @@
           "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "until (до свидания = goodbye)",
+          "gloss": "until",
           "gram": "preposition + genitive"
         },
         {
@@ -1049,7 +1049,7 @@
           "lemma": "свидание",
           "pos": "noun",
           "stress": "свида́ния",
-          "gloss": "meeting (до свидания = goodbye)",
+          "gloss": "meeting",
           "gram": "genitive singular, neuter"
         }
       ]
@@ -1065,7 +1065,7 @@
       "meanings": [
         {
           "en": "morning",
-          "note": "утром = in the morning"
+          "note": "Declinable neuter noun meaning 'morning', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         }
       ],
       "forms": {
@@ -1137,8 +1137,12 @@
       ],
       "related": [
         {
-          "word": "утрный",
-          "gloss": "related to morning (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -1152,7 +1156,7 @@
       "meanings": [
         {
           "en": "to come, to arrive",
-          "note": "on foot, once"
+          "note": "Russian perfective verb focusing on a single completed action or result meaning 'to come', forming an aspectual pair with 'приходить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         }
       ],
       "forms": {
@@ -1207,23 +1211,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "приди",
-                "придите"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -1255,7 +1242,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": "as opposed to before"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'now'."
         }
       ],
       "forms": null,
@@ -1289,15 +1276,15 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "the neuter form 'всё' used alone"
+          "note": "Russian determiner/pronoun ('all') agreeing in gender, number, and case with the noun phrase it specifies."
         },
         {
           "en": "everything",
-          "note": "neuter всё"
+          "note": "Secondary conversational sense ('everything') (neuter всё) used in spoken Russian dialogue."
         },
         {
           "en": "everyone",
-          "note": "plural все"
+          "note": "Secondary conversational sense ('everyone') (plural все) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -1381,7 +1368,16 @@
           "trans": "Share with everyone."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "ясно": {
       "lemma": "ясно",
@@ -1391,7 +1387,7 @@
       "meanings": [
         {
           "en": "clear, understood, got it",
-          "note": "predicative or adverb"
+          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'clear'."
         }
       ],
       "forms": null,
@@ -1425,7 +1421,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": "stronger contrast than 'а'"
+          "note": "Coordinating or subordinating Russian conjunction meaning 'but', linking clauses in spoken dialogue."
         }
       ],
       "forms": null,
@@ -1444,7 +1440,16 @@
           "trans": "We've done a lot, but we need to do even more."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "однако",
+          "gloss": "however"
+        },
+        {
+          "word": "зато",
+          "gloss": "on the other hand"
+        }
+      ]
     },
     "уже": {
       "lemma": "уже",
@@ -1475,8 +1480,8 @@
       ],
       "related": [
         {
-          "word": "очень уже",
-          "gloss": "intensified / related adverb (already)"
+          "word": "так",
+          "gloss": "so, thus"
         }
       ]
     },
@@ -1523,7 +1528,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "проводить время = to spend time"
+          "note": "Declinable neuter noun meaning 'time', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         }
       ],
       "forms": {
@@ -1665,23 +1670,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "уйди",
-                "уйдите"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -1721,11 +1709,11 @@
         },
         {
           "en": "is",
-          "note": "linking word: главное — это народ"
+          "note": "Secondary conversational sense ('is') (linking word: главное — это народ) used in spoken Russian dialogue."
         },
         {
-          "en": "other forms: этого, этому, это, этим, этом",
-          "note": "case forms"
+          "en": "other forms:",
+          "note": "Secondary conversational sense ('other forms:') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -1887,7 +1875,16 @@
           "trans": "I love our town very much. That's why I'm running for a second term."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "мы",
+          "gloss": "we"
+        },
+        {
+          "word": "свой",
+          "gloss": "one's own"
+        }
+      ]
     },
     "общий": {
       "lemma": "общий",
@@ -1897,7 +1894,7 @@
       "meanings": [
         {
           "en": "shared, common",
-          "note": "общий туалет = a shared toilet"
+          "note": "Descriptive Russian adjective meaning 'shared', agreeing in gender, number, and case with the noun it modifies."
         }
       ],
       "forms": {
@@ -1997,7 +1994,7 @@
       "meanings": [
         {
           "en": "mistake, error",
-          "note": "everyday and formal"
+          "note": "Derived feminine noun formed with a productive Slavic suffix, used in spoken Russian to mean 'mistake'."
         }
       ],
       "forms": {
@@ -2092,7 +2089,7 @@
       "meanings": [
         {
           "en": "can, to be able",
-          "note": "+ infinitive"
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'can', forming an aspectual pair with 'смочь'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         }
       ],
       "forms": {
@@ -2184,7 +2181,7 @@
         },
         {
           "en": "there is, there are",
-          "note": "present есть; у меня есть = I have"
+          "note": "Secondary conversational sense ('there is, there are') (present есть; у меня есть = I have) used in spoken Russian dialogue."
         },
         {
           "en": "will (with an imperfective infinitive)",
@@ -2202,58 +2199,27 @@
           {
             "cells": [
               "1st",
-              "есть",
-              "есть"
+              "буду",
+              "будем"
             ]
           },
           {
             "cells": [
               "2nd",
-              "есть",
-              "есть"
+              "будешь",
+              "будете"
             ]
           },
           {
             "cells": [
               "3rd",
-              "есть",
-              "есть"
+              "будет",
+              "будут"
             ]
           }
         ]
       },
       "moreForms": [
-        {
-          "title": "Future",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "буду",
-                "будем"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "будешь",
-                "будете"
-              ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "будет",
-                "будут"
-              ]
-            }
-          ]
-        },
         {
           "title": "Past",
           "columns": [
@@ -2271,23 +2237,6 @@
                 "была",
                 "было",
                 "были"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "будь",
-                "будьте"
               ]
             }
           ]
@@ -2332,11 +2281,11 @@
       "meanings": [
         {
           "en": "to cost",
-          "note": "сколько стоит? = how much is it?"
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'тоить'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to cost'."
         },
         {
           "en": "to be worth",
-          "note": ""
+          "note": "Secondary conversational sense ('to be worth') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2409,8 +2358,8 @@
       ],
       "related": [
         {
-          "word": "тоить",
-          "gloss": "aspect/prefix relative (to cost)"
+          "word": "достоинство",
+          "gloss": "virtue"
         }
       ]
     },
@@ -2426,7 +2375,7 @@
         }
       ],
       "forms": {
-        "title": "Conjugation",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -2436,22 +2385,22 @@
           {
             "cells": [
               "1st",
-              "проснутьсяю",
-              "проснутьсяем"
+              "проснусь",
+              "проснемся"
             ]
           },
           {
             "cells": [
               "2nd",
-              "проснутьсяешь",
-              "проснутьсяете"
+              "проснешься",
+              "проснетесь"
             ]
           },
           {
             "cells": [
               "3rd",
-              "проснутьсяет",
-              "проснутьсяют"
+              "проснется",
+              "проснутся"
             ]
           }
         ]
@@ -2513,7 +2462,7 @@
       "meanings": [
         {
           "en": "earlier, before, formerly",
-          "note": "comparative of рано"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'earlier'."
         }
       ],
       "forms": null,
@@ -2550,8 +2499,8 @@
           "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
-          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2616,12 +2565,12 @@
       ],
       "related": [
         {
-          "word": "меня",
-          "gloss": "me (genitive/accusative)"
+          "word": "мой",
+          "gloss": "my, mine"
         },
         {
-          "word": "мне",
-          "gloss": "to me (dative)"
+          "word": "мы",
+          "gloss": "we"
         }
       ]
     },
@@ -2652,7 +2601,16 @@
           "trans": "Chef, I didn't take it."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "нет",
+          "gloss": "no"
+        },
+        {
+          "word": "никогда",
+          "gloss": "never"
+        }
+      ]
     },
     "знать": {
       "lemma": "знать",
@@ -2664,7 +2622,7 @@
       "meanings": [
         {
           "en": "to know",
-          "note": "a fact or a person"
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to know'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         }
       ],
       "forms": {
@@ -2759,7 +2717,7 @@
       "meanings": [
         {
           "en": "answer, response",
-          "note": "reply to a question"
+          "note": "Declinable masculine noun meaning 'answer', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
         }
       ],
       "forms": {
@@ -2863,7 +2821,16 @@
           "trans": "Sit down and hold the door. Nobody will come in."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "жизнь": {
       "lemma": "жизнь",
@@ -2946,8 +2913,12 @@
       ],
       "related": [
         {
-          "word": "жизнный",
-          "gloss": "related to life (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ]
     },
@@ -2961,7 +2932,7 @@
       "meanings": [
         {
           "en": "to continue, last, remain in progress",
-          "note": "intransitive imperfective verb"
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'должаться'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to continue', forming an aspectual pair with 'продолжиться'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
         }
       ],
       "forms": {
@@ -3113,11 +3084,11 @@
       "meanings": [
         {
           "en": "to go, to walk",
-          "note": "in one direction, now"
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to go', forming an aspectual pair with 'пойти'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         },
         {
-          "en": "идти на второй срок",
-          "note": "to run for a second term"
+          "en": "expression",
+          "note": "Secondary conversational sense ('expression') (to run for a second term) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -3169,23 +3140,6 @@
                 "шла",
                 "шло",
                 "шли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "иди",
-                "идите"
               ]
             }
           ]
@@ -3262,16 +3216,12 @@
         },
         {
           "en": "forward!, let's go!",
-          "note": "as a command"
+          "note": "Secondary conversational sense ('forward!, let's go!') (as a command) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
-        {
-          "text": "Вперёд!",
-          "trans": "Forward! / Let's go!"
-        },
         {
           "text": "Идите вперёд.",
           "trans": "Go ahead."
@@ -3279,6 +3229,10 @@
         {
           "text": "Вы взяточник! Вы лезете вперёд больного ребёнка.",
           "trans": "You're a bribe-taker! You're pushing in ahead of a sick child."
+        },
+        {
+          "text": "Ну же, смелее вперёд, шеф ждёт твоего ответа!",
+          "trans": "Come on, boldly forward, the chef is waiting for your answer!"
         }
       ],
       "related": [
@@ -3300,11 +3254,11 @@
       "meanings": [
         {
           "en": "until, till",
-          "note": "+ genitive"
+          "note": "Russian preposition meaning 'until' that governs a specific oblique case on the following noun phrase."
         },
         {
-          "en": "до свидания = goodbye",
-          "note": ""
+          "en": "goodbye",
+          "note": "Secondary conversational sense ('goodbye') used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -3323,7 +3277,16 @@
           "trans": "See you tonight!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach"
+        },
+        {
+          "word": "домой",
+          "gloss": "homeward"
+        }
+      ]
     },
     "свидание": {
       "lemma": "свидание",
@@ -3333,12 +3296,12 @@
       "gloss": "meeting; date",
       "meanings": [
         {
-          "en": "до свидания = goodbye",
-          "note": "literally 'until the meeting'"
+          "en": "goodbye",
+          "note": "Verbal action or result neuter noun formed with '-ение'/'-ание', meaning 'meeting' in conversational and formal Russian."
         },
         {
           "en": "date (romantic)",
-          "note": ""
+          "note": "Secondary conversational sense ('date (romantic)') used in spoken Russian dialogue."
         }
       ],
       "forms": {

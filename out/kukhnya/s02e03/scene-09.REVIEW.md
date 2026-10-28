@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет. | Hi. | new | new |
+| 1 | Илья | Привет. | Hi. | new | new |
 | 2 | Настя | Привет, Илья. | Hi, Ilya. | new | new |
-| 3 | Аня | Здесь была девушка в зеленом платье? | Was there a girl in a green dress here? | #153 00:09:45: А разве здесь была девушка в зеленом платье | verbatim |
+| 3 | Илья | Здесь была девушка в зеленом платье? | Was there a girl in a green dress here? | #153 00:09:45: А разве здесь была девушка в зеленом платье | verbatim |
 | 4 | Настя | Вообще да. | Yes, actually. | #154 00:09:47: Вообще да | verbatim |
-| 5 | Аня | Где она? | Where is she? | new | new |
+| 5 | Илья | Где она? | Where is she? | new | new |
 | 6 | Настя | Я не знаю. | I don't know. | new | new |
-| 7 | Аня | Ты ее не видела? | You didn't see her? | new | new |
+| 7 | Илья | Ты ее не видела? | You didn't see her? | new | new |
 | 8 | Настя | Странно, я не видела. | That's strange, I didn't see. | #155 00:09:49: Странно, я не видела | verbatim |
-| 9 | Аня | Может, она ушла? | Maybe she left? | new | new |
+| 9 | Илья | Может, она ушла? | Maybe she left? | new | new |
 | 10 | Настя | Может быть. | Maybe. | new | new |
-| 11 | Аня | Мне нужно ее найти. | I need to find her. | new | new |
+| 11 | Илья | Мне нужно ее найти. | I need to find her. | new | new |
 | 12 | Настя | Посмотри в баре. | Look in the bar. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi.' You'll hear 'hi' all the time in the show, here connected with 'hi'. Nastya answers straight away.
-- 'Hi, Ilya.' Notice the word order: 'hi' comes first, and 'Ilya' finishes the sentence.
-- 'Was there a girl in a green dress here?' Notice the word order: 'here' comes first, and 'a dress' finishes the sentence.
-- 'Yes, actually.' You'll hear 'at all' all the time in the show, here connected with 'at all'. Then Ilya replies.
-- 'Where is she?' The key word here means 'where', which Ilya combines with 'it'.
-- 'I don't know.' Nastya starts with 'I' and pairs it with 'know' to make the point clear.
-- 'You didn't see her?' Ilya starts with 'you' and pairs it with 'her' to make the point clear. And Nastya jumps in.
-- 'That's strange, I didn't see.' Here 'strange' sets up the idea, while 'saw' comes at the end for emphasis.
-- 'Maybe she left?' You'll hear 'can' all the time in the show, here connected with 'left'.
-- 'Maybe.' Here 'can' sets up the idea, while 'be' comes at the end for emphasis. Ilya answers straight away.
-- 'I need to find her.' Listen for the word meaning 'to me' right alongside 'necessary' in this line.
-- 'Look in the bar.' Notice the word order: 'look' comes first, and 'bar' finishes the sentence.
+- 'Hi.' A crisp, everyday conversational reply meaning 'hi' that you will hear constantly in Russian dialogue.
+- 'Hi, Ilya.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
+- 'Was there a girl in a green dress here?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'here', pairing it with 'was' and 'girlfriend'.
+- 'Yes, actually.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'at all'.
+- 'Where is she?' The question opens with the interrogative word for 'where' and builds toward 'it'.
+- 'I don't know.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'know'.
+- 'You didn't see her?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'saw' to make the point directly in conversation.
+- 'That's strange, I didn't see.' Nastya expresses this naturally by combining the word for 'strange' with 'saw'.
+- 'Maybe she left?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'can', followed by 'left'.
+- 'Maybe.' Nastya chooses the imperfective verb meaning 'can' for the ongoing action, followed by 'be'.
+- 'I need to find her.' The phrasing opens with 'necessary' before bringing in 'to find' to make the point clear.
+- 'Look in the bar.' Nastya leads with the direct command form meaning 'look', followed by 'bar'.

@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Один ты остался у меня, милый Аркашка. | You are all I have left, dear Arkasha. | #213 00:12:27: Один ты у меня остался, Аркашка | adapted: speaking to fish |
+| 1 | Шеф | Один ты остался у меня, милый Аркашка. | You are all I have left, dear Arkasha. | #213 00:12:27: Один ты у меня остался, Аркашка | adapted: speaking to fish |
 | 2 | Лёва | Шеф, почему вы сидите здесь в темноте? | Chef, why are you sitting here in the dark? | #213 00:12:27: Аркашка | adapted: asking gently |
-| 3 | Аня | Моя рыбка — единственный верный организм на свете. | My fish is the only loyal organism in the world. | #214 00:12:30: Единственный преданный мне живой | adapted: lamenting loyalty |
+| 3 | Шеф | Моя рыбка — единственный верный организм на свете. | My fish is the only loyal organism in the world. | #214 00:12:30: Единственный преданный мне живой | adapted: lamenting loyalty |
 | 4 | Лёва | Но вся наша кухня очень скучает без вас! | But our entire kitchen misses you very much! | #212 00:12:19: предатели | adapted: reassuring chef |
-| 5 | Аня | Все повара на кухне — настоящие предатели. | All the cooks in the kitchen are true traitors. | #212 00:12:19: предатели | adapted: holding grudge |
+| 5 | Шеф | Все повара на кухне — настоящие предатели. | All the cooks in the kitchen are true traitors. | #212 00:12:19: предатели | adapted: holding grudge |
 | 6 | Лёва | Они просто испугались нового строгого порядка. | They just got scared of the new strict order. | #216 00:12:35: Бузеров | adapted: explaining staff fear |
-| 7 | Аня | Они с удовольствием бросили своего старого шефа. | They gladly abandoned their old chef. | #214 00:12:30: преданный мне | adapted: feeling discarded |
+| 7 | Шеф | Они с удовольствием бросили своего старого шефа. | They gladly abandoned their old chef. | #214 00:12:30: преданный мне | adapted: feeling discarded |
 | 8 | Лёва | Мы все искренне любим только вас, шеф. | We all sincerely love only you, chef. | #214 00:12:30: живой человек | adapted: expressing loyalty |
-| 9 | Аня | Только Аркашка слушает меня внимательно и молчит. | Only Arkasha listens to me attentively and keeps quiet. | #215 00:12:32: организм | adapted: trusting fish |
+| 9 | Шеф | Только Аркашка слушает меня внимательно и молчит. | Only Arkasha listens to me attentively and keeps quiet. | #215 00:12:32: организм | adapted: trusting fish |
 | 10 | Лёва | Пойдёмте на кухню, пока суп не остыл. | Let's go to the kitchen before the soup gets cold. | #216 00:12:35: Бузеров | adapted: inviting chef back |
-| 11 | Аня | Я никуда не пойду из этого кабинета. | I will not go anywhere out of this office. | #213 00:12:27: Один ты у меня остался | adapted: refusing stubbornly |
+| 11 | Шеф | Я никуда не пойду из этого кабинета. | I will not go anywhere out of this office. | #213 00:12:27: Один ты у меня остался | adapted: refusing stubbornly |
 | 12 | Лёва | Тогда я принесу вам горячего чаю сюда. | Then I will bring you some hot tea here. | #213 00:12:27: Аркашка | adapted: caring for chef |
 
 ## Walk-through narration (English only, no target-language words quoted)

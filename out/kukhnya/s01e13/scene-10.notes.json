@@ -219,7 +219,7 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
+          "gloss": "yes",
           "gram": "particle in the set phrase да ну"
         },
         {
@@ -689,7 +689,7 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
+          "gloss": "yes",
           "gram": "particle in the set phrase да ну"
         },
         {
@@ -1159,7 +1159,7 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
+          "gloss": "yes",
           "gram": "particle in the set phrase да ну"
         },
         {
@@ -1442,20 +1442,33 @@
       "meanings": [
         {
           "en": "buongiorno",
-          "note": "Core Russian interj meaning 'buongiorno' in everyday speech."
+          "note": "Expressive conversational Russian interjection or greeting ('buongiorno') used directly in spoken exchanges."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": [],
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ],
       "examples": [
         {
           "text": "Бонжорно, синьоры.",
           "trans": "Buongiorno, signori."
         },
         {
-          "text": "Это слово «бонжорно» часто звучит в разговоре.",
-          "trans": "This word 'buongiorno' is often heard in conversation."
+          "text": "Бонжорно, синьоры, добро пожаловать к нам!",
+          "trans": "Buongiorno, signori, welcome to our place!"
+        },
+        {
+          "text": "Шеф весело сказал всем гостям бонжорно.",
+          "trans": "The chef cheerfully said buongiorno to all the guests."
         }
       ]
     },
@@ -1466,16 +1479,53 @@
       "gender": "f",
       "gloss": "signora",
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "синьора"
+              "nominative",
+              "синьора",
+              "синьоры"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "синьоры",
+              "синьор"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "синьоре",
+              "синьорам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "синьору",
+              "синьоры"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "синьорой",
+              "синьорами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "синьоре",
+              "синьорах"
             ]
           }
         ]
@@ -1488,8 +1538,12 @@
       ],
       "related": [
         {
-          "word": "синьорный",
-          "gloss": "related to signora (adj.)"
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
         }
       ],
       "examples": [
@@ -1501,7 +1555,8 @@
           "text": "Граци, синьора, чао-чао.",
           "trans": "Grazie, signora, ciao-ciao."
         }
-      ]
+      ],
+      "moreForms": []
     },
     "добрый": {
       "lemma": "добрый",
@@ -1511,7 +1566,7 @@
       "meanings": [
         {
           "en": "kind",
-          "note": "about people"
+          "note": "Descriptive Russian adjective meaning 'kind', agreeing in gender, number, and case with the noun it modifies."
         },
         {
           "en": "good",
@@ -1601,12 +1656,12 @@
       ],
       "related": [
         {
-          "word": "добро",
-          "gloss": "in a kind way (adv.)"
+          "word": "доброта",
+          "gloss": "kindness"
         },
         {
-          "word": "добрость",
-          "gloss": "quality of being kind"
+          "word": "добро",
+          "gloss": "good"
         }
       ]
     },
@@ -1705,7 +1760,7 @@
       "meanings": [
         {
           "en": "restaurant",
-          "note": "dining establishment"
+          "note": "Borrowed from French 'restaurant' (from 'restaurer', to restore strength with rich broth); entered Russian in the early 19th century."
         }
       ],
       "forms": {
@@ -1797,8 +1852,8 @@
           "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
-          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -1863,12 +1918,12 @@
       ],
       "related": [
         {
-          "word": "меня",
-          "gloss": "me (genitive/accusative)"
+          "word": "мой",
+          "gloss": "my, mine"
         },
         {
-          "word": "мне",
-          "gloss": "to me (dative)"
+          "word": "мы",
+          "gloss": "we"
         }
       ]
     },
@@ -1882,7 +1937,7 @@
       "meanings": [
         {
           "en": "to call (someone over)",
-          "note": "звать на помощь = to call for help"
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to call', forming an aspectual pair with 'позвать'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         },
         {
           "en": "to be called (a name)",
@@ -1941,23 +1996,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "зови",
-                "зовите"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -1997,12 +2035,21 @@
       "meanings": [
         {
           "en": "Alexander",
-          "note": "Core Russian name meaning 'Alexander' in everyday speech."
+          "note": "Everyday conversational Russian name meaning 'Alexander', frequent in spoken dialogue."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": [],
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ],
       "examples": [
         {
           "text": "Меня зовут Александр.",
@@ -2021,16 +2068,53 @@
       "gender": "f",
       "gloss": "exhibition",
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "выставка"
+              "nominative",
+              "выставка",
+              "выставки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "выставки",
+              "выставк"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "выставке",
+              "выставкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "выставку",
+              "выставки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "выставкой",
+              "выставками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "выставке",
+              "выставках"
             ]
           }
         ]
@@ -2068,7 +2152,8 @@
           "text": "Почему, Вик, на выставку не улетели?",
           "trans": "Why didn't you fly out to the exhibition?"
         }
-      ]
+      ],
+      "moreForms": []
     },
     "отменяться": {
       "lemma": "отменяться",
@@ -2080,7 +2165,7 @@
       "meanings": [
         {
           "en": "to be canceled, called off",
-          "note": "imperfective reflexive verb"
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'меняться'). Used in Russian as an imperfective verb expressing ongoing, habitual, or repeated action meaning 'to be canceled', forming an aspectual pair with 'отмениться'. The reflexive suffix '-ся'/'-сь' makes the action intransitive, reciprocal, or directed at the subject."
         }
       ],
       "forms": {
@@ -2193,7 +2278,7 @@
       "meanings": [
         {
           "en": "to pass on, to hand over, to give",
-          "note": "+ accusative and dative (кому)"
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дать'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to pass on', forming an aspectual pair with 'передавать'."
         }
       ],
       "forms": {
@@ -2312,11 +2397,11 @@
         },
         {
           "en": "is",
-          "note": "linking word: главное — это народ"
+          "note": "Secondary conversational sense ('is') (linking word: главное — это народ) used in spoken Russian dialogue."
         },
         {
-          "en": "other forms: этого, этому, это, этим, этом",
-          "note": "case forms"
+          "en": "other forms:",
+          "note": "Secondary conversational sense ('other forms:') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2394,20 +2479,16 @@
       "meanings": [
         {
           "en": "well",
-          "note": "how something is done"
+          "note": "Manner or predicative adverb in '-о' derived from the corresponding adjective stem, used in everyday speech to mean 'well'."
         },
         {
           "en": "good, fine",
-          "note": "as an answer"
+          "note": "Secondary conversational sense ('good, fine') (as an answer) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
-        {
-          "text": "Хорошо!",
-          "trans": "Good!"
-        },
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
@@ -2415,6 +2496,10 @@
         {
           "text": "Хорошо! Там всё нормально.",
           "trans": "Good! Everything's fine over there."
+        },
+        {
+          "text": "Хорошо, Виктор Петрович, я сейчас же всё переделаю заново!",
+          "trans": "All right, Viktor Petrovich, I will redo everything right now!"
         }
       ],
       "related": [
@@ -2440,20 +2525,25 @@
       "meanings": [
         {
           "en": "grazie",
-          "note": "Core Russian interj meaning 'grazie' in everyday speech."
+          "note": "Expressive conversational Russian interjection or greeting ('grazie') used directly in spoken exchanges."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": [],
+      "related": [
+        {
+          "word": "миграционный",
+          "gloss": "migration"
+        }
+      ],
       "examples": [
         {
-          "text": "Граци, синьора, чао-чао.",
-          "trans": "Grazie, signora, ciao-ciao."
+          "text": "Граци, синьора, ваш столик у окна уже полностью готов!",
+          "trans": "Grazie, signora, your table by the window is already completely ready!"
         },
         {
-          "text": "Скажите, когда будет ваша программа?",
-          "trans": "Tell us, when will your programme be out?"
+          "text": "Итальянский гость с улыбкой сказал официанту граци за отличный кофе.",
+          "trans": "With a smile the Italian guest said grazie to the waiter for the excellent coffee."
         }
       ]
     },
@@ -2465,20 +2555,33 @@
       "meanings": [
         {
           "en": "ciao-ciao",
-          "note": "Core Russian interj meaning 'ciao-ciao' in everyday speech."
+          "note": "Expressive conversational Russian interjection or greeting ('ciao-ciao') used directly in spoken exchanges."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": [],
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ],
       "examples": [
         {
           "text": "Граци, синьора, чао-чао.",
           "trans": "Grazie, signora, ciao-ciao."
         },
         {
-          "text": "Это слово «чао-чао» часто звучит в разговоре.",
-          "trans": "This word 'ciao-ciao' is often heard in conversation."
+          "text": "Граци, синьора, чао-чао, ждём вас снова завтра вечером!",
+          "trans": "Grazie, signora, ciao-ciao, we look forward to seeing you again tomorrow evening!"
+        },
+        {
+          "text": "Луи весело помахал всем рукой и крикнул чао-чао.",
+          "trans": "Louis cheerfully waved his hand to everyone and called out ciao-ciao."
         }
       ]
     },
@@ -2493,8 +2596,8 @@
           "note": "emphatic at the start of a sentence"
         },
         {
-          "en": "да ну? = really?, oh yeah?",
-          "note": "disbelief"
+          "en": "? = really?, oh yeah?",
+          "note": "Secondary conversational sense ('? = really?, oh yeah?') (disbelief) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -2513,7 +2616,16 @@
           "trans": "Oh yeah? When?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "конечно",
+          "gloss": "of course"
+        },
+        {
+          "word": "правда",
+          "gloss": "truth, really"
+        }
+      ]
     },
     "алло": {
       "lemma": "алло",
@@ -2538,11 +2650,20 @@
           "trans": "Hello, Viktor Stepanovich?"
         },
         {
-          "text": "Алло?",
-          "trans": "Hello?"
+          "text": "Алло, Вика, ты сейчас где находишься?",
+          "trans": "Hello, Vika, where are you right now?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ]
     },
     "здравствуйте": {
       "lemma": "здравствуйте",
@@ -2596,11 +2717,11 @@
       "meanings": [
         {
           "en": "to call, to phone",
-          "note": "+ dative of the person"
+          "note": "Russian imperfective verb expressing ongoing, habitual, or repeated action meaning 'to call', forming an aspectual pair with 'позвонить'; conjugates for person and number in the present/future and agrees in gender in the past tense."
         },
         {
           "en": "to ring",
-          "note": "a bell or phone"
+          "note": "Secondary conversational sense ('to ring') (a bell or phone) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2710,16 +2831,53 @@
       "gender": "m",
       "gloss": "representative",
       "forms": {
-        "title": "Forms",
+        "title": "Declension",
         "columns": [
-          "Form",
-          "Value"
+          "",
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
-              "Base",
-              "представитель"
+              "nominative",
+              "представитель",
+              "представители"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "представителя",
+              "представителей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "представителю",
+              "представителям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "представитель",
+              "представители"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "представителем",
+              "представителями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "представителе",
+              "представителях"
             ]
           }
         ]
@@ -2750,10 +2908,15 @@
           "trans": "A representative of the exhibition from Milan called."
         },
         {
-          "text": "Это слово «представитель» часто звучит в разговоре.",
-          "trans": "This word 'representative' is often heard in conversation."
+          "text": "Сегодня утром звонил официальный представитель выставки из Милана.",
+          "trans": "An official representative of the exhibition from Milan called this morning."
+        },
+        {
+          "text": "В зале сидит представитель крупной французской винодельни.",
+          "trans": "A representative of a major French winery is sitting in the dining room."
         }
-      ]
+      ],
+      "moreForms": []
     },
     "из": {
       "lemma": "из",
@@ -2783,7 +2946,16 @@
         }
       ],
       "governs": "+ genitive",
-      "related": []
+      "related": [
+        {
+          "word": "выход",
+          "gloss": "exit"
+        },
+        {
+          "word": "выходить",
+          "gloss": "to go out"
+        }
+      ]
     },
     "милана": {
       "lemma": "милана",
@@ -2793,12 +2965,17 @@
       "meanings": [
         {
           "en": "Milana",
-          "note": "Core Russian name meaning 'Milana' in everyday speech."
+          "note": "Everyday conversational Russian name meaning 'Milana', frequent in spoken dialogue."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": [],
+      "related": [
+        {
+          "word": "милан",
+          "gloss": "Milan"
+        }
+      ],
       "examples": [
         {
           "text": "Звонил представитель выставки из Милана.",
@@ -2822,11 +2999,11 @@
         },
         {
           "en": "it",
-          "note": "for masculine and neuter things"
+          "note": "Secondary conversational sense ('it') (for masculine and neuter things) used in spoken Russian dialogue."
         },
         {
-          "en": "other forms: его (gen/acc), ему (dat), им (instr), нём (prep)",
-          "note": "case forms"
+          "en": "other forms:  (gen/acc),  (dat),  (instr),  (prep)",
+          "note": "Secondary conversational sense ('other forms:  (gen/acc),  (dat),  (instr),  (prep)') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2889,7 +3066,16 @@
           "trans": "Four-eyes! Grab him!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "она",
+          "gloss": "she"
+        },
+        {
+          "word": "они",
+          "gloss": "they"
+        }
+      ]
     },
     "сказать": {
       "lemma": "сказать",
@@ -2904,8 +3090,8 @@
           "note": "once; что скажешь? = what do you say?"
         },
         {
-          "en": "скажите = tell me / tell us",
-          "note": "polite request"
+          "en": "tell me / tell us",
+          "note": "Secondary conversational sense ('tell me / tell us') (polite request) used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -2960,23 +3146,6 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "скажи",
-                "скажите"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
@@ -3016,15 +3185,15 @@
       "meanings": [
         {
           "en": "what",
-          "note": "question word"
+          "note": "High-frequency Russian pronoun ('what') whose case form reflects its grammatical role in the clause."
         },
         {
           "en": "that",
-          "note": "conjunction"
+          "note": "Secondary conversational sense ('that') (conjunction) used in spoken Russian dialogue."
         },
         {
-          "en": "ну что? = well?",
-          "note": ""
+          "en": "? = well?",
+          "note": "Secondary conversational sense ('? = well?') used in spoken Russian dialogue."
         }
       ],
       "forms": {
@@ -3087,7 +3256,16 @@
           "trans": "Hi! Look what I've got."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ничто",
+          "gloss": "nothing"
+        },
+        {
+          "word": "что-то",
+          "gloss": "something"
+        }
+      ]
     },
     "она": {
       "lemma": "она",
@@ -3097,7 +3275,7 @@
       "meanings": [
         {
           "en": "she",
-          "note": "её, ей, ей, о ней"
+          "note": "High-frequency Russian pronoun ('she') whose case form reflects its grammatical role in the clause."
         }
       ],
       "forms": null,
@@ -3116,7 +3294,16 @@
           "trans": "Pasha, I don't want to hear about her again. Understood?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "он",
+          "gloss": "he"
+        },
+        {
+          "word": "они",
+          "gloss": "they"
+        }
+      ]
     },
     "а": {
       "lemma": "а",
@@ -3126,11 +3313,11 @@
       "meanings": [
         {
           "en": "and, while",
-          "note": "contrast"
+          "note": "Coordinating or subordinating Russian conjunction meaning 'and', linking clauses in spoken dialogue."
         },
         {
           "en": "so, and what about",
-          "note": "starting a question: а жвачку?"
+          "note": "Secondary conversational sense ('so, and what about') (starting a question: а жвачку?) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -3149,7 +3336,16 @@
           "trans": "Dad, did you bring any gum?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "но",
+          "gloss": "but"
+        },
+        {
+          "word": "же",
+          "gloss": "whereas, indeed"
+        }
+      ]
     },
     "правда": {
       "lemma": "правда",
@@ -3278,8 +3474,8 @@
       ],
       "related": [
         {
-          "word": "очень уже",
-          "gloss": "intensified / related adverb (already)"
+          "word": "так",
+          "gloss": "so, thus"
         }
       ]
     },
@@ -3291,11 +3487,11 @@
       "meanings": [
         {
           "en": "in",
-          "note": "+ prepositional (where)"
+          "note": "Russian preposition meaning 'in' that governs a specific oblique case on the following noun phrase."
         },
         {
           "en": "into, to",
-          "note": "+ accusative (where to)"
+          "note": "Secondary conversational sense ('into, to') (+ accusative (where to)) used in spoken Russian dialogue."
         }
       ],
       "forms": null,
@@ -3314,7 +3510,16 @@
           "trans": "Hello! How was it in Hungary?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "внутри",
+          "gloss": "inside"
+        },
+        {
+          "word": "входить",
+          "gloss": "to enter"
+        }
+      ]
     },
     "домодедово": {
       "lemma": "домодедово",
@@ -3329,15 +3534,28 @@
       ],
       "forms": null,
       "moreForms": [],
-      "related": [],
+      "related": [
+        {
+          "word": "так",
+          "gloss": "so, thus"
+        },
+        {
+          "word": "уже",
+          "gloss": "already"
+        }
+      ],
       "examples": [
         {
           "text": "А, правда? Я уже в Домодедово.",
           "trans": "Oh, really? I am already in Domodedovo."
         },
         {
-          "text": "Это слово «домодедово» часто звучит в разговоре.",
-          "trans": "This word 'Domodedovo' is often heard in conversation."
+          "text": "Я уже еду в аэропорт Домодедово встречать гостей.",
+          "trans": "I am already driving to Domodedovo Airport to meet the guests."
+        },
+        {
+          "text": "Самолёт из Парижа прилетает в Домодедово ровно в пять.",
+          "trans": "The plane from Paris lands at Domodedovo at five sharp."
         }
       ]
     },
@@ -3349,7 +3567,7 @@
       "meanings": [
         {
           "en": "a little, slightly",
-          "note": "чуть-чуть = a tiny bit"
+          "note": "Invariable Russian adverb used to modify verbs or whole clauses with the sense 'a little'."
         },
         {
           "en": "nearly, almost",
@@ -3406,7 +3624,16 @@
           "trans": "Chef, I didn't take it."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "нет",
+          "gloss": "no"
+        },
+        {
+          "word": "никогда",
+          "gloss": "never"
+        }
+      ]
     },
     "улететь": {
       "lemma": "улететь",
@@ -3418,7 +3645,7 @@
       "meanings": [
         {
           "en": "to fly away, to fly out, to depart by air",
-          "note": "prefix у- = away"
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'лететь'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to fly away', forming an aspectual pair with 'улетать'."
         }
       ],
       "forms": {
@@ -3548,7 +3775,16 @@
           "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "спасать",
+          "gloss": "to save"
+        },
+        {
+          "word": "спасти",
+          "gloss": "to save"
+        }
+      ]
     },
     "предупредить": {
       "lemma": "предупредить",
@@ -3560,7 +3796,7 @@
       "meanings": [
         {
           "en": "to warn, caution",
-          "note": "кого о чём"
+          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'упредить'). Used in Russian as an perfective verb focusing on a single completed action or result meaning 'to warn', forming an aspectual pair with 'предупреждать'."
         }
       ],
       "forms": {

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Максим, ты думал, что я испугаюсь? | Maxim, did you think that I would get scared? | #275 00:19:26: Я согласна | adapted: challenging his bluff |
+| 1 | Вика | Максим, ты думал, что я испугаюсь? | Maxim, did you think that I would get scared? | #275 00:19:26: Я согласна | adapted: challenging his bluff |
 | 2 | Макс | Я просто сделал тебе красивое предложение. | I simply made you a beautiful proposal. | #275 00:19:26: Я согласна | adapted: defending proposal |
-| 3 | Аня | Ты хотел проверить мою смелость сейчас? | You wanted to test my courage now? | #275 00:19:26: Я согласна | adapted: questioning motives |
+| 3 | Вика | Ты хотел проверить мою смелость сейчас? | You wanted to test my courage now? | #275 00:19:26: Я согласна | adapted: questioning motives |
 | 4 | Макс | Я готов создать с тобой крепкую семью. | I am ready to create a strong family with you. | #275 00:19:26: Я согласна | adapted: doubling down |
-| 5 | Аня | Ты уверен в своих громких словах? | Are you confident in your loud words? | #275 00:19:26: Я согласна | adapted: pressing Max |
+| 5 | Вика | Ты уверен в своих громких словах? | Are you confident in your loud words? | #275 00:19:26: Я согласна | adapted: pressing Max |
 | 6 | Макс | Я абсолютно уверен в каждом своём слове! | I am absolutely confident in every word of mine! | #275 00:19:26: Я согласна | adapted: insisting firmly |
-| 7 | Аня | Тогда слушай мой честный ответ при всех. | Then listen to my honest answer in front of everyone. | #275 00:19:26: Я согласна | adapted: preparing answer |
-| 8 | Аня | Я согласна стать твоей законной женой! | I agree to become your lawful wife! | #275 00:19:26: Я согласна | adapted: accepting proposal |
+| 7 | Вика | Тогда слушай мой честный ответ при всех. | Then listen to my honest answer in front of everyone. | #275 00:19:26: Я согласна | adapted: preparing answer |
+| 8 | Вика | Я согласна стать твоей законной женой! | I agree to become your lawful wife! | #275 00:19:26: Я согласна | adapted: accepting proposal |
 | 9 | Макс | Ты действительно сейчас говоришь чистую правду? | Are you really speaking the pure truth now? | #275 00:19:26: Я согласна | adapted: staring in shock |
-| 10 | Аня | Да, я принимаю твоё неожиданное предложение. | Yes, I accept your unexpected proposal. | #275 00:19:26: Я согласна | adapted: confirming acceptance |
+| 10 | Вика | Да, я принимаю твоё неожиданное предложение. | Yes, I accept your unexpected proposal. | #275 00:19:26: Я согласна | adapted: confirming acceptance |
 | 11 | Макс | Теперь мы станем настоящими женихом и невестой! | Now we will become real groom and bride! | #275 00:19:26: Я согласна | adapted: reacting to agreement |
-| 12 | Аня | Посмотрим, как ты справишься с этим, Максим! | We will see how you handle this, Maxim! | #275 00:19:26: Я согласна | adapted: challenging future |
+| 12 | Вика | Посмотрим, как ты справишься с этим, Максим! | We will see how you handle this, Maxim! | #275 00:19:26: Я согласна | adapted: challenging future |
 | 13 | Макс | Я готов ко всем трудностям нашей свадьбы! | I am ready for all the difficulties of our wedding! | #275 00:19:26: Я согласна | adapted: accepting challenge |
 
 ## Walk-through narration (English only, no target-language words quoted)

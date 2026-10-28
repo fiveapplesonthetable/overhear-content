@@ -12,28 +12,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Елена | Дорогие друзья, минуточку внимания. | Dear friends, a moment of attention. | #1 00:00:13: Макс | adapted: adapted |
 | 2 | Елена | Я хочу познакомить вас с лучшим шеф-поваром. | I want to introduce you to the best chef. | #1 00:00:13: Макс | adapted: adapted |
-| 3 | Аня | Добрый вечер, дорогие гости. | Good evening, dear guests. | #1 00:00:13: Макс | adapted: new |
+| 3 | Макс | Добрый вечер, дорогие гости. | Good evening, dear guests. | #1 00:00:13: Макс | adapted: new |
 | 4 | Елена | Это Максимилиан, специалист по французской кухне. | This is Maximilian, an expert in French cuisine. | #1 00:00:13: Макс | adapted: adapted |
-| 5 | Аня | Я очень рад быть здесь. | I am very glad to be here. | #1 00:00:13: Макс | adapted: new |
+| 5 | Макс | Я очень рад быть здесь. | I am very glad to be here. | #1 00:00:13: Макс | adapted: new |
 | 6 | Елена | Он любезно согласился приготовить старинное блюдо. | He kindly agreed to prepare an old dish. | #1 00:00:13: Макс | adapted: adapted |
 | 7 | Елена | Мы взяли его из этой французской книги. | We took it from this French book. | #1 00:00:13: Макс | adapted: new |
 | 8 | Елена | Я выбрала для нас вот это блюдо. | I chose this dish for us. | #1 00:00:13: Макс | adapted: new |
-| 9 | Аня | Это прекрасный выбор для сегодняшнего вечера. | This is an excellent choice for tonight. | #1 00:00:13: Макс | adapted: new |
+| 9 | Макс | Это прекрасный выбор для сегодняшнего вечера. | This is an excellent choice for tonight. | #1 00:00:13: Макс | adapted: new |
 | 10 | Елена | Максимилиан приготовит его для нас сегодня. | Maximilian will prepare it for us today. | #1 00:00:13: Макс | adapted: new |
-| 11 | Аня | Я сделаю все в лучшем виде. | I will do everything in the best way. | #1 00:00:13: Макс | adapted: new |
+| 11 | Макс | Я сделаю все в лучшем виде. | I will do everything in the best way. | #1 00:00:13: Макс | adapted: new |
 | 12 | Елена | Мы ждем ваш кулинарный шедевр. | We are waiting for your culinary masterpiece. | #1 00:00:13: Макс | adapted: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Dear friends, a moment of attention.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'dear' straight to 'attention'.
-- 'I want to introduce you to the best chef.' Notice the word order: 'I' comes first, and 'head chef' finishes the sentence.
-- 'Good evening, dear guests.' Here 'good' sets up the idea, while 'visitors' comes at the end for emphasis.
-- 'This is Maximilian, an expert in French cuisine.' You'll hear 'this' all the time in the show, here connected with 'kitchen'. And Max jumps in.
-- 'I am very glad to be here.' Listen for the word meaning 'I' right alongside 'very much' in this line.
-- 'He kindly agreed to prepare an old dish.' Notice the word order: 'he' comes first, and 'dish' finishes the sentence.
-- 'We took it from this French book.' Elena puts 'we' up front so the listener immediately catches the tone, followed by 'took'.
-- 'I chose this dish for us.' Elena puts 'I' up front so the listener immediately catches the tone, followed by 'chose'.
-- 'This is an excellent choice for tonight.' The first content word means 'this', and 'evening' rounds out the thought.
-- 'Maximilian will prepare it for us today.' Elena puts 'person name' up front so the listener immediately catches the tone, followed by 'makes'. Then Max replies.
-- 'I will do everything in the best way.' The key word here means 'I', which Max combines with 'I'll do'.
-- 'We are waiting for your culinary masterpiece.' The first content word means 'we', and 'masterpiece' rounds out the thought.
+- 'I want to introduce you to the best chef.' Elena chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'to introduce' and 'best'.
+- 'Good evening, dear guests.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'evening', combining 'good' with 'evening' and 'dear'.
+- 'This is Maximilian, an expert in French cuisine.' Russian omits the present-tense verb 'to be' here, linking 'specialist' directly with 'French', combining 'specialist' with 'French' and 'kitchen'.
+- 'I am very glad to be here.' Max puts the word for 'very much' together with 'glad' and 'be' in a crisp, natural spoken turn of phrase.
+- 'He kindly agreed to prepare an old dish.' Here Elena anchors the line on the word meaning 'kind' and builds the thought around 'agreed' and 'to cook'.
+- 'We took it from this French book.' Elena uses the perfective verb meaning 'took' to focus on the single completed result, pairing it with 'French' and 'books'.
+- 'I chose this dish for us.' Elena uses the perfective verb meaning 'chose' to focus on the single completed result, pairing it with 'dish'.
+- 'This is an excellent choice for tonight.' Russian omits the present-tense verb 'to be' here, linking 'beautiful' directly with 'choice', combining 'beautiful' with 'choice' and 'of today's'.
+- 'Maximilian will prepare it for us today.' Elena uses the perfective verb meaning 'makes' to focus on the single completed result, pairing it with 'today'.
+- 'I will do everything in the best way.' Max uses the perfective verb meaning 'I'll do' to focus on the single completed result, pairing it with 'best' and 'state'.
+- 'We are waiting for your culinary masterpiece.' Elena chooses the imperfective verb meaning 'wait for' for the ongoing action, followed by 'culinary' and 'masterpiece'.

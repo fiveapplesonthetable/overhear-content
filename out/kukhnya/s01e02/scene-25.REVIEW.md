@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Дмитрий | Вика говорит, что ты устроил драку. | Vika says that you started a fight. | #310 00:22:31: Еще он сегодня устроил драку. | adapted: Dmitry asks |
-| 2 | Аня | Мы просто дурачились на заднем дворе. | We were simply fooling around in the backyard. | #313 00:22:37: Да мы так дурачились. | adapted: Max explains |
+| 2 | Макс | Мы просто дурачились на заднем дворе. | We were simply fooling around in the backyard. | #313 00:22:37: Да мы так дурачились. | adapted: Max explains |
 | 3 | Дмитрий | Покажите мне видео этой вашей драки. | Show me the video of this fight of yours. | #315 00:22:42: Я все сняла. | adapted: Dmitry watches |
 | 4 | Дмитрий | Разве это драка? Ты даже не дрался! | Is that really a fight? You did not even fight back! | #322 00:23:07: Ну какая же это драка, а? | adapted: Dmitry laughs |
 | 5 | Дмитрий | Так что увольнять повара пока не за что. | So there is no reason to fire the cook yet. | #324 00:23:12: Так что увольнять пока его не за что. | adapted: Dmitry decides |
@@ -19,11 +19,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Шеф | Слушайте меня все: забудьте об этом видео! | Listen to me everyone: forget about this video! | #331 00:23:32: Чтобы об этом больше никто не знал. | adapted: Chef's order |
 | 8 | Шеф | Вике ещё работать здесь арт-директором. | Vika still has to work here as art director. | #332 00:23:34: но арт-директор не самый плохой | adapted: Chef defends Vika |
 | 9 | Шеф | Кто посмеет смеяться, сразу пойдёт вон! | Whoever dares laugh will immediately get out! | #333 00:23:38: Ей еще здесь работать. Понятно? | adapted: Chef threatens |
-| 10 | Аня | У каждой медали есть две стороны. | Every coin has two sides. | #335 00:23:44: У каждой медали есть две стороны, | adapted: Max reflects |
-| 11 | Аня | Однажды всё вокруг может резко измениться. | One day everything around can change drastically. | #335 00:23:44: и однажды все может перевернуться. | adapted: Fortune shifts |
-| 12 | Аня | Бывший враг неожиданно становится твоим другом. | A former enemy unexpectedly becomes your friend. | #337 00:24:00: становится твоим другом. | adapted: Friendship emerges |
-| 13 | Аня | А строгий тиран становится немного добрее. | And a strict tyrant becomes a little bit kinder. | #338 00:24:05: Ну а тот, кто казался злобным тираном, | adapted: Chef's heart |
-| 14 | Аня | Жизнь продолжается, и завтра новый день! | Life goes on, and tomorrow is a new day! | #334 00:23:42: Вот как-то так. | adapted: Closing optimism |
+| 10 | Макс | У каждой медали есть две стороны. | Every coin has two sides. | #335 00:23:44: У каждой медали есть две стороны, | adapted: Max reflects |
+| 11 | Макс | Однажды всё вокруг может резко измениться. | One day everything around can change drastically. | #335 00:23:44: и однажды все может перевернуться. | adapted: Fortune shifts |
+| 12 | Макс | Бывший враг неожиданно становится твоим другом. | A former enemy unexpectedly becomes your friend. | #337 00:24:00: становится твоим другом. | adapted: Friendship emerges |
+| 13 | Макс | А строгий тиран становится немного добрее. | And a strict tyrant becomes a little bit kinder. | #338 00:24:05: Ну а тот, кто казался злобным тираном, | adapted: Chef's heart |
+| 14 | Макс | Жизнь продолжается, и завтра новый день! | Life goes on, and tomorrow is a new day! | #334 00:23:42: Вот как-то так. | adapted: Closing optimism |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

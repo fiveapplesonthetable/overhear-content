@@ -10,13 +10,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Здрасте. | Hello. | #330 00:22:22: Здрасте | verbatim |
-| 2 | Аня | Доброе утро. | Good morning. | #330 00:22:22: Доброе утро | verbatim |
-| 3 | Аня | Это Макс? | Is this Max? | new | new: new |
+| 1 | Елена | Здрасте. | Hello. | #330 00:22:22: Здрасте | verbatim |
+| 2 | Елена | Доброе утро. | Good morning. | #330 00:22:22: Доброе утро | verbatim |
+| 3 | Елена | Это Макс? | Is this Max? | new | new: new |
 | 4 | Антон | Да, это я. | Yes, it is me. | new | new: new |
-| 5 | Аня | Я ищу его. | I am looking for him. | new | new: new |
-| 6 | Аня | Дома не могу ему дозвониться. | At home I can't reach him. | #331 00:22:24: дома не могу ему дозвониться | verbatim |
-| 7 | Аня | Где он? | Where is he? | new | new: new |
+| 5 | Елена | Я ищу его. | I am looking for him. | new | new: new |
+| 6 | Елена | Дома не могу ему дозвониться. | At home I can't reach him. | #331 00:22:24: дома не могу ему дозвониться | verbatim |
+| 7 | Елена | Где он? | Where is he? | new | new: new |
 | 8 | Антон | Я не знаю. | I don't know. | #332 00:22:27: Не знаю | verbatim |
 | 9 | Антон | Наверное, ключи висят. | Probably, the keys are hanging. | #332 00:22:27: Наверное, ключи висят | verbatim |
 | 10 | Антон | Значит, он дома. | So, he is home. | #332 00:22:27: значит, дома | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' A simple greeting to start the day.
-- 'Good morning.' She is polite but worried.
+- 'Hello.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'hello'.
+- 'Good morning.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning'.
 - 'Is this Max?' She wants to make sure she is talking to the right person.
-- 'Yes, it is me.' He confirms his identity.
-- 'I am looking for him.' She means the Chef.
-- 'At home I can't reach him.' She tried calling but there was no answer.
-- 'Where is he?' She is getting impatient.
-- 'I don't know.' He is genuinely confused.
-- 'Probably, the keys are hanging.' He notices the keys on the wall.
-- 'So, he is home.' A logical conclusion.
-- 'Do you want to come in?' He offers her to enter.
-- 'Come in.' He steps aside to let her pass.
+- 'Yes, it is me.' Russian omits the present-tense verb 'to be' here, linking 'yes' directly with 'this', combining 'yes' with 'this' and 'I'.
+- 'I am looking for him.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'am looking for'.
+- 'At home I can't reach him.' Here Elena anchors the line on the word meaning 'at home' and builds the thought around 'can' and 'to get through'.
+- 'Where is he?' Elena delivers a punchy one-word reaction built around the Russian word meaning 'where'.
+- 'I don't know.' Max delivers a punchy one-word reaction built around the Russian word meaning 'know'.
+- 'Probably, the keys are hanging.' Max puts the word for 'probably' together with 'the keys' and 'to hang' in a crisp, natural spoken turn of phrase.
+- 'So, he is home.' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'at home', combining 'then' with 'at home'.
+- 'Do you want to come in?' Max turns a statement into a question purely through rising intonation on the word meaning 'want', followed by 'to come in'.
+- 'Come in.' Max leads with the direct command form meaning 'come in' to make the point directly in conversation.
