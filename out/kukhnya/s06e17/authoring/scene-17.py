@@ -1,0 +1,50 @@
+ID = 'kukhnya-s06e17-scene-17'
+SHOW = "kukhnya"
+SEASON = 6
+EPISODE = 17
+SCENE = 17
+TITLE = 'Новый паспорт и усы  (New Passport and Mustache)'
+LEVEL = "A1 — Duolingo Section 2"
+PAIR = "ru-en"
+VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja'}
+LABELS = {'anya': 'Шеф', 'elena': 'Елена'}
+SOURCE_NAME = "Кухня (Kukhnya) S6.17"
+SOURCE_FILE = 'sources/kukhnya/s06/e17.ru.srt'
+
+INTRO = 'Chef Barinov asks if their upcoming wedding was also a cover, and Elena assures him her love is real. She gives him five minutes to say goodbye to his daughter Katya and tells him to shave off his famous mustache.'
+
+STORY = [
+    ('anya', 'А как же наша свадьба?', 'And what about our wedding?', [(267, 'А как же наша свадьба')], 'adapted'),
+    ('anya', 'Это тоже было твоё прикрытие?', 'Was that also your cover story?', [(268, 'Это тоже было прикрытие')], 'adapted'),
+    ('elena', 'Нет, я действительно тебя люблю.', 'No, I truly love you.', [(269, 'Нет, я действительно тебя люблю')], 'adapted'),
+    ('elena', 'Поэтому я помогаю тебе сбежать.', 'That is why I am helping you escape.', [(270, 'помогаю тебе сбежать')], 'adapted'),
+    ('elena', 'Возьми, это твой новый паспорт.', 'Take this, it is your new passport.', [(271, 'Возьми. Это твой новый паспорт')], 'adapted'),
+    ('elena', 'Ты должен срочно покинуть страну.', 'You must leave the country urgently.', [(272, 'должен покинуть страну')], 'adapted'),
+    ('elena', 'По ветке доберёшься до аэропорта.', 'Along the line you will reach the airport.', [(274, 'ты доберешься до аэропорта')], 'adapted'),
+    ('anya', 'Там в номере связаны люди.', 'People are tied up in the room over there.', [(275, 'там в номере связаны люди')], 'adapted'),
+    ('elena', 'Не волнуйся, я позабочусь о них.', 'Do not worry, I will take care of them.', [(276, 'Не волнуйся'), (277, 'Я о них позабочусь')], 'adapted'),
+    ('anya', 'Мне надо попрощаться с Катей.', 'I need to say goodbye to Katya.', [(280, 'мне надо попрощаться с Катей')], 'adapted'),
+    ('elena', 'Хорошо, даю тебе немного времени.', 'Alright, I give you a little time.', [(281, 'Хорошо, даю тебе')], 'adapted'),
+    ('elena', 'И не забудь сбрить усы.', 'And do not forget to shave off your mustache.', [(282, 'Не забудь сбрить усы')], 'adapted'),
+]
+
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+
+WALK = [
+    (0, None, "'And what about our wedding?' In Russian, the idea of 'and' flows naturally into 'wedding' without extra filler words."),
+    (1, None, "'Was that also your cover story?' Notice how Russian expresses 'this' and 'cover story' with crisp inflection rather than helper words. Elena answers right away."),
+    (2, None, "'No, I truly love you.' Elena anchors the line on 'no', while 'like' completes the thought."),
+    (3, None, "'That is why I am helping you escape.' The grammar packs 'therefore' and 'to escape' into a tight, idiomatic kitchen exchange."),
+    (4, None, "'Take this, it is your new passport.' Notice how Russian expresses 'take' and 'passport' with crisp inflection rather than helper words."),
+    (5, None, "'You must leave the country urgently.' Here the Russian phrasing highlights 'you' before landing on 'country'."),
+    (6, None, "'Along the line you will reach the airport.' The meaning hinges on 'according to' working together with 'airport' in spoken Russian."),
+    (7, None, "'People are tied up in the room over there.' Chef Barinov brings out the contrast between 'there' and 'number' in a few short words. Elena answers right away."),
+    (8, None, "'Do not worry, I will take care of them.' Here the Russian phrasing highlights 'not' before landing on 'them'."),
+    (9, None, "'I need to say goodbye to Katya.' In Russian, the idea of 'to me' flows naturally into 'with' without extra filler words."),
+    (10, None, "'Alright, I give you a little time.' Spoken Russian keeps this brisk, leaning on 'well' and finishing on 'time'."),
+    (11, None, "'And do not forget to shave off your mustache.' Elena anchors the line on 'and', while 'mustache' completes the thought."),
+]
+
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = 'Freshly shaved, Chef Barinov runs into the kitchen and dining hall, where the dream becomes so absurd he finally realizes none of it is real. See you in the next scene.'
+CLOSING = ('anya', 'Зачем мне сбривать усы?')

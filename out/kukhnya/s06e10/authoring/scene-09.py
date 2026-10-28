@@ -1,0 +1,50 @@
+ID = 'kukhnya-s06e10-scene-09'
+SHOW = "kukhnya"
+SEASON = 6
+EPISODE = 10
+SCENE = 9
+TITLE = 'Очередь в душ и диагноз  (Shower Line and Diagnosis)'
+LEVEL = "A1 — Duolingo Section 2"
+PAIR = "ru-en"
+VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'vrach': 'angelina'}
+LABELS = {'anya': 'Гуля', 'lyova': 'Лёва', 'vrach': 'Врач'}
+SOURCE_NAME = "Кухня (Kukhnya) S6.10"
+SOURCE_FILE = 'sources/kukhnya/s06/e10.ru.srt'
+
+INTRO = "At dawn in Ainura's apartment, Gulya wakes Lyova to tell him she saved him third place in the long line for the bathroom. Back at the hotel, Eleonora's psychiatrist warns Mikhail and Barinov that Eleonora must not see her ex-husband anywhere."
+
+STORY = [
+    ('anya', 'Лёва, просыпайся и вставай скорее с кровати.', 'Lyova, wake up and get out of bed quickly.', [(127, 'Лёва'), (128, 'Вставай, Лёв')], 'adapted'),
+    ('anya', 'Скажи, ты сейчас утром в душ пойдёшь?', 'Tell me, are you going to the shower right now this morning?', [(129, 'Ты в душ пойдёшь')], 'adapted'),
+    ('anya', 'Я тебе там специально очередь заранее заняла.', 'I specially saved a spot in line for you there in advance.', [(130, 'Я тебе очередь заняла')], 'adapted'),
+    ('anya', 'Давай, беги скорее, ты сейчас третий в очереди.', 'Come on, run quickly, you are third in line right now.', [(131, 'Давай, давай, скорее, ты третий')], 'adapted'),
+    ('lyova', 'Мне надо сегодня же срочно искать квартиру!', 'I need to urgently look for an apartment today!', [(132, 'Надо срочно искать квартиру')], 'adapted'),
+    ('vrach', 'Скажите, вам сейчас стало хоть немного легче?', 'Tell me, do you feel at least a little better right now?', [(133, 'Легче')], 'adapted'),
+    ('vrach', 'А может быть, мы пойдём от обратного?', 'Or maybe we will take the opposite approach?', [(134, 'А может, пойдём от обратного')], 'adapted'),
+    ('vrach', 'Попробуйте спокойно понять и простить своего мужа.', 'Try to calmly understand and forgive your husband.', [(135, 'Попробуйте понять и простить своего мужа')], 'adapted'),
+    ('anya', 'Всё-таки очень зря я тебя назад взяла!', 'Still, it was a big mistake for me to hire you back!', [(136, 'Все-таки зря я тебя назад взяла')], 'adapted'),
+    ('vrach', 'Самое главное — исключить бывшего мужа из жизни.', 'The most important thing is to exclude the ex-husband from her life.', [(137, 'Самое главное – исключить бывшего мужа из ее жизни')], 'adapted'),
+    ('vrach', 'Чтобы ни в журналах, ни по телевизору не видела.', 'So that she does not see him either in magazines or on television.', [(138, 'Чтобы ни в журнала, ни по телевизору она его не видела')], 'adapted'),
+    ('vrach', 'Иначе для всех это будет просто небезопасно.', 'Otherwise it will simply be unsafe for everyone.', [(139, 'Это не безопасно')], 'adapted'),
+]
+
+OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
+
+WALK = [
+    (0, None, "'Lyova, wake up and get out of bed quickly.' Notice the reflexive suffix on the verb meaning 'wake up', turning the action back on the subject."),
+    (1, None, "'Tell me, are you going to the shower right now this morning?' The grammar packs 'say' and 'to go' into a tight, idiomatic kitchen exchange."),
+    (2, None, "'I specially saved a spot in line for you there in advance.' Gulya anchors the line on 'I', while 'to borrow' completes the thought."),
+    (3, None, "'Come on, run quickly, you are third in line right now.' Spoken Russian keeps this brisk, leaning on 'come on' and finishing on 'queue'. Lyova answers right away."),
+    (4, None, "'I need to urgently look for an apartment today!' Lyova anchors the line on 'to me', while 'apartment' completes the thought."),
+    (5, None, "'Tell me, do you feel at least a little better right now?' The grammar packs 'say' and 'easier' into a tight, idiomatic kitchen exchange."),
+    (6, None, "'Or maybe we will take the opposite approach?' Notice how Russian expresses 'and' and 'the opposite' with crisp inflection rather than helper words."),
+    (7, None, "'Try to calmly understand and forgive your husband.' the doctor brings out the contrast between 'try' and 'calmly' in a few short words."),
+    (8, None, "'Still, it was a big mistake for me to hire you back!' The meaning hinges on 'after all' working together with 'picked up' in spoken Russian."),
+    (9, None, "'The most important thing is to exclude the ex-husband from her life.' The grammar packs 'the most' and 'life' into a tight, idiomatic kitchen exchange."),
+    (10, None, "'So that she does not see him either in magazines or on television.' the doctor anchors the line on 'so that', while 'saw' completes the thought."),
+    (11, None, "'Otherwise it will simply be unsafe for everyone.' In Russian, the idea of 'otherwise' flows naturally into 'unsafe' without extra filler words."),
+]
+
+TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
+OUTRO = "Despite the doctor's warning, Mikhail comes up with a bold plan to bring Nagiyev straight to the hotel, while Nikita gives Denis some cunning romantic advice. See you in the next scene."
+CLOSING = ('lyova', 'Надо срочно искать новую квартиру!')
