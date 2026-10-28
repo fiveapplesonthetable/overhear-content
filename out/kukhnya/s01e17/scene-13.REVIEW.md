@@ -33,8 +33,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you have separate sections here?' 'At you here' stands for 'do you have'. 'Division' is the word for the split.
 - 'Yes, we have two dining rooms.' After 'two', 'hall' goes in the singular with an 'a' ending. 'At us there is' stands for 'we have'.
 - 'Well I never, there are even two rooms!' The first two words form a fixed phrase meaning 'what d'you know'. 'Even' tags on before 'two'.
-- 'And the air conditioner works well here too.' The word for 'air conditioner' comes from English. Machines 'work' in Russian too.
-- 'It's a regular palace of an eastern sheikh.' Both 'eastern' and 'sheikh' end in 'ogo' and 'a', the 'of' form. 'Real' is the same as the word for 'genuine'.
+- 'And the air conditioner works well here too.' 'Air conditioner' comes from English. Machines 'work' in Russian too.
+- 'It's a regular palace of an eastern sheikh.' Both 'eastern' and 'sheikh' end in 'ogo' and 'a', the 'of' form. 'Real' is the same as 'genuine'.
 - 'You have very funny jokes today.' 'Funny' is built from the word for laughter. The hostess uses polite 'you' and doesn't smile.
 - 'We need a plain room for smokers.' 'Simple' gives 'plain'. 'Needed' is masculine to go with the room.
 - 'Very well, please follow me.' The first word is a formal 'please' and the next is the verb 'to pass'. 'Behind me' means 'after me'.

@@ -27,9 +27,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good evening, may I sit at the table?' 'Kind evening' is the literal greeting. 'Sit down' is the verb for the moment of sitting, and 'table' is shrunk to a 'little table' with an 'ik' ending, which is typical of restaurants.
-- 'Yes, please, sit down here.' The command ends in 'sya', so it's 'seat yourselves'. 'Here' means 'to here', as the table is where they'll sit, and it's not the same as the word for 'here' as a place.
+- 'Yes, please, sit down here.' The command ends in 'sya', so it's 'seat yourselves'. 'Here' means 'to here', as the table is where they'll sit, and it's not the same as 'here' as a place.
 - 'Are you ready to place an order already?' Russian 'makes' an order, much as English does. 'Ready' is in the plural, polite form, with a short ending.
-- 'I want to order this expensive cognac.' 'Expensive' is also the word for 'dear', as in a dear friend. The ending on it matches the masculine cognac.
+- 'I want to order this expensive cognac.' 'Expensive' is also 'dear', as in a dear friend. The ending on it matches the masculine cognac.
 - 'And I will order the delicious apple strudel.' 'I will order' changes the last consonant, so 'z' turns into 'zh'. 'Apple' is built from the word for apple, with an 'ny' ending that turns it into 'apple-y'.
 - 'I always find illegal workers everywhere.' 'Always' and 'everywhere' are a neat pair of small words. The 'ne' at the front of 'legal' works like 'il' in English.
 - 'Do you like your job very much?' Russian doesn't say 'you like' here. It says 'to you is pleasing', so the job is the one doing the pleasing.

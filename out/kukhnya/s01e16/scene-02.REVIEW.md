@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you laughing at me?' Russian laughs 'over' someone, so the little word 'over' stands where English puts 'at'. The inspector also throws in a small 'what' at the start, which works like our 'what, are you kidding me?'.
 - 'This one is not suitable.' The Russian for 'suits' literally means 'walks up to', which makes sense if you picture something that comes up to the mark. Here it's negated, and the inspector says 'this one' with the masculine word for it.
 - 'Here is a normal fire extinguisher.' Vika points with the little word 'vot', 'here you go', and she doesn't need any 'is' after it. Russian's 'normal' you will recognise at once.
-- 'And where is its seal?' Its spelling is 'ego', but Russians say 'yevo', so the g sounds like a v. The word for 'seal' also means a dental filling, which is the same idea: something that plugs a gap.
+- 'And where is its seal?' Its spelling is 'ego', but Russians say 'yevo', so the g sounds like a v. 'Seal' also means a dental filling, which is the same idea: something that plugs a gap.
 - 'Good afternoon.' Nagiyev walks in with the polite greeting, literally 'kind day'. You can use it from late morning until evening, which makes it very handy.
 - 'May I find out one thing?' The Russian for 'may' or 'it is possible' is the key to asking permission in Russian, and you'll use it a lot. 'One' changes its ending here to match Russian's 'thing'.
 - 'Why do you have such an interest in the restaurant?' The Russian for 'why' is a single piece, and 'you have' is again 'at you'. The little word before 'restaurant' means 'toward', and the restaurant takes an ending to go with it.
 - 'We are fighting bad management.' Russian's 'management' is built from 'hand' and 'lead', so it is leadership in the literal sense. Russian says 'fight with', where English just says 'fight'.
-- 'There was a call to my boss.' The word for 'call' comes from the verb for ringing a bell, so a phone call is a ring. Both 'my' and 'boss' end in 'u' sounds because the call went to him.
+- 'There was a call to my boss.' 'Call' comes from the verb for ringing a bell, so a phone call is a ring. Both 'my' and 'boss' end in 'u' sounds because the call went to him.
 - 'From the neighboring restaurant.' The Russian for 'neighbor' is the root of the one for 'next door', and the 'ogo' ending is the 'of' form, matching the restaurant it describes.
 - 'Everything is clear.' The word is a one-word reply that Russians use for 'I see' or 'got it', and it means 'understandable' at heart. Nagiyev has put two and two together.
 - 'Well then, until tomorrow.' The small word for 'until' plus Russian's 'tomorrow' is the standard way to say goodbye till the next day. The inspector sounds almost cheerful, which is the threatening part.

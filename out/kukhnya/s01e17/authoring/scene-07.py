@@ -43,7 +43,7 @@ WALK = [
     (8, None, "'I'll go and get us a drink, okay?' 'I'll go, I'll bring' are two verbs in a row, with no 'and'. 'Okay' is borrowed straight from English."),
     (9, None, "'Vika and I work together.' Russian says 'we with Vika' for 'Vika and I', and the name takes an 'oy' ending after 'with'. It's a common pattern that surprises English speakers."),
     (10, None, "'We are just colleagues.' 'Colleagues' is plural, and the word is borrowed. Though it ends in 'a' in the singular, the word applies to a man or a woman."),
-    (11, None, "'Well, here comes the fun.' The opening words are 'and here', which turns up everywhere. The word for 'fun' comes from the word for 'cheerful'."),
+    (11, None, "'Well, here comes the fun.' The opening words are 'and here', which turns up everywhere. 'Fun' comes from 'cheerful'."),
     (12, None, "'Let's have a drink!' 'Let's' is made from the polite plural of 'give' plus a 'we' form. That 'we' form of a finished verb is how to say 'let's do it'."),
     (13, None, "'Let's drink to the meeting.' A toast formula, with 'for' standing in for 'to'. Max repeats it to move the evening forward."),
 ]

@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I'll go and get us a drink, okay?' 'I'll go, I'll bring' are two verbs in a row, with no 'and'. 'Okay' is borrowed straight from English.
 - 'Vika and I work together.' Russian says 'we with Vika' for 'Vika and I', and the name takes an 'oy' ending after 'with'. It's a common pattern that surprises English speakers.
 - 'We are just colleagues.' 'Colleagues' is plural, and the word is borrowed. Though it ends in 'a' in the singular, the word applies to a man or a woman.
-- 'Well, here comes the fun.' The opening words are 'and here', which turns up everywhere. The word for 'fun' comes from the word for 'cheerful'.
+- 'Well, here comes the fun.' The opening words are 'and here', which turns up everywhere. 'Fun' comes from 'cheerful'.
 - 'Let's have a drink!' 'Let's' is made from the polite plural of 'give' plus a 'we' form. That 'we' form of a finished verb is how to say 'let's do it'.
 - 'Let's drink to the meeting.' A toast formula, with 'for' standing in for 'to'. Max repeats it to move the evening forward.

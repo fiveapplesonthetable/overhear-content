@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Another illegal.' 'One more' is the way to say 'another'. The 'ne' prefix does the same job as 'il' in English.
 - 'Good grief, where do we put you?' The first word is 'Lord', used the way we say 'good grief'. 'Where to' asks for a direction, and the 'put' word is used for getting rid of someone.
 - 'You'll sit it out in the toilet.' The 'ot' on the front means 'out', as in sitting through something until it is over. The ending in 'sya' makes it 'sit yourselves out'.
-- 'Then you'll leave through the entrance.' 'Entrance' is built as an 'in-way', and when you swap the first part for 'out' you get the word for 'exit'. 'Go away' is a finished action, which gives the line a future meaning.
+- 'Then you'll leave through the entrance.' 'Entrance' is built as an 'in-way', and when you swap the first part for 'out' you get 'exit'. 'Go away' is a finished action, which gives the line a future meaning.
 - 'They are on duty at the entrance.' Russians say 'on the entrance' where English says 'at'. The ending is an 'e', the one that says where.
 - 'Let him sit in the hall for a while.' The 'po' at the front of 'sit' makes it 'sit a bit'. The hall takes an 'e' because he'll be in it.
 - 'Go to the bar and take some clothes.' The first word means going somewhere and coming straight back. 'Clothes' is singular in Russian, so it's 'take clothing'.

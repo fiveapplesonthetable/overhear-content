@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Nastya, quickly clear the fifth table!' The 'u' at the start of 'clear' means 'away'. 'Fifth' is made from the number five, and the table is a 'little table', as restaurants usually say.
-- 'Have you completely lost your nerve at this job?' The verb comes from the word for 'cheeky' and means to become brazen. Vika speaks to the whole group, so it's 'you' in the plural.
+- 'Have you completely lost your nerve at this job?' The verb comes from 'cheeky' and means to become brazen. Vika speaks to the whole group, so it's 'you' in the plural.
 - 'You have to work here, not cuddle.' 'Necessary' plus the plain 'to work' means 'you must work'. The small 'a ne' means 'and not', and the last word is a slangy one for cuddling.
 - 'We were just calmly talking, Victoria.' Kostya uses her first name with her patronymic, the way you talk to a boss. 'Were talking' has the plural 'li'.
 - 'Any relationships are strictly forbidden here!' 'At us' is used for 'with us' or 'here at our place'. 'Forbidden' is a plural short form, matching the plural 'relationships'.
 - 'We haven't done anything bad.' Again Russian piles the negatives, with 'nothing' and 'not' together. The ending on 'bad' is the one that follows 'nothing'.
 - 'Quickly, go and work in the hall.' The command 'go' is polite plural. 'Hall' with no ending is the direction.
-- 'Vika, why are you so tense?' Max uses the casual 'you' when he speaks to Vika alone. 'Tense' is feminine, since it describes her, and comes from the word for 'tension'.
-- 'I have so many difficult tasks.' 'At me' stands for 'I have'. After 'many', the word for 'matters' loses its ending entirely.
-- 'Shall we go to an awesome place tonight?' The 'we' form of 'go' can be an invitation. 'Awesome' is a slangy word from the word for 'class'.
+- 'Vika, why are you so tense?' Max uses the casual 'you' when he speaks to Vika alone. 'Tense' is feminine, since it describes her, and comes from 'tension'.
+- 'I have so many difficult tasks.' 'At me' stands for 'I have'. After 'many', 'matters' loses its ending entirely.
+- 'Shall we go to an awesome place tonight?' The 'we' form of 'go' can be an invitation. 'Awesome' is a slangy word from 'class'.
 - 'Max, I'm too tired.' The 'a' on 'tired' says Vika is a woman. 'Too' comes before 'strongly' to make 'too much'.
 - 'You'll rest there wonderfully with me.' 'Will rest' is a finished-action future. 'With me' squeezes in a helper vowel.
 - 'We'll see, I need to think about it.' The first word is the 'we' form meaning 'we'll see'. 'About this' picks up a 'b' before a vowel.

@@ -27,12 +27,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It's hard to fix the mistakes of a lie.' 'Hard' is the word with an 'o' ending, used for things that are complicated. 'Mistakes' is plural.
-- 'A lie always creates a new lie.' The word for 'lie' is feminine and ends in a soft sign. It looks the same as the object form.
+- 'A lie always creates a new lie.' 'Lie' is feminine and ends in a soft sign. It looks the same as the object form.
 - 'And sometimes finding a way out is impossible.' 'Exit' also means 'way out'. 'Impossible' is made by putting 'ne' in front of 'possible'.
 - 'The main thing is to tell the truth.' The dash takes the place of 'is'. 'Truth' takes a 'u' ending after 'speak'.
 - 'You must believe in your strength.' Russians believe 'in' things, with a small word for 'in'. 'Strength' is plural, as in 'strengths'.
-- 'And believe in your true self.' The word for 'self' is a special one. 'True' means 'real', and takes an ending to go with it.
-- 'I want to start everything over.' The word for 'anew' is built from 'new', with a prefix. 'Start' is the finished kind.
+- 'And believe in your true self.' 'Self' is a special one. 'True' means 'real', and takes an ending to go with it.
+- 'I want to start everything over.' 'Anew' is built from 'new', with a prefix. 'Start' is the finished kind.
 - 'You can fix everything, Max.' 'You can' uses the casual 'you'. 'Fix' is a finished action.
 - 'I'm starting everything with a clean slate.' Russian says 'from a clean sheet' where English says 'slate'. 'Sheet' means a sheet of paper.
 - 'You have a good future ahead.' 'Ahead' is one word. 'Future' is a neuter word that looks like an adjective.

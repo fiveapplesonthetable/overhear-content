@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am a major of the migration service.' Russian has no 'am' here, so the sentence is just 'I major'. The 'oy' ending on 'service' and on its describing word is the 'of' form.
 - 'Can we go to the office?' 'We can' is one word. After the 'go' word comes the 'to the office', and the office itself keeps its form because it's a direction.
 - 'Unfortunately, I cannot.' The opening is a fixed phrase that really means 'to my regret'. 'I can't' is the irregular 'I' form, so it's worth learning whole.
-- 'I need to cook for the guests.' Russian says 'to me needed', not 'I need'. The word for 'guests' ends in 'ey', which is the plural after 'for'.
+- 'I need to cook for the guests.' Russian says 'to me needed', not 'I need'. 'Guests' ends in 'ey', which is the plural after 'for'.
 - 'Alright, I'll wait for you here.' The Russian for 'wait' is the kind that means to wait a while, and its ending is the 'I' one. The major is polite and in no rush, which is the worrying part.

@@ -28,11 +28,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Max, hold the fish tighter!' The command 'hold' is the casual one. 'Tighter' is a single word, with the 'che' ending doing the work of 'er'.
 - 'Chef, I'm holding everything very tightly.' 'I hold' is one word, and 'tightly' ends in 'o', like many of the 'how' words. 'Everything' is a tiny word that you'll hear all the time.
-- 'We've almost reached the restaurant.' 'Almost' and 'already' are the two small words. The word for 'came' is the one for arriving on foot, and 'to the restaurant' is a direction, so the restaurant doesn't change.
+- 'We've almost reached the restaurant.' 'Almost' and 'already' are the two small words. 'Came' is the one for arriving on foot, and 'to the restaurant' is a direction, so the restaurant doesn't change.
 - 'Are you really going to the neighboring restaurant?' 'Really' is a long word, but you can hear 'actual' in it. 'Will go' is a polite plural, since Max is speaking to the chef.
 - 'I have nothing better to do, Max.' The Russian is 'to do more nothing', which is an idiom for a sneer. 'To me' stands in for 'I'.
 - 'They say they cook pretty good dishes there.' 'They say' has no 'they', so it's the way to say 'people say'. 'Not bad' is one word, here in the plural form, and 'dishes' is plural too.
-- 'Who told you such nonsense?' 'Who' comes first, then 'to you', since you tell things 'to' someone. 'Nonsense' is built from the word for 'stupid'.
+- 'Who told you such nonsense?' 'Who' comes first, then 'to you', since you tell things 'to' someone. 'Nonsense' is built from 'stupid'.
 - 'A good friend of mine told me.' Russian says 'one my good friend', where 'one' means 'a certain'. 'Told' is the ongoing kind, as in a chat over time.
 - 'Your friend understands nothing about food.' Russian doubles the negative: 'nothing' and 'not' appear together. You understand 'in' food, so the little word for 'in' comes before 'food'.
 - 'Probably you're right, chef.' 'Probably' is one word. 'Right' is a short form here, in the plural polite form.

@@ -31,11 +31,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And why is your birthday in February?' Months start with a small letter in Russian, and this one takes an 'e' after 'in'. 'Birthday' is 'day of birth'.
 - 'Isn't your birthday today?' The 'not' goes right before 'today', so only that word is denied. It sounds suspicious, which it should.
 - 'I wanted to do something nice for you.' 'Nice' is used as a noun, so it means 'something nice'. 'Do to you' is the usual pattern.
-- 'Did you lie to us about the holiday?' The word for 'lied' is the kind that means a small lie. 'About' is a tiny word.
+- 'Did you lie to us about the holiday?' 'Lied' is the kind that means a small lie. 'About' is a tiny word.
 - 'I wanted to forget all the grudges.' 'Grudges' is plural. 'Forget' is a finished action.
 - 'But you mustn't lie to friends.' The 'not allowed' word is followed by the plain 'to lie'. 'To friends' has a plural ending.
 - 'Any lie is bad.' 'Any' is a single word. The dash stands in for 'is'.
-- 'I'm very much in the wrong before you.' The word for 'guilty' is a short form with a masculine ending. 'Before you' picks up an 'ami' ending.
+- 'I'm very much in the wrong before you.' 'Guilty' is a short form with a masculine ending. 'Before you' picks up an 'ami' ending.
 - 'You have to answer for any deceit.' 'Answer' is the word you use for being responsible. 'For' brings the next word into its object form.
-- 'The truth always comes out.' The word for 'comes out' means 'opens itself', with a 'sya' ending. It's a neat way to say that truths emerge.
-- 'You end up paying for any deception.' 'It comes to paying' is the structure. The word for 'any' is the same as before.
+- 'The truth always comes out.' 'Comes out' means 'opens itself', with a 'sya' ending. It's a neat way to say that truths emerge.
+- 'You end up paying for any deception.' 'It comes to paying' is the structure. 'Any' is the same as before.

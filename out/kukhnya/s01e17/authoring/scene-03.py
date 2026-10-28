@@ -40,8 +40,8 @@ WALK = [
     (6, None, "'Your money is with the footballer Magidi right now.' 'At the footballer' stands for 'with the footballer'. 'Your money' is plural, so 'your' ends in 'i'."),
     (7, None, "'He didn't score a goal, so what has he got to do with it?' Russian says 'score' with a verb that really means 'hammer in'. 'What has he to do with it' is a fixed phrase, and a handy one."),
     (8, None, "'Ask him directly for your money.' The phrase 'from him' picks up an extra 'n' after 'from'. That 'n' appears on all such words after a little word like 'from' or 'at'."),
-    (9, None, "'You promised a new seasonal dish, Viktor.' 'New' and 'seasonal' both end in 'oe', the neuter, because the word for 'dish' is neuter. Vika is using his first name, which she doesn't often do."),
+    (9, None, "'You promised a new seasonal dish, Viktor.' 'New' and 'seasonal' both end in 'oe', the neuter, because 'dish' is neuter. Vika is using his first name, which she doesn't often do."),
     (10, None, "'When money is needed, you always promise a lot.' 'You' here is anyone, so no word for it appears. 'Needed' is a plural, because it's about the plural 'money'."),
     (11, None, "'Tomorrow I expect either the money or the dish.' 'I wait' also means 'I expect'. Both the money and the dish come after it, joined by a small word for 'or'."),
-    (12, None, "'Fine, Vika, I'll think of something.' The word 'something' is built with a small tail that makes 'what' mean 'anything'. 'Think of' means to invent, from the word for 'think'."),
+    (12, None, "'Fine, Vika, I'll think of something.' The word 'something' is built with a small tail that makes 'what' mean 'anything'. 'Think of' means to invent, from 'think'."),
 ]

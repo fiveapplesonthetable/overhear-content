@@ -35,11 +35,11 @@ WALK = [
     (2, None, "'Only this isn't my pâté.' The first word can mean 'only' or 'but', and here it means 'but'. The 'not' is in front of 'my'."),
     (3, None, "'What?' Max says 'how?', which is what Russians say when they are stunned. It is just one word."),
     (4, None, "'The same texture.' 'The same' is a pair of tiny words, with the 'a' ending to match the feminine noun. 'Texture' is a borrowed word, and a long one."),
-    (5, None, "'And I got the ingredients right.' The word for 'composition' stands for ingredients, as in what a thing consists of. Max puts it first, which gives it extra weight."),
+    (5, None, "'And I got the ingredients right.' 'Composition' stands for ingredients, as in what a thing consists of. Max puts it first, which gives it extra weight."),
     (6, None, "'Wait.' This is the polite command, with the 'ite' ending. Max is speaking to his boss, so he stays polite."),
     (7, None, "'What goes into your pâté?' The ingredients 'enter' it, which is how Russians ask what's inside. 'Your' is the polite masculine form."),
     (8, None, "'It's a secret.' There's no 'is' and no 'a'. It's just 'this secret', and Barinov keeps it short."),
-    (9, None, "'Let's go.' The 'we' form of the word for 'go' doubles as 'let's go'. It's a quick, casual invitation."),
+    (9, None, "'Let's go.' The 'we' form of 'go' doubles as 'let's go'. It's a quick, casual invitation."),
     (10, None, "'Let's have a look.' This is the 'we' form again, now of 'look', so it means 'we'll see' too. Barinov can't resist a dramatic pause."),
     (11, None, "'Okay.' It's a single word, and Max says it quietly. He doesn't yet know what he'll find."),
 ]

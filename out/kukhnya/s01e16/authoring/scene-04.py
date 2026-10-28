@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'I have five minutes.' Russian has no 'I have' here, so the line says 'at me there is'. After 'five' the word for minutes loses its ending, one of those number rules you simply absorb."),
     (6, None, "'I wanted to learn from you.' The 'l' on the end of 'wanted' tells you the speaker is a man; a woman would add an 'a'. The little word 'u' appears again, this time meaning 'from you'."),
     (7, None, "'Go work.' Two commands side by side with no 'and' between them, which Russians do all the time. They're short, flat and rude."),
-    (8, None, "'And can I try it?' The word for 'is it possible' is the way to ask permission, and Max slips it in cheekily. The verb at the end is for tasting rather than for any old trying."),
+    (8, None, "'And can I try it?' 'Is it possible' is the way to ask permission, and Max slips it in cheekily. The verb at the end is for tasting rather than for any old trying."),
     (9, None, "'No, you cannot.' This is the exact opposite of the word Max just used, and it means 'not allowed'. It's the most useful 'no' in Russian for rules and signs."),
     (10, None, "'Why?' It is one word, and it is the same 'why' every child uses. Max isn't going to give up that easily."),
     (11, None, "'Because I said so.' The first two words are 'because', literally 'for that, what'. The ending on 'said' is the masculine 'l' again."),

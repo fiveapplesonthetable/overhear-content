@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Everything is in order with you.' The first two words are the 'at you' that Russian uses where we say 'you have'. It's a happy ending to a long inspection."),
-    (1, None, "'We do everything right.' Russian's 'everything' has an 'o' ending to say 'all of it', and 'right' is the word for 'correctly'. The ending on 'do' is the one for 'we'."),
+    (1, None, "'We do everything right.' Russian's 'everything' has an 'o' ending to say 'all of it', and 'right' is 'correctly'. The ending on 'do' is the one for 'we'."),
     (2, None, "'Thank you very much.' The Russian for 'thanks' is a noun, so Russian's 'big' has to match it. Elena's 'to you' at the end is polite."),
     (3, None, "'You really surprised me.' The Russian for 'me' changes its shape when it is the one being surprised. The verb is the finished kind, so it's about one moment, not a habit."),
     (4, None, "'Not a single cook without documents.' The first two words mean 'not even one' and are followed by the 'of' form for the cook. 'Without' is another small word that brings a particular ending after it."),
@@ -39,7 +39,7 @@ WALK = [
     (6, None, "'It was very pleasant for me.' The little middle word, 'was', is the neuter form since no one is actually doing it. 'To me' is how Russian puts it: the pleasure happens to me, rather than being something I do."),
     (7, None, "'Shall we go to another restaurant?' The 'we' form of 'go' can also mean 'let's go', and a rising question makes it an invitation. 'Another' matches the masculine word for 'restaurant'."),
     (8, None, "'Claude Monet is right nearby.' The Russian spelling of the restaurant's name looks different from the French. The first word means 'next door', and then 'there is'."),
-    (9, None, "'Excellent, I love French cuisine.' 'I love' is one word with the ending that means 'I', so no 'I' is needed. 'Cuisine' is also the word for 'kitchen', which is the title of this show."),
+    (9, None, "'Excellent, I love French cuisine.' 'I love' is one word with the ending that means 'I', so no 'I' is needed. 'Cuisine' is also 'kitchen', which is the title of this show."),
     (10, None, "'An inspection is coming to us!' Just like the inspection earlier that 'went on', here it 'goes' toward us. Barinov is announcing disaster in four words."),
     (11, None, "'Everyone without documents, out!' The last word is a single-syllable shove, 'out' or 'get lost'. It's a shout, and it's the opposite of 'vot', 'here you are'."),
 ]

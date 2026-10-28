@@ -31,12 +31,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There will be a war for you.' The words run in a different order from English: 'will be, to you, war'. The little word for 'to you' carries the threat, as if the war is being delivered to them.
 - 'Hello, good afternoon.' The first word is what Russians say when they pick up the phone or call someone. It sounds friendly, and Nagiyev's sweet voice is what makes it funny.
 - 'What do they pay you money for?' 'Money' is always plural in Russian, one of those words that never has a singular. 'For what' is two small words that work as a complaint.
-- 'Where are you looking?' This one uses the word for 'where to', not 'where at'. Russians have two different words for the two ideas, and the first is the one for direction.
+- 'Where are you looking?' This one uses 'where to', not 'where at'. Russians have two different words for the two ideas, and the first is the one for direction.
 - 'There are migrants in my courtyard.' Russian drops the 'are' here, so it is just 'in my courtyard, migrants'. 'Courtyard' takes an 'e' ending after the Russian for 'in'.
 - 'From the restaurant Arcobaleno.' The Russian spelling bends the Italian name to fit Russian sounds. The small word for 'from' and an ending on 'restaurant' tell you where the migrants supposedly come from.
 - 'They are slaughtering a live ram.' Russian's 'live' comes from the Russian for 'to live', and the 'ogo' and 'a' endings on 'live' and 'ram' show he is talking about a living animal being acted on.
 - 'Are you sleeping over there?' Russian's 'sleep' has an ending that says 'you', and the little word for 'there' makes it sarcastic. It's a rude question, meant to sting the official.
-- 'Come quickly.' The ending on the first word makes it an order to more than one person, or a polite one to a stranger. The word for 'quickly' ends in 'o', the same way as 'badly' did earlier in this episode.
+- 'Come quickly.' The ending on the first word makes it an order to more than one person, or a polite one to a stranger. 'Quickly' ends in 'o', the same way as 'badly' did earlier in this episode.
 - 'Arcobaleno.' He repeats the name so the official can write it down. Spelling out a name is the same trick on any phone line.
 - 'What are you doing?' The ending on the Russian for 'do' says 'you', polite or plural. Barinov has caught him mid-call and is clearly amused.
 - 'I am solving our problems.' 'I solve' is one word, and Russian's 'our' has the ending that goes with 'problems'. Nagiyev sounds quite pleased with himself.

@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you very much, my loyal friend.' 'Thanks' is neuter, so 'big' ends in 'oe'. 'Loyal' is the word you'd use for a faithful dog.
 - 'I also congratulate you from the heart!' Russians say 'from the soul' where English says 'from the heart'. 'Also' is a short word before 'congratulate'.
 - 'Thank you, Nastya, I'm very pleased.' 'To me pleasant' is the Russian pattern, and it works for anything you're glad about. 'Very' goes before it.
-- 'And here is a gift for you.' The word for 'gift' comes from the verb for giving. 'And here' sets up the present.
+- 'And here is a gift for you.' 'Gift' comes from the verb for giving. 'And here' sets up the present.
 - 'What kind of nice tickets are these?' 'What kind of' is made with 'za' after 'what'. 'Beautiful' is stronger than 'nice', and plural to match 'tickets'.
 - 'These are tickets for a good evening concert.' 'Tickets for' takes a small word 'on'. 'Evening' is an adjective made from the word for evening.
 - 'We'll have a great time together tonight.' 'Have fun' is built from the word for cheerful, plus 'sya'. 'Together' is a handy word.
 - 'You, me and Nastya will go there.' The verb comes first, then the list. Between 'you' and 'me' there's no 'and'.
 - 'We'll be dancing there all night!' 'Will be dancing' is 'will be' plus the plain 'dance'. 'All night' is 'all' plus 'night', with no 'during'.
-- 'Thanks, guys, you are real friends.' 'Friends' is irregular, so it looks different from 'friend'. 'Real' is the word for 'genuine'.
+- 'Thanks, guys, you are real friends.' 'Friends' is irregular, so it looks different from 'friend'. 'Real' is 'genuine'.
 - 'Come on, it's your holiday!' 'Come on' is a casual 'no problem'. 'At you holiday' stands for 'you have a holiday'.
 - 'After all, it's your birthday today.' The opening word means 'after all' or 'you know'. 'Birthday' is two words, 'day' and 'of birth'.
 - 'Happy birthday once again, Max!' 'Once again' is 'still time'. The greeting is shortened to just 'with the birthday'.

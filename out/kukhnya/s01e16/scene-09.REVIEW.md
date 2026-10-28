@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Everything is in order with you.' The first two words are the 'at you' that Russian uses where we say 'you have'. It's a happy ending to a long inspection.
-- 'We do everything right.' Russian's 'everything' has an 'o' ending to say 'all of it', and 'right' is the word for 'correctly'. The ending on 'do' is the one for 'we'.
+- 'We do everything right.' Russian's 'everything' has an 'o' ending to say 'all of it', and 'right' is 'correctly'. The ending on 'do' is the one for 'we'.
 - 'Thank you very much.' The Russian for 'thanks' is a noun, so Russian's 'big' has to match it. Elena's 'to you' at the end is polite.
 - 'You really surprised me.' The Russian for 'me' changes its shape when it is the one being surprised. The verb is the finished kind, so it's about one moment, not a habit.
 - 'Not a single cook without documents.' The first two words mean 'not even one' and are followed by the 'of' form for the cook. 'Without' is another small word that brings a particular ending after it.
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It was very pleasant for me.' The little middle word, 'was', is the neuter form since no one is actually doing it. 'To me' is how Russian puts it: the pleasure happens to me, rather than being something I do.
 - 'Shall we go to another restaurant?' The 'we' form of 'go' can also mean 'let's go', and a rising question makes it an invitation. 'Another' matches the masculine word for 'restaurant'.
 - 'Claude Monet is right nearby.' The Russian spelling of the restaurant's name looks different from the French. The first word means 'next door', and then 'there is'.
-- 'Excellent, I love French cuisine.' 'I love' is one word with the ending that means 'I', so no 'I' is needed. 'Cuisine' is also the word for 'kitchen', which is the title of this show.
+- 'Excellent, I love French cuisine.' 'I love' is one word with the ending that means 'I', so no 'I' is needed. 'Cuisine' is also 'kitchen', which is the title of this show.
 - 'An inspection is coming to us!' Just like the inspection earlier that 'went on', here it 'goes' toward us. Barinov is announcing disaster in four words.
 - 'Everyone without documents, out!' The last word is a single-syllable shove, 'out' or 'get lost'. It's a shout, and it's the opposite of 'vot', 'here you are'.

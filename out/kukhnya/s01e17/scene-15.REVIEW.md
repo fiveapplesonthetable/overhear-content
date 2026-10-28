@@ -34,8 +34,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They have pizza, sushi and borscht.' 'Here there is' covers it. Pizza and sushi are borrowed, but borscht is as Russian as it gets.
 - 'Max, how are things going in the kitchen?' 'Matters go' is the idiom, and 'matters' is plural. 'In the kitchen' uses 'on' with an 'e' ending.
 - 'Everything is fine, we're working calmly.' 'Everything is fine' is just 'everything well', with no 'is'. 'Calmly' ends in 'o', like many words that tell you how.
-- 'I thought of a dish for the holiday dinner.' The 'a' on the end of 'thought of' says Vika is a woman. 'Holiday' becomes an adjective, built from the word for 'holiday'.
-- 'That is simply great, thank you very much.' 'Great' is a colloquial word that grows out of the word for 'health'. 'Simply' is the word you hear everywhere.
+- 'I thought of a dish for the holiday dinner.' The 'a' on the end of 'thought of' says Vika is a woman. 'Holiday' becomes an adjective, built from 'holiday'.
+- 'That is simply great, thank you very much.' 'Great' is a colloquial word that grows out of 'health'. 'Simply' is the word you hear everywhere.
 - 'Wait, what kind of ticket is this?' The 'wait' command is the casual one. 'What kind of' is made with 'chto za'.
 - 'Nastya and Kostya gave me a ticket to the club.' 'Gave as a gift' is a particular word, with the 'li' ending. 'To the club' is a direction, so the club doesn't change.
 - 'So there's only one ticket?' The opening word is 'it means', which works as 'so'. 'Only' goes in front of 'one', and the whole question lives on the rising voice.

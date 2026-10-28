@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'I am a major of the migration service.' Russian has no 'am' here, so the sentence is just 'I major'. The 'oy' ending on 'service' and on its describing word is the 'of' form."),
     (8, None, "'Can we go to the office?' 'We can' is one word. After the 'go' word comes the 'to the office', and the office itself keeps its form because it's a direction."),
     (9, None, "'Unfortunately, I cannot.' The opening is a fixed phrase that really means 'to my regret'. 'I can't' is the irregular 'I' form, so it's worth learning whole."),
-    (10, None, "'I need to cook for the guests.' Russian says 'to me needed', not 'I need'. The word for 'guests' ends in 'ey', which is the plural after 'for'."),
+    (10, None, "'I need to cook for the guests.' Russian says 'to me needed', not 'I need'. 'Guests' ends in 'ey', which is the plural after 'for'."),
     (11, None, "'Alright, I'll wait for you here.' The Russian for 'wait' is the kind that means to wait a while, and its ending is the 'I' one. The major is polite and in no rush, which is the worrying part."),
 ]

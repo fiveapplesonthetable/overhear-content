@@ -32,7 +32,7 @@ STORY = [
     ('barinov', 'Пусть он так думает.', 'Let him think so.', [(190, 'Вот пусть он и дальше так думает.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. The word for 'cold' ends in 'o' and is cousin to the word for the fridge he was stuck in."),
+    (0, None, "'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. 'Cold' ends in 'o' and is cousin to the word for the fridge he was stuck in."),
     (1, None, "'I froze in here.' The past form of 'freeze' ends in a bare consonant for a man, and a woman would add an 'a'. The little word for 'here' is the casual one."),
     (2, None, "'Clean.' The short form drops its ending, so what's left is a bare 'clean', as if reading from a form. It's the inspector's dry verdict."),
     (3, None, "'Checked.' There's no 'he' and no 'we', just the 'li' ending, which says somebody did it. Officials talk like this."),
@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'Viktor Petrovich, a little mistake happened.' 'Little mistake' is a diminutive, a gentler version of 'mistake'. Russian says the mistake 'came out', which also hides who made it."),
     (6, None, "'My people checked this man.' The plural of 'person' is 'lyudi', which looks nothing like the singular. 'This man' takes an 'ogo' ending because it's the thing that was checked."),
     (7, None, "'Completely clean.' The first word is a borrowed 'absolutely', and the second is the same short 'clean' as before. Two words, no sentence needed."),
-    (8, None, "'And I always knew.' The small opening 'a' means 'and' with a bit of contrast. The word for 'always' is the same one you use for habits."),
+    (8, None, "'And I always knew.' The small opening 'a' means 'and' with a bit of contrast. 'Always' is the same one you use for habits."),
     (9, None, "'Fedya, how are you?' Literally just 'you how', with no verb at all. The casual 'you' shows how close they are."),
     (10, None, "'Fine.' Literally 'normally', and it's the standard reply to 'how are you'. Russians don't say it with much more enthusiasm than this."),
     (11, None, "'How did you get me out?' Fedya uses the polite 'you' with his boss. 'Pull out' is the picture, as if he was dragged from the fridge."),

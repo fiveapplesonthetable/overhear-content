@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Beef pâté.' 'Beef' is an adjective here, so it's 'beefy pâté'. That is how Russian says 'beef pâté': one describing word and one noun.
 - 'Absolutely revolting.' The first word is 'filth', and the second means 'terrible'. Together they work as 'extremely nasty'.
-- 'But when you mix it all together...' 'If' is followed by the plain 'to mix', which gives it a general sense of 'if you mix'. The word for 'all' has an 'o' at the end.
+- 'But when you mix it all together...' 'If' is followed by the plain 'to mix', which gives it a general sense of 'if you mix'. 'All' has an 'o' at the end.
 - 'Eleonora likes it.' Russian says 'to-her it-pleases', so the food does the pleasing. The little word for 'to her' takes the place of 'she'.
 - 'Are you kidding me?' The 'sya' ending makes the verb 'mock' and means you are doing it to someone. Max uses the polite 'you' with the boss.
 - 'Why?' One word again. Barinov is pretending to be surprised.

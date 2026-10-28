@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You said you wouldn't come up with it.' 'You said' begins with a little word that means 'but', reminding him. 'Won't invent' is built from 'will not' plus the plain 'invent'.
 - 'And I won't.' The little 'i' in the middle puts weight on the refusal. It's a flat reply, three words long.
 - 'You will.' The Russian puts 'you' at the end: 'will be you'. Putting the key word last is how Russian underlines it.
-- 'The winner gets a bonus.' 'Winner' is built from the word for victory. The word for 'bonus' also means 'prize', and it takes a 'u' ending as the thing received.
+- 'The winner gets a bonus.' 'Winner' is built from the word for victory. 'Bonus' also means 'prize', and it takes a 'u' ending as the thing received.
 - 'And I won't call him disabled.' The word he uses is Barinov's regular insult for his cooks, and it takes an 'om' ending when it's used to name someone. 'Won't call' is built with 'will not' and the plain 'call'.
 - 'And is the bonus right away?' Max's hopeful question has no special question word. It's just a rising voice on the last word.
 - 'The bonus is at the end of the month.' 'At the end of the month' uses 'in' plus two endings, 'e' and 'a'. That is how Russians say it for any date.
