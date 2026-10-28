@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, Chef Viktor Barinov fumes as his prized knife remains missing. After barking orders about a dirty box left lying around, he questions sous-chef Lyova, wildly guessing where the blade could have ended up. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Chef Barinov and Lyova's exchange line by line."
+INTRO = "The chef is in a terrible mood, and he is stomping round the kitchen picking at things. A dirty box is in the wrong place, and he still hasn't found his knife. Lyova, his sous-chef, has to answer for it. Here is the exchange in Russian first."
+OPENER = "Now the chef's questions again."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova scrambles to continue the frantic search for Barinov's knife, unaware of where it has actually gone. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'everywhere' — you will catch every word right away. See you next time!"
+OUTRO = 'Lyova hurries off to keep looking, and he has no idea where the knife actually is. You\'ve heard "ishchite", the command "look!" for a group.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Ты почему тут поставил грязную коробку?', 'Why did you put a dirty box here?', [(235, 'коробку грязную поставил')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Без ножа мы не сможем работать!', 'Without the knife we will not be able to work!', [], ''),
 ]
 WALK = [
-    (0, None, "'Why did you put a dirty box here?' Barinov scolds the kitchen staff for leaving clutter around."),
-    (1, None, "'Remove it from here very quickly!' The head chef demands immediate cleanliness in the kitchen."),
-    (2, None, "'Lyova, have you already found my knife?' Barinov checks in on the urgent search for his tool."),
-    (3, None, "'We have not found it yet, Chef.' Lyova nervously reports that the blade has not turned up."),
-    (4, None, "'Did you definitely look well everywhere?' Barinov presses his sous-chef to verify every spot."),
-    (5, None, "'Yes, we checked everything in the kitchen.' Lyova confirms they searched all normal work areas."),
-    (6, None, "'Then continue to look further!' The chef refuses to accept that the knife is gone."),
-    (7, None, "'Someone could accidentally leave the knife inside.' Barinov suspects someone got careless while prepping."),
-    (8, None, "'For example, someone forgot the knife in the fish.' The chef suggests an absurd place where it might be."),
-    (9, None, "'In the fish? That is impossible, Chef!' Lyova reacts with complete disbelief at the wild suggestion."),
-    (10, None, "'I do not know. Look everywhere!' Barinov insists that no possibility can be ruled out."),
-    (11, None, "'Alright, Chef, we will find everything.' Lyova obediently promises to continue the search."),
-    (12, None, "'Without the knife we will not be able to work!' Barinov emphasizes how crucial the blade is to the restaurant."),
+    (0, None, '\'Why did you put a dirty box here?\' "Put" is the word for "make stand", so a box is "stood" somewhere. The two describing words end in "-uyu" as the object.'),
+    (1, None, '\'Remove it from here very quickly!\' The word for "it" is feminine, because "box" is a feminine word. "Remove" is a friendly command.'),
+    (2, None, '\'Lyova, have you already found my knife?\' The chef says "vy", but here it\'s the plural, "you all", not the polite one. He means Lyova and the others.'),
+    (3, None, '\'We have not found it yet, Chef.\' "Not yet" is "still not". The little "yego" for "it" never changes.'),
+    (4, None, '\'Did you definitely look well everywhere?\' "Definitely" and "everywhere" are two short words, with "well" between. It sounds like a real interrogation.'),
+    (5, None, '\'Yes, we checked everything in the kitchen.\' "Checked" ends in "-li", the plural for "we". "Everything" is one short word.'),
+    (6, None, '\'Then continue to look further!\' "Continue" is a command to a group. "Further" is also the word for "more", in the sense of keep going.'),
+    (7, None, '\'Someone could accidentally leave the knife inside.\' "Could" is a short word, "mog". "Accidentally" comes from the word for "chance", and "inside" is one small word.'),
+    (8, None, '\'For example, someone forgot the knife in the fish.\' "For example" is "on example". "Forgot" ends in -l, and "in the fish" has an -e on the fish.'),
+    (9, None, '\'In the fish? That is impossible, Chef!\' Lyova repeats the words with a question in his voice. "Impossible" is "not" plus "possible".'),
+    (10, None, '\'I do not know. Look everywhere!\' "Ishchite" is the command "look for", in the form for a group. The chef has stopped being logical.'),
+    (11, None, '\'Alright, Chef, we will find everything.\' "We will find" is one word. Lyova is trying to calm him.'),
+    (12, None, '\'Without the knife we will not be able to work!\' "Without" makes "knife" take an -a. "Will be able" is one word, with "not" before it.'),
 ]

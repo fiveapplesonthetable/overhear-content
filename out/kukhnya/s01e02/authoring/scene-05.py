@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = 'Nastya and Senya quietly discuss why Chef Barinov is so protective of his lost knife. Senya explains that it is an irreplaceable Japanese blade, and everyone must search thoroughly. Listen to the conversation in Russian first, and then we will examine it in English.'
-OPENER = "Let's explore why this particular kitchen knife is so valuable to the chef."
+INTRO = "While everyone searches, Nastya asks Senya why the chef can't just buy another knife. Senya explains what makes this one so special. Here is their talk in Russian first."
+OPENER = "Now let's see why this knife is special."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "That is our fifth scene. In Kukhnya, Barinov's beloved Japanese knife turns out to be hidden in the most unexpected place. See you next time!"
+OUTRO = 'So it\'s a very sharp, very expensive Japanese knife, and the chef has every reason to panic. Listen for "ishchi", the command "look for it", because it comes back.'
 CLOSING = ('nastya', 'До встречи!')
 STORY = [
     ('nastya', 'Почему нельзя купить такой нож?', "Why can't we buy such a knife?", [], ''),
@@ -32,19 +32,18 @@ STORY = [
     ('nastya', 'Хорошо. Я посмотрю здесь.', 'All right. I will look here.', [], ''),
 ]
 WALK = [
-    (0, None, "'Why can't we buy such a knife?' Nastya wonders why replacing the tool is so complicated."),
-    (1, None, "'You can't buy such a knife in a hurry.' Senya explains that buying such a blade in a hurry is impossible."),
-    (2, None, "'And how much does it cost?' Nastya asks about the price of the item."),
-    (3, None, "'This is an expensive Japanese knife.' Senya points out that it is an expensive Japanese knife."),
-    (4, None, "'The chef ordered it for a very long time.' Senya mentions that the head cook ordered it and waited a very long time."),
-    (5, None, "'And is it very sharp?' Nastya inquires if the knife is extremely sharp."),
-    (6, None, "'The sharpest knife in the kitchen.' Senya confirms it is the sharpest piece of equipment in the kitchen."),
-    (7, None, "'Where could it possibly be?' Nastya wonders where the missing object could possibly be hidden."),
-    (8, None, "'We already looked everywhere.' Senya states that they have already searched everywhere."),
-    (9, None, "'Maybe someone took it home?' Nastya asks if maybe someone took it home."),
-    (10, None, "'Nobody would dare do that.' Senya believes nobody would dare to do that."),
-    (11, None, "'The chef will fire everyone immediately.' Senya warns that Barinov will fire everyone immediately."),
-    (12, None, "'Come on, look for the knife quickly.' Senya urges her to keep looking for the knife quickly."),
-    (13, None, "'All right.' Nastya agrees with a short confirmation."),
-    (14, None, "'I will look here.' Nastya decides to search in her current area."),
+    (0, None, '\'Why can\'t we buy such a knife?\' "Nel\'zya" is a very useful word meaning "it\'s not allowed" or "it\'s impossible". Put "pochemu" in front and you can ask why anything can\'t be done.'),
+    (1, None, '\'You can\'t buy such a knife in a hurry.\' The first word is "in a quick way". Then "ne poluchitsya", literally "it won\'t work out", which Russians say whenever something can\'t be done.'),
+    (2, None, '\'And how much does it cost?\' The shop question: "how much" and then "costs". Nastya says "he" for the knife, because "nozh" is a masculine word.'),
+    (3, None, '\'This is an expensive Japanese knife.\' One word does two jobs: it means "expensive" and also "dear", as in a dear friend. And there\'s no "is" here, just "this" and the rest.'),
+    (4, None, '\'The chef ordered it for a very long time.\' The word for "ordered" is close to the noun "zakaz", an order. "It" is the same word that means "him" or "his", and it never changes.'),
+    (5, None, "'And is it very sharp?' The Russian word for sharp also means spicy, so it's good for knives and for food. Context tells you which."),
+    (6, None, '\'The sharpest knife in the kitchen.\' Put "samyy" in front of a describing word and you get "the most": "the most sharp". It\'s easy to remember, and works with any word.'),
+    (7, None, '\'Where could it possibly be?\' You may know "mozhet byt\'" as "maybe", but taken apart the two words mean "can be". A tiny "zhe" in the middle adds the "possibly".'),
+    (8, None, '\'We already looked everywhere.\' "Everywhere" is a single word, "vezde", and "already" is the small word you\'ve heard before. "Looked for" is from the same family as the command "ishchi" below.'),
+    (9, None, '\'Maybe someone took it home?\' Russian can say "maybe" with just the first of those two words. Add "-to" to "who" and you get "someone".'),
+    (10, None, '\'Nobody would dare do that.\' "Will dare" is one word. Then "nobody" and "not" together, the double negative again, and "do this" at the end.'),
+    (11, None, '\'The chef will fire everyone immediately.\' "Immediately" is one word, "srazu". "Will fire" is also one word, and "everyone" takes a new ending because it\'s the object.'),
+    (12, None, '\'Come on, look for the knife quickly.\' The first word is a friendly "come on". "Ishchi" is the command "look for", and "skoreye" is "faster".'),
+    (13, None, '\'All right. I will look here.\' The "po-" at the front of "I will look" gives it the sense of a quick look. "Here" is "zdes\'".'),
 ]

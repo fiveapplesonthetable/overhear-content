@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = 'In the restaurant office, art director Vika shows owner Dmitry Nagiyev a video of Max fighting in the courtyard, hoping to get him fired, leading to surprising revelations.'
-OPENER = "Let's explore the courtyard video inquiry and Max's philosophical reflections."
+INTRO = 'Vika has shown the owner, Nagiyev, a video of Max in a scuffle in the courtyard, hoping to get him fired. Nagiyev watches, and it turns out to be less of a fight than she claimed. Here is the Russian first.'
+OPENER = "Let's go back through the video and the verdict."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Saved from dismissal, Max reflects on how fortunes shift and enemies can turn into allies. Next time you watch the episode, listen for the Russian expressions for 'art director' and 'former' — you will catch every word right away. See you next time!"
+OUTRO = "Max keeps his job, and even a few friends. You've heard how Russian says that every medal has two sides, which is what English calls a coin."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('nagiyev', 'Вика говорит, что ты устроил драку.', 'Vika says that you started a fight.', [(310, 'Еще он сегодня устроил драку.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Жизнь продолжается, и завтра новый день!', 'Life goes on, and tomorrow is a new day!', [(334, 'Вот как-то так.')], ''),
 ]
 WALK = [
-    (0, None, "'Vika says that you started a fight.' Dmitry questions Max about the backstage conflict."),
-    (1, None, "'We were simply fooling around in the backyard.' Max explains the playful nature of the brawl."),
-    (2, None, "'Show me the video of this fight of yours.' The restaurant owner asks to inspect the recorded evidence."),
-    (3, None, "'Is that really a fight? You did not even fight back!' Dmitry laughs upon seeing Max passively taking hits."),
-    (4, None, "'So there is no reason to fire the cook yet.' Dmitry decides to keep Max on the kitchen staff."),
-    (5, None, "'Dmitry, thank you for the fair decision.' The chef expresses gratitude for defending his kitchen team."),
-    (6, None, "'Listen to me everyone: forget about this video!' Barinov firmly orders the cooks to protect Vika's dignity."),
-    (7, None, "'Vika still has to work here as art director.' Barinov shows unexpected professional loyalty toward Vika."),
-    (8, None, "'Whoever dares laugh will immediately get out!' The head chef threatens anyone who ridicules the footage."),
-    (9, None, "'Every coin has two sides.' Max begins his poignant closing reflection on the nature of life."),
-    (10, None, "'One day everything around can change drastically.' Max reflects on the shifting dynamics of life and work."),
-    (11, None, "'A former enemy unexpectedly becomes your friend.' Bonds form in surprising ways in the restaurant."),
-    (12, None, "'And a strict tyrant becomes a little bit kinder.' Even the terrifying chef has a warm and protective heart."),
-    (13, None, "'Life goes on, and tomorrow is a new day!' Max looks forward with renewed optimism to his culinary career."),
+    (0, None, '\'Vika says that you started a fight.\' "Started" here is the word "arranged", the same family as the word for "get a job". "Fight" has an -u as the object.'),
+    (1, None, '\'We were simply fooling around in the backyard.\' "Fooled around" comes from the word for "fool". "Backyard" is "back" and "yard", with endings after "in".'),
+    (2, None, '\'Show me the video of this fight of yours.\' "Show" is the polite command. "This" and "of yours" both change to the "of" shape, so the whole phrase has the same ending.'),
+    (3, None, '\'Is that really a fight? You did not even fight back!\' "Razve" at the start means "really?" and carries doubt. "Fight" has "-sya" at the end, a little "self".'),
+    (4, None, '\'So there is no reason to fire the cook yet.\' "Not for what" is how Russian says "no reason". "Yet" is the word that also means "bye".'),
+    (5, None, '\'Dmitry, thank you for the fair decision.\' "Thank you" plus "for" is the frame from the first scene of the series. "Fair" and "decision" are both easy to spot.'),
+    (6, None, '\'Listen to me everyone: forget about this video!\' The chef addresses the whole room. "About this" uses "ob" because the next word starts with a vowel.'),
+    (7, None, '\'Vika still has to work here as art director.\' "To Vika still to work" is the Russian for "Vika still has to work". "As art director" has the "-om" ending for "as".'),
+    (8, None, '\'Whoever dares laugh will immediately get out!\' "Dares" is one word, and "laugh" has "-sya" at the end. "Will go out" finishes the threat.'),
+    (9, None, '\'Every coin has two sides.\' Russian says "medal", not "coin", for the two sides of a story. "Two" is feminine to match "side".'),
+    (10, None, '\'One day everything around can change drastically.\' "One day" is a single word, "odnazhdy". "Drastically" is built on the word for "sharp".'),
+    (11, None, '\'A former enemy unexpectedly becomes your friend.\' "Former" is built on "was". "Unexpectedly" has "expect" in it. And "becomes" is followed by "-im", the "as" ending.'),
+    (12, None, '\'And a strict tyrant becomes a little bit kinder.\' "Kinder" ends in "-eye", the same "more" ending you\'ve heard on "faster". "A little" is one word.'),
+    (13, None, '\'Life goes on, and tomorrow is a new day!\' "Goes on" ends in "-sya", as if life continues itself. "Tomorrow" is a word you\'ve heard before.'),
 ]

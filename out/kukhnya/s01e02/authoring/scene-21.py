@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
-INTRO = "In the kitchen prep area, Senya discovers that Max is holding the Chef's missing fish knife. Terrified of Chef Barinov's legendary fury, Senya frantically comes up with an absurd hiding place. Listen to their frantic whispered conversation in Russian first, then we will break it down in English."
-OPENER = 'Now let us walk through each phrase to understand every Russian word.'
+INTRO = "Senya catches Max holding the chef's missing fish knife, and he is horrified, because if Barinov finds out the two of them will be in serious trouble. Senya has a bright, desperate idea for where to hide it. This is the Russian first."
+OPENER = "Let's go back to their whispered panic."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The missing knife is now buried deep inside a large salmon, setting the stage for one of the show's funniest disasters. Listen out for what happens when that very fish is carried out into the dining room! Until next time! Next time you watch the episode, listen for the Russian expressions for 'big' and 'to take' — you will catch every word right away. See you next time!"
+OUTRO = 'A knife inside a fish: not the safest hiding place, as you\'ll find out. If you take one phrase from here, make it "sovsem s uma soshyol", "completely out of your mind".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('senya', 'Ты совсем с ума сошёл, парень?', 'Have you gone completely out of your mind, buddy?', [(231, 'Ты совсем')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Никто на кухне ничего не заметил.', 'Nobody in the kitchen noticed anything.', [(234, 'пока шеф не видит')], ''),
 ]
 WALK = [
-    (0, None, "'Have you gone completely out of your mind, buddy?' Senya stares in absolute disbelief, accusing his foolish colleague of having completely lost his mind."),
-    (1, None, "'Why did you take this sharp knife?' Senya frantically demands to know why anyone would dare touch the most dangerous object in the kitchen."),
-    (2, None, "'The chef left it on the table himself.' Max tries to justify his mistake by claiming the boss carelessly abandoned the tool in plain sight."),
-    (3, None, "'After all, he will simply slice you into pieces!' Senya graphically illustrates the violent revenge the angry chef will inflict once he finds out."),
-    (4, None, "'I did not want to take someone else' Max weakly insists that he never intended to steal someone else's personal property."),
-    (5, None, "'Listen to me very carefully right now.' Senya takes charge of the crisis, ordering his panicking friend to pay close attention to his instructions."),
-    (6, None, "'We need to hide it from the chef urgently.' Senya declares that they must conceal the forbidden item immediately before disaster strikes."),
-    (7, None, "'Where can we hide this knife?' Max helplessly looks around for a safe spot to stash the incredibly dangerous piece of evidence."),
-    (8, None, "'Hide it inside a big fresh fish!' Senya suddenly hatches a ridiculously creative plan to stuff the blade inside a raw seafood carcass."),
-    (9, None, "'Are you seriously suggesting hiding it in a fish?' Max stares at his friend in utter confusion, unable to believe this absurd concealment strategy."),
-    (10, None, "'Nobody will definitely find it there.' Senya confidently guarantees that the inner cavities of a fish are the ultimate foolproof hiding spot."),
-    (11, None, "'All right, I will put it in there quickly.' Max reluctantly agrees to the bizarre scheme and prepares to shove the blade out of sight."),
-    (12, None, "'Just do everything quietly and inconspicuously.' Senya urgently whispers for absolute stealth so that no one catches them in the act."),
-    (13, None, "'Nobody in the kitchen noticed anything.' Max confirms that their stealthy maneuver went off without a hitch under the noses of the staff."),
+    (0, None, '\'Have you gone completely out of your mind, buddy?\' Word for word it\'s "went off the mind". Russians say it about anyone doing something reckless.'),
+    (1, None, '\'Why did you take this sharp knife?\' "Zachem" asks "what for", not just "why". It sounds more accusing than "pochemu".'),
+    (2, None, '\'The chef left it on the table himself.\' "Himself" is the little word that shifts the blame back to the chef. "On the table" has an -e on "table".'),
+    (3, None, '\'After all, he will simply slice you into pieces!\' The word for "piece" turns into "pieces" for the plural, and "into" shows up as a small word. "Zhe" brings in the sense of "surely".'),
+    (4, None, '\'I did not want to take someone else\'s knife.\' The word for "someone else\'s" is a handy one for anything that isn\'t yours. "Wanted" ends in -l, as Max is a man.'),
+    (5, None, '\'Listen to me very carefully right now.\' "Listen" is the friendly command, and "me" takes its object shape. "Carefully" has "attention" inside it.'),
+    (6, None, '\'We need to hide it from the chef urgently.\' "From the chef" uses a small word for "from" that goes with people. The word for "hide" is a good one to remember.'),
+    (7, None, '\'Where can we hide this knife?\' "Kuda" means "where to", because the knife will be moving. "We can" is one word.'),
+    (8, None, '\'Hide it inside a big fresh fish!\' Both describing words end in "-uyu" and the fish in "-u", the endings for going into something. Compare "in a fish", with an -e, in the next scene.'),
+    (9, None, '\'Are you seriously suggesting hiding it in a fish?\' "Seriously" is the "ser\'yozno" Max has used before. "Suggest" is a handy word for any proposal.'),
+    (10, None, '\'Nobody will definitely find it there.\' "Nobody" and "not" are together as ever. "There" is a different word from "to there", which you\'ll hear next.'),
+    (11, None, '\'All right, I will put it in there quickly.\' "Tuda" is "to there", the partner of "tam", "there". Russian has a pair for each place word: one for staying and one for moving.'),
+    (12, None, '\'Just do everything quietly and inconspicuously.\' "Quietly" comes from the word for quiet, and "inconspicuously" is "not" plus "noticeable".'),
+    (13, None, '\'Nobody in the kitchen noticed anything.\' Three negatives in one sentence: "nobody", "nothing" and "not". Russian wants all three.'),
 ]
