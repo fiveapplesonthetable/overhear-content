@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'lyova': 'Лёва', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the kitchen, a nervous Leva panics at the thought of temporarily replacing the drunk Chef Barinov. Seeing his friend struggle, Senya gives him an encouraging pep talk, trying to teach the mild-mannered sous-chef how to shout like a true boss. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Senya's pep talk line by line in this scene."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With a little help from Senya, the timid Leva finally finds his inner boss, ready to take charge of Claude Monet's chaotic kitchen for the day. Next time you watch the episode, listen for the Russian expressions for 'to be able' and 'to manage' — you will catch every word right away. See you next time!"
+INTRO = "With the chef in no state to work, the sous-chef Lyova is told he's in charge. He is terrified, and his friend Senya tries to build up his courage. Hear it in Russian first."
+OPENER = 'Slowly, and watch Lyova find his voice.'
+TRANSITION = 'Now the pep talk from the top.'
+OUTRO = "Lyova is ready, or at least he is ready to try. Notice how 'ne smogu', I can't, turns into 'smogu', I can, by the end. Speak soon."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('lyova', 'Я не смогу управлять всей кухней!', 'I cannot manage the whole kitchen!', [(65, 'Я не смогу.')], ''),
@@ -25,25 +25,25 @@ STORY = [
     ('lyova', 'Я совсем не умею страшно кричать.', 'I completely do not know how to shout terribly.', [], ''),
     ('senya', 'Давай, попробуй громко накричать на меня.', 'Come on, try to shout loudly at me.', [], ''),
     ('lyova', 'Сеня, немедленно иди резать эти овощи!', 'Senya, go cut these vegetables immediately!', [], ''),
-    ('senya', 'Очень слабо, Лёва, нужно больше злости!', 'Very weak, Leva, we need more anger!', [], ''),
+    ('senya', 'Очень слабо, Лёва, нужно больше злости!', 'Very weak, Lyova, we need more anger!', [], ''),
     ('lyova', 'Хорошо, сейчас я соберусь с силами.', 'All right, now I will gather my strength.', [], ''),
     ('senya', 'Ты наш самый лучший главный повар сегодня!', 'You are our absolute best head chef today!', [], ''),
     ('lyova', 'Да, я смогу, я точно смогу!', 'Yes, I can do it, I definitely can!', [(70, 'Да, я смогу.'), (71, 'Я точно смогу.')], ''),
     ('senya', 'Вот теперь я вижу настоящего шефа!', 'Now I see a real chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'I cannot manage the whole kitchen!' Lyova is terrified of the responsibility. He claims he cannot run the kitchen alone."),
-    (1, None, "'You will definitely do absolutely great!' Senya tries to build his confidence. He assures Lyova he will do a fantastic job."),
-    (2, None, "'I have never replaced the chef before.' Lyova points out his lack of experience. He admits he has never replaced the Chef before."),
-    (3, None, "'Because you are our sous-chef, that is super-chef!' Senya hypes him up with a pun. He calls him not just a sous-chef, but a super-chef."),
-    (4, None, "'But the chef always shouts so loudly.' Lyova worries about his leadership style. He notes that the Chef always yells so much."),
-    (5, None, "'And you simply shout at everyone louder.' Senya gives him simple advice. He tells Lyova to just yell louder than everyone else."),
-    (6, None, "'I completely do not know how to shout terribly.' Lyova confesses his gentle nature. He says he does not know how to be scary."),
-    (7, None, "'Come on, try to shout loudly at me.' Senya offers to be his practice target. He challenges Lyova to yell at him right now."),
-    (8, None, "'Senya, go cut these vegetables immediately!' Lyova gives it a try. He orders Senya to chop vegetables immediately."),
-    (9, None, "'Very weak, Leva, we need more anger!' Senya critiques the performance. He tells Lyova he needs much more anger in his voice."),
-    (10, None, "'All right, now I will gather my strength.' Lyova prepares for a second attempt. He promises to gather his strength and try again."),
-    (11, None, "'You are our absolute best head chef today!' Senya continues his aggressive encouragement. He calls Lyova the best head chef today."),
-    (12, None, "'Yes, I can do it, I definitely can!' Lyova finally finds his confidence. He excitedly declares that he can actually do this."),
-    (13, None, "'Now I see a real chef!' Senya validates his success. He proudly announces that Lyova finally sounds like a real boss."),
+    (0, None, "'I cannot manage the whole kitchen!' 'Upravlyat', to run or manage, takes the 'with' form, so 'vsya kukhnya' becomes 'vsey kukhney', ending in 'ey'. 'Ne smogu' is a future, 'I won't be able to'."),
+    (1, None, "'You will definitely do absolutely great!' 'Obyazatelno' is the adverb from 'obyazatelny', obligatory, and in speech it's a firm 'definitely'. 'U tebya poluchitsya' is 'it'll work out at you', so 'you'll manage'."),
+    (2, None, "'I have never replaced the chef before.' Literally, 'I never before not replaced'. Russian keeps both negatives, 'nikogda' and 'ne'. 'Zamenyal' is the man's past form, since it's Lyova."),
+    (3, None, "'Because you are our sous-chef, that is super-chef!' 'Ved' is 'after all', the word for reminding someone of the obvious. 'To est' is literally 'that is', and Russians use it just like English 'i.e.'."),
+    (4, None, "'But the chef always shouts so loudly.' Russian says 'shouts so strongly', 'tak silno krichit'; 'silno' is the all-purpose intensifier for noise and pain alike."),
+    (5, None, "'And you simply shout at everyone louder.' 'Gromko' is loud, and 'gromche' is louder; its opposite works the same way, 'tikho', quiet, and 'tishe', quieter. You shout 'na vsekh', onto everyone."),
+    (6, None, "'I completely do not know how to shout terribly.' 'Ne umeyu' is 'I don't know how', about a skill, not about being allowed. 'Strashno' is from 'strakh', fear, so 'frighteningly'."),
+    (7, None, "'Come on, try to shout loudly at me.' 'Davay', literally 'give', is the everyday 'come on'. 'Nakrichat na menya' has 'na' twice: once as the prefix, for one complete telling-off, and once as 'at'."),
+    (8, None, "'Senya, go cut these vegetables immediately!' 'Idi rezat' is 'go cut', two verbs side by side, the second in its basic form. 'Eti ovoshchi' is 'these vegetables', plural all the way."),
+    (9, None, "'Very weak, Lyova, we need more anger!' 'Slabo' alone is a verdict, 'weak!'. After 'bolshe', more, the noun takes its 'of' form, so 'zlost', anger, becomes 'zlosti'."),
+    (10, None, "'All right, now I will gather my strength.' 'Soberus s silami' is literally 'I'll gather myself with strengths', the set phrase for pulling yourself together. The final 's' on 'soberus' is the 'myself'."),
+    (11, None, "'You are our absolute best head chef today!' 'Samy luchshy' is 'the very best', with 'samy' doubling up on an already top word. 'Glavny povar' is literally 'main cook'."),
+    (12, None, "'Yes, I can do it, I definitely can!' 'Smogu' is the same verb as the 'ne smogu' from his first line, now without the 'ne'. 'Tochno' means 'exactly', and here 'for sure'."),
+    (13, None, "'Now I see a real chef!' 'Vizhu' is 'I see'. The chef is the one being seen, so 'nastoyashchy shef' becomes 'nastoyashchego shefa', with 'ego' and 'a' endings for a man."),
 ]

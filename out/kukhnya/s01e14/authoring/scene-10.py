@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the dining room of Claude Monet, Kostya arrives at the VIP table carrying the exquisite French meals. The guests eagerly examine their food, while Kostya politely presents each course on behalf of the kitchen. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Kostya and the guest's polite conversation line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Pleasantly greeted and satisfied with their delicious French meals, the VIP diners settle in for an enjoyable dinner while Kostya heads off to fulfill their wine order. Next time you watch the episode, listen for the Russian expressions for 'gentleman' and 'rare' — you will catch every word right away. See you next time!"
+INTRO = 'Kostya carries the plates over to the VIP table in the dining room. The guests are delighted with what they see. Russian first.'
+OPENER = 'Once more, at a slower pace.'
+TRANSITION = 'The table scene once more, from the top.'
+OUTRO = "The guests are pleased, and Kostya goes off to fetch more wine. Both sides say 'vy' and 'vash' all the way through, as you would at a good restaurant. Bye for now."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Господа, вот ваши редкие французские блюда.', 'Gentlemen, here are your rare French dishes.', [(170, 'Господа, филиминьон по-фламански и лангусты а-ля Франце.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Мы всегда очень рады видеть вас!', 'We are always very glad to see you!', [], ''),
 ]
 WALK = [
-    (0, None, "'Gentlemen, here are your rare French dishes.' Kostya presents the meal to the important guests. He announces the rare French dishes."),
-    (1, None, "'Wow, how beautifully the hot meat lies!' The guest is immediately impressed. He comments on how beautifully the meat is plated."),
-    (2, None, "'Our cook tried to prepare a real masterpiece.' Kostya praises the kitchen's effort. He says the chef tried to make a real masterpiece."),
-    (3, None, "'The fish also looks incredibly appetizing and tasty.' The guest continues to compliment the food. He thinks the fish looks incredibly tasty too."),
-    (4, None, "'We always use only the best products.' Kostya assures them of the quality. He claims they only use the absolute best ingredients."),
-    (5, None, "'Pass on our sincere gratitude to the head chef.' The guest is very satisfied. He asks Kostya to pass on their sincere gratitude to the chef."),
-    (6, None, "'I will certainly tell him these pleasant words.' Kostya happily accepts the compliment. He promises to deliver those pleasant words to the kitchen."),
-    (7, None, "'We want to order another bottle of wine.' The guest wants to keep the good times rolling. He orders another bottle of wine."),
-    (8, None, "'I will quickly bring your wine right now.' Kostya promises prompt service. He says he will bring the wine out right away."),
-    (9, None, "'Thank you for your wonderful work here.' The guest thanks him for the excellent service. He praises Kostya's wonderful work."),
-    (10, None, "'Bon appétit and have a good evening!' Kostya delivers the classic closing. He wishes them a pleasant appetite and a good evening."),
-    (11, None, "'Thank you, we will definitely return here again.' The guest promises future business. He says they will definitely return to the restaurant."),
-    (12, None, "'We are always very glad to see you!' Kostya expresses gratitude for their patronage. He tells them they are always glad to see them."),
+    (0, None, "'Gentlemen, here are your rare French dishes.' 'Gospoda' is the plural of 'gospodin', sir, the formal way to address a table. 'Vashi', your, is plural to match 'blyuda', dishes."),
+    (1, None, "'Wow, how beautifully the hot meat lies!' 'Ogo' is a cheerful 'wow'. Russians say food 'lezhit', lies, on a plate. 'Myaso', meat, is neuter, so 'hot' is 'goryachee'."),
+    (2, None, "'Our cook tried to prepare a real masterpiece.' 'Staralsya' is the man's form of the verb Sasha used about her cake, 'staralas'. 'Shedevr' is borrowed from the French 'chef-d'oeuvre'."),
+    (3, None, "'The fish also looks incredibly appetizing and tasty.' 'Vyglyadit' is the same for the feminine 'ryba' as for a masculine steak: Russian verbs only change for he and she in the past."),
+    (4, None, "'We always use only the best products.' 'Produkty' in Russian means food ingredients, groceries, not products in general. 'Ispolzuem' is 'we use', with the 'we' ending 'em'."),
+    (5, None, "'Pass on our sincere gratitude to the head chef.' 'Peredayte', pass on, has the polite 'te' ending. The person it goes to takes the 'to' form, so 'shef-povar' becomes 'shef-povaru'."),
+    (6, None, "'I will certainly tell him these pleasant words.' 'Priyatnye', pleasant, is the very word in 'priyatnogo appetita' from the kitchen, here in its plural form. 'Emu' is 'to him'."),
+    (7, None, "'We want to order another bottle of wine.' 'Eshchyo butylku' is 'one more bottle'. 'Vino' becomes 'vina' for 'of wine', and 'butylka' becomes 'butylku' as the thing ordered."),
+    (8, None, "'I will quickly bring your wine right now.' 'Prinesu' is 'I'll bring', with 'pri', towards here; in the kitchen Kostya said 'otnesu', I'll carry away. 'Vashe' is neuter, for 'vino'."),
+    (9, None, "'Thank you for your wonderful work here.' 'Spasibo za' is 'thanks for', and what follows takes the same form as a thing seen: 'rabota' becomes 'vashu prekrasnuyu rabotu'."),
+    (10, None, "'Bon appetit and have a good evening!' Wishes take the 'of' form, as if 'I wish' were said: 'khoroshego vechera', of a good evening. 'Vam' is 'to you'."),
+    (11, None, "'Thank you, we will definitely return here again.' 'Vernyomsya' is 'we'll come back'; without the 'sya', 'vernut' means to give something back. 'Syuda' is 'here' as a destination."),
+    (12, None, "'We are always very glad to see you!' 'Rad', glad, has a plural, 'rady', since the speaker is 'we'. 'Videt vas' is 'to see you', using the polite 'vas'."),
 ]

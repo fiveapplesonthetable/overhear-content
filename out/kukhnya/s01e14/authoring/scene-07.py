@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the dining room, Max shows off in front of the waitresses, pretending to be a famous chef who cooked for the actor Gerard Depardieu in Paris. Enchanted by his lies, the girls beg him for more stories. Let us listen to his tall tales in Russian first.'
-OPENER = "Now let us examine Max's fabricated stories line by line in this scene."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max enjoys the attention of the dining room staff, spinning wild tales about his fake career until he is suddenly reminded of his real responsibilities in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'finish eating' and 'dish' — you will catch every word right away. See you next time!"
+INTRO = "In the dining room, Max is showing off to the waitresses with a story about a famous French actor who loved his cooking. Of course, none of it is true. Let's hear his story in Russian first."
+OPENER = 'The tall tale again, one boast at a time.'
+TRANSITION = 'Now the whole story, uninterrupted.'
+OUTRO = "Max is called back to the kitchen before he can get to Paris. 'Odnazhdy', once, is how plenty of Russian stories start, true or not. Until the next one."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Жерар Депардье доедает моё блюдо и говорит.', 'Gerard Depardieu finishes my dish and says.', [(136, 'доедает Депардье ему родоту и говорит.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Ой, прошу прощения, мне пора бежать.', 'Oh, I beg your pardon, it is time for me to run.', [(147, 'Прошу прощения')], ''),
 ]
 WALK = [
-    (0, None, "'Gerard Depardieu finishes my dish and says.' Max tells a wildly exaggerated story. He claims a famous actor praised his cooking."),
-    (1, None, "'Did he really like everything so much?' Sasha is completely enthralled. She asks if the actor really liked it that much."),
-    (2, None, "'He said that it is simply incredibly tasty!' Max continues to embellish the tale. He claims the actor found it unbelievably delicious."),
-    (3, None, "'What, did he say it to you exactly like that?' Sasha wants to know the exact details. She asks if the actor said those exact words."),
-    (4, None, "'Yes, exactly like that, only in the French language.' Max adds a touch of international flair. He confidently claims the praise was spoken in French."),
-    (5, None, "'What a talented cook you are, Max!' Sasha praises Max excessively. She is totally convinced of his amazing talent."),
-    (6, None, "'Even a mother does not cook such tasty food!' Max goes even further with his bragging. He claims his food is better than a mother's cooking."),
-    (7, None, "'Are you now good friends with him?' Sasha is curious about his famous connections. She asks if he is still friends with the actor."),
-    (8, None, "'Since then Gerard and I are friends.' Max confirms the fake friendship. He smoothly claims they have been close ever since."),
-    (9, None, "'Tell us something else interesting, please!' Sasha begs for more stories. She asks him to share another interesting tale."),
-    (10, None, "'With great pleasure, lovely ladies.' Max agrees with fake humility. He politely accepts the request from the ladies."),
-    (11, None, "'Once, when I worked in Paris...' He begins his next fabricated adventure. Max sets the scene in Paris."),
-    (12, None, "'What a wonderful and incredibly beautiful city!' Sasha swoons over the location. she comments on how beautiful Paris is."),
-    (13, None, "'Oh, I beg your pardon, it is time for me to run.' Max suddenly realizes he needs to leave. He quickly excuses himself and rushes off."),
+    (0, None, "'Gerard Depardieu finishes my dish and says.' Put 'do', up to the end, in front of the verb for eating and you get 'doedaet', eats up. 'Blyudo', dish, is neuter, so 'my' becomes 'moyo'."),
+    (1, None, "'Did he really like everything so much?' 'Neuzheli' is a surprised 'really?'. 'Emu ponravilos' is literally 'to him it was pleasing': the thing liked is the subject and the person is 'to him'."),
+    (2, None, "'He said that it is simply incredibly tasty!' 'Veroyatno' means 'probably', so 'neveroyatno' is 'improbably', the usual 'incredibly'. 'Eto vkusno', 'it tasty', needs no 'is'."),
+    (3, None, "'What, did he say it to you exactly like that?' 'Pryamo tak' is literally 'straight so'. The small 'i' in 'tak tebe i skazal' adds doubt, like 'he actually said that?'"),
+    (4, None, "'Yes, exactly like that, only in the French language.' Russians speak 'na' a language, so 'in French' is 'na frantsuzskom yazyke', literally 'on the French tongue'. 'Imenno tak' is 'precisely so'."),
+    (5, None, "'What a talented cook you are, Max!' 'Kakoy zhe ty...!' is the warm 'what a ... you are!'; the 'zhe' adds the feeling. 'Talantlivy' is built on 'talant', talent."),
+    (6, None, "'Even a mother does not cook such tasty food!' 'Eda', food, is feminine and it's the thing cooked, so all three words end in 'u': 'takuyu vkusnuyu edu'. 'Dazhe' is 'even'."),
+    (7, None, "'Are you now good friends with him?' 'Vy s nim' is literally 'you with him', meaning the two of you. One friend is 'drug', but friends are 'druzya', with a new middle."),
+    (8, None, "'Since then Gerard and I are friends.' Russians say 'my s Zherarom', 'we with Gerard', for 'Gerard and I'. 'Druzhim' is a verb, 'we friend', from the same root as 'drug'."),
+    (9, None, "'Tell us something else interesting, please!' 'Rasskazhi' is the order 'tell!', from the same family as 'rasskaz', a story. In 'chto-nibud interesnoe', 'interesting' ends in 'oe' because 'something' counts as neuter."),
+    (10, None, "'With great pleasure, lovely ladies.' 'S bolshim udovolstviem' is the stock 'gladly'; 'with' puts 'udovolstvie', pleasure, into the 'em' form. 'Milye damy' is an old-fashioned flourish, 'dear ladies'."),
+    (11, None, "'Once, when I worked in Paris...' 'Odnazhdy' is 'one time', built like 'dvazhdy', twice. After 'v', in, the city takes an 'e': 'Parizh' becomes 'v Parizhe'."),
+    (12, None, "'What a wonderful and incredibly beautiful city!' 'Chudesny' comes from 'chudo', a miracle. 'Gorod', city, is masculine, so both describing words end in 'y'."),
+    (13, None, "'Oh, I beg your pardon, it is time for me to run.' 'Proshu proshcheniya' is literally 'I ask forgiveness'. 'Mne pora' is 'to me it's time', the standard way to say you have to go."),
 ]

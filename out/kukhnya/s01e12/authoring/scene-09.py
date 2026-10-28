@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Chef Barinov marches furiously into Claude Monet after discovering the kitchen wall has been replaced with open glass. Victoria calmly defends the modern transformation while calling out Viktor's dramatic entrance. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the hospitality management terms, sarcastic comparisons, and assertive commands."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Victoria reminds Viktor that culinary excellence belongs on display in a modern restaurant. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'important' and 'great' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov has found out about the glass wall, and he storms across the dining room to find Vika. She stays calm, which only makes him angrier. Listen to the quarrel in Russian before we look inside it.'
+OPENER = 'Back through the quarrel, to hear what each of them is really saying.'
+TRANSITION = 'Here is the quarrel in one piece.'
+OUTRO = "Vika has an answer for everything, and Barinov is left insisting he is a chef and not a fish. Talk soon."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Вика, что происходит в моем ресторане?', 'Vika, what is happening in my restaurant?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Привыкай, это современный и красивый ресторан.', 'Get used to it, this is a modern and beautiful restaurant.', [], ''),
 ]
 WALK = [
-    (0, None, "'Vika, what is happening in my restaurant?' Barinov demands to know what changes are happening in his workplace."),
-    (1, None, "'Actually, this important question is for you!' Vika flips the question back at him. She says he is the one who should answer."),
-    (2, None, "'Why did you remove the kitchen wall?' Barinov is angry that they took down a wall in his kitchen."),
-    (3, None, "'Guests want to see the work of the best cooks.' Vika explains that the customers want to watch the chefs cook."),
-    (4, None, "'This is not a kitchen, but a foolish circus!' Barinov complains that his kitchen feels like a silly show now."),
-    (5, None, "'All our guests love this beautiful hall.' Vika defends the changes by saying the guests love the new look."),
-    (6, None, "'They look at me like at a fish!' Barinov feels like a fish in a bowl because everyone is staring at him."),
-    (7, None, "'The guests are still in shock from shouting.' Vika points out that the guests are surprised because he yells so much."),
-    (8, None, "'I am a great chef, not a fish!' Barinov proudly reminds her that he is an important chef."),
-    (9, None, "'Then behave calmly in front of people.' Vika tells him to act calm if he wants to be respected."),
-    (10, None, "'I will not tolerate this new circus!' Barinov refuses to accept this new open kitchen setup."),
-    (11, None, "'Get used to it, this is a modern and beautiful restaurant.' Vika tells him to get used to it because this is how modern places look."),
+    (0, None, "'Vika, what is happening in my restaurant?' 'Chto proiskhodit' is the standard 'what's going on?'. In v moyom restorane, restoran adds an 'e' after v."),
+    (1, None, "'Actually, this important question is for you!' 'Voobshche-to' means 'in fact', and the little 'to' makes it sound pointed. 'K tebe' is 'to you', so she hands the question back to him."),
+    (2, None, "'Why did you remove the kitchen wall?' The 'vy' here is plural, Vika and her people. On their own, these two say ty to each other. 'Ubrali' is 'removed', and 'stenu' is the wall as the thing removed."),
+    (3, None, "'Guests want to see the work of the best cooks.' 'Khotyat' is 'they want' and goes with 'videt', 'to see', as in English. 'Luchshikh' is 'of the best', and 'povarov' is 'of cooks'."),
+    (4, None, "'This is not a kitchen, but a foolish circus!' A tiny 'a' carries the 'but' in 'not this, but that'. 'Duratskiy', foolish, is built on 'durak', fool."),
+    (5, None, "'All our guests love this beautiful hall.' 'Vse' is 'all', 'nashi' is 'our', and 'lyubyat' is 'they love'. 'Krasivy' means 'beautiful', the same word as 'handsome' for people."),
+    (6, None, "'They look at me like at a fish!' 'Kak na rybu' is literally 'like at a fish', and Russian keeps the 'at' in front of the fish. 'Rybu' is how 'ryba' looks when it's the thing being looked at."),
+    (7, None, "'The guests are still in shock from shouting.' 'Do sikh por' is literally 'until these times', which is how Russians say 'still'. 'Ot krika' is 'from the shout': ot takes the 'of' ending, so krik becomes krika."),
+    (8, None, "'I am a great chef, not a fish!' 'Velikiy' means 'great' in the sense of 'grand', not just 'big'. 'A ne' is 'and not'."),
+    (9, None, "'Then behave calmly in front of people.' 'Vedi sebya' is literally 'lead yourself', and it means 'behave'. 'Pered' is 'in front of', and 'lyudmi' is how 'people' changes after it."),
+    (10, None, "'I will not tolerate this new circus!' 'Ne poterplyu' is the future, 'I will not put up with it'. 'Tsirk' is a masculine thing, not a person, so as the object it keeps its plain shape: etot novyy tsirk."),
+    (11, None, "'Get used to it, this is a modern and beautiful restaurant.' 'Privykay' is the ty order of 'get used'. 'Restoran' is masculine, so both describing words end in 'yy': sovremennyy i krasivyy."),
 ]

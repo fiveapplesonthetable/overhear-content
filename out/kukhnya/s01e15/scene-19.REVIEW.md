@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Доброе утро, Виктор. | Good morning, Viktor. | #366: Доброе утро. Доброе, доброе. | verbatim |
-| 2 | Мама | Доброе утро. | Good morning. | #366: Доброе, доброе. | verbatim |
-| 3 | Мама | Виктор приготовил такой омлет. | Victor prepared such an omelet. | #367: Виктор Петрович приготовил такой омлет. | verbatim |
-| 4 | Лёва | Это типа извинения? | Is this a kind of apology? | #368: Это типа извинения? | verbatim |
-| 5 | Шеф | Это типа омлет. | This is a kind of omelet. | #369: Это типа омлет. | verbatim |
-| 6 | Шеф | Ешь давай. | Come on, eat. | #370: Ешь давай, я на работу опоздаю. | verbatim |
-| 7 | Шеф | Я опоздаю на работу. | I will be late for work. | #370: я на работу опоздаю. | verbatim |
+| 1 | Мама | Доброе утро, Лёва. | Good morning, Lyova. | #366 00:23:29: Доброе утро. Доброе, доброе. | adapted: adapted: the greeting goes to Lyova, not to Barinov himself |
+| 2 | Лёва | Доброе утро. | Good morning. | #366 00:23:29: Доброе, доброе. | verbatim |
+| 3 | Мама | Виктор приготовил такой омлет. | Viktor made such an omelet. | #367 00:23:30: Виктор Петрович приготовил такой омлет. | verbatim |
+| 4 | Лёва | Это типа извинения? | Is this a kind of apology? | #368 00:23:35: Это типа извинения? | verbatim |
+| 5 | Шеф | Это типа омлет. | This is a kind of omelet. | #369 00:23:38: Это типа омлет. | verbatim |
+| 6 | Шеф | Ешь давай. | Come on, eat. | #370 00:23:40: Ешь давай, я на работу опоздаю. | verbatim |
+| 7 | Шеф | Я опоздаю на работу. | I will be late for work. | #370 00:23:40: я на работу опоздаю. | verbatim |
 | 8 | Мама | Да, кушайте быстрее. | Yes, eat faster. | new | new |
 | 9 | Лёва | Ладно, я съем это. | Alright, I will eat this. | new | new |
-| 10 | Шеф | Это очень вкусно. | This is very delicious. | new | new |
+| 10 | Лёва | Это очень вкусно. | This is very delicious. | new | new |
 | 11 | Мама | Нам пора идти. | It is time for us to go. | new | new |
 | 12 | Лёва | Спасибо за завтрак. | Thank you for the breakfast. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Viktor.' Barinov starts the day with a standard morning greeting directed at himself or another Viktor.
-- 'Good morning.' Mama returns the pleasantry simply and warmly.
-- 'Victor prepared such an omelet.' She praises his cooking, drawing attention to how special the dish turned out.
-- 'Is this a kind of apology?' Lyova questions the motive behind the meal, wondering if it serves as a peace offering.
-- 'This is a kind of omelet.' Barinov deflects the question with dry humor, pointing out the obvious nature of the food instead.
-- 'Come on, eat.' He issues a blunt instruction to dig in without further discussion.
-- 'I will be late for work.' The chef adds pressure by bringing up his tight morning schedule.
-- 'Yes, eat faster.' Mama echoes the urgency, encouraging everyone to speed up their meal.
-- 'Alright, I will eat this.' Lyova gives in to the pressure and agrees to try the dish.
-- 'This is very delicious.' Barinov boasts a little about the quality of his own cooking.
-- 'It is time for us to go.' She signals the end of breakfast, noting they need to leave.
-- 'Thank you for the breakfast.' Lyova wraps up the scene with a polite expression of gratitude.
+- 'Good morning, Lyova.' 'Utro' is a neuter word, so 'dobroe', good, ends in 'oe' to match.
+- 'Good morning.' Lyova hands the same two words straight back.
+- 'Viktor made such an omelet.' 'Takoy' is 'such a', in the masculine to match 'omlet', a word Russian took from French. 'Prigotovil' is 'made, cooked'.
+- 'Is this a kind of apology?' 'Tipa' comes from 'tip', type, and is everyday slang for 'sort of'. 'Izvinenie', apology, shows up here as 'izvineniya'.
+- 'This is a kind of omelet.' Barinov throws 'tipa' back but leaves 'omlet' unchanged. In slang, 'tipa' doesn't have to change the word after it.
+- 'Come on, eat.' 'Esh'' is the order 'eat!', for a friend. 'Davay' tacked on at the end makes it a nudge.
+- 'I will be late for work.' 'Opozdat na rabotu' is 'to be late onto work': 'na' with the 'u' ending, as when you go to work.
+- 'Yes, eat faster.' 'Kushayte' is a cosy 'eat', with the 'te' that makes it polite and plural. 'Bystree' is 'faster'.
+- 'Alright, I will eat this.' 'Syem' is 'I will eat it up', and the 's' at the front adds the finishing. 'Ladno' is a grudging 'alright'.
+- 'This is very delicious.' 'Vkusno', tasty, comes from 'vkus', taste, and Russian needs no 'is'.
+- 'It is time for us to go.' 'Nam pora', literally 'to us time', is 'it's time we went'. 'Idti' is to go on foot.
+- 'Thank you for the breakfast.' 'Spasibo za' plus the thing: 'za zavtrak'. 'Zavtrak' comes from the same root as 'zavtra', tomorrow; both are built on 'utro', morning.

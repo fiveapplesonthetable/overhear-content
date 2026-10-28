@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Entering the kitchen, Chef Viktor Barinov stops dead in his tracks upon discovering a massive new glass wall overlooking the dining room. When Max explains that Victoria installed the show kitchen window to attract customers, Barinov explodes with anger over being put on display like a circus act. Let's listen to their argument in Russian."
-OPENER = "Let's explore how Chef Barinov reacts to the controversial new show kitchen glass window."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to react to unexpected changes, discuss restaurant renovations, and express professional pride in Russian. Listen for these vivid expressions in the following scene. Next time you watch the episode, listen for the Russian expressions for 'aquarium' and 'arena' — you will catch every word right away. See you next time!"
+INTRO = 'Chef Barinov walks into his kitchen and stops dead: one wall has been replaced with glass, so the guests can watch him cook. Max has to explain whose idea it was. Hear it in Russian first.'
+OPENER = "Line by line, and notice the chef's mood getting worse."
+TRANSITION = 'Now the complete scene once more.'
+OUTRO = "Barinov has heard enough and storms out to find Vika. You also heard a handy way to say 'on the other hand' today. Bye for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Шеф, всё в полном порядке?', 'Chef, is everything in complete order?', [(73, 'все в порядке?')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Я сейчас же пойду поговорить с ней.', 'I will go talk to her right now.', [], ''),
 ]
 WALK = [
-    (0, None, "'What kind of glass aquarium is this?' A scornful exclamatory question mocking the newly installed transparent partition in the restaurant."),
-    (1, None, "'It is needed to attract new guests.' An impersonal purpose construction explaining the marketing strategy behind the dining renovation."),
-    (2, None, "'Cooks should not be in an arena!' An emphatic negative modal statement rejecting public display during culinary preparation."),
-    (3, None, "'I am not a clown in a circus, Max.' A colorful metaphor asserting personal pride and refusing theatrical entertainment for patrons. Now, let's hear Chef Barinov express his outrage over the open kitchen once more."),
+    (0, None, "'Chef, is everything in complete order?' 'V poryadke' is 'in order', which is how Russians say 'fine' or 'all right'. 'Vsyo' is 'everything', and 'polnom' means 'full'."),
+    (1, None, "'What kind of glass aquarium is this?' A grumpy 'what on earth is this?' starts it. Barinov's 'glass' is the adjective 'made of glass', formed from the noun, and 'aquarium' is borrowed whole."),
+    (2, None, "'This is Victoria Sergeyevna's order, chef.' First name plus father's name is the respectful way to name someone. To say 'of', both change: Viktoriya becomes 'Viktorii' and Sergeyevna becomes 'Sergeyevny'."),
+    (3, None, "'Why do we need this transparent wall?' 'Zachem nam' is literally 'what for to us'. 'Eta' and 'prozrachnaya' end in 'a' because 'stena', wall, is a feminine word."),
+    (4, None, "'It is needed to attract new guests.' Max says 'she' about the wall, since 'wall' is feminine in Russian, so 'nuzhna' ends in 'a' too. 'Dlya' means 'for' and sets up the reason."),
+    (5, None, "'This is a trendy open kitchen format.' 'Modnyy', 'trendy', grows from moda, 'fashion'. 'Format otkrytoy kukhni' is literally 'format of open kitchen'."),
+    (6, None, "'Cooks should not be in an arena!' 'Povara' is the plural of 'povar', cook. 'Dolzhny' is 'must', in the plural, and 'ne dolzhny' is 'shouldn't'. 'Na arene' is 'on the arena', where Russian uses 'on' again."),
+    (7, None, "'Guests love watching the cooking process.' 'Lyubyat' is 'they love', and 'smotret', 'to watch', follows it in its basic shape. 'Gotovki' is 'of cooking', built from 'gotovit', cook."),
+    (8, None, "'They will see our every step.' 'Budut videt' is made of 'will be' and 'see', which is how Russian does the future with this word. 'Kazhdy' means 'every'."),
+    (9, None, "'On the other hand, there will be more patrons in the restaurant.' 'Zato' means 'but on the plus side', and Russians use it to say 'on the other hand, it's good'. 'Bolshe' is 'more', and after it, posetiteli, 'visitors', becomes posetiteley."),
+    (10, None, "'I am not a clown in a circus, Max.' 'Kloun' and 'tsirk' are borrowed words, so you can guess them. 'V tsirke' is 'in the circus', and there's no 'am' in the sentence."),
+    (11, None, "'Victoria Sergeyevna has already decided everything herself.' 'Reshila' ends in 'a' because the person who decided is a woman, and 'sama', 'herself', does the same. A man would say 'reshil' and 'sam'."),
+    (12, None, "'I will go talk to her right now.' Two actions in a row: 'I will go' and 'to have a talk'. After 'with', 'she' turns into 'ney', so 'with her' is just two short words."),
 ]
