@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'I had the impression of being a magician.' Noemie remembers feeling uniquely powerful."),
     (13, None, "'Noemie, this man is toxic for you.' Herve provides sobering objective advice."),
     (14, None, "'It is hard to forget memories like that.' Noemie acknowledges lingering attachment."),
-    (15, None, "'Come to the theater with me to think about something else.' Herve suggests a healthy distraction."),
+    (15, None, "'Come to the theater with me to think about something else.' Herve suggests a healthy distraction. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vanya, wait, there is nothing between us!' Nina urgently denies any romantic connection with Danya.
 - 'Did you tell Samsonov about the baby?' Marina inquires about Nina's undisclosed pregnancy.
 - 'No, I did not tell him anything.' Nina admits she has kept the major news completely hidden.
-- 'Where would we put a third child?' A rhetorical question emphasizing their financial hardship.
+- 'Where would we put a third child?' Nina asks this pointed question to drive home how cramped their home already is.
 - 'Am I supposed to put him on my head?' An exasperated Russian expression expressing complete lack of space and means.
 - 'You are a fool! Go and tell him everything.' Marina bluntly urges Nina to be honest with Samsonov.

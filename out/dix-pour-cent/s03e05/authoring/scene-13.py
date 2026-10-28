@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Keep your face calm like a mask.' Camille urges a restrained, interior performance."),
     (11, None, "'You know what, forget it, I stop!' Valentin feels hurt and threatens to walk away."),
     (12, None, "'Wait, stay, I am sorry Valentin.' Camille rushes to comfort her vulnerable boyfriend."),
-    (13, None, "'Sorry, it is entirely my fault.' Camille softens the critique to rebuild his confidence."),
+    (13, None, "'Sorry, it is entirely my fault.' Camille softens the critique to rebuild his confidence. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

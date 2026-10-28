@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sigourney | Dansez avec moi, c'est formidable! | Dance with me, it is wonderful! | new | new |
 | 14 | Bernard | Non, c'est trop de pas! | No, that is too many steps! | #631: Bernard ? Qu'est-ce qui se passe ?<br>#632: Trop de pas ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I like your movie project very much.' Bernard shares his initial artistic interest.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Look, I am going to show you.' Sigourney offers a live demonstration right in the dining room.
 - 'But what are you doing?' Bernard gasps as Sigourney hops energetically across the floor.
 - 'Dance with me, it is wonderful!' Sigourney invites him to share her joy of movement.
-- 'No, that is too many steps!' Bernard grabs his coat and flees in terror of exceeding his quota.
+- 'No, that is too many steps!' Bernard grabs his coat and flees in terror of exceeding his quota. Now let's listen to the complete discussion once more to reinforce the vocabulary.

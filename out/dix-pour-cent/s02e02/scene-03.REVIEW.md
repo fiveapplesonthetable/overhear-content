@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Sofia | Bonjour Gabriel, désolée pour mon retard. | Hello Gabriel, sorry for my delay. | #105: Bonjour.<br>#110: Au fait, désolée pour ça. | verbatim |
-| 2 | Gabriel | Pose ton sac, on y va! | Put your bag down, let | #111: Pose ton sac, on y va. | verbatim |
+| 2 | Gabriel | Pose ton sac, on y va! | Put your bag down, let's go! | #111: Pose ton sac, on y va. | verbatim |
 | 3 | Gabriel | On est très en retard pour ton audition. | We are very late for your audition. | #112: On est en retard, | verbatim |
 | 4 | Sofia | J'ai une seule question sur le texte. | I have just one question about the text. | #113: Une seule question... | verbatim |
 | 5 | Sofia | Je n'ai pas lu tout le scénario. | I have not read the entire script. | #114: Je n'ai pas lu tout le scénario. | verbatim |
@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sofia | D'accord, je suis prête. | Okay, I am ready. | #129: D'accord. | verbatim |
 | 14 | Gabriel | Respire et montre ton plus grand sourire. | Breathe and show your biggest smile. | #116: avec un grand sourire | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Gabriel, sorry for my delay.' Sofia greets her agent with a polite apology for running late.
 - 'Put your bag down, let's go!' Gabriel gives urgent directions to get moving without delay.
-- 'We are very late for your audition.' An emphatic statement about their tight schedule.
-- 'I have just one question about the text.' A polite request for clarification before rushing out.
-- 'I have not read the entire script.' A negative compound past statement explaining her lack of preparation.
-- 'I am not sure about the character.' An expression of doubt regarding how to play the role.
+- 'We are very late for your audition.' Gabriel warns Sofia that they are very late for her audition.
+- 'I have just one question about the text.' Sofia politely asks for clarification about the script before rushing out.
+- 'I have not read the entire script.' Sofia explains her lack of preparation.
+- 'I am not sure about the character.' Sofia expresses doubt about how to play the character.
 - 'She is a young, pretty, and sexy secretary.' Gabriel gives a very simple summary of the role.
-- 'She runs into her boss and decides to seduce him.' A brief overview of the plot action in the scene.
+- 'She runs into her boss and decides to seduce him.' Gabriel gives a brief overview of the plot action in the scene.
 - 'Hitting on her boss in a butcher shop?' Sofia expresses disbelief at the bizarre audition setting.
-- 'Besides, he could be her father!' A conditional observation highlighting the age difference.
-- 'Sofia, do not complicate things.' A reassuring imperative advising her to keep it simple.
-- 'We are wasting time, let us go now.' An urgent reminder that they must leave immediately.
-- 'Okay, I am ready.' A calm confirmation that she is prepared to face the director.
-- 'Breathe and show your biggest smile.' Friendly advice on stage presence from her supportive agent.
+- 'Besides, he could be her father!' Sofia highlights the age difference.
+- 'Sofia, do not complicate things.' Gabriel advises her to keep it simple.
+- 'We are wasting time, let us go now.' Gabriel urgently reminds her that they must leave right away.
+- 'Okay, I am ready.' Sofia calmly confirms that she is prepared to face the director.
+- 'Breathe and show your biggest smile.' Friendly advice on stage presence from her supportive agent. Now let's listen to their conversation in the lobby again without pausing.

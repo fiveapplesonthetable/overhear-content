@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sandrine | Tu promets de signer ce contrat? | Do you promise to sign this contract? | #1131: Faisons La Comtesse de Ségur | verbatim |
 | 14 | Gabriel | Je t'appelle le producteur dès demain. | I will call the producer for you tomorrow. | #1131: Faisons La Comtesse | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I have crazy stage fright tonight.' Sandrine shivers backstage before going on.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I want to do this costume film!' Sandrine states her true artistic desire.
 - 'All right, you won, Sandrine.' Gabriel surrenders to her demand.
 - 'Do you promise to sign this contract?' Sandrine secures her victory.
-- 'I will call the producer for you tomorrow.' Gabriel pledges to close the deal.
+- 'I will call the producer for you tomorrow.' Gabriel pledges to close the deal. Now let's listen to the complete discussion once more to reinforce the vocabulary.

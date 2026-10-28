@@ -20,10 +20,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Gabriel | Mes amis nous attendent là-bas. | My friends are waiting for us there. | #1099: va être de la bombe | verbatim |
 | 9 | Sarah | As-tu prévu un bon transport? | Did you arrange good transportation? | #1100: besoin d'un transport | verbatim |
 | 10 | Gabriel | Oui, un taxi attend dehors. | Yes, a taxi is waiting outside. | #1100: besoin d'un transport | verbatim |
-| 11 | Sarah | D'accord, partons tout de suite. | All right, let | #1101: on y va | verbatim |
+| 11 | Sarah | D'accord, partons tout de suite. | All right, let's leave right away. | #1101: on y va | verbatim |
 | 12 | Gabriel | Parfait, nous y allons ensemble. | Perfect, we are going there together. | #1101: on y va | verbatim |
 | 13 | Gabriel | Allez, viens avec moi, Sarah! | Come on, come with me, Sarah! | #1102: Allez, viens | verbatim |
 | 14 | Camille | Passez une très bonne nuit! | Have a very good night! | #1095: Au revoir, Camille | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

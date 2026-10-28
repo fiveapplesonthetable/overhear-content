@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire dialogue once more to lock in what 
 OUTRO = "Hicham prepares to face the furious production team with Mathias's strategic notes in hand. When you watch the episode, listen out for the expressions meaning 'meeting' and 'crisis'. You'll catch them now. See you next time!"
 CLOSING = ('hicham', 'Bonne soirée!')
 STORY = [
-    ('andrea', 'Réunion de crise pour le film de Béatrice.', 'Crisis meeting for Beatrice', [(351, 'Ok, réunion de crise sur le hyper guette')], ''),
+    ('andrea', 'Réunion de crise pour le film de Béatrice.', "Crisis meeting for Beatrice's film.", [(351, 'Ok, réunion de crise sur le hyper guette')], ''),
     ('andrea', 'Je veux du concret et des solutions.', 'I want concrete ideas and solutions.', [(352, 'Je veux du précis, je veux du concret, je vous écoute')], ''),
     ('mathias', "L'épreuve de force va être très rude.", 'The power struggle will be very tough.', [(364, "On sait que l'épreuve de force va être difficile")], ''),
     ('mathias', 'Il faut envoyer notre meilleur négociateur.', 'We must send our best negotiator.', [(365, "Donc il faut envoyer le meilleur d'entre nous au casse-pipe")], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am the one who will handle this producer.' Hicham claims the mission."),
     (11, None, "'Very well, Hicham, go ahead then.' Andrea yields to Hicham's determination."),
     (12, None, "'But let me brief you before leaving.' Mathias insists on providing tactical advice."),
-    (13, None, "'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time."),
+    (13, None, "'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

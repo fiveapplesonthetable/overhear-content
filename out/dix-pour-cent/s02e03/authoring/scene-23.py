@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'We are going to win the game!' The youngster confidently predicts victory for his side."),
     (11, None, "'Do not be too shy.' Norman kindly encourages the boy to relax and have fun."),
     (12, None, "'Have good fun all together.' Hicham sends the kids off to begin their laser adventure."),
-    (13, None, "'Here we go for the fight!' Norman joins the children as the match kicks off."),
+    (13, None, "'Here we go for the fight!' Norman joins the children as the match kicks off. Now let's listen to the entire exchange once more from beginning to end."),
 ]

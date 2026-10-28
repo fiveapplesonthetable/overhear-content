@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'I was so afraid of losing your love.' Mathias confesses his deep insecurity."),
     (13, None, "'I do not want a man who flees his duties.' Catherine demands integrity and responsibility."),
     (14, None, "'You are right, I was cowardly with her.' Mathias finally recognizes his failings."),
-    (15, None, "'Call your daughter now and take on your role.' Catherine urges him to act honorably."),
+    (15, None, "'Call your daughter now and take on your role.' Catherine urges him to act honorably. Now let's listen to the painful confrontation once more at normal pace."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Do you think that is a good idea?' Mathias questions the matchmaking scheme."),
     (11, None, "'He is charming and extremely talented.' Catherine praises Alexandre's qualities."),
     (12, None, "'He will help her a lot with her rehabilitation.' Catherine justifies the match with therapeutic benefits."),
-    (13, None, "'Okay, we shall see tonight.' Mathias concedes with quiet hesitation."),
+    (13, None, "'Okay, we shall see tonight.' Mathias concedes with quiet hesitation. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

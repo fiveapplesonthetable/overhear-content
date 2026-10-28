@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'And a glass of red wine for me.' Annick chooses wine to steady her emotions."),
     (13, None, "'I will take care of it.' Mathias offers to cover the order."),
     (14, None, "'You take care of everything, always.' Annick evokes his habitual need for control."),
-    (15, None, "'Better late than never.' Mathias acknowledges their belated family reunion."),
+    (15, None, "'Better late than never.' Mathias acknowledges their belated family reunion. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

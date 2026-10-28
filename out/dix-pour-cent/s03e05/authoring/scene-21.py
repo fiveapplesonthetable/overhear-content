@@ -28,7 +28,7 @@ STORY = [
     ('hicham', 'On kiffe ce joli moment ensemble.', 'We are enjoying this lovely moment together.', [(830, 'On kiffe')], ''),
     ('colette', "C'est une surprise très inattendue.", 'It is a very unexpected surprise.', [(829, "Qu'est-ce que vous faites")], ''),
     ('hicham', 'Je ne veux aucun conflit, Colette.', 'I want no conflict, Colette.', [], ''),
-    ('andrea', 'Nous voulons le bonheur de Flora.', 'We want Flora', [], ''),
+    ('andrea', 'Nous voulons le bonheur de Flora.', "We want Flora's happiness.", [], ''),
     ('colette', "C'est un beau moment de paix.", 'It is a beautiful moment of peace.', [(830, 'On kiffe')], ''),
 ]
 WALK = [

@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | Noémie s'est battue pour te décrocher l'audition. | Noémie fought hard to land you the audition. | #191: pour te décrocher l'audition. | verbatim |
 | 13 | Dario | Eh bien, merci beaucoup! Au revoir! | Well, thank you very much! Goodbye! | #193: Eh bien, merci.<br>#196: Au revoir. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is the contract for Nathalie Baye ready?' Mathias asks his assistant for an urgent legal document.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So you thought of me!' Dario jokes about matching the socially awkward character description.
 - 'Exactly! You have the ideal profile.' Mathias affirms that Dario fits the casting requirements perfectly.
 - 'Noémie fought hard to land you the audition.' Mathias gives Noémie credit for fighting hard to land Dario the audition.
-- 'Well, thank you very much! Goodbye!' Dario politely thanks his agent and takes his leave.
+- 'Well, thank you very much! Goodbye!' Dario politely thanks his agent and takes his leave. Now let's listen to the pitch meeting once more from beginning to end.

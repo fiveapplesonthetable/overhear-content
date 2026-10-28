@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Sofia | Julien, garde espoir pour ce beau film. | Julien, keep hope for this beautiful film. | #854: Non, Julien, non. | verbatim |
 | 15 | Gabriel | Ne baisse pas les bras si vite, Julien. | Do not give up so quickly, Julien. | #854: Non, Julien, non. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'France 2 refuses to finance our film!' Julien announces the shock cancellation of their television funding.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We can find another financing elsewhere.' Gabriel suggests pitching alternative partners and investors.
 - 'No, it is finished, I give up.' Julien sinks into despair and declares his intention to walk away.
 - 'Julien, keep hope for this beautiful film.' Sofia appeals to his passion for their collaborative project.
-- 'Do not give up so quickly, Julien.' Gabriel urges Julien not to give up on his first film so quickly.
+- 'Do not give up so quickly, Julien.' Gabriel urges Julien not to give up on his first film so quickly. Now let's listen to the scene once more from start to finish.

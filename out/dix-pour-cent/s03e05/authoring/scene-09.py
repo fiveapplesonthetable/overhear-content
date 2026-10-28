@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I keep reaching her voicemail.' Andrea vents her frustration."),
     (11, None, "'The production threatens a lawsuit.' Arlette warns of legal repercussions."),
     (12, None, "'Wait, my phone is ringing at last.' Andrea notices an incoming call."),
-    (13, None, "'Hello Beatrice? Where are you exactly?' Andrea answers urgently."),
+    (13, None, "'Hello Beatrice? Where are you exactly?' Andrea answers urgently. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

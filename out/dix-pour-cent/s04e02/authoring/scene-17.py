@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'And are you still afraid?' Dylan wonders if experience banishes anxiety."),
     (11, None, "'I still get terrified sometimes.' Franck normalizes fear as part of acting."),
     (12, None, "'You must never hesitate to try.' Franck urges creative fearlessness."),
-    (13, None, "'Thank you Franck, this advice reassures me.' Dylan gains fresh courage."),
+    (13, None, "'Thank you Franck, this advice reassures me.' Dylan gains fresh courage. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Personally, I am very attached to the name ASK.' Mathias affirms his loyalty to the agency's traditional identity."),
     (10, None, "'Samuel Kerr created this famous agency.' Mathias honors the legacy of their late founding partner."),
     (11, None, "'ASK has been a prestigious brand for years.' Mathias highlights the strong market reputation established over decades."),
-    (12, None, "'By changing names, we would lose our clients.' Mathias cautions that rebranding could confuse top talent and movie producers."),
+    (12, None, "'By changing names, we would lose our clients.' Mathias cautions that rebranding could confuse top talent and movie producers. Now let's listen to the scene once more from start to finish."),
 ]

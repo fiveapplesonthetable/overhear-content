@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What, are you worse than a monkey?' After the comparative word 'worse', 'monkey' takes the 'of'-form ending 'than a monkey'. Pasha answers literally.
 - 'No, I'm better than a monkey.' That sounds suspiciously like backtalk to the governor.
 - 'What are you doing over there now? Are you joking with me, or what?' In the show he uses a colourful Russian verb meaning 'are you being cheeky with me?' Pasha quickly backs down.
-- 'No, I'm not joking, Viktor Stepanovich.' notice how the consonant in 'joke' changes to a 'ch' sound in the 'I' form.
+- 'No, I'm not joking, Viktor Stepanovich.' Notice how the consonant in 'joke' changes to a 'ch' sound in the 'I' form.
 - 'Then don't joke with me right now!' Literally, 'there, and one must not joke with me now'.
 - 'You can't be trusted with anything! Are you listening to me?' Literally, 'to you nothing is possible to entrust'.
 - 'I'm listening.' Suddenly the governor notices the echo on the line.

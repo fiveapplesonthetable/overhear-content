@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'What are you saying?' Samy is taken aback by the sudden shift."),
     (11, None, "'Go there quickly to fix things.' Camille Valentini urges him to save the day."),
     (12, None, "'I love you with all my heart.' Samy reaffirms his love before leaving."),
-    (13, None, "'I love you very much too.' Camille Valentini returns the sentiment warmly."),
+    (13, None, "'I love you very much too.' Camille Valentini returns the sentiment warmly. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

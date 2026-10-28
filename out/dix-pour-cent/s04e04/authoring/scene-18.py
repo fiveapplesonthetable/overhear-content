@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Do not leave like that, Camille!' Mathias panics as she grabs her coat."),
     (11, None, "'I am going home immediately.' Camille steps toward the door."),
     (12, None, "'Let me at least explain all that to you.' Mathias makes a final plea."),
-    (13, None, "'It is over between us, Mr. Barneville.' Camille uses his formal surname to mark the break."),
+    (13, None, "'It is over between us, Mr. Barneville.' Camille uses his formal surname to mark the break. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

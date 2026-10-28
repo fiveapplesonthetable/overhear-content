@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'So you thought of me!' Dario jokes about matching the socially awkward character description."),
     (10, None, "'Exactly! You have the ideal profile.' Mathias affirms that Dario fits the casting requirements perfectly."),
     (11, None, "'Noémie fought hard to land you the audition.' Mathias gives Noémie credit for fighting hard to land Dario the audition."),
-    (12, None, "'Well, thank you very much! Goodbye!' Dario politely thanks his agent and takes his leave."),
+    (12, None, "'Well, thank you very much! Goodbye!' Dario politely thanks his agent and takes his leave. Now let's listen to the pitch meeting once more from beginning to end."),
 ]

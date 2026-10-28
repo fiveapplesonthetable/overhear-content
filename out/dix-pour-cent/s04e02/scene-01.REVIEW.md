@@ -23,21 +23,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Franck | Je ne conviens pas à ce cinéma. | I am not suited to this cinema. | #69: le cinéma d'auteur | verbatim |
 | 12 | Franck | Je veux quitter ce tournage sans attendre. | I want to leave this shoot without waiting. | #73: temps de me tirer | verbatim |
 | 13 | Franck | Et je vais aussi quitter votre agence. | And I am also going to leave your agency. | #73: temps de me tirer | verbatim |
-| 14 | Gabriel | Attends, parlons calmement de tout cela. | Wait, let | #31: ton avenir chez ASK | verbatim |
+| 14 | Gabriel | Attends, parlons calmement de tout cela. | Wait, let's talk calmly about all this. | #31: ton avenir chez ASK | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gabriel, we must keep Franck with us.' An urgent executive order emphasizing the vital need to retain bankable talent.
-- 'He is shooting a fine arthouse film.' An optimistic assumption about the prestigious creative project.
-- 'Hello Franck, I come to talk about your future.' A diplomatic opening broaching representation and agency loyalty.
-- 'It is the worst shoot of my life!' An explosive grievance revealing acute misery on the production.
-- 'The director constantly rewrites all the scenes.' An exasperated complaint criticizing unpredictable artistic methods.
-- 'She always asks me to act less.' A baffled protest against confusing minimalist acting directions.
-- 'She is simply seeking a very pure emotion.' A tactful defense translating avant-garde intentions into positive craft goals.
-- 'My young co-star makes fun of me.' A painful confession detailing disrespect from an arrogant newcomer.
-- 'This movie is your big dramatic turning point.' An encouraging perspective framing the struggle as a career breakthrough.
-- 'This role will be your Tchao Pantin.' A flattering historical analogy recalling Coluche's legendary dramatic transition.
-- 'I am not suited to this cinema.' A frank admission recognizing an uncomfortable cultural misfit.
-- 'I want to leave this shoot without waiting.' A reckless threat announcing an immediate walkout from the film.
-- 'And I am also going to leave your agency.' A devastating escalation threatening to sever ties with ASK completely.
-- 'Wait, let's talk calmly about all this.' A soothing intervention attempting to prevent an irreversible rupture.
+- 'Gabriel, we must keep Franck with us.' Andréa emphasizes the vital need to retain bankable talent.
+- 'He is shooting a fine arthouse film.' Andréa voices an optimistic assumption about the prestigious arthouse project.
+- 'Hello Franck, I come to talk about your future.' Gabriel broaches representation and agency loyalty.
+- 'It is the worst shoot of my life!' Franck reveals acute misery on the production.
+- 'The director constantly rewrites all the scenes.' Franck criticizes unpredictable artistic methods.
+- 'She always asks me to act less.' Franck protests in bafflement at the director's minimalist instructions.
+- 'She is simply seeking a very pure emotion.' Gabriel translates avant-garde intentions into positive craft goals.
+- 'My young co-star makes fun of me.' Franck details disrespect from an arrogant newcomer.
+- 'This movie is your big dramatic turning point.' Gabriel frames the struggle as a career breakthrough.
+- 'This role will be your Tchao Pantin.' Gabriel recalls Coluche's legendary dramatic transition.
+- 'I am not suited to this cinema.' Franck recognizes an uncomfortable cultural misfit.
+- 'I want to leave this shoot without waiting.' Franck announces an immediate walkout from the film.
+- 'And I am also going to leave your agency.' Franck threatens to sever ties with ASK completely.
+- 'Wait, let's talk calmly about all this.' Gabriel attempts to prevent an irreversible rupture. Now let's listen to Andrea, Gabriel, and Franck talking again at full speed.

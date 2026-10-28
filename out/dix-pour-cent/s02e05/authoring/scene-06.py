@@ -16,8 +16,8 @@ TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Andréa and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. See you next time!"
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
-    ('andrea', 'Je sors de chez le médecin de Guy.', 'I have just come from Guy', [(159, 'Je sors de chez le médecin de Guy.')], ''),
-    ('andrea', 'La santé de Guy est une catastrophe.', 'Guy', [(159, "C'est une catastrophe")], ''),
+    ('andrea', 'Je sors de chez le médecin de Guy.', "I have just come from Guy's doctor.", [(159, 'Je sors de chez le médecin de Guy.')], ''),
+    ('andrea', 'La santé de Guy est une catastrophe.', "Guy's health is a disaster.", [(159, "C'est une catastrophe")], ''),
     ('gabriel', "Tu veux me parler d'autre chose?", 'Do you want to talk about something else?', [(164, 'Tu veux quoi ?'), (165, 'Parler.')], ''),
     ('andrea', "Oui, au sujet de l'agent junior.", 'Yes, about the junior agent.', [(168, 'Un junior.')], ''),
     ('andrea', 'Est-ce que tu en veux un?', 'Do you want one?', [(169, "T'en veux un ou pas ?")], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Both suit me very well.' Gabriel stays open-minded with no preference for either."),
     (10, None, "'Do you think that will make you look weak?' Andrea probes whether showing stress makes him feel vulnerable."),
     (11, None, "'I am not like that, Andréa.' Gabriel asserts that he is not guarded or competitive toward her."),
-    (12, None, "'Right now, I have a lot of work.' Gabriel closes the discussion to return to his pressing tasks."),
+    (12, None, "'Right now, I have a lot of work.' Gabriel closes the discussion to return to his pressing tasks. Now let's listen to the scene once more from start to finish."),
 ]

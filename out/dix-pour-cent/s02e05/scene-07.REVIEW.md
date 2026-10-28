@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Et les répétitions tardives à deux heures? | And the late rehearsals until two in the morning? | #214: Et les répétitions qui finissent à 2 h du mat ? | verbatim |
 | 13 | Sofia | Julien dort très peu la nuit, Gabriel. | Julien sleeps very little at night, Gabriel. | #216: Julien ne dort pas beaucoup, contrairement à toi. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Did it go well with Julien?' Gabriel inquires about Sofia's rehearsal day with the pop star.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The boundary between work and private life vanishes.' Gabriel expresses concern over blurred professional lines.
 - 'You are confusing fiction and reality.' Sofia explains that stage performance must not be mistaken for real romance.
 - 'And the late rehearsals until two in the morning?' Gabriel highlights the disruptive late-night hours.
-- 'Julien sleeps very little at night, Gabriel.' Sofia justifies the nocturnal work habits of the artist.
+- 'Julien sleeps very little at night, Gabriel.' Sofia justifies the nocturnal work habits of the artist. Now let's listen to the scene once more from start to finish.

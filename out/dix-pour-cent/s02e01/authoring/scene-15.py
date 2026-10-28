@@ -26,7 +26,7 @@ STORY = [
     ('michel', 'Agissez de manière responsable!', 'Act in a responsible manner!', [(431, 'Agissez de manière responsable')], ''),
     ('mathias', 'Michel, tu as tout à fait raison.', 'Michel, you are completely right.', [(432, 'Michel, tu as tout à fait raison')], ''),
     ('mathias', 'Je raccroche et je trouve Ramzy.', 'I hang up and I find Ramzy.', [(432, 'Je raccroche')], ''),
-    ('michel', "S'il ne fait pas l'émission de Drucker cette semaine, je l'attaque!", 'If he does not do Drucker', [(434, "S'il ne fait pas l'émission de Drucker cette semaine"), (435, "je l'attaque pour rupture de contrat")], ''),
+    ('michel', "S'il ne fait pas l'émission de Drucker cette semaine, je l'attaque!", "If he does not do Drucker's show this week, I will sue him!", [(434, "S'il ne fait pas l'émission de Drucker cette semaine"), (435, "je l'attaque pour rupture de contrat")], ''),
     ('mathias', "Ne t'inquiète pas, il sera là.", 'Do not worry, he will be there.', [], ''),
     ('camille', "C'est une catastrophe, Mathias!", 'It is a disaster, Mathias!', [], ''),
     ('mathias', 'Je dois régler ce problème immédiatement.', 'I must settle this problem immediately.', [], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'If he does not do Drucker's show this week, I will sue him!' Michel threatens to sue if Ramzy misses Michel Drucker's television show."),
     (11, None, "'Do not worry, he will be there.' Mathias reassures the furious producer that Ramzy will be on the set."),
     (12, None, "'It is a disaster, Mathias!' Camille reacts with alarm to the legal threat."),
-    (13, None, "'I must settle this problem immediately.' Mathias tells Camille he has to fix this problem right away."),
+    (13, None, "'I must settle this problem immediately.' Mathias tells Camille he has to fix this problem right away. Now listen to the heated exchange once more from beginning to end."),
 ]

@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Attends Guy, nous devons tourner cette scène! | Wait Guy, we must shoot this scene! | #72: Guy ! | verbatim |
 | 14 | Guy | Non, nous parlerons plus tard au téléphone. | No, we will talk later on the phone. | #66: On se parlera par téléphone. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Guy, we are shooting scene thirty-four.' The director announces the current production sequence.
-- 'Your character must change clothes here.' An explanation of physical character blocking in the scene.
-- 'You take off your pajamas for your suit.' A specific costume change instruction symbolizing political return.
-- 'What are you talking about exactly, young girl?' A bewildered question showing sudden disorientation.
-- 'This woman is asking me to strip!' A dramatic misinterpretation reflecting acute cognitive confusion.
-- 'Guy, calm down, everything is going very well.' A soothing intervention attempting to de-escalate tension.
-- 'Gabriel, this stranger has a lot of nerve.' A dismissive complaint about someone he suddenly fails to recognize.
+- 'Your character must change clothes here.' Véra explains the character's physical blocking in the scene.
+- 'You take off your pajamas for your suit.' Véra describes the costume change that symbolizes his political return.
+- 'What are you talking about exactly, young girl?' Guy shows sudden disorientation.
+- 'This woman is asking me to strip!' Guy reflects acute cognitive confusion.
+- 'Guy, calm down, everything is going very well.' Gabriel attempts to de-escalate tension.
+- 'Gabriel, this stranger has a lot of nerve.' Guy complains about a man he suddenly fails to recognize.
 - 'But that is Vera, the director of the film!' Gabriel clarifies the director's key authority on set.
-- 'No, I have never seen her before.' An alarming memory lapse denying prior collaboration.
+- 'No, I have never seen her before.' Guy denies prior collaboration.
 - 'Yet you worked together last week.' Gabriel gently reminds him of their recent work meetings.
-- 'I feel a bit tired now.' A defensive retreat acknowledging physical weakness.
-- 'I prefer to go home right away.' A hasty departure avoiding public embarrassment.
-- 'Wait Guy, we must shoot this scene!' An anxious plea trying to salvage the shooting schedule.
-- 'No, we will talk later on the phone.' A stubborn dismissal cutting short on-set conversation.
+- 'I feel a bit tired now.' Guy acknowledges physical weakness.
+- 'I prefer to go home right away.' Guy avoids public embarrassment.
+- 'Wait Guy, we must shoot this scene!' Gabriel pleads anxiously with Guy to save the shooting schedule.
+- 'No, we will talk later on the phone.' Guy cuts short on-set conversation. Now let's listen to Guy's alarming misunderstanding on set again at full speed.

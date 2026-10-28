@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'My niece is looking for new work.' Elise presents her niece's job search."),
     (10, None, "'She can babysit Flora day and night.' Elise proposes round-the-clock childcare."),
     (11, None, "'It is a completely unexpected offer.' Andrea marvels at the convenient timing."),
-    (12, None, "'That saves my work week!' Andrea feels a huge burden lifted from her shoulders."),
+    (12, None, "'That saves my work week!' Andrea feels a huge burden lifted from her shoulders. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

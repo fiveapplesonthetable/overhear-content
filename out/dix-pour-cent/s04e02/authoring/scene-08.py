@@ -16,11 +16,11 @@ TRANSITION = "Now let's listen to the complete discussion once more to reinforce
 OUTRO = "Camille weighs the emotional complexity of officially recognizing Mathias as her father. When you watch the episode, listen out for the expressions meaning 'warned' and 'neighbors'. You'll catch them now. See you next time!"
 CLOSING = ('herve', 'Bonne journée!')
 STORY = [
-    ('herve', "J'ai prévenu tous les voisins de l'immeuble.", 'I warned all the building', [(427, "J'ai prévenu les voisins.")], ''),
+    ('herve', "J'ai prévenu tous les voisins de l'immeuble.", "I warned all the building's neighbors.", [(427, "J'ai prévenu les voisins.")], ''),
     ('camille', 'Pour notre pendaison de crémaillère demain soir?', 'For our housewarming party tomorrow evening?', [(429, 'pour la pendaison de crémaillère.')], ''),
     ('herve', 'Oui, avec un mot très cordial.', 'Yes, with a very cordial note.', [(431, "Un mot dans la cage d'escalier.")], ''),
     ('herve', 'Et toi, que regardes-tu sur cette feuille?', 'And you, what are you looking at?', [(435, 'Tu fais quoi là ?')], ''),
-    ('camille', 'La procédure de reconnaissance de paternité de Mathias.', 'Mathias', [(436, 'Je vérifie la procédure de reconnaissance de paternité.')], ''),
+    ('camille', 'La procédure de reconnaissance de paternité de Mathias.', "Mathias's paternity recognition procedure.", [(436, 'Je vérifie la procédure de reconnaissance de paternité.')], ''),
     ('herve', 'Tu vas accepter de signer ce papier?', 'Are you going to agree to sign?', [(437, 'Tu vas dire oui ?')], ''),
     ('camille', 'Je ne sais pas encore quoi décider.', 'I do not know what to decide yet.', [(437, 'Je sais pas.')], ''),
     ('herve', "Mais c'est une opportunité absolument incroyable, Camille!", 'But it is an amazing opportunity, Camille!', [(444, "C'est pas rien.")], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'What now? Tell me the truth.' Camille waits for Herve's punchline."),
     (11, None, "'You will become the Barneville empire heiress!' Herve envisions massive financial prestige."),
     (12, None, "'You always think about money, Herve!' Camille laughs at his relentless materialism."),
-    (13, None, "'Imagine the huge magnificent apartment for us!' Herve pictures their upgraded living quarters."),
+    (13, None, "'Imagine the huge magnificent apartment for us!' Herve pictures their upgraded living quarters. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

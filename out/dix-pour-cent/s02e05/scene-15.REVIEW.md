@@ -24,7 +24,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Camille | Je ne sais pas, c'est trop vite. | I do not know, this is too fast. | #427: Je ne sais pas<br>#428: C'est trop vite | verbatim |
 | 13 | Mathias | Tu as des qualités, mais c'est trop tôt. | You have qualities, but it is too soon. | #430: Tu as plein de qualités, Camille, mais c'est trop tôt | verbatim |
 | 14 | Hippolyte | C'est dingue! Tu ne la soutiens pas. | This is crazy! You do not support her. | #434: C'est dingue | verbatim |
-| 15 | Hippolyte | Tu ne crois pas au talent de tes enfants! | You do not believe in your own children | #436: croire au talent de tes propres enfants | verbatim |
+| 15 | Hippolyte | Tu ne crois pas au talent de tes enfants! | You do not believe in your own children's talent! | #436: croire au talent de tes propres enfants | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I do not know, this is too fast.' Camille feels flattered but overwhelmed by the speed of events.
 - 'You have qualities, but it is too soon.' Mathias tries to protect her while dampening expectations.
 - 'This is crazy! You do not support her.' Hippolyte is outraged by his father's lack of faith.
-- 'You do not believe in your own children's talent!' Hippolyte calls out Mathias for his harsh double standard.
+- 'You do not believe in your own children's talent!' Hippolyte calls out Mathias for his harsh double standard. Now listen to the whole scene again at normal speed, and see how much more you catch.

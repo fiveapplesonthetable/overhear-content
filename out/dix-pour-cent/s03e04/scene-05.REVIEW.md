@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Hervé | Il ne tourne jamais autour du pot. | He never beats around the bush. | #250: tourner autour du pot. | verbatim |
 | 13 | Hervé | C'est un grand parano, ton père! | Your father is a total paranoid! | #254: C'est un grand parano, ton père. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The agency is my second family.' Mathias reminds Camille that their professional bond runs very deep.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He spoke to me about agency loyalty.' Camille explains Mathias's pointed comments about family and trust.
 - 'It is fine, he knows nothing.' Herve tries to calm her nerves with pragmatic reassurance.
 - 'He never beats around the bush.' Herve points out that Mathias always confronts problems directly.
-- 'Your father is a total paranoid!' Herve laughs off the encounter as typical senior agent paranoia.
+- 'Your father is a total paranoid!' Herve laughs off the encounter as typical senior agent paranoia. Now let's listen to the full conversation once more to reinforce the key phrases.

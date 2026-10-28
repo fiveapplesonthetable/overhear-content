@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Camille | Je n'aime pas les arrondissements trop lointains. | I do not like distant arrondissements. | #209: J'aime pas les arrondissements à deux chiffres,<br>#210: c'est trop loin. | verbatim |
 | 13 | Hervé | Tu es vraiment devenue très snob, Camille! | You have really become very snobbish, Camille! | #212: tu peux pas être aussi snob. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Working with screenwriters is wonderful.' Camille appreciates representing authors because they generate fresh film projects.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, that workshop is in the twentieth!' Camille objects that the venue sits on the outer edge of Paris.
 - 'Why do you refuse to go to that arrondissement?' Herve asks why crossing Paris is such a problem for her.
 - 'I do not like distant arrondissements.' Camille admits that she prefers staying in central neighborhoods.
-- 'You have really become very snobbish, Camille!' Herve teases Camille for adopting stereotypical Parisian snobbery.
+- 'You have really become very snobbish, Camille!' Herve teases Camille for adopting stereotypical Parisian snobbery. Now let's listen to the scene once more from start to finish.

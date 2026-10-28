@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | Ils vont penser que je suis une menteuse. | They will think that I am a liar. | #120: comme une sorte de | verbatim |
 | 14 | Camille | Je suis très heureuse ici, je ne veux pas gâcher ça. | I am very happy here, I do not want to ruin that. | #121: je ne veux pas gâcher ça. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Are you sure you have eaten enough?' Over breakfast, Mathias checks with fatherly concern that Camille has eaten enough.
 - 'So, you have something to tell me.' Camille senses his hesitation and prompts him to say what is on his mind.
 - 'I caused harm by hiding the truth for years.' Mathias admits he caused real pain by hiding the truth for so many years.
-- 'Catherine threw me out.' An idiomatic past expression literally meaning put to the door.
+- 'Catherine threw me out.' Mathias uses an everyday expression that literally means 'put to the door'.
 - 'She thinks I am a liar.' Mathias sighs that his wife Catherine now sees him as a liar.
-- 'I want to fix that and tell the truth.' Two infinitives joined by a conjunction after a modal verb.
+- 'I want to fix that and tell the truth.' Mathias says he wants to fix things and tell the truth.
 - 'I want to tell everyone that you are my daughter.' Mathias states his wish to acknowledge his child publicly.
 - 'At the agency? But now I am afraid.' Camille reacts with shock followed by an expression of fear.
 - 'Afraid of what, Camille?' Mathias gently asks Camille what she is afraid of.
-- 'I am afraid of losing the trust of my colleagues.' The verb to lose followed by an abstract quality noun.
-- 'Do you think Andréa wants your daughter as an assistant?' A question highlighting professional vulnerability.
+- 'I am afraid of losing the trust of my colleagues.' Camille admits she is afraid of losing her colleagues' trust.
+- 'Do you think Andréa wants your daughter as an assistant?' Camille highlights professional vulnerability.
 - 'Hervé and Noémie are my friends now.' Camille describes her newly built personal and professional bonds.
-- 'They will think that I am a liar.' The near-future tense expressing Camille's fear of social rejection.
-- 'I am very happy here, I do not want to ruin that.' A heartfelt appeal to preserve her current happiness.
+- 'They will think that I am a liar.' Camille expresses Camille's fear of social rejection.
+- 'I am very happy here, I do not want to ruin that.' Camille makes a heartfelt appeal to preserve her current happiness.

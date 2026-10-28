@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Andréa | Ne t'inquiète pas, je gère. | Do not worry, I am handling it. | #571: T'inquiète pas | verbatim |
 | 15 | Gabriel | Tu es la meilleure, bonne chance! | You are the best, good luck! | #572: T'es le meilleur | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello? Fabrice?' Andrea answers her phone surprised by the late hour.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is that true? The plan worked!' Gabriel is thrilled that their elaborate bluff paid off.
 - 'Be very gentle with him.' Gabriel counsels her to approach the wounded star with care and tact.
 - 'Do not worry, I am handling it.' Andrea reassures him that she has the situation completely under control.
-- 'You are the best, good luck!' Gabriel cheers her on before she sets off into the night.
+- 'You are the best, good luck!' Gabriel cheers her on before she sets off into the night. Now listen to the whole scene again at normal speed, and see how much more you catch.

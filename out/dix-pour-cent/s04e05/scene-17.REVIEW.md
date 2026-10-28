@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Mon Dieu, vous êtes tellement naïf! | My God, you are so naive! | #742: Mon Dieu, vous êtes | verbatim |
 | 14 | Hervé | On ne peut faire confiance à personne. | You cannot trust anyone. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Gabriel, do you have a minute?' Hervé approaches Gabriel hesitantly and asks if he has a minute to talk.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What? That is not true!' Hervé is stunned that his confidence was betrayed.
 - 'She was supposed to keep the secret!' Hervé complains that Elise promised not to tell.
 - 'My God, you are so naive!' Gabriel teases Hervé for trusting a rival agency head.
-- 'You cannot trust anyone.' Hervé laments the lack of discretion in the film industry.
+- 'You cannot trust anyone.' Hervé laments the lack of discretion in the film industry. Now let's listen to the complete discussion once more to reinforce the vocabulary.

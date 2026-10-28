@@ -23,7 +23,7 @@ STORY = [
     ('andrea', 'Mais tu poses dans des magazines.', 'But you pose in magazines.', [(122, 'Tu poses dans des magazines...')], ''),
     ('aymeline', 'Je travaille avec des artistes photographes.', 'I work with photographic artists.', [(123, 'je travaille avec des artistes photographes.')], ''),
     ('andrea', "D'abord, on ouvre la fenêtre pour fumer.", 'First, we open the window to smoke.', [(127, "D'abord, on ouvre la fenêtre"), (128, "avant que l'alarme incendie")], ''),
-    ('andrea', 'Ensuite, parlons de ta future carrière.', 'Next, let', [(129, 'Ensuite, parlons de ta carrière.'), (130, 'Celle que tu pourrais avoir.')], ''),
+    ('andrea', 'Ensuite, parlons de ta future carrière.', "Next, let's talk about your future career.", [(129, 'Ensuite, parlons de ta carrière.'), (130, 'Celle que tu pourrais avoir.')], ''),
     ('aymeline', "J'ai déjà un agent pour la publicité.", 'I already have an agent for advertising.', [(131, "J'ai déjà un agent."), (132, "Pour la pub. C'est différent.")], ''),
     ('andrea', "Ici, il s'agit de vrais artistes.", 'Here, it is about real artists.', [(133, "Il s'agit de travailler"), (134, 'avec de vrais artistes.')], ''),
     ('andrea', 'Tu es une vraie actrice, pas un cintre.', 'You are a real actress, not a coat hanger.', [(140, 'Tu es une vraie actrice, pas un cintre.')], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Here, it is about real artists.' Andrea insists that cinema acting involves working with genuine auteur artists."),
     (10, None, "'You are a real actress, not a coat hanger.' Andrea pays her a sharp compliment to convince her she belongs on screen."),
     (11, None, "'Do you have any news about Norman?' Aymeline inquires about the film project with Norman Thavaud."),
-    (12, None, "'Two months of waiting, it is a disaster.' Andrea laments the two-month delay facing the production."),
+    (12, None, "'Two months of waiting, it is a disaster.' Andrea laments the two-month delay facing the production. Now let's listen to the scene once more from start to finish."),
 ]

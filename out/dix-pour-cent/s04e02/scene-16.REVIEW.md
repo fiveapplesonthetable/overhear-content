@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Franck | Comme si tu avais besoin d'un orthophoniste? | As if you needed a speech therapist? | #843: Comme si t'avais besoin d'un orthophoniste | verbatim |
 | 14 | Dylan | Je ne pensais pas que tu savais. | I did not think that you knew. | #843: un orthophoniste | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am sorry about my agent.' Franck apologizes for Gabriel's clumsy and confrontational behavior.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everyone doubts sometimes, Dylan.' Franck offers a vulnerable truth about the acting profession.
 - 'As if you needed help?' Franck gently probes whether Dylan also hides private struggles.
 - 'As if you needed a speech therapist?' Franck brings up the medical care sheet he discovered.
-- 'I did not think that you knew.' Dylan admits his shock at having his private vulnerability uncovered.
+- 'I did not think that you knew.' Dylan admits his shock at having his private vulnerability uncovered. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Mets vite ton chapeau pour Delphine. | Put on your hat quickly for Delphine. | #149: tu joues Delphine, dans She's a Femme Fatale.<br>#151: Delphine, le chapeau. | verbatim |
 | 14 | Isabelle | J'y vais, le plateau m'attend! | I am going, the set is waiting for me! | #147: Yes, coming. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Isabelle, how are you feeling?' An affectionate greeting inquiring about an actress's well-being.
-- 'I was in the middle of rehearsing Hamlet.' An artistic explanation accounting for theatrical intensity.
-- 'You are playing Hamlet next March?' A surprised question discovering yet another major production commitment.
-- 'Yes, with the magnificent Scarlett Johansson.' An enthusiastic confirmation revealing a stellar co-star.
-- 'Are you not too exhausted?' A concerned inquiry checking physical and emotional endurance.
-- 'I am wiped out but so happy.' A candid confession balancing deep tiredness with creative fulfillment.
-- 'How do you cope with two shoots?' A bewildered question asking how she handles the impossible double schedule.
-- 'Exhaustion plunges me into a trance.' A poetic psychological description of high-intensity artistic immersion.
-- 'It is an almost euphoric state!' An astonished reaction marveling at her creative exhilaration.
-- 'It is an absolutely divine artistic feeling.' A transcendent summary celebrating the joy of performance.
-- 'Do you take medicine to keep going?' A practical inquiry asking about stimulants or medical assistance.
-- 'My only drug is dried fruit!' A humorous denial pointing to healthy natural snacks as her energy source.
-- 'Put on your hat quickly for Delphine.' A gentle reminder refocusing the star on the current character costume.
-- 'I am going, the set is waiting for me!' A spirited departure answering the director's call to set.
+- 'Hello Isabelle, how are you feeling?' Gabriel inquires about an actress's well-being.
+- 'I was in the middle of rehearsing Hamlet.' Isabelle accounts for theatrical intensity.
+- 'You are playing Hamlet next March?' Gabriel discovers yet another major production commitment.
+- 'Yes, with the magnificent Scarlett Johansson.' Isabelle reveals a stellar co-star.
+- 'Are you not too exhausted?' Gabriel checks physical and emotional endurance.
+- 'I am wiped out but so happy.' Isabelle balances deep tiredness with creative fulfillment.
+- 'How do you cope with two shoots?' Gabriel asks how she handles the impossible double schedule.
+- 'Exhaustion plunges me into a trance.' Isabelle gives a poetic description of total artistic immersion.
+- 'It is an almost euphoric state!' Gabriel marvels at her creative exhilaration.
+- 'It is an absolutely divine artistic feeling.' Isabelle celebrates the joy of performance.
+- 'Do you take medicine to keep going?' Gabriel asks about stimulants or medical assistance.
+- 'My only drug is dried fruit!' Isabelle points to healthy natural snacks as her energy source.
+- 'Put on your hat quickly for Delphine.' Gabriel refocuses the star on the current character costume.
+- 'I am going, the set is waiting for me!' Isabelle answers the director's call to set. Now let's listen to Isabelle and Gabriel again at full speed.

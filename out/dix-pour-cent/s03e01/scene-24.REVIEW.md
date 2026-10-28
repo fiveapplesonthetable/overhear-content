@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Jean | Je suis heureux pour toi, Andréa. | I am happy for you, Andrea. | #1017: 7 mois, oui. | verbatim |
 | 14 | Andréa | Merci Jean, cela me touche beaucoup. | Thank you Jean, that touches me a lot. | #1018: Tiens. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do you want to drink a glass of whisky?' Jean offers Gabriel a glass of whisky to help him unwind.
-- 'Not for me, I am doing fine.' A polite refusal using the idiomatic expression for being fine.
-- 'Oh, but you are pregnant, Andrea!' An astonished exclamation noticing her visible pregnancy.
-- 'Yes, but it is no big deal.' A modest downplaying statement with the negation ce n'est pas.
-- 'No, I assure you, it is wonderful.' A warm reassurance praising the joyful news.
-- 'You are not too upset with me?' An insecure question about holding a grudge.
-- 'How many months along are you?' An inquiry about the progression of her pregnancy.
-- 'I am already at seven months.' A temporal statement indicating late pregnancy stage.
-- 'That was the start of shooting The Deserter!' An imperfect tense recall linking dates together.
-- 'Yes, exactly at that time.' An adverbial confirmation of the timeline.
-- 'That is when I began to desert.' A reflective confession playing on the film title.
-- 'You were too immersed in your role.' An empathetic observation on intense method acting.
-- 'I am happy for you, Andrea.' A sincere declaration of heartfelt personal joy.
-- 'Thank you Jean, that touches me a lot.' A grateful closing acknowledging his genuine warmth.
+- 'Not for me, I am doing fine.' Andréa uses the idiomatic expression for being fine.
+- 'Oh, but you are pregnant, Andrea!' Jean notices her visible pregnancy.
+- 'Yes, but it is no big deal.' Andréa downplays statement with the negation ce n'est pas.
+- 'No, I assure you, it is wonderful.' Jean praises the joyful news.
+- 'You are not too upset with me?' Andréa asks hesitantly whether Jean is still upset with her.
+- 'How many months along are you?' Jean asks warmly how far along she is in her pregnancy.
+- 'I am already at seven months.' Andréa indicates late pregnancy stage.
+- 'That was the start of shooting The Deserter!' Jean links dates together.
+- 'Yes, exactly at that time.' Andréa confirms that it happened at that exact time.
+- 'That is when I began to desert.' Jean plays on the film title.
+- 'You were too immersed in your role.' Andréa observes empathetically how immersed he was in his role.
+- 'I am happy for you, Andrea.' Jean declares his heartfelt happiness for Andréa.
+- 'Thank you Jean, that touches me a lot.' Andréa acknowledges his genuine warmth. Now let's listen to Jean and Andrea again at natural speed.

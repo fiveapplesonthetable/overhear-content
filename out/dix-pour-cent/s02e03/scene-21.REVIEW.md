@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hervé | Comme vous voulez, mon cher Norman. | As you wish, my dear Norman. | #560: -Comme vous voulez | verbatim |
 | 14 | Norman | Attendez, j'ai oublié mon téléphone portable! | Wait, I forgot my mobile phone! | #561: Attends, j'ai oublié mon téléphone | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am afraid he will fail his driving test.' Gabriel worries about his client's upcoming driving examination.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I do not need it at all.' The YouTuber insists that he can manage his stress naturally.
 - 'I am very calm and relaxed.' He claims to feel completely peaceful despite his obvious anxiety.
 - 'As you wish, my dear Norman.' Herve gracefully accepts his client's personal decision.
-- 'Wait, I forgot my mobile phone!' Norman panics at the last second as he prepares to depart.
+- 'Wait, I forgot my mobile phone!' Norman panics at the last second as he prepares to depart. Now let's listen to the entire exchange once more from beginning to end.

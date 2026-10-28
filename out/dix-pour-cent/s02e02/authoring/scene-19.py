@@ -22,13 +22,13 @@ STORY = [
     ('sofia', "Si je change d'agent, vous pouvez quand même me conseiller?", 'If I change agents, can you still advise me?', [(680, "Si je change d'agent, vous pouvez quand même me conseiller")], ''),
     ('sofia', "Ou m'aider discrètement?", 'Or help me discreetly?', [(681, "ou m'aider discrètement")], ''),
     ('gabriel', "Bien sûr. Vous avez quelqu'un en tête? Andréa?", 'Of course. Do you have someone in mind? Andréa?', [(682, 'Bien sûr'), (683, "Vous avez quelqu'un en tête ? Andréa")], ''),
-    ('sofia', 'Je ne sais pas, elle fait un peu peur.', 'I don', [(684, 'Je ne sais pas, elle fait un peu peur')], ''),
-    ('sofia', "En plus c'est votre amie, c'est délicat.", 'Besides she is your friend, it', [(685, "En plus c'est votre amie, c'est délicat")], ''),
+    ('sofia', 'Je ne sais pas, elle fait un peu peur.', "I don't know, she's a bit scary.", [(684, 'Je ne sais pas, elle fait un peu peur')], ''),
+    ('sofia', "En plus c'est votre amie, c'est délicat.", "Besides she is your friend, it's delicate.", [(685, "En plus c'est votre amie, c'est délicat")], ''),
     ('gabriel', "Arlette n'est peut-être pas le bon choix pour une jeune actrice.", 'Arlette might not be the right choice for a young actress.', [(686, "Arlette n'est peut-être pas le bon choix pour une jeune actrice")], ''),
     ('sofia', "Même si on l'aime bien!", 'Even if we like her!', [(687, "Même si on l'aime bien")], ''),
-    ('sofia', "Je pensais à Mathias. Parce que c'est un bon agent.", 'I was thinking of Mathias. Because he', [(688, "Je pensais à Mathias. Parce que c'est un bon agent")], ''),
+    ('sofia', "Je pensais à Mathias. Parce que c'est un bon agent.", "I was thinking of Mathias. Because he's a good agent.", [(688, "Je pensais à Mathias. Parce que c'est un bon agent")], ''),
     ('sofia', "Avec lui, je n'ai aucun privilège spécial.", 'With him, I have no special privilege.', [(689, "Avec lui, personne ne peut dire que je bénéficie d'un traitement de faveur")], ''),
-    ('gabriel', "Je suis sûr que vous avez raison. C'est un bon choix.", 'I', [(690, "Je suis sûr que vous avez raison. C'est un bon choix")], ''),
+    ('gabriel', "Je suis sûr que vous avez raison. C'est un bon choix.", "I'm sure you are right. It's a good choice.", [(690, "Je suis sûr que vous avez raison. C'est un bon choix")], ''),
     ('sofia', "Oui, je crois. À tout à l'heure!", 'Yes, I think so. See you shortly!', [(691, 'Oui, je crois'), (692, "À tout à l'heure")], ''),
 ]
 WALK = [
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate."),
     (11, None, "'With him, I have no special privilege.' Here, Mathias's strict professionalism protects her reputation."),
     (12, None, "'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision."),
-    (13, None, "'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism."),
+    (13, None, "'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism. Now let's listen to the entire conversation once more from start to finish."),
 ]

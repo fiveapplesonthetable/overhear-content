@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Catherine | Il prend même le temps de faire du yoga! | He even takes the time to do yoga! | #263: Il prend même le temps de faire du yoga avec moi. | verbatim |
 | 13 | Camille | C'est une très belle preuve d'amour sincère. | That is a very lovely proof of sincere love. | #264: Ça, ça me touche parce que c'est vraiment pas son truc. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I often think back to that train ticket.' Catherine recalls Camille finding her an urgent train ticket to Cannes.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Mathias still makes many sincere efforts.' Camille reminds Catherine that Mathias genuinely wants their marriage to work.
 - 'We are currently doing couples therapy.' Catherine reveals that they have started seeing a marriage counselor.
 - 'He even takes the time to do yoga!' Catherine notes with affection that Mathias joins her daily yoga sessions.
-- 'That is a very lovely proof of sincere love.' Camille finds encouragement in Mathias stepping outside his comfort zone.
+- 'That is a very lovely proof of sincere love.' Camille finds encouragement in Mathias stepping outside his comfort zone. Now let's listen to the scene once more from start to finish.

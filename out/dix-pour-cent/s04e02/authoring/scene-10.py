@@ -17,7 +17,7 @@ OUTRO = "Nathalie Baye's energetic feng shui session ends with an unexpected tri
 CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('mathias', 'Bienvenue dans mon ancien bureau, chère Nathalie.', 'Welcome to my former office, dear Nathalie.', [(477, "C'est pas votre ancien bureau ?"), (478, "Si, c'est ça.")], ''),
-    ('nathalie', "On dirait plutôt un corral d'avocats!", 'It looks more like a lawyers', [(482, 'C\'est un "corral d\'avocats" !')], ''),
+    ('nathalie', "On dirait plutôt un corral d'avocats!", 'It looks more like a corral of lawyers!', [(482, 'C\'est un "corral d\'avocats" !')], ''),
     ('mathias', "L'agence a dû sous-louer cet étage entier.", 'The agency had to sublet this entire floor.', [(479, "J'imagine qu'ASK a dû sous-louer l'étage en dessous")], ''),
     ('nathalie', "Il faut faire circuler l'énergie ici!", 'We must circulate the energy here!', [(488, "Faisons circuler l'énergie.")], ''),
     ('nathalie', "Une belle plante verte changera toute l'ambiance.", 'A nice green plant will change the whole ambiance.', [(489, "D'abord, une plante ne fera pas de mal.")], ''),
@@ -33,7 +33,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Welcome to my former office, dear Nathalie.' Mathias welcomes the actress into ASK."),
-    (1, None, "'It looks more like a lawyers' corral!' Nathalie compares the open desks to a cattle pen."),
+    (1, None, "'It looks more like a corral of lawyers!' Nathalie compares the open desks to a cattle pen."),
     (2, None, "'The agency had to sublet this entire floor.' Mathias explains the financial sublet."),
     (3, None, "'We must circulate the energy here!' Nathalie invokes harmonious energy flow."),
     (4, None, "'A nice green plant will change the whole ambiance.' Nathalie introduces natural decor."),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am simply offering friendly advice to Nathalie.' Mathias denies any underhanded tactics."),
     (11, None, "'Andrea, I love your great wonderful energy.' Nathalie cushions her upcoming choice."),
     (12, None, "'But for this film, I prefer Camille.' Nathalie selects Camille for her calmer approach."),
-    (13, None, "'Camille? That is an excellent idea for you!' Andrea embraces the decision graciously."),
+    (13, None, "'Camille? That is an excellent idea for you!' Andrea embraces the decision graciously. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

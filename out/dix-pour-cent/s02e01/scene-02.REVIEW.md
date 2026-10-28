@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Virginie | Non, je ne peux pas, il ne comprendra pas. | No, I cannot, he will not understand. | #54: Non, je ne peux pas, il ne comprendra pas. | verbatim |
 | 14 | Mathias | Virginie, crois-moi, c'est la meilleure chose à faire. | Virginie, believe me, it is the best thing to do. | #55: Crois-moi<br>#56: c'est la meilleure chose à faire. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello? Virginie, what happened?' The classic telephone greeting followed by a formal inverted past question.
+- 'Hello? Virginie, what happened?' Mathias answers the phone and asks Virginie what happened.
 - 'Mathias, it is terrible!' Virginie calls Mathias in a panic because a disaster has just happened.
 - 'I was in the street with a friend.' Virginie explains that she was out on the street late at night with a male friend.
 - 'A friend? Were you with Ramzy?' Mathias checks warily whether she was actually out with Ramzy.
 - 'No, Ramzy went home.' Virginie admits that Ramzy had already gone home alone.
 - 'I saw a flash in the night.' Virginie says she saw a camera flash go off in the dark.
-- 'Were you photographed by a paparazzo?' A passive voice construction expressing an unwanted media intrusion.
+- 'Were you photographed by a paparazzo?' Mathias expresses an unwanted media intrusion.
 - 'You have to do something!' Virginie begs Mathias to stop the tabloid photos from coming out.
-- 'Call the magazines, they must not publish!' An imperative followed by a modal verb expressing strong prohibition.
+- 'Call the magazines, they must not publish!' Virginie demands that he call the magazines and stop publication.
 - 'My threats are not going to stop them.' Mathias warns her that his threats will not stop the paparazzi from publishing.
-- 'So what do I do?' A conversational connector followed by an interrogative locution.
+- 'So what do I do?' Virginie asks what she should do next.
 - 'Talk to Ramzy immediately.' Mathias advises Virginie to tell Ramzy the truth before the magazine hits the stands.
-- 'No, I cannot, he will not understand.' A modal verb in the present tense followed by a simple future verb.
-- 'Virginie, believe me, it is the best thing to do.' An imperative followed by a superlative adjective phrase.
+- 'No, I cannot, he will not understand.' Virginie insists she cannot tell him because he will not understand.
+- 'Virginie, believe me, it is the best thing to do.' Mathias urges Virginie to trust him that honesty is best.

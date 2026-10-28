@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The producers expect your prompt reply though.' Gabriel stresses mounting commercial pressure."),
     (11, None, "'I already landed an opening act!' Sandrine proudly announces her upcoming stage debut."),
     (12, None, "'Are you really going to perform five minutes?' Gabriel realizes that her mind is completely made up."),
-    (13, None, "'Yes, get ready for my show!' Sandrine invites him to see her live performance."),
+    (13, None, "'Yes, get ready for my show!' Sandrine invites him to see her live performance. Now let's listen to Sandrine and Gabriel's complete discussion once again."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Go ahead, do what you want!' Dylan dismisses Gabriel and dares him to carry out his threat."),
     (11, None, "'What an idiot, I cannot believe it!' Gabriel vents his irritation once Dylan turns his back."),
     (12, None, "'I think you are mistaken.' Franck Dubosc steps in to correct Gabriel's hasty conclusion."),
-    (13, None, "'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met."),
+    (13, None, "'It was his speech therapist, not a dealer.' Franck clarifies the true identity of the man Dylan met. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

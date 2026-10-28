@@ -25,12 +25,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | L'assistant | Nous avons tout ce qu'il faut maintenant. | We have everything that is needed now. | #669: Il a tout ce qu'il faut. | verbatim |
 | 14 | Isabelle | Parfait, alors je vais me reposer un peu. | Perfect, then I am going to rest a bit. | #670: Alors, repose-toi bien. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Isabelle, we are going to do one last take.' The assistant asks for another camera take.
-- 'We need a tighter shot.' The assistant specifies the framing needed.
+- 'We need a tighter shot.' The assistant frames needed.
 - 'Oh no, I am already on my seventh death scene!' Isabelle protests the repetition.
-- 'The director still lacks footage for editing.' The assistant defends the request with editorial needs.
+- 'The director still lacks footage for editing.' This assistant defends the request with editorial needs.
 - 'Wait, I am stopping you right there.' Isabelle interrupts the assistant firmly.
 - 'I am not a machine!' Isabelle asserts her humanity as an artist.
 - 'I do not die on command.' Isabelle emphasizes the emotional effort required.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That is the true job of an assistant.' Isabelle lectures on professional roles.
 - 'Okay, you are right on this point.' The assistant concedes defeat graciously.
 - 'We have everything that is needed now.' The crew agrees they have enough footage.
-- 'Perfect, then I am going to rest a bit.' Isabelle claims her well-earned break.
+- 'Perfect, then I am going to rest a bit.' Isabelle claims her well-earned break. Now let's listen to the entire dialogue once more to lock in what you have learned.

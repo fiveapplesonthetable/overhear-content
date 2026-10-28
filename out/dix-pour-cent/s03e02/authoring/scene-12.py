@@ -24,7 +24,7 @@ STORY = [
     ('hicham', 'Donc, je voudrais la reconnaître officiellement.', 'So, I would like to officially recognize her.', [(717, 'reconnaître officiellement')], ''),
     ('andrea', "Ce n'est pas ce qu'on avait décidé!", 'That is not what we had decided!', [(718, "ce qu'on avait décidé")], ''),
     ('hicham', "Peut-être, mais c'est mon droit légal.", 'Maybe, but it is my legal right.', [(719, "c'est mon droit")], ''),
-    ('colette', 'Si tu deviens officiellement le père du bébé,', 'If you officially become the baby', [(720, 'officiellement le père de ce bébé')], ''),
+    ('colette', 'Si tu deviens officiellement le père du bébé,', "If you officially become the baby's father,", [(720, 'officiellement le père de ce bébé')], ''),
     ('colette', 'je ne serai jamais vraiment sa mère.', 'I will never really be her mother.', [(721, 'jamais vraiment sa mère')], ''),
     ('colette', "L'adoption plénière ne sera plus possible.", 'Full adoption will no longer be possible.', [(722, "l'adoption plénière sera plus jamais possible")], ''),
     ('hicham', 'Tu pourras faire une adoption simple.', 'You can still do a simple adoption.', [(723, 'faire une adoption simple')], ''),

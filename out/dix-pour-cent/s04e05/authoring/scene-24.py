@@ -19,7 +19,7 @@ STORY = [
     ('noemie', "Le médecin t'a posé ce moniteur?", 'Did the doctor place this monitor on you?', [(878, 'surveiller votre rythme cardiaque')], ''),
     ('mathias', 'Oui, pour surveiller mon rythme cardiaque.', 'Yes, to monitor my heart rate.', [(878, 'surveiller votre rythme cardiaque')], ''),
     ('noemie', 'Tu dois te reposer à la maison.', 'You must rest at home.', [(888, 'Prêt à rentrer à la maison ?')], ''),
-    ('mathias', 'Igor veut aller chez le réalisateur.', 'Igor wants to go to the director', [(895, 'On a rendez-vous avec Jean-Jacques Annaud')], ''),
+    ('mathias', 'Igor veut aller chez le réalisateur.', "Igor wants to go to the director's house.", [(895, 'On a rendez-vous avec Jean-Jacques Annaud')], ''),
     ('noemie', "Tu as failli mourir d'un infarctus!", 'You almost died of a heart attack!', [(898, 'il a fait un infarctus ?'), (906, 'Tu as failli mourir')], ''),
     ('mathias', "C'est un rendez-vous très important aujourd'hui.", 'It is a very important meeting today.', [(896, 'Tu vas travailler là, maintenant ?')], ''),
     ('noemie', 'Igor traite tout le monde sans pitié.', 'Igor treats everyone without mercy.', [(904, 'tout le monde est traité comme de la merde')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Your life is worth more than this film.' Noemie reestablishes human priorities."),
     (11, None, "'You are truly angry, my darling.' Mathias feels both chastised and deeply loved."),
     (12, None, "'I refuse to let you die stupidly.' Noemie stands between him and exhaustion."),
-    (13, None, "'Let us go home to rest together.' Mathias surrenders to love and good sense."),
+    (13, None, "'Let us go home to rest together.' Mathias surrenders to love and good sense. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

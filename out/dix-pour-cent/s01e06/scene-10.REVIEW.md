@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Camille | Andréa m'a demandé de vous appeler au sujet de vos contrats. | Andréa asked me to call you about your contracts. | #285: Andréa m'a demandé de vous appeler au sujet de vos contrats | verbatim |
 | 15 | Camille | Vous pouvez passer les vérifier et les signer? | Can you come by to check them and sign them? | #287: Vous pouvez passer les vérifier et les signer | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do something.' The director demands immediate action from Andréa.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Call them yourself, then!' Andréa tells Camille to call Hippolyte about his contracts herself.
 - 'Hello, Hippolyte? Hello, this is Camille from ASK.' Camille makes the phone call to Mathias's son.
 - 'Andréa asked me to call you about your contracts.' Camille explains that Andréa asked her to follow up on his paperwork.
-- 'Can you come by to check them and sign them?' Camille politely asks if he can stop by the office to review and sign them.
+- 'Can you come by to check them and sign them?' Camille politely asks if he can stop by the office to review and sign them. Now listen to the full conversation once more at a natural pace.

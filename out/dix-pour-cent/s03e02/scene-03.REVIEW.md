@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Tu vas chercher l'amour dans un guide? | You are going to look for love in a guide? | #227: Je cherche quelque chose d'inspirant qui sort de l'ordinaire | verbatim |
 | 14 | Monica | Pourquoi pas, allons voir ce rayon ensemble! | Why not, let us go see this section together! | #228: Vous pouvez m'aider ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me miss, this water is too cold.' A courteous request to a waitress rejecting chilled water.
-- 'Is cold water bad for your throat?' An inquiry asking about vocal care precautions.
+- 'Excuse me miss, this water is too cold.' Monica rejects chilled water.
+- 'Is cold water bad for your throat?' Gabriel asks about vocal care precautions.
 - 'Yes, it is much too harsh for me.' Monica Bellucci explains that sparkling water is much too harsh for her throat.
-- 'I would like room-temperature water.' A polite conditional request for specific beverage temperature.
-- 'There is a typical request of a big star!' A humorous presentative teasing diva habits.
-- 'Not at all, it is just a precaution.' A defensive disclaimer explaining professional vocal hygiene.
-- 'You see clearly that you are not normal!' A friendly teasing assertion highlighting star mannerisms.
-- 'I am a completely ordinary woman.' An earnest affirmation claiming everyday normalcy.
-- 'You are a famous and very elegant woman.' A balanced compliment pointing out undeniable glamour.
-- 'Look at this lovely bookstore right opposite.' An imperative drawing attention to a nearby shop.
-- 'You want to buy a book now?' A spontaneous question clarifying immediate shopping intentions.
-- 'They have guides for singles.' A practical observation noting relationship literature.
-- 'You are going to look for love in a guide?' An amused question wondering about guidebook matchmaking.
-- 'Why not, let us go see this section together!' An inviting imperative welcoming spontaneous exploration.
+- 'I would like room-temperature water.' Monica politely requests water at room temperature.
+- 'There is a typical request of a big star!' Gabriel teases diva habits.
+- 'Not at all, it is just a precaution.' Monica explains professional vocal hygiene.
+- 'You see clearly that you are not normal!' Gabriel highlights star mannerisms.
+- 'I am a completely ordinary woman.' Monica claims everyday normalcy.
+- 'You are a famous and very elegant woman.' Gabriel points out undeniable glamour.
+- 'Look at this lovely bookstore right opposite.' Monica draws attention to a nearby shop.
+- 'You want to buy a book now?' Gabriel clarifies immediate shopping intentions.
+- 'They have guides for singles.' Monica notes relationship literature.
+- 'You are going to look for love in a guide?' Gabriel wonders about guidebook matchmaking.
+- 'Why not, let us go see this section together!' Monica welcomes spontaneous exploration. Now let's listen to Monica and Gabriel again at full speed.

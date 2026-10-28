@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'That is not possible tonight, Isabelle!' Mathias panics over their tight schedule."),
     (11, None, "'This show will take only twenty minutes.' Isabelle downplays the detour duration."),
     (12, None, "'I cannot stand up a friend.' Isabelle refuses to ditch the host."),
-    (13, None, "'We are going to be very late!' Mathias stresses the impending production delay."),
+    (13, None, "'We are going to be very late!' Mathias stresses the impending production delay. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

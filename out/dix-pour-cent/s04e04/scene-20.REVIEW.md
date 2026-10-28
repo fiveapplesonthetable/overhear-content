@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Non, non, non, reviens ici! | No, no, no, come back here! | #1148: Non, non, non… Allez… Sandrine !<br>#1149: Non ! | verbatim |
 | 14 | Sandrine | À demain matin à l'agence! | See you tomorrow morning at the agency! | #1144: Tu rentres ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The taxi is arriving in two minutes.' Gabriel checks his phone for the car's arrival.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sandrine, get down from there immediately!' Gabriel rushes forward to grab the handlebars.
 - 'Catch me if you can, my dear!' Sandrine squeezes the throttle and glides away.
 - 'No, no, no, come back here!' Gabriel shouts as he watches her zip down the boulevard.
-- 'See you tomorrow morning at the agency!' Sandrine's voice echoes down the dark Parisian street.
+- 'See you tomorrow morning at the agency!' Sandrine's voice echoes down the dark Parisian street. Now let's listen to the complete discussion once more to reinforce the vocabulary.

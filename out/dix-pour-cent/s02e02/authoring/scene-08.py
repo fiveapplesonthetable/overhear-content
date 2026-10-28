@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'Can I do anything to cheer you up?' Gabriel asks the crying casting director if he can do anything to cheer her up."),
     (2, None, "'What have you done now?' Gabriel instinctively worries that an audition went wrong."),
     (3, None, "'That is not what I meant to say.' He quickly backtracks after sounding overly critical."),
-    (4, None, "'Never mind, I will call her.' The expression laisser tomber means to drop it or let it go."),
+    (4, None, "'Never mind, I will call her.' This expression laisser tomber means to drop it or let it go."),
     (5, None, "'We will sort this out.' Gabriel promises Sofia that they will sort out this casting disaster."),
     (6, None, "'Tell her the truth!' Sofia urges Gabriel to confront the casting director firmly."),
     (7, None, "'I will handle it.' He assures her that he is taking care of the problem himself."),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Are you joking! I am completely disfigured!' Constance dramatically exaggerates the altercation."),
     (10, None, "'I barely touched her!' Sofia protests that she barely touched the assistant during the audition."),
     (11, None, "'Sorry, Constance... It is fine, I will handle it.' Gabriel tries to pacify both women simultaneously."),
-    (12, None, "'Calm down, Sofia, she is very powerful.' Gabriel urges Sofia to calm down because the casting director is very influential."),
+    (12, None, "'Calm down, Sofia, she is very powerful.' Gabriel urges Sofia to calm down because the casting director is very influential. Now let's listen to Gabriel's difficult phone call once more."),
 ]

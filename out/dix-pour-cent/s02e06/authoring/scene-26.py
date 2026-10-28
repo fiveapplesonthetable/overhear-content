@@ -17,7 +17,7 @@ OUTRO = "The tempting offer from New York plants an intriguing seed in Andréa's
 CLOSING = ('uba', 'Bonne journée!')
 STORY = [
     ('hicham', "J'ai reçu un message très positif de Gillières.", 'I received a very positive message from Gillières.', [(739, "J'ai reçu un message de Jean-Denis Gillières.")], ''),
-    ('hicham', 'Il comprend parfaitement la situation de Juliette.', 'He perfectly understands Juliette', [(742, "Et il comprend parfaitement l'indisponibilité de Juliette.")], ''),
+    ('hicham', 'Il comprend parfaitement la situation de Juliette.', "He perfectly understands Juliette's situation.", [(742, "Et il comprend parfaitement l'indisponibilité de Juliette.")], ''),
     ('andrea', "J'ai trouvé les bons mots pour le convaincre.", 'I found the right words to convince him.', [(744, 'Elle a trouvé les mots justes pour rester dans ses bonnes grâces.')], ''),
     ('uba', 'Bonsoir Andréa, je me suis renseignée sur vous.', 'Good evening Andréa, I looked into your background.', [(745, 'Je me suis renseignée sur vous.')], ''),
     ('uba', 'Votre travail avec Luchini est très impressionnant.', 'Your work with Luchini is very impressive.', [(746, "L'arrivée de Luchini dans votre agence a fait du bruit."), (747, 'Vous êtes assez impressionnante.')], ''),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'And what do you really think of Hicham Janowski?' The executive probes Andrea's feelings about her new agency boss."),
     (12, None, "'Is he an asset or a real handicap?' The executive sharply frames Hicham's erratic leadership style as a liability."),
     (13, None, "'Hicham is our new boss at ASK.' Andrea provides a guarded answer to avoid undermining her own agency."),
-    (14, None, "'Think carefully about your professional future, Andréa.' The executive urges Andrea to consider her long-term horizons."),
+    (14, None, "'Think carefully about your professional future, Andréa.' The executive urges Andrea to consider her long-term horizons. Now let's listen to the scene once more from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You mean that I passed?' Norman hopes for confirmation that he finally earned his license."),
     (11, None, "'I said absolutely nothing!' The examiner refuses to break official confidentiality rules."),
     (12, None, "'Thank you very much, that is wonderful!' Norman rejoices at having overcome his driving exam anxiety."),
-    (13, None, "'Now, exit the vehicle.' The official dismisses the candidate at the end of the test."),
+    (13, None, "'Now, exit the vehicle.' The official dismisses the candidate at the end of the test. Now let's listen to the entire exchange once more from beginning to end."),
 ]

@@ -22,7 +22,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Colette | Andréa, s'il te plaît, raccroche maintenant. | Andrea, please hang up right now. | #258: je te laisse finir | verbatim |
 | 11 | Andréa | Fabrice, je peux te rappeler? | Fabrice, can I call you back? | #284: je peux te rappeler ? | verbatim |
 | 12 | Andréa | J'ai un imprévu en ce moment. | I have an unexpected situation right now. | #285: j'ai un imprévu. | verbatim |
-| 13 | Colette | Merci, pensons enfin à notre bébé. | Thank you, let | #287: Non. | verbatim |
+| 13 | Colette | Merci, pensons enfin à notre bébé. | Thank you, let's finally think about our baby. | #287: Non. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Andrea, please hang up right now.' Colette tries to steer Andrea's attention back to family time.
 - 'Fabrice, can I call you back?' Andrea finally concedes and prepares to pause the conversation.
 - 'I have an unexpected situation right now.' Andrea invents an urgent excuse to end the work call.
-- 'Thank you, let's finally think about our baby.' Colette welcomes Andrea back into their peaceful hospital room.
+- 'Thank you, let's finally think about our baby.' Colette welcomes Andrea back into their peaceful hospital room. Now let's listen to the maternity clinic conversation once more to solidify what you have learned.

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You are so sweet, my Flora.' Andrea holds her daughter close against her chest."),
     (11, None, "'Let us take a walk in the park.' Colette suggests stepping away from the office."),
     (12, None, "'Yes, with great pleasure, Colette.' Andrea agrees gladly to spend time together."),
-    (13, None, "'Let us take the time to pause.' Colette leads the way toward the park bench."),
+    (13, None, "'Let us take the time to pause.' Colette leads the way toward the park bench. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

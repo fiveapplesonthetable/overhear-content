@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Yes please, clean her face.' Andrea urges him to fix the makeup quickly."),
     (10, None, "'The shoot is falling very behind!' The director stresses over the tight production schedule."),
     (11, None, "'Everything is going to go very well.' Andrea reassures the crew that the shot will work."),
-    (12, None, "'Trust a certified nurse!' Isabelle brings comedic confidence to her acting debut."),
+    (12, None, "'Trust a certified nurse!' Isabelle brings comedic confidence to her acting debut. Now let's listen to the on-set banter once more from start to finish."),
 ]

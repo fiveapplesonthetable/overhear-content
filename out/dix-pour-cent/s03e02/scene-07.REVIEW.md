@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | C'est vrai, je veux une belle fête. | It is true, I want a beautiful party. | #532: Je sais, c'est pour ça que j'ai envie que ce soit une belle fête. | verbatim |
 | 13 | Andréa | Je veux cette belle fête avec toi. | I want this beautiful party with you. | #533: Avec toi. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am not very domestic, you know.' Andrea admits that traditional family life makes her feel uneasy.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They say afterwards that the party was boring.' Colette explains that those who complain make no effort themselves.
 - 'A couple is what you make of it!' Colette emphasizes that partnership and family life reflect their own choices.
 - 'It is true, I want a beautiful party.' Andrea realizes that she has the power to shape their shared journey.
-- 'I want this beautiful party with you.' Andrea lovingly commits to creating a joyful life together.
+- 'I want this beautiful party with you.' Andrea lovingly commits to creating a joyful life together. Now let's listen to the scene once more from start to finish.

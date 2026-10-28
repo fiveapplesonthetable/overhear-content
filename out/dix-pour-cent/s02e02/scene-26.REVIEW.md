@@ -28,22 +28,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 16 | Hervé | J'adore Christophe Lambert depuis mon enfance! | I have loved Christophe Lambert since my childhood! | #892: depuis mes huit ans ! | verbatim |
 | 17 | Camille | Tu es incroyable, Hervé! | You are incredible, Hervé! | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'When does your mother arrive?' Hervé asks Camille when her mother is arriving in Paris.
 - 'She arrives next week.' Camille replies that her mother is arriving next week.
 - 'Wait, look at my business cards.' Hervé tells Camille to wait and proudly shows off his fake agent business cards.
 - 'I spent the night making them.' Hervé admits he stayed up all night preparing the files.
-- 'It is for when I am a junior agent!' The future tense of etre in a temporal clause.
-- 'Awesome! This colour is lighter.' An enthusiastic exclamation followed by a comparative adjective.
+- 'It is for when I am a junior agent!' Hervé uses the future form after 'when' to picture his promotion.
+- 'Awesome! This colour is lighter.' Camille exclaims with enthusiasm that this shade is lighter.
 - 'You are right, it is much better.' Hervé agrees with Camille that her idea is much better.
 - 'I will be able to be your assistant.' Camille offers to pretend to be Hervé's assistant while his mother visits.
 - 'Thank you, Camille. You are a true friend.' Relieved by her kindness, Hervé calls Camille a true friend.
-- 'By the way, I know who your father is.' The introductory idiom au fait followed by an indirect question.
-- 'Really? How do you know that?' A double question expressing surprise.
+- 'By the way, I know who your father is.' Hervé casually drops the bomb that he knows who her father is.
+- 'Really? How do you know that?' Camille expresses surprise.
 - 'It is obvious, come on!' Hervé insists it is obvious why he lied to his parents about being an agent.
-- 'You are not angry?' A negative question inquiring about emotional reaction.
+- 'You are not angry?' Camille inquires about emotional reaction.
 - 'Everyone has a right to their secrets.' He points out defensively that everyone is entitled to a few secrets.
-- 'I wanted to tell you.' The imperfect tense expressing a past desire.
+- 'I wanted to tell you.' Hervé expresses a past desire.
 - 'I have loved Christophe Lambert since my childhood!' Hervé confesses he has idolized Christophe Lambert since childhood.
 - 'You are incredible, Hervé!' Camille laughs with relief at his hilarious mistake.

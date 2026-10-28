@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Oui, cela peut être très amusant! | Yes, it can be very fun! | #383: ça peut être vraiment très amusant. | verbatim |
 | 13 | Isabelle | Je travaille et je suis de garde! | I work and I am on duty! | #387: je suis de garde à l'hôpital. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, are you indeed Isabelle Huppert?' Andrea approaches the hospital worker to verify her identity.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We only need you for this afternoon.' Andrea stresses the short duration of the shoot.
 - 'It is for today on top of that?' Isabelle is astonished by the immediate timeframe.
 - 'Yes, it can be very fun!' Andrea paints the shoot as an enjoyable adventure.
-- 'I work and I am on duty!' Isabelle points out her real-world medical responsibilities.
+- 'I work and I am on duty!' Isabelle points out her real-world medical responsibilities. Now let's listen to this unusual hospital dialogue once more from beginning to end.

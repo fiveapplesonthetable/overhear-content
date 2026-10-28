@@ -17,12 +17,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Mathias | Camille m'a tout dit. | Camille told me everything. | #1209: Camille m'a tout dit. | verbatim |
 | 6 | Mathias | Je sais la vérité. | I know the truth. | new | new |
 | 7 | Ulrika | Mais Mathias, attendez. | But Mathias, wait. | new | new |
-| 8 | Mathias | Non, c'est terminé. | No, it | new | new |
+| 8 | Mathias | Non, c'est terminé. | No, it's over. | new | new |
 | 9 | Mathias | Vos méthodes sont révoltantes. | Your methods are revolting. | #1209: Vos méthodes sont révoltantes, | verbatim |
 | 10 | Mathias | Je refuse de travailler avec vous. | I refuse to work with you. | new | new |
 | 11 | Ulrika | Vous faites une erreur. | You are making a mistake. | new | new |
-| 12 | Mathias | Ne me rappelez plus jamais. | Don | #1210: ne me rappelez plus jamais. | verbatim |
+| 12 | Mathias | Ne me rappelez plus jamais. | Don't ever call me again. | #1210: ne me rappelez plus jamais. | verbatim |
 | 13 | Mathias | Au revoir, Ulrika. | Goodbye, Ulrika. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

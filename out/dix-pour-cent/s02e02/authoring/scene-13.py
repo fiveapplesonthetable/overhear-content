@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'A bonus? Of how much?' Mathias immediately perks up and asks for the exact sum."),
     (11, None, "'Fifteen thousand euros for the agency.' Hicham names the generous sum on offer."),
     (12, None, "'Fifteen thousand euros? Deal!' Andrea accepts the challenge on the spot with enthusiasm."),
-    (13, None, "'We are going to find a solution immediately.' Mathias confirms that the team will take action without delay."),
+    (13, None, "'We are going to find a solution immediately.' Mathias confirms that the team will take action without delay. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

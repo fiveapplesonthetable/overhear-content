@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Guy | C'était pour te détendre avant de commencer. | It was to relax you before starting. | #758: C'était pour te détendre. | verbatim |
 | 5 | Guy | Tu ne connais pas ça, échanger les répliques? | Do you not know that, swapping lines? | #759: Tu ne connais pas ça, échanger les répliques ? | verbatim |
 | 6 | Véra | Je voudrais voir ce que cela donne. | I would like to see what that produces. | #766: Je sais, mais je voudrais voir ce que ça donne. | verbatim |
-| 7 | Véra | Hippolyte, peux-tu dire le texte de Guy? | Hippolyte, can you say Guy | #767: Hippolyte, tu peux dire le texte de Guy ? | verbatim |
+| 7 | Véra | Hippolyte, peux-tu dire le texte de Guy? | Hippolyte, can you say Guy's lines? | #767: Hippolyte, tu peux dire le texte de Guy ? | verbatim |
 | 8 | Hippolyte | D'accord, je commence par la première phrase. | Okay, I start with the first sentence. | #769: -Si, tu peux. -D'accord.<br>#771: Voilà ! On fait comme ça. | verbatim |
 | 9 | Hippolyte | Elle m'a regardé et je l'ai regardée. | She looked at me and I looked at her. | #775: Elle m'a regardé, je l'ai regardée. | verbatim |
 | 10 | Hippolyte | Elle était encore plus belle qu'avant. | She was even more beautiful than before. | #777: Elle était plus belle qu'avant. | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Guy | Bonjour, je me souviens très bien de vous. | Hello, I remember you very well. | #789: « Bonjour, je me souviens de vous. » | verbatim |
 | 14 | Hippolyte | C'est beaucoup mieux, nous saisissons cet instant! | It is much better, we grasp this moment! | #790: Mieux. Beaucoup mieux.<br>#798: Saisissons cet instant. | verbatim |
 | 15 | Véra | Parfait, continuons cette belle répétition ensemble. | Perfect, let us continue this fine rehearsal together. | #810: Je suis content que vous le réalisiez. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'To seduce, one must be very active!' Hippolyte coaches Guy to take romantic initiative.
 - 'Hello, I remember you very well.' Guy adjusts his tone into an assertive, seductive greeting.
 - 'It is much better, we grasp this moment!' Hippolyte commends the newfound energy of their exchange.
-- 'Perfect, let us continue this fine rehearsal together.' Vera approves of their creative breakthrough.
+- 'Perfect, let us continue this fine rehearsal together.' Vera approves of their creative breakthrough. Now let's listen to the scene once more from start to finish.

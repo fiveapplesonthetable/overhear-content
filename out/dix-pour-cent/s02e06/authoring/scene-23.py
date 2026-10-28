@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Wait, let us talk rather after the party.' Gillieres quickly backs down from his insistence."),
     (11, None, "'Yes, after the big official ceremony.' Juliette agrees to postpone any discussion safely."),
     (12, None, "'It is much wiser this way.' Gillieres accepts the polite retreat with relief."),
-    (13, None, "'See you later, dear friend!' Juliette bids him farewell and returns to her duties."),
+    (13, None, "'See you later, dear friend!' Juliette bids him farewell and returns to her duties. Now let's listen to the scene once more from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'All right, I am leaving now.' Fed up with his inattention, Sarah turns toward the door."),
     (11, None, "'Yes I am, I am truly listening to you!' Gabriel looks up in a panic and denies ignoring her."),
     (12, None, "'Do you want to come with me tonight?' Gabriel tries to make amends by inviting her out."),
-    (13, None, "'No, you only think about work.' Sarah rejects his offer and walks down the hallway."),
+    (13, None, "'No, you only think about work.' Sarah rejects his offer and walks down the hallway. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

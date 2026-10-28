@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The distributor pulled out of the project.' Guillaume explains that their financier backed out."),
     (11, None, "'What? He refuses to switch the roles?' Sigourney realizes the distributor doubts an older leading woman."),
     (12, None, "'Let me go change my clothes!' Sigourney decides to confront the distributor in person."),
-    (13, None, "'Sigourney, really? What are you going to do?' Guillaume is astonished by her bold determination."),
+    (13, None, "'Sigourney, really? What are you going to do?' Guillaume is astonished by her bold determination. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

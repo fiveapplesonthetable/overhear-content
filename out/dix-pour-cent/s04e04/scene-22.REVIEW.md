@@ -12,9 +12,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Mathias | Camille, réponds-moi. | Camille, answer me. | new | new |
 | 2 | Mathias | S'il te plaît, ma chérie. | Please, my darling. | new | new |
-| 3 | Camille | Camille Valentini, je suis absente, | Camille Valentini, I | #1206: Camille Valentini, je suis absente, | verbatim |
+| 3 | Camille | Camille Valentini, je suis absente, | Camille Valentini, I'm not available, | #1206: Camille Valentini, je suis absente, | verbatim |
 | 4 | Camille | mais laissez-moi un message. | but please leave a message. | #1206: mais laissez-moi un message. | verbatim |
-| 5 | Mathias | C'est moi, Mathias. | It | new | new |
+| 5 | Mathias | C'est moi, Mathias. | It's me, Mathias. | new | new |
 | 6 | Mathias | Je suis désolé. | I am sorry. | new | new |
 | 7 | Mathias | Je regrette tout. | I regret everything. | new | new |
 | 8 | Mathias | Pardonne-moi, s'il te plaît. | Forgive me, please. | new | new |
@@ -22,6 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Mathias | Rappelle-moi. | Call me back. | new | new |
 | 11 | Mathias | Je t'aime, ma fille. | I love you, my daughter. | new | new |
 | 12 | Mathias | Au revoir, Camille. | Goodbye, Camille. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

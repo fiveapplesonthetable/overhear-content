@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'We only need you for this afternoon.' Andrea stresses the short duration of the shoot."),
     (10, None, "'It is for today on top of that?' Isabelle is astonished by the immediate timeframe."),
     (11, None, "'Yes, it can be very fun!' Andrea paints the shoot as an enjoyable adventure."),
-    (12, None, "'I work and I am on duty!' Isabelle points out her real-world medical responsibilities."),
+    (12, None, "'I work and I am on duty!' Isabelle points out her real-world medical responsibilities. Now let's listen to this unusual hospital dialogue once more from beginning to end."),
 ]

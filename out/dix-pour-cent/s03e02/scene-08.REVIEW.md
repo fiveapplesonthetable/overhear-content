@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Gabriel | Je t'appelle demain après-midi. | I will call you tomorrow afternoon. | #547: On s'appelle ? | verbatim |
 | 16 | Chantal | D'accord, à demain, Gabriel. | Okay, see you tomorrow, Gabriel. | #546: Bonne nuit, Gabrielle. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here we are, we have arrived in front of your place.' Gabriel signals the end of the walk home.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Shall we call each other soon?' Gabriel suggests a future contact.
 - 'Yes, with great pleasure.' Chantal accepts with enthusiasm.
 - 'I will call you tomorrow afternoon.' Gabriel sets a specific time frame.
-- 'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close.
+- 'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close. Now let's listen to the entire dialogue once more to lock in what you have learned.

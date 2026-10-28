@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am handing everything over to Mathias.' Hicham announces he is selling out to Mathias to punish them."),
     (11, None, "'I have nothing left here anymore.' Hicham declares his departure from ASK."),
     (12, None, "'Why are you reacting like that?' Andrea pleads as Hicham walks away."),
-    (13, None, "'The leak comes from us.' Andrea realizes that the internal leak came from within their own walls."),
+    (13, None, "'The leak comes from us.' Andrea realizes that the internal leak came from within their own walls. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

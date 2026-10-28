@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Promise me that you no longer love her.' Sofia pushes for total reassurance."),
     (11, None, "'Sofia, we should stop there.' Gabriel recognizes that the exercise has gone too far."),
     (12, None, "'Are you talking to Sarah or to me?' Sofia challenges him to face his authentic emotions."),
-    (13, None, "'I no longer know at all.' Gabriel admits his helplessness in front of her."),
+    (13, None, "'I no longer know at all.' Gabriel admits his helplessness in front of her. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

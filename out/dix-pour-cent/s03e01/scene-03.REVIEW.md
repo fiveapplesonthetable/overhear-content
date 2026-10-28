@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Je surveillerai ton départ du bureau. | I will keep an eye on your departure from the office. | new | new |
 | 14 | Andréa | Tu es vraiment un ami formidable! | You are truly a wonderful friend! | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your glass of fresh water, Andrea.' A helpful presentative introducing refreshing water.
-- 'It is fine, the contraction has passed.' A reassuring compound past statement confirming relief.
-- 'Drink a little water, gently.' A caring imperative advising calm hydration.
-- 'Thank you Gabriel, I already feel better.' A grateful pronominal expression of physical improvement.
-- 'Do you often have such pains?' An inverted question inquiring about recurring symptoms.
-- 'Sometimes, when I walk too fast.' A temporal adverbial clause explaining physical exertion.
-- 'You should really slow down the pace.' A conditional modal advising professional restraint.
-- 'Impossible with all my important meetings!' An elliptical exclamation defending a demanding schedule.
-- 'The health of your baby comes first.' A priority assertion advocating maternal care.
-- 'I know it well, my dear Gabriel.' A concession acknowledging sincere advice.
-- 'Promise me to rest tonight.' A protective imperative requesting domestic rest.
-- 'All right, I am going to go home earlier.' An agreeing near-future commitment to rest.
-- 'I will keep an eye on your departure from the office.' A friendly future promise of protective oversight.
-- 'You are truly a wonderful friend!' A warm complimentary exclamation celebrating steadfast friendship.
+- 'Here is your glass of fresh water, Andrea.' Gabriel introduces refreshing water.
+- 'It is fine, the contraction has passed.' Andréa confirms relief.
+- 'Drink a little water, gently.' Gabriel advises calm hydration.
+- 'Thank you Gabriel, I already feel better.' Andréa thanks Gabriel and says she already feels better.
+- 'Do you often have such pains?' Gabriel inquires about recurring symptoms.
+- 'Sometimes, when I walk too fast.' Andréa explains physical exertion.
+- 'You should really slow down the pace.' Gabriel advises professional restraint.
+- 'Impossible with all my important meetings!' Andréa defends a demanding schedule.
+- 'The health of your baby comes first.' Gabriel advocates maternal care.
+- 'I know it well, my dear Gabriel.' Andréa acknowledges sincere advice.
+- 'Promise me to rest tonight.' Gabriel requests domestic rest.
+- 'All right, I am going to go home earlier.' Andréa agrees to go home earlier to rest.
+- 'I will keep an eye on your departure from the office.' Gabriel promises to make sure she leaves the office on time.
+- 'You are truly a wonderful friend!' Andréa celebrates steadfast friendship. Now let's listen to Gabriel and Andrea again at full speed.

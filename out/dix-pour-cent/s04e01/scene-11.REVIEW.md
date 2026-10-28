@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Je serai à l'heure, c'est promis! | I will be on time, promised! | #647: C'est plus simple. | verbatim |
 | 14 | Colette | Parfait, je prépare le champagne pour nous! | Perfect, I am preparing champagne for us! | #648: Bravo. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andrea, Xavier Beauvois said yes!' Colette excitedly shares the good news from the director.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Right, where were we with our file?' Andrea pivots back to her desk tasks.
 - 'Do not forget our housewarming party!' Colette calls out a happy reminder.
 - 'I will be on time, promised!' Andrea pledges to make the party without delay.
-- 'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory.
+- 'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory. Now let's listen to the complete discussion once more to reinforce the vocabulary.

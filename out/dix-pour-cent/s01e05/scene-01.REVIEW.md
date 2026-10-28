@@ -11,20 +11,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | JoeyStarr | Madame. | Madam. | #1: Madame | verbatim |
-| 2 | Julie | Non! Je n'y crois pas! | No! I don | #2: Non ! Je n'y crois pas | verbatim |
+| 2 | Julie | Non! Je n'y crois pas! | No! I don't believe it! | #2: Non ! Je n'y crois pas | verbatim |
 | 3 | Samir | Coupez! Qu'est-ce qui se passe? | Cut! What is going on? | #4: Coupez<br>#4: Qu'est-ce qui se passe ? | verbatim |
 | 4 | Julie | Il la pousse dans les buissons. | He pushes her into the bushes. | #5: Il la pousse dans les buissons | verbatim |
 | 5 | JoeyStarr | Vous êtes en verre? | Are you made of glass? | #6: Vous êtes en verre ? | verbatim |
 | 6 | Julie | Non, je suis une aristocrate, il est serviteur. | No, I am an aristocrat, he is a servant. | #7: Non. Je suis une aristocrate, il est serviteur | verbatim |
 | 7 | Julie | Il doit faire preuve de respect. | He has to show respect. | #8: il doit<br>#8: faire preuve de respect | verbatim |
-| 8 | JoeyStarr | Je travaille, d'accord? | I | #10: je travaille<br>#11: D'accord | verbatim |
+| 8 | JoeyStarr | Je travaille, d'accord? | I'm working, okay? | #10: je travaille<br>#11: D'accord | verbatim |
 | 9 | Julie | On pourrait avoir un peu de délicatesse et d'élégance dans cette scène? | Could we have a little delicacy and elegance in this scene? | #12: On pourrait avoir un peu de délicatesse et d'élégance<br>#13: dans cette scène ? | verbatim |
-| 10 | JoeyStarr | C'est pour moi? J'en ai marre. | Is that aimed at me? I | #14: C'est pour moi ?<br>#15: J'en ai marre | verbatim |
+| 10 | JoeyStarr | C'est pour moi? J'en ai marre. | Is that aimed at me? I'm fed up. | #14: C'est pour moi ?<br>#15: J'en ai marre | verbatim |
 | 11 | Julie | Moi aussi! Allez à vos dîners mondains! | Me too! Go to your high-society dinners! | #16: Moi aussi<br>#17: Allez à vos dîners mondains ! | verbatim |
-| 12 | Julie | Articulez, s'il vous plaît. Je ne comprends pas un mot. | Articulate, please. I don | #18: Articulez, s'il vous plaît. Je ne comprends pas un mot | verbatim |
+| 12 | Julie | Articulez, s'il vous plaît. Je ne comprends pas un mot. | Articulate, please. I don't understand a word. | #18: Articulez, s'il vous plaît. Je ne comprends pas un mot | verbatim |
 | 13 | Samir | On a combien de retard? | How far behind schedule are we? | #20: On a combien de retard ? | verbatim |
-| 14 | Samir | Cinq jours. Je n'y crois pas! | Five days. I don | #21: Cinq jours. Je n'y crois pas ! | verbatim |
+| 14 | Samir | Cinq jours. Je n'y crois pas! | Five days. I don't believe it! | #21: Cinq jours. Je n'y crois pas ! | verbatim |
 | 15 | Samir | Appelez leurs agents maintenant! | Call their agents right now! | #22: Appelez leurs agents maintenant ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Articulate, please. I don't understand a word.' Julie fires back at his gravelly delivery before storming off to her trailer.
 - 'How far behind schedule are we?' Literally 'we have how much of delay?'.
 - 'Five days. I don't believe it!' Samir repeats the assistant director's answer in horror.
-- 'Call their agents right now!' With both stars locked in their trailers, only ASK can save the shoot. Now let's hear the whole scene on the film set again.
+- 'Call their agents right now!' With both stars locked in their trailers, only ASK can save the shoot.

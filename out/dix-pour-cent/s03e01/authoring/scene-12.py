@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'It is coming to steal something from me.' Jean projects paranoia onto the bird."),
     (13, None, "'Jean, you have an important meeting tomorrow.' Andrea tries to anchor him in reality."),
     (14, None, "'Here, I feel free and alive.' Jean defends his primitive outdoor lifestyle."),
-    (15, None, "'You must become an actor again now.' Andrea delivers her firm managerial verdict."),
+    (15, None, "'You must become an actor again now.' Andrea delivers her firm managerial verdict. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

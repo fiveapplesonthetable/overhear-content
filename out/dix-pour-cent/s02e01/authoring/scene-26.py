@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'My judo teacher from when I was ten?' The imperfect tense of avoir used for age."),
     (8, None, "'I do not know, it is a surprise!' The host smiles that her sudden appearance on the show is a surprise."),
     (9, None, "'It is my turn to go on stage.' Furious over the pay gap, Virginie announces it is her turn to take the stage."),
-    (10, None, "'Ramzy does not know that I am here.' A negative clause followed by the adverb la."),
+    (10, None, "'Ramzy does not know that I am here.' Virginie admits that Ramzy does not know she is here."),
     (11, None, "'We are going to settle our scores live.' Virginie warns Ramzy that they are going to settle scores on live television."),
 ]

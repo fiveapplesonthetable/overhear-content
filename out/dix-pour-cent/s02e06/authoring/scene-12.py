@@ -28,7 +28,7 @@ STORY = [
     ('gillieres', "J'aimerais beaucoup la saluer, si c'est possible.", 'I would really like to greet her, if possible.', [(278, "J'aimerais beaucoup la saluer, si c'est possible.")], ''),
     ('andrea', 'Vous voulez que je lui dise maintenant?', 'Do you want me to tell her now?', [(279, 'Vous pouvez le lui dire'), (280, 'Maintenant ?')], ''),
     ('andrea', "Oui, je l'appelle tout de suite.", 'Yes, I am calling her right away.', [(281, "Oui, je l'appelle.")], ''),
-    ('gillieres', "Agent... C'est un drôle de métier, non?", 'Agent... It is a strange profession, isn', [(282, 'Agent... Un drôle de métier, non ?')], ''),
+    ('gillieres', "Agent... C'est un drôle de métier, non?", "Agent... It is a strange profession, isn't it?", [(282, 'Agent... Un drôle de métier, non ?')], ''),
     ('gillieres', "Travailler dans l'ombre pour que les autres brillent.", 'Working in the shadows so that others can shine.', [(283, "Travailler dans l'ombre pour que les autres brillent.")], ''),
     ('gillieres', 'Shoen... Schoenaerts?', 'Shoen... Did you say Schoenaerts?', [(285, 'Shoen... Schoenaerts ?')], ''),
     ('andrea', "Andréa Martel! C'est beaucoup plus simple.", 'Andréa Martel! That is much simpler.', [(286, "Andréa Martel ! C'est beaucoup plus simple.")], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Agent... It is a strange profession, isn't it?' Jean-Denis ponders the nature of talent representation."),
     (13, None, "'Working in the shadows so that others can shine.' Jean-Denis describes an agent's self-effacing role."),
     (14, None, "'Shoen... Did you say Schoenaerts?' Jean-Denis stumbles clumsily over Belgian actor names."),
-    (15, None, "'Andréa Martel! That is much simpler.' Andrea corrects him briskly with dry wit."),
+    (15, None, "'Andréa Martel! That is much simpler.' Andrea corrects him briskly with dry wit. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

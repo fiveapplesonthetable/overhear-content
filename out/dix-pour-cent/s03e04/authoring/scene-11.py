@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Do not panic, we have time.' Isabelle remains calm under pressure."),
     (10, None, "'The car is parked right downstairs.' Mathias guides her toward their transport."),
     (11, None, "'Isabelle, get quickly into the back!' Mathias hurries her inside the vehicle."),
-    (12, None, "'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night."),
+    (12, None, "'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

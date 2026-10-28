@@ -21,11 +21,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Andréa | Allô Isabelle? C'est Andréa Martel. | Hello Isabelle? It is Andréa Martel. | #497: Isabelle, c'est Andréa Martel d'ASK | verbatim |
 | 10 | Andréa | Sacha Hartman aimerait beaucoup vous voir. | Sacha Hartman would really like to see you. | #498: J'appelle de la part de Sacha Hartman<br>#499: Souhaitez-vous le rencontrer ? | verbatim |
 | 11 | Andréa | Seriez-vous libre demain matin au bureau? | Would you be free tomorrow morning at the office? | #501: Demain, au bureau ? | verbatim |
-| 12 | Andréa | Parfait, rendez-vous demain à onze heures! | Perfect, see you tomorrow at eleven o | #504: Demain à 11h<br>#505: Parfait, à demain, Isabelle | verbatim |
+| 12 | Andréa | Parfait, rendez-vous demain à onze heures! | Perfect, see you tomorrow at eleven o'clock! | #504: Demain à 11h<br>#505: Parfait, à demain, Isabelle | verbatim |
 | 13 | Andréa | Vous voyez, Sacha? C'est réglé. | You see, Sacha? It is settled. | #510: Alors, c'est réglé ! | verbatim |
 | 14 | Sacha | Elle a vraiment accepté de me voir? | She really agreed to see me? | #506: Indisponible ? | verbatim |
 | 15 | Andréa | Oui, elle essaie de vous joindre depuis deux jours. | Yes, she has been trying to reach you for two days. | #499: Depuis deux jours<br>#500: j'essaie ! | verbatim |
 | 16 | Sacha | D'accord, alors je serai là demain. | Alright, then I will be there tomorrow. | #504: D'accord, merci<br>#511: Très bien | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You see, Sacha? It is settled.' Andréa shows him that his fears were unfounded.
 - 'She really agreed to see me?' Sacha is pleasantly stunned by the outcome.
 - 'Yes, she has been trying to reach you for two days.' Andréa reveals Isabelle's true interest.
-- 'Alright, then I will be there tomorrow.' Sacha commits to attending the appointment.
+- 'Alright, then I will be there tomorrow.' Sacha commits to attending the appointment. Now let's listen to the negotiation once more at normal pace.

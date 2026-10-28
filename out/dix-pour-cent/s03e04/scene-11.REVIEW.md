@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | Isabelle, montez vite à l'arrière! | Isabelle, get quickly into the back! | #694: Je passe devant | verbatim |
 | 13 | Isabelle | Allons-y, je suis prête pour Gary. | Let us go, I am ready for Gary. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hurry up, we must leave quickly!' Mathias urges Isabelle to move fast.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do not panic, we have time.' Isabelle remains calm under pressure.
 - 'The car is parked right downstairs.' Mathias guides her toward their transport.
 - 'Isabelle, get quickly into the back!' Mathias hurries her inside the vehicle.
-- 'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night.
+- 'Let us go, I am ready for Gary.' Isabelle embraces the next challenge of the night. Now let's listen to the entire dialogue once more to lock in what you have learned.

@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | ASK est une marque prestigieuse depuis des années. | ASK has been a prestigious brand for years. | #317: C'est une marque. | verbatim |
 | 13 | Mathias | En changeant de nom, nous perdrions nos clients. | By changing names, we would lose our clients. | #318: Faire attention qu'en la changeant, on ne perde pas la clientèle. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I talked about cinema for an entire hour.' Sophia complains that she spoke passionately about art and philosophy during her interview.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Personally, I am very attached to the name ASK.' Mathias affirms his loyalty to the agency's traditional identity.
 - 'Samuel Kerr created this famous agency.' Mathias honors the legacy of their late founding partner.
 - 'ASK has been a prestigious brand for years.' Mathias highlights the strong market reputation established over decades.
-- 'By changing names, we would lose our clients.' Mathias cautions that rebranding could confuse top talent and movie producers.
+- 'By changing names, we would lose our clients.' Mathias cautions that rebranding could confuse top talent and movie producers. Now let's listen to the scene once more from start to finish.

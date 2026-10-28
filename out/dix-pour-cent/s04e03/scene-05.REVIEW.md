@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Camille | Ne sois pas jalouse, pense au travail! | Do not be jealous, think of work! | #134: je ne suis pas jalouse. | verbatim |
 | 13 | Sofia | D'accord, je vais assurer ce beau shooting. | All right, I will deliver on this fine shoot. | #152: une belle journée. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Are you well? You seem very tired.' Camille gently observes Sophia's obvious fatigue before the shoot.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He left with his girlfriend.' Sophia explains that Gabriel walked out of the gathering with Sarah.
 - 'I drank two glasses all alone!' Sophia explains how she ended up finishing both ordered drinks herself.
 - 'Do not be jealous, think of work!' Camille urges Sophia not to let romantic jealousy derail her career.
-- 'All right, I will deliver on this fine shoot.' Sophia resolves to put personal feelings aside and do her best.
+- 'All right, I will deliver on this fine shoot.' Sophia resolves to put personal feelings aside and do her best. Now let's listen to Camille and Sophia's exchange once more from start to finish.

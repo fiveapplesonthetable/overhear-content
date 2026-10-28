@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Sofia | Laissons Juju tranquille pour l'instant. | Let us leave Juju alone for now. | #445: Laissons Juju tranquille | verbatim |
 | 15 | Gabriel | Bien sûr. Évidemment. | Of course. Obviously. | #446: Bien sûr. Évidemment | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It is strange that he has not called back.' Gabriel expresses nervous concern about radio silence.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I do not know, quite possibly.' Gabriel backpedals on his unverified speculation.
 - 'He has plenty of things to do.' The agent rationalizes the singer's busy schedule.
 - 'Let us leave Juju alone for now.' Sofia decides against appearing too eager or demanding.
-- 'Of course. Obviously.' Gabriel agrees to respect the artist's personal space.
+- 'Of course. Obviously.' Gabriel agrees to respect the artist's personal space. Now listen to the whole scene again at normal speed, and see how much more you catch.

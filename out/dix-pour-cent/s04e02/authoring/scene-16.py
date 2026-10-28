@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Everyone doubts sometimes, Dylan.' Franck offers a vulnerable truth about the acting profession."),
     (11, None, "'As if you needed help?' Franck gently probes whether Dylan also hides private struggles."),
     (12, None, "'As if you needed a speech therapist?' Franck brings up the medical care sheet he discovered."),
-    (13, None, "'I did not think that you knew.' Dylan admits his shock at having his private vulnerability uncovered."),
+    (13, None, "'I did not think that you knew.' Dylan admits his shock at having his private vulnerability uncovered. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

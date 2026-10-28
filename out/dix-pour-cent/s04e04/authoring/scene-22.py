@@ -18,9 +18,9 @@ CLOSING = ('mathias', 'À bientôt.')
 STORY = [
     ('mathias', 'Camille, réponds-moi.', 'Camille, answer me.', [], ''),
     ('mathias', "S'il te plaît, ma chérie.", 'Please, my darling.', [], ''),
-    ('camille', 'Camille Valentini, je suis absente,', 'Camille Valentini, I', [(1206, 'Camille Valentini, je suis absente,')], ''),
+    ('camille', 'Camille Valentini, je suis absente,', "Camille Valentini, I'm not available,", [(1206, 'Camille Valentini, je suis absente,')], ''),
     ('camille', 'mais laissez-moi un message.', 'but please leave a message.', [(1206, 'mais laissez-moi un message.')], ''),
-    ('mathias', "C'est moi, Mathias.", 'It', [], ''),
+    ('mathias', "C'est moi, Mathias.", "It's me, Mathias.", [], ''),
     ('mathias', 'Je suis désolé.', 'I am sorry.', [], ''),
     ('mathias', 'Je regrette tout.', 'I regret everything.', [], ''),
     ('mathias', "Pardonne-moi, s'il te plaît.", 'Forgive me, please.', [], ''),

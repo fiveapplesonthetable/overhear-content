@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The courier arrives in ten minutes.' Noemie prepares the sealed package for dispatch."),
     (11, None, "'Tonight, our plan finally begins.' Mathias reflects on the launch of their campaign."),
     (12, None, "'We are going to take back our agency, Mathias.' Noemie reaffirms their joint partnership and ambition."),
-    (13, None, "'Thank you for your trust, dear Noemie.' Mathias acknowledges her steadfast loyalty."),
+    (13, None, "'Thank you for your trust, dear Noemie.' Mathias acknowledges her steadfast loyalty. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

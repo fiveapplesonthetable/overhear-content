@@ -22,10 +22,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Gabriel | Et pourquoi parler très fort? | And why speak very loudly? | #347: parler très fort | verbatim |
 | 11 | Noémie | Parce qu'elle est sourde. | Because she is deaf. | #348: parce qu'elle est sourde. | verbatim |
 | 12 | Gabriel | Mais Arlette n'est pas sourde du tout! | But Arlette is not deaf at all! | #348: elle est sourde. | verbatim |
-| 13 | Eugénie | Bonjour, madame! | Hello, ma | #349: Bonjour, madame ! | verbatim |
+| 13 | Eugénie | Bonjour, madame! | Hello, ma'am! | #349: Bonjour, madame ! | verbatim |
 | 14 | Eugénie | Tellement heureuse de vous rencontrer! | So happy to meet you! | #350: Tellement heureuse de vous rencontrer ! | verbatim |
 | 15 | Eugénie | Travailler à vos côtés est un rêve pour tout jeune agent! | Working alongside you is a dream for any young agent! | #351: Travailler à vos côtés<br>#352: est un rêve pour tout jeune agent ! | verbatim |
 | 16 | Noémie | Voilà, sa carrière chez ASK commence très bien. | There, her career at ASK is off to a great start. | #344: ici | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello, ma'am!' Eugenie shouts enthusiastically across the reception area.
 - 'So happy to meet you!' Eugenie bellows her eager admiration.
 - 'Working alongside you is a dream for any young agent!' Eugenie yells her flattery loudly.
-- 'There, her career at ASK is off to a great start.' Noemie watches the unfolding chaos with satisfaction.
+- 'There, her career at ASK is off to a great start.' Noemie watches the unfolding chaos with satisfaction. Now let's listen to the entire dialogue once more to lock in what you have learned.

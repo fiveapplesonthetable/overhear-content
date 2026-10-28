@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Catherine | Merci Noémie, vous êtes une vraie perle. | Thank you Noemie, you are a real gem. | #243: Oh, vous êtes une perle. | verbatim |
 | 14 | Noémie | Cette lecture vous fera du bien. | This reading will do you good. | #240: tenez, prenez-le. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello Noemie, may I come in?' A polite greeting asking permission to enter the apartment.
-- 'Hello Catherine, come in, please.' A welcoming formula inviting the visitor inside.
-- 'This pretty sweater suits you very well.' A complimentary observation appreciating the gifted clothing.
-- 'Thank you for this wonderful gift.' An expression of polite gratitude for the present.
-- 'It is natural after that terrible accident.' An empathetic reassurance acknowledging past misfortune.
-- 'Do not worry, I have sturdy bones.' A humorous physical reassurance comforting the concerned guest.
-- 'Are you reading a book about shamanism?' An observant question noticing spiritual literature on the table.
-- 'Yes, I am trying to awaken my shaman.' A playful literal quote echoing the self-help title.
-- 'This spiritual subject interests me very much.' A genuine confession of personal curiosity in wellness.
-- 'Really? Are you interested in these practices?' An intrigued inquiry exploring shared spiritual interests.
-- 'I do meditation and yoga.' A personal revelation describing daily mindfulness habits.
-- 'Here, take this book for yourself.' A generous imperative offering the book as an exchange.
-- 'Thank you Noemie, you are a real gem.' A warm metaphor praising gracious hospitality.
-- 'This reading will do you good.' A benevolent future prediction wishing mental peace.
+- 'Hello Noemie, may I come in?' Catherine asks permission to enter the apartment.
+- 'Hello Catherine, come in, please.' Noémie invites the visitor inside.
+- 'This pretty sweater suits you very well.' Catherine appreciates the gifted clothing.
+- 'Thank you for this wonderful gift.' Noémie expresses polite gratitude for the thoughtful gift.
+- 'It is natural after that terrible accident.' Catherine acknowledges past misfortune.
+- 'Do not worry, I have sturdy bones.' Noémie comforts the concerned guest.
+- 'Are you reading a book about shamanism?' Catherine notices spiritual literature on the table.
+- 'Yes, I am trying to awaken my shaman.' Noémie echoes the self-help title.
+- 'This spiritual subject interests me very much.' Catherine confesses her genuine curiosity about spiritual wellness.
+- 'Really? Are you interested in these practices?' Noémie explores shared spiritual interests.
+- 'I do meditation and yoga.' Catherine describes daily mindfulness habits.
+- 'Here, take this book for yourself.' Noémie offers the book as an exchange.
+- 'Thank you Noemie, you are a real gem.' Catherine praises gracious hospitality.
+- 'This reading will do you good.' Noémie wishes mental peace. Now let's listen to Catherine and Noemie again at full speed.

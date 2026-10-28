@@ -25,19 +25,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hervé | J'espère que le public comprendra ce film. | I hope the public will understand this film. | #927: tout compris. | verbatim |
 | 14 | Gabriel | Les spectateurs vont admirer ton grand courage. | The viewers will admire your great courage. | #932: C'est très courageux | verbatim |
 
+
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry for leaving the screening room.' A polite apology explaining a sudden departure.
-- 'It is no big deal at all.' A comforting reassurance minimizing the awkward exit.
-- 'I am naked the entire time!' An exasperated exclamation revealing excessive screen nudity.
-- 'It is a very bold art film.' An objective framing placing the role in an artistic context.
-- 'It is simply horrible for me.' A subjective reaction rejecting the artistic justification.
-- 'The director made artistic choices.' An explanatory statement attributing decisions to the filmmaker.
-- 'He cut all the clothed scenes!' An indignant complaint regarding the post-production editing.
-- 'Your acting remains remarkable, Herve.' A complimentary reassurance praising his screen performance.
-- 'Above all do not speak of that to Julien.' A firm warning pleading for personal discretion.
-- 'I promise you to keep the secret.' A solemn pledge assuring confidentiality between friends.
-- 'Thank you for saying nothing to him, really.' A grateful acknowledgment thanking him for discretion.
-- 'It is not my place to speak.' A respectful boundary recognizing personal privacy.
-- 'I hope the public will understand this film.' A hopeful wish looking ahead to audience reception.
-- 'The viewers will admire your great courage.' An encouraging prediction supporting the artist's bravery.
+- 'Sorry for leaving the screening room.' Hervé explains a sudden departure.
+- 'It is no big deal at all.' Gabriel minimizes the awkward exit.
+- 'I am naked the entire time!' Hervé reveals excessive screen nudity.
+- 'It is a very bold art film.' Gabriel places the role in an artistic context.
+- 'It is simply horrible for me.' Hervé rejects the artistic justification.
+- 'The director made artistic choices.' Gabriel attributes decisions to the filmmaker.
+- 'He cut all the clothed scenes!' Hervé complains indignantly about the director's editing cuts.
+- 'Your acting remains remarkable, Herve.' Gabriel praises the quality of Hervé's performance on screen.
+- 'Above all do not speak of that to Julien.' Hervé pleads for personal discretion.
+- 'I promise you to keep the secret.' Gabriel assures confidentiality between friends.
+- 'Thank you for saying nothing to him, really.' Hervé thanks him for discretion.
+- 'It is not my place to speak.' Gabriel recognizes personal privacy.
+- 'I hope the public will understand this film.' Hervé looks ahead to audience reception.
+- 'The viewers will admire your great courage.' Gabriel supports the artist's bravery. Now let's listen to Herve and Gabriel again at normal speed.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | J'envoie un message d'urgence à Andréa. | I send an emergency text to Andrea. | #431: À l'aide, je suis coincée | verbatim |
 | 14 | Élise | Nous allons passer du temps ensemble! | We are going to spend time together! | #428: C'est nul | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Why do you get in this elevator?' Gabriel demands to know why Elise followed him into the elevator.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am extremely claustrophobic!' Gabriel reveals his severe phobia of confined spaces.
 - 'Breathe calmly, they will help us.' Elise instructs Gabriel to steady his breathing.
 - 'I send an emergency text to Andrea.' Gabriel frantically pulls out his phone to seek rescue.
-- 'We are going to spend time together!' Elise ironically remarks that fate has forced them to bond.
+- 'We are going to spend time together!' Elise ironically remarks that fate has forced them to bond. Now let's listen to the complete discussion once more to reinforce the vocabulary.

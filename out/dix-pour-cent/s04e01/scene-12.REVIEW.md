@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Repose-toi, je prends le relais. | Rest, I take over now. | #658: Excuse-moi | verbatim |
 | 14 | Colette | Merci Andréa, j'en avais grand besoin. | Thank you Andrea, I really needed it. | #658: Excuse-moi | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Ah, I am sorry, Colette!' Andrea expresses her immediate remorse.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She begins to calm down at last.' Andrea notices the baby relaxing.
 - 'This day was very difficult.' Colette sighs under the weight of fatigue.
 - 'Rest, I take over now.' Andrea encourages Colette to take a break.
-- 'Thank you Andrea, I really needed it.' Colette accepts the welcome relief.
+- 'Thank you Andrea, I really needed it.' Colette accepts the welcome relief. Now let's listen to the complete discussion once more to reinforce the vocabulary.

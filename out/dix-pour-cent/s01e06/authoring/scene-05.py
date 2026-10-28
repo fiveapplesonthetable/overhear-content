@@ -26,7 +26,7 @@ STORY = [
     ('gabriel', 'Oui! Le second rôle, avec un cachet formidable!', 'Yes! The supporting role, with a huge paycheck!', [(127, 'Ouais.'), (128, 'Le second rôle'), (128, 'Avec un cachet de folie')], ''),
     ('gabriel', "Une fille magnifique, pleine d'énergie... Et qui danse le hip-hop!", 'A gorgeous girl, full of energy... And who dances hip-hop!', [(131, 'Et qui danse... le hip-hop !')], ''),
     ('sofia', 'Elle danse le hip-hop?', 'She dances hip-hop?', [(132, 'Elle danse le hip-hop ?')], ''),
-    ('gabriel', "Oui! C'est toi, non?", 'Yes! That is you, isn', [(133, "Ouais ! C'est toi, non ?")], ''),
+    ('gabriel', "Oui! C'est toi, non?", "Yes! That is you, isn't it?", [(133, "Ouais ! C'est toi, non ?")], ''),
     ('sofia', "Oui, oui... C'est tout à fait moi, oui.", 'Yes, yes... That is completely me, yes.', [(134, "Ouais, ouais... C'est tout à fait moi, ouais.")], ''),
     ('gabriel', 'Va voir Hervé pour la musique. Mais garde le secret!', 'Go see Hervé for the music. But keep the secret!', [(135, 'Va voir Hervé.'), (136, 'Il te filera les paroles'), (137, "Mais surtout, bouche cousue ! C'est top secret !")], ''),
 ]
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'She dances hip-hop?' Sofia repeats the condition with a touch of uncertainty."),
     (10, None, "'Yes! That is you, isn't it?' Gabriel assumes that Sofia already knows how to dance hip-hop."),
     (11, None, "'Yes, yes... That is completely me, yes.' Eager for the chance, Sofia quickly claims the role fits her perfectly."),
-    (12, None, "'Go see Hervé for the music. But keep the secret!' Gabriel sends her to his assistant and swears her to secrecy."),
+    (12, None, "'Go see Hervé for the music. But keep the secret!' Gabriel sends her to his assistant and swears her to secrecy. Now let's listen to Gabriel and Sofia's conversation once more."),
 ]

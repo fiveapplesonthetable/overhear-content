@@ -11,22 +11,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Miranda | Mathias, je veux tourner à Paris. | Mathias, I want to shoot in Paris. | #642: Tourner à Paris | verbatim |
-| 2 | Mathias | Paris? C'est une très bonne idée. | Paris? That | new | new |
-| 3 | Miranda | Oui, mais il faut des autorisations. Ah, la paperasse française! | Yes, but you need permits. Ah, French paperwork! | #629: les autorisations<br>#631: La paperasse française | verbatim |
-| 4 | Mathias | C'est plus simple quand on connaît les bonnes personnes. | It | #633: quand on connaît les bonnes personnes | verbatim |
+| 2 | Mathias | Paris? C'est une très bonne idée. | Paris? That's a very good idea. | new | new |
+| 3 | Miranda | Oui, mais il faut des autorisations. Ah, la paperasse française! | Ah, French paperwork! | #629: les autorisations<br>#631: La paperasse française | verbatim |
+| 4 | Mathias | C'est plus simple quand on connaît les bonnes personnes. | It's simpler when you know the right people. | #633: quand on connaît les bonnes personnes | verbatim |
 | 5 | Miranda | Vraiment? | Really? | #634: Vraiment | verbatim |
 | 6 | Mathias | Si vous avez besoin d'aide, demandez. | If you need help, just ask. | #634: Si vous avez besoin d'aide, demandez | verbatim |
-| 7 | Mathias | Je connais la ministre de la Culture. C'est une jeune femme brillante. | I know the Minister of Culture. She's a brilliant young woman. | #635: ministre de la culture<br>#637: C'est une jeune femme brillante | verbatim |
+| 7 | Mathias | Je connais la ministre de la Culture. C'est une jeune femme brillante. | She's a brilliant young woman. | #635: ministre de la culture<br>#637: C'est une jeune femme brillante | verbatim |
 | 8 | Mathias | Et elle adore Cécile de France! | And she loves Cécile de France! | #639: elle adore Cécile de France | verbatim |
-| 9 | Miranda | Mais Cécile n'est plus dans le projet. | But Cécile isn | #641: projet | verbatim |
-| 10 | Mathias | Je sais. Elle va être très triste. | I know. She | new | new |
+| 9 | Miranda | Mais Cécile n'est plus dans le projet. | But Cécile isn't in the project any more. | #641: projet | verbatim |
+| 10 | Mathias | Je sais. Elle va être très triste. | I know. She's going to be very sad. | new | new |
 | 11 | Mathias | Alors, tourner à Paris, c'est peut-être impossible. | So shooting in Paris might be impossible. | #642: Tourner à Paris<br>#642: peut-être impossible | verbatim |
-| 12 | Miranda | Elle n'a pas besoin de le savoir. | She doesn | #643: Elle n'a pas besoin de le savoir | verbatim |
-| 13 | Mathias | Elles sont très proches. C'est difficile de cacher la vérité. | They are very close. It is hard to hide the truth. | #644: Elles sont très proches<br>#645: C'est difficile de cacher des choses à ses amies | verbatim |
-| 14 | Miranda | Vous bluffez. | You | #647: Vous bluffez | verbatim |
-| 15 | Mathias | Pas du tout. Pas de Cécile, pas de Paris. | Not at all. No Cécile, no Paris. | #647: Pas du tout<br>#648: Pas de Cécile, pas de Paris | verbatim |
-| 16 | Miranda | Bon. Je vais parler à Quentin. | Fine. I | new | new |
+| 12 | Miranda | Elle n'a pas besoin de le savoir. | She doesn't need to know. | #643: Elle n'a pas besoin de le savoir | verbatim |
+| 13 | Mathias | Elles sont très proches. C'est difficile de cacher la vérité. | They're very close. | #644: Elles sont très proches<br>#645: C'est difficile de cacher des choses à ses amies | verbatim |
+| 14 | Miranda | Vous bluffez. | You're bluffing. | #647: Vous bluffez | verbatim |
+| 15 | Mathias | Pas du tout. Pas de Cécile, pas de Paris. | No Cécile, no Paris. | #647: Pas du tout<br>#648: Pas de Cécile, pas de Paris | verbatim |
+| 16 | Miranda | Bon. Je vais parler à Quentin. | Fine. I'll talk to Quentin. | new | new |
 | 17 | Mathias | Merci, Miranda. Bonne chance! | Thank you, Miranda. Good luck! | #650: Bonne chance | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -47,7 +49,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They're very close.' The pronoun here is the plural for women, since both are women: the minister and Cécile.
 - 'It's hard to hide things from your friends.' Literally 'it is difficult to hide things to one's friends'. Miranda isn't fooled.
 - 'You're bluffing.' The same word as in poker, with the polite form of 'you'. And now the line of the scene.
-- 'Not at all.' A very handy reply when someone accuses you of something.
+- 'Not at all.' Mathias gives a very handy reply when someone accuses you of something.
 - 'No Cécile, no Paris.' Without a verb, the negative word alone is enough, with a little word linking it to the noun. Short and hard to forget. Miranda gives in.
 - 'Fine. I'll talk to Quentin.' The near future again: 'I am going to' plus 'talk'. Quentin is Tarantino, of course.
-- 'Thank you, Miranda. Good luck!' Mathias has turned a no into a maybe, and he leaves the table very pleased. Now let's hear the whole conversation once more, from the top.
+- 'Thank you, Miranda. Good luck!' Mathias has turned a no into a maybe, and he leaves the table very pleased.

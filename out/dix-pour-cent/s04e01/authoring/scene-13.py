@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Yes, it is great, this book!' Colette confirms having seen the volume."),
     (11, None, "'One must read it very attentively.' Andrea encourages careful study."),
     (12, None, "'I am going to bed now.' Colette heads to the bedroom to rest."),
-    (13, None, "'Good night, sleep well tonight.' Andrea offers loving parting wishes."),
+    (13, None, "'Good night, sleep well tonight.' Andrea offers loving parting wishes. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

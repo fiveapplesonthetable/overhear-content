@@ -17,16 +17,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Karine | Hier, notre voiture est tombée en panne sur la route. | Yesterday, our car broke down on the road. | #599: depuis hier<br>#602: Quand la voiture a lâché | verbatim |
 | 6 | Hicham | Vous pourriez utiliser ma voiture? | Could you use my car? | #605: Vous pourriez utiliser ma voiture | verbatim |
 | 7 | Hicham | Même style, même couleur. | Same style, same color. | #606: Même style, même couleur | verbatim |
-| 8 | Karine | Pourquoi pas? C'est super! | Why not? That | #608: Pourquoi pas<br>#611: C'est super | verbatim |
+| 8 | Karine | Pourquoi pas? C'est super! | Why not? That's great! | #608: Pourquoi pas<br>#611: C'est super | verbatim |
 | 9 | Karine | Il nous la faudrait encore quelques jours. | We would need it for a couple more days. | #613: il nous la faudrait encore quelques jours | verbatim |
 | 10 | Hicham | Pas de problème, avec plaisir. | No problem, with pleasure. | #614: Pas de problème, avec plaisir | verbatim |
 | 11 | Hicham | J'ai une idée. Mon cousin Saïd conduit très bien. | I have an idea. My cousin Saïd drives very well. | #619: J'ai une idée<br>#620: Dans le film<br>#627: Mon cousin | verbatim |
-| 12 | Karine | Non, Hicham, ce n'est pas comme ça que ça marche. | No, Hicham, that | #621: Non, Hicham, c'est pas comme ça que ça marche | verbatim |
+| 12 | Karine | Non, Hicham, ce n'est pas comme ça que ça marche. | No, Hicham, that's not how it works. | #621: Non, Hicham, c'est pas comme ça que ça marche | verbatim |
 | 13 | Karine | On a déjà un acteur professionnel. | We already have a professional actor. | #622: On a déjà<br>#624: un acteur professionnel | verbatim |
 | 14 | Hicham | Mon cousin s'en sortira très bien. | My cousin will do very well. | #627: il s'en sortira très bien | verbatim |
 | 15 | Hicham | Bon, laissez tomber. Au revoir! | Okay, forget it. Goodbye! | #630: Bon, laissez tomber<br>#632: Au revoir | verbatim |
-| 16 | Karine | Il est fou ce mec. | The guy | #637: Il est fou ce mec | verbatim |
+| 16 | Karine | Il est fou ce mec. | The guy's crazy. | #637: Il est fou ce mec | verbatim |
 | 17 | Andréa | Non, attendez, Hicham! Hicham! | No, wait, Hicham! Hicham! | #634: Non, attendez, Hicham<br>#639: Hicham | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,10 +41,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why not? That's great!' Karine is thrilled by the unexpected solution.
 - 'We would need it for a couple more days.' She explains the filming schedule.
 - 'No problem, with pleasure.' Hicham basks in playing the generous patron.
-- 'I have an idea. My cousin Saïd drives very well.'s the one who drives in the film.' He suddenly adds an impossible condition.
+- 'I have an idea. My cousin Saïd drives very well.' He suddenly adds an impossible condition.
 - 'No, Hicham, that's not how it works.' Karine firmly pushes back.
 - 'We already have a professional actor.' The production must respect union rules and continuity.
 - 'My cousin will do very well.' Hicham refuses to take no for an answer.
 - 'Okay, forget it. Goodbye!' Offended at not getting his way, Hicham abruptly storms off.
 - 'The guy's crazy.' Karine stares in shock as the billionaire walks away.
-- 'No, wait, Hicham! Hicham!' Andréa chases after him in desperation.
+- 'No, wait, Hicham! Hicham!' Andréa chases after him in desperation. Now let's listen to the entire exchange once more from beginning to end.

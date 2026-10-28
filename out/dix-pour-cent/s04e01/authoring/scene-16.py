@@ -28,7 +28,7 @@ STORY = [
     ('charlotte', 'Nous devons nous parler en toute franchise.', 'We must speak to each other frankly.', [(855, "Faut qu'on parle")], ''),
     ('oscar', 'Tu as raison, ce tournage était absurde.', 'You are right, this shoot was absurd.', [(871, "C'était un coup de tête")], ''),
     ('oscar', "Je prépare maintenant un beau film d'animation.", 'I am preparing a beautiful animated film now.', [(874, "un film d'animation")], ''),
-    ('oscar', 'Veux-tu être la voix de mon héroïne?', 'Do you want to be my heroine', [(875, 'prêter sa voix à mon héroïne')], ''),
+    ('oscar', 'Veux-tu être la voix de mon héroïne?', "Do you want to be my heroine's voice?", [(875, 'prêter sa voix à mon héroïne')], ''),
     ('charlotte', 'Oui, je lirai ton scénario avec joie!', 'Yes, I will read your script with joy!', [(877, 'lire le scénario'), (878, 'Bien sûr')], ''),
 ]
 WALK = [

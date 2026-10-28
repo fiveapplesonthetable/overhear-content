@@ -24,8 +24,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Hicham | Alors, Andréa... tu as couru pour me dire au revoir? | So, Andréa... you ran to say goodbye to me? | #496: Alors, Marteau<br>#496: t'as couru pour dire au revoir | verbatim |
 | 13 | Andréa | Tu vas où? | Where are you going? | #497: Tu vas où | verbatim |
 | 14 | Hicham | À l'aéroport de Dole. | To Dole airport. | #498: L'aéroport de Dole | verbatim |
-| 15 | Andréa | Tu peux me déposer au tournage? C'est sur la route. | Can you drop me off at the shoot? It | #499: Tu peux me déposer au tournage<br>#499: C'est sur la route | verbatim |
+| 15 | Andréa | Tu peux me déposer au tournage? C'est sur la route. | Can you drop me off at the shoot? It's on the way. | #499: Tu peux me déposer au tournage<br>#499: C'est sur la route | verbatim |
 | 16 | Andréa | Léa Seydoux te remerciera en personne. Promis. | Léa Seydoux will thank you in person. Promised. | #500: Léa Seydoux te remerciera en personne. Promis | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where are you going?' Andréa quickly checks his destination.
 - 'To Dole airport.' Hicham explains that he is heading back to his private jet.
 - 'Can you drop me off at the shoot? It's on the way.' She maneuvers her way into his sports car.
-- 'Léa Seydoux will thank you in person. Promised.' She sweetens the ride with a star encounter.
+- 'Léa Seydoux will thank you in person. Promised.' She sweetens the ride with a star encounter. Now let's listen to the entire dialogue once more from beginning to end.

@@ -17,13 +17,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Gabriel | Non, Sofia joue l'esclave. | No, Sofia is playing the slave. | #745: Non, Sofia joue l'esclave | verbatim |
 | 6 | Andréa | Non! C'est vrai? | No! Really? | #746: Non | verbatim |
 | 7 | Gabriel | Oui, elle fait le ménage pour la duchesse. | Yes, she does the cleaning for the duchess. | #746: Elle fait le ménage<br>#746: la duchesse | verbatim |
-| 8 | Gabriel | Elle va être furieuse contre moi. | She | #748: Elle va | verbatim |
-| 9 | Sofia | Je joue l'esclave? | I | #749: l'esclave | verbatim |
+| 8 | Gabriel | Elle va être furieuse contre moi. | She's going to be furious with me. | #748: Elle va | verbatim |
+| 9 | Sofia | Je joue l'esclave? | I'm playing the slave? | #749: l'esclave | verbatim |
 | 10 | Gabriel | Oui, mais avec du texte en plus. | Yes, but with lines to say as well. | #750: en plus | verbatim |
 | 11 | Sofia | J'ai eu le rôle? | I got the part? | #751: J'ai eu le rôle | verbatim |
 | 12 | Sofia | Dans un film avec JoeyStarr! | In a film with JoeyStarr! | #751: Dans un film avec JoeyStarr | verbatim |
-| 13 | Sofia | C'est génial! Oh, Gabriel! | That | #753: Oh, Gabriel | verbatim |
+| 13 | Sofia | C'est génial! Oh, Gabriel! | That's brilliant! Oh, Gabriel! | #753: Oh, Gabriel | verbatim |
 | 14 | Sofia | Merci! Je t'aime, je t'aime! | Thank you! I love you, I love you! | #754: Je t'aime, je t'aime | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

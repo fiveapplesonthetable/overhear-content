@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'So he will reward my loyalty. Keep watch, okay?' Noemie orders Herve to guard the corridor."),
     (11, None, "'Jean Gabin! What? Jean Gabin is ruining the money!' Herve gasps as the dog damages the cash on the floor."),
     (12, None, "'Give it back, Jean Gabin! I cannot believe it!' Noemie desperately tries to rescue the bills from the puppy."),
-    (13, None, "'Noémie, get out of there!' Herve urgently tells her to escape before anyone discovers the catastrophe."),
+    (13, None, "'Noémie, get out of there!' Herve urgently tells her to escape before anyone discovers the catastrophe. Now let's listen to the scene between Noemie and Hervé once more."),
 ]

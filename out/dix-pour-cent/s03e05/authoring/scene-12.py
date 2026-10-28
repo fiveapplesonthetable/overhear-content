@@ -18,8 +18,8 @@ CLOSING = ('valentin', 'À bientôt!')
 STORY = [
     ('camille', "Valentin? Qu'est-ce que tu fais là-dedans?", 'Valentin? What are you doing in there?', [(388, 'Valentin ?'), (389, 'Valentin ?')], ''),
     ('valentin', "Oh, j'adore cette immense pièce lumineuse!", 'Oh, I love this huge, luminous room!', [(391, "Oh celui-là j'adore")], ''),
-    ('camille', "Non, sors vite, c'est le bureau de Mathias!", 'No, get out quickly, that is Mathias', [(392, "Non mais sûrement pas c'est celui de mon patron ça")], ''),
-    ('valentin', 'Ce sera bientôt le tien, non?', 'It will be yours soon, won', [(396, 'Mais attends ce sera bientôt le tien non ?')], ''),
+    ('camille', "Non, sors vite, c'est le bureau de Mathias!", "No, get out quickly, that is Mathias's office!", [(392, "Non mais sûrement pas c'est celui de mon patron ça")], ''),
+    ('valentin', 'Ce sera bientôt le tien, non?', "It will be yours soon, won't it?", [(396, 'Mais attends ce sera bientôt le tien non ?')], ''),
     ('valentin', 'Agence Camille Valentini, ça sonne très bien!', 'Camille Valentini Agency, that sounds great!', [(398, 'Agence Camille Valentini')], ''),
     ('camille', 'Arrête, Valentin, ne touche à rien.', 'Stop it, Valentin, do not touch anything.', [(395, 'Arrête Valentin'), (400, 'Patouche')], ''),
     ('valentin', 'Regarde toutes ces belles bouteilles prestigieuses.', 'Look at all these beautiful prestigious bottles.', [(399, 'Les bouteilles')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'What if we rehearsed my casting scene?' Valentin proposes an impromptu rehearsal."),
     (11, None, "'You want to rehearse your scene here now?' Camille reacts with incredulity."),
     (12, None, "'Yes, both of us are ready.' Valentin encourages her to participate."),
-    (13, None, "'Okay, but just once then.' Camille relents under his charm."),
+    (13, None, "'Okay, but just once then.' Camille relents under his charm. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

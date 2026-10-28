@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Yes, I love making up nonsense.' Franck proudly admits his playful habit."),
     (11, None, "'What a clown, I almost believed it!' Sophia laughs at her own credulity."),
     (12, None, "'Your great sincerity is very moving.' Franck warmly compliments Sophia's candid honesty."),
-    (13, None, "'Come on, come dance with us now!' Sophia dismisses the teasing and invites Franck to dance."),
+    (13, None, "'Come on, come dance with us now!' Sophia dismisses the teasing and invites Franck to dance. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

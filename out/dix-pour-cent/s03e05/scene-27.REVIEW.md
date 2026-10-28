@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Merci pour ta sagesse, Arlette. | Thank you for your wisdom, Arlette. | #1057: Hein ? | verbatim |
 | 14 | Arlette | Garde ton calme aujourd'hui. | Keep your calm today. | #1057: Hein ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Arlette, are you there?' Gabriel asks as he looks into her office.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We simply want to protect ourselves.' Gabriel defends their motives for acting behind Hicham's back.
 - 'Loyalty is essential here.' Arlette underscores the foundational virtue of their profession.
 - 'Thank you for your wisdom, Arlette.' Gabriel appreciates her steadying presence.
-- 'Keep your calm today.' Arlette offers parting advice before returning to her work.
+- 'Keep your calm today.' Arlette offers parting advice before returning to her work. Now let's listen to the complete discussion once more to reinforce the vocabulary.

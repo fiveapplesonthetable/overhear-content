@@ -27,21 +27,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Mathias | Tu as fait un travail formidable, Noémie. | You did a wonderful job, Noémie. | new | new |
 | 16 | Noémie | Merci, Mathias. | Thank you, Mathias. | #720: Oh, Mathias. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'We must stop, Noémie, it is late.' Late at night in the office, Mathias tells Noémie they have to stop working.
-- 'I got behind in my work.' The idiom prendre du retard meaning to fall behind.
+- 'I got behind in my work.' Noémie explains that she fell behind in her work.
 - 'I wanted to apologize for yesterday.' Mathias apologizes to Noémie for losing his temper the day before.
 - 'It is not your fault, Mathias.' Noémie reassures him gently that none of it was his fault.
 - 'The situation is complex.' Mathias sighs that his personal and professional life has become complicated.
 - 'I was afraid you were angry with me.' Noémie confesses she was terrified that Mathias was angry with her.
-- 'Sorry for having put you in this situation.' A past infinitive introduced by de.
+- 'Sorry for having put you in this situation.' Mathias apologizes for having put her in such an awkward situation.
 - 'You cannot spend the night on these schedules.' Mathias insists she cannot spend the entire night reworking the schedules.
-- 'But I am sure that it can work.' An assertive clause expressing confidence.
+- 'But I am sure that it can work.' Noémie expresses confidence.
 - 'They must start with the end of the shoot.' Noémie spots the solution: the crew must shoot the ending of the film first.
-- 'Let us see, which sequence?' An informal prompt asking for detail.
-- 'Sequence sixty-nine.' A spelled out cardinal number identifying the script scene.
-- 'Here is the summary of the scene.' The presentative voila introducing the document.
-- 'Yes, they can start there.' The spatial adverb la meaning there.
+- 'Let us see, which sequence?' Mathias asks for detail.
+- 'Sequence sixty-nine.' Noémie identifies the script scene.
+- 'Here is the summary of the scene.' Noémie introduces the document.
+- 'Yes, they can start there.' Mathias agrees that the guests can start without him.
 - 'You did a wonderful job, Noémie.' Mathias commends her dedication.
-- 'Thank you, Mathias.' An intimate tender response.
+- 'Thank you, Mathias.' Noémie replies with quiet, tender gratitude.

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am delighted to be on this shoot.' Laurence expresses genuine joy at joining the film cast."),
     (11, None, "'See you shortly on the movie set.' Laurence smiles politely before heading to the dressing rooms."),
     (12, None, "'Laurence... What is she doing here?' Jose remains petrified by the unexpected arrival of his ex-partner."),
-    (13, None, "'Have you known her for a long time?' Andrea asks Jose about the history behind his shock."),
+    (13, None, "'Have you known her for a long time?' Andrea asks Jose about the history behind his shock. Now let's listen to the full exchange once more from start to finish."),
 ]

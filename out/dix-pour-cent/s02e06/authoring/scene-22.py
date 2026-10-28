@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Let us take this corridor this way.' Andrea tries another turn to escape the maze."),
     (11, None, "'Watch out, my beautiful dress is tearing!' Juliette gasps as her garment snags on an obstacle."),
     (12, None, "'Oh no, a tear at the bottom!' Andrea spots the damage to the gown with dismay."),
-    (13, None, "'The ceremony will begin soon!' Juliette worries that she must go on stage in damaged clothes."),
+    (13, None, "'The ceremony will begin soon!' Juliette worries that she must go on stage in damaged clothes. Now let's listen to the scene once more from start to finish."),
 ]

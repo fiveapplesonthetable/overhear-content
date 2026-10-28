@@ -17,7 +17,7 @@ OUTRO = "In the quiet privacy of the taxi, Noemie complains about her uncomforta
 CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('noemie', 'Veux-tu vraiment aller au grand dîner?', 'Do you really want to go to the big dinner?', [(1005, "aller au Fouquet's")], ''),
-    ('noemie', "Le Fouquet's est plein de monde.", 'The Fouquet', [(1005, "aller au Fouquet's")], ''),
+    ('noemie', "Le Fouquet's est plein de monde.", "The Fouquet's is full of people.", [(1005, "aller au Fouquet's")], ''),
     ('noemie', "Tout le monde va t'accaparer là-bas.", 'Everyone will monopolize you over there.', [(1006, "va t'accaparer")], ''),
     ('noemie', "Je n'aurai pas une minute seule.", 'I will not have a single minute alone.', [(1006, 'pas une minute avec toi')], ''),
     ('noemie', 'Je veux passer la soirée ensemble.', 'I want to spend the evening together.', [(1006, 'pas une minute avec toi')], ''),

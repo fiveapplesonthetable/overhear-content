@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am looking for a new director.' Hicham describes the executive vacancy."),
     (11, None, "'Does the director post interest you?' Hicham presents Andrea with the ultimate promotion."),
     (12, None, "'That is an incredible offer, Hicham.' Andrea is stunned by the magnitude of the proposal."),
-    (13, None, "'Think carefully about this opportunity.' Hicham encourages her to weigh the decision."),
+    (13, None, "'Think carefully about this opportunity.' Hicham encourages her to weigh the decision. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

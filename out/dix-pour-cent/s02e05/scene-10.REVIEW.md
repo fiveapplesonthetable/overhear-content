@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Arlette | Il est tombé éperdument amoureux de moi. Et je l'ai suivi. | He fell madly in love with me. And I followed him. | #300: Il est tombé éperdument amoureux de moi.<br>#301: Et je l'ai suivi. | verbatim |
 | 16 | Arlette | La jalousie, c'est tellement stupide. | Jealousy is so stupid. | #289: La jalousie, c'est tellement stupide. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Does it still have that effect, even after 50 years?' Gabriel probes Arlette's lingering tension.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, but it is crazy. Chet Baker!' Gabriel marvels at the legendary name.
 - 'It was in New York, at the jazz club where he was playing.' Arlette paints the romantic setting.
 - 'He fell madly in love with me. And I followed him.' Arlette describes her whirlwind adventure.
-- 'Jealousy is so stupid.' Arlette philosophizes on romantic possessiveness.
+- 'Jealousy is so stupid.' Arlette philosophizes on romantic possessiveness. Now let's listen to the entire dialogue once more to lock in what you have learned.

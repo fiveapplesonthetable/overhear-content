@@ -29,7 +29,7 @@ STORY = [
     ('andrea', "Tu as fait ce qu'il fallait.", 'You did what was necessary.', [(104, "ce qu'il fallait faire")], ''),
     ('jose', 'Regarde, mon hoquet est enfin parti!', 'Look, my hiccup is finally gone!', [(109, "C'est parti !")], ''),
     ('andrea', "Qu'est-ce que je t'avais dit?", 'What did I tell you?', [(110, "Qu'est-ce que je t'avais dit ?")], ''),
-    ('jose', 'Allez, on y va maintenant!', 'Come on, let', [(111, 'Allez ! On y va !')], ''),
+    ('jose', 'Allez, on y va maintenant!', "Come on, let's go now!", [(111, 'Allez ! On y va !')], ''),
 ]
 WALK = [
     (0, None, "'I cannot shoot like this!' Jose complains that he cannot film in his current state."),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You did what was necessary.' Andrea reassures him that he made the right choice."),
     (11, None, "'Look, my hiccup is finally gone!' Jose realizes that the emotional release cured him."),
     (12, None, "'What did I tell you?' Andrea smiles at the successful cure of his hiccups."),
-    (13, None, "'Come on, let's go now!' Jose returns eagerly to the set to resume filming."),
+    (13, None, "'Come on, let's go now!' Jose returns eagerly to the set to resume filming. Now let's listen to Jose and Andrea's full conversation once again from start to finish."),
 ]

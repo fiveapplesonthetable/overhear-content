@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Yes, I am really going to burst!' Juliette insists that she cannot wait any longer."),
     (11, None, "'Do we still have time?' Hicham asks if a quick detour is possible."),
     (12, None, "'No, not really a lot of time.' Andrea warns that the schedule is extremely tight."),
-    (13, None, "'All right, let us run to find a bathroom!' Andrea agrees to rush backstage to locate a restroom."),
+    (13, None, "'All right, let us run to find a bathroom!' Andrea agrees to rush backstage to locate a restroom. Now let's listen to the scene once more from start to finish."),
 ]

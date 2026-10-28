@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'You are playing the babysitter for him.' Mathias warns her against subservient duties."),
     (13, None, "'He will not respect you.' Mathias cautions that flunky tasks undermine authority."),
     (14, None, "'I want to be a junior agent.' Camille reaffirms her clear professional ambition."),
-    (15, None, "'So I am being careful, Mathias.' Camille insists she knows how to manage the boundary."),
+    (15, None, "'So I am being careful, Mathias.' Camille insists she knows how to manage the boundary. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

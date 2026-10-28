@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Cordially, Hicham.' Andrea delivers a delightfully brisk, email-style farewell."),
     (13, None, "'I am going to see Jean Dujardin now.' Andrea announces her immediate off-site priority."),
     (14, None, "'Take care of yourself on the road.' Hicham reiterates his paternalistic care."),
-    (15, None, "'Do not worry, I manage everything.' Andrea reasserts total command of her affairs."),
+    (15, None, "'Do not worry, I manage everything.' Andrea reasserts total command of her affairs. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

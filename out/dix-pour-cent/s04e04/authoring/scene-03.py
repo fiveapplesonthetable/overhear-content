@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'We must convince her quickly.' Andrea urges Gabriel to guide their valuable star back to prestigious cinematic roles."),
     (11, None, "'I am going to see her again today.' Gabriel confirms he will speak with her once more before the final curtain."),
     (12, None, "'Reassure her about her immense talent.' Andrea encourages Gabriel to rebuild Sandrine's confidence gently."),
-    (13, None, "'I will do my best, Andrea.' Gabriel promises to give his all to keep the agency on track."),
+    (13, None, "'I will do my best, Andrea.' Gabriel promises to give his all to keep the agency on track. Now let's listen to Andrea and Gabriel's conversation once more from start to finish."),
 ]

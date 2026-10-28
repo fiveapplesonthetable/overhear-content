@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Veux-tu boire un bon mojito avec moi? | Do you want to drink a nice mojito with me? | #419: Tu veux un mojito ? | verbatim |
 | 13 | Monica | Oui avec plaisir, je m'amuse beaucoup! | Yes with pleasure, I am having a lot of fun! | #421: Bah, oui.<br>#427: Je suis chargé.<br>#429: Mais tout va bien. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am not very sure of myself.' Monica admits her hesitation before entering the party in disguise.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why did you choose the first name Chantal?' Gabriel inquires about the humorous origin of her chosen pseudonym.
 - 'I found that normal enough for me.' Monica explains that the name sounded pleasantly down-to-earth.
 - 'Do you want to drink a nice mojito with me?' Gabriel gets drinks from the improvised kitchen bar.
-- 'Yes with pleasure, I am having a lot of fun!' Monica accepts the cocktail and enjoys her incognito adventure.
+- 'Yes with pleasure, I am having a lot of fun!' Monica accepts the cocktail and enjoys her incognito adventure. Now let's listen to the scene once more from start to finish.

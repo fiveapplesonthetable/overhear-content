@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Je ne veux pas avoir l'air idiot. | I do not want to look foolish. | #777: je ne veux pas qu'on ait l'air idiots | verbatim |
 | 14 | Andréa | D'accord, je gère la situation. | All right, I am managing the situation. | #779: D'accord | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Seriously Hicham, everything is progressing very well.' Andrea reassures the new boss about her negotiation progress.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There is no question of slipping this on.' She shuts down his intrusive demand with absolute authority.
 - 'Very well. Do not let go of Luchini.' Hicham backs down but reminds her of the high stakes.
 - 'I do not want to look foolish.' His massive pride cannot tolerate a public professional failure.
-- 'All right, I am managing the situation.' She concludes the confrontation on her own terms.
+- 'All right, I am managing the situation.' She concludes the confrontation on her own terms. Now let's listen to the entire exchange once more from beginning to end.

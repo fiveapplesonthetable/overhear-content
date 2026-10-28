@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Christophe | Quoi? Pourquoi pas? C'est complètement absurde! | What? Why not? It is completely absurd! | #177: Quoi ?<br>#178: Pourquoi pas ?<br>#178: C'est complètement absurde ! | verbatim |
+| 1 | Christophe | Quoi? Pourquoi pas? C'est complètement absurde! | It is completely absurd! | #177: Quoi ?<br>#178: Pourquoi pas ?<br>#178: C'est complètement absurde ! | verbatim |
 | 2 | Andréa | Tu voulais Berléand, tu l'as. | You wanted Berléand, you have him. | #179: Tu voulais Berléand, tu l'as. | verbatim |
 | 3 | Christophe | Quand j'étais petit, j'avais sept ans. | When I was little, I was seven years old. | #180: Quand j'étais petit, j'avais sept ans... | verbatim |
 | 4 | Christophe | Mon père est parti, il a quitté ma mère. | My father left, he left my mother. | #181: Mon père est parti<br>#181: Il a quitté ma mère. | verbatim |
@@ -19,13 +19,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Andréa | Oui. Mais Dom Juan ne sera pas dans l'eau. | Yes. But Dom Juan will not be in the water. | #186: Oui.<br>#186: Mais Dom Juan ne sera pas dans l'eau. | verbatim |
 | 8 | Christophe | Je pourrais le virer! | I could fire him! | #187: Je pourrais le virer. | verbatim |
 | 9 | Andréa | À une semaine de la première? | With one week to go before opening night? | #188: À une semaine de la première ? | verbatim |
-| 10 | Christophe | Je m'en fiche! Je connais le rôle par cœur. | I do not care! I know the role by heart. | #189: Je connais le rôle par cœur. | verbatim |
+| 10 | Christophe | Je m'en fiche! Je connais le rôle par cœur. | I know the role by heart. | #189: Je connais le rôle par cœur. | verbatim |
 | 11 | Christophe | Je n'ai pas peur de monter sur scène! | I am not afraid to go on stage! | #190: J'ai pas peur | verbatim |
 | 12 | Andréa | J'en suis sûre. | I am sure of it. | #191: J'en suis sûr. | verbatim |
 | 13 | Andréa | Sauf que ce sera dans un hangar en banlieue. | Except it will be in a warehouse in the suburbs. | #192: Sauf que ce sera dans un hangar en banlieue parisienne, | verbatim |
 | 14 | Andréa | Là où tu jouais avant Berléand. | Where you were acting before Berléand. | #193: là où tu jouais avant Berléand. | verbatim |
 | 15 | Christophe | Tu me menaces? | Are you threatening me? | #194: Tu me menaces ? | verbatim |
-| 16 | Andréa | Pas du tout. Ne force pas le directeur à choisir. | Not at all. Do not force the theatre director to choose. | #194: Pas du tout.<br>#195: Force pas le directeur du théâtre à choisir entre toi et Berléand. | verbatim |
+| 16 | Andréa | Pas du tout. Ne force pas le directeur à choisir. | Do not force the theatre director to choose. | #194: Pas du tout.<br>#195: Force pas le directeur du théâtre à choisir entre toi et Berléand. | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -33,18 +35,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is completely absurd!' Christophe fumes that the whole situation is completely absurd.
 - 'You wanted Berléand, you have him.' Andrea reminds him that hiring a major star comes with conditions.
 - 'When I was little, I was seven years old.' Christophe recalls a childhood memory from when he was seven years old.
-- 'My father left, he left my mother.' Two past actions that happened suddenly and changed his life.
+- 'My father left, he left my mother.' Christophe recalls two sudden past events that changed his life.
 - 'I was in the swimming pool, with my inflatable duck.' Here is the origin of his bizarre stage design.
 - 'Do you understand why I need this duck?' Christophe asks Gabriel if he finally understands why the toy duck matters so much.
 - 'Yes. But Dom Juan will not be in the water.' Andrea listens patiently but stays completely firm.
 - 'I could fire him!' Christophe makes an empty threat that he could fire François on the spot.
 - 'With one week to go before opening night?' Andrea points out that replacing a lead actor now is impossible.
-- 'I do not care!' A common conversational phrase for showing indifference.
+- 'I do not care!' Christophe shows indifference.
 - 'I know the role by heart.' He claims he could play the lead role himself.
-- 'I am not afraid to go on stage!' A negative expression of fear followed by an infinitive.
+- 'I am not afraid to go on stage!' Christophe insists he is not afraid to go on stage.
 - 'I am sure of it.' Andrea replies calmly with the little pronoun meaning 'of it'.
 - 'Except it will be in a warehouse in the suburbs.' The future tense paints a bleak picture of his prospects without a star.
-- 'Where you were acting before Berléand.' An imperfect tense reminding him of his humble beginnings.
+- 'Where you were acting before Berléand.' Andréa reminds him of his humble beginnings.
 - 'Are you threatening me?' Christophe feels cornered and challenges her.
-- 'Not at all.' A very polite and firm denial.
-- 'Do not force the theatre director to choose.' A clear negative command that settles the matter. Now let's listen to the whole confrontation again without stopping.
+- 'Not at all.' Andréa replies with a very polite and firm denial.
+- 'Do not force the theatre director to choose.' Andréa gives a clear negative command that settles the matter.

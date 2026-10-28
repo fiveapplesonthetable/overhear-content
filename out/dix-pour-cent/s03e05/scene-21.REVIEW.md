@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Hicham | On kiffe ce joli moment ensemble. | We are enjoying this lovely moment together. | #830: On kiffe | verbatim |
 | 11 | Colette | C'est une surprise très inattendue. | It is a very unexpected surprise. | #829: Qu'est-ce que vous faites | verbatim |
 | 12 | Hicham | Je ne veux aucun conflit, Colette. | I want no conflict, Colette. | new | new |
-| 13 | Andréa | Nous voulons le bonheur de Flora. | We want Flora | new | new |
+| 13 | Andréa | Nous voulons le bonheur de Flora. | We want Flora's happiness. | new | new |
 | 14 | Colette | C'est un beau moment de paix. | It is a beautiful moment of peace. | #830: On kiffe | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

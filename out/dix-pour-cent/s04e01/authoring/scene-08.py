@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Here, take this office key.' Mathias pulls the key from his pocket and hands it over."),
     (10, None, "'Good luck running this agency alone.' Mathias doubts whether the remaining team can sustain the business."),
     (11, None, "'Thank you Mathias, we will succeed very well.' Gabriel affirms their determination to prosper without him."),
-    (12, None, "'Farewell Mathias, and godspeed to you!' Andrea bids a final goodbye as the doors slide shut."),
+    (12, None, "'Farewell Mathias, and godspeed to you!' Andrea bids a final goodbye as the doors slide shut. Now let's listen to the elevator exchange once more from start to finish."),
 ]

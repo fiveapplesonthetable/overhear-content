@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You scared me so much!' Herve breathes a sigh of relief after the joke."),
     (11, None, "'He simply listens to my useful advice.' Camille reveals that he truly values her perspective."),
     (12, None, "'That is excellent news for you.' Herve congratulates her on earning his genuine respect."),
-    (13, None, "'Now, I am taking a short nap!' Camille rests her head on her desk to recharge."),
+    (13, None, "'Now, I am taking a short nap!' Camille rests her head on her desk to recharge. Now let's listen to Camille and Herve's full conversation once again from start to finish."),
 ]

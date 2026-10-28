@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Nous allons trouver une solution ensemble aujourd'hui. | We are going to find a solution together today. | #637: on va trouver une solution | verbatim |
 | 14 | Béatrice | D'accord, je te fais entièrement confiance, Andréa. | Alright, I trust you completely, Andrea. | #648: tu penses à un truc ?<br>#649: Peut-être | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I think constantly about this director Birag.' Beatrice fumes over her director's deception.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No Beatrice, I never abandon you!' Andrea fiercely reassures her iconic client.
 - 'I am always completely behind you.' Andrea affirms total solidarity.
 - 'We are going to find a solution together today.' Andrea pivots constructively toward a resolution.
-- 'Alright, I trust you completely, Andrea.' Beatrice relents and places her faith in Andrea.
+- 'Alright, I trust you completely, Andrea.' Beatrice relents and places her faith in Andrea. Now let's listen to the entire dialogue once more to lock in what you have learned.

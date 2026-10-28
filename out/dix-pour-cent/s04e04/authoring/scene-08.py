@@ -18,7 +18,7 @@ CLOSING = ('andrea', 'Au revoir!')
 STORY = [
     ('gabriel', 'Tout va très mal avec Sandrine Kiberlain.', 'Everything goes very badly with Sandrine Kiberlain.', [(494, 'Juste un petit contretemps sur le film')], ''),
     ('andrea', "Qu'est-ce qui se passe sur son tournage?", 'What is happening on her shoot?', [(496, "Qu'est-ce qui se passe ?")], ''),
-    ('gabriel', 'Elle veut abandonner le film de Thompson.', 'She wants to abandon Thompson', [(496, 'Sandrine veut se retirer ?')], ''),
+    ('gabriel', 'Elle veut abandonner le film de Thompson.', "She wants to abandon Thompson's film.", [(496, 'Sandrine veut se retirer ?')], ''),
     ('andrea', 'Ne panique pas, tu vas arranger ça.', 'Do not panic, you will fix that.', [(495, 'je vais arranger ça'), (498, "T'inquiète pas. Respire.")], ''),
     ('gabriel', 'Elle veut faire du stand-up maintenant!', 'She wants to do stand-up now!', [(499, 'je suis un peu à cran')], ''),
     ('andrea', 'Respire Gabriel, tout va bien se passer.', 'Breathe Gabriel, everything will go well.', [(498, 'Respire')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'But the baby is doing well here?' Gabriel observes that the child seems surprisingly quiet at the office."),
     (11, None, "'Yes, she is very calm today.' Andrea proudly notes that her baby has been well-behaved."),
     (12, None, "'Wait, where did my daughter go?' Andrea suddenly stops in her tracks with rising unease."),
-    (13, None, "'Darn, I forgot it at the photocopier!' Andrea rushes frantically down the corridor to retrieve her child."),
+    (13, None, "'Darn, I forgot it at the photocopier!' Andrea rushes frantically down the corridor to retrieve her child. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

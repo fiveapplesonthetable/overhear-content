@@ -23,25 +23,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Gabriel | Vous n'avez pas touché le même salaire. | You did not receive the same fee. | #774: n'avez pas touché le même cachet. | verbatim |
 | 12 | Gabriel | Loin de là. | Far from it. | #775: Loin de là. | verbatim |
 | 13 | Virginie | C'est pathétique. | This is pathetic. | #776: C'est pathétique. | verbatim |
-| 14 | Gabriel | J'ai lu le contrat de Ramzy. | I read Ramzy | #777: J'ai lu le contrat de Ramzy. | verbatim |
+| 14 | Gabriel | J'ai lu le contrat de Ramzy. | I read Ramzy's contract. | #777: J'ai lu le contrat de Ramzy. | verbatim |
 | 15 | Gabriel | Il y a un autre contrat secret. | There is another secret contract. | #778: Il y en a un autre. | verbatim |
 | 16 | Gabriel | Tu veux le voir? | Do you want to see it? | #780: Tu veux le voir ? | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is he not coming?' Gabriel asks in surprise whether the director is not coming after all.
 - 'Where is your director?' Virginie asks Gabriel impatiently where his director has disappeared to.
-- 'He stood us up.' An idiom meaning to stand someone up.
+- 'He stood us up.' Gabriel uses the colorful French idiom for standing someone up.
 - 'How are things going with Mathias?' Gabriel gently asks how things are going between Virginie and Mathias.
-- 'If you want to criticize my agent, drop it.' An imperative idiom telling someone to let it go.
-- 'What is this about?' An impersonal phrase asking about the subject matter.
+- 'If you want to criticize my agent, drop it.' Virginie uses an everyday command telling him to let it go.
+- 'What is this about?' Virginie asks about the subject matter.
 - 'You deserve people on your side.' He tells Virginie warmly that she deserves people who are truly on her side.
-- 'Of course. Thanks for the coffee.' A polite formula before leaving.
+- 'Of course. Thanks for the coffee.' Virginie thanks him politely for the coffee before leaving.
 - 'I will keep it simple. Ramzy is lying to you.' Gabriel decides to be blunt and tells her that Ramzy is lying to her.
-- 'Mathias too. He is manipulating you.' The direct object pronoun placed before the verb.
+- 'Mathias too. He is manipulating you.' Gabriel warns Virginie that Mathias is manipulating her too.
 - 'You did not receive the same fee.' He reveals that she and Ramzy were not paid the same fee for the movie.
-- 'Far from it.' An adverbial phrase expressing a wide difference.
-- 'This is pathetic.' An evaluative adjective expressing disbelief.
+- 'Far from it.' Gabriel expresses a wide difference.
+- 'This is pathetic.' Virginie expresses disbelief.
 - 'I read Ramzy's contract.' Gabriel admits that he read Ramzy's contract himself at the agency.
-- 'There is another secret contract.' The presentative phrase il y a.
+- 'There is another secret contract.' Gabriel points out that there is another secret contract.
 - 'Do you want to see it?' Gabriel pulls out the contract and asks if she wants to see the proof.

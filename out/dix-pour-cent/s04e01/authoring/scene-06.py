@@ -27,7 +27,7 @@ STORY = [
     ('mathias', 'Je souhaite tout le meilleur à notre agence.', 'I wish all the best to our agency.', [(472, "souhaiter tout le meilleur à l'Agence Samuel Kerr.")], ''),
     ('gabriel', 'Où vas-tu maintenant? Tu ouvres une boîte?', 'Where are you going now? Are you opening an agency?', [(475, 'Où vas-tu ensuite ?'), (476, 'Tu ouvres une agence ?')], ''),
     ('mathias', 'Vous le saurez au bon moment.', 'You will know at the right time.', [(478, 'Vous le saurez en temps voulu.')], ''),
-    ('mathias', "Mon choix protège l'avenir de tout le monde.", 'My choice protects everyone', [(481, 'ma décision était la plus')], ''),
+    ('mathias', "Mon choix protège l'avenir de tout le monde.", "My choice protects everyone's future.", [(481, 'ma décision était la plus')], ''),
     ('andrea', 'Bien sûr, on te croit sur parole!', 'Of course, we believe your word!', [(483, 'Ouais, on te croit vraiment.')], ''),
 ]
 WALK = [
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Where are you going now? Are you opening an agency?' Gabriel demands to know if Mathias plans to start a rival enterprise."),
     (10, None, "'You will know at the right time.' Mathias conceals his next career move until the official launch."),
     (11, None, "'My choice protects everyone's future.' Mathias insists his buyout preserves the agency's stability."),
-    (12, None, "'Of course, we believe your word!' Andrea mocks Mathias's lofty justifications with sharp irony."),
+    (12, None, "'Of course, we believe your word!' Andrea mocks Mathias's lofty justifications with sharp irony. Now let's listen to Mathias's departure speech once more from start to finish."),
 ]

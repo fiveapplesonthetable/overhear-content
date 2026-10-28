@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Faced with Mathias Barneville's sudden departure to become a film producer, Andrea rallies Gabriel to take the offensive and calls an emergency agency meeting for eight o'clock tomorrow morning. When you watch the episode, listen out for the expressions meaning 'said' and 'keeps'. You'll catch them now. See you next time!"
 CLOSING = ('andrea', 'Bonne journée!')
 STORY = [
-    ('herve', 'Noémie ne vous a rien dit?', 'Didn', [(994, 'Noémie ne vous a rien dit')], ''),
+    ('herve', 'Noémie ne vous a rien dit?', "Didn't Noemie tell you anything?", [(994, 'Noémie ne vous a rien dit')], ''),
     ('herve', 'Elle garde le secret professionnel.', 'She keeps professional confidentiality.', [(995, 'secret professionnel')], ''),
     ('herve', 'Avez-vous vu tous les tweets?', 'Did you see all the tweets?', [(996, 'vu tous les tweets')], ''),
     ('herve', 'Mathias devient producteur chez Mediawan!', 'Mathias is becoming a producer at Mediawan!', [(997, 'devient producteur pour Mediawan')], ''),
@@ -28,7 +28,7 @@ STORY = [
     ('gabriel', 'Regarde, les rivaux forment un groupe.', 'Look, our rivals are forming a group.', [(1002, 'Un conclave StarMédia')], ''),
     ('gabriel', 'Devons-nous nous inquiéter ce soir?', 'Should we be worried tonight?', [(1003, "On devrait s'inquiéter")], ''),
     ('andrea', "Non, nous passons à l'offensive.", 'No, we go on the offensive.', [(1003, "passer à l'offensive")], ''),
-    ('andrea', 'Demain matin, réunion à huit heures.', 'Tomorrow morning, meeting at eight o', [(1004, "réunion à l'agence")], ''),
+    ('andrea', 'Demain matin, réunion à huit heures.', "Tomorrow morning, meeting at eight o'clock.", [(1004, "réunion à l'agence")], ''),
     ('andrea', "C'est une occasion parfaite pour nous.", 'It is a perfect opportunity for us.', [(1004, "C'est bien")], ''),
 ]
 WALK = [

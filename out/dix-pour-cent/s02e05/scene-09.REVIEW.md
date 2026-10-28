@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Hicham | Alors bienvenue, Camille, notre nouvelle agente. | So welcome, Camille, our new agent. | #275: Alors bienvenue, Camille, notre nouvelle agente. | verbatim |
 | 16 | Camille | Merci, je ferai de mon mieux. | Thank you, I will do my best. | #276: Je vois. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'And now, what would you say to officially welcoming our new junior?' Hicham opens the floor dramatically.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Gritting your teeth, confiding in no one.' Hicham lists the qualities of resilience.
 - 'Those are the qualities you need in this business.' Hicham summarizes the agency virtues.
 - 'So welcome, Camille, our new agent.' Hicham wraps up the meeting by welcoming Camille as a junior agent.
-- 'Thank you, I will do my best.' Camille accepts the daunting challenge.
+- 'Thank you, I will do my best.' Camille accepts the daunting challenge. Now let's listen to the entire dialogue once more to lock in what you have learned.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Oui, signons tous ensemble cette carte. | Yes, let us all sign this card together. | new | new |
 | 14 | Camille | Je vais la faire signer à l'agence. | I will have it signed at the agency. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look at this get-well card.' Camille presents a selection of recovery stationery on her desk.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'An additional shock would be dangerous for him.' Gabriel acknowledges that stress could provoke a dangerous relapse.
 - 'Let us simply send a very warm note.' Camille proposes sending considerate wishes through a thoughtful message.
 - 'Yes, let us all sign this card together.' Gabriel suggests collecting signatures from all senior partners.
-- 'I will have it signed at the agency.' Camille takes charge of circulating the card among colleagues.
+- 'I will have it signed at the agency.' Camille takes charge of circulating the card among colleagues. Now let's listen to Camille and Gabriel's discussion once more from start to finish.

@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Hervé | Tu es aussi raide qu'un marteau! | You are as stiff as a hammer! | #352: T'es aussi raide qu'un marteau. | verbatim |
 | 16 | Hervé | Maintenant courez, chaque seconde compte! Allez! | Now run, every second counts! Come on! | #354: Maintenant courez, chaque seconde compte ! Allez ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do you have info on Luchini?' Andrea asks Herve for background intelligence on the actor.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The machine must be broken.' Andrea excuses her complete lack of muscle strength.
 - 'Sweat or it will not look credible.' Herve insists on physical authenticity for the cover story.
 - 'You are as stiff as a hammer!' Herve critiques her rigid posture bluntly.
-- 'Now run, every second counts! Come on!' Herve urges her onto the treadmill.
+- 'Now run, every second counts! Come on!' Herve urges her onto the treadmill. Now let's listen to the entire dialogue once more to lock in what you have learned.

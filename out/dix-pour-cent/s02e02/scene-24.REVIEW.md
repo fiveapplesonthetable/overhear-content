@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Fabrice | Vous êtes vraiment bizarres, vous les agents! | You agents are really strange! | #821: Vous êtes vraiment bizarres, vous les agents | verbatim |
 | 14 | Andréa | Fiche-moi la paix, François! | Leave me alone, François! | #831: Fiche-moi la paix, maintenant ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do not let yourself be fooled, Fabrice!' Brehier barges into the dinner with an urgent warning.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Your agency is completely ruined!' He sneers at ASK's desperate financial state.
 - 'Believe what you want, Fabrice.' She refuses to grovel or debate further in front of her rival.
 - 'You agents are really strange!' Fabrice is disgusted by the vicious pettiness of talent agents.
-- 'Leave me alone, François!' Andrea finishes the confrontation by dismissing Brehier completely.
+- 'Leave me alone, François!' Andrea finishes the confrontation by dismissing Brehier completely. Now let's listen to the entire exchange once more from beginning to end.

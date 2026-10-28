@@ -52,7 +52,7 @@ WALK = [
     (10, None, "Nina blinks in surprise: 'Who, Yulya? Fine, thank you.' After all, Yulya leaves the flat with her schoolbag every morning."),
     (11, None, "'So the operation went well?' Still believing Yulia's excuse, the teacher asks if her operation went well."),
     (12, None, "Samson is completely baffled: 'What operation?'"),
-    (13, 'Что-то серьёзное у вас.', "'It's something serious for you,' the teacher says sympathetically."),
+    (13, 'Что-то серьёзное у вас.', "'It's something serious for you.' The teacher says this sympathetically."),
     (13, 'Девочка две недели лежит в областной клинике!', "'The girl has been lying in the regional clinic for two weeks!' To cover for her, the teacher repeats the story that Yulia has been lying in the regional clinic for two weeks!"),
     (14, None, "Realising Yulya has been skipping school for two weeks behind their backs, Samson covers for her in front of the teacher: 'Yes, you know, it is a very serious operation. We'll fix everything. Goodbye!'"),
     (15, None, "Nina pulls Slavik up from his chair: 'Get up, Slavik! You'll tell your father everything yourself at home.'"),

@@ -28,7 +28,7 @@ STORY = [
     ('virginie', 'Le ciel est plus pur que mon cœur!', 'The sky is purer than my heart!', [(714, '« Le ciel est plus pur que le fond de mon cœur ! »')], ''),
     ('gabriel', 'Tu veux juste te moquer de moi.', 'You just want to make fun of me.', [(716, "Tu veux juste m'enfermer, c'est ça ?")], ''),
     ('virginie', 'Tu seras magnifique sur scène.', 'You will be magnificent on stage.', [(718, 'je te présenterai au monde'), (722, 'Elle est magnifique !')], ''),
-    ('virginie', 'Allez, on se met au travail tout de suite.', 'Come on, let', [(725, 'Bon, on se met au travail')], ''),
+    ('virginie', 'Allez, on se met au travail tout de suite.', "Come on, let's get to work right away.", [(725, 'Bon, on se met au travail')], ''),
     ('gabriel', "D'accord, je veux bien essayer.", 'All right, I am willing to try.', [(726, "D'accord")], ''),
 ]
 WALK = [
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You just want to make fun of me.' Gabriel suspects she is only trying to tease him."),
     (11, None, "'You will be magnificent on stage.' She assures him that audiences will be dazzled."),
     (12, None, "'Come on, let's get to work right away.' She enthusiastically pushes him to begin his training."),
-    (13, None, "'All right, I am willing to try.' Gabriel gives in playfully to her theatrical coaching."),
+    (13, None, "'All right, I am willing to try.' Gabriel gives in playfully to her theatrical coaching. Now let's listen to the entire exchange once more from beginning to end."),
 ]

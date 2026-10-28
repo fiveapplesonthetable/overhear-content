@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I had warned you about that traitor!' Gabriel's earlier warnings prove prophetic."),
     (11, None, "'She is taking everyone to StarMedia.' Andrea names the rival agency destination."),
     (12, None, "'Our agency is completely ruined, Andrea.' Gabriel faces financial collapse."),
-    (13, None, "'I am going to make her pay dearly.' Andrea's shock turns to cold anger."),
+    (13, None, "'I am going to make her pay dearly.' Andrea's shock turns to cold anger. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

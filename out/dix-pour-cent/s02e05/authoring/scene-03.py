@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the doctor's reassuring consultation again at 
 OUTRO = 'The diagnosis of a minor stroke relieves Guy but leaves Gabriel deeply concerned about the production. Keeping Guy on set without risking another public incident will test the agency to its limits. See you next time!'
 CLOSING = ('guy', 'À bientôt!')
 STORY = [
-    ('medecin', "Regardez les examens, ce n'est pas Alzheimer.", 'Look at the tests, it is not Alzheimer', [(77, "Ce n'est pas Alzheimer.")], ''),
+    ('medecin', "Regardez les examens, ce n'est pas Alzheimer.", "Look at the tests, it is not Alzheimer's.", [(77, "Ce n'est pas Alzheimer.")], ''),
     ('medecin', "Ce n'est pas une maladie neurodégénérative grave.", 'It is not a serious neurodegenerative disease.', [(78, "Ce n'est pas une maladie neurodégénérative.")], ''),
     ('gabriel', "C'est donc une bonne nouvelle, docteur?", 'So that is good news, doctor?', [(80, 'En quoi est-ce une bonne nouvelle ?')], ''),
     ('medecin', 'Vous avez simplement eu un petit AVC.', 'You simply had a minor stroke.', [(83, 'Vous avez eu un petit AVC.')], ''),
@@ -35,15 +35,15 @@ WALK = [
     (0, None, "'Look at the tests, it is not Alzheimer's.' The doctor rules out a feared degenerative illness."),
     (1, None, "'It is not a serious neurodegenerative disease.' Reassuring medical terminology dismissing long-term dementia."),
     (2, None, "'So that is good news, doctor?' Gabriel seeks confirmation with a relief-seeking question."),
-    (3, None, "'You simply had a minor stroke.' A clinical diagnosis identifying the medical episode."),
-    (4, None, "'A small blood vessel got blocked.' A clear anatomical explanation of the transient ischemic attack."),
+    (3, None, "'You simply had a minor stroke.' The doctor identifies the medical episode."),
+    (4, None, "'A small blood vessel got blocked.' The doctor gives a clear medical explanation of the brief blockage."),
     (5, None, "'That explains your recent confusion at work.' The physician attributes the on-set disorientation."),
     (6, None, "'Will that pass quickly?' Guy inquires about the expected duration of recovery."),
-    (7, None, "'Yes, that will improve with time.' A hopeful prognosis promising natural gradual healing."),
-    (8, None, "'Wonderful, I am going to sleep very well tonight.' An optimistic reaction from the spirited veteran actor."),
+    (7, None, "'Yes, that will improve with time.' The doctor promises natural gradual healing."),
+    (8, None, "'Wonderful, I am going to sleep very well tonight.' Guy reacts with cheerful optimism to the hospital rest."),
     (9, None, "'And tomorrow morning, I will go shoot by bike!' Defiant athletic determination to return to work immediately."),
-    (10, None, "'Watch out, you will still have moments of confusion.' A strict medical caution warning of temporary lapses."),
+    (10, None, "'Watch out, you will still have moments of confusion.' The doctor warns of temporary lapses."),
     (11, None, "'Moments of confusion during filming?' Gabriel spots the massive professional and financial risk."),
-    (12, None, "'Yes, over the coming weeks.' A realistic timeline establishing the danger window for the film."),
-    (13, None, "'Thank you doctor, we are going to be very careful.' Gabriel politely commits to vigilant monitoring."),
+    (12, None, "'Yes, over the coming weeks.' The doctor establishes the danger window for the film."),
+    (13, None, "'Thank you doctor, we are going to be very careful.' Gabriel politely commits to vigilant monitoring. Now let's listen to the doctor's reassuring consultation again at full speed."),
 ]

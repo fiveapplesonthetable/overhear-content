@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I propose a very clear toast.' Gabriel steps forward with bitter sarcasm."),
     (11, None, "'To the end of our principles!' Gabriel raises his glass in solemn protest against the buyout."),
     (12, None, "'Your welcome is really very direct!' Elise reacts with cool poise to Gabriel's blunt hostility."),
-    (13, None, "'Excuse us, we are all very tired.' Andrea apologizes to cover for her partner's explosive outburst."),
+    (13, None, "'Excuse us, we are all very tired.' Andrea apologizes to cover for her partner's explosive outburst. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

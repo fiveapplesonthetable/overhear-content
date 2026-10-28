@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Gabriel | Garde courage, nous trouverons une solution demain. | Keep courage, we will find a solution tomorrow. | #814: Julien, je dois y aller. Je t'appelle. | verbatim |
 | 15 | Sofia | Courage Julien, nous pensons très fort à toi. | Courage Julien, we are thinking very warmly of you. | #814: Julien, je dois y aller. Je t'appelle. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Gabriel, come dance with me tonight!' Sofia tries to pull Gabriel into the joyous party mood.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everything flipped in a fraction of a second!' Julien highlights how instantly fortunes change in the film industry.
 - 'I am coping very badly with this terrible injustice.' Julien opens up honestly about his helplessness and despair.
 - 'Keep courage, we will find a solution tomorrow.' Gabriel reassures him that the fight is far from over.
-- 'Courage Julien, we are thinking very warmly of you.' Sofia steps in to offer her genuine friendship and empathy.
+- 'Courage Julien, we are thinking very warmly of you.' Sofia steps in to offer her genuine friendship and empathy. Now let's listen to the scene once more from start to finish.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Rends-le, Jean Gabin! Ce n'est pas vrai! | Give it back, Jean Gabin! I cannot believe it! | #165: Rends-le, Jean Gabin !<br>#166: Merde, c'est pas vrai ! | verbatim |
 | 14 | Hervé | Noémie, sors de là! | Noémie, get out of there! | #167: Noémie, sors de là ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'He would not pay in cash!' Herve expresses disbelief that an agency buyout would arrive in bank notes.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So he will reward my loyalty. Keep watch, okay?' Noemie orders Herve to guard the corridor.
 - 'Jean Gabin! What? Jean Gabin is ruining the money!' Herve gasps as the dog damages the cash on the floor.
 - 'Give it back, Jean Gabin! I cannot believe it!' Noemie desperately tries to rescue the bills from the puppy.
-- 'Noémie, get out of there!' Herve urgently tells her to escape before anyone discovers the catastrophe.
+- 'Noémie, get out of there!' Herve urgently tells her to escape before anyone discovers the catastrophe. Now let's listen to the scene between Noemie and Hervé once more.

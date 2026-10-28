@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Are you giving me a nice promotion?' Gabriel hopes for professional advancement."),
     (11, None, "'Yes, I promote you right away!' Andrea humorously confirms his promotion."),
     (12, None, "'A real salary raise at last?' Gabriel dreams of financial reward."),
-    (13, None, "'No, not salary, a change of floor!' Andrea delivers her sharp witty comeback."),
+    (13, None, "'No, not salary, a change of floor!' Andrea delivers her sharp witty comeback. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

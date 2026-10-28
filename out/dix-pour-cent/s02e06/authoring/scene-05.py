@@ -20,7 +20,7 @@ STORY = [
     ('herve', 'Mon emploi du temps est trop chargé.', 'My schedule is much too tight.', [(95, 'Mon emploi du temps est vraiment trop chargé.')], ''),
     ('gabriel', "C'est qui exactement, cette maison Chopard?", 'Who exactly is this fashion house Chopard?', [(96, "C'est qui, Chopard ?")], ''),
     ('andrea', "C'est le partenaire officiel du festival!", 'It is the official partner of the festival!', [(97, 'Chopard, le partenaire du festival.')], ''),
-    ('andrea', "Ils fabriquent la célèbre Palme d'or.", 'They manufacture the famous Palme d', [(98, "Ils fabriquent la Palme d'Or !")], ''),
+    ('andrea', "Ils fabriquent la célèbre Palme d'or.", "They manufacture the famous Palme d'Or.", [(98, "Ils fabriquent la Palme d'Or !")], ''),
     ('gabriel', "Andréa, nous n'avons pas le temps.", 'Andréa, we do not have the time.', [(99, "Non, Andréa, on n'a vraiment pas le temps.")], ''),
     ('herve', 'Pas juste avant notre départ pour Cannes!', 'Not right before our departure for Cannes!', [(100, 'Non, pas juste avant Cannes.')], ''),
     ('andrea', 'Je pars demain matin pour le festival.', 'I am leaving tomorrow morning for the festival.', [(101, 'Exactement ! Je pars à Cannes demain')], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'And without Camille, you cannot cope.' Gabriel notes how hard it is to work without their best assistant."),
     (10, None, "'Do not utter that name here anymore!' Andrea refuses to hear Camille mentioned after her departure."),
     (11, None, "'We are doing all the work ourselves.' Herve complains about taking on extra duties without help."),
-    (12, None, "'Let us calm down before climbing the red carpet stairs.' Gabriel urges the team to stay focused."),
+    (12, None, "'Let us calm down before climbing the red carpet stairs.' Gabriel urges the team to stay focused. Now let's listen to the scene once more from start to finish."),
 ]

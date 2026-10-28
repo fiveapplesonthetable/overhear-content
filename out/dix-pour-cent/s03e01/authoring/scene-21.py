@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Jacques Audiard is preparing a new movie?' Brian immediately reacts to the filmmaker's name."),
     (11, None, "'Yes, an absolutely wonderful project!' Mathias hypes the upcoming high-profile feature film."),
     (12, None, "'Mathias, would you have just a minute?' Brian eagerly tries to pitch himself to the senior agent."),
-    (13, None, "'Every young actor seeks his chance!' Camille observes the intense competition in the industry."),
+    (13, None, "'Every young actor seeks his chance!' Camille observes the intense competition in the industry. Now let's listen to the scene once more from start to finish."),
 ]

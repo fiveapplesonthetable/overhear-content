@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Hicham | Tu ne décides pas toute seule. | You do not decide all alone. | #403: Tu ne décides rien tout seul | verbatim |
 | 15 | Hicham | Cet enfant est aussi le mien! | That child is mine as well! | #404: Cet enfant est le mien | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi, Andréa! Did you just arrive?' Hicham approaches her at the Cannes hotel bar.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There is just me and my body.' She firmly asserts bodily autonomy over her pregnancy.
 - 'I am the one who decides, okay?' Andrea makes it clear that the choice belongs solely to her.
 - 'You do not decide all alone.' Hicham refuses to be excluded from parental decisions.
-- 'That child is mine as well!' He claims an equal right to the unborn child.
+- 'That child is mine as well!' He claims an equal right to the unborn child. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Charlotte | Officiellement, j'adore ça, mais sauve-moi! | Officially, I love this, but save me! | #354: Donc officiellement, j'adore le scénario.<br>#357: Il n'est pas question que je le fasse. | verbatim |
 | 13 | Andréa | Je vais demander le double de ton cachet! | I am going to ask double your fee! | #360: Je vais jouer la carte du double cachet. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'If this continues, humanity will go extinct!' Charlotte reads an overly dramatic science-fiction line from the draft.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I will say that you demand a rewrite.' Andrea suggests claiming the script needs major editorial changes.
 - 'I do not want to hurt my old friend.' Charlotte insists that their lifelong friendship must be protected.
 - 'Officially, I love this, but save me!' Charlotte orders Andrea to find a quiet exit behind the scenes.
-- 'I am going to ask double your fee!' Andrea proposes setting an impossibly high salary to scare the financiers away.
+- 'I am going to ask double your fee!' Andrea proposes setting an impossibly high salary to scare the financiers away. Now let's listen to Charlotte and Andrea's exchange once more from start to finish.

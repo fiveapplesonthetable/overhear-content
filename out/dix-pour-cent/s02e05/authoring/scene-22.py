@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'But I love my current work.' Camille pleads her passion for her daily tasks."),
     (11, None, "'You have the choice, my dear.' Hicham condescendingly frames the situation as an ultimatum."),
     (12, None, "'Take this job or take the door!' He delivers a ruthless career ultimatum to the young assistant."),
-    (13, None, "'That is unacceptable blackmail, Hicham.' Camille pushes back against the coercive pressure."),
+    (13, None, "'That is unacceptable blackmail, Hicham.' Camille pushes back against the coercive pressure. Now let's listen to the entire exchange once more from beginning to end."),
 ]

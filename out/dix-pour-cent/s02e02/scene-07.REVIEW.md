@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Hippolyte | C'est toujours très gênant. | It is always very awkward. | #205: C'est toujours très gênant. | verbatim |
 | 4 | Mathias | En tout cas tu es là. | In any case you are here. | #206: En tout cas tu es là. | verbatim |
 | 5 | Hippolyte | J'ai besoin de prendre un peu de recul. | I need to get some distance. | #207: J'ai besoin de prendre un peu de recul. | verbatim |
-| 6 | Hippolyte | Je passe beaucoup de temps chez ma copine. | I spend a lot of time at my girlfriend\ | #208: Je passe beaucoup de temps chez ma copine. | verbatim |
+| 6 | Hippolyte | Je passe beaucoup de temps chez ma copine. | I spend a lot of time at my girlfriend\'s place. | #208: Je passe beaucoup de temps chez ma copine. | verbatim |
 | 7 | Mathias | Tu as une copine? | You have a girlfriend? | #209: -Tu as une copine. | verbatim |
 | 8 | Hippolyte | Oui, c'est tout récent. | Yes, it is very recent. | #210: c'est tout récent. | verbatim |
 | 9 | Hippolyte | Bon, je vais y aller. | Well, I will get going. | #213: Bon, je vais y aller. | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Hippolyte | Au revoir... Bonne chance pour ce soir! | Goodbye... Good luck for tonight! | #216: -Au revoir.<br>#216: Merde pour ce soir ! | verbatim |
 | 12 | Camille | Pardon, excusez-moi, Mathias. | Pardon, excuse me, Mathias. | #219: Pardon, excusez-moi. | verbatim |
 | 13 | Camille | Je vous passe votre prochain appel. | I am putting through your next call. | #221: Je vous le passe. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We will call each other? Of course.' Father and son promise to stay in touch by telephone.
 - 'Goodbye... Good luck for tonight!' As the elevator doors close, Hippolyte wishes his father good luck for tonight.
 - 'Pardon, excuse me, Mathias.' Camille politely interrupts her father in the corridor.
-- 'I am putting through your next call.' Back at his desk, Camille puts Mathias's next phone call through.
+- 'I am putting through your next call.' Back at his desk, Camille puts Mathias's next phone call through. Now let's listen to the conversation in the elevator once more.

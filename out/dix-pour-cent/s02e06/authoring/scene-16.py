@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Is it because of a man?' He intuitively suspects romantic heartbreak behind her tears."),
     (12, None, "'Yes, but I will get over it.' Noemie acknowledges the pain while trying to stay brave."),
     (13, None, "'I will stay here too.' Touched by her distress, Herve decides to keep her company in Paris."),
-    (14, None, "'Thank you for your support, Hervé!' She appreciates his comforting presence during a difficult moment."),
+    (14, None, "'Thank you for your support, Hervé!' She appreciates his comforting presence during a difficult moment. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

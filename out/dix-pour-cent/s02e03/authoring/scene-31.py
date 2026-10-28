@@ -21,14 +21,14 @@ STORY = [
     ('andrea', 'Arlette, cette herbe est terrible.', 'Arlette, that weed is killer.', [(848, 'Arlette, cette herbe est terrible')], ''),
     ('andrea', "J'ai fait des rêves érotiques dingues tout le week-end.", 'I had crazy erotic dreams all weekend.', [(849, "J'ai fait des rêves érotiques dingues tout le week-end")], ''),
     ('gabriel', 'Pas moi.', 'Not me.', [(850, 'Pas moi')], ''),
-    ('andrea', "Pourquoi tu n'es pas venu à la fête?", 'Why didn', [(851, "Pourquoi tu n'es pas venu")], ''),
+    ('andrea', "Pourquoi tu n'es pas venu à la fête?", "Why didn't you come to the party?", [(851, "Pourquoi tu n'es pas venu")], ''),
     ('gabriel', "J'avais des obligations personnelles.", 'I had some personal obligations.', [(852, "J'avais des obligations personnelles")], ''),
     ('arlette', 'Des obligations personnelles un dimanche soir?', 'Personal obligations on a Sunday evening?', [(852, 'obligations personnelles')], ''),
     ('gabriel', 'Une affaire urgente avec un talent.', 'An urgent matter with a talent.', [(852, "J'avais des obligations")], ''),
     ('arlette', 'Salut tout le monde. Ça va, Marteau?', 'Hello everyone. How are you, Marteau?', [(853, 'Salut'), (854, 'Salut tout le monde. Ça va, Marteau')], ''),
     ('andrea', 'Ça va très bien!', 'I am doing very well!', [(854, 'Ça va')], ''),
     ('arlette', 'Et pour Aymeline Val aussi!', 'And for Aymeline Val too!', [(855, 'Aymeline Val aussi')], ''),
-    ('arlette', "C'était pas dingue ce projet?", 'Wasn', [(855, "C'était pas dingue")], ''),
+    ('arlette', "C'était pas dingue ce projet?", "Wasn't that project crazy?", [(855, "C'était pas dingue")], ''),
     ('andrea', "C'était dingue!", 'It was crazy!', [(856, "C'était dingue")], ''),
     ('gabriel', 'Au moins, tout le monde est là ce matin.', 'At least everyone is here this morning.', [(856, "C'était dingue")], ''),
 ]
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'And for Aymeline Val too!' Arlette brings up the agency's new client."),
     (12, None, "'Wasn't that project crazy?' Arlette uses informal negative phrasing to seek agreement."),
     (13, None, "'It was crazy!' Andrea enthusiastically confirms the wild success of the weekend."),
-    (14, None, "'At least everyone is here this morning.' Gabriel concludes with quiet relief after his night in jail."),
+    (14, None, "'At least everyone is here this morning.' Gabriel concludes with quiet relief after his night in jail. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

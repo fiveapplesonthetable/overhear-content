@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Sofia | Merci pour cette belle rencontre, Julien. | Thank you for this lovely meeting, Julien. | #224: Au revoir. | verbatim |
 | 13 | Julien | Au revoir, à très bientôt pour répéter! | Goodbye, see you very soon to rehearse! | #224: Au revoir. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'He has a strange way of treating actors.' Julien is surprised when Mathias treats Sofia like an office assistant.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, Andréa is managing her career.' Gabriel confirms that Andrea is representing her.
 - 'You have a wonderful agency!' Julien compliments the vibrant atmosphere at ASK.
 - 'Thank you for this lovely meeting, Julien.' Sofia warmly bids farewell to the pop singer.
-- 'Goodbye, see you very soon to rehearse!' Julien leaves on an upbeat note, promising to sing together soon.
+- 'Goodbye, see you very soon to rehearse!' Julien leaves on an upbeat note, promising to sing together soon. Now let's listen to the scene once more from start to finish.

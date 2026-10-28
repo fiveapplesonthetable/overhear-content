@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Gabriel | Très bien, fais comme tu veux, Julien. | Very well, do as you wish, Julien. | #781: Très bien, fais comme tu veux, Julien. | verbatim |
 | 15 | Gabriel | Sofia est ton actrice pour ce film. | Sofia is your actress for this film. | #782: C'est ton actrice.<br>#783: D'accord. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Are you working hard today, Sofia?' Julien asks Sofia in an easygoing, friendly tone.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Of course, we respect your approach.' Gabriel readily agrees to give Julien full artistic leeway.
 - 'Without total freedom, art is useless.' Julien compares making art under constraint to windsurfing without wind.
 - 'Very well, do as you wish, Julien.' Gabriel gracefully steps back to let the director lead.
-- 'Sofia is your actress for this film.' Gabriel places his full trust in Julien's creative vision.
+- 'Sofia is your actress for this film.' Gabriel places his full trust in Julien's creative vision. Now let's listen to the scene once more from start to finish.

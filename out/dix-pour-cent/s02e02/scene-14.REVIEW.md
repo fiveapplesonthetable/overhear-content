@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Gabriel | Qu'est-ce qui manque à Fabrice? | What does Fabrice lack? | #466: Qu'est-ce qui manque à Luchini | verbatim |
 | 5 | Mathias | Une carrière internationale dans James Bond. | An international career in James Bond. | #468: Une carrière internationale<br>#469: un méchant dans James Bond | verbatim |
 | 6 | Andréa | Il rêve de jouer un méchant! | He dreams of playing a villain! | #469: J'ai lu qu'il rêvait de jouer un méchant | verbatim |
-| 7 | Gabriel | Faisons croire que Bréhier a raté ce contrat. | Let | #471: Bréhier a raté le contrat | verbatim |
+| 7 | Gabriel | Faisons croire que Bréhier a raté ce contrat. | Let's make him believe Bréhier missed this contract. | #471: Bréhier a raté le contrat | verbatim |
 | 8 | Mathias | La directrice s'appelle Debbie MacWilliams. | The casting director is called Debbie MacWilliams. | #477: Elle s'appelle Debbie MacWilliams | verbatim |
 | 9 | Andréa | Est-ce que Fabrice la connaît personnellement? | Does Fabrice know her personally? | #480: Luchini la connaît | verbatim |
 | 10 | Gabriel | Non, il ne l'a jamais vue. | No, he has never seen her. | #481: Je pourrais savoir | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Envoyer une fausse directrice de casting? | Send a fake casting director? | #488: On n'envoie pas une fausse Debbie MacWilliams | verbatim |
 | 14 | Andréa | C'est notre seule chance de réussir! | It is our only chance to succeed! | #491: Ça pourrait marcher | verbatim |
 | 15 | Mathias | D'accord, mais restons très discrets. | All right, but let us stay very discreet. | #492: Vous êtes tous fous | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She speaks English perfectly with the accent.' Gabriel highlights Linda's authentic Scottish background.
 - 'Send a fake casting director?' Mathias questions the sanity and legality of sending an impostor.
 - 'It is our only chance to succeed!' Andrea argues passionately that this bold bluff is their only viable option.
-- 'All right, but let us stay very discreet.' Mathias reluctantly agrees while demanding total secrecy.
+- 'All right, but let us stay very discreet.' Mathias reluctantly agrees while demanding total secrecy. Now listen to the whole scene again at normal speed, and see how much more you catch.

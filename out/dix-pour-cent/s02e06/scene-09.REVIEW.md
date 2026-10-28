@@ -21,11 +21,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Juliette | Je me sentais très bien dans ce smoking. | I felt very good in that tuxedo. | #182: Je me sentais très bien dans ce smoking. | verbatim |
 | 10 | Andréa | Je vais appeler son agent et on en discutera. | I will call her agent and we will discuss it. | #184: Je vais appeler l'agent de Gong Li et on en discutera. | verbatim |
 | 11 | Juliette | Ça ne servira à rien. | That will be useless. | #185: Ça ne servira à rien. | verbatim |
-| 12 | Andréa | Gong Li est l'icône de L'Oréal, le partenaire principal du festival. | Gong Li is the icon of L | #187: Gong Li est l'icône de L'Oréal en Chine.<br>#188: Le partenaire principal du festival. | verbatim |
+| 12 | Andréa | Gong Li est l'icône de L'Oréal, le partenaire principal du festival. | Gong Li is the icon of L'Oreal, the main partner of the festival. | #187: Gong Li est l'icône de L'Oréal en Chine.<br>#188: Le partenaire principal du festival. | verbatim |
 | 13 | Andréa | Mais nous avons une bonne nouvelle. Votre second choix a été réparé. | But we have good news. Your second choice has been repaired. | #190: Mais nous avons une bonne nouvelle.<br>#191: Votre second choix a été réparé. | verbatim |
 | 14 | Juliette | Et j'ai besoin de chaussures à talons hauts. | And I need high-heeled shoes. | #192: Mais c'est toute une production, avec ça.<br>#193: Et j'ai besoin de talons de quinze centimètres. | verbatim |
 | 15 | Andréa | On pourrait organiser un nouvel essayage avec trois tenues. | We could arrange a new fitting with three outfits. | #194: On pourrait organiser un nouvel essayage avec Dune,<br>#195: avec seulement trois tenues. | verbatim |
 | 16 | Juliette | Non, je pense que ça ira très bien. | No, I think that will be very fine. | #197: Non, ça ira très bien.<br>#198: Je pense que ça ira très bien. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But we have good news. Your second choice has been repaired.' Andrea presents an alternative.
 - 'And I need high-heeled shoes.' Juliette highlights the complexity.
 - 'We could arrange a new fitting with three outfits.' Andrea proposes a quick styling session.
-- 'No, I think that will be very fine.' Juliette decides to make the best of the backup gown.
+- 'No, I think that will be very fine.' Juliette decides to make the best of the backup gown. Now let's listen to the entire dialogue once more to lock in what you have learned.

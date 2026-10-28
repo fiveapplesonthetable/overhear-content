@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Prends ce poste ou prends la porte! | Take this job or take the door! | #695: Prends le poste, ma chérie, ou prends la porte. | verbatim |
 | 14 | Camille | C'est un chantage inacceptable, Hicham. | That is unacceptable blackmail, Hicham. | #695: Prends le poste, ma chérie, ou prends la porte. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I refuse the junior agent job.' Camille shocks Hicham by rejecting the promotion to agent.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But I love my current work.' Camille pleads her passion for her daily tasks.
 - 'You have the choice, my dear.' Hicham condescendingly frames the situation as an ultimatum.
 - 'Take this job or take the door!' He delivers a ruthless career ultimatum to the young assistant.
-- 'That is unacceptable blackmail, Hicham.' Camille pushes back against the coercive pressure.
+- 'That is unacceptable blackmail, Hicham.' Camille pushes back against the coercive pressure. Now let's listen to the entire exchange once more from beginning to end.

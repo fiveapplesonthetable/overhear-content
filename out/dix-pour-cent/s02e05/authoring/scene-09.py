@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Gritting your teeth, confiding in no one.' Hicham lists the qualities of resilience."),
     (13, None, "'Those are the qualities you need in this business.' Hicham summarizes the agency virtues."),
     (14, None, "'So welcome, Camille, our new agent.' Hicham wraps up the meeting by welcoming Camille as a junior agent."),
-    (15, None, "'Thank you, I will do my best.' Camille accepts the daunting challenge."),
+    (15, None, "'Thank you, I will do my best.' Camille accepts the daunting challenge. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

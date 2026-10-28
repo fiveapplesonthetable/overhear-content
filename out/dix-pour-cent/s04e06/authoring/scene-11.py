@@ -24,7 +24,7 @@ STORY = [
     ('elise', "C'est toi qui te mets cette pression.", 'You are the one putting this pressure on yourself.', [(415, "C'est toi qui te mets cette pression.")], ''),
     ('elise', 'Tu tiens à ta petite Sofia!', 'You care about your little Sofia!', [(416, 'On dirait que tu tiens à ta petite Sofia!')], ''),
     ('gabriel', 'Mince.', 'Darn.', [(417, 'Merde.')], ''),
-    ('elise', "Un rôle dans le film d'Ozon...", 'A role in Ozon', [(418, "Un rôle face à Luchini dans le film d'Ozon...")], ''),
+    ('elise', "Un rôle dans le film d'Ozon...", "A role in Ozon's film...", [(418, "Un rôle face à Luchini dans le film d'Ozon...")], ''),
     ('elise', "Ça n'arrivera pas souvent.", 'That will not happen often.', [(419, 'Ça ne se reproduira pas de sitôt.')], ''),
     ('elise', "C'est un si grand sacrifice?", 'Is it such a big sacrifice?', [(420, "Accepter un poste d'agent, c'est vraiment un tel sacrifice?")], ''),
     ('gabriel', 'Avec toi, oui.', 'With you, yes.', [(421, 'Avec toi, oui.')], ''),

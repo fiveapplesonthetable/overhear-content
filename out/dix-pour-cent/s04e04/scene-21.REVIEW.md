@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Nous faisons un métier de fous. | We do a crazy profession. | #1170: Ça fait partie du boulot | verbatim |
 | 14 | Élise | Trinquons à notre belle amitié secrète! | Let us toast to our lovely secret friendship! | #1155: À sainte Patsy ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'My nanny Patsy is really fabulous.' Andréa shows photos of baby Flora on her phone.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He panics as soon as an actor sneezes.' Andréa details his extreme germ phobia.
 - 'It is so funny and absurd!' Elise bursts out laughing at the table.
 - 'We do a crazy profession.' Andréa raises her glass with affectionate exasperation.
-- 'Let us toast to our lovely secret friendship!' Elise clinks glasses warmly.
+- 'Let us toast to our lovely secret friendship!' Elise clinks glasses warmly. Now let's listen to the complete discussion once more to reinforce the vocabulary.

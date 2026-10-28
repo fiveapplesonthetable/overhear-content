@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Julien | Détendez-vous, tout va bien. Quand vous êtes prête. | Relax, everything is fine. Whenever you are ready. | #249: Détendez-vous, tout va bien.<br>#248: Quand vous êtes prête. | verbatim |
 | 16 | Sofia | D'accord, je suis prête. | Okay, I am ready. | #250: D'accord. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi Julien. Mathias could not make it.' Gabriel announces Mathias's absence casually.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Thank you, it is very impressive.' Sofia admires the professional setting.
 - 'Here are your headphones.' Julien hands her the audio gear.
 - 'Relax, everything is fine. Whenever you are ready.' Julien offers warm reassurance.
-- 'Okay, I am ready.' Sofia collects herself to perform.
+- 'Okay, I am ready.' Sofia collects herself to perform. Now let's listen to the entire dialogue once more to lock in what you have learned.

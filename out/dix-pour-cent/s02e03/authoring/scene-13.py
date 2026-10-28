@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Smile for the photo!' She prepares to capture the memorable moment."),
     (12, None, "'Violaine, we are done. Thank you!' Gabriel gently steps in to conclude the visit."),
     (13, None, "'Is there a problem?' Norman senses an awkward hitch in the plan."),
-    (14, None, "'She wants something more personal.' Gabriel hints that she expects an unusual keepsake."),
+    (14, None, "'She wants something more personal.' Gabriel hints that she expects an unusual keepsake. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

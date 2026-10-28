@@ -18,7 +18,7 @@ CLOSING = ('norman', 'À bientôt!')
 STORY = [
     ('andrea', 'Viens jouer au laser game!', 'Come and play laser games!', [(642, 'Viens jouer au laser game.')], ''),
     ('norman', "Se déguiser et se faire tirer dessus, ce n'est pas mon truc.", 'Dressing up and being shot at is not my thing.', [(643, "Me déguiser en GI et me faire tirer dessus, c'est pas mon truc.")], ''),
-    ('andrea', "Tu vas voir l'ambiance de l'agence.", 'You will see the agency', [(644, "Elle va voir ce qu'est ASK.")], ''),
+    ('andrea', "Tu vas voir l'ambiance de l'agence.", "You will see the agency's atmosphere.", [(644, "Elle va voir ce qu'est ASK.")], ''),
     ('andrea', 'Où sont les gilets?', 'Where are the vests?', [(646, 'Où sont les gilets pare-balles ?')], ''),
     ('andrea', 'Janowski, à toi de jouer!', 'Janowski, your turn to play!', [(647, 'Hé, Janowski !'), (649, 'À toi !')], ''),
     ('gabriel', 'Salut, Norman. Félicitations pour ton film.', 'Hi, Norman. Congratulations on your movie.', [(654, 'Salut, Norman.'), (655, "Félicitations pour le film d'Audiard.")], ''),

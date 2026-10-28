@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I have a great sense of observation.' Herve emphasizes how attentively he watches everyone in the agency."),
     (11, None, "'What will you improve at ASK?' Hicham challenges him to identify internal agency weaknesses."),
     (12, None, "'Communication, without any hesitation.' Herve points directly to the lack of transparent communication."),
-    (13, None, "'Thank you, we will resume the interviews tomorrow.' Hicham wraps up the meeting with polite reserve."),
+    (13, None, "'Thank you, we will resume the interviews tomorrow.' Hicham wraps up the meeting with polite reserve. Now let's listen to the scene once more from start to finish."),
 ]

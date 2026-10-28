@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Je vais te chercher un verre d'eau. | I am going to get you a glass of water. | #53: Je veux bien, peut-être, juste un verre d'eau. | verbatim |
 | 14 | Andréa | Merci Gabriel, c'est très gentil à toi. | Thank you Gabriel, that is very kind of you. | #56: Ouais, super. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The year-end review is approaching quickly.' A temporal statement setting the professional deadline.
-- 'Everyone is very stressed here.' An indefinite subject phrase noting general office anxiety.
-- 'The account closing takes place on Friday.' An idiomatic verbal formula stating an exact fiscal deadline.
-- 'We have only four short days left.' An impersonal countdown structure highlighting tight scheduling.
-- 'Mathias has signed very big contracts.' A compound past verb noting commercial success by a rival.
-- 'I must absolutely beat his revenue!' An intensified modal obligation expressing professional ambition.
-- 'You have already signed many projects.' A reassuring reminder pointing to recent achievements.
-- 'It is not yet enough to win.' A negative evaluation rejecting complacency in business.
-- 'Think first of your health, Andrea.' A caring imperative advising physical self-preservation.
-- 'Ouch, I have a rather painful contraction!' An involuntary exclamation reporting sudden pregnancy discomfort.
-- 'Andrea, sit down immediately on this armchair!' An urgent protective imperative providing assistance.
-- 'It is just a minor passing contraction.' A minimizing reassurance downplaying physiological strain.
-- 'I am going to get you a glass of water.' A near future offer providing immediate comfort.
-- 'Thank you Gabriel, that is very kind of you.' A polite acknowledgment welcoming friendly support.
+- 'The year-end review is approaching quickly.' Camille sets the professional deadline.
+- 'Everyone is very stressed here.' Gabriel notes general office anxiety.
+- 'The account closing takes place on Friday.' Andréa states an exact fiscal deadline.
+- 'We have only four short days left.' Camille highlights tight scheduling.
+- 'Mathias has signed very big contracts.' Gabriel notes commercial success by a rival.
+- 'I must absolutely beat his revenue!' Andréa expresses professional ambition.
+- 'You have already signed many projects.' Camille points to recent achievements.
+- 'It is not yet enough to win.' Andréa rejects complacency in business.
+- 'Think first of your health, Andrea.' Gabriel advises physical self-preservation.
+- 'Ouch, I have a rather painful contraction!' Andréa reports sudden pregnancy discomfort.
+- 'Andrea, sit down immediately on this armchair!' Camille provides assistance.
+- 'It is just a minor passing contraction.' Andréa downplays physiological strain.
+- 'I am going to get you a glass of water.' Gabriel provides immediate comfort.
+- 'Thank you Gabriel, that is very kind of you.' Andréa welcomes friendly support. Now let's listen to Camille, Gabriel, and Andrea again at full speed.

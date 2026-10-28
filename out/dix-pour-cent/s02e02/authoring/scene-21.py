@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'The director wants you for this role.' Mathias pitches an exciting new film offer right away."),
     (11, None, "'Read the script tonight.' The agent encourages him to evaluate the material without delay."),
     (12, None, "'All right, I will read it quickly.' Christophe agrees to look through the project immediately."),
-    (13, None, "'See you later Mathias. Goodbye!' He wraps up the visit on an upbeat note before leaving."),
+    (13, None, "'See you later Mathias. Goodbye!' He wraps up the visit on an upbeat note before leaving. Now let's listen to the entire exchange once more from beginning to end."),
 ]

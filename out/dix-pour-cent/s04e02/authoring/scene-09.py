@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Hello Gabriel? Where did Nathalie go?' Andrea checks in by phone."),
     (11, None, "'Mathias took her directly to the agency!' Andrea learns of Mathias's tactical maneuver."),
     (12, None, "'Madam, here is your hot fresh coffee!' The waiter delivers the cup as she rises."),
-    (13, None, "'Give it instead to Catherine Deneuve!' Andrea snaps back with dry sarcasm."),
+    (13, None, "'Give it instead to Catherine Deneuve!' Andrea snaps back with dry sarcasm. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

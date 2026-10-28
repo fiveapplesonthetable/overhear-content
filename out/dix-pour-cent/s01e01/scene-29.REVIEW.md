@@ -12,20 +12,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Camille | Non! Lâche le contrat! | No! Let go of the contract! | #759: Non<br>#760: Lâche le contrat | verbatim |
 | 2 | Arlette | Qu'est-ce que tu fais? | What are you doing? | #761: Qu'est-ce que tu fais | verbatim |
-| 3 | Camille | Regarde, voilà ta maîtresse. | Look, here | #762: Regarde, voilà ta maîtresse | verbatim |
-| 4 | Camille | Je passais par là. Il jouait avec un contrat. | I was walking by. He was playing with a contract. | #763: Je passais par là<br>#764: il jouait avec un contrat | verbatim |
+| 3 | Camille | Regarde, voilà ta maîtresse. | Look, here's your owner. | #762: Regarde, voilà ta maîtresse | verbatim |
+| 4 | Camille | Je passais par là. Il jouait avec un contrat. | He was playing with a contract. | #763: Je passais par là<br>#764: il jouait avec un contrat | verbatim |
 | 5 | Arlette | J'en doute. Jean Gabin déteste les contrats. | I doubt it. Jean Gabin hates contracts. | #765: J'en doute. Jean Gabin déteste les contrats | verbatim |
 | 6 | Arlette | Il n'a jamais joué avec un contrat. | He has never played with a contract. | #766: il n'a jamais joué avec | verbatim |
 | 7 | Arlette | C'est Andréa qui t'envoie? | Did Andréa send you? | #767: Andréa t'a envoyé | verbatim |
 | 8 | Camille | Non, pas du tout. | No, not at all. | #767: Non, pas du tout | verbatim |
 | 9 | Camille | Vous êtes Arlette Azémar? | Are you Arlette Azémar? | #768: Vous êtes Arlette Azémar | verbatim |
 | 10 | Arlette | Oui. Et toi? | Yes. And you? | new | new |
-| 11 | Camille | Moi, c'est Camille. Je pars aujourd'hui. | I'm Camille. I'm leaving today. | new | new |
-| 12 | Camille | On dit que vous êtes la plus grande imprésario de Paris. | People say you | #769: la plus grande imprésario de Paris | verbatim |
+| 11 | Camille | Moi, c'est Camille. Je pars aujourd'hui. | I'm leaving today. | new | new |
+| 12 | Camille | On dit que vous êtes la plus grande imprésario de Paris. | People say you're the greatest impresario in Paris. | #769: la plus grande imprésario de Paris | verbatim |
 | 13 | Arlette | Pas besoin de me flatter! | No need to flatter me! | #770: Pas besoin de | verbatim |
 | 14 | Camille | Vous avez dit imprésario. | You said impresario. | #771: Vous avez dit | verbatim |
-| 15 | Arlette | C'est plus classe qu'agent. | It | #771: C'est plus classe qu | verbatim |
+| 15 | Arlette | C'est plus classe qu'agent. | It's classier than agent. | #771: C'est plus classe qu | verbatim |
 | 16 | Arlette | Allez, viens, Jean Gabin! | Come on, Jean Gabin! | new | new |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -37,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I doubt it. Jean Gabin hates contracts.' The dog is named after a famous French film star of the old days, which tells you a lot about Arlette.
 - 'He has never played with a contract.' Here the negative pattern changes: instead of plain 'not', the second little word means 'never'. Then Arlette gets suspicious.
 - 'Did Andréa send you?' Literally 'is it Andréa who sends you?'. Arlette thinks Camille might be spying for another agent.
-- 'No, not at all.' A quick, firm denial. And now Camille realises who she's talking to.
+- 'No, not at all.' Camille gives a quick, firm denial. And now Camille realises who she's talking to.
 - 'Are you Arlette Azémar?' Here's the contrast to listen for. Camille uses the polite 'you' with Arlette, an older woman and a famous agent. So in this scene, one says casual 'you', and the other answers with the polite one.
 - 'Yes. And you?' And this time it's the casual 'you' again, the stressed form you use on its own.
 - 'I'm Camille.' Literally 'me, it's Camille'. It's the easiest, most natural way to introduce yourself.
@@ -46,4 +48,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No need to flatter me!' Literally 'no need to'. It's short and dry, but secretly she enjoys it. Camille noticed one word.
 - 'You said impresario.' The polite 'you' again, and the verb in the past with 'have' plus 'said'. Arlette explains her choice.
 - 'It's classier than agent.' The word for 'more' plus an adjective gives you a comparison, and the little word after it means 'than'. Then she calls her dog.
-- 'Come on, Jean Gabin!' The first word literally means 'go', but here it's just 'come on'. Then a casual command to the dog: 'come'.
+- 'Come on, Jean Gabin!' The first word literally means 'go', but here it's just 'come on'. Then a casual command to the dog: 'come'. And now the whole scene again, without stopping.

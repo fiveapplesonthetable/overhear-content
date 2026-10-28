@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'My baby does not sleep at night!' Andrea reveals the sleepless nights behind her frantic pace."),
     (10, None, "'Did you just have a newborn?' Isabelle immediately shifts from annoyance to maternal empathy."),
     (11, None, "'It is normal to feel exhausted.' The experienced nurse validates Andrea's postpartum struggle."),
-    (12, None, "'Here, take this sweet little mint.' Isabelle offers a gesture of human warmth to soothe Andrea's distress."),
+    (12, None, "'Here, take this sweet little mint.' Isabelle offers a gesture of human warmth to soothe Andrea's distress. Now let's listen to this touching conversation once more to reinforce the key phrases."),
 ]

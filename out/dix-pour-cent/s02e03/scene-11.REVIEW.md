@@ -12,8 +12,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Noémie | J'ai trouvé une solution pour Nathalie Baye. | I found a solution for Nathalie Baye. | #260: j'ai trouvé une solution pour Nathalie Baye. | verbatim |
 | 2 | Mathias | Ah, excellent. Montre-moi ça. | Ah, excellent. Show me that. | #261: Ah, excellent. | verbatim |
-| 3 | Noémie | Voilà le planning de Xavier Beauvois. | Here is Xavier Beauvois | #262: Voilà le planning de Xavier Beauvois. | verbatim |
-| 4 | Noémie | Celui-ci est celui de Tonie Marshall. | This one is Tonie Marshall | #263: Celui-ci est celui de Tonie Marshall. | verbatim |
+| 3 | Noémie | Voilà le planning de Xavier Beauvois. | Here is Xavier Beauvois's schedule. | #262: Voilà le planning de Xavier Beauvois. | verbatim |
+| 4 | Noémie | Celui-ci est celui de Tonie Marshall. | This one is Tonie Marshall's. | #263: Celui-ci est celui de Tonie Marshall. | verbatim |
 | 5 | Noémie | Les jours de tournage sont marqués en rouge. | The shooting days are marked in red. | #264: sont marqués en rouge. | verbatim |
 | 6 | Noémie | Tout s'emboîte parfaitement ici. | Everything fits together perfectly here. | #265: Tout s'emboîte parfaitement. | verbatim |
 | 7 | Noémie | Nathalie peut faire les deux films. | Nathalie can do both movies. | #266: Nathalie peut faire | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Mathias | Écoute, Noémie, je préfère ne pas en parler ici. | Listen, Noémie, I prefer not to speak of it here. | #276: Écoute, Noémie, je préfère ne pas en parler ici. | verbatim |
 | 15 | Noémie | De toute façon, ne t'inquiète pas, Mathias. | In any case, do not worry, Mathias. | #279: De toute façon, t'inquiète pas, Mathias. | verbatim |
 | 16 | Noémie | Laisse-moi faire, ça va rentrer. | Leave it to me, it will fit. | #280: Laisse-moi faire.<br>#281: Ça va rentrer. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You said no, so you do not regret anything.' Noemie interprets his hesitation flirtatiously.
 - 'Listen, Noémie, I prefer not to speak of it here.' Mathias deflects the personal banter.
 - 'In any case, do not worry, Mathias.' Noemie reassures him with confidence.
-- 'Leave it to me, it will fit.' Noemie concludes with breezy determination.
+- 'Leave it to me, it will fit.' Noemie concludes with breezy determination. Now let's listen to the entire dialogue once more to lock in what you have learned.

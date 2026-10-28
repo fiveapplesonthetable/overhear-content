@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'It is an incredible opportunity for my career.' Sofia realizes the significance of this break."),
     (13, None, "'You worked hard to get here.' Gabriel acknowledges her dedication and perseverance."),
     (14, None, "'You fully deserve this lead role.' Gabriel offers heartfelt encouragement."),
-    (15, None, "'Gabriel, we must celebrate this news!' Sofia is ready to celebrate the achievement."),
+    (15, None, "'Gabriel, we must celebrate this news!' Sofia is ready to celebrate the achievement. Now let's listen to the joyful conversation once more at full speed."),
 ]

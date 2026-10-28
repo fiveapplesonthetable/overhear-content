@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Once reconciled, I will have both again.' Mathias jokes that once Catherine takes him back, he will have both."),
     (13, None, "'When does a real relationship begin, then?' Gabriel asks when a real relationship actually begins, in Mathias's view."),
     (14, None, "'A romantic comedy.' Mathias calls the carefree early stage of love a romantic comedy."),
-    (15, None, "'A romantic comedy is not bad at all!' Overhearing them, Camille smiles that a romantic comedy is already pretty good."),
+    (15, None, "'A romantic comedy is not bad at all!' Overhearing them, Camille smiles that a romantic comedy is already pretty good. Now listen to the conversation once more without interruption."),
 ]

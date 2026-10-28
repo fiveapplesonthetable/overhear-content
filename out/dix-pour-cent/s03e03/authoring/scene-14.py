@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Pairing a veteran actor with a hungry newcomer brings sparks of creative tension to the audition stage. When you watch the episode, listen out for the expressions meaning 'ma'am' and 'come'. You'll catch them now. See you next time!"
 CLOSING = ('gerard', 'À bientôt!')
 STORY = [
-    ('samy', 'Bonjour, Gérard. Bonjour, madame.', 'Hello, Gerard. Hello, ma', [(620, 'Bonjour, Gérard'), (621, 'Bonjour, madame')], ''),
+    ('samy', 'Bonjour, Gérard. Bonjour, madame.', "Hello, Gerard. Hello, ma'am.", [(620, 'Bonjour, Gérard'), (621, 'Bonjour, madame')], ''),
     ('samy', 'Je suis venu passer des essais.', 'I came to do some screen tests.', [(623, 'Je suis venu passer des essais')], ''),
     ('emma', "Ne t'inquiète pas, on a tout.", 'Do not worry, we have everything.', [(626, "On a tout ce qu'il faut")], ''),
     ('samy', "Excusez-moi, j'ai une question.", 'Excuse me, I have a question.', [(629, 'Excusez-moi, madame, juste une question')], ''),
@@ -25,7 +25,7 @@ STORY = [
     ('samy', 'Je ne connais personne dans le cinéma.', 'I do not know anyone in cinema.', [(644, 'je connais personne dans le milieu de cinéma')], ''),
     ('samy', 'Je ne sais pas comment vous remercier.', 'I do not know how to thank you.', [(645, 'Je sais pas comment vous remercier')], ''),
     ('gerard', 'Montre ton talent, mon grand.', 'Show your talent, my boy.', [(646, 'bon, mon grand')], ''),
-    ('emma', 'Gérard, restez pour les essais de Samy.', 'Gerard, please stay for Samy', [(654, "j'aimerais bien que vous restiez pour les essais de Samy")], ''),
+    ('emma', 'Gérard, restez pour les essais de Samy.', "Gerard, please stay for Samy's test.", [(654, "j'aimerais bien que vous restiez pour les essais de Samy")], ''),
     ('gerard', "D'accord, je peux rester un peu.", 'Alright, I can stay for a bit.', [(655, "bon, ben oui, d'accord")], ''),
     ('emma', 'Je veux voir si cela marche ensemble.', 'I want to see if it works together.', [(656, 'vous voir ensemble'), (657, 'voir si ça marche')], ''),
     ('gerard', "Vous avez peur du contraste d'âge?", 'Are you afraid of the age contrast?', [(658, 'Vous avez peur')], ''),

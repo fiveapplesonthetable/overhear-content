@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | José | Elle m'a posé un lapin aussi? | She stood me up too? | #397: Vous vous êtes posé un lapin | verbatim |
 | 14 | Andréa | Oui, vous êtes quittes tous les deux! | Yes, you are both even now! | #398: On peut dire ça comme ça | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I mess up all my takes today.' Jose despairs over his disastrous performance on set.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What did she say about me?' Jose eagerly asks about his co-star's reaction.
 - 'She did not go to the hotel!' Andrea reveals that Laurence also skipped the secret date.
 - 'She stood me up too?' Jose is stunned to discover their mutual failure to meet.
-- 'Yes, you are both even now!' Andrea smiles and tells him that neither holds a grudge.
+- 'Yes, you are both even now!' Andrea smiles and tells him that neither holds a grudge. Now let's listen to the complete discussion once more to reinforce the vocabulary.

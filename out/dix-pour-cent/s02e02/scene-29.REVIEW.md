@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Noémie | Mathias! Qu'est-ce que tu fais là? | Mathias! What are you doing here? | #943: Mathias<br>#943: Qu'est-ce que tu fais là | verbatim |
 | 2 | Noémie | Oh, je suis tellement désolée... | Oh, I am so sorry... | #944: Oh, je suis tellement désolée | verbatim |
-| 3 | Mathias | Laisse, Noémie. | Don | #947: Laisse, Noémie | verbatim |
+| 3 | Mathias | Laisse, Noémie. | Don't worry, Noémie. | #947: Laisse, Noémie | verbatim |
 | 4 | Noémie | J'étais tellement inquiète. | I was so worried. | #948: J'étais tellement inquiète | verbatim |
 | 5 | Noémie | J'ai appelé tous les hôpitaux, puis les pompiers. | I called all the hospitals, then the firefighters. | #949: J'ai appelé tous les hôpitaux, puis les pompiers | verbatim |
 | 6 | Noémie | Tu dois me prendre pour une folle. | You must take me for a crazy person. | #951: Tu dois me prendre pour une folle | verbatim |
@@ -25,7 +25,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Le serveur | Je n'ai jamais vu ça! | I have never seen that! | #963: Je n'ai jamais vu ça | verbatim |
 | 14 | Mathias | Chut! | Hush! | #966: Chut | verbatim |
 | 15 | Noémie | Oh, Mathias... | Oh, dear Mathias... | #967: Oh, Mathias | verbatim |
-| 16 | Mathias | Le grand frisson. Allons-y, maintenant. | The big thrill. Let | #970: Le grand frisson<br>#971: Allons-y, maintenant | verbatim |
+| 16 | Mathias | Le grand frisson. Allons-y, maintenant. | The big thrill. Let's go now. | #970: Le grand frisson<br>#971: Allons-y, maintenant | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,8 +41,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I told her we had an agreement for her contract.' She explains that she told Nathalie Baye the contract terms were settled.
 - 'Yes, thank you.' Mathias thanks his loyal assistant for managing the client.
 - 'I have seen all sorts of things. But not like you.' The waiter remarks that in all his years, he has never seen a pair quite like them.
-- 'Lovers pretending to toast instead of kissing?' The phrase 'faire semblant de' means to pretend.
+- 'Lovers pretending to toast instead of kissing?' This phrase 'faire semblant de' means to pretend.
 - 'I have never seen that!' The negation 'ne...
 - 'Hush!' Mathias shushes the chatty waiter with a quiet interjection.
 - 'Oh, dear Mathias...' Noemie gazes at Mathias with fond affection.
-- 'The big thrill. Let's go now.' The imperative 'allons-y' urges them to leave together.
+- 'The big thrill. Let's go now.' The imperative 'allons-y' urges them to leave together. Now listen to the whole scene again at normal speed, and see how much more you catch.

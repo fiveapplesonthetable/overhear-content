@@ -28,7 +28,7 @@ STORY = [
     ('mathias', 'Tu es toujours notre star préférée.', 'You are always our favorite star.', [(658, "J'étais LA première cliente")], ''),
     ('isabelle', 'Regarde tous ces amis réunis.', 'Look at all these friends gathered.', [(670, 'Réunis')], ''),
     ('mathias', 'Nous formons une grande famille unie.', 'We form a large united family.', [(671, 'Une grande famille')], ''),
-    ('isabelle', 'Buvons un verre tous ensemble.', 'Let', [(677, 'À nous')], ''),
+    ('isabelle', 'Buvons un verre tous ensemble.', "Let's have a drink all together.", [(677, 'À nous')], ''),
     ('mathias', "À notre agence et à l'avenir!", 'To our agency and to the future!', [(679, 'À ASK')], ''),
 ]
 WALK = [
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Look at all these friends gathered.' Isabelle observes the crowd of colleagues."),
     (11, None, "'We form a large united family.' Mathias reflects on their solidarity."),
     (12, None, "'Let's have a drink all together.' Isabelle proposes a shared toast."),
-    (13, None, "'To our agency and to the future!' Mathias raises his glass in celebration."),
+    (13, None, "'To our agency and to the future!' Mathias raises his glass in celebration. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -12,8 +12,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Camille | Il vient de partir avec Sarah. | He just left with Sarah. | #1104: vient de partir avec Sarah | verbatim |
 | 2 | Camille | Ils sont allés à Saint-Ouen ensemble. | They went to Saint-Ouen together. | #1104: vient de partir avec Sarah | verbatim |
-| 3 | Camille | Il ne t'a pas prévenue? | Didn | #1104: pas dit au revoir | verbatim |
-| 4 | Camille | Il n'a pas dit au revoir? | Didn | #1104: pas dit au revoir | verbatim |
+| 3 | Camille | Il ne t'a pas prévenue? | Didn't he tell you? | #1104: pas dit au revoir | verbatim |
+| 4 | Camille | Il n'a pas dit au revoir? | Didn't he say goodbye? | #1104: pas dit au revoir | verbatim |
 | 5 | Sofia | Bien sûr, bien sûr, c'est normal. | Of course, of course, that is normal. | #1105: Bien sûr, bien sûr | verbatim |
 | 6 | Sofia | Il a le droit de sortir. | He has the right to go out. | #1105: Bien sûr, bien sûr | verbatim |
 | 7 | Camille | Tu as l'air un peu triste. | You look a little sad. | #1105: Bien sûr, bien sûr | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Sofia | La journée a été très longue. | The day was very long. | #1105: Bien sûr, bien sûr | verbatim |
 | 13 | Camille | Prends bien soin de toi, Sofia. | Take good care of yourself, Sofia. | #1105: Bien sûr, bien sûr | verbatim |
 | 14 | Sofia | Bonne nuit, Camille, à bientôt. | Good night, Camille, see you soon. | #1105: Bien sûr, bien sûr | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

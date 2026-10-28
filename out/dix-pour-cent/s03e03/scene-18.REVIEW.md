@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Julien | Les chiffres du film sont catastrophiques. | The film | #1090: avoir les chiffres de mon film | verbatim |
+| 1 | Julien | Les chiffres du film sont catastrophiques. | The film's numbers are catastrophic. | #1090: avoir les chiffres de mon film | verbatim |
 | 2 | Julien | Même ma famille n'est pas venue! | Even my family did not come! | #1103: ma propre famille n'a pas été voir le film | verbatim |
 | 3 | Gabriel | Ce film va devenir culte! | This film will become a cult classic! | #1115: sont devenus cultes | verbatim |
 | 4 | Sofia | Nous avons manqué d'argent partout! | We lacked money everywhere! | #1125: on s'en fout pas des millions | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Julien | Mais c'est aussi un coup génial! | But that is also a stroke of genius! | #1172: c'est génial aussi | verbatim |
 | 13 | Julien | Grâce à toi, je suis libre! | Thanks to you, I am free! | #1180: plus libre, quoi | verbatim |
 | 14 | Sofia | Vous êtes complètement fous tous les deux! | You are both completely crazy! | #1189: N'importe quoi | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

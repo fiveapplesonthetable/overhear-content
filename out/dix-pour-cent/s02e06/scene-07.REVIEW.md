@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Je ne sais pas ce que je ferai. | I do not know what I will do. | #155: Je ne sais pas ce que je vais faire. | verbatim |
 | 13 | Andréa | On se verra à mon retour de Cannes. | We will see each other on my return from Cannes. | #156: On se voit à mon retour de Cannes ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Thank you for this very good dinner, Hicham.' Andrea thanks him politely as they arrive outside her home.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I recognize your street well now.' Hicham recalls past visits to her apartment block.
 - 'Are you worried about the future baby?' Hicham asks if she feels anxious about impending motherhood.
 - 'I do not know what I will do.' Andrea confesses her deep uncertainty about the road ahead.
-- 'We will see each other on my return from Cannes.' Andrea defers major life decisions until after the festival.
+- 'We will see each other on my return from Cannes.' Andrea defers major life decisions until after the festival. Now let's listen to the scene once more from start to finish.

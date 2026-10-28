@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Work must not be painful.' Annick affirms that no job is worth sacrificing mental health."),
     (11, None, "'I will pay for your ticket.' The mother generously offers to cover her train fare home."),
     (12, None, "'We will go together to the beach.' She paints an idyllic picture of rest and recovery by the Mediterranean."),
-    (13, None, "'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love."),
+    (13, None, "'Thank you Mom, I will think about it.' Camille feels soothed by her mother's unconditional love. Now let's listen to the entire exchange once more from beginning to end."),
 ]

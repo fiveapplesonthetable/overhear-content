@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Colette | Je vais me coucher maintenant. | I am going to bed now. | #669: Je vais me coucher | verbatim |
 | 14 | Andréa | Bonne nuit, dors bien cette nuit. | Good night, sleep well tonight. | #669: Je vais me coucher | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Did you see that, Andrea?' Colette points out the sudden change in Flora's behavior.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, it is great, this book!' Colette confirms having seen the volume.
 - 'One must read it very attentively.' Andrea encourages careful study.
 - 'I am going to bed now.' Colette heads to the bedroom to rest.
-- 'Good night, sleep well tonight.' Andrea offers loving parting wishes.
+- 'Good night, sleep well tonight.' Andrea offers loving parting wishes. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Brian | Mathias, auriez-vous juste une minute? | Mathias, would you have just a minute? | #739: auriez juste une minute ? | verbatim |
 | 14 | Camille | Chaque jeune acteur cherche sa chance! | Every young actor seeks his chance! | #715: On sait jamais. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Brian, welcome to my office.' Camille greets the promising young actor warmly.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Jacques Audiard is preparing a new movie?' Brian immediately reacts to the filmmaker's name.
 - 'Yes, an absolutely wonderful project!' Mathias hypes the upcoming high-profile feature film.
 - 'Mathias, would you have just a minute?' Brian eagerly tries to pitch himself to the senior agent.
-- 'Every young actor seeks his chance!' Camille observes the intense competition in the industry.
+- 'Every young actor seeks his chance!' Camille observes the intense competition in the industry. Now let's listen to the scene once more from start to finish.

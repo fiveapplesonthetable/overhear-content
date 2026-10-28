@@ -20,7 +20,7 @@ STORY = [
     ('sofia', 'Il y a seulement cent vingt copies distribuées!', 'There are only one hundred and twenty prints distributed!', [(333, "Il m'a dit qu'il y avait 120 copies dans toute la France.")], ''),
     ('sofia', "Ce n'est vraiment pas terrible du tout.", 'It is really not great at all.', [(334, "C'est pas terrible.")], ''),
     ('mathias', "C'est une très belle sortie en salles!", 'It is a very good theatrical release!', [(336, "C'est une très belle sortie pour un film aussi exigeant")], ''),
-    ('mathias', 'Le film de Julien est une œuvre exigeante.', 'Julien', [(336, 'pour un film aussi exigeant que celui de Julien.')], ''),
+    ('mathias', 'Le film de Julien est une œuvre exigeante.', "Julien's film is a demanding work.", [(336, 'pour un film aussi exigeant que celui de Julien.')], ''),
     ('sofia', 'Donc personne ne va voir ce film magnifique!', 'So nobody is going to see this magnificent film!', [(339, 'Donc, personne va y aller, quoi.')], ''),
     ('sofia', "Le film va disparaître au bout d'une semaine.", 'The film will disappear after one week.', [(343, "le film, il peut dégager au bout d'une semaine,")], ''),
     ('mathias', 'Sophia, calmez-vous, les dés sont jetés maintenant.', 'Sophia, calm down, the die is cast now.', [(347, 'Sophia, calmez-vous.'), (348, 'Les dés sont jetés.')], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'I will call the distributor Wednesday morning at nine.' Mathias promises to monitor opening day theater receipts directly."),
     (10, None, "'The Wednesday morning screening is a real barometer.' Mathias explains that Paris morning attendance accurately predicts nationwide success."),
     (11, None, "'I do not want to act in movies anymore!' Sophia declares dramatically that the emotional stress of film releases is unbearable."),
-    (12, None, "'Do not give up, everything will go very well.' Mathias encourages his talented star to stay strong before the premiere."),
+    (12, None, "'Do not give up, everything will go very well.' Mathias encourages his talented star to stay strong before the premiere. Now let's listen to the scene once more from start to finish."),
 ]

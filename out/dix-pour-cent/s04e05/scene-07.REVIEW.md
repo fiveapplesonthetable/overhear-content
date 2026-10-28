@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Sigourney | Il est temps que les choses changent. | It is time for things to change. | #319: il est temps que les choses changent ? | verbatim |
 | 12 | Sigourney | Et Gaspard sera mon amant. | And Gaspard will be my lover. | #323: Et Gaspard, mon amant. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sigourney, what is going on?' Camille is shocked to see the star ready to leave.
@@ -36,4 +37,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'For a young professor, I thought that was compelling.' She loved the idea of a younger love interest.
 - 'Gaspard Ulliel is thirty-five years old.' Camille points out the massive age gap.
 - 'It is time for things to change.' Sigourney wants to challenge the traditional double standards.
-- 'And Gaspard will be my lover.' She demands that they rewrite the script to give her what she wants. Now let's hear the scene once more.
+- 'And Gaspard will be my lover.' She demands that they rewrite the script to give her what she wants.

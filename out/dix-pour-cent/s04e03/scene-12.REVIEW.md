@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Sofia | C'est grâce à ton soutien précieux. | It is thanks to your valuable support. | #527: Merci | verbatim |
 | 11 | Camille | Je suis très fière de toi. | I am very proud of you. | new | new |
 | 12 | Sofia | Maintenant, nous pouvons prendre un café? | Now, can we have a coffee? | #527: Merci | verbatim |
-| 13 | Camille | Oui, allons fêter cette belle journée! | Yes, let | new | new |
+| 13 | Camille | Oui, allons fêter cette belle journée! | Yes, let's go celebrate this fine day! | new | new |
 | 14 | Sofia | Je me sens enfin tranquille aujourd'hui. | I feel peaceful at last today. | new | new |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am very proud of you.' Camille expresses sincere pride in her client's growth and talent.
 - 'Now, can we have a coffee?' Sofia proposes a quiet moment away from studio lights.
 - 'Yes, let's go celebrate this fine day!' Camille enthusiastically welcomes the idea of a break.
-- 'I feel peaceful at last today.' Sofia leaves behind her rivalry and feels confident in her career.
+- 'I feel peaceful at last today.' Sofia leaves behind her rivalry and feels confident in her career. Now let's listen to the complete discussion once more to reinforce the vocabulary.

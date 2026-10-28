@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Répète ça en face si tu oses! | Repeat that to my face if you dare! | #868: Qu'est-ce qui te prend | verbatim |
 | 14 | Élise | Lâche-moi immédiatement le bras, arrête! | Let go of my arm immediately, stop! | #869: Lâche-moi !<br>#870: Arrête ! Arrête ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How could you betray our agency?' Andrea demands an explanation.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You have no respect for the artists.' Andrea identifies the fundamental difference between them.
 - 'They all prefer to sign with me.' Elise boasts of her commercial triumph.
 - 'Repeat that to my face if you dare!' Andrea's temper explodes into fury.
-- 'Let go of my arm immediately, stop!' Elise panics as physical violence erupts.
+- 'Let go of my arm immediately, stop!' Elise panics as physical violence erupts. Now let's listen to the complete discussion once more to reinforce the vocabulary.

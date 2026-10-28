@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | José | D'accord, je pars immédiatement. | All right, I am leaving immediately. | #703: José. On y va | verbatim |
 | 14 | Andréa | Ne touche plus jamais à mon bébé! | Never touch my baby again! | #667: mon bébé | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Flora! Oh, my beloved baby!' Andrea bursts into tears of relief upon spotting her child.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Look, we are totally zen.' Jose demonstrates how peaceful the nursery atmosphere is.
 - 'A car is waiting for you for the shoot.' Andrea reminds Jose of his strict filming schedule.
 - 'All right, I am leaving immediately.' Jose hands Flora over and prepares for his work day.
-- 'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client.
+- 'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client. Now let's listen to the complete discussion once more to reinforce the vocabulary.

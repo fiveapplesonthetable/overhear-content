@@ -27,7 +27,7 @@ STORY = [
     ('gabriel', "J'ai changé de visage.", 'I changed my face.', [(622, "J'ai changé de visage")], ''),
     ('realisateur', 'Cette réplique fonctionne très bien.', 'This line works very well.', [(622, "J'ai changé de visage")], ''),
     ('gabriel', 'La magie du cinéma opère toujours.', 'Cinema magic always works.', [(621, 'Cette pâleur spectrale')], ''),
-    ('realisateur', 'Tournons cette prise sans attendre.', 'Let', [(621, 'Cette pâleur spectrale')], ''),
+    ('realisateur', 'Tournons cette prise sans attendre.', "Let's film this take without waiting.", [(621, 'Cette pâleur spectrale')], ''),
     ('gabriel', "Silence sur le plateau, s'il vous plaît!", 'Silence on set, please!', [(621, 'Cette pâleur spectrale')], ''),
     ('realisateur', 'Action! Tout le monde est prêt.', 'Action! Everyone is ready.', [(621, 'Cette pâleur spectrale')], ''),
 ]
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Cinema magic always works.' Gabriel praises the power of artistic illusion."),
     (11, None, "'Let's film this take without waiting.' The director decides to start rolling."),
     (12, None, "'Silence on set, please!' Gabriel calls for absolute quiet around the cameras."),
-    (13, None, "'Action! Everyone is ready.' The director begins the crucial camera take."),
+    (13, None, "'Action! Everyone is ready.' The director begins the crucial camera take. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

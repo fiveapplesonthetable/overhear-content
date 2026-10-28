@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'He left with his girlfriend.' Sophia explains that Gabriel walked out of the gathering with Sarah."),
     (10, None, "'I drank two glasses all alone!' Sophia explains how she ended up finishing both ordered drinks herself."),
     (11, None, "'Do not be jealous, think of work!' Camille urges Sophia not to let romantic jealousy derail her career."),
-    (12, None, "'All right, I will deliver on this fine shoot.' Sophia resolves to put personal feelings aside and do her best."),
+    (12, None, "'All right, I will deliver on this fine shoot.' Sophia resolves to put personal feelings aside and do her best. Now let's listen to Camille and Sophia's exchange once more from start to finish."),
 ]

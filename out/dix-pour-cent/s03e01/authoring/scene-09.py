@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'I was afraid it would be too dark.' Sofia explains her creative hesitation."),
     (13, None, "'No, the colors are very beautiful.' Gabriel validates the visual palette."),
     (14, None, "'I am very happy with the result.' Sofia expresses genuine creative satisfaction."),
-    (15, None, "'It is a great success for you.' Gabriel validates her achievement."),
+    (15, None, "'It is a great success for you.' Gabriel validates her achievement. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

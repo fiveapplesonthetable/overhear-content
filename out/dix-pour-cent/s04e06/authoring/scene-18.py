@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'It is better that we stop there.' Andrea makes the painful decision to end their relationship."),
     (11, None, "'It is undoubtedly the best decision.' Colette nods in quiet agreement."),
     (12, None, "'We will take care of Flora together.' Andrea confirms their lifelong parental commitment."),
-    (13, None, "'Yes, we will always be a family.' Colette confirms that their bond as co-parents remains unbroken."),
+    (13, None, "'Yes, we will always be a family.' Colette confirms that their bond as co-parents remains unbroken. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

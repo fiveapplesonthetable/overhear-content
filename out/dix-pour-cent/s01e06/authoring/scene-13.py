@@ -17,7 +17,7 @@ OUTRO = 'Andréa thinks she can charm Christophe into saving the play, while Col
 CLOSING = ('christophe', 'À bientôt!')
 STORY = [
     ('andrea', 'Christophe, tu ne peux pas refuser.', 'Christophe, you cannot say no.', [(350, 'tu ne peux pas refuser')], ''),
-    ('andrea', 'Mon amour-propre ne me le permet pas.', 'My pride won', [(351, 'Mon amour-propre ne me le permet pas')], ''),
+    ('andrea', 'Mon amour-propre ne me le permet pas.', "My pride won't allow it.", [(351, 'Mon amour-propre ne me le permet pas')], ''),
     ('andrea', "J'ai plein de choses à te raconter.", 'I have lots of things to tell you.', [(352, "J'ai plein de choses à te raconter")], ''),
     ('colette', 'Non, je dois rentrer chez moi.', 'No, I have to go home.', [(354, 'Non, je dois rentrer')], ''),
     ('colette', "J'ai encore une grosse partie de mon rapport à rédiger.", 'I still have a big part of my report to write.', [(355, "J'ai encore une grosse partie de mon rapport à rédiger")], ''),
@@ -25,7 +25,7 @@ STORY = [
     ('colette', "Tu t'habilles comme ça pour un dîner de travail?", 'You dress like that for a work dinner?', [(360, "Tu t'habilles comme ça pour un dîner de travail")], ''),
     ('andrea', 'Ce soir, je joue sobre et classe.', 'Tonight, I play it sober and classy.', [(361, 'Ce soir, je joue sobre'), (361, 'et classe')], ''),
     ('andrea', "C'est un cadeau pour toi.", 'It is a present for you.', [(364, "C'est pour moi"), (364, 'Oui')], ''),
-    ('andrea', "Comme ça tu n'auras plus besoin d'apporter le tien.", 'That way you won', [(365, "Comme ça tu n'auras plus besoin d'apporter le tien")], ''),
+    ('andrea', "Comme ça tu n'auras plus besoin d'apporter le tien.", "That way you won't need to bring your own anymore.", [(365, "Comme ça tu n'auras plus besoin d'apporter le tien")], ''),
     ('christophe', 'Je fête mon anniversaire demain soir au théâtre.', 'I celebrate my birthday tomorrow evening at the theatre.', [(369, 'Je fête mon anniversaire demain soir au théâtre')], ''),
     ('christophe', "J'aimerais vraiment que tu viennes.", 'I would really like you to come.', [(370, "J'aimerais vraiment que tu viennes")], ''),
     ('andrea', 'Comme metteur en scène, tu obtiens toujours ce que tu veux.', 'As a stage director, you always get what you want.', [(374, 'En tant que metteur en scène'), (374, 'tu es doué pour'), (374, 'ce que tu veux')], ''),

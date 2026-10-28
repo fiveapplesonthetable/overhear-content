@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | José | Laurence... Que fait-elle ici? | Laurence... What is she doing here? | #40: Laurence. | verbatim |
 | 14 | Andréa | Tu la connais depuis longtemps? | Have you known her for a long time? | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Colette left me a terrible note.' Andrea struggles to accept that Colette packed her bags and left.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am delighted to be on this shoot.' Laurence expresses genuine joy at joining the film cast.
 - 'See you shortly on the movie set.' Laurence smiles politely before heading to the dressing rooms.
 - 'Laurence... What is she doing here?' Jose remains petrified by the unexpected arrival of his ex-partner.
-- 'Have you known her for a long time?' Andrea asks Jose about the history behind his shock.
+- 'Have you known her for a long time?' Andrea asks Jose about the history behind his shock. Now let's listen to the full exchange once more from start to finish.

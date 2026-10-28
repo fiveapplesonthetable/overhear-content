@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Une vraie augmentation de salaire enfin? | A real salary raise at last? | #731: D'étage | verbatim |
 | 14 | Andréa | Non, pas de salaire, un changement d'étage! | No, not salary, a change of floor! | #731: D'étage | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Excuse me, I set this box down here.' Gabriel enters carrying office boxes.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you giving me a nice promotion?' Gabriel hopes for professional advancement.
 - 'Yes, I promote you right away!' Andrea humorously confirms his promotion.
 - 'A real salary raise at last?' Gabriel dreams of financial reward.
-- 'No, not salary, a change of floor!' Andrea delivers her sharp witty comeback.
+- 'No, not salary, a change of floor!' Andrea delivers her sharp witty comeback. Now let's listen to the complete discussion once more to reinforce the vocabulary.

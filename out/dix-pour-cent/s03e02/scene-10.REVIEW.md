@@ -19,13 +19,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Gabriel | Ça pourrait vraiment nous intéresser. | It could really interest us. | #602: ça pourrait m'intéresser, en fait. | verbatim |
 | 8 | Monica | Super, j'en suis très ravie. | Great, I am very delighted about it. | #604: Super, je suis ravi. | verbatim |
 | 9 | Gabriel | Tu veux passer au bureau pour en discuter? | Do you want to come by the office to discuss it? | #605: Tu veux passer au bureau pour en discuter ? | verbatim |
-| 10 | Monica | Tu ne pourrais pas passer à la maison plutôt? | Couldn | #606: Tu pourrais pas passer à la maison, plutôt ? | verbatim |
+| 10 | Monica | Tu ne pourrais pas passer à la maison plutôt? | Couldn't you come by my place instead? | #606: Tu pourrais pas passer à la maison, plutôt ? | verbatim |
 | 11 | Monica | Je voudrais te montrer des photos pour une pub. | I would like to show you photos for an ad. | #607: Je voudrais te montrer des photos pour une pub, | verbatim |
 | 12 | Gabriel | Oui, c'est une excellente idée. | Yes, that is an excellent idea. | #611: Oui, d'accord, super. | verbatim |
 | 13 | Monica | Ce soir, tu peux venir chez moi? | Tonight, can you come to my place? | #610: Ce soir, tu peux ? | verbatim |
 | 14 | Gabriel | Oui d'accord, c'est parfait pour moi. | Yes okay, that is perfect for me. | #611: Oui, d'accord, super. | verbatim |
 | 15 | Monica | Je te ferai ma recette secrète du risotto. | I will make you my secret risotto recipe. | #612: Je te ferai ma recette secrète du risotto. | verbatim |
 | 16 | Gabriel | Rendez-vous chez toi à vingt heures trente! | See you at your place at eight thirty! | #614: 20h30 ?<br>#616: Au revoir. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Tonight, can you come to my place?' Monica proposes dinner that very evening.
 - 'Yes okay, that is perfect for me.' Gabriel confirms the evening plan without hesitation.
 - 'I will make you my secret risotto recipe.' Monica entices Gabriel with homemade cooking.
-- 'See you at your place at eight thirty!' Gabriel confirms the dinner appointment.
+- 'See you at your place at eight thirty!' Gabriel confirms the dinner appointment. Now let's listen to the entire dialogue once more to lock in what you have learned.

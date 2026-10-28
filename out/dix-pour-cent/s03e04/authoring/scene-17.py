@@ -18,7 +18,7 @@ CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('mathias', 'Allô Noémie, je ne vous dérange pas?', 'Hello Noemie, am I not disturbing you?', [(913, 'Eh, Mathias'), (914, 'Je vous dérange pas')], ''),
     ('noemie', 'Non Mathias, tout va très bien.', 'No Mathias, everything is going very well.', [(915, 'Non, non, ça va')], ''),
-    ('mathias', "Le tournage d'Isabelle est terminé.", 'Isabelle', [(916, "nuit d'Isabelle Huppert")], ''),
+    ('mathias', "Le tournage d'Isabelle est terminé.", "Isabelle's shoot is finished.", [(916, "nuit d'Isabelle Huppert")], ''),
     ('mathias', 'Nous avons réussi cette folle nuit!', 'We made it through this crazy night!', [(916, 'cette folle nuit')], ''),
     ('noemie', "C'est une merveilleuse nouvelle pour vous!", 'That is wonderful news for you!', [(918, "c'est super")], ''),
     ('mathias', "C'est largement grâce à votre aide.", 'It is largely thanks to your help.', [(917, 'grâce à vous')], ''),

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Mathias, tu me dégoûtes vraiment! | Mathias, you really disgust me! | #978: Dégoûtes | verbatim |
 | 14 | Mathias | Noémie, attends, reviens tout de suite! | Noemie, wait, come back immediately! | #976: Noémie | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is going on here?' Noemie arrives at the agency and wonders what the celebration is about.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I finally read this book!' Mathias admits that he has only just skimmed the manuscript.
 - 'It is crazy, it makes no sense!' Mathias openly mocks the content of the novel.
 - 'Mathias, you really disgust me!' Noemie is appalled by his utter cynicism and lack of respect.
-- 'Noemie, wait, come back immediately!' Mathias calls after her in surprise as she storms out.
+- 'Noemie, wait, come back immediately!' Mathias calls after her in surprise as she storms out. Now let's listen to the complete discussion once more to reinforce the vocabulary.

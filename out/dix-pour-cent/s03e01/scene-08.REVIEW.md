@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Il prend simplement quelques jours de repos mérité. | He is simply taking a few days of well-deserved rest. | new | new |
 | 13 | Maxime | Je veux le voir demain dans mon bureau! | I want to see him tomorrow in my office! | #168: dans | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The director is shouting that the take is cut!' Maxime watches the monitor as the director tries in vain to stop filming.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That is too crazy for our family comedy, Andrea.' Maxime worries that a feral star will ruin his mainstream movie.
 - 'So tell me finally where Jean Dujardin is hiding.' Maxime demands the actor's immediate whereabouts.
 - 'He is simply taking a few days of well-deserved rest.' Andrea tries to downplay the actor's ongoing breakdown.
-- 'I want to see him tomorrow in my office!' Maxime delivers a firm ultimatum before walking out.
+- 'I want to see him tomorrow in my office!' Maxime delivers a firm ultimatum before walking out. Now let's listen to the scene once more from start to finish.

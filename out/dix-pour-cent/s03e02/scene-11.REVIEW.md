@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Andréa | De quoi tu te mêles, Hicham? | What business is it of yours, Hicham? | #626: de quoi je me mêle | verbatim |
 | 3 | Hicham | Je vous invite à dîner ce soir. | I am inviting you to dinner tonight. | #629: invite à dîner ce soir | verbatim |
 | 4 | Andréa | Pourquoi organiser un dîner ce soir? | Why organize a dinner tonight? | #630: Ce soir<br>#634: Pourquoi ce soir | verbatim |
-| 5 | Hicham | Je réserve une table à vingt heures. | I am reserving a table at eight o | #632: Je réserve | verbatim |
+| 5 | Hicham | Je réserve une table à vingt heures. | I am reserving a table at eight o'clock. | #632: Je réserve | verbatim |
 | 6 | Andréa | Qu'est-ce qui se passe, exactement? | What is going on, exactly? | #635: Qu'est-ce qui se passe | verbatim |
 | 7 | Andréa | Il y a un problème particulier? | Is there a particular problem? | #636: Y a un problème | verbatim |
 | 8 | Hicham | Non, non, il n'y a aucun problème. | No, no, there is no problem at all. | #637: Non, non, aucun | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Je compte vraiment sur vous deux. | I am really counting on you two. | #645: Je compte sur vous | verbatim |
 | 14 | Andréa | Colette et moi serons là ce soir. | Colette and I will be there tonight. | #629: Colette<br>#645: sur vous | verbatim |
 | 15 | Hicham | Parfait, nous allons bien dîner ensemble! | Perfect, we are going to dine well together! | #638: bien manger<br>#645: sur vous | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

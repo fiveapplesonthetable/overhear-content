@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'The future of French cinema is in your hands!' Sofia encourages her colleague playfully."),
     (13, None, "'Do not forget that many actors are actresses.' Sofia reminds her of gender representation."),
     (14, None, "'You do not want me to apply?' Camille seeks clarification on agency training."),
-    (15, None, "'Of course I do, I will think about it with you.' Sofia pledges friendly career advice."),
+    (15, None, "'Of course I do, I will think about it with you.' Sofia pledges friendly career advice. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

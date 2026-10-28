@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Shall we call each other soon?' Gabriel suggests a future contact."),
     (13, None, "'Yes, with great pleasure.' Chantal accepts with enthusiasm."),
     (14, None, "'I will call you tomorrow afternoon.' Gabriel sets a specific time frame."),
-    (15, None, "'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close."),
+    (15, None, "'Okay, see you tomorrow, Gabriel.' Chantal brings the parting to a close. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

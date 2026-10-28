@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Allô Franck? Oui, c'est Gabriel ici. | Hello Franck? Yes, it is Gabriel here. | #806: c'est Gabriel | verbatim |
 | 14 | Mathias | Bonne chance pour convaincre notre ami! | Good luck convincing our friend! | #803: J'appelle Franck | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hey you, wait a second, Mathias!' Gabriel catches up with the former agent.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I call Franck to arrange everything.' Gabriel intervenes directly with the talent.
 - 'He filters all my recent calls.' Mathias warns that Franck is avoiding him.
 - 'Hello Franck? Yes, it is Gabriel here.' Gabriel manages to reach Franck on the phone.
-- 'Good luck convincing our friend!' Mathias offers parting encouragement.
+- 'Good luck convincing our friend!' Mathias offers parting encouragement. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire dialogue once more to lock in what 
 OUTRO = "Isabelle refuses to compromise her craft or let a director trim away her artistic essence. When you watch the episode, listen out for the expressions meaning 'script scene' and 'know'. You'll catch them now. See you next time!"
 CLOSING = ('isabelle', 'Bonne journée!')
 STORY = [
-    ('sharon', "Bonsoir Isabelle, voici la scène d'aujourd'hui.", 'Good evening Isabelle, here is today', [(704, 'Bonsoir, Isabelle'), (707, "c'est la scène d'aujourd'hui")], ''),
+    ('sharon', "Bonsoir Isabelle, voici la scène d'aujourd'hui.", "Good evening Isabelle, here is today's scene.", [(704, 'Bonsoir, Isabelle'), (707, "c'est la scène d'aujourd'hui")], ''),
     ('isabelle', 'Mais je connais déjà mon texte.', 'But I already know my lines.', [(708, 'je connais mon texte')], ''),
     ('isabelle', "Attendez, ce n'est pas du tout pareil!", 'Wait, this is not at all the same!', [(710, 'attendez, attendez'), (711, "c'est pas du tout pareil")], ''),
     ('isabelle', 'Ce nouveau texte est beaucoup plus court.', 'This new text is much shorter.', [(712, "C'est beaucoup plus court")], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'He deleted my entire big monologue.' Isabelle laments the loss of her centerpiece speech."),
     (11, None, "'This sequence is now empty of substance.' Isabelle critiques the artistic value of the shortened scene."),
     (12, None, "'Where is Gary, I want to talk to him!' Isabelle demands an immediate face-to-face showdown."),
-    (13, None, "'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand."),
+    (13, None, "'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

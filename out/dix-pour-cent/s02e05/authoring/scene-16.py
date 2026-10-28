@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'We decide whether we finance his film.' The commission will vote on Julien's project."),
     (12, None, "'Now, I am stressing a lot!' Gabriel feels immediate agent anxiety over the verdict."),
     (13, None, "'Are you in a hurry this noon?' Gabriel looks for an opening to lobby her informally."),
-    (14, None, "'Can I invite you to lunch?' Gabriel seizes the chance to pitch and connect over food."),
+    (14, None, "'Can I invite you to lunch?' Gabriel seizes the chance to pitch and connect over food. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

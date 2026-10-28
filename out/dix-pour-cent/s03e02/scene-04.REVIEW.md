@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Tu es vraiment incorrigible et pleine d'énergie! | You are truly incorrigible and full of energy! | #232: sort de l'ordinaire | verbatim |
 | 14 | Monica | Tu viens avec moi, mon cher Gabriel? | Are you coming with me, my dear Gabriel? | #319: ensemble | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you find an interesting guide, Monica?' An inverted question inquiring about guidebook discoveries.
-- 'This book suggests very playful strolls!' An appreciative statement detailing quirky Parisian walking routes.
-- 'It is an original guide for visiting Paris.' An agreeable evaluation describing alternative sightseeing.
-- 'The clerk was so shy and flustered!' An amused observation noting the seller's visible shyness.
-- 'Any man would be flustered in front of you.' An empathetic compliment contextualizing masculine intimidation.
-- 'I want to experience a perfectly normal evening.' A decisive modal assertion stating a desire for ordinary life.
-- 'What do you want to do tonight exactly?' An interrogative phrase seeking practical evening plans.
-- 'Go to a small party among neighbors.' An infinitive proposal outlining a casual domestic gathering.
-- 'A building party with strangers?' An incredulous clarifying question questioning the informal venue.
-- 'Oui, to chat without protocol or cameras.' A purposeful prepositional phrase seeking genuine, unmediated conversation.
-- 'People are going to recognize you immediately, Monica.' A cautionary near-future warning anticipating public recognition.
-- 'I will wear simple and discreet clothes.' A reassuring future commitment to an understated outfit.
-- 'You are truly incorrigible and full of energy!' An affectionate exclamation admiring adventurous spirit.
-- 'Are you coming with me, my dear Gabriel?' A warm invitation asking an agent to join the adventure.
+- 'Did you find an interesting guide, Monica?' Gabriel inquires about guidebook discoveries.
+- 'This book suggests very playful strolls!' Monica details quirky Parisian walking routes.
+- 'It is an original guide for visiting Paris.' Gabriel describes alternative sightseeing.
+- 'The clerk was so shy and flustered!' Monica notes the seller's visible shyness.
+- 'Any man would be flustered in front of you.' Gabriel contextualizes masculine intimidation.
+- 'I want to experience a perfectly normal evening.' Monica states a desire for ordinary life.
+- 'What do you want to do tonight exactly?' Gabriel seeks practical evening plans.
+- 'Go to a small party among neighbors.' Monica outlines a casual domestic gathering.
+- 'A building party with strangers?' Gabriel questions the informal venue.
+- 'Oui, to chat without protocol or cameras.' Monica seeks genuine, unmediated conversation.
+- 'People are going to recognize you immediately, Monica.' Gabriel anticipates public recognition.
+- 'I will wear simple and discreet clothes.' Monica promises to wear simple and discreet clothes.
+- 'You are truly incorrigible and full of energy!' Gabriel admires adventurous spirit.
+- 'Are you coming with me, my dear Gabriel?' Monica asks an agent to join the adventure. Now let's listen to Gabriel and Monica again at full speed.

@@ -17,7 +17,7 @@ OUTRO = 'Ramzy has delivered an ultimatum to Mathias, forcing him to choose betw
 CLOSING = ('ramzy', 'Au revoir!')
 STORY = [
     ('mathias', "Ne t'inquiète pas, personne ne nous dérangera ici. Thé ou café?", 'Do not worry, no one will bother us here. Tea or coffee?', [(171, "Ne t'inquiète pas, personne ne nous dérangera ici."), (173, '-Tu étais au courant ? -Thé ou café ?')], ''),
-    ('ramzy', "Tu étais au courant? Elle t'a appelé à trois heures du matin.", 'Did you know? She called you at three o', [(173, '-Tu étais au courant ? -Thé ou café ?'), (174, "Elle t'a appelé à 3h09 du matin.")], ''),
+    ('ramzy', "Tu étais au courant? Elle t'a appelé à trois heures du matin.", "Did you know? She called you at three o'clock in the morning.", [(173, '-Tu étais au courant ? -Thé ou café ?'), (174, "Elle t'a appelé à 3h09 du matin.")], ''),
     ('ramzy', "Qu'est-ce qu'elle t'a dit?", 'What did she say to you?', [(175, "Qu'est-ce qu'elle t'a dit ?")], ''),
     ('mathias', "Je vous protège tous les deux, c'est mon travail d'agent.", 'I protect both of you, that is my job as an agent.', [(176, 'Mon rôle'), (177, 'est de vous protéger tous les deux, votre vie privée ne me regarde pas,')], ''),
     ('mathias', 'Nous allons attaquer ce journal en justice et gagner.', 'We are going to sue this newspaper in court and win.', [(178, 'mais quand elle est attaquée, je la défends.'), (179, "On va attaquer en justice, et soyez sûrs qu'on gagnera.")], ''),
@@ -40,8 +40,8 @@ WALK = [
     (6, None, "'Did she call and leave a message?' Ramzy wonders if Virginie tried to explain herself."),
     (7, None, "'No, but she could, I am her agent too.' Mathias reminds him that his professional loyalty extends to both clients."),
     (8, None, "'That is the exact problem, you are a double agent!' Ramzy angrily accuses Mathias of being torn between competing loyalties."),
-    (9, None, "'Not quite, I am the agent of both of you.' The phrase pas tout a fait means not quite or not exactly."),
+    (9, None, "'Not quite, I am the agent of both of you.' This phrase pas tout a fait means not quite or not exactly."),
     (10, None, "'Well, now you must choose.' Ramzy issues an uncompromising ultimatum to his representative."),
     (11, None, "'Sorry to disturb you, Mathias. Virginie Efira is here.' Sofia steps into the office to announce the unexpected visitor."),
-    (12, None, "'See? Do what is necessary, I do not want to see her.' Ramzy firmly refuses to speak to Virginie in person."),
+    (12, None, "'See? Do what is necessary, I do not want to see her.' Ramzy firmly refuses to speak to Virginie in person. Now let's listen to the heated confrontation between Ramzy and Mathias once more."),
 ]

@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Andréa | Non, pas du tout. Nous sommes comme une famille. | No, not at all. We are like a family. | #356: Comme une famille. | verbatim |
 | 16 | Camille | Merci, Andréa. Ça me fait du bien. | Thank you, Andréa. That makes me feel good. | #341: Ma Camille. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'My Camille. Do not cry.' Andrea comforts the weeping assistant warmly.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Something deeper, that would bring us closer one day.' Andrea speaks of an enduring bond.
 - 'And you are not angry with me?' Camille seeks final reassurance.
 - 'No, not at all. We are like a family.' Andrea reaffirms their sisterly connection.
-- 'Thank you, Andréa. That makes me feel good.' Camille finds comfort in her friendship.
+- 'Thank you, Andréa. That makes me feel good.' Camille finds comfort in her friendship. Now let's listen to the entire dialogue once more to lock in what you have learned.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Nos deux sièges sont juste ici. | Our two seats are right here. | #906: Ces deux places là | verbatim |
 | 14 | Noémie | Asseyons-nous pour regarder la cérémonie. | Let us sit down to watch the ceremony. | #905: c'est par ici | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So, let us find our seats, over here.' Mathias navigates the busy foyer.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am sorry for that word.' Mathias recognizes her genuine hurt.
 - 'This circle remains cruel to me.' Noemie laments the snobbish film elite.
 - 'Our two seats are right here.' Mathias finds their numbered row.
-- 'Let us sit down to watch the ceremony.' Noemie prepares for the evening program.
+- 'Let us sit down to watch the ceremony.' Noemie prepares for the evening program. Now let's listen to the complete discussion once more to reinforce the vocabulary.

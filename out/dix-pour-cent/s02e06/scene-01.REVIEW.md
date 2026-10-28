@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Juliette | Oui, je me sens plus libre. | Yes, I feel freer. | #52: Je me sentirais plus élégante, plus libre. | verbatim |
 | 14 | Eva | Très bien, va pour le smoking Armani! | Very well, let us go with the Armani tuxedo! | #54: Très bien, alors. Nous sommes tous d'accord.<br>#55: Le smoking Armani. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am in the middle of a fitting for Cannes.' An idiomatic prepositional phrase indicating an ongoing dress fitting.
-- 'Sorry Juliette, my taxi was stuck.' A polite apology followed by a common urban traffic excuse.
+- 'I am in the middle of a fitting for Cannes.' Juliette indicates an ongoing dress fitting.
+- 'Sorry Juliette, my taxi was stuck.' Andréa apologizes politely and blames the Paris traffic.
 - 'Hello Andréa, we were talking about the ceremony.' Eva greets Andréa and explains they were just discussing the Cannes ceremony.
 - 'Juliette will be a perfect mistress of ceremonies.' Andréa reassures Juliette Binoche that she will be a flawless mistress of ceremonies.
-- 'This dress is really very complicated!' An intensified demonstrative phrase critiquing garment comfort.
+- 'This dress is really very complicated!' Juliette critiques garment comfort.
 - 'You just have to get used to it.' The designer tells Juliette she simply needs a moment to get used to the gown.
 - 'I think that it is too tight.' Juliette winces and says she thinks the dress is far too tight.
 - 'Yet, you are simply divine!' Andréa insists admiringly that Juliette looks simply divine in it.
-- 'It is much too sophisticated for me.' An intensified adjective expressing personal aesthetic preference.
-- 'This dress requires a thousand hours of work.' A cardinal numeral emphasizing artisanal couture labor.
-- 'I prefer to wear the Armani tuxedo.' A decisive preference verb proposing an alternative outfit.
-- 'Do you feel better in a tuxedo?' An inverted pronominal question checking bodily comfort.
-- 'Yes, I feel freer.' A comparative adjective highlighting physical and artistic ease.
-- 'Very well, let us go with the Armani tuxedo!' An agreeable colloquial consensus confirming the wardrobe decision.
+- 'It is much too sophisticated for me.' Juliette expresses personal aesthetic preference.
+- 'This dress requires a thousand hours of work.' Eva emphasizes artisanal couture labor.
+- 'I prefer to wear the Armani tuxedo.' Juliette proposes an alternative outfit.
+- 'Do you feel better in a tuxedo?' Andréa checks bodily comfort.
+- 'Yes, I feel freer.' Juliette highlights physical and artistic ease.
+- 'Very well, let us go with the Armani tuxedo!' Eva confirms the wardrobe decision. Now let's listen to Juliette, Andrea, and Eva again at full speed.

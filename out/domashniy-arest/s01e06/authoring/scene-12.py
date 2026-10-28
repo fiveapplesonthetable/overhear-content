@@ -36,7 +36,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Well then, how is it?' In this moment, Ilona is genuinely impressed."),
-    (1, 'Потрясающе!', "'Incredible!' she exclaims."),
+    (1, 'Потрясающе!', "'Incredible!' She exclaims in disbelief at the story."),
     (1, 'Испанский?', "'Is it Spanish?' In response, Ignatyev beams with local pride."),
     (2, 'Здесь делаем, в Ложкино.', "'We make it right here, in Lozhkino.' The host proudly explains that they make the product right here in the village."),
     (2, 'И лучше, чем там!', "'And better than over there!' Then his face darkens as he thinks of the town authorities."),
@@ -47,7 +47,7 @@ WALK = [
     (5, None, "'You see, I'm not quite a wholesaler.' In this moment, Ignatyev frowns."),
     (6, None, "'Then who are you?' Right then, Ilona hands him her card."),
     (7, None, "'I head the election campaign of Ivan Samsonov.' Furious at anything connected to politics, Ignatyev throws her out at once. Outside in the corridor, Yulya catches up with her."),
-    (8, 'Не дал?', "'He didn't give any?' she asks."),
+    (8, 'Не дал?', "'He didn't give any?' She asks right away about the money."),
     (8, 'Подождите, есть у него одно слабое место.', "'Wait, he does have one weak spot.' Right then, Ilona stops and turns around."),
     (9, None, "'So what kind of weak spot?' That phrase 'what for a...' means 'what kind of...'. First Yulya secures her deal."),
     (10, None, "'And you won't tell my parents about me?' In this moment, Ilona promises."),

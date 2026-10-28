@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I must go back quickly.' Sofia remembers that the photographer is waiting for her next door."),
     (11, None, "'You can wait for her in her office.' Gabriel suggests she relax in Camille's room for a few minutes."),
     (12, None, "'All right, I am going to wait for her a bit.' Sofia decides to stay briefly until Camille returns."),
-    (13, None, "'See you later, big star!' Gabriel waves goodbye with a playful tease."),
+    (13, None, "'See you later, big star!' Gabriel waves goodbye with a playful tease. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

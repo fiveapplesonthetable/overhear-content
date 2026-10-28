@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Monica | Alors aide-moi à le trouver, Gabriel! | Then help me find him, Gabriel! | #196: mon problème | verbatim |
 | 14 | Gabriel | C'est une mission originale pour un agent! | That is an original mission for an agent! | #196: mon problème | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I loved shooting this movie in Australia.' An enthusiastic past statement recalling international film work.
-- 'It was a very different role for you.' An appreciative observation noting artistic versatility.
-- 'Yes, but my private life is difficult.' An adversative transition shifting from career to personal dilemmas.
-- 'A star like you has many admirers!' A complimentary generalization acknowledging worldwide celebrity appeal.
-- 'Men see me only as a trophy.' A candid critique describing superficial male attention.
-- 'You perhaps intimidate many suitors.' An empathetic speculation explaining romantic hesitation.
-- 'I simply want to meet a normal man.' A straightforward desire formula wishing for grounded romance.
-- 'What is a normal man for you?' An open interrogative exploring personal definitions of normalcy.
+- 'I loved shooting this movie in Australia.' Monica recalls international film work.
+- 'It was a very different role for you.' Gabriel notes artistic versatility.
+- 'Yes, but my private life is difficult.' Monica shifts from career to personal dilemmas.
+- 'A star like you has many admirers!' Gabriel acknowledges worldwide celebrity appeal.
+- 'Men see me only as a trophy.' Monica describes superficial male attention.
+- 'You perhaps intimidate many suitors.' Gabriel explains romantic hesitation.
+- 'I simply want to meet a normal man.' Monica wishes for grounded romance.
+- 'What is a normal man for you?' Gabriel explores personal definitions of normalcy.
 - 'A simple, hardworking, and caring man.' Descriptive adjectives highlighting unpretentious human virtues.
-- 'A man who does not know cinema?' A relative clause probing detachment from show business.
-- 'Exactly, someone who loves me for myself.' An enthusiastic confirmation desiring unconditional love.
-- 'That kind of man surely exists in Paris.' An encouraging assertion supporting romantic hope in the capital.
-- 'Then help me find him, Gabriel!' A playful imperative enlisting agent assistance in love.
-- 'That is an original mission for an agent!' An amused exclamatory evaluation welcoming an unconventional task.
+- 'A man who does not know cinema?' Gabriel probes detachment from show business.
+- 'Exactly, someone who loves me for myself.' Monica desires unconditional love.
+- 'That kind of man surely exists in Paris.' Gabriel supports romantic hope in the capital.
+- 'Then help me find him, Gabriel!' Monica enlists agent assistance in love.
+- 'That is an original mission for an agent!' Gabriel welcomes an unconventional task. Now let's listen to Monica and Gabriel again at full speed.

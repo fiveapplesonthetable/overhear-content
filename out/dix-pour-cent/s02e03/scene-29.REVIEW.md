@@ -15,12 +15,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Le policier | Le juge pourrait lui retirer le permis. | The judge could take away his license. | #754: Le juge pourrait lui retirer le permis | verbatim |
 | 4 | Gabriel | Puis-je le voir? | May I see him? | #757: Puis-je le voir | verbatim |
 | 5 | Le policier | Par ici. Il est en cellule de dégrisement. | This way. He is in the sobering-up cell. | #758: Par ici. Il est en cellule de dégrisement | verbatim |
-| 6 | Gabriel | Tu joues à quoi? Tu ne veux plus faire le film? | What are you playing at? You don | #760: Tu joues à quoi<br>#761: Tu ne veux plus faire le film | verbatim |
+| 6 | Gabriel | Tu joues à quoi? Tu ne veux plus faire le film? | What are you playing at? You don't want to do the film anymore? | #760: Tu joues à quoi<br>#761: Tu ne veux plus faire le film | verbatim |
 | 7 | Norman | Il pense déjà que je suis un loser. | He already thinks that I am a loser. | #764: Il pense déjà que je suis un loser | verbatim |
 | 8 | Gabriel | Arrête, il t'a casté, tu l'as convaincu. | Stop it, he cast you, you convinced him. | #765: Arrête, il t'a casté, tu l'as convaincu | verbatim |
 | 9 | Norman | Il n'est pas de mon monde, pas mon univers. | He is not from my world, not my universe. | #767: Il n'est pas de mon monde, pas mon univers | verbatim |
 | 10 | Norman | Je vais me ridiculiser. | I am going to make a fool of myself. | #768: Je vais me ridiculiser | verbatim |
-| 11 | Norman | Appelle-le, annule et qu'on en finisse. | Call him, cancel and let | #776: Appelle-le, annule et qu'on en finisse | verbatim |
+| 11 | Norman | Appelle-le, annule et qu'on en finisse. | Call him, cancel and let's get it over with. | #776: Appelle-le, annule et qu'on en finisse | verbatim |
 | 12 | Gabriel | Bonjour Jacques. C'est Gabriel Sarda. | Hello Jacques. It is Gabriel Sarda. | #783: Bonjour Jacques<br>#784: C'est Gabriel Sarda | verbatim |
 | 13 | Gabriel | Norman ne veut pas faire votre film. | Norman does not want to do your movie. | #784: Norman<br>#785: il ne veut pas faire votre film | verbatim |
 | 14 | Le policier | Ne haussez pas la voix! | Do not raise your voice! | #790: ne haussez pas la voix | verbatim |
@@ -28,6 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 16 | Gabriel | On m'embarque aussi? | Are you locking me up too? | #794: On m'embarque aussi | verbatim |
 | 17 | Norman | Je suis un raté. | I am a failure. | #798: Je suis un raté | verbatim |
 | 18 | Gabriel | Pas du tout. Vous avez été casté dans un film d'Audiard. | Not at all. You were cast in an Audiard movie. | #799: Pas du tout. Vous avez été casté dans un film d'Audiard | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -48,4 +49,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Have you been drinking?' The compound past tense uses the auxiliary verb 'avoir'.
 - 'Are you locking me up too?' When the cell door locks behind him, Gabriel asks in alarm if they are locking him up too.
 - 'I am a failure.' Norman sinks into self-pity on the cell bench.
-- 'Not at all. You were cast in an Audiard movie.' Gabriel encourages his despondent young star.
+- 'Not at all. You were cast in an Audiard movie.' Gabriel encourages his despondent young star. Now listen to the whole scene again at normal speed, and see how much more you catch.

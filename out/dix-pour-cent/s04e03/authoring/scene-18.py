@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am not going to change my name.' Camille reassures her mother of her lasting identity."),
     (11, None, "'Thankfully! I did everything all alone.' Suzanne proudly asserts her maternal devotion."),
     (12, None, "'I understand your anger, you are right.' Camille validates her mother's pain."),
-    (13, None, "'Take care of yourself above all, honey.' Suzanne closes the conversation with tender warmth."),
+    (13, None, "'Take care of yourself above all, honey.' Suzanne closes the conversation with tender warmth. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

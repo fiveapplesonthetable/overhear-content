@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Stop worrying like that.' Gabriel urges her not to let insecurity hold her back."),
     (11, None, "'Julien is always very stressed.' The agent explains that creative people often experience intense anxiety."),
     (12, None, "'You must give it a shot.' Gabriel encourages his client to take advantage of the opportunity."),
-    (13, None, "'All right, I will talk to him.' Sofia finally agrees to approach the artist directly."),
+    (13, None, "'All right, I will talk to him.' Sofia finally agrees to approach the artist directly. Now let's listen to the entire exchange once more from beginning to end."),
 ]

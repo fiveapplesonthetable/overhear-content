@@ -17,13 +17,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Camille | Je suis si heureuse pour toi. | I am so happy for you. | #917: tout le monde | verbatim |
 | 6 | Mathias | Écoute, l'appareil sonne déjà doucement! | Listen, the device is already beeping softly! | #917: bipe | verbatim |
 | 7 | Camille | C'est parce que tu es ému! | It is because you are moved! | #917: tout le monde | verbatim |
-| 8 | Mathias | Je ne bipe pas pour tout le monde. | I don | #917: Je ne bipe pas pour tout le monde | verbatim |
+| 8 | Mathias | Je ne bipe pas pour tout le monde. | I don't beep for everyone. | #917: Je ne bipe pas pour tout le monde | verbatim |
 | 9 | Camille | C'est la preuve de ton affection. | It is proof of your affection. | #917: tout le monde | verbatim |
 | 10 | Mathias | Tu comptes beaucoup pour moi, Camille. | You mean a lot to me, Camille. | #917: tout le monde | verbatim |
 | 11 | Camille | Promets-moi de faire très attention. | Promise me to be very careful. | #917: tout le monde | verbatim |
 | 12 | Mathias | Je vais enfin changer mes habitudes. | I will finally change my habits. | #917: tout le monde | verbatim |
 | 13 | Camille | Marchons ensemble vers la sortie maintenant. | Let us walk together toward the exit now. | #917: tout le monde | verbatim |
 | 14 | Mathias | Merci d'être là avec moi. | Thank you for being here with me. | #917: tout le monde | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

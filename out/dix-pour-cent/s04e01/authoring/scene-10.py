@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I thought we paid for real help.' Andrea expected outsourced nursery staff."),
     (11, None, "'I need to return to a normal life.' Colette expresses her longing for routine and career."),
     (12, None, "'Okay, I will make efforts for us.' Andrea accepts the compromise for their couple."),
-    (13, None, "'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession."),
+    (13, None, "'Thank you, Flora will be very happy among them.' Colette appreciates Andrea's concession. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

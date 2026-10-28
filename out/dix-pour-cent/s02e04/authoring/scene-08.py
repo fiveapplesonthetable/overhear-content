@@ -21,7 +21,7 @@ STORY = [
     ('andrea', 'Je suis dans une situation terrible, Camille.', 'I am in a terrible situation, Camille.', [(197, 'Je suis dans la merde, Camille. Vraiment dans la merde.')], ''),
     ('andrea', 'Tu es la seule personne de confiance.', 'You are the only trustworthy person.', [(198, "Tu es la seule personne ici en qui j'ai entièrement confiance")], ''),
     ('andrea', "Je n'ai pas rappelé Isabelle Adjani.", 'I have not called Isabelle Adjani back.', [(200, "Je n'ai pas rappelé Isabelle Adjani.")], ''),
-    ('camille', "Pourquoi n'as-tu pas appelé Isabelle?", 'Why didn', [(203, 'Pourquoi tu as fait ça ?')], ''),
+    ('camille', "Pourquoi n'as-tu pas appelé Isabelle?", "Why didn't you call Isabelle?", [(203, 'Pourquoi tu as fait ça ?')], ''),
     ('andrea', "J'ai jeté le scénario à la poubelle!", 'I threw the script in the trash!', [(202, "j'ai jeté le scénario d'Amour Éternel directement à la poubelle.")], ''),
     ('andrea', "C'était il y a quatre ans.", 'That was four years ago.', [(201, 'il y a quatre ans')], ''),
     ('andrea', "C'est la pire bourde de ma carrière.", 'It is the worst blunder of my career.', [(207, 'La pire bourde de ma carrière.')], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Is the situation truly beyond repair?' Camille asks if there is any diplomatic way to fix the error."),
     (10, None, "'Isabelle and Hartman must not see each other.' Andrea explains that an in-person meeting will expose her lie immediately."),
     (11, None, "'I need you to block that.' Andrea tasks Camille with secretly derailing the scheduled encounter."),
-    (12, None, "'All right Andréa, I will help you.' Camille agrees to stand by Andrea and help sabotage the meeting."),
+    (12, None, "'All right Andréa, I will help you.' Camille agrees to stand by Andrea and help sabotage the meeting. Now let's listen to the scene once more from start to finish."),
 ]

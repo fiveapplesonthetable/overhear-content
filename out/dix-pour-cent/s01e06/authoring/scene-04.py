@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Drop it, forget about it.' Francois cuts the conversation short and refuses to listen."),
     (11, None, "'François, help me understand! Why are you afraid of water?' Andrea begs him to explain what is really going on."),
     (12, None, "'What is it? Come on, tell me!' She urges him to open up and tell the truth."),
-    (13, None, "'I do not know how to swim.' Francois finally confesses the childhood secret he has kept hidden for decades."),
+    (13, None, "'I do not know how to swim.' Francois finally confesses the childhood secret he has kept hidden for decades. Now let's listen to the entire dialogue once more from beginning to end."),
 ]

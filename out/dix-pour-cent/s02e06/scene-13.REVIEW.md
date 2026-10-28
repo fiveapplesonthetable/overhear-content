@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Jean-Denis | Je peux aider pour le financement. | I can help with the financing. | #316: aider pour le financement | verbatim |
 | 15 | Andréa | Lundi, c'est parfait pour nous! | Monday is perfect for us! | #322: Lundi, c'est parfait | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Juliette, I am with Jean-Denis Gillières.' Andrea calls her client from the hotel lobby.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let us have lunch on my boat on Monday.' Gillieres proposes an exclusive meeting on his yacht.
 - 'It will be calm and very pleasant.' The wealthy mogul promises a secluded setting.
 - 'I can help with the financing.' Gillieres dangles financial backing for her movie project.
-- 'Monday is perfect for us!' Andrea eagerly agrees, knowing Juliette leaves Cannes on Sunday.
+- 'Monday is perfect for us!' Andrea eagerly agrees, knowing Juliette leaves Cannes on Sunday. Now listen to the whole scene again at normal speed, and see how much more you catch.

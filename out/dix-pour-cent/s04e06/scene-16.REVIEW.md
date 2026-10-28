@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Élise | J'ai trois enfants à nourrir, Andréa. | I have three children to feed, Andrea. | #736: J'ai trois enfants | verbatim |
 | 3 | Andréa | Alors viens me parler franchement maintenant. | Then come speak to me frankly now. | #741: Qu'est-ce que tu veux | verbatim |
 | 4 | Élise | Qu'est-ce que tu veux de moi? | What do you want from me? | #741: Qu'est-ce que tu veux | verbatim |
-| 5 | Andréa | Tu bloques le film de Beauvois! | You are blocking Beauvois | #746: bloques le financement du film de Beauvois | verbatim |
+| 5 | Andréa | Tu bloques le film de Beauvois! | You are blocking Beauvois's film! | #746: bloques le financement du film de Beauvois | verbatim |
 | 6 | Élise | Igor est libre de choisir ses projets. | Igor is free to choose his projects. | #745: Igor | verbatim |
 | 7 | Andréa | Tu manipules Igor contre notre agence. | You are manipulating Igor against our agency. | #746: bloques le financement | verbatim |
 | 8 | Élise | Ce scénario est trop sombre et risqué. | This script is too dark and risky. | #746: bloques le financement | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Élise | Alors Igor devra revoir sa position. | Then Igor will have to review his position. | #745: Igor | verbatim |
 | 13 | Andréa | Ne sous-estime jamais notre détermination, Élise. | Never underestimate our determination, Elise. | #746: bloques le financement | verbatim |
 | 14 | Élise | Nous verrons qui gagne cette bataille. | We will see who wins this battle. | #746: bloques le financement | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

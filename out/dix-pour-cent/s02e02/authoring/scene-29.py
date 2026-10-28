@@ -18,7 +18,7 @@ CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('noemie', "Mathias! Qu'est-ce que tu fais là?", 'Mathias! What are you doing here?', [(943, 'Mathias'), (943, "Qu'est-ce que tu fais là")], ''),
     ('noemie', 'Oh, je suis tellement désolée...', 'Oh, I am so sorry...', [(944, 'Oh, je suis tellement désolée')], ''),
-    ('mathias', 'Laisse, Noémie.', 'Don', [(947, 'Laisse, Noémie')], ''),
+    ('mathias', 'Laisse, Noémie.', "Don't worry, Noémie.", [(947, 'Laisse, Noémie')], ''),
     ('noemie', "J'étais tellement inquiète.", 'I was so worried.', [(948, "J'étais tellement inquiète")], ''),
     ('noemie', "J'ai appelé tous les hôpitaux, puis les pompiers.", 'I called all the hospitals, then the firefighters.', [(949, "J'ai appelé tous les hôpitaux, puis les pompiers")], ''),
     ('noemie', 'Tu dois me prendre pour une folle.', 'You must take me for a crazy person.', [(951, 'Tu dois me prendre pour une folle')], ''),
@@ -31,7 +31,7 @@ STORY = [
     ('serveur', "Je n'ai jamais vu ça!", 'I have never seen that!', [(963, "Je n'ai jamais vu ça")], ''),
     ('mathias', 'Chut!', 'Hush!', [(966, 'Chut')], ''),
     ('noemie', 'Oh, Mathias...', 'Oh, dear Mathias...', [(967, 'Oh, Mathias')], ''),
-    ('mathias', 'Le grand frisson. Allons-y, maintenant.', 'The big thrill. Let', [(970, 'Le grand frisson'), (971, 'Allons-y, maintenant')], ''),
+    ('mathias', 'Le grand frisson. Allons-y, maintenant.', "The big thrill. Let's go now.", [(970, 'Le grand frisson'), (971, 'Allons-y, maintenant')], ''),
 ]
 WALK = [
     (0, None, "'Mathias! What are you doing here?' Noemie is stunned to see Mathias at the restaurant."),
@@ -45,9 +45,9 @@ WALK = [
     (8, None, "'I told her we had an agreement for her contract.' She explains that she told Nathalie Baye the contract terms were settled."),
     (9, None, "'Yes, thank you.' Mathias thanks his loyal assistant for managing the client."),
     (10, None, "'I have seen all sorts of things. But not like you.' The waiter remarks that in all his years, he has never seen a pair quite like them."),
-    (11, None, "'Lovers pretending to toast instead of kissing?' The phrase 'faire semblant de' means to pretend."),
+    (11, None, "'Lovers pretending to toast instead of kissing?' This phrase 'faire semblant de' means to pretend."),
     (12, None, "'I have never seen that!' The negation 'ne..."),
     (13, None, "'Hush!' Mathias shushes the chatty waiter with a quiet interjection."),
     (14, None, "'Oh, dear Mathias...' Noemie gazes at Mathias with fond affection."),
-    (15, None, "'The big thrill. Let's go now.' The imperative 'allons-y' urges them to leave together."),
+    (15, None, "'The big thrill. Let's go now.' The imperative 'allons-y' urges them to leave together. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

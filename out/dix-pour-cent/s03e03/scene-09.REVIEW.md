@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Assistante de casting | Ne rentrez pas le ventre pendant la mesure. | Do not suck in your stomach during the measurement. | new | new |
 | 14 | Samy | Merci beaucoup pour votre accueil. | Thank you very much for your welcome. | #412: Merci. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here I am, let me introduce myself to you.' The candidate opens his audition.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Please lower your arms.' The assistant gives posing directions.
 - 'I am taking your measurements quickly.' The assistant works efficiently with the measuring tape.
 - 'Do not suck in your stomach during the measurement.' The assistant instructs him on natural posture.
-- 'Thank you very much for your welcome.' The candidate concludes politely.
+- 'Thank you very much for your welcome.' The candidate concludes politely. Now let's listen to the entire dialogue once more to lock in what you have learned.

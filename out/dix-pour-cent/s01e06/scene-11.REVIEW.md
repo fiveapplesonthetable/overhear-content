@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Hippolyte | Tu es ma sœpote et je suis ton frote! | You are my sister-buddy and I am your brother-buddy! | #300: suis<br>#300: suis | verbatim |
 | 16 | Camille | Tchin, frote! | Cheers, brother-buddy! | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is my father there?' Hippolyte checks whether Mathias is at ASK.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Our father! It is so weird.' Camille marvels at how strange it feels to say 'our father' out loud.
 - 'We are just going to forget about that and become friends.' Hippolyte suggests putting the family drama aside and simply becoming friends.
 - 'You are my sister-buddy and I am your brother-buddy!' They invent playful nicknames blending 'sister' and 'brother' with the slang word for buddy.
-- 'Cheers, brother-buddy!' Camille clinks her coffee cup against his to toast their new friendship.
+- 'Cheers, brother-buddy!' Camille clinks her coffee cup against his to toast their new friendship. Now listen to their cafe conversation once more from start to finish.

@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Right, sneak out the back with him.' Andrea gives clear tactical escape directions."),
     (12, None, "'I am sending you a taxi right now.' Camille arranges a swift getaway car."),
     (13, None, "'Thank you very much, Camille!' Sacha expresses heartfelt relief at her quick thinking."),
-    (14, None, "'I am getting into this taxi.' The director safely steps into the vehicle."),
+    (14, None, "'I am getting into this taxi.' The director safely steps into the vehicle. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'We can go to town hall tomorrow!' Mathias eagerly suggests making the declaration immediately."),
     (11, None, "'Can we download the form now?' Camille suggests preparing the paperwork right away."),
     (12, None, "'You are right, sit down at my desk!' Mathias invites her to use his personal computer."),
-    (13, None, "'Shall we drink to it? I will get something to drink!' Mathias heads to the kitchen to celebrate the moment."),
+    (13, None, "'Shall we drink to it? I will get something to drink!' Mathias heads to the kitchen to celebrate the moment. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

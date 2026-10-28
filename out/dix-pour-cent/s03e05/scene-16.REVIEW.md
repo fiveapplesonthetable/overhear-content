@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Noémie | Vous pouvez déposer le matériel dans la rue. | You can drop off the equipment in the street. | new | new |
 | 13 | Noémie | Je vous en prie, à tout à l'heure! | You are welcome, see you shortly! | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Noemie, I am looking for my dear Camille.' Valentin stops by the reception desk.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But delivery spots are free.' Noemie points out designated loading zones.
 - 'They are located right downstairs.' Noemie directs the driver to the street below.
 - 'You can drop off the equipment in the street.' Noemie guides the delivery team.
-- 'You are welcome, see you shortly!' Noemie concludes the logistical call politely.
+- 'You are welcome, see you shortly!' Noemie concludes the logistical call politely. Now let's listen to the entire dialogue once more to lock in what you have learned.

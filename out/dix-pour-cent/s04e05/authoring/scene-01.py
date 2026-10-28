@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You will hate this long trip.' Andrea sighs at the prospect of subjecting an infant to the noisy morning rush."),
     (11, None, "'The journey takes more than an hour!' Andrea calculates that subway connections to the airport will take far too long."),
     (12, None, "'What do I do now?' Andrea experiences a moment of acute professional and parental despair."),
-    (13, None, "'I must call Camille for help.' Andrea resolves to contact her junior agent Camille to greet the star on time."),
+    (13, None, "'I must call Camille for help.' Andrea resolves to contact her junior agent Camille to greet the star on time. Now let's listen to Andrea's morning dilemma once more from start to finish."),
 ]

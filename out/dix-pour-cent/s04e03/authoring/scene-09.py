@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'What did she say about me?' Jose eagerly asks about his co-star's reaction."),
     (11, None, "'She did not go to the hotel!' Andrea reveals that Laurence also skipped the secret date."),
     (12, None, "'She stood me up too?' Jose is stunned to discover their mutual failure to meet."),
-    (13, None, "'Yes, you are both even now!' Andrea smiles and tells him that neither holds a grudge."),
+    (13, None, "'Yes, you are both even now!' Andrea smiles and tells him that neither holds a grudge. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

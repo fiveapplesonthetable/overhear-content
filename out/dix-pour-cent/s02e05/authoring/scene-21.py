@@ -34,7 +34,7 @@ STORY = [
 WALK = [
     (0, None, "'What are you doing here, Andréa?' Hicham stops his jogging to question her unexpected presence."),
     (1, None, "'Wait just one little minute.' Andrea urgently asks for a moment of his undivided attention."),
-    (2, None, "'I am doing my last lap.' The executive explains that he is concluding his workout."),
+    (2, None, "'I am doing my last lap.' Hicham concludes his workout."),
     (3, None, "'I must ask you something.' She insists that she has an important topic to bring up."),
     (4, None, "'Can we have a drink together?' Hicham proposes meeting more casually over drinks."),
     (5, None, "'Why should we see each other?' Andrea remains skeptical of his motives after their past encounter."),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'What? Are you really serious?' Stunned by the revelation, he struggles to process the news."),
     (11, None, "'I absolutely had to tell you.' She feels an ethical responsibility to inform the father."),
     (12, None, "'Are four minutes enough for you?' He abruptly pivots to managing the conversation within his schedule."),
-    (13, None, "'Yes, that is more than enough.' Andrea accepts the brief window to outline her stance."),
+    (13, None, "'Yes, that is more than enough.' Andrea accepts the brief window to outline her stance. Now let's listen to the entire exchange once more from beginning to end."),
 ]

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Oui, personne ne doit savoir cela. | Yes, nobody must know that. | #634: Ultra confidentiel, hein | verbatim |
 | 14 | Renard | Je garde le secret absolu. | I keep absolute secrecy. | #636: Je peux compter sur toi | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Are you alright, Renard?' Mathias greets the security guard.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Notify me as soon as they arrive downstairs.' Mathias gives clear orders.
 - 'Does this matter stay strictly confidential?' Renard checks the required level of discretion.
 - 'Yes, nobody must know that.' Mathias confirms the need for total discretion.
-- 'I keep absolute secrecy.' Renard promises complete loyalty and confidentiality.
+- 'I keep absolute secrecy.' Renard promises complete loyalty and confidentiality. Now let's listen to the complete discussion once more to reinforce the vocabulary.

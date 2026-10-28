@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'Hicham is the shareholder of ASK.' Andrea clarifies their professional connection."),
     (14, None, "'I must get going now.' Colette decides to cut the awkward encounter short."),
     (15, None, "'Have a good evening, both of you.' Hicham bids them farewell and steps away."),
-    (16, None, "'Tell me, is he the father?' Colette directly voices her sudden and accurate suspicion."),
+    (16, None, "'Tell me, is he the father?' Colette directly voices her sudden and accurate suspicion. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

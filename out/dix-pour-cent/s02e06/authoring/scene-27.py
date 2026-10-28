@@ -23,7 +23,7 @@ STORY = [
     ('andrea', "Tu m'as beaucoup manqué ces derniers jours.", 'I missed you very much these past days.', [(770, "-Tu m'as manqué. -Vraiment ?")], ''),
     ('camille', "C'est vrai? Tu m'as manqué aussi.", 'Is that true? I missed you too.', [(770, "-Tu m'as manqué. -Vraiment ?")], ''),
     ('andrea', "Et c'est quoi ces drôles de chaussures?", 'And what are these funny shoes?', [(772, "-C'est quoi ces chaussures ? -Oui, je l'avoue !")], ''),
-    ('camille', 'Ce sont les chaussures de ma mère!', 'These are my mother', [(773, 'Ce sont celles de ma mère.')], ''),
+    ('camille', 'Ce sont les chaussures de ma mère!', "These are my mother's shoes!", [(773, 'Ce sont celles de ma mère.')], ''),
     ('andrea', 'Dis-moi, tu connais la ville de New York?', 'Tell me, do you know the city of New York?', [(774, 'Tu connais New York ?')], ''),
     ('camille', "Pas du tout, je n'y suis jamais allée.", 'Not at all, I have never been there.', [(775, 'Non. Enfin, si, bien sûr.'), (776, "-Mais je n'y suis jamais allée. -Tu parles anglais ?")], ''),
     ('andrea', 'Veux-tu venir à New York avec moi?', 'Do you want to come to New York with me?', [(777, 'Tu veux venir à New York avec moi,')], ''),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'They are offering me a position at UBA.' Andrea discloses the confidential offer from the international agency."),
     (12, None, "'I will definitely need an assistant over there.' Andrea makes clear that she trusts no one else by her side."),
     (13, None, "'Yes, of course, that is completely crazy!' Camille reacts with joyous shock at the incredible prospect."),
-    (14, None, "'Perfect, we will discuss it very soon together.' Andrea seals the partnership with optimistic confidence."),
+    (14, None, "'Perfect, we will discuss it very soon together.' Andrea seals the partnership with optimistic confidence. Now let's listen to the scene once more from start to finish."),
 ]

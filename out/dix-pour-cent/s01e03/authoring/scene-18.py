@@ -16,23 +16,23 @@ TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Laura's diva act works like a charm: soon after, Gabriel leaves a delighted voicemail on her phone to say that Solveig Akerfelt found her 'too beautiful for the part', a polite excuse because they don't want a prima donna. See you next time!"
 CLOSING = ('laura', 'À demain!')
 STORY = [
-    ('solveig', "C'est l'isolement de la mère et de la fille qui m'intéresse.", 'It', [(457, "C'est l'isolement de la mère et de la fille qui m'intéresse")], ''),
+    ('solveig', "C'est l'isolement de la mère et de la fille qui m'intéresse.", "It's the isolation of the mother and the daughter that interests me.", [(457, "C'est l'isolement de la mère et de la fille qui m'intéresse")], ''),
     ('solveig', "Et leur relation intense sur l'île.", 'And their intense relationship on the island.', [(458, "leur relation intense sur l'île")], ''),
-    ('solveig', "C'est une bombe à retardement.", 'It', [(459, "C'est une bombe à retardement")], ''),
-    ('laura', "Oui. C'est ce que je pensais.", 'Yes. That', [(460, 'Oui'), (461, "C'est ce que je pensais")], ''),
-    ('solveig', "C'est de l'intimité pure.", 'It', [(462, "C'est de l'intimité pure")], ''),
-    ('laura', "J'avais demandé du thé. Du thé à la fleur d'Himalaya.", 'I had asked for tea. Himalayan flower tea.', [(464, "J'avais demandé du thé"), (465, "Du thé à la fleur d'Himalaya")], ''),
+    ('solveig', "C'est une bombe à retardement.", "It's a time bomb.", [(459, "C'est une bombe à retardement")], ''),
+    ('laura', "Oui. C'est ce que je pensais.", "Yes. That's what I thought.", [(460, 'Oui'), (461, "C'est ce que je pensais")], ''),
+    ('solveig', "C'est de l'intimité pure.", "It's pure intimacy.", [(462, "C'est de l'intimité pure")], ''),
+    ('laura', "J'avais demandé du thé. Du thé à la fleur d'Himalaya.", 'Himalayan flower tea.', [(464, "J'avais demandé du thé"), (465, "Du thé à la fleur d'Himalaya")], ''),
     ('laura', "Hervé, s'il te plaît! Je veux mon thé.", 'Hervé, please! I want my tea.', [(467, "Hervé, s'il te plaît"), (468, 'veut du thé')], ''),
     ('herve', 'Votre thé, Madame Laura.', 'Your tea, Miss Laura.', [(470, 'Votre thé'), (470, 'Laura')], ''),
     ('herve', "Avec une goutte de lait d'amande, comme vous l'aimez.", 'With a drop of almond milk, as you like it.', [(471, "Avec une goutte de lait d'amande, comme vous l'aimez")], ''),
     ('laura', 'Pas infusé trop longtemps?', 'Not brewed for too long?', [(472, 'Pas infusé trop longtemps')], ''),
-    ('herve', "C'était la dernière fois, je suis désolé.", 'That was last time, I', [(473, "C'était la dernière fois, je suis désolé")], ''),
+    ('herve', "C'était la dernière fois, je suis désolé.", "That was last time, I'm sorry.", [(473, "C'était la dernière fois, je suis désolé")], ''),
     ('solveig', 'Vous avez terminé?', 'Have you finished?', [(474, 'Vous avez terminé')], ''),
     ('laura', 'Bien sûr.', 'Of course.', [(475, 'Bien sûr')], ''),
     ('laura', 'Pharrell? Pharrell Williams!', 'Pharrell? Oh, Pharrell Williams!', [(476, 'Pharrell'), (477, 'Pharrell Williams')], ''),
-    ('laura', "Vous pouvez? C'est à neuf heures.", 'Can you make it? It', [(478, 'Vous pouvez'), (479, "C'est à neuf heures")], ''),
+    ('laura', "Vous pouvez? C'est à neuf heures.", "Can you make it? It's at nine o'clock.", [(478, 'Vous pouvez'), (479, "C'est à neuf heures")], ''),
     ('laura', "J'avais une répétition avec John Malkovich ce soir?", 'Did I have a rehearsal with John Malkovich tonight?', [(480, "J'avais une répétition avec John Malkovich ce soir")], ''),
-    ('laura', 'Dis que je suis malade, que je ne peux pas venir.', 'Say that I', [(482, 'Dis que je suis malade, que je ne peux pas venir')], ''),
+    ('laura', 'Dis que je suis malade, que je ne peux pas venir.', "Say that I'm ill, that I can't come.", [(482, 'Dis que je suis malade, que je ne peux pas venir')], ''),
 ]
 WALK = [
     (0, None, "'It's the isolation of the mother and the daughter that interests me.' Notice the frame 'it is ..."),
@@ -52,5 +52,5 @@ WALK = [
     (13, None, "'Pharrell? Oh, Pharrell Williams!' She pretends a world-famous singer is calling her on her mobile."),
     (14, None, "'Can you make it? It's at nine o'clock.' Literally 'You can? It is at nine hours.'"),
     (15, None, "'Did I have a rehearsal with John Malkovich tonight?' She turns to Gabriel to drop another famous name."),
-    (16, None, "'Say that I'm ill, that I can't come.' A casual command at the start: 'say'. Cancelling a rehearsal for a party is the final straw for Solveig. Now let's hear Laura's whole audition again."),
+    (16, None, "'Say that I'm ill, that I can't come.' Laura starts with a casual command: 'say'. Cancelling a rehearsal for a party is the final straw for Solveig."),
 ]

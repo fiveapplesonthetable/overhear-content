@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Camille | Oui, l'agence s'appelle UBA. | Yes, the agency is called UBA. | #848: UBA | verbatim |
 | 15 | Hicham | C'est une opportunité très tentante. | It is a very tempting opportunity. | #844: C'est trop tentant | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Gabriel, I need to talk to you.' Camille tries to deliver her exciting career news.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I prefer going to New York with Andréa.' Camille declines in favor of an international adventure.
 - 'Working for that American agency?' Hicham inquires about the famous talent representation firm.
 - 'Yes, the agency is called UBA.' Camille names the prestigious international agency.
-- 'It is a very tempting opportunity.' Hicham nods in respect of her ambitious choice.
+- 'It is a very tempting opportunity.' Hicham nods in respect of her ambitious choice. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -11,12 +11,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Mathias | Sofia a auditionné pour beaucoup de rôles. | Sofia has auditioned for many roles. | #254: Sofia a auditionné pour beaucoup de rôles. | verbatim |
-| 2 | Gabriel | Alors je l'aide, c'est le travail d'un agent. | So I am helping her, that is an agent | #256: Alors je l'aide,<br>#257: c'est le travail d'un agent. | verbatim |
+| 2 | Gabriel | Alors je l'aide, c'est le travail d'un agent. | So I am helping her, that is an agent's job. | #256: Alors je l'aide,<br>#257: c'est le travail d'un agent. | verbatim |
 | 3 | Mathias | Mais tu vas beaucoup trop loin. | But you are going much too far. | #258: Mais tu vas trop loin. | verbatim |
 | 4 | Mathias | Cette Sofia travaille à l'accueil de l'agence? | This Sofia works at the agency reception? | #263: Cette Sofia travaille à l'accueil ? | verbatim |
 | 5 | Gabriel | Oui, et c'est une excellente comédienne. | Yes, and she is an excellent actress. | #264: C'est une actrice ?<br>#264: Oui. | verbatim |
 | 6 | Mathias | Tu es son agent, et tu es son amant. | You are her agent, and you are her lover. | #265: Tu es son agent.<br>#266: Et son amant. | verbatim |
-| 7 | Gabriel | Ça ne regarde personne, Mathias. | That is nobody | #266: Ça ne regarde personne, Mathias. | verbatim |
+| 7 | Gabriel | Ça ne regarde personne, Mathias. | That is nobody's business, Mathias. | #266: Ça ne regarde personne, Mathias. | verbatim |
 | 8 | Mathias | Il faut que cette situation s'arrête tout de suite. | This situation must stop right away. | #267: Il faut que ça s'arrête. | verbatim |
 | 9 | Mathias | Fais ce que tu veux, mais ne la représente pas. | Do what you want, but do not represent her. | #269: Fais ce que tu veux avec elle<br>#270: mais ne la représente pas. | verbatim |
 | 10 | Gabriel | Je fais ce que je veux avec mes clients. | I do what I want with my clients. | #272: Je fais ce que je veux avec mes clients. | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Gabriel | Des couples légendaires travaillaient ensemble. | Legendary couples worked together. | #284: Des couples légendaires qui travaillaient ensemble. | verbatim |
 | 15 | Andréa | L'un battait sa femme, l'autre a été assassiné. | One beat his wife, the other was murdered. | #285: L'un battait sa femme,<br>#287: le troisième a été assassiné. | verbatim |
 | 16 | Gabriel | Je suis complètement à bout avec cette histoire. | I am completely exhausted with this story. | #289: Je suis à bout. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is not good for a couple to work together.' Andrea warns of the emotional friction.
 - 'Legendary couples worked together.' Gabriel tries to cite historical precedents.
 - 'One beat his wife, the other was murdered.' Andrea swiftly dismantles his romanticized examples.
-- 'I am completely exhausted with this story.' Gabriel confesses his frustration under the pressure.
+- 'I am completely exhausted with this story.' Gabriel confesses his frustration under the pressure. Now let's listen to the entire dialogue once more to lock in what you have learned.

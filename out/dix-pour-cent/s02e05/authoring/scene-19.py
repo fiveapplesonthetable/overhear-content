@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Thanks for coming today, Arlette Davidson.' Guy repeats her affectionate nickname."),
     (13, None, "'I will always be there for my friends.' Arlette reaffirms her enduring loyalty."),
     (14, None, "'Now, I can return to filming peacefully.' Guy feels calm and focused again."),
-    (15, None, "'Go on, Guy, show them your immense talent!' Arlette sends him off with strong encouragement."),
+    (15, None, "'Go on, Guy, show them your immense talent!' Arlette sends him off with strong encouragement. Now let's listen to the fond conversation once more at natural pace."),
 ]

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Sigourney | Attendez, d'abord on signe les contrats! | Wait, first we sign the contracts! | #803: Attendez<br>#804: D'abord, on signe les contrats | verbatim |
 | 14 | Le distributeur | Oui, bien sûr, c'est une bonne idée. | Yes, of course, that is a good idea. | #805: Bonne idée<br>#806: Bien sûr | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'He has lunch here every day!' Sigourney enters the restaurant and spots their target immediately.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Look, the whole restaurant loves the idea!' Several guests share their own age-gap romances in support.
 - 'Well, all right, it is very credible!' Outnumbered by the enthusiastic diners, the distributor relents.
 - 'Wait, first we sign the contracts!' Sigourney makes sure to lock in the deal on the spot.
-- 'Yes, of course, that is a good idea.' The distributor takes out his pen to sign the agreement.
+- 'Yes, of course, that is a good idea.' The distributor takes out his pen to sign the agreement. Now let's listen to the complete discussion once more to reinforce the vocabulary.

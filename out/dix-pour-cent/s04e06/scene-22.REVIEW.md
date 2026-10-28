@@ -17,13 +17,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Andréa | Je pars de l'agence. | I am leaving the agency. | #925: Je pars. | verbatim |
 | 6 | Jean | Tu quittes ce métier? | Are you quitting this job? | #927: Tu pars ? | verbatim |
 | 7 | Andréa | Oui, je m'en vais définitivement. | Yes, I am leaving definitively. | #928: Je pars.<br>#929: et c'est moi qui m'en vais. | verbatim |
-| 8 | Jean | C'est une vie de chien. | It is a dog | #931: Le métier d'agent, c'est vraiment une vie de chien. | verbatim |
+| 8 | Jean | C'est une vie de chien. | It is a dog's life. | #931: Le métier d'agent, c'est vraiment une vie de chien. | verbatim |
 | 9 | Andréa | Mais toi, tu dois continuer. | But you, you must go on. | #932: Je pars, mais toi tu dois continuer. | verbatim |
 | 10 | Jean | Seulement si le film se fait! | Only if the movie happens! | #933: Si le Beauvois se fait. | verbatim |
 | 11 | Andréa | Élise Formain est une femme redoutable. | Elise Formain is a formidable woman. | #935: Tu connais Élise Formain ? | verbatim |
 | 12 | Jean | Ne t'inquiète pas pour moi. | Do not worry about me. | #935: Tu connais Élise Formain ? | verbatim |
 | 13 | Andréa | Prends bien soin de ton talent. | Take good care of your talent. | #932: tu dois continuer. | verbatim |
 | 14 | Jean | Bonne chance pour ta nouvelle vie! | Good luck for your new life! | #918: Pour vous remercier | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Elise Formain is a formidable woman.' Andrea warns him about rival management.
 - 'Do not worry about me.' Jean reassures her with his veteran wisdom.
 - 'Take good care of your talent.' Andrea gives her final parting wish as an agent.
-- 'Good luck for your new life!' Jean raises a glass to her brave next chapter.
+- 'Good luck for your new life!' Jean raises a glass to her brave next chapter. Now let's listen to the complete discussion once more to reinforce the vocabulary.

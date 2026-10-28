@@ -17,15 +17,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Mathias | Noémie, retournez au bureau, s'il vous plaît. | Noémie, please return to the office. | #457: Retournez au bureau, s'il vous plaît | verbatim |
 | 6 | Noémie | Très bien, je vous laisse. | Very well, I will leave you. | #457: D'accord | verbatim |
 | 7 | Mathias | Ce déjeuner n'était pas prévu ainsi. | This lunch was not planned this way. | #451: Je n'avais pas prévu de le voir | verbatim |
-| 8 | Catherine | Ce n'est rien, je m'assieds avec vous. | It | #459: Ne t'inquiète pas, c'est pas ta faute | verbatim |
+| 8 | Catherine | Ce n'est rien, je m'assieds avec vous. | It's nothing, I'll sit with you. | #459: Ne t'inquiète pas, c'est pas ta faute | verbatim |
 | 9 | Mathias | Tu veux commander à manger? | Do you want to order something to eat? | #460: Vous êtes trois ? Quatre ? Pour déjeuner ? | verbatim |
 | 10 | Catherine | Non, juste un café, s'il vous plaît. | No, just a coffee, please. | #461: Non... non<br>#462: Un café, s'il vous plaît | verbatim |
 | 11 | Mathias | Pourquoi tu es venue ici exactement? | Why did you come here exactly? | #455: C'est à propos de Christophe Lambert | verbatim |
 | 12 | Catherine | Je voulais faire la connaissance d'Annick. | I wanted to meet Annick. | #453: Enchantée. Annick Valentini | verbatim |
 | 13 | Mathias | Tu cherches à me provoquer? | Are you trying to provoke me? | #456: Pardon ? Euh... non | verbatim |
 | 14 | Catherine | Pas du tout, nous sommes civilisés. | Not at all, we are civilized. | #458: C'est moi qui ai proposé ce déjeuner | verbatim |
-| 15 | Mathias | Alors soyons calmes devant tout le monde. | Then let | #459: Ne t'inquiète pas | verbatim |
-| 16 | Catherine | Parfait. Buvons notre café. | Perfect. Let | #463: Un café, voilà | verbatim |
+| 15 | Mathias | Alors soyons calmes devant tout le monde. | Then let's be calm in front of everyone. | #459: Ne t'inquiète pas | verbatim |
+| 16 | Catherine | Parfait. Buvons notre café. | Perfect. Let's drink our coffee. | #463: Un café, voilà | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you trying to provoke me?' Mathias suspects her hostile motives.
 - 'Not at all, we are civilized.' Catherine feigns polite innocence.
 - 'Then let's be calm in front of everyone.' Mathias pleads for discretion.
-- 'Perfect. Let's drink our coffee.' Catherine takes control of the table.
+- 'Perfect. Let's drink our coffee.' Catherine takes control of the table. Now let's listen to the icy encounter at Le Grand Colbert once more.

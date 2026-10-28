@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'See you later.' Gabriel adds politely."),
     (11, None, "'Yes, see you later.' Herve replies from the door."),
     (12, None, "'Good work.' Gabriel calls out finally."),
-    (13, None, "'Goodbye.' Herve finishes. Now let's hear the whole thing."),
+    (13, None, "'Goodbye.' Herve finishes."),
 ]

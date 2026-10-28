@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Mathias | Une comédie romantique. | A romantic comedy. | #464: Une comédie romantique | verbatim |
 | 16 | Camille | Une comédie romantique, c'est déjà pas mal! | A romantic comedy is not bad at all! | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Gabriel, Mathias is in his office.' Camille points Gabriel toward the corner office.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Once reconciled, I will have both again.' Mathias jokes that once Catherine takes him back, he will have both.
 - 'When does a real relationship begin, then?' Gabriel asks when a real relationship actually begins, in Mathias's view.
 - 'A romantic comedy.' Mathias calls the carefree early stage of love a romantic comedy.
-- 'A romantic comedy is not bad at all!' Overhearing them, Camille smiles that a romantic comedy is already pretty good.
+- 'A romantic comedy is not bad at all!' Overhearing them, Camille smiles that a romantic comedy is already pretty good. Now listen to the conversation once more without interruption.

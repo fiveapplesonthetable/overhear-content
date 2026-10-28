@@ -35,13 +35,13 @@ STORY = [
 ]
 WALK = [
     (0, None, "'I do not want to see her.' Ramzy refuses flatly to see Virginie."),
-    (1, None, "'Interviews, photos for the film, it is out of the question.' A useful everyday idiom for an absolute refusal."),
+    (1, None, "'Interviews, photos for the film, it is out of the question.' Ramzy uses a common everyday idiom for an absolute refusal."),
     (2, None, "'Without promotion, the film is going to be a failure.' Mathias warns about the financial stakes with near future."),
-    (3, None, "'It is bad for everyone.' The adjective for bad followed by a preposition."),
-    (4, None, "'What she did is unforgivable.' A relative clause followed by a strong negative adjective."),
+    (3, None, "'It is bad for everyone.' Mathias warns Ramzy that the scandal is bad for everyone."),
+    (4, None, "'What she did is unforgivable.' Ramzy declares that what she did is unforgivable."),
     (5, None, "'That depends on your school of thought.' Mathias switches to philosophical persuasion."),
     (6, None, "'What school of thought?' Ramzy asks sceptically with an interrogative determiner."),
-    (7, None, "'Your body belongs to you. You do not own someone.' Two core principles of modern autonomy."),
+    (7, None, "'Your body belongs to you. You do not own someone.' Mathias states two core principles of personal autonomy."),
     (8, None, "'Infidelity does not really exist.' Mathias tries to philosophicalize that infidelity does not really exist."),
     (9, None, "'You could promote peace and progress!' Mathias argues grandly that forgiving Virginie would promote peace and progress."),
     (10, None, "'No! Not at all!' Ramzy rejects the argument completely."),

@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'You know what? Forget it.' Andrea pretends to abandon the negotiation."),
     (13, None, "'Who cares what Adjani thinks?' Andrea dismisses the actress to provoke his competitive instinct."),
     (14, None, "'I am going to see her, we are going to clear things up.' Sacha resolves to confront the star directly."),
-    (15, None, "'Of course, you are the one who decides.' Andrea seals her psychological triumph smoothly."),
+    (15, None, "'Of course, you are the one who decides.' Andrea seals her psychological triumph smoothly. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

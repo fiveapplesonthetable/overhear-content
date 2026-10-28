@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Qu'est-ce que je fais maintenant? | What do I do now? | #16: Qu'est-ce que je fais maintenant ? | verbatim |
 | 14 | Andréa | Je dois appeler Camille au secours. | I must call Camille for help. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'No baby seat, no taxi!' The taxi driver firmly explains that safety regulations forbid transporting babies without proper seats.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You will hate this long trip.' Andrea sighs at the prospect of subjecting an infant to the noisy morning rush.
 - 'The journey takes more than an hour!' Andrea calculates that subway connections to the airport will take far too long.
 - 'What do I do now?' Andrea experiences a moment of acute professional and parental despair.
-- 'I must call Camille for help.' Andrea resolves to contact her junior agent Camille to greet the star on time.
+- 'I must call Camille for help.' Andrea resolves to contact her junior agent Camille to greet the star on time. Now let's listen to Andrea's morning dilemma once more from start to finish.

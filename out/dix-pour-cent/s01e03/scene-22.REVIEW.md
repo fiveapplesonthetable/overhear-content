@@ -12,22 +12,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Gabriel | Je me sens mal pour Nathalie. | I feel bad for Nathalie. | #556: Je me sens mal pour Nathalie | verbatim |
 | 2 | Andréa | Comment ça s'est passé avec Laura Smet? | How did it go with Laura Smet? | #557: comment ça s'est passé<br>#557: avec Laura Smet | verbatim |
-| 3 | Gabriel | Bien. Pas mal. Je n'ai pas encore de réponse. | Fine. Not bad. I don | #558: Bien<br>#559: Pas mal<br>#560: de réponse | verbatim |
-| 4 | Andréa | Elle ne veut pas de Nathalie Baye. | She doesn | #562: Elle ne veut pas de Nathalie Baye | verbatim |
-| 5 | Gabriel | Ce n'est pas possible! | That | #562: pas possible | verbatim |
-| 6 | Andréa | Akerfelt n'a pas aimé son essai. Ils sont complètement fous? | Akerfelt didn't like her audition. Are they completely crazy? | #565: Akerfelt n'a pas aimé<br>#566: Ils sont complètement fous | verbatim |
-| 7 | Gabriel | C'est dur. Ce n'est pas bon pour l'agence. | That | #568: C'est dur<br>#569: pour l'agence | verbatim |
+| 3 | Gabriel | Bien. Pas mal. Je n'ai pas encore de réponse. | Fine. Not bad. I don't have an answer yet. | #558: Bien<br>#559: Pas mal<br>#560: de réponse | verbatim |
+| 4 | Andréa | Elle ne veut pas de Nathalie Baye. | She doesn't want Nathalie Baye. | #562: Elle ne veut pas de Nathalie Baye | verbatim |
+| 5 | Gabriel | Ce n'est pas possible! | That's not possible! | #562: pas possible | verbatim |
+| 6 | Andréa | Akerfelt n'a pas aimé son essai. Ils sont complètement fous? | Are they completely crazy? | #565: Akerfelt n'a pas aimé<br>#566: Ils sont complètement fous | verbatim |
+| 7 | Gabriel | C'est dur. Ce n'est pas bon pour l'agence. | That's tough. It's not good for the agency. | #568: C'est dur<br>#569: pour l'agence | verbatim |
 | 8 | Camille | Bonjour. Vous avez beaucoup d'appels. | Hello. You have lots of calls. | #571: Bonjour<br>#572: beaucoup d'appels | verbatim |
 | 9 | Camille | Isabelle Adjani a un problème de cheveux très urgent. | Isabelle Adjani has a very urgent hair problem. | #575: Isabelle Adjani a un problème de cheveux très urgent | verbatim |
 | 10 | Camille | On commence par qui? | Who do we start with? | #576: On commence par qui | verbatim |
 | 11 | Gabriel | Solveig Akerfelt. | Solveig Akerfelt. | #576: Solveig Akerfelt | verbatim |
-| 12 | Camille | Elle n'est pas sur ma liste. | She isn | #577: Elle n'est pas sur ma liste | verbatim |
-| 13 | Andréa | C'est méchant! Tu as fait faire un Bardot à Laura pour rien! | That's mean! You made Laura do a Bardot for nothing! | #578: C'est méchant<br>#579: Tu as fait faire un Bardot à Laura pour rien | verbatim |
+| 12 | Camille | Elle n'est pas sur ma liste. | She isn't on my list. | #577: Elle n'est pas sur ma liste | verbatim |
+| 13 | Andréa | C'est méchant! Tu as fait faire un Bardot à Laura pour rien! | You made Laura do a Bardot for nothing! | #578: C'est méchant<br>#579: Tu as fait faire un Bardot à Laura pour rien | verbatim |
 | 14 | Andréa | Sans Nathalie, Laura peut jouer la fille maintenant. | Without Nathalie, Laura can play the daughter now. | #580: Sans Nathalie, Laura peut jouer la fille maintenant | verbatim |
 | 15 | Camille | Je suis virée? | Am I fired? | #581: Je suis virée | verbatim |
-| 16 | Gabriel | Oui. Je suis désolé. | Yes. I | #581: Oui. Je suis désolé | verbatim |
+| 16 | Gabriel | Oui. Je suis désolé. | Yes. I'm sorry. | #581: Oui. Je suis désolé | verbatim |
 | 17 | Camille | Je suis vraiment virée? | Am I really fired? | #582: Je suis vraiment virée | verbatim |
-| 18 | Gabriel | Non, je fais un Bardot! | No, I | #583: Non, je fais un Bardot | verbatim |
+| 18 | Gabriel | Non, je fais un Bardot! | No, I'm doing a Bardot! | #583: Non, je fais un Bardot | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,7 +40,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That's not possible!' Standard negative around the verb 'is'. Now Gabriel realizes both actresses have lost their parts.
 - 'Akerfelt didn't like her audition.' The past tense made negative, with the two negative words wrapping around the helper verb 'has'.
 - 'Are they completely crazy?' The adjective at the end is in the masculine plural form.
-- 'That's tough. It's not good for the agency.' Two short sentences with 'it is' and 'it is not'.
+- 'That's tough. It's not good for the agency.' Gabriel speaks two short sentences with 'it is' and 'it is not'.
 - 'Hello. You have lots of calls.' Back at Andréa's desk, Camille reads out the morning messages using the polite 'you'.
 - 'Isabelle Adjani has a very urgent hair problem.' Notice how French links 'problem of hair' with the little word for 'of', and puts 'very urgent' at the end.
 - 'Who do we start with?' Literally 'we start by whom?', using the everyday word for 'we'.
@@ -50,4 +52,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Am I fired?' Here, Gabriel plays a grim joke on Camille, telling her she is fired, and poor Camille believes him.
 - 'Yes. I'm sorry.' He keeps a completely straight face.
 - 'Am I really fired?' Notice the word for 'really' placed right between 'am' and 'fired'.
-- 'No, I'm doing a Bardot!' He was just pretending, to let off steam, though Camille says her blood froze in her veins. Now let's hear the whole scene again from beginning to end.
+- 'No, I'm doing a Bardot!' He was just pretending, to let off steam, though Camille says her blood froze in her veins.

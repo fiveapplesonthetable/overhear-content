@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I do not know where to start.' Andrea admits feeling completely at a loss with dating."),
     (11, None, "'Trust me when it comes to love.' He poses as an experienced philosopher of romantic relationships."),
     (12, None, "'Shall we eat something now?' He suggests turning their attention to ordering food."),
-    (13, None, "'Yes, let us order a good dinner.' Andrea agrees happily to start their meal."),
+    (13, None, "'Yes, let us order a good dinner.' Andrea agrees happily to start their meal. Now let's listen to the entire exchange once more from beginning to end."),
 ]

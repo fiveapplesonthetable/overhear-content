@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | On va s'occuper de Flora ensemble. | We will take care of Flora together. | #848: Et puis on verra ensemble comment s'occuper de Flora. | verbatim |
 | 14 | Colette | Oui, nous serons toujours une famille. | Yes, we will always be a family. | #848: Et puis on verra ensemble comment s'occuper de Flora. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What is wrong with her suddenly?' Colette wonders why baby Flora is crying softly.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is better that we stop there.' Andrea makes the painful decision to end their relationship.
 - 'It is undoubtedly the best decision.' Colette nods in quiet agreement.
 - 'We will take care of Flora together.' Andrea confirms their lifelong parental commitment.
-- 'Yes, we will always be a family.' Colette confirms that their bond as co-parents remains unbroken.
+- 'Yes, we will always be a family.' Colette confirms that their bond as co-parents remains unbroken. Now let's listen to the complete discussion once more to reinforce the vocabulary.

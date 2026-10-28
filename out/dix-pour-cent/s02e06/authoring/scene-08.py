@@ -20,7 +20,7 @@ STORY = [
     ('writer', "C'est du très haut débit pour vous.", 'It is high-speed broadband for you.', [(158, 'Le très haut débit pour toute votre équipe.')], ''),
     ('herve', "Merci beaucoup, c'est vraiment très pratique.", 'Thank you very much, it is really very practical.', [(159, "Merci, c'est parfait.")], ''),
     ('writer', 'Vous savez, moi aussi je suis écrivain.', 'You know, I am a writer too.', [(160, 'Moi aussi je suis écrivain.')], ''),
-    ('writer', 'On voit des choses folles chez les gens.', 'One sees crazy things in people', [(161, "ce qu'on voit quand on entre chez les gens !")], ''),
+    ('writer', 'On voit des choses folles chez les gens.', "One sees crazy things in people's homes.", [(161, "ce qu'on voit quand on entre chez les gens !")], ''),
     ('herve', 'Non, je ne peux pas imaginer ça.', 'No, I cannot imagine that.', [(162, "Non, je n'imaginerais pas.")], ''),
     ('writer', "J'ai tout écrit dans ce nouveau scénario.", 'I wrote everything in this new screenplay.', [(163, "J'ai tout raconté dans ce scénario.")], ''),
     ('writer', "C'est incroyable derrière les portes fermées.", 'It is unbelievable behind closed doors.', [(164, "ce qu'on voit derrière les portes fermées.")], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'You can give it to famous actors.' The amateur writer hopes to reach major stars on the red carpet."),
     (10, None, "'Isabelle Huppert dreams of playing a router!' Herve mocks the absurd pitch with dry sarcasm."),
     (11, None, "'I am joking, but I am not going there.' Herve gently lets the technician down."),
-    (12, None, "'I stay here to look after the agency.' Herve laments being stuck in Paris holding down the fort."),
+    (12, None, "'I stay here to look after the agency.' Herve laments being stuck in Paris holding down the fort. Now let's listen to the scene once more from start to finish."),
 ]

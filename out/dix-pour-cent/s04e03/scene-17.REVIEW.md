@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Nous étions romantiques et sincères. | We were romantic and sincere. | #852: On était romantiques | verbatim |
 | 14 | Mathias | Alors sourions pour sauver la soirée. | Then let us smile to save the evening. | #844: passer une super soirée | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing there?' Noemie notices Mathias frantically moving around the kitchen.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Our story was totally different!' Noemie passionately defends their past romance.
 - 'We suffered as well.' Mathias remembers the guilt and heartache they experienced together.
 - 'We were romantic and sincere.' Noemie insists that their feelings were noble and pure.
-- 'Then let us smile to save the evening.' Mathias offers a warm concluding reassurance.
+- 'Then let us smile to save the evening.' Mathias offers a warm concluding reassurance. Now let's listen to the complete discussion once more to reinforce the vocabulary.

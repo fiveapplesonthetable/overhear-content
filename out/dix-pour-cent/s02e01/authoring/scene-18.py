@@ -30,7 +30,7 @@ STORY = [
     ('hicham', 'Alors, Andréa... tu as couru pour me dire au revoir?', 'So, Andréa... you ran to say goodbye to me?', [(496, 'Alors, Marteau'), (496, "t'as couru pour dire au revoir")], ''),
     ('andrea', 'Tu vas où?', 'Where are you going?', [(497, 'Tu vas où')], ''),
     ('hicham', "À l'aéroport de Dole.", 'To Dole airport.', [(498, "L'aéroport de Dole")], ''),
-    ('andrea', "Tu peux me déposer au tournage? C'est sur la route.", 'Can you drop me off at the shoot? It', [(499, 'Tu peux me déposer au tournage'), (499, "C'est sur la route")], ''),
+    ('andrea', "Tu peux me déposer au tournage? C'est sur la route.", "Can you drop me off at the shoot? It's on the way.", [(499, 'Tu peux me déposer au tournage'), (499, "C'est sur la route")], ''),
     ('andrea', 'Léa Seydoux te remerciera en personne. Promis.', 'Léa Seydoux will thank you in person. Promised.', [(500, 'Léa Seydoux te remerciera en personne. Promis')], ''),
 ]
 WALK = [
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Where are you going?' Andréa quickly checks his destination."),
     (13, None, "'To Dole airport.' Hicham explains that he is heading back to his private jet."),
     (14, None, "'Can you drop me off at the shoot? It's on the way.' She maneuvers her way into his sports car."),
-    (15, None, "'Léa Seydoux will thank you in person. Promised.' She sweetens the ride with a star encounter."),
+    (15, None, "'Léa Seydoux will thank you in person. Promised.' She sweetens the ride with a star encounter. Now let's listen to the entire dialogue once more from beginning to end."),
 ]

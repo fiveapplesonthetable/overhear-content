@@ -19,7 +19,7 @@ STORY = [
     ('gabriel', 'Je cherche des infos sur Élise Formain.', 'I am looking for info on Elise Formain.', [(274, 'je cherche'), (274, 'des infos sur Élise Formain.')], ''),
     ('gabriel', "J'ai un mauvais pressentiment.", 'I have a bad feeling.', [(275, "J'ai un mauvais pressentiment.")], ''),
     ('andrea', 'Tu la trouvais sympa.', 'You found her nice.', [(276, 'tu la trouvais sympa')], ''),
-    ('gabriel', 'Elle a demandé les numéros de Bellucci et Dujardin.', 'She asked for Bellucci and Dujardin', [(282, "Elle m'a demandé les numéros de Bellucci et Dujardin.")], ''),
+    ('gabriel', 'Elle a demandé les numéros de Bellucci et Dujardin.', "She asked for Bellucci and Dujardin's numbers.", [(282, "Elle m'a demandé les numéros de Bellucci et Dujardin.")], ''),
     ('andrea', "Non, ce n'est pas possible.", 'No, it is not possible.', [(283, 'Non ! Non !')], ''),
     ('andrea', 'Elle est peut-être pire que Mathias.', 'She is perhaps worse than Mathias.', [(284, 'Elle est peut-être pire que Mathias.')], ''),
     ('gabriel', 'Elle va nous dévorer comme des sashimis.', 'She is going to eat us like sashimi.', [(287, 'Elle va nous dévorer comme des sashimis.')], ''),
@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'We must go through her phone.' He suggests a highly unethical way to find the evidence."),
     (9, None, "'That is what I do.' Andrea admits she uses this trick sometimes."),
     (10, None, "'How are we going to access her phone?' She wonders how they could possibly pull off such a heist."),
-    (11, None, "'You are so innocent sometimes.' He tells her not to worry, as he already has a plan. Now let's hear the scene once more."),
+    (11, None, "'You are so innocent sometimes.' He tells her not to worry, as he already has a plan."),
 ]

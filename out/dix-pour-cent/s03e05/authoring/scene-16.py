@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'But delivery spots are free.' Noemie points out designated loading zones."),
     (10, None, "'They are located right downstairs.' Noemie directs the driver to the street below."),
     (11, None, "'You can drop off the equipment in the street.' Noemie guides the delivery team."),
-    (12, None, "'You are welcome, see you shortly!' Noemie concludes the logistical call politely."),
+    (12, None, "'You are welcome, see you shortly!' Noemie concludes the logistical call politely. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

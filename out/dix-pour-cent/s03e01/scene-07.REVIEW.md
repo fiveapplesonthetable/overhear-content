@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Regarde cet extrait vidéo sur mon écran d'ordinateur. | Watch this video excerpt on my computer screen. | new | new |
 | 13 | Maxime | Montre-moi ces images secrètes du tournage. | Show me these secret shots from the film set. | new | new |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So Andrea, tell me about this famous movie.' Maxime demands an explanation for Dujardin's long absence.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Jean Dujardin acts with wild intensity in it.' Andrea praises the star's radical commitment to the role.
 - 'The audience loves this genre of historical drama.' Maxime admits that intense wartime narratives attract critical acclaim.
 - 'Watch this video excerpt on my computer screen.' Andrea turns her monitor to reveal exclusive behind-the-scenes files.
-- 'Show me these secret shots from the film set.' Maxime leans forward eagerly to inspect Dujardin's performance.
+- 'Show me these secret shots from the film set.' Maxime leans forward eagerly to inspect Dujardin's performance. Now let's listen to the scene once more from start to finish.

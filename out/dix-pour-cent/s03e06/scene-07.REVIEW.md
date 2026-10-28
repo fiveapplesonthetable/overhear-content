@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Isabelle | C'est normal de se sentir épuisée. | It is normal to feel exhausted. | #419: C'est normal, hein, de se sentir à cran | verbatim |
 | 13 | Isabelle | Tenez, prenez cette petite pastille douce. | Here, take this sweet little mint. | #420: je vais vous donner une petite pastille | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I just had the actress on the phone.' Andrea explains that star Isabelle Huppert herself is calling.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My baby does not sleep at night!' Andrea reveals the sleepless nights behind her frantic pace.
 - 'Did you just have a newborn?' Isabelle immediately shifts from annoyance to maternal empathy.
 - 'It is normal to feel exhausted.' The experienced nurse validates Andrea's postpartum struggle.
-- 'Here, take this sweet little mint.' Isabelle offers a gesture of human warmth to soothe Andrea's distress.
+- 'Here, take this sweet little mint.' Isabelle offers a gesture of human warmth to soothe Andrea's distress. Now let's listen to this touching conversation once more to reinforce the key phrases.

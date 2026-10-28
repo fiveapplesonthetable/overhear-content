@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Gabriel | Ne t'inquiète pas, sois naturelle. | Don | #424: On y va | verbatim |
+| 1 | Gabriel | Ne t'inquiète pas, sois naturelle. | Don't worry, be natural. | #424: On y va | verbatim |
 | 2 | Constance | Sofia, on y va? | Sofia, shall we go? | #423: Sofia<br>#424: On y va | verbatim |
 | 3 | Sofia | Oui, je suis prête. | Yes, I am ready. | #425: Désolée, oui | verbatim |
 | 4 | Sofia | Je m'appelle Sofia Leprince, j'ai 25 ans. | My name is Sofia Leprince, I am twenty-five years old. | #426: Je m'appelle Sofia Leprince, j'ai 25 ans | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Sofia | Maintenant je suis là, maintenant je ne suis plus là! | Now I am here, now I am no longer here! | #435: Maintenant je suis là, maintenant je suis plus là | verbatim |
 | 12 | Sofia | Vous me voyez atterrir comme une héroïne? | Do you see me landing like a heroine? | #436: Vous me voyez<br>#436: atterrir comme | verbatim |
 | 13 | Constance | Ce n'est pas du tout ce que j'avais demandé. | This is not at all what I had asked for. | #413: pas | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

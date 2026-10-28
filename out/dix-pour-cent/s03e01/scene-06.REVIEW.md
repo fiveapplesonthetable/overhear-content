@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Gabriel | Le téléphone de Jean est totalement coupé. | Jean | #85: Le téléphone de Jean est coupé | verbatim |
-| 2 | Camille | Le téléphone de sa femme ne répond pas. | His wife | #85: celui de sa femme répond pas non plus. | verbatim |
+| 1 | Gabriel | Le téléphone de Jean est totalement coupé. | Jean's phone is completely turned off. | #85: Le téléphone de Jean est coupé | verbatim |
+| 2 | Camille | Le téléphone de sa femme ne répond pas. | His wife's phone does not answer. | #85: celui de sa femme répond pas non plus. | verbatim |
 | 3 | Gabriel | Jean ne plaisante jamais avec ses contrats. | Jean never jokes with his contracts. | #88: c'est un truc avec lequel il rigole pas, | verbatim |
 | 4 | Camille | Ce contrat sent vraiment la bête morte! | This contract really smells like a dead animal! | #100: 2000 pages moisies qui puent la bête morte. | verbatim |
 | 5 | Camille | Les pages sont complètement moisies et sales. | The pages are completely moldy and dirty. | #100: pages moisies | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Gabriel | Dis-lui que le service juridique a du retard. | Tell her that the legal department has a delay. | #121: c'est le service juridique. | verbatim |
 | 12 | Andréa | Je vais la faire patienter dans mon bureau. | I am going to keep her waiting in my office. | #126: Mais ça me fait plaisir de te voir. | verbatim |
 | 13 | Gabriel | Trouvons une solution très vite pour ce contrat. | Let us find a solution very quickly for this contract. | #124: donc on l'aura ce soir. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Gabriel, your meeting with the producer is arriving.' Andrea interrupts with urgent news about the lobby.
 - 'Tell her that the legal department has a delay.' Gabriel invents an administrative delay to hide the disaster.
 - 'I am going to keep her waiting in my office.' Andrea volunteers to distract the visiting executive.
-- 'Let us find a solution very quickly for this contract.' Gabriel tries to regain control before the deal collapses.
+- 'Let us find a solution very quickly for this contract.' Gabriel tries to regain control before the deal collapses. Now let's listen to the scene once more from start to finish.

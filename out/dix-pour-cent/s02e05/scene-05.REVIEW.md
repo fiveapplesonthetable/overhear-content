@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Hervé | Arrête, Jean Gabin, c'est Camille! | Stop it, Jean Gabin, it | #137: Arrête, Jean Gabin, c'est Camille. | verbatim |
+| 1 | Hervé | Arrête, Jean Gabin, c'est Camille! | Stop it, Jean Gabin, it's Camille! | #137: Arrête, Jean Gabin, c'est Camille. | verbatim |
 | 2 | Camille | Ne lui en veux pas trop. | Do not hold it against him too much. | #139: Ne lui en veux pas. | verbatim |
 | 3 | Hervé | Il te transfère sa haine pour Mathias. | He transfers his hatred for Mathias to you. | #140: Il te transfère sa haine pour Mathias. | verbatim |
 | 4 | Camille | C'est horrible, je suis devenue une autre. | It is horrible, I have become someone else. | #141: c'est comme si j'étais devenue quelqu'un d'autre | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Hervé | C'est plutôt comme dans Blade Runner. | It is rather like in Blade Runner. | #150: C'est plutôt comme Blade Runner. | verbatim |
 | 12 | Hervé | Quand on découvre que c'est un réplicant. | When you find out that he is a replicant. | #151: Quand tu découvres que lui aussi est un réplicant | verbatim |
 | 13 | Hervé | On t'aime quand même, Camillette! | We love you anyway, Camillette! | #153: mais on l'aime quand même. On t'aime quand même. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Mathias being my father changes nothing.' Camille insists that her relationship to Mathias does not alter who she is.
 - 'It is rather like in Blade Runner.' Herve switches to a sci-fi reference about discovering an android identity.
 - 'When you find out that he is a replicant.' Herve playfully compares Mathias's lineage to an artificial creation.
-- 'We love you anyway, Camillette!' Herve uses an affectionate nickname to reassure Camille of his loyalty.
+- 'We love you anyway, Camillette!' Herve uses an affectionate nickname to reassure Camille of his loyalty. Now let's listen to the scene once more from start to finish.

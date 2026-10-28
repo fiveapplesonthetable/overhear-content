@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Fermez la porte et laissez-moi réfléchir. | Close the door and let me think. | #118: Andréa, fermez la porte. | verbatim |
 | 14 | Noémie | D'accord, mais trouvez vite une solution. | All right, but find a solution quickly. | #115: -Elle est tellement impolie ! -Bref... | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Noémie, get me an appointment with Mathias.' An imperative request demanding high-level mediation.
-- 'Why Mathias? Your client is the problem.' A defiant retort assigning blame to the director.
-- 'You dragged Isabelle into this story.' An accusation pointing out premature agent enthusiasm.
-- 'Stop! She absolutely wanted to work with him.' A fierce defense of client motivation.
-- 'Maybe Isabelle could call him to apologize.' A pragmatic compromise suggesting an apology.
-- 'Out of the question, she will not apologize!' An emphatic refusal protecting client status.
-- 'I refuse to let her humiliate herself.' A fierce protective instinct shielding an iconic star.
-- 'Sacha thinks he is a genius.' A dismissive critique of young director arrogance.
-- 'So, what do we do now?' A practical question seeking immediate direction.
-- 'Do you want me to call Isabelle on the phone?' An offer from an assistant to break bad news.
-- 'No, that is my client, I will handle it.' A firm territorial declaration asserting agent responsibility.
-- 'Very well, do as you wish!' A sarcastic surrender conceding control.
-- 'Close the door and let me think.' An imperative command requesting privacy to strategize.
-- 'All right, but find a solution quickly.' An urgent closing reminder of looming consequences.
+- 'Noémie, get me an appointment with Mathias.' Andréa demands high-level mediation.
+- 'Why Mathias? Your client is the problem.' Noémie assigns blame to the director.
+- 'You dragged Isabelle into this story.' Noémie points out premature agent enthusiasm.
+- 'Stop! She absolutely wanted to work with him.' Andréa fiercely defends her client's genuine artistic interest.
+- 'Maybe Isabelle could call him to apologize.' Noémie suggests an apology.
+- 'Out of the question, she will not apologize!' Andréa protects client status.
+- 'I refuse to let her humiliate herself.' Andréa shields an iconic star.
+- 'Sacha thinks he is a genius.' Andréa scoffs at the young director's arrogance.
+- 'So, what do we do now?' Noémie seeks immediate direction.
+- 'Do you want me to call Isabelle on the phone?' Noémie offers to call Isabelle with the bad news.
+- 'No, that is my client, I will handle it.' Andréa asserts agent responsibility.
+- 'Very well, do as you wish!' Noémie concedes control.
+- 'Close the door and let me think.' Andréa requests privacy to strategize.
+- 'All right, but find a solution quickly.' Noémie reminds her boss that she needs a solution quickly.

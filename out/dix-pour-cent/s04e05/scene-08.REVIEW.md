@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Andréa | Alors on s'est énervés pour rien? | So we got worked up for nothing? | #402: Alors on s'est énervées pour rien ? | verbatim |
 | 12 | Gabriel | Faire le ménage, c'est un geste coupable. | Cleaning up, it is a guilty move. | #404: Faire le ménage, c'est un geste coupable. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hurry up! I beg you.' He is terrified that Elise will catch them red-handed.
@@ -36,4 +37,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What did you find?' She eagerly asks for the incriminating evidence.
 - 'Nothing! Not a single message on her phone.' He is shocked to see an empty inbox.
 - 'So we got worked up for nothing?' She is disappointed that their heist yielded no proof.
-- 'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something. Now let's hear the scene once more.
+- 'Cleaning up, it is a guilty move.' He insists that deleting everything proves she is hiding something.

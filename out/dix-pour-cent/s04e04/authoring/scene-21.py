@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'He panics as soon as an actor sneezes.' Andréa details his extreme germ phobia."),
     (11, None, "'It is so funny and absurd!' Elise bursts out laughing at the table."),
     (12, None, "'We do a crazy profession.' Andréa raises her glass with affectionate exasperation."),
-    (13, None, "'Let us toast to our lovely secret friendship!' Elise clinks glasses warmly."),
+    (13, None, "'Let us toast to our lovely secret friendship!' Elise clinks glasses warmly. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

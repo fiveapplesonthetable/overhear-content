@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Camille | C'est un super produit. | This is a great product. | #403: C'est un super produit | verbatim |
 | 14 | Camille | Voilà, tu es très bien. | There, you look very nice. | #404: Voilà | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am having lunch with my mother at the Grand Colbert.' Camille shares her special lunch plans.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is not a romantic date.' Annick pretends indifference despite her visible nervousness.
 - 'It has been eight years!' She emphasizes the long passage of time since they last met.
 - 'This is a great product.' Camille fixes her mother's hair with a cosmetic spray.
-- 'There, you look very nice.' Camille offers heartfelt encouragement before Mathias arrives.
+- 'There, you look very nice.' Camille offers heartfelt encouragement before Mathias arrives. Now listen to the whole scene again at normal speed, and see how much more you catch.

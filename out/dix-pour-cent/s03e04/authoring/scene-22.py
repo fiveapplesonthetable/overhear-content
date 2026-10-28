@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I will be his own Pygmalion.' Camille vows to mentor and train him into shape."),
     (11, None, "'I can make him a star.' Camille declares her ambition with absolute confidence."),
     (12, None, "'One day, you will thank me.' Camille promises Herve he will appreciate her decision."),
-    (13, None, "'All of France will thank me.' Camille concludes with dramatic enthusiasm."),
+    (13, None, "'All of France will thank me.' Camille concludes with dramatic enthusiasm. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

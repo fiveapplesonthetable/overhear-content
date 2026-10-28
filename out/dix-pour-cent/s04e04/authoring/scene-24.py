@@ -20,7 +20,7 @@ STORY = [
     ('chanteuse', 'Il fait très nuit.', 'It is very dark.', [], ''),
     ('chanteuse', 'Je suis un peu fatiguée.', 'I am a little tired.', [], ''),
     ('chanteuse', 'Je regarde les étoiles.', 'I look at the stars.', [], ''),
-    ('chanteuse', 'Je ne sais pas où je vais.', 'I don', [(1211, 'Je ne sais pas où je vais')], ''),
+    ('chanteuse', 'Je ne sais pas où je vais.', "I don't know where I'm going.", [(1211, 'Je ne sais pas où je vais')], ''),
     ('chanteuse', 'Je marche encore un peu.', 'I walk a little more.', [], ''),
     ('chanteuse', "J'écoute une mélodie.", 'I listen to a melody.', [], ''),
     ('chanteuse', 'De la musique dans la tête.', 'Music in my head.', [(1212, 'De la musique dans la tête')], ''),

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'You need to rest.' Gabriel reminds her firmly of her doctor's orders."),
     (11, None, "'But we are having so much fun.' Isabelle defends her passion for filmmaking without commercial pressure."),
     (12, None, "'No contract, no producer.' Isabelle celebrates the pure freedom of making cinema without bureaucracy."),
-    (13, None, "'Just the camera and me.' Isabelle concludes with poetic dedication to her lifelong craft."),
+    (13, None, "'Just the camera and me.' Isabelle concludes with poetic dedication to her lifelong craft. Now let's listen to the entire dialogue once more to consolidate the expressions."),
 ]

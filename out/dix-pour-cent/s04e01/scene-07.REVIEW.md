@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Noémie | Oui, un pot de départ entre nous! | Yes, a farewell drink just between us! | #502: Genre un pot de départ rien qu'entre nous. | verbatim |
 | 13 | Hervé | C'est parfait, sans les patrons pénibles! | That is perfect, without the annoying bosses! | #503: Sans les trucs pénibles. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Are you okay Noemie? Do you need help?' Camille kindly asks if Noemie requires any assistance with her belongings.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You can count on us for that!' Herve jokes back that they will miss her presence dearly.
 - 'We could have a drink together tonight?' Camille invites Noemie to share a drink after working hours.
 - 'Yes, a farewell drink just between us!' Noemie eagerly embraces the proposal for an assistants' gathering.
-- 'That is perfect, without the annoying bosses!' Herve celebrates the idea of an evening free from agency drama.
+- 'That is perfect, without the annoying bosses!' Herve celebrates the idea of an evening free from agency drama. Now let's listen to the assistants' farewell exchange once more from start to finish.

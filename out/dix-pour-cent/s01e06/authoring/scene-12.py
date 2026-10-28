@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'Then why does he not call me directly?' François wonders why Christophe has not called him in person to apologize."),
     (14, None, "'Christophe? It is Andréa Martel.' Andrea takes initiative right away and dials his number."),
     (15, None, "'I hope you are free tonight, I am inviting you to dinner.' Andréa calls Christophe on the spot and invites him to dinner that evening."),
-    (16, None, "'All right, with pleasure.' Christophe gladly accepts Andréa's dinner invitation."),
+    (16, None, "'All right, with pleasure.' Christophe gladly accepts Andréa's dinner invitation. Now listen to Andrea and Francois's conversation once more without interruption."),
 ]

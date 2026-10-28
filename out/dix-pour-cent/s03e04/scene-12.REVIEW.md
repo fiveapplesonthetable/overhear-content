@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Sharon | Bonsoir Isabelle, voici la scène d'aujourd'hui. | Good evening Isabelle, here is today | #704: Bonsoir, Isabelle<br>#707: c'est la scène d'aujourd'hui | verbatim |
+| 1 | Sharon | Bonsoir Isabelle, voici la scène d'aujourd'hui. | Good evening Isabelle, here is today's scene. | #704: Bonsoir, Isabelle<br>#707: c'est la scène d'aujourd'hui | verbatim |
 | 2 | Isabelle | Mais je connais déjà mon texte. | But I already know my lines. | #708: je connais mon texte | verbatim |
 | 3 | Isabelle | Attendez, ce n'est pas du tout pareil! | Wait, this is not at all the same! | #710: attendez, attendez<br>#711: c'est pas du tout pareil | verbatim |
 | 4 | Isabelle | Ce nouveau texte est beaucoup plus court. | This new text is much shorter. | #712: C'est beaucoup plus court | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Isabelle | Cette séquence est maintenant vide de substance. | This sequence is now empty of substance. | #728: complètement vide de sa substance | verbatim |
 | 13 | Isabelle | Où est Gary, je veux lui parler! | Where is Gary, I want to talk to him! | #730: il est où, Gary ?<br>#732: Il faut qu'on parle de ça | verbatim |
 | 14 | Sharon | D'accord, je vais appeler Gary immédiatement. | Alright, I will call Gary immediately. | #733: Pouvez-vous envoyer Gary ici ?<br>#735: Maintenant, s'il vous plaît | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He deleted my entire big monologue.' Isabelle laments the loss of her centerpiece speech.
 - 'This sequence is now empty of substance.' Isabelle critiques the artistic value of the shortened scene.
 - 'Where is Gary, I want to talk to him!' Isabelle demands an immediate face-to-face showdown.
-- 'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand.
+- 'Alright, I will call Gary immediately.' Sharon yields to the star's firm demand. Now let's listen to the entire dialogue once more to lock in what you have learned.

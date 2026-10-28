@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'No, that workshop is in the twentieth!' Camille objects that the venue sits on the outer edge of Paris."),
     (10, None, "'Why do you refuse to go to that arrondissement?' Herve asks why crossing Paris is such a problem for her."),
     (11, None, "'I do not like distant arrondissements.' Camille admits that she prefers staying in central neighborhoods."),
-    (12, None, "'You have really become very snobbish, Camille!' Herve teases Camille for adopting stereotypical Parisian snobbery."),
+    (12, None, "'You have really become very snobbish, Camille!' Herve teases Camille for adopting stereotypical Parisian snobbery. Now let's listen to the scene once more from start to finish."),
 ]

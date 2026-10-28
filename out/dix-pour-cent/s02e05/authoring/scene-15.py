@@ -30,7 +30,7 @@ STORY = [
     ('camille', "Je ne sais pas, c'est trop vite.", 'I do not know, this is too fast.', [(427, 'Je ne sais pas'), (428, "C'est trop vite")], ''),
     ('mathias', "Tu as des qualités, mais c'est trop tôt.", 'You have qualities, but it is too soon.', [(430, "Tu as plein de qualités, Camille, mais c'est trop tôt")], ''),
     ('hippolyte', "C'est dingue! Tu ne la soutiens pas.", 'This is crazy! You do not support her.', [(434, "C'est dingue")], ''),
-    ('hippolyte', 'Tu ne crois pas au talent de tes enfants!', 'You do not believe in your own children', [(436, 'croire au talent de tes propres enfants')], ''),
+    ('hippolyte', 'Tu ne crois pas au talent de tes enfants!', "You do not believe in your own children's talent!", [(436, 'croire au talent de tes propres enfants')], ''),
 ]
 WALK = [
     (0, None, "'To our first family get-together!' Mathias raises a glass with his newly acknowledged daughter and son."),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'I do not know, this is too fast.' Camille feels flattered but overwhelmed by the speed of events."),
     (12, None, "'You have qualities, but it is too soon.' Mathias tries to protect her while dampening expectations."),
     (13, None, "'This is crazy! You do not support her.' Hippolyte is outraged by his father's lack of faith."),
-    (14, None, "'You do not believe in your own children's talent!' Hippolyte calls out Mathias for his harsh double standard."),
+    (14, None, "'You do not believe in your own children's talent!' Hippolyte calls out Mathias for his harsh double standard. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Thank you Mathias, good luck with your projects.' Andrea offers civil farewell wishes."),
     (11, None, "'Goodbye. Seriously, I cannot believe it.' Mathias shakes his head in disbelief."),
     (12, None, "'A new story begins for all of us.' Andrea looks forward to leading the agency."),
-    (13, None, "'Good luck with your new daily problems!' Mathias delivers a sardonic parting remark."),
+    (13, None, "'Good luck with your new daily problems!' Mathias delivers a sardonic parting remark. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

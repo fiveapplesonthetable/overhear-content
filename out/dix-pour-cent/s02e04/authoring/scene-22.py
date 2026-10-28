@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Is he still very angry with me?' Gabriel fears that past disagreements have poisoned their working relationship."),
     (11, None, "'He still did you a favor.' The assistant points out that Hicham helped out despite their differences."),
     (12, None, "'He did it for you only.' Gabriel remains convinced that Hicham acts solely out of personal loyalty to Camille."),
-    (13, None, "'Stop imagining the worst, Gabriel.' Camille encourages her colleague to stop overthinking every interaction."),
+    (13, None, "'Stop imagining the worst, Gabriel.' Camille encourages her colleague to stop overthinking every interaction. Now let's listen to the entire exchange once more from beginning to end."),
 ]

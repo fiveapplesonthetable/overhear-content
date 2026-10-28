@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Benoît | Oui, je passe un entretien. | Yes, I am having an interview. | #457: Oui, mais ils n'en avaient pas parlé | verbatim |
 | 6 | Noémie | C'est pour travailler avec Gérard Depardieu. | It is to work with Gérard Depardieu. | #454: exclusivement avec Depardieu | verbatim |
 | 7 | Benoît | Avec Depardieu? Il est difficile? | With Depardieu? Is he difficult? | #455: Pardon<br>#458: Apparemment, il est difficile | verbatim |
-| 8 | Noémie | Disons qu'il est très entier. | Let | #459: Disons qu'il est entier | verbatim |
+| 8 | Noémie | Disons qu'il est très entier. | Let's say he is quite extreme. | #459: Disons qu'il est entier | verbatim |
 | 9 | Noémie | Tu as une bonne mutuelle santé? | Do you have good health insurance? | #460: Vous avez une mutuelle | verbatim |
 | 10 | Benoît | Une mutuelle normale. Pourquoi? | Standard insurance. Why? | #461: La normale<br>#462: Pourquoi | verbatim |
 | 11 | Noémie | En cas de fractures du dos. | In case of back fractures. | #463: En cas de fractures, de problèmes de dos | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Benoît | Non, je n'y suis jamais allé. | No, I have never been there. | #468: Non, jamais | verbatim |
 | 15 | Noémie | Là-bas, ils jouent à la roulette russe. | Over there, they play Russian roulette. | #470: boivent, jouent à la roulette russe | verbatim |
 | 16 | Benoît | Je crois que je vais partir. | I think that I will leave. | #472: Benoît Larroque<br>#473: Non | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Have you ever been to Russia?' She asks about international travel.
 - 'No, I have never been there.' Benoît admits his lack of experience.
 - 'Over there, they play Russian roulette.' She spins a terrifying tale.
-- 'I think that I will leave.' Benoît decides to flee the agency.
+- 'I think that I will leave.' Benoît decides to flee the agency. Now let's listen to Noémie's wild warnings once more at normal speed.

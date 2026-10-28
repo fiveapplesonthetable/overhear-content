@@ -16,12 +16,12 @@ TRANSITION = "Now let's listen to Hicham's ambitious demands once more at normal
 OUTRO = "Faced with Hicham's immense ambitions, Camille and Hervé must now pull off the ultimate party with a real castle and celebrity guests. Listen to the entire exchange once more in French. See you next time!"
 CLOSING = ('camille', 'À bientôt!')
 STORY = [
-    ('herve', "On a préparé l'anniversaire d'Elvis.", 'We planned Elvis', [(496, "Alors, l'anniversaire d'Elvis"), (498, 'Les parents de Ferdinand et Elliot les laisseront venir')], ''),
+    ('herve', "On a préparé l'anniversaire d'Elvis.", "We planned Elvis's birthday party.", [(496, "Alors, l'anniversaire d'Elvis"), (498, 'Les parents de Ferdinand et Elliot les laisseront venir')], ''),
     ('camille', 'On a réservé deux sessions de laser game.', 'We booked two laser game sessions.', [(499, "J'ai réservé un laser game. Deux sessions")], ''),
     ('herve', 'Et un gâteau géant avec des bonbons!', 'And a giant cake with candy!', [(501, "j'ai commandé un gâteau bonbons extra-large")], ''),
     ('hicham', 'Vous croyez vraiment que ça suffit?', 'Do you really think that is enough?', [(502, "Qu'est-ce que vous avez fait")], ''),
-    ('camille', "C'est amusant pour des enfants de dix ans.", 'It', [(510, 'Donc pour les dix ans du gamin')], ''),
-    ('hicham', "La mère d'Elvis me pourrit la vie!", 'Elvis', [(508, 'On divorce, elle me pourrit la vie')], ''),
+    ('camille', "C'est amusant pour des enfants de dix ans.", "It's fun for ten-year-old children.", [(510, 'Donc pour les dix ans du gamin')], ''),
+    ('hicham', "La mère d'Elvis me pourrit la vie!", "Elvis's mother is ruining my life!", [(508, 'On divorce, elle me pourrit la vie')], ''),
     ('hicham', 'Je veux la meilleure fête du monde!', 'I want the best party in the world!', [(511, 'je veux la meilleure fête qui soit')], ''),
     ('hicham', 'On oublie le laser game et les bonbons.', 'We forget the laser game and the candies.', [(513, "Alors on s'en fout du gâteau bonbons"), (514, "et d'un laser game à la con")], ''),
     ('hicham', 'Je veux une fête grandiose, les amis!', 'I want a grandiose party, friends!', [(515, 'Je veux une grande fête'), (516, "Une fête d'enfer, les gars")], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Note everything: fountains and music.' Hicham rattles off extravagant features."),
     (13, None, "'And who are the invited guests?' Hervé checks the guest list."),
     (14, None, "'The whole agency and big celebrities!' Hicham wants a star-studded spectacle."),
-    (15, None, "'All right, we will organize that.' Camille accepts the daunting challenge."),
+    (15, None, "'All right, we will organize that.' Camille accepts the daunting challenge. Now let's listen to Hicham's ambitious demands once more at normal speed."),
 ]

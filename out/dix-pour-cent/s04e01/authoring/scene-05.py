@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'I will say that you demand a rewrite.' Andrea suggests claiming the script needs major editorial changes."),
     (10, None, "'I do not want to hurt my old friend.' Charlotte insists that their lifelong friendship must be protected."),
     (11, None, "'Officially, I love this, but save me!' Charlotte orders Andrea to find a quiet exit behind the scenes."),
-    (12, None, "'I am going to ask double your fee!' Andrea proposes setting an impossibly high salary to scare the financiers away."),
+    (12, None, "'I am going to ask double your fee!' Andrea proposes setting an impossibly high salary to scare the financiers away. Now let's listen to Charlotte and Andrea's exchange once more from start to finish."),
 ]

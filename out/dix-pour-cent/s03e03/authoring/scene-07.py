@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Yes, I reached his voicemail.' Gabriel explains that Mathias did not answer."),
     (11, None, "'We must find a solution right away.' Andrea urges prompt action."),
     (12, None, "'I am going to try to fix my mistake.' Gabriel vows to make amends."),
-    (13, None, "'Hurry up, the casting is starting now.' Andrea gives urgent marching orders."),
+    (13, None, "'Hurry up, the casting is starting now.' Andrea gives urgent marching orders. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

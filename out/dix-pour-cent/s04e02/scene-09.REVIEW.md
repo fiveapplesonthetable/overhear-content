@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Le serveur | Madame, voici votre nouveau café chaud! | Madam, here is your hot fresh coffee! | #450: café | verbatim |
 | 14 | Andréa | Donnez-le plutôt à Catherine Deneuve! | Give it instead to Catherine Deneuve! | #453: Catherine | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Pardon sir, excuse me.' Andrea calls the waiter to her table.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hello Gabriel? Where did Nathalie go?' Andrea checks in by phone.
 - 'Mathias took her directly to the agency!' Andrea learns of Mathias's tactical maneuver.
 - 'Madam, here is your hot fresh coffee!' The waiter delivers the cup as she rises.
-- 'Give it instead to Catherine Deneuve!' Andrea snaps back with dry sarcasm.
+- 'Give it instead to Catherine Deneuve!' Andrea snaps back with dry sarcasm. Now let's listen to the complete discussion once more to reinforce the vocabulary.

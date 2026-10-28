@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Franck | Ta grande sincérité est très touchante. | Your great sincerity is very moving. | #1012: C'est touchant | verbatim |
 | 14 | Sofia | Allez, viens danser avec nous maintenant! | Come on, come dance with us now! | #1015: Viens danser | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Did Camille tell you about the next film?' Franck asks about the upcoming casting.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I love making up nonsense.' Franck proudly admits his playful habit.
 - 'What a clown, I almost believed it!' Sophia laughs at her own credulity.
 - 'Your great sincerity is very moving.' Franck warmly compliments Sophia's candid honesty.
-- 'Come on, come dance with us now!' Sophia dismisses the teasing and invites Franck to dance.
+- 'Come on, come dance with us now!' Sophia dismisses the teasing and invites Franck to dance. Now let's listen to the complete discussion once more to reinforce the vocabulary.

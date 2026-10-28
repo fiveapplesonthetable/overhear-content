@@ -11,8 +11,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Andréa | Gabriel, je suis enceinte. | Gabriel, I am pregnant. | #883: Je suis enceinte | verbatim |
-| 2 | Andréa | C'est le bébé de Hicham. | It is Hicham | #884: De Hicham | verbatim |
-| 3 | Andréa | Et je ne sais pas quoi faire. | And I don | #885: Et je sais pas quoi faire | verbatim |
+| 2 | Andréa | C'est le bébé de Hicham. | It is Hicham's baby. | #884: De Hicham | verbatim |
+| 3 | Andréa | Et je ne sais pas quoi faire. | And I don't know what to do. | #885: Et je sais pas quoi faire | verbatim |
 | 4 | Gabriel | C'est le truc dingue avec toi. | That is the crazy thing about you. | #886: C'est ça le truc dingue avec toi | verbatim |
 | 5 | Gabriel | Tu as toujours un truc en plus. | You always have something extra. | #887: T'as toujours ce petit quelque chose en plus | verbatim |
 | 6 | Gabriel | Tu es ma meilleure amie, Andréa. | You are my best friend, Andréa. | #890: Tu es mon amie | verbatim |
@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Alors, tout le monde dans la piscine! | So, everyone into the pool! | #909: Hé, les gars, c'est pas encore fini | verbatim |
 | 14 | Gabriel | On reste toujours soudés, d'accord? | We always stick together, right? | #911: On reste soudés, d'accord | verbatim |
 | 15 | Andréa | Oui, nous restons toujours ensemble! | Yes, we are always staying together! | #911: On reste soudés, d'accord | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We make a real team now.' Andrea embraces their collective strength heading into the future.
 - 'So, everyone into the pool!' Hicham playfully calls for a celebratory midnight plunge.
 - 'We always stick together, right?' Gabriel reminds everyone of their shared solidarity.
-- 'Yes, we are always staying together!' Andrea seals the family pact as they leap into the water.
+- 'Yes, we are always staying together!' Andrea seals the family pact as they leap into the water. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Noémie | Percez sans hésiter! | Break through without hesitation! | #1300: Percez. | verbatim |
 | 14 | Mathias | Oui, nous allons percer ensemble. | Yes, we are going to break through together. | #1301: Percez. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Mathias, this is absolutely brilliant.' Noemie reads the ancient Chinese divination result with excitement.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We must go on the offensive.' Mathias resolves to initiate their decisive takeover maneuver.
 - 'Go for it boldly, Mathias!' Noemie encourages him to trust his strength.
 - 'Break through without hesitation!' Noemie repeats the inspirational command of the hexagram.
-- 'Yes, we are going to break through together.' Mathias confirms their shared commitment to victory.
+- 'Yes, we are going to break through together.' Mathias confirms their shared commitment to victory. Now let's listen to the complete discussion once more to reinforce the vocabulary.

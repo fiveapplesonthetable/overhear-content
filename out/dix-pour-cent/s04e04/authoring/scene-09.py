@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'We are going to feed wild wolves!' Ulrika announces the terrifying chore with cheerful enthusiasm."),
     (11, None, "'Wolves? Inside this enclosed pen?' Mathias stammers as his suave composure quickly evaporates."),
     (12, None, "'Do not be afraid, they are hungry!' Ulrika laughs and encourages the pale agent to enter."),
-    (13, None, "'Very well, let us advance with great courage.' Mathias forces a smile while stepping trembling toward the wolves."),
+    (13, None, "'Very well, let us advance with great courage.' Mathias forces a smile while stepping trembling toward the wolves. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

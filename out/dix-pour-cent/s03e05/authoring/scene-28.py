@@ -39,11 +39,11 @@ WALK = [
     (4, None, "'Start another competing agency?' Hicham cannot believe they plan to set up a rival company."),
     (5, None, "'This cannot be possible!' Hicham reacts with sheer disbelief to the revelation."),
     (6, None, "'I am completely disgusted today.' Hicham confesses his deep personal revulsion at their disloyalty."),
-    (7, None, "'I understand you perfectly, Hicham.' Mathias adopts a sympathetic tone to gain his confidence."),
+    (7, None, "'I understand you perfectly, Hicham.' Mathias speaks sympathetically to gain his confidence."),
     (8, None, "'My offer still stands, know that.' Mathias brings back his buyout proposal."),
     (9, None, "'You want to buy out my shares?' Hicham clarifies Mathias's intentions."),
     (10, None, "'I want to free you at last.' Mathias frames the buyout as liberating Hicham from unwanted stress."),
     (11, None, "'Your partners betray you cowardly.' Mathias drives a wedge between Hicham and his associates."),
     (12, None, "'And with you, it will be different?' Hicham questions whether Mathias is truly trustworthy."),
-    (13, None, "'ASK is my agency.' Mathias asserts his deep emotional and historical bond to ASK."),
+    (13, None, "'ASK is my agency.' Mathias asserts his deep emotional and historical bond to ASK. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

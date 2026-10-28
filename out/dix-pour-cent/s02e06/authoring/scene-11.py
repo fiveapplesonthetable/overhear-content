@@ -37,7 +37,7 @@ WALK = [
     (0, None, "'Good evening everyone, thank you for coming.' Juliette greets the imaginary audience on stage."),
     (1, None, "'It is with immense pride that I welcome you here.' Juliette delivers an emotional opening line."),
     (2, None, "'In the most beautiful place in the world: a movie theater.' Juliette praises the cinema hall."),
-    (3, None, "'I have your earpiece. Do you want to try it?' The technician interrupts to fit the prompting device."),
+    (3, None, "'I have your earpiece. Do you want to try it?' The technician prompts device."),
     (4, None, "'How does it work?' Juliette asks about the technical operation."),
     (5, None, "'I can show you if you like.' The technician offers a direct demonstration."),
     (6, None, "'Do you mind if we speak informally?' The technician asks to drop formal address."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'It is just a voice in your head, like your own thoughts.' The technician coaches her mental approach."),
     (13, None, "'Oh, yes! I understand now.' Juliette catches on to the technique."),
     (14, None, "'Do you receive me? Take a step back.' The technician tests the wireless range."),
-    (15, None, "'Very good, it is operational.' The technician concludes the audio test successfully."),
+    (15, None, "'Very good, it is operational.' The technician concludes the audio test successfully. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

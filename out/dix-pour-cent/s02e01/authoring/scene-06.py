@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the entire conversation once more from start t
 OUTRO = "Arlette's discovery confirms the agents' worst fears: François Bréhier is actively trying to buy out ASK while Virginie and Ramzy's romance unravels. Mathias immediately gathers all the partners in the conference room for an emergency financial meeting. See you next time!"
 CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
-    ('arlette', "C'est le directeur de StarMedia avec la femme de Samuel Kerr.", 'That is the director of StarMédia with Samuel Kerr\\', [(131, "C'est"), (131, "C'est")], ''),
+    ('arlette', "C'est le directeur de StarMedia avec la femme de Samuel Kerr.", "That is the director of StarMédia with Samuel Kerr\\'s wife.", [(131, "C'est"), (131, "C'est")], ''),
     ('gabriel', "Elle trompe Ramzy? Ce n'est pas possible.", 'She is cheating on Ramzy? That is not possible.', [(128, '-Elle trompe Ramzy ? -Non.')], ''),
     ('noemie', "Elle le quitte? Des histoires de couple, c'est ma veine.", 'She is leaving him? Couple dramas are just my luck.', [(130, 'Elle le quitte ?'), (131, "Ne me demande pas. Des histoires de couple, c'est ma veine.")], ''),
     ('gabriel', 'On sait qui est le type sur la photo?', 'Do we know who the guy in the photo is?', [(132, 'On sait qui est le type ?')], ''),
@@ -43,7 +43,7 @@ WALK = [
     (8, None, "'If they break up now, it is a disaster for the film.' Gabriel worries that the breakup will cause their new movie to flop."),
     (9, None, "'That is the last thing we needed! Everything is going wrong this morning.' Arlette announces that an even bigger crisis is brewing."),
     (10, None, "'What do you mean? What is happening?' Gabriel asks for clarification about her warning."),
-    (11, None, "'I just saw François Bréhier with Hélène Kerr at Mansart.' The construction venir de followed by an infinitive indicates a recent action."),
+    (11, None, "'I just saw François Bréhier with Hélène Kerr at Mansart.' This construction venir de followed by an infinitive indicates a recent action."),
     (12, None, "'He wants to buy us out? He is our biggest rival!' Noemie expresses immediate alarm at StarMedia acquiring their shares."),
-    (13, None, "'Bréhier is a scavenger. He would do anything to sink us.' Arlette calls rival agent Bréhier a scavenger who preys on their crises."),
+    (13, None, "'Bréhier is a scavenger. He would do anything to sink us.' Arlette calls rival agent Bréhier a scavenger who preys on their crises. Now let's listen to the entire conversation once more from start to finish."),
 ]

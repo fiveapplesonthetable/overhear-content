@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Virginie | Le ciel est plus pur que mon cœur! | The sky is purer than my heart! | #714: « Le ciel est plus pur que le fond de mon cœur ! » | verbatim |
 | 11 | Gabriel | Tu veux juste te moquer de moi. | You just want to make fun of me. | #716: Tu veux juste m'enfermer, c'est ça ? | verbatim |
 | 12 | Virginie | Tu seras magnifique sur scène. | You will be magnificent on stage. | #718: je te présenterai au monde<br>#722: Elle est magnifique ! | verbatim |
-| 13 | Virginie | Allez, on se met au travail tout de suite. | Come on, let | #725: Bon, on se met au travail | verbatim |
+| 13 | Virginie | Allez, on se met au travail tout de suite. | Come on, let's get to work right away. | #725: Bon, on se met au travail | verbatim |
 | 14 | Gabriel | D'accord, je veux bien essayer. | All right, I am willing to try. | #726: D'accord | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You just want to make fun of me.' Gabriel suspects she is only trying to tease him.
 - 'You will be magnificent on stage.' She assures him that audiences will be dazzled.
 - 'Come on, let's get to work right away.' She enthusiastically pushes him to begin his training.
-- 'All right, I am willing to try.' Gabriel gives in playfully to her theatrical coaching.
+- 'All right, I am willing to try.' Gabriel gives in playfully to her theatrical coaching. Now let's listen to the entire exchange once more from beginning to end.

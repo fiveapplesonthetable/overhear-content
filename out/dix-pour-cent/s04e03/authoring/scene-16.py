@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'She defends endangered species.' Mathias describes the guest's passionate activism."),
     (11, None, "'She fights slaughterhouse cruelty.' Mathias casually mentions that she campaigns against meat production."),
     (12, None, "'You tell me that now?' Noemie is horrified that she cooked a meat feast for an animal activist."),
-    (13, None, "'My nice roast is burned!' Noemie realizes with despair that her main dish cannot be served."),
+    (13, None, "'My nice roast is burned!' Noemie realizes with despair that her main dish cannot be served. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

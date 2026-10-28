@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Noémie | Le médecin t'a posé ce moniteur? | Did the doctor place this monitor on you? | #878: surveiller votre rythme cardiaque | verbatim |
 | 2 | Mathias | Oui, pour surveiller mon rythme cardiaque. | Yes, to monitor my heart rate. | #878: surveiller votre rythme cardiaque | verbatim |
 | 3 | Noémie | Tu dois te reposer à la maison. | You must rest at home. | #888: Prêt à rentrer à la maison ? | verbatim |
-| 4 | Mathias | Igor veut aller chez le réalisateur. | Igor wants to go to the director | #895: On a rendez-vous avec Jean-Jacques Annaud | verbatim |
+| 4 | Mathias | Igor veut aller chez le réalisateur. | Igor wants to go to the director's house. | #895: On a rendez-vous avec Jean-Jacques Annaud | verbatim |
 | 5 | Noémie | Tu as failli mourir d'un infarctus! | You almost died of a heart attack! | #898: il a fait un infarctus ?<br>#906: Tu as failli mourir | verbatim |
 | 6 | Mathias | C'est un rendez-vous très important aujourd'hui. | It is a very important meeting today. | #896: Tu vas travailler là, maintenant ? | verbatim |
 | 7 | Noémie | Igor traite tout le monde sans pitié. | Igor treats everyone without mercy. | #904: tout le monde est traité comme de la merde | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Mathias | Tu es vraiment en colère, ma chérie. | You are truly angry, my darling. | #910: je suis en colère ! | verbatim |
 | 13 | Noémie | Je refuse de te laisser mourir bêtement. | I refuse to let you die stupidly. | #916: Va te faire foutre | verbatim |
 | 14 | Mathias | Rentrons chez nous nous reposer ensemble. | Let us go home to rest together. | #888: rentrer à la maison | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Your life is worth more than this film.' Noemie reestablishes human priorities.
 - 'You are truly angry, my darling.' Mathias feels both chastised and deeply loved.
 - 'I refuse to let you die stupidly.' Noemie stands between him and exhaustion.
-- 'Let us go home to rest together.' Mathias surrenders to love and good sense.
+- 'Let us go home to rest together.' Mathias surrenders to love and good sense. Now let's listen to the complete discussion once more to reinforce the vocabulary.

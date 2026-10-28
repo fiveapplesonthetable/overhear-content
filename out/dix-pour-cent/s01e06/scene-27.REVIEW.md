@@ -20,22 +20,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Mathias | Pourquoi le tribunal? | Why the court? | #708: Pourquoi le tribunal | verbatim |
 | 9 | Colette | L'entreprise a payé une chambre d'hôtel privée pendant dix ans. | The company paid for a private hotel room for ten years. | #709: L'entreprise a payé une chambre d'hôtel privée pendant dix ans | verbatim |
 | 10 | Colette | L'agence payait ses vacances et sa grande maison. | The agency was paying for his vacations and his big house. | #710: Les femmes de ménage et les vacances étaient payées avec l'argent de l'agence | verbatim |
-| 11 | Colette | Certains ont même acheté des chaussettes avec l'argent de la société! | Some people even bought socks with the company | #713: Certains ont même acheté des chaussettes avec l'argent de la société | verbatim |
-| 12 | Gabriel | C'est différent. C'était un festival dans les Alpes, j'avais les pieds gelés! | That | #714: C'est différent<br>#715: C'était un festival dans les Alpes, j'avais les pieds gelés | verbatim |
-| 13 | Colette | C'est un délit. Désolée. Au revoir. | It | #718: C'est un délit. Désolée<br>#719: Au revoir | verbatim |
+| 11 | Colette | Certains ont même acheté des chaussettes avec l'argent de la société! | Some people even bought socks with the company's money! | #713: Certains ont même acheté des chaussettes avec l'argent de la société | verbatim |
+| 12 | Gabriel | C'est différent. C'était un festival dans les Alpes, j'avais les pieds gelés! | That's different. It was a festival in the Alps, my feet were freezing! | #714: C'est différent<br>#715: C'était un festival dans les Alpes, j'avais les pieds gelés | verbatim |
+| 13 | Colette | C'est un délit. Désolée. Au revoir. | It's an offense. Sorry. Goodbye. | #718: C'est un délit. Désolée<br>#719: Au revoir | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, everyone.' Literally 'Good day to all.'
 - 'Hello.' Mathias answers politely, bracing for the report.
-- 'You just lost your boss. I am sorry.'m sorry.' The tax auditor offers her condolences for Samuel's death before getting down to business.
+- 'You just lost your boss. I am sorry.' The tax auditor offers her condolences for Samuel's death before getting down to business.
 - 'But the law is the law.' Colette makes it clear that grief does not excuse breaking tax rules.
 - 'A company is not a family. There are laws.' Colette reminds the partners sternly that a company is governed by laws, not family ties.
 - 'You confuse private life and professional life.' Notice how both adjectives come after the feminine noun 'life'.
 - 'You are going to pay a big fine in court.' The future form 'there will be' introduces the penalty.
 - 'Why the court?' Mathias is stunned that the audit is going beyond a simple tax bill.
 - 'The company paid for a private hotel room for ten years.' Here, Samuel Kerr lived in a luxury hotel at the agency's expense.
-- 'The agency was paying for his vacations and his big house.'s money.' The partners treated the company bank account like their personal wallet.
+- 'The agency was paying for his vacations and his big house.' The partners treated the company bank account like their personal wallet.
 - 'Some people even bought socks with the company's money!' The word for 'even' sits between the helper verb and the past participle.
 - 'That's different. It was a festival in the Alps, my feet were freezing!' Gabriel tries to defend his ski-festival socks.
 - 'It's an offense. Sorry. Goodbye.' Colette closes her file and walks out without looking at Andrea.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Tu veux venir avec moi ce soir? | Do you want to come with me tonight? | #893: venir avec moi ce soir | verbatim |
 | 14 | Sarah | Non, tu penses seulement au travail. | No, you only think about work. | #894: Sarah | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Do not worry about Sandrine.' Sarah tries to soothe Gabriel's anxiety over his famous client.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right, I am leaving now.' Fed up with his inattention, Sarah turns toward the door.
 - 'Yes I am, I am truly listening to you!' Gabriel looks up in a panic and denies ignoring her.
 - 'Do you want to come with me tonight?' Gabriel tries to make amends by inviting her out.
-- 'No, you only think about work.' Sarah rejects his offer and walks down the hallway.
+- 'No, you only think about work.' Sarah rejects his offer and walks down the hallway. Now let's listen to the complete discussion once more to reinforce the vocabulary.

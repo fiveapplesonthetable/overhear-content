@@ -31,8 +31,8 @@ STORY = [
     ('andrea', 'Non!', 'No!', [(284, 'Non')], ''),
     ('colette', 'Si. Toujours un coiffeur différent.', 'Yes, you do. Always a different hairdresser.', [(284, 'Si. Toujours un coiffeur différent')], ''),
     ('colette', 'Et tu as beaucoup de petites amies.', 'And you have lots of girlfriends.', [(286, 'Et tu as beaucoup de petites amies')], ''),
-    ('andrea', "C'est faux. Je suis souvent seule.", 'That', [(286, 'Faux'), (290, 'Je suis souvent')], ''),
-    ('colette', "De toute façon, tu n'es pas quelqu'un pour moi.", 'Anyway, you', [(287, "De toute façon, tu n'es pas quelqu'un pour moi")], ''),
+    ('andrea', "C'est faux. Je suis souvent seule.", "That's false. I'm often alone.", [(286, 'Faux'), (290, 'Je suis souvent')], ''),
+    ('colette', "De toute façon, tu n'es pas quelqu'un pour moi.", "Anyway, you're not someone for me.", [(287, "De toute façon, tu n'es pas quelqu'un pour moi")], ''),
 ]
 WALK = [
     (0, None, "'Andréa! Brancillon came to my place at seven in the morning!' The verb 'to come' uses 'to be' in the past tense, so 'came' has a feminine ending for Brancillon."),
@@ -41,7 +41,7 @@ WALK = [
     (3, None, "'Colette? Hello! This jacket is very nice.' Later, in a clothes shop, Andréa approaches Colette by the racks."),
     (4, None, "'Do you want to have dinner with me tonight?' Andréa stays on the polite 'you' and invites her out."),
     (5, None, "'Stop it, Andréa. I know who you are.' Colette switches straight to the informal 'you'."),
-    (6, None, "'Really?' Two short words that mean 'oh really?' or 'is that so?'."),
+    (6, None, "'Really?' Andréa replies with two short words that mean 'oh really?' or 'is that so?'."),
     (7, None, "'Yes. I see everything in your bills.' Every restaurant receipt and shop bill is sitting in Colette's audit file."),
     (8, None, "'What?' Andréa is caught off guard."),
     (9, None, "'Everything. You eat very badly, and you never take a holiday.' The negative wraps around 'take' with the word for 'never'."),
@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'Yes, you do. Always a different hairdresser.' Once again, the special word for 'yes' contradicts Andréa's 'no'."),
     (14, None, "'And you have lots of girlfriends.' Literally 'little friends' in the feminine."),
     (15, None, "'That's false. I'm often alone.' For once, Andréa drops her tough act and speaks honestly."),
-    (16, None, "'Anyway, you're not someone for me.' The three-word phrase at the start means 'in any case' or 'anyway'."),
+    (16, None, "'Anyway, you're not someone for me.' This three-word phrase at the start means 'in any case' or 'anyway'."),
 ]

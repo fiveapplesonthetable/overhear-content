@@ -11,9 +11,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Gabriel | Ce film turc est en compétition officielle? | Is that Turkish film in the official competition? | #512: Ce film turc est en compétition officielle ? | verbatim |
-| 2 | Arlette | Non, il passe à la Quinzaine des réalisateurs. | No, it is screening at the Directors | #513: Non, c'est à la Quinzaine des cinéastes. | verbatim |
+| 2 | Arlette | Non, il passe à la Quinzaine des réalisateurs. | No, it is screening at the Fortnight of Directors. | #513: Non, c'est à la Quinzaine des cinéastes. | verbatim |
 | 3 | Gabriel | C'est la sélection pour les premiers films? | Is that the selection for first films? | #514: C'est pour les premiers films ? | verbatim |
-| 4 | Arlette | Non, ça c'est la Semaine de la Critique. | No, that is the Critics | #514: Non, ça c'est la Semaine de la Critique. | verbatim |
+| 4 | Arlette | Non, ça c'est la Semaine de la Critique. | No, that is the Week of the Critics. | #514: Non, ça c'est la Semaine de la Critique. | verbatim |
 | 5 | Gabriel | Je n'y comprends vraiment rien du tout. | I really do not understand anything at all. | #515: Je n'y comprends rien. | verbatim |
 | 6 | Arlette | Il y a aussi une section appelée ACID. | There is also a section called ACID. | #515: Il y a aussi l'ACID.<br>#517: Une compétition s'appelle l'ACID ? | verbatim |
 | 7 | Gabriel | C'est un nom assez surprenant pour un festival! | That is quite a surprising name for a festival! | #518: Ridicule ! | verbatim |
@@ -27,12 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Gabriel | Tu as raison, l'ambiance ici est magique. | You are right, the atmosphere here is magical. | #524: sentir l'ambiance sur la Croisette | verbatim |
 | 16 | Arlette | Alors va rejoindre Sofia et sois heureux! | Then go join Sofia and be happy! | #522: Allons-y.<br>#525: C'est Cannes ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Is that Turkish film in the official competition?' Gabriel checks the festival program.
-- 'No, it is screening at the Directors' Fortnight.' Arlette knows the festival categories well.
+- 'No, it is screening at the Fortnight of Directors.' Arlette knows the festival categories well.
 - 'Is that the selection for first films?' Gabriel asks for clarification.
-- 'No, that is the Critics' Week.' Arlette explains the distinctions patiently.
+- 'No, that is the Week of the Critics.' Arlette explains the distinctions patiently.
 - 'I really do not understand anything at all.' Gabriel admits his total confusion.
 - 'There is also a section called ACID.' Arlette mentions the independent cinema showcase.
 - 'That is quite a surprising name for a festival!' Gabriel smiles at the acronym.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Enjoy life, Gabriel, we are in Cannes!' Arlette urges him to embrace joy.
 - 'Look at the sun and the crowd on the Croisette.' Arlette gestures toward the bustling boulevard.
 - 'You are right, the atmosphere here is magical.' Gabriel begins to relax and enjoy the moment.
-- 'Then go join Sofia and be happy!' Arlette sends him off with heartfelt warmth.
+- 'Then go join Sofia and be happy!' Arlette sends him off with heartfelt warmth. Now let's listen to the cheerful stroll once more at normal pace.

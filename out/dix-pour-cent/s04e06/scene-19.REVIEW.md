@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Colette | Moi non plus, chère Andréa. | Me neither, dear Andrea. | #849: Tu ne m'as pas répondu... | verbatim |
 | 13 | Andréa | Merci pour ta tendresse et ton écoute. | Thank you for your tenderness and listening. | #849: Tu ne m'as pas répondu... | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You say nothing, Colette?' Andrea wonders about the long silence between them.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is a kiss of mutual respect.' Colette honors everything they shared together.
 - 'I will never forget our shared moments.' Andrea acknowledges the deep impact of their love.
 - 'Me neither, dear Andrea.' Colette smiles with peaceful finality.
-- 'Thank you for your tenderness and listening.' Andrea expresses her heartfelt gratitude.
+- 'Thank you for your tenderness and listening.' Andrea expresses her heartfelt gratitude. Now let's listen to the complete discussion once more to reinforce the vocabulary.

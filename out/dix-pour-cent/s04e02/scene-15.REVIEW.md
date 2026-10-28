@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Franck | Je regrette mon geste stupide. | I regret my stupid gesture. | #836: Gifle-moi | verbatim |
 | 14 | Dylan | Oublions ça pour le moment. | Let us forget that for now. | #836: on sera quittes | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hey! Dylan, wait a moment.' Franck calls after Dylan in the quiet alleyway.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And then, we will be able to speak calmly.' Franck hopes this gesture will open a genuine dialogue.
 - 'You are really strange today.' Dylan is struck by Franck's unconventional attempt at making peace.
 - 'I regret my stupid gesture.' Franck sincerely acknowledges his past bad behavior on the film set.
-- 'Let us forget that for now.' Dylan decides to let go of the grudge and move forward.
+- 'Let us forget that for now.' Dylan decides to let go of the grudge and move forward. Now let's listen to the complete discussion once more to reinforce the vocabulary.

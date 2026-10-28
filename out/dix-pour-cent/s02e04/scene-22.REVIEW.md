@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Il l'a fait pour toi seulement. | He did it for you only. | #639: Il l'a fait pour toi, pas pour moi. | verbatim |
 | 14 | Camille | Arrête d'imaginer le pire, Gabriel. | Stop imagining the worst, Gabriel. | #638: Il n'a pas hésité à te rendre service. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I can hear you from my office.' Gabriel complains about the noisy laughter drifting down the corridor.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is he still very angry with me?' Gabriel fears that past disagreements have poisoned their working relationship.
 - 'He still did you a favor.' The assistant points out that Hicham helped out despite their differences.
 - 'He did it for you only.' Gabriel remains convinced that Hicham acts solely out of personal loyalty to Camille.
-- 'Stop imagining the worst, Gabriel.' Camille encourages her colleague to stop overthinking every interaction.
+- 'Stop imagining the worst, Gabriel.' Camille encourages her colleague to stop overthinking every interaction. Now let's listen to the entire exchange once more from beginning to end.

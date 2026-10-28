@@ -11,20 +11,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Sofia | L'un est noir et l'autre est jaune. Ça a quel goût? | One is black and the other is yellow. What does it taste like? | #139: L'un est noir et l'autre est jaune. Ça a quel goût | verbatim |
-| 2 | Sofia | C'est horrible! Gabriel! | It | #141: C'est horrible. Gabriel | verbatim |
-| 3 | Sofia | Gabriel Sarda! C'est Gabriel Sarda, mon agent! | Gabriel Sarda! It | #142: Gabriel Sarda ! C'est Gabriel Sarda, mon agent | verbatim |
+| 2 | Sofia | C'est horrible! Gabriel! | It's horrible! Gabriel! | #141: C'est horrible. Gabriel | verbatim |
+| 3 | Sofia | Gabriel Sarda! C'est Gabriel Sarda, mon agent! | Gabriel Sarda! It's Gabriel Sarda, my agent! | #142: Gabriel Sarda ! C'est Gabriel Sarda, mon agent | verbatim |
 | 4 | Sofia | Il est venu m'encourager! | He came to encourage me! | #143: Venu m'encourager | verbatim |
-| 5 | Gabriel | Ça va? | How | #144: Ça va | verbatim |
+| 5 | Gabriel | Ça va? | How's it going? | #144: Ça va | verbatim |
 | 6 | Sofia | Oui! J'ai vu JoeyStarr. J'ai répété ma scène! | Yes! I saw JoeyStarr. I rehearsed my scene! | #144: Ouais<br>#145: J'ai vu JoeyStarr. J'ai répété ma scène | verbatim |
 | 7 | Sofia | Il a dit que j'étais super! Bien, non? | He said I was great! Good, right? | #145: il a dit que j'étais<br>#146: Super<br>#146: Bien, non | verbatim |
-| 8 | Gabriel | Je suis vraiment content pour toi. Une seconde. Allô? | I | #147: Je suis vraiment content pour toi<br>#148: Une seconde. Allô | verbatim |
-| 9 | Gabriel | C'est Anna. Oui, Anna, tout va bien? | It | #149: C'est Anna. Oui, Anna, tout va bien | verbatim |
-| 10 | Sofia | Je demande à mon agent. Ça sort quand? | I | #150: Je demande à mon agent<br>#151: Ça sort quand | verbatim |
+| 8 | Gabriel | Je suis vraiment content pour toi. Une seconde. Allô? | I'm really happy for you. One second. Hello? | #147: Je suis vraiment content pour toi<br>#148: Une seconde. Allô | verbatim |
+| 9 | Gabriel | C'est Anna. Oui, Anna, tout va bien? | It's Anna. Yes, Anna, is everything okay? | #149: C'est Anna. Oui, Anna, tout va bien | verbatim |
+| 10 | Sofia | Je demande à mon agent. Ça sort quand? | I'll ask my agent. When does it come out? | #150: Je demande à mon agent<br>#151: Ça sort quand | verbatim |
 | 11 | Gabriel | Aucune idée. | No idea. | #151: Aucune idée | verbatim |
 | 12 | Sofia | Je peux avoir des invitations? Oui, il dit oui! | Can I have invitations? Yes, he says yes! | #152: Je peux avoir des invitations<br>#153: Oui, il dit oui | verbatim |
-| 13 | Gabriel | Je vous laisse vous concentrer. | I | #154: Je vous laisse vous concentrer | verbatim |
+| 13 | Gabriel | Je vous laisse vous concentrer. | I'll leave you to concentrate. | #154: Je vous laisse vous concentrer | verbatim |
 | 14 | Sofia | Il y a des chevaux et tout! | There are horses and everything! | #155: Il y a des chevaux et tout | verbatim |
 | 15 | Andréa | Tiens, chérie. Ça va te faire du bien. Viens là. | Here, darling. This will do you good. Come here. | #156: Tiens, chérie. Ça va te<br>#157: Viens là | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

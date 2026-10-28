@@ -22,10 +22,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Jean-Denis | J'aimerais beaucoup la saluer, si c'est possible. | I would really like to greet her, if possible. | #278: J'aimerais beaucoup la saluer, si c'est possible. | verbatim |
 | 11 | Andréa | Vous voulez que je lui dise maintenant? | Do you want me to tell her now? | #279: Vous pouvez le lui dire<br>#280: Maintenant ? | verbatim |
 | 12 | Andréa | Oui, je l'appelle tout de suite. | Yes, I am calling her right away. | #281: Oui, je l'appelle. | verbatim |
-| 13 | Jean-Denis | Agent... C'est un drôle de métier, non? | Agent... It is a strange profession, isn | #282: Agent... Un drôle de métier, non ? | verbatim |
+| 13 | Jean-Denis | Agent... C'est un drôle de métier, non? | Agent... It is a strange profession, isn't it? | #282: Agent... Un drôle de métier, non ? | verbatim |
 | 14 | Jean-Denis | Travailler dans l'ombre pour que les autres brillent. | Working in the shadows so that others can shine. | #283: Travailler dans l'ombre pour que les autres brillent. | verbatim |
 | 15 | Jean-Denis | Shoen... Schoenaerts? | Shoen... Did you say Schoenaerts? | #285: Shoen... Schoenaerts ? | verbatim |
 | 16 | Andréa | Andréa Martel! C'est beaucoup plus simple. | Andréa Martel! That is much simpler. | #286: Andréa Martel ! C'est beaucoup plus simple. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Agent... It is a strange profession, isn't it?' Jean-Denis ponders the nature of talent representation.
 - 'Working in the shadows so that others can shine.' Jean-Denis describes an agent's self-effacing role.
 - 'Shoen... Did you say Schoenaerts?' Jean-Denis stumbles clumsily over Belgian actor names.
-- 'Andréa Martel! That is much simpler.' Andrea corrects him briskly with dry wit.
+- 'Andréa Martel! That is much simpler.' Andrea corrects him briskly with dry wit. Now let's listen to the entire dialogue once more to lock in what you have learned.

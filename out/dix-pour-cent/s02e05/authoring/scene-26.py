@@ -26,7 +26,7 @@ STORY = [
     ('guy', 'On pourrait prendre un verre après?', 'Could we have a drink afterwards?', [(863, 'On pourrait prendre un verre après')], ''),
     ('arlette', "D'accord, avec grand plaisir.", 'All right, with great pleasure.', [(864, "D'accord")], ''),
     ('guy', 'Il y a un petit café plus loin.', 'There is a little cafe down the road.', [(867, 'Il y a un petit café un peu plus loin')], ''),
-    ('guy', 'Vers vingt-deux heures, ça te va?', 'Around ten o', [(868, "22 heures ? C'est pas trop tard")], ''),
+    ('guy', 'Vers vingt-deux heures, ça te va?', "Around ten o'clock, is that good for you?", [(868, "22 heures ? C'est pas trop tard")], ''),
     ('arlette', "Ce n'est pas trop tard pour moi.", 'It is not too late for me.', [(870, "C'est pas trop tard")], ''),
     ('guy', "Alors à tout à l'heure, Arlette.", 'See you soon then, Arlette.', [(870, "C'est pas trop tard")], ''),
 ]
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'There is a little cafe down the road.' Guy suggests a cozy local spot."),
     (10, None, "'Around ten o'clock, is that good for you?' Guy checks whether the late hour suits her."),
     (11, None, "'It is not too late for me.' Arlette confirms that ten o'clock works perfectly."),
-    (12, None, "'See you soon then, Arlette.' Guy heads off to finish his scenes with high spirits."),
+    (12, None, "'See you soon then, Arlette.' Guy heads off to finish his scenes with high spirits. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

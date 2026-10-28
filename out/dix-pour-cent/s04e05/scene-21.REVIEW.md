@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Elle ne va rien nous avouer. | She is not going to confess anything to us. | #831: C'est pas une théorie | verbatim |
 | 14 | Andréa | Nous allons éclaircir cette affaire ensemble. | We are going to clear up this matter together. | #833: reprendre le travail | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Andrea, did you receive my messages?' Gabriel intercepts his colleague on the street.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She wants to destroy us from the inside.' Gabriel warns of an undercover plot.
 - 'Let us go ask her the question directly.' Andrea chooses a forthright solution.
 - 'She is not going to confess anything to us.' Gabriel warns that she will lie.
-- 'We are going to clear up this matter together.' Andrea wraps up the debate firmly.
+- 'We are going to clear up this matter together.' Andrea wraps up the debate firmly. Now let's listen to the complete discussion once more to reinforce the vocabulary.

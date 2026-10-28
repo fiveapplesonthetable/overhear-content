@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'They say afterwards that the party was boring.' Colette explains that those who complain make no effort themselves."),
     (10, None, "'A couple is what you make of it!' Colette emphasizes that partnership and family life reflect their own choices."),
     (11, None, "'It is true, I want a beautiful party.' Andrea realizes that she has the power to shape their shared journey."),
-    (12, None, "'I want this beautiful party with you.' Andrea lovingly commits to creating a joyful life together."),
+    (12, None, "'I want this beautiful party with you.' Andrea lovingly commits to creating a joyful life together. Now let's listen to the scene once more from start to finish."),
 ]

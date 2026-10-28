@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | J'aurais dû mieux te protéger, Jean. | I should have protected you better, Jean. | #1001: J'aurais dû mieux te protéger. | verbatim |
 | 14 | Jean | Merci Andréa, tu es une vraie amie. | Thank you Andrea, you are a true friend. | #992: je pense que | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I caused you a lot of trouble.' Jean expresses remorse for his disruptive behavior on set.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This role was too difficult for you.' Andrea recognizes how deeply the extreme part affected him.
 - 'This character completely transformed me.' Jean explains how lost he felt inside the role.
 - 'I should have protected you better, Jean.' Andrea acknowledges her protective duty as an agent.
-- 'Thank you Andrea, you are a true friend.' Jean deeply appreciates her understanding and support.
+- 'Thank you Andrea, you are a true friend.' Jean deeply appreciates her understanding and support. Now let's listen to the scene once more from start to finish.

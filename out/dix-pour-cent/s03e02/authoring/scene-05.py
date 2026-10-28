@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Why did you choose the first name Chantal?' Gabriel inquires about the humorous origin of her chosen pseudonym."),
     (10, None, "'I found that normal enough for me.' Monica explains that the name sounded pleasantly down-to-earth."),
     (11, None, "'Do you want to drink a nice mojito with me?' Gabriel gets drinks from the improvised kitchen bar."),
-    (12, None, "'Yes with pleasure, I am having a lot of fun!' Monica accepts the cocktail and enjoys her incognito adventure."),
+    (12, None, "'Yes with pleasure, I am having a lot of fun!' Monica accepts the cocktail and enjoys her incognito adventure. Now let's listen to the scene once more from start to finish."),
 ]

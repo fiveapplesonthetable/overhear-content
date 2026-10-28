@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Jean Dujardin acts with wild intensity in it.' Andrea praises the star's radical commitment to the role."),
     (10, None, "'The audience loves this genre of historical drama.' Maxime admits that intense wartime narratives attract critical acclaim."),
     (11, None, "'Watch this video excerpt on my computer screen.' Andrea turns her monitor to reveal exclusive behind-the-scenes files."),
-    (12, None, "'Show me these secret shots from the film set.' Maxime leans forward eagerly to inspect Dujardin's performance."),
+    (12, None, "'Show me these secret shots from the film set.' Maxime leans forward eagerly to inspect Dujardin's performance. Now let's listen to the scene once more from start to finish."),
 ]

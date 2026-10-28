@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Noémie | Veux-tu vraiment aller au grand dîner? | Do you really want to go to the big dinner? | #1005: aller au Fouquet's | verbatim |
-| 2 | Noémie | Le Fouquet's est plein de monde. | The Fouquet | #1005: aller au Fouquet's | verbatim |
+| 2 | Noémie | Le Fouquet's est plein de monde. | The Fouquet's is full of people. | #1005: aller au Fouquet's | verbatim |
 | 3 | Noémie | Tout le monde va t'accaparer là-bas. | Everyone will monopolize you over there. | #1006: va t'accaparer | verbatim |
 | 4 | Noémie | Je n'aurai pas une minute seule. | I will not have a single minute alone. | #1006: pas une minute avec toi | verbatim |
 | 5 | Noémie | Je veux passer la soirée ensemble. | I want to spend the evening together. | #1006: pas une minute avec toi | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Noémie | Mais elle me fait souffrir terriblement. | But it makes me suffer terribly. | #1009: c'est un cauchemar | verbatim |
 | 13 | Mathias | Alors, nous rentrons directement à l'hôtel. | So, we return directly to the hotel. | #1007: ce que tu veux, chéri | verbatim |
 | 14 | Noémie | C'est la meilleure idée de la soirée. | That is the best idea of the evening. | #1008: enlever cette robe maintenant | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Andréa | Et s'il existait une autre Isabelle? | And what if another Isabelle existed? | #237: deux Isabelle Huppert | verbatim |
 | 5 | Gabriel | Tu veux trouver une simple homonyme? | You want to find a simple namesake? | #244: Une meuf qui s'appelle vraiment | verbatim |
 | 6 | Gabriel | J'ai trouvé deux personnes portant ce nom. | I found two people bearing this name. | #249: une à Gentilly et l'autre à Épernay | verbatim |
-| 7 | Gabriel | Mais le rôle était Marie de Médicis! | But the role was Marie de | #257: Marie de Médicis | verbatim |
+| 7 | Gabriel | Mais le rôle était Marie de Médicis! | But the role was Marie de Medici! | #257: Marie de Médicis | verbatim |
 | 8 | Arlette | L'homonyme peut jouer le personnage mort. | The namesake can play the dead character. | #269: Marie de Médicis, mais morte | verbatim |
 | 9 | Andréa | Son fantôme, c'est une idée brillante! | Her ghost is a brilliant idea! | #270: son fantôme, c'est excellent | verbatim |
 | 10 | Arlette | C'est poétique et digne de Cocteau. | It is poetic and worthy of Cocteau. | #277: c'est très cocteau | verbatim |
@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Nous préviendrons l'actrice si cela fonctionne. | We will notify the actress if this works. | #312: On lui dira seulement si ça marche | verbatim |
 | 14 | Gabriel | Au travail pour sauver notre agence! | To work to save our agency! | #285: Avant ce soir | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mathias intends to resolve this crisis alone.' A strategic observation identifying the rival's primary source of leverage.
-- 'We must counter the Americans before him.' An urgent call to action demanding a preemptive strike.
-- 'Isabelle Huppert signed strict exclusivity.' A sobering reminder of the legal barrier posed by the contract.
-- 'And what if another Isabelle existed?' A provocative theoretical question opening up an unexpected loophole.
-- 'You want to find a simple namesake?' A skeptical query seeking clarity on an improbable legal ruse.
-- 'I found two people bearing this name.' A surprising factual update identifying two potential namesakes in phone registries.
-- 'But the role was Marie de' Medici!' A practical objection highlighting the difficulty of casting a non-actor as a queen.
-- 'The namesake can play the dead character.' An inspired creative compromise proposing to cast her as a deceased figure.
-- 'Her ghost is a brilliant idea!' An ecstatic endorsement adopting the supernatural acting concept.
-- 'It is poetic and worthy of Cocteau.' An artistic validation referencing celebrated cinema tradition.
-- 'We must shoot this scene immediately.' A decisive operational order mandating an immediate emergency film shoot.
-- 'We must finish this before tonight.' A temporal constraint emphasizing the deadline of the anniversary gala.
-- 'We will notify the actress if this works.' A cautious protective decision shielding their star talent from unnecessary anxiety.
-- 'To work to save our agency!' A passionate rally urging immediate collaborative action.
+- 'Mathias intends to resolve this crisis alone.' Andréa identifies the rival's primary source of leverage.
+- 'We must counter the Americans before him.' Andréa demands a preemptive strike.
+- 'Isabelle Huppert signed strict exclusivity.' Gabriel reminds them of the strict exclusivity clause in Isabelle's contract.
+- 'And what if another Isabelle existed?' Andréa opens up an unexpected loophole.
+- 'You want to find a simple namesake?' Gabriel seeks clarity on an improbable legal ruse.
+- 'I found two people bearing this name.' Gabriel identifies two potential namesakes in phone registries.
+- 'But the role was Marie de Medici!' Gabriel raises a practical objection, noting the difficulty of casting a non-actor as a queen.
+- 'The namesake can play the dead character.' Arlette proposes to cast her as a deceased figure.
+- 'Her ghost is a brilliant idea!' Andréa adopts the supernatural acting concept.
+- 'It is poetic and worthy of Cocteau.' Arlette references celebrated cinema tradition.
+- 'We must shoot this scene immediately.' Andréa mandates an immediate emergency film shoot.
+- 'We must finish this before tonight.' Gabriel emphasizes the deadline of the anniversary gala.
+- 'We will notify the actress if this works.' Andréa shields their star talent from unnecessary anxiety.
+- 'To work to save our agency!' Gabriel urges immediate collaborative action. Now let's listen to the trio elaborating their scheme again at full speed.

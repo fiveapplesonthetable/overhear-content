@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'You sleep with men now?' Gabriel playfully teases Andrea about her sudden departure from her usual dating preferences."),
     (10, None, "'No, it was a tiny exception.' Andrea insists the one-night stand was completely out of character."),
     (11, None, "'So, what was it like with Hicham?' Gabriel cannot resist probing for funny personal details."),
-    (12, None, "'It was very heavy and hairy!' Andrea's candid summary leaves Gabriel in stitches."),
+    (12, None, "'It was very heavy and hairy!' Andrea's candid summary leaves Gabriel in stitches. Now let's listen to the scene once more from start to finish."),
 ]

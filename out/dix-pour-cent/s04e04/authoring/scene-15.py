@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I finally read this book!' Mathias admits that he has only just skimmed the manuscript."),
     (11, None, "'It is crazy, it makes no sense!' Mathias openly mocks the content of the novel."),
     (12, None, "'Mathias, you really disgust me!' Noemie is appalled by his utter cynicism and lack of respect."),
-    (13, None, "'Noemie, wait, come back immediately!' Mathias calls after her in surprise as she storms out."),
+    (13, None, "'Noemie, wait, come back immediately!' Mathias calls after her in surprise as she storms out. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

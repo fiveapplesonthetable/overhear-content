@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Isabelle | Je ne peux pas planter une amie. | I cannot stand up a friend. | #689: Mais je peux pas planter Laura Adler<br>#690: Ça se fait pas | verbatim |
 | 14 | Mathias | Nous allons être très en retard! | We are going to be very late! | #688: tout au plus | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'That is very nice, this solidarity between agents.' Isabelle compliments Mathias on helping out.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That is not possible tonight, Isabelle!' Mathias panics over their tight schedule.
 - 'This show will take only twenty minutes.' Isabelle downplays the detour duration.
 - 'I cannot stand up a friend.' Isabelle refuses to ditch the host.
-- 'We are going to be very late!' Mathias stresses the impending production delay.
+- 'We are going to be very late!' Mathias stresses the impending production delay. Now let's listen to the entire dialogue once more to lock in what you have learned.

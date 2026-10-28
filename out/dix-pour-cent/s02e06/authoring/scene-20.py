@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Do you promise not to leave me alone?' Juliette demands guaranteed accompaniment."),
     (13, None, "'I will always be at your side on the boat.' Andréa makes an absolute pledge of protection."),
     (14, None, "'Alright, but we will leave after an hour.' Juliette imposes a strict time boundary."),
-    (15, None, "'It is promised, nobody will touch you!' Andréa seals the protective pact firmly."),
+    (15, None, "'It is promised, nobody will touch you!' Andréa seals the protective pact firmly. Now let's listen to the decisive conversation once more at normal pace."),
 ]

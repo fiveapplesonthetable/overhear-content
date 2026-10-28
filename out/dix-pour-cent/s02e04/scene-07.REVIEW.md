@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Sofia | J'ai pris un verre avec Julien Doré. | I had a drink with Julien Dore. | #174: Non, j'ai pris un verre avec Julien Doré. | verbatim |
-| 2 | Gabriel | Vraiment? Pourquoi tu ne m'as rien dit? | Really? Why didn | #175: Vraiment ? C'est super.<br>#176: Pourquoi tu me l'as pas dit ? | verbatim |
+| 2 | Gabriel | Vraiment? Pourquoi tu ne m'as rien dit? | Really? Why didn't you tell me anything? | #175: Vraiment ? C'est super.<br>#176: Pourquoi tu me l'as pas dit ? | verbatim |
 | 3 | Sofia | Je te le dis maintenant, Gabriel. | I am telling you now, Gabriel. | #177: Je te le dis là. | verbatim |
 | 4 | Gabriel | Comment a-t-il eu ton numéro? | How did he get your number? | #178: Il a ton numéro ? | verbatim |
 | 5 | Sofia | Je le lui ai donné hier soir. | I gave it to him yesterday evening. | #179: Je le lui ai donné à la soirée d'Elvis. | verbatim |
@@ -23,6 +23,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Sofia | Je fais des essais de voix demain! | I am doing voice tests tomorrow! | #185: Je fais des essais voix dans son studio demain. | verbatim |
 | 12 | Gabriel | C'est une nouvelle fantastique, chérie. | That is fantastic news, darling. | #186: Fantastique.<br>#187: C'est fantastique, chérie. | verbatim |
 | 13 | Gabriel | Et en plus, tu as apporté des chocolats! | And what is more, you brought chocolates! | #188: Et en plus tu as fait à dîner.<br>#190: Des chocolats ! | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are right. And so?' Gabriel smiles, setting aside his agent worries to hear the big outcome.
 - 'I am doing voice tests tomorrow!' Sofia delivers the thrilling news that Julien invited her into his recording studio.
 - 'That is fantastic news, darling.' Gabriel warmly congratulates her on this major breakthrough.
-- 'And what is more, you brought chocolates!' Gabriel happily spots the sweet treat she bought for dinner.
+- 'And what is more, you brought chocolates!' Gabriel happily spots the sweet treat she bought for dinner. Now let's listen to the scene once more from start to finish.

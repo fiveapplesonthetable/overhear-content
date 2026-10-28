@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hervé | Je vais recevoir un autre bouquet? | Will I receive another bouquet? | #490: Et un autre bouquet ? | verbatim |
 | 14 | Hervé | Je suis vraiment très heureux! | I am really very happy! | #491: je suis trop content ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Cut, that is a wrap!' Valerie announces the completion of the scene.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Another scene for my character?' Herve is astonished by the chance to expand his role.
 - 'Yes, an extra day of shooting!' Valerie confirms that production will extend his contract.
 - 'Will I receive another bouquet?' Herve jokes playfully about receiving more flowers.
-- 'I am really very happy!' Herve expresses pure joy at his growing acting prospects.
+- 'I am really very happy!' Herve expresses pure joy at his growing acting prospects. Now let's listen to the full discussion once again from start to finish.

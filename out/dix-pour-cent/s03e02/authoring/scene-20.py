@@ -23,7 +23,7 @@ STORY = [
     ('gabriel', "Passe-moi la cigarette, s'il te plaît.", 'Pass me the cigarette, please.', [(908, "Passe s'il te plaît.")], ''),
     ('gabriel', "C'est vrai qu'elle est très forte!", 'It is true that it is very strong!', [(907, 'est')], ''),
     ('sofia', "Pardon d'être sortie de la salle.", 'Sorry for having left the theater.', [], ''),
-    ('gabriel', "Tu n'aimes pas le film de Julien?", 'Do you not like Julien', [], ''),
+    ('gabriel', "Tu n'aimes pas le film de Julien?", "Do you not like Julien's movie?", [], ''),
     ('sofia', 'Si, le film est très beau.', 'Yes, the movie is very beautiful.', [(907, 'est')], ''),
     ('sofia', 'Mais je suis nue tout le temps!', 'But I am naked all the time!', [(906, 'Mais')], ''),
     ('sofia', "C'est une expérience très difficile, Gabriel.", 'It is a very difficult experience, Gabriel.', [(906, 'une')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'It is a very difficult experience, Gabriel.' Sofia shares the vulnerability of exposing herself."),
     (11, None, "'You are magnificent on this big screen.' Gabriel reassures her of her poise and beauty."),
     (12, None, "'The audience loves your immense talent!' Gabriel reminds her of the crowd's warm admiration."),
-    (13, None, "'Thank you Gabriel, you know how to reassure me.' Sofia appreciates her agent's sensitive encouragement."),
+    (13, None, "'Thank you Gabriel, you know how to reassure me.' Sofia appreciates her agent's sensitive encouragement. Now let's listen to the scene once more from start to finish."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Sweetheart, you must wake up.' Andrea enters the nursery to get her baby daughter ready."),
     (11, None, "'We are late for the daycare.' Andrea rushes over to the small bed."),
     (12, None, "'Flora? Where is my baby?' Andrea stares at the unoccupied sheets in disbelief."),
-    (13, None, "'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone."),
+    (13, None, "'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

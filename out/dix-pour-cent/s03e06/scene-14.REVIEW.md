@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Le réalisateur | Ce craquement gâche toute l'émotion. | This crunching ruins all the emotion. | #626: quand même | verbatim |
 | 11 | Gabriel | L'ingénieur du son peut nettoyer ça. | The sound engineer can clean that. | #626: quand même | verbatim |
 | 12 | Le réalisateur | Tu as toujours une solution, Gabriel. | You always have a solution, Gabriel. | #626: quand même | verbatim |
-| 13 | Gabriel | Gardons cette magnifique prise maintenant. | Let | #623: Je reviens du royaume | verbatim |
+| 13 | Gabriel | Gardons cette magnifique prise maintenant. | Let's keep this wonderful take now. | #623: Je reviens du royaume | verbatim |
 | 14 | Le réalisateur | D'accord, c'est bon pour moi! | Agreed, it is good for me! | #623: Je reviens du royaume | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The sound engineer can clean that.' Gabriel suggests fixing the audio in postproduction.
 - 'You always have a solution, Gabriel.' The director admires Gabriel's endless resourcefulness.
 - 'Let's keep this wonderful take now.' Gabriel presses to save the take and move on.
-- 'Agreed, it is good for me!' The director finally gives his approval.
+- 'Agreed, it is good for me!' The director finally gives his approval. Now let's listen to the complete discussion once more to reinforce the vocabulary.

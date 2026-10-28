@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Andréa | Réunion de crise pour le film de Béatrice. | Crisis meeting for Beatrice | #351: Ok, réunion de crise sur le hyper guette | verbatim |
+| 1 | Andréa | Réunion de crise pour le film de Béatrice. | Crisis meeting for Beatrice's film. | #351: Ok, réunion de crise sur le hyper guette | verbatim |
 | 2 | Andréa | Je veux du concret et des solutions. | I want concrete ideas and solutions. | #352: Je veux du précis, je veux du concret, je vous écoute | verbatim |
 | 3 | Mathias | L'épreuve de force va être très rude. | The power struggle will be very tough. | #364: On sait que l'épreuve de force va être difficile | verbatim |
 | 4 | Mathias | Il faut envoyer notre meilleur négociateur. | We must send our best negotiator. | #365: Donc il faut envoyer le meilleur d'entre nous au casse-pipe | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Très bien, Hicham, vas-y alors. | Very well, Hicham, go ahead then. | #380: Tu voudras | verbatim |
 | 13 | Mathias | Mais laisse-moi te briefer avant de partir. | But let me brief you before leaving. | #383: Mais tu me laisseras te briefer un peu avant d'y aller | verbatim |
 | 14 | Hicham | D'accord pour un brief rapide de dix minutes. | Agreed for a quick ten-minute briefing. | #383: Mais tu me laisseras te briefer un peu avant d'y aller | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am the one who will handle this producer.' Hicham claims the mission.
 - 'Very well, Hicham, go ahead then.' Andrea yields to Hicham's determination.
 - 'But let me brief you before leaving.' Mathias insists on providing tactical advice.
-- 'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time.
+- 'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time. Now let's listen to the entire dialogue once more to lock in what you have learned.

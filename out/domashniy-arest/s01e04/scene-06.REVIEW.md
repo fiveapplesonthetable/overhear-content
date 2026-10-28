@@ -45,7 +45,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I ask you to keep this a secret.' Literally, 'to leave this in secret'. Arkady's eyes light up with revenge.
 - 'A secret? And did you keep my secret yesterday?' In court yesterday, Golovkin revealed Arkady's housing fraud. Now Arkady has the perfect weapon over his lawyer.
 - 'I'll tell Samson everything this very day!' Adding the emphatic particle right after 'today' means 'today of all days, this very day'. And he points to his own bandaged head.
-- 'He'll find you!' future-tense form: one quick, painful result.
+- 'He'll find you!' That single Russian word promises one quick, painful result.
 - 'Look what he did to me.' Literally, 'what he with me did'. Golovkin panics.
 - 'Please, don't!' Just then, the investigator's door opens and Arkady is called inside, where Pasha is waiting at a table full of food.
 - 'Good morning, Arkady Borisovich. Come in, sit down, have a bite to eat.' Notice the mockery: Pasha greets him by his polite name and patronymic, and then gives him three informal commands in a row.

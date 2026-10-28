@@ -17,7 +17,7 @@ OUTRO = "Sofia's talent earns her a coveted voice trial with Julien Dore, celebr
 CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('sofia', "J'ai pris un verre avec Julien Doré.", 'I had a drink with Julien Dore.', [(174, "Non, j'ai pris un verre avec Julien Doré.")], ''),
-    ('gabriel', "Vraiment? Pourquoi tu ne m'as rien dit?", 'Really? Why didn', [(175, "Vraiment ? C'est super."), (176, "Pourquoi tu me l'as pas dit ?")], ''),
+    ('gabriel', "Vraiment? Pourquoi tu ne m'as rien dit?", "Really? Why didn't you tell me anything?", [(175, "Vraiment ? C'est super."), (176, "Pourquoi tu me l'as pas dit ?")], ''),
     ('sofia', 'Je te le dis maintenant, Gabriel.', 'I am telling you now, Gabriel.', [(177, 'Je te le dis là.')], ''),
     ('gabriel', 'Comment a-t-il eu ton numéro?', 'How did he get your number?', [(178, 'Il a ton numéro ?')], ''),
     ('sofia', 'Je le lui ai donné hier soir.', 'I gave it to him yesterday evening.', [(179, "Je le lui ai donné à la soirée d'Elvis.")], ''),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'You are right. And so?' Gabriel smiles, setting aside his agent worries to hear the big outcome."),
     (10, None, "'I am doing voice tests tomorrow!' Sofia delivers the thrilling news that Julien invited her into his recording studio."),
     (11, None, "'That is fantastic news, darling.' Gabriel warmly congratulates her on this major breakthrough."),
-    (12, None, "'And what is more, you brought chocolates!' Gabriel happily spots the sweet treat she bought for dinner."),
+    (12, None, "'And what is more, you brought chocolates!' Gabriel happily spots the sweet treat she bought for dinner. Now let's listen to the scene once more from start to finish."),
 ]

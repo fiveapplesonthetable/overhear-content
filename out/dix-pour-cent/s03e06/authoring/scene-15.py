@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Notify me as soon as they arrive downstairs.' Mathias gives clear orders."),
     (11, None, "'Does this matter stay strictly confidential?' Renard checks the required level of discretion."),
     (12, None, "'Yes, nobody must know that.' Mathias confirms the need for total discretion."),
-    (13, None, "'I keep absolute secrecy.' Renard promises complete loyalty and confidentiality."),
+    (13, None, "'I keep absolute secrecy.' Renard promises complete loyalty and confidentiality. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

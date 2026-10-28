@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Madame Bonnero | Je ne parle jamais aux journalistes. | I never talk to journalists. | #613: Je ne suis pas journaliste | verbatim |
 | 5 | Andréa | Je ne suis pas une journaliste! | I am not a journalist! | #613: Je ne suis pas journaliste | verbatim |
 | 6 | Madame Bonnero | Qui êtes-vous alors, jeune femme? | Who are you then, young woman? | #613: Je ne suis pas journaliste | verbatim |
-| 7 | Andréa | Entrons, je vous explique tout. | Let | #616: je vous explique tout | verbatim |
+| 7 | Andréa | Entrons, je vous explique tout. | Let's go in, I explain everything. | #616: je vous explique tout | verbatim |
 | 8 | Madame Bonnero | Venez dans ma cuisine chaleureuse. | Come into my warm kitchen. | #616: je vous explique tout | verbatim |
 | 9 | Andréa | Chez ASK, on connaît bien Dany. | At ASK, we know Dany well. | #617: Chez ASK, on connaît bien Dany | verbatim |
 | 10 | Madame Bonnero | Mathias s'occupait toujours de lui. | Mathias always took care of him. | #619: Comme sa famille | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Madame Bonnero | Prenez le temps et mangez bien. | Take the time and eat well. | #634: mangez bien | verbatim |
 | 13 | Andréa | Je veux bien prendre mon temps. | I really want to take my time. | #638: prendre mon temps | verbatim |
 | 14 | Madame Bonnero | Alors, qu'est-ce qu'on mange ensemble? | So, what do we eat together? | #640: Qu'est-ce qu'on mange | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Mathias abandoned ship.' Andrea uses a vivid metaphor for his sudden departure.
 - 'Take the time and eat well.' Madame Bonnero dispenses motherly wisdom.
 - 'I really want to take my time.' Andrea accepts the pause from agency stress.
-- 'So, what do we eat together?' Madame Bonnero prepares a generous northern meal.
+- 'So, what do we eat together?' Madame Bonnero prepares a generous northern meal. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Hervé | Je vais rester ici aussi. | I will stay here too. | #443: rester ici aussi | verbatim |
 | 15 | Noémie | Merci pour ton soutien, Hervé! | Thank you for your support, Hervé! | #446: Merci, Hervé | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It is horrible, truly horrible!' Herve vents about a bizarre dog incident outside.
@@ -42,4 +43,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is it because of a man?' He intuitively suspects romantic heartbreak behind her tears.
 - 'Yes, but I will get over it.' Noemie acknowledges the pain while trying to stay brave.
 - 'I will stay here too.' Touched by her distress, Herve decides to keep her company in Paris.
-- 'Thank you for your support, Hervé!' She appreciates his comforting presence during a difficult moment.
+- 'Thank you for your support, Hervé!' She appreciates his comforting presence during a difficult moment. Now listen to the whole scene again at normal speed, and see how much more you catch.

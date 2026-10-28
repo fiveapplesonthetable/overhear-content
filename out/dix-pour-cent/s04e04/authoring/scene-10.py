@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'To make Flora happy, be happy.' Elise offers wise perspective on prioritizing personal well-being."),
     (11, None, "'I just need a good nanny.' Andrea focuses on her immediate practical obstacle."),
     (12, None, "'Nannies in Paris are a mafia!' Elise jokes about the hyper-competitive and secretive nanny market."),
-    (13, None, "'Leave it to me, I know people.' Elise promises to unlock her secret contact list to find the ideal caregiver."),
+    (13, None, "'Leave it to me, I know people.' Elise promises to unlock her secret contact list to find the ideal caregiver. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

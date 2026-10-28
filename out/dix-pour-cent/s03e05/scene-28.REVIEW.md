@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Et avec toi, ce sera différent? | And with you, it will be different? | #1089: ce serait différent | verbatim |
 | 14 | Mathias | ASK, c'est mon agence. | ASK is my agency. | #1090: Aiska, c'est chez moi | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing here?' Hicham storms into Mathias's office demanding answers.
@@ -34,10 +35,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Start another competing agency?' Hicham cannot believe they plan to set up a rival company.
 - 'This cannot be possible!' Hicham reacts with sheer disbelief to the revelation.
 - 'I am completely disgusted today.' Hicham confesses his deep personal revulsion at their disloyalty.
-- 'I understand you perfectly, Hicham.' Mathias adopts a sympathetic tone to gain his confidence.
+- 'I understand you perfectly, Hicham.' Mathias speaks sympathetically to gain his confidence.
 - 'My offer still stands, know that.' Mathias brings back his buyout proposal.
 - 'You want to buy out my shares?' Hicham clarifies Mathias's intentions.
 - 'I want to free you at last.' Mathias frames the buyout as liberating Hicham from unwanted stress.
 - 'Your partners betray you cowardly.' Mathias drives a wedge between Hicham and his associates.
 - 'And with you, it will be different?' Hicham questions whether Mathias is truly trustworthy.
-- 'ASK is my agency.' Mathias asserts his deep emotional and historical bond to ASK.
+- 'ASK is my agency.' Mathias asserts his deep emotional and historical bond to ASK. Now let's listen to the complete discussion once more to reinforce the vocabulary.

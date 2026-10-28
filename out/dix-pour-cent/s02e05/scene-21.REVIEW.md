@@ -25,11 +25,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hicham | Quatre minutes, ça te suffit? | Are four minutes enough for you? | #671: Quatre minutes, ça suffit ? | verbatim |
 | 14 | Andréa | Oui, c'est largement suffisant. | Yes, that is more than enough. | #672: Oui, même moins. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing here, Andréa?' Hicham stops his jogging to question her unexpected presence.
 - 'Wait just one little minute.' Andrea urgently asks for a moment of his undivided attention.
-- 'I am doing my last lap.' The executive explains that he is concluding his workout.
+- 'I am doing my last lap.' Hicham concludes his workout.
 - 'I must ask you something.' She insists that she has an important topic to bring up.
 - 'Can we have a drink together?' Hicham proposes meeting more casually over drinks.
 - 'Why should we see each other?' Andrea remains skeptical of his motives after their past encounter.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What? Are you really serious?' Stunned by the revelation, he struggles to process the news.
 - 'I absolutely had to tell you.' She feels an ethical responsibility to inform the father.
 - 'Are four minutes enough for you?' He abruptly pivots to managing the conversation within his schedule.
-- 'Yes, that is more than enough.' Andrea accepts the brief window to outline her stance.
+- 'Yes, that is more than enough.' Andrea accepts the brief window to outline her stance. Now let's listen to the entire exchange once more from beginning to end.

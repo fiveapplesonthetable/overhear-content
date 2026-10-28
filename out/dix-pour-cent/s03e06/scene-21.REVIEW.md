@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Gabriel | Les producteurs américains posent des questions. | The American producers are asking questions. | #1018: de quoi vous nous accusiez | verbatim |
 | 2 | Andréa | Ils pensent qu'Isabelle a triché? | Do they think that Isabelle cheated? | #1020: Isabelle Huppert ne pouvait pas tourner | verbatim |
 | 3 | Gabriel | Ils ont vu le tournage nocturne. | They saw the night shoot. | #1031: tournage de Marie de Médicis | verbatim |
-| 4 | Andréa | Isabelle était au mariage de son fils! | Isabelle was at her son | #1022: mariage de son fils | verbatim |
+| 4 | Andréa | Isabelle était au mariage de son fils! | Isabelle was at her son's wedding! | #1022: mariage de son fils | verbatim |
 | 5 | Gabriel | Il s'agit d'un énorme malentendu. | This is a huge misunderstanding. | #1028: énorme malentendu | verbatim |
 | 6 | Andréa | Cédric Kahn a utilisé un double. | Cedric Kahn used a double. | #1073: vrai double de son actrice | verbatim |
 | 7 | Gabriel | Une doublure pour créer un fantôme. | A stand-in to create a ghost. | #1072: créer un fantôme | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Andréa | Allons leur montrer ce beau film. | Let us go show them this fine film. | #1101: Allez, on accouche | verbatim |
 | 13 | Gabriel | Espérons que le résultat soit convaincant. | Let us hope the result is convincing. | #1085: petit peu délicat | verbatim |
 | 14 | Andréa | Notre agence sauvera ce projet important. | Our agency will save this important project. | #1096: très important | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The first cut is in the office.' Gabriel points toward the projection room.
 - 'Let us go show them this fine film.' Andrea leads the delegation forward boldly.
 - 'Let us hope the result is convincing.' Gabriel tempers enthusiasm with realism.
-- 'Our agency will save this important project.' Andrea rallies her fellow agent.
+- 'Our agency will save this important project.' Andrea rallies her fellow agent. Now let's listen to the complete discussion once more to reinforce the vocabulary.

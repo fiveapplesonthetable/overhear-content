@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'I recognize your street well now.' Hicham recalls past visits to her apartment block."),
     (10, None, "'Are you worried about the future baby?' Hicham asks if she feels anxious about impending motherhood."),
     (11, None, "'I do not know what I will do.' Andrea confesses her deep uncertainty about the road ahead."),
-    (12, None, "'We will see each other on my return from Cannes.' Andrea defers major life decisions until after the festival."),
+    (12, None, "'We will see each other on my return from Cannes.' Andrea defers major life decisions until after the festival. Now let's listen to the scene once more from start to finish."),
 ]

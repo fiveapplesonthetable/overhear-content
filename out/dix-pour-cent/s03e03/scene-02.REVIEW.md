@@ -25,19 +25,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | C'est notre grand avenir professionnel. | It is our great professional future. | #140: monter une agence concurrente | verbatim |
 | 14 | Andréa | Gardons ce grand secret pour nous. | Let us keep this great secret to ourselves. | #142: Vous n'avez parlé à personne ?<br>#143: Non, bien sûr que non. | verbatim |
 
+
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The lawyer confirmed our secret meeting.' A confidential declaration confirming an essential legal appointment.
-- 'Perfect, we must remain very discreet.' An imperative warning emphasizing extreme professional secrecy.
-- 'Hicham must suspect nothing.' A protective modal phrase guarding against agency executive suspicion.
-- 'We want to create our own agency.' A bold declaration stating collective entrepreneurial independence.
-- 'What are the legal risks?' A direct interrogative inquiring into commercial compliance constraints.
-- 'We must avoid asset stripping ASK.' A serious legal caution preventing illegal corporate dismantling.
-- 'What does the law say exactly?' A precise inquiry demanding exact statutory boundaries.
-- 'Our combined figures remain under fifty percent.' A reassuring statistical compliance statement.
-- 'We respect this essential rule.' A confident confirmation adhering strictly to statutory norms.
-- 'Do not sign any new big contract.' A strategic negative imperative freezing new business acquisition.
-- 'I will drag out the negotiations.' A pragmatic near-future promise to delay impending deals.
-- 'The new agency will open soon.' An optimistic temporal anticipation looking forward to launch day.
-- 'It is our great professional future.' An inspiring summary expressing long-term career ambition.
-- 'Let us keep this great secret to ourselves.' A mutual imperative pact pledging total discretion.
+- 'The lawyer confirmed our secret meeting.' Gabriel confirms an essential legal appointment.
+- 'Perfect, we must remain very discreet.' Andréa emphasizes extreme professional secrecy.
+- 'Hicham must suspect nothing.' Gabriel warns them that Hicham must not suspect a thing.
+- 'We want to create our own agency.' Andréa states collective entrepreneurial independence.
+- 'What are the legal risks?' Gabriel inquires into commercial compliance constraints.
+- 'We must avoid asset stripping ASK.' Andréa prevents illegal corporate dismantling.
+- 'What does the law say exactly?' Gabriel demands exact statutory boundaries.
+- 'Our combined figures remain under fifty percent.' Andréa states reassuringly that their combined figures stay under fifty percent.
+- 'We respect this essential rule.' Gabriel confirms that they respect this essential rule.
+- 'Do not sign any new big contract.' Andréa freezes new business acquisition.
+- 'I will drag out the negotiations.' Gabriel promises to drag out the negotiations to buy time.
+- 'The new agency will open soon.' Andréa looks forward to launch day.
+- 'It is our great professional future.' Gabriel expresses long-term career ambition.
+- 'Let us keep this great secret to ourselves.' Andréa pledges total discretion. Now let's listen to Andrea and Gabriel again at full speed.

@@ -25,19 +25,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Hippolyte | Voulez-vous qu'on répète notre texte ensemble? | Do you want us to rehearse our text together? | #24: Vous voulez qu'on répète les répliques ? | verbatim |
 | 14 | Guy | Oui, volontiers, cela me fera du bien. | Yes, gladly, that will do me good. | #25: Ça me fera du bien aussi.<br>#26: Oui, volontiers. Merci. | verbatim |
 
+
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I took up cycling recently.' A pronominal idiom expressing taking up a new sporting hobby.
+- 'I took up cycling recently.' Hippolyte takes up a new sporting hobby.
 - 'I really love doing sport in the morning.' Jogging alongside his father, Hippolyte says he loves exercising in the morning.
-- 'Do you do many kilometers per week?' An interrogative phrase inquiring about training distance.
-- 'Yes, about one hundred fifty kilometers every week.' A cardinal distance total showing athletic discipline.
-- 'That is impressive, that is a lot of road!' An appreciative exclamatory evaluation acknowledging effort.
-- 'I came to the movie set by bicycle.' A compound past motion verb detailing morning commute.
-- 'It helps me stay calm and focused.' A causation verb governing coordinated infinitive benefits.
-- 'Me, I must go over my lines.' A stressed personal pronoun introducing professional study.
-- 'Are you stressing out a bit today?' An inverted polite question checking on colleague anxiety.
-- 'A bit, yes, shooting is starting.' A candid admission of tension on the first day of filming.
+- 'Do you do many kilometers per week?' Guy inquires about training distance.
+- 'Yes, about one hundred fifty kilometers every week.' Hippolyte shows the discipline of a serious athlete.
+- 'That is impressive, that is a lot of road!' Guy acknowledges effort.
+- 'I came to the movie set by bicycle.' Hippolyte details morning commute.
+- 'It helps me stay calm and focused.' Hippolyte explains how archery helps him stay calm and focused.
+- 'Me, I must go over my lines.' Guy introduces professional study.
+- 'Are you stressing out a bit today?' Hippolyte checks on colleague anxiety.
+- 'A bit, yes, shooting is starting.' Guy candidly admits feeling tense on the first day of filming.
 - 'You are always flawless in your movies.' Generous peer praise recognizing consistent screen quality.
-- 'Thank you Hippolyte, that is very kind of you.' A gracious polite formula acknowledging the compliment.
-- 'Do you want us to rehearse our text together?' A cooperative proposal suggesting line rehearsal.
-- 'Yes, gladly, that will do me good.' An appreciative acceptance welcoming rehearsal support.
+- 'Thank you Hippolyte, that is very kind of you.' Guy acknowledges the compliment.
+- 'Do you want us to rehearse our text together?' Hippolyte suggests line rehearsal.
+- 'Yes, gladly, that will do me good.' Guy welcomes rehearsal support. Now let's listen to Hippolyte and Guy's friendly chat again at full speed.

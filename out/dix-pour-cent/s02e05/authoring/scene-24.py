@@ -22,7 +22,7 @@ STORY = [
     ('guy', "C'était pour te détendre avant de commencer.", 'It was to relax you before starting.', [(758, "C'était pour te détendre.")], ''),
     ('guy', 'Tu ne connais pas ça, échanger les répliques?', 'Do you not know that, swapping lines?', [(759, 'Tu ne connais pas ça, échanger les répliques ?')], ''),
     ('vera', 'Je voudrais voir ce que cela donne.', 'I would like to see what that produces.', [(766, 'Je sais, mais je voudrais voir ce que ça donne.')], ''),
-    ('vera', 'Hippolyte, peux-tu dire le texte de Guy?', 'Hippolyte, can you say Guy', [(767, 'Hippolyte, tu peux dire le texte de Guy ?')], ''),
+    ('vera', 'Hippolyte, peux-tu dire le texte de Guy?', "Hippolyte, can you say Guy's lines?", [(767, 'Hippolyte, tu peux dire le texte de Guy ?')], ''),
     ('hippolyte', "D'accord, je commence par la première phrase.", 'Okay, I start with the first sentence.', [(769, "-Si, tu peux. -D'accord."), (771, 'Voilà ! On fait comme ça.')], ''),
     ('hippolyte', "Elle m'a regardé et je l'ai regardée.", 'She looked at me and I looked at her.', [(775, "Elle m'a regardé, je l'ai regardée.")], ''),
     ('hippolyte', "Elle était encore plus belle qu'avant.", 'She was even more beautiful than before.', [(777, "Elle était plus belle qu'avant.")], ''),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'To seduce, one must be very active!' Hippolyte coaches Guy to take romantic initiative."),
     (12, None, "'Hello, I remember you very well.' Guy adjusts his tone into an assertive, seductive greeting."),
     (13, None, "'It is much better, we grasp this moment!' Hippolyte commends the newfound energy of their exchange."),
-    (14, None, "'Perfect, let us continue this fine rehearsal together.' Vera approves of their creative breakthrough."),
+    (14, None, "'Perfect, let us continue this fine rehearsal together.' Vera approves of their creative breakthrough. Now let's listen to the scene once more from start to finish."),
 ]

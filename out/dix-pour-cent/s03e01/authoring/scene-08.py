@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'That is too crazy for our family comedy, Andrea.' Maxime worries that a feral star will ruin his mainstream movie."),
     (10, None, "'So tell me finally where Jean Dujardin is hiding.' Maxime demands the actor's immediate whereabouts."),
     (11, None, "'He is simply taking a few days of well-deserved rest.' Andrea tries to downplay the actor's ongoing breakdown."),
-    (12, None, "'I want to see him tomorrow in my office!' Maxime delivers a firm ultimatum before walking out."),
+    (12, None, "'I want to see him tomorrow in my office!' Maxime delivers a firm ultimatum before walking out. Now let's listen to the scene once more from start to finish."),
 ]

@@ -20,7 +20,7 @@ STORY = [
     ('gabriel', "J'adore l'affiche, elle est trop belle.", 'I love the poster, it is so beautiful.', [(177, "J'adore l'affiche."), (178, 'Elle est trop belle.')], ''),
     ('sofia', 'Merci les gars! Vous me manquez beaucoup.', 'Thanks guys! I miss you a lot.', [(184, 'Merci, les gars.'), (185, 'Vous me manquez')], ''),
     ('gabriel', 'Mais toi aussi, tu nous manques.', 'We miss you too.', [(186, 'Mais toi aussi.')], ''),
-    ('andrea', 'Je vais chez Dujardin pour régler un problème.', 'I am going to Dujardin', [(193, 'je vais chez Dujardin.')], ''),
+    ('andrea', 'Je vais chez Dujardin pour régler un problème.', "I am going to Dujardin's place to settle a problem.", [(193, 'je vais chez Dujardin.')], ''),
     ('andrea', 'Oh, mince!', 'Oh, darn!', [(196, 'Oh, putain !')], ''),
     ('gabriel', "Qu'est-ce qui se passe? Ça va?", 'What is going on? Are you alright?', [(197, "Qu'est-ce qui se passe ? Ça va ?")], ''),
     ('andrea', "Ça va, c'est rien.", 'I am fine, it is nothing.', [(198, "Ça va, c'est rien.")], ''),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Working so much is bad for the baby.' Gabriel cautions against overworking during pregnancy."),
     (13, None, "'I love my work, I do not want to stop.' Andrea asserts her professional dedication."),
     (14, None, "'You must rest a little, Andrea.' Gabriel urges her to take care of her health."),
-    (15, None, "'Nobody tells me how I should be pregnant!' Andrea vehemently asserts her personal autonomy."),
+    (15, None, "'Nobody tells me how I should be pregnant!' Andrea vehemently asserts her personal autonomy. Now let's listen to the entire dialogue once more to lock in what you have learned."),
 ]

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Can we talk before shouting?' Camille desperately pleads for calm as emotions boil over."),
     (11, None, "'I was pregnant! Leave!' Catherine reveals that she was carrying Hippolyte during the affair."),
     (12, None, "'I am worried about you.' Down in the street, Mathias tries to reach Catherine on the phone."),
-    (13, None, "'Call me, please.' Mathias pleads into the receiver as his family life falls into crisis."),
+    (13, None, "'Call me, please.' Mathias pleads into the receiver as his family life falls into crisis. Now let's listen to the entire dramatic scene once more in French."),
 ]

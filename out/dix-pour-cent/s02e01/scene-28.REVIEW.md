@@ -23,10 +23,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Virginie | Surtout, vous en savez trop sur nous. | Above all, you know too much about us. | #874: Surtout, vous en savez trop sur nous | verbatim |
 | 12 | Ramzy | Et nous avons besoin d'une relation nouvelle. | And we need a new relationship. | #875: et nous avons besoin d'une relation nouvelle | verbatim |
 | 13 | Virginie | On est vraiment désolés, bien sûr. | We are really sorry, of course. | #877: On est vraiment désolés, bien sûr | verbatim |
-| 14 | Mathias | Bon, écoutez, c'est votre décision. | Well, listen, it | #878: Bon, écoutez<br>#879: c'est votre décision | verbatim |
+| 14 | Mathias | Bon, écoutez, c'est votre décision. | Well, listen, it's your decision. | #878: Bon, écoutez<br>#879: c'est votre décision | verbatim |
 | 15 | Mathias | Puis-je savoir où vous allez? | May I know where you are going? | #880: Puis-je savoir où vous allez | verbatim |
 | 16 | Ramzy | StarMedia. | We are going to StarMédia. | #881: StarMedia | verbatim |
-| 17 | Virginie | On vous laisse, Mathias. À bientôt. | We | #882: On vous laisse, Mathias<br>#886: À bientôt | verbatim |
+| 17 | Virginie | On vous laisse, Mathias. À bientôt. | We'll leave you, Mathias. See you soon. | #882: On vous laisse, Mathias<br>#886: À bientôt | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -41,9 +42,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What exactly are you talking about?' Mathias tries to feign innocence.
 - 'About the second contract.' Ramzy cites the secret wage clause Mathias negotiated behind Virginie's back.
 - 'Above all, you know too much about us.' Virginie adds that Mathias knows far too much about their messy past.
-- 'And we need a new relationship.' The expression 'avoir besoin de' expresses necessity.
+- 'And we need a new relationship.' This expression 'avoir besoin de' expresses necessity.
 - 'We are really sorry, of course.' Virginie softens the blow with polite regret.
 - 'Well, listen, it's your decision.' Mathias accepts their departure with tight-lipped resignation.
 - 'May I know where you are going?' The inversion 'puis-je' is a formal way to ask permission.
 - 'We are going to StarMédia.' Ramzy names the fiercest corporate rival of ASK.
-- 'We'll leave you, Mathias. See you soon.' Virginie and Ramzy cheerfully say goodbye to Mathias and walk off with Gabriel.
+- 'We'll leave you, Mathias. See you soon.' Virginie and Ramzy cheerfully say goodbye to Mathias and walk off with Gabriel. Now listen to the whole scene again at normal speed, and see how much more you catch.

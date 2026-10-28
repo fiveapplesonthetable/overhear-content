@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Hervé | Noémie ne vous a rien dit? | Didn | #994: Noémie ne vous a rien dit | verbatim |
+| 1 | Hervé | Noémie ne vous a rien dit? | Didn't Noemie tell you anything? | #994: Noémie ne vous a rien dit | verbatim |
 | 2 | Hervé | Elle garde le secret professionnel. | She keeps professional confidentiality. | #995: secret professionnel | verbatim |
 | 3 | Hervé | Avez-vous vu tous les tweets? | Did you see all the tweets? | #996: vu tous les tweets | verbatim |
 | 4 | Hervé | Mathias devient producteur chez Mediawan! | Mathias is becoming a producer at Mediawan! | #997: devient producteur pour Mediawan | verbatim |
@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Gabriel | Regarde, les rivaux forment un groupe. | Look, our rivals are forming a group. | #1002: Un conclave StarMédia | verbatim |
 | 11 | Gabriel | Devons-nous nous inquiéter ce soir? | Should we be worried tonight? | #1003: On devrait s'inquiéter | verbatim |
 | 12 | Andréa | Non, nous passons à l'offensive. | No, we go on the offensive. | #1003: passer à l'offensive | verbatim |
-| 13 | Andréa | Demain matin, réunion à huit heures. | Tomorrow morning, meeting at eight o | #1004: réunion à l'agence | verbatim |
+| 13 | Andréa | Demain matin, réunion à huit heures. | Tomorrow morning, meeting at eight o'clock. | #1004: réunion à l'agence | verbatim |
 | 14 | Andréa | C'est une occasion parfaite pour nous. | It is a perfect opportunity for us. | #1004: C'est bien | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

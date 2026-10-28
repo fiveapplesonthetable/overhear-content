@@ -23,12 +23,12 @@ STORY = [
     ('gabriel', "Non, Sofia joue l'esclave.", 'No, Sofia is playing the slave.', [(745, "Non, Sofia joue l'esclave")], ''),
     ('andrea', "Non! C'est vrai?", 'No! Really?', [(746, 'Non')], ''),
     ('gabriel', 'Oui, elle fait le ménage pour la duchesse.', 'Yes, she does the cleaning for the duchess.', [(746, 'Elle fait le ménage'), (746, 'la duchesse')], ''),
-    ('gabriel', 'Elle va être furieuse contre moi.', 'She', [(748, 'Elle va')], ''),
-    ('sofia', "Je joue l'esclave?", 'I', [(749, "l'esclave")], ''),
+    ('gabriel', 'Elle va être furieuse contre moi.', "She's going to be furious with me.", [(748, 'Elle va')], ''),
+    ('sofia', "Je joue l'esclave?", "I'm playing the slave?", [(749, "l'esclave")], ''),
     ('gabriel', 'Oui, mais avec du texte en plus.', 'Yes, but with lines to say as well.', [(750, 'en plus')], ''),
     ('sofia', "J'ai eu le rôle?", 'I got the part?', [(751, "J'ai eu le rôle")], ''),
     ('sofia', 'Dans un film avec JoeyStarr!', 'In a film with JoeyStarr!', [(751, 'Dans un film avec JoeyStarr')], ''),
-    ('sofia', "C'est génial! Oh, Gabriel!", 'That', [(753, 'Oh, Gabriel')], ''),
+    ('sofia', "C'est génial! Oh, Gabriel!", "That's brilliant! Oh, Gabriel!", [(753, 'Oh, Gabriel')], ''),
     ('sofia', "Merci! Je t'aime, je t'aime!", 'Thank you! I love you, I love you!', [(754, "Je t'aime, je t'aime")], ''),
 ]
 WALK = [

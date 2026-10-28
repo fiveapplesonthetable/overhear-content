@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Let me eliminate all this tension.' Noemie begins massaging his stiff shoulders to relieve his knots."),
     (11, None, "'Breathe calmly and relax.' She instructs him to slow his breathing and let go of his worries."),
     (12, None, "'Oh yes, that is truly excellent.' Mathias sighs with deep relief as the soothing massage takes effect."),
-    (13, None, "'You just needed some rest.' Noemie lovingly observes the immediate benefits of stepping away from work."),
+    (13, None, "'You just needed some rest.' Noemie lovingly observes the immediate benefits of stepping away from work. Now let's listen to the entire exchange once more from beginning to end."),
 ]

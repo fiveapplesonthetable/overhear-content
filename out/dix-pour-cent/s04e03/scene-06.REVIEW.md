@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Hervé | Regarde dans le couloir, Élise Formain approche! | Look in the hallway, Elise Formain is approaching! | #200: Qu'est-ce qu'elle fait là ? | verbatim |
 | 13 | Gabriel | Mon Dieu, que vient faire cette concurrente? | My God, what is this competitor coming to do? | #201: StarMédia va racheter ASK ? | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Who is this elegant woman at reception?' Camille asks about the sophisticated newcomer walking past the front desk.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Gabriel is finally arriving, come see quickly!' Herve calls Gabriel over to witness the situation.
 - 'What is happening here, friends?' Gabriel asks what has caused such sudden panic near reception.
 - 'Look in the hallway, Elise Formain is approaching!' Herve directs Gabriel's attention to the corridor.
-- 'My God, what is this competitor coming to do?' Gabriel stares in astonishment at their rival's bold entrance.
+- 'My God, what is this competitor coming to do?' Gabriel stares in astonishment at their rival's bold entrance. Now let's listen to the assistants' alert once more from start to finish.

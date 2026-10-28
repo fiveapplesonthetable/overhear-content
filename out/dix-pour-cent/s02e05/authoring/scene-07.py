@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'The boundary between work and private life vanishes.' Gabriel expresses concern over blurred professional lines."),
     (10, None, "'You are confusing fiction and reality.' Sofia explains that stage performance must not be mistaken for real romance."),
     (11, None, "'And the late rehearsals until two in the morning?' Gabriel highlights the disruptive late-night hours."),
-    (12, None, "'Julien sleeps very little at night, Gabriel.' Sofia justifies the nocturnal work habits of the artist."),
+    (12, None, "'Julien sleeps very little at night, Gabriel.' Sofia justifies the nocturnal work habits of the artist. Now let's listen to the scene once more from start to finish."),
 ]

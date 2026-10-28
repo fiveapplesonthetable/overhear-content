@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Élisabeth | J'adore vraiment le nouveau scénario de Julien Doré. | I really love Julien Doré | #507: j'adore le projet de Julien Doré. | verbatim |
+| 1 | Élisabeth | J'adore vraiment le nouveau scénario de Julien Doré. | I really love Julien Doré's new screenplay. | #507: j'adore le projet de Julien Doré. | verbatim |
 | 2 | Gabriel | C'est un projet très original et ambitieux. | It is a very original and ambitious project. | #508: C'est fantastique.<br>#515: C'est bien au-dessus. | verbatim |
 | 3 | Élisabeth | Je trouve son écriture particulièrement mature. | I find his writing particularly mature. | #515: ça montre une vraie maturité...<br>#516: C'est très mature. | verbatim |
 | 4 | Gabriel | Oui, mais ce film pousse les limites assez loin. | Yes, but this movie pushes the boundaries quite far. | #518: Ce film pousse les limites assez loin. | verbatim |
@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Gabriel | Il n'y a rien de trop explicite dans le texte. | There is nothing too explicit in the text. | #521: Il n'y a rien d'explicite là-dedans. | verbatim |
 | 7 | Gabriel | Sauf peut-être cette scène près du lac. | Except maybe that scene near the lake. | #523: Cette scène où il...<br>#538: près du lac... | verbatim |
 | 8 | Élisabeth | De quelle scène parlez-vous exactement? | Which scene are you talking about exactly? | #526: Non, je ne vous suis pas.<br>#536: C'est quoi alors, cette scène ? | verbatim |
-| 9 | Gabriel | La scène où la femme coupe le machin de l'homme. | The scene where the woman cuts off the man | #525: La scène où elle lui coupe... son machin. | verbatim |
+| 9 | Gabriel | La scène où la femme coupe le machin de l'homme. | The scene where the woman cuts off the man's thing. | #525: La scène où elle lui coupe... son machin. | verbatim |
 | 10 | Élisabeth | Je n'ai jamais lu cette séquence dans mon dossier! | I never read this sequence in my file! | #526: Non, je ne vous suis pas.<br>#529: On n'a peut-être pas eu la même version | verbatim |
 | 11 | Gabriel | Pardon, je crois que j'ai fait une grosse gaffe. | Sorry, I think that I made a big blunder. | #531: Pardon, j'ai fait une gaffe. | verbatim |
 | 12 | Élisabeth | Avez-vous envoyé une version édulcorée au comité? | Did you send a toned-down version to the committee? | #532: J'espère qu'il ne fait pas partie de ces auteurs<br>#533: qui nous envoient une version édulcorée | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Élisabeth | Racontez-moi quand même la fin de cette scène. | Tell me the end of this scene anyway. | #536: C'est quoi alors, cette scène ?<br>#539: Eh bien, il y a une séquence | verbatim |
 | 15 | Gabriel | Elle fait cuire le morceau sur un barbecue. | She cooks the piece on a barbecue. | #545: et elle le fait cuire<br>#546: sur une sorte de barbecue | verbatim |
 | 16 | Élisabeth | Gabriel, votre client est totalement fou! | Gabriel, your client is completely crazy! | #548: La saucisse, c'est pour ?<br>#549: Excusez-moi. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, not at all, it was just a first draft.' Gabriel scrambles to minimize the slip.
 - 'Tell me the end of this scene anyway.' Élisabeth demands full transparency.
 - 'She cooks the piece on a barbecue.' Gabriel confesses the absurd climax sheepishly.
-- 'Gabriel, your client is completely crazy!' Élisabeth concludes in disbelief.
+- 'Gabriel, your client is completely crazy!' Élisabeth concludes in disbelief. Now let's listen to the embarrassing conversation once more at normal pace.

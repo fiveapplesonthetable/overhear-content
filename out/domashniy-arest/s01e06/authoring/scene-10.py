@@ -37,7 +37,7 @@ STORY = [
 WALK = [
     (0, 'Юля, а что это мы тут делаем?', "'Yulya, what is it we're doing here?' Notice how adults often say 'we' when catching a child or teenager up to something."),
     (0, 'Почему не в школе?', "'Why aren't you in school?' In this moment, Yulya panics and lowers her voice."),
-    (1, 'Я здесь работаю.', "'I work here,' she admits quietly."),
+    (1, 'Я здесь работаю.', "'I work here.' She admits this quietly."),
     (1, 'Только, пожалуйста, родителям не говорите.', "'Just please don't tell my parents.' And she invents a dramatic excuse."),
     (2, 'Мне деньги очень нужны.', "'I really need the money.' Literally 'to me money is very needed'."),
     (2, 'На операцию.', "'For an operation.' She insists she can handle it on her own."),
@@ -55,7 +55,7 @@ WALK = [
     (9, 'Родителям на меня плевать.', "'My parents don't care about me.' Literally 'to my parents it is to spit on me'."),
     (10, None, "'I want to leave.' Notice she puts the basic verb form 'to leave' before 'want' for emphasis. Ilona asks where."),
     (11, None, "'Where to?' Notice the directional 'where to', not 'where at'. Yulya answers proudly."),
-    (12, 'В Москву.', "'To Moscow,' she declares."),
+    (12, 'В Москву.', "'To Moscow.' She declares her destination firmly."),
     (12, 'Я уже всё продумала.', "'I've already thought everything through.' And she shares her grand plan."),
     (13, 'Я буду работать официанткой.', "'I will work as a waitress.' Both 'work as' and 'become' take the 'with/as' form."),
     (13, 'Буду ходить по кастингам и стану актрисой.', "'I'll go to auditions and become an actress.' Having moved to Moscow from Sineozersk herself years ago, Ilona nods."),

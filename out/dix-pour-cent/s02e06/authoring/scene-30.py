@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'She definitely left me.' Gabriel faces the bitter finality of his breakup."),
     (12, None, "'She was completely right.' Gabriel acknowledges that his deceit drove Sofia away."),
     (13, None, "'I really am a piece of trash!' Gabriel wallows in intense self-reproach."),
-    (14, None, "'Gabriel, calm down a little.' Andrea immediately switches from lover to loyal friend."),
+    (14, None, "'Gabriel, calm down a little.' Andrea immediately switches from lover to loyal friend. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

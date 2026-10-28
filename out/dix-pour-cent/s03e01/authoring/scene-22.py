@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'It is up to him to move, honestly.' Noemie insists that Philippe should be the one to relocate."),
     (11, None, "'I clearly see his discreet glances.' Noemie notices lingering signs of mutual attraction in the hallways."),
     (12, None, "'I know he still thinks of me!' Noemie remains convinced of his ongoing feelings."),
-    (13, None, "'You love very complicated situations!' Herve humorously highlights Noemie's taste for drama."),
+    (13, None, "'You love very complicated situations!' Herve humorously highlights Noemie's taste for drama. Now let's listen to the scene once more from start to finish."),
 ]

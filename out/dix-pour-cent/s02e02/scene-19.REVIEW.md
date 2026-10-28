@@ -16,14 +16,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Sofia | Si je change d'agent, vous pouvez quand même me conseiller? | If I change agents, can you still advise me? | #680: Si je change d'agent, vous pouvez quand même me conseiller | verbatim |
 | 5 | Sofia | Ou m'aider discrètement? | Or help me discreetly? | #681: ou m'aider discrètement | verbatim |
 | 6 | Gabriel | Bien sûr. Vous avez quelqu'un en tête? Andréa? | Of course. Do you have someone in mind? Andréa? | #682: Bien sûr<br>#683: Vous avez quelqu'un en tête ? Andréa | verbatim |
-| 7 | Sofia | Je ne sais pas, elle fait un peu peur. | I don | #684: Je ne sais pas, elle fait un peu peur | verbatim |
-| 8 | Sofia | En plus c'est votre amie, c'est délicat. | Besides she is your friend, it | #685: En plus c'est votre amie, c'est délicat | verbatim |
+| 7 | Sofia | Je ne sais pas, elle fait un peu peur. | I don't know, she's a bit scary. | #684: Je ne sais pas, elle fait un peu peur | verbatim |
+| 8 | Sofia | En plus c'est votre amie, c'est délicat. | Besides she is your friend, it's delicate. | #685: En plus c'est votre amie, c'est délicat | verbatim |
 | 9 | Gabriel | Arlette n'est peut-être pas le bon choix pour une jeune actrice. | Arlette might not be the right choice for a young actress. | #686: Arlette n'est peut-être pas le bon choix pour une jeune actrice | verbatim |
 | 10 | Sofia | Même si on l'aime bien! | Even if we like her! | #687: Même si on l'aime bien | verbatim |
-| 11 | Sofia | Je pensais à Mathias. Parce que c'est un bon agent. | I was thinking of Mathias. Because he | #688: Je pensais à Mathias. Parce que c'est un bon agent | verbatim |
+| 11 | Sofia | Je pensais à Mathias. Parce que c'est un bon agent. | I was thinking of Mathias. Because he's a good agent. | #688: Je pensais à Mathias. Parce que c'est un bon agent | verbatim |
 | 12 | Sofia | Avec lui, je n'ai aucun privilège spécial. | With him, I have no special privilege. | #689: Avec lui, personne ne peut dire que je bénéficie d'un traitement de faveur | verbatim |
-| 13 | Gabriel | Je suis sûr que vous avez raison. C'est un bon choix. | I | #690: Je suis sûr que vous avez raison. C'est un bon choix | verbatim |
+| 13 | Gabriel | Je suis sûr que vous avez raison. C'est un bon choix. | I'm sure you are right. It's a good choice. | #690: Je suis sûr que vous avez raison. C'est un bon choix | verbatim |
 | 14 | Sofia | Oui, je crois. À tout à l'heure! | Yes, I think so. See you shortly! | #691: Oui, je crois<br>#692: À tout à l'heure | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I was thinking of Mathias. Because he's a good agent.' Sofia reveals her top candidate.
 - 'With him, I have no special privilege.' Here, Mathias's strict professionalism protects her reputation.
 - 'I'm sure you are right. It's a good choice.' Gabriel gracefully accepts her decision.
-- 'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism.
+- 'Yes, I think so. See you shortly!' Sofia wraps up their meeting with optimism. Now let's listen to the entire conversation once more from start to finish.

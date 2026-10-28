@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | Cette fête aura une valeur sentimentale unique. | This party will have a unique sentimental value. | #50: je vais pas me battre avec toi là-dessus | verbatim |
 | 14 | Hicham | D'accord Mathias, organisons tout sur place. | Agreed Mathias, let us organize everything on site. | #50: je vais pas me battre avec toi là-dessus | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my project for the ASK party.' A direct presentation introducing the event layout.
-- 'How do you plan to welcome the guests?' A focused question checking guest reception logistics.
-- 'A welcome glass of champagne.' A traditional hospitable touch offering sparkling wine on arrival.
-- 'And next, where do people go?' A sequential logistical query asking about party flow.
-- 'Everyone goes up to the terrace.' A clear spatial direction leading guests to scenic rooftops.
-- 'Why not rent a large venue?' A practical commercial suggestion proposing an outside event space.
-- 'I want to celebrate our thirty years here.' An emotional declaration defending the agency's historic home.
-- 'I am ready to pay the price.' A generous executive commitment offering financial resources.
-- 'Look, this is where we started.' A nostalgic gesture pointing to the agency's humble origins.
-- 'You had started in this room?' A surprised inquiry discovering historical company roots.
-- 'Samuel and I shared this small studio.' A personal reminiscence honoring the co-founder.
-- 'That is a lovely story for the agency.' A sympathetic acknowledgment appreciating company tradition.
-- 'This party will have a unique sentimental value.' An eloquent defense prioritizing heart over luxury.
-- 'Agreed Mathias, let us organize everything on site.' A gracious concession embracing the historical venue.
+- 'Here is my project for the ASK party.' Mathias introduces the event layout.
+- 'How do you plan to welcome the guests?' Hicham checks guest reception logistics.
+- 'A welcome glass of champagne.' Mathias offers sparkling wine on arrival.
+- 'And next, where do people go?' Hicham asks about party flow.
+- 'Everyone goes up to the terrace.' Mathias leads guests to scenic rooftops.
+- 'Why not rent a large venue?' Hicham proposes an outside event space.
+- 'I want to celebrate our thirty years here.' Mathias defends the agency's historic home.
+- 'I am ready to pay the price.' Hicham offers financial resources.
+- 'Look, this is where we started.' Mathias points to the agency's humble origins.
+- 'You had started in this room?' Hicham discovers historical company roots.
+- 'Samuel and I shared this small studio.' Mathias honors the co-founder.
+- 'That is a lovely story for the agency.' Hicham appreciates company tradition.
+- 'This party will have a unique sentimental value.' Mathias prioritizes heart over luxury.
+- 'Agreed Mathias, let us organize everything on site.' Hicham embraces the historical venue. Now let's listen to Mathias and Hicham again at full speed.

@@ -23,7 +23,7 @@ STORY = [
     ('andrea', "Je pars de l'agence.", 'I am leaving the agency.', [(925, 'Je pars.')], ''),
     ('jean', 'Tu quittes ce métier?', 'Are you quitting this job?', [(927, 'Tu pars ?')], ''),
     ('andrea', "Oui, je m'en vais définitivement.", 'Yes, I am leaving definitively.', [(928, 'Je pars.'), (929, "et c'est moi qui m'en vais.")], ''),
-    ('jean', "C'est une vie de chien.", 'It is a dog', [(931, "Le métier d'agent, c'est vraiment une vie de chien.")], ''),
+    ('jean', "C'est une vie de chien.", "It is a dog's life.", [(931, "Le métier d'agent, c'est vraiment une vie de chien.")], ''),
     ('andrea', 'Mais toi, tu dois continuer.', 'But you, you must go on.', [(932, 'Je pars, mais toi tu dois continuer.')], ''),
     ('jean', 'Seulement si le film se fait!', 'Only if the movie happens!', [(933, 'Si le Beauvois se fait.')], ''),
     ('andrea', 'Élise Formain est une femme redoutable.', 'Elise Formain is a formidable woman.', [(935, 'Tu connais Élise Formain ?')], ''),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Elise Formain is a formidable woman.' Andrea warns him about rival management."),
     (11, None, "'Do not worry about me.' Jean reassures her with his veteran wisdom."),
     (12, None, "'Take good care of your talent.' Andrea gives her final parting wish as an agent."),
-    (13, None, "'Good luck for your new life!' Jean raises a glass to her brave next chapter."),
+    (13, None, "'Good luck for your new life!' Jean raises a glass to her brave next chapter. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

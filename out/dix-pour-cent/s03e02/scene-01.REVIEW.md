@@ -25,19 +25,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Andréa | Sois très attentif et très convaincant. | Be very attentive and very convincing. | #24: danger public | verbatim |
 | 14 | Gabriel | Fais-moi confiance, je gère la situation. | Trust me, I am managing the situation. | #7: je travaille. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I come for our weekly check-in.' A formal managerial opening establishing supervisory duty.
-- 'Everything is fine, I am getting back on track.' A reassuring idiomatic phrase expressing professional recovery.
-- 'Where is your pile of urgent files?' An interrogative inquiry asking for pending paperwork.
-- 'It is stored in this large cupboard.' A passive location statement revealing hidden client files.
-- 'Did you hide all these important files?' A surprised compound past question challenging office disorganization.
-- 'I did not have time to sort.' A defensive temporal excuse pleading heavy workload.
-- 'But this is a message from Monica Bellucci!' An alarmed exclamatory statement identifying a major international client.
-- 'It is for her advertising contract with Cartier.' A clarifying prepositional phrase explaining commercial stakes.
-- 'Did you leave Monica Bellucci without an answer?' An incredulous past question reproaching client neglect.
-- 'I was just going to handle it this morning.' A near-past intention asserting immediate readiness.
-- 'You are a veritable public hazard, Gabriel!' A sharp hyperbolic evaluation criticizing professional carelessness.
-- 'Do not get upset, I am calling her right away.' A calming negative imperative offering prompt remedy.
+- 'I come for our weekly check-in.' Andréa establishes supervisory duty.
+- 'Everything is fine, I am getting back on track.' Gabriel expresses professional recovery.
+- 'Where is your pile of urgent files?' Andréa asks for pending paperwork.
+- 'It is stored in this large cupboard.' Gabriel reveals hidden client files.
+- 'Did you hide all these important files?' Andréa challenges office disorganization.
+- 'I did not have time to sort.' Gabriel pleads heavy workload.
+- 'But this is a message from Monica Bellucci!' Andréa identifies a major international client.
+- 'It is for her advertising contract with Cartier.' Gabriel explains commercial stakes.
+- 'Did you leave Monica Bellucci without an answer?' Andréa reproaches client neglect.
+- 'I was just going to handle it this morning.' Gabriel asserts immediate readiness.
+- 'You are a veritable public hazard, Gabriel!' Andréa criticizes professional carelessness.
+- 'Do not get upset, I am calling her right away.' Gabriel offers prompt remedy.
 - 'Be very attentive and very convincing.' Paired imperative adjectives demanding professional excellence.
-- 'Trust me, I am managing the situation.' A confident imperative formula promising competent execution.
+- 'Trust me, I am managing the situation.' Gabriel promises competent execution. Now let's listen to Andrea and Gabriel again at full speed.

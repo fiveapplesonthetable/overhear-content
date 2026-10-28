@@ -20,13 +20,13 @@ STORY = [
     ('arlette', 'Oui, je crois.', 'Yes, I think so.', [], ''),
     ('sigourney', 'Zut alors!', 'Darn it!', [(634, 'Zut alors')], ''),
     ('arlette', 'Il est déjà tard.', 'It is already late.', [], ''),
-    ('sigourney', 'Arlette, il ne sera pas là.', 'Arlette, he won', [(635, 'Arlette, il ne sera pas là')], ''),
+    ('sigourney', 'Arlette, il ne sera pas là.', "Arlette, he won't be there.", [(635, 'Arlette, il ne sera pas là')], ''),
     ('sigourney', 'Pour notre virée en ville.', 'For our night out.', [(635, 'pour notre virée en ville')], ''),
     ('arlette', "Ce n'est pas grave.", 'It does not matter.', [], ''),
     ('arlette', "On va s'amuser.", 'We will have fun.', [], ''),
     ('sigourney', 'Bien sûr, mon amie.', 'Of course, my friend.', [], ''),
     ('arlette', 'On y va?', 'Shall we go?', [], ''),
-    ('sigourney', 'Oui, on y va.', 'Yes, let', [], ''),
+    ('sigourney', 'Oui, on y va.', "Yes, let's go.", [], ''),
     ('arlette', 'Paris nous attend.', 'Paris is waiting for us.', [], ''),
 ]
 WALK = [
@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'Of course, my friend.' Sigourney agrees with a smile."),
     (9, None, "'Shall we go?' Arlette asks, ready to depart."),
     (10, None, "'Yes, let's go.' Sigourney confirms with enthusiasm."),
-    (11, None, "'Paris is waiting for us.' Arlette concludes joyfully. Now let's hear the whole thing."),
+    (11, None, "'Paris is waiting for us.' Arlette concludes joyfully."),
 ]

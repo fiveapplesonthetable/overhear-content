@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Gabriel | Je fais attention, ne t'inquiète pas. | I am being careful, do not worry. | #228: Du calme. | verbatim |
 | 16 | Andréa | Reste loin d'elle, c'est tout ce que je te demande. | Stay away from her, that is all I ask of you. | #235: Je ne veux pas | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here is rule number one here.' Andrea establishes the fundamental agency principle.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But I do not want to date her.' Andrea draws a sharp line between attraction and action.
 - 'That is the big difference between you and me.' Andrea summarizes her professional discipline.
 - 'I am being careful, do not worry.' Gabriel attempts to reassure his colleague.
-- 'Stay away from her, that is all I ask of you.' Andrea delivers her final firm instruction.
+- 'Stay away from her, that is all I ask of you.' Andrea delivers her final firm instruction. Now let's listen to the entire dialogue once more to lock in what you have learned.

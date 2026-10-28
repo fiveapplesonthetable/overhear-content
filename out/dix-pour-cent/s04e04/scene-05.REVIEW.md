@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Gabriel | Tu vas vraiment jouer cinq minutes? | Are you really going to perform five minutes? | #443: 5 min | verbatim |
 | 14 | Sandrine | Oui, prépare-toi pour mon spectacle! | Yes, get ready for my show! | #445: C'est merveilleux ! | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sandrine, did you read this great script?' Gabriel asks if she reviewed the prestigious period biopic.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The producers expect your prompt reply though.' Gabriel stresses mounting commercial pressure.
 - 'I already landed an opening act!' Sandrine proudly announces her upcoming stage debut.
 - 'Are you really going to perform five minutes?' Gabriel realizes that her mind is completely made up.
-- 'Yes, get ready for my show!' Sandrine invites him to see her live performance.
+- 'Yes, get ready for my show!' Sandrine invites him to see her live performance. Now let's listen to Sandrine and Gabriel's complete discussion once again.

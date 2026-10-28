@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'This role was too difficult for you.' Andrea recognizes how deeply the extreme part affected him."),
     (11, None, "'This character completely transformed me.' Jean explains how lost he felt inside the role."),
     (12, None, "'I should have protected you better, Jean.' Andrea acknowledges her protective duty as an agent."),
-    (13, None, "'Thank you Andrea, you are a true friend.' Jean deeply appreciates her understanding and support."),
+    (13, None, "'Thank you Andrea, you are a true friend.' Jean deeply appreciates her understanding and support. Now let's listen to the scene once more from start to finish."),
 ]

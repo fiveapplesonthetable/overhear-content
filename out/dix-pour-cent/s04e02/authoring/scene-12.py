@@ -27,7 +27,7 @@ STORY = [
     ('andrea', 'Je suis actuellement à Bergues.', 'I am currently in Bergues.', [(695, 'Bergues')], ''),
     ('colette', "Bergues? C'est quelle ligne de métro?", 'Bergues? Which metro line is that?', [(695, 'Bergues')], ''),
     ('andrea', "C'est loin, dans les Hauts-de-France!", 'It is far, in Hauts-de-France!', [(697, 'dans les Hauts-de-France')], ''),
-    ('colette', "Tu plaisantes? J'en peux plus!", 'Are you joking? I can', [(699, "j'en peux plus")], ''),
+    ('colette', "Tu plaisantes? J'en peux plus!", "Are you joking? I can't take it!", [(699, "j'en peux plus")], ''),
     ('andrea', 'Je devais sauver un gros contrat.', 'I had to save a major contract.', [(699, "j'en peux plus")], ''),
     ('colette', 'Rentre à Paris le plus vite!', 'Return to Paris as fast as possible!', [(687, 'Au revoir')], ''),
 ]
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'It is far, in Hauts-de-France!' Andrea clarifies the geography."),
     (11, None, "'Are you joking? I can't take it!' Colette vents her frustration at the broken promise."),
     (12, None, "'I had to save a major contract.' Andrea justifies the emergency business trip."),
-    (13, None, "'Return to Paris as fast as possible!' Colette demands her immediate return home."),
+    (13, None, "'Return to Paris as fast as possible!' Colette demands her immediate return home. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

@@ -22,8 +22,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Mathias | Tu es toujours notre star préférée. | You are always our favorite star. | #658: J'étais LA première cliente | verbatim |
 | 11 | Isabelle | Regarde tous ces amis réunis. | Look at all these friends gathered. | #670: Réunis | verbatim |
 | 12 | Mathias | Nous formons une grande famille unie. | We form a large united family. | #671: Une grande famille | verbatim |
-| 13 | Isabelle | Buvons un verre tous ensemble. | Let | #677: À nous | verbatim |
+| 13 | Isabelle | Buvons un verre tous ensemble. | Let's have a drink all together. | #677: À nous | verbatim |
 | 14 | Mathias | À notre agence et à l'avenir! | To our agency and to the future! | #679: À ASK | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Look at all these friends gathered.' Isabelle observes the crowd of colleagues.
 - 'We form a large united family.' Mathias reflects on their solidarity.
 - 'Let's have a drink all together.' Isabelle proposes a shared toast.
-- 'To our agency and to the future!' Mathias raises his glass in celebration.
+- 'To our agency and to the future!' Mathias raises his glass in celebration. Now let's listen to the complete discussion once more to reinforce the vocabulary.

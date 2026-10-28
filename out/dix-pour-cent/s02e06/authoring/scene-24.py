@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'I am very happy tonight.' Juliette expresses her deep joy at hosting the grand occasion."),
     (11, None, "'I declare open this great festival!' Juliette officially opens the Cannes Film Festival."),
     (12, None, "'It is an absolute triumph, bravo!' Gabriel applauds Juliette's courage and charm on stage."),
-    (13, None, "'She always lands on her feet!' Arlette admires Juliette's ability to turn disaster into success."),
+    (13, None, "'She always lands on her feet!' Arlette admires Juliette's ability to turn disaster into success. Now let's listen to the scene once more from start to finish."),
 ]

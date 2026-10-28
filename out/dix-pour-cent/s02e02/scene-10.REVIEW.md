@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Hervé | Santé à tout le monde! | Cheers to everyone! | #293: Santé. | verbatim |
 | 2 | Sofia | Comment tu vas ce soir, Camille? | How are you doing tonight, Camille? | #298: Comment tu vas ? | verbatim |
 | 3 | Camille | Ça va très bien, merci beaucoup. | I am doing very well, thank you very much. | #298: Comment tu vas ? | verbatim |
-| 4 | Sofia | Pourquoi tu ne sors pas avec Hippolyte? | Why don | #307: Pourquoi tu ne sors pas avec Hippolyte | verbatim |
+| 4 | Sofia | Pourquoi tu ne sors pas avec Hippolyte? | Why don't you go out with Hippolyte? | #307: Pourquoi tu ne sors pas avec Hippolyte | verbatim |
 | 5 | Camille | Ne dis pas n'importe quoi, Sofia. | Do not say foolish things, Sofia. | #308: ne dis pas n'importe quoi. | verbatim |
 | 6 | Camille | On est amis, c'est tout. | We are friends, that is all. | #310: On est amis, c'est tout. | verbatim |
 | 7 | Hervé | Tu plaisantes? Vous êtes faits l'un pour l'autre! | Are you kidding? You are made for each other! | #311: Tu plaisantes ?<br>#312: faits l'un pour l'autre ! | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Hervé | Christophe Lambert! C'est son père! | Christophe Lambert! That is her father! | #331: Christophe Lambert ! | verbatim |
 | 15 | Sofia | Sérieux? C'est incroyable! | Seriously? That is incredible! | #332: Sérieux ! | verbatim |
 | 16 | Hervé | Elle lui ressemble beaucoup, tu trouves aussi? | She looks a lot like him, do you think so too? | #333: Elle lui ressemble.<br>#333: Tu trouves aussi ? | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Who is her real father?' Sofia asks with intense curiosity.
 - 'Christophe Lambert! That is her father!' Hervé dramatically reveals the star name.
 - 'Seriously? That is incredible!' Sofia reacts with genuine astonishment.
-- 'She looks a lot like him, do you think so too?' Hervé seeks agreement on the likeness.
+- 'She looks a lot like him, do you think so too?' Hervé seeks agreement on the likeness. Now let's listen to the entire dialogue once more to lock in what you have learned.

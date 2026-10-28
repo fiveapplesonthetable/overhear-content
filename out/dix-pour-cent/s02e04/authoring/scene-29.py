@@ -51,5 +51,5 @@ WALK = [
     (13, None, "'You really made fun of us!' Andrea expresses anger over being deceived by her colleague."),
     (14, None, "'I take full responsibility.' Mathias refuses to deflect blame onto his daughter."),
     (15, None, "'If someone has to leave, it is me.' Mathias offers his own resignation to save Camille."),
-    (16, None, "'I completely agree.' Hicham coldly accepts the senior partner's departure."),
+    (16, None, "'I completely agree.' Hicham coldly accepts the senior partner's departure. Now listen to the whole scene again at normal speed, and see how much more you catch."),
 ]

@@ -11,13 +11,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Andréa | Cécile! Oui, super. Rappelle-moi. Salut. | Cécile! Yes, great. Call me back. Bye. | #1: Cécile ! Oui, super<br>#3: rappelle-moi. Salut | verbatim |
-| 2 | Andréa | Le contrôle fiscal. Cette lettre pour monsieur Jarron? | The tax audit. That letter for Mr Jarron? | #5: Le contrôle fiscal<br>#6: Cette lettre pour M. Jarron | verbatim |
+| 2 | Andréa | Le contrôle fiscal. Cette lettre pour monsieur Jarron? | That letter for Mr Jarron? | #5: Le contrôle fiscal<br>#6: Cette lettre pour M. Jarron | verbatim |
 | 3 | Camille | Oui, je l'ai envoyée. | Yes, I sent it. | #7: Oui, je l'ai envoyée | verbatim |
-| 4 | Camille | J'ai pris la lettre. Je l'ai mise dans une enveloppe. | I took the letter. I put it in an envelope. | #8: J'ai pris la lettre<br>#8: je l'ai mise dans une enveloppe | verbatim |
+| 4 | Camille | J'ai pris la lettre. Je l'ai mise dans une enveloppe. | I put it in an envelope. | #8: J'ai pris la lettre<br>#8: je l'ai mise dans une enveloppe | verbatim |
 | 5 | Camille | Oh non! | Oh no! | new | new |
-| 6 | Camille | Je suis désolée. | I | new | new |
-| 7 | Andréa | À quoi ça sert de payer une assistante? | What | #10: À quoi ça sert de payer une assistante ? | verbatim |
-| 8 | Andréa | Non, Gabriel, on ne peut pas toujours tout arranger! | No, Gabriel, you can | #15: Non, Gabriel, on ne peut pas toujours tout arranger | verbatim |
+| 6 | Camille | Je suis désolée. | I'm sorry. | new | new |
+| 7 | Andréa | À quoi ça sert de payer une assistante? | What's the point of paying an assistant? | #10: À quoi ça sert de payer une assistante ? | verbatim |
+| 8 | Andréa | Non, Gabriel, on ne peut pas toujours tout arranger! | No, Gabriel, you can't always fix everything! | #15: Non, Gabriel, on ne peut pas toujours tout arranger | verbatim |
 | 9 | Andréa | On a eu un appel ce matin. | We had a call this morning. | #16: un appel ce matin | verbatim |
 | 10 | Andréa | Le dossier est dans un autre service. | The file is in another department. | #17: dans un autre service | verbatim |
 | 11 | Andréa | Jarron était notre seul allié. | Jarron was our only ally. | #18: Jarron était notre seul allié | verbatim |
@@ -26,9 +26,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Andréa | Tu es aussi stupide que ça? | Are you really that stupid? | #22: Tu es aussi stupide que ça ? | verbatim |
 | 15 | Gabriel | Fais-lui un café. | Make her a coffee. | #24: Fais-lui un café | verbatim |
 
+
+
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cécile! Yes, great. Call me back. Bye.' The command 'call me back' is in the casual form, and the little word for 'me' comes after it, joined with a hyphen. The last word is the casual goodbye.
+- 'Cécile! Yes, great. Call me back. Bye.' This command 'call me back' is in the casual form, and the little word for 'me' comes after it, joined with a hyphen. The last word is the casual goodbye.
 - 'The tax audit.' Literally 'the fiscal control'. This is what everyone at the agency is afraid of.
 - 'That letter for Mr Jarron?' The first word means 'this' or 'that', in its feminine form, because the word for letter is feminine.
 - 'Yes, I sent it.' The little word for 'it' comes before the action word and loses its vowel. And because 'it', the letter, is feminine and comes first, the past form of the action word gets an extra e on paper.
@@ -44,4 +46,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Maybe we need to put our books in order.' The first two words mean 'it is necessary', a very common way to say what has to be done. Gabriel's honest idea goes down very badly.
 - 'Is life a big joke to you?' The partners turn on him. Notice the casual 'you' at the end: they are old colleagues.
 - 'Are you really that stupid?' Literally 'are you as stupid as that?'. Just then Hervé announces that Laura Smet has arrived.
-- 'Make her a coffee.' Another casual command, with the little word for 'to her' joined on with a hyphen. Gabriel jumps at the chance to escape. Hervé replies that the coffee has already been drunk. Now let's hear the whole thing once more.
+- 'Make her a coffee.' Another casual command, with the little word for 'to her' joined on with a hyphen. Gabriel jumps at the chance to escape. Hervé replies that the coffee has already been drunk.

@@ -28,6 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 16 | Hicham | Bonne soirée à vous deux. | Have a good evening, both of you. | #915: Bonne soirée | verbatim |
 | 17 | Colette | Dis-moi, c'est lui le père? | Tell me, is he the father? | #916: C'est lui, le père | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It is bad for the baby.' Colette notices Andrea ordering an alcoholic drink.
@@ -46,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hicham is the shareholder of ASK.' Andrea clarifies their professional connection.
 - 'I must get going now.' Colette decides to cut the awkward encounter short.
 - 'Have a good evening, both of you.' Hicham bids them farewell and steps away.
-- 'Tell me, is he the father?' Colette directly voices her sudden and accurate suspicion.
+- 'Tell me, is he the father?' Colette directly voices her sudden and accurate suspicion. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'We are going to bounce back together.' Gabriel rallies the team spirit for the upcoming year."),
     (11, None, "'It is so exciting now.' Gabriel embraces the thrill of renewed agency momentum."),
     (12, None, "'Something is finally opening up here.' Arlette perceives the positive shift in ASK's fortunes."),
-    (13, None, "'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins."),
+    (13, None, "'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

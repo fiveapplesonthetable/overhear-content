@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Le maire | Hicham a vendu son site pour deux cents millions d'euros! | Hicham sold his site for two hundred million euros! | #415: Vous avez vendu votre site pour la coquette somme de 200 millions d'euros | verbatim |
 | 16 | Hicham | Très bien. L'humour de Couchey! | Very well. Couchey humor! | #420: Très bien<br>#421: L'humour Couchey | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Mr. Mayor.' Andréa addresses the village official politely.
@@ -35,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We have a slight change of schedule.' The mayor informs her of a last-minute change to the program.
 - 'We have a surprise guest: Hicham Janowski!' He proudly announces that tech millionaire Hicham Janowski is joining them.
 - 'The guy from the dating site?' Andréa recognizes Hicham as the founder of the famous dating website.
-- 'You do not mind sharing the spotlight?' The mayor checks that she does not mind sharing the spotlight with Hicham.
+- 'You do not mind sharing the spotlight?' The mayor shares the spotlight with Hicham.
 - 'Of course not.' Andréa hides her annoyance and insists she does not mind at all.
 - 'Here he is! Hicham, welcome to Couchey.' The mayor spots Hicham arriving and welcomes him to Couchey.
 - 'I know you, right?' Hicham recognizes Andrea from their childhood in the village.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Martel. My stage name.' Andréa quickly corrects him with her professional surname, Martel.
 - 'So you changed your name.' Hicham teases her for changing her family name when she moved to Paris.
 - 'Hicham sold his site for two hundred million euros!' The mayor boasts that Hicham sold his company for two hundred million euros.
-- 'Very well. Couchey humor!' Hicham laughs off the awkward reunion as typical village humor.
+- 'Very well. Couchey humor!' Hicham laughs off the awkward reunion as typical village humor. Now listen to Andrea and Hicham's conversation once more at a natural pace.

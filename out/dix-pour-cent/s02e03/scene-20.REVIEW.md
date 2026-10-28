@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Hervé | On a préparé l'anniversaire d'Elvis. | We planned Elvis | #496: Alors, l'anniversaire d'Elvis<br>#498: Les parents de Ferdinand et Elliot les laisseront venir | verbatim |
+| 1 | Hervé | On a préparé l'anniversaire d'Elvis. | We planned Elvis's birthday party. | #496: Alors, l'anniversaire d'Elvis<br>#498: Les parents de Ferdinand et Elliot les laisseront venir | verbatim |
 | 2 | Camille | On a réservé deux sessions de laser game. | We booked two laser game sessions. | #499: J'ai réservé un laser game. Deux sessions | verbatim |
 | 3 | Hervé | Et un gâteau géant avec des bonbons! | And a giant cake with candy! | #501: j'ai commandé un gâteau bonbons extra-large | verbatim |
 | 4 | Hicham | Vous croyez vraiment que ça suffit? | Do you really think that is enough? | #502: Qu'est-ce que vous avez fait | verbatim |
-| 5 | Camille | C'est amusant pour des enfants de dix ans. | It | #510: Donc pour les dix ans du gamin | verbatim |
-| 6 | Hicham | La mère d'Elvis me pourrit la vie! | Elvis | #508: On divorce, elle me pourrit la vie | verbatim |
+| 5 | Camille | C'est amusant pour des enfants de dix ans. | It's fun for ten-year-old children. | #510: Donc pour les dix ans du gamin | verbatim |
+| 6 | Hicham | La mère d'Elvis me pourrit la vie! | Elvis's mother is ruining my life! | #508: On divorce, elle me pourrit la vie | verbatim |
 | 7 | Hicham | Je veux la meilleure fête du monde! | I want the best party in the world! | #511: je veux la meilleure fête qui soit | verbatim |
 | 8 | Hicham | On oublie le laser game et les bonbons. | We forget the laser game and the candies. | #513: Alors on s'en fout du gâteau bonbons<br>#514: et d'un laser game à la con | verbatim |
 | 9 | Hicham | Je veux une fête grandiose, les amis! | I want a grandiose party, friends! | #515: Je veux une grande fête<br>#516: Une fête d'enfer, les gars | verbatim |
@@ -26,6 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Hervé | Et qui sont les personnes invitées? | And who are the invited guests? | #521: J'ai dressé une liste d'invités | verbatim |
 | 15 | Hicham | Toute l'agence et de grandes célébrités! | The whole agency and big celebrities! | #522: Toute l'agence<br>#523: Oui, je veux que mon fils sache ce que je fais | verbatim |
 | 16 | Camille | D'accord, nous allons organiser cela. | All right, we will organize that. | #528: Faites venir Julien Doré et Norman | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Note everything: fountains and music.' Hicham rattles off extravagant features.
 - 'And who are the invited guests?' Hervé checks the guest list.
 - 'The whole agency and big celebrities!' Hicham wants a star-studded spectacle.
-- 'All right, we will organize that.' Camille accepts the daunting challenge.
+- 'All right, we will organize that.' Camille accepts the daunting challenge. Now let's listen to Hicham's ambitious demands once more at normal speed.

@@ -28,6 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 16 | Mathias | Si quelqu'un doit partir, c'est moi. | If someone has to leave, it is me. | #945: Si quelqu'un doit partir, c'est moi | verbatim |
 | 17 | Hicham | Je suis tout à fait d'accord. | I completely agree. | #946: Je suis tout à fait d'accord | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Camille, give me an explanation.' Andrea demands answers after the disastrous meeting.
@@ -46,4 +47,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You really made fun of us!' Andrea expresses anger over being deceived by her colleague.
 - 'I take full responsibility.' Mathias refuses to deflect blame onto his daughter.
 - 'If someone has to leave, it is me.' Mathias offers his own resignation to save Camille.
-- 'I completely agree.' Hicham coldly accepts the senior partner's departure.
+- 'I completely agree.' Hicham coldly accepts the senior partner's departure. Now listen to the whole scene again at normal speed, and see how much more you catch.

@@ -25,6 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Franck | Il ne faut jamais hésiter d'essayer. | You must never hesitate to try. | #874: peur d'essayer | verbatim |
 | 14 | Dylan | Merci Franck, ce conseil me rassure. | Thank you Franck, this advice reassures me. | #878: très important | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I have to work on my diction.' Dylan worries about his vocal articulation.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And are you still afraid?' Dylan wonders if experience banishes anxiety.
 - 'I still get terrified sometimes.' Franck normalizes fear as part of acting.
 - 'You must never hesitate to try.' Franck urges creative fearlessness.
-- 'Thank you Franck, this advice reassures me.' Dylan gains fresh courage.
+- 'Thank you Franck, this advice reassures me.' Dylan gains fresh courage. Now let's listen to the complete discussion once more to reinforce the vocabulary.

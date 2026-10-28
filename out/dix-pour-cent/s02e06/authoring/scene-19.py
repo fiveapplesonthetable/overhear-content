@@ -17,9 +17,9 @@ OUTRO = 'Under the Mediterranean sun, Arlette reminds Gabriel to savor love and 
 CLOSING = ('arlette', 'À demain!')
 STORY = [
     ('gabriel', 'Ce film turc est en compétition officielle?', 'Is that Turkish film in the official competition?', [(512, 'Ce film turc est en compétition officielle ?')], ''),
-    ('arlette', 'Non, il passe à la Quinzaine des réalisateurs.', 'No, it is screening at the Directors', [(513, "Non, c'est à la Quinzaine des cinéastes.")], ''),
+    ('arlette', 'Non, il passe à la Quinzaine des réalisateurs.', 'No, it is screening at the Fortnight of Directors.', [(513, "Non, c'est à la Quinzaine des cinéastes.")], ''),
     ('gabriel', "C'est la sélection pour les premiers films?", 'Is that the selection for first films?', [(514, "C'est pour les premiers films ?")], ''),
-    ('arlette', "Non, ça c'est la Semaine de la Critique.", 'No, that is the Critics', [(514, "Non, ça c'est la Semaine de la Critique.")], ''),
+    ('arlette', "Non, ça c'est la Semaine de la Critique.", 'No, that is the Week of the Critics.', [(514, "Non, ça c'est la Semaine de la Critique.")], ''),
     ('gabriel', "Je n'y comprends vraiment rien du tout.", 'I really do not understand anything at all.', [(515, "Je n'y comprends rien.")], ''),
     ('arlette', 'Il y a aussi une section appelée ACID.', 'There is also a section called ACID.', [(515, "Il y a aussi l'ACID."), (517, "Une compétition s'appelle l'ACID ?")], ''),
     ('gabriel', "C'est un nom assez surprenant pour un festival!", 'That is quite a surprising name for a festival!', [(518, 'Ridicule !')], ''),
@@ -35,9 +35,9 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Is that Turkish film in the official competition?' Gabriel checks the festival program."),
-    (1, None, "'No, it is screening at the Directors' Fortnight.' Arlette knows the festival categories well."),
+    (1, None, "'No, it is screening at the Fortnight of Directors.' Arlette knows the festival categories well."),
     (2, None, "'Is that the selection for first films?' Gabriel asks for clarification."),
-    (3, None, "'No, that is the Critics' Week.' Arlette explains the distinctions patiently."),
+    (3, None, "'No, that is the Week of the Critics.' Arlette explains the distinctions patiently."),
     (4, None, "'I really do not understand anything at all.' Gabriel admits his total confusion."),
     (5, None, "'There is also a section called ACID.' Arlette mentions the independent cinema showcase."),
     (6, None, "'That is quite a surprising name for a festival!' Gabriel smiles at the acronym."),
@@ -49,5 +49,5 @@ WALK = [
     (12, None, "'Enjoy life, Gabriel, we are in Cannes!' Arlette urges him to embrace joy."),
     (13, None, "'Look at the sun and the crowd on the Croisette.' Arlette gestures toward the bustling boulevard."),
     (14, None, "'You are right, the atmosphere here is magical.' Gabriel begins to relax and enjoy the moment."),
-    (15, None, "'Then go join Sofia and be happy!' Arlette sends him off with heartfelt warmth."),
+    (15, None, "'Then go join Sofia and be happy!' Arlette sends him off with heartfelt warmth. Now let's listen to the cheerful stroll once more at normal pace."),
 ]

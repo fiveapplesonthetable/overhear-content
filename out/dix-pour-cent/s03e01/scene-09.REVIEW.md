@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Sofia | Je suis très heureuse du résultat. | I am very happy with the result. | #173: Il faut que je vous montre. | verbatim |
 | 16 | Gabriel | C'est un grand succès pour toi. | It is a great success for you. | #173: Il faut que je vous montre. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Gabriel! Do you have a minute?' Sofia greets her agent upon arriving.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I was afraid it would be too dark.' Sofia explains her creative hesitation.
 - 'No, the colors are very beautiful.' Gabriel validates the visual palette.
 - 'I am very happy with the result.' Sofia expresses genuine creative satisfaction.
-- 'It is a great success for you.' Gabriel validates her achievement.
+- 'It is a great success for you.' Gabriel validates her achievement. Now let's listen to the entire dialogue once more to lock in what you have learned.

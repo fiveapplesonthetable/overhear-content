@@ -27,6 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 15 | Noémie | C'est difficile d'oublier des souvenirs pareils. | It is hard to forget memories like that. | #567: faut pas l'oublier, | verbatim |
 | 16 | Hervé | Viens au théâtre avec moi pour penser à autre chose. | Come to the theater with me to think about something else. | #554: spectacle de théâtre | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Noemie, would you be free tonight?' Herve asks casually at the office.
@@ -44,4 +45,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I had the impression of being a magician.' Noemie remembers feeling uniquely powerful.
 - 'Noemie, this man is toxic for you.' Herve provides sobering objective advice.
 - 'It is hard to forget memories like that.' Noemie acknowledges lingering attachment.
-- 'Come to the theater with me to think about something else.' Herve suggests a healthy distraction.
+- 'Come to the theater with me to think about something else.' Herve suggests a healthy distraction. Now let's listen to the entire dialogue once more to lock in what you have learned.

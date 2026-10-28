@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Linda | Fabrice! Tu es enfin là. | Fabrice! You are finally here. | #505: Fabrice ! Tu es enfin là | verbatim |
-| 2 | Fabrice | Pardon, je ne t'ai pas fait attendre? | Sorry, I didn | #506: Je ne t'ai pas fait attendre | verbatim |
+| 2 | Fabrice | Pardon, je ne t'ai pas fait attendre? | Sorry, I didn't keep you waiting? | #506: Je ne t'ai pas fait attendre | verbatim |
 | 3 | Linda | Ton agent Bréhier ne me répond jamais. | Your agent Bréhier never answers me. | #510: je n'entends jamais parler du tien | verbatim |
 | 4 | Fabrice | Vraiment? C'est très étrange. | Really? That is very strange. | #514: Il y a un problème | verbatim |
 | 5 | Linda | Je voulais te proposer le prochain Bond. | I wanted to offer you the next Bond. | #518: il s'agit du prochain Bond | verbatim |
@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Linda | J'ai un petit film en Irlande. | I have a small film in Ireland. | #529: J'ai ce film indépendant, situé en Irlande | verbatim |
 | 13 | Linda | Un rôle de professeur sous la pluie. | A role of teacher in the rain. | #531: sous la pluie<br>#532: jouer un professeur de français | verbatim |
 | 14 | Fabrice | Sous la pluie? Bréhier va m'entendre! | In the rain? Bréhier will hear from me! | #534: Il avait l'air comment | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Antonio Banderas? I do not understand!' Fabrice is outraged and bewildered by the perceived loss.
 - 'I have a small film in Ireland.' Linda offers a meager consolation project in Northern Ireland.
 - 'A role of teacher in the rain.' Linda describes an unglamorous low-budget production under harsh weather.
-- 'In the rain? Bréhier will hear from me!' Furious at the indignity, Fabrice vows to confront his negligent agent.
+- 'In the rain? Bréhier will hear from me!' Furious at the indignity, Fabrice vows to confront his negligent agent. Now listen to the whole scene again at normal speed, and see how much more you catch.

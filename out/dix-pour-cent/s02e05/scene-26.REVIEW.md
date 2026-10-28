@@ -20,9 +20,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Guy | On pourrait prendre un verre après? | Could we have a drink afterwards? | #863: On pourrait prendre un verre après | verbatim |
 | 9 | Arlette | D'accord, avec grand plaisir. | All right, with great pleasure. | #864: D'accord | verbatim |
 | 10 | Guy | Il y a un petit café plus loin. | There is a little cafe down the road. | #867: Il y a un petit café un peu plus loin | verbatim |
-| 11 | Guy | Vers vingt-deux heures, ça te va? | Around ten o | #868: 22 heures ? C'est pas trop tard | verbatim |
+| 11 | Guy | Vers vingt-deux heures, ça te va? | Around ten o'clock, is that good for you? | #868: 22 heures ? C'est pas trop tard | verbatim |
 | 12 | Arlette | Ce n'est pas trop tard pour moi. | It is not too late for me. | #870: C'est pas trop tard | verbatim |
 | 13 | Guy | Alors à tout à l'heure, Arlette. | See you soon then, Arlette. | #870: C'est pas trop tard | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There is a little cafe down the road.' Guy suggests a cozy local spot.
 - 'Around ten o'clock, is that good for you?' Guy checks whether the late hour suits her.
 - 'It is not too late for me.' Arlette confirms that ten o'clock works perfectly.
-- 'See you soon then, Arlette.' Guy heads off to finish his scenes with high spirits.
+- 'See you soon then, Arlette.' Guy heads off to finish his scenes with high spirits. Now listen to the whole scene again at normal speed, and see how much more you catch.

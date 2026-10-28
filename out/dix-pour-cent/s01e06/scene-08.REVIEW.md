@@ -25,7 +25,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Mathias | C'est comme ça. | That is just how it is. | #214: C'est comme ça. | verbatim |
 | 14 | Camille | C'était qui, ce producteur qui cherchait un assistant? | Who was that producer looking for an assistant? | #215: C'était qui, ce producteur qui cherchait un assistant ? | verbatim |
 | 15 | Mathias | Qui ça, Dominique Besnehard? | Who, Dominique Besnehard? | #216: Qui ça, Dominique Besnehard ? | verbatim |
-| 16 | Camille | Je vais l'appeler. Au cas où il cherche toujours. | I am going to call him. In case he is still looking. | #217: Je vais l'appeler. Au cas où il cherche toujours. | verbatim |
+| 16 | Camille | Je vais l'appeler. Au cas où il cherche toujours. | In case he is still looking. | #217: Je vais l'appeler. Au cas où il cherche toujours. | verbatim |
+
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,14 +36,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And the agency? The buyout of the agency?' She knows how much owning ASK means to him.
 - 'After what happened with your wife, does that change anything?' She asks directly about the consequences.
 - 'Listen, I am handling it, okay?' Mathias uses his favourite verb for managing a crisis.
-- 'Are you going to stay standing there for a long time?' A near-future question asking about his intentions.
-- 'I do not know.' A short, honest admission of defeat from a man who usually controls everything.
+- 'Are you going to stay standing there for a long time?' Camille asks about his intentions.
+- 'I do not know.' Mathias makes a short, honest admission of defeat, though he usually controls everything.
 - 'If I had not moved to Paris,' Camille begins to imagine an alternate version of her life.
 - 'And if I had not come to see you here,' Notice the feminine agreement on the past participle because Camille speaks.
-- 'You would buy the agency and your family would be happy.' Two conditional verbs describing that alternate reality.
+- 'You would buy the agency and your family would be happy.' Camille describes that alternate reality.
 - 'As for me, I would still be selling clothes in the South.' She reminds him of what she left behind in Provence.
-- 'What do you want me to tell you?' A very common rhetorical question expressing helplessness.
-- 'That is just how it is.' A philosophical conclusion accepting reality.
+- 'What do you want me to tell you?' Mathias expresses helplessness.
+- 'That is just how it is.' Mathias accepts reality.
 - 'Who was that producer looking for an assistant?' Camille shifts gears and looks toward the future.
 - 'Who, Dominique Besnehard?' Mathias mentions the name of a real-life French film producer.
 - 'I am going to call him.' Camille decides to call her landlord Philippe right away.

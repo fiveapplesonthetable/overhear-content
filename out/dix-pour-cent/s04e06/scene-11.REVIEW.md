@@ -18,10 +18,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Élise | C'est toi qui te mets cette pression. | You are the one putting this pressure on yourself. | #415: C'est toi qui te mets cette pression. | verbatim |
 | 7 | Élise | Tu tiens à ta petite Sofia! | You care about your little Sofia! | #416: On dirait que tu tiens à ta petite Sofia! | verbatim |
 | 8 | Gabriel | Mince. | Darn. | #417: Merde. | verbatim |
-| 9 | Élise | Un rôle dans le film d'Ozon... | A role in Ozon | #418: Un rôle face à Luchini dans le film d'Ozon... | verbatim |
+| 9 | Élise | Un rôle dans le film d'Ozon... | A role in Ozon's film... | #418: Un rôle face à Luchini dans le film d'Ozon... | verbatim |
 | 10 | Élise | Ça n'arrivera pas souvent. | That will not happen often. | #419: Ça ne se reproduira pas de sitôt. | verbatim |
 | 11 | Élise | C'est un si grand sacrifice? | Is it such a big sacrifice? | #420: Accepter un poste d'agent, c'est vraiment un tel sacrifice? | verbatim |
 | 12 | Gabriel | Avec toi, oui. | With you, yes. | #421: Avec toi, oui. | verbatim |
+
 
 ## Walk-through narration (English only, no target-language words quoted)
 

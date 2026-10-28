@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Valerie is thinking of you now.' Vero reveals that the film director was praising Hervé earlier."),
     (11, None, "'She is preparing her next big film.' The director is already planning her upcoming feature project."),
     (12, None, "'She wants to give you a real role!' Vero adds that the director has a major part in mind for him."),
-    (13, None, "'It is the most beautiful day!' Hervé beams with joy at the prospect of becoming a real movie star."),
+    (13, None, "'It is the most beautiful day!' Hervé beams with joy at the prospect of becoming a real movie star. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

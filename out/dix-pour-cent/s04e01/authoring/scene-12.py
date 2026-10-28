@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'She begins to calm down at last.' Andrea notices the baby relaxing."),
     (11, None, "'This day was very difficult.' Colette sighs under the weight of fatigue."),
     (12, None, "'Rest, I take over now.' Andrea encourages Colette to take a break."),
-    (13, None, "'Thank you Andrea, I really needed it.' Colette accepts the welcome relief."),
+    (13, None, "'Thank you Andrea, I really needed it.' Colette accepts the welcome relief. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

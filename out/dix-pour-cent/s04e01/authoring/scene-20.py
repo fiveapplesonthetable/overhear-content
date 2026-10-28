@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'Sophia, stay seated, do not leave!' Gabriel urgently attempts to avoid a scandal."),
     (11, None, "'I did not win, I am leaving.' Sophia refuses to witness the winner's victory speech."),
     (12, None, "'That is too impulsive a reaction, wait!' Gabriel warns her about media optics."),
-    (13, None, "'I refuse to sit here!' Sophia walks past the seated guests into the corridor."),
+    (13, None, "'I refuse to sit here!' Sophia walks past the seated guests into the corridor. Now let's listen to the complete discussion once more to reinforce the vocabulary."),
 ]

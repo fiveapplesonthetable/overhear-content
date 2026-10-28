@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Hicham | Parfait, les entretiens dans mon bureau. | Perfect, interviews in my office. | #134: Les entretiens dans mon bureau. | verbatim |
 | 13 | Gabriel | Tiens, prends un peu de café. | Here, have some coffee. | #135: Tiens... du café. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The interviews will take place in my office.' Hicham asserts his control over the junior agent recruitment process.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right, I will do two candidates.' Andrea yields slightly but caps her participation at two.
 - 'But I am the one who decides when.' Andrea maintains the upper hand by dictating the schedule.
 - 'Perfect, interviews in my office.' Hicham accepts the compromise while keeping the meetings on his turf.
-- 'Here, have some coffee.' Gabriel breaks the lingering tension by offering Andrea a cup of coffee.
+- 'Here, have some coffee.' Gabriel breaks the lingering tension by offering Andrea a cup of coffee. Now let's listen to the scene once more from start to finish.

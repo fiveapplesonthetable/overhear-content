@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Mathias | Bienvenue dans mon ancien bureau, chère Nathalie. | Welcome to my former office, dear Nathalie. | #477: C'est pas votre ancien bureau ?<br>#478: Si, c'est ça. | verbatim |
-| 2 | Nathalie | On dirait plutôt un corral d'avocats! | It looks more like a lawyers | #482: C'est un "corral d'avocats" ! | verbatim |
+| 2 | Nathalie | On dirait plutôt un corral d'avocats! | It looks more like a corral of lawyers! | #482: C'est un "corral d'avocats" ! | verbatim |
 | 3 | Mathias | L'agence a dû sous-louer cet étage entier. | The agency had to sublet this entire floor. | #479: J'imagine qu'ASK a dû sous-louer l'étage en dessous | verbatim |
 | 4 | Nathalie | Il faut faire circuler l'énergie ici! | We must circulate the energy here! | #488: Faisons circuler l'énergie. | verbatim |
 | 5 | Nathalie | Une belle plante verte changera toute l'ambiance. | A nice green plant will change the whole ambiance. | #489: D'abord, une plante ne fera pas de mal. | verbatim |
@@ -25,10 +25,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Nathalie | Mais pour ce film, je préfère Camille. | But for this film, I prefer Camille. | #545: Elle est plus discrète, plus ce qu'il me faut. | verbatim |
 | 14 | Andréa | Camille? C'est une excellente idée pour vous! | Camille? That is an excellent idea for you! | #545: ce qu'il me faut. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Welcome to my former office, dear Nathalie.' Mathias welcomes the actress into ASK.
-- 'It looks more like a lawyers' corral!' Nathalie compares the open desks to a cattle pen.
+- 'It looks more like a corral of lawyers!' Nathalie compares the open desks to a cattle pen.
 - 'The agency had to sublet this entire floor.' Mathias explains the financial sublet.
 - 'We must circulate the energy here!' Nathalie invokes harmonious energy flow.
 - 'A nice green plant will change the whole ambiance.' Nathalie introduces natural decor.
@@ -40,4 +41,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am simply offering friendly advice to Nathalie.' Mathias denies any underhanded tactics.
 - 'Andrea, I love your great wonderful energy.' Nathalie cushions her upcoming choice.
 - 'But for this film, I prefer Camille.' Nathalie selects Camille for her calmer approach.
-- 'Camille? That is an excellent idea for you!' Andrea embraces the decision graciously.
+- 'Camille? That is an excellent idea for you!' Andrea embraces the decision graciously. Now let's listen to the complete discussion once more to reinforce the vocabulary.

@@ -24,6 +24,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 12 | Gabriel | Qui as-tu trouvé? Une actrice connue? | Who did you find? A famous actress? | #335: Mais j'ai trouvé ! | verbatim |
 | 13 | Camille | Une touriste espagnole croisée dans le métro! | A Spanish tourist crossed paths with in the subway! | #264: C'est ma première fois à Paris. | verbatim |
 
+
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The director rejects all my actresses.' Camille explains that none of her submitted candidates pleased the director.
@@ -38,4 +39,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You have to observe and track them down!' Arlette urges Camille to rely on keen intuition rather than agency files.
 - 'Wait, I think that I found her!' Camille suddenly connects Arlette's advice to a real morning encounter.
 - 'Who did you find? A famous actress?' Gabriel inquires whether Camille discovered a celebrated film star.
-- 'A Spanish tourist crossed paths with in the subway!' Camille recalls the passionate foreign traveler from the subway station.
+- 'A Spanish tourist crossed paths with in the subway!' Camille recalls the passionate foreign traveler from the subway station. Now let's listen to Camille and Arlette's dialogue once more from start to finish.
