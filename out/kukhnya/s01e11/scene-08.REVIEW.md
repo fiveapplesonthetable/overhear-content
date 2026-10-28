@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello! How are things, bartender?' The guest says "ty" to the bartender, casual and friendly, since he has been drinking here. "Barmen" is "barman" in Russian letters. And "how your affairs" is the usual opening.
-- 'Hello! How are you feeling today?' Kostya answers politely, with "vy". Russian says "how yourself you feel", with a separate little word for "yourself". It's the same idea as the -sya ending.
-- 'Ugh, today I feel worse than yesterday.' This is the "than" word, which is used when the comparison is not a plain noun. "Worse" is a short, irregular form. The guest groans. He had too much last night.
-- 'Did you happen to find my phone?' "By chance" is built from the root of "happen". It's a polite way to ask. The guest hopes Kostya has seen it, and he looks around the bar as he says so.
-- 'Yes, I found it near the counter.' The counter of a bar is a word related to "stand". Kostya is helpful, as always. "Near" and "of the counter" give the position, the ending on "counter" doing the "of".
-- 'Huge thanks for the help, friend!' "Huge thank-you" is the usual Russian for "thanks a lot". "For help" is two small words. The guest is relieved, because losing a phone is no joke.
-- 'Tell me honestly, did my girlfriend not call?' The term for "girl" also means "girlfriend", so context decides. "Say honestly" is two short words. The guest asks nervously, because he has been waiting for a call.
-- 'No, no one has called here yet.' Notice how the little word that means "while" and "bye for now" also means "yet" here. "Nobody not rang" is a double negative. Kostya says it kindly.
-- 'She has not returned from Saratov yet.' "Saratov" is a city on a big river, and "from" shows in the ending. "Still not returned" ends in -las, since the woman is the one who has not returned. The guest has an explanation ready.
-- 'Yesterday you spoke about her for a long time.' "For a long time" is one word. And "about her" gets an extra "n" at the start of "her", as Russian does after small words. Kostya reminds him of yesterday's confession.
-- 'Yes, my memory is slowly returning to me.' The -sya on "returns" gives "returns itself". The guest is piecing last night together slowly. His memory comes back the way a tide does.
-- 'Here is a drink for you on the house.' Russian says "at the expense of the establishment". What Russian calls expense equals the score and the bill. Kostya treats the poor man to a drink.
-- 'Thank you for your kindness, buddy!' The word for "buddy" is "friend" with a big, warm ending, something like "old pal". "Kindness" comes from the Russian for "kind". The guest says it with real feeling.
+- 'Hello! How are things, bartender?' The guest says "ty" to the bartender: "kak tvoi dela", "how your affairs". "Barmen" is "barman" in Russian letters. He has been drinking here before.
+- 'Hello! How are you feeling today?' Kostya answers politely, with "vy". Russian says "kak vy sebya chuvstvuete", "how you yourself feel", where "sebya" is "yourself".
+- 'Ugh, today I feel worse than yesterday.' "Khuzhe, chem vchera" is "worse than yesterday", with "chem" for "than". "Khuzhe" is an irregular form of "plokho", "bad". "Mne khuzhe" is "to me worse".
+- 'Did you happen to find my phone?' "Sluchayno", "by chance", comes from "sluchay", "a case" or "chance". "Ty sluchayno ne nakhodil" is "did you by chance not find", a soft way to ask.
+- 'Yes, I found it near the counter.' "Stoyka", "counter", is related to "stoyat", "to stand". "Vozle stoyki" is "near the counter". "Nashyol" is "I found".
+- 'Huge thanks for the help, friend!' "Ogromnoe spasibo", "huge thanks", is the usual "thanks a lot". "Za pomoshch" is "for the help", and "drug" is "friend".
+- 'Tell me honestly, did my girlfriend not call?' "Devushka" is "girl" and also "girlfriend", so context decides. "Skazhi chestno" is "tell honestly". "Ne zvonila" is "didn't call".
+- 'No, no one has called here yet.' "Poka" is the word for "bye", and it also means "for now" or "yet". "Nikto ne zvonil" is "nobody not called", with both negatives. "Syuda" is "to here".
+- 'She has not returned from Saratov yet.' "Saratov" is a city on the "Volga", and "from Saratov" is "iz Saratova". "Eshchyo ne vernulas", "not yet returned", ends in -las for a woman.
+- 'Yesterday you spoke about her for a long time.' "Dolgo", "for a long time", is one word. "Pro neyo" is "about her", where "eyo" picks up an n- after "pro".
+- 'Yes, my memory is slowly returning to me.' "Vozvrashchaetsya" is "returns", with -sya, "returns itself". "Pamyat" is "memory", and "ko mne" is "to me".
+- 'Here is a drink for you on the house.' "Za schyot zavedeniya" is "at the expense of the establishment". "Schyot" also means "bill" and "score". "Vot vam napitok" is "here for you a drink".
+- 'Thank you for your kindness, buddy!' "Drugishche" is "drug", "friend", with a big warm ending: "old pal". "Dobrota", "kindness", comes from "dobry", "kind".

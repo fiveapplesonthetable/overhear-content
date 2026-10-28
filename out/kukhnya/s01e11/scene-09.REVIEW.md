@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, she and I were too different.' Russian says "we with her were", which is how you say "she and I". Then "different" takes an ending after "were". The guest begins his story with a shrug.
-- 'Why do you think so, my friend?' Putting "mine" after "friend" makes it warm, like "friend of mine". Kostya says "vy" to the older man. He wants to hear the story, and he's good at it.
-- 'She considered me a real coward.' "Considered" ends in -la, because the girlfriend did the considering. "As a coward" takes a special ending after "considered". The guest repeats the word, and it still hurts.
-- 'But I did not want to jump with a parachute!' "With a parachute" has the ending for "with". "Jump" is a short word. The guest defends himself, and you can tell this argument has run before.
-- 'Why stupidly risk one's life at all?' "One's own life" uses the "own" word, so the sentence reads "with one's own life". "Stupidly" is an adverb. The guest asks like a philosopher who has thought about it all night.
-- 'I completely agree with you.' "Agree" is in a short form, and a woman would say it with an -a. "With you" is polite. Kostya says it to be kind, and agreeing costs him nothing.
-- 'She dumped me right here yesterday.' The term for "dumped" is literally "threw". Russians use it for leaving a partner. The guest points at the very spot, and the hurt is fresh.
-- 'What is going on here at the bar?' Barinov asks "what happens", the phrase you know. "At the bar counter" is the position. The chef has come from the kitchen, and he has smelled a story.
-- 'Where is the restroom located here, tell me?' "Is located" literally means "finds itself", with the -sya. "Give me a hint" is the polite way to ask for directions. The guest changes the subject because his stomach has views.
-- 'The restroom is located immediately to the left of the bar.' "On the left" is one word, and "of the bar" shows in the ending. "Right away" is "srazu", as ever. Kostya gives directions, and gives them kindly.
-- 'Friend, you need hot soup right now!' "To you needed" is the pattern, here in the masculine, because "soup" is masculine. Barinov says "ty" to the stranger, the way a chef does to a friend. He is already cooking in his head.
-- 'I am not at all against tasty soup.' "Not against" is an idiom for "I don't mind". "At all" strengthens it. The guest takes the chef up on his offer, which is a sensible decision.
-- 'Kostya, urgently order bouillabaisse for our guest!' The French fish soup is spelled out in Russian letters. "Order" is a command to Kostya, who is now a waiter. Barinov turns the man into a VIP.
+- 'Kostya, she and I were too different.' Russian says "my s ney", "we with her", for "she and I". "Raznymi", "different", takes -ymi after "byli", "were".
+- 'Why do you think so, my friend?' "Drug moy", with "moy" after "drug", sounds warmer than "moy drug". "Pochemu vy tak dumaete" is "why you so think". Kostya keeps "vy".
+- 'She considered me a real coward.' "Schitala", "considered", ends in -la because the girlfriend did it. After it, "trus", "coward", becomes "trusom": "schitala menya trusom".
+- 'But I did not want to jump with a parachute!' "S parashyutom" is "with a parachute", with -om after "s". "Prygat" is "to jump". The argument has clearly been had before.
+- 'Why stupidly risk one's life at all?' "Riskovat svoey zhiznyu" is "risk with one's own life": Russian risks "with" something. "Svoey" is "one's own", "zachem" is "what for".
+- 'I completely agree with you.' "Soglasen" is "agreed", and a woman would say "soglasna". "S vami" is "with you", polite. "Polnostyu" is "completely".
+- 'She dumped me right here yesterday.' "Brosila" is literally "threw", and Russians use it for leaving a partner. "Pryamo zdes" is "right here", "straight here".
+- 'What is going on here at the bar?' "Chto proiskhodit" is the "what's going on" Vika asked about Max. "U barnoy stoyki" is "at the bar counter", where "stoyka" is the counter again.
+- 'Where is the restroom located here, tell me?' "Nakhoditsya", "is located", is literally "finds itself". "Podskazhite" is "prompt me", a polite way to ask for directions. The guest changes the subject.
+- 'The restroom is located immediately to the left of the bar.' "Sleva" is "on the left", and "ot bara" is "from the bar". "Srazu" is "right away", here "immediately".
+- 'Friend, you need hot soup right now!' "Tebe nuzhen", "to you needed", ends like "nuzhen" because "sup" is masculine. Barinov says "ty" to the stranger. "Goryachy" is "hot".
+- 'I am not at all against tasty soup.' "Ne protiv", "not against", is the Russian for "I don't mind". "Sovsem" strengthens it: "not at all against". "Vkusnogo supa" is "tasty soup".
+- 'Kostya, urgently order bouillabaisse for our guest!' "Buyabes" is the French fish soup in Russian letters. "Zakazhi" is "order!", and "nashemu gostyu" is "to our guest".

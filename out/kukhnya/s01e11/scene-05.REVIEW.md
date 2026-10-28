@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look carefully at the dining room!' Kostya takes the lead, in a conspirator's voice. "Look carefully" is two short words, and "at" is the small word that shows direction. Max is the pupil.
-- 'Which one of them could be the critic?' It's "who then of them", and "could be" is "can be". After "be", the critic takes a special "as" ending. Max is matter-of-fact about it.
-- 'Those two work at the bank next door.' "Neighbouring" comes from "neighbour", so the bank is the neighbour's. Kostya rules out the first two guests because of their jobs. They work next door, so they're regulars.
-- 'Yes, they are our regular guests.' Russians call regulars "constant" guests, from the same family as "permanent". Max agrees with Kostya's logic. Regulars cannot be mystery visitors.
-- 'And that man by the window?' "By the window" is "at the window", with the small word for "at". Kostya moves on to the next suspect, and what Russian calls a man is close to "husband".
-- 'He ordered fish and red wine.' Max reads the table like a detective reads a clue. Russians say "red" for red wine, just as English does. The food is the evidence.
-- 'No, a real critic will not order that.' "Of such not will order" is the literal, with the "of" form after "not". Kostya is sure of his own rules for critics. He has thought about this a lot.
-- 'What about the guy at table number three?' The "a" at the front means "and what about". Max proposes the third suspect. Tables get little names in a restaurant, "the little table number three".
-- 'He is too young for a restaurant critic.' "Young" is in a short form, used when you describe someone in the moment. Kostya has a picture of a critic in his head, and it has grey hair.
-- 'Critics usually sit in solitude.' The word for "solitude" comes from "odin", "alone", the word Louis used in the first scene. Max recites the critic's habits as if he'd read them in a book.
-- 'And write down everything in a notepad.' The prefix on "write down" means "on to" a page. "Notepad" is borrowed from English. Kostya adds one more clue to the picture, and the trap is set.
-- 'Look, the woman at table seven!' The table is described by an ordinal, "the seventh little table". Max spots the woman and his voice rises. The suspect is a lady alone, so she fits the picture.
-- 'She is looking very strictly at the menu.' "Strictly" is a describing word turned into an adverb. "Menu" never changes in Russian. Kostya is drawing a conclusion from a frown, which is hardly proof.
-- 'It seems we found our critic!' "It seems" is a single word. "Found" ends in -li for "we". Max is triumphant, and also wrong, as we'll soon find out.
+- 'Max, look carefully at the dining room!' "Smotri vnimatelno" is "look attentively". "Na zal" is "at the hall": "na" is the small word for looking at something. Kostya speaks in a conspirator's voice.
+- 'Which one of them could be the critic?' It's "kto zhe iz nikh", "who then of them", and "mozhet byt" is "can be". After "byt", "kritik" becomes "kritikom".
+- 'Those two work at the bank next door.' "Sosedny", "neighbouring", comes from "sosed", "neighbour". "V sosednem banke" is "in the neighbouring bank". "Eti dvoe" is "these two".
+- 'Yes, they are our regular guests.' Russians call regulars "postoyannye gosti", "constant guests". Max agrees with Kostya's logic: regulars cannot be mystery visitors.
+- 'And that man by the window?' "U okna" is "at the window": after "u", "okno" becomes "okna". "Muzhchina", "man", is close to "muzh", "husband". Kostya moves on to the next suspect.
+- 'He ordered fish and red wine.' "Zakazal" is "ordered", from "zakaz". "Rybu" is "ryba", "fish", as the thing ordered. "Krasnoe vino" is "red wine". Max reads the table like a detective.
+- 'No, a real critic will not order that.' "Takogo ne zakazhet" is "of such not will order", with "takoe" changed after "ne". "Zakazhet" is "will order". Kostya is sure of his rules for critics.
+- 'What about the guy at table number three?' "A" at the front means "and what about". "Za stolikom" is "at the little table": "stolik" is a small "stol", the usual word for a restaurant table.
+- 'He is too young for a restaurant critic.' "Molod" is a short form of "molodoy", "young", used to describe someone in the moment. "Dlya restorannogo kritika" is "for a restaurant critic", with endings after "dlya".
+- 'Critics usually sit in solitude.' "Odinochestvo", "solitude", comes from "odin", "one" or "alone", Louis's word in "ya odin". "V odinochestve" is "in solitude". "Obychno" is "usually".
+- 'And write down everything in a notepad.' "Zapisyvayut" is "write down": za- on "pisat", "to write". "Bloknot", "notepad", was borrowed from French. "V bloknot" is "into the notepad".
+- 'Look, the woman at table seven!' The table is "za sedmym stolikom", "at the seventh little table", a counting word. "Zhenshchina" is "woman". The suspect is a lady alone, so she fits.
+- 'She is looking very strictly at the menu.' "Strogo", "strictly", is "strogy" with -o. "Menyu" never changes in Russian. Kostya is drawing a conclusion from a frown, which is hardly proof.
+- 'It seems we found our critic!' "Kazhetsya", "it seems", is a single word. "Nashli", "found", ends in -li for "we". "Nashego kritika" is "our critic" as the one found.

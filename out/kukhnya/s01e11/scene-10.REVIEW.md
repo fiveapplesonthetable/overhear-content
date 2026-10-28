@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, look at that lady.' What Russian calls "that" takes a feminine object ending here, because the lady is a woman. Barinov says "ty" to Vika, as he does when he's worried. He wants a second opinion.
-- 'Well, how is she behaving?' "Leads herself" is the phrase for behaving, as with Alisa in the dining room. Vika answers with a question and a hint of impatience. She is watching too.
-- 'Everything seems completely fine.' The little colloquial word at the front means "kind of" or "seemingly". Barinov is not sure. He wants the lady to be the critic, but she looks like an ordinary guest.
-- 'She is talking on the phone for a long time.' Russians speak "by phone", so the small word is "by". Vika notices every detail, as a good administrator should.
-- 'She is simply dining in our dining room.' The word for "dines" is built on the midday meal, so it means "has lunch". Barinov argues the other way. He plays devil's advocate.
-- 'But she is not eating anything.' "Eats" is irregular in Russian. And "nothing not eats" has the double negative. Vika makes a good point, and Barinov cannot answer it.
-- 'Maybe the dish is too hot?' Barinov offers a kitchen explanation for everything: the food is always to blame. "Hot" ends in -ee to match the neuter word "dish".
-- 'She just asked for the bill.' The verb for "ask for" is not the verb for "ask a question". The bill repeats the score. Vika has the last piece of evidence, and it points the wrong way.
-- 'Is she a restaurant critic or not?' "Or no" is the blunt Russian tail for "or not". Barinov asks the question the way he asks everything, wanting a yes or a no and getting neither.
-- 'We are still not sure.' "Up to these times" is the Russian for "still". "Sure" is plural to agree with "we". Vika admits it. She does not like to say she doesn't know.
-- 'We need to urgently find out the whole truth.' "Find out" grows from the Russian for "clear", so it means "make clear". Barinov makes a plan, and the first step is always to find out.
-- 'I will find out everything right now, chef.' The little "zhe" in "right now" adds "this very minute". Vika doesn't wait for permission. The scene ends with her going.
+- 'Vika, look at that lady.' "Tu damu" is "that lady", both words ending in -u because she is the one being looked at. "Posmotri na" is "look at". Barinov wants a second opinion.
+- 'Well, how is she behaving?' "Kak ona sebya vedyot" is literally "how she leads herself". Vika used the same verb with Alisa: "vedi sebya prilichno", "behave decently".
+- 'Everything seems completely fine.' "Vrode", at the front, means "kind of" or "seemingly". "Sovershenno normalno" is "completely normal". Barinov is not sure.
+- 'She is talking on the phone for a long time.' Russians speak "po telefonu", "by phone". "Dolgo" is "for a long time", the word from the last scene's "dolgo govorili".
+- 'She is simply dining in our dining room.' "Obedaet", "has lunch", is built on "obed", the midday meal. "V nashem zale" is "in our hall". Barinov argues the other way.
+- 'But she is not eating anything.' "Est", "eats", is irregular in Russian. "Nichego ne est" is "nothing not eats", with both negatives. Vika makes a good point.
+- 'Maybe the dish is too hot?' "Goryachee", "hot", ends in -ee to match "blyudo", "dish". "Mozhet byt" is "maybe". For Barinov the food is always to blame.
+- 'She just asked for the bill.' "Poprosila", "asked for", is a different verb from "sprosit", "ask a question". "Schyot" is the bill, the same word as in "za schyot zavedeniya".
+- 'Is she a restaurant critic or not?' "Ili net", "or no", is the blunt Russian tail for "or not". "Restoranny kritik" is "restaurant critic". Barinov wants a yes or a no.
+- 'We are still not sure.' "Do sikh por", "up to these times", is the Russian for "still". "Uvereny", "sure", is plural to go with "my", "we".
+- 'We need to urgently find out the whole truth.' "Vyyasnit", "find out", grows from "yasny", "clear", so it means "make clear". "Vsyu pravdu" is "the whole truth".
+- 'I will find out everything right now, chef.' "Seychas zhe" is "right now", and the little "zhe" adds "this very minute". "Uznayu" is "I will find out".

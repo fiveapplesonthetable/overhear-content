@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, we have big trouble in the dining room.' Vika uses "Vitya", the pet name only friends use. "Beda" is a good word to know: trouble, bad luck. "At us in the hall" is the "at" pattern again.
-- 'Well, what bad thing happened out there now?' Barinov piles up little words, "well", "still", "there", "such", to show how tired he is of the day. The sentence sounds cross even before you know the words.
-- 'That female guest again completely refused the salad.' Russians say "refused from" the salad, with the little word for "from". The feminine word for "guest" is used again. Vika's tone is careful.
-- 'How refused, after all, this is our signature recipe!' Barinov repeats "refused" as a disbelieving echo. "Vedy" is "after all", a close cousin of "zhe". The chef cannot imagine anyone not loving his recipe.
-- 'She said she did not like the dish at all.' The Russian is "to her not at all pleased", the same pattern as "do you like it". Vika reports bluntly, and she braces herself for what comes next.
-- 'Did she completely lose her silly mind?' Russians lose their head, not their mind, so it's "lost her own silly head". It's an idiom, and Barinov means it literally enough. He is deeply offended.
-- 'Vitya, where are you going so quickly and angrily?' The Russian for "angrily" grows from the term for "angry" that you've heard in "angry at Dad". Vika notices his stride before he says a thing.
-- 'I will go straight into the dining room myself and handle it!' "Go sort it out" has no "and" in the Russian, just two verbs side by side. Barinov has decided to do it in person. That is a bad sign.
-- 'Stop, we do not need a loud scandal right now at all!' "Stand" is the usual "stop". "Not needed" agrees with "scandal", which is masculine. Vika sees the disaster coming and tries to block the door.
-- 'Nobody dares insult my haute cuisine!' "Dares" is a short, proud word. "Insult" is a bigger one than "offend". And "high kitchen" is the Russian for haute cuisine. Barinov sounds like a duke defending his castle.
-- 'A critic is sitting there, learn to calmly admit mistakes.' The word "umey" is the command form of "know how to", so Vika says "know how to admit". It sounds like advice from a schoolteacher. She repeats what Nastya heard.
-- 'Shut up, Vika, I never make mistakes!' "Shut up" has the -sya ending, "shut yourself up", and it is rude. "Never not make" has the double negative, and the mistakes take the "of" ending. Barinov's humility is legendary.
+- 'Vitya, we have big trouble in the dining room.' "Vitya" is the short form of "Viktor". "Beda" is a good word to know: trouble, bad luck. "U nas v zale" is "at us in the hall".
+- 'Well, what bad thing happened out there now?' Barinov piles up little words, "nu", "eshchyo", "tam", "takoe", to show how tired he is of the day. "Sluchilos" is "happened".
+- 'That female guest again completely refused the salad.' Russians refuse "ot", "from", something: "otkazalas ot salata". It is the verb behind Kostya's "otkaz". "Snova" is "again".
+- 'How refused, after all, this is our signature recipe!' Barinov echoes "kak otkazalas" in disbelief. "Ved" is "after all", a close cousin of "zhe". "Firmenny retsept" is "signature recipe".
+- 'She said she did not like the dish at all.' The Russian is "ey sovsem ne ponravilos", "to her not at all pleased", the same pattern as "mne nravitsya". "Sovsem" is "at all".
+- 'Did she completely lose her silly mind?' Russians lose their head, not their mind: "poteryala svoyu glupuyu golovu". "Golova" is "head". Barinov is deeply offended.
+- 'Vitya, where are you going so quickly and angrily?' "Serdito", "angrily", is the family of "serditsya", the word in "papa serditsya na menya", "Dad is angry with me". "Kuda" is "where to".
+- 'I will go straight into the dining room myself and handle it!' "Poydu i razberus" is "I'll go and sort it out". "Razberus" is from "razbiratsya", "to sort out". "Sam" is "myself".
+- 'Stop, we do not need a loud scandal right now at all!' "Stoy", "stand", is the usual "stop!". "Ne nuzhen", "not needed", agrees with "skandal", which is masculine.
+- 'Nobody dares insult my haute cuisine!' "Smeet", "dares", is a short, proud word. "Oskorblyat" is "to insult". And "vysokaya kukhnya", "high kitchen", is haute cuisine.
+- 'A critic is sitting there, learn to calmly admit mistakes.' "Umey" is the command of "umet", "to know how to", so Vika says "know how to admit". "Priznavat oshibki" is "to admit mistakes".
+- 'Shut up, Vika, I never make mistakes!' "Zatknis" has -sya, "plug yourself", and it is rude. "Nikogda ne delayu oshibok" is "never not make mistakes", with "oshibok" after the "ne".

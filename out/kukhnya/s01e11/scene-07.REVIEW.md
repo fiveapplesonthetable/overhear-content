@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, what did the guest say about the salad?' Russian has a separate word for a woman guest, the feminine twin of "guest". Vika asks the chef because the dish came from his kitchen.
-- 'She said the salad had a strange taste.' Russian says "at the salad a strange taste", the "at" pattern even for things. So the salad "has" a taste the way a person has a cold. Barinov passes on the complaint.
-- 'Chef, I made everything strictly by the recipe!' The small word "by" means "according to", as in "by the recipe". Max defends himself, and he is almost certainly right. The recipe is Barinov's own.
-- 'I warned you that he must not be allowed!' Vika's "warned" ends in -la. "Not allowed" is the one word you know from the chocolate rule, and the verb after it means to let someone near. She wants it on record.
-- 'Are you convinced of everything yourself now?' The -sya on "convinced" gives "convinced yourself". Vika says "ty" to the chef here, which sounds like a barb. She feels she has been proved right.
-- 'Vika, go say that we will fix everything.' "Go say" has no "and" between the two. Russians simply put the commands side by side. And "fix" grows out of what Russian calls "right". Barinov is calm now that he has a plan.
-- 'I hope this guest will not write a complaint.' The word for "complaint" grows from "to complain". Vika voices the fear that everyone has and nobody says. It's a restaurant's worst thing: a written complaint.
-- 'Max, urgently remake this dish yourself!' The prefix on "remake" means "again", so it's "make over". "Yourself" is there to make Max feel the weight. Barinov trusts only Max to make up for Max.
-- 'Chef, I will prepare the freshest salad.' "The most fresh" gives "the freshest". Max sounds eager. He wants to prove himself, and a salad is a small test with a very big audience.
-- 'Do you understand that the situation is very serious?' Barinov asks as a father asks a child. "Situation" is borrowed from English. He is stern, and he means well.
-- 'I will not let our restaurant down, chef!' It's the "let down" word that Vika used with Alisa, which literally means "lead under". Max promises with a loud voice. His intentions are the best.
-- 'Then work faster and do not talk too much!' The last word means "extra", so "don't chatter anything extra". You heard the same word in "no more unnecessary words". Barinov ends the talk, as he ends every talk.
-- 'And I will meet a new guest in the dining room.' In Russian, "meet" is the one for greeting someone who arrives. Vika slips away from the kitchen, because the front of house needs her.
+- 'Chef, what did the guest say about the salad?' "Gostya" is a woman guest, the feminine of "gost". "Pro salat" is "about the salad", the everyday word for "about".
+- 'She said the salad had a strange taste.' Russian says "u salata strannyy vkus", "at the salad a strange taste", the same "u" pattern as "u menya". "Vkus" is "taste".
+- 'Chef, I made everything strictly by the recipe!' "Po retseptu" is "by the recipe", where "po" means "according to". "Strogo" is "strictly". Max defends himself.
+- 'I warned you that he must not be allowed!' "Preduprezhdala", "I warned", ends in -la. "Nelzya" is the word from Alisa's chocolate rule, and "dopuskat" means to let someone in or near.
+- 'Are you convinced of everything yourself now?' "Ubedilsya" is "convinced yourself", with -sya. "Sam" is "yourself". Vika says "ty" to Barinov, as she usually does with him.
+- 'Vika, go say that we will fix everything.' "Idi skazhi", "go say", has no "and" between the two commands. "Ispravim", "we will fix", grows out of "pravy", "right".
+- 'I hope this guest will not write a complaint.' "Zhaloba", "complaint", grows from "zhalovatsya", "to complain". "Nadeyus" is "I hope". A written complaint is a restaurant's nightmare.
+- 'Max, urgently remake this dish yourself!' "Peredelay" is "delay", "do", with pere-, "over again". "Srochno" is "urgently". And "sam", "yourself", leaves it with Max.
+- 'Chef, I will prepare the freshest salad.' "Samy svezhy", "the most fresh", is how Russian makes "the freshest". "Prigotovlyu" is "I will prepare". Max sounds eager.
+- 'Do you understand that the situation is very serious?' "Situatsiya" is the same word as in Kostya's "chrezvychaynaya situatsiya". "Seryoznaya", "serious", ends in -aya to match it. "Ty ponimaesh" is "do you understand".
+- 'I will not let our restaurant down, chef!' "Ne podvedu", "I won't let down", is the verb Vika used with Alisa: "ne podvedyosh?" It literally means "lead under".
+- 'Then work faster and do not talk too much!' "Lishnego" is "anything extra", so "don't chatter anything extra". It is the same word as Senya's "nikakikh lishnikh slov", "no more extra words".
+- 'And I will meet a new guest in the dining room.' "Vstrechu" is "I will meet", from "vstrecha", "a meeting". "Novogo gostya" is "a new guest", with -ogo because he is the one being met.

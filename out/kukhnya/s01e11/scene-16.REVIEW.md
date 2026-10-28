@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did this girl run so quickly?' It's "where to", with the "away-run" word you know, the one in "ran away". Barinov asks as the news reaches him. He doesn't like it.
-- 'She just ran straight to the restroom.' The "po-" at the front of "ran" marks the start of the run, so "set off running". Vika points the way with a few quick words.
-- 'Did she suddenly feel ill in the dining room?' Russian says "to her suddenly became bad". The person is in the "to her" form, and the feeling "becomes". It's how Russians say they feel ill, with nobody doing anything.
-- 'Yes, she was just feeling very nauseous.' The Russian is "her just now strongly nauseated", an impersonal sentence with no subject. The woman is in the object form, because it is "it" that sickens her.
-- 'Could she really have gotten poisoned by our food?' The -as ending on "got poisoned" means she poisoned herself, by accident. "By our food" has the "by means of" endings. Barinov's face goes pale.
-- 'We do not know the exact reason yet.' "Yet" is that same little word that means "while" and "bye". After "not know", the reason takes the "of" form. Vika is careful, and she doesn't guess.
-- 'In the kitchen all products are always fresh.' Barinov is on the defensive. "Products" covers groceries and ingredients. "Always fresh" is two quick words. The pride in his kitchen is real.
-- 'But the guest felt ill after lunch.' "After lunch" uses the small word "posle". Vika has the timeline, and she lays it down plainly. She is not accusing, only noting.
-- 'What if this is a secret restaurant critic?' "A vdrug" is "and suddenly", and Russians use it as "what if". Barinov leaps from sickness to the worst thing he can think of. The critic is on his mind.
-- 'Then our restaurant has big problems.' Vika says "at our restaurant big problems", using "at" even for a building. It's a calm statement of a disaster. She doesn't raise her voice.
-- 'We must urgently check everything in the kitchen.' "Check" is the word that was used for the banquet. Barinov's answer to every problem is to check the kitchen. He is a systematic man.
-- 'I will go and find out her condition.' What Russian calls "condition" also means "fortune" and "state", as in the chef's money. Vika goes to find out. "Go and find out" again has no "and".
-- 'I hope everything ends well for us.' The prefix on "ends" gives the sense of completing. "For us" is one small word. Barinov's last line is a wish more than a belief. He doesn't have much else.
+- 'Where did this girl run so quickly?' "Kuda" is "where to". "Ubezhala", "ran away", is the verb Vika used about Max: "pochemu Maks tak bystro ubezhal?" Here it has -la for the girl.
+- 'She just ran straight to the restroom.' "Pobezhala", with po- in front, marks the start of the run: "set off running". "Pryamo v tualet" is "straight to the restroom".
+- 'Did she suddenly feel ill in the dining room?' Russian says "ey stalo plokho", "to her became bad". The person is "ey", "to her", and nobody does anything. "Vdrug" is "suddenly".
+- 'Yes, she was just feeling very nauseous.' "Eyo toshnilo", "her nauseated", has no subject at all: something unnamed sickens her. "Silno" is "strongly", and "tolko chto" is "just now".
+- 'Could she really have gotten poisoned by our food?' "Otravilas" has -sya: she poisoned herself, by accident. "Nashey edoy", "by our food", ends in -oy for "by means of". "Neuzheli" is "can it really be".
+- 'We do not know the exact reason yet.' "Poka", "yet", is the word that also means "bye". After "ne znaem", "prichina", "reason", becomes "prichiny", and "tochnoy" agrees.
+- 'In the kitchen all products are always fresh.' "Produkty" covers groceries and ingredients. "Vsegda svezhie" is "always fresh". "Na kukhne" is "on the kitchen", Russian's way to say "in".
+- 'But the guest felt ill after lunch.' "Posle obeda" is "after lunch", and after "posle" "obed" becomes "obeda". "Gostye" is "to the woman guest", in the "stalo plokho" pattern.
+- 'What if this is a secret restaurant critic?' "A vdrug" is "and suddenly", and Russians use it as "what if". "Tayny kritik" is "secret critic".
+- 'Then our restaurant has big problems.' Vika says "u nashego restorana bolshie problemy", "at our restaurant big problems", using "u" even for a building. "Togda" is "then".
+- 'We must urgently check everything in the kitchen.' "Proverit", "to check", is what Barinov said at the banquet: "snachala ya proveryu rabotu nashikh povarov". "Nuzhno srochno" is "it's needed urgently".
+- 'I will go and find out her condition.' "Sostoyanie", "condition", also means "fortune", as in Barinov's "zarabotaet sostoyanie", "will earn a fortune". "Uznayu" is "I will find out".
+- 'I hope everything ends well for us.' "Zakonchitsya", "will end", has za- for completing and -sya. "Dlya nas" is "for us". "Nadeyus" is "I hope".
