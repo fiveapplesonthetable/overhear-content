@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Ну ты куда? | Where are you going? | #25: Ну ты куда? | verbatim |
+| 1 | Настя | Ну ты куда? | Where are you going? | #25 00:02:24: Ну ты куда? | verbatim |
 | 2 | Макс | Мне пора. | I have to go. | new | new |
 | 3 | Настя | Останься со мной ещё на одну минуту. | Stay with me for one more minute. | new | new |
 | 4 | Макс | Я не могу, я очень сильно спешу. | I cannot, I am rushing very much. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are you going?' Waking up confused, she asks her boyfriend about his sudden morning departure.
-- 'I have to go.' Max replies with a quick, urgent phrase to indicate he is in a hurry to leave.
-- 'Stay with me for one more minute.' Hoping for a little romance, she gently asks him to linger just a bit longer in bed.
-- 'I cannot, I am rushing very much.' Turning down her request, he stresses that he is completely out of time.
-- 'Do you again have many important things?' Feeling slightly neglected, she sarcastically questions if his schedule is really that busy.
-- 'I need to stop by home, take a shower, change.' Listing his morning tasks, he explains all the steps he has to complete before work.
-- 'Listen, are you not tired of this?' Asking a pointed question, Nastya wonders if he is exhausted by this inconvenient routine.
-- 'What exactly should have strongly tired me?' Acting completely oblivious, he asks her to clarify what part of the situation is supposed to be annoying.
-- 'Sleeping here, but taking a shower far from here.' She lays out the ridiculous logistics of splitting his life between two different apartments.
-- 'Yes, it takes a lot of my time.' Agreeing with her assessment, he admits that the commute is draining his schedule.
-- 'Then why do you do this every day?' Puzzled by his choices, she challenges him to explain why he keeps putting himself through it.
-- 'Because all my things lie there.' Giving a practical answer, he points out that his clothes and belongings are at his own place.
-- 'Maybe you should move in with me?' Seizing the moment, she casually proposes a major relationship step as a practical solution.
+- 'Where are you going?' 'Ty kuda' is 'you where to', with no verb at all. In Russian the movement is understood.
+- 'I have to go.' Just two words, 'mne pora', 'to me time'. It's the standard way to say you must leave.
+- 'Stay with me for one more minute.' 'Ostanysya' ends in 'sya', so it's 'stay yourself'. 'Na odnu minutu' is 'for one minute', and 'na' there carries the length of time.
+- 'I cannot, I am rushing very much.' 'Speshu' is 'I hurry', and 'ochen silno' is 'very strongly'. The 'very' doesn't need a verb.
+- 'Do you again have many important things?' 'Del' is 'of affairs', so 'many important affairs' ends in plural 'of' forms. 'U tebya' is 'at you', which she uses for 'do you have'.
+- 'I need to stop by home, take a shower, change.' Russians 'accept' a shower, 'prinyat dush', where English says 'take'. 'Pereodetsya' is 'dress again', that is, change clothes.
+- 'Listen, are you not tired of this?' 'Tebe ne nadoelo' is 'to you has it not got boring', and it's how Russians ask 'aren't you fed up with this?'. 'Slushay' is 'listen', a chatty opener.
+- 'What exactly should have strongly tired me?' Max repeats her question back, in the roundabout way of someone playing for time. 'Dolzhno bylo' means 'was supposed to'.
+- 'Sleeping here, but taking a shower far from here.' Nastya doesn't use any 'you' or 'do'. 'Spat' and 'prinimat' are in their basic shape, as if they were nouns.
+- 'Yes, it takes a lot of my time.' 'Zanimaet' means 'occupies', so the thing takes up your time. 'Moego vremeni' is 'of my time', with an 'ego' ending.
+- 'Then why do you do this every day?' 'Zachem' is 'what for', and it's the right word for asking about purpose. 'Kazhdy den' is 'every day'.
+- 'Because all my things lie there.' Things 'lie', 'lezhat', in a place, as in the flat. Max gives a plain reason, which is the joke.
+- 'Maybe you should move in with me?' 'Mozhet byt' is 'can be', so 'maybe'. 'Ko mne' is 'to me', and 'pereedesh' is 'you'll move', with the same 'pere' as in 'move house'.

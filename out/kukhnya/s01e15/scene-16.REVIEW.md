@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Лёва, ну что такое? | Lyova, well what is this? | #330: Лёва, ну что такое, а? | verbatim |
+| 1 | Федя | Лёва, ну что такое? | Lyova, well what is this? | #330 00:21:13: Лёва, ну что такое, а? | verbatim |
 | 2 | Лёва | Что ты хочешь сказать? | What do you want to say? | new | new |
 | 3 | Федя | Что за цирк ты устроил? | What kind of circus did you stage? | new | new |
 | 4 | Лёва | Я ничего не устраивал. | I did not stage anything. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, well what is this?' Fedya confronts his coworker with an exasperated, clipped question, skipping any connecting words to ask what is going on.
-- 'What do you want to say?' Shooting back defensively, Lyova uses a perfectly ordinary conversational phrase to demand what the other man means.
-- 'What kind of circus did you stage?' Leading with "circus" to mock the dramatic behavior, Fedya calls out the ridiculousness of the situation.
-- 'I did not stage anything.' Lyova denies the accusation flat out, delivering a standard, natural-sounding denial.
-- 'Viktor Petrovich needs to sleep well.' Reminding his friend of the chef's needs, Fedya smoothly connects "it is necessary" with "good" and "getting enough sleep."
-- 'Why does he need to sleep?' Stubbornly questioning this logic, Lyova anchors his complaint on "why" followed by "it is necessary."
-- 'You know his situation.' Appealing to their shared knowledge, Fedya uses the casual "you" to talk about the chef's difficult circumstances.
-- 'He has a sick heart.' Pointing out the health issue, Fedya drops the "is" and links "sore" right to "heart."
-- 'He has a sick heart?' Repeating the claim with pure disbelief, Lyova pushes his intonation up on "sore heart" to make it a question.
-- 'It is me who has a sick heart.' Flipping the script, Lyova claims he is the real victim, omitting any connecting words to equate "this" with his own heart.
-- 'You need to calm down, Lyova.' Trying to defuse the tension, Fedya starts his sentence with "it is necessary" before urging his friend to relax.
-- 'I cannot work in such stress.' Dramatically declaring his inability to function, Lyova sticks a tiny negative word right before "can."
+- 'Lyova, well what is this?' Russian has a gentle phrase for 'what's going on?', and this is it. Literally it is 'well what such', and it is a good one to learn early.
+- 'What do you want to say?' Russian says 'what you want to say', with no helper word, and the saying word stays in its basic shape after 'want'.
+- 'What kind of circus did you stage?' 'Chto za' is 'what kind of'. 'Ustroil' is 'arranged', and Russians use it for staging a scene.
+- 'I did not stage anything.' Russian wants the double negative here, 'nothing' plus 'not', and the staging word is in its repeated form. Lyova denies the lot.
+- 'Viktor Petrovich needs to sleep well.' The word for 'sleep well' starts with 'vy', meaning 'out' or 'enough', so it's 'sleep your fill'. The needing person goes in the 'to' form.
+- 'Why does he need to sleep?' The one who needs sleep goes in the 'to him' form, so Russian says 'why to him to sleep'. Lyova is baffled.
+- 'You know his situation.' The word for 'his' never changes, whatever it describes. 'Situatsiyu' is the English word with a Russian ending.
+- 'He has a sick heart.' Russian says 'at him a sick heart' where English says 'he has'. The little word for 'at' does the work of 'has'.
+- 'He has a sick heart?' Lyova repeats it as a question. In Russian only the tone changes, with no 'does' needed.
+- 'It is me who has a sick heart.' The same 'at me' pattern is used here, with the word for 'it is' in front. The joke is that the one with the bad heart is Lyova.
+- 'You need to calm down, Lyova.' Russian says 'to you it is necessary', and the calming word ends in 'sya', which makes it 'calm yourself'.
+- 'I cannot work in such stress.' 'V takom stresse' is 'in such stress', and the 'e' ending goes with 'in'. 'Ne mogu' is 'I can't'.

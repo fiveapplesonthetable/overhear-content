@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Back in the restaurant kitchen, Lyova gets into an argument with another chef. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around A Bad Heart line by line and unpack how the Russian works."
+INTRO = "Back in the kitchen, Fedya takes Lyova aside to ask what's going on. He has heard about the heart condition, and he's worried. Here is the scene in Russian first."
+OPENER = "Let's go through it again, slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova realizes that the fake illness is causing him real anxiety. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to say' — you will catch every word right away. See you next time!"
+OUTRO = 'Lyova realises that a made-up illness can still cause real stress. When you watch, see whether he can calm down. Until next time.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('fedya', 'Лёва, ну что такое?', 'Lyova, well what is this?', [(330, 'Лёва, ну что такое, а?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Я не могу работать в таком стрессе.', 'I cannot work in such stress.', [], ''),
 ]
 WALK = [
-    (0, None, "'Lyova, well what is this?' Fedya confronts his coworker with an exasperated, clipped question, skipping any connecting words to ask what is going on."),
-    (1, None, "'What do you want to say?' Shooting back defensively, Lyova uses a perfectly ordinary conversational phrase to demand what the other man means."),
-    (2, None, '\'What kind of circus did you stage?\' Leading with "circus" to mock the dramatic behavior, Fedya calls out the ridiculousness of the situation.'),
-    (3, None, "'I did not stage anything.' Lyova denies the accusation flat out, delivering a standard, natural-sounding denial."),
-    (4, None, '\'Viktor Petrovich needs to sleep well.\' Reminding his friend of the chef\'s needs, Fedya smoothly connects "it is necessary" with "good" and "getting enough sleep."'),
-    (5, None, '\'Why does he need to sleep?\' Stubbornly questioning this logic, Lyova anchors his complaint on "why" followed by "it is necessary."'),
-    (6, None, '\'You know his situation.\' Appealing to their shared knowledge, Fedya uses the casual "you" to talk about the chef\'s difficult circumstances.'),
-    (7, None, '\'He has a sick heart.\' Pointing out the health issue, Fedya drops the "is" and links "sore" right to "heart."'),
-    (8, None, '\'He has a sick heart?\' Repeating the claim with pure disbelief, Lyova pushes his intonation up on "sore heart" to make it a question.'),
-    (9, None, '\'It is me who has a sick heart.\' Flipping the script, Lyova claims he is the real victim, omitting any connecting words to equate "this" with his own heart.'),
-    (10, None, '\'You need to calm down, Lyova.\' Trying to defuse the tension, Fedya starts his sentence with "it is necessary" before urging his friend to relax.'),
-    (11, None, '\'I cannot work in such stress.\' Dramatically declaring his inability to function, Lyova sticks a tiny negative word right before "can."'),
+    (0, None, "'Lyova, well what is this?' Russian has a gentle phrase for 'what's going on?', and this is it. Literally it is 'well what such', and it is a good one to learn early."),
+    (1, None, "'What do you want to say?' Russian says 'what you want to say', with no helper word, and the saying word stays in its basic shape after 'want'."),
+    (2, None, "'What kind of circus did you stage?' 'Chto za' is 'what kind of'. 'Ustroil' is 'arranged', and Russians use it for staging a scene."),
+    (3, None, "'I did not stage anything.' Russian wants the double negative here, 'nothing' plus 'not', and the staging word is in its repeated form. Lyova denies the lot."),
+    (4, None, "'Viktor Petrovich needs to sleep well.' The word for 'sleep well' starts with 'vy', meaning 'out' or 'enough', so it's 'sleep your fill'. The needing person goes in the 'to' form."),
+    (5, None, "'Why does he need to sleep?' The one who needs sleep goes in the 'to him' form, so Russian says 'why to him to sleep'. Lyova is baffled."),
+    (6, None, "'You know his situation.' The word for 'his' never changes, whatever it describes. 'Situatsiyu' is the English word with a Russian ending."),
+    (7, None, "'He has a sick heart.' Russian says 'at him a sick heart' where English says 'he has'. The little word for 'at' does the work of 'has'."),
+    (8, None, "'He has a sick heart?' Lyova repeats it as a question. In Russian only the tone changes, with no 'does' needed."),
+    (9, None, "'It is me who has a sick heart.' The same 'at me' pattern is used here, with the word for 'it is' in front. The joke is that the one with the bad heart is Lyova."),
+    (10, None, "'You need to calm down, Lyova.' Russian says 'to you it is necessary', and the calming word ends in 'sya', which makes it 'calm yourself'."),
+    (11, None, "'I cannot work in such stress.' 'V takom stresse' is 'in such stress', and the 'e' ending goes with 'in'. 'Ne mogu' is 'I can't'."),
 ]

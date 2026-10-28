@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Какой я подлый человек. | What a lowlife I am. | #297: подлый человек, а. | verbatim |
+| 1 | Лёва | Какой я подлый человек. | What a lowlife I am. | #297 00:18:32: подлый человек, а. | verbatim |
 | 2 | Макс | Лёва, перестань на себя наговаривать. | Lyova, stop putting yourself down. | new | new |
 | 3 | Лёва | Я выгнал человека из дома. | I kicked a person out of the home. | new | new |
 | 4 | Макс | В конце концов, шеф сам виноват. | After all, the boss himself is guilty. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a lowlife I am.' Lyova berates himself here, directly connecting "what a" with the phrase for "a mean person" to express his intense guilt.
-- 'Lyova, stop putting yourself down.' Max tells his friend to cut it out, using a direct command to stop the self-slander.
-- 'I kicked a person out of the home.' Continuing his self-pity, Lyova uses an action word for "kicked out" to emphasize the harsh reality of what he did.
-- 'After all, the boss himself is guilty.' Reassuring him, Max points out that the chef brought this on himself, dropping any connecting words to link "end" straight to "guilty."
-- 'He is guilty, but I feel bad.' Lyova contrasts the chef's fault with his own feelings, pairing "guilty" directly with "badly" to show his internal conflict.
-- 'Why does the boss even live with you?' Max questions the whole living arrangement using a common conversational phrasing for possession—literally saying "at you" rather than using an ownership word.
-- 'He left his family.' Explaining the sad background, Lyova states that the chef walked away from his relatives, focusing on the completed action.
-- 'He left the apartment to them.' Lyova adds another detail about the chef's sacrifice, noting that the flat was given over to his family.
-- 'Do you feel sorry for him?' Max asks this simple yes-or-no question purely by raising his voice at the end of the phrase for "feel pity."
-- 'He can be an unbearable person.' Acknowledging the chef's difficult nature, Lyova casually drops in an everyday term for "intolerable."
-- 'But I have no one else.' Showing his vulnerability, Lyova explains his loneliness by saying "at me" there is no one "more."
-- 'Close people should not be scattered.' Max shares a bit of wisdom about friendship, placing a small negative word right before the action of "throwing away" or "scattering."
-- 'In the end, one can stay alone.' Reflecting on the consequences of pushing people away, Lyova pieces together "result" with "might" and "remain alone."
-- 'It is time for me to go to a close person.' Wrapping up the chat, Max uses an impersonal structure meaning "to me" it is time to head toward someone dear.
+- 'What a lowlife I am.' 'Podly' is 'base', and Russians use it for people who behave meanly. The sentence has 'what a' at the front and no 'am'.
+- 'Lyova, stop putting yourself down.' 'Nagovarivat na sebya' is 'to talk onto oneself', meaning 'to run oneself down'. 'Perestan' is 'stop'.
+- 'I kicked a person out of the home.' 'Vygnal' is 'drove out', and the 'vy' at the front means 'out'. 'Iz doma' is 'from the house', and the house takes an 'a'.
+- 'After all, the boss himself is guilty.' 'V kontse kontsov' is literally 'in the end of ends', and it means 'after all'. 'Sam' is 'himself'.
+- 'He is guilty, but I feel bad.' 'Mne ploho' is 'to me bad', which is how Russians say 'I feel bad'. 'A' at the start is a 'but' that contrasts.
+- 'Why does the boss even live with you?' 'U tebya' is 'at you', and it means 'at your place'. 'Voobshche' is 'in general', like 'even'.
+- 'He left his family.' 'Ushyol' means 'went away', the man's past. Lyova uses 'iz semi' for 'from the family'.
+- 'He left the apartment to them.' 'Im' means 'to them', and 'kvartiru' takes a 'u' because it is what was left. 'Ostavil' is 'left behind'.
+- 'Do you feel sorry for him?' 'Tebe ego zhalko' is 'to you him pity', which is how Russians ask about sympathy. The feeling happens to the person.
+- 'He can be an unbearable person.' 'Byvaet' is 'happens to be', for a tendency. 'Nevynosimym' is 'un-bearable', and it's built from the word for carrying.
+- 'But I have no one else.' 'U menya nikogo net' is 'at me nobody not'. 'Nikogo' is the 'no one' in the form it takes after 'net'.
+- 'Close people should not be scattered.' 'Razbrasyvatsya' means 'to throw around', and the 'sya' makes it 'throw yourself around'. 'Ne stoit' is 'it's not worth'.
+- 'In the end, one can stay alone.' 'V itoge' is 'in the sum', one of the useful phrases for concluding. 'Odnomu' is 'to alone', and it takes the 'u' form after 'stay'.
+- 'It is time for me to go to a close person.' 'Mne pora' is 'to me time'. 'K blizkomu cheloveku' is 'to a close person', in the 'towards' form with 'k'.
