@@ -10,36 +10,26 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'The season is coming to an end, and Max is speaking over the last scenes of the episode. His thoughts are in short, plain Russian, about how people drift through life. Russian first, no need to catch it all.'
-OPENER = "Now let's look at what was said."
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "The thoughts are Max's, but they could be anyone's. 'Mechtat'' means to daydream, and 'spat'' means to sleep, which is why Russians keep the two apart. See you next time!"
-CLOSING = ('max', 'До свидания!')
+INTRO = "The episode closes over Max's voice, which starts with a single word, my, 'we'. These easy lines lead into his thought; here they are in Russian."
+OPENER = "Let's go over the lines."
+TRANSITION = "And Max's words again."
+OUTRO = "Max's thought goes on in the next scene. In Russian, ssoritsya, 'to quarrel', always carries -sya, since you quarrel with someone. See you next time!"
+CLOSING = ('max', 'До скорого!')
 STORY = [
-    ('max', 'Люди часто спят.', 'People often sleep.', [], ''),
-    ('max', 'Они не хотят думать.', 'They do not want to think.', [], ''),
-    ('max', 'Все любят мечтать.', 'Everyone loves to dream.', [], ''),
-    ('max', 'Мы видим сны.', 'We see dreams.', [], ''),
-    ('max', 'Такая у нас жизнь.', 'Such is our life.', [], ''),
-    ('max', 'Никто не видит правду.', 'Nobody sees the truth.', [], ''),
-    ('max', 'Мы сами не видим.', 'We ourselves do not see.', [(334, 'Мы')], ''),
-    ('max', 'Многие закрывают глаза.', 'Many close their eyes.', [], ''),
-    ('max', 'Они боятся.', 'They are afraid.', [], ''),
-    ('max', 'Просто ждут чудо.', 'Just wait for a miracle.', [], ''),
-    ('max', 'Никто ничего не знает.', 'Nobody knows anything.', [], ''),
-    ('max', 'И все молчат.', 'And everyone is silent.', [], ''),
+    ('max', 'Мы.', 'We.', [(334, 'Мы')], ''),
+    ('max', 'Кто мы?', 'Who are we?', [], ''),
+    ('max', 'Мы живём каждый день.', 'We live every day.', [], ''),
+    ('max', 'Мы работаем, любим, ссоримся.', 'We work, we love, we quarrel.', [], ''),
+    ('max', 'Мы дарим подарки.', 'We give presents.', [], ''),
+    ('max', 'Мы делаем предложения.', 'We make proposals.', [], ''),
+    ('max', 'Но часто мы не знаем, кто мы.', "But often we don't know who we are.", [], ''),
 ]
 WALK = [
-    (0, None, "'People often sleep.' 'People' is an irregular plural. 'They sleep' carries 'yat'."),
-    (1, None, "'They don't want to think.' 'They want' is irregular, ending in 'yat'. 'To think' is the plain form."),
-    (2, None, "'Everyone loves to dream.' 'Dream' means to daydream, not to sleep. 'They love' is plural, to go with 'everyone'."),
-    (3, None, "'We have dreams.' Russians 'see' dreams, where English 'has' them. 'We see' carries 'im'."),
-    (4, None, "'Such is our life.' 'Such at us life' is the word order. There's no 'is'."),
-    (5, None, "'Nobody sees the truth.' 'Nobody' and 'not' appear together. 'Truth' takes a 'u' ending."),
-    (6, None, "'We ourselves don't see.' 'Ourselves' is a short plural word. It comes right after 'we'."),
-    (7, None, "'Many close their eyes.' 'Eyes' is plural, with a stressed 'a'. 'Many' is plural, too."),
-    (8, None, "'They are afraid.' 'Fear' finishes with 'sya', so it's 'they fear themselves'. A short, plain line."),
-    (9, None, "'They just wait for a miracle.' 'Wait for' takes the object form, but 'miracle' is neuter and doesn't change. 'Just' sits at the front."),
-    (10, None, "'Nobody knows anything.' Three negatives: 'nobody', 'nothing' and 'not'. All are required."),
-    (11, None, "'And everyone keeps quiet.' 'Are silent' carries 'yat'. 'Everyone' is the plain word."),
+    (0, None, "'We.' The word my means 'we', and here it starts Max's closing thought."),
+    (1, None, "'Who are we?' Russian needs no 'are': kto my, literally 'who we'."),
+    (2, None, "'We live every day.' Russian says kazhdyy den, 'every day', with no little word for 'on' in front."),
+    (3, None, "'We work, we love, we quarrel.' Russian ssorimsya ends in -sya, because quarrelling is something people do with each other."),
+    (4, None, "'We give presents.' Russian says darim podarki, and both words come from dar, 'gift'."),
+    (5, None, "'We make proposals.' The word predlozhenie means 'proposal' of marriage, and also 'offer' or 'sentence'."),
+    (6, None, "'But often we don't know who we are.' The little word ne, 'not', goes straight before znaem, 'we know'."),
 ]

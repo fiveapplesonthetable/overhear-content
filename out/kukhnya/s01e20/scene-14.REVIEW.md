@@ -10,34 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Вика, я слышал, у вас день рождения. | Vika, I heard it is your birthday. | #243 00:16:16: Итак, приветствуем нового чемпиона. | verbatim |
-| 2 | Гость | У меня есть красивый подарок для вас. | I have a beautiful gift for you. | new | new |
-| 3 | Вика | Боже мой! Это очень дорогая картина. | Oh my God! This is a very expensive painting. | new | new |
-| 4 | Гость | Главное, что она вам очень нравится. | The main thing is that you like it very much. | new | new |
-| 5 | Вика | Спасибо большое, это мой любимый художник. | Thank you very much, this is my favorite artist. | new | new |
-| 6 | Макс | А я смотрю, вы тут хорошо развлекаетесь. | And I see you are having good fun here. | new | new |
-| 7 | Вика | Макс, что ты делаешь? Иди отсюда. | Max, what are you doing? Go from here. | new | new |
-| 8 | Макс | Я хочу выпить за удивительную девушку. | I want to drink to an amazing girl. | new | new |
-| 9 | Вика | Макс, ты пьян. Пойдем, выйдем, пожалуйста. | Max, you are drunk. Let's go out, please. | new | new |
-| 10 | Макс | Подожди, я еще не подарил свой подарок. | Wait, I did not give my gift yet. | new | new |
-| 11 | Вика | Мне не нужны твои глупые подарки сейчас. | I do not need your stupid gifts now. | new | new |
-| 12 | Макс | Смотри, это красивое кольцо для тебя. | Look, this is a beautiful ring for you. | new | new |
-| 13 | Гость | Извините, я, наверное, пойду сейчас. | Excuse me, I will probably go now. | new | new |
-| 14 | Вика | Нет, останьтесь. Макс, ты сошел с ума! | No, stay. Max, you have gone crazy! | new | new |
+| 1 | Гость | Вика, мне сказали, у вас день рождения сегодня. | Vika, I was told it is your birthday today. | #247 00:16:34: Вика, мне сказали, у вас день рождения сегодня. | verbatim |
+| 2 | Гость | Смотрите, прямо к вашему платью. | Look, it goes right with your dress. | #249 00:16:40: к вашему чудесному платью. | verbatim |
+| 3 | Вика | Ну зачем вы? Боже мой. | Oh, you should not have. Oh my God. | #250 00:16:43: Ну зачем вы?<br>#251 00:16:49: Боже мой. | verbatim |
+| 4 | Вика | Это же мой любимый фотограф! | It is my favourite photographer! | #252 00:16:54: Это же мой любимый фотограф | verbatim |
+| 5 | Вика | Это очень дорого. | This is very expensive. | #253 00:16:57: это очень дорого. | verbatim |
+| 6 | Гость | Главное, что вам понравилось. | The main thing is that you liked it. | #254 00:17:01: Главное, что вам понравилось. | verbatim |
+| 7 | Макс | А я смотрю, вы тут развлекаетесь, да? | And I see you are having fun here, huh? | #256 00:17:05: А я смотрю, вы тут развлекаетесь, да? | verbatim |
+| 8 | Макс | Я хочу выпить за девушку, которую я очень люблю. | I want to drink to the girl I love very much. | #262 00:17:27: Я хочу выпить за девушку, которую я | verbatim |
+| 9 | Вика | Так, Макс, пойдём, выйдем, пожалуйста. | Right, Max, come on, let us step outside, please. | #264 00:17:36: Так, Макс<br>#265 00:17:39: пойдем, выйдем, пожалуйста. | verbatim |
+| 10 | Макс | А, да, я тут забыл. | Oh, yes, I forgot. | #266 00:17:41: Я тут забыл. | verbatim |
+| 11 | Макс | Тебе все подарки дарят, а я не успел. | Everyone is giving you presents, and I did not get round to it. | #267 00:17:44: Тебе тут все подарки дарят | verbatim |
+| 12 | Макс | Сейчас я тебе подарю. | I will give you mine now. | #268 00:17:47: Сейчас я тебе подарю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I heard it's your birthday.' 'At you birthday' stands for 'you have a birthday'. 'You' is the polite 'vas'.
-- 'I have a beautiful gift for you.' 'At me there is' stands for 'I have'. 'For you' takes the 'a' form, 'vas'.
-- 'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and carries 'a'.
-- 'The main thing is that you like it very much.' 'It pleases you' is the pattern, with 'it' as the subject. 'The main thing' comes from 'head'.
-- 'Thank you very much, he's my favourite artist.' 'Favourite' comes from 'love'. 'Artist' is a masculine noun.
-- 'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' carries 'sya'.
-- 'Max, what are you doing? Get out of here.' 'Doing' finishes with 'sh', for the casual 'you'. 'Get out of here' is 'go from here'.
-- 'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the Russian for 'surprise'.
-- 'Max, you're drunk. Let's step out, please.' 'Drunk' is a short masculine form, without an ending. 'Let's go, let's go out' are two 'we' forms.
-- 'Wait, I haven't given my gift yet.' 'Gave as a gift' is the completed kind, with 'not' before it. 'My own gift' uses the special pointing-back word.
-- 'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' carries 'ye' for the plural.
-- 'Look, it's a beautiful ring for you.' 'Look' is the informal order. 'For you' is the casual 'tebya'.
-- 'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is an action seen as complete.
-- 'No, stay. Max, you've lost your mind!' 'Stay' finishes with 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'.
+- 'Vika, I'm told it's your birthday today.' Russian says mne skazali, literally 'to me they said', and leaves out 'they'.
+- 'Look, it goes right with your dress.' Russian says k platyu, literally 'to the dress', for something that matches it.
+- 'Oh, you shouldn't have. Oh my God.' The polite protest nu zachem vy literally means 'well, why you?'
+- 'It's my favourite photographer!' The word lyubimyy, 'favourite', comes from lyubit, 'to love'.
+- 'This is very expensive.' The word dorogo, 'expensive', is related to dorogoy, which also means 'dear'.
+- 'What matters is that you liked it.' Russian says vam ponravilos, literally 'to you it was pleasing', where English says 'you liked it'.
+- 'And I see you're having fun here, huh?' Russian says ya smotryu, literally 'I look', to mean 'I see' or 'I notice'.
+- 'I want to drink to the girl I love very much.' In a toast Russian says vypit za, literally 'drink for', someone.
+- 'Right, Max, come on, let's step outside, please.' Russian says vyydem, literally 'we'll go out', for 'let's step outside'.
+- 'Oh, yes, I forgot.' The word zabyl, 'forgot', has the masculine past ending -l; Vika would say zabyla.
+- 'Everyone's giving you presents, and I didn't get round to it.' Russian says podarki daryat, 'they give presents', with no 'they', and both words share dar, 'gift'.
+- 'I'll give you mine now.' The word podaryu, 'I'll give as a present', is the one-off future of darit, 'to give presents'.

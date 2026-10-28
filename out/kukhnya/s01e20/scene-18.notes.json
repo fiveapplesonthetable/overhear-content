@@ -50,7 +50,7 @@
     },
     {
       "seg": 2,
-      "trans": "I want...",
+      "trans": "I want you to be my wife.",
       "words": [
         {
           "t": "Я",
@@ -61,21 +61,15 @@
           "gram": "1st person singular, nominative"
         },
         {
-          "t": "хочу.",
+          "t": "хочу,",
           "lemma": "хотеть",
           "pos": "verb",
           "stress": "хочу́",
           "gloss": "want",
           "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 3,
-      "trans": "For you to be my wife.",
-      "words": [
+        },
         {
-          "t": "Чтобы",
+          "t": "чтобы",
           "lemma": "чтобы",
           "pos": "conj",
           "stress": "что́бы",
@@ -95,8 +89,8 @@
           "lemma": "стать",
           "pos": "verb",
           "stress": "ста́ла",
-          "gloss": "have become",
-          "gram": "past, feminine singular, perfective"
+          "gloss": "became (стать = to become)",
+          "gram": "past, feminine singular, perfective, after чтобы"
         },
         {
           "t": "моей",
@@ -104,20 +98,20 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "feminine singular, after стать (form for 'become what')"
         },
         {
           "t": "женой.",
           "lemma": "жена",
           "pos": "noun",
           "stress": "жено́й",
-          "gloss": "(my) wife",
-          "gram": "instrumental singular, feminine"
+          "gloss": "wife",
+          "gram": "feminine singular, after стать (form for 'become what')"
         }
       ]
     },
     {
-      "seg": 4,
+      "seg": 3,
       "trans": "Have you lost your mind?",
       "words": [
         {
@@ -163,7 +157,7 @@
       ]
     },
     {
-      "seg": 5,
+      "seg": 4,
       "trans": "What? What?",
       "words": [
         {
@@ -185,7 +179,7 @@
       ]
     },
     {
-      "seg": 6,
+      "seg": 5,
       "trans": "You said yourself that every day is a new step.",
       "words": [
         {
@@ -255,7 +249,7 @@
       ]
     },
     {
-      "seg": 7,
+      "seg": 6,
       "trans": "Kostya, I meant meeting the parents.",
       "words": [
         {
@@ -325,7 +319,7 @@
       ]
     },
     {
-      "seg": 8,
+      "seg": 7,
       "trans": "Not this.",
       "words": [
         {
@@ -355,7 +349,7 @@
       ]
     },
     {
-      "seg": 9,
+      "seg": 8,
       "trans": "I had this step planned for a year from now.",
       "words": [
         {
@@ -433,7 +427,7 @@
       ]
     },
     {
-      "seg": 10,
+      "seg": 9,
       "trans": "What, you have a plan?",
       "words": [
         {
@@ -471,7 +465,7 @@
       ]
     },
     {
-      "seg": 11,
+      "seg": 10,
       "trans": "Yes, I do.",
       "words": [
         {
@@ -493,7 +487,7 @@
       ]
     },
     {
-      "seg": 12,
+      "seg": 11,
       "trans": "And you nearly destroyed it just now.",
       "words": [
         {
@@ -556,66 +550,6 @@
     },
     {
       "seg": 13,
-      "trans": "Forgive me, please.",
-      "words": [
-        {
-          "t": "Прости",
-          "lemma": "простить",
-          "pos": "verb",
-          "stress": "прости́",
-          "gloss": "sorry, forgive me",
-          "gram": "imperative, 2nd person singular, perfective"
-        },
-        {
-          "t": "меня,",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "пожалуйста.",
-          "lemma": "пожалуйста",
-          "pos": "part",
-          "stress": "пожа́луйста",
-          "gloss": "please",
-          "gram": "politeness word"
-        }
-      ]
-    },
-    {
-      "seg": 14,
-      "trans": "I forgive you.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "прощаю",
-          "lemma": "прощать",
-          "pos": "verb",
-          "stress": "проща́ю",
-          "gloss": "to forgive; bid farewell",
-          "gram": "1st person singular"
-        },
-        {
-          "t": "тебя.",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
-        }
-      ]
-    },
-    {
-      "seg": 16,
       "trans": "I wanted to tell you something.",
       "words": [
         {
@@ -661,8 +595,8 @@
       ]
     },
     {
-      "seg": 18,
-      "trans": "I want...",
+      "seg": 15,
+      "trans": "I want you to be my wife.",
       "words": [
         {
           "t": "Я",
@@ -673,21 +607,15 @@
           "gram": "1st person singular, nominative"
         },
         {
-          "t": "хочу.",
+          "t": "хочу,",
           "lemma": "хотеть",
           "pos": "verb",
           "stress": "хочу́",
           "gloss": "want",
           "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "For you to be my wife.",
-      "words": [
+        },
         {
-          "t": "Чтобы",
+          "t": "чтобы",
           "lemma": "чтобы",
           "pos": "conj",
           "stress": "что́бы",
@@ -707,8 +635,8 @@
           "lemma": "стать",
           "pos": "verb",
           "stress": "ста́ла",
-          "gloss": "became",
-          "gram": "feminine singular past, perfective"
+          "gloss": "became (стать = to become)",
+          "gram": "past, feminine singular, perfective, after чтобы"
         },
         {
           "t": "моей",
@@ -716,20 +644,20 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "feminine singular, after стать (form for 'become what')"
         },
         {
           "t": "женой.",
           "lemma": "жена",
           "pos": "noun",
           "stress": "жено́й",
-          "gloss": "(my) wife",
-          "gram": "instrumental singular, feminine"
+          "gloss": "wife",
+          "gram": "feminine singular, after стать (form for 'become what')"
         }
       ]
     },
     {
-      "seg": 22,
+      "seg": 17,
       "trans": "Have you lost your mind?",
       "words": [
         {
@@ -775,7 +703,7 @@
       ]
     },
     {
-      "seg": 24,
+      "seg": 19,
       "trans": "What? What?",
       "words": [
         {
@@ -797,7 +725,7 @@
       ]
     },
     {
-      "seg": 26,
+      "seg": 21,
       "trans": "You said yourself that every day is a new step.",
       "words": [
         {
@@ -867,7 +795,7 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 23,
       "trans": "Kostya, I meant meeting the parents.",
       "words": [
         {
@@ -892,7 +820,7 @@
           "pos": "verb",
           "stress": "име́ла",
           "gloss": "had",
-          "gram": "feminine singular past"
+          "gram": "past, feminine singular, imperfective"
         },
         {
           "t": "в",
@@ -915,8 +843,8 @@
           "lemma": "знакомство",
           "pos": "noun",
           "stress": "знако́мство",
-          "gloss": "acquaintance, meeting",
-          "gram": "neuter, accusative singular"
+          "gloss": "acquaintance",
+          "gram": "neuter nominative singular"
         },
         {
           "t": "с",
@@ -930,14 +858,14 @@
           "t": "родителями.",
           "lemma": "родители",
           "pos": "noun",
-          "stress": "роди́телями",
+          "stress": "родителя́ми",
           "gloss": "parents",
-          "gram": "plural, form used after 'with'"
+          "gram": "instrumental plural"
         }
       ]
     },
     {
-      "seg": 30,
+      "seg": 25,
       "trans": "Not this.",
       "words": [
         {
@@ -967,7 +895,7 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 27,
       "trans": "I had this step planned for a year from now.",
       "words": [
         {
@@ -1000,7 +928,7 @@
           "pos": "noun",
           "stress": "пла́ну",
           "gloss": "plan",
-          "gram": "masculine, form used after 'by'"
+          "gram": "dat.m.sg"
         },
         {
           "t": "этот",
@@ -1045,7 +973,7 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 29,
       "trans": "What, you have a plan?",
       "words": [
         {
@@ -1079,126 +1007,142 @@
           "stress": null,
           "gloss": "plan",
           "gram": "masculine nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 31,
+      "trans": "Yes, I do.",
+      "words": [
+        {
+          "t": "Да,",
+          "lemma": "да",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
+        },
+        {
+          "t": "есть.",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "there is (у меня есть = I have)",
+          "gram": "present, the form есть, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 33,
+      "trans": "And you nearly destroyed it just now.",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "его",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "его́",
+          "gloss": "him",
+          "gram": "3rd person masculine singular, accusative; г is said like в"
+        },
+        {
+          "t": "сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "чуть",
+          "lemma": "чуть",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "almost, nearly",
+          "gram": "adverb"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "разрушил.",
+          "lemma": "разрушить",
+          "pos": "verb",
+          "stress": "разру́шил",
+          "gloss": "destroyed",
+          "gram": "masculine singular past (perfective)"
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "I wanted to tell you something.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "хотел",
+          "lemma": "хотеть",
+          "pos": "verb",
+          "stress": "хоте́л",
+          "gloss": "wanted",
+          "gram": "past, masculine singular, imperfective"
+        },
+        {
+          "t": "тебе",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "for you, to you",
+          "gram": "2nd person singular, dative"
+        },
+        {
+          "t": "кое-что",
+          "lemma": "кое-что",
+          "pos": "pron",
+          "stress": "ко́е-что",
+          "gloss": "something, one more thing",
+          "gram": "indefinite pronoun, accusative"
+        },
+        {
+          "t": "сказать.",
+          "lemma": "сказать",
+          "pos": "verb",
+          "stress": "сказа́ть",
+          "gloss": "tell",
+          "gram": "infinitive, perfective"
         }
       ]
     },
     {
       "seg": 36,
-      "trans": "Yes, I do.",
-      "words": [
-        {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
-        },
-        {
-          "t": "есть.",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "there is (у меня есть = I have)",
-          "gram": "present, the form есть, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 38,
-      "trans": "And you nearly destroyed it just now.",
-      "words": [
-        {
-          "t": "А",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "его",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "его́",
-          "gloss": "him",
-          "gram": "3rd person masculine singular, accusative; г is said like в"
-        },
-        {
-          "t": "сейчас",
-          "lemma": "сейчас",
-          "pos": "adv",
-          "stress": "сейча́с",
-          "gloss": "now",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "чуть",
-          "lemma": "чуть",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "almost, nearly",
-          "gram": "adverb"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "разрушил.",
-          "lemma": "разрушить",
-          "pos": "verb",
-          "stress": "разру́шил",
-          "gloss": "destroyed",
-          "gram": "masculine singular past, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "Forgive me, please.",
-      "words": [
-        {
-          "t": "Прости",
-          "lemma": "простить",
-          "pos": "verb",
-          "stress": "прости́",
-          "gloss": "sorry, forgive me",
-          "gram": "imperative, 2nd person singular, perfective"
-        },
-        {
-          "t": "меня,",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "пожалуйста.",
-          "lemma": "пожалуйста",
-          "pos": "part",
-          "stress": "пожа́луйста",
-          "gloss": "please",
-          "gram": "politeness word"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "I forgive you.",
+      "trans": "I want you to be my wife.",
       "words": [
         {
           "t": "Я",
@@ -1209,97 +1153,15 @@
           "gram": "1st person singular, nominative"
         },
         {
-          "t": "прощаю",
-          "lemma": "прощать",
-          "pos": "verb",
-          "stress": "проща́ю",
-          "gloss": "I forgive",
-          "gram": "1st person singular present"
-        },
-        {
-          "t": "тебя.",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "I wanted to tell you something.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "хотел",
-          "lemma": "хотеть",
-          "pos": "verb",
-          "stress": "хоте́л",
-          "gloss": "wanted",
-          "gram": "past, masculine singular, imperfective"
-        },
-        {
-          "t": "тебе",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": "тебе́",
-          "gloss": "for you, to you",
-          "gram": "2nd person singular, dative"
-        },
-        {
-          "t": "кое-что",
-          "lemma": "кое-что",
-          "pos": "pron",
-          "stress": "ко́е-что",
-          "gloss": "something, one more thing",
-          "gram": "indefinite pronoun, accusative"
-        },
-        {
-          "t": "сказать.",
-          "lemma": "сказать",
-          "pos": "verb",
-          "stress": "сказа́ть",
-          "gloss": "tell",
-          "gram": "infinitive, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "I want...",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "хочу.",
+          "t": "хочу,",
           "lemma": "хотеть",
           "pos": "verb",
           "stress": "хочу́",
           "gloss": "want",
           "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 46,
-      "trans": "For you to be my wife.",
-      "words": [
+        },
         {
-          "t": "Чтобы",
+          "t": "чтобы",
           "lemma": "чтобы",
           "pos": "conj",
           "stress": "что́бы",
@@ -1319,8 +1181,8 @@
           "lemma": "стать",
           "pos": "verb",
           "stress": "ста́ла",
-          "gloss": "became",
-          "gram": "feminine singular past, perfective"
+          "gloss": "became (стать = to become)",
+          "gram": "past, feminine singular, perfective, after чтобы"
         },
         {
           "t": "моей",
@@ -1328,20 +1190,20 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "feminine singular, after стать (form for 'become what')"
         },
         {
           "t": "женой.",
           "lemma": "жена",
           "pos": "noun",
           "stress": "жено́й",
-          "gloss": "(my) wife",
-          "gram": "instrumental singular, feminine"
+          "gloss": "wife",
+          "gram": "feminine singular, after стать (form for 'become what')"
         }
       ]
     },
     {
-      "seg": 47,
+      "seg": 37,
       "trans": "Have you lost your mind?",
       "words": [
         {
@@ -1387,7 +1249,7 @@
       ]
     },
     {
-      "seg": 48,
+      "seg": 38,
       "trans": "What? What?",
       "words": [
         {
@@ -1409,7 +1271,7 @@
       ]
     },
     {
-      "seg": 49,
+      "seg": 39,
       "trans": "You said yourself that every day is a new step.",
       "words": [
         {
@@ -1479,7 +1341,7 @@
       ]
     },
     {
-      "seg": 50,
+      "seg": 40,
       "trans": "Kostya, I meant meeting the parents.",
       "words": [
         {
@@ -1504,7 +1366,7 @@
           "pos": "verb",
           "stress": "име́ла",
           "gloss": "had",
-          "gram": "feminine singular past"
+          "gram": "past, feminine singular, imperfective"
         },
         {
           "t": "в",
@@ -1527,8 +1389,8 @@
           "lemma": "знакомство",
           "pos": "noun",
           "stress": "знако́мство",
-          "gloss": "acquaintance, meeting",
-          "gram": "neuter, accusative singular"
+          "gloss": "acquaintance",
+          "gram": "neuter nominative singular"
         },
         {
           "t": "с",
@@ -1542,14 +1404,14 @@
           "t": "родителями.",
           "lemma": "родители",
           "pos": "noun",
-          "stress": "роди́телями",
+          "stress": "родителя́ми",
           "gloss": "parents",
-          "gram": "plural, form used after 'with'"
+          "gram": "instrumental plural"
         }
       ]
     },
     {
-      "seg": 51,
+      "seg": 41,
       "trans": "Not this.",
       "words": [
         {
@@ -1579,7 +1441,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 42,
       "trans": "I had this step planned for a year from now.",
       "words": [
         {
@@ -1612,7 +1474,7 @@
           "pos": "noun",
           "stress": "пла́ну",
           "gloss": "plan",
-          "gram": "masculine, form used after 'by'"
+          "gram": "dat.m.sg"
         },
         {
           "t": "этот",
@@ -1657,7 +1519,7 @@
       ]
     },
     {
-      "seg": 53,
+      "seg": 43,
       "trans": "What, you have a plan?",
       "words": [
         {
@@ -1695,7 +1557,7 @@
       ]
     },
     {
-      "seg": 54,
+      "seg": 44,
       "trans": "Yes, I do.",
       "words": [
         {
@@ -1717,7 +1579,7 @@
       ]
     },
     {
-      "seg": 55,
+      "seg": 45,
       "trans": "And you nearly destroyed it just now.",
       "words": [
         {
@@ -1774,73 +1636,13 @@
           "pos": "verb",
           "stress": "разру́шил",
           "gloss": "destroyed",
-          "gram": "masculine singular past, perfective"
+          "gram": "masculine singular past (perfective)"
         }
       ]
     },
     {
-      "seg": 56,
-      "trans": "Forgive me, please.",
-      "words": [
-        {
-          "t": "Прости",
-          "lemma": "простить",
-          "pos": "verb",
-          "stress": "прости́",
-          "gloss": "sorry, forgive me",
-          "gram": "imperative, 2nd person singular, perfective"
-        },
-        {
-          "t": "меня,",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "пожалуйста.",
-          "lemma": "пожалуйста",
-          "pos": "part",
-          "stress": "пожа́луйста",
-          "gloss": "please",
-          "gram": "politeness word"
-        }
-      ]
-    },
-    {
-      "seg": 57,
-      "trans": "I forgive you.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "прощаю",
-          "lemma": "прощать",
-          "pos": "verb",
-          "stress": "проща́ю",
-          "gloss": "I forgive",
-          "gram": "1st person singular present"
-        },
-        {
-          "t": "тебя.",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
-        }
-      ]
-    },
-    {
-      "seg": 59,
-      "trans": "Goodbye.",
+      "seg": 47,
+      "trans": "See you tomorrow!",
       "words": [
         {
           "t": "До",
@@ -1851,12 +1653,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "свидания!",
-          "lemma": "свидание",
-          "pos": "noun",
-          "stress": "свида́ния",
-          "gloss": "meeting (goodbye)",
-          "gram": "genitive neuter singular"
+          "t": "завтра!",
+          "lemma": "завтра",
+          "pos": "adv",
+          "stress": "за́втра",
+          "gloss": "tomorrow",
+          "gram": "adverb of time"
         }
       ]
     }
@@ -1901,209 +1703,6 @@
         {
           "word": "и",
           "gloss": "and"
-        }
-      ]
-    },
-    "бог": {
-      "lemma": "бог",
-      "stress": "бог",
-      "pos": "noun",
-      "gloss": "God, god",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "God, a god",
-          "note": "слава богу = thank God (literally 'glory to God')"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "бог",
-              "боги"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "бога",
-              "богов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "богу",
-              "богам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "бога",
-              "богов"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "богом",
-              "богами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "боге",
-              "богах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Слава богу!",
-          "trans": "Thank God!"
-        },
-        {
-          "text": "Нет, слава богу.",
-          "trans": "No, thank God."
-        },
-        {
-          "text": "О, наконец тепло! Слава богу. Сейчас ещё чай сделаю.",
-          "trans": "Oh, it's warm at last! Thank goodness. Now I'll make some tea too."
-        }
-      ],
-      "related": [
-        {
-          "word": "богный",
-          "gloss": "related to God (adj.)"
-        }
-      ]
-    },
-    "брать": {
-      "lemma": "брать",
-      "stress": "брать",
-      "pos": "verb",
-      "gloss": "to take",
-      "aspect": "impf",
-      "pair": "взять",
-      "meanings": [
-        {
-          "en": "to take",
-          "note": "Habitually or in general. Used as an imperfective (ongoing/repeated action) verb meaning 'to take', paired with 'взять'."
-        },
-        {
-          "en": "to take bribes",
-          "note": "'брать' alone often means this, in talk about officials"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "беру",
-              "берём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "берёшь",
-              "берёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "берёт",
-              "берут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "брал",
-                "брала",
-                "брало",
-                "брали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "бери",
-                "берите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Все деньги брать надо.",
-          "trans": "We have to take all the money."
-        },
-        {
-          "text": "Он не берёт взятки.",
-          "trans": "He doesn't take bribes."
-        },
-        {
-          "text": "Я не беру нож.",
-          "trans": "I'm not taking the knife."
-        }
-      ],
-      "related": [
-        {
-          "word": "взять",
-          "gloss": "to take"
-        },
-        {
-          "word": "забрать",
-          "gloss": "to take back"
-        },
-        {
-          "word": "убрать",
-          "gloss": "to remove"
         }
       ]
     },
@@ -2722,92 +2321,6 @@
         }
       ]
     },
-    "жена": {
-      "lemma": "жена",
-      "stress": "жена́",
-      "pos": "noun",
-      "gloss": "wife",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "wife",
-          "note": "Common feminine noun meaning 'wife' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "жена",
-              "жёны"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "жены",
-              "жён"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "жене",
-              "жёнам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "жену",
-              "жён"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "женой",
-              "жёнами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "жене",
-              "жёнах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это моя жена.",
-          "trans": "This is my wife."
-        },
-        {
-          "text": "Я вечером с женой.",
-          "trans": "I'm with my wife this evening."
-        },
-        {
-          "text": "Но вечером я обещал быть с женой.",
-          "trans": "But I promised to be with my wife this evening."
-        }
-      ],
-      "related": [
-        {
-          "word": "муж",
-          "gloss": "husband"
-        }
-      ]
-    },
     "знакомство": {
       "lemma": "знакомство",
       "stress": "знако́мство",
@@ -3333,109 +2846,6 @@
         }
       ]
     },
-    "мой": {
-      "lemma": "мой",
-      "stress": "мой",
-      "pos": "det",
-      "gloss": "my, mine",
-      "meanings": [
-        {
-          "en": "my, mine",
-          "note": "Agrees with the thing owned. Core Russian det meaning 'my, mine' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "мой",
-              "моя",
-              "моё",
-              "мои"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "моего",
-              "моей",
-              "моего",
-              "моих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "моему",
-              "моей",
-              "моему",
-              "моим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "мой / моего",
-              "мою",
-              "моё",
-              "мои / моих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "моим",
-              "моей",
-              "моим",
-              "моими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "моём",
-              "моей",
-              "моём",
-              "моих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Где моя машинка?",
-          "trans": "Where's my toy car?"
-        },
-        {
-          "text": "Это моё.",
-          "trans": "That's mine."
-        },
-        {
-          "text": "Нет. Это моё.",
-          "trans": "No. That's mine."
-        }
-      ],
-      "related": [
-        {
-          "word": "я",
-          "gloss": "I"
-        },
-        {
-          "word": "свой",
-          "gloss": "one's own"
-        }
-      ]
-    },
     "не": {
       "lemma": "не",
       "stress": "не",
@@ -3574,44 +2984,6 @@
         {
           "word": "новость",
           "gloss": "quality of being new"
-        }
-      ]
-    },
-    "о": {
-      "lemma": "о",
-      "stress": "о",
-      "pos": "prep",
-      "gloss": "about",
-      "meanings": [
-        {
-          "en": "about",
-          "note": "+ prepositional; об before a vowel: об этом"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я думаю об этом.",
-          "trans": "I'm thinking about it."
-        },
-        {
-          "text": "Мы говорим о городе.",
-          "trans": "We're talking about the town."
-        },
-        {
-          "text": "Мне некогда об этом думать. Слишком много дел.",
-          "trans": "I have no time to think about that. There's too much to do."
-        }
-      ],
-      "related": [
-        {
-          "word": "об",
-          "gloss": "about, against"
-        },
-        {
-          "word": "про",
-          "gloss": "about (informal)"
         }
       ]
     },
@@ -3839,285 +3211,6 @@
         {
           "word": "после",
           "gloss": "after"
-        }
-      ]
-    },
-    "пожалуйста": {
-      "lemma": "пожалуйста",
-      "stress": "пожа́луйста",
-      "pos": "part",
-      "gloss": "please; you're welcome",
-      "meanings": [
-        {
-          "en": "please",
-          "note": "Handing something over. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалуйста')."
-        },
-        {
-          "en": "you're welcome",
-          "note": "Answer to thanks. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалуйста')."
-        },
-        {
-          "en": "here you are",
-          "note": "Handing something over. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'жалуйста')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кофе, пожалуйста.",
-          "trans": "A coffee, please."
-        },
-        {
-          "text": "Спасибо! — Пожалуйста.",
-          "trans": "Thank you! — You're welcome."
-        },
-        {
-          "text": "Проводите его, пожалуйста.",
-          "trans": "Please see him out."
-        }
-      ],
-      "related": [
-        {
-          "word": "пожалуй",
-          "gloss": "perhaps"
-        }
-      ]
-    },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
-    },
-    "простить": {
-      "lemma": "простить",
-      "stress": "прости́ть",
-      "pos": "verb",
-      "gloss": "to forgive; (imperative) excuse me",
-      "aspect": "pf",
-      "pair": "прощать",
-      "meanings": [
-        {
-          "en": "to forgive",
-          "note": "Простите! = sorry! forgive me!. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'стить'). Used as an perfective (single completed action) verb meaning 'to forgive; (imperative) excuse me', paired with 'прощать'."
-        },
-        {
-          "en": "excuse me, sorry",
-          "note": "Imperative: прости / простите. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'стить'). Used as an perfective (single completed action) verb meaning 'to forgive; (imperative) excuse me', paired with 'прощать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "прощу",
-              "простим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "простишь",
-              "простите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "простит",
-              "простят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "простил",
-                "простила",
-                "простило",
-                "простили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "прости",
-                "простите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Простите, вы кто?",
-          "trans": "Excuse me, who are you?"
-        },
-        {
-          "text": "Прости меня.",
-          "trans": "Forgive me."
-        },
-        {
-          "text": "Простите меня, пожалуйста.",
-          "trans": "Please forgive me."
-        }
-      ],
-      "related": [
-        {
-          "word": "прощать",
-          "gloss": "to forgive"
-        }
-      ]
-    },
-    "прощать": {
-      "lemma": "прощать",
-      "stress": "проща́ть",
-      "pos": "verb",
-      "gloss": "to forgive; bid farewell",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "to forgive, pardon",
-          "note": "Imperative 'прощайте' = farewell. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'щать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to forgive; bid farewell'."
-        },
-        {
-          "en": "to say goodbye",
-          "note": "Imperative 'прощайте' = farewell. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'щать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to forgive; bid farewell'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "прощаю",
-              "прощаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "прощаешь",
-              "прощаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "прощает",
-              "прощают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "прощал",
-                "прощала",
-                "прощало",
-                "прощали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Всего хорошего. Прощайте!",
-          "trans": "All the best. Farewell!"
-        },
-        {
-          "text": "Тогда прощай, я должен срочно уйти.",
-          "trans": "Then farewell, I must urgently leave."
-        },
-        {
-          "text": "Прощайте, наш старый коммунальный дом!",
-          "trans": "Farewell, our old communal apartment!"
-        }
-      ],
-      "related": [
-        {
-          "word": "общаться",
-          "gloss": "to communicate"
         }
       ]
     },
@@ -4738,120 +3831,6 @@
         }
       ]
     },
-    "стать": {
-      "lemma": "стать",
-      "stress": "стать",
-      "pos": "verb",
-      "gloss": "to become",
-      "aspect": "pf",
-      "pair": "становиться",
-      "governs": "+ instrumental",
-      "meanings": [
-        {
-          "en": "to become",
-          "note": "+ instrumental: стал сентиментальным"
-        },
-        {
-          "en": "to start (doing)",
-          "note": "+ infinitive. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'тать'). Used as an perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "стану",
-              "станем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "станешь",
-              "станете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "станет",
-              "станут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "стал",
-                "стала",
-                "стало",
-                "стали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "стань",
-                "станьте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Он стал мэром.",
-          "trans": "He became mayor."
-        },
-        {
-          "text": "Ты стал другим.",
-          "trans": "You've changed."
-        },
-        {
-          "text": "Ты слишком сентиментальным стал. А лидер должен быть жёстким.",
-          "trans": "You've become too sentimental. And a leader has to be tough."
-        }
-      ],
-      "related": [
-        {
-          "word": "становиться",
-          "gloss": "to become"
-        },
-        {
-          "word": "статья",
-          "gloss": "article"
-        }
-      ]
-    },
     "только": {
       "lemma": "только",
       "stress": "то́лько",
@@ -5330,48 +4309,6 @@
         }
       ]
     },
-    "чтобы": {
-      "lemma": "чтобы",
-      "stress": "что́бы",
-      "pos": "conj",
-      "gloss": "so that, in order to",
-      "meanings": [
-        {
-          "en": "so that",
-          "note": "+ past tense: 'чтобы свидетели были'"
-        },
-        {
-          "en": "in order to",
-          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Чтобы свидетели были.",
-          "trans": "So that there are witnesses."
-        },
-        {
-          "text": "Я звоню, чтобы сказать спасибо.",
-          "trans": "I'm calling to say thank you."
-        },
-        {
-          "text": "Чтобы свидетели были, Самсон.",
-          "trans": "So that there are witnesses, Samson."
-        }
-      ],
-      "related": [
-        {
-          "word": "что",
-          "gloss": "what, that"
-        },
-        {
-          "word": "бы",
-          "gloss": "conditional particle"
-        }
-      ]
-    },
     "чуть": {
       "lemma": "чуть",
       "stress": "чуть",
@@ -5813,20 +4750,313 @@
         }
       ]
     },
-    "свидание": {
-      "lemma": "свидание",
-      "stress": "свида́ние",
-      "pos": "noun",
-      "gloss": "meeting; date",
-      "gender": "n",
+    "завтра": {
+      "lemma": "завтра",
+      "stress": "за́втра",
+      "pos": "adv",
+      "gloss": "tomorrow",
       "meanings": [
         {
-          "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "en": "tomorrow",
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'втра')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Договоримся на завтра.",
+          "trans": "We'll arrange something for tomorrow."
         },
         {
-          "en": "date (romantic)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "Позвони мне вечером. Договоримся на завтра.",
+          "trans": "Call me this evening. We'll arrange something for tomorrow."
+        }
+      ],
+      "related": [
+        {
+          "word": "завтракать",
+          "gloss": "to have breakfast"
+        },
+        {
+          "word": "завтрак",
+          "gloss": "breakfast"
+        }
+      ]
+    },
+    "чтобы": {
+      "lemma": "чтобы",
+      "stress": "что́бы",
+      "pos": "conj",
+      "gloss": "so that, in order to",
+      "meanings": [
+        {
+          "en": "so that",
+          "note": "+ past tense: 'чтобы свидетели были'"
+        },
+        {
+          "en": "in order to",
+          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Чтобы свидетели были.",
+          "trans": "So that there are witnesses."
+        },
+        {
+          "text": "Я звоню, чтобы сказать спасибо.",
+          "trans": "I'm calling to say thank you."
+        },
+        {
+          "text": "Чтобы свидетели были, Самсон.",
+          "trans": "So that there are witnesses, Samson."
+        }
+      ],
+      "related": [
+        {
+          "word": "что",
+          "gloss": "what, that"
+        },
+        {
+          "word": "бы",
+          "gloss": "conditional particle"
+        }
+      ]
+    },
+    "стать": {
+      "lemma": "стать",
+      "stress": "стать",
+      "pos": "verb",
+      "gloss": "to become",
+      "aspect": "pf",
+      "pair": "становиться",
+      "governs": "+ instrumental",
+      "meanings": [
+        {
+          "en": "to become",
+          "note": "+ instrumental: стал сентиментальным"
+        },
+        {
+          "en": "to start (doing)",
+          "note": "+ infinitive. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'тать'). Used as an perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "стану",
+              "станем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "станешь",
+              "станете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "станет",
+              "станут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "стал",
+                "стала",
+                "стало",
+                "стали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "стань",
+                "станьте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Он стал мэром.",
+          "trans": "He became mayor."
+        },
+        {
+          "text": "Ты стал другим.",
+          "trans": "You've changed."
+        },
+        {
+          "text": "Ты слишком сентиментальным стал. А лидер должен быть жёстким.",
+          "trans": "You've become too sentimental. And a leader has to be tough."
+        }
+      ],
+      "related": [
+        {
+          "word": "становиться",
+          "gloss": "to become"
+        },
+        {
+          "word": "статья",
+          "gloss": "article"
+        }
+      ]
+    },
+    "мой": {
+      "lemma": "мой",
+      "stress": "мой",
+      "pos": "det",
+      "gloss": "my, mine",
+      "meanings": [
+        {
+          "en": "my, mine",
+          "note": "Agrees with the thing owned. Core Russian det meaning 'my, mine' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мой",
+              "моя",
+              "моё",
+              "мои"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "моего",
+              "моей",
+              "моего",
+              "моих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "моему",
+              "моей",
+              "моему",
+              "моим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "мой / моего",
+              "мою",
+              "моё",
+              "мои / моих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "моим",
+              "моей",
+              "моим",
+              "моими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "моём",
+              "моей",
+              "моём",
+              "моих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Где моя машинка?",
+          "trans": "Where's my toy car?"
+        },
+        {
+          "text": "Это моё.",
+          "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
+        }
+      ],
+      "related": [
+        {
+          "word": "я",
+          "gloss": "I"
+        },
+        {
+          "word": "свой",
+          "gloss": "one's own"
+        }
+      ]
+    },
+    "жена": {
+      "lemma": "жена",
+      "stress": "жена́",
+      "pos": "noun",
+      "gloss": "wife",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "wife",
+          "note": "Common feminine noun meaning 'wife' in everyday Russian."
         }
       ],
       "forms": {
@@ -5840,43 +5070,43 @@
           {
             "cells": [
               "nominative",
-              "свидание",
-              "свидания"
+              "жена",
+              "жёны"
             ]
           },
           {
             "cells": [
               "genitive",
-              "свидания",
-              "свиданий"
+              "жены",
+              "жён"
             ]
           },
           {
             "cells": [
               "dative",
-              "свиданию",
-              "свиданиям"
+              "жене",
+              "жёнам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "свидание",
-              "свидания"
+              "жену",
+              "жён"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "свиданием",
-              "свиданиями"
+              "женой",
+              "жёнами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "свидании",
-              "свиданиях"
+              "жене",
+              "жёнах"
             ]
           }
         ]
@@ -5884,22 +5114,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
+          "text": "Это моя жена.",
+          "trans": "This is my wife."
         },
         {
-          "text": "У меня сегодня свидание.",
-          "trans": "I have a date today."
+          "text": "Я вечером с женой.",
+          "trans": "I'm with my wife this evening."
         },
         {
-          "text": "У неё свидание.",
-          "trans": "She has a date."
+          "text": "Но вечером я обещал быть с женой.",
+          "trans": "But I promised to be with my wife this evening."
         }
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "муж",
+          "gloss": "husband"
         }
       ]
     }

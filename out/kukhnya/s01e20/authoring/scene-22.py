@@ -10,36 +10,28 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'The reflection continues as the season draws to a close. Max speaks about the illusions people live in, and how they are stripped away. The Russian comes first.'
-OPENER = 'Slowly this time.'
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "The masks come off, and nobody was ready. 'Probuzhdeniye' means 'awakening' and comes from the verb for waking someone. See you next time!"
-CLOSING = ('max', 'До свидания!')
+INTRO = "Max's closing thought goes on, about the illusions we live in and the moment they fall away. The Russian comes first."
+OPENER = "Let's take the thought apart."
+TRANSITION = 'Now the whole thought once more.'
+OUTRO = "The masks come off, and nobody was ready for what's underneath. You'll hear na samom dele, 'really', all the time in Russian. See you next time!"
+CLOSING = ('max', 'Увидимся!')
 STORY = [
-    ('max', 'Мы очень часто существуем в иллюзиях.', 'We very often exist in illusions.', [(335, 'очень часто существуем в'), (335, 'иллюзиях')], ''),
-    ('max', 'Это наши фантазии.', 'These are our fantasies.', [], ''),
-    ('max', 'Мы забываем о том, кто мы.', 'We forget who we are.', [(336, 'Мы забываем о том, кто мы')], ''),
-    ('max', 'Кто мы на самом деле?', 'Who are we really?', [(336, 'на самом деле')], ''),
-    ('max', 'Все играют роли.', 'Everyone plays roles.', [(336, 'играя роли')], ''),
-    ('max', 'Это чужие маски.', 'These are foreign masks.', [(336, 'людей')], ''),
-    ('max', 'Но наступает момент пробуждения.', 'But the moment of awakening comes.', [(337, 'Но наступает момент пробуждения')], ''),
-    ('max', 'Жизнь срывает с нас эти маски.', 'Life tears these masks off us.', [(337, 'срывает с нас'), (337, 'маски')], ''),
-    ('max', 'Они были бесконечные.', 'They were endless.', [(337, 'бесконечные')], ''),
-    ('max', 'Свет оголяет реальность.', 'Light lays bare the reality.', [(338, 'оголяет реальность')], ''),
-    ('max', 'Мы видим правду.', 'We see the truth.', [], ''),
-    ('max', 'Мы были к ней не готовы.', 'We were not prepared for it.', [(338, 'мы были'), (338, 'не готовы')], ''),
+    ('max', 'Мы очень часто существуем в иллюзиях.', 'We very often just exist in illusions.', [(335, 'очень часто существуем в'), (335, 'иллюзиях')], ''),
+    ('max', 'Мы забываем о том, кто мы есть на самом деле.', 'We forget who we really are.', [(336, 'Мы забываем о том, кто мы есть на самом деле')], ''),
+    ('max', 'Мы играем роли.', 'We play roles.', [(336, 'роли')], ''),
+    ('max', 'Роли неизвестных нам людей.', "The roles of people we don't know.", [(336, 'неизвестных нам людей')], ''),
+    ('max', 'Но наступает момент пробуждения.', 'But a moment of awakening comes.', [(337, 'Но наступает момент пробуждения')], ''),
+    ('max', 'Он срывает с нас бесконечные маски.', 'It tears the endless masks off us.', [(337, 'срывает с нас бесконечные маски')], ''),
+    ('max', 'И оголяет реальность.', 'And lays reality bare.', [(338, 'оголяет реальность')], ''),
+    ('max', 'Мы были к ней совсем не готовы.', "We weren't ready for it at all.", [(338, 'мы были совсем не готовы')], ''),
 ]
 WALK = [
-    (0, None, "'We very often live in illusions.' 'Exist' is a longer word than 'live'. 'In illusions' takes the plural 'akh' ending."),
-    (1, None, "'These are our fantasies.' 'Our' is plural, to go with 'fantasies'. There's no 'are'."),
-    (2, None, "'We forget who we are.' 'Forget about' needs a small word for 'about'. 'Who we' is just two words."),
-    (3, None, "'Who are we really?' 'In fact' is literally 'on the very deed'. A good phrase to keep."),
-    (4, None, "'Everyone plays roles.' 'Play' is plural, to go with 'everyone'. 'Roles' is plural too."),
-    (5, None, "'They are other people's masks.' 'Other people's' also means 'foreign'. 'Masks' is plural."),
-    (6, None, "'But the moment of awakening comes.' 'Awakening' is built from 'wake'. 'Comes' is a long word for 'sets in'."),
-    (7, None, "'Life tears these masks off us.' 'Off us' is a small word and 'nas'. 'Tears off' is just one word."),
-    (8, None, "'They were endless.' 'Endless' is built from 'without end'. 'Were' is plural."),
-    (9, None, "'Light lays reality bare.' 'Lays bare' comes from 'naked'. 'Light' is neuter."),
-    (10, None, "'We see the truth.' 'We see' finishes with 'im'. 'Truth' takes a 'u' ending."),
-    (11, None, "'We weren't ready for it.' 'For it' picks up an 'n', so it is 'k ney'. 'Ready' is plural."),
+    (0, None, "'We very often just exist in illusions.' Russian sushchestvuem means 'we exist', a heavier word than zhivyom, 'we live'."),
+    (1, None, "'We forget who we really are.' Russian says na samom dele, literally 'in the very deed', for 'really'."),
+    (2, None, "'We play roles.' Russian igrat means 'to play' a game, a part or music, just as in English."),
+    (3, None, "'The roles of people we don't know.' The word neizvestnykh means 'unknown': ne plus izvestnyy, 'known'."),
+    (4, None, "'But a moment of awakening comes.' Russian probuzhdenie, 'awakening', comes from probudit, 'to wake someone up'."),
+    (5, None, "'It tears the endless masks off us.' Russian beskonechnye is bez, 'without', plus konets, 'end'."),
+    (6, None, "'And lays reality bare.' The verb ogolyaet comes from golyy, 'naked'."),
+    (7, None, "'We weren't ready for it at all.' Russian says gotovy k, literally 'ready towards', and sovsem ne means 'not at all'."),
 ]

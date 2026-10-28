@@ -10,40 +10,42 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Max and Kostya are both nervous: each has bought a ring for his girlfriend, and each wants to see the other's. Senya overhears and makes a joke at their expense. Russian first, no need to catch it all."
-OPENER = 'Now for a closer look.'
-TRANSITION = 'Once more, all the way through.'
-OUTRO = "Both friends are about to find out whether they've chosen the right moment. 'Drug dlya druga' means 'for each other' and is literally 'friend for friend'. See you next time!"
-CLOSING = ('kostya', 'До свидания!')
+INTRO = "The staff party is under way. Max and Kostya have both bought rings, Senya can't resist teasing, and then Max is pulled into a drinking contest. Here's the Russian."
+OPENER = 'Now each line in turn.'
+TRANSITION = "Here's the party scene again."
+OUTRO = "Kostya goes off with his ring, and Max starts drinking. Russian says drug drugu, literally 'friend to friend', for 'to each other'. See you next time!"
+CLOSING = ('kostya', 'Пока!')
 STORY = [
-    ('max', 'Костя, ты купил кольцо для Насти?', 'Kostya, did you buy a ring for Nastya?', [(207, 'Ну что, купил кольцо? Да.')], ''),
-    ('kostya', 'Да, я купил. А ты купил?', 'Yes, I bought it. And did you buy?', [], ''),
-    ('max', 'Да, я тоже купил кольцо для Вики.', 'Yes, I also bought a ring for Vika.', [], ''),
-    ('kostya', 'Покажи мне свое кольцо, пожалуйста.', 'Show me your ring, please.', [], ''),
-    ('senya', 'Вы покупаете кольца друг для друга?', 'Are you buying rings for each other?', [], ''),
-    ('max', 'Тебе какое дело, Сеня? Уйди.', 'What is it to you, Senya? Go away.', [], ''),
-    ('senya', 'Просто интересно, когда будет ваша свадьба?', 'Just interesting, when will be your wedding?', [], ''),
-    ('kostya', 'Это не твоя проблема. Замолчи.', 'This is not your problem. Shut up.', [], ''),
-    ('senya', 'Ладно, ладно. Я просто пошутил.', 'Okay, okay. I just joked.', [], ''),
-    ('max', 'Ты уже подарил кольцо Насте?', 'Did you already give the ring to Nastya?', [], ''),
-    ('kostya', 'Еще нет. Я хочу сделать это сейчас.', 'Not yet. I want to do this now.', [], ''),
-    ('max', 'Удачи тебе, Костя. Это важный момент.', 'Good luck to you, Kostya. This is an important moment.', [], ''),
-    ('kostya', 'Спасибо, Макс. Тебе тоже удачи с Викой.', 'Thank you, Max. Good luck to you with Vika too.', [], ''),
-    ('max', 'Да, мне нужна большая удача сегодня.', 'Yes, I need big luck today.', [], ''),
+    ('max', 'Ну что, купил кольцо?', 'So, did you buy the ring?', [(207, 'Ну что, купил кольцо?')], ''),
+    ('kostya', 'Да. А ты?', 'Yes. And you?', [(207, 'Да.')], ''),
+    ('max', 'Я тоже.', 'Me too.', [(208, 'Я тоже.')], ''),
+    ('kostya', 'Покажи.', 'Show me.', [(209, 'Покажи.')], ''),
+    ('senya', 'Вы друг другу предложение делаете, да?', 'You are proposing to each other, right?', [(210, 'предложение друг другу делайте, да?')], ''),
+    ('max', 'А тебе что?', 'What is it to you?', [(211, 'А тебе-то что?')], ''),
+    ('senya', 'Ничего. Ребята, когда свадьба?', 'Nothing. Guys, when is the wedding?', [(211, 'Ничего.'), (213, 'Ребята, когда свадьба?')], ''),
+    ('max', 'Что, подарил?', 'So, did you give it to her?', [(223, 'Что, подарил?')], ''),
+    ('kostya', 'Ещё не успел. Сейчас пойду.', 'I have not had the chance yet. I will go now.', [(224, 'Еще не успел. Сейчас пойду.')], ''),
+    ('kostya', 'Ну, я пошёл.', 'Well, I am off.', [(233, 'я пошёл.')], ''),
+    ('max', 'Удачи!', 'Good luck!', [(233, 'Удачи.')], ''),
+    ('senya', 'И сегодня против Саши — Макс Лавров!', 'And today, against Sasha, it is Max Lavrov!', [(235, 'Макс Лавров.')], ''),
+    ('max', 'Не, ребят, я пас.', 'No, guys, I am out.', [(236, 'Не, ребят, я пас.')], ''),
+    ('senya', 'Ты что, боишься?', 'What, are you scared?', [(237, 'ты что, боишься')], ''),
+    ('max', 'Наливай. Поехали.', 'Pour it. Let us go.', [(239, 'Наливай. Поехали.')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, did you buy a ring for Nastya?' The name changes its ending after 'for', with the final 'ya' turning into 'i'. 'Bought' ends in the masculine 'l'."),
-    (1, None, "'Yes, I bought one. Did you?' Kostya repeats 'bought' as his answer. That is how Russians say yes."),
-    (2, None, "'Yes, I bought a ring for Vika too.' The girl's name takes the same 'i' ending after 'for'. 'Too' sits in front of 'bought'."),
-    (3, None, "'Show me your ring, please.' 'Show' is the friendly command. 'Own' is a special word, here in the neuter, as 'ring' is neuter."),
-    (4, None, "'Are you buying rings for each other?' 'Friend for friend' is the Russian for 'for each other'. 'You buy' is plural."),
-    (5, None, "'What's it to you, Senya? Go away.' 'To you what business' is the rude 'mind your own'. 'Go away' is a once-and-done action."),
-    (6, None, "'I'm just curious, when's your wedding?' 'Interesting' on its own means 'I wonder'. 'Wedding' is a word you'll learn quickly."),
-    (7, None, "'It's not your problem. Shut up.' 'Shut up' has a prefix 'za' on 'be silent'. It is a rude command."),
-    (8, None, "'Okay, okay. I was only joking.' 'Joked' has the prefix 'po', for 'cracked a joke'. Doubling 'okay' sounds soothing."),
-    (9, None, "'Have you already given the ring to Nastya?' The name takes an 'e' ending when someone is given something. 'Gave as a gift' is a once-and-done action."),
-    (10, None, "'Not yet. I want to do it now.' 'Not yet' is literally 'still no'. 'Now' closes the line."),
-    (11, None, "'Good luck, Kostya. It's an important moment.' 'Of luck to you' is the wish. 'Important' agrees with the masculine 'moment'."),
-    (12, None, "'Thanks, Max. Good luck with Vika too.' The girl's name takes an 'oy' ending after 'with'. 'Too' sits before 'luck'."),
-    (13, None, "'Yes, I need lots of luck today.' 'Needed' finishes with 'a' to match the feminine 'luck'. 'Big' finishes with 'aya' for the same reason."),
+    (0, None, "'So, did you buy the ring?' In a quick question Russian often drops ty, 'you', and just says kupil koltso, 'bought the ring?'"),
+    (1, None, "'Yes. And you?' The little word a, 'and', turns the question back, like English 'and you?'"),
+    (2, None, "'Me too.' Russian says ya tozhe, literally 'I also', where English says 'me too'."),
+    (3, None, "'Show me.' The word pokazhi, 'show', is the friendly command, and the 'me' is understood."),
+    (4, None, "'You're proposing to each other, right?' Russian says delat predlozhenie, literally 'make an offer', for proposing marriage."),
+    (5, None, "'What's it to you?' Russian says a tebe chto, literally 'and to you what', to mean 'what's it to you?'"),
+    (6, None, "'Nothing. Guys, when's the wedding?' The word rebyata, 'guys', is the friendly way to call to a group of people."),
+    (7, None, "'So, did you give it to her?' The word podaril means 'gave as a present', and comes from podarok, 'present'."),
+    (8, None, "'I haven't had the chance yet. I'll go now.' The word uspel means 'managed in time', so ne uspel is 'didn't get round to it'."),
+    (9, None, "'Well, I'm off.' Russian says ya poshyol, literally 'I went', to mean 'I'm leaving right now'."),
+    (10, None, "'Good luck!' The word udachi literally means 'of luck', short for 'I wish you luck'."),
+    (11, None, "'And today, against Sasha, it's Max Lavrov!' After protiv, 'against', a name takes a new ending, so Sasha ends in -i here."),
+    (12, None, "'No, guys, I'm out.' Russian says ya pas, 'I pass', a word borrowed from card games."),
+    (13, None, "'What, are you scared?' Russian says ty chto, literally 'you what', to mean 'what's wrong with you?'"),
+    (14, None, "'Pour it. Let's go.' The word poekhali literally means 'we drove off', and Russians say it for 'here we go'."),
 ]

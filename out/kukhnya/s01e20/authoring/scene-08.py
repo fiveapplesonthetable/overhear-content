@@ -10,36 +10,22 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'Kostya wakes up in a good mood and greets Nastya affectionately. She is not in the same mood at all, and it takes him a while to find out why. The Russian comes first.'
-OPENER = 'Here is the same thing, explained.'
-TRANSITION = 'Now it all together again, from the top.'
-OUTRO = "Kostya tries to be charming and only makes things worse. Notice that 'moya dorogaya' means 'my dear', and that it's the feminine form of 'dear' used as a noun. See you next time!"
-CLOSING = ('kostya', 'До свидания!')
+INTRO = "Next morning, Kostya wakes up in a playful mood. Here's the Russian."
+OPENER = "Let's break that down."
+TRANSITION = "Here's the moment again."
+OUTRO = "We'll see what Nastya has in mind next. In poigrat, 'to play for a bit', the po- at the front makes it short. See you next time!"
+CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('kostya', 'Доброе утро, моя дорогая.', 'Good morning, my dear.', [(141, 'проснулся и хочешь поиграть со мной?')], ''),
-    ('nastya', 'Это не доброе утро.', 'It is not a good morning.', [], ''),
-    ('kostya', 'Почему ты так на меня смотришь?', 'Why are you looking at me like that?', [], ''),
-    ('nastya', 'Я ждала, когда ты проснешься.', 'I have been waiting for you to wake up.', [], ''),
-    ('kostya', 'Ты уже проснулась? Хочешь кофе?', 'Are you awake already? Do you want coffee?', [], ''),
-    ('nastya', 'Нет, Костя.', 'No, Kostya.', [], ''),
-    ('kostya', 'А...', 'Ah...', [], ''),
-    ('kostya', 'Я сделал что-то не так?', 'Did I do something wrong?', [], ''),
-    ('nastya', 'Ты забыл, что мы обсуждали.', 'You forgot what we discussed.', [], ''),
-    ('kostya', 'Я всё помню.', 'I remember everything.', [], ''),
-    ('nastya', 'Тогда почему ты шутишь?', 'Then why are you joking?', [], ''),
-    ('kostya', 'Я просто пытаюсь быть милым.', 'I am just trying to be nice.', [], ''),
+    ('kostya', 'Доброе утро, Настя.', 'Good morning, Nastya.', [], ''),
+    ('nastya', 'Доброе утро. Ты уже проснулся?', 'Good morning. Are you awake already?', [], ''),
+    ('kostya', 'Да. Иди ко мне.', 'Yes. Come here.', [], ''),
+    ('nastya', 'Проснулся и хочешь поиграть со мной?', 'You are awake and want to play with me?', [(141, 'проснулся и хочешь поиграть со мной?')], ''),
+    ('kostya', 'А что, нельзя?', 'What, am I not allowed?', [(142, 'А')], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, my dear.' 'Dear' is feminine, ending in 'aya', and is used as a noun. 'Morning' is neuter, so 'good' finishes with 'oe'."),
-    (1, None, "'It's not a good morning.' The 'not' sits in front of the whole phrase. There's no 'is'."),
-    (2, None, "'Why are you looking at me like that?' 'Like that' is a small word. 'Look at' needs the little word 'on', followed by 'menya'."),
-    (3, None, "'I was waiting for you to wake up.' Russian says 'waiting when you will wake up'. 'Wake up' carries 'sya'."),
-    (4, None, "'Are you awake already? Do you want coffee?' 'Woke up' carries 'las', for a woman. 'You want' finishes with 'sh'."),
-    (5, None, "'No, Kostya.' Two words, and the name needs no change. The tone is flat."),
-    (6, None, "'Ah...' A single sound that says he is about to be caught out. The dots show his uncertainty."),
-    (7, None, "'Did I do something wrong?' 'Something not so' is the phrase for 'something wrong'. 'Did' is the completed kind."),
-    (8, None, "'You forgot what we discussed.' 'Forgot' carries 'l' for a man. 'We discussed' is the ongoing past, in the plural."),
-    (9, None, "'I remember everything.' 'Everything' goes first, and 'I remember' follows. The word order puts the weight on 'everything'."),
-    (10, None, "'Then why are you joking?' 'Joke' is made from 'a joke'. 'Then' is a small word at the front."),
-    (11, None, "'I'm just trying to be nice.' 'Nice' takes an 'ym' ending after 'to be'. 'Try' finishes with 'sya'."),
+    (0, None, "'Good morning, Nastya.' The word utro, 'morning', is neuter, so 'good' is dobroe."),
+    (1, None, "'Morning. Are you up already?' The word prosnulsya, 'woke up', has the ending -sya; a woman would say prosnulas."),
+    (2, None, "'Yes. Come here.' Russian says idi ko mne, literally 'go to me'. The word k, 'to', grows into ko before mne."),
+    (3, None, "'Awake and wanting to play with me?' With so mnoy, 'with me', the little word s, 'with', becomes so before mnoy."),
+    (4, None, "'What, am I not allowed?' The word nelzya means 'it's not allowed', and a nelzya? asks 'can't I?'"),
 ]

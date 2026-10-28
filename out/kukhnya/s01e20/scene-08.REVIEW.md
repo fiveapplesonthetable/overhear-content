@@ -10,30 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Доброе утро, моя дорогая. | Good morning, my dear. | #141 00:09:10: проснулся и хочешь поиграть со мной? | verbatim |
-| 2 | Настя | Это не доброе утро. | It is not a good morning. | new | new |
-| 3 | Костя | Почему ты так на меня смотришь? | Why are you looking at me like that? | new | new |
-| 4 | Настя | Я ждала, когда ты проснешься. | I have been waiting for you to wake up. | new | new |
-| 5 | Костя | Ты уже проснулась? Хочешь кофе? | Are you awake already? Do you want coffee? | new | new |
-| 6 | Настя | Нет, Костя. | No, Kostya. | new | new |
-| 7 | Костя | А... | Ah... | new | new |
-| 8 | Костя | Я сделал что-то не так? | Did I do something wrong? | new | new |
-| 9 | Настя | Ты забыл, что мы обсуждали. | You forgot what we discussed. | new | new |
-| 10 | Костя | Я всё помню. | I remember everything. | new | new |
-| 11 | Настя | Тогда почему ты шутишь? | Then why are you joking? | new | new |
-| 12 | Костя | Я просто пытаюсь быть милым. | I am just trying to be nice. | new | new |
+| 1 | Костя | Доброе утро, Настя. | Good morning, Nastya. | new | new |
+| 2 | Настя | Доброе утро. Ты уже проснулся? | Good morning. Are you awake already? | new | new |
+| 3 | Костя | Да. Иди ко мне. | Yes. Come here. | new | new |
+| 4 | Настя | Проснулся и хочешь поиграть со мной? | You are awake and want to play with me? | #141 00:09:10: проснулся и хочешь поиграть со мной? | verbatim |
+| 5 | Костя | А что, нельзя? | What, am I not allowed? | #142 00:09:13: А | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my dear.' 'Dear' is feminine, ending in 'aya', and is used as a noun. 'Morning' is neuter, so 'good' finishes with 'oe'.
-- 'It's not a good morning.' The 'not' sits in front of the whole phrase. There's no 'is'.
-- 'Why are you looking at me like that?' 'Like that' is a small word. 'Look at' needs the little word 'on', followed by 'menya'.
-- 'I was waiting for you to wake up.' Russian says 'waiting when you will wake up'. 'Wake up' carries 'sya'.
-- 'Are you awake already? Do you want coffee?' 'Woke up' carries 'las', for a woman. 'You want' finishes with 'sh'.
-- 'No, Kostya.' Two words, and the name needs no change. The tone is flat.
-- 'Ah...' A single sound that says he is about to be caught out. The dots show his uncertainty.
-- 'Did I do something wrong?' 'Something not so' is the phrase for 'something wrong'. 'Did' is the completed kind.
-- 'You forgot what we discussed.' 'Forgot' carries 'l' for a man. 'We discussed' is the ongoing past, in the plural.
-- 'I remember everything.' 'Everything' goes first, and 'I remember' follows. The word order puts the weight on 'everything'.
-- 'Then why are you joking?' 'Joke' is made from 'a joke'. 'Then' is a small word at the front.
-- 'I'm just trying to be nice.' 'Nice' takes an 'ym' ending after 'to be'. 'Try' finishes with 'sya'.
+- 'Good morning, Nastya.' The word utro, 'morning', is neuter, so 'good' is dobroe.
+- 'Morning. Are you up already?' The word prosnulsya, 'woke up', has the ending -sya; a woman would say prosnulas.
+- 'Yes. Come here.' Russian says idi ko mne, literally 'go to me'. The word k, 'to', grows into ko before mne.
+- 'Awake and wanting to play with me?' With so mnoy, 'with me', the little word s, 'with', becomes so before mnoy.
+- 'What, am I not allowed?' The word nelzya means 'it's not allowed', and a nelzya? asks 'can't I?'

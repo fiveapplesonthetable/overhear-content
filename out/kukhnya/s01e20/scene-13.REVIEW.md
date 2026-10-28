@@ -10,34 +10,36 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Костя, ты купил кольцо для Насти? | Kostya, did you buy a ring for Nastya? | #207 00:13:37: Ну что, купил кольцо? Да. | verbatim |
-| 2 | Костя | Да, я купил. А ты купил? | Yes, I bought it. And did you buy? | new | new |
-| 3 | Макс | Да, я тоже купил кольцо для Вики. | Yes, I also bought a ring for Vika. | new | new |
-| 4 | Костя | Покажи мне свое кольцо, пожалуйста. | Show me your ring, please. | new | new |
-| 5 | Сеня | Вы покупаете кольца друг для друга? | Are you buying rings for each other? | new | new |
-| 6 | Макс | Тебе какое дело, Сеня? Уйди. | What is it to you, Senya? Go away. | new | new |
-| 7 | Сеня | Просто интересно, когда будет ваша свадьба? | Just interesting, when will be your wedding? | new | new |
-| 8 | Костя | Это не твоя проблема. Замолчи. | This is not your problem. Shut up. | new | new |
-| 9 | Сеня | Ладно, ладно. Я просто пошутил. | Okay, okay. I just joked. | new | new |
-| 10 | Макс | Ты уже подарил кольцо Насте? | Did you already give the ring to Nastya? | new | new |
-| 11 | Костя | Еще нет. Я хочу сделать это сейчас. | Not yet. I want to do this now. | new | new |
-| 12 | Макс | Удачи тебе, Костя. Это важный момент. | Good luck to you, Kostya. This is an important moment. | new | new |
-| 13 | Костя | Спасибо, Макс. Тебе тоже удачи с Викой. | Thank you, Max. Good luck to you with Vika too. | new | new |
-| 14 | Макс | Да, мне нужна большая удача сегодня. | Yes, I need big luck today. | new | new |
+| 1 | Макс | Ну что, купил кольцо? | So, did you buy the ring? | #207 00:13:37: Ну что, купил кольцо? | verbatim |
+| 2 | Костя | Да. А ты? | Yes. And you? | #207 00:13:37: Да. | verbatim |
+| 3 | Макс | Я тоже. | Me too. | #208 00:13:39: Я тоже. | verbatim |
+| 4 | Костя | Покажи. | Show me. | #209 00:13:43: Покажи. | verbatim |
+| 5 | Сеня | Вы друг другу предложение делаете, да? | You are proposing to each other, right? | #210 00:13:50: предложение друг другу делайте, да? | verbatim |
+| 6 | Макс | А тебе что? | What is it to you? | #211 00:13:53: А тебе-то что? | verbatim |
+| 7 | Сеня | Ничего. Ребята, когда свадьба? | Nothing. Guys, when is the wedding? | #211 00:13:53: Ничего.<br>#213 00:13:57: Ребята, когда свадьба? | verbatim |
+| 8 | Макс | Что, подарил? | So, did you give it to her? | #223 00:14:35: Что, подарил? | verbatim |
+| 9 | Костя | Ещё не успел. Сейчас пойду. | I have not had the chance yet. I will go now. | #224 00:14:41: Еще не успел. Сейчас пойду. | verbatim |
+| 10 | Костя | Ну, я пошёл. | Well, I am off. | #233 00:15:17: я пошёл. | verbatim |
+| 11 | Макс | Удачи! | Good luck! | #233 00:15:17: Удачи. | verbatim |
+| 12 | Сеня | И сегодня против Саши — Макс Лавров! | And today, against Sasha, it is Max Lavrov! | #235 00:15:27: Макс Лавров. | verbatim |
+| 13 | Макс | Не, ребят, я пас. | No, guys, I am out. | #236 00:15:29: Не, ребят, я пас. | verbatim |
+| 14 | Сеня | Ты что, боишься? | What, are you scared? | #237 00:15:35: ты что, боишься | verbatim |
+| 15 | Макс | Наливай. Поехали. | Pour it. Let us go. | #239 00:15:38: Наливай. Поехали. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, did you buy a ring for Nastya?' The name changes its ending after 'for', with the final 'ya' turning into 'i'. 'Bought' ends in the masculine 'l'.
-- 'Yes, I bought one. Did you?' Kostya repeats 'bought' as his answer. That is how Russians say yes.
-- 'Yes, I bought a ring for Vika too.' The girl's name takes the same 'i' ending after 'for'. 'Too' sits in front of 'bought'.
-- 'Show me your ring, please.' 'Show' is the friendly command. 'Own' is a special word, here in the neuter, as 'ring' is neuter.
-- 'Are you buying rings for each other?' 'Friend for friend' is the Russian for 'for each other'. 'You buy' is plural.
-- 'What's it to you, Senya? Go away.' 'To you what business' is the rude 'mind your own'. 'Go away' is a once-and-done action.
-- 'I'm just curious, when's your wedding?' 'Interesting' on its own means 'I wonder'. 'Wedding' is a word you'll learn quickly.
-- 'It's not your problem. Shut up.' 'Shut up' has a prefix 'za' on 'be silent'. It is a rude command.
-- 'Okay, okay. I was only joking.' 'Joked' has the prefix 'po', for 'cracked a joke'. Doubling 'okay' sounds soothing.
-- 'Have you already given the ring to Nastya?' The name takes an 'e' ending when someone is given something. 'Gave as a gift' is a once-and-done action.
-- 'Not yet. I want to do it now.' 'Not yet' is literally 'still no'. 'Now' closes the line.
-- 'Good luck, Kostya. It's an important moment.' 'Of luck to you' is the wish. 'Important' agrees with the masculine 'moment'.
-- 'Thanks, Max. Good luck with Vika too.' The girl's name takes an 'oy' ending after 'with'. 'Too' sits before 'luck'.
-- 'Yes, I need lots of luck today.' 'Needed' finishes with 'a' to match the feminine 'luck'. 'Big' finishes with 'aya' for the same reason.
+- 'So, did you buy the ring?' In a quick question Russian often drops ty, 'you', and just says kupil koltso, 'bought the ring?'
+- 'Yes. And you?' The little word a, 'and', turns the question back, like English 'and you?'
+- 'Me too.' Russian says ya tozhe, literally 'I also', where English says 'me too'.
+- 'Show me.' The word pokazhi, 'show', is the friendly command, and the 'me' is understood.
+- 'You're proposing to each other, right?' Russian says delat predlozhenie, literally 'make an offer', for proposing marriage.
+- 'What's it to you?' Russian says a tebe chto, literally 'and to you what', to mean 'what's it to you?'
+- 'Nothing. Guys, when's the wedding?' The word rebyata, 'guys', is the friendly way to call to a group of people.
+- 'So, did you give it to her?' The word podaril means 'gave as a present', and comes from podarok, 'present'.
+- 'I haven't had the chance yet. I'll go now.' The word uspel means 'managed in time', so ne uspel is 'didn't get round to it'.
+- 'Well, I'm off.' Russian says ya poshyol, literally 'I went', to mean 'I'm leaving right now'.
+- 'Good luck!' The word udachi literally means 'of luck', short for 'I wish you luck'.
+- 'And today, against Sasha, it's Max Lavrov!' After protiv, 'against', a name takes a new ending, so Sasha ends in -i here.
+- 'No, guys, I'm out.' Russian says ya pas, 'I pass', a word borrowed from card games.
+- 'What, are you scared?' Russian says ty chto, literally 'you what', to mean 'what's wrong with you?'
+- 'Pour it. Let's go.' The word poekhali literally means 'we drove off', and Russians say it for 'here we go'.

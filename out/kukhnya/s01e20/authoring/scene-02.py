@@ -10,19 +10,19 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "At the bar, Nastya talks to Kostya about their relationship in an unusually poetic way. She compares it to a staircase that goes up to the sun, and Kostya isn't sure where this is going. The Russian comes first."
-OPENER = 'Slowly this time.'
-TRANSITION = 'Now it all together again, from the top.'
-OUTRO = "Kostya agrees with everything, though he doesn't know to what. 'Shag za shagom' is a lovely phrase for 'step by step', and it literally says 'step after step'. See you next time!"
-CLOSING = ('kostya', 'До свидания!')
+INTRO = 'Later that day, Nastya talks to Kostya about the two of them, and she reaches for a picture: a staircase that goes up to the sun. Have a listen.'
+OPENER = "Let's go through it."
+TRANSITION = 'And the whole scene again.'
+OUTRO = "Kostya agrees, though as we'll see, he didn't follow a word of it. The phrase shag za shagom, 'step by step', is one you can use anywhere. See you next time!"
+CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, нам же хорошо вместе?', 'Kostya, we are good together, right?', [(54, 'нам же хорошо вместе')], ''),
     ('kostya', 'Ну да, конечно хорошо.', 'Well yes, of course it is good.', [(55, 'Ну да')], ''),
     ('nastya', 'Мы как будто идём по лестнице.', 'It is as if we are walking on a staircase.', [(57, 'идем по высокой-высокой лестнице')], ''),
     ('nastya', 'Мы идём вверх, прямо к солнцу.', 'We are walking up, straight to the sun.', [(58, 'к солнцу')], ''),
-    ('nastya', 'Мы идём высоко, шаг за шагом.', 'We are walking high, step by step.', [(59, 'шаг за шагом')], ''),
-    ('kostya', 'Мы же не торопимся подниматься?', 'We are not rushing to climb, right?', [(61, 'не торопимся подниматься')], ''),
-    ('nastya', 'Вроде нет, мы не торопимся.', 'Seems not, we are not rushing.', [(62, 'Вроде нет')], ''),
+    ('nastya', 'Мы поднимаемся всё выше, шаг за шагом.', 'We climb higher and higher, step by step.', [(59, 'шаг за шагом')], ''),
+    ('nastya', 'Мы же не торопимся подниматься?', 'We are not in a hurry to climb, are we?', [(61, 'Мы же не торопимся подниматься?')], ''),
+    ('kostya', 'Вроде нет, не торопимся.', 'I guess not, we are not in a hurry.', [(62, 'Вроде нет.')], ''),
     ('nastya', 'Если мы остановимся, мы можем упасть.', 'If we stop, we might fall.', [(63, 'остановимся, мы можем упасть')], ''),
     ('nastya', 'Мы можем упасть вниз и разбиться.', 'We might fall down and break.', [(64, 'и разбиться')], ''),
     ('nastya', 'Нам ни в коем случае нельзя останавливаться.', 'Under no circumstances must we stop.', [(65, 'Нам ни в коем случае нельзя останавливаться')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Да, я согласен с тобой.', 'Yes, I agree with you.', [(69, 'Да, конечно. Ты согласен')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, we're good together, aren't we?' Russian says 'to us good together'. The small word 'zhe' makes it a seeking-agreement question."),
-    (1, None, "'Well yes, of course it's good.' 'Well yes' is two small words. 'Of course' is a long word with a 'sh' sound in the middle."),
-    (2, None, "'It's as if we're climbing a staircase.' 'As if' is two words in Russian. 'Along the staircase' uses a small word for 'along' and an 'e' ending."),
-    (3, None, "'We're going up, straight to the sun.' 'Up' is the word for direction. The sun is pronounced with a silent 'l', so it is 'sontse'."),
-    (4, None, "'We're going high, step by step.' 'Step after step' is a phrase made with 'za' and an 'om' ending. 'High' carries 'o'."),
-    (5, None, "'We're not in a hurry to climb, are we?' 'Hurry' and 'climb' both end in 'sya'. The small word 'zhe' makes it a question looking for 'no'."),
-    (6, None, "'Seems not, we aren't in a hurry.' 'Seems' is one word, meaning 'apparently'. It is a handy way to hedge."),
-    (7, None, "'If we stop, we might fall.' 'Stop' carries 'sya' as it means 'stop oneself'. 'Might' is 'can', and 'fall' follows it."),
-    (8, None, "'We might fall down and smash ourselves up.' 'Smash' finishes with 'sya', and means 'smash oneself'. 'Down' is the direction word."),
-    (9, None, "'On no account can we stop.' The phrase means 'in no case'. The word 'nelzya' is the 'not allowed' word."),
-    (10, None, "'We must always only go forward.' 'Must' is plural to go with 'we'. 'Only' and 'forward' are two small words."),
-    (11, None, "'Yes, I agree with you.' 'Agree' is a short masculine form. 'With you' is the irregular 'toboy'."),
+    (0, None, "'Kostya, we're good together, aren't we?' Russian says nam khorosho, 'to us it's good', rather than 'we are good'. The little zhe asks Kostya to agree."),
+    (1, None, "'Well, yes, of course it's good.' In konechno, 'of course', the ch is said like sh: 'koneshno'."),
+    (2, None, "'It's as if we're walking up a staircase.' The phrase kak budto means 'as if'. After po, 'along', lestnitsa becomes lestnitse."),
+    (3, None, "'We're going up, straight towards the sun.' After k, 'towards', solntse becomes solntsu. The l in solntse is written but never said."),
+    (4, None, "'We climb higher and higher, step by step.' Put vsyo in front of vyshe, 'higher', and you get 'higher and higher'. Her shag za shagom is literally 'step after step'."),
+    (5, None, "'We're not in a hurry to climb, are we?' With ne and zhe together, the question expects the answer 'no'."),
+    (6, None, "'I guess not, we're not in a hurry.' The word vrode means 'seemingly', so vrode net is a careful 'I don't think so'."),
+    (7, None, "'If we stop, we might fall.' The word ostanovimsya, 'we stop', is a finished-action form, and in the present that points to the future: 'if we come to a stop'."),
+    (8, None, "'We could fall down and smash ourselves.' The word vniz means 'downwards', movement towards below; for 'down there' Russian uses vnizu."),
+    (9, None, "'On no account must we stop.' The fixed phrase ni v koem sluchae means 'in no case at all', and nelzya, 'not allowed', takes nam, 'for us', in front."),
+    (10, None, "'We must always go only forward.' The word dolzhny, 'must', has the plural ending -ny to match my, 'we'; one man alone would say dolzhen."),
+    (11, None, "'Yes, I agree with you.' Kostya literally says 'I am agreed with you', ya soglasen. A woman would say soglasna."),
 ]

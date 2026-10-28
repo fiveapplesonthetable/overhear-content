@@ -10,30 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Утро пришло. | Morning has come. | new | new |
-| 2 | Макс | Теперь все ясно. | Now everything is clear. | new | new |
-| 3 | Макс | Но уже поздно. | But it is already late. | new | new |
-| 4 | Макс | Время ушло. | Time has gone. | new | new |
-| 5 | Макс | Это наша общая ошибка. | This is our common mistake. | new | new |
-| 6 | Макс | Может быть, стоило проснуться? | Maybe we should have woken up? | #339 00:23:38: Может быть, стоило проснуться | verbatim |
-| 7 | Макс | Проснуться раньше? | Woken up sooner? | #339 00:23:38: проснуться раньше | verbatim |
-| 8 | Макс | Я не знаю ответ. | I don't know the answer. | new | new |
-| 9 | Макс | Никто не знает. | Nobody knows. | new | new |
-| 10 | Макс | Жизнь продолжается. | Life goes on. | new | new |
-| 11 | Макс | Нужно идти. | Need to go. | new | new |
-| 12 | Макс | Идти только вперед. | Go only forward. | new | new |
+| 1 | Макс | Может быть, стоило проснуться раньше? | Maybe we should have woken up sooner? | #339 00:23:38: Может быть, стоило проснуться раньше | verbatim |
+| 2 | Макс | Проснуться раньше? | Wake up sooner? | #339 00:23:38: проснуться раньше | verbatim |
+| 3 | Макс | Может быть. | Maybe. | new | new |
+| 4 | Макс | А может, и нет. | Or maybe not. | new | new |
+| 5 | Макс | Никто не знает. | Nobody knows. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Morning has come.' 'Morning' is neuter, so 'came' finishes with 'o'. A short, quiet start.
-- 'Now everything is clear.' 'Clear' is a word with an 'o' ending, used without a subject. There's no 'is'.
-- 'But it's already late.' 'Late' is a word with an 'o' ending. 'But already' are two small words.
-- 'Time has gone.' 'Time' is neuter, so 'went away' carries 'o'. A very short sentence.
-- 'It's our common mistake.' 'Common' means 'shared'. 'Mistake' is feminine, so both words end in 'aya'.
-- 'Maybe we should have woken up?' The word 'stoilo' means 'it was worth'. 'Wake up' finishes with 'sya'.
-- 'Woken up sooner?' 'Earlier' is just one word. Max repeats the idea.
-- 'I don't know the answer.' 'Answer' is a masculine word with no ending. 'I know' finishes with 'u'.
-- 'Nobody knows.' 'Nobody' and 'not' appear together. Two words and a full stop.
-- 'Life goes on.' 'Continues' carries 'sya', meaning it continues by itself. 'Life' ends in a soft sign.
-- 'We need to go.' 'Necessary' plus the plain 'to go'. It is a short instruction.
-- 'Only forward.' 'Only' sits in front of 'forward'. The episode ends on the plain word.
+- 'Maybe we should have woken up sooner?' Russian says stoilo, literally 'it was worth it', for 'should have', and ranshe means 'earlier'.
+- 'Wake up sooner?' In Russian prosnutsya is waking up yourself, while razbudit means 'to wake someone else'.
+- 'Maybe.' Russian mozhet byt, literally 'it can be', is the everyday 'maybe'.
+- 'Or maybe not.' The little word i before net adds 'even', and mozhet alone is a shorter 'maybe'.
+- 'Nobody knows.' Russian needs both nikto, 'nobody', and ne, 'not', rather than just one negative.

@@ -10,40 +10,34 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Thanks to the video, the restaurant is packed. A guest is losing patience at the door, Vika has her hands full, and Barinov decides it's time to thank the team. First the Russian, and don't worry about catching every word."
-OPENER = "Let's replay it, with a word or two on each line."
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "The team will get their party, and the restaurant its customers. 'Devushka' means 'girl', and it is also what Russians call a waitress or any young woman whose attention they want. See you next time!"
-CLOSING = ('vika', 'До свидания!')
+INTRO = 'Thanks to the video, the restaurant is packed, a guest is losing patience, and Barinov wants to thank his team. Have a listen.'
+OPENER = "Let's look at each line."
+TRANSITION = 'And once more from the start.'
+OUTRO = "So the team works late on Saturday and then gets its party. The word devushka, 'girl' or 'miss', is how Russians call a waitress. See you next time!"
+CLOSING = ('vika', 'До встречи!')
 STORY = [
-    ('guest', 'Девушка, когда мы сядем за столик?', 'Miss, when will we sit at a table?', [(201, 'Девушка, скажите, когда мы сядем за столик?')], ''),
-    ('vika', 'Подождите одну минуту, пожалуйста.', 'Wait one minute, please.', [], ''),
-    ('guest', 'Я жду уже двадцать минут!', 'I am already waiting twenty minutes!', [], ''),
-    ('vika', 'Извините, ресторан сейчас очень полный.', 'Sorry, the restaurant is very full now.', [], ''),
-    ('barinov', 'Вика, как дела в зале?', 'Vika, how are things in the dining room?', [], ''),
-    ('vika', 'Очень много новых гостей сегодня.', 'Very many new guests today.', [], ''),
-    ('barinov', 'Это хорошо, у нас был сложный период.', 'This is good, we had a difficult period.', [], ''),
-    ('vika', 'Да, а сейчас у нас много работы.', 'Yes, and now we have a lot of work.', [], ''),
-    ('barinov', 'Нам нужно сказать спасибо нашей команде.', 'We need to say thank you to our team.', [], ''),
+    ('guest', 'Девушка, скажите, когда мы сядем за столик?', 'Miss, tell me, when will we sit at a table?', [(201, 'Девушка, скажите, когда мы сядем за столик?')], ''),
+    ('vika', 'Минуточку.', 'Just a minute.', [(202, 'Минуточку.')], ''),
+    ('guest', 'Я уже двадцать минут здесь стою!', 'I have been standing here twenty minutes already!', [(202, 'Я уже 20 минуточек здесь стою.')], ''),
+    ('vika', 'Извините, сейчас все столики заняты.', 'Sorry, all the tables are taken right now.', [], ''),
+    ('barinov', 'У нас был сложный период, а сейчас вон как.', 'We had a hard time, and now look at us.', [(203, 'У нас был сложный период, а сейчас вон как.')], ''),
+    ('barinov', 'Надо наш коллектив как-то поблагодарить.', 'We should thank our team somehow.', [(204, 'Надо коллектив наш как-то поблагодарить.')], ''),
     ('vika', 'Как мы можем это сделать?', 'How can we do this?', [], ''),
-    ('barinov', 'Скажи всем, что в субботу будет вечеринка.', 'Tell everyone that on Saturday there will be a party.', [], ''),
-    ('vika', 'Вечеринка для нашей команды? Отлично!', 'A party for our team? Excellent!', [], ''),
-    ('barinov', 'Да, после двенадцати ночи.', 'Yes, after twelve at night.', [], ''),
+    ('barinov', 'Скажите людям, что в субботу мы работаем до двенадцати.', 'Tell people that on Saturday we work until twelve.', [(205, 'Скажите людям, что мы в субботу работаем до 12')], ''),
+    ('barinov', 'А потом у нас корпоратив.', 'And then we have a staff party.', [(205, 'а потом корпоратив.')], ''),
+    ('vika', 'Корпоратив? Отлично!', 'A staff party? Great!', [], ''),
     ('vika', 'Хорошо, я скажу всем на кухне.', 'Good, I will tell everyone in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Miss, when will we sit at a table?' 'Girl' is used to call a waitress. 'We'll sit down' is an action seen as complete."),
-    (1, None, "'Wait one minute, please.' 'Wait' is the polite command. 'One minute' takes a 'u' ending."),
-    (2, None, "'I've already been waiting twenty minutes!' Russian uses the present, 'I wait already twenty minutes'. After 'twenty', 'minutes' takes the 'of' plural."),
-    (3, None, "'Sorry, the restaurant is very full now.' 'Sorry' is the polite word. 'Full' is a masculine short form."),
-    (4, None, "'Vika, how are things in the dining room?' 'How are matters' is the usual question. 'In the hall' needs an 'e' ending."),
-    (5, None, "'A lot of new guests today.' After 'many', 'new' and 'guests' both take the 'of' plural. 'Today' closes the sentence."),
-    (6, None, "'That's good, we had a hard period.' 'At us was' stands for 'we had'. 'Hard' agrees with the masculine 'period'."),
-    (7, None, "'Yes, and now we have a lot of work.' 'Much of work' uses the 'of' form for work, 'raboty'. 'Now' is a small word."),
-    (8, None, "'We need to thank our team.' Russians 'say thanks to' someone, so 'team' takes the 'to' form. 'Our' carries 'ey' to match."),
-    (9, None, "'How can we do this?' 'How' and 'we can' make a plain question. 'This' takes the object form."),
-    (10, None, "'Tell everyone there'll be a party on Saturday.' 'On Saturday' is 'in Saturday', with a 'u' ending. 'Tell' is the friendly command."),
-    (11, None, "'A party for our team? Excellent!' 'Party' is a word made from 'evening'. 'For our team' takes an 'ey' ending."),
-    (12, None, "'Yes, after midnight.' 'After twelve of night' is how Russian says 'after midnight'. Both words take the 'of' form."),
-    (13, None, "'Good, I'll tell everyone in the kitchen.' 'I'll tell' treats the action as done. 'To everyone' is 'vsem'."),
+    (0, None, "'Miss, tell me, when will we get a table?' In Russian you call out devushka, literally 'girl', to get any young woman's attention, including a waitress."),
+    (1, None, "'Just a minute.' The word minutochku is a soft little form of minuta, 'minute', the kind you say to calm someone down."),
+    (2, None, "'I've been standing here twenty minutes already!' Russian says ya uzhe stoyu, literally 'I already stand', where English says 'I've been standing'."),
+    (3, None, "'Sorry, all the tables are taken right now.' The word zanyaty, 'taken' or 'busy', ends in -y because there are many tables."),
+    (4, None, "'We had a hard time, and now look at us.' Russian says von kak, literally 'there's how', to mean 'look how things turned out'."),
+    (5, None, "'We should thank our team somehow.' A kollektiv is what Russians call the whole staff at a workplace."),
+    (6, None, "'How can we do that?' The word mozhem, 'we can', comes from moch, 'to be able'."),
+    (7, None, "'Tell people that on Saturday we work till twelve.' Russian says v subbotu, 'on Saturday', so subbota changes its ending to -u."),
+    (8, None, "'And then we have a staff party.' A korporativ is the party a company throws for its own staff."),
+    (9, None, "'A staff party? Great!' The word otlichno means 'excellent', and it is also the top mark in a Russian school."),
+    (10, None, "'Okay, I'll tell everyone in the kitchen.' Here na kukhne, ending in -e, means 'in the kitchen', because nobody is going anywhere."),
 ]
