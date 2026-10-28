@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Макс | Что тебе надо? | What do you need? | #352 00:22:40: Че надо? | verbatim |
 | 9 | Костя | Макс, возвращайся. | Max, come back. | #353 00:22:42: Макс, возвращайся, а мне... | verbatim |
 | 10 | Костя | Нам тебя не хватает. | We miss you. | #354 00:22:47: Нам.<br>#355 00:22:48: Нам тебя не хватает. | verbatim |
-| 11 | Костя | Мы поделим квартиру на троих. | We will divide the apartment by three. | #357 00:22:52: Мы квартплату на троих поделим. | verbatim |
+| 11 | Костя | Мы поделим квартплату на троих. | We will split the rent three ways. | #357 00:22:52: Мы квартплату на троих поделим. | verbatim |
 | 12 | Макс | Я постараюсь приехать. | I will try to come. | #358 00:22:58: Ну, Костян, обещать не буду, но постараюсь. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What do you need?' Russian says 'what to you necessary', and it's a rude way to open a call. Max is still hurt.
 - 'Max, come back.' 'Vozvrashchaysya' has a 'sya', so it's 'return yourself'. Kostya uses the plain order for a friend.
 - 'We miss you.' Literally, 'to us you are not enough'. 'Khvatat' means 'to be enough', and also 'to grab'.
-- 'We will divide the apartment among three.' Russians say 'divide on three'. The sharing word is built from 'divide', with 'po' in front.
+- 'We will split the rent three ways.' 'Kvartplata' is kvartira, flat, plus plata, payment: the flat payment. Russians say 'divide on three', na troikh.
 - 'I will try to come.' 'Postarayus' is 'I will try', its 'sya' ending shrunk to 's' after a vowel. 'Priekhat' is 'to come' by transport, not on foot.

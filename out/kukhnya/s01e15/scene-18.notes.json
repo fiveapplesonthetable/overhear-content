@@ -360,7 +360,7 @@
     },
     {
       "seg": 11,
-      "trans": "We will divide the apartment by three.",
+      "trans": "We will split the rent three ways.",
       "words": [
         {
           "t": "Мы",
@@ -379,11 +379,11 @@
           "gram": "1st person plural future (perfective)"
         },
         {
-          "t": "квартиру",
-          "lemma": "квартира",
+          "t": "квартплату",
+          "lemma": "квартплата",
           "pos": "noun",
-          "stress": "кварти́ру",
-          "gloss": "flat",
+          "stress": "квартпла́ту",
+          "gloss": "rent, utility bill",
           "gram": "accusative singular, feminine"
         },
         {
@@ -792,7 +792,7 @@
     },
     {
       "seg": 34,
-      "trans": "We will divide the apartment by three.",
+      "trans": "We will split the rent three ways.",
       "words": [
         {
           "t": "Мы",
@@ -811,11 +811,11 @@
           "gram": "1st person plural future (perfective)"
         },
         {
-          "t": "квартиру",
-          "lemma": "квартира",
+          "t": "квартплату",
+          "lemma": "квартплата",
           "pos": "noun",
-          "stress": "кварти́ру",
-          "gloss": "flat",
+          "stress": "квартпла́ту",
+          "gloss": "rent, utility bill",
           "gram": "accusative singular, feminine"
         },
         {
@@ -1224,7 +1224,7 @@
     },
     {
       "seg": 48,
-      "trans": "We will divide the apartment by three.",
+      "trans": "We will split the rent three ways.",
       "words": [
         {
           "t": "Мы",
@@ -1243,11 +1243,11 @@
           "gram": "1st person plural future (perfective)"
         },
         {
-          "t": "квартиру",
-          "lemma": "квартира",
+          "t": "квартплату",
+          "lemma": "квартплата",
           "pos": "noun",
-          "stress": "кварти́ру",
-          "gloss": "flat",
+          "stress": "квартпла́ту",
+          "gloss": "rent, utility bill",
           "gram": "accusative singular, feminine"
         },
         {
@@ -1967,48 +1967,6 @@
         }
       ]
     },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "gloss": "until, before; up to",
-      "meanings": [
-        {
-          "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
-        },
-        {
-          "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
-        },
-        {
-          "text": "До вечера!",
-          "trans": "See you tonight!"
-        }
-      ],
-      "related": [
-        {
-          "word": "дойти",
-          "gloss": "to reach, walk as far as"
-        },
-        {
-          "word": "после",
-          "gloss": "after"
-        }
-      ]
-    },
     "жить": {
       "lemma": "жить",
       "stress": "жить",
@@ -2105,44 +2063,6 @@
         }
       ]
     },
-    "завтра": {
-      "lemma": "завтра",
-      "stress": "за́втра",
-      "pos": "adv",
-      "gloss": "tomorrow",
-      "meanings": [
-        {
-          "en": "tomorrow",
-          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'втра')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Договоримся на завтра.",
-          "trans": "We'll arrange something for tomorrow."
-        },
-        {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
-        },
-        {
-          "text": "Позвони мне вечером. Договоримся на завтра.",
-          "trans": "Call me this evening. We'll arrange something for tomorrow."
-        }
-      ],
-      "related": [
-        {
-          "word": "завтракать",
-          "gloss": "to have breakfast"
-        },
-        {
-          "word": "завтрак",
-          "gloss": "breakfast"
-        }
-      ]
-    },
     "как": {
       "lemma": "как",
       "stress": "как",
@@ -2178,96 +2098,6 @@
         {
           "word": "очень как",
           "gloss": "intensified / related adverb (how)"
-        }
-      ]
-    },
-    "квартира": {
-      "lemma": "квартира",
-      "stress": "кварти́ра",
-      "pos": "noun",
-      "gloss": "flat, apartment",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "flat, apartment",
-          "note": "Also a flat number in an address. Common feminine noun meaning 'flat, apartment' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "квартира",
-              "квартиры"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "квартиры",
-              "квартир"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "квартире",
-              "квартирам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "квартиру",
-              "квартиры"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "квартирой",
-              "квартирами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "квартире",
-              "квартирах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это моя квартира.",
-          "trans": "This is my flat."
-        },
-        {
-          "text": "Мы живём в квартире.",
-          "trans": "We live in a flat."
-        },
-        {
-          "text": "Помнишь туалет в коммунальной квартире?",
-          "trans": "Do you remember the toilet in the communal flat?"
-        }
-      ],
-      "related": [
-        {
-          "word": "квартирка",
-          "gloss": "little flat"
-        },
-        {
-          "word": "квартплата",
-          "gloss": "rent"
         }
       ]
     },
@@ -3954,6 +3784,96 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "квартплата": {
+      "lemma": "квартплата",
+      "stress": "квартпла́та",
+      "pos": "noun",
+      "gloss": "rent, utility bill",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "rent, utility bill",
+          "note": "Common feminine noun meaning 'rent, utility bill' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "квартплата",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "квартплаты",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "квартплате",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "квартплату",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "квартплатой",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "квартплате",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Наша квартплата?",
+          "trans": "Our rent?"
+        },
+        {
+          "text": "Мы уже заплатили квартплату за этот месяц?",
+          "trans": "Have we already paid the rent and utilities for this month?"
+        },
+        {
+          "text": "В Москве квартплата за хорошую квартиру стоит недёшево.",
+          "trans": "In Moscow, rent and utilities for a good apartment are not cheap."
+        }
+      ],
+      "related": [
+        {
+          "word": "квартира",
+          "gloss": "flat"
+        },
+        {
+          "word": "квартирка",
+          "gloss": "little flat"
         }
       ]
     }
