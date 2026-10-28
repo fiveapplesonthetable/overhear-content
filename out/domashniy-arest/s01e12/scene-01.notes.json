@@ -2044,7 +2044,7 @@
       "meanings": [
         {
           "en": "to be afraid of",
-          "note": "+ genitive: 'бояться собак'"
+          "note": "+ genitive: 'бояться собак'. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to be afraid (of), to fear'."
         }
       ],
       "forms": {
@@ -2234,7 +2234,7 @@
       "meanings": [
         {
           "en": "time",
-          "note": "проводить время = to spend time"
+          "note": "Проводить время = to spend time. Common neuter noun meaning 'time' in everyday Russian."
         }
       ],
       "forms": {
@@ -2327,49 +2327,50 @@
         "title": "Declension",
         "columns": [
           "",
-          "sg"
+          "sg",
+          "pl"
         ],
         "rows": [
           {
             "cells": [
               "nominative",
-              "господь"
+              "Господь",
+              "—"
             ]
           },
           {
             "cells": [
               "genitive",
-              "господа"
+              "Господа",
+              "—"
             ]
           },
           {
             "cells": [
               "dative",
-              "господу"
+              "Господу",
+              "—"
             ]
           },
           {
             "cells": [
               "accusative",
-              "господа"
+              "Господа",
+              "—"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "господом"
+              "Господом",
+              "—"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "господе"
-            ]
-          },
-          {
-            "cells": [
-              "vocative",
-              "господи"
+              "Господе",
+              "—"
             ]
           }
         ]
@@ -2632,11 +2633,11 @@
       "meanings": [
         {
           "en": "soul, spirit",
-          "note": "colloquial idiom"
+          "note": "Colloquial idiom. Common feminine noun meaning 'soul, heart' in everyday Russian."
         },
         {
           "en": "standing over someone (стоят над душой)",
-          "note": "colloquial idiom"
+          "note": "Colloquial idiom. Common feminine noun meaning 'soul, heart' in everyday Russian."
         }
       ],
       "forms": {
@@ -2721,11 +2722,11 @@
       "meanings": [
         {
           "en": "for",
-          "note": "спасибо за + accusative"
+          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
         },
         {
           "en": "behind",
-          "note": "+ instrumental"
+          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
         }
       ],
       "forms": null,
@@ -2744,7 +2745,16 @@
           "trans": "What for?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "из-за",
+          "gloss": "because of, from behind"
+        },
+        {
+          "word": "под",
+          "gloss": "under"
+        }
+      ]
     },
     "закончить": {
       "lemma": "закончить",
@@ -2756,7 +2766,7 @@
       "meanings": [
         {
           "en": "to finish, to end, to complete",
-          "note": "+ acc. or infinitive"
+          "note": "+ acc. or infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кончить'). Used as an perfective (single completed action) verb meaning 'to finish, to complete', paired with 'заканчивать'."
         }
       ],
       "forms": {
@@ -2886,7 +2896,16 @@
           "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "а",
+          "gloss": "and, but"
+        },
+        {
+          "word": "тоже",
+          "gloss": "also"
+        }
+      ]
     },
     "из-за": {
       "lemma": "из-за",
@@ -2896,11 +2915,11 @@
       "meanings": [
         {
           "en": "because of, on account of",
-          "note": "+ genitive"
+          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
         },
         {
           "en": "from behind",
-          "note": "+ genitive"
+          "note": "+ genitive. Core Russian prep meaning 'because of; from behind' in everyday speech."
         }
       ],
       "forms": null,
@@ -2919,13 +2938,22 @@
           "trans": "And the herbs in the sacks burned. Because of you!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "за",
+          "gloss": "behind, for"
+        },
+        {
+          "word": "из",
+          "gloss": "out of, from"
+        }
+      ]
     },
     "исправлять": {
       "lemma": "исправлять",
       "stress": "исправля́ть",
       "pos": "verb",
-      "aspect": "imperfective",
+      "aspect": "impf",
       "gloss": "to correct",
       "meanings": [
         {
@@ -2934,7 +2962,7 @@
         }
       ],
       "forms": {
-        "title": "Present / Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -3024,7 +3052,7 @@
       "meanings": [
         {
           "en": "what, which",
-          "note": "in questions"
+          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
         },
         {
           "en": "what a, how",
@@ -3127,7 +3155,7 @@
       "lemma": "каяться",
       "stress": "ка́яться",
       "pos": "verb",
-      "aspect": "imperfective",
+      "aspect": "impf",
       "gloss": "to repent",
       "meanings": [
         {
@@ -3136,7 +3164,7 @@
         }
       ],
       "forms": {
-        "title": "Present / Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -3356,7 +3384,7 @@
       "meanings": [
         {
           "en": "chronicle, historical record",
-          "note": "ancient historical record"
+          "note": "Ancient historical record. Common feminine noun meaning 'chronicle, annals' in everyday Russian."
         }
       ],
       "forms": {
@@ -3441,15 +3469,15 @@
       "meanings": [
         {
           "en": "little, not much",
-          "note": "Это мало = That's not enough"
+          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         },
         {
           "en": "not enough, too little",
-          "note": "Это мало = That's not enough"
+          "note": "Это мало = That's not enough. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         },
         {
           "en": "few, not many",
-          "note": "+ genitive: мало людей"
+          "note": "+ genitive: мало людей. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -3517,7 +3545,7 @@
       "meanings": [
         {
           "en": "my, mine",
-          "note": "agrees with the thing owned"
+          "note": "Agrees with the thing owned. Core Russian det meaning 'my, mine' in everyday speech."
         }
       ],
       "forms": {
@@ -3601,13 +3629,22 @@
           "trans": "No. That's mine."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "я",
+          "gloss": "I"
+        },
+        {
+          "word": "свой",
+          "gloss": "one's own"
+        }
+      ]
     },
     "молиться": {
       "lemma": "молиться",
       "stress": "моли́ться",
       "pos": "verb",
-      "aspect": "imperfective",
+      "aspect": "impf",
       "gloss": "to pray",
       "meanings": [
         {
@@ -3616,7 +3653,7 @@
         }
       ],
       "forms": {
-        "title": "Present / Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -3698,7 +3735,7 @@
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
-          "note": "case forms"
+          "note": "Case forms. Core Russian pron meaning 'we' in everyday speech."
         }
       ],
       "forms": {
@@ -3776,11 +3813,11 @@
       "meanings": [
         {
           "en": "on",
-          "note": "+ prepositional: на сайте"
+          "note": "+ prepositional: на сайте. Core Russian prep meaning 'on, onto; for' in everyday speech."
         },
         {
           "en": "onto, to; for",
-          "note": "+ accusative: на второй срок"
+          "note": "+ accusative: на второй срок. Core Russian prep meaning 'on, onto; for' in everyday speech."
         }
       ],
       "forms": null,
@@ -3799,7 +3836,16 @@
           "trans": "I love our town very much. That's why I'm running for a second term."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "над",
+          "gloss": "above, over"
+        },
+        {
+          "word": "в",
+          "gloss": "in, at"
+        }
+      ]
     },
     "назад": {
       "lemma": "назад",
@@ -3809,11 +3855,11 @@
       "meanings": [
         {
           "en": "ago (after a time expression)",
-          "note": "два года назад = two years ago"
+          "note": "Два года назад = two years ago. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
         },
         {
           "en": "back, backwards",
-          "note": "шаг назад = a step back"
+          "note": "Шаг назад = a step back. Core Russian adv meaning 'ago; back, backwards' in everyday speech."
         }
       ],
       "forms": null,
@@ -3933,7 +3979,7 @@
       "lemma": "неметь",
       "stress": "неме́ть",
       "pos": "verb",
-      "aspect": "imperfective",
+      "aspect": "impf",
       "gloss": "to go numb",
       "meanings": [
         {
@@ -3942,7 +3988,7 @@
         }
       ],
       "forms": {
-        "title": "Present / Future",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -4030,7 +4076,7 @@
         },
         {
           "en": "to stay",
-          "note": ""
+          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an perfective (single completed action) verb meaning 'to remain, to be left', paired with 'оставаться'."
         }
       ],
       "forms": {
@@ -4141,11 +4187,11 @@
       "meanings": [
         {
           "en": "from",
-          "note": "+ genitive"
+          "note": "+ genitive. Core Russian prep meaning 'from; of' in everyday speech."
         },
         {
           "en": "of",
-          "note": "тошнит от = sick of"
+          "note": "Тошнит от = sick of. Core Russian prep meaning 'from; of' in everyday speech."
         }
       ],
       "forms": null,
@@ -4165,7 +4211,16 @@
         }
       ],
       "governs": "+ genitive",
-      "related": []
+      "related": [
+        {
+          "word": "до",
+          "gloss": "to, until"
+        },
+        {
+          "word": "из",
+          "gloss": "out of"
+        }
+      ]
     },
     "очень": {
       "lemma": "очень",
@@ -4175,11 +4230,11 @@
       "meanings": [
         {
           "en": "very",
-          "note": "with verbs: очень люблю"
+          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
         },
         {
           "en": "very much",
-          "note": "with verbs: очень люблю"
+          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
         }
       ],
       "forms": null,
@@ -4214,7 +4269,7 @@
       "meanings": [
         {
           "en": "mistake, error",
-          "note": "everyday and formal"
+          "note": "Everyday and formal. Common feminine noun meaning 'mistake, error' in everyday Russian."
         }
       ],
       "forms": {
@@ -4309,11 +4364,11 @@
       "meanings": [
         {
           "en": "to write",
-          "note": "in a lesson"
+          "note": "In a lesson. Used as an imperfective (ongoing/repeated action) verb meaning 'to write', paired with 'написать'."
         },
         {
           "en": "to take notes",
-          "note": "in a lesson"
+          "note": "In a lesson. Used as an imperfective (ongoing/repeated action) verb meaning 'to write', paired with 'написать'."
         }
       ],
       "forms": {
@@ -4430,7 +4485,7 @@
         },
         {
           "en": "to take, to drive (someone somewhere)",
-          "note": ""
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'везти'). Used as an perfective (single completed action) verb meaning 'to be lucky (impersonal); to take (by vehicle)', paired with 'везти'."
         }
       ],
       "forms": {
@@ -4526,7 +4581,7 @@
       "meanings": [
         {
           "en": "to turn out, to work out",
-          "note": "всё получилось = it all worked out"
+          "note": "Всё получилось = it all worked out. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'лучиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an perfective (single completed action) verb meaning 'to turn out, to work out', paired with 'получаться'."
         },
         {
           "en": "to come out of, to make",
@@ -4626,11 +4681,11 @@
       "meanings": [
         {
           "en": "to have a look, to take a look",
-          "note": "one completed look"
+          "note": "One completed look. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as an perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
         },
         {
           "en": "to watch (a film) through",
-          "note": ""
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'смотреть'). Used as an perfective (single completed action) verb meaning 'to have a look', paired with 'смотреть'."
         }
       ],
       "forms": {
@@ -4833,11 +4888,11 @@
       "meanings": [
         {
           "en": "to forgive",
-          "note": "простите! = sorry! forgive me!"
+          "note": "Простите! = sorry! forgive me!. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'стить'). Used as an perfective (single completed action) verb meaning 'to forgive; (imperative) excuse me', paired with 'прощать'."
         },
         {
           "en": "excuse me, sorry",
-          "note": "imperative: прости / простите"
+          "note": "Imperative: прости / простите. Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'стить'). Used as an perfective (single completed action) verb meaning 'to forgive; (imperative) excuse me', paired with 'прощать'."
         }
       ],
       "forms": {
@@ -4940,11 +4995,11 @@
       "meanings": [
         {
           "en": "right, just, directly",
-          "note": "прямо так = just like that"
+          "note": "Прямо так = just like that. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         },
         {
           "en": "straight ahead",
-          "note": ""
+          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -4983,7 +5038,7 @@
       "meanings": [
         {
           "en": "hand, arm",
-          "note": "жать руку = to shake hands"
+          "note": "Жать руку = to shake hands. Common feminine noun meaning 'hand; arm' in everyday Russian."
         }
       ],
       "forms": {
@@ -5068,7 +5123,7 @@
       "meanings": [
         {
           "en": "myself, yourself, himself...",
-          "note": "сам, сама, само, сами"
+          "note": "Сам, сама, само, сами. Core Russian pron meaning 'oneself (myself, yourself...)' in everyday speech."
         }
       ],
       "forms": {
@@ -5152,7 +5207,16 @@
           "trans": "I'll have a good time on my own."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "себя",
+          "gloss": "oneself"
+        },
+        {
+          "word": "самый",
+          "gloss": "the very, most"
+        }
+      ]
     },
     "свой": {
       "lemma": "свой",
@@ -5246,7 +5310,16 @@
           "trans": "And what kind of mayor would I be if I kept my word?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "себя",
+          "gloss": "oneself"
+        },
+        {
+          "word": "мой",
+          "gloss": "my"
+        }
+      ]
     },
     "сейчас": {
       "lemma": "сейчас",
@@ -5260,7 +5333,7 @@
         },
         {
           "en": "in a moment",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ейчас')."
         }
       ],
       "forms": null,
@@ -5370,11 +5443,11 @@
       "meanings": [
         {
           "en": "completely, quite",
-          "note": "совсем не"
+          "note": "Совсем не. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'овсем')."
         },
         {
           "en": "not at all",
-          "note": "совсем не"
+          "note": "Совсем не. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'овсем')."
         }
       ],
       "forms": null,
@@ -5615,11 +5688,11 @@
       "meanings": [
         {
           "en": "then, back then",
-          "note": "at that time"
+          "note": "At that time. Core Russian adv meaning 'then, back then' in everyday speech."
         },
         {
           "en": "then, in that case",
-          "note": ""
+          "note": "Core Russian adv meaning 'then, back then' in everyday speech."
         }
       ],
       "forms": null,
@@ -5653,11 +5726,11 @@
       "meanings": [
         {
           "en": "you",
-          "note": "one person, informal"
+          "note": "One person, informal. Core Russian pron meaning 'you (informal)' in everyday speech."
         },
         {
           "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
-          "note": "case forms"
+          "note": "Case forms. Core Russian pron meaning 'you (informal)' in everyday speech."
         }
       ],
       "forms": {
@@ -5739,15 +5812,15 @@
       "meanings": [
         {
           "en": "at, by, near",
-          "note": "+ genitive"
+          "note": "+ genitive. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
         },
         {
           "en": "у меня есть = I have",
-          "note": "possession"
+          "note": "Possession. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
         },
         {
           "en": "from (ask from someone)",
-          "note": "просить у кого"
+          "note": "Просить у кого. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
         }
       ],
       "forms": null,
@@ -5767,7 +5840,16 @@
         }
       ],
       "governs": "+ genitive",
-      "related": []
+      "related": [
+        {
+          "word": "около",
+          "gloss": "near"
+        },
+        {
+          "word": "к",
+          "gloss": "to, towards"
+        }
+      ]
     },
     "уже": {
       "lemma": "уже",
@@ -5811,7 +5893,7 @@
       "meanings": [
         {
           "en": "diligently, zealously",
-          "note": "manner adverb"
+          "note": "Manner adverb. Prefix 'у-' marks departure, removal, or successful completion (stem 'сердно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -5845,7 +5927,7 @@
       "meanings": [
         {
           "en": "wow, oof, whew",
-          "note": "exclamation of amazement"
+          "note": "Exclamation of amazement. Core Russian interj meaning 'wow, oof' in everyday speech."
         }
       ],
       "forms": null,
@@ -5864,7 +5946,12 @@
           "trans": "Yes, my axe. Wow! How did you do that?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "не ух",
+          "gloss": "negated / contrasted form (wow)"
+        }
+      ]
     },
     "что": {
       "lemma": "что",
@@ -5874,15 +5961,15 @@
       "meanings": [
         {
           "en": "what",
-          "note": "question word"
+          "note": "Question word. Core Russian pron meaning 'what' in everyday speech."
         },
         {
           "en": "that",
-          "note": "conjunction"
+          "note": "Conjunction. Core Russian pron meaning 'what' in everyday speech."
         },
         {
           "en": "ну что? = well?",
-          "note": ""
+          "note": "Core Russian pron meaning 'what' in everyday speech."
         }
       ],
       "forms": {
@@ -5945,7 +6032,20 @@
           "trans": "Hi! Look what I've got."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "что-то",
+          "gloss": "something"
+        },
+        {
+          "word": "ничто",
+          "gloss": "nothing"
+        },
+        {
+          "word": "потому что",
+          "gloss": "because"
+        }
+      ]
     },
     "этот": {
       "lemma": "этот",
@@ -6058,7 +6158,7 @@
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
-          "note": "case forms"
+          "note": "Case forms. Core Russian pron meaning 'I' in everyday speech."
         }
       ],
       "forms": {
