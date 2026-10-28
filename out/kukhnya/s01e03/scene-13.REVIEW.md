@@ -12,12 +12,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Сеня, ты принёс то особое средство? | Senya, did you bring that special remedy? | new | new |
 | 2 | Сеня | Да, шеф, это сильное средство. | Yes, chef, this is a strong remedy. | new | new |
-| 3 | Сеня | Это вообще новое мощное лекарство. | This is brand new powerful medicine. | #258: Это вообще новое | verbatim |
+| 3 | Сеня | Это вообще новое мощное лекарство. | This is brand new powerful medicine. | #258 00:16:34: Это вообще новое | verbatim |
 | 4 | Шеф | Как быстро оно начинает действовать? | How quickly does it start to act? | new | new |
 | 5 | Сеня | Очень быстро, шеф, буквально сразу. | Very quickly, chef, literally right away. | new | new |
-| 6 | Сеня | Одна таблетка решает все ваши проблемы. | One pill solves all your problems. | #259: Одна таблетка | verbatim |
+| 6 | Сеня | Одна таблетка решает все ваши проблемы. | One pill solves all your problems. | #259 00:16:37: Одна таблетка | verbatim |
 | 7 | Шеф | И какой будет точный эффект? | And what will be the exact effect? | new | new |
-| 8 | Сеня | Обещаю, клиент от унитаза не отойдёт! | I promise, the customer will not leave the toilet! | #259: клиент от унитаза не отойдет | verbatim |
+| 8 | Сеня | Обещаю, клиент от унитаза не отойдёт! | I promise, the customer will not leave the toilet! | #259 00:16:37: клиент от унитаза не отойдет | verbatim |
 | 9 | Шеф | Отлично, судья запомнит этот юбилей! | Excellent, the judge will remember this anniversary! | new | new |
 | 10 | Сеня | Мы добавим таблетку в её суп? | Shall we add the pill into her soup? | new | new |
 | 11 | Шеф | Нет, положим порошок прямо на гуся. | No, we will put the powder directly on the goose. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, did you bring that special remedy?' Barinov asks about a specific substance.
-- 'Yes, chef, this is a strong remedy.' Senya confirms he has the potent item.
-- 'This is brand new powerful medicine.' Senya highlights the strength of the product.
-- 'How quickly does it start to act?' Barinov questions the speed of the effect.
-- 'Very quickly, chef, literally right away.' Senya assures him of immediate results.
-- 'One pill solves all your problems.' Senya boasts about the effectiveness.
-- 'And what will be the exact effect?' Barinov asks for specifics.
-- 'I promise, the customer will not leave the toilet!' Senya describes the extreme outcome.
-- 'Excellent, the judge will remember this anniversary!' Barinov anticipates a memorable event for their target.
-- 'Shall we add the pill into her soup?' Senya suggests a method of delivery.
-- 'No, we will put the powder directly on the goose.' Barinov decides on a different approach.
-- 'The main thing is that other guests do not get poisoned.' Senya voices a concern for collateral damage.
-- 'Do not fear, I will do everything personally.' Barinov takes charge of the delicate task.
+- 'Senya, did you bring that special remedy?' "Brought" is a man's past, a carrying word. "That special" takes the matching endings, and "remedy" is a general word for a means.
+- 'Yes, chef, this is a strong remedy.' "Strong" comes from "sila", strength. And "this is" is just "eto".
+- 'This is brand new powerful medicine.' "Powerful" is built on "power", and "medicine" is the word for a pharmacy drug. Senya is selling it.
+- 'How quickly does it start to act?' "Act" comes from the word for action. "It" is the neuter one, matching "remedy".
+- 'Very quickly, chef, literally right away.' "Literally" is built on "letter", so it means "to the letter". "Right away" is the short word.
+- 'One pill solves all your problems.' "One" is feminine, because "pill" is. "Solves" is the same word as "decides", and "all your" takes the plural.
+- 'And what will be the exact effect?' "Exact" is a word you know. "Effect" is borrowed, so it's easy.
+- 'I promise, the customer will not leave the toilet!' "I promise" is a single word. "Will not step away" needs "from" and the toilet in the "from" form. Senya is rude.
+- 'Excellent, the judge will remember this anniversary!' "Judge" is a feminine word, even though it ends in "-ya". "Will remember" is one word.
+- 'Shall we add the pill into her soup?' "Her" never changes, like "his". "We will add" is one word.
+- 'No, we will put the powder directly on the goose.' "We will put" is one word for laying something down. "Powder" is a short word, and "goose" ends in "-ya".
+- 'The main thing is that other guests do not get poisoned.' "The main thing, so that" is the pattern for what matters. "Get poisoned" has "self" on the end.
+- 'Do not fear, I will do everything personally.' "Don't be afraid" is a command with "self" on the end. "Personally" is the word you've heard before.

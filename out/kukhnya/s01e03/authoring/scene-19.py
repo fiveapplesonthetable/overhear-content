@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "In the dining room of Claude Monet, an embarrassed guest apologizes to Chef Barinov for a sudden commotion, prompting Barinov to deliver a hilarious summary of Max's first week."
-OPENER = "Let's explore Chef Barinov's comedic review of Max's chaotic first week on the job."
+INTRO = 'The guest at the table is embarrassed by the commotion and hands the chef some money for the trouble. Then Barinov turns to Max and sums up his first week, one disaster at a time. This is the Russian first.'
+OPENER = "Let's go back through the week."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Against all odds, Max survives his turbulent first week and officially joins the kitchen crew. Next time you watch the episode, listen for the Russian expressions for 'art director' and 'to worry' — you will catch every word right away. See you next time!"
+OUTRO = 'Max has survived his first week, and he\'s still employed. Notice how Russians count off days: "in the first day", "in the second day".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('guest', 'Шеф, извините нас за этот шум.', 'Chef, excuse us for this noise.', [(321, 'Извините нас.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Пошли скорее работать на нашу кухню.', 'Let us head quickly to work in our kitchen.', [(334, 'Пошли.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, excuse us for this noise.' The dining guest graciously apologizes for her companion's drunken outburst."),
-    (1, None, "'Do not worry, this pistol was not real.' She reassures the alarmed chef that the weapon was harmless."),
-    (2, None, "'Here is generous money for these inconveniences.' She hands over compensation for the staff's troubles."),
-    (3, None, "'Thank you, we are glad to help our guests.' Barinov politely accepts the apology and generous payment."),
-    (4, None, "'Runt, come here right now!' The chef turns his attention back to his troublesome new cook."),
-    (5, None, "'Chef, do you want to fire me?' Max nervously asks if his employment has come to an end."),
-    (6, None, "'Let us sum up your first work week.' Barinov begins reciting the astonishing list of workplace catastrophes."),
-    (7, None, "'On the first day you almost poisoned a guest.' The chef recalls the near-fatal unauthorized food swap."),
-    (8, None, "'On the second day you started a brawl in the bar.' The chef details the clash with bartender Kostya."),
-    (9, None, "'You angered our chief art director.' Barinov highlights the ongoing tension between Max and Vika."),
-    (10, None, "'And today you were almost shot!' The chef marvels at the latest bizarre incident with the gun."),
-    (11, None, "'Chef, I promise to work much better.' Max earnestly pleads for another chance to prove his skill."),
-    (12, None, "'Looks like you fit right into the team!' The chef delivers his surprising verdict with dry humor."),
-    (13, None, "'Let us head quickly to work in our kitchen.' Barinov warmly welcomes the newcomer back to the stove."),
+    (0, None, '\'Chef, excuse us for this noise.\' "Excuse us" is the polite command with "us". The reason follows after the little word "za".'),
+    (1, None, '\'Do not worry, this pistol was not real.\' "Don\'t worry" is built on "bez pokoya", without peace. "Real" is the "true love" word.'),
+    (2, None, '\'Here is generous money for these inconveniences.\' "Inconveniences" is "ne" plus "comforts", so it means "discomforts". "Generous" ends in the plural because "money" is plural in Russian.'),
+    (3, None, '\'Thank you, we are glad to help our guests.\' "Glad" has a plural ending, "rady". "Guests" ends in "-am", which means "to".'),
+    (4, None, '\'Runt, come here right now!\' The nickname again. And "go here" stands for "come here".'),
+    (5, None, '\'Chef, do you want to fire me?\' "Do you want to fire" is two short words. "Me" takes the object form.'),
+    (6, None, '\'Let us sum up your first work week.\' "Sum up" is literally "lead up the totals". "Week" changes to "nedeli" in this position.'),
+    (7, None, '\'On the first day you almost poisoned a guest.\' Russians say "in the first day". "Almost" is "barely not", and the guest takes the animate ending, "-ya".'),
+    (8, None, '\'On the second day you started a brawl in the bar.\' It\'s "vo vtoroy", with "vo" not "v", since "vt" is hard to say. "Started a brawl" is "arranged a fight".'),
+    (9, None, '\'You angered our chief art director.\' "Angered" has "zloy", angry, inside. "Chief" is the "main" word.'),
+    (10, None, '\'And today you were almost shot!\' With no subject, "they shot" is how Russians say it when the gunman is unnamed. "Almost" is the "chut\' ne" again.'),
+    (11, None, '\'Chef, I promise to work much better.\' "I promise" is a single word. "Much better" is literally "by much better".'),
+    (12, None, '\'Looks like you fit right into the team!\' Russians say "write yourself into" for "fit in". The first word is "looks like".'),
+    (13, None, '\'Let us head quickly to work in our kitchen.\' "Went" is used as "let\'s go", a favorite trick of Russian. "To our kitchen" ends in -u.'),
 ]

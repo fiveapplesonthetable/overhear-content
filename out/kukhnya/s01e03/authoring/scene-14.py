@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "In the Claude Monet dining room, art director Vika coordinates the floor staff for the climax of the VIP banquet. Waitress Sasha confirms that the banquet table is prepared, the champagne is poured, and the guests are eager to celebrate. With the roasted goose ready to be served, Vika directs the staff to present the centerpiece dish and congratulate the birthday girl. Let's listen to their exchange in Russian first."
-OPENER = "Let's examine the dialogue line by line. Notice the exciting banquet preparations and the celebratory hospitality phrases."
+INTRO = "The big birthday banquet is about to start, and Vika, the art director, is running through her checklist with Sasha, the waitress. The tables are laid, the champagne is ready, and the roast goose is on its way. Here's the Russian first."
+OPENER = "Let's follow the checklist."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika oversees a seamless banquet entrance to maintain Claude Monet's prestigious dining standards. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'dish' — you will catch every word right away. See you next time!"
+OUTRO = 'The banquet begins, and the goose is on its way, small as it is. You\'ve heard "pora", the word for "it\'s time to", which is very handy.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Саша, всё готово к праздничному банкету?', 'Sasha, is everything ready for the festive banquet?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Тогда начинаем праздник на высшем уровне!', 'Then we begin the celebration at the highest level!', [], ''),
 ]
 WALK = [
-    (0, None, "'Sasha, is everything ready for the festive banquet?' Vika checks on the preparations."),
-    (1, None, "'Yes, the guests are already sitting at the table.' Sasha confirms the attendees are seated."),
-    (2, None, "'Has the chef already finished cooking the main dish?' Vika asks about the primary meal."),
-    (3, None, "'The cooks are just now carrying the roasted goose.' Sasha reports the food is on its way."),
-    (4, None, "'Excellent, it is time to congratulate the birthday girl!' Vika signals the start of the celebration."),
-    (5, None, "'Shall we light beautiful candles on the cake?' Sasha asks about the dessert presentation."),
-    (6, None, "'Yes, and open the most expensive champagne.' Vika orders the premium drinks to be served."),
-    (7, None, "'The judge looks very happy today.' Sasha observes the mood of the guest of honor."),
-    (8, None, "'She is a strict person, but loves attention.' Vika comments on the guest's personality."),
-    (9, None, "'Her husband gave her a magnificent bouquet of flowers.' Sasha mentions a gift the guest received."),
-    (10, None, "'I hope our restaurant gives her joy.' Vika wishes for a successful event."),
-    (11, None, "'All the waiters are ready to greet guests with a smile.' Sasha assures the staff is prepared."),
-    (12, None, "'Then we begin the celebration at the highest level!' Vika officially starts the festivities."),
+    (0, None, '\'Sasha, is everything ready for the festive banquet?\' "Ready for" takes a little word, "k", that means "toward", and the banquet changes its ending to match. Vika is ticking items off, the way an art director does.'),
+    (1, None, '\'Yes, the guests are already sitting at the table.\' Russians say the guests sit "behind the table", with the little word "za" and an "-om" ending on "table".'),
+    (2, None, '\'Has the chef already finished cooking the main dish?\' The word for "finished" is built on "konets", end. The main dish ends in "-oye" because "blyudo" is a neuter word.'),
+    (3, None, '\'The cooks are just now carrying the roasted goose.\' "Just now" is two words, literally "as time". The word for "roasted" comes from "pech\'", a stove, so it\'s really "baked".'),
+    (4, None, '\'Excellent, it is time to congratulate the birthday girl!\' Inside "congratulate" you can hear "zdrav-", health, as in the long hello. The birthday girl comes from "name day", with an ending that marks a woman.'),
+    (5, None, '\'Shall we light beautiful candles on the cake?\' Candles go "on the cake", and "cake" ends in -e after "on". "We will light" is a single word.'),
+    (6, None, '\'Yes, and open the most expensive champagne.\' "Samoye" in front gives "the most", and the "-oye" endings match "shampanskoye", which Russians treat as a neuter word.'),
+    (7, None, '\'The judge looks very happy today.\' After "looks", Russian puts "happy" in an "-oy" ending, the same "as" idea, here for a woman. The word comes from "schast\'ye", happiness.'),
+    (8, None, '\'She is a strict person, but loves attention.\' Vika says "chelovek", person, for a woman. It\'s a masculine word, and it covers everyone. "No" is the plain "but".'),
+    (9, None, '\'Her husband gave her a magnificent bouquet of flowers.\' "Podaril" is built on "dar", a gift, so it means "made a gift of". "Of flowers" has its own plural ending.'),
+    (10, None, '\'I hope our restaurant gives her joy.\' The noun for "joy" grows from "rad", glad, so you can hear the link. "Gives" is the same gift word as before, now in the future.'),
+    (11, None, '\'All the waiters are ready to greet guests with a smile.\' "Greet" comes from "meet", the same family as "vstrecha". "With a smile" ends in "-oy", the ending that means "with".'),
+    (12, None, '\'Then we begin the celebration at the highest level!\' "At the highest level" is the stock phrase for top quality. "Highest" is related to the word for "tall".'),
 ]

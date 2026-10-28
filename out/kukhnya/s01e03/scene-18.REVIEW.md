@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Скажите, пожалуйста, это мой праздничный гусь? | Tell me please, is that my festive goose? | #319: Это мой гусь? | verbatim |
+| 1 | Гость | Скажите, пожалуйста, это мой праздничный гусь? | Tell me please, is that my festive goose? | #319 00:20:59: Это мой гусь? | verbatim |
 | 2 | Шеф | Да, это ваш главный заказ сегодня! | Yes, this is your main order today! | new | new |
 | 3 | Шеф | Мы готовили его по старинному рецепту. | We prepared it according to an ancient recipe. | new | new |
 | 4 | Макс | Наш шеф лично проверял каждую деталь. | Our chef personally checked every detail. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me please, is that my festive goose?' The banquet host asks with eager anticipation as the platter arrives.
-- 'Yes, this is your main order today!' Barinov announces the centerpiece dish with theatrical confidence.
-- 'We prepared it according to an ancient recipe.' The head chef adds prestige to the dish by citing tradition.
-- 'Our chef personally checked every detail.' Max supports his mentor by emphasizing the chef's close attention.
-- 'The goose looks and smells simply magnificent!' The delighted diner marvels at the enticing aroma and plating.
-- 'The meat turned out very tender and juicy.' Barinov assures the guest that the texture is completely flawless.
-- 'We served it with apples and herbs.' Max describes the classic culinary accompaniments on the platter.
-- 'My guests will be in total delight!' The patron expresses profound satisfaction with the banquet presentation.
-- 'Our restaurant maintains only the highest standard.' Barinov proudly defends Claude Monet's elite reputation.
-- 'Thank you for the wonderful work, chefs!' The guest graciously thanks the culinary team for their effort.
-- 'Bon appetit to you and your guests!' Barinov delivers the classic parting wish of haute cuisine.
-- 'We hope to see you again at the restaurant.' Max politely welcomes the guest back for future visits.
-- 'Max, quickly get back to the kitchen!' Barinov snaps back into stern chef mode and hustles his rookie inside.
+- 'Tell me please, is that my festive goose?' "Say, please" is the polite way to open a question. Russian has no "is that" here, just "this my goose".
+- 'Yes, this is your main order today!' "Your" is the polite one. "Order" is the word for a customer's order in a restaurant.
+- 'We prepared it according to an ancient recipe.' "Ancient" is built on "old", but it means "of old times". "According to the recipe" uses the little word "po".
+- 'Our chef personally checked every detail.' "Checked" is the kind of verb that means "was checking", a repeated action. "Detail" is borrowed.
+- 'The goose looks and smells simply magnificent!' The word for "magnificent" is built on "great", so it's "greatly". Russians say "looks and smells" in just those words.
+- 'The meat turned out very tender and juicy.' "Turned out" is neuter to match "meat". "Tender and juicy" end in "-ym", because the meat turned out "as" tender.
+- 'We served it with apples and herbs.' "With apples and herbs" shows "-ami", the ending that means "with".
+- 'My guests will be in total delight!' "In delight" is two short words. "Will be" is plural.
+- 'Our restaurant maintains only the highest standard.' The verb is "holds", the same as holding a menu, here "keeps up". "Highest" is related to "tall".
+- 'Thank you for the wonderful work, chefs!' This is the "thank you for" frame. "Cooks" has the plural in "-a" that looks odd.
+- 'Bon appetit to you and your guests!' "Of pleasant appetite", as before. "To you and to your guests" gives both the "to" ending.
+- 'We hope to see you again at the restaurant.' "We hope" ends in "-sya", the little "self". "Again" is a short word.
+- 'Max, quickly get back to the kitchen!' "Quickly" is the "alive" word the chef has used all week. "Back" is the word for "back to where you came from".

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elvira': 'Эльвира', 'vadim': 'Вадим', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "In the dining room of Claude Monet, Vadik tries to corner Vika to talk about their secret relationship. Just as Vika firmly rejects his advances, Vadik's wife Elvira arrives and cheerfully praises Vika for her help, creating a deeply awkward moment. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the conversational expressions, modal phrases, and subtle emotional shifts."
+INTRO = "In the dining room, Vadim corners Vika and tries to talk about their past. Then his wife, Elvira, walks in, delighted with the restaurant and with Vika, who has just helped her. It's a very awkward moment, and Vika plays it cool. Here's the Russian first."
+OPENER = "Let's go through the awkward meeting."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika handles the awkward encounter with grace while Vadik struggles to keep his composure in front of his wife. Great work practicing lively conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'important' — you will catch every word right away. See you next time!"
+OUTRO = 'Vika keeps her composure while Vadim sweats. If you\'re looking for a phrase to take away, "ostav\' menya v pokoye", "leave me in peace", is worth learning.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vadim', 'Вика, нам нужно серьёзно поговорить.', 'Vika, we need to talk seriously.', [(244, 'надо поговорить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Спасибо, я всегда рада помочь вам.', 'Thank you, I am always glad to help you.', [(252, 'помогла')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, we need to talk seriously.' Vadim initiates an important conversation."),
-    (1, None, "'I already told you everything.' Vika dismisses his attempt to talk."),
-    (2, None, "'Come on, don't be angry with me.' Vadim asks her to let go of her anger."),
-    (3, None, "'You know my real feelings.' Vadim reminds her of his true emotions."),
-    (4, None, "'Leave me alone right now!' Vika demands to be left in peace."),
-    (5, None, "'Vadik, darling, there you are!' Elvira joyfully finds her husband."),
-    (6, None, "'We are just discussing an important banquet.' Vadim creates a cover story for their conversation."),
-    (7, None, "'Get acquainted, this is my wife Elvira.' Vadim introduces his spouse."),
-    (8, None, "'And she and I have already met!' Elvira reveals their prior encounter."),
-    (9, None, "'Viktoria Sergeyevna helped me a lot today.' Elvira praises the assistance she received."),
-    (10, None, "'Vadik, good for you for choosing this restaurant!' Elvira approves of the dining location."),
-    (11, None, "'You are my absolute best husband.' Elvira expresses her affection."),
-    (12, None, "'Thank you, I am always glad to help you.' Vika politely responds to the compliment."),
+    (0, None, '\'Vika, we need to talk seriously.\' "To us necessary" is the pattern for "we need". "Seriously" is "ser\'yozno", a word you may have heard before.'),
+    (1, None, '\'I already told you everything.\' Vika is a woman, so "told" ends in "-la". "To you" is a short, friendly word.'),
+    (2, None, '\'Come on, don\'t be angry with me.\' "Enough" starts it, literally "it suffices". "Don\'t be angry" has the "self" ending, and "at me" is a short word.'),
+    (3, None, '\'You know my real feelings.\' "Feelings" is plural in Russian, with "my" matching. "Real" is the "true" word.'),
+    (4, None, '\'Leave me alone right now!\' Russian says "leave me in peace". "In peace" is a single word with an "-e" ending.'),
+    (5, None, '\'Vadik, darling, there you are!\' "Vadik" is a pet form of Vadim, with a small ending. "Milyy" is "sweet", which Elvira uses for "darling". "Here you where" is Russian for "there you are".'),
+    (6, None, '\'We are just discussing an important banquet.\' "Just" is two words, "as time". "Discuss" is built on "judge", the same family as "court".'),
+    (7, None, '\'Get acquainted, this is my wife Elvira.\' The word for "wife" here is formal. The usual one is shorter. "Get acquainted" is the polite command.'),
+    (8, None, '\'And she and I have already met!\' "We with her" is the Russian "she and I". "Met" has the "-lis\'" of "we".'),
+    (9, None, '\'Viktoria Sergeyevna helped me a lot today.\' Russians help "to" a person, so "me" is in the "to me" form. And "helped" ends in "-la", because Vika is a woman.'),
+    (10, None, '\'Vadik, good for you for choosing this restaurant!\' "Molodets" is the "well done" word for praise. "Chose" is built on "take" with "out" in front.'),
+    (11, None, '\'You are my absolute best husband.\' "At me" is used for "in my life" here. "Husband" is a short word, and "the very best" is the "samyy" pattern.'),
+    (12, None, '\'Thank you, I am always glad to help you.\' A woman says "rada", and a man would say "rad". "Help" ends the sentence.'),
 ]

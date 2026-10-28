@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Inside the glamorous dining room of Claude Monet, the high-stakes VIP banquet reaches its long-awaited peak. Chef Viktor Barinov personally escorts the golden roasted goose to the guest of honor, proudly presenting the culinary triumph that nearly cost the kitchen staff their sanity. Let's listen to this proud dining room presentation in Russian first."
-OPENER = "Now let's examine Chef Barinov's proud presentation in the dining room line by line."
+INTRO = "The golden goose arrives at the guest of honour's table, and the chef presents it as though it were a triumph. Max chips in to help, and the guest is thrilled. Here is the Russian first."
+OPENER = "Let's go through the presentation."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the prized goose triumphantly served and the banquet saved from disaster, Barinov and Max return to the kitchen to wrap up an eventful first week. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'The goose is a hit, which no one in the kitchen quite believes. Keep "priyatnogo appetita", the wish before a meal.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('guest', 'Скажите, пожалуйста, это мой праздничный гусь?', 'Tell me please, is that my festive goose?', [(319, 'Это мой гусь?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Макс, живо возвращайся обратно на кухню!', 'Max, quickly get back to the kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Tell me please, is that my festive goose?' The banquet host asks with eager anticipation as the platter arrives."),
-    (1, None, "'Yes, this is your main order today!' Barinov announces the centerpiece dish with theatrical confidence."),
-    (2, None, "'We prepared it according to an ancient recipe.' The head chef adds prestige to the dish by citing tradition."),
-    (3, None, "'Our chef personally checked every detail.' Max supports his mentor by emphasizing the chef's close attention."),
-    (4, None, "'The goose looks and smells simply magnificent!' The delighted diner marvels at the enticing aroma and plating."),
-    (5, None, "'The meat turned out very tender and juicy.' Barinov assures the guest that the texture is completely flawless."),
-    (6, None, "'We served it with apples and herbs.' Max describes the classic culinary accompaniments on the platter."),
-    (7, None, "'My guests will be in total delight!' The patron expresses profound satisfaction with the banquet presentation."),
-    (8, None, "'Our restaurant maintains only the highest standard.' Barinov proudly defends Claude Monet's elite reputation."),
-    (9, None, "'Thank you for the wonderful work, chefs!' The guest graciously thanks the culinary team for their effort."),
-    (10, None, "'Bon appetit to you and your guests!' Barinov delivers the classic parting wish of haute cuisine."),
-    (11, None, "'We hope to see you again at the restaurant.' Max politely welcomes the guest back for future visits."),
-    (12, None, "'Max, quickly get back to the kitchen!' Barinov snaps back into stern chef mode and hustles his rookie inside."),
+    (0, None, '\'Tell me please, is that my festive goose?\' "Say, please" is the polite way to open a question. Russian has no "is that" here, just "this my goose".'),
+    (1, None, '\'Yes, this is your main order today!\' "Your" is the polite one. "Order" is the word for a customer\'s order in a restaurant.'),
+    (2, None, '\'We prepared it according to an ancient recipe.\' "Ancient" is built on "old", but it means "of old times". "According to the recipe" uses the little word "po".'),
+    (3, None, '\'Our chef personally checked every detail.\' "Checked" is the kind of verb that means "was checking", a repeated action. "Detail" is borrowed.'),
+    (4, None, '\'The goose looks and smells simply magnificent!\' The word for "magnificent" is built on "great", so it\'s "greatly". Russians say "looks and smells" in just those words.'),
+    (5, None, '\'The meat turned out very tender and juicy.\' "Turned out" is neuter to match "meat". "Tender and juicy" end in "-ym", because the meat turned out "as" tender.'),
+    (6, None, '\'We served it with apples and herbs.\' "With apples and herbs" shows "-ami", the ending that means "with".'),
+    (7, None, '\'My guests will be in total delight!\' "In delight" is two short words. "Will be" is plural.'),
+    (8, None, '\'Our restaurant maintains only the highest standard.\' The verb is "holds", the same as holding a menu, here "keeps up". "Highest" is related to "tall".'),
+    (9, None, '\'Thank you for the wonderful work, chefs!\' This is the "thank you for" frame. "Cooks" has the plural in "-a" that looks odd.'),
+    (10, None, '\'Bon appetit to you and your guests!\' "Of pleasant appetite", as before. "To you and to your guests" gives both the "to" ending.'),
+    (11, None, '\'We hope to see you again at the restaurant.\' "We hope" ends in "-sya", the little "self". "Again" is a short word.'),
+    (12, None, '\'Max, quickly get back to the kitchen!\' "Quickly" is the "alive" word the chef has used all week. "Back" is the word for "back to where you came from".'),
 ]
