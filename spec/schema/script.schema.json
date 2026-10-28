@@ -15,7 +15,6 @@
     "scene",
     "title",
     "level",
-    "voices",
     "labels",
     "segments",
     "source"
@@ -66,31 +65,13 @@
         "A1 — débutant"
       ]
     },
-    "voices": {
-      "type": "object",
-      "minProperties": 2,
-      "propertyNames": {
-        "pattern": "^[a-z][a-z0-9_]*$"
-      },
-      "additionalProperties": {
-        "enum": [
-          "sky",
-          "alisa",
-          "anja",
-          "angelina",
-          "lucie",
-          "emilie",
-          "theo",
-          "marcel"
-        ]
-      }
-    },
     "labels": {
       "type": "object",
       "additionalProperties": {
         "type": "string",
         "minLength": 1
-      }
+      },
+      "description": "role key -> the character's Russian/French display name; must equal the `ru` value of that key in out/<show>/cast.json. Voices are NOT stored in scripts: the renderer casts voices from cast.json by gender."
     },
     "segments": {
       "type": "array",
@@ -106,7 +87,8 @@
         "properties": {
           "v": {
             "type": "string",
-            "pattern": "^[a-z][a-z0-9_]*$"
+            "pattern": "^[a-z][a-z0-9_]*$",
+            "description": "`narrator`, or a role key that exists in out/<show>/cast.json (the character's own name, e.g. max, barinov; never a viewpoint slot like anya/lea)."
           },
           "t": {
             "type": "string",

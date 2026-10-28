@@ -6,20 +6,20 @@
   python3 tools/validate.py --script FILE.json            # one scene script (examples/*/scene.json)
   options: --require-notes  every target-language line must be annotated (final check)
            --strict         warnings count as errors
+           --all            list every error (default: the first 150 and a tally by kind)
 Exit 0 = clean, 1 = errors. Warnings (e.g. subtitle gaps) are printed but pass unless --strict.
-Checks: spec/*.md describes each rule.
+Checks: spec/*.md describes each rule; FEEDBACK.md "P-1" describes the cast, narrator-name and explanation rules.
 """
 import hashlib, json, re, sys
 from pathlib import Path
 
 SCHEMA_DIR = Path(__file__).resolve().parents[1] / "spec" / "schema"
-SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json"}
+SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json", "cast": "cast.schema.json"}
 LENIENT_VERSION = [False]   # --script mode: examples/ predate the schema (and cannot be edited), so schema errors only warn
 LEX_SEEN = {}               # lang -> field -> lemma -> {value: scene file}; judged by check_lexicon (one lemma, one entry shape)
 LEX_FIELDS = ("pos", "gender", "aspect", "pair", "stress")
 ART_SEEN = {}               # md5 of a scene's art -> scenes using it; judged by check_art (one picture per scene)
-CHAR_KEYS = {}              # show -> character label -> {role key: scene id}; judged by check_voices
-CHAR_VOICES = {}            # show -> character label -> {voice: scene id}; filled by check_script, judged by check_voices
+TEMPLATE_SEEN = {}          # show -> explanation skeleton -> [(where, scene id)]; judged by check_templates (whole show)
 PLACEHOLDER_SUMMARY = ("The characters discuss their situation", "ENG ")
 FAREWELL = {"ru": re.compile(r"Пока|До свидания|До встречи|До завтра|До скорого|До скорой|Увидимся|Всего (хорошего|доброго)|Счастливо|Хорошего дня|Спокойной ночи|Прощайте|Удачи", re.I),
             "fr": re.compile(r"À bientôt|Au revoir|À demain|À plus|À tout à l'heure|À la prochaine|Salut|Bonne (soirée|journée|nuit)|Bonsoir|Bon courage", re.I)}
@@ -27,8 +27,6 @@ SCHEMA_ERR_CAP = 8          # per file; the rest is summarised ("and N more")
 
 ROOT = Path(__file__).resolve().parents[1]
 SHOWS = {"kukhnya": "ru", "domashniy-arest": "ru", "dix-pour-cent": "fr"}
-VOICES = {"ru": {"narrator": "sky", "anya": "alisa", "_other": {"anja", "angelina"}},
-          "fr": {"narrator": "sky", "lea": "lucie", "_other": {"emilie", "theo", "marcel"}}}
 PAIR = {"ru": "ru-en", "fr": "fr-en"}
 CYR = re.compile(r"[Ѐ-ӿ]")
 LAT = re.compile(r"[A-Za-z]")
@@ -152,38 +150,31 @@ def target_ok(lang, text, where, rep):
         if "«" in text or "»" in text: rep.err(where, "guillemets in a spoken line")
 
 
-def check_script(path, lang, rep, expect_id=None):
+def check_script(path, lang, rep, expect_id=None, cast=None):
+    """cast = {role key: cast.json entry} of the show, or None (--script mode: no cast checks)."""
     w = str(path)
     try: d = json.loads(Path(path).read_text(encoding="utf-8"))
     except Exception as e: return rep.err(w, f"not valid JSON: {e}")
     check_schema(d, "script", w, rep)
-    for k in ("id", "pair", "title", "level", "voices", "labels", "segments", "source"):
+    for k in ("id", "pair", "title", "level", "labels", "segments", "source"):
         if k not in d: rep.err(w, f"missing field {k!r}")
-    if "segments" not in d or "voices" not in d: return None
+    if "segments" not in d: return None
     if expect_id and d.get("id") != expect_id: rep.err(w, f"id should be {expect_id!r}, is {d.get('id')!r}")
     if d.get("pair") != PAIR[lang]: rep.err(w, f"pair should be {PAIR[lang]!r}")
-    v, segs = d["voices"], d["segments"]
-    want = VOICES[lang]
-    if v.get("narrator") != want["narrator"]: rep.err(w, "voices.narrator must be 'sky'")
-    roles = [r for r in v if r != "narrator"]
-    prot = [r for r in want if r not in ("narrator", "_other")][0]
-    # (the protagonist slot `anya`/`lea` is no longer mandatory: a character keeps its own role key and voice, see FEEDBACK.md)
-    for r in roles:
-        if r == prot and v[r] != want[prot]: rep.err(w, f"role {prot!r} must use voice {want[prot]!r}")
-        if r != prot and v[r] not in want["_other"]: rep.err(w, f"voice {v[r]!r} for role {r!r} must be one of {sorted(want['_other'])}")
-    if len(set(v.values())) != len(v): rep.err(w, "each role needs its own voice")
-    for r, vc in v.items():
-        lab = d.get("labels", {}).get(r)
-        if r != "narrator" and lab: CHAR_KEYS.setdefault(re.sub(r"-s\d\de\d\d.*", "", str(d.get("id"))), {}).setdefault(lab, {}).setdefault(r, d.get("id"))
-        if r != "narrator" and lab: CHAR_VOICES.setdefault(re.sub(r"-s\d\de\d\d.*", "", str(d.get("id"))), {}).setdefault(lab, {}).setdefault(vc, d.get("id"))
+    segs = d["segments"]
+    if not isinstance(segs, list) or not all(isinstance(s, dict) and isinstance(s.get("v"), str) for s in segs):
+        return rep.err(w, "segments must be a list of {v, t, gap}")
+    roles = sorted({s["v"] for s in segs if s["v"] != "narrator"})
+    labels = d.get("labels") if isinstance(d.get("labels"), dict) else {}
+    check_cast_use(w, roles, labels, cast, rep)
     if len(roles) > 3: rep.err(w, "at most three speaking roles besides the narrator")
     for r in roles:
-        if r not in d.get("labels", {}) and r != prot: rep.err(w, f"labels missing display name for role {r!r}")
-    if not isinstance(segs, list) or len(segs) < 20: return rep.err(w, "segments missing or too short (a scene has ~60-80)")
+        if r not in labels and not (cast is None and r in SLOT_KEYS):       # (--script mode: examples/ predate cast.json and labels)
+            rep.err(w, f"labels missing display name for role {r!r}")
+    if len(segs) < 20: return rep.err(w, "segments missing or too short (a scene has ~60-80)")
     for i, s in enumerate(segs):
         sw = f"{w} segment {i}"
         if not isinstance(s, dict) or not {"v", "t", "gap"} <= set(s): rep.err(sw, "needs v, t, gap"); continue
-        if s["v"] not in v: rep.err(sw, f"role {s['v']!r} not in voices")
         if not isinstance(s["t"], str) or not s["t"].strip(): rep.err(sw, "empty text"); continue
         if not isinstance(s["gap"], (int, float)) or not 0 <= s["gap"] <= 3: rep.err(sw, "gap must be 0..3 seconds")
         if ACUTE in s["t"]: rep.err(sw, "stress mark in text (stress belongs only in stress fields)")
@@ -212,6 +203,8 @@ def check_script(path, lang, rep, expect_id=None):
         if not FAREWELL[lang].search(segs[-1]["t"]) or len(segs[-1]["t"].split()) > 6:
             rep.err(w, f"last segment must be a short farewell (Пока! / До свидания! / À bientôt!), not a story line: {segs[-1]['t'][:50]!r}")
         if sum(1 for s in segs[j:k] if s["v"] == "narrator") < 3: rep.warn(w, "walk-through (part 3) looks missing")
+    check_narration(w, d, cast, rep, getattr(cast, "other", frozenset()))
+    check_explanations(w, d, d.get("show") or str(d.get("id", "")).split("-s")[0], cast, rep)
     src = d.get("source", {})
     sf = ROOT / src.get("file", "")
     if not src.get("file") or not sf.is_file(): rep.err(w, f"source.file missing or not found: {src.get('file')}")
@@ -224,6 +217,219 @@ def check_script(path, lang, rep, expect_id=None):
             elif squash(ln.get("fragment", "")) not in squash(c[2]):
                 rep.err(w, f"fragment {ln.get('fragment')!r} not in cue {ln['cue']}: {c[2][:60]!r}")
     return d
+
+
+# ---------------------------------------------------------------- cast, narrator names, explanations (FEEDBACK.md P-1)
+SLOT_KEYS = {"anya", "lea", "lead", "hero", "heroine", "protagonist", "viewpoint", "main", "extra", "narrator"}
+_CAST = {}
+
+
+class Cast(dict):
+    """{role key: cast entry}; .other = non-character proper nouns the narration may use (cast.json other_names)."""
+    other = frozenset()
+_WORDS = []
+
+
+def cast_names(entry):
+    """Single-word name tokens a cast entry allows in English narration ('Viktor Barinov' allows Viktor and Barinov)."""
+    return {t for form in entry["en"] for t in re.findall(r"[^\W\d_][\w'’-]*", form)}
+
+
+def load_cast(showdir, rep):
+    """-> {key: entry} from <show>/cast.json, or None when missing/invalid (the error is reported once per file)."""
+    f = Path(showdir) / "cast.json"
+    if f in _CAST: return _CAST[f]
+    out = None
+    if not f.is_file():
+        rep.err(str(f), "missing cast.json (one entry per character: key, ru, en, gender); see FEEDBACK.md P-1")
+    else:
+        try: c = json.loads(f.read_text(encoding="utf-8"))
+        except Exception as e: c = None; rep.err(str(f), f"not valid JSON: {e}")
+        if c is not None:
+            sch = load_schema("cast")
+            errs = schema_errors(c, sch, sch)
+            for e in errs[:SCHEMA_ERR_CAP]: rep.err(str(f), f"schema: {e}")
+            if not errs:
+                out, seen_ru, seen_en = Cast(), {}, {}
+                out.other = frozenset(t for n in c.get("other_names", []) for t in WORD.findall(n))
+                if c["show"] != Path(showdir).name: rep.err(str(f), f"show {c['show']!r} does not match the folder")
+                for e in c["cast"]:
+                    k = e["key"]
+                    if k in out: rep.err(str(f), f"key `{k}` listed twice"); continue
+                    if k in SLOT_KEYS: rep.err(str(f), f"key `{k}` is a viewpoint/protagonist slot, not a character: use the character's own name (max, barinov, ...)")
+                    out[k] = e
+                    if e["ru"] in seen_ru: rep.err(str(f), f"`{k}` and `{seen_ru[e['ru']]}` have the same display name {e['ru']!r}: one character = one key")
+                    seen_ru.setdefault(e["ru"], k)
+                    for t in {t for t in cast_names(e) if t[:1].isupper()} - {"Chef"}:        # the bare title "Chef" is shared by design
+                        if t in seen_en and seen_en[t] != k: rep.err(str(f), f"English name {t!r} belongs to both `{seen_en[t]}` and `{k}`")
+                        seen_en.setdefault(t, k)
+    _CAST[f] = out
+    return out
+
+
+def check_cast_use(w, roles, labels, cast, rep):
+    """Every role key is a cast.json key and its label is the cast.json `ru` name."""
+    if cast is None: return
+    for r in roles:
+        if r not in cast:
+            rep.err(w, f"role key `{r}` is not in cast.json" + (" (viewpoint slot keys are not allowed; use the character's own name)" if r in SLOT_KEYS else ""))
+        elif labels.get(r) is not None and labels[r] != cast[r]["ru"]:
+            rep.err(w, f"label for `{r}` is {labels[r]!r}, cast.json says {cast[r]['ru']!r}")
+    for r in labels:
+        if r not in cast: rep.err(w, f"labels has key `{r}` which is not in cast.json")
+
+
+def common_words():
+    if not _WORDS:
+        f = Path(__file__).with_name("narration_words.txt")
+        _WORDS.append(set(f.read_text(encoding="utf-8").split()) if f.is_file() else set())
+    return _WORDS[0]
+
+
+GLOSS = re.compile(r"^'(.+?)'(?=\s|$)\s*(.*)$", re.S)
+TRANSITION_TAIL = re.compile(r"\s*Now let's listen to the whole.*$|\s*Now let's hear.*$", re.S)
+WORD = re.compile(r"[^\W\d_][\w'’-]*", re.U)
+NOT_NAMES = {"Japanese", "Italian", "Georgian", "Chinese", "American", "British", "Korean", "Alright", "Season", "Episode", "I", "I'm", "I'll", "I've", "I'd", "Russian", "Russians", "French", "English", "Moscow", "Russia", "France", "Paris", "Claude", "Monet",
+             "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Cyrillic", "Mr", "Mrs", "Dr", "OK", "Okay", "Kukhnya"}
+
+
+def split_gloss(seg_text):
+    """'<gloss>' explanation -> (gloss, explanation without a trailing 'Now let's listen...'), or None."""
+    m = GLOSS.match(seg_text.strip())
+    return (m[1], TRANSITION_TAIL.sub("", m[2]).strip()) if m else None
+
+
+def explanations(segs):
+    """[(segment index, gloss, explanation)]: the narrator segments that follow a spoken line and start with its quoted gloss."""
+    out = []
+    for i in range(1, len(segs)):
+        if segs[i]["v"] == "narrator" and segs[i - 1]["v"] != "narrator" and isinstance(segs[i].get("t"), str):
+            g = split_gloss(segs[i]["t"])
+            if g: out.append((i, g[0], g[1]))
+    return out
+
+
+def unquote(text):
+    """Replace quoted spans ('...' and "...") by Q."""
+    return re.sub(r'(?:(?<=\s)|^)\'.*?\'(?=[\s.,;:!?]|$)|"[^"]*"|\u201c[^\u201d]*\u201d', "Q", text)
+
+
+def strip_possessive(tok): return re.sub(r"['’]s?$", "", tok)
+
+
+def narration_names(text, known, extra=frozenset()):      # extra: allowed non-character proper nouns (cast.json other_names, show title)
+    """Capitalised name-like tokens in narrator text outside quoted glosses: [(token, is_cast_name)].
+    A capitalised word counts as a name if it is a cast name, or its lowercase form is not an ordinary English word
+    (tools/narration_words.txt, built from the corpus) and it is not in NOT_NAMES / extra."""
+    out, initial = [], True
+    for m in re.finditer(r"[^\W\d_][\w'’-]*|[.!?:]", unquote(text)):
+        if m[0] in ".!?:": initial = True; continue
+        t, was_initial, initial = strip_possessive(m[0]), initial, False
+        if not t[:1].isupper() or len(t) < 2 or t.isupper() or t in NOT_NAMES or t in extra: continue
+        if t in known: out.append((t, True))
+        elif t.lower() in common_words(): continue
+        elif was_initial and len(t) >= 7 and re.search(r"(ed|ing|ly|ive|ous|ful|ial|ean|ent|ant|ble|ists?|ness|less|ic|al)$", t): continue      # "Huddled", "Yearning": ordinary words that open a sentence
+        else: out.append((t, False))
+    return out
+
+
+GRAMMAR_END = (r"nouns?|verbs?|adjectives?|adverbs?|pronouns?|prepositions?|conjunctions?|particles?|participles?|infinitives?|imperatives?|"
+               r"tenses?|aspects?|cases?|nominative|genitive|dative|accusative|instrumental|prepositional|locative|vocative|superlative|comparative|"
+               r"perfective|imperfective|reflexive|subjunctive|conditional|gerund|clauses?|constructions?|phrases?|forms?|moods?|voice|"
+               r"negation|declension|conjugation|predicate|modal|diminutive|possessive|interrogative|exclamation|expression")
+GRAMMAR_ENDING = re.compile(rf"\b(?:with|using|via)\b(?:\s+[\w'’-]+){{0,8}}?\s+(?:{GRAMMAR_END})\s*[.!?…]*\s*$", re.I)
+GRAMMAR_TERM = re.compile(r"\b(?:nouns?|verbs?|adjectives?|adverbs?|pronouns?|prepositions?|conjunctions?|particles?|participles?|infinitives?|"
+                          r"imperatives?|tenses?|aspects?|nominative|genitive|dative|accusative|instrumental|prepositional case|locative|vocative|"
+                          r"superlative|comparative|perfective|imperfective|reflexive|subjunctive|conditional|gerund|declension|conjugation|"
+                          r"conjugated|declined|grammatical|grammar)\b", re.I)
+GRAMMAR_DENSITY_MAX = 0.30      # share of a scene's explanations that may use a grammar term (FEEDBACK.md says about one in five)
+GRAMMAR_DENSITY_MIN_N = 4       # scenes with fewer explanations are not judged
+SKEL_WORDS = 6                  # words of the normalised explanation that make the skeleton
+SKEL_MIN_WORDS = 6              # explanations shorter than this cannot be matched to a template
+# TEMPLATE_MAX: a skeleton (first 6 words, quotes -> Q, names -> N, lower-cased) may appear at most this many times in
+# one show; every line beyond that is a fill-in-the-blank template. Tuning, measured on Kukhnya on 2026-10-28 (30,298
+# explanations of >= 6 words, 4,119 distinct skeletons): 4,014 skeletons occur fewer than 5 times (that is what hand-written
+# openings look like: even "He means that ..." / "This is the ..." / "It sounds ..." stay in single digits); 37 skeletons occur
+# 100-2,100 times each (the generated templates, ~20,000 lines); 25 sit in between at 16-40 uses (553 lines, all of them
+# template variants such as "N uses the informal everyday Q"). The three hand-written gold scenes (s01e02 scene-01..03)
+# have 39 explanations and 39 different skeletons. 15 is the first value above the natural cluster that still catches the
+# in-between variants; below it (e.g. 5) a show with 1,000+ lines would trip on honest repeats like "He means that ...".
+TEMPLATE_MAX = 15
+
+
+def skeleton(expl, names=frozenset()):
+    """Normalised opening of an explanation: Q for quoted spans, N for names, lower-case, first SKEL_WORDS words."""
+    text = unquote(expl)
+    toks, prev_end = [], True
+    for m in re.finditer(r"Q(?![\w'’])|[^\W\d_][\w'’-]*|[.!?…]", text):
+        t = m[0]
+        if t in ".!?…": prev_end = True; continue
+        base = strip_possessive(t)
+        if t == "Q": toks.append("Q")
+        elif base[:1].isupper() and (not prev_end or base in names or base.lower() not in common_words()): toks.append("N")
+        else: toks.append(base.lower())
+        prev_end = False
+    out = []
+    for t in toks:
+        if t == "N" and out and out[-1] == "N": continue       # "Chef Barinov" is one N
+        out.append(t)
+    return " ".join(out[:SKEL_WORDS]), len(out)
+
+
+def check_narration(w, d, cast, rep, other=frozenset()):
+    """Narrator names must match the people who speak; the speaker's grammar must match the cast gender."""
+    segs, roles = d["segments"], {s["v"] for s in d["segments"] if s["v"] != "narrator"}
+    if cast is None: return
+    known = set().union(*(cast_names(e) for e in cast.values())) if cast else set()
+    show_words = set(re.findall(r"[A-Za-z]+", str(d.get("show", "")).replace("-", " ").title())) | other
+    for i, s in enumerate(segs):
+        if s["v"] != "narrator" or not isinstance(s.get("t"), str): continue
+        sw = f"{w} segment {i}"
+        for tok, is_cast in narration_names(s["t"], known, show_words):
+            if not is_cast: rep.err(sw, f"narration names {tok!r}, who is not a character in cast.json (nor an ordinary word); fix the name or add the character")
+        prev = segs[i - 1] if i else None
+        if prev and prev["v"] != "narrator" and prev["v"] in cast:
+            g = split_gloss(s["t"])
+            if g:
+                first = WORD.search(g[1])
+                tok = strip_possessive(first[0]) if first else None
+                if tok and tok in known and tok not in cast_names(cast[prev["v"]]):
+                    who = [k for k, e in cast.items() if tok in cast_names(e)]
+                    rep.err(sw, f"narration says {tok!r} did this but the line was spoken by `{prev['v']}` ({cast[prev['v']]['en'][0]}); {tok!r} is `{who[0]}`")
+    # grammar follows gender (heuristic, warning only): a masculine speaker's "я ... -ла" past tense
+    for i, s in enumerate(segs):
+        e = cast.get(s["v"])
+        if e and e["gender"] == "m" and isinstance(s.get("t"), str):
+            m = re.search(r"\b[Яя]\s+(?:[^\s.!?…]+\s+){0,2}?(\w+ла)\b(?![-\w])", s["t"])
+            if m and m[1].lower() not in FEM_NOUNS: rep.warn(f"{w} segment {i}", f"`{s['v']}` is male but says {m[1]!r} (feminine past tense?): {s['t'][:50]!r}")
+
+
+FEM_NOUNS = {"школа", "скала", "игла", "стрела", "мгла", "метла", "пила", "мула", "гора", "дыра"}   # "-ла" words that are not past-tense verbs
+
+
+def check_explanations(w, d, show, cast, rep):
+    """P-1 problem 2: no grammar-label endings, no reused templates, little grammar jargon. Fills TEMPLATE_SEEN."""
+    segs = d["segments"]
+    names = set().union(*(cast_names(e) for e in cast.values())) if cast else set()
+    ex = explanations(segs)
+    gram = 0
+    for i, gloss, expl in ex:
+        if GRAMMAR_ENDING.search(unquote(expl)):
+            rep.err(f"{w} segment {i}", f"explanation ends with a grammar label ('with/using ... <grammar term>'): ...{expl[-60:]!r}")
+        if GRAMMAR_TERM.search(unquote(expl)): gram += 1
+        sk, n = skeleton(expl, names)
+        if n >= SKEL_MIN_WORDS: TEMPLATE_SEEN.setdefault(show, {}).setdefault(sk, []).append((f"{w} segment {i}", d.get("id")))
+    if len(ex) >= GRAMMAR_DENSITY_MIN_N and gram / len(ex) > GRAMMAR_DENSITY_MAX:
+        rep.err(w, f"{gram} of {len(ex)} explanations ({100 * gram // len(ex)}%) use grammar terms; at most {int(GRAMMAR_DENSITY_MAX * 100)}% (aim for one in five)")
+
+
+def check_templates(rep):
+    """A skeleton used more than TEMPLATE_MAX times in one show is a fill-in-the-blank template: error on every line using it."""
+    for show, sk in sorted(TEMPLATE_SEEN.items()):
+        for k, uses in sorted(sk.items()):
+            if len(uses) > TEMPLATE_MAX:
+                for where, _ in uses:
+                    rep.err(where, f"explanation is a reused template ({len(uses)} uses in {show}, max {TEMPLATE_MAX}): skeleton {k!r}")
 
 
 # ---------------------------------------------------------------- notes
@@ -322,18 +528,6 @@ def webp_size(path):
     return None
 
 
-KEY_EXEMPT = {"ru": {"anya"}, "fr": {"lea"}}     # the protagonist slot needs no entry of its own
-_KEYS = {}
-
-
-def characters_keys(showdir):
-    """Role keys written in backticks in <show>/characters.md (None if there is no such file)."""
-    f = Path(showdir) / "characters.md"
-    if not f.is_file(): return None
-    if f not in _KEYS: _KEYS[f] = set(re.findall(r"`([a-z][a-z0-9_]*)`", f.read_text(encoding="utf-8")))
-    return _KEYS[f]
-
-
 def check_art(rep):
     """Every scene gets its own picture: byte-identical art in two scenes is an error."""
     dup = [v for v in ART_SEEN.values() if len(v) > 1]
@@ -348,20 +542,6 @@ def check_lexicon(rep):
             if bad:
                 ex = "; ".join(f"{k}: {' vs '.join(vals)}" for k, vals in sorted(bad.items())[:4])
                 rep.errors.insert(0, f"lexicon ({lang}): {len(bad)} lemmas have conflicting {f} across scenes; e.g. {ex}")
-
-
-def check_voices(rep):
-    """One voice and one role key per character per show: the same label may not use two voices or two role keys."""
-    for show, labs in sorted(CHAR_KEYS.items()):
-        bad = {lab: ks for lab, ks in labs.items() if len(ks) > 1}
-        if bad:
-            ex = "; ".join(f"{lab}: {', '.join(f'`{k}` ({sid})' for k, sid in sorted(ks.items()))}" for lab, ks in sorted(bad.items())[:5])
-            rep.errors.insert(0, f"{show}: {len(bad)} characters appear under more than one role key (one character = one key); e.g. {ex}")
-    for show, labs in sorted(CHAR_VOICES.items()):
-        bad = {lab: vs for lab, vs in labs.items() if len(vs) > 1}
-        if bad:
-            ex = "; ".join(f"{lab}: {', '.join(f'{vc} ({sid})' for vc, sid in sorted(vs.items()))}" for lab, vs in sorted(bad.items())[:5])
-            rep.errors.insert(0, f"{show}: {len(bad)} characters are read by more than one voice (a character keeps one voice for the whole show); e.g. {ex}")
 
 
 # ---------------------------------------------------------------- episode
@@ -382,6 +562,7 @@ def check_scenes(epdir, show, rep):
     if not srt.is_file(): srt = srt.with_name(f"e{en}.{lang}.srt")      # Russian-only Whisper transcript (no English)
     cue = parse_srt(srt) if srt.is_file() else {}
     if not cue: rep.err(w, f"source subtitles missing: {srt.relative_to(ROOT)}")
+    cast = load_cast(epdir.parent, rep)
     prev_end = None
     for k, s in enumerate(scenes, 1):
         sw = f"{w} scene {k}"
@@ -403,12 +584,8 @@ def check_scenes(epdir, show, rep):
             sp = epdir / f"scene-{n}.json"
             if not sp.is_file(): rep.err(sw, f"missing scene-{n}.json")
             else:
-                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}")
+                d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}", cast=cast)
                 if d is not None:
-                    keys = characters_keys(epdir.parent)
-                    for r in d["voices"]:
-                        if r != "narrator" and keys is not None and r not in keys and r not in KEY_EXEMPT[lang]:
-                            rep.err(sw, f"role key `{r}` is not in {show}/characters.md (add a line \"Story role key / voice: `{r}` -> voice\")")
                     out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not a - 2 <= cue[ln["cue"]][0] <= b + 2]
                     if out: rep.err(sw, f"{len(out)} source cues lie outside this scene's time range {s['start']}-{s['end']} (first: cue {out[0]}); tie lines only to cues of the scene")
                     notes = epdir / f"scene-{n}.notes.json"
@@ -444,8 +621,9 @@ LIST_CAP = 150          # errors listed in full; beyond that a tally by kind
 
 def main(argv):
     REQ[0] = "--require-notes" in argv
-    CHAR_VOICES.clear(); CHAR_KEYS.clear(); LEX_SEEN.clear(); ART_SEEN.clear()
+    TEMPLATE_SEEN.clear(); LEX_SEEN.clear(); ART_SEEN.clear()
     strict = "--strict" in argv
+    show_all = "--all" in argv
     LENIENT_VERSION[0] = "--script" in argv
     args = [a for a in argv if not a.startswith("--")]
     rep = Report()
@@ -461,13 +639,13 @@ def main(argv):
             show = ep.parent.name
             if show not in SHOWS: rep.err(str(ep), f"show folder must be one of {sorted(SHOWS)}"); continue
             check_scenes(ep, show, rep)
-    check_voices(rep)
+    check_templates(rep)
     check_lexicon(rep)
     check_art(rep)
     for x in rep.warnings[:LIST_CAP]: print("WARN ", x)
     if len(rep.warnings) > LIST_CAP: print(f"... {len(rep.warnings) - LIST_CAP} more warnings")
-    for x in rep.errors[:LIST_CAP]: print("ERROR", x)
-    if len(rep.errors) > LIST_CAP:
+    for x in rep.errors[:None if show_all else LIST_CAP]: print("ERROR", x)
+    if len(rep.errors) > LIST_CAP and not show_all:
         tally = {}
         for x in rep.errors:
             k = re.sub(r"\d+", "N", x.split(": ", 1)[-1])[:60]

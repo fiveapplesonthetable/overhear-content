@@ -3,6 +3,173 @@
 From the Overhear side. Read this before touching anything else. Everything here is about one goal: **we ingest your
 output exactly as it is, with zero manual fixing.** Today we cannot, for the reasons below.
 
+## P-1 (blocking, from Zim's listen). Read this before anything else; it outranks every other item in this file
+
+Zim listened to the rendered Kukhnya S1E2 scenes and found two things wrong. Both are now enforced by `tools/validate.py`
+(new checks, with unit tests in `tests/test_validate.py`). **New episodes must pass P-1 from the first line they write.**
+Whoever picks up the existing corpus does P-1 first, before P0/P1/P2 below, and before any new episode.
+
+The commands (run the unit tests first, the full validator before every push):
+
+    python3 -I -m unittest discover -s tests
+    python3 -I tools/validate.py out --require-notes > /tmp/v.txt; tail -1 /tmp/v.txt      # must end "OK: 0 errors"
+    python3 -I tools/validate.py out/kukhnya/s01e02 --require-notes                         # one episode while you work
+    python3 -I tools/validate.py out --require-notes --all                                  # every error, not just the first 150
+
+Per-episode runs judge the template check only within that episode; the show-wide count (the real test) needs the full
+`out` run. The three finished gold scenes below pass everything, so copy their tone and approach.
+
+### Problem 1: the speaker's name, role key and voice did not match the person
+
+Zim heard the narrator say "Max" and "Kostya" while the voice and role key belonged to somebody else. Causes found:
+- `anya` (voice `alisa`) was a *viewpoint slot*: Макс in s01e02 scenes 01-02 but Вика, Настя or Баринов in other scenes. 919
+  Kukhnya scripts use `anya`, 1,017 use `chef`. Across the corpus 1,433 scenes use the `anya` or `lea` slot.
+- `alisa` was also a separate character (Алиса, Barinov's daughter).
+- Male characters (Макс, Костя, Шеф) were given the female voices `alisa`, `anja`, `angelina`: voices were picked by slot, not by character.
+- Narration said "Max ..." for a line that Nastya spoke (1,025 such lines found in Kukhnya).
+
+**The rules (all enforced):**
+
+1. **One character = one role key, everywhere in a show.** The key is the character's own name in lowercase Latin: `max`,
+   `barinov`, `kostya`, `nastya`, `vika`, `nagiyev`, ... **There are no viewpoint or protagonist slot keys at all**:
+   `anya` and `lea` are no longer allowed or exempt (nor `lead`, `hero`, `protagonist`, `viewpoint`, `main`, `extra`).
+   The viewpoint of a scene is whoever the story is about; they get their own name like everybody else.
+2. **Every show has a cast file `out/<show>/cast.json`** (schema `spec/schema/cast.schema.json`). Kukhnya's exists
+   (`out/kukhnya/cast.json`, 58 characters); **`domashniy-arest` and `dix-pour-cent` still need theirs** (the validator
+   reports `missing cast.json` for both until they exist). Shape:
+
+       {"schemaVersion": 1, "show": "kukhnya",
+        "other_names": ["Claude Monet", "Arcobaleno", "Spartak"],
+        "cast": [
+          {"key": "max",     "ru": "Макс", "en": ["Max", "Maksim", "Lavrov", "Maksim Lavrov"], "gender": "m"},
+          {"key": "barinov", "ru": "Шеф",  "en": ["Barinov", "Viktor", "Chef", "Viktor Barinov"], "gender": "m"},
+          {"key": "nastya",  "ru": "Настя", "en": ["Nastya", "Fomina"], "gender": "f"}]}
+
+   - `key`: the role key. `ru`: the display name exactly as it appears in `labels` (for French shows: the French display name).
+   - `en`: **every name the English narration may use** for that character. The first is the canonical one; add accepted short forms
+     (Max / Maksim / Lavrov; Barinov / Viktor / Chef). A multi-word form allows each of its words on its own.
+   - `gender`: `m` or `f`. It drives the voice (the renderer's job, see rule 3) and grammar agreement (rule 7).
+   - `other_names` (optional): non-character proper nouns the narration may use (restaurants, places, football clubs).
+   - Two keys may not share a `ru` name, and two characters may not share an English name (that is the "same person, two
+     keys" bug: e.g. `chef` and `barinov` both "Шеф" is an error, so `chef` must go).
+   - One-scene extras are fine ("Гость", "Врач", "Продавец"): give them a key and a gender like anybody else.
+3. **Scripts carry no `voices` map.** `voices` is removed from `script.schema.json` (it is an error now). Voice casting is
+   done by the renderer from `cast.json` by `gender`; do not decide voices anywhere. `tools/compose.py` no longer writes or
+   needs `VOICES`; delete `VOICES` from authoring modules when you touch them.
+4. **`labels` must equal the cast.json `ru` value** for each speaking key, and every speaking key must be in `cast.json`.
+5. **Names in the narration match the people.** Every capitalised name in narrator text (outside quoted glosses and
+   double-quoted words) must be a name of a character in `cast.json`, or be listed in `other_names`; anything else is
+   an error (this catches `Victor`, `Leva`, `Dima`, `Maks`, `Nagiev`, `Barani` and other spellings that are not in the cast;
+   either use the cast spelling or add the accepted form to that character's `en`).
+   And in the walk-through, narration of the form `'<gloss>' <Name> ...` that follows a line spoken by key K must name
+   K's character (one of its `en` words), or use a pronoun / "the chef" / "the waitress". "Max said it" after a line
+   Nastya spoke is an error. If the validator says narration names X but the line is Y's, **read the source cue** to see
+   who really says it, then fix the narration or the speaker (and then the label); do not just rename blindly.
+6. `characters.md` is prose for humans (appearance for the art). It no longer defines keys or voices; `cast.json` does.
+   (Kukhnya's `characters.md` is already updated.) Write the same prose for the other shows when you make their `cast.json`.
+7. **Grammar follows gender** (warning only, heuristic): if `cast.json` says `m`, a first-person Russian past-tense line
+   ("Я ... -ла") from that speaker is flagged, e.g. `kostya`: "Я слышала, тебе очень нужны деньги." Fix the Russian to the
+   speaker's gender (слышал) or give the line to the right character. If you change a story line, the notes `words` for it
+   (and its replays) must change too; the story is replayed unchanged in part 4.
+
+**Migration recipe for existing scenes** (this part can be scripted, then read the diffs): for each script, for each role
+key K with `labels[K] = L`, the new key is the cast key whose `ru` is L (`anya`/Макс -> `max`, `anya`/Вика -> `vika`,
+`chef`/Шеф -> `barinov`, ...); rename `v` in every segment, rewrite `labels`, delete `voices`; update `CLOSING` and the
+`STORY` roles in `authoring/scene-NN.py`, delete `VOICES`, re-run `tools/compose.py`. Notes files are keyed by segment index and
+usually need no change. A scene whose label does not match who really speaks (the viewpoint-slot bug) needs a human read.
+Counts today (Kukhnya): 911 scripts use a slot key (`anya`), 1,016 use `chef`, 3,533 files still carry `voices`.
+
+### Problem 2: the narration sounds robotic
+
+Zim: "why does every sentence end with the part of speech", "its so robotic feeling". He is right. About 20,000 of the
+46,259 gloss explanations are fill-in-the-blank templates. The skeletons that follow the quoted gloss (counts from the
+validator, Kukhnya): "Here the N phrasing highlights 'Q' before..." (2,123), "The meaning hinges on 'Q' working together" (2,052), "Notice how N expresses 'Q' and 'Q'..." (2,015),
+"N keeps this brisk, leaning on..." (2,002), "In N the idea of 'Q' flows..." (1,956), "The grammar packs 'Q' and 'Q' into..." (1,863),
+"Notice how naturally this everyday Russian phrase..." (1,452), "N anchors the line on 'Q', while 'Q' completes the thought" (~2,300),
+"N brings out the contrast between..." (~1,950), "Russian omits the present-tense verb" (528), "pairs Q with Q directly", and so on. And the habit of ending
+an explanation with a grammar label: "...with a past tense verb and duration phrase", "...using a superlative accusative adjective",
+"...with an imperfective verb". (They came in with the 2026-10-28 upstream commits 381227cd, 083c7eb3, e447433a, ...)
+
+**What an explanation is.** After a replayed line comes its English gloss in quotes, then the explanation. The explanation
+sounds like a person talking: a good teacher, or a podcast host explaining a scene to a friend. It says **what the line means
+in this moment of the story**, and it points out **at most one useful thing about the Russian or French, in plain words,
+only when it actually helps** (an idiom, a literal translation that shows how the language thinks, a word that does a
+surprising job, the formal/informal "you"). The bar is: "Hanging one's nose is the classic Russian idiom for looking gloomy."
+
+**The rules (all enforced):**
+
+1. **No grammar-label endings.** An explanation must not end with `with|using|via ... <grammatical term>.`
+   (noun, verb, adjective, adverb, pronoun, particle, tense, aspect, case names, infinitive, imperative, superlative,
+   construction, phrase, form, clause, ...). Error on that line.
+2. **No reused templates.** The validator normalises each explanation (quoted spans -> `Q`, names -> `N`, lower-case) and
+   takes its first 6 words as a skeleton. **A skeleton used more than 15 times in a show is an error on every line that uses it.**
+   Changing the quoted words or the names does not help, and swapping one adjective for another in the same sentence skeleton
+   will be caught too. (Why 15: see the comment at `TEMPLATE_MAX` in `tools/validate.py`; honest openings such as "He means that..."
+   stay in single digits, the generated templates occur 100-2,100 times.)
+3. **Grammar terms only when the term itself is the point being taught.** At most 30% of a scene's explanations may contain a
+   grammar term (verb, noun, tense, aspect, case names, ... ); **aim for about one in five**, and fewer is better. Error above 30%.
+4. **Vary the shape.** Some lines need nothing beyond the gloss plus a story beat ("He isn't even angry yet: the chef had money on this.").
+   Some give the literal translation. Some explain a word. Some say how a character feels. Do not give every line the same
+   structure, and do not give every line a language note.
+5. Not enforced, but required: explain what *this* line does in *this* scene, in your own words; no "Notice how naturally this
+   everyday Russian phrase..." filler; no names that do not match the speaker (Problem 1); no invented plot; English only
+   (transliterate Russian words, e.g. "zato", "oguzok"; no Cyrillic in narrator lines); A1-friendly, short sentences; the
+   narrator is calm and friendly, no hype.
+
+**This cannot be done by a script.** Rewriting roughly 20,000 explanations has to be done by actually writing them: read the
+scene (the story, the source cues in the `.srt`), then write each explanation for that line. **Do not make another template
+generator** (a script that fills a list of sentence skeletons with the gloss words would just move the problem; the detector
+will flag it, and Zim will hear it). Do it scene by scene, like the three gold scenes: `authoring/scene-NN.py` -> `WALK`
+(only the text after the gloss changes; keep the quoted gloss first), `OPENER`, `OUTRO`, `INTRO` if they are formulaic, then
+`python3 tools/compose.py out/<show>/sNNeNN/authoring/scene-NN.py --out out/<show>/sNNeNN/scene-NN.json` and the validator.
+The story lines, notes and pictures stay as they are (the notes only need changes if you edit a story line).
+
+**Bad (real, from the original s01e02 scene-01/02/03) vs good (the rewritten gold scenes):**
+
+| before | after |
+|---|---|
+| 'Our chef cooks the most delicious food.' Notice how naturally this everyday Russian phrase expresses the speaker's point. | 'Our chef cooks the most delicious food.' Max sounds proud. Saying "our chef" rather than "the chef" makes him sound like part of the family already. |
+| 'Guests think this is the most peaceful place.' Max contrasts customer impressions with a superlative phrase. | 'Guests think this is the most peaceful place.' These are the guests' illusions: out in the dining room, everything looks calm. Max says it with a little wink. |
+| 'Lavrov, you are two hours late!' The chef confronts Max with a past tense verb and duration phrase. | 'Lavrov, you are two hours late!' Barinov doesn't say "Max". He uses the surname, the way a stern boss puts you in your place. The two hours are the whole problem. |
+| 'Now go to work immediately, oguzok!' Barinov barks his signature insult using command form verbs. | 'Now go to work immediately, oguzok!' "Oguzok" is Barinov's nickname for Max. It's actually a cut of meat from the rear of the animal, so the chef is calling him scraps. |
+| 'Chef, I have a very urgent question.' Notice how naturally this everyday Russian phrase expresses the speaker's point. | 'Chef, I have a very urgent question.' Nastya doesn't flinch. In Russian she says "at me is a very urgent question" rather than "I have": the question sits with her. |
+| 'Why do you speak so unfairly?' Nastya challenges his statement with an adverb of manner. | 'Why do you speak so unfairly?' She uses the formal "you" even while disagreeing, which is how a waitress objects to her boss. |
+| 'And we simply pour them wine.' Notice how naturally this everyday Russian phrase expresses the speaker's point. | 'And we simply pour them wine.' That is Kostya's job in one line. The tiny word for "simply" is the shrug in the sentence. |
+
+Other real "bad" lines from the corpus the validator now flags: "Max replies with a single verb form meaning 'here we go'..."; "The chef lists the missing
+skills with paired infinitives."; "Kostya finds the silver lining using an impersonal negative construction."; "Elena uses the
+first-person pronoun in the case required by the Russian verb or preposition."; "...agrees in gender and number with its noun."
+
+**Gold scenes (finished, pass the full validator, do not edit):** `out/kukhnya/s01e02/scene-01.json`, `scene-02.json`,
+`scene-03.json` with their `authoring/scene-0N.py`. They use the keys `max` (m), `kostya` (m), `barinov` (m, label Шеф), `nastya` (f);
+the narration never names the wrong speaker; none of the 39 explanations uses a grammar term at the end or a repeated shape; each has at most one plain-word note about the Russian. Copy their approach: read, understand the beat, say it like a person.
+
+### Where we stand (full validator over `out`, 2026-10-28, after adding P-1)
+
+`FAIL: 38,621 errors, 3,115 warnings`. By kind (the rest of the file's older items are unchanged and currently hidden behind these):
+
+| errors | kind | fix |
+|---|---|---|
+| 25,869 | explanation is a reused template (Kukhnya) | rewrite the explanation (Problem 2) |
+| 584 / 36 | same, dix-pour-cent / domashniy-arest | same |
+| 3,533 | `voices` field still in scripts | delete it (Problem 1, rule 3) |
+| 1,936 | `labels` has a key that is not in cast.json (`chef` 1,017, `anya` 919) | migrate keys (recipe above) |
+| 1,927 | speaking role key not in cast.json (`chef` 1,016, `anya` 911 slot keys) | same |
+| 1,734 | narration names someone not in cast.json (Victor 22, Leva 22, Dima 18, Maks 12, Nagiev 11, Cyprus 15, Sun Tzu, ...) | use the cast spelling, add the form to `en`, or list real places/teams in `other_names` |
+| 1,025 | narration names the wrong speaker | decide who speaks from the source, fix text or speaker |
+| 1,020 | scene uses grammar terms in > 30% of its explanations | rewrite in plain words |
+| 954 | explanation ends in a grammar label | rewrite |
+| 2 | `missing cast.json` (dix-pour-cent, domashniy-arest) | write the cast files |
+| 1 | art: 154 pictures shared by 341 scenes (older item) | regenerate pictures |
+
+Warnings: 219 Kukhnya lines where a male speaker uses a feminine first-person past ("Я пробовала" by `senya`): fix when you pass by.
+Domashniy Arest and Dix pour cent will show many more cast/name errors once their `cast.json` exists.
+
+Older items below that P-1 supersedes: rule 4 and rule 5 of "New rules" (voices and `anya`/`lea` exemptions), and sections 7 and 8
+(Voices and role keys; `characters.md` coverage). Everything else still stands.
+
+---
+
 ## Read this first
 
 - The output is **complete**: 59 episodes (Kukhnya 23, Domashniy Arest 12, Dix pour cent 24), 1617 scripts, 1617
@@ -39,10 +206,8 @@ output exactly as it is, with zero manual fixing.** Today we cannot, for the rea
 3. **Closing line.** The last segment of every script is a short, new farewell by a speaking role: `Пока!`,
    `До свидания!`, `До встречи!`, `Хорошего дня!`, `Всего хорошего!`, `À bientôt!`, `Au revoir!`, `À demain!`, `Bonne
    soirée!` (max 6 words). Never a repeat of a story line.
-4. **One voice and one role key per character per show.** The label (the character's name in `labels`) decides: same
-   label, same role key, same voice, in every scene of the show. See "Voices" below.
-5. **`characters.md` lists every role key** a script uses, as `Story role key / voice: \`key\` -> voice`, backticked.
-   `anya` / `lea` are exempt (see Voices).
+4. **SUPERSEDED by P-1.** One role key per character per show (the character's own name), from `cast.json`; no voices in scripts.
+5. **SUPERSEDED by P-1.** Role keys are defined in `out/<show>/cast.json`; `characters.md` is prose only.
 6. **Source ties stay inside the scene.** Every `source.lines[].cue` lies inside that scene's `start`-`end` (2 s slack).
    `source.file` is the sidecar you used (`.dual.srt`, or `eNN.ru.srt` for Russian-only episodes).
 7. **Annotation tokens.** `words[].t` are the segment text split on whitespace, one entry per token, in order; nothing
@@ -130,7 +295,7 @@ which none of those lines is built from. Re-tie each such line to the cue it rea
 drop it from `source.lines` if it is new text. If the story as a whole is not from the scene's cues, that is a P2
 faithfulness problem (see Content).
 
-### 7. Voices and role keys (show-wide)
+### 7. Voices and role keys (show-wide). SUPERSEDED by P-1: ignore the fix recipe below, follow P-1
 Counts of characters (labels) read by more than one voice / appearing under more than one role key:
 Kukhnya 27 / 27, Domashniy Arest 39 / 30, Dix pour cent 53 / 51. Cause: the `anya` / `lea` slot was used for "whoever is
 the viewpoint of this scene", so the same person is `anya`/alisa in one scene and `chef`/anja in another (Kukhnya
@@ -149,7 +314,7 @@ Fix (Voices):
    `theo`, `marcel`.) At most 3 speaking roles per scene stays.
 `validate.py` reports both counts per show at the top of the error list, with examples.
 
-### 8. `characters.md` coverage (Kukhnya 36 role keys missing, Domashniy Arest 49, Dix 97; 963 uses)
+### 8. `characters.md` coverage. SUPERSEDED by P-1 (keys live in cast.json) (Kukhnya 36 role keys missing, Domashniy Arest 49, Dix 97; 963 uses)
 Biggest: Dix `gabriel` (207 uses), `mathias` (168), `herve` (43), `colette`, `camille`, `andrea`, `arlette`, `noemie`;
 Kukhnya `leva` (34), `guest` (32), `nagiev`, `dmitry`; Domashniy Arest `sokolov`, `viktor`, `arkady`. Add each as a
 section (or one line in an "Extras" list for one-scene characters): name, label, how to draw them, and the line
@@ -256,11 +421,14 @@ Done by script (all checked in, each with its output in a separate commit): `too
 the app validator (`--require-notes`): **lenient 3536 of 3536 scenes pass, strict 3157 of 3536**. Re-run the scripts on any new episode
 (`migrate_v1.py`, `fix_tokens.py`, `fill_stress.py`, `fix_invariable_forms.py`, `fix_placeholder_narration.py`; all idempotent).
 
-Still failing strictly, none of it mechanical:
-- **Closing line (379 scripts).** Needs a new farewell segment and its annotation entry per script (item 5).
-- **Source ties outside the scene (18 scripts)** (item 6) and **role keys missing from `characters.md`** (item 8). Writing
-  the character entries needs a human decision about who each extra is.
-- **Show-wide**: voices and role keys (item 7), lexicon conflicts (item 10), duplicated pictures (item 11).
+Update 2026-10-28 (after the Domashniy Arest remediation merge and the tools below): **strict 3536 of 3536 scenes pass**
+(app validator without `--lenient`); `tools/validate.py out --require-notes` reports 1 error. Before: strict 3157 of 3536 and
+461 errors under both validators. `tools/add_farewells.py` (closing farewell; 379 scripts) and `tools/fix_source_cues.py`
+(18 scripts: 2 citations re-tied, 61 dropped because no cue of the scene contains them) are idempotent; re-run them on new
+episodes. Role keys, voices and lexicon: 0 errors (characters.md now covers every key in use; the keys `gost`, `leva`, `shef`,
+`vrach`, `sokolov`, `nagiev` no longer occur: the rewrite uses other keys).
+
+Still failing: **art**, 154 pictures shared by 341 scenes (the pictures are being regenerated; not touched).
 
 ## Needs human (not done on purpose)
 
