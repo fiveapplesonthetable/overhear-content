@@ -10,38 +10,28 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "At the start of the day, the hostess finds Chef Barinov and tells him that the restaurant's owner is waiting for him. Barinov wonders what he wants. First the Russian, and don't worry about catching every word."
-OPENER = "Now we'll take it apart."
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Barinov goes to find out, and asks for coffee to be brought. 'Excited', 'vzvolnovannyy', comes from 'wave', which makes sense. See you next time!"
-CLOSING = ('barinov', 'До свидания!')
+INTRO = "Back at the restaurant, Barinov has let the owner's calls ring all morning, and now he walks in. Here it is in Russian."
+OPENER = 'Here are the lines up close.'
+TRANSITION = 'And the whole exchange again.'
+OUTRO = 'So Barinov goes to face the owner. Most Russian names have a friendly short form, and Dima is the one for Dmitry. See you next time!'
+CLOSING = ('hostess', 'Удачи!')
 STORY = [
     ('hostess', 'Здравствуйте.', 'Hello.', [(152, 'Здравствуйте.')], ''),
     ('barinov', 'Доброе утро.', 'Good morning.', [], ''),
-    ('hostess', 'Шеф, вас ожидают.', 'Chef, they are waiting for you.', [], ''),
-    ('barinov', 'Кто меня ждет?', 'Who is waiting for me?', [], ''),
-    ('hostess', 'Дмитрий Владимирович вас ждёт.', 'Dmitry Vladimirovich is waiting for you.', [], ''),
-    ('barinov', 'Нагиев здесь?', 'Nagiyev is here?', [], ''),
+    ('hostess', 'Дима тебя ждёт.', 'Dima is waiting for you.', [(153, 'Дима тебя ждет.')], ''),
+    ('barinov', 'Дима? Он здесь?', 'Dima? He is here?', [], ''),
     ('hostess', 'Да, он за своим столом.', 'Yes, he is at his table.', [], ''),
     ('barinov', 'Что он хочет?', 'What does he want?', [], ''),
     ('hostess', 'Я не знаю.', 'I do not know.', [], ''),
-    ('barinov', 'Обычно он сначала звонит.', 'He usually calls first.', [], ''),
-    ('hostess', 'Он кажется очень взволнованным.', 'He seems very excited.', [], ''),
     ('barinov', 'Хорошо, я иду.', 'Okay, I am coming.', [], ''),
-    ('barinov', 'Принеси ему немного кофе.', 'Bring him some coffee.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello.' The long formal hello, with a silent 'v' at the start. The hostess uses the polite form."),
-    (1, None, "'Good morning.' 'Morning' is neuter, so 'good' carries 'oe'. A short, friendly reply."),
-    (2, None, "'Chef, they're waiting for you.' 'You' goes first, as 'vas'. 'They await' has no 'they'."),
-    (3, None, "'Who's waiting for me?' 'Who' comes first. 'Waits' carries 't', for 'he'."),
-    (4, None, "'Dmitry Vladimirovich is waiting for you.' She uses his first name and patronymic. 'You' is the polite form."),
-    (5, None, "'Is Nagiyev here?' There's no 'is'. The question lives on the rising voice."),
-    (6, None, "'Yes, he's at his table.' 'Behind his own table' is how Russian says 'at his table'. 'His own' points back to the owner."),
-    (7, None, "'What does he want?' 'He wants' is irregular. 'What' sits at the front."),
-    (8, None, "'I don't know.' One of the shortest sentences you can say. 'I know' finishes with 'u'."),
-    (9, None, "'He usually rings first.' 'Usually' carries 'o'. 'First' is just one word."),
-    (10, None, "'He seems very agitated.' 'Seems' is one word, and 'agitated' comes from 'wave'. It ends in 'ym' because it follows 'seems'."),
-    (11, None, "'Okay, I'm coming.' 'I go' is a short word with a 'u' ending. A quick reply."),
-    (12, None, "'Bring him some coffee.' 'Bring' is the friendly command. 'To him' is 'emu', and coffee never changes."),
+    (0, None, "'Hello.' This is the long polite hello, zdravstvuyte, and in speech the first v is silent: zdrastvuyte."),
+    (1, None, "'Good morning.' Russian says dobroe utro. The word utro, 'morning', is neuter, so dobroe, 'good', ends in -oe."),
+    (2, None, "'Dima's waiting for you.' The name Dima is the friendly short form of Dmitry, and here it means the owner. The word tebya, 'you', comes before zhdyot, 'is waiting'."),
+    (3, None, "'Dima? He's here?' Russian drops 'is' here: on zdes is literally 'he here'."),
+    (4, None, "'Yes, he's at his table.' Russian says za stolom, literally 'behind the table', for sitting at one."),
+    (5, None, "'What does he want?' The word khochet, 'he wants', comes from khotet, 'to want', which shifts its sounds: khochu is 'I want'."),
+    (6, None, "'I don't know.' Russian puts ne, 'not', straight in front of the action: ya ne znayu."),
+    (7, None, "'Okay, I'm coming.' Russian says ya idu, literally 'I am going', where English says 'I'm coming'."),
 ]

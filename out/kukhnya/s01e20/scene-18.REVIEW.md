@@ -11,33 +11,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Я хотел тебе кое-что сказать. | I wanted to tell you something. | #292 00:19:42: хотел тебе кое-что сказать | verbatim |
-| 2 | Костя | Я хочу. | I want... | #293 00:19:49: Я хочу | verbatim |
-| 3 | Костя | Чтобы ты стала моей женой. | For you to be my wife. | #294 00:19:51: Ты стала моей женой | verbatim |
-| 4 | Настя | С ума сошёл, что ли? | Have you lost your mind? | #295 00:19:57: С ума сошел, что ли? Богу, бери | verbatim |
-| 5 | Костя | Чего? Чего? | What? What? | #296 00:20:00: Чего? Чего | verbatim |
-| 6 | Костя | Сама говорила, что каждый день это новый шаг. | You said yourself that every day is a new step. | #297 00:20:02: Сама говорила, что каждый день это новый шаг | verbatim |
-| 7 | Настя | Костя, я имела в виду знакомство с родителями. | Kostya, I meant meeting the parents. | #298 00:20:06: Костя, я имела в виду знакомство с родителями | verbatim |
-| 8 | Настя | А не это. | Not this. | #298 00:20:06: а не это | verbatim |
-| 9 | Настя | У меня по плану этот шаг только через год. | I had this step planned for a year from now. | #299 00:20:09: У меня по плану этот шаг только через год | verbatim |
-| 10 | Костя | Что, есть какой-то план? | What, you have a plan? | #300 00:20:12: Что, есть какой-то план | verbatim |
-| 11 | Настя | Да, есть. | Yes, I do. | #300 00:20:12: Да, есть | verbatim |
-| 12 | Настя | А ты его сейчас чуть не разрушил. | And you nearly destroyed it just now. | #301 00:20:14: А ты его сейчас чуть не разрушил | verbatim |
-| 13 | Костя | Прости меня, пожалуйста. | Forgive me, please. | new | new |
-| 14 | Настя | Я прощаю тебя. | I forgive you. | new | new |
+| 2 | Костя | Я хочу, чтобы ты стала моей женой. | I want you to be my wife. | #293 00:19:49: Я хочу<br>#294 00:19:51: Ты стала моей женой | verbatim |
+| 3 | Настя | С ума сошёл, что ли? | Have you lost your mind? | #295 00:19:57: С ума сошел, что ли | verbatim |
+| 4 | Костя | Чего? Чего? | What? What? | #296 00:20:00: Чего? Чего | verbatim |
+| 5 | Костя | Сама говорила, что каждый день это новый шаг. | You said yourself that every day is a new step. | #297 00:20:02: Сама говорила, что каждый день это новый шаг | verbatim |
+| 6 | Настя | Костя, я имела в виду знакомство с родителями. | Kostya, I meant meeting the parents. | #298 00:20:06: Костя, я имела в виду знакомство с родителями | verbatim |
+| 7 | Настя | А не это. | Not this. | #298 00:20:06: а не это | verbatim |
+| 8 | Настя | У меня по плану этот шаг только через год. | I had this step planned for a year from now. | #299 00:20:09: У меня по плану этот шаг только через год | verbatim |
+| 9 | Костя | Что, есть какой-то план? | What, there's some kind of plan? | #300 00:20:12: Что, есть какой-то план | verbatim |
+| 10 | Настя | Да, есть. | Yes, there is. | #300 00:20:12: Да, есть | verbatim |
+| 11 | Настя | А ты его сейчас чуть не разрушил. | And you nearly ruined it just now. | #301 00:20:14: А ты его сейчас чуть не разрушил | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to tell you something.' 'Something' is built from two pieces, 'koe' and 'what'. 'Wanted' carries 'l' for a man.
-- 'I want...' He starts and stops. 'I want' is irregular.
-- 'For you to be my wife.' 'In order that' is followed by a past form: 'chtoby you became'. 'My wife' takes an 'oy' ending.
-- 'Have you lost your mind?' 'Went off from mind' is the idiom for 'lost your mind'. The tag 'chto li' means 'or what'.
-- 'What? What?' 'Chego' is the casual way to say 'what?'. It sounds like 'huh?'.
-- 'You said yourself that every day is a new step.' 'Yourself' carries 'a' for a woman. 'Every day' is two words, with no 'is' between.
-- 'Kostya, I meant meeting the parents.' 'I had in view' is how Russian says 'I meant'. 'Acquaintance' stands for 'meeting'.
-- 'Not this.' The word 'a ne' means 'and not'. It contrasts the two ideas.
-- 'In my plan this step was only a year away.' 'By plan' uses 'po' and a 'u' ending. 'In a year' is 'through a year'.
-- 'What, you have a plan?' 'Some' is made with a tail, 'to'. 'What' at the start is a casual way to ask.
-- 'Yes, I do.' Nastya repeats 'there is' as her answer. That's how Russians say yes.
-- 'And you nearly wrecked it.' 'Nearly' is made with 'chut ne'. 'Wrecked' finishes with 'l', for a man.
-- 'Forgive me, please.' 'Forgive' is the informal order. 'Me' takes the 'a' form.
-- 'I forgive you.' The Russian for 'I forgive' is from the same family as 'goodbye'. 'You' takes the 'a' form.
+- 'I wanted to tell you something.' Russian builds koe-chto, 'something', from koe plus chto, 'what', and khotel ends in -l because a man is speaking.
+- 'I want you to be my wife.' Russian says khochu, chtoby ty stala, literally 'I want that you became', with the past form after chtoby.
+- 'Have you lost your mind?' The phrase s uma soshyol literally means 'went off from the mind', and chto li adds 'or what?'.
+- 'What? What?' Kostya says chego, a casual 'what?', and in Russian the g here sounds like v: 'chevo'.
+- 'You said yourself that every day is a new step.' The word sama, 'yourself', ends in -a because he is talking to a woman.
+- 'Kostya, I meant meeting the parents.' Russian says imela v vidu, literally 'had in view', for 'meant', and znakomstvo means 'getting acquainted'.
+- 'Not this.' Russian sets one thing against another with a ne, 'and not', rather than a whole new sentence.
+- 'I had this step planned for a year from now.' Russian says po planu, 'by the plan', and cherez god, literally 'through a year', for 'a year from now'.
+- 'What, there's some kind of plan?' The word kakoy-to means 'some kind of', and the -to shows he doesn't know which.
+- 'Yes, there is.' Nastya echoes his word: da, yest, literally 'yes, there is', rather than a bare 'yes'.
+- 'And you nearly ruined it just now.' Russian says chut ne, literally 'a little not', for 'nearly'.

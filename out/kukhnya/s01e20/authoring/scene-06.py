@@ -10,36 +10,28 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Nastya catches Kostya at the restaurant and tells him they must talk. He tries to put it off, but she won't let him. Here it is in Russian."
-OPENER = "Now we'll look at each line."
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "Kostya gives in at last. 'Soskuchilsya po tebe', 'I missed you', literally says 'I got bored for you', which is the Russian way of missing someone. See you next time!"
-CLOSING = ('kostya', 'До свидания!')
+INTRO = 'A little later Nastya tries again, and this time Kostya changes the subject. Here it is in Russian.'
+OPENER = 'Now the pieces, one by one.'
+TRANSITION = 'And again, the whole thing.'
+OUTRO = "Another escape: change the subject, just as Max told him. A compliment like ty takaya krasivaya, 'you're so beautiful', is a classic way to do it. See you next time!"
+CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('nastya', 'Костя, нам надо поговорить.', 'Kostya, we have to talk.', [(138, 'Нам надо поговорить.')], ''),
-    ('kostya', 'Это может подождать?', 'Can it wait?', [], ''),
-    ('nastya', 'Нет, это важно.', 'No, it is important.', [], ''),
-    ('kostya', 'Настя, я так по тебе соскучился.', 'Nastya, I have missed you so much.', [], ''),
-    ('nastya', 'Пожалуйста, послушай меня.', 'Please, listen to me.', [], ''),
-    ('kostya', 'Я тебя слушаю.', 'I am listening to you.', [], ''),
-    ('nastya', 'Наши отношения развиваются быстро.', 'Our relationship is moving fast.', [], ''),
-    ('kostya', 'Я думаю, это отлично.', 'I think this is great.', [], ''),
-    ('nastya', 'Но нам надо обсудить наше будущее.', 'But we need to discuss our future.', [], ''),
-    ('kostya', 'У нас есть много времени.', 'We have a lot of time.', [], ''),
-    ('nastya', 'Нет, время пришло сейчас.', 'No, the time is now.', [], ''),
-    ('kostya', 'Хорошо, я готов поговорить.', 'Okay, I am ready to talk.', [], ''),
+    ('nastya', 'Костя, нам надо поговорить.', 'Kostya, we need to talk.', [(138, 'Нам надо поговорить.')], ''),
+    ('kostya', 'Настя, я так по тебе соскучился.', 'Nastya, I have missed you so much.', [(139, 'Настя, я так по тебе соскучился.')], ''),
+    ('nastya', 'Мы с тобой виделись утром.', 'We saw each other this morning.', [], ''),
+    ('kostya', 'Ты сегодня такая красивая.', 'You look so beautiful today.', [], ''),
+    ('nastya', 'Спасибо. Но нам надо поговорить.', 'Thank you. But we need to talk.', [], ''),
+    ('kostya', 'Давай поговорим потом, хорошо?', 'Let us talk later, okay?', [], ''),
+    ('nastya', 'Ты опять убегаешь от разговора.', 'You are running away from the conversation again.', [], ''),
+    ('kostya', 'Нет, у меня просто много работы.', 'No, I just have a lot of work.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, we need to talk.' 'To us necessary' is the pattern. 'To talk' is the plain form."),
-    (1, None, "'Can it wait?' 'Can' is a short word ending in 't' for 'it'. 'Wait a while' is the plain form."),
-    (2, None, "'No, it's important.' 'Important' is used here as a describing word that finishes with 'o'. There's no 'is'."),
-    (3, None, "'Nastya, I've missed you so much.' Russians say 'I got bored for you', with the small word 'po'. 'You' takes the 'e' ending."),
-    (4, None, "'Please, listen to me.' 'Listen' is the finished command. 'Please' is the longer word."),
-    (5, None, "'I'm listening to you.' 'Listen' is the on-purpose word. 'You' takes the 'a' form."),
-    (6, None, "'Our relationship is moving fast.' 'Relationship' is plural, so 'develop' is plural too. The 'sya' ending means 'develop themselves'."),
-    (7, None, "'I think it's great.' 'I think' carries 'yu'. 'Great' finishes with 'o'."),
-    (8, None, "'But we need to discuss our future.' 'Future' is neuter, so 'our' finishes with 'e'. 'Discuss' is a once-and-done action."),
-    (9, None, "'We have plenty of time.' After 'many', 'time' takes a different ending, 'i'. 'At us there is' stands for 'we have'."),
-    (10, None, "'No, the time has come now.' The line is 'the time has come', in the neuter form. 'Now' ends the sentence."),
-    (11, None, "'Okay, I'm ready to talk.' 'Ready' is a short masculine form. 'To talk' is the plain form."),
+    (0, None, "'Kostya, we need to talk.' Russian says nam nado, 'to us it is necessary', rather than 'we need'."),
+    (1, None, "'Nastya, I've missed you so much.' Russian misses 'along' someone: po tebe. The word soskuchilsya comes from skuchat, 'to be bored'."),
+    (2, None, "'We saw each other this morning.' The -sya ending in videlis makes it 'saw each other'. The word utrom, 'in the morning', is utro with the ending -om."),
+    (3, None, "'You look so beautiful today.' Russian has no 'look' here: ty takaya krasivaya, literally 'you are such beautiful'."),
+    (4, None, "'Thanks. But we need to talk.' She repeats nam nado pogovorit word for word."),
+    (5, None, "'Let's talk later, okay?' The word davay with a 'we' form, pogovorim, makes 'let's'. The word potom means 'later'."),
+    (6, None, "'You're running away from the conversation again.' The word ubegaesh, 'you run away', is built from u-, 'away', and begat, 'to run'."),
+    (7, None, "'No, I just have a lot of work.' After mnogo, 'a lot of', rabota, 'work', changes its ending to raboty."),
 ]

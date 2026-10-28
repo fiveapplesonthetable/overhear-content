@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Kostya has not understood a word of Nastya's talk about staircases, so he asks Max what it meant. Max explains, and then Kostya learns what Vika has sent Max. Here's the Russian, start to finish."
-OPENER = "Let's go over what we just heard."
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "Max has a ring photo and a year's wages to find, and Kostya has a wedding to worry about. Notice the colloquial 'chyo', a casual way to say 'what'. See you next time!"
-CLOSING = ('max', 'До свидания!')
+INTRO = "Back at the restaurant, Kostya repeats Nastya's staircase talk to Max and admits he didn't follow a word. Then a picture arrives on Max's phone from Vika. Here's the Russian, start to finish."
+OPENER = 'Now the lines one at a time.'
+TRANSITION = 'Once more, all the way through.'
+OUTRO = "Max's advice is simple: pretend you didn't understand. Notice chyo, the everyday way to say chto, 'what'. See you next time!"
+CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Настя сказала, что мы идём по лестнице.', 'Nastya said that we are walking on a staircase.', [(79, 'поднимаемся по какой-то лестнице')], ''),
-    ('kostya', 'И если мы остановимся, то разобьёмся.', 'And if we stop, then we will break.', [(79, 'можем разбиться')], ''),
+    ('kostya', 'И если мы остановимся, то разобьёмся.', 'And if we stop, we will crash.', [(79, 'можем разбиться')], ''),
     ('kostya', 'Я ничего не понял.', 'I did not understand anything.', [(81, 'ничего не понял')], ''),
     ('max', 'А чё ты не понял?', 'And what did you not understand?', [(82, 'чё ты не понял')], ''),
     ('max', 'Она тебе на свадьбу намекает.', 'She is hinting at a wedding to you.', [(82, 'на свадьбу намекает')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Мне на него год работать надо.', 'I need to work a year for it.', [(97, 'Мне на него год работать надо')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya said that we're climbing a staircase.' 'Said that' is two words. 'Staircase' is feminine and goes after a small word."),
-    (1, None, "'And that if we stop we'll smash ourselves up.' The word for 'smash' carries 'sya', and the 'we' ending marks the future. 'If' opens the condition."),
-    (2, None, "'I didn't understand a thing.' The words 'nothing' and 'not' appear together. The word for 'understood' finishes with 'l', for a man."),
-    (3, None, "'What didn't you understand?' The casual 'chyo' stands for 'what'. 'A' at the start means 'and'."),
-    (4, None, "'She's hinting at a wedding.' The word for 'hint' goes with 'on', so it hints 'on' a wedding. The word for 'wedding' takes a 'u' ending."),
-    (5, None, "'Come on, are you serious?' 'Da ladno' means something like 'no way'. The word for 'serious' becomes 'seriously' with an 'o' ending."),
-    (6, None, "'Pretend you didn't understand anything.' The phrase is 'make a look', and the word for 'make' is the casual command."),
-    (7, None, "'But I really didn't understand anything.' 'I tak' means 'anyway' or 'as it is'. It sits before the 'nothing'."),
-    (8, None, "'Well, then you won't even have to lie.' The Russian for 'will have to' has no subject, so it's 'to lie it will not come'. 'To you' sits at the front."),
-    (9, None, "'What is it? What did she send?' 'What there' is the casual question. 'Sent' finishes with 'a' and has a prefix meaning 'toward'."),
-    (10, None, "'She sent me a photo of a beautiful ring.' The word 'photo' never changes. 'Of a beautiful ring' needs an 'ogo' and an 'a'."),
-    (11, None, "'She's hinting at an expensive present.' The word for 'hints' goes with 'on', again. The word for 'expensive' takes 'oy' after 'on'."),
-    (12, None, "'I'd have to work for a year to afford it.' 'To me on it a year to work' is the order. 'On it' picks up an 'n', so it's 'na nego'."),
+    (0, None, "'Nastya said that we're walking up a staircase.' After po, 'along', lestnitsa takes the ending -e: po lestnitse, just as in her own words."),
+    (1, None, "'And if we stop, we'll crash.' The pair esli ... to means 'if ... then'. The word razobyomsya, 'we'll crash', is a future form with the -sya ending."),
+    (2, None, "'I didn't understand a thing.' Russian doubles the negative: nichego ne ponyal, literally 'nothing not understood'."),
+    (3, None, "'So what didn't you get?' In casual speech Russian says chyo for chto, 'what'."),
+    (4, None, "'She's hinting at a wedding.' Russian hints 'on' something: namekat na, so svadba, 'wedding', changes its ending to svadbu."),
+    (5, None, "'No way, are you serious?' The phrase da ladno literally means 'yes, fine', but here it says 'come on, really?'."),
+    (6, None, "'Pretend you didn't understand anything.' The phrase sdelay vid literally means 'make a look', and it's the Russian for 'pretend'."),
+    (7, None, "'But I really didn't understand anything.' Here i tak means 'as it is' or 'already': he doesn't even need to pretend."),
+    (8, None, "'Well there, you won't even have to lie.' The phrase ne pridyotsya, 'it won't be necessary', takes tebe, literally 'to you', rather than ty."),
+    (9, None, "'What is it? What did she send?' The word chego is a casual chto, 'what'. In prislala, 'sent', the -la ending shows the sender is a woman."),
+    (10, None, "'She sent me a photo of a beautiful ring.' After foto, 'photo of', krasivoe koltso, 'beautiful ring', changes both endings: krasivogo koltsa, 'of a beautiful ring'."),
+    (11, None, "'She's hinting at an expensive present.' Again namekat na, 'hint at', and podarok, 'present', keeps the same form after na. The word dorogoy means both 'expensive' and 'dear'."),
+    (12, None, "'I'd have to work a year for it.' Russian says mne nado, 'to me it is necessary'. The phrase na nego, 'for it', means 'to pay for it'."),
 ]

@@ -10,30 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Костя, нам надо поговорить. | Kostya, we have to talk. | #138 00:08:28: Нам надо поговорить. | verbatim |
-| 2 | Костя | Это может подождать? | Can it wait? | new | new |
-| 3 | Настя | Нет, это важно. | No, it is important. | new | new |
-| 4 | Костя | Настя, я так по тебе соскучился. | Nastya, I have missed you so much. | new | new |
-| 5 | Настя | Пожалуйста, послушай меня. | Please, listen to me. | new | new |
-| 6 | Костя | Я тебя слушаю. | I am listening to you. | new | new |
-| 7 | Настя | Наши отношения развиваются быстро. | Our relationship is moving fast. | new | new |
-| 8 | Костя | Я думаю, это отлично. | I think this is great. | new | new |
-| 9 | Настя | Но нам надо обсудить наше будущее. | But we need to discuss our future. | new | new |
-| 10 | Костя | У нас есть много времени. | We have a lot of time. | new | new |
-| 11 | Настя | Нет, время пришло сейчас. | No, the time is now. | new | new |
-| 12 | Костя | Хорошо, я готов поговорить. | Okay, I am ready to talk. | new | new |
+| 1 | Настя | Костя, нам надо поговорить. | Kostya, we need to talk. | #138 00:08:28: Нам надо поговорить. | verbatim |
+| 2 | Костя | Настя, я так по тебе соскучился. | Nastya, I have missed you so much. | #139 00:08:31: Настя, я так по тебе соскучился. | verbatim |
+| 3 | Настя | Мы с тобой виделись утром. | We saw each other this morning. | new | new |
+| 4 | Костя | Ты сегодня такая красивая. | You look so beautiful today. | new | new |
+| 5 | Настя | Спасибо. Но нам надо поговорить. | Thank you. But we need to talk. | new | new |
+| 6 | Костя | Давай поговорим потом, хорошо? | Let us talk later, okay? | new | new |
+| 7 | Настя | Ты опять убегаешь от разговора. | You are running away from the conversation again. | new | new |
+| 8 | Костя | Нет, у меня просто много работы. | No, I just have a lot of work. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we need to talk.' 'To us necessary' is the pattern. 'To talk' is the plain form.
-- 'Can it wait?' 'Can' is a short word ending in 't' for 'it'. 'Wait a while' is the plain form.
-- 'No, it's important.' 'Important' is used here as a describing word that finishes with 'o'. There's no 'is'.
-- 'Nastya, I've missed you so much.' Russians say 'I got bored for you', with the small word 'po'. 'You' takes the 'e' ending.
-- 'Please, listen to me.' 'Listen' is the finished command. 'Please' is the longer word.
-- 'I'm listening to you.' 'Listen' is the on-purpose word. 'You' takes the 'a' form.
-- 'Our relationship is moving fast.' 'Relationship' is plural, so 'develop' is plural too. The 'sya' ending means 'develop themselves'.
-- 'I think it's great.' 'I think' carries 'yu'. 'Great' finishes with 'o'.
-- 'But we need to discuss our future.' 'Future' is neuter, so 'our' finishes with 'e'. 'Discuss' is a once-and-done action.
-- 'We have plenty of time.' After 'many', 'time' takes a different ending, 'i'. 'At us there is' stands for 'we have'.
-- 'No, the time has come now.' The line is 'the time has come', in the neuter form. 'Now' ends the sentence.
-- 'Okay, I'm ready to talk.' 'Ready' is a short masculine form. 'To talk' is the plain form.
+- 'Kostya, we need to talk.' Russian says nam nado, 'to us it is necessary', rather than 'we need'.
+- 'Nastya, I've missed you so much.' Russian misses 'along' someone: po tebe. The word soskuchilsya comes from skuchat, 'to be bored'.
+- 'We saw each other this morning.' The -sya ending in videlis makes it 'saw each other'. The word utrom, 'in the morning', is utro with the ending -om.
+- 'You look so beautiful today.' Russian has no 'look' here: ty takaya krasivaya, literally 'you are such beautiful'.
+- 'Thanks. But we need to talk.' She repeats nam nado pogovorit word for word.
+- 'Let's talk later, okay?' The word davay with a 'we' form, pogovorim, makes 'let's'. The word potom means 'later'.
+- 'You're running away from the conversation again.' The word ubegaesh, 'you run away', is built from u-, 'away', and begat, 'to run'.
+- 'No, I just have a lot of work.' After mnogo, 'a lot of', rabota, 'work', changes its ending to raboty.

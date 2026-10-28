@@ -10,44 +10,48 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'eleonora': 'Элеонора', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Max's ring has gone to a surprising place, and so has the restaurant. Eleonora Andreyevna arrives at the owner's table with warm words for Barinov, and slowly he realises what is going on. This scene has longer sentences, so don't worry if you only catch the gist. Here's the Russian, start to finish."
-OPENER = "Let's see how the Russian puts it together."
-TRANSITION = 'Once more, all the way through.'
-OUTRO = "Barinov has just found out that the restaurant was sold from under him. Remember 'chego greha taity', literally 'why hide the sin', which is how Russians say 'to be honest'. See you next time!"
-CLOSING = ('nagiyev', 'До свидания!')
+INTRO = "At the owner's table, Barinov is about to learn that Dima has sold the restaurant to Eleonora Andreyevna. The lines are longer here; here it is in Russian."
+OPENER = "Let's look at the pieces."
+TRANSITION = 'Now the table talk once more.'
+OUTRO = "Barinov has just found out the restaurant was sold behind his back. Russian borrows biznes from English, and prosto biznes means 'just business'. See you next time!"
+CLOSING = ('nagiyev', 'Удачи!')
 STORY = [
     ('eleonora', 'Красивое кольцо.', 'Beautiful ring.', [(302, 'Красивое кольцо')], ''),
-    ('nagiyev', 'Макс отдал.', 'Max gave it.', [(303, 'Макс отдал')], ''),
-    ('barinov', 'Макс? Леонар Андреевна, прошу.', 'Max? Eleonora Andreevna, please.', [(304, 'Макс'), (305, 'Леонар Андреевна'), (306, 'Прошу')], ''),
-    ('barinov', 'Куш, куш, хозяин платит.', 'Eat, eat, the boss is paying.', [(307, 'Куш, куш, хозяин платит')], ''),
-    ('nagiyev', 'О, смотри, кто. Здравствуйте.', 'Oh, look who it is. Hello.', [(308, 'О, смотри, кто'), (309, 'Здравствуйте')], ''),
-    ('eleonora', 'Не помешаю? Виктор Петрович, я в курсе того, что произошло.', 'Am I interrupting? Viktor Petrovich, I know what happened.', [(310, 'Не помешаю'), (311, 'Виктор Петрович, я в курсе того, что произошло')], ''),
-    ('eleonora', 'Я вам очень сочувствую. И хочу сказать, что вы настоящий профессионал.', 'I am very sorry for you. And I want to say that you are a true professional.', [(312, 'Я вам очень сочувствую'), (313, 'И хочу сказать, что вы настоящий профессионал')], ''),
-    ('eleonora', 'Правда. Вот в любом случае, что бы там ни было.', 'Honestly. Whatever happened, no matter what.', [(314, 'Правда. Вот в любом случае, что бы там ни было')], ''),
-    ('barinov', 'Вы вообще о чем?', 'What are you talking about?', [(315, 'Вы вообще о чем')], ''),
-    ('nagiyev', 'У нас с вами был сложный период. Сложный, чего греха таить.', 'You and I went through a rough patch. A rough one, no denying that.', [(316, 'У нас с вами был сложный период'), (317, 'Сложный, чего греха таить')], ''),
-    ('nagiyev', 'Но благодаря вам у нас все получилось. Спасибо вам за вас.', 'But thanks to you, we made it work. Thank you for being you.', [(318, 'Но благодаря вам у нас все получилось'), (319, 'Спасибо вам за вас')], ''),
+    ('nagiyev', 'Макс отдал.', 'Max gave it away.', [(303, 'Макс отдал')], ''),
+    ('barinov', 'Макс?', 'Max?', [(304, 'Макс')], ''),
+    ('nagiyev', 'Элеонора Андреевна, прошу.', 'Eleonora Andreyevna, please, have a seat.', [(305, 'Андреевна'), (306, 'Прошу')], ''),
+    ('barinov', 'Кушай, кушай, хозяин платит.', 'Eat up, eat up, the owner is paying.', [(307, 'хозяин платит')], ''),
+    ('nagiyev', 'О, смотри, кто пришёл. Здравствуйте.', "Oh, look who's here. Hello.", [(308, 'О, смотри, кто'), (309, 'Здравствуйте')], ''),
+    ('eleonora', 'Не помешаю?', 'Am I interrupting?', [(310, 'Не помешаю')], ''),
+    ('eleonora', 'Виктор Петрович, я в курсе того, что произошло.', 'Viktor Petrovich, I know what happened.', [(311, 'Виктор Петрович, я в курсе того, что произошло')], ''),
+    ('eleonora', 'Я вам очень сочувствую.', 'I really feel for you.', [(312, 'Я вам очень сочувствую')], ''),
+    ('eleonora', 'Вы настоящий профессионал.', "You're a real professional.", [(313, 'вы настоящий профессионал')], ''),
+    ('barinov', 'Вы вообще о чём?', 'What are you even talking about?', [(315, 'Вы вообще о чем')], ''),
+    ('nagiyev', 'У нас с вами был сложный период.', 'You and I went through a rough patch.', [(316, 'У нас с вами был сложный период')], ''),
+    ('nagiyev', 'Но благодаря вам у нас всё получилось.', 'But thanks to you, it all worked out.', [(318, 'Но благодаря вам у нас все получилось')], ''),
+    ('nagiyev', 'Спасибо вам за вас.', 'Thank you for being you.', [(319, 'Спасибо вам за вас')], ''),
     ('barinov', 'Ты что, продал ресторан?', 'Did you sell the restaurant?', [(320, 'Ты что, продал ресторан')], ''),
-    ('nagiyev', 'За вас. Пойдем, пойдем.', "For you. Come on, let's go.", [(321, 'За вас'), (322, 'Пойдем, пойдем')], ''),
-    ('barinov', 'Дима, как ты мог? Мы же все исправили.', 'Dima, how could you? We fixed everything.', [(323, 'Дима, как ты мог'), (324, 'Мы же все исправили')], ''),
-    ('nagiyev', 'Не ори. Вить, это бизнес. Просто бизнес.', 'Do not yell. Vit, it is business. Just business.', [(325, 'Не ори'), (326, 'Вить, это бизнес'), (327, 'Просто бизнес')], ''),
-    ('nagiyev', 'Поверь мне, лучше продать на подъеме.', 'Trust me, it is better to sell while on the upswing.', [(328, 'Поверь мне, лучше продать'), (329, 'на подъеме')], ''),
+    ('barinov', 'Дима, как ты мог? Мы же всё исправили.', 'Dima, how could you? We fixed everything.', [(323, 'Дима, как ты мог'), (324, 'Мы же все исправили')], ''),
+    ('nagiyev', 'Не ори. Вить, это бизнес. Просто бизнес.', "Don't yell. Vitya, it's business. Just business.", [(325, 'Не ори'), (326, 'Вить, это бизнес'), (327, 'Просто бизнес')], ''),
+    ('nagiyev', 'Поверь мне, лучше продать на подъёме.', "Trust me, it's better to sell on the way up.", [(328, 'Поверь мне, лучше продать'), (329, 'на подъеме')], ''),
 ]
 WALK = [
-    (0, None, "'Beautiful ring.' There's no verb at all. The Russian for 'ring' is neuter, so the word for 'beautiful' carries 'oe'."),
-    (1, None, "'Max gave it.' The Russian for 'gave away' has the prefix 'ot', meaning 'off'. The name is unchanged because Max is the one doing the giving."),
-    (2, None, "'Max? Eleonora Andreyevna, please.' The woman is addressed with first name and patronymic. 'I ask' is used as a polite 'after you'."),
-    (3, None, "'Eat, eat, the boss is paying.' The Russian for 'eat' here is slangy and doubled, and the word for 'boss' really means the owner of the place."),
-    (4, None, "'Oh, look who it is. Hello.' The words for 'look who' are just 'look, who'. The word for hello is the long polite one."),
-    (5, None, "'Am I interrupting? Viktor Petrovich, I know what happened.' 'Won't I disturb' is the polite way to ask if you are interrupting. The phrase 'in the course' means 'up to date'."),
-    (6, None, "'I'm very sorry for you. And I want to say you're a real professional.' The Russian for 'sympathise' takes 'to you', and the Russian for 'real' means 'genuine'."),
-    (7, None, "'Honestly. Whatever happened, whatever.' The phrase 'in any case' is three small words, and 'whatever it was' is made with 'chto by ni'."),
-    (8, None, "'What are you talking about?' There's no verb here, just 'you in general about what'. 'About what' is two small words."),
-    (9, None, "'We had a hard time, you and I.' The phrase 'at us with you' means 'between us', and the words 'why hide the sin' are the idiom for 'no point denying it'."),
-    (10, None, "'But thanks to you, it all worked out. Thank you for being you.' The word for 'thanks to' takes the 'to you' form, and 'for you' is a toast."),
-    (11, None, "'Did you sell the restaurant?' 'You what' is a casual opening. The Russian for 'sold' ends in the masculine 'l'."),
-    (12, None, "'To you. Come on, let's go.' 'To you' is the toast again, with 'za'. Doubling 'let's go' makes it a gentle push."),
-    (13, None, "'How could you? We fixed everything.' The Russian for 'could' ends in a bare 'g', and 'we fixed' treats the action as done, with the word 'zhe' for emphasis."),
-    (14, None, "'Don't yell. It's business. Just business.' The word for 'yell' is a rough one. 'Business' is a borrowed word, and 'just' sits before it."),
-    (15, None, "'Trust me, it's better to sell on a high.' The Russian for 'better' is one word, and 'on a high' is built from the Russian for 'rise'."),
+    (0, None, "'Beautiful ring.' Russian needs no verb here, and krasivoe ends in -oe because koltso, 'ring', is neuter."),
+    (1, None, "'Max gave it away.' The word otdal means 'gave away': ot-, 'off, away', in front of dal, 'gave'."),
+    (2, None, "'Max?' In Russian a one-word question works on the voice alone, with the pitch rising on the word."),
+    (3, None, "'Eleonora Andreyevna, please, have a seat.' Russian proshu literally means 'I ask', and a host uses it to invite you to sit or go first."),
+    (4, None, "'Eat up, eat up, the owner is paying.' The word khozyain means 'owner' or 'host', the one whose place it is."),
+    (5, None, "'Oh, look who's here. Hello.' Russian says smotri, kto prishyol, literally 'look who has come', and zdravstvuyte is the polite hello."),
+    (6, None, "'Am I interrupting?' Russian asks ne pomeshayu, literally 'won't I get in the way?', when joining a table."),
+    (7, None, "'Viktor Petrovich, I know what happened.' The phrase v kurse literally means 'in the course', and Russian uses it for 'in the know'."),
+    (8, None, "'I really feel for you.' The word sochuvstvuyu literally means 'I feel together with', and it takes vam, 'to you'."),
+    (9, None, "'You're a real professional.' Russian uses nastoyashchiy, 'real, genuine', where English might say 'true'."),
+    (10, None, "'What are you even talking about?' Russian leaves out the verb: vy voobshche o chyom, literally 'you at all about what?'."),
+    (11, None, "'You and I went through a rough patch.' Russian says u nas s vami, literally 'at us with you', for 'you and I had'."),
+    (12, None, "'But thanks to you, it all worked out.' Russian says vsyo poluchilos, literally 'everything came out', for 'it worked out'."),
+    (13, None, "'Thank you for being you.' Russian says spasibo vam za vas, literally 'thank you for you', a set phrase for toasts."),
+    (14, None, "'Did you sell the restaurant?' Russian starts with ty chto, literally 'you what', to show shock, and prodal ends in -l for a man."),
+    (15, None, "'Dima, how could you? We fixed everything.' The little word zhe adds 'but we did!', and kak ty mog means 'how could you'."),
+    (16, None, "'Don't yell. It's business. Just business.' Russian borrows biznes from English, and ne ori, 'don't yell', is a blunt thing to say."),
+    (17, None, "'Trust me, it's better to sell on the way up.' The phrase na podyome literally means 'on the rise', and luchshe means 'better'."),
 ]

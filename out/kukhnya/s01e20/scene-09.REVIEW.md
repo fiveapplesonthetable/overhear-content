@@ -10,34 +10,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | А теперь давай поговорим. | Now let us talk. | #143 00:09:23: теперь давай поговорим. | verbatim |
-| 2 | Настя | Помнишь, мы должны делать новый шаг? | Remember, we should take a new step? | new | new |
-| 3 | Настя | У меня ощущение, что ты еще не готов. | I have a feeling you are not ready yet. | new | new |
-| 4 | Костя | Я? | Me? | new | new |
-| 5 | Костя | Я готов. | I am ready. | new | new |
-| 6 | Настя | Точно? | Are you sure? | new | new |
-| 7 | Костя | Точно. | I am sure. | new | new |
-| 8 | Настя | Тогда на выходные я зову родителей. | Then I will invite my parents over for the weekend. | new | new |
-| 9 | Костя | Ладно. | Okay. | new | new |
+| 1 | Настя | А теперь давай поговорим. | And now let us talk. | #143 00:09:23: теперь давай поговорим. | verbatim |
+| 2 | Настя | Помнишь, мы говорили, что каждый день должны делать новый шаг? | Remember, we said that every day we must take a new step? | #144 00:09:27: каждый день должны делать новый шаг? | verbatim |
+| 3 | Настя | У меня такое ощущение, что ты еще не готов. | I have a feeling that you are not ready yet. | #145 00:09:34: У меня такое ощущение, что ты еще не готов. | verbatim |
+| 4 | Костя | Я? | Me? | #146 00:09:37: Я? | verbatim |
+| 5 | Костя | Я готов. | I am ready. | #147 00:09:39: Я готов. | verbatim |
+| 6 | Настя | Точно? | Are you sure? | #148 00:09:43: Точно? | verbatim |
+| 7 | Костя | Точно. | I am sure. | #149 00:09:44: Точно. | verbatim |
+| 8 | Настя | Ну тогда на выходные я зову родителей. | Well then, I am inviting my parents for the weekend. | #150 00:09:47: Ну тогда на выходные я зову родителей. | verbatim |
+| 9 | Костя | Ладно. | Okay. | #151 00:09:52: Ладно. | verbatim |
 | 10 | Костя | Подожди, твоих родителей? | Wait, your parents? | new | new |
-| 11 | Настя | Да, мою маму и папу. | Yes, my mother and father. | new | new |
-| 12 | Костя | В нашу квартиру? | To our apartment? | new | new |
-| 13 | Настя | Конечно, куда ещё? | Of course, where else? | new | new |
-| 14 | Костя | Мне надо убрать комнату. | I need to clean the room. | new | new |
+| 11 | Настя | Да, маму и папу. | Yes, my mum and dad. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now let's talk.' 'And now' opens the line. The word 'davay' plus a 'we' form makes the invitation 'let's talk'.
-- 'Remember we're supposed to take a new step?' The word for 'you remember' finishes with 'sh', and 'take a step' is literally 'make a step'.
-- 'I have a feeling you're not ready yet.' The phrase 'at me there is' stands for 'I have', and the Russian for 'ready' is a short masculine form.
-- 'Me?' Just 'I', and the rising voice. Kostya is startled.
-- 'I'm ready.' The Russian for 'ready' is a short masculine form, so it has no ending, and there is no word for 'am'.
-- 'Sure?' is one word, 'tochno', which means 'exactly?' and works as 'are you sure?'.
-- 'Sure.' He repeats the word as a statement. Repeating is the way to say yes.
-- 'Then I'm inviting my parents for the weekend.' 'Weekend' is 'the days off', in the plural. 'Parents' only exists in the plural.
-- 'Okay.' A casual 'ladno' that means 'all right'. He hasn't yet understood.
-- 'Wait, your parents?' 'Your' and 'parents' both end in 'ey' or 'ikh', as they are people being acted on. 'Wait' is the informal order.
-- 'Yes, my mum and dad.' 'Mum' and 'dad' both end in 'u' as the object. Both nouns end in 'a', though one is masculine.
-- 'To our flat?' 'To our flat' is a direction, with 'u' on both words. The question is the tone.
-- 'Of course, where else?' 'Where to' asks about direction. 'Else' is a small word that follows it.
-- 'I need to tidy the room.' The word for 'tidy' is built from 'take away', and the Russian for 'room' takes a 'u' ending.
+- 'And now let's talk.' The word teper means 'now' as in 'from now on', when one thing is over and the next begins.
+- 'Remember, we said we must take a new step every day?' Russian says delat shag, literally 'make a step'. The word kazhdyy, 'every', goes with den, 'day'.
+- 'I have a feeling you're not ready yet.' Russian says u menya, literally 'at me', for 'I have'.
+- 'Me?' Russian just says ya, 'I', where English says 'me'.
+- 'I'm ready.' The word gotov, 'ready', has no ending for a man; a woman would say gotova.
+- 'Sure?' The word tochno means 'exactly' or 'precisely', and as a question it asks 'are you sure?'
+- 'Sure.' He repeats tochno as a statement, which is how Russian says 'yes, I'm sure'.
+- 'Well then, I'm inviting my parents for the weekend.' The word zovu, 'I invite', literally means 'I call'. After it, roditeli, 'parents', becomes roditeley.
+- 'Okay.' The word ladno means 'all right', the kind you say before you've really thought.
+- 'Wait, your parents?' After zovu, 'I invite', both words change their endings: 'your parents' is tvoi roditeli on its own, and here it is tvoikh roditeley.
+- 'Yes, my mum and dad.' The words for 'mum' and 'dad' both end in -a, and both take the ending -u here: mamu i papu.

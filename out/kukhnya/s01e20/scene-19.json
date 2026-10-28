@@ -12,7 +12,7 @@
  "segments": [
   {
    "v": "narrator",
-   "t": "Max's ring has gone to a surprising place, and so has the restaurant. Eleonora Andreyevna arrives at the owner's table with warm words for Barinov, and slowly he realises what is going on. This scene has longer sentences, so don't worry if you only catch the gist. Here's the Russian, start to finish.",
+   "t": "At the owner's table, Barinov is about to learn that Dima has sold the restaurant to Eleonora Andreyevna. The lines are longer here; here it is in Russian.",
    "gap": 0.8
   },
   {
@@ -27,47 +27,62 @@
   },
   {
    "v": "barinov",
-   "t": "Макс? Леонар Андреевна, прошу.",
+   "t": "Макс?",
+   "gap": 0.55
+  },
+  {
+   "v": "nagiyev",
+   "t": "Элеонора Андреевна, прошу.",
    "gap": 0.55
   },
   {
    "v": "barinov",
-   "t": "Куш, куш, хозяин платит.",
+   "t": "Кушай, кушай, хозяин платит.",
    "gap": 0.55
   },
   {
    "v": "nagiyev",
-   "t": "О, смотри, кто. Здравствуйте.",
+   "t": "О, смотри, кто пришёл. Здравствуйте.",
    "gap": 0.55
   },
   {
    "v": "eleonora",
-   "t": "Не помешаю? Виктор Петрович, я в курсе того, что произошло.",
+   "t": "Не помешаю?",
    "gap": 0.55
   },
   {
    "v": "eleonora",
-   "t": "Я вам очень сочувствую. И хочу сказать, что вы настоящий профессионал.",
+   "t": "Виктор Петрович, я в курсе того, что произошло.",
    "gap": 0.55
   },
   {
    "v": "eleonora",
-   "t": "Правда. Вот в любом случае, что бы там ни было.",
+   "t": "Я вам очень сочувствую.",
+   "gap": 0.55
+  },
+  {
+   "v": "eleonora",
+   "t": "Вы настоящий профессионал.",
    "gap": 0.55
   },
   {
    "v": "barinov",
-   "t": "Вы вообще о чем?",
+   "t": "Вы вообще о чём?",
    "gap": 0.55
   },
   {
    "v": "nagiyev",
-   "t": "У нас с вами был сложный период. Сложный, чего греха таить.",
+   "t": "У нас с вами был сложный период.",
    "gap": 0.55
   },
   {
    "v": "nagiyev",
-   "t": "Но благодаря вам у нас все получилось. Спасибо вам за вас.",
+   "t": "Но благодаря вам у нас всё получилось.",
+   "gap": 0.55
+  },
+  {
+   "v": "nagiyev",
+   "t": "Спасибо вам за вас.",
    "gap": 0.55
   },
   {
@@ -76,13 +91,8 @@
    "gap": 0.55
   },
   {
-   "v": "nagiyev",
-   "t": "За вас. Пойдем, пойдем.",
-   "gap": 0.55
-  },
-  {
    "v": "barinov",
-   "t": "Дима, как ты мог? Мы же все исправили.",
+   "t": "Дима, как ты мог? Мы же всё исправили.",
    "gap": 0.55
   },
   {
@@ -92,12 +102,12 @@
   },
   {
    "v": "nagiyev",
-   "t": "Поверь мне, лучше продать на подъеме.",
+   "t": "Поверь мне, лучше продать на подъёме.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Let's see how the Russian puts it together.",
+   "t": "Let's look at the pieces.",
    "gap": 0.4
   },
   {
@@ -107,7 +117,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Beautiful ring.' There's no verb at all. The Russian for 'ring' is neuter, so the word for 'beautiful' carries 'oe'.",
+   "t": "'Beautiful ring.' Russian needs no verb here, and krasivoe ends in -oe because koltso, 'ring', is neuter.",
    "gap": 0.4
   },
   {
@@ -117,97 +127,127 @@
   },
   {
    "v": "narrator",
-   "t": "'Max gave it.' The Russian for 'gave away' has the prefix 'ot', meaning 'off'. The name is unchanged because Max is the one doing the giving.",
+   "t": "'Max gave it away.' The word otdal means 'gave away': ot-, 'off, away', in front of dal, 'gave'.",
    "gap": 0.4
   },
   {
    "v": "barinov",
-   "t": "Макс? Леонар Андреевна, прошу.",
+   "t": "Макс?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Max? Eleonora Andreyevna, please.' The woman is addressed with first name and patronymic. 'I ask' is used as a polite 'after you'.",
+   "t": "'Max?' In Russian a one-word question works on the voice alone, with the pitch rising on the word.",
+   "gap": 0.4
+  },
+  {
+   "v": "nagiyev",
+   "t": "Элеонора Андреевна, прошу.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Eleonora Andreyevna, please, have a seat.' Russian proshu literally means 'I ask', and a host uses it to invite you to sit or go first.",
    "gap": 0.4
   },
   {
    "v": "barinov",
-   "t": "Куш, куш, хозяин платит.",
+   "t": "Кушай, кушай, хозяин платит.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Eat, eat, the boss is paying.' The Russian for 'eat' here is slangy and doubled, and the word for 'boss' really means the owner of the place.",
+   "t": "'Eat up, eat up, the owner is paying.' The word khozyain means 'owner' or 'host', the one whose place it is.",
    "gap": 0.4
   },
   {
    "v": "nagiyev",
-   "t": "О, смотри, кто. Здравствуйте.",
+   "t": "О, смотри, кто пришёл. Здравствуйте.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Oh, look who it is. Hello.' The words for 'look who' are just 'look, who'. The word for hello is the long polite one.",
+   "t": "'Oh, look who's here. Hello.' Russian says smotri, kto prishyol, literally 'look who has come', and zdravstvuyte is the polite hello.",
    "gap": 0.4
   },
   {
    "v": "eleonora",
-   "t": "Не помешаю? Виктор Петрович, я в курсе того, что произошло.",
+   "t": "Не помешаю?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Am I interrupting? Viktor Petrovich, I know what happened.' 'Won't I disturb' is the polite way to ask if you are interrupting. The phrase 'in the course' means 'up to date'.",
+   "t": "'Am I interrupting?' Russian asks ne pomeshayu, literally 'won't I get in the way?', when joining a table.",
    "gap": 0.4
   },
   {
    "v": "eleonora",
-   "t": "Я вам очень сочувствую. И хочу сказать, что вы настоящий профессионал.",
+   "t": "Виктор Петрович, я в курсе того, что произошло.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I'm very sorry for you. And I want to say you're a real professional.' The Russian for 'sympathise' takes 'to you', and the Russian for 'real' means 'genuine'.",
+   "t": "'Viktor Petrovich, I know what happened.' The phrase v kurse literally means 'in the course', and Russian uses it for 'in the know'.",
    "gap": 0.4
   },
   {
    "v": "eleonora",
-   "t": "Правда. Вот в любом случае, что бы там ни было.",
+   "t": "Я вам очень сочувствую.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Honestly. Whatever happened, whatever.' The phrase 'in any case' is three small words, and 'whatever it was' is made with 'chto by ni'.",
+   "t": "'I really feel for you.' The word sochuvstvuyu literally means 'I feel together with', and it takes vam, 'to you'.",
+   "gap": 0.4
+  },
+  {
+   "v": "eleonora",
+   "t": "Вы настоящий профессионал.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'You're a real professional.' Russian uses nastoyashchiy, 'real, genuine', where English might say 'true'.",
    "gap": 0.4
   },
   {
    "v": "barinov",
-   "t": "Вы вообще о чем?",
+   "t": "Вы вообще о чём?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'What are you talking about?' There's no verb here, just 'you in general about what'. 'About what' is two small words.",
+   "t": "'What are you even talking about?' Russian leaves out the verb: vy voobshche o chyom, literally 'you at all about what?'.",
    "gap": 0.4
   },
   {
    "v": "nagiyev",
-   "t": "У нас с вами был сложный период. Сложный, чего греха таить.",
+   "t": "У нас с вами был сложный период.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'We had a hard time, you and I.' The phrase 'at us with you' means 'between us', and the words 'why hide the sin' are the idiom for 'no point denying it'.",
+   "t": "'You and I went through a rough patch.' Russian says u nas s vami, literally 'at us with you', for 'you and I had'.",
    "gap": 0.4
   },
   {
    "v": "nagiyev",
-   "t": "Но благодаря вам у нас все получилось. Спасибо вам за вас.",
+   "t": "Но благодаря вам у нас всё получилось.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'But thanks to you, it all worked out. Thank you for being you.' The word for 'thanks to' takes the 'to you' form, and 'for you' is a toast.",
+   "t": "'But thanks to you, it all worked out.' Russian says vsyo poluchilos, literally 'everything came out', for 'it worked out'.",
+   "gap": 0.4
+  },
+  {
+   "v": "nagiyev",
+   "t": "Спасибо вам за вас.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Thank you for being you.' Russian says spasibo vam za vas, literally 'thank you for you', a set phrase for toasts.",
    "gap": 0.4
   },
   {
@@ -217,27 +257,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Did you sell the restaurant?' 'You what' is a casual opening. The Russian for 'sold' ends in the masculine 'l'.",
-   "gap": 0.4
-  },
-  {
-   "v": "nagiyev",
-   "t": "За вас. Пойдем, пойдем.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'To you. Come on, let's go.' 'To you' is the toast again, with 'za'. Doubling 'let's go' makes it a gentle push.",
+   "t": "'Did you sell the restaurant?' Russian starts with ty chto, literally 'you what', to show shock, and prodal ends in -l for a man.",
    "gap": 0.4
   },
   {
    "v": "barinov",
-   "t": "Дима, как ты мог? Мы же все исправили.",
+   "t": "Дима, как ты мог? Мы же всё исправили.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'How could you? We fixed everything.' The Russian for 'could' ends in a bare 'g', and 'we fixed' treats the action as done, with the word 'zhe' for emphasis.",
+   "t": "'Dima, how could you? We fixed everything.' The little word zhe adds 'but we did!', and kak ty mog means 'how could you'.",
    "gap": 0.4
   },
   {
@@ -247,17 +277,17 @@
   },
   {
    "v": "narrator",
-   "t": "'Don't yell. It's business. Just business.' The word for 'yell' is a rough one. 'Business' is a borrowed word, and 'just' sits before it.",
+   "t": "'Don't yell. It's business. Just business.' Russian borrows biznes from English, and ne ori, 'don't yell', is a blunt thing to say.",
    "gap": 0.4
   },
   {
    "v": "nagiyev",
-   "t": "Поверь мне, лучше продать на подъеме.",
+   "t": "Поверь мне, лучше продать на подъёме.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Trust me, it's better to sell on a high.' The Russian for 'better' is one word, and 'on a high' is built from the Russian for 'rise'. Once more, all the way through.",
+   "t": "'Trust me, it's better to sell on the way up.' The phrase na podyome literally means 'on the rise', and luchshe means 'better'. Now the table talk once more.",
    "gap": 0.9
   },
   {
@@ -272,47 +302,62 @@
   },
   {
    "v": "barinov",
-   "t": "Макс? Леонар Андреевна, прошу.",
+   "t": "Макс?",
+   "gap": 0.5
+  },
+  {
+   "v": "nagiyev",
+   "t": "Элеонора Андреевна, прошу.",
    "gap": 0.5
   },
   {
    "v": "barinov",
-   "t": "Куш, куш, хозяин платит.",
+   "t": "Кушай, кушай, хозяин платит.",
    "gap": 0.5
   },
   {
    "v": "nagiyev",
-   "t": "О, смотри, кто. Здравствуйте.",
+   "t": "О, смотри, кто пришёл. Здравствуйте.",
    "gap": 0.5
   },
   {
    "v": "eleonora",
-   "t": "Не помешаю? Виктор Петрович, я в курсе того, что произошло.",
+   "t": "Не помешаю?",
    "gap": 0.5
   },
   {
    "v": "eleonora",
-   "t": "Я вам очень сочувствую. И хочу сказать, что вы настоящий профессионал.",
+   "t": "Виктор Петрович, я в курсе того, что произошло.",
    "gap": 0.5
   },
   {
    "v": "eleonora",
-   "t": "Правда. Вот в любом случае, что бы там ни было.",
+   "t": "Я вам очень сочувствую.",
+   "gap": 0.5
+  },
+  {
+   "v": "eleonora",
+   "t": "Вы настоящий профессионал.",
    "gap": 0.5
   },
   {
    "v": "barinov",
-   "t": "Вы вообще о чем?",
+   "t": "Вы вообще о чём?",
    "gap": 0.5
   },
   {
    "v": "nagiyev",
-   "t": "У нас с вами был сложный период. Сложный, чего греха таить.",
+   "t": "У нас с вами был сложный период.",
    "gap": 0.5
   },
   {
    "v": "nagiyev",
-   "t": "Но благодаря вам у нас все получилось. Спасибо вам за вас.",
+   "t": "Но благодаря вам у нас всё получилось.",
+   "gap": 0.5
+  },
+  {
+   "v": "nagiyev",
+   "t": "Спасибо вам за вас.",
    "gap": 0.5
   },
   {
@@ -321,13 +366,8 @@
    "gap": 0.5
   },
   {
-   "v": "nagiyev",
-   "t": "За вас. Пойдем, пойдем.",
-   "gap": 0.5
-  },
-  {
    "v": "barinov",
-   "t": "Дима, как ты мог? Мы же все исправили.",
+   "t": "Дима, как ты мог? Мы же всё исправили.",
    "gap": 0.5
   },
   {
@@ -337,17 +377,17 @@
   },
   {
    "v": "nagiyev",
-   "t": "Поверь мне, лучше продать на подъеме.",
+   "t": "Поверь мне, лучше продать на подъёме.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Barinov has just found out that the restaurant was sold from under him. Remember 'chego greha taity', literally 'why hide the sin', which is how Russians say 'to be honest'. See you next time!",
+   "t": "Barinov has just found out the restaurant was sold behind his back. Russian borrows biznes from English, and prosto biznes means 'just business'. See you next time!",
    "gap": 0.5
   },
   {
    "v": "nagiyev",
-   "t": "До свидания!",
+   "t": "Удачи!",
    "gap": 0.3
   }
  ],
@@ -371,127 +411,107 @@
     "fragment": "Макс"
    },
    {
-    "line": 2,
+    "line": 3,
     "cue": 305,
-    "fragment": "Леонар Андреевна"
+    "fragment": "Андреевна"
    },
    {
-    "line": 2,
+    "line": 3,
     "cue": 306,
     "fragment": "Прошу"
    },
    {
-    "line": 3,
+    "line": 4,
     "cue": 307,
-    "fragment": "Куш, куш, хозяин платит"
+    "fragment": "хозяин платит"
    },
    {
-    "line": 4,
+    "line": 5,
     "cue": 308,
     "fragment": "О, смотри, кто"
    },
    {
-    "line": 4,
+    "line": 5,
     "cue": 309,
     "fragment": "Здравствуйте"
    },
    {
-    "line": 5,
+    "line": 6,
     "cue": 310,
     "fragment": "Не помешаю"
    },
    {
-    "line": 5,
+    "line": 7,
     "cue": 311,
     "fragment": "Виктор Петрович, я в курсе того, что произошло"
    },
    {
-    "line": 6,
+    "line": 8,
     "cue": 312,
     "fragment": "Я вам очень сочувствую"
    },
    {
-    "line": 6,
+    "line": 9,
     "cue": 313,
-    "fragment": "И хочу сказать, что вы настоящий профессионал"
+    "fragment": "вы настоящий профессионал"
    },
    {
-    "line": 7,
-    "cue": 314,
-    "fragment": "Правда. Вот в любом случае, что бы там ни было"
-   },
-   {
-    "line": 8,
+    "line": 10,
     "cue": 315,
     "fragment": "Вы вообще о чем"
    },
    {
-    "line": 9,
+    "line": 11,
     "cue": 316,
     "fragment": "У нас с вами был сложный период"
    },
    {
-    "line": 9,
-    "cue": 317,
-    "fragment": "Сложный, чего греха таить"
-   },
-   {
-    "line": 10,
+    "line": 12,
     "cue": 318,
     "fragment": "Но благодаря вам у нас все получилось"
    },
    {
-    "line": 10,
+    "line": 13,
     "cue": 319,
     "fragment": "Спасибо вам за вас"
    },
    {
-    "line": 11,
+    "line": 14,
     "cue": 320,
     "fragment": "Ты что, продал ресторан"
    },
    {
-    "line": 12,
-    "cue": 321,
-    "fragment": "За вас"
-   },
-   {
-    "line": 12,
-    "cue": 322,
-    "fragment": "Пойдем, пойдем"
-   },
-   {
-    "line": 13,
+    "line": 15,
     "cue": 323,
     "fragment": "Дима, как ты мог"
    },
    {
-    "line": 13,
+    "line": 15,
     "cue": 324,
     "fragment": "Мы же все исправили"
    },
    {
-    "line": 14,
+    "line": 16,
     "cue": 325,
     "fragment": "Не ори"
    },
    {
-    "line": 14,
+    "line": 16,
     "cue": 326,
     "fragment": "Вить, это бизнес"
    },
    {
-    "line": 14,
+    "line": 16,
     "cue": 327,
     "fragment": "Просто бизнес"
    },
    {
-    "line": 15,
+    "line": 17,
     "cue": 328,
     "fragment": "Поверь мне, лучше продать"
    },
    {
-    "line": 15,
+    "line": 17,
     "cue": 329,
     "fragment": "на подъеме"
    }

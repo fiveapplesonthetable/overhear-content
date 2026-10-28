@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Max has rung Vika to ask about the ring she sent him. She says it was for a friend, and Max starts to realise he's misread the whole thing. Russian first, then we'll take it apart."
-OPENER = 'Time for the details.'
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Vika wants Max to give her the ring after all, and Max has to find a year's wages. The phrase 'dlya sebya', meaning 'for oneself', is useful, and it is the same for every person. See you next time!"
-CLOSING = ('vika', 'До свидания!')
+INTRO = "Max can't wait any longer, so he rings Vika to ask about the ring. Let's hear how the call goes."
+OPENER = "Let's take it line by line."
+TRANSITION = "Here's the call again from the start."
+OUTRO = "So the ring was Tanya's idea, and now Vika wants it from Max. Russian says pozvonyu ey, 'I'll call her', with the 'to her' form. See you next time!"
+CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Привет. Я хотел узнать насчёт подарка.', 'Hi. I wanted to find out about the gift.', [(114, 'Я хотел узнать')], ''),
     ('max', 'Тебе понравилось это красивое кольцо?', 'Did you like this beautiful ring?', [(115, 'Тебе понравилось')], ''),
@@ -24,7 +24,7 @@ STORY = [
     ('vika', 'Конечно. Таня выбирала подарок для себя.', 'Of course. Tanya was choosing a gift for herself.', [(123, 'выбирала подарок')], ''),
     ('vika', 'Она просто прислала мне фотографию.', 'She simply sent me a photograph.', [(123, 'прислала мне фотографию')], ''),
     ('max', 'А я сам хотел подарить тебе кольцо.', 'But I wanted to gift you a ring myself.', [(126, 'сам хотел тебе кольцо подарить')], ''),
-    ('vika', 'Ты хотел подарить то же самое?', 'You wanted to give the same thing?', [(127, 'подрезала подарок мой')], ''),
+    ('max', 'Она выбрала мой подарок.', 'She picked my present.', [(127, 'подрезала подарок мой')], ''),
     ('vika', 'Я скажу ей выбрать что-то другое.', 'I will tell her to choose something else.', [(129, 'Пусть она что-нибудь другое выберет')], ''),
     ('vika', 'А ты мне подаришь это кольцо.', 'And you will gift me this ring.', [(130, 'А ты мне подаришь кольцо')], ''),
     ('max', 'Зачем же? Она же уже купила.', 'Why then? She already bought it.', [(132, 'Зачем же? Она же уже купила')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Я сейчас ей позвоню.', 'I will call her now.', [(134, 'Я сейчас ей позвоню')], ''),
 ]
 WALK = [
-    (0, None, "'Hi. I wanted to ask about the gift.' 'Wanted to find out' uses the plain 'find out'. 'About' is a one-word phrase."),
-    (1, None, "'Did you like this lovely ring?' 'Liked' is neuter, because 'ring' is neuter. 'To you' sits next to it."),
-    (2, None, "'Yes, it's very pretty.' 'It' is the neuter 'ono', since 'ring' is neuter. 'Beautiful' carries 'oe'."),
-    (3, None, "'And do you know how much it costs?' 'How much' is one word. 'Costs' means 'stands' in this sense."),
-    (4, None, "'Do you think that's reasonable for a gift?' 'You consider' finishes with 'sh'. 'For a gift' needs a small word and an 'a'."),
-    (5, None, "'Of course. Tanya was choosing a present for herself.' 'Herself' is the same for everyone, 'sebya'. 'Was choosing' is the ongoing past."),
-    (6, None, "'She just sent me a photo.' 'Sent' carries 'a', and 'just' is a small word. 'Photograph' is a borrowed word."),
-    (7, None, "'But I wanted to give you the ring myself.' 'Myself' is a short word, 'sam'. 'Give as a gift' is the same word from before."),
-    (8, None, "'You wanted to give the same thing?' 'The same thing' is three words, and means 'that very same'. 'Wanted' carries 'l'."),
-    (9, None, "'I'll tell her to choose something else.' 'To her' is the short word 'ey'. 'Something else' finishes with 'oe' since it is neuter."),
-    (10, None, "'And you'll give me this ring.' 'You'll give' is an action seen as complete, ending in 'sh'. 'Me' takes the 'to me' form."),
-    (11, None, "'What for? She's already bought it.' 'What for' asks about purpose. 'Bought' carries 'a' for a woman."),
-    (12, None, "'No, she was just asking for advice.' 'Ask for' is followed by the 'of' form, so 'advice' finishes with 'a'. 'Asked' finishes with 'a' for a woman."),
-    (13, None, "'I'll call her now.' 'Call' goes with 'to her', not 'her'. 'I'll call' treats the action as done."),
+    (0, None, "'Hi. I wanted to ask about the present.' The word naschyot means 'about' or 'regarding', and podarok, 'present', becomes podarka after it."),
+    (1, None, "'Did you like this beautiful ring?' Russian turns it round: tebe ponravilos, literally 'to you it was pleasing'. The ring is the subject."),
+    (2, None, "'Yes, it's very beautiful.' The ring, koltso, is a neuter word, so 'it' is ono and 'beautiful' is krasivoe."),
+    (3, None, "'And do you know how much it costs?' The word skolko means 'how much'. For 'it costs', Russian says stoit, literally 'it stands'."),
+    (4, None, "'Do you think that's normal for a present?' Here schitaesh means 'you think' or 'you reckon'. After dlya, 'for', podarok becomes podarka."),
+    (5, None, "'Of course. Tanya was choosing a present for herself.' The word sebya, 'oneself', is the same for every person: for herself, himself, myself."),
+    (6, None, "'She just sent me a photo.' The word prosto means 'just' or 'simply'. The full word fotografiya ends in -ya, so after 'sent' it becomes fotografiyu."),
+    (7, None, "'But I wanted to give you the ring myself.' The word sam means 'myself' here. And podarit, 'to give', is only for presents."),
+    (8, None, "'She picked my present.' Max means Tanya took his idea. The word vybrala, 'picked', ends in -la because Tanya is a woman."),
+    (9, None, "'I'll tell her to choose something else.' The phrase chto-to drugoe means 'something else'; drugoe on its own means 'other'."),
+    (10, None, "'And you'll give me this ring.' The word podarish means 'you will give', a promise, not something happening now."),
+    (11, None, "'What for? She's already bought it.' The little zhe, said twice, makes it sound obvious: 'she's bought it already, hasn't she?'"),
+    (12, None, "'No, she was just asking for advice.' After prosila, 'asked for', sovet, 'advice', becomes soveta."),
+    (13, None, "'I'll call her now.' Russian rings 'to' someone: pozvonyu ey, literally 'I'll ring to her'."),
 ]

@@ -10,40 +10,36 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "It's Vika's birthday, and an important guest has given her a very expensive painting. Then Max, who has been drinking in the kitchen, staggers in with a ring of his own. Russian first, then we'll take it apart."
-OPENER = "Let's walk through what each line is doing."
-TRANSITION = 'Now it all together again, from the top.'
-OUTRO = "Max has just made the most embarrassing entrance of his career. The word 'pyan' means 'drunk' and is the short masculine form of 'pyanyy'. See you next time!"
-CLOSING = ('vika', 'До свидания!')
+INTRO = "At the party it turns out to be Vika's birthday, and a well-off guest gives her a print by her favourite photographer. Then Max turns up, fresh from winning the drinking contest. Listen to the Russian first."
+OPENER = "Let's go back over it."
+TRANSITION = 'Now hear it all once more.'
+OUTRO = "Max is about to hand over his own present in front of everyone. The words podarok, darit and podarit all share dar, 'gift'. See you next time!"
+CLOSING = ('guest', 'До встречи!')
 STORY = [
-    ('guest', 'Вика, я слышал, у вас день рождения.', 'Vika, I heard it is your birthday.', [(243, 'Итак, приветствуем нового чемпиона.')], ''),
-    ('guest', 'У меня есть красивый подарок для вас.', 'I have a beautiful gift for you.', [], ''),
-    ('vika', 'Боже мой! Это очень дорогая картина.', 'Oh my God! This is a very expensive painting.', [], ''),
-    ('guest', 'Главное, что она вам очень нравится.', 'The main thing is that you like it very much.', [], ''),
-    ('vika', 'Спасибо большое, это мой любимый художник.', 'Thank you very much, this is my favorite artist.', [], ''),
-    ('max', 'А я смотрю, вы тут хорошо развлекаетесь.', 'And I see you are having good fun here.', [], ''),
-    ('vika', 'Макс, что ты делаешь? Иди отсюда.', 'Max, what are you doing? Go from here.', [], ''),
-    ('max', 'Я хочу выпить за удивительную девушку.', 'I want to drink to an amazing girl.', [], ''),
-    ('vika', 'Макс, ты пьян. Пойдем, выйдем, пожалуйста.', "Max, you are drunk. Let's go out, please.", [], ''),
-    ('max', 'Подожди, я еще не подарил свой подарок.', 'Wait, I did not give my gift yet.', [], ''),
-    ('vika', 'Мне не нужны твои глупые подарки сейчас.', 'I do not need your stupid gifts now.', [], ''),
-    ('max', 'Смотри, это красивое кольцо для тебя.', 'Look, this is a beautiful ring for you.', [], ''),
-    ('guest', 'Извините, я, наверное, пойду сейчас.', 'Excuse me, I will probably go now.', [], ''),
-    ('vika', 'Нет, останьтесь. Макс, ты сошел с ума!', 'No, stay. Max, you have gone crazy!', [], ''),
+    ('guest', 'Вика, мне сказали, у вас день рождения сегодня.', 'Vika, I was told it is your birthday today.', [(247, 'Вика, мне сказали, у вас день рождения сегодня.')], ''),
+    ('guest', 'Смотрите, прямо к вашему платью.', 'Look, it goes right with your dress.', [(249, 'к вашему чудесному платью.')], ''),
+    ('vika', 'Ну зачем вы? Боже мой.', 'Oh, you should not have. Oh my God.', [(250, 'Ну зачем вы?'), (251, 'Боже мой.')], ''),
+    ('vika', 'Это же мой любимый фотограф!', 'It is my favourite photographer!', [(252, 'Это же мой любимый фотограф')], ''),
+    ('vika', 'Это очень дорого.', 'This is very expensive.', [(253, 'это очень дорого.')], ''),
+    ('guest', 'Главное, что вам понравилось.', 'The main thing is that you liked it.', [(254, 'Главное, что вам понравилось.')], ''),
+    ('max', 'А я смотрю, вы тут развлекаетесь, да?', 'And I see you are having fun here, huh?', [(256, 'А я смотрю, вы тут развлекаетесь, да?')], ''),
+    ('max', 'Я хочу выпить за девушку, которую я очень люблю.', 'I want to drink to the girl I love very much.', [(262, 'Я хочу выпить за девушку, которую я')], ''),
+    ('vika', 'Так, Макс, пойдём, выйдем, пожалуйста.', 'Right, Max, come on, let us step outside, please.', [(264, 'Так, Макс'), (265, 'пойдем, выйдем, пожалуйста.')], ''),
+    ('max', 'А, да, я тут забыл.', 'Oh, yes, I forgot.', [(266, 'Я тут забыл.')], ''),
+    ('max', 'Тебе все подарки дарят, а я не успел.', 'Everyone is giving you presents, and I did not get round to it.', [(267, 'Тебе тут все подарки дарят')], ''),
+    ('max', 'Сейчас я тебе подарю.', 'I will give you mine now.', [(268, 'Сейчас я тебе подарю')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, I heard it's your birthday.' 'At you birthday' stands for 'you have a birthday'. 'You' is the polite 'vas'."),
-    (1, None, "'I have a beautiful gift for you.' 'At me there is' stands for 'I have'. 'For you' takes the 'a' form, 'vas'."),
-    (2, None, "'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and carries 'a'."),
-    (3, None, "'The main thing is that you like it very much.' 'It pleases you' is the pattern, with 'it' as the subject. 'The main thing' comes from 'head'."),
-    (4, None, "'Thank you very much, he's my favourite artist.' 'Favourite' comes from 'love'. 'Artist' is a masculine noun."),
-    (5, None, "'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' carries 'sya'."),
-    (6, None, "'Max, what are you doing? Get out of here.' 'Doing' finishes with 'sh', for the casual 'you'. 'Get out of here' is 'go from here'."),
-    (7, None, "'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the Russian for 'surprise'."),
-    (8, None, "'Max, you're drunk. Let's step out, please.' 'Drunk' is a short masculine form, without an ending. 'Let's go, let's go out' are two 'we' forms."),
-    (9, None, "'Wait, I haven't given my gift yet.' 'Gave as a gift' is the completed kind, with 'not' before it. 'My own gift' uses the special pointing-back word."),
-    (10, None, "'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' carries 'ye' for the plural."),
-    (11, None, "'Look, it's a beautiful ring for you.' 'Look' is the informal order. 'For you' is the casual 'tebya'."),
-    (12, None, "'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is an action seen as complete."),
-    (13, None, "'No, stay. Max, you've lost your mind!' 'Stay' finishes with 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'."),
+    (0, None, "'Vika, I'm told it's your birthday today.' Russian says mne skazali, literally 'to me they said', and leaves out 'they'."),
+    (1, None, "'Look, it goes right with your dress.' Russian says k platyu, literally 'to the dress', for something that matches it."),
+    (2, None, "'Oh, you shouldn't have. Oh my God.' The polite protest nu zachem vy literally means 'well, why you?'"),
+    (3, None, "'It's my favourite photographer!' The word lyubimyy, 'favourite', comes from lyubit, 'to love'."),
+    (4, None, "'This is very expensive.' The word dorogo, 'expensive', is related to dorogoy, which also means 'dear'."),
+    (5, None, "'What matters is that you liked it.' Russian says vam ponravilos, literally 'to you it was pleasing', where English says 'you liked it'."),
+    (6, None, "'And I see you're having fun here, huh?' Russian says ya smotryu, literally 'I look', to mean 'I see' or 'I notice'."),
+    (7, None, "'I want to drink to the girl I love very much.' In a toast Russian says vypit za, literally 'drink for', someone."),
+    (8, None, "'Right, Max, come on, let's step outside, please.' Russian says vyydem, literally 'we'll go out', for 'let's step outside'."),
+    (9, None, "'Oh, yes, I forgot.' The word zabyl, 'forgot', has the masculine past ending -l; Vika would say zabyla."),
+    (10, None, "'Everyone's giving you presents, and I didn't get round to it.' Russian says podarki daryat, 'they give presents', with no 'they', and both words share dar, 'gift'."),
+    (11, None, "'I'll give you mine now.' The word podaryu, 'I'll give as a present', is the one-off future of darit, 'to give presents'."),
 ]

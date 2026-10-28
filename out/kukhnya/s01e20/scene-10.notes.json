@@ -40,91 +40,23 @@
     },
     {
       "seg": 3,
-      "trans": "Chef, they are waiting for you.",
+      "trans": "Dima is waiting for you.",
       "words": [
         {
-          "t": "Шеф,",
-          "lemma": "шеф",
+          "t": "Дима",
+          "lemma": "дима",
           "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "stress": "Ди́ма",
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         },
         {
-          "t": "вас",
-          "lemma": "вы",
+          "t": "тебя",
+          "lemma": "ты",
           "pos": "pron",
-          "stress": null,
+          "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
-        },
-        {
-          "t": "ожидают.",
-          "lemma": "ожидать",
-          "pos": "verb",
-          "stress": "ожида́ют",
-          "gloss": "to expect; to wait for",
-          "gram": "3rd person plural"
-        }
-      ]
-    },
-    {
-      "seg": 4,
-      "trans": "Who is waiting for me?",
-      "words": [
-        {
-          "t": "Кто",
-          "lemma": "кто",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "who",
-          "gram": "question word, nominative"
-        },
-        {
-          "t": "меня",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "ждет?",
-          "lemma": "ждать",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is waiting",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 5,
-      "trans": "Dmitry Vladimirovich is waiting for you.",
-      "words": [
-        {
-          "t": "Дмитрий",
-          "lemma": "дмитрий",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
-        },
-        {
-          "t": "Владимирович",
-          "lemma": "владимирович",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Vladimirovich (son of Vladimir)",
-          "gram": "patronymic"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
+          "gram": "2nd person singular, genitive"
         },
         {
           "t": "ждёт.",
@@ -137,16 +69,24 @@
       ]
     },
     {
-      "seg": 6,
-      "trans": "Nagiyev is here?",
+      "seg": 4,
+      "trans": "Dima? He is here?",
       "words": [
         {
-          "t": "Нагиев",
-          "lemma": "нагиев",
+          "t": "Дима?",
+          "lemma": "дима",
           "pos": "name",
+          "stress": "Ди́ма",
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
+        },
+        {
+          "t": "Он",
+          "lemma": "он",
+          "pos": "pron",
           "stress": null,
-          "gloss": "Nagiyev",
-          "gram": "proper noun"
+          "gloss": "he",
+          "gram": "masculine nominative singular"
         },
         {
           "t": "здесь?",
@@ -159,7 +99,7 @@
       ]
     },
     {
-      "seg": 7,
+      "seg": 5,
       "trans": "Yes, he is at his table.",
       "words": [
         {
@@ -205,7 +145,7 @@
       ]
     },
     {
-      "seg": 8,
+      "seg": 6,
       "trans": "What does he want?",
       "words": [
         {
@@ -235,7 +175,7 @@
       ]
     },
     {
-      "seg": 9,
+      "seg": 7,
       "trans": "I do not know.",
       "words": [
         {
@@ -265,83 +205,7 @@
       ]
     },
     {
-      "seg": 10,
-      "trans": "He usually calls first.",
-      "words": [
-        {
-          "t": "Обычно",
-          "lemma": "обычно",
-          "pos": "adv",
-          "stress": "обы́чно",
-          "gloss": "usually",
-          "gram": "adverb"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "сначала",
-          "lemma": "сначала",
-          "pos": "adv",
-          "stress": "снача́ла",
-          "gloss": "first, at first",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "звонит.",
-          "lemma": "звонить",
-          "pos": "verb",
-          "stress": "звони́т",
-          "gloss": "is calling",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 11,
-      "trans": "He seems very excited.",
-      "words": [
-        {
-          "t": "Он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "кажется",
-          "lemma": "казаться",
-          "pos": "verb",
-          "stress": "ка́жется",
-          "gloss": "it seems, I think",
-          "gram": "present, 3rd person singular, imperfective; used as a parenthetical word"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "взволнованным.",
-          "lemma": "взволнованный",
-          "pos": "adj",
-          "stress": "взволнова́нным",
-          "gloss": "anxious, worried",
-          "gram": "nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 12,
+      "seg": 8,
       "trans": "Okay, I am coming.",
       "words": [
         {
@@ -371,45 +235,7 @@
       ]
     },
     {
-      "seg": 13,
-      "trans": "Bring him some coffee.",
-      "words": [
-        {
-          "t": "Принеси",
-          "lemma": "принести",
-          "pos": "verb",
-          "stress": "принеси́",
-          "gloss": "bring",
-          "gram": "perfective imperative, singular"
-        },
-        {
-          "t": "ему",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "ему́",
-          "gloss": "(to) him",
-          "gram": "3rd person singular masculine, dative"
-        },
-        {
-          "t": "немного",
-          "lemma": "немного",
-          "pos": "adv",
-          "stress": "немно́го",
-          "gloss": "a bit",
-          "gram": "adverb"
-        },
-        {
-          "t": "кофе.",
-          "lemma": "кофе",
-          "pos": "noun",
-          "stress": "ко́фе",
-          "gloss": "of coffee",
-          "gram": "indeclinable, masculine"
-        }
-      ]
-    },
-    {
-      "seg": 15,
+      "seg": 10,
       "trans": "Hello.",
       "words": [
         {
@@ -423,7 +249,7 @@
       ]
     },
     {
-      "seg": 17,
+      "seg": 12,
       "trans": "Good morning.",
       "words": [
         {
@@ -445,92 +271,24 @@
       ]
     },
     {
-      "seg": 19,
-      "trans": "Chef, they are waiting for you.",
+      "seg": 14,
+      "trans": "Dima is waiting for you.",
       "words": [
         {
-          "t": "Шеф,",
-          "lemma": "шеф",
+          "t": "Дима",
+          "lemma": "дима",
           "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "stress": "Ди́ма",
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         },
         {
-          "t": "вас",
-          "lemma": "вы",
+          "t": "тебя",
+          "lemma": "ты",
           "pos": "pron",
-          "stress": null,
+          "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
-        },
-        {
-          "t": "ожидают.",
-          "lemma": "ожидать",
-          "pos": "verb",
-          "stress": "ожида́ют",
-          "gloss": "to expect; to wait for",
-          "gram": "3rd person plural"
-        }
-      ]
-    },
-    {
-      "seg": 21,
-      "trans": "Who is waiting for me?",
-      "words": [
-        {
-          "t": "Кто",
-          "lemma": "кто",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "who",
-          "gram": "question word, nominative"
-        },
-        {
-          "t": "меня",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "ждет?",
-          "lemma": "ждать",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is waiting",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 23,
-      "trans": "Dmitry Vladimirovich is waiting for you.",
-      "words": [
-        {
-          "t": "Дмитрий",
-          "lemma": "дмитрий",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
-        },
-        {
-          "t": "Владимирович",
-          "lemma": "владимирович",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Vladimirovich (son of Vladimir)",
-          "gram": "patronymic"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
+          "gram": "2nd person singular, genitive"
         },
         {
           "t": "ждёт.",
@@ -543,16 +301,24 @@
       ]
     },
     {
-      "seg": 25,
-      "trans": "Nagiyev is here?",
+      "seg": 16,
+      "trans": "Dima? He is here?",
       "words": [
         {
-          "t": "Нагиев",
-          "lemma": "нагиев",
+          "t": "Дима?",
+          "lemma": "дима",
           "pos": "name",
+          "stress": "Ди́ма",
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
+        },
+        {
+          "t": "Он",
+          "lemma": "он",
+          "pos": "pron",
           "stress": null,
-          "gloss": "Nagiyev",
-          "gram": "proper noun"
+          "gloss": "he",
+          "gram": "masculine nominative singular"
         },
         {
           "t": "здесь?",
@@ -565,7 +331,7 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 18,
       "trans": "Yes, he is at his table.",
       "words": [
         {
@@ -611,7 +377,7 @@
       ]
     },
     {
-      "seg": 29,
+      "seg": 20,
       "trans": "What does he want?",
       "words": [
         {
@@ -641,7 +407,239 @@
       ]
     },
     {
+      "seg": 22,
+      "trans": "I do not know.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "знаю.",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ю",
+          "gloss": "(I) know",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "Okay, I am coming.",
+      "words": [
+        {
+          "t": "Хорошо,",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "иду.",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́",
+          "gloss": "(I'm) going, running",
+          "gram": "present, 1st person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "Hello.",
+      "words": [
+        {
+          "t": "Здравствуйте.",
+          "lemma": "здравствуйте",
+          "pos": "verb",
+          "stress": "здра́вствуйте",
+          "gloss": "hello (polite)",
+          "gram": "polite greeting, the first в is silent"
+        }
+      ]
+    },
+    {
+      "seg": 27,
+      "trans": "Good morning.",
+      "words": [
+        {
+          "t": "Доброе",
+          "lemma": "добрый",
+          "pos": "adj",
+          "stress": "до́брое",
+          "gloss": "good",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "утро.",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "nominative singular, neuter"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "Dima is waiting for you.",
+      "words": [
+        {
+          "t": "Дима",
+          "lemma": "дима",
+          "pos": "name",
+          "stress": "Ди́ма",
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
+        },
+        {
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, genitive"
+        },
+        {
+          "t": "ждёт.",
+          "lemma": "ждать",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is waiting",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 29,
+      "trans": "Dima? He is here?",
+      "words": [
+        {
+          "t": "Дима?",
+          "lemma": "дима",
+          "pos": "name",
+          "stress": "Ди́ма",
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
+        },
+        {
+          "t": "Он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "здесь?",
+          "lemma": "здесь",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "Yes, he is at his table.",
+      "words": [
+        {
+          "t": "Да,",
+          "lemma": "да",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + accusative"
+        },
+        {
+          "t": "своим",
+          "lemma": "свой",
+          "pos": "det",
+          "stress": "свои́м",
+          "gloss": "of yours, your own",
+          "gram": "dative plural"
+        },
+        {
+          "t": "столом.",
+          "lemma": "стол",
+          "pos": "noun",
+          "stress": "столо́м",
+          "gloss": "the table",
+          "gram": "masculine, instrumental singular"
+        }
+      ]
+    },
+    {
       "seg": 31,
+      "trans": "What does he want?",
+      "words": [
+        {
+          "t": "Что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "хочет?",
+          "lemma": "хотеть",
+          "pos": "verb",
+          "stress": "хо́чет",
+          "gloss": "wants",
+          "gram": "present, 3rd person singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 32,
       "trans": "I do not know.",
       "words": [
         {
@@ -672,759 +670,50 @@
     },
     {
       "seg": 33,
-      "trans": "He usually calls first.",
+      "trans": "Okay, I am coming.",
       "words": [
         {
-          "t": "Обычно",
-          "lemma": "обычно",
+          "t": "Хорошо,",
+          "lemma": "хорошо",
           "pos": "adv",
-          "stress": "обы́чно",
-          "gloss": "usually",
-          "gram": "adverb"
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
-          "t": "он",
-          "lemma": "он",
+          "t": "я",
+          "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
         },
         {
-          "t": "сначала",
-          "lemma": "сначала",
-          "pos": "adv",
-          "stress": "снача́ла",
-          "gloss": "first, at first",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "звонит.",
-          "lemma": "звонить",
+          "t": "иду.",
+          "lemma": "идти",
           "pos": "verb",
-          "stress": "звони́т",
-          "gloss": "is calling",
-          "gram": "present, 3rd person singular, imperfective"
+          "stress": "иду́",
+          "gloss": "(I'm) going, running",
+          "gram": "present, 1st person singular, imperfective"
         }
       ]
     },
     {
       "seg": 35,
-      "trans": "He seems very excited.",
+      "trans": "Good luck!",
       "words": [
         {
-          "t": "Он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "кажется",
-          "lemma": "казаться",
-          "pos": "verb",
-          "stress": "ка́жется",
-          "gloss": "it seems, I think",
-          "gram": "present, 3rd person singular, imperfective; used as a parenthetical word"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "взволнованным.",
-          "lemma": "взволнованный",
-          "pos": "adj",
-          "stress": "взволнова́нным",
-          "gloss": "anxious, worried",
-          "gram": "nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 37,
-      "trans": "Okay, I am coming.",
-      "words": [
-        {
-          "t": "Хорошо,",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "иду.",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "иду́",
-          "gloss": "(I'm) going, running",
-          "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "Bring him some coffee.",
-      "words": [
-        {
-          "t": "Принеси",
-          "lemma": "принести",
-          "pos": "verb",
-          "stress": "принеси́",
-          "gloss": "bring",
-          "gram": "perfective imperative, singular"
-        },
-        {
-          "t": "ему",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "ему́",
-          "gloss": "(to) him",
-          "gram": "3rd person singular masculine, dative"
-        },
-        {
-          "t": "немного",
-          "lemma": "немного",
-          "pos": "adv",
-          "stress": "немно́го",
-          "gloss": "a bit",
-          "gram": "adverb"
-        },
-        {
-          "t": "кофе.",
-          "lemma": "кофе",
+          "t": "Удачи!",
+          "lemma": "удача",
           "pos": "noun",
-          "stress": "ко́фе",
-          "gloss": "of coffee",
-          "gram": "indeclinable, masculine"
-        }
-      ]
-    },
-    {
-      "seg": 41,
-      "trans": "Hello.",
-      "words": [
-        {
-          "t": "Здравствуйте.",
-          "lemma": "здравствуйте",
-          "pos": "verb",
-          "stress": "здра́вствуйте",
-          "gloss": "hello (polite)",
-          "gram": "polite greeting, the first в is silent"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "Good morning.",
-      "words": [
-        {
-          "t": "Доброе",
-          "lemma": "добрый",
-          "pos": "adj",
-          "stress": "до́брое",
-          "gloss": "good",
-          "gram": "nominative singular, neuter"
-        },
-        {
-          "t": "утро.",
-          "lemma": "утро",
-          "pos": "noun",
-          "stress": "у́тро",
-          "gloss": "morning",
-          "gram": "nominative singular, neuter"
-        }
-      ]
-    },
-    {
-      "seg": 43,
-      "trans": "Chef, they are waiting for you.",
-      "words": [
-        {
-          "t": "Шеф,",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
-        },
-        {
-          "t": "ожидают.",
-          "lemma": "ожидать",
-          "pos": "verb",
-          "stress": "ожида́ют",
-          "gloss": "to expect; to wait for",
-          "gram": "3rd person plural"
-        }
-      ]
-    },
-    {
-      "seg": 44,
-      "trans": "Who is waiting for me?",
-      "words": [
-        {
-          "t": "Кто",
-          "lemma": "кто",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "who",
-          "gram": "question word, nominative"
-        },
-        {
-          "t": "меня",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "ждет?",
-          "lemma": "ждать",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is waiting",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "Dmitry Vladimirovich is waiting for you.",
-      "words": [
-        {
-          "t": "Дмитрий",
-          "lemma": "дмитрий",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
-        },
-        {
-          "t": "Владимирович",
-          "lemma": "владимирович",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Vladimirovich (son of Vladimir)",
-          "gram": "patronymic"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
-        },
-        {
-          "t": "ждёт.",
-          "lemma": "ждать",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "is waiting",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 46,
-      "trans": "Nagiyev is here?",
-      "words": [
-        {
-          "t": "Нагиев",
-          "lemma": "нагиев",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Nagiyev",
-          "gram": "proper noun"
-        },
-        {
-          "t": "здесь?",
-          "lemma": "здесь",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "here",
-          "gram": "adverb"
-        }
-      ]
-    },
-    {
-      "seg": 47,
-      "trans": "Yes, he is at his table.",
-      "words": [
-        {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "за",
-          "lemma": "за",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "for",
-          "gram": "preposition + accusative"
-        },
-        {
-          "t": "своим",
-          "lemma": "свой",
-          "pos": "det",
-          "stress": "свои́м",
-          "gloss": "of yours, your own",
-          "gram": "dative plural"
-        },
-        {
-          "t": "столом.",
-          "lemma": "стол",
-          "pos": "noun",
-          "stress": "столо́м",
-          "gloss": "the table",
-          "gram": "masculine, instrumental singular"
-        }
-      ]
-    },
-    {
-      "seg": 48,
-      "trans": "What does he want?",
-      "words": [
-        {
-          "t": "Что",
-          "lemma": "что",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "хочет?",
-          "lemma": "хотеть",
-          "pos": "verb",
-          "stress": "хо́чет",
-          "gloss": "wants",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "I do not know.",
-      "words": [
-        {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "знаю.",
-          "lemma": "знать",
-          "pos": "verb",
-          "stress": "зна́ю",
-          "gloss": "(I) know",
-          "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 50,
-      "trans": "He usually calls first.",
-      "words": [
-        {
-          "t": "Обычно",
-          "lemma": "обычно",
-          "pos": "adv",
-          "stress": "обы́чно",
-          "gloss": "usually",
-          "gram": "adverb"
-        },
-        {
-          "t": "он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "сначала",
-          "lemma": "сначала",
-          "pos": "adv",
-          "stress": "снача́ла",
-          "gloss": "first, at first",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "звонит.",
-          "lemma": "звонить",
-          "pos": "verb",
-          "stress": "звони́т",
-          "gloss": "is calling",
-          "gram": "present, 3rd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 51,
-      "trans": "He seems very excited.",
-      "words": [
-        {
-          "t": "Он",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "кажется",
-          "lemma": "казаться",
-          "pos": "verb",
-          "stress": "ка́жется",
-          "gloss": "it seems, I think",
-          "gram": "present, 3rd person singular, imperfective; used as a parenthetical word"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "взволнованным.",
-          "lemma": "взволнованный",
-          "pos": "adj",
-          "stress": "взволнова́нным",
-          "gloss": "anxious, worried",
-          "gram": "nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 52,
-      "trans": "Okay, I am coming.",
-      "words": [
-        {
-          "t": "Хорошо,",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "иду.",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "иду́",
-          "gloss": "(I'm) going, running",
-          "gram": "present, 1st person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 53,
-      "trans": "Bring him some coffee.",
-      "words": [
-        {
-          "t": "Принеси",
-          "lemma": "принести",
-          "pos": "verb",
-          "stress": "принеси́",
-          "gloss": "bring",
-          "gram": "perfective imperative, singular"
-        },
-        {
-          "t": "ему",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "ему́",
-          "gloss": "(to) him",
-          "gram": "3rd person singular masculine, dative"
-        },
-        {
-          "t": "немного",
-          "lemma": "немного",
-          "pos": "adv",
-          "stress": "немно́го",
-          "gloss": "a bit",
-          "gram": "adverb"
-        },
-        {
-          "t": "кофе.",
-          "lemma": "кофе",
-          "pos": "noun",
-          "stress": "ко́фе",
-          "gloss": "of coffee",
-          "gram": "indeclinable, masculine"
-        }
-      ]
-    },
-    {
-      "seg": 55,
-      "trans": "Bye!",
-      "words": [
-        {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "свидания!",
-          "lemma": "свидание",
-          "pos": "noun",
-          "stress": "свида́ния",
-          "gloss": "meeting (goodbye)",
-          "gram": "genitive neuter singular"
+          "stress": "уда́чи",
+          "gloss": "(good) luck",
+          "gram": "feminine singular, genitive (wishing: 'I wish you luck')"
         }
       ]
     }
   ],
   "lexicon": {
-    "взволнованный": {
-      "lemma": "взволнованный",
-      "stress": "взволно́ванный",
-      "pos": "adj",
-      "gloss": "anxious, worried",
-      "meanings": [
-        {
-          "en": "anxious, worried",
-          "note": "Prefix 'вз-' ('up') marks upward or sudden onset of action (stem 'волнованный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('anxious, worried')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "взволнованный",
-              "взволнованная",
-              "взволнованное",
-              "взволнованные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "взволнованного",
-              "взволнованной",
-              "взволнованного",
-              "взволнованных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "взволнованному",
-              "взволнованной",
-              "взволнованному",
-              "взволнованным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "взволнованный",
-              "взволнованную",
-              "взволнованное",
-              "взволнованные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "взволнованным",
-              "взволнованной",
-              "взволнованным",
-              "взволнованными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "взволнованном",
-              "взволнованной",
-              "взволнованном",
-              "взволнованных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Он кажется очень взволнованным.",
-          "trans": "He seems very excited."
-        },
-        {
-          "text": "Он кажется сегодня очень взволнованным.",
-          "trans": "He seems very anxious today."
-        },
-        {
-          "text": "У двери стоял взволнованный официант с меню в руках.",
-          "trans": "A worried waiter stood by the door with a menu in his hands."
-        }
-      ],
-      "related": [
-        {
-          "word": "взвод",
-          "gloss": "cocking"
-        }
-      ]
-    },
-    "вы": {
-      "lemma": "вы",
-      "stress": "вы",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you",
-          "note": "polite to one person, or to several people"
-        },
-        {
-          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
-          "note": "Case forms. Core Russian pron meaning 'you (polite or plural)' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "вы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "вам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "вами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "вас"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Губернатор вас поддерживает?",
-          "trans": "Does the governor support you?"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": [
-        {
-          "word": "вас",
-          "gloss": "you (genitive/accusative)"
-        }
-      ]
-    },
     "да": {
       "lemma": "да",
       "stress": "да",
@@ -1574,119 +863,6 @@
         }
       ]
     },
-    "ждать": {
-      "lemma": "ждать",
-      "stress": "ждать",
-      "pos": "verb",
-      "gloss": "to wait, to expect",
-      "aspect": "impf",
-      "pair": "подождать",
-      "meanings": [
-        {
-          "en": "to wait (for)",
-          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
-        },
-        {
-          "en": "to expect",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "жду",
-              "ждём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "ждёшь",
-              "ждёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ждёт",
-              "ждут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "ждал",
-                "ждала",
-                "ждало",
-                "ждали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "жди",
-                "ждите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Не жди меня.",
-          "trans": "Don't wait for me."
-        },
-        {
-          "text": "Я жду тебя.",
-          "trans": "I'm waiting for you."
-        },
-        {
-          "text": "Так тебя не ждать сегодня?",
-          "trans": "So I shouldn't wait for you tonight?"
-        }
-      ],
-      "related": [
-        {
-          "word": "подождать",
-          "gloss": "to wait"
-        },
-        {
-          "word": "дождаться",
-          "gloss": "to wait for"
-        }
-      ]
-    },
     "за": {
       "lemma": "за",
       "stress": "за",
@@ -1726,157 +902,6 @@
         {
           "word": "под",
           "gloss": "under"
-        }
-      ]
-    },
-    "звонить": {
-      "lemma": "звонить",
-      "stress": "звони́ть",
-      "pos": "verb",
-      "gloss": "to call, to phone; to ring",
-      "aspect": "impf",
-      "pair": "позвонить",
-      "meanings": [
-        {
-          "en": "to call, to phone",
-          "note": "+ dative of the person. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
-        },
-        {
-          "en": "to ring",
-          "note": "A bell or phone. Used as an imperfective (ongoing/repeated action) verb meaning 'to call, to phone; to ring', paired with 'позвонить'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "звоню",
-              "звоним"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "звонишь",
-              "звоните"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "звонит",
-              "звонят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "звонил",
-                "звонила",
-                "звонило",
-                "звонили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "звони",
-                "звоните"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Звони ему.",
-          "trans": "Call him."
-        },
-        {
-          "text": "Кто звонит?",
-          "trans": "Who's calling?"
-        },
-        {
-          "text": "Конечно. Звони ему.",
-          "trans": "Of course. Call him."
-        }
-      ],
-      "related": [
-        {
-          "word": "позвонить",
-          "gloss": "to call"
-        },
-        {
-          "word": "звонок",
-          "gloss": "call"
-        },
-        {
-          "word": "перезвонить",
-          "gloss": "to call back"
-        }
-      ]
-    },
-    "здесь": {
-      "lemma": "здесь",
-      "stress": "здесь",
-      "pos": "adv",
-      "gloss": "here",
-      "meanings": [
-        {
-          "en": "here",
-          "note": "Location. Core Russian adv meaning 'here' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я здесь.",
-          "trans": "I'm here."
-        },
-        {
-          "text": "Мы здесь живём.",
-          "trans": "We live here."
-        },
-        {
-          "text": "Мы же бизнесом здесь занимаемся.",
-          "trans": "But we're in business here."
-        }
-      ],
-      "related": [
-        {
-          "word": "тут",
-          "gloss": "here (colloquial)"
         }
       ]
     },
@@ -2181,278 +1206,6 @@
         }
       ]
     },
-    "казаться": {
-      "lemma": "казаться",
-      "stress": "каза́ться",
-      "pos": "verb",
-      "gloss": "to seem",
-      "aspect": "impf",
-      "pair": "показаться",
-      "meanings": [
-        {
-          "en": "to seem",
-          "note": "мне кажется = I think, it seems to me"
-        },
-        {
-          "en": "it seems, I think",
-          "note": "Кажется as a parenthetical word. Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to seem', paired with 'показаться'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "кажусь",
-              "кажемся"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "кажешься",
-              "кажетесь"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "кажется",
-              "кажутся"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "казался",
-                "казалась",
-                "казалось",
-                "казались"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мне кажется, он прав.",
-          "trans": "I think he's right."
-        },
-        {
-          "text": "Я вас видел, кажется.",
-          "trans": "I think I've seen you."
-        },
-        {
-          "text": "Я вас где-то видел, кажется.",
-          "trans": "I think I've seen you somewhere."
-        }
-      ],
-      "related": [
-        {
-          "word": "показаться",
-          "gloss": "to seem"
-        },
-        {
-          "word": "сказать",
-          "gloss": "to say"
-        },
-        {
-          "word": "наказать",
-          "gloss": "to punish"
-        }
-      ]
-    },
-    "кофе": {
-      "lemma": "кофе",
-      "stress": "ко́фе",
-      "pos": "noun",
-      "gloss": "coffee",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "coffee",
-          "note": "Never changes its form; masculine. Common masculine noun meaning 'coffee' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "кофе",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "кофе",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "кофе",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "кофе",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "кофе",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "кофе",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я хочу кофе.",
-          "trans": "I want coffee."
-        },
-        {
-          "text": "Кофе горячий.",
-          "trans": "The coffee is hot."
-        },
-        {
-          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
-          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
-        }
-      ],
-      "related": [
-        {
-          "word": "кофеин",
-          "gloss": "caffeine"
-        },
-        {
-          "word": "кофемашина",
-          "gloss": "coffee machine"
-        }
-      ]
-    },
-    "кто": {
-      "lemma": "кто",
-      "stress": "кто",
-      "pos": "pron",
-      "gloss": "who",
-      "meanings": [
-        {
-          "en": "who",
-          "note": "in the instrumental: 'кем ты работаешь?'"
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "кто"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "кого"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "кому"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "кого"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "кем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "ком"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кто ваши конкуренты?",
-          "trans": "Who are your rivals?"
-        },
-        {
-          "text": "Кто там?",
-          "trans": "Who's there?"
-        },
-        {
-          "text": "Аркадий Борисович, кто ваши конкуренты?",
-          "trans": "Arkady Borisovich, who are your rivals?"
-        }
-      ],
-      "related": [
-        {
-          "word": "кто-то",
-          "gloss": "someone"
-        },
-        {
-          "word": "никто",
-          "gloss": "nobody"
-        }
-      ]
-    },
     "не": {
       "lemma": "не",
       "stress": "не",
@@ -2488,182 +1241,6 @@
         {
           "word": "ни",
           "gloss": "neither, not a single"
-        }
-      ]
-    },
-    "немного": {
-      "lemma": "немного",
-      "stress": "немно́го",
-      "pos": "adv",
-      "gloss": "a little, a bit",
-      "meanings": [
-        {
-          "en": "a little, a bit",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'много'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Поработать немного надо.",
-          "trans": "I need to do a bit of work."
-        },
-        {
-          "text": "Я немного устал.",
-          "trans": "I'm a bit tired."
-        },
-        {
-          "text": "Мы даём вам ещё немного времени.",
-          "trans": "We are giving you a little more time."
-        }
-      ],
-      "related": [
-        {
-          "word": "много",
-          "gloss": "a lot"
-        },
-        {
-          "word": "многовато",
-          "gloss": "a bit too much"
-        },
-        {
-          "word": "намного",
-          "gloss": "much"
-        }
-      ]
-    },
-    "обычно": {
-      "lemma": "обычно",
-      "stress": "обы́чно",
-      "pos": "adv",
-      "gloss": "usually, typically",
-      "meanings": [
-        {
-          "en": "usually, typically",
-          "note": "Prefix 'об-' ('around, about') marks encirclement or comprehensive action (stem 'ычно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "А в каких местах он обычно пьёт?",
-          "trans": "And in what places does he usually drink?"
-        },
-        {
-          "text": "Он обычно встаёт в семь утра.",
-          "trans": "He usually gets up at seven in the morning."
-        },
-        {
-          "text": "Мужчины обычно ухаживают за женщинами.",
-          "trans": "Men usually court women."
-        }
-      ],
-      "related": [
-        {
-          "word": "обычный",
-          "gloss": "usually (adjective)"
-        }
-      ]
-    },
-    "ожидать": {
-      "lemma": "ожидать",
-      "stress": "ожида́ть",
-      "pos": "verb",
-      "gloss": "to expect; to wait for",
-      "aspect": "impf",
-      "pair": null,
-      "meanings": [
-        {
-          "en": "to expect",
-          "note": "+ genitive or accusative: я не ожидал = I didn't expect (that)"
-        },
-        {
-          "en": "to wait for",
-          "note": "Formal. Used as an imperfective (ongoing/repeated action) verb meaning 'to expect; to wait for'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "ожидаю",
-              "ожидаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "ожидаешь",
-              "ожидаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "ожидает",
-              "ожидают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "ожидал",
-                "ожидала",
-                "ожидало",
-                "ожидали"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я не ожидал.",
-          "trans": "I didn't expect that."
-        },
-        {
-          "text": "Мы ожидаем гостей.",
-          "trans": "We are expecting guests."
-        },
-        {
-          "text": "Аркаша, я не ожидал. Спасибо!",
-          "trans": "Arkasha, I didn't expect that. Thank you!"
-        }
-      ],
-      "related": [
-        {
-          "word": "неожиданно",
-          "gloss": "unexpectedly"
-        },
-        {
-          "word": "ожидание",
-          "gloss": "expectation"
-        },
-        {
-          "word": "неожиданный",
-          "gloss": "unexpected"
         }
       ]
     },
@@ -2758,195 +1335,6 @@
         {
           "word": "его",
           "gloss": "his, him"
-        }
-      ]
-    },
-    "очень": {
-      "lemma": "очень",
-      "stress": "о́чень",
-      "pos": "adv",
-      "gloss": "very, very much",
-      "meanings": [
-        {
-          "en": "very",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        },
-        {
-          "en": "very much",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я очень люблю наш город.",
-          "trans": "I love our town very much."
-        },
-        {
-          "text": "Это очень трудно.",
-          "trans": "It's very hard."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "совсем",
-          "gloss": "intensified / related adverb (very)"
-        }
-      ]
-    },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
-    },
-    "принести": {
-      "lemma": "принести",
-      "stress": "принести́",
-      "pos": "verb",
-      "gloss": "to bring (on foot)",
-      "aspect": "pf",
-      "pair": "приносить",
-      "meanings": [
-        {
-          "en": "to bring (carrying on foot)",
-          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'нести'). Used as an perfective (single completed action) verb meaning 'to bring (on foot)', paired with 'приносить'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "принесу",
-              "принесём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "принесёшь",
-              "принесёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "принесёт",
-              "принесут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "принёс",
-                "принесла",
-                "принесло",
-                "принесли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "принеси",
-                "принесите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "А я вот вам чаю с сушками принёс.",
-          "trans": "I've brought you some tea and bread rings."
-        },
-        {
-          "text": "Принесите, пожалуйста, воды.",
-          "trans": "Bring some water, please."
-        },
-        {
-          "text": "Что ты в квартиру принёс?",
-          "trans": "What did you bring into the flat?"
-        }
-      ],
-      "related": [
-        {
-          "word": "приносить",
-          "gloss": "to bring"
-        },
-        {
-          "word": "нести",
-          "gloss": "to carry"
-        },
-        {
-          "word": "перенести",
-          "gloss": "to carry over"
         }
       ]
     },
@@ -3053,44 +1441,6 @@
         }
       ]
     },
-    "сначала": {
-      "lemma": "сначала",
-      "stress": "снача́ла",
-      "pos": "adv",
-      "gloss": "at first, first",
-      "meanings": [
-        {
-          "en": "at first, first of all",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'начала')."
-        },
-        {
-          "en": "from the beginning, over again",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'начала')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Сначала они там грубили, оскорбляли.",
-          "trans": "First they were rude and insulting over there."
-        },
-        {
-          "text": "Давай начнём всё сначала.",
-          "trans": "Let's start everything from the beginning."
-        },
-        {
-          "text": "Мы танцевали. Сначала они там грубили, оскорбляли.",
-          "trans": "We were dancing. First they were rude and insulting over there."
-        }
-      ],
-      "related": [
-        {
-          "word": "очень сначала",
-          "gloss": "intensified / related adverb (at first)"
-        }
-      ]
-    },
     "стол": {
       "lemma": "стол",
       "stress": "стол",
@@ -3174,92 +1524,6 @@
         {
           "word": "столный",
           "gloss": "related to table (adj.)"
-        }
-      ]
-    },
-    "ты": {
-      "lemma": "ты",
-      "stress": "ты",
-      "pos": "pron",
-      "gloss": "you (informal)",
-      "meanings": [
-        {
-          "en": "you",
-          "note": "One person, informal. Core Russian pron meaning 'you (informal)' in everyday speech."
-        },
-        {
-          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
-          "note": "Case forms. Core Russian pron meaning 'you (informal)' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "ты"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "тебя"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тебе"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "тебя"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "тобой"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "тебе"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ты жадина!",
-          "trans": "You're greedy!"
-        },
-        {
-          "text": "У тебя есть ещё?",
-          "trans": "Have you got any more?"
-        },
-        {
-          "text": "Папа, а жвачку ты привёз?",
-          "trans": "Dad, did you bring any gum?"
-        }
-      ],
-      "related": [
-        {
-          "word": "тебя",
-          "gloss": "you (genitive/accusative)"
-        },
-        {
-          "word": "тебе",
-          "gloss": "to you (dative)"
         }
       ]
     },
@@ -3667,62 +1931,20 @@
         }
       ]
     },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "gloss": "until, before; up to",
-      "meanings": [
-        {
-          "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
-        },
-        {
-          "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
-        },
-        {
-          "text": "До вечера!",
-          "trans": "See you tonight!"
-        }
-      ],
-      "related": [
-        {
-          "word": "дойти",
-          "gloss": "to reach, walk as far as"
-        },
-        {
-          "word": "после",
-          "gloss": "after"
-        }
-      ]
-    },
-    "свидание": {
-      "lemma": "свидание",
-      "stress": "свида́ние",
+    "удача": {
+      "lemma": "удача",
+      "stress": "уда́ча",
       "pos": "noun",
-      "gloss": "meeting; date",
-      "gender": "n",
+      "gloss": "luck",
+      "gender": "f",
       "meanings": [
         {
-          "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "en": "luck, good luck",
+          "note": "Удачи! = Good luck! (genitive: 'I wish you luck')"
         },
         {
-          "en": "date (romantic)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "en": "success",
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'дача'). Common feminine noun meaning 'luck' in everyday Russian."
         }
       ],
       "forms": {
@@ -3736,43 +1958,43 @@
           {
             "cells": [
               "nominative",
-              "свидание",
-              "свидания"
+              "удача",
+              "удачи"
             ]
           },
           {
             "cells": [
               "genitive",
-              "свидания",
-              "свиданий"
+              "удачи",
+              "удач"
             ]
           },
           {
             "cells": [
               "dative",
-              "свиданию",
-              "свиданиям"
+              "удаче",
+              "удачам"
             ]
           },
           {
             "cells": [
               "accusative",
-              "свидание",
-              "свидания"
+              "удачу",
+              "удачи"
             ]
           },
           {
             "cells": [
               "instrumental",
-              "свиданием",
-              "свиданиями"
+              "удачей",
+              "удачами"
             ]
           },
           {
             "cells": [
               "prepositional",
-              "свидании",
-              "свиданиях"
+              "удаче",
+              "удачах"
             ]
           }
         ]
@@ -3780,22 +2002,263 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
+          "text": "Удачи тебе!",
+          "trans": "Good luck to you!"
         },
         {
-          "text": "У меня сегодня свидание.",
-          "trans": "I have a date today."
+          "text": "Это большая удача.",
+          "trans": "That's a real stroke of luck."
         },
         {
-          "text": "У неё свидание.",
-          "trans": "She has a date."
+          "text": "Нет, не получается у меня это забыть. Удачи тебе на новом месте работы.",
+          "trans": "No, I just can't forget it. Good luck to you in your new job."
         }
       ],
       "related": [
         {
-          "word": "видать",
-          "gloss": "to see"
+          "word": "задача",
+          "gloss": "task"
+        },
+        {
+          "word": "дача",
+          "gloss": "dacha"
+        },
+        {
+          "word": "передача",
+          "gloss": "broadcast"
+        }
+      ]
+    },
+    "ты": {
+      "lemma": "ты",
+      "stress": "ты",
+      "pos": "pron",
+      "gloss": "you (informal)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "One person, informal. Core Russian pron meaning 'you (informal)' in everyday speech."
+        },
+        {
+          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
+          "note": "Case forms. Core Russian pron meaning 'you (informal)' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты жадина!",
+          "trans": "You're greedy!"
+        },
+        {
+          "text": "У тебя есть ещё?",
+          "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
+        }
+      ]
+    },
+    "ждать": {
+      "lemma": "ждать",
+      "stress": "ждать",
+      "pos": "verb",
+      "gloss": "to wait, to expect",
+      "aspect": "impf",
+      "pair": "подождать",
+      "meanings": [
+        {
+          "en": "to wait (for)",
+          "note": "+ accusative. Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+        },
+        {
+          "en": "to expect",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to wait, to expect', paired with 'подождать'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "жду",
+              "ждём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ждёшь",
+              "ждёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ждёт",
+              "ждут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "ждал",
+                "ждала",
+                "ждало",
+                "ждали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "жди",
+                "ждите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Не жди меня.",
+          "trans": "Don't wait for me."
+        },
+        {
+          "text": "Я жду тебя.",
+          "trans": "I'm waiting for you."
+        },
+        {
+          "text": "Так тебя не ждать сегодня?",
+          "trans": "So I shouldn't wait for you tonight?"
+        }
+      ],
+      "related": [
+        {
+          "word": "подождать",
+          "gloss": "to wait"
+        },
+        {
+          "word": "дождаться",
+          "gloss": "to wait for"
+        }
+      ]
+    },
+    "здесь": {
+      "lemma": "здесь",
+      "stress": "здесь",
+      "pos": "adv",
+      "gloss": "here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": "Location. Core Russian adv meaning 'here' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я здесь.",
+          "trans": "I'm here."
+        },
+        {
+          "text": "Мы здесь живём.",
+          "trans": "We live here."
+        },
+        {
+          "text": "Мы же бизнесом здесь занимаемся.",
+          "trans": "But we're in business here."
+        }
+      ],
+      "related": [
+        {
+          "word": "тут",
+          "gloss": "here (colloquial)"
         }
       ]
     }

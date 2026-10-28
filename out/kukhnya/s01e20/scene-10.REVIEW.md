@@ -12,30 +12,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Хостес | Здравствуйте. | Hello. | #152 00:10:02: Здравствуйте. | verbatim |
 | 2 | Шеф | Доброе утро. | Good morning. | new | new |
-| 3 | Хостес | Шеф, вас ожидают. | Chef, they are waiting for you. | new | new |
-| 4 | Шеф | Кто меня ждет? | Who is waiting for me? | new | new |
-| 5 | Хостес | Дмитрий Владимирович вас ждёт. | Dmitry Vladimirovich is waiting for you. | new | new |
-| 6 | Шеф | Нагиев здесь? | Nagiyev is here? | new | new |
-| 7 | Хостес | Да, он за своим столом. | Yes, he is at his table. | new | new |
-| 8 | Шеф | Что он хочет? | What does he want? | new | new |
-| 9 | Хостес | Я не знаю. | I do not know. | new | new |
-| 10 | Шеф | Обычно он сначала звонит. | He usually calls first. | new | new |
-| 11 | Хостес | Он кажется очень взволнованным. | He seems very excited. | new | new |
-| 12 | Шеф | Хорошо, я иду. | Okay, I am coming. | new | new |
-| 13 | Шеф | Принеси ему немного кофе. | Bring him some coffee. | new | new |
+| 3 | Хостес | Дима тебя ждёт. | Dima is waiting for you. | #153 00:10:06: Дима тебя ждет. | verbatim |
+| 4 | Шеф | Дима? Он здесь? | Dima? He is here? | new | new |
+| 5 | Хостес | Да, он за своим столом. | Yes, he is at his table. | new | new |
+| 6 | Шеф | Что он хочет? | What does he want? | new | new |
+| 7 | Хостес | Я не знаю. | I do not know. | new | new |
+| 8 | Шеф | Хорошо, я иду. | Okay, I am coming. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' The long formal hello, with a silent 'v' at the start. The hostess uses the polite form.
-- 'Good morning.' 'Morning' is neuter, so 'good' carries 'oe'. A short, friendly reply.
-- 'Chef, they're waiting for you.' 'You' goes first, as 'vas'. 'They await' has no 'they'.
-- 'Who's waiting for me?' 'Who' comes first. 'Waits' carries 't', for 'he'.
-- 'Dmitry Vladimirovich is waiting for you.' She uses his first name and patronymic. 'You' is the polite form.
-- 'Is Nagiyev here?' There's no 'is'. The question lives on the rising voice.
-- 'Yes, he's at his table.' 'Behind his own table' is how Russian says 'at his table'. 'His own' points back to the owner.
-- 'What does he want?' 'He wants' is irregular. 'What' sits at the front.
-- 'I don't know.' One of the shortest sentences you can say. 'I know' finishes with 'u'.
-- 'He usually rings first.' 'Usually' carries 'o'. 'First' is just one word.
-- 'He seems very agitated.' 'Seems' is one word, and 'agitated' comes from 'wave'. It ends in 'ym' because it follows 'seems'.
-- 'Okay, I'm coming.' 'I go' is a short word with a 'u' ending. A quick reply.
-- 'Bring him some coffee.' 'Bring' is the friendly command. 'To him' is 'emu', and coffee never changes.
+- 'Hello.' This is the long polite hello, zdravstvuyte, and in speech the first v is silent: zdrastvuyte.
+- 'Good morning.' Russian says dobroe utro. The word utro, 'morning', is neuter, so dobroe, 'good', ends in -oe.
+- 'Dima's waiting for you.' The name Dima is the friendly short form of Dmitry, and here it means the owner. The word tebya, 'you', comes before zhdyot, 'is waiting'.
+- 'Dima? He's here?' Russian drops 'is' here: on zdes is literally 'he here'.
+- 'Yes, he's at his table.' Russian says za stolom, literally 'behind the table', for sitting at one.
+- 'What does he want?' The word khochet, 'he wants', comes from khotet, 'to want', which shifts its sounds: khochu is 'I want'.
+- 'I don't know.' Russian puts ne, 'not', straight in front of the action: ya ne znayu.
+- 'Okay, I'm coming.' Russian says ya idu, literally 'I am going', where English says 'I'm coming'.

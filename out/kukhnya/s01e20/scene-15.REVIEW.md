@@ -10,34 +10,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Пойдем, Макс, пойдем на улицу сейчас. | Come on, Max, let's go outside now. | #271 00:18:10: Пойдем. Пойдем. Пойдем. Пойдем. | verbatim |
-| 2 | Макс | Что я сделал? Я просто дал тебе подарок. | What did I do? I just gave you a gift. | new | new |
-| 3 | Вика | Как ты себя ведешь? Мне очень стыдно. | How are you behaving? I am very ashamed. | new | new |
-| 4 | Макс | А тебе не стыдно, что он целует твои руки? | And aren't you ashamed that he kisses your hands? | new | new |
-| 5 | Вика | Он хороший человек и он нормально себя ведет. | He is a good man and he behaves normally. | new | new |
-| 6 | Макс | Может быть, ты будешь встречаться с ним? | Maybe you will date him? | new | new |
-| 7 | Вика | Ты говоришь глупости, Макс. Я не понимаю тебя. | You speak nonsense, Max. I don't understand you. | new | new |
-| 8 | Макс | Он дарит тебе дорогие подарки. Будь благодарной. | He gives you expensive gifts. Be grateful. | new | new |
-| 9 | Вика | Хорошо, если ты так хочешь, я так сделаю. | Fine, if you want so, I will do so. | new | new |
-| 10 | Макс | Отлично, иди к нему и целуй его руки. | Excellent, go to him and kiss his hands. | new | new |
-| 11 | Вика | Ты просто дурак, Макс. Я ухожу отсюда. | You are just a fool, Max. I am leaving here. | new | new |
-| 12 | Макс | Извините, это нормально? Вы думаете, это нормально? | Excuse me, is this normal? Do you think this is normal? | new | new |
-| 13 | Гость | Я думаю, что ты просто пьяный дурак. | I think that you are just a drunken fool. | new | new |
-| 14 | Макс | Никто меня не понимает сегодня. Я пойду спать. | Nobody understands me today. I will go sleep. | new | new |
+| 1 | Вика | Пойдём. Пойдём. | Come on. Come on. | #271 00:18:10: Пойдем. Пойдем. | verbatim |
+| 2 | Вика | Как ты себя ведёшь? Мне стыдно за тебя. | How are you behaving? I am ashamed of you. | #273 00:18:14: Как ты себя ведешь? Мне стыдно за тебя. | verbatim |
+| 3 | Макс | А вам не стыдно, Виктория Сергеевна? | And are you not ashamed, Victoria Sergeyevna? | #275 00:18:19: Виктория Сергеевна, а вам не стыдно | verbatim |
+| 4 | Макс | Какой-то индюк вам руки целует. | Some turkey is kissing your hands. | #276 00:18:22: какой-то индюк | verbatim |
+| 5 | Вика | Этот индюк хорошо себя ведёт. | That turkey behaves well. | #277 00:18:26: этот индюк прилично себя ведет. | verbatim |
+| 6 | Макс | Может, вы тогда с ним встречаться будете? | Maybe you will date him, then? | #279 00:18:31: может, вы тогда с ним встречаться будете | verbatim |
+| 7 | Макс | Он вам дорогие подарки дарит. | He gives you expensive presents. | #280 00:18:34: подарки вам дорогие дарит. | verbatim |
+| 8 | Макс | Нужно быть благодарной. | You ought to be grateful. | #281 00:18:37: Нужно же быть благодарной. | verbatim |
+| 9 | Вика | Раз ты так хочешь, я так и сделаю. | Since you want it that way, I will do just that. | #282 00:18:39: раз ты так настаиваешь, я так и поступлю. | verbatim |
+| 10 | Макс | Извините. Это нормально, да? | Excuse me. Is this normal? | #283 00:18:45: Извините. Это нормально, да? | verbatim |
+| 11 | Гость | Ну, бывает. | Well, it happens. | #285 00:18:51: Ну, бывает. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, Max, let's go outside now.' 'We'll go' is used as 'let's go'. 'Outside' is 'onto the street', with an 'u' ending.
-- 'What did I do? I just gave you a gift.' 'Did' finishes with 'l' for a man. 'Gave' is the irregular 'dal'.
-- 'How are you behaving? I'm very ashamed.' 'Behave' is 'lead yourself'. Russian says 'to me ashamed', not 'I am ashamed'.
-- 'Aren't you ashamed that he kisses your hands?' 'To you ashamed' has the same pattern. 'Hands' is plural, and the singular looks different.
-- 'He's a good man and he behaves properly.' 'Properly' is made from 'normal'. 'Behaves' has 'yourself' inside it.
-- 'Maybe you'll go out with him?' 'Date' is built from 'meet', with 'sya'. 'With him' picks up an 'n'.
-- 'You're talking nonsense, Max. I don't understand you.' 'Nonsense' is plural in Russian. 'You' takes the 'a' form.
-- 'He gives you expensive gifts. Be grateful.' 'Be' is the command form of 'to be'. 'Grateful' carries 'oy'.
-- 'Fine, if you want it that way, I'll do it.' 'If' opens the condition. 'So' is a small word that appears twice.
-- 'Great, go to him and kiss his hands.' 'To him' picks up an 'n'. 'Kiss' is the command form.
-- 'You're just a fool, Max. I'm leaving.' 'Fool' is a short, blunt word. 'I'm leaving' is the ongoing kind.
-- 'Excuse me, is that normal? Do you think that's normal?' 'Normal' is used for 'okay' or 'acceptable'. 'You think' is polite, plural.
-- 'I think you're just a drunken fool.' 'Drunken' finishes with 'yy', for a masculine word. 'That' joins the two parts.
-- 'Nobody understands me today. I'm going to bed.' 'Nobody' and 'not' are together. 'I'll go sleep' is two words, with no 'to'.
+- 'Come on. Come on.' Russian says poydyom, literally 'we'll go', to mean 'come on' or 'let's go'.
+- 'How are you behaving? I'm ashamed of you.' Russian says mne stydno, literally 'to me it's shameful', and za tebya, 'for you'.
+- 'And aren't you ashamed, Victoria Sergeyevna?' Max switches to the formal vam and her full name with her father's name, which sounds cold between a couple.
+- 'Some turkey is kissing your hands.' The word indyuk, 'turkey', is what Russians call a puffed-up, pompous man.
+- 'That turkey behaves well.' Russian says sebya vedyot, literally 'leads himself', for 'behaves'.
+- 'Maybe you'll date him, then?' The word vstrechatsya means 'to meet', and also 'to go out with' someone.
+- 'He gives you expensive presents.' The word darit means 'to give as a present', rather than just 'to give'.
+- 'You ought to be grateful.' The ending -oy on blagodarnoy shows he means a woman; to a man it would be blagodarnym.
+- 'Since you want it that way, I'll do just that.' The word raz usually means 'once', and here it means 'since'.
+- 'Excuse me. Is this normal?' Russian uses normalno, 'normal', all the time for 'okay' or 'fine'.
+- 'Well, it happens.' The word byvaet, 'it happens', is what you say in Russian to shrug something off.

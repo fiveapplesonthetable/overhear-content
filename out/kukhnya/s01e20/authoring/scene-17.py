@@ -10,40 +10,22 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "The restaurant's party is in full swing, but Nastya has had enough and is heading for the door. Kostya catches up with her, because he has something to say. Listen to it in Russian first."
-OPENER = "Let's unpack it."
-TRANSITION = 'Now the whole conversation once more, from start to finish.'
-OUTRO = "Nastya agrees to listen, and Kostya takes a deep breath. 'Pozhaluysta' can mean 'please' or 'you're welcome', but here it means 'please'. See you next time!"
-CLOSING = ('kostya', 'До свидания!')
+INTRO = 'At the party, Nastya has had enough and heads for the door, and Kostya stops her. Listen to it in Russian first.'
+OPENER = "Let's go through what they said."
+TRANSITION = 'And the goodbye again.'
+OUTRO = "Kostya has stopped Nastya, and now he has to say it. You'd say podozhdi to a friend, and podozhdite to anyone you call vy. See you next time!"
+CLOSING = ('nastya', 'Пока!')
 STORY = [
-    ('kostya', 'Настя, подожди!', 'Nastya, wait!', [], ''),
     ('nastya', 'Пока.', 'Bye.', [(288, 'Пока')], ''),
-    ('kostya', 'О, уже уходишь?', 'Oh, you are leaving already?', [(289, 'О, уже уходишь')], ''),
-    ('nastya', 'Ага. Как-то здесь невесело.', 'Yeah. It is kind of a downer here.', [(290, 'Ага. Как-то здесь невесело')], ''),
-    ('kostya', 'Не уходи так быстро.', 'Do not leave so fast.', [], ''),
-    ('nastya', 'У меня много дел.', 'I have a lot of things to do.', [], ''),
-    ('kostya', 'Я хочу поговорить с тобой.', 'I want to talk to you.', [], ''),
-    ('nastya', 'О чем ты хочешь поговорить?', 'What do you want to talk about?', [], ''),
-    ('kostya', 'Это очень важно.', 'This is very important.', [], ''),
-    ('nastya', 'Говори быстрее.', 'Speak faster.', [], ''),
-    ('kostya', 'Подойди поближе.', 'Come closer.', [], ''),
-    ('nastya', 'Я слушаю.', 'I am listening.', [], ''),
-    ('kostya', 'Я не могу молчать.', 'I cannot stay silent.', [(291, 'Я')], ''),
-    ('kostya', 'Пожалуйста, выслушай меня.', 'Please, hear me out.', [], ''),
+    ('kostya', 'О, уже уходишь?', "Oh, you're leaving already?", [(289, 'О, уже уходишь')], ''),
+    ('nastya', 'Ага. Как-то здесь невесело.', "Yeah. It's kind of dull here.", [(290, 'Ага. Как-то здесь невесело')], ''),
+    ('kostya', 'Подожди. Я...', 'Wait. I...', [(291, 'Я')], ''),
+    ('nastya', 'Что?', 'What?', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, wait!' The word for 'wait' is the casual command. Kostya calls out her name first."),
-    (1, None, "'Bye.' The word 'poka' is the casual goodbye, which Nastya says without looking back."),
-    (2, None, "'Oh, are you leaving already?' The word for 'leave' is the ongoing kind, for going away, and 'already' is a small word."),
-    (3, None, "'Yeah. It's a bit of a downer here.' The word 'aga' is a casual 'yeah'. The Russian for 'dull' is made by putting 'ne' in front of 'cheerful'."),
-    (4, None, "'Don't leave so fast.' The word for a negative command uses the ongoing kind, and 'so fast' is two small words."),
-    (5, None, "'I've got a lot to do.' The Russian for 'matters' loses its ending after 'many', and 'at me' stands for 'I have'."),
-    (6, None, "'I want to talk to you.' The word for 'with you' is the irregular 'toboy', and the Russian for 'I want' is irregular too."),
-    (7, None, "'What do you want to talk about?' The words for 'about what' sound like one. The Russian for 'you want' carries 'sh'."),
-    (8, None, "'It's very important.' The word for 'important' ends in 'o', without a subject, and the word for 'very' is placed in front."),
-    (9, None, "'Speak faster.' The word for 'faster' is made from 'quickly' with 'ee', and the Russian for 'speak' is the informal order."),
-    (10, None, "'Come a bit closer.' The 'po' prefix makes the word for 'closer' into 'a bit closer', and the word for 'come up' has a prefix too."),
-    (11, None, "'I'm listening.' The Russian for 'I listen' comes as one word, and it finishes with 'yu'."),
-    (12, None, "'I can't keep quiet.' The word for 'I can't' is irregular, and 'keep quiet' is the plain form."),
-    (13, None, "'Please hear me out.' The word for 'hear out' has the prefix 'vy', meaning 'to the end', and the word for 'please' is the longer one."),
+    (0, None, "'Bye.' The word poka is the casual goodbye; literally it means 'for now'."),
+    (1, None, "'Oh, you're leaving already?' Russian uses ukhodish, 'you're going away', for leaving a place, and uzhe means 'already'."),
+    (2, None, "'Yeah. It's kind of dull here.' The word nevesyolo is ne, 'not', plus vesyolo, 'cheerful', and aga is a casual 'yeah'."),
+    (3, None, "'Wait. I...' The word podozhdi is how you'd say 'wait' to a friend; to a stranger you'd say podozhdite."),
+    (4, None, "'What?' In Russian chto means 'what', and in speech it sounds like 'shto'."),
 ]

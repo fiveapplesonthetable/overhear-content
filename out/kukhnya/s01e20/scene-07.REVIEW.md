@@ -10,32 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Ты сейчас серьёзно? | Are you serious right now? | #140 00:08:45: Ты больше | verbatim |
-| 2 | Настя | Да, я абсолютно серьёзна. | Yes, I am completely serious. | new | new |
-| 3 | Костя | Я этого не ожидал. | I did not expect this. | new | new |
-| 4 | Настя | Тебе следовало этого ожидать. | You should have expected it. | new | new |
-| 5 | Костя | Вчера всё было так хорошо. | Yesterday everything was so good. | new | new |
-| 6 | Настя | Вчера осталось в прошлом. | Yesterday is in the past. | new | new |
-| 7 | Костя | Что ты хочешь от меня? | What do you want from me? | new | new |
-| 8 | Настя | Я хочу серьёзных отношений. | I want a serious relationship. | new | new |
-| 9 | Костя | Я очень стараюсь. | I am trying my best. | new | new |
-| 10 | Настя | Этого недостаточно, Костя. | It is not enough, Kostya. | new | new |
-| 11 | Костя | Ты на меня сердишься? | Are you angry with me? | new | new |
-| 12 | Настя | Нет, я не сержусь. | No, I am not angry. | new | new |
-| 13 | Костя | Ты не счастлива со мной? | You are not happy with me? | new | new |
+| 1 | Настя | Костя, давай поговорим. | Kostya, let us talk. | new | new |
+| 2 | Костя | Сейчас? Я очень занят. | Now? I am very busy. | new | new |
+| 3 | Настя | Ты всегда занят. | You are always busy. | new | new |
+| 4 | Костя | Ты больше не сердишься? | You are not angry any more? | #140 00:08:45: Ты больше | verbatim |
+| 5 | Настя | Я не сержусь. Я просто хочу поговорить. | I am not angry. I just want to talk. | new | new |
+| 6 | Костя | Давай завтра, хорошо? | Let us do it tomorrow, okay? | new | new |
+| 7 | Настя | Нет, Костя, надо сейчас. | No, Kostya, it has to be now. | new | new |
+| 8 | Костя | Ой, мне надо на кухню. | Oh, I have to go to the kitchen. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you serious right now?' There's no verb, just 'you now seriously'. 'Seriously' carries 'o', like many words that say how.
-- 'Yes, I'm completely serious.' 'Serious' has an 'a' at the end because Nastya is a woman. 'Completely' is a borrowed word.
-- 'I didn't expect this.' After a negative, 'this' takes the 'of' form, 'etogo'. 'Expected' ends in the masculine 'l'.
-- 'You should have expected it.' The word 'sledovalo' is neuter and means 'it was due', from 'follow'. 'To you' is the first word.
-- 'Everything was so good yesterday.' 'Was' is neuter, to go with 'everything'. 'So good' is two small words.
-- 'Yesterday is in the past.' The line really says 'yesterday stayed in the past'. 'In the past' finishes with 'om'.
-- 'What do you want from me?' 'You want' is irregular, ending in 'sh'. 'From me' is a small word and 'menya'.
-- 'I want a serious relationship.' After 'want', the plural takes the 'of' form. So 'serious' and 'relationships' both change.
-- 'I'm trying my best.' 'Try' finishes with 'sya'. 'Very' sits in front of it.
-- 'It's not enough, Kostya.' The word is built from 'not' plus 'enough'. 'This' takes the 'of' form.
-- 'Are you angry with me?' Russians are angry 'on' someone. 'Be angry' carries 'sya'.
-- 'No, I'm not angry.' The 'd' of 'angry' changes to 'zh' for 'I'. It is the same change as in 'I see'.
-- 'Aren't you happy with me?' 'Happy' carries 'a' for a woman. 'With me' is the irregular 'so mnoy'.
+- 'Kostya, let's talk.' The word davay, 'come on', plus a 'we' form, pogovorim, makes 'let's' in Russian.
+- 'Now? I'm very busy.' The word zanyat, 'busy', has no ending because Kostya is a man; Nastya would say zanyata.
+- 'You're always busy.' Russian puts vsegda, 'always', before the word it goes with, just like English.
+- 'You're not angry any more?' The pair bolshe ne means 'no longer'; on its own bolshe means 'more'.
+- 'I'm not angry. I just want to talk.' In serzhus, 'I'm angry', the d of serdishsya turns into zh, and the ending changes for 'I'.
+- 'Let's do it tomorrow, okay?' Russian needs no verb here: davay zavtra means 'let's make it tomorrow'.
+- 'No, Kostya, it has to be now.' Russian says nado seychas, literally 'needed now', with no 'it' and no 'be'.
+- 'Oh, I have to go to the kitchen.' Again Russian drops 'to go': mne nado na kukhnyu. After na, kukhnya becomes kukhnyu.

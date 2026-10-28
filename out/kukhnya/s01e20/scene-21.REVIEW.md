@@ -10,30 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Люди часто спят. | People often sleep. | new | new |
-| 2 | Макс | Они не хотят думать. | They do not want to think. | new | new |
-| 3 | Макс | Все любят мечтать. | Everyone loves to dream. | new | new |
-| 4 | Макс | Мы видим сны. | We see dreams. | new | new |
-| 5 | Макс | Такая у нас жизнь. | Such is our life. | new | new |
-| 6 | Макс | Никто не видит правду. | Nobody sees the truth. | new | new |
-| 7 | Макс | Мы сами не видим. | We ourselves do not see. | #334 00:22:54: Мы | verbatim |
-| 8 | Макс | Многие закрывают глаза. | Many close their eyes. | new | new |
-| 9 | Макс | Они боятся. | They are afraid. | new | new |
-| 10 | Макс | Просто ждут чудо. | Just wait for a miracle. | new | new |
-| 11 | Макс | Никто ничего не знает. | Nobody knows anything. | new | new |
-| 12 | Макс | И все молчат. | And everyone is silent. | new | new |
+| 1 | Макс | Мы. | We. | #334 00:22:54: Мы | verbatim |
+| 2 | Макс | Кто мы? | Who are we? | new | new |
+| 3 | Макс | Мы живём каждый день. | We live every day. | new | new |
+| 4 | Макс | Мы работаем, любим, ссоримся. | We work, we love, we quarrel. | new | new |
+| 5 | Макс | Мы дарим подарки. | We give presents. | new | new |
+| 6 | Макс | Мы делаем предложения. | We make proposals. | new | new |
+| 7 | Макс | Но часто мы не знаем, кто мы. | But often we don't know who we are. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People often sleep.' 'People' is an irregular plural. 'They sleep' carries 'yat'.
-- 'They don't want to think.' 'They want' is irregular, ending in 'yat'. 'To think' is the plain form.
-- 'Everyone loves to dream.' 'Dream' means to daydream, not to sleep. 'They love' is plural, to go with 'everyone'.
-- 'We have dreams.' Russians 'see' dreams, where English 'has' them. 'We see' carries 'im'.
-- 'Such is our life.' 'Such at us life' is the word order. There's no 'is'.
-- 'Nobody sees the truth.' 'Nobody' and 'not' appear together. 'Truth' takes a 'u' ending.
-- 'We ourselves don't see.' 'Ourselves' is a short plural word. It comes right after 'we'.
-- 'Many close their eyes.' 'Eyes' is plural, with a stressed 'a'. 'Many' is plural, too.
-- 'They are afraid.' 'Fear' finishes with 'sya', so it's 'they fear themselves'. A short, plain line.
-- 'They just wait for a miracle.' 'Wait for' takes the object form, but 'miracle' is neuter and doesn't change. 'Just' sits at the front.
-- 'Nobody knows anything.' Three negatives: 'nobody', 'nothing' and 'not'. All are required.
-- 'And everyone keeps quiet.' 'Are silent' carries 'yat'. 'Everyone' is the plain word.
+- 'We.' The word my means 'we', and here it starts Max's closing thought.
+- 'Who are we?' Russian needs no 'are': kto my, literally 'who we'.
+- 'We live every day.' Russian says kazhdyy den, 'every day', with no little word for 'on' in front.
+- 'We work, we love, we quarrel.' Russian ssorimsya ends in -sya, because quarrelling is something people do with each other.
+- 'We give presents.' Russian says darim podarki, and both words come from dar, 'gift'.
+- 'We make proposals.' The word predlozhenie means 'proposal' of marriage, and also 'offer' or 'sentence'.
+- 'But often we don't know who we are.' The little word ne, 'not', goes straight before znaem, 'we know'.
