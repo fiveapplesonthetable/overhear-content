@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, have you already fixed our register?' Vika uses Kostya's name because she thinks it's him. The word for "fixed" ends in -l, which is the past for a man.
+- 'Kostya, have you already fixed our register?' Vika uses Kostya's name because she thinks it's him. "Fixed" ends in -l, which is the past for a man.
 - 'No, I am still working on this register.' "Work on" uses a small word that literally means "above". The register takes the ending that this word calls for.
-- 'What are you even doing behind our bar counter?' The little word "behind" gives the counter an ending. And "even" is the word that sharpens a question.
-- 'I am simply calmly adjusting this complex system.' "Calmly" comes from the word for calm, the same in "good night". "Adjust" is the word for tuning something.
+- 'What are you even doing behind our bar counter?' The little word "behind" gives the counter an ending. And "even" sharpens a question.
+- 'I am simply calmly adjusting this complex system.' "Calmly" comes from "calm", the same as in "good night". "Adjust" is what you do when tuning something.
 - 'Leave here quickly, out of the bar!' "Out" appears twice, once as a rude "get out!" and once in "out of". Russians pile them up for emphasis.
 - 'Woman, wait, I am a repair technician.' Calling a woman "woman" to her face is blunt, and the repairman does it. "Master of repair" is the Russian for repair technician.
-- 'I said to get out of here immediately!' "Said" ends in -a for Vika. "Immediately" is "not slowly", the word for "slowly" with "not" in front.
+- 'I said to get out of here immediately!' "Said" ends in -a for Vika. "Immediately" is "not slowly", with "not" in front of "slowly".
 - 'Why are you shouting so loudly at me?' The question is "what for". Russian says "shout at me" with the same small word as in "look at".
-- 'Outsiders are strictly forbidden to be here.' "Outsiders" comes from "side", so it's people from the side. "Forbidden" is the word you see on signs.
-- 'Fine, calm down, I am already leaving here.' "Calm yourself" is the same family as "calmly". "Fine" is the word for "OK".
+- 'Outsiders are strictly forbidden to be here.' "Outsiders" comes from "side", so it's people from the side. "Forbidden" is what you see on signs.
+- 'Fine, calm down, I am already leaving here.' "Calm yourself" is the same family as "calmly". "Fine" is how Russians say "OK".
 - 'Waiter, quickly find bartender Kostya for me!' "Find" is a friendly command. Kostya's name changes its ending to "-u" because he is the one being found.
-- 'I want to know who let this person in.' "I want to know" is two words. "Let in" is one word, and "this person" takes object endings.
+- 'I want to know who let this person in.' "I want to know" is two words. "Pustil" is "let in", and "this person" takes object endings.

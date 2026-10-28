@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, Viktoria Sergeyevna, did you call me?' Kostya uses her full name and father's name, which is formal. The verb ends in "-li", the polite plural.
 - 'Kostya, explain what this mess in the bar is?' "Mess" is built as "without order", so "disorder". And "chto za" means "what kind of".
 - 'There is no terrible mess here.' After "there isn't", the missing thing takes an "of" ending: "no terrible of-mess". The describing word gets one too.
-- 'Why was a strange man standing behind the bar counter?' The word for "strange" also means "someone else's". Russians say "stood", not "was", for someone in a spot.
+- 'Why was a strange man standing behind the bar counter?' "Strange" also means "someone else's". Russians say "stood", not "was", for someone in a spot.
 - 'He is a specialist and was fixing our electronic register.' This "was fixing" is the ongoing job. The version with "po-" in the last scene meant "had fixed". Without "po-" it's unfinished.
 - 'You left a stranger completely alone without supervision?' "Stranger" is "ne" plus "familiar": an unfamiliar person. "Supervision" comes from "to look".
-- 'I stepped away to the kitchen for literally a minute.' "Literally" comes from the word for "letter", so it means "to the letter". "Stepped away" is one word.
+- 'I stepped away to the kitchen for literally a minute.' "Literally" comes from "letter", so it means "to the letter". The "ot-" on "stepped away" means "away from".
 - 'And now look carefully at this shelf.' "Look at" takes a small word, and "shelf" ends in -u. Vika's command is the friendly one.
 - 'I see nothing unusual here.' "Unusual" is "usual" with "not" in front. "Nothing" arrives in its "of" form.
 - 'Where then is our expensive cognac standing?' Russians say bottles "stand". "Expensive" is the same word as "dear".
 - 'This cognac always stood right here.' "Always stood" is two words, and "right here" is literally "straight here".
-- 'The bottle is no longer in its place.' Russian says "of-bottle more isn't". After "isn't", the thing takes the "of" ending. "Its own place" uses the word for "own".
+- 'The bottle is no longer in its place.' Russian says "of-bottle more isn't". After "isn't", the thing takes the "of" ending. "Its own place" uses the "own" word.

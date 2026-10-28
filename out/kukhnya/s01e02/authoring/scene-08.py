@@ -31,17 +31,17 @@ STORY = [
     ('fedya', 'Ладно, включай плиту и доставай мясо!', 'All right, turn on the stove and get the meat!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Chef flatly refuses to cook this dish.\' The word for "flatly" comes from "cutting off". The verb "refuses" ends in "-sya", a little "self" added to many Russian verbs.'),
+    (0, None, '\'Chef flatly refuses to cook this dish.\' "Flatly" grows out of "cutting off". The verb "refuses" ends in "-sya", a little "self" added to many Russian verbs.'),
     (1, None, '\'But why? What happened in the kitchen?\' You\'ll use "chto sluchilos\'" all the time. It means "what happened".'),
     (2, None, '\'He lost his favorite knife.\' "Favorite" comes from "lyubit\'", to love, so it means "loved". And "his own" is one short word.'),
-    (3, None, '\'Soon you will have a new chef!\' Russian says "at you will be", the "I have" pattern but in the future. "Soon" is one word.'),
+    (3, None, '\'Soon you will have a new chef!\' Russian says "at you will be", the "I have" pattern but in the future. "Skoro" means "soon".'),
     (4, None, '\'He will be fired if he does not make the fricassee.\' Nobody is named as firing him. It\'s just "they will fire". "Fricassee" is borrowed and never changes.'),
     (5, None, '\'Guys, let us cook this dish ourselves!\' The first word means "guys" or "lads" and Russians use it for any informal group. "Let\'s" is a word that really means "give".'),
     (6, None, '\'Are you out of your mind? He will kill us!\' Literally "went off the mind". Russians say it when someone is being reckless.'),
     (7, None, '\'Yes, you are right, better not risk it.\' A man says "prav", and a woman would say "prava". Then "better not", which is as short as it sounds.'),
     (8, None, '\'But if we do not cook, Chef will be fired.\' Same impersonal "they will fire" as before. And "if not" is two short words.'),
-    (9, None, '\'Exactly, you are right, we must cook right away!\' "Nado" is "it\'s necessary", the Russian way to say "we must". "Urgently" is one word.'),
+    (9, None, '\'Exactly, you are right, we must cook right away!\' "Nado" is "it\'s necessary", the Russian way to say "we must". "Srochno", urgently, has "srok", a deadline, hiding in it.'),
     (10, None, '\'Darn, I am confused. This is a dangerous idea.\' The first word really means "devil", but it\'s a mild curse. "Confused" comes from the verb "to tangle".'),
-    (11, None, '\'But we have a duty to save our chef.\' The word for "obliged" is in the same family as "definitely". "To save" and "thank you" share a root, since "spasibo" began as "God save".'),
+    (11, None, '\'But we have a duty to save our chef.\' "Obliged" belongs to the family of "definitely". "To save" and "thank you" share a root, since "spasibo" began as "God save".'),
     (12, None, '\'All right, turn on the stove and get the meat!\' Two friendly commands in a row, "turn on" and "get out", with an "and" between them.'),
 ]

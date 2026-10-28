@@ -32,14 +32,14 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'You stole my favorite Japanese knife!\' The "u-" at the front of "stole" is the "away" prefix. It ends in "-li" because the chef is speaking to several people.'),
-    (1, None, '\'And you completely ruined my dish!\' "Ruined" is "spoiled" with a prefix, and "completely" is one word.'),
+    (1, None, '\'And you completely ruined my dish!\' "Ruined" is "spoiled", plus a prefix, and "completely" is "sovershenno".'),
     (2, None, '\'And all of you get out of here quickly!\' "Went out" is used as an order, which Russians do all the time. "Here" is in the "from here" form.'),
     (3, None, '\'Chef, we were only trying to help!\' Word for word it\'s "we wanted as better", the stock excuse for good intentions.'),
     (4, None, '\'I do not care what you were trying to do!\' Literally "to me to spit", a rude way to say "I couldn\'t care less". The last words are "what you there wanted".'),
     (5, None, '\'Do you know what the guest said about the fricassee?\' A rising voice turns "you know" into a question. The woman guest has her own feminine form, and "about" is a casual short word.'),
     (6, None, '\'Was she completely delighted?\' "In full delight" is a nice phrase to reuse, and "was" ends in -a for a woman.'),
-    (7, None, '\'She said that it was disgusting!\' The word for "disgusting" is long. "It" refers to the fricassee, which is a neuter word, and "that" is the same word as "what".'),
-    (8, None, '\'Chef, I told them right away!\' "To them" is a single short word, and "right away" is one too.'),
+    (7, None, '\'She said that it was disgusting!\' "Disgusting" is a long word. "It" refers to the fricassee, which is a neuter word. "That" is the same word as "what".'),
+    (8, None, '\'Chef, I told them right away!\' "Im" is the "to them" form of "they", and "srazu" is "right away".'),
     (9, None, '\'It was Senya who made that terrible sauce!\' Russian starts with "this Senya cooked", a handy way to point at who did it. "Terrible" comes from "horror".'),
     (10, None, '\'No, Fedya roasted that partridge himself!\' "Himself" is the shifting-the-blame word, and "that partridge" ends in -u as the thing roasted.'),
     (11, None, '\'Stop arguing! You are all terrible cooks!\' "Enough" is literally "it suffices". "Cooks" has the odd plural in -a.'),

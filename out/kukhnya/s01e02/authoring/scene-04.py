@@ -37,7 +37,7 @@ WALK = [
     (2, None, '\'Chef, I didn\'t take it.\' Literally, "I not took". The "-a" at the end of the last word tells you the speaker is a woman, and a man would say "bral".'),
     (3, None, '\'I repeat: who took my knife?\' Think of "povtor", a repeat, with "-yayu" for "I". This is what you say when your patience has run out.'),
     (4, None, '\'I don\'t know, chef.\' One of the most useful sentences in Russian, and it\'s built exactly as it sounds: "I not know". The "ne" goes right in front of the word it cancels.'),
-    (5, None, '\'Nobody will go home from here.\' Russian doubles the negative, so "nobody" and "not" both appear before the verb. "Domoy" is a single word for "to home", and "otsyuda" means "from here".'),
+    (5, None, '\'Nobody will go home from here.\' Russian doubles the negative, so "nobody" and "not" both appear before the verb. Going home is the single word "domoy", and "otsyuda" means "from here".'),
     (6, None, '\'Until you find the knife.\' Russian has no separate word for "until" here. It says "while you don\'t find", so "poka" plus "ne". And "poka" is also the casual "bye", which really means "for now".'),
     (7, None, '\'Understood, chef.\' One short word for "understood", literally "it\'s clear". Nastya needs no "I" in it, and it\'s the usual way to show you got the message.'),
     (8, None, '\'I will not cook anything.\' Here\'s another double negative: "ne budu" and "nichego" both say no, and Russian insists on both. "To cook" has "ready" hiding inside it, because cooking is getting things ready.'),

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef! Chef! You are being called to the dining hall!' Literally "they call you", with no one named, and that's the usual way to say you're wanted. The "you" is the polite one.
-- 'What else? Who is waiting for me there?' The first two words mean something like "what now?". "Waits" is one word, and "there" is a single small one.
+- 'Chef! Chef! You are being called to the dining hall!' Literally "they call you", with no one named, and that's the usual way to say you're wanted. The "you" here is the formal one.
+- 'What else? Who is waiting for me there?' The first two words mean something like "what now?". Both "waits" and "there" are short, easy words.
 - 'That pretty lady from the neighboring restaurant.' "Simpatichnaya" looks like "sympathetic" but really means nice-looking or likeable. A false friend worth knowing.
-- 'How can I be of service?' Russian says "with what can I be useful". The word "useful" comes from the word for benefit.
+- 'How can I be of service?' Russian says "with what can I be useful". "Useful" is from "benefit".
 - 'I have just tasted your fricassee.' "Just now" is literally "only what". The -la on "tasted" tells you Elena is a woman.
 - 'Well, and how did you like our dish?' It starts with "nu", the "well..." of Russian. Then "how to you", which is how Russians ask what you think of something.
 - 'You know, I liked it very much.' "You know" is a filler, as in English. Then "it pleased me", with the verb ending in -o to match "it".
-- 'Really? This is my old signature recipe.' The word for "signature" comes from "firma", a company, so it means "of the house". The rest is plain: old and recipe.
+- 'Really? This is my old signature recipe.' "Signature" grows out of "firma", a company, so it means "of the house". The rest is plain: old and recipe.
 - 'Partridge was left over, and it was a shame to throw it out.' "To throw out" has "vy-", out, in front. "It was a shame" is "it was a pity", all in one small word.
-- 'Understood. It is pleasant to leave your place alive.' The word for "alive" is the one behind "quick!" in the knife scene, with the -oy of a woman. A joke with a sting.
+- 'Understood. It is pleasant to leave your place alive.' "Alive" is the root behind "quick!" in the knife scene, with the -oy of a woman. A joke with a sting.
 - 'What? Are you already leaving the restaurant?' The first word, "kak", means "how" but here shows surprise, like "what?". "Out of the restaurant" is two short words.
 - 'Your chef's special took far too long to prepare.' "Was being prepared" ends in "-s'", as if the dish prepared itself. "Too long" is two little words.
 - 'Goodbye, head chef.' Literally "until meeting", and it's the standard formal goodbye. Use it with anyone you don't know well.

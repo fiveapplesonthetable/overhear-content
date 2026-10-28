@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you put a dirty box here?' "Put" is the word for "make stand", so a box is "stood" somewhere. The two describing words end in "-uyu" as the object.
-- 'Remove it from here very quickly!' The word for "it" is feminine, because "box" is a feminine word. "Remove" is a friendly command.
+- 'Why did you put a dirty box here?' "Put" really means "make stand", so a box is "stood" somewhere. The two describing words end in "-uyu" as the object.
+- 'Remove it from here very quickly!' "It" is feminine, because "box" is a feminine word. "Remove" is a friendly command.
 - 'Lyova, have you already found my knife?' The chef says "vy", but here it's the plural, "you all", not the polite one. He means Lyova and the others.
 - 'We have not found it yet, Chef.' "Not yet" is "still not". The little "yego" for "it" never changes.
 - 'Did you definitely look well everywhere?' "Definitely" and "everywhere" are two short words, with "well" between. It sounds like a real interrogation.
 - 'Yes, we checked everything in the kitchen.' "Checked" ends in "-li", the plural for "we". "Everything" is one short word.
-- 'Then continue to look further!' "Continue" is a command to a group. "Further" is also the word for "more", in the sense of keep going.
-- 'Someone could accidentally leave the knife inside.' "Could" is a short word, "mog". "Accidentally" comes from the word for "chance", and "inside" is one small word.
+- 'Then continue to look further!' "Continue" is a command to a group. "Further" also means "more", in the sense of keep going.
+- 'Someone could accidentally leave the knife inside.' "Could" is a short word, "mog". "Accidentally" comes from "chance", and "inside" is one small word.
 - 'For example, someone forgot the knife in the fish.' "For example" is "on example". "Forgot" ends in -l, and "in the fish" has an -e on the fish.
 - 'In the fish? That is impossible, Chef!' Lyova repeats the words with a question in his voice. "Impossible" is "not" plus "possible".
 - 'I do not know. Look everywhere!' "Ishchite" is the command "look for", in the form for a group. The chef has stopped being logical.
-- 'Alright, Chef, we will find everything.' "We will find" is one word. Lyova is trying to calm him.
-- 'Without the knife we will not be able to work!' "Without" makes "knife" take an -a. "Will be able" is one word, with "not" before it.
+- 'Alright, Chef, we will find everything.' Lyova says "naydyom", "we will find". Lyova is trying to calm him.
+- 'Without the knife we will not be able to work!' "Without" makes "knife" take an -a. "Smozhem" is "we will be able", with "not" before it.

@@ -31,13 +31,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You can't buy such a knife in a hurry.' The first word is "in a quick way". Then "ne poluchitsya", literally "it won't work out", which Russians say whenever something can't be done.
 - 'And how much does it cost?' The shop question: "how much" and then "costs". Nastya says "he" for the knife, because "nozh" is a masculine word.
 - 'This is an expensive Japanese knife.' One word does two jobs: it means "expensive" and also "dear", as in a dear friend. And there's no "is" here, just "this" and the rest.
-- 'The chef ordered it for a very long time.' The word for "ordered" is close to the noun "zakaz", an order. "It" is the same word that means "him" or "his", and it never changes.
+- 'The chef ordered it for a very long time.' "Ordered" is close to the noun "zakaz", an order. "It" is the same word that means "him" or "his", and it never changes.
 - 'And is it very sharp?' The Russian word for sharp also means spicy, so it's good for knives and for food. Context tells you which.
 - 'The sharpest knife in the kitchen.' Put "samyy" in front of a describing word and you get "the most": "the most sharp". It's easy to remember, and works with any word.
 - 'Where could it possibly be?' You may know "mozhet byt'" as "maybe", but taken apart the two words mean "can be". A tiny "zhe" in the middle adds the "possibly".
-- 'We already looked everywhere.' "Everywhere" is a single word, "vezde", and "already" is the small word you've heard before. "Looked for" is from the same family as the command "ishchi" below.
+- 'We already looked everywhere.' "Vezde", everywhere, and "already" are both small words you'll use constantly. "Looked for" is a relative of the command "ishchi" below.
 - 'Maybe someone took it home?' Russian can say "maybe" with just the first of those two words. Add "-to" to "who" and you get "someone".
-- 'Nobody would dare do that.' "Will dare" is one word. Then "nobody" and "not" together, the double negative again, and "do this" at the end.
-- 'The chef will fire everyone immediately.' "Immediately" is one word, "srazu". "Will fire" is also one word, and "everyone" takes a new ending because it's the object.
+- 'Nobody would dare do that.' The double negative is back, with "nobody" and "not" side by side. "Will dare" grows from "smet'", to dare.
+- 'The chef will fire everyone immediately.' "Srazu" is the everyday "immediately", and "everyone" takes a new ending because it's the object.
 - 'Come on, look for the knife quickly.' The first word is a friendly "come on". "Ishchi" is the command "look for", and "skoreye" is "faster".
 - 'All right. I will look here.' The "po-" at the front of "I will look" gives it the sense of a quick look. "Here" is "zdes'".

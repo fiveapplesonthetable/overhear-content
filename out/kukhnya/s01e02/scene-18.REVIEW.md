@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, is it time to start preparing hot dishes?' "Pora" means "it's time", and it takes the plain "to start". "Hot dishes" is plural, so both words end alike.
-- 'Quiet, Senya! A decisive match is on right now!' A match "goes", so Russian says "idyot". "Decisive" is built on "to decide".
+- 'Quiet, Senya! A decisive match is on right now!' A match "goes", so Russian says "idyot". "Decisive" is from "to decide".
 - 'Who is playing in this match today?' "Plays" is the everyday word for playing a game or a match. "In this match" has an "-e" ending.
 - 'Our great Spartak is playing against CSKA!' "Protiv" is "against". "Velikiy" is "great", the grand word, and "our" shows the chef is a fan.
-- 'And what is the score in the game now?' The word for "score" also means "bill" in a restaurant, as in "schyot, pozhaluysta". "In the game" ends in -e.
-- 'A draw so far, but we must win!' "Nich'ya" is a draw, and "so far" is the word that also means "bye". "Must" and "win" are two short words.
-- 'Look, the ball is flying toward their goal!' The word for "goal" is "vorota", always plural, because it's really "gates". "Their" never changes.
-- 'Near the opponent penalty area CSKA is holding defense.' The word for "area" is also "square". "Defense" comes from "oborona", and "holds" is the same word as "hold the menu".
+- 'And what is the score in the game now?' "Score" also means "bill" in a restaurant, as in "schyot, pozhaluysta". "In the game" ends in -e.
+- 'A draw so far, but we must win!' "Nich'ya" is a draw, and "so far" also means "bye". "Must" and "win" are two short words.
+- 'Look, the ball is flying toward their goal!' "Vorota", goal, is always plural, because it's really "gates". "Their" never changes.
+- 'Near the opponent penalty area CSKA is holding defense.' "Area" is also "square". "Defense" comes from "oborona". "Holds" is the same word as "hold the menu".
 - 'The Spartak forward receives a fast pass.' "Forward" comes from the verb "to attack". "Receives" is the everyday word for "to get".
 - 'Come on, Ari with the ball shoots hard!' "Davay" is a friendly "come on!". "With the ball" has the ending "-om", and "hits" is how Russians describe shooting.
 - 'The goalkeeper catches this ball with difficulty.' "Vratar'" is the goalkeeper, from "vorota", the goal: the gatekeeper. "With difficulty" is literally "with labour".
