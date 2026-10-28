@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry, right now you will taste a masterpiece!' 'Masterpiece' comes from French. 'Will taste' is a one-word future.
-- 'Viktor, are you praising yourself again?' 'Praise' is followed by 'yourself'. 'Again' is a short word.
-- 'This is a real culinary work of art!' 'Work' is built on 'produce'. 'Of art' ends in 'a'.
-- 'I cannot wait to taste your sauce.' Russian says 'to me it is not endured', which means 'I can't wait'. 'Taste' is a rather literary word.
-- 'I was preparing this sauce all morning.' 'All morning' has no word for 'during'. 'Was preparing' is the long kind of past.
-- 'I hope you put the right spices.' 'Spices' is a plural. 'Put in' is the finished form.
-- 'There are only the freshest ingredients there.' 'Freshest' is 'most fresh'. 'There' is a short word.
-- 'The aroma is indeed very pleasant and subtle.' 'Subtle' is 'thin'. 'Aroma' is also 'smell'.
-- 'One piece of meat will change everything.' 'Little piece' has the diminutive 'ochek'. 'Of meat' ends in 'a'.
-- 'Do not exaggerate, give me a fork.' 'Don't exaggerate' is 'not' plus a command. 'Give' is a short word.
-- 'First try the sauce with bread.' 'With bread' uses 'om'. 'First' is made of 'from the start'.
+- 'Dmitry, right now you will taste a masterpiece!' 'Masterpiece' comes from French and keeps its shape in Russian. Barinov uses the casual 'you' with his boss, which tells you how well they know each other.
+- 'Viktor, are you praising yourself again?' 'Praise' is followed by 'yourself' in a changed form. 'Again' carries the teasing.
+- 'This is a real culinary work of art!' 'Work of art' is rooted in the Russian for 'to produce'. 'Of art' puts an 'a' on the end, which is Russian for 'of'.
+- 'I cannot wait to taste your sauce.' Russian says 'to me it is not endured', which is a fixed way of saying 'I can't wait'. 'Taste' is a slightly old-fashioned word.
+- 'I was preparing this sauce all morning.' 'All morning' has no word for 'during', just 'all' and 'morning'. The long kind of past is used here, meaning 'was preparing'.
+- 'I hope you put the right spices.' 'Spices' is a plural word. 'Put in' is the finished kind of 'put', as in 'did you put them in'.
+- 'There are only the freshest ingredients there.' 'Freshest' is 'most fresh'. 'Ingredients' is borrowed from French.
+- 'The aroma is indeed very pleasant and subtle.' 'Subtle' is the Russian word for 'thin', the same word as for a thin blade. 'Pleasant' comes back at the very end of the scene.
+- 'One piece of meat will change everything.' 'Little piece' adds an 'ochek' ending that makes it small. 'Of meat' ends in 'a'.
+- 'Do not exaggerate, give me a fork.' 'Don't exaggerate' is 'not' plus a command. 'Fork' has a changed ending because it's the thing he wants.
+- 'First try the sauce with bread.' 'With bread' ends in 'om', which is the ending 'with' asks for. 'First' is put together from 'from the beginning'.
 - 'Alright, let us begin this tasting.' 'Tasting' is borrowed. 'Let us begin' is the form that ends in 'em'.
 - 'Bon appetit, my dear owner!' The Russian phrase is literally 'pleasant appetite'. 'Dear' also means 'expensive'.

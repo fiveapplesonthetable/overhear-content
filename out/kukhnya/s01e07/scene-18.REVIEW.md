@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Louis, and where is our colleague?' 'Where' asks about a place. 'Our' agrees with the person asked about.
-- 'I do not know, he is probably at home.' 'Probably' is a long word that you can use for any guess. 'At home' is one word.
+- 'Hi, Louis, and where is our colleague?' The term for 'where' asks about a place, not a direction. 'Our' takes the ending that agrees with the person asked about.
+- 'I do not know, he is probably at home.' 'Probably' is a long word that you can use for any guess.
 - 'But how did you find out my address?' 'Found out' can also mean 'recognized', as it comes from 'know'. 'My address' is the thing found out.
-- 'Louis, I just need help today.' 'Help' is a she-word, so 'needed' ends in 'a'. 'Just' is a short word that means 'simply'.
-- 'Wait, Maxim, no, no need to continue!' Louis uses Max's full name to sound dramatic. 'No need' is 'not' plus 'necessary'.
+- 'Louis, I just need help today.' 'Help' is grammatically a she-word, so 'needed' ends in 'a'. 'Just' means 'simply'.
+- 'Wait, Maxim, no, no need to continue!' Louis uses Max's full name to sound dramatic. The phrase for 'no need' is literally 'not' plus 'necessary'.
 - 'I have nowhere to spend this night.' 'Nowhere' is 'no' plus 'where'. 'Spend' literally means 'lead through'.
 - 'Nothing will work out between us.' The Russian idiom is 'at us with you nothing will come out'. It is the sentence you use when you turn someone down.
-- 'My heart has long been occupied.' 'Occupied' is the word for a seat that's taken. Louis says it with a flourish.
-- 'Louis, you misunderstood me completely!' 'Wrongly' is built from 'not' plus 'rightly'. 'Understood' ends in a consonant, because the word is about Louis.
-- 'Do not worry, everything will work out.' 'Will work out' ends in 'sya'. It's a fixed phrase that people say to comfort each other.
+- 'My heart has long been occupied.' 'occupied' is the one for a seat that's taken, and it is also what you say of a phone line. Louis says it with a flourish.
+- 'Louis, you misunderstood me completely!' 'Wrongly' grows out of 'not' plus 'rightly'. 'Understood' ends in a consonant, because the word is about Louis.
+- 'Do not worry, everything will work out.' 'will work out' ends in 'sya', so it means 'will sort itself out'. It is a fixed phrase that people say to comfort each other.
 - 'You will definitely find yourself someone else.' 'Someone' ends in 'nibud', which means 'anyone at all'. 'Other' agrees with 'someone'.
-- 'Everything will be great, ooh-la-la, bye!' Louis's 'ooh-la-la' is French, and he adds it to everything. 'Bye' is the same short word as 'for now'.
-- 'Louis, open the door, wait a second!' 'Open' is a short command. 'Wait a second' is a casual 'hold on'.
+- 'Everything will be great, ooh-la-la, bye!' Louis's 'ooh-la-la' is French, and he adds it to everything. The Russian for 'bye' is literally the same word as 'for now'.
+- 'Louis, open the door, wait a second!' The Russian for 'open' is a short command. 'Wait a second' is a casual 'hold on', and its ending is the same as in 'wait'.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Barinov's new sauce is ready, and the owner, Dmitry Nagiyev, comes into the kitchen to try it. He is in a hurry, and a piece of bread goes on the floor, so the tasting is put off until the evening. It's in Russian first."
 OPENER = "Let's go through the visit. Nagiyev is breezy, and Barinov keeps trying to hold him in place."
-TRANSITION = 'Here is the whole visit again.'
+TRANSITION = 'Now with all the pieces in place.'
 OUTRO = "Nagiyev's promise is a neat one to remember: 'at seven o'clock this evening'. It's the kind of phrase you need all the time. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -33,8 +33,8 @@ WALK = [
     (0, None, "'Well, let's try your famous signature sauce.' The opening 'nu-ka' is a nudge, like 'come on then'. 'Signature' comes from the word for a firm or company, so it means 'the house's own'."),
     (1, None, "'This sauce is true high culinary art.' 'True' and 'high' and 'culinary' all end in 'oe', to match 'art'. A dash stands in for 'is'."),
     (2, None, "'Oh, the fresh bread fell on the floor.' 'Fell' ends in a consonant because bread is a he-word. 'Onto the floor' uses 'na' with the plain form of 'floor'."),
-    (3, None, "'Right now we will quickly bring you new bread.' 'We will bring' begins with 'pri', which means 'toward'. 'To you' is the polite 'vam'."),
-    (4, None, "'No, I am in a big hurry for an important meeting.' 'I hurry' is the usual way to say you're in a rush. 'Meeting' comes from 'to meet'."),
+    (3, None, "'Right now we will quickly bring you new bread.' 'We will bring' begins with 'pri', which means 'toward'. 'To you' is the formal 'vam'."),
+    (4, None, "'No, I am in a big hurry for an important meeting.' 'I hurry' is the usual phrase for saying you're in a rush. 'Meeting' comes from 'to meet'."),
     (5, None, "'But you must taste this rare masterpiece!' 'Taste' begins with a prefix that means 'fully', so it's 'taste properly'. 'Obliged' is the strong form of 'must'."),
     (6, None, "'I will return at exactly seven o'clock tonight.' Russians say 'seven hours', so the clock time uses 'hours'. 'Of the evening' is shown by the ending 'a'."),
     (7, None, "'We will prepare the very best sauce for you.' 'The very best' is 'most best', as often. 'For you' is two short words."),

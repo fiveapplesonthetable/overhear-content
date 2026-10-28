@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, welcome to my apartment.' The first phrase is the formal 'welcome', close to 'good to come'. Kostya uses it to sound like a host.
-- 'It is quite cozy and clean here with you.' 'At you here' is the Russian way to say 'in your place'. 'Cozy' is built from 'comfort'.
-- 'Well, more precisely, this apartment is rented.' 'More precisely' is a handy phrase for correcting yourself. 'Rented' is built from 'take', as a tenant takes a flat.
+- 'Nastya, welcome to my apartment.' The opening phrase is the formal word for 'welcome', and it is literally close to 'good to come'. Kostya uses it to sound like a host.
+- 'It is quite cozy and clean here with you.' 'At you here' is the Russian way to say 'in your place'. The term for 'cozy' is pieced together from the word for 'comfort'.
+- 'Well, more precisely, this apartment is rented.' 'More precisely' is a handy phrase for correcting yourself. 'Rented' is made from 'take', as a tenant takes a flat.
 - 'Here is a couch, a chair, a soft pillow.' A list with 'here is' needs no verbs. Each noun just follows the last.
 - 'Kostya, I can see all this perfectly.' 'I see' is irregular, and a 'zh' sound appears. 'Perfectly' comes from 'excellent'.
-- 'Come in quickly and sit on the couch.' 'Sit' ends in 'sya', so it's 'seat yourself'. 'Onto the couch' uses the movement form.
-- 'Oh, and what is that down there?' The little 'a' at the start means 'and' or 'but' and softens the question. 'Down there' is one word.
-- 'My God, that is a dead mouse!' 'My God' is the usual exclamation. 'Dead' agrees with 'mouse', which is a she-word.
-- 'Kostya, you are a real cruel murderer!' 'The most real' is a way to say 'a complete'. 'Murderer' comes from 'to kill'.
+- 'Come in quickly and sit on the couch.' The word for 'sit' ends in 'sya', so it is literally 'seat yourself'. 'Onto the couch' takes the ending that means movement.
+- 'Oh, and what is that down there?' The little 'a' at the start means 'and' or 'but' and softens the question.
+- 'My God, that is a dead mouse!' 'My God' is the usual exclamation. 'dead' agrees with 'mouse', which counts as a she-word.
+- 'Kostya, you are a real cruel murderer!' 'The most real' is a way of saying 'a complete'. 'Murderer' comes from 'to kill'.
 - 'You destroyed a little defenseless mouse!' 'Defenseless' is 'without' plus 'protection'. 'Destroyed' is a strong word, used for ruin.
-- 'Nastya, but this is an ordinary mousetrap!' 'Mousetrap' is a compound of 'mouse' and 'catching'. 'Ordinary' is a plain word.
-- 'You are still sitting and calmly smiling?!' 'Still' sits before 'sitting'. 'Smiling' ends in 'sya'.
-- 'You acted like a real monster!' 'Acted' is a word you can use for any behaviour. 'Like' is a short word, and 'monster' is borrowed.
+- 'Nastya, but this is an ordinary mousetrap!' 'mousetrap' is a compound of 'mouse' and 'catching', so it literally means 'mouse-catcher'.
+- 'You are still sitting and calmly smiling?!' 'Still' sits before 'sitting'. 'smiling' ends in 'sya', so it is literally 'smiling oneself'.
+- 'You acted like a real monster!' 'Acted' is a word you can use for any behaviour. 'Like' introduces the comparison, and 'monster' is borrowed.

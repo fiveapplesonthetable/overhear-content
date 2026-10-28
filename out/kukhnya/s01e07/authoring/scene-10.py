@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "The sauce is done, and Barinov carries it to the owner of the restaurant, Dmitry Nagiyev. He calls it a masterpiece, which is just what you'd expect. It's in Russian first."
 OPENER = 'Slowly now. Barinov brags, Nagiyev teases, and the food gets cold.'
-TRANSITION = 'And the whole tasting once more.'
+TRANSITION = 'Back to the story proper.'
 OUTRO = "The last line, 'bon appetit', is literally 'pleasant appetite'. You can say it before any meal in Russia. See you next time."
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Приятного аппетита, дорогой хозяин!', 'Bon appetit, my dear owner!', [], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry, right now you will taste a masterpiece!' 'Masterpiece' comes from French. 'Will taste' is a one-word future."),
-    (1, None, "'Viktor, are you praising yourself again?' 'Praise' is followed by 'yourself'. 'Again' is a short word."),
-    (2, None, "'This is a real culinary work of art!' 'Work' is built on 'produce'. 'Of art' ends in 'a'."),
-    (3, None, "'I cannot wait to taste your sauce.' Russian says 'to me it is not endured', which means 'I can't wait'. 'Taste' is a rather literary word."),
-    (4, None, "'I was preparing this sauce all morning.' 'All morning' has no word for 'during'. 'Was preparing' is the long kind of past."),
-    (5, None, "'I hope you put the right spices.' 'Spices' is a plural. 'Put in' is the finished form."),
-    (6, None, "'There are only the freshest ingredients there.' 'Freshest' is 'most fresh'. 'There' is a short word."),
-    (7, None, "'The aroma is indeed very pleasant and subtle.' 'Subtle' is 'thin'. 'Aroma' is also 'smell'."),
-    (8, None, "'One piece of meat will change everything.' 'Little piece' has the diminutive 'ochek'. 'Of meat' ends in 'a'."),
-    (9, None, "'Do not exaggerate, give me a fork.' 'Don't exaggerate' is 'not' plus a command. 'Give' is a short word."),
-    (10, None, "'First try the sauce with bread.' 'With bread' uses 'om'. 'First' is made of 'from the start'."),
+    (0, None, "'Dmitry, right now you will taste a masterpiece!' 'Masterpiece' comes from French and keeps its shape in Russian. Barinov uses the casual 'you' with his boss, which tells you how well they know each other."),
+    (1, None, "'Viktor, are you praising yourself again?' 'Praise' is followed by 'yourself' in a changed form. 'Again' carries the teasing."),
+    (2, None, "'This is a real culinary work of art!' 'Work of art' is rooted in the Russian for 'to produce'. 'Of art' puts an 'a' on the end, which is Russian for 'of'."),
+    (3, None, "'I cannot wait to taste your sauce.' Russian says 'to me it is not endured', which is a fixed way of saying 'I can't wait'. 'Taste' is a slightly old-fashioned word."),
+    (4, None, "'I was preparing this sauce all morning.' 'All morning' has no word for 'during', just 'all' and 'morning'. The long kind of past is used here, meaning 'was preparing'."),
+    (5, None, "'I hope you put the right spices.' 'Spices' is a plural word. 'Put in' is the finished kind of 'put', as in 'did you put them in'."),
+    (6, None, "'There are only the freshest ingredients there.' 'Freshest' is 'most fresh'. 'Ingredients' is borrowed from French."),
+    (7, None, "'The aroma is indeed very pleasant and subtle.' 'Subtle' is the Russian word for 'thin', the same word as for a thin blade. 'Pleasant' comes back at the very end of the scene."),
+    (8, None, "'One piece of meat will change everything.' 'Little piece' adds an 'ochek' ending that makes it small. 'Of meat' ends in 'a'."),
+    (9, None, "'Do not exaggerate, give me a fork.' 'Don't exaggerate' is 'not' plus a command. 'Fork' has a changed ending because it's the thing he wants."),
+    (10, None, "'First try the sauce with bread.' 'With bread' ends in 'om', which is the ending 'with' asks for. 'First' is put together from 'from the beginning'."),
     (11, None, "'Alright, let us begin this tasting.' 'Tasting' is borrowed. 'Let us begin' is the form that ends in 'em'."),
     (12, None, "'Bon appetit, my dear owner!' The Russian phrase is literally 'pleasant appetite'. 'Dear' also means 'expensive'."),
 ]

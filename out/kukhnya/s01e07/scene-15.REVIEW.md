@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, please taste this hot dish.' The word for 'taste' is the polite command, so Max is using the proper form for a boss. 'Hot' ends in 'oe' to match 'dish', which is a neuter word.
-- 'Give the plate here, I will taste it now.' The word for 'give' is a casual command, and Barinov uses it as 'hand it over'. The word for 'here' is the 'to here' kind, since the plate has to move.
-- 'Very tasty, we can serve it to the guests.' The word for 'it's allowed' is one short word that covers 'we can' and 'we may'. 'To the guests' puts an 'am' ending on 'guests'.
-- 'Are you really telling me the pure truth?' The first word is the surprised 'really'. 'Pure truth' is how Russians say 'honest truth'.
+- 'Chef, please taste this hot dish.' The expression for 'taste' is the polite command, so Max is using the proper form for a boss. 'Hot' ends in 'oe' to match 'dish', which is a neuter word.
+- 'Give the plate here, I will taste it now.' The Russian word for 'give' is a casual command, and Barinov uses it as 'hand it over'. 'here' is the 'to here' kind, since the plate has to move.
+- 'Very tasty, we can serve it to the guests.' The Russian for 'it's allowed' is one short word that covers 'we can' and 'we may'. 'To the guests' puts an 'am' ending on 'guests'.
+- 'Are you really telling me the pure truth?' The line begins with the surprised 'really'. 'Pure truth' is how Russians say 'honest truth'.
 - 'Yes, the dish turned out truly magnificent.' 'Turned out' ends in 'o', since 'dish' is neuter. 'Magnificent' ends in 'ym'.
-- 'Chef, you are smiling so joyfully now!' 'Joyfully' is built from 'joy'. 'Smile' ends in 'sya'.
-- 'Why, can a cook no longer smile?' The word for 'why' here is a sarcastic 'what, then?'. The word for 'smile' is the one-time kind, so it means 'give a smile' rather than 'be smiling'.
+- 'Chef, you are smiling so joyfully now!' 'Joyfully' starts from 'joy'. 'Smile' ends in 'sya'.
+- 'Why, can a cook no longer smile?' The term for 'why' here is a sarcastic 'what, then?'. The expression for 'smile' is the one-time kind, so it means 'give a smile' rather than 'be smiling'.
 - 'Do not smile like that, you look like a clown.' 'Similar to' is the Russian for 'look like'. 'Clown' takes an 'a' ending, since it's the thing resembled.
 - 'Be quiet right now, insolent rump!' 'Fall silent' starts with a prefix that means 'begin to'. 'Right now' is made of 'now' and 'already'.
-- 'From this moment on, all truth is canceled!' The word for 'is canceled' ends in 'sya', so it means 'cancels itself'. 'From this moment' is a nice formal phrase that you can use for any announcement.
+- 'From this moment on, all truth is canceled!' The Russian for 'is canceled' ends in 'sya', so it means 'cancels itself'. 'From this moment' is a nice formal phrase that you can use for any announcement.
 - 'I understood you, we return to work.' 'I understood you' uses the polite 'you'. 'To work' is 'to' plus a changed word.
-- 'And one more important word, Maxim.' Barinov uses Max's full name here to sound serious. 'One more' is made of 'still' and 'one', and the word for 'word' sits at the end.
+- 'And one more important word, Maxim.' Barinov uses Max's full name here to sound serious. 'One more' is made of 'still' and 'one', and the Russian for 'word' sits at the end.
 - 'Thank you for the excellent work in the kitchen.' 'Thank you for' takes the thing in the plain object form. 'Excellent' is a word for top marks.
-- 'Thank you very much, chef!' The word for 'you' is added after 'thank you' to make it more personal. The word for 'big' is the usual way to say 'very much'.
+- 'Thank you very much, chef!' The expression for 'you' is added after 'thank you' to make it more personal. 'big' is the usual way of saying 'very much'.

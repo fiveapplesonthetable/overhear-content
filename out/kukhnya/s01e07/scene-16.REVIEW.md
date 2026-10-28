@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I heard you have a problem with housing.' 'At you a problem' is how Russian says 'you have a problem'. 'With housing' puts an 'em' on the word 'housing'.
-- 'Yes, I have nowhere to live in Moscow at all.' 'Nowhere' is 'no' plus 'where', and it works as a tiny pattern: 'to me nowhere to live'. There is a twin for movement, 'nowhere to go'.
+- 'Max, I heard you have a problem with housing.' 'At you a problem' is the Russian way to put 'you have a problem'. The word for 'housing' gets an 'em' ending after the Russian for 'with'.
+- 'Yes, I have nowhere to live in Moscow at all.' 'nowhere' is 'no' plus 'where', and it works as a tiny pattern: 'to me nowhere to live'. There is a twin for movement, 'nowhere to go'.
 - 'Do you want to live at my place for a couple of weeks?' 'A couple' comes from 'pair'. 'Weeks' takes a special 'of' form, as it follows 'couple'.
 - 'Are you speaking completely seriously, Kostya?' 'Seriously' comes from 'serious'. 'Completely' is a favourite word of Max's.
-- 'Of course, without any problems, my friend!' 'Without' asks for the 'of' form, so 'problems' changes. 'Any kind of' is one word.
+- 'Of course, without any problems, my friend!' The term for 'without' asks for the 'of' form, so 'problems' changes its ending. 'Any kind of' is a single word.
 - 'Here is the exact address of my new apartment.' 'Here is' points at things without a verb. 'Of my new apartment' puts the same ending on all three words.
 - 'I will arrive home around ten in the evening.' 'Around' asks for the 'of' form, so 'ten' changes shape. 'Arrive' starts with the piece 'pri', and it's the word for arriving by transport.
-- 'Excellent, I will come right on time there.' 'I will come' is the word for arriving on foot. 'There' is the movement word, 'to there'.
+- 'Excellent, I will come right on time there.' 'I will come' means arriving on foot. 'There' is the movement word, literally 'to there'.
 - 'Maybe I should buy something tasty for tea?' 'Something' is 'what' plus the tail 'nibud', meaning 'anything at all'. 'For tea' uses 'k', which means 'toward'.
 - 'Better buy a pretty bouquet of flowers.' 'Better' is 'would be better to'. 'Of flowers' is how Russian says 'a bouquet of flowers'.
 - 'Why do you and I need flowers?' 'You and I' is literally 'us with you'. 'Needed' is plural, to agree with 'flowers'.
-- 'An elderly landlady lives in this apartment.' 'Elderly' ends in 'aya', for a woman. 'Landlady' is 'the woman of the house'.
-- 'Understood, I will buy the freshest flowers!' 'I will buy' gains an extra 'l' in the middle. 'The freshest' is 'most fresh'.
-- 'Then agreed, I am waiting for you tonight!' 'Agreed' ends in 'lis' because they have come to terms with each other. 'I wait for you' is the usual way to say 'I expect you'.
+- 'An elderly landlady lives in this apartment.' 'Elderly' has an 'aya' ending, for a woman. 'landlady' literally means 'the woman of the house'.
+- 'Understood, I will buy the freshest flowers!' 'I will buy' gains an extra 'l' in the middle. 'The freshest' is literally 'most fresh'.
+- 'Then agreed, I am waiting for you tonight!' The Russian for 'agreed' ends in 'lis' because they have come to terms with each other. 'I wait for you' is the usual way to say 'I expect you'.

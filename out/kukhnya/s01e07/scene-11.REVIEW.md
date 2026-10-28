@@ -28,8 +28,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, let's try your famous signature sauce.' The opening 'nu-ka' is a nudge, like 'come on then'. 'Signature' comes from the word for a firm or company, so it means 'the house's own'.
 - 'This sauce is true high culinary art.' 'True' and 'high' and 'culinary' all end in 'oe', to match 'art'. A dash stands in for 'is'.
 - 'Oh, the fresh bread fell on the floor.' 'Fell' ends in a consonant because bread is a he-word. 'Onto the floor' uses 'na' with the plain form of 'floor'.
-- 'Right now we will quickly bring you new bread.' 'We will bring' begins with 'pri', which means 'toward'. 'To you' is the polite 'vam'.
-- 'No, I am in a big hurry for an important meeting.' 'I hurry' is the usual way to say you're in a rush. 'Meeting' comes from 'to meet'.
+- 'Right now we will quickly bring you new bread.' 'We will bring' begins with 'pri', which means 'toward'. 'To you' is the formal 'vam'.
+- 'No, I am in a big hurry for an important meeting.' 'I hurry' is the usual phrase for saying you're in a rush. 'Meeting' comes from 'to meet'.
 - 'But you must taste this rare masterpiece!' 'Taste' begins with a prefix that means 'fully', so it's 'taste properly'. 'Obliged' is the strong form of 'must'.
 - 'I will return at exactly seven o'clock tonight.' Russians say 'seven hours', so the clock time uses 'hours'. 'Of the evening' is shown by the ending 'a'.
 - 'We will prepare the very best sauce for you.' 'The very best' is 'most best', as often. 'For you' is two short words.

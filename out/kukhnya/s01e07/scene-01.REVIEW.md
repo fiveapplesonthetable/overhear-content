@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have been living in Moscow for two weeks already.' Russian has no 'have been living'. It says 'I live already two weeks', and the plain present covers it. 'Two weeks' uses the feminine 'two', since 'week' is a she-word.
+- 'I have been living in Moscow for two weeks already.' Russian has no 'have been living'. It says 'I live already two weeks', and the plain present covers it. 'Two weeks' uses the feminine 'two', since 'week' counts as a she-word.
 - 'Have you already gotten used to life in Moscow?' 'Get used to' is followed by a small 'to' word, so it's 'used to to life'. 'In Moscow' puts an 'e' on the city.
 - 'I came here from Voronezh for a dream.' 'Came' means arriving by some vehicle, such as a train. 'For a dream' uses the Russian 'za', which here is 'in pursuit of'.
-- 'And now you work in the best restaurant.' 'The best' is a short word that ends in 'em' here, because it comes after 'in'. 'Now' is 'at this moment'.
+- 'And now you work in the best restaurant.' 'The best' ends in 'em' here, because it comes after 'in'. 'Now' is 'at this moment'.
 - 'Claude Monet restaurant is the most famous in the city.' 'Most' in front of a describing word makes 'the most'. A dash replaces 'is', as Russian leaves it out.
 - 'Here there are very strict rules and an expensive menu.' 'Menu' is borrowed and doesn't change. 'Expensive' ends in 'oe', since 'menu' counts as neuter in Russian.
 - 'But for me this is a wonderful experience.' 'Experience' is also 'experiment'. 'For me' is two short words.
-- 'And where did you find yourself housing?' The extra 'yourself' is a Russian habit that makes it friendlier, like 'for yourself'. 'Housing' is built on 'to live'.
+- 'And where did you find yourself housing?' The extra 'yourself' is a Russian habit that makes it friendlier, like 'for yourself'. 'Housing' is derived from 'to live'.
 - 'I live right in the center of the city.' 'The very' and 'the most' are the same word, which here means 'right in'. 'Of the city' is shown by the ending.
 - 'Apartments in the center cost huge money.' Russian says apartments 'stand' a lot, with the word that also means 'to stand'. 'Huge money' puts the money in the 'of' form.
 - 'And I do not pay a single kopeck!' 'Not a single' is a neat chunk, made of 'not even' and 'one'. A kopeck is one hundredth of a rouble.

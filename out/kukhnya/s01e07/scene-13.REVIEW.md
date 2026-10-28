@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, we urgently need to clarify something.' 'Something or other' is 'what' with a 'koye' in front. 'Clarify' is built on 'clear'.
+- 'Max, we urgently need to clarify something.' 'Something or other' is 'what' with a 'koye' in front. 'Clarify' is based on 'clear'.
 - 'Guys, I really do not have time for you now.' 'Guys' is a friendly word for a group. 'Not up to you' is the idiom for 'I haven't time or mood for you'.
 - 'What did you tell Nastya about me?' 'told' has a prefix that means 'a lot, and not nice'. 'To Nastya' puts an 'e' on the name.
 - 'I was just joking a little, do not be mad.' 'Joked' comes from 'a joke'. 'Don't be mad' ends in 'sya'.

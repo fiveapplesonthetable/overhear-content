@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Barinov has gone to the food market for the day's vegetables, and who should he run into at the next stall but Elena Pavlovna, who runs the rival restaurant down the road? They are exquisitely polite for about ten seconds. It's in Russian first."
 OPENER = "Let's go back. Both of them use the polite 'you' and the father's name, which makes the insults land harder."
-TRANSITION = 'And the whole meeting again.'
+TRANSITION = 'Now the whole thing flows.'
 OUTRO = "The fight is about who is best, and it's told through apples. 'We'll see' and 'learn while I'm kind' are two good lines to keep. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Good morning, Chef Viktor Petrovich!' Russians address each other by first name plus father's name when being formal. 'Petrovich' means 'son of Pyotr'."),
-    (1, None, "'Good morning, Elena Pavlovna.' For a woman, the father's name ends in 'ovna', so 'Pavlovna' is 'daughter of Pavel'. Barinov answers in the same formal way."),
+    (1, None, "'Good morning, Elena Pavlovna.' For a woman, the father's name ends in 'ovna', so 'Pavlovna' literally means 'daughter of Pavel'. Barinov answers in the same formal way."),
     (2, None, "'Why did you come to this market?' 'You' is the polite one, and 'came' is in the plural to match. 'To this market' ends in 'ok'."),
     (3, None, "'I am choosing the best fresh vegetables.' 'The very best' is 'most' plus 'best', and it goes with 'fresh' in the same plural. 'Vegetables' is a plural word."),
-    (4, None, "'And did you decide to make your husband borscht?' 'Borscht' is a beetroot soup, and the jab is that she cooks at home. 'To husband' ends in 'u', as in 'for husband'."),
-    (5, None, "'No, I am opening a new expensive restaurant.' 'open' is related to 'opening'. 'New' and 'expensive' agree with 'restaurant'."),
-    (6, None, "'I am preparing a new menu myself.' 'myself' is the woman's form, so Elena uses 'sama'. A man would say 'sam'."),
+    (4, None, "'And did you decide to make your husband borscht?' 'Borscht' is a beetroot soup, and the jab is that she cooks at home. 'husband' ends in 'u', the ending that means 'for' here."),
+    (5, None, "'No, I am opening a new expensive restaurant.' 'open' is related to the term for 'opening'. 'New' and 'expensive' take the ending that agrees with 'restaurant'."),
+    (6, None, "'I am preparing a new menu myself.' The term for 'myself' is the woman's form, so Elena says 'sama'. A man would say 'sam', with no ending."),
     (7, None, "'Nobody will go to your restaurant!' 'Nobody will go' uses 'not', as Russian always does with 'nobody'. 'Your' is polite, and it agrees with 'restaurant'."),
-    (8, None, "'We will see whose kitchen is better!' 'Whose' agrees with 'kitchen', so it is the she-form. 'Better' is a short word."),
-    (9, None, "'My restaurant will always be first!' After 'will be', 'first' takes an 'ym' ending, which is why it sounds a little different from the dictionary form. 'Always' is plain."),
-    (10, None, "'Then try these beautiful apples.' 'Try' is the polite command. 'Apples' is plural."),
-    (11, None, "'Oh, how sour these apples are!' 'How' becomes 'what kind of' in an exclamation. 'Sour' is related to 'acid'."),
-    (12, None, "'One must know how to choose good fruit!' 'One must' is a short word, and it's followed by 'know how'. 'To know how' means 'to be skilled at'."),
+    (8, None, "'We will see whose kitchen is better!' 'whose' agrees with 'kitchen', so it comes out as the she-form. 'Better' is a short word that you will use constantly."),
+    (9, None, "'My restaurant will always be first!' After 'will be', 'first' takes an 'ym' ending, which is why it sounds a little different from the dictionary form."),
+    (10, None, "'Then try these beautiful apples.' 'Try' is the respectful command. 'Apples' is plural."),
+    (11, None, "'Oh, how sour these apples are!' 'how' turns into 'what kind of' in an exclamation. 'Sour' is related to the Russian for 'acid'."),
+    (12, None, "'One must know how to choose good fruit!' 'One must' is followed by 'know how'. 'To know how' means 'to be skilled at'."),
     (13, None, "'Learn while I am a kind chef!' The word 'poka' means 'while', and it also means 'bye'. 'Learn' ends in 'sya'."),
 ]

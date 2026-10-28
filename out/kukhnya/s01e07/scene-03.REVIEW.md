@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you tell the truth right away?' 'Right away' is one word, 'srazu'. 'Didn't tell' is the finished kind of 'tell', so it means 'tell the whole thing'.
+- 'Why didn't you tell the truth right away?' 'Right away' is the single word 'srazu'. 'Didn't tell' is the finished kind of 'tell', so it means 'tell the whole thing'.
 - 'I was very ashamed to admit it, Kostya.' Russian says 'to me was shameful', with the feeling outside the person. 'Admit' ends in 'sya'.
-- 'Move in with me into a big apartment.' 'Move house' is built from 'across' and 'ride'. 'To me' is the short 'ko mne', and 'into a big apartment' has an 'uyu' ending.
+- 'Move in with me into a big apartment.' 'Move house' starts from 'across' and 'ride'. 'To me' is the short 'ko mne', and 'into a big apartment' has an 'uyu' ending.
 - 'How many rooms are in your apartment?' 'How many' is followed by the 'of' form, so 'rooms' changes shape. 'In your apartment' puts the usual 'e' on the end.
-- 'I have two separate rooms.' 'I have' is 'at me there are'. 'Two' is the she-form because 'room' is a she-word.
+- 'I have two separate rooms.' 'I have' is 'at me there are'. 'Two' is the she-form because 'room' is grammatically a she-word.
 - 'Will we pay for the apartment fifty-fifty?' 'In half' is one word that does the work of 'fifty-fifty'. 'We will pay' is made of 'will' and 'pay'.
-- 'Yes, each pays exactly half the amount.' 'Each' is a short word. 'Exactly' is built from 'even', and 'half' ends in 'u'.
-- 'And does Nastya come over to you often?' 'Often' is a plain word. 'To you' means 'to your place', in the short 'k tebe'.
+- 'Yes, each pays exactly half the amount.' 'Exactly' is pieced together from 'even', and 'half' ends in 'u'.
+- 'And does Nastya come over to you often?' 'To you' means 'to your place', in the short 'k tebe'.
 - 'She does not come, we are not dating.' 'Meet' ends in 'sya', and it also means 'go out with'. The two 'not's are a tidy pair.
 - 'So there is no serious relationship between you?' 'Relationships' only exists in the plural in Russian. 'Between you' needs a changed form of 'you'.
 - 'We are simply good friends and colleagues.' 'Friends' changes inside, from 'drug' to 'druzya'. 'Colleagues' is borrowed and looks like English.
 - 'Then I gladly agree to move in!' 'With joy' is how Russians say 'gladly'. 'Agree' ends in a consonant because Max is a man.
-- 'Great, I expect your things this evening.' 'This evening' is 'today evening', and the evening ends in 'om'. 'I wait for' is the usual way to say 'I expect'.
+- 'Great, I expect your things this evening.' 'This evening' is 'today evening', and the evening ends in 'om'. 'I wait for' is the usual phrase for saying 'I expect'.

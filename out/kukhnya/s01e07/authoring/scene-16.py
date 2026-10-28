@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Max still needs a place to sleep, and Kostya has heard about it. At the bar he offers his own flat, which he has only just rented. It's in Russian first, and there are some useful phrases for housing."
 OPENER = "Let's go through the offer. Kostya is generous, and Max is suspicious of luck."
-TRANSITION = 'Here is the whole offer once more.'
+TRANSITION = 'That was the detail; here is the sweep.'
 OUTRO = "'I have nowhere to live' is a good Russian sentence to know, and so is 'around ten in the evening'. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('kostya', 'Тогда договорились, жду тебя сегодня вечером!', 'Then agreed, I am waiting for you tonight!', [(328, 'Спасибо')], ''),
 ]
 WALK = [
-    (0, None, "'Max, I heard you have a problem with housing.' 'At you a problem' is how Russian says 'you have a problem'. 'With housing' puts an 'em' on the word 'housing'."),
-    (1, None, "'Yes, I have nowhere to live in Moscow at all.' 'Nowhere' is 'no' plus 'where', and it works as a tiny pattern: 'to me nowhere to live'. There is a twin for movement, 'nowhere to go'."),
+    (0, None, "'Max, I heard you have a problem with housing.' 'At you a problem' is the Russian way to put 'you have a problem'. The word for 'housing' gets an 'em' ending after the Russian for 'with'."),
+    (1, None, "'Yes, I have nowhere to live in Moscow at all.' 'nowhere' is 'no' plus 'where', and it works as a tiny pattern: 'to me nowhere to live'. There is a twin for movement, 'nowhere to go'."),
     (2, None, "'Do you want to live at my place for a couple of weeks?' 'A couple' comes from 'pair'. 'Weeks' takes a special 'of' form, as it follows 'couple'."),
     (3, None, "'Are you speaking completely seriously, Kostya?' 'Seriously' comes from 'serious'. 'Completely' is a favourite word of Max's."),
-    (4, None, "'Of course, without any problems, my friend!' 'Without' asks for the 'of' form, so 'problems' changes. 'Any kind of' is one word."),
+    (4, None, "'Of course, without any problems, my friend!' The term for 'without' asks for the 'of' form, so 'problems' changes its ending. 'Any kind of' is a single word."),
     (5, None, "'Here is the exact address of my new apartment.' 'Here is' points at things without a verb. 'Of my new apartment' puts the same ending on all three words."),
     (6, None, "'I will arrive home around ten in the evening.' 'Around' asks for the 'of' form, so 'ten' changes shape. 'Arrive' starts with the piece 'pri', and it's the word for arriving by transport."),
-    (7, None, "'Excellent, I will come right on time there.' 'I will come' is the word for arriving on foot. 'There' is the movement word, 'to there'."),
+    (7, None, "'Excellent, I will come right on time there.' 'I will come' means arriving on foot. 'There' is the movement word, literally 'to there'."),
     (8, None, "'Maybe I should buy something tasty for tea?' 'Something' is 'what' plus the tail 'nibud', meaning 'anything at all'. 'For tea' uses 'k', which means 'toward'."),
     (9, None, "'Better buy a pretty bouquet of flowers.' 'Better' is 'would be better to'. 'Of flowers' is how Russian says 'a bouquet of flowers'."),
     (10, None, "'Why do you and I need flowers?' 'You and I' is literally 'us with you'. 'Needed' is plural, to agree with 'flowers'."),
-    (11, None, "'An elderly landlady lives in this apartment.' 'Elderly' ends in 'aya', for a woman. 'Landlady' is 'the woman of the house'."),
-    (12, None, "'Understood, I will buy the freshest flowers!' 'I will buy' gains an extra 'l' in the middle. 'The freshest' is 'most fresh'."),
-    (13, None, "'Then agreed, I am waiting for you tonight!' 'Agreed' ends in 'lis' because they have come to terms with each other. 'I wait for you' is the usual way to say 'I expect you'."),
+    (11, None, "'An elderly landlady lives in this apartment.' 'Elderly' has an 'aya' ending, for a woman. 'landlady' literally means 'the woman of the house'."),
+    (12, None, "'Understood, I will buy the freshest flowers!' 'I will buy' gains an extra 'l' in the middle. 'The freshest' is literally 'most fresh'."),
+    (13, None, "'Then agreed, I am waiting for you tonight!' The Russian for 'agreed' ends in 'lis' because they have come to terms with each other. 'I wait for you' is the usual way to say 'I expect you'."),
 ]
