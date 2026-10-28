@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Move over, come on, I will help you.' 'Move over' ends in 'sya': you move yourself. 'Come on' here is 'give', used as a nudge.
 - 'Fedya, thank you, nothing is working out for me!' The idiom is 'at me nothing comes out'. It's what you say when nothing you try works.
 - 'Right now the main thing is to completely calm down.' 'The main thing' is a single describing word used as a noun. 'Completely' comes from 'full'.
-- 'Take a deep breath.' 'Breath in' is a short word that starts with 'v', meaning 'in'. 'Deep' is the same word as for deep water.
+- 'Take a deep breath.' 'Breath in' starts with 'v', meaning 'in'. 'Deep' is the same word as for deep water.
 - 'And now a slow exhale.' 'breath out' starts with 'vy', which means 'out'. In and out are just two prefixes on the same word.
 - 'And forever remember the main rule.' 'Forever' is made from 'on' and 'always'. The command 'remember' comes from 'memory'.
 - 'The rush does not happen in the kitchen.' The slangy word for 'rush' is the one the whole scene hangs on. 'Not' goes in front of 'in the kitchen', to say it's where it's not.

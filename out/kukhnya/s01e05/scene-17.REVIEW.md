@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, wait, I cannot do this.' 'Wait' is the command you use for a friend. 'I can' is a short word, and 'so not I can' is how Russian puts 'I can't do it this way'.
+- 'Kostya, wait, I cannot do this.' 'Wait' is the command you use for a friend. 'I can' is one word, and 'so not I can' is how Russian puts 'I can't do it this way'.
 - 'What happened, Nastya, what is wrong?' 'Happened' comes from 'chance'. 'What is wrong' is literally 'what not so', with no 'is'.
-- 'I wanted to take revenge on Maxim through you.' Nastya uses Max's full name, which sounds more serious. 'Take revenge' comes from 'revenge', and 'through' is a short word followed by 'you'.
+- 'I wanted to take revenge on Maxim through you.' Nastya uses Max's full name, which sounds more serious. 'Take revenge' comes from 'revenge', and 'through' is followed directly by 'you'.
 - 'Max quite deserves a good lesson, you know.' 'Quite' is the word that means 'fully', and 'deserves' comes from 'merit'. 'You know' at the end is the same filler as in English.
 - 'I cannot accept such a sacrifice.' 'sacrifice' also means 'victim', and the speaker's meaning decides which. 'Such' is a handy small word for 'a thing like that'.
 - 'And what are we to do now?' 'to us' sits in the middle, with 'to do' at the end. A little word in front of 'to us' adds 'then' or 'so'.
 - 'Let us simply tell everyone about us.' The first word is 'give', used here for 'let's'. 'About us' is two small words, and 'to everyone' is one.
 - 'And in reality there is nothing?' 'in reality' is literally 'on the very deed'. 'There is nothing' is 'nothing there-isn't'.
 - 'Yes, this will be only our secret.' 'Secret' is almost the same as in English. 'Will be' uses a word that does what 'is' does in the present.
-- 'Fine, let Max be slightly jealous.' The first word is a casual 'fine'. 'Let him' is a single small word, and the one for 'be jealous' has a little 'po' at the start that means 'for a bit'.
+- 'Fine, let Max be slightly jealous.' The line begins with a casual 'fine'. 'Let him' is a single small word, and the one for 'be jealous' has a little 'po' at the start that means 'for a bit'.
 - 'Kostya, thank you, you are simply the best!' 'the best' here is slangy, built on 'class'. 'Simply' sits in front of it like a drum roll.
 - 'For you I am ready for anything.' 'For you' goes first, to make the point. 'Ready' ends in a consonant for Kostya.
 - 'My order is ready, I will run to work!' 'ready' is the same as in the line before, with the same ending for a thing. 'I will run' has a little 'po' that means a short run.

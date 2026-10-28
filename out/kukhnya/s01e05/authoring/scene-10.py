@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "The duel is still on, and the kitchen is busy. Barinov takes Max aside and sends him on a small errand to the bar, with strict instructions to keep it quiet. It's in Russian first, and you don't have to catch every word."
 OPENER = "Let's go through the errand. Barinov gives orders, and Max does his best not to ask too many questions."
-TRANSITION = 'And the whole errand once more.'
+TRANSITION = 'Listen again, and notice what you recognise.'
 OUTRO = 'You now know a few ways of giving and taking orders: come here, go and bring, say that, put it in. Every one of them is short, which makes them easy to use. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Listen, Oguzok, come here to me.' 'Listen' is the everyday way to get someone's attention, like 'hey'. 'Come up to me' is a short command, and 'oguzok' is the nickname Barinov uses for Max."),
-    (1, None, "'Yes, chef! What needs to be done?' 'Needed' is a handy word that says 'it's necessary' without naming anyone. 'To be done' is a single word, so there's no 'to be' to add."),
+    (1, None, "'Yes, chef! What needs to be done?' 'Needed' is a handy word that says 'it's necessary' without naming anyone. 'To be done' is a single word with no 'to be' in it."),
     (2, None, "'Go to the bar and bring cognac.' The little 's' at the start of the first word means 'go there and come back'. 'Bring' starts with 'pri', the piece that means 'toward'."),
     (3, None, "'Which cognac exactly do you need?' The polite 'you' appears as 'to you needed', again with no 'I need'. The small word 'exactly' comes right after 'which'."),
     (4, None, "'I wrote the name on this piece of paper.' The word for the paper has a 'ka' on the end, which makes it a small scrap. 'The name' here is for a thing, like a brand, not a person's name."),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'Understood, I will do everything quickly and quietly.' The first word is a one-word 'got it'. Quickly and quietly both end in 'o', which is how Russian often makes 'how' words from describing ones."),
     (10, None, "'And stuff the fish with julienne and lemon.' The command comes from the word for minced filling. 'with lemon' ends in 'om', and that 'om' is what 'with' asks for."),
     (11, None, "'Then put it into the hot oven.' 'it' is a woman's form because fish is a 'she' in Russian. The command means 'stand it', as Russians say 'stand' for putting something upright."),
-    (12, None, "'Right away, chef, I'm already running!' The first word is what a soldier would say, 'I obey'. The last two are 'already' and 'I run', and the 'u' on the end is the ending for 'I'."),
+    (12, None, "'Right away, chef, I'm already running!' The line begins with what a soldier would say, 'I obey'. The last two are 'already' and 'I run', and the 'u' on the end is the ending for 'I'."),
 ]

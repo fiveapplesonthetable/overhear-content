@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Attention, cooks! Let us begin our meeting.' The first word looks like the English one, and it works the same way. 'Cooks' is a plural that ends in 'a' rather than the usual 'y', which is a quirk of a few common words.
 - 'Chef, what happened in the kitchen today?' 'happened' is a dramatic one, used for something bad that falls on you suddenly. Sasha says it with a worried face.
-- 'Someone thawed five kilograms of cod yesterday.' 'someone' is 'who' with a tiny 'to' stuck on the end. 'Thawed' is built on 'frost', with a prefix that undoes it.
+- 'Someone thawed five kilograms of cod yesterday.' 'someone' is 'who' with a tiny 'to' stuck on the end. 'Thawed' rests on 'frost', with a prefix that undoes it.
 - 'And what are we to do now?' Russian here uses 'what to us now to do'. There is no 'should' and no 'are', just the little word for 'to us' and a bare verb.
 - 'We must sell all the fish today!' 'must' is a strong one, closer to 'we are obliged'. It's the voice of a boss who has already decided.
 - 'Guests only order meat and pasta.' 'only' sits right before what's being limited. 'Pasta' is borrowed from Italian, so you know it; notice that it gets a different ending here because it's being ordered.
 - 'Sasha, come to me immediately.' The command is short, ending in 'i', which is the pattern for telling one person to do something. 'to me' is the same one that follows 'come up'.
-- 'I am listening to you carefully, chef.' Sasha uses the polite 'you' with her boss. 'Carefully' is built from the same word as the 'attention' at the top of the scene, so Sasha is saying 'with attention'.
+- 'I am listening to you carefully, chef.' Sasha uses the polite 'you' with her boss. 'Carefully' is formed from the same word as the 'attention' at the top of the scene, so Sasha is saying 'with attention'.
 - 'Tell the waiters: today we actively offer cod.' 'pass on' is the one you'd use for handing someone a message. 'Waiters' gets an 'am' on the end, which means 'to', as in 'pass it to the waiters'.
 - 'Maybe we could give a special discount?' 'maybe' is literally 'may be'. Sasha puts the idea forward as a question, which is how you suggest something to a boss and stay safe.
 - 'Yes, a twenty percent discount on fish.' The number twenty is two words glued together, 'two' and 'ten'. After it, 'percent' takes a plural ending, a rule that applies to every number from five up.
-- 'Understood, chef, we will organize everything.' The first word is the one for 'understood' that you can use in any job. 'Organize' looks like English, with the 'im' ending for 'we will'.
+- 'Understood, chef, we will organize everything.' The opening word is the one for 'understood' that you can use in any job. 'Organize' looks like English, with the 'im' ending for 'we will'.
 - 'If the fish is left over, I will fine you!' 'if' opens the line. 'fine' sounds almost like 'shtraf', and you can guess what it is without any help.

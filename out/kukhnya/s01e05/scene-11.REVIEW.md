@@ -27,8 +27,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Max treated me very badly.' Russian says 'acted with me', with the small word for 'with me' in a different shape from plain 'me'. 'Very badly' is two easy words you'll use again.
-- 'Stop crying, Nastya, wipe your tears.' The first word is 'enough', and it's followed directly by 'to cry', with no 'of' or 'from'. 'Wipe' is a command, and 'tears' is the plural, which in Russian looks a lot like a soft 'zy' ending.
-- 'You just need to get back at him.' 'You need' is 'to you needed', which is the way Russian says it. 'Get back at' is built on 'revenge', and 'him' appears as 'to him'.
+- 'Stop crying, Nastya, wipe your tears.' The opening word is 'enough', and it's followed directly by 'to cry', with no 'of' or 'from'. 'Wipe' is a command, and 'tears' is the plural, which in Russian looks a lot like a soft 'zy' ending.
+- 'You just need to get back at him.' 'You need' is 'to you needed', which is the way Russian says it. 'Get back at' is rooted in 'revenge', and 'him' appears as 'to him'.
 - 'Will I feel better if I get revenge?' 'I will feel better' is literally 'to me will become lighter'. The same word for 'lighter' is also 'easier'.
 - 'Of course, you will immediately feel better.' Sasha uses the same 'to you will become lighter' shape. 'immediately' is a handy single word: 'at once'.
 - 'But how can I punish him?' 'I can' is a short form you'll use constantly. 'Punish' belongs to the family of 'punishment'.

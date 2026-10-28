@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nastya, what are you doing now?' It's an ordinary question, and it sets up the shock. 'now' is one you'll hear all the time.
 - 'Well, we're on a real date!' Her little 'well' at the start shows she thinks it's obvious. 'date' comes from 'seeing', which is also inside the Russian goodbye.
 - 'No, Nastya, we are not on a date.' Notice there's no word for 'are'. Russian leaves out 'is' and 'are' in the present, so it's just 'at us not a date'.
-- 'You understood everything wrong yesterday.' The verb ends in 'a' because it's said to a woman. 'Not so' means 'not in the way you took it'.
+- 'You understood everything wrong yesterday.' The verb gets 'a' since it's said to a woman. 'Not so' means 'not in the way you took it'.
 - 'You and I are not dating at all.' Russian says 'we with you' for 'you and I'. 'at all' sits in front of 'not' and makes it stronger.
 - 'I am not your boyfriend.' 'boyfriend' is also the plain word for 'guy', just as 'girlfriend' and 'girl' are the same word. Context tells you which one is meant.
 - 'And you are not my girlfriend.' Max matches the last line with the woman's form of 'my'. His 'and' here sounds more like 'and likewise'.
 - 'Are you dumping me right now?' The verb literally means 'throw', as in 'throw me out of your life'. The first words are Nastya's shocked 'what, you...?'
 - 'These are not silly jokes at all.' 'at all' does the same job as the one in the dating line. Max insists it isn't a joke, which is not how Nastya's world is going.
 - 'Nothing ever happened between us.' This line has three negatives: 'never', 'nothing' and 'not'. Russian wants all of them, and none cancels another.
-- 'And what about our kiss?' 'kiss' is built from the same word as 'to kiss'. 'What about' is literally 'how then'.
+- 'And what about our kiss?' 'kiss' is put together from the same word as 'to kiss'. 'What about' is literally 'how then'.
 - 'And what about our future children?' 'future' comes from 'will be'. You can hear the 'will be' inside it, so 'future' is literally 'the will-be'.
 - 'What children, Nastya?' Max stops, confused. The small word he adds, meaning 'else' or 'still', turns it into 'what on earth children?'.
 - 'Yes, if you want, I am dumping you!' He uses the same verb she used for 'dump'. 'If you want' is just 'if' plus 'you want', with no special ending for the 'if'.

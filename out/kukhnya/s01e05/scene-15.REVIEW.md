@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, it seems the end has come for me now.' Max uses 'it seems', which is a handy way to soften any guess. 'To me an end' is how Russian says 'I'm finished', and 'will set in' is the one used for seasons arriving.
+- 'Chef, it seems the end has come for me now.' Max uses 'it seems', which is a handy way to soften any guess. 'To me an end' is Russian for 'I'm finished', and 'will set in' is the one used for seasons arriving.
 - 'Keep quiet and listen to the jury's strict verdict.' Both commands are short: 'be quiet' and 'listen'. 'Verdict' and 'jury' are borrowed, so they sound nearly like English.
 - 'Vika chose this first dish in particular.' Barinov calls her by her full first name here, which is more formal than 'Vika'. 'dish' ends in 'o', and 'this' and 'first' end in 'o' too, to match it.
 - 'And the second fish she called awful?' 'awful' comes from 'horror'. Russian says 'called the fish awful' with a special ending on 'awful', rather than 'as' or 'to be'.
-- 'She didn't recommend it to anyone in the hall.' 'Recommend' is built on 'advice', so it is 'she didn't advise it'. 'To nobody' is a single word, and the 'not' stays in the sentence.
-- 'Congratulations, our cook won fairly today!' The first word is 'I congratulate', in one word with no 'I'. 'Fairly' comes from 'honor', so it is 'honestly'.
+- 'She didn't recommend it to anyone in the hall.' 'Recommend' stems from 'advice', so it comes out as 'she didn't advise it'. 'To nobody' is a single word, and the 'not' stays in the sentence.
+- 'Congratulations, our cook won fairly today!' The first word is 'I congratulate', in one word with no 'I'. 'Fairly' comes from 'honor', meaning 'honestly'.
 - 'Thank you very much for the great, fair evaluation.' Russian says 'thanks big' for 'thank you very much'. 'Fair' comes from 'justice', and 'evaluation' is a close cousin of a school grade.
-- 'Lord, how incredibly delicious this is!' The first word is what Russians say when they're amazed, like 'good Lord'. 'Delicious' is built from 'taste'.
-- 'Chef, let me taste a little too.' 'give' with the 'te' ending is the polite form, because Max is talking to his boss. 'Too' is a small word that sits in the middle, and 'a little' is one word.
+- 'Lord, how incredibly delicious this is!' The line begins with what Russians say when they're amazed, like 'good Lord'. 'Delicious' grows out of 'taste'.
+- 'Chef, let me taste a little too.' 'Give' with the 'te' ending is the formal form, because Max is talking to his boss. 'Too' sits in the middle of the sentence, and
 - 'Wait, I haven't properly tasted it myself yet.' 'myself' stresses who's doing the tasting. 'Not yet' is two small words, and the long word at the end has a prefix that means 'really taking it in'.
-- 'And the losing cook must finish eating everything himself.' 'The losing one' is built on 'to lose a game'. 'finish eating' starts with the little piece that means 'all the way to the end'.
-- 'I hope our guests will remain very pleased.' 'I hope' is one word and comes from 'hope'. 'Remain' is the future, and 'pleased' takes a plural ending to match 'guests'.
+- 'And the losing cook must finish eating everything himself.' 'The losing one' is derived from 'to lose a game'. 'finish eating' starts with the little piece that means 'all the way to the end'.
+- 'I hope our guests will remain very pleased.' 'I hope' is a single word that comes from 'hope'. 'Remain' is the future, and 'pleased' takes a plural ending to match 'guests'.

@@ -27,9 +27,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Kostya, hi. Why are you angry?' Max starts with the casual greeting you use for a friend, then asks why. The last word ends in 'sya', a little tail Russian often adds when you do something to yourself, so you could say he is 'angry-ing' himself.
-- 'Back off, or I will break your nose!' Russian doesn't say 'your nose' here. It says 'I will break to-you the nose', and the small word for 'to you' does the job of 'your'. The first word is a rude, bossy 'get lost'.
+- 'Back off, or I will break your nose!' Russian doesn't say 'your nose' here. It says 'I will break to-you the nose', and the small word for 'to you' does the job of 'your'. The opening word is a rude, bossy 'get lost'.
 - 'What for? What did I do to you?' The first question is two short words, and it is what you say when you're blamed for something and don't know why. The second one is built in the same way as the nose line, with 'to you' tucked in the middle.
-- 'Yesterday you kissed my girl!' Russian uses one word for both 'young woman' and 'girlfriend', and 'my' has the ending that shows it's a woman. The word for 'kissed' carries that 'sya' again, because kissing is something two people do to each other.
+- 'Yesterday you kissed my girl!' Russian uses one word for both 'young woman' and 'girlfriend', and 'my' has the ending that shows it's a woman. 'kissed' carries that 'sya' again, because kissing is something two people do to each other.
 - 'It was a completely accidental misunderstanding.' Max reaches for the longest, most official-sounding word he can find. 'Accidental' comes from 'a chance event', so it simply means it happened by chance.
 - 'You were kissing right in the restaurant!' Kostya now says 'you' for two people, Max and Nastya, and 'kissing' changes to match. The small word in front of the place means 'right there'.
 - 'I wanted to sleep all day yesterday.' Max's excuse is built just like English, 'wanted' and then 'to sleep'. His 'wanted' ends in a consonant because he is a man. A woman would add an 'a'.
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'For me that does not matter.' Literally it's 'does not have significance'. You can use the whole chunk to wave anything away, and it works for 'it doesn't matter' in nearly any situation.
 - 'There is nothing between me and Nastya!' Russian says 'nothing is-not' here, so 'nothing' and 'there isn't' both appear. In English that would be a double negative, but in Russian it is correct. Nastya's name also changes its ending after 'between'.
 - 'You betrayed our friendship, Max.' 'friendship' comes from 'friend', so it's easy to remember. Kostya ends with Max's name, which makes the accusation sound heavier.
-- 'I will prove that she means nothing to me.' 'I will prove' is the key to the line, and Kostya will pick it up in a moment. 'indifferent' is built from 'without' and 'difference', and Russian puts it as 'she to me is indifferent'.
-- 'We will see how you prove it.' Kostya doesn't believe a word. The first word is the standard 'we'll see', and the last is Max's own word for 'prove', now with the ending for 'you'.
+- 'I will prove that she means nothing to me.' 'I will prove' is the key to the line, and Kostya will pick it up in a moment. 'indifferent' is made from 'without' and 'difference', and Russian puts it as 'she to me is indifferent'.
+- 'We will see how you prove it.' Kostya doesn't believe a word. The line opens with the standard 'we'll see', and the last is Max's own word for 'prove', now with the ending for 'you'.

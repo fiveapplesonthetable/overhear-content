@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Who? Mom?' Max says it twice, once as 'who' and once as 'mom'. 'mom' sounds just like it does in English.
-- 'And how does she know this number?' 'from where' is a single word, and Russian uses it for 'how come'. 'Knows' is the word from 'I don't know'.
+- 'And how does she know this number?' Russian opens with 'from where', which it uses for 'how come'. 'Knows' is the form from 'I don't know'.
 - 'Hello, Mom?' 'hello' that Max uses is only for the phone. You'd say a different one in person.
 - 'Yes, it is Mom, your mom.' Barinov puts 'mom' first, which makes it sound funnier than 'I am your mother'. Notice the lack of 'is' again.
 - 'You will cook trout with classic julienne.' The future is built with 'you will be' plus a second word, 'to cook'. That is a very common way to say 'you will do'. 'Classic' is closer to 'usual'.
 - 'First, clean the fresh fish.' Now it's the chef giving the instructions. 'For a start' is literally 'for a beginning', and the command means 'gut', which is how you clean a fish.
 - 'Then carefully remove the backbone.' The first word means 'then', or 'after that'. 'carefully' is also used for 'neatly', and the command ends with 'backbone'.
-- 'And put the fillet in the fridge.' 'Fillet' is borrowed from French, and 'fridge' is built from 'cold'. The command is from 'lay down'.
+- 'And put the fillet in the fridge.' 'Fillet' is borrowed from French, and 'fridge' starts from 'cold'. The command is from 'lay down'.
 - 'Did you understand everything, Mommy?' The pet name for 'mom' is longer and sweeter. 'Understood' ends in a consonant, as Max is a man.
-- 'I will call you back later, I am busy.' 'Call back' is 'call' with a prefix meaning 'again'. The last word is a short way to say 'no time', from 'not when'.
+- 'I will call you back later, I am busy.' 'Call back' is 'call' with a prefix meaning 'again'. The last word is a short way of saying 'no time', from 'not when'.
 - 'Kisses to you, bye.' 'I kiss' is the verb for kissing, in the same family as 'kiss'. The last word is 'bye', which is also 'for now'.
 - 'That was Mom calling from Voronezh.' Max says it to the room. Voronezh is his home town. 'Called' ends in 'la', because it agrees with 'mom'.
