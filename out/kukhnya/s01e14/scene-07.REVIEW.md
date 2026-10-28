@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Жерар Депардье доедает моё блюдо и говорит. | Gerard Depardieu finishes my dish and says. | #136: доедает Депардье ему родоту и говорит. | verbatim |
+| 1 | Макс | Жерар Депардье доедает моё блюдо и говорит. | Gerard Depardieu finishes my dish and says. | #136 00:08:26: доедает Депардье ему родоту и говорит. | verbatim |
 | 2 | Саша | Неужели ему так сильно всё понравилось? | Did he really like everything so much? | new | new |
-| 3 | Макс | Он сказал, что это просто невероятно вкусно! | He said that it is simply incredibly tasty! | #137: офигеть! | verbatim |
-| 4 | Саша | Что, он прямо так тебе и сказал? | What, did he say it to you exactly like that? | #139: Что, прям так и сказала? | verbatim |
-| 5 | Макс | Да, именно так, только на французском языке. | Yes, exactly like that, only in the French language. | #140: Да. Ну, то по-французски. | verbatim |
+| 3 | Макс | Он сказал, что это просто невероятно вкусно! | He said that it is simply incredibly tasty! | #137 00:08:30: офигеть! | verbatim |
+| 4 | Саша | Что, он прямо так тебе и сказал? | What, did he say it to you exactly like that? | #139 00:08:35: Что, прям так и сказала? | verbatim |
+| 5 | Макс | Да, именно так, только на французском языке. | Yes, exactly like that, only in the French language. | #140 00:08:38: Да. Ну, то по-французски. | verbatim |
 | 6 | Саша | Какой же ты талантливый повар, Макс! | What a talented cook you are, Max! | new | new |
-| 7 | Макс | Такую вкусную еду не готовит даже мама! | Even a mother does not cook such tasty food! | #138: Такой родоту не готовит даже моя мама! | verbatim |
+| 7 | Макс | Такую вкусную еду не готовит даже мама! | Even a mother does not cook such tasty food! | #138 00:08:33: Такой родоту не готовит даже моя мама! | verbatim |
 | 8 | Саша | Вы с ним теперь хорошие друзья? | Are you now good friends with him? | new | new |
-| 9 | Макс | С тех пор мы с Жераром дружим. | Since then Gerard and I are friends. | #141: С тех пор мы с Жераром дружим. | verbatim |
-| 10 | Саша | Расскажи нам ещё что-нибудь интересное, пожалуйста! | Tell us something else interesting, please! | #145: расскажите еще что-нибудь там? | verbatim |
-| 11 | Макс | С большим удовольствием, милые дамы. | With great pleasure, lovely ladies. | #143: дамы<br>#146: Удовольствие. | verbatim |
-| 12 | Макс | Однажды, когда я работал в Париже... | Once, when I worked in Paris... | #146: Как-то раз в Париже. | verbatim |
+| 9 | Макс | С тех пор мы с Жераром дружим. | Since then Gerard and I are friends. | #141 00:08:40: С тех пор мы с Жераром дружим. | verbatim |
+| 10 | Саша | Расскажи нам ещё что-нибудь интересное, пожалуйста! | Tell us something else interesting, please! | #145 00:08:53: расскажите еще что-нибудь там? | verbatim |
+| 11 | Макс | С большим удовольствием, милые дамы. | With great pleasure, lovely ladies. | #143 00:08:45: дамы<br>#146 00:08:56: Удовольствие. | verbatim |
+| 12 | Макс | Однажды, когда я работал в Париже... | Once, when I worked in Paris... | #146 00:08:56: Как-то раз в Париже. | verbatim |
 | 13 | Саша | Какой чудесный и невероятно красивый город! | What a wonderful and incredibly beautiful city! | new | new |
-| 14 | Макс | Ой, прошу прощения, мне пора бежать. | Oh, I beg your pardon, it is time for me to run. | #147: Прошу прощения | verbatim |
+| 14 | Макс | Ой, прошу прощения, мне пора бежать. | Oh, I beg your pardon, it is time for me to run. | #147 00:09:02: Прошу прощения | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gerard Depardieu finishes my dish and says.' Max tells a wildly exaggerated story. He claims a famous actor praised his cooking.
-- 'Did he really like everything so much?' Sasha is completely enthralled. She asks if the actor really liked it that much.
-- 'He said that it is simply incredibly tasty!' Max continues to embellish the tale. He claims the actor found it unbelievably delicious.
-- 'What, did he say it to you exactly like that?' Sasha wants to know the exact details. She asks if the actor said those exact words.
-- 'Yes, exactly like that, only in the French language.' Max adds a touch of international flair. He confidently claims the praise was spoken in French.
-- 'What a talented cook you are, Max!' Sasha praises Max excessively. She is totally convinced of his amazing talent.
-- 'Even a mother does not cook such tasty food!' Max goes even further with his bragging. He claims his food is better than a mother's cooking.
-- 'Are you now good friends with him?' Sasha is curious about his famous connections. She asks if he is still friends with the actor.
-- 'Since then Gerard and I are friends.' Max confirms the fake friendship. He smoothly claims they have been close ever since.
-- 'Tell us something else interesting, please!' Sasha begs for more stories. She asks him to share another interesting tale.
-- 'With great pleasure, lovely ladies.' Max agrees with fake humility. He politely accepts the request from the ladies.
-- 'Once, when I worked in Paris...' He begins his next fabricated adventure. Max sets the scene in Paris.
-- 'What a wonderful and incredibly beautiful city!' Sasha swoons over the location. she comments on how beautiful Paris is.
-- 'Oh, I beg your pardon, it is time for me to run.' Max suddenly realizes he needs to leave. He quickly excuses himself and rushes off.
+- 'Gerard Depardieu finishes my dish and says.' Put 'do', up to the end, in front of the verb for eating and you get 'doedaet', eats up. 'Blyudo', dish, is neuter, so 'my' becomes 'moyo'.
+- 'Did he really like everything so much?' 'Neuzheli' is a surprised 'really?'. 'Emu ponravilos' is literally 'to him it was pleasing': the thing liked is the subject and the person is 'to him'.
+- 'He said that it is simply incredibly tasty!' 'Veroyatno' means 'probably', so 'neveroyatno' is 'improbably', the usual 'incredibly'. 'Eto vkusno', 'it tasty', needs no 'is'.
+- 'What, did he say it to you exactly like that?' 'Pryamo tak' is literally 'straight so'. The small 'i' in 'tak tebe i skazal' adds doubt, like 'he actually said that?'
+- 'Yes, exactly like that, only in the French language.' Russians speak 'na' a language, so 'in French' is 'na frantsuzskom yazyke', literally 'on the French tongue'. 'Imenno tak' is 'precisely so'.
+- 'What a talented cook you are, Max!' 'Kakoy zhe ty...!' is the warm 'what a ... you are!'; the 'zhe' adds the feeling. 'Talantlivy' is built on 'talant', talent.
+- 'Even a mother does not cook such tasty food!' 'Eda', food, is feminine and it's the thing cooked, so all three words end in 'u': 'takuyu vkusnuyu edu'. 'Dazhe' is 'even'.
+- 'Are you now good friends with him?' 'Vy s nim' is literally 'you with him', meaning the two of you. One friend is 'drug', but friends are 'druzya', with a new middle.
+- 'Since then Gerard and I are friends.' Russians say 'my s Zherarom', 'we with Gerard', for 'Gerard and I'. 'Druzhim' is a verb, 'we friend', from the same root as 'drug'.
+- 'Tell us something else interesting, please!' 'Rasskazhi' is the order 'tell!', from the same family as 'rasskaz', a story. In 'chto-nibud interesnoe', 'interesting' ends in 'oe' because 'something' counts as neuter.
+- 'With great pleasure, lovely ladies.' 'S bolshim udovolstviem' is the stock 'gladly'; 'with' puts 'udovolstvie', pleasure, into the 'em' form. 'Milye damy' is an old-fashioned flourish, 'dear ladies'.
+- 'Once, when I worked in Paris...' 'Odnazhdy' is 'one time', built like 'dvazhdy', twice. After 'v', in, the city takes an 'e': 'Parizh' becomes 'v Parizhe'.
+- 'What a wonderful and incredibly beautiful city!' 'Chudesny' comes from 'chudo', a miracle. 'Gorod', city, is masculine, so both describing words end in 'y'.
+- 'Oh, I beg your pardon, it is time for me to run.' 'Proshu proshcheniya' is literally 'I ask forgiveness'. 'Mne pora' is 'to me it's time', the standard way to say you have to go.

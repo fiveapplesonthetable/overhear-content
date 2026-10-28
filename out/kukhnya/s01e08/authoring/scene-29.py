@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "After rival chef Elena Sokolova spends a grueling day attempting to manage the Claude Monet kitchen, orders fall apart and dishes get sent back by disgruntled diners. Confronting Elena in his office, Chef Barinov triumphantly declares that he won their bet, delivering a passionate defense of his quirky kitchen crew. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Viktor and Elena's wager post-mortem line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor Barinov defends his loyal cooks and secures a hard-earned dinner date from his rival. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'disorder' — you will catch every word right away. See you next time!"
+INTRO = "The service is over. Barinov sits down with Elena Pavlovna, the chef from the rival restaurant, to enjoy winning their bet: she couldn't run his kitchen. Elena does not take it lying down. Here it is in Russian first."
+OPENER = "Let's go through the gloating. Barinov is triumphant, and Elena has her own view."
+TRANSITION = "Now the whole showdown in one go."
+OUTRO = "Elena ends politely and still makes a demand: \"vy mne dolzhny otlichnyy uzhin\", you owe me a great dinner. The word \"dolzhny\" does the work of 'owe' and 'must'. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Что и требовалось доказать, Елена Павловна!', 'That proves my point, Elena Pavlovna!', [(343, 'Что и требовалось доказать.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Шеф, вы мне должны отличный ужин!', 'Chef, you owe me a great dinner!', [(355, 'А? Шеф?'), (356, 'Вы мне ужин должны.')], ''),
 ]
 WALK = [
-    (0, None, "'That proves my point, Elena Pavlovna!' Viktor Barinov gloats about his victory with undisguised pleasure."),
-    (1, None, "'I turned out absolutely right again today.' The head chef celebrates his superior kitchen strategy."),
-    (2, None, "'As always, I won the bet!' Barinov reminds his culinary rival of their high-stakes wager."),
-    (3, None, "'Viktor, stop talking this silly nonsense.' Elena dismisses his arrogance with sharp exasperation."),
-    (4, None, "'I worked in your kitchen the whole day.' The guest chef recounts her exhausting shift on the line."),
-    (5, None, "'At first everything was completely calm and fine.' She recalls the smooth operation of the kitchen early on."),
-    (6, None, "'And then all the cooks seemed to get sick!' Elena describes the sudden wave of disastrous blunders."),
-    (7, None, "'You have nothing but cripples working in your kitchen!' She vents her frustration at the crew's sudden incompetence."),
-    (8, None, "'Right, but these are my own people!' As Barinov fiercely defends his cooks against outside criticism."),
-    (9, None, "'And only I have the right to scold them.' The chef claims exclusive ownership of his kitchen family."),
-    (10, None, "'The chef's job is to make a team out of them!' Barinov eloquently articulates the true essence of leadership."),
-    (11, None, "'You know how to beautifully justify any disorder.' Elena shakes her head at Viktor's brazen charm."),
-    (12, None, "'Chef, you owe me a great dinner!' Elena happily claims his wager prize with a triumphant grin."),
+    (0, None, "'That proves my point, Elena Pavlovna!' Russians know \"chto i trebovalos dokazat\" as their 'Q.E.D.', the line that ends a proof in a school maths book. Barinov uses it to mean 'just as I said'."),
+    (1, None, "'I turned out absolutely right again today.' Russians say \"okazalsya\", turned out, when something proved to be so. For being right, \"pravyy\" shrinks to \"prav\"."),
+    (2, None, "'As always, I won the bet!' A bet is \"pari\", borrowed from French, and like many such loans its ending never changes. The opening \"vprochem\" is 'come to think of it', a slightly bookish way to add something."),
+    (3, None, "'Viktor, stop talking this silly nonsense.' Elena uses his first name and the polite \"prekratite\", stop. The nonsense, \"erunda\", takes -u as the thing being talked: \"glupuyu erundu\"."),
+    (4, None, "'I worked in your kitchen the whole day.' Elena's \"prorabotala\" is \"rabotala\", worked, with \"pro-\", which means 'all through a stretch of time'. And \"tselyy den\", the whole day, needs no word for 'for'."),
+    (5, None, "'At first everything was completely calm and normal.' Since \"vsyo\", everything, counts as an 'it', the word for 'was' is \"bylo\". And \"snachala\", at first, is \"s\" plus \"nachalo\", beginning."),
+    (6, None, "'And then all the cooks seemed to get sick!' Here \"slovno\" means 'as if' or 'like', a little more literary than \"budto\". With \"zaboleli\" the cooks have fallen ill, not just been ill."),
+    (7, None, "'You have nothing but cripples working in your kitchen!' The word \"sploshnye\", nothing but, literally means solid or continuous. And \"invalidy\" is a harsh word for disabled people, which Elena throws at the cooks as an insult."),
+    (8, None, "'Right, but these are my own people!' Barinov agrees, \"pravilno\", and turns her insult around. In Russian \"rodnye\" means kin, one's own family, so he is calling the cooks family."),
+    (9, None, "'And only I have the right to scold them.' To have the right is \"imet pravo\", with \"imet\", a formal 'to have'. And \"rugat\", to scold, also means to swear at."),
+    (10, None, "'The chef's job is to make a team out of them!' The dash stands in for 'is', as it often does between two naming words. To make out of is \"sdelat iz\", and after \"iz\" 'them' is \"nikh\"."),
+    (11, None, "'You know how to beautifully justify any mess.' Inside \"opravdat\", to justify, sits \"pravda\", truth. And \"besporyadok\", mess, is \"bez\", without, plus \"poryadok\", order."),
+    (12, None, "'Chef, you owe me a great dinner!' The word \"dolzhny\" means both 'must' and 'owe', and the person owed comes as 'to me', \"mne\". Since \"otlichno\" is also the top mark in Russian schools, \"otlichnyy\" is high praise."),
 ]

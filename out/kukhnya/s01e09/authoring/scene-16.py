@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = 'In the pastry kitchen of Claude Monet, pastry chef Louis is finishing an elaborate banquet cake. Chef Barinov arrives to inspect the preparation, but they discover a small tool stuck in the cream. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around The Banquet Cake line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the pastry kitchen, Louis puts the final touches on an elaborate celebration cake, but Chef Barinov notices a small metal tool accidentally stuck inside the cream. Next time you watch the episode, listen for the Russian expressions for 'cake' and 'to play' — you will catch every word right away. See you next time!"
+INTRO = "The banquet cake is almost ready in the pastry section, and Louis is proud of it. Barinov comes by to check. Then he spots something in the cream that shouldn't be there. Hear it first, then we'll pick it apart."
+OPENER = "We'll go slowly this time."
+TRANSITION = "This time you'll hear more."
+OUTRO = "Louis will fix it, and he promises the cake will be perfect. What the guests don't know won't hurt them. Carry on listening, and see you soon."
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('louis', 'Шеф, я почти закончил этот торт.', 'Chef, I have almost finished this cake.', [], ''),
@@ -31,15 +31,17 @@ STORY = [
     ('louis', 'Обещаю, торт будет идеальным.', 'I promise, the cake will be perfect.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I have almost finished this cake.' In the pastry section, Louis proudly tells the chef that the banquet cake is nearly finished."),
-    (1, None, "'Show it to me, Louis.' Barinov steps over and asks Louis to show him the cake."),
-    (2, None, "'I think the cake can be served soon.' Louis says the dessert is almost ready to go out to the dining room."),
-    (3, None, "'Wait, what on earth is this?' Leaning in closer, Viktor freezes and asks what on earth is sticking out of the frosting."),
-    (4, None, "'Oh, this is an iron clamp!' Louis gasps as he recognizes an iron clamp wedged into the cake."),
-    (5, None, "'This is a celebration cake for the guests!' Barinov reminds him in horror that this cake is for the VIP banquet guests."),
-    (6, None, "'Probably the little girl was playing here.' Louis guesses that the little girl must have left the tool there while playing."),
-    (7, None, "'Chef, calm down, no need to shout.' Seeing the chef's face turn red, Louis begs him to stay calm and not shout."),
-    (8, None, "'I will quickly fix everything right now.' The pastry chef promises to patch up the frosting right away."),
-    (9, None, "'Make it pretty so the guests notice nothing.' Viktor orders him to smooth it over cleanly so the guests never suspect a thing."),
-    (10, None, "'I promise, the cake will be perfect.' Louis swears the cake will look flawless when it hits the table. Now listen to the full conversation once more."),
+    (0, None, '\'Chef, I have almost finished this cake.\' "Zakonchil", "finished", ends in the man\'s -l, and "pochti" is "almost". It\'s a modest, tired sentence from a pastry chef who has been working all day.'),
+    (1, None, '\'Show it to me, Louis.\' "Pokazhi" is the same short command the chef used about Alisa\'s face. "Pokazhi mne ego" is "show me it", with no "please". Barinov wants to look first.'),
+    (2, None, '\'I think the cake can be served soon.\' "Mozhno", "it\'s possible" or "allowed", is the opposite of "nelzya" from the chocolate talk. "Podavat" is "to serve" a dish. Louis says it with caution.'),
+    (3, None, '\'Wait, what on earth is this?\' The Russian is "eto eshchyo chto takoe", "this still what such", and "eshchyo" adds the "on earth". "Podozhdi" is "wait", said to one person. Barinov has seen it, and it can\'t be good.'),
+    (4, None, '\'Oh, this is an iron clamp!\' "Zheleznaya", "iron", grows from "zhelezo", the metal, and ends in -aya to match "strubtsina", "clamp". A tool in a banquet cake is a disaster.'),
+    (5, None, '\'Where did it come from in the cream?\' "Otkuda" is the third "where", "from where", after "gde" and "kuda". "Vzyalas" literally says "took itself", the Russian way to ask how something turned up.'),
+    (6, None, '\'This is a celebration cake for the guests!\' "Prazdnichny", "festive", grows from "prazdnik", "holiday". "Dlya gostey" is "for the guests". Barinov is outraged, because a tool in the cake would ruin the whole evening.'),
+    (7, None, '\'Probably the little girl was playing here.\' "Navernoe" is "probably". "Igrala", "was playing", has the girl\'s -la. Louis names the culprit without saying her name, but he means Alisa.'),
+    (8, None, '\'Did Alisa touch your cake?\' "Trogala" is "touched", with a girl\'s -la. There is no question word, only the voice rising at the end. Barinov\'s anger is already building.'),
+    (9, None, '\'Chef, calm down, no need to shout.\' "Spokoyno", "calmly", works alone as "calm down". "Ne nuzhno krichat" is "not needed to shout", the "nuzhno" pattern again. Louis tries to soothe.'),
+    (10, None, '\'I will quickly fix everything right now.\' "Ispravlyu", "I will fix", grows from "pravy", "right", so it means "make right". "Vsyo" is "everything". Louis knows how to rescue a cake.'),
+    (11, None, '\'Make it pretty so the guests notice nothing.\' "Sdelay krasivo" is "make beautifully". "Chtoby" is "so that". And "nichego ne zametili" is "nothing not noticed", another double negative.'),
+    (12, None, '\'I promise, the cake will be perfect.\' "Obeshchayu" is "I promise". "Idealnym" is the word "ideal" with a Russian ending, the one that comes after "budet", "will be". Louis keeps his word.'),
 ]

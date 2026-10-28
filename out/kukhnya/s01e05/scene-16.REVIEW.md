@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Всё, тут нам никто не помешает. | There, nobody will bother us here. | #207: никто не помешает | verbatim |
-| 2 | Костя | Настя, зачем мы сюда быстро пришли? | Nastya, why did we come here quickly? | new | new |
+| 1 | Настя | Всё, тут нам никто не помешает. | There, nobody will bother us here. | #207 00:15:22: никто не помешает | verbatim |
+| 2 | Костя | Настя, зачем мы сюда пришли? | Nastya, why did we come here? | new | new |
 | 3 | Настя | Нам нужно тихо поговорить без свидетелей. | We need to talk quietly without witnesses. | new | new |
 | 4 | Костя | Здесь действительно очень тихо и спокойно. | It is indeed very quiet and peaceful here. | new | new |
 | 5 | Настя | Ты готов мне немного помочь? | Are you ready to help me a little? | new | new |
@@ -21,21 +21,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Настя | Отлично, тогда слушай меня очень внимательно. | Great, then listen to me very carefully. | new | new |
 | 10 | Костя | Я весь во внимании, говори скорее. | I am all ears, speak quickly. | new | new |
 | 11 | Настя | Мы разыграем один очень хитрый спектакль! | We will play out a very clever show! | new | new |
-| 12 | Костя | Ну да, я пока ничего не понимаю. | Well yeah, I do not understand anything yet. | #208: Ну да | verbatim |
+| 12 | Костя | Ну да, я пока ничего не понимаю. | Well yeah, I do not understand anything yet. | #208 00:15:28: Ну да | verbatim |
 | 13 | Настя | Скоро ты сам всё отлично поймёшь! | Soon you will understand everything perfectly yourself! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There, nobody will bother us here.' Nastya ensures they have a secure spot to talk.
-- 'Nastya, why did we come here quickly?' Kostya is curious about the sudden need for secrecy.
-- 'We need to talk quietly without witnesses.' Nastya emphasizes the importance of a private conversation.
-- 'It is indeed very quiet and peaceful here.' Kostya agrees that they are safely hidden away.
-- 'Are you ready to help me a little?' Nastya asks for his cooperation in a special project.
-- 'Of course, I am always glad to help you.' Kostya eagerly offers his unconditional support.
-- 'Only promise not to tell anyone anything.' Nastya swears him to absolute secrecy first.
-- 'I promise, this will be our shared secret.' Kostya promises to keep his mouth shut.
-- 'Great, then listen to me very carefully.' Nastya prepares to outline her complex strategy.
-- 'I am all ears, speak quickly.' Kostya urges her to spill the details.
-- 'We will play out a very clever show!' Nastya reveals her intention to stage a fake scenario.
-- 'Well yeah, I do not understand anything yet.' Kostya admits he is completely lost.
-- 'Soon you will understand everything perfectly yourself!' Nastya promises that everything will make sense shortly.
+- 'There, nobody will bother us here.' "Vsyo" here means 'right, that's it', not 'everything'. "Nikto ne pomeshaet" keeps the "ne" even with "nikto", 'nobody'.
+- 'Nastya, why did we come here?' "Zachem" asks about the purpose, 'what for'. "Syuda" is 'here' in the sense of 'to here', for movement, and "prishli" is 'came' on foot.
+- 'We need to talk quietly without witnesses.' "Nam nuzhno" is literally 'to us it's needed'. "Bez", 'without', turns "svideteli", 'witnesses', into "bez svideteley".
+- 'It is indeed very quiet and peaceful here.' There's no 'is' in the Russian, just "zdes ochen tikho i spokoyno". "Tikho" and "spokoyno" end in -o, the form for 'it's quiet' and 'it's calm'.
+- 'Are you ready to help me a little?' "Gotov", 'ready', has no ending because it's said to a man; to Nastya it would be "gotova". "Pomoch" takes 'to me', "mne", as if you give help to someone.
+- 'Of course, I am always glad to help you.' A man says "rad", a woman "rada". "Pomoch tebe", 'to help you', mirrors Nastya's "pomoch mne".
+- 'Only promise not to tell anyone anything.' "Poobeshchay" is the command 'promise'. Then come the stacked negatives, "nikomu nichego ne rasskazyvat", literally 'to nobody nothing not tell'.
+- 'I promise, this will be our shared secret.' "Obeshchayu", 'I promise', answers Nastya's "poobeshchay", 'promise me'. "Obshchaya" means 'shared' or 'common'; "tayna" is a secret.
+- 'Great, then listen to me very carefully.' "Otlichno" is 'great' or 'excellent', and "togda" is 'then'. "Vnimatelno", 'carefully', grows from "vnimanie", 'attention'.
+- 'I'm all ears, speak quickly.' "Ya ves vo vnimanii", word for word 'I'm all in attention', is the Russian version of 'all ears'. "Govori skoree" means 'talk faster', so 'go on, quick'.
+- 'We will play out a very clever show!' "Razygraem", from "razygrat", means staging a prank on someone. "Spektakl" is a stage play, and "khitryy" here means 'cunning'.
+- 'Well yeah, I don't understand anything yet.' "Poka" here means 'so far' or 'yet', the same word as the casual 'bye'. "Nichego ne ponimayu" puts 'nothing' and 'not' together.
+- 'Soon you will understand everything perfectly yourself!' "Sam", 'yourself', adds weight, like 'on your own'. "Poymyosh" is the perfective future of "ponyat", so it means the moment when it all clicks.

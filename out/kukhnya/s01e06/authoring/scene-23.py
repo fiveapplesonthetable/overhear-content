@@ -10,13 +10,13 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "After Chef Barinov discovers the astronomical bill for the truffles, he assigns Max to pay off the debt. Faced with a month of unpaid labor, Max philosophically reflects on life's unexpected twists and tests of resilience."
-OPENER = "Let's explore Chef Barinov's strict punishment and Max's philosophical reflection on life."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Determined to face his debt and future challenges, Max looks forward with renewed culinary ambition. Next time you watch the episode, listen for the Russian expressions for 'for free' and 'big' — you will catch every word right away. See you next time!"
+INTRO = "At Claude Monet the inspection is behind them, and the bill for Rodion's dinner has landed on Max: a month of work for free. He takes it oddly calmly and ends the episode with a speech about life. It's in Russian first."
+OPENER = "Let's go through the end of the day. Barinov has the practical lines, and Max has the philosophy."
+TRANSITION = "And now Max's speech, all the way through."
+OUTRO = 'Max\'s speech is all short Russian sentences about big ideas: "zhizn", life, "trudnosti", difficulties, "sudba", fate. They\'re a good way to practise long thoughts without long words. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
-    ('barinov', 'Огузок, ты оплатишь этот дорогой счёт!', 'Runt, you will pay this expensive bill!', [], ''),
+    ('barinov', 'Огузок, ты оплатишь этот дорогой счёт!', 'Rump, you will pay this expensive bill!', [], ''),
     ('max', 'Шеф, но это очень большие деньги.', 'Chef, but this is very big money.', [(309, 'это')], ''),
     ('barinov', 'Будешь работать бесплатно целый месяц!', 'You will work for free a whole month!', [], ''),
     ('max', 'Жизнь постоянно испытывает нас на прочность.', 'Life is constantly putting us to the test.', [(309, 'жизнь')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Завтра меня ждут новые кулинарные победы!', 'Tomorrow new culinary victories await me!', [], ''),
 ]
 WALK = [
-    (0, None, "'Runt, you will pay this expensive bill!' Harshly sentencing Max, Barinov demands he cover the massive financial loss."),
-    (1, None, "'Chef, but this is very big money.' Max protests the staggering cost of the missing truffles."),
-    (2, None, "'You will work for free a whole month!' Firmly establishing the brutal terms, Barinov sentences him to indentured servitude."),
-    (3, None, "'Life is constantly putting us to the test.' Dramatically narrating his realization, Max ponders the unpredictable nature of survival."),
-    (4, None, "'Some people easily cope with difficulties.' Observing resilience, Max notes how some individuals bounce back from disaster."),
-    (5, None, "'And some people give up right away.' Max notes the alternative path of simply surrendering to bad luck."),
-    (6, None, "'For some life is a kaleidoscope of adventures.' Romantically describing the chaos, Max sees the optimistic view of constant adventures."),
-    (7, None, "'For others, a series of bitter disappointments.' Contrasting this with pessimism, Max reflects on the reality of endless suffering."),
-    (8, None, "'Stop daydreaming, go wash the frying pans!' Barking an order, Barinov instantly shatters the young cook's philosophical monologue."),
-    (9, None, "'In any case one must be ready for everything.' Concluding his thoughts, Max decides that eternal vigilance is the only way to survive the kitchen."),
-    (10, None, "'Life teaches us unexpected turns of fate.' Max accepts that bizarre surprises are just part of the journey."),
-    (11, None, "'I will definitely deal with this problem.' Resolving to put his head down, Max prepares to work off the massive debt."),
-    (12, None, "'Now that is the right attitude for a cook!' Grudgingly approving, Barinov nods at his trainee's refusal to break."),
-    (13, None, "'Tomorrow new culinary victories await me!' Cheerfully looking forward, Max is ready for the next ridiculous day on the line."),
+    (0, None, '\'Rump, you will pay this expensive bill!\' Oguzok is the chef\'s nickname for Max one more time. "Oplatish", you\'ll pay, has -ish, the "ty" ending, on a future verb.'),
+    (1, None, '\'Chef, but this is very big money.\' "Dengi", money, is always plural, so "bolshie", big, is plural too. "Bolshie dengi", \'big money\', is what Russians say for \'a lot of money\'.'),
+    (2, None, '\'You will work for free a whole month!\' Besplatno, for free, is bes-, without, plus "plata", pay. "Budesh rabotat", you\'ll be working, is the long future for something that goes on.'),
+    (3, None, '\'Life is constantly putting us to the test.\' "Ispytyvaet na prochnost", \'tests for strength\', is the phrase engineers use for materials. Max uses it about himself.'),
+    (4, None, '\'Some people easily cope with difficulties.\' "Kto-to", someone, is "kto", who, with -to added. "Spravlyaetsya" s, copes with, takes s, and "trudnosti" becomes "trudnostyami".'),
+    (5, None, '\'And some people give up right away.\' "Opuskaet ruki", \'lowers the hands\', is the Russian idiom for giving up. "Kto-to" and "kto-to" in a row mean \'some... others\'.'),
+    (6, None, '\'For some life is a kaleidoscope of adventures.\' "Dlya odnikh", \'for some\', uses "odin", one, in the plural. "Priklyucheniy" means \'of adventures\', the shape the word takes after "kaleydoskop".'),
+    (7, None, '\'For others, a series of bitter disappointments.\' "Dlya drugikh", for others, answers "dlya odnikh" from the line before. "Gorkiy", bitter, is the taste word, used for feelings too.'),
+    (8, None, '\'Stop daydreaming, go wash the frying pans!\' "Khvatit mechtat", enough dreaming, is "khvatit" plus a plain verb again. "Idi myt", go wash, needs no \'and\' between the verbs.'),
+    (9, None, '\'In any case one must be ready for everything.\' "V lyubom sluchae", in any case, is a fixed phrase to learn whole. "Gotovym", ready, ends in -ym because it comes after "byt".'),
+    (10, None, '\'Life teaches us unexpected turns of fate.\' "Uchit nas", teaches us, puts what\'s taught in the \'to\' form: "neozhidannym povorotam". "Sudba", fate, becomes "sudby", \'of fate\'.'),
+    (11, None, '\'I will definitely deal with this problem.\' "Spravlyus", I\'ll cope, is the finished form of "spravlyatsya" from three lines earlier. "Obyazatelno", definitely, also means \'without fail\'.'),
+    (12, None, '\'Now that is the right attitude for a cook!\' "Nastroy", attitude, is from nastroit, to tune a guitar, so it\'s how you\'re tuned. "Dlya povara", for a cook, adds -a to "povar".'),
+    (13, None, '\'Tomorrow new culinary victories await me!\' "Menya zhdut", \'me they wait\', puts the victories in the subject\'s place at the end. "Pobedy", victories, is "pobeda" with -y for more than one.'),
 ]

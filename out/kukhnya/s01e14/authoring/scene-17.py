@@ -4,16 +4,16 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 17
-TITLE = 'Защитник Лёва  (Defender Leva)'
+TITLE = 'Защитник Лёва  (Defender Lyova)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'louis': 'Луи', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the dining room, an angry guest complains to the pastry chef Louis about finding something hard in his dessert. Louis is terrified. Leva bravely steps in, claims to be the head chef, and takes responsibility. Let us listen to their conversation in Russian first.'
-OPENER = 'Now let us examine the conversation line by line.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the dining room, an angry guest complains to the pastry chef Louis about finding something hard in his dessert. Louis is terrified. Leva bravely steps in, claims to be the head chef, and takes responsibility. Next time you watch the episode, listen for the Russian expressions for 'dessert' and 'a little' — you will catch every word right away. See you next time!"
+INTRO = "A guest has bitten on something hard in his dessert, and he's furious. He turns on Louis until Lyova steps in. Here's the argument in Russian."
+OPENER = 'Back through the argument, slowly.'
+TRANSITION = 'Now the argument, all in one go.'
+OUTRO = 'Lyova takes responsibility, and the guest hands over the evidence. Who has the loudest voice? Until next time.'
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('guest', 'Что это у меня в десерте?', 'What is this in my dessert?', [(253, 'Че за хрень у меня в десерте?')], ''),
@@ -28,22 +28,22 @@ STORY = [
     ('lyova', 'Я шеф-повар этого ресторана.', 'I am the head chef of this restaurant.', [(265, 'Я шеф-повар.')], ''),
     ('lyova', 'Я отвечаю за всё на кухне.', 'I am responsible for everything in the kitchen.', [(266, 'И я несу ответственность за все, что происходит на кухне.')], ''),
     ('lyova', 'У вас есть претензии ко мне?', 'Do you have complaints against me?', [(267, 'И если у вас есть какие-то претензии...')], ''),
-    ('guest', 'Вот моя претензия, держите.', 'Here is my complaint, hold it.', [(269, 'Вот.')], ''),
+    ('guest', 'Вот моя претензия, держи.', 'Here is my complaint, take it.', [(269, 'Вот.')], ''),
     ('louis', 'Вкусный десерт, большое спасибо.', 'Delicious dessert, thank you very much.', [(272, 'Вкусный десерт с коньяком.')], ''),
 ]
 WALK = [
-    (0, None, "'What is this in my dessert?' The guest angrily confronts Louis. He demands to know what is in his dessert."),
-    (1, None, "'I almost broke a tooth because of you!' He exaggerates the danger of the situation. The guest claims he nearly broke a tooth."),
-    (2, None, "'Please forgive us.' Louis apologizes profusely. He begs for forgiveness for the terrible mistake."),
-    (3, None, "'First, learn to speak Russian!' The guest insults Louis's language skills. He rudely tells him to learn Russian first."),
-    (4, None, "'Why did you come here?' He questions why Louis is even in the country. The guest asks why he came here."),
-    (5, None, "'So people would break their teeth?' The guest continues his aggressive rant. He asks if Louis came just to break people's teeth."),
-    (6, None, "'I am the pastry chef, it is my fault.' Louis tries to take full responsibility. He admits he is the pastry chef and it is his fault."),
-    (7, None, "'Leave the pastry chef alone.' Lyova steps in to defend his colleague. He orders the guest to leave the pastry chef alone."),
-    (8, None, "'And who are you?' The guest turns his anger on Lyova. He aggressively asks who Lyova thinks he is."),
-    (9, None, "'I am the head chef of this restaurant.' Lyova boldly claims authority. He states that he is the head chef of the restaurant."),
-    (10, None, "'I am responsible for everything in the kitchen.' He explains his role to the angry guest. Lyova says he is responsible for everything in the kitchen."),
-    (11, None, "'Do you have complaints against me?' Lyova challenges the guest directly. He asks if the man has any complaints against him."),
-    (12, None, "'Here is my complaint, hold it.' The guest hands over the evidence. He tells Lyova to hold his complaint."),
-    (13, None, "'Delicious dessert, thank you very much.' Louis is incredibly grateful for the rescue. He thanks Lyova very much for stepping in."),
+    (0, None, "'What is this in my dessert?' Literally 'what is this at me in the dessert'. U menya, 'at me', is how Russian says something is yours or happening to you."),
+    (1, None, "'I almost broke a tooth because of you!' 'Chut ne' is 'nearly', literally 'a hair not'. 'Iz-za vas' is 'because of you', and vas here takes in the whole restaurant."),
+    (2, None, "'Please forgive us.' 'Prostite' is the polite 'forgive', the one for strangers; with friends it's prosti. Louis says 'us', nas, apologising for the kitchen."),
+    (3, None, "'First, learn to speak Russian!' 'Nauchis' is the 'ty' order form of 'learn', and using ty with a stranger is the rude part. 'Po-russki', in Russian, comes before the verbs."),
+    (4, None, "'Why did you come here?' 'Priekhal' is 'came', by car or train, not on foot, and the 'l' ending fits a man. 'Syuda' is 'to here', the going partner of zdes."),
+    (5, None, "'So people would break their teeth?' After chtoby, 'so that', the verb goes into the past form: lomali, plural for lyudi, people. That's a fixed rule, even about the future."),
+    (6, None, "'I am the pastry chef, it is my fault.' 'Konditer' is a pastry chef. 'Vina' means blame, and it happens to look like vina, 'of wine', though that one's stressed on the 'i'."),
+    (7, None, "'Leave the pastry chef alone.' 'Ostavte v pokoe' is literally 'leave in peace'. 'Konditer' becomes konditera because he's the person being left."),
+    (8, None, "'And who are you?' 'Kto takoy' is literally 'who such', and it's pointed. You say it when you want to know what right someone has."),
+    (9, None, "'I am the head chef of this restaurant.' 'Etogo restorana' is 'of this restaurant': the 'ogo' and the 'a' both mark the 'of'."),
+    (10, None, "'I am responsible for everything in the kitchen.' 'Otvechayu za vse' is literally 'I answer for everything'. And it's na kukhne, 'on the kitchen', where English says 'in'."),
+    (11, None, "'Do you have complaints against me?' U vas est is 'at you there is', the Russian 'you have'. Ko mne is k mne with an extra 'o' to make it easier to say."),
+    (12, None, "'Here is my complaint, take it.' 'Derzhi' is literally 'hold', and Russians say it when handing something over. It's the ty form, the same rudeness he showed Louis."),
+    (13, None, "'Delicious dessert, thank you very much.' Russians say bolshoe spasibo, 'big thanks', where English says 'thank you very much'."),
 ]

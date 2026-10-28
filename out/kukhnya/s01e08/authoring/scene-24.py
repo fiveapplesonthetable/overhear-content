@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "At the kitchen pass, guest chef Elena inspects every dish with uncompromising scrutiny before sending it to guests. When pastry chef Louis presents a dessert that looks half-eaten, Elena refuses to allow it into the dining room. Offended by her harsh criticism, Louis protests, while Elena demands immediate perfection from the entire brigade. Let's listen to their heated kitchen clash in Russian first."
-OPENER = "Let's examine how professional standards collide with culinary pride in this scene. Notice the stark contrast between Elena's exacting demands and Louis's indignant reactions."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Tempers flare as the cooks miss Barinov's boisterous leadership, while Elena refuses to lower her culinary bar. Brilliant work finishing this slice of conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "Elena Pavlovna is still running Barinov's kitchen, and she checks every plate at the pass before it goes out. Louis, the French pastry chef, brings her his dessert, and she sends it back. Here it is in Russian first."
+OPENER = "Let's go through the clash. Elena wants perfection, and Louis takes it personally."
+TRANSITION = "Now the argument from the top."
+OUTRO = "Elena ends with \"teper na etoy kukhne komanduyu ya\", now I am in charge in this kitchen, with \"ya\", I, saved for the very end. That's where Russian puts the word it wants you to hear. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Я не собираюсь отдавать это блюдо!', 'I am not going to send out this dish!', [(275, 'Я это не собираюсь забирать')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('elena', 'Теперь на этой кухне командую я!', 'Now I am in charge in this kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'I am not going to send out this dish!' Elena flatly refuses to serve the dessert, staring at it in disgust."),
-    (1, None, "'Why? The dessert turned out very pretty, Chef.' Louis asks for a reason, believing his creation looks beautiful."),
-    (2, None, "'It feels as if someone already ate it!' Elena harshly claims the cake looks like someone took a bite."),
-    (3, None, "'I swear, nobody touched this cake!' Louis defensively swears that nobody ruined the delicate pastry."),
-    (4, None, "'Then quickly make a proper handsome presentation!' Elena commands him to fix the sloppy presentation immediately."),
-    (5, None, "'I am the best pastry chef, I know the craft!' Louis proudly defends his skills as the top pastry professional."),
-    (6, None, "'Sort out this problem right now, Louis!' Elena cuts off his bragging and demands an instant solution."),
-    (7, None, "'Here, I fixed everything, take it to the table.' Louis hastily repairs the dessert and pushes it toward the pass."),
-    (8, None, "'Where is the sous-chef? What on earth is happening here?' Elena furiously wonders where her second-in-command has disappeared to."),
-    (9, None, "'This woman has completely lost her mind!' Louis mutters to himself about the new boss losing her mind."),
-    (10, None, "'I demand ideal order in the kitchen!' Elena yells that she expects flawless discipline from everyone."),
-    (11, None, "'Chef Barinov never freaked out like that!' Louis notes that their old boss never threw tantrums like this."),
-    (12, None, "'Now I am in charge in this kitchen!' Elena asserts her absolute dominance over the brigade."),
+    (0, None, "'I am not going to send out this dish!' After \"sobiratsya\", to be going to, comes the plain 'to send', just as in English. In kitchen language \"otdavat\" means sending a plate out to the dining room."),
+    (1, None, "'Why? The dessert turned out very pretty, Chef.' Russians love \"poluchilsya\", turned out, for how food comes out. The word after it takes the -ym ending: \"krasivym\"."),
+    (2, None, "'It feels as if someone already ate it!' For 'as if' Russian has \"budto\". Elena's \"eli\", they ate, has no 'they' in front, which is how Russian says 'someone' without naming anyone."),
+    (3, None, "'I swear, nobody touched this cake!' Louis says \"klyanus\", I swear, from \"klyastsya\", with the -s that is a short -sya. Then \"nikto ne trogal\", nobody touched, needs both negatives in Russian."),
+    (4, None, "'Then quickly make a proper handsome presentation!' Elena's \"sdelayte\" is the polite 'do' or 'make'. The \"podacha\", presentation, belongs with \"podavat\", to serve: how a dish is served."),
+    (5, None, "'I am the best pastry chef, I know the craft!' A pastry chef is a \"konditer\", borrowed from German \"Konditor\". Saying \"znayu delo\", I know the business, is a proud way of saying you know what you're doing."),
+    (6, None, "'Sort out this problem right now, Louis!' You solve a problem in Russian with \"reshat\", the same word as 'decide'. The -te on \"reshayte\" is polite, so Elena stays formal even when angry."),
+    (7, None, "'Here, I fixed everything, take it to the table.' Louis says \"ispravil\", fixed, and the job is done. Word for word, \"zabirayte na stol\" says 'take it onto the table', a waiter's instruction."),
+    (8, None, "'Where is the sous-chef? What on earth is happening here?' Literally 'in general', \"voobshche\" is what turns 'what's happening' into 'what on earth is happening'. And \"proiskhodit\" means 'is going on'."),
+    (9, None, "'This woman has completely lost her mind!' Louis says \"soshla s uma\", 'went off her mind'; for a man it's \"soshyol\", as Vika told Max earlier. And \"sovsem\", completely, makes it stronger."),
+    (10, None, "'I demand ideal order in the kitchen!' For 'I demand', \"trebovat\" becomes \"trebuyu\": the -ovat words swap to -uyu for 'I'. The \"poryadok\" she wants is order, as in tidiness and rules."),
+    (11, None, "'Chef Barinov never freaked out like that!' To freak out is \"psikhovat\", slang built on \"psikh\", a nutcase. And \"nikogda ne\", never, again needs both negatives."),
+    (12, None, "'Now I am in charge in this kitchen!' Elena's \"komanduyu\", I command, comes from \"komandovat\", the same pattern as \"trebovat\". Putting \"ya\" at the end makes 'I' the point of the sentence."),
 ]

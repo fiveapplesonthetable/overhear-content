@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Max arrives late to the kitchen and gets scolded by Chef Viktor Barinov. To make matters worse, veteran fish cook Fedya insults Max's cooking skills, sparking an intense rivalry and a cooking bet. Listen to their fiery dialogue in Russian first, and then we will examine every line."
-OPENER = "Let's examine this heated kitchen rivalry step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That concludes our fifth scene. In Kukhnya, pride and culinary rivalry can turn an ordinary morning into a fierce culinary competition. See you next time!'
+INTRO = "Earlier that morning, in the Claude Monet kitchen, Max turns up late again and Chef Barinov is waiting for him. Then Fedya, another cook, starts needling Max about his cooking, and it ends in a bet. Listen in Russian first; the odd missed word doesn't matter."
+OPENER = "Now line by line, from Max's greeting. Notice that nobody in this kitchen says anything nice."
+TRANSITION = 'And now the whole morning without stopping.'
+OUTRO = 'Starting a bet in Russian takes one word, "sporim", and "davay" before a verb is how you suggest anything at all. Max and Fedya now have something to prove.'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Доброе утро, шеф!', 'Good morning, Chef!', [(69, 'Доброе утро, шеф')], ''),
@@ -28,22 +28,22 @@ STORY = [
     ('max', 'А ты думаешь, ты готовишь лучше меня?', 'And do you think you cook better than me?', [(82, 'ты лучше готовишь')], ''),
     ('fedya', 'Уж точно намного лучше тебя!', 'Certainly much better than you!', [(83, 'уж не хуже')], ''),
     ('max', 'Тогда давай устроим кулинарный спор!', "Then let's make a culinary bet!", [(84, 'Спорим')], ''),
-    ('fedya', 'Спорим, огузок! Я легко тебя выиграю!', 'Wanna bet, runt! I will easily beat you!', [(84, 'Спорим')], ''),
+    ('fedya', 'Спорим, огузок! Я легко тебя обыграю!', 'Wanna bet, runt! I will easily beat you!', [(84, 'Спорим')], ''),
     ('max', 'Посмотрим, кто из нас лучший повар!', 'We will see which of us is the best cook!', [], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, Chef!' Max greets the boss nervously as he arrives late."),
-    (1, None, "'Runt, you are constantly late for work.' Barinov loudly calls out the rookie for his poor punctuality."),
-    (2, None, "'Chef, they did not issue my uniform on time.' Max tries to blame the delay on a wardrobe issue."),
-    (3, None, "'Enough excuses, quickly go to work!' Barinov cuts off the excuses and orders him to his station."),
-    (4, None, "'You joke as badly as you cook.' Fedya throws a sharp insult at the new guy's abilities."),
-    (5, None, "'I didn't understand your joke, Fedya.' Max defensively pretends not to get the dig."),
-    (6, None, "'This is a normal state for your brain.' Fedya mocks his intelligence with another zinger."),
-    (7, None, "'Do you want to say that I cook badly?' Max challenges the veteran's assessment of his skills."),
-    (8, None, "'Yes, that is exactly what I say.' Fedya bluntly confirms his low opinion."),
-    (9, None, "'And do you think you cook better than me?' Max questions whether the veteran is actually any better."),
-    (10, None, "'Certainly much better than you!' Fedya confidently asserts his culinary superiority."),
-    (11, None, "'Then let's make a culinary bet!' Max proposes a formal challenge to settle the matter."),
-    (12, None, "'Wanna bet, runt! I will easily beat you!' Fedya eagerly accepts the challenge, predicting an easy win."),
-    (13, None, "'We will see which of us is the best cook!' Max vows to prove his worth on the line."),
+    (0, None, '\'Good morning, Chef!\' Literally \'kind morning\'. "Dobroe" ends in -oe to match "utro", a word ending in -o. "Shef" is borrowed from French, and in this kitchen it simply means \'boss\'.'),
+    (1, None, '\'Runt, you are constantly late for work.\' Oguzok, Barinov\'s name for Max, is really the rump cut of beef. "Opazdyvaesh" is a present-tense verb, and with "postoyanno", \'constantly\', it means \'you keep being late\'.'),
+    (2, None, '\'Chef, they did not issue my uniform on time.\' Max says "mne ne vydali", \'to me they didn\'t issue\', so nobody in particular gets the blame. "Vovremya", \'on time\', is written as one word.'),
+    (3, None, '\'Enough excuses, quickly go to work!\' After "khvatit", \'enough\', the thing you\'ve had enough of takes a genitive ending: "opravdaniy". "Idi rabotat" is just \'go work\', two verbs side by side.'),
+    (4, None, '\'You joke as badly as you cook.\' The two halves match: "tak zhe plokho", \'just as badly\', and "kak i", \'as also\'. "Gotovish", \'you cook\', also means \'you prepare\'.'),
+    (5, None, '\'I didn\'t understand your joke, Fedya.\' After "ne ponyal", \'didn\'t understand\', the joke turns into "shutki", and "tvoya" into "tvoey". "Ponyal", without -a, tells you a man is talking.'),
+    (6, None, '\'This is a normal state for your brain.\' "Dlya", \'for\', changes what follows it: "tvoy mozg" becomes "tvoego mozga". It\'s an insult said almost calmly.'),
+    (7, None, '\'Do you want to say that I cook badly?\' "Khochesh skazat" is \'you want to say\', two verbs and no \'to\'. "Chto" here means \'that\', though it\'s also the word for \'what\'.'),
+    (8, None, '\'Yes, that is exactly what I say.\' "Imenno" means \'exactly\' or \'precisely\'. The small "i" before "govoryu" isn\'t \'and\' here: it just leans on the word for emphasis.'),
+    (9, None, '\'And do you think you cook better than me?\' No word for \'than\'. Russian puts \'me\' into the form "menya" and says "luchshe menya", \'better of me\'.'),
+    (10, None, '\'Certainly much better than you!\' The same pattern, "luchshe tebya". "Namnogo" in front makes it \'much better\', and "uzh tochno" is a cocky \'that\'s for sure\'.'),
+    (11, None, '\'Then let\'s make a culinary bet!\' "Davay" comes from the verb \'to give\', and before another verb it means \'let\'s\'. "Spor" is an argument; "kulinarnyy spor" makes it a cook-off on a bet.'),
+    (12, None, '\'Wanna bet, runt! I will easily beat you!\' "Sporim", from "sporit", \'to argue\', is how Russians say \'wanna bet?\'. "Obygrayu" means \'I\'ll beat you at it\', with the loser as the object, "tebya".'),
+    (13, None, '\'We will see which of us is the best cook!\' "Posmotrim" again, the \'we\'ll see\' Kostya used. "Kto iz nas" is \'who out of us\', a handy chunk for comparing people.'),
 ]

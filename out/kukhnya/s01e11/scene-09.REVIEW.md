@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Костя, мы с ней были слишком разными. | Kostya, she and I were too different. | #116: мы были с ней абсолютно разными людьми. | verbatim |
+| 1 | Гость | Костя, мы с ней были слишком разными. | Kostya, she and I were too different. | #116 00:07:58: мы были с ней абсолютно разными людьми. | verbatim |
 | 2 | Костя | Почему вы так думаете, друг мой? | Why do you think so, my friend? | new | new |
-| 3 | Гость | Она считала меня настоящим трусом. | She considered me a real coward. | #118: в ее глазах я был жалким трусом | verbatim |
-| 4 | Гость | Но я не хотел прыгать с парашютом! | But I did not want to jump with a parachute! | #120: Ну, не хотел я вместе с ней прыгать с этим пресловутым парашютом. | verbatim |
-| 5 | Гость | Зачем вообще глупо рисковать своей жизнью? | Why stupidly risk one's life at all? | #121: Ну, зачем рисковать жизни, вот зачем, а? | verbatim |
-| 6 | Костя | Я полностью согласен с вами. | I completely agree with you. | #122: Согласен. | verbatim |
-| 7 | Гость | Она бросила меня прямо здесь вчера. | She dumped me right here yesterday. | #124: Она меня бросила. | verbatim |
+| 3 | Гость | Она считала меня настоящим трусом. | She considered me a real coward. | #118 00:08:09: в ее глазах я был жалким трусом | verbatim |
+| 4 | Гость | Но я не хотел прыгать с парашютом! | But I did not want to jump with a parachute! | #120 00:08:19: Ну, не хотел я вместе с ней прыгать с этим пресловутым парашютом. | verbatim |
+| 5 | Гость | Зачем вообще глупо рисковать своей жизнью? | Why stupidly risk one's life at all? | #121 00:08:25: Ну, зачем рисковать жизни, вот зачем, а? | verbatim |
+| 6 | Костя | Я полностью согласен с вами. | I completely agree with you. | #122 00:08:29: Согласен. | verbatim |
+| 7 | Гость | Она бросила меня прямо здесь вчера. | She dumped me right here yesterday. | #124 00:08:33: Она меня бросила. | verbatim |
 | 8 | Шеф | Что здесь происходит у барной стойки? | What is going on here at the bar? | new | new |
-| 9 | Гость | Где здесь находится туалет, подскажите? | Where is the restroom located here, tell me? | #139: А вы не подскажете, а где здесь туалет? | verbatim |
-| 10 | Костя | Туалет находится сразу слева от бара. | The restroom is located immediately to the left of the bar. | #141: Слева от бара. | verbatim |
-| 11 | Шеф | Друг, тебе сейчас нужен горячий суп! | Friend, you need hot soup right now! | #143: Тебе, дружище, в твоем состоянии супчик бы не помешал. | verbatim |
-| 12 | Гость | Я совсем не против вкусного супа. | I am not at all against tasty soup. | #145: Ну что, я не против. | verbatim |
-| 13 | Шеф | Костя, срочно закажи нашему гостю буйабес! | Kostya, urgently order bouillabaisse for our guest! | #146: пробей гостю | verbatim |
+| 9 | Гость | Где здесь находится туалет, подскажите? | Where is the restroom located here, tell me? | #139 00:09:21: А вы не подскажете, а где здесь туалет? | verbatim |
+| 10 | Костя | Туалет находится сразу слева от бара. | The restroom is located immediately to the left of the bar. | #141 00:09:33: Слева от бара. | verbatim |
+| 11 | Шеф | Друг, тебе сейчас нужен горячий суп! | Friend, you need hot soup right now! | #143 00:09:37: Тебе, дружище, в твоем состоянии супчик бы не помешал. | verbatim |
+| 12 | Гость | Я совсем не против вкусного супа. | I am not at all against tasty soup. | #145 00:09:45: Ну что, я не против. | verbatim |
+| 13 | Шеф | Костя, срочно закажи нашему гостю буйабес! | Kostya, urgently order bouillabaisse for our guest! | #146 00:09:48: пробей гостю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, she and I were too different.' The guest is heartbroken and explains that they were just too different. Literally it means we with her were too different.
-- 'Why do you think so, my friend?' Kostya asks for more details. He uses formal language and calls the customer his friend to show support.
-- 'She considered me a real coward.' The heartbroken man explains her opinion. The woman thought he was a coward because of his actions.
-- 'But I did not want to jump with a parachute!' He justifies his fear. He really had no desire to jump out of a plane.
-- 'Why stupidly risk one's life at all?' This feels like a foolish risk to him. He questions the point of skydiving.
-- 'I completely agree with you.' Kostya plays the role of a good bartender. He supports his customer completely.
-- 'She dumped me right here yesterday.' The sad event took place right at this bar the day before. He reveals where the breakup happened.
-- 'What is going on here at the bar?' Barinov walks in and demands to know what is happening. He sounds a bit annoyed by the scene.
-- 'Where is the restroom located here, tell me?' He suddenly changes the subject. The customer urgently needs to find the restroom.
-- 'The restroom is located immediately to the left of the bar.' Kostya gives polite directions. He points out that the restroom is just to the left.
-- 'Friend, you need hot soup right now!' Barinov decides the man needs food. He suggests hot soup to help him feel better.
-- 'I am not at all against tasty soup.' The customer agrees to the food. He would not mind eating something tasty right now.
-- 'Kostya, urgently order bouillabaisse for our guest!' Barinov takes charge of the order. He tells the bartender to urgently get a fancy fish soup for the sad man.
+- 'Kostya, she and I were too different.' Russian says "my s ney", "we with her", for "she and I". "Raznymi", "different", takes -ymi after "byli", "were".
+- 'Why do you think so, my friend?' "Drug moy", with "moy" after "drug", sounds warmer than "moy drug". "Pochemu vy tak dumaete" is "why you so think". Kostya keeps "vy".
+- 'She considered me a real coward.' "Schitala", "considered", ends in -la because the girlfriend did it. After it, "trus", "coward", becomes "trusom": "schitala menya trusom".
+- 'But I did not want to jump with a parachute!' "S parashyutom" is "with a parachute", with -om after "s". "Prygat" is "to jump". The argument has clearly been had before.
+- 'Why stupidly risk one's life at all?' "Riskovat svoey zhiznyu" is "risk with one's own life": Russian risks "with" something. "Svoey" is "one's own", "zachem" is "what for".
+- 'I completely agree with you.' "Soglasen" is "agreed", and a woman would say "soglasna". "S vami" is "with you", polite. "Polnostyu" is "completely".
+- 'She dumped me right here yesterday.' "Brosila" is literally "threw", and Russians use it for leaving a partner. "Pryamo zdes" is "right here", "straight here".
+- 'What is going on here at the bar?' "Chto proiskhodit" is the "what's going on" Vika asked about Max. "U barnoy stoyki" is "at the bar counter", where "stoyka" is the counter again.
+- 'Where is the restroom located here, tell me?' "Nakhoditsya", "is located", is literally "finds itself". "Podskazhite" is "prompt me", a polite way to ask for directions. The guest changes the subject.
+- 'The restroom is located immediately to the left of the bar.' "Sleva" is "on the left", and "ot bara" is "from the bar". "Srazu" is "right away", here "immediately".
+- 'Friend, you need hot soup right now!' "Tebe nuzhen", "to you needed", ends like "nuzhen" because "sup" is masculine. Barinov says "ty" to the stranger. "Goryachy" is "hot".
+- 'I am not at all against tasty soup.' "Ne protiv", "not against", is the Russian for "I don't mind". "Sovsem" strengthens it: "not at all against". "Vkusnogo supa" is "tasty soup".
+- 'Kostya, urgently order bouillabaisse for our guest!' "Buyabes" is the French fish soup in Russian letters. "Zakazhi" is "order!", and "nashemu gostyu" is "to our guest".

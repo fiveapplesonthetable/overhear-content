@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "At the pass window of Claude Monet, line cooks Senya and Fedya watch in shock as bartender Kostya confronts the arrogant restaurant critic. Defending Nastya from further insults, Kostya delivers an unforgettable drink to the rude patron. Let's listen to the cooks' amazed reaction in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice workplace banter, expressions of surprise, and descriptions of dramatic actions."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Although Kostya faces certain termination for soaking the critic, the kitchen crew respects him deeply for defending Nastya. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'to run' — you will catch every word right away. See you next time!"
+INTRO = "Something has happened in the dining room, and the cooks have seen it all. Senya and Fedya, two of the kitchen's gossips, report that Kostya did something brave and foolish. First, the Russian."
+OPENER = "Now let's look at it closely."
+TRANSITION = 'Now hear it again with fresh ears.'
+OUTRO = "The bartender is a hero to the cooks and a problem for the chef. Whether it ends in a firing is the next scene's question. Speak soon."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Ты видел, что сейчас произошло в зале?', 'Did you see what just happened in the hall?', [], ''),
@@ -26,22 +26,22 @@ STORY = [
     ('fedya', 'Наш тихий бармен оказался настоящим храбрым героем.', 'Our quiet bartender turned out to be a real brave hero.', [], ''),
     ('senya', 'Теперь этот важный критик весь мокрый сидит.', 'Now this important critic sits completely wet.', [], ''),
     ('fedya', 'Но шеф будет ужасно зол из-за скандала.', 'But the chef will be terribly angry because of the scandal.', [], ''),
-    ('senya', 'Виктория уже быстро бежит в обеденный зал.', 'Victoria is already quickly running into the dining hall.', [], ''),
+    ('senya', 'Виктория уже быстро бежит в обеденный зал.', 'Viktoria is already quickly running into the dining hall.', [], ''),
     ('fedya', 'Косте сейчас точно грозит очень быстрое увольнение.', 'A very swift dismissal definitely threatens Kostya right now.', [], ''),
     ('senya', 'Зато он храбро защитил свою любимую девушку!', 'At least he courageously protected his beloved girl!', [], ''),
 ]
 WALK = [
-    (0, None, "'Did you see what just happened in the hall?' Senya asks his friend excitedly if he saw what just went down in the dining room. He loves gossip."),
-    (1, None, "'Our bartender boldly stepped up to the critic' Fedya confirms that their bartender bravely walked right up to the VIP table. It was a shocking move."),
-    (2, None, "'This critic was rudely insulting our Nastya again.' Senya mentions that the mean guy was insulting the waitress again. He really crossed the line this time."),
-    (3, None, "'Kostya did not start tolerating such insolent behavior.' Fedya explains how their friend refused to tolerate that arrogant behavior anymore. He finally snapped."),
-    (4, None, "'What, did the guest order a drink from the bar now?' Senya jokingly asks if the customer ordered a drink from the bar. He is making fun of the situation."),
-    (5, None, "'Exactly, he received an order to the fullest program!' Fedya laughs and says the guy definitely got his order in full. It is a clever play on words."),
-    (6, None, "'Kostya poured a glass right onto his suit!' Senya excitedly reveals that the drink was poured directly onto the man's suit. It was a spectacular mess."),
-    (7, None, "'Our quiet bartender turned out to be a real brave hero.' Fedya is amazed that their usually quiet friend turned out to be a brave hero. He really stepped up."),
-    (8, None, "'Now this important critic sits completely wet.' Senya chuckles at the image of the important man sitting there completely soaked. It serves him right."),
-    (9, None, "'But the chef will be terribly angry because of the scandal.' Fedya worries that the boss will be terribly angry about the huge scandal. They are definitely in trouble."),
-    (10, None, "'Victoria is already quickly running into the dining hall.' Senya notices the manager rushing quickly into the dining room. She is going to try to fix it."),
-    (11, None, "'A very swift dismissal definitely threatens Kostya right now.' Fedya points out that their friend is almost certainly going to get fired very fast now. His job is doomed."),
-    (12, None, "'At least he courageously protected his beloved girl!' Senya uses the word zato to say that at least he bravely protected his beloved girl. It was totally worth it."),
+    (0, None, '\'Did you see what just happened in the hall?\' Senya asks with "ty", as friends do. "Videl", "saw", has the man\'s -l. "Proizoshlo" is a more formal "happened" than the "sluchilos" you heard at the bar.'),
+    (1, None, '\'Our bartender boldly stepped up to the critic\'s table.\' "Smelo" is "boldly". "Podoshyol", "walked up", has po- for "up to". "Stolik" is a small table, the word for tables in a restaurant.'),
+    (2, None, '\'This critic was rudely insulting our Nastya again.\' "Obizhal" is a repeated action, and the form shows it. "Nashu Nastyu", "our Nastya", is how Russians speak of someone they\'re fond of. Senya is outraged.'),
+    (3, None, '\'Kostya did not start tolerating such insolent behavior.\' "Ne stal terpet", "did not become tolerating", is the Russian for "didn\'t put up with it". "Povedenie", "behaviour", comes from "vesti sebya", "to lead yourself". Fedya is full of admiration.'),
+    (4, None, '\'What, did the guest order a drink from the bar now?\' Senya\'s "chto" here is a surprised "what". "Napitok", "a drink", is what Kostya gave the hungover guest on the house. "Iz bara" is "from the bar".'),
+    (5, None, '\'Exactly, he received an order to the fullest program!\' "Po polnoy programme", "by the full programme", is the idiom for "the works". "Tochno" is "exactly". The critic got more than he ordered.'),
+    (6, None, '\'Kostya poured a glass right onto his suit!\' The prefix vy- in "vylil", "poured", means "out". "Stakan" is the tall glass, and "kostyum" is "suit". Senya says it with relish.'),
+    (7, None, '\'Our quiet bartender turned out to be a real brave hero.\' "Okazalsya" is "turned out to be", and after it "hero" becomes "geroem". "Khrabry" is "brave", and "tikhy" is "quiet". Fedya admires him.'),
+    (8, None, '\'Now this important critic sits completely wet.\' "Mokry" is "wet". "Ves", "whole", means "completely" here: "ves mokry", "all wet". Senya has an eye for the picture: the great man dripping at his table.'),
+    (9, None, '\'But the chef will be terribly angry because of the scandal.\' "Iz-za", "because of", is the small word that blames something. "Uzhasno", "terribly", comes from "uzhas", "horror". Fedya sees the trouble coming.'),
+    (10, None, '\'Viktoria is already quickly running into the dining hall.\' "Bezhit", "is running", is the on-foot word. "Obedenny zal" is the "lunch hall", from "obed", "lunch". Senya follows the story with his eyes.'),
+    (11, None, '\'A very swift dismissal definitely threatens Kostya right now.\' Russian says "Koste grozit uvolnenie", "to Kostya threatens a dismissal", with Kostya in the "to" form. "Grozit" is a strong word. Fedya has no illusions.'),
+    (12, None, '\'At least he courageously protected his beloved girl!\' "Zato" means "but on the plus side", and Russians use it to turn a complaint around. "Zashchitil", "protected", is related to "zashchita", "defence". Senya finishes on the bright side.'),
 ]

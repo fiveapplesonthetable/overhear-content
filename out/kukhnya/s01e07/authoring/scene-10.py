@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Chef Viktor Barinov personally brings his latest culinary creation to the VIP table of restaurant owner Dmitry Nagiyev. Confident in his culinary genius, the chef boasts about the exquisite flavor while Dmitry prepares to judge the dish. Let's listen to their conversation in Russian first."
-OPENER = "Let's explore how Chef Barinov presents his signature sauce to the restaurant owner."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "At Claude Monet, the new sauce is done, and Chef Barinov carries it to the owner of the restaurant, Dmitry Nagiyev. He calls it a masterpiece, which is just what you'd expect. The Russian comes first."
+OPENER = 'Slowly now. Barinov brags, Nagiyev teases, and the food gets cold.'
+TRANSITION = 'Now the whole tasting again.'
+OUTRO = "The last line, 'bon appetit', is literally 'pleasant appetite'. You can say it before any meal in Russia. See you next time."
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('barinov', 'Дмитрий, сейчас ты попробуешь шедевр!', 'Dmitry, right now you will taste a masterpiece!', [(192, 'Сейчас попробуешь произведение искусства')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Приятного аппетита, дорогой хозяин!', 'Bon appetit, my dear owner!', [], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry, right now you will taste a masterpiece!' Barinov boasts confidently about his dish. He calls Dmitry by his first name, showing their close relationship."),
-    (1, None, '\'This is a real culinary work of art!\' He is incredibly proud of the sauce. The Russian phrase for "work of art" literally means a piece of production.'),
-    (2, None, '\'I cannot wait to taste your sauce.\' Nagiyev is eager to try it. He says literally "to me it does not endure", which is a common way to say you cannot wait.'),
-    (3, None, "'First try the sauce with bread.' Barinov tells him exactly how to eat it. The chef wants Dmitry to appreciate the pure flavor before anything else."),
+    (0, None, '\'Dmitry, right now you will taste a masterpiece!\' "Shedevr" is the French chef-d\'oeuvre, borrowed whole. Barinov uses ty with the owner; the two men have known each other a long time.'),
+    (1, None, '\'Viktor, are you praising yourself again?\' Sebya, \'yourself\', has the same form for every person: I praise sebya, you praise sebya. "Snova" means \'again\'.'),
+    (2, None, '\'This is a real culinary work of art!\' "Proizvedeniye iskusstva" is literally \'a product of art\', with iskusstvo taking -a for \'of\'. "Kulinarnoye" ends in -oye to match proizvedeniye, which is neuter.'),
+    (3, None, '\'I cannot wait to taste your sauce.\' "Mne ne terpitsya" is literally \'to me it can\'t be endured\', a fixed way to say \'I can\'t wait\'. "Otvedat\'", to taste, is old-fashioned and a little grand, and what you taste gets the \'of\' ending: sousa.'),
+    (4, None, '\'I was preparing this sauce all morning.\' "Vsyo utro", \'all morning\', works without any \'during\'. "Gotovil", the ongoing kind of past, shows the cooking took time.'),
+    (5, None, '\'I hope you put the right spices.\' "Nadeyus\'", \'I hope\', ends in -s\', short for -sya. "Polozhil" is the past of polozhit\', to put something down or put it in.'),
+    (6, None, '\'There are only the freshest ingredients there.\' "Samye svezhie" is \'the most fresh\'. "Ingrediyenty" looks just like the English word.'),
+    (7, None, '\'The aroma is indeed very pleasant and subtle.\' "Tonkiy" means thin, and for a smell or taste it means subtle. It\'s the word the salesman at the market used for his thin blade.'),
+    (8, None, '\'One piece of meat will change everything.\' "Kusochek" is a small piece, from kusok with a diminutive ending. "Myaso" becomes myasa, \'of meat\'.'),
+    (9, None, '\'Do not exaggerate, give me a fork.\' Day is the command \'give\', and day mne, \'give me\', is worth keeping. "Vilka", a fork, becomes vilku as the thing he wants.'),
+    (10, None, '\'First try the sauce with bread.\' S khlebom, \'with bread\', adds -om after s. "Snachala", \'first\', is literally \'from the beginning\'.'),
+    (11, None, '\'Alright, let us begin this tasting.\' "Davay nachnyom" is \'let\'s begin\', the davay pattern again. "Degustatsiya", a tasting, sounds like the English \'degustation\'.'),
+    (12, None, '\'Bon appetit, my dear owner!\' "Priyatnogo appetita", \'of pleasant appetite\', is short for \'I wish you a pleasant appetite\'. "Khozyain" is the male owner, the partner of khozyayka, the landlady in Nastya\'s story.'),
 ]

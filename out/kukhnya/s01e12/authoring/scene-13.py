@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "In the restaurant corridor, Max corners Victoria Sergeyevna about her new strict policy against workplace romance. He playfully challenges her logic and wonders if she would ever have to hold herself accountable. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace policy terms, teasing rhetorical questions, and imperative dismissals."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max leaves with a cheeky smile while Victoria stands firm on professional boundaries. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to fall in love' and 'question' — you will catch every word right away. See you next time!"
+INTRO = "Max has not forgotten Vika's new rule. He catches her in the corridor and asks why it exists, with a cheeky question or two. Hear it in Russian first."
+OPENER = 'Back to the start, more slowly, as Max tries his luck.'
+TRANSITION = 'Now the corridor scene, straight through.'
+OUTRO = "Max goes back to the kitchen, and Vika keeps her rule. If you ever need to say 'go on, off you go' to a friend, you've just heard how. Talk soon."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, почему ты запретила отношения на работе?', 'Vika, why did you ban relationships at work?', [(114, 'Зачем ты запретила отношения на работе?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Иди уже, повара давно ждут твою помощь.', 'Go already, the cooks have long been waiting for your help.', [(116, 'Подожди')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, why did you ban relationships at work?' Max directly asks Vika about her new rule."),
-    (1, None, "'Because work requires order and discipline.' Vika gives a professional excuse about keeping order at work."),
-    (2, None, "'Did you make this strange decision because of Sasha?' Max guesses she made the rule because she is jealous of Sasha."),
-    (3, None, "'Stop asking these foolish personal questions.' Vika tells him to stop asking about her personal reasons."),
-    (4, None, "'I just want to understand your real feelings.' Max says he is just trying to figure out how she really feels."),
-    (5, None, "'I have no feelings towards you!' Vika claims she feels absolutely nothing for him."),
-    (6, None, "'But you will forget this rule yourself!' Max bets that she will break her own rule soon enough."),
-    (7, None, "'I always strictly observe all my rules.' Vika insists that she always follows her own strict rules."),
-    (8, None, "'If you fall in love, will you fire yourself?' Max asks what happens if she falls in love at work."),
-    (9, None, "'Max, go to the kitchen and work quietly.' Vika orders him back to the kitchen and tells him to be quiet."),
-    (10, None, "'I will go, but you will still remember me.' Max agrees to leave but promises she will not forget him."),
-    (11, None, "'Go already, the cooks have long been waiting for your help.' Vika pushes him to go because the kitchen needs his help."),
+    (0, None, "'Vika, why did you ban relationships at work?' 'Zapretila' ends in 'a' because Vika did the banning, and it grows out of 'zapret', ban. Russian says 'on work' where English says 'at work'."),
+    (1, None, "'Because work requires order and discipline.' After 'requires', the things required change their endings, so 'poryadok' turns into 'poryadka' and 'distsiplina' into 'distsipliny'. 'Rabota' is work, and you can hear it in 'rabotay' below."),
+    (2, None, "'Did you make this strange decision because of Sasha?' Russian says 'accept a decision' where English says 'make one'. 'Iz-za Sashi' is 'because of Sasha', and Sasha picks up an 'i' ending."),
+    (3, None, "'Stop asking these foolish personal questions.' Russian 'sets' a question rather than asking it: zadavat vopros, from the same root as zadacha, 'task'. 'Perestan' is 'stop'."),
+    (4, None, "'I just want to understand your real feelings.' 'Chuvstva', feelings, is a close cousin of 'chuvstvovat', to feel. 'Nastoyashchie', real, is the word Vika put in front of 'idiot' earlier in the episode."),
+    (5, None, "'I have no feelings towards you!' 'U menya net' is literally 'at me there is not', and that's how Russian says 'I don't have'. After net, the missing thing takes an 'of' shape, so chuvstva loses its ending: chuvstv. 'Nikakikh' means 'none at all'."),
+    (6, None, "'But you will forget this rule yourself!' 'Sama' is 'yourself', and it points the finger at her. The little 'zhe' adds 'after all'."),
+    (7, None, "'I always strictly observe all my rules.' 'Strogo' means 'strictly', and 'soblyudayu' is 'I keep', as in keeping a rule. 'Svoi' means 'my own', which Russians use whenever the owner is the one doing the action."),
+    (8, None, "'If you fall in love, will you fire yourself?' 'Yesli' means 'if'. 'Uvolish' is 'you will fire', and 'sebya' is 'yourself'. 'Samu sebya' is 'your very self': sama in its object form, sitting in front of sebya for emphasis."),
+    (9, None, "'Max, go to the kitchen and work quietly.' Two orders in a row, 'idi' and 'rabotay', both in the friendly form. 'Molcha' means 'silently', so Vika is telling him to keep his mouth shut."),
+    (10, None, "'I will go, but you will still remember me.' 'No' looks like the English word, but in Russian it means 'but'. 'Yeshchyo' means 'still' or 'yet', so he says she'll remember him yet. 'Vspomnish' is 'you will remember'."),
+    (11, None, "'Go already, the cooks have long been waiting for your help.' 'Uzhe' after an order means 'go on, then', with the impatience of 'already'. Russians say 'have been waiting for a long time' with the plain present, 'zhdut'."),
 ]

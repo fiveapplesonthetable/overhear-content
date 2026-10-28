@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'In the restaurant Claude Monet, Chef Barinov has just found and returned Tyson the pet dog. At that exact moment, Victoria arrives holding an identical Shih Tzu puppy she frantically bought to replace him. Listen to their funny conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Two Dogs line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Chef Barinov brings back the lost dog Tyson, only for Vika to walk in holding an identical Shih Tzu puppy she frantically bought to replace him. Next time you watch the episode, listen for the Russian expressions for 'to be liked' and 'to call' — you will catch every word right away. See you next time!"
+INTRO = "Chef Barinov has his Shih Tzu, Tyson, back. Then Vika, the art director, turns up with a second Shih Tzu that looks exactly like him, and Barinov wants an explanation. Here it is in Russian first."
+OPENER = "Let's go through the interrogation. Every answer Vika gives makes things worse."
+TRANSITION = "Now the whole exchange once more."
+OUTRO = "Vika's best moment is \"poroda sushi\", breed sushi, before she corrects it to Shih Tzu. That kind of slip happens to everyone in a new language. See you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('barinov', 'Вика, посмотри на меня. Это что такое?', 'Vika, look at me. What is this?', [(296, 'Вика, это чё?')], ''),
@@ -32,15 +32,18 @@ STORY = [
     ('vika', 'Как и ваша собака. Я пойду!', 'Just like your dog. I will go!', [(309, 'Как и ваша.'), (310, 'Ну, я пойду.')], ''),
 ]
 WALK = [
-    (0, None, "'What is this?' Barinov stares in total confusion at the second identical dog."),
-    (1, None, "'Chef, this is my new little dog!' Vika introduces her impulsive new purchase to the head chef."),
-    (2, None, "'I bought her this morning.' Vika explains that she went shopping earlier that day."),
-    (3, None, "'I just really liked your Dyson.' Vika admits she fell in love with his pet."),
-    (4, None, "'I could not resist and bought a puppy.' Vika says she simply had to get one for herself."),
-    (5, None, "'Sorry, I still mix them up.' Vika apologizes for losing track of which dog is which."),
-    (6, None, "'It seems this one is yours, and this one is mine.' Vika guesses the ownership based on a quick glance."),
-    (7, None, "'Vika, what is your dog's name?' Barinov asks what she decided to name her new companion."),
-    (8, None, "'His name is Maxik!' Vika blurts out the first name that comes to mind."),
-    (9, None, "'Oh, Shih Tzu!' Vika immediately corrects herself with the actual breed name."),
-    (10, None, "'Just like your dog.' Vika awkwardly points out the similarity to his own pet."),
+    (0, None, "'Vika, look at me. What is this?' To look at someone is \"posmotri na menya\", with \"na\", at, before the person. Then \"eto chto takoe\" is a blunt 'what is this?', the question you ask when you already suspect the answer."),
+    (1, None, "'Chef, this is my new little dog!' Vika's \"sobachka\" is \"sobaka\", dog, with the -chka ending that makes it small and sweet. Russians use these endings constantly with animals."),
+    (2, None, "'I bought her this morning.' The word \"utrom\", in the morning, is \"utro\" with -om, and it needs no 'in'. Vika says \"kupila\", with the -a of a woman speaking."),
+    (3, None, "'Why do you need a dog of the same breed?' Barinov's \"zachem tebe\" is literally 'what for to you', the short way to ask why someone needs something. Then \"takoy zhe\" means 'the same', and \"porody\" is \"poroda\", breed, in its 'of' form."),
+    (4, None, "'I just really liked your Dyson.' The dog's real name is Tyson, and Vika's \"Dayson\" is the slip. Liking runs backwards in Russian: \"mne ponravilsya\", literally 'to me he was pleasing'."),
+    (5, None, "'I could not resist and bought a puppy.' Saying \"ne uderzhalas\" means 'couldn't hold myself back', from \"derzhat\", to hold. Her \"pyosik\" is \"pyos\", dog, with the small, affectionate -ik."),
+    (6, None, "'But they are completely identical!' You can hear \"odin\", one, at the root of \"odinakovye\", identical. The \"zhe\" after \"no\", but, adds the feeling of 'but surely'."),
+    (7, None, "'Sorry, I still mix them up.' Literally 'up to these times', \"do sikh por\" means 'still' or 'to this day'. And \"putayu\", I mix up, goes back to \"putat\", to confuse."),
+    (8, None, "'It seems this one is yours, and this one is mine.' Starting with \"kazhetsya\", it seems, is how Russians soften a guess. Then \"vot eto vasha, a vot eta moya\" points at each dog in turn, with the polite \"vasha\" for her boss."),
+    (9, None, "'Vika, what is your dog's name?' Russian asks \"kak zovut\", literally 'how do they call', so the dog is the one being called: \"tvoego psa\". And \"pyos\" drops its o to become \"psa\"."),
+    (10, None, "'Mine? His name is Maxik!' The answer \"ego zovut\", his name is, follows the same 'they call him' pattern. The name \"Maksik\" is Max with a cuddly -ik, so she has named the dog after her colleague."),
+    (11, None, "'And what breed is this dog?' Russian says the breed is \"u etoy sobaki\", 'at this dog', which is how you say something has a thing. After \"u\" the dog takes its 'of' endings."),
+    (12, None, "'Breed sushi... Oh, Shih Tzu!' The little \"oy\" is the Russian 'oops'. And \"shitsu\" and sushi sound close enough that the mix-up is easy."),
+    (13, None, "'Just like your dog. I will go!' Literally 'as also', \"kak i\" means 'just like'. Saying \"ya poydu\", I'll go, is a common way to excuse yourself and leave."),
 ]

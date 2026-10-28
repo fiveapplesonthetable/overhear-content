@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'lyova': 'Лёва', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Lyova is feeling guilty and he discusses his living situation with his friend Max. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around A Difficult Conversation line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max leaves, and he leaves Lyova to reflect on the friendship with the boss. Next time you watch the episode, listen for the Russian expressions for 'mean' and 'person' — you will catch every word right away. See you next time!"
+INTRO = "Lyova has thrown Barinov out, and now he feels terrible about it. Max finds him in the kitchen and gives him some advice. Here is their talk."
+OPENER = 'Again, slowly.'
+TRANSITION = 'Now the talk in one piece.'
+OUTRO = 'Max leaves to find someone close to him, and Lyova is left to think. Who says the last word? Speak soon.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('lyova', 'Какой я подлый человек.', 'What a lowlife I am.', [(297, 'подлый человек, а.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Мне пора идти к близкому человеку.', 'It is time for me to go to a close person.', [], ''),
 ]
 WALK = [
-    (0, None, '\'What a lowlife I am.\' Lyova berates himself here, directly connecting "what a" with the phrase for "a mean person" to express his intense guilt.'),
-    (1, None, "'Lyova, stop putting yourself down.' Max tells his friend to cut it out, using a direct command to stop the self-slander."),
-    (2, None, '\'I kicked a person out of the home.\' Continuing his self-pity, Lyova uses an action word for "kicked out" to emphasize the harsh reality of what he did.'),
-    (3, None, '\'After all, the boss himself is guilty.\' Reassuring him, Max points out that the chef brought this on himself, dropping any connecting words to link "end" straight to "guilty."'),
-    (4, None, '\'He is guilty, but I feel bad.\' Lyova contrasts the chef\'s fault with his own feelings, pairing "guilty" directly with "badly" to show his internal conflict.'),
-    (5, None, '\'Why does the boss even live with you?\' Max questions the whole living arrangement using a common conversational phrasing for possession—literally saying "at you" rather than using an ownership word.'),
-    (6, None, "'He left his family.' Explaining the sad background, Lyova states that the chef walked away from his relatives, focusing on the completed action."),
-    (7, None, "'He left the apartment to them.' Lyova adds another detail about the chef's sacrifice, noting that the flat was given over to his family."),
-    (8, None, '\'Do you feel sorry for him?\' Max asks this simple yes-or-no question purely by raising his voice at the end of the phrase for "feel pity."'),
-    (9, None, '\'He can be an unbearable person.\' Acknowledging the chef\'s difficult nature, Lyova casually drops in an everyday term for "intolerable."'),
-    (10, None, '\'But I have no one else.\' Showing his vulnerability, Lyova explains his loneliness by saying "at me" there is no one "more."'),
-    (11, None, '\'Close people should not be scattered.\' Max shares a bit of wisdom about friendship, placing a small negative word right before the action of "throwing away" or "scattering."'),
-    (12, None, '\'In the end, one can stay alone.\' Reflecting on the consequences of pushing people away, Lyova pieces together "result" with "might" and "remain alone."'),
-    (13, None, '\'It is time for me to go to a close person.\' Wrapping up the chat, Max uses an impersonal structure meaning "to me" it is time to head toward someone dear.'),
+    (0, None, "'What a lowlife I am.' 'Podlyy' means mean, low, a strong word for someone who has behaved badly. 'Kakoy ya' is 'what a I', with no 'am'."),
+    (1, None, "'Lyova, stop putting yourself down.' 'Nagovarivat na sebya' is 'to talk onto oneself', meaning 'to run oneself down'. 'Perestan' is 'stop'."),
+    (2, None, "'I kicked a person out of the home.' 'Vygnal' is 'drove out', and the 'vy' at the front is the 'out'. 'Iz doma', out of the house, puts an 'a' on 'dom' after 'iz'."),
+    (3, None, "'After all, the boss himself is guilty.' Literally, 'in the end of ends', which means 'after all'. 'Himself' points the finger."),
+    (4, None, "'He is guilty, but I feel bad.' 'Mne ploho' is literally 'to me bad', which is Russian for 'I feel bad'. The 'a' at the start is a 'but' that contrasts."),
+    (5, None, "'Why does the boss even live with you?' 'U tebya', 'at you', means 'at your place'. 'Voobshche', literally 'in general', works like 'even' or 'at all' in a question."),
+    (6, None, "'He left his family.' 'Ushyol' means 'went away', the man's past. Lyova uses 'iz semi' for 'from the family'."),
+    (7, None, "'He left the apartment to them.' 'Im' means 'to them', and 'kvartiru' takes a 'u' because it is what was left. 'Ostavil' is 'left behind'."),
+    (8, None, "'Do you feel sorry for him?' Literally, 'to you him pity', and that is how Russians ask about sympathy. The feeling happens to the person."),
+    (9, None, "'He can be an unbearable person.' 'Byvaet' is 'happens to be', for a tendency. 'Nevynosimym' is built from 'carry', so it's 'un-bearable'."),
+    (10, None, "'But I have no one else.' 'U menya nikogo net' is 'at me nobody not'. 'Nikogo' is the 'no one' in the form it takes after 'net'."),
+    (11, None, "'Close people should not be scattered.' 'Razbrasyvatsya' with someone means to throw them away carelessly, and the people go into the 'with' form, 'blizkimi lyudmi'. 'Ne stoit', 'it isn't worth', is a soft 'you shouldn't'."),
+    (12, None, "'In the end, one can stay alone.' 'V itoge', 'in the total', is 'in the end'. 'Ostatsya odnomu' is 'to stay alone', with 'odin' changed to 'odnomu'."),
+    (13, None, "'It is time for me to go to a close person.' 'To me time' stands for 'it's time for me'. 'To a close person' uses 'k' for 'towards'."),
 ]

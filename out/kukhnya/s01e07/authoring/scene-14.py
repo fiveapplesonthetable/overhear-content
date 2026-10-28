@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "A cooking accident with vinegar has left Chef Barinov without his sense of taste just before a crucial dinner service. Fearing disaster for the restaurant, the proud chef is on the verge of despair. However, sous-chef Lyova and the kitchen staff rally behind him, offering their own palates to guide his cooking. Let's listen to their inspiring teamwork in Russian first."
-OPENER = "Let's analyze this uplifting kitchen moment line by line. Notice how the cooks show loyalty and camaraderie to rescue their vulnerable chef."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "United as a true team, the cooks and Barinov prepare to conquer the evening dinner rush together. Fantastic job practicing conversational Russian with Overhear! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'broth' — you will catch every word right away. See you next time!"
+INTRO = 'Just before dinner service at Claude Monet, Chef Barinov has lost his sense of taste. For once he is not shouting. Lyova, his deputy, steps forward to say the team will do the tasting for him. Listen to it in Russian.'
+OPENER = "Let's go slowly. Lyova is reassuring, Barinov is gloomy, and it's a very gentle scene for a kitchen."
+TRANSITION = 'Now the whole scene without stopping.'
+OUTRO = "Keep 'we won't let you down' for when someone is counting on you; Lyova means every word. Until the next scene."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('lyova', 'Шеф, не переживайте вы так сильно!', 'Chef, do not worry so much!', [(303, 'Шеф, не переживайте так')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('lyova', 'Конечно, шеф, мы вас не подведём!', 'Of course, Chef, we will not let you down!', [(311, 'Конечно')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, do not worry so much!\' Lyova tries to calm his panicked boss. He uses the formal "you" to show respect even in a crisis.'),
-    (1, None, "'How not to worry? I lost my sense of taste!' Barinov is absolutely frantic. He cannot imagine cooking without his most important tool."),
-    (2, None, "'Everything will definitely be fine and calm.' Lyova reassures him with soothing words. He acts as the voice of reason for the dramatic chef."),
-    (3, None, "'I cannot prepare the signature sauce.' Barinov feels completely helpless. He is terrified of failing before a big dinner service."),
-    (4, None, "'We will help you, the whole team is with you!' Lyova pledges the kitchen's full support. He reminds the boss that they are all in this together."),
-    (5, None, "'But you do not know the exact recipe.' Barinov is hesitant to trust them with his secret creation. He usually keeps his recipes closely guarded."),
-    (6, None, "'Direct us, command our every step!' Lyova offers to be the chef's hands. He tells Barinov to just give the orders."),
-    (7, None, "'Has the broth already boiled for this sauce?' Barinov tentatively starts managing the process. He checks on the very first step."),
-    (8, None, "'The broth is ready, and fresh vegetables are chopped.' Lyova proudly reports that prep is already done. He shows that the team is fully prepared."),
-    (9, None, "'Who then will taste the finished dish?' Barinov points out the final problem. He still needs a reliable palate to approve the sauce."),
-    (10, None, "'We will taste everything carefully ourselves!' Lyova volunteers the entire staff for the job. He promises they will be extremely thorough."),
-    (11, None, "'To work then, everything will turn out well for us!' Barinov finally regains his confidence. He rallies the team with a burst of energy."),
-    (12, None, '\'Of course, Chef, we will not let you down!\' Lyova vows to deliver. The phrase for "let down" literally means to lead someone under.'),
+    (0, None, "'Chef, do not worry so much!' Ne perezhivayte is the polite command 'don't worry'. Lyova adds vy after it, which Russians do to sound warmer."),
+    (1, None, '\'How not to worry? I lost my sense of taste!\' "Kak ne perezhivat\'", \'how not to worry\', is Barinov\'s \'how could I not?\'. "Vkus" is both taste and the sense of taste.'),
+    (2, None, '\'Everything will definitely be fine and calm.\' "Budet khorosho", \'it will be good\', uses the adverb khorosho, not an adjective. "Obyazatel\'no", \'definitely\', comes from obyazan, \'obliged\', the word Barinov used to the owner.'),
+    (3, None, '\'I cannot prepare the signature sauce.\' "Firmennyy" sous is the very sauce Nagiyev came to taste. Ne mogu, \'I can\'t\', is from moch\'.'),
+    (4, None, '\'We will help you, the whole team is with you!\' "Pomoch\'", to help, needs vam, \'to you\', since you give help to someone. S vami, \'with you\', uses the \'with\' ending of vy.'),
+    (5, None, '\'But you do not know the exact recipe.\' "Tochnyy", \'exact\', comes from tochka, a point or dot. "Retsept" means a recipe and also a doctor\'s prescription.'),
+    (6, None, '\'Direct us, command our every step!\' "Upravlyat\'" and komandovat\' both put what is being run into the \'with\' form: nami, \'us\', and kazhdym nashim shagom, \'our every step\'.'),
+    (7, None, '\'Has the broth already boiled for this sauce?\' "Svarilsya", \'has boiled\', ends in -sya because the broth cooked by itself. "Bul\'on" is the French bouillon.'),
+    (8, None, '\'The broth is ready, and fresh vegetables are chopped.\' "Narezany", \'chopped\', has plural -y to match ovoshchi, vegetables. "Gotov", \'ready\', is the short masculine form, to match bul\'on.'),
+    (9, None, '\'Who then will taste the finished dish?\' Zhe after kto adds impatience, like \'who on earth\'. "Gotovoye", \'finished\', is the full neuter form of gotov, to match blyudo.'),
+    (10, None, '\'We will taste everything carefully ourselves!\' "Sami", \'ourselves\', is the plural of sam. "Budem probovat\'" is the ongoing future, budem plus the infinitive: \'we will be tasting\'.'),
+    (11, None, "'To work then, everything will turn out well for us!' Za rabotu, 'to work', is a set call to get started. U nas vsyo poluchitsya, 'at us all will turn out', means 'we'll manage'."),
+    (12, None, "'Of course, Chef, we will not let you down!' Ne podvedyom, 'we won't let you down', echoes the ne podvedite Nagiyev said to the chef. Vas is the polite 'you' for the chef."),
 ]

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Алло, Костя, ты меня слышишь? | Hello, Kostya, do you hear me? | #352: Алло. | verbatim |
+| 1 | Макс | Алло, Костя, ты меня слышишь? | Hello, Kostya, do you hear me? | #352 00:23:34: Алло. | verbatim |
 | 2 | Костя | Макс, привет, что случилось? | Max, hi, what happened? | new | new |
 | 3 | Макс | Я стою ночью прямо на улице. | I am standing at night right on the street. | new | new |
 | 4 | Костя | А почему ты не поехал к другу? | And why did you not go to your friend? | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Kostya, do you hear me?' Max calls his friend in desperation from the dark sidewalk.
-- 'Max, hi, what happened?' Kostya answers the phone from his quiet apartment.
-- 'I am standing at night right on the street.' Max explains his miserable situation out in the cold.
-- 'And why did you not go to your friend?' Kostya wonders why Max has not settled in anywhere.
-- 'They gave me someone else's home address.' Max explains that he was handed a deceptive note.
-- 'And whose place did you end up at?' The bartender is curious about the unexpected destination.
-- 'I arrived at our pastry chef Louis's place!' Max reveals the hilarious and embarrassing mistake.
-- 'To Louis? With a suitcase and things?' Kostya is completely stunned by the bizarre mix-up.
-- 'Yes, and with a bouquet of flowers too!' Max confesses the most awkward detail of the evening.
-- 'Now that is a prank the guys played on you!' Kostya realizes the kitchen cooks orchestrated a practical joke.
-- 'Louis thought that I was in love with him.' Max describes the mortifying misunderstanding at the door.
-- 'And what did he tell you?' Kostya asks while struggling to suppress laughter at the situation.
-- 'He said that his heart is already taken.' Max repeats the pastry chef's gentle romantic rejection.
-- 'Come over to my place, we will stay the night together.' The loyal friend offers him a warm place to stay.
+- 'Hello, Kostya, do you hear me?' "Allo" is only for the phone. "Slyshish'", 'you hear', is from slyshat', to hear, a different verb from slushat', to listen.
+- 'Max, hi, what happened?' "Chto sluchilos'" is what you ask when something's wrong, with -sya cut to -s'. "Privet" is the casual 'hi'.
+- 'I am standing at night right on the street.' "Noch'yu", 'at night', is noch' in its 'with' form, used as a time word. Na ulitse, 'on the street', is how Russian says 'outside'.
+- 'And why did you not go to your friend?' "Poyekhal", 'went', is for going by transport. After k, 'to', drug becomes drugu.
+- 'They gave me someone else's home address.' "Dali", 'they gave', names nobody, like the English 'they'. "Chuzhoy" means 'someone else's', the opposite of svoy.
+- 'And whose place did you end up at?' K komu, 'to whom', is kto changed to komu after k. V itoge, 'in the end', literally means 'in the total'.
+- 'I arrived at our pastry chef Louis's place!' K nashemu konditeru, 'to our pastry chef', gives both words a 'to' ending. "Luis" is a foreign name and never changes its ending.
+- 'To Louis? With a suitcase and things?' S chemodanom i veshchami adds the 'with' endings -om and -ami. "Veshchi", 'things', is how Russians talk about their belongings.
+- 'Yes, and with a bouquet of flowers too!' "Yeshchyo" i, 'and also', adds one more embarrassing detail. S buketom tsvetov is the bouquet Kostya told him to buy.
+- 'Now that is a prank the guys played on you!' "Vot eto" at the start means 'now that's what I call'. After nad, 'over', ty becomes toboy: podshutit' nad toboy, 'to play a joke on you'.
+- 'Louis thought that I was in love with him.' "Vlyublyon v", 'in love with', is the short form for a man; a woman would say vlyublena. After v, yego takes an n: v nego.
+- 'And what did he tell you?' Tebe, 'to you', is ty with a 'to' ending. "Skazal", 'said', pairs with govorit' as its completed partner.
+- 'He said that his heart is already taken.' "Skazal" opens the line with no 'he', since it's clear who spoke. "Zanyato" is Louis's word for his heart: occupied.
+- 'Come over to my place, we will stay the night together.' "Priyezzhay", 'come over', tells Max to come by transport. "Budem nochevat'", 'we will stay the night', grows out of noch', night.

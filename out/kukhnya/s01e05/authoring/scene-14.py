@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Stepping away from the bustling restaurant floor, waitress Nastya leads bartender Kostya into a secluded pantry. Gathering her courage, she asks him whether he genuinely wants to start dating her, prompting Kostya to happily confess his feelings. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the romantic expressions, polite modal structures, and emotional affirmations."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Nastya and Kostya take an important step forward in their relationship before returning with smiles to their work duties. Great work practicing romantic conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to come back' and 'to meet' — you will catch every word right away. See you next time!"
+INTRO = "Back at the Claude Monet bar, Nastya goes ahead with Sasha's plan. She finds Kostya, the bartender, and asks him to come somewhere quiet so she can ask him something. Kostya has liked her for ages and can hardly believe his luck. Here it is in Russian."
+OPENER = "Let's go back. They're both nervous, and you can hear it in the short questions."
+TRANSITION = 'By now it should sound clearer.'
+OUTRO = 'Kostya finally gets to say "ty mne ochen nravishsya", \'I like you a lot\'. It\'s one of the most useful sentences in Russian, and now you\'ve heard it in a happy moment.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, привет, ты сейчас сильно занят?', 'Kostya, hi, are you very busy right now?', [(175, 'Костя, привет'), (177, 'Ты занят')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Теперь нам пора возвращаться к гостям.', 'Now it is time for us to return to the guests.', [(185, 'два блюда')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, hi, are you very busy right now?' Nastya tentatively checks if the bartender has a moment."),
-    (1, None, "'Hi, Nastya, no, I am completely free.' Kostya happily confirms he is available to talk."),
-    (2, None, "'Then come with me into the quiet room.' Nastya asks him to step away for some privacy."),
-    (3, None, "'Wait a second, where exactly are we going?' Kostya is slightly confused but follows her lead."),
-    (4, None, "'I wanted to ask you seriously for a long time.' Nastya builds up to her important question."),
-    (5, None, "'I will listen to you with pleasure now.' Kostya gives her his undivided attention."),
-    (6, None, "'Do you want us to start dating?' Nastya finally asks the big romantic question."),
-    (7, None, "'Nastya, I just got a little confused.' Kostya is caught completely off guard by the proposal."),
-    (8, None, "'Or do you not want this at all?' Nastya starts to backtrack, fearing a rejection."),
-    (9, None, "'Of course I want to, I like you very much!' Kostya quickly recovers and eagerly accepts."),
-    (10, None, "'I am very glad to hear this from you.' Nastya expresses relief at his positive response."),
-    (11, None, "'Now it is time for us to return to the guests.' Kostya points out they need to get back to their jobs."),
+    (0, None, '\'Kostya, hi, are you very busy right now?\' "Zanyat" is \'busy\' for a man; for a woman it\'s "zanyata". "Silno", literally \'strongly\', often just means \'very\'.'),
+    (1, None, '\'Hi, Nastya, no, I am completely free.\' "Sovsem", \'completely\', is the word that made Max\'s "sovsem ne". "Svoboden", \'free\', is the man\'s form.'),
+    (2, None, '\'Then come with me into the quiet room.\' "Poydyom" means \'let\'s go\', with the \'we\' ending -yom. "V tikhuyu komnatu" is a direction, so both words end in -u.'),
+    (3, None, '\'Wait a second, where exactly are we going?\' "Kuda" asks \'where to\', for movement. If you just want to know where something is, you say "gde".'),
+    (4, None, '\'I wanted to ask you seriously for a long time.\' "Davno khotela", \'long wanted\', covers \'I\'ve been wanting for a long time\'. "Khotela" has the woman\'s -a.'),
+    (5, None, '\'I will listen to you with pleasure now.\' "S udovolstviem", \'with pleasure\', is a polite yes to any offer. "Vyslushayu" is \'hear out\', listening all the way through.'),
+    (6, None, '\'Do you want us to start dating?\' "Khochesh", "chtoby my nachali" is \'you want so-that we started\', with "nachali" in the past after "chtoby". "Vstrechatsya" is the dating verb once more.'),
+    (7, None, '\'Nastya, I just got a little confused.\' "Rasteryalsya" contains "teryat", \'to lose\', with -sya, so roughly \'I lost myself\'. "Prosto nemnogo", \'just a little\', softens it.'),
+    (8, None, '\'Or do you not want this at all?\' After "ne khochesh", "eto" changes to "etogo". It\'s the same shift that turned "shutka" into "shutki" after \'didn\'t understand\'.'),
+    (9, None, '\'Of course I want to, I like you very much!\' "Khochu" alone means \'I want to\'. Then "ty mne nravishsya", \'you to me are pleasing\', is a plain \'I like you\'.'),
+    (10, None, '\'I am very glad to hear this from you.\' "Rada" is the woman\'s \'glad\'; Kostya would say "rad". "Ot tebya", \'from you\', uses "ot", which takes the \'of\' form.'),
+    (11, None, '\'Now it is time for us to return to the guests.\' "Pora", \'it\'s time\', is followed by a plain verb. "K gostyam", \'to the guests\', is "k" with a plural ending -am.'),
 ]

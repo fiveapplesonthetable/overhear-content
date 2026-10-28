@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Nastya and Kostya watch from the bar. They discuss Max and Victoria. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
-OPENER = "Let's go through it line by line. Kostya nods toward Max."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "They watch Victoria preparing a drink for Max. Next time you watch the episode, listen for the Russian expressions for 'well done' and 'to help' — you will catch every word right away. See you next time!"
+INTRO = 'At the bar, Kostya and Nastya have watched the whole drama, and now they gossip about Max and Vika. Hear it in Russian.'
+OPENER = 'Their chat again, one line at a time.'
+TRANSITION = 'Now the chat from the beginning.'
+OUTRO = 'Vika has a plan for saying sorry, and Kostya approves. You can guess what she is pouring. Catch you in the next one.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Максим молодец.', 'Maxim did great.', [(309, 'Максим молодец')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Она знает, что делать.', 'She knows what to do.', [], ''),
 ]
 WALK = [
-    (0, None, "'Maxim did great.' Kostya praises Max's performance. He tells Nastya that Maxim did a great job."),
-    (1, None, "'He helped Vika.' He highlights Max's good deed. Kostya points out that Max helped Vika."),
-    (2, None, "'He saved the evening.' Kostya summarizes the impact of Max's actions. He says Max saved the entire evening."),
-    (3, None, "'Yeah, she said awful things.' Nastya recalls Vika's earlier behavior. She notes that Vika said some awful things."),
-    (4, None, "'All sorts of awful things to him.' She emphasizes how mean Vika was. Nastya mentions Vika said all sorts of nasty things to him."),
-    (5, None, "'And she feels terrible.' Nastya knows how Vika is feeling now. She says Vika feels terrible and ashamed."),
-    (6, None, "'So how's she going to make it right?' Kostya wonders about the next steps. He asks how Vika plans to fix the situation."),
-    (7, None, "'What will she do?' He is curious about Vika's strategy. Kostya asks what she is going to do."),
-    (8, None, "'Ah, vodka.' Nastya spots the solution immediately. She simply points out the vodka."),
-    (9, None, "'She will pour him vodka.' She explains Vika's apology method. Nastya predicts Vika will pour him a drink."),
-    (10, None, "'That's a good plan.' Kostya approves of the strategy. He agrees that it is a very good plan."),
-    (11, None, "'She knows what to do.' Nastya is confident in Vika's abilities. She notes that Vika always knows exactly what to do."),
+    (0, None, "'Maxim did great.' Kostya uses the full name, Maksim. 'Molodets' comes from molodoy, young, but it's the everyday 'well done', and it works for a woman too."),
+    (1, None, "'He helped Vika.' 'Helped' takes the 'to' form of the person, so Vika becomes 'Vike': literally, 'he helped to Vika'."),
+    (2, None, "'He saved the evening.' 'Spas' is 'saved'. The same root sits in spasibo, which grew out of 'spasi Bog', 'God save you'."),
+    (3, None, "'Yeah, she said awful things.' 'Nagovorila' is govorit, to talk, with 'na' added, so it's 'said a whole heap'. It's usually things you'd rather not have said."),
+    (4, None, "'All sorts of awful things to him.' Nastya just carries on the sentence. 'Vsyakie' means 'all sorts of', and emu is 'to him'."),
+    (5, None, "'And she feels terrible.' Literally 'to her very ashamed'. 'Ey' is 'to her', and stydno, ashamed, is something that happens to a person."),
+    (6, None, "'So how's she going to make it right?' 'Ispravit' is 'to put right', with prav, the root of pravilno, 'correctly'. Zhe adds the 'so' of a curious question."),
+    (7, None, "'What will she do?' 'Budet delat', 'will be doing', is the future with budet plus the basic form. Kostya asks about the process, not the result."),
+    (8, None, "'Ah, vodka.' Vodka is voda, water, plus the small-and-dear ending 'ka': literally 'little water'."),
+    (9, None, "'She will pour him vodka.' Vodka becomes vodki, 'some vodka', the 'of' form for an amount of something. 'Nalyot', 'she will pour', is a finished action in the future."),
+    (10, None, "'That's a good plan.' Plan is masculine, so 'good' has the masculine ending: khoroshiy plan."),
+    (11, None, "'She knows what to do.' 'Chto delat' is 'what to do': the question word, then the basic form of the verb, no 'to' needed."),
 ]

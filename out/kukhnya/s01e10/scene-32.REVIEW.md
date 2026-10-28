@@ -13,24 +13,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Федя | Сеня, посмотри, как блестит икра! | Senya, look how the caviar shines! | new | new |
 | 2 | Сеня | Я же говорил тебе, краска отличная. | I told you, the dye is great. | new | new |
 | 3 | Федя | Она выглядит как настоящая чёрная икра. | It looks like genuine black caviar. | new | new |
-| 4 | Сеня | Это блюдо называется щучья пасха. | This dish is called pike easter. | #209: Щучья пасха. | verbatim |
+| 4 | Сеня | Это блюдо называется щучья пасха. | This dish is called pike easter. | #209 00:14:33: Щучья пасха. | verbatim |
 | 5 | Федя | Почему именно щучья пасха? | Why specifically pike easter? | new | new |
-| 6 | Сеня | Потому что это настоящее кулинарное чудо! | Because it is a real culinary miracle! | new | new |
+| 6 | Сеня | На Пасху красят яйца, а мы красим икру. | At Easter people dye eggs, and we dye caviar. | new | new |
 | 7 | Федя | Дай мне ложку, я хочу попробовать. | Give me a spoon, I want to taste. | new | new |
 | 8 | Сеня | Попробуй чуть-чуть, только не съешь всё. | Taste a tiny bit, just do not eat it all. | new | new |
 | 9 | Федя | Слушай, вкус просто великолепный. | Listen, the taste is simply magnificent. | new | new |
 | 10 | Сеня | Наши гости будут в полном восторге. | Our guests will be in total delight. | new | new |
-| 11 | Федя | Главное, чтобы шеф ничего не заподозрил. | The main thing is that Chef suspects nothing. | new | new |
-| 12 | Сеня | Шеф ничего не узнает, прячь банку! | Chef will not find out anything, hide the jar! | new | new |
+| 11 | Федя | Главное, чтобы гости ничего не заподозрили. | The main thing is that the guests suspect nothing. | new | new |
+| 12 | Сеня | Гости ничего не узнают, прячь банку! | The guests will not find out anything, hide the jar! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, look how the caviar shines!' Looking closely into the bowl, Fedya admires how glossy the dyed caviar looks.
-- 'I told you, the dye is great.' Senya smugly reminds him that he said the food dye would work wonders.
-- 'It looks like genuine black caviar.' Fedya agrees that visually it passes for genuine black caviar.
-- 'This dish is called pike easter.' Repeating his joke, Senya christens their invention 'pike Easter'.
-- 'Because it is a real culinary miracle!' He laughs that turning cheap roe into luxury caviar is a true kitchen miracle.
-- 'Give me a spoon, I want to taste.' Curious about the flavor, Fedya asks for a spoon to taste a bite.
-- 'Listen, the taste is simply magnificent.' After tasting it, Fedya admits it actually tastes great.
-- 'Our guests will be in total delight.' Senya predicts the guests at the banquet table will be thrilled.
-- 'Chef will not find out anything, hide the jar!' Hearing footsteps, Senya tells Fedya to hide the dye bottle before anyone sees. Now listen to the full conversation once more.
+- 'Senya, look how the caviar shines!' "Posmotri" is "look", said to one person. "Kak blestit" is "how it shines". Fedya is impressed by the work.
+- 'I told you, the dye is great.' "Ya zhe govoril" is "I did tell you": "zhe" adds "you know". "Kraska" appears in Fedya's question, "Kakoy kraskoy?". Senya says it with pride.
+- 'It looks like genuine black caviar.' "Vyglyadit kak" is "looks like". Senya said the same with "pokhozha na": two ways to say one thing. "Nastoyashchaya" is "real".
+- 'This dish is called pike easter.' "Nazyvaetsya" is "is called", literally "calls itself". "Blyudo" is "dish". Senya repeats his joke from the dyeing scene and makes it the name.
+- 'Why specifically pike easter?' "Imenno" is "specifically", as in Max's "Vot imenno", "exactly". Fedya wants to hear the joke explained.
+- 'At Easter people dye eggs, and we dye caviar.' At Easter, "Paskha", Russians dye eggs: "Na Paskhu krasyat yaytsa". "A my krasim ikru" is "and we dye caviar". That explains the name.
+- 'Give me a spoon, I want to taste.' Fedya asks with "Day mne lozhku", "give me a spoon". "Poprobovat" is "to try" or "to taste", from Timur's "poprobuy sam".
+- 'Taste a tiny bit, just do not eat it all.' "Chut-chut" is "a tiny bit". "Chut" alone means "almost", as in Max's "chut ne ranila" about the knife. "Ne syesh vsyo" is "don't eat it all up"; Alisa said "syela" about the chocolate.
+- 'Listen, the taste is simply magnificent.' Russians say "slushay", "listen", to get attention. "Velikolepny", "magnificent", is the word Louis used for his cake: "velikolepny tort".
+- 'Our guests will be in total delight.' Russians are "v polnom vostorge", "in full delight", when something thrills them. "Budut" is "will be". Senya expects the guests to love it.
+- 'The main thing is that the guests suspect nothing.' "Glavnoe, chtoby" is "the main thing is that", the pattern of Barinov's "Glavnoe, chtoby tovar byl svezhim". After "chtoby", the verb goes into the past: "zapodozrili".
+- 'The guests will not find out anything, hide the jar!' "Uznayut" is "will find out", from "uznat", Vika's word in "Pochemu ya uznayu ob etom posledney?". "Pryach" is "hide", and "banka" is "jar".

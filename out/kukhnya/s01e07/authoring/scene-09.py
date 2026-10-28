@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, Chef Viktor Barinov puts the finishing touches on a brand new signature sauce. Calling his line cooks over to the stove, he demands their honest feedback and basks in their immediate admiration. Let's listen to their enthusiastic exchange in Russian first."
-OPENER = "Let's examine how Chef Barinov invites his kitchen crew to taste his culinary masterpiece."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you understand how Russian chefs present new dishes to their brigade. Listen for these culinary compliments next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'to chatter' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = 'At Claude Monet, Chef Barinov has invented a new sauce in his kitchen and wants his cooks to try it. He calls them over, Max and Lyova among them, and nobody is going to dare say anything but yes. Hear it in Russian before we go through it.'
+OPENER = "Let's go through the tasting. Everyone says what the chef wants to hear."
+TRANSITION = 'And now the tasting in one piece.'
+OUTRO = "The tasting teaches you a handful of praise words: delicious, amazing, delight. They're the cheap way to please a chef. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Повара, быстро подойдите все сюда!', 'Cooks, quickly come over here, everyone!', [(169, 'подошли все сюда')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('lyova', 'Всё сделаем идеально, шеф!', 'We will make everything ideally, chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'Cooks, quickly come over here, everyone!' Barinov loudly summons his team for a crucial tasting."),
-    (1, None, "'Everyone taste the new sauce. Quickly!' He demands immediate attention and participation from everyone."),
-    (2, None, "'Amazing sauce, chef, pure delight!' Max heaps extreme praise on the culinary creation."),
-    (3, None, "'I have never tasted anything better.' He flatters the boss by claiming it is the finest thing he has ever eaten. Okay, let's hear the sauce tasting dialogue once more."),
+    (0, None, '\'Cooks, quickly come over here, everyone!\' "Povar", a cook, makes its plural with a stressed -a: povara. "Vse", \'all\', at the end gathers the whole team.'),
+    (1, None, '\'What did you cook, chef?\' Max uses polite vy, so the past tense takes the plural -li: vy prigotovili. "Prigotovit\'" is the completed partner of gotovit\', to cook.'),
+    (2, None, '\'Everyone taste the new sauce. Quickly!\' "Probuem" is literally \'we taste\', and Barinov uses it as an order, like \'let\'s all taste\'. "Bystro", \'quickly\', is a complete command by itself.'),
+    (3, None, '\'Lyova, you taste very first.\' "Samym pervym" is \'most first\', with samyy in front for emphasis. Barinov uses ty with Lyova, as he does with all his cooks.'),
+    (4, None, '\'Chef, this is incredibly delicious!\' "Vkusno", \'tasty\', is built on vkus, taste, and it\'s what you say about food you like. "Neveroyatno", \'incredibly\', starts with ne, \'not\'.'),
+    (5, None, '\'And now it is your turn, Oguzok.\' "Ochered\'" means both \'turn\' and \'queue\', and it\'s feminine, so \'your\' is tvoya. Oguzok is Barinov\'s insulting nickname for Max, a cheap cut of beef.'),
+    (6, None, '\'You haven\'t tasted anything like this in Voronezh?\' "Takogo", \'anything like this\', is takoy in its \'of\' form, which Russian uses after a \'not\'. "V Voronezhe", \'in Voronezh\', reminds Max where he comes from.'),
+    (7, None, '\'Amazing sauce, chef, pure delight!\' "Potryasayushchiy", \'amazing\', comes from potryasat\', to shake or stun. "Vostorg" means delight, rapture.'),
+    (8, None, '\'I have never tasted anything better.\' "Nikogda ne"... nichego is \'never not nothing\', three negatives that Russian needs here. "Luchshe", \'better\', closes the sentence.'),
+    (9, None, '\'Learn while I am kind today!\' "Uchis\'" is said to one cook on ty terms; at the market Barinov said uchites\' to Elena Pavlovna, the polite version. Poka means \'while\' here.'),
+    (10, None, '\'I genuinely envy our guest.\' "Iskrenne", \'sincerely\', comes from iskrenniy, sincere. Envy works with a \'to\' ending in Russian, so gost\', a guest, becomes nashemu gostyu.'),
+    (11, None, '\'Stop chatting, prepare a beautiful plating.\' "Khvatit", \'enough\', plus a verb is how you say \'stop doing that\': khvatit boltat\'. "Podacha", the plating, comes from podavat\', to serve.'),
+    (12, None, '\'We will make everything ideally, chef!\' "Sdelaem" is the \'we\' future of sdelat\', to do or make. "Ideal\'no" is the adverb from ideal\'nyy, ideal, and in everyday speech it means \'perfectly\'.'),
 ]

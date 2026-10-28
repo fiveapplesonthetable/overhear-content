@@ -468,7 +468,7 @@
     },
     {
       "seg": 9,
-      "trans": "I was simply smiling politely at you, guest.",
+      "trans": "I was simply smiling politely at you, as at everyone.",
       "words": [
         {
           "t": "Я",
@@ -511,12 +511,20 @@
           "gram": "dative plural"
         },
         {
-          "t": "гость.",
-          "lemma": "гость",
-          "pos": "noun",
+          "t": "как",
+          "lemma": "как",
+          "pos": "conj",
           "stress": null,
-          "gloss": "guest",
-          "gram": "nominative / accusative"
+          "gloss": "as, like",
+          "gram": "conjunction"
+        },
+        {
+          "t": "всем.",
+          "lemma": "весь",
+          "pos": "pron",
+          "stress": "все́м",
+          "gloss": "everyone",
+          "gram": "dative plural"
         }
       ]
     },
@@ -1202,7 +1210,7 @@
     },
     {
       "seg": 31,
-      "trans": "I was simply smiling politely at you, guest.",
+      "trans": "I was simply smiling politely at you, as at everyone.",
       "words": [
         {
           "t": "Я",
@@ -1245,12 +1253,20 @@
           "gram": "dative plural"
         },
         {
-          "t": "гость.",
-          "lemma": "гость",
-          "pos": "noun",
+          "t": "как",
+          "lemma": "как",
+          "pos": "conj",
           "stress": null,
-          "gloss": "guest",
-          "gram": "nominative / accusative"
+          "gloss": "as, like",
+          "gram": "conjunction"
+        },
+        {
+          "t": "всем.",
+          "lemma": "весь",
+          "pos": "pron",
+          "stress": "все́м",
+          "gloss": "everyone",
+          "gram": "dative plural"
         }
       ]
     },
@@ -1936,7 +1952,7 @@
     },
     {
       "seg": 49,
-      "trans": "I was simply smiling politely at you, guest.",
+      "trans": "I was simply smiling politely at you, as at everyone.",
       "words": [
         {
           "t": "Я",
@@ -1979,12 +1995,20 @@
           "gram": "dative plural"
         },
         {
-          "t": "гость.",
-          "lemma": "гость",
-          "pos": "noun",
+          "t": "как",
+          "lemma": "как",
+          "pos": "conj",
           "stress": null,
-          "gloss": "guest",
-          "gram": "nominative / accusative"
+          "gloss": "as, like",
+          "gram": "conjunction"
+        },
+        {
+          "t": "всем.",
+          "lemma": "весь",
+          "pos": "pron",
+          "stress": "все́м",
+          "gloss": "everyone",
+          "gram": "dative plural"
         }
       ]
     },
@@ -7113,6 +7137,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "как": {
+      "lemma": "как",
+      "stress": "как",
+      "pos": "adv",
+      "gloss": "how; as",
+      "meanings": [
+        {
+          "en": "how",
+          "note": "Question word. Core Russian adv meaning 'how; as' in everyday speech."
+        },
+        {
+          "en": "as",
+          "note": "Как вы знаете = as you know. Core Russian adv meaning 'how; as' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Как там в Венгрии?",
+          "trans": "How was it in Hungary?"
+        },
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень как",
+          "gloss": "intensified / related adverb (how)"
         }
       ]
     }

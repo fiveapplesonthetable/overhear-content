@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'first_guest': 'Первый гость', 'second_guest': 'Второй гость'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "At a VIP table in the Claude Monet dining room, wealthy guests taste the newly served black caviar delicacy. Completely oblivious to the kitchen's culinary disguise, the diners rave about its fresh natural Astrakhan quality. Listen to their conversation in Russian first, then we will break down each line in English."
-OPENER = "Now let's go back through the exchange around Astrakhan Caviar line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the restaurant dining room, wealthy guests taste the disguised black caviar and rave about its natural Astrakhan quality, praising the chef for the magnificent appetizer. Next time you watch the episode, listen for the Russian expressions for 'to be felt' and 'rarely' — you will catch every word right away. See you next time!"
+INTRO = "The dyed caviar has gone out to the dining room, and the guests are tasting it. They know good caviar when they eat it, or think they do. We'll hear it through once before I say a word about it."
+OPENER = "I'll take you through it now."
+TRANSITION = 'Everything again, from the beginning.'
+OUTRO = 'The guests are delighted, and the pike has passed its first test. Whether it passes the second test, with the owner, is another matter. Until then.'
 CLOSING = ('second_guest', 'Пока!')
 STORY = [
     ('first_guest', 'Попробуйте эту закуску, господа.', 'Taste this appetizer, gentlemen.', [], ''),
@@ -30,13 +30,16 @@ STORY = [
     ('second_guest', 'Этот вечер удался на славу!', 'This evening was a glorious success!', [], ''),
 ]
 WALK = [
-    (0, None, "'Taste this appetizer, gentlemen.' At the VIP table in the dining room, the host invites his companions to try the caviar appetizer."),
-    (1, None, "'Listen, this is wonderful caviar!' Taking a bite, the second guest marvels at how wonderful the caviar is."),
-    (2, None, "'You can immediately sense that it is natural.' The first guest nods sagely, claiming you can tell right away that it is all-natural."),
-    (3, None, "'Yes, I only ever ate such caviar in Astrakhan.' His friend agrees, saying he has only tasted caviar this good in Astrakhan."),
-    (4, None, "'In Moscow you rarely encounter such quality.' The host remarks that finding such genuine quality in Moscow is rare."),
-    (5, None, "'Yes, delicious, very delicious!' Savoring another spoonful, the second guest repeats how delicious it is."),
-    (6, None, "'The head chef of this restaurant is a true master.' The host praises Claude Monet's head chef as a true master of his craft."),
-    (7, None, "'We will definitely order another portion.' Enjoying the disguised pike roe so much, they decide to order another helping."),
-    (8, None, "'Pass on our sincere gratitude to the chef.' The host asks the waiter to pass their warm compliments along to the chef. Now listen to the full conversation once more."),
+    (0, None, '\'Taste this appetizer, gentlemen.\' "Zakuska" is the little dish you eat alongside a drink, and "gospoda" is an old word for "gentlemen" that came back into use. It sounds slightly grand, which suits the caviar.'),
+    (1, None, '\'Listen, this is wonderful caviar!\' Russians begin with "slushayte", "listen", when they have something to say. "Chudesnaya", "wonderful", comes from "chudo", "miracle". The guest is warming up.'),
+    (2, None, '\'You can immediately sense that it is natural.\' The Russian is "srazu chuvstvuetsya", "at once it is felt": the -sya makes the feeling come by itself. "Naturalnaya" is "natural". The guest trusts his palate.'),
+    (3, None, '\'Yes, I only ever ate such caviar in Astrakhan.\' Astrakhan is a southern river city known for its caviar, so this is high praise. "El" is "ate". Word for word it is "such only in Astrakhan ate".'),
+    (4, None, '\'In Moscow you rarely encounter such quality.\' "Vstretish" is "you will meet", with "you" meaning "anyone". "Redko" is "rarely". "V Moskve" is "in Moscow": "Moskva" becomes "Moskve" after "v".'),
+    (5, None, '\'Yes, delicious, very delicious!\' "Vkusno" without the adjective ending means "it is tasty", and Russians shout it at the table. The repetition is genuine enthusiasm. The second guest cannot get enough.'),
+    (6, None, '\'The head chef of this restaurant is a true master.\' "Shef-povar" joins "chef" and "cook" into a title. "Master" is the word for the repairmen in the stove story: "Mastera obeshchayut". The guest praises the chef.'),
+    (7, None, '\'And the fresh bread goes with it perfectly.\' "Podkhodit" is "suits", from the walking-up verb of Fedya\'s "podoydi". "Svezhiy khleb" is "fresh bread". "Otlichno" is "excellently".'),
+    (8, None, '\'We will definitely order another portion.\' "Obyazatelno" is "without fail", heard in Max\'s promise of a big wedding. "Zakazhem" is "we will order", from "zakaz", "order". "Portsiya" is "portion".'),
+    (9, None, '\'I am ready to come here every day.\' "Prikhodit" is "to come", in the form for coming again and again. "Gotov" is "ready". "Kazhdy den" is "every day".'),
+    (10, None, '\'Pass on our sincere gratitude to the chef.\' "Peredayte" is "pass on", as in Kostya\'s "ya peredam vashi slova". "Iskrennyuyu blagodarnost" is "sincere gratitude", a longer, formal "thanks". "Shefu" is "to the chef".'),
+    (11, None, '\'This evening was a glorious success!\' The Russian is "succeeded to glory", an idiom for "went wonderfully". "Succeeded" grows from the word for "luck". The guest closes the scene with a flourish.'),
 ]

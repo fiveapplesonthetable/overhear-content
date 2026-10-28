@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'mama': 'Мама', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "After enduring a stern lecture from his mother in the restaurant kitchen, Chef Barinov is interrupted by a frantic Nagiyev. To everyone's disbelief, the televised food review awards Claude Monet nine out of ten, heaping special praise upon Kostya's professional integrity."
-OPENER = "Let's watch Barinov's mother lecture her grown son before Nagiyev bursts in with the astonishing television review."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Saved by Kostya's unwavering honesty, Claude Monet triumphs as Nagiyev insists on the bartender's immediate return. Next time you watch the episode, listen for the Russian expressions for 'point' and 'bartender' — you will catch every word right away. See you next time!"
+INTRO = "The day ends in an odd way. A woman storms in to tell the chef how disappointed she is, and then the critic's review is read out. Hear it first, then we'll pick it apart."
+OPENER = "We'll go slowly this time."
+TRANSITION = "This time you'll hear more."
+OUTRO = "Nine out of ten, and Kostya's name in the review. That is how the episode ends: the critic was a fair man, after all. Carry on listening, and see you soon."
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('mama', 'Витя, я выражаю тебе своё крайнее возмущение!', 'Vitya, I express to you my extreme outrage!', [(324, 'Чтобы выразить тебе свое крайнее возмущение.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nagiyev', 'Витя, срочно верни Костю обратно на работу!', 'Vitya, urgently bring Kostya back to work!', [(351, 'Бармена надо вернуть.')], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, I express to you my extreme outrage!' Mama aggressively expresses her extreme outrage to him. She is absolutely furious about her visit."),
-    (1, None, "'I am deeply disappointed by the bad service in the restaurant.' Mama complains that she is deeply disappointed by the awful service. Everything was terrible in her opinion."),
-    (2, None, "'Mom, do not shout here, we are busy with work.' Barinov begs his mother not to shout while they are working. This is very embarrassing for him."),
-    (3, None, "'Be home at twelve o'clock sharp!' Mama strictly orders him to be home at exactly twelve o'clock. She still treats him like a child."),
-    (4, None, "'Chef, turn on the TV quickly, the food critic is on!' Nagiyev bursts in telling the chef to quickly turn on the TV. The food reviewer is on right now."),
-    (5, None, "'Has the critic already released his devastating review?' Barinov panics, wondering if the devastating review is already out. He expects the absolute worst."),
-    (6, None, "'He says that our main virtue is integrity.' Nagiyev quotes the man saying their main virtue is having strong principles. This is a very surprising turn."),
-    (7, None, "'Really? And what did he say about the kitchen?' Barinov is shocked and asks what was said about the actual cooking. That is all he really cares about."),
-    (8, None, "'He called all our food simply delicious!' Nagiyev happily announces that all the food was called simply amazing. It is the best possible compliment."),
-    (9, None, "'And he called bartender Kostya a real professional.' Nagiyev adds that the young guy was even called a true professional. The spilled drink somehow worked in their favor."),
-    (10, None, "'The critic gave the restaurant nine points out of ten!' Nagiyev reveals the incredible final score of nine out of ten. This is a massive victory for them."),
-    (11, None, "'Nine out of ten? That is an incredible success!' Barinov is stunned by the high score, calling it an unbelievable success. He can barely process the good news."),
-    (12, None, "'Vitya, urgently bring Kostya back to work!' Nagiyev urgently orders him to bring the fired employee back immediately. They need their star worker."),
+    (0, None, '\'Vitya, I express to you my extreme outrage!\' "Vyrazhayu", "I express", is official language, and she uses it to scold. "Vozmushchenie" is "outrage". She calls him Vitya, the short form of Viktor.'),
+    (1, None, '\'I am deeply disappointed by the bad service in the restaurant.\' "Razocharovana", "disappointed", has the woman\'s -a. "Servis" is borrowed, and "plokhim servisom" has the "by means of" ending. She keeps up the formal act.'),
+    (2, None, '\'Mom, do not shout here, we are busy with work.\' He says "mama", the everyday word for mother, which grown men use too. "Zanyaty", "busy", is the short plural form. "Ne krichi" is "don\'t shout".'),
+    (3, None, '\'Be home at twelve o\'clock sharp!\' After "chtoby", "so that", the verb takes its past form, "byl", though the order is for the future. "Rovno" is "exactly", "sharp". "Doma" is "at home", while "domoy" is "homeward".'),
+    (4, None, '\'Chef, turn on the TV quickly, the food critic is on!\' "Vklyuchay", "turn on", is the opposite of "vyklyuchili", Lyova\'s "turned off" for the noisy equipment. Nagiyev says "shef" but uses "ty", as an old friend.'),
+    (5, None, '\'Has the critic already released his devastating review?\' "Vypustil", "released", is related to "vypusk", the TV "episode" Barinov was offered money for. "Razgromny", "devastating", grows from "razgrom", a rout. Barinov fears the worst.'),
+    (6, None, '\'He says that our main virtue is integrity.\' "Dostoinstvo", "virtue", is also the word for "dignity". "Printsipialnost", "integrity", is built on "printsip", as in Barinov\'s "glupykh printsipov".'),
+    (7, None, '\'Really? And what did he say about the kitchen?\' "Pravda?", "truth?", is how Russians ask "really?". "Pro kukhnyu" is "about the kitchen". Barinov wants to hear about his own domain.'),
+    (8, None, '\'He called all our food simply delicious!\' After "nazval", "called", the praise takes the "as" ending: "vostkhititelnoy". The word means "delightful", a grand word, not one only for food. Nagiyev reads the praise with relish.'),
+    (9, None, '\'And he called bartender Kostya a real professional.\' The "as" ending again, in "nastoyashchim professionalom". The critic noticed Kostya, the man who was about to be fired.'),
+    (10, None, '\'The critic gave the restaurant nine points out of ten!\' Russians "put" a mark: "postavil devyat ballov". "Iz desyati", "out of ten", uses "iz", "from". Nagiyev announces the score like a sports result.'),
+    (11, None, '\'Nine out of ten? That is an incredible success!\' "Neveroyatny", "incredible", is built on "verit", "to believe": "unbelievable". Barinov repeats the score, delighted.'),
+    (12, None, '\'Vitya, urgently bring Kostya back to work!\' "Verni", "give back", covers returning things and people. "Obratno" is "back", and "srochno" is "urgently". Nagiyev gives the order that ends the episode.'),
 ]

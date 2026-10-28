@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "Tucked away in a quiet corner of Claude Monet's kitchen, Max and young Alisa play a lively cooking game inspired by the movie Ratatouille. While the pair happily decorate their culinary creation with chocolate, waitress Nastya runs around the restaurant in a total panic searching for the girl. Let's listen to their playful kitchen adventure in Russian."
-OPENER = "Let's explore how Max and Alisa cook together in the kitchen while avoiding Chef Barinov's search."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Max and Alisa have found a quiet corner of the kitchen and a game: they are decorating a cake and pretending to be characters from a cartoon about a cooking rat. Meanwhile, the rest of the restaurant has begun to wonder where the chef's daughter has gone. Here they are, in Russian."
+OPENER = "Let's go through it again, line by line."
+TRANSITION = 'And now without my interruptions.'
+OUTRO = 'Nastya has told them the chef is looking for Alisa, and the game is over for now. Next, the search begins. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Остался самый последний штрих.', 'Only the very last touch remains.', [(245, 'Остался последний штрих')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('nastya', 'Беги скорее к папе, пока он добрый.', 'Run to dad quickly, while he is kind.', [], ''),
 ]
 WALK = [
-    (0, None, "'It is I who control you, like in the cartoon!' Hiding with Alisa in the kitchen, Max pretends to steer her arms like the little chef in the cartoon."),
-    (1, None, "'Artists always sign their masterpiece.' Handing her melted chocolate, Max jokes that every true artist signs their masterpiece."),
-    (2, None, "'You ate it yourself just now!' Alisa giggles and points out that Max just ate a piece of the chocolate himself."),
-    (3, None, "'The chef is already looking for her all over the restaurant!' Spotting them at last, a frantic Nastya warns that the chef is searching the whole restaurant for Alisa. Now, let's listen to Max and Alisa's playful kitchen dialogue once more."),
+    (0, None, '\'Only the very last touch remains.\' Russian doubles up "most" and "last", "samy posledny", to get "the very last". "Shtrikh", "touch", is a borrowed word for a stroke of a pen or a brush.'),
+    (1, None, '\'Look, I made this myself!\' Alisa is a girl, so "myself" ends in -a and so does "made". A boy would say it with a bare "sam" and an -l. Her pride comes through, and so does her grammar.'),
+    (2, None, '\'It is I who control you, like in the cartoon!\' Children say "multik" for a cartoon, a cosy short form of "multfilm". "Upravlyayu toboy" is "I control you": this verb wants "toboy", the same shape as in "s toboy", "with you".'),
+    (3, None, '\'So you are a clever little rat?\' Alisa starts with "that is", which Russians use the way we use "so" or "in other words". The term for rat is feminine, so the adjective for "cunning" is feminine too. Max is a she-rat for the length of the game.'),
+    (4, None, '\'Artists always sign their masterpiece.\' Max is making it up as he goes. The Russian for "masterpiece" is the French one in Russian letters, and the Russian for "sign" is literally "write under", which is just what a signature is.'),
+    (5, None, '\'Where has our liquid chocolate gone?\' Russian has two words for "where": "gde" asks where something is, "kuda" asks where it went. Max uses "kuda", because the chocolate has vanished. "Propal" is "has gone missing".'),
+    (6, None, '\'You ate it yourself just now!\' "Tolko chto", "just now", is literally "only what". "Shokolad" is a masculine word, so "it" is "ego", the same as "him". "Syel" is "ate", with the man\'s -l.'),
+    (7, None, '\'Not true, I left it for decoration.\' "Nepravda" is "pravda", "truth", with "ne" glued on the front: one word for "not true". "Ostavil", "I left", ends in the man\'s -l.'),
+    (8, None, '\'Max, have you not seen little Alisa?\' The name changes to "Alisu" here, as the one being looked for. And Nastya says "ne videl" with -l, because she\'s asking a man.'),
+    (9, None, '\'She is sitting here helping me.\' "Pomogaet mne" is "helps to me": in Russian you help "to" someone. The same family gives "pomoshchnik", the assistant Louis asked for at the start.'),
+    (10, None, '\'The chef is already looking for her all over the restaurant!\' "Po vsemu restoranu" is literally "along the whole restaurant": "po", "along", and then -u endings on both words. "Ishchet" is "is looking for".'),
+    (11, None, '\'We are cooking the most delicious dish in the world!\' Alisa has no idea she is in trouble. "In the world" is odd in Russian: it says "on the light". It\'s the usual way to say it, and it makes the boast bigger.'),
+    (12, None, '\'Run to dad quickly, while he is kind.\' In Russian, "while" is also the word Russians say for "bye for now". Same word, different jobs. Nastya knows the chef\'s mood won\'t last, and she\'s practical about it.'),
 ]

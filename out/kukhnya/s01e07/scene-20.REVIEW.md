@@ -13,13 +13,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Костя | Заходи, Макс, чувствуй себя как дома. | Come in, Max, make yourself at home. | new | new |
 | 2 | Макс | Спасибо, Костя, ты спас меня сегодня. | Thank you, Kostya, you saved me today. | new | new |
 | 3 | Костя | Мы друзья, а друзья всегда помогают друг другу. | We are friends, and friends always help each other. | new | new |
-| 4 | Макс | Я сегодня понял одну очень важную вещь. | Today I realized one very important thing. | #353: Я понял одну важную вещь. | verbatim |
+| 4 | Макс | Я сегодня понял одну очень важную вещь. | Today I realized one very important thing. | #353 00:23:45: Я понял одну важную вещь. | verbatim |
 | 5 | Костя | Какую вещь ты понял, философ? | What thing did you realize, philosopher? | new | new |
-| 6 | Макс | Что бы ни случилось с тобой днём... | Whatever might happen to you during the day... | #354: Что бы с тобой не случилось днем, | verbatim |
-| 7 | Макс | Главное — чтобы вечером было куда вернуться. | The main thing is to have somewhere to return in the evening. | #354: главное, чтобы вечером было куда вернуться. | verbatim |
-| 8 | Макс | Вернуться туда, где тебе искренне рады. | Return to where you are sincerely welcomed. | #355: Вернуться туда, где тебе рады. | verbatim |
+| 6 | Макс | Что бы ни случилось с тобой днём... | Whatever might happen to you during the day... | #354 00:23:47: Что бы с тобой не случилось днем, | verbatim |
+| 7 | Макс | Главное — чтобы вечером было куда вернуться. | The main thing is to have somewhere to return in the evening. | #354 00:23:47: главное, чтобы вечером было куда вернуться. | verbatim |
+| 8 | Макс | Вернуться туда, где тебе искренне рады. | Return to where you are sincerely welcomed. | #355 00:23:51: Вернуться туда, где тебе рады. | verbatim |
 | 9 | Костя | Это точно, в пустой квартире тоскливо. | That is true, it is dreary in an empty apartment. | new | new |
-| 10 | Макс | Ведь нет ничего хуже страшного одиночества. | After all there is nothing worse than terrible loneliness. | #356: Потому что нет ничего хуже одиночества. | verbatim |
+| 10 | Макс | Ведь нет ничего хуже страшного одиночества. | After all there is nothing worse than terrible loneliness. | #356 00:23:56: Потому что нет ничего хуже одиночества. | verbatim |
 | 11 | Костя | Вдвоём нам точно будет веселее жить! | Together we will definitely have more fun living! | new | new |
 | 12 | Макс | Теперь мы настоящие соседи и друзья. | Now we are real roommates and friends. | new | new |
 | 13 | Костя | Давай пить чай и отдыхать. | Let us drink tea and rest. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, Max, make yourself at home.' Kostya welcomes his friend warmly. He uses a common phrase to help Max feel comfortable.
-- 'Thank you, Kostya, you saved me today.' Max is incredibly relieved to be indoors. He expresses his deep gratitude for the rescue.
-- 'We are friends, and friends always help each other.' Kostya brushes off the thanks. He states his simple philosophy on friendship.
-- 'Today I realized one very important thing.' Max turns philosophical after a long, hard day. He shares a sudden realization.
-- 'What thing did you realize, philosopher?' Kostya teases him gently about his serious tone. He calls him a philosopher with a smile.
-- 'Whatever might happen to you during the day...' Max begins his thoughtful conclusion. He reflects on the unpredictable chaos of life.
-- 'The main thing is to have somewhere to return in the evening.' Max states the core of his realization. He values the safety of a home above all else.
-- 'Return to where you are sincerely welcomed.' Max emphasizes the emotional warmth of a home. He appreciates knowing that someone is glad to see him.
-- 'That is true, it is dreary in an empty apartment.' Kostya agrees completely. He admits that living alone can be quite miserable.
-- 'After all there is nothing worse than terrible loneliness.' Max speaks from his recent experience of sleeping alone in the dining room. He shudders at the thought.
-- 'Together we will definitely have more fun living!' Kostya looks forward to their time as roommates. He expects them to have a great time.
-- 'Now we are real roommates and friends.' Max officially declares their new status. He is happy to share a living space with someone he trusts.
-- 'Let us drink tea and rest.' Kostya suggests a cozy end to the evening. He invites Max to sit down and relax.
-- 'It is good when you have a real home!' Max smiles as he finally feels secure. He ends the day appreciating the roof over his head.
+- 'Come in, Max, make yourself at home.' "Zakhodi", 'come in', is what you'd say to a friend at the door. "Chuvstvuy sebya kak doma" is literally 'feel yourself as at home'.
+- 'Thank you, Kostya, you saved me today.' "Spas" is the man's past of spasti, to save. "Spasibo" itself comes from spasi "Bog", 'God save'.
+- 'We are friends, and friends always help each other.' Drug drugu, 'each other', is literally 'friend to friend'. Since you help 'to' someone, the second drug becomes drugu.
+- 'Today I realized one very important thing.' Ponyal can mean 'understood' or 'realised'. "Veshch'", a thing, is feminine, which is why 'one' becomes odnu here.
+- 'What thing did you realize, philosopher?' "Kakuyu", 'which', agrees with veshch' as the object. "Filosof" is a gentle tease.
+- 'Whatever might happen to you during the day...' "Chto" by ni, 'whatever', takes ni, not ne, though people often write it wrong. "Dnyom", 'during the day', is den' used as a time word, like noch'yu.
+- 'The main thing is to have somewhere to return in the evening.' "Glavnoye", 'the main thing', is glavnyy from the chef's 'main lesson'. "Bylo kuda vernut'sya" is 'there was where to return', with no 'should'.
+- 'Return to where you are sincerely welcomed.' Tebe rady, 'they are glad to you', is how Russians say 'you are welcome'. "Tuda", gde, 'to there where', is how 'to where' works.
+- 'That is true, it is dreary in an empty apartment.' "Tosklivo", 'dreary', comes from toska, longing or melancholy. After v, 'in', pustaya kvartira becomes pustoy kvartire.
+- 'After all there is nothing worse than terrible loneliness.' "Khuzhe", 'worse', is the irregular comparative of plokho. After khuzhe, the thing compared takes 'of' endings: strashnogo odinochestva.
+- 'Together we will definitely have more fun living!' "Vdvoyom", 'the two of us together', is one word built on dva, two. "Veseleye", 'more fun', is the comparative of veselo.
+- 'Now we are real roommates and friends.' "Sosedi" means neighbours, and for people sharing a flat it means flatmates. "Nastoyashchiye", 'real', ends in -iye to match both nouns.
+- 'Let us drink tea and rest.' With davay and a 'to' form, as in davay pit', you get another kind of 'let's'. "Otdykhat'" means to rest or relax.
+- 'It is good when you have a real home!' "Khorosho", kogda, 'it's good when', works for sharing any feeling. And u tebya yest', 'at you there is', stands in for 'you have'.

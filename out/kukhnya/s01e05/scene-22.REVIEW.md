@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Макс | Рыба почти готова на горячей сковороде. | The fish is almost ready on the hot pan. | new | new |
 | 3 | Федя | Отлично, аккуратно переложи рыбу на тарелку. | Great, carefully transfer the fish to the plate. | new | new |
 | 4 | Макс | Я добавляю свежую зелень и соус. | I add fresh greens and sauce. | new | new |
-| 5 | Федя | Молодец, не торопись. | Well done, take your time. | #313: Молодец. Не торопись. | verbatim |
+| 5 | Федя | Молодец, не торопись. | Well done, take your time. | #313 00:22:58: Молодец. Не торопись. | verbatim |
 | 6 | Федя | Каждое блюдо должно выглядеть красиво. | Each dish must look beautiful. | new | new |
 | 7 | Макс | Вдох и выдох, я спокоен. | Inhale and exhale, I am calm. | new | new |
 | 8 | Федя | Видишь, паника исчезает сама собой. | See, the panic disappears by itself. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Like that, Max, keep the right rhythm.' Fedya monitors Max at the station and sets a steady pace.
-- 'The fish is almost ready on the hot pan.' Max keeps track of the cooking fish with focused attention.
-- 'Great, carefully transfer the fish to the plate.' Fedya guides the rookie through the delicate plating process.
-- 'I add fresh greens and sauce.' Max completes the garnishing according to the kitchen's strict standard.
-- 'Well done, take your time.' Fedya praises Max's focus and reminds him not to rush under pressure.
-- 'Each dish must look beautiful.' The experienced chef highlights the importance of visual presentation.
-- 'Inhale and exhale, I am calm.' Max uses the breathing technique to keep his stress under control.
-- 'See, the panic disappears by itself.' Fedya observes the young cook settling into a smooth flow.
-- 'Now I control this entire process.' Max feels genuine confidence returning as he manages the station.
-- 'This order is ready to serve.' Fedya checks the completed plate and gives his professional approval.
-- 'The waiter can already take the plate.' Max announces that the hot dish is ready for the dining room.
-- 'You are doing great on the shift today.' Fedya acknowledges the rookie's perseverance and progress.
-- 'Thank you, Fedya, I am ready for work!' Max expresses his gratitude and looks ahead to the remaining orders.
+- 'Like that, Max, keep the right rhythm.' "Ritm" is borrowed, so it's easy to catch. "Derzhi", 'hold', also covers keeping a beat or a pace.
+- 'The fish is almost ready on the hot pan.' "Gotova" has -a because "ryba" is feminine. After "na", the pan, "skovoroda", takes -e: "na goryachey skovorode".
+- 'Great, carefully transfer the fish to the plate.' "Perelozhi" starts with "pere-", 'across', so it's 'lay over'. "Rybu", the fish being moved, has -u, and so does "na tarelku", where it goes.
+- 'I add fresh greens and sauce.' "Zelen", 'greens' or 'herbs', is simply "zelyonyy", 'green', turned into a thing. "Dobavlyayu", 'I add', has the 'I' form -yu.
+- 'Well done, take your time.' "Molodets" is the warm 'good job' you give someone younger or junior. "Ne toropis", 'don't hurry', ends in -s, the short form of -sya.
+- 'Each dish must look beautiful.' "Dolzhno" ends in -o to match "blyudo", which is neuter. "Krasivo" is the adverb, so Russian literally says 'look beautifully'.
+- 'Inhale and exhale, I am calm.' "Vdokh i vydokh" come back from Fedya's lesson. "Spokoen", 'calm', is the short form for a man; Nastya would say "spokoyna".
+- 'See, the panic disappears by itself.' "Vidish", 'you see', is the usual 'see?'. "Sama soboy", literally 'itself by itself', means 'on its own', and "sama" is feminine to match "panika".
+- 'Now I control this entire process.' "Kontroliruyu" and "protsess" are borrowed, with Russian endings. "Ves etot", 'all this', piles up two words before "protsess".
+- 'This order is ready to serve.' "Gotov" has no ending because "zakaz" is masculine. "K podache", 'for serving', uses the noun "podacha", after "k" with the dative -e.
+- 'The waiter can already take the plate.' "Mozhet" is 'he can', and "zabirat" is to come and take something away. "Tarelku", the plate being taken, ends in -u.
+- 'You are doing great on the shift today.' "Spravlyaeshsya", 'you're coping', is how Russians praise someone's work. "Na smene", 'on the shift', has the place ending -e.
+- 'Thank you, Fedya, I am ready for work!' Max answers with the same "gotov k rabote" he gave Barinov earlier. This time he sounds as if he means it.

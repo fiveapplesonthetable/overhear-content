@@ -417,10 +417,9 @@ class T(unittest.TestCase):
             if not g.is_file(): continue
             ex = v.explanations(json.loads(g.read_text(encoding="utf-8"))["segments"])
             self.assertGreaterEqual(sum(v.teaches(e) for _, _, e in ex) / len(ex), v.TEACH_MIN_SHARE, g.name)
-        draft = ROOT / "out" / "kukhnya" / "s01e07" / "scene-05.json"
-        if draft.is_file():
-            ex = v.explanations(json.loads(draft.read_text(encoding="utf-8"))["segments"])
-            self.assertLess(sum(v.teaches(e) for _, _, e in ex) / len(ex), 0.3)
+        draft = ROOT / "tests" / "fixtures" / "draft-kukhnya-s01e07-scene-05.json"    # frozen copy of the plot-only draft (origin/main before the rewrite)
+        ex = v.explanations(json.loads(draft.read_text(encoding="utf-8"))["segments"])
+        self.assertLess(sum(v.teaches(e) for _, _, e in ex) / len(ex), 0.3)
 
     def phrase_run(self, texts, show="kukhnya"):
         v.PHRASE_SEEN.clear(); rep = v.Report()
