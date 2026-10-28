@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's not all, listen on.' 'Still not all' is the Russian for 'that's not all'. 'Further' is one word on its own.
-- 'What other secret will you show me?' 'What other' is made with 'which' and 'else'. 'You'll show' carries 'esh', the casual 'you'.
-- 'Now I'll show you a new trick.' 'Trick' is the word for a conjuring trick. 'I'll show' changes its 'z' into 'zh'.
-- 'In short, first you take a clean glass.' 'Shorter' is used here for 'in short'. 'You take' is general, so 'you' means anyone.
-- 'Okay, I took a big, beautiful glass.' 'Took' ends in the masculine 'l'. 'Big' and 'beautiful' have matching endings.
-- 'Now imagine I'm a rich guest.' 'Imagine' is a casual command. There is no 'am', just 'I rich guest'.
-- 'What would you like to order this evening?' 'Wish to order' is the waiter's polite way of asking. 'This evening' is two words.
-- 'Pour me fifty grams of expensive cognac.' 'Pour' is a command, and the number takes the 'of' form of 'grams'. 'Expensive' and 'cognac' both take the 'of' endings.
-- 'Excellent choice, everything will be done right away.' 'Will be done' is a neuter form, because it agrees with 'everything'. 'Right away' is a very handy word.
-- 'But pour the cheap cognac, not the expensive one!' The pattern is 'not X, but Y', with 'a' marking the second part. Cheap cognac is the real order.
-- 'Do you think the guest won't notice anything at all?' Russian stacks the negatives: 'at all', 'nothing' and 'not'. The guest is 'the guest', with no 'a'.
-- 'Believe me, nobody will feel the difference!' 'Believe' takes 'to me', not 'me'. 'Nobody' and 'not' appear together.
+- 'That's not all, keep listening.' "Eshchyo ne vsyo", literally 'still not all'. "Slushay dalshe", listen further, means 'there's more'.
+- 'What other secret are you going to show me?' "Kakoy eshchyo" means 'what other', a bit wary. "Pokazhesh" ends in "-esh" because Kostya says "ty" to Max.
+- 'Now I'll show you a new trick.' A "fokus" is a magic trick, not focus. In "pokazhu", I'll show, the 'z' of "pokazat" turns into 'zh'.
+- 'Anyway, first you take a clean glass.' "Koroche" is literally 'shorter', meaning 'long story short'. "Beryosh", you take, is the general 'you' of instructions.
+- 'Okay, I've got a big, beautiful glass.' "Vzyal", took, ends in "-l", the past tense for a man. A "bokal" is a stemmed glass, fancier than a "stakan".
+- 'Now imagine I'm a rich guest.' "Predstav" is a command to one friend: imagine. Present tense has no 'am', so it's just 'that I rich guest'.
+- 'What would you like to order this evening?' In the role-play Kostya switches to the polite "vy": "chto vy zhelaete", what do you wish, is waiter talk.
+- 'Pour me fifty grams of expensive cognac.' "Nalei" is the command 'pour'. After fifty you get "gramm", and the cognac takes 'of' endings: "dorogogo konyaka".
+- 'Excellent choice, it'll be done right away.' "Budet sdelano", will be done, ends in 'o' to agree with "vsyo", everything. Bartenders really say it.
+- 'But don't pour the expensive one, pour the cheap one!' The pattern "ne" X, "a" Y means 'not X but Y'. Here: "ne dorogoy, a deshyovyy".
+- 'You think the guest won't notice anything at all?' Three negative words in a row are normal Russian: "sovsem nichego ne zametit", literally 'at all nothing not will notice'.
+- 'Trust me, nobody will taste the difference!' "Pover mne": the verb takes "mne", to me, not 'me'. "Pochuvstvuet" means will feel, here will taste.

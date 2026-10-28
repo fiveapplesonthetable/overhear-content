@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Senya is lying in the staff room looking terrible after eating fish that was past its best, and Fedya is trying to help. His remedy is not a very medical one. We'll hear it in Russian first."
-OPENER = "Now we'll take it apart."
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "Senya collapses just as Fedya reaches for the pepper, and the scene ends on a note of alarm. Keep 'ne nado bylo' in mind, since it means 'you shouldn't have' and is useful for any mistake. See you next time!"
+INTRO = 'Senya is lying in the staff room looking terrible after eating fish that was past its best, and Fedya is trying to help. His remedy is not a very medical one. Listen for the moment it all goes wrong.'
+OPENER = 'Back to the staff room, slowly.'
+TRANSITION = 'And now the scene at full speed once more.'
+OUTRO = 'Senya collapses just as Fedya reaches for the pepper, and the scene ends on a note of alarm. Keep "ne nado bylo", you shouldn\'t have: it fits any mistake. See you next time!'
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('fedya', 'Ты выглядишь совсем плохо.', 'You look completely bad.', [(262, 'что-то совсем плохой.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Сеня, держись!', 'Senya, hold on!', [], ''),
 ]
 WALK = [
-    (0, None, "'You look really terrible.' The word for 'you look' ends in 'sh', for the casual 'you'. 'Completely bad' is how Russian says 'really terrible'."),
-    (1, None, "'Does your stomach hurt?' 'At you hurts stomach' is the pattern, with the stomach as the thing doing the hurting. The word for 'stomach' really means belly."),
-    (2, None, "'Yes, I feel really bad.' Feelings go in the 'to me' form, so it's 'to me very bad'. The word for 'bad' finishes with 'o'."),
-    (3, None, "'I told you so.' The little 'zhe' in the middle adds the sense of 'didn't I?'. The word for 'told' ends in the masculine 'l'."),
-    (4, None, "'You shouldn't have eaten the fish.' 'It wasn't necessary' is the Russian for 'you shouldn't have'. The word for 'eat' is the plain form, and 'fish' takes a 'u' ending."),
-    (5, None, "'I thought it was fine.' 'She' stands for the fish, because the word for fish is feminine. 'Thought' carries 'l', for the masculine speaker."),
-    (6, None, "'Do you know what you need to do?' The word for 'you know' ends in 'sh'. 'What to do' uses the plain form, with the word for 'necessary' before it."),
-    (7, None, "'You need to drink pepper and water.' The word for 'pepper' is short, and 'water' takes the 'u' ending. The word for 'necessary' goes in front of 'drink'."),
-    (8, None, "'Oh, I can't take any more.' 'More not can' is the word order. 'Oy' is the same little cry as in other languages."),
-    (9, None, "'Senya, what's wrong with you?' 'What with you' is the whole Russian question. 'With you' is the irregular 'toboy'."),
-    (10, None, "'Senya, open your eyes!' The word for 'open' is a command. The word for 'eyes' is plural, and the singular looks a bit different."),
-    (11, None, "'Senya, hold on!' The word is a command made from 'hold', with 'sya' on the end, so it means 'hold yourself'. Russians say it to anyone who needs to keep going."),
+    (0, None, '\'You look really bad.\' "Vyglyadish", you look, is "glyadet", to look, with "vy-", out, in front.'),
+    (1, None, '\'Does your stomach hurt?\' "U tebya bolit zhivot?", \'at you hurts belly\': the belly does the hurting.'),
+    (2, None, '\'Yes, I feel really bad.\' "Mne plokho" can also mean I feel sick or faint, not just unhappy.'),
+    (3, None, '\'I told you so.\' "Govoril" rather than "skazal": it simply states that the warning was given.'),
+    (4, None, '\'You shouldn\'t have eaten the fish.\' "Ne nado bylo", \'not needed it was\'. "Bylo", was, puts the whole thing in the past.'),
+    (5, None, '\'I thought it was fine.\' "Ona", she, stands for the fish, since "ryba" is feminine. "Normalnaya" here just means okay.'),
+    (6, None, '\'Do you know what to do?\' "Znaesh?", you know?, becomes a question just by the voice going up. "Delat" is to do.'),
+    (7, None, '\'You need to drink pepper and water.\' "Voda", water, becomes "vodu" as the thing you drink. "Perets", pepper, stays as it is.'),
+    (8, None, '\'Oh, I can\'t take any more.\' "Bolshe ne mogu", \'more not I can\': I can\'t go on.'),
+    (9, None, '\'Senya, what\'s wrong with you?\' "Chto s toboy?", \'what with you?\', is how you ask what\'s the matter.'),
+    (10, None, '\'Senya, open your eyes!\' "Otkroy", open!, is said to one person. One eye is "glaz"; two are "glaza".'),
+    (11, None, '\'Senya, hold on!\' "Derzhis" is "derzhat", to hold, with "-sya": \'hold yourself\'. You can say it to anyone struggling.'),
 ]

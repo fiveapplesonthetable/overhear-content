@@ -21,19 +21,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Шеф | Да, я хорошо помню это время. | Yes, I remember that time well. | new | new |
 | 10 | Нагиев | В общем, прошу любить и жаловать. | In short, please welcome and respect her. | #259 00:15:46: В общем, прошу любить и жаловать | verbatim |
 | 11 | Нагиев | Вот ваше новое начальство. | Here is your new boss. | #260 00:15:48: Ваше новое начальство | verbatim |
-| 12 | Шеф | Добро пожаловать, Кристина Семёновна. | Welcome, Kristina Semyonovna. | new | new |
+| 12 | Шеф | Ну, добро пожаловать, Кристина. | Well, welcome, Kristina. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you mean?' The Russian is literally 'in the sense?', two words that work as a whole question. It's a short phrase you can use anywhere.
-- 'Well, in the literal sense.' 'Direct' also means 'straight', so the phrase is literally 'in the straight sense'. Nagiyev says it with a flourish.
-- 'She is smart and beautiful.' Both words end in 'aya', the feminine ending, since Kristina is a woman. There's no word for 'is'.
-- 'But it's a hard job.' The little word 'ved' means 'but, you know'. 'Hard' finishes with 'aya' to agree with the feminine word for work.
-- 'She studied restaurant management.' 'Management' is the word for managing with 'enie' on the end, which turns an action into a thing. 'Restaurants' takes a plural 'ami' ending.
-- 'And then she worked here.' 'And then' is two small words. 'Worked' carries 'a', since it is about a woman.
-- 'Did she work in our restaurant?' Both 'our' and 'restaurant' take the 'e' ending after 'in'. The question comes from the tone, not the word order.
-- 'Yes, she worked here for a whole year.' The word for 'whole' has a masculine ending, and Russian needs no word for 'for' with a length of time.
-- 'Yes, I remember that time well.' 'I remember' ends in 'u'. 'Time' is a neuter word, so 'that' finishes with 'o'.
-- 'In short, please welcome and respect her.' The phrase is a set one, literally 'I ask you to love and favour'. Russians use it when they introduce a new person.
-- 'Here is your new boss.' 'Bosses' is a group word and is neuter, so 'new' carries 'oe'. 'Here' points at Kristina.
-- 'Welcome, Kristina.' The words for 'welcome' make a set greeting, and the name used is her first name and patronymic. It is a formal and slightly nervous welcome.
+- 'What do you mean?' "V smysle?", 'in the sense?', is how Russians ask you to explain yourself.
+- 'Well, literally.' "V pryamom smysle", 'in the direct sense'. "Pryamoy" also means straight.
+- 'She's smart and beautiful.' "Umnaya" and "krasivaya" both end in "-aya", for a woman.
+- 'But it's a hard job, isn't it?' "Ved" pushes for agreement: 'you know it is'. "Rabota", work, is feminine, so hard is "slozhnaya".
+- 'She studied restaurant management.' "Upravlenie", management, is "upravlyat", to run, turned into a thing. "Restoranami", of restaurants, keeps the 'by' form that "upravlyat" asks for.
+- 'And then she worked here.' "Rabotala", she worked: the "-la" on the end says a woman did it.
+- 'She worked in our restaurant?' "V nashem restorane": after "v", in, both words shift, "nash" to "nashem", "restoran" to "restorane".
+- 'Yes, she worked here a whole year.' "Tselyy god", a whole year. Russian needs no word for 'for' with a stretch of time.
+- 'Yes, I remember that time well.' "Vremya", time, looks feminine but is neuter, so 'that' is "eto".
+- 'Anyway, please make her welcome.' "Proshu lyubit i zhalovat", 'I ask you to love and favour', is a set phrase for introducing someone new.
+- 'Here's your new boss.' "Nachalstvo" means the bosses, the management, as one neuter word, so new is "novoe". "Vashe", your, speaks to the whole staff.
+- 'Well, welcome, Kristina.' "Dobro pozhalovat" is the fixed welcome. The "nu" in front makes it sound reluctant.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You look really terrible.' The word for 'you look' ends in 'sh', for the casual 'you'. 'Completely bad' is how Russian says 'really terrible'.
-- 'Does your stomach hurt?' 'At you hurts stomach' is the pattern, with the stomach as the thing doing the hurting. The word for 'stomach' really means belly.
-- 'Yes, I feel really bad.' Feelings go in the 'to me' form, so it's 'to me very bad'. The word for 'bad' finishes with 'o'.
-- 'I told you so.' The little 'zhe' in the middle adds the sense of 'didn't I?'. The word for 'told' ends in the masculine 'l'.
-- 'You shouldn't have eaten the fish.' 'It wasn't necessary' is the Russian for 'you shouldn't have'. The word for 'eat' is the plain form, and 'fish' takes a 'u' ending.
-- 'I thought it was fine.' 'She' stands for the fish, because the word for fish is feminine. 'Thought' carries 'l', for the masculine speaker.
-- 'Do you know what you need to do?' The word for 'you know' ends in 'sh'. 'What to do' uses the plain form, with the word for 'necessary' before it.
-- 'You need to drink pepper and water.' The word for 'pepper' is short, and 'water' takes the 'u' ending. The word for 'necessary' goes in front of 'drink'.
-- 'Oh, I can't take any more.' 'More not can' is the word order. 'Oy' is the same little cry as in other languages.
-- 'Senya, what's wrong with you?' 'What with you' is the whole Russian question. 'With you' is the irregular 'toboy'.
-- 'Senya, open your eyes!' The word for 'open' is a command. The word for 'eyes' is plural, and the singular looks a bit different.
-- 'Senya, hold on!' The word is a command made from 'hold', with 'sya' on the end, so it means 'hold yourself'. Russians say it to anyone who needs to keep going.
+- 'You look really bad.' "Vyglyadish", you look, is "glyadet", to look, with "vy-", out, in front.
+- 'Does your stomach hurt?' "U tebya bolit zhivot?", 'at you hurts belly': the belly does the hurting.
+- 'Yes, I feel really bad.' "Mne plokho" can also mean I feel sick or faint, not just unhappy.
+- 'I told you so.' "Govoril" rather than "skazal": it simply states that the warning was given.
+- 'You shouldn't have eaten the fish.' "Ne nado bylo", 'not needed it was'. "Bylo", was, puts the whole thing in the past.
+- 'I thought it was fine.' "Ona", she, stands for the fish, since "ryba" is feminine. "Normalnaya" here just means okay.
+- 'Do you know what to do?' "Znaesh?", you know?, becomes a question just by the voice going up. "Delat" is to do.
+- 'You need to drink pepper and water.' "Voda", water, becomes "vodu" as the thing you drink. "Perets", pepper, stays as it is.
+- 'Oh, I can't take any more.' "Bolshe ne mogu", 'more not I can': I can't go on.
+- 'Senya, what's wrong with you?' "Chto s toboy?", 'what with you?', is how you ask what's the matter.
+- 'Senya, open your eyes!' "Otkroy", open!, is said to one person. One eye is "glaz"; two are "glaza".
+- 'Senya, hold on!' "Derzhis" is "derzhat", to hold, with "-sya": 'hold yourself'. You can say it to anyone struggling.

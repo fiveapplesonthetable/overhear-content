@@ -10,16 +10,16 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'nagiyev': 'Нагиев', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Nagiyev has called in the kitchen staff to tell them they are being let go. Senya and Fedya talk it over, and then the payout arrives, and it is not what they hoped. Here's the Russian, start to finish."
-OPENER = "Let's unpack it."
-TRANSITION = 'Once more, all the way through.'
-OUTRO = "The payout is smaller than anyone expected, and the rest is promised for later. 'Raschyot' is a word for a final payment, and it is built on 'count'. See you next time!"
-CLOSING = ('nagiyev', 'Пока!')
+INTRO = 'Nagiyev has called in the kitchen staff to tell them they are being let go. Senya and Fedya talk it over, and then the payout arrives, and it is not what they hoped. Listen for the amount in the envelope.'
+OPENER = 'Now the bad news, piece by piece.'
+TRANSITION = 'And the whole farewell once more.'
+OUTRO = 'The payout is smaller than anyone expected, and the rest is promised for later. Keep "raschyot", final pay, from "schitat", to count. See you next time!'
+CLOSING = ('nagiyev', 'Удачи!')
 STORY = [
     ('nagiyev', 'Ребята, нам придётся расстаться с вами.', 'Guys, we will have to part ways with you.', [(358, 'нам придётся расстаться с вами')], ''),
     ('senya', 'Куда вы собрались так рано?', 'Where are you off to so early?', [], ''),
     ('fedya', 'Нас уволили.', 'We got fired.', [(366, 'Нас уволили')], ''),
-    ('senya', 'Как уволили? Тебя тоже?', 'How fired? You too?', [(367, 'Тебя, кстати, тоже')], ''),
+    ('senya', 'Как уволили? И меня тоже?', 'What do you mean, fired? Me too?', [(367, 'Тебя, кстати, тоже')], ''),
     ('fedya', 'Да, мы все уходим.', 'Yes, we are all leaving.', [], ''),
     ('senya', 'А что сказал шеф?', 'And what did the chef say?', [(369, 'а шеф')], ''),
     ('fedya', 'Шеф ничего не сделал.', 'The chef did nothing.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nagiyev', 'Остальное будет в конце месяца.', 'The rest will be at the end of the month.', [(376, 'Остальное в конце месяца')], ''),
 ]
 WALK = [
-    (0, None, "'Guys, we'll have to part with you.' 'We'll have to' is an impersonal word, with no subject. 'Part' ends in 'sya', so it means 'separate from each other'."),
-    (1, None, "'Where are you off to so early?' 'Set off' is built from 'gather', plus 'sya'. 'So early' is two small words."),
-    (2, None, "'We got fired.' Russian puts 'us' first, then 'they fired'. The ending 'li' stands for an unnamed 'they'."),
-    (3, None, "'How, fired? You too?' 'How' is used here as 'what?'. 'You too' needs the 'a' ending on 'you'."),
-    (4, None, "'Yes, we're all leaving.' 'Leave' is the ongoing kind, a going away. 'All' goes before it."),
-    (5, None, "'And what did the chef say?' The opening 'a' means 'and' with a hint of contrast. 'Said' ends in the masculine 'l'."),
-    (6, None, "'The chef did nothing.' 'Nothing' and 'not' appear together. 'Did' is the completed kind of 'do'."),
-    (7, None, "'Now we are out of work.' 'Without' brings in the 'of' form, so 'work' changes its ending. There's no 'are'."),
-    (8, None, "'What do we do now?' 'To us' stands in for 'we', and 'to do' is the plain form. 'Now' sits in the middle."),
-    (9, None, "'I don't know, let's go home.' 'We'll go' works as 'let's go'. 'Home' as a direction is a single word."),
-    (10, None, "'Here is your payout.' 'Payout' is built on 'count', and means a final settlement. 'Here' points at the envelope."),
-    (11, None, "'Only twenty thousand?' 'Only' goes at the front. After 'twenty', 'thousand' takes the 'of' plural."),
-    (12, None, "'The rest will be at the end of the month.' 'The rest' is a neuter word used as a noun. 'At the end of the month' uses two endings, 'e' and 'a'."),
+    (0, None, '\'Guys, we\'ll have to part with you.\' "Nam pridyotsya", \'to us it will come\': we\'ll have to. "Rasstatsya s vami", to part with you.'),
+    (1, None, '\'Where are you all off to so early?\' "Kuda" is where to; where at would be "gde". "Sobralis", set off, is literally \'gathered yourselves\'.'),
+    (2, None, '\'We got fired.\' "Uvolili", they fired, names nobody: someone fired "nas", us.'),
+    (3, None, '\'What do you mean, fired? Me too?\' "Kak uvolili?", \'how fired?\', is how Russians question bad news.'),
+    (4, None, '\'Yes, we\'re all leaving.\' "Vse", everyone, is different from "vsyo", everything. "Ukhodim", we\'re leaving: "u-" again means away.'),
+    (5, None, '\'And what did the chef say?\' "A" opens a new question: and what about. "Shef" came from French.'),
+    (6, None, '\'The chef did nothing.\' "Nichego ne sdelal", \'nothing not did\': the double \'not\' is normal Russian.'),
+    (7, None, '\'Now we\'re out of work.\' "Bez", without, turns "rabota" into "raboty".'),
+    (8, None, '\'What do we do now?\' "Chto nam delat?", \'what to us to do?\': the "nam" carries the \'we\'.'),
+    (9, None, '\'I don\'t know, let\'s go home.\' "Poydyom", let\'s go. "Domoy" is homeward; at home is "doma".'),
+    (10, None, '\'Here\'s your pay-off.\' "Raschyot", the final pay, comes from "schitat", to count: everything is settled up.'),
+    (11, None, '\'Only twenty thousand?\' "Dvadtsat" is "dva", two, plus a worn-down \'ten\': two tens.'),
+    (12, None, '\'The rest will come at the end of the month.\' "Ostalnoe", the rest, from "ostatsya", to remain. "V kontse mesyatsa", at the end of the month.'),
 ]

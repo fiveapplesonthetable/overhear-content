@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = 'Nagiyev has just announced that his wife Kristina will run the restaurant. Barinov asks what he means, and Nagiyev lists her qualifications, which turn out to include working there for a year. Russian first, no need to catch it all.'
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'Now the whole conversation once more, from start to finish.'
-OUTRO = "The staff greet their new boss, though not warmly. Notice 'upravlenie', the word for management, which is just the verb for managing with 'enie' on the end. See you next time!"
-CLOSING = ('barinov', 'Всего хорошего!')
+INTRO = 'Nagiyev has just announced that his wife Kristina will run the restaurant. Barinov asks what he means, and Nagiyev lists her qualifications, which turn out to include working there for a year. Listen for how short that list is.'
+OPENER = 'Now the list of qualifications, one by one.'
+TRANSITION = "Here's the whole introduction again, straight through."
+OUTRO = 'The staff greet their new boss, though not warmly. Keep "upravlenie", management, from "upravlyat", to run. See you next time!'
+CLOSING = ('nagiyev', 'Всего хорошего!')
 STORY = [
     ('barinov', 'В смысле?', 'What do you mean?', [(254, 'смысле?')], ''),
     ('nagiyev', 'Ну, в прямом смысле.', 'Well, in the literal sense.', [(255, 'Ну, в прямом')], ''),
@@ -27,19 +27,19 @@ STORY = [
     ('barinov', 'Да, я хорошо помню это время.', 'Yes, I remember that time well.', [], ''),
     ('nagiyev', 'В общем, прошу любить и жаловать.', 'In short, please welcome and respect her.', [(259, 'В общем, прошу любить и жаловать')], ''),
     ('nagiyev', 'Вот ваше новое начальство.', 'Here is your new boss.', [(260, 'Ваше новое начальство')], ''),
-    ('barinov', 'Добро пожаловать, Кристина Семёновна.', 'Welcome, Kristina Semyonovna.', [], ''),
+    ('barinov', 'Ну, добро пожаловать, Кристина.', 'Well, welcome, Kristina.', [], ''),
 ]
 WALK = [
-    (0, None, "'What do you mean?' The Russian is literally 'in the sense?', two words that work as a whole question. It's a short phrase you can use anywhere."),
-    (1, None, "'Well, in the literal sense.' 'Direct' also means 'straight', so the phrase is literally 'in the straight sense'. Nagiyev says it with a flourish."),
-    (2, None, "'She is smart and beautiful.' Both words end in 'aya', the feminine ending, since Kristina is a woman. There's no word for 'is'."),
-    (3, None, "'But it's a hard job.' The little word 'ved' means 'but, you know'. 'Hard' finishes with 'aya' to agree with the feminine word for work."),
-    (4, None, "'She studied restaurant management.' 'Management' is the word for managing with 'enie' on the end, which turns an action into a thing. 'Restaurants' takes a plural 'ami' ending."),
-    (5, None, "'And then she worked here.' 'And then' is two small words. 'Worked' carries 'a', since it is about a woman."),
-    (6, None, "'Did she work in our restaurant?' Both 'our' and 'restaurant' take the 'e' ending after 'in'. The question comes from the tone, not the word order."),
-    (7, None, "'Yes, she worked here for a whole year.' The word for 'whole' has a masculine ending, and Russian needs no word for 'for' with a length of time."),
-    (8, None, "'Yes, I remember that time well.' 'I remember' ends in 'u'. 'Time' is a neuter word, so 'that' finishes with 'o'."),
-    (9, None, "'In short, please welcome and respect her.' The phrase is a set one, literally 'I ask you to love and favour'. Russians use it when they introduce a new person."),
-    (10, None, "'Here is your new boss.' 'Bosses' is a group word and is neuter, so 'new' carries 'oe'. 'Here' points at Kristina."),
-    (11, None, "'Welcome, Kristina.' The words for 'welcome' make a set greeting, and the name used is her first name and patronymic. It is a formal and slightly nervous welcome."),
+    (0, None, '\'What do you mean?\' "V smysle?", \'in the sense?\', is how Russians ask you to explain yourself.'),
+    (1, None, '\'Well, literally.\' "V pryamom smysle", \'in the direct sense\'. "Pryamoy" also means straight.'),
+    (2, None, '\'She\'s smart and beautiful.\' "Umnaya" and "krasivaya" both end in "-aya", for a woman.'),
+    (3, None, '\'But it\'s a hard job, isn\'t it?\' "Ved" pushes for agreement: \'you know it is\'. "Rabota", work, is feminine, so hard is "slozhnaya".'),
+    (4, None, '\'She studied restaurant management.\' "Upravlenie", management, is "upravlyat", to run, turned into a thing. "Restoranami", of restaurants, keeps the \'by\' form that "upravlyat" asks for.'),
+    (5, None, '\'And then she worked here.\' "Rabotala", she worked: the "-la" on the end says a woman did it.'),
+    (6, None, '\'She worked in our restaurant?\' "V nashem restorane": after "v", in, both words shift, "nash" to "nashem", "restoran" to "restorane".'),
+    (7, None, '\'Yes, she worked here a whole year.\' "Tselyy god", a whole year. Russian needs no word for \'for\' with a stretch of time.'),
+    (8, None, '\'Yes, I remember that time well.\' "Vremya", time, looks feminine but is neuter, so \'that\' is "eto".'),
+    (9, None, '\'Anyway, please make her welcome.\' "Proshu lyubit i zhalovat", \'I ask you to love and favour\', is a set phrase for introducing someone new.'),
+    (10, None, '\'Here\'s your new boss.\' "Nachalstvo" means the bosses, the management, as one neuter word, so new is "novoe". "Vashe", your, speaks to the whole staff.'),
+    (11, None, '\'Well, welcome, Kristina.\' "Dobro pozhalovat" is the fixed welcome. The "nu" in front makes it sound reluctant.'),
 ]

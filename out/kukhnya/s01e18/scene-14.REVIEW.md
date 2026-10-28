@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My husband and I have discussed things.' Russian says 'we with Dima' for 'Dima and I', and she uses a pet form for her husband's name. 'Matters' is a very common word, here in the plural.
-- 'I have a good idea.' 'At me there is' stands for 'I have'. 'Idea' is borrowed, with the feminine ending 'ya'.
-- 'How to make the restaurant better.' 'How' plus the plain 'to make' means 'how to make'. 'Better' is one word, and the same word works for 'better' in every sentence.
-- 'But first I want to talk to you.' 'First' is one word on its own, and 'with you' is a little word and 'vami'. Kristina uses the polite 'you', which she'll keep for the whole scene.
-- 'Only with you, Viktor Petrovich.' Using both his first name and his patronymic is how you speak to someone with respect. 'Only' sits in front of 'with you'.
-- 'If you don't mind?' Russians say 'if you are not against'. It's a polite way to ask someone to step out.
-- 'Yes, of course, I don't mind.' Vika echoes the phrase 'I'm not against'. 'Of course' has a 'sh' sound in the middle.
-- 'Excellent, I'm listening.' 'Excellent' is a long word that finishes with 'o'. 'I listen' carries 'yu'.
-- 'I've looked at the staff's salaries.' The 'a' on 'looked' is the mark of a woman. 'Salary' is glued together from 'work' and 'pay'.
-- 'We need to make cuts.' 'Cuts' really means 'dismissals', and is built from the verb 'to release'. 'We need' is 'to us necessary'.
-- 'What are you talking about?' 'About what' uses the little word 'o' and an 'e' ending. 'You speak' is the polite plural.
-- 'Vika earns a lot of money.' 'Gets' is the word for receiving a salary. After 'a lot', 'money' takes the 'of' form.
+- 'Dima and I have discussed things.' Russian says "my s Dimoy", 'we with Dima'. "Dela", affairs, covers business of every kind.
+- 'I have a good idea.' "U menya est", 'at me there is': I have. "Ideya" is easy to recognise.
+- 'How to make the restaurant better.' "Luchshe", better, comes from "khorosho", good, with no 'more' needed.
+- 'But first I want to talk to you.' "Snachala", first, at the start. "S vami", with you, is the polite 'you'.
+- 'Only with you, Viktor Petrovich.' First name plus father's name, with "-ovich" meaning 'son of', is the respectful way to address someone.
+- 'If you don't mind?' "Esli vy ne protiv", 'if you're not against': a polite way to ask someone to step out.
+- 'Yes, of course, I don't mind.' "Konechno", of course, is usually said "koneshno", with a 'sh'.
+- 'Wonderful, I'm listening.' "Zamechatelno" comes from "zamechat", to notice: something worth noticing.
+- 'I've looked at the staff salaries.' "Zarplata" is short for "zarabotnaya plata", earned pay. "Posmotrela" ends in "-la": a woman speaking.
+- 'We need to make cuts.' "Uvolneniya" means dismissals, from "uvolit", to fire. "Nam nuzhno", 'to us needed'.
+- 'What are you talking about?' "O chyom", about what: after "o", "chto" turns into "chyom".
+- 'Vika earns a lot of money.' "Poluchaet", gets, is how you say someone is paid. After "mnogo", "dengi" becomes "deneg".

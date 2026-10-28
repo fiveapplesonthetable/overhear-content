@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We've been fired from the restaurant.' 'Fired' has the plural 'li'. 'From' takes the 'a' form of the restaurant.
-- 'At least we have somewhere to live.' 'At least' is built as 'by the least extent'. 'To us there is where to live' is the pattern.
-- 'We fall and suffer from pain.' 'We fall' and 'we suffer' both end in 'em'. 'From pain' needs a small word and an 'i' ending on 'pain'.
-- 'And then we get up and go on.' Two 'we' forms side by side. 'Further' closes the line.
-- 'And will it go on like this forever?' 'Go on' finishes with 'sya', so it means 'goes on by itself'. 'Forever' is built from 'without end'.
-- 'Life is always full of hard moments.' 'Full' has a feminine ending, because 'life' is feminine. 'Moments' takes the 'of' plural, and so does 'hard'.
-- 'Maybe it's time to watch our step?' 'Look under the feet' is how Russians say 'watch your step'. 'Maybe' and 'time' are two small words.
-- 'You're right, we need to be more careful.' 'Right' is a short masculine form. 'More careful' is made with the ending 'ee'.
-- 'Tomorrow we'll start looking for new work.' 'Will begin' is an action seen as complete. 'Look for' takes the plain form, and 'work' takes a 'u' ending.
-- 'Everything will definitely work out for us.' 'Work out' means 'get obtained', and carries 'sya'. 'For us' is 'at us'.
-- 'The main thing is that we're not giving up.' 'Give up' ends in 'sya', meaning 'surrender oneself'. The 'main thing' comes from 'head'.
-- 'I believe in us.' 'Believe in' takes the small word for 'in', followed by 'us'. A short ending line for the episode.
+- 'We've been fired from the restaurant.' "Iz", out of, turns "restoran" into "restorana".
+- 'At least we have somewhere to live.' "Po kraynei mere", 'by the extreme measure': at least. "Nam est gde zhit", 'to us there is where to live'.
+- 'We fall and suffer from pain.' "Ot boli", from pain: after "ot", "bol" becomes "boli".
+- 'And then we get up and keep going.' "Vstayom", we get up. "Idyom dalshe", literally 'we go further'.
+- 'And will it go on like this forever?' "Beskonechno", endlessly, is "bez", without, plus "konets", end.
+- 'Life is always full of hard moments.' "Zhizn", life, is feminine, so full is "polna". What it's full of takes the 'of' form: "trudnykh momentov".
+- 'Maybe it's time to watch our step?' "Pora", it's time. "Smotret pod nogi", 'look under the feet': watch where you're going.
+- 'You're right, we need to be more careful.' "Prav", right; to a woman it's "prava". The "-ee" in "ostorozhnee" does the job of 'more'.
+- 'Tomorrow we'll start looking for new work.' "Nachnyom", we'll start, is followed by the plain "iskat", to look for.
+- 'It'll definitely all work out for us.' "Obyazatelno" here means for sure, not obligatory. "Poluchitsya", will work out.
+- 'The main thing is we're not giving up.' "Glavnoe", the main thing, comes from "glava", head. "Sdayomsya", we give up, is literally 'we hand ourselves over'.
+- 'I believe in us.' "Verit v", to believe in, uses "v", in, just like English.

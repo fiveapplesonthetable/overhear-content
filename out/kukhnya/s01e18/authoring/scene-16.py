@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Kostya walks up to Barinov's table at the restaurant with a plan: swap the wrong bottle for a safe one without explaining why. Barinov has no patience for it. Let's hear how it sounds in Russian."
-OPENER = 'Now for a closer look.'
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "Kostya has to go away empty-handed, and the chef is left with the bottle. Remember 'idi otsyuda', literally 'go from here', which is a rude way to tell someone to leave. See you next time!"
-CLOSING = ('barinov', 'Пока!')
+INTRO = "Kostya walks up to Barinov's table at the restaurant with a plan: swap the wrong bottle for a safe one without explaining why. Barinov has no patience for it. Listen for how fast the chef runs out of it."
+OPENER = 'Now the bottle swap, up close.'
+TRANSITION = 'Now hear him get sent packing, start to end.'
+OUTRO = 'Kostya has to go away empty-handed, and the chef is left with the bottle. Remember "idi otsyuda", \'go from here\', a rude way to tell someone to leave. See you next time!'
+CLOSING = ('kostya', 'Всего хорошего!')
 STORY = [
     ('kostya', 'Извините, приятного вам вечера.', 'Excuse me, have a pleasant evening.', [(295, 'Извини, приятного вечера.')], ''),
     ('barinov', 'Что тебе нужно от меня?', 'What do you need from me?', [(296, 'Че тебе надо?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Хорошо, извините, я пойду.', 'All right, sorry, I will go.', [], ''),
 ]
 WALK = [
-    (0, None, "'Excuse me, have a pleasant evening.' The wish is 'of pleasant evening', with the 'ogo' and 'a' endings. 'Excuse me' is the polite word."),
-    (1, None, "'What do you need from me?' Barinov uses the casual 'you', and 'what to you needed' is the order. 'From me' is a little word and the 'menya' form."),
-    (2, None, "'I need this bottle.' 'Needed' finishes with 'a' to match 'bottle', which is feminine. For a masculine thing, it would be 'nuzhen'."),
-    (3, None, "'What are you talking about?' 'About what' is written as two words and said as one. 'You speak' carries 'sh'."),
-    (4, None, "'I'll take this bottle.' 'I will take' is an irregular word. 'This bottle' ends in 'u', as it is being taken."),
-    (5, None, "'And I'll put another one down for you.' Russian says 'put' with a word that means to stand something up. 'For you' is the polite form."),
-    (6, None, "'Don't you have anything better to do?' 'Nothing to do' is one word plus the plain 'do'. The 'chto' in the middle is a filler like 'what, ...?'."),
-    (7, None, "'No, I just want to give you another one.' 'Just' is the word you hear everywhere. 'Another' finishes with 'uyu' for the feminine bottle."),
-    (8, None, "'Don't touch anything, get out of here!' A negative command uses the ongoing form of 'touch'. 'From here' is one word."),
-    (9, None, "'But I have to take it.' 'Must' carries 'en', for a man. 'It' is 'her' in Russian, because the bottle is feminine."),
-    (10, None, "'I said, get out of here!' 'Said' ends in 'l', for the masculine speaker. Barinov repeats himself because he isn't obeyed."),
-    (11, None, "'All right, sorry, I'll go.' 'I'll go' is a plain future form. 'Sorry' is 'excuse me' once more."),
+    (0, None, '\'Excuse me, have a pleasant evening.\' A wish hides an unspoken \'I wish you\', so the evening takes the \'of\' endings: "priyatnogo vechera".'),
+    (1, None, '\'What do you want from me?\' "Chto tebe nuzhno?", \'what to you is needed?\'. "Ot menya", from me.'),
+    (2, None, '\'I need this bottle.\' "Nuzhna" matches the bottle, which is feminine; for a knife it would be "nuzhen".'),
+    (3, None, '\'What are you on about?\' To the bartender the chef says "ty govorish"; to the new boss it was "vy govorite".'),
+    (4, None, '\'I\'ll take this bottle.\' "Vozmu", I\'ll take, belongs to "vzyat", even though the two look quite different.'),
+    (5, None, '\'And I\'ll put another one out for you.\' "Postavlyu" is literally \'I\'ll stand\': bottles are stood, not laid. "Vam", for you, is polite.'),
+    (6, None, '\'Have you got nothing better to do?\' "Nechego delat", nothing to do: "ne" and "chego" fused into one word.'),
+    (7, None, '\'No, I just want to give you another one.\' "Prosto", just, simply. "Dat", to give.'),
+    (8, None, '\'Don\'t touch anything, get out of here!\' Russian stacks the \'not\': "ne trogay nichego", \'don\'t touch nothing\'. "Otsyuda", from here.'),
+    (9, None, '\'But I have to take it.\' "Eyo", her: the bottle is a she in Russian.'),
+    (10, None, '\'I said, get out!\' "Idi", go!, is the friendly-form command from "idti", to go on foot. Said twice, it\'s an order.'),
+    (11, None, '\'All right, sorry, I\'ll go.\' "Izvinite" is the polite sorry; to a friend it would be "izvini".'),
 ]
