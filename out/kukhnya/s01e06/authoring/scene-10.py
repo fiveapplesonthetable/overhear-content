@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Panic strikes Claude Monet as word spreads that a health inspector has just entered the restaurant. Chef Viktor Barinov and his faithful sous-chef Lyova scramble across the kitchen, shouting orders to hide violations before the doors open. Let's listen to their frantic exchange in Russian first."
-OPENER = "Let's examine how the kitchen staff organizes a rapid emergency cleanup."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how Russian restaurant staff urgently cleans up before a health check. Listen for these fast-paced commands next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'to throw' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "The word has reached the kitchen: the sanitary inspector is in the building. Barinov and his sous-chef Lyova have minutes to hide everything. It's in Russian first, and it's fast."
+OPENER = "Let's replay it slowly. Everything is a command, so it's a good lesson in orders."
+TRANSITION = 'Here is the whole panic again.'
+OUTRO = "You've just met a heap of useful commands: carry, throw, wipe, hide. They all work in your own kitchen too. See you next time."
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Не спим, Лёва, у нас проверка!', 'Wake up, Lyova, we have an inspection!', [(156, 'Не спим, Лёва, у нас проверка')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'По местам, инспектор уже здесь!', 'To your stations, the inspector is already here!', [], ''),
 ]
 WALK = [
-    (0, None, "'Wake up, Lyova, we have an inspection!' Yelling at his sous-chef, Barinov jolts the kitchen into emergency mode."),
-    (1, None, "'Quickly clear everything extra off the tables.' Barinov commands the crew to hide any messy evidence from sight."),
-    (2, None, "'Lyova, immediately throw them into the wash!' Urgently, Barinov orders his deputy to ditch the dirty rags and aprons fast."),
-    (3, None, "'Wipe the floor, it is too slippery!' Barinov barks a warning about the hazardous wet tiles."),
+    (0, None, "'Wake up, Lyova, we have an inspection!' 'We are not sleeping' is the Russian way to say 'get moving'. 'At us an inspection' is how you say 'we have'."),
+    (1, None, "'Chef, the inspector is already entering the hall!' 'enters' has a prefix that means 'in' or 'dropping in'. 'Into the hall' takes the 'movement' shape."),
+    (2, None, "'Quickly clear everything extra off the tables.' 'Clear away' is a group command. 'Extra' is a word that also means 'unnecessary', and 'off the tables' uses a short word meaning 'from'."),
+    (3, None, "'Where to hide these old products?' There is no 'should' in the Russian, only 'where hide'. 'Where to' is the movement word."),
+    (4, None, "'Carry all this straight into the refrigerator.' 'Carry' is the command for taking something on foot. 'Straight' is a short word that means 'directly'."),
+    (5, None, "'And what to do with dirty aprons?' 'With dirty aprons' puts 'with' in front and an 'imi' ending on the plural. 'What to do' has no 'should' either."),
+    (6, None, "'Lyova, immediately throw them into the wash!' Russian has one word for washing clothes and another for washing dishes. This one is for the laundry."),
+    (7, None, "'I already sent Senya for cloths.' 'For' here means 'to fetch', and the cloths end in 'ami'. The name Senya has a changed ending because he is the one being sent."),
+    (8, None, "'Wipe the floor, it is too slippery!' 'Wipe' is another group command. 'Too' is a single word, and 'slippery' comes from 'slide'."),
+    (9, None, "'The cooks are already washing their workstations.' 'Wash' is for hands, floors and plates. 'Their own' points back at the cooks."),
+    (10, None, "'The kitchen must be ideally clean!' 'Must be' is a feminine form to agree with 'kitchen'. 'Clean' ends in 'oy', the shape it takes after 'be'."),
+    (11, None, "'We will manage to do everything in time, chef!' 'We will manage' is a nice word, and it means 'we'll have enough time'. 'In time' is a single word."),
+    (12, None, "'To your stations, the inspector is already here!' 'To places' is a military-style call, and it has no verb. 'Here' is the word for where you are."),
 ]

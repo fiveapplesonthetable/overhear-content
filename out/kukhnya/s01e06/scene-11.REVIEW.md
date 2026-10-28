@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Проходите, пожалуйста, вот и наша кухня. | Come in, please, here is our kitchen. | #157: А вот и наша кухня<br>#158: Прошу вас | verbatim |
-| 2 | Инспектор | По залу у меня претензий нет. | Regarding the hall, I have no complaints. | #158: по залу у меня никаких претензий нет | verbatim |
+| 1 | Вика | Проходите, пожалуйста, вот и наша кухня. | Come in, please, here is our kitchen. | #157 00:10:35: А вот и наша кухня<br>#158 00:10:36: Прошу вас | verbatim |
+| 2 | Инспектор | По залу у меня претензий нет. | Regarding the hall, I have no complaints. | #158 00:10:36: по залу у меня никаких претензий нет | verbatim |
 | 3 | Вика | Мы строго следим за чистотой везде. | We strictly monitor cleanliness everywhere. | new | new |
-| 4 | Инспектор | Теперь посмотрим на вашу кухню внимательно. | Now let's look at your kitchen carefully. | #159: Посмотрим вашу кухню | verbatim |
+| 4 | Инспектор | Теперь посмотрим на вашу кухню внимательно. | Now let's look at your kitchen carefully. | #159 00:10:41: Посмотрим вашу кухню | verbatim |
 | 5 | Вика | У нас здесь работают лучшие повара. | We have the best cooks working here. | new | new |
 | 6 | Инспектор | Меня интересуют только санитарные правила. | I am interested only in sanitary rules. | new | new |
 | 7 | Вика | Все сотрудники носят чистую форму. | All employees wear a clean uniform. | new | new |
@@ -26,7 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, please, here is our kitchen.' Politely gesturing the official forward, Vika leads the way into the kitchen.
-- 'Regarding the hall, I have no complaints.' Granting a rare shred of approval, the inspector praises the dining room.
-- 'Now let's look at your kitchen carefully.' Making his intentions clear, the official prepares for serious scrutiny.
-- 'I myself will check every workstation.' The inspector insists on conducting a thorough, hands-on sweep.
+- 'Come in, please, here is our kitchen.' 'Come through' is the polite way to invite someone to walk ahead. 'Here is' is a small word that points.
+- 'Regarding the hall, I have no complaints.' 'Regarding' is a small word that takes the next word in a changed shape. 'Complaints' follows the 'there are none' phrase and is therefore in the 'of' form.
+- 'We strictly monitor cleanliness everywhere.' 'Strictly' is built on 'strict'. 'Monitor' is followed by 'over' and 'cleanliness'.
+- 'Now let's look at your kitchen carefully.' 'Let's look' ends in 'im', as 'we' does. 'Your' is the polite form because he is speaking to the staff.
+- 'We have the best cooks working here.' 'At us here' is the way to say 'we have'. 'Best' is in the plural to match 'cooks'.
+- 'I am interested only in sanitary rules.' Russian turns the sentence round: 'me interest only the rules'. The rules are the thing doing the interesting.
+- 'All employees wear a clean uniform.' 'Employees' is built from 'with' and 'work', so they are 'co-workers'. 'Wear' is 'carry'.
+- 'I myself will check every workstation.' 'Myself' stresses that he will not trust anyone's report. 'Every' agrees with 'workstation' in its shape.
+- 'Our head chef personally oversees everything.' 'Personally' is built on 'personal'. 'Oversees' ends in 'et', as it is about one person.
+- 'In the kitchen one must not violate rules.' 'must not' is a flat 'forbidden', the opposite of 'allowed'. It's the word on prohibition signs.
+- 'You can see everything yourselves.' 'You can' is the polite form. 'Yourselves' ends in a plural, because Vika addresses him politely.
+- 'Then we begin a full sanitary inspection.' 'We begin' ends in 'em'. 'Full' and 'sanitary' are both in the shape to agree with 'inspection'.
+- 'Welcome to our kitchen!' The first phrase is a formal 'welcome', close to 'good to come'. It's what you see on a doormat or hear at a door.

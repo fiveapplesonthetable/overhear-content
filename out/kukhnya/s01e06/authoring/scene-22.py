@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "After Rodion Sergeyevich rescues the discarded black truffles from the trash, Chef Viktor Barinov confronts rookie cook Max about how such expensive ingredients ended up in the bin. Max sheepishly confesses his provincial culinary ignorance, prompting the head chef to deliver an unforgettable lesson. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Barinov and Max's truffle discussion line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max learns a costly lesson about luxury mushrooms, leaving Claude Monet with a hefty dinner tab. Next time you watch the episode, listen for the Russian expressions for 'homeless person' and 'to give back' — you will catch every word right away. See you next time!"
+INTRO = "The truffles are back, thanks to a homeless man called Rodion, and now Barinov wants to know how they ended up in the bin. Max has to explain that where he comes from, a truffle is a sweet. It's in Russian first."
+OPENER = "Let's go back through the confession. Max has a very good excuse, and Barinov has a very bad bill."
+TRANSITION = 'And the whole telling-off again.'
+OUTRO = "Max's excuse is worth remembering: 'where I come from, truffles are candies'. It's an honest sentence in any language. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Макс, почему редкие трюфели оказались на помойке?', 'Max, why did rare truffles end up in the dumpster?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Вот так ты запомнишь этот урок!', 'This is how you will remember this lesson!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, why did rare truffles end up in the dumpster?' Barinov demands an explanation for the discarded delicacy."),
-    (1, None, "'Chef, forgive me, please!' Max stammers an apology while realizing the gravity of his mistake."),
-    (2, None, "'I have never seen truffles before.' The young rookie explains his complete unfamiliarity with gourmet fungi."),
-    (3, None, "'How could you throw away such a treasure?' Viktor Barinov cannot fathom wasting such an expensive ingredient."),
-    (4, None, "'In Voronezh, truffles are only candies!' Max reveals his provincial background and culinary innocence."),
-    (5, None, "'Candies? This is the most expensive mushroom!' The head chef sets the record straight with exasperation."),
-    (6, None, "'I thought that they had spoiled.' Max explains his misguided reasoning for tossing them into the bin."),
-    (7, None, "'Good thing the homeless man returned them to us.' Barinov acknowledges the stroke of unexpected luck."),
-    (8, None, "'Alright, I am very kind today.' The chef shows rare leniency toward the frightened newcomer."),
-    (9, None, "'We successfully passed the difficult inspection.' Barinov celebrates dodging the health inspector's sanctions."),
-    (10, None, "'But you will pay the bill for his dinner.' The chef delivers the financial catch with a sly grin."),
-    (11, None, "'Twenty-two thousand roubles?!' Max gasps in horror at the price of the celebratory meal."),
-    (12, None, "'This is how you will remember this lesson!' Barinov ensures the rookie will never forget what a truffle looks like."),
+    (0, None, "'Max, why did rare truffles end up in the dumpster?' 'Ended up' is 'turned out to be', and it ends in 'sya'. 'Rare' comes first, in the plural."),
+    (1, None, "'Chef, forgive me, please!' This is the polite 'forgive me', the kind you give to your boss. The informal one would be shorter."),
+    (2, None, "'I have never seen truffles before.' 'Never' and 'not' sit together, and the truffles take the 'of' form. 'Before' means 'earlier'."),
+    (3, None, "'How could you throw away such a treasure?' 'How could you' is a neat shape: 'how you could'. 'Throw away' starts with 'out', and 'treasure' ends in 'e'."),
+    (4, None, "'In Voronezh, truffles are only candies!' 'In Voronezh' puts an 'e' on the city, because it's the place. The dash stands where the word 'are' would go."),
+    (5, None, "'Candies? This is the most expensive mushroom!' 'The most expensive' is 'most' plus 'dear'. Barinov repeats the word for candies to underline how wrong it is."),
+    (6, None, "'I thought that they had spoiled.' 'Thought' has a prefix that makes it a quick thought. 'Spoiled' ends in 'lis', for 'they'."),
+    (7, None, "'Good thing the homeless man returned them to us.' 'Homeless' is built from 'without' and 'home'. 'Good that' is the Russian way to say 'luckily'."),
+    (8, None, "'Alright, I am very kind today.' 'Alright' is the casual 'ladno'. 'Kind' is the same word the Russian uses for 'good day'."),
+    (9, None, "'We successfully passed the difficult inspection.' 'Passed' is the plural form of 'walked through'. 'Difficult' comes before 'inspection' and agrees with it."),
+    (10, None, "'But you will pay the bill for his dinner.' 'You' is at the very end to stress it: it's you who pays. 'Bill' is a short word, and 'for his dinner' uses 'za'."),
+    (11, None, "'Twenty-two thousand roubles?!' Twenty-two is 'twenty' plus 'two', and the 'two' takes a feminine form to agree with 'thousand'. 'Roubles' is the plural of the currency."),
+    (12, None, "'This is how you will remember this lesson!' 'This is how' is two words, one pointing and one for 'so'. 'Remember' comes from 'memory'."),
 ]

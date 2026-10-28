@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Мне правда неловко выдавать себя за писателя. | I really feel awkward impersonating a writer. | #209: Мне правда неловко выдавать себя за такого человека | verbatim |
+| 1 | Родион | Мне правда неловко выдавать себя за писателя. | I really feel awkward impersonating a writer. | #209 00:15:10: Мне правда неловко выдавать себя за такого человека | verbatim |
 | 2 | Макс | Перестань бояться, никто не знает его лицо. | Stop being afraid, nobody knows his face. | new | new |
-| 3 | Костя | А вдруг Саша читала его умные книги? | What if Sasha read his smart books? | new | new |
+| 3 | Родион | А вдруг Саша читала его умные книги? | What if Sasha read his smart books? | new | new |
 | 4 | Макс | Тогда она будет восхищаться тобой ещё сильнее. | Then she will admire you even more. | new | new |
-| 5 | Костя | Что мне делать, если она спросит сюжет? | What should I do if she asks about the plot? | new | new |
+| 5 | Родион | Что мне делать, если она спросит сюжет? | What should I do if she asks about the plot? | new | new |
 | 6 | Макс | Говори загадочно и смотри прямо в глаза. | Speak mysteriously and look straight into her eyes. | new | new |
-| 7 | Костя | Я совсем не умею говорить так загадочно. | I cannot speak that mysteriously at all. | new | new |
+| 7 | Родион | Я совсем не умею говорить так загадочно. | I cannot speak that mysteriously at all. | new | new |
 | 8 | Макс | Просто надень эти тёмные очки, друг. | Just put on these dark glasses, friend. | new | new |
-| 9 | Костя | Думаешь, тёмные очки решат все проблемы? | Do you think dark glasses will solve all problems? | new | new |
+| 9 | Родион | Думаешь, тёмные очки решат все проблемы? | Do you think dark glasses will solve all problems? | new | new |
 | 10 | Макс | Настоящие писатели всегда носят тёмные очки! | Real writers always wear dark glasses! | new | new |
-| 11 | Костя | Ладно, я попробую сыграть эту роль. | Okay, I will try to play this role. | new | new |
+| 11 | Родион | Ладно, я попробую сыграть эту роль. | Okay, I will try to play this role. | new | new |
 | 12 | Макс | Иди вперёд и покори её сердце! | Go ahead and win her heart! | new | new |
-| 13 | Костя | Надеюсь, этот обман закончится хорошо. | I hope this deception ends well. | new | new |
+| 13 | Родион | Надеюсь, этот обман закончится хорошо. | I hope this deception ends well. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I really feel awkward impersonating a writer.' He is squirming uncomfortably, Kostya admits his fear of the elaborate romantic lie.
-- 'Stop being afraid, nobody knows his face.' Max tells his roommate to chill out, leaning on the author's legendary anonymity.
-- 'What if Sasha read his smart books?' Kostya worries that the waitress will ask him deep literary questions.
-- 'Then she will admire you even more.' Spinning the potential danger, Max turns it into a massive romantic advantage.
-- 'What should I do if she asks about the plot?' Frantically searching for a backup plan, Kostya panics about being interrogated about novels.
-- 'Speak mysteriously and look straight into her eyes.' Max advises him to use intense eye contact and vague nonsense as a shield.
-- 'I cannot speak that mysteriously at all.' Admitting his lack of charisma, Kostya fears he cannot pull off brooding genius vibes.
-- 'Just put on these dark glasses, friend.' Forcing the cheap shades onto Kostya, Max completes the transformation.
-- 'Do you think dark glasses will solve all problems?' Skeptically questioning the disguise, Kostya doubts the magical protective power of sunglasses.
-- 'Real writers always wear dark glasses!' Stating a hilariously stupid stereotype, Max speaks with absolute conviction.
-- 'Okay, I will try to play this role.' Reluctantly agreeing, Kostya commits to the ridiculous charade.
-- 'Go ahead and win her heart!' Enthusiastically pushing his friend, Max sends him toward his crush.
-- 'I hope this deception ends well.' Muttering a dark premonition, Kostya fears this fake identity will end in disaster.
+- 'I really feel awkward impersonating a writer.' 'To me awkward' is how Russians say 'I feel awkward'. 'Pass oneself off as' is a neat phrase, and it ends in 'za', meaning 'as'.
+- 'Stop being afraid, nobody knows his face.' 'Stop' is a command followed by 'to be afraid'. 'Nobody knows' keeps the usual 'not'.
+- 'What if Sasha read his smart books?' 'What if' is a single word at the front. The 'a' on 'read' shows the reader is a woman.
+- 'Then she will admire you even more.' 'Admire' ends in 'sya' and is followed by 'you' in the 'by' form. 'Even more strongly' is one word.
+- 'What should I do if she asks about the plot?' 'What to me to do' is the Russian way to ask 'what should I do'. 'Plot' is borrowed from French.
+- 'Speak mysteriously and look straight into her eyes.' 'Mysteriously' is a long how-word that comes from 'riddle'. 'Into the eyes' uses a movement shape.
+- 'I cannot speak that mysteriously at all.' 'I can' here is the word for skill, 'know how'. 'At all' sits before the 'not'.
+- 'Just put on these dark glasses, friend.' 'Put on' is the command for clothes and glasses. 'Friend' at the end is warm.
+- 'Do you think dark glasses will solve all problems?' 'Will solve' is a single word, and the plural 'all' agrees with 'problems'. 'Think' ends in 'esh', the 'you' ending.
+- 'Real writers always wear dark glasses!' 'Wear' is the word that also means 'carry'. 'Real' is the word that means 'genuine'.
+- 'Okay, I will try to play this role.' 'I will try' is a one-word future. 'Play' is the word for acting a part.
+- 'Go ahead and win her heart!' 'Forward' is a short word that works as 'go on'. 'Win' is built on a word for conquering.
+- 'I hope this deception ends well.' 'Ends' ends in 'sya', since the deception ends itself. 'Well' is the plain word for 'well'.

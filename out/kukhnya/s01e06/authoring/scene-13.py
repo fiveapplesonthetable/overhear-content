@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "In the back courtyard of Claude Monet, Max and Kostya are desperately searching the garbage for the restaurant's lost truffles. Suddenly, an eccentric homeless gentleman appears holding the empty container and offers a surprising bargain. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the polite forms of address, bargaining strategies, and conversational imperatives."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Faced with a ruined dinner service, Max agrees to Rodion's eccentric terms to recover the precious truffles. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'politely' and 'inside' — you will catch every word right away. See you next time!"
+INTRO = "Max and Kostya have realised that the 'rotten potatoes' they threw out were the chef's truffles, and they're searching the bins behind the restaurant. Instead they find a polite stranger, Rodion, holding the box. It's in Russian first."
+OPENER = "Let's go through the meeting. Max is in a hurry, Rodion is in no hurry at all."
+TRANSITION = 'Here is the whole meeting again.'
+OUTRO = "Rodion teaches you how to introduce yourself properly: 'my name is', 'very pleasant', and the name with the father's name. It's worth knowing, because Russians use it with older people. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Где ты нашёл эту коробку?', 'Where did you find this box?', [(182, 'не это ищете')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Хорошо, пойдём скорее в нашу раздевалку.', "Alright, let's go quickly into our locker room.", [(193, 'Это шкафчик')], ''),
 ]
 WALK = [
-    (0, None, "'Where did you find this box?' Frantically interrogating the vagrant, Max demands to know the container's origins."),
-    (1, None, "'You were looking for expensive truffles in the trash.' Astutely, Rodion points out their desperate rummaging through the garbage."),
-    (2, None, "'Please, give them back to us quickly!' Max begs the homeless man to surrender the wildly expensive ingredients."),
-    (3, None, "'First introduce yourself politely, young man.' Demanding proper manners, Rodion refuses to negotiate without an introduction."),
-    (4, None, "'My name is Max, and this is Kostya.' Hastily complying, Max blurts out their names to appease him."),
-    (5, None, "'Very pleased, and I am Rodion Sergeyevich.' Rodion introduces himself with dignified formality and a patronymic."),
-    (6, None, "'What do you want for these mushrooms?' Getting straight to the point, Max tries to establish a ransom price."),
-    (7, None, "'I need one small friendly favor.' Smoothly outlining his terms, Rodion explains his price for returning the cargo."),
-    (8, None, "'We can pay you a little money.' Max offers a standard cash bribe, hoping to resolve it cheaply."),
-    (9, None, "'No, I want a luxurious lunch here.' Rejecting the cash, Rodion insists on a five-star dining experience."),
-    (10, None, "'But the guards won't let you inside!' Max points out the obvious flaw that a homeless man won't get past the door."),
-    (11, None, "'Then find me suitable clean clothes.' Calmly instructing them, Rodion demands a disguise for his grand entrance."),
-    (12, None, "'Alright, let's go quickly into our locker room.' Max relents and leads the strange man inside to raid the staff lockers."),
+    (0, None, "'Where did you find this box?' Max uses the informal 'you' with a stranger, which is rude, and Rodion will answer politely. 'Found' ends in a consonant because it's about a man."),
+    (1, None, "'You were looking for expensive truffles in the trash.' Rodion answers with the polite 'you', which is a contrast. 'At the dump' uses 'on', not 'in'."),
+    (2, None, "'Please, give them back to us quickly!' 'Give back' has a prefix that means 'away'. 'Them' and 'to us' are two small words, one after the other."),
+    (3, None, "'First introduce yourself politely, young man.' 'Introduce yourself' ends in 'sya', so it is 'present yourself'. 'Young man' is the usual way to address a man you don't know."),
+    (4, None, "'My name is Max, and this is Kostya.' Russian says 'they call me Max', and the 'they' is not named. 'And this is' is a handy way to present a friend."),
+    (5, None, "'Very pleased, and I am Rodion Sergeyevich.' 'Pleasant' is what Russians say when they meet someone, as in 'nice to meet you'. The second name is the father's, so 'Sergeyevich' is 'son of Sergey'."),
+    (6, None, "'What do you want for these mushrooms?' Max calls truffles 'mushrooms', which is what they are. 'For' here means 'in return for'."),
+    (7, None, "'I need one small friendly favor.' 'Small' is 'not big', made from the two words. 'Friendly' is built on 'friend'."),
+    (8, None, "'We can pay you a little money.' 'A little' is followed by the 'of' form of 'money', as if it were 'a little of money'. 'To you' is a single short word."),
+    (9, None, "'No, I want a luxurious lunch here.' The meal in the middle of the day is a main one in Russia, and this word names it. 'Luxurious' comes from 'luxury'."),
+    (10, None, "'But the guards won't let you in!' 'Won't let in' is made from 'let' with a negative. 'Inside' is the movement word for 'to the inside'."),
+    (11, None, "'Then find me some suitable clean clothes.' 'Clothes' is singular in Russian, as if it were a mass noun. 'Suitable' comes from 'to approach' or 'to fit'."),
+    (12, None, "'Alright, let's go quickly to our locker room.' 'Let's go' is the invitation form. 'Locker room' comes from 'undressing', which is what happens there."),
 ]

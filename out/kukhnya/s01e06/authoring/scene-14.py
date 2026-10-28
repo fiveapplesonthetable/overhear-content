@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Inside the restaurant staff locker room, Kostya tries to talk the eccentric homeless man Rodion out of dining in the luxurious dining room. Despite Kostya's frantic protests, Rodion remains completely unyielding and demands his five-star meal. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the classic literary references, conditional clauses, and polite conversational phrases."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Despite Kostya's nervous attempts to negotiate, Rodion proves to be an unflappable negotiator who will settle for nothing less than a table at Claude Monet. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'administrator' and 'carefully' — you will catch every word right away. See you next time!"
+INTRO = "In the staff changing room, Rodion has the truffles and the upper hand. He wants a proper lunch in the restaurant, and Kostya is trying to talk him out of it. It's in Russian first."
+OPENER = 'Slowly now. Rodion speaks like a gentleman, and Kostya sounds more and more nervous.'
+TRANSITION = 'Here is the whole negotiation again.'
+OUTRO = "Rodion's lines are a lesson in being elegant: 'bargaining is out of place', 'bon appétit', and a full name. You can use any of them to make a request sound grand. See you next time."
 CLOSING = ('rodion', 'Пока!')
 STORY = [
     ('kostya', 'Подожди, давай мы просто заплатим деньги.', "Wait, let's just pay you money.", [(197, 'мы тебе денег заплатим')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('rodion', 'Тогда пожелайте мне приятного аппетита, Константин.', 'Then wish me bon appétit, Konstantin.', [], ''),
 ]
 WALK = [
-    (0, None, "'Wait, let's just pay you money.' Making one last desperate attempt, Kostya tries to buy their way out of this trap."),
-    (1, None, "'Bargaining is completely inappropriate here, young man.' Waving off the cash, Rodion quotes a famous literary phrase to shut him down."),
-    (2, None, "'But this is a very expensive restaurant!' Kostya stresses that fine dining is way out of bounds for this situation."),
-    (3, None, "'I know this fine restaurant perfectly well.' Confidently asserting his taste, Rodion claims familiarity with high-end establishments."),
-    (4, None, "'The administrator will throw you out into the street immediately.' Kostya warns him that the hawkeyed manager will spot an imposter instantly."),
-    (5, None, "'In a decent suit nobody will recognize me.' Rodion assures them that clothes make the man in these environments."),
-    (6, None, "'And what if you accidentally ruin someone else's clothes?' He is fretting about liability, Kostya worries about lending out a customer's expensive jacket."),
-    (7, None, "'I promise to behave extremely neatly.' Giving his aristocratic word, Rodion promises not to stain the borrowed suit."),
-    (8, None, "'Where exactly are our missing truffles hidden?' Impatiently demanding answers, Kostya wants the location of their hostage ingredients."),
-    (9, None, "'You will receive the truffles right after lunch.' Slyly refusing to hand over his leverage, Rodion waits until he is fully fed."),
-    (10, None, "'The Chef will get very angry if he finds out the truth.' Trembling at the thought of Barinov, Kostya fears the discovery of their massive deception."),
-    (11, None, "'Then wish me bon appétit, Konstantin.' Cheerfully concluding the negotiation, Rodion savors his impending meal."),
+    (0, None, "'Wait, let's just pay you money.' 'Let's' here is 'give', as in 'let us'. 'We will pay' is a one-word future."),
+    (1, None, "'Bargaining is completely inappropriate here, young man.' 'Inappropriate' is made of 'not' plus 'fitting'. Rodion keeps the grand word and the 'young man' to sound lofty."),
+    (2, None, "'But this is a very expensive restaurant!' The little word in the middle adds 'after all', as if it were obvious. 'Expensive' is the word that also means 'dear'."),
+    (3, None, "'I know this fine restaurant perfectly well.' The same word is used twice, as 'finely' and 'fine', which makes it sound like Rodion enjoys it. 'Know' here is about a place."),
+    (4, None, "'The administrator will throw you out into the street immediately.' 'Throw out' has a prefix that means 'out', and the street is the place you are thrown to. 'Immediately' is a short word."),
+    (5, None, "'In a decent suit nobody will recognize me.' 'In a suit' means 'wearing a suit', and Russian uses 'in' for clothes. 'Recognize' comes from 'know'."),
+    (6, None, "'And what if you accidentally ruin someone else's clothes?' 'Accidentally' comes from 'chance'. 'Someone else's' is one word that stands for 'not mine'."),
+    (7, None, "'I promise to behave extremely neatly.' 'To behave' is 'to lead oneself'. 'Extremely' is also 'at the edge', which is how Russian exaggerates."),
+    (8, None, "'Where exactly are our missing truffles hidden?' 'Hidden' ends in a plural, to agree with 'truffles'. 'Missing' means 'having gone missing'."),
+    (9, None, "'You will receive the truffles right after lunch.' 'Will receive' is a polite future, with 'you' as a group. 'After lunch' puts 'after' before a changed ending."),
+    (10, None, "'The Chef will get very angry if he finds out the truth.' 'Get angry' ends in 'sya'. 'If he finds out' is two words, and the 'truth' is its own word, related to 'true'."),
+    (11, None, "'Then wish me bon appétit, Konstantin.' The Russian phrase is literally 'pleasant appetite'. Kostya's full name is used by Rodion to sound formal."),
 ]

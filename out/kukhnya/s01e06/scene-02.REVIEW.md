@@ -12,9 +12,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Шеф | Огузок, посмотри на эту тарелку. | Oguzok, look at this plate. | new | new |
 | 2 | Макс | Шеф, это блюдо уже готово? | Chef, is this dish already ready? | new | new |
-| 3 | Шеф | Осталось главное: украсить его зеленью. | The main thing remains: to garnish it with herbs. | #4: Его украшают | verbatim |
+| 3 | Шеф | Осталось главное: украсить его зеленью. | The main thing remains: to garnish it with herbs. | #4 00:00:30: Его украшают | verbatim |
 | 4 | Макс | Каждая деталь имеет важное значение. | Every detail has important meaning. | new | new |
-| 5 | Шеф | Еда обязана выглядеть красиво и аппетитно. | Food is obliged to look beautiful and appetizing. | #4: украшают | verbatim |
+| 5 | Шеф | Еда обязана выглядеть красиво и аппетитно. | Food is obliged to look beautiful and appetizing. | #4 00:00:30: украшают | verbatim |
 | 6 | Макс | Положим сюда свежую зелень? | Shall we put fresh herbs here? | new | new |
 | 7 | Шеф | Аккуратно! Не испорти дорогую подачу. | Carefully! Do not ruin the expensive presentation. | new | new |
 | 8 | Макс | Я делаю всё очень аккуратно, шеф. | I do everything very carefully, chef. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, look at this plate.' Calling out across the pass, Barinov commands his trainee to closely inspect the dish.
-- 'Chef, is this dish already ready?' Max asks if the hot plate is fully finished and ready to serve.
-- 'The main thing remains: to garnish it with herbs.' Firmly, Barinov insists that the presentation is incomplete without the final green touch.
-- 'Every detail has important meaning.' Hoping to impress, Max tries to show he understands the high culinary standards.
-- 'Food is obliged to look beautiful and appetizing.' Barinov preaches about the absolute necessity of visual appeal in high-end dining.
-- 'Shall we put fresh herbs here?' Holding a sprig, Max tentatively asks for guidance on placing the garnish.
-- 'Carefully! Do not ruin the expensive presentation.' Loudly, Barinov barks a warning not to mess up the delicate arrangement.
-- 'I do everything very carefully, chef.' Max nervously defends his careful handling of the delicate ingredients.
-- 'Beautiful presentation is very important for guests.' He reiterates his philosophy, Barinov states that visual aesthetics make a huge difference.
-- 'The waiters are already waiting in the kitchen.' Glancing backward, Max points out that the service staff is hovering and ready to carry the food.
-- 'Call the waiter, let them carry the order.' Barinov gives the green light to dispatch the meal to the customer.
-- 'Sasha, take the ready hot dish!' Max calls out to the waitress to grab the plate while it is still steaming.
-- 'Great, we continue working further.' Immediately pivoting, Barinov focuses the kitchen on the next ticket.
+- 'Oguzok, look at this plate.' The nickname comes first, as it often does. 'This plate' has an 'u' ending because the plate is what's being looked at.
+- 'Chef, is this dish already ready?' There is no word for 'is' or 'do': the voice goes up and that's the question. 'Ready' ends in 'o' to match 'dish'.
+- 'The main thing remains: to garnish it with herbs.' 'Remains' is in a neutral form with no person in it, like 'what's left'. 'Garnish' is related to 'beautiful', and 'with herbs' ends in 'yu', which is Russian's 'with'.
+- 'Every detail has important meaning.' 'Detail' is the French word, with a soft ending. 'Has meaning' is the usual way to say 'matters'.
+- 'Food is obliged to look beautiful and appetizing.' 'Obliged' ends in 'a' because 'food' is a she-word. The two ways of saying 'beautifully' and 'appetizingly' both end in 'o'.
+- 'Shall we put fresh herbs here?' 'Let's put' is the form that sounds like 'shall we'. 'Herbs' is a word for greens, and it comes from 'green'.
+- 'Carefully! Do not ruin the expensive presentation.' One word is enough for 'careful!'. 'expensive' also means 'dear', so a good presentation is a precious one.
+- 'I do everything very carefully, chef.' 'I do' ends in 'yu', and 'everything' is a short, handy word. Max repeats the word 'carefully' to show he heard.
+- 'Beautiful presentation is very important for guests.' 'Important' ends in 'a' to match 'presentation'. 'For guests' needs a changed ending on 'guests'.
+- 'The waiters are already waiting in the kitchen.' 'Waiting' ends in 'ut', the 'they' ending again. 'Already' comes right before it.
+- 'Call the waiter, let them carry the order.' 'Let them' is a single little word. 'carry' has the same 'ut' ending.
+- 'Sasha, take the ready hot dish!' 'Take' starts with 'za' and means 'pick up'. 'Ready' and 'hot' both end in 'oe' to agree with 'dish'.
+- 'Great, we continue working further.' 'We continue' ends in 'em', which is the 'we' ending. 'Further' is a short word meaning 'on'.

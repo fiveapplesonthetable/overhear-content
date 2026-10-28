@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "A ruthless health inspector is tearing through Claude Monet, refusing every polite explanation. Chef Viktor Barinov closely observes the inspector's irritable behavior and realizes he recently quit alcohol. Hoping to soften his mood, Barinov dispatches waitress Sasha to tempt him with premium wine on the house. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine Barinov's psychological strategy line by line. Notice how the chef identifies a weakness and tries to use hospitality to disarm the inspector."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Barinov sends Sasha out to deliver the temptation, hoping wine will save his restaurant. Keep up the wonderful work learning conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'alcohol' and 'to throw' — you will catch every word right away. See you next time!"
+INTRO = "The health inspector is making everyone miserable, and Barinov thinks he knows why: the man has just given up drinking. He calls over Sasha, one of the waitresses, to tempt him. It's in Russian first."
+OPENER = 'Slowly now. Barinov has a plan, and Sasha asks the sensible questions.'
+TRANSITION = 'Here is the whole plot again.'
+OUTRO = "Barinov's plan is a bad one, but his Russian is good: 'I get it', 'say that it's a gift'. Remember 'on the house'. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('sasha', 'Шеф, почему этот санитарный инспектор такой злой?', 'Chef, why is this health inspector so angry?', [(210, 'Шеф, ну что там')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('sasha', 'Хорошо, шеф, я всё поняла.', 'Fine, Chef, I understood everything.', [(226, 'Окей, хорошо')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, why is this health inspector so angry?' Asking about the hostile mood, Sasha wonders why the official is so angry."),
-    (1, None, "'I get it, this strict man is on the wagon!' Proudly announcing his deduction, Barinov guesses the inspector's sobriety."),
-    (2, None, "'Do you think he quit drinking completely?' Sasha seeks clarification on the chef's bold theory about alcohol withdrawal."),
-    (3, None, "'Yes, that is why he is so nervous.' Connecting the lack of booze to his rage, Barinov explains the official's nervousness."),
-    (4, None, "'And how are we to calm him now?' Sasha wonders what strategy they can use to pacify the irritable guest."),
-    (5, None, "'Sasha, come here to me quickly.' Waving the waitress over, Barinov prepares to quietly brief her on his covert plan."),
-    (6, None, "'I am listening to you carefully, Chef.' Leaning in, Sasha gets ready to receive her delicate diplomatic mission."),
-    (7, None, "'Do you see that bald man at the table?' Subtly pointing him out, Barinov identifies the target of their impending charm offensive."),
-    (8, None, "'Yes, he sits with a very gloomy expression.' Sasha confirms she sees the miserable-looking official in the dining room."),
-    (9, None, "'Offer him the very best expensive wine.' Barinov instructs her to tempt the man with top-shelf liquor to break his streak."),
-    (10, None, "'And what if he refuses alcohol?' Pointing out a flaw, Sasha notes that a recovering alcoholic might simply say no."),
-    (11, None, "'Say that this is a gift on the house!' Insisting it be free, Barinov hopes a complimentary gift will lower the inspector's defenses."),
-    (12, None, "'Fine, Chef, I understood everything.' Accepting the risky assignment, Sasha heads out to offer the bribe."),
+    (0, None, "'Chef, why is this health inspector so angry?' Russian says 'such angry', with the word for 'such' in front. The word for 'angry' is one you can also use for a dog or a boss."),
+    (1, None, "'I get it, this strict man is on the wagon!' The slang for 'on the wagon' is literally 'in a knot', as if he had tied himself up. 'I understood' is how Russians say 'I get it'."),
+    (2, None, "'Do you think he quit drinking completely?' The word for 'quit' literally means 'threw', so he threw drinking away. 'Completely' sits right in front of it."),
+    (3, None, "'Yes, that is why he is so nervous.' 'That is why' is built from 'by this', and it joins two ideas neatly. 'Nervous' is the same word you use in English."),
+    (4, None, "'And how are we to calm him now?' 'To us now him to calm' has no 'should', and 'him' sits in the middle. The command 'calm down' comes from the same word."),
+    (5, None, "'Sasha, come here to me quickly.' 'Come up' and 'to me' both show direction, so Barinov says it twice for force. The word for 'here' is the kind you use for movement."),
+    (6, None, "'I am listening to you carefully, Chef.' It's the waiter's way of saying 'I'm all ears'. 'Carefully' is built from 'attention'."),
+    (7, None, "'Do you see that bald man at the table?' 'That' and 'bald' both end in the same way, as they describe one man. 'At the table' uses 'behind', since you sit behind a table in Russian."),
+    (8, None, "'Yes, he sits with a very gloomy expression.' 'With a gloomy look' uses 'with' and a changed ending. 'Look' is the word that also means 'view' or 'sort'."),
+    (9, None, "'Offer him the very best expensive wine.' The word for 'offer' is a command. 'Him' takes the 'to' form, and 'very best' is literally 'most best'."),
+    (10, None, "'And what if he refuses alcohol?' The word for 'refuses' ends in 'sya' and takes 'from' with the thing refused. 'Alcohol' is borrowed, so you know it."),
+    (11, None, "'Say that this is a gift on the house!' The Russian is 'a gift from the establishment', and a restaurant is one kind of 'establishment'. You could use the same phrase in any shop."),
+    (12, None, "'Fine, Chef, I understood everything.' The word for 'understood' ends in 'la' because Sasha is a woman. 'Everything' follows it."),
 ]

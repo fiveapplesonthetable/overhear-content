@@ -11,12 +11,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Макс, посмотри на гостей в зале. | Max, look at the guests in the dining room. | new | new |
-| 2 | Макс | Они заказывают наши фирменные блюда. | They are ordering our specialty dishes. | #1: заказываете любимое блюдо | verbatim |
-| 3 | Костя | Люди приходят сюда каждый вечер. | People come here every evening. | #1: Когда вы приходите в ресторан | verbatim |
-| 4 | Макс | Каждый выбирает своё любимое блюдо. | Everyone chooses their favorite dish. | #1: любимое блюдо | verbatim |
-| 5 | Костя | Они не думают о пути еды. | They do not think about the food's journey. | #2: вы наверняка не задумываетесь, какой путь | verbatim |
-| 6 | Макс | Какое блюдо проходит длинный путь? | Which dish travels a long way? | #2: путь оно проделывает | verbatim |
-| 7 | Костя | Каждое блюдо начинает путь на рынке. | Every dish begins its journey at the market. | #3: чтобы оказаться у вас на тарелке | verbatim |
+| 2 | Макс | Они заказывают наши фирменные блюда. | They are ordering our specialty dishes. | #1 00:00:11: заказываете любимое блюдо | verbatim |
+| 3 | Костя | Люди приходят сюда каждый вечер. | People come here every evening. | #1 00:00:11: Когда вы приходите в ресторан | verbatim |
+| 4 | Макс | Каждый выбирает своё любимое блюдо. | Everyone chooses their favorite dish. | #1 00:00:11: любимое блюдо | verbatim |
+| 5 | Костя | Они не думают о пути еды. | They do not think about the food's journey. | #2 00:00:15: вы наверняка не задумываетесь, какой путь | verbatim |
+| 6 | Макс | Какое блюдо проходит длинный путь? | Which dish travels a long way? | #2 00:00:15: путь оно проделывает | verbatim |
+| 7 | Костя | Каждое блюдо начинает путь на рынке. | Every dish begins its journey at the market. | #3 00:00:19: чтобы оказаться у вас на тарелке | verbatim |
 | 8 | Макс | Потом повара готовят заказ на кухне. | Then the cooks prepare the order in the kitchen. | new | new |
 | 9 | Костя | Вся кухня работает ради одной тарелки. | The whole kitchen works for one plate. | new | new |
 | 10 | Макс | Повара очень спешат и нервничают. | The cooks rush very much and get nervous. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look at the guests in the dining room.' He gestures toward the dining room, Kostya draws his friend's attention to the crowd.
-- 'They are ordering our specialty dishes.' Max observes the customers confidently picking the restaurant's signature items.
-- 'People come here every evening.' Pointedly, Kostya remarks on the predictable nightly routine of their patrons.
-- 'Everyone chooses their favorite dish.' The young cook notes how diners gravitate toward their preferred meals.
-- 'They do not think about the food's journey.' Laughing softly, Kostya remarks on how little thought customers give to what happens behind the scenes.
-- 'Which dish travels a long way?' Max wonders which menu item demands the most effort from the kitchen.
-- 'Every dish begins its journey at the market.' Reminding him of the basics, Kostya says all culinary creations start with sourcing ingredients.
-- 'Then the cooks prepare the order in the kitchen.' Max chimes in about the intense preparation phase inside the restaurant.
-- 'The whole kitchen works for one plate.' Highlighting the team's dedication, Kostya explains the collective effort required to produce a single perfect serving.
-- 'The cooks rush very much and get nervous.' Max describes the frantic, high-pressure reality of the cooking line.
-- 'And guests only see the delicious result.' Contrasting the back of house, Kostya reflects on the diners' serene experience.
-- 'For them this is a real celebration of taste.' Max appreciates that the end product brings joy to the people eating it.
-- 'Soon our usual working evening will begin.' Wrapping up their chat, Kostya prepares for the dinner rush to hit.
+- 'Max, look at the guests in the dining room.' 'Look' is the command you give a friend, and 'at the guests' needs a short word for 'at' in front. 'In the hall' is just 'in' plus a short word with an 'e' at the end, which is how Russian shows a place.
+- 'They are ordering our specialty dishes.' The long describing word for 'specialty' comes from 'firm' or 'company', so it means 'the house's own'. You'll see it on menus.
+- 'People come here every evening.' 'People' is a plural-only word; Russian has a different word when you mean one person. 'Every evening' needs no 'in' or 'on', just the two words side by side.
+- 'Everyone chooses their favorite dish.' 'Favorite' is built on 'to love'. 'Their own' is a small word that points back at the person doing the choosing.
+- 'They do not think about the food's journey.' Russian shows 'of' by changing the end of the word, so 'journey of food' needs no word for 'of'. 'Think about' is followed by a short 'about' word.
+- 'Which dish travels a long way?' The question word 'which' matches 'dish' in its ending. 'Travels' is 'passes through', which fits a dish going from the market to the table.
+- 'Every dish begins its journey at the market.' Russian uses 'on' for markets, so it says 'on the market'. 'Begins' ends in 'et', which is the ending for 'it' or 'he'.
+- 'Then the cooks prepare the order in the kitchen.' 'Cooks' ends in 'a', one of the few plurals that does. 'Prepare' ends in 'yat', which is how 'they' sounds.
+- 'The whole kitchen works for one plate.' 'For the sake of' is a single short word, and it asks for the next word to change: 'one plate' becomes 'of one plate'. 'Whole' agrees with 'kitchen' and ends in 'a'.
+- 'The cooks rush very much and get nervous.' 'Get nervous' comes from 'nerves'. Both actions end in 'yut' or 'ayut', the 'they' ending.
+- 'And guests only see the delicious result.' 'Delicious' is built on 'taste'. 'Result' is borrowed and looks like the English one.
+- 'For them this is a real celebration of taste.' 'For them' is two small words. 'Celebration' is also the word for a public holiday, and 'of taste' is the same 'of' by ending.
+- 'Soon our usual working evening will begin.' 'Soon' is the same word that means 'quickly' in some sentences. 'Working' is made from 'work', so 'a working evening' is an evening of work.
