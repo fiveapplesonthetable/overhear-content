@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Senya, come over here for a second.' "Come up" is the walking-up word. "Here" is the plain one. Fedya calls his friend over, with a worried look.
 - 'What is it, Fedya? Is everything ready?' "What such" is the "what is it" from earlier. The second question has only a rising voice. Senya is relaxed, and he wants to go on.
 - 'I think we did not finish dyeing it.' The prefix "do-" means "to the end", so "finish painting". "It seems to me" is the usual hedge. Fedya has seen something the other missed.
-- 'Come on, it is completely black!' "Drop it" is how Russians say "come on". "Absolutely" is a strong word. Senya is dismissive. He is also trying to convince himself.
+- 'Come on, it is completely black!' "Drop it" is what Russians say for "come on". "Absolutely" is a strong word. Senya is dismissive. He is also trying to convince himself.
 - 'What if Chef sees light caviar eggs?' "What if" is made of "and suddenly". A single egg is "ikrinka", the caviar with a singular ending. Fedya worries about a few pale eggs.
 - 'Nobody will notice anything suspicious.' "Nothing of suspicious" has the "of" ending. "Suspicious" is built on "suspicion". Senya answers calmly, like a man selling a car.
 - 'If the caviar were not like real caviar,' "If would" is how Russian marks an unreal "if". The little "by" is the same one as in "I would drink". Senya builds an argument.

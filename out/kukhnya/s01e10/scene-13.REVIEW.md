@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right, I will tell you everything right now!' "I will tell" is the same short future as before. Kostya gives in. It took one sentence from Vika, and the whole secret is out.
 - 'I am listening attentively to your confession.' "Confession" comes from what Russian calls "confess", the one Barinov used about Vika. Vika's tone is formal and dry. She is enjoying having the upper hand.
 - 'Max found out your secret from Alice.' The word for "found out" can also mean "recognised". "From Alisa" tells you the source. "Secret" is the English word with a Russian ending. Kostya says it flatly, as news.
-- 'What secret did that fool find out?' The Russian for "fool" is blunt, but Vika says it with some affection. The little "still" in front gives it the sense of "what other secret". She is flustered, and trying not to show it.
+- 'What secret did that fool find out?' In Russian, "fool" is blunt, but Vika says it with some affection. The little "still" in front gives it the sense of "what other secret". She is flustered, and trying not to show it.
 - 'He thinks that you love him!' Kostya says "loves him" with the term for "him" at the end. It is the same word for "it" that Alisa used about the chocolate. He says it as if it were obvious.
-- 'And why did he start hiding now?' "Became hiding" is how Russian says "started to hide". What Russian calls "become" is the one in "it will become easier". Vika's question is the thing she most wants to know.
+- 'And why did he start hiding now?' "Became hiding" is what Russians say for "started to hide". What Russian calls "become" is the one in "it will become easier". Vika's question is the thing she most wants to know.
 - 'He got scared of a wedding and little kids!' The scared word is back with its -sya. "Of a wedding" has the "of" ending, because fear takes that. Kostya says it quickly, to get it over with.
 - 'Poor cowardly Maxik, got scared of kids.' "Maksik" is a pet form of Max, made by adding -ik. It can be loving or mocking, and here it is both. Vika understands at once. Her tone is dry and sad.
-- 'Thank you for not touching Nastya's shift!' "Thank you that you don't touch" is how Russian says "thank you for not touching". The shift of "Nastya" takes the "of" ending on her name. Kostya is relieved.
+- 'Thank you for not touching Nastya's shift!' "Thank you that you don't touch" is how Russians say "thank you for not touching". The shift of "Nastya" takes the "of" ending on her name. Kostya is relieved.

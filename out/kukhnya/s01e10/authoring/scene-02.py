@@ -43,5 +43,5 @@ WALK = [
     (9, None, '\'Bring me one more glass of brine.\' "Bring" is a bare command, and "a glass of brine" gets the "of" ending on brine. The glass is the tall kind, not a glass on a stem. Barinov is already in better shape.'),
     (10, None, '\'I will quickly bring it now from our kitchen.\' Senya says "will bring" with a different ending from the past he used earlier. "Our kitchen" shows the "from" in its ending. He says "quickly" twice, almost.'),
     (11, None, '\'And begin preparing lunch for the guests.\' This time the chef uses the plural command ending, because he is speaking to the whole kitchen. The word for the midday meal is the same one as in the "lunch hall" of the dining room.'),
-    (12, None, '\'Everything will be ready on time, chef.\' The Russian for "on time" is a single word made of "in" and "time". "Everything" is neuter, so "ready" ends in -o. Senya sounds dutiful, as a cook should.'),
+    (12, None, '\'Everything will be ready on time, chef.\' In Russian, "on time" is a single word made of "in" and "time". "Everything" is neuter, so "ready" ends in -o. Senya sounds dutiful, as a cook should.'),
 ]

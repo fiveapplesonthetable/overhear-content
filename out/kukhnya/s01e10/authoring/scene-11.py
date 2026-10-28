@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Kostya, have you finished preparing the drinks?\' The "finished" word is the one Max used for the cream. "Drinks" grows from the word for "to drink". Vika starts with a work question, so as not to scare him.'),
-    (1, None, '\'Yes, all orders are already ready.\' The Russian for "ready" takes a plural ending to match the orders. "Order" is the same word as the chef\'s orders. Kostya answers fast, perhaps too fast.'),
+    (1, None, '\'Yes, all orders are already ready.\' In Russian, "ready" takes a plural ending to match the orders. "Order" is the same word as the chef\'s orders. Kostya answers fast, perhaps too fast.'),
     (2, None, '\'Why did Max run away from here so quickly?\' "Ran away" has the u- of "away". Russian for "from here" is a single word, one of a little trio with "here" and "to here". Vika has seen it all.'),
     (3, None, '\'He was simply in a big hurry to get to the kitchen.\' The word "hurried" is a simple one. "To the kitchen" has an ending for going toward it. Kostya makes up an excuse, and it sounds more like a lie than the truth.'),
     (4, None, '\'It seems to me that he is behaving strangely.\' "To me it seems" is the pattern you\'ve heard. And "behaves" is "leads himself", the same as in the dining room scene. Vika is polite, and she is already suspicious.'),
@@ -41,5 +41,5 @@ WALK = [
     (8, None, '\'Are you definitely telling me the pure truth?\' Russian says "clean truth" for the plain truth. What Russian calls truth is the base of "untrue" from the cake scene. Vika presses, and Kostya squirms.'),
     (9, None, '\'Of course, I never deceive you.\' "Never" and "not" both appear, as the double negative requires. The word for "deceive" is a strong one. Kostya says it with great solemnity, and the lie is plain.'),
     (10, None, '\'Fine, then I will ask him myself.\' Russian has two words for "ask". One is for asking a question, as here, and the other is for asking for something, as with the message to say goodbye. Vika uses the question one.'),
-    (11, None, '\'It is better not to disturb him right now, Vika.\' "Not to touch him" is how Russians say "leave him alone". "Better" is the one you\'ve heard. Kostya gives a last, feeble piece of advice, and Vika ignores it.'),
+    (11, None, '\'It is better not to disturb him right now, Vika.\' "Not to touch him" is the Russian way to say "leave him alone". "Better" is the one you\'ve heard. Kostya gives a last, feeble piece of advice, and Vika ignores it.'),
 ]

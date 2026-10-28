@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did you hear everything in the kitchen?' Max uses the polite "you", so "heard" ends in -li, the plural ending. Russian does this even for one person. Max asks, because he has to know.
 - 'I heard every word of yours.' This time it is Barinov's own "I heard", with the man's -l. "Every" and "your" are in front of "word". The sentence has a smile in it, and a threat.
 - 'I myself do not understand anything.' "I myself" is a way to say "I too". Max's "do not understand nothing" has the usual double negative. He appeals to the chef's pity.
-- 'You caused a real big scandal.' "Arranged" is how Russian says "staged" or "caused". "Scandal" is a borrowed word. Barinov chooses big words, because he is enjoying himself.
+- 'You caused a real big scandal.' "Arranged" is what Russians say for "staged" or "caused". "Scandal" is a borrowed word. Barinov chooses big words, because he is enjoying himself.
 - 'I did not want to offend anyone.' "Offend" is back from the caviar scene. "Nobody" gets its own form after "not". Max defends himself, and the defence is sincere.
 - 'Go into the room and close the door.' "Go in" covers dropping in. "Close" returns from the hide-and-seek rules. The chef wants privacy, and the door is the sign of it.
 - 'Good, I am already closing the door.' "I am closing" shows the action in progress, where "close" shows a single act. Russian keeps the two apart. Max does as he is told.

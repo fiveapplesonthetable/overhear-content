@@ -30,7 +30,7 @@ STORY = [
     ('fedya', 'Через пять минут прекрасное блюдо будет готово.', 'In five minutes the fine dish will be ready.', [(184, 'Да, извини')], ''),
 ]
 WALK = [
-    (0, None, '\'Fedya, have you completely lost your mind?\' Russian says "from the mind went", where English says "lost your mind". The Russian for "mind" is the root of "clever girl" and "smart". Senya shouts, and there is a good reason.'),
+    (0, None, '\'Fedya, have you completely lost your mind?\' Russian says "from the mind went", where English says "lost your mind". In Russian, "mind" is the root of "clever girl" and "smart". Senya shouts, and there is a good reason.'),
     (1, None, '\'What happened, Senya, why are you shouting so?\' "What happened" is the phrase from the first scene of the first scene. "Shout" is the one Alisa used about the cooks. Fedya genuinely doesn\'t know.'),
     (2, None, '\'All the meat on your stove is burning!\' "At you on the stove" is the Russian, with "at you" in place of "your". The meat is "burning" in the plain sense. The stove at last has a purpose in this episode.'),
     (3, None, '\'Oh, forgive me, I accidentally forgot the frying pan.\' "Accidentally" comes from the term for "chance", the family of "happened". Fedya is sorry in a casual way. The pan has nothing to say.'),

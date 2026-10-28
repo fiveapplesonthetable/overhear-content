@@ -31,7 +31,7 @@ STORY = [
     ('kostya', 'Конечно, шеф, сделаю прямо сейчас.', 'Of course, chef, I will do it right now.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, some young woman is calling for you over there.\' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn\'t know her. The Russian for "calls" is a summons. He speaks politely to the boss.'),
+    (0, None, '\'Chef, some young woman is calling for you over there.\' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn\'t know her. In Russian, "calls" is a summons. He speaks politely to the boss.'),
     (1, None, '\'Who is she and what does she need?\' "Who she such" adds a touch of "who is she anyway". And "what to her needed" is the usual pattern again. Barinov throws two questions at once, as he does.'),
     (2, None, '\'She said that she came from television.\' "From television" starts with the little word for "from". Both "said" and "came" end in -la because the woman is the subject. Kostya passes the message like a messenger.'),
     (3, None, '\'I do not want to talk to anyone.\' Russian says "with nobody" and then "not", and both are required. It is a double negative that is simply right. Barinov, as ever, would rather shout than talk.'),

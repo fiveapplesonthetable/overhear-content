@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The waiters cannot cope with such a flow.' The "cope" word is back, in the plural. "Flow" is a stream, as of a river. Vika's complaint is a real one, and she names the staff's trouble.
 - 'I will personally go and speed up the team.' The "personally" word is the one used about the stove. "Speed up" grows out of "fast". Barinov sounds energetic, and he is making a fool of himself.
 - 'Do it right now, chef.' "Do" is a polite command. Vika uses the polite "you", even while giving orders. It sounds firm, and a little weary. The chef has been avoiding her.
-- 'Everything will be ready in five minutes.' "Through five minutes" is how Russians say "in five minutes". The numbers are the easy part. Barinov promises, and he has no plan.
+- 'Everything will be ready in five minutes.' "Through five minutes" is what Russians say for "in five minutes". The numbers are the easy part. Barinov promises, and he has no plan.
 - 'I hope you are telling the honest truth.' "Clean truth" is back, as used by Vika earlier with Kostya. She hopes, and she doubts. It's a polite sentence with an edge to it.

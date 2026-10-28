@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, have you completely lost your mind?' Russian says "from the mind went", where English says "lost your mind". The Russian for "mind" is the root of "clever girl" and "smart". Senya shouts, and there is a good reason.
+- 'Fedya, have you completely lost your mind?' Russian says "from the mind went", where English says "lost your mind". In Russian, "mind" is the root of "clever girl" and "smart". Senya shouts, and there is a good reason.
 - 'What happened, Senya, why are you shouting so?' "What happened" is the phrase from the first scene of the first scene. "Shout" is the one Alisa used about the cooks. Fedya genuinely doesn't know.
 - 'All the meat on your stove is burning!' "At you on the stove" is the Russian, with "at you" in place of "your". The meat is "burning" in the plain sense. The stove at last has a purpose in this episode.
 - 'Oh, forgive me, I accidentally forgot the frying pan.' "Accidentally" comes from the term for "chance", the family of "happened". Fedya is sorry in a casual way. The pan has nothing to say.
