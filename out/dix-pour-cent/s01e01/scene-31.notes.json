@@ -126,7 +126,7 @@
           "pos": "phrase",
           "stress": "dakɔʁ",
           "gloss": "okay?",
-          "gram": "fixed expression"
+          "gram": "fixed idiomatic expression ('d'accord')"
         }
       ]
     },
@@ -457,7 +457,7 @@
           "lemma": "oh",
           "pos": "interj",
           "stress": "o",
-          "gloss": "oh",
+          "gloss": "oh! (surprise, joy)",
           "gram": "exclamation"
         },
         {
@@ -778,7 +778,7 @@
           "pos": "phrase",
           "stress": "dakɔʁ",
           "gloss": "okay?",
-          "gram": "fixed expression"
+          "gram": "fixed idiomatic expression ('d'accord')"
         }
       ]
     },
@@ -1109,7 +1109,7 @@
           "lemma": "oh",
           "pos": "interj",
           "stress": "o",
-          "gloss": "oh",
+          "gloss": "oh! (surprise, joy)",
           "gram": "exclamation"
         },
         {
@@ -1424,7 +1424,7 @@
           "pos": "phrase",
           "stress": "dakɔʁ",
           "gloss": "okay?",
-          "gram": "fixed expression"
+          "gram": "fixed idiomatic expression ('d'accord')"
         }
       ]
     },
@@ -1755,7 +1755,7 @@
           "lemma": "oh",
           "pos": "interj",
           "stress": "o",
-          "gloss": "oh",
+          "gloss": "oh! (surprise, joy)",
           "gram": "exclamation"
         },
         {
@@ -1954,7 +1954,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "until",
-          "gram": "preposition"
+          "gram": "preposition ('à', meaning 'until')"
         },
         {
           "t": "demain,",
@@ -1992,11 +1992,11 @@
         },
         {
           "en": "going to (near future)",
-          "note": "aller + infinitive: je vais partir"
+          "note": "Aller + infinitive: je vais partir. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         },
         {
           "en": "come on!",
-          "note": "imperative 'allez!' / 'allons!'"
+          "note": "Imperative 'allez!' / 'allons!'. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         }
       ],
       "forms": {
@@ -2165,16 +2165,12 @@
       ],
       "related": [
         {
-          "word": "allemand",
-          "gloss": "German"
-        },
-        {
-          "word": "allergique",
-          "gloss": "allergic"
-        },
-        {
           "word": "aller-retour",
           "gloss": "round trip"
+        },
+        {
+          "word": "s'en aller",
+          "gloss": "to leave, go away"
         }
       ]
     },
@@ -2186,15 +2182,15 @@
       "meanings": [
         {
           "en": "so, well (opening a remark)",
-          "note": "to draw a conclusion or move on"
+          "note": "To draw a conclusion or move on. Invariable French adverb meaning 'so'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "then",
-          "note": ""
+          "note": "Invariable French adverb meaning 'so'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "et alors? = so? / and?",
-          "note": ""
+          "note": "Invariable French adverb meaning 'so'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
@@ -2215,8 +2211,12 @@
       ],
       "related": [
         {
-          "word": "très alors",
-          "gloss": "related adverbial expression (so)"
+          "word": "alors que",
+          "gloss": "whereas, while"
+        },
+        {
+          "word": "donc",
+          "gloss": "so, therefore"
         }
       ]
     },
@@ -2228,7 +2228,7 @@
       "meanings": [
         {
           "en": "assistant",
-          "note": "feminine: assistante"
+          "note": "Feminine: assistante. Masculine noun ('le assistant', plural 'les assistants') inherited through Romance vocabulary, used in everyday and professional French for 'assistant'."
         }
       ],
       "forms": {
@@ -2295,11 +2295,11 @@
       "meanings": [
         {
           "en": "to wait (for)",
-          "note": "no preposition: attendre quelqu'un"
+          "note": "No preposition: attendre quelqu'un. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to wait'."
         },
         {
           "en": "to expect",
-          "note": ""
+          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to wait'."
         }
       ],
       "forms": {
@@ -2454,30 +2454,22 @@
       ],
       "examples": [
         {
-          "text": "Camille, attendez!",
-          "trans": "Camille, wait!"
+          "text": "Attendez-moi deux minutes devant le bureau!",
+          "trans": "Wait two minutes for me in front of the office!"
+        },
+        {
+          "text": "Nous attendons un appel très important de Los Angeles.",
+          "trans": "We are waiting for a very important call from Los Angeles."
         },
         {
           "text": "J'attends le bus.",
           "trans": "I'm waiting for the bus."
-        },
-        {
-          "text": "On attend l'appel.",
-          "trans": "We're waiting for the call."
         }
       ],
       "related": [
         {
           "word": "attention",
           "gloss": "attention"
-        },
-        {
-          "word": "inattendu",
-          "gloss": "unexpected"
-        },
-        {
-          "word": "atterrir",
-          "gloss": "to land"
         }
       ]
     },
@@ -2493,7 +2485,7 @@
         },
         {
           "en": "au contraire = on the contrary; au revoir = goodbye",
-          "note": ""
+          "note": "Core French preposition meaning 'to the', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "forms": null,
@@ -2512,7 +2504,12 @@
           "trans": "I'm at work."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "au",
+          "gloss": "to the"
+        }
+      ]
     },
     "avoir": {
       "lemma": "avoir",
@@ -2530,11 +2527,11 @@
         },
         {
           "en": "auxiliary of the passé composé",
-          "note": "j'ai parlé"
+          "note": "J'ai parlé. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
         },
         {
           "en": "il y a + time = ago; il y a = there is",
-          "note": ""
+          "note": "French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
         }
       ],
       "forms": {
@@ -2692,11 +2689,11 @@
       "meanings": [
         {
           "en": "good",
-          "note": "usually before the noun"
+          "note": "Usually before the noun. Descriptive French adjective meaning 'good'; agrees in gender and number with the noun it modifies."
         },
         {
           "en": "well, okay (interjection)",
-          "note": "bon, ..."
+          "note": "Bon, . Descriptive French adjective meaning 'good'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
@@ -2740,8 +2737,12 @@
       ],
       "related": [
         {
-          "word": "bonement",
-          "gloss": "in a good manner (adv.)"
+          "word": "très bon",
+          "gloss": "very good"
+        },
+        {
+          "word": "plus bon",
+          "gloss": "more good"
         }
       ]
     },
@@ -2772,7 +2773,12 @@
           "trans": "Hello, Camille."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "bonjour",
+          "gloss": "hello"
+        }
+      ]
     },
     "bureau": {
       "lemma": "bureau",
@@ -2782,11 +2788,11 @@
       "meanings": [
         {
           "en": "office",
-          "note": "Standard masculine noun meaning 'office; desk'."
+          "note": "Masculine noun ('le bureau', plural 'les bureaux') inherited through Romance vocabulary, used in everyday and professional French for 'office'."
         },
         {
           "en": "desk",
-          "note": ""
+          "note": "Masculine noun ('le bureau', plural 'les bureaux') inherited through Romance vocabulary, used in everyday and professional French for 'office'."
         }
       ],
       "forms": {
@@ -2825,8 +2831,8 @@
       "plural": "bureaux",
       "related": [
         {
-          "word": "le/la bureau",
-          "gloss": "the office (with article)"
+          "word": "un bureau / des bureaux",
+          "gloss": "a office / offices"
         }
       ]
     },
@@ -2838,11 +2844,11 @@
       "meanings": [
         {
           "en": "this, that (demonstrative determiner)",
-          "note": "ce poste, cette femme"
+          "note": "Ce poste, cette femme. Spoken French det expression meaning 'this', common in natural conversation."
         },
         {
           "en": "it, that (pronoun)",
-          "note": "c'est = it is"
+          "note": "C'est = it is. Spoken French det expression meaning 'this', common in natural conversation."
         }
       ],
       "forms": {
@@ -2884,7 +2890,12 @@
           "trans": "I can't come tonight."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "ce",
+          "gloss": "this"
+        }
+      ]
     },
     "chiffre": {
       "lemma": "chiffre",
@@ -2894,11 +2905,11 @@
       "meanings": [
         {
           "en": "figure, number, digit",
-          "note": "Standard masculine noun meaning 'figure, number'."
+          "note": "Masculine noun ('le chiffre', plural 'les chiffres') inherited through Romance vocabulary, used in everyday and professional French for 'figure'."
         },
         {
           "en": "les chiffres = the figures (money)",
-          "note": ""
+          "note": "Masculine noun ('le chiffre', plural 'les chiffres') inherited through Romance vocabulary, used in everyday and professional French for 'figure'."
         }
       ],
       "forms": {
@@ -2937,8 +2948,8 @@
       "plural": "chiffres",
       "related": [
         {
-          "word": "le/la chiffre",
-          "gloss": "the figure (with article)"
+          "word": "un chiffre / des chiffres",
+          "gloss": "a figure / figures"
         }
       ]
     },
@@ -2950,11 +2961,11 @@
       "meanings": [
         {
           "en": "how",
-          "note": "comment ça va?"
+          "note": "Comment ça va?. Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem. Prefix 'com-' (from Latin 'cum') means 'with, together'."
         },
         {
           "en": "et comment! = you bet! / absolutely!",
-          "note": "informal"
+          "note": "Informal. Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem. Prefix 'com-' (from Latin 'cum') means 'with, together'."
         }
       ],
       "forms": null,
@@ -2996,7 +3007,7 @@
         },
         {
           "en": "être d'accord = to agree",
-          "note": ""
+          "note": "Spoken French phrase expression meaning 'okay', common in natural conversation."
         }
       ],
       "forms": null,
@@ -3015,7 +3026,12 @@
           "trans": "Okay, thanks."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "d'accord",
+          "gloss": "okay"
+        }
+      ]
     },
     "demain": {
       "lemma": "demain",
@@ -3025,11 +3041,11 @@
       "meanings": [
         {
           "en": "tomorrow",
-          "note": "à demain = see you tomorrow"
+          "note": "À demain = see you tomorrow. Invariable French adverb meaning 'tomorrow'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "à demain = see you tomorrow",
-          "note": ""
+          "note": "Invariable French adverb meaning 'tomorrow'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
@@ -3050,12 +3066,8 @@
       ],
       "related": [
         {
-          "word": "demander",
-          "gloss": "to ask"
-        },
-        {
-          "word": "demande",
-          "gloss": "request"
+          "word": "à demain",
+          "gloss": "see you tomorrow"
         }
       ]
     },
@@ -3067,11 +3079,11 @@
       "meanings": [
         {
           "en": "to give",
-          "note": "donner quelque chose à quelqu'un"
+          "note": "Donner quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to give'; conjugates with 'avoir' in compound tenses (past participle 'donné')."
         },
         {
           "en": "donner un âge à quelqu'un = to guess someone's age",
-          "note": "Quel âge tu lui donnes?"
+          "note": "Quel âge tu lui donnes?. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to give'; conjugates with 'avoir' in compound tenses (past participle 'donné')."
         }
       ],
       "forms": {
@@ -3246,10 +3258,6 @@
         {
           "word": "donne",
           "gloss": "deal"
-        },
-        {
-          "word": "redonner",
-          "gloss": "to give back"
         }
       ]
     },
@@ -3261,7 +3269,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": "the t is never pronounced"
+          "note": "The t is never pronounced. French conjunction meaning 'and', used to link clauses in spoken and written discourse."
         }
       ],
       "forms": null,
@@ -3280,7 +3288,12 @@
           "trans": "And you?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "et",
+          "gloss": "and"
+        }
+      ]
     },
     "fabuleux": {
       "lemma": "fabuleux",
@@ -3334,8 +3347,12 @@
       ],
       "related": [
         {
-          "word": "fabuleuxement",
-          "gloss": "in a fabulous manner (adv.)"
+          "word": "très fabuleux",
+          "gloss": "very fabulous"
+        },
+        {
+          "word": "plus fabuleux",
+          "gloss": "more fabulous"
         }
       ]
     },
@@ -3347,11 +3364,11 @@
       "meanings": [
         {
           "en": "to keep",
-          "note": "garder un enfant"
+          "note": "Garder un enfant. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to keep'; conjugates with 'avoir' in compound tenses (past participle 'gardé')."
         },
         {
           "en": "to look after",
-          "note": "garder un enfant"
+          "note": "Garder un enfant. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to keep'; conjugates with 'avoir' in compound tenses (past participle 'gardé')."
         }
       ],
       "forms": {
@@ -3496,16 +3513,8 @@
       ],
       "related": [
         {
-          "word": "regarder",
-          "gloss": "to look at"
-        },
-        {
           "word": "gardien",
           "gloss": "guardian"
-        },
-        {
-          "word": "regard",
-          "gloss": "look"
         }
       ]
     },
@@ -3517,7 +3526,7 @@
       "meanings": [
         {
           "en": "I",
-          "note": "becomes j' before a vowel"
+          "note": "Becomes j' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
@@ -3536,7 +3545,12 @@
           "trans": "I'm sorry."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "je",
+          "gloss": "I"
+        }
+      ]
     },
     "le": {
       "lemma": "le",
@@ -3546,7 +3560,7 @@
       "meanings": [
         {
           "en": "the (definite article)",
-          "note": "le, la, l', les"
+          "note": "Le, la, l', les. Spoken French det expression meaning 'the', common in natural conversation."
         },
         {
           "en": "him, her, it, them (object pronoun)",
@@ -3592,7 +3606,12 @@
           "trans": "There they are."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "le",
+          "gloss": "the"
+        }
+      ]
     },
     "mais": {
       "lemma": "mais",
@@ -3602,7 +3621,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": "mais oui! = of course!"
+          "note": "Mais oui! = of course!. French conjunction meaning 'but', used to link clauses in spoken and written discourse."
         }
       ],
       "forms": null,
@@ -3643,12 +3662,12 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Oh, merci!",
-          "trans": "Oh, thank you!"
+          "text": "Merci beaucoup pour votre aide précieuse aujourd'hui.",
+          "trans": "Thank you very much for your valuable help today."
         },
         {
-          "text": "Merci, Andréa!",
-          "trans": "Thank you, Andréa!"
+          "text": "Je te dis mille fois merci pour ce beau rôle!",
+          "trans": "I thank you a thousand times for this great role!"
         },
         {
           "text": "Je prends ça. Merci.",
@@ -3657,12 +3676,8 @@
       ],
       "related": [
         {
-          "word": "remercier",
-          "gloss": "to thank"
-        },
-        {
-          "word": "mercredi",
-          "gloss": "Wednesday"
+          "word": "merci beaucoup",
+          "gloss": "thank you very much"
         }
       ]
     },
@@ -3712,7 +3727,7 @@
       "meanings": [
         {
           "en": "oh (surprise, joy)",
-          "note": "surprise, worry or disappointment"
+          "note": "Surprise, worry or disappointment. Spoken French interj expression meaning 'oh!', common in natural conversation."
         }
       ],
       "forms": null,
@@ -3731,7 +3746,12 @@
           "trans": "Oh no!"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "oh",
+          "gloss": "oh!"
+        }
+      ]
     },
     "oui": {
       "lemma": "oui",
@@ -3741,7 +3761,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": "Everyday French adv meaning 'yes'."
+          "note": "Invariable French adverb meaning 'yes'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
@@ -3762,8 +3782,12 @@
       ],
       "related": [
         {
-          "word": "bien",
-          "gloss": "related adverbial expression (yes)"
+          "word": "non",
+          "gloss": "no"
+        },
+        {
+          "word": "si",
+          "gloss": "yes (contradicting a negative)"
         }
       ]
     },
@@ -3775,11 +3799,11 @@
       "meanings": [
         {
           "en": "no longer, not anymore",
-          "note": "with ne; pronounced 'ply'"
+          "note": "With ne; pronounced 'ply'. Spoken French part expression meaning 'no longer', common in natural conversation."
         },
         {
           "en": "more",
-          "note": "pronounced 'plys' or 'ply'"
+          "note": "Pronounced 'plys' or 'ply'. Spoken French part expression meaning 'no longer', common in natural conversation."
         }
       ],
       "forms": null,
@@ -3852,12 +3876,8 @@
       "plural": "postes",
       "related": [
         {
-          "word": "postérieur",
-          "gloss": "rear"
-        },
-        {
-          "word": "postuler",
-          "gloss": "to apply"
+          "word": "un poste / des postes",
+          "gloss": "a job / jobs"
         }
       ]
     },
@@ -3869,15 +3889,15 @@
       "meanings": [
         {
           "en": "that, which (relative object pronoun)",
-          "note": "les chiffres que vous vouliez"
+          "note": "Les chiffres que vous vouliez. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
         },
         {
           "en": "that (conjunction)",
-          "note": "je crois que..."
+          "note": "Je crois que. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
         },
         {
           "en": "what (question)",
-          "note": ""
+          "note": "High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
@@ -3896,7 +3916,12 @@
           "trans": "Tell her I can't come."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "que",
+          "gloss": "that"
+        }
+      ]
     },
     "rappeler": {
       "lemma": "rappeler",
@@ -3906,11 +3931,11 @@
       "meanings": [
         {
           "en": "to call back (on the phone)",
-          "note": "rappeler quelque chose à quelqu'un"
+          "note": "Rappeler quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to call back'; conjugates with 'avoir' in compound tenses (past participle 'rappelé')."
         },
         {
           "en": "to remind",
-          "note": "rappeler quelque chose à quelqu'un"
+          "note": "Rappeler quelque chose à quelqu'un. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to call back'; conjugates with 'avoir' in compound tenses (past participle 'rappelé')."
         }
       ],
       "forms": {
@@ -4055,8 +4080,8 @@
       ],
       "related": [
         {
-          "word": "appeler",
-          "gloss": "to call"
+          "word": "rappel",
+          "gloss": "callback"
         }
       ]
     },
@@ -4068,11 +4093,11 @@
       "meanings": [
         {
           "en": "to see again",
-          "note": "on se reverra: we'll meet again"
+          "note": "On se reverra: we'll meet again. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
         },
         {
           "en": "au revoir = goodbye",
-          "note": "literally 'until seeing again'"
+          "note": "Literally 'until seeing again'. French '-ir' verb (from Latin '-ire'). Prefix 're-'/'ré-' marks repetition, return, or intensity. Core French verb meaning 'to see again'."
         }
       ],
       "forms": {
@@ -4217,10 +4242,6 @@
       ],
       "related": [
         {
-          "word": "voir",
-          "gloss": "to see"
-        },
-        {
           "word": "au revoir",
           "gloss": "goodbye"
         }
@@ -4234,11 +4255,11 @@
       "meanings": [
         {
           "en": "sure, certain",
-          "note": "bien sûr = of course"
+          "note": "Bien sûr = of course. Descriptive French adjective meaning 'sure'; agrees in gender and number with the noun it modifies."
         },
         {
           "en": "safe",
-          "note": ""
+          "note": "Descriptive French adjective meaning 'sure'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
@@ -4282,8 +4303,8 @@
       ],
       "related": [
         {
-          "word": "sûrement",
-          "gloss": "in a sure manner (adv.)"
+          "word": "bien sûr",
+          "gloss": "of course"
         }
       ]
     },
@@ -4295,11 +4316,11 @@
       "meanings": [
         {
           "en": "so much",
-          "note": "after the verb"
+          "note": "After the verb. Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
         },
         {
           "en": "so (before an adjective)",
-          "note": "c'est tellement simple"
+          "note": "C'est tellement simple. Manner adverb formed by adding '-ment' (from Latin 'mente', 'with a ... mind') to the feminine adjective stem."
         }
       ],
       "forms": null,
@@ -4320,12 +4341,8 @@
       ],
       "related": [
         {
-          "word": "intelligent",
-          "gloss": "smart"
-        },
-        {
-          "word": "intellectuel",
-          "gloss": "intellectual"
+          "word": "tellement",
+          "gloss": "so"
         }
       ]
     },
@@ -4337,11 +4354,11 @@
       "meanings": [
         {
           "en": "to hold",
-          "note": "imperative: tiens! / tenez!"
+          "note": "Imperative: tiens! / tenez!. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to hold'."
         },
         {
           "en": "here you are (handing something over)",
-          "note": "imperative: tiens! / tenez!"
+          "note": "Imperative: tiens! / tenez!. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to hold'."
         }
       ],
       "forms": {
@@ -4510,8 +4527,8 @@
       ],
       "related": [
         {
-          "word": "retenir",
-          "gloss": "to remember"
+          "word": "tenu",
+          "gloss": "past participle of 'tenir' (hold)"
         }
       ]
     },
@@ -4523,11 +4540,11 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "tout le temps, tout le monde"
+          "note": "Tout le temps, tout le monde. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
           "en": "everything (pronoun)",
-          "note": "je vais tout donner"
+          "note": "Je vais tout donner. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
@@ -4592,23 +4609,23 @@
       "meanings": [
         {
           "en": "there (it) is, here you are",
-          "note": "presenting something"
+          "note": "Presenting something. Invariable French adverb meaning 'there is'; placed immediately after the conjugated verb in simple tenses."
         },
         {
           "en": "that's it",
-          "note": ""
+          "note": "Invariable French adverb meaning 'there is'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Voilà.",
-          "trans": "There you go."
+          "text": "Voilà exactement le contrat que je cherchais depuis ce matin!",
+          "trans": "Here is the exact contract I have been looking for since this morning!"
         },
         {
-          "text": "Les voilà.",
-          "trans": "There they are."
+          "text": "Nous voilà enfin arrivés devant le grand hôtel.",
+          "trans": "Here we are at last in front of the grand hotel."
         },
         {
           "text": "Voilà la salle de presse.",
@@ -4617,8 +4634,12 @@
       ],
       "related": [
         {
-          "word": "très voilà",
-          "gloss": "related adverbial expression (there is)"
+          "word": "voici",
+          "gloss": "here is"
+        },
+        {
+          "word": "voir",
+          "gloss": "to see"
         }
       ]
     },
@@ -4630,7 +4651,7 @@
       "meanings": [
         {
           "en": "your (formal, or more than one person)",
-          "note": "polite or plural 'you'"
+          "note": "Polite or plural 'you'. Spoken French det expression meaning 'your', common in natural conversation."
         }
       ],
       "forms": {
@@ -4672,7 +4693,12 @@
           "trans": "Your name?"
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "votre",
+          "gloss": "your"
+        }
+      ]
     },
     "vouloir": {
       "lemma": "vouloir",
@@ -4686,7 +4712,7 @@
         },
         {
           "en": "vouloir + infinitive = to want to",
-          "note": "elle ne veut plus me parler"
+          "note": "Elle ne veut plus me parler. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
         }
       ],
       "forms": {
@@ -4831,8 +4857,12 @@
       ],
       "related": [
         {
-          "word": "revouloir",
-          "gloss": "verb family relative (to want)"
+          "word": "volonté",
+          "gloss": "will, determination"
+        },
+        {
+          "word": "en vouloir à",
+          "gloss": "to hold a grudge against"
         }
       ]
     },
@@ -4848,7 +4878,7 @@
         },
         {
           "en": "you (plural)",
-          "note": ""
+          "note": "High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
         },
         {
           "en": "(to) you as object",
@@ -4886,15 +4916,15 @@
       "meanings": [
         {
           "en": "to (direction)",
-          "note": "à votre bureau"
+          "note": "À votre bureau. Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "at, in (place)",
-          "note": ""
+          "note": "Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
         },
         {
           "en": "until (in greetings)",
-          "note": "à bientôt, à demain"
+          "note": "À bientôt, à demain. Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "forms": null,
@@ -4913,7 +4943,12 @@
           "trans": "I'm in Paris."
         }
       ],
-      "related": []
+      "related": [
+        {
+          "word": "à",
+          "gloss": "to"
+        }
+      ]
     },
     "être": {
       "lemma": "être",
@@ -4927,7 +4962,7 @@
         },
         {
           "en": "auxiliary for some verbs in the passé composé",
-          "note": "verbs of movement: elle est partie"
+          "note": "Verbs of movement: elle est partie. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
         }
       ],
       "forms": {
@@ -5096,8 +5131,12 @@
       ],
       "related": [
         {
-          "word": "reêtre",
-          "gloss": "verb family relative (to be)"
+          "word": "un être",
+          "gloss": "a being, person"
+        },
+        {
+          "word": "peut-être",
+          "gloss": "maybe, perhaps"
         }
       ]
     }
