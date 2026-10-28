@@ -11,14 +11,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Твой суп, дружище, приятного аппетита. | Your soup, buddy, enjoy your meal. | #282 00:18:55: Твой суп, дружище, приятного аппетита. | verbatim |
-| 2 | Вика | Виктор Петрович, что вы делаете? | Viktor Petrovich, what are you doing? | #283 00:18:57: Ты что делаешь? | verbatim |
+| 2 | Вика | Витя, ты что делаешь? | Vitya, what are you doing? | #283 00:18:57: Ты что делаешь? | verbatim |
 | 3 | Шеф | Я делаю то, что должен делать. | I am doing what I must do. | #284 00:18:59: То, что должен. | verbatim |
 | 4 | Вика | Но там же сидит важный критик! | But an important critic is sitting right there! | #284 00:18:59: Там же критик. | verbatim |
 | 5 | Шеф | Мне всё равно, кто там сидит. | I do not care who is sitting there. | #285 00:19:01: Мне что, это только одно и надо? | verbatim |
 | 6 | Шеф | Этот гость заказал суп раньше. | This guest ordered soup earlier. | #287 00:19:06: Этот человек раньше заказал суп, он его получил. | verbatim |
 | 7 | Вика | Критик очень зол, он уйдёт! | The critic is very angry, he will leave! | new | new |
 | 8 | Шеф | Пусть уходит, если не умеет ждать. | Let him leave if he does not know how to wait. | new | new |
-| 9 | Вика | Вы рискуете репутацией нашего ресторана. | You are risking our restaurant's reputation. | new | new |
+| 9 | Вика | Ты рискуешь репутацией нашего ресторана. | You are risking our restaurant's reputation. | new | new |
 | 10 | Шеф | Да будь он хоть трижды критик! | Even if he were three times a critic! | #285 00:19:01: Да будь он хоть трижды критик, | verbatim |
 | 11 | Шеф | Я всем гостям подаю по очереди. | I serve all guests in turn. | #286 00:19:04: я всем подаю по очереди. | verbatim |
 | 12 | Шеф | У меня на кухне все равны! | In my kitchen everyone is equal! | #289 00:19:12: У меня на кухне все равны. | verbatim |
@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Your soup, buddy, enjoy your meal.' "Priyatnogo appetita" is literally "of pleasant appetite", the usual Russian "bon appetit". "Druzhishche", "buddy", is the warm word the guest at the bar used for Kostya. Barinov serves the man himself.
-- 'Viktor Petrovich, what are you doing?' Vika uses the polite "vy", with his first name and father's name. "Chto vy delaete" is "what are you doing". She can see perfectly well what he is doing.
+- 'Vitya, what are you doing?' Vika uses "ty" and the short name Vitya. "Ty chto delaesh", with "ty" up front, sounds like "what on earth are you doing". She can see perfectly well what he is doing.
 - 'I am doing what I must do.' "To, chto", "that which", is the Russian frame for "what" in the middle of a sentence. "Dolzhen" is "must". Barinov answers calmly.
 - 'But an important critic is sitting right there!' The little "zhe" in "tam zhe" adds "after all, right there". "Vazhny kritik" is "an important critic". Vika points at the table.
 - 'I do not care who is sitting there.' "Mne vsyo ravno", "to me all the same", is the idiom for "I don't care". "Ravno" is built on "ravny", "equal", which comes back in the last line. Barinov is clear.
