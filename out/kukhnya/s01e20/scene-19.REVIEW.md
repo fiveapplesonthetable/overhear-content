@@ -10,30 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Элеонора | Красивое кольцо. | Beautiful ring. | #302 00:20:30: Красивое кольцо | verbatim |
-| 2 | Нагиев | Макс отдал. | Max gave it away. | #303 00:20:32: Макс отдал | verbatim |
-| 3 | Шеф | Макс? | Max? | #304 00:20:34: Макс | verbatim |
-| 4 | Нагиев | Элеонора Андреевна, прошу. | Eleonora Andreyevna, please, have a seat. | #305 00:20:37: Андреевна<br>#306 00:20:43: Прошу | verbatim |
-| 5 | Шеф | Кушай, кушай, хозяин платит. | Eat up, eat up, the owner is paying. | #307 00:20:44: хозяин платит | verbatim |
-| 6 | Нагиев | О, смотри, кто пришёл. Здравствуйте. | Oh, look who's here. Hello. | #308 00:20:49: О, смотри, кто<br>#309 00:20:51: Здравствуйте | verbatim |
-| 7 | Элеонора | Не помешаю? | Am I interrupting? | #310 00:20:56: Не помешаю | verbatim |
-| 8 | Элеонора | Виктор Петрович, я в курсе того, что произошло. | Viktor Petrovich, I know what happened. | #311 00:21:04: Виктор Петрович, я в курсе того, что произошло | verbatim |
-| 9 | Элеонора | Я вам очень сочувствую. | I really feel for you. | #312 00:21:10: Я вам очень сочувствую | verbatim |
-| 10 | Элеонора | Вы настоящий профессионал. | You're a real professional. | #313 00:21:12: вы настоящий профессионал | verbatim |
-| 11 | Шеф | Вы вообще о чём? | What are you even talking about? | #315 00:21:20: Вы вообще о чем | verbatim |
-| 12 | Нагиев | У нас с вами был сложный период. | You and I went through a rough patch. | #316 00:21:24: У нас с вами был сложный период | verbatim |
-| 13 | Нагиев | Но благодаря вам у нас всё получилось. | But thanks to you, it all worked out. | #318 00:21:28: Но благодаря вам у нас все получилось | verbatim |
-| 14 | Нагиев | Спасибо вам за вас. | Thank you for being you. | #319 00:21:34: Спасибо вам за вас | verbatim |
-| 15 | Шеф | Ты что, продал ресторан? | Did you sell the restaurant? | #320 00:21:40: Ты что, продал ресторан | verbatim |
-| 16 | Шеф | Дима, как ты мог? Мы же всё исправили. | Dima, how could you? We fixed everything. | #323 00:21:47: Дима, как ты мог<br>#324 00:21:49: Мы же все исправили | verbatim |
-| 17 | Нагиев | Не ори. Вить, это бизнес. Просто бизнес. | Don't yell. Vitya, it's business. Just business. | #325 00:21:51: Не ори<br>#326 00:21:53: Вить, это бизнес<br>#327 00:21:55: Просто бизнес | verbatim |
-| 18 | Нагиев | Поверь мне, лучше продать на подъёме. | Trust me, it's better to sell on the way up. | #328 00:21:57: Поверь мне, лучше продать<br>#329 00:21:59: на подъеме | verbatim |
+| 1 | Нагиев | Элеонора Андреевна, прошу. | Eleonora Andreyevna, please, have a seat. | #305 00:20:37: Андреевна<br>#306 00:20:43: Прошу | verbatim |
+| 2 | Шеф | Кушай, кушай, хозяин платит. | Eat up, eat up, the owner is paying. | #307 00:20:44: хозяин платит | verbatim |
+| 3 | Нагиев | О, смотри, кто пришёл. Здравствуйте. | Oh, look who's here. Hello. | #308 00:20:49: О, смотри, кто<br>#309 00:20:51: Здравствуйте | verbatim |
+| 4 | Элеонора | Не помешаю? | Am I interrupting? | #310 00:20:56: Не помешаю | verbatim |
+| 5 | Элеонора | Виктор Петрович, я в курсе того, что произошло. | Viktor Petrovich, I know what happened. | #311 00:21:04: Виктор Петрович, я в курсе того, что произошло | verbatim |
+| 6 | Элеонора | Я вам очень сочувствую. | I really feel for you. | #312 00:21:10: Я вам очень сочувствую | verbatim |
+| 7 | Элеонора | Вы настоящий профессионал. | You're a real professional. | #313 00:21:12: вы настоящий профессионал | verbatim |
+| 8 | Шеф | Вы вообще о чём? | What are you even talking about? | #315 00:21:20: Вы вообще о чем | verbatim |
+| 9 | Нагиев | У нас с вами был сложный период. | You and I went through a rough patch. | #316 00:21:24: У нас с вами был сложный период | verbatim |
+| 10 | Нагиев | Но благодаря вам у нас всё получилось. | But thanks to you, it all worked out. | #318 00:21:28: Но благодаря вам у нас все получилось | verbatim |
+| 11 | Нагиев | Спасибо вам за вас. | Thank you for being you. | #319 00:21:34: Спасибо вам за вас | verbatim |
+| 12 | Шеф | Ты что, продал ресторан? | Did you sell the restaurant? | #320 00:21:40: Ты что, продал ресторан | verbatim |
+| 13 | Шеф | Дима, как ты мог? Мы же всё исправили. | Dima, how could you? We fixed everything. | #323 00:21:47: Дима, как ты мог<br>#324 00:21:49: Мы же все исправили | verbatim |
+| 14 | Нагиев | Не ори. Вить, это бизнес. Просто бизнес. | Don't yell. Vitya, it's business. Just business. | #325 00:21:51: Не ори<br>#326 00:21:53: Вить, это бизнес<br>#327 00:21:55: Просто бизнес | verbatim |
+| 15 | Нагиев | Поверь мне, лучше продать на подъёме. | Trust me, it's better to sell on the way up. | #328 00:21:57: Поверь мне, лучше продать<br>#329 00:21:59: на подъеме | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Beautiful ring.' Russian needs no verb here, and krasivoe ends in -oe because koltso, 'ring', is neuter.
-- 'Max gave it away.' The word otdal means 'gave away': ot-, 'off, away', in front of dal, 'gave'.
-- 'Max?' In Russian a one-word question works on the voice alone, with the pitch rising on the word.
 - 'Eleonora Andreyevna, please, have a seat.' Russian proshu literally means 'I ask', and a host uses it to invite you to sit or go first.
 - 'Eat up, eat up, the owner is paying.' The word khozyain means 'owner' or 'host', the one whose place it is.
 - 'Oh, look who's here. Hello.' Russian says smotri, kto prishyol, literally 'look who has come', and zdravstvuyte is the polite hello.

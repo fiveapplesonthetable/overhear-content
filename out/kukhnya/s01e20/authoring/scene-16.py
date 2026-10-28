@@ -4,30 +4,26 @@ SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 16
-TITLE = 'Старые часы  (Old Watch)'
+TITLE = 'Тебе нужнее  (You Need It More)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'max': 'Макс', 'old_man': 'Старик'}
+LABELS = {'max': 'Макс', 'passerby': 'Прохожий'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Out on the street, Max gives his granddad's old watch to an old man. Here it is in Russian."
+INTRO = "Left alone outside after his fight with Vika, Max turns to a stranger, and then hands something over. Here it is in Russian."
 OPENER = 'Now the words up close.'
 TRANSITION = "Here's the street scene again."
-OUTRO = "Max walks on, and the old man keeps the watch. In Russian, the polite reply to spasibo is ne za chto, literally 'not for anything'. See you next time!"
-CLOSING = ('old_man', 'Счастливо!')
+OUTRO = "Max gives it away and walks on. Russians say \"starik\", 'old man', to an old man, but also to a close friend of any age. See you next time!"
+CLOSING = ('max', 'Пока!')
 STORY = [
+    ('max', 'Извините. Это нормально, да?', 'Excuse me. Is this normal?', [(283, 'Извините. Это нормально, да?')], ''),
+    ('passerby', 'Ну, бывает.', 'Well, it happens.', [(285, 'Ну, бывает.')], ''),
     ('max', 'На, держись, старик.', 'Here. Hang in there, old man.', [(286, 'На, держись, старик')], ''),
-    ('old_man', 'Это мне?', 'Is this for me?', [], ''),
-    ('max', 'Тебе. Тебе нужнее.', 'For you. You need it more.', [(287, 'Тебе нужнее')], ''),
-    ('old_man', 'Спасибо, сынок.', 'Thank you, son.', [], ''),
-    ('max', 'Не за что.', "Don't mention it.", [], ''),
-    ('old_man', 'Дай бог тебе здоровья.', 'God bless you.', [], ''),
+    ('max', 'Тебе нужнее.', 'You need it more.', [(287, 'Тебе нужнее')], ''),
 ]
 WALK = [
-    (0, None, "'Here. Hang in there, old man.' Russian hands things over with na, a little word like 'here, take it', and derzhis literally means 'hold on'."),
-    (1, None, "'Is this for me?' Russian needs no verb here: eto mne, literally 'this to me'."),
-    (2, None, "'For you. You need it more.' The word nuzhnee means 'more needed', so tebe nuzhnee is literally 'to you it's more needed'."),
-    (3, None, "'Thank you, son.' Older people in Russian call a young man synok, literally 'little son', even a stranger."),
-    (4, None, "'Don't mention it.' The reply ne za chto literally means 'not for anything', the usual answer to spasibo."),
-    (5, None, "'God bless you.' Russian says dai bog tebe zdorovya, literally 'may God give you health', a thank-you you hear from older people."),
+    (0, None, "'Excuse me. Is this normal?' Russian uses \"normalno\", 'normal', all the time for 'okay' or 'fine'."),
+    (1, None, "'Well, it happens.' The word \"byvaet\", 'it happens', is what you say in Russian to shrug something off."),
+    (2, None, "'Here. Hang in there, old man.' Russian hands things over with \"na\", a little word like 'here, take it', and \"derzhis\" literally means 'hold on'."),
+    (3, None, "'You need it more.' The word \"nuzhnee\" means 'more needed', so \"tebe nuzhnee\" is literally 'to you it's more needed'."),
 ]

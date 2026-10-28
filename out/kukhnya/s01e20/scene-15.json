@@ -5,7 +5,6 @@
  "title": "В ресторане  (In the Restaurant)",
  "level": "A1 — Duolingo Section 2",
  "labels": {
-  "guest": "Гость",
   "max": "Макс",
   "vika": "Вика"
  },
@@ -58,16 +57,6 @@
   {
    "v": "vika",
    "t": "Раз ты так хочешь, я так и сделаю.",
-   "gap": 0.55
-  },
-  {
-   "v": "max",
-   "t": "Извините. Это нормально, да?",
-   "gap": 0.55
-  },
-  {
-   "v": "guest",
-   "t": "Ну, бывает.",
    "gap": 0.9
   },
   {
@@ -162,27 +151,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Since you want it that way, I'll do just that.' The word raz usually means 'once', and here it means 'since'.",
-   "gap": 0.4
-  },
-  {
-   "v": "max",
-   "t": "Извините. Это нормально, да?",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Excuse me. Is this normal?' Russian uses normalno, 'normal', all the time for 'okay' or 'fine'.",
-   "gap": 0.4
-  },
-  {
-   "v": "guest",
-   "t": "Ну, бывает.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Well, it happens.' The word byvaet, 'it happens', is what you say in Russian to shrug something off. And here's the row again.",
+   "t": "'Since you want it that way, I'll do just that.' The word raz usually means 'once', and here it means 'since'. And here's the row again.",
    "gap": 0.9
   },
   {
@@ -228,26 +197,16 @@
   {
    "v": "vika",
    "t": "Раз ты так хочешь, я так и сделаю.",
-   "gap": 0.5
-  },
-  {
-   "v": "max",
-   "t": "Извините. Это нормально, да?",
-   "gap": 0.5
-  },
-  {
-   "v": "guest",
-   "t": "Ну, бывает.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Vika takes Max at his word, and a stranger just shrugs. Russian builds blagodarnyy, 'grateful', from the same root as blagodaryu, 'I thank'. See you next time!",
+   "t": "Vika takes Max at his word. Russian builds \"blagodarnyy\", 'grateful', from the same root as \"blagodaryu\", 'I thank'. See you next time!",
    "gap": 0.5
   },
   {
-   "v": "guest",
-   "t": "Удачи!",
+   "v": "vika",
+   "t": "До встречи!",
    "gap": 0.3
   }
  ],
@@ -299,16 +258,6 @@
     "line": 8,
     "cue": 282,
     "fragment": "раз ты так настаиваешь, я так и поступлю."
-   },
-   {
-    "line": 9,
-    "cue": 283,
-    "fragment": "Извините. Это нормально, да?"
-   },
-   {
-    "line": 10,
-    "cue": 285,
-    "fragment": "Ну, бывает."
    }
   ]
  },
