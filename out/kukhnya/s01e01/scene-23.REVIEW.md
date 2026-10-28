@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are doing great at everything, Max!' Kostya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'great' with 'to work out'.
-- 'Too bad only that the chef won't appreciate this.' Here Kostya anchors the line on the word meaning 'feel sorry for' and builds the thought around 'only' and 'boss'.
-- 'We will see about that yet.' The phrasing opens with 'more' before bringing in 'to have a look' to make the point clear.
-- 'Why, he won' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And if he tastes it, he won' t like it.' Kostya uses the action verb meaning 'to try' to focus on the single completed result, pairing it with 'to be liked'.
-- 'I know our chef very well.' Kostya speaks from long experience behind the bar.
-- 'Wait, we need a more objective opinion.' Max uses the action verb meaning 'to wait a little' to focus on the single completed result, pairing it with 'necessary' and 'more'.
-- 'Let someone else taste it first.' Max expresses this naturally by combining the word for 'other' with 'at first' and 'to try'.
-- 'How long must one wait for the hot dish?' Vika puts the word for 'how much' together with 'may' and 'to wait' in a crisp, natural spoken turn of phrase.
-- 'One has to do everything herself in this kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will carry it to the hall myself right now.' The phrasing opens with 'now' before bringing in 'to carry to' and 'hall' to make the point clear.
-- 'Step aside and go back to work!' Vika dismissively asserts administrative control.
-- 'This dish is made according to all rules.' Russian omits the present-tense verb 'to be' here, linking 'dish' directly with 'made', combining 'dish' with 'made' and 'rule'.
-- 'The clients have been waiting for their delicious dinner for a long time.' Here Vika anchors the line on the word meaning 'client' and builds the thought around 'for a long time' and 'to wait'.
+- 'You are doing great at everything, Max!' Kostya praises the young cook's impressive culinary effort.
+- 'Too bad only that the chef won't appreciate this.' He warns that their boss will inevitably reject it out of spite.
+- 'We will see about that yet.' Max refuses to accept defeat before the tasting even happens.
+- 'Why, he won' Kostya predicts the stubborn boss will not even take a bite.
+- 'And if he tastes it, he won't like it.' He adds that even if the chef tries it, he will lie about the flavor.
+- 'I know our chef very well.' Kostya emphasizes his long history dealing with the erratic boss.
+- 'Wait, we need a more objective opinion.' Max realizes he must find a neutral party to judge his food.
+- 'Let someone else taste it first.' He plots to bypass the boss for a fair evaluation.
+- 'How long must one wait for the hot dish?' Vika storms in demanding the overdue main course.
+- 'One has to do everything herself in this kitchen.' She bitterly complains about having to manage the cooks constantly.
+- 'I will carry it to the hall myself right now.' Max seizes the opportunity to serve his own creation.
+- 'Step aside and go back to work!' Vika harshly shoves the rookie out of her way.
+- 'This dish is made according to all rules.' Max tries to defend his plate as a perfectly executed recipe.
+- 'The clients have been waiting for their delicious dinner for a long time.' Vika snatches the food, entirely focused on her impatient VIP guests.

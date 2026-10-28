@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, I need to talk to you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, Max, what did you want to discuss?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have a good friend.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And he really likes you very much.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A friend who likes me so much?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, he wants to ask you on a date.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I immediately understood everything perfectly!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Guys always say that about friends!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait, you understood completely wrong.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There is a real cosmic connection between us!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is so great that you said this!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I must run, the chef is calling for hot food!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Now I really helped Kostya...' Emphatic everyday word with an ironic past cognitive statement.
+- 'Nastya, I need to talk to you.' Max tells Nastya he needs to talk to her.
+- 'Yes, Max, what did you want to discuss?' Nastya asks what he wants to discuss.
+- 'I have a good friend.' Max starts by mentioning he has a good friend.
+- 'And he really likes you very much.' Max adds that this friend really likes her.
+- 'A friend who likes me so much?' Nastya is surprised by the idea of a friend liking her so much.
+- 'Yes, he wants to ask you on a date.' Max reveals the friend wants to ask her out on a date.
+- 'I immediately understood everything perfectly!' Nastya confidently claims she understands the situation perfectly.
+- 'Guys always say that about friends!' Nastya points out guys always use the friend excuse to talk about themselves.
+- 'Wait, you understood completely wrong.' Max tries to correct her misunderstanding.
+- 'There is a real cosmic connection between us!' Nastya excitedly declares they share a cosmic connection.
+- 'It is so great that you said this!' Nastya is thrilled he brought this up.
+- 'I must run, the chef is calling for hot food!' Nastya rushes off because the chef is calling for hot food.
+- 'Now I really helped Kostya...' Max realizes his attempt to help his buddy backfired completely.

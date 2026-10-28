@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = 'After walking out on the Claude Monet kitchen, Chef Barinov is hiding in a dark storage room with a bottle. Ainura, the restaurant cleaner, stumbles upon his hiding place and catches him by surprise. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around An Unexpected Encounter line by line and unpack how the Russian works."
-TRANSITION = "Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Ainura tracks down Chef Barinov in a quiet storage room where he has been hiding and drinking alone, surprising him during her cleaning rounds. Next time you watch the episode, listen for the Russian expressions for 'loudly' and 'to make noise' — you will catch every word right away. See you next time!"
 CLOSING = ('ainura', 'Пока!')
 STORY = [
@@ -30,16 +30,16 @@ STORY = [
     ('ainura', 'Но тебе нельзя здесь оставаться.', 'But you cannot stay here.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Chef.' — a simple respectful greeting to an employer."),
-    (1, None, "'Here is where you are hiding!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (2, None, "'Ainura, is that you?' — a short question expressing recognition and surprise."),
-    (3, None, "'Do not make noise so loudly, please.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'I looked for you everywhere for a long time.' — past tense verb followed by time and place adverbs."),
-    (5, None, "'Sit down next to me, want a drink with me?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Oh, Chef, I am at work after all!' — an emphatic reminder of professional duties during a shift."),
-    (7, None, "'I still need to wash the floors.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'Drop the work, rest a little.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'You are sitting alone in the dark.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'It is quiet here and nobody bothers me.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (11, None, "'But you cannot stay here.' — a modal matching form construction expressing prohibition."),
+    (0, None, "'Hello, Chef.' Ainura offers a simple, respectful greeting to her employer."),
+    (1, None, "'Here is where you are hiding!' Ainura finally discovers the boss in his dark hiding spot."),
+    (2, None, "'Ainura, is that you?' Barinov asks to confirm who just walked into the room."),
+    (3, None, "'Do not make noise so loudly, please.' Barinov begs the cleaner to keep her voice down."),
+    (4, None, "'I looked for you everywhere for a long time.' Ainura explains she has been searching the entire building."),
+    (5, None, "'Sit down next to me, want a drink with me?' Barinov invites her to sit and share a secret drink."),
+    (6, None, "'Oh, Chef, I am at work after all!' Ainura rejects the offer, reminding him she is on shift."),
+    (7, None, "'I still need to wash the floors.' Ainura points out she still has cleaning duties to finish."),
+    (8, None, "'Drop the work, rest a little.' Barinov tells her to abandon the mop and relax."),
+    (9, None, "'You are sitting alone in the dark.' Ainura observes how sad he looks sitting all by himself."),
+    (10, None, "'It is quiet here and nobody bothers me.' Barinov claims he prefers the silence of the basement."),
+    (11, None, "'But you cannot stay here.' Ainura insists that this is no place for a head cook."),
 ]

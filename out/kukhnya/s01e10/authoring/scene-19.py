@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Clutching the envelope of cash intended for caviar, Chef Barinov triumphantly returns to the kitchen in high spirits. Convinced his secret sports gamble will pay off handsomely, he proudly shares his excitement with his sous-chef, Lyova. Let's listen to their brief exchange in Russian."
 OPENER = "Let's examine how Chef Barinov celebrates his sudden financial windfall and gives directions to his sous-chef."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to express celebration, discuss kitchen readiness, and encourage colleagues in Russian. Keep practicing these positive conversational phrases as you continue learning. Next time you watch the episode, listen for the Russian expressions for 'cheerful' and 'to come back' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -30,8 +30,8 @@ STORY = [
     ('barinov', 'Вот это правильный и бодрый настрой.', 'Now that is the right and cheerful attitude.', [], ''),
 ]
 WALK = [
-    (0, None, "'This is simply some kind of real holiday!' Russian omits the present-tense verb 'to be' here, linking 'simply' directly with 'real', combining 'simply' with 'real' and 'holiday'."),
-    (4, None, "'The stove will return to the kitchen on time, Lyova.' A confident future tense promise meant to ease a colleague's worry about work."),
-    (6, None, "'I am simply worried about the evening service.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'All right, chef, I will get back to work.' An optimistic predictive statement expressing high expectations of success for the business. Now, let's hear Chef Barinov celebrate his small triumph once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'This is simply some kind of real holiday!' Barinov warmly brings the image through connecting 'this' and 'kind' as well as 'holiday'."),
+    (1, None, "'The stove will return to the kitchen on time, Lyova.' Barinov boldly casts some idea through grouping 'stove' with 'kitchen' along with 'lyova'."),
+    (2, None, "'I am simply worried about the evening service.' Lyova clearly shares this picture by grouping 'i' and 'about' and 'service'."),
+    (3, None, "'All right, chef, I will get back to work.' An optimistic predictive statement expressing high expectations of success for the business. Now, let's hear Chef Barinov celebrate his small triumph once more."),
 ]

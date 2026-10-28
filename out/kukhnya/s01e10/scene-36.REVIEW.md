@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vika! I sat down at the corner table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hello, Tanya! Why did you come so urgently?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why didn' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Tanya, I don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You should have immediately called your own sister!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Explain to me calmly, what happened at all?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are pregnant, and I find out about it last!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where did you get such nonsense at all?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef Vitya told me about this personally!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Viktor again made up this insane story!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'So, you are not expecting a baby at all?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course not, this is simply an insolent lie!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then you need to urgently speak with Viktor.' Temporal connector with matching form word, everyday word, manner adverb, basic verb form, and matching form matching form name phrase.
+- 'Hello, Vika! I sat down at the corner table.' Meanwhile, Vika's sister Tanya rushes into the restaurant and sits down at a corner table.
+- 'Hello, Tanya! Why did you come so urgently?' Surprised to see her sister again, Vika asks why she came back in such a hurry.
+- 'Why didn' Hurt, Tanya asks why Vika kept such a huge family secret from her.
+- 'Tanya, I don' Baffled, Vika says she has no idea what Tanya is talking about.
+- 'You should have immediately called your own sister!' Tanya scolds her for not calling her own sister first.
+- 'Explain to me calmly, what happened at all?' Vika asks her to calm down and explain what supposedly happened.
+- 'You are pregnant, and I find out about it last!' Tanya blurts out the rumor: that Vika is pregnant and told her sister last.
+- 'Where did you get such nonsense at all?' Vika stares at her and asks where on earth she heard such nonsense.
+- 'Chef Vitya told me about this personally!' Tanya reveals that Viktor Barinov himself just called to tell her.
+- 'Viktor again made up this insane story!' Vika groans, realizing the rumor she started to scare Max reached Viktor and Tanya.
+- 'So, you are not expecting a baby at all?' Tanya pauses and asks if Vika really is not expecting a baby after all.
+- 'Of course not, this is simply an insolent lie!' Vika confirms it is completely false.
+- 'Then you need to urgently speak with Viktor.' Tanya tells Vika she had better go straighten things out with Viktor right away.

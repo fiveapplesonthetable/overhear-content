@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Jindi, hide this knife quickly!' Ainura urgently warns Jindi about the dangerous object in his hands.
-- 'Why should I hide this knife?' Jindi does not yet grasp why the blade causes such panic.
-- 'This is our chef's favorite knife!' Ainura explains that Barinov has a special attachment to the tool.
-- 'The chef has been looking for it all morning.' Ainura emphasizes how long the kitchen has been in turmoil.
-- 'I simply wanted to wash dishes.' Jindi defends his innocent intentions at the washing station.
-- 'If the chef sees the knife, there will be a scandal!' Ainura paints a terrifying picture of the chef's temper.
-- 'He will yell at us very loudly.' Ainura warns of the intense shouting match that would follow.
-- 'What should I do now?' Jindi asks for practical guidance to avoid trouble.
-- 'Put the knife back onto the table.' Ainura advises him to return the blade to an open work surface.
-- 'Let the chef find his knife himself.' Ainura prefers that Barinov stumble upon it naturally.
-- 'Hide it further away from here, quickly!' Ainura reiterates her frantic demand to remove suspicion.
-- 'Alright, I will put everything away now.' Jindi agrees to stash the knife out of sight.
-- 'Just do not say anything to anyone!' Ainura leads with the direct command form meaning 'to speak', followed by 'only'.
+- 'Oh, Jindi, hide this knife quickly!' Ainura gasps in sheer terror, instantly demanding that her coworker conceal the weapon he is holding.
+- 'Why should I hide this knife?' Jindi looks genuinely puzzled about why an ordinary kitchen tool is causing such intense panic.
+- 'This is our chef's favorite knife!' Ainura reveals the terrifying truth about the blade's true owner to convey the gravity of the situation.
+- 'The chef has been looking for it all morning.' Ainura frantically explains that the boss has been aggressively hunting for this exact item for hours.
+- 'I simply wanted to wash dishes.' Jindi meekly defends his actions, stating he only picked it up to do his cleaning duties.
+- 'If the chef sees the knife, there will be a scandal!' Ainura predicts a massive, violent explosion if the fearsome boss catches them with the stolen property.
+- 'He will yell at us very loudly.' Ainura warns that they will be subjected to the most deafening verbal abuse imaginable.
+- 'What should I do now?' Jindi panics, desperately asking his more experienced colleague how to escape this deadly trap.
+- 'Put the knife back onto the table.' Ainura advises him to casually drop the evidence exactly where he found it.
+- 'Let the chef find his knife himself.' Ainura decides it is safest if the raging boss simply discovers the lost item on his own.
+- 'Hide it further away from here, quickly!' Ainura changes her mind, yelling at him to get the cursed object as far away from them as possible.
+- 'Alright, I will put everything away now.' Jindi hastily agrees to ditch the terrible evidence before the angry chef spots them.
+- 'Just do not say anything to anyone!' Ainura fiercely commands absolute silence, demanding that they keep this terrifying incident a complete secret.

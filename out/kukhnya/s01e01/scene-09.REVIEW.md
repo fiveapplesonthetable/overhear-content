@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Salt the meat exactly in seven minutes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then our meat will be much more tender.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Understood, Chef, I am clocking the exact time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Step aside a little, do not disturb me!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Excuse me, Chef, I am simply watching carefully.' Politeness formula with manner adverb and first-person present verb.
-- 'Exactly three minutes remain until the dish is ready.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Keep close watch on the fire on the skillet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, Chef, I am not stepping away anywhere!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The main thing is do not overcook this tender fillet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will remove the pan from the hot stove on time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Serve the meat to the guests on a hot plate.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It will be executed in the very best form!' Future passive construction with superlative matching form matching form phrase.
+- 'Salt the meat exactly in seven minutes.' Barinov issues a strict cooking instruction, demanding absolute precision for seasoning the dish.
+- 'Then our meat will be much more tender.' The chef emphasizes the culinary reasoning behind his timing rule for maximum tenderness.
+- 'Understood, Chef, I am clocking the exact time.' Max acknowledges the direct order and assures his boss that he is monitoring the clock.
+- 'Step aside a little, do not disturb me!' Feeling crowded by his new apprentice, the head cook barks an order to give him space.
+- 'Excuse me, Chef, I am simply watching carefully.' An apologetic tone is taken as the young cook justifies his hovering by eager observation.
+- 'Exactly three minutes remain until the dish is ready.' Counting down to perfection, the veteran cook updates the kitchen on the remaining wait.
+- 'Keep close watch on the fire on the skillet.' A sharp directive is given to ensure the heat remains under tight control during cooking.
+- 'Yes, Chef, I am not stepping away anywhere!' Eager to prove his reliability, the rookie promises to stay glued to his assigned station.
+- 'The main thing is do not overcook this tender fillet.' The seasoned professional warns against the ultimate sin of ruining a delicate cut of beef.
+- 'I will remove the pan from the hot stove on time.' Promising flawless execution, the young chef pledges to take it off the heat exactly when needed.
+- 'Serve the meat to the guests on a hot plate.' Final plating instructions are barked out, ensuring the meal stays warm for the customers.
+- 'It will be executed in the very best form!' Replying with enthusiastic military-like obedience, the ambitious cook promises exceptional results.

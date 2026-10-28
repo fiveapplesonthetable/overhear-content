@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
 INTRO = "During a hectic evening service at Claude Monet, Chef Viktor Barinov pulls junior cook Max aside. Desperate for a drink during his demanding shift, Barinov orders Max to secretly fetch a bottle of cognac from the bar. Let's listen to their conspiratorial dialogue in Russian first."
 OPENER = "Let's examine how Chef Barinov issues disguised commands to his cook."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how Barinov disguises his drinking habits as culinary tasks. Listen for these phrases next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'to run' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Слушаюсь, шеф, уже бегу!', "Right away, chef, I'm already running!", [], ''),
 ]
 WALK = [
-    (2, None, "'Go to the bar and bring cognac.' The chef uses two command form verbs joined by the conjunction 'and' to give clear orders to his cook."),
-    (4, None, "'I wrote the name on this piece of paper.' The past tense verb indicates completed action, and the preposition specifies the location."),
-    (6, None, "'Go to the bar to keep up appearances.' This Russian idiom means doing something purely as a diversion so nobody suspects the truth."),
-    (10, None, "'And stuff the fish with julienne and lemon.' The verb is in a direct command, followed by the direct object the matching word ending. Okay, let's hear the full kitchen exchange once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Go to the bar and bring cognac.' Barinov quietly assigns a covert mission to his subordinate."),
+    (1, None, "'I wrote the name on this piece of paper.' Barinov provides written instructions to avoid mistakes."),
+    (2, None, "'Go to the bar to keep up appearances.' Barinov reminds him to act naturally so nobody suspects anything."),
+    (3, None, "'And stuff the fish with julienne and lemon.' Barinov throws in a legitimate cooking task as a cover story."),
 ]

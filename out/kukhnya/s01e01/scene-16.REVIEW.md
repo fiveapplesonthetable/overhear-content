@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, did you pass my important request to the chef?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, Viktoriya Sergeyevna, I told him everything.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did you say that I asked for the new menu?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, I personally reminded the chef about this.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what was his answer to that?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He only loudly shouted at the entire kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I see, he again is completely not listening to me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The chef has been very angry since this morning.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We urgently need to update the list of our dishes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Guests in the dining room are already asking for new desserts.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will go myself right now and talk to him.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Be very careful, the chef is in a bad mood.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That is fine, order in the restaurant is more important than his whims!' Comparative adjective governing a matching form noun phrase.
+- 'Sasha, did you pass my important request to the chef?' Vika checks in with her subordinate to ensure a crucial message reached the kitchen leadership.
+- 'Yes, Viktoriya Sergeyevna, I told him everything.' The waitress respectfully confirms that the communication was delivered exactly as instructed earlier.
+- 'Did you say that I asked for the new menu?' Wanting absolute certainty, the manager specifies the exact topic that was supposed to be discussed.
+- 'Yes, I personally reminded the chef about this.' Emphasizing her diligence, the staff member reassures her boss that she personally brought it up.
+- 'And what was his answer to that?' Pressing for details, the art director inquires about the culinary mastermind's reaction to the demand.
+- 'He only loudly shouted at the entire kitchen.' Recounting the volatile response, the waitress describes a typical loud outburst instead of a yes.
+- 'I see, he again is completely not listening to me.' Vika sighs in frustration, realizing her authority is being ignored once more.
+- 'The chef has been very angry since this morning.' Warning her superior, the server notes the particularly foul temper radiating from the back room.
+- 'We urgently need to update the list of our dishes.' Stressing the business necessity, the manager insists the offerings must be modernized without delay.
+- 'Guests in the dining room are already asking for new desserts.' Backing up the urgency, the waitress mentions that customers are already noticing the stale options.
+- 'I will go myself right now and talk to him.' Taking matters into her own hands, the determined manager resolves to confront the problem directly.
+- 'Be very careful, the chef is in a bad mood.' A final word of caution is offered regarding the volatile emotional state of the head cook.
+- 'That is fine, order in the restaurant is more important than his whims!' Brushing off the danger, the art director prioritizes professional standards over any temper tantrums.

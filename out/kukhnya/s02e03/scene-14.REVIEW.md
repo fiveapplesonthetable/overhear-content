@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yelena, you promised to drive me today.' Viktor reminds Yelena of the favor she owes him.
-- 'Very important business has come up for me.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'appeared' with 'very much' and 'important'.
-- 'Alright, get into my car.' Elena leads with the direct command form meaning 'sit down', pairing it with 'good' and 'car'.
+- 'Very important business has come up for me.' Calling in his favor after the car accident, Viktor claims an urgent matter has come up.
+- 'Alright, get into my car.' Feeling guilty about his injured leg, Elena agrees and invites him into her car.
 - 'Here we have finally arrived.' After two hours in Moscow traffic, they reach their destination.
 - 'Stop the car right here, please.' Viktor asks her to pull over beside a tiny street kiosk.
-- 'Why did we drive to this shop?' Here Elena anchors the line on the word meaning 'what for' and builds the thought around 'we've arrived' and 'shop'.
+- 'Why did we drive to this shop?' When Viktor makes her stop by a tiny street stall after two hours in traffic, Elena asks why they came here.
 - 'Buy me some tasty gum, please.' Viktor reveals the ridiculous goal of their trip.
 - 'Are you saying this seriously right now?' Yelena cannot believe he wasted her afternoon for chewing gum.
-- 'I spent two hours on the road!' Elena uses the action verb meaning 'to spend' to focus on the single completed result, pairing it with 'road' and 'two'.
-- 'Why are you getting so upset?' Chef Barinov leads with the direct command form meaning 'to worry', pairing it with 'why' and 'strongly'.
+- 'I spent two hours on the road!' Seeing him ask for chewing gum, Elena explodes that she spent two hours on the road for this.
+- 'Why are you getting so upset?' Viktor innocently asks why she is getting so worked up.
 - 'I just wanted to chat nicely with you.' Viktor thought getting stuck in traffic together would be fun.
-- 'No, thank you, walk further without me!' Elena expresses this naturally by combining the word for 'thank you' with 'next' and 'to walk'.
-- 'I do not want to talk to you anymore!' Furious, Yelena leaves Viktor on the street.
+- 'No, thank you, walk further without me!' Fed up with his prank, Elena tells him he can walk the rest of the way on his own.
+- 'I do not want to talk to you anymore!' Furious, Yelena leaves Viktor on the street. Now listen to Viktor and Yelena's car trip again.

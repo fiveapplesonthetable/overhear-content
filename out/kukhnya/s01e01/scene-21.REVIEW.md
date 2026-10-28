@@ -27,21 +27,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, the festive dessert is already ready!' Max announces completion with the short adjective.
-- 'Attention everyone!' The chef calls out to gather the kitchen staff.
-- 'The guest is tasting the newcomer' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Come here, sweet little doggy!' The chef reveals the guest is actually a dog.
-- 'Taste the dessert.' Chef Barinov leads with the direct command form meaning 'taste', followed by 'dessert'.
-- 'She doesn't even look at the plate.' The verb takes the preposition for directing attention.
-- 'Chef, that is unfair!' An adverb expressing indignation at the unfair test.
-- 'After all, it is a dog.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The world is not ideal at all, young man.' Russian omits the present-tense verb 'to be' here, linking 'world' directly with 'at all', combining 'world' with 'at all' and 'ideal'.
-- 'Let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What will we bet about?' the matching word ending question form asks for the terms.
-- 'An ordinary person will like my hot dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Good!' The chef accepts the idea of a culinary challenge.
-- 'You will cook a dish for me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If I like it, you stay here.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'If not, you will leave here forever.' The future verb states the severe penalty for defeat.
-- 'I agree to this bet!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'We will see what kind of cook you are!' An idiomatic phrase expressing anticipation of the trial. Alright, let's hear the whole thing once more. Now let's listen to the whole conversation again from start to finish.
+- 'Chef, the festive dessert is already ready!' Max excitedly announces that his masterpiece is fully plated.
+- 'Attention everyone!' Chef Barinov calls the staff over for a public spectacle.
+- 'The guest is tasting the newcomer' He directs all eyes to the dramatic tasting moment.
+- 'Come here, sweet little doggy!' Chef Barinov shockingly summons a canine to evaluate the food.
+- 'Taste the dessert.' He playfully encourages the animal to eat the fancy pastry.
+- 'She doesn't even look at the plate.' Chef Barinov points out the dog's complete lack of interest.
+- 'Chef, that is unfair!' Max bursts out in anger at the rigged evaluation.
+- 'After all, it is a dog.' He points out the absurdity of feeding sweets to a pet.
+- 'The world is not ideal at all, young man.' Chef Barinov smugly dismisses the complaint with a cynical life lesson.
+- 'Let' Max angrily challenges his boss to a real contest.
+- 'What will we bet about?' Chef Barinov pauses, intrigued by the rookie's sudden boldness.
+- 'An ordinary person will like my hot dish.' Max wagers that any human being would love his cooking.
+- 'Good!' Chef Barinov accepts the premise of the challenge.
+- 'You will cook a dish for me.' He decides to be the final judge of the boy's talent.
+- 'If I like it, you stay here.' Chef Barinov reiterates the reward of permanent employment.
+- 'If not, you will leave here forever.' He clearly states the devastating consequence of failure.
+- 'I agree to this bet!' Max fearlessly accepts the all-or-nothing deal.
+- 'We will see what kind of cook you are!' Chef Barinov looks forward to destroying the young man's ego.

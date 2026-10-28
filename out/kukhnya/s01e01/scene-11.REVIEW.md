@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But you are holding the menu upside down.' Ilya remarks with amusement, using the idiom meaning upside down.
-- 'The owner definitely is not standing behind this pillar.' Here Ilya anchors the line on the word meaning 'owner' and builds the thought around 'definitely' and 'is standing'.
-- 'You can wait at the bar counter.' Ilya suggests, pointing him away from the busy service lane.
-- 'Great idea, I will go to the bar!' Max agrees enthusiastically, relieved to find a safe refuge. Now listen to the full dining room dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'But you are holding the menu upside down.' Ilya gently points out the absurdity of the hiding tactic being used by the stranger.
+- 'The owner definitely is not standing behind this pillar.' The observant waiter remarks that the boss is nowhere near the architectural feature being clung to.
+- 'You can wait at the bar counter.' Suggesting a more natural waiting spot, the staff member directs the man away from the floor.
+- 'Great idea, I will go to the bar!' Max jumps at the suggestion, grateful for an excuse to escape the center of attention.

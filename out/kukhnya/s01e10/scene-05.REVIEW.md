@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, chef, how are your affairs today?' Max leads with the direct command form meaning 'hello', pairing it with 'chef' and 'how'.
-- 'Max, do not ask me foolish questions.' Chef Barinov leads with the direct command form meaning 'ask', pairing it with 'foolish' and 'questions'.
-- 'Did you lose money on bets again?' Max turns a statement into a question purely through rising intonation on the word meaning 'again', pairing it with 'lost' and 'money'.
-- 'I would gladly drink vodka right now.' Chef Barinov expresses this naturally by combining the word for 'now' with 'pleasure' and 'drank'.
-- 'What else unpleasant has happened to you?' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'else' and 'unpleasant'.
-- 'The matter is not at all about my bets.' Russian omits the present-tense verb 'to be' here, linking 'matter' directly with 'at all', followed by 'bets'.
-- 'Then what is the real problem?' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'real', followed by 'problem'.
-- 'I have important news for you.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'there is' and 'important'.
-- 'What news, chef, tell me quickly.' Max leads with the direct command form meaning 'speak', pairing it with 'news' and 'chef'.
-- 'Aunt Vika said that she loves you.' Here Chef Barinov anchors the line on the word meaning 'aunt' and builds the thought around 'said' and 'loves'.
-- 'What? That simply cannot be!' The phrasing opens with 'simply' before bringing in 'can' and 'be' to make the point clear.
-- 'She herself confessed this to me.' Chef Barinov delivers a punchy conversational reaction built around the Russian word meaning 'confessed'.
-- 'Chef, are you definitely not joking right now?' Max turns a statement into a question purely through rising intonation on the word meaning 'chef', pairing it with 'definitely' and 'are joking'.
+- 'Hello, chef, how are your affairs today?' Max leads with the direct word for 'hello', pairing it with 'chef' and 'how'.
+- 'Max, do not ask me foolish questions.' Barinov leads with the direct word for 'ask', pairing it with 'foolish' and 'questions'.
+- 'Did you lose money on bets again?' Max asks this purely through rising tone on the word for 'again', pairing it with 'lost' and 'money'.
+- 'I would gladly drink vodka right now.' Barinov expresses this naturally by combining the word for 'now' with 'pleasure' and 'drank'.
+- 'What else unpleasant has happened to you?' Max uses the classic style — literally 'at you' rather than a word for 'to have', pairing it with 'else' and 'unpleasant'.
+- 'The matter is not at all about my bets.' Russian leaves out the word for 'to be' here, linking 'matter' directly with 'at all', followed by 'bets'.
+- 'Then what is the real problem?' Russian leaves out the word for 'to be' here, linking 'then' directly with 'real', followed by 'problem'.
+- 'I have important news for you.' Barinov uses the classic style — literally 'at me' rather than a word for 'to have', pairing it with 'there is' and 'important'.
+- 'What news, chef, tell me quickly.' Max leads with the direct word for 'speak', pairing it with 'news' and 'chef'.
+- 'Aunt Vika said that she loves you.' Barinov anchors the line on the word for 'aunt' and builds the thought around 'said' and 'loves'.
+- 'What? That simply cannot be!' Max opens with 'simply' before bringing in 'can' and 'be' to make the point clear.
+- 'She herself confessed this to me.' Barinov delivers a punchy reaction built around the word for 'confessed'.
+- 'Chef, are you definitely not joking right now?' Max asks this purely through rising tone on the word for 'chef', pairing it with 'definitely' and 'are joking'.

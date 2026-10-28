@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, are you alive?' Notice the word order: 'Viktor' comes first, and 'living' finishes the sentence.
-- 'Huh?' Notice the word order: 'and' comes first, and 'and' finishes the sentence.
-- 'Oh, please forgive me.' Here 'oh' sets up the idea, while 'me' comes at the end for emphasis.
-- 'For God's sake, forgive me.' Listen for the word meaning 'God' right alongside 'excuse me' in this line.
-- 'I just didn't see you.' In Russian, 'I' leads into 'to notice' in a very natural everyday phrasing.
-- 'So this is how you deal with the competition.' A compact expression built around 'you' and 'rival'. Then Elena replies.
-- 'Here, let me help you up.' Elena puts 'give' up front so the listener immediately catches the tone, followed by 'I'.
-- 'We will go to the hospital.' Elena starts with 'will be off' and pairs it with 'the hospital' to make the point clear.
-- 'It hurts.' The first content word means 'to me', and 'it hurts' rounds out the thought. And Elena jumps in.
-- 'We need to go to the doctor.' The key word here means 'it is necessary', which Elena combines with 'to drive'.
-- 'All right, let's go.' Listen for the word meaning 'here we go' right alongside 'here we go' in this line.
-- 'Careful.' You'll hear 'careful' all the time in the show, here connected with 'careful'.
+- 'Viktor Petrovich, are you alive?' Rushing out of her car after the bump, Elena gasps and asks if Viktor is alive.
+- 'Huh?' Stunned on the pavement, Barinov can only let out a dazed 'huh?'.
+- 'Oh, please forgive me.' Elena apologizes profusely for hitting him.
+- 'For God's sake, forgive me.' Shaken by the crash, she begs him for heaven's sake to forgive her.
+- 'I just didn't see you.' She explains that she simply did not see him stepping into the street.
+- 'So this is how you deal with the competition.' Recognizing the chef from the rival restaurant next door, Viktor jokes that this is how she takes out the competition. Then Elena replies.
+- 'Here, let me help you up.' Elena reaches down and offers to help him to his feet.
+- 'We will go to the hospital.' She insists on driving him straight to the hospital.
+- 'It hurts.' In pain as he tries to stand on his leg, Viktor admits that it hurts. And Elena jumps in.
+- 'We need to go to the doctor.' Seeing him limp, Elena says they definitely need to see a doctor.
+- 'All right, let's go.' Viktor gives in and agrees to ride with her.
+- 'Careful.' Elena tells him to be careful as she helps him into the passenger seat.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, did you think that I would get scared?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I simply made you a beautiful proposal.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You wanted to test my courage now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am ready to create a strong family with you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you confident in your loud words?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am absolutely confident in every word of mine!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then listen to my honest answer in front of everyone.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I agree to become your lawful wife!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you really speaking the pure truth now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, I accept your unexpected proposal.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now we will become real groom and bride!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will see how you handle this, Maxim!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am ready for all the difficulties of our wedding!' Subject word with short adjective, matching form preposition, and matching form determinative-noun-everyday-noun phrase.
+- 'Maxim, did you think that I would get scared?' Refusing to be outdone in their game of chicken, Vika asks if Maxim really thought she would back down.
+- 'I simply made you a beautiful proposal.' Max innocently replies that he simply made her a heartfelt marriage proposal.
+- 'You wanted to test my courage now?' Vika sees right through him: he is testing her nerve in front of her family.
+- 'I am ready to create a strong family with you.' Keeping up the act, Max declares he is ready to build a strong family with her.
+- 'Are you confident in your loud words?' Narrowing her eyes, Vika asks if he is truly sure about those bold words.
+- 'I am absolutely confident in every word of mine!' Max swears he stands by every single word.
+- 'Then listen to my honest answer in front of everyone.' Calling his bluff right back, Vika tells everyone to listen to her honest answer.
+- 'I agree to become your lawful wife!' To Max's horror, Vika announces that she agrees to become his lawful wife.
+- 'Are you really speaking the pure truth now?' His smile freezing, Max asks if she is seriously saying yes right now.
+- 'Yes, I accept your unexpected proposal.' Vika coolly confirms that she accepts his proposal.
+- 'Now we will become real groom and bride!' Trapped by his own stunt, Max gulps that they are officially engaged now.
+- 'We will see how you handle this, Maxim!' Vika smirks and says they will see how well Maxim handles being a groom.
+- 'I am ready for all the difficulties of our wedding!' Trying not to panic, Max claims he is ready for every challenge of their wedding.

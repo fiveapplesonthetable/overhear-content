@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, this new ban is because of us!' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'ban' to make the point directly in conversation.
-- 'But what makes you think that?' Kostya delivers a punchy conversational reaction built around the Russian word meaning 'got'.
-- 'Because only we have a secret relationship.' Nastya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'because' and 'secret'.
-- 'Victoria simply cares about the dining room discipline.' Kostya expresses this naturally by combining the word for 'simply' with 'cares' and 'discipline'.
-- 'She looked at us very suspiciously.' Nastya puts the word for 'very' together with 'suspiciously' and 'looked' in a crisp, natural spoken turn of phrase.
-- 'You imagined it, she was looking at everyone.' Kostya uses the action verb meaning 'seemed' to focus on the single completed result, pairing it with 'was looking'.
-- 'I know that strict look very well!' The phrasing opens with 'perfectly' before bringing in 'know' and 'strict' to make the point clear.
-- 'And what should we do now?' Kostya expresses this naturally by combining the word for 'now' with 'to do'.
-- 'We need to quarrel in front of her right away.' Nastya puts the word for 'it is necessary' together with 'urgently' and 'to quarrel' in a crisp, natural spoken turn of phrase.
-- 'Why should we quarrel in the restaurant?' Here Kostya anchors the line on the word meaning 'why' and builds the thought around 'to quarrel' and 'restaurant'.
-- 'We will quarrel in pretend, only for show.' Nastya uses the action verb meaning 'will quarrel' to focus on the single completed result, pairing it with 'pretend' and 'show'.
-- 'Are you sure that this is a good plan?' Russian omits the present-tense verb 'to be' here, linking 'sure' directly with 'good', followed by 'plan'.
-- 'Vika must believe that we broke up.' Nastya puts the word for 'must' together with 'to believe' and 'broke up' in a crisp, natural spoken turn of phrase.
-- 'All right, let us put on this show.' Here Kostya anchors the line on the word meaning 'all right' and builds the thought around 'will arrange' and 'show'.
+- 'Kostya, this new ban is because of us!' Nastya panics and thinks the new rule is targeted at them.
+- 'But what makes you think that?' Kostya asks why she would even think such a thing.
+- 'Because only we have a secret relationship.' Nastya points out they are the only ones secretly dating.
+- 'Victoria simply cares about the dining room discipline.' Kostya thinks Vika is just trying to keep everyone focused on work.
+- 'She looked at us very suspiciously.' Nastya feels like Vika gave them a very suspicious look.
+- 'You imagined it, she was looking at everyone.' Kostya reassures her that Vika was looking at the whole group.
+- 'I know that strict look very well!' Nastya insists she recognized the strict way Vika was looking.
+- 'And what should we do now?' Kostya asks what their plan should be.
+- 'We need to quarrel in front of her right away.' Nastya suggests they should have a fake fight where Vika can see.
+- 'Why should we quarrel in the restaurant?' Kostya is confused about why they need to argue at work.
+- 'We will quarrel in pretend, only for show.' Nastya clarifies that it will just be a pretend fight.
+- 'Are you sure that this is a good plan?' Kostya doubts that faking a fight is a smart idea.
+- 'Vika must believe that we broke up.' Nastya says they need to trick Vika into thinking they broke up.
+- 'All right, let us put on this show.' Kostya agrees to play along and put on a show.

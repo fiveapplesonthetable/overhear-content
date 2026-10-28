@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' — a common way to express confusion or surprise at a sight.
-- 'Chef, this is my new little dog!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I bought her this morning.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I just really liked your Dyson.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I could not resist and bought a puppy.' — a natural colloquial expression for an impulsive purchase.
-- 'Sorry, I still mix them up.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It seems this one is yours, and this one is mine.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Vika, what is your dog's name?' — a standard Russian question to ask what an animal is called.
-- 'His name is Maxik!' — an affectionate diminutive name blurted out in panic.
-- 'Oh, Shih Tzu!' — a humorous mix-up between a food term and dog breed.
-- 'Just like your dog.' — wrapping up quickly to escape an awkward situation. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'What is this?' Barinov stares in total confusion at the second identical dog.
+- 'Chef, this is my new little dog!' Vika introduces her impulsive new purchase to the head chef.
+- 'I bought her this morning.' Vika explains that she went shopping earlier that day.
+- 'I just really liked your Dyson.' Vika admits she fell in love with his pet.
+- 'I could not resist and bought a puppy.' Vika says she simply had to get one for herself.
+- 'Sorry, I still mix them up.' Vika apologizes for losing track of which dog is which.
+- 'It seems this one is yours, and this one is mine.' Vika guesses the ownership based on a quick glance.
+- 'Vika, what is your dog's name?' Barinov asks what she decided to name her new companion.
+- 'His name is Maxik!' Vika blurts out the first name that comes to mind.
+- 'Oh, Shih Tzu!' Vika immediately corrects herself with the actual breed name.
+- 'Just like your dog.' Vika awkwardly points out the similarity to his own pet.

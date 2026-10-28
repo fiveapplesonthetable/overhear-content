@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, what are you doing now?' Max puts the word for 'now' together with 'are doing' in a crisp, natural spoken turn of phrase.
-- 'Well, we are on a real date!' Nastya assumes they are an official romantic couple.
-- 'No, Nastya, we are not on a date.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'date'.
-- 'You understood everything wrong yesterday.' Max expresses this naturally by combining the word for 'yesterday' with 'so' and 'understood'.
-- 'You and I are not dating at all.' Firmly clarifying their actual relationship status.
-- 'I am not your boyfriend.' Max delivers a punchy one-word reaction built around the Russian word meaning 'boyfriend'.
-- 'And you are not my girlfriend.' Max delivers a punchy one-word reaction built around the Russian word meaning 'girlfriend'.
-- 'Are you dumping me right now?' Nastya expresses this naturally by combining the word for 'now' with 'are dumping'.
-- 'These are not silly jokes at all.' Russian omits the present-tense verb 'to be' here, linking 'at all' directly with 'silly', combining 'at all' with 'silly' and 'jokes'.
-- 'Nothing ever happened between us.' Here Max anchors the line on the word meaning 'never' and builds the thought around 'was'.
-- 'And what about our kiss?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'kiss', combining 'how' with 'kiss'.
-- 'And what about our future children?' Dramatically jumping far ahead into the imagined future.
-- 'What children, Nastya?' He is completely flabbergasted by her wild assumption.
-- 'Yes, if you want, I am dumping you!' Max chooses the action verb meaning 'you want' for the ongoing action, followed by 'am dumping'.
+- 'Nastya, what are you doing now?' Max cautiously approaches to figure out what is happening.
+- 'Well, we are on a real date!' Nastya assumes they are on an official romantic outing.
+- 'No, Nastya, we are not on a date.' Max explicitly denies that this is a romantic occasion.
+- 'You understood everything wrong yesterday.' Max tells her she completely misinterpreted yesterday's events.
+- 'You and I are not dating at all.' Max firmly clarifies their actual relationship status.
+- 'I am not your boyfriend.' Max delivers a blunt reality check about his role.
+- 'And you are not my girlfriend.' Max finishes shutting down the fantasy completely.
+- 'Are you dumping me right now?' Nastya is shocked and feels like she is being dumped.
+- 'These are not silly jokes at all.' Max insists he is being completely serious.
+- 'Nothing ever happened between us.' Max reminds her that they were never actually together.
+- 'And what about our kiss?' Nastya desperately brings up their intimate moment.
+- 'And what about our future children?' Nastya dramatically jumps far ahead into her imagined future.
+- 'What children, Nastya?' Max is completely flabbergasted by her wild assumption.
+- 'Yes, if you want, I am dumping you!' Max gives up trying to reason and just accepts the breakup narrative.

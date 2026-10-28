@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want you to know.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I love you.' Max uses the informal everyday 'you' here with 'you', as friends and close colleagues do. Then Vika responds.
-- 'Stop it.' Vika replies with a single verb form meaning 'stop it' — in Russian, the verb ending alone carries the subject and tense.
-- 'Do you want to hang yourself?' Vika uses the informal everyday 'you' here with 'hang oneself', as friends and close colleagues do.
-- 'I don't care.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'the same'.
-- 'Wait.' Max replies with a single verb form meaning 'wait' — in Russian, the verb ending alone carries the subject and tense.
-- 'I am not joking.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Help!' Max replies with a single verb form meaning 'help' — in Russian, the verb ending alone carries the subject and tense.
-- 'What have you done, Victoria?' The question word for 'what' comes right at the start, followed directly by 'Viktoriya'.
-- 'You killed him.' Here the verb for 'killed' takes the everyday past-tense ending '-li', which is also used for the polite 'you'. Then Vika responds.
-- 'Kostya, help him!' Vika leads with the direct command form meaning 'help' to make the point directly in conversation.
-- 'Did you really hang yourself?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'really possible', followed by 'hang oneself'.
+- 'I want you to know.' Standing on the crate, Max tells Vika he wants her to know one thing.
+- 'I love you.' He declares openly that he loves her. Then Vika responds.
+- 'Stop it.' Vika sharply tells him to cut out the act.
+- 'Do you want to hang yourself?' She asks sarcastically if he really plans to hang himself.
+- 'I don't care.' She adds coldly that she does not care either way.
+- 'Wait.' Max calls out for her to wait before she leaves.
+- 'I am not joking.' As the crate shifts under him, he insists he is not joking.
+- 'Help!' Slipping for real, Max gasps for help.
+- 'What have you done, Victoria?' Kostya rushes in on cue and asks Victoria what she has done.
+- 'You killed him.' Still acting out the script, Kostya accuses her of killing Max. Then Vika responds.
+- 'Kostya, help him!' Realizing Max is actually strangling, Vika yells at Kostya to save him.
+- 'Did you really hang yourself?' Kostya stares in shock as he realizes Max's stunt went wrong for real.

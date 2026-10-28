@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Dima secretly finalizes the sale of the restaurant to Eleonora. Chef Barinov is absolutely devastated when he realizes that his boss sold the business right after they fixed all the problems.'
 OPENER = "Now let's go back through the exchange around Selling the Restaurant line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Dima casually brushes off the chef's anger, claiming it was just a smart business decision. Next time you watch the episode, listen for the Russian expressions for 'beautiful' and 'ring' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -34,10 +34,10 @@ STORY = [
     ('nagiyev', 'Поверь мне, лучше продать на подъеме.', 'Trust me, it is better to sell while on the upswing.', [(328, 'Поверь мне, лучше продать'), (329, 'на подъеме')], ''),
 ]
 WALK = [
-    (5, None, "'Am I interrupting? Viktor Petrovich, I know what happened.' Eleonora uses the action verb meaning 'to disturb' to focus on the single completed result, pairing it with 'course' and 'happened'."),
-    (8, None, "'What are you talking about?' Russian omits the present-tense verb 'to be', connecting 'you' directly with 'than'."),
-    (11, None, "'Did you sell the restaurant?' The question word for 'what' comes right at the start, followed directly by 'restaurant'."),
-    (13, None, "'Dima, how could you? We fixed everything.' Chef Barinov expresses this naturally by combining the word for 'how' with 'could' and 'to fix'."),
-    (14, None, "'Do not yell. Vit, it is business. Just business.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (15, None, "'Trust me, it is better to sell while on the upswing.' Nagiyev leads with the direct command form meaning 'believe', pairing it with 'better' and 'to sell'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Am I interrupting? Viktor Petrovich, I know what happened.' Eleonora enters politely by asking if she is interrupting before revealing that she knows about the recent events."),
+    (1, None, "'What are you talking about?' Barinov is completely confused and asks her what she means directly."),
+    (2, None, "'Did you sell the restaurant?' Barinov confronts his boss in disbelief, asking outright if he actually sold their workplace."),
+    (3, None, "'Dima, how could you? We fixed everything.' Barinov feels betrayed, asking how Dima could do this right after the team solved all the restaurant's issues."),
+    (4, None, "'Do not yell. Vit, it is business. Just business.' Nagiyev casually tells his friend to calm down, dismissing the emotional betrayal as simply a business decision."),
+    (5, None, "'Trust me, it is better to sell while on the upswing.' Nagiyev tries to justify the sale by instructing Barinov to trust his logic that cashing out during a peak is the smartest move."),
 ]

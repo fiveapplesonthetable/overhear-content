@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vika.' — Built around the key proper name meaning 'Vika'.
-- 'What?' Vika asks this with a single word meaning 'what', using rising intonation to turn it into a quick question.
-- 'I thought about us.' Max delivers a punchy one-word reaction built around the Russian word meaning 'thought'.
-- 'And what?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'what'.
-- 'I do not want an open relationship.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Really?' Vika asks this with a single word meaning 'honestly', using rising intonation to turn it into a quick question.
-- 'Yes.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue.
-- 'I also do not want it.' Vika expresses this naturally by combining the word for 'too' with 'want'.
-- 'I like you.' Max delivers a punchy one-word reaction built around the Russian word meaning 'appeal to'.
-- 'I like you too.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'too'.
-- 'Would you be my girlfriend?' Max turns a statement into a question purely through rising intonation on the word meaning 'be', followed by 'girl'.
-- 'Does...' Vika delivers a punchy one-word reaction built around the Russian word meaning 'this'.
+- 'What?' Vika asks what he wants.
+- 'I thought about us.' Max says he was thinking about the two of them.
+- 'And what?' Vika prompts him to continue.
+- 'I do not want an open relationship.' Max confesses he does not want an open relationship anymore.
+- 'Really?' Vika asks if he is telling the truth.
+- 'Yes.' Max firmly confirms his feelings.
+- 'I also do not want it.' Vika agrees that she does not want it either.
+- 'I like you.' Max admits that he really likes her.
+- 'I like you too.' Vika says she likes him too.
+- 'Would you be my girlfriend?' Max nervously asks if she would be his girlfriend.
+- 'Does...' Vika hesitates, processing the sudden question.

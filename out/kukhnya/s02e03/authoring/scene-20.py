@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "At the restaurant, an upset guest complains after Elena accidentally spills something on him, and Chef Viktor steps in to ask Elena about her plans for the evening. Let's listen closely to Chef Viktor and Elena's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
-TRANSITION = 'Now let us listen to the conversation once again.'
+TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around plans for the evening, and for the words meaning 'restaurant' and 'excuse me'. You'll catch them now. See you next time!"
 CLOSING = ('barinov', 'До свидания!')
 STORY = [
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Отлично.', 'Excellent.', [], ''),
 ]
 WALK = [
-    (0, None, "'What is this?' Here 'what' sets up the idea, while 'on earth' comes at the end for emphasis."),
-    (1, None, "'What kind of restaurant is this?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'restaurant'."),
-    (2, None, "'I' m sorry, I didn't mean to.' The '-a' on the end of the past-tense verb for 'wanted' tells you the subject is matching. Chef Viktor answers straight away."),
-    (3, None, "'Any plans for tonight?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'plans' straight to 'evening'."),
-    (4, None, "'I don't have any.' Notice the word order: 'me' comes first, and 'me' finishes the sentence."),
-    (5, None, "'Got something in mind?' Elena starts with 'what' and pairs it with 'there is' to make the point clear. Then Chef Viktor replies."),
-    (6, None, "'One thing.' Chef Viktor puts 'option' up front so the listener immediately catches the tone, followed by 'one'."),
-    (7, None, "'But it takes two.' You'll hear 'necessary' all the time in the show, here connected with 'the two of us together'."),
-    (8, None, "'What a subtle hint.' The question word for 'what a' comes right at the start, followed directly by 'hint'."),
-    (9, None, "'I wanted to go shopping.' The key word here means 'I', which Elena combines with 'wanted'."),
-    (10, None, "'But I like your idea.' The first content word means 'option', and 'is pleasing' rounds out the thought."),
-    (11, None, "'Excellent.' A compact expression built around 'perfect' and 'perfect'."),
+    (0, None, "'What is this?' When Elena accidentally bumps a diner, the guest exclaims in annoyance."),
+    (1, None, "'What kind of restaurant is this?' The upset customer complains about what kind of restaurant is being run here."),
+    (2, None, "'I'm sorry, I didn't mean to.' Elena quickly apologizes and explains it was an accident. Chef Viktor answers straight away."),
+    (3, None, "'Any plans for tonight?' Stepping in smoothly, Barinov changes the subject and asks Elena what her plans are for tonight."),
+    (4, None, "'I don't have any.' Still flustered, Elena admits she has no plans at all."),
+    (5, None, "'Got something in mind?' Catching his tone, she asks if he has a suggestion in mind. Then Chef Viktor replies."),
+    (6, None, "'One thing.' Viktor says he has one great option."),
+    (7, None, "'But it takes two.' He hints playfully that his plan requires the two of them together."),
+    (8, None, "'What a subtle hint.' Elena smiles and teases him for such a 'subtle' hint."),
+    (9, None, "'I wanted to go shopping.' She says she had been thinking of going shopping after work."),
+    (10, None, "'But I like your idea.' However, she admits she likes Viktor's idea much better."),
+    (11, None, "'Excellent.' Delighted that she said yes to a date, Viktor replies 'excellent'. Now let us listen to the conversation once again."),
 ]

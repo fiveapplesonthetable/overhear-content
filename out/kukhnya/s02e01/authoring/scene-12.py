@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'Kostya tells Max that he could only forgive someone if misfortune struck them, recalling a childhood story about his angry dog Ralph whom he forgave immediately after the dog was hit by a car.'
 OPENER = 'Continuing their conversation, Kostya explains his stance on forgiveness.'
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The bizarre story from Kostya leaves Max feeling even more confused than before. Next time you watch the episode, listen for the Russian expressions for 'never' and 'to know' — you will catch every word right away. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
@@ -34,13 +34,13 @@ STORY = [
     ('kostya', 'Лучше живой и злой пес, чем никакого.', 'Better a live, angry dog than no dog at all.', [], ''),
 ]
 WALK = [
-    (2, None, "'Maybe if something happened to you.' the self-directed ending on the verb for 'happened' turns the action back onto the subject."),
-    (4, None, "'When I was a kid, I had a dog.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'dog'."),
-    (5, None, "'Ralph. And one day he bit me really badly.' — Notice the proper name meaning 'Ralph' paired with the word for 'he'."),
-    (6, None, "'I was mad at him for a long time.' Kostya expresses this naturally by combining the word for 'very much' with 'for a long time' and 'to take offence'."),
-    (8, None, "'Then a car hit him.' Kostya puts the word for 'a car' together with 'knock down' and 'then' in a crisp, natural spoken turn of phrase."),
-    (10, None, "'Too bad he didn't appreciate it.' Here Max anchors the line on the word meaning 'it is a pity' and builds the thought around 'only' and 'to appreciate'."),
-    (11, None, "'What, he died?' Max delivers a punchy one-word reaction built around the Russian word meaning 'died'."),
-    (12, None, "'No, of course not. He bit me again.' The verb for 'bit' is in the matching past tense, marked by the '-l' ending."),
-    (15, None, "'Better a live, angry dog than no dog at all.' Russian omits the present-tense verb 'to be' here, linking 'better' directly with 'alive', combining 'better' with 'alive' and 'evil'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Maybe if something happened to you.' Kostya says he might forgive Max only if some bad accident happened to him."),
+    (1, None, "'When I was a kid, I had a dog.' To explain what he means, Kostya recalls a dog he owned as a kid."),
+    (2, None, "'Ralph. And one day he bit me really badly.' The dog's name was Ralph, and one day he bit Kostya badly."),
+    (3, None, "'I was mad at him for a long time.' Kostya says he stayed angry at the dog for a long time afterward."),
+    (4, None, "'Then a car hit him.' Then one day a car hit the dog in the street."),
+    (5, None, "'Too bad he didn't appreciate it.' Max jokes that it is a shame the dog did not appreciate Kostya's forgiveness."),
+    (6, None, "'What, he died?' Shocked, Max asks if the dog died in the accident."),
+    (7, None, "'No, of course not. He bit me again.' Kostya says no — once the dog recovered, it bit him all over again."),
+    (8, None, "'Better a live, angry dog than no dog at all.' Still, Kostya concludes that having an angry live dog beats having no dog at all."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I take it you won' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, I said something completely stupid again.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You get way too nervous around her.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I cannot manage to speak beautifully!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'One needs to learn this long and patiently.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Listen, maybe you could talk with her?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What exactly am I supposed to tell her?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Explain that I really like her.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Okay, I will try to talk with Nastya.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, friend, you will really help me out!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have about seven minutes right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Just say everything as gently as possible.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not worry, I am a natural diplomat!' Negative self-directed form command form with a everyday matching form noun phrase.
+- 'I take it you won' Max assumes his friend will not have a date.
+- 'Yes, I said something completely stupid again.' Kostya admits he said something foolish again.
+- 'You get way too nervous around her.' Max tells him he gets too anxious around her.
+- 'I cannot manage to speak beautifully!' Kostya complains he cannot speak eloquently.
+- 'One needs to learn this long and patiently.' Max explains that such a skill takes time and patience to learn.
+- 'Listen, maybe you could talk with her?' Kostya asks if his friend could speak to her for him.
+- 'What exactly am I supposed to tell her?' Max wonders what exactly he should tell her.
+- 'Explain that I really like her.' Kostya wants him to express his strong feelings for her.
+- 'Okay, I will try to talk with Nastya.' Max agrees to try talking with Nastya.
+- 'Thank you, friend, you will really help me out!' Kostya expresses deep gratitude for the help.
+- 'I have about seven minutes right now.' Max notes he has about seven minutes free right now.
+- 'Just say everything as gently as possible.' Kostya begs him to speak as gently as possible.
+- 'Do not worry, I am a natural diplomat!' Max confidently claims to be a natural diplomat.

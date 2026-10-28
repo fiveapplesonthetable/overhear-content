@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, dear Victoria Sergeyevna.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', followed by 'expensive'.
-- 'Good morning, respected Igor Valentinovich.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', pairing it with 'respected' and 'Igor'.
-- 'You look simply wonderful today!' The phrasing opens with 'today' before bringing in 'just' and 'perfectly' to make the point clear.
-- 'Thank you very much for the compliment.' Russian omits the present-tense verb 'to be' here, linking 'big' directly with 'thank you', combining 'big' with 'thank you' and 'complimentary gift'.
-- 'I try not to fall behind you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Behind me? You are very kind to me.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'kind' to make the point directly in conversation.
-- 'You always wear an excellent formal suit.' Vika leads with the direct command form meaning 'to carry', pairing it with 'always' and 'excellent'.
-- 'So for you this is like a competition?' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'how', followed by 'competition'.
-- 'Maybe, only just a little bit.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then I think I will surrender right away.' Here the speaker anchors the line on the word meaning 'back then' and builds the thought around 'will surrender' and 'right'.
-- 'Why do you surrender so quickly?' Vika leads with the direct command form meaning 'to give up', pairing it with 'why' and 'quickly'.
-- 'Because it is impossible to argue with you.' the speaker expresses this naturally by combining the word for 'because' with 'impossible' and 'to argue'.
-- 'Have a good workday in the restaurant.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'working', pairing it with 'days' and 'restaurant'.
-- 'Thank you, Vika, and have a successful day too!' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'successful', followed by 'days'.
+- 'Good morning, dear Victoria Sergeyevna.' Igor greets Victoria warmly in the dining room using her formal name.
+- 'Good morning, respected Igor Valentinovich.' Vika returns the polite morning greeting with equal formality.
+- 'You look simply wonderful today!' Igor gallantly compliments her on how wonderful she looks today.
+- 'Thank you very much for the compliment.' Vika thanks the new owner graciously for the kind words.
+- 'I try not to fall behind you.' She jokes that she is just trying to keep up with his sharp style.
+- 'Behind me? You are very kind to me.' Flattered, Igor replies that she is being far too kind to him.
+- 'You always wear an excellent formal suit.' Vika points out that he always wears an impeccable formal suit.
+- 'So for you this is like a competition?' Igor smilingly asks whether she sees their elegance as a friendly competition.
+- 'Maybe, only just a little bit.' Vika playfully admits that maybe it is, just a little bit.
+- 'Then I think I will surrender right away.' Igor laughs and says in that case he will surrender right away.
+- 'Why do you surrender so quickly?' Vika teases him for giving up so fast.
+- 'Because it is impossible to argue with you.' Igor replies smoothly that arguing with a woman like her is impossible.
+- 'Have a good workday in the restaurant.' Vika wishes him a pleasant workday at the restaurant.
+- 'Thank you, Vika, and have a successful day too!' Igor thanks her warmly, addressing her casually as Vika as he wishes her a great day.

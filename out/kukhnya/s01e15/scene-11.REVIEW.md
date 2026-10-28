@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, take care of the last order.' — Notice the proper name meaning 'Fedya' paired with the verb for 'to attend to, take care of, engage in'.
-- 'That is it, the kitchen is closed.' Russian omits the present-tense verb 'to be', connecting 'everything' directly with 'classified'.
-- 'I always said that you are the most capable.' Chef Viktor uses the informal everyday 'you' here with 'capable', as friends and close colleagues do.
-- 'Viktor Petrovich, you have a sick heart.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
-- 'My heart is in perfect order.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'heart' with 'full' and 'order'.
-- 'So you tricked me?' Lyova turns a statement into a question purely through rising intonation on the word meaning 'cheated' to make the point directly in conversation.
-- 'And how else could I bring you back?' The phrasing opens with 'how' before bringing in 'more' and 'give back' to make the point clear.
-- 'Ah, you bastard!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'scoundrel', combining 'oh' with 'scoundrel'.
-- 'Leva, calm down!' — Notice the proper name meaning 'Lyova' paired with the verb for 'calm down'.
-- 'I will give you an attack right now!' Here Lyova anchors the line on the word meaning 'now' and builds the thought around 'to arrange' and 'attack'.
-- 'Leva, put that in its place!' — Notice the proper name meaning 'Lyova' paired with the verb for 'put, place'.
-- 'I will kill you!' Lyova uses the informal everyday 'you' here with 'you', as friends and close colleagues do.
+- 'Fedya, take care of the last order.' Lyova directs Fedya to handle the final ticket of the night.
+- 'That is it, the kitchen is closed.' Announcing the end of the shift, he declares the kitchen officially shut down.
+- 'I always said that you are the most capable.' Barinov offers a sudden compliment, calling him the most talented cook they have.
+- 'Viktor Petrovich, you have a sick heart.' Reminding his boss of his health, Lyova points out his heart condition.
+- 'My heart is in perfect order.' Barinov casually reveals that his heart is actually working perfectly.
+- 'So you tricked me?' Realizing the deception, Lyova asks if the whole medical emergency was a lie.
+- 'And how else could I bring you back?' Defending the trick, Barinov asks what other choice he had to get him to return.
+- 'Ah, you bastard!' Lyova lashes out, throwing a harsh insult at his deceitful boss.
+- 'Leva, calm down!' Barinov tries to calm him down as tempers flare.
+- 'I will give you an attack right now!' Furious at the manipulation, Lyova threatens to cause a real medical emergency.
+- 'Leva, put that in its place!' Ordering him to stop, Barinov demands he put down whatever he grabbed.
+- 'I will kill you!' Lyova shouts a violent threat in a fit of rage.

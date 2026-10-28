@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are you going?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'where to'.
-- 'I am going to Nastya.' Max delivers a punchy one-word reaction built around the Russian word meaning 'going'.
-- 'You see, I cannot move in with her.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why do you not want to live with her?' Max expresses this naturally by combining the word for 'why' with 'do you want' and 'to live'.
-- 'Max and I split the rent together.' Kostya puts the word for 'together' together with 'flat' and 'pay' in a crisp, natural spoken turn of phrase.
-- 'This is a very stupid and bad excuse.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'silly', pairing it with 'bad' and 'excuse'.
-- 'He cannot afford it on his own.' The phrasing opens with 'one' before bringing in 'to pull' to make the point clear.
-- 'If you do not want to live with me, say so.' Max leads with the direct command form meaning 'say', pairing it with 'do you want' and 'to live'.
-- 'I do want to. Max does not want to.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She will not believe you.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to believe'.
-- 'I understand him. But I will talk to him.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You need to do this today.' Max expresses this naturally by combining the word for 'necessary' with 'to do' and 'today'.
-- 'I promise.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'promise'.
+- 'Where are you going?' Kostya drops a quick question to see where his roommate is heading off to.
+- 'I am going to Nastya.' Giving a straightforward answer, the friend states his destination without going into detail.
+- 'You see, I cannot move in with her.' Trying to explain his dilemma, he introduces the main issue blocking his relationship progress.
+- 'Why do you not want to live with her?' Confused by the hesitation, Max asks for the reason behind his reluctance to take the next step.
+- 'Max and I split the rent together.' Pointing out their financial arrangement, he highlights the practical complication of moving out.
+- 'This is a very stupid and bad excuse.' Not buying the logic, the listener shoots down the reasoning as completely ridiculous.
+- 'He cannot afford it on his own.' Explaining his sense of obligation, Kostya worries about leaving his friend in a tough financial spot.
+- 'If you do not want to live with me, say so.' Max confronts him directly, demanding honesty if he is actually trying to find a way out.
+- 'I do want to. Max does not want to.' Clarifying the situation, he explains that he is ready, but his roommate is the one holding things back.
+- 'She will not believe you.' Warning his friend, the speaker points out that the excuse sounds too flimsy to be trusted.
+- 'I understand him. But I will talk to him.' Resolving to fix the issue, Kostya promises to have a serious conversation to sort things out.
+- 'You need to do this today.' Adding pressure, Max insists that the problem must be handled immediately without delay.
+- 'I promise.' Giving his word, Kostya confirms he will follow through on his commitment.

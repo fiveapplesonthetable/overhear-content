@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Nastya decides to leave the restaurant party early because she is feeling bored. Kostya rushes after her to stop her from leaving, as he has something very important to tell her.'
 OPENER = "Now let's go back through the exchange around Leaving the Party line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya successfully stops Nastya, preparing himself for a major life decision. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'for now' — you will catch every word right away. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
@@ -32,8 +32,8 @@ STORY = [
     ('kostya', 'Пожалуйста, выслушай меня.', 'Please, hear me out.', [], ''),
 ]
 WALK = [
-    (1, None, "'Bye.' A crisp, everyday conversational reply meaning 'bye' that you will hear constantly in Russian dialogue."),
-    (2, None, "'Oh, you are leaving already?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'already', followed by 'are leaving'."),
-    (3, None, "'Yeah. It is kind of a downer here.' Russian omits the present-tense verb 'to be' here, linking 'yeah' directly with 'somehow', combining 'yeah' with 'somehow' and 'here'."),
-    (13, None, "'Please, hear me out.' Kostya leads with the direct command form meaning 'hear out' to make the point directly in conversation. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Bye.' Nastya offers a quick, informal farewell as she tries to leave the boring party early."),
+    (1, None, "'Oh, you are leaving already?' Kostya expresses his surprise that she is departing so soon just by raising his voice on the words for leaving already."),
+    (2, None, "'Yeah. It is kind of a downer here.' Nastya agrees and explains her mood by directly linking words meaning somehow and joyless to describe the atmosphere."),
+    (3, None, "'Please, hear me out.' Kostya begs her to stay, using a direct request for her to listen because he has something crucial to share."),
 ]

@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Guys, the guests in the dining hall want the chef!' Sasha announces urgently to the kitchen staff.
 - 'Go to Chef's office yourself!' Fedya shouts, refusing to deliver the bad news alone.
 - 'You are his right-hand man in the kitchen.' Fedya insists, using the common idiom for a trusted deputy.
-- 'No need to jinx it ahead of time!' Fedya warns, using the colloquial verb for inviting bad luck. Now listen to the full kitchen dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'No need to jinx it ahead of time!' Fedya warns, using the colloquial verb for inviting bad luck. Now listen to the full kitchen dialogue once more.

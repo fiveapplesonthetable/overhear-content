@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, good afternoon, do you remember me?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Of course, I do not remember you at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We met with you exactly one year ago.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have very many important matters today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You promised to hire me for this job.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Young man, I am in a very big hurry.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I am an excellent cook and finished culinary college.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All right, then go straight to our kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The head chef will decide whether you suit the restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The owner of the restaurant sent me straight to the chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The main thing now is to please the strict head chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We shall see whether you know how to cook deliciously.' First-person everyday future verb governing an embedded question with modal verb and basic verb form.
+- 'Dmitry Vladimirovich, good afternoon, do you remember me?' Max politely initiates contact, hoping the famous TV personality recalls their past brief encounter.
+- 'Of course, I do not remember you at all.' Nagiyev bluntly shatters the illusion, offering a delightfully honest admission of his total forgetfulness.
+- 'We met with you exactly one year ago.' The eager applicant tries to jog the celebrity's memory by providing an exact timeframe of their meeting.
+- 'I have very many important matters today.' Brushing him off, the busy owner claims his schedule is far too packed for this conversation.
+- 'You promised to hire me for this job.' Desperately clinging to hope, the young man reminds the boss of an old verbal commitment.
+- 'Young man, I am in a very big hurry.' The impatient host attempts to end the interaction by citing his severe lack of available time.
+- 'I am an excellent cook and finished culinary college.' Pushing his credentials, the rookie highlights his formal education and self-proclaimed talent.
+- 'All right, then go straight to our kitchen.' Yielding slightly to the persistence, the boss redirects the nuisance toward the back of the house.
+- 'The head chef will decide whether you suit the restaurant.' Passing the buck entirely, the businessman leaves the hiring decision up to his temperamental subordinate.
+- 'The owner of the restaurant sent me straight to the chef.' Thrilled by the minor victory, the applicant murmurs a quick recap of his newly acquired clearance.
+- 'The main thing now is to please the strict head chef.' A sudden realization hits the young cook about the real hurdle standing between him and employment.
+- 'We shall see whether you know how to cook deliciously.' Expressing mild skepticism, the owner casts doubt on the unproven abilities of the eager newcomer.

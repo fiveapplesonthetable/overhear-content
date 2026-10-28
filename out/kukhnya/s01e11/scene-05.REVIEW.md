@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look carefully at the hall!' Kostya leads with the direct command form meaning 'look', pairing it with 'carefully' and 'the hall'.
-- 'Who of them could be the critic?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Those two work in the neighboring bank.' Kostya identifies familiar neighborhood patrons of the bar.
-- 'Yes, they are our regular guests.' Russian omits the present-tense verb 'to be' here, linking 'regular' directly with 'guests', combining 'regular' with 'guests'.
-- 'And what about that man by the window?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'man', followed by 'window'.
-- 'He ordered fish and red wine.' Max evaluates the strange culinary combination.
-- 'No, a real critic would not order that.' Kostya dismisses him for poor gastronomic pairing.
-- 'And what about the guy at table number three?' Max turns a statement into a question purely through rising intonation on the word meaning 'guy', pairing it with 'table' and 'number'.
-- 'He is too young for a restaurant critic.' Kostya doubts that a young person holds such authority.
-- 'Critics usually sit alone.' Max shares his knowledge of food review behavior.
-- 'And write everything down in a notepad.' Kostya adds another telltale sign of an undercover reviewer.
-- 'Look, the woman at the seventh table!' Max leads with the direct command form meaning 'look', pairing it with 'woman' and 'seventh'.
-- 'She is looking very sternly at the menu.' Kostya observes the severe facial expression on her face.
-- 'It seems we have found our critic!' Max concludes excitedly after noticing her behavior. Now, let us listen to the complete scene again to practice your comprehension.
+- 'Max, look carefully at the hall!' Kostya tells his friend to look carefully at the hall. They are spying on the customers. 'Vnimatelno' means attentively.
+- 'Who of them could be the critic?' Max wonders who among them could be the critic. They are trying to guess. 'Kto zhe iz nikh' means who of them.
+- 'Those two work in the neighboring bank.' Kostya points out those two work in the neighboring bank. He knows the regular crowd. 'V sosednem banke' means in the next bank.
+- 'Yes, they are our regular guests.' Max agrees and says they are regular guests. 'Postoyannye' means constant or regular. They can skip them.
+- 'And what about that man by the window?' Kostya asks about that man by the window. They are moving to the next suspect. 'U okna' means by the window.
+- 'He ordered fish and red wine.' Max notes he ordered fish and red wine. This is a culinary clue. Red wine with fish is often considered a mistake.
+- 'No, a real critic would not order that.' Kostya argues a real critic would not order that combination. It proves he is not the one. 'Nastoyashchiy kritik' means a real critic.
+- 'And what about the guy at table number three?' Max asks about the guy at table number three. He points out another person. 'Za stolikom' means at the little table.
+- 'He is too young for a restaurant critic.' Kostya thinks he is too young for a restaurant critic. He dismisses him based on age. 'Slishkom molod' means too young.
+- 'Critics usually sit alone.' Max adds that critics usually sit alone. He knows some industry secrets. 'V odinochestve' means in solitude.
+- 'And write everything down in a notepad.' Kostya says they also write everything down in a notepad. He mentions another stereotype. 'Bloknot' is a small notebook.
+- 'Look, the woman at the seventh table!' Max excitedly tells him to look at the woman at the seventh table. He spots someone suspicious. 'Zhenshchina' means woman.
+- 'She is looking very sternly at the menu.' Kostya observes she is looking very sternly at the menu. This fits the profile. 'Strogo smotrit' means looks strictly.
+- 'It seems we have found our critic!' Max thinks they have finally found their critic. He is relieved. 'Kazhetsya' means it seems.

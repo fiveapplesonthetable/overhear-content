@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, look over there quickly.' Max leads with the direct command form meaning 'look', pairing it with 'quickly' and 'there'.
-- 'What happened, Max?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'happened'.
-- 'What is Vika talking about with that person?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max, I have no idea at all.' Russian omits the present-tense verb 'to be' here, linking 'at all' directly with 'idea' to make the point directly in conversation.
-- 'This man gave her a huge bouquet.' Max puts the word for 'man' together with 'donated' and 'huge' in a crisp, natural spoken turn of phrase.
-- 'Maybe it is just a regular guest.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They are smiling too sweetly at each other.' The phrasing opens with 'too' before bringing in 'nice' and 'smile' to make the point clear.
-- 'You should not worry so much.' Kostya chooses the action verb meaning 'is parked' for the ongoing action, followed by 'strongly' and 'to worry'.
-- 'Kostya, get closer to them.' Max leads with the direct command form meaning 'approach', followed by 'closer'.
-- 'Why should I approach their table?' Here Kostya anchors the line on the word meaning 'what for' and builds the thought around 'to approach' and 'small table'.
-- 'Listen to what they are discussing right now.' Max leads with the direct command form meaning 'listen', pairing it with 'now' and 'are discussing'.
-- 'Fine, I will go and find out everything.' Kostya uses the action verb meaning 'go' to focus on the single completed result, pairing it with 'to recognise'.
-- 'Thank you, friend, I await the news.' Max puts the word for 'thank you' together with 'friend' and 'I'm waiting' in a crisp, natural spoken turn of phrase.
+- 'Kostya, look over there quickly.' Max urgently directs his friend's attention to the dining room, practically issuing an order.
+- 'What happened, Max?' Kostya is startled by the sudden urgency and asks what is wrong.
+- 'What is Vika talking about with that person?' Max is consumed by jealousy as he watches his love interest chat with a stranger.
+- 'Max, I have no idea at all.' Kostya shrugs off the drama, stating clearly that he has absolutely no clue what is going on.
+- 'This man gave her a huge bouquet.' Max fumes as he recalls the extravagant gift the stranger presented to her earlier.
+- 'Maybe it is just a regular guest.' Kostya tries to be the voice of reason, suggesting a perfectly innocent explanation for the interaction.
+- 'They are smiling too sweetly at each other.' Max refuses to calm down, pointing out their overly friendly body language as proof of something more.
+- 'You should not worry so much.' Kostya advises his friend to cool off and stop overthinking the situation.
+- 'Kostya, get closer to them.' Max commands his friend to sneak over and eavesdrop on the private conversation.
+- 'Why should I approach their table?' Kostya is reluctant to play spy and questions the need to intrude on the guests.
+- 'Listen to what they are discussing right now.' Max insists, desperate to uncover the details of Vika's interaction with the wealthy man.
+- 'Fine, I will go and find out everything.' Kostya caves to the pressure and agrees to play the reluctant detective.
+- 'Thank you, friend, I await the news.' Max expresses intense gratitude, eagerly anticipating the intel his friend will gather.

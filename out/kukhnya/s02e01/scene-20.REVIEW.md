@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for saving me.' The question word for 'what' comes right at the start, followed directly by 'me'.
-- 'What a fool you are.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you think these are funny jokes?' Vika turns a statement into a question purely through rising intonation on the word meaning 'think', pairing it with 'ridiculous' and 'jokes'.
-- 'Vika, forgive me, please.' Max leads with the direct command form meaning 'sorry' to make the point directly in conversation.
-- 'I really screwed up badly.' The verb for 'screw up' is in the matching past tense, marked by the '-l' ending.
-- 'I simply do not want to lose you.' Max uses the informal everyday 'you' here with 'to lose', as friends and close colleagues do.
-- 'Do I have even a small chance?' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'there is' with 'short' and 'chance'.
-- 'I will do everything that you say.' Max uses the action verb meaning 'I'll do' to focus on the single completed result, pairing it with 'will you say'.
-- 'I no longer believe your words.' Vika puts the word for 'more' together with 'believe' and 'word' in a crisp, natural spoken turn of phrase.
-- 'But I am telling you the truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You need to change.' Vika uses the informal everyday 'you' here with 'to change', as friends and close colleagues do.
-- 'I promise, I will change.' the self-directed ending on the verb for 'to change' turns the action back onto the subject.
-- 'Once again, forgive me.' Max leads with the direct command form meaning 'sorry', pairing it with 'more' and 'time'.
+- 'Thank you for saving me.' Catching his breath on the floor, Max thanks Vika and Kostya for saving his life.
+- 'What a fool you are.' Shaken, Vika shakes her head at what a complete fool he is.
+- 'Do you think these are funny jokes?' She asks if he really thinks stunts like that are funny.
+- 'Vika, forgive me, please.' Max sincerely begs Vika to forgive him.
+- 'I really screwed up badly.' He admits without excuses that he messed up terribly.
+- 'I simply do not want to lose you.' Max tells her softly that he simply does not want to lose her.
+- 'Do I have even a small chance?' He asks whether he still has even a tiny chance to make things right.
+- 'I will do everything that you say.' Max promises to do whatever she asks of him.
+- 'I no longer believe your words.' Vika replies honestly that she can no longer trust his promises.
+- 'But I am telling you the truth.' Max insists that he is telling her the truth this time.
+- 'You need to change.' Softening slightly, Vika tells him that he truly needs to grow up and change.
+- 'I promise, I will change.' Max swears to her that he will change for good.
+- 'Once again, forgive me.' He apologizes once more for everything he put her through.

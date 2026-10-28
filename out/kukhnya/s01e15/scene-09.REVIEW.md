@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is great everywhere when there is no Max.' Russian omits the present-tense verb 'to be' here, linking 'everywhere' directly with 'great', combining 'everywhere' with 'great' and 'when'.
-- 'Yes, it is very quiet today.' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'very much', combining 'today' with 'very much' and 'easy'.
-- 'We need to work.' Fedya expresses this naturally by combining the word for 'it is necessary' with 'to work'.
-- 'I am just resting.' Senya puts the word for 'just' together with 'am resting' in a crisp, natural spoken turn of phrase.
-- 'The chef can come.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'can'.
-- 'The chef is busy now.' — Notice the proper name meaning 'chef, boss' paired with the adverb for 'now'.
-- 'Anyway, let's work.' Fedya leads with the direct command form meaning 'let's', pairing it with 'the same' and 'to work'.
-- 'Good, I am coming.' Senya puts the word for 'good' together with 'going' in a crisp, natural spoken turn of phrase.
-- 'Where is my knife?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is on the table.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'table'.
-- 'Thank you, I see it.' Fedya expresses this naturally by combining the word for 'thank you' with 'see'.
+- 'I didn' Senya expresses his surprise at how pleasant the kitchen is today.
+- 'It is great everywhere when there is no Max.' Fedya points out that any place is better without Max around.
+- 'Yes, it is very quiet today.' Agreeing with the sentiment, Senya remarks on the unusual quietness of the kitchen.
+- 'We need to work.' Bringing them back to reality, Fedya reminds his colleague that they still have jobs to do.
+- 'I am just resting.' Senya casually dismisses the reminder, claiming he is just taking a break.
+- 'The chef can come.' Fedya warns him that the boss could walk in at any moment.
+- 'The chef is busy now.' Brushing off the warning, Senya points out that the boss is currently occupied.
+- 'Anyway, let's work.' Insisting on getting back to work, Fedya tells him to stop slacking off.
+- 'Good, I am coming.' Giving up the argument, Senya finally agrees to help.
+- 'Where is my knife?' Ready to start, Fedya asks where his tool is located.
+- 'It is on the table.' Senya simply points out that the item is right there on the table.
+- 'Thank you, I see it.' Fedya sarcastically acknowledges seeing it.

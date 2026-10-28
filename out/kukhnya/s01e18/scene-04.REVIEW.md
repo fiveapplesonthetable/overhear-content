@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is not all yet, listen further.' Max leads with the direct command form meaning 'listen', pairing it with 'more' and 'next'.
-- 'What other secret will you show me?' Here Kostya anchors the line on the word meaning 'more' and builds the thought around 'secret' and 'will show'.
-- 'Now I will show you a new trick.' The phrasing opens with 'now' before bringing in 'will show' and 'new' to make the point clear.
-- 'In short, first you take a clean glass.' Max expresses this naturally by combining the word for 'long story short' with 'first' and 'do you take'.
-- 'Alright, I took a large beautiful glass.' Kostya puts the word for 'good' together with 'got' and 'big' in a crisp, natural spoken turn of phrase.
-- 'Now imagine that I am a rich guest.' Max leads with the direct command form meaning 'imagine', pairing it with 'now' and 'wealthy'.
-- 'What would you like to order tonight?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Pour me fifty grams of expensive cognac.' Max leads with the direct command form meaning 'pour', pairing it with 'fifty' and 'grams'.
-- 'Great choice, everything will be done right now.' Kostya puts the word for 'excellent' together with 'choice' and 'now' in a crisp, natural spoken turn of phrase.
-- 'But pour cheap cognac, not the expensive one!' Max leads with the direct command form meaning 'pour', pairing it with 'dear' and 'cheap'.
-- 'Do you think the guest will notice nothing at all?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'think', pairing it with 'guest' and 'at all'.
-- 'Believe me, nobody will feel the difference!' Max leads with the direct command form meaning 'believe', pairing it with 'will feel' and 'difference'.
+- 'That is not all yet, listen further.' Max tells his friend to keep paying attention because he has even more sneaky advice to share.
+- 'What other secret will you show me?' Kostya sounds hesitant, wondering what other dishonest tricks his friend has up his sleeve.
+- 'Now I will show you a new trick.' Max promises an impressive demonstration of his deceptive skills.
+- 'In short, first you take a clean glass.' Max starts giving step by step instructions, beginning with a totally normal bartending action.
+- 'Alright, I took a large beautiful glass.' Kostya plays along reluctantly, grabbing a fancy piece of glassware for the demonstration.
+- 'Now imagine that I am a rich guest.' Max sets the stage for a roleplay, asking his friend to treat him like a wealthy patron.
+- 'What would you like to order tonight?' Kostya immediately falls into his polite customer service persona.
+- 'Pour me fifty grams of expensive cognac.' Max plays the part of a big spender, ordering a tiny amount of very pricey liquor.
+- 'Great choice, everything will be done right now.' Kostya smoothly accepts the fake order, promising swift and excellent service.
+- 'But pour cheap cognac, not the expensive one!' Max suddenly drops the act, revealing the core of his scam by swapping the premium alcohol for cheap booze.
+- 'Do you think the guest will notice nothing at all?' Kostya questions the entire plan, absolutely sure a customer would taste the horrible difference.
+- 'Believe me, nobody will feel the difference!' Max confidently assures him that drunk patrons are completely incapable of telling good alcohol from bad.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, Max, let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What did I do? I just gave you a gift.' Max uses the action verb meaning 'did' to focus on the single completed result, pairing it with 'just' and 'gave'.
-- 'How are you behaving? I am very ashamed.' The phrasing opens with 'how' before bringing in 'lead' and 'very much' to make the point clear.
-- 'And aren't you ashamed that he kisses your hands?' Max expresses this naturally by combining the word for 'shameful' with 'to kiss' and 'hands'.
-- 'He is a good man and he behaves normally.' Vika puts the word for 'good' together with 'a man' and 'fine' in a crisp, natural spoken turn of phrase.
-- 'Maybe you will date him?' Max turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'be' and 'will'.
-- 'You speak nonsense, Max. I don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He gives you expensive gifts. Be grateful.' Max leads with the direct command form meaning 'be', pairing it with 'gives' and 'dear'.
-- 'Fine, if you want so, I will do so.' Vika puts the word for 'good' together with 'do you want' and 'I'll do' in a crisp, natural spoken turn of phrase.
-- 'Excellent, go to him and kiss his hands.' Max leads with the direct command form meaning 'go', pairing it with 'perfect' and 'to kiss'.
-- 'You are just a fool, Max. I am leaving here.' The phrasing opens with 'just' before bringing in 'fool' and 'am leaving' to make the point clear.
-- 'Excuse me, is this normal? Do you think this is normal?' Max leads with the direct command form meaning 'sorry', pairing it with 'fine' and 'think'.
+- 'Come on, Max, let' Vika desperately tries to pull him away from the dining room.
+- 'What did I do? I just gave you a gift.' Max plays the victim, acting like he did nothing wrong.
+- 'How are you behaving? I am very ashamed.' Vika scolds him for his embarrassing public behavior.
+- 'And aren't you ashamed that he kisses your hands?' Max starts to fire back a jealous accusation.
+- 'He is a good man and he behaves normally.' Vika defends the customer's perfectly polite conduct.
+- 'Maybe you will date him?' Max sarcastically suggests she should just go out with the wealthy guest.
+- 'You speak nonsense, Max. I don' Vika dismisses his jealous rambling as complete garbage.
+- 'He gives you expensive gifts. Be grateful.' Max bitterly tells her to appreciate the rich man's presents.
+- 'Fine, if you want so, I will do so.' Vika calls his bluff, angrily agreeing to his sarcastic suggestion.
+- 'Excellent, go to him and kiss his hands.' Max cruelly tells her to go grovel to her wealthy admirer.
+- 'You are just a fool, Max. I am leaving here.' Vika insults his intelligence and decides to walk away.
+- 'Excuse me, is this normal? Do you think this is normal?' Max drunkenly demands validation for his outrage from anyone listening.
 - 'I think that you are just a drunken fool.' I think' for the ongoing action, followed by 'just' and 'drunk'.
-- 'Nobody understands me today. I will go sleep.' Max chooses the action verb meaning 'to understand' for the ongoing action, followed by 'today' and 'go'.
+- 'Nobody understands me today. I will go sleep.' Max throws a pity party and decides to sleep it off.

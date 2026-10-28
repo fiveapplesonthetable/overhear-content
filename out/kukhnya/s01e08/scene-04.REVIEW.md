@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, you are behaving very rudely!' Elena confronts the chef's chauvinistic hostility on air.
-- 'I treat all women wonderfully.' Barinov attempts to defend his public reputation with an adverbial phrase.
-- 'Then why do you insult me like that?' Elena points out the contradiction in his disrespectful attitude.
-- 'You will not be able to work a whole day.' Barinov insists on the crushing difficulty of his kitchen line.
-- 'Then let us bet right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What do you want to bet about with me?' Barinov inquires about the terms of the challenge.
-- 'I will work a full shift in the kitchen.' Elena outlines the scope of her guest shift with a future verb.
-- 'My cooks will quickly break your pride.' Barinov predicts that his tough crew will overwhelm her.
-- 'If I cope, you will pay for dinner!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And if you run away after an hour?' Barinov anticipates her swift retreat under pressure.
-- 'Then you will win our main bet.' Elena accepts the penalty of conceding the dispute.
-- 'Agreed, tomorrow I expect you in the kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All viewers will be witnesses of our bet.' Elena locks in the public challenge before the live audience.
+- 'Viktor, you are behaving very rudely!' Elena confronts him over his deeply insulting on-air remarks.
+- 'I treat all women wonderfully.' Barinov smugly defends himself, claiming he is actually a gentleman.
+- 'Then why do you insult me like that?' Elena points out the glaring contradiction in his hostile behavior.
+- 'You will not be able to work a whole day.' He taunts her endurance, betting she could not last a single shift.
+- 'Then let us bet right now!' Elena instantly takes the bait and proposes a formal wager.
+- 'What do you want to bet about with me?' Barinov acts amused, asking what exactly she has in mind.
+- 'I will work a full shift in the kitchen.' She lays down the terms: she will take over his kitchen for a full day.
+- 'My cooks will quickly break your pride.' He warns her that his rowdy line cooks will destroy her confidence.
+- 'If I cope, you will pay for dinner!' Elena states her prize: a free dinner if she survives the shift.
+- 'And if you run away after an hour?' Barinov mocks her, imagining she will flee in tears almost immediately.
+- 'Then you will win our main bet.' Elena confidently concedes that if she quits, he wins their wager.
+- 'Agreed, tomorrow I expect you in the kitchen!' Barinov accepts the challenge, locking in their televised bet.
+- 'All viewers will be witnesses of our bet.' Elena reminds him that the entire viewing audience will hold them to this promise.

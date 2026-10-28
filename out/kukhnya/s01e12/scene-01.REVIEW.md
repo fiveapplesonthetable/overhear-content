@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Changes are needed in every person's life.' Russian omits the present-tense verb 'to be' here, linking 'life' directly with 'every', pairing it with 'person' and 'needed'.
-- 'You are absolutely right, Max.' Russian omits the present-tense verb 'to be' here, linking 'absolutely' directly with 'right' to make the point directly in conversation.
-- 'I want to change my destiny today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'One must act boldly and not be afraid.' Kostya expresses this naturally by combining the word for 'must' with 'to act' and 'boldly'.
-- 'My goal is to become the best cook.' Max puts the word for 'goal' together with 'to become' and 'best' in a crisp, natural spoken turn of phrase.
-- 'This is a very good dream for you.' Russian omits the present-tense verb 'to be' here, linking 'very' directly with 'good', followed by 'dream'.
-- 'I will make an important step right now.' Max uses the action verb meaning 'will make' to focus on the single completed result, pairing it with 'important' and 'step'.
-- 'What surprise have you prepared for us?' Kostya expresses this naturally by combining the word for 'surprise' with 'prepared'.
-- 'This surprise awaits only one Vika.' Max puts the word for 'surprise' together with 'awaits' and 'only' in a crisp, natural spoken turn of phrase.
-- 'Good luck to you, my brave friend.' Russian omits the present-tense verb 'to be' here, linking 'good luck' directly with 'brave', followed by 'friend'.
-- 'Thank you, Kostya, I will go to her.' The phrasing opens with 'thank you' before bringing in 'will go' to make the point clear.
-- 'The main thing is not to ruin anything today.' Kostya expresses this naturally by combining the word for 'the main thing' with 'to ruin' and 'today'.
-- 'Do not worry, everything will be simply great.' Max leads with the direct command form meaning 'worry', pairing it with 'will be' and 'simply'.
+- 'Changes are needed in every person's life.' Max philosophizes that everyone needs changes in their life. He is thinking deeply about his future.
+- 'You are absolutely right, Max.' Kostya agrees completely with his friend's deep thought. It makes a lot of sense to him too.
+- 'I want to change my destiny today.' Max declares his big desire to change his destiny today. He is ready for a completely new chapter.
+- 'One must act boldly and not be afraid.' Kostya encourages him to act boldly and without fear. One must be brave to change things.
+- 'My goal is to become the best cook.' Max states his ultimate goal is to become the greatest chef. He has very high ambitions for himself.
+- 'This is a very good dream for you.' Kostya supports this by saying it is a very good dream. He believes in his friend's talent.
+- 'I will make an important step right now.' Max announces he is going to take an important step right away. There is no time like the present.
+- 'What surprise have you prepared for us?' Kostya gets curious and asks what surprise has been prepared. He wants to know the secret plan.
+- 'This surprise awaits only one Vika.' Max reveals that this special surprise is waiting only for one specific person. It is a romantic gesture.
+- 'Good luck to you, my brave friend.' Kostya wishes his brave buddy good luck on his mission. He hopes everything goes perfectly well.
+- 'Thank you, Kostya, I will go to her.' Max thanks his buddy and says he is heading out to see her now. The big moment has finally arrived.
+- 'The main thing is not to ruin anything today.' Kostya gives one last piece of advice not to ruin anything today. It is a very crucial warning.
+- 'Do not worry, everything will be simply great.' Max confidently tells him not to worry because everything will be just great. He is feeling very optimistic.

@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, tell me, where is Senya right now?' Victoria enters the kitchen looking for the cook.
 - 'He just stepped out of the kitchen.' Max explains that Senya left his station a moment ago.
 - 'The guests in the hall are waiting for their order!' Victoria stresses that the customers are getting impatient.
-- 'They have been waiting for this salad for a very long time.' Russian uses the present tense for an action that started in the past and continues now.
+- 'They have been waiting for this salad for a very long time.' Vika complains that the table has been waiting ages for their salad.
 - 'Senya prepared the salad a long time ago.' Max recalls seeing Senya make a salad earlier.
-- 'Then why is the dish still in the kitchen?' Russian omits the present-tense verb 'to be' here, linking 'back then' directly with 'why', combining 'back then' with 'why' and 'dish'.
+- 'Then why is the dish still in the kitchen?' When Max says Senya already made it, Vika asks why the bowl is still sitting in the kitchen.
 - 'Well what a strange person!' This exclamatory phrase expresses frustration.
 - 'Is it really hard to put the plate on the table?' Cooks must place finished dishes on the pass table for the waiters.
 - 'Look, here stands some plate.' Max notices a finished salad sitting on Senya's counter.
 - 'Probably this is our salad.' Neither of them realizes Senya mixed his leather belt into that bowl.
-- 'Let me quickly take it to the waiter.' Max leads with the direct command form meaning 'let's', pairing it with 'quickly' and 'to carry to'.
+- 'Let me quickly take it to the waiter.' Trying to be helpful, Max offers to run the salad out to the waiter right now.
 - 'Yes, put it on the table quickly!' Victoria tells him to hurry so the waiter can serve it.
-- 'Done, now the guests will be satisfied.' Max unwittingly sends the belt salad out to the dining room.
+- 'Done, now the guests will be satisfied.' Max unwittingly sends the belt salad out to the dining room. Now listen to Victoria and Max in the kitchen again.

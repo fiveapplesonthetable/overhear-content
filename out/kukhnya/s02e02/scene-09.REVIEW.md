@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, I am ready.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'ready'.
-- 'Let's go.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'let's go'.
-- 'All right, see you.' Max leads with the direct command form meaning 'let's' to make the point directly in conversation.
-- 'Say hi to the bums.' Russian omits the present-tense verb 'to be' here, linking 'hi' directly with 'homeless person', combining 'hi' with 'homeless person'.
-- 'Not bums, but homeless.' Russian omits the present-tense verb 'to be' here, linking 'homeless person' directly with 'homeless person', combining 'homeless person' with 'homeless person'.
-- 'Look.' Max leads with the direct command form meaning 'look' to make the point directly in conversation.
-- 'Do not bring infection home.' Max leads with the direct command form meaning 'bring', pairing it with 'infection' and 'building'.
-- 'From whom?' Russian omits the present-tense verb 'to be' here, linking 'of' directly with 'whom', combining 'of' with 'whom'.
-- 'From the homeless.' Max delivers a punchy one-word reaction built around the Russian word meaning 'homeless person'.
-- 'We will be careful.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I hope.' Max delivers a punchy one-word reaction built around the Russian word meaning 'hope so'.
-- 'Until evening.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'evening'.
-- 'Bye.' Max delivers a punchy one-word reaction built around the Russian word meaning 'bye'.
+- 'All right, I am ready.' Having packed up the leftover food, Kostya announces that he is ready.
+- 'Let's go.' He tells Nastya and the others that it is time to head out.
+- 'All right, see you.' Staying behind in the kitchen, Max waves them off.
+- 'Say hi to the bums.' Max jokes crudely by telling Kostya to say hello to the street bums.
+- 'Not bums, but homeless.' Kostya immediately corrects him, insisting on the respectful word 'homeless'.
+- 'Look.' Max tells them to watch themselves out there.
+- 'Do not bring infection home.' He teases his roommate not to bring any germs back to their apartment.
+- 'From whom?' Kostya asks who Max thinks they would catch something from.
+- 'From the homeless.' Max replies bluntly that he means the homeless people they are helping.
+- 'We will be careful.' Kostya assures him that they will be careful.
+- 'I hope.' Max says he certainly hopes so.
+- 'Until evening.' Kostya says goodbye until the evening.
+- 'Bye.' Max wishes him a quick 'bye' as Kostya heads out.

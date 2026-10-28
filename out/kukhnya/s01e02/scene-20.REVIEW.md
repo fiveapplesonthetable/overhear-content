@@ -27,18 +27,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, come to my office!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, chef, I am already here.' Lyova reports promptly to avoid aggravating his fiery boss.
-- 'Where is my favorite fish knife?' The question uses descriptive adjectives for the missing utensil.
-- 'We are looking for it everywhere, chef.' The adverb of place indicates a widespread search across the kitchen.
-- 'Are you a sous-chef or who?' The chef angrily questions Lyova's competence and kitchen leadership.
-- 'I maintain order in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You keep an eye on the kitchen very poorly!' The chef lashes out with a sharp evaluative adverb.
-- 'All the cooks are very busy with the search right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Without this knife, the restaurant does not function!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We checked all tables and shelves.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If the knife is not found, I will fire everyone!' A harsh conditional ultimatum delivered in the future tense.
-- 'Chef, we will certainly find what went missing.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go and find it right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Understood, chef!' A military-style response commonly used in professional restaurant brigades.
-- 'I will find the knife.' Lyova affirms his determination to resolve the crisis. Alright, let's hear the whole thing once more. Now let's listen to the whole conversation again from start to finish.
+- 'Lyova, come to my office!' Barinov barks a commanding order for his second-in-command to step into his private sanctuary immediately.
+- 'Yes, chef, I am already here.' Lyova scurries into the room, eager to show his prompt obedience to the enraged boss.
+- 'Where is my favorite fish knife?' Barinov demands to know the exact whereabouts of his most prized culinary possession.
+- 'We are looking for it everywhere, chef.' Lyova nervously assures the boss that the entire staff is actively scouring the premises for the item.
+- 'Are you a sous-chef or who?' Barinov viciously insults his subordinate's authority, questioning his basic competence as a manager.
+- 'I maintain order in the kitchen.' Lyova defensively insists that he is doing his job and keeping the kitchen running smoothly.
+- 'You keep an eye on the kitchen very poorly!' Barinov brutally rejects the excuse, criticizing his deputy's absolute failure to maintain control.
+- 'All the cooks are very busy with the search right now.' Lyova tries to appease the chef by stating that the whole brigade has dropped everything to search.
+- 'Without this knife, the restaurant does not function!' Barinov dramatically declares that the entire establishment is paralyzed without his special blade.
+- 'We checked all tables and shelves.' Lyova lists the thorough measures the team has already taken to locate the missing object.
+- 'If the knife is not found, I will fire everyone!' Barinov issues a terrifying ultimatum, threatening to fire every single employee if they fail.
+- 'Chef, we will certainly find what went missing.' Lyova desperately promises that they will recover the lost treasure no matter what it takes.
+- 'Go and find it right now!' Barinov screams a final, non-negotiable order to resume the frantic search instantly.
+- 'Understood, chef!' Lyova snaps to attention, acknowledging the terrifying command with absolute submission.
+- 'I will find the knife.' Lyova vows to personally track down the elusive tool to save his job and his team.

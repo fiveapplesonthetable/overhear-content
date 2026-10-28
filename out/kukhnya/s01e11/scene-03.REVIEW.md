@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Nastya, why are you in a bad mood?' Russian omits the present-tense verb 'to be' here, linking 'hi' directly with 'why', followed by 'mood'.
-- 'People tore live flowers for pleasure.' Here Nastya anchors the line on the word meaning 'people' and builds the thought around 'tore' and 'live'.
-- 'Do not be sad, Nastya, everything will be fine.' Kostya leads with the direct command form meaning 'be sad', pairing it with 'will be' and 'fine'.
-- 'This is terrible, wicked people act like that.' Nastya expresses this naturally by combining the word for 'terrible' with 'like that' and 'act'.
-- 'Let us go somewhere this weekend.' Kostya uses the action verb meaning 'go' to focus on the single completed result, pairing it with 'somewhere' and 'weekend'.
-- 'I also wanted to suggest a meeting to you.' Here Nastya anchors the line on the word meaning 'also' and builds the thought around 'wanted' and 'to suggest'.
-- 'Great! What beautiful place shall we go to?' The phrasing opens with 'great' before bringing in 'beautiful' and 'place' to make the point clear.
-- 'We will go together to the Khimki forest.' Nastya uses the action verb meaning 'will go' to focus on the single completed result, pairing it with 'together' and 'forest'.
-- 'And why do we need to go to the forest?' Kostya puts the word for 'why' together with 'to go' and 'forest' in a crisp, natural spoken turn of phrase.
-- 'There will be a big rally in defense of the forest.' Here Nastya anchors the line on the word meaning 'there' and builds the thought around 'will be' and 'big'.
-- 'I thought we would go to the cinema.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Saving living nature is much more important than cinema!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, Nastya, I will gladly go.' Kostya puts the word for 'alright' together with 'pleasure' and 'will go' in a crisp, natural spoken turn of phrase.
+- 'Hi, Nastya, why are you in a bad mood?' Kostya greets his friend and asks why she is in a bad mood. He notices she looks sad. 'Bez nastroeniya' literally means without mood.
+- 'People tore live flowers for pleasure.' Nastya complains that people tore live flowers just for pleasure. She is upset about nature being harmed. 'Radi udovolstviya' means for pleasure.
+- 'Do not be sad, Nastya, everything will be fine.' Kostya tells her not to be sad and that everything will be fine. He tries to comfort her. 'Ne grusti' means do not be sad.
+- 'This is terrible, wicked people act like that.' Nastya thinks it is terrible and that wicked people act like that. She is very passionate about this. 'Zlye lyudi' means evil or wicked people.
+- 'Let us go somewhere this weekend.' Kostya suggests they go somewhere this weekend. He wants to cheer her up. 'Na etikh vykhodnykh' means on this weekend.
+- 'I also wanted to suggest a meeting to you.' Nastya replies that she also wanted to suggest a meeting. She likes the idea. 'Tozhe khotela' means also wanted.
+- 'Great! What beautiful place shall we go to?' Kostya is happy and asks what beautiful place they shall go to. He says 'otlichno' which means great. He is looking forward to it.
+- 'We will go together to the Khimki forest.' Nastya declares they will go together to the local forest. She has a specific place in mind. She says 'vmeste' for together.
+- 'And why do we need to go to the forest?' Kostya wonders why they need to go to the forest. This is not what he expected. 'Zachem' means what for.
+- 'There will be a big rally in defense of the forest.' Nastya explains there will be a big rally in defense of the forest. She wants to protest. 'Miting' is a public gathering or rally.
+- 'I thought we would go to the cinema.' Kostya admits he thought they would go to the cinema. A date at the movies is more typical. 'Ya dumal' means I thought.
+- 'Saving living nature is much more important than cinema!' Nastya argues that saving living nature is much more important than cinema. She is very serious about her cause. 'Gorazdo vazhnee' means much more important.
+- 'Alright, Nastya, I will gladly go.' Kostya agrees and says he will gladly go. He gives in to her plan. 'S udovolstviem' means with pleasure.

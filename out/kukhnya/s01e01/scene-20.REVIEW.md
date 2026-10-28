@@ -27,18 +27,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have an excellent idea.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I can prepare my signature dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is tender chicken in cream sauce.' Adjectives describe the texture and flavor of the proposed dish.
-- 'A magnificent idea from an unknown person.' The chef uses heavy irony to dismiss the suggestion.
-- 'You came to my kitchen by accident.' The adverb underlines that Max has not earned any trust yet.
-- 'Better keep peeling bananas!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why peel off these stickers at all?' The question adverb challenges the purpose of the chore.
-- 'For ideal order in the universe.' A grand philosophical excuse for giving meaningless busywork.
-- 'But I know how to prepare wonderful desserts.' Max asserts another branch of his culinary skills.
-- 'All right, I will give you one chance.' The future tense promises a single opportunity to impress.
-- 'Our regular guest has arrived.' The noun phrase refers to a frequent restaurant customer.
-- 'You will prepare dessert for Eleonora Andreyevna.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If the dessert is liked, you will stay here.' A conditional structure outlining the stakes.
-- 'Agreed, chef!' A short past-passive idiom confirming that a deal has been struck.
-- 'I will make the best dessert.' Max vows to produce his finest pastry. Alright, let's hear the whole thing once more. Now let's listen to the whole conversation again from start to finish.
+- 'Chef, I have an excellent idea.' Max interrupts the peeling chore to propose something far more exciting.
+- 'I can prepare my signature dish.' He offers to show off his personal culinary masterpiece.
+- 'It is tender chicken in cream sauce.' Max eagerly describes the appealing flavor profile of his recipe.
+- 'A magnificent idea from an unknown person.' Chef Barinov drips with sarcasm while rejecting the unsolicited menu change.
+- 'You came to my kitchen by accident.' He coldly reminds the young cook of his utterly unearned position.
+- 'Better keep peeling bananas!' Chef Barinov dismissively orders him back to the menial fruit prep.
+- 'Why peel off these stickers at all?' Max questions the pointless nature of this ridiculous task.
+- 'For ideal order in the universe.' Chef Barinov provides a mockingly philosophical reason for the busywork.
+- 'But I know how to prepare wonderful desserts.' Max pivots to pitching his pastry skills instead.
+- 'All right, I will give you one chance.' Chef Barinov surprisingly relents and agrees to a single test.
+- 'Our regular guest has arrived.' He mentions that a frequent VIP is currently in the dining room.
+- 'You will prepare dessert for Eleonora Andreyevna.' Chef Barinov assigns the rookie to cook for a supposedly important lady.
+- 'If the dessert is liked, you will stay here.' He sets the absolute condition for the young man keeping his job.
+- 'Agreed, chef!' Max immediately accepts the high-stakes culinary challenge.
+- 'I will make the best dessert.' He confidently promises to deliver a phenomenal sweet treat.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we need to talk seriously.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to talk'.
-- 'I wanted to discuss something with you.' The '-a' ending on the past-tense verb for 'wanted' shows that the subject is matching. Then Kostya responds.
-- 'Wait a minute, I will be right back.' Notice the self-directed ending on the verb for 'will come back', which directs the action back onto the subject.
-- 'This is a very important conversation for us.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'important', combining 'very much' with 'important' and 'conversation'.
-- 'I understand, but I need to go.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you running away from my questions again?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'again', pairing it with 'run away' and 'questions'.
-- 'No, I am not running away from you anywhere.' Kostya uses the casual everyday 'you' with 'I', as close colleagues and friends do.
-- 'Then why do you not want to listen to me?' The little negative word sits right in front of the verb for 'do you want', just like 'not' in English.
-- 'I want to listen, but not now.' Kostya chooses the action verb meaning 'want' for the ongoing action, followed by 'to listen to' and 'now'.
-- 'We are walking on a high staircase, right?' Nastya chooses the action verb meaning 'are going' for the ongoing action, followed by 'high' and 'stairs'.
-- 'It seems my stomach simply cramped up.' Kostya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'it seems' with 'just' and 'belly'.
-- 'I urgently need to go to the toilet.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'toilet'.
+- 'Kostya, we need to talk seriously.' Nastya sets a solemn tone for the interaction.
+- 'I wanted to discuss something with you.' Nastya states her intention to have a meaningful talk.
+- 'Wait a minute, I will be right back.' Kostya tries to stall and escape.
+- 'This is a very important conversation for us.' Nastya emphasizes the gravity of the moment.
+- 'I understand, but I need to go.' Kostya acknowledges her point but insists on leaving.
+- 'Are you running away from my questions again?' Nastya accuses him of avoiding the issue.
+- 'No, I am not running away from you anywhere.' Kostya weakly denies her accusation.
+- 'Then why do you not want to listen to me?' Nastya demands a reason for his reluctance.
+- 'I want to listen, but not now.' Kostya claims it is just bad timing.
+- 'We are walking on a high staircase, right?' Nastya brings back her previous metaphor to pressure him.
+- 'It seems my stomach simply cramped up.' Kostya uses a physical ailment as an excuse.
+- 'I urgently need to go to the toilet.' Kostya makes his final excuse to run away.

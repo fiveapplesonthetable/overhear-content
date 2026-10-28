@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "In his kitchen office, Chef Viktor is glued to the television watching the Moscow football derby between Spartak and CSKA. Line cook Senya asks about dinner service, but the chef is completely absorbed in the tense play near the goal. Let's listen to their exchange in Russian first."
 OPENER = "Let's examine the dialogue line by line. Notice the exciting sports vocabulary and the chef's intense football passion."
-TRANSITION = "Now let's listen to the entire exchange one more time at normal conversational speed."
+TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "Chef Barinov's love of football brings lively energy to Claude Monet between stressful dinner orders. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('senya', 'А теперь пора вернуться к нашей кухне.', 'And now it is time to return to our kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, is it time to start preparing hot dishes?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'Quiet, Senya! A decisive match is on right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'Who is playing in this match today?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'Our great Spartak is playing against CSKA!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'And what is the score in the game now?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'A draw so far, but we must win!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Look, the ball is flying toward their goal!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'Near the opponent penalty area CSKA is holding defense.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'The Spartak forward receives a fast pass.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'Come on, Ari with the ball shoots hard!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'The goalkeeper catches this ball with difficulty.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (11, None, "'What a dangerous and beautiful moment it was!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (12, None, "'And now it is time to return to our kitchen.' Impersonal everyday construction with a directional basic verb form."),
+    (0, None, "'Chef, is it time to start preparing hot dishes?' Senya tentatively checks if the kitchen staff should fire up the stoves for the evening rush."),
+    (1, None, "'Quiet, Senya! A decisive match is on right now!' Barinov aggressively shushes his cook, refusing to pull his eyes away from the crucial sporting event."),
+    (2, None, "'Who is playing in this match today?' Senya tries to engage his boss by asking which teams are currently battling it out on the screen."),
+    (3, None, "'Our great Spartak is playing against CSKA!' Barinov passionately declares his allegiance to Spartak as they face off against their fierce rivals."),
+    (4, None, "'And what is the score in the game now?' Senya inquires about the current standings to understand why the chef is so tense."),
+    (5, None, "'A draw so far, but we must win!' Barinov nervously reports the tied score while expressing his desperate hope for a victory."),
+    (6, None, "'Look, the ball is flying toward their goal!' Senya gets caught up in the excitement, pointing out a sudden offensive play on the field."),
+    (7, None, "'Near the opponent penalty area CSKA is holding defense.' Barinov intensely narrates the defensive formation of the opposing team near the penalty box."),
+    (8, None, "'The Spartak forward receives a fast pass.' Senya describes the fast-paced action as the favored team's striker gains control of the ball."),
+    (9, None, "'Come on, Ari with the ball shoots hard!' Barinov screams encouragement at the television as his favorite player takes a powerful shot."),
+    (10, None, "'The goalkeeper catches this ball with difficulty.' Senya watches in suspense as the opposing goalie barely manages to block the impressive strike."),
+    (11, None, "'What a dangerous and beautiful moment it was!' Barinov exhales in sheer exhilaration at the breathtaking play he just witnessed."),
+    (12, None, "'And now it is time to return to our kitchen.' Senya gently reminds his superior that they still have a restaurant to run despite the exciting game."),
 ]

@@ -20,24 +20,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Шеф | Какой столик? Точно седьмой? | Which table? Definitely the seventh? | #77: Какой столик? Седьмой. | verbatim |
 | 9 | Костя | Да, строгая дама в очках. | Yes, a strict lady in glasses. | new | new |
 | 10 | Шеф | Что именно ей не понравилось? | What exactly did she not like? | new | new |
-| 11 | Костя | Сказала, что соус слишком кислый. | She said the sauce was too sour. | new | new |
+| 11 | Вика | Сказала, что соус слишком кислый. | She said the sauce was too sour. | new | new |
 | 12 | Шеф | Это авторский рецепт высокой кухни! | This is an author recipe of haute cuisine! | new | new |
 | 13 | Костя | Шеф, она уже открыла блокнот. | Chef, she has already opened a notepad. | new | new |
 | 14 | Шеф | Я лично приготовлю ей десерт! | I will personally prepare her a dessert! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, attention! There is an emergency in the kitchen.' Kostya bursts into the workspace with urgent news.
-- 'Kostya, what happened in the dining room?' Chef Barinov uses the action verb meaning 'happened' to focus on the single completed result, pairing it with 'dining room'.
-- 'A presumed restaurant critic has been spotted!' Kostya uses the action verb meaning 'detected' to focus on the single completed result, pairing it with 'presumed' and 'restaurant'.
-- 'She is sitting at table seven.' Kostya identifies the exact location of the threat.
-- 'And I have a refusal of the salad!' Kostya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'refusal' with 'salad'.
-- 'What do you mean a refusal? My perfect salad?' Viktor gasps in personal and professional shock.
-- 'She sent the plate back, chef.' Kostya uses the action verb meaning 'returned' to focus on the single completed result, pairing it with 'plate' and 'back'.
-- 'Which table? Definitely the seventh?' Viktor demands precise confirmation of the customer.
-- 'Yes, a stern lady in glasses.' Kostya describes the appearance of the difficult diner.
-- 'What exactly did she dislike?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'pleased'.
-- 'She said that the sauce is too sour.' Kostya uses the action verb meaning 'she said' to focus on the single completed result, pairing it with 'sauce' and 'too'.
-- 'This is a signature recipe of haute cuisine!' Russian omits the present-tense verb 'to be' here, linking 'signature' directly with 'recipe', combining 'signature' with 'recipe' and 'high'.
-- 'Chef, she has already opened a notepad.' Kostya puts the word for 'already' together with 'opened' and 'notepad' in a crisp, natural spoken turn of phrase.
-- 'I personally will make dessert for her!' Viktor vows to win over the critic with sweet culinary mastery. Now, let us listen to the complete scene again to practice your comprehension.
+- 'Chef, attention! There is an emergency in the kitchen.' Kostya calls for the chef's attention because there is an emergency in the kitchen. He is panicking. 'Chrezvychaynaya situatsiya' means emergency situation.
+- 'Kostya, what happened in the dining room?' Barinov asks the bartender what happened in the dining room. He wants to know the problem. 'V zale' refers to the dining area.
+- 'A presumed restaurant critic has been spotted!' Kostya announces a presumed restaurant critic has been spotted. He uses 'obnaruzhen' meaning discovered. It sounds like a military report.
+- 'She is sitting at table seven.' Kostya says she is sitting at table seven. He gives her exact location. The tension is rising.
+- 'And I have a refusal of the salad!' Kostya reveals he has a refusal of the salad. Someone sent food back. 'Otkaz' means a refusal or rejection.
+- 'What do you mean a refusal? My perfect salad?' Barinov is shocked and asks how someone could refuse his perfect salad. His pride is hurt. 'Idealnyy salat' means perfect salad.
+- 'She sent the plate back, chef.' Kostya confirms she returned the plate back to the kitchen. This is very bad news. 'Vernula tarelku' means returned the plate.
+- 'Which table? Definitely the seventh?' Barinov asks which table and if it is definitely the seventh. He needs to be sure. 'Tochno' means exactly or for sure.
+- 'Yes, a stern lady in glasses.' Kostya confirms it is the stern lady in glasses. He describes her appearance. 'V ochkakh' means wearing glasses.
+- 'What exactly did she dislike?' Barinov wants to know what exactly she disliked. He is ready to defend his food. 'Chto imenno' means what exactly.
+- 'She said that the sauce is too sour.' Vika explains she said the sauce is too sour. That is her specific complaint. 'Slishkom kislyy' means too sour.
+- 'This is a signature recipe of haute cuisine!' Barinov protests that this is a signature recipe of haute cuisine. He thinks she does not understand good food. 'Avtorskiy retsept' means author's recipe.
+- 'Chef, she has already opened a notepad.' Kostya warns the chef that she has already opened a notepad. This means she is writing a bad review. This is the worst sign.
+- 'I personally will make dessert for her!' Barinov declares he will personally make dessert for her. He wants to fix the situation himself. 'Lichno prigotovlyu' means I will personally prepare.

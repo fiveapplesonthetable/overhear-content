@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Enjoy your meal.' Russian omits the present-tense verb 'to be' here, linking 'pleasant' directly with 'appetite', combining 'pleasant' with 'appetite'.
+- 'Enjoy your meal.' Serving a table in the dining room, Sasha wishes the guest a pleasant meal.
 - 'Sasha, hi.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'hi'.
-- 'I want to eat.' the guest chooses the action verb meaning 'want' for the ongoing action, followed by 'there is'.
+- 'I want to eat.' Another guest tells Sasha that he is hungry and ready to order.
 - 'Will you ask for a California roll?' the guest turns a statement into a question purely through rising intonation on the word meaning 'to ask' to make the point directly in conversation.
-- 'Yes, of course.' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'of course'.
-- 'Okay, thanks.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'thank you', combining 'good' with 'thank you'.
-- 'Oh, what is this?' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'oh'.
-- 'A person is feeling bad!' Russian omits the present-tense verb 'to be' here, linking 'to a person' directly with 'badly', combining 'to a person' with 'badly'.
-- 'What happened?' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'happened'.
-- 'He feels really bad.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'badly', combining 'very much' with 'badly'.
-- 'Help!' Sasha leads with the direct command form meaning 'help' to make the point directly in conversation.
-- 'Call an ambulance.' the guest leads with the direct command form meaning 'to call', followed by 'ambulance'.
-- 'We need an ambulance.' Sasha puts the word for 'ambulance' together with 'necessary' and 'to call' in a crisp, natural spoken turn of phrase.
+- 'Yes, of course.' When the guest asks for a 'California' roll, Sasha gladly agrees to bring it.
+- 'Okay, thanks.' She thanks the guest and turns to place the sushi order.
+- 'Oh, what is this?' Suddenly noticing a commotion at a nearby table, Sasha gasps in alarm.
+- 'A person is feeling bad!' A diner shouts that someone in the hall has fallen terribly ill.
+- 'What happened?' Sasha rushes over and asks what happened to the guest.
+- 'He feels really bad.' The bystander explains that the man is in bad shape after eating.
+- 'Help!' Panicking, Sasha calls out to the staff for help.
+- 'Call an ambulance.' The guest urges everyone to call an ambulance right away.
+- 'We need an ambulance.' Sasha repeats the urgent call to get paramedics to the restaurant.

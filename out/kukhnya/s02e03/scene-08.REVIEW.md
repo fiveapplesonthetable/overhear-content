@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn't mean to, honestly.' A compact expression built around 'I' and 'honestly'.
-- 'I will wipe it all up now.' The key word here means 'I', which Sasha combines with 'now'.
-- 'Don't cry.' Here 'it is necessary' sets up the idea, while 'to cry' comes at the end for emphasis.
-- 'Everything is fine.' You'll hear 'good' all the time in the show, here connected with 'good'.
-- 'Will you fire me?' Notice the word order: 'you' comes first, and 'will fire' finishes the sentence.
-- 'You will tell management everything.' Sasha starts with 'you' and pairs it with 'will tell' to make the point clear. And Max jumps in.
-- 'I am not going anywhere.' Max puts 'nowhere' up front so the listener immediately catches the tone, followed by 'I'.
-- 'I won't say anything.' In Russian, 'nothing' leads into 'I'll tell' in a very natural everyday phrasing.
-- 'Excuse me.' In Russian, 'sorry' leads into 'me' in a very natural everyday phrasing.
-- 'I really didn't mean to.' The key word here means 'I', which Sasha combines with 'honestly'.
-- 'Calm down.' Listen for the word meaning 'calm down' right alongside 'calm down' in this line.
-- 'Go on working.' The key word here means 'go', which Max combines with 'to work'. Let's hear it again.
+- 'I didn't mean to, honestly.' After accidentally spilling a tray, Sasha apologizes and swears she did not mean to.
+- 'I will wipe it all up now.' She scrambles to wipe up the mess right away.
+- 'Don't cry.' Seeing tears in her eyes, Max gently tells her not to cry.
+- 'Everything is fine.' He reassures her that everything is completely fine.
+- 'Will you fire me?' Still worried, Sasha asks if he is going to get her fired.
+- 'You will tell management everything.' She fears he will report the accident to management. And Max jumps in.
+- 'I am not going anywhere.' Max promises he is not going to march to the office.
+- 'I won't say anything.' He swears he will not say a word to anyone about the spill.
+- 'Excuse me.' Relieved, Sasha apologizes to him once more.
+- 'I really didn't mean to.' She repeats that it was an honest accident.
+- 'Calm down.' Max warmly tells her to calm down and take a breath.
+- 'Go on working.' He encourages her to just carry on with her shift. Let's hear it again.

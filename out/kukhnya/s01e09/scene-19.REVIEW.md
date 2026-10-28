@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, tell me, how did this difficult banquet go?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Everything went simply wonderfully and very calmly.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'And what happened to our celebration cake?' Vika uses the action verb meaning 'to happen' to focus on the single completed result, pairing it with 'festive' and 'cake'.
-- 'Nothing terrible, all the guests remained very pleased!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well, thank goodness, I was worrying intensely.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We make astonishing discoveries every day.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Sometimes a person wants to save, not destroy.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, I clearly understood that today too.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You think that you easily manage a big team.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And handling a little child is much harder!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Children demand much patience and real care.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But my daughter brought us great luck.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am glad that this evening ended successfully!' Subject word with short adjective, subordinating conjunction, everyday noun phrase, past self-directed form, and manner adverb.
+- 'Viktor, tell me, how did this difficult banquet go?' Once the banquet wraps up, Vika checks in with Viktor to ask how the stressful evening went.
+- 'Everything went simply wonderfully and very calmly.' Barinov happily reports that everything went smoothly and calmly in the end.
+- 'And what happened to our celebration cake?' Remembering the earlier chaos, Vika asks what happened with the celebration cake.
+- 'Nothing terrible, all the guests remained very pleased!' Viktor reassures her that nothing went wrong and the guests were thrilled.
+- 'Well, thank goodness, I was worrying intensely.' Vika breathes a sigh of relief and admits she had been worried sick.
+- 'We make astonishing discoveries every day.' Reflecting on the day, Viktor muses that we make surprising discoveries every day.
+- 'Sometimes a person wants to save, not destroy.' Sometimes a person's instinct is to protect and save rather than tear things down.
+- 'Yes, I clearly understood that today too.' Barinov nods and says he realized that clearly today too.
+- 'You think that you easily manage a big team.' It is easy to think you are a master at commanding a big team of adults.
+- 'And handling a little child is much harder!' Yet handling one little child turns out to be a hundred times harder.
+- 'Children demand much patience and real care.' Vika agrees that children take endless patience and genuine care.
+- 'But my daughter brought us great luck.' Still smiling, Viktor says his daughter ended up bringing the restaurant great luck tonight.
+- 'I am glad that this evening ended successfully!' Vika says she is glad the long evening finished on such a happy note.

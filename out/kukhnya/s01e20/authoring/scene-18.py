@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Kostya finally builds up the courage to propose to Nastya. However, Nastya is completely shocked and reacts terribly, explaining that she had a completely different timeline for their relationship.'
 OPENER = "Now let's go back through the exchange around An Unexpected Proposal line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya realizes that his impulsive proposal almost ruined the carefully planned future together. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to say' — you will catch every word right away. See you next time!"
 CLOSING = ('nastya', 'Пока!')
 STORY = [
@@ -32,10 +32,10 @@ STORY = [
     ('nastya', 'Я прощаю тебя.', 'I forgive you.', [], ''),
 ]
 WALK = [
-    (2, None, "'For you to be my wife.' The '-a' ending on the past-tense verb for 'have become' shows that the subject is matching."),
-    (3, None, "'Have you lost your mind? Oh God, take it.' Nastya uses a direct command command form of the verb meaning 'take'."),
-    (5, None, "'You said yourself that every day is a new step.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Kostya, I meant meeting the parents.' The '-a' ending on the past-tense verb for 'had' shows that the subject is matching."),
-    (8, None, "'I had this step planned for a year from now.' Nastya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'plan' with 'step' and 'only'."),
-    (11, None, "'And you nearly destroyed it just now.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'nearly' and 'destroyed'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'For you to be my wife.' Kostya finally manages to ask Nastya to marry him, using a past-tense form to express his wish for her to become his wife."),
+    (1, None, "'Have you lost your mind? Oh God, take it.' Nastya reacts with complete shock, sarcastically telling him to take back his proposal like he has lost his mind."),
+    (2, None, "'You said yourself that every day is a new step.' Kostya tries to defend his sudden proposal by reminding Nastya of her own words about making progress every day."),
+    (3, None, "'Kostya, I meant meeting the parents.' Nastya clarifies that her idea of taking steps forward meant something much smaller, like introducing him to her parents."),
+    (4, None, "'I had this step planned for a year from now.' Nastya explains her rigid timeline, using a common possession phrase to say she did not schedule this milestone for another year."),
+    (5, None, "'And you nearly destroyed it just now.' Nastya points out that his unexpected question almost ruined the careful plan she had mapped out for them."),
 ]

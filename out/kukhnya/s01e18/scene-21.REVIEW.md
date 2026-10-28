@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We got fired from the restaurant.' Max uses the action verb meaning 'to fire' to focus on the single completed result, pairing it with 'restaurant'.
-- 'At least we have somewhere to live.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We fall and suffer from pain.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And then we get up and walk further.' Kostya expresses this naturally by combining the word for 'then' with 'we get up' and 'are going'.
-- 'And it will continue like this forever?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'endlessly'.
-- 'Life is always full of difficult moments.' Russian omits the present-tense verb 'to be' here, linking 'life' directly with 'always', combining 'life' with 'always' and 'full'.
-- 'Maybe it is time to look underfoot?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'legs'.
-- 'You are right, we need to be more careful.' Kostya expresses this naturally by combining the word for 'right' with 'necessary' and 'be'.
-- 'Tomorrow we will start looking for new work.' Max puts the word for 'tomorrow' together with 'we start' and 'to look for' in a crisp, natural spoken turn of phrase.
-- 'Everything will definitely work out for us.' Notice the self-directed ending on the verb for 'will come out', which directs the action back onto the subject. Then Max responds.
-- 'The main thing is that we do not give up.' The question word for 'what' comes right at the start, followed directly by 'surrender'.
-- 'I believe in us.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'believe'.
+- 'We got fired from the restaurant.' Max states the harsh truth that they no longer work at the fancy place.
+- 'At least we have somewhere to live.' Kostya tries to look on the bright side, pointing out they still have a roof over their heads.
+- 'We fall and suffer from pain.' Max gets poetic about the painful struggle of hitting rock bottom.
+- 'And then we get up and walk further.' Kostya follows up with an encouraging thought about recovering from the drop.
+- 'And it will continue like this forever?' Max wonders aloud if they are doomed to repeat this painful cycle forever.
+- 'Life is always full of difficult moments.' Kostya philosophically notes that existence is basically packed with tough times.
+- 'Maybe it is time to look underfoot?' Max suggests they should probably start watching their step a bit more.
+- 'You are right, we need to be more careful.' Kostya agrees wholeheartedly, acknowledging they have to act smarter from now on.
+- 'Tomorrow we will start looking for new work.' Max confidently sets a goal to hit the job market the very next morning.
+- 'Everything will definitely work out for us.' Kostya stays optimistic, assuring his friend they will absolutely figure things out.
+- 'The main thing is that we do not give up.' Max emphasizes that staying determined is the most important part of their struggle.
+- 'I believe in us.' Kostya ends the chat on a hopeful note, trusting in their ability to bounce back.

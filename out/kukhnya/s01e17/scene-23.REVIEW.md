@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Show me your passport, Max.' Chef Barinov leads with the direct command form meaning 'show', followed by 'passport'.
-- 'Here is my passport, chef.' Max delivers a punchy conversational reaction built around the Russian word meaning 'passport'.
-- 'And why is the birthday in February?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'day', pairing it with 'of birth' and 'February'.
-- 'Your birthday is not today?' Senya turns a statement into a question purely through rising intonation on the word meaning 'day', pairing it with 'of birth' and 'today'.
-- 'I wanted to please you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did you lie to us about the holiday?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'lied', followed by 'holiday'.
-- 'I wanted to forget all grudges.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But one must not lie to friends.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Any lie is bad.' Russian omits the present-tense verb 'to be' here, linking 'lie' directly with 'badly' to make the point directly in conversation.
-- 'I am very guilty before you.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'at fault', combining 'very much' with 'at fault'.
-- 'For any deceit one must answer.' The phrasing opens with 'any' before bringing in 'a trick' and 'it is necessary' to make the point clear.
-- 'The truth always reveals itself.' Senya expresses this naturally by combining the word for 'honestly' with 'always' and 'is opening'.
-- 'For any deceit one has to pay.' Max puts the word for 'any' together with 'a trick' and 'to have to' in a crisp, natural spoken turn of phrase.
+- 'Show me your passport, Max.' Barinov demands proof of identity, sensing something is wrong.
+- 'Here is my passport, chef.' Max hands over the document without hesitation.
+- 'And why is the birthday in February?' Barinov points out a glaring inconsistency, demanding an explanation.
+- 'Your birthday is not today?' Senya expresses surprise, realizing the whole premise was false.
+- 'I wanted to please you.' Max tries to justify his actions by claiming good intentions.
+- 'Did you lie to us about the holiday?' Barinov asks a direct question to confirm the extent of the deception.
+- 'I wanted to forget all grudges.' Max provides his emotional reasoning for the elaborate ruse.
+- 'But one must not lie to friends.' Senya lays down a fundamental moral rule about trust.
+- 'Any lie is bad.' Barinov makes a blanket statement condemning dishonesty.
+- 'I am very guilty before you.' Max expresses deep remorse, acknowledging his fault.
+- 'For any deceit one must answer.' Barinov emphasizes that actions have consequences.
+- 'The truth always reveals itself.' Senya adds a philosophical note about the inevitability of discovery.
+- 'For any deceit one has to pay.' Max accepts his fate, agreeing that he must face the repercussions.

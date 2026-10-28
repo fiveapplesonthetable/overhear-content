@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "Near the dining room entrance, novice cook Max hesitates anxiously, uncertain whether to approach glamorous art director Vika. Bartender Kostya notices his hesitation and offers encouraging romantic advice, urging Max to take the initiative with confidence. Let's listen to their conversation in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max takes a deep breath and prepares to walk toward Vika. Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'forever' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('kostya', 'Удачи, друг, покажи свою смелость.', 'Good luck, my friend, show your courage.', [], ''),
 ]
 WALK = [
-    (1, None, "'She seems so unapproachable today.' Max confides, admiring Vika from across the dining room."),
-    (4, None, "'Take the initiative right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Girls love brave guys.' the bartender declares, quoting the popular romantic maxim."),
-    (11, None, "'Thanks for the advice, I'll do it!' Max resolves, gathering up his courage to approach Vika. Now listen to the full hallway conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'She seems so unapproachable today.' Observing his love interest, the cook notes she looks distant."),
+    (1, None, "'Take the initiative right now!' Urging his friend, the bartender says to make a move."),
+    (2, None, "'Girls love brave guys.' Kostya points out that women appreciate confident men."),
+    (3, None, "'Thanks for the advice, I'll do it!' Accepting the suggestion, the cook resolves to act."),
 ]

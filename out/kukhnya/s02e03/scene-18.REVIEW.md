@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'what', combining 'this' with 'what'.
-- 'Turkey salad.' Russian omits the present-tense verb 'to be' here, linking 'salad' directly with 'turkey', combining 'salad' with 'turkey'.
-- 'Was the turkey wearing pants and a belt?' , combining 'turkey' with 'was' and 'trousers'.
-- 'Go get the idiot who made this.' the guest leads with the direct command form meaning 'let's', pairing it with 'call' and 'here'. Now let's listen to the whole conversation again from start to finish.
+- 'What is this?' Holding up a strip of boiled leather on his fork, a tough guest demands to know what this is.
+- 'Turkey salad.' Not seeing the leather yet, Vika politely answers that it is the turkey salad.
+- 'Was the turkey wearing pants and a belt?' The guest sarcastically asks whether the turkey was wearing trousers and a belt when they cooked it.
+- 'Go get the idiot who made this.' Furious, he orders them to bring out the fool who prepared the dish.

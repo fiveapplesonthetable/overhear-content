@@ -12,11 +12,11 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "Igor Valentinovich tries to fire Fedya and take full control of the kitchen. But Elena arrives with documents proving she owns the restaurant. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Shift of Power line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Elena takes control of the restaurant, saving the kitchen staff and forcing Igor to step down. Next time you watch the episode, listen for the Russian expressions for 'shameful' and 'particularly' — you will catch every word right away. See you next time!"
 CLOSING = ('elena', 'Пока!')
 STORY = [
-    ('barinov', 'Виктор Петрович, не стыдно мне.', "Viktor Petrovich, aren't you ashamed of me?", [(278, 'не стыдно мне')], ''),
+    ('igor', 'Виктор Петрович, не стыдно мне.', "Viktor Petrovich, aren't you ashamed of me?", [(278, 'не стыдно мне')], ''),
     ('barinov', 'Да не особо.', 'Not really.', [(279, 'Да не особо')], ''),
     ('barinov', 'Здорово, когда начальство понятливое.', 'It is great when the boss is understanding.', [(281, 'когда начальство понятливое')], ''),
     ('igor', 'Шеф, Федю уволили.', 'Boss, Fedya has been fired.', [(282, 'Федю уволили')], ''),
@@ -34,13 +34,13 @@ STORY = [
     ('elena', 'А пока я буду решать.', 'And for now, I will decide.', [(304, 'я буду решать')], ''),
 ]
 WALK = [
-    (3, None, "'Boss, Fedya has been fired.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'to fire'."),
-    (4, None, "'What do you think you are doing?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to allow'."),
-    (6, None, "'I will not let you fire my people.' Chef Barinov uses the action verb meaning 'will allow' to focus on the single completed result, pairing it with 'to fire' and 'people'."),
-    (7, None, "'I am in charge here.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'owner', combining 'here' with 'owner'."),
-    (9, None, "'I have had enough.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'enough'."),
-    (10, None, "'You are all fired.' The character uses the polite everyday 'you' alongside 'fired', keeping a formal or respectful register. Then Elena responds."),
-    (11, None, "'I do not think so.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'I think'."),
-    (13, None, "'I am the owner.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (14, None, "'That cannot be.' the speaker chooses the action verb meaning 'can' for the ongoing action, followed by 'be'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Boss, Fedya has been fired.' Word reaches the chef that Igor has just fired Fedya."),
+    (1, None, "'What do you think you are doing?' Furious, Barinov confronts Igor and asks who he thinks he is."),
+    (2, None, "'I will not let you fire my people.' Viktor declares that nobody is allowed to fire his kitchen crew."),
+    (3, None, "'I am in charge here.' Igor snaps back that he is the owner here."),
+    (4, None, "'I have had enough.' Barinov says he has had enough of Igor's tyranny."),
+    (5, None, "'You are all fired.' The character uses the polite everyday 'you' alongside 'fired', keeping a formal or respectful register. Then Elena responds."),
+    (6, None, "'I do not think so.' Stepping into the room, Kristina's friend or Elena calmly disagrees."),
+    (7, None, "'I am the owner.' She announces with legal papers in hand that she is the rightful owner now."),
+    (8, None, "'That cannot be.' Igor stares in disbelief, unable to accept that he has lost the restaurant."),
 ]

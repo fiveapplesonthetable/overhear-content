@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen here, I am not going to figure anything out.' Vika chooses the action verb meaning 'listen' for the ongoing action, followed by 'here' and 'am going'.
-- 'Vika, Sasha has absolutely nothing to do with this.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'absolutely', combining 'here' with 'absolutely'.
-- 'Do not fire her from this job.' The phrasing opens with 'necessary' before bringing in 'fire' and 'job' to make the point clear.
-- 'I was intentionally driving you to anger.' Max finally admits his childish manipulation.
-- 'I pretended as if we were dating.' He reveals that the entire romance was a staged act.
-- 'Well, you did a very good job with it.' Vika sarcastically commends his theatrical performance.
-- 'Especially when you grabbed her by the chest.' She angrily recalls their inappropriate contact by the bar.
-- 'Believe me, it was just a stupid accident!' Max uses the action verb meaning 'believe' to focus on the single completed result, pairing it with 'was' and 'just'.
-- 'And why are you sticking up for her so much?' Vika puts the word for 'so' together with 'stick up' in a crisp, natural spoken turn of phrase.
-- 'I am not sticking up for her at all now.' Here Max anchors the line on the word meaning 'absolutely' and builds the thought around 'stick up' and 'now'.
-- 'I just do not want anyone to get hurt.' The phrasing opens with 'just' before bringing in 'want' and 'suffer' to make the point clear.
-- 'Because of what? Because of that exact thing.' Vika abruptly ends the conversation and storms off.
+- 'Listen here, I am not going to figure anything out.' Vika tells Max she is not going to investigate his excuses.
+- 'Vika, Sasha has absolutely nothing to do with this.' Max insists that Sasha is completely innocent.
+- 'Do not fire her from this job.' Max begs Vika not to fire Sasha.
+- 'I was intentionally driving you to anger.' Max admits he was trying to make her mad on purpose.
+- 'I pretended as if we were dating.' Max confesses that he faked a romance with Sasha.
+- 'Well, you did a very good job with it.' Vika sarcastically says his acting was very convincing.
+- 'Especially when you grabbed her by the chest.' Vika points out the very inappropriate way he touched Sasha.
+- 'Believe me, it was just a stupid accident!' Max swears that the grabbing incident was completely accidental.
+- 'And why are you sticking up for her so much?' Vika questions why he is defending Sasha so strongly.
+- 'I am not sticking up for her at all now.' Max denies that he is defending Sasha out of romantic interest.
+- 'I just do not want anyone to get hurt.' Max says he just wants to avoid getting an innocent person in trouble.
+- 'Because of what? Because of that exact thing.' Vika finishes his thought, referring to his stupid behavior.

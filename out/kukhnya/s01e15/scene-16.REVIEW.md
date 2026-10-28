@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, well what is this?' Russian omits the present-tense verb 'to be' here, linking 'Lyova' directly with 'oh', combining 'Lyova' with 'oh' and 'what'.
-- 'What do you want to say?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What kind of circus did you stage?' The phrasing opens with 'circus' before bringing in 'caused' to make the point clear.
-- 'I did not stage anything.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Viktor Petrovich needs to sleep well.' Fedya puts the word for 'it is necessary' together with 'good' and 'get enough sleep' in a crisp, natural spoken turn of phrase.
-- 'Why does he need to sleep?' Here Lyova anchors the line on the word meaning 'why' and builds the thought around 'it is necessary' and 'to sleep'.
-- 'You know his situation.' Fedya uses the informal everyday 'you' here with 'the situation', as friends and close colleagues do.
-- 'He has a sick heart.' Russian omits the present-tense verb 'to be' here, linking 'sore' directly with 'heart', combining 'sore' with 'heart'.
-- 'He has a sick heart?' Lyova turns a statement into a question purely through rising intonation on the word meaning 'sore', followed by 'heart'.
-- 'It is me who has a sick heart.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'heart'.
-- 'You need to calm down, Lyova.' The phrasing opens with 'it is necessary' before bringing in 'to calm down' to make the point clear.
-- 'I cannot work in such stress.' The little negative word sits right in front of the verb for 'can', just like 'not' in English.
+- 'Lyova, well what is this?' Fedya confronts his coworker with an exasperated, clipped question, skipping any connecting words to ask what is going on.
+- 'What do you want to say?' Shooting back defensively, Lyova uses a perfectly ordinary conversational phrase to demand what the other man means.
+- 'What kind of circus did you stage?' Leading with "circus" to mock the dramatic behavior, Fedya calls out the ridiculousness of the situation.
+- 'I did not stage anything.' Lyova denies the accusation flat out, delivering a standard, natural-sounding denial.
+- 'Viktor Petrovich needs to sleep well.' Reminding his friend of the chef's needs, Fedya smoothly connects "it is necessary" with "good" and "getting enough sleep."
+- 'Why does he need to sleep?' Stubbornly questioning this logic, Lyova anchors his complaint on "why" followed by "it is necessary."
+- 'You know his situation.' Appealing to their shared knowledge, Fedya uses the casual "you" to talk about the chef's difficult circumstances.
+- 'He has a sick heart.' Pointing out the health issue, Fedya drops the "is" and links "sore" right to "heart."
+- 'He has a sick heart?' Repeating the claim with pure disbelief, Lyova pushes his intonation up on "sore heart" to make it a question.
+- 'It is me who has a sick heart.' Flipping the script, Lyova claims he is the real victim, omitting any connecting words to equate "this" with his own heart.
+- 'You need to calm down, Lyova.' Trying to defuse the tension, Fedya starts his sentence with "it is necessary" before urging his friend to relax.
+- 'I cannot work in such stress.' Dramatically declaring his inability to function, Lyova sticks a tiny negative word right before "can."

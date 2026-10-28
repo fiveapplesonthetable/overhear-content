@@ -37,7 +37,7 @@ WALK = [
     (4, None, "'I have neither a husband nor a boyfriend.' Repeating 'neither... nor...' with 'no' makes a firm negative."),
     (5, None, "'Then I will look forward to our next meeting.' Delighted, Igor promises to return soon."),
     (6, None, "'Vika, I did not understand, what was that?' In this moment, Max steps out from behind the doorway after overhearing everything."),
-    (7, None, "'Why, are you jealous of me?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (7, None, "'Why, are you jealous of me?' Vika turns the tables on him, amused that he is showing clear signs of jealousy."),
     (8, None, "'No, why did you not mention me?' In response, Max denies being jealous while asking why she said she was single."),
     (9, None, "'Because he did not ask about you.' Victoria gives a cool, literal answer."),
     (10, None, "'After all, you and I have an open relationship.' She reminds Max of the casual arrangement he himself agreed to."),

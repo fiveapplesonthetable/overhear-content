@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika!' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'Vika'.
-- 'Yes, I am listening to you carefully.' Vika uses the informal everyday 'you' here with 'I'm listening', as friends and close colleagues do.
-- 'We need to talk urgently.' The phrasing opens with 'necessary' before bringing in 'urgent' and 'to talk' to make the point clear.
-- 'What urgent business do you have there?' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'matter'.
-- 'About which you cannot speak on the phone?' Vika turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'to talk' and 'phone'.
-- 'This is not for a telephone conversation.' Russian omits the present-tense verb 'to be' here, linking 'telephone' directly with 'conversation', combining 'telephone' with 'conversation'.
-- 'I am very busy right now.' Russian omits the present-tense verb 'to be', connecting 'I' directly with 'busy'.
-- 'This is truly very important.' Russian omits the present-tense verb 'to be' here, linking 'really' directly with 'very much', combining 'really' with 'very much' and 'important'.
-- 'Fine, what happened?' Notice the self-directed ending on the verb for 'happened', which directs the action back onto the subject. Then Dmitry responds.
-- 'Just come with me.' Here Nagiyev anchors the line on the word meaning 'just' and builds the thought around 'let's go'.
-- 'Where are we going?' The phrasing opens with 'where to' before bringing in 'are going' to make the point clear.
-- 'You will soon see everything yourself.' Dmitry uses the informal everyday 'you' here with 'see', as friends and close colleagues do.
+- 'Vika!' Having returned to the restaurant, Nagiyev calls out urgently to Vika.
+- 'Yes, I am listening to you carefully.' Still upset about being fired earlier, Vika tells him she is listening.
+- 'We need to talk urgently.' Nagiyev insists that the two of them need to talk right away.
+- 'What urgent business do you have there?' Vika skeptically asks what urgent matter could possibly have come up.
+- 'About which you cannot speak on the phone?' She wonders why he could not simply tell her over the phone.
+- 'This is not for a telephone conversation.' Nagiyev replies that this is too sensitive for a phone call.
+- 'I am very busy right now.' Vika tries to brush him off, saying she is very busy right now.
+- 'This is truly very important.' Nagiyev presses her, swearing that it is truly important.
+- 'Fine, what happened?' Giving in at last, Vika asks him what happened to cause such a rush. Then Dmitry responds.
+- 'Just come with me.' Instead of explaining on the spot, Nagiyev asks her to just walk with him.
+- 'Where are we going?' Following him inside, Vika asks where they are going.
+- 'You will soon see everything yourself.' Nagiyev promises she will see for herself in just a moment.

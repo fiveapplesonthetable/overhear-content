@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, restaurant, I want to reserve a table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max, for whom exactly are you booking a table?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'For the famous Russian writer Viktor Pelevin.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you out of your mind, what Pelevin?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The administrator was very thrilled with such an important guest.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what if Victoria knows what he looks like?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'knows', followed by 'face'.
-- 'Pelevin is a mysterious writer, nobody has seen him.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What if there are his devoted readers in the restaurant?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They only saw his name on the cover.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'How will Rodion be able to convincingly portray a genius?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He will simply put on dark black glasses.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I hope this crazy gamble will work today.' Parenthetical first-person verb governing second part of the sentence with everyday subject phrase, future verb, and temporal adverb.
+- 'Hello, restaurant, I want to reserve a table.' Confidently playing the role of a booking agent, Max speaks over the phone.
+- 'Max, for whom exactly are you booking a table?' Nervously whispering, Kostya is terrified of who his friend is pretending to be.
+- 'For the famous Russian writer Viktor Pelevin.' Dramatically unveiling his plan, Max names his audacious choice of celebrity cover.
+- 'Are you out of your mind, what Pelevin?' Kostya panics, recognizing the sheer insanity of impersonating a living legend.
+- 'The administrator was very thrilled with such an important guest.' Happily reporting success, Max notes that Vika bought the lie completely.
+- 'And what if Victoria knows what he looks like?' Bringing up a massive flaw, Kostya worries the administrator knows his face.
+- 'Pelevin is a mysterious writer, nobody has seen him.' Max relies on the author's famous reclusiveness as the ultimate shield.
+- 'What if there are his devoted readers in the restaurant?' Inventing catastrophic scenarios, Kostya fears being exposed by fans.
+- 'They only saw his name on the cover.' Dismissing the threat, Max points out that readers don't know the author's face.
+- 'How will Rodion be able to convincingly portray a genius?' Doubting the quirky vagrant, Kostya wonders if he can act like a profound literary giant.
+- 'He will simply put on dark black glasses.' Triumphantly presenting his strategy, Max reveals his foolproof, albeit ridiculous, disguise.
+- 'I hope this crazy gamble will work today.' Crossing his fingers, Kostya hopes the absurd trick actually holds up.

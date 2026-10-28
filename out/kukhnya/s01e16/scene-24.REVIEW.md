@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not bad.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'not bad'.
-- 'Huh?' Max asks this with a single word meaning 'yes', using rising intonation to turn it into a quick question.
-- 'Only this isn't my pâté.' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'pâté', combining 'only' with 'pâté'.
-- 'What?' Max asks this with a single word meaning 'how', using rising intonation to turn it into a quick question.
-- 'Same texture.' Russian omits the present-tense verb 'to be', connecting 'that' directly with 'consistency'.
-- 'And I got the ingredients right.' Here Max anchors the line on the word meaning 'roster' and builds the thought around 'to pick up'.
-- 'Wait.' Max replies with a single verb form meaning 'wait' — in Russian, the verb ending alone carries the subject and tense.
-- 'What goes into your pâté?' The question word for 'what' comes right at the start, followed directly by 'pâté'.
-- 'This is a secret.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'secret'.
-- 'Let's go.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'let's go'.
-- 'Take a look.' Chef Viktor replies with a single verb form meaning 'have a look' — in Russian, the verb ending alone carries the subject and tense.
-- 'Good.' A crisp, everyday conversational reply meaning 'good' that you will hear constantly in Russian dialogue.
+- 'Not bad.' This quick response translates directly to "not bad" and shows a rare moment of mild approval from the chef.
+- 'Huh?' Max reacts with a single word of surprise that functions much like "really?" or "yeah?" in English conversation.
+- 'Only this isn't my pâté.' Barinov drops a twist by starting with a word meaning "only" or "just," completely crushing the young cook's hopes.
+- 'What?' The everyday word for "how" works perfectly here to convey total confusion and disbelief.
+- 'Same texture.' Pointing out the physical similarities, the sentence relies on a shared borrowed word for "consistency."
+- 'And I got the ingredients right.' Defending his culinary skills, he explains that he successfully selected or matched the recipe's composition.
+- 'Wait.' Here the polite request for "hold on" acts as a desperate plea for clarification.
+- 'What goes into your pâté?' Max asks about the mystery ingredients by literally questioning what "enters into" the dish.
+- 'This is a secret.' Shutting down the inquiry, the reply relies on a simple statement equating the dish to a mystery.
+- 'Let's go.' With a single word meaning "we will go," the head chef signals that it is time to move to another location.
+- 'Take a look.' Following his previous direction, he promises they will "look" or "see" what is really going on.
+- 'Good.' Yielding to his boss, the young cook uses a versatile term for "okay" or "fine" to show obedience.

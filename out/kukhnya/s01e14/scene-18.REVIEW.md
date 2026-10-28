@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, let's work faster.' Lyova leads with the direct command form meaning 'let's', pairing it with 'the boys' and 'to work'.
-- 'We still have three dishes.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'us' straight to 'of dish'.
-- 'We will do everything now.' The phrasing opens with 'now' before bringing in 'we'll do' to make the point clear.
-- 'Well, why are you standing?' Senya delivers a punchy one-word reaction built around the Russian word meaning 'are standing'.
-- 'The chef said to work faster.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'said'.
-- 'Well done, Leva.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'well done'.
-- 'You are a good chef.' Senya uses the informal everyday 'you' here with 'chef', as friends and close colleagues do. Then Lyova responds.
-- 'Yes, well done.' Lyova delivers a punchy one-word reaction built around the Russian word meaning 'well done'.
-- 'Well, are we switching on Terminator mode?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'Terminator'.
-- 'Yes, we are switching it on.' Lyova delivers a punchy one-word reaction built around the Russian word meaning 'we're switching on'.
-- 'Then faster to work.' Russian omits the present-tense verb 'to be' here, linking 'back then' directly with 'faster', combining 'back then' with 'faster' and 'job'.
-- 'The terminator is ready to cook food.' Fedya expresses this naturally by combining the word for 'ready' with 'to cook' and 'am driving'.
-- 'Excellent, let's go faster.' Lyova leads with the direct command form meaning 'let's', pairing it with 'perfect' and 'faster'.
-- 'Everything will be ready on time.' Senya chooses the action verb meaning 'will be' for the ongoing action, followed by 'ready' and 'at the right time'.
+- 'Guys, let's work faster.' Lyova encourages the team to speed up. He asks the guys to work faster.
+- 'We still have three dishes.' He reminds them of the remaining workload. Lyova points out they still have three dishes left.
+- 'We will do everything now.' Fedya promises quick results. He assures Lyova they will get everything done now.
+- 'Well, why are you standing?' Senya urges the others to move. He asks why everyone is just standing around.
+- 'The chef said to work faster.' He backs up Lyova's authority. Senya reminds them the chef said to work faster.
+- 'Well done, Leva.' Senya praises Lyova's leadership. He tells Lyova he did a great job.
+- 'You are a good chef.' He compliments Lyova's skills as a boss. Senya calls him a good chef.
+- 'Yes, well done.' Lyova awkwardly accepts the praise. He agrees that he did well.
+- 'Well, are we switching on Terminator mode?' Fedya jokes about their renewed energy. He asks if they are switching on Terminator mode.
+- 'Yes, we are switching it on.' Lyova plays along with the joke. He confirms that they are indeed switching it on.
+- 'Then faster to work.' Senya calls for immediate action. He tells everyone to get back to work faster.
+- 'The terminator is ready to cook food.' Fedya announces he is ready for action. He playfully declares the Terminator is ready to cook.
+- 'Excellent, let's go faster.' Lyova is pleased with their enthusiasm. He says excellent and tells them to hurry.
+- 'Everything will be ready on time.' Senya makes a confident promise. He guarantees everything will be ready on time.

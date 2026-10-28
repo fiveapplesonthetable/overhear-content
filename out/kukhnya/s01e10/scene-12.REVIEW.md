@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, what is happening with our Max?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what is happening with Max at all?' Kostya repeats her question evasively using an adverb of generality.
-- 'It is I who is asking you directly right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I honestly know nothing, Vika.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'He is your best friend in the restaurant!' Victoria points out their strong bond using a superlative adjective.
-- 'He told me absolutely nothing.' The bartender defends himself using an intensifying adverb with a negative verb.
-- 'You are clearly concealing the truth from me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not know why he is hiding!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'So that means Max is hiding from me?' Victoria seizes upon his admission with a connecting phrase.
+- 'Kostya, what is happening with our Max?' Vika demands to know about 'Max'.
+- 'And what is happening with Max at all?' Kostya plays dumb about the situation.
+- 'It is I who is asking you directly right now!' Vika presses for a direct answer.
+- 'I honestly know nothing, Vika.' Kostya claims complete ignorance.
+- 'He is your best friend in the restaurant!' Vika points out their close friendship.
+- 'He told me absolutely nothing.' Kostya repeats that he knows nothing.
+- 'You are clearly concealing the truth from me.' Vika accuses him of hiding things.
+- 'I do not know why he is hiding!' Kostya expresses confusion over the hiding.
+- 'So that means Max is hiding from me?' Vika connects the dots about 'Max'.
 - 'What? No! Who is hiding at all?' Kostya scrambles to retract his statement with frantic exclamations.
-- 'Kostya, do not try to deceive me right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Vika, I truly know nothing!' Kostya makes a desperate final plea using an adverb of truthfulness.
+- 'Kostya, do not try to deceive me right now!' Vika threatens him to tell the truth.
+- 'Vika, I truly know nothing!' Kostya frantically denies knowing anything again.

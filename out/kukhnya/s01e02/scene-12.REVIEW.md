@@ -27,6 +27,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'And all of you get out of here quickly!' Chef Barinov bellows, clearing the line in fury.
-- 'Chef, we were only trying to help!' Here Senya anchors the line on the word meaning 'Chef' and builds the thought around 'wanted' and 'as'.
+- 'Chef, we were only trying to help!' Senya tries to explain they were only trying to help.
 - 'She said that it was disgusting!' Barinov lies gleefully to terrify his subordinate cooks.
-- 'Chef, I told them right away!' Senya exclaims, instantly throwing his fellow cooks under the bus. Now listen to the full kitchen confrontation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Chef, I told them right away!' Senya exclaims, instantly throwing his fellow cooks under the bus.

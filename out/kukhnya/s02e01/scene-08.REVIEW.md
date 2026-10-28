@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'See, now I am not going anywhere.' Max proudly shows that he has locked himself in place.
 - 'Max, what is that on your hand?' Victoria looks at the lock on his wrist in shock.
-- 'I did this only for your sake!' The preposition with the matching word ending word means 'for your sake'.
+- 'I did this only for your sake!' Max claims he handcuffed himself there purely for her sake.
 - 'You are just a complete fool!' Victoria is completely unimpressed by his dramatic gesture.
-- 'At least now we have time.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'now' with 'there is' and 'time'.
+- 'At least now we have time.' He points out that at least now they have time to talk.
 - 'I have no time for your nonsense.' Victoria refuses to waste a single minute on his prank.
-- 'Wait, do not walk away from me!' Max leads with the direct command form meaning 'wait', followed by 'go away'.
+- 'Wait, do not walk away from me!' Seeing her turn away, Max begs Vika not to walk off.
 - 'Sit here alone with your ideas.' Victoria leaves him to deal with the consequences himself.
-- 'Where are you going, Vika?' Max puts the word for 'where to' together with 'are coming' in a crisp, natural spoken turn of phrase.
+- 'Where are you going, Vika?' He calls out in panic to ask where she is going.
 - 'Vika, well where did you go?' Unable to move from the spot, Max watches her disappear.
-- 'I am going back to my work!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stop, please come back to me!' Max leads with the direct command form meaning 'stop', followed by 'come back'.
-- 'Do not leave me here alone!' Max is trapped outside by his own foolish plan.
+- 'I am going back to my work!' Vika yells back that she is heading inside to do her job.
+- 'Stop, please come back to me!' Trapped by the handcuffs, Max pleads with her to stop and come back.
+- 'Do not leave me here alone!' Max is trapped outside by his own foolish plan. Now listen to the entire scene outside the restaurant again.

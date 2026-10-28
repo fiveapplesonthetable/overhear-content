@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am very tired today.' Max starts by complaining. The word for 'tired' is an adjective, and here it is in the matching form because Max is a guy. We use 'is' in English, but Russian skips it.
-- 'We worked a lot in the morning.' The verb is in the past tense everyday, matching 'we'.
+- 'I am very tired today.' Max complains about feeling very tired today.
+- 'We worked a lot in the morning.' Max mentions that they worked incredibly hard all morning.
 - 'Let's rest a bit.' Max suggests taking a break. You can hear the word for 'a bit'.
-- 'Hello, cooks!' Russian omits the present-tense verb 'to be' here, linking 'hi' directly with 'cook', combining 'hi' with 'cook'.
+- 'Hello, cooks!' Senya cheerfully greets the cooks in the kitchen.
 - 'What are you standing around for, cripples?' Fedya uses a harsh word for people who are standing and doing nothing. Notice that 'are' is missing in Russian.
-- 'Can' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The pros are here.' Literally, 'Professionals arrived'. The verb is in the past tense everyday. The word for 'the' is missing because Russian doesn't use articles.
-- 'You are not professionals.' Max delivers a punchy one-word reaction built around the Russian word meaning 'professionals'.
-- 'You just talk a lot.' Max leads with the direct command form meaning 'say', pairing it with 'just' and 'a lot'.
+- 'Can' Fedya questions if they can see who just arrived.
+- 'The pros are here.' Senya sarcastically announces the arrival of the kitchen professionals.
+- 'You are not professionals.' Max retorts that they are not real professionals.
+- 'You just talk a lot.' Max accuses the two of them of just talking a lot.
 - 'We are telling the truth.' Fedya defends them. In Russian, it's just 'We speak truth'.
-- 'Go to work!' Senya commands them to get back to the kitchen tasks. The verb is an command form everyday.
+- 'Go to work!' Senya orders the cooks to get back to work immediately.
 - 'Okay, we are going.' Max gives up and heads back to his station. The word 'are' is not translated.

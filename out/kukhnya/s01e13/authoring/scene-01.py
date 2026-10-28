@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = 'At the bar in Claude Monet, Nastya approaches Kostya with a sweet proposition: she wants to spend the evening at his apartment to take the next step in their romance. Delighted and flustered, Kostya rushes off to buy candles to make the night special. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around The Next Step line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "At the bar in Claude Monet, Nastya approaches Kostya with a sweet proposition: she wants to spend the evening at his apartment to take the next step in their romance. Delighted and flustered, Kostya rushes off to buy candles to make the night special. Listen to their conversation in Russian first, then we will break down each line in English. Next time you watch the episode, listen for the Russian expressions for 'now' and 'to do' — you will catch every word right away. See you next time!"
 CLOSING = ('nastya', 'Пока!')
 STORY = [
@@ -31,14 +31,14 @@ STORY = [
     ('nastya', 'Хорошо, сделай этот вечер волшебным!', 'Good, make this evening magical!', [(13, 'этот')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, what are you doing right now?' — informal present tense question with a temporal adverb."),
-    (2, None, "'And I want to stay at your place today.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'No, it is time for us to take the next step.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'Do you want to get married?' — idiomatic verbal expression for a woman getting married."),
-    (6, None, "'Kostik, you are so funny!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (7, None, "'We will simply spend this evening together.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'And we will not tell anyone anything?' — negative future sentence with double negative pronouns."),
-    (9, None, "'This will be our little secret.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (11, None, "'I will quickly buy beautiful candles.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (12, None, "'Good, make this evening magical!' — informal command form governing an matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Kostya, what are you doing right now?' Nastya asks this playfully. She just wants to know what he is up to."),
+    (1, None, "'And I want to stay at your place today.' She makes her romantic intentions very clear."),
+    (2, None, "'No, it is time for us to take the next step.' Nastya pushes the relationship forward. The Russian literally means it is time to make the next step."),
+    (3, None, "'Do you want to get married?' Kostya panics a little. The phrase he uses specifically means a woman taking a husband."),
+    (4, None, "'Kostik, you are so funny!' She laughs off his panic. The word for funny here can also mean ridiculous."),
+    (5, None, "'We will simply spend this evening together.' Nastya calms him down. She suggests a simple, quiet evening."),
+    (6, None, "'And we will not tell anyone anything?' Kostya wants to make sure this stays between them. In Russian, stacking no and nothing in the same sentence is the standard way to say this."),
+    (7, None, "'This will be our little secret.' She agrees to keep it quiet. Calling it their little secret makes it sound like a fun game."),
+    (8, None, "'I will quickly buy beautiful candles.' Kostya is eager to impress her. He promises to grab some nice candles to set the mood."),
+    (9, None, "'Good, make this evening magical!' Nastya leaves him with a sweet instruction. She wants the night to be magical."),
 ]

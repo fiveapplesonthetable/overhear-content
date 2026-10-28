@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What kind of glass aquarium is this?' A scornful exclamatory question mocking the newly installed transparent partition in the restaurant.
 - 'It is needed to attract new guests.' An impersonal purpose construction explaining the marketing strategy behind the dining renovation.
 - 'Cooks should not be in an arena!' An emphatic negative modal statement rejecting public display during culinary preparation.
-- 'I am not a clown in a circus, Max.' A colorful metaphor asserting personal pride and refusing theatrical entertainment for patrons. Now, let's hear Chef Barinov express his outrage over the open kitchen once more. Now let's listen to the whole conversation again from start to finish.
+- 'I am not a clown in a circus, Max.' A colorful metaphor asserting personal pride and refusing theatrical entertainment for patrons. Now, let's hear Chef Barinov express his outrage over the open kitchen once more.

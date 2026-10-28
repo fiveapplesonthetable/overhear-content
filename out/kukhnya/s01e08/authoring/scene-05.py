@@ -7,14 +7,14 @@ SCENE = 5
 TITLE = 'Пари и телешоу  (The Bet and TV Show)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = 'In the restaurant dining room, Chef Viktor Barinov confronts owner Dmitry Nagiyev after a televised culinary duel. Nagiyev is thrilled with the dramatic ratings of pitting rival chefs against each other on screen, while Barinov fumes about his rival Elena working in his kitchen. Listen to their funny argument in Russian first, and then we will examine every line.'
 OPENER = "Let's examine this show-business argument step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our fifth scene. In Kukhnya, restaurant ownership and television drama frequently collide with explosive comedic results. See you next time!'
-CLOSING = ('max', 'До встречи!')
+CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('barinov', 'Дмитрий, это была твоя глупая идея!', 'Dmitry, this was your stupid idea!', [(54, 'Так это твоя была идея')], ''),
     ('nagiyev', 'Хватит кричать, вышло отличное шоу!', 'Stop shouting, it turned out a great show!', [(55, 'Хватит тебе плакать'), (55, 'Хорошее шоу')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nagiyev', 'Удачи тебе на кухне, шеф!', 'Good luck in the kitchen, chef!', [(73, 'Прошу')], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry, this was your stupid idea!' Viktor accuses the owner of orchestrating the public duel."),
-    (1, None, "'Stop shouting, it turned out a great show!' Dmitry defends the publicity stunt enthusiastically."),
-    (2, None, "'Rivals in life — rivals on screen.' Russian omits the present-tense verb 'to be' here, linking 'rivals' directly with 'life', combining 'rivals' with 'life'."),
-    (3, None, "'You just wanted to make me angry.' Chef Barinov expresses this naturally by combining the word for 'just' with 'wanted' and 'make angry'."),
-    (4, None, "'And it worked, you got angry perfectly!' Nagiyev uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'worked out' with 'great' and 'got angry'."),
-    (5, None, "'Now that woman will be in my kitchen.' Bitterly anticipating his rival's arrival at Claude Monet."),
-    (6, None, "'She lost the bet and will work the shift honestly.' Nagiyev uses the action verb meaning 'lost' to focus on the single completed result, pairing it with 'bet' and 'honestly'."),
-    (7, None, "'Viktor, get your cooks in order.' Nagiyev leads with the direct command form meaning 'bring', pairing it with 'cooks' and 'order'."),
-    (8, None, "'My cooks always work perfectly.' Chef Barinov puts the word for 'cooks' together with 'always' and 'work' in a crisp, natural spoken turn of phrase."),
-    (9, None, "'I shouldn't feel ashamed before the guests.' Here Nagiyev anchors the line on the word meaning 'must' and builds the thought around 'be' and 'ashamed'."),
-    (10, None, "'Don't worry, everything will be at the highest level.' Chef Barinov leads with the direct command form meaning 'worry', pairing it with 'will be' and 'highest'."),
-    (11, None, "'Great, then I am calm about the restaurant.' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'then', combining 'great' with 'then' and 'calm'."),
-    (12, None, "'I will go meet our new worker.' Chef Barinov uses the action verb meaning 'will go' to focus on the single completed result, pairing it with 'meet' and 'new'."),
-    (13, None, "'Good luck in the kitchen, chef!' Russian omits the present-tense verb 'to be' here, linking 'good luck' directly with 'kitchen', combining 'good luck' with 'kitchen'."),
+    (0, None, "'Dmitry, this was your stupid idea!' Barinov storms into the office, furious at the owner for setting up the television stunt."),
+    (1, None, "'Stop shouting, it turned out a great show!' Nagiyev waves off his anger, thrilled by the excellent ratings the drama will bring."),
+    (2, None, "'Rivals in life — rivals on screen.' The owner cynically points out that their real-life friction makes for perfect television."),
+    (3, None, "'You just wanted to make me angry.' Barinov realizes the entire argument was orchestrated just to get a rise out of him."),
+    (4, None, "'And it worked, you got angry perfectly!' Nagiyev gleefully admits his manipulation worked like a charm."),
+    (5, None, "'Now that woman will be in my kitchen.' Barinov complains that he now has to deal with a rival chef invading his territory."),
+    (6, None, "'She lost the bet and will work the shift honestly.' Nagiyev reminds him that they made a public bet that must be honored."),
+    (7, None, "'Viktor, get your cooks in order.' The owner orders his head chef to ensure the kitchen staff behaves appropriately."),
+    (8, None, "'My cooks always work perfectly.' Barinov defensively insists his team is always a well-oiled machine."),
+    (9, None, "'I shouldn't feel ashamed before the guests.' Nagiyev makes it clear he will not tolerate any embarrassment in front of customers."),
+    (10, None, "'Don't worry, everything will be at the highest level.' Barinov promises that the restaurant's reputation will remain spotless."),
+    (11, None, "'Great, then I am calm about the restaurant.' Nagiyev relaxes, satisfied that his publicity stunt will not ruin dinner service."),
+    (12, None, "'I will go meet our new worker.' Barinov heads out to grudgingly welcome his temporary replacement."),
+    (13, None, "'Good luck in the kitchen, chef!' Nagiyev wishes him luck with a sarcastic smirk as the chef leaves."),
 ]

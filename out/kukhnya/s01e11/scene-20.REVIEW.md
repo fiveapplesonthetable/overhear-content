@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, we have an urgent problem!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Vika, do not shout in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The critic at the table refused the salad.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He says that he does not eat grass.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He demands hot soup right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Give him the soup from table one!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you out of your mind, Vika?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Another person is waiting for this soup.' — inverted word order emphasizing the legitimate customer.
-- 'But the critic will write a terrible review!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let him wait for soup in turn.' — third person permissive word with an matching form and matching form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Viktor Petrovich, we have an urgent problem!' Vika rushes in to announce an urgent problem to the chef. She is panicking about the situation.
+- 'Vika, do not shout in the kitchen.' Barinov calmly tells the manager not to shout in his kitchen. He hates loud noises while cooking.
+- 'The critic at the table refused the salad.' Vika explains that the famous critic rejected his salad order. This is a very bad sign.
+- 'He says that he does not eat grass.' Vika repeats the guest's rude words about not eating grass. He is being incredibly picky.
+- 'He demands hot soup right now.' Vika says the man demands hot soup immediately instead. He wants it right this second.
+- 'Give him the soup from table one!' Vika begs the chef to just give him the soup meant for another table. She wants to fix the problem fast.
+- 'Are you out of your mind, Vika?' Barinov asks if she has lost her mind. He is shocked by her crazy suggestion.
+- 'Another person is waiting for this soup.' Barinov points out that another customer is waiting for that exact bowl. It belongs to someone else.
+- 'But the critic will write a terrible review!' Vika reminds him about the terrible review they might get. She thinks they should prioritize this VIP.
+- 'Let him wait for soup in turn.' Barinov stubbornly refuses and says the man can wait his turn. He treats everyone exactly the same.

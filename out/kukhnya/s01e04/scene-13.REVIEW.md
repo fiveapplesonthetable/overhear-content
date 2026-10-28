@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, prepare an urgent order for the guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am listening to you very attentively.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I need three hundred grams of good cognac.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And pour two whiskeys of a hundred grams each.' Nastya leads with the direct command form meaning 'pour', pairing it with 'two' and 'whiskey'.
-- 'And also bring three hot pots of tea.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course, we will do everything quickly and neatly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why are you standing and not working?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nastya, I wanted to ask something.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'What exactly do you want to find out?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'How much whiskey exactly do I need to pour into the glasses?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Two times a hundred grams, as usual!' Quantitative multiplier phrase with distributive preposition and comparative idiom.
-- 'Got it, now I will prepare everything in the best way.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Kostya, prepare an urgent order for the guests.' Nastya demands a fast turnaround on some drinks.
+- 'I am listening to you very attentively.' Giving her his full focus, the bartender listens.
+- 'I need three hundred grams of good cognac.' A specific amount of brandy is requested.
+- 'And pour two whiskeys of a hundred grams each.' More liquor is added to the order.
+- 'And also bring three hot pots of tea.' Hot beverages complete the ticket.
+- 'Of course, we will do everything quickly and neatly.' Assurances are made to handle it professionally.
+- 'Why are you standing and not working?' Wondering why the bartender is lingering, the hostess asks him.
+- 'Nastya, I wanted to ask something.' Hesitation precedes a request for clarification.
+- 'What exactly do you want to find out?' Prompting him, the hostess waits for the question.
+- 'How much whiskey exactly do I need to pour into the glasses?' Repeating the measurements for the drinks is needed.
+- 'Two times a hundred grams, as usual!' Standard portion sizes are reiterated.
+- 'Got it, now I will prepare everything in the best way.' Confirming he understands, the bartender promises a good result.

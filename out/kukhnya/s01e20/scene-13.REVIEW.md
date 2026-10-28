@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, did you buy a ring for Nastya?' Max turns a statement into a question purely through rising intonation on the word meaning 'bought', followed by 'ring'.
-- 'Yes, I bought it. And did you buy?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'bought' to make the point directly in conversation.
-- 'Yes, I also bought a ring for Vika.' The phrasing opens with 'too' before bringing in 'bought' and 'ring' to make the point clear.
-- 'Show me your ring, please.' Kostya leads with the direct command form meaning 'show', followed by 'ring'.
-- 'Are you buying rings for each other?' Senya turns a statement into a question purely through rising intonation on the word meaning 'are buying', pairing it with 'ring' and 'friend'.
-- 'What is it to you, Senya? Go away.' Max leads with the direct command form meaning 'go away', pairing it with 'what a' and 'matter'.
-- 'Just interesting, when will be your wedding?' The phrasing opens with 'just' before bringing in 'interesting' and 'when' to make the point clear.
-- 'This is not your problem. Shut up.' The little negative word sits right in front of the verb for 'to fall silent', just like 'not' in English. Then Senya replies.
-- 'Okay, okay. I just joked.' Senya puts the word for 'just' together with 'to joke' in a crisp, natural spoken turn of phrase.
-- 'Did you already give the ring to Nastya?' Max turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'donated' and 'ring'.
-- 'Not yet. I want to do this now.' The phrasing opens with 'still' before bringing in 'want' and 'to do' to make the point clear.
-- 'Good luck to you, Kostya. This is an important moment.' Russian omits the present-tense verb 'to be' here, linking 'luck' directly with 'important', combining 'luck' with 'important' and 'moment'.
-- 'Thank you, Max. Good luck to you with Vika too.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'too', combining 'thank you' with 'too' and 'luck'.
-- 'Yes, I need big luck today.' Russian omits the present-tense verb 'to be' here, linking 'needed' directly with 'large', combining 'needed' with 'large' and 'good luck'.
+- 'Kostya, did you buy a ring for Nastya?' Max asks his friend directly if he purchased the engagement ring.
+- 'Yes, I bought it. And did you buy?' Kostya confirms his purchase and throws the question right back.
+- 'Yes, I also bought a ring for Vika.' Max proudly announces he got one for Vika as well.
+- 'Show me your ring, please.' Kostya asks to see the jewelry his friend picked out.
+- 'Are you buying rings for each other?' Senya overhears and makes a sarcastic joke about their relationship.
+- 'What is it to you, Senya? Go away.' Max angrily tells Senya to mind his own business and leave.
+- 'Just interesting, when will be your wedding?' Senya continues teasing them about a hypothetical wedding.
+- 'This is not your problem. Shut up.' Kostya aggressively shuts down the kitchen prankster.
+- 'Okay, okay. I just joked.' Senya backs off, claiming he was only messing around.
+- 'Did you already give the ring to Nastya?' Max refocuses and asks if the proposal happened yet.
+- 'Not yet. I want to do this now.' Kostya admits he is still waiting for the right moment today.
+- 'Good luck to you, Kostya. This is an important moment.' Max offers sincere encouragement for the big step.
+- 'Thank you, Max. Good luck to you with Vika too.' Kostya returns the supportive wishes for Max's own proposal.
+- 'Yes, I need big luck today.' Max admits he is going to need all the help he can get.

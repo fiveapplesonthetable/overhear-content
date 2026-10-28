@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gentlemen, here are your rare French dishes.' Russian omits the present-tense verb 'to be' here, linking 'gentlemen' directly with 'rare', pairing it with 'French' and 'of dish'.
-- 'Wow, how beautifully the hot meat lies!' Here the guest anchors the line on the word meaning 'wow' and builds the thought around 'how' and 'beautifully'.
-- 'Our cook tried to prepare a real masterpiece.' The phrasing opens with 'chef' before bringing in 'tried' and 'to cook' to make the point clear.
-- 'The fish also looks incredibly appetizing and tasty.' the guest expresses this naturally by combining the word for 'fish' with 'too' and 'looks'.
-- 'We always use only the best products.' Kostya puts the word for 'always' together with 'use' and 'only' in a crisp, natural spoken turn of phrase.
-- 'Pass on our sincere gratitude to the head chef.' the guest leads with the direct command form meaning 'to pass on', pairing it with 'head chef' and 'sincere'.
-- 'I will certainly tell him these pleasant words.' The phrasing opens with 'surely' before bringing in 'I'll tell' and 'pleasant' to make the point clear.
-- 'We want to order another bottle of wine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will quickly bring your wine right now.' Kostya puts the word for 'now' together with 'quickly' and 'I will bring' in a crisp, natural spoken turn of phrase.
-- 'Thank you for your wonderful work here.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'wonderful', pairing it with 'job' and 'here'.
-- 'Bon appétit and have a good evening!' Russian omits the present-tense verb 'to be' here, linking 'pleasant' directly with 'appetite', pairing it with 'good' and 'evening'.
-- 'Thank you, we will definitely return here again.' the guest expresses this naturally by combining the word for 'thank you' with 'surely' and 'will return'.
-- 'We are always very glad to see you!' Kostya puts the word for 'always' together with 'very much' and 'glad' in a crisp, natural spoken turn of phrase.
+- 'Gentlemen, here are your rare French dishes.' Kostya presents the meal to the important guests. He announces the rare French dishes.
+- 'Wow, how beautifully the hot meat lies!' The guest is immediately impressed. He comments on how beautifully the meat is plated.
+- 'Our cook tried to prepare a real masterpiece.' Kostya praises the kitchen's effort. He says the chef tried to make a real masterpiece.
+- 'The fish also looks incredibly appetizing and tasty.' The guest continues to compliment the food. He thinks the fish looks incredibly tasty too.
+- 'We always use only the best products.' Kostya assures them of the quality. He claims they only use the absolute best ingredients.
+- 'Pass on our sincere gratitude to the head chef.' The guest is very satisfied. He asks Kostya to pass on their sincere gratitude to the chef.
+- 'I will certainly tell him these pleasant words.' Kostya happily accepts the compliment. He promises to deliver those pleasant words to the kitchen.
+- 'We want to order another bottle of wine.' The guest wants to keep the good times rolling. He orders another bottle of wine.
+- 'I will quickly bring your wine right now.' Kostya promises prompt service. He says he will bring the wine out right away.
+- 'Thank you for your wonderful work here.' The guest thanks him for the excellent service. He praises Kostya's wonderful work.
+- 'Bon appétit and have a good evening!' Kostya delivers the classic closing. He wishes them a pleasant appetite and a good evening.
+- 'Thank you, we will definitely return here again.' The guest promises future business. He says they will definitely return to the restaurant.
+- 'We are always very glad to see you!' Kostya expresses gratitude for their patronage. He tells them they are always glad to see them.

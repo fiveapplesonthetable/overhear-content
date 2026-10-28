@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People often sleep.' Max puts the word for 'people' together with 'often' and 'have been sleeping' in a crisp, natural spoken turn of phrase.
-- 'They do not want to think.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Everyone loves to dream.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We see dreams.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Such is our life.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'life'.
-- 'Nobody sees the truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We don' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Many close their eyes.' Max expresses this naturally by combining the word for 'many' with 'to close' and 'eyes'.
-- 'They are afraid.' Max delivers a punchy one-word reaction built around the Russian word meaning 'are afraid'.
-- 'Just wait for a miracle.' Here Max anchors the line on the word meaning 'just' and builds the thought around 'are waiting' and 'miracle'.
-- 'Nobody knows anything.' Max delivers a punchy one-word reaction built around the Russian word meaning 'knows'.
-- 'And everyone is silent.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to be silent'.
+- 'People often sleep.' Max begins his philosophical reflection by noting that people spend a lot of time metaphorically asleep.
+- 'They do not want to think.' Max observes that individuals often prefer to avoid deep thoughts or hard truths.
+- 'Everyone loves to dream.' Max points out that everyone enjoys getting lost in their own aspirations.
+- 'We see dreams.' Max continues his metaphor, stating that we all experience illusions.
+- 'Such is our life.' Max summarizes human existence, using a possession structure to say that this is just how our reality works.
+- 'Nobody sees the truth.' Max laments that people fail to acknowledge what is actually real.
+- 'We don' Max includes himself in this flaw, admitting that we ourselves miss the reality around us.
+- 'Many close their eyes.' Max suggests that a large number of people actively choose to ignore the facts by shutting their eyes to them.
+- 'They are afraid.' Max identifies fear as the root cause of this willful ignorance.
+- 'Just wait for a miracle.' Max explains that instead of facing the truth, people merely hold out hope for something magical to happen.
+- 'Nobody knows anything.' Max highlights the universal lack of understanding with a bleak statement.
+- 'And everyone is silent.' Max notes that this shared ignorance leads everyone to stay quiet rather than speak up.

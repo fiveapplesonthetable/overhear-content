@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, stop laughing so loudly in the kitchen!' Kostya uses the action verb meaning 'to stop' to focus on the single completed result, pairing it with 'so' and 'loudly'.
-- 'Kostya, you are very angry and funny today.' Nastya teases the flustered bartender with a grin.
-- 'I am simply tired after a long hard shift.' Kostya defends his weary attitude at the bar.
-- 'You always get angry without any reason.' Nastya expresses this naturally by combining the word for 'always' with 'to be angry' and 'reason'.
-- 'Will you go to the cinema with me tonight?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'to go', pairing it with 'today' and 'evening'.
-- 'Well you are a real oddball, of course I will go!' Here Nastya anchors the line on the word meaning 'real' and builds the thought around 'oddball' and 'of course'.
-- 'Then we meet at seven o'clock near the metro.' Kostya confirms their evening rendezvous plans.
-- 'Who touched my favorite pot again?!' Chef Barinov yells unexpectedly from inside the office.
-- 'Who were you rooting for today at the match?!' Barinov demands passionate football loyalty from everyone.
-- 'The chef is shouting again about his favorite football.' Kostya whispers amusedly as the shouting echoes.
-- 'He always worries so loudly about Spartak.' Nastya giggles at Barinov's fiery sports devotion.
-- 'Football is the most important thing in life!' Barinov proclaims passionately from down the hall.
-- 'Let's go quickly from here while he is calm.' Kostya urges a prompt exit before duties resume.
-- 'Yes, let's go quickly to watch a fun movie!' Nastya smiles as they leave the restaurant together.
+- 'Nastya, stop laughing so loudly in the kitchen!' Kostya jokingly scolds his colleague for making too much noise.
+- 'Kostya, you are very angry and funny today.' Nastya jokes that the exhausted bartender is acting amusing.
+- 'I am simply tired after a long hard shift.' Kostya defends himself, mentioning the difficult hours he just worked.
+- 'You always get angry without any reason.' Nastya playfully accuses him of being grumpy over nothing.
+- 'Will you go to the cinema with me tonight?' Kostya boldly pivots from complaints to asking her out on a date.
+- 'Well you are a real oddball, of course I will go!' Nastya affectionately accepts his awkward invitation.
+- 'Then we meet at seven o'clock near the metro.' Kostya finalizes the meeting time for their upcoming date.
+- 'Who touched my favorite pot again?!' Barinov shouts from the office about someone touching his things.
+- 'Who were you rooting for today at the match?!' Barinov demands to know which football team they supported.
+- 'The chef is shouting again about his favorite football.' Kostya whispers about the chef's predictable sports obsession.
+- 'He always worries so loudly about Spartak.' Nastya finds the boss's loud football fandom very entertaining.
+- 'Football is the most important thing in life!' Barinov declares his undying love for the sport to everyone.
+- 'Let's go quickly from here while he is calm.' Kostya urges the waitress to leave before the chef finds them.
+- 'Yes, let's go quickly to watch a fun movie!' Nastya agrees to sneak away and enjoy their movie date.

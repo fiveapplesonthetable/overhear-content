@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Delighted to welcome you to the finest restaurant!' Dmitry grandly welcomes his guests into Claude Monet.
-- 'We are opening our restaurant in two weeks.' Mark announces his imminent competition in Moscow.
-- 'Meet her, this is my chef Elena.' Mark proudly introduces his elite culinary import.
-- 'She worked at the very best restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And has your chef not fallen sick yet?' , combining 'boss' with 'more' and 'to fall ill'.
-- 'Do not worry, my chef will outlive you.' Nagiyev fires back with confidence in his star cook.
-- 'Vika, serve the hot dishes to the guests quickly!' Dmitry signals the floor manager to present food.
-- 'Our guests have gotten very hungry.' A gracious host prioritizing the table's comfort.
-- 'Good day, they will bring everything right now.' Vika responds with consummate professional charm.
-- 'Just make sure there is no pepper at all.' Here the speaker anchors the line on the word meaning 'only' and builds the thought around 'to see to it' and 'quite'.
-- 'Very well, I will notify the head chef immediately.' Vika promises to deliver the strict constraint.
-- 'In the kitchen they are already preparing this order.' Vika expresses this naturally by combining the word for 'kitchen' with 'already' and 'to cook'.
-- 'In our kitchen the best masters work.' Dmitry proudly defends the quality of his staff.
-- 'I will personally oversee this dish.' Vika takes personal responsibility for customer satisfaction.
+- 'Delighted to welcome you to the finest restaurant!' Nagiyev greets his competitor with boastful hospitality.
+- 'We are opening our restaurant in two weeks.' Mark casually drops the timeline for his looming business threat.
+- 'Meet her, this is my chef Elena.' He introduces the secret weapon of his new culinary venture.
+- 'She worked at the very best restaurant.' Mark brags about his head cook's elite background.
+- 'And has your chef not fallen sick yet?' He takes a jab at the infamous drinking habits of his rival's boss.
+- 'Do not worry, my chef will outlive you.' Nagiyev defends his star talent with a dark, confident joke.
+- 'Vika, serve the hot dishes to the guests quickly!' He suddenly commands the manager to bring out the food.
+- 'Our guests have gotten very hungry.' Nagiyev playfully insists that the rivals are starving for a good meal.
+- 'Good day, they will bring everything right now.' Vika greets the table with perfectly polished charm.
+- 'Just make sure there is no pepper at all.' Mark unexpectedly dictates a strict dietary restriction.
+- 'Very well, I will notify the head chef immediately.' Vika promises to handle the allergy issue personally.
+- 'In the kitchen they are already preparing this order.' She reassures them that the meal is well underway.
+- 'In our kitchen the best masters work.' Nagiyev cannot resist bragging about his kitchen staff again.
+- 'I will personally oversee this dish.' Vika assures them that she will maintain absolute control over the plate.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Walking into Claude Monet's kitchen to investigate the slowdown, Victoria is stunned to discover a gaping empty space where the primary cooking stove should be. When she angrily confronts Chef Barinov, he concocts ridiculous excuses about technical diagnostics before Victoria threatens to call the owner. Let's listen to their confrontation in Russian."
 OPENER = "Let's explore how Victoria interrogates Chef Barinov over the sudden disappearance of essential kitchen equipment."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('barinov', 'Не надо никому звонить, я разберусь.', 'No need to call anyone, I will sort it out.', [], ''),
 ]
 WALK = [
-    (1, None, "'Our stove has now gone for diagnostics.' The personified past tense verb creates a humorous deflection about absent equipment in the kitchen."),
-    (4, None, "'It did not have time to leave you a note!' An absurd comedic excuse attributing human actions to an inanimate appliance for the listener."),
-    (6, None, "'Stop clowning around and return it immediately!' Two urgent imperatives reject playful banter and demand direct compliance for the restaurant."),
-    (11, None, "'I will call Dmitry Nagiyev right now.' A future tense threat invoking the restaurant owner's authority to enforce discipline. Now, let's listen to Victoria and Barinov's sharp exchange once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Our stove has now gone for diagnostics.' Barinov repeats his lie to her."),
+    (1, None, "'It did not have time to leave you a note!' An absurd comedic excuse attributing human actions to an inanimate appliance for the listener."),
+    (2, None, "'Stop clowning around and return it immediately!' Vika demands the equipment back immediately."),
+    (3, None, "'I will call Dmitry Nagiyev right now.' Vika threatens to call 'Dmitry Nagiyev'."),
 ]

@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Вик, что с тобой? | Vik, what is wrong? | #303: вик | verbatim |
-| 2 | Макс | В чём дело, Макс? | What is the matter, Max? | #305: чем | verbatim |
+| 2 | Вика | В чём дело, Макс? | What is the matter, Max? | #305: чем | verbatim |
 | 3 | Вика | В чем дело? | What is the matter? | #305: чем | verbatim |
 | 4 | Вика | Меня сегодня чуть не уволили с работы. | I almost got fired today. | #309: меня | verbatim |
 | 5 | Вика | И все благодаря тебе. | And it is all thanks to you. | #304: все | verbatim |
@@ -30,16 +30,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vik, what is wrong?' Russian omits the present-tense verb 'to be' here, linking 'Vika' directly with 'what', combining 'Vika' with 'what' and 'with'.
-- 'What is the matter, Max?' Max turns a statement into a question purely through rising intonation on the word meaning 'matter' to make the point directly in conversation.
-- 'What is the matter?' Vika turns a statement into a question purely through rising intonation on the word meaning 'matter' to make the point directly in conversation.
-- 'I almost got fired today.' Vika expresses this naturally by combining the word for 'today' with 'nearly' and 'to fire'.
-- 'And it is all thanks to you.' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'all', pairing it with 'thanks to' and 'for you'.
-- 'Max, you are ruining my life.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That is it.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'all'.
-- 'I do not want to see you.' Vika uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'want' and 'to see'.
-- 'Want me to tell you what is going on?' Vika turns a statement into a question purely through rising intonation on the word meaning 'do you want', pairing it with 'I'll tell' and 'matter'.
-- 'You make everything so complicated.' Here Vika anchors the line on the word meaning 'constantly' and builds the thought around 'to complicate'.
-- 'Then you blame everyone else.' The phrasing opens with 'guilty' before bringing in 'are you doing' and 'other' to make the point clear.
-- 'Maybe you should look at yourself for the reasons?' Vika turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'is parked' and 'to look for'.
-- 'I have always wondered...' Max puts the word for 'always' together with 'to surprise' in a crisp, natural spoken turn of phrase. Now let's listen to the whole conversation again from start to finish.
+- 'Vik, what is wrong?' Max is genuinely confused by her anger. He asks Vika what is troubling her.
+- 'What is the matter, Max?' He pushes for an explanation. Max wants to know what he did wrong.
+- 'What is the matter?' Vika repeats his question in disbelief. She is amazed he does not know.
+- 'I almost got fired today.' She reveals the severe consequence of his actions. Vika explains she nearly lost her job.
+- 'And it is all thanks to you.' She places the blame entirely on him. Vika says it is all his fault.
+- 'Max, you are ruining my life.' Vika expresses her deep frustration. She accuses him of destroying her peace.
+- 'That is it.' She reaches her breaking point. Vika declares they are finished.
+- 'I do not want to see you.' She sets a firm boundary. Vika tells him to stay out of her sight.
+- 'Want me to tell you what is going on?' Vika offers to spell it out for him. She asks if he really wants the harsh truth.
+- 'You make everything so complicated.' She criticizes his chaotic nature. Vika claims he makes everything harder than it needs to be.
+- 'Then you blame everyone else.' She points out his inability to take responsibility. Vika accuses him of shifting the blame.
+- 'Maybe you should look at yourself for the reasons?' She suggests some self-reflection. Vika tells him to look in the mirror for once.
+- 'I have always wondered...' Max begins to respond thoughtfully. He reflects on his own continuous surprise.

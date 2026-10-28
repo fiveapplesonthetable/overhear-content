@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, is everything serious between you and Max?' Sasha inquires about the relationship with an adjective.
-- 'Yes, yesterday we even kissed.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Really? And how did that happen?' Sasha reacts with curiosity using a question word and past verb.
-- 'It was incredibly romantic!' Nastya describes her feelings with an intensifier adverb.
-- 'Did you really fall in love with him?' Sasha asks in surprise using a word and past self-directed form.
-- 'He is such a kind and attentive guy.' Nastya praises Max with descriptive adjectives and a noun.
-- 'After all, you have only known each other one week.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'True love knows no time.' Nastya replies with a poetic statement about timeless affection.
-- 'Imagine what beautiful children we will have!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Are you already thinking about children?!' Sasha is astonished by the speed of her friend's plans.
-- 'Of course, we will create a wonderful family.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And does Max know about your plans?' Sasha asks whether the prospective groom has been consulted.
-- 'Soon we will definitely discuss everything.' Nastya resolves the question with an adverb of certainty.
+- 'Nastya, is everything serious between you and Max?' Sasha inquires whether the romance is actually serious.
+- 'Yes, yesterday we even kissed.' Nastya proudly shares the news of their intimate moment.
+- 'Really? And how did that happen?' Sasha reacts with intense curiosity about the details.
+- 'It was incredibly romantic!' Nastya describes the moment as a dream come true.
+- 'Did you really fall in love with him?' Sasha asks in surprise if her friend has already fallen hard.
+- 'He is such a kind and attentive guy.' Nastya praises his personality with genuine affection.
+- 'After all, you have only known each other one week.' Sasha reminds her friend how briefly they have known each other.
+- 'True love knows no time.' Nastya brushes off the logic with a romantic cliché.
+- 'Imagine what beautiful children we will have!' Nastya is already imagining their future family together.
+- 'Are you already thinking about children?!' Sasha is completely astonished by the speed of these plans.
+- 'Of course, we will create a wonderful family.' Nastya confidently predicts a happy family life.
+- 'And does Max know about your plans?' Sasha wonders if the prospective groom has any idea.
+- 'Soon we will definitely discuss everything.' Nastya confidently resolves to bring it up soon.

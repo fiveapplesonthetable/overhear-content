@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alisa, what kind of red spots have appeared?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I really cannot eat chocolate at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Papa got scared and is writing his will!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wow, what a handsome sweet cake!' Emphatic admiring interjection modifying an exclamatory noun phrase.
-- 'You like it? I made it myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did you make it for Aunt Vika?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why do you think about Aunt Vika?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Papa always made tasty food for Mama.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what is this supposed to mean at all?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'So Papa loves my Mama very much.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But Vika and I are just friends.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And Aunt Vika said that she loves you!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Wow, that is real important news!' Surprised expressive interjection with a everyday equative everyday.
+- 'Alisa, what kind of red spots have appeared?' When Alisa wanders back to the pastry counter, Max notices her cheeks and asks where those red spots came from.
+- 'I really cannot eat chocolate at all.' Alisa casually admits that she is actually allergic to chocolate.
+- 'Papa got scared and is writing his will!' Max jokes that her father is so terrified of her mom's reaction that he is writing his last will.
+- 'Wow, what a handsome sweet cake!' Spotting the dessert on Max's counter, Alisa gasps at what a pretty cake he made.
+- 'You like it? I made it myself.' Pleased, Max asks if she likes it and says he baked it himself.
+- 'Did you make it for Aunt Vika?' Guessing his crush, the perceptive girl asks if he made the cake for Aunt Vika.
+- 'Why do you think about Aunt Vika?' Caught off guard, Max asks why she immediately thought of Vika.
+- 'Papa always made tasty food for Mama.' Alisa explains her logic: her dad always cooked special treats for her mom.
+- 'And what is this supposed to mean at all?' Max asks what that has to do with him.
+- 'So Papa loves my Mama very much.' Alisa says cooking for someone means you love them very much.
+- 'But Vika and I are just friends.' Turning red, Max claims that he and Vika are just friends.
+- 'And Aunt Vika said that she loves you!' Alisa cheerfully lets slip that Aunt Vika told her she loves Max.
+- 'Wow, that is real important news!' Stunned and delighted, Max calls that a huge piece of news.

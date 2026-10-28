@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I heard you have a problem with housing.' Kostya brings up the sensitive topic of accommodation.
-- 'Yes, I have nowhere to live in Moscow at all.' Max confesses his desperate living situation.
-- 'Do you want to live at my place for a couple of weeks?' Kostya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'do you want' with 'to stay' and 'couple'.
-- 'Are you speaking completely seriously, Kostya?' Max turns a statement into a question purely through rising intonation on the word meaning 'speak', pairing it with 'absolutely' and 'seriously'.
-- 'Of course, without any problems, my friend!' Kostya warmly reaffirms his willingness to help.
-- 'Here is the exact address of my new apartment.' Russian omits the present-tense verb 'to be' here, linking 'exact' directly with 'address', combining 'exact' with 'address' and 'new'.
-- 'I will arrive home around ten in the evening.' Kostya uses the action verb meaning 'will arrive' to focus on the single completed result, pairing it with 'home' and 'ten'.
-- 'Excellent, I will come right on time there.' Max expresses this naturally by combining the word for 'excellent' with 'will come' and 'right'.
-- 'Maybe I should buy something tasty for tea?' A polite gesture offering housewarming treats.
-- 'Better buy a pretty bouquet of flowers.' Kostya leads with the direct command form meaning 'buy', pairing it with 'better' and 'pretty'.
-- 'Why do you and I need flowers?' Max wonders about the strange floral request.
-- 'An elderly landlady lives in this apartment.' Kostya explains the presence of the apartment owner.
-- 'Understood, I will buy the freshest flowers!' Max promises to make a great first impression.
-- 'Then agreed, I am waiting for you tonight!' The two friends finalize their roommate arrangement. Alright, let's hear the whole thing once more.
+- 'Max, I heard you have a problem with housing.' Kostya broaches the subject gently. He knows Max has been sleeping in the restaurant.
+- 'Yes, I have nowhere to live in Moscow at all.' Max admits defeat. He sounds exhausted by his secret living situation.
+- 'Do you want to live at my place for a couple of weeks?' Kostya generously offers a lifeline. He suggests a temporary stay to help his friend out.
+- 'Are you speaking completely seriously, Kostya?' Max can hardly believe his luck. He asks if it is a real offer or just a joke.
+- 'Of course, without any problems, my friend!' Kostya warmly confirms the invitation. He makes it clear that Max would not be a burden.
+- 'Here is the exact address of my new apartment.' Kostya hands over the details. He wants Max to know exactly where to go.
+- 'I will arrive home around ten in the evening.' Kostya tells him when to expect him. He sets a time for them to meet up after their shifts.
+- 'Excellent, I will come right on time there.' Max promises to be punctual. He is thrilled to finally have a real destination.
+- 'Maybe I should buy something tasty for tea?' Max offers to bring a housewarming gift. He wants to show his appreciation for the hospitality.
+- 'Better buy a pretty bouquet of flowers.' Kostya gives him a very specific and strange instruction. A bouquet is an unusual gift for a male roommate.
+- 'Why do you and I need flowers?' Max is confused by the suggestion. He wonders what two guys would do with a floral arrangement.
+- 'An elderly landlady lives in this apartment.' Kostya reveals the catch. They are actually renting a room in an older woman's flat.
+- 'Understood, I will buy the freshest flowers!' Max gets the picture immediately. He promises to charm the landlady with a perfect bouquet.
+- 'Then agreed, I am waiting for you tonight!' Kostya seals the deal with a smile. He looks forward to having his friend as a roommate.

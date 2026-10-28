@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In this world rats are enemies.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'that' straight to 'enemy'.
-- 'Everyone hates them very much.' Here the speaker anchors the line on the word meaning 'very much' and builds the thought around 'hate'.
-- 'And you also do not like rats.' The phrasing opens with 'too' before bringing in 'rat' and 'to love' to make the point clear.
-- 'Mice are very similar to them.' Russian omits the present-tense verb 'to be' here, linking 'mouse' directly with 'very much', combining 'mouse' with 'very much' and 'similar'.
-- 'Yes, I do not like them.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'love'.
-- 'They are like cute mice.' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'sweet', combining 'how' with 'sweet' and 'mouse'.
-- 'But everyone hates rats.' The phrasing opens with 'rat' before bringing in 'hate' to make the point clear.
-- 'Excuse me, they are calling me.' The character uses a direct command command form of the verb meaning 'sorry'.
-- 'Yes, I am listening to you.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'I'm listening'.
-- 'Where are they? In the fridge?' Russian omits the present-tense verb 'to be' here, linking 'where' directly with 'fridge', combining 'where' with 'fridge'.
-- 'Great, we are going now.' The phrasing opens with 'wonderful' before bringing in 'now' and 'are going' to make the point clear.
-- 'Viktor Petrovich, let us go with me.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'come on'.
+- 'In this world rats are enemies.' Setting up a metaphor about illegal workers, the official declares that rodents are the villains.
+- 'Everyone hates them very much.' Lanovsky stresses the universal dislike for these metaphorical pests.
+- 'And you also do not like rats.' Pointing directly at the chef, the speaker assumes his listener shares this strong aversion.
+- 'Mice are very similar to them.' The conversation shifts to a slightly different animal, drawing a comparison between the two.
+- 'Yes, I do not like them.' Barinov agrees with the statement, confirming his distaste for the rodents.
+- 'They are like cute mice.' Lanovsky contrasts the hated pests with something that might seem innocent and harmless.
+- 'But everyone hates rats.' Circling back to his main point, the officer reiterates the absolute disgust people have for the real troublemakers.
+- 'Excuse me, they are calling me.' A sudden phone call interrupts the dramatic monologue, prompting a quick apology.
+- 'Yes, I am listening to you.' Answering the phone, the speaker adopts a formal and attentive tone.
+- 'Where are they? In the fridge?' The official repeats the shocking information he just heard over the phone, giving away the hiding spot.
+- 'Great, we are going now.' Expressing satisfaction with the tip, the caller announces their immediate departure to investigate.
+- 'Viktor Petrovich, let us go with me.' Lanovsky invites the chef to accompany him, making it clear that they are about to uncover the truth together.

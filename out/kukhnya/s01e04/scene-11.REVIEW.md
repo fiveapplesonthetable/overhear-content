@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She seems so unapproachable today.' Max confides, admiring Vika from across the dining room.
-- 'Take the initiative right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Girls love brave guys.' the bartender declares, quoting the popular romantic maxim.
-- 'Thanks for the advice, I'll do it!' Max resolves, gathering up his courage to approach Vika. Now listen to the full hallway conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'She seems so unapproachable today.' Observing his love interest, the cook notes she looks distant.
+- 'Take the initiative right now!' Urging his friend, the bartender says to make a move.
+- 'Girls love brave guys.' Kostya points out that women appreciate confident men.
+- 'Thanks for the advice, I'll do it!' Accepting the suggestion, the cook resolves to act.

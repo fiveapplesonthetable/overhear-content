@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Chef Viktor Petrovich!' Elena greets her culinary rival with a polite smile.
-- 'Good morning, Elena Pavlovna.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning'.
-- 'Why did you come to this market?' Elena inquires about his presence among the stalls.
-- 'I am choosing the best fresh vegetables.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And did you decide to make your husband borscht?' Viktor teases her about domestic cooking chores.
-- 'No, I am opening a new expensive restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am preparing a new menu myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nobody will go to your restaurant!' Chef Barinov expresses this naturally by combining the word for 'restaurant' with 'will go'.
-- 'We will see whose kitchen is better!' Elena puts the word for 'yet' together with 'will see' and 'kitchen' in a crisp, natural spoken turn of phrase.
-- 'My restaurant will always be first!' Viktor proudly defends Claude Monet as the top restaurant.
-- 'Then try these beautiful apples.' Elena leads with the direct command form meaning 'try', pairing it with 'then' and 'beautiful'.
-- 'Oh, how sour these apples are!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'sour', combining 'oh' with 'sour' and 'apples'.
-- 'One must know how to choose good fruit!' Barinov mocks her poor eye for quality produce.
-- 'Learn while I am a kind chef!' Chef Barinov leads with the direct command form meaning 'learn', pairing it with 'while' and 'kind'.
+- 'Good morning, Chef Viktor Petrovich!' Elena kicks things off with a deceptively sweet greeting.
+- 'Good morning, Elena Pavlovna.' Barinov responds with equal, forced politeness.
+- 'Why did you come to this market?' She probes to find out what brings a high-end chef to a public stall.
+- 'I am choosing the best fresh vegetables.' He proudly declares that he personally selects top-tier produce.
+- 'And did you decide to make your husband borscht?' He cannot resist taking a jab at her culinary skills.
+- 'No, I am opening a new expensive restaurant.' Elena reveals her ambitious plans to launch a rival establishment.
+- 'I am preparing a new menu myself.' She emphasizes her hands-on approach to designing the dishes.
+- 'Nobody will go to your restaurant!' Barinov aggressively predicts total failure for her venture.
+- 'We will see whose kitchen is better!' She confidently accepts the challenge, ready to prove him wrong.
+- 'My restaurant will always be first!' He fiercely defends Claude Monet's position at the top.
+- 'Then try these beautiful apples.' Elena tries to trick him into eating something unpleasant.
+- 'Oh, how sour these apples are!' She feigns surprise at the terrible taste of the fruit.
+- 'One must know how to choose good fruit!' Barinov seizes the moment to insult her professional judgment.
+- 'Learn while I am a kind chef!' He haughtily tells her to take notes while he is still feeling generous.

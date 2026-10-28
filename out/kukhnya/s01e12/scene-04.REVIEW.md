@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, hi! How are things?' Max greets Sasha with a friendly and casual tone.
-- 'Hi, little cook! Everything is normal.' Sasha replies with a cheerful and affectionate nickname.
-- 'Oh, ow! How painful!' Max suddenly winces and clutches his abdomen in dramatic distress.
-- 'What happened to you?' Sasha asks with immediate concern after seeing him doubled over.
-- 'I have a sharp pain in my side.' Max claims to feel an agonizing stitch in his torso.
-- 'On which side exactly?' Sasha investigates the precise location of his reported discomfort.
-- 'Right here, on the right side.' Max points directly to his lower right abdominal quadrant.
-- 'On the right? That could be appendicitis!' Sasha expresses this naturally by combining the word for 'the right' with 'could' and 'be'.
-- 'Shall I urgently call an ambulance?' Sasha reaches for her phone to summon emergency assistance.
-- 'No, no need for any ambulance!' Max panics slightly as he stops her from dialing.
-- 'Look, I have two tickets!' Max pulls the movie tickets from his pocket with a grin.
-- 'What? You are just a jerk, Max!' Sasha realizes he staged the whole medical emergency.
-- 'Will you go to the movies with me tonight?' Max playfully extends the evening invitation.
-- 'All right, let's go! See you tonight, actor.' Sasha smiles, agrees to the date, and heads back to work.
+- 'Sasha, hi! How are things?' Max greets Sasha and asks how she is doing.
+- 'Hi, little cook! Everything is normal.' Sasha says hello back. She calls him a little cook in a friendly way.
+- 'Oh, ow! How painful!' Max fakes stomach pain again. He cries out in fake agony.
+- 'What happened to you?' Sasha asks what is wrong with him.
+- 'I have a sharp pain in my side.' Max complains about a sharp stabbing pain in his side.
+- 'On which side exactly?' Sasha wants to know exactly which side hurts.
+- 'Right here, on the right side.' Max points out that the pain is on his right side.
+- 'On the right? That could be appendicitis!' Sasha gets worried because right side pain could mean appendicitis.
+- 'Shall I urgently call an ambulance?' Sasha offers to call for medical help right away. The word for ambulance literally means fast.
+- 'No, no need for any ambulance!' Max quickly stops her from calling anyone.
+- 'Look, I have two tickets!' Max reveals his trick and shows her the movie tickets instead.
+- 'What? You are just a jerk, Max!' Sasha is shocked and calls him a jerk for the stupid joke.
+- 'Will you go to the movies with me tonight?' Max asks her if she will join him for a movie later.
+- 'All right, let's go! See you tonight, actor.' Sasha agrees to go. She calls him an actor because of his fake pain.

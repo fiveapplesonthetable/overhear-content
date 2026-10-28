@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima and I discussed the affairs.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have a good idea.' Kristina uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'there is' with 'good' and 'idea'.
-- 'How to make the restaurant better.' The phrasing opens with 'how' before bringing in 'to do' and 'restaurant' to make the point clear.
-- 'But first I want to talk with you.' Kristina expresses this naturally by combining the word for 'first' with 'want' and 'to talk'.
-- 'Only with you, Viktor Petrovich.' Kristina uses the polite everyday 'you' alongside 'Petrovich', keeping a formal or respectful register.
-- 'If you do not mind, Victoria Sergeyevna?' Kristina uses the polite everyday 'you' alongside 'Sergeyevna', keeping a formal or respectful register.
-- 'Yes, of course, I do not mind.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'of course'.
-- 'Great, I am listening to you.' Chef Barinov expresses this naturally by combining the word for 'wonderful' with 'I'm listening'.
-- 'I looked at the employees salaries.' Kristina uses the action verb meaning 'looked' to focus on the single completed result, pairing it with 'salaries' and 'staff members'.
-- 'We need to make layoffs.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What are you talking about?' Chef Viktor uses a direct command command form of the verb meaning 'say'. Then Kristina responds.
-- 'Vika receives a lot of money.' Kristina chooses the action verb meaning 'earns' for the ongoing action, followed by 'very much' and 'a lot'.
+- 'Dima and I discussed the affairs.' Kristina brings up her recent meeting, setting a serious tone right away by mentioning she and Dima already talked.
+- 'I have a good idea.' She casually reveals that she came up with a solid plan, creating an air of suspense in the room.
+- 'How to make the restaurant better.' Her idea revolves around improving the entire establishment, showing her ambitious goals.
+- 'But first I want to talk with you.' Instead of revealing the plan immediately, she requests a private chat to keep things confidential.
+- 'Only with you, Viktor Petrovich.' Kristina addresses the chef respectfully, making it clear she only wants him involved in this specific discussion.
+- 'If you do not mind, Victoria Sergeyevna?' Turning to the manager, she asks for permission in a polite yet firm manner.
+- 'Yes, of course, I do not mind.' Vika quickly agrees to step out, keeping her response brief and professional.
+- 'Great, I am listening to you.' Chef Barinov tells her he is ready to hear the proposal, sounding completely attentive.
+- 'I looked at the employees salaries.' Kristina drops the bomb that she has been looking into what everyone gets paid.
+- 'We need to make layoffs.' She does not sugarcoat it and plainly states that some people have to go.
+- 'What are you talking about?' Chef Barinov reacts with pure confusion, demanding to know what she means.
+- 'Vika receives a lot of money.' Kristina points the finger straight at the manager, suggesting her paycheck is simply too high.

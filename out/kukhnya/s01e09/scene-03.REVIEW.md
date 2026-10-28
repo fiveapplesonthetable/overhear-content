@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you need to go to the kitchen urgently.' Russian omits the present-tense verb 'to be' here, linking 'chef' directly with 'necessary', pairing it with 'urgently' and 'kitchen'.
-- 'Lyova, don't you see I am busy?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'see', followed by 'busy'.
-- 'Guests in the dining room are waiting for special dishes.' The phrasing opens with 'guests' before bringing in 'dining room' and 'are waiting for' to make the point clear.
-- 'I am playing with my daughter right now.' Chef Barinov expresses this naturally by combining the word for 'now' with 'am playing' and 'daughter'.
-- 'But this is an important order from the chef.' Russian omits the present-tense verb 'to be' here, linking 'important' directly with 'order', followed by 'chef'.
-- 'You are a wonderful cook and will manage yourself.' Here Chef Barinov anchors the line on the word meaning 'wonderful' and builds the thought around 'cook' and 'will manage'.
-- 'They want specifically your signature meat.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Cook our usual tasty meat yourself.' Chef Barinov leads with the direct command form meaning 'cook', pairing it with 'usual' and 'tasty'.
-- 'And what if the guests do not like the taste?' Lyova turns a statement into a question purely through rising intonation on the word meaning 'to the guests', pairing it with 'appeal to' and 'taste'.
-- 'Add a little salt and fresh pepper.' Chef Barinov leads with the direct command form meaning 'add', pairing it with 'a little' and 'salt'.
-- 'Chef, real chaos is starting in the kitchen.' The phrasing opens with 'chef' before bringing in 'kitchen' and 'is starting' to make the point clear.
-- 'Close the door and establish order there.' Chef Barinov leads with the direct command form meaning 'close', pairing it with 'door' and 'establish'.
-- 'Alright, chef, I will do everything myself.' Lyova puts the word for 'alright' together with 'chef' and 'will do' in a crisp, natural spoken turn of phrase.
+- 'Chef, you need to go to the kitchen urgently.' During the lunch rush, Lyova bursts into the office and tells the chef he is needed in the kitchen.
+- 'Lyova, don't you see I am busy?' Sitting on the floor with toys, Barinov asks if Lyova cannot see that he is busy.
+- 'Guests in the dining room are waiting for special dishes.' Lyova stresses that diners in the hall are waiting for special dishes.
+- 'I am playing with my daughter right now.' Viktor waves the orders away, saying he is right in the middle of playing with his daughter.
+- 'But this is an important order from the chef.' Lyova protests that the table specifically requested the head chef's cooking.
+- 'You are a wonderful cook and will manage yourself.' Barinov flatters his sous-chef, telling Lyova he is a great cook who can handle it himself.
+- 'They want specifically your signature meat.' Lyova explains that the guests asked for Viktor's signature meat dish.
+- 'Cook our usual tasty meat yourself.' Viktor tells him to just cook their standard meat recipe on his own.
+- 'And what if the guests do not like the taste?' Nervous about complaints, Lyova asks what to do if the guests notice a difference in taste.
+- 'Add a little salt and fresh pepper.' Viktor jokingly advises him to just toss in a pinch of salt and fresh pepper.
+- 'Chef, real chaos is starting in the kitchen.' Lyova warns that without the chef at the pass, real chaos is breaking out in the kitchen.
+- 'Close the door and establish order there.' Refusing to budge, Barinov tells him to shut the office door and restore order out there.
+- 'Alright, chef, I will do everything myself.' Defeated, Lyova sighs and promises to handle everything himself.

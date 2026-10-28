@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' A crisp, everyday conversational reply meaning 'hello' that you will hear constantly in Russian dialogue.
-- 'Good morning.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning'.
+- 'Hello.' Hostess offers a standard greeting to the chef.
+- 'Good morning.' Barinov replies with a standard morning greeting.
 - 'Chef, they are waiting for you.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'to expect'.
-- 'Who is waiting for me?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'wait for'.
+- 'Who is waiting for me?' Barinov demands to know exactly who is looking for him.
 - 'Dima is waiting for you.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'wait for'.
-- 'Nagiyev is here?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Nagiyev' straight to 'here'.
+- 'Nagiyev is here?' Barinov reacts with surprise that the owner is on the premises.
 - 'Yes, he is at his table.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'the table'.
-- 'What does he want?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'wants'.
+- 'What does he want?' Barinov questions the owner's motives for showing up unannounced.
 - 'I do not know.' the hostess delivers a punchy conversational reaction built around the Russian word meaning 'know'.
-- 'He usually calls first.' Here Chef Barinov anchors the line on the word meaning 'usually' and builds the thought around 'first' and 'is calling'.
-- 'He seems very excited.' Notice the self-directed ending on the verb for 'it seems', which directs the action back onto the subject. Then Chef Viktor responds.
-- 'Okay, I am coming.' Chef Barinov expresses this naturally by combining the word for 'good' with 'going'.
-- 'Bring him some coffee.' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'a bit' and 'of coffee'.
+- 'He usually calls first.' Barinov points out this breaks Nagiyev's usual habit of calling ahead.
+- 'He seems very excited.' Hostess notes that the owner appears quite worked up today.
+- 'Okay, I am coming.' Barinov resigns himself to the meeting and says he will go.
+- 'Bring him some coffee.' Barinov barks an order for coffee to placate the boss.

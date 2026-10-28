@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = 'This scene is set in the kitchen of Claude Monet from the second episode. Chef Viktor Barinov discovers that his favorite knife has disappeared, and he halts all work until someone finds it. Listen to the Russian story first, and then we will review the phrases together.'
 OPENER = "Let's examine the chef's furious search line by line."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our fourth scene. When you watch the second episode of Kukhnya, listen for the chef shouting about his missing knife and declaring that nobody goes home until it is found. See you next time!'
 CLOSING = ('nastya', 'До встречи!')
 STORY = [
@@ -32,19 +32,19 @@ STORY = [
     ('barinov', 'А ты знаешь, что это за нож?', 'And do you know what kind of knife this is?', [(93, 'А ты знаешь, что это за нож')], ''),
 ]
 WALK = [
-    (0, None, "'And where is my knife?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (1, None, "'Who took my knife?' He demands to know who took it, using the past-tense verb for 'took'."),
-    (2, None, "'Chef, I didn' t take it.' The '-a' ending on the past-tense verb for 'took' shows that the subject is matching."),
-    (3, 'Повторяю.', "'I repeat.' A single verb in the first person present showing that his patience is gone."),
-    (1, None, "'Who took my knife?' Chef Barinov uses the action verb meaning 'took' to focus on the single completed result, pairing it with 'knife'."),
-    (4, None, "'I don' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'Nobody will go home from here.' A sweeping threat using a double negative, literally 'nobody from here home will not go'."),
-    (6, None, "'Until you find the knife.' Chef Barinov uses the action verb meaning 'find' to focus on the single completed result, pairing it with 'knife'."),
-    (7, None, "'Understood, chef.' Russian omits the present-tense verb 'to be' here, linking 'understood' directly with 'chef', combining 'understood' with 'chef'."),
-    (8, None, "'I will not cook anything.' The chef goes on strike, refusing to prepare food without his favorite tool."),
-    (9, None, "'Right, everyone, look for the knife.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (10, None, "'Quick!' A one-word command urging everyone to move lively."),
-    (11, None, "'What is the problem?' Nastya asks casually, not yet grasping the gravity of the situation."),
-    (12, None, "'We will buy the same knife.' Nastya suggests a simple solution, offering to purchase a replacement."),
-    (13, None, "'And do you know what kind of knife this is?' The chef responds with disbelief that she thinks his prized blade can simply be bought in a store. Alright, let's hear the whole conversation once again. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'And where is my knife?' Chef Barinov suddenly notices his favorite tool is missing from its spot."),
+    (1, None, "'Who took my knife?' He angrily questions the entire kitchen about the theft."),
+    (2, None, "'Chef, I didn't take it.' Nastya quickly denies any involvement in the disappearance."),
+    (3, None, "'I repeat.' Chef Barinov slowly grinds out a warning that he is losing patience."),
+    (4, None, "'Who took my knife?' He shouts the question again to the terrified room."),
+    (5, None, "'I don' Nastya nervously maintains her total ignorance of the situation."),
+    (6, None, "'Nobody will go home from here.' Chef Barinov dramatically holds the entire staff hostage."),
+    (7, None, "'Until you find the knife.' He sets an impossible condition for anyone leaving work today."),
+    (8, None, "'Understood, chef.' Nastya meekly accepts the dictator's outrageous decree."),
+    (9, None, "'I will not cook anything.' Chef Barinov completely halts all food production in protest."),
+    (10, None, "'Right, everyone, look for the knife.' He orders every single person to start hunting for his property."),
+    (11, None, "'Quick!' Chef Barinov barks a short command to get them moving instantly."),
+    (12, None, "'What is the problem?' Nastya remains utterly confused about why this is such a catastrophe."),
+    (13, None, "'We will buy the same knife.' She naively assumes a replacement can be easily purchased."),
+    (14, None, "'And do you know what kind of knife this is?' Chef Barinov stares at her in disbelief at her profound ignorance."),
 ]

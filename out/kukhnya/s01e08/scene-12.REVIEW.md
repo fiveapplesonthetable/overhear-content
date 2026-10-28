@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, what are you doing on the desserts right now?' Elena checks in on the pastry chef's preparation.
-- 'What business is it of yours regarding my desserts?' Louis defensively bristles at the temporary chef's intrusion.
-- 'You have such a warm and familiar accent.' Elena disarms him by complimenting his regional cadence.
-- 'Yes, I came here from France itself.' Louis uses the action verb meaning 'came' to focus on the single completed result, pairing it with 'here' and 'the very'.
-- 'It is Provence, am I absolutely right?' Elena guesses his exact homeland with keen accuracy.
-- 'Yes, madame, you guessed very subtly!' Louis is astonished by her sophisticated ear.
-- 'I simply adore wonderful Saint-Paul-de-Vence!' Elena names the picturesque village in southeastern France.
-- 'Incredible, my whole family lives right there!' Louis excitedly confirms that his relatives reside in the town.
-- 'And what desserts they serve at La Colombe d'Or!' Or!' Elena brings up the world-famous historic hotel and restaurant.
-- 'Oh, madame, that is my most favorite place!' Louis melts with nostalgic joy at the mention.
-- 'There is a magnificent view and completely magical atmosphere.' Elena describes the scenic terrace overlooking the hills.
-- 'Thank you, I felt as if I briefly returned home!' Louis thanks her for reviving sweet memories of his homeland.
+- 'Louis, what are you doing on the desserts right now?' Elena approaches the pastry station to inspect the ongoing prep work.
+- 'What business is it of yours regarding my desserts?' Louis snaps at her, protective of his delicate desserts and annoyed by her presence.
+- 'You have such a warm and familiar accent.' She ignores his hostility and focuses on the distinct lilt in his voice.
+- 'Yes, I came here from France itself.' Louis proudly confirms his authentic French origins.
+- 'It is Provence, am I absolutely right?' Elena pinpoints the exact region, showing off her deep culinary knowledge.
+- 'Yes, madame, you guessed very subtly!' Louis is genuinely impressed by her accurate geographical guess.
+- 'I simply adore wonderful Saint-Paul-de-Vence!' She mentions a specific, picturesque village to build an immediate rapport.
+- 'Incredible, my whole family lives right there!' Louis lights up, thrilled to meet someone who knows his hometown.
+- 'And what desserts they serve at La Colombe d'Or!' Elena casually name-drops a legendary local restaurant to win him over.
+- 'Oh, madame, that is my most favorite place!' Louis is completely charmed, confirming it is his favorite spot in the world.
+- 'There is a magnificent view and completely magical atmosphere.' She vividly describes the beautiful setting, proving she has actually been there.
+- 'Thank you, I felt as if I briefly returned home!' Louis sincerely thanks her for giving him a brief, comforting taste of home.

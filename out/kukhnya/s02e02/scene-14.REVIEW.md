@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Enjoy your meal.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'pleasant' straight to 'appetite'.
-- 'What's going on with the chef?' Sasha uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'as a cook'.
-- 'Let' s talk after work.' Kristina uses the action verb meaning 'we'll have a talk' to focus on the single completed result, pairing it with 'of work'.
-- 'And what happened?' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'happened'.
-- 'I am going to the doctor.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you pregnant?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'pregnant'.
-- 'Are you crazy?' Notice how the verb meaning 'went off' takes the matching past-tense ending '-a' here.
-- 'It's just a rash.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'rash', combining 'just' with 'rash'.
-- 'Okay, I got it.' Sasha puts the word for 'good' together with 'understood' in a crisp, natural spoken turn of phrase.
-- 'Order me some rolls.' Kristina uses a direct command command form of the verb meaning 'order'.
-- 'And green tea?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'tea'. Then Kristina responds.
-- 'Yes, please.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'yes' straight to 'please'.
+- 'Enjoy your meal.' Sasha sets a plate down for a guest and wishes them a good meal.
+- 'What's going on with the chef?' Joining her friend Kristina, Sasha asks how things are going with Chef Barinov.
+- 'Let's talk after work.' Kristina puts off the kitchen gossip and says they will talk after the shift.
+- 'And what happened?' Noticing Kristina looks uncomfortable, Sasha asks what is wrong.
+- 'I am going to the doctor.' Kristina admits that she is heading to see a doctor.
+- 'Are you pregnant?' Jumping to conclusions, Sasha gasps and asks if Kristina is pregnant.
+- 'Are you crazy?' Kristina scoffs and asks if Sasha has lost her mind.
+- 'It's just a rash.' She explains that she only has a strange skin rash after eating all that sushi.
+- 'Okay, I got it.' Relieved, Sasha nods that she understands.
+- 'Order me some rolls.' Still craving Japanese food, Kristina tells Sasha to order her another plate of rolls.
+- 'And green tea?' Sasha asks if she wants green tea to go with them. Then Kristina responds.
+- 'Yes, please.' Kristina says yes, please.

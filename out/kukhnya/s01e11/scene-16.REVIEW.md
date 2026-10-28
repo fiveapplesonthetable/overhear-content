@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did this girl run so quickly?' Chef Barinov puts the word for 'where' together with 'so' and 'quickly' in a crisp, natural spoken turn of phrase.
-- 'She just ran straight to the restroom.' Here Vika anchors the line on the word meaning 'now' and builds the thought around 'ran' and 'straight'.
-- 'Did she suddenly feel ill in the dining room?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'suddenly', pairing it with 'became' and 'ill'.
-- 'Yes, she was just feeling very nauseous.' Vika expresses this naturally by combining the word for 'strongly' with 'was nauseous'.
-- 'Could she really have gotten poisoned by our food?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'got poisoned', followed by 'food'.
-- 'We do not know the exact reason yet.' Here Vika anchors the line on the word meaning 'for now' and builds the thought around 'know' and 'exact'.
-- 'In the kitchen all products are always fresh.' Russian omits the present-tense verb 'to be' here, linking 'kitchen' directly with 'products', pairing it with 'always' and 'fresh'.
-- 'But the guest felt ill after lunch.' Vika expresses this naturally by combining the word for 'guest' with 'became' and 'ill'.
-- 'What if this is a secret restaurant critic?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'suddenly', pairing it with 'secret' and 'critic'.
-- 'Then our restaurant has big problems.' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'restaurant', pairing it with 'big' and 'problems'.
-- 'We must urgently check everything in the kitchen.' The phrasing opens with 'it is necessary' before bringing in 'urgently' and 'to check' to make the point clear.
-- 'I will go and find out her condition.' Vika uses the action verb meaning 'will go' to focus on the single completed result, pairing it with 'will find out' and 'condition'.
-- 'I hope everything ends well for us.' Chef Barinov chooses the action verb meaning 'I hope' for the ongoing action, followed by 'will end' and 'well'.
+- 'Where did this girl run so quickly?' Barinov notices the guest rushing off. He wonders where she went in such a hurry.
+- 'She just ran straight to the restroom.' Vika explains the woman's destination. The guest hurried directly to the bathroom.
+- 'Did she suddenly feel ill in the dining room?' He gets worried about her health. The chef asks if she suddenly felt sick right there at the table.
+- 'Yes, she was just feeling very nauseous.' She confirms the bad news. The poor woman was clearly feeling sick to her stomach.
+- 'Could she really have gotten poisoned by our food?' Barinov jumps to a terrible conclusion. He fears that his cooking might have given her food poisoning.
+- 'We do not know the exact reason yet.' Vika tries not to panic just yet. She points out that they do not know for sure what caused it.
+- 'In the kitchen all products are always fresh.' He defends his kitchen standards. The boss insists that they only use the freshest ingredients available.
+- 'But the guest felt ill after lunch.' The manager states the obvious timing. The fact remains that the sickness happened right after she ate their food.
+- 'What if this is a secret restaurant critic?' Barinov remembers his biggest fear. He worries again that this sick person might be the reviewer.
+- 'Then our restaurant has big problems.' Vika agrees with his gloomy thought. If the critic got sick, the restaurant is in deep trouble.
+- 'We must urgently check everything in the kitchen.' He decides to do a safety check. The chef wants to inspect all the food to be absolutely sure.
+- 'I will go and find out her condition.' She takes on the social duty. The manager volunteers to go check on the sick woman in the restroom.
+- 'I hope everything ends well for us.' Barinov expresses a desperate wish. He really hopes this terrible situation will not ruin them.

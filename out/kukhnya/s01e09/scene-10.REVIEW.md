@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, is that your girlfriend?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Alisa, behave decently with the guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'First I will check our cooks' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Move faster, the guests have been waiting long for the order.' A brisk command form followed by an explanation of customer delays for the team. Now, let's hear the lively dining room and kitchen dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'Hello, is that your girlfriend?' Despite promising to sit quietly, Alisa walks right up to a guest and asks if the woman with him is his girlfriend.
+- 'Alisa, behave decently with the guests.' Mortified, Vika hurries over and tells Alisa to behave properly around the diners.
+- 'First I will check our cooks' When Barinov arrives, he says he will check on how the cooks are doing first.
+- 'Move faster, the guests have been waiting long for the order.' Stepping into the kitchen, the chef barks at the crew to move faster because the guests are waiting. Now, let's hear the lively dining room and kitchen dialogue once more.

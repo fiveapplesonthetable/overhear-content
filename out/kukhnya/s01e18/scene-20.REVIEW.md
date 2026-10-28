@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, we will have to part ways with you.' Notice the self-directed ending on the verb for 'to break up', which directs the action back onto the subject. Then Senya responds.
-- 'Where are you off to so early?' The question word for 'where to' comes right at the start, followed directly by 'early'.
-- 'We got fired.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'to fire'.
-- 'How fired? You too?' Senya uses the informal everyday 'you' here with 'too', as friends and close colleagues do.
-- 'Yes, we are all leaving.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'are leaving'.
-- 'And what did the chef say?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'chef'.
-- 'The chef did nothing.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'did'.
-- 'We often walk into the abyss.' Fedya expresses this naturally by combining the word for 'often' with 'to step' and 'to disappear'.
-- 'Is this because of overconfidence?' There is no question word here — in Russian, rising intonation on 'overconfidence' is enough to make it a question. And Fedya jumps in.
-- 'Yes, we wanted too much.' Here Fedya anchors the line on the word meaning 'too' and builds the thought around 'a lot' and 'wanted'.
-- 'Here is your payout.' Dmitry uses the polite everyday 'you' alongside 'final pay', keeping a formal or respectful register.
-- 'Only twenty thousand?' Russian omits the present-tense verb 'to be', connecting 'only' directly with 'thousand'.
-- 'The rest will be at the end of the month.' Nagiyev puts the word for 'remaining' together with 'will be' and 'end' in a crisp, natural spoken turn of phrase.
+- 'Guys, we will have to part ways with you.' Nagiyev gathers everyone to deliver the heavy news that they are all being let go.
+- 'Where are you off to so early?' Senya asks where his colleague is heading, seemingly unaware of the bad news.
+- 'We got fired.' Fedya drops the bomb that they just lost their jobs.
+- 'How fired? You too?' Senya is absolutely shocked, asking if his friend is included in the cut.
+- 'Yes, we are all leaving.' Fedya confirms the grim reality that the entire team has been axed.
+- 'And what did the chef say?' Senya wants to know how their fearless leader reacted to this mess.
+- 'The chef did nothing.' Fedya bitterly reveals that the boss stood by and did absolutely zero to stop it.
+- 'We often walk into the abyss.' He gets philosophical, comparing their situation to falling into a deep dark hole.
+- 'Is this because of overconfidence?' Senya wonders aloud if their own arrogance led to this disaster.
+- 'Yes, we wanted too much.' Fedya agrees, admitting they probably pushed their luck way too far.
+- 'Here is your payout.' Nagiyev hands over the final envelopes, keeping it strictly business.
+- 'Only twenty thousand?' Senya is completely disappointed by the tiny amount of cash inside.
+- 'The rest will be at the end of the month.' Nagiyev promises the rest of the money will arrive eventually.

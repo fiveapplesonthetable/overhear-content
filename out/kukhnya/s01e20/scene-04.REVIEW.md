@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi. I wanted to find out about the gift.' The verb for 'wanted' is in the matching past tense, marked by that 'l' sound at the end.
-- 'Did you like this beautiful ring?' Max turns a statement into a question purely through rising intonation on the word meaning 'pleased', pairing it with 'beautiful' and 'ring'.
-- 'Yes, it is very beautiful.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'beautiful', combining 'very much' with 'beautiful'.
+- 'Hi. I wanted to find out about the gift.' Max starts the conversation with a clear purpose.
+- 'Did you like this beautiful ring?' Max checks if she liked the item in the picture.
+- 'Yes, it is very beautiful.' Vika enthusiastically confirms her approval.
 - 'And do you know how much it costs?' The question opens with the everyday word for 'how much' and builds toward 'is parked'.
-- 'You consider this normal for a gift?' Max turns a statement into a question purely through rising intonation on the word meaning 'to count', pairing it with 'fine' and 'gift'.
-- 'Of course. Tanya was choosing a gift for herself.' Here Vika anchors the line on the word meaning 'of course' and builds the thought around 'choose' and 'gift'.
-- 'She simply sent me a photograph.' The phrasing opens with 'just' before bringing in 'to send' and 'a photo' to make the point clear.
-- 'But I wanted to gift you a ring myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She undercut your gift?' Vika turns a statement into a question purely through rising intonation on the word meaning 'cut off', followed by 'gift'.
-- 'I will tell her to choose something else.' Vika uses the action verb meaning 'I'll tell' to focus on the single completed result, pairing it with 'to choose' and 'another'.
-- 'And you will gift me this ring.' Vika uses the action verb meaning 'to give' to focus on the single completed result, pairing it with 'ring'.
-- 'Why then? She already bought it.' Max expresses this naturally by combining the word for 'what for' with 'already' and 'bought'.
-- 'No, she was simply asking for advice.' Vika puts the word for 'just' together with 'asked' and 'council' in a crisp, natural spoken turn of phrase.
-- 'I will call her now.' Here Vika anchors the line on the word meaning 'now' and builds the thought around 'will call'.
+- 'You consider this normal for a gift?' Max questions the appropriateness of such an item.
+- 'Of course. Tanya was choosing a gift for herself.' Vika explains that her friend was shopping for herself.
+- 'She simply sent me a photograph.' Vika clarifies it was just a casual message.
+- 'But I wanted to gift you a ring myself.' Max reveals his original intention to buy it for her.
+- 'She undercut your gift?' Vika realizes the conflict of interest.
+- 'I will tell her to choose something else.' Vika offers to resolve the situation with her friend.
+- 'And you will gift me this ring.' Vika smoothly transitions to expecting it from him instead.
+- 'Why then? She already bought it.' Max points out the logistical problem with her plan.
+- 'No, she was simply asking for advice.' Vika insists it was merely a consultation.
+- 'I will call her now.' Vika takes immediate action to secure her present.

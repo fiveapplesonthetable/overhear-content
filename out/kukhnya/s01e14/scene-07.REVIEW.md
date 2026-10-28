@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gerard Depardieu finishes my dish and says.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did he really like everything so much?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'strongly', followed by 'pleased'.
-- 'He said that it is simply incredibly tasty!' Max uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'just' and 'incredibly'.
-- 'What, did he say it to you exactly like that?' Sasha expresses this naturally by combining the word for 'right' with 'said'.
-- 'Yes, exactly like that, only in the French language.' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'French', followed by 'language'.
-- 'What a talented cook you are, Max!' Russian omits the present-tense verb 'to be' here, linking 'talented' directly with 'chef' to make the point directly in conversation.
-- 'Even a mother does not cook such tasty food!' The phrasing opens with 'such' before bringing in 'tasty' and 'am driving' to make the point clear.
-- 'Are you now good friends with him?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'now', pairing it with 'good' and 'friends'.
-- 'Since then Gerard and I are friends.' Max puts the word for 'times' together with 'be friends' in a crisp, natural spoken turn of phrase.
-- 'Tell us something else interesting, please!' Sasha leads with the direct command form meaning 'tell', pairing it with 'more' and 'interesting'.
-- 'With great pleasure, lovely ladies.' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'pleasure', pairing it with 'sweet' and 'lady'.
-- 'Once, when I worked in Paris...' Max expresses this naturally by combining the word for 'once' with 'when' and 'worked'.
-- 'What a wonderful and incredibly beautiful city!' Russian omits the present-tense verb 'to be' here, linking 'wonderful' directly with 'incredibly', pairing it with 'beautiful' and 'town'.
-- 'Oh, I beg your pardon, it is time for me to run.' Here Max anchors the line on the word meaning 'oh' and builds the thought around 'beg' and 'forgiveness'.
+- 'Gerard Depardieu finishes my dish and says.' Max tells a wildly exaggerated story. He claims a famous actor praised his cooking.
+- 'Did he really like everything so much?' Sasha is completely enthralled. She asks if the actor really liked it that much.
+- 'He said that it is simply incredibly tasty!' Max continues to embellish the tale. He claims the actor found it unbelievably delicious.
+- 'What, did he say it to you exactly like that?' Sasha wants to know the exact details. She asks if the actor said those exact words.
+- 'Yes, exactly like that, only in the French language.' Max adds a touch of international flair. He confidently claims the praise was spoken in French.
+- 'What a talented cook you are, Max!' Sasha praises Max excessively. She is totally convinced of his amazing talent.
+- 'Even a mother does not cook such tasty food!' Max goes even further with his bragging. He claims his food is better than a mother's cooking.
+- 'Are you now good friends with him?' Sasha is curious about his famous connections. She asks if he is still friends with the actor.
+- 'Since then Gerard and I are friends.' Max confirms the fake friendship. He smoothly claims they have been close ever since.
+- 'Tell us something else interesting, please!' Sasha begs for more stories. She asks him to share another interesting tale.
+- 'With great pleasure, lovely ladies.' Max agrees with fake humility. He politely accepts the request from the ladies.
+- 'Once, when I worked in Paris...' He begins his next fabricated adventure. Max sets the scene in Paris.
+- 'What a wonderful and incredibly beautiful city!' Sasha swoons over the location. she comments on how beautiful Paris is.
+- 'Oh, I beg your pardon, it is time for me to run.' Max suddenly realizes he needs to leave. He quickly excuses himself and rushes off.

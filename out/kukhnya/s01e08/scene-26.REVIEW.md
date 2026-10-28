@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Chef.' — a simple respectful greeting to an employer.
-- 'Here is where you are hiding!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Ainura, is that you?' — a short question expressing recognition and surprise.
-- 'Do not make noise so loudly, please.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I looked for you everywhere for a long time.' — past tense verb followed by time and place adverbs.
-- 'Sit down next to me, want a drink with me?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Oh, Chef, I am at work after all!' — an emphatic reminder of professional duties during a shift.
-- 'I still need to wash the floors.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Drop the work, rest a little.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are sitting alone in the dark.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is quiet here and nobody bothers me.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'But you cannot stay here.' — a modal matching form construction expressing prohibition.
+- 'Hello, Chef.' Ainura offers a simple, respectful greeting to her employer.
+- 'Here is where you are hiding!' Ainura finally discovers the boss in his dark hiding spot.
+- 'Ainura, is that you?' Barinov asks to confirm who just walked into the room.
+- 'Do not make noise so loudly, please.' Barinov begs the cleaner to keep her voice down.
+- 'I looked for you everywhere for a long time.' Ainura explains she has been searching the entire building.
+- 'Sit down next to me, want a drink with me?' Barinov invites her to sit and share a secret drink.
+- 'Oh, Chef, I am at work after all!' Ainura rejects the offer, reminding him she is on shift.
+- 'I still need to wash the floors.' Ainura points out she still has cleaning duties to finish.
+- 'Drop the work, rest a little.' Barinov tells her to abandon the mop and relax.
+- 'You are sitting alone in the dark.' Ainura observes how sad he looks sitting all by himself.
+- 'It is quiet here and nobody bothers me.' Barinov claims he prefers the silence of the basement.
+- 'But you cannot stay here.' Ainura insists that this is no place for a head cook.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, pour me some more wine.' The relaxed guest enjoys his lavish meal at the table.
-- 'What an incredibly delicious black caviar you have!' , combining 'incredibly' with 'tasty' and 'black'.
-- 'Of course, this is the best caviar straight from Astrakhan.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'best', combining 'of course' with 'best' and 'caviar'.
+- 'What an incredibly delicious black caviar you have!' To Viktor's relief, the VIP guest raves about how delicious the black caviar is.
+- 'Of course, this is the best caviar straight from Astrakhan.' Playing along smoothly, Barinov boasts that the caviar came straight from Astrakhan.
 - 'We fly it here on special Boeings.' The chef adds ridiculous claims about luxury transport.
 - 'Well, in taste everything is simply excellent!' The guest remains totally unaware of the deception.
-- 'In our restaurant it cannot be any other way.' Here Chef Barinov anchors the line on the word meaning 'restaurant' and builds the thought around 'otherwise' and 'to be'.
-- 'Waiter, what is the score in the match now?' Russian omits the present-tense verb 'to be' here, linking 'waiter' directly with 'now', combining 'waiter' with 'now' and 'account'.
+- 'In our restaurant it cannot be any other way.' When the guest praises the flavor, Viktor replies proudly that Claude Monet accepts nothing less.
+- 'Waiter, what is the score in the match now?' Turning anxiously to a passing waiter, Viktor whispers to ask the current score of the football match.
 - 'The score there is three-three now, our guys tied it up!' the guest expresses this naturally by combining the word for 'there' with 'now' and 'account'.
 - 'They had not tied it up like that for twenty years in a row.' the guest puts the word for 'twenty' together with 'year' and 'in a row' in a crisp, natural spoken turn of phrase.
 - 'And today they suddenly scored three quick goals!' Here the guest anchors the line on the word meaning 'today' and builds the thought around 'suddenly' and 'to score'.
-- 'Did Spartak really let victory slip away in the end again?!' The phrasing opens with 'again' before bringing in 'to miss' and 'victory' to make the point clear.
+- 'Did Spartak really let victory slip away in the end again?!' Hearing that Spartak just scored three goals to tie the game at three-all — ruining his huge bet on CSKA — Viktor gasps in disbelief.
 - 'Football today turned out very nervous and strange.' the guest expresses this naturally by combining the word for 'football' with 'today' and 'to turn out'.
 - 'Indeed, they play like real slackers!' Barinov vents his deep sports frustration under his breath.

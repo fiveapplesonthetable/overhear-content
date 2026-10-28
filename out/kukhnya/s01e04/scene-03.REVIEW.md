@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a terrible rush in the kitchen today!' Barinov barks about kitchen urgency with an exclamatory phrase.
-- 'Chef, I did not hear your shouts.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What are you doing here in the dark?' Barinov confronts him sharply in the dim backroom.
-- 'I simply lay down for five minutes.' Max makes an innocent excuse using a past action verb.
-- 'Oguzok, are you sleeping right on the crates?!' Barinov expresses outrage using an emphatic word and matching form.
-- 'Forgive me, chef, I was very tired.' Max asks for pardon with an command form and past verb.
-- 'You have a daytime work shift going on!' The chef reminds him of his duties with a present active verb.
-- 'I could not fall asleep all night.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Your nights do not concern me at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Probably I have difficult acclimatization.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'What on earth kind of acclimatization?!' Barinov explodes with an idiomatic exclamation of disbelief.
-- 'Now get up immediately and go to work!' The head chef drives Max back into action with paired imperatives.
-- 'Already getting up, chef, understood everything.' Max quickly complies with a present active verb and past agreement.
+- 'There is a terrible rush in the kitchen today!' Barinov says there is a terrible rush in the kitchen today.
+- 'Chef, I did not hear your shouts.' Max claims he did not hear his shouts.
+- 'What are you doing here in the dark?' The chef asks what he is doing here in the dark.
+- 'I simply lay down for five minutes.' He explains he simply lay down for five minutes.
+- 'Oguzok, are you sleeping right on the crates?!' Barinov asks Oguzok if he is sleeping right on the crates.
+- 'Forgive me, chef, I was very tired.' Max apologizes to the chef and says he was very tired.
+- 'You have a daytime work shift going on!' He reminds him he has a daytime work shift going on.
+- 'I could not fall asleep all night.' Max says he could not fall asleep all night.
+- 'Your nights do not concern me at all.' Barinov says his nights do not concern him at all.
+- 'Probably I have difficult acclimatization.' He guesses he is having difficult acclimatization.
+- 'What on earth kind of acclimatization?!' The chef asks what on earth kind of acclimatization he means.
+- 'Now get up immediately and go to work!' Barinov orders him to get up immediately and go to work.
+- 'Already getting up, chef, understood everything.' Max says he is already getting up and understands everything.

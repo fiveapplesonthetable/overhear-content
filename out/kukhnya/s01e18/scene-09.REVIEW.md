@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Does he bring it for free?' Rising intonation turns this statement into a question.
 - 'Yes, absolutely free.' Max confirms that the first supply costs nothing.
 - 'And what do we do with it?' Kostya asks how that turns into rent money.
-- 'We swap the bottles and pay for the apartment.' Max reveals the core of his risky scheme.
+- 'We swap the bottles and pay for the apartment.' Max reveals the core of his risky scheme. Now let's listen to the conversation again without interruption.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Get in, I will give you a lift home.' Vika uses the informal everyday 'you' here with 'at home', as friends and close colleagues do.
-- 'Thank you, I am very tired today.' Here Max anchors the line on the word meaning 'thank you' and builds the thought around 'very much' and 'am tired'.
-- 'Well then, how are your affairs?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'things'.
-- 'Normally, everything is fine.' Russian omits the present-tense verb 'to be' here, linking 'fine' directly with 'good', combining 'fine' with 'good'.
-- 'Did you prepare new dishes?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'of dish'.
-- 'Yes, I prepared twelve kinds of dishes.' Max uses the action verb meaning 'cooked' to focus on the single completed result, pairing it with 'twelve' and 'dishes'.
-- 'Sounds very tasty and interesting.' Vika chooses the action verb meaning 'sounds' for the ongoing action, followed by 'very much' and 'it's tasty'.
-- 'I tried very hard in the kitchen.' Max expresses this naturally by combining the word for 'very much' with 'tried' and 'kitchen'.
-- 'Do you like your new job?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'job'.
-- 'Yes, I like everything very much.' Notice the self-directed ending on the verb for 'is pleasing', which directs the action back onto the subject.
-- 'You learn quickly, well done.' The phrasing opens with 'quickly' before bringing in 'to study' and 'well done' to make the point clear.
-- 'Thank you, I will try further.' the self-directed ending on the verb for 'to try' turns the action back onto the subject.
+- 'Get in, I will give you a lift home.' Offering a lift after work, Vika tells Max to hop into her car.
+- 'Thank you, I am very tired today.' Max thanks her and admits the shift left him completely exhausted.
+- 'Well then, how are your affairs?' As they drive, Vika asks casually how things have been going for him.
+- 'Normally, everything is fine.' Max replies politely that everything is fine.
+- 'Did you prepare new dishes?' She asks if he got to cook any new dishes today.
+- 'Yes, I prepared twelve kinds of dishes.' Max brags a little that he prepped twelve different dishes during service.
+- 'Sounds very tasty and interesting.' Vika smiles and says that sounds both delicious and interesting.
+- 'I tried very hard in the kitchen.' Max says he really put his best effort into the kitchen today.
+- 'Do you like your new job?' Vika asks if he is enjoying his work at the restaurant.
+- 'Yes, I like everything very much.' Max answers warmly that he loves everything about working there.
+- 'You learn quickly, well done.' Vika praises him for learning fast.
+- 'Thank you, I will try further.' Cheered up by her kind words, Max promises to keep working hard.

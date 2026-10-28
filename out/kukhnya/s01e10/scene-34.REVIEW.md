@@ -25,11 +25,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, come over here for a second.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I think we did not finish dyeing it.' — impersonal verb with a negated prefix verb.
-- 'Come on, it is completely black!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What if Chef sees light caviar eggs?' — hypothetical conjunction followed by a future verb.
-- 'Nobody will notice anything suspicious.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All right, all right, you convinced me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then call the waiter, it is time to serve the dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Come on, let us bring the caviar into the hall.' — hortative word with a present verb of carrying. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Senya, come over here for a second.' Before sending the caviar out, Fedya calls Senya over for one last check.
+- 'I think we did not finish dyeing it.' Squinting at the bowl, Fedya worries that they missed a few yellow spots.
+- 'Come on, it is completely black!' Senya waves the concern away, insisting the roe is pitch black.
+- 'What if Chef sees light caviar eggs?' Fedya asks nervously what will happen if the chef spots any pale grains.
+- 'Nobody will notice anything suspicious.' Senya assures him that nobody is going to notice anything odd.
+- 'All right, all right, you convinced me.' Reluctantly convinced, Fedya gives in.
+- 'Then call the waiter, it is time to serve the dish.' Senya tells him to call the waiter over because it is time to serve the VIP table.
+- 'Come on, let us bring the caviar into the hall.' With a deep breath, they send the dyed caviar out into the dining room. Now listen to the full conversation once more.

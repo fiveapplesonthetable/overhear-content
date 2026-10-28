@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are you going?' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'where to'.
-- 'I have to go.' Max delivers a punchy one-word reaction built around the Russian word meaning 'it's time'.
-- 'Stay with me for one more minute.' Nastya uses the action verb meaning 'to remain' to focus on the single completed result, pairing it with 'more' and 'one'.
-- 'I cannot, I am rushing very much.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you again have many important things?' Nastya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'again' and 'very much'.
-- 'I need to stop by home, take a shower, change.' Here Max anchors the line on the word meaning 'it is necessary' and builds the thought around 'drop by' and 'home'.
-- 'Listen, are you not tired of this?' Nastya leads with the direct command form meaning 'listen', followed by 'has got boring'.
-- 'What exactly should have strongly tired me?' Max expresses this naturally by combining the word for 'ought' with 'was' and 'strongly'.
-- 'Sleeping here, but taking a shower far from here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, it takes a lot of my time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then why do you do this every day?' The phrasing opens with 'back then' before bringing in 'what for' and 'are you doing' to make the point clear.
-- 'Because all my things lie there.' Max expresses this naturally by combining the word for 'because' with 'there' and 'are lying'.
-- 'Maybe you should move in with me?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'be' and 'to move'.
+- 'Where are you going?' Waking up confused, she asks her boyfriend about his sudden morning departure.
+- 'I have to go.' Max replies with a quick, urgent phrase to indicate he is in a hurry to leave.
+- 'Stay with me for one more minute.' Hoping for a little romance, she gently asks him to linger just a bit longer in bed.
+- 'I cannot, I am rushing very much.' Turning down her request, he stresses that he is completely out of time.
+- 'Do you again have many important things?' Feeling slightly neglected, she sarcastically questions if his schedule is really that busy.
+- 'I need to stop by home, take a shower, change.' Listing his morning tasks, he explains all the steps he has to complete before work.
+- 'Listen, are you not tired of this?' Asking a pointed question, Nastya wonders if he is exhausted by this inconvenient routine.
+- 'What exactly should have strongly tired me?' Acting completely oblivious, he asks her to clarify what part of the situation is supposed to be annoying.
+- 'Sleeping here, but taking a shower far from here.' She lays out the ridiculous logistics of splitting his life between two different apartments.
+- 'Yes, it takes a lot of my time.' Agreeing with her assessment, he admits that the commute is draining his schedule.
+- 'Then why do you do this every day?' Puzzled by his choices, she challenges him to explain why he keeps putting himself through it.
+- 'Because all my things lie there.' Giving a practical answer, he points out that his clothes and belongings are at his own place.
+- 'Maybe you should move in with me?' Seizing the moment, she casually proposes a major relationship step as a practical solution.

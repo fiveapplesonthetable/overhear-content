@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I have neither a husband nor a boyfriend.' Repeating 'neither... nor...' with 'no' makes a firm negative.
 - 'Then I will look forward to our next meeting.' Delighted, Igor promises to return soon.
 - 'Vika, I did not understand, what was that?' In this moment, Max steps out from behind the doorway after overhearing everything.
-- 'Why, are you jealous of me?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'Why, are you jealous of me?' Vika turns the tables on him, amused that he is showing clear signs of jealousy.
 - 'No, why did you not mention me?' In response, Max denies being jealous while asking why she said she was single.
 - 'Because he did not ask about you.' Victoria gives a cool, literal answer.
 - 'After all, you and I have an open relationship.' She reminds Max of the casual arrangement he himself agreed to.

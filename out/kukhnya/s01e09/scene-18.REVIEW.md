@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, you are handling Alisa great.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, she was simply drawing on my face!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, let her stay here with you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Just remember the main and strict rule.' Chef Barinov leads with the direct command form meaning 'to remember', pairing it with 'main' and 'strict'.
-- 'Under no circumstances can she have whiskey!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, I remember your strict words perfectly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I prepared a magnificent cake for the important banquet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The guests paid huge money for it!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They gave a whole hundred thousand rubles!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They know that you are a famous pastry chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'French desserts always cost very much.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The main thing is that all guests are satisfied.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Chef, our banquet will go at the highest level!' Direct address title with everyday word, matching form noun, future verb, and everyday matching form adjective-noun phrase.
+- 'Louis, you are handling Alisa great.' Finding Alisa happily occupied in the kitchen, Barinov praises Louis for handling her so well.
+- 'Chef, she was simply drawing on my face!' With painted cheeks covered in frosting, Louis explains that she was just drawing on his face.
+- 'Fine, let her stay here with you.' Relieved that she is staying out of trouble, Viktor lets her remain at Louis's station.
+- 'Just remember the main and strict rule.' However, the chef tells Louis to remember one strict rule.
+- 'Under no circumstances can she have whiskey!' Joking darkly about his own habits, Viktor warns that under no circumstances is the child allowed whiskey.
+- 'Chef, I remember your strict words perfectly.' Louis solemnly assures the chef that he remembers every word of his rules.
+- 'I prepared a magnificent cake for the important banquet.' Turning to his work, Louis shows off the magnificent cake he finished for the banquet.
+- 'The guests paid huge money for it!' Viktor reminds him that the bank clients paid a fortune for this reception.
+- 'They gave a whole hundred thousand rubles!' Louis marvels that the guests paid a full hundred thousand rubles for the order.
+- 'They know that you are a famous pastry chef.' Barinov flatters Louis by saying the clients know he is a renowned French pastry chef.
+- 'French desserts always cost very much.' Louis proudly agrees that genuine French desserts always command a high price.
+- 'The main thing is that all guests are satisfied.' Viktor says the only thing that matters now is keeping every guest happy.
+- 'Chef, our banquet will go at the highest level!' Louis promises that their banquet dessert will be a triumph.

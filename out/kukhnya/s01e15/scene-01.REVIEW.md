@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya moved in with us a week ago.' Max puts the word for 'for a week' together with 'ago' and 'moved' in a crisp, natural spoken turn of phrase.
-- 'Yes, now we live here as three.' Here Kostya anchors the line on the word meaning 'now' and builds the thought around 'live' and 'here'.
-- 'Our life barely changed from that.' The phrasing opens with 'life' before bringing in 'almost' and 'have changed' to make the point clear.
-- 'We still play together just the same.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, hurry up, shoot at them!' Max leads with the direct command form meaning 'let's', pairing it with 'quickly' and 'shoot'.
-- 'I am choosing my new weapon.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They surrounded me from three sides here!' The phrasing opens with 'here' before bringing in 'three' and 'sides' to make the point clear.
-- 'Hold on, I am already running to help!' Kostya leads with the direct command form meaning 'hang in there', pairing it with 'already' and 'I'm running'.
-- 'Great work, this is our victory!' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'job', followed by 'victory'.
-- 'We are a great team in this game.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'team', combining 'excellent' with 'team' and 'game'.
-- 'The main thing is that Nastya does not disturb us.' The phrasing opens with 'important' before bringing in 'disturbed' to make the point clear.
-- 'She is cooking a tasty dinner in the kitchen.' Kostya chooses the action verb meaning 'cooks' for the ongoing action, followed by 'delicious' and 'dinner'.
+- 'Nastya moved in with us a week ago.' Max points out the recent change in their living situation, using a natural turn of phrase to indicate how much time has passed.
+- 'Yes, now we live here as three.' Kostya confirms the new reality of their cramped apartment, emphasizing the number of people sharing the space.
+- 'Our life barely changed from that.' Despite the extra roommate, the speaker notes that their daily routine has remained largely untouched.
+- 'We still play together just the same.' He points out that they are continuing their usual couch activities without any interruption.
+- 'Kostya, hurry up, shoot at them!' Shouting an urgent command, Max urges his friend to act quickly in the video game.
+- 'I am choosing my new weapon.' Caught up in the game menu, he explains why he is momentarily distracted from the action.
+- 'They surrounded me from three sides here!' The gamer panics as his character gets cornered, calling out the direction of the enemy attack.
+- 'Hold on, I am already running to help!' Rushing to the rescue, Kostya shouts a quick encouragement to keep his teammate in the fight.
+- 'Great work, this is our victory!' Celebrating their success, Max triumphantly declares that they have won the match.
+- 'We are a great team in this game.' Pleased with their performance, he compliments their shared skills and coordination.
+- 'The main thing is that Nastya does not disturb us.' Focusing on their priorities, the speaker highlights the importance of being left alone to play.
+- 'She is cooking a tasty dinner in the kitchen.' He casually mentions what their new roommate is doing, showing they are perfectly happy to let her do the chores.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you definitely should not play poker.' Vika puts the word for 'poker' together with 'definitely' and 'to play' in a crisp, natural spoken turn of phrase.
+- 'Max, you definitely should not play poker.' Later that evening, Vika teases Max that with his terrible poker face, he should never play cards.
 - 'You do not know how to bluff calmly at all.' She laughs at his transparent facial expressions.
-- 'What was all this silly deception for anyway?' The phrasing opens with 'at all' before bringing in 'to be' and 'stupid' to make the point clear.
-- 'I just wanted to test your initial reaction.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why were you immediately frightened of adult responsibility?' Vika puts the word for 'why' together with 'at once' and 'to get scared' in a crisp, natural spoken turn of phrase.
-- 'I was not frightened, I was just not ready.' Max uses the action verb meaning 'to get scared' to focus on the single completed result, pairing it with 'to be' and 'ready'.
+- 'What was all this silly deception for anyway?' Still recovering from the scare, Max asks why she put him through that whole pregnancy prank.
+- 'I just wanted to test your initial reaction.' Vika admits she wanted to see his honest reaction after hearing he was hiding from her.
+- 'Why were you immediately frightened of adult responsibility?' She asks why the thought of adult responsibility scared him so badly.
+- 'I was not frightened, I was just not ready.' Max insists he was not scared — just caught completely off guard.
 - 'By the way, people do not joke about such things at all.' Max objects to playful trickery on family topics.
 - 'I already came up with a real beautiful name.' Max surprises her with his earnest consideration.
-- 'Zhenya is the most beautiful name in the world.' Russian omits the present-tense verb 'to be' here, linking 'beautiful' directly with 'peace', combining 'beautiful' with 'peace' and 'name'.
+- 'Zhenya is the most beautiful name in the world.' Showing he really did think about a future baby, Max says 'Zhenya' is the best name in the world.
 - 'It will suit a boy and a girl perfectly.' The young cook defends the versatile name with pride.
-- 'My God, Zhenya is a very strange name!' Russian omits the present-tense verb 'to be' here, linking 'God' directly with 'very', combining 'God' with 'very' and 'strange'.
-- 'Life gives us thousands of different opportunities.' Max expresses this naturally by combining the word for 'life' with 'to give' and 'thousand'.
+- 'My God, Zhenya is a very strange name!' Vika laughs and calls 'Zhenya' a very strange choice.
+- 'Life gives us thousands of different opportunities.' In his closing voiceover, Max reflects on how each day gives us a thousand different chances.
 - 'An opportunity to change and start over.' Max reflects on fresh beginnings and forgiveness.
 - 'Or a chance to discover new talents within oneself.' Max finishes his thoughtful monologue warmly.

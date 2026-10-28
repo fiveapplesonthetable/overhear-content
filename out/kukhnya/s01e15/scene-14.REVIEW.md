@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, close the door, I am already sleeping.' Chef Barinov leads with the direct command form meaning 'shut', pairing it with 'the door' and 'already'.
-- 'Oh, Viktor Petrovich, you are home.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'at home', combining 'oh' with 'at home'.
-- 'Thank god.' Russian omits the present-tense verb 'to be' here, linking 'glory' directly with 'to God', combining 'glory' with 'to God'.
-- 'I was so afraid that you would leave.' Lyova uses the polite everyday 'you' alongside 'to leave', keeping a formal or respectful register.
-- 'I was very wrong.' The verb for 'was' is in the matching past tense, marked by the '-l' ending.
-- 'I should not have kicked you out.' The verb for 'was' is in the matching past tense, marked by the '-l' ending.
-- 'We have known each other for thousands of years.' Russian omits the present-tense verb 'to be' here, linking 'acquainted' directly with 'thousands', combining 'acquainted' with 'thousands' and 'years'.
-- 'Anything can happen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We just need to ask for forgiveness.' Lyova puts the word for 'it is necessary' together with 'just' and 'to ask' in a crisp, natural spoken turn of phrase.
-- 'We need to forget this stupid story.' Here Lyova anchors the line on the word meaning 'it is necessary' and builds the thought around 'forget' and 'foolish'.
-- 'I ask for your forgiveness.' Lyova uses the polite everyday 'you' alongside 'forgiveness', keeping a formal or respectful register.
-- 'Viktor Petrovich, do you hear me?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'hear'.
+- 'Lyova, close the door, I am already sleeping.' Barinov gruffly asks for quiet, issuing a blunt order to shut the door because he is already asleep.
+- 'Oh, Viktor Petrovich, you are home.' Startled, Lyova expresses his surprise by dropping any linking words and connecting "oh" straight to "at home."
+- 'Thank god.' He breathes a sigh of relief, stringing together the words for "glory" and "to God" in a classic expression of gratitude.
+- 'I was so afraid that you would leave.' Admitting his fear, Lyova uses respectful "you" forms, maintaining a formal boundary even in an emotional moment.
+- 'I was very wrong.' Owning up to his mistake, Lyova describes his past error with an action word showing a completed state of being wrong.
+- 'I should not have kicked you out.' Regretting his harshness, Lyova adds a past-time marker to the word for "ought" to show what he failed to do.
+- 'We have known each other for thousands of years.' To show their long history, Lyova casually pairs "acquainted" directly with "thousands of years" without extra linking words.
+- 'Anything can happen.' Offering a philosophical excuse, Lyova uses a common conversational phrase to say that all sorts of things might occur.
+- 'We just need to ask for forgiveness.' Concluding his apology tour, Lyova ties "it is necessary" together with "simply" and "to ask."
+- 'We need to forget this stupid story.' Hoping to move on, Lyova hinges his thought on "it is necessary" and follows up with a plea to forget the foolishness.
+- 'I ask for your forgiveness.' Making it official, Lyova addresses the chef respectfully while asking to be pardoned.
+- 'Viktor Petrovich, do you hear me?' Checking if the sleeping man caught any of that, Lyova turns his sentence into a question just by pitching his voice up on "hear."

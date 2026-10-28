@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, this is just a nightmare!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Kostya' straight to 'horror'.
-- 'Senya got poisoned by our cognac.' Max uses the action verb meaning 'to get poisoned' to focus on the single completed result, pairing it with 'cognac'.
-- 'Oh no, what to do?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'do'.
-- 'Kostya, give me a bottle of cognac.' Chef Barinov leads with the direct command form meaning 'give', pairing it with 'a bottle' and 'cognac'.
-- 'The one that stands on the right.' Chef Barinov chooses the action verb meaning 'is parked' for the ongoing action, followed by 'to the right'.
-- 'This bottle right here?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'a bottle' to make the point directly in conversation.
-- 'No, give me another one. Yes, this one.' Chef Barinov leads with the direct command form meaning 'give', followed by 'the other one'.
-- 'Chef took our cognac!' Max uses the action verb meaning 'takes it back' to focus on the single completed result, pairing it with 'cognac'.
-- 'We need to take this bottle back.' Max puts the word for 'it is necessary' together with 'take' and 'a bottle' in a crisp, natural spoken turn of phrase.
-- 'I can not approach him.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Come on, Kostya, you must.' Max leads with the direct command form meaning 'let's', followed by 'has to'.
-- 'Got it, let's move on.' Max leads with the direct command form meaning 'let's', pairing it with 'clear' and 'next'.
+- 'Kostya, this is just a nightmare!' Max panics completely, describing the situation as an absolute disaster.
+- 'Senya got poisoned by our cognac.' He delivers the terrible news that their fake drink actually made someone sick.
+- 'Oh no, what to do?' Kostya sounds incredibly worried, desperately asking for a quick solution.
+- 'Kostya, give me a bottle of cognac.' Chef Barinov demands a drink, snapping an urgent command at the bartender.
+- 'The one that stands on the right.' He specifically points out the exact one he wants from the shelf.
+- 'This bottle right here?' Kostya tries to double check, hoping he can give him a safe option instead.
+- 'No, give me another one. Yes, this one.' Chef Barinov rejects the offer and firmly points to the exact one he asked for.
+- 'Chef took our cognac!' Max watches in horror as their boss walks away with the dangerous drink.
+- 'We need to take this bottle back.' He realizes they have to fix this immediately before things get worse.
+- 'I can not approach him.' Kostya nervously admits he is too scared to go up and take it away.
+- 'Come on, Kostya, you must.' Max pushes him to act, insisting there is no other choice right now.
+- 'Got it, let's move on.' Realizing the urgency, Max tells him to hurry up and handle the problem.

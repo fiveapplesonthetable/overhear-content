@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you find this box?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You were looking for expensive truffles in the trash.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Please, give them back to us quickly!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'First introduce yourself politely, young man.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My name is Max, and this is Kostya.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Very pleased, and I am Rodion Sergeyevich.' Conversational courtesy formula with intensifying adverb, coordinating conjunction, and formal Russian patronymic name.
-- 'What do you want for these mushrooms?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I need one small friendly favor.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We can pay you a little money.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No, I want a luxurious lunch here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But the guards won' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then find me suitable clean clothes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, let' s go quickly into our locker room.' Agreement formula with first-person inclusive command form of motion, comparative adverb, and matching form directional matching form.
+- 'Where did you find this box?' Frantically interrogating the vagrant, Max demands to know the container's origins.
+- 'You were looking for expensive truffles in the trash.' Astutely, Rodion points out their desperate rummaging through the garbage.
+- 'Please, give them back to us quickly!' Max begs the homeless man to surrender the wildly expensive ingredients.
+- 'First introduce yourself politely, young man.' Demanding proper manners, Rodion refuses to negotiate without an introduction.
+- 'My name is Max, and this is Kostya.' Hastily complying, Max blurts out their names to appease him.
+- 'Very pleased, and I am Rodion Sergeyevich.' Rodion introduces himself with dignified formality and a patronymic.
+- 'What do you want for these mushrooms?' Getting straight to the point, Max tries to establish a ransom price.
+- 'I need one small friendly favor.' Smoothly outlining his terms, Rodion explains his price for returning the cargo.
+- 'We can pay you a little money.' Max offers a standard cash bribe, hoping to resolve it cheaply.
+- 'No, I want a luxurious lunch here.' Rejecting the cash, Rodion insists on a five-star dining experience.
+- 'But the guards won' Max points out the obvious flaw that a homeless man won't get past the door.
+- 'Then find me suitable clean clothes.' Calmly instructing them, Rodion demands a disguise for his grand entrance.
+- 'Alright, let's go quickly into our locker room.' Max relents and leads the strange man inside to raid the staff lockers.

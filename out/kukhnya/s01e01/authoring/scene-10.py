@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = "Arriving at Claude Monet for his job interview, Max steps into the elegant dining hall and speaks with a waitress. Looking across the room, he is horrified to spot Vika—his date from the night before—commanding the floor as the art director. Let's listen to their conversation in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and grammar."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max quickly retreats toward the corridor to avoid being spotted. Next time you watch the episode, listen for the Russian expressions for 'art director' and 'meeting' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Нет, спасибо, я отойду назад.', 'No, thank you, I will step back.', [], ''),
 ]
 WALK = [
-    (1, 'Вы к Дмитрию Владимировичу?', "'Are you here to see Dmitry Vladimirovich?' Sasha asks, using the preposition 'k' with the matching word ending for visiting a person."),
-    (7, None, "'This is Viktoria Sergeyevna, our art director.' Sasha explains, introducing the formal patronymic."),
-    (8, None, "'Oh no, what an unpleasant situation!' Max mutters under his breath in complete shock."),
-    (11, None, "'Would you like to sit at an available table?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'would you like', pairing it with 'to sit down' and 'free'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Are you here to see Dmitry Vladimirovich?' Sasha asks a polite question to figure out if the visitor has a scheduled appointment."),
+    (1, None, "'This is Viktoria Sergeyevna, our art director.' Pointing out her manager, the waitress formally introduces the woman running the restaurant floor."),
+    (2, None, "'Oh no, what an unpleasant situation!' Max quietly panics upon realizing that his one-night stand holds a high-ranking position here."),
+    (3, None, "'Would you like to sit at an available table?' Offering standard hospitality, the staff member invites the distressed man to take a seat."),
 ]

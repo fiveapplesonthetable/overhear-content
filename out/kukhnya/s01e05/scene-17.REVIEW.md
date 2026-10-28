@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, wait, I cannot do this.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What happened, Nastya, what is wrong?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I wanted to revenge on Maxim through you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max quite deserves a good lesson, you know.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I cannot accept such a sacrifice.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'And what are we to do now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let us simply tell everyone about us.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And in reality there is nothing?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, this will be only our secret.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, let Max be slightly jealous.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, thank you, you are simply the best!' Exclamation of gratitude with a superlative adjective.
-- 'For you I am ready for anything.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My order is ready, I will run to work!' everyday matching form with a verb of motion.
+- 'Kostya, wait, I cannot do this.' Nastya suddenly halts the plan, overcome with guilt.
+- 'What happened, Nastya, what is wrong?' Kostya is alarmed by her sudden change of heart.
+- 'I wanted to revenge on Maxim through you.' Nastya confesses her ulterior motive for the fake romance.
+- 'Max quite deserves a good lesson, you know.' Kostya surprisingly agrees that his friend needs a reality check.
+- 'I cannot accept such a sacrifice.' Nastya feels bad about using him as a pawn.
+- 'And what are we to do now?' Kostya wonders how they should proceed now.
+- 'Let us simply tell everyone about us.' Nastya suggests maintaining the illusion publicly.
+- 'And in reality there is nothing?' Kostya clarifies the reality of their arrangement.
+- 'Yes, this will be only our secret.' Nastya confirms that their true status will remain hidden.
+- 'Fine, let Max be slightly jealous.' Kostya happily agrees to play along to annoy his buddy.
+- 'Kostya, thank you, you are simply the best!' Nastya is thrilled by his willingness to help.
+- 'For you I am ready for anything.' Kostya smoothly flirts while affirming his dedication.
+- 'My order is ready, I will run to work!' Nastya abruptly switches back to work mode.

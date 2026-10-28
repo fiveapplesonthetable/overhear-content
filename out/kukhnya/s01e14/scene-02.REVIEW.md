@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, did you see the new beautiful cake?' Max turns a statement into a question purely through rising intonation on the word meaning 'saw', pairing it with 'new' and 'beautiful'.
-- 'Of course, I decorated it myself today.' Here Sasha anchors the line on the word meaning 'of course' and builds the thought around 'today' and 'decorate'.
-- 'It looks simply magnificent.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, I tried very hard.' Sasha expresses this naturally by combining the word for 'thank you' with 'very much' and 'strongly'.
-- 'Has the chef already seen your new work?' Max turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'saw' and 'new'.
-- 'Yes, he was very satisfied with me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And you pulled it off.' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', followed by 'worked out'.
-- 'And now we can rest a little.' Sasha expresses this naturally by combining the word for 'now' with 'may' and 'a bit'.
-- 'Who wants to have some fun?' Max puts the word for 'here' together with 'wants' and 'have fun' in a crisp, natural spoken turn of phrase.
-- 'I do.' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'want'.
-- 'Then let us go outside with me.' The phrasing opens with 'back then' before bringing in 'let's go' and 'street' to make the point clear.
-- 'Wait, I will just take off my apron.' Sasha leads with the direct command form meaning 'wait', pairing it with 'only' and 'will remove'.
+- 'Sasha, did you see the new beautiful cake?' Max compliments Sasha on the cake. He asks if she saw how beautiful it looks.
+- 'Of course, I decorated it myself today.' Sasha proudly takes credit. She mentions she decorated it herself.
+- 'It looks simply magnificent.' Max flatters her work. He calls the cake absolutely magnificent.
+- 'Thank you, I tried very hard.' Sasha thanks him sincerely. She admits she put a lot of effort into it.
+- 'Has the chef already seen your new work?' Max asks about the Chef's reaction. He wonders if the boss noticed her hard work.
+- 'Yes, he was very satisfied with me.' Sasha beams with pride. She confirms that the Chef was very happy with her.
+- 'And you pulled it off.' Max congratulates her success. He says she really managed to pull it off.
+- 'And now we can rest a little.' Sasha feels relieved. She says they can finally take a short break.
+- 'Who wants to have some fun?' Max takes the opportunity to flirt. He asks who wants to have some fun.
+- 'I do.' Sasha eagerly agrees. She says she definitely wants to have fun.
+- 'Then let us go outside with me.' Max invites her outside. He suggests they go out to the street together.
+- 'Wait, I will just take off my apron.' Sasha asks him to hold on for a second. She just needs to take off her apron.

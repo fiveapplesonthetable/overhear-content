@@ -30,4 +30,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Is it noticeable?' Max replies ruefully, realizing his rough night shows on his face.
 - 'Would you like anything?' the bartender inquires, switching into professional hospitality mode.
 - 'Water.' Max croaks, as he is in need of cold water before his interview.
-- 'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more.

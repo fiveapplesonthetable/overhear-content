@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, this guy will not work here!' Name-patronymic address with a compound future negative verb of employment.
-- 'Just a second, since when do you give orders here?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am the restaurant art director and know our standards!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Senya, say loudly, who is the boss in this kitchen?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All the cooks know perfectly well that I am the boss here.' Chef Barinov puts the word for 'cooks' together with 'perfectly' and 'know' in a crisp, natural spoken turn of phrase.
-- 'You are hiring the first random person from the street!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I alone decide who works in my kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You will regret this strange and foolish decision.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Rump, you are officially hired onto our restaurant staff!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You will work on a two-on, two-off schedule.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This is simply outrageous and completely unacceptable behavior!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'And you can go command your waiters.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Create a wonderful atmosphere in the hall of our establishment!' everyday command form governing matching form and everyday phrase.
+- 'Viktor Petrovich, this guy will not work here!' Vika firmly addresses the chef by name and patronymic, absolutely forbidding him from employing Max.
+- 'Just a second, since when do you give orders here?' Chef Barinov immediately pushes back, challenging her authority on his own turf.
+- 'I am the restaurant art director and know our standards!' Vika justifies her interference by bringing up her managerial title and high expectations.
+- 'Senya, say loudly, who is the boss in this kitchen?' Chef Barinov loudly demands that his loyal cook confirm his absolute power over the staff.
+- 'All the cooks know perfectly well that I am the boss here.' He gloats that every single worker respects his command without question.
+- 'You are hiring the first random person from the street!' Vika expresses her disbelief at how recklessly he is picking new staff members.
+- 'I alone decide who works in my kitchen!' Chef Barinov fiercely defends his right to choose his own team.
+- 'You will regret this strange and foolish decision.' Vika warns him that this impulsive move will end in disaster.
+- 'Rump, you are officially hired onto our restaurant staff!' Chef Barinov uses an insulting nickname to officially welcome Max to the team.
+- 'You will work on a two-on, two-off schedule.' He casually sets the new employee's shifts while entirely ignoring the art director.
+- 'This is simply outrageous and completely unacceptable behavior!' Vika loses her temper over his blatant disrespect and chaotic management style.
+- 'And you can go command your waiters.' Chef Barinov condescendingly tells her to go back to the dining area.
+- 'Create a wonderful atmosphere in the hall of our establishment!' He sarcastically orders her to stick to decorating instead of meddling with his cooks.

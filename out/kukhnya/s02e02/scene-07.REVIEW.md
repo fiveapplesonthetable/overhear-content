@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take a good look.' Chef Barinov leads with the direct command form meaning 'admire' to make the point directly in conversation.
-- 'This is your fault.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'of wine'.
-- 'You nearly killed a man.' The phrasing opens with 'a man' before bringing in 'nearly' and 'ruin' to make the point clear.
-- 'Chef, enough.' Lyova delivers a punchy one-word reaction built around the Russian word meaning 'enough'.
-- 'He doesn' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'These are products from Timur.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'groceries'.
-- 'Timur, come here.' Lyova leads with the direct command form meaning 'go', followed by 'here'.
-- 'A person got poisoned.' Lyova expresses this naturally by combining the word for 'a man' with 'to get poisoned'.
-- 'We do not need your services.' Lyova puts the word for 'service' together with 'need' in a crisp, natural spoken turn of phrase.
-- 'That's it, you're dismissed.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'free'.
-- 'This is Tigran.' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'Tigran', combining 'this' with 'Tigran'.
-- 'Nice to meet you, Tigran.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'pleasant', combining 'very much' with 'pleasant'.
-- 'Well, then it's settled.' Lyova delivers a punchy one-word reaction built around the Russian word meaning 'agreed'.
+- 'Take a good look.' After the ambulance leaves, Barinov confronts the sushi chef and tells him to look at the mess.
+- 'This is your fault.' Viktor blames the newcomer directly for making the customer sick.
+- 'You nearly killed a man.' He fumes that the bad fish nearly killed a guest in his dining room.
+- 'Chef, enough.' Lyova steps in and asks the chef to calm down.
+- 'He doesn' He reminds Viktor that the sushi chef does not understand a word of Russian.
+- 'These are products from Timur.' Barinov realizes the raw fish came from Timur's shady delivery earlier.
+- 'Timur, come here.' Lyova calls Timur over to answer for the spoiled ingredients.
+- 'A person got poisoned.' He informs the supplier that a customer suffered food poisoning because of his fish.
+- 'We do not need your services.' Lyova announces that the restaurant is cutting ties with Timur's company.
+- 'That's it, you're dismissed.' Barinov waves Timur away, telling him he is dismissed for good.
+- 'This is Tigran.' With Timur gone, Lyova introduces a new supplier to the chef.
+- 'Nice to meet you, Tigran.' Lyova greets the new supplier politely as they set up a fresh supply deal.
+- 'Well, then it's settled.' Once the terms are set, Lyova shakes hands and declares the deal settled.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's snooze it for another ten minutes.' Listen for the word meaning 'let's' right alongside 'still' in this line. And Sasha jumps in.
-- 'Again?' Notice the word order: 'again' comes first, and 'again' finishes the sentence.
-- 'Yeah.' A compact expression built around 'yeah' and 'yeah'.
-- 'Let's just skip work altogether.' You'll hear 'let's' all the time in the show, here connected with 'let's go'. Max answers straight away.
-- 'Let's.' Max starts with 'let's' and pairs it with 'let's' to make the point clear.
-- 'I want to sleep so much.' Max puts 'I' up front so the listener immediately catches the tone, followed by 'want'.
-- 'Me too.' Sasha puts 'I' up front so the listener immediately catches the tone, followed by 'too'. Then Max replies.
-- 'We can just stay home.' In Russian, 'may' leads into 'at home' in a very natural everyday phrasing.
-- 'That is a bad idea.' The first content word means 'this', and 'idea' rounds out the thought.
-- 'They will fire us.' Notice the word order: 'us' comes first, and 'will fire' finishes the sentence. And Max jumps in.
-- 'Then we need to get up.' Listen for the word meaning 'back then' right alongside 'it is necessary' in this line.
-- 'Good morning.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'morning'.
+- 'Let's snooze it for another ten minutes.' When the morning alarm rings, a sleepy Max suggests snoozing it for ten more minutes. And Sasha jumps in.
+- 'Again?' Sasha groans and asks if he is hitting snooze again.
+- 'Yeah.' Max mumbles a sleepy 'yeah' from under the covers.
+- 'Let's just skip work altogether.' Tempted to stay in bed, Sasha suggests they skip work altogether today. Max answers straight away.
+- 'Let's.' Half-asleep, Max happily agrees to the idea at first.
+- 'I want to sleep so much.' He admits he is so exhausted that all he wants to do is sleep.
+- 'Me too.' Sasha says she feels the exact same way. Then Max replies.
+- 'We can just stay home.' Max muses that they really could just stay home all day.
+- 'That is a bad idea.' Coming to her senses, Sasha realizes skipping their shift is a terrible idea.
+- 'They will fire us.' She reminds him that the restaurant would fire them both. And Max jumps in.
+- 'Then we need to get up.' Reluctantly accepting reality, Max sighs that they have to get up then.
+- 'Good morning.' Sasha smiles and wishes him a proper good morning.

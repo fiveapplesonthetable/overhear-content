@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, why did you pour me plain water?' Chef Barinov puts the word for 'why' together with 'poured' and 'simple' in a crisp, natural spoken turn of phrase.
-- 'The new owner is afraid that I will drink.' Here Chef Barinov anchors the line on the word meaning 'new' and builds the thought around 'owner' and 'is afraid'.
-- 'Look, who sent me this beautiful bouquet?' Vika leads with the direct command form meaning 'look', pairing it with 'sent' and 'beautiful'.
-- 'Vika, it was I who gave you fresh flowers.' Max uses the action verb meaning 'donated' to focus on the single completed result, pairing it with 'fresh' and 'the flowers'.
-- 'Wait, please, listen to me right now for one minute.' Max leads with the direct command form meaning 'wait', pairing it with 'hear out' and 'now'.
-- 'I understand that I committed a terrible act yesterday.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I very deeply regret my foolishness.' The phrasing opens with 'very much' before bringing in 'strongly' and 'regret' to make the point clear.
-- 'Please, forgive me for that bad night!' Max leads with the direct command form meaning 'sorry', pairing it with 'bad' and 'night'.
-- 'I do not want to listen to your empty words.' Vika chooses the action verb meaning 'want' for the ongoing action, followed by 'to listen to' and 'empty'.
-- 'Good afternoon, I am the head chef of this restaurant.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day' and 'main'.
-- 'Do you like our hot dishes today?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'are pleasing', pairing it with 'today's' and 'hot'.
-- 'The guests are offering me to drink wine with them.' Chef Barinov expresses this naturally by combining the word for 'visitors' with 'offer' and 'to drink'.
-- 'At work it is forbidden, but today a little is allowed!' Russian omits the present-tense verb 'to be' here, linking 'work' directly with 'not allowed', pairing it with 'today' and 'may'.
+- 'Kostya, why did you pour me plain water?' Barinov glares at his glass and asks Kostya why he poured plain water.
+- 'The new owner is afraid that I will drink.' He grumbles that the new owner is terrified of letting him near a drink.
+- 'Look, who sent me this beautiful bouquet?' Meanwhile, Vika admires a big bouquet and wonders who sent it to her.
+- 'Vika, it was I who gave you fresh flowers.' Max steps forward and admits that the fresh flowers are from him.
+- 'Wait, please, listen to me right now for one minute.' He begs her to pause and hear him out for just one minute.
+- 'I understand that I committed a terrible act yesterday.' Max owns up to how terrible his behavior was the night before.
+- 'I very deeply regret my foolishness.' He tells Vika how deeply he regrets being so foolish.
+- 'Please, forgive me for that bad night!' He pleads with her to forgive him for that awful night.
+- 'I do not want to listen to your empty words.' Vika coldly replies that she has no interest in his empty apologies.
+- 'Good afternoon, I am the head chef of this restaurant.' Across the room, Barinov introduces himself to a table of guests as the head chef.
+- 'Do you like our hot dishes today?' He charmingly asks the diners how they are enjoying today's hot dishes.
+- 'The guests are offering me to drink wine with them.' Viktor happily notes that the guests are offering to share a glass of wine with him.
+- 'At work it is forbidden, but today a little is allowed!' Even though drinking is banned on shift, he decides a tiny sip with guests counts as an exception.

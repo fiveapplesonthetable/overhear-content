@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at this video.' Nagiyev leads with the direct command form meaning 'look', followed by 'video'.
-- 'I don't understand. Am I fired?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'understand', followed by 'fired'.
-- 'No, you are a star!' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'a star'.
-- 'Why am I a star?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'a star', combining 'why' with 'a star'.
-- 'The video has a million views.' Russian omits the present-tense verb 'to be' here, linking 'video' directly with 'a million', combining 'video' with 'a million' and 'views'.
-- 'Everyone wants to see you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do we have many guests?' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'a lot' with 'guests'.
-- 'Yes, all tables are taken.' Russian omits the present-tense verb 'to be' here, linking 'tables' directly with 'busy', combining 'tables' with 'busy'.
-- 'You are very popular now.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'popular', combining 'very much' with 'popular' and 'now'.
-- 'So, can I work further?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'then', pairing it with 'can' and 'to work'.
-- 'Of course! Go to the kitchen.' Nagiyev leads with the direct command form meaning 'go', pairing it with 'of course' and 'kitchen'.
-- 'Thank you, I will go work.' Chef Barinov expresses this naturally by combining the word for 'thank you' with 'go' and 'to work'.
-- 'I expect a tasty lunch today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It will be done, my boss.' Chef Barinov chooses the action verb meaning 'will be' for the ongoing action, followed by 'made' and 'boss'.
+- 'Look at this video.' Nagiyev immediately shoves a video in his chef's face.
+- 'I don't understand. Am I fired?' Barinov starts to object or express confusion.
+- 'No, you are a star!' Nagiyev excitedly declares that Viktor is now famous.
+- 'Why am I a star?' Barinov is totally confused as to why he would be considered a star.
+- 'The video has a million views.' Nagiyev explains the massive online success of the clip.
+- 'Everyone wants to see you.' Vika chimes in to confirm his sudden burst of popularity.
+- 'Do we have many guests?' Barinov checks if this internet fame translates to actual restaurant customers.
+- 'Yes, all tables are taken.' Vika confirms the dining room is completely packed.
+- 'You are very popular now.' Nagiyev reiterates just how famous his chef has become.
+- 'So, can I work further?' Barinov just wants to get back to his kitchen and asks to leave.
+- 'Of course! Go to the kitchen.' Nagiyev happily dismisses him to capitalize on the rush.
+- 'Thank you, I will go work.' Barinov politely excuses himself to return to his duties.
+- 'I expect a tasty lunch today.' Nagiyev sets high expectations for the day's service.
+- 'It will be done, my boss.' Barinov promises to deliver, addressing him respectfully.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "When an angry guest discovers a leather belt hidden inside his salad because of Senya and Fedya's foolish bet, he marches into the kitchen and forces Senya to eat the belt himself. Let's listen closely to Senya and Fedya's exchange in Russian first, and then walk through each line together."
 OPENER = 'Now let us examine the conversation line by line.'
-TRANSITION = 'Now let us listen to the conversation once again.'
+TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the eaten belt, and for the words meaning 'salad' and 'bread'. You'll catch them now. See you next time!"
 CLOSING = ('guest', 'До встречи!')
 STORY = [
@@ -30,16 +30,16 @@ STORY = [
     ('guest', 'На.', 'Here you go.', [(330, 'На, милый.')], ''),
 ]
 WALK = [
-    (0, None, "'On your feet!' Senya starts with 'stood still' and pairs it with 'stood still' to make the point clear. And Fedya jumps in."),
-    (1, None, "'He didn't like your salad.' Fedya starts with 'salad' and pairs it with 'was liked' to make the point clear."),
-    (2, None, "'He didn't try it.' Listen for the word meaning 'he' right alongside 'him' in this line."),
-    (3, None, "'Actually, he has.' You'll hear 'actually' all the time in the show, here connected with 'tried'. the guest answers straight away."),
-    (4, None, "'There was a belt in my salad.' The key word here means 'me', which the guest combines with 'salad'."),
-    (5, None, "'We just had a bet.' Senya starts with 'we' and pairs it with 'just' to make the point clear."),
-    (6, None, "'To see if I'd eat a belt?' A compact expression built around 'so that' and 'eat'. Then Senya replies."),
-    (7, None, "'It wasn't me.' In Russian, 'this' leads into 'I' in a very natural everyday phrasing."),
+    (0, None, "'On your feet!' When the furious guest marches into the kitchen, Senya calls the line to attention. And Fedya jumps in."),
+    (1, None, "'He didn't like your salad.' Before seeing the belt, Fedya smugly jokes that the guest did not like Senya's salad."),
+    (2, None, "'He didn't try it.' Senya protests that the customer barely even tasted it."),
+    (3, None, "'Actually, he has.' Fedya remarks that the guest clearly tried a bite. the guest answers straight away."),
+    (4, None, "'There was a belt in my salad.' Slamming the bowl down, the burly guest announces that he found a leather belt in his salad."),
+    (5, None, "'We just had a bet.' Backing away nervously, Senya stammers that he and Fedya only had a harmless kitchen bet."),
+    (6, None, "'To see if I'd eat a belt?' The guest glares at him and asks if the bet was to trick a customer into eating a belt. Then Senya replies."),
+    (7, None, "'It wasn't me.' Senya frantically insists he did not serve the bowl on purpose."),
     (8, None, "'You're going to eat the belt.' Putting 'you' at the very end emphasizes that Senya himself has to eat the belt."),
-    (9, None, "'You're not leaving until you eat it all.' A compact expression built around 'until' and 'you'll leave'. And Senya jumps in."),
-    (10, None, "'Could I have some bread?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'may' straight to 'bread'."),
-    (11, None, "'Here you go.' The guest uses this short everyday word when handing something directly to someone."),
+    (9, None, "'You're not leaving until you eat it all.' Forcing Senya to sit down with the bowl, the guest warns he cannot leave until every piece of leather is eaten. And Senya jumps in."),
+    (10, None, "'Could I have some bread?' Chewing the tough leather, Senya meekly asks if he can at least have some bread with it."),
+    (11, None, "'Here you go.' The guest uses this short everyday word when handing something directly to someone. Now let us listen to the conversation once again."),
 ]

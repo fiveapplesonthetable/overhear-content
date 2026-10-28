@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can I have a word with you for a minute?' Vika turns a statement into a question purely through rising intonation on the word meaning 'may', followed by 'a minute'.
-- 'I am listening.' Kristina delivers a punchy one-word reaction built around the Russian word meaning 'I'm listening'.
-- 'You have done a lot.' The phrasing opens with 'a lot' before bringing in 'have done' to make the point clear.
-- 'But this is the past.' Russian omits the present-tense verb 'to be', connecting 'but' directly with 'last'.
-- 'We need new people.' Russian omits the present-tense verb 'to be' here, linking 'needed' directly with 'new', combining 'needed' with 'new' and 'people'.
-- 'New blood.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'blood', combining 'new' with 'blood'.
-- 'Are you firing me?' Vika turns a statement into a question purely through rising intonation on the word meaning 'are firing' to make the point directly in conversation.
-- 'Yes.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue.
-- 'I hope you will find a job.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not worry about me.' the self-directed ending on the verb for 'worry' turns the action back onto the subject. And Kristina jumps in.
-- 'Okay, I won't.' The phrasing opens with 'good' before bringing in 'will be' to make the point clear.
-- 'Goodbye.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'meeting'.
+- 'Can I have a word with you for a minute?' Vika approaches the new owner Kristina and politely asks for a quick word.
+- 'I am listening.' Kristina invites Vika to go ahead and speak.
+- 'You have done a lot.' Before Vika can say much, Kristina acknowledges all the work Vika has done here.
+- 'But this is the past.' However, Kristina waves that history away as belonging to the past.
+- 'We need new people.' She declares that the restaurant needs fresh faces on the team.
+- 'New blood.' Kristina calls it bringing in 'new blood' to shake things up.
+- 'Are you firing me?' Realizing where this is headed, Vika asks bluntly if Kristina is firing her.
+- 'Yes.' Kristina confirms it with a cold, single-word 'yes'.
+- 'I hope you will find a job.' She adds a hollow wish that Vika will find another job soon.
+- 'Do not worry about me.' Keeping her pride, Vika tells Kristina not to worry about her future. And Kristina jumps in.
+- 'Okay, I won't.' Kristina breezy replies that she will not worry at all.
+- 'Goodbye.' Vika says a cool, formal goodbye and walks away.

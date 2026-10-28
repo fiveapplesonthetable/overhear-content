@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you here to see Dmitry Vladimirovich?' Sasha asks, using the preposition 'k' with the matching word ending for visiting a person.
-- 'This is Viktoria Sergeyevna, our art director.' Sasha explains, introducing the formal patronymic.
-- 'Oh no, what an unpleasant situation!' Max mutters under his breath in complete shock.
-- 'Would you like to sit at an available table?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'would you like', pairing it with 'to sit down' and 'free'. Now let's listen to the whole conversation again from start to finish.
+- 'Are you here to see Dmitry Vladimirovich?' Sasha asks a polite question to figure out if the visitor has a scheduled appointment.
+- 'This is Viktoria Sergeyevna, our art director.' Pointing out her manager, the waitress formally introduces the woman running the restaurant floor.
+- 'Oh no, what an unpleasant situation!' Max quietly panics upon realizing that his one-night stand holds a high-ranking position here.
+- 'Would you like to sit at an available table?' Offering standard hospitality, the staff member invites the distressed man to take a seat.

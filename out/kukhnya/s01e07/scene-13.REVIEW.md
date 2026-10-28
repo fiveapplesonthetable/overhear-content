@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, we urgently need to clarify something.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Guys, I really do not have time for you now.' Idiomatic colloquial phrase expressing lack of time.
-- 'What did you tell Nastya about me?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I was just joking a little, do not be mad.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Joking? You called me a real psycho!' Kostya uses the action verb meaning 'joked' to focus on the single completed result, pairing it with 'called' and 'real'.
-- 'I wanted to protect you from mistakes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'First you promised to help, and then bailed!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I did not want to hurt you, Kostya.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Because of your stupid words Nastya left.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Forgive me, I will fix everything today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Never poke your nose into my business again!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, wait, let us discuss everything calmly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Some best friend you are, leave!' Idiomatic reproach with an urgent command form.
+- 'Max, we urgently need to clarify something.' Kostya sounds incredibly serious. He is furious about the rumor that ruined his chances with Nastya.
+- 'Guys, I really do not have time for you now.' Max tries to brush him off. The Russian phrase implies he has no mental capacity to deal with them at the moment.
+- 'What did you tell Nastya about me?' Kostya demands an immediate explanation. He gets straight to the point of the betrayal.
+- 'I was just joking a little, do not be mad.' Max downplays his sabotage as a harmless prank. He hopes Kostya will just laugh it off.
+- 'Joking? You called me a real psycho!' Kostya repeats the word in disbelief. He is genuinely hurt by the extreme label Max used.
+- 'I wanted to protect you from mistakes.' Max invents a noble excuse for his selfish behavior. He pretends he was looking out for his friend.
+- 'First you promised to help, and then bailed!' Kostya points out the hypocrisy. The slang word for "bailed" literally means he threw him.
+- 'I did not want to hurt you, Kostya.' Max realizes his friend is genuinely upset. He tries to sound sympathetic and apologetic.
+- 'Because of your stupid words Nastya left.' Kostya blames Max for ruining his romantic evening. He is crushed that she walked away.
+- 'Forgive me, I will fix everything today.' Max promises to repair the damage. He realizes he has to clear Kostya's name with Nastya.
+- 'Never poke your nose into my business again!' Kostya sets a firm boundary. He tells his friend to stay out of his personal life from now on.
+- 'Kostya, wait, let us discuss everything calmly.' Max begs him to stay and talk. He wants to avoid a permanent rift between them.
+- 'Some best friend you are, leave!' Kostya throws the title of best friend back in his face. He is too angry to listen to any more excuses.

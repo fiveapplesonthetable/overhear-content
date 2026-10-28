@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention everyone! I have important information.' Vika uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'attention' with 'important' and 'information'.
-- 'Vika, speak faster, we have a lot of orders.' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'speak' with 'faster' and 'a lot of'.
-- 'Dmitry Vladimirovich himself just called.' The phrasing opens with 'just' before bringing in 'called' to make the point clear.
-- 'And what did our respected owner say?' Chef Barinov uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'respected' and 'owner'.
-- 'A restaurant critic will come to us today.' Vika puts the word for 'today' together with 'will arrive' and 'restaurant' in a crisp, natural spoken turn of phrase.
-- 'We will feed him a delicious hot lunch.' Chef Barinov uses the action verb meaning 'will feed' to focus on the single completed result, pairing it with 'delicious' and 'hot'.
-- 'Nobody knows what he looks like.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That means we cook each dish with perfect precision.' Chef Barinov expresses this naturally by combining the word for 'that means' with 'we cook' and 'each'.
-- 'And do not let Max into the kitchen today.' Vika leads with the direct command form meaning 'let', pairing it with 'today' and 'kitchen'.
-- 'And why should the new cook not work?' Here Chef Barinov anchors the line on the word meaning 'why' and builds the thought around 'new' and 'cook'.
-- 'Because this guy brings constant problems.' The phrasing opens with 'because' before bringing in 'guy' and 'brings' to make the point clear.
-- 'Fine, Max will wash dirty dishes.' Chef Barinov expresses this naturally by combining the word for 'alright' with 'will be' and 'to wash'.
-- 'Today complete order is needed in the kitchen.' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'in the kitchen', combining 'today' with 'in the kitchen' and 'needed'.
+- 'Attention everyone! I have important information.' Vika wants everyone's attention because she has important information. She says 'vnimanie vsem' to make them listen. This sounds serious.
+- 'Vika, speak faster, we have a lot of orders.' Barinov tells her to speak faster since they have a lot of orders. He is busy and impatient. 'Bystree' means faster.
+- 'Dmitry Vladimirovich himself just called.' Vika explains that Dmitry Vladimirovich himself just called. She uses 'sam' to emphasize it was him personally. The owner rarely calls.
+- 'And what did our respected owner say?' Barinov asks what their respected owner had to say. He uses 'uvazhaemyy' meaning respected. He is curious.
+- 'A restaurant critic will come to us today.' Vika announces that a restaurant critic will come to them today. This is big news. A critic can make or break them.
+- 'We will feed him a delicious hot lunch.' Barinov confidently states they will feed him a delicious hot lunch. He is ready for the challenge. 'Nakormim' means we will feed.
+- 'Nobody knows what he looks like.' Vika warns that nobody knows what he looks like. The critic is a mystery. 'Nikto ne znaet' means nobody knows.
+- 'That means we cook each dish with perfect precision.' Barinov concludes they must cook each dish with perfect precision. Every plate matters now. 'Idealno tochno' means perfectly exactly.
+- 'And do not let Max into the kitchen today.' Vika instructs the chef not to let Max into the kitchen today. She wants the new guy kept away from the food. 'Ne puskay' means do not let in.
+- 'And why should the new cook not work?' Barinov questions why the new cook should not work. He is confused by her order. He calls Max the 'novyy povar'.
+- 'Because this guy brings constant problems.' Vika explains that this guy brings constant problems. She has no faith in his skills. 'Sploshnye problemy' means nothing but problems.
+- 'Fine, Max will wash dirty dishes.' Barinov agrees and says the young cook will wash dirty dishes instead. He finds a safe job for him. Washing dishes keeps him out of the way.
+- 'Today complete order is needed in the kitchen.' Vika states that complete order is needed in the kitchen today. Everything must be perfect. 'Polnyy poryadok' means complete order.

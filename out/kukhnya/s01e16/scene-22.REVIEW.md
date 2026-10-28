@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What did he say?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'said'.
-- 'He told us to leave.' Nastya uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'to leave'.
-- 'I do not believe this.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Is this the end?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'end' to make the point directly in conversation.
-- 'I do not know.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'Chef, what to do?' Max delivers a punchy one-word reaction built around the Russian word meaning 'do'.
-- 'We must leave.' The phrasing opens with 'must' before bringing in 'to leave' to make the point clear.
-- 'I am very sorry.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it is a pity', combining 'very much' with 'it is a pity'.
-- 'Pack your things.' Nastya replies with a single verb form meaning 'to intend' — in Russian, the verb ending alone carries the subject and tense.
-- 'I am sorry.' Nastya replies with a single verb form meaning 'sorry' — in Russian, the verb ending alone carries the subject and tense.
-- 'It is my duty.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'debt'.
-- 'Good.' A crisp, everyday conversational reply meaning 'good' that you will hear constantly in Russian dialogue.
+- 'What did he say?' Demanding an update, the head cook asks for the exact words spoken by the officer.
+- 'He told us to leave.' Nastya passes on the grim instruction that everyone must clear out.
+- 'I do not believe this.' Expressing pure shock, the chef refuses to accept the terrible news.
+- 'Is this the end?' A sense of doom hangs in the air as she wonders if their workplace is closed forever.
+- 'I do not know.' Barinov repeats his earlier feeling of helplessness, unable to predict the future.
+- 'Chef, what to do?' Max turns to his boss for guidance, asking for their next course of action.
+- 'We must leave.' Realizing they have no choice, the manager accepts the order to evacuate.
+- 'I am very sorry.' Apologizing for her role in the disaster, the waitress expresses deep regret.
+- 'Pack your things.' A short, sharp instruction is given to start gathering belongings.
+- 'I am sorry.' Repeating her apology shows just how awful she feels about the entire situation.
+- 'It is my duty.' Defending her actions, she claims she was only following her personal moral code.
+- 'Good.' A quick, dismissive reply ends the conversation, showing his cold acceptance.

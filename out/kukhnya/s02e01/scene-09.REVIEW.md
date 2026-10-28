@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Kostya, can you hear me?' Max turns a statement into a question purely through rising intonation on the word meaning 'hello?', followed by 'hear'.
-- 'Yes, Max, what happened to you?' Kostya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'happened'.
-- 'I have a big problem right now.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'now' with 'large' and 'problem'.
+- 'Hello, Kostya, can you hear me?' Stuck outside, Max calls Kostya and checks if he can hear him.
+- 'Yes, Max, what happened to you?' Kostya answers and asks what is going on.
+- 'I have a big problem right now.' Max confesses that he has landed himself in serious trouble.
 - 'Did you already talk with Vika?' Kostya knows Max was trying to apologize to Victoria.
-- 'I wanted to talk with her seriously.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But she just turned around and left!' Both past-tense verbs describe Victoria's quick exit.
-- 'Well then come back to the kitchen.' Kostya leads with the direct command form meaning 'return', pairing it with 'back' and 'kitchen'.
+- 'I wanted to talk with her seriously.' He explains that he wanted to have a serious talk with Vika.
+- 'But she just turned around and left!' Instead of listening, Vika simply turned on her heel and walked away.
+- 'Well then come back to the kitchen.' Not knowing about the handcuffs, Kostya tells him to just head back to the kitchen.
 - 'That is the thing, I cannot!' This conversational phrase highlights the main problem.
 - 'Why can you not come?' Kostya does not understand why Max is still outside.
-- 'Because I lost a small key.' Here Max anchors the line on the word meaning 'because' and builds the thought around 'lost' and 'short'.
-- 'What key did you lose?' The phrasing opens with 'more' before bringing in 'key' and 'lost' to make the point clear.
-- 'Kostya, come out to the street to me urgently!' Max leads with the direct command form meaning 'go out', pairing it with 'urgent' and 'street'.
-- 'Fine, wait there, I will come right now.' Kostya agrees to come and help him out.
+- 'Because I lost a small key.' Max sheepishly admits why he is stuck: he lost the little key.
+- 'What key did you lose?' Kostya is baffled and asks what key Max is talking about.
+- 'Kostya, come out to the street to me urgently!' Max begs Kostya to hurry out to the street and rescue him.
+- 'Fine, wait there, I will come right now.' Kostya agrees to come and help him out. Now listen to the phone call between Max and Kostya again.

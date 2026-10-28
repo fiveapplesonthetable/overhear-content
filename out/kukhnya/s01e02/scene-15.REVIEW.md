@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did the bottle of expensive cognac disappear to?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Honestly speaking, I don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And who should know if not you?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Kostya, you need to be fired from your job immediately!' Vika expresses this naturally by combining the word for 'one needs' with 'immediately' and 'to fire'.
-- 'It definitely stood here, I remember myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'So that fake repairman stole it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What an insolent, vile thief!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'This bottle costs huge money.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Excuse me, I will fix everything right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where did you run so fast?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will catch up with that thief and return the cognac!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Just you dare not bring it back!' Vika leads with the direct command form meaning 'try', pairing it with 'to return' and 'back'.
+- 'Where did the bottle of expensive cognac disappear to?' Vika questions where the bottle of expensive cognac disappeared to.
+- 'Honestly speaking, I don' Kostya admits honestly that he does not know at all.
+- 'And who should know if not you?' Vika retorts, asking who should know if not him.
+- 'Kostya, you need to be fired from your job immediately!' Vika states that Kostya needs to be fired from his job immediately.
+- 'It definitely stood here, I remember myself.' Kostya insists the bottle definitely stood there, remembering it clearly.
+- 'So that fake repairman stole it.' Vika concludes that the fake repairman must have stolen it.
+- 'What an insolent, vile thief!' Kostya calls the man an insolent, vile thief.
+- 'This bottle costs huge money.' Vika reminds him that the bottle costs a huge amount of money.
+- 'Excuse me, I will fix everything right now.' Kostya asks for forgiveness and promises to fix everything right now.
+- 'Where did you run so fast?' Vika asks where he is running so fast.
+- 'I will catch up with that thief and return the cognac!' Kostya declares he will catch up with the thief and return the cognac.
+- 'Just you dare not bring it back!' Vika warns him not to come back without it.

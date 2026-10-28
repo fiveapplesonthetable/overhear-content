@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "In the kitchen of Claude Monet, Senya prepares to eat a leather belt after losing a bet to Fedya. Fedya mocks him by telling him to tenderize the leather first so it is not as tough as Senya's steak from yesterday."
 OPENER = 'Listen to Fedya teasing Senya in the kitchen over their bet.'
-TRANSITION = "Now listen to the kitchen banter between Senya and Fedya again. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "To avoid chewing raw leather alone, Senya decides to disguise the sliced belt inside a fresh green salad. Next time you watch the episode, listen for the Russian expressions for 'to bring' and 'belt' — you will catch every word right away. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('fedya', 'Понял, желаю тебе приятного аппетита!', 'Got it, I wish you a good appetite!', [(202, 'Понял')], ''),
 ]
 WALK = [
-    (0, None, "'Senya, did you already bring that belt?' Fedya turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'brought' and 'belt'."),
-    (1, None, "'Just do not eat it all at once by yourself!' Fedya leads with the direct command form meaning 'eat', combining 'only' with 'at once' and 'one'."),
-    (2, None, "'Leave a small piece for me too.' Fedya leads with the direct command form meaning 'keep', pairing it with 'short' and 'slice'."),
-    (3, None, "'You are joking very amusingly today.' Senya expresses this naturally by combining the word for 'very much' with 'ridiculous' and 'today'."),
+    (0, None, "'Senya, did you already bring that belt?' Wait — after tricking Senya into switching sides of the bet, Fedya asks if Senya brought the belt."),
+    (1, None, "'Just do not eat it all at once by yourself!' Fedya teases his friend not to gobble the whole leather strap down at once."),
+    (2, None, "'Leave a small piece for me too.' He jokes that Senya should save a little piece of leather for him too."),
+    (3, None, "'You are joking very amusingly today.' Annoyed, Senya sarcastically praises Fedya's sense of humor today."),
     (4, None, "'I will slice it finely with a knife first.' Senya plans to cut the leather into tiny strips."),
-    (5, None, "'And then I will calmly eat it all.' The action verb verb means 'I will eat it all up'."),
-    (6, None, "'Yes, you thought of everything rightly.' The phrasing opens with 'right' before bringing in 'came up with' to make the point clear."),
-    (7, None, "'Just tenderize it well first!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'And then I will calmly eat it all.' Senya says that once he slices the leather thin enough, he will calmly eat it all."),
+    (6, None, "'Yes, you thought of everything rightly.' Fedya grins and says Senya has the right strategy."),
+    (7, None, "'Just tenderize it well first!' He suggests pounding the leather with a meat mallet first to soften it."),
     (8, None, "'Otherwise it will be very tough.' Fedya warns that the leather will be hard to chew."),
-    (9, None, "'Just like your steak from yesterday!' Russian omits the present-tense verb 'to be' here, linking 'right' directly with 'how', combining 'right' with 'how' and 'yesterday's'."),
+    (9, None, "'Just like your steak from yesterday!' Fedya takes a jab at Senya by comparing the tough leather to Senya's steak from yesterday."),
     (10, None, "'My meat dishes are always delicious!' As the meat chef, Senya proudly defends his steaks."),
-    (11, None, "'Leave me alone, did you understand?' Senya leads with the direct command form meaning 'leave alone', followed by 'understood?'."),
-    (12, None, "'Got it, I wish you a good appetite!' Fedya leaves him with a parting joke."),
+    (11, None, "'Leave me alone, did you understand?' Senya loses his patience at the teasing and snaps at Fedya to back off."),
+    (12, None, "'Got it, I wish you a good appetite!' Fedya leaves him with a parting joke. Now listen to the kitchen banter between Senya and Fedya again."),
 ]

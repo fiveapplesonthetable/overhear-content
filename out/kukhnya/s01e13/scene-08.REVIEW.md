@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I need to tell you something.' Nastya puts the word for 'it is necessary' together with 'tell' in a crisp, natural spoken turn of phrase.
-- 'I acted wrongly.' Nastya uses the action verb meaning 'to enter' to focus on the single completed result, pairing it with 'wrongly'.
-- 'Nastya, did you change your mind about tonight?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'changed my mind', followed by 'evening'.
-- 'That's not what I'm talking about.' Russian omits the present-tense verb 'to be' here, linking 'I' directly with 'not', combining 'I' with 'not' and 'about'.
-- 'It was me who broke Viktor Petrovich' s mirror.' Nastya uses the action verb meaning 'to break' to focus on the single completed result, pairing it with 'mirror'.
-- 'And now they are fighting because of me.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'fight'.
-- 'Wow!' Russian omits the present-tense verb 'to be' here, linking 'nothing' directly with 'yourself', combining 'nothing' with 'yourself'.
-- 'And what do we do now?' Kostya expresses this naturally by combining the word for 'now' with 'do'.
-- 'So, is everything still on for tonight?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'became', pairing it with 'be' and 'evening'.
-- 'Kostya!' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'Kostya'.
-- 'How could you?' The phrasing opens with 'how' before bringing in 'can' to make the point clear.
-- 'You only think about one thing!' She scolds him for being insensitive. Let's break down the language.
+- 'Kostya, I need to tell you something.' Nastya urgently needs to confess. She tells Kostya she has something important to share.
+- 'I acted wrongly.' She admits her guilt. Nastya confesses she made a big mistake.
+- 'Nastya, did you change your mind about tonight?' Kostya jumps to the wrong conclusion. He worries she is cancelling their romantic plans.
+- 'That's not what I'm talking about.' Nastya quickly corrects him. She clarifies that her problem has nothing to do with their date.
+- 'It was me who broke Viktor Petrovich' She reveals her secret. Nastya admits she was the one who damaged the Chef's car.
+- 'And now they are fighting because of me.' She feels terrible about the consequences. Nastya hates that her accident caused a fight.
+- 'Wow!' Kostya is stunned by the revelation. He lets out an exclamation of surprise.
+- 'And what do we do now?' He immediately tries to think of a solution. Kostya wonders how they can fix this mess.
+- 'So, is everything still on for tonight?' Kostya circles back to what he cares about most. He just wants to know if their date is still happening.
+- 'Kostya!' Nastya is offended by his priorities. She cannot believe he is thinking about that right now.
+- 'How could you?' She questions his insensitivity. Nastya expects him to be more supportive.
+- 'You only think about one thing!' She scolds him for being single-minded. Nastya points out he only cares about one thing.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are these small numbers in the report?' Russian omits the present-tense verb 'to be' here, linking 'little ones' directly with 'numbers', followed by 'report'.
-- 'Why do we have so little money?' Nagiyev uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'why' and 'little'.
-- 'Dmitry Vladimirovich, we have few guests right now.' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'now' and 'little'.
-- 'A new Italian restaurant opened nearby.' Vika expresses this naturally by combining the word for 'nearby' with 'opened' and 'new'.
-- 'And what am I supposed to do now?' Nagiyev puts the word for 'now' together with 'do' in a crisp, natural spoken turn of phrase.
-- 'I need to feed my big family!' Here Nagiyev anchors the line on the word meaning 'necessary' and builds the thought around 'to feed' and 'large'.
-- 'Dima, well there are simply no people right now.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'just', followed by 'people'.
-- 'We cannot drag them in here by force.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You always have the exact same story!' Nagiyev uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'always' and 'one'.
-- 'We will definitely come up with a good solution.' Here Vika anchors the line on the word meaning 'surely' and builds the thought around 'to think up' and 'lovely'.
-- 'You see, we are working seriously here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am staying at the restaurant with my colleagues!' Nagiyev chooses the action verb meaning 'am staying' for the ongoing action, followed by 'restaurant' and 'colleagues'.
+- 'What are these small numbers in the report?' Nagiyev demands an explanation for the terrible financial results, pointing directly at the tiny numbers on the page.
+- 'Why do we have so little money?' Nagiyev expresses pure shock, asking why they possess so little cash right now.
+- 'Dmitry Vladimirovich, we have few guests right now.' Vika tries to calmly explain the lack of customers, using his formal name to maintain a respectful tone.
+- 'A new Italian restaurant opened nearby.' Vika shifts the blame to a newly opened competitor in the neighborhood.
+- 'And what am I supposed to do now?' Nagiyev acts helpless, asking what he is expected to do with this terrible situation.
+- 'I need to feed my big family!' Nagiyev dramatically claims he has a large family to support, making the low revenue sound like a personal crisis.
+- 'Dima, well there are simply no people right now.' Chef Barinov speaks to him casually, stating the obvious fact that the dining room is completely empty.
+- 'We cannot drag them in here by force.' Chef Barinov points out they cannot literally force people off the street to come eat at Claude Monet.
+- 'You always have the exact same story!' Nagiyev angrily dismisses their excuses, claiming they constantly tell him the exact same thing.
+- 'We will definitely come up with a good solution.' Vika promises they will find a way out of this mess, trying to soothe her furious boss.
+- 'You see, we are working seriously here.' Nagiyev demands they take the financial crisis as seriously as he does.
+- 'I am staying at the restaurant with my colleagues!' Nagiyev announces he is not leaving until they figure this out, committing to stay on site.

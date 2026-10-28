@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not needed by anyone.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'I' straight to 'is needed'.
-- 'Lyuba, a customer found a SIM card in the dessert.' Here Kostya anchors the line on the word meaning 'client' and builds the thought around 'found' and 'SIM card'.
-- 'A SIM card? In the dessert?' There is no question word here — in Russian, rising intonation on 'dessert' is enough to make it a question. And Kostya jumps in.
-- 'Yes, he demands the chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go to him, Lyova.' Kostya uses a direct command command form of the verb meaning 'go'.
-- 'I will not go there.' Lyova uses the action verb meaning 'go' to focus on the single completed result, pairing it with 'there'.
-- 'What do you mean, you will not go?' The question word for 'what' comes right at the start, followed directly by 'will go'.
-- 'You are the chef today.' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'head chef', combining 'today' with 'head chef'.
-- 'Go and figure this out.' Kostya leads with the direct command form meaning 'go', followed by 'to understand well'.
-- 'But I am not the chef.' Russian omits the present-tense verb 'to be', connecting 'but' directly with 'head chef'.
-- 'Lyova, you need to figure it out.' Notice the self-directed ending on the verb for 'to deal with', which directs the action back onto the subject. Then Lyova responds.
-- 'I am afraid to go there.' the self-directed ending on the verb for 'am afraid' turns the action back onto the subject. And Kostya jumps in.
-- 'Come on, go.' Kostya leads with the direct command form meaning 'let's', followed by 'go'.
+- 'I am not needed by anyone.' Lyova complains about feeling useless. He dramatically claims nobody needs him.
+- 'Lyuba, a customer found a SIM card in the dessert.' Kostya interrupts with an urgent problem. He reports a customer found a SIM card in their food.
+- 'A SIM card? In the dessert?' Lyova is shocked by the news. He repeats the words in disbelief.
+- 'Yes, he demands the chef.' Kostya confirms the serious situation. He adds that the angry customer is demanding to see the chef.
+- 'Go to him, Lyova.' He tells Lyova to handle it. Kostya urges him to go speak with the customer.
+- 'I will not go there.' Lyova flatly refuses to face the angry guest. He says he will not go out there.
+- 'What do you mean, you will not go?' Kostya is confused by his refusal. He asks Lyova what he means by that.
+- 'You are the chef today.' Kostya reminds Lyova of his temporary promotion. He points out that Lyova is the chef today.
+- 'Go and figure this out.' He orders Lyova to take charge. Kostya tells him to go and figure this mess out.
+- 'But I am not the chef.' Lyova tries to back out of his role. He insists he is not the real head chef.
+- 'Lyova, you need to figure it out.' Kostya emphasizes the necessity of action. He tells Lyova he has to deal with it regardless.
+- 'I am afraid to go there.' Lyova admits his true feelings. He confesses he is too afraid to go out there.
+- 'Come on, go.' Kostya tries to push him into action. He impatiently tells him to just go.

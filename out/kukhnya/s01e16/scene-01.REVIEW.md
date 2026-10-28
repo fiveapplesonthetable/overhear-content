@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your safety situation looks really bad.' Notice how this combines 'very much' with 'bad' and 'painting'.
-- 'Everything is fine with us.' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'order'.
-- 'We passed all inspections.' Vika uses the action verb meaning 'to go through' to focus on the single completed result, pairing it with 'check'.
-- 'How did you pass the inspections?' the inspector expresses this naturally by combining the word for 'how' with 'to go through' and 'check'.
-- 'You have no fire extinguishers in the kitchen.' , combining 'fire extinguisher' with 'kitchen'.
-- 'We have one.' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'there is' with 'one'.
-- 'It is hanging under the table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It must hang within three meters.' the inspector expresses this naturally by combining the word for 'has to' with 'to hang' and 'three'.
-- 'From the place of a possible fire.' Russian omits the present-tense verb 'to be' here, linking 'places' directly with 'possible', combining 'places' with 'possible' and 'fire'.
-- 'This is not a problem.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'problem'.
-- 'This is a very big problem.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'large', combining 'very much' with 'large' and 'problem'.
-- 'Oh, how bad everything is.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'how', combining 'oh' with 'how' and 'badly'.
-- 'I give you two days for correction.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will do everything.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'we'll do'.
+- 'Your safety situation looks really bad.' The official bluntly criticizes the restaurant's current condition.
+- 'Everything is fine with us.' Vika immediately defends their setup, insisting there are no issues.
+- 'We passed all inspections.' She backs up her claim by mentioning their previous successful evaluations.
+- 'How did you pass the inspections?' The official sounds skeptical, questioning how they ever managed to get approved.
+- 'You have no fire extinguishers in the kitchen.' Pointing out a glaring violation, the inspector notes the missing equipment.
+- 'We have one.' Vika quickly corrects him, claiming they do possess the required item.
+- 'It is hanging under the table.' She specifies its awkward location to prove she knows where it is.
+- 'It must hang within three meters.' The official corrects her, stating the exact distance rule for the equipment.
+- 'From the place of a possible fire.' He finishes his thought by explaining the safety rationale behind the measurement.
+- 'This is not a problem.' Vika tries to downplay the severity of the rule break.
+- 'This is a very big problem.' Pushing back firmly, the official emphasizes how serious the violation actually is.
+- 'Oh, how bad everything is.' He sighs in exasperation at the sheer number of issues he is finding.
+- 'I give you two days for correction.' Setting a strict deadline, he offers a brief window to fix the mess.
+- 'We will do everything.' Vika promises swift action to resolve all the complaints.

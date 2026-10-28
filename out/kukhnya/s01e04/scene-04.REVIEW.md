@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good job, Vitka.' Max delivers a punchy one-word reaction built around the Russian word meaning 'well done'.
-- 'Vityushenka, my little runt.' Max delivers a punchy one-word reaction built around the Russian word meaning 'runt'.
-- 'Have you completely lost your mind?' The phrasing opens with 'completely' before bringing in 'mind' and 'lost one's mind' to make the point clear.
-- 'Why are you sleeping here?' Chef Barinov expresses this naturally by combining the word for 'here' with 'are sleeping'.
-- 'Chef, please forgive me.' Max leads with the direct command form meaning 'forgive' to make the point directly in conversation.
-- 'I lay down for five minutes.' Max uses the action verb meaning 'lay down' to focus on the single completed result, pairing it with 'five' and 'minutes'.
-- 'You cannot sleep in the kitchen!' The phrasing opens with 'kitchen' before bringing in 'to sleep' and 'not allowed' to make the point clear.
-- 'I could not sleep all night.' Max expresses this naturally by combining the word for 'night' with 'could' and 'to fall asleep'.
-- 'Why didn't you sleep at night?' Chef Barinov puts the word for 'why' together with 'at night' and 'slept' in a crisp, natural spoken turn of phrase.
-- 'Probably it is acclimatization.' Russian omits the present-tense verb 'to be' here, linking 'probably' directly with 'acclimatization', combining 'probably' with 'acclimatization'.
-- 'What acclimatization?' Russian omits the present-tense verb 'to be' here, linking 'else' directly with 'acclimatization', combining 'else' with 'acclimatization'.
-- 'I am not used to Moscow yet.' Max expresses this naturally by combining the word for 'yet' with 'got used'.
-- 'Quickly get up and wash dishes!' Chef Barinov leads with the direct command form meaning 'get up', pairing it with 'quickly' and 'wash'.
-- 'Already getting up, Chef.' Here Max anchors the line on the word meaning 'already' and builds the thought around 'am getting up'.
+- 'Good job, Vitka.' Max praises his friend for a good job.
+- 'Vityushenka, my little runt.' He affectionately calls him a little runt.
+- 'Have you completely lost your mind?' Barinov asks if he has completely lost his mind.
+- 'Why are you sleeping here?' He demands to know why he is sleeping here.
+- 'Chef, please forgive me.' Max begs the chef to forgive him.
+- 'I lay down for five minutes.' He says he only lay down for five minutes.
+- 'You cannot sleep in the kitchen!' Barinov tells him sleeping in the kitchen is forbidden.
+- 'I could not sleep all night.' Max complains he could not sleep all night.
+- 'Why didn't you sleep at night?' Barinov asks why he did not sleep at night.
+- 'Probably it is acclimatization.' Max blames it on acclimatization.
+- 'What acclimatization?' Barinov questions what acclimatization he means.
+- 'I am not used to Moscow yet.' He explains he is not used to Moscow yet.
+- 'Quickly get up and wash dishes!' The chef orders him to quickly get up and wash dishes.
+- 'Already getting up, Chef.' Max tells the chef he is already getting up.

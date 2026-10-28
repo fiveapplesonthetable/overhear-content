@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let us start dyeing this pike caviar.' Chef Barinov leads with the direct command form meaning 'let us', pairing it with 'will begin' and 'to paint'.
-- 'Do you want to turn it into black?' Senya turns a statement into a question purely through rising intonation on the word meaning 'want', pairing it with 'to turn into' and 'black'.
-- 'Yes, we will dye all of this caviar.' Chef Barinov uses the action verb meaning 'will dye' to focus on the single completed result, pairing it with 'caviar'.
-- 'This turns out to be a real pike Easter.' Senya expresses this naturally by combining the word for 'straight' with 'real' and 'pike'.
-- 'Bring black food dye here.' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'here' and 'black'.
-- 'I found an excellent dye on the shelf.' Senya uses the action verb meaning 'found' to focus on the single completed result, pairing it with 'shelf' and 'excellent'.
-- 'Add the dye slowly and carefully.' Chef Barinov leads with the direct command form meaning 'add', pairing it with 'dye' and 'slowly'.
-- 'The caviar is already becoming completely black.' Senya expresses this naturally by combining the word for 'caviar' with 'already' and 'is becoming'.
-- 'Now stir all the caviar well with a spoon.' Chef Barinov leads with the direct command form meaning 'stir', pairing it with 'now' and 'well'.
-- 'It looks just like expensive black caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Not a single guest of the restaurant will notice anything.' The phrasing opens with 'one' before bringing in 'guest' and 'of the restaurant' to make the point clear.
-- 'You are simply a genius of culinary secrets, chef.' Russian omits the present-tense verb 'to be' here, linking 'simply' directly with 'genius', pairing it with 'culinary' and 'secrets'.
-- 'No one must know this secret.' Chef Barinov puts the word for 'secret' together with 'must' and 'to know' in a crisp, natural spoken turn of phrase.
+- 'Let us start dyeing this pike caviar.' Rolling up his sleeves, Barinov tells Senya it is time to dye the pike roe.
+- 'Do you want to turn it into black?' Senya asks in amazement if the chef really plans to paint yellow caviar black.
+- 'Yes, we will dye all of this caviar.' Viktor confirms that they are going to tint the entire batch.
+- 'This turns out to be a real pike Easter.' Laughing at the scheme, Senya jokes that it feels like dyeing eggs for Easter.
+- 'Bring black food dye here.' Barinov orders him to fetch the black food coloring from the pastry shelf.
+- 'I found an excellent dye on the shelf.' Senya returns with a bottle of dark natural food dye.
+- 'Add the dye slowly and carefully.' Viktor instructs him to pour the coloring in slowly and carefully.
+- 'The caviar is already becoming completely black.' Watching the bowl, Senya marvels as the yellow roe turns pitch black.
+- 'Now stir all the caviar well with a spoon.' Barinov tells him to stir the whole batch gently with a spoon.
+- 'It looks just like expensive black caviar.' Senya grins and says it looks indistinguishable from luxury sturgeon caviar now.
+- 'Not a single guest of the restaurant will notice anything.' Viktor is confident that not a single diner in the hall will suspect a thing.
+- 'You are simply a genius of culinary secrets, chef.' Impressed by the hustle, Senya calls the chef a culinary genius.
+- 'No one must know this secret.' Barinov warns him again that nobody outside this room can ever find out.

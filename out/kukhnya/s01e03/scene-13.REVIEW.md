@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, did you bring that special remedy?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, chef, this is a strong remedy.' Russian omits the present-tense verb 'to be' here, linking 'chef' directly with 'strong', combining 'chef' with 'strong' and 'remedy'.
-- 'This is brand new powerful medicine.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'How quickly does it start to act?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Very quickly, chef, literally right away.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'One pill solves all your problems.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what will be the exact effect?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I promise, the customer will not leave the toilet!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Excellent, the judge will remember this anniversary!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Shall we add the pill into her soup?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No, we will put the powder directly on the goose.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The main thing is that other guests do not get poisoned.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not fear, I will do everything personally.' Negative command form followed by a future promise with adverb of manner.
+- 'Senya, did you bring that special remedy?' Barinov asks about a specific substance.
+- 'Yes, chef, this is a strong remedy.' Senya confirms he has the potent item.
+- 'This is brand new powerful medicine.' Senya highlights the strength of the product.
+- 'How quickly does it start to act?' Barinov questions the speed of the effect.
+- 'Very quickly, chef, literally right away.' Senya assures him of immediate results.
+- 'One pill solves all your problems.' Senya boasts about the effectiveness.
+- 'And what will be the exact effect?' Barinov asks for specifics.
+- 'I promise, the customer will not leave the toilet!' Senya describes the extreme outcome.
+- 'Excellent, the judge will remember this anniversary!' Barinov anticipates a memorable event for their target.
+- 'Shall we add the pill into her soup?' Senya suggests a method of delivery.
+- 'No, we will put the powder directly on the goose.' Barinov decides on a different approach.
+- 'The main thing is that other guests do not get poisoned.' Senya voices a concern for collateral damage.
+- 'Do not fear, I will do everything personally.' Barinov takes charge of the delicate task.

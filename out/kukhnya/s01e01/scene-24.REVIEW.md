@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, a guest in the hall became very ill!' Vika rushes into the kitchen with alarming news.
-- 'What happened? This is not my dish!' The head chef angrily inspects the returned plate.
-- 'Chef, I cooked this dish.' Max steps forward to take full personal responsibility.
-- 'I replaced your dish with mine.' Max confesses his arrogant unauthorized swap.
-- 'How did you dare do such a thing?' Chef Barinov is incensed by the cook's insolence.
-- 'Remember once and for all: this is my kitchen!' The head chef fiercely reasserts absolute authority.
-- 'You endangered a human being's life!' Barinov emphasizes the gravity of the medical emergency.
-- 'Get out of here right now!' Chef Barinov uses the action verb meaning 'to go' to focus on the single completed result, pairing it with 'from here' and 'straight'.
-- 'Hello? Yes, Dima, I'm listening.' Barinov answers a sudden phone call from the restaurant owner.
-- 'What news from the hospital, speak quickly.' Here Chef Barinov anchors the line on the word meaning 'piece of news' and builds the thought around 'hospital' and 'to speak'.
-- 'What? The doctors discovered an aneurysm in him?' The examination unexpectedly revealed a hidden condition.
-- 'Does that mean this saved his life?' The allergic reaction led to timely medical intervention.
-- 'Chef, does that mean nobody died?' Max turns a statement into a question purely through rising intonation on the word meaning 'boss', pairing it with 'so' and 'to mean'.
-- 'Keep quiet, today you were simply incredibly lucky.' Barinov sternly warns Max of his lucky escape.
+- 'Chef, a guest in the hall became very ill!' Vika frantically alerts the kitchen to a medical emergency.
+- 'What happened? This is not my dish!' Chef Barinov denies any connection to the botched plate.
+- 'Chef, I cooked this dish.' Max bravely confesses to being the real author of the meal.
+- 'I replaced your dish with mine.' He admits to secretly swapping the food to win the bet.
+- 'How did you dare do such a thing?' Chef Barinov explodes with rage at the staggering insubordination.
+- 'Remember once and for all: this is my kitchen!' He ruthlessly reminds the young man who holds ultimate power.
+- 'You endangered a human being's life!' Chef Barinov points out the potentially fatal result of this stunt.
+- 'Get out of here right now!' He savagely fires the rookie on the spot.
+- 'Hello? Yes, Dima, I'm listening.' Chef Barinov takes a tense phone call from the owner.
+- 'What news from the hospital, speak quickly.' He demands an immediate update on the poisoned customer's status.
+- 'What? The doctors discovered an aneurysm in him?' Chef Barinov is shocked to hear about an entirely separate medical issue.
+- 'Does that mean this saved his life?' He realizes the allergic reaction inadvertently triggered a lifesaving scan.
+- 'Chef, does that mean nobody died?' Max breathes a massive sigh of relief at avoiding a murder charge.
+- 'Keep quiet, today you were simply incredibly lucky.' Chef Barinov furiously silences him, noting how narrowly disaster was averted.

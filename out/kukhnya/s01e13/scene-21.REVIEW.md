@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, the bumper is gone...' Elena delivers a punchy one-word reaction built around the Russian word meaning 'bumper'.
-- 'And the headlight is smashed.' Russian omits the present-tense verb 'to be' here, linking 'headlight' directly with 'broken', combining 'headlight' with 'broken'.
-- 'I am fine. I was not driving.' The phrasing opens with 'order' before bringing in 'was' and 'steering wheel' to make the point clear.
-- 'It is a long story...' Russian omits the present-tense verb 'to be' here, linking 'long' directly with 'history', combining 'long' with 'history'.
-- 'I will tell you later, okay?' Elena turns a statement into a question purely through rising intonation on the word meaning 'then', followed by 'will tell'.
-- 'All right, bye.' Elena leads with the direct command form meaning 'let's', followed by 'bye'.
-- 'Do not worry, I will fix everything.' Chef Barinov leads with the direct command form meaning 'worry', followed by 'to fix'.
-- 'I was only trying to help.' Chef Barinov expresses this naturally by combining the word for 'just' with 'wanted' and 'how'.
-- 'I can imagine what you would have done...' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If you meant to make things worse.' Elena uses the action verb meaning 'wanted' to focus on the single completed result, pairing it with 'how' and 'worse'.
-- 'Do you realize...' The phrasing opens with 'at all' before bringing in 'do you understand' to make the point clear.
-- 'I could file a complaint?' Elena chooses the action verb meaning 'can' for the ongoing action, followed by 'to write' and 'statement'. Now let's listen to the whole conversation again from start to finish.
+- 'Well, the bumper is gone...' Elena assesses the missing parts. She notes the front end is damaged.
+- 'And the headlight is smashed.' She inspects the rest of the destruction. Elena sees the light is shattered.
+- 'I am fine. I was not driving.' She reassures him about her safety. Elena clarifies she was not the one involved in the crash.
+- 'It is a long story...' Elena avoids giving a full explanation. She waves it off as too complicated.
+- 'I will tell you later, okay?' She promises to explain later. Elena asks for his patience.
+- 'All right, bye.' Elena hastily ends the conversation. She says a quick goodbye.
+- 'Do not worry, I will fix everything.' Chef Barinov tries to calm her down. He promises to repair all the damage himself.
+- 'I was only trying to help.' He offers a weak defense for his actions. Barinov claims his intentions were good.
+- 'I can imagine what you would have done...' Elena sarcastically contemplates his 'help'. She wonders about his true capabilities.
+- 'If you meant to make things worse.' She considers the alternative. Elena shudders to think what he would do if he meant harm.
+- 'Do you realize...' Elena checks if he understands the gravity of the situation. She demands his attention.
+- 'I could file a complaint?' She reminds him of her legal options. Elena threatens to make an official police report.

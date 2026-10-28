@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I worry.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'worry'.
-- 'Do not worry so much.' Max leads with the direct command form meaning 'worry' to make the point directly in conversation.
-- 'Why?' Vika asks this with a single word meaning 'why', using rising intonation to turn it into a quick question.
-- 'The main thing is that we are together.' The question word for 'what' comes right at the start, followed directly by 'together'. Vika answers straight away.
-- 'This is the main thing.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'important'.
-- 'For some it is easier to lose everything.' Here Max anchors the line on the word meaning 'simpler' and builds the thought around 'to lose'.
-- 'What for?' Vika asks this with a single word meaning 'what for', using rising intonation to turn it into a quick question.
-- 'In order to understand.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to understand'.
-- 'To understand what?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to understand'.
-- 'How dear it was.' Here Max anchors the line on the word meaning 'as far as' and builds the thought around 'was' and 'expensive'.
-- 'We do not need to lose.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to lose'.
-- 'No need.' Max delivers a punchy one-word reaction built around the Russian word meaning 'it is necessary'.
+- 'I worry.' Vika expresses her anxiety about the current situation.
+- 'Do not worry so much.' Max attempts to calm her down with a direct command.
+- 'Why?' Vika seeks a reason for his confidence.
+- 'The main thing is that we are together.' Max shifts the focus to the strength of their relationship.
+- 'This is the main thing.' Vika acknowledges his point and agrees.
+- 'For some it is easier to lose everything.' Max brings up a philosophical thought about loss.
+- 'What for?' Vika is confused and asks for clarification.
+- 'In order to understand.' Max explains the purpose behind losing things.
+- 'To understand what?' Vika probes further into his reasoning.
+- 'How dear it was.' Max clarifies that loss reveals true value.
+- 'We do not need to lose.' Vika insists that they should avoid such loss entirely.
+- 'No need.' Max agrees with her conclusion.

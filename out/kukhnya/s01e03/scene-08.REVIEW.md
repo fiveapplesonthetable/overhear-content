@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, we need to talk calmly.' Max puts the word for 'it is necessary' together with 'calmly' and 'to talk' in a crisp, natural spoken turn of phrase.
-- 'My personal life is none of your business.' Victoria establishes firm personal boundaries.
-- 'Let us not tell anyone anything.' Max clumsily suggests keeping their past encounter completely secret.
-- 'Are you afraid that I will tell colleagues?' Victoria questions his underlying anxiety with sharp skepticism.
-- 'Me? No, I do not care at all.' Russian omits the present-tense verb 'to be' here, linking 'at all' directly with 'equal', combining 'at all' with 'equal'.
-- 'There is nothing serious between us anyway.' Max makes the tactical mistake of trivializing their connection.
-- 'Oh, so that is how you speak now!' Victoria takes immediate offense at his dismissive attitude.
-- 'Vika, wait! Who is this young man?' Her ex-husband Vadim interrupts to demand an explanation.
-- 'Vadim, did you want to know the truth?' Victoria seizes the moment to solve two problems at once.
-- 'Yes, I want to know everything.' Vadim insists on clarity about her romantic status.
-- 'Here, meet my boyfriend.' Vika leads with the direct command form meaning 'meet', followed by 'boyfriend'.
-- 'This is my Max, we are together now!' Victoria shocks both men with her sudden declaration.
-- 'Very nice to meet you, esteemed Vadim.' Max awkwardly plays along with his unexpected new role.
+- 'Vika, we need to talk calmly.' Max awkwardly tries to initiate a conversation about keeping their secret.
+- 'My personal life is none of your business.' Vika sharply tells him to stay out of her private affairs.
+- 'Let us not tell anyone anything.' Max clumsily initiates a conversation about keeping their secret.
+- 'Are you afraid that I will tell colleagues?' Victoria is offended because she misunderstands his caution.
+- 'Me? No, I do not care at all.' Max denies caring about what their coworkers might think.
+- 'There is nothing serious between us anyway.' Attempting to minimize their relationship is a clumsy way to de-escalate the situation.
+- 'Oh, so that is how you speak now!' Victoria misinterprets his words and takes offense.
+- 'Vika, wait! Who is this young man?' Vadim interrupts the argument, demanding to know the identity of the young cook.
+- 'Vadim, did you want to know the truth?' Challenging the older man directly requires an offer of full honesty.
+- 'Yes, I want to know everything.' Stubborn insistence on hearing the unfiltered facts pushes the confrontation forward.
+- 'Here, meet my boyfriend.' Sarcastic introductions finally reveal the new romantic partner.
+- 'This is my Max, we are together now!' Vika proudly declares their relationship status just to spite the older man.
+- 'Very nice to meet you, esteemed Vadim.' Max tries to salvage the disastrous situation with excessive, terrified politeness.

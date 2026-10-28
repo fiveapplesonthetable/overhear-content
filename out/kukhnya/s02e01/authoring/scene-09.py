@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'Stranded outside after Victoria walks away, Max pulls out his phone and calls his best friend Kostya at the bar. He confesses that his attempt to talk to Victoria failed and begs Kostya to come outside and rescue him.'
 OPENER = 'Listen to Max calling Kostya for help after getting stuck outside.'
-TRANSITION = "Now listen to the phone call between Max and Kostya again. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Only a loyal friend like Kostya will drop his work at the bar to rescue Max from his latest blunder. Next time you watch the episode, listen for the Russian expressions for 'to hear' and 'to happen' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Ладно, жди там, сейчас приду.', 'Fine, wait there, I will come right now.', [(140, 'Костян')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Kostya, can you hear me?' Max turns a statement into a question purely through rising intonation on the word meaning 'hello?', followed by 'hear'."),
-    (1, None, "'Yes, Max, what happened to you?' Kostya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'happened'."),
-    (2, None, "'I have a big problem right now.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'now' with 'large' and 'problem'."),
+    (0, None, "'Hello, Kostya, can you hear me?' Stuck outside, Max calls Kostya and checks if he can hear him."),
+    (1, None, "'Yes, Max, what happened to you?' Kostya answers and asks what is going on."),
+    (2, None, "'I have a big problem right now.' Max confesses that he has landed himself in serious trouble."),
     (3, None, "'Did you already talk with Vika?' Kostya knows Max was trying to apologize to Victoria."),
-    (4, None, "'I wanted to talk with her seriously.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'But she just turned around and left!' Both past-tense verbs describe Victoria's quick exit."),
-    (6, None, "'Well then come back to the kitchen.' Kostya leads with the direct command form meaning 'return', pairing it with 'back' and 'kitchen'."),
+    (4, None, "'I wanted to talk with her seriously.' He explains that he wanted to have a serious talk with Vika."),
+    (5, None, "'But she just turned around and left!' Instead of listening, Vika simply turned on her heel and walked away."),
+    (6, None, "'Well then come back to the kitchen.' Not knowing about the handcuffs, Kostya tells him to just head back to the kitchen."),
     (7, None, "'That is the thing, I cannot!' This conversational phrase highlights the main problem."),
     (8, None, "'Why can you not come?' Kostya does not understand why Max is still outside."),
-    (9, None, "'Because I lost a small key.' Here Max anchors the line on the word meaning 'because' and builds the thought around 'lost' and 'short'."),
-    (10, None, "'What key did you lose?' The phrasing opens with 'more' before bringing in 'key' and 'lost' to make the point clear."),
-    (11, None, "'Kostya, come out to the street to me urgently!' Max leads with the direct command form meaning 'go out', pairing it with 'urgent' and 'street'."),
-    (12, None, "'Fine, wait there, I will come right now.' Kostya agrees to come and help him out."),
+    (9, None, "'Because I lost a small key.' Max sheepishly admits why he is stuck: he lost the little key."),
+    (10, None, "'What key did you lose?' Kostya is baffled and asks what key Max is talking about."),
+    (11, None, "'Kostya, come out to the street to me urgently!' Max begs Kostya to hurry out to the street and rescue him."),
+    (12, None, "'Fine, wait there, I will come right now.' Kostya agrees to come and help him out. Now listen to the phone call between Max and Kostya again."),
 ]

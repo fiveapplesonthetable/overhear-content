@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Try the new version of the dish.' Max uses a direct command command form of the verb meaning 'to try'.
-- 'Chef, the exit through the hall is closed.' Russian omits the present-tense verb 'to be' here, linking 'way out' directly with 'the hall', combining 'way out' with 'the hall' and 'is closed'.
-- 'We exit one person at a time.' Chef Barinov chooses the action verb meaning 'we are getting out' for the ongoing action, followed by 'alone' and 'person'.
-- 'Half goes through the hall.' Chef Barinov expresses this naturally by combining the word for 'half' with 'goes' and 'the hall'.
-- 'What kind of idiots are you?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'idiot'.
-- 'Quickly to my office.' Russian omits the present-tense verb 'to be', connecting 'quickly' directly with 'office'.
-- 'Good afternoon, Viktor Petrovich.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'.
-- 'I am a major of the migration service.' Russian omits the present-tense verb 'to be' here, linking 'major' directly with 'migration', combining 'major' with 'migration' and 'service'.
-- 'Can we go to the office?' , combining 'can' with 'take place' and 'office'.
-- 'Unfortunately, I cannot.' Here Chef Barinov anchors the line on the word meaning 'regret' and builds the thought around 'can'.
-- 'I need to cook for the guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, I will wait for you here.' , combining 'good' with 'will wait' and 'here'.
+- 'Try the new version of the dish.' Max shoves another plate forward, asking for a fresh taste test of his updated attempt.
+- 'Chef, the exit through the hall is closed.' Warning the boss, the young cook points out that their usual escape route is blocked.
+- 'We exit one person at a time.' Barinov takes control of the panic, ordering his team to leave the room singly.
+- 'Half goes through the hall.' Directing the flow of traffic, he tells fifty percent of them to take the main route.
+- 'What kind of idiots are you?' Losing his temper, the chef yells at his staff for acting foolishly during the crisis.
+- 'Quickly to my office.' Demanding immediate action, he tells them to rush into his private workspace.
+- 'Good afternoon, Viktor Petrovich.' Lanovsky enters politely, offering a formal greeting to the man in charge.
+- 'I am a major of the migration service.' Introducing himself, the visitor states his rank and government agency.
+- 'Can we go to the office?' Requesting a private space, the official asks if they can move into the back room.
+- 'Unfortunately, I cannot.' Barinov politely declines, claiming he is too tied up with his current duties.
+- 'I need to cook for the guests.' Providing an excuse, the chef explains that he has to finish preparing meals for the patrons.
+- 'Alright, I will wait for you here.' Lanovsky calmly accepts the delay, stating he is perfectly fine staying right where he is.

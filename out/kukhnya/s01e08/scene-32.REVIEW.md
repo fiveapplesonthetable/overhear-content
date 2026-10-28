@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Traitors and spies are all around!' Chef Barinov paces furiously in his private office.
-- 'Chef, nobody is plotting evil against you.' Here Max anchors the line on the word meaning 'boss' and builds the thought around 'to plot' and 'evil'.
-- 'You understand nothing about people, runt!' The head chef brushes off his advice immediately.
-- 'People often create problems for themselves.' Max expresses this naturally by combining the word for 'person' with 'often' and 'to create'.
-- 'Others mistakenly think the whole world is against them.' Max reflects on self-destructive paranoia in people.
-- 'They are simply jealous of my great talent!' Barinov claims his culinary skill invites jealousy.
-- 'But constant suspicions only ruin life.' Max urges openness instead of perpetual distrust.
-- 'Caution in the kitchen is never unnecessary.' The chef defends his paranoid habits on the job.
-- 'Sometimes it is useful to simply trust your cooks.' Max advocates for genuine teamwork in the restaurant.
-- 'I trust only my own frying pan.' Barinov grumbles about depending on other people in life.
-- 'With such a mood it is hard to enjoy life.' Max notes that cynicism darkens every single day.
-- 'Enough lecturing me, go chop onions!' The chef abruptly terminates the philosophical discussion.
-- 'Right away, chef, I am already running to the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fear prevents people from seeing the truth around them.' Here Max anchors the line on the word meaning 'fear' and builds the thought around 'to be in the way' and 'person'.
+- 'Traitors and spies are all around!' Barinov paces his office, convinced enemies surround him.
+- 'Chef, nobody is plotting evil against you.' Max calmly disagrees, assuring the chef that there are no secret plots.
+- 'You understand nothing about people, runt!' Barinov insults the rookie's understanding of human nature.
+- 'People often create problems for themselves.' Max notes that much of the suffering in life is self-inflicted.
+- 'Others mistakenly think the whole world is against them.' Max reflects on the destructive nature of unwarranted paranoia.
+- 'They are simply jealous of my great talent!' Barinov insists his genius makes him a target for envy.
+- 'But constant suspicions only ruin life.' Max argues that constant suspicion ruins a person's life.
+- 'Caution in the kitchen is never unnecessary.' Barinov defends his cautious approach to running a kitchen.
+- 'Sometimes it is useful to simply trust your cooks.' Max suggests that trusting the team might be more productive.
+- 'I trust only my own frying pan.' Barinov dismisses the advice and pours himself a drink.
+- 'With such a mood it is hard to enjoy life.' Max gives up and leaves the stubborn chef alone.
+- 'Enough lecturing me, go chop onions!' Barinov toasts to his own survival in a hostile world.
+- 'Right away, chef, I am already running to the kitchen.' Max enthusiastically accepts the demeaning task to escape the conversation.
+- 'Fear prevents people from seeing the truth around them.' Max comments on how paranoia blinds people to reality.

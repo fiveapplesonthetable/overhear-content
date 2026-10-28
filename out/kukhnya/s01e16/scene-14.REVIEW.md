@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Has anyone seen the spare key?' The verb for 'saw' is in the matching past tense, marked by the '-l' ending.
-- 'We do not know.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'And we have not seen it.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'saw'.
-- 'But, generally speaking...' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'at all'.
-- 'I am afraid I cannot help you.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'My staff lost the key.' Here the inspector anchors the line on the word meaning 'employees' and builds the thought around 'lost' and 'key'.
-- 'What a shame.' Russian omits the present-tense verb 'to be' here, linking 'what a' directly with 'annoyance', combining 'what a' with 'annoyance'.
-- 'Oh, oh, oh.' A crisp, everyday conversational reply meaning 'oh' that you will hear constantly in Russian dialogue.
-- 'So what are we to do?' the inspector puts the word for 'how' together with 'be' in a crisp, natural spoken turn of phrase.
-- 'I have a spare key.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'key'.
-- 'I always keep a duplicate.' The phrasing opens with 'always' before bringing in 'duplicate' and 'to keep' to make the point clear.
-- 'Ah, there is the key.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'he' straight to 'key'.
-- 'Found the key?' The verb for 'to turn up' is in the matching past tense, marked by the '-l' ending.
+- 'Has anyone seen the spare key?' Barinov pretends to look for a missing item, stalling for time while standing in front of the locked door.
+- 'We do not know.' Senya plays along with the boss's act, denying any knowledge of the missing object.
+- 'And we have not seen it.' Adding to the lie, the cook insists that they have not laid eyes on the item in question.
+- 'But, generally speaking...' The frustrated official tries to interject, clearly losing patience with the obvious delay tactics.
+- 'I am afraid I cannot help you.' Delivering a dismissive remark, the official states his inability to assist in the current situation.
+- 'My staff lost the key.' The speaker mentions that the workers have misplaced the tool needed to open the door.
+- 'What a shame.' Barinov reacts with exaggerated, theatrical disappointment to the news about the missing item.
+- 'Oh, oh, oh.' The chef continues his fake performance of distress with a series of theatrical sighs.
+- 'So what are we to do?' Asking a rhetorical question, the guest pushes them to find a solution to this convenient problem.
+- 'I have a spare key.' Barinov suddenly produces a solution, ending the charade of the lost item.
+- 'I always keep a duplicate.' The boss brags about his foresight, explaining why he conveniently had a backup ready.
+- 'Ah, there is the key.' Presenting the newly found object, the speaker makes a show of finally discovering it.
+- 'Found the key?' The officer responds with heavy sarcasm, clearly not believing the little performance he just watched.

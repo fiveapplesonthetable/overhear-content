@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you gone completely out of your mind, buddy?' A colloquial idiom expressing intense shock and alarm.
-- 'Why did you take this sharp knife?' Senya asks what possessed Max to touch the forbidden blade.
-- 'The chef left it on the table himself.' Max defends himself by noting where the knife was lying.
-- 'After all, he will simply slice you into pieces!' A hyperbolic warning of Chef Barinov's legendary temper.
-- 'I did not want to take someone else' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Listen to me very carefully right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We need to hide it from the chef urgently.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where can we hide this knife?' The directional question looks for a secret spot in the kitchen.
-- 'Hide it inside a big fresh fish!' An ingenious but absurd hiding place suggested by Senya.
-- 'Are you seriously suggesting hiding it in a fish?' Max questions whether the plan is completely crazy.
-- 'Nobody will definitely find it there.' The negative word pairs with the negated verb.
-- 'All right, I will put it in there quickly.' Max complies before the chef returns to the prep area.
-- 'Just do everything quietly and inconspicuously.' Paired adverbs instructing stealthy execution.
-- 'Nobody in the kitchen noticed anything.' A double negative confirming that the concealment succeeded. Alright, let's hear the whole thing once more.
+- 'Have you gone completely out of your mind, buddy?' Senya stares in absolute disbelief, accusing his foolish colleague of having completely lost his mind.
+- 'Why did you take this sharp knife?' Senya frantically demands to know why anyone would dare touch the most dangerous object in the kitchen.
+- 'The chef left it on the table himself.' Max tries to justify his mistake by claiming the boss carelessly abandoned the tool in plain sight.
+- 'After all, he will simply slice you into pieces!' Senya graphically illustrates the violent revenge the angry chef will inflict once he finds out.
+- 'I did not want to take someone else' Max weakly insists that he never intended to steal someone else's personal property.
+- 'Listen to me very carefully right now.' Senya takes charge of the crisis, ordering his panicking friend to pay close attention to his instructions.
+- 'We need to hide it from the chef urgently.' Senya declares that they must conceal the forbidden item immediately before disaster strikes.
+- 'Where can we hide this knife?' Max helplessly looks around for a safe spot to stash the incredibly dangerous piece of evidence.
+- 'Hide it inside a big fresh fish!' Senya suddenly hatches a ridiculously creative plan to stuff the blade inside a raw seafood carcass.
+- 'Are you seriously suggesting hiding it in a fish?' Max stares at his friend in utter confusion, unable to believe this absurd concealment strategy.
+- 'Nobody will definitely find it there.' Senya confidently guarantees that the inner cavities of a fish are the ultimate foolproof hiding spot.
+- 'All right, I will put it in there quickly.' Max reluctantly agrees to the bizarre scheme and prepares to shove the blade out of sight.
+- 'Just do everything quietly and inconspicuously.' Senya urgently whispers for absolute stealth so that no one catches them in the act.
+- 'Nobody in the kitchen noticed anything.' Max confirms that their stealthy maneuver went off without a hitch under the noses of the staff.

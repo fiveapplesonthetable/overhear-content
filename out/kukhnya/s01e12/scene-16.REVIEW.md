@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at what they hand out right at our door!' Chef Barinov leads with the direct command form meaning 'look', pairing it with 'hand out' and 'right'.
-- 'What is this strange bright paper?' Russian omits the present-tense verb 'to be' here, linking 'strange' directly with 'bright', followed by 'paper'.
-- 'Nearby a new restaurant is opening today.' The phrasing opens with 'nearby' before bringing in 'new' and 'restaurant' to make the point clear.
-- 'They call themselves the best restaurant in town.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They brazenly hand out advertisements to our guests!' Chef Barinov puts the word for 'brazenly' together with 'hand out' and 'advertising' in a crisp, natural spoken turn of phrase.
-- 'Could they really be promising tastier food?' Vika turns a statement into a question purely through rising intonation on the word meaning 'promise', pairing it with 'more' and 'tasty'.
-- 'They write that with them it is much better.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, you should not be so nervous.' Vika expresses this naturally by combining the word for 'need' with 'so' and 'greatly'.
-- 'I will go and chase away this insolent fellow.' Chef Barinov uses the action verb meaning 'will go' to focus on the single completed result, pairing it with 'will chase away' and 'insolent'.
-- 'We simply must show top quality.' Here Vika anchors the line on the word meaning 'simply' and builds the thought around 'must' and 'to show'.
-- 'Our restaurant is the best in all Moscow!' Russian omits the present-tense verb 'to be' here, linking 'restaurant' directly with 'the best' to make the point directly in conversation.
-- 'Not a single regular guest of ours will leave.' Vika expresses this naturally by combining the word for 'one' with 'regular' and 'guest'.
-- 'Let them try opening properly first!' Chef Barinov puts the word for 'first' together with 'try' and 'properly' in a crisp, natural spoken turn of phrase.
+- 'Look at what they hand out right at our door!' Barinov is outraged about flyers being handed out outside.
+- 'What is this strange bright paper?' Vika asks what the bright flyers are for.
+- 'Nearby a new restaurant is opening today.' Barinov explains that a new place is opening nearby today.
+- 'They call themselves the best restaurant in town.' Vika reads the flyer and sees they claim to be the best in town.
+- 'They brazenly hand out advertisements to our guests!' Barinov is furious that they are giving flyers to his own guests.
+- 'Could they really be promising tastier food?' Vika wonders if the new place is promising better food.
+- 'They write that with them it is much better.' Barinov reads that the flyer claims the new place is way better.
+- 'Chef, you should not be so nervous.' Vika tells him to calm down and not worry so much.
+- 'I will go and chase away this insolent fellow.' Barinov decides to go outside and chase the flyer guy away.
+- 'We simply must show top quality.' Vika says they just need to prove their high quality.
+- 'Our restaurant is the best in all Moscow!' Barinov loudly declares that their place is the absolute best.
+- 'Not a single regular guest of ours will leave.' Vika reassures him that their loyal customers will stay.
+- 'Let them try opening properly first!' Barinov dares the new restaurant to actually pull off a successful opening.

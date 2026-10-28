@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is simply some kind of real holiday!' Russian omits the present-tense verb 'to be' here, linking 'simply' directly with 'real', combining 'simply' with 'real' and 'holiday'.
-- 'The stove will return to the kitchen on time, Lyova.' A confident future tense promise meant to ease a colleague's worry about work.
-- 'I am simply worried about the evening service.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All right, chef, I will get back to work.' An optimistic predictive statement expressing high expectations of success for the business. Now, let's hear Chef Barinov celebrate his small triumph once more. Now let's listen to the whole conversation again from start to finish.
+- 'This is simply some kind of real holiday!' Barinov warmly brings the image through connecting 'this' and 'kind' as well as 'holiday'.
+- 'The stove will return to the kitchen on time, Lyova.' Barinov boldly casts some idea through grouping 'stove' with 'kitchen' along with 'lyova'.
+- 'I am simply worried about the evening service.' Lyova clearly shares this picture by grouping 'i' and 'about' and 'service'.
+- 'All right, chef, I will get back to work.' An optimistic predictive statement expressing high expectations of success for the business. Now, let's hear Chef Barinov celebrate his small triumph once more.

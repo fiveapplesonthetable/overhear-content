@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' Max delivers a punchy one-word reaction built around the Russian word meaning 'hello'.
+- 'Hello.' Opening the apartment door to a burly stranger, Max greets him politely.
 - 'Konstantin Anisimov?' Here, Nastya's father turns a statement into a question purely through rising intonation on the word meaning 'Konstantin', followed by 'Anisimov'.
-- 'Yes, that is me.' Russian omits the present-tense verb 'to be' here, linking 'yes' directly with 'this', combining 'yes' with 'this' and 'I'.
-- 'Are you here to fix the internet?' Max turns a statement into a question purely through rising intonation on the word meaning 'internet', followed by 'fix'.
+- 'Yes, that is me.' When the man asks for Konstantin Anisimov, Max carelessly says yes to sign for whatever it is.
+- 'Are you here to fix the internet?' Expecting a technician, Max asks if the man came to fix their internet.
 - 'I am Nastya's father.' The worst possible answer for Kostya's roommate.
-- 'If you hurt Nastya, I will turn you into sausage.' At this point, Nastya's father uses the action verb meaning 'to offend' to focus on the single completed result, pairing it with 'sausage' and 'I'll do'.
-- 'Wait.' Max leads with the direct command form meaning 'wait' to make the point directly in conversation.
-- 'You understood incorrectly.' Max expresses this naturally by combining the word for 'wrongly' with 'did you understand?'.
-- 'I am not Kostya.' Russian omits the present-tense verb 'to be' here, linking 'I' directly with 'not', combining 'I' with 'not' and 'Kostya'.
-- 'I am Max.' Russian omits the present-tense verb 'to be' here, linking 'I' directly with 'Max', combining 'I' with 'Max'.
-- 'And I am here to fix the internet.' The phrasing opens with 'internet' before bringing in 'fix' to make the point clear.
-- 'Which one of you is Konstantin?' Russian omits the present-tense verb 'to be' here, linking 'who' directly with 'from', combining 'who' with 'from' and 'you'.
+- 'If you hurt Nastya, I will turn you into sausage.' After revealing he is Nastya's father, the man threatens to turn 'Konstantin' into sausage if he ever hurts her.
+- 'Wait.' Terrified by the threat, Max tells the angry father to wait a second.
+- 'You understood incorrectly.' He scrambles to explain that there has been a huge misunderstanding.
+- 'I am not Kostya.' Max blurts out that he is not actually Kostya.
+- 'I am Max.' He introduces himself by his real name, Max.
+- 'And I am here to fix the internet.' Panicking further, Max even pretends he is only the internet repairman himself.
+- 'Which one of you is Konstantin?' Looking around the room in confusion, Max asks who is supposed to be Konstantin.
 - 'Me.' Meanwhile, Nastya's father delivers a punchy one-word reaction built around the Russian word meaning 'I'.

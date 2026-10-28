@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention everyone, in the kitchen is an important guest!' Barinov announces the arrival of their guest cook.
-- 'This is Chef Elena Pavlovna Sokolova.' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'chef', combining 'this' with 'chef' and 'Elena'.
-- 'Hello, dear chefs of the restaurant.' Elena addresses the gathered cooks with formal poise.
-- 'Today she works together with us.' Chef Barinov expresses this naturally by combining the word for 'today' with 'works' and 'together'.
-- 'I hope you know how to cook tasty and fast.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My guys know how to do absolutely everything!' Viktor proudly defends the competence of his staff.
-- 'Then why has Lyova been cooking soup for an hour already?' The phrasing opens with 'then' before bringing in 'why' and 'is cooking' to make the point clear.
-- 'Lyova, answer the chef quickly and clearly!' Chef Barinov leads with the direct command form meaning 'answer', pairing it with 'quickly' and 'clearly'.
-- 'Right, the waiter brought the first big order.' Elena turns her attention to the incoming tickets.
-- 'One veal, cod, and fresh salad!' Russian omits the present-tense verb 'to be' here, linking 'one' directly with 'veal', combining 'one' with 'veal' and 'cod'.
-- 'Is everything clear to everyone? Start cooking!' Chef Barinov leads with the direct command form meaning 'start', pairing it with 'clear' and 'cooking'.
-- 'I will personally check every finished dish.' Elena expresses this naturally by combining the word for 'personally' with 'will check' and 'finished'.
-- 'Don't boss around too loudly, Elena.' Viktor pushes back against her commanding tone in his domain.
-- 'A true chef always watches over quality!' Elena stands firm on rigorous culinary standards.
+- 'Attention everyone, in the kitchen is an important guest!' Barinov claps for attention, gathering his brigade to introduce their unexpected guest.
+- 'This is Chef Elena Pavlovna Sokolova.' He formally presents the rival head chef to the bewildered line cooks.
+- 'Hello, dear chefs of the restaurant.' Elena greets the team with a professional, slightly patronizing smile.
+- 'Today she works together with us.' Barinov explains the unusual arrangement for the day's service.
+- 'I hope you know how to cook tasty and fast.' Elena sets immediate high expectations, hoping they can actually cook.
+- 'My guys know how to do absolutely everything!' Barinov proudly defends his staff's universal competence.
+- 'Then why has Lyova been cooking soup for an hour already?' Elena immediately spots a flaw, pointing out a painfully slow soup preparation.
+- 'Lyova, answer the chef quickly and clearly!' Barinov barks at his sous-chef to justify the delay to their guest.
+- 'Right, the waiter brought the first big order.' Elena takes control as the first major ticket of the shift arrives.
+- 'One veal, cod, and fresh salad!' She rapidly fires off the required dishes, taking charge of the pass.
+- 'Is everything clear to everyone? Start cooking!' Barinov echoes her command, urging the team to get moving.
+- 'I will personally check every finished dish.' Elena warns them she will personally inspect every plate before it leaves.
+- 'Don't boss around too loudly, Elena.' Barinov quietly tells her to dial back her aggressive tone.
+- 'A true chef always watches over quality!' Elena ignores his advice, insisting that strict oversight is the only way.

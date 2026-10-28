@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know what is the main thing?' The question word for 'what' comes right at the start, followed directly by 'important'.
-- 'What?' Vika asks this with a single word meaning 'what', using rising intonation to turn it into a quick question.
-- 'The main thing is to cherish.' The phrasing opens with 'important' before bringing in 'to appreciate' to make the point clear.
-- 'Cherish what?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to appreciate'.
-- 'What we have.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'there is'.
-- 'Where?' Vika asks this with a single word meaning 'where', using rising intonation to turn it into a quick question.
-- 'Here.' Max delivers a punchy one-word reaction built around the Russian word meaning 'here'.
-- 'And when?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And now.' Max delivers a punchy one-word reaction built around the Russian word meaning 'now'.
-- 'Here and now.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'now', combining 'here' with 'now'.
-- 'Exactly.' Max delivers a punchy one-word reaction built around the Russian word meaning 'definitely'.
-- 'Good.' A crisp, everyday conversational reply meaning 'good' that you will hear constantly in Russian dialogue.
+- 'Do you know what is the main thing?' Max poses a rhetorical question to get her attention.
+- 'What?' Vika plays along and asks for the answer.
+- 'The main thing is to cherish.' Max states his main realization about appreciation.
+- 'Cherish what?' Vika wants him to be more specific.
+- 'What we have.' Max emphasizes valuing their current possessions and relationship.
+- 'Where?' Vika asks for clarification on the setting.
+- 'Here.' Max firmly grounds his thought in the present location.
+- 'And when?' Vika extends his thought to the concept of time.
+- 'And now.' Max completes her thought by emphasizing the present moment.
+- 'Here and now.' Vika summarizes their shared conclusion.
+- 'Exactly.' Max confirms she understood perfectly.
+- 'Good.' Vika is satisfied with this realization.

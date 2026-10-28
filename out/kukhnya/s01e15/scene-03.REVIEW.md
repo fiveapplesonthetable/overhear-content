@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is that noise early in the morning?' Russian omits the present-tense verb 'to be' here, linking 'noise' directly with 'morning', followed by 'a bit earlier'.
-- 'Who is calling me so early in the morning?' Chef Barinov chooses the action verb meaning 'is calling' for the ongoing action, followed by 'early' and 'this morning'.
-- 'Hello, Viktor Petrovich, are you up already?' , combining 'hello?' with 'already' and 'stood still'.
-- 'Of course, I have been up for a long time.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'for a long time', pairing it with 'already' and 'legs'.
-- 'You are lying to me, you are still sleeping!' the speaker chooses the action verb meaning 'are deceiving' for the ongoing action, followed by 'more' and 'are sleeping'.
-- 'I am cheerful and full of new strength.' Russian omits the present-tense verb 'to be' here, linking 'cheerful' directly with 'full', pairing it with 'new' and 'ofpower'.
-- 'Viktor Petrovich, you will be late for work!' the speaker uses the action verb meaning 'will be late' to focus on the single completed result, pairing it with 'job'.
-- 'Lyuba, leave me alone, I know my business.' Chef Barinov leads with the direct command form meaning 'leave alone', pairing it with 'know' and 'matter'.
-- 'The restaurant is opening soon for guests.' the speaker puts the word for 'restaurant' together with 'soon' and 'is opening' in a crisp, natural spoken turn of phrase.
-- 'You are the one who will be late for the shift today!' Chef Barinov uses the action verb meaning 'will be late' to focus on the single completed result, pairing it with 'today' and 'shift'.
-- 'And when will you arrive at the kitchen yourself?' The phrasing opens with 'when' before bringing in 'will arrive' and 'kitchen' to make the point clear.
-- 'And I am the chef, I will be a little late!' Chef Barinov expresses this naturally by combining the word for 'a bit' with 'will be delayed'.
+- 'What is that noise early in the morning?' Waking up feeling terrible, the boss grumbles about the loud sounds disturbing his rest.
+- 'Who is calling me so early in the morning?' Annoyed by the ringing phone, he questions who could possibly be bothering him at this hour.
+- 'Hello, Viktor Petrovich, are you up already?' Lyuba checks in on her boss, making sure he is awake and getting ready for the day.
+- 'Of course, I have been up for a long time.' Lying through his teeth, he pretends he has been active and alert for quite a while.
+- 'You are lying to me, you are still sleeping!' Seeing right through his bluff, she calls him out on his obvious attempt to deceive her.
+- 'I am cheerful and full of new strength.' Trying to sound energetic, he claims to be completely refreshed and ready to go.
+- 'Viktor Petrovich, you will be late for work!' She issues a stern warning about the time, reminding him of his responsibilities.
+- 'Lyuba, leave me alone, I know my business.' Brushing off her concerns, the chef insists he has everything completely under control.
+- 'The restaurant is opening soon for guests.' Highlighting the urgency, the caller points out that service is about to begin.
+- 'You are the one who will be late for the shift today!' Flipping the blame, he attempts to turn the accusation around on his employee.
+- 'And when will you arrive at the kitchen yourself?' Refusing to back down, she directly asks for his actual estimated time of arrival.
+- 'And I am the chef, I will be a little late!' Pulling rank, the boss excuses his own tardiness by relying on his authority.

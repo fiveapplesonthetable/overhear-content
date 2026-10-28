@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, I agree to this plan.' The short adjective expresses agreement and takes the preposition with an matching form everyday phrase.
-- 'Kostya has already been looking at you for a long time.' The adverb combination emphasizes an ongoing duration of action leading up to the present.
-- 'Of course, he likes you very much.' In Russian, the object of affection is the grammatical subject, while the admirer takes the matching word ending word.
-- 'Max will definitely regret his behavior.' The future tense verb governs the matching word ending with the self-directed form everyday word. Okay, let's hear the full supportive dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'Alright, I agree to this plan.' Nastya decides to go along with the devious idea.
+- 'Kostya has already been looking at you for a long time.' Sasha reveals a secret admirer who has been waiting in the wings.
+- 'Of course, he likes you very much.' Sasha assures her friend that the feelings are genuine.
+- 'Max will definitely regret his behavior.' Nastya eagerly anticipates the regret her ex will feel.

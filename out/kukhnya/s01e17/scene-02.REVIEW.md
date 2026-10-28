@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Витя, держи рыбу крепче! | Vitya, hold the fish tighter! | #33: Вить!<br>#34: Сынче, | verbatim |
+| 1 | Макс | Витя, держи рыбу крепче! | Vitya, hold the fish tighter! | #33: Вить!<br>#34: Сынче, | verbatim |
 | 2 | Макс | Шеф, я держу всё очень крепко. | Chef, I am holding everything very tightly. | new | new |
 | 3 | Шеф | Мы уже почти пришли в ресторан. | We have already almost arrived at the restaurant. | new | new |
 | 4 | Макс | Вы действительно пойдёте в соседний ресторан? | Will you really go to the neighboring restaurant? | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, hold the fish tighter!' Chef Barinov leads with the direct command form meaning 'here you go', pairing it with 'fish' and 'tighter'.
-- 'Chef, I am holding everything very tightly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We have already almost arrived at the restaurant.' The phrasing opens with 'already' before bringing in 'almost' and 'have come' to make the point clear.
-- 'Will you really go to the neighboring restaurant?' Max turns a statement into a question purely through rising intonation on the word meaning 'really', pairing it with 'will go' and 'neighboring'.
-- 'I have nothing better to do, Max.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They say they cook pretty good dishes there.' Max chooses the action verb meaning 'talks' for the ongoing action, followed by 'there' and 'are preparing'.
-- 'Who told you such foolishness?' Chef Barinov uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'such' and 'nonsense'.
-- 'A good friend of mine told me.' Max expresses this naturally by combining the word for 'one' with 'good' and 'friend'.
-- 'Your friend understands nothing about food.' Chef Barinov puts the word for 'friend' together with 'understands' and 'food' in a crisp, natural spoken turn of phrase.
-- 'Probably you are right, chef.' Russian omits the present-tense verb 'to be' here, linking 'probably' directly with 'right' to make the point directly in conversation.
-- 'Our restaurant is the best in the city.' Russian omits the present-tense verb 'to be' here, linking 'restaurant' directly with 'the most', pairing it with 'best' and 'town'.
-- 'I agree with you one hundred percent.' Russian omits the present-tense verb 'to be' here, linking 'agreed' directly with 'a hundred', followed by 'percent'.
-- 'Then quickly go work in the kitchen.' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'back then' and 'quickly'.
+- 'Vitya, hold the fish tighter!' Max barks an order to hold the fish tighter on their walk back.
+- 'Chef, I am holding everything very tightly.' Max protests that he is already gripping it as tight as he can.
+- 'We have already almost arrived at the restaurant.' Barinov points out they are almost at their restaurant anyway.
+- 'Will you really go to the neighboring restaurant?' Max questions if his boss really intends to visit the competing restaurant next door.
+- 'I have nothing better to do, Max.' Barinov sarcastically replies that he has nothing better to do.
+- 'They say they cook pretty good dishes there.' Max mentions rumors that the competitor prepares decent food.
+- 'Who told you such foolishness?' Barinov demands to know who has been spreading such nonsense.
+- 'A good friend of mine told me.' Max vaguely credits a good friend with the information.
+- 'Your friend understands nothing about food.' Barinov dismisses the source, claiming the friend understands nothing about food.
+- 'Probably you are right, chef.' Max quickly backs down and agrees with his boss.
+- 'Our restaurant is the best in the city.' Barinov proudly declares their establishment the best in the city.
+- 'I agree with you one hundred percent.' Max emphatically agrees one hundred percent.
+- 'Then quickly go work in the kitchen.' Barinov orders his apprentice to hurry up and get to work in the kitchen.

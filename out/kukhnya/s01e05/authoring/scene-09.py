@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Nastya, stop being so deeply upset!' Sasha tries to calm her distraught friend down."),
-    (1, None, "'It hurts me very much, he broke my heart.' Nastya confesses how wounded she feels by the sudden rejection."),
+    (1, None, "'It hurts me very much, he broke my heart.' Nastya confesses how wounded she feels by the rejection."),
     (2, None, "'Do you know how many more guys you will still have?' Sasha reminds her that she has a bright romantic future ahead."),
-    (3, None, "'I do not need others, I liked Max.' Nastya laments that she was genuinely interested in the new cook."),
+    (3, None, "'I do not need others, I liked Max.' Nastya laments that she was genuinely interested in him."),
     (4, None, "'Is it really worth falling apart over every one?' Sasha argues that no careless man is worth so many tears."),
     (5, None, "'I am afraid that they will deceive me again.' Nastya shares her deep fear of repeated heartbreak."),
-    (6, None, "'You are kind, beautiful, and very smart.' Sasha boosts Nastya's self-esteem with warm compliments."),
-    (7, None, "'Then why did he forget me so quickly?' Nastya struggles to comprehend Max's indifferent attitude."),
-    (8, None, "'Because he is a foolish and fickle guy.' Sasha bluntly assesses Max's immature behavior."),
+    (6, None, "'You are kind, beautiful, and very smart.' Sasha boosts her friend's self-esteem with warm compliments."),
+    (7, None, "'Then why did he forget me so quickly?' Nastya struggles to comprehend his indifferent attitude."),
+    (8, None, "'Because he is a foolish and fickle guy.' Sasha bluntly assesses the cook's immature behavior."),
     (9, None, "'I want him to understand his mistake.' Nastya shifts from despair to a sense of injured pride."),
-    (10, None, "'Now those are the right thoughts, my friend!' Russian omits the present-tense verb 'to be' here, linking 'already' directly with 'right', combining 'already' with 'right' and 'thoughts'."),
+    (10, None, "'Now those are the right thoughts, my friend!' Sasha praises this newfound sense of self-respect."),
     (11, None, "'Thank you so much for the warm support.' Nastya expresses heartfelt gratitude to her loyal friend."),
 ]

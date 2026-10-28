@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excellent tea!' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'excellent' straight to 'tea'.
-- 'And what kind of tea is this?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'tea'. Then Lyova responds.
-- 'This is Sencha.' Lyova delivers a punchy one-word reaction built around the Russian word meaning 'sencha'.
-- 'Good job, we are acting according to our plan.' Chef Barinov expresses this naturally by combining the word for 'well done' with 'to act' and 'plan'.
-- 'Come on, Kostyan, come on, come on!' The key word here means 'let's', which Lyova combines with 'Kostyan'.
-- 'Everything is understood.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'clear'.
-- 'Take care of the seventh table, please.' Lyova uses the action verb meaning 'to attend to' to focus on the single completed result, pairing it with 'seventh' and 'table'.
-- 'Victoria Sergeyevna, this is a note for you.' Kostya uses the polite everyday 'you' alongside 'you', keeping a formal or respectful register.
-- 'This tea calms very well.' Chef Barinov puts the word for 'tea' together with 'very much' and 'good' in a crisp, natural spoken turn of phrase.
-- 'I am glad that you liked it.' Here Lyova anchors the line on the word meaning 'glad' and builds the thought around 'pleased'.
-- 'Brew me one more cup.' Chef Barinov uses the action verb meaning 'brew' to focus on the single completed result, pairing it with 'more' and 'one'.
-- 'We will do everything now.' Lyova expresses this naturally by combining the word for 'now' with 'we'll do'.
-- 'And from whom is this note?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'note'.
-- 'Just pass it to Victoria Sergeyevna.' Lyova leads with the direct command form meaning 'pass on', followed by 'just'.
+- 'Excellent tea!' Tasting the cognac hidden in the cup, Barinov declares the tea excellent.
+- 'And what kind of tea is this?' Playing along for the cameras, Viktor asks what variety of tea it is. Then Lyova responds.
+- 'This is Sencha.' Lyova keeps a straight face and calls it 'Sencha' green tea.
+- 'Good job, we are acting according to our plan.' Cheered up immediately, Viktor praises the team and says they will stick to this plan.
+- 'Come on, Kostyan, come on, come on!' Meanwhile, Lyova urges Kostya to hurry up with Max's errand.
+- 'Everything is understood.' Kostya nods that he knows exactly what to do.
+- 'Take care of the seventh table, please.' To cover the handoff, Lyova tells Kostya to go serve table seven.
+- 'Victoria Sergeyevna, this is a note for you.' In the dining room, Kostya hands Max's dramatic note to Victoria.
+- 'This tea calms very well.' Back in the kitchen, Viktor jokes that this 'tea' is wonderfully soothing.
+- 'I am glad that you liked it.' Lyova smiles and says he is glad the chef liked the brew.
+- 'Brew me one more cup.' Viktor promptly orders another cup of the spiked tea.
+- 'We will do everything now.' Lyova promises to fix a fresh cup right away.
+- 'And from whom is this note?' Earlier at the bar, Kostya asks who the mysterious note is from.
+- 'Just pass it to Victoria Sergeyevna.' Lyova tells him not to ask questions and just hand it to Victoria.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Trying to leave the apartment unnoticed, Victoria awkwardly bumps into Nastya in the hallway outside the bathroom. Surprised to see her boss there, Nastya asks whether Victoria and Max are together, creating an uncomfortable and amusing encounter. Let's listen to their conversation in Russian."
 OPENER = "Let's look at how Nastya and Victoria navigate this awkward morning encounter in the hallway."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to greet a coworker unexpectedly, excuse a morning delay, and ask for discretion in Russian. Keep listening for these polite phrases in future scenes. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('nastya', 'Я никому ничего не скажу, обещаю.', 'I will not tell anyone anything, I promise.', [], ''),
 ]
 WALK = [
-    (2, None, "'Come in, I am already done.' A polite invitation indicating that the bathroom is free and ready for use."),
-    (4, None, "'Excuse me, I will be a little late today.' A courteous notice to a boss that she expects a delay."),
-    (8, None, "'Are you seeing Maxim now?' A curious question asking about the nature of a personal relationship."),
-    (12, None, "'I will not tell anyone anything, I promise.' A reassuring promise to keep the secret safe from others. Now, let's listen to their hallway exchange once again. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Come in, I am already done.' A polite invitation indicating that the bathroom is free and ready for use."),
+    (1, None, "'Excuse me, I will be a little late today.' A courteous notice to a boss that she expects a delay."),
+    (2, None, "'Are you seeing Maxim now?' A curious question asking about the nature of a personal relationship."),
+    (3, None, "'I will not tell anyone anything, I promise.' A reassuring promise to keep the secret safe from others. Now, let's listen to their hallway exchange once again."),
 ]

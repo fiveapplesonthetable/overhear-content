@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I did it.' The verb for 'did' is in the matching past tense, marked by that 'l' sound at the end.
-- 'What did you make?' The verb for 'did' is in the matching past tense, marked by that 'l' sound at the end.
-- 'I made your pâté.' Max uses the polite everyday 'you' alongside 'pâté', keeping a formal or respectful register.
-- 'My pâté?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'pâté'. Then Max responds.
-- 'It came out exactly the same.' Max uses the action verb meaning 'worked out' to focus on the single completed result, pairing it with 'one'.
-- 'I must taste it.' Here Chef Barinov anchors the line on the word meaning 'has to' and builds the thought around 'to taste'.
-- 'Even a little better.' Russian omits the present-tense verb 'to be' here, linking 'a little bit' directly with 'better', combining 'a little bit' with 'better'.
-- 'No way!' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'yes', followed by 'all right'.
-- 'Yeah.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue.
-- 'This is impossible.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'impossible'.
-- 'I am a good cook.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'chef', combining 'good' with 'chef'.
-- 'We will see.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'have a look'.
+- 'Chef, I did it.' Max bursts in with a proud announcement of his cooking success.
+- 'What did you make?' Confused by the sudden interruption, the boss asks for clarification.
+- 'I made your pâté.' The young cook reveals he successfully recreated the signature dish of the restaurant.
+- 'My pâté?' Disbelief colours the boss's reaction as he repeats the claim as a question.
+- 'It came out exactly the same.' Using a common idiom that translates to 'one to one', the rookie boasts about his perfect copy.
+- 'I must taste it.' Refusing to take his word for it, the expert insists on checking the results himself.
+- 'Even a little better.' Pushing his luck, the newcomer claims his version actually surpasses the original.
+- 'No way!' An exclamation of total disbelief is thrown back at the arrogant claim.
+- 'Yeah.' Standing his ground, the confident rookie confirms his bold statement.
+- 'This is impossible.' Still in denial, the master chef refuses to accept that his masterpiece could be duplicated.
+- 'I am a good cook.' A simple declaration of skill serves as the young man's ultimate defense.
+- 'We will see.' Barinov ends the exchange with a challenge, ready to put the dish to a taste test.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'Lyova accompanies Chef Viktor Barinov to work every morning to prevent him from buying alcohol along the way, warning him that new owner Igor Valentinovich has installed cameras in the kitchen.'
 OPENER = 'Outside the restaurant, Lyova sticks closely to Chef Viktor Barinov.'
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Lyova reveals the real reason he is keeping such a close eye on the Chef. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'follow' — you will catch every word right away. See you next time!"
 CLOSING = ('lyova', 'Пока!')
 STORY = [
@@ -30,13 +30,13 @@ STORY = [
     ('lyova', 'Это для вашего же блага.', "It's for your own good.", [], ''),
 ]
 WALK = [
-    (0, None, "'Are you going to follow me around every day?' the self-directed ending on the verb for 'follow' turns the action back onto the subject."),
-    (3, None, "'You' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'It's my duty to protect you from this.' The phrasing opens with 'debt' before bringing in 'to protect' to make the point clear."),
-    (5, None, "'You'll thank me for it yourself later.' Lyova expresses this naturally by combining the word for 'then' with 'still' and 'thank you'."),
-    (7, None, "'Lyova, I'm getting hammered anyway.' Chef Barinov puts the word for 'the same' together with 'get hammered' in a crisp, natural spoken turn of phrase."),
-    (8, None, "'Just to spite you and your boss.' Chef Viktor uses the informal everyday 'you' here with 'boss', as friends and close colleagues do. Then Lyova responds."),
-    (9, None, "'It won' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (10, None, "'Igor Valentinovich said they installed cameras at the restaurant.' Lyova uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'restaurant' and 'installed'."),
-    (11, None, "'It's for your own good.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'good'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Are you going to follow me around every day?' Barinov grumbles as Lyova shadows him all the way to work."),
+    (1, None, "'You' Lyova knows that left alone, the chef will buy liquor at every shop he passes."),
+    (2, None, "'It's my duty to protect you from this.' He insists it is his duty as sous-chef to protect Viktor from himself."),
+    (3, None, "'You'll thank me for it yourself later.' Lyova promises that Viktor will thank him for it later."),
+    (4, None, "'Lyova, I'm getting hammered anyway.' Viktor stubbornly vows that he is going to get drunk anyway."),
+    (5, None, "'Just to spite you and your boss.' He says he will do it just to spite both Lyova and the new boss. Then Lyova responds."),
+    (6, None, "'It won' Lyova warns him that sneaking a drink will not work anymore."),
+    (7, None, "'Igor Valentinovich said they installed cameras at the restaurant.' He reveals that Igor Valentinovich has had security cameras installed in the restaurant."),
+    (8, None, "'It's for your own good.' Lyova repeats that all these strict measures are for the chef's own good."),
 ]

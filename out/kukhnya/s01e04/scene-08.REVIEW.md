@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are your croutons, cream, and carrot.' Senya gathers the necessary supplies at the prep station.
-- 'Great, and where is the fresh onion?' Max checks his ingredient inventory before beginning.
-- 'Here is the onion, start boiling the soup.' Senya passes the last vegetable and urges him to start.
-- 'I will make the most delicious cream soup.' Max sets an ambitious culinary standard for his work.
-- 'The main thing is do not oversalt the broth on the stove.' Senya leads with the direct command form meaning 'oversalt', pairing it with 'the main thing' and 'broth'.
-- 'Do not worry, I know the exact recipe.' Max shows full confidence in his cooking abilities.
-- 'First chop the onion and carrot finely.' Senya outlines the proper knife technique for the mirepoix.
-- 'I will cut the vegetables into even pieces.' Max demonstrates his commitment to clean prep work.
-- 'Then add butter and warm cream.' Senya explains how to incorporate the dairy elements.
-- 'Everything will be ready on time, Senya.' Max promises reliable timing during dinner service.
-- 'I will come and check your dish.' Senya ensures strict quality control on the hot line.
-- 'You will be pleasantly surprised by this soup!' Max chooses the action verb meaning 'will be' for the ongoing action, followed by 'pleasantly' and 'surprised'.
+- 'Here are your croutons, cream, and carrot.' Senya hands over the ingredients needed for the dish.
+- 'Great, and where is the fresh onion?' Max asks for the missing vegetable.
+- 'Here is the onion, start boiling the soup.' Providing the missing item, the cook tells his coworker to begin.
+- 'I will make the most delicious cream soup.' Confidence radiates as the young chef promises an amazing meal.
+- 'The main thing is do not oversalt the broth on the stove.' A warning is given to be careful with the seasoning.
+- 'Do not worry, I know the exact recipe.' Reassuring his colleague, the cook claims to have the instructions memorized.
+- 'First chop the onion and carrot finely.' Detailed initial prep work is required.
+- 'I will cut the vegetables into even pieces.' Promising perfection, the newcomer vows to slice the ingredients evenly.
+- 'Then add butter and warm cream.' The next steps involve dairy.
+- 'Everything will be ready on time, Senya.' A guarantee is made that the task will be finished promptly.
+- 'I will come and check your dish.' Inspecting the final result will be necessary.
+- 'You will be pleasantly surprised by this soup!' Boasting about the flavor, the cook expects to impress his coworker.

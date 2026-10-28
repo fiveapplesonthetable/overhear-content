@@ -27,8 +27,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good morning to all early viewers of our show!' The upbeat TV host greets early risers brightly.
-- 'With you again is your favorite show Delicious Morning.' Russian omits the present-tense verb 'to be' here, linking 'again' directly with 'favourite', combining 'again' with 'favourite' and 'broadcast'.
-- 'Today we will prepare simple appetizing sunny-side-up eggs.' The phrasing opens with 'today' before bringing in 'to prepare' and 'simple' to make the point clear.
+- 'With you again is your favorite show Delicious Morning.' On the television screen the next morning, the cheerful host welcomes viewers back to 'Delicious Morning' — the very show Barinov turned down.
+- 'Today we will prepare simple appetizing sunny-side-up eggs.' The host announces that today's simple breakfast recipe is sunny-side-up eggs.
 - 'Every morning opens a new day before us.' Max reflects on the fresh possibilities of dawn.
 - 'We take fresh eggs and heat the frying pan.' The culinary demonstration begins on television.
 - 'Sometimes simple things turn out to be the most important.' Max realizes that life's joys are uncomplicated.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'In the dining room of Claude Monet, restaurant owner Dmitry Nagiyev checks the reservation book with hostess Angelina. Delighted to hear that all tables are booked solid, Nagiyev proudly declares that their restaurant needs no gimmicks to win over guests. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around A Packed House line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In the Claude Monet dining room, owner Dmitry Nagiyev inspects the reservation book with hostess Angelina, celebrating that every single table is booked for the evening. Next time you watch the episode, listen for the Russian expressions for 'perfectly' and 'window' — you will catch every word right away. See you next time!"
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
@@ -31,14 +31,14 @@ STORY = [
     ('nagiyev', 'Прекрасно, вечер обещает быть удачным!', 'Wonderful, the evening promises to be successful!', [], ''),
 ]
 WALK = [
-    (0, None, "'Angelina, how are our reservations today?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'Dmitry Vladimirovich, all tables are already booked.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'Yes, there are no more free tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'The guests will start arriving any minute.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (5, None, "'Look at that! It turned out just like I said.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'People love us just the way we are!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'Go prepare additional tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'We will place two more tables by the window.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'Great, today we have a full house!' — exclamatory adverb followed by an idiomatic possession phrase."),
-    (12, None, "'Wonderful, the evening promises to be successful!' — modal verb governing an basic verb form and matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Angelina, how are our reservations today?' Nagiyev asks Angelina about the table bookings for the evening."),
+    (1, None, "'Dmitry Vladimirovich, all tables are already booked.' Angelina informs him that every single table is reserved."),
+    (2, None, "'Yes, there are no more free tables.' Angelina confirms again that they are completely full."),
+    (3, None, "'The guests will start arriving any minute.' Angelina says the customers will start showing up very soon."),
+    (4, None, "'Look at that! It turned out just like I said.' Nagiyev brags that his predictions were completely right."),
+    (5, None, "'People love us just the way we are!' Nagiyev is proud that people love the restaurant exactly as it is."),
+    (6, None, "'Go prepare additional tables.' Nagiyev orders her to get extra tables ready for more guests."),
+    (7, None, "'We will place two more tables by the window.' Angelina plans to set up two extra tables near the windows."),
+    (8, None, "'Great, today we have a full house!' Nagiyev is thrilled that the restaurant will be packed tonight."),
+    (9, None, "'Wonderful, the evening promises to be successful!' Nagiyev happily predicts that the night will be a big success."),
 ]

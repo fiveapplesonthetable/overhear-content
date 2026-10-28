@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is this damn arugula lying?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Lyova, guests in the dining room await salad!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She found herself an errand boy!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not worry, the chef is just very nervous.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'First look for greens, then wash dishes!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are an experienced sous-chef, do not be so offended.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am a respected cook, not a loader!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Help me find this box quickly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Here it is, hidden behind old boxes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Great, take it and let us run to the kitchen!' Nastya leads with the direct command form meaning 'take', pairing it with 'great' and 'let us run'.
-- 'I cannot stand such strange rules.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The main thing is that guests receive their dishes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, let us go save our beloved restaurant.' Discourse word followed by an command form of motion.
+- 'Where is this damn arugula lying?' Lyova grumbles to himself in the dark, furious about his undignified search mission.
+- 'Lyova, guests in the dining room await salad!' Nastya runs down to hurry him up, stressing the mounting delays upstairs.
+- 'She found herself an errand boy!' He vents his anger about being treated like a lowly intern by the new boss.
+- 'Do not worry, the chef is just very nervous.' Nastya tries to excuse Elena's behavior as just high-pressure stress.
+- 'First look for greens, then wash dishes!' Lyova sarcastically predicts that he will be scrubbing pots next.
+- 'You are an experienced sous-chef, do not be so offended.' She urges him to swallow his pride because the restaurant needs his help.
+- 'I am a respected cook, not a loader!' He stubbornly defends his high rank and culinary prestige.
+- 'Help me find this box quickly.' Nastya ignores his wounded ego and asks for immediate practical assistance.
+- 'Here it is, hidden behind old boxes.' Lyova finally spots the missing ingredient tucked away in a corner.
+- 'Great, take it and let us run to the kitchen!' She grabs the box and tries to motivate him into a quick sprint back up.
+- 'I cannot stand such strange rules.' He complains one last time about the unbearable new regime.
+- 'The main thing is that guests receive their dishes.' Nastya gently reminds him that feeding the customers is their ultimate priority.
+- 'Alright, let us go save our beloved restaurant.' Lyova sighs and agrees to put his duty above his pride for the sake of the team.

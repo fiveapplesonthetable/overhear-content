@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry, why did they turn off the bright light here?' Chef Barinov puts the word for 'why' together with 'here' and 'turned off' in a crisp, natural spoken turn of phrase.
-- 'We must not spend money on electricity.' Here Nagiyev anchors the line on the word meaning 'must' and builds the thought around 'spend' and 'money'.
-- 'However, it is hard for cooks to prepare food in a dark hall!' The phrasing opens with 'cooks' before bringing in 'difficult' and 'to cook' to make the point clear.
-- 'On the other hand, our restaurant will save many useful rubles.' Nagiyev expresses this naturally by combining the word for 'restaurant' with 'will save' and 'a lot'.
-- 'Timur has just brought us fresh meat.' Chef Barinov puts the word for 'only' together with 'brought' and 'fresh' in a crisp, natural spoken turn of phrase.
-- 'This meat costs far too much expensive money!' Here Nagiyev anchors the line on the word meaning 'meat' and builds the thought around 'is parked' and 'too'.
-- 'However, he always provides the very best products.' Russian omits the present-tense verb 'to be' here, linking 'always' directly with 'best', followed by 'groceries'.
-- 'Buy only cheap meat using my money.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our guests will notice the poor quality of these dishes.' Chef Barinov puts the word for 'visitors' together with 'will notice' and 'bad' in a crisp, natural spoken turn of phrase.
-- 'Let the waiters light beautiful candles on the tables.' Here Nagiyev anchors the line on the word meaning 'waiters' and builds the thought around 'light' and 'beautiful'.
-- 'Candles will not help save a bad dinner.' The phrasing opens with 'candles' before bringing in 'will help' and 'to save' to make the point clear.
-- 'This is a wonderful and cheap romantic move!' Russian omits the present-tense verb 'to be' here, linking 'beautiful' directly with 'cheap', combining 'beautiful' with 'cheap' and 'romantic'.
-- 'You are becoming too greedy an owner, Dmitry!' Chef Barinov leads with the direct command form meaning 'are becoming', pairing it with 'too' and 'greedy'.
+- 'Dmitry, why did they turn off the bright light here?' Chef Barinov asks the owner why the kitchen is suddenly pitch black, demanding an explanation for the bizarre situation.
+- 'We must not spend money on electricity.' Nagiyev defends his insane cost-cutting measure, insisting they stop wasting funds on basic utilities.
+- 'However, it is hard for cooks to prepare food in a dark hall!' Chef Barinov points out the obvious safety hazards of wielding sharp knives in total darkness.
+- 'On the other hand, our restaurant will save many useful rubles.' Nagiyev ignores the safety concerns, completely focused on the tiny amount of money they are saving.
+- 'Timur has just brought us fresh meat.' Chef Barinov tries to bring up the delivery of high quality ingredients, hoping to change the subject.
+- 'This meat costs far too much expensive money!' Nagiyev immediately rejects the premium product, complaining about its high price tag.
+- 'However, he always provides the very best products.' Chef Barinov defends his supplier, arguing that the quality is worth the extra expense.
+- 'Buy only cheap meat using my money.' Nagiyev issues a direct order to sacrifice quality for the sake of his wallet.
+- 'Our guests will notice the poor quality of these dishes.' Chef Barinov warns that the wealthy patrons will absolutely taste the difference.
+- 'Let the waiters light beautiful candles on the tables.' Nagiyev suggests a ridiculous distraction, hoping mood lighting will make people forget about bad food.
+- 'Candles will not help save a bad dinner.' Chef Barinov dryly points out that romance cannot fix terrible cooking.
+- 'This is a wonderful and cheap romantic move!' Nagiyev praises his own terrible idea, entirely because it costs almost nothing.
+- 'You are becoming too greedy an owner, Dmitry!' Chef Barinov finally snaps, calling the boss out for his extreme and destructive stinginess.

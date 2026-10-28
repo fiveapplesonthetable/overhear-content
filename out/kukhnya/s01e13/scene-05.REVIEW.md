@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi to everyone.' Max enters the busy kitchen looking slightly guilty.
-- 'Boss, excuse me, I simply overslept.' He quickly offers an excuse for his lateness.
-- 'Such a thing will not happen again.' Max tries to sound very responsible and serious.
-- 'Today you are working in the stockroom.' The Chef does not hesitate to discipline him.
-- 'Oversleep one more time — I will fire you.' Chef Barinov puts the word for 'more' together with 'time' and 'oversleep' in a crisp, natural spoken turn of phrase.
-- 'But boss, I am an excellent cook.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'chef', combining 'excellent' with 'chef'.
-- 'A cook must arrive at work on time.' The Chef reminds him about basic professional discipline.
-- 'I promise to never be late again.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have said my word.' The stubborn Chef refuses to change his strict decision.
-- 'Victoria Sergeyevna, why are you so silent?' Here Chef Barinov anchors the line on the word meaning 'why' and builds the thought around 'are you silent'.
-- 'It is necessary to go to bed earlier to not oversleep.' The phrasing opens with 'it is necessary' before bringing in 'earlier' and 'go to bed' to make the point clear.
-- 'Here you see, she agrees with me.' The Chef feels completely justified in his harsh punishment.
+- 'Hi to everyone.' Max enters the busy kitchen looking slightly guilty. He offers a quick general greeting.
+- 'Boss, excuse me, I simply overslept.' He quickly offers an excuse for his lateness. Max admits he simply slept in.
+- 'Such a thing will not happen again.' Max tries to sound very responsible and serious. He promises it was a one-time mistake.
+- 'Today you are working in the stockroom.' The Chef does not hesitate to discipline him. Barinov instantly assigns him to the storeroom.
+- 'Oversleep one more time — I will fire you.' Chef Barinov delivers a harsh ultimatum. He threatens to fire Max if it happens again.
+- 'But boss, I am an excellent cook.' Max tries to appeal to his culinary skills. He thinks his talent should earn him some leniency.
+- 'A cook must arrive at work on time.' The Chef reminds him about basic professional discipline. Being on time is just as important as cooking.
+- 'I promise to never be late again.' Max pleads for another chance. He swears he will always be on time from now on.
+- 'I have said my word.' The stubborn Chef refuses to change his strict decision. Barinov says his word is final.
+- 'Victoria Sergeyevna, why are you so silent?' Chef Barinov turns to Vika for support. He wonders why she is not backing him up.
+- 'It is necessary to go to bed earlier to not oversleep.' Vika gives a cold, logical response. She indirectly tells Max to manage his time better.
+- 'Here you see, she agrees with me.' The Chef feels completely justified in his harsh punishment. He takes Vika's words as total agreement.

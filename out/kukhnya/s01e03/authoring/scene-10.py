@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "Having secretly replaced the missing live goose with a dressed market carcass, Max returns to face head chef Viktor Barinov. Barinov immediately questions why Max's apron is spotless without a single drop of blood, forcing Max to tell a shocking lie. Let's listen to their confrontation in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Lyova prepares the bird for roasting while Barinov begins preparing the special compliment. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'important' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Я спас птицу и свою работу.', 'I saved the bird and my job.', [], ''),
 ]
 WALK = [
-    (1, None, "'I have just finished it off!' Max announces proudly, pretending he personally slaughtered the goose."),
-    (3, None, "'There is not a drop of blood on you!' Russian omits the present-tense verb 'to be' here, linking 'drop' directly with 'of blood', combining 'drop' with 'of blood'."),
-    (6, None, "'Chef, I simply strangled it!' Max invents on the spot, creating a bizarre excuse."),
-    (9, None, "'Lyova, start preparing the goose quickly!' Barinov commands the sous-chef without further delay. Now listen to the full kitchen exchange once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'I have just finished it off!' Max announces he completed the task."),
+    (1, None, "'There is not a drop of blood on you!' Barinov points out the lack of mess."),
+    (2, None, "'Chef, I simply strangled it!' Max explains his clean method of killing."),
+    (3, None, "'Lyova, start preparing the goose quickly!' Barinov orders the cook to begin working on the bird."),
 ]

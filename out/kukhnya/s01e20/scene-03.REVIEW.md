@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya said that we are walking on a staircase.' Kostya uses the action verb meaning 'told' to focus on the single completed result, pairing it with 'are going' and 'stairs'.
-- 'And if we stop, then we will break.' Kostya uses the action verb meaning 'to stop' to focus on the single completed result, pairing it with 'to crash'.
-- 'I did not understand anything.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'understood?'.
-- 'And what did you not understand?' Max turns a statement into a question purely through rising intonation on the word meaning 'understood?' to make the point directly in conversation.
-- 'She is hinting at a wedding to you.' Max puts the word for 'wedding' together with 'to hint' in a crisp, natural spoken turn of phrase.
-- 'Come on, are you serious?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'seriously' to make the point directly in conversation.
-- 'Pretend that you did not understand anything.' The verb for 'understood?' is in the matching past tense, marked by the '-l' ending.
-- 'But I already did not understand anything.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'understood?'.
-- 'Well there, you will not even have to lie.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What is there? What did she send?' The '-a' ending on the past-tense verb for 'to send' shows that the subject is matching.
-- 'She sent me a photo of a beautiful ring.' Max uses the action verb meaning 'to send' to focus on the single completed result, pairing it with 'photo' and 'beautiful'.
-- 'She is hinting at an expensive gift to me.' Max expresses this naturally by combining the word for 'dear' with 'gift' and 'to hint'.
-- 'I need to work a year for it.' Max puts the word for 'year' together with 'to work' and 'it is necessary' in a crisp, natural spoken turn of phrase.
+- 'Nastya said that we are walking on a staircase.' Kostya recounts the confusing metaphor he just heard.
+- 'And if we stop, then we will break.' Kostya repeats the dramatic consequence she mentioned.
+- 'I did not understand anything.' Kostya admits his total bewilderment.
+- 'And what did you not understand?' Max is surprised by his friend's cluelessness.
+- 'She is hinting at a wedding to you.' Max bluntly explains the real meaning behind the words.
+- 'Come on, are you serious?' Kostya is shocked by this interpretation.
+- 'Pretend that you did not understand anything.' Max advises him to play dumb.
+- 'But I already did not understand anything.' Kostya points out that he is already genuinely clueless.
+- 'Well there, you will not even have to lie.' Max notes that this makes the deception much easier.
+- 'What is there? What did she send?' Kostya asks about a message on the phone.
+- 'She sent me a photo of a beautiful ring.' Max reveals a clear hint he received.
+- 'She is hinting at an expensive gift to me.' Max explains the financial implication of the hint.
+- 'I need to work a year for it.' Max complains about the required effort to afford it.

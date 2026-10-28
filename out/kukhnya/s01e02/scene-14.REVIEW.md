@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Viktoria Sergeyevna, did you call me?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Kostya, explain what this mess in the bar is?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There is no terrible mess here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why was a strange man standing behind the bar counter?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He is a specialist and was fixing our electronic register.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You left a stranger completely alone without supervision?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I stepped away to the kitchen for literally a minute.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And now look carefully at this shelf.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I see nothing unusual here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where then is our expensive cognac standing?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This cognac always stood right here.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The bottle is no longer in its place.' matching form of a negative existential sentence with a matching form everyday phrase.
+- 'Yes, Viktoria Sergeyevna, did you call me?' Kostya arrives and asks if Viktoria Sergeyevna called him.
+- 'Kostya, explain what this mess in the bar is?' Vika demands Kostya explain the mess in the bar.
+- 'There is no terrible mess here.' Kostya claims there is no terrible mess.
+- 'Why was a strange man standing behind the bar counter?' Vika asks why a strange man was standing behind the bar counter.
+- 'He is a specialist and was fixing our electronic register.' Kostya explains the man is a specialist fixing their electronic register.
+- 'You left a stranger completely alone without supervision?' Vika asks in disbelief if he left a stranger completely alone without supervision.
+- 'I stepped away to the kitchen for literally a minute.' Kostya defends himself, saying he stepped away to the kitchen for just a minute.
+- 'And now look carefully at this shelf.' Vika tells him to look carefully at the shelf.
+- 'I see nothing unusual here.' Kostya replies that he sees nothing unusual.
+- 'Where then is our expensive cognac standing?' Vika asks where their expensive cognac is.
+- 'This cognac always stood right here.' Kostya says the cognac has always been right there.
+- 'The bottle is no longer in its place.' Vika points out that the bottle is no longer in its place.

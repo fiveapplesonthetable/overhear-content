@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Шеф | А, налей-ка мне чашечку. | Oh, pour me a cup, would you? | #268: мне чашечку | verbatim |
 | 3 | Игорь | А, он закончился. | Oh, it is gone. | #269: он закончился | verbatim |
 | 4 | Игорь | Я сейчас скажу, вам принесут. | I will ask them to bring some. | #270: сейчас скажу, вам принесут | verbatim |
-| 5 | Шеф | Шеф, еще чаек. | Boss, more tea. | #271: Шеф, еще чаек | verbatim |
+| 5 | Игорь | Шеф, еще чаек. | Boss, more tea. | #271: Шеф, еще чаек | verbatim |
 | 6 | Игорь | Поражаюсь вам, Виктор Петрович. | I have to hand it to you, Viktor Petrovich. | #272: Поражаюсь вам | verbatim |
 | 7 | Игорь | Как у вас все схвачено. | You have got everything under control. | #273: все схвачено | verbatim |
 | 8 | Игорь | Стоило только подумать, вот пожалуйста. | You only had to think of it, and there it was. | #274: Стоило только подумать | verbatim |
@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, pour me a cup, would you?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'pour' straight to 'small cup'.
-- 'Oh, it is gone.' Notice the self-directed ending on the verb for 'ended', which directs the action back onto the subject.
-- 'I will ask them to bring some.' The phrasing opens with 'now' before bringing in 'I'll tell' and 'will bring' to make the point clear.
-- 'Boss, more tea.' Russian omits the present-tense verb 'to be' here, linking 'still' directly with 'tea', combining 'still' with 'tea'.
-- 'I have to hand it to you, Viktor Petrovich.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'be amazed'.
-- 'You have got everything under control.' the speaker uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'how' and 'under control'.
-- 'You only had to think of it, and there it was.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Oh, it has gone cold. I will brew a fresh pot.' Chef Barinov expresses this naturally by combining the word for 'oh' with 'has gone cold' and 'at all'.
-- 'That is all right.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'terrible'.
-- 'I do not like it hot.' The negative word sits directly before the verb for 'love' to negate the action. Now let's listen to the whole conversation again from start to finish.
+- 'Oh, pour me a cup, would you?' Feeling bold from the cognac, Barinov cheekily asks for another little cup.
+- 'Oh, it is gone.' Igor checks the teapot and notes that it is completely empty.
+- 'I will ask them to bring some.' Thinking it is ordinary tea, Igor offers to have the staff bring Viktor a fresh pot.
+- 'Boss, more tea.' Igor happily calls out for more of his special 'tea'.
+- 'I have to hand it to you, Viktor Petrovich.' Igor says he is amazed by how smoothly Viktor runs the kitchen even while sitting down.
+- 'You have got everything under control.' He remarks that Viktor seems to have the whole kitchen under control.
+- 'You only had to think of it, and there it was.' Another teapot appears the moment Viktor asks, impressing Igor.
+- 'Oh, it has gone cold. I will brew a fresh pot.' Realizing the new pot has actual tea or trying to keep Igor from tasting the cognac, Viktor claims it has gone cold.
+- 'That is all right.' Igor waves off the concern and says cold tea does not bother him.
+- 'I do not like it hot.' He adds that he prefers his tea not to be hot anyway — right before tasting the cognac.

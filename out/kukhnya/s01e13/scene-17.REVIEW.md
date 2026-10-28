@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Come in, I am already done.' A polite invitation indicating that the bathroom is free and ready for use.
 - 'Excuse me, I will be a little late today.' A courteous notice to a boss that she expects a delay.
 - 'Are you seeing Maxim now?' A curious question asking about the nature of a personal relationship.
-- 'I will not tell anyone anything, I promise.' A reassuring promise to keep the secret safe from others. Now, let's listen to their hallway exchange once again. Now let's listen to the whole conversation again from start to finish.
+- 'I will not tell anyone anything, I promise.' A reassuring promise to keep the secret safe from others. Now, let's listen to their hallway exchange once again.

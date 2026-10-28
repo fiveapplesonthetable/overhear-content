@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, Dmitry Vladimirovich is urgently calling you!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why does the owner call at this exact moment?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He said that this is a very urgent matter.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have known this man for a whole twenty years.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He is waiting for you right now near the hall.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our team is leading in the score two-nil!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I promise to attentively watch the football score.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If our team loses, I will punish you!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, I will not step away from the TV screen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, I will go and listen to Dmitry Nagiyev.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Good luck to you in the talk with our master!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Keep your eyes peeled and attentively watch the score!' Idiomatic command form phrase with coordinating conjunction, manner adverb, command form, and matching form.
+- 'Senya, don' Glued to the small television in the back room, Barinov snaps at Senya not to block the football match.
+- 'Chef, Dmitry Vladimirovich is urgently calling you!' Senya urgently reports that owner Dmitry Nagiyev is calling for the chef right now.
+- 'Why does the owner call at this exact moment?' Viktor groans, asking why the boss has to summon him in the middle of the game.
+- 'He said that this is a very urgent matter.' Senya says Nagiyev sounded dead serious and called it urgent.
+- 'I have known this man for a whole twenty years.' Viktor grumbles that he has known Nagiyev for twenty years and knows his dramatic habits.
+- 'He is waiting for you right now near the hall.' Senya reminds him that the owner is waiting right outside the dining room.
+- 'Our team is leading in the score two-nil!' Pointing at the screen, Viktor worries because the team he bet on is up two-nil.
+- 'I promise to attentively watch the football score.' Senya volunteers to keep his eyes glued to the score while the chef is gone.
+- 'If our team loses, I will punish you!' Superstitious as ever, Barinov warns that if the team blows the lead while he is out, he will blame Senya.
+- 'Chef, I will not step away from the TV screen.' Senya swears he will not take his eyes off the television screen.
+- 'Fine, I will go and listen to Dmitry Nagiyev.' Reluctantly tearing himself away, Viktor goes to see what Nagiyev wants.
+- 'Good luck to you in the talk with our master!' Senya wishes him luck with the boss.
+- 'Keep your eyes peeled and attentively watch the score!' Viktor tells him one last time to watch the score like a hawk.

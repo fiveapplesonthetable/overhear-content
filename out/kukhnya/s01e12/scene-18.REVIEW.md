@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Angelina, how are our reservations today?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Dmitry Vladimirovich, all tables are already booked.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, there are no more free tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The guests will start arriving any minute.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Look at that! It turned out just like I said.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'People love us just the way we are!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go prepare additional tables.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will place two more tables by the window.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Great, today we have a full house!' — exclamatory adverb followed by an idiomatic possession phrase.
-- 'Wonderful, the evening promises to be successful!' — modal verb governing an basic verb form and matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Angelina, how are our reservations today?' Nagiyev asks Angelina about the table bookings for the evening.
+- 'Dmitry Vladimirovich, all tables are already booked.' Angelina informs him that every single table is reserved.
+- 'Yes, there are no more free tables.' Angelina confirms again that they are completely full.
+- 'The guests will start arriving any minute.' Angelina says the customers will start showing up very soon.
+- 'Look at that! It turned out just like I said.' Nagiyev brags that his predictions were completely right.
+- 'People love us just the way we are!' Nagiyev is proud that people love the restaurant exactly as it is.
+- 'Go prepare additional tables.' Nagiyev orders her to get extra tables ready for more guests.
+- 'We will place two more tables by the window.' Angelina plans to set up two extra tables near the windows.
+- 'Great, today we have a full house!' Nagiyev is thrilled that the restaurant will be packed tonight.
+- 'Wonderful, the evening promises to be successful!' Nagiyev happily predicts that the night will be a big success.

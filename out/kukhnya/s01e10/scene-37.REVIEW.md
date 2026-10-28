@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, why did you lie to Tanya about me?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, I can explain everything in detail now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You, boy, picked the wrong girl today!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'And now we will put on a real fun show.' Max expresses this naturally by combining the word for 'now' with 'to arrange' and 'real'.
-- 'Hello, Tatyana, let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max, stop this silly circus immediately!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am the father of your future wonderful nephew!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are behaving like a complete madman!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We are now the closest family members.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I want to say something important to you all.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Vika, marry me right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are simply insolently and openly bluffing now!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I am speaking completely seriously in front of your sister!' Subject word with present verb, degree adverb, manner adverb, and matching form matching form everyday-noun phrase.
+- 'Vitya, why did you lie to Tanya about me?' Marching over to Viktor with Tanya, Vika demands to know why he told her sister that rumor.
+- 'Chef, I can explain everything in detail now.' Seeing his chance to push his counter-prank in front of witnesses, Max steps in and offers to explain everything.
+- 'You, boy, picked the wrong girl today!' Glaring at Max, Vika warns him that he picked the wrong woman to mess with today.
+- 'And now we will put on a real fun show.' Not backing down, Max whispers that it is time to put on a real show.
+- 'Hello, Tatyana, let' Turning to Tanya with a polite bow, Max introduces himself as Maxim.
+- 'Max, stop this silly circus immediately!' Mortified, Vika hisses at him to stop this ridiculous circus at once.
+- 'I am the father of your future wonderful nephew!' Playing the proud fiancé, Max announces to Tanya that he is the father of her future nephew.
+- 'You are behaving like a complete madman!' Vika tells him he is acting like a complete lunatic.
+- 'We are now the closest family members.' Max beams and tells Tanya that they are practically one big family now.
+- 'I want to say something important to you all.' Dropping to one knee or stepping forward dramatically, he asks for everyone's attention.
+- 'Vika, marry me right now!' Right in front of Tanya and Viktor, Max asks Vika to marry him on the spot.
+- 'You are simply insolently and openly bluffing now!' Knowing he is calling her bluff, Vika hisses that he is brazenly bluffing.
+- 'I am speaking completely seriously in front of your sister!' Max replies with a straight face that he is dead serious in front of her sister.

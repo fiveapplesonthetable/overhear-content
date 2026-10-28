@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let us also remove the wall in the toilet!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stop foolishly joking, this is an excellent idea.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where did this strange hookah come from here?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hookah has long become part of French culture.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We are a French restaurant, not a noisy bar!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Vitya, do not shout, our restaurant is changing.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why change what is already working excellently?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Life requires moving forward and fresh ideas.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will not allow ruining my dear kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You promised me complete freedom in the hall yourself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That is it, I am calling Nagiyev right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Call, the owner will fully support this new plan.' command form with subject noun, manner adverb, future verb, and matching form everyday phrase.
+- 'Let us also remove the wall in the toilet!' Barinov sarcastically suggests they take down the bathroom walls too.
+- 'Stop foolishly joking, this is an excellent idea.' Vika tells him to stop making silly jokes. She thinks the open kitchen is great.
+- 'Where did this strange hookah come from here?' Barinov is confused about why there is a hookah in the restaurant.
+- 'Hookah has long become part of French culture.' Vika claims that smoking hookah is now totally normal in France.
+- 'We are a French restaurant, not a noisy bar!' Barinov points out they run a classy place, not a loud bar.
+- 'Vitya, do not shout, our restaurant is changing.' Vika asks him to stop yelling and accept the changes.
+- 'Why change what is already working excellently?' Barinov wonders why they need to fix something that is not broken.
+- 'Life requires moving forward and fresh ideas.' Vika says you always need fresh ideas to keep moving forward.
+- 'I will not allow ruining my dear kitchen!' Barinov vows to protect his beloved kitchen from being ruined.
+- 'You promised me complete freedom in the hall yourself.' Vika reminds him that he gave her control over the dining area.
+- 'That is it, I am calling Nagiyev right now!' Barinov threatens to call the owner to settle the argument.
+- 'Call, the owner will fully support this new plan.' Vika tells him to go ahead because the owner will agree with her.

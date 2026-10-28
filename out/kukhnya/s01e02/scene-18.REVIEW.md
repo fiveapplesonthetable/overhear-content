@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, is it time to start preparing hot dishes?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Quiet, Senya! A decisive match is on right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Who is playing in this match today?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our great Spartak is playing against CSKA!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what is the score in the game now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A draw so far, but we must win!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Look, the ball is flying toward their goal!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Near the opponent penalty area CSKA is holding defense.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The Spartak forward receives a fast pass.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Come on, Ari with the ball shoots hard!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The goalkeeper catches this ball with difficulty.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What a dangerous and beautiful moment it was!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And now it is time to return to our kitchen.' Impersonal everyday construction with a directional basic verb form.
+- 'Chef, is it time to start preparing hot dishes?' Senya tentatively checks if the kitchen staff should fire up the stoves for the evening rush.
+- 'Quiet, Senya! A decisive match is on right now!' Barinov aggressively shushes his cook, refusing to pull his eyes away from the crucial sporting event.
+- 'Who is playing in this match today?' Senya tries to engage his boss by asking which teams are currently battling it out on the screen.
+- 'Our great Spartak is playing against CSKA!' Barinov passionately declares his allegiance to Spartak as they face off against their fierce rivals.
+- 'And what is the score in the game now?' Senya inquires about the current standings to understand why the chef is so tense.
+- 'A draw so far, but we must win!' Barinov nervously reports the tied score while expressing his desperate hope for a victory.
+- 'Look, the ball is flying toward their goal!' Senya gets caught up in the excitement, pointing out a sudden offensive play on the field.
+- 'Near the opponent penalty area CSKA is holding defense.' Barinov intensely narrates the defensive formation of the opposing team near the penalty box.
+- 'The Spartak forward receives a fast pass.' Senya describes the fast-paced action as the favored team's striker gains control of the ball.
+- 'Come on, Ari with the ball shoots hard!' Barinov screams encouragement at the television as his favorite player takes a powerful shot.
+- 'The goalkeeper catches this ball with difficulty.' Senya watches in suspense as the opposing goalie barely manages to block the impressive strike.
+- 'What a dangerous and beautiful moment it was!' Barinov exhales in sheer exhilaration at the breathtaking play he just witnessed.
+- 'And now it is time to return to our kitchen.' Senya gently reminds his superior that they still have a restaurant to run despite the exciting game.

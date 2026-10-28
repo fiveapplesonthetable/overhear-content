@@ -27,18 +27,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is my knife?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Who took my knife?' He demands to know who took it, using the past-tense verb for 'took'.
-- 'Chef, I didn' t take it.' The '-a' ending on the past-tense verb for 'took' shows that the subject is matching.
-- 'I repeat.' A single verb in the first person present showing that his patience is gone.
-- 'Who took my knife?' Chef Barinov uses the action verb meaning 'took' to focus on the single completed result, pairing it with 'knife'.
-- 'I don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nobody will go home from here.' A sweeping threat using a double negative, literally 'nobody from here home will not go'.
-- 'Until you find the knife.' Chef Barinov uses the action verb meaning 'find' to focus on the single completed result, pairing it with 'knife'.
-- 'Understood, chef.' Russian omits the present-tense verb 'to be' here, linking 'understood' directly with 'chef', combining 'understood' with 'chef'.
-- 'I will not cook anything.' The chef goes on strike, refusing to prepare food without his favorite tool.
-- 'Right, everyone, look for the knife.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Quick!' A one-word command urging everyone to move lively.
-- 'What is the problem?' Nastya asks casually, not yet grasping the gravity of the situation.
-- 'We will buy the same knife.' Nastya suggests a simple solution, offering to purchase a replacement.
-- 'And do you know what kind of knife this is?' The chef responds with disbelief that she thinks his prized blade can simply be bought in a store. Alright, let's hear the whole conversation once again. Now let's listen to the whole conversation again from start to finish.
+- 'And where is my knife?' Chef Barinov suddenly notices his favorite tool is missing from its spot.
+- 'Who took my knife?' He angrily questions the entire kitchen about the theft.
+- 'Chef, I didn't take it.' Nastya quickly denies any involvement in the disappearance.
+- 'I repeat.' Chef Barinov slowly grinds out a warning that he is losing patience.
+- 'Who took my knife?' He shouts the question again to the terrified room.
+- 'I don' Nastya nervously maintains her total ignorance of the situation.
+- 'Nobody will go home from here.' Chef Barinov dramatically holds the entire staff hostage.
+- 'Until you find the knife.' He sets an impossible condition for anyone leaving work today.
+- 'Understood, chef.' Nastya meekly accepts the dictator's outrageous decree.
+- 'I will not cook anything.' Chef Barinov completely halts all food production in protest.
+- 'Right, everyone, look for the knife.' He orders every single person to start hunting for his property.
+- 'Quick!' Chef Barinov barks a short command to get them moving instantly.
+- 'What is the problem?' Nastya remains utterly confused about why this is such a catastrophe.
+- 'We will buy the same knife.' She naively assumes a replacement can be easily purchased.
+- 'And do you know what kind of knife this is?' Chef Barinov stares at her in disbelief at her profound ignorance.

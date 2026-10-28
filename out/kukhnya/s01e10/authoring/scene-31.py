@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the kitchen of Claude Monet, cooks Senya and Fedya have bought cheap pike caviar to replace sturgeon caviar. To pull off the trick, Senya prepares special food dye to turn the golden caviar pitch black. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around The Secret Recipe line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In the kitchen, Senya and Fedya inspect the golden pike caviar and prepare black food coloring to disguise it as expensive sturgeon caviar. Next time you watch the episode, listen for the Russian expressions for 'of course' and 'colour' — you will catch every word right away. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
@@ -30,13 +30,13 @@ STORY = [
     ('senya', 'Отлично, получается настоящая осетровая икра!', 'Excellent, it is turning out like real sturgeon caviar!', [], ''),
 ]
 WALK = [
-    (0, None, "'Senya, are you sure about this idea?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'Of course, this is a brilliant plan!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (3, None, "'Now we will carefully dye it.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'I have a special black food coloring.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'And the guests will not notice anything?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'They will think that this is expensive caviar.' — future verb introducing an indirect statement."),
-    (9, None, "'Take the big spoon and stir.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'Look, the color is already starting to change.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (11, None, "'Excellent, it is turning out like real sturgeon caviar!' — everyday adverb with a self-directed form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Senya, are you sure about this idea?' When Fedya walks in on the caviar dyeing operation, he asks if Senya is sure about this crazy idea."),
+    (1, None, "'Of course, this is a brilliant plan!' Senya brushes off his worry and calls the plan pure genius."),
+    (2, None, "'Now we will carefully dye it.' He explains that they only need to tint the roe evenly."),
+    (3, None, "'I have a special black food coloring.' He holds up the bottle of natural black food coloring."),
+    (4, None, "'And the guests will not notice anything?' Still nervous, Fedya asks whether the wealthy guests will notice the swap."),
+    (5, None, "'They will think that this is expensive caviar.' Senya is sure the diners will think they are eating top-shelf sturgeon caviar."),
+    (6, None, "'Take the big spoon and stir.' He hands Fedya a big spoon and tells him to help stir."),
+    (7, None, "'Look, the color is already starting to change.' Watching the bowl darken, Fedya admits the color is transforming right before their eyes."),
+    (8, None, "'Excellent, it is turning out like real sturgeon caviar!' Senya declares triumphantly that it looks just like real black caviar now. Now listen to the full conversation once more."),
 ]

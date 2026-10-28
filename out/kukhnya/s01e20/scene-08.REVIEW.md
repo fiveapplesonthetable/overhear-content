@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my dear.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'expensive'.
-- 'It is not a good morning.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning'.
-- 'Why are you looking at me like that?' The phrasing opens with 'why' before bringing in 'are staring' to make the point clear.
-- 'I have been waiting for you to wake up.' The question word for 'when' comes right at the start, followed directly by 'wake up'.
-- 'Are you awake and wanting to play with me?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'wake up', pairing it with 'do you want' and 'to play for a bit'.
-- 'No, Kostya.' Russian omits the present-tense verb 'to be' here, linking 'no' directly with 'Kostya', combining 'no' with 'Kostya'.
-- 'Ah...' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'and'.
-- 'Did I do something wrong?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'did' to make the point directly in conversation.
-- 'You forgot what we discussed.' Nastya uses the action verb meaning 'forgot' to focus on the single completed result, pairing it with 'were discussing'.
-- 'I remember everything.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'remember'.
-- 'Then why are you joking?' Nastya uses the informal everyday 'you' here with 'are joking', as friends and close colleagues do.
-- 'I am just trying to be nice.' the self-directed ending on the verb for 'am trying' turns the action back onto the subject.
+- 'Good morning, my dear.' Kostya greets her warmly, combining the words for 'good' and 'morning' without any action word.
+- 'It is not a good morning.' Nastya coldly echoes his greeting, adding a 'not' right before 'good' to show her mood.
+- 'Why are you looking at me like that?' Kostya notices her glare and demands to know 'why' she is staring.
+- 'I have been waiting for you to wake up.' Nastya points out she has been waiting, putting 'when' right at the beginning of her sentence.
+- 'Are you awake and wanting to play with me?' Kostya tries to lighten the mood, turning his guess about her wanting to play into a playful question.
+- 'No, Kostya.' Nastya firmly shuts him down, simply pairing 'no' with his name.
+- 'Ah...' Kostya makes a brief noise of realization.
+- 'Did I do something wrong?' Kostya realizes he messed up, asking if he did something wrong with a rising tone.
+- 'You forgot what we discussed.' Nastya accuses him directly, highlighting that he completely 'forgot' their conversation.
+- 'I remember everything.' Kostya quickly defends himself with a single confident word meaning 'remember'.
+- 'Then why are you joking?' Nastya challenges him, using the casual 'you' to ask why he is messing around.
+- 'I am just trying to be nice.' Kostya explains his behavior, emphasizing that he is the one 'trying'.

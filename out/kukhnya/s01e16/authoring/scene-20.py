@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Marching the caught pastry chef into Chef Barinov's office, the migration inspector scolds Viktor Petrovich for trying to hide his undocumented staff. Instead of letting the restaurant off with a simple warning, the officer announces a steep fine and orders Louis to be sent back home. Let's listen to their confrontation in Russian."
 OPENER = "Let's see how the migration inspector delivers the bad news to Chef Barinov."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to talk about warnings, fines, and official consequences in Russian. Keep listening to see how the kitchen staff react to the aftermath. Next time you watch the episode, listen for the Russian expressions for 'to find' and 'cook' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('barinov', 'Как я буду работать без Луи?', 'How will I work without Louis?', [], ''),
 ]
 WALK = [
-    (2, None, "'You deceived me in vain, Viktor Petrovich.' The adverb at the start expresses that an effort was pointless or a mistake."),
-    (4, None, "'You should have confessed to everything right away.' An impersonal past construction expressing what ought to have been done."),
-    (8, None, "'Unfortunately, you will have to pay a fine.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (11, None, "'We will send this young man home.' A firm statement of future action using the matching word ending for the animate object. Now, let's listen to the entire office confrontation once again. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'You deceived me in vain, Viktor Petrovich.' Opening with the word 'zrya' meaning pointless or for nothing, the official scolds the chef for trying to lie."),
+    (1, None, "'You should have confessed to everything right away.' inspector points out that coming clean from the very beginning would have been the right move."),
+    (2, None, "'Unfortunately, you will have to pay a fine.' Delivering the bad news, the officer announces that a financial penalty is completely unavoidable."),
+    (3, None, "'We will send this young man home.' A stern promise is made to put the pastry cook on a plane back to his home country."),
 ]

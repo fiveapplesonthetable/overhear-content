@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this in my dessert?' the guest uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', followed by 'dessert'.
-- 'I almost broke a tooth because of you!' Here the guest anchors the line on the word meaning 'nearly' and builds the thought around 'a tooth' and 'broke'.
-- 'Please forgive us.' Louis uses a direct command command form of the verb meaning 'excuse me'.
-- 'First, learn to speak Russian!' the self-directed ending on the verb for 'learn' turns the action back onto the subject.
-- 'Why did you come here?' the guest puts the word for 'what for' together with 'here' and 'came' in a crisp, natural spoken turn of phrase.
-- 'So people would break their teeth?' , combining 'people' with 'to break' and 'tooth'.
-- 'I am the pastry chef, it is my fault.' Russian omits the present-tense verb 'to be' here, linking 'pastry chef' directly with 'of wine', combining 'pastry chef' with 'of wine'.
-- 'Leave the pastry chef alone.' Lyova uses a direct command command form of the verb meaning 'leave'.
-- 'And who are you?' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'you', combining 'and' with 'you' and 'who'.
-- 'I am the head chef of this restaurant.' Russian omits the present-tense verb 'to be' here, linking 'head chef' directly with 'restaurant', combining 'head chef' with 'restaurant'.
-- 'I am responsible for everything in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you have complaints against me?' Lyova uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'there is' with 'complaint'.
-- 'Here is my complaint, hold it.' the guest leads with the direct command form meaning 'hold', followed by 'complaint'.
-- 'Delicious dessert, thank you very much.' Russian omits the present-tense verb 'to be' here, linking 'delicious' directly with 'dessert', combining 'delicious' with 'dessert' and 'big'.
+- 'What is this in my dessert?' The guest angrily confronts Louis. He demands to know what is in his dessert.
+- 'I almost broke a tooth because of you!' He exaggerates the danger of the situation. The guest claims he nearly broke a tooth.
+- 'Please forgive us.' Louis apologizes profusely. He begs for forgiveness for the terrible mistake.
+- 'First, learn to speak Russian!' The guest insults Louis's language skills. He rudely tells him to learn Russian first.
+- 'Why did you come here?' He questions why Louis is even in the country. The guest asks why he came here.
+- 'So people would break their teeth?' The guest continues his aggressive rant. He asks if Louis came just to break people's teeth.
+- 'I am the pastry chef, it is my fault.' Louis tries to take full responsibility. He admits he is the pastry chef and it is his fault.
+- 'Leave the pastry chef alone.' Lyova steps in to defend his colleague. He orders the guest to leave the pastry chef alone.
+- 'And who are you?' The guest turns his anger on Lyova. He aggressively asks who Lyova thinks he is.
+- 'I am the head chef of this restaurant.' Lyova boldly claims authority. He states that he is the head chef of the restaurant.
+- 'I am responsible for everything in the kitchen.' He explains his role to the angry guest. Lyova says he is responsible for everything in the kitchen.
+- 'Do you have complaints against me?' Lyova challenges the guest directly. He asks if the man has any complaints against him.
+- 'Here is my complaint, hold it.' The guest hands over the evidence. He tells Lyova to hold his complaint.
+- 'Delicious dessert, thank you very much.' Louis is incredibly grateful for the rescue. He thanks Lyova very much for stepping in.

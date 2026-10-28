@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Go to the bar and bring cognac.' The chef uses two command form verbs joined by the conjunction 'and' to give clear orders to his cook.
-- 'I wrote the name on this piece of paper.' The past tense verb indicates completed action, and the preposition specifies the location.
-- 'Go to the bar to keep up appearances.' This Russian idiom means doing something purely as a diversion so nobody suspects the truth.
-- 'And stuff the fish with julienne and lemon.' The verb is in a direct command, followed by the direct object the matching word ending. Okay, let's hear the full kitchen exchange once more. Now let's listen to the whole conversation again from start to finish.
+- 'Go to the bar and bring cognac.' Barinov quietly assigns a covert mission to his subordinate.
+- 'I wrote the name on this piece of paper.' Barinov provides written instructions to avoid mistakes.
+- 'Go to the bar to keep up appearances.' Barinov reminds him to act naturally so nobody suspects anything.
+- 'And stuff the fish with julienne and lemon.' Barinov throws in a legitimate cooking task as a cover story.

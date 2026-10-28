@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I heard you really need money.' Sasha knows Max has been struggling to pay his share of the rent.
-- 'After all, you need to pay for the apartment.' Here Sasha anchors the line on the word meaning 'it is necessary' and builds the thought around 'to pay' and 'flat'.
-- 'Here, please, take this money.' Sasha leads with the direct command form meaning 'take', followed by 'money'.
-- 'Alright, I will go home, bye!' Sasha uses the action verb meaning 'go' to focus on the single completed result, pairing it with 'home' and 'bye'.
-- 'Until tomorrow, thank you, Sasha!' Russian omits the present-tense verb 'to be' here, linking 'tomorrow' directly with 'thank you', combining 'tomorrow' with 'thank you'.
+- 'After all, you need to pay for the apartment.' As they pull up to his building, Sasha reminds Max that his rent is due.
+- 'Here, please, take this money.' She holds out an envelope of cash and tells him to take it.
+- 'Alright, I will go home, bye!' Before he can refuse, she says a quick goodbye to head home.
+- 'Until tomorrow, thank you, Sasha!' Touched by her generosity, Max thanks Sasha and says goodbye until tomorrow.
 - 'So, did Sasha already leave?' Kostya checks if their guest has gone in this scene.
 - 'Yes, I am not in a good mood today.' Max feels embarrassed about borrowing money from Sasha.
-- 'Take the money for the apartment on the table.' Max leads with the direct command form meaning 'take', pairing it with 'table' and 'money'.
+- 'Take the money for the apartment on the table.' Inside the apartment, Max tells Kostya to grab the rent money sitting on the table.
 - 'Whoa, where is so much money from?' Kostya did not expect Max to have the money ready.
 - 'Did you sell your expensive ring?' Kostya wonders if Max sold the ring he bought earlier.
 - 'No, Sasha just gave it to me.' Max honestly tells him where the money came from.
 - 'Nice, you have set yourself up very well!' Kostya jokes that Max has a very convenient arrangement.
-- 'Kostya, stop joking about me!' Max is not amused by Kostya's teasing.
+- 'Kostya, stop joking about me!' Max is not amused by Kostya's teasing. Now listen to the whole apartment scene again.

@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We already have three returned dishes!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The cooks cannot serve anything on time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Elena Pavlovna, what happened here?' — addressing a person with polite name and patronymic.
-- 'Chef, I am not coping at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Calm down, now I will restore order.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fedya, go have a smoke for three minutes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He needs a smoke break every hour and a half.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Senya, switch to preparing meat.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He does not know how to cook poultry at all.' — stating inability using an intensifying adverb.
-- 'Louis, call your friend for two minutes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Because he never knows how to do anything.' — double negation highlighting permanent incompetence.
-- 'Mazar, you are fired!' — a short decisive dismissal in the short passive form.
-- 'Now the kitchen works perfectly.' — pointing word and temporal adverb declaring success. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'We already have three returned dishes!' Elena panics over the high number of rejected plates.
+- 'The cooks cannot serve anything on time.' Elena complains that the brigade is moving too slowly.
+- 'Elena Pavlovna, what happened here?' Barinov casually walks in and asks about the situation.
+- 'Chef, I am not coping at all.' Elena confesses her total failure to manage the rush.
+- 'Calm down, now I will restore order.' Barinov calmly promises to fix the mess in seconds.
+- 'Fedya, go have a smoke for three minutes.' Barinov sends one cook outside for a quick break.
+- 'He needs a smoke break every hour and a half.' Barinov knows this cook needs regular time away to function.
+- 'Senya, switch to preparing meat.' Barinov reassigns another cook to a different station.
+- 'He does not know how to cook poultry at all.' Barinov points out the cook's complete inability to handle birds.
+- 'Louis, call your friend for two minutes.' Barinov orders the pastry chef to make a personal call.
+- 'Because he never knows how to do anything.' Barinov insults the pastry chef's overall culinary competence.
+- 'Mazar, you are fired!' Barinov fires the weakest link without a second thought.
+- 'Now the kitchen works perfectly.' Barinov proudly declares that the kitchen is back to normal.

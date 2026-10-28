@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, quickly speak, what is the matter!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Vika, please, stop scaring me!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Kostya, quickly speak, what is the matter!' Vika forces him to spill the secret.
+- 'Vika, please, stop scaring me!' Kostya begs her to stop intimidating him.
 - 'Or I will transfer Nastya to another shift!' Victoria issues a direct threat regarding staff scheduling to force compliance.
-- 'All right, I will tell you everything right now!' The cornered bartender capitulates with a future tense verb.
-- 'I am listening attentively to your confession.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max found out your secret from Alice.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What secret did that fool find out?' Victoria expresses exasperation using an everyday word and a derogatory noun.
-- 'He thinks that you love him!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And why did he start hiding now?' Victoria seeks clarification with a compound past verb phrase.
-- 'He got scared of a wedding and little kids!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Poor cowardly Maxik, got scared of kids.' Victoria reacts with amused condescension using diminutive forms.
+- 'All right, I will tell you everything right now!' Kostya gives in and agrees to talk.
+- 'I am listening attentively to your confession.' Vika waits eagerly for the revelation.
+- 'Max found out your secret from Alice.' Kostya reveals that 'Alice' told 'Max'.
+- 'What secret did that fool find out?' Vika asks what exactly he knows.
+- 'He thinks that you love him!' Kostya shares the misunderstanding about love.
+- 'And why did he start hiding now?' Vika wonders why this causes hiding.
+- 'He got scared of a wedding and little kids!' Kostya explains the fear of commitment.
+- 'Poor cowardly Maxik, got scared of kids.' Vika mocks 'Maxik' for being afraid.
 - 'Thank you for not touching Nastya's shift!' Kostya expresses gratitude for preserving his shared work hours.

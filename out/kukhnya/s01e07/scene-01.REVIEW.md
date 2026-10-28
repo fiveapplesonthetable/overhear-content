@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have been living in Moscow for two weeks already.' Max opens the conversation with a temporal phrase.
-- 'Have you already gotten used to life in Moscow?' Kostya asks about adapting to the big city using a matching form construction.
-- 'I came here from Voronezh for a dream.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And now you work in the best restaurant.' Kostya notes his friend's achievement with a superlative adjective.
-- 'Claude Monet restaurant is the most famous in the city.' Max praises the establishment using a compound superlative.
-- 'Here there are very strict rules and an expensive menu.' Kostya highlights the demanding kitchen atmosphere.
-- 'But for me this is wonderful experience.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'And where did you find yourself housing?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I live right in the center of the city.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Apartments in the center cost huge money.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And I do not pay a single kopeck!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'That sounds very strange and suspicious.' Kostya expresses doubt using paired adverbs of judgment.
-- 'I have one secret plan.' Max finishes with a mysterious hint about his unconventional lodging.
+- 'I have been living in Moscow for two weeks already.' Max points out how long he has been in the capital.
+- 'Have you already gotten used to life in Moscow?' Kostya wonders if his friend has settled into the rhythm of the big city.
+- 'I came here from Voronezh for a dream.' He speaks of his arrival as a grand pursuit of a life goal.
+- 'And now you work in the best restaurant.' The bartender reminds him that he has already landed a job at the top spot.
+- 'Claude Monet restaurant is the most famous in the city.' Claude Monet is indeed widely known, and Max makes sure to emphasize its prestige.
+- 'Here there are very strict rules and an expensive menu.' Working there comes with intense pressure and high prices, as Kostya notes.
+- 'But for me this is wonderful experience.' For the ambitious young cook, the strict environment is a valuable learning opportunity.
+- 'And where did you find yourself housing?' Kostya shifts the topic to the reality of finding an apartment.
+- 'I live right in the center of the city.' He proudly announces that he resides right in the heart of Moscow.
+- 'Apartments in the center cost huge money.' Kostya says this because real estate in the city center is incredibly expensive.
+- 'And I do not pay a single kopeck!' Max boasts about living rent-free, not spending a single coin.
+- 'That sounds very strange and suspicious.' This claim sounds completely unbelievable to the seasoned bartender.
+- 'I have one secret plan.' A mysterious scheme is keeping Max off the streets, but he keeps it vague.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, cooks, place bets and sign up!' Senya acts as the bookmaker for the culinary battle.
-- 'Now Fedya and Max will prepare a dish each.' Here Senya anchors the line on the word meaning 'now' and builds the thought around 'will prepare' and 'dish'.
-- 'And the chef will taste and choose the winner.' Senya uses the action verb meaning 'will taste' to focus on the single completed result, pairing it with 'will choose' and 'winner'.
-- 'What is the main ingredient for our dish?' Max asks about the mystery basket ingredient.
-- 'The main ingredient of today's contest is cod!' Russian omits the present-tense verb 'to be' here, linking 'main' directly with 'ingredient', combining 'main' with 'ingredient' and 'of today's'.
-- 'You are finished, runt!' Russian omits the present-tense verb 'to be' here, linking 'end' directly with 'runt', combining 'end' with 'runt'.
-- 'I have cooked all the fish in the ocean!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I also know how to cook fish.' Max expresses this naturally by combining the word for 'fish' with 'also' and 'know how'.
-- 'We will see your pathetic skills.' Fedya uses the action verb meaning 'we will see' to focus on the single completed result, pairing it with 'pathetic' and 'skills'.
-- 'Who bets five hundred rubles on Fedya?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'So, cooks, place bets and sign up!' Senya acts as the bookmaker for the kitchen showdown.
+- 'Now Fedya and Max will prepare a dish each.' Senya lays out the rules for the upcoming duel.
+- 'And the chef will taste and choose the winner.' Senya explains how the winner will be chosen.
+- 'What is the main ingredient for our dish?' Max asks for the parameters of the challenge.
+- 'The main ingredient of today's contest is cod!' Senya reveals the mandatory ingredient to everyone.
+- 'You are finished, runt!' Fedya arrogantly tells his opponent to give up now.
+- 'I have cooked all the fish in the ocean!' Fedya brags about his vast experience with seafood.
+- 'I also know how to cook fish.' Max calmly asserts his own competence.
+- 'We will see your pathetic skills.' Fedya scoffs at the rookie's supposed abilities.
+- 'Who bets five hundred rubles on Fedya?' Senya tries to drum up more action for the betting pool.
 - 'All the cooks in the kitchen bet on me.' Fedya revels in the universal support of his colleagues.
 - 'And I will prove my talent anyway!' Max stays determined despite being the underdog.
-- 'Time has started, begin cooking right now!' Senya puts the word for 'time' together with 'started' and 'begin' in a crisp, natural spoken turn of phrase.
-- 'I will make the best sauce.' Max uses the action verb meaning 'will make' to focus on the single completed result, pairing it with 'best' and 'sauce'.
+- 'Time has started, begin cooking right now!' Senya officially kicks off the cooking competition.
+- 'I will make the best sauce.' Max confidently promises to deliver a winning component.

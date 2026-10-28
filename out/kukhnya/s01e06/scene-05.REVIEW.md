@@ -27,20 +27,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, guys!' Max walks into the locker room before the shift.
-- 'How are your things?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'things', combining 'how' with 'things'.
-- 'Senya, are you nearly done?' Fedya waits impatiently with shaving cream in hand.
-- 'I need the foam!' Russian omits the present-tense verb 'to be' here, linking 'needed' directly with 'foam', combining 'needed' with 'foam'.
-- 'I will just shave my right arm, and that's it.' Senya acts out the ridiculous shaving ritual.
-- 'And what are you doing?' Max delivers a punchy one-word reaction built around the Russian word meaning 'are doing'.
-- 'Shaving your arms?' Max turns a statement into a question purely through rising intonation on the word meaning 'arms', followed by 'are shaving'.
-- 'Today is the fifteenth, a big sanitary inspection!' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'fifteenth', combining 'today' with 'fifteenth' and 'date'.
-- 'Hair must not fall into the food!' Senya puts the word for 'hair' together with 'must' and 'fall into' in a crisp, natural spoken turn of phrase.
-- 'Come on, this is complete nonsense!' Max delivers a punchy one-word reaction built around the Russian word meaning 'nonsense'.
-- 'This is a strict rule of the sanitary inspection.' Russian omits the present-tense verb 'to be' here, linking 'strict' directly with 'rule', combining 'strict' with 'rule' and 'sanitary'.
-- 'If they find even one hair — you' ll be fired immediately!' Senya uses the action verb meaning 'find' to focus on the single completed result, pairing it with 'one' and 'hair'.
-- 'Why didn't you warn me earlier?' Max puts the word for 'why' together with 'warned' and 'earlier' in a crisp, natural spoken turn of phrase.
-- 'I don't even have a razor with me.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'razor'.
-- 'All right, runt, take my razor.' Generously offering his personal razor to seal the prank.
-- 'For arms I don't mind the razor at all.' Russian omits the present-tense verb 'to be' here, linking 'arms' directly with 'razor', combining 'arms' with 'razor' and 'at all'.
-- 'Thank you, Fedya, I will quickly shave everything.' Max puts the word for 'thank you' together with 'quickly' and 'shave' in a crisp, natural spoken turn of phrase. Now let's listen to the whole conversation again from start to finish.
+- 'Hello, guys!' Walking in cheerfully, Max greets his colleagues before the shift.
+- 'How are your things?' Max casually checks in on them before unpacking his things.
+- 'Senya, are you nearly done?' Holding a can of shaving cream, Fedya pretends to be in a rush.
+- 'I need the foam!' Fedya demands the shaving supplies to sell the prank to the rookie.
+- 'I will just shave my right arm, and that's it.' Playing along, Senya acts like shaving his forearms is a normal routine.
+- 'And what are you doing?' Stopping in his tracks, Max is completely bewildered by their strange behavior.
+- 'Shaving your arms?' Max asks for confirmation, unable to believe his eyes.
+- 'Today is the fifteenth, a big sanitary inspection!' Inventing a fake inspection, Fedya attempts to panic Max.
+- 'Hair must not fall into the food!' Earnestly reciting a fake hygiene rule, Senya backs up their charade.
+- 'Come on, this is complete nonsense!' Laughing it off initially, Max suspects they are messing with him.
+- 'This is a strict rule of the sanitary inspection.' With a deadpan face, Fedya insists the requirement is mandatory.
+- 'If they find even one hair — you'll be fired immediately!' Raising the stakes, Senya threatens extreme disciplinary action.
+- 'Why didn't you warn me earlier?' Falling for the lie, Max panics over being unprepared.
+- 'I don't even have a razor with me.' Max frantically realizes he lacks the tools to comply with the fake rule.
+- 'All right, runt, take my razor.' He magnanimously, Fedya offers his own gear to trap Max completely.
+- 'For arms I don't mind the razor at all.' Fedya adds a humorous detail to ensure the prank goes all the way.
+- 'Thank you, Fedya, I will quickly shave everything.' Gratefully accepting the trap, Max rushes to shave himself completely bare.

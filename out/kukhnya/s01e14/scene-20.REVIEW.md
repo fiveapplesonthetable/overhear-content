@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's try this.' Chef Barinov leads with the direct command form meaning 'let's', followed by 'try'.
-- 'Jacques, where are you?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am here, I am coming!' The phrasing opens with 'here' before bringing in 'going' to make the point clear.
-- 'And who are you?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He is my neighbor.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'neighbour'.
-- 'Can you imagine, we lived in Paris.' Here the verb for 'to live' takes the everyday past-tense ending '-li', which is also used for the polite 'you'.
-- 'Wait, we are not going to kiss.' Notice the self-directed ending on the verb for 'to kiss', which directs the action back onto the subject.
-- 'First we need to have a bite.' Chef Barinov expresses this naturally by combining the word for 'first' with 'it is necessary' and 'have a bite'.
-- 'Here, try this.' Chef Barinov leads with the direct command form meaning 'to try' to make the point directly in conversation.
-- 'This is very delicious.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it's tasty', combining 'very much' with 'it's tasty'.
-- 'He says that it is delicious?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'it's tasty'.
-- 'Yes, he likes it very much.' the self-directed ending on the verb for 'is pleasing' turns the action back onto the subject.
-- 'Thank you, my dear friend.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'dear', combining 'thank you' with 'dear' and 'friend'.
-- 'You are welcome, eat to your health.' Chef Barinov leads with the direct command form meaning 'eat', followed by 'health'.
+- 'Let's try this.' Chef Barinov suggests a tasting. He tells his friend they should try the food.
+- 'Jacques, where are you?' He looks around for his companion. Barinov asks Jacques where he went.
+- 'I am here, I am coming!' Jacques responds enthusiastically. He announces he is right there and coming over.
+- 'And who are you?' Nagiyev is confused by the stranger. He asks Jacques who he is.
+- 'He is my neighbor.' Barinov introduces his friend. He simply states that Jacques is his neighbor.
+- 'Can you imagine, we lived in Paris.' Nagiyev boasts about his own past. He casually mentions that he used to live in Paris.
+- 'Wait, we are not going to kiss.' Barinov stops Jacques from getting too friendly. He tells him they are not going to kiss.
+- 'First we need to have a bite.' He suggests they focus on the food first. Barinov says they need to have a bite.
+- 'Here, try this.' Barinov offers Jacques a sample. He hands it over and tells him to try it.
+- 'This is very delicious.' Jacques is highly impressed. He declares the food is very delicious.
+- 'He says that it is delicious?' Nagiyev asks for a translation. He checks if Jacques said it was tasty.
+- 'Yes, he likes it very much.' Barinov confirms the positive review. He says Jacques likes it very much.
+- 'Thank you, my dear friend.' Jacques expresses his gratitude. He thanks Barinov and calls him a dear friend.
+- 'You are welcome, eat to your health.' Barinov tells him to enjoy the meal. He tells Jacques to eat to his health.

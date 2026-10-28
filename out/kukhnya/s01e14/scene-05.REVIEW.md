@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, why did you get so drunk?' Vika puts the word for 'what for' together with 'strongly' and 'get drunk' in a crisp, natural spoken turn of phrase.
-- 'I am not drunk, but drank a little aperitif.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You can barely stand on your feet.' The phrasing opens with 'barely' before bringing in 'stand' and 'leg' to make the point clear.
-- 'The face of the restaurant arrived, I am ready to welcome guests!' Chef Barinov expresses this naturally by combining the word for 'face' with 'restaurant' and 'arrive'.
-- 'In this state you will not go out to the guests!' Vika puts the word for 'condition' together with 'guests' and 'you'll get out' in a crisp, natural spoken turn of phrase.
-- 'And you will never get married.' Here Chef Barinov anchors the line on the word meaning 'in marriage' and builds the thought around 'never' and 'you'll get out'.
-- 'Stop grabbing me so roughly.' Vika uses the action verb meaning 'enough' to focus on the single completed result, pairing it with 'rudely' and 'grab'.
-- 'I must personally check our restaurant.' Chef Barinov expresses this naturally by combining the word for 'has to' with 'personally' and 'to check'.
-- 'Do something with this drunken monster!' Vika leads with the direct command form meaning 'make', pairing it with 'drunk' and 'monster'.
-- 'I had a very good idea.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'appeared' with 'very much' and 'good'.
-- 'What other idea can there be now?' The phrasing opens with 'what' before bringing in 'more' and 'can' to make the point clear.
-- 'Let us all together inspect the bar!' Chef Barinov uses the action verb meaning 'come on' to focus on the single completed result, pairing it with 'together' and 'inspect'.
+- 'Chef, why did you get so drunk?' Vika is furious with the Chef. She demands to know why he is heavily intoxicated.
+- 'I am not drunk, but drank a little aperitif.' Barinov denies being drunk. He claims he only had a tiny bit of alcohol.
+- 'You can barely stand on your feet.' Vika points out his obvious state. She notes he can barely stand upright.
+- 'The face of the restaurant arrived, I am ready to welcome guests!' Barinov proudly announces his arrival. He claims he is ready to greet the guests.
+- 'In this state you will not go out to the guests!' Vika absolutely forbids it. She tells him he cannot be seen like this.
+- 'And you will never get married.' Barinov delivers a drunken insult. He makes a rude comment about her personal life.
+- 'Stop grabbing me so roughly.' Vika tells him to let go of her. She demands he stop grabbing her arm.
+- 'I must personally check our restaurant.' Barinov insists on doing his job. He slurs that he needs to inspect the restaurant.
+- 'Do something with this drunken monster!' Vika calls for help. She begs someone to deal with the drunk Chef.
+- 'I had a very good idea.' Barinov suddenly gets a bright idea. He thinks he has a great plan.
+- 'What other idea can there be now?' Vika is highly skeptical. She wonders what kind of idea he could possibly have now.
+- 'Let us all together inspect the bar!' Barinov announces his grand plan. He suggests they all go inspect the bar together.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, we have big trouble in the dining room.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well, what bad thing happened out there now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That female guest again completely refused the salad.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'How refused, after all, this is our signature recipe!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She said she did not like the dish at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did she completely lose her silly mind?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Vitya, where are you going so quickly and angrily?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will go straight into the dining room myself and handle it!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stop, we do not need a loud scandal right now at all!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nobody dares insult my haute cuisine!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A critic is sitting there, learn to calmly admit mistakes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Shut up, Vika, I never make mistakes!' command form with direct address, subject word, negative adverb, present verb, and matching form object noun.
+- 'Vitya, we have big trouble in the dining room.' Vika brings bad news to the chef. She warns him that something terrible has happened outside.
+- 'Well, what bad thing happened out there now?' Barinov is tired of hearing about problems. He asks what could possibly be wrong this time.
+- 'That female guest again completely refused the salad.' She explains the disaster. The woman rejected the salad for a second time.
+- 'How refused, after all, this is our signature recipe!' He is deeply offended. The chef cannot believe someone would refuse his special signature dish.
+- 'She said she did not like the dish at all.' The manager repeats the harsh feedback. The guest simply stated that the food was not good.
+- 'Did she completely lose her silly mind?' Barinov reacts with anger and disbelief. He thinks the woman must be crazy to dislike his cooking.
+- 'Vitya, where are you going so quickly and angrily?' Vika notices him storming off. She asks where he is heading in such a furious mood.
+- 'I will go straight into the dining room myself and handle it!' He decides to take action. The boss plans to go out there and confront the guest personally.
+- 'Stop, we do not need a loud scandal right now at all!' She tries to hold him back. The manager desperately wants to avoid a public screaming match in the restaurant.
+- 'Nobody dares insult my haute cuisine!' Barinov lets his ego do the talking. He refuses to let anyone disrespect his fine dining creations.
+- 'A critic is sitting there, learn to calmly admit mistakes.' Vika reminds him of the danger. She tells him to swallow his pride because a reviewer is watching.
+- 'Shut up, Vika, I never make mistakes!' The chef completely rejects her advice. He yells at her and claims his cooking is always flawless.

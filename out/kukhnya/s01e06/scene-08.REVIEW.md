@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look, what is that lying there?' Kostya spots an unnoticed blue bag tucked away in the shadows.
-- 'It looks like some rotten potato.' Max takes a quick glance and assumes the dark lumps are spoiled produce.
-- 'It looks very strange and dirty.' Kostya wrinkles his nose at the bizarre appearance.
-- 'Let's just throw out this old bag.' Max sensibly suggests tossing the mysterious trash away.
-- 'Or maybe we will sell it online?' Kostya jokingly proposes listing the weird find on the internet.
-- 'Who needs rotten and black potatoes?' Max scoffs at the thought of anyone buying spoiled tubers.
-- 'People on the internet buy absolutely everything!' Kostya humorously insists there is a buyer for everything.
-- 'Kostyan, do not be silly, drop these jokes.' Max urges his friend to be serious and get on with work.
-- 'Okay, I will take it to the dumpster.' Kostya concedes and picks up the priceless bag.
-- 'Take it quickly to the garbage bin outside.' Max leads with the direct command form meaning 'take', pairing it with 'quickly' and 'garbage'.
-- 'I will return quickly now and we will continue cleaning.' The phrasing opens with 'now' before bringing in 'quickly' and 'will return' to make the point clear.
-- 'Great, we still have a lot to wash today.' Max prepares to scrub the remaining shelves alone.
+- 'Max, look, what is that lying there?' Noticing something weird in a dark corner, Kostya points it out.
+- 'It looks like some rotten potato.' Max misidentifies the priceless truffles as decaying tubers.
+- 'It looks very strange and dirty.' He is grossed out by the lumpy items, Kostya wrinkles his nose.
+- 'Let's just throw out this old bag.' Max decides the best course of action is to toss the mysterious garbage.
+- 'Or maybe we will sell it online?' Joking around, Kostya suggests fencing the weird items on the web.
+- 'Who needs rotten and black potatoes?' Max laughs at the absurdity of anyone paying for rotten produce.
+- 'People on the internet buy absolutely everything!' Kostya argues that web buyers have famously low standards.
+- 'Kostyan, do not be silly, drop these jokes.' Max tells his friend to stop messing around and focus on cleaning.
+- 'Okay, I will take it to the dumpster.' Grabbing the bag of luxury ingredients, Kostya fully intends to trash them.
+- 'Take it quickly to the garbage bin outside.' Max directs him to get the foul-looking bag out of the kitchen quickly.
+- 'I will return quickly now and we will continue cleaning.' Kostya promises a swift trip to the alley before resuming their chores.
+- 'Great, we still have a lot to wash today.' Max acknowledges the mountain of deep cleaning still awaiting them.

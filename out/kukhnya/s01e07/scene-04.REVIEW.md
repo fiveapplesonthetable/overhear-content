@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you completely lost your mind?' Fedya catches his colleague stealing kitchen supplies.
-- 'Why are you stealing our vinegar?' Here Fedya anchors the line on the word meaning 'why' and builds the thought around 'are stealing' and 'vinegar'.
-- 'Its expiration date will end soon!' Senya makes up a ridiculous practical excuse.
-- 'And at home my children want to eat.' Senya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'at home' with 'children' and 'want'.
-- 'Of course, the children at home really ask for vinegar!' Fedya puts the word for 'of course' together with 'children' and 'at home' in a crisp, natural spoken turn of phrase.
-- 'I just took a little for salad.' Here Senya anchors the line on the word meaning 'just' and builds the thought around 'took' and 'a little'.
-- 'The chef will see and tear off your hands!' Fedya uses the action verb meaning 'will see' to focus on the single completed result, pairing it with 'immediately' and 'will tear off'.
-- 'Fedya, don't tell the chef anything, please!' Senya leads with the direct command form meaning 'tell' to make the point directly in conversation.
-- 'The chef is just leaving for the market now.' Fedya puts the word for 'now' together with 'just' in a crisp, natural spoken turn of phrase.
-- 'Great, that means we have a little time.' Relieved that they can finish prep work in peace.
-- 'The chef will return, and everything must be ready!' Fedya uses the action verb meaning 'will return' to focus on the single completed result, pairing it with 'must' and 'be'.
-- 'Let's quickly start cutting the meat together.' Senya expresses this naturally by combining the word for 'quickly' with 'start' and 'together'.
-- 'Put the bottle back in place and take a knife.' Fedya leads with the direct command form meaning 'put', pairing it with 'bottle' and 'place'.
-- 'That is all, I am working and not stealing anymore!' Senya chooses the action verb meaning 'work' for the ongoing action, followed by 'anymore' and 'steal'.
+- 'Have you completely lost your mind?' Fedya is absolutely baffled by his friend's reckless behavior.
+- 'Why are you stealing our vinegar?' He demands to know why Senya is taking basic ingredients.
+- 'Its expiration date will end soon!' Senya comes up with a weak excuse about the date on the bottle.
+- 'And at home my children want to eat.' He throws in a dramatic plea about his hungry family.
+- 'Of course, the children at home really ask for vinegar!' Fedya sarcastically mocks the idea of kids begging for sour liquid.
+- 'I just took a little for salad.' Senya tries to downplay the theft as a tiny, harmless amount.
+- 'The chef will see and tear off your hands!' The boss will lose his temper if he catches them.
+- 'Fedya, don't tell the chef anything, please!' He desperately pleads with his coworker to keep quiet.
+- 'The chef is just leaving for the market now.' Fedya reveals they have a lucky break since the boss is out.
+- 'Great, that means we have a little time.' Senya breathes a sigh of relief at the temporary reprieve.
+- 'The chef will return, and everything must be ready!' They need to hustle before the tyrant returns from shopping.
+- 'Let's quickly start cutting the meat together.' He suggests they team up and get to work on the prep.
+- 'Put the bottle back in place and take a knife.' Fedya orders him to drop the loot and grab a tool.
+- 'That is all, I am working and not stealing anymore!' Senya quickly complies, swearing off his sticky fingers for now.

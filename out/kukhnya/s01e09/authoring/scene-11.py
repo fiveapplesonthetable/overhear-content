@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
 INTRO = "Tucked away in a quiet corner of Claude Monet's kitchen, Max and young Alisa play a lively cooking game inspired by the movie Ratatouille. While the pair happily decorate their culinary creation with chocolate, waitress Nastya runs around the restaurant in a total panic searching for the girl. Let's listen to their playful kitchen adventure in Russian."
 OPENER = "Let's explore how Max and Alisa cook together in the kitchen while avoiding Chef Barinov's search."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('nastya', 'Беги скорее к папе, пока он добрый.', 'Run to dad quickly, while he is kind.', [], ''),
 ]
 WALK = [
-    (2, None, "'It is I who control you, like in the cartoon!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'Artists always sign their masterpiece.' The general statement uses a present tense verb and an matching form for the idea."),
-    (6, None, "'You ate it yourself just now!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (10, None, "'The chef is already looking for her all over the restaurant!' An urgent present tense statement with a matching form everyday phrase for the listener. Now, let's listen to Max and Alisa's playful kitchen dialogue once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'It is I who control you, like in the cartoon!' Hiding with Alisa in the kitchen, Max pretends to steer her arms like the little chef in the cartoon."),
+    (1, None, "'Artists always sign their masterpiece.' Handing her melted chocolate, Max jokes that every true artist signs their masterpiece."),
+    (2, None, "'You ate it yourself just now!' Alisa giggles and points out that Max just ate a piece of the chocolate himself."),
+    (3, None, "'The chef is already looking for her all over the restaurant!' Spotting them at last, a frantic Nastya warns that the chef is searching the whole restaurant for Alisa. Now, let's listen to Max and Alisa's playful kitchen dialogue once more."),
 ]

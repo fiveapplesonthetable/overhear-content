@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I repeat for everyone, the order is already waiting!' Elena calls out the dinner order firmly a second time.
-- 'Elena, they heard you perfectly well.' Viktor defends his kitchen staff against her sharp tone.
-- 'Why then is nobody working?' The phrasing opens with 'why' before bringing in 'then' and 'is working' to make the point clear.
-- 'In my kitchen there is always strict order.' Barinov insists on his controlled culinary rhythm.
-- 'You work too slowly for a restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Every good dish needs its own time.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'dish', combining 'good' with 'dish' and 'needed'.
-- 'Guests do not like to wait long for food.' The phrasing opens with 'guests' before bringing in 'like' and 'long' to make the point clear.
-- 'Our guests appreciate high taste.' Chef Barinov expresses this naturally by combining the word for 'guests' with 'appreciate' and 'high'.
-- 'I will show myself how one must work!' Elena uses the action verb meaning 'will show' to focus on the single completed result, pairing it with 'how' and 'must'.
-- 'Great, I will go calmly rest.' Here Chef Barinov anchors the line on the word meaning 'great' and builds the thought around 'will go' and 'calmly'.
-- 'Are you abandoning your kitchen to me?' Elena realizes Barinov is leaving her with his stubborn cooks.
-- 'I am sure that you will manage excellently.' Barinov patronizingly leaves the kitchen in her hands.
-- 'Return soon, otherwise I will take the restaurant!' Elena leads with the direct command form meaning 'return', pairing it with 'soon' and 'otherwise'.
-- 'We' ll see who stays the winner here!' Chef Barinov uses the action verb meaning 'we will see' to focus on the single completed result, pairing it with 'here' and 'will remain'.
+- 'I repeat for everyone, the order is already waiting!' Elena shouts the ticket again, frustrated by the lack of immediate action.
+- 'Elena, they heard you perfectly well.' Barinov calmly tells her that screaming twice does not make the food cook faster.
+- 'Why then is nobody working?' She demands to know why the cooks seem completely frozen.
+- 'In my kitchen there is always strict order.' He claims his kitchen operates on a precise, disciplined rhythm, not panic.
+- 'You work too slowly for a restaurant.' Elena criticizes their pace as entirely unacceptable for fine dining.
+- 'Every good dish needs its own time.' Barinov defends the slow speed as necessary for true culinary perfection.
+- 'Guests do not like to wait long for food.' She points out the practical reality that customers hate waiting.
+- 'Our guests appreciate high taste.' He counters that their elite clientele prefers quality over speed.
+- 'I will show myself how one must work!' Elena decides to jump onto the line herself to demonstrate proper urgency.
+- 'Great, I will go calmly rest.' Barinov sarcastically steps back, offering her full control while he takes a break.
+- 'Are you abandoning your kitchen to me?' Elena is shocked that he is actually walking away during a dinner rush.
+- 'I am sure that you will manage excellently.' He mocks her earlier confidence, assuring her she can handle it alone.
+- 'Return soon, otherwise I will take the restaurant!' She warns him to come back soon before she completely takes over his territory.
+- 'We'll see who stays the winner here!' Barinov tosses a final taunt over his shoulder about who will ultimately win.

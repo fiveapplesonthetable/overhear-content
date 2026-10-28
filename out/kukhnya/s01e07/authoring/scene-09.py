@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "In the kitchen of Claude Monet, Chef Viktor Barinov puts the finishing touches on a brand new signature sauce. Calling his line cooks over to the stove, he demands their honest feedback and basks in their immediate admiration. Let's listen to their enthusiastic exchange in Russian first."
 OPENER = "Let's examine how Chef Barinov invites his kitchen crew to taste his culinary masterpiece."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you understand how Russian chefs present new dishes to their brigade. Listen for these culinary compliments next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'to chatter' and 'fast' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('lyova', 'Всё сделаем идеально, шеф!', 'We will make everything ideally, chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'Cooks, quickly come over here, everyone!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'Everyone taste the new sauce. Quickly!' The inclusive present tense verb invites collective action, emphasized by an energetic adverb."),
-    (7, None, "'Amazing sauce, chef, pure delight!' The enthusiastic compliment uses an expressive adjective and an emotional noun phrase."),
-    (8, None, "'I have never tasted anything better.' The negative construction employs a double negative with a comparative adverb for superlative praise. Okay, let's hear the sauce tasting dialogue once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Cooks, quickly come over here, everyone!' Barinov loudly summons his team for a crucial tasting."),
+    (1, None, "'Everyone taste the new sauce. Quickly!' He demands immediate attention and participation from everyone."),
+    (2, None, "'Amazing sauce, chef, pure delight!' Max heaps extreme praise on the culinary creation."),
+    (3, None, "'I have never tasted anything better.' He flatters the boss by claiming it is the finest thing he has ever eaten. Okay, let's hear the sauce tasting dialogue once more."),
 ]

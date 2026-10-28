@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Привет, Макс. | Hi, Max. | #335: Привет. | verbatim |
+| 1 | Вика | Привет, Макс. | Hi, Max. | #335: Привет. | verbatim |
 | 2 | Вика | Привет. | Hi. | #335: Привет. | verbatim |
 | 3 | Макс | Я хочу переехать к тебе. | I want to move to your place. | #336: Я хочу переехать к тебе. | verbatim |
 | 4 | Вика | Тебе негде жить? | Do you have nowhere to live? | #337: Что, негде жить? | verbatim |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Max.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'hi' straight to 'Max'.
-- 'Hi.' A crisp, everyday conversational reply meaning 'hi' that you will hear constantly in Russian dialogue.
-- 'I want to move to your place.' Max uses the informal everyday 'you' here with 'for you', as friends and close colleagues do.
-- 'Do you have nowhere to live?' Vika turns a statement into a question purely through rising intonation on the word meaning 'nowhere', followed by 'to live'.
-- 'No, I have a million options.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'a million' with 'options'.
-- 'Kostya is calling me back.' — Notice the proper name meaning 'Kostya' paired with the verb for 'calls'.
-- 'Leva is also inviting me to live.' — Notice the proper name meaning 'Lyova' paired with the adverb for 'too'.
-- 'But I am ready to live with you.' Max uses the informal everyday 'you' here with 'you', as friends and close colleagues do.
-- 'What do you want to say?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I want to live with you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not want to be without you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That is very pleasant to hear.' Vika expresses this naturally by combining the word for 'very much' with 'pleasant' and 'to hear'.
-- 'Really?' Max asks this with a single word meaning 'honestly', using rising intonation to turn it into a quick question.
-- 'Yes, I believe you.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'believe'.
+- 'Hi, Max.' Vika greets his reflection or maybe speaks out of habit, leaving out any state-of-being words and connecting the greeting straight to the name.
+- 'Hi.' Vika offers a short, standard greeting that is heard all the time in everyday Russian chats.
+- 'I want to move to your place.' Getting right to the point, Max uses the casual, friendly "you" to suggest moving in together.
+- 'Do you have nowhere to live?' Vika turns a simple observation into a probing question just by pitching her voice up on "nowhere."
+- 'No, I have a million options.' Trying to sound cool, Max boasts using a classic phrasing pattern, literally saying "at me" there are a million choices.
+- 'Kostya is calling me back.' Casually mentioning his friend, Max puts the name "Kostya" right next to the action of calling back.
+- 'Leva is also inviting me to live.' Adding more proof of his popularity, Max pairs "Lyova" with the word for "too" to show how wanted he is.
+- 'But I am ready to live with you.' Dropping the tough act, Max switches back to the familiar "you" to admit where he really wants to be.
+- 'What do you want to say?' Gently pushing him to be more direct, Vika relies on a very common everyday phrase.
+- 'I want to live with you.' Spelling it out clearly at last, Max uses a completely natural and straightforward declaration.
+- 'I do not want to be without you.' Max adds a sweet follow-up, keeping his phrasing simple and deeply sincere.
+- 'That is very pleasant to hear.' Showing she is touched, Vika effortlessly combines "very much" with "pleasant" and "to hear."
+- 'Really?' Checking if she is serious, Max turns a single word meaning "truth" or "honestly" into a quick question.
+- 'Yes, I believe you.' Vika reassures him with a short, punchy sentence centered around the action of believing.

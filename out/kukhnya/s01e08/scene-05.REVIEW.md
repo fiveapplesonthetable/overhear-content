@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry, this was your stupid idea!' Viktor accuses the owner of orchestrating the public duel.
-- 'Stop shouting, it turned out a great show!' Dmitry defends the publicity stunt enthusiastically.
-- 'Rivals in life — rivals on screen.' Russian omits the present-tense verb 'to be' here, linking 'rivals' directly with 'life', combining 'rivals' with 'life'.
-- 'You just wanted to make me angry.' Chef Barinov expresses this naturally by combining the word for 'just' with 'wanted' and 'make angry'.
-- 'And it worked, you got angry perfectly!' Nagiyev uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'worked out' with 'great' and 'got angry'.
-- 'Now that woman will be in my kitchen.' Bitterly anticipating his rival's arrival at Claude Monet.
-- 'She lost the bet and will work the shift honestly.' Nagiyev uses the action verb meaning 'lost' to focus on the single completed result, pairing it with 'bet' and 'honestly'.
-- 'Viktor, get your cooks in order.' Nagiyev leads with the direct command form meaning 'bring', pairing it with 'cooks' and 'order'.
-- 'My cooks always work perfectly.' Chef Barinov puts the word for 'cooks' together with 'always' and 'work' in a crisp, natural spoken turn of phrase.
-- 'I shouldn't feel ashamed before the guests.' Here Nagiyev anchors the line on the word meaning 'must' and builds the thought around 'be' and 'ashamed'.
-- 'Don't worry, everything will be at the highest level.' Chef Barinov leads with the direct command form meaning 'worry', pairing it with 'will be' and 'highest'.
-- 'Great, then I am calm about the restaurant.' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'then', combining 'great' with 'then' and 'calm'.
-- 'I will go meet our new worker.' Chef Barinov uses the action verb meaning 'will go' to focus on the single completed result, pairing it with 'meet' and 'new'.
-- 'Good luck in the kitchen, chef!' Russian omits the present-tense verb 'to be' here, linking 'good luck' directly with 'kitchen', combining 'good luck' with 'kitchen'.
+- 'Dmitry, this was your stupid idea!' Barinov storms into the office, furious at the owner for setting up the television stunt.
+- 'Stop shouting, it turned out a great show!' Nagiyev waves off his anger, thrilled by the excellent ratings the drama will bring.
+- 'Rivals in life — rivals on screen.' The owner cynically points out that their real-life friction makes for perfect television.
+- 'You just wanted to make me angry.' Barinov realizes the entire argument was orchestrated just to get a rise out of him.
+- 'And it worked, you got angry perfectly!' Nagiyev gleefully admits his manipulation worked like a charm.
+- 'Now that woman will be in my kitchen.' Barinov complains that he now has to deal with a rival chef invading his territory.
+- 'She lost the bet and will work the shift honestly.' Nagiyev reminds him that they made a public bet that must be honored.
+- 'Viktor, get your cooks in order.' The owner orders his head chef to ensure the kitchen staff behaves appropriately.
+- 'My cooks always work perfectly.' Barinov defensively insists his team is always a well-oiled machine.
+- 'I shouldn't feel ashamed before the guests.' Nagiyev makes it clear he will not tolerate any embarrassment in front of customers.
+- 'Don't worry, everything will be at the highest level.' Barinov promises that the restaurant's reputation will remain spotless.
+- 'Great, then I am calm about the restaurant.' Nagiyev relaxes, satisfied that his publicity stunt will not ruin dinner service.
+- 'I will go meet our new worker.' Barinov heads out to grudgingly welcome his temporary replacement.
+- 'Good luck in the kitchen, chef!' Nagiyev wishes him luck with a sarcastic smirk as the chef leaves.

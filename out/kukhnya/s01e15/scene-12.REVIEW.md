@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Open up, we need to talk.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to talk'. And Viktor jumps in.
-- 'Leva, what do you want?' — Notice the proper name meaning 'Lyova' paired with the word for 'what'.
-- 'I want to tell you one thing.' Lyova uses the informal everyday 'you' here with 'thing', as friends and close colleagues do.
-- 'So that your foot is no longer in my house.' Lyova expresses this naturally by combining the word for 'legs' with 'more' and 'was'.
-- 'Today pack your things and leave.' Lyova leads with the direct command form meaning 'pack', pairing it with 'today' and 'things'.
-- 'You no longer live with me and Mom.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'to live'.
-- 'Is that clear to you?' Russian omits the present-tense verb 'to be', connecting 'for you' directly with 'clear?'.
-- 'Yes, sure.' Russian omits the present-tense verb 'to be' here, linking 'yes' directly with 'please', combining 'yes' with 'please'.
-- 'As if I need it.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it is necessary', combining 'very much' with 'it is necessary'.
-- 'I am waiting until you leave.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am already leaving.' The phrasing opens with 'already' before bringing in 'am leaving' to make the point clear.
-- 'Leave the keys on the table.' Lyova leads with the direct command form meaning 'keep', pairing it with 'the keys' and 'table'.
+- 'Open up, we need to talk.' Lyova demands entry, stating that they need to have a serious conversation.
+- 'Leva, what do you want?' Barinov asks what the problem is from behind the door.
+- 'I want to tell you one thing.' Getting straight to the point, Lyova says he has one clear message to deliver.
+- 'So that your foot is no longer in my house.' Using a strong expression, he demands that his former boss never step foot inside his home again.
+- 'Today pack your things and leave.' Giving a strict deadline, he orders him to pack up and get out immediately.
+- 'You no longer live with me and Mom.' Making the eviction final, he tells him his time living with him and his mother is over.
+- 'Is that clear to you?' Finishing the ultimatum, Lyova asks if the message was understood.
+- 'Yes, sure.' Barinov brushes it off, saying he is perfectly fine with leaving.
+- 'As if I need it.' Feigning indifference, he adds that he did not even want to be there anyway.
+- 'I am waiting until you leave.' Standing his ground, Lyova declares he will wait right there until the departure is complete.
+- 'I am already leaving.' Barinov shoots back that he is already in the process of heading out.
+- 'Leave the keys on the table.' Lyova gives one final instruction to leave the house keys behind.

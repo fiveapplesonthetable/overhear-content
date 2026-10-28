@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Miss, when will we sit at a table?' the guest puts the word for 'girlfriend' together with 'when' and 'to sit down' in a crisp, natural spoken turn of phrase.
-- 'Wait one minute, please.' Vika leads with the direct command form meaning 'wait', pairing it with 'one' and 'a minute'.
+- 'Miss, when will we sit at a table?' Guest impatiently asks the manager when they will finally be seated.
+- 'Wait one minute, please.' Vika politely asks the customer for just a little more time.
 - 'I am already waiting twenty minutes!' I'm waiting' for the ongoing action, followed by 'already' and 'twenty'.
-- 'Sorry, the restaurant is very full now.' Vika leads with the direct command form meaning 'sorry', pairing it with 'restaurant' and 'now'.
-- 'Vika, how are things in the dining room?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'things', followed by 'hall'.
-- 'Very many new guests today.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'a lot', combining 'very much' with 'a lot' and 'new'.
-- 'This is good, we had a difficult period.' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'good' with 'was' and 'tough'.
-- 'Yes, and now we have a lot of work.' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'now' with 'a lot' and 'of work'.
-- 'We need to say thank you to our team.' Chef Barinov puts the word for 'necessary' together with 'tell' and 'thank you' in a crisp, natural spoken turn of phrase.
-- 'How can we do this?' Here Vika anchors the line on the word meaning 'how' and builds the thought around 'can' and 'to do'.
-- 'Tell everyone that on Saturday there will be a party.' Chef Barinov leads with the direct command form meaning 'say', pairing it with 'Saturday' and 'will be'.
-- 'A party for our team? Excellent!' Russian omits the present-tense verb 'to be' here, linking 'party' directly with 'commands', combining 'party' with 'commands' and 'perfect'.
-- 'Yes, after twelve at night.' Russian omits the present-tense verb 'to be' here, linking 'twelve' directly with 'night', combining 'twelve' with 'night'.
-- 'Good, I will tell everyone in the kitchen.' Here Vika anchors the line on the word meaning 'good' and builds the thought around 'I'll tell' and 'kitchen'.
+- 'Sorry, the restaurant is very full now.' Vika apologizes, explaining that every seat is currently occupied.
+- 'Vika, how are things in the dining room?' Barinov checks in on the chaos happening out front.
+- 'Very many new guests today.' Vika reports a massive influx of unfamiliar faces.
+- 'This is good, we had a difficult period.' Barinov welcomes the rush after their recent slump.
+- 'Yes, and now we have a lot of work.' Vika agrees, noting the heavy workload it brings.
+- 'We need to say thank you to our team.' Barinov decides the staff deserves some appreciation for their hard work.
+- 'How can we do this?' Vika asks for his plan on showing gratitude.
+- 'Tell everyone that on Saturday there will be a party.' Barinov announces a weekend celebration for the crew.
+- 'A party for our team? Excellent!' Vika is thrilled by the idea of a staff party.
+- 'Yes, after twelve at night.' Barinov specifies the late-night start time for the event.
+- 'Good, I will tell everyone in the kitchen.' Vika agrees to spread the good news to the cooks.

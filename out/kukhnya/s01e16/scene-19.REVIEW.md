@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your work permit?' A direct question asking for official authorization to work in the country.
-- 'I simply forgot to make new documents.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I need to talk to your boss.' A firm statement expressing the necessity of speaking with the manager.
-- 'Get up, now come with me.' A polite but authoritative command instructing someone to follow an official. Now, let's hear the confrontation between the inspector and Louis once again. Now let's listen to the whole conversation again from start to finish.
+- 'Where is your work permit?' A direct demand is fired off, asking for official authorization to hold a job in the country.
+- 'I simply forgot to make new documents.' Louis tries to excuse himself by claiming he merely slipped up on renewing his paperwork.
+- 'I need to talk to your boss.' Firm and serious, the migration officer insists on speaking directly with the manager in charge.
+- 'Get up, now come with me.' An authoritative command tells the cook to stand and follow him immediately.

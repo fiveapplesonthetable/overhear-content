@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, why are you crying bitterly again?' Chef Barinov puts the word for 'why' together with 'again' and 'bitter' in a crisp, natural spoken turn of phrase.
-- 'Chef, a terrible drama happened to me.' Louis uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'happened' and 'terrible'.
-- 'Stop this foolish noise right now!' Chef Barinov leads with the direct command form meaning 'stop it', pairing it with 'stupid' and 'noise'.
-- 'My tender heart is broken into pieces.' Louis expresses this naturally by combining the word for 'tender' with 'heart' and 'broken'.
-- 'Quickly wipe your tears and make desserts.' Chef Barinov leads with the direct command form meaning 'wipe', pairing it with 'quickly' and 'tear'.
-- 'I cannot bake sweet cakes right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our important guests have been waiting for desserts for a long time!' The phrasing opens with 'important' before bringing in 'visitors' and 'for a long time' to make the point clear.
-- 'All right, chef, I will start making creams.' Louis expresses this naturally by combining the word for 'good' with 'will start' and 'to cook'.
-- 'And stop your constant empty complaints.' Chef Barinov leads with the direct command form meaning 'stop it', pairing it with 'regular' and 'empty'.
-- 'Hey, cooks, why are you all standing around?' Here Chef Barinov anchors the line on the word meaning 'hey' and builds the thought around 'cook' and 'why'.
-- 'We are already starting to prepare orders quickly.' The phrasing opens with 'already' before bringing in 'are starting' and 'quickly' to make the point clear.
-- 'Move lively, sluggards, let us begin working together!' Chef Barinov expresses this naturally by combining the word for 'faster' with 'slacker' and 'are starting'.
-- 'Work quickly, guests are waiting for their orders!' Chef Barinov chooses the action verb meaning 'we work' for the ongoing action, followed by 'quickly' and 'visitors'.
+- 'Louis, why are you crying bitterly again?' Chef Barinov demands an explanation for the tears. He asks Louis why he is crying so bitterly.
+- 'Chef, a terrible drama happened to me.' Louis tries to explain his emotional state. He dramatically claims a terrible tragedy has occurred.
+- 'Stop this foolish noise right now!' Barinov has zero patience for this. He orders Louis to stop the foolish noise right now.
+- 'My tender heart is broken into pieces.' Louis ignores the command and continues crying. He says his tender heart is broken into pieces.
+- 'Quickly wipe your tears and make desserts.' Barinov gives a strict order. He tells Louis to wipe his tears and get back to making desserts.
+- 'I cannot bake sweet cakes right now.' Louis claims he is too upset to work. He says he cannot possibly bake sweet cakes right now.
+- 'Our important guests have been waiting for desserts for a long time!' Barinov reminds him of the waiting customers. He points out the important guests have been waiting a long time.
+- 'All right, chef, I will start making creams.' Louis finally gives in. He agrees to start preparing the creams for the desserts.
+- 'And stop your constant empty complaints.' Barinov adds a final warning. He tells Louis to stop his constant empty complaints.
+- 'Hey, cooks, why are you all standing around?' Barinov turns his anger on the rest of the kitchen. He demands to know why everyone is just standing around.
+- 'We are already starting to prepare orders quickly.' Louis quickly jumps to the kitchen's defense. He assures the Chef they are already starting the orders.
+- 'Move lively, sluggards, let us begin working together!' Barinov yells at them to hurry up. He calls them sluggards and orders them to work together.
+- 'Work quickly, guests are waiting for their orders!' He repeats the urgent command. Barinov reminds them the guests are waiting for their food.

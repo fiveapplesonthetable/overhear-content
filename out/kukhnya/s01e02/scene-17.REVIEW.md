@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, should I bring you a cup of coffee?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Lord, how sick of everything I am!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Have new problems arisen in the restaurant again?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course, expensive cognac went missing in the bar.' Parenthetical adverb followed by past verb and subject.
-- 'Bartender Kostya is looking for that bottle now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well why does everything always go wrong?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our work is always very stressful.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The chef shouts, cooks argue, mess everywhere!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You need to rest a bit and calm down.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Can a day really not pass normally?' Rhetorical modal question with an adverb of manner.
-- 'I am sure everything will work out soon.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I want at least one calm day!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We all want this very much, believe me.' everyday subject with degree adverb and command form parenthetical.
+- 'Viktoriya Sergeyevna, should I bring you a cup of coffee?' Sasha respectfully approaches her exhausted boss and offers a hot beverage to help her relax.
+- 'Lord, how sick of everything I am!' Vika lets out a deeply emotional sigh, expressing just how completely fed up she is with her job.
+- 'Have new problems arisen in the restaurant again?' Sasha gently inquires if another disaster has struck the establishment during the shift.
+- 'Of course, expensive cognac went missing in the bar.' Vika sarcastically confirms the bad news while mentioning the theft of a very pricey bottle.
+- 'Bartender Kostya is looking for that bottle now.' Sasha tries to reassure her manager by mentioning that the bartender is actively investigating the theft.
+- 'Well why does everything always go wrong?' Vika despairs over the seemingly endless string of chaotic events that ruin her days.
+- 'Our work is always very stressful.' Sasha offers a comforting observation about the inherently stressful nature of the hospitality industry.
+- 'The chef shouts, cooks argue, mess everywhere!' Vika lists the exhausting daily realities of a screaming boss and a chaotic kitchen staff.
+- 'You need to rest a bit and calm down.' Sasha kindly advises her superior to take a deep breath and find a moment of peace.
+- 'Can a day really not pass normally?' Vika pleads to the universe for a single ordinary shift without any dramatic catastrophes.
+- 'I am sure everything will work out soon.' Sasha provides a dose of optimism, promising that the situation will improve shortly.
+- 'I want at least one calm day!' Vika dramatically states her simple desire for just twenty-four hours of absolute tranquility.
+- 'We all want this very much, believe me.' Sasha emphasizes that the entire staff shares the manager's desperate wish for a peaceful workplace.

@@ -26,15 +26,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, good evening. Where is Alisa?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And she and I decided to stay.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'She will stay with me one more day.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You do not mind, Tanya?' — negative present verb in a conversational tag question.
-- 'Well, if she decided so herself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let us go, I will quickly say goodbye to her.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What for? I will pass on everything myself!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She is having fun there in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She asked me to say goodbye to you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait, what happened to her?' — an abrupt change of tone expressing suspicion.
-- 'Everything is fine, she is just playing.' — short reassurance followed by a continuous present action.
-- 'And you still have not learned how to lie.' — past negative verb describing a persistent shortcoming. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Viktor, good evening. Where is Alisa?' Arriving at Claude Monet in the evening, Viktor's ex-wife Tanya greets him and asks where Alisa is.
+- 'And she and I decided to stay.' Desperate to hide the red allergy spots on Alisa's face, Viktor claims they decided she should stay longer.
+- 'She will stay with me one more day.' He suggests that Alisa spend one more day with him.
+- 'You do not mind, Tanya?' Trying to sound casual, he asks if Tanya minds the change of plan.
+- 'Well, if she decided so herself.' Although surprised, Tanya says it is fine if Alisa really chose that herself.
+- 'Let us go, I will quickly say goodbye to her.' Then Tanya steps forward and says she will quickly pop in to kiss her daughter goodbye.
+- 'What for? I will pass on everything myself!' Blocking her path, Viktor nervously asks why she needs to go in when he can pass on her goodbye himself.
+- 'She is having fun there in the kitchen.' He claims Alisa is deep in the kitchen having fun right now.
+- 'She asked me to say goodbye to you.' Pushing the lie too far, he adds that Alisa already asked him to tell her mom 'bye'.
+- 'Wait, what happened to her?' Knowing her ex-husband all too well, Tanya stops cold and demands to know what happened to their daughter.
+- 'Everything is fine, she is just playing.' Viktor still insists everything is fine and that she is only playing.
+- 'And you still have not learned how to lie.' Tanya shakes her head and remarks that after all these years, he still has not learned how to lie. Now listen to the full conversation once more.

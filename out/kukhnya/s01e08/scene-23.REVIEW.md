@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, when will the sea bream finally be ready?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The receipt was punched only now, I am rushing!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Guests at the table ate all the bread!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what can I do right now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Waiters have been waiting for hot fish for forty minutes!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We have a regular fishermen convention today!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fedya, calm down and hand over urgent orders!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am doing everything possible, do not yell.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait, what is this terrible stench?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Oh no, the quails on the stove burnt!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What a nightmare, complete smoke in the kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Urgently take the pan off the hot fire!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The new shift began with pure disaster.' Inceptive past self-directed form word with an matching form causal complement.
+- 'Fedya, when will the sea bream finally be ready?' Vika furiously demands to know why the fish dish is so delayed.
+- 'The receipt was punched only now, I am rushing!' Fedya complains that the order came in late and he is already rushing.
+- 'Guests at the table ate all the bread!' Vika points out that the hungry customers have finished all their bread.
+- 'And what can I do right now?' Fedya helplessly asks what he is supposed to do right this second.
+- 'Waiters have been waiting for hot fish for forty minutes!' Vika highlights the unacceptable forty-minute wait time for a hot meal.
+- 'We have a regular fishermen convention today!' Fedya sarcastically compares the overwhelming fish orders to a convention.
+- 'Fedya, calm down and hand over urgent orders!' Vika orders him to stop panicking and serve the urgent tables.
+- 'I am doing everything possible, do not yell.' Fedya insists he is working as fast as humanly possible.
+- 'Wait, what is this terrible stench?' Vika suddenly sniffs the air, detecting a foul burning smell.
+- 'Oh no, the quails on the stove burnt!' Fedya realizes in horror that the delicate birds have caught fire.
+- 'What a nightmare, complete smoke in the kitchen!' Vika laments the disastrous state of the smoke-filled kitchen.
+- 'Urgently take the pan off the hot fire!' Fedya yells to remove the burning pan from the heat source.
+- 'The new shift began with pure disaster.' Vika concludes that her shift is off to a terrible start.

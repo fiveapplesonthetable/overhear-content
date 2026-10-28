@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your restaurant will be excellent.' the inspector puts the word for 'restaurant' together with 'will be' and 'excellent' in a crisp, natural spoken turn of phrase.
-- 'We do everything right.' Elena chooses the action verb meaning 'are doing' for the ongoing action, followed by 'right'.
-- 'Thank you very much.' Russian omits the present-tense verb 'to be' here, linking 'big' directly with 'thank you', combining 'big' with 'thank you'.
-- 'You really surprised me.' the inspector expresses this naturally by combining the word for 'very much' with 'to surprise'.
-- 'Not a single cook without documents.' Russian omits the present-tense verb 'to be', connecting 'not a single' directly with 'documents'.
-- 'I got used to working by the law.' Elena uses the action verb meaning 'to get used to' to focus on the single completed result, pairing it with 'to work' and 'law'.
-- 'It was very pleasant for me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let us go to another restaurant?' the inspector turns a statement into a question purely through rising intonation on the word meaning 'let's go', pairing it with 'other' and 'restaurant'.
-- 'Here is Claude Monet.' the inspector puts the word for 'here' together with 'there is' in a crisp, natural spoken turn of phrase.
-- 'Excellent, I love French cuisine.' Here Elena anchors the line on the word meaning 'perfect' and builds the thought around 'love' and 'French'.
-- 'An inspection is coming to us!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Everyone without documents, get out!' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'documents'.
+- 'Your restaurant will be excellent.' Offering a compliment, the official gives a glowing review of the establishment.
+- 'We do everything right.' Elena responds proudly, asserting that they always handle their business properly.
+- 'Thank you very much.' Expressing her gratitude, she thanks the visitor for the kind words.
+- 'You really surprised me.' Admitting his shock, the official says he did not expect such a flawless operation.
+- 'Not a single cook without documents.' Highlighting the perfection, he points out that every single worker had their paperwork in order.
+- 'I got used to working by the law.' Stating her principles, the owner mentions that following the rules is just how she operates.
+- 'It was very pleasant for me.' Wrapping up the visit, the official remarks on how enjoyable the experience was.
+- 'Let us go to another restaurant?' Suggesting a new target, he proposes they move on to the next place.
+- 'Here is Claude Monet.' Pointing out the location, he identifies the establishment right next door.
+- 'Excellent, I love French cuisine.' Elena eagerly agrees, sharing her fondness for that specific style of food.
+- 'An inspection is coming to us!' Barinov sounds the alarm, warning his staff that trouble is walking through the door.
+- 'Everyone without documents, get out!' Barking a harsh command, he orders anyone without proper paperwork to flee immediately.

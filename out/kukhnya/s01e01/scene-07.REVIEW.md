@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Never use that cheap cognac!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, Chef, I understood everything!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You ruined the meat sauce with this.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I simply wanted to add a vivid aroma.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A real chef feels every taste of the dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Forgive me, Chef, I will not do it anymore.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Take a good bottle on the top shelf.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now I will quickly bring the needed wine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And begin making this sauce anew!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will do everything correctly right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Watch carefully the temperature on the stove.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, Chef, I remember your rules!' everyday word with matching form title and first-person present verb.
+- 'Never use that cheap cognac!' Barinov violently scolds his new hire for selecting a low-quality ingredient.
+- 'Yes, Chef, I understood everything!' Max quickly acknowledges the correction, terrified by the sudden outburst.
+- 'You ruined the meat sauce with this.' The head cook explains exactly how the subpar liquor destroyed the dish.
+- 'I simply wanted to add a vivid aroma.' Max tries to justify his mistake as an attempt to enhance the flavor profile.
+- 'A real chef feels every taste of the dish.' Barinov lectures him on the intuitive sense required to be a true culinary master.
+- 'Forgive me, Chef, I will not do it anymore.' The young cook apologizes profusely and promises never to repeat the error.
+- 'Take a good bottle on the top shelf.' The boss points out where the premium spirits are kept for professional use.
+- 'Now I will quickly bring the needed wine.' Max scrambles to correct his mistake by fetching the proper bottle.
+- 'And begin making this sauce anew!' Barinov orders him to throw out the ruined batch and start completely over.
+- 'I will do everything correctly right now.' The rookie assures his boss that he will follow the instructions perfectly this time.
+- 'Watch carefully the temperature on the stove.' The head cook barks a final reminder about heat control before walking away.
+- 'Yes, Chef, I remember your rules!' Max eagerly confirms that he has memorized all the strict guidelines.

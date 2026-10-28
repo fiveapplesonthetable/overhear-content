@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not going to send out this dish!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why? The dessert turned out very pretty, Chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It feels as if someone already ate it!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I swear, nobody touched this cake!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then quickly make a proper handsome presentation!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am the best pastry chef, I know the craft!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Sort out this problem right now, Louis!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Here, I fixed everything, take it to the table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where is the sous-chef? What on earth is happening here?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This woman has completely lost her mind!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I demand ideal order in the kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef Barinov never freaked out like that!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Now I am in charge in this kitchen!' Inverted everyday word with an emphatic postposed subject word.
+- 'I am not going to send out this dish!' Elena flatly refuses to serve the dessert, staring at it in disgust.
+- 'Why? The dessert turned out very pretty, Chef.' Louis asks for a reason, believing his creation looks beautiful.
+- 'It feels as if someone already ate it!' Elena harshly claims the cake looks like someone took a bite.
+- 'I swear, nobody touched this cake!' Louis defensively swears that nobody ruined the delicate pastry.
+- 'Then quickly make a proper handsome presentation!' Elena commands him to fix the sloppy presentation immediately.
+- 'I am the best pastry chef, I know the craft!' Louis proudly defends his skills as the top pastry professional.
+- 'Sort out this problem right now, Louis!' Elena cuts off his bragging and demands an instant solution.
+- 'Here, I fixed everything, take it to the table.' Louis hastily repairs the dessert and pushes it toward the pass.
+- 'Where is the sous-chef? What on earth is happening here?' Elena furiously wonders where her second-in-command has disappeared to.
+- 'This woman has completely lost her mind!' Louis mutters to himself about the new boss losing her mind.
+- 'I demand ideal order in the kitchen!' Elena yells that she expects flawless discipline from everyone.
+- 'Chef Barinov never freaked out like that!' Louis notes that their old boss never threw tantrums like this.
+- 'Now I am in charge in this kitchen!' Elena asserts her absolute dominance over the brigade.

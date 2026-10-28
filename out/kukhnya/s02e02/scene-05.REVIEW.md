@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a French restaurant.' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'French' with 'restaurant'.
-- 'And not Japanese.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'Japanese'.
-- 'I adore sushi.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I eat them every day.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what if you want khachapuri?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'you want', followed by 'khachapuri'.
-- 'I will call a khachapuri maker.' Kristina uses the action verb meaning 'will call' to focus on the single completed result, pairing it with 'khachapuri baker'.
-- 'I know how to cook khachapuri.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Shut up and get out.' The verb for 'went' is in the matching past tense, marked by the '-l' ending.
-- 'It is impossible to talk to you.' Chef Barinov puts the word for 'impossible' together with 'to talk' in a crisp, natural spoken turn of phrase.
-- 'By the way, Vika doesn't work for us.' Kristina uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'by the way' with 'works'.
-- 'Did you fire her?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'to fire'.
-- 'She quit herself.' the self-directed ending on the verb for 'quit' turns the action back onto the subject.
+- 'We have a French restaurant.' Barinov storms up to Kristina to remind her that Claude Monet is a French restaurant.
+- 'And not Japanese.' He stresses that they are not a Japanese sushi bar.
+- 'I adore sushi.' Kristina shrugs off his culinary pride and says she simply adores sushi.
+- 'I eat them every day.' Since she eats sushi every day, she wants it on her restaurant's menu too.
+- 'And what if you want khachapuri?' Viktor sarcastically asks what happens if she suddenly craves Georgian cheese bread tomorrow.
+- 'I will call a khachapuri maker.' Missing the sarcasm, Kristina replies that she would just hire a khachapuri baker.
+- 'I know how to cook khachapuri.' Senya pipes up from the side to brag that he knows how to bake khachapuri.
+- 'Shut up and get out.' Furious at the interruption, Barinov snaps at Senya to shut up and get lost.
+- 'It is impossible to talk to you.' Turning back to Kristina, Viktor groans that reasoning with her is impossible.
+- 'By the way, Vika doesn't work for us.' Kristina casually drops the news that Vika no longer works at the restaurant.
+- 'Did you fire her?' Shocked, Viktor asks if Kristina fired their art director.
+- 'She quit herself.' Kristina stretches the truth, claiming that Vika decided to quit on her own.

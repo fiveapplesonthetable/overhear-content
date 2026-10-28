@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = "At Claude Monet, max decides to give his grandfather's watch to a homeless man on the street. Max finds an old homeless man on the street. He decides to give away his grandfather's antique watch because he feels it is time to move on and let go of the past. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Old Watch line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The old man gratefully accepts the unexpected gift, leaving Max feeling a sense of relief. Next time you watch the episode, listen for the Russian expressions for 'old man' and 'to be' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -32,8 +32,8 @@ STORY = [
     ('old_man', 'Ты очень добрый человек.', 'You are a very kind person.', [], ''),
 ]
 WALK = [
-    (4, None, "'I do not need them anymore.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'they' straight to 'needed'."),
-    (7, None, "'Here, take it, old man.' Max leads with the direct command form meaning 'hang in there', followed by 'old man'."),
-    (9, None, "'You need it more than I do.' Max delivers a punchy one-word reaction built around the Russian word meaning 'more needed'."),
-    (13, None, "'You are a very kind person.' Russian omits the present-tense verb 'to be', connecting 'you' directly with 'a man'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'I do not need them anymore.' Max drunkenly decides he has no use for his possessions now."),
+    (1, None, "'Here, take it, old man.' Max hands his expensive ring over to a random homeless man."),
+    (2, None, "'You need it more than I do.' Max insists the stranger will get more value out of it."),
+    (3, None, "'You are a very kind person.' old man sincerely thanks him for the incredible generosity."),
 ]

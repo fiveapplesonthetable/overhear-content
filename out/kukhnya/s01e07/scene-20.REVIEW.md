@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, Max, make yourself at home.' Kostya warmly invites the stranded cook into his home.
-- 'Thank you, Kostya, you saved me today.' Max is deeply grateful for the late-night shelter.
-- 'We are friends, and friends always help each other.' The phrasing opens with 'friend' before bringing in 'always' and 'to help' to make the point clear.
-- 'Today I realized one very important thing.' Max shares his deep revelation about life and home.
-- 'What thing did you realize, philosopher?' Kostya teases the thoughtful cook with a warm smile.
-- 'Whatever might happen to you during the day...' Max begins his closing reflection on the day.
-- 'The main thing is to have somewhere to return in the evening.' The phrasing opens with 'main thing' before bringing in 'in the evening' and 'to be' to make the point clear.
-- 'Return to where you are sincerely welcomed.' Max uses the action verb meaning 'to come back' to focus on the single completed result, pairing it with 'there' and 'where'.
-- 'That is true, it is dreary in an empty apartment.' Russian omits the present-tense verb 'to be' here, linking 'definitely' directly with 'empty', combining 'definitely' with 'empty' and 'flat'.
-- 'After all there is nothing worse than terrible loneliness.' Max reflects on the ache of being solitary in the world.
-- 'Together we will definitely have more fun living!' Kostya embraces having a lively roommate in the flat.
-- 'Now we are real roommates and friends.' Max celebrates the unexpected bond that formed between them.
-- 'Let us drink tea and rest.' Kostya invites Max to relax in the warm kitchen.
-- 'It is good when you have a real home!' Max finishes his reflection feeling blessed and protected by friendship.
+- 'Come in, Max, make yourself at home.' Kostya welcomes his friend warmly. He uses a common phrase to help Max feel comfortable.
+- 'Thank you, Kostya, you saved me today.' Max is incredibly relieved to be indoors. He expresses his deep gratitude for the rescue.
+- 'We are friends, and friends always help each other.' Kostya brushes off the thanks. He states his simple philosophy on friendship.
+- 'Today I realized one very important thing.' Max turns philosophical after a long, hard day. He shares a sudden realization.
+- 'What thing did you realize, philosopher?' Kostya teases him gently about his serious tone. He calls him a philosopher with a smile.
+- 'Whatever might happen to you during the day...' Max begins his thoughtful conclusion. He reflects on the unpredictable chaos of life.
+- 'The main thing is to have somewhere to return in the evening.' Max states the core of his realization. He values the safety of a home above all else.
+- 'Return to where you are sincerely welcomed.' Max emphasizes the emotional warmth of a home. He appreciates knowing that someone is glad to see him.
+- 'That is true, it is dreary in an empty apartment.' Kostya agrees completely. He admits that living alone can be quite miserable.
+- 'After all there is nothing worse than terrible loneliness.' Max speaks from his recent experience of sleeping alone in the dining room. He shudders at the thought.
+- 'Together we will definitely have more fun living!' Kostya looks forward to their time as roommates. He expects them to have a great time.
+- 'Now we are real roommates and friends.' Max officially declares their new status. He is happy to share a living space with someone he trusts.
+- 'Let us drink tea and rest.' Kostya suggests a cozy end to the evening. He invites Max to sit down and relax.
+- 'It is good when you have a real home!' Max smiles as he finally feels secure. He ends the day appreciating the roof over his head.

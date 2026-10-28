@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "To hide cleaner Aynura from the migration inspection, the staff dress her up as a wealthy guest in the dining room. However, the sharp-eyed inspector sits right at her table, orders apple strudel, and reveals that he knows every trick restaurants use to hide workers. Let's listen to their tense conversation in Russian."
 OPENER = "Let's see how the migration inspector toys with Aynura before pardoning her over dessert."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to order food at a table, talk about years of work experience, and express gratitude in Russian. See who the inspector catches next in the following scene. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'evening' — you will catch every word right away. See you next time!"
 CLOSING = ('inspector', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('ainura', 'Хорошо, спасибо вам большое!', 'All right, thank you very much!', [(259, 'Хорошо. Спасибо')], ''),
 ]
 WALK = [
-    (2, None, "'Are you ready to place an order already?' A polite question commonly used at a restaurant table."),
-    (4, None, "'And I will order the delicious apple strudel.' A statement of intent using the future tense to choose a dessert."),
-    (7, None, "'Yes, I have been doing this for five years.' Russian uses the present tense to describe an action that started in the past and continues now."),
-    (11, None, "'Today the delicious dessert saved you.' A playful admission that the high quality of the food earned her a pardon. Now, let's hear the dining room scene between the inspector and Aynura once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Are you ready to place an order already?' inspector drops a standard dining room question to find out if the supposed customer is prepared to eat."),
+    (1, None, "'And I will order the delicious apple strudel.' Pointing out his choice, the official decides on a sweet dessert for himself."),
+    (2, None, "'Yes, I have been doing this for five years.' A casual remark follows, confirming his long experience dealing with these exact situations."),
+    (3, None, "'Today the delicious dessert saved you.' Playfully admitting that the high quality of the food earned them a temporary pardon, the officer finishes his thought."),
 ]

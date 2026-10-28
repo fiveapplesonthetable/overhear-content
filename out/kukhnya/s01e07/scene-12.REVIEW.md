@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So the sauce turned out very tasty, Max?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, we all thought that it was good.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You foolishly lied to me straight in my face!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We simply did not want to upset you badly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I sincerely trusted all of you always!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Forgive us, chef, this will never happen again.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'From today on, tell me only the truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We promise to always tell the pure truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There will be no more foolish deceit in my kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We understood your strict main lesson.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And if someone lies, I will fire them immediately!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We are immediately beginning our new work.' Subject word with manner adverb, present everyday verb, and matching form matching noun phrase.
+- 'So the sauce turned out very tasty, Max?' Barinov corners the young cook. His tone is dripping with dangerous sarcasm.
+- 'Chef, we all thought that it was good.' Max tries to speak for the whole team to dilute the blame. He sounds nervous and defensive.
+- 'You foolishly lied to me straight in my face!' Barinov explodes with anger. The Russian phrase for "straight in the face" is a vivid way to describe a blatant lie.
+- 'We simply did not want to upset you badly.' Max explains their good intentions. He admits they were just trying to protect the chef's fragile ego.
+- 'I sincerely trusted all of you always!' Barinov plays the victim of a massive betrayal. He acts deeply wounded by their white lie.
+- 'Forgive us, chef, this will never happen again.' Max quickly apologizes to calm him down. He promises they have learned their lesson.
+- 'From today on, tell me only the truth.' Barinov lays down a new, absolute rule for the kitchen. He demands brutal honesty from everyone.
+- 'We promise to always tell the pure truth.' Max agrees instantly to the new terms. He uses the phrase "pure truth" to show his sincerity.
+- 'There will be no more foolish deceit in my kitchen!' Barinov makes it a matter of professional pride. He forbids any further flattery.
+- 'We understood your strict main lesson.' Max nods like an obedient student. He just wants the yelling to stop.
+- 'And if someone lies, I will fire them immediately!' Barinov adds a harsh ultimatum. He threatens their jobs to ensure compliance.
+- 'We are immediately beginning our new work.' Max scrambles to get back to his station. He desperately wants to escape the conversation.

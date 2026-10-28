@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, quickly taste my new pâté.' Max leads with the direct command form meaning 'to try', pairing it with 'quickly' and 'new'.
-- 'Listen, is this dish even edible now?' Kostya leads with the direct command form meaning 'listen', pairing it with 'dish' and 'at all'.
-- 'Why are you looking in there so suspiciously?' The phrasing opens with 'why' before bringing in 'suspicious' and 'are staring' to make the point clear.
-- 'The color looks strange and not appetizing at all.' Kostya expresses this naturally by combining the word for 'colour' with 'looks' and 'strange'.
-- 'The main thing in food is wonderful taste!' Russian omits the present-tense verb 'to be' here, linking 'important' directly with 'food', pairing it with 'beautiful' and 'taste'.
-- 'Well all right, I will try a spoon now.' Here Kostya anchors the line on the word meaning 'now' and builds the thought around 'will try' and 'the spoon'.
-- 'And how does this recipe seem to you?' The phrasing opens with 'how' before bringing in 'it seems' and 'recipe' to make the point clear.
-- 'In principle, the taste is fine and not bad.' Russian omits the present-tense verb 'to be' here, linking 'principle' directly with 'taste', pairing it with 'decent' and 'bad'.
-- 'With cold beer such a dish would do.' Kostya puts the word for 'cold' together with 'beer' and 'dish' in a crisp, natural spoken turn of phrase.
-- 'And does it resemble the chef's signature pâté?' Max turns a statement into a question purely through rising intonation on the word meaning 'like', pairing it with 'signature' and 'pâté'.
-- 'No, the chef's dish is much better.' Russian omits the present-tense verb 'to be' here, linking 'chef' directly with 'dish', pairing it with 'much' and 'better'.
-- 'Did you put too much sauce in there?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'laid', pairing it with 'there' and 'too'.
-- 'Yes, keep trying and cook further!' Kostya chooses the action verb meaning 'continue' for the ongoing action, followed by 'try' and 'to cook'.
+- 'Kostya, quickly taste my new pâté.' Max rushes in and urges his friend to sample his latest culinary experiment.
+- 'Listen, is this dish even edible now?' Kostya sounds incredibly doubtful, asking if the food is even safe to consume.
+- 'Why are you looking in there so suspiciously?' Defending his work, the cook asks why his buddy is giving the plate such a skeptical look.
+- 'The color looks strange and not appetizing at all.' Pointing out the obvious, the bartender notes that it looks weird and completely unappealing.
+- 'The main thing in food is wonderful taste!' Trying to shift the focus, the young chef argues that appearance does not matter if it is delicious.
+- 'Well all right, I will try a spoon now.' Reluctantly giving in, the bartender agrees to take a single bite of the concoction.
+- 'And how does this recipe seem to you?' Waiting eagerly, the cook asks for an honest opinion on his attempt.
+- 'In principle, the taste is fine and not bad.' Kostya admits that it actually tastes okay, sounding slightly surprised by the result.
+- 'With cold beer such a dish would do.' Adding a bit of praise, he mentions it would make a decent snack to go with a drink.
+- 'And does it resemble the chef's signature pâté?' Pushing for the real answer, the creator asks if it matches the boss's famous version.
+- 'No, the chef's dish is much better.' Bursting the bubble, the taste-tester frankly states that the original is way superior.
+- 'Did you put too much sauce in there?' Trying to figure out the flaw, he guesses that maybe too much liquid was added.
+- 'Yes, keep trying and cook further!' Offering some encouragement, the bartender tells his friend to keep practicing.

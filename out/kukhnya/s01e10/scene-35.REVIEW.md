@@ -25,12 +25,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Taste this appetizer, gentlemen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Listen, this is wonderful caviar!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You can immediately sense that it is natural.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, I only ever ate such caviar in Astrakhan.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'In Moscow you rarely encounter such quality.' — 2nd person generalized personal sentence with an adverb.
-- 'Yes, delicious, very delicious!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The head chef of this restaurant is a true master.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will definitely order another portion.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Pass on our sincere gratitude to the chef.' — command form governing matching form and matching form objects. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Taste this appetizer, gentlemen.' At the VIP table in the dining room, the host invites his companions to try the caviar appetizer.
+- 'Listen, this is wonderful caviar!' Taking a bite, the second guest marvels at how wonderful the caviar is.
+- 'You can immediately sense that it is natural.' The first guest nods sagely, claiming you can tell right away that it is all-natural.
+- 'Yes, I only ever ate such caviar in Astrakhan.' His friend agrees, saying he has only tasted caviar this good in Astrakhan.
+- 'In Moscow you rarely encounter such quality.' The host remarks that finding such genuine quality in Moscow is rare.
+- 'Yes, delicious, very delicious!' Savoring another spoonful, the second guest repeats how delicious it is.
+- 'The head chef of this restaurant is a true master.' The host praises Claude Monet's head chef as a true master of his craft.
+- 'We will definitely order another portion.' Enjoying the disguised pike roe so much, they decide to order another helping.
+- 'Pass on our sincere gratitude to the chef.' The host asks the waiter to pass their warm compliments along to the chef. Now listen to the full conversation once more.

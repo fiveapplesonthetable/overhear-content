@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, what are you doing here right now?' Kostya puts the word for 'here' together with 'now' and 'are you doing' in a crisp, natural spoken turn of phrase.
-- 'After all, I really got very scared!' Here Kostya anchors the line on the word meaning 'really possible' and builds the thought around 'very much' and 'strongly'.
-- 'Well, that was the exact calculation.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, give me these boxes, please.' Max leads with the direct command form meaning 'give', followed by 'bins'.
-- 'Listen, how did you do that?' Kostya leads with the direct command form meaning 'listen', pairing it with 'how' and 'did'.
-- 'Watch closely, I will show you right now.' Max leads with the direct command form meaning 'look', pairing it with 'carefully' and 'now'.
-- 'Yes, that looks simply very cool.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you remember telling me about the dog?' Max turns a statement into a question purely through rising intonation on the word meaning 'do you remember', pairing it with 'to tell' and 'dog'.
-- 'That is why I have a plan ready.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'that's why' and 'ready'.
-- 'I will ask Vika: will you forgive me?' Max turns a statement into a question purely through rising intonation on the word meaning 'will ask', followed by 'to forgive'.
-- 'No, I will never forgive you!' The phrasing opens with 'never' before bringing in 'will forgive' to make the point clear.
-- 'Oh my God, somebody help him quickly!' Vika leads with the direct command form meaning 'help', pairing it with 'good lord!' and 'quickly'.
-- 'This is all because of you, Victoria Sergeyevna!' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'everything', pairing it with 'because of' and 'you'.
-- 'And then she will forgive me right away!' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'back then' and 'at once'.
+- 'Max, what are you doing here right now?' Kostya walks into the storage room and asks what on earth Max is doing.
+- 'After all, I really got very scared!' Seeing Max hanging from a rope gave Kostya a genuine fright.
+- 'Well, that was the exact calculation.' Max grins and says scaring people is the whole point of his setup.
+- 'Kostya, give me these boxes, please.' He asks Kostya to hand him the crates nearby.
+- 'Listen, how did you do that?' Kostya inspects the hidden harness and asks how Max rigged the trick.
+- 'Watch closely, I will show you right now.' Max tells him to watch closely so he can demonstrate how it works.
+- 'Yes, that looks simply very cool.' Impressed by the fake noose stunt, Kostya admits it looks very convincing.
+- 'Do you remember telling me about the dog?' Max reminds Kostya of his childhood story about forgiving the dog after it got hurt.
+- 'That is why I have a plan ready.' That story inspired Max to come up with this dramatic rescue plan.
+- 'I will ask Vika: will you forgive me?' Rehearsing the scene, Max says he will ask Vika whether she forgives him.
+- 'No, I will never forgive you!' In Max's daydream, Vika coldly replies that she will never forgive him.
+- 'Oh my God, somebody help him quickly!' Then, seeing him dangle, the imagined Vika screams for someone to save him.
+- 'This is all because of you, Victoria Sergeyevna!' In the fantasy, Kostya guilt-trips Vika by blaming her for pushing Max over the edge.
+- 'And then she will forgive me right away!' Max is convinced that once Vika panics, she will forgive him on the spot.

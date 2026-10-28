@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, why did you arrive so early?' Max questions his coworker's sudden morning appearance.
-- 'It is already eight o'clock in the morning, Max.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'already', combining 'now' with 'already' and 'eight'.
-- 'I thought that the restaurant was still closed.' Max explains his surprised reaction using a past verb.
-- 'Why haven't you put on your uniform yet?' Kostya expresses this naturally by combining the word for 'why' with 'yet' and 'put on'.
-- 'My locker key is lying here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then go faster to the staff locker room.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not boss me around, I will manage everything in time.' Max leads with the direct command form meaning 'boss around', followed by 'will manage'.
-- 'What were you doing here at night at all?' Kostya grows suspicious about Max's overnight presence.
-- 'Honestly speaking, I live right here.' Max reveals his secret using a parenthetic adverbial phrase.
-- 'You spend the night in Chef Barinov's restaurant?!' Kostya is astonished by his friend's audacity.
-- 'Yes, I sleep on the sofa in the dining room.' Max admits where he spends the night with a present verb.
-- 'If the chef finds out, he will kill you!' Kostya warns of Barinov's wrath using a conditional sentence.
-- 'Please do not tell anyone my secret.' Max pleads for confidentiality with a negative command form.
+- 'Kostya, why did you arrive so early?' Max turns the question around, wondering why Kostya is here so soon.
+- 'It is already eight o'clock in the morning, Max.' Kostya points out the actual time, showing it is morning already.
+- 'I thought that the restaurant was still closed.' He genuinely believed he was safe from being caught before opening hours.
+- 'Why haven't you put on your uniform yet?' The lack of kitchen attire immediately raises a red flag.
+- 'My locker key is lying here.' Max tries to deflect by casually mentioning his locker key.
+- 'Then go faster to the staff locker room.' Kostya urges his friend to get changed before anyone sees him.
+- 'Do not boss me around, I will manage everything in time.' He gets defensive, claiming he has everything under control.
+- 'What were you doing here at night at all?' Suspicion finally takes over as Kostya demands to know the truth.
+- 'Honestly speaking, I live right here.' Max confesses his desperate housing situation with total honesty.
+- 'You spend the night in Chef Barinov's restaurant?!' The idea of sleeping at work leaves Kostya utterly speechless.
+- 'Yes, I sleep on the sofa in the dining room.' He confirms the crazy setup, specifically mentioning the dining room furniture.
+- 'If the chef finds out, he will kill you!' The chef will be furious if he discovers a squatter in his establishment.
+- 'Please do not tell anyone my secret.' Max begs for silence, knowing his job is on the line.

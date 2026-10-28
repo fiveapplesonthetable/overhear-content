@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "At the Claude Monet bar counter, novice cook Max vents his romantic frustrations about art director Vika. Bartender Kostya tries to inject some harsh reality into Max's daydreaming, arguing that glamorous Vika is completely out of his league. Let's listen to their conversation in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya wipes down the counter as Max remains lost in thought. Next time you watch the episode, listen for the Russian expressions for 'poor' and 'adult' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Я всё равно поговорю с ней.', 'I will still talk with her anyway.', [], ''),
 ]
 WALK = [
-    (0, None, "'Relax, my friend, do not be so nervous.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'He simply wants to get a rise out of me.' Max replies, explaining his visible frustration."),
-    (9, None, "'Do you want to drink some juice with me?' the bartender offers generously to distract his friend."),
-    (10, None, "'No, thank you, I am at work right now.' Max answers responsibly, declining the drink. Now listen to the full bar conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Relax, my friend, do not be so nervous.' Kostya urges his friend to calm down."),
+    (1, None, "'He simply wants to get a rise out of me.' Max believes someone is trying to provoke him."),
+    (2, None, "'Do you want to drink some juice with me?' Kostya offers a beverage to lighten the mood."),
+    (3, None, "'No, thank you, I am at work right now.' Max declines the offer because of his job."),
 ]

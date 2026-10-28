@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, where are you? The guests are already arriving.' Nagiyev puts the word for 'where' together with 'already' and 'visitors' in a crisp, natural spoken turn of phrase.
-- 'Hello, Dima, I am driving in the car.' Here Chef Barinov anchors the line on the word meaning 'hello?' and builds the thought around 'am driving' and 'car'.
-- 'Why are you so very late today?' The phrasing opens with 'why' before bringing in 'strongly' and 'are late' to make the point clear.
-- 'There were terrible traffic jams on the road.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our important client is already waiting for you.' Nagiyev puts the word for 'important' together with 'client' and 'already' in a crisp, natural spoken turn of phrase.
-- 'Tell them so that they drink wine.' Chef Barinov leads with the direct command form meaning 'say', pairing it with 'to drink' and 'wine'.
-- 'I already poured them the best cognac.' The phrasing opens with 'already' before bringing in 'to pour' and 'best' to make the point clear.
-- 'That is excellent, let them rest for now.' Chef Barinov expresses this naturally by combining the word for 'perfect' with 'to rest' and 'bye'.
-- 'You must be here in five minutes!' Nagiyev puts the word for 'has to' together with 'be' and 'here' in a crisp, natural spoken turn of phrase.
-- 'Do not yell at me, I am almost there.' Chef Barinov leads with the direct command form meaning 'shout', followed by 'drive up'.
-- 'I am waiting for you at the main entrance.' Nagiyev uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'I'm waiting' with 'main' and 'entrance'.
-- 'Coming, coming, already almost at the place.' Chef Barinov chooses the action verb meaning 'going' for the ongoing action, followed by 'already' and 'almost'.
+- 'Vitya, where are you? The guests are already arriving.' Nagiyev is getting anxious. He calls Barinov to ask where he is.
+- 'Hello, Dima, I am driving in the car.' Barinov answers calmly from his car. He says he is currently driving.
+- 'Why are you so very late today?' Nagiyev demands an explanation for the delay. He asks why the Chef is so late.
+- 'There were terrible traffic jams on the road.' Barinov blames the traffic. He claims the roads were completely jammed.
+- 'Our important client is already waiting for you.' Nagiyev stresses the urgency of the situation. He mentions the important client is waiting.
+- 'Tell them so that they drink wine.' Barinov offers a temporary solution. He suggests they serve wine to stall for time.
+- 'I already poured them the best cognac.' Nagiyev is already ahead of him. He says he has poured them the finest cognac.
+- 'That is excellent, let them rest for now.' Barinov approves of the move. He says that is perfect and they should just relax.
+- 'You must be here in five minutes!' Nagiyev gives him a strict deadline. He demands the Chef arrive in exactly five minutes.
+- 'Do not yell at me, I am almost there.' Barinov tells Nagiyev to calm down. He insists he is almost at the restaurant.
+- 'I am waiting for you at the main entrance.' Nagiyev states his location. He says he will be waiting right at the front door.
+- 'Coming, coming, already almost at the place.' Barinov promises he is close. He assures Nagiyev he is practically pulling up now.

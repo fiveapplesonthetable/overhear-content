@@ -30,8 +30,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Alisa, how do you like my restaurant?' Viktor asks his young daughter with a proud smile.
 - 'Dad, look, do I look like you?' Alisa asks her father with childlike curiosity.
 - 'Of course, sunshine!' Viktor answers her warmly with an affectionate nickname.
-- 'You have my eyes and smile.' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'eyes' with 'smile'.
-- 'And mom says something else.' Alisa puts the word for 'mom' together with 'says' and 'something else' in a crisp, natural spoken turn of phrase.
+- 'You have my eyes and smile.' Looking fondly at his daughter, Viktor tells her she has his eyes and his smile.
+- 'And mom says something else.' Alisa pipes up that her mother says something quite different at home.
 - 'She says, thank God, you do not look like him!' Alisa quotes her mother with cheerful innocence.
 - 'She was just joking.' Viktor reassures his daughter with a chuckle.
 - 'Do not pay any attention.' Viktor dismisses the joke with a wave of his hand.

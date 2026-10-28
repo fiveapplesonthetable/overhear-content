@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is sitting at the fifth table?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not know, this is Nastya's guest.' A disclaimer of knowledge followed by a statement of table responsibility for the staff.
-- 'He is constantly writing in his notebook.' A continuous descriptive sentence detailing suspicious note-taking activity by the visitor.
-- 'This looks very much like an inspection.' An apprehensive assessment comparing a patron's behavior to an official audit. Now, let's hear Victoria question Sasha about the mystery guest once more. Now let's listen to the whole conversation again from start to finish.
+- 'Who is sitting at the fifth table?' Vika notices someone new. She wants to know the identity of the person at table five.
+- 'I do not know, this is Nastya's guest.' Sasha has no idea who the man is. He points out that the other waitress is serving that table.
+- 'He is constantly writing in his notebook.' He shares an observation. The man keeps writing things down in a little book.
+- 'This looks very much like an inspection.' Vika gets suspicious right away. To her, taking notes looks exactly like what a critic would do.

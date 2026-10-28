@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, well, how are things at the competitors' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, our scout has returned with a report.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Tell me faster. Did you go inside?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, I looked at their new hall.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'To tell the truth, the interior is so-so.' — conversational parenthetical phrase with an idiomatic qualifier.
-- 'In the hall there is silence, plenty of empty seats.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You see what I was talking about!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We do not need to change anything yet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go to the kitchen, you earned a hot lunch.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, Chef, I am very hungry!' — polite expression of thanks followed by a everyday adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Fedya, well, how are things at the competitors' Barinov eagerly asks Fedya for news about the rival restaurant.
+- 'Chef, our scout has returned with a report.' Fedya jokingly calls himself a spy returning with news.
+- 'Tell me faster. Did you go inside?' Barinov tells him to hurry up and asks if he went in.
+- 'Yes, I looked at their new hall.' Fedya confirms he checked out the interior of the new place.
+- 'To tell the truth, the interior is so-so.' Fedya admits that the new restaurant does not look very impressive inside.
+- 'In the hall there is silence, plenty of empty seats.' Fedya reports that the place is quiet and completely empty.
+- 'You see what I was talking about!' Barinov feels vindicated and says this proves he was right all along.
+- 'We do not need to change anything yet.' Barinov decides they do not need to make any changes to their own restaurant.
+- 'Go to the kitchen, you earned a hot lunch.' Barinov rewards Fedya with a hot meal for his spying work.
+- 'Thank you, Chef, I am very hungry!' Fedya thanks him and says he is starving.

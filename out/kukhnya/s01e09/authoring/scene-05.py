@@ -32,7 +32,7 @@ STORY = [
     ('alisa', 'Считай медленно, я иду прятаться!', 'Count slowly, I am going to hide!', [], ''),
 ]
 WALK = [
-    (0, None, "'Lyova, sit here and watch over Alisa.' Chef Barinov leads with the direct command form meaning 'sit', pairing it with 'here' and 'watch'."),
+    (0, None, "'Lyova, sit here and watch over Alisa.' When kitchen business finally pulls him away, Barinov orders Lyova to sit here and watch Alisa."),
     (1, None, "'Do not take your eyes off her.' Viktor reinforces his strict instruction with a firm tone."),
     (2, None, "'And do not give her chocolate, she has an allergy.' Viktor warns him about her dietary restriction."),
     (3, None, "'Uncle Lyova, let us play!' Alisa demands his attention with energetic excitement."),
@@ -44,6 +44,6 @@ WALK = [
     (9, None, "'Of course, I will hide!' Alisa announces her role with immediate enthusiasm."),
     (10, None, "'You are so tall, you cannot be hidden anywhere.' Alisa points out his imposing height with blunt honesty."),
     (11, None, "'Close your eyes, count to a hundred.' Alisa sets the countdown before running away."),
-    (12, None, "'One, two, three, four...' Lyova begins counting out loud with an obedient voice."),
+    (12, None, "'One, two, three, four...' Obediently covering his eyes, the tall sous-chef starts counting aloud from one to four."),
     (13, None, "'Count slowly, I am going to hide!' Alisa calls out her final rule as she slips away. Now, let us listen to the complete scene once more to consolidate your comprehension."),
 ]

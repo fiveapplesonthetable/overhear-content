@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Вика | Да, звонил. | Yeah, he called. | #274: звонил | verbatim |
 | 9 | Нагиев | Сейчас скажем. | Let's see. | #276: сейчас | verbatim |
 | 10 | Нагиев | Александр Дель Пьеро. | Alexander Del Piero. | #276: александр | verbatim |
-| 11 | Вика | Сказал, что выставка отменяется. | He said the exhibition was cancelled. | #277: сказал | verbatim |
+| 11 | Нагиев | Сказал, что выставка отменяется. | He said the exhibition was cancelled. | #277: сказал | verbatim |
 | 12 | Нагиев | С московского телефона звонят? | Was it a call from a Moscow number? | #278: московского | verbatim |
 | 13 | Нагиев | Да, вот номер. | Yeah, here is the number. | #279: вот | verbatim |
 | 14 | Нагиев | Набирайте. | Call it. | #279: набирайте | verbatim |
@@ -30,16 +30,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Dmitry Vladimirovich.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning' to make the point directly in conversation.
-- 'I would say it is afternoon, Vika.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'.
-- 'Why didn't you fly out to the exhibition?' The phrasing opens with 'why' before bringing in 'exhibition' and 'to fly away' to make the point clear.
-- 'It was cancelled.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to cancel'.
-- 'I called my contacts.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Some businessman called you, right?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Who?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'what a'.
-- 'Yeah, he called.' Vika delivers a punchy conversational reaction built around the Russian word meaning 'called'.
-- 'Let's see.' Nagiyev puts the word for 'now' together with 'we'll say' in a crisp, natural spoken turn of phrase.
-- 'Alexander Del Piero.' Russian omits the present-tense verb 'to be' here, linking 'Alexander' directly with 'Del', combining 'Alexander' with 'Del' and 'Pierrot'.
-- 'He said the exhibition was cancelled.' Vika uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'exhibition' and 'is canceled'.
-- 'Was it a call from a Moscow number?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'Moscow', pairing it with 'phone' and 'call'.
-- 'Yeah, here is the number.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'number'. Now let's listen to the whole conversation again from start to finish.
+- 'Good morning, Dmitry Vladimirovich.' Vika offers a polite, standard greeting. She addresses Nagiyev formally.
+- 'I would say it is afternoon, Vika.' Nagiyev corrects her with a hint of sarcasm. He points out it is already later in the day.
+- 'Why didn't you fly out to the exhibition?' He interrogates her about her missed trip. Nagiyev asks why she did not depart as planned.
+- 'It was cancelled.' Vika sticks to her fabricated story. She casually claims the event was called off.
+- 'I called my contacts.' She invents a source for her information. Vika says she checked with her own contacts.
+- 'Some businessman called you, right?' Nagiyev reveals he knows more than she thinks. He mentions the mysterious caller.
+- 'Who?' Vika plays dumb. she asks for clarification on who he means.
+- 'Yeah, he called.' She quickly agrees to maintain the lie. Vika confirms she received a call.
+- 'Let's see.' Nagiyev prepares to reveal his trump card. He playfully promises to check the details.
+- 'Alexander Del Piero.' He reads out the ridiculous fake name Max used. Nagiyev exposes the obvious lie.
+- 'He said the exhibition was cancelled.' Nagiyev repeats the lie one last time. She insists the man delivered the cancellation news.
+- 'Was it a call from a Moscow number?' Nagiyev traps her with logic. He points out the absurdity of a local call for an international event.
+- 'Yeah, here is the number.' He presents the undeniable proof. Nagiyev shows her the local caller ID on the phone.

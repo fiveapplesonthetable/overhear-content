@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = 'In the busy restaurant Claude Monet, the fiery Chef commands everyone back to work. Max has just arrived in kitchen whites, eager to prove that he is a professional cook. As always, listen to the story first, and then we will break it down together in English.'
 OPENER = 'Now let us go through each line together to understand every word.'
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max is confident and eager to cook, but Chef Viktor Barinov has a very different first task in mind. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to be' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -32,22 +32,22 @@ STORY = [
     ('barinov', 'Для тебя есть особенная работа!', 'There is a special job for you!', [(203, 'Есть работа'), (204, 'Только тебе')], ''),
 ]
 WALK = [
-    (0, None, "'Everyone get to work, quickly!' The chef calls everybody to order with a sharp command."),
-    (1, None, "'And you, go get changed!' He uses the informal command form to order Max to change into kitchen whites."),
-    (2, 'Шеф, я готов.', "'Chef, I am ready.' Max addresses the boss with the standard kitchen title and short adjective."),
-    (2, 'Что мне делать?', "'What should I do?' the basic verb form construction asks what action is expected of him."),
-    (3, None, "'Why did you come to this kitchen?' The past-tense verb indicates arrival at the location."),
-    (4, 'Потому что я повар.', "'Because I am a cook.' Max explains his background with the direct conjunction."),
-    (4, 'Я настоящий профессионал.', "'I am a true professional.' He proudly asserts his culinary qualifications."),
-    (5, 'Профессионал?', "'A professional?' The chef repeats the noun with skeptical astonishment."),
-    (5, 'Иди сюда.', "'Come here.' A direct order to approach and listen carefully."),
-    (6, None, "'Look around at my cooks.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'What can you do yourself?' The verb asks about his personal skills and abilities."),
-    (8, None, "'I can cook very well.' Max insists on his primary talent in the kitchen."),
-    (9, 'Да ну?', "'Really?' An everyday conversational marker expressing mild sarcasm or disbelief."),
-    (9, 'Всем внимание на кухне!', "'Attention everyone in the kitchen!' The chef sarcastically addresses the whole team."),
-    (10, None, "'A great cook has come to us!' Sarcastic praise echoing through the prep room."),
-    (11, None, "'We waited for him for so long!' The past tense underlines his theatrical mockery."),
-    (12, None, "'What work will I have?' Max asks about his very first kitchen assignment."),
-    (13, None, "'There is a special job for you!' The chef prepares to give him a humiliating chore. Alright, let's hear the whole thing once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Everyone get to work, quickly!' Chef Barinov snaps everyone out of the spectacle and demands focus."),
+    (1, None, "'And you, go get changed!' He brusquely orders the new hire to put on a proper uniform."),
+    (2, None, "'Chef, I am ready.' Max returns eagerly in his new white jacket, ready to begin."),
+    (3, None, "'What should I do?' He asks for his very first assignment on the line."),
+    (4, None, "'Why did you come to this kitchen?' Chef Barinov questions his underlying motivation for being there."),
+    (5, None, "'Because I am a cook.' Max confidently states his chosen profession as his driving purpose."),
+    (6, None, "'I am a true professional.' He proudly boasts about his skills and readiness for high-level culinary work."),
+    (7, None, "'A professional?' Chef Barinov echoes the boast with heavy skepticism."),
+    (8, None, "'Come here.' He commands the young man to step forward and face the music."),
+    (9, None, "'Look around at my cooks.' Chef Barinov gestures to his busy, experienced team working around them."),
+    (10, None, "'What can you do yourself?' He aggressively challenges the newcomer to list his actual abilities."),
+    (11, None, "'I can cook very well.' Max bravely doubles down on his core talent."),
+    (12, None, "'Really?' Chef Barinov delivers a short, mocking response to this generic claim."),
+    (13, None, "'Attention everyone in the kitchen!' He theatrically calls for the entire staff to stop and listen."),
+    (14, None, "'A great cook has come to us!' Chef Barinov sarcastically announces the arrival of a culinary genius."),
+    (15, None, "'We waited for him for so long!' He continues to mock the rookie's grand ego in front of everyone."),
+    (16, None, "'What work will I have?' Max ignores the teasing and earnestly asks for a task."),
+    (17, None, "'There is a special job for you!' Chef Barinov gleefully prepares to hand out a demeaning chore."),
 ]

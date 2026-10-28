@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, kid, I want to talk.' A gruff stranger corners Max outside the restaurant.
-- 'What do you need?' Max responds cautiously to the aggressive tone.
-- 'Vika works here with you.' the speaker uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'here' and 'works'.
-- 'Viktoria Sergeyevna.' Russian omits the present-tense verb 'to be' here, linking 'Viktoria' directly with 'Sergeyevna', combining 'Viktoria' with 'Sergeyevna'.
-- 'Who is she seeing here?' the speaker puts the word for 'here' together with 'is dating' in a crisp, natural spoken turn of phrase.
-- 'Well, why are we silent?' Here the speaker anchors the line on the word meaning 'why' and builds the thought around 'are silent'.
-- 'Why should I answer?' The phrasing opens with 'why' before bringing in 'must' and 'to answer' to make the point clear.
-- 'Don't want to answer here?' , combining 'want' with 'to answer' and 'here'.
-- 'You'll answer in my prosecutor's office.' , combining 'will answer' with 'prosecutor's office'.
-- 'Did you understand me?' the speaker turns a statement into a question purely through rising intonation on the word meaning 'understood' to make the point directly in conversation.
-- 'Understood, understood everything.' Max delivers a punchy conversational reaction built around the Russian word meaning 'understood'.
-- 'She is not seeing anyone.' Max protects Vika and himself with a firm denial.
-- 'Well, you watch yourself.' the speaker uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', followed by 'watch'.
-- 'Must urgently warn everyone.' Here Max anchors the line on the word meaning 'necessary' and builds the thought around 'urgently' and 'to warn'.
+- 'Listen, kid, I want to talk.' Cornered in the hall, the young cook finds himself facing a serious chat.
+- 'What do you need?' Max warily asks what the older man wants from him.
+- 'Vika works here with you.' A certain female employee quickly becomes the main subject of their conversation.
+- 'Viktoria Sergeyevna.' Vadim clarifies exactly which woman he is talking about using her full formal name.
+- 'Who is she seeing here?' Romantic engagements at the workplace are suddenly under intense scrutiny.
+- 'Well, why are we silent?' Pressing for a response, the interrogator refuses to accept silence.
+- 'Why should I answer?' Max defensively questions why he should be interrogated.
+- 'Don't want to answer here?' Intimidating questions flow freely when the current location is deemed suitable.
+- 'You'll answer in my prosecutor's office.' Vadim threatens to relocate their chat to an official government building if necessary.
+- 'Did you understand me?' Making sure his menacing implication has been fully grasped is key.
+- 'Understood, understood everything.' Hastily confirming he comprehends the threat, the cook backs down.
+- 'She is not seeing anyone.' Covering for his lover involves insisting she is completely single.
+- 'Well, you watch yourself.' Vadim issues a final warning before letting the matter drop.
+- 'Must urgently warn everyone.' Sounding the alarm about the suspicious investigator becomes the immediate priority.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, come quickly to my office!' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'quickly' and 'office'.
+- 'Lyova, come quickly to my office!' Barinov shouts for his sous-chef Lyova to come to his office at once.
 - 'Yesterday I bought an expensive bottle of whiskey.' Viktor explains that he left a new bottle in his cabinet.
-- 'Tell me, where is it right now?' Chef Barinov leads with the direct command form meaning 'say', pairing it with 'where' and 'now'.
+- 'Tell me, where is it right now?' Finding his stash gone, Viktor demands to know where the whiskey bottle is.
 - 'Viktor Petrovich, you should not drink today.' Lyova addresses the chef politely while refusing to return the bottle.
 - 'What does it mean that I should not drink?' Viktor cannot believe his own sous-chef is lecturing him.
 - 'Well, you simply do not need this.' Lyova tries to stand firm despite being afraid of Viktor.
-- 'After all, it is very harmful for your health.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'After all, it is very harmful for your health.' Lyova nervously reminds the chef that heavy drinking is bad for his health.
 - 'I see, you are listening to our new owner.' Viktor realizes that Lyova is obeying Kristina's strict ban.
 - 'Do you like following her foolish orders?' Viktor is furious that his staff fears the new owner more than him.
 - 'Chef, this is only for your benefit!' Lyova insists that hiding the alcohol is for Viktor's own good.
-- 'Let us have some hot tea together instead?' Lyova leads with the direct command form meaning 'let's', pairing it with 'better' and 'together'.
+- 'Let us have some hot tea together instead?' Trying to calm him down, Lyova suggests they share a cup of hot tea instead.
 - 'What tea in my kitchen?' Viktor is insulted by the suggestion of drinking tea.
-- 'Get out of here with your green tea!' Viktor angrily sends Lyova back to the kitchen.
+- 'Get out of here with your green tea!' Viktor angrily sends Lyova back to the kitchen. Now listen to the argument between Viktor and Lyova again.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, guy! Where are you carrying the expensive cognac?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What cognac? I took nothing.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The bottle from the bar! It costs twenty thousand.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wow, twenty thousand rubles? What a price!' Expressive numeral question followed by an exclamatory phrase.
-- 'You seriously got into trouble, bartender.' Second-person past idiom with an adverb of manner.
-- 'No, you are the one in trouble!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Return this expensive bottle to me immediately.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Listen here, guy, you are asking for it now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A big wardrobe always falls very loudly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Have you heard such a clever folk rule?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I seriously practiced boxing for many years.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hand over the cognac, otherwise I will hit you!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Okay, okay, no need to fight right away!' Concessive particles followed by an impersonal everyday basic verb form.
+- 'Wait, guy! Where are you carrying the expensive cognac?' Kostya angrily stops the fleeing suspect, immediately demanding answers about the missing liquor.
+- 'What cognac? I took nothing.' The technician plays dumb and denies taking any bottles from the restaurant.
+- 'The bottle from the bar! It costs twenty thousand.' Kostya specifies exactly what was stolen and emphasizes the enormous financial value of the liquor.
+- 'Wow, twenty thousand rubles? What a price!' The shady worker feigns surprise at the huge price tag in order to maintain his innocence.
+- 'You seriously got into trouble, bartender.' The technician quickly drops his innocent act and issues a dark threat to the bartender.
+- 'No, you are the one in trouble!' Kostya flips the threat right back at the thief without showing an ounce of fear.
+- 'Return this expensive bottle to me immediately.' Kostya delivers a firm, unwavering command to give back the stolen property at once.
+- 'Listen here, guy, you are asking for it now.' The technician tries to intimidate the younger man, warning him that he is making a huge mistake.
+- 'A big wardrobe always falls very loudly.' The smuggler uses a colorful metaphor about a falling wardrobe to mock the bartender's size.
+- 'Have you heard such a clever folk rule?' The thief smugly asks if his opponent understands the street wisdom he just shared.
+- 'I seriously practiced boxing for many years.' Kostya reveals his extensive martial arts background to prove he is not easily intimidated.
+- 'Hand over the cognac, otherwise I will hit you!' Kostya presents a clear and present physical threat if the bottle is not returned instantly.
+- 'Okay, okay, no need to fight right away!' The frightened technician immediately backs down and begs for peace when confronted with real violence.

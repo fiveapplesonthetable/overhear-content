@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Nastya, stop being so deeply upset!' Sasha tries to calm her distraught friend down.
-- 'It hurts me very much, he broke my heart.' Nastya confesses how wounded she feels by the sudden rejection.
+- 'It hurts me very much, he broke my heart.' Nastya confesses how wounded she feels by the rejection.
 - 'Do you know how many more guys you will still have?' Sasha reminds her that she has a bright romantic future ahead.
-- 'I do not need others, I liked Max.' Nastya laments that she was genuinely interested in the new cook.
+- 'I do not need others, I liked Max.' Nastya laments that she was genuinely interested in him.
 - 'Is it really worth falling apart over every one?' Sasha argues that no careless man is worth so many tears.
 - 'I am afraid that they will deceive me again.' Nastya shares her deep fear of repeated heartbreak.
-- 'You are kind, beautiful, and very smart.' Sasha boosts Nastya's self-esteem with warm compliments.
-- 'Then why did he forget me so quickly?' Nastya struggles to comprehend Max's indifferent attitude.
-- 'Because he is a foolish and fickle guy.' Sasha bluntly assesses Max's immature behavior.
+- 'You are kind, beautiful, and very smart.' Sasha boosts her friend's self-esteem with warm compliments.
+- 'Then why did he forget me so quickly?' Nastya struggles to comprehend his indifferent attitude.
+- 'Because he is a foolish and fickle guy.' Sasha bluntly assesses the cook's immature behavior.
 - 'I want him to understand his mistake.' Nastya shifts from despair to a sense of injured pride.
-- 'Now those are the right thoughts, my friend!' Russian omits the present-tense verb 'to be' here, linking 'already' directly with 'right', combining 'already' with 'right' and 'thoughts'.
+- 'Now those are the right thoughts, my friend!' Sasha praises this newfound sense of self-respect.
 - 'Thank you so much for the warm support.' Nastya expresses heartfelt gratitude to her loyal friend.

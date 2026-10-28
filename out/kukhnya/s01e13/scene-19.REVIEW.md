@@ -31,17 +31,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Didn't they teach you to knock?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'to knock', followed by 'taught'.
-- 'I am calling the police.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where is my car?' Russian omits the present-tense verb 'to be' here, linking 'where' directly with 'a car' to make the point directly in conversation.
-- 'I have no idea.' Chef Barinov expresses this naturally by combining the word for 'concept' with 'have'.
-- 'That is it. I have had enough.' Elena puts the word for 'then' together with 'has got boring' in a crisp, natural spoken turn of phrase.
-- 'If in five minutes...' Russian omits the present-tense verb 'to be' here, linking 'five' directly with 'minutes' to make the point directly in conversation.
-- 'My car is not back...' The phrasing opens with 'cars' before bringing in 'will be' and 'place' to make the point clear.
-- 'I am reporting it stolen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you understand me?' Elena turns a statement into a question purely through rising intonation on the word meaning 'good', followed by 'did you understand?'.
-- 'That is all.' Elena delivers a punchy conversational reaction built around the Russian word meaning 'all'.
-- 'Before I kill you...' The phrasing opens with 'how' before bringing in 'I'll kill' to make the point clear.
-- 'Answer one question.' Chef Barinov leads with the direct command form meaning 'answer', followed by 'question'.
-- 'Why did you take the car?' Chef Barinov puts the word for 'what for' together with 'to take away' and 'car' in a crisp, natural spoken turn of phrase.
-- 'Boss, he could not make it.' Fedya uses the action verb meaning 'worked out' to focus on the single completed result, pairing it with 'to come'. Now let's listen to the whole conversation again from start to finish.
+- 'Didn't they teach you to knock?' Chef Barinov meets her intrusion with sarcasm. He asks if she forgot her manners.
+- 'I am calling the police.' Elena gets straight to the point. She announces she is contacting the authorities.
+- 'Where is my car?' She demands answers about her missing property. Elena wants to know where her vehicle went.
+- 'I have no idea.' Chef Barinov pleads ignorance. He claims he knows absolutely nothing about it.
+- 'That is it. I have had enough.' Elena loses her patience completely. She declares she is sick of his games.
+- 'If in five minutes...' She issues a strict deadline. Elena gives him exactly five minutes to fix the situation.
+- 'My car is not back...' She lays out the condition. Elena expects her property returned to its rightful place.
+- 'I am reporting it stolen.' She states the consequence clearly. Elena promises to officially report a theft.
+- 'Do you understand me?' Elena demands confirmation. She asks if he fully comprehends her threat.
+- 'That is all.' She ends the conversation abruptly. Elena declares she has nothing more to say.
+- 'Before I kill you...' Chef Barinov turns his wrath on Fedya. He promises violent retribution.
+- 'Answer one question.' He demands a single answer before acting. Barinov tells Fedya to explain himself.
+- 'Why did you take the car?' Chef Barinov asks the crucial question. He wants to know why Fedya moved the vehicle.
+- 'Boss, he could not make it.' Fedya offers a weak excuse. He blames someone else for failing to show up.

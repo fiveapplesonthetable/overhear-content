@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = "Slumping onto a stool at the Claude Monet bar, Max attempts to recover from a sleepless night of drinking at the nightclub. Bartender Kostya immediately detects the painful signs of a hangover and pours a lifesaving jug of cold water for the young newcomer. Let's listen to their conversation in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and grammar."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Kostya slides a large carafe of water across the bar. Next time you watch the episode, listen for the Russian expressions for 'appetite' and 'pale' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, "'Been drinking yesterday?' Kostya asks casually, using the colloquial verb for drinking alcohol."),
     (1, None, "'Is it noticeable?' Max replies ruefully, realizing his rough night shows on his face."),
-    (7, None, "'Would you like anything?' the bartender inquires, switching into professional hospitality mode."),
-    (8, None, "'Water.' Max croaks, as he is in need of cold water before his interview."),
-    (10, None, "'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more. Now let's listen to the whole conversation again from start to finish."),
+    (2, None, "'Would you like anything?' the bartender inquires, switching into professional hospitality mode."),
+    (3, None, "'Water.' Max croaks, as he is in need of cold water before his interview."),
+    (4, None, "'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more."),
 ]

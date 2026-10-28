@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vik,' Max delivers a punchy one-word reaction built around the Russian word meaning 'Vika'.
-- 'Looks like your plan worked.' Here Max anchors the line on the word meaning 'apparently' and builds the thought around 'worked' and 'plan'.
-- 'Shut up, please.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to fall silent'.
-- 'This is our new owner.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'owner', combining 'new' with 'owner'. Now let's listen to the whole conversation again from start to finish.
+- 'Vik,' Walking into the hall, Max calls out casually to Vika.
+- 'Looks like your plan worked.' Still dizzy from his stunt, he blurts out that the plan actually worked.
+- 'Shut up, please.' Standing beside the new boss, Vika hisses at Max to shut up.
+- 'This is our new owner.' She quickly reminds him that the man next to her is their new owner.

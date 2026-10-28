@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arseny, you deserve respectful treatment.' The polite address uses the formal everyday word and a verb governing matching form.
-- 'You have the cleanest workstation.' The superlative adjective phrase highlights excellence in workplace cleanliness.
-- 'Sasha, calmly, let us breathe deeply.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Ask the guests to wait a little longer.' The polite command form guides the front-of-house staff with an basic verb form complement. Now, let's review Elena's respectful kitchen guidance once more. Now let's listen to the whole conversation again from start to finish.
+- 'Arseny, you deserve respectful treatment.' Elena surprises the cooks with an uncharacteristically formal and dignified address.
+- 'You have the cleanest workstation.' She singles out a specific cook to offer genuine praise for his organization.
+- 'Sasha, calmly, let us breathe deeply.' When the waitress rushes in, Elena de-escalates the tension rather than yelling.
+- 'Ask the guests to wait a little longer.' She gives clear instructions on how to handle the delay in the dining room.

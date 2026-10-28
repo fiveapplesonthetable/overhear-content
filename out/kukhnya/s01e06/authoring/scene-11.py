@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Having completed an inspection of the pristine dining area, Victoria leads the stern sanitary inspector toward the kitchen. While Victoria attempts to maintain an upbeat and confident tone, the inspector makes it clear that standards are uncompromising. Let's listen to their formal conversation in Russian first."
 OPENER = "Let's examine the polite yet tense exchange between Victoria and the inspector."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you understand how formal inspections are conducted in upscale restaurants. Listen for these official phrases next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'everywhere' and 'carefully' — you will catch every word right away. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('vika', 'Добро пожаловать на нашу кухню!', 'Welcome to our kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Come in, please, here is our kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'Regarding the hall, I have no complaints.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'Now let's look at your kitchen carefully.' The future inclusive form expresses shared action, with the adverb placed at the end for emphasis."),
-    (7, None, "'I myself will check every workstation.' The emphatic word underscores personal oversight, governing the matching word ending noun phrase. Okay, let's hear the formal dialogue once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Come in, please, here is our kitchen.' Politely gesturing the official forward, Vika leads the way into the kitchen."),
+    (1, None, "'Regarding the hall, I have no complaints.' Granting a rare shred of approval, the inspector praises the dining room."),
+    (2, None, "'Now let's look at your kitchen carefully.' Making his intentions clear, the official prepares for serious scrutiny."),
+    (3, None, "'I myself will check every workstation.' The inspector insists on conducting a thorough, hands-on sweep."),
 ]

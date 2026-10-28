@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Шеф | И только я имею право их ругать. | And only I have the right to scold them. | #352: И только я имею право их так называть. | verbatim |
 | 11 | Шеф | Работа шефа — сделать из них команду! | The chef's job is to make a team out of them! | #353: И разве не в этом состоит работа шефа?<br>#354: высококлассную команду? | verbatim |
 | 12 | Елена | Вы умеете красиво оправдать любой беспорядок. | You know how to beautifully justify any mess. | new | new |
-| 13 | Шеф | Шеф, вы мне должны отличный ужин! | Chef, you owe me a great dinner! | #355: А? Шеф?<br>#356: Вы мне ужин должны. | verbatim |
+| 13 | Елена | Шеф, вы мне должны отличный ужин! | Chef, you owe me a great dinner! | #355: А? Шеф?<br>#356: Вы мне ужин должны. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And only I have the right to scold them.' The chef claims exclusive ownership of his kitchen family.
 - 'The chef's job is to make a team out of them!' Barinov eloquently articulates the true essence of leadership.
 - 'You know how to beautifully justify any disorder.' Elena shakes her head at Viktor's brazen charm.
-- 'Chef, you owe me a great dinner!' Barinov happily claims his wager prize with a triumphant grin.
+- 'Chef, you owe me a great dinner!' Elena happily claims his wager prize with a triumphant grin.

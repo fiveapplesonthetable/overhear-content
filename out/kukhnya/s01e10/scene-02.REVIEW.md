@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, how is your health this morning?' Russian omits the present-tense verb 'to be' here, linking 'chef' directly with 'how', pairing it with 'health' and 'today'.
-- 'Senya, step back, my head hurts.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'step back' and 'hurts'.
-- 'I brought you cold fresh brine.' Senya uses the action verb meaning 'brought' to focus on the single completed result, pairing it with 'cold' and 'fresh'.
-- 'Oh, Senya, you are a true loyal friend.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'true', pairing it with 'loyal' and 'friend'.
-- 'Drink a little, it will immediately become much easier.' Senya leads with the direct command form meaning 'drink', pairing it with 'a little' and 'immediately'.
-- 'This drink helps me very much.' Here Chef Barinov anchors the line on the word meaning 'drink' and builds the thought around 'very much' and 'helps'.
-- 'Did Spartak lose an important match again yesterday?' Senya turns a statement into a question purely through rising intonation on the word meaning 'yesterday', pairing it with 'again' and 'lost'.
-- 'Do not talk to me about that nightmare.' Chef Barinov leads with the direct command form meaning 'speak', followed by 'nightmare'.
-- 'Understood, chef, no more unnecessary words.' Russian omits the present-tense verb 'to be' here, linking 'understood' directly with 'chef', pairing it with 'more' and 'unnecessary'.
-- 'Bring me one more glass of brine.' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'more' and 'one'.
-- 'I will quickly bring it now from our kitchen.' The phrasing opens with 'now' before bringing in 'quickly' and 'will bring' to make the point clear.
-- 'And begin preparing lunch for the guests.' Chef Barinov leads with the direct command form meaning 'begin', pairing it with 'to cook' and 'lunch'.
-- 'Everything will be ready on time, chef.' Senya chooses the action verb meaning 'will' for the ongoing action, followed by 'ready' and 'on time'.
+- 'Chef, how is your health this morning?' Russian leaves out the word for 'to be' here, linking 'chef' directly with 'how', pairing it with 'health' and 'today'.
+- 'Senya, step back, my head hurts.' Barinov uses the classic style — literally 'at me' rather than a word for 'to have', pairing it with 'step back' and 'hurts'.
+- 'I brought you cold fresh brine.' Senya uses the word for 'brought' to focus on the completed action, pairing it with 'cold' and 'fresh'.
+- 'Oh, Senya, you are a true loyal friend.' Russian leaves out the word for 'to be' here, linking 'oh' directly with 'true', pairing it with 'loyal' and 'friend'.
+- 'Drink a little, it will immediately become much easier.' Senya leads with the direct word for 'drink', pairing it with 'a little' and 'immediately'.
+- 'This drink helps me very much.' Barinov anchors the line on the word for 'drink' and builds the thought around 'very much' and 'helps'.
+- 'Did Spartak lose an important match again yesterday?' Senya asks this purely through rising tone on the word for 'yesterday', pairing it with 'again' and 'lost'.
+- 'Do not talk to me about that nightmare.' Barinov leads with the direct word for 'speak', followed by 'nightmare'.
+- 'Understood, chef, no more unnecessary words.' Russian leaves out the word for 'to be' here, linking 'understood' directly with 'chef', pairing it with 'more' and 'unnecessary'.
+- 'Bring me one more glass of brine.' Barinov leads with the direct word for 'bring', pairing it with 'more' and 'one'.
+- 'I will quickly bring it now from our kitchen.' Senya opens with 'now' before bringing in 'quickly' and 'will bring' to make the point clear.
+- 'And begin preparing lunch for the guests.' Barinov leads with the direct word for 'begin', pairing it with 'to cook' and 'lunch'.
+- 'Everything will be ready on time, chef.' Senya chooses the word for 'will' for the ongoing action, followed by 'ready' and 'on time'.

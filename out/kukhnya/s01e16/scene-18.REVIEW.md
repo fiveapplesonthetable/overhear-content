@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'May I look at your documents?' A formal request used by an official during an inspection.
 - 'No, you work here as a chef.' Russian uses the matching word ending for the profession after the verb to work.
 - 'Also you are constantly touching your head.' A sharp observation pointing out a physical habit.
-- 'Because at work one must not drink.' An explanation referencing workplace rules with an impersonal modal word. Now, let's listen to the inspector's deduction from start to finish. Now let's listen to the whole conversation again from start to finish.
+- 'Because at work one must not drink.' An explanation referencing workplace rules with an impersonal modal word. Now, let's listen to the inspector's deduction from start to finish.

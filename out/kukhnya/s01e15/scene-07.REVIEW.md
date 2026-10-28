@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, do not get carried away with pancakes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what is bad about these tasty pancakes?' Russian omits the present-tense verb 'to be' here, linking 'bad' directly with 'tasty', combining 'bad' with 'tasty' and 'pancakes'.
-- 'Remember your last test.' Chef Barinov leads with the direct command form meaning 'remember', pairing it with 'last' and 'test'.
-- 'My cholesterol level was almost in range.' Lyova expresses this naturally by combining the word for 'level' with 'cholesterol' and 'was'.
-- 'Go to the dry cleaners and take my suit.' Chef Barinov leads with the direct command form meaning 'come in', pairing it with 'dry cleaner’s' and 'take'.
-- 'I do not have time. That is the other way.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Lyova, come on, favor for a favor.' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'favor' and 'service'.
-- 'What useful favor can there be from you?' Lyova expresses this naturally by combining the word for 'what' with 'can' and 'be'.
-- 'You get me the suit, and I allow you to be late.' Chef Barinov puts the word for 'suit' together with 'allow' and 'to be late' in a crisp, natural spoken turn of phrase.
-- 'Alright, I agree to these strange conditions.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'agreed', combining 'good' with 'agreed' and 'strange'.
-- 'That is it, you are no longer sous-chef.' Russian omits the present-tense verb 'to be' here, linking 'more' directly with 'sous-chef', combining 'more' with 'sous-chef'.
-- 'How can you act like this with me?' Lyova expresses this naturally by combining the word for 'how' with 'can' and 'to treat'.
-- 'March to the utility room.' Russian omits the present-tense verb 'to be' here, linking 'march!' directly with 'back room', combining 'march!' with 'back room'.
+- 'Lyova, do not get carried away with pancakes.' Barinov warns his colleague not to get too enthusiastic about eating the pancakes.
+- 'And what is bad about these tasty pancakes?' Lyova questions what could possibly be wrong with such a delicious dish.
+- 'Remember your last test.' The chef points out a recent medical checkup as a reason for caution.
+- 'My cholesterol level was almost in range.' Defending his health, Lyova mentions his cholesterol was almost within normal limits.
+- 'Go to the dry cleaners and take my suit.' Barinov then gives a direct order to pick up his clothes from the dry cleaners.
+- 'I do not have time. That is the other way.' Complaining about the lack of time, Lyova notes that the errand is completely out of his way.
+- 'Lyova, come on, favor for a favor.' Barinov tries to make a deal, offering a trade of favors.
+- 'What useful favor can there be from you?' Skeptical of the offer, Lyova wonders what useful thing his boss could possibly do for him.
+- 'You get me the suit, and I allow you to be late.' The chef proposes a simple exchange: picking up the suit in return for permission to arrive late.
+- 'Alright, I agree to these strange conditions.' Accepting the deal, Lyova agrees to the unusual terms.
+- 'That is it, you are no longer sous-chef.' Barinov suddenly pulls rank, declaring that Lyova has lost his position as sous-chef.
+- 'How can you act like this with me?' Shocked by the betrayal, Lyova asks how his boss could treat him this way.
+- 'March to the utility room.' Dismissing him completely, the chef orders him straight to the utility room.

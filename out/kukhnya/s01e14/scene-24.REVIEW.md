@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what am I?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A croissant or celery?' Russian omits the present-tense verb 'to be', connecting 'a croissant' directly with 'celery'.
-- 'Well, of course a croissant.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'a croissant', combining 'of course' with 'a croissant'.
-- 'Why a croissant?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'a croissant', combining 'why' with 'a croissant'.
-- 'I don' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You saved our restaurant.' Vika uses the action verb meaning 'saved' to focus on the single completed result, pairing it with 'restaurant'.
-- 'You did great, Max.' Vika uses the informal everyday 'you' here with 'Max', as friends and close colleagues do.
-- 'I just did my job.' Max expresses this naturally by combining the word for 'just' with 'did' and 'job'.
-- 'No, it was cool.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You helped me a lot.' Vika uses the informal everyday 'you' here with 'to me', as friends and close colleagues do.
-- 'Thank you.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'thank you'.
-- 'My brave croissant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'brave' straight to 'a croissant'.
+- 'And what am I?' Max playfully asks for his reward. He wonders what his new title is.
+- 'A croissant or celery?' He offers two funny options based on their history. Max asks if he is a croissant or celery.
+- 'Well, of course a croissant.' Vika smiles and gives him the better option. She assures him he is definitely a croissant.
+- 'Why a croissant?' Max pretends to be confused by the choice. He jokingly asks why she picked croissant.
+- 'I don' He brings up a fake dietary restriction. Max claims he does not even eat baked goods.
+- 'You saved our restaurant.' Vika ignores the joke and expresses genuine gratitude. She tells him he saved their restaurant.
+- 'You did great, Max.' She offers him sincere praise. Vika calls him a good guy and uses his name affectionately.
+- 'I just did my job.' Max downplays his heroic actions. He humbly claims he was just doing his job.
+- 'No, it was cool.' Vika refuses to let him be modest. She insists that what he did was actually very cool.
+- 'You helped me a lot.' She acknowledges his personal support. Vika tells him he helped her a lot.
+- 'Thank you.' Vika delivers a simple, heartfelt expression of gratitude. She thanks him sincerely.
+- 'My brave croissant.' She gives him a sweet new nickname. Vika affectionately calls him her brave croissant.

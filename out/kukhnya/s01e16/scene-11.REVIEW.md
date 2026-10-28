@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, let us just do it quickly.' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'good' and 'only'.
-- 'I will get straight to the point.' the speaker uses the action verb meaning 'to cross' to focus on the single completed result, pairing it with 'at once' and 'case'.
-- 'Have you heard anything about me?' the speaker turns a statement into a question purely through rising intonation on the word meaning 'did you hear?' to make the point directly in conversation.
-- 'Yes, heard in all countries.' Chef Barinov chooses the action verb meaning 'did you hear?' for the ongoing action, followed by 'country'.
-- 'Do you know what they call me?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They call me a scary person.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A month ago there was an inspection.' The '-a' ending on the past-tense verb for 'was' shows that the subject is matching.
-- 'They did not find anything here.' Here the verb for 'found' takes the everyday past-tense ending '-li', which is also used for the polite 'you'.
-- 'Do you want a mint candy?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'would you like'.
-- 'No, I do not need it.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'necessary'.
-- 'Our service is like birds.' Russian omits the present-tense verb 'to be' here, linking 'service' directly with 'similar', combining 'service' with 'similar' and 'birds'.
-- 'We always look at you from above.' The character uses the polite everyday 'you' alongside 'upstairs', keeping a formal or respectful register.
+- 'Alright, let us just do it quickly.' Barinov agrees to the request but immediately sets a boundary, asking to keep things brief.
+- 'I will get straight to the point.' Lanovsky promises to skip the small talk and jump right into the main topic.
+- 'Have you heard anything about me?' Asking this question directly, the speaker tries to establish his reputation right from the start.
+- 'Yes, heard in all countries.' Barinov replies with a sarcastic exaggeration, implying that the person's fame is worldwide.
+- 'Do you know what they call me?' The migration officer builds suspense by asking about his own nickname.
+- 'They call me a scary person.' Lanovsky embraces his intimidating reputation, proudly sharing his fearsome title.
+- 'A month ago there was an inspection.' Trying to deflect suspicion, the chef points out that they recently passed a review.
+- 'They did not find anything here.' Emphasizing their innocence, the speaker firmly states that previous inspectors came up empty.
+- 'Do you want a mint candy?' Offering a small treat, the guest attempts to create a falsely friendly atmosphere.
+- 'No, I do not need it.' The chef bluntly rejects the polite offer, keeping the interaction strictly professional.
+- 'Our service is like birds.' Lanovsky makes a poetic comparison, likening his department's work to creatures in the sky.
+- 'We always look at you from above.' Finishing his metaphor, the inspector implies that they are constantly watching everyone from a higher position of power.

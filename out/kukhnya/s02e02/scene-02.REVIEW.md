@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who are you?' Russian omits the present-tense verb 'to be' here, linking 'you' directly with 'who', combining 'you' with 'who' and 'such'.
-- 'What are you smiling at?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'are smiling'.
-- 'Come on, answer.' Chef Barinov leads with the direct command form meaning 'let's', followed by 'answer'.
-- 'Aynura, is this a Japanese person?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'Japanese man' to make the point directly in conversation.
-- 'No.' A crisp, everyday conversational reply meaning 'no' that you will hear constantly in Russian dialogue.
-- 'He is not ours.' Russian omits the present-tense verb 'to be' here, linking 'he' directly with 'not', combining 'he' with 'not' and 'our'.
-- 'Listen, you made a mistake.' Chef Barinov leads with the direct command form meaning 'listen', followed by 'mixed up'.
-- 'They make sushi next door.' Chef Barinov expresses this naturally by combining the word for 'sushi' with 'they do' and 'nearby'.
-- 'Chef, this is the new cook.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'chef', combining 'new' with 'chef'.
-- 'What cook?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'chef'.
-- 'He will make sushi.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Get out of here.' Chef Barinov leads with the direct command form meaning 'go', followed by 'from here'.
+- 'Who are you?' Spotting a stranger in a chef's coat, Barinov demands to know who he is.
+- 'What are you smiling at?' The man only smiles silently, making Viktor ask what he is grinning at.
+- 'Come on, answer.' Impatient, the chef tells the newcomer to speak up and answer.
+- 'Aynura, is this a Japanese person?' Turning to Ainura, Viktor asks if the silent man is Japanese.
+- 'No.' Ainura shakes her head and says no.
+- 'He is not ours.' She clarifies that he is not one of her relatives or countrymen.
+- 'Listen, you made a mistake.' Thinking the man walked into the wrong kitchen, Viktor says he made a mistake.
+- 'They make sushi next door.' Barinov points out that the sushi bar is next door, not here.
+- 'Chef, this is the new cook.' Senya steps in to explain that the man actually is their new cook.
+- 'What cook?' Baffled, Viktor asks what kind of cook Senya means.
+- 'He will make sushi.' Senya reveals that the new owner hired him to roll sushi in their French kitchen.
+- 'Get out of here.' Outraged by the idea of sushi in his restaurant, Barinov orders the man out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, hi, are you very busy right now?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Hi, Nastya, no, I am completely free.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then come with me into the quiet room.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait a second, where exactly are we going?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I wanted to ask you seriously for a long time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will listen to you with pleasure now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you want us to start dating?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nastya, I just got a little confused.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Or do you not want this at all?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course I want to, I like you very much!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am very glad to hear this from you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now it is time for us to return to the guests.' Temporal adverb with everyday noun governing basic verb form and directional matching form.
+- 'Kostya, hi, are you very busy right now?' Nastya tentatively checks if the bartender has a moment.
+- 'Hi, Nastya, no, I am completely free.' Kostya happily confirms he is available to talk.
+- 'Then come with me into the quiet room.' Nastya asks him to step away for some privacy.
+- 'Wait a second, where exactly are we going?' Kostya is slightly confused but follows her lead.
+- 'I wanted to ask you seriously for a long time.' Nastya builds up to her important question.
+- 'I will listen to you with pleasure now.' Kostya gives her his undivided attention.
+- 'Do you want us to start dating?' Nastya finally asks the big romantic question.
+- 'Nastya, I just got a little confused.' Kostya is caught completely off guard by the proposal.
+- 'Or do you not want this at all?' Nastya starts to backtrack, fearing a rejection.
+- 'Of course I want to, I like you very much!' Kostya quickly recovers and eagerly accepts.
+- 'I am very glad to hear this from you.' Nastya expresses relief at his positive response.
+- 'Now it is time for us to return to the guests.' Kostya points out they need to get back to their jobs.

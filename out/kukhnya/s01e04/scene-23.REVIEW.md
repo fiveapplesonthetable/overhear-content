@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only you, Arkady, understand me.' Barinov confides his deep frustrations to his goldfish.
-- 'Around me are only slackers and fools!' The temperamental chef vents about the kitchen staff.
-- 'Maxim, where are you getting ready to go now?' The phrasing opens with 'where' before bringing in 'now' and 'to intend' to make the point clear.
-- 'Anywhere, the chef just fired me.' Max sadly shares the bad news about his termination.
-- 'Maybe the chef was just joking unsuccessfully?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'to be' and 'boss'.
-- 'No, he never jokes like that.' Max knows Barinov was dead serious about the firing.
-- 'I really do not want you to leave!' Nastya expresses her deep sadness over his departure.
-- 'I also wanted to stay in this kitchen.' Max admits his culinary dream has been crushed.
-- 'Let me hide you right here!' Nastya playfully proposes smuggling him inside the restaurant.
-- 'Thank you, Nastya, but hiding is silly.' Max smiles gently at her sweet but impractical plan.
-- 'The main thing is do not worry because of the chef.' The phrasing opens with 'main thing' before bringing in 'to worry' and 'boss' to make the point clear.
-- 'Now you have me in the restaurant!' The kind waitress vows to always stand by his side.
-- 'Thank you for the support, you are a true friend.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'support', combining 'thank you' with 'support' and 'real'.
-- 'We will definitely come up with something!' Nastya refuses to give up hope for his return.
+- 'Only you, Arkady, understand me.' Barinov tells Arkady he is the only one who understands him.
+- 'Around me are only slackers and fools!' Barinov complains about being surrounded by lazy and incompetent people.
+- 'Maxim, where are you getting ready to go now?' Nastya asks Maxim where he is heading.
+- 'Anywhere, the chef just fired me.' Max replies he could go anywhere since he was just fired.
+- 'Maybe the chef was just joking unsuccessfully?' Nastya suggests the boss might have made a bad joke.
+- 'No, he never jokes like that.' Max confirms the boss never jokes like that.
+- 'I really do not want you to leave!' Nastya expresses that she really does not want him to leave.
+- 'I also wanted to stay in this kitchen.' Max admits he also wanted to stay in this kitchen.
+- 'Let me hide you right here!' Nastya offers to hide him right there.
+- 'Thank you, Nastya, but hiding is silly.' Max appreciates the offer but calls the idea silly.
+- 'The main thing is do not worry because of the chef.' Nastya tells him not to worry about the boss.
+- 'Now you have me in the restaurant!' Nastya points out that he has her support in the restaurant now.
+- 'Thank you for the support, you are a true friend.' Max thanks her and calls her a true friend.
+- 'We will definitely come up with something!' Nastya promises they will come up with a solution.

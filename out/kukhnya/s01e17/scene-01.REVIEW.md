@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I stepped in a rotten plum, chef.' Max uses the action verb meaning 'stepped on' to focus on the single completed result, pairing it with 'rotten' and 'plum'.
-- 'Quit whining, I am in a good mood.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'enough' with 'to whine' and 'lovely'.
-- 'Today you will learn the art of buying fish.' The phrasing opens with 'today' before bringing in 'will learn' and 'the Art' to make the point clear.
-- 'How many days old is this fish, Max?' Russian omits the present-tense verb 'to be' here, linking 'how much' directly with 'days', combining 'how much' with 'days' and 'fish'.
-- 'The seller says they brought it today.' Max puts the word for 'sales assistant' together with 'talks' and 'delivered' in a crisp, natural spoken turn of phrase.
-- 'Watch closely, he pursed his lips.' Chef Barinov leads with the direct command form meaning 'look', pairing it with 'carefully' and 'pursed'.
-- 'That means this fish is at least three days old.' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'fish', pairing it with 'at least' and 'three'.
-- 'And now he scratched his nose.' Chef Barinov expresses this naturally by combining the word for 'now' with 'scratched' and 'nose'.
-- 'This fish is already five days old.' Russian omits the present-tense verb 'to be' here, linking 'fish' directly with 'already', pairing it with 'five' and 'days'.
-- 'And it was definitely frozen before.' Here Chef Barinov anchors the line on the word meaning 'definitely' and builds the thought around 'froze' and 'earlier'.
-- 'Chef, you are a true master of your craft.' Russian omits the present-tense verb 'to be' here, linking 'real' directly with 'technician', followed by 'things'.
-- 'Learn from me while I am kind.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'learn' and 'bye'.
-- 'Thank you for this important lesson, chef.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'important', followed by 'lesson'.
+- 'I stepped in a rotten plum, chef.' Max admits his clumsy mistake of stepping on a 'rotten plum'.
+- 'Quit whining, I am in a good mood.' Barinov shuts down the whining immediately, declaring he is in a good mood.
+- 'Today you will learn the art of buying fish.' Barinov announces his intention to teach his apprentice the art of buying fish.
+- 'How many days old is this fish, Max?' Barinov quizzes his student by asking how old the fish in front of them is.
+- 'The seller says they brought it today.' Max relays what the market seller told him about the fresh delivery today.
+- 'Watch closely, he pursed his lips.' Barinov instructs him to observe the seller carefully, pointing out the pursed lips.
+- 'That means this fish is at least three days old.' Barinov interprets the body language to mean the fish is at least three days old.
+- 'And now he scratched his nose.' Barinov points out another gesture as the seller scratches his nose.
+- 'This fish is already five days old.' Barinov explains that the nose scratch adds two more days, making it five.
+- 'And it was definitely frozen before.' Barinov points out that the fish has also been frozen before.
+- 'Chef, you are a true master of your craft.' Max flatters his boss by calling him a true master.
+- 'Learn from me while I am kind.' Barinov tells him to take advantage of his good mood and learn.
+- 'Thank you for this important lesson, chef.' Max expresses his gratitude for the important lesson.

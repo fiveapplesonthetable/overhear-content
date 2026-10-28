@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
 INTRO = "Terrified of the lie detector machine in Barinov's office, line cook Senya completely breaks down before the sensors are even attached. Instead of answering questions about rival restaurant Arcobaleno, Senya frantically confesses to every scrap of food he ever pilfered from the kitchen. Let's listen to his hilarious confession in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Barinov stares in disbelief at his sobbing cook before deciding what to do next. Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'more' — you will catch every word right away. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Chef, please do not turn on the device!' Senya begs, sweating profusely before the machine is even attached."),
-    (3, None, "'I took this fish after the banquet!' the line cook confesses, voluntarily admitting to kitchen pilfering."),
-    (5, None, "'And the half-kilo of expensive caviar?' Chef Barinov presses, seizing the chance to uncover other thefts."),
-    (9, None, "'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more. Now let's listen to the whole conversation again from start to finish."),
+    (1, None, "'I took this fish after the banquet!' the line cook confesses, voluntarily admitting to kitchen pilfering."),
+    (2, None, "'And the half-kilo of expensive caviar?' Chef Barinov presses, seizing the chance to uncover other thefts."),
+    (3, None, "'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more."),
 ]

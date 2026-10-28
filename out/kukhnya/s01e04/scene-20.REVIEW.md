@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of strange dish is this?' The cook stares in disbelief at the oddly colored food.
-- 'This is my new delicious soup!' Max introduces his culinary invention with great pride.
-- 'Why is it such a blue color?' An obvious question about the soup's unnatural bright hue.
-- 'This is an original creator's recipe.' Russian omits the present-tense verb 'to be' here, linking 'original' directly with 'author's', combining 'original' with 'author's' and 'recipe'.
-- 'Thanks, I am on a diet today.' An excuse to politely decline trying the suspect blue meal.
-- 'Wait, this is really very delicious!' Max pleads with everyone to look beyond the appearance.
-- 'Pardon, that is my food coloring!' The French pastry chef recognizes his missing ingredient.
-- 'I looked for it for so long!' Louis reveals that a bottle of blue dye had gone missing.
-- 'Wait, where are you all going?' Max sees his audience backing away from the table.
-- 'We do not want to eat chemicals.' The cooks refuse to ingest artificial baking dye.
-- 'But this is actually delicious!' Max insists that the dish tastes wonderful despite the color.
-- 'What an interesting pretty little soup.' A brave cook takes a spoonful and reconsiders.
-- 'Like you are eating the sea directly.' The flavor surprisingly evokes an oceanic essence.
-- 'I told you it was delicious!' Max celebrates winning over the skeptical kitchen staff. Alright, let's hear the whole thing once more.
+- 'What kind of strange dish is this?' Senya wonders about the strange dish.
+- 'This is my new delicious soup!' Max introduces his new delicious soup.
+- 'Why is it such a blue color?' Senya questions why the soup is blue.
+- 'This is an original creator's recipe.' Max explains it is an original recipe he created.
+- 'Thanks, I am on a diet today.' Senya declines the offer, claiming to be on a diet.
+- 'Wait, this is really very delicious!' Max insists the soup is actually very tasty.
+- 'Pardon, that is my food coloring!' Louis interrupts, recognizing the blue substance as his food coloring.
+- 'I looked for it for so long!' Louis mentions he has been searching for it for a long time.
+- 'Wait, where are you all going?' Max asks where everyone is going as they walk away.
+- 'We do not want to eat chemicals.' Senya states they do not want to eat chemicals.
+- 'But this is actually delicious!' Max still defends the taste of his creation.
+- 'What an interesting pretty little soup.' Senya sarcastically calls it an interesting and pretty soup.
+- 'Like you are eating the sea directly.' Senya jokes that eating it is like eating the sea.
+- 'I told you it was delicious!' Max repeats that he told them it was delicious.

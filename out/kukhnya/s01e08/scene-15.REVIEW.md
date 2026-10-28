@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He runs around and plays very merrily.' Two present tense verbs describe continuous active play with an expressive adverb in the sentence.
-- 'I simply fell in love with this dog.' A self-directed form past tense verb paired with a matching form matching form expresses affectionate admiration.
-- 'He and I get along wonderfully.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'We need to go buy a dog urgently!' A modal everyday construction combined with multiple dependent infinitives conveys immediate urgency. Now, let's hear Sasha's deceptive phone conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'He runs around and plays very merrily.' Sasha desperately paints a picture of a healthy dog to avoid alarming the owner.
+- 'I simply fell in love with this dog.' She pours on the charm, hoping her supposed affection will buy them some time.
+- 'He and I get along wonderfully.' The waitress keeps up the lie about her deep bond with a pet she just met.
+- 'We need to go buy a dog urgently!' Once off the phone, she drops the sweet act and panics over their missing animal problem.

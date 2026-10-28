@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, my friend, what is happening to you right now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, I still cannot believe it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You look very pale and terribly frightened.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I was just told the craziest news.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did the Chef want to kick you out of the kitchen again?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No, the Chef has absolutely nothing to do with it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then speak quickly, do not torment me for long.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Vika is pregnant with my child.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What? Our beautiful Vika is expecting your child?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, she told me that right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Congratulations, brother, you will soon become a young father!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am in total shock and terribly lost.' Subject word with everyday matching form, coordinating conjunction, manner adverb, and past self-directed form.
+- 'Max, my friend, what is happening to you right now?' Kostya neatly shapes that idea by fusing 'max' with 'happening' plus 'now'.
+- 'Kostya, I still cannot believe it.' Max plainly shapes that thought through grouping 'kostya' and 'still' along with 'believe'.
+- 'You look very pale and terribly frightened.' Kostya simply gives some concept through fusing 'you' with 'pale' as well as 'frightened'.
+- 'I was just told the craziest news.' Max boldly shapes that thought by joining 'i' with 'told' as well as 'news'.
+- 'Did the Chef want to kick you out of the kitchen again?' Kostya softly forms some image by blending 'did' with 'you' and 'again'.
+- 'No, the Chef has absolutely nothing to do with it.' Max softly gives this picture through blending 'no' with 'absolutely' along with 'with'.
+- 'Then speak quickly, do not torment me for long.' Kostya truly shows that image through fusing 'then' and 'not' along with 'long'.
+- 'Vika is pregnant with my child.' Max truly shows some thought by combining 'vika' with 'with' along with 'child'.
+- 'What? Our beautiful Vika is expecting your child?' Kostya neatly shares some point by connecting 'what' and 'vika' along with 'child'.
+- 'Yes, she told me that right now.' Max calmly draws that idea through fusing 'yes' with 'me' plus 'now'.
+- 'Congratulations, brother, you will soon become a young father!' Kostya boldly builds this thought by combining 'congratulations' with 'soon' as well as 'father'.
+- 'I am in total shock and terribly lost.' Max gladly gives that image by matching 'i' with 'and' and 'lost'.

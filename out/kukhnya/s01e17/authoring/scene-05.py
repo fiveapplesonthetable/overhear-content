@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
 INTRO = "Chef Viktor gathers the kitchen staff to make an important announcement about the menu. He explains the new contest for a seasonal dish. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Seasonal menu line by line and unpack how the Russian works."
-TRANSITION = "Now listen to the whole scene again. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The chefs enthusiastically agree and get ready to cook. Next time you watch the episode, listen for the Russian expressions for 'advertisement' and 'necessary' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'До свидания.')
 STORY = [
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Все поняли. Да, шеф!', 'Everyone understood. Yes, Chef!', [(73, 'Все инвалиды поняли. Да, шеф!')], ''),
 ]
 WALK = [
-    (0, None, "'I have an announcement.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'advertisement'."),
-    (1, None, "'We need a seasonal dish.' Russian omits the present-tense verb 'to be' here, linking 'necessary' directly with 'seasonal', combining 'necessary' with 'seasonal' and 'dish'."),
-    (2, None, "'Chef, wait.' Max leads with the direct command form meaning 'wait' to make the point directly in conversation."),
-    (3, None, "'You said you wouldn' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'And I won't be.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'."),
-    (5, None, "'You will.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'."),
-    (6, None, "'The winner gets a bonus.' The phrasing opens with 'winner' before bringing in 'will get' and 'bonus' to make the point clear."),
-    (7, None, "'And I won' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'And the bonus is right away?' Max turns a statement into a question purely through rising intonation on the word meaning 'bonus', followed by 'at once'."),
-    (9, None, "'The bonus is at the end of the month.' Russian omits the present-tense verb 'to be' here, linking 'bonus' directly with 'end', combining 'bonus' with 'end' and 'months'."),
-    (10, None, "'But I'll stop calling you disabled right away.' The phrasing opens with 'disabled person' before bringing in 'will stop' and 'to call' to make the point clear."),
-    (11, None, "'Everyone understood. Yes, Chef!' Max confirms they accept the challenge."),
+    (0, None, "'I have an announcement.' Barinov gathers the kitchen staff to deliver an announcement."),
+    (1, None, "'We need a seasonal dish.' Barinov explains that they need a new seasonal dish."),
+    (2, None, "'Chef, wait.' Max interrupts to ask his boss to wait."),
+    (3, None, "'You said you wouldn' Max reminds him of his previous claim that he wouldn't be inventing anything."),
+    (4, None, "'And I won't be.' Barinov confirms that he still has no intention of doing the work."),
+    (5, None, "'You will.' Barinov drops the bombshell that the staff will be the ones creating the dish."),
+    (6, None, "'The winner gets a bonus.' Barinov motivates them by offering a cash bonus to the winner."),
+    (7, None, "'And I won' Barinov adds a personal incentive for his apprentice, promising to stop insulting him."),
+    (8, None, "'And the bonus is right away?' Max eagerly asks if the prize money will be paid out immediately."),
+    (9, None, "'The bonus is at the end of the month.' Barinov clarifies that the money only comes at the end of the month."),
+    (10, None, "'But I'll stop calling you disabled right away.' Barinov promises that the name-calling will stop right away, at least."),
+    (11, None, "'Everyone understood. Yes, Chef!' Max enthusiastically confirms that everyone understands the challenge."),
 ]

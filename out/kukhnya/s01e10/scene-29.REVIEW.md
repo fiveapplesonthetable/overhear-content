@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the goods, as you ordered, chef.' Senya puts the word for 'goods' together with 'as' and 'ordered' in a crisp, natural spoken turn of phrase.
-- 'Open the box and show me the caviar.' Chef Barinov leads with the direct command form meaning 'open', pairing it with 'box' and 'show'.
-- 'This is excellent pike caviar, five kilograms.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'pike', pairing it with 'caviar' and 'five'.
-- 'It looks very beautiful and appetizing.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The price is only two hundred rubles per kilogram.' Russian omits the present-tense verb 'to be' here, linking 'price' directly with 'two hundred', combining 'price' with 'two hundred' and 'rubles'.
-- 'This is indeed a very cheap price.' Russian omits the present-tense verb 'to be' here, linking 'really' directly with 'very', pairing it with 'cheap' and 'price'.
-- 'We saved the restaurant a lot of money.' Senya uses the action verb meaning 'saved' to focus on the single completed result, pairing it with 'for the restaurant' and 'very'.
-- 'But the color of this caviar is too yellow.' Russian omits the present-tense verb 'to be' here, linking 'color' directly with 'caviar', pairing it with 'too' and 'yellow'.
-- 'Pike caviar is always yellow in color.' Senya puts the word for 'pike' together with 'caviar' and 'always' in a crisp, natural spoken turn of phrase.
-- 'And the guests expect expensive black caviar.' Here Chef Barinov anchors the line on the word meaning 'guests' and builds the thought around 'wait for' and 'expensive'.
-- 'What are we to do with this color?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have got a clever plan.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'appeared' and 'one'.
-- 'I am ready to help you in this business.' Senya puts the word for 'ready' together with 'to help' and 'matter' in a crisp, natural spoken turn of phrase.
+- 'Here is the goods, as you ordered, chef.' Presenting the crate, Senya says he brought the exact amount the chef asked for.
+- 'Open the box and show me the caviar.' Barinov tells him to open the box and show him the caviar.
+- 'This is excellent pike caviar, five kilograms.' Senya proudly announces five kilograms of prime pike roe.
+- 'It looks very beautiful and appetizing.' Viktor admits the golden grains look plump and appetizing.
+- 'The price is only two hundred rubles per kilogram.' Even better, Senya reveals the price was only two hundred rubles a kilo.
+- 'This is indeed a very cheap price.' Viktor marvels at how dirt-cheap that is compared to sturgeon caviar.
+- 'We saved the restaurant a lot of money.' Senya beams that they just saved the restaurant a small fortune.
+- 'But the color of this caviar is too yellow.' Then Viktor spots the obvious flaw: pike caviar is bright yellow.
+- 'Pike caviar is always yellow in color.' Senya shrugs and points out that pike roe is always yellow.
+- 'And the guests expect expensive black caviar.' Barinov reminds him that the VIP guests in the dining room ordered expensive black caviar.
+- 'What are we to do with this color?' Scratching his head, Senya asks what they can do about the yellow color.
+- 'I have got a clever plan.' A sly grin spreads across Viktor's face as a sneaky idea hits him.
+- 'I am ready to help you in this business.' Senya immediately volunteers to help pull off the trick.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Carefully bring these palms into the restaurant!' Elena leads with the direct command form meaning 'bring in', pairing it with 'carefully' and 'palm trees'.
-- 'Oh, Viktor Petrovich, did you want to eat well?' Elena turns a statement into a question purely through rising intonation on the word meaning 'oh', pairing it with 'wanted' and 'well'.
-- 'We open only in six days!' She reminds him that business has not begun yet.
-- 'I was simply taking a walk along this street.' Chef Barinov expresses this naturally by combining the word for 'simply' with 'walked' and 'street'.
-- 'Decided to personally check your main competitors?' Elena easily sees through his excuse with a grin.
-- 'I am not at all afraid of your restaurant.' Barinov stubbornly denies feeling threatened in any way.
-- 'Then why are you looking at us?' She playfully challenges his lingering presence.
-- 'Why do you need real palm trees in the dining room?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'dining room', combining 'why' with 'dining room' and 'real'.
-- 'This creates a cozy Italian atmosphere.' Elena defends the design vision of her establishment.
-- 'Palm trees will not help cook tasty food!' Barinov argues that true cooking requires culinary skill.
-- 'We will have the tastiest cuisine!' Elena confidently counters his skepticism with pride.
-- 'Let the workers through, bring the trees inside!' Elena leads with the direct command form meaning 'let through', pairing it with 'workers' and 'bring in'.
-- 'One must listen to people when they speak!' Chef Barinov chooses the action verb meaning 'to listen to the end' for the ongoing action, followed by 'it is necessary' and 'people'.
+- 'Carefully bring these palms into the restaurant!' Elena tells the workers to be careful with the palm trees.
+- 'Oh, Viktor Petrovich, did you want to eat well?' Elena notices Barinov and asks if he came for a good meal.
+- 'We open only in six days!' Elena explains that they will not be open for almost a week.
+- 'I was simply taking a walk along this street.' Barinov claims he was just out for a walk.
+- 'Decided to personally check your main competitors?' Elena guesses he is actually spying on his competition.
+- 'I am not at all afraid of your restaurant.' Barinov states he is not scared of her place at all.
+- 'Then why are you looking at us?' Elena wonders why he is staring if he is not worried.
+- 'Why do you need real palm trees in the dining room?' Barinov questions why they are putting real trees inside.
+- 'This creates a cozy Italian atmosphere.' Elena says the trees make the place feel more Italian and cozy.
+- 'Palm trees will not help cook tasty food!' Barinov argues that decorations will not make the food any better.
+- 'We will have the tastiest cuisine!' Elena insists their food will be the best.
+- 'Let the workers through, bring the trees inside!' Elena ignores him and tells the workers to keep moving the trees.
+- 'One must listen to people when they speak!' Barinov gets annoyed because she stops listening to him.

@@ -27,9 +27,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For you to be my wife.' The '-a' ending on the past-tense verb for 'have become' shows that the subject is matching.
-- 'Have you lost your mind? Oh God, take it.' Nastya uses a direct command command form of the verb meaning 'take'.
-- 'You said yourself that every day is a new step.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, I meant meeting the parents.' The '-a' ending on the past-tense verb for 'had' shows that the subject is matching.
-- 'I had this step planned for a year from now.' Nastya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'plan' with 'step' and 'only'.
-- 'And you nearly destroyed it just now.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'nearly' and 'destroyed'. Now let's listen to the whole conversation again from start to finish.
+- 'For you to be my wife.' Kostya finally manages to ask Nastya to marry him, using a past-tense form to express his wish for her to become his wife.
+- 'Have you lost your mind? Oh God, take it.' Nastya reacts with complete shock, sarcastically telling him to take back his proposal like he has lost his mind.
+- 'You said yourself that every day is a new step.' Kostya tries to defend his sudden proposal by reminding Nastya of her own words about making progress every day.
+- 'Kostya, I meant meeting the parents.' Nastya clarifies that her idea of taking steps forward meant something much smaller, like introducing him to her parents.
+- 'I had this step planned for a year from now.' Nastya explains her rigid timeline, using a common possession phrase to say she did not schedule this milestone for another year.
+- 'And you nearly destroyed it just now.' Nastya points out that his unexpected question almost ruined the careful plan she had mapped out for them.

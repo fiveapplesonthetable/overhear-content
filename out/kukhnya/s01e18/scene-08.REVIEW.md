@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, our owner is acting like a lunatic.' Chef Barinov puts the word for 'owner' together with 'leads' and 'how' in a crisp, natural spoken turn of phrase.
-- 'I never thought that I would agree with you.' Here Vika anchors the line on the word meaning 'never' and builds the thought around 'thought' and 'will agree'.
-- 'He wants to destroy all the work of our restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He forced the light to be turned off even in the dining hall.' Vika uses the action verb meaning 'forced' to focus on the single completed result, pairing it with 'turn off' and 'the power'.
-- 'And he demands to buy the cheapest meat.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Guests are already starting to loudly criticize our restaurant.' Here Vika anchors the line on the word meaning 'visitors' and builds the thought around 'already' and 'start'.
-- 'We must urgently stop this terrible nightmare.' The phrasing opens with 'must' before bringing in 'urgent' and 'to stop' to make the point clear.
-- 'However, what exactly can we do right now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We must act together against a common enemy.' Chef Barinov puts the word for 'must' together with 'to act' and 'together' in a crisp, natural spoken turn of phrase.
-- 'Are you proposing to fight against our greedy owner?' Vika turns a statement into a question purely through rising intonation on the word meaning 'are suggesting', pairing it with 'to fight' and 'greedy'.
-- 'We will protect the restaurant and restore normal order.' Chef Barinov uses the action verb meaning 'will protect' to focus on the single completed result, pairing it with 'restaurant' and 'will return'.
-- 'Fine, let us calmly devise a good plan together.' Vika leads with the direct command form meaning 'let's', pairing it with 'good' and 'together'.
-- 'Great, together we will definitely defeat this greed!' Chef Barinov puts the word for 'perfect' together with 'together' and 'surely' in a crisp, natural spoken turn of phrase.
+- 'Vika, our owner is acting like a lunatic.' Chef Barinov vents his extreme frustration, outright calling Nagiyev a madman.
+- 'I never thought that I would agree with you.' Vika admits her own surprise at actually taking his side for once.
+- 'He wants to destroy all the work of our restaurant.' Chef Barinov warns that the extreme savings will completely run Claude Monet into the ground.
+- 'He forced the light to be turned off even in the dining hall.' Vika complains about the ridiculous darkness, pointing out that customers are eating in the dark.
+- 'And he demands to buy the cheapest meat.' Chef Barinov shares his own nightmare, revealing that he is being forced to cook with garbage ingredients.
+- 'Guests are already starting to loudly criticize our restaurant.' Vika confirms that the patrons are noticing the drop in quality and complaining.
+- 'We must urgently stop this terrible nightmare.' Chef Barinov declares they have to put an end to Nagiyev's crazy rules before the business fails entirely.
+- 'However, what exactly can we do right now?' Vika wonders how they can actually fight back against the man who owns the building.
+- 'We must act together against a common enemy.' Chef Barinov proposes a rare truce between them to deal with a bigger threat.
+- 'Are you proposing to fight against our greedy owner?' Vika clarifies his plan, making sure she understands he wants to rebel against their boss.
+- 'We will protect the restaurant and restore normal order.' Chef Barinov speaks heroically about saving the kitchen and bringing things back to how they should be.
+- 'Fine, let us calmly devise a good plan together.' Vika agrees to the alliance, suggesting they sit down and figure out a strategy.
+- 'Great, together we will definitely defeat this greed!' Chef Barinov enthusiastically seals their pact, certain they can outsmart Nagiyev.

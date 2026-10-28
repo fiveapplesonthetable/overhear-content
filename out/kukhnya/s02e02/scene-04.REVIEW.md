@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi.' A crisp, everyday conversational reply meaning 'hi' that you will hear constantly in Russian dialogue.
-- 'Hi, Max.' Sasha delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
-- 'How are you?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'things', combining 'how' with 'things'.
-- 'I' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you still worrying?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'to worry'. Then Max responds.
-- 'Well, no.' Russian omits the present-tense verb 'to be' here, linking 'yes' directly with 'no', combining 'yes' with 'no'.
-- 'With Vika everything is in the past.' Max delivers a punchy one-word reaction built around the Russian word meaning 'last'.
-- 'Are you sure?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'you' straight to 'sure'. Then Max replies.
-- 'Of course.' A crisp, everyday conversational reply meaning 'of course' that you will hear constantly in Russian dialogue.
-- 'Well, okay.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'all right', combining 'oh' with 'all right'.
-- 'It's time for me to work.' The phrasing opens with 'it's time' before bringing in 'to work' to make the point clear.
-- 'See you.' the self-directed ending on the verb for 'will see each other' turns the action back onto the subject.
+- 'Hi.' Max greets Sasha casually as they cross paths.
+- 'Hi, Max.' Sasha smiles and says hello back to him.
+- 'How are you?' She asks how things are going with him today.
+- 'I' Max sighs and admits he has seen better days.
+- 'Are you still worrying?' Guessing the reason, Sasha asks if he is still upset over Vika. Then Max responds.
+- 'Well, no.' Max brushes the question off, pretending he is fine.
+- 'With Vika everything is in the past.' Trying to sound convincing, he claims that everything with Vika is behind him now.
+- 'Are you sure?' Sasha looks at him skeptically and asks if he is really sure. Then Max replies.
+- 'Of course.' Max insists that of course he is over her.
+- 'Well, okay.' Not pushing him further, Sasha accepts his answer.
+- 'It's time for me to work.' She notes that it is time for her to get back to her tables.
+- 'See you.' Max tells her he will see her around later.

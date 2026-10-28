@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You just need to get back at him.' the matching word ending word is used with the impersonal modal word to express necessity or obligation.
-- 'Start going out with his best friend.' a direct command comes from the verb meaning to begin, followed by an action verb basic verb form.
-- 'That way Max will hurt even more.' The comparative form expresses emotional pain, with the person affected placed the matching word ending.
-- 'Trust me, this is the very best option.' a direct command comes from the verb to believe or trust, followed by a superlative adjective. Okay, let's hear the whole exchange once more. Now let's listen to the whole conversation again from start to finish.
+- 'You just need to get back at him.' Sasha suggests a proactive strategy to handle the heartbreak.
+- 'Start going out with his best friend.' Sasha proposes a specific target for the retaliation.
+- 'That way Max will hurt even more.' Sasha explains why this particular move will be effective.
+- 'Trust me, this is the very best option.' Sasha confidently guarantees the success of her scheme.

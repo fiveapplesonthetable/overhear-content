@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will we submit an official application to the registry office?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Tanya, do you have acquaintances at the registry office?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Please help us sign the register as fast as possible.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait, it seems I jumped the gun a little now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'To be honest, I also rushed with the answer too much.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'So, both of us need to think carefully.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, it is better for us to wait a little with the wedding.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, will you help us sort this out calmly?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The chef doesn' t want to listen to our family arguments.' Subject noun with negated present modal verb, basic verb form, and matching form everyday-adjective-noun phrase.
-- 'Viktor has an important football match starting now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then we will sort everything out ourselves later.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go work, the wedding will definitely wait for now!' command form motion and action verbs with matching form noun, temporal word, modal adverb, and future verb.
+- 'Will we submit an official application to the registry office?' Still refusing to blink first, Max asks if they should head to the registry office to file the paperwork.
+- 'Tanya, do you have acquaintances at the registry office?' Raising the stakes, Vika asks her sister Tanya if she has a friend at the registry office to speed things up.
+- 'Please help us sign the register as fast as possible.' Sweating now, Max begs Tanya to help them get married as fast as humanly possible.
+- 'Let' Vika suggests announcing their engagement to the entire restaurant right now.
+- 'Wait, it seems I jumped the gun a little now.' Finally cracking, Max calls a timeout and admits he might have rushed things a bit.
+- 'To be honest, I also rushed with the answer too much.' Relieved that he blinked, Vika admits she also answered a little too hastily.
+- 'So, both of us need to think carefully.' Max quickly agrees that both of them should think things over carefully first.
+- 'Yes, it is better for us to wait a little with the wedding.' Vika nods that holding off on the wedding is definitely wiser.
+- 'Chef, will you help us sort this out calmly?' Turning to the chef for backup, Max asks if Viktor will help them sort this out.
+- 'The chef doesn't want to listen to our family arguments.' Already stressed about his football bet, Barinov wants no part of their lovers' quarrel.
+- 'Viktor has an important football match starting now.' Vika notes that Viktor's big football match is kicking off right now.
+- 'Then we will sort everything out ourselves later.' Max agrees they will settle their score later on their own.
+- 'Go work, the wedding will definitely wait for now!' Calling a truce, Vika sends him back to the kitchen and says the wedding can wait.

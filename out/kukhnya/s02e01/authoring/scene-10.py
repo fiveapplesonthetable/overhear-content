@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'In his office at Claude Monet, Chef Viktor discovers that the bottle of whiskey he bought yesterday has vanished. He summons his sous-chef Lyova, who nervously tells him that drinking is bad for his health and offers him tea instead.'
 OPENER = 'Listen to Chef Viktor confronting Lyova about his missing bottle of whiskey.'
-TRANSITION = "Now listen to the argument between Viktor and Lyova again. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "With even his loyal sous-chef Lyova enforcing the new owner's alcohol ban, Viktor is driven out of his mind. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to go' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Уходи отсюда со своим зелёным чаем!', 'Get out of here with your green tea!', [(150, 'Да пошел ты своим')], ''),
 ]
 WALK = [
-    (0, None, "'Lyova, come quickly to my office!' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'quickly' and 'office'."),
+    (0, None, "'Lyova, come quickly to my office!' Barinov shouts for his sous-chef Lyova to come to his office at once."),
     (1, None, "'Yesterday I bought an expensive bottle of whiskey.' Viktor explains that he left a new bottle in his cabinet."),
-    (2, None, "'Tell me, where is it right now?' Chef Barinov leads with the direct command form meaning 'say', pairing it with 'where' and 'now'."),
+    (2, None, "'Tell me, where is it right now?' Finding his stash gone, Viktor demands to know where the whiskey bottle is."),
     (3, None, "'Viktor Petrovich, you should not drink today.' Lyova addresses the chef politely while refusing to return the bottle."),
     (4, None, "'What does it mean that I should not drink?' Viktor cannot believe his own sous-chef is lecturing him."),
     (5, None, "'Well, you simply do not need this.' Lyova tries to stand firm despite being afraid of Viktor."),
-    (6, None, "'After all, it is very harmful for your health.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (6, None, "'After all, it is very harmful for your health.' Lyova nervously reminds the chef that heavy drinking is bad for his health."),
     (7, None, "'I see, you are listening to our new owner.' Viktor realizes that Lyova is obeying Kristina's strict ban."),
     (8, None, "'Do you like following her foolish orders?' Viktor is furious that his staff fears the new owner more than him."),
     (9, None, "'Chef, this is only for your benefit!' Lyova insists that hiding the alcohol is for Viktor's own good."),
-    (10, None, "'Let us have some hot tea together instead?' Lyova leads with the direct command form meaning 'let's', pairing it with 'better' and 'together'."),
+    (10, None, "'Let us have some hot tea together instead?' Trying to calm him down, Lyova suggests they share a cup of hot tea instead."),
     (11, None, "'What tea in my kitchen?' Viktor is insulted by the suggestion of drinking tea."),
-    (12, None, "'Get out of here with your green tea!' Viktor angrily sends Lyova back to the kitchen."),
+    (12, None, "'Get out of here with your green tea!' Viktor angrily sends Lyova back to the kitchen. Now listen to the argument between Viktor and Lyova again."),
 ]

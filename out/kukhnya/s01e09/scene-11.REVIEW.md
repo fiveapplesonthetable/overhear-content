@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is I who control you, like in the cartoon!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Artists always sign their masterpiece.' The general statement uses a present tense verb and an matching form for the idea.
-- 'You ate it yourself just now!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The chef is already looking for her all over the restaurant!' An urgent present tense statement with a matching form everyday phrase for the listener. Now, let's listen to Max and Alisa's playful kitchen dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'It is I who control you, like in the cartoon!' Hiding with Alisa in the kitchen, Max pretends to steer her arms like the little chef in the cartoon.
+- 'Artists always sign their masterpiece.' Handing her melted chocolate, Max jokes that every true artist signs their masterpiece.
+- 'You ate it yourself just now!' Alisa giggles and points out that Max just ate a piece of the chocolate himself.
+- 'The chef is already looking for her all over the restaurant!' Spotting them at last, a frantic Nastya warns that the chef is searching the whole restaurant for Alisa. Now, let's listen to Max and Alisa's playful kitchen dialogue once more.

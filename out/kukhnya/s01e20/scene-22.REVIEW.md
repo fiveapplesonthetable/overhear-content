@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We very often exist in illusions.' Max puts the word for 'very much' together with 'often' and 'to exist' in a crisp, natural spoken turn of phrase.
-- 'These are our fantasies.' Max delivers a punchy one-word reaction built around the Russian word meaning 'fantasy'.
-- 'We forget who we are.' Max delivers a punchy one-word reaction built around the Russian word meaning 'forgetting'.
-- 'Who are we really?' Max delivers a punchy one-word reaction built around the Russian word meaning 'case'.
-- 'Everyone plays roles.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'These are foreign masks.' Russian omits the present-tense verb 'to be' here, linking 'someone else's' directly with 'mask', combining 'someone else's' with 'mask'.
-- 'But the moment of awakening comes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Life tears these masks off us.' Max expresses this naturally by combining the word for 'life' with 'tear off' and 'mask'.
-- 'They were endless.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Light lays bare the reality.' Here Max anchors the line on the word meaning 'the power' and builds the thought around 'bare' and 'reality'.
-- 'We see the truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We were not prepared for it.' Max chooses the action verb meaning 'be' for the ongoing action, followed by 'ready'.
+- 'We very often exist in illusions.' Max reflects on how frequently we live inside our own manufactured realities instead of the actual world.
+- 'These are our fantasies.' Max defines these false realities simply as the products of our imagination.
+- 'We forget who we are.' Max points out that getting lost in dreams makes us lose track of our true identities.
+- 'Who are we really?' Max poses a deep question about our genuine nature when all the pretending stops.
+- 'Everyone plays roles.' Max observes that people constantly act out parts that do not reflect who they truly are.
+- 'These are foreign masks.' Max describes these roles as disguises that belong to someone else, without needing a linking verb to make the connection.
+- 'But the moment of awakening comes.' Max warns that eventually, everyone is forced to face reality and wake up from their dream.
+- 'Life tears these masks off us.' Max explains that circumstances violently remove these false fronts whether we want them to or not.
+- 'They were endless.' Max reflects on how these illusions felt like they would last forever before they were shattered.
+- 'Light lays bare the reality.' Max uses a metaphor about illumination exposing the bare truth of the situation.
+- 'We see the truth.' Max states that the inevitable result of this awakening is finally confronting the facts.
+- 'We were not prepared for it.' Max concludes that when the truth is finally revealed, we are rarely equipped to handle it.

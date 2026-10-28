@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, why did you come here today?' Vika puts the word for 'Mum' together with 'what for' and 'came' in a crisp, natural spoken turn of phrase.
-- 'What do you want with that strange teenager?' Russian omits the present-tense verb 'to be' here, linking 'what for' directly with 'strange', followed by 'teenager'.
-- 'Max is a serious guy and a good cook.' Russian omits the present-tense verb 'to be' here, linking 'important' directly with 'boyfriend', combining 'important' with 'boyfriend' and 'good'.
-- 'Why do you always go to extremes?' Eleonora expresses this naturally by combining the word for 'why' with 'always' and 'fall into'.
-- 'This is my life, and I decide myself.' Vika puts the word for 'life' together with 'decide' in a crisp, natural spoken turn of phrase.
-- 'First married men, then kids, kids right away.' Russian omits the present-tense verb 'to be' here, linking 'married man' directly with 'kids', followed by 'at once'.
-- 'Stop criticizing me every single day!' Vika uses the action verb meaning 'enough' to focus on the single completed result, pairing it with 'criticize' and 'every'.
-- 'Tell me, did you enroll the guy in school?' Eleonora leads with the direct command form meaning 'say', pairing it with 'to write down' and 'boyfriend'.
-- 'I do not want to discuss this now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Otherwise I could have helped you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Mom, please, just leave from here.' Vika leads with the direct command form meaning 'go away', pairing it with 'mum' and 'just'.
-- 'Alright, I will leave you in peace for now.' Eleonora uses the action verb meaning 'will leave' to focus on the single completed result, pairing it with 'peace' and 'bye'.
+- 'Mom, why did you come here today?' Vika is surprised to see her mother. She asks why she came to the restaurant.
+- 'What do you want with that strange teenager?' Eleonora immediately insults Max. She questions why Vika is dating a younger man.
+- 'Max is a serious guy and a good cook.' Vika defends Max. She calls him a serious guy and praises his cooking.
+- 'Why do you always go to extremes?' Eleonora criticizes Vika's life choices. She accuses her daughter of always going to extremes.
+- 'This is my life, and I decide myself.' Vika asserts her independence. She firmly states that she makes her own decisions.
+- 'First married men, then kids, kids right away.' Eleonora lists Vika's supposed mistakes. She dramatically claims Vika jumps from one extreme to another.
+- 'Stop criticizing me every single day!' Vika asks her mother to stop. She is tired of the constant daily criticism.
+- 'Tell me, did you enroll the guy in school?' Eleonora delivers a sarcastic insult. She mockingly asks if Vika enrolled Max in school.
+- 'I do not want to discuss this now.' Vika refuses to argue further. She states she has no desire to talk about this right now.
+- 'Otherwise I could have helped you.' Eleonora offers a condescending excuse. She claims she only wanted to help them out.
+- 'Mom, please, just leave from here.' Vika begs her mother to leave. She just wants some peace and quiet.
+- 'Alright, I will leave you in peace for now.' Eleonora agrees to back off for now. She promises to leave them alone temporarily.

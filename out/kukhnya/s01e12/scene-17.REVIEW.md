@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, please stop torturing me.' Kostya leads with the direct command form meaning 'stop', followed by 'to torture'.
-- 'And why are you angry with me?' Here Nastya anchors the line on the word meaning 'why' and builds the thought around 'are angry'.
-- 'You and I argued over a trifle.' Kostya uses the action verb meaning 'argued' to focus on the single completed result, pairing it with 'trifle'.
-- 'For me this question was important.' Nastya expresses this naturally by combining the word for 'question' with 'was' and 'important'.
-- 'You yourself wanted to argue a bit yesterday.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But I did not want such a foolish offense.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Forgive me if I hurt you badly.' Kostya leads with the direct command form meaning 'forgive', pairing it with 'badly' and 'offended'.
-- 'Do you really regret your words?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'really', pairing it with 'regret' and 'words'.
-- 'I very sincerely ask your forgiveness.' Kostya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'very' and 'sincerely'.
-- 'It is also very hard for me to stay angry long.' Here Nastya anchors the line on the word meaning 'also' and builds the thought around 'very' and 'hard'.
-- 'Let us forget this argument right now.' Kostya leads with the direct command form meaning 'let us', pairing it with 'will forget' and 'argument'.
-- 'Good, I agree to make peace with you.' Nastya expresses this naturally by combining the word for 'good' with 'agreeable' and 'to make peace'.
-- 'You are the kindest and most beautiful girl.' Russian omits the present-tense verb 'to be' here, linking 'kind' directly with 'beautiful', followed by 'girl'.
+- 'Nastya, please stop torturing me.' Kostya begs Nastya to stop making him suffer.
+- 'And why are you angry with me?' Nastya turns it around and asks why he is mad at her.
+- 'You and I argued over a trifle.' Kostya points out that their fight was over something silly.
+- 'For me this question was important.' Nastya replies that the matter was actually important to her.
+- 'You yourself wanted to argue a bit yesterday.' Kostya reminds her that she was the one who suggested the fake fight.
+- 'But I did not want such a foolish offense.' Nastya admits she did not want to actually end up hurt.
+- 'Forgive me if I hurt you badly.' Kostya apologizes for taking the fake fight too far.
+- 'Do you really regret your words?' Nastya asks if he truly feels bad about what he said.
+- 'I very sincerely ask your forgiveness.' Kostya sincerely asks her to forgive him.
+- 'It is also very hard for me to stay angry long.' Nastya admits it is hard for her to stay mad at him for long.
+- 'Let us forget this argument right now.' Kostya suggests they just forget the whole fight right now.
+- 'Good, I agree to make peace with you.' Nastya agrees to forgive him and make up.
+- 'You are the kindest and most beautiful girl.' Kostya sweet-talks her, calling her kind and beautiful.
