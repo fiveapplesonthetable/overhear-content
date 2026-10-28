@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "To hide cleaner Aynura from the migration inspection, the staff dress her up as a wealthy guest in the dining room. However, the sharp-eyed inspector sits right at her table, orders apple strudel, and reveals that he knows every trick restaurants use to hide workers. Let's listen to their tense conversation in Russian."
-OPENER = "Let's see how the migration inspector toys with Aynura before pardoning her over dessert."
+INTRO = "To keep Ainura out of the inspector's sight, the staff have dressed her as a guest at a table in the dining room. The inspector sits down right opposite her and orders dessert, and what he says over it is far from friendly. We'll hear it in Russian first."
+OPENER = "Let's take it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to order food at a table, talk about years of work experience, and express gratitude in Russian. See who the inspector catches next in the following scene. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'evening' — you will catch every word right away. See you next time!"
-CLOSING = ('inspector', 'Пока!')
+OUTRO = "The strudel saves Ainura, and the inspector walks off with a full stomach. Look out for 'nravitsya' next time, the odd verb Russians use for 'like', as in 'to you it pleases'. See you next time!"
+CLOSING = ('inspector', 'До свидания!')
 STORY = [
     ('inspector', 'Добрый вечер, можно сесть за столик?', 'Good evening, may I sit at the table?', [(224, 'Добрый вечер')], ''),
     ('ainura', 'Да, пожалуйста, садитесь сюда.', 'Yes, please, sit down here.', [], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('ainura', 'Хорошо, спасибо вам большое!', 'All right, thank you very much!', [(259, 'Хорошо. Спасибо')], ''),
 ]
 WALK = [
-    (0, None, "'Are you ready to place an order already?' Playing the part of a polite waiter, the migration officer asks the disguised cleaner if she is ready to order."),
-    (1, None, "'And I will order the delicious apple strudel.' Pointing out his choice, the official decides on a sweet dessert for himself."),
-    (2, None, "'Yes, I have been doing this for five years.' A casual remark follows, confirming his long experience dealing with these exact situations."),
-    (3, None, "'Today the delicious dessert saved you.' Playfully admitting that the high quality of the food earned them a temporary pardon, the officer finishes his thought."),
+    (0, None, "'Good evening, may I sit at the table?' 'Kind evening' is the literal greeting. 'Sit down' is the verb for the moment of sitting, and 'table' is shrunk to a 'little table' with an 'ik' ending, which is typical of restaurants."),
+    (1, None, "'Yes, please, sit down here.' The command ends in 'sya', so it's 'seat yourselves'. 'Here' means 'to here', as the table is where they'll sit, and it's not the same as the word for 'here' as a place."),
+    (2, None, "'Are you ready to place an order already?' Russian 'makes' an order, much as English does. 'Ready' is in the plural, polite form, with a short ending."),
+    (3, None, "'I want to order this expensive cognac.' 'Expensive' is also the word for 'dear', as in a dear friend. The ending on it matches the masculine cognac."),
+    (4, None, "'And I will order the delicious apple strudel.' 'I will order' changes the last consonant, so 'z' turns into 'zh'. 'Apple' is built from the word for apple, with an 'ny' ending that turns it into 'apple-y'."),
+    (5, None, "'I always find illegal workers everywhere.' 'Always' and 'everywhere' are a neat pair of small words. The 'ne' at the front of 'legal' works like 'il' in English."),
+    (6, None, "'Do you like your job very much?' Russian doesn't say 'you like' here. It says 'to you is pleasing', so the job is the one doing the pleasing."),
+    (7, None, "'Yes, I've been doing this for five years.' Russian uses a plain present, 'I do this', where English needs 'have been doing'. After 'five' the year changes to a special form, 'let'."),
+    (8, None, "'Usually they hide workers in the storeroom.' Nobody is named as 'they', only the ending on 'hide'. 'On the storeroom' is how Russians say 'in', with the 'e' ending."),
+    (9, None, "'And clever people seat them in the dining room.' 'People' is irregular, a plural that looks nothing like 'person'. 'Seat' is the verb that means to make someone sit."),
+    (10, None, "'But this apple strudel is simply wonderful!' No 'is' again, just 'strudel simply wonderful'. The strudel is a German loan, and the sentence is the inspector's only flash of joy."),
+    (11, None, "'Today the delicious dessert saved you.' The 'saved' of a masculine thing ends in a bare 's', with no extra letter. Word order is the same as English, with the dessert as the hero."),
+    (12, None, "'All right, thank you very much!' 'Thanks' is a neuter noun, so 'big' ends in 'oe' to agree with it. Ainura puts 'you' in between, which is polite."),
 ]

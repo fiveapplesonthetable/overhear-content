@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "The Chef tastes the pâté that Maks prepared. Maks is waiting for a compliment. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Not My Pâté line by line and unpack how the Russian works."
+INTRO = "Barinov has taken a spoonful of Max's pâté. Max is waiting for the compliment, and what he gets is not quite what he hoped for. First the Russian."
+OPENER = "Let's go back through it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The Chef tastes the pâté that Maks prepared. Maks is waiting for a compliment. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'not bad' and 'only' — you will catch every word right away. See you next time!"
+OUTRO = "Max thought he had won, and now he is not sure what he's missed. The way Barinov says 'not bad' is as high as his praise goes, so enjoy it. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('barinov', 'Неплохо.', 'Not bad.', [(291, 'Неплохо.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Хорошо.', 'Good.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Not bad.\' This quick response translates directly to "not bad" and shows a rare moment of mild approval from the chef.'),
-    (1, None, '\'Huh?\' Max reacts with a single word of surprise that functions much like "really?" or "yeah?" in English conversation.'),
-    (2, None, '\'Only this isn\'t my pâté.\' Barinov drops a twist by starting with a word meaning "only" or "just," completely crushing the young cook\'s hopes.'),
-    (3, None, '\'What?\' The everyday word for "how" works perfectly here to convey total confusion and disbelief.'),
-    (4, None, '\'Same texture.\' Pointing out the physical similarities, the sentence relies on a shared borrowed word for "consistency."'),
-    (5, None, "'And I got the ingredients right.' Defending his culinary skills, he explains that he successfully selected or matched the recipe's composition."),
-    (6, None, '\'Wait.\' Here the polite request for "hold on" acts as a desperate plea for clarification.'),
-    (7, None, '\'What goes into your pâté?\' Max asks about the mystery ingredients by literally questioning what "enters into" the dish.'),
-    (8, None, "'This is a secret.' Shutting down the inquiry, the reply relies on a simple statement equating the dish to a mystery."),
-    (9, None, '\'Let\'s go.\' With a single word meaning "we will go," the head chef signals that it is time to move to another location.'),
-    (10, None, '\'Take a look.\' Following his previous direction, he promises they will "look" or "see" what is really going on.'),
-    (11, None, '\'Good.\' Yielding to his boss, the young cook uses a versatile term for "okay" or "fine" to show obedience.'),
+    (0, None, "'Not bad.' It's one word, with the 'ne' stuck to the front of 'bad'. From Barinov, this counts as very high praise."),
+    (1, None, "'Huh?' It's just 'yes?' with a rising voice, and means 'really?'. Max is fishing for more."),
+    (2, None, "'Only this isn't my pâté.' The first word can mean 'only' or 'but', and here it means 'but'. The 'not' is in front of 'my'."),
+    (3, None, "'What?' Max says 'how?', which is what Russians say when they are stunned. It is just one word."),
+    (4, None, "'The same texture.' 'The same' is a pair of tiny words, with the 'a' ending to match the feminine noun. 'Texture' is a borrowed word, and a long one."),
+    (5, None, "'And I got the ingredients right.' The word for 'composition' stands for ingredients, as in what a thing consists of. Max puts it first, which gives it extra weight."),
+    (6, None, "'Wait.' This is the polite command, with the 'ite' ending. Max is speaking to his boss, so he stays polite."),
+    (7, None, "'What goes into your pâté?' The ingredients 'enter' it, which is how Russians ask what's inside. 'Your' is the polite masculine form."),
+    (8, None, "'It's a secret.' There's no 'is' and no 'a'. It's just 'this secret', and Barinov keeps it short."),
+    (9, None, "'Let's go.' The 'we' form of the word for 'go' doubles as 'let's go'. It's a quick, casual invitation."),
+    (10, None, "'Let's have a look.' This is the 'we' form again, now of 'look', so it means 'we'll see' too. Barinov can't resist a dramatic pause."),
+    (11, None, "'Okay.' It's a single word, and Max says it quietly. He doesn't yet know what he'll find."),
 ]

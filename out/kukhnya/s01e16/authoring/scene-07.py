@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'In the kitchen of Claude Monet, Max finishes his first experimental batch of homemade pâté. He eagerly calls Kostya over to give an honest opinion. Kostya inspects the strange color with hesitation before taking a bite. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Max and Kostya's tasting session line by line."
+INTRO = "Max has spent the day cooking his own version of Barinov's pâté. Now he needs an honest opinion, so he calls over his best friend Kostya, the bartender. Kostya is not at all sure about the colour. We'll hear it in Russian first."
+OPENER = "Let's slow down and go through it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Realizing that his first attempt falls short of Viktor's signature spread, Max heads back to the cutting board determined to crack the secret formula. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to try' — you will catch every word right away. See you next time!"
+OUTRO = "Max's pâté isn't the chef's, and he knows it, but two days off are worth a few more tries. Next time someone offers you food in Russian, you'll know how to ask whether it's safe to eat. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Костя, быстро попробуй мой новый паштет.', 'Kostya, quickly taste my new pâté.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Да, продолжай стараться и готовить дальше!', 'Yes, keep trying and cook further!', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, quickly taste my new pâté.' Max rushes in and urges his friend to sample his latest culinary experiment."),
-    (1, None, "'Listen, is this dish even edible now?' Kostya sounds incredibly doubtful, asking if the food is even safe to consume."),
-    (2, None, "'Why are you looking in there so suspiciously?' Defending his work, the cook asks why his buddy is giving the plate such a skeptical look."),
-    (3, None, "'The color looks strange and not appetizing at all.' Pointing out the obvious, the bartender notes that it looks weird and completely unappealing."),
-    (4, None, "'The main thing in food is wonderful taste!' Trying to shift the focus, the young chef argues that appearance does not matter if it is delicious."),
-    (5, None, "'Well all right, I will try a spoon now.' Reluctantly giving in, the bartender agrees to take a single bite of the concoction."),
-    (6, None, "'And how does this recipe seem to you?' Waiting eagerly, the cook asks for an honest opinion on his attempt."),
-    (7, None, "'In principle, the taste is fine and not bad.' Kostya admits that it actually tastes okay, sounding slightly surprised by the result."),
-    (8, None, "'With cold beer such a dish would do.' Adding a bit of praise, he mentions it would make a decent snack to go with a drink."),
-    (9, None, "'And does it resemble the chef's signature pâté?' Pushing for the real answer, the creator asks if it matches the boss's famous version."),
-    (10, None, "'No, the chef's dish is much better.' Bursting the bubble, the taste-tester frankly states that the original is way superior."),
-    (11, None, "'Did you put too much sauce in there?' Trying to figure out the flaw, he guesses that maybe too much liquid was added."),
-    (12, None, "'Yes, keep trying and cook further!' Offering some encouragement, the bartender tells his friend to keep practicing."),
+    (0, None, "'Kostya, quickly taste my new pâté.' Max calls his friend by name first, which is the most natural way to get attention. 'My' and 'new' both match the masculine word for pâté, and Russian's 'quickly' ends in 'o'."),
+    (1, None, "'Listen, is this dish even edible?' The first word is 'listen' used as 'hey', and it's a command that has lost its commanding force. For 'edible' Russian says 'is it possible to eat', and the word for 'eat' is spelled exactly like the one for 'there is'."),
+    (2, None, "'Why are you looking in there so suspiciously?' The Russian for 'suspiciously' is the same sort of word as 'quickly', made to describe a look. The 'sh' ending on 'look' says 'you', informal."),
+    (3, None, "'The color looks strange and not at all appetizing.' Russian says 'looks strangely', with the 'o' ending, where English says 'looks strange'. 'Not at all' is a handy chunk, and it is built from 'altogether' and 'not'."),
+    (4, None, "'The main thing in food is a wonderful taste!' Russian's 'the main thing' comes from the Russian for 'head', so it's the head thing. Russian puts a small 'this' where English puts an 'is'."),
+    (5, None, "'Well, all right, I'll try a spoon.' The first two words are a sigh of giving in, 'well, okay'. Russian's 'spoon' gets a 'u' ending because it's what Kostya is about to taste."),
+    (6, None, "'And how does this recipe seem to you?' Russian doesn't say 'what do you think'. It says 'how to you seems', which sounds odd in English and perfectly normal in Russian."),
+    (7, None, "'In principle, the taste is fine and not bad.' Kostya hedges, and the doubled praise 'normal and not bad' sounds lukewarm on purpose. The opening words are the same as English 'in principle'."),
+    (8, None, "'This dish would go with cold beer.' Russians say 'under beer' where English says 'with beer', meaning as a snack to go with it. The word for 'goes' here means 'will do'."),
+    (9, None, "'And does it resemble the chef's signature pâté?' The Russian for 'looks like' is followed by a small word for 'on' in Russian. The chef is not 'chef's' with an apostrophe-s, but the word itself with an 'a' on the end."),
+    (10, None, "'No, the chef's dish is much better.' The first three words are 'at the chef' and mean the chef's version. Russian's 'better' is a short form that doesn't change, and 'much' is built from 'by much'."),
+    (11, None, "'Did you put too much sauce in there?' The Russian for 'too' is the one to pair with 'much', and then the sauce takes an 'a' ending, because 'much' makes it a 'some of'. The 'l' on 'put' says the speaker is addressing a man."),
+    (12, None, "'Yes, keep trying and keep cooking!' The first word is a command that means 'carry on'. Russian's 'try hard' ends in 'sya', the little 'oneself', and the last word means 'further'."),
 ]

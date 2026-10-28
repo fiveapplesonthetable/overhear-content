@@ -18,22 +18,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Макс | Шеф, что делать? | Chef, what to do? | new | new |
 | 7 | Шеф | Мы должны уйти. | We must leave. | new | new |
 | 8 | Настя | Мне очень жаль. | I am very sorry. | new | new |
-| 9 | Настя | Собирайтесь. | Pack your things. | #285: Собирайтесь. | verbatim |
-| 10 | Настя | Извините. | I am sorry. | #286: Извините, | verbatim |
-| 11 | Настя | Это мой долг. | It is my duty. | #286: это мой долг. | verbatim |
+| 9 | Настя | Собирайтесь. | Pack your things. | #285 00:20:48: Собирайтесь. | verbatim |
+| 10 | Настя | Извините. | I am sorry. | #286 00:20:50: Извините, | verbatim |
+| 11 | Настя | Это мой долг. | It is my duty. | #286 00:20:50: это мой долг. | verbatim |
 | 12 | Шеф | Хорошо. | Good. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What did he say?' Demanding an update, the head cook asks for the exact words spoken by the officer.
-- 'He told us to leave.' Nastya passes on the grim instruction that everyone must clear out.
-- 'I do not believe this.' Expressing pure shock, the chef refuses to accept the terrible news.
-- 'Is this the end?' A sense of doom hangs in the air as she wonders if their workplace is closed forever.
-- 'I do not know.' Barinov repeats his earlier feeling of helplessness, unable to predict the future.
-- 'Chef, what to do?' Max turns to his boss for guidance, asking for their next course of action.
-- 'We must leave.' Realizing they have no choice, the manager accepts the order to evacuate.
-- 'I am very sorry.' Apologizing for her role in the disaster, the waitress expresses deep regret.
-- 'Pack your things.' A short, sharp instruction is given to start gathering belongings.
-- 'I am sorry.' Repeating her apology shows just how awful she feels about the entire situation.
-- 'It is my duty.' Defending her actions, she claims she was only following her personal moral code.
-- 'Good.' A quick, dismissive reply ends the conversation, showing his cold acceptance.
+- 'What did he say?' The order is just like English. The past form of 'say' ends in a bare 'l' because the one who spoke is a man.
+- 'He told us to leave.' Russian says 'said to us', with an 'am' type ending, and then simply 'to leave'. It leaves out the 'that'.
+- 'I don't believe it.' Russians believe 'in' something, so a small word for 'in' comes before 'this'. The 'u' at the end of 'believe' is the 'I' ending.
+- 'Is this the end?' There's no word for 'is', and the question comes only from the rising voice. The word for 'end' ends in a hard 'ts'.
+- 'I don't know.' This time the 'I' is spelled out, which gives the line a heavier tone. Without it, the line would sound a touch more casual.
+- 'Chef, what do we do?' It's just 'what to do', in the basic form, with no 'we' at all. Max talks to the boss with a plain title.
+- 'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is the finished kind, meaning to go away for good.
+- 'I'm very sorry.' Russian says 'to me very pity', so the sorrow is something that happens to you. It's a gentle way to give bad news.
+- 'Pack your things.' The 'sya' on the end means 'gather yourselves', and 'te' makes it a command to several people. In real life it also means 'get ready to go'.
+- 'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It ends in 'ite', the polite command ending again.
+- 'It's my duty.' The word for 'duty' is also the word for 'debt', so duty is what you owe. 'My' is masculine to match.
+- 'Good.' It sounds resigned here, like 'fine' or 'all right'. Barinov has nothing left to argue with.

@@ -4,7 +4,7 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Boss, I got it.",
+      "trans": "Chef, I am very cold.",
       "words": [
         {
           "t": "Шеф,",
@@ -15,7 +15,37 @@
           "gram": "proper name"
         },
         {
-          "t": "я",
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "холодно.",
+          "lemma": "холодно",
+          "pos": "adv",
+          "stress": "хо́лодно",
+          "gloss": "cold (it is cold)",
+          "gram": "adverb, impersonal predicate"
+        }
+      ]
+    },
+    {
+      "seg": 2,
+      "trans": "I froze in here.",
+      "words": [
+        {
+          "t": "Я",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
@@ -23,50 +53,20 @@
           "gram": "1st person singular, nominative"
         },
         {
-          "t": "понял.",
-          "lemma": "понять",
-          "pos": "verb",
-          "stress": "по́нял",
-          "gloss": "understood? (got it?)",
-          "gram": "past, masculine singular, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 2,
-      "trans": "You added basil, right?",
-      "words": [
-        {
-          "t": "Вы",
-          "lemma": "вы",
-          "pos": "pron",
+          "t": "тут",
+          "lemma": "тут",
+          "pos": "adv",
           "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "gloss": "here",
+          "gram": "adverb"
         },
         {
-          "t": "добавили",
-          "lemma": "добавить",
+          "t": "замёрз.",
+          "lemma": "замёрзнуть",
           "pos": "verb",
-          "stress": "доба́вили",
-          "gloss": "to add",
-          "gram": "todo"
-        },
-        {
-          "t": "базилик,",
-          "lemma": "базилик",
-          "pos": "noun",
-          "stress": "базили́к",
-          "gloss": "basil",
-          "gram": "todo"
-        },
-        {
-          "t": "да?",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "stress": "замёрз",
+          "gloss": "froze (up)",
+          "gram": "masculine singular past, perfective"
         }
       ]
     },
@@ -329,20 +329,20 @@
       "trans": "How did you get me out?",
       "words": [
         {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "как",
+          "t": "Как",
           "lemma": "как",
           "pos": "adv",
           "stress": null,
           "gloss": "how",
           "gram": "question word"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "меня",
@@ -353,26 +353,34 @@
           "gram": "1st person singular, genitive"
         },
         {
-          "t": "вытащил?",
+          "t": "вытащили?",
           "lemma": "вытащить",
           "pos": "verb",
-          "stress": "вы́тащил",
-          "gloss": "to drag out / rescue",
-          "gram": "todo"
+          "stress": "вы́тащили",
+          "gloss": "you pulled out",
+          "gram": "2nd person plural, past, perfective"
         }
       ]
     },
     {
       "seg": 13,
-      "trans": "Only the boss had keys.",
+      "trans": "Only you had the key.",
       "words": [
         {
-          "t": "Ключи",
+          "t": "Ключ",
           "lemma": "ключ",
           "pos": "noun",
-          "stress": "ключи́",
-          "gloss": "the keys",
-          "gram": "accusative plural, masculine"
+          "stress": null,
+          "gloss": "key",
+          "gram": "masculine singular nominative"
+        },
+        {
+          "t": "был",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "was",
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "только",
@@ -391,20 +399,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шефа",
-          "lemma": "шеф",
-          "pos": "noun",
-          "stress": "ше́фа",
-          "gloss": "chef",
-          "gram": "genitive singular"
-        },
-        {
-          "t": "были.",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "t": "вас.",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural / polite, accusative"
         }
       ]
     },
@@ -448,7 +448,7 @@
     },
     {
       "seg": 16,
-      "trans": "Boss, I got it.",
+      "trans": "Chef, I am very cold.",
       "words": [
         {
           "t": "Шеф,",
@@ -459,7 +459,37 @@
           "gram": "proper name"
         },
         {
-          "t": "я",
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "холодно.",
+          "lemma": "холодно",
+          "pos": "adv",
+          "stress": "хо́лодно",
+          "gloss": "cold (it is cold)",
+          "gram": "adverb, impersonal predicate"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "I froze in here.",
+      "words": [
+        {
+          "t": "Я",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
@@ -467,50 +497,20 @@
           "gram": "1st person singular, nominative"
         },
         {
-          "t": "понял.",
-          "lemma": "понять",
-          "pos": "verb",
-          "stress": "по́нял",
-          "gloss": "understood? (got it?)",
-          "gram": "past, masculine singular, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 18,
-      "trans": "You added basil, right?",
-      "words": [
-        {
-          "t": "Вы",
-          "lemma": "вы",
-          "pos": "pron",
+          "t": "тут",
+          "lemma": "тут",
+          "pos": "adv",
           "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "gloss": "here",
+          "gram": "adverb"
         },
         {
-          "t": "добавили",
-          "lemma": "добавить",
+          "t": "замёрз.",
+          "lemma": "замёрзнуть",
           "pos": "verb",
-          "stress": "доба́вили",
-          "gloss": "to add",
-          "gram": "todo"
-        },
-        {
-          "t": "базилик,",
-          "lemma": "базилик",
-          "pos": "noun",
-          "stress": "базили́к",
-          "gloss": "basil",
-          "gram": "todo"
-        },
-        {
-          "t": "да?",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "stress": "замёрз",
+          "gloss": "froze (up)",
+          "gram": "masculine singular past, perfective"
         }
       ]
     },
@@ -773,20 +773,20 @@
       "trans": "How did you get me out?",
       "words": [
         {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "как",
+          "t": "Как",
           "lemma": "как",
           "pos": "adv",
           "stress": null,
           "gloss": "how",
           "gram": "question word"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "меня",
@@ -797,26 +797,34 @@
           "gram": "1st person singular, genitive"
         },
         {
-          "t": "вытащил?",
+          "t": "вытащили?",
           "lemma": "вытащить",
           "pos": "verb",
-          "stress": "вы́тащил",
-          "gloss": "to drag out / rescue",
-          "gram": "todo"
+          "stress": "вы́тащили",
+          "gloss": "you pulled out",
+          "gram": "2nd person plural, past, perfective"
         }
       ]
     },
     {
       "seg": 40,
-      "trans": "Only the boss had keys.",
+      "trans": "Only you had the key.",
       "words": [
         {
-          "t": "Ключи",
+          "t": "Ключ",
           "lemma": "ключ",
           "pos": "noun",
-          "stress": "ключи́",
-          "gloss": "the keys",
-          "gram": "accusative plural, masculine"
+          "stress": null,
+          "gloss": "key",
+          "gram": "masculine singular nominative"
+        },
+        {
+          "t": "был",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "was",
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "только",
@@ -835,20 +843,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шефа",
-          "lemma": "шеф",
-          "pos": "noun",
-          "stress": "ше́фа",
-          "gloss": "chef",
-          "gram": "genitive singular"
-        },
-        {
-          "t": "были.",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "t": "вас.",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural / polite, accusative"
         }
       ]
     },
@@ -892,7 +892,7 @@
     },
     {
       "seg": 44,
-      "trans": "Boss, I got it.",
+      "trans": "Chef, I am very cold.",
       "words": [
         {
           "t": "Шеф,",
@@ -903,7 +903,37 @@
           "gram": "proper name"
         },
         {
-          "t": "я",
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "холодно.",
+          "lemma": "холодно",
+          "pos": "adv",
+          "stress": "хо́лодно",
+          "gloss": "cold (it is cold)",
+          "gram": "adverb, impersonal predicate"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "I froze in here.",
+      "words": [
+        {
+          "t": "Я",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
@@ -911,50 +941,20 @@
           "gram": "1st person singular, nominative"
         },
         {
-          "t": "понял.",
-          "lemma": "понять",
-          "pos": "verb",
-          "stress": "по́нял",
-          "gloss": "understood? (got it?)",
-          "gram": "past, masculine singular, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "You added basil, right?",
-      "words": [
-        {
-          "t": "Вы",
-          "lemma": "вы",
-          "pos": "pron",
+          "t": "тут",
+          "lemma": "тут",
+          "pos": "adv",
           "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "gloss": "here",
+          "gram": "adverb"
         },
         {
-          "t": "добавили",
-          "lemma": "добавить",
+          "t": "замёрз.",
+          "lemma": "замёрзнуть",
           "pos": "verb",
-          "stress": "доба́вили",
-          "gloss": "to add",
-          "gram": "todo"
-        },
-        {
-          "t": "базилик,",
-          "lemma": "базилик",
-          "pos": "noun",
-          "stress": "базили́к",
-          "gloss": "basil",
-          "gram": "todo"
-        },
-        {
-          "t": "да?",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "stress": "замёрз",
+          "gloss": "froze (up)",
+          "gram": "masculine singular past, perfective"
         }
       ]
     },
@@ -1217,20 +1217,20 @@
       "trans": "How did you get me out?",
       "words": [
         {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "как",
+          "t": "Как",
           "lemma": "как",
           "pos": "adv",
           "stress": null,
           "gloss": "how",
           "gram": "question word"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "меня",
@@ -1241,26 +1241,34 @@
           "gram": "1st person singular, genitive"
         },
         {
-          "t": "вытащил?",
+          "t": "вытащили?",
           "lemma": "вытащить",
           "pos": "verb",
-          "stress": "вы́тащил",
-          "gloss": "to drag out / rescue",
-          "gram": "todo"
+          "stress": "вы́тащили",
+          "gloss": "you pulled out",
+          "gram": "2nd person plural, past, perfective"
         }
       ]
     },
     {
       "seg": 56,
-      "trans": "Only the boss had keys.",
+      "trans": "Only you had the key.",
       "words": [
         {
-          "t": "Ключи",
+          "t": "Ключ",
           "lemma": "ключ",
           "pos": "noun",
-          "stress": "ключи́",
-          "gloss": "the keys",
-          "gram": "accusative plural, masculine"
+          "stress": null,
+          "gloss": "key",
+          "gram": "masculine singular nominative"
+        },
+        {
+          "t": "был",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "was",
+          "gram": "past tense, masculine singular"
         },
         {
           "t": "только",
@@ -1279,20 +1287,12 @@
           "gram": "preposition + genitive"
         },
         {
-          "t": "шефа",
-          "lemma": "шеф",
-          "pos": "noun",
-          "stress": "ше́фа",
-          "gloss": "chef",
-          "gram": "genitive singular"
-        },
-        {
-          "t": "были.",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "бы́ли",
-          "gloss": "(there) be",
-          "gram": "past plural form after 'чтобы'"
+          "t": "вас.",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural / polite, accusative"
         }
       ]
     },
@@ -3877,6 +3877,156 @@
           "gloss": "to me (dative)"
         }
       ]
+    },
+    "очень": {
+      "lemma": "очень",
+      "stress": "о́чень",
+      "pos": "adv",
+      "gloss": "very, very much",
+      "meanings": [
+        {
+          "en": "very",
+          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
+        },
+        {
+          "en": "very much",
+          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я очень люблю наш город.",
+          "trans": "I love our town very much."
+        },
+        {
+          "text": "Это очень трудно.",
+          "trans": "It's very hard."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "совсем",
+          "gloss": "intensified / related adverb (very)"
+        }
+      ]
+    },
+    "тут": {
+      "lemma": "тут",
+      "stress": "тут",
+      "pos": "adv",
+      "gloss": "here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": "Colloquial, like здесь. Core Russian adv meaning 'here' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я тут.",
+          "trans": "I'm here."
+        },
+        {
+          "text": "Тут к вам человек.",
+          "trans": "There's someone here to see you."
+        },
+        {
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, I'm sorry, there's a man here to see you."
+        }
+      ],
+      "related": [
+        {
+          "word": "здесь",
+          "gloss": "here"
+        }
+      ]
+    },
+    "замёрзнуть": {
+      "lemma": "замёрзнуть",
+      "stress": "замёрзнуть",
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я тут замёрз.",
+          "trans": "froze (up)"
+        },
+        {
+          "text": "замёрз",
+          "trans": "froze (up)"
+        }
+      ],
+      "related": [],
+      "pos": "verb",
+      "gloss": "froze (up)",
+      "meanings": [
+        {
+          "en": "froze (up)",
+          "note": "masculine singular past, perfective"
+        }
+      ],
+      "forms": {
+        "title": "Form used here",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "in this line",
+              "замёрз"
+            ]
+          }
+        ]
+      }
+    },
+    "холодно": {
+      "lemma": "холодно",
+      "stress": "хо́лодно",
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Шеф, мне очень холодно.",
+          "trans": "cold (it is cold)"
+        },
+        {
+          "text": "холодно",
+          "trans": "cold (it is cold)"
+        }
+      ],
+      "related": [],
+      "pos": "adv",
+      "gloss": "cold (it is cold)",
+      "meanings": [
+        {
+          "en": "cold (it is cold)",
+          "note": "adverb, impersonal predicate"
+        }
+      ],
+      "forms": {
+        "title": "Form used here",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "in this line",
+              "холодно"
+            ]
+          }
+        ]
+      }
     }
   }
 }

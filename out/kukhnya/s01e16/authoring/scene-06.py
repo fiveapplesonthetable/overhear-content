@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'In the kitchen of Claude Monet, Chef Viktor stands by the window with a triumphant grin. Senya notices his cheerful mood and asks what is going on. Viktor points to the courtyard, where migration inspectors are descending upon Arcobaleno. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Viktor and Senya's conversation at the window line by line."
+INTRO = "In the kitchen, Barinov stands at the window with a smug smile. Senya, one of the cooks, asks what is so funny, and the chef points across the courtyard, where inspectors have just turned up at Arcobaleno, the restaurant next door. We'll hear it in Russian first."
+OPENER = "Let's go through it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Satisfied with his successful revenge on Elena Pavlovna, Viktor watches happily as the migration raid throws the rival restaurant into complete disarray. Next time you watch the episode, listen for the Russian expressions for 'why' and 'cheerfully' — you will catch every word right away. See you next time!"
+OUTRO = "The rival restaurant is in trouble, and the kitchen at Claude Monet is enjoying every second. When you rewatch, keep an ear out for 'budet' and 'budut', the words for 'will be' that turn up all over the show. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Шеф, почему вы так весело улыбаетесь?', 'Chef, why are you smiling so cheerfully?', [], ''),
     ('barinov', 'Посмотри во двор на соседний ресторан.', 'Look into the courtyard at the neighboring restaurant.', [], ''),
     ('senya', 'Туда только что приехала строгая проверка!', 'A strict inspection just arrived over there!', [], ''),
-    ('barinov', 'Да, это специальная служба пришла туда.', 'Yes, that is a special service arriving.', [], ''),
+    ('barinov', 'Да, это миграционная служба.', 'Yes, it is the migration service.', [], ''),
     ('senya', 'Вы сами позвонили в эту инспекцию?', 'Did you call this inspection yourself?', [], ''),
-    ('barinov', 'Конечно, они должны уважать правила порядка.', 'Of course, they must respect the rules of order.', [], ''),
+    ('barinov', 'Нет, это Нагиев позвонил.', 'No, it was Nagiyev who called.', [], ''),
     ('senya', 'Теперь их повара будут сильно бегать.', 'Now their cooks will be running around a lot.', [], ''),
-    ('barinov', 'Пусть они быстро бегают вокруг здания!', 'Let them quickly run around the building!', [(51, 'Сейчас вы побегаете.')], ''),
+    ('barinov', 'Сейчас они побегают!', 'Now they are in for a workout!', [(51, 'Сейчас вы побегаете.')], ''),
     ('senya', 'Елена Павловна будет очень сильно злиться.', 'Elena Pavlovna will be extremely furious.', [], ''),
-    ('barinov', 'Она не должна была ставить машину здесь.', 'She should not have parked her car here.', [], ''),
-    ('senya', 'Это действительно очень жестокая маленькая месть.', 'This is indeed very cruel little revenge.', [], ''),
+    ('barinov', 'Так им и надо.', 'It serves them right.', [], ''),
+    ('senya', 'Маленькая, но приятная месть.', 'A small but pleasant revenge.', [], ''),
     ('barinov', 'Это справедливый урок для наглых соседей.', 'This is a fair lesson for insolent neighbors.', [], ''),
     ('senya', 'Тогда давайте спокойно смотреть в окно!', 'Then let us calmly watch out the window!', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, why are you smiling so cheerfully?' Senya wonders aloud why his boss is looking so visibly happy today."),
-    (1, None, "'Look into the courtyard at the neighboring restaurant.' Pointing outside, the chef tells his colleague to observe the place next door."),
-    (2, None, "'A strict inspection just arrived over there!' Noticing the commotion, the cook points out that a serious checkup is happening across the way."),
-    (3, None, "'Yes, that is a special service arriving.' Confirming the observation, the boss mentions that a specific government agency has shown up."),
-    (4, None, "'Did you call this inspection yourself?' Senya puts two and two together, asking if his boss is the one who made the phone call."),
-    (5, None, "'Of course, they must respect the rules of order.' Barinov casually admits to it, suggesting that people need to learn how to follow the rules."),
-    (6, None, "'Now their cooks will be running around a lot.' The cook pictures the chaos, imagining how frantic the kitchen staff over there must be."),
-    (7, None, "'Let them quickly run around the building!' Laughing it off, the chef seems to enjoy the thought of his rivals scrambling in a panic."),
-    (8, None, "'Elena Pavlovna will be extremely furious.' Thinking of the neighboring boss, the cook predicts she will be absolutely livid."),
-    (9, None, "'She should not have parked her car here.' Brushing off the concern, the chef simply says she brought it on herself by parking poorly."),
-    (10, None, "'This is indeed very cruel little revenge.' Senya notes that this payback is a bit harsh, though he seems amused by it."),
-    (11, None, "'This is a fair lesson for insolent neighbors.' Standing by his actions, the boss insists it is a fitting punishment for their arrogant behavior."),
-    (12, None, "'Then let us calmly watch out the window!' Relaxing into the moment, the cook suggests they just sit back and enjoy the show."),
+    (0, None, "'Chef, why are you smiling so cheerfully?' The ending on the last word is the polite 'you'. Russian's 'cheerfully' ends in 'o', like many words for 'how something is done'."),
+    (1, None, "'Look at the neighboring restaurant, across the courtyard.' When you look toward a place, Russian leaves 'courtyard' bare. When something just sits in the courtyard, the word takes an 'e'."),
+    (2, None, "'A strict inspection has just arrived over there!' The Russian for 'arrived' ends in 'a' because Russian's 'inspection' is feminine, and 'strict' ends in 'aya' for the same reason. 'Just now' is two small words, literally 'only what'."),
+    (3, None, "'Yes, it is the migration service.' The word for 'service' is also the Russian for 'job', so it fits any official body. Both words have the feminine ending, just as the 'strict inspection' did."),
+    (4, None, "'Did you call this inspection yourself?' Senya adds 'yourself' to ask whether the chef did it with his own hands. Russian's 'call' is the one for ringing a bell, so a phone call is a ring."),
+    (5, None, "'No, it was Nagiyev who called.' The word order puts the person first and the action last. Barinov is happy to let the owner take the blame, or the credit."),
+    (6, None, "'Now their cooks will be running around a lot.' 'Will be running' is built from 'will be' plus the dictionary form of 'run'. The Russian for 'their' never changes its ending, which is a relief."),
+    (7, None, "'Now they are in for a workout!' The little 'po' at the front of Russian's 'run' gives it the sense of 'run around for a while'. The first word is 'right now', literally 'this hour'."),
+    (8, None, "'Elena Pavlovna will be furious.' The second name is a patronymic, 'daughter of Pavel', which is how you politely address an adult. The word for 'furious' has the little 'sya' that means the anger happens to her."),
+    (9, None, "'It serves them right.' Word for word it is 'so to-them and needed'. It's a fixed phrase, and the Russian for 'needed' is one you've met before."),
+    (10, None, "'A small but pleasant revenge.' There is no 'is' in it, which is normal. Russian's 'revenge' is feminine, so 'small' and 'pleasant' both end in 'aya'."),
+    (11, None, "'This is a fair lesson for rude neighbors.' The Russian for 'lesson' also means a class at school. The endings on 'rude' and 'neighbors' are both the plural 'for' form, so they go together."),
+    (12, None, "'Then let's calmly watch out the window!' The first word is the standard way to say 'let's', here in the plural form. 'Calmly' ends in 'o' like 'cheerfully' at the top, and the window takes the direction form."),
 ]

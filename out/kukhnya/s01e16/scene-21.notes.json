@@ -86,15 +86,31 @@
     },
     {
       "seg": 4,
-      "trans": "You must be deported.",
+      "trans": "He wants to deport Louis.",
       "words": [
         {
-          "t": "Тебя",
-          "lemma": "ты",
+          "t": "Луи",
+          "lemma": "луи",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Louis",
+          "gram": "proper name, masculine vocative/nominative"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
           "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "хочет",
+          "lemma": "хотеть",
+          "pos": "verb",
+          "stress": "хо́чет",
+          "gloss": "wants",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "депортировать.",
@@ -108,18 +124,10 @@
     },
     {
       "seg": 5,
-      "trans": "I'm thinking, what is this?",
+      "trans": "What should we do?",
       "words": [
         {
-          "t": "Думаю,",
-          "lemma": "думать",
-          "pos": "verb",
-          "stress": "ду́маю",
-          "gloss": "I think",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "что",
+          "t": "Что",
           "lemma": "что",
           "pos": "pron",
           "stress": null,
@@ -127,12 +135,20 @@
           "gram": "relative pronoun, accusative"
         },
         {
-          "t": "это?",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "делать?",
+          "lemma": "делать",
+          "pos": "verb",
+          "stress": "де́лать",
+          "gloss": "do",
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -332,23 +348,39 @@
     },
     {
       "seg": 13,
-      "trans": "A chair, right?",
+      "trans": "All right, Chef. I will try.",
       "words": [
         {
-          "t": "Стульчик,",
-          "lemma": "стульчик",
-          "pos": "noun",
-          "stress": "сту́льчик",
-          "gloss": "little chair, stool",
-          "gram": "nominative / accusative"
+          "t": "Хорошо,",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
-          "t": "да?",
-          "lemma": "да",
-          "pos": "part",
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "name",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "Chef",
+          "gram": "proper name"
+        },
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "попробую.",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́бую",
+          "gloss": "will try",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -436,15 +468,31 @@
     },
     {
       "seg": 21,
-      "trans": "You must be deported.",
+      "trans": "He wants to deport Louis.",
       "words": [
         {
-          "t": "Тебя",
-          "lemma": "ты",
+          "t": "Луи",
+          "lemma": "луи",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Louis",
+          "gram": "proper name, masculine vocative/nominative"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
           "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "хочет",
+          "lemma": "хотеть",
+          "pos": "verb",
+          "stress": "хо́чет",
+          "gloss": "wants",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "депортировать.",
@@ -458,18 +506,10 @@
     },
     {
       "seg": 23,
-      "trans": "I'm thinking, what is this?",
+      "trans": "What should we do?",
       "words": [
         {
-          "t": "Думаю,",
-          "lemma": "думать",
-          "pos": "verb",
-          "stress": "ду́маю",
-          "gloss": "I think",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "что",
+          "t": "Что",
           "lemma": "что",
           "pos": "pron",
           "stress": null,
@@ -477,12 +517,20 @@
           "gram": "relative pronoun, accusative"
         },
         {
-          "t": "это?",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "делать?",
+          "lemma": "делать",
+          "pos": "verb",
+          "stress": "де́лать",
+          "gloss": "do",
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -682,23 +730,39 @@
     },
     {
       "seg": 39,
-      "trans": "A chair, right?",
+      "trans": "All right, Chef. I will try.",
       "words": [
         {
-          "t": "Стульчик,",
-          "lemma": "стульчик",
-          "pos": "noun",
-          "stress": "сту́льчик",
-          "gloss": "little chair, stool",
-          "gram": "nominative / accusative"
+          "t": "Хорошо,",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
-          "t": "да?",
-          "lemma": "да",
-          "pos": "part",
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "name",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "Chef",
+          "gram": "proper name"
+        },
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "попробую.",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́бую",
+          "gloss": "will try",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -786,15 +850,31 @@
     },
     {
       "seg": 44,
-      "trans": "You must be deported.",
+      "trans": "He wants to deport Louis.",
       "words": [
         {
-          "t": "Тебя",
-          "lemma": "ты",
+          "t": "Луи",
+          "lemma": "луи",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Louis",
+          "gram": "proper name, masculine vocative/nominative"
+        },
+        {
+          "t": "он",
+          "lemma": "он",
           "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "хочет",
+          "lemma": "хотеть",
+          "pos": "verb",
+          "stress": "хо́чет",
+          "gloss": "wants",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "депортировать.",
@@ -808,18 +888,10 @@
     },
     {
       "seg": 45,
-      "trans": "I'm thinking, what is this?",
+      "trans": "What should we do?",
       "words": [
         {
-          "t": "Думаю,",
-          "lemma": "думать",
-          "pos": "verb",
-          "stress": "ду́маю",
-          "gloss": "I think",
-          "gram": "present, 1st person singular, imperfective"
-        },
-        {
-          "t": "что",
+          "t": "Что",
           "lemma": "что",
           "pos": "pron",
           "stress": null,
@@ -827,12 +899,20 @@
           "gram": "relative pronoun, accusative"
         },
         {
-          "t": "это?",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "делать?",
+          "lemma": "делать",
+          "pos": "verb",
+          "stress": "де́лать",
+          "gloss": "do",
+          "gram": "infinitive, imperfective"
         }
       ]
     },
@@ -1032,23 +1112,39 @@
     },
     {
       "seg": 53,
-      "trans": "A chair, right?",
+      "trans": "All right, Chef. I will try.",
       "words": [
         {
-          "t": "Стульчик,",
-          "lemma": "стульчик",
-          "pos": "noun",
-          "stress": "сту́льчик",
-          "gloss": "little chair, stool",
-          "gram": "nominative / accusative"
+          "t": "Хорошо,",
+          "lemma": "хорошо",
+          "pos": "adv",
+          "stress": "хорошо́",
+          "gloss": "good, fine",
+          "gram": "adverb used as an answer"
         },
         {
-          "t": "да?",
-          "lemma": "да",
-          "pos": "part",
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "name",
           "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "gloss": "Chef",
+          "gram": "proper name"
+        },
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "попробую.",
+          "lemma": "попробовать",
+          "pos": "verb",
+          "stress": "попро́бую",
+          "gloss": "will try",
+          "gram": "future, 1st person singular, perfective"
         }
       ]
     },
@@ -3358,6 +3454,416 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "хотеть": {
+      "lemma": "хотеть",
+      "stress": "хоте́ть",
+      "pos": "verb",
+      "gloss": "to want",
+      "aspect": "impf",
+      "pair": "захотеть",
+      "meanings": [
+        {
+          "en": "to want",
+          "note": "+ infinitive or a noun. Used as an imperfective (ongoing/repeated action) verb meaning 'to want', paired with 'захотеть'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "хочу",
+              "хотим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "хочешь",
+              "хотите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "хочет",
+              "хотят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "хотел",
+                "хотела",
+                "хотело",
+                "хотели"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я хочу кофе.",
+          "trans": "I want coffee."
+        },
+        {
+          "text": "Не хочешь, как хочешь.",
+          "trans": "If you don't want to, suit yourself."
+        },
+        {
+          "text": "Там хотят построить торговый центр.",
+          "trans": "They want to build a shopping centre there."
+        }
+      ],
+      "related": [
+        {
+          "word": "захотеть",
+          "gloss": "to want"
+        },
+        {
+          "word": "хотеться",
+          "gloss": "to feel like"
+        }
+      ]
+    },
+    "же": {
+      "lemma": "же",
+      "stress": "же",
+      "pos": "part",
+      "gloss": "but, after all (emphasis)",
+      "meanings": [
+        {
+          "en": "but, after all",
+          "note": "adds emphasis to the word before it"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "У тебя же есть ещё.",
+          "trans": "But you've still got some."
+        },
+        {
+          "text": "Я же знаю.",
+          "trans": "But I know."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
+        }
+      ],
+      "related": [
+        {
+          "word": "ведь",
+          "gloss": "after all, you know"
+        },
+        {
+          "word": "тоже",
+          "gloss": "also, too"
+        }
+      ]
+    },
+    "делать": {
+      "lemma": "делать",
+      "stress": "де́лать",
+      "pos": "verb",
+      "gloss": "to do, to make",
+      "aspect": "impf",
+      "pair": "сделать",
+      "meanings": [
+        {
+          "en": "to do",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+        },
+        {
+          "en": "to make",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "делаю",
+              "делаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "делаешь",
+              "делаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "делает",
+              "делают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "делал",
+                "делала",
+                "делало",
+                "делали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "делай",
+                "делайте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Что делаешь?",
+          "trans": "What are you doing?"
+        },
+        {
+          "text": "Я делаю ужин.",
+          "trans": "I'm making dinner."
+        },
+        {
+          "text": "Привет, Аркадий Борисович. Что делаешь?",
+          "trans": "Hi, Arkady Borisovich. What are you doing?"
+        }
+      ],
+      "related": [
+        {
+          "word": "сделать",
+          "gloss": "to do"
+        },
+        {
+          "word": "переделать",
+          "gloss": "to redo"
+        },
+        {
+          "word": "сделанный",
+          "gloss": "made"
+        }
+      ]
+    },
+    "хорошо": {
+      "lemma": "хорошо",
+      "stress": "хорошо́",
+      "pos": "adv",
+      "gloss": "well, good",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "How something is done. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        },
+        {
+          "en": "good, fine",
+          "note": "As an answer. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хорошо!",
+          "trans": "Good!"
+        },
+        {
+          "text": "Всё хорошо.",
+          "trans": "Everything's fine."
+        },
+        {
+          "text": "Хорошо! Там всё нормально.",
+          "trans": "Good! Everything's fine over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "хороший",
+          "gloss": "good"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
+        }
+      ]
+    },
+    "попробовать": {
+      "lemma": "попробовать",
+      "stress": "попро́бовать",
+      "pos": "verb",
+      "gloss": "to try",
+      "aspect": "pf",
+      "pair": "пробовать",
+      "meanings": [
+        {
+          "en": "to try, to have a go",
+          "note": "+ infinitive. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as an perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+        },
+        {
+          "en": "to taste",
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'пробовать'). Used as an perfective (single completed action) verb meaning 'to try', paired with 'пробовать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "попробую",
+              "попробуем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "попробуешь",
+              "попробуете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "попробует",
+              "попробуют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "попробовал",
+                "попробовала",
+                "попробовало",
+                "попробовали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "попробуй",
+                "попробуйте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Давай попробуем.",
+          "trans": "Let's try."
+        },
+        {
+          "text": "Попробуй суп!",
+          "trans": "Try the soup!"
+        },
+        {
+          "text": "Как я могу это забыть? Ну, давай попробуем.",
+          "trans": "How can I forget that? Well, let's try."
+        }
+      ],
+      "related": [
+        {
+          "word": "пробовать",
+          "gloss": "to try"
+        },
+        {
+          "word": "пробка",
+          "gloss": "traffic jam"
+        },
+        {
+          "word": "распробовать",
+          "gloss": "to taste properly"
         }
       ]
     }

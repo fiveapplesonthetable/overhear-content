@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Back in the kitchen, the Chef finally shows Maks the real, unglamorous ingredients of the famous beef pâté, and Maks is completely shocked by what he sees. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around The Secret of the Pâté line by line and unpack how the Russian works."
+INTRO = "Barinov has led Max to the kitchen to show him what his famous pâté really contains. It is not what Max expected, and Eleonora Andreyevna, who loves the stuff, comes into it. We'll hear it in Russian first."
+OPENER = "Let's look at it again, piece by piece."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The Chef shows Maks the real ingredients of the famous pâté. Maks is completely shocked by what he sees. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'pâté' and 'beef' — you will catch every word right away. See you next time!"
+OUTRO = "So the famous pâté is a very ordinary recipe, and Max is left to digest it. You've now heard how Russians say 'by the way' and 'are you kidding me?', which will be handy for a lot of conversations. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('barinov', 'Паштет говяжий.', 'Beef pâté.', [(297, 'Паштет говяжий,')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Говядина, печень.', 'Beef, liver.', [(306, 'Говядина, печень,')], ''),
 ]
 WALK = [
-    (0, None, "'Beef pâté.' Introducing the true nature of the dish, the phrasing places the focus on the meat type right after naming the spread."),
-    (1, None, "'Absolutely revolting.' Barinov grimaces and calls the raw mixture 'frightful filth' to show how unappetizing it looks before cooking."),
-    (2, None, "'But when you mix it all together...' Setting up a surprising contrast, the chef explains what happens if someone were to blend everything into one."),
-    (3, None, "'She likes it.' Referring to his pet, he notes that the concoction is pleasing to her."),
-    (4, None, "'Are you kidding me?' Realizing he was tricked, the frustrated cook asks if he is being mocked or made a fool of."),
-    (5, None, "'Why?' Feigning innocence, the older man offers a one-word question to act as if nothing wrong happened."),
-    (6, None, "'You were learning to discipline yourself.' Framing the cruel joke as a life lesson, the statement implies a process of self-education or personal growth."),
-    (7, None, "'Well, let's go.' Dismissing the argument entirely, this casual conversational filler is followed by a prompt to leave the room."),
-    (8, None, '\'By the way, it\'s good pâté.\' Changing the subject completely, a transition word meaning "incidentally" leads into a genuine compliment about the food.'),
-    (9, None, "'How do you make it?' Showing actual culinary interest, the chef asks about the preparation process using a very direct phrasing."),
-    (10, None, "'What did you put in?' Pushing for recipe details, the question seeks to uncover which extra elements were added to the mix."),
-    (11, None, "'Beef, liver.' Still stunned by the revelation, the reply simply lists the two main animal products used in the preparation."),
+    (0, None, "'Beef pâté.' 'Beef' is an adjective here, so it's 'beefy pâté'. That is how Russian says 'beef pâté': one describing word and one noun."),
+    (1, None, "'Absolutely revolting.' The first word is 'filth', and the second means 'terrible'. Together they work as 'extremely nasty'."),
+    (2, None, "'But when you mix it all together...' 'If' is followed by the plain 'to mix', which gives it a general sense of 'if you mix'. The word for 'all' has an 'o' at the end."),
+    (3, None, "'Eleonora likes it.' Russian says 'to-her it-pleases', so the food does the pleasing. The little word for 'to her' takes the place of 'she'."),
+    (4, None, "'Are you kidding me?' The 'sya' ending makes the verb 'mock' and means you are doing it to someone. Max uses the polite 'you' with the boss."),
+    (5, None, "'Why?' One word again. Barinov is pretending to be surprised."),
+    (6, None, "'You were educating yourself.' It's a made-up kind of word, built from 'self' plus 'bring up', plus 'sya'. Barinov enjoys the sound of it."),
+    (7, None, "'Well, let's go.' The first word is the 'well' that Russians use when they change the subject. The second is the 'we' form, standing in for 'let's go'."),
+    (8, None, "'By the way, it's good pâté.' 'By the way' is a single word. The 'good' has the masculine ending to go with the pâté."),
+    (9, None, "'How do you make it?' Barinov uses the casual 'you', and the ending 'sh' shows it. He has gone from bossy to curious."),
+    (10, None, "'What did you put in?' There's no word for 'you'. The question about 'did you add' relies on the 'l' ending, and the context."),
+    (11, None, "'Beef, liver.' A list of two nouns, with no verb. Max replies with the plainest possible words."),
 ]

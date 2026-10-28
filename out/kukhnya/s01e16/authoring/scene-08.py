@@ -10,17 +10,17 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'In the bar area of Claude Monet, Kostya tries to tell Max about the exciting raid at Arcobaleno. However, Max is obsessed with his ongoing culinary bet with Chef Viktor and refuses to discuss anything else. He forces Kostya to make a definitive comparison. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Kostya and Max's candid conversation line by line."
+INTRO = "Over in the bar, Kostya has gossip: the inspectors have turned up next door. Max doesn't care. All he can think about is his bet with the chef, so he makes his friend say, honestly, whose pâté is better. We'll hear it in Russian first."
+OPENER = "Now we'll go through it in pieces."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Although Kostya honestly confirms Chef Viktor's culinary superiority, Max remains determined to crack the secret recipe and win his two days off. Next time you watch the episode, listen for the Russian expressions for 'to hear' and 'important' — you will catch every word right away. See you next time!"
+OUTRO = "Kostya gives the honest answer and Max takes it on the chin. Notice that Kostya sends him off with a wish for luck: it's a good phrase to keep for yourself. See you next time!"
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Макс, ты слышал важные новости сегодня?', 'Max, did you hear important news today?', [(58, 'А ты слышал про проверку ФМС в другом ресторане?')], ''),
     ('max', 'Какие ещё новости могут волновать меня?', 'What other news could worry me?', [], ''),
     ('kostya', 'В соседнем ресторане сейчас идёт большая проверка.', 'A huge inspection is going on in the neighboring restaurant right now.', [(58, 'в другом ресторане?')], ''),
     ('max', 'Мне сейчас совсем не до чужих проверок.', 'Right now I do not care at all about outside inspections.', [], ''),
-    ('kostya', 'Там полиция проверяет всех работников кухни.', 'The police are checking all kitchen workers over there.', [], ''),
+    ('kostya', 'Там проверяют всех поваров.', 'They are checking all the cooks over there.', [], ''),
     ('max', 'Ответь честно, чей паштет сейчас лучше?', 'Answer honestly, whose pâté is better right now?', [(59, 'Чей паштет лучше, мой или шефа?')], ''),
     ('kostya', 'Ты обещаешь не обижаться на меня?', 'Do you promise not to be offended with me?', [], ''),
     ('max', 'Я хочу услышать только чистую правду.', 'I want to hear only the pure truth.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Желаю тебе большой удачи в этом!', 'I wish you great luck in that!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, did you hear important news today?' Kostya asks his friend if he has caught wind of the big event happening today."),
-    (1, None, "'What other news could worry me?' Max seems completely uninterested, stating that nothing else matters to him right now."),
-    (2, None, "'A huge inspection is going on in the neighboring restaurant right now.' Sharing the gossip, the bartender explains that a massive audit is taking place next door."),
-    (3, None, "'Right now I do not care at all about outside inspections.' Brushing off the drama, the cook insists he has zero interest in what other places are dealing with."),
-    (4, None, "'The police are checking all kitchen workers over there.' Adding more detail, the friend notes that authorities are actively looking at everyone's paperwork."),
-    (5, None, "'Answer honestly, whose pâté is better right now?' Ignoring the news entirely, the young chef demands a straight answer about his food comparison."),
-    (6, None, "'Do you promise not to be offended with me?' Kostya asks for reassurance that his honest opinion will not cause hurt feelings."),
-    (7, None, "'I want to hear only the pure truth.' Promising to handle it, the cook says he only wants the absolute truth."),
-    (8, None, "'And you definitely will not tell the chef?' The friend double-checks the safety of his secret, asking if the boss will find out what he said."),
-    (9, None, "'No, I simply want to know the result.' Swearing to keep quiet, the cook insists he just needs to know the final verdict."),
-    (10, None, "'The chef makes this pâté much better.' Delivering the tough news, the bartender confirms that the boss still holds the crown."),
-    (11, None, "'I will definitely find his secret ingredient!' Max vows to keep digging, determined to uncover the missing component."),
-    (12, None, "'I wish you great luck in that!' Wishing his buddy well, the bartender hopes he succeeds in his quest."),
+    (0, None, "'Max, did you hear important news today?' The word for 'news' is always plural in Russian, so 'important' is plural too. The 'l' on 'did you hear' marks Kostya as the one asking a man."),
+    (1, None, "'What other news could worry me?' The first words are 'what else', and the Russian for 'can' is in the plural to go with 'news'. Max sounds distracted and a little annoyed."),
+    (2, None, "'A big inspection is going on in the neighboring restaurant right now.' Russian says the inspection 'goes' where English says 'is going on'. 'In the neighboring restaurant' has an 'e' ending on both words."),
+    (3, None, "'Right now I don't care about someone else's inspections.' The little group 'to me, not up to' means 'I'm not in the mood for'. Russian's 'someone else's' comes from the Russian for 'foreign'."),
+    (4, None, "'They are checking all the cooks over there.' Nobody is named, so Russian just uses the 'they' ending on Russian's 'check'. We do the same in English when we say 'they're checking everyone'."),
+    (5, None, "'Answer honestly, whose pâté is better right now?' The word for 'whose' has to match 'pâté', so it has the masculine form. 'Honestly' ends in 'o' like the other words for 'how'."),
+    (6, None, "'Do you promise not to be offended by me?' The Russian for 'be offended' ends in 'sya', the 'oneself' bit, as it is something that happens to you. Russians say 'offended on' someone."),
+    (7, None, "'I want to hear only the pure truth.' Russian's 'I want' is irregular, so it's worth learning as it is. 'Pure truth' ends in 'uyu', since the truth is the thing being asked for."),
+    (8, None, "'And you definitely won't tell the chef?' The Russian for 'to the chef' has a 'u' on the end, where the chef is the one it goes to. 'Definitely' is the same word as 'exactly'."),
+    (9, None, "'No, I just want to know the result.' The small word for 'just' also means 'simply', and it softens what could sound blunt. Russian's 'result' is a borrowing, easy to recognise."),
+    (10, None, "'The chef's pâté is much better.' Kostya has to say it, and he does it in the plainest words he can. 'At the chef' is Russian's way of saying 'the chef's', and the word for 'better' is the short one."),
+    (11, None, "'I will definitely find his secret ingredient!' The Russian for 'definitely' means 'without fail'. 'His' is the same as Russian's 'him', pronounced 'yevo'."),
+    (12, None, "'I wish you great luck in that!' The Russian for 'luck' takes an 'i' ending because 'wish' calls for the 'of' form. It's a ready-made phrase you can use for anything."),
 ]

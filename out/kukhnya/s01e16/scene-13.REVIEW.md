@@ -19,21 +19,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Шеф | Где Федя? | Where is Fedya? | new | new |
 | 8 | Сеня | Он в холодильнике. | He is in the fridge. | new | new |
 | 9 | Шеф | Отлично. | Excellent. | new | new |
-| 10 | Инспектор | Виктор Петрович, будьте любезны. | Viktor Petrovich, would you be so kind. | #168: Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник. | verbatim |
-| 11 | Инспектор | Откройте, пожалуйста, холодильник. | Open the fridge, please. | #168: Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник. | verbatim |
+| 10 | Инспектор | Виктор Петрович, будьте любезны. | Viktor Petrovich, would you be so kind. | #168 00:12:18: Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник. | verbatim |
+| 11 | Инспектор | Откройте, пожалуйста, холодильник. | Open the fridge, please. | #168 00:12:18: Виктор Петрович, будьте любезны, откройте, пожалуйста, холодильник. | verbatim |
 | 12 | Инспектор | Я жду. | I am waiting. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The inspector is here.' Barinov urgently warns his colleague that the immigration officer has arrived on the premises.
-- 'I know.' Senya acknowledges the warning calmly, indicating he is already aware of the situation.
-- 'He wants to check the kitchen.' Explaining the immediate threat, the chef clarifies what the unexpected guest intends to do.
-- 'Let him check.' Displaying casual confidence, the cook dismisses the danger and welcomes the search.
-- 'He is looking for illegals.' The chef spells out the exact reason for the visit, highlighting the danger to their undocumented staff.
-- 'We do not have them.' Playing dumb, the kitchen worker insists that there is no one breaking the law in their restaurant.
-- 'Where is Fedya?' Barinov cuts to the chase, demanding the location of their specific vulnerable employee.
-- 'He is in the fridge.' Senya casually reveals the freezing hiding place chosen for their coworker.
-- 'Excellent.' The chef responds with sarcastic or genuine relief, depending on how safe he thinks that spot is.
-- 'Viktor Petrovich, would you be so kind.' Using a highly formal and polite phrase, the guest commands the head cook to assist him.
-- 'Open the fridge, please.' The officer politely but firmly demands access to the very place where the worker is hiding.
-- 'I am waiting.' Adding pressure, the official makes it clear that he will not leave until his request is fulfilled.
+- 'The inspector is here.' There is no 'is' in the Russian. The ending of 'here' has a soft 'zd' sound that is easy to say once you stop worrying about it.
+- 'I know.' One word does the work of two, because the ending already says 'I'. It's the shortest possible answer, which suits Senya.
+- 'He wants to check the kitchen.' 'Wants' is one of the irregular ones, so the 'he' form looks different from the 'I' form. The kitchen takes a 'u' ending, since it's what gets checked.
+- 'Let him check.' The opening word is 'let', and it just goes before the plain 'he checks'. It's a handy little frame for 'let them' or 'may it be'.
+- 'He is looking for illegals.' The 'ne' at the front of 'legal' works just like 'un' or 'il' in English, so the word is built in front of your eyes. The 'ov' ending is the plural 'of' form that 'look for' wants.
+- 'We don't have them.' Literally 'at us them not'. 'Not' here is the 'there isn't' word, and 'them' comes before it.
+- 'Where is Fedya?' The name is a short, friendly one, the kind you'd use for a mate. Again, there's no 'is' in it.
+- 'He is in the fridge.' 'In' plus an 'e' ending on the fridge says where he is. Barinov doesn't need to say more, since the fridge is the whole problem.
+- 'Excellent.' It's the top mark in a Russian school, a five out of five, so it carries a bit of pride. Here it's said through a gritted smile.
+- 'Viktor Petrovich, would you be so kind.' The phrase is literally 'be kind', in the polite plural command. It's what a very formal person says before asking for something.
+- 'Open the fridge, please.' The command ends in 'yte', which is the polite way to order someone around. 'Please' is a long, friendly-sounding word, and it also means 'you're welcome'.
+- 'I'm waiting.' It's just one word, no 'I', and no 'am'. Three words from the inspector would be more polite, but he says one, and it is more menacing.

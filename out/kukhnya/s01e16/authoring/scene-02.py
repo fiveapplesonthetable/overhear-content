@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'inspector': 'Инспектор', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'The fire inspector continues his strict check and rejects several fire extinguishers. The restaurant owner, Dmitry, arrives and demands to know the real reason behind this sudden and aggressive inspection. Let us listen to their conversation in Russian first.'
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "The inspector is still in the dining room at Claude Monet, now hunting for the one extinguisher that is actually hanging where it should. Then the owner, Dmitry Nagiyev, walks in and asks him straight out why this restaurant. We'll hear it in Russian first."
+OPENER = "Now let's look at it line by line."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The fire inspector returns repeatedly to find new faults with the extinguishers until Chef Barinov learns that the rival restaurant next door called in the tip. Next time you watch the episode, listen for the Russian expressions for 'fire extinguisher' and 'to hang' — you will catch every word right away. See you next time!"
+OUTRO = "So the tip came from the restaurant next door, and the inspector is coming back tomorrow. Listen out for the little word that means 'here you are' or 'there it is', because Vika uses it and Russians say it constantly. See you next time!"
 CLOSING = ('inspector', 'Пока!')
 STORY = [
     ('inspector', 'Где ваш огнетушитель?', 'Where is your fire extinguisher?', [(10, 'А где огнетушитель?')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('inspector', 'Ну что, до завтра.', 'Well then, until tomorrow.', [(26, 'Ну что, до завтра.')], ''),
 ]
 WALK = [
-    (0, None, "'Where is your fire extinguisher?' The official demands to see the safety equipment once again."),
-    (1, None, "'It was hanging here last time.' Vika sounds confused, pointing out where the item used to be."),
-    (2, None, "'Are you laughing at me?' Frustrated by the disappearing equipment, the inspector feels he is being mocked."),
-    (3, None, "'This one is not suitable.' He rejects the replacement they offer as completely inadequate."),
-    (4, None, "'Here is a normal fire extinguisher.' Vika presents another option, hoping this one meets the standard."),
-    (5, None, "'And where is its seal?' The official immediately finds another flaw, pointing out a missing safety marker."),
-    (6, None, "'Good afternoon.' Nagiyev enters the scene smoothly, offering a polite daytime greeting."),
-    (7, None, "'May I know one thing?' He asks for permission to bring up a specific question."),
-    (8, None, "'Why do you have such an interest in the restaurant?' Nagiyev probes the official's unusually intense focus on their establishment."),
-    (9, None, "'We are fighting with bad management.' The official justifies his harshness by claiming to crusade against poor leadership."),
-    (10, None, "'There was a call to my boss.' He reveals that a complaint from higher up triggered the strict review."),
-    (11, None, "'From the neighboring restaurant.' The source of the trouble is finally unmasked as a rival business."),
-    (12, None, "'Everything is clear.' Nagiyev quickly connects the dots, understanding the true motive behind the harassment."),
-    (13, None, "'Well then, until tomorrow.' The official leaves with a threatening promise to return the next day."),
+    (0, None, "'Where is your fire extinguisher?' Russian's 'where' is one you'll hear in every shop and station, and 'your' is the polite-or-plural form, matching a masculine thing."),
+    (1, None, "'It was hanging here last time.' A masculine speaker or thing gets a past form that just ends in 'l', no extra ending. 'Last time' is literally 'in the past time'."),
+    (2, None, "'Are you laughing at me?' Russian laughs 'over' someone, so the little word 'over' stands where English puts 'at'. The inspector also throws in a small 'what' at the start, which works like our 'what, are you kidding me?'."),
+    (3, None, "'This one is not suitable.' The Russian for 'suits' literally means 'walks up to', which makes sense if you picture something that comes up to the mark. Here it's negated, and the inspector says 'this one' with the masculine word for it."),
+    (4, None, "'Here is a normal fire extinguisher.' Vika points with the little word 'vot', 'here you go', and she doesn't need any 'is' after it. Russian's 'normal' you will recognise at once."),
+    (5, None, "'And where is its seal?' Its spelling is 'ego', but Russians say 'yevo', so the g sounds like a v. The word for 'seal' also means a dental filling, which is the same idea: something that plugs a gap."),
+    (6, None, "'Good afternoon.' Nagiyev walks in with the polite greeting, literally 'kind day'. You can use it from late morning until evening, which makes it very handy."),
+    (7, None, "'May I find out one thing?' The Russian for 'may' or 'it is possible' is the key to asking permission in Russian, and you'll use it a lot. 'One' changes its ending here to match Russian's 'thing'."),
+    (8, None, "'Why do you have such an interest in the restaurant?' The Russian for 'why' is a single piece, and 'you have' is again 'at you'. The little word before 'restaurant' means 'toward', and the restaurant takes an ending to go with it."),
+    (9, None, "'We are fighting bad management.' Russian's 'management' is built from 'hand' and 'lead', so it is leadership in the literal sense. Russian says 'fight with', where English just says 'fight'."),
+    (10, None, "'There was a call to my boss.' The word for 'call' comes from the verb for ringing a bell, so a phone call is a ring. Both 'my' and 'boss' end in 'u' sounds because the call went to him."),
+    (11, None, "'From the neighboring restaurant.' The Russian for 'neighbor' is the root of the one for 'next door', and the 'ogo' ending is the 'of' form, matching the restaurant it describes."),
+    (12, None, "'Everything is clear.' The word is a one-word reply that Russians use for 'I see' or 'got it', and it means 'understandable' at heart. Nagiyev has put two and two together."),
+    (13, None, "'Well then, until tomorrow.' The small word for 'until' plus Russian's 'tomorrow' is the standard way to say goodbye till the next day. The inspector sounds almost cheerful, which is the threatening part."),
 ]

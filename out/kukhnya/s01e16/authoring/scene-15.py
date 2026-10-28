@@ -7,17 +7,17 @@ SCENE = 15
 TITLE = "Освобождение Феди  (Fedya's Release)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'inspector': 'Инспектор'}
+LABELS = {'fedya': 'Федя', 'inspector': 'Инспектор', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Focused on fedya's release, Fedya is released from the fridge after the inspection. Max continues to obsess over the pâté recipe. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = 'Fedya is still in the fridge, and the inspector has finally got it open. He checks him, finds him clean, and apologises, while Barinov takes the credit. First the Russian.'
+OPENER = "Let's replay it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Fedya is released from the fridge after the inspection. Max continues to obsess over the pâté recipe. Next time you watch the episode, listen for the Russian expressions for 'to understand' and 'to add' — you will catch every word right away. See you next time!"
+OUTRO = "Fedya is out of the fridge, and nobody is any wiser. The chef's last line, 'let him think so', is one you can borrow whenever you want to let someone believe what they like. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('fedya', 'Шеф, я понял.', 'Boss, I got it.', [(180, 'Шеф, я понял. Вы в паштет базилик добавили, да?')], ''),
-    ('fedya', 'Вы добавили базилик, да?', 'You added basil, right?', [(180, 'Шеф, я понял. Вы в паштет базилик добавили, да?')], ''),
+    ('fedya', 'Шеф, мне очень холодно.', 'Chef, I am very cold.', [(180, 'Шеф, я понял. Вы в паштет базилик добавили, да?')], ''),
+    ('fedya', 'Я тут замёрз.', 'I froze in here.', [(180, 'Шеф, я понял. Вы в паштет базилик добавили, да?')], ''),
     ('inspector', 'Чист.', 'Clear.', [(181, 'Чист. Проверили.')], ''),
     ('inspector', 'Проверили.', 'Checked.', [(181, 'Чист. Проверили.')], ''),
     ('barinov', 'Я так и знал.', 'I knew it.', [(182, 'Я так и знал.')], ''),
@@ -27,23 +27,23 @@ STORY = [
     ('barinov', 'А я всегда знал.', 'And I always knew.', [], ''),
     ('barinov', 'Федя, ты как?', 'Fedya, how are you?', [(187, 'Федь, ты как? Нормально.')], ''),
     ('fedya', 'Нормально.', 'Fine.', [(187, 'Федь, ты как? Нормально.')], ''),
-    ('fedya', 'Ты как меня вытащил?', 'How did you get me out?', [(188, 'Ты как меня оттуда вытащил?')], ''),
-    ('fedya', 'Ключи только у шефа были.', 'Only the boss had keys.', [(189, 'Ключи же только у шефа были.')], ''),
+    ('fedya', 'Как вы меня вытащили?', 'How did you get me out?', [(188, 'Ты как меня оттуда вытащил?')], ''),
+    ('fedya', 'Ключ был только у вас.', 'Only you had the key.', [(189, 'Ключи же только у шефа были.')], ''),
     ('barinov', 'Пусть он так думает.', 'Let him think so.', [(190, 'Вот пусть он и дальше так думает.')], ''),
 ]
 WALK = [
-    (0, None, "'Boss, I got it.' Fedya eagerly reports back, showing that he comprehended the previous instructions."),
-    (1, None, "'You added basil, right?' The cook asks for confirmation about a recipe detail, completely ignoring the tension of the raid."),
-    (2, None, "'Clear.' The officer gives a crisp, one-word confirmation that the inspection revealed no problems."),
-    (3, None, "'Checked.' Following up his previous statement, the official confirms that the examination is complete."),
-    (4, None, "'I knew it.' Barinov smugly asserts that he was right all along, projecting total confidence."),
-    (5, None, "'Viktor Petrovich, a mistake happened.' The disappointed guest admits that their raid was based on incorrect information."),
-    (6, None, "'My people checked this person.' Explaining the process, the officer confirms that his team looked into the worker's background."),
-    (7, None, "'Completely clean.' Reassuring the chef, the official declares the employee entirely free of any legal issues."),
-    (8, None, "'And I always knew.' The boss repeats his smug claim of prior knowledge, rubbing his victory in the officer's face."),
-    (9, None, "'Fedya, how are you?' Barinov checks in on his employee, asking about his well-being after the stressful event."),
-    (10, None, "'Fine.' Fedya gives a short, casual response, brushing off the intensity of the situation."),
-    (11, None, "'How did you get me out?' Puzzled by his sudden rescue, the cook asks his boss to explain the trick."),
-    (12, None, "'Only the boss had keys.' The worker points out a logical flaw in the rescue, noting that access was restricted to one person."),
-    (13, None, "'Let him think so.' Barinov slyly suggests allowing the inspector to believe a false version of events."),
+    (0, None, "'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. The word for 'cold' ends in 'o' and is cousin to the word for the fridge he was stuck in."),
+    (1, None, "'I froze in here.' The past form of 'freeze' ends in a bare consonant for a man, and a woman would add an 'a'. The little word for 'here' is the casual one."),
+    (2, None, "'Clean.' The short form drops its ending, so what's left is a bare 'clean', as if reading from a form. It's the inspector's dry verdict."),
+    (3, None, "'Checked.' There's no 'he' and no 'we', just the 'li' ending, which says somebody did it. Officials talk like this."),
+    (4, None, "'I knew it.' The line is 'I so and knew', and 'so and' is a way of saying 'just as I thought'. The masculine 'l' ending is back."),
+    (5, None, "'Viktor Petrovich, a little mistake happened.' 'Little mistake' is a diminutive, a gentler version of 'mistake'. Russian says the mistake 'came out', which also hides who made it."),
+    (6, None, "'My people checked this man.' The plural of 'person' is 'lyudi', which looks nothing like the singular. 'This man' takes an 'ogo' ending because it's the thing that was checked."),
+    (7, None, "'Completely clean.' The first word is a borrowed 'absolutely', and the second is the same short 'clean' as before. Two words, no sentence needed."),
+    (8, None, "'And I always knew.' The small opening 'a' means 'and' with a bit of contrast. The word for 'always' is the same one you use for habits."),
+    (9, None, "'Fedya, how are you?' Literally just 'you how', with no verb at all. The casual 'you' shows how close they are."),
+    (10, None, "'Fine.' Literally 'normally', and it's the standard reply to 'how are you'. Russians don't say it with much more enthusiasm than this."),
+    (11, None, "'How did you get me out?' Fedya uses the polite 'you' with his boss. 'Pull out' is the picture, as if he was dragged from the fridge."),
+    (12, None, "'Only you had the key.' 'The key was only at you' is the literal order. It's the same 'at you' pattern that stands in for 'you have'."),
+    (13, None, "'Let him think so.' It begins with 'let', the little word that goes in front of 'he thinks'. Barinov doesn't correct anybody, and the line is quiet and satisfied."),
 ]

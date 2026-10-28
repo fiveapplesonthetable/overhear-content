@@ -166,7 +166,7 @@
     },
     {
       "seg": 4,
-      "trans": "Yes, that is a special service arriving.",
+      "trans": "Yes, it is the migration service.",
       "words": [
         {
           "t": "Да,",
@@ -185,36 +185,20 @@
           "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "специальная",
-          "lemma": "специальный",
+          "t": "миграционная",
+          "lemma": "миграционный",
           "pos": "adj",
-          "stress": "специа́льная",
-          "gloss": "special",
-          "gram": "feminine singular nominative"
+          "stress": "миграцио́нная",
+          "gloss": "migration (adj.)",
+          "gram": "nominative, feminine singular"
         },
         {
-          "t": "служба",
+          "t": "служба.",
           "lemma": "служба",
           "pos": "noun",
           "stress": "слу́жба",
           "gloss": "service, department",
           "gram": "feminine singular, nominative"
-        },
-        {
-          "t": "пришла",
-          "lemma": "прийти",
-          "pos": "verb",
-          "stress": "пришла́",
-          "gloss": "came",
-          "gram": "past, feminine singular, perfective"
-        },
-        {
-          "t": "туда.",
-          "lemma": "туда",
-          "pos": "adv",
-          "stress": "туда́",
-          "gloss": "there",
-          "gram": "adverb"
         }
       ]
     },
@@ -274,55 +258,39 @@
     },
     {
       "seg": 6,
-      "trans": "Of course, they must respect the rules of order.",
+      "trans": "No, it was Nagiyev who called.",
       "words": [
         {
-          "t": "Конечно,",
-          "lemma": "конечно",
-          "pos": "adv",
-          "stress": "коне́чно",
-          "gloss": "of course",
-          "gram": "adverb"
+          "t": "Нет,",
+          "lemma": "нет",
+          "pos": "part",
+          "stress": null,
+          "gloss": "no",
+          "gram": "negative answer"
         },
         {
-          "t": "они",
-          "lemma": "они",
+          "t": "это",
+          "lemma": "это",
           "pos": "pron",
-          "stress": "они́",
-          "gloss": "they",
-          "gram": "3rd person plural, nominative"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "должны",
-          "lemma": "должен",
-          "pos": "adj",
-          "stress": "должны́",
-          "gloss": "must, should",
-          "gram": "short form, plural"
+          "t": "Нагиев",
+          "lemma": "Нагиев",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Nagiyev (the owner)",
+          "gram": "name"
         },
         {
-          "t": "уважать",
-          "lemma": "уважать",
+          "t": "позвонил.",
+          "lemma": "позвонить",
           "pos": "verb",
-          "stress": "уважа́ть",
-          "gloss": "respect",
-          "gram": "infinitive"
-        },
-        {
-          "t": "правила",
-          "lemma": "правило",
-          "pos": "noun",
-          "stress": "пра́вила",
-          "gloss": "rules",
-          "gram": "accusative plural, neuter"
-        },
-        {
-          "t": "порядка.",
-          "lemma": "порядок",
-          "pos": "noun",
-          "stress": "поря́дка",
-          "gloss": "order",
-          "gram": "masculine singular genitive"
+          "stress": "позвони́л",
+          "gloss": "phoned, called",
+          "gram": "masculine singular past, perfective"
         }
       ]
     },
@@ -382,15 +350,15 @@
     },
     {
       "seg": 8,
-      "trans": "Let them quickly run around the building!",
+      "trans": "Now they are in for a workout!",
       "words": [
         {
-          "t": "Пусть",
-          "lemma": "пусть",
-          "pos": "part",
-          "stress": null,
-          "gloss": "let (him)",
-          "gram": "particle"
+          "t": "Сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
         },
         {
           "t": "они",
@@ -401,36 +369,12 @@
           "gram": "3rd person plural, nominative"
         },
         {
-          "t": "быстро",
-          "lemma": "быстро",
-          "pos": "adv",
-          "stress": "бы́стро",
-          "gloss": "quickly",
-          "gram": "adverb"
-        },
-        {
-          "t": "бегают",
-          "lemma": "бегать",
+          "t": "побегают!",
+          "lemma": "побегать",
           "pos": "verb",
-          "stress": "бе́гают",
-          "gloss": "run",
-          "gram": "pres 3pl"
-        },
-        {
-          "t": "вокруг",
-          "lemma": "вокруг",
-          "pos": "prep",
-          "stress": "вокру́г",
-          "gloss": "around",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "здания!",
-          "lemma": "здание",
-          "pos": "noun",
-          "stress": "зда́ния",
-          "gloss": "building",
-          "gram": "neuter singular, genitive"
+          "stress": "побега́ют",
+          "gloss": "they will run around (for a while)",
+          "gram": "3rd person plural, perfective future"
         }
       ]
     },
@@ -490,108 +434,68 @@
     },
     {
       "seg": 10,
-      "trans": "She should not have parked her car here.",
+      "trans": "It serves them right.",
       "words": [
         {
-          "t": "Она",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": "она́",
-          "gloss": "it (the pipe)",
-          "gram": "nominative, feminine"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
+          "t": "Так",
+          "lemma": "так",
           "pos": "part",
           "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "должна",
-          "lemma": "должен",
-          "pos": "adj",
-          "stress": "должна́",
-          "gloss": "should, must",
-          "gram": "short form, feminine singular"
-        },
-        {
-          "t": "была",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "была́",
-          "gloss": "was",
-          "gram": "past, feminine singular (agrees with комната)"
-        },
-        {
-          "t": "ставить",
-          "lemma": "ставить",
-          "pos": "verb",
-          "stress": "ста́вить",
-          "gloss": "to put, to place",
-          "gram": "verb infinitive"
-        },
-        {
-          "t": "машину",
-          "lemma": "машина",
-          "pos": "noun",
-          "stress": "маши́ну",
-          "gloss": "car",
-          "gram": "accusative singular, feminine"
-        },
-        {
-          "t": "здесь.",
-          "lemma": "здесь",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "here",
+          "gloss": "so",
           "gram": "adverb"
+        },
+        {
+          "t": "им",
+          "lemma": "они",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "them",
+          "gram": "3rd person plural dative"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "надо.",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
         }
       ]
     },
     {
       "seg": 11,
-      "trans": "This is indeed very cruel little revenge.",
+      "trans": "A small but pleasant revenge.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "действительно",
-          "lemma": "действительно",
-          "pos": "adv",
-          "stress": "действи́тельно",
-          "gloss": "really, indeed",
-          "gram": "adverb"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "жестокая",
-          "lemma": "жестокий",
-          "pos": "adj",
-          "stress": "жесто́кая",
-          "gloss": "cruel",
-          "gram": "nominative feminine singular"
-        },
-        {
-          "t": "маленькая",
+          "t": "Маленькая,",
           "lemma": "маленький",
           "pos": "adj",
           "stress": "ма́ленькая",
           "gloss": "small",
+          "gram": "nominative, feminine singular"
+        },
+        {
+          "t": "но",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "приятная",
+          "lemma": "приятный",
+          "pos": "adj",
+          "stress": "прия́тная",
+          "gloss": "pleasant",
           "gram": "nominative, feminine singular"
         },
         {
@@ -876,7 +780,7 @@
     },
     {
       "seg": 21,
-      "trans": "Yes, that is a special service arriving.",
+      "trans": "Yes, it is the migration service.",
       "words": [
         {
           "t": "Да,",
@@ -895,36 +799,20 @@
           "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "специальная",
-          "lemma": "специальный",
+          "t": "миграционная",
+          "lemma": "миграционный",
           "pos": "adj",
-          "stress": "специа́льная",
-          "gloss": "special",
-          "gram": "feminine singular nominative"
+          "stress": "миграцио́нная",
+          "gloss": "migration (adj.)",
+          "gram": "nominative, feminine singular"
         },
         {
-          "t": "служба",
+          "t": "служба.",
           "lemma": "служба",
           "pos": "noun",
           "stress": "слу́жба",
           "gloss": "service, department",
           "gram": "feminine singular, nominative"
-        },
-        {
-          "t": "пришла",
-          "lemma": "прийти",
-          "pos": "verb",
-          "stress": "пришла́",
-          "gloss": "came",
-          "gram": "past, feminine singular, perfective"
-        },
-        {
-          "t": "туда.",
-          "lemma": "туда",
-          "pos": "adv",
-          "stress": "туда́",
-          "gloss": "there",
-          "gram": "adverb"
         }
       ]
     },
@@ -984,55 +872,39 @@
     },
     {
       "seg": 25,
-      "trans": "Of course, they must respect the rules of order.",
+      "trans": "No, it was Nagiyev who called.",
       "words": [
         {
-          "t": "Конечно,",
-          "lemma": "конечно",
-          "pos": "adv",
-          "stress": "коне́чно",
-          "gloss": "of course",
-          "gram": "adverb"
+          "t": "Нет,",
+          "lemma": "нет",
+          "pos": "part",
+          "stress": null,
+          "gloss": "no",
+          "gram": "negative answer"
         },
         {
-          "t": "они",
-          "lemma": "они",
+          "t": "это",
+          "lemma": "это",
           "pos": "pron",
-          "stress": "они́",
-          "gloss": "they",
-          "gram": "3rd person plural, nominative"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "должны",
-          "lemma": "должен",
-          "pos": "adj",
-          "stress": "должны́",
-          "gloss": "must, should",
-          "gram": "short form, plural"
+          "t": "Нагиев",
+          "lemma": "Нагиев",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Nagiyev (the owner)",
+          "gram": "name"
         },
         {
-          "t": "уважать",
-          "lemma": "уважать",
+          "t": "позвонил.",
+          "lemma": "позвонить",
           "pos": "verb",
-          "stress": "уважа́ть",
-          "gloss": "respect",
-          "gram": "infinitive"
-        },
-        {
-          "t": "правила",
-          "lemma": "правило",
-          "pos": "noun",
-          "stress": "пра́вила",
-          "gloss": "rules",
-          "gram": "accusative plural, neuter"
-        },
-        {
-          "t": "порядка.",
-          "lemma": "порядок",
-          "pos": "noun",
-          "stress": "поря́дка",
-          "gloss": "order",
-          "gram": "masculine singular genitive"
+          "stress": "позвони́л",
+          "gloss": "phoned, called",
+          "gram": "masculine singular past, perfective"
         }
       ]
     },
@@ -1092,15 +964,15 @@
     },
     {
       "seg": 29,
-      "trans": "Let them quickly run around the building!",
+      "trans": "Now they are in for a workout!",
       "words": [
         {
-          "t": "Пусть",
-          "lemma": "пусть",
-          "pos": "part",
-          "stress": null,
-          "gloss": "let (him)",
-          "gram": "particle"
+          "t": "Сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
         },
         {
           "t": "они",
@@ -1111,36 +983,12 @@
           "gram": "3rd person plural, nominative"
         },
         {
-          "t": "быстро",
-          "lemma": "быстро",
-          "pos": "adv",
-          "stress": "бы́стро",
-          "gloss": "quickly",
-          "gram": "adverb"
-        },
-        {
-          "t": "бегают",
-          "lemma": "бегать",
+          "t": "побегают!",
+          "lemma": "побегать",
           "pos": "verb",
-          "stress": "бе́гают",
-          "gloss": "run",
-          "gram": "pres 3pl"
-        },
-        {
-          "t": "вокруг",
-          "lemma": "вокруг",
-          "pos": "prep",
-          "stress": "вокру́г",
-          "gloss": "around",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "здания!",
-          "lemma": "здание",
-          "pos": "noun",
-          "stress": "зда́ния",
-          "gloss": "building",
-          "gram": "neuter singular, genitive"
+          "stress": "побега́ют",
+          "gloss": "they will run around (for a while)",
+          "gram": "3rd person plural, perfective future"
         }
       ]
     },
@@ -1200,108 +1048,68 @@
     },
     {
       "seg": 33,
-      "trans": "She should not have parked her car here.",
+      "trans": "It serves them right.",
       "words": [
         {
-          "t": "Она",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": "она́",
-          "gloss": "it (the pipe)",
-          "gram": "nominative, feminine"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
+          "t": "Так",
+          "lemma": "так",
           "pos": "part",
           "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "должна",
-          "lemma": "должен",
-          "pos": "adj",
-          "stress": "должна́",
-          "gloss": "should, must",
-          "gram": "short form, feminine singular"
-        },
-        {
-          "t": "была",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "была́",
-          "gloss": "was",
-          "gram": "past, feminine singular (agrees with комната)"
-        },
-        {
-          "t": "ставить",
-          "lemma": "ставить",
-          "pos": "verb",
-          "stress": "ста́вить",
-          "gloss": "to put, to place",
-          "gram": "verb infinitive"
-        },
-        {
-          "t": "машину",
-          "lemma": "машина",
-          "pos": "noun",
-          "stress": "маши́ну",
-          "gloss": "car",
-          "gram": "accusative singular, feminine"
-        },
-        {
-          "t": "здесь.",
-          "lemma": "здесь",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "here",
+          "gloss": "so",
           "gram": "adverb"
+        },
+        {
+          "t": "им",
+          "lemma": "они",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "them",
+          "gram": "3rd person plural dative"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "надо.",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
         }
       ]
     },
     {
       "seg": 35,
-      "trans": "This is indeed very cruel little revenge.",
+      "trans": "A small but pleasant revenge.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "действительно",
-          "lemma": "действительно",
-          "pos": "adv",
-          "stress": "действи́тельно",
-          "gloss": "really, indeed",
-          "gram": "adverb"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "жестокая",
-          "lemma": "жестокий",
-          "pos": "adj",
-          "stress": "жесто́кая",
-          "gloss": "cruel",
-          "gram": "nominative feminine singular"
-        },
-        {
-          "t": "маленькая",
+          "t": "Маленькая,",
           "lemma": "маленький",
           "pos": "adj",
           "stress": "ма́ленькая",
           "gloss": "small",
+          "gram": "nominative, feminine singular"
+        },
+        {
+          "t": "но",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "приятная",
+          "lemma": "приятный",
+          "pos": "adj",
+          "stress": "прия́тная",
+          "gloss": "pleasant",
           "gram": "nominative, feminine singular"
         },
         {
@@ -1586,7 +1394,7 @@
     },
     {
       "seg": 44,
-      "trans": "Yes, that is a special service arriving.",
+      "trans": "Yes, it is the migration service.",
       "words": [
         {
           "t": "Да,",
@@ -1605,36 +1413,20 @@
           "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "специальная",
-          "lemma": "специальный",
+          "t": "миграционная",
+          "lemma": "миграционный",
           "pos": "adj",
-          "stress": "специа́льная",
-          "gloss": "special",
-          "gram": "feminine singular nominative"
+          "stress": "миграцио́нная",
+          "gloss": "migration (adj.)",
+          "gram": "nominative, feminine singular"
         },
         {
-          "t": "служба",
+          "t": "служба.",
           "lemma": "служба",
           "pos": "noun",
           "stress": "слу́жба",
           "gloss": "service, department",
           "gram": "feminine singular, nominative"
-        },
-        {
-          "t": "пришла",
-          "lemma": "прийти",
-          "pos": "verb",
-          "stress": "пришла́",
-          "gloss": "came",
-          "gram": "past, feminine singular, perfective"
-        },
-        {
-          "t": "туда.",
-          "lemma": "туда",
-          "pos": "adv",
-          "stress": "туда́",
-          "gloss": "there",
-          "gram": "adverb"
         }
       ]
     },
@@ -1694,55 +1486,39 @@
     },
     {
       "seg": 46,
-      "trans": "Of course, they must respect the rules of order.",
+      "trans": "No, it was Nagiyev who called.",
       "words": [
         {
-          "t": "Конечно,",
-          "lemma": "конечно",
-          "pos": "adv",
-          "stress": "коне́чно",
-          "gloss": "of course",
-          "gram": "adverb"
+          "t": "Нет,",
+          "lemma": "нет",
+          "pos": "part",
+          "stress": null,
+          "gloss": "no",
+          "gram": "negative answer"
         },
         {
-          "t": "они",
-          "lemma": "они",
+          "t": "это",
+          "lemma": "это",
           "pos": "pron",
-          "stress": "они́",
-          "gloss": "they",
-          "gram": "3rd person plural, nominative"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "должны",
-          "lemma": "должен",
-          "pos": "adj",
-          "stress": "должны́",
-          "gloss": "must, should",
-          "gram": "short form, plural"
+          "t": "Нагиев",
+          "lemma": "Нагиев",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Nagiyev (the owner)",
+          "gram": "name"
         },
         {
-          "t": "уважать",
-          "lemma": "уважать",
+          "t": "позвонил.",
+          "lemma": "позвонить",
           "pos": "verb",
-          "stress": "уважа́ть",
-          "gloss": "respect",
-          "gram": "infinitive"
-        },
-        {
-          "t": "правила",
-          "lemma": "правило",
-          "pos": "noun",
-          "stress": "пра́вила",
-          "gloss": "rules",
-          "gram": "accusative plural, neuter"
-        },
-        {
-          "t": "порядка.",
-          "lemma": "порядок",
-          "pos": "noun",
-          "stress": "поря́дка",
-          "gloss": "order",
-          "gram": "masculine singular genitive"
+          "stress": "позвони́л",
+          "gloss": "phoned, called",
+          "gram": "masculine singular past, perfective"
         }
       ]
     },
@@ -1802,15 +1578,15 @@
     },
     {
       "seg": 48,
-      "trans": "Let them quickly run around the building!",
+      "trans": "Now they are in for a workout!",
       "words": [
         {
-          "t": "Пусть",
-          "lemma": "пусть",
-          "pos": "part",
-          "stress": null,
-          "gloss": "let (him)",
-          "gram": "particle"
+          "t": "Сейчас",
+          "lemma": "сейчас",
+          "pos": "adv",
+          "stress": "сейча́с",
+          "gloss": "now",
+          "gram": "adverb of time"
         },
         {
           "t": "они",
@@ -1821,36 +1597,12 @@
           "gram": "3rd person plural, nominative"
         },
         {
-          "t": "быстро",
-          "lemma": "быстро",
-          "pos": "adv",
-          "stress": "бы́стро",
-          "gloss": "quickly",
-          "gram": "adverb"
-        },
-        {
-          "t": "бегают",
-          "lemma": "бегать",
+          "t": "побегают!",
+          "lemma": "побегать",
           "pos": "verb",
-          "stress": "бе́гают",
-          "gloss": "run",
-          "gram": "pres 3pl"
-        },
-        {
-          "t": "вокруг",
-          "lemma": "вокруг",
-          "pos": "prep",
-          "stress": "вокру́г",
-          "gloss": "around",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "здания!",
-          "lemma": "здание",
-          "pos": "noun",
-          "stress": "зда́ния",
-          "gloss": "building",
-          "gram": "neuter singular, genitive"
+          "stress": "побега́ют",
+          "gloss": "they will run around (for a while)",
+          "gram": "3rd person plural, perfective future"
         }
       ]
     },
@@ -1910,108 +1662,68 @@
     },
     {
       "seg": 50,
-      "trans": "She should not have parked her car here.",
+      "trans": "It serves them right.",
       "words": [
         {
-          "t": "Она",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": "она́",
-          "gloss": "it (the pipe)",
-          "gram": "nominative, feminine"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
+          "t": "Так",
+          "lemma": "так",
           "pos": "part",
           "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "должна",
-          "lemma": "должен",
-          "pos": "adj",
-          "stress": "должна́",
-          "gloss": "should, must",
-          "gram": "short form, feminine singular"
-        },
-        {
-          "t": "была",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "была́",
-          "gloss": "was",
-          "gram": "past, feminine singular (agrees with комната)"
-        },
-        {
-          "t": "ставить",
-          "lemma": "ставить",
-          "pos": "verb",
-          "stress": "ста́вить",
-          "gloss": "to put, to place",
-          "gram": "verb infinitive"
-        },
-        {
-          "t": "машину",
-          "lemma": "машина",
-          "pos": "noun",
-          "stress": "маши́ну",
-          "gloss": "car",
-          "gram": "accusative singular, feminine"
-        },
-        {
-          "t": "здесь.",
-          "lemma": "здесь",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "here",
+          "gloss": "so",
           "gram": "adverb"
+        },
+        {
+          "t": "им",
+          "lemma": "они",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "them",
+          "gram": "3rd person plural dative"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "надо.",
+          "lemma": "надо",
+          "pos": "adv",
+          "stress": "на́до",
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
         }
       ]
     },
     {
       "seg": 51,
-      "trans": "This is indeed very cruel little revenge.",
+      "trans": "A small but pleasant revenge.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "действительно",
-          "lemma": "действительно",
-          "pos": "adv",
-          "stress": "действи́тельно",
-          "gloss": "really, indeed",
-          "gram": "adverb"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "жестокая",
-          "lemma": "жестокий",
-          "pos": "adj",
-          "stress": "жесто́кая",
-          "gloss": "cruel",
-          "gram": "nominative feminine singular"
-        },
-        {
-          "t": "маленькая",
+          "t": "Маленькая,",
           "lemma": "маленький",
           "pos": "adj",
           "stress": "ма́ленькая",
           "gloss": "small",
+          "gram": "nominative, feminine singular"
+        },
+        {
+          "t": "но",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "приятная",
+          "lemma": "приятный",
+          "pos": "adj",
+          "stress": "прия́тная",
+          "gloss": "pleasant",
           "gram": "nominative, feminine singular"
         },
         {
@@ -7029,6 +6741,467 @@
           "gloss": "this is, it"
         }
       ]
+    },
+    "нет": {
+      "lemma": "нет",
+      "stress": "нет",
+      "pos": "part",
+      "gloss": "no; there isn't",
+      "meanings": [
+        {
+          "en": "no",
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
+        },
+        {
+          "en": "there isn't",
+          "note": "+ genitive. Core Russian part meaning 'no; there isn't' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Нет, это моё.",
+          "trans": "No, it's mine."
+        },
+        {
+          "text": "Нет? Ладно.",
+          "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
+        }
+      ],
+      "related": [
+        {
+          "word": "не",
+          "gloss": "not"
+        },
+        {
+          "word": "да",
+          "gloss": "yes"
+        }
+      ]
+    },
+    "сейчас": {
+      "lemma": "сейчас",
+      "stress": "сейча́с",
+      "pos": "adv",
+      "gloss": "now, right now",
+      "meanings": [
+        {
+          "en": "now",
+          "note": "'сейчас буду' = I'll be right there"
+        },
+        {
+          "en": "in a moment",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ейчас')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я сейчас в кабинете.",
+          "trans": "I'm in the office now."
+        },
+        {
+          "text": "Сейчас приду.",
+          "trans": "I'll be right there."
+        },
+        {
+          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
+          "trans": "Of course I'll help. Who's your boss now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "теперь",
+          "gloss": "now (after a change)"
+        }
+      ]
+    },
+    "и": {
+      "lemma": "и",
+      "stress": "и",
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and",
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я родился и вырос здесь.",
+          "trans": "I was born and grew up here."
+        },
+        {
+          "text": "Папа и мама.",
+          "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "а",
+          "gloss": "and, but"
+        },
+        {
+          "word": "тоже",
+          "gloss": "also"
+        }
+      ]
+    },
+    "надо": {
+      "lemma": "надо",
+      "stress": "на́до",
+      "pos": "adv",
+      "gloss": "it is necessary",
+      "meanings": [
+        {
+          "en": "must, need to, it is necessary",
+          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Надо его помыть.",
+          "trans": "It needs a wash."
+        },
+        {
+          "text": "Надо сделать ещё больше.",
+          "trans": "We need to do even more."
+        },
+        {
+          "text": "Надо его помыть!",
+          "trans": "It needs a wash!"
+        }
+      ],
+      "related": [
+        {
+          "word": "понадобиться",
+          "gloss": "to be needed"
+        },
+        {
+          "word": "ненадолго",
+          "gloss": "for a short time"
+        }
+      ]
+    },
+    "но": {
+      "lemma": "но",
+      "stress": "но",
+      "pos": "conj",
+      "gloss": "but",
+      "meanings": [
+        {
+          "en": "but",
+          "note": "Stronger contrast than 'а'. Core Russian conj meaning 'but' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Мы сделали много, но надо ещё.",
+          "trans": "We've done a lot, but we need more."
+        },
+        {
+          "text": "Я хочу, но не могу.",
+          "trans": "I want to, but I can't."
+        },
+        {
+          "text": "Мы сделали много, но надо сделать ещё больше.",
+          "trans": "We've done a lot, but we need to do even more."
+        }
+      ],
+      "related": [
+        {
+          "word": "а",
+          "gloss": "and, but"
+        },
+        {
+          "word": "однако",
+          "gloss": "however"
+        }
+      ]
+    },
+    "миграционный": {
+      "lemma": "миграционный",
+      "stress": "миграцио́нный",
+      "pos": "adj",
+      "gloss": "migration, immigration",
+      "meanings": [
+        {
+          "en": "migration, immigration",
+          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('migration, immigration')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "миграционный",
+              "миграционная",
+              "миграционное",
+              "миграционные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "миграционного",
+              "миграционной",
+              "миграционного",
+              "миграционных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "миграционному",
+              "миграционной",
+              "миграционному",
+              "миграционным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "миграционный",
+              "миграционную",
+              "миграционное",
+              "миграционные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "миграционным",
+              "миграционной",
+              "миграционным",
+              "миграционными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "миграционном",
+              "миграционной",
+              "миграционном",
+              "миграционных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я майор миграционной службы.",
+          "trans": "I am a major of the migration service."
+        },
+        {
+          "text": "В ресторан неожиданно пришёл майор миграционной службы.",
+          "trans": "A major of the migration service unexpectedly came to the restaurant."
+        },
+        {
+          "text": "Все миграционные документы у наших работников в полном порядке.",
+          "trans": "All the immigration documents of our employees are in complete order."
+        }
+      ],
+      "related": [
+        {
+          "word": "мигрант",
+          "gloss": "migrant"
+        }
+      ]
+    },
+    "приятный": {
+      "lemma": "приятный",
+      "stress": "прия́тный",
+      "pos": "adj",
+      "gloss": "pleasant, nice",
+      "meanings": [
+        {
+          "en": "pleasant, nice",
+          "note": "= Enjoy your meal!. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ятный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+        },
+        {
+          "en": "Приятного аппетита!",
+          "note": "= Enjoy your meal!. Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'ятный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('pleasant, nice')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "приятный",
+              "приятная",
+              "приятное",
+              "приятные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "приятного",
+              "приятной",
+              "приятного",
+              "приятных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "приятному",
+              "приятной",
+              "приятному",
+              "приятным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "приятный / приятного",
+              "приятную",
+              "приятное",
+              "приятные / приятных"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "приятным",
+              "приятной",
+              "приятным",
+              "приятными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "приятном",
+              "приятной",
+              "приятном",
+              "приятных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Short forms",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "short",
+                "приятен",
+                "приятна",
+                "приятно",
+                "приятны"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Приятного аппетита!",
+          "trans": "Enjoy your meal!"
+        },
+        {
+          "text": "Он очень приятный человек.",
+          "trans": "He's a very nice person."
+        },
+        {
+          "text": "Хорошо! Приятного вечера.",
+          "trans": "Very well! Have a pleasant evening."
+        }
+      ],
+      "related": [
+        {
+          "word": "приятно",
+          "gloss": "in a pleasant way (adv.)"
+        },
+        {
+          "word": "приятность",
+          "gloss": "quality of being pleasant"
+        }
+      ]
+    },
+    "побегать": {
+      "lemma": "побегать",
+      "stress": "побега́ть",
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Сейчас они побегают!",
+          "trans": "they will run around (for a while)"
+        },
+        {
+          "text": "побегают",
+          "trans": "they will run around (for a while)"
+        }
+      ],
+      "related": [],
+      "pos": "verb",
+      "gloss": "they will run around (for a while)",
+      "meanings": [
+        {
+          "en": "they will run around (for a while)",
+          "note": "3rd person plural, perfective future"
+        }
+      ],
+      "forms": {
+        "title": "Form used here",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "in this line",
+              "побегают"
+            ]
+          }
+        ]
+      }
     }
   }
 }

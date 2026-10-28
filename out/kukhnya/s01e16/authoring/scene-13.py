@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'inspector': 'Инспектор', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Focused on in search of the key, Viktor Petrovich is asked to open the fridge. He pretends to need the spare key. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = 'Major Lanovsky has been called to the kitchen, and the staff are on edge, because one of the cooks without papers, Fedya, is hiding in the walk-in fridge. Barinov and Senya whisper, and then the inspector arrives and asks for the fridge to be opened. Here is the Russian first.'
+OPENER = "Let's go over it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor Petrovich is asked to open the fridge. He pretends to need the spare key. Next time you watch the episode, listen for the Russian expressions for 'inspector' and 'here' — you will catch every word right away. See you next time!"
+OUTRO = "The fridge is about to be opened, and Barinov is nowhere near ready. Remember the way the inspector asks politely, with a phrase that literally means 'be kind'. See you next time!"
 CLOSING = ('inspector', 'Пока!')
 STORY = [
     ('barinov', 'Инспектор здесь.', 'The inspector is here.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('inspector', 'Я жду.', 'I am waiting.', [], ''),
 ]
 WALK = [
-    (0, None, "'The inspector is here.' Barinov urgently warns his colleague that the immigration officer has arrived on the premises."),
-    (1, None, "'I know.' Senya acknowledges the warning calmly, indicating he is already aware of the situation."),
-    (2, None, "'He wants to check the kitchen.' Explaining the immediate threat, the chef clarifies what the unexpected guest intends to do."),
-    (3, None, "'Let him check.' Displaying casual confidence, the cook dismisses the danger and welcomes the search."),
-    (4, None, "'He is looking for illegals.' The chef spells out the exact reason for the visit, highlighting the danger to their undocumented staff."),
-    (5, None, "'We do not have them.' Playing dumb, the kitchen worker insists that there is no one breaking the law in their restaurant."),
-    (6, None, "'Where is Fedya?' Barinov cuts to the chase, demanding the location of their specific vulnerable employee."),
-    (7, None, "'He is in the fridge.' Senya casually reveals the freezing hiding place chosen for their coworker."),
-    (8, None, "'Excellent.' The chef responds with sarcastic or genuine relief, depending on how safe he thinks that spot is."),
-    (9, None, "'Viktor Petrovich, would you be so kind.' Using a highly formal and polite phrase, the guest commands the head cook to assist him."),
-    (10, None, "'Open the fridge, please.' The officer politely but firmly demands access to the very place where the worker is hiding."),
-    (11, None, "'I am waiting.' Adding pressure, the official makes it clear that he will not leave until his request is fulfilled."),
+    (0, None, "'The inspector is here.' There is no 'is' in the Russian. The ending of 'here' has a soft 'zd' sound that is easy to say once you stop worrying about it."),
+    (1, None, "'I know.' One word does the work of two, because the ending already says 'I'. It's the shortest possible answer, which suits Senya."),
+    (2, None, "'He wants to check the kitchen.' 'Wants' is one of the irregular ones, so the 'he' form looks different from the 'I' form. The kitchen takes a 'u' ending, since it's what gets checked."),
+    (3, None, "'Let him check.' The opening word is 'let', and it just goes before the plain 'he checks'. It's a handy little frame for 'let them' or 'may it be'."),
+    (4, None, "'He is looking for illegals.' The 'ne' at the front of 'legal' works just like 'un' or 'il' in English, so the word is built in front of your eyes. The 'ov' ending is the plural 'of' form that 'look for' wants."),
+    (5, None, "'We don't have them.' Literally 'at us them not'. 'Not' here is the 'there isn't' word, and 'them' comes before it."),
+    (6, None, "'Where is Fedya?' The name is a short, friendly one, the kind you'd use for a mate. Again, there's no 'is' in it."),
+    (7, None, "'He is in the fridge.' 'In' plus an 'e' ending on the fridge says where he is. Barinov doesn't need to say more, since the fridge is the whole problem."),
+    (8, None, "'Excellent.' It's the top mark in a Russian school, a five out of five, so it carries a bit of pride. Here it's said through a gritted smile."),
+    (9, None, "'Viktor Petrovich, would you be so kind.' The phrase is literally 'be kind', in the polite plural command. It's what a very formal person says before asking for something."),
+    (10, None, "'Open the fridge, please.' The command ends in 'yte', which is the polite way to order someone around. 'Please' is a long, friendly-sounding word, and it also means 'you're welcome'."),
+    (11, None, "'I'm waiting.' It's just one word, no 'I', and no 'am'. Three words from the inspector would be more polite, but he says one, and it is more menacing."),
 ]

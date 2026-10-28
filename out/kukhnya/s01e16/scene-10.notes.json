@@ -4,61 +4,23 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Try the new version of the dish.",
+      "trans": "Half go through the back door.",
       "words": [
         {
-          "t": "Попробуй",
-          "lemma": "попробовать",
+          "t": "Половина",
+          "lemma": "половина",
+          "pos": "noun",
+          "stress": "полови́на",
+          "gloss": "half",
+          "gram": "nominative / accusative"
+        },
+        {
+          "t": "идёт",
+          "lemma": "идти",
           "pos": "verb",
-          "stress": "попро́буй",
-          "gloss": "to try, to taste",
-          "gram": "verb imperative"
-        },
-        {
-          "t": "новый",
-          "lemma": "новый",
-          "pos": "adj",
-          "stress": "но́вый",
-          "gloss": "new",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "вариант",
-          "lemma": "вариант",
-          "pos": "noun",
-          "stress": "вариа́нт",
-          "gloss": "option, variant",
-          "gram": "masculine singular, nominative"
-        },
-        {
-          "t": "блюда.",
-          "lemma": "блюдо",
-          "pos": "noun",
-          "stress": "блю́да",
-          "gloss": "of dish",
-          "gram": "neuter inanimate noun, genitive singular"
-        }
-      ]
-    },
-    {
-      "seg": 2,
-      "trans": "Chef, the exit through the hall is closed.",
-      "words": [
-        {
-          "t": "Шеф,",
-          "lemma": "шеф",
-          "pos": "name",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
-        },
-        {
-          "t": "выход",
-          "lemma": "выход",
-          "pos": "noun",
-          "stress": "вы́ход",
-          "gloss": "way out",
-          "gram": "masculine singular, nominative"
+          "gloss": "goes, is going",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "через",
@@ -69,72 +31,26 @@
           "gram": "+ accusative"
         },
         {
-          "t": "зал",
-          "lemma": "зал",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "hall",
-          "gram": "nominative / accusative"
-        },
-        {
-          "t": "закрыт.",
-          "lemma": "закрытый",
+          "t": "чёрный",
+          "lemma": "чёрный",
           "pos": "adj",
-          "stress": "закры́т",
-          "gloss": "is closed",
-          "gram": "short passive participle masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 3,
-      "trans": "We exit one person at a time.",
-      "words": [
-        {
-          "t": "Мы",
-          "lemma": "мы",
-          "pos": "pron",
           "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
+          "gloss": "black",
+          "gram": "masculine singular accusative"
         },
         {
-          "t": "выходим",
-          "lemma": "выходить",
-          "pos": "verb",
-          "stress": "выхо́дим",
-          "gloss": "we are getting out, let's get out",
-          "gram": "1st person plural present used as hortative"
-        },
-        {
-          "t": "по",
-          "lemma": "по",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "according to",
-          "gram": "preposition with dative"
-        },
-        {
-          "t": "одному",
-          "lemma": "один",
-          "pos": "num",
-          "stress": "одному́",
-          "gloss": "alone, by myself",
-          "gram": "dative singular, masculine (agrees with мне)"
-        },
-        {
-          "t": "человеку.",
-          "lemma": "человек",
+          "t": "ход.",
+          "lemma": "ход",
           "pos": "noun",
-          "stress": "челове́ку",
-          "gloss": "to a person, someone",
-          "gram": "dative singular, masculine; with плохо = feels unwell"
+          "stress": null,
+          "gloss": "course, progress",
+          "gram": "accusative singular masculine"
         }
       ]
     },
     {
-      "seg": 4,
-      "trans": "Half goes through the hall.",
+      "seg": 2,
+      "trans": "Half go through the hall.",
       "words": [
         {
           "t": "Половина",
@@ -171,7 +87,45 @@
       ]
     },
     {
-      "seg": 5,
+      "seg": 3,
+      "trans": "Chef, the back door is closed!",
+      "words": [
+        {
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chef",
+          "gram": "proper name"
+        },
+        {
+          "t": "чёрный",
+          "lemma": "чёрный",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "black",
+          "gram": "masculine singular accusative"
+        },
+        {
+          "t": "ход",
+          "lemma": "ход",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "course, progress",
+          "gram": "accusative singular masculine"
+        },
+        {
+          "t": "закрыт!",
+          "lemma": "закрытый",
+          "pos": "adj",
+          "stress": "закры́т",
+          "gloss": "is closed",
+          "gram": "short passive participle masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 4,
       "trans": "What kind of idiots are you?",
       "words": [
         {
@@ -205,6 +159,52 @@
           "stress": "идио́ты",
           "gloss": "idiot, fool",
           "gram": "nominative / accusative"
+        }
+      ]
+    },
+    {
+      "seg": 5,
+      "trans": "You cannot even run away!",
+      "words": [
+        {
+          "t": "Даже",
+          "lemma": "даже",
+          "pos": "part",
+          "stress": "да́же",
+          "gloss": "even",
+          "gram": "particle"
+        },
+        {
+          "t": "сбежать",
+          "lemma": "сбежать",
+          "pos": "verb",
+          "stress": "сбежа́ть",
+          "gloss": "to run away, escape",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "можете!",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "мо́жете",
+          "gloss": "can, may",
+          "gram": "present, 2nd person plural (polite), imperfective"
         }
       ]
     },
@@ -516,61 +516,23 @@
     },
     {
       "seg": 14,
-      "trans": "Try the new version of the dish.",
+      "trans": "Half go through the back door.",
       "words": [
         {
-          "t": "Попробуй",
-          "lemma": "попробовать",
+          "t": "Половина",
+          "lemma": "половина",
+          "pos": "noun",
+          "stress": "полови́на",
+          "gloss": "half",
+          "gram": "nominative / accusative"
+        },
+        {
+          "t": "идёт",
+          "lemma": "идти",
           "pos": "verb",
-          "stress": "попро́буй",
-          "gloss": "to try, to taste",
-          "gram": "verb imperative"
-        },
-        {
-          "t": "новый",
-          "lemma": "новый",
-          "pos": "adj",
-          "stress": "но́вый",
-          "gloss": "new",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "вариант",
-          "lemma": "вариант",
-          "pos": "noun",
-          "stress": "вариа́нт",
-          "gloss": "option, variant",
-          "gram": "masculine singular, nominative"
-        },
-        {
-          "t": "блюда.",
-          "lemma": "блюдо",
-          "pos": "noun",
-          "stress": "блю́да",
-          "gloss": "of dish",
-          "gram": "neuter inanimate noun, genitive singular"
-        }
-      ]
-    },
-    {
-      "seg": 16,
-      "trans": "Chef, the exit through the hall is closed.",
-      "words": [
-        {
-          "t": "Шеф,",
-          "lemma": "шеф",
-          "pos": "name",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
-        },
-        {
-          "t": "выход",
-          "lemma": "выход",
-          "pos": "noun",
-          "stress": "вы́ход",
-          "gloss": "way out",
-          "gram": "masculine singular, nominative"
+          "gloss": "goes, is going",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "через",
@@ -581,72 +543,26 @@
           "gram": "+ accusative"
         },
         {
-          "t": "зал",
-          "lemma": "зал",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "hall",
-          "gram": "nominative / accusative"
-        },
-        {
-          "t": "закрыт.",
-          "lemma": "закрытый",
+          "t": "чёрный",
+          "lemma": "чёрный",
           "pos": "adj",
-          "stress": "закры́т",
-          "gloss": "is closed",
-          "gram": "short passive participle masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 18,
-      "trans": "We exit one person at a time.",
-      "words": [
-        {
-          "t": "Мы",
-          "lemma": "мы",
-          "pos": "pron",
           "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
+          "gloss": "black",
+          "gram": "masculine singular accusative"
         },
         {
-          "t": "выходим",
-          "lemma": "выходить",
-          "pos": "verb",
-          "stress": "выхо́дим",
-          "gloss": "we are getting out, let's get out",
-          "gram": "1st person plural present used as hortative"
-        },
-        {
-          "t": "по",
-          "lemma": "по",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "according to",
-          "gram": "preposition with dative"
-        },
-        {
-          "t": "одному",
-          "lemma": "один",
-          "pos": "num",
-          "stress": "одному́",
-          "gloss": "alone, by myself",
-          "gram": "dative singular, masculine (agrees with мне)"
-        },
-        {
-          "t": "человеку.",
-          "lemma": "человек",
+          "t": "ход.",
+          "lemma": "ход",
           "pos": "noun",
-          "stress": "челове́ку",
-          "gloss": "to a person, someone",
-          "gram": "dative singular, masculine; with плохо = feels unwell"
+          "stress": null,
+          "gloss": "course, progress",
+          "gram": "accusative singular masculine"
         }
       ]
     },
     {
-      "seg": 20,
-      "trans": "Half goes through the hall.",
+      "seg": 16,
+      "trans": "Half go through the hall.",
       "words": [
         {
           "t": "Половина",
@@ -683,7 +599,45 @@
       ]
     },
     {
-      "seg": 22,
+      "seg": 18,
+      "trans": "Chef, the back door is closed!",
+      "words": [
+        {
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chef",
+          "gram": "proper name"
+        },
+        {
+          "t": "чёрный",
+          "lemma": "чёрный",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "black",
+          "gram": "masculine singular accusative"
+        },
+        {
+          "t": "ход",
+          "lemma": "ход",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "course, progress",
+          "gram": "accusative singular masculine"
+        },
+        {
+          "t": "закрыт!",
+          "lemma": "закрытый",
+          "pos": "adj",
+          "stress": "закры́т",
+          "gloss": "is closed",
+          "gram": "short passive participle masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 20,
       "trans": "What kind of idiots are you?",
       "words": [
         {
@@ -717,6 +671,52 @@
           "stress": "идио́ты",
           "gloss": "idiot, fool",
           "gram": "nominative / accusative"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "You cannot even run away!",
+      "words": [
+        {
+          "t": "Даже",
+          "lemma": "даже",
+          "pos": "part",
+          "stress": "да́же",
+          "gloss": "even",
+          "gram": "particle"
+        },
+        {
+          "t": "сбежать",
+          "lemma": "сбежать",
+          "pos": "verb",
+          "stress": "сбежа́ть",
+          "gloss": "to run away, escape",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "можете!",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "мо́жете",
+          "gloss": "can, may",
+          "gram": "present, 2nd person plural (polite), imperfective"
         }
       ]
     },
@@ -1028,61 +1028,23 @@
     },
     {
       "seg": 38,
-      "trans": "Try the new version of the dish.",
+      "trans": "Half go through the back door.",
       "words": [
         {
-          "t": "Попробуй",
-          "lemma": "попробовать",
+          "t": "Половина",
+          "lemma": "половина",
+          "pos": "noun",
+          "stress": "полови́на",
+          "gloss": "half",
+          "gram": "nominative / accusative"
+        },
+        {
+          "t": "идёт",
+          "lemma": "идти",
           "pos": "verb",
-          "stress": "попро́буй",
-          "gloss": "to try, to taste",
-          "gram": "verb imperative"
-        },
-        {
-          "t": "новый",
-          "lemma": "новый",
-          "pos": "adj",
-          "stress": "но́вый",
-          "gloss": "new",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "вариант",
-          "lemma": "вариант",
-          "pos": "noun",
-          "stress": "вариа́нт",
-          "gloss": "option, variant",
-          "gram": "masculine singular, nominative"
-        },
-        {
-          "t": "блюда.",
-          "lemma": "блюдо",
-          "pos": "noun",
-          "stress": "блю́да",
-          "gloss": "of dish",
-          "gram": "neuter inanimate noun, genitive singular"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "Chef, the exit through the hall is closed.",
-      "words": [
-        {
-          "t": "Шеф,",
-          "lemma": "шеф",
-          "pos": "name",
           "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
-        },
-        {
-          "t": "выход",
-          "lemma": "выход",
-          "pos": "noun",
-          "stress": "вы́ход",
-          "gloss": "way out",
-          "gram": "masculine singular, nominative"
+          "gloss": "goes, is going",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "через",
@@ -1093,72 +1055,26 @@
           "gram": "+ accusative"
         },
         {
-          "t": "зал",
-          "lemma": "зал",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "hall",
-          "gram": "nominative / accusative"
-        },
-        {
-          "t": "закрыт.",
-          "lemma": "закрытый",
+          "t": "чёрный",
+          "lemma": "чёрный",
           "pos": "adj",
-          "stress": "закры́т",
-          "gloss": "is closed",
-          "gram": "short passive participle masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 40,
-      "trans": "We exit one person at a time.",
-      "words": [
-        {
-          "t": "Мы",
-          "lemma": "мы",
-          "pos": "pron",
           "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
+          "gloss": "black",
+          "gram": "masculine singular accusative"
         },
         {
-          "t": "выходим",
-          "lemma": "выходить",
-          "pos": "verb",
-          "stress": "выхо́дим",
-          "gloss": "we are getting out, let's get out",
-          "gram": "1st person plural present used as hortative"
-        },
-        {
-          "t": "по",
-          "lemma": "по",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "according to",
-          "gram": "preposition with dative"
-        },
-        {
-          "t": "одному",
-          "lemma": "один",
-          "pos": "num",
-          "stress": "одному́",
-          "gloss": "alone, by myself",
-          "gram": "dative singular, masculine (agrees with мне)"
-        },
-        {
-          "t": "человеку.",
-          "lemma": "человек",
+          "t": "ход.",
+          "lemma": "ход",
           "pos": "noun",
-          "stress": "челове́ку",
-          "gloss": "to a person, someone",
-          "gram": "dative singular, masculine; with плохо = feels unwell"
+          "stress": null,
+          "gloss": "course, progress",
+          "gram": "accusative singular masculine"
         }
       ]
     },
     {
-      "seg": 41,
-      "trans": "Half goes through the hall.",
+      "seg": 39,
+      "trans": "Half go through the hall.",
       "words": [
         {
           "t": "Половина",
@@ -1195,7 +1111,45 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 40,
+      "trans": "Chef, the back door is closed!",
+      "words": [
+        {
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Chef",
+          "gram": "proper name"
+        },
+        {
+          "t": "чёрный",
+          "lemma": "чёрный",
+          "pos": "adj",
+          "stress": null,
+          "gloss": "black",
+          "gram": "masculine singular accusative"
+        },
+        {
+          "t": "ход",
+          "lemma": "ход",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "course, progress",
+          "gram": "accusative singular masculine"
+        },
+        {
+          "t": "закрыт!",
+          "lemma": "закрытый",
+          "pos": "adj",
+          "stress": "закры́т",
+          "gloss": "is closed",
+          "gram": "short passive participle masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 41,
       "trans": "What kind of idiots are you?",
       "words": [
         {
@@ -1229,6 +1183,52 @@
           "stress": "идио́ты",
           "gloss": "idiot, fool",
           "gram": "nominative / accusative"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "You cannot even run away!",
+      "words": [
+        {
+          "t": "Даже",
+          "lemma": "даже",
+          "pos": "part",
+          "stress": "да́же",
+          "gloss": "even",
+          "gram": "particle"
+        },
+        {
+          "t": "сбежать",
+          "lemma": "сбежать",
+          "pos": "verb",
+          "stress": "сбежа́ть",
+          "gloss": "to run away, escape",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "можете!",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "мо́жете",
+          "gloss": "can, may",
+          "gram": "present, 2nd person plural (polite), imperfective"
         }
       ]
     },
@@ -4788,6 +4788,350 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "чёрный": {
+      "lemma": "чёрный",
+      "stress": "чёрный",
+      "pos": "adj",
+      "gloss": "black",
+      "meanings": [
+        {
+          "en": "black",
+          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('black')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "чёрный",
+              "чёрная",
+              "чёрное",
+              "чёрные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чёрного",
+              "чёрной",
+              "чёрного",
+              "чёрных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чёрному",
+              "чёрной",
+              "чёрному",
+              "чёрным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "чёрный",
+              "чёрную",
+              "чёрное",
+              "чёрные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чёрным",
+              "чёрной",
+              "чёрным",
+              "чёрными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чёрном",
+              "чёрной",
+              "чёрном",
+              "чёрных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Послушай, в чёрном шкафу посмотри.",
+          "trans": "Listen, look in the black cabinet."
+        },
+        {
+          "text": "На нём был строгий чёрный костюм.",
+          "trans": "He was wearing a formal black suit."
+        },
+        {
+          "text": "Как не нашла? Послушай, в чёрном шкафу посмотри. Там справа от двери!",
+          "trans": "What do you mean you didn't find it? Listen, look in the black cabinet. There to the right of the door!"
+        }
+      ],
+      "related": [
+        {
+          "word": "чёрно",
+          "gloss": "in a black way (adv.)"
+        },
+        {
+          "word": "чёрность",
+          "gloss": "quality of being black"
+        }
+      ]
+    },
+    "ход": {
+      "lemma": "ход",
+      "stress": "ход",
+      "pos": "noun",
+      "gloss": "course, progress; move, turn",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "course, progress, development",
+          "note": "ход выборов = the course of the election"
+        },
+        {
+          "en": "move, turn (in a game); entrance/passage",
+          "note": "Common masculine noun meaning 'course, progress; move, turn' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ход",
+              "ходы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хода",
+              "ходов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ходу",
+              "ходам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ход",
+              "ходы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ходом",
+              "ходами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ходе",
+              "ходах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты предлагаешь вмешаться в честный ход выборов?",
+          "trans": "Are you proposing to interfere in the honest course of the election?"
+        },
+        {
+          "text": "Теперь твой ход.",
+          "trans": "Now it is your move."
+        },
+        {
+          "text": "Подожди. Ты предлагаешь вмешаться в честный ход выборов?",
+          "trans": "Wait. Are you proposing to interfere in the honest course of the election?"
+        }
+      ],
+      "related": [
+        {
+          "word": "ходный",
+          "gloss": "related to course (adj.)"
+        }
+      ]
+    },
+    "даже": {
+      "lemma": "даже",
+      "stress": "да́же",
+      "pos": "part",
+      "gloss": "even",
+      "meanings": [
+        {
+          "en": "even",
+          "note": "Core Russian part meaning 'even' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Даже ребёнок знает.",
+          "trans": "Even a child knows."
+        },
+        {
+          "text": "Даже мама не знает.",
+          "trans": "Even Mum doesn't know."
+        },
+        {
+          "text": "Да! Даже ребёнок знает.",
+          "trans": "Yes! Even a child knows."
+        }
+      ],
+      "related": [
+        {
+          "word": "да",
+          "gloss": "yes, and"
+        },
+        {
+          "word": "же",
+          "gloss": "emphatic particle"
+        }
+      ]
+    },
+    "сбежать": {
+      "lemma": "сбежать",
+      "stress": "сбежа́ть",
+      "pos": "verb",
+      "gloss": "to escape, flee, run away",
+      "aspect": "pf",
+      "pair": "сбегать",
+      "meanings": [
+        {
+          "en": "to escape, run away (from custody)",
+          "note": "сбежать из-под ареста = to escape house arrest"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "сбегу",
+              "сбежим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "сбежишь",
+              "сбежите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "сбежит",
+              "сбегут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "сбежал",
+                "сбежала",
+                "сбежало",
+                "сбежали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сбеги",
+                "сбегите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Да, он сбежал, чтобы спасти моего ребёнка.",
+          "trans": "Yes, he escaped custody to save my child."
+        },
+        {
+          "text": "Заключённый сбежал из тюрьмы ночью.",
+          "trans": "The prisoner escaped from prison at night."
+        },
+        {
+          "text": "Ты думал, что легко сбежишь отсюда?",
+          "trans": "Did you think that you would easily escape from here?"
+        }
+      ],
+      "related": [
+        {
+          "word": "сбегать",
+          "gloss": "to escape"
+        },
+        {
+          "word": "побежать",
+          "gloss": "to start running"
+        },
+        {
+          "word": "прибежать",
+          "gloss": "to come running"
         }
       ]
     }
