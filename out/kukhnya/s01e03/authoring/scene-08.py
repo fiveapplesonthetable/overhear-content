@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vadim': 'Вадим', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = 'Outside the dining hall, Max attempts an awkward conversation with art director Victoria about keeping their private encounter secret. Irritated by his clumsy assumptions, Victoria uses him to ward off her persistent ex-husband Vadim by introducing Max as her new boyfriend. Listen to the dialogue in Russian first.'
-OPENER = "Let's review this awkward hallway confrontation line by line."
+INTRO = 'Max catches Vika outside the dining room and awkwardly tries to agree that they will keep their night together a secret. Vika is not impressed by how he says it, and then her ex-husband Vadim turns up asking questions, so she decides to use Max. Here is the Russian first.'
+OPENER = "Let's follow them step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Trapped in a spontaneous romance of convenience, Max and Victoria must now play the part in front of Vadim. See you next time!'
+OUTRO = 'So Max is now a boyfriend, whether he likes it or not. Take away "mne vsyo ravno", "I don\'t care", and notice it has a second life as "anyway".'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, нам нужно спокойно поговорить.', 'Vika, we need to talk calmly.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Очень приятно познакомиться, уважаемый Вадим.', 'Very nice to meet you, esteemed Vadim.', [], ''),
 ]
 WALK = [
-    (0, None, "'Vika, we need to talk calmly.' Max awkwardly tries to initiate a conversation about keeping their secret."),
-    (1, None, "'My personal life is none of your business.' Vika sharply tells him to stay out of her private affairs."),
-    (2, None, "'Let us not tell anyone anything.' Max clumsily initiates a conversation about keeping their secret."),
-    (3, None, "'Are you afraid that I will tell colleagues?' Victoria is offended because she misunderstands his caution."),
-    (4, None, "'Me? No, I do not care at all.' Max denies caring about what their coworkers might think."),
-    (5, None, "'There is nothing serious between us anyway.' Attempting to minimize their relationship is a clumsy way to de-escalate the situation."),
-    (6, None, "'Oh, so that is how you speak now!' Victoria misinterprets his words and takes offense."),
-    (7, None, "'Vika, wait! Who is this young man?' Vadim interrupts the argument, demanding to know the identity of the young cook."),
-    (8, None, "'Vadim, did you want to know the truth?' Challenging the older man directly requires an offer of full honesty."),
-    (9, None, "'Yes, I want to know everything.' Stubborn insistence on hearing the unfiltered facts pushes the confrontation forward."),
-    (10, None, "'Here, meet my boyfriend.' Sarcastic introductions finally reveal the new romantic partner."),
-    (11, None, "'This is my Max, we are together now!' Vika proudly declares their relationship status just to spite the older man."),
-    (12, None, "'Very nice to meet you, esteemed Vadim.' Max tries to salvage the disastrous situation with excessive, terrified politeness."),
+    (0, None, '\'Vika, we need to talk calmly.\' The pattern is "to us necessary", and "calmly" is built on the word for calm, the same family as "good night".'),
+    (1, None, '\'My personal life is none of your business.\' Vika says "does not touch you", which is the Russian idea of "none of your business". "Personal" is borrowed enough to follow.'),
+    (2, None, '\'Let us not tell anyone anything.\' A stack of negatives once more: "let\'s not", "to nobody" and "nothing". The first word is the friendly "let\'s".'),
+    (3, None, '\'Are you afraid that I will tell colleagues?\' "Are you afraid" has a "-sya" at the end, a little "self". "Colleagues" ends in "-am", the "to" ending.'),
+    (4, None, '\'Me? No, I do not care at all.\' "Mne vsyo ravno" is literally "to me everything is equal", and it\'s how Russians say "I don\'t care". It\'s worth learning whole.'),
+    (5, None, '\'There is nothing serious between us anyway.\' The same "vsyo ravno" turns up with the meaning "anyway" or "all the same". "Between us" and "nothing serious isn\'t" are the other two chunks.'),
+    (6, None, '\'Oh, so that is how you speak now!\' The word for "started speaking" has a prefix meaning "begin", so it\'s "you\'ve started talking like that". Vika is hurt.'),
+    (7, None, '\'Vika, wait! Who is this young man?\' "Wait" is built on "stand", so it means "stand a moment". "Young man" is the usual polite way to point at a young man.'),
+    (8, None, '\'Vadim, did you want to know the truth?\' She speaks to him with the friendly "you". "Wanted" has a man\'s "-l" ending, and "truth" is the word that also means "really?".'),
+    (9, None, '\'Yes, I want to know everything.\' Short and demanding, with "I want" and "everything" as the only pieces. Vadim doesn\'t waste words.'),
+    (10, None, '\'Here, meet my boyfriend.\' The same word means "guy" and "boyfriend", so context does the work. "Meet" is a command with "self" on the end, and "with my boyfriend" takes the "with" endings.'),
+    (11, None, '\'This is my Max, we are together now!\' "My Max" is how Russians show affection or ownership. "We together" is all you need to say you\'re a couple.'),
+    (12, None, '\'Very nice to meet you, esteemed Vadim.\' This is the formal "pleased to meet you", with "pleasant" at the heart of it. "Esteemed" is built on "respect", so it sounds stiff, and Max is making fun.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Out in the restaurant backyard, Max and bartender Kostya stare helplessly at the live goose. Neither of them has the heart to slaughter the animal, and bizarre schemes to frighten the bird to death quickly fail. Desperate to satisfy Barinov before the evening banquet, Max seeks out cleaner Ainura to solve the problem for a thousand rubles. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Max, Kostya, and Ainura's dialogue line by line."
+INTRO = 'Out in the backyard, Max and Kostya, the bartender, are staring at the goose. Neither of them can bring themselves to kill it, and a few silly ideas fail. Desperate, Max goes to Ainura and asks for help. Here is the conversation in Russian first.'
+OPENER = "Let's go through the dilemma."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+OUTRO = 'A thousand rubles, no questions asked: Ainura has a way of solving problems. You\'ve heard "ya ne mogu", "I can\'t", and "dogovorilis\'", "agreed".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Я не могу убить этого гуся.', 'I cannot kill this goose.', [(116, 'Не могу я')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Договорились, вот твои деньги!', 'Deal, here is your money!', [], ''),
 ]
 WALK = [
-    (0, None, "'I cannot kill this goose.' Admitting defeat, the young man realizes he cannot go through with the slaughter."),
-    (1, None, "'Maybe you will try once more?' Kostya suggests giving the grim task another shot."),
-    (2, None, "'No, I definitely cannot do this.' Lacking the stomach for violence, the novice absolutely refuses to try again."),
-    (3, None, "'Let us suddenly scare him in the dark!' An unorthodox method involving darkness and a sudden shock might just do the trick."),
-    (4, None, "'Kostya, this is complete nonsense.' Max dismisses his friend's idea as completely ridiculous."),
-    (5, None, "'Birds have a very weak heart.' Frightening an avian to death is apparently a viable strategy according to the bartender."),
-    (6, None, "'See, he is standing and hissing loudly.' Standing tall and hissing aggressively, the intended victim seems far from terrified."),
-    (7, None, "'I urgently need a real specialist.' Dealing with this situation clearly requires professional assistance."),
-    (8, None, "'Ainura, help us solve the problem!' Max begs their experienced coworker to step in and handle the mess."),
-    (9, None, "'What needs to be done with this bird?' Ainura asks exactly what they want her to do with the animal."),
-    (10, None, "'The goose needs to be removed quickly and neatly.' Fast and clean disposal is the only acceptable outcome at this point."),
-    (11, None, "'A thousand rubles, and you will never see him.' Making problems disappear always comes with a specific price tag."),
-    (12, None, "'Deal, here is your money!' Max quickly agrees to the terms and hands over the cash."),
+    (0, None, '\'I cannot kill this goose.\' Here "goose" ends in "-ya" again. For a thing the object wouldn\'t change, but a living creature takes this shape. "I can\'t" is just "I not can".'),
+    (1, None, '\'Maybe you will try once more?\' Kostya starts with a short "maybe" and ends with "one more time". The word for "try" is the same "poprobuyu" family as the one Max used.'),
+    (2, None, '\'No, I definitely cannot do this.\' "Smogu" has an "s-" that means a single success, so it\'s "I will manage". Max is sure he won\'t.'),
+    (3, None, '\'Let us suddenly scare him in the dark!\' "Davay" before a "we" word means "let\'s". "Suddenly" really means "sharply", and "in the dark" is built on the word for dark.'),
+    (4, None, '\'Kostya, this is complete nonsense.\' "Some kind of" is "kakoy" plus the "-to" that makes things vague. "Bred" is nonsense, close to delirium.'),
+    (5, None, '\'Birds have a very weak heart.\' Russian says "at birds", the usual "have". The "d" in "serdtse" is silent, so the word sounds like "sertse".'),
+    (6, None, '\'See, he is standing and hissing loudly.\' The word for "hisses" sounds like what it means. And Russian says the goose "stands", not "is".'),
+    (7, None, '\'I urgently need a real specialist.\' "To me needed", and the "needed" ends in a masculine "-en" to match "specialist". "Real" is the "true love" word.'),
+    (8, None, '\'Ainura, help us solve the problem!\' "Help" is an irregular command that people just learn. "Solve" is literally "decide", so you solve a problem by deciding it.'),
+    (9, None, '\'What needs to be done with this bird?\' It\'s "what is needed to do", with no "be done". "With this bird" has an "-ey" ending.'),
+    (10, None, '\'The goose needs to be removed quickly and neatly.\' The word for "remove" also means "tidy up", so it works as a polite way to say "get rid of". "Neatly" is the word you\'d use for a tidy job.'),
+    (11, None, '\'A thousand rubles, and you will never see him.\' "Thousand" is followed by "rubles" in the "of" form, like "a thousand of rubles". "Never" and "not" appear together as ever.'),
+    (12, None, '\'Deal, here is your money!\' "Dogovorilis\'" is "we have agreed", the word for sealing a deal. "Money" is always plural in Russian, so "your" has a plural ending.'),
 ]

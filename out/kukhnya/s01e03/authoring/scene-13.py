@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "In a quiet corner of the Claude Monet kitchen, Chef Viktor Barinov meets with line cook Senya. Still bitter about the strict judge who ruled against him in court, Chef Viktor plots petty revenge during her birthday dinner. Senya produces an extremely potent new laxative pill, explaining that just one dose will keep the judge trapped in the restroom all evening. Let's listen to their conspiracy in Russian first."
-OPENER = "Let's examine the dialogue line by line. Notice the secret plotting and the descriptions of the potent remedy."
+INTRO = 'Barinov is still angry with the judge who took away his licence, and he and the cook Senya have a plan for her birthday dinner. Senya has brought a strong "remedy", and the chef wants to know exactly what it does. Here\'s the Russian first.'
+OPENER = "Let's follow the plan."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Chef Barinov prepares his secret revenge to embarrass the judge at her own banquet. Keep up the great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'literally' — you will catch every word right away. See you next time!"
+OUTRO = 'Barinov plans to deliver his revenge himself. You have heard "ne boysya", "don\'t be afraid", which is a useful command.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сеня, ты принёс то особое средство?', 'Senya, did you bring that special remedy?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Не бойся, я сделаю всё лично.', 'Do not fear, I will do everything personally.', [], ''),
 ]
 WALK = [
-    (0, None, "'Senya, did you bring that special remedy?' Barinov asks about a specific substance."),
-    (1, None, "'Yes, chef, this is a strong remedy.' Senya confirms he has the potent item."),
-    (2, None, "'This is brand new powerful medicine.' Senya highlights the strength of the product."),
-    (3, None, "'How quickly does it start to act?' Barinov questions the speed of the effect."),
-    (4, None, "'Very quickly, chef, literally right away.' Senya assures him of immediate results."),
-    (5, None, "'One pill solves all your problems.' Senya boasts about the effectiveness."),
-    (6, None, "'And what will be the exact effect?' Barinov asks for specifics."),
-    (7, None, "'I promise, the customer will not leave the toilet!' Senya describes the extreme outcome."),
-    (8, None, "'Excellent, the judge will remember this anniversary!' Barinov anticipates a memorable event for their target."),
-    (9, None, "'Shall we add the pill into her soup?' Senya suggests a method of delivery."),
-    (10, None, "'No, we will put the powder directly on the goose.' Barinov decides on a different approach."),
-    (11, None, "'The main thing is that other guests do not get poisoned.' Senya voices a concern for collateral damage."),
-    (12, None, "'Do not fear, I will do everything personally.' Barinov takes charge of the delicate task."),
+    (0, None, '\'Senya, did you bring that special remedy?\' "Brought" is a man\'s past, a carrying word. "That special" takes the matching endings, and "remedy" is a general word for a means.'),
+    (1, None, '\'Yes, chef, this is a strong remedy.\' "Strong" comes from "sila", strength. And "this is" is just "eto".'),
+    (2, None, '\'This is brand new powerful medicine.\' "Powerful" is built on "power", and "medicine" is the word for a pharmacy drug. Senya is selling it.'),
+    (3, None, '\'How quickly does it start to act?\' "Act" comes from the word for action. "It" is the neuter one, matching "remedy".'),
+    (4, None, '\'Very quickly, chef, literally right away.\' "Literally" is built on "letter", so it means "to the letter". "Right away" is the short word.'),
+    (5, None, '\'One pill solves all your problems.\' "One" is feminine, because "pill" is. "Solves" is the same word as "decides", and "all your" takes the plural.'),
+    (6, None, '\'And what will be the exact effect?\' "Exact" is a word you know. "Effect" is borrowed, so it\'s easy.'),
+    (7, None, '\'I promise, the customer will not leave the toilet!\' "I promise" is a single word. "Will not step away" needs "from" and the toilet in the "from" form. Senya is rude.'),
+    (8, None, '\'Excellent, the judge will remember this anniversary!\' "Judge" is a feminine word, even though it ends in "-ya". "Will remember" is one word.'),
+    (9, None, '\'Shall we add the pill into her soup?\' "Her" never changes, like "his". "We will add" is one word.'),
+    (10, None, '\'No, we will put the powder directly on the goose.\' "We will put" is one word for laying something down. "Powder" is a short word, and "goose" ends in "-ya".'),
+    (11, None, '\'The main thing is that other guests do not get poisoned.\' "The main thing, so that" is the pattern for what matters. "Get poisoned" has "self" on the end.'),
+    (12, None, '\'Do not fear, I will do everything personally.\' "Don\'t be afraid" is a command with "self" on the end. "Personally" is the word you\'ve heard before.'),
 ]

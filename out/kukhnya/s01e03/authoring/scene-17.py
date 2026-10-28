@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vadim': 'Вадим', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "Behind the restaurant Claude Monet, Max catches Vika alone to apologize for his clumsy behavior. Their uneasy conversation is suddenly shattered when Vika's aggressive ex-lover Vadim arrives, demanding explanations and escalating the confrontation into real danger. Let's listen to their intense exchange in Russian first."
-OPENER = "Now let's examine this high-stakes dramatic confrontation line by line."
+INTRO = "Behind the restaurant, Max catches Vika alone and apologises for his clumsy behaviour. Their uneasy talk is cut short when Vadim arrives, demanding to know what is going on, and things turn dangerous. Here's the Russian first."
+OPENER = 'Now the quarrel.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Just as Vadim pulls out his weapon, Chef Barinov storms into the alley and brings the dangerous duel to an abrupt halt. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'to believe' — you will catch every word right away. See you next time!"
+OUTRO = 'A threat, a gun, and one very brave cook. Remember "otoydi ot neyo", "step away from her", a phrase you hope never to need.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Вика, пожалуйста, прости меня за всё.', 'Vika, please forgive me for everything.', [(298, 'ну прости меня')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Макс, прекрати, у него есть пистолет!', 'Max, stop, he has a gun!', [(318, 'Прячь мушку')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, please forgive me for everything.' Max attempts to make peace after their disastrous morning together."),
-    (1, None, "'Why do I always trust the wrong people?' Vika expresses bitter frustration with her choices in men."),
-    (2, None, "'Every person can make a mistake.' Max tries to reason with Vika using an impersonal philosophical truth."),
-    (3, None, "'I myself am to blame for this situation.' Vika refuses easy comfort and shoulders the blame alone."),
-    (4, None, "'So that means it is true, you are together?' Vadim steps out from the shadows consumed by furious jealousy."),
-    (5, None, "'Vadim, what are you doing here?' Vika is startled and frightened by her aggressive former lover."),
-    (6, None, "'I came to talk with you right now.' Vadim refuses to leave until he gets the answers he demands."),
-    (7, None, "'And this guy must leave immediately!' The prosecutor aggressively orders the young cook out of the way."),
-    (8, None, "'Choose your words when talking with her!' Max courageously steps forward to shield Vika from verbal abuse."),
-    (9, None, "'You are talking to a beautiful girl.' Max insists that Vadim show basic decency and respect."),
-    (10, None, "'What did you just say to me, pup?' Enraged that a lowly cook dares challenge him, Vadim turns aggressive."),
-    (11, None, "'I told you: step away from her!' Max refuses to back down despite the growing physical threat."),
-    (12, None, "'Max, stop, he has a gun!' Vika screams in horror as Vadim reaches into his jacket for a weapon."),
+    (0, None, '\'Vika, please forgive me for everything.\' "Prosti" is the friendly "forgive me", and "for everything" is two small words. Max is humble for once.'),
+    (1, None, '\'Why do I always trust the wrong people?\' "Veryu" means both "I believe" and "I trust". "Not those" is how Russian says "the wrong ones".'),
+    (2, None, '\'Every person can make a mistake.\' Max says "complete a mistake", the formal Russian for "make a mistake". "Mistake" ends in -u as the object.'),
+    (3, None, '\'I myself am to blame for this situation.\' "To blame" comes from "vina", fault, with the woman\'s "-a". "Myself" ends in "-a" too.'),
+    (4, None, '\'So that means it is true, you are together?\' "So that means" is how Russians put two and two together. "You" is plural, since Vadim looks at both of them.'),
+    (5, None, '\'Vadim, what are you doing here?\' Russian has no "-ing" form. "What you do" covers "what are you doing" as well.'),
+    (6, None, '\'I came to talk with you right now.\' A man says "prishyol", "came on foot". "To talk" has the "po-" of a quick talk, and "with you" is the friendly form.'),
+    (7, None, '\'And this guy must leave immediately!\' "Must" has a man\'s ending. "Guy" is the casual word, and a rude one from Vadim.'),
+    (8, None, '\'Choose your words when talking with her!\' Word for word: "choose words when you speak with her". "With her" turns "she" into "ney".'),
+    (9, None, '\'You are talking to a beautiful girl.\' The word for "talk" is built on "razgovor", a conversation. "With a beautiful girl" has matching "-oy" endings.'),
+    (10, None, '\'What did you just say to me, pup?\' "Pup" is a rude word for a young man. "You what" at the start is the challenge.'),
+    (11, None, '\'I told you: step away from her!\' "Step away" is a command, and "from her" gains an "n", as "ot neyo".'),
+    (12, None, '\'Max, stop, he has a gun!\' "At him there is a gun" is the full "have" pattern, with the "there is" word included. Vika is panicking.'),
 ]

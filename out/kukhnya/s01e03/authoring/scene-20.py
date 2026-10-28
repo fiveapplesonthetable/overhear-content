@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, Chef Barinov and the cooks gather around Max to perform a mock knighting ceremony, prompting Max to reflect on life's gains and losses."
-OPENER = "Let's explore Max's hilarious kitchen initiation ceremony and his poignant reflections."
+INTRO = "The kitchen team has gathered around Max for a mock knighting ceremony. The chef solemnly welcomes him to the kitchen, and then Max thinks about everything that has happened to him this week. Here's the Russian first."
+OPENER = 'Now the ceremony.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Officially initiated into Claude Monet's kitchen family, Max looks forward with hope to new culinary challenges. Next time you watch the episode, listen for the Russian expressions for 'trouble' and 'combat' — you will catch every word right away. See you next time!"
+OUTRO = 'Max is now a proper member of the kitchen family, and this is only the beginning. Take away "glavnoye", "the main thing", for any conclusion.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, встань перед нами на колено!', 'Runt, kneel down on one knee before us!', [(336, 'На колено.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Главное понимать, что это только начало!', 'The main thing is to understand that this is only the beginning!', [(354, 'главное понимать, что это только начало.')], ''),
 ]
 WALK = [
-    (0, None, "'Runt, kneel down on one knee before us!' Barinov commands the runt to kneel before them."),
-    (1, None, "'Chef, what will happen to me now?' Max asks the chef what will happen to him now."),
-    (2, None, "'We solemnly accept you into our kitchen!' Barinov solemnly accepts him into the kitchen."),
-    (3, None, "'In the name of the hot oven and baking tray!' Barinov swears by the hot oven and baking tray."),
-    (4, None, "'In the name of the heavy frying pan and ladle!' He continues the oath by the heavy frying pan and ladle."),
-    (5, None, "'Congratulations on your culinary baptism of fire!' Senya congratulates him on his culinary baptism of fire."),
-    (6, None, "'Chef, are you not even going to punish me?' Max asks the chef if he will even be punished."),
-    (7, None, "'Was this ritual not enough for you?' Barinov asks if that ritual was not enough for him."),
-    (8, None, "'You are the first person who passed the initiation!' He tells him he is the first person to pass the initiation."),
-    (9, None, "'We should initiate all future newcomers like this!' Senya suggests they initiate all future newcomers this way."),
-    (10, None, "'Life is full of various losses and gains.' Max reflects that life is full of various losses and gains."),
-    (11, None, "'Some people grieve, while others always rejoice.' He observes that some people grieve while others always rejoice."),
-    (12, None, "'But true friends always help in trouble.' True friends always help in times of trouble."),
-    (13, None, "'The main thing is to understand that this is only the beginning!' Max concludes the main thing is to understand this is only the beginning."),
+    (0, None, '\'Runt, kneel down on one knee before us!\' Russian says "stand onto a knee" for kneeling on one knee. "Before us" has "us" in a special shape.'),
+    (1, None, '\'Chef, what will happen to me now?\' Russian says "what will be with me", and "with" becomes "so" before "me".'),
+    (2, None, '\'We solemnly accept you into our kitchen!\' "Solemnly" comes from "torzhestvo", a celebration. "Accept" is built on "take".'),
+    (3, None, '\'In the name of the hot oven and baking tray!\' "In the name of" is a solemn old phrase. The oven and the tray take the "of" ending.'),
+    (4, None, '\'In the name of the heavy frying pan and ladle!\' "Heavy" ends in a feminine "-oy" after "of". The chef is turning kitchen tools into saints.'),
+    (5, None, '\'Congratulations on your culinary baptism of fire!\' "Baptism of fire" is exactly the Russian idiom. "Congratulate on" uses "with".'),
+    (6, None, '\'Chef, are you not even going to punish me?\' "Will punish" is a single word. "Not even" is the pair from before.'),
+    (7, None, '\'Was this ritual not enough for you?\' "Razve" opens a question that expects the answer "no". "To you little" is Russian for "not enough for you".'),
+    (8, None, '\'You are the first person who passed the initiation!\' "Who" ties the two halves together. "Passed" is built on "go".'),
+    (9, None, '\'We should initiate all future newcomers like this!\' "It will be necessary" is "nado budet". "Newcomers" is built on "new".'),
+    (10, None, '\'Life is full of various losses and gains.\' "Full" has a feminine ending to match "life". "Losses" and "gains" are both plurals.'),
+    (11, None, '\'Some people grieve, while others always rejoice.\' "Some... others" is a pair. "Grieve" comes from "sadness", and "rejoice" from "joy".'),
+    (12, None, '\'But true friends always help in trouble.\' "Friends" is an irregular plural. "In trouble" ends in -e after "in".'),
+    (13, None, '\'The main thing is to understand that this is only the beginning!\' "The main thing" is one word. "Beginning" comes from "to begin".'),
 ]
